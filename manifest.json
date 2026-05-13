@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Kalender Deutschland",
+  "version": "1.0",
+  "description": "Календарь Германии с праздниками, картой и историческим разделом",
+  "default_locale": "de",
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Kalender Deutschland"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://*.tile.openstreetmap.org/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://www.gstatic.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob: https://*.tile.openstreetmap.org"
+  },
+  "background": {
+    "service_worker": "js/background.js"
+  }
+}

@@ -1,0 +1,548 @@
+/* =========================================
+   BASE & RESET
+   ========================================= */
+* {
+  font-family: 'DM Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.app-root {
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* =========================================
+   THEMES (DARK / LIGHT)
+   ========================================= */
+.app-root.dark { background: #0f172a; color: #e2e8f0; }
+.app-root.light { background: #C2FFE3; color: #1e293b; }
+
+.dark .month-card { background: #1e293b; border: 2px solid #475569; }
+.light .month-card { background: #fff; border: 2px solid #64748b; color: #1e293b; }
+
+.dark .modal-content { background: #1e293b; border: 1px solid #334155; }
+.light .modal-content { background: #fff; border: 1px solid #e2e8f0; }
+
+.dark select, .dark input, .dark textarea { background: #1e293b; border: 2px solid #475569; color: #e2e8f0; border-radius: 6px; padding: 6px 10px; }
+.light select, .light input, .light textarea { background: #fff; border: 2px solid #cbd5e1; color: #1e293b; border-radius: 6px; padding: 6px 10px; font-weight: 600; }
+
+.dark .tooltip-box { background: #334155; color: #e2e8f0; box-shadow: 0 2px 8px rgba(0,0,0,0.4); }
+.light .tooltip-box { background: #1e293b; color: #f8fafc; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+
+.dark #zodiacDropdown { background: #1e293b; border: 1px solid #475569; box-shadow: 0 8px 24px rgba(0,0,0,0.5); }
+.light #zodiacDropdown { background: #fff; border: 1px solid #cbd5e1; box-shadow: 0 8px 24px rgba(0,0,0,0.15); }
+
+.dark .history-block { background: rgba(30,41,59,0.5); border: 1px solid #334155; }
+.light .history-block { background: rgba(255,255,255,0.6); border: 1px solid #cbd5e1; }
+
+/* =========================================
+   HEADER & CONTROLS (COMPACT)
+   ========================================= */
+#header {
+  width: 100% !important;
+  max-width: 100% !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  padding: 6px 16px !important;
+}
+#header > div:first-child { flex-shrink: 0; }
+
+.header-controls {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-end !important;
+  gap: 4px !important;
+  margin-left: auto !important;
+}
+.header-buttons {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  flex-wrap: wrap !important;
+}
+
+/* =========================================
+   FILTERS & STATS (COMPACT)
+   ========================================= */
+#filters {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 4px !important;
+  align-items: center !important;
+  padding: 2px 16px !important;
+}
+#zodiacWrap { display: inline-block !important; }
+
+#globalStats {
+  text-align: right !important;
+  min-width: 220px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-end !important;
+  gap: 2px !important;
+  font-size: 11px !important;
+  opacity: 0.9;
+}
+#globalStats span {
+  display: block !important;
+  white-space: nowrap !important;
+}
+
+/* =========================================
+   HISTORY BLOCK (2 COLUMNS, COMPACT)
+   ========================================= */
+.history-block {
+  border-radius: 8px;
+  padding: 6px 16px !important;
+  margin-bottom: 4px !important;
+  transition: all 0.3s;
+}
+#historyBlock .grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 8px !important;
+}
+
+/* =========================================
+   CALENDAR GRID & MONTH CARDS (COMPACT 4x3)
+   ========================================= */
+#calendarGrid {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  gap: 6px !important;
+  padding: 4px 10px !important;
+  align-items: start !important;
+}
+
+.month-card {
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  font-weight: 600;
+  min-width: 0;
+  width: 100%;
+  height: 180px !important;
+  max-height: 180px !important;
+  min-height: 180px !important;
+  padding: 5px !important;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.month-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+.month-card .font-semibold {
+  font-size: 11px !important;
+  margin-bottom: 3px !important;
+}
+
+.month-grid {
+  display: grid !important;
+  grid-template-columns: 14px repeat(7, 1fr) !important;
+  gap: 1px !important;
+  flex-grow: 1;
+}
+
+/* =========================================
+   DAY CELLS & HIGHLIGHTS (COMPACT)
+   ========================================= */
+.day-cell {
+  width: 100%;
+  height: 15px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  font-size: 8px !important;
+  cursor: default;
+  position: relative;
+}
+
+.day-cell.weekend { background: #ff1744; color: #fff; }
+.day-cell.national { background: #ffd600; color: #000; }
+.day-cell.regional { background: #ff9100; color: #fff; }
+.day-cell.church { background: #475569; color: #fff; }
+.day-cell.user-event { background: #1e88e5; color: #fff; }
+.day-cell.today { outline: 2px solid #6366f1; outline-offset: -1px; }
+.day-cell.zodiac-highlight {
+  background: #818cf8 !important;
+  color: #fff !important;
+  box-shadow: 0 0 8px rgba(129,140,248,0.6) !important;
+  font-weight: 700 !important;
+  z-index: 10 !important;
+}
+
+.detail-day { width: 36px; height: 34px; font-size: 13px; }
+.wk-num { font-size: 7px !important; color: #94a3b8; width: 14px; text-align: center; font-weight: bold; line-height: 15px !important; }
+.lh-26 { line-height: 26px !important; }
+.lh-34 { line-height: 34px !important; }
+
+/* =========================================
+   MODALS (STANDARD & FULLSCREEN)
+   ========================================= */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 9999;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(0,0,0,0.7); backdrop-filter: blur(4px);
+  animation: fadeIn 0.2s;
+  cursor: pointer;
+}
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+/* Стандартное модальное окно */
+.modal-content {
+  max-height: 90%; overflow-y: auto;
+  border-radius: 12px; padding: 24px;
+  width: 95%; max-width: 800px;
+  animation: slideUp 0.25s;
+  position: relative;
+}
+@keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+/* Полноэкранное окно месяца */
+.modal-content-full {
+  width: 90vw; height: 90vh;
+  background: #1e293b;
+  border-radius: 16px;
+  padding: 30px 40px;
+  position: relative;
+  overflow-y: auto;
+  display: flex; flex-direction: column;
+  color: #e2e8f0;
+}
+
+/* Кнопка закрытия (универсальная) */
+.modal-close-btn {
+  position: absolute; top: 12px; right: 12px;
+  width: 36px; height: 36px;
+  background: rgba(239, 68, 68, 0.9);
+  border: none; border-radius: 8px;
+  color: #fff; font-size: 20px; font-weight: bold;
+  cursor: pointer; z-index: 10000;
+  display: flex; align-items: center; justify-content: center;
+  transition: transform 0.2s, background 0.2s;
+}
+.modal-close-btn:hover { transform: scale(1.1); background: #dc2626; }
+
+/* Статистика в модальном окне */
+.modal-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px; margin-bottom: 30px;
+  flex-shrink: 0;
+}
+.stat-box {
+  background: #0f172a; padding: 16px;
+  border-radius: 10px; text-align: center;
+  border: 1px solid #334155;
+}
+.stat-val { font-size: 36px; font-weight: 800; color: #6366f1; line-height: 1.1; }
+.stat-lbl { font-size: 14px; color: #94a3b8; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px; }
+
+/* Сетка календаря внутри модалки */
+.modal-grid-large {
+  display: grid;
+  grid-template-columns: 40px repeat(7, 1fr);
+  gap: 4px; flex-grow: 1;
+}
+.modal-grid-large .day-cell-lg {
+  width: 100%; height: 50px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 6px; font-size: 16px; font-weight: 600;
+  cursor: default; position: relative;
+}
+.modal-grid-large .wk-num-lg {
+  font-size: 12px; color: #64748b;
+  display: flex; align-items: center; justify-content: center;
+}
+.modal-grid-large .day-header {
+  text-align: center; font-size: 13px; font-weight: 700;
+  color: #94a3b8; padding: 8px 0;
+}
+
+/* =========================================
+   TOOLTIPS & ZODIAC DROPDOWN
+   ========================================= */
+.tooltip-wrap { position: relative; }
+.tooltip-box {
+  display: none; position: absolute; z-index: 999;
+  bottom: calc(100% + 6px); left: 50%; transform: translateX(-50%);
+  padding: 6px 10px; border-radius: 6px; font-size: 11px;
+  white-space: nowrap; pointer-events: none;
+}
+.tooltip-wrap:hover .tooltip-box { display: block; }
+
+#zodiacDropdown {
+  position: absolute; left: 0; top: calc(100% + 6px); z-index: 10000;
+  display: none; padding: 12px; border-radius: 10px; gap: 6px;
+  grid-template-columns: repeat(6, 40px);
+  background: #1e293b;
+  border: 1px solid #475569;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+  pointer-events: auto !important;
+}
+#zodiacDropdown.open { display: grid; }
+#zodiacDropdown .zi {
+  width: 40px; height: 40px; display: flex; align-items: center;
+  justify-content: center; font-size: 24px; border-radius: 8px;
+  cursor: pointer; transition: all 0.15s;
+  background: rgba(129,140,248,0.1);
+  pointer-events: auto !important;
+}
+#zodiacDropdown .zi:hover {
+  background: rgba(129,140,248,0.3);
+  transform: scale(1.15);
+}
+
+#zodiacWrap {
+  z-index: 9999 !important;
+  position: relative !important;
+  pointer-events: auto !important;
+}
+#zodiacBtn, #zodiacBtn * {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  position: relative;
+  z-index: 10001 !important;
+}
+#zodiacBtn.active {
+  background: #6366f1 !important;
+  color: #fff !important;
+  border-color: #6366f1 !important;
+}
+#zodiacIconLarge.hidden { display: none; }
+
+/* =========================================
+   FORMS & BUTTONS
+   ========================================= */
+select, input, textarea { outline: none; font-weight: 500; }
+
+.btn-primary {
+  background: #6366f1; color: #fff; border: none;
+  padding: 7px 16px; border-radius: 6px; cursor: pointer;
+  font-weight: 600; font-size: 13px; transition: background 0.2s;
+}
+.btn-primary:hover { background: #4f46e5; }
+
+.btn-secondary {
+  border: 1px solid #6366f1; color: #6366f1; background: transparent;
+  padding: 7px 16px; border-radius: 6px; cursor: pointer;
+  font-weight: 600; font-size: 13px; transition: all 0.2s;
+}
+.btn-secondary:hover { background: #6366f1; color: #fff; }
+
+.footer-atlas-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer-action-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+#btnOpenAtlas,
+#btnOpenHistory {
+  flex: 0 0 auto;
+}
+
+.brand-milleran {
+  margin-left: auto;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  color: #6366f1;
+  font-family: "Bodoni MT Black", "Bodoni 72 Smallcaps", "Bodoni MT", Georgia, serif;
+  font-size: 34px;
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: lowercase;
+  user-select: none;
+}
+
+.filter-chip {
+  padding: 4px 10px; border-radius: 20px; font-size: 11px;
+  cursor: pointer; transition: all 0.2s; border: 1px solid #6366f1;
+  user-select: none;
+}
+.dark .filter-chip { color: #e2e8f0; border-color: #818cf8; }
+.light .filter-chip { color: #1e293b; border-color: #4f46e5; }
+.filter-chip.active { background: #6366f1; color: #fff; border-color: #6366f1; }
+
+/* =========================================
+   UTILITIES & ICONS
+   ========================================= */
+.c-red { color: #ef5350 !important; }
+.c-gray { color: #94a3b8 !important; }
+.tt-moon { position: absolute; bottom: 1px; right: 2px; font-size: 7px; pointer-events: none; opacity: 0.8; }
+.tt-moon-lg { position: absolute; bottom: 2px; right: 3px; font-size: 9px; pointer-events: none; opacity: 0.8; }
+.c-pointer { cursor: pointer !important; }
+.c-default { cursor: default !important; }
+
+.filter-dot-national { background: #fff9c4 !important; }
+.filter-dot-regional { background: #ffe0b2 !important; }
+.filter-dot-church { background: #e0e0e0 !important; }
+.filter-dot-user { background: #bbdefb !important; }
+.filter-dot-moon { background: #94a3b8 !important; }
+
+.w-\[18px\] { width: 18px !important; } .h-\[18px\] { height: 18px !important; }
+.w-\[16px\] { width: 16px !important; } .h-\[16px\] { height: 16px !important; }
+.w-\[14px\] { width: 14px !important; } .h-\[14px\] { height: 14px !important; }
+.w-\[20px\] { width: 20px !important; } .h-\[20px\] { height: 20px !important; }
+.bg-inherit { background: inherit !important; }
+.border-slate-600 { border-color: #475569 !important; }
+.modal-grid-7 { display: grid !important; grid-template-columns: 28px repeat(7, 1fr) !important; }
+
+/* =========================================
+   SCROLLBAR & PRINT
+   ========================================= */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #475569; border-radius: 3px; }
+
+@media print {
+  header, .px-4.py-2.flex, #modalContainer, #historyBlock { display: none !important; }
+  body, .app-root { overflow: visible !important; height: auto !important; background: white !important; color: black !important; }
+  .month-card { break-inside: avoid; border: 1px solid #ccc !important; box-shadow: none !important; margin-bottom: 20px; }
+  .day-cell { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+
+/* =========================================
+   RESPONSIVE
+   ========================================= */
+@media (max-height: 900px) {
+  .month-card { height: 160px !important; max-height: 160px !important; min-height: 160px !important; }
+  .day-cell { height: 14px !important; font-size: 7px !important; }
+  .wk-num { line-height: 14px !important; }
+}
+@media (max-height: 800px) {
+  .month-card { height: 150px !important; max-height: 150px !important; min-height: 150px !important; }
+  .day-cell { height: 13px !important; font-size: 7px !important; }
+  .wk-num { width: 12px; line-height: 13px !important; }
+}
+@media (max-width: 1200px) {
+  #calendarGrid { grid-template-columns: repeat(3, 1fr) !important; }
+}
+@media (max-width: 900px) {
+  #calendarGrid { grid-template-columns: repeat(2, 1fr) !important; }
+  #header { flex-direction: column !important; align-items: stretch !important; gap: 8px !important; }
+  .header-controls { align-items: flex-start !important; margin-left: 0 !important; }
+  #globalStats { text-align: left !important; align-items: flex-start !important; }
+  #historyBlock .grid { grid-template-columns: 1fr !important; }
+  .modal-content-full { width: 98vw; height: 98vh; padding: 20px; }
+  .modal-stats-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .stat-val { font-size: 28px; }
+  .modal-grid-large .day-cell-lg { height: 40px; font-size: 14px; }
+  .footer-atlas-row {
+    flex-direction: column;
+    align-items: center;
+  }
+  #btnOpenAtlas,
+  #btnOpenHistory,
+  .brand-milleran {
+    margin-left: 0;
+  }
+  .brand-milleran {
+    min-height: 34px;
+    font-size: 26px;
+  }
+}
+/* === ИКОНКИ В МОДАЛКЕ СОБЫТИЙ === */
+#iconPicker {
+  display: grid !important;
+  grid-template-columns: repeat(5, 1fr) !important; /* 2 ряда по 5 иконок */
+  gap: 14px !important;
+  padding: 16px !important;
+  background: rgba(255,255,255,0.05) !important;
+  border-radius: 12px !important;
+  margin-top: 8px !important;
+  pointer-events: auto !important;
+}
+
+#iconPicker .icon-opt {
+  font-size: 34px !important;          /* Крупные иконки */
+  width: 56px !important;
+  height: 56px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  border-radius: 12px !important;
+  transition: all 0.2s ease !important;
+  user-select: none !important;
+  pointer-events: auto !important;     /* Гарантируем кликабельность */
+  background: transparent !important;
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+#iconPicker .icon-opt:hover {
+  background: rgba(255,255,255,0.15) !important;
+  transform: scale(1.15);
+}
+
+#iconPicker .icon-opt.ring-2 {
+  background: rgba(99, 102, 241, 0.25) !important;
+  box-shadow: 0 0 0 3px #6366f1 !important;
+}
+/* Явная кнопка удаления в модалке событий */
+#btnDeleteEvent {
+  margin-right: auto !important; /* Сдвигаем влево */
+  background: rgba(239, 68, 68, 0.15) !important;
+  border-color: #ef4444 !important;
+  color: #ef4444 !important;
+  font-weight: 700 !important;
+  padding: 8px 14px !important;
+  transition: all 0.2s;
+}
+#btnDeleteEvent:hover {
+  background: #ef4444 !important;
+  color: #fff !important;
+  transform: translateY(-1px);
+}
+/* === HIGHLIGHT FOR JUMP-TO-DATE === */
+.day-cell.date-highlight,
+.day-cell-lg.date-highlight {
+  animation: pulse-highlight 2s ease-in-out !important;
+  box-shadow: 0 0 0 3px #6366f1, 0 0 20px rgba(99,102,241,0.6) !important;
+  z-index: 20 !important;
+  position: relative !important;
+}
+
+.day-cell.date-highlight::after,
+.day-cell-lg.date-highlight::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border: 2px solid #6366f1;
+  border-radius: 6px;
+  animation: pulse-ring 2s ease-out;
+  pointer-events: none;
+}
+
+@keyframes pulse-highlight {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(99,102,241,0.4); }
+  50% { transform: scale(1.15); box-shadow: 0 0 0 8px rgba(99,102,241,0.2); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(99,102,241,0); }
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2); opacity: 0; }
+}

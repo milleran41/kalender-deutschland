@@ -1,0 +1,18 @@
+# Temporary local edit helpers
+edit*.py
+index_edit*.py
+diagnostic.js
+
+# Generated download reports
+assets/history/download-report.json
+assets/history/curated-download-report.json
+assets/history/symbols-download-report.json
+
+# Local backup / old standalone file
+календарь.html
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.log
+Текстовый документ.txt

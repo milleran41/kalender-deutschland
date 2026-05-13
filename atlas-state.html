@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de" translate="no">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bundesland</title>
+  <link rel="stylesheet" href="css/leaflet.css">
+  <link rel="stylesheet" href="css/atlas.css">
+</head>
+<body class="atlas-state-page">
+  <main id="stateWindow">
+    <section id="stateMapWrap">
+      <div id="stateMap"></div>
+    </section>
+    <aside id="stateInfoPanel">
+      <button id="btnStateClose" type="button" title="Close">×</button>
+      <p id="stateWindowSubtitle"></p>
+      <h1 id="stateWindowTitle">Bundesland</h1>
+      <div class="state-stat-grid">
+        <div><span id="stateCapitalLabel">Capital</span><strong id="stateCapital"></strong></div>
+        <div><span id="stateAreaLabel">Area</span><strong id="stateArea"></strong></div>
+        <div><span id="statePopulationLabel">Population</span><strong id="statePopulation"></strong></div>
+      </div>
+      <div class="info-card">
+        <h3 id="stateOverviewHeading"></h3>
+        <p id="stateDescription"></p>
+      </div>
+      <div class="info-card">
+        <h3 id="stateFactsHeading"></h3>
+        <ul id="stateFacts"></ul>
+      </div>
+      <p id="stateDataSource"></p>
+    </aside>
+  </main>
+
+  <script src="js/leaflet.js"></script>
+  <script src="js/atlas-data.js"></script>
+  <script src="js/atlas-state.js"></script>
+</body>
+</html>
