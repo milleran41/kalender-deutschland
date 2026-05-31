@@ -1,0 +1,65 @@
+{
+  "date": "07-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1867-kaethe-kollwitz-born",
+    "year": 1867,
+    "title": {
+      "ru": "Родилась Кете Кольвиц",
+      "de": "Kaethe Kollwitz wird geboren",
+      "en": "Kaethe Kollwitz is born"
+    },
+    "description": {
+      "ru": "8 июля 1867 года в Кёнигсберге родилась художница и скульптор Кете Кольвиц. В её работах часто звучали темы бедности, войны, материнства и человеческого страдания.",
+      "de": "Am 8. Juli 1867 wurde die Kuenstlerin und Bildhauerin Kaethe Kollwitz in Koenigsberg geboren. In ihren Werken erschienen oft Armut, Krieg, Mutterschaft und menschliches Leid.",
+      "en": "On 8 July 1867, artist and sculptor Kaethe Kollwitz was born in Koenigsberg. Her works often addressed poverty, war, motherhood and human suffering."
+    },
+    "importance": {
+      "ru": "Кольвиц важна как голос социального искусства Германии конца XIX и первой половины XX века.",
+      "de": "Kollwitz ist wichtig als Stimme sozialer Kunst in Deutschland vom spaeten 19. bis zur ersten Haelfte des 20. Jahrhunderts.",
+      "en": "Kollwitz is important as a voice of social art in Germany from the late 19th to the first half of the 20th century."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "kollwitz-art-against-war",
+        "year": 1924,
+        "title": {
+          "ru": "Искусство против войны",
+          "de": "Kunst gegen Krieg",
+          "en": "Art against war"
+        },
+        "description": {
+          "ru": "После Первой мировой войны Кольвиц создавала работы, где боль потерь была показана без героической красивости. Её графика стала сильным антивоенным высказыванием.",
+          "de": "Nach dem Ersten Weltkrieg schuf Kollwitz Werke, in denen der Schmerz des Verlustes ohne heldische Schoenfaerbung gezeigt wurde. Ihre Grafik wurde zu einer starken Antikriegsaussage.",
+          "en": "After the First World War, Kollwitz created works showing the pain of loss without heroic gloss. Her prints became a powerful anti-war statement."
+        },
+        "importance": {
+          "ru": "Её искусство помогает школьнику понять, что история войн — это ещё и история семей и обычных людей.",
+          "de": "Ihre Kunst hilft Schuelern zu verstehen, dass Kriegsgeschichte auch Familien und gewoehnliche Menschen betrifft.",
+          "en": "Her art helps students understand that the history of war is also the history of families and ordinary people."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Берлине есть улицы, площади и памятные места, связанные с именем Кете Кольвиц.",
+    "de": "In Berlin gibt es Strassen, Plaetze und Gedenkorte, die mit Kaethe Kollwitz verbunden sind.",
+    "en": "Berlin has streets, squares and memorial sites connected with Kaethe Kollwitz."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Kaethe Kollwitz",
+      "url": "https://www.britannica.com/biography/Kathe-Kollwitz"
+    },
+    {
+      "label": "Kaethe Kollwitz Museum Cologne: Biography",
+      "url": "https://www.kollwitz.de/en/biography"
+    }
+  ]
+}

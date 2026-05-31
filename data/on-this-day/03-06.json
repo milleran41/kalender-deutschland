@@ -1,0 +1,65 @@
+{
+  "date": "03-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1787-joseph-von-fraunhofer-born",
+    "year": 1787,
+    "title": {
+      "ru": "Родился Йозеф фон Фраунгофер",
+      "de": "Joseph von Fraunhofer wird geboren",
+      "en": "Joseph von Fraunhofer is born"
+    },
+    "description": {
+      "ru": "6 марта 1787 года в Штраубинге родился Йозеф фон Фраунгофер. Он стал одним из важных исследователей оптики и солнечного спектра.",
+      "de": "Am 6. Maerz 1787 wurde Joseph von Fraunhofer in Straubing geboren. Er wurde zu einem wichtigen Forscher der Optik und des Sonnenspektrums.",
+      "en": "On 6 March 1787, Joseph von Fraunhofer was born in Straubing. He became an important researcher in optics and the solar spectrum."
+    },
+    "importance": {
+      "ru": "Фраунгофер соединяет науку, точное приборостроение и баварскую промышленную традицию.",
+      "de": "Fraunhofer verbindet Wissenschaft, praezisen Instrumentenbau und bayerische Industrietradition.",
+      "en": "Fraunhofer connects science, precision instrument making and Bavarian industrial tradition."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "fraunhofer-lines",
+        "year": 1814,
+        "title": {
+          "ru": "Линии Фраунгофера",
+          "de": "Fraunhoferlinien",
+          "en": "Fraunhofer lines"
+        },
+        "description": {
+          "ru": "Фраунгофер подробно изучал тёмные линии в солнечном спектре. Позднее такие наблюдения помогли понять состав звёзд и стали важной частью спектроскопии.",
+          "de": "Fraunhofer untersuchte die dunklen Linien im Sonnenspektrum genau. Spaeter halfen solche Beobachtungen, die Zusammensetzung von Sternen zu verstehen, und wurden wichtig fuer die Spektroskopie.",
+          "en": "Fraunhofer studied the dark lines in the solar spectrum in detail. Later, such observations helped scientists understand the composition of stars and became central to spectroscopy."
+        },
+        "importance": {
+          "ru": "Это пример того, как аккуратное измерение света открыло дорогу к исследованию далёкого космоса.",
+          "de": "Das ist ein Beispiel dafuer, wie genaue Messung von Licht den Weg zur Erforschung des fernen Kosmos oeffnete.",
+          "en": "It is an example of careful light measurement opening the way to the study of distant space."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Крупнейшее немецкое общество прикладных исследований носит имя Фраунгофера.",
+    "de": "Die groesste deutsche Organisation fuer angewandte Forschung traegt Fraunhofers Namen.",
+    "en": "Germany's largest organization for applied research bears Fraunhofer's name."
+  },
+  "sources": [
+    {
+      "label": "Fraunhofer-Gesellschaft: Joseph von Fraunhofer",
+      "url": "https://www.fraunhofer.de/de/ueber-fraunhofer/profil-struktur/geschichte-fraunhofer/joseph-von-fraunhofer.html"
+    },
+    {
+      "label": "Encyclopedia Americana: Fraunhofer",
+      "url": "https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fraunhofer,_Joseph_von"
+    }
+  ]
+}

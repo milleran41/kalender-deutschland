@@ -1,0 +1,65 @@
+{
+  "date": "07-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1877-hermann-hesse-born",
+    "year": 1877,
+    "title": {
+      "ru": "Родился Герман Гессе",
+      "de": "Hermann Hesse wird geboren",
+      "en": "Hermann Hesse is born"
+    },
+    "description": {
+      "ru": "2 июля 1877 года в Кальве в Вюртемберге родился писатель Герман Гессе. Его романы о взрослении, поиске себя и духовном пути стали известны далеко за пределами Германии.",
+      "de": "Am 2. Juli 1877 wurde der Schriftsteller Hermann Hesse in Calw in Wuerttemberg geboren. Seine Romane ueber Erwachsenwerden, Selbstsuche und geistige Wege wurden weit ueber Deutschland hinaus bekannt.",
+      "en": "On 2 July 1877, writer Hermann Hesse was born in Calw, Wuerttemberg. His novels about growing up, self-discovery and spiritual searching became known far beyond Germany."
+    },
+    "importance": {
+      "ru": "Гессе получил Нобелевскую премию по литературе и стал одним из самых читаемых немецкоязычных авторов XX века.",
+      "de": "Hesse erhielt den Nobelpreis fuer Literatur und wurde einer der meistgelesenen deutschsprachigen Autoren des 20. Jahrhunderts.",
+      "en": "Hesse received the Nobel Prize in Literature and became one of the most widely read German-language authors of the 20th century."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "hesse-nobel-literature",
+        "year": 1946,
+        "title": {
+          "ru": "Нобелевская премия по литературе",
+          "de": "Nobelpreis fuer Literatur",
+          "en": "Nobel Prize in Literature"
+        },
+        "description": {
+          "ru": "В 1946 году Гессе получил Нобелевскую премию по литературе. После катастрофы войны его книги читали как разговор о внутренней свободе и личной ответственности.",
+          "de": "1946 erhielt Hesse den Nobelpreis fuer Literatur. Nach der Katastrophe des Krieges wurden seine Buecher als Gespraech ueber innere Freiheit und persoenliche Verantwortung gelesen.",
+          "en": "In 1946, Hesse received the Nobel Prize in Literature. After the catastrophe of war, his books were read as a conversation about inner freedom and personal responsibility."
+        },
+        "importance": {
+          "ru": "Его творчество помогает увидеть Германию не только через события, но и через внутренний мир человека.",
+          "de": "Sein Werk hilft, Deutschland nicht nur durch Ereignisse, sondern auch durch die innere Welt des Menschen zu sehen.",
+          "en": "His work helps show Germany not only through events, but also through the inner life of the individual."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гессе родился в Шварцвальде, но большую часть взрослой жизни провёл в Швейцарии.",
+    "de": "Hesse wurde im Schwarzwald geboren, verbrachte aber einen grossen Teil seines Erwachsenenlebens in der Schweiz.",
+    "en": "Hesse was born in the Black Forest region but spent much of his adult life in Switzerland."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Hermann Hesse",
+      "url": "https://www.britannica.com/biography/Hermann-Hesse"
+    },
+    {
+      "label": "Nobel Prize: Hermann Hesse",
+      "url": "https://www.nobelprize.org/prizes/literature/1946/hesse/facts/"
+    }
+  ]
+}
