@@ -1,0 +1,107 @@
+{
+  "date": "08-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "936-otto-i-crowned-king",
+    "year": 936,
+    "title": {
+      "ru": "Оттон I коронован в Ахене",
+      "de": "Otto I. wird in Aachen gekroent",
+      "en": "Otto I is crowned in Aachen"
+    },
+    "description": {
+      "ru": "7 августа 936 года Оттон I был избран и коронован королём в Ахене. Позже он стал императором и вошёл в историю как Оттон Великий.",
+      "de": "Am 7. August 936 wurde Otto I. in Aachen gewaehlt und gekroent. Spaeter wurde er Kaiser und ging als Otto der Grosse in die Geschichte ein.",
+      "en": "On 7 August 936, Otto I was elected and crowned king in Aachen. He later became emperor and entered history as Otto the Great."
+    },
+    "importance": {
+      "ru": "Эта дата важна для ранней истории Восточно-Франкского королевства и будущей Священной Римской империи.",
+      "de": "Dieses Datum ist wichtig fuer die fruehe Geschichte des Ostfraenkischen Reiches und des spaeteren Heiligen Roemischen Reiches.",
+      "en": "The date is important for the early history of the East Frankish kingdom and the later Holy Roman Empire."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "aachen-charlemagne-memory",
+        "year": 936,
+        "title": {
+          "ru": "Ахен и память о Карле Великом",
+          "de": "Aachen und die Erinnerung an Karl den Grossen",
+          "en": "Aachen and the memory of Charlemagne"
+        },
+        "description": {
+          "ru": "Коронация в Ахене связывала Оттона с наследием Карла Великого. Место церемонии помогало показать преемственность власти и высокий статус нового короля.",
+          "de": "Die Kroenung in Aachen verband Otto mit dem Erbe Karls des Grossen. Der Ort der Zeremonie zeigte Kontinuitaet der Herrschaft und den hohen Anspruch des neuen Koenigs.",
+          "en": "The coronation in Aachen linked Otto with Charlemagne's legacy. The location of the ceremony signaled continuity of rule and the new king's high status."
+        },
+        "importance": {
+          "ru": "Так один город стал точкой, где встречались память, власть и карта средневековой Европы.",
+          "de": "So wurde eine Stadt zu einem Ort, an dem Erinnerung, Herrschaft und die Karte des mittelalterlichen Europa zusammenkamen.",
+          "en": "One city thus became a place where memory, power and the map of medieval Europe met."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "912-otto-the-great",
+        "year": 912,
+        "title": {
+          "ru": "Оттон Великий",
+          "de": "Otto der Grosse",
+          "en": "Otto the Great"
+        },
+        "description": {
+          "ru": "Оттон укрепил королевскую власть, победил венгров в битве на Лехе и в 962 году был коронован императором в Риме. Его правление стало важным этапом формирования средневековой империи.",
+          "de": "Otto staerkte die Koenigsmacht, besiegte die Ungarn in der Schlacht auf dem Lechfeld und wurde 962 in Rom zum Kaiser gekroent. Seine Herrschaft wurde zu einer wichtigen Etappe der mittelalterlichen Reichsbildung.",
+          "en": "Otto strengthened royal power, defeated the Hungarians at the Battle of Lechfeld and was crowned emperor in Rome in 962. His reign became an important stage in the formation of the medieval empire."
+        },
+        "importance": {
+          "ru": "Через Оттона видно, что история Германии начинается задолго до современного государства.",
+          "de": "An Otto wird sichtbar, dass deutsche Geschichte lange vor dem modernen Staat beginnt.",
+          "en": "Otto shows that German history begins long before the modern state."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "936-not-yet-germany",
+        "year": 936,
+        "title": {
+          "ru": "Это ещё не была современная Германия",
+          "de": "Das war noch nicht das moderne Deutschland",
+          "en": "This was not yet modern Germany"
+        },
+        "description": {
+          "ru": "В X веке не существовало Германии в современном смысле. Но королевство Оттона стало одной из важных исторических основ будущей немецкой и центральноевропейской истории.",
+          "de": "Im 10. Jahrhundert gab es Deutschland im modernen Sinn noch nicht. Doch Ottos Reich wurde zu einer wichtigen historischen Grundlage spaeterer deutscher und mitteleuropaeischer Geschichte.",
+          "en": "In the 10th century, Germany did not yet exist in the modern sense. But Otto's kingdom became an important historical foundation for later German and central European history."
+        },
+        "importance": {
+          "ru": "Это помогает аккуратно говорить о ранней истории, не перенося современные границы в Средневековье.",
+          "de": "Das hilft, fruehe Geschichte vorsichtig zu erklaeren, ohne moderne Grenzen ins Mittelalter zu uebertragen.",
+          "en": "This helps explain early history carefully without projecting modern borders into the Middle Ages."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В 962 году Оттон I был коронован императором в Риме, и эта дата часто связывается с началом средневековой имперской традиции.",
+    "de": "Im Jahr 962 wurde Otto I. in Rom zum Kaiser gekroent; dieses Datum wird oft mit dem Beginn der mittelalterlichen Kaisertradition verbunden.",
+    "en": "In 962, Otto I was crowned emperor in Rome, a date often linked with the beginning of the medieval imperial tradition."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Otto I",
+      "url": "https://www.britannica.com/biography/Otto-I"
+    },
+    {
+      "label": "Wissen.de: Die Koenigskroenung Ottos I.",
+      "url": "https://www.wissen.de/lexikon/die-koenigskroenung-ottos-i-am-7-august-936"
+    }
+  ]
+}

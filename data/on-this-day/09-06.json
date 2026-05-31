@@ -1,0 +1,90 @@
+{
+  "date": "09-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1972-munich-massacre-ends",
+    "year": 1972,
+    "title": {
+      "ru": "Трагедия на Олимпиаде в Мюнхене",
+      "de": "Die Tragödie bei den Olympischen Spielen in Muenchen",
+      "en": "The tragedy at the Munich Olympics"
+    },
+    "description": {
+      "ru": "6 сентября 1972 года стало ясно, что захват израильских спортсменов на Олимпиаде в Мюнхене закончился гибелью всех заложников. Теракт потряс ФРГ и весь олимпийский мир.",
+      "de": "Am 6. September 1972 wurde klar, dass die Geiselnahme israelischer Sportler bei den Olympischen Spielen in Muenchen mit dem Tod aller Geiseln endete. Der Anschlag erschuetterte die Bundesrepublik und die olympische Welt.",
+      "en": "On 6 September 1972, it became clear that the hostage-taking of Israeli athletes at the Munich Olympics had ended with the death of all hostages. The attack shocked West Germany and the Olympic world."
+    },
+    "importance": {
+      "ru": "Событие стало поворотным моментом в немецкой и международной дискуссии о безопасности крупных мероприятий.",
+      "de": "Das Ereignis wurde zu einem Wendepunkt in der deutschen und internationalen Debatte ueber die Sicherheit grosser Veranstaltungen.",
+      "en": "The event became a turning point in German and international debates about security at major events."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1972-games-of-peace-and-joy",
+        "year": 1972,
+        "title": {
+          "ru": "«Весёлые игры» и тяжёлая память",
+          "de": "Heitere Spiele und schwere Erinnerung",
+          "en": "Cheerful Games and heavy memory"
+        },
+        "description": {
+          "ru": "Мюнхенская Олимпиада должна была показать другую, мирную и открытую Германию после нацистской Олимпиады 1936 года. Теракт разрушил этот образ и оставил глубокую травму.",
+          "de": "Die Olympischen Spiele in Muenchen sollten nach den NS-Spielen von 1936 ein anderes, friedliches und offenes Deutschland zeigen. Der Anschlag zerstoerte dieses Bild und hinterliess eine tiefe Wunde.",
+          "en": "The Munich Olympics were meant to show a different, peaceful and open Germany after the Nazi Olympics of 1936. The attack shattered that image and left a deep wound."
+        },
+        "importance": {
+          "ru": "Дата показывает, как международный спорт может оказаться связан с политикой, памятью и безопасностью.",
+          "de": "Das Datum zeigt, wie internationaler Sport mit Politik, Erinnerung und Sicherheit verbunden sein kann.",
+          "en": "The date shows how international sport can become tied to politics, memory and security."
+        }
+      }
+    ],
+    "sport": [
+      {
+        "id": "1972-olympic-interruption",
+        "year": 1972,
+        "title": {
+          "ru": "Олимпийские игры были прерваны",
+          "de": "Die Olympischen Spiele wurden unterbrochen",
+          "en": "The Olympic Games were interrupted"
+        },
+        "description": {
+          "ru": "После нападения соревнования временно остановили, а затем продолжили. Решение продолжать Игры стало предметом долгих споров.",
+          "de": "Nach dem Anschlag wurden die Wettbewerbe voruebergehend unterbrochen und spaeter fortgesetzt. Die Entscheidung, die Spiele fortzufuehren, blieb lange umstritten.",
+          "en": "After the attack, competitions were temporarily suspended and later resumed. The decision to continue the Games remained controversial."
+        },
+        "importance": {
+          "ru": "Это один из самых болезненных моментов в истории олимпийского движения.",
+          "de": "Das ist einer der schmerzhaftesten Momente in der Geschichte der olympischen Bewegung.",
+          "en": "It is one of the most painful moments in the history of the Olympic movement."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После трагедии в Мюнхене ФРГ создала специальное антитеррористическое подразделение GSG 9.",
+    "de": "Nach der Tragödie von Muenchen gruendete die Bundesrepublik die Spezialeinheit GSG 9.",
+    "en": "After the Munich tragedy, West Germany created the GSG 9 counterterrorism unit."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Munich Massacre",
+      "url": "https://www.britannica.com/event/Munich-Massacre"
+    },
+    {
+      "label": "History.com: More Israeli hostages killed in Munich",
+      "url": "https://www.history.com/this-day-in-history/September-6/more-israeli-hostages-killed-in-munich"
+    },
+    {
+      "label": "Bundesarchiv: Vom Ende des Olympischen Friedens",
+      "url": "https://www.bundesarchiv.de/nachricht/vom-ende-des-olympischen-friedens/"
+    }
+  ]
+}

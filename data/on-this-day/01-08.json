@@ -1,0 +1,86 @@
+{
+  "date": "01-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-wilson-fourteen-points",
+    "year": 1918,
+    "title": {
+      "ru": "Вильсон представил «14 пунктов»",
+      "de": "Wilson stellt die 14 Punkte vor",
+      "en": "Wilson presents the Fourteen Points"
+    },
+    "description": {
+      "ru": "8 января 1918 года президент США Вудро Вильсон изложил программу мира, известную как «14 пунктов». Позже Германия ссылалась на эти принципы при ожидании условий перемирия и мира.",
+      "de": "Am 8. Januar 1918 stellte US-Praesident Woodrow Wilson sein Friedensprogramm vor, das als 14 Punkte bekannt wurde. Spaeter bezog sich Deutschland auf diese Grundsaetze, als es Waffenstillstands- und Friedensbedingungen erwartete.",
+      "en": "On 8 January 1918, U.S. president Woodrow Wilson presented his peace program known as the Fourteen Points. Germany later referred to these principles when expecting armistice and peace terms."
+    },
+    "importance": {
+      "ru": "Эта дата важна для понимания конца Первой мировой войны, немецких ожиданий и последующих споров о Версале.",
+      "de": "Das Datum ist wichtig, um das Ende des Ersten Weltkriegs, deutsche Erwartungen und spaetere Debatten ueber Versailles zu verstehen.",
+      "en": "The date is important for understanding the end of the First World War, German expectations and later debates about Versailles."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1918-armistice-expectations",
+        "year": 1918,
+        "title": {
+          "ru": "Надежда на «мир без победителей»",
+          "de": "Hoffnung auf einen Frieden ohne Sieger",
+          "en": "Hope for a peace without victors"
+        },
+        "description": {
+          "ru": "В программе Вильсона говорилось об открытой дипломатии, самоопределении и новой международной организации. Для многих немцев это выглядело мягче, чем будущие условия Версальского договора.",
+          "de": "Wilsons Programm sprach von offener Diplomatie, Selbstbestimmung und einer neuen internationalen Organisation. Fuer viele Deutsche klang das milder als die spaeteren Bedingungen des Versailler Vertrags.",
+          "en": "Wilson's program spoke of open diplomacy, self-determination and a new international organization. To many Germans, it sounded milder than the later terms of the Treaty of Versailles."
+        },
+        "importance": {
+          "ru": "Разрыв между ожиданиями и реальным договором стал частью политического кризиса Веймарской республики.",
+          "de": "Die Kluft zwischen Erwartungen und tatsaechlichem Vertrag wurde Teil der politischen Krise der Weimarer Republik.",
+          "en": "The gap between expectations and the actual treaty became part of the Weimar Republic's political crisis."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1918-number-fourteen",
+        "year": 1918,
+        "title": {
+          "ru": "Число стало названием эпохи",
+          "de": "Eine Zahl wird zum Begriff",
+          "en": "A number becomes a concept"
+        },
+        "description": {
+          "ru": "«14 пунктов» запомнились именно как короткая нумерованная программа. Иногда политическая идея становится известной потому, что её удобно пересказать.",
+          "de": "Die 14 Punkte blieben gerade als kurze nummerierte Programmliste im Gedaechtnis. Manchmal wird eine politische Idee bekannt, weil man sie leicht wiedergeben kann.",
+          "en": "The Fourteen Points were remembered as a short numbered program. Sometimes a political idea becomes famous because it is easy to retell."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как форма текста помогает ему войти в историю.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie die Form eines Textes ihm hilft, in die Geschichte einzugehen.",
+          "en": "It is a good example of how the form of a text helps it enter history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Последний из 14 пунктов предлагал создать международную организацию, которая стала предшественницей идеи Лиги Наций.",
+    "de": "Der letzte der 14 Punkte schlug eine internationale Organisation vor, aus der die Idee des Voelkerbundes hervorging.",
+    "en": "The last of the Fourteen Points proposed an international organization, leading to the idea of the League of Nations."
+  },
+  "sources": [
+    {
+      "label": "National Archives: President Wilson's Fourteen Points",
+      "url": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points"
+    },
+    {
+      "label": "LeMO: 14-Punkte-Programm",
+      "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/14-punkte-programm"
+    }
+  ]
+}
