@@ -1,0 +1,65 @@
+{
+  "date": "02-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1829-levi-strauss-born",
+    "year": 1829,
+    "title": {
+      "ru": "Родился Ливай Страусс",
+      "de": "Levi Strauss wird geboren",
+      "en": "Levi Strauss is born"
+    },
+    "description": {
+      "ru": "26 февраля 1829 года в баварском Буттенхайме родился Ливай Страусс. Позднее он эмигрировал в США и стал основателем компании, связанной с историей джинсов.",
+      "de": "Am 26. Februar 1829 wurde Levi Strauss im bayerischen Buttenheim geboren. Spaeter wanderte er in die USA aus und gruendete ein Unternehmen, das mit der Geschichte der Jeans verbunden ist.",
+      "en": "On 26 February 1829, Levi Strauss was born in Buttenheim, Bavaria. He later emigrated to the United States and founded a company linked with the history of blue jeans."
+    },
+    "importance": {
+      "ru": "Его история показывает, как немецкая эмиграция стала частью мировой повседневной культуры.",
+      "de": "Seine Geschichte zeigt, wie deutsche Auswanderung Teil der weltweiten Alltagskultur wurde.",
+      "en": "His story shows how German emigration became part of global everyday culture."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "blue-jeans-from-bavarian-emigrant",
+        "year": 1873,
+        "title": {
+          "ru": "Баварский след в истории джинсов",
+          "de": "Bayerische Spur in der Geschichte der Jeans",
+          "en": "A Bavarian trace in the history of jeans"
+        },
+        "description": {
+          "ru": "Джинсы часто воспринимают как американский символ, но один из главных людей в их истории родился в маленьком городке во Франконии. Это забавная связь Баварии с одеждой, которую носят во всём мире.",
+          "de": "Jeans gelten oft als amerikanisches Symbol, doch eine der wichtigsten Personen ihrer Geschichte wurde in einem kleinen Ort in Franken geboren. Das ist eine kuriose Verbindung Bayerns mit Kleidung, die weltweit getragen wird.",
+          "en": "Jeans are often seen as an American symbol, yet one of the key people in their history was born in a small Franconian town. It is a curious link between Bavaria and clothing worn worldwide."
+        },
+        "importance": {
+          "ru": "Такой факт делает историю Германии ближе к повседневной жизни.",
+          "de": "Ein solcher Fakt bringt deutsche Geschichte naeher an den Alltag.",
+          "en": "This kind of fact brings German history closer to everyday life."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Буттенхайме работает музей Ливая Страусса.",
+    "de": "In Buttenheim gibt es ein Levi-Strauss-Museum.",
+    "en": "Buttenheim has a Levi Strauss Museum."
+  },
+  "sources": [
+    {
+      "label": "Levi Strauss & Co.: The Story of Levi Strauss",
+      "url": "https://www.levistrauss.com/2013/03/14/the-story-of-levi-strauss/"
+    },
+    {
+      "label": "Levi Strauss & Co.: History",
+      "url": "https://www.levistrauss.com/who-we-are/history/"
+    }
+  ]
+}

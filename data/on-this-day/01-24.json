@@ -1,0 +1,86 @@
+{
+  "date": "01-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1712-frederick-the-great-born",
+    "year": 1712,
+    "title": {
+      "ru": "Родился Фридрих Великий",
+      "de": "Friedrich der Grosse wird geboren",
+      "en": "Frederick the Great is born"
+    },
+    "description": {
+      "ru": "24 января 1712 года в Берлине родился Фридрих II Прусский, известный как Фридрих Великий. При нём Пруссия стала одной из главных европейских держав.",
+      "de": "Am 24. Januar 1712 wurde Friedrich II. von Preussen, bekannt als Friedrich der Grosse, in Berlin geboren. Unter ihm wurde Preussen zu einer der wichtigsten europaeischen Maechte.",
+      "en": "On 24 January 1712, Frederick II of Prussia, known as Frederick the Great, was born in Berlin. Under him, Prussia became one of Europe's major powers."
+    },
+    "importance": {
+      "ru": "Фридрих важен для понимания Пруссии, военной истории и немецкого Просвещения XVIII века.",
+      "de": "Friedrich ist wichtig fuer das Verstaendnis Preussens, der Militaergeschichte und der deutschen Aufklaerung des 18. Jahrhunderts.",
+      "en": "Frederick is important for understanding Prussia, military history and the German Enlightenment of the 18th century."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "frederick-prussia-rise",
+        "year": 1740,
+        "title": {
+          "ru": "Пруссия усиливается",
+          "de": "Preussen gewinnt an Macht",
+          "en": "Prussia grows stronger"
+        },
+        "description": {
+          "ru": "Став королём, Фридрих вёл войны, расширял влияние Пруссии и строил сильную государственную систему. Его политика сделала Берлин и Потсдам важными центрами власти.",
+          "de": "Als Koenig fuehrte Friedrich Kriege, erweiterte den Einfluss Preussens und baute einen starken Staatsapparat aus. Seine Politik machte Berlin und Potsdam zu wichtigen Machtzentren.",
+          "en": "As king, Frederick fought wars, expanded Prussia's influence and built a strong state system. His policies made Berlin and Potsdam important centers of power."
+        },
+        "importance": {
+          "ru": "Без Пруссии трудно понять дальнейший путь к объединению Германии.",
+          "de": "Ohne Preussen ist der spaetere Weg zur deutschen Einigung schwer zu verstehen.",
+          "en": "Without Prussia, the later road to German unification is hard to understand."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "frederick-sanssouci",
+        "year": 1747,
+        "title": {
+          "ru": "Сан-Суси и придворная культура",
+          "de": "Sanssouci und Hofkultur",
+          "en": "Sanssouci and court culture"
+        },
+        "description": {
+          "ru": "Фридрих связан с дворцом Сан-Суси в Потсдаме, музыкой, философией и перепиской с мыслителями Просвещения. Его образ сложнее, чем просто образ военного короля.",
+          "de": "Friedrich ist mit Schloss Sanssouci in Potsdam, Musik, Philosophie und dem Austausch mit Denkern der Aufklaerung verbunden. Sein Bild ist komplexer als das eines reinen Kriegskoenigs.",
+          "en": "Frederick is linked with Sanssouci Palace in Potsdam, music, philosophy and exchanges with Enlightenment thinkers. His image is more complex than that of a purely military king."
+        },
+        "importance": {
+          "ru": "Это показывает, как политика и культура в XVIII веке часто существовали рядом.",
+          "de": "Das zeigt, wie Politik und Kultur im 18. Jahrhundert oft eng beieinander lagen.",
+          "en": "It shows how politics and culture often stood close together in the 18th century."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фридрих Великий играл на флейте и сам сочинял музыку.",
+    "de": "Friedrich der Grosse spielte Floete und komponierte selbst Musik.",
+    "en": "Frederick the Great played the flute and composed music himself."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Frederick II",
+      "url": "https://www.britannica.com/biography/Frederick-II-king-of-Prussia"
+    },
+    {
+      "label": "Britannica Kids: Frederick the Great",
+      "url": "https://kids.britannica.com/kids/article/Frederick-the-Great/353150"
+    }
+  ]
+}

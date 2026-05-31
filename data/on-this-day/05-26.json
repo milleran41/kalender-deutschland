@@ -1,0 +1,90 @@
+{
+  "date": "05-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1938-volkswagen-plant-cornerstone",
+    "year": 1938,
+    "title": {
+      "ru": "Заложен завод Volkswagen",
+      "de": "Grundsteinlegung des Volkswagenwerks",
+      "en": "Foundation stone laid for the Volkswagen plant"
+    },
+    "description": {
+      "ru": "26 мая 1938 года у Фаллерслебена был заложен первый камень завода Volkswagen. Вокруг предприятия возник город, который после войны получил имя Вольфсбург.",
+      "de": "Am 26. Mai 1938 wurde bei Fallersleben der Grundstein des Volkswagenwerks gelegt. Um das Werk entstand eine Stadt, die nach dem Krieg den Namen Wolfsburg erhielt.",
+      "en": "On 26 May 1938, the foundation stone of the Volkswagen plant was laid near Fallersleben. A town grew around the factory and was renamed Wolfsburg after the war."
+    },
+    "importance": {
+      "ru": "Это важная дата немецкой автомобильной истории, но её происхождение связано с нацистской пропагандой и принудительным трудом военного времени.",
+      "de": "Das ist ein wichtiges Datum der deutschen Automobilgeschichte, doch sein Ursprung ist mit NS-Propaganda und Zwangsarbeit im Krieg verbunden.",
+      "en": "It is an important date in German automotive history, but its origin is tied to Nazi propaganda and wartime forced labour."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "volkswagen-industrial-city",
+        "year": 1938,
+        "title": {
+          "ru": "Автомобильный город",
+          "de": "Eine Autostadt entsteht",
+          "en": "A car city emerges"
+        },
+        "description": {
+          "ru": "Будущий Вольфсбург был построен как город при заводе. После 1945 года он стал одним из самых известных промышленных центров Нижней Саксонии.",
+          "de": "Das spaetere Wolfsburg wurde als Stadt am Werk geplant. Nach 1945 wurde es zu einem der bekanntesten Industriezentren Niedersachsens.",
+          "en": "The future Wolfsburg was planned as a town beside the factory. After 1945, it became one of Lower Saxony's best-known industrial centers."
+        },
+        "importance": {
+          "ru": "История Вольфсбурга показывает, как промышленность может создать новый город.",
+          "de": "Die Geschichte Wolfsburgs zeigt, wie Industrie eine neue Stadt entstehen lassen kann.",
+          "en": "Wolfsburg's history shows how industry can create a new city."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "volkswagen-forced-labour-memory",
+        "year": 1942,
+        "title": {
+          "ru": "Память о принудительном труде",
+          "de": "Erinnerung an Zwangsarbeit",
+          "en": "Memory of forced labour"
+        },
+        "description": {
+          "ru": "Во время войны на заводе использовали принудительный труд. Сегодня эта часть истории отражена в местах памяти и исследованиях компании.",
+          "de": "Waehrend des Krieges wurde im Werk Zwangsarbeit eingesetzt. Heute wird dieser Teil der Geschichte in Gedenkorten und Forschung aufgearbeitet.",
+          "en": "During the war, forced labour was used at the plant. Today this part of the history is addressed through memorial sites and research."
+        },
+        "importance": {
+          "ru": "Так промышленная история остаётся честной, а не только историей успеха.",
+          "de": "So bleibt Industriegeschichte ehrlich und wird nicht nur zur Erfolgsgeschichte.",
+          "en": "This keeps industrial history honest, rather than only a success story."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Город Вольфсбург получил своё нынешнее название 25 мая 1945 года.",
+    "de": "Die Stadt Wolfsburg erhielt ihren heutigen Namen am 25. Mai 1945.",
+    "en": "The city of Wolfsburg received its current name on 25 May 1945."
+  },
+  "sources": [
+    {
+      "label": "Volkswagen Group: Chronicle 1937-1945",
+      "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1937-to-1945-founding-of-the-company-and-integration-into-the-war-economy-17354"
+    },
+    {
+      "label": "Volkswagen Group: Place of Remembrance of Forced Labor",
+      "url": "https://www.volkswagen-group.com/en/place-of-remembrance-15867"
+    },
+    {
+      "label": "City of Wolfsburg: Town chronicle",
+      "url": "https://www.wolfsburg.de/en-us/leben/stadtportraitstadtgeschichte/stadtchronik"
+    }
+  ]
+}
