@@ -1,0 +1,65 @@
+{
+  "date": "02-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-marie-juchacz-speaks-parliament",
+    "year": 1919,
+    "title": {
+      "ru": "Женщина впервые выступила в немецком парламенте",
+      "de": "Eine Frau spricht erstmals in einem deutschen Parlament",
+      "en": "A woman speaks in a German parliament for the first time"
+    },
+    "description": {
+      "ru": "19 февраля 1919 года социал-демократка Мари Юхач выступила в Веймарском национальном собрании. Это была первая речь женщины в немецком парламенте.",
+      "de": "Am 19. Februar 1919 sprach die Sozialdemokratin Marie Juchacz in der Weimarer Nationalversammlung. Es war die erste Rede einer Frau in einem deutschen Parlament.",
+      "en": "On 19 February 1919, Social Democrat Marie Juchacz spoke in the Weimar National Assembly. It was the first speech by a woman in a German parliament."
+    },
+    "importance": {
+      "ru": "Дата показывает, как после Первой мировой войны немецкая демократия впервые открыла парламентскую трибуну для женщин.",
+      "de": "Das Datum zeigt, wie die deutsche Demokratie nach dem Ersten Weltkrieg Frauen erstmals die parlamentarische Rednertribuene oeffnete.",
+      "en": "The date shows how, after the First World War, German democracy first opened the parliamentary podium to women."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "women-suffrage-weimar",
+        "year": 1919,
+        "title": {
+          "ru": "Женское избирательное право становится видимым",
+          "de": "Frauenwahlrecht wird sichtbar",
+          "en": "Women's suffrage becomes visible"
+        },
+        "description": {
+          "ru": "Женщины в Германии получили право голосовать и быть избранными после революции 1918 года. Речь Юхач стала символом того, что это право уже действует на практике.",
+          "de": "Frauen in Deutschland erhielten nach der Revolution von 1918 das aktive und passive Wahlrecht. Juchacz' Rede wurde zum Zeichen dafuer, dass dieses Recht nun praktisch wirkte.",
+          "en": "Women in Germany gained the right to vote and stand for election after the 1918 revolution. Juchacz's speech became a sign that this right was now working in practice."
+        },
+        "importance": {
+          "ru": "Это важный шаг от формального права к реальному участию в политике.",
+          "de": "Das ist ein wichtiger Schritt vom formalen Recht zur wirklichen politischen Teilhabe.",
+          "en": "It was an important step from formal rights to real political participation."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Мари Юхач позднее основала Arbeiterwohlfahrt, одну из важных социальных организаций Германии.",
+    "de": "Marie Juchacz gruendete spaeter die Arbeiterwohlfahrt, eine wichtige soziale Organisation in Deutschland.",
+    "en": "Marie Juchacz later founded Arbeiterwohlfahrt, an important social welfare organization in Germany."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: First speech by a woman in a German parliament",
+      "url": "https://weimar.bundesarchiv.de/WEIMAR/DE/Content/Dokumente-zur-Zeitgeschichte/1919-02-19_juchacz.html"
+    },
+    {
+      "label": "Weimar Republic timeline: February 1919",
+      "url": "https://www.weimarer-republik.net/en/weimar-gateway/timeline-of-the-weimar-republic/1919/february-1919/"
+    }
+  ]
+}

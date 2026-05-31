@@ -1,0 +1,65 @@
+{
+  "date": "03-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1819-louise-otto-peters-born",
+    "year": 1819,
+    "title": {
+      "ru": "Родилась Луиза Отто-Петерс",
+      "de": "Louise Otto-Peters wird geboren",
+      "en": "Louise Otto-Peters is born"
+    },
+    "description": {
+      "ru": "26 марта 1819 года в Майсене родилась писательница и общественная деятельница Луиза Отто-Петерс. Она стала одной из основательниц немецкого женского движения.",
+      "de": "Am 26. Maerz 1819 wurde die Schriftstellerin und Aktivistin Louise Otto-Peters in Meissen geboren. Sie wurde eine der Begruenderinnen der deutschen Frauenbewegung.",
+      "en": "On 26 March 1819, writer and activist Louise Otto-Peters was born in Meissen. She became one of the founders of the German women's movement."
+    },
+    "importance": {
+      "ru": "Её жизнь связывает литературу, революцию 1848 года и борьбу женщин за образование и участие в обществе.",
+      "de": "Ihr Leben verbindet Literatur, die Revolution von 1848 und den Kampf von Frauen um Bildung und gesellschaftliche Teilhabe.",
+      "en": "Her life connects literature, the Revolution of 1848 and women's struggle for education and participation in society."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "german-womens-movement",
+        "year": 1865,
+        "title": {
+          "ru": "Начало организованного женского движения",
+          "de": "Beginn der organisierten Frauenbewegung",
+          "en": "Beginning of the organized women's movement"
+        },
+        "description": {
+          "ru": "Отто-Петерс участвовала в создании Общегерманского женского союза. Организация выступала за образование, трудовые права и общественное участие женщин.",
+          "de": "Otto-Peters war an der Gruendung des Allgemeinen Deutschen Frauenvereins beteiligt. Der Verein setzte sich fuer Bildung, Arbeitsrechte und gesellschaftliche Teilhabe von Frauen ein.",
+          "en": "Otto-Peters helped found the General German Women's Association. The organization advocated education, labor rights and public participation for women."
+        },
+        "importance": {
+          "ru": "Это показывает, что равноправие строилось десятилетиями, через объединения, газеты и публичные выступления.",
+          "de": "Das zeigt, dass Gleichberechtigung ueber Jahrzehnte durch Vereine, Zeitungen und oeffentliche Reden aufgebaut wurde.",
+          "en": "It shows that equality was built over decades through associations, newspapers and public speeches."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Луиза Отто-Петерс писала под псевдонимом Otto Stern.",
+    "de": "Louise Otto-Peters schrieb auch unter dem Pseudonym Otto Stern.",
+    "en": "Louise Otto-Peters also wrote under the pen name Otto Stern."
+  },
+  "sources": [
+    {
+      "label": "Encyclopedia.com: Luise Otto-Peters",
+      "url": "https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/otto-peters-luise-1819-1895"
+    },
+    {
+      "label": "Louise-Otto-Peters-Gesellschaft",
+      "url": "https://www.louiseottopeters-gesellschaft.de/"
+    }
+  ]
+}

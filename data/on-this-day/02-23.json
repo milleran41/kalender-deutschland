@@ -25,6 +25,27 @@
     }
   },
   "categories": {
+    "culture": [
+      {
+        "id": "1685-georg-friedrich-handel-born",
+        "year": 1685,
+        "title": {
+          "ru": "Родился Георг Фридрих Гендель",
+          "de": "Georg Friedrich Haendel wird geboren",
+          "en": "George Frideric Handel is born"
+        },
+        "description": {
+          "ru": "23 февраля 1685 года в Галле родился композитор Георг Фридрих Гендель. Позднее он переехал в Англию и стал одной из главных фигур музыки барокко.",
+          "de": "Am 23. Februar 1685 wurde Georg Friedrich Haendel in Halle geboren. Spaeter ging er nach England und wurde eine der wichtigsten Figuren der Barockmusik.",
+          "en": "On 23 February 1685, composer George Frideric Handel was born in Halle. He later moved to England and became one of the major figures of Baroque music."
+        },
+        "importance": {
+          "ru": "Гендель показывает, как немецкая музыкальная культура была частью общеевропейского мира.",
+          "de": "Haendel zeigt, wie deutsche Musikkultur Teil einer gesamteuropaeischen Welt war.",
+          "en": "Handel shows how German musical culture was part of a wider European world."
+        }
+      }
+    ],
     "science": [
       {
         "id": "diesel-long-road",
@@ -60,6 +81,10 @@
     {
       "label": "Wikimedia Commons: Diesel engine patent",
       "url": "https://commons.wikimedia.org/wiki/File:Lumbar_patent_dieselengine.jpg"
+    },
+    {
+      "label": "Britannica: George Frideric Handel",
+      "url": "https://www.britannica.com/biography/George-Frideric-Handel"
     }
   ]
 }

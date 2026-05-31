@@ -25,6 +25,27 @@
     }
   },
   "categories": {
+    "culture": [
+      {
+        "id": "1774-caspar-david-friedrich-born",
+        "year": 1774,
+        "title": {
+          "ru": "Родился Каспар Давид Фридрих",
+          "de": "Caspar David Friedrich wird geboren",
+          "en": "Caspar David Friedrich is born"
+        },
+        "description": {
+          "ru": "5 сентября 1774 года в Грайфсвальде родился художник Каспар Давид Фридрих. Он стал одной из главных фигур немецкого романтического пейзажа.",
+          "de": "Am 5. September 1774 wurde der Maler Caspar David Friedrich in Greifswald geboren. Er wurde zu einer der wichtigsten Figuren der deutschen romantischen Landschaftsmalerei.",
+          "en": "On 5 September 1774, painter Caspar David Friedrich was born in Greifswald. He became one of the central figures of German Romantic landscape painting."
+        },
+        "importance": {
+          "ru": "Его картины сделали северные пейзажи, туман, руины и одиночные фигуры частью образа немецкого романтизма.",
+          "de": "Seine Bilder machten nordische Landschaften, Nebel, Ruinen und einsame Figuren zu einem Teil des Bildes der deutschen Romantik.",
+          "en": "His paintings made northern landscapes, mist, ruins and solitary figures part of the image of German Romanticism."
+        }
+      }
+    ],
     "sport": [
       {
         "id": "munich-1972-shadow",
@@ -60,6 +81,10 @@
     {
       "label": "Olympics: Munich 1972 attack",
       "url": "https://olympics.com/en/news/munich-1972-olympics-terror-attack-israeli-athletes-memorial"
+    },
+    {
+      "label": "Britannica: Caspar David Friedrich",
+      "url": "https://www.britannica.com/biography/Caspar-David-Friedrich"
     }
   ]
 }

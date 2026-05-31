@@ -45,6 +45,27 @@
           "en": "It helps students avoid confusing the early Middle Ages with modern nation-states."
         }
       }
+    ],
+    "science": [
+      {
+        "id": "1897-aspirin-synthesized",
+        "year": 1897,
+        "title": {
+          "ru": "Феликс Хоффман синтезировал аспирин",
+          "de": "Felix Hoffmann synthetisiert Aspirin",
+          "en": "Felix Hoffmann synthesizes aspirin"
+        },
+        "description": {
+          "ru": "10 августа 1897 года химик Феликс Хоффман в лаборатории Bayer получил ацетилсалициловую кислоту в стабильной форме. Позднее препарат стал известен под названием Aspirin.",
+          "de": "Am 10. August 1897 stellte der Chemiker Felix Hoffmann im Bayer-Labor Acetylsalicylsaeure in stabiler Form her. Spaeter wurde das Mittel unter dem Namen Aspirin bekannt.",
+          "en": "On 10 August 1897, chemist Felix Hoffmann produced acetylsalicylic acid in a stable form at Bayer's laboratory. The medicine later became known as Aspirin."
+        },
+        "importance": {
+          "ru": "Это пример того, как лабораторная химия стала частью повседневной медицины во всём мире.",
+          "de": "Das ist ein Beispiel dafuer, wie Laborchemie Teil der Alltagsmedizin weltweit wurde.",
+          "en": "It is an example of laboratory chemistry becoming part of everyday medicine worldwide."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,14 @@
     {
       "label": "Britannica: History of Germany",
       "url": "https://www.britannica.com/topic/history-of-Germany"
+    },
+    {
+      "label": "Bayer: Felix Hoffmann",
+      "url": "https://www.bayer.com/en/history/felix-hoffmann"
+    },
+    {
+      "label": "Royal Society of Chemistry: Synthesis of aspirin",
+      "url": "https://edu.rsc.org/resources/on-this-day-aug-10--synthesis-of-aspirin/10810.article"
     }
   ]
 }
