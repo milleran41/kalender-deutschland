@@ -1,0 +1,65 @@
+{
+  "date": "06-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1158-munich-market-founded",
+    "year": 1158,
+    "title": {
+      "ru": "Первое упоминание Мюнхена",
+      "de": "Erste Nennung Muenchens",
+      "en": "First mention of Munich"
+    },
+    "description": {
+      "ru": "14 июня 1158 года считается официальным днём основания Мюнхена: император подтвердил создание рынка у монахов на Изаре. Из этого торгового пункта выросла столица Баварии.",
+      "de": "Der 14. Juni 1158 gilt als offizieller Gruendungstag Muenchens: Der Kaiser bestaetigte die Marktschaffung bei den Moenchen an der Isar. Aus diesem Handelsplatz wuchs die Hauptstadt Bayerns.",
+      "en": "14 June 1158 is considered Munich's official founding day: the emperor confirmed the creation of a market near the monks on the Isar. Bavaria's capital grew from this trading place."
+    },
+    "importance": {
+      "ru": "Мюнхен начался как средневековый торговый узел, а стал одним из самых известных городов Германии.",
+      "de": "Muenchen begann als mittelalterlicher Handelsplatz und wurde zu einer der bekanntesten Staedte Deutschlands.",
+      "en": "Munich began as a medieval trading point and became one of Germany's best-known cities."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "forum-munichen",
+        "year": 1158,
+        "title": {
+          "ru": "Рынок у Изара",
+          "de": "Markt an der Isar",
+          "en": "A market on the Isar"
+        },
+        "description": {
+          "ru": "Название München связано с монахами, а ранняя история города связана с мостом, рынком и борьбой за торговые доходы. Это хороший пример того, как в Средневековье рождались города.",
+          "de": "Der Name Muenchen haengt mit Moenchen zusammen, und die fruehe Stadtgeschichte ist mit Bruecke, Markt und dem Streit um Handelseinnahmen verbunden. Das zeigt gut, wie Staedte im Mittelalter entstanden.",
+          "en": "The name Munich is linked with monks, and the city's early history involved a bridge, a market and disputes over trade income. It is a good example of how medieval towns emerged."
+        },
+        "importance": {
+          "ru": "Городская история здесь начинается не с дворца, а с торговли и дороги.",
+          "de": "Stadtgeschichte beginnt hier nicht mit einem Palast, sondern mit Handel und Weg.",
+          "en": "Urban history here begins not with a palace, but with trade and a route."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На гербе Мюнхена изображён Münchner Kindl, фигура, связанная с монашеским происхождением названия города.",
+    "de": "Auf dem Muenchner Wappen erscheint das Muenchner Kindl, eine Figur, die mit dem monastischen Ursprung des Stadtnamens verbunden ist.",
+    "en": "Munich's coat of arms shows the Muenchner Kindl, a figure linked with the monastic origin of the city's name."
+  },
+  "sources": [
+    {
+      "label": "Staatliche Archive Bayerns: Founding of Munich market",
+      "url": "https://www.gda.bayern.de/en/vermitteln/schulen-entdecken-archive/quellenbeispiele-aus-verschiedenen-historischen-epochen/stadtgeschichte-als-rollenspiel-die-gruendung-muenchens/index.html"
+    },
+    {
+      "label": "Munich official city portal: History",
+      "url": "https://stadt.muenchen.de/infos/stadtgeschichte.html"
+    }
+  ]
+}

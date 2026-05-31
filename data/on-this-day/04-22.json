@@ -1,0 +1,65 @@
+{
+  "date": "04-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1724-immanuel-kant-born",
+    "year": 1724,
+    "title": {
+      "ru": "Родился Иммануил Кант",
+      "de": "Immanuel Kant wird geboren",
+      "en": "Immanuel Kant is born"
+    },
+    "description": {
+      "ru": "22 апреля 1724 года в Кёнигсберге родился философ Иммануил Кант. Его труды о познании, морали и разуме стали одной из основ европейской философии Нового времени.",
+      "de": "Am 22. April 1724 wurde der Philosoph Immanuel Kant in Koenigsberg geboren. Seine Werke ueber Erkenntnis, Moral und Vernunft wurden zu einer Grundlage der neuzeitlichen europaeischen Philosophie.",
+      "en": "On 22 April 1724, philosopher Immanuel Kant was born in Koenigsberg. His works on knowledge, morality and reason became a foundation of modern European philosophy."
+    },
+    "importance": {
+      "ru": "Кант показывает интеллектуальную сторону немецкого Просвещения и влияние Пруссии на европейскую мысль.",
+      "de": "Kant zeigt die intellektuelle Seite der deutschen Aufklaerung und den Einfluss Preussens auf das europaeische Denken.",
+      "en": "Kant shows the intellectual side of the German Enlightenment and Prussia's influence on European thought."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "kant-critical-philosophy",
+        "year": 1781,
+        "title": {
+          "ru": "«Критика чистого разума»",
+          "de": "Kritik der reinen Vernunft",
+          "en": "Critique of Pure Reason"
+        },
+        "description": {
+          "ru": "В 1781 году вышла «Критика чистого разума». Книга трудная, но её главный вопрос понятен: что человек вообще может знать и где границы разума?",
+          "de": "1781 erschien die Kritik der reinen Vernunft. Das Buch ist schwierig, doch seine Hauptfrage ist verstaendlich: Was kann der Mensch ueberhaupt wissen und wo liegen die Grenzen der Vernunft?",
+          "en": "In 1781, Critique of Pure Reason was published. The book is difficult, but its central question is clear: what can humans know, and where are the limits of reason?"
+        },
+        "importance": {
+          "ru": "Эта книга стала одним из самых обсуждаемых философских текстов Европы.",
+          "de": "Dieses Buch wurde zu einem der meistdiskutierten philosophischen Texte Europas.",
+          "en": "The book became one of Europe's most discussed philosophical texts."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Кант почти всю жизнь прожил в Кёнигсберге и редко покидал окрестности города.",
+    "de": "Kant lebte fast sein ganzes Leben in Koenigsberg und verliess die Umgebung der Stadt nur selten.",
+    "en": "Kant lived almost his entire life in Koenigsberg and rarely left the city's surroundings."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Immanuel Kant",
+      "url": "https://www.britannica.com/biography/Immanuel-Kant"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Immanuel Kant",
+      "url": "https://plato.stanford.edu/entries/kant/"
+    }
+  ]
+}

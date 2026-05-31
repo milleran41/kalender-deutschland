@@ -1,0 +1,65 @@
+{
+  "date": "07-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2014-germany-world-cup-champion",
+    "year": 2014,
+    "title": {
+      "ru": "Германия стала чемпионом мира по футболу",
+      "de": "Deutschland wird Fussball-Weltmeister",
+      "en": "Germany wins the FIFA World Cup"
+    },
+    "description": {
+      "ru": "13 июля 2014 года Германия победила Аргентину в финале чемпионата мира по футболу в Рио-де-Жанейро. Победный гол в дополнительное время забил Марио Гётце.",
+      "de": "Am 13. Juli 2014 besiegte Deutschland Argentinien im Finale der Fussball-Weltmeisterschaft in Rio de Janeiro. Das Siegtor in der Verlaengerung erzielte Mario Goetze.",
+      "en": "On 13 July 2014, Germany defeated Argentina in the FIFA World Cup final in Rio de Janeiro. Mario Goetze scored the winning goal in extra time."
+    },
+    "importance": {
+      "ru": "Это был четвёртый титул Германии на чемпионатах мира и первый после объединения страны.",
+      "de": "Es war Deutschlands vierter WM-Titel und der erste nach der Wiedervereinigung.",
+      "en": "It was Germany's fourth World Cup title and the first after reunification."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "goetze-extra-time-goal",
+        "year": 2014,
+        "title": {
+          "ru": "Гол Гётце в дополнительное время",
+          "de": "Goetzes Tor in der Verlaengerung",
+          "en": "Goetze's extra-time goal"
+        },
+        "description": {
+          "ru": "Матч долго оставался без голов, и всё решил один момент в конце дополнительного времени. Для болельщиков это стало одной из самых ярких сцен немецкого спорта XXI века.",
+          "de": "Das Spiel blieb lange torlos, und ein Moment am Ende der Verlaengerung entschied alles. Fuer Fans wurde es zu einer der praegendsten Szenen des deutschen Sports im 21. Jahrhundert.",
+          "en": "The match stayed goalless for a long time, and one moment late in extra time decided everything. For fans, it became one of the defining scenes of German sport in the 21st century."
+        },
+        "importance": {
+          "ru": "Финал 2014 года хорошо показывает, как спорт становится частью общей памяти страны.",
+          "de": "Das Finale von 2014 zeigt gut, wie Sport Teil des gemeinsamen Gedaechtnisses eines Landes wird.",
+          "en": "The 2014 final shows how sport becomes part of a country's shared memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В том же турнире Германия победила Бразилию 7:1 в полуфинале, что стало одним из самых обсуждаемых матчей в истории чемпионатов мира.",
+    "de": "Im selben Turnier besiegte Deutschland Brasilien im Halbfinale mit 7:1, eines der meistdiskutierten Spiele der WM-Geschichte.",
+    "en": "In the same tournament, Germany beat Brazil 7-1 in the semifinal, one of the most discussed matches in World Cup history."
+  },
+  "sources": [
+    {
+      "label": "UEFA: Goetze goal wins Germany the World Cup",
+      "url": "https://www.uefa.com/european-qualifiers/news/0252-0d041909b876-94c8ce6b802f-1000--gotze-goal-wins-germany-the-world-cup/"
+    },
+    {
+      "label": "FIFA: 2014 FIFA World Cup Brazil",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/2014brazil"
+    }
+  ]
+}
