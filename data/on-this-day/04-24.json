@@ -1,0 +1,90 @@
+{
+  "date": "04-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1914-franck-hertz-experiment-presented",
+    "year": 1914,
+    "title": {
+      "ru": "Представлен опыт Франка-Герца",
+      "de": "Der Franck-Hertz-Versuch wird vorgestellt",
+      "en": "The Franck-Hertz experiment is presented"
+    },
+    "description": {
+      "ru": "24 апреля 1914 года Джеймс Франк и Густав Герц представили Немецкому физическому обществу результаты опыта, который подтвердил дискретные энергетические состояния атомов. Позже эта работа стала одной из опор квантовой механики.",
+      "de": "Am 24. April 1914 stellten James Franck und Gustav Hertz der Deutschen Physikalischen Gesellschaft Ergebnisse eines Experiments vor, das diskrete Energiezustaende in Atomen bestaetigte. Spaeter wurde diese Arbeit zu einer Saeule der Quantenmechanik.",
+      "en": "On 24 April 1914, James Franck and Gustav Hertz presented results to the German Physical Society from an experiment that confirmed discrete energy states in atoms. The work later became one of the pillars of quantum mechanics."
+    },
+    "importance": {
+      "ru": "Дата показывает, как немецкая экспериментальная физика помогла изменить представления о строении материи.",
+      "de": "Das Datum zeigt, wie deutsche Experimentalphysik das Bild vom Aufbau der Materie veraenderte.",
+      "en": "The date shows how German experimental physics helped change ideas about the structure of matter."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "quantum-proof-mercury-atoms",
+        "year": 1914,
+        "title": {
+          "ru": "Квантовые ступеньки атома",
+          "de": "Quantenstufen des Atoms",
+          "en": "Quantum steps in the atom"
+        },
+        "description": {
+          "ru": "В опыте электроны сталкивались с атомами ртути и теряли энергию не плавно, а порциями. Это стало сильным доказательством того, что атомы могут принимать энергию только определёнными «ступеньками».",
+          "de": "Im Versuch stiessen Elektronen mit Quecksilberatomen zusammen und verloren Energie nicht stetig, sondern in Portionen. Das war ein starkes Indiz dafuer, dass Atome Energie nur in bestimmten Stufen aufnehmen koennen.",
+          "en": "In the experiment, electrons collided with mercury atoms and lost energy not continuously, but in portions. This strongly indicated that atoms can absorb energy only in specific steps."
+        },
+        "importance": {
+          "ru": "Так школьнику проще представить, почему квантовая физика отличается от привычной механики.",
+          "de": "So laesst sich leichter verstehen, warum Quantenphysik anders ist als gewohnte Mechanik.",
+          "en": "This makes it easier to understand why quantum physics differs from ordinary mechanics."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "franck-hertz-nobel",
+        "year": 1925,
+        "title": {
+          "ru": "Нобелевская премия за столкновения",
+          "de": "Nobelpreis fuer Stossprozesse",
+          "en": "A Nobel Prize for collisions"
+        },
+        "description": {
+          "ru": "Франк и Герц получили Нобелевскую премию по физике за 1925 год за открытие законов столкновения электронов с атомами. За сухой формулировкой стоял прорыв в понимании микромира.",
+          "de": "Franck und Hertz erhielten den Physiknobelpreis fuer 1925 fuer die Entdeckung der Gesetze beim Zusammenstoss von Elektronen mit Atomen. Hinter der trockenen Formulierung stand ein Durchbruch im Verstaendnis der Mikrowelt.",
+          "en": "Franck and Hertz received the 1925 Nobel Prize in Physics for discovering the laws governing electron impacts on atoms. Behind the dry wording was a breakthrough in understanding the microworld."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как точный лабораторный опыт меняет большую картину науки.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie ein genaues Laborexperiment das grosse Bild der Wissenschaft veraendert.",
+          "en": "It is a good example of how a precise laboratory experiment can change the big picture of science."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Густав Герц был племянником Генриха Герца, в честь которого названа единица частоты герц.",
+    "de": "Gustav Hertz war ein Neffe von Heinrich Hertz, nach dem die Einheit Hertz benannt ist.",
+    "en": "Gustav Hertz was a nephew of Heinrich Hertz, after whom the unit hertz is named."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Franck-Hertz experiment",
+      "url": "https://www.britannica.com/science/Franck-Hertz-experiment"
+    },
+    {
+      "label": "Nobel Prize: Gustav Hertz facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1925/hertz/facts/"
+    },
+    {
+      "label": "American Physical Society: April 1914, James Franck studies atoms",
+      "url": "https://www.aps.org/apsnews/2017/04/this-month-in-physics-history"
+    }
+  ]
+}

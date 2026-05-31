@@ -1,0 +1,90 @@
+{
+  "date": "05-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1972-bundestag-ratifies-eastern-treaties",
+    "year": 1972,
+    "title": {
+      "ru": "Бундестаг ратифицировал восточные договоры",
+      "de": "Der Bundestag ratifiziert die Ostvertraege",
+      "en": "The Bundestag ratifies the Eastern Treaties"
+    },
+    "description": {
+      "ru": "17 мая 1972 года Бундестаг ратифицировал Московский и Варшавский договоры. Это стало важным шагом восточной политики Вилли Брандта и признанием послевоенных границ как основы разрядки.",
+      "de": "Am 17. Mai 1972 ratifizierte der Bundestag den Moskauer und den Warschauer Vertrag. Das war ein wichtiger Schritt der Ostpolitik Willy Brandts und die Anerkennung der Nachkriegsgrenzen als Grundlage der Entspannung.",
+      "en": "On 17 May 1972, the Bundestag ratified the Moscow and Warsaw Treaties. This was an important step in Willy Brandt's Ostpolitik and recognized postwar borders as a basis for détente."
+    },
+    "importance": {
+      "ru": "Дата показывает, как ФРГ переходила от жёсткого противостояния холодной войны к политике переговоров с Востоком.",
+      "de": "Das Datum zeigt, wie die Bundesrepublik vom harten Kalten-Krieg-Gegensatz zu einer Politik der Verhandlungen mit dem Osten ueberging.",
+      "en": "The date shows how West Germany moved from hard Cold War confrontation toward a policy of negotiation with the East."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "ostpolitik-and-borders",
+        "year": 1972,
+        "title": {
+          "ru": "Разрядка и границы",
+          "de": "Entspannung und Grenzen",
+          "en": "Détente and borders"
+        },
+        "description": {
+          "ru": "Варшавский договор был особенно важен для отношений с Польшей, потому что касался линии Одер-Нейсе. Для многих семей, изгнанных после войны, это было болезненной темой, поэтому споры в ФРГ были очень острыми.",
+          "de": "Der Warschauer Vertrag war fuer die Beziehungen zu Polen besonders wichtig, weil er die Oder-Neisse-Linie betraf. Fuer viele nach dem Krieg Vertriebene war dies ein schmerzhaftes Thema, weshalb die Debatten in der Bundesrepublik sehr scharf waren.",
+          "en": "The Warsaw Treaty was especially important for relations with Poland because it concerned the Oder-Neisse line. For many families expelled after the war, this was a painful issue, so debates in West Germany were intense."
+        },
+        "importance": {
+          "ru": "Так видно, что мирная политика часто требует трудных решений о прошлом и карте.",
+          "de": "So wird sichtbar, dass Friedenspolitik oft schwierige Entscheidungen ueber Vergangenheit und Karten verlangt.",
+          "en": "It shows that peace policy often requires difficult decisions about the past and the map."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "willy-brandt-ostpolitik",
+        "year": 1972,
+        "title": {
+          "ru": "Вилли Брандт и Ostpolitik",
+          "de": "Willy Brandt und die Ostpolitik",
+          "en": "Willy Brandt and Ostpolitik"
+        },
+        "description": {
+          "ru": "Канцлер Вилли Брандт сделал ставку на «изменение через сближение». Его политика не отменяла раздел Германии, но создавала каналы общения и постепенно уменьшала напряжение.",
+          "de": "Bundeskanzler Willy Brandt setzte auf Wandel durch Annaeherung. Seine Politik hob die Teilung Deutschlands nicht auf, schuf aber Gespraechskanaele und verringerte schrittweise Spannungen.",
+          "en": "Chancellor Willy Brandt relied on 'change through rapprochement'. His policy did not end Germany's division, but created channels of communication and gradually reduced tensions."
+        },
+        "importance": {
+          "ru": "На его примере видно, что дипломатия может работать медленно, но менять жизнь людей.",
+          "de": "An seinem Beispiel sieht man, dass Diplomatie langsam wirken und dennoch das Leben von Menschen veraendern kann.",
+          "en": "His example shows that diplomacy can work slowly and still change people's lives."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Ратификация восточных договоров прошла после долгого внутреннего спора и почти полного воздержания депутатов оппозиционной фракции CDU/CSU.",
+    "de": "Die Ratifizierung der Ostvertraege erfolgte nach langem innenpolitischem Streit und bei fast geschlossener Enthaltung der CDU/CSU-Opposition.",
+    "en": "The ratification of the Eastern Treaties followed a long domestic dispute and an almost complete abstention by the CDU/CSU opposition."
+  },
+  "sources": [
+    {
+      "label": "Bundestag: Entspannungspolitik und Ostvertraege",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/ostvertraege-200102"
+    },
+    {
+      "label": "bpb: 17. Mai 1972",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131815/17-mai-1972/"
+    },
+    {
+      "label": "Konrad-Adenauer-Stiftung: Bundestag ratifiziert Ostvertraege",
+      "url": "https://www.kas.de/en/web/geschichte-der-cdu/calendar-detail/-/content/der-bundestag-ratifiziert-den-moskauer-und-den-warschauer-vertrag-und-stimmt-der-gemeinsamen-entschl"
+    }
+  ]
+}

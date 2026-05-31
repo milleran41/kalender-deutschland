@@ -1,0 +1,90 @@
+{
+  "date": "02-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1848-communist-manifesto-published",
+    "year": 1848,
+    "title": {
+      "ru": "Опубликован «Коммунистический манифест»",
+      "de": "Das Kommunistische Manifest erscheint",
+      "en": "The Communist Manifesto is published"
+    },
+    "description": {
+      "ru": "21 февраля 1848 года в Лондоне был опубликован «Манифест Коммунистической партии» Карла Маркса и Фридриха Энгельса. Текст был написан для Союза коммунистов, организации немецких революционеров и эмигрантов.",
+      "de": "Am 21. Februar 1848 erschien in London das Manifest der Kommunistischen Partei von Karl Marx und Friedrich Engels. Der Text wurde fuer den Bund der Kommunisten verfasst, eine Organisation deutscher Revolutionaere und Emigranten.",
+      "en": "On 21 February 1848, the Manifesto of the Communist Party by Karl Marx and Friedrich Engels was published in London. It was written for the Communist League, an organization of German revolutionaries and emigrants."
+    },
+    "importance": {
+      "ru": "Это один из самых влиятельных политических текстов XIX века, тесно связанный с немецкой интеллектуальной и революционной историей.",
+      "de": "Es ist einer der einflussreichsten politischen Texte des 19. Jahrhunderts und eng mit deutscher Ideen- und Revolutionsgeschichte verbunden.",
+      "en": "It is one of the most influential political texts of the nineteenth century and is closely tied to German intellectual and revolutionary history."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "political-text-in-exile",
+        "year": 1848,
+        "title": {
+          "ru": "Немецкая книга из Лондона",
+          "de": "Ein deutscher Text aus London",
+          "en": "A German text from London"
+        },
+        "description": {
+          "ru": "Хотя авторы были немцами, первый выпуск появился в Лондоне, где жили многие политические эмигранты. Так революционная история Германии сразу была частью европейской сети идей.",
+          "de": "Obwohl die Autoren Deutsche waren, erschien die erste Ausgabe in London, wo viele politische Emigranten lebten. So war deutsche Revolutionsgeschichte von Anfang an Teil eines europaeischen Ideennetzes.",
+          "en": "Although the authors were German, the first edition appeared in London, where many political emigrants lived. German revolutionary history was therefore part of a European network of ideas from the start."
+        },
+        "importance": {
+          "ru": "Это помогает понять, что идеи часто путешествуют быстрее границ и государств.",
+          "de": "Das hilft zu verstehen, dass Ideen oft schneller reisen als Grenzen und Staaten.",
+          "en": "It helps show that ideas often travel faster than borders and states."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "marx-engels-partnership",
+        "year": 1848,
+        "title": {
+          "ru": "Маркс и Энгельс",
+          "de": "Marx und Engels",
+          "en": "Marx and Engels"
+        },
+        "description": {
+          "ru": "Карл Маркс родился в Трире, а Фридрих Энгельс в Бармене, ныне части Вупперталя. Их совместная работа стала одним из самых известных примеров немецкой политической публицистики.",
+          "de": "Karl Marx wurde in Trier geboren, Friedrich Engels in Barmen, heute Teil von Wuppertal. Ihre Zusammenarbeit wurde zu einem der bekanntesten Beispiele deutscher politischer Publizistik.",
+          "en": "Karl Marx was born in Trier and Friedrich Engels in Barmen, now part of Wuppertal. Their collaboration became one of the best-known examples of German political writing."
+        },
+        "importance": {
+          "ru": "На их примере видно, как региональные биографии могут стать частью мировой истории.",
+          "de": "An ihnen sieht man, wie regionale Biografien Teil der Weltgeschichte werden koennen.",
+          "en": "Their lives show how regional biographies can become part of world history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Манифест появился почти одновременно с началом революций 1848 года в Европе.",
+    "de": "Das Manifest erschien fast gleichzeitig mit dem Beginn der Revolutionen von 1848 in Europa.",
+    "en": "The Manifesto appeared almost at the same time as the revolutions of 1848 began in Europe."
+  },
+  "sources": [
+    {
+      "label": "History.com: Marx publishes manifesto",
+      "url": "https://www.history.com/this-day-in-history/february-21/marx-publishes-manifesto"
+    },
+    {
+      "label": "Marxists Internet Archive: Manifesto of the Communist Party",
+      "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm"
+    },
+    {
+      "label": "COVE: Publication of the Communist Manifesto",
+      "url": "https://editions.covecollective.org/index.php/content/publication-communist-manifesto"
+    }
+  ]
+}
