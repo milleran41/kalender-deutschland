@@ -1,0 +1,107 @@
+{
+  "date": "08-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-adidas-founded",
+    "year": 1949,
+    "title": {
+      "ru": "adidas внесена в торговый реестр",
+      "de": "adidas wird ins Handelsregister eingetragen",
+      "en": "adidas is entered in the commercial register"
+    },
+    "description": {
+      "ru": "18 августа 1949 года Адольф «Ади» Дасслер официально зарегистрировал компанию adidas в Херцогенаурахе. Фирма начиналась с небольшой команды и спортивной обуви.",
+      "de": "Am 18. August 1949 liess Adolf \"Adi\" Dassler die Firma adidas in Herzogenaurach offiziell ins Handelsregister eintragen. Das Unternehmen begann mit einem kleinen Team und Sportschuhen.",
+      "en": "On 18 August 1949, Adolf \"Adi\" Dassler officially registered adidas in Herzogenaurach. The company began with a small team and sports shoes."
+    },
+    "importance": {
+      "ru": "adidas стала частью немецкой спортивной, промышленной и поп-культурной истории.",
+      "de": "adidas wurde Teil deutscher Sport-, Industrie- und Popkulturgeschichte.",
+      "en": "adidas became part of German sports, industrial and pop-cultural history."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "1949-sports-shoes-herzogenaurach",
+        "year": 1949,
+        "title": {
+          "ru": "Спортивная обувь из Франконии",
+          "de": "Sportschuhe aus Franken",
+          "en": "Sports shoes from Franconia"
+        },
+        "description": {
+          "ru": "Дасслер делал обувь с мыслью о конкретных видах спорта и потребностях спортсменов. Такой подход помог маленькой мастерской вырасти в международный бренд.",
+          "de": "Dassler entwickelte Schuhe mit Blick auf einzelne Sportarten und die Beduerfnisse von Athleten. Dieser Ansatz half einer kleinen Werkstatt, zu einer internationalen Marke zu wachsen.",
+          "en": "Dassler designed shoes with specific sports and athletes' needs in mind. This approach helped a small workshop grow into an international brand."
+        },
+        "importance": {
+          "ru": "История показывает, как спорт, ремесло и дизайн могут соединиться в одном продукте.",
+          "de": "Die Geschichte zeigt, wie Sport, Handwerk und Design in einem Produkt zusammenkommen koennen.",
+          "en": "The story shows how sport, craft and design can come together in one product."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "herzogenaurach-two-sports-brands",
+        "year": 1949,
+        "title": {
+          "ru": "Город двух спортивных брендов",
+          "de": "Stadt zweier Sportmarken",
+          "en": "Town of two sports brands"
+        },
+        "description": {
+          "ru": "Херцогенаурах известен не только adidas, но и Puma: две компании выросли из истории семьи Дасслер. Для небольшого города это необычная концентрация мировой спортивной индустрии.",
+          "de": "Herzogenaurach ist nicht nur fuer adidas, sondern auch fuer Puma bekannt: Beide Unternehmen gingen aus der Geschichte der Familie Dassler hervor. Fuer eine kleine Stadt ist das eine ungewoehnliche Konzentration weltweiter Sportindustrie.",
+          "en": "Herzogenaurach is known not only for adidas but also for Puma: both companies grew out of the Dassler family story. For a small town, this is an unusual concentration of global sports industry."
+        },
+        "importance": {
+          "ru": "Иногда мировая конкуренция начинается почти по соседству.",
+          "de": "Manchmal beginnt weltweite Konkurrenz fast nebenan.",
+          "en": "Sometimes global competition begins almost next door."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "sports-technology-shoes",
+        "year": 1949,
+        "title": {
+          "ru": "Техника в спортивной обуви",
+          "de": "Technik im Sportschuh",
+          "en": "Technology in sports shoes"
+        },
+        "description": {
+          "ru": "Спортивная обувь стала областью постоянных экспериментов с материалами, подошвами и формой. В таких вещах инженерия встречается с телом спортсмена.",
+          "de": "Sportschuhe wurden zu einem Feld staendiger Experimente mit Materialien, Sohlen und Formen. In solchen Dingen trifft Ingenieurarbeit auf den Koerper des Sportlers.",
+          "en": "Sports shoes became a field of constant experiments with materials, soles and shape. In such objects, engineering meets the athlete's body."
+        },
+        "importance": {
+          "ru": "Это хороший пример повседневной техники, которую люди буквально носят на себе.",
+          "de": "Das ist ein gutes Beispiel fuer Alltagstechnik, die Menschen buchstaeblich am Koerper tragen.",
+          "en": "It is a good example of everyday technology that people literally wear."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название adidas образовано из имени Adi Dassler.",
+    "de": "Der Name adidas entstand aus Adi Dassler.",
+    "en": "The name adidas was formed from Adi Dassler."
+  },
+  "sources": [
+    {
+      "label": "adidas Group: 70 years of adidas",
+      "url": "https://www.adidas-group.com/en/media/press-releases/70-years-of-adidas-on-august-18-2019"
+    },
+    {
+      "label": "adidas: History 1949 to now",
+      "url": "https://www.adidas.com/us/blog/392942-adidas-history-1949-to-now"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "01-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1829-konrad-duden-born",
+    "year": 1829,
+    "title": {
+      "ru": "Родился Конрад Дуден",
+      "de": "Konrad Duden wird geboren",
+      "en": "Konrad Duden is born"
+    },
+    "description": {
+      "ru": "3 января 1829 года около Везеля родился Конрад Дуден, филолог и педагог. Его имя стало связано с главным справочником немецкого правописания.",
+      "de": "Am 3. Januar 1829 wurde Konrad Duden bei Wesel geboren, ein Philologe und Paedagoge. Sein Name wurde mit dem wichtigsten Nachschlagewerk der deutschen Rechtschreibung verbunden.",
+      "en": "On 3 January 1829, Konrad Duden was born near Wesel. A philologist and teacher, his name became linked with the main reference work for German spelling."
+    },
+    "importance": {
+      "ru": "Дуден помог сделать немецкое правописание более единым и понятным для школ, печати и повседневной жизни.",
+      "de": "Duden half, die deutsche Rechtschreibung fuer Schulen, Druckwesen und Alltag einheitlicher und verstaendlicher zu machen.",
+      "en": "Duden helped make German spelling more unified and understandable for schools, printing and everyday life."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "1829-father-of-german-spelling",
+        "year": 1829,
+        "title": {
+          "ru": "«Отец немецкой орфографии»",
+          "de": "Vater der deutschen Rechtschreibung",
+          "en": "Father of German orthography"
+        },
+        "description": {
+          "ru": "Дуден работал учителем и директором гимназии. Его практический школьный опыт помог ему понять, насколько важны общие правила письма.",
+          "de": "Duden arbeitete als Lehrer und Gymnasialdirektor. Seine praktische Erfahrung in der Schule half ihm zu erkennen, wie wichtig gemeinsame Schreibregeln waren.",
+          "en": "Duden worked as a teacher and headmaster. His practical school experience helped him understand the importance of common writing rules."
+        },
+        "importance": {
+          "ru": "Его биография показывает, что языковые реформы часто начинаются с нужд школы.",
+          "de": "Seine Biografie zeigt, dass Sprachreformen oft aus den Beduerfnissen der Schule entstehen.",
+          "en": "His biography shows that language reforms often begin with the needs of schools."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "duden-dictionary",
+        "year": 1880,
+        "title": {
+          "ru": "Словарь, который стал именем нарицательным",
+          "de": "Ein Woerterbuch wird zum Begriff",
+          "en": "A dictionary becomes a household name"
+        },
+        "description": {
+          "ru": "Словарь Дудена постепенно стал авторитетным ориентиром для немецкого языка. В Германии слово «Duden» до сих пор ассоциируется с правильным написанием.",
+          "de": "Das Duden-Woerterbuch wurde nach und nach zu einer massgeblichen Orientierung fuer die deutsche Sprache. In Deutschland verbindet man Duden bis heute mit korrekter Schreibung.",
+          "en": "The Duden dictionary gradually became an authoritative guide for the German language. In Germany, the word Duden is still associated with correct spelling."
+        },
+        "importance": {
+          "ru": "Это редкий случай, когда фамилия человека стала почти символом грамотности.",
+          "de": "Das ist ein seltener Fall, in dem ein Familienname fast zum Symbol fuer Sprachrichtigkeit wurde.",
+          "en": "It is a rare case in which a surname became almost a symbol of literacy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первый полный орфографический словарь Дудена вышел в 1880 году.",
+    "de": "Das erste vollstaendige orthografische Woerterbuch von Duden erschien 1880.",
+    "en": "Duden's first complete orthographic dictionary appeared in 1880."
+  },
+  "sources": [
+    {
+      "label": "Duden: Konrad Duden",
+      "url": "https://www.duden.de/ueber_duden/konrad-duden"
+    },
+    {
+      "label": "Britannica: Duden",
+      "url": "https://www.britannica.com/topic/Duden"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "02-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-friedrich-ebert-elected-president",
+    "year": 1919,
+    "title": {
+      "ru": "Фридрих Эберт избран рейхспрезидентом",
+      "de": "Friedrich Ebert wird zum Reichspraesidenten gewaehlt",
+      "en": "Friedrich Ebert is elected Reich President"
+    },
+    "description": {
+      "ru": "11 февраля 1919 года Национальное собрание в Веймаре избрало Фридриха Эберта временным рейхспрезидентом. Он стал первым демократически избранным главой государства в немецкой истории.",
+      "de": "Am 11. Februar 1919 waehlte die Nationalversammlung in Weimar Friedrich Ebert zum vorlaeufigen Reichspraesidenten. Er wurde das erste demokratisch gewaehlte Staatsoberhaupt der deutschen Geschichte.",
+      "en": "On 11 February 1919, the National Assembly in Weimar elected Friedrich Ebert provisional Reich President. He became the first democratically elected head of state in German history."
+    },
+    "importance": {
+      "ru": "Дата важна для начала Веймарской республики и перехода Германии от монархии к демократии.",
+      "de": "Das Datum ist wichtig fuer den Beginn der Weimarer Republik und den Uebergang Deutschlands von der Monarchie zur Demokratie.",
+      "en": "The date is important for the beginning of the Weimar Republic and Germany's transition from monarchy to democracy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1919-weimar-national-assembly",
+        "year": 1919,
+        "title": {
+          "ru": "Национальное собрание в Веймаре",
+          "de": "Die Nationalversammlung in Weimar",
+          "en": "The National Assembly in Weimar"
+        },
+        "description": {
+          "ru": "Национальное собрание заседало не в неспокойном Берлине, а в Веймаре. Отсюда и пошло название первой немецкой республики.",
+          "de": "Die Nationalversammlung tagte nicht im unruhigen Berlin, sondern in Weimar. Daher stammt der Name der ersten deutschen Republik.",
+          "en": "The National Assembly met not in troubled Berlin but in Weimar. This is where the first German republic got its name."
+        },
+        "importance": {
+          "ru": "Место заседания стало названием целой эпохи немецкой истории.",
+          "de": "Der Tagungsort wurde zum Namen einer ganzen Epoche deutscher Geschichte.",
+          "en": "The meeting place became the name of an entire era in German history."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1871-friedrich-ebert",
+        "year": 1871,
+        "title": {
+          "ru": "Фридрих Эберт",
+          "de": "Friedrich Ebert",
+          "en": "Friedrich Ebert"
+        },
+        "description": {
+          "ru": "Эберт был социал-демократом и выходцем из рабочей среды. В годы революции и первых лет республики он пытался удержать государство от распада и гражданской войны.",
+          "de": "Ebert war Sozialdemokrat und stammte aus einem Arbeiterumfeld. In der Revolution und den ersten Jahren der Republik versuchte er, den Staat vor Zerfall und Buergerkrieg zu bewahren.",
+          "en": "Ebert was a Social Democrat from a working-class background. During the revolution and the early republic, he tried to keep the state from collapse and civil war."
+        },
+        "importance": {
+          "ru": "Его роль остаётся спорной, но без Эберта трудно понять первые годы Веймара.",
+          "de": "Seine Rolle bleibt umstritten, doch ohne Ebert sind die ersten Jahre Weimars kaum zu verstehen.",
+          "en": "His role remains controversial, but the early years of Weimar are hard to understand without him."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Эберт получил 277 голосов из 379 в Национальном собрании.",
+    "de": "Ebert erhielt in der Nationalversammlung 277 von 379 Stimmen.",
+    "en": "Ebert received 277 of 379 votes in the National Assembly."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Wahl Friedrich Eberts zum Reichspraesidenten",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/wahl-friedrich-eberts-zum-reichspraesidenten/"
+    },
+    {
+      "label": "Friedrich-Ebert-Stiftung: Weimarer Republik",
+      "url": "https://www.friedrich-ebert.de/friedrich-ebertde/weimarer-republik"
+    }
+  ]
+}
