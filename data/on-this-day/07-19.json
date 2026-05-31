@@ -1,0 +1,86 @@
+{
+  "date": "07-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1870-franco-prussian-war-begins",
+    "year": 1870,
+    "title": {
+      "ru": "Началась франко-прусская война",
+      "de": "Der Deutsch-Franzoesische Krieg beginnt",
+      "en": "The Franco-Prussian War begins"
+    },
+    "description": {
+      "ru": "19 июля 1870 года Франция объявила войну Пруссии. Конфликт быстро превратился в войну Франции против союза немецких государств во главе с Пруссией.",
+      "de": "Am 19. Juli 1870 erklaerte Frankreich Preussen den Krieg. Der Konflikt wurde schnell zu einem Krieg Frankreichs gegen ein Buendnis deutscher Staaten unter preussischer Fuehrung.",
+      "en": "On 19 July 1870, France declared war on Prussia. The conflict quickly became a war between France and an alliance of German states led by Prussia."
+    },
+    "importance": {
+      "ru": "Победа Пруссии открыла путь к провозглашению Германской империи в 1871 году.",
+      "de": "Der preussische Sieg oeffnete den Weg zur Ausrufung des Deutschen Kaiserreichs 1871.",
+      "en": "Prussia's victory opened the way to the proclamation of the German Empire in 1871."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1870-german-states-unite-in-war",
+        "year": 1870,
+        "title": {
+          "ru": "Немецкие государства выступили вместе",
+          "de": "Deutsche Staaten treten gemeinsam auf",
+          "en": "German states act together"
+        },
+        "description": {
+          "ru": "Южногерманские государства поддержали Пруссию, хотя ещё не входили в единую Германию. Война усилила чувство общего политического будущего.",
+          "de": "Die sueddeutschen Staaten unterstuetzten Preussen, obwohl sie noch nicht zu einem einheitlichen Deutschland gehoerten. Der Krieg staerkte das Gefuehl einer gemeinsamen politischen Zukunft.",
+          "en": "The southern German states supported Prussia even though they were not yet part of a unified Germany. The war strengthened the sense of a shared political future."
+        },
+        "importance": {
+          "ru": "Это важный шаг от карты отдельных государств к карте единой империи.",
+          "de": "Das war ein wichtiger Schritt von der Karte einzelner Staaten zur Karte eines geeinten Reiches.",
+          "en": "It was an important step from a map of separate states to a map of a unified empire."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1870-bismarck-war-diplomacy",
+        "year": 1870,
+        "title": {
+          "ru": "Бисмарк и дипломатический кризис",
+          "de": "Bismarck und die diplomatische Krise",
+          "en": "Bismarck and the diplomatic crisis"
+        },
+        "description": {
+          "ru": "Бисмарк сумел использовать дипломатический конфликт вокруг испанского престола и Эмсской депеши. В итоге Франция выглядела нападающей стороной, что помогло Пруссии собрать союзников.",
+          "de": "Bismarck nutzte den diplomatischen Konflikt um den spanischen Thron und die Emser Depesche. Am Ende erschien Frankreich als Angreifer, was Preussen half, Verbuendete zu sammeln.",
+          "en": "Bismarck used the diplomatic crisis around the Spanish throne and the Ems Dispatch. France ended up appearing as the aggressor, which helped Prussia gather allies."
+        },
+        "importance": {
+          "ru": "Так дипломатия и пресса стали частью дороги к объединению Германии.",
+          "de": "So wurden Diplomatie und Presse Teil des Weges zur deutschen Einigung.",
+          "en": "Diplomacy and the press thus became part of the road to German unification."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Германская империя была провозглашена в Версале 18 января 1871 года, ещё до окончательного мирного договора.",
+    "de": "Das Deutsche Kaiserreich wurde am 18. Januar 1871 in Versailles ausgerufen, noch vor dem endgueltigen Friedensvertrag.",
+    "en": "The German Empire was proclaimed at Versailles on 18 January 1871, before the final peace treaty."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Franco-German War",
+      "url": "https://www.britannica.com/event/Franco-German-War"
+    },
+    {
+      "label": "German History in Documents and Images: Ems Dispatch",
+      "url": "https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/the-ems-dispatch-july-13-1870"
+    }
+  ]
+}

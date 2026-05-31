@@ -1,0 +1,90 @@
+{
+  "date": "06-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1953-east-berlin-workers-strike-begins",
+    "year": 1953,
+    "title": {
+      "ru": "Начались протесты рабочих в Восточном Берлине",
+      "de": "Arbeiterproteste in Ost-Berlin beginnen",
+      "en": "Workers' protests begin in East Berlin"
+    },
+    "description": {
+      "ru": "16 июня 1953 года строители в Восточном Берлине начали забастовку против повышения норм выработки. На следующий день протесты переросли в широкое восстание в ГДР.",
+      "de": "Am 16. Juni 1953 begannen Bauarbeiter in Ost-Berlin einen Streik gegen erhoehte Arbeitsnormen. Am naechsten Tag wuchsen die Proteste zu einem breiten Aufstand in der DDR an.",
+      "en": "On 16 June 1953, construction workers in East Berlin began a strike against increased work quotas. The next day, the protests grew into a broad uprising in East Germany."
+    },
+    "importance": {
+      "ru": "Дата показывает, как социальный протест может быстро стать политическим вызовом режиму.",
+      "de": "Das Datum zeigt, wie sozialer Protest schnell zu einer politischen Herausforderung fuer ein Regime werden kann.",
+      "en": "The date shows how social protest can quickly become a political challenge to a regime."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1953-stalinallee-workers",
+        "year": 1953,
+        "title": {
+          "ru": "Строители на Сталин-аллее",
+          "de": "Bauarbeiter an der Stalinallee",
+          "en": "Construction workers on Stalinallee"
+        },
+        "description": {
+          "ru": "Протест начался среди рабочих, строивших престижную Сталин-аллею в Восточном Берлине. Их требование отменить повышение норм быстро поддержали другие жители.",
+          "de": "Der Protest begann unter Arbeitern, die an der prestigetraechtigen Stalinallee in Ost-Berlin bauten. Ihre Forderung nach Ruecknahme der Normerhoehungen fand schnell Unterstuetzung bei anderen Menschen.",
+          "en": "The protest began among workers building the prestigious Stalinallee in East Berlin. Their demand to reverse the increased quotas quickly gained support from others."
+        },
+        "importance": {
+          "ru": "Так один трудовой спор стал началом общегосударственного кризиса.",
+          "de": "So wurde aus einem Arbeitskonflikt der Beginn einer landesweiten Krise.",
+          "en": "A labor dispute thus became the start of a nationwide crisis."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1953-news-spread-by-radio",
+        "year": 1953,
+        "title": {
+          "ru": "Новость быстро разнеслась по радио",
+          "de": "Die Nachricht verbreitete sich schnell ueber das Radio",
+          "en": "The news spread quickly by radio"
+        },
+        "description": {
+          "ru": "О протестах рассказывала западноберлинская радиостанция RIAS, которую слушали и в ГДР. Радио помогло превратить локальный конфликт в событие, о котором узнали далеко за пределами Берлина.",
+          "de": "Der West-Berliner Sender RIAS berichtete ueber die Proteste und wurde auch in der DDR gehoert. Das Radio half, aus einem lokalen Konflikt ein Ereignis zu machen, das weit ueber Berlin hinaus bekannt wurde.",
+          "en": "The West Berlin broadcaster RIAS reported on the protests and was also heard in East Germany. Radio helped turn a local conflict into an event known far beyond Berlin."
+        },
+        "importance": {
+          "ru": "Это ранний пример того, как медиа могли резко ускорить распространение протеста.",
+          "de": "Das ist ein fruehes Beispiel dafuer, wie Medien die Ausbreitung von Protest stark beschleunigen konnten.",
+          "en": "It is an early example of how media could rapidly accelerate the spread of protest."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "До 1990 года 17 июня был в ФРГ Днём немецкого единства в память о восстании 1953 года.",
+    "de": "Bis 1990 war der 17. Juni in der Bundesrepublik der Tag der deutschen Einheit zur Erinnerung an den Aufstand von 1953.",
+    "en": "Until 1990, 17 June was West Germany's Day of German Unity in memory of the 1953 uprising."
+  },
+  "sources": [
+    {
+      "label": "Office of the Historian: East German uprising",
+      "url": "https://history.state.gov/milestones/1953-1960/east-german-uprising"
+    },
+    {
+      "label": "Deutschlandmuseum: People's uprising in the DDR",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1953-06-17-the-peoples-uprising-in-the-ddr/"
+    },
+    {
+      "label": "Britannica: East Berlin workers protest",
+      "url": "https://www.britannica.com/video/180258/Workers-East-Berlin-German-government-1953"
+    }
+  ]
+}

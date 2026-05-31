@@ -1,0 +1,86 @@
+{
+  "date": "07-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1966-world-cup-final-wembley",
+    "year": 1966,
+    "title": {
+      "ru": "Финал ЧМ-1966: ФРГ против Англии",
+      "de": "WM-Finale 1966: Bundesrepublik gegen England",
+      "en": "1966 World Cup final: West Germany vs England"
+    },
+    "description": {
+      "ru": "30 июля 1966 года сборная ФРГ проиграла Англии 2:4 после дополнительного времени в финале чемпионата мира на «Уэмбли». Матч стал одним из самых обсуждаемых в истории футбола.",
+      "de": "Am 30. Juli 1966 verlor die Nationalmannschaft der Bundesrepublik das WM-Finale in Wembley nach Verlaengerung mit 2:4 gegen England. Das Spiel wurde eines der meistdiskutierten der Fussballgeschichte.",
+      "en": "On 30 July 1966, West Germany lost the World Cup final at Wembley 4-2 after extra time against England. The match became one of the most debated in football history."
+    },
+    "importance": {
+      "ru": "Финал вошёл в немецкую спортивную память из-за спорного третьего гола Англии.",
+      "de": "Das Finale ging wegen des umstrittenen dritten englischen Tores in die deutsche Sporterinnerung ein.",
+      "en": "The final entered German sporting memory because of England's disputed third goal."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "1966-wembley-goal",
+        "year": 1966,
+        "title": {
+          "ru": "Гол Уэмбли",
+          "de": "Das Wembley-Tor",
+          "en": "The Wembley goal"
+        },
+        "description": {
+          "ru": "В дополнительное время удар Джеффа Херста попал в перекладину и отскочил вниз. Судьи засчитали гол, но споры о том, пересёк ли мяч линию полностью, продолжались десятилетиями.",
+          "de": "In der Verlaengerung prallte ein Schuss von Geoff Hurst an die Latte und sprang nach unten. Die Schiedsrichter gaben das Tor, doch die Frage, ob der Ball vollstaendig hinter der Linie war, blieb jahrzehntelang umstritten.",
+          "en": "In extra time, Geoff Hurst's shot hit the crossbar and bounced down. The officials awarded the goal, but whether the ball fully crossed the line remained disputed for decades."
+        },
+        "importance": {
+          "ru": "Это один из самых известных спорных моментов мирового футбола.",
+          "de": "Es ist eine der bekanntesten strittigen Szenen des Weltfussballs.",
+          "en": "It is one of the most famous disputed moments in world football."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1966-wembley-tor-expression",
+        "year": 1966,
+        "title": {
+          "ru": "Слово для спорных голов",
+          "de": "Ein Wort fuer strittige Tore",
+          "en": "A phrase for disputed goals"
+        },
+        "description": {
+          "ru": "В немецком языке выражение «Wembley-Tor» стало обозначать спорный гол, когда неясно, пересёк ли мяч линию. Так один эпизод превратился в футбольную поговорку.",
+          "de": "Im Deutschen wurde Wembley-Tor zu einer Bezeichnung fuer ein strittiges Tor, bei dem unklar ist, ob der Ball die Linie ueberschritten hat. So wurde eine Szene zur Fussballredewendung.",
+          "en": "In German, Wembley-Tor became a term for a disputed goal where it is unclear whether the ball crossed the line. One incident became a football expression."
+        },
+        "importance": {
+          "ru": "Иногда спорт оставляет после себя не только счёт, но и новое слово.",
+          "de": "Manchmal hinterlaesst Sport nicht nur ein Ergebnis, sondern auch ein neues Wort.",
+          "en": "Sometimes sport leaves behind not only a score but also a new phrase."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Джефф Херст стал первым игроком, сделавшим хет-трик в финале чемпионата мира.",
+    "de": "Geoff Hurst wurde der erste Spieler mit einem Hattrick in einem WM-Finale.",
+    "en": "Geoff Hurst became the first player to score a hat-trick in a World Cup final."
+  },
+  "sources": [
+    {
+      "label": "FIFA: England 4-2 West Germany",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/england-west-germany-1966"
+    },
+    {
+      "label": "FIFA+: Full match replay",
+      "url": "https://www.plus.fifa.com/en/content/england-v-germany-fr-final-1966-fifa-world-cup-england-full-match-replay/0a55a10b-f427-4c55-a689-ce65c07159f5"
+    }
+  ]
+}
