@@ -1,0 +1,90 @@
+{
+  "date": "02-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1504-columbus-eclipse-regiomontanus",
+    "year": 1504,
+    "title": {
+      "ru": "Колумб использовал предсказание лунного затмения",
+      "de": "Kolumbus nutzt die Vorhersage einer Mondfinsternis",
+      "en": "Columbus uses a lunar eclipse prediction"
+    },
+    "description": {
+      "ru": "29 февраля 1504 года, находясь на Ямайке, Христофор Колумб использовал знание о лунном затмении, чтобы добиться помощи для своей команды. Историю часто связывают с астрономическими таблицами немецкого математика и астронома Регiomontanus.",
+      "de": "Am 29. Februar 1504 nutzte Christoph Kolumbus auf Jamaika sein Wissen ueber eine Mondfinsternis, um Hilfe fuer seine Mannschaft zu erhalten. Die Geschichte wird haeufig mit den astronomischen Tafeln des deutschen Mathematikers und Astronomen Regiomontanus verbunden.",
+      "en": "On 29 February 1504, while in Jamaica, Christopher Columbus used knowledge of a lunar eclipse to secure help for his crew. The story is often linked to the astronomical tables of the German mathematician and astronomer Regiomontanus."
+    },
+    "importance": {
+      "ru": "Дата показывает, как немецкая астрономия позднего Средневековья неожиданно оказалась связана с мореплаванием и мировой историей.",
+      "de": "Das Datum zeigt, wie deutsche Astronomie des spaeten Mittelalters unerwartet mit Seefahrt und Weltgeschichte verbunden war.",
+      "en": "The date shows how late medieval German astronomy became unexpectedly connected with seafaring and world history."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "regiomontanus-ephemerides",
+        "year": 1504,
+        "title": {
+          "ru": "Таблицы Регiomontanus",
+          "de": "Die Tafeln des Regiomontanus",
+          "en": "The tables of Regiomontanus"
+        },
+        "description": {
+          "ru": "Регiomontanus, уроженец Франконии, был одним из ведущих европейских астрономов XV века. Его эфемериды помогали вычислять положения небесных тел и использовались мореплавателями.",
+          "de": "Regiomontanus, der aus Franken stammte, war einer der fuehrenden europaeischen Astronomen des 15. Jahrhunderts. Seine Ephemeriden halfen, die Positionen von Himmelskoerpern zu berechnen, und wurden von Seefahrern genutzt.",
+          "en": "Regiomontanus, from Franconia, was one of Europe's leading fifteenth-century astronomers. His ephemerides helped calculate the positions of celestial bodies and were used by navigators."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как печатные научные таблицы могли менять практические решения далеко от Европы.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie gedruckte wissenschaftliche Tafeln praktische Entscheidungen weit entfernt von Europa beeinflussen konnten.",
+          "en": "It is a good example of how printed scientific tables could shape practical decisions far from Europe."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "leap-day-event",
+        "year": 1504,
+        "title": {
+          "ru": "Событие для високосного дня",
+          "de": "Ein Ereignis fuer den Schalttag",
+          "en": "An event for leap day"
+        },
+        "description": {
+          "ru": "29 февраля появляется в календаре только раз в четыре года. Поэтому эта дата особенно удобна для необычной истории о времени, небе и календарных вычислениях.",
+          "de": "Der 29. Februar erscheint nur alle vier Jahre im Kalender. Deshalb passt zu diesem Datum besonders gut eine ungewoehnliche Geschichte ueber Zeit, Himmel und Kalenderrechnung.",
+          "en": "29 February appears in the calendar only every four years. That makes it a fitting date for an unusual story about time, the sky and calendar calculation."
+        },
+        "importance": {
+          "ru": "Это добавляет в календарь редкую и запоминающуюся научную историю.",
+          "de": "Das gibt dem Kalender eine seltene und einpraegsame Wissenschaftsgeschichte.",
+          "en": "It adds a rare and memorable science story to the calendar."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Регiomontanus — латинизированное имя Иоганна Мюллера из Кёнигсберга во Франконии.",
+    "de": "Regiomontanus ist der latinisierte Name von Johannes Mueller aus Koenigsberg in Franken.",
+    "en": "Regiomontanus is the Latinized name of Johannes Mueller from Koenigsberg in Franconia."
+  },
+  "sources": [
+    {
+      "label": "Astronomy Magazine: The history of astronomical almanacs",
+      "url": "https://www.astronomy.com/science/the-history-of-astronomical-almanacs/"
+    },
+    {
+      "label": "Science News: The Eclipse That Saved Columbus",
+      "url": "https://www.sciencenews.org/article/eclipse-saved-columbus"
+    },
+    {
+      "label": "Spektrum Lexikon: Regiomontanus",
+      "url": "https://www.spektrum.de/lexikon/geowissenschaften/regiomontanus/13374"
+    }
+  ]
+}

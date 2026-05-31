@@ -1,0 +1,90 @@
+{
+  "date": "04-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-dachau-uprising-and-freedom-action-bavaria",
+    "year": 1945,
+    "title": {
+      "ru": "В Дахау произошло антинацистское восстание",
+      "de": "In Dachau kommt es zu einem antinationalsozialistischen Aufstand",
+      "en": "An anti-Nazi uprising takes place in Dachau"
+    },
+    "description": {
+      "ru": "28 апреля 1945 года в городе Дахау заключённые, местные жители и дезертиры попытались обезвредить нацистских чиновников, SS и Volkssturm. Восстание было связано с «Свободной акцией Баварии» и произошло за день до освобождения концлагеря Дахау войсками США.",
+      "de": "Am 28. April 1945 versuchten in der Stadt Dachau Haeftlinge, Einwohner und Deserteure, nationalsozialistische Funktionaere, SS und Volkssturm zu entmachten. Der Aufstand stand im Zusammenhang mit der Freiheitsaktion Bayern und fand einen Tag vor der Befreiung des Konzentrationslagers Dachau durch US-Truppen statt.",
+      "en": "On 28 April 1945, prisoners, local residents and deserters in the town of Dachau tried to disarm Nazi officials, SS and Volkssturm units. The uprising was connected with the Freedom Action Bavaria and took place one day before U.S. troops liberated Dachau concentration camp."
+    },
+    "importance": {
+      "ru": "Дата показывает, что в последние дни войны сопротивление нацизму возникало даже там, где риск был смертельным.",
+      "de": "Das Datum zeigt, dass in den letzten Kriegstagen Widerstand gegen den Nationalsozialismus selbst dort entstand, wo das Risiko toedlich war.",
+      "en": "The date shows that in the final days of the war, resistance to Nazism emerged even where the risk was deadly."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "freedom-action-bavaria",
+        "year": 1945,
+        "title": {
+          "ru": "«Свободная акция Баварии»",
+          "de": "Freiheitsaktion Bayern",
+          "en": "Freedom Action Bavaria"
+        },
+        "description": {
+          "ru": "В ночь с 27 на 28 апреля группа военных и гражданских противников режима попыталась призвать Баварию к сопротивлению через радио. В разных местах южной Баварии это вызвало локальные выступления против нацистской власти.",
+          "de": "In der Nacht vom 27. auf den 28. April versuchte eine Gruppe militaerischer und ziviler Gegner des Regimes, Bayern ueber den Rundfunk zum Widerstand aufzurufen. An verschiedenen Orten Suedbayerns loeste dies lokale Aktionen gegen die NS-Herrschaft aus.",
+          "en": "During the night of 27 to 28 April, a group of military and civilian opponents of the regime tried to call Bavaria to resistance by radio. In several places in southern Bavaria, this triggered local actions against Nazi rule."
+        },
+        "importance": {
+          "ru": "Так видно, что конец диктатуры состоял не только из наступления союзников, но и из действий людей внутри Германии.",
+          "de": "So wird sichtbar, dass das Ende der Diktatur nicht nur aus dem Vormarsch der Alliierten bestand, sondern auch aus Handlungen von Menschen in Deutschland.",
+          "en": "It shows that the end of the dictatorship consisted not only of the Allied advance, but also of actions by people inside Germany."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "one-day-before-liberation",
+        "year": 1945,
+        "title": {
+          "ru": "За день до освобождения",
+          "de": "Einen Tag vor der Befreiung",
+          "en": "One day before liberation"
+        },
+        "description": {
+          "ru": "На следующий день, 29 апреля, американские войска освободили концентрационный лагерь Дахау. Поэтому 28 апреля выглядит как напряжённый последний момент перед концом местной нацистской власти.",
+          "de": "Am folgenden Tag, dem 29. April, befreiten amerikanische Truppen das Konzentrationslager Dachau. Der 28. April wirkt deshalb wie ein gespannter letzter Moment vor dem Ende der lokalen NS-Herrschaft.",
+          "en": "The next day, 29 April, American troops liberated Dachau concentration camp. This makes 28 April feel like a tense final moment before the end of local Nazi rule."
+        },
+        "importance": {
+          "ru": "Иногда один день в календаре отделяет смертельный риск от освобождения.",
+          "de": "Manchmal trennt ein einziger Kalendertag toedliches Risiko von Befreiung.",
+          "en": "Sometimes a single calendar day separates deadly risk from liberation."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дахау находится в Баварии, недалеко от Мюнхена.",
+    "de": "Dachau liegt in Bayern, nahe Muenchen.",
+    "en": "Dachau is in Bavaria, near Munich."
+  },
+  "sources": [
+    {
+      "label": "Haus der Bayerischen Geschichte: Dachau",
+      "url": "https://hdbg.eu/wiederaufbau/orte/detail/dachau/8"
+    },
+    {
+      "label": "Historisches Lexikon Bayerns: Freiheitsaktion Bayern",
+      "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/Freiheitsaktion_Bayern_%28FAB%29"
+    },
+    {
+      "label": "German History in Documents and Images: Death March from Dachau",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/death-march-from-the-dachau-concentration-camp-april-28-1945"
+    }
+  ]
+}

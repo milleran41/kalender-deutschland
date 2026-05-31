@@ -1,0 +1,90 @@
+{
+  "date": "12-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1940-second-great-fire-of-london",
+    "year": 1940,
+    "title": {
+      "ru": "Немецкая авиация устроила один из самых разрушительных налётов на Лондон",
+      "de": "Die deutsche Luftwaffe fliegt einen der zerstoererischsten Angriffe auf London",
+      "en": "The German Luftwaffe launches one of the most destructive raids on London"
+    },
+    "description": {
+      "ru": "Вечером 29 декабря 1940 года немецкая авиация нанесла по Лондону один из самых разрушительных ударов времён блица. Пожары в центре города были настолько сильными, что налёт позже назвали «Вторым великим пожаром Лондона».",
+      "de": "Am Abend des 29. Dezember 1940 flog die deutsche Luftwaffe einen der zerstoererischsten Angriffe des Blitz auf London. Die Braende im Stadtzentrum waren so heftig, dass der Angriff spaeter als zweiter grosser Brand von London bezeichnet wurde.",
+      "en": "On the evening of 29 December 1940, the German Luftwaffe launched one of the most destructive raids of the Blitz on London. Fires in the city center were so severe that the attack was later called the Second Great Fire of London."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания воздушной войны Германии против городов и гражданского населения.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis des deutschen Luftkriegs gegen Staedte und Zivilbevoelkerung.",
+      "en": "The date is important for understanding Germany's air war against cities and civilians."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "the-blitz",
+        "year": 1940,
+        "title": {
+          "ru": "Блиц",
+          "de": "Der Blitz",
+          "en": "The Blitz"
+        },
+        "description": {
+          "ru": "Блиц был кампанией немецких бомбардировок британских городов в 1940-1941 годах. Лондон страдал особенно сильно, но удары наносились и по другим промышленным и портовым центрам.",
+          "de": "Der Blitz war die deutsche Bombardierung britischer Staedte in den Jahren 1940-1941. London litt besonders stark, doch auch andere Industrie- und Hafenstaedte wurden angegriffen.",
+          "en": "The Blitz was the German bombing campaign against British cities in 1940-1941. London suffered especially heavily, but other industrial and port cities were also attacked."
+        },
+        "importance": {
+          "ru": "Так видно, что война велась не только на фронтах, но и против городского тыла.",
+          "de": "So wird sichtbar, dass der Krieg nicht nur an Fronten, sondern auch gegen staedtische Hinterlaender gefuehrt wurde.",
+          "en": "It shows that war was fought not only at fronts, but also against urban home fronts."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "st-pauls-photo",
+        "year": 1940,
+        "title": {
+          "ru": "Собор Святого Павла в дыму",
+          "de": "St Paul's im Rauch",
+          "en": "St Paul's in smoke"
+        },
+        "description": {
+          "ru": "Фотографии собора Святого Павла среди дыма стали одним из символов стойкости Лондона. Образ города в огне оказался не только военной хроникой, но и частью пропаганды и памяти.",
+          "de": "Fotos der St Paul's Cathedral im Rauch wurden zu einem Symbol der Standhaftigkeit Londons. Das Bild der brennenden Stadt wurde nicht nur Kriegsbericht, sondern auch Teil von Propaganda und Erinnerung.",
+          "en": "Photographs of St Paul's Cathedral in the smoke became a symbol of London's endurance. The image of the burning city became not only wartime reporting, but also part of propaganda and memory."
+        },
+        "importance": {
+          "ru": "Иногда одна фотография становится кратким символом целого периода войны.",
+          "de": "Manchmal wird ein einziges Foto zum kurzen Symbol einer ganzen Kriegsphase.",
+          "en": "Sometimes a single photograph becomes a compact symbol of an entire phase of war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название «Blitz» происходит от немецкого Blitzkrieg — «молниеносная война».",
+    "de": "Der Name Blitz leitet sich von Blitzkrieg ab.",
+    "en": "The name Blitz derives from the German word Blitzkrieg."
+  },
+  "sources": [
+    {
+      "label": "History.com: London is devastated by German air raid",
+      "url": "https://www.history.com/this-day-in-history/december-29/worst-air-raid-on-london"
+    },
+    {
+      "label": "Imperial War Museums: Blitz and Battle of Britain factsheet",
+      "url": "https://www.iwm.org.uk/sites/default/files/press-release/Battle_of_Britain_and_Blitz_Factsheet.pdf"
+    },
+    {
+      "label": "Britannica: The Blitz",
+      "url": "https://www.britannica.com/event/the-Blitz"
+    }
+  ]
+}
