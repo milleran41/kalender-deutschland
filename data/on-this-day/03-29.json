@@ -1,0 +1,65 @@
+{
+  "date": "03-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1930-heinrich-bruening-appointed",
+    "year": 1930,
+    "title": {
+      "ru": "Генрих Брюнинг назначен рейхсканцлером",
+      "de": "Heinrich Bruening wird Reichskanzler",
+      "en": "Heinrich Bruening is appointed chancellor"
+    },
+    "description": {
+      "ru": "29 марта 1930 года президент Пауль фон Гинденбург назначил Генриха Брюнинга рейхсканцлером. Его правительство стало символом позднего кризиса Веймарской республики.",
+      "de": "Am 29. Maerz 1930 ernannte Praesident Paul von Hindenburg Heinrich Bruening zum Reichskanzler. Seine Regierung wurde zu einem Symbol der spaeten Krise der Weimarer Republik.",
+      "en": "On 29 March 1930, President Paul von Hindenburg appointed Heinrich Bruening as chancellor. His government became a symbol of the late crisis of the Weimar Republic."
+    },
+    "importance": {
+      "ru": "Дата помогает понять, как парламентская демократия Веймара слабела ещё до прихода нацистов к власти.",
+      "de": "Das Datum hilft zu verstehen, wie die parlamentarische Demokratie Weimars schon vor der Machtuebernahme der Nationalsozialisten geschwaecht wurde.",
+      "en": "The date helps explain how Weimar parliamentary democracy weakened even before the Nazis came to power."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "presidential-cabinets",
+        "year": 1930,
+        "title": {
+          "ru": "Президентские кабинеты",
+          "de": "Praesidialkabinette",
+          "en": "Presidential cabinets"
+        },
+        "description": {
+          "ru": "Правительства начала 1930-х всё чаще опирались не на устойчивое большинство в рейхстаге, а на полномочия президента и чрезвычайные указы. Это подрывало доверие к обычной парламентской политике.",
+          "de": "Die Regierungen der fruehen 1930er Jahre stuetzten sich immer weniger auf stabile Mehrheiten im Reichstag, sondern auf den Reichspraesidenten und Notverordnungen. Das untergrub das Vertrauen in normale parlamentarische Politik.",
+          "en": "Governments in the early 1930s increasingly relied not on stable Reichstag majorities, but on presidential powers and emergency decrees. This undermined trust in ordinary parliamentary politics."
+        },
+        "importance": {
+          "ru": "Это важный шаг в цепочке событий, которая привела к разрушению демократии.",
+          "de": "Das ist ein wichtiger Schritt in der Kette von Ereignissen, die zur Zerstoerung der Demokratie fuehrte.",
+          "en": "It is an important step in the chain of events that led to the destruction of democracy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Брюнинга часто связывают с жёсткой политикой экономии во время Великой депрессии.",
+    "de": "Bruening wird oft mit harter Sparpolitik waehrend der Weltwirtschaftskrise verbunden.",
+    "en": "Bruening is often associated with harsh austerity during the Great Depression."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Ernennung von Heinrich Bruening",
+      "url": "https://weimar.bundesarchiv.de/WEIMAR/DE/Content/Dokumente-zur-Zeitgeschichte/1930-03-30_Bruening_Reichskanzler.html"
+    },
+    {
+      "label": "German History in Documents and Images: Bruening Cabinet",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/the-bruening-cabinet-march-30-1930.pdf"
+    }
+  ]
+}

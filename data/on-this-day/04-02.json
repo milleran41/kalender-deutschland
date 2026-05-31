@@ -1,0 +1,65 @@
+{
+  "date": "04-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1798-hoffmann-von-fallersleben-born",
+    "year": 1798,
+    "title": {
+      "ru": "Родился Хоффман фон Фаллерслебен",
+      "de": "Hoffmann von Fallersleben wird geboren",
+      "en": "Hoffmann von Fallersleben is born"
+    },
+    "description": {
+      "ru": "2 апреля 1798 года в Фаллерслебене, ныне районе Вольфсбурга, родился Август Генрих Хоффман фон Фаллерслебен. Он стал поэтом, филологом и автором текста «Песни немцев».",
+      "de": "Am 2. April 1798 wurde August Heinrich Hoffmann von Fallersleben in Fallersleben, heute ein Stadtteil von Wolfsburg, geboren. Er wurde Dichter, Philologe und Autor des Textes des Liedes der Deutschen.",
+      "en": "On 2 April 1798, August Heinrich Hoffmann von Fallersleben was born in Fallersleben, now part of Wolfsburg. He became a poet, philologist and author of the words to the Song of the Germans."
+    },
+    "importance": {
+      "ru": "Его биография связывает немецкую филологию, либеральное движение XIX века и сложную историю национального гимна.",
+      "de": "Seine Biografie verbindet deutsche Philologie, die liberale Bewegung des 19. Jahrhunderts und die schwierige Geschichte der Nationalhymne.",
+      "en": "His biography connects German philology, the liberal movement of the 19th century and the complicated history of the national anthem."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "deutschlandlied-context",
+        "year": 1841,
+        "title": {
+          "ru": "«Песнь немцев» в своём времени",
+          "de": "Das Lied der Deutschen in seiner Zeit",
+          "en": "The Song of the Germans in its time"
+        },
+        "description": {
+          "ru": "В 1841 году текст песни выражал желание национального единства в раздробленной Германии. Позднее смысл и употребление гимна менялись, особенно после опыта нацизма.",
+          "de": "1841 drueckte der Text den Wunsch nach nationaler Einheit in einem zersplitterten Deutschland aus. Spaeter veraenderten sich Bedeutung und Gebrauch der Hymne, besonders nach der Erfahrung des Nationalsozialismus.",
+          "en": "In 1841, the text expressed a wish for national unity in a fragmented Germany. Later, the anthem's meaning and use changed, especially after the experience of Nazism."
+        },
+        "importance": {
+          "ru": "Это помогает объяснить, почему сегодня официально используется третья строфа.",
+          "de": "Das hilft zu erklaeren, warum heute offiziell die dritte Strophe verwendet wird.",
+          "en": "It helps explain why only the third stanza is officially used today."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фаллерслебен сегодня является частью Вольфсбурга, города, который чаще связывают с Volkswagen.",
+    "de": "Fallersleben ist heute Teil von Wolfsburg, einer Stadt, die man meist mit Volkswagen verbindet.",
+    "en": "Fallersleben is now part of Wolfsburg, a city more often associated with Volkswagen."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Hoffmann von Fallersleben",
+      "url": "https://www.britannica.com/biography/August-Heinrich-Hoffmann-von-Fallersleben"
+    },
+    {
+      "label": "Hoffmann von Fallersleben: biography",
+      "url": "https://von-fallersleben.de/biographie/"
+    }
+  ]
+}

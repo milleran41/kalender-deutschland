@@ -1,0 +1,65 @@
+{
+  "date": "04-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-bremen-capitulates",
+    "year": 1945,
+    "title": {
+      "ru": "Бремен капитулировал перед британскими войсками",
+      "de": "Bremen kapituliert vor britischen Truppen",
+      "en": "Bremen surrenders to British troops"
+    },
+    "description": {
+      "ru": "27 апреля 1945 года оставшиеся немецкие войска в Бремене капитулировали перед британскими силами. Для города Вторая мировая война фактически закончилась раньше общей капитуляции Германии.",
+      "de": "Am 27. April 1945 kapitulierten die verbliebenen deutschen Truppen in Bremen vor britischen Kraeften. Fuer die Stadt endete der Zweite Weltkrieg damit faktisch vor der Gesamtkapitulation Deutschlands.",
+      "en": "On 27 April 1945, the remaining German troops in Bremen surrendered to British forces. For the city, the Second World War effectively ended before Germany's general surrender."
+    },
+    "importance": {
+      "ru": "Дата показывает конец войны через судьбу конкретного города, а не только через большие государственные акты.",
+      "de": "Das Datum zeigt das Kriegsende am Schicksal einer konkreten Stadt, nicht nur durch grosse staatliche Akte.",
+      "en": "The date shows the end of the war through the fate of a specific city, not only through major state acts."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bremen-war-end-city",
+        "year": 1945,
+        "title": {
+          "ru": "Конец войны в портовом городе",
+          "de": "Kriegsende in der Hafenstadt",
+          "en": "War's end in a port city"
+        },
+        "description": {
+          "ru": "Бремен был сильно связан с портом, торговлей и военной промышленностью, поэтому город тяжело пережил войну и бомбардировки. Капитуляция открыла путь к оккупации и послевоенному восстановлению.",
+          "de": "Bremen war eng mit Hafen, Handel und Ruestungsindustrie verbunden und litt deshalb schwer unter Krieg und Bombardierungen. Die Kapitulation oeffnete den Weg zu Besatzung und Wiederaufbau.",
+          "en": "Bremen was closely tied to its port, trade and armaments industry, and suffered heavily from war and bombing. The surrender opened the way to occupation and postwar reconstruction."
+        },
+        "importance": {
+          "ru": "Такие городские истории делают май 1945 года более понятным и человеческим.",
+          "de": "Solche Stadtgeschichten machen den Mai 1945 verstaendlicher und menschlicher.",
+          "en": "Such urban stories make May 1945 more understandable and human."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После войны Бремен стал частью американской зоны снабжения, несмотря на то что город заняли британские войска.",
+    "de": "Nach dem Krieg gehoerte Bremen zur amerikanischen Versorgungszone, obwohl britische Truppen die Stadt eingenommen hatten.",
+    "en": "After the war, Bremen became part of the American supply zone, although British troops had taken the city."
+  },
+  "sources": [
+    {
+      "label": "Senate Press Office Bremen: war ended in Bremen",
+      "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/70-jahrestag-des-kriegsendes-gedenkstunde-im-bremer-rathaus-139020"
+    },
+    {
+      "label": "Spurensuche Bremen: capitulation on 27 April 1945",
+      "url": "https://www.spurensuche-bremen.de/spur/burgermeister-duckwitz-befurwortet-kapitulation/"
+    }
+  ]
+}
