@@ -1,0 +1,90 @@
+{
+  "date": "11-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1947-un-partition-plan-palestine-holocaust-context",
+    "year": 1947,
+    "title": {
+      "ru": "ООН приняла план раздела Палестины",
+      "de": "Die UNO nimmt den Teilungsplan fuer Palaestina an",
+      "en": "The UN adopts the partition plan for Palestine"
+    },
+    "description": {
+      "ru": "29 ноября 1947 года Генеральная Ассамблея ООН приняла резолюцию 181 о разделе Палестины. Для немецкой истории эта дата важна через послевоенный контекст: после Холокоста сотни тысяч еврейских выживших, в том числе в лагерях перемещённых лиц в Германии, искали безопасное будущее.",
+      "de": "Am 29. November 1947 nahm die UN-Generalversammlung die Resolution 181 ueber die Teilung Palaestinas an. Fuer die deutsche Geschichte ist das Datum durch den Nachkriegskontext wichtig: Nach dem Holocaust suchten Hunderttausende juedische Ueberlebende, auch in Displaced-Persons-Lagern in Deutschland, eine sichere Zukunft.",
+      "en": "On 29 November 1947, the UN General Assembly adopted Resolution 181 on the partition of Palestine. For German history, the date matters through the postwar context: after the Holocaust, hundreds of thousands of Jewish survivors, including in displaced persons camps in Germany, sought a safe future."
+    },
+    "importance": {
+      "ru": "Дата помогает понять, что последствия нацистских преступлений продолжались и после 1945 года, влияя на международную политику и судьбы выживших.",
+      "de": "Das Datum hilft zu verstehen, dass die Folgen der nationalsozialistischen Verbrechen nach 1945 weiterwirkten und internationale Politik sowie die Lebenswege der Ueberlebenden beeinflussten.",
+      "en": "The date helps show that the consequences of Nazi crimes continued after 1945, shaping international politics and the lives of survivors."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "displaced-persons-in-germany",
+        "year": 1947,
+        "title": {
+          "ru": "Лагеря перемещённых лиц в Германии",
+          "de": "Displaced-Persons-Lager in Deutschland",
+          "en": "Displaced persons camps in Germany"
+        },
+        "description": {
+          "ru": "После войны в оккупированной Германии находились лагеря для перемещённых лиц, где жили многие выжившие евреи. Для них вопрос эмиграции и нового дома был не абстрактной политикой, а личным будущим.",
+          "de": "Nach dem Krieg gab es im besetzten Deutschland Lager fuer Displaced Persons, in denen viele juedische Ueberlebende lebten. Fuer sie war die Frage von Auswanderung und neuer Heimat keine abstrakte Politik, sondern persoenliche Zukunft.",
+          "en": "After the war, occupied Germany contained displaced persons camps where many Jewish survivors lived. For them, the question of emigration and a new home was not abstract politics, but a personal future."
+        },
+        "importance": {
+          "ru": "Так видно, как послевоенная Германия оставалась частью истории Холокоста и восстановления жизни после него.",
+          "de": "So wird sichtbar, wie das Nachkriegsdeutschland Teil der Geschichte des Holocaust und des Wiederaufbaus von Leben danach blieb.",
+          "en": "It shows how postwar Germany remained part of the history of the Holocaust and of rebuilding life afterward."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "international-vote",
+        "year": 1947,
+        "title": {
+          "ru": "Голосование, за которым следил мир",
+          "de": "Eine Abstimmung, auf die die Welt blickte",
+          "en": "A vote watched by the world"
+        },
+        "description": {
+          "ru": "Резолюция была не немецким решением, но Германия присутствовала в её фоне через память о Холокосте и судьбу выживших. Иногда событие связано со страной не местом проведения, а исторической причиной.",
+          "de": "Die Resolution war keine deutsche Entscheidung, doch Deutschland stand durch die Erinnerung an den Holocaust und das Schicksal der Ueberlebenden im Hintergrund. Manchmal ist ein Ereignis mit einem Land nicht durch den Ort, sondern durch die historische Ursache verbunden.",
+          "en": "The resolution was not a German decision, but Germany stood in the background through the memory of the Holocaust and the fate of survivors. Sometimes an event is linked to a country not by location, but by historical cause."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как история одной страны влияет на решения всего мира.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie die Geschichte eines Landes Entscheidungen der ganzen Welt beeinflusst.",
+          "en": "It is a good example of how one country's history can influence decisions across the world."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Резолюция 181 рекомендовала создание еврейского и арабского государств и особый международный статус Иерусалима.",
+    "de": "Resolution 181 empfahl die Gruendung eines juedischen und eines arabischen Staates sowie einen besonderen internationalen Status fuer Jerusalem.",
+    "en": "Resolution 181 recommended the creation of Jewish and Arab states and a special international status for Jerusalem."
+  },
+  "sources": [
+    {
+      "label": "United Nations: Resolution 181 (II)",
+      "url": "https://www.un.org/unispal/document/auto-insert-185393/"
+    },
+    {
+      "label": "United States Holocaust Memorial Museum: Displaced Persons",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/displaced-persons"
+    },
+    {
+      "label": "Yad Vashem: The She'erit Hapletah",
+      "url": "https://www.yadvashem.org/holocaust/about/end-of-war-aftermath/sheerit-hapletah.html"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "date": "12-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1963-paul-hindemith-dies",
+    "year": 1963,
+    "title": {
+      "ru": "Умер композитор Пауль Хиндемит",
+      "de": "Der Komponist Paul Hindemith stirbt",
+      "en": "Composer Paul Hindemith dies"
+    },
+    "description": {
+      "ru": "28 декабря 1963 года во Франкфурте-на-Майне умер Пауль Хиндемит, один из важнейших немецких композиторов XX века. Его музыка, педагогика и эмиграция из нацистской Германии сделали его заметной фигурой европейской культуры.",
+      "de": "Am 28. Dezember 1963 starb Paul Hindemith in Frankfurt am Main, einer der wichtigsten deutschen Komponisten des 20. Jahrhunderts. Seine Musik, seine Paedagogik und seine Emigration aus dem nationalsozialistischen Deutschland machten ihn zu einer bedeutenden Figur der europaeischen Kultur.",
+      "en": "On 28 December 1963, Paul Hindemith died in Frankfurt am Main. He was one of the most important German composers of the twentieth century, and his music, teaching and emigration from Nazi Germany made him a major figure in European culture."
+    },
+    "importance": {
+      "ru": "Дата добавляет в календарь музыку XX века и историю художника, чья жизнь была затронута диктатурой.",
+      "de": "Das Datum bringt die Musik des 20. Jahrhunderts und die Geschichte eines Kuenstlers in den Kalender, dessen Leben von der Diktatur beruehrt wurde.",
+      "en": "The date adds twentieth-century music and the story of an artist whose life was affected by dictatorship to the calendar."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "modern-music",
+        "year": 1963,
+        "title": {
+          "ru": "Немецкая музыка модерна",
+          "de": "Deutsche Musik der Moderne",
+          "en": "German modern music"
+        },
+        "description": {
+          "ru": "Хиндемит писал оперы, камерную музыку, симфонические произведения и учебные тексты. Он был не только композитором, но и теоретиком, педагогом и исполнителем.",
+          "de": "Hindemith schrieb Opern, Kammermusik, Orchesterwerke und Lehrtexte. Er war nicht nur Komponist, sondern auch Theoretiker, Paedagoge und Musiker.",
+          "en": "Hindemith wrote operas, chamber music, orchestral works and teaching texts. He was not only a composer, but also a theorist, teacher and performer."
+        },
+        "importance": {
+          "ru": "Он показывает, что немецкая культурная история XX века не сводится только к литературе и кино.",
+          "de": "Er zeigt, dass deutsche Kulturgeschichte des 20. Jahrhunderts nicht nur aus Literatur und Film besteht.",
+          "en": "He shows that twentieth-century German cultural history is not limited to literature and film."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "artist-under-pressure",
+        "year": 1930,
+        "title": {
+          "ru": "Художник под давлением режима",
+          "de": "Ein Kuenstler unter Druck des Regimes",
+          "en": "An artist under pressure from the regime"
+        },
+        "description": {
+          "ru": "Нацистские власти критиковали и ограничивали Хиндемита, а его музыка попадала под идеологические атаки. В итоге он покинул Германию и работал за границей.",
+          "de": "Die nationalsozialistischen Behoerden kritisierten und behinderten Hindemith, seine Musik wurde ideologisch angegriffen. Schliesslich verliess er Deutschland und arbeitete im Ausland.",
+          "en": "Nazi authorities criticized and restricted Hindemith, and his music came under ideological attack. Eventually he left Germany and worked abroad."
+        },
+        "importance": {
+          "ru": "Так видно, как диктатура вмешивалась даже в музыку и художественный выбор.",
+          "de": "So wird sichtbar, wie eine Diktatur sogar in Musik und kuenstlerische Entscheidungen eingriff.",
+          "en": "It shows how a dictatorship interfered even in music and artistic choices."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "composer-in-frankfurt",
+        "year": 1963,
+        "title": {
+          "ru": "Франкфуртская точка на карте музыки",
+          "de": "Frankfurt als Punkt auf der Musikkarte",
+          "en": "Frankfurt on the map of music"
+        },
+        "description": {
+          "ru": "Хиндемит умер во Франкфурте-на-Майне, городе, который чаще вспоминают как финансовый центр. Но у города есть и важная культурная история.",
+          "de": "Hindemith starb in Frankfurt am Main, einer Stadt, die man oft als Finanzzentrum kennt. Doch die Stadt besitzt auch eine wichtige Kulturgeschichte.",
+          "en": "Hindemith died in Frankfurt am Main, a city often known as a financial center. But the city also has an important cultural history."
+        },
+        "importance": {
+          "ru": "Иногда карта культуры помогает увидеть известный город с другой стороны.",
+          "de": "Manchmal hilft eine Kulturkarte, eine bekannte Stadt von einer anderen Seite zu sehen.",
+          "en": "Sometimes a cultural map helps reveal a familiar city from another angle."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Хиндемит родился в Ханау, недалеко от Франкфурта-на-Майне.",
+    "de": "Hindemith wurde in Hanau nahe Frankfurt am Main geboren.",
+    "en": "Hindemith was born in Hanau, near Frankfurt am Main."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Paul Hindemith",
+      "url": "https://www.britannica.com/biography/Paul-Hindemith"
+    },
+    {
+      "label": "Hindemith Foundation: Biography",
+      "url": "https://www.hindemith.info/en/life-work/biography/"
+    },
+    {
+      "label": "Schott Music: Paul Hindemith",
+      "url": "https://en.schott-music.com/shop/autoren/paul-hindemith"
+    }
+  ]
+}

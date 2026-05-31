@@ -1,0 +1,111 @@
+{
+  "date": "12-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1961-adolf-eichmann-sentenced-to-death",
+    "year": 1961,
+    "title": {
+      "ru": "Адольф Эйхман был приговорён к смерти",
+      "de": "Adolf Eichmann wird zum Tod verurteilt",
+      "en": "Adolf Eichmann is sentenced to death"
+    },
+    "description": {
+      "ru": "15 декабря 1961 года суд в Иерусалиме приговорил Адольфа Эйхмана к смерти за его роль в Холокосте. Процесс стал одним из самых важных судебных разбирательств о преступлениях нацистской Германии.",
+      "de": "Am 15. Dezember 1961 verurteilte ein Gericht in Jerusalem Adolf Eichmann wegen seiner Rolle im Holocaust zum Tod. Der Prozess wurde zu einem der wichtigsten Gerichtsverfahren ueber die Verbrechen des nationalsozialistischen Deutschlands.",
+      "en": "On 15 December 1961, a court in Jerusalem sentenced Adolf Eichmann to death for his role in the Holocaust. The trial became one of the most important legal proceedings about the crimes of Nazi Germany."
+    },
+    "importance": {
+      "ru": "Дата важна, потому что процесс Эйхмана сделал свидетельства выживших частью мировой памяти о Холокосте.",
+      "de": "Das Datum ist wichtig, weil der Eichmann-Prozess die Aussagen von Ueberlebenden zu einem Teil der weltweiten Erinnerung an den Holocaust machte.",
+      "en": "The date matters because the Eichmann trial made survivors' testimony part of global memory of the Holocaust."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "trial-in-jerusalem",
+        "year": 1961,
+        "title": {
+          "ru": "Суд в Иерусалиме",
+          "de": "Der Prozess in Jerusalem",
+          "en": "The trial in Jerusalem"
+        },
+        "description": {
+          "ru": "Эйхман был одним из организаторов депортации европейских евреев. Суд подробно рассматривал бюрократический механизм массового убийства, а не только действия одного человека.",
+          "de": "Eichmann war einer der Organisatoren der Deportation europaeischer Juden. Das Gericht untersuchte den buerokratischen Mechanismus des Massenmords und nicht nur die Taten eines Einzelnen.",
+          "en": "Eichmann was one of the organizers of the deportation of European Jews. The court examined the bureaucratic mechanism of mass murder, not only the actions of one man."
+        },
+        "importance": {
+          "ru": "Так видно, что преступления диктатуры часто совершаются через приказы, списки, поезда и канцелярии.",
+          "de": "So wird sichtbar, dass Verbrechen einer Diktatur oft durch Befehle, Listen, Zuege und Bueros begangen werden.",
+          "en": "It shows that the crimes of a dictatorship are often carried out through orders, lists, trains and offices."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "survivor-testimony",
+        "year": 1961,
+        "title": {
+          "ru": "Голоса выживших",
+          "de": "Stimmen der Ueberlebenden",
+          "en": "Voices of survivors"
+        },
+        "description": {
+          "ru": "На процессе выступали многие свидетели, пережившие преследования и лагеря. Их рассказы помогли обществу услышать человеческую сторону истории, которую нельзя свести к документам.",
+          "de": "Im Prozess sagten viele Zeuginnen und Zeugen aus, die Verfolgung und Lager ueberlebt hatten. Ihre Berichte halfen der Gesellschaft, die menschliche Seite der Geschichte zu hoeren, die sich nicht auf Akten reduzieren laesst.",
+          "en": "Many witnesses who had survived persecution and camps testified at the trial. Their accounts helped society hear the human side of history, which cannot be reduced to documents."
+        },
+        "importance": {
+          "ru": "Это одна из причин, почему процесс стал событием мировой памяти.",
+          "de": "Das ist einer der Gruende, warum der Prozess zu einem Ereignis der Welt-Erinnerung wurde.",
+          "en": "This is one reason the trial became an event in world memory."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "glass-booth",
+        "year": 1961,
+        "title": {
+          "ru": "Стеклянная кабина",
+          "de": "Die Glaskabine",
+          "en": "The glass booth"
+        },
+        "description": {
+          "ru": "Эйхман сидел в зале суда в защищённой стеклянной кабине. Этот образ стал одним из самых узнаваемых визуальных символов процесса.",
+          "de": "Eichmann sass im Gerichtssaal in einer geschuetzten Glaskabine. Dieses Bild wurde zu einem der bekanntesten visuellen Symbole des Prozesses.",
+          "en": "Eichmann sat in the courtroom inside a protected glass booth. This image became one of the most recognizable visual symbols of the trial."
+        },
+        "importance": {
+          "ru": "Иногда одна деталь зала суда становится историческим образом.",
+          "de": "Manchmal wird ein Detail im Gerichtssaal zu einem historischen Bild.",
+          "en": "Sometimes one detail in a courtroom becomes a historical image."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Эйхман был казнён в 1962 году; это остаётся единственной гражданской казнью в истории Израиля.",
+    "de": "Eichmann wurde 1962 hingerichtet; dies bleibt die einzige zivile Hinrichtung in der Geschichte Israels.",
+    "en": "Eichmann was executed in 1962; it remains the only civil execution in Israel's history."
+  },
+  "sources": [
+    {
+      "label": "United States Holocaust Memorial Museum: Adolf Eichmann sentenced to death",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/after-1945/adolf-eichmann-found-guilty"
+    },
+    {
+      "label": "German History in Documents and Images: The verdict in the Eichmann trial",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/the-verdict-is-announced-in-the-eichmann-trial-1961.pdf"
+    },
+    {
+      "label": "Memorial de la Shoah: The verdict",
+      "url": "https://juger-eichmann.memorialdelashoah.org/exhibition/verdict-en.html"
+    }
+  ]
+}
