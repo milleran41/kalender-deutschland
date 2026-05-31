@@ -1,0 +1,65 @@
+{
+  "date": "08-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1902-leni-riefenstahl-born",
+    "year": 1902,
+    "title": {
+      "ru": "Родилась Лени Рифеншталь",
+      "de": "Leni Riefenstahl wird geboren",
+      "en": "Leni Riefenstahl is born"
+    },
+    "description": {
+      "ru": "22 августа 1902 года в Берлине родилась Лени Рифеншталь. Она стала режиссёром и фотографом, но её имя прежде всего связано с фильмами, служившими нацистской пропаганде.",
+      "de": "Am 22. August 1902 wurde Leni Riefenstahl in Berlin geboren. Sie wurde Regisseurin und Fotografin, doch ihr Name ist vor allem mit Filmen verbunden, die der NS-Propaganda dienten.",
+      "en": "On 22 August 1902, Leni Riefenstahl was born in Berlin. She became a film director and photographer, but her name is chiefly linked with films that served Nazi propaganda."
+    },
+    "importance": {
+      "ru": "Её биография помогает говорить о том, что сильный визуальный талант может быть использован опасной властью.",
+      "de": "Ihre Biografie hilft, darueber zu sprechen, wie starke visuelle Begabung von gefaehrlicher Macht genutzt werden kann.",
+      "en": "Her biography helps discuss how powerful visual talent can be used by dangerous political power."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "riefenstahl-propaganda-cinema",
+        "year": 1935,
+        "title": {
+          "ru": "Кино и пропаганда",
+          "de": "Film und Propaganda",
+          "en": "Film and propaganda"
+        },
+        "description": {
+          "ru": "Фильмы Рифеншталь часто обсуждают из-за их технической выразительности и политической роли. Они показывают, что красота изображения не делает содержание безобидным.",
+          "de": "Riefenstahls Filme werden oft wegen ihrer technischen Ausdruckskraft und ihrer politischen Rolle diskutiert. Sie zeigen, dass Schoenheit der Bilder Inhalte nicht harmlos macht.",
+          "en": "Riefenstahl's films are often discussed for their technical power and political role. They show that beautiful images do not make content harmless."
+        },
+        "importance": {
+          "ru": "Это важный пример для медиаграмотности: нужно спрашивать не только «как снято», но и «для чего».",
+          "de": "Das ist ein wichtiges Beispiel fuer Medienkompetenz: Man muss nicht nur fragen, wie etwas gefilmt ist, sondern wozu.",
+          "en": "It is an important example for media literacy: one must ask not only how something is filmed, but why."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После войны Рифеншталь была официально очищена от обвинений в военных преступлениях, но её связь с нацистской пропагандой осталась предметом острых споров.",
+    "de": "Nach dem Krieg wurde Riefenstahl offiziell von einer Beteiligung an Kriegsverbrechen entlastet, doch ihre Verbindung zur NS-Propaganda blieb heftig umstritten.",
+    "en": "After the war, Riefenstahl was officially cleared of involvement in war crimes, but her connection with Nazi propaganda remained fiercely debated."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Leni Riefenstahl",
+      "url": "https://www.britannica.com/biography/Leni-Riefenstahl"
+    },
+    {
+      "label": "Britannica Kids: Leni Riefenstahl",
+      "url": "https://kids.britannica.com/students/article/Leni-Riefenstahl/313224"
+    }
+  ]
+}

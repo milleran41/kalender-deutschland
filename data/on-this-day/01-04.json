@@ -1,0 +1,65 @@
+{
+  "date": "01-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1785-jacob-grimm-born",
+    "year": 1785,
+    "title": {
+      "ru": "Родился Якоб Гримм",
+      "de": "Jacob Grimm wird geboren",
+      "en": "Jacob Grimm is born"
+    },
+    "description": {
+      "ru": "4 января 1785 года в Ханау родился Якоб Гримм. Вместе с братом Вильгельмом он собирал сказки, изучал язык и стал одной из ключевых фигур немецкой филологии.",
+      "de": "Am 4. Januar 1785 wurde Jacob Grimm in Hanau geboren. Zusammen mit seinem Bruder Wilhelm sammelte er Maerchen, erforschte Sprache und wurde zu einer Schluesselfigur der deutschen Philologie.",
+      "en": "On 4 January 1785, Jacob Grimm was born in Hanau. Together with his brother Wilhelm, he collected fairy tales, studied language and became a key figure in German philology."
+    },
+    "importance": {
+      "ru": "Братья Гримм сделали народные сказки частью мировой культуры и одновременно серьёзно изучали историю немецкого языка.",
+      "de": "Die Brueder Grimm machten Volksmaerchen zu einem Teil der Weltkultur und erforschten zugleich ernsthaft die Geschichte der deutschen Sprache.",
+      "en": "The Brothers Grimm made folk tales part of world culture while also seriously studying the history of the German language."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "grimm-fairy-tales-and-language",
+        "year": 1812,
+        "title": {
+          "ru": "Сказки и словарь",
+          "de": "Maerchen und Woerterbuch",
+          "en": "Fairy tales and dictionary"
+        },
+        "description": {
+          "ru": "Сборник «Детские и семейные сказки» сделал братьев Гримм знаменитыми. Позднее они начали работу над большим немецким словарём, который продолжали уже после их смерти.",
+          "de": "Die Kinder- und Hausmaerchen machten die Brueder Grimm beruehmt. Spaeter begannen sie die Arbeit am grossen Deutschen Woerterbuch, das nach ihrem Tod weitergefuehrt wurde.",
+          "en": "Children's and Household Tales made the Brothers Grimm famous. Later they began work on a large German dictionary that continued after their deaths."
+        },
+        "importance": {
+          "ru": "Это показывает, что интерес к сказкам был связан не только с развлечением, но и с языком, памятью и культурой.",
+          "de": "Das zeigt, dass das Interesse an Maerchen nicht nur Unterhaltung betraf, sondern auch Sprache, Erinnerung und Kultur.",
+          "en": "It shows that interest in fairy tales was not only entertainment, but also language, memory and culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Ханау, место рождения братьев Гримм, сегодня находится на туристическом маршруте Немецкой дороги сказок.",
+    "de": "Hanau, der Geburtsort der Brueder Grimm, liegt heute an der Deutschen Maerchenstrasse.",
+    "en": "Hanau, the birthplace of the Brothers Grimm, is now on the German Fairy Tale Route."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Brothers Grimm",
+      "url": "https://www.britannica.com/biography/Brothers-Grimm"
+    },
+    {
+      "label": "Britannica Kids: Grimm brothers",
+      "url": "https://kids.britannica.com/students/article/Grimm-brothers/274670"
+    }
+  ]
+}
