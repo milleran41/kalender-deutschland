@@ -1,0 +1,90 @@
+{
+  "date": "10-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1987-uwe-barschel-found-dead",
+    "year": 1987,
+    "title": {
+      "ru": "Уве Баршеля нашли мёртвым в Женеве",
+      "de": "Uwe Barschel wird in Genf tot aufgefunden",
+      "en": "Uwe Barschel is found dead in Geneva"
+    },
+    "description": {
+      "ru": "11 октября 1987 года бывшего премьер-министра земли Шлезвиг-Гольштейн Уве Баршеля нашли мёртвым в номере женевского отеля. Его смерть произошла вскоре после политического скандала и стала одним из самых известных загадочных случаев в послевоенной немецкой политике.",
+      "de": "Am 11. Oktober 1987 wurde der fruehere Ministerpraesident von Schleswig-Holstein, Uwe Barschel, tot in einem Genfer Hotelzimmer gefunden. Sein Tod folgte kurz nach einem politischen Skandal und wurde zu einem der bekanntesten raetselhaften Faelle der westdeutschen Nachkriegspolitik.",
+      "en": "On 11 October 1987, former Schleswig-Holstein Minister-President Uwe Barschel was found dead in a Geneva hotel room. His death came shortly after a political scandal and became one of the best-known mysterious cases in postwar German politics."
+    },
+    "importance": {
+      "ru": "Событие показывает, как политический кризис может превратиться в долгую общественную загадку.",
+      "de": "Das Ereignis zeigt, wie eine politische Krise zu einem langen oeffentlichen Raetsel werden kann.",
+      "en": "The event shows how a political crisis can turn into a long-lasting public mystery."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "barschel-affair",
+        "year": 1987,
+        "title": {
+          "ru": "Скандал в Шлезвиг-Гольштейне",
+          "de": "Der Skandal in Schleswig-Holstein",
+          "en": "The scandal in Schleswig-Holstein"
+        },
+        "description": {
+          "ru": "Перед смертью Баршель ушёл в отставку после обвинений в грязных методах политической борьбы. Дело сильно ударило по доверию к земельной политике и долго обсуждалось в немецких СМИ.",
+          "de": "Vor seinem Tod trat Barschel nach Vorwuerfen schmutziger Wahlkampfmethoden zurueck. Der Fall erschuetterte das Vertrauen in die Landespolitik und wurde lange in deutschen Medien diskutiert.",
+          "en": "Before his death, Barschel resigned after accusations of dirty campaign tactics. The affair shook trust in state politics and remained a major topic in German media."
+        },
+        "importance": {
+          "ru": "Так видно, что история Германии состоит не только из больших войн и договоров, но и из политических кризисов внутри земель.",
+          "de": "So wird deutlich, dass deutsche Geschichte nicht nur aus grossen Kriegen und Vertraegen besteht, sondern auch aus politischen Krisen in den Laendern.",
+          "en": "It shows that German history is not only made of major wars and treaties, but also of political crises within the federal states."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "hotel-room-mystery",
+        "year": 1987,
+        "title": {
+          "ru": "Номер, который стал частью загадки",
+          "de": "Ein Hotelzimmer wird Teil des Raetsels",
+          "en": "A hotel room becomes part of the mystery"
+        },
+        "description": {
+          "ru": "Фотографии из ванной комнаты отеля Beau-Rivage стали известны по всей Германии. Официальные выводы и версии о причинах смерти десятилетиями вызывали споры.",
+          "de": "Fotos aus dem Badezimmer des Hotels Beau-Rivage wurden in ganz Deutschland bekannt. Offizielle Ergebnisse und Deutungen der Todesumstaende blieben jahrzehntelang umstritten.",
+          "en": "Photographs from the bathroom of the Beau-Rivage hotel became known across Germany. Official findings and interpretations of the circumstances remained disputed for decades."
+        },
+        "importance": {
+          "ru": "Это один из тех редких случаев, когда политическая история звучит почти как детектив.",
+          "de": "Es ist einer der seltenen Faelle, in denen politische Geschichte fast wie ein Krimi wirkt.",
+          "en": "It is one of those rare cases where political history reads almost like a detective story."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Баршель был премьер-министром Шлезвиг-Гольштейна с 1982 по 1987 год.",
+    "de": "Barschel war von 1982 bis 1987 Ministerpraesident von Schleswig-Holstein.",
+    "en": "Barschel served as Minister-President of Schleswig-Holstein from 1982 to 1987."
+  },
+  "sources": [
+    {
+      "label": "UPI Archives: Ex-politician found dead",
+      "url": "https://www.upi.com/Archives/1987/10/11/Ex-politician-found-dead/6464560923200/"
+    },
+    {
+      "label": "Deutsche Welle via UOL: Uwe Barschel found dead",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2017/10/11/1987-uwe-barschel-e-encontrado-morto.htm"
+    },
+    {
+      "label": "Landtag Schleswig-Holstein: Uwe Barschel",
+      "url": "https://www.landtag.ltsh.de/abgeordnete/abgeordnete-archiv/abgeordnete-archiv-12-wp/uwe-barschel/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "10-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1813-battle-of-leipzig-ends",
+    "year": 1813,
+    "title": {
+      "ru": "Завершилась битва народов под Лейпцигом",
+      "de": "Die Voelkerschlacht bei Leipzig endet",
+      "en": "The Battle of Nations at Leipzig ends"
+    },
+    "description": {
+      "ru": "19 октября 1813 года завершилась битва под Лейпцигом, одно из крупнейших сражений наполеоновских войн. Союзные армии Пруссии, Австрии, России и Швеции нанесли Наполеону решающее поражение в Германии.",
+      "de": "Am 19. Oktober 1813 endete die Schlacht bei Leipzig, eine der groessten Schlachten der napoleonischen Kriege. Die verbuendeten Armeen Preussens, Oesterreichs, Russlands und Schwedens fuegten Napoleon in Deutschland eine entscheidende Niederlage zu.",
+      "en": "On 19 October 1813, the Battle of Leipzig ended, one of the largest battles of the Napoleonic Wars. The allied armies of Prussia, Austria, Russia and Sweden inflicted a decisive defeat on Napoleon in Germany."
+    },
+    "importance": {
+      "ru": "Поражение под Лейпцигом стало началом конца наполеоновского господства в германских землях.",
+      "de": "Die Niederlage bei Leipzig markierte den Anfang vom Ende der napoleonischen Herrschaft in den deutschen Laendern.",
+      "en": "The defeat at Leipzig marked the beginning of the end of Napoleonic rule in the German lands."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "largest-battle-before-wwi",
+        "year": 1813,
+        "title": {
+          "ru": "Огромное сражение до эпохи мировых войн",
+          "de": "Eine Riesenschlacht vor der Zeit der Weltkriege",
+          "en": "A huge battle before the world wars"
+        },
+        "description": {
+          "ru": "В битве участвовали сотни тысяч солдат, а потери были огромными. Для Центральной Европы это было потрясение, сравнимое с политическим землетрясением.",
+          "de": "An der Schlacht nahmen Hunderttausende Soldaten teil, und die Verluste waren enorm. Fuer Mitteleuropa war sie eine Erschuetterung von politischem Ausmass.",
+          "en": "Hundreds of thousands of soldiers took part in the battle, and casualties were enormous. For Central Europe, it was a shock on a political scale."
+        },
+        "importance": {
+          "ru": "Так видно, почему Лейпциг занимает особое место в памяти о наполеоновских войнах.",
+          "de": "So wird deutlich, warum Leipzig einen besonderen Platz in der Erinnerung an die napoleonischen Kriege einnimmt.",
+          "en": "This explains why Leipzig holds a special place in the memory of the Napoleonic Wars."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "monument-memory",
+        "year": 1913,
+        "title": {
+          "ru": "Память в камне",
+          "de": "Erinnerung in Stein",
+          "en": "Memory in stone"
+        },
+        "description": {
+          "ru": "Через сто лет после битвы в Лейпциге открыли монумент Битве народов. Он стал одним из самых заметных памятников Германии и напоминает, как XIX век превращал войны в национальные символы.",
+          "de": "Hundert Jahre nach der Schlacht wurde in Leipzig das Voelkerschlachtdenkmal eingeweiht. Es wurde zu einem der auffaelligsten Denkmale Deutschlands und zeigt, wie das 19. Jahrhundert Kriege in nationale Symbole verwandelte.",
+          "en": "One hundred years after the battle, Leipzig opened the Monument to the Battle of the Nations. It became one of Germany's most striking monuments and shows how the nineteenth century turned wars into national symbols."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как память о событии сама становится частью истории.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie die Erinnerung an ein Ereignis selbst Teil der Geschichte wird.",
+          "en": "It is a good example of how memory of an event becomes part of history itself."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Германии битву часто называют «Voelkerschlacht», то есть «Битва народов».",
+    "de": "In Deutschland wird die Schlacht oft Voelkerschlacht genannt.",
+    "en": "In Germany, the battle is often called the Voelkerschlacht, or Battle of Nations."
+  },
+  "sources": [
+    {
+      "label": "Deutsches Historisches Museum: 1813 Battle of Leipzig",
+      "url": "https://www.dhm.de/en/exhibitions/archive/2013/1813-battle-of-leipzig/"
+    },
+    {
+      "label": "Britannica: Battle of Leipzig",
+      "url": "https://www.britannica.com/event/Battle-of-Leipzig"
+    },
+    {
+      "label": "German History in Documents and Images: Battle of Nations",
+      "url": "https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/the-battle-of-nations-in-leipzig-on-october-19-1813-after-1813"
+    }
+  ]
+}

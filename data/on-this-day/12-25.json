@@ -1,0 +1,111 @@
+{
+  "date": "12-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "800-charlemagne-crowned-emperor",
+    "year": 800,
+    "title": {
+      "ru": "Карл Великий был коронован императором",
+      "de": "Karl der Grosse wird zum Kaiser gekroent",
+      "en": "Charlemagne is crowned emperor"
+    },
+    "description": {
+      "ru": "25 декабря 800 года папа Лев III короновал Карла Великого императором в Риме. Это событие стало важной вехой для средневековой Европы и будущей истории Священной Римской империи.",
+      "de": "Am 25. Dezember 800 kroente Papst Leo III. Karl den Grossen in Rom zum Kaiser. Dieses Ereignis wurde zu einem wichtigen Wendepunkt fuer das mittelalterliche Europa und die spaetere Geschichte des Heiligen Roemischen Reiches.",
+      "en": "On 25 December 800, Pope Leo III crowned Charlemagne emperor in Rome. The event became a major landmark for medieval Europe and the later history of the Holy Roman Empire."
+    },
+    "importance": {
+      "ru": "Коронация связала наследие Рима, власть франков и будущую политическую традицию германских земель.",
+      "de": "Die Kroenung verband das Erbe Roms, die Macht der Franken und die spaetere politische Tradition der deutschen Laender.",
+      "en": "The coronation linked the legacy of Rome, Frankish power and the later political tradition of the German lands."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "roots-of-holy-roman-empire",
+        "year": 800,
+        "title": {
+          "ru": "Один из истоков Священной Римской империи",
+          "de": "Eine Wurzel des Heiligen Roemischen Reiches",
+          "en": "One root of the Holy Roman Empire"
+        },
+        "description": {
+          "ru": "Империя Карла Великого не была современной Германией, но её наследие стало важным для правителей Восточно-Франкского королевства и будущей имперской традиции. Поэтому дату часто связывают с ранней историей Центральной Европы.",
+          "de": "Das Reich Karls des Grossen war kein modernes Deutschland, doch sein Erbe wurde wichtig fuer die Herrscher des Ostfraenkischen Reiches und die spaetere Kaisertradition. Deshalb wird das Datum oft mit der fruehen Geschichte Mitteleuropas verbunden.",
+          "en": "Charlemagne's empire was not modern Germany, but its legacy became important for the rulers of East Francia and the later imperial tradition. That is why the date is often linked to the early history of Central Europe."
+        },
+        "importance": {
+          "ru": "Так понятнее, почему средневековая история Германии начинается задолго до появления немецкого национального государства.",
+          "de": "So wird verstaendlicher, warum die mittelalterliche Geschichte Deutschlands lange vor dem modernen Nationalstaat beginnt.",
+          "en": "This makes it clearer why medieval German history begins long before the modern nation-state."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "carolingian-renaissance",
+        "year": 800,
+        "title": {
+          "ru": "Каролингское возрождение",
+          "de": "Karolingische Renaissance",
+          "en": "Carolingian Renaissance"
+        },
+        "description": {
+          "ru": "При Карле Великом развивались школы, переписывание рукописей и единая письменная культура. Это помогло сохранить и передать многие античные и христианские тексты.",
+          "de": "Unter Karl dem Grossen entwickelten sich Schulen, Handschriftenproduktion und eine einheitlichere Schriftkultur. Das half, viele antike und christliche Texte zu bewahren und weiterzugeben.",
+          "en": "Under Charlemagne, schools, manuscript copying and a more unified written culture developed. This helped preserve and transmit many classical and Christian texts."
+        },
+        "importance": {
+          "ru": "Событие важно не только политически: оно связано и с историей образования в Европе.",
+          "de": "Das Ereignis ist nicht nur politisch wichtig, sondern auch mit der Bildungsgeschichte Europas verbunden.",
+          "en": "The event matters not only politically, but also for the history of education in Europe."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "christmas-coronation",
+        "year": 800,
+        "title": {
+          "ru": "Императорская коронация на Рождество",
+          "de": "Kaiserliche Kroenung an Weihnachten",
+          "en": "An imperial coronation on Christmas Day"
+        },
+        "description": {
+          "ru": "Дата коронации была выбрана не случайно: Рождество подчёркивало религиозный смысл церемонии. В Средние века календарь и политика часто были тесно связаны.",
+          "de": "Das Datum der Kroenung war nicht zufaellig gewaehlt: Weihnachten betonte die religioese Bedeutung der Zeremonie. Im Mittelalter waren Kalender und Politik oft eng miteinander verbunden.",
+          "en": "The coronation date was not chosen by chance: Christmas emphasized the religious meaning of the ceremony. In the Middle Ages, calendars and politics were often closely connected."
+        },
+        "importance": {
+          "ru": "Это необычный пример того, как праздник становился сценой для большой политики.",
+          "de": "Das ist ein ungewoehnliches Beispiel dafuer, wie ein Feiertag zur Buehne grosser Politik wurde.",
+          "en": "It is an unusual example of a holiday becoming a stage for major politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Карл Великий часто связан и с французской, и с немецкой исторической памятью, потому что его держава предшествовала разделению на будущие Францию и Германию.",
+    "de": "Karl der Grosse gehoert sowohl zur franzoesischen als auch zur deutschen Erinnerung, weil sein Reich der spaeteren Trennung in Frankreich und Deutschland vorausging.",
+    "en": "Charlemagne belongs to both French and German historical memory because his empire preceded the later division into France and Germany."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Coronation of Charlemagne as emperor",
+      "url": "https://www.britannica.com/place/Holy-Roman-Empire/Coronation-of-Charlemagne-as-emperor"
+    },
+    {
+      "label": "Deutschlandmuseum: Coronation of Charlemagne",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/800-12-25-coronation-of-charlemagne/"
+    },
+    {
+      "label": "Britannica: Charlemagne",
+      "url": "https://www.britannica.com/biography/Charlemagne"
+    }
+  ]
+}
