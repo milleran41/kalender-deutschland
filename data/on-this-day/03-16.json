@@ -1,0 +1,90 @@
+{
+  "date": "03-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1935-germany-reintroduces-conscription",
+    "year": 1935,
+    "title": {
+      "ru": "Германия восстановила воинскую повинность",
+      "de": "Deutschland fuehrt die Wehrpflicht wieder ein",
+      "en": "Germany reintroduces conscription"
+    },
+    "description": {
+      "ru": "16 марта 1935 года нацистский режим объявил о введении всеобщей воинской повинности и расширении армии. Это было открытым нарушением военных ограничений Версальского договора.",
+      "de": "Am 16. Maerz 1935 verkuendete das NS-Regime die Wiedereinfuehrung der allgemeinen Wehrpflicht und den Ausbau der Armee. Das war ein offener Verstoss gegen die militaerischen Beschraenkungen des Versailler Vertrags.",
+      "en": "On 16 March 1935, the Nazi regime announced the reintroduction of general conscription and the expansion of the army. This openly violated the military restrictions of the Treaty of Versailles."
+    },
+    "importance": {
+      "ru": "Дата стала одним из ключевых шагов к милитаризации Германии и разрушению послевоенного порядка в Европе.",
+      "de": "Das Datum wurde zu einem Schluesselschritt der Militarisierung Deutschlands und der Zerstoerung der Nachkriegsordnung in Europa.",
+      "en": "The date became a key step in Germany's militarization and in the destruction of the postwar order in Europe."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "versailles-openly-broken",
+        "year": 1935,
+        "title": {
+          "ru": "Открытый разрыв с Версалем",
+          "de": "Offener Bruch mit Versailles",
+          "en": "Open break with Versailles"
+        },
+        "description": {
+          "ru": "Версальский договор ограничивал немецкую армию и запрещал всеобщую воинскую повинность. В 1935 году эти ограничения были демонстративно отброшены.",
+          "de": "Der Versailler Vertrag begrenzte die deutsche Armee und verbot die allgemeine Wehrpflicht. 1935 wurden diese Beschraenkungen demonstrativ beiseitegeschoben.",
+          "en": "The Treaty of Versailles limited the German army and banned general conscription. In 1935, these restrictions were demonstratively cast aside."
+        },
+        "importance": {
+          "ru": "Так школьнику легче увидеть цепочку: реваншистская политика, перевооружение, рост угрозы войны.",
+          "de": "So wird die Kette leichter sichtbar: Revisionspolitik, Aufruestung, wachsende Kriegsgefahr.",
+          "en": "It makes the chain clearer: revisionist policy, rearmament and the growing danger of war."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "army-numbers-announced",
+        "year": 1935,
+        "title": {
+          "ru": "Армия как политический сигнал",
+          "de": "Die Armee als politisches Signal",
+          "en": "The army as a political signal"
+        },
+        "description": {
+          "ru": "Объявление было не только военной мерой, но и громким внешнеполитическим жестом. Германия показывала соседям, что больше не считает себя связанной прежними правилами.",
+          "de": "Die Ankuendigung war nicht nur eine militaerische Massnahme, sondern auch ein lautes aussenpolitisches Signal. Deutschland zeigte seinen Nachbarn, dass es sich nicht mehr an die alten Regeln gebunden fuehlte.",
+          "en": "The announcement was not only a military measure, but also a loud foreign-policy signal. Germany showed its neighbors that it no longer felt bound by the old rules."
+        },
+        "importance": {
+          "ru": "Иногда политическое значение закона важнее сухой юридической формулировки.",
+          "de": "Manchmal ist die politische Bedeutung eines Gesetzes wichtiger als seine trockene juristische Formulierung.",
+          "en": "Sometimes the political meaning of a law matters more than its dry legal wording."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Версальский договор ограничивал немецкую армию 100 000 человек и запрещал призыв.",
+    "de": "Der Versailler Vertrag begrenzte das deutsche Heer auf 100.000 Mann und verbot die Wehrpflicht.",
+    "en": "The Treaty of Versailles limited the German army to 100,000 men and banned conscription."
+  },
+  "sources": [
+    {
+      "label": "LeMO: Einfuehrung der Wehrpflicht, 1935",
+      "url": "https://www.dhm.de/lemo/bestand/objekt/einfuehrung-der-wehrpflicht-1935"
+    },
+    {
+      "label": "Britannica: Third Reich",
+      "url": "https://www.britannica.com/place/Third-Reich/The-totalitarian-police-state"
+    },
+    {
+      "label": "Deutschlandfunk: 16.03.1935",
+      "url": "https://www.deutschlandfunk.de/16-03-1935-das-ns-regime-fuehrt-die-wehrpflicht-ein-100.html"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "06-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1925-nuernberg-wins-german-football-championship",
+    "year": 1925,
+    "title": {
+      "ru": "«Нюрнберг» стал чемпионом Германии",
+      "de": "Der 1. FC Nuernberg wird Deutscher Meister",
+      "en": "1. FC Nuernberg becomes German champion"
+    },
+    "description": {
+      "ru": "7 июня 1925 года 1. FC Nürnberg победил FSV Frankfurt в финале чемпионата Германии по футболу со счётом 1:0 после дополнительного времени. Матч прошёл во Франкфуртском Вальдштадионе.",
+      "de": "Am 7. Juni 1925 besiegte der 1. FC Nuernberg den FSV Frankfurt im Endspiel um die Deutsche Fussballmeisterschaft mit 1:0 nach Verlaengerung. Das Spiel fand im Frankfurter Waldstadion statt.",
+      "en": "On 7 June 1925, 1. FC Nuernberg defeated FSV Frankfurt 1-0 after extra time in the final of the German football championship. The match was played at Frankfurt's Waldstadion."
+    },
+    "importance": {
+      "ru": "Дата напоминает, что немецкий футбол имел большую историю ещё до Бундеслиги и современного телевизионного спорта.",
+      "de": "Das Datum erinnert daran, dass der deutsche Fussball schon lange vor der Bundesliga und dem modernen Fernsehsport eine grosse Geschichte hatte.",
+      "en": "The date is a reminder that German football had a major history long before the Bundesliga and modern television sport."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "club-era-nuernberg",
+        "year": 1925,
+        "title": {
+          "ru": "Золотые годы «Клуба»",
+          "de": "Goldene Jahre des Clubs",
+          "en": "Golden years of Der Club"
+        },
+        "description": {
+          "ru": "В 1920-е годы 1. FC Nürnberg был одной из сильнейших команд Германии. Победа 1925 года стала четвёртым национальным титулом клуба.",
+          "de": "In den 1920er Jahren war der 1. FC Nuernberg eine der staerksten Mannschaften Deutschlands. Der Sieg von 1925 war der vierte nationale Titel des Clubs.",
+          "en": "In the 1920s, 1. FC Nuernberg was one of Germany's strongest teams. The 1925 victory was the club's fourth national title."
+        },
+        "importance": {
+          "ru": "Это помогает увидеть спортивную карту Германии до эпохи «Баварии» как главного символа футбола.",
+          "de": "Das hilft, die Sportkarte Deutschlands vor der Zeit des FC Bayern als wichtigstem Fussballsymbol zu sehen.",
+          "en": "It helps show Germany's football map before the era in which Bayern Munich became the dominant symbol."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "extra-time-final",
+        "year": 1925,
+        "title": {
+          "ru": "Гол на 108-й минуте",
+          "de": "Tor in der 108. Minute",
+          "en": "Goal in the 108th minute"
+        },
+        "description": {
+          "ru": "Единственный гол финала был забит в дополнительное время. Для зрителей это был матч терпения: почти два часа футбола и всего один решающий удар.",
+          "de": "Das einzige Tor des Endspiels fiel in der Verlaengerung. Fuer die Zuschauer war es ein Geduldsspiel: fast zwei Stunden Fussball und nur ein entscheidender Treffer.",
+          "en": "The only goal of the final came in extra time. For spectators it was a test of patience: almost two hours of football and just one decisive strike."
+        },
+        "importance": {
+          "ru": "Такие детали делают старые спортивные даты живыми, а не просто строкой в таблице.",
+          "de": "Solche Details machen alte Sportdaten lebendig und nicht nur zu einer Zeile in einer Tabelle.",
+          "en": "Details like this make old sports dates feel alive rather than just a line in a table."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Финал 1925 года стал первым крупным общегерманским спортивным событием во Франкфуртском Вальдштадионе.",
+    "de": "Das Finale von 1925 war das erste grosse ueberregionale Sportereignis im Frankfurter Waldstadion.",
+    "en": "The 1925 final was the first major national sporting event at Frankfurt's Waldstadion."
+  },
+  "sources": [
+    {
+      "label": "DFB Datencenter: FSV Frankfurt - 1. FC Nuernberg",
+      "url": "https://datencenter.dfb.de/datencenter/deutsche-meisterschaft/1924-1925/finale/1977878"
+    },
+    {
+      "label": "1. FC Nuernberg: Meisterschaft 1925",
+      "url": "https://www.fcn.de/tradition/historie/titel/meisterschaft-1925/"
+    },
+    {
+      "label": "W+F: Waldstadion Frankfurt",
+      "url": "https://www.wf-ib.de/ueber-uns/historie/ab-1910/1925/waldstadion-frankfurt/"
+    }
+  ]
+}

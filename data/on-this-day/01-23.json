@@ -1,0 +1,86 @@
+{
+  "date": "01-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1862-david-hilbert-born",
+    "year": 1862,
+    "title": {
+      "ru": "Родился Давид Гильберт",
+      "de": "David Hilbert wird geboren",
+      "en": "David Hilbert is born"
+    },
+    "description": {
+      "ru": "23 января 1862 года в Кёнигсберге родился Давид Гильберт, один из самых влиятельных немецких математиков. Его работы изменили геометрию, алгебру, математическую логику и физику.",
+      "de": "Am 23. Januar 1862 wurde David Hilbert in Koenigsberg geboren, einer der einflussreichsten deutschen Mathematiker. Seine Arbeiten veraenderten Geometrie, Algebra, mathematische Logik und Physik.",
+      "en": "On 23 January 1862, David Hilbert was born in Koenigsberg, one of the most influential German mathematicians. His work changed geometry, algebra, mathematical logic and physics."
+    },
+    "importance": {
+      "ru": "Гильберт показывает, почему Германия и особенно Гёттинген были одним из мировых центров науки начала XX века.",
+      "de": "Hilbert zeigt, warum Deutschland und besonders Goettingen zu Beginn des 20. Jahrhunderts ein Weltzentrum der Wissenschaft waren.",
+      "en": "Hilbert shows why Germany, and especially Goettingen, was one of the world's scientific centers in the early twentieth century."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "hilbert-goettingen-school",
+        "year": 1895,
+        "title": {
+          "ru": "Учёный из Гёттингена",
+          "de": "Gelehrter aus Goettingen",
+          "en": "Scholar of Goettingen"
+        },
+        "description": {
+          "ru": "С 1895 года Гильберт работал в Гёттингене, где вокруг университета сложилась мощная математическая школа. Его лекции и ученики влияли на науку далеко за пределами Германии.",
+          "de": "Ab 1895 arbeitete Hilbert in Goettingen, wo rund um die Universitaet eine starke mathematische Schule entstand. Seine Vorlesungen und Schueler wirkten weit ueber Deutschland hinaus.",
+          "en": "From 1895, Hilbert worked in Goettingen, where a strong mathematical school developed around the university. His lectures and students influenced science far beyond Germany."
+        },
+        "importance": {
+          "ru": "Так одна университетская среда стала частью мировой истории науки.",
+          "de": "So wurde ein Universitaetsmilieu Teil der Weltgeschichte der Wissenschaft.",
+          "en": "A university environment thus became part of the world history of science."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "hilbert-problems",
+        "year": 1900,
+        "title": {
+          "ru": "23 задачи для будущего",
+          "de": "23 Aufgaben fuer die Zukunft",
+          "en": "23 problems for the future"
+        },
+        "description": {
+          "ru": "В 1900 году Гильберт сформулировал знаменитые 23 математические проблемы. Они стали ориентиром для математиков XX века и показали, как один список вопросов может направить целую науку.",
+          "de": "Im Jahr 1900 formulierte Hilbert seine beruehmten 23 mathematischen Probleme. Sie wurden zu Leitfragen fuer die Mathematik des 20. Jahrhunderts und zeigten, wie eine Liste von Fragen eine ganze Wissenschaft praegen kann.",
+          "en": "In 1900, Hilbert formulated his famous 23 mathematical problems. They became guideposts for twentieth-century mathematics and showed how one list of questions can shape an entire science."
+        },
+        "importance": {
+          "ru": "Это редкий случай, когда научная программа стала почти картой будущих открытий.",
+          "de": "Das ist ein seltener Fall, in dem ein wissenschaftliches Programm fast zu einer Karte kuenftiger Entdeckungen wurde.",
+          "en": "It is a rare case in which a scientific program became almost a map of future discoveries."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Понятие «гильбертово пространство» важно в современной математике и квантовой физике.",
+    "de": "Der Begriff Hilbert-Raum ist in moderner Mathematik und Quantenphysik wichtig.",
+    "en": "The concept of Hilbert space is important in modern mathematics and quantum physics."
+  },
+  "sources": [
+    {
+      "label": "Britannica: David Hilbert",
+      "url": "https://www.britannica.com/biography/David-Hilbert"
+    },
+    {
+      "label": "MacTutor: David Hilbert",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/"
+    }
+  ]
+}
