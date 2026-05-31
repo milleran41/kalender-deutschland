@@ -1,0 +1,90 @@
+{
+  "date": "09-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-first-adenauer-cabinet-begins",
+    "year": 1949,
+    "title": {
+      "ru": "Начало работы первого правительства ФРГ",
+      "de": "Beginn der ersten Bundesregierung",
+      "en": "The first West German government begins work"
+    },
+    "description": {
+      "ru": "20 сентября 1949 года первое правительство Федеративной Республики Германии во главе с Конрадом Аденауэром начало работу. В тот же день Аденауэр выступил с первой правительственной декларацией в Бундестаге.",
+      "de": "Am 20. September 1949 nahm die erste Bundesregierung unter Konrad Adenauer ihre Arbeit auf. Am selben Tag gab Adenauer im Bundestag seine erste Regierungserklaerung ab.",
+      "en": "On 20 September 1949, the first government of the Federal Republic of Germany under Konrad Adenauer began work. On the same day, Adenauer delivered his first government declaration in the Bundestag."
+    },
+    "importance": {
+      "ru": "Эта дата показывает, как западногерманское государство переходило от послевоенного устройства к собственной демократической политике.",
+      "de": "Dieses Datum zeigt, wie der westdeutsche Staat vom Nachkriegsprovisorium zu eigener demokratischer Politik ueberging.",
+      "en": "The date shows how the West German state moved from the postwar settlement toward its own democratic politics."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bonn-republic-first-cabinet",
+        "year": 1949,
+        "title": {
+          "ru": "Рождение Боннской республики",
+          "de": "Geburt der Bonner Republik",
+          "en": "Birth of the Bonn Republic"
+        },
+        "description": {
+          "ru": "ФРГ была основана в мае 1949 года, но именно формирование правительства сделало новую систему повседневно работающей. Бонн стал временной столицей, которая задержалась почти на полвека.",
+          "de": "Die Bundesrepublik wurde im Mai 1949 gegruendet, doch erst die Regierungsbildung machte das neue System im Alltag handlungsfaehig. Bonn wurde zur provisorischen Hauptstadt, die fast ein halbes Jahrhundert blieb.",
+          "en": "The Federal Republic was founded in May 1949, but forming a government made the new system work in everyday politics. Bonn became the provisional capital and remained so for nearly half a century."
+        },
+        "importance": {
+          "ru": "Так становится понятнее, как после катастрофы войны Германия заново строила государственные институты.",
+          "de": "So wird verstaendlicher, wie Deutschland nach der Katastrophe des Krieges staatliche Institutionen neu aufbaute.",
+          "en": "It helps explain how Germany rebuilt state institutions after the catastrophe of war."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "adenauer-first-chancellor",
+        "year": 1949,
+        "title": {
+          "ru": "Конрад Аденауэр",
+          "de": "Konrad Adenauer",
+          "en": "Konrad Adenauer"
+        },
+        "description": {
+          "ru": "Аденауэр стал первым федеральным канцлером ФРГ и определил курс на западную интеграцию. Его политика сильно повлияла на место Западной Германии в Европе и НАТО.",
+          "de": "Adenauer wurde der erste Bundeskanzler der Bundesrepublik und bestimmte den Kurs der Westintegration. Seine Politik praegte die Stellung Westdeutschlands in Europa und der NATO.",
+          "en": "Adenauer became the first Federal Chancellor and set the course for Western integration. His policy strongly shaped West Germany's place in Europe and NATO."
+        },
+        "importance": {
+          "ru": "Через его карьеру видна целая эпоха: от послевоенной слабости к стабильной демократии.",
+          "de": "An seiner Laufbahn wird eine ganze Epoche sichtbar: von der Nachkriegsschwaeche zur stabilen Demokratie.",
+          "en": "His career reveals an entire era: from postwar weakness to stable democracy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Аденауэр был избран канцлером 15 сентября 1949 года, а его первое правительство начало работу 20 сентября.",
+    "de": "Adenauer wurde am 15. September 1949 zum Kanzler gewaehlt; seine erste Regierung nahm am 20. September die Arbeit auf.",
+    "en": "Adenauer was elected Chancellor on 15 September 1949; his first government began work on 20 September."
+  },
+  "sources": [
+    {
+      "label": "Bundestag: Adenauer zum ersten Bundeskanzler gewaehlt",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw36-kalenderblatt-adenauer-1016592"
+    },
+    {
+      "label": "bpb: 20. September 1949",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131318/20-september-1949/"
+    },
+    {
+      "label": "Konrad-Adenauer-Stiftung: Die Regierung beginnt mit der Arbeit",
+      "url": "https://www.kas.de/de/web/geschichte-der-cdu/kalender/kalender-detail/-/content/die-regierung-beginnt-mit-der-arbeit"
+    }
+  ]
+}

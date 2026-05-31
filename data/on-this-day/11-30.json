@@ -1,0 +1,90 @@
+{
+  "date": "11-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-germany-introduces-womens-suffrage",
+    "year": 1918,
+    "title": {
+      "ru": "В Германии введено женское избирательное право",
+      "de": "Deutschland fuehrt das Frauenwahlrecht ein",
+      "en": "Germany introduces women's suffrage"
+    },
+    "description": {
+      "ru": "30 ноября 1918 года вступило в силу новое избирательное право для выборов в Национальное собрание. Оно закрепило право женщин голосовать и быть избранными.",
+      "de": "Am 30. November 1918 trat das neue Wahlrecht fuer die Wahlen zur Nationalversammlung in Kraft. Es schrieb das Recht der Frauen fest, zu waehlen und gewaehlt zu werden.",
+      "en": "On 30 November 1918, the new electoral law for the National Assembly elections came into force. It established women's right to vote and to stand for election."
+    },
+    "importance": {
+      "ru": "Это один из важнейших шагов к современной демократии в Германии.",
+      "de": "Dies ist einer der wichtigsten Schritte zur modernen Demokratie in Deutschland.",
+      "en": "It was one of the most important steps toward modern democracy in Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "revolution-democracy-suffrage",
+        "year": 1918,
+        "title": {
+          "ru": "Демократия после революции",
+          "de": "Demokratie nach der Revolution",
+          "en": "Democracy after revolution"
+        },
+        "description": {
+          "ru": "После Ноябрьской революции новая власть должна была быстро определить правила будущего государства. Всеобщее, равное, тайное и прямое голосование стало основой выборов 1919 года.",
+          "de": "Nach der Novemberrevolution musste die neue Macht rasch die Regeln des kuenftigen Staates festlegen. Das allgemeine, gleiche, geheime und direkte Wahlrecht wurde zur Grundlage der Wahl von 1919.",
+          "en": "After the November Revolution, the new authorities had to define the rules of the future state quickly. Universal, equal, secret and direct suffrage became the basis of the 1919 election."
+        },
+        "importance": {
+          "ru": "Дата показывает, что демократия состоит не только из лозунгов, но и из конкретных прав.",
+          "de": "Das Datum zeigt, dass Demokratie nicht nur aus Parolen besteht, sondern aus konkreten Rechten.",
+          "en": "The date shows that democracy consists not only of slogans, but of concrete rights."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "women-voters-and-candidates",
+        "year": 1919,
+        "title": {
+          "ru": "Женщины как избирательницы и кандидаты",
+          "de": "Frauen als Waehlerinnen und Kandidatinnen",
+          "en": "Women as voters and candidates"
+        },
+        "description": {
+          "ru": "19 января 1919 года женщины впервые участвовали в общегерманских выборах. В Национальное собрание были избраны первые женщины-депутаты.",
+          "de": "Am 19. Januar 1919 nahmen Frauen erstmals an einer reichsweiten Wahl teil. In die Nationalversammlung wurden die ersten weiblichen Abgeordneten gewaehlt.",
+          "en": "On 19 January 1919, women took part in a national German election for the first time. The first female deputies were elected to the National Assembly."
+        },
+        "importance": {
+          "ru": "Это изменило не только список избирателей, но и саму идею политического участия.",
+          "de": "Das veraenderte nicht nur die Waehlerlisten, sondern auch die Vorstellung politischer Teilhabe.",
+          "en": "It changed not only the voter rolls, but the idea of political participation itself."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Новое право также снизило возраст голосования с 25 до 20 лет.",
+    "de": "Das neue Wahlrecht senkte auch das Wahlalter von 25 auf 20 Jahre.",
+    "en": "The new law also lowered the voting age from 25 to 20."
+  },
+  "sources": [
+    {
+      "label": "Bundestag: 30. November 1918 Frauenwahlrecht",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1918-11-30-frauenwahlrecht-580156"
+    },
+    {
+      "label": "Bundesarchiv: Frauenwahlrecht",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/frauenwahlrecht/"
+    },
+    {
+      "label": "Federal Returning Officer: Women's suffrage",
+      "url": "https://bundeswahlleiterin.de/en/mitteilungen/sonstige/20170306-einfuehrung-frauenwahlrecht.html"
+    }
+  ]
+}

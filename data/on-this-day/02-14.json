@@ -1,0 +1,90 @@
+{
+  "date": "02-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-dresden-bombing-firestorm",
+    "year": 1945,
+    "title": {
+      "ru": "Дрезден после ночной бомбардировки",
+      "de": "Dresden nach der naechtlichen Bombardierung",
+      "en": "Dresden after the night bombing"
+    },
+    "description": {
+      "ru": "В ночь с 13 на 14 февраля 1945 года Дрезден пережил один из самых разрушительных авиаударов Второй мировой войны. Центр города был охвачен огненной бурей, погибли тысячи мирных жителей.",
+      "de": "In der Nacht vom 13. auf den 14. Februar 1945 erlebte Dresden einen der verheerendsten Luftangriffe des Zweiten Weltkriegs. Das Stadtzentrum geriet in einen Feuersturm, Tausende Zivilisten starben.",
+      "en": "On the night of 13 to 14 February 1945, Dresden experienced one of the most destructive air raids of the Second World War. The city center was engulfed by a firestorm, and thousands of civilians died."
+    },
+    "importance": {
+      "ru": "Дрезден стал символом разрушения городов в тотальной войне и до сих пор остаётся сложной темой памяти.",
+      "de": "Dresden wurde zu einem Symbol fuer die Zerstoerung von Staedten im totalen Krieg und bleibt bis heute ein schwieriges Thema der Erinnerung.",
+      "en": "Dresden became a symbol of urban destruction in total war and remains a difficult subject of memory."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "dresden-war-memory",
+        "year": 1945,
+        "title": {
+          "ru": "Память без простых ответов",
+          "de": "Erinnerung ohne einfache Antworten",
+          "en": "Memory without simple answers"
+        },
+        "description": {
+          "ru": "Бомбардировка Дрездена обсуждается в контексте конца войны, нацистской агрессии и страданий гражданского населения. Важно помнить жертв, не забывая, кто начал войну и преступления нацистского режима.",
+          "de": "Die Bombardierung Dresdens wird im Kontext des Kriegsendes, der NS-Aggression und des Leidens der Zivilbevoelkerung diskutiert. Wichtig ist, der Opfer zu gedenken, ohne zu vergessen, wer den Krieg und die Verbrechen des NS-Regimes begann.",
+          "en": "The bombing of Dresden is discussed in the context of the war's end, Nazi aggression and civilian suffering. It is important to remember the victims without forgetting who began the war and the crimes of the Nazi regime."
+        },
+        "importance": {
+          "ru": "Так школьник видит, что историческая память требует точности и ответственности.",
+          "de": "So wird sichtbar, dass historische Erinnerung Genauigkeit und Verantwortung braucht.",
+          "en": "This shows that historical memory requires accuracy and responsibility."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "dresden-death-toll-commission",
+        "year": 2010,
+        "title": {
+          "ru": "Почему спорили о числе погибших",
+          "de": "Warum ueber die Opferzahl gestritten wurde",
+          "en": "Why the death toll was disputed"
+        },
+        "description": {
+          "ru": "После войны назывались очень разные числа погибших, и эта тема часто использовалась в политических целях. Позднее историческая комиссия Дрездена пришла к оценке до 25 000 жертв.",
+          "de": "Nach dem Krieg wurden sehr unterschiedliche Opferzahlen genannt, und das Thema wurde oft politisch benutzt. Spaeter kam eine Dresdner Historikerkommission zu einer Schaetzung von bis zu 25.000 Toten.",
+          "en": "After the war, very different death tolls were cited, and the subject was often used politically. Later, a Dresden historians' commission estimated up to 25,000 deaths."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, почему источники и проверка цифр важны в истории.",
+          "de": "Das ist ein gutes Beispiel dafuer, warum Quellen und die Pruefung von Zahlen in der Geschichte wichtig sind.",
+          "en": "It is a good example of why sources and checking numbers matter in history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Атаки на Дрезден продолжались с 13 по 15 февраля 1945 года.",
+    "de": "Die Angriffe auf Dresden dauerten vom 13. bis zum 15. Februar 1945.",
+    "en": "The attacks on Dresden continued from 13 to 15 February 1945."
+  },
+  "sources": [
+    {
+      "label": "LeMO: Bombardierung von Dresden 1945",
+      "url": "https://www.dhm.de/lemo/kapitel/zweiter-weltkrieg/kriegsverlauf/dresden/"
+    },
+    {
+      "label": "Britannica: Bombing of Dresden",
+      "url": "https://www.britannica.com/event/bombing-of-Dresden"
+    },
+    {
+      "label": "GHDI: Dresden after Allied bombing",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/dresden-in-the-aftermath-of-allied-bombing-february-13-14-1945"
+    }
+  ]
+}
