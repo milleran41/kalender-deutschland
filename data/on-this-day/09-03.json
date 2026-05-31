@@ -1,0 +1,65 @@
+{
+  "date": "09-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1875-ferdinand-porsche-born",
+    "year": 1875,
+    "title": {
+      "ru": "Родился Фердинанд Порше",
+      "de": "Ferdinand Porsche wird geboren",
+      "en": "Ferdinand Porsche is born"
+    },
+    "description": {
+      "ru": "3 сентября 1875 года родился инженер Фердинанд Порше. Он работал над автомобильными конструкциями, связанными с Volkswagen и маркой Porsche.",
+      "de": "Am 3. September 1875 wurde der Ingenieur Ferdinand Porsche geboren. Er arbeitete an Automobilkonstruktionen, die mit Volkswagen und der Marke Porsche verbunden sind.",
+      "en": "On 3 September 1875, engineer Ferdinand Porsche was born. He worked on automobile designs linked with Volkswagen and the Porsche brand."
+    },
+    "importance": {
+      "ru": "Его биография показывает, как автомобильная техника стала частью немецкой промышленной идентичности, но также связана с политически сложным XX веком.",
+      "de": "Seine Biografie zeigt, wie Automobiltechnik Teil deutscher Industrieidentitaet wurde, aber auch mit einem politisch schwierigen 20. Jahrhundert verbunden ist.",
+      "en": "His biography shows how automotive engineering became part of Germany's industrial identity, while also being tied to the politically difficult twentieth century."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "porsche-engineering",
+        "year": 1875,
+        "title": {
+          "ru": "Инженерная школа автомобиля",
+          "de": "Ingenieurkunst des Automobils",
+          "en": "Automotive engineering"
+        },
+        "description": {
+          "ru": "Порше работал с электрическими, гибридными и бензиновыми автомобильными идеями. Его карьера показывает, что автомобиль развивался через множество технических экспериментов.",
+          "de": "Porsche arbeitete mit elektrischen, hybriden und benzinbetriebenen Fahrzeugideen. Seine Karriere zeigt, dass das Automobil durch viele technische Experimente entstand.",
+          "en": "Porsche worked with electric, hybrid and gasoline-powered vehicle ideas. His career shows that the automobile developed through many technical experiments."
+        },
+        "importance": {
+          "ru": "Дата хорошо дополняет Бенца, Берту Бенц и Daimler-Benz.",
+          "de": "Das Datum ergaenzt Benz, Bertha Benz und Daimler-Benz gut.",
+          "en": "The date complements Benz, Bertha Benz and Daimler-Benz well."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фердинанд Порше родился в Богемии, а умер в Штутгарте.",
+    "de": "Ferdinand Porsche wurde in Boehmen geboren und starb in Stuttgart.",
+    "en": "Ferdinand Porsche was born in Bohemia and died in Stuttgart."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Ferdinand Porsche",
+      "url": "https://www.britannica.com/biography/Ferdinand-Porsche"
+    },
+    {
+      "label": "Porsche Newsroom: Ferdinand Porsche",
+      "url": "https://newsroom.porsche.com/en/company/history/ferdinand-porsche.html"
+    }
+  ]
+}

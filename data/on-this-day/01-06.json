@@ -1,0 +1,65 @@
+{
+  "date": "01-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1926-deutsche-luft-hansa-founded",
+    "year": 1926,
+    "title": {
+      "ru": "Создана Deutsche Luft Hansa",
+      "de": "Deutsche Luft Hansa wird gegruendet",
+      "en": "Deutsche Luft Hansa is founded"
+    },
+    "description": {
+      "ru": "6 января 1926 года в Берлине была образована Deutsche Luft Hansa AG после слияния Deutscher Aero Lloyd и Junkers Luftverkehr. Это стало важным событием в истории немецкой гражданской авиации.",
+      "de": "Am 6. Januar 1926 entstand in Berlin die Deutsche Luft Hansa AG durch den Zusammenschluss von Deutscher Aero Lloyd und Junkers Luftverkehr. Das war ein wichtiges Ereignis in der Geschichte der deutschen Zivilluftfahrt.",
+      "en": "On 6 January 1926, Deutsche Luft Hansa AG was formed in Berlin through the merger of Deutscher Aero Lloyd and Junkers Luftverkehr. It was an important event in the history of German civil aviation."
+    },
+    "importance": {
+      "ru": "История Lufthansa связана и с техническим прогрессом авиации, и с трудными страницами XX века.",
+      "de": "Die Geschichte der Lufthansa ist sowohl mit technischem Fortschritt der Luftfahrt als auch mit schwierigen Kapiteln des 20. Jahrhunderts verbunden.",
+      "en": "Lufthansa's history is linked both with aviation technology and with difficult chapters of the twentieth century."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "aviation-network",
+        "year": 1926,
+        "title": {
+          "ru": "Германия в авиационной сети",
+          "de": "Deutschland im Luftverkehrsnetz",
+          "en": "Germany in the aviation network"
+        },
+        "description": {
+          "ru": "В межвоенные годы авиалинии стали новым способом соединять города и страны. Берлин, Дессау и другие центры авиации играли важную роль.",
+          "de": "In der Zwischenkriegszeit wurden Fluglinien zu einer neuen Verbindung zwischen Staedten und Laendern. Berlin, Dessau und andere Luftfahrtzentren spielten eine wichtige Rolle.",
+          "en": "In the interwar years, airlines became a new way to connect cities and countries. Berlin, Dessau and other aviation centers played important roles."
+        },
+        "importance": {
+          "ru": "Дата показывает, как карта Германии стала связана не только железными дорогами, но и воздушными маршрутами.",
+          "de": "Das Datum zeigt, wie Deutschlands Karte nicht nur durch Eisenbahnen, sondern auch durch Flugrouten verbunden wurde.",
+          "en": "The date shows how Germany's map became connected not only by railways but by air routes."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Современная Deutsche Lufthansa AG не является прямым юридическим продолжателем компании 1926 года, но исторически связывает себя с этой традицией.",
+    "de": "Die heutige Deutsche Lufthansa AG ist nicht die direkte Rechtsnachfolgerin der Gesellschaft von 1926, knuepft historisch aber an diese Tradition an.",
+    "en": "Today's Deutsche Lufthansa AG is not the direct legal successor to the 1926 company, but it historically connects itself with that tradition."
+  },
+  "sources": [
+    {
+      "label": "Lufthansa Group: history",
+      "url": "https://www.lufthansagroup.com/en/company/history"
+    },
+    {
+      "label": "Lufthansa Chronicle",
+      "url": "https://www.lufthansa.com/xx/en/100-years/chronicle.html"
+    }
+  ]
+}

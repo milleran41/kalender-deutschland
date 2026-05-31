@@ -44,6 +44,25 @@
           "de": "So wird Deutschlands Geografie zu einer Karte von Symbolen.",
           "en": "Germany's geography becomes a map of symbols."
         }
+      },
+      {
+        "id": "1386-heidelberg-university-established",
+        "year": 1386,
+        "title": {
+          "ru": "Основан Гейдельбергский университет",
+          "de": "Die Universitaet Heidelberg wird gegruendet",
+          "en": "Heidelberg University is founded"
+        },
+        "description": {
+          "ru": "18 октября 1386 года в Гейдельберге состоялась церемония основания университета. Сегодня он считается старейшим университетом Германии.",
+          "de": "Am 18. Oktober 1386 fand in Heidelberg die Gruendungszeremonie der Universitaet statt. Heute gilt sie als aelteste Universitaet Deutschlands.",
+          "en": "On 18 October 1386, the founding ceremony of Heidelberg University took place. It is now regarded as Germany's oldest university."
+        },
+        "importance": {
+          "ru": "Дата показывает глубину немецкой университетской традиции.",
+          "de": "Das Datum zeigt die Tiefe der deutschen Universitaetstradition.",
+          "en": "The date shows the depth of Germany's university tradition."
+        }
       }
     ]
   },
@@ -60,6 +79,14 @@
     {
       "label": "Wartburg Castle: Luther and history",
       "url": "https://www.wartburg.de/en/"
+    },
+    {
+      "label": "Heidelberg University: history",
+      "url": "https://www.625.uni-heidelberg.de/geschichte.html"
+    },
+    {
+      "label": "Heidelberg University Library: beginnings",
+      "url": "https://www.ub.uni-heidelberg.de/Englisch/ausstellungen/625jahre2011/sektion1.html"
     }
   ]
 }

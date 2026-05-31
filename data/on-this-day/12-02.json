@@ -44,6 +44,25 @@
           "de": "Die Wiedervereinigung ging auch nach den Feiern weiter.",
           "en": "Reunification continued after the celebrations."
         }
+      },
+      {
+        "id": "1409-leipzig-university-founded",
+        "year": 1409,
+        "title": {
+          "ru": "Основан Лейпцигский университет",
+          "de": "Die Universitaet Leipzig wird gegruendet",
+          "en": "Leipzig University is founded"
+        },
+        "description": {
+          "ru": "2 декабря 1409 года была основана Лейпцигская университетская традиция. Университет стал одним из старейших и важнейших центров науки в немецких землях.",
+          "de": "Am 2. Dezember 1409 wurde die Universitaet Leipzig gegruendet. Sie wurde zu einem der aeltesten und wichtigsten Wissenschaftszentren in den deutschen Laendern.",
+          "en": "On 2 December 1409, Leipzig University was founded. It became one of the oldest and most important centers of learning in the German lands."
+        },
+        "importance": {
+          "ru": "Лейпциг соединяет историю Саксонии, книг, музыки и университетской науки.",
+          "de": "Leipzig verbindet die Geschichte Sachsens, der Buecher, der Musik und der Universitaetswissenschaft.",
+          "en": "Leipzig connects the history of Saxony, books, music and university scholarship."
+        }
       }
     ]
   },
@@ -60,6 +79,10 @@
     {
       "label": "Federal Returning Officer: Bundestag elections 1990",
       "url": "https://www.bundeswahlleiterin.de/en/bundestagswahlen/1990.html"
+    },
+    {
+      "label": "Leipzig University: foundation",
+      "url": "https://www.uni-leipzig.de/newsdetail/artikel/feierliche-gruendung-der-universitaet-leipzig-am-2-dezember-1409-2022-11-28"
     }
   ]
 }
