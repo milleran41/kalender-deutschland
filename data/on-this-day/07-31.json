@@ -1,0 +1,90 @@
+{
+  "date": "07-31",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1914-germany-ultimatums-russia-france",
+    "year": 1914,
+    "title": {
+      "ru": "Германия предъявила ультиматумы России и Франции",
+      "de": "Deutschland stellt Russland und Frankreich Ultimaten",
+      "en": "Germany issues ultimatums to Russia and France"
+    },
+    "description": {
+      "ru": "31 июля 1914 года Германская империя потребовала от России остановить мобилизацию и запросила у Франции нейтралитет в случае германо-русской войны. Эти ультиматумы стали последними шагами перед началом большой войны.",
+      "de": "Am 31. Juli 1914 forderte das Deutsche Reich Russland auf, die Mobilmachung zu stoppen, und verlangte von Frankreich Neutralitaet im Fall eines deutsch-russischen Krieges. Diese Ultimaten gehoerten zu den letzten Schritten vor dem Beginn des grossen Krieges.",
+      "en": "On 31 July 1914, the German Empire demanded that Russia halt mobilization and asked France for neutrality in the event of a German-Russian war. These ultimatums were among the final steps before the outbreak of the Great War."
+    },
+    "importance": {
+      "ru": "Дата показывает, как Июльский кризис превратился из дипломатического конфликта в военный механизм.",
+      "de": "Das Datum zeigt, wie die Julikrise aus einem diplomatischen Konflikt zu einem militaerischen Mechanismus wurde.",
+      "en": "The date shows how the July Crisis turned from a diplomatic conflict into a military mechanism."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "mobilization-chain",
+        "year": 1914,
+        "title": {
+          "ru": "Цепочка мобилизаций",
+          "de": "Kette der Mobilmachungen",
+          "en": "Chain of mobilizations"
+        },
+        "description": {
+          "ru": "Планы армий были устроены так, что мобилизация одной державы ускоряла решения другой. Германия боялась войны на два фронта и поэтому действовала по жёсткому расписанию военных планов.",
+          "de": "Die Plaene der Armeen waren so aufgebaut, dass die Mobilmachung einer Macht die Entscheidungen der anderen beschleunigte. Deutschland fuerchtete den Zweifrontenkrieg und handelte deshalb nach dem engen Zeitplan militaerischer Plaene.",
+          "en": "Army plans were structured so that one power's mobilization accelerated another's decisions. Germany feared a two-front war and therefore acted according to the tight timetable of military planning."
+        },
+        "importance": {
+          "ru": "Так школьнику проще понять, почему летом 1914 года события ускорялись почти каждый день.",
+          "de": "So laesst sich leichter verstehen, warum sich die Ereignisse im Sommer 1914 fast taeglich beschleunigten.",
+          "en": "This makes it easier to understand why events in summer 1914 accelerated almost day by day."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "ultimatums-as-countdown",
+        "year": 1914,
+        "title": {
+          "ru": "Ультиматум как обратный отсчёт",
+          "de": "Ultimatum als Countdown",
+          "en": "Ultimatum as countdown"
+        },
+        "description": {
+          "ru": "Ультиматумы задавали часы и сроки, после которых дипломатия быстро теряла пространство для манёвра. В истории Июльского кризиса время стало почти таким же важным фактором, как армии.",
+          "de": "Ultimaten setzten Uhrzeiten und Fristen, nach denen Diplomatie rasch ihren Spielraum verlor. In der Julikrise wurde Zeit fast so wichtig wie Armeen.",
+          "en": "Ultimatums set clocks and deadlines after which diplomacy quickly lost room for maneuver. In the July Crisis, time became almost as important as armies."
+        },
+        "importance": {
+          "ru": "Это показывает, как опасны политические решения, привязанные к военному таймеру.",
+          "de": "Das zeigt, wie gefaehrlich politische Entscheidungen sind, die an einen militaerischen Timer gebunden werden.",
+          "en": "It shows how dangerous political decisions can be when tied to a military timer."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Уже 1 августа 1914 года Германия объявила войну России.",
+    "de": "Bereits am 1. August 1914 erklaerte Deutschland Russland den Krieg.",
+    "en": "On 1 August 1914, Germany declared war on Russia."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Germany issues ultimatums to Russia and France",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1914-07-31-germany-issues-ultimatums-to-russia-and-france/"
+    },
+    {
+      "label": "Britannica: World War I",
+      "url": "https://www.britannica.com/event/World-War-I"
+    },
+    {
+      "label": "Digital Chicago: Germany issues Russia an ultimatum",
+      "url": "https://digitalchicagohistory.org/items/show/2069"
+    }
+  ]
+}

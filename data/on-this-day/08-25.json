@@ -1,0 +1,90 @@
+{
+  "date": "08-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1944-liberation-of-paris-german-surrender",
+    "year": 1944,
+    "title": {
+      "ru": "Немецкий гарнизон Парижа капитулировал",
+      "de": "Die deutsche Besatzung von Paris kapituliert",
+      "en": "The German garrison in Paris surrenders"
+    },
+    "description": {
+      "ru": "25 августа 1944 года немецкий командующий Парижем генерал Дитрих фон Хольтиц подписал капитуляцию. Париж был освобождён после четырёх лет немецкой оккупации.",
+      "de": "Am 25. August 1944 unterzeichnete der deutsche Stadtkommandant von Paris, General Dietrich von Choltitz, die Kapitulation. Paris wurde nach vier Jahren deutscher Besatzung befreit.",
+      "en": "On 25 August 1944, the German commander of Paris, General Dietrich von Choltitz, signed the surrender. Paris was liberated after four years of German occupation."
+    },
+    "importance": {
+      "ru": "Дата показывает конец немецкой оккупации одной из главных европейских столиц и приближение поражения нацистской Германии на Западном фронте.",
+      "de": "Das Datum zeigt das Ende der deutschen Besatzung einer der wichtigsten europaeischen Hauptstaedte und das Naeherkommen der Niederlage NS-Deutschlands an der Westfront.",
+      "en": "The date marks the end of German occupation of one of Europe's major capitals and the approaching defeat of Nazi Germany on the Western Front."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "occupation-ends-in-paris",
+        "year": 1944,
+        "title": {
+          "ru": "Конец оккупации",
+          "de": "Ende der Besatzung",
+          "en": "End of occupation"
+        },
+        "description": {
+          "ru": "Париж был занят немецкими войсками с июня 1940 года. Его освобождение стало не только военным событием, но и мощным символом возвращения Франции к самостоятельной политической жизни.",
+          "de": "Paris war seit Juni 1940 von deutschen Truppen besetzt. Seine Befreiung war nicht nur ein militaerisches Ereignis, sondern auch ein starkes Symbol fuer die Rueckkehr Frankreichs zu eigenstaendigem politischem Leben.",
+          "en": "Paris had been occupied by German troops since June 1940. Its liberation was not only a military event, but also a powerful symbol of France's return to independent political life."
+        },
+        "importance": {
+          "ru": "Это помогает увидеть, как отступление Германии меняло политическую карту Европы.",
+          "de": "Das hilft zu sehen, wie der deutsche Rueckzug die politische Karte Europas veraenderte.",
+          "en": "It helps show how Germany's retreat changed the political map of Europe."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "why-paris-not-destroyed",
+        "year": 1944,
+        "title": {
+          "ru": "Почему Париж не был разрушен?",
+          "de": "Warum wurde Paris nicht zerstoert?",
+          "en": "Why was Paris not destroyed?"
+        },
+        "description": {
+          "ru": "Позднее вокруг Хольтица возникла дискуссия о том, почему город не был разрушен по нацистским приказам. История сложнее легенды, но сам вопрос показывает, насколько опасным был последний этап оккупации.",
+          "de": "Spaeter entstand um Choltitz die Debatte, warum die Stadt entgegen nationalsozialistischen Befehlen nicht zerstoert wurde. Die Geschichte ist komplizierter als die Legende, doch schon die Frage zeigt, wie gefaehrlich die letzte Phase der Besatzung war.",
+          "en": "A later debate grew around Choltitz and why the city was not destroyed despite Nazi orders. The story is more complicated than the legend, but the question itself shows how dangerous the final phase of occupation was."
+        },
+        "importance": {
+          "ru": "Так дата связывает военную историю с памятью, мифами и ответственностью командиров.",
+          "de": "So verbindet das Datum Militaergeschichte mit Erinnerung, Mythen und der Verantwortung von Befehlshabern.",
+          "en": "The date links military history with memory, myths and commanders' responsibility."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Париж был освобождён французскими и американскими силами при активном участии французского Сопротивления.",
+    "de": "Paris wurde von franzoesischen und amerikanischen Kraeften mit aktiver Beteiligung der Resistance befreit.",
+    "en": "Paris was liberated by French and American forces with active participation by the French Resistance."
+  },
+  "sources": [
+    {
+      "label": "French Ministry of Armed Forces: Liberation of Paris",
+      "url": "https://www.defense.gouv.fr/actualites/liberation-paris-1944-france-liberee-34"
+    },
+    {
+      "label": "Chemins de memoire: Liberation of Paris",
+      "url": "https://www.cheminsdememoire.gouv.fr/en/aout-1944-liberation-de-paris"
+    },
+    {
+      "label": "History.com: Paris is liberated",
+      "url": "https://www.history.com/this-day-in-history/august-25/paris-liberated/"
+    }
+  ]
+}

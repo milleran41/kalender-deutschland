@@ -1,0 +1,90 @@
+{
+  "date": "07-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1227-battle-of-bornhoeved",
+    "year": 1227,
+    "title": {
+      "ru": "Битва при Борнхёведе",
+      "de": "Die Schlacht bei Bornhoeved",
+      "en": "The Battle of Bornhoeved"
+    },
+    "description": {
+      "ru": "22 июля 1227 года у Борнхёведа в Гольштейне коалиция северонемецких князей и городов победила датского короля Вальдемара II. Сражение остановило датское господство на южном побережье Балтики.",
+      "de": "Am 22. Juli 1227 besiegte bei Bornhoeved in Holstein eine Koalition norddeutscher Fuersten und Staedte den daenischen Koenig Waldemar II. Die Schlacht beendete die daenische Vorherrschaft an der suedlichen Ostseekueste.",
+      "en": "On 22 July 1227, near Bornhoeved in Holstein, a coalition of north German princes and towns defeated Danish King Valdemar II. The battle ended Danish dominance on the southern Baltic coast."
+    },
+    "importance": {
+      "ru": "Дата важна для карты северной Германии: она усилила позиции Гольштейна, Любека и других сил Балтийского региона.",
+      "de": "Das Datum ist wichtig fuer die Karte Norddeutschlands: Es staerkte Holstein, Luebeck und andere Kraefte des Ostseeraums.",
+      "en": "The date matters for the map of northern Germany: it strengthened Holstein, Luebeck and other powers of the Baltic region."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "baltic-power-shift",
+        "year": 1227,
+        "title": {
+          "ru": "Перелом на Балтике",
+          "de": "Wende an der Ostsee",
+          "en": "Turning point on the Baltic"
+        },
+        "description": {
+          "ru": "В XIII веке Балтика была пространством борьбы датской короны, немецких князей, городов и торговых интересов. Борнхёвед изменил баланс сил и помог северонемецким городам развиваться свободнее.",
+          "de": "Im 13. Jahrhundert war die Ostsee ein Raum des Ringens zwischen der daenischen Krone, deutschen Fuersten, Staedten und Handelsinteressen. Bornhoeved veraenderte das Kraefteverhaeltnis und gab norddeutschen Staedten mehr Spielraum.",
+          "en": "In the thirteenth century, the Baltic was a space of struggle between the Danish crown, German princes, towns and trading interests. Bornhoeved changed the balance of power and gave north German towns more room to develop."
+        },
+        "importance": {
+          "ru": "Так видно, что история Германии складывалась не только на Рейне или в Берлине, но и у Балтийского моря.",
+          "de": "So wird sichtbar, dass deutsche Geschichte nicht nur am Rhein oder in Berlin entstand, sondern auch an der Ostsee.",
+          "en": "It shows that German history developed not only on the Rhine or in Berlin, but also on the Baltic Sea."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "luebeck-hamburg-coalition",
+        "year": 1227,
+        "title": {
+          "ru": "Города как военная сила",
+          "de": "Staedte als militaerische Kraft",
+          "en": "Cities as military power"
+        },
+        "description": {
+          "ru": "В битве участвовали не только князья, но и города, включая Любек и Гамбург. Это напоминает, что средневековые города могли быть самостоятельными политическими игроками.",
+          "de": "An der Schlacht beteiligten sich nicht nur Fuersten, sondern auch Staedte, darunter Luebeck und Hamburg. Das erinnert daran, dass mittelalterliche Staedte eigenstaendige politische Akteure sein konnten.",
+          "en": "The battle involved not only princes, but also towns, including Luebeck and Hamburg. It is a reminder that medieval towns could be independent political actors."
+        },
+        "importance": {
+          "ru": "Для будущей истории Ганзы это очень важный фон.",
+          "de": "Fuer die spaetere Geschichte der Hanse ist das ein sehr wichtiger Hintergrund.",
+          "en": "This is important background for the later history of the Hanseatic League."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Борнхёвед находится в современной земле Шлезвиг-Гольштейн.",
+    "de": "Bornhoeved liegt im heutigen Schleswig-Holstein.",
+    "en": "Bornhoeved is in today's Schleswig-Holstein."
+  },
+  "sources": [
+    {
+      "label": "Graenseforeningen: Slaget ved Bornhoeved",
+      "url": "https://graenseforeningen.dk/om-graenselandet/leksikon/bornhoved-slaget-ved"
+    },
+    {
+      "label": "Deutsche Digitale Bibliothek: Die Schlacht bei Bornhoeved",
+      "url": "https://www.deutsche-digitale-bibliothek.de/item/EXTK7IVCMYUOH5RIZOTNKGSIAOOX5HSX"
+    },
+    {
+      "label": "Wikimedia Commons: Battle of Bornhoeved",
+      "url": "https://commons.wikimedia.org/wiki/Category:Battle_of_Bornh%C3%B6ved_(1227)"
+    }
+  ]
+}
