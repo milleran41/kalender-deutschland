@@ -1,0 +1,90 @@
+{
+  "date": "12-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1979-nato-double-track-decision",
+    "year": 1979,
+    "title": {
+      "ru": "НАТО приняло двойное решение по ракетам",
+      "de": "Die NATO fasst den Doppelbeschluss",
+      "en": "NATO adopts the Double-Track Decision"
+    },
+    "description": {
+      "ru": "12 декабря 1979 года НАТО приняло так называемое двойное решение: предлагать переговоры с СССР и одновременно готовить размещение новых ракет средней дальности. Для ФРГ это стало одной из самых спорных тем холодной войны.",
+      "de": "Am 12. Dezember 1979 fasste die NATO den sogenannten Doppelbeschluss: Verhandlungen mit der Sowjetunion anbieten und zugleich die Stationierung neuer Mittelstreckenraketen vorbereiten. Fuer die Bundesrepublik wurde dies zu einem der umstrittensten Themen des Kalten Krieges.",
+      "en": "On 12 December 1979, NATO adopted the so-called Double-Track Decision: offer negotiations with the Soviet Union while preparing the deployment of new intermediate-range missiles. For West Germany, it became one of the most controversial Cold War issues."
+    },
+    "importance": {
+      "ru": "Решение напрямую затрагивало безопасность ФРГ и вызвало крупное движение за мир в немецком обществе.",
+      "de": "Der Beschluss betraf die Sicherheit der Bundesrepublik direkt und loeste eine grosse Friedensbewegung in der deutschen Gesellschaft aus.",
+      "en": "The decision directly affected West Germany's security and sparked a large peace movement in German society."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "euromissile-crisis",
+        "year": 1979,
+        "title": {
+          "ru": "Евроракетный кризис",
+          "de": "Die Nachruestungsdebatte",
+          "en": "The Euromissile crisis"
+        },
+        "description": {
+          "ru": "В Европе спорили о советских ракетах SS-20 и ответном размещении западных систем. ФРГ оказалась в центре дискуссии, потому что именно Центральная Европа могла стать главным театром ядерного конфликта.",
+          "de": "In Europa wurde ueber sowjetische SS-20-Raketen und die westliche Nachruestung gestritten. Die Bundesrepublik stand im Zentrum der Debatte, weil gerade Mitteleuropa zum Hauptschauplatz eines nuklearen Konflikts haette werden koennen.",
+          "en": "Europe debated Soviet SS-20 missiles and the Western response. West Germany stood at the center of the debate because Central Europe could have become the main theater of a nuclear conflict."
+        },
+        "importance": {
+          "ru": "Так видно, почему внешняя политика холодной войны ощущалась в Германии как личная угроза.",
+          "de": "So wird sichtbar, warum Aussenpolitik im Kalten Krieg in Deutschland als persoenliche Bedrohung empfunden wurde.",
+          "en": "It shows why Cold War foreign policy was felt in Germany as a personal threat."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "two-track-name",
+        "year": 1979,
+        "title": {
+          "ru": "Почему «двойное»?",
+          "de": "Warum Doppelbeschluss?",
+          "en": "Why double-track?"
+        },
+        "description": {
+          "ru": "Решение называли двойным, потому что оно объединяло два пути: переговоры об ограничении вооружений и подготовку к размещению новых ракет, если переговоры не дадут результата.",
+          "de": "Der Beschluss hiess Doppelbeschluss, weil er zwei Wege verband: Verhandlungen ueber Ruestungsbegrenzung und die Vorbereitung neuer Raketenstationierungen, falls die Verhandlungen scheiterten.",
+          "en": "It was called double-track because it combined two paths: arms limitation negotiations and preparation for new missile deployments if talks failed."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как одно политическое слово может скрывать сложную стратегию.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie ein politisches Wort eine komplizierte Strategie verbergen kann.",
+          "en": "It is a good example of how one political term can hide a complex strategy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В начале 1980-х годов против размещения ракет в ФРГ проходили массовые демонстрации.",
+    "de": "Anfang der 1980er Jahre demonstrierten in der Bundesrepublik Hunderttausende gegen die Raketenstationierung.",
+    "en": "In the early 1980s, hundreds of thousands demonstrated in West Germany against missile deployment."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: NATO Double-Track Decision",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/nato-passes-the-dual-track-decision-december-12-1979"
+    },
+    {
+      "label": "Konrad-Adenauer-Stiftung: Der NATO-Doppelbeschluss",
+      "url": "https://www.kas.de/de/web/geschichtsbewusst/essay/-/content/der-nato-doppelbeschluss-vom-12-dezember-1979"
+    },
+    {
+      "label": "NATO: The INF Treaty and the Euromissile crisis",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_137930.htm"
+    }
+  ]
+}

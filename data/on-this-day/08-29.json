@@ -1,0 +1,111 @@
+{
+  "date": "08-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-first-soviet-atomic-test",
+    "year": 1949,
+    "title": {
+      "ru": "СССР испытал первую атомную бомбу",
+      "de": "Die Sowjetunion testet ihre erste Atombombe",
+      "en": "The Soviet Union tests its first atomic bomb"
+    },
+    "description": {
+      "ru": "29 августа 1949 года Советский Союз испытал первую атомную бомбу на Семипалатинском полигоне. Для Германии это событие было важным фоном холодной войны: страна уже была разделена и оказалась между двумя ядерными блоками.",
+      "de": "Am 29. August 1949 testete die Sowjetunion ihre erste Atombombe auf dem Testgelaende Semipalatinsk. Fuer Deutschland war dieses Ereignis ein wichtiger Hintergrund des Kalten Krieges: Das Land war bereits geteilt und lag zwischen zwei nuklearen Bloeken.",
+      "en": "On 29 August 1949, the Soviet Union tested its first atomic bomb at the Semipalatinsk test site. For Germany, the event became part of the Cold War background: the country was already divided and lay between two nuclear blocs."
+    },
+    "importance": {
+      "ru": "Испытание положило конец американской атомной монополии и усилило напряжение, которое особенно остро ощущалось в разделённой Германии.",
+      "de": "Der Test beendete das amerikanische Atommonopol und verschaerfte Spannungen, die im geteilten Deutschland besonders stark spuerbar waren.",
+      "en": "The test ended the American atomic monopoly and intensified tensions that were felt especially sharply in divided Germany."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "german-scientific-shadows",
+        "year": 1949,
+        "title": {
+          "ru": "Немецкие следы в атомной гонке",
+          "de": "Deutsche Spuren im atomaren Wettruesten",
+          "en": "German traces in the atomic race"
+        },
+        "description": {
+          "ru": "После Второй мировой войны советская атомная программа использовала разные источники знаний, включая разведданные и работу специалистов из побеждённой Германии. Это показывает, как научные последствия войны продолжались уже в холодной войне.",
+          "de": "Nach dem Zweiten Weltkrieg nutzte das sowjetische Atomprogramm verschiedene Wissensquellen, darunter Geheimdienstinformationen und die Arbeit von Fachleuten aus dem besiegten Deutschland. Das zeigt, wie wissenschaftliche Kriegsfolgen im Kalten Krieg weiterwirkten.",
+          "en": "After the Second World War, the Soviet atomic program drew on various sources of knowledge, including intelligence and the work of specialists from defeated Germany. This shows how the scientific consequences of war continued into the Cold War."
+        },
+        "importance": {
+          "ru": "Так видно, что история науки не всегда отделена от политики и войны.",
+          "de": "So wird deutlich, dass Wissenschaftsgeschichte nicht immer von Politik und Krieg getrennt ist.",
+          "en": "It shows that the history of science is not always separate from politics and war."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "cold-war-germany",
+        "year": 1949,
+        "title": {
+          "ru": "Разделённая Германия в ядерном мире",
+          "de": "Geteiltes Deutschland in einer nuklearen Welt",
+          "en": "Divided Germany in a nuclear world"
+        },
+        "description": {
+          "ru": "В 1949 году были созданы ФРГ и ГДР. В том же году стало ясно, что холодная война будет не только политическим и военным противостоянием, но и ядерной гонкой.",
+          "de": "1949 entstanden die Bundesrepublik Deutschland und die DDR. Im selben Jahr wurde deutlich, dass der Kalte Krieg nicht nur ein politischer und militaerischer Konflikt, sondern auch ein nukleares Wettruesten sein wuerde.",
+          "en": "In 1949, the Federal Republic of Germany and the GDR were founded. In the same year, it became clear that the Cold War would be not only a political and military conflict, but also a nuclear arms race."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему тема ракет, баз и ядерного оружия так часто возвращалась в немецкой политике.",
+          "de": "Das hilft zu verstehen, warum Raketen, Stützpunkte und Atomwaffen in der deutschen Politik immer wieder eine Rolle spielten.",
+          "en": "This helps explain why missiles, bases and nuclear weapons repeatedly returned as issues in German politics."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "joe-one",
+        "year": 1949,
+        "title": {
+          "ru": "На Западе тест называли Joe-1",
+          "de": "Im Westen hiess der Test Joe-1",
+          "en": "In the West the test was called Joe-1"
+        },
+        "description": {
+          "ru": "На Западе первое советское испытание получило условное название Joe-1. Такие прозвища были частью языка холодной войны, где разведка, страх и пропаганда смешивались с наукой.",
+          "de": "Im Westen erhielt der erste sowjetische Atomtest den Decknamen Joe-1. Solche Spitznamen gehoerten zur Sprache des Kalten Krieges, in der Aufklaerung, Angst und Propaganda mit Wissenschaft vermischt waren.",
+          "en": "In the West, the first Soviet atomic test was given the codename Joe-1. Such nicknames were part of Cold War language, where intelligence, fear and propaganda mixed with science."
+        },
+        "importance": {
+          "ru": "Даже названия испытаний показывают атмосферу эпохи.",
+          "de": "Schon die Namen der Tests zeigen die Atmosphaere der Epoche.",
+          "en": "Even the names of tests reveal the atmosphere of the era."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Американская разведка обнаружила следы испытания по радиоактивным частицам в атмосфере.",
+    "de": "Amerikanische Aufklaerung entdeckte Spuren des Tests anhand radioaktiver Partikel in der Atmosphaere.",
+    "en": "U.S. intelligence detected evidence of the test through radioactive particles in the atmosphere."
+  },
+  "sources": [
+    {
+      "label": "PBS American Experience: Soviet Tests",
+      "url": "https://www.pbs.org/wgbh/amex/bomb/peopleevents/pandeAMEX53.html"
+    },
+    {
+      "label": "National Security Archive: Detection of the First Soviet Nuclear Test",
+      "url": "https://nsarchive.gwu.edu/node/3334"
+    },
+    {
+      "label": "Swiss Federal Archives: First Russian atomic bomb",
+      "url": "https://www.bar.admin.ch/bar/de/home/service-publikationen/publikationen/geschichte-aktuell/zuendung-der-ersten-russischen-atombombe--29--august-1949.html"
+    }
+  ]
+}

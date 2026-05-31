@@ -1,0 +1,90 @@
+{
+  "date": "08-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1968-prague-spring-crushed",
+    "year": 1968,
+    "title": {
+      "ru": "Войска Варшавского договора подавили Пражскую весну",
+      "de": "Warschauer-Pakt-Truppen beenden den Prager Fruehling",
+      "en": "Warsaw Pact troops crush the Prague Spring"
+    },
+    "description": {
+      "ru": "21 августа 1968 года войска стран Варшавского договора вошли в Чехословакию и подавили реформы Пражской весны. ГДР политически поддержала операцию, а тема немецкого участия была особенно чувствительной из-за памяти о нацистской оккупации.",
+      "de": "Am 21. August 1968 marschierten Truppen des Warschauer Pakts in die Tschechoslowakei ein und beendeten die Reformen des Prager Fruehlings. Die DDR unterstuetzte die Operation politisch, waehrend die Frage einer deutschen Beteiligung wegen der Erinnerung an die NS-Besatzung besonders sensibel war.",
+      "en": "On 21 August 1968, Warsaw Pact troops entered Czechoslovakia and crushed the reforms of the Prague Spring. East Germany politically supported the operation, while the question of German participation was especially sensitive because of the memory of Nazi occupation."
+    },
+    "importance": {
+      "ru": "Дата показывает, как разделённая Германия была втянута в логику холодной войны и советского блока.",
+      "de": "Das Datum zeigt, wie das geteilte Deutschland in die Logik des Kalten Krieges und des sowjetischen Blocks eingebunden war.",
+      "en": "The date shows how divided Germany was drawn into the logic of the Cold War and the Soviet bloc."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "gdr-and-prague-spring",
+        "year": 1968,
+        "title": {
+          "ru": "ГДР и страх перед реформами",
+          "de": "Die DDR und die Angst vor Reformen",
+          "en": "East Germany and the fear of reforms"
+        },
+        "description": {
+          "ru": "Руководство ГДР опасалось, что чехословацкие реформы могут вдохновить похожие требования внутри Восточной Германии. Поэтому оно поддержало жёсткую линию Москвы против либерализации.",
+          "de": "Die DDR-Fuehrung fuerchtete, dass die tschechoslowakischen Reformen aehnliche Forderungen in Ostdeutschland ausloesen koennten. Deshalb stuetzte sie Moskaus harte Linie gegen die Liberalisierung.",
+          "en": "East Germany's leadership feared that Czechoslovak reforms could inspire similar demands inside East Germany. It therefore supported Moscow's hard line against liberalization."
+        },
+        "importance": {
+          "ru": "Так видно, почему история соседних стран была важна и для немецкой диктатуры СЕПГ.",
+          "de": "So wird sichtbar, warum die Geschichte der Nachbarlaender auch fuer die SED-Diktatur wichtig war.",
+          "en": "It shows why the history of neighboring countries also mattered to East Germany's SED dictatorship."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "german-uniforms-question",
+        "year": 1968,
+        "title": {
+          "ru": "Немецкие солдаты как политический риск",
+          "de": "Deutsche Soldaten als politisches Risiko",
+          "en": "German soldiers as a political risk"
+        },
+        "description": {
+          "ru": "Идея появления немецких войск в Чехословакии была крайне взрывоопасной из-за событий 1938-1939 годов. Поэтому вопрос участия частей ГДР в самой операции оставался политически особенно чувствительным.",
+          "de": "Die Vorstellung deutscher Truppen in der Tschechoslowakei war wegen der Ereignisse von 1938-1939 hoch brisant. Deshalb blieb die Frage des Einsatzes von DDR-Einheiten politisch besonders empfindlich.",
+          "en": "The idea of German troops in Czechoslovakia was explosive because of the events of 1938-1939. That made the question of East German units in the operation politically especially sensitive."
+        },
+        "importance": {
+          "ru": "Это редкий пример, когда память о прошлом напрямую влияла на военное решение в холодной войне.",
+          "de": "Das ist ein seltenes Beispiel dafuer, wie die Erinnerung an die Vergangenheit eine militaerische Entscheidung im Kalten Krieg direkt beeinflusste.",
+          "en": "It is a rare example of memory of the past directly influencing a military decision in the Cold War."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Западной Германии вторжение вызвало сильную тревогу и стало важным событием в восприятии советского блока.",
+    "de": "In Westdeutschland loeste der Einmarsch grosse Besorgnis aus und wurde zu einem wichtigen Ereignis in der Wahrnehmung des sowjetischen Blocks.",
+    "en": "In West Germany, the invasion caused deep concern and became an important event in perceptions of the Soviet bloc."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Prague Spring",
+      "url": "https://www.britannica.com/event/Prague-Spring"
+    },
+    {
+      "label": "German History in Documents and Images: Poster protesting the invasion",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/poster-protesting-the-invasion-of-the-czechoslovak-socialist-republic-by-warsaw-pact-troops-august-21-1968.pdf"
+    },
+    {
+      "label": "Imperial War Museums: The Prague Spring and Warsaw Pact Invasion",
+      "url": "https://www.iwm.org.uk/sites/default/files/The%20Prague%20Spring%20and%20Warsaw%20Pact%20Invasion%201968%20by%20Elisabeth%20Robson.pdf"
+    }
+  ]
+}
