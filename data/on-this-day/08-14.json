@@ -1,0 +1,65 @@
+{
+  "date": "08-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-weimar-constitution-effective",
+    "year": 1919,
+    "title": {
+      "ru": "Вступила в силу Веймарская конституция",
+      "de": "Die Weimarer Verfassung tritt in Kraft",
+      "en": "The Weimar Constitution takes effect"
+    },
+    "description": {
+      "ru": "14 августа 1919 года вступила в силу Веймарская конституция. Она закрепила Германию как республику после падения монархии и Первой мировой войны.",
+      "de": "Am 14. August 1919 trat die Weimarer Verfassung in Kraft. Sie machte Deutschland nach dem Ende der Monarchie und dem Ersten Weltkrieg zur Republik.",
+      "en": "On 14 August 1919, the Weimar Constitution took effect. It established Germany as a republic after the fall of the monarchy and the First World War."
+    },
+    "importance": {
+      "ru": "Конституция была важным демократическим шагом, но Веймарская республика оставалась очень уязвимой.",
+      "de": "Die Verfassung war ein wichtiger demokratischer Schritt, doch die Weimarer Republik blieb sehr verletzlich.",
+      "en": "The constitution was an important democratic step, but the Weimar Republic remained very vulnerable."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "weimar-rights-and-risks",
+        "year": 1919,
+        "title": {
+          "ru": "Права и слабые места",
+          "de": "Rechte und Schwachstellen",
+          "en": "Rights and weaknesses"
+        },
+        "description": {
+          "ru": "Веймарская конституция включала современные права и парламентские институты. Но чрезвычайные полномочия президента и политическая нестабильность позже сыграли опасную роль.",
+          "de": "Die Weimarer Verfassung enthielt moderne Rechte und parlamentarische Institutionen. Doch Notbefugnisse des Praesidenten und politische Instabilitaet spielten spaeter eine gefaehrliche Rolle.",
+          "en": "The Weimar Constitution included modern rights and parliamentary institutions. But presidential emergency powers and political instability later played a dangerous role."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему демократии нужны не только хорошие тексты законов, но и устойчивая политическая культура.",
+          "de": "Das hilft zu verstehen, warum Demokratie nicht nur gute Gesetzestexte, sondern auch eine stabile politische Kultur braucht.",
+          "en": "It helps show that democracy needs not only good legal texts, but also a stable political culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Конституция была подписана президентом Фридрихом Эбертом 11 августа, а вступила в силу 14 августа 1919 года.",
+    "de": "Die Verfassung wurde am 11. August von Praesident Friedrich Ebert unterzeichnet und trat am 14. August 1919 in Kraft.",
+    "en": "The constitution was signed by President Friedrich Ebert on 11 August and took effect on 14 August 1919."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Weimar Constitution",
+      "url": "https://www.britannica.com/place/Germany/The-Weimar-constitution"
+    },
+    {
+      "label": "German History in Documents and Images: Weimar Constitution",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/the-weimar-constitution-august-11-1919.pdf"
+    }
+  ]
+}

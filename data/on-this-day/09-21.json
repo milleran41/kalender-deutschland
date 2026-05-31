@@ -1,0 +1,65 @@
+{
+  "date": "09-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-bundesrat-two-plus-four",
+    "year": 1990,
+    "title": {
+      "ru": "Бундесрат одобрил договор «Два плюс четыре»",
+      "de": "Der Bundesrat stimmt dem Zwei-plus-Vier-Vertrag zu",
+      "en": "The Bundesrat approves the Two Plus Four Treaty"
+    },
+    "description": {
+      "ru": "21 сентября 1990 года Бундесрат одобрил договор об окончательном урегулировании в отношении Германии, известный как договор «Два плюс четыре». Документ открыл путь к полному суверенитету объединённой Германии.",
+      "de": "Am 21. September 1990 stimmte der Bundesrat dem Vertrag ueber die abschliessende Regelung in Bezug auf Deutschland zu, bekannt als Zwei-plus-Vier-Vertrag. Das Dokument oeffnete den Weg zur vollen Souveraenitaet des vereinten Deutschlands.",
+      "en": "On 21 September 1990, the Bundesrat approved the Treaty on the Final Settlement with Respect to Germany, known as the Two Plus Four Treaty. The document opened the way to full sovereignty for reunified Germany."
+    },
+    "importance": {
+      "ru": "Эта дата показывает юридическую сторону воссоединения: Германия не просто праздновала единство, а завершала сложные международные договорённости.",
+      "de": "Dieses Datum zeigt die rechtliche Seite der Wiedervereinigung: Deutschland feierte nicht nur Einheit, sondern schloss komplizierte internationale Regelungen ab.",
+      "en": "This date shows the legal side of reunification: Germany was not only celebrating unity, but completing complex international arrangements."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "two-plus-four-sovereignty",
+        "year": 1990,
+        "title": {
+          "ru": "Путь к полному суверенитету",
+          "de": "Der Weg zur vollen Souveraenitaet",
+          "en": "The path to full sovereignty"
+        },
+        "description": {
+          "ru": "В переговорах участвовали ФРГ, ГДР и четыре державы-победительницы Второй мировой войны. Поэтому договор связывает 1945, холодную войну и 1990 год в одну линию.",
+          "de": "An den Verhandlungen waren die Bundesrepublik, die DDR und die vier Siegermächte des Zweiten Weltkriegs beteiligt. Darum verbindet der Vertrag 1945, den Kalten Krieg und 1990 in einer Linie.",
+          "en": "The negotiations involved West Germany, East Germany and the four victorious powers of the Second World War. The treaty therefore connects 1945, the Cold War and 1990 in one line."
+        },
+        "importance": {
+          "ru": "Это важный фон к Дню немецкого единства 3 октября.",
+          "de": "Das ist ein wichtiger Hintergrund zum Tag der Deutschen Einheit am 3. Oktober.",
+          "en": "It is important background to German Unity Day on 3 October."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Сам договор был подписан в Москве 12 сентября 1990 года.",
+    "de": "Der Vertrag selbst wurde am 12. September 1990 in Moskau unterzeichnet.",
+    "en": "The treaty itself was signed in Moscow on 12 September 1990."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: Two Plus Four Treaty statement",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/erklaerung-der-bundesregierung-zum-vertrag-ueber-die-abschliessende-regelung-in-bezug-auf-deutschland-787666"
+    },
+    {
+      "label": "German History in Documents and Images: Two Plus Four Treaty",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/the-two-plus-four-treaty-september-12-1990"
+    }
+  ]
+}

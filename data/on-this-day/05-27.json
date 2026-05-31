@@ -1,0 +1,65 @@
+{
+  "date": "05-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1832-hambach-festival",
+    "year": 1832,
+    "title": {
+      "ru": "Начался Хамбахский праздник",
+      "de": "Das Hambacher Fest beginnt",
+      "en": "The Hambach Festival begins"
+    },
+    "description": {
+      "ru": "27 мая 1832 года у замка Хамбах в Пфальце собрались десятки тысяч людей. Они выступали за свободу, гражданские права, национальное единство и более открытую Европу.",
+      "de": "Am 27. Mai 1832 versammelten sich am Hambacher Schloss in der Pfalz Zehntausende Menschen. Sie traten fuer Freiheit, Buergerrechte, nationale Einheit und ein offeneres Europa ein.",
+      "en": "On 27 May 1832, tens of thousands gathered at Hambach Castle in the Palatinate. They called for freedom, civil rights, national unity and a more open Europe."
+    },
+    "importance": {
+      "ru": "Хамбахский праздник стал одним из главных символов раннего немецкого демократического движения.",
+      "de": "Das Hambacher Fest wurde zu einem der wichtigsten Symbole der fruehen deutschen Demokratiebewegung.",
+      "en": "The Hambach Festival became one of the main symbols of the early German democratic movement."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "black-red-gold-hambach",
+        "year": 1832,
+        "title": {
+          "ru": "Чёрно-красно-золотые цвета",
+          "de": "Schwarz-Rot-Gold",
+          "en": "Black, red and gold"
+        },
+        "description": {
+          "ru": "На Хамбахском празднике заметно звучали чёрно-красно-золотые цвета, позже ставшие цветами немецкой демократии. Тогда они выражали надежду на свободу и единство.",
+          "de": "Beim Hambacher Fest waren Schwarz-Rot-Gold deutlich sichtbar, spaeter die Farben der deutschen Demokratie. Damals standen sie fuer Hoffnung auf Freiheit und Einheit.",
+          "en": "Black, red and gold were prominent at the Hambach Festival and later became the colors of German democracy. At the time they expressed hope for freedom and unity."
+        },
+        "importance": {
+          "ru": "Так флаг становится не просто знаком государства, а памятью о политической борьбе.",
+          "de": "So wird eine Flagge nicht nur zum Staatszeichen, sondern zur Erinnerung an politische Kaempfe.",
+          "en": "A flag becomes not only a state symbol, but a memory of political struggle."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Хамбахский замок находится в современной земле Рейнланд-Пфальц.",
+    "de": "Das Hambacher Schloss liegt im heutigen Rheinland-Pfalz.",
+    "en": "Hambach Castle is in today's Rhineland-Palatinate."
+  },
+  "sources": [
+    {
+      "label": "Hambach Castle Foundation: Hambach Festival",
+      "url": "https://hambacher-schloss.de/entdecken/hambacher-fest/?lang=en"
+    },
+    {
+      "label": "Deutschlandmuseum: Hambach Festival",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1832-05-27-the-hambach-festival/"
+    }
+  ]
+}
