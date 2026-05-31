@@ -1,0 +1,111 @@
+{
+  "date": "10-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-ludendorff-asks-to-be-dismissed",
+    "year": 1918,
+    "title": {
+      "ru": "Людендорф попросил об отставке",
+      "de": "Ludendorff bittet um seine Entlassung",
+      "en": "Ludendorff asks to be dismissed"
+    },
+    "description": {
+      "ru": "25 октября 1918 года генерал Эрих Людендорф попросил кайзера Вильгельма II освободить его от должности. Это произошло в последние недели Первой мировой войны, когда военное и политическое руководство Германии уже понимало тяжесть поражения.",
+      "de": "Am 25. Oktober 1918 bat General Erich Ludendorff Kaiser Wilhelm II. um seine Entlassung. Das geschah in den letzten Wochen des Ersten Weltkriegs, als die militaerische und politische Fuehrung Deutschlands die Schwere der Niederlage bereits erkannte.",
+      "en": "On 25 October 1918, General Erich Ludendorff asked Kaiser Wilhelm II to dismiss him. It happened in the final weeks of the First World War, when Germany's military and political leadership already understood the scale of defeat."
+    },
+    "importance": {
+      "ru": "Дата показывает, как рушилась военная власть, которая фактически управляла Германской империей в конце войны.",
+      "de": "Das Datum zeigt, wie die militaerische Macht zerfiel, die das Deutsche Reich am Ende des Krieges faktisch beherrscht hatte.",
+      "en": "The date shows the collapse of the military power that had effectively dominated the German Empire at the end of the war."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "end-of-military-dominance",
+        "year": 1918,
+        "title": {
+          "ru": "Конец военной диктовки",
+          "de": "Ende der militaerischen Dominanz",
+          "en": "End of military dominance"
+        },
+        "description": {
+          "ru": "В последние годы войны Людендорф и Гинденбург имели огромное влияние на политику империи. Отставка Людендорфа стала знаком того, что прежний механизм власти больше не работает.",
+          "de": "In den letzten Kriegsjahren hatten Ludendorff und Hindenburg enormen Einfluss auf die Politik des Reiches. Ludendorffs Entlassung wurde zum Zeichen, dass der alte Machtmechanismus nicht mehr funktionierte.",
+          "en": "In the final years of the war, Ludendorff and Hindenburg had enormous influence over imperial policy. Ludendorff's dismissal became a sign that the old power mechanism no longer worked."
+        },
+        "importance": {
+          "ru": "Так легче понять, почему в ноябре 1918 года Германия так быстро перешла к революции и республике.",
+          "de": "So laesst sich besser verstehen, warum Deutschland im November 1918 so rasch in Revolution und Republik ueberging.",
+          "en": "This helps explain why Germany moved so quickly into revolution and republic in November 1918."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "erich-ludendorff",
+        "year": 1918,
+        "title": {
+          "ru": "Эрих Людендорф",
+          "de": "Erich Ludendorff",
+          "en": "Erich Ludendorff"
+        },
+        "description": {
+          "ru": "Людендорф был одним из самых влиятельных немецких военных руководителей Первой мировой войны. После поражения он сыграл опасную роль в распространении мифов о причинах краха Германии.",
+          "de": "Ludendorff war einer der einflussreichsten deutschen Militaerfuehrer des Ersten Weltkriegs. Nach der Niederlage spielte er eine gefaehrliche Rolle bei der Verbreitung von Mythen ueber die Ursachen des deutschen Zusammenbruchs.",
+          "en": "Ludendorff was one of Germany's most influential military leaders in the First World War. After defeat, he played a dangerous role in spreading myths about the causes of Germany's collapse."
+        },
+        "importance": {
+          "ru": "Его биография связывает военную историю империи с политическим кризисом Веймарской республики.",
+          "de": "Seine Biografie verbindet die Militärgeschichte des Kaiserreichs mit der politischen Krise der Weimarer Republik.",
+          "en": "His biography links the military history of the empire with the political crisis of the Weimar Republic."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "resignation-before-revolution",
+        "year": 1918,
+        "title": {
+          "ru": "Отставка перед революцией",
+          "de": "Ruecktritt vor der Revolution",
+          "en": "Resignation before revolution"
+        },
+        "description": {
+          "ru": "До провозглашения республики оставалось всего две недели. Поэтому отставка Людендорфа выглядит как один из последних ударов по старому порядку.",
+          "de": "Bis zur Ausrufung der Republik blieben nur noch zwei Wochen. Ludendorffs Entlassung wirkt deshalb wie einer der letzten Schlaege gegen die alte Ordnung.",
+          "en": "Only two weeks remained before the republic was proclaimed. Ludendorff's dismissal therefore looks like one of the final blows to the old order."
+        },
+        "importance": {
+          "ru": "Иногда большие перемены начинаются не с торжественных заявлений, а с кадровых решений в момент кризиса.",
+          "de": "Manchmal beginnen grosse Umbrueche nicht mit feierlichen Erklaerungen, sondern mit Personalentscheidungen in einer Krise.",
+          "en": "Sometimes great upheavals begin not with grand declarations, but with personnel decisions during a crisis."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На следующий день, 26 октября 1918 года, Людендорф был фактически отстранён от должности.",
+    "de": "Am folgenden Tag, dem 26. Oktober 1918, wurde Ludendorff faktisch entlassen.",
+    "en": "The next day, 26 October 1918, Ludendorff was effectively dismissed."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Ludendorff bittet um seine Entlassung",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2018/kw43-revolutionskalender-23-251018-572552"
+    },
+    {
+      "label": "Britannica: World War I, the end of the German war",
+      "url": "https://www.britannica.com/event/World-War-I/The-end-of-the-German-war"
+    },
+    {
+      "label": "1914-1918-online: Revolutions in Germany",
+      "url": "https://encyclopedia.1914-1918-online.net/article/revolutions_germany/"
+    }
+  ]
+}

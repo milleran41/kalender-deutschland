@@ -1,0 +1,111 @@
+{
+  "date": "10-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1961-germany-turkey-recruitment-agreement",
+    "year": 1961,
+    "title": {
+      "ru": "ФРГ и Турция заключили соглашение о гастарбайтерах",
+      "de": "Deutschland und die Tuerkei schliessen ein Anwerbeabkommen",
+      "en": "West Germany and Turkey sign a guest worker agreement"
+    },
+    "description": {
+      "ru": "30 октября 1961 года Федеративная Республика Германия и Турция заключили соглашение о наборе рабочих. Оно стало важной частью истории послевоенной миграции и сильно изменило общество Западной Германии.",
+      "de": "Am 30. Oktober 1961 schlossen die Bundesrepublik Deutschland und die Tuerkei ein Abkommen zur Anwerbung von Arbeitskraeften. Es wurde zu einem wichtigen Teil der Nachkriegsmigration und veraenderte die westdeutsche Gesellschaft stark.",
+      "en": "On 30 October 1961, the Federal Republic of Germany and Turkey signed an agreement to recruit workers. It became an important part of postwar migration history and deeply changed West German society."
+    },
+    "importance": {
+      "ru": "Дата помогает понять, почему турецкая община стала одной из крупнейших и самых заметных в современной Германии.",
+      "de": "Das Datum hilft zu verstehen, warum die tuerkische Gemeinschaft zu einer der groessten und sichtbarsten Gruppen im heutigen Deutschland wurde.",
+      "en": "The date helps explain why the Turkish community became one of the largest and most visible groups in modern Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "economic-miracle-labour-shortage",
+        "year": 1961,
+        "title": {
+          "ru": "Экономическое чудо и нехватка рабочих рук",
+          "de": "Wirtschaftswunder und Arbeitskraeftemangel",
+          "en": "Economic miracle and labour shortage"
+        },
+        "description": {
+          "ru": "Быстрый рост экономики ФРГ создал большой спрос на рабочих. Соглашения о гастарбайтерах должны были закрыть эту нехватку и сначала воспринимались как временная мера.",
+          "de": "Das schnelle Wachstum der westdeutschen Wirtschaft erzeugte grossen Bedarf an Arbeitskraeften. Die Anwerbeabkommen sollten diesen Mangel ausgleichen und galten zunaechst als voruebergehende Loesung.",
+          "en": "Rapid growth in West Germany's economy created strong demand for workers. Guest worker agreements were meant to fill this gap and were initially seen as a temporary solution."
+        },
+        "importance": {
+          "ru": "Так видно, как экономические решения могут менять культуру, города и семейные истории на десятилетия.",
+          "de": "So wird sichtbar, wie wirtschaftliche Entscheidungen Kultur, Staedte und Familiengeschichten ueber Jahrzehnte veraendern koennen.",
+          "en": "It shows how economic decisions can change culture, cities and family histories for decades."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "new-german-everyday-life",
+        "year": 1961,
+        "title": {
+          "ru": "Новая повседневная Германия",
+          "de": "Ein neuer deutscher Alltag",
+          "en": "A new German everyday life"
+        },
+        "description": {
+          "ru": "Миграция из Турции повлияла на немецкие города, школы, музыку, спорт и кухню. То, что начиналось как трудовое соглашение, стало частью повседневной культуры страны.",
+          "de": "Die Migration aus der Tuerkei praegte deutsche Staedte, Schulen, Musik, Sport und Kueche. Was als Arbeitsabkommen begann, wurde Teil der Alltagskultur des Landes.",
+          "en": "Migration from Turkey shaped German cities, schools, music, sport and cuisine. What began as a labour agreement became part of the country's everyday culture."
+        },
+        "importance": {
+          "ru": "Это одна из дат, через которые хорошо видно, что современная Германия многообразна.",
+          "de": "An diesem Datum laesst sich gut erkennen, dass das heutige Deutschland vielfaeltig ist.",
+          "en": "This date is a good way to see that modern Germany is diverse."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "rotation-system",
+        "year": 1961,
+        "title": {
+          "ru": "Планировали временно, получилось надолго",
+          "de": "Voruebergehend geplant, dauerhaft geworden",
+          "en": "Planned as temporary, lasting for generations"
+        },
+        "description": {
+          "ru": "Соглашение предполагало ротацию рабочих, то есть временное пребывание. На практике многие люди остались, создали семьи и стали частью немецкого общества.",
+          "de": "Das Abkommen sah ein Rotationssystem vor, also einen zeitlich begrenzten Aufenthalt. In der Praxis blieben viele Menschen, gruendeten Familien und wurden Teil der deutschen Gesellschaft.",
+          "en": "The agreement provided for a rotation system, meaning temporary stays. In practice, many people remained, started families and became part of German society."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как реальные человеческие судьбы меняют первоначальные планы политиков.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie menschliche Lebenswege urspruengliche politische Plaene veraendern.",
+          "en": "It is a good example of how real human lives change politicians' original plans."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Слово «гастарбайтер» происходит от немецкого Gastarbeiter, то есть «гостевой рабочий».",
+    "de": "Das Wort Gastarbeiter bedeutet woertlich ein Arbeiter, der als Gast kommt.",
+    "en": "The German word Gastarbeiter literally means a worker who comes as a guest."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Guest workers",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1961-10-30-guest-workers/"
+    },
+    {
+      "label": "Haus der Geschichte: Gastarbeiter",
+      "url": "https://www.hdg.de/lemo/kapitel/geteiltes-deutschland-modernisierung/bundesrepublik-im-wandel/gastarbeiter.html"
+    },
+    {
+      "label": "Bundeszentrale fuer politische Bildung: Anwerbeabkommen mit der Tuerkei",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/343252/60-jahre-anwerbeabkommen-mit-der-tuerkei/"
+    }
+  ]
+}

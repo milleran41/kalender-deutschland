@@ -1,0 +1,90 @@
+{
+  "date": "10-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-october-reforms-take-effect",
+    "year": 1918,
+    "title": {
+      "ru": "Октябрьские реформы изменили устройство Германской империи",
+      "de": "Die Oktoberreformen veraendern das Deutsche Reich",
+      "en": "The October reforms change the German Empire"
+    },
+    "description": {
+      "ru": "28 октября 1918 года вступили в силу реформы, которые превратили Германскую империю в парламентскую монархию. Канцлер теперь зависел от доверия рейхстага, а вопросы войны и мира требовали парламентского участия.",
+      "de": "Am 28. Oktober 1918 traten Reformen in Kraft, die das Deutsche Reich in eine parlamentarische Monarchie verwandelten. Der Reichskanzler war nun vom Vertrauen des Reichstags abhaengig, und Fragen von Krieg und Frieden verlangten parlamentarische Mitwirkung.",
+      "en": "On 28 October 1918, reforms took effect that transformed the German Empire into a parliamentary monarchy. The chancellor now depended on the confidence of the Reichstag, and questions of war and peace required parliamentary involvement."
+    },
+    "importance": {
+      "ru": "Это была очень поздняя попытка демократизировать империю, которая уже находилась на грани поражения и революции.",
+      "de": "Es war ein sehr spaeter Versuch, das Kaiserreich zu demokratisieren, als es bereits am Rand von Niederlage und Revolution stand.",
+      "en": "It was a very late attempt to democratize the empire when it was already on the edge of defeat and revolution."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "parliamentary-monarchy",
+        "year": 1918,
+        "title": {
+          "ru": "Короткая парламентская монархия",
+          "de": "Eine kurze parlamentarische Monarchie",
+          "en": "A brief parliamentary monarchy"
+        },
+        "description": {
+          "ru": "Формально Германия стала более парламентской, но монархия продержалась совсем недолго. Уже 9 ноября 1918 года была провозглашена республика.",
+          "de": "Formal wurde Deutschland parlamentarischer, doch die Monarchie hielt nur noch sehr kurz. Bereits am 9. November 1918 wurde die Republik ausgerufen.",
+          "en": "Formally, Germany became more parliamentary, but the monarchy lasted only a very short time. On 9 November 1918, the republic was proclaimed."
+        },
+        "importance": {
+          "ru": "Это показывает, что запоздалые реформы не всегда успевают остановить политический обвал.",
+          "de": "Das zeigt, dass verspaetete Reformen einen politischen Zusammenbruch nicht immer aufhalten koennen.",
+          "en": "It shows that belated reforms cannot always stop a political collapse."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "constitution-for-two-weeks",
+        "year": 1918,
+        "title": {
+          "ru": "Конституция почти на две недели",
+          "de": "Eine Verfassung fast nur fuer zwei Wochen",
+          "en": "A constitution for almost two weeks"
+        },
+        "description": {
+          "ru": "Октябрьские реформы юридически были важны, но их быстро затмила Ноябрьская революция. Поэтому они часто остаются в тени более громких событий 9 ноября.",
+          "de": "Die Oktoberreformen waren juristisch wichtig, wurden aber rasch von der Novemberrevolution ueberlagert. Deshalb stehen sie oft im Schatten der lauteren Ereignisse des 9. November.",
+          "en": "The October reforms were legally important, but they were quickly overshadowed by the November Revolution. That is why they often stand in the shadow of the more dramatic events of 9 November."
+        },
+        "importance": {
+          "ru": "Интересно, что иногда очень важная правовая перемена живёт совсем недолго.",
+          "de": "Interessant ist, dass eine sehr wichtige rechtliche Veraenderung manchmal nur sehr kurz lebt.",
+          "en": "It is interesting that a very important legal change can sometimes live for only a very short time."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Октябрьские реформы стали последней крупной конституционной переменой Германской империи перед её падением.",
+    "de": "Die Oktoberreformen waren die letzte grosse Verfassungsaenderung des Deutschen Reiches vor seinem Ende.",
+    "en": "The October reforms were the last major constitutional change of the German Empire before its fall."
+  },
+  "sources": [
+    {
+      "label": "Das Parlament: Ein Satz dreht die ganze Verfassung um",
+      "url": "https://www.das-parlament.de/2014/1-3/themenausgabe/ein-satz-dreht-die-ganze-verfassung-um"
+    },
+    {
+      "label": "Volks-Reichstag: Der Weg des deutschen Kaiserreichs in eine parlamentarische Monarchie",
+      "url": "https://www.volks-reichstag.de/der-weg-des-deutschen-kaiserreichs-in-eine-parlamentarische-monarchie/"
+    },
+    {
+      "label": "1914-1918-online: Revolutions in Germany",
+      "url": "https://encyclopedia.1914-1918-online.net/article/revolutions_germany/"
+    }
+  ]
+}
