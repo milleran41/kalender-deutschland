@@ -1,0 +1,90 @@
+{
+  "date": "03-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1936-rhineland-remilitarized",
+    "year": 1936,
+    "title": {
+      "ru": "Германия ремилитаризовала Рейнскую область",
+      "de": "Deutschland remilitarisiert das Rheinland",
+      "en": "Germany remilitarizes the Rhineland"
+    },
+    "description": {
+      "ru": "7 марта 1936 года немецкие войска вошли в демилитаризованную Рейнскую область. Это нарушало Версальский договор и Локарнские соглашения.",
+      "de": "Am 7. Maerz 1936 rueckten deutsche Truppen in das entmilitarisierte Rheinland ein. Das verletzte den Versailler Vertrag und die Locarno-Vertraege.",
+      "en": "On 7 March 1936, German troops entered the demilitarized Rhineland. This violated the Treaty of Versailles and the Locarno Treaties."
+    },
+    "importance": {
+      "ru": "Событие стало одним из ключевых шагов нацистской внешней политики перед Второй мировой войной.",
+      "de": "Das Ereignis wurde zu einem der Schluesselschritte nationalsozialistischer Aussenpolitik vor dem Zweiten Weltkrieg.",
+      "en": "The event became one of the key steps in Nazi foreign policy before the Second World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "rhineland-locarno-versailles",
+        "year": 1936,
+        "title": {
+          "ru": "Испытание Версаля и Локарно",
+          "de": "Eine Probe fuer Versailles und Locarno",
+          "en": "A test for Versailles and Locarno"
+        },
+        "description": {
+          "ru": "Рейнская область должна была оставаться демилитаризованной зоной у границы с Францией и Бельгией. Ввод войск проверял, готовы ли другие державы защищать послевоенный порядок.",
+          "de": "Das Rheinland sollte eine entmilitarisierte Zone an der Grenze zu Frankreich und Belgien bleiben. Der Einmarsch pruefte, ob andere Maechte bereit waren, die Nachkriegsordnung zu verteidigen.",
+          "en": "The Rhineland was supposed to remain a demilitarized zone along the border with France and Belgium. The troop entry tested whether other powers were willing to defend the postwar order."
+        },
+        "importance": {
+          "ru": "Реакция оказалась слабой, и это усилило уверенность Гитлера в дальнейших рискованных шагах.",
+          "de": "Die Reaktion blieb schwach, was Hitlers Vertrauen in weitere riskante Schritte staerkte.",
+          "en": "The reaction was weak, strengthening Hitler's confidence in further risky moves."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "rhineland-map-symbol",
+        "year": 1936,
+        "title": {
+          "ru": "Одна зона на карте изменила баланс сил",
+          "de": "Eine Zone auf der Karte veraendert das Kraefteverhaeltnis",
+          "en": "One zone on the map changed the balance of power"
+        },
+        "description": {
+          "ru": "Речь шла не о захвате чужой территории, а о нарушении особого режима внутри Германии. Но именно такие правовые детали могут менять безопасность целого континента.",
+          "de": "Es ging nicht um die Eroberung fremden Territoriums, sondern um die Verletzung eines Sonderstatus innerhalb Deutschlands. Doch gerade solche rechtlichen Details koennen die Sicherheit eines ganzen Kontinents veraendern.",
+          "en": "This was not the conquest of foreign territory, but the violation of a special status within Germany. Yet such legal details can change the security of an entire continent."
+        },
+        "importance": {
+          "ru": "Для календаря с картами это важный пример того, что значение имеет не только граница, но и режим территории.",
+          "de": "Fuer einen Kalender mit Karten ist das ein wichtiges Beispiel dafuer, dass nicht nur Grenzen zaehlen, sondern auch der Status eines Gebiets.",
+          "en": "For a calendar with maps, this is an important example showing that not only borders matter, but also a territory's status."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гитлер объявил ремилитаризацию в тот же день в речи перед рейхстагом.",
+    "de": "Hitler verkuendete die Remilitarisierung am selben Tag in einer Rede vor dem Reichstag.",
+    "en": "Hitler announced the remilitarization the same day in a speech before the Reichstag."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Rhineland",
+      "url": "https://www.britannica.com/place/Rhineland"
+    },
+    {
+      "label": "The National Archives: German occupation of the Rhineland",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/german-occupation/"
+    },
+    {
+      "label": "GHDI: Remilitarization of the Rhineland",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/remilitarization-of-the-rhineland-1936.pdf"
+    }
+  ]
+}

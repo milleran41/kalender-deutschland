@@ -1,0 +1,86 @@
+{
+  "date": "01-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1875-albert-schweitzer-born",
+    "year": 1875,
+    "title": {
+      "ru": "Родился Альберт Швейцер",
+      "de": "Albert Schweitzer wird geboren",
+      "en": "Albert Schweitzer is born"
+    },
+    "description": {
+      "ru": "14 января 1875 года в Кайзерсберге в Эльзасе родился Альберт Швейцер. Он был врачом, теологом, философом, музыкантом и лауреатом Нобелевской премии мира.",
+      "de": "Am 14. Januar 1875 wurde Albert Schweitzer in Kaysersberg im Elsass geboren. Er war Arzt, Theologe, Philosoph, Musiker und Friedensnobelpreistraeger.",
+      "en": "On 14 January 1875, Albert Schweitzer was born in Kaysersberg in Alsace. He was a physician, theologian, philosopher, musician and Nobel Peace Prize laureate."
+    },
+    "importance": {
+      "ru": "Швейцер показывает сложную культурную историю Эльзаса, где немецкая и французская традиции переплетались особенно тесно.",
+      "de": "Schweitzer zeigt die komplexe Kulturgeschichte des Elsass, in der deutsche und franzoesische Traditionen besonders eng verflochten waren.",
+      "en": "Schweitzer shows the complex cultural history of Alsace, where German and French traditions were especially closely intertwined."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "1875-schweitzer-alsace",
+        "year": 1875,
+        "title": {
+          "ru": "Человек нескольких миров",
+          "de": "Ein Mensch mehrerer Welten",
+          "en": "A person of several worlds"
+        },
+        "description": {
+          "ru": "Швейцер писал по-немецки, жил в пограничном культурном пространстве и работал врачом в Ламбарене в Африке. Его биография не помещается в рамки одной национальной истории.",
+          "de": "Schweitzer schrieb auf Deutsch, lebte in einem Grenzraum der Kulturen und arbeitete als Arzt in Lambarene in Afrika. Seine Biografie passt nicht in eine einzige nationale Geschichte.",
+          "en": "Schweitzer wrote in German, lived in a borderland of cultures and worked as a doctor in Lambarene in Africa. His biography does not fit into one national history."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как биография помогает объяснить переменчивую карту Европы.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie eine Biografie die wandelbare Karte Europas erklaeren kann.",
+          "en": "It is a good example of how a biography can help explain Europe's changing map."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "schweitzer-bach-organ",
+        "year": 1905,
+        "title": {
+          "ru": "Бах, орган и гуманизм",
+          "de": "Bach, Orgel und Humanismus",
+          "en": "Bach, organ and humanism"
+        },
+        "description": {
+          "ru": "Швейцер был известным исследователем Баха и органистом. Его интерес к музыке сочетался с идеей этики «благоговения перед жизнью».",
+          "de": "Schweitzer war ein bekannter Bach-Forscher und Organist. Sein Interesse an Musik verband sich mit seiner Ethik der Ehrfurcht vor dem Leben.",
+          "en": "Schweitzer was a noted Bach scholar and organist. His interest in music was connected with his ethic of reverence for life."
+        },
+        "importance": {
+          "ru": "Так в одной фигуре соединяются немецкая музыкальная традиция, философия и практическая помощь людям.",
+          "de": "So verbinden sich in einer Person deutsche Musiktradition, Philosophie und praktische Hilfe fuer Menschen.",
+          "en": "One figure thus connects German musical tradition, philosophy and practical help for people."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Швейцер получил Нобелевскую премию мира за 1952 год.",
+    "de": "Schweitzer erhielt den Friedensnobelpreis fuer das Jahr 1952.",
+    "en": "Schweitzer received the Nobel Peace Prize for 1952."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Albert Schweitzer",
+      "url": "https://www.nobelprize.org/prizes/peace/1952/schweitzer/biographical/"
+    },
+    {
+      "label": "Maison Albert Schweitzer: The birth",
+      "url": "https://www.schweitzer.org/en/discover/timeline/the-birth/"
+    }
+  ]
+}

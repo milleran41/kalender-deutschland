@@ -1,0 +1,90 @@
+{
+  "date": "10-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-gorbachev-visits-east-berlin",
+    "year": 1989,
+    "title": {
+      "ru": "Горбачёв приехал в Восточный Берлин",
+      "de": "Gorbatschow kommt nach Ost-Berlin",
+      "en": "Gorbachev arrives in East Berlin"
+    },
+    "description": {
+      "ru": "6 октября 1989 года Михаил Горбачёв прибыл в ГДР на празднование 40-летия государства. Его визит проходил на фоне массового недовольства и растущего кризиса режима.",
+      "de": "Am 6. Oktober 1989 kam Michail Gorbatschow zu den Feierlichkeiten zum 40. Jahrestag der DDR nach Ost-Berlin. Sein Besuch fand vor dem Hintergrund wachsender Unzufriedenheit und einer tiefen Krise des Regimes statt.",
+      "en": "On 6 October 1989, Mikhail Gorbachev arrived in East Berlin for the GDR's 40th anniversary celebrations. His visit took place amid growing public discontent and a deepening regime crisis."
+    },
+    "importance": {
+      "ru": "Визит стал символом разрыва между советской перестройкой и нежеланием руководства ГДР проводить реформы.",
+      "de": "Der Besuch wurde zum Symbol fuer die Kluft zwischen sowjetischer Perestroika und der Reformverweigerung der DDR-Fuehrung.",
+      "en": "The visit became a symbol of the gap between Soviet perestroika and the East German leadership's refusal to reform."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1989-too-late-life-punishes",
+        "year": 1989,
+        "title": {
+          "ru": "«Кто опаздывает, того наказывает жизнь»",
+          "de": "Wer zu spaet kommt, den bestraft das Leben",
+          "en": "Life punishes those who come too late"
+        },
+        "description": {
+          "ru": "С визитом Горбачёва часто связывают фразу о том, что жизнь наказывает опоздавших. Даже если точная форма цитаты обсуждается, смысл хорошо передавал ситуацию в ГДР.",
+          "de": "Mit Gorbatschows Besuch wird oft der Satz verbunden, dass das Leben den bestraft, der zu spaet kommt. Auch wenn die genaue Formulierung diskutiert wird, traf der Sinn die Lage in der DDR.",
+          "en": "Gorbachev's visit is often associated with the phrase that life punishes those who come too late. Even if the exact wording is debated, the meaning captured the situation in East Germany."
+        },
+        "importance": {
+          "ru": "Одна фраза стала кратким образом политического опоздания режима.",
+          "de": "Ein Satz wurde zum kurzen Bild fuer das politische Zuspaetkommen des Regimes.",
+          "en": "One phrase became a compact image of the regime's political lateness."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1989-anniversary-before-collapse",
+        "year": 1989,
+        "title": {
+          "ru": "Юбилей перед крахом",
+          "de": "Jubilaeum vor dem Zusammenbruch",
+          "en": "An anniversary before collapse"
+        },
+        "description": {
+          "ru": "ГДР готовилась торжественно отметить 40 лет, но уже через несколько недель пала Берлинская стена. Юбилей выглядел всё более оторванным от реальности.",
+          "de": "Die DDR bereitete feierlich ihren 40. Jahrestag vor, doch nur wenige Wochen spaeter fiel die Berliner Mauer. Das Jubilaeum wirkte immer staerker von der Wirklichkeit abgekoppelt.",
+          "en": "The GDR prepared to celebrate its 40th anniversary, but only a few weeks later the Berlin Wall fell. The anniversary increasingly seemed detached from reality."
+        },
+        "importance": {
+          "ru": "Иногда официальные праздники особенно ясно показывают, что система уже теряет связь с обществом.",
+          "de": "Manchmal zeigen offizielle Feiern besonders klar, dass ein System den Kontakt zur Gesellschaft verliert.",
+          "en": "Sometimes official celebrations show especially clearly that a system is losing touch with society."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "7 октября 1989 года, во время официального юбилея ГДР, в разных городах уже проходили протесты и столкновения.",
+    "de": "Am 7. Oktober 1989, waehrend des offiziellen DDR-Jubilaeums, kam es in mehreren Staedten bereits zu Protesten und Zusammenstoessen.",
+    "en": "On 7 October 1989, during the official GDR anniversary, protests and clashes were already taking place in several cities."
+  },
+  "sources": [
+    {
+      "label": "SPSG: Schoenhausen House 1989",
+      "url": "https://www.spsg.de/en/historic-place/schoenhausen-house-1989/"
+    },
+    {
+      "label": "Los Angeles Times: Gorbachev in East Berlin",
+      "url": "https://www.latimes.com/archives/la-xpm-1989-10-06-mn-902-story.html"
+    },
+    {
+      "label": "Bundesarchiv: October 1989",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/storys/die-stasi-im-jahr-1989/oktober-1989/"
+    }
+  ]
+}
