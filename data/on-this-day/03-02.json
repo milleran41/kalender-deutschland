@@ -1,0 +1,65 @@
+{
+  "date": "03-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1900-kurt-weill-born",
+    "year": 1900,
+    "title": {
+      "ru": "Родился Курт Вайль",
+      "de": "Kurt Weill wird geboren",
+      "en": "Kurt Weill is born"
+    },
+    "description": {
+      "ru": "2 марта 1900 года в Дессау родился композитор Курт Вайль. Он стал известен музыкой для театра, особенно в сотрудничестве с Бертольтом Брехтом.",
+      "de": "Am 2. Maerz 1900 wurde der Komponist Kurt Weill in Dessau geboren. Bekannt wurde er durch Musik fuer das Theater, besonders in Zusammenarbeit mit Bertolt Brecht.",
+      "en": "On 2 March 1900, composer Kurt Weill was born in Dessau. He became known for theatre music, especially through his collaboration with Bertolt Brecht."
+    },
+    "importance": {
+      "ru": "Вайль соединяет немецкую сцену Веймарской эпохи, эмиграцию и американский музыкальный театр.",
+      "de": "Weill verbindet die deutsche Buehne der Weimarer Zeit, Exil und amerikanisches Musiktheater.",
+      "en": "Weill connects the German stage of the Weimar era, exile and American musical theatre."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "threepenny-opera",
+        "year": 1928,
+        "title": {
+          "ru": "«Трёхгрошовая опера»",
+          "de": "Die Dreigroschenoper",
+          "en": "The Threepenny Opera"
+        },
+        "description": {
+          "ru": "Музыка Вайля к «Трёхгрошовой опере» стала одним из самых узнаваемых звуков Веймарской культуры. После прихода нацистов к власти Вайль, будучи евреем, покинул Германию.",
+          "de": "Weills Musik zur Dreigroschenoper wurde zu einem der bekanntesten Klaenge der Weimarer Kultur. Nach der Machtuebernahme der Nationalsozialisten verliess Weill als Jude Deutschland.",
+          "en": "Weill's music for The Threepenny Opera became one of the most recognizable sounds of Weimar culture. After the Nazis took power, Weill, who was Jewish, left Germany."
+        },
+        "importance": {
+          "ru": "Это пример того, как искусство Веймара было прервано диктатурой и продолжилось в эмиграции.",
+          "de": "Das ist ein Beispiel dafuer, wie Weimarer Kunst durch die Diktatur unterbrochen wurde und im Exil weiterlebte.",
+          "en": "It is an example of Weimar art being interrupted by dictatorship and continuing in exile."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Дессау есть Центр Курта Вайля, посвящённый его жизни и музыке.",
+    "de": "In Dessau gibt es das Kurt-Weill-Zentrum zu seinem Leben und seiner Musik.",
+    "en": "Dessau has the Kurt Weill Centre dedicated to his life and music."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Kurt Weill",
+      "url": "https://www.britannica.com/biography/Kurt-Weill"
+    },
+    {
+      "label": "Musikland Sachsen-Anhalt: Kurt Weill in Dessau",
+      "url": "https://www.musikland-sachsenanhalt.de/beitraege/weill-kurt-1900-1950-in-dessau/"
+    }
+  ]
+}

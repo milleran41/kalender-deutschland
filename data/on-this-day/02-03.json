@@ -1,0 +1,94 @@
+{
+  "date": "02-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1809-felix-mendelssohn-born",
+    "year": 1809,
+    "title": {
+      "ru": "Родился Феликс Мендельсон",
+      "de": "Felix Mendelssohn wird geboren",
+      "en": "Felix Mendelssohn is born"
+    },
+    "description": {
+      "ru": "3 февраля 1809 года в Гамбурге родился композитор, пианист и дирижёр Феликс Мендельсон. Он стал одной из главных фигур раннего романтизма.",
+      "de": "Am 3. Februar 1809 wurde der Komponist, Pianist und Dirigent Felix Mendelssohn in Hamburg geboren. Er wurde eine der wichtigsten Figuren der Fruehromantik.",
+      "en": "On 3 February 1809, composer, pianist and conductor Felix Mendelssohn was born in Hamburg. He became one of the major figures of early Romanticism."
+    },
+    "importance": {
+      "ru": "Мендельсон соединяет музыкальную историю Гамбурга, Берлина, Дюссельдорфа и Лейпцига.",
+      "de": "Mendelssohn verbindet die Musikgeschichte von Hamburg, Berlin, Duesseldorf und Leipzig.",
+      "en": "Mendelssohn connects the musical history of Hamburg, Berlin, Duesseldorf and Leipzig."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1468-johannes-gutenberg-dies",
+        "year": 1468,
+        "title": {
+          "ru": "Умер Иоганн Гутенберг",
+          "de": "Johannes Gutenberg stirbt",
+          "en": "Johannes Gutenberg dies"
+        },
+        "description": {
+          "ru": "3 февраля 1468 года в Майнце, вероятно, умер Иоганн Гутенберг. Его печать подвижными литерами изменила распространение книг, знаний и новостей в Европе.",
+          "de": "Am 3. Februar 1468 starb Johannes Gutenberg wahrscheinlich in Mainz. Sein Druck mit beweglichen Lettern veraenderte die Verbreitung von Buechern, Wissen und Nachrichten in Europa.",
+          "en": "On 3 February 1468, Johannes Gutenberg probably died in Mainz. His movable-type printing changed the spread of books, knowledge and news in Europe."
+        },
+        "importance": {
+          "ru": "Печатный станок сделал знания намного доступнее и ускорил культурные перемены.",
+          "de": "Der Buchdruck machte Wissen viel zugaenglicher und beschleunigte kulturelle Veraenderungen.",
+          "en": "Printing made knowledge far more accessible and accelerated cultural change."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "mendelssohn-bach-revival",
+        "year": 1829,
+        "title": {
+          "ru": "Возвращение Баха",
+          "de": "Bachs Wiederentdeckung",
+          "en": "The revival of Bach"
+        },
+        "description": {
+          "ru": "Мендельсон сыграл важную роль в возвращении музыки Баха в концертную жизнь. Его исполнение «Страстей по Матфею» стало событием музыкальной памяти.",
+          "de": "Mendelssohn spielte eine wichtige Rolle bei der Rueckkehr von Bachs Musik ins Konzertleben. Seine Auffuehrung der Matthaeus-Passion wurde zu einem Ereignis musikalischer Erinnerung.",
+          "en": "Mendelssohn played an important role in bringing Bach's music back into concert life. His performance of the St Matthew Passion became an event of musical memory."
+        },
+        "importance": {
+          "ru": "Так один немецкий композитор помог заново услышать другого.",
+          "de": "So half ein deutscher Komponist, einen anderen neu zu hoeren.",
+          "en": "One German composer helped audiences hear another anew."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Мендельсон умер в Лейпциге, где также связан с Гевандхаусом и консерваторией.",
+    "de": "Mendelssohn starb in Leipzig, wo er auch mit Gewandhaus und Konservatorium verbunden ist.",
+    "en": "Mendelssohn died in Leipzig, where he is also linked with the Gewandhaus and conservatory."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Felix Mendelssohn",
+      "url": "https://www.britannica.com/biography/Felix-Mendelssohn"
+    },
+    {
+      "label": "Mendelssohn House Leipzig",
+      "url": "https://www.mendelssohn-stiftung.de/en/"
+    },
+    {
+      "label": "Britannica: Johannes Gutenberg",
+      "url": "https://www.britannica.com/biography/Johannes-Gutenberg"
+    },
+    {
+      "label": "Deutschlandmuseum: Gutenberg dies",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1468-02-03-the-man-of-the-millennium-is-dead/"
+    }
+  ]
+}

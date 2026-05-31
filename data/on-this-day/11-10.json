@@ -25,6 +25,27 @@
     }
   },
   "categories": {
+    "history": [
+      {
+        "id": "1483-martin-luther-born",
+        "year": 1483,
+        "title": {
+          "ru": "Родился Мартин Лютер",
+          "de": "Martin Luther wird geboren",
+          "en": "Martin Luther is born"
+        },
+        "description": {
+          "ru": "10 ноября 1483 года в Айслебене родился Мартин Лютер. Позднее он стал одной из ключевых фигур Реформации и изменил религиозную карту Германии.",
+          "de": "Am 10. November 1483 wurde Martin Luther in Eisleben geboren. Spaeter wurde er zu einer Schluesselfigur der Reformation und veraenderte die religioese Landkarte Deutschlands.",
+          "en": "On 10 November 1483, Martin Luther was born in Eisleben. He later became a key figure of the Reformation and changed Germany's religious map."
+        },
+        "importance": {
+          "ru": "Лютер связан не только с церковной историей, но и с развитием немецкого языка и образования.",
+          "de": "Luther ist nicht nur mit Kirchengeschichte verbunden, sondern auch mit der Entwicklung der deutschen Sprache und Bildung.",
+          "en": "Luther is linked not only with church history, but also with the development of the German language and education."
+        }
+      }
+    ],
     "culture": [
       {
         "id": "schiller-freedom-drama",
@@ -60,6 +81,10 @@
     {
       "label": "Deutsche Schillergesellschaft",
       "url": "https://www.dla-marbach.de/en/"
+    },
+    {
+      "label": "Britannica: Martin Luther",
+      "url": "https://www.britannica.com/biography/Martin-Luther"
     }
   ]
 }
