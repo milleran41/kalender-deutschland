@@ -1,0 +1,65 @@
+{
+  "date": "01-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1834-philipp-reis-born",
+    "year": 1834,
+    "title": {
+      "ru": "Родился Филипп Райс",
+      "de": "Philipp Reis wird geboren",
+      "en": "Philipp Reis is born"
+    },
+    "description": {
+      "ru": "7 января 1834 года в Гельнхаузене родился физик и изобретатель Филипп Райс. Он создал один из ранних аппаратов для передачи звука по электрическим проводам и называл его «Telephon».",
+      "de": "Am 7. Januar 1834 wurde der Physiker und Erfinder Philipp Reis in Gelnhausen geboren. Er baute einen fruehen Apparat zur Uebertragung von Schall ueber elektrische Leitungen und nannte ihn Telephon.",
+      "en": "On 7 January 1834, physicist and inventor Philipp Reis was born in Gelnhausen. He built an early device for transmitting sound over electrical wires and called it the Telephon."
+    },
+    "importance": {
+      "ru": "История Райса показывает, что большие изобретения часто имеют несколько предшественников и долгий путь развития.",
+      "de": "Die Geschichte von Reis zeigt, dass grosse Erfindungen oft mehrere Vorlaeufer und einen langen Entwicklungsweg haben.",
+      "en": "Reis's story shows that major inventions often have several precursors and a long path of development."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "reis-telephone-1861",
+        "year": 1861,
+        "title": {
+          "ru": "Ранний «телефон»",
+          "de": "Ein fruehes Telephon",
+          "en": "An early telephone"
+        },
+        "description": {
+          "ru": "В 1861 году Райс демонстрировал свой аппарат во Франкфурте-на-Майне. Устройство ещё не стало массовой технологией, но было важным шагом в истории связи.",
+          "de": "1861 fuehrte Reis seinen Apparat in Frankfurt am Main vor. Das Geraet wurde noch keine Massentechnologie, war aber ein wichtiger Schritt in der Geschichte der Kommunikation.",
+          "en": "In 1861, Reis demonstrated his device in Frankfurt am Main. It did not yet become a mass technology, but it was an important step in the history of communication."
+        },
+        "importance": {
+          "ru": "Так школьнику легче понять, что технология телефона возникала постепенно.",
+          "de": "So laesst sich leichter verstehen, dass die Telefontechnik schrittweise entstand.",
+          "en": "This makes it easier to understand that telephone technology emerged gradually."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Филипп Райс умер очень рано, в 40 лет, и не увидел массового распространения телефонной связи.",
+    "de": "Philipp Reis starb sehr frueh, mit 40 Jahren, und erlebte die weite Verbreitung der Telefonie nicht mehr.",
+    "en": "Philipp Reis died very young, at 40, and did not live to see telephony become widespread."
+  },
+  "sources": [
+    {
+      "label": "Nature: Centenary of Philipp Reis",
+      "url": "https://www.nature.com/articles/133018c0"
+    },
+    {
+      "label": "Friedrichsdorf: Philipp Reis",
+      "url": "https://m.friedrichsdorf.de/lebeninfriedrichsdorf/unserestadt/geschichte/persoenlichkeiten/philippreis/philippreis.php"
+    }
+  ]
+}

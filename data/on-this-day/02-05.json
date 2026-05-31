@@ -1,0 +1,86 @@
+{
+  "date": "02-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1916-cabaret-voltaire-opens",
+    "year": 1916,
+    "title": {
+      "ru": "Открылось Cabaret Voltaire",
+      "de": "Das Cabaret Voltaire wird eroeffnet",
+      "en": "Cabaret Voltaire opens"
+    },
+    "description": {
+      "ru": "5 февраля 1916 года в Цюрихе немецкие артисты и писатели Хуго Балль и Эмми Хеннингс открыли Cabaret Voltaire. Это место стало одним из центров зарождения дадаизма.",
+      "de": "Am 5. Februar 1916 eroeffneten die deutschen Kuenstler und Autoren Hugo Ball und Emmy Hennings in Zuerich das Cabaret Voltaire. Der Ort wurde zu einem Zentrum der Entstehung des Dadaismus.",
+      "en": "On 5 February 1916, German artists and writers Hugo Ball and Emmy Hennings opened Cabaret Voltaire in Zurich. The venue became one of the centers where Dadaism emerged."
+    },
+    "importance": {
+      "ru": "Хотя событие произошло в Швейцарии, оно тесно связано с немецкоязычной культурой, эмиграцией и протестом против войны.",
+      "de": "Obwohl das Ereignis in der Schweiz stattfand, ist es eng mit deutschsprachiger Kultur, Exil und Protest gegen den Krieg verbunden.",
+      "en": "Although the event took place in Switzerland, it is closely tied to German-language culture, exile and protest against war."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "dada-anti-art",
+        "year": 1916,
+        "title": {
+          "ru": "Дада как художественный бунт",
+          "de": "Dada als kuenstlerischer Aufstand",
+          "en": "Dada as artistic rebellion"
+        },
+        "description": {
+          "ru": "Дадаисты смешивали стихи, шум, театр, коллаж и абсурд. Их искусство выглядело странно именно потому, что мир войны казался им ещё более абсурдным.",
+          "de": "Die Dadaisten mischten Gedichte, Laerm, Theater, Collage und Absurditaet. Ihre Kunst wirkte seltsam, weil ihnen die Welt des Krieges noch absurder erschien.",
+          "en": "The Dadaists mixed poems, noise, theatre, collage and absurdity. Their art looked strange because the world of war seemed even more absurd to them."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как искусство реагирует на исторический шок.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie Kunst auf historischen Schock reagiert.",
+          "en": "It is a good example of art responding to historical shock."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "sound-poems",
+        "year": 1916,
+        "title": {
+          "ru": "Стихи без привычных слов",
+          "de": "Gedichte ohne gewohnte Woerter",
+          "en": "Poems without familiar words"
+        },
+        "description": {
+          "ru": "Хуго Балль исполнял звуковые стихи, где важнее были ритм, голос и жест, чем обычный смысл слов. Для публики это было одновременно смешно, странно и тревожно.",
+          "de": "Hugo Ball trug Lautgedichte vor, in denen Rhythmus, Stimme und Geste wichtiger waren als die uebliche Bedeutung der Woerter. Fuer das Publikum war das zugleich komisch, seltsam und beunruhigend.",
+          "en": "Hugo Ball performed sound poems in which rhythm, voice and gesture mattered more than ordinary word meanings. For audiences, it was funny, strange and unsettling at once."
+        },
+        "importance": {
+          "ru": "Такие курьёзные формы стали частью серьёзной истории авангарда.",
+          "de": "Solche kuriosen Formen wurden Teil einer ernsthaften Geschichte der Avantgarde.",
+          "en": "Such curious forms became part of the serious history of the avant-garde."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Cabaret Voltaire находилось на Spiegelgasse в Цюрихе, совсем рядом с местами, где в те же годы жили политические эмигранты.",
+    "de": "Das Cabaret Voltaire lag in der Spiegelgasse in Zuerich, nahe bei Orten, an denen damals politische Emigranten lebten.",
+    "en": "Cabaret Voltaire was on Spiegelgasse in Zurich, close to places where political exiles lived at the same time."
+  },
+  "sources": [
+    {
+      "label": "Routledge Encyclopedia of Modernism: Cabaret Voltaire",
+      "url": "https://www.rem.routledge.com/articles/cabaret-voltaire"
+    },
+    {
+      "label": "Britannica: Hugo Ball",
+      "url": "https://www.britannica.com/biography/Hugo-Ball"
+    }
+  ]
+}

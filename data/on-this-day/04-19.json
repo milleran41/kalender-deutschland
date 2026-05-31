@@ -1,0 +1,65 @@
+{
+  "date": "04-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1943-warsaw-ghetto-uprising-begins",
+    "year": 1943,
+    "title": {
+      "ru": "Началось восстание в Варшавском гетто",
+      "de": "Der Aufstand im Warschauer Ghetto beginnt",
+      "en": "The Warsaw Ghetto Uprising begins"
+    },
+    "description": {
+      "ru": "19 апреля 1943 года в оккупированной немцами Варшаве началось восстание в гетто. Еврейские подпольщики сопротивлялись попытке нацистов окончательно ликвидировать гетто.",
+      "de": "Am 19. April 1943 begann im deutsch besetzten Warschau der Aufstand im Ghetto. Juedische Untergrundkaempfer wehrten sich gegen den Versuch der Nationalsozialisten, das Ghetto endgueltig zu liquidieren.",
+      "en": "On 19 April 1943, the uprising in the ghetto of German-occupied Warsaw began. Jewish underground fighters resisted the Nazis' attempt to finally liquidate the ghetto."
+    },
+    "importance": {
+      "ru": "Это одно из самых известных вооружённых сопротивлений против нацистской политики уничтожения.",
+      "de": "Es ist einer der bekanntesten bewaffneten Widerstaende gegen die nationalsozialistische Vernichtungspolitik.",
+      "en": "It is one of the best-known armed acts of resistance against Nazi extermination policy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "resistance-under-occupation",
+        "year": 1943,
+        "title": {
+          "ru": "Сопротивление в безвыходной ситуации",
+          "de": "Widerstand in aussichtsloser Lage",
+          "en": "Resistance in a hopeless situation"
+        },
+        "description": {
+          "ru": "У восставших было мало оружия и почти не было надежды на военную победу. Но их борьба стала символом достоинства и отказа покорно идти на смерть.",
+          "de": "Die Aufstaendischen hatten wenige Waffen und kaum Hoffnung auf einen militaerischen Sieg. Doch ihr Kampf wurde zum Symbol von Wuerde und der Weigerung, widerstandslos in den Tod zu gehen.",
+          "en": "The fighters had few weapons and little hope of military victory. Their struggle became a symbol of dignity and refusal to go passively to death."
+        },
+        "importance": {
+          "ru": "Дата помогает говорить о Холокосте не только как о преступлении, но и как об истории сопротивления.",
+          "de": "Das Datum hilft, ueber den Holocaust nicht nur als Verbrechen, sondern auch als Geschichte des Widerstands zu sprechen.",
+          "en": "The date helps present the Holocaust not only as a crime, but also as a history of resistance."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Восстание продолжалось почти месяц, до середины мая 1943 года.",
+    "de": "Der Aufstand dauerte fast einen Monat, bis Mitte Mai 1943.",
+    "en": "The uprising lasted almost a month, until mid-May 1943."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Warsaw Ghetto Uprising",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/warsaw-ghetto-uprising"
+    },
+    {
+      "label": "Bundesarchiv: Aufstand im Warschauer Ghetto",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/19-april-1943-aufstand-im-warschauer-ghetto/"
+    }
+  ]
+}
