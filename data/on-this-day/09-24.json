@@ -1,0 +1,111 @@
+{
+  "date": "09-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1921-avus-opens-in-berlin",
+    "year": 1921,
+    "title": {
+      "ru": "В Берлине открылась трасса AVUS",
+      "de": "Die AVUS wird in Berlin eroeffnet",
+      "en": "The AVUS opens in Berlin"
+    },
+    "description": {
+      "ru": "24 сентября 1921 года в Берлине открылась AVUS, автомобильная дорога и гоночная трасса. Она стала важным местом для немецкого автоспорта, испытаний машин и городской автомобильной культуры.",
+      "de": "Am 24. September 1921 wurde in Berlin die AVUS eroeffnet, eine Automobilstrasse und Rennstrecke. Sie wurde zu einem wichtigen Ort fuer deutschen Motorsport, Fahrzeugtests und staedtische Autokultur.",
+      "en": "On 24 September 1921, the AVUS opened in Berlin as an automobile road and racing circuit. It became an important place for German motorsport, vehicle testing and urban car culture."
+    },
+    "importance": {
+      "ru": "AVUS показывает, как в Веймарской Германии автомобиль становился символом техники, скорости и нового городского образа жизни.",
+      "de": "Die AVUS zeigt, wie das Automobil in der Weimarer Republik zum Symbol fuer Technik, Tempo und einen neuen staedtischen Lebensstil wurde.",
+      "en": "The AVUS shows how the automobile became a symbol of technology, speed and a new urban lifestyle in Weimar Germany."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "testing-road",
+        "year": 1921,
+        "title": {
+          "ru": "Дорога для испытаний",
+          "de": "Eine Strasse zum Testen",
+          "en": "A road for testing"
+        },
+        "description": {
+          "ru": "Название AVUS расшифровывается как Automobil-Verkehrs- und Uebungsstrasse. То есть это была не только гоночная трасса, но и место для испытания автомобилей и дорожных решений.",
+          "de": "AVUS steht fuer Automobil-Verkehrs- und Uebungsstrasse. Sie war also nicht nur Rennstrecke, sondern auch ein Ort fuer Fahrzeugtests und Verkehrserprobung.",
+          "en": "AVUS stands for Automobil-Verkehrs- und Uebungsstrasse, an automobile traffic and training road. It was therefore not only a racetrack, but also a place for testing vehicles and traffic ideas."
+        },
+        "importance": {
+          "ru": "Это связывает историю Берлина с развитием немецкой автомобильной техники.",
+          "de": "Das verbindet die Geschichte Berlins mit der Entwicklung deutscher Automobiltechnik.",
+          "en": "It links Berlin's history with the development of German automotive technology."
+        }
+      }
+    ],
+    "sport": [
+      {
+        "id": "berlin-racing-culture",
+        "year": 1921,
+        "title": {
+          "ru": "Берлин и автогонки",
+          "de": "Berlin und der Motorsport",
+          "en": "Berlin and motor racing"
+        },
+        "description": {
+          "ru": "Открытие AVUS сопровождалось гоночным уикендом. Позднее трасса принимала крупные соревнования и стала одним из узнаваемых символов берлинского автоспорта.",
+          "de": "Die Eroeffnung der AVUS wurde von einem Rennwochenende begleitet. Spaeter fanden dort wichtige Wettbewerbe statt, und die Strecke wurde zu einem bekannten Symbol des Berliner Motorsports.",
+          "en": "The opening of the AVUS was accompanied by a racing weekend. Later, the circuit hosted major competitions and became a recognizable symbol of Berlin motorsport."
+        },
+        "importance": {
+          "ru": "Так в календаре появляется не только политика, но и спорт, техника и городская жизнь.",
+          "de": "So zeigt der Kalender nicht nur Politik, sondern auch Sport, Technik und Stadtleben.",
+          "en": "This brings not only politics into the calendar, but also sport, technology and city life."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "road-and-racetrack",
+        "year": 1921,
+        "title": {
+          "ru": "И дорога, и трасса",
+          "de": "Strasse und Rennstrecke zugleich",
+          "en": "Both road and racetrack"
+        },
+        "description": {
+          "ru": "AVUS необычна тем, что была одновременно частью дорожной инфраструктуры и гоночным объектом. Эта двойная роль делает её особенной в истории Берлина.",
+          "de": "Die AVUS ist ungewoehnlich, weil sie zugleich Teil der Verkehrsinfrastruktur und Rennstrecke war. Diese Doppelrolle macht sie in der Berliner Geschichte besonders.",
+          "en": "The AVUS is unusual because it was both part of road infrastructure and a racing venue. This double role makes it special in Berlin's history."
+        },
+        "importance": {
+          "ru": "Интересно, когда обычная городская дорога имеет биографию спортивной легенды.",
+          "de": "Interessant ist, wenn eine staedtische Strasse die Biografie einer Sportlegende hat.",
+          "en": "It is interesting when an ordinary urban road has the biography of a sporting legend."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "AVUS проходила через район Груневальд и долго оставалась заметной частью транспортной карты Западного Берлина.",
+    "de": "Die AVUS verlief durch den Grunewald und blieb lange ein auffaelliger Teil der Verkehrskarte West-Berlins.",
+    "en": "The AVUS ran through Grunewald and long remained a striking part of West Berlin's transport map."
+  },
+  "sources": [
+    {
+      "label": "Stadtmuseum Berlin: Die Avus",
+      "url": "https://www.stadtmuseum.de/story/beginn-und-glorreiche-zeiten"
+    },
+    {
+      "label": "Mercedes-Benz Archive: AVUS-Eroeffnungsrennen 1921",
+      "url": "https://mercedes-benz-archive.com/marsClassic/de/instance/ko/AVUS-Eroeffnungsrennen-1921.xhtml?oid=8078"
+    },
+    {
+      "label": "AvD: 100 Jahre AVUS Berlin",
+      "url": "https://avd.de/wissensbasis/avd-der-club/nachrichten/avd-feiert-100-jahre-avus-berlin"
+    }
+  ]
+}

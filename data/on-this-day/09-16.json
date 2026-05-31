@@ -1,0 +1,111 @@
+{
+  "date": "09-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1979-east-germany-balloon-escape",
+    "year": 1979,
+    "title": {
+      "ru": "Две семьи бежали из ГДР на воздушном шаре",
+      "de": "Zwei Familien fliehen mit einem Ballon aus der DDR",
+      "en": "Two families escape East Germany by balloon"
+    },
+    "description": {
+      "ru": "16 сентября 1979 года семьи Штрельцик и Ветцель перелетели из ГДР в ФРГ на самодельном воздушном шаре. Ночной полёт через хорошо охраняемую внутреннюю немецкую границу стал одним из самых необычных побегов времён разделённой Германии.",
+      "de": "Am 16. September 1979 flogen die Familien Strelzyk und Wetzel mit einem selbstgebauten Heissluftballon aus der DDR in die Bundesrepublik. Der naechtliche Flug ueber die streng bewachte innerdeutsche Grenze wurde zu einer der ungewoehnlichsten Fluchten der deutschen Teilung.",
+      "en": "On 16 September 1979, the Strelzyk and Wetzel families flew from East Germany to West Germany in a homemade hot-air balloon. The nighttime crossing of the heavily guarded inner German border became one of the most unusual escapes of divided Germany."
+    },
+    "importance": {
+      "ru": "История показывает, насколько сильным было желание людей покинуть закрытую систему и как изобретательность становилась вопросом свободы.",
+      "de": "Die Geschichte zeigt, wie stark der Wunsch war, ein geschlossenes System zu verlassen, und wie Erfindungsreichtum zu einer Frage der Freiheit wurde.",
+      "en": "The story shows how strong the desire was to leave a closed system and how ingenuity became a matter of freedom."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "inner-german-border",
+        "year": 1979,
+        "title": {
+          "ru": "Побег через внутреннюю немецкую границу",
+          "de": "Flucht ueber die innerdeutsche Grenze",
+          "en": "Escape across the inner German border"
+        },
+        "description": {
+          "ru": "Граница между ГДР и ФРГ была укреплена заборами, сигнализацией, патрулями и наблюдательными вышками. Поэтому попытка перелететь её на самодельном шаре была крайне рискованной.",
+          "de": "Die Grenze zwischen DDR und Bundesrepublik war mit Zaeunen, Signalanlagen, Patrouillen und Wachtuermen gesichert. Der Versuch, sie mit einem selbstgebauten Ballon zu ueberfliegen, war deshalb extrem riskant.",
+          "en": "The border between East and West Germany was secured with fences, alarms, patrols and watchtowers. Trying to fly over it in a homemade balloon was therefore extremely risky."
+        },
+        "importance": {
+          "ru": "Так видно, что раздел Германии был не абстрактной линией на карте, а реальным препятствием для семей и судеб.",
+          "de": "So wird deutlich, dass die deutsche Teilung keine abstrakte Linie auf der Karte war, sondern ein reales Hindernis fuer Familien und Lebenswege.",
+          "en": "It shows that Germany's division was not an abstract line on a map, but a real obstacle for families and lives."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "homemade-balloon-engineering",
+        "year": 1979,
+        "title": {
+          "ru": "Домашняя инженерия",
+          "de": "Ingenieurkunst aus dem Alltag",
+          "en": "Everyday engineering"
+        },
+        "description": {
+          "ru": "Шар шили из ткани, а горелку и корзину собирали из доступных материалов. Подготовка заняла много месяцев и требовала расчётов, испытаний и большой осторожности.",
+          "de": "Der Ballon wurde aus Stoff genaeht, Brenner und Gondel wurden aus verfuegbaren Materialien gebaut. Die Vorbereitung dauerte viele Monate und verlangte Berechnungen, Tests und grosse Vorsicht.",
+          "en": "The balloon was sewn from fabric, while the burner and gondola were built from available materials. Preparation took many months and required calculations, testing and great caution."
+        },
+        "importance": {
+          "ru": "Это редкий пример, когда техническая смекалка напрямую связана с историей свободы.",
+          "de": "Das ist ein seltenes Beispiel dafuer, wie technische Findigkeit direkt mit Freiheitsgeschichte verbunden ist.",
+          "en": "It is a rare example of technical ingenuity being directly linked to the history of freedom."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "film-and-memory",
+        "year": 1979,
+        "title": {
+          "ru": "История как сюжет фильма",
+          "de": "Geschichte als Filmstoff",
+          "en": "History as a film story"
+        },
+        "description": {
+          "ru": "Побег стал настолько необычным, что позднее его несколько раз экранизировали. В Германии он до сих пор воспринимается как одна из самых зрелищных историй времён ГДР.",
+          "de": "Die Flucht war so ungewoehnlich, dass sie spaeter mehrfach verfilmt wurde. In Deutschland gilt sie bis heute als eine der spektakulaersten Geschichten aus der Zeit der DDR.",
+          "en": "The escape was so unusual that it was later filmed more than once. In Germany, it is still seen as one of the most spectacular stories from the East German period."
+        },
+        "importance": {
+          "ru": "Иногда реальная история оказывается напряжённее выдуманного приключения.",
+          "de": "Manchmal ist wahre Geschichte spannender als ein erfundenes Abenteuer.",
+          "en": "Sometimes real history is more suspenseful than a fictional adventure."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В полёте участвовали восемь человек: две супружеские пары и их четверо детей.",
+    "de": "An dem Flug nahmen acht Menschen teil: zwei Ehepaare und ihre vier Kinder.",
+    "en": "Eight people took part in the flight: two couples and their four children."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Spektakulaere Fluchtversuche",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/themenbeitraege/spektakulaere-fluchtversuche/"
+    },
+    {
+      "label": "Britannica video: East German escape by balloon",
+      "url": "https://www.britannica.com/video/Germans-lives-West/-196591"
+    },
+    {
+      "label": "Zeitklicks: Ballonflucht aus der DDR",
+      "url": "https://www.zeitklicks.de/zeitstrahl/1979/ballonflucht-aus-der-ddr"
+    }
+  ]
+}

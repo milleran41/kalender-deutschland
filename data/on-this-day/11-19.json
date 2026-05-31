@@ -1,0 +1,90 @@
+{
+  "date": "11-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1942-operation-uranus-begins",
+    "year": 1942,
+    "title": {
+      "ru": "Началась операция «Уран» под Сталинградом",
+      "de": "Operation Uranus beginnt bei Stalingrad",
+      "en": "Operation Uranus begins at Stalingrad"
+    },
+    "description": {
+      "ru": "19 ноября 1942 года Красная армия начала операцию «Уран», контрнаступление под Сталинградом. Оно привело к окружению немецкой 6-й армии и стало одним из переломных моментов Второй мировой войны.",
+      "de": "Am 19. November 1942 begann die Rote Armee die Operation Uranus, die Gegenoffensive bei Stalingrad. Sie fuehrte zur Einkesselung der deutschen 6. Armee und wurde zu einem Wendepunkt des Zweiten Weltkriegs.",
+      "en": "On 19 November 1942, the Red Army launched Operation Uranus, the counteroffensive at Stalingrad. It led to the encirclement of the German Sixth Army and became one of the turning points of the Second World War."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания краха немецкого наступления на Восточном фронте и изменения хода войны.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis des Scheiterns der deutschen Offensive an der Ostfront und der Wende im Krieg.",
+      "en": "The date is important for understanding the collapse of Germany's offensive on the Eastern Front and the changing course of the war."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "stalingrad-encirclement",
+        "year": 1942,
+        "title": {
+          "ru": "Кольцо вокруг 6-й армии",
+          "de": "Der Ring um die 6. Armee",
+          "en": "The ring around the Sixth Army"
+        },
+        "description": {
+          "ru": "Советские войска ударили по флангам, где находились союзники Германии, и замкнули окружение вокруг сил под Сталинградом. Для немецкого командования это стало стратегической катастрофой.",
+          "de": "Sowjetische Truppen griffen die Flanken an, die von deutschen Verbuendeten gehalten wurden, und schlossen den Ring um die Truppen bei Stalingrad. Fuer die deutsche Fuehrung wurde dies zu einer strategischen Katastrophe.",
+          "en": "Soviet forces struck the flanks held by Germany's allies and closed the ring around the troops at Stalingrad. For the German command, this became a strategic catastrophe."
+        },
+        "importance": {
+          "ru": "Так видно, что слабые фланги и переоценка собственных сил могут изменить судьбу целой кампании.",
+          "de": "So wird sichtbar, wie schwache Flanken und Selbstueberschaetzung das Schicksal eines ganzen Feldzugs veraendern koennen.",
+          "en": "It shows how weak flanks and overconfidence can change the fate of an entire campaign."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "operation-name",
+        "year": 1942,
+        "title": {
+          "ru": "Кодовое название с планетой",
+          "de": "Ein Deckname mit Planet",
+          "en": "A codename with a planet"
+        },
+        "description": {
+          "ru": "Название «Уран» было кодовым, как и у многих крупных операций Второй мировой войны. Такие названия часто звучат почти загадочно, но за ними стояли огромные человеческие потери.",
+          "de": "Der Name Uranus war ein Deckname, wie bei vielen grossen Operationen des Zweiten Weltkriegs. Solche Namen klingen oft fast geheimnisvoll, doch dahinter standen enorme menschliche Verluste.",
+          "en": "The name Uranus was a codename, like many major operations of the Second World War. Such names can sound almost mysterious, but behind them stood enormous human losses."
+        },
+        "importance": {
+          "ru": "Это напоминание, что военные кодовые слова скрывают очень реальные судьбы людей.",
+          "de": "Es erinnert daran, dass militaerische Decknamen sehr reale menschliche Schicksale verbergen.",
+          "en": "It is a reminder that military codenames hide very real human fates."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Операция продолжалась с 19 по 23 ноября 1942 года и завершилась окружением сил Оси под Сталинградом.",
+    "de": "Die Operation dauerte vom 19. bis 23. November 1942 und endete mit der Einkesselung der Achsentruppen bei Stalingrad.",
+    "en": "The operation lasted from 19 to 23 November 1942 and ended with the encirclement of Axis forces at Stalingrad."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Operation Uranus",
+      "url": "https://www.britannica.com/event/Operation-Uranus"
+    },
+    {
+      "label": "Britannica: Battle of Stalingrad",
+      "url": "https://www.britannica.com/event/Battle-of-Stalingrad"
+    },
+    {
+      "label": "Army University Press: urban operations and Stalingrad",
+      "url": "https://www.armyupress.army.mil/Portals/7/Primer-on-Urban-Operation/Documents/BlockByBlock_TheChallengesOfUrbanOperations.pdf"
+    }
+  ]
+}
