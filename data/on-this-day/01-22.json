@@ -1,0 +1,65 @@
+{
+  "date": "01-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1963-elysee-treaty",
+    "year": 1963,
+    "title": {
+      "ru": "Подписан Елисейский договор",
+      "de": "Der Elysee-Vertrag wird unterzeichnet",
+      "en": "The Elysee Treaty is signed"
+    },
+    "description": {
+      "ru": "22 января 1963 года канцлер Конрад Аденауэр и президент Шарль де Голль подписали в Париже договор о франко-германском сотрудничестве. Он стал символом примирения после десятилетий войн.",
+      "de": "Am 22. Januar 1963 unterzeichneten Kanzler Konrad Adenauer und Praesident Charles de Gaulle in Paris den Vertrag ueber die deutsch-franzoesische Zusammenarbeit. Er wurde zum Symbol der Versoehnung nach Jahrzehnten von Kriegen.",
+      "en": "On 22 January 1963, Chancellor Konrad Adenauer and President Charles de Gaulle signed the treaty on Franco-German cooperation in Paris. It became a symbol of reconciliation after decades of war."
+    },
+    "importance": {
+      "ru": "Договор стал одной из основ современной дружбы Германии и Франции и европейской интеграции.",
+      "de": "Der Vertrag wurde zu einer Grundlage der modernen deutsch-franzoesischen Freundschaft und der europaeischen Integration.",
+      "en": "The treaty became one foundation of modern Franco-German friendship and European integration."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "franco-german-youth-office",
+        "year": 1963,
+        "title": {
+          "ru": "Молодёжь как мост",
+          "de": "Jugend als Bruecke",
+          "en": "Youth as a bridge"
+        },
+        "description": {
+          "ru": "Одним из практических результатов стало Франко-германское молодёжное бюро. Миллионы молодых людей получили возможность участвовать в обменах.",
+          "de": "Ein praktisches Ergebnis war das Deutsch-Franzoesische Jugendwerk. Millionen junger Menschen konnten an Austauschprogrammen teilnehmen.",
+          "en": "One practical result was the Franco-German Youth Office. Millions of young people gained opportunities to take part in exchanges."
+        },
+        "importance": {
+          "ru": "Примирение стало не только делом политиков, но и опытом обычных семей и школьников.",
+          "de": "Versoehnung wurde nicht nur Sache der Politik, sondern Erfahrung von Familien und Schuelern.",
+          "en": "Reconciliation became not only a matter for politicians but an experience for families and students."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "22 января в Германии и Франции отмечают как День франко-германской дружбы.",
+    "de": "Der 22. Januar wird in Deutschland und Frankreich als Tag der deutsch-franzoesischen Freundschaft begangen.",
+    "en": "22 January is observed in Germany and France as Franco-German Friendship Day."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: Elysee Treaty",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/media-center/elys%C3%A9e-treaty-1572674"
+    },
+    {
+      "label": "French Foreign Ministry: Elysee Treaty",
+      "url": "https://www.diplomatie.gouv.fr/en/country-files/germany/france-and-germany/elysee-treaty/"
+    }
+  ]
+}

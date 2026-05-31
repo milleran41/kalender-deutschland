@@ -1,0 +1,65 @@
+{
+  "date": "10-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1923-first-german-radio-broadcast",
+    "year": 1923,
+    "title": {
+      "ru": "Первая немецкая радиопередача",
+      "de": "Die erste deutsche Rundfunksendung",
+      "en": "The first German radio broadcast"
+    },
+    "description": {
+      "ru": "29 октября 1923 года из берлинского Vox-Haus вышла первая регулярная радиопередача для слушателей в Германии. Радио быстро стало новым массовым медиа.",
+      "de": "Am 29. Oktober 1923 wurde aus dem Berliner Vox-Haus die erste regulaere Rundfunksendung fuer Hoerer in Deutschland ausgestrahlt. Radio wurde schnell zu einem neuen Massenmedium.",
+      "en": "On 29 October 1923, the first regular radio broadcast for listeners in Germany was transmitted from Berlin's Vox-Haus. Radio quickly became a new mass medium."
+    },
+    "importance": {
+      "ru": "Дата открывает историю немецкого радио, от культуры и музыки до новостей и пропаганды.",
+      "de": "Das Datum eroeffnet die Geschichte des deutschen Rundfunks, von Kultur und Musik bis zu Nachrichten und Propaganda.",
+      "en": "The date opens the history of German broadcasting, from culture and music to news and propaganda."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "radio-in-weimar",
+        "year": 1923,
+        "title": {
+          "ru": "Голос Веймарской эпохи",
+          "de": "Eine Stimme der Weimarer Zeit",
+          "en": "A voice of the Weimar era"
+        },
+        "description": {
+          "ru": "Радио появилось в Германии в сложный год гиперинфляции и политических кризисов. Новая техника быстро стала частью повседневности.",
+          "de": "Der Rundfunk begann in Deutschland im schwierigen Jahr der Hyperinflation und politischer Krisen. Die neue Technik wurde schnell Teil des Alltags.",
+          "en": "Radio began in Germany during the difficult year of hyperinflation and political crises. The new technology quickly became part of everyday life."
+        },
+        "importance": {
+          "ru": "История радио показывает, как технологии меняют общество даже в годы кризиса.",
+          "de": "Rundfunkgeschichte zeigt, wie Technik Gesellschaft auch in Krisenjahren veraendert.",
+          "en": "Radio history shows how technology changes society even in years of crisis."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Берлинский Vox-Haus стал одним из символических мест рождения немецкого радио.",
+    "de": "Das Berliner Vox-Haus wurde zu einem symbolischen Geburtsort des deutschen Rundfunks.",
+    "en": "Berlin's Vox-Haus became one symbolic birthplace of German radio."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: First German radio broadcast",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/the-first-german-radio-broadcast-october-29-1923"
+    },
+    {
+      "label": "Deutschlandfunk: 100 years of German radio",
+      "url": "https://www.deutschlandfunk.de/geburtsstunde-des-deutschen-rundfunks-100.html"
+    }
+  ]
+}

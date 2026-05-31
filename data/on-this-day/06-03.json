@@ -1,0 +1,65 @@
+{
+  "date": "06-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1998-eschede-train-disaster",
+    "year": 1998,
+    "title": {
+      "ru": "Катастрофа ICE у Эшеде",
+      "de": "ICE-Unglueck von Eschede",
+      "en": "Eschede ICE train disaster"
+    },
+    "description": {
+      "ru": "3 июня 1998 года скоростной поезд ICE сошёл с рельсов у Эшеде в Нижней Саксонии и столкнулся с мостом. Погиб 101 человек.",
+      "de": "Am 3. Juni 1998 entgleiste ein ICE-Hochgeschwindigkeitszug bei Eschede in Niedersachsen und prallte gegen eine Bruecke. 101 Menschen starben.",
+      "en": "On 3 June 1998, a high-speed ICE train derailed near Eschede in Lower Saxony and crashed into a bridge. 101 people died."
+    },
+    "importance": {
+      "ru": "Это самая тяжёлая катастрофа высокоскоростного поезда в истории Германии.",
+      "de": "Es ist das schwerste Unglueck eines Hochgeschwindigkeitszuges in der deutschen Geschichte.",
+      "en": "It is the worst high-speed train disaster in German history."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "rail-safety-lessons",
+        "year": 1998,
+        "title": {
+          "ru": "Уроки безопасности",
+          "de": "Lehren fuer die Sicherheit",
+          "en": "Safety lessons"
+        },
+        "description": {
+          "ru": "После катастрофы внимательно изучали конструкцию колёс, техническое обслуживание и действия спасательных служб. Такие трагедии меняют стандарты безопасности.",
+          "de": "Nach dem Unglueck wurden Radkonstruktion, Wartung und Rettungseinsaetze genau untersucht. Solche Tragödien veraendern Sicherheitsstandards.",
+          "en": "After the disaster, wheel design, maintenance and emergency response were closely studied. Such tragedies change safety standards."
+        },
+        "importance": {
+          "ru": "Техника требует не только скорости, но и постоянной проверки риска.",
+          "de": "Technik braucht nicht nur Geschwindigkeit, sondern staendige Pruefung von Risiken.",
+          "en": "Technology needs not only speed but constant risk checking."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Поезд носил имя Вильгельма Конрада Рентгена.",
+    "de": "Der Zug trug den Namen Wilhelm Conrad Roentgen.",
+    "en": "The train was named after Wilhelm Conrad Roentgen."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Eschede train disaster",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1998-06-03-the-eschede-train-disaster/"
+    },
+    {
+      "label": "NASA Safety Center: Eschede train disaster PDF",
+      "url": "https://sma.nasa.gov/docs/default-source/safety-messages/safetymessage-2007-05-01-eschedetraindisaster-vits.pdf"
+    }
+  ]
+}

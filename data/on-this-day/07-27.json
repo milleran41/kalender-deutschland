@@ -1,0 +1,65 @@
+{
+  "date": "07-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1943-hamburg-firestorm",
+    "year": 1943,
+    "title": {
+      "ru": "Огненный шторм в Гамбурге",
+      "de": "Feuersturm in Hamburg",
+      "en": "Firestorm in Hamburg"
+    },
+    "description": {
+      "ru": "В ночь с 27 на 28 июля 1943 года массированные бомбардировки вызвали в Гамбурге огненный шторм. Это стало одним из самых разрушительных эпизодов воздушной войны над Германией.",
+      "de": "In der Nacht vom 27. auf den 28. Juli 1943 loesten massive Bombardierungen in Hamburg einen Feuersturm aus. Das wurde eine der zerstoererischsten Episoden des Luftkriegs ueber Deutschland.",
+      "en": "On the night of 27-28 July 1943, massive bombing raids caused a firestorm in Hamburg. It became one of the most destructive episodes of the air war over Germany."
+    },
+    "importance": {
+      "ru": "Дата показывает ужас тотальной войны для мирного населения.",
+      "de": "Das Datum zeigt den Schrecken des totalen Krieges fuer die Zivilbevoelkerung.",
+      "en": "The date shows the horror of total war for civilians."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "operation-gomorrah",
+        "year": 1943,
+        "title": {
+          "ru": "Операция «Гоморра»",
+          "de": "Operation Gomorrha",
+          "en": "Operation Gomorrah"
+        },
+        "description": {
+          "ru": "Удары по Гамбургу были частью операции «Гоморра», продолжавшейся несколько дней. Город-порт получил огромные разрушения.",
+          "de": "Die Angriffe auf Hamburg waren Teil der mehrtaegigen Operation Gomorrha. Die Hafenstadt wurde schwer zerstoert.",
+          "en": "The attacks on Hamburg were part of the multi-day Operation Gomorrah. The port city suffered enormous destruction."
+        },
+        "importance": {
+          "ru": "Гамбургская дата дополняет историю Дрездена и показывает масштаб воздушной войны.",
+          "de": "Das Hamburger Datum ergaenzt die Geschichte Dresdens und zeigt das Ausmass des Luftkriegs.",
+          "en": "The Hamburg date complements the history of Dresden and shows the scale of the air war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название операции отсылало к библейскому городу Гоморре.",
+    "de": "Der Name der Operation bezog sich auf die biblische Stadt Gomorrha.",
+    "en": "The operation's name referred to the biblical city of Gomorrah."
+  },
+  "sources": [
+    {
+      "label": "World History Encyclopedia: Operation Gomorrah",
+      "url": "https://www.worldhistory.org/Operation_Gomorrah/"
+    },
+    {
+      "label": "Britannica: Strategic bombing in World War II",
+      "url": "https://www.britannica.com/topic/strategic-bombing"
+    }
+  ]
+}

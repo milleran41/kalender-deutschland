@@ -45,6 +45,27 @@
           "en": "Sometimes history remembers not only a document but a human movement."
         }
       }
+    ],
+    "science": [
+      {
+        "id": "1835-first-german-railway",
+        "year": 1835,
+        "title": {
+          "ru": "Открыта первая немецкая железная дорога",
+          "de": "Die erste deutsche Eisenbahn wird eroeffnet",
+          "en": "The first German railway opens"
+        },
+        "description": {
+          "ru": "7 декабря 1835 года открылась железная дорога между Нюрнбергом и Фюртом. Паровоз «Адлер» стал символом начала железнодорожной эпохи в Германии.",
+          "de": "Am 7. Dezember 1835 wurde die Eisenbahn zwischen Nuernberg und Fuerth eroeffnet. Die Lokomotive Adler wurde zum Symbol des Beginns des Eisenbahnzeitalters in Deutschland.",
+          "en": "On 7 December 1835, the railway between Nuremberg and Fuerth opened. The locomotive Adler became a symbol of the railway age in Germany."
+        },
+        "importance": {
+          "ru": "Железные дороги изменили экономику, путешествия и карту связей между городами.",
+          "de": "Eisenbahnen veraenderten Wirtschaft, Reisen und die Verbindungskarte zwischen Staedten.",
+          "en": "Railways changed the economy, travel and the map of connections between cities."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,14 @@
     {
       "label": "Nobel Prize: Willy Brandt",
       "url": "https://www.nobelprize.org/prizes/peace/1971/brandt/biographical/"
+    },
+    {
+      "label": "Deutschlandmuseum: first German railway",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1835-12-07-the-first-german-railway/"
+    },
+    {
+      "label": "German History in Documents and Images: Ludwig Railroad",
+      "url": "https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/the-ludwig-railroad-c-1835"
     }
   ]
 }

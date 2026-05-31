@@ -1,0 +1,65 @@
+{
+  "date": "11-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1993-maastricht-treaty-enters-force",
+    "year": 1993,
+    "title": {
+      "ru": "Маастрихтский договор вступил в силу",
+      "de": "Der Vertrag von Maastricht tritt in Kraft",
+      "en": "The Maastricht Treaty enters into force"
+    },
+    "description": {
+      "ru": "1 ноября 1993 года вступил в силу Маастрихтский договор, создавший Европейский союз. Германия стала одной из ключевых стран нового этапа европейской интеграции.",
+      "de": "Am 1. November 1993 trat der Vertrag von Maastricht in Kraft und begruendete die Europaeische Union. Deutschland wurde zu einem Schluesselland dieser neuen Phase der europaeischen Integration.",
+      "en": "On 1 November 1993, the Maastricht Treaty entered into force, creating the European Union. Germany became one of the key countries in this new stage of European integration."
+    },
+    "importance": {
+      "ru": "Договор подготовил путь к евро, общей политике и новой форме европейского сотрудничества.",
+      "de": "Der Vertrag bereitete den Weg fuer den Euro, gemeinsame Politik und eine neue Form europaeischer Zusammenarbeit.",
+      "en": "The treaty paved the way for the euro, common policies and a new form of European cooperation."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "post-reunification-europe",
+        "year": 1993,
+        "title": {
+          "ru": "Объединённая Германия в Европе",
+          "de": "Das vereinte Deutschland in Europa",
+          "en": "United Germany in Europe"
+        },
+        "description": {
+          "ru": "После воссоединения Германия особенно активно связывала своё будущее с Европейским союзом. Это помогало соседям воспринимать немецкое единство как часть общей Европы.",
+          "de": "Nach der Wiedervereinigung band Deutschland seine Zukunft besonders stark an die Europaeische Union. Das half Nachbarn, die deutsche Einheit als Teil eines gemeinsamen Europas zu sehen.",
+          "en": "After reunification, Germany tied its future strongly to the European Union. This helped neighbors see German unity as part of a shared Europe."
+        },
+        "importance": {
+          "ru": "Дата показывает, что история современной Германии неотделима от истории ЕС.",
+          "de": "Das Datum zeigt, dass die Geschichte des heutigen Deutschlands untrennbar mit der EU verbunden ist.",
+          "en": "The date shows that modern German history is inseparable from EU history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Маастрихтский договор был подписан 7 февраля 1992 года, но вступил в силу 1 ноября 1993 года.",
+    "de": "Der Vertrag von Maastricht wurde am 7. Februar 1992 unterzeichnet, trat aber am 1. November 1993 in Kraft.",
+    "en": "The Maastricht Treaty was signed on 7 February 1992 but entered into force on 1 November 1993."
+  },
+  "sources": [
+    {
+      "label": "European Union: history 1990-99",
+      "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1990-99_en"
+    },
+    {
+      "label": "European Parliament: Maastricht Treaty",
+      "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/maastricht-treaty"
+    }
+  ]
+}

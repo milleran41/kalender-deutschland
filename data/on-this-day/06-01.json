@@ -1,0 +1,65 @@
+{
+  "date": "06-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1998-european-central-bank-established",
+    "year": 1998,
+    "title": {
+      "ru": "Создан Европейский центральный банк",
+      "de": "Die Europaeische Zentralbank wird gegruendet",
+      "en": "The European Central Bank is established"
+    },
+    "description": {
+      "ru": "1 июня 1998 года был создан Европейский центральный банк. Его штаб-квартира находится во Франкфурте-на-Майне.",
+      "de": "Am 1. Juni 1998 wurde die Europaeische Zentralbank gegruendet. Ihr Sitz befindet sich in Frankfurt am Main.",
+      "en": "On 1 June 1998, the European Central Bank was established. Its headquarters are in Frankfurt am Main."
+    },
+    "importance": {
+      "ru": "Франкфурт стал одним из главных финансовых центров Европы эпохи евро.",
+      "de": "Frankfurt wurde zu einem der wichtigsten Finanzzentren Europas im Euro-Zeitalter.",
+      "en": "Frankfurt became one of Europe's key financial centers in the age of the euro."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "euro-preparation",
+        "year": 1998,
+        "title": {
+          "ru": "Подготовка к евро",
+          "de": "Vorbereitung auf den Euro",
+          "en": "Preparing for the euro"
+        },
+        "description": {
+          "ru": "ЕЦБ должен был подготовить запуск единой валюты и отвечать за денежную политику еврозоны. Это был технически сложный и политически важный проект.",
+          "de": "Die EZB sollte die Einfuehrung der gemeinsamen Waehrung vorbereiten und die Geldpolitik des Euroraums verantworten. Das war technisch anspruchsvoll und politisch wichtig.",
+          "en": "The ECB was to prepare the launch of the common currency and take charge of euro-area monetary policy. It was technically complex and politically important."
+        },
+        "importance": {
+          "ru": "Дата связывает Германию с экономической архитектурой современной Европы.",
+          "de": "Das Datum verbindet Deutschland mit der wirtschaftlichen Architektur des heutigen Europa.",
+          "en": "The date links Germany with the economic architecture of modern Europe."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Евро в безналичной форме стартовал 1 января 1999 года, а наличные появились 1 января 2002 года.",
+    "de": "Der Euro startete bargeldlos am 1. Januar 1999, Bargeld folgte am 1. Januar 2002.",
+    "en": "The euro began in non-cash form on 1 January 1999; cash followed on 1 January 2002."
+  },
+  "sources": [
+    {
+      "label": "ECB: 25 years of the ECB",
+      "url": "https://www.ecb.europa.eu/ecb/history-arts-culture/history/25-year-anniversary-of-the-ecb/html/index.en.html"
+    },
+    {
+      "label": "ECB: ESCB and Eurosystem",
+      "url": "https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html"
+    }
+  ]
+}

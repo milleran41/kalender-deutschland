@@ -45,6 +45,27 @@
           "en": "It is an example of how a technical accident becomes an environmental and everyday problem."
         }
       }
+    ],
+    "history": [
+      {
+        "id": "2002-erfurt-school-shooting",
+        "year": 2002,
+        "title": {
+          "ru": "Трагедия в гимназии Гутенберга в Эрфурте",
+          "de": "Amoklauf am Gutenberg-Gymnasium in Erfurt",
+          "en": "Gutenberg Gymnasium shooting in Erfurt"
+        },
+        "description": {
+          "ru": "26 апреля 2002 года в Эрфурте бывший ученик гимназии Гутенберга убил 16 человек и затем себя. Трагедия вызвала широкие споры о школьной безопасности, оружии и психологической помощи.",
+          "de": "Am 26. April 2002 erschoss ein ehemaliger Schueler am Gutenberg-Gymnasium in Erfurt 16 Menschen und danach sich selbst. Die Tat fuehrte zu breiten Debatten ueber Schulsicherheit, Waffen und psychologische Hilfe.",
+          "en": "On 26 April 2002, a former student at Gutenberg Gymnasium in Erfurt killed 16 people and then himself. The tragedy led to broad debates about school safety, weapons and psychological support."
+        },
+        "importance": {
+          "ru": "Это одна из самых тяжёлых школьных трагедий в современной Германии.",
+          "de": "Es ist eine der schwersten Schultragödien im modernen Deutschland.",
+          "en": "It is one of the worst school tragedies in modern Germany."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,14 @@
     {
       "label": "IAEA: Chernobyl accident",
       "url": "https://www.iaea.org/newscenter/focus/chernobyl"
+    },
+    {
+      "label": "Tagesschau: Erfurt school shooting",
+      "url": "https://www.tagesschau.de/jahresrueckblick/meldung-ts-2298.html"
+    },
+    {
+      "label": "PBS NewsHour: Germany school shooting",
+      "url": "https://www.pbs.org/newshour/politics/europe-jan-june02-germany_04-26"
     }
   ]
 }
