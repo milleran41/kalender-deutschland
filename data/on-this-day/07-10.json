@@ -1,0 +1,65 @@
+{
+  "date": "07-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1895-carl-orff-born",
+    "year": 1895,
+    "title": {
+      "ru": "Родился Карл Орф",
+      "de": "Carl Orff wird geboren",
+      "en": "Carl Orff is born"
+    },
+    "description": {
+      "ru": "10 июля 1895 года в Мюнхене родился композитор и музыкальный педагог Карл Орф. Он известен прежде всего сценической кантатой «Carmina Burana» и системой музыкального воспитания Orff-Schulwerk.",
+      "de": "Am 10. Juli 1895 wurde der Komponist und Musikpaedagoge Carl Orff in Muenchen geboren. Bekannt ist er vor allem durch die szenische Kantate Carmina Burana und das musikpaedagogische Orff-Schulwerk.",
+      "en": "On 10 July 1895, composer and music educator Carl Orff was born in Munich. He is best known for the scenic cantata Carmina Burana and the Orff-Schulwerk approach to music education."
+    },
+    "importance": {
+      "ru": "Орф соединяет баварскую музыкальную культуру, театр, ритм и школьное музыкальное образование.",
+      "de": "Orff verbindet bayerische Musikkultur, Theater, Rhythmus und schulische Musikbildung.",
+      "en": "Orff connects Bavarian musical culture, theatre, rhythm and school music education."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "carmina-burana",
+        "year": 1937,
+        "title": {
+          "ru": "«Carmina Burana»",
+          "de": "Carmina Burana",
+          "en": "Carmina Burana"
+        },
+        "description": {
+          "ru": "«Carmina Burana» использует средневековые тексты и мощный ритмический язык. Начальная часть произведения стала одной из самых узнаваемых музыкальных тем XX века.",
+          "de": "Carmina Burana verwendet mittelalterliche Texte und eine kraftvolle rhythmische Sprache. Der Anfang des Werks wurde zu einem der bekanntesten musikalischen Themen des 20. Jahrhunderts.",
+          "en": "Carmina Burana uses medieval texts and a powerful rhythmic language. The opening of the work became one of the most recognizable musical themes of the 20th century."
+        },
+        "importance": {
+          "ru": "Это пример того, как старые тексты могут получить совершенно новую сценическую жизнь.",
+          "de": "Das ist ein Beispiel dafuer, wie alte Texte ein ganz neues Buehnenleben bekommen koennen.",
+          "en": "It is an example of old texts receiving a completely new stage life."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Методика Orff-Schulwerk широко используется в музыкальном образовании детей.",
+    "de": "Das Orff-Schulwerk wird weltweit in der musikalischen Bildung von Kindern verwendet.",
+    "en": "Orff-Schulwerk is widely used in children's music education."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Carl Orff",
+      "url": "https://www.britannica.com/biography/Carl-Orff"
+    },
+    {
+      "label": "Carl Orff Museum",
+      "url": "https://carl-orff.org/en/carl-orff"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "01-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1897-first-working-diesel-engine",
+    "year": 1897,
+    "title": {
+      "ru": "Заработал первый функциональный дизельный двигатель",
+      "de": "Der erste funktionsfaehige Dieselmotor laeuft",
+      "en": "The first functional diesel engine works"
+    },
+    "description": {
+      "ru": "28 января 1897 года в Аугсбурге был завершён первый работающий дизельный двигатель. Рудольф Дизель и инженеры Maschinenfabrik Augsburg прошли к этому результату через годы испытаний.",
+      "de": "Am 28. Januar 1897 wurde in Augsburg der erste funktionsfaehige Dieselmotor vollendet. Rudolf Diesel und die Ingenieure der Maschinenfabrik Augsburg erreichten dieses Ergebnis nach Jahren von Versuchen.",
+      "en": "On 28 January 1897, the first functional diesel engine was completed in Augsburg. Rudolf Diesel and the engineers of Maschinenfabrik Augsburg reached this result after years of testing."
+    },
+    "importance": {
+      "ru": "Дизельный двигатель стал одной из ключевых технологий для судов, грузовиков, поездов и промышленности.",
+      "de": "Der Dieselmotor wurde zu einer Schluesseltechnik fuer Schiffe, Lastwagen, Zuege und Industrie.",
+      "en": "The diesel engine became a key technology for ships, trucks, trains and industry."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "augsburg-engine-testing",
+        "year": 1897,
+        "title": {
+          "ru": "Изобретение после множества неудач",
+          "de": "Eine Erfindung nach vielen Rueckschlaegen",
+          "en": "An invention after many setbacks"
+        },
+        "description": {
+          "ru": "Путь к работающему мотору был не прямым: ранние опыты ломались, перегревались и требовали переделок. Успех 1897 года показывает, что инженерные открытия часто рождаются в мастерской, а не только на бумаге.",
+          "de": "Der Weg zum funktionierenden Motor war nicht gerade: fruehe Versuche scheiterten, ueberhitzten und mussten umgebaut werden. Der Erfolg von 1897 zeigt, dass technische Erfindungen oft in der Werkstatt entstehen, nicht nur auf Papier.",
+          "en": "The road to a working engine was not straight: early tests failed, overheated and had to be rebuilt. The 1897 success shows that engineering inventions are often born in the workshop, not only on paper."
+        },
+        "importance": {
+          "ru": "Это хорошая история о терпении в технике.",
+          "de": "Das ist eine gute Geschichte ueber Geduld in der Technik.",
+          "en": "It is a good story about patience in engineering."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первый функциональный дизельный двигатель связан с Аугсбургом, городом с сильной промышленной традицией.",
+    "de": "Der erste funktionsfaehige Dieselmotor ist mit Augsburg verbunden, einer Stadt mit starker Industrietradition.",
+    "en": "The first functional diesel engine is linked with Augsburg, a city with a strong industrial tradition."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Rudolf Diesel's engine works",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1897-01-28-an-innovation-in-engine-construction/"
+    },
+    {
+      "label": "German History Intersections: Diesel experimental engine",
+      "url": "https://germanhistory-intersections.org/en/knowledge-and-education/ghis:image-9"
+    }
+  ]
+}

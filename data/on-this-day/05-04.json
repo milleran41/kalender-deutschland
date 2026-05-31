@@ -1,0 +1,86 @@
+{
+  "date": "05-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1521-luther-wartburg",
+    "year": 1521,
+    "title": {
+      "ru": "Лютера тайно увезли на Вартбург",
+      "de": "Luther wird heimlich auf die Wartburg gebracht",
+      "en": "Luther is secretly taken to Wartburg Castle"
+    },
+    "description": {
+      "ru": "4 мая 1521 года после Вормсского рейхстага Мартин Лютер был тайно увезён на Вартбург по распоряжению курфюрста Фридриха Мудрого. Там он жил под вымышленным именем и начал важную работу над переводом Нового Завета.",
+      "de": "Am 4. Mai 1521 wurde Martin Luther nach dem Reichstag zu Worms auf Anordnung Kurfuerst Friedrichs des Weisen heimlich auf die Wartburg gebracht. Dort lebte er unter falschem Namen und begann die wichtige Arbeit an der Uebersetzung des Neuen Testaments.",
+      "en": "On 4 May 1521, after the Diet of Worms, Martin Luther was secretly taken to Wartburg Castle on the orders of Elector Frederick the Wise. There he lived under an assumed name and began important work on translating the New Testament."
+    },
+    "importance": {
+      "ru": "Вартбург стал одним из ключевых мест Реформации и истории немецкого языка.",
+      "de": "Die Wartburg wurde zu einem Schluesselort der Reformation und der Geschichte der deutschen Sprache.",
+      "en": "Wartburg Castle became a key site of the Reformation and the history of the German language."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "luther-bible-translation",
+        "year": 1522,
+        "title": {
+          "ru": "Перевод, изменивший язык",
+          "de": "Eine Uebersetzung veraendert die Sprache",
+          "en": "A translation changes the language"
+        },
+        "description": {
+          "ru": "На Вартбурге Лютер перевёл Новый Завет на немецкий язык. Его перевод помог сделать библейский текст доступнее и повлиял на развитие письменного немецкого.",
+          "de": "Auf der Wartburg uebersetzte Luther das Neue Testament ins Deutsche. Seine Uebersetzung machte den Bibeltext zugaenglicher und beeinflusste die Entwicklung der deutschen Schriftsprache.",
+          "en": "At Wartburg, Luther translated the New Testament into German. His translation made the biblical text more accessible and influenced the development of written German."
+        },
+        "importance": {
+          "ru": "Это показывает, почему Реформация была также культурным и языковым событием.",
+          "de": "Das zeigt, warum die Reformation auch ein kulturelles und sprachliches Ereignis war.",
+          "en": "It shows why the Reformation was also a cultural and linguistic event."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "junkers-joerg",
+        "year": 1521,
+        "title": {
+          "ru": "Лютер под именем «юнкер Йорг»",
+          "de": "Luther als Junker Joerg",
+          "en": "Luther as Junker Joerg"
+        },
+        "description": {
+          "ru": "На Вартбурге Лютер скрывался под именем «юнкер Йорг». История с тайным укрытием выглядит почти приключенчески, хотя опасность для него была вполне реальной.",
+          "de": "Auf der Wartburg versteckte sich Luther unter dem Namen Junker Joerg. Die Geschichte wirkt fast abenteuerlich, obwohl die Gefahr fuer ihn sehr real war.",
+          "en": "At Wartburg, Luther hid under the name Junker Joerg. The story feels almost adventurous, though the danger to him was very real."
+        },
+        "importance": {
+          "ru": "Так серьёзная история Реформации получает почти романную сцену.",
+          "de": "So bekommt die ernste Geschichte der Reformation fast eine Romanszene.",
+          "en": "The serious history of the Reformation gains an almost novel-like scene."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вартбург находится у Айзенаха в Тюрингии и входит в список Всемирного наследия ЮНЕСКО.",
+    "de": "Die Wartburg liegt bei Eisenach in Thueringen und gehoert zum UNESCO-Welterbe.",
+    "en": "Wartburg Castle is near Eisenach in Thuringia and is a UNESCO World Heritage Site."
+  },
+  "sources": [
+    {
+      "label": "luther.de: Luther at Wartburg",
+      "url": "https://www.luther.de/en/wartburg.html"
+    },
+    {
+      "label": "Worms: Diet of Worms and Luther",
+      "url": "https://www.worms.de/en/web/luther/Worms_1521/Reichstag/"
+    }
+  ]
+}
