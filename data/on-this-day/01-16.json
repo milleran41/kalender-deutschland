@@ -1,0 +1,86 @@
+{
+  "date": "01-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-hitler-moves-into-fuehrerbunker",
+    "year": 1945,
+    "title": {
+      "ru": "Гитлер переехал в фюрербункер",
+      "de": "Hitler zieht in den Fuehrerbunker",
+      "en": "Hitler moves into the Fuehrerbunker"
+    },
+    "description": {
+      "ru": "16 января 1945 года Адольф Гитлер окончательно перенёс свою ставку в подземный фюрербункер в Берлине. Оттуда он руководил последними месяцами войны, пока Красная армия приближалась к столице.",
+      "de": "Am 16. Januar 1945 verlegte Adolf Hitler sein Hauptquartier endgueltig in den unterirdischen Fuehrerbunker in Berlin. Von dort aus fuehrte er die letzten Kriegsmonate, waehrend die Rote Armee auf die Hauptstadt vorrueckte.",
+      "en": "On 16 January 1945, Adolf Hitler finally moved his headquarters into the underground Fuehrerbunker in Berlin. From there he directed the final months of the war as the Red Army advanced toward the capital."
+    },
+    "importance": {
+      "ru": "Дата символизирует последние месяцы нацистского режима: внешне ещё приказы и пропаганда, а фактически уже военный крах.",
+      "de": "Das Datum steht sinnbildlich fuer die letzten Monate des NS-Regimes: nach aussen noch Befehle und Propaganda, tatsaechlich aber bereits militaerischer Zusammenbruch.",
+      "en": "The date symbolizes the final months of the Nazi regime: outwardly still issuing orders and propaganda, but in reality already facing military collapse."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "berlin-final-phase",
+        "year": 1945,
+        "title": {
+          "ru": "Берлин в финальной фазе войны",
+          "de": "Berlin in der Endphase des Krieges",
+          "en": "Berlin in the final phase of the war"
+        },
+        "description": {
+          "ru": "В январе 1945 года советское наступление на востоке стало для Германии смертельной угрозой. Берлин готовился к осаде, а нацистское руководство всё сильнее уходило в изоляцию и иллюзии.",
+          "de": "Im Januar 1945 wurde die sowjetische Offensive im Osten fuer Deutschland zur existenziellen Bedrohung. Berlin bereitete sich auf die Belagerung vor, waehrend sich die NS-Fuehrung immer staerker in Isolation und Illusionen zurueckzog.",
+          "en": "In January 1945, the Soviet offensive in the east became an existential threat to Germany. Berlin prepared for siege while the Nazi leadership retreated further into isolation and illusions."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему конец войны в Германии был одновременно военным, политическим и моральным крахом.",
+          "de": "Das hilft zu verstehen, warum das Kriegsende in Deutschland zugleich ein militaerischer, politischer und moralischer Zusammenbruch war.",
+          "en": "It helps explain why the end of the war in Germany was a military, political and moral collapse at the same time."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "bunker-as-negative-memory-site",
+        "year": 1945,
+        "title": {
+          "ru": "Место без героизации",
+          "de": "Ein Ort ohne Heroisierung",
+          "en": "A place without heroization"
+        },
+        "description": {
+          "ru": "Сегодня место бывшего бункера в Берлине не превращено в памятник поклонения. Информационные таблички объясняют историю, но само место намеренно выглядит буднично.",
+          "de": "Heute ist der Ort des frueheren Bunkers in Berlin kein Denkmal der Verehrung. Informationstafeln erklaeren die Geschichte, doch der Ort selbst wirkt bewusst alltaeglich.",
+          "en": "Today the site of the former bunker in Berlin is not turned into a place of veneration. Information boards explain the history, but the place itself is deliberately ordinary."
+        },
+        "importance": {
+          "ru": "Это пример того, как Германия обращается с местами преступной диктатуры без создания культа.",
+          "de": "Das ist ein Beispiel dafuer, wie Deutschland mit Orten einer verbrecherischen Diktatur umgeht, ohne einen Kult zu schaffen.",
+          "en": "It is an example of how Germany handles sites of a criminal dictatorship without creating a cult."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фюрербункер находился рядом с рейхсканцелярией, в самом центре Берлина.",
+    "de": "Der Fuehrerbunker lag neben der Reichskanzlei im Zentrum Berlins.",
+    "en": "The Fuehrerbunker was next to the Reich Chancellery in central Berlin."
+  },
+  "sources": [
+    {
+      "label": "History.com: Hitler descends into his bunker",
+      "url": "https://www.history.com/this-day-in-history/january-16/hitler-descends-into-his-bunker"
+    },
+    {
+      "label": "Berliner Unterwelten: Fuehrerbunker information board",
+      "url": "https://www.berliner-unterwelten.de/fileadmin/user_upload/berlinerunterwelten/Verein/Projekte/Informations-_und_Gedenktafeln/Projekte_Infotafel_Fuehrerbunker_BUeV_2023_Deu_Eng.pdf"
+    }
+  ]
+}

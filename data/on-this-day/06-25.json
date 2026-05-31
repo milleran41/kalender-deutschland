@@ -1,0 +1,90 @@
+{
+  "date": "06-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1950-korean-war-begins-west-german-rearmament",
+    "year": 1950,
+    "title": {
+      "ru": "Корейская война изменила спор о перевооружении ФРГ",
+      "de": "Der Koreakrieg veraendert die Debatte ueber die Wiederbewaffnung",
+      "en": "The Korean War changes the debate over West German rearmament"
+    },
+    "description": {
+      "ru": "25 июня 1950 года Северная Корея напала на Южную Корею. Для ФРГ это далёкое событие стало важным сигналом холодной войны и усилило дискуссию о западногерманском оборонном вкладе.",
+      "de": "Am 25. Juni 1950 griff Nordkorea Suedkorea an. Fuer die Bundesrepublik wurde dieses ferne Ereignis zu einem wichtigen Signal des Kalten Krieges und verstaerkte die Debatte ueber einen westdeutschen Verteidigungsbeitrag.",
+      "en": "On 25 June 1950, North Korea attacked South Korea. For West Germany, this distant event became an important Cold War signal and intensified the debate over a West German defense contribution."
+    },
+    "importance": {
+      "ru": "Дата показывает, как конфликт далеко от Европы мог изменить политику безопасности Германии.",
+      "de": "Das Datum zeigt, wie ein Konflikt fern von Europa die deutsche Sicherheitspolitik veraendern konnte.",
+      "en": "The date shows how a conflict far from Europe could change German security policy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "cold-war-global-link",
+        "year": 1950,
+        "title": {
+          "ru": "Холодная война стала глобальной",
+          "de": "Der Kalte Krieg wird global",
+          "en": "The Cold War becomes global"
+        },
+        "description": {
+          "ru": "В Бонне многие политики увидели в Корее предупреждение: разделённая страна может стать фронтом большой войны. Это усилило страх, что подобный кризис возможен и в разделённой Германии.",
+          "de": "In Bonn sahen viele Politiker in Korea eine Warnung: Ein geteiltes Land konnte zur Front eines grossen Krieges werden. Das verstaerkte die Angst, dass eine aehnliche Krise auch im geteilten Deutschland moeglich sei.",
+          "en": "In Bonn, many politicians saw Korea as a warning: a divided country could become the front line of a major war. This increased fears that a similar crisis might be possible in divided Germany."
+        },
+        "importance": {
+          "ru": "Так становится понятнее, почему вопрос армии в ФРГ так быстро вернулся после 1945 года.",
+          "de": "So wird verstaendlicher, warum die Armeefrage in der Bundesrepublik nach 1945 so schnell zurueckkehrte.",
+          "en": "It helps explain why the military question returned so quickly in West Germany after 1945."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "far-war-near-consequences",
+        "year": 1950,
+        "title": {
+          "ru": "Далёкая война с близкими последствиями",
+          "de": "Ein ferner Krieg mit nahen Folgen",
+          "en": "A distant war with close consequences"
+        },
+        "description": {
+          "ru": "Германия не воевала в Корее, но война повлияла на её внутренние споры, отношения с союзниками и будущую роль в НАТО. Это хороший пример того, как мировая политика входит в национальный календарь.",
+          "de": "Deutschland kaempfte nicht in Korea, doch der Krieg beeinflusste innere Debatten, Beziehungen zu den Alliierten und die spaetere Rolle in der NATO. Das ist ein gutes Beispiel dafuer, wie Weltpolitik in einen nationalen Kalender hineinwirkt.",
+          "en": "Germany did not fight in Korea, but the war influenced domestic debates, relations with the Allies and its later role in NATO. It is a good example of world politics entering a national calendar."
+        },
+        "importance": {
+          "ru": "Иногда событие важно для Германии не потому, что произошло в Германии, а потому что изменило немецкие решения.",
+          "de": "Manchmal ist ein Ereignis fuer Deutschland wichtig, nicht weil es in Deutschland geschah, sondern weil es deutsche Entscheidungen veraenderte.",
+          "en": "Sometimes an event matters for Germany not because it happened in Germany, but because it changed German decisions."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Уже осенью 1950 года в ФРГ тайно обсуждали планы будущих западногерманских вооружённых сил.",
+    "de": "Schon im Herbst 1950 wurden in der Bundesrepublik heimlich Plaene fuer kuenftige westdeutsche Streitkraefte diskutiert.",
+    "en": "By autumn 1950, plans for future West German armed forces were already being discussed secretly."
+  },
+  "sources": [
+    {
+      "label": "bpb: Beginn des Koreakriegs",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/208700/1950-beginn-des-koreakriegs/"
+    },
+    {
+      "label": "Bundesarchiv: Erste Ueberlegungen zu einer Wiederbewaffnung",
+      "url": "https://www.bundesarchiv.de/staat-militaer-und-gesellschaft/streitkraefte-demokratie-rechtsstaat/erste-ueberlegungen-zu-einer-wiederbewaffnung/"
+    },
+    {
+      "label": "bpb: Die Politik der Wiederbewaffnung",
+      "url": "https://www.bpb.de/themen/militaer/deutsche-verteidigungspolitik/199276/die-politik-der-wiederbewaffnung/"
+    }
+  ]
+}

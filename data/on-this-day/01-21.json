@@ -1,0 +1,90 @@
+{
+  "date": "01-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1957-first-bundeswehr-conscripts-drafted",
+    "year": 1957,
+    "title": {
+      "ru": "Первые призывники Бундесвера",
+      "de": "Die ersten Wehrpflichtigen der Bundeswehr",
+      "en": "The first Bundeswehr conscripts"
+    },
+    "description": {
+      "ru": "21 января 1957 года начался призыв первых военнообязанных в Бундесвер. Это стало практическим шагом после решения ФРГ снова создать вооружённые силы в рамках НАТО.",
+      "de": "Am 21. Januar 1957 begann die Einberufung der ersten Wehrpflichtigen zur Bundeswehr. Das war ein praktischer Schritt nach der Entscheidung der Bundesrepublik, im Rahmen der NATO wieder Streitkraefte aufzubauen.",
+      "en": "On 21 January 1957, the first conscripts were drafted into the Bundeswehr. It was a practical step after West Germany's decision to rebuild armed forces within NATO."
+    },
+    "importance": {
+      "ru": "Дата показывает, насколько спорным и важным был вопрос армии в послевоенной демократии.",
+      "de": "Das Datum zeigt, wie umstritten und wichtig die Armeefrage in der Nachkriegsdemokratie war.",
+      "en": "The date shows how controversial and important the military question was in postwar democracy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "citizen-in-uniform",
+        "year": 1957,
+        "title": {
+          "ru": "«Гражданин в форме»",
+          "de": "Buerger in Uniform",
+          "en": "Citizen in uniform"
+        },
+        "description": {
+          "ru": "Новая армия ФРГ должна была отличаться от старых немецких военных традиций. Идея «гражданина в форме» подчёркивала, что солдат остаётся частью демократического общества.",
+          "de": "Die neue Armee der Bundesrepublik sollte sich von alten deutschen Militaertraditionen unterscheiden. Die Idee des Buergers in Uniform betonte, dass der Soldat Teil der demokratischen Gesellschaft bleibt.",
+          "en": "West Germany's new army was meant to differ from older German military traditions. The idea of the 'citizen in uniform' emphasized that the soldier remained part of democratic society."
+        },
+        "importance": {
+          "ru": "Это показывает, как после диктатуры Германия пыталась встроить армию в демократические правила.",
+          "de": "Das zeigt, wie Deutschland nach der Diktatur versuchte, die Armee in demokratische Regeln einzubinden.",
+          "en": "It shows how Germany tried to place the army within democratic rules after dictatorship."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "conscription-and-conscience",
+        "year": 1957,
+        "title": {
+          "ru": "Призыв и право отказаться",
+          "de": "Wehrpflicht und Gewissen",
+          "en": "Conscription and conscience"
+        },
+        "description": {
+          "ru": "Основной закон ФРГ признавал право отказаться от службы с оружием по убеждениям. Поэтому спор о призыве сразу был связан не только с безопасностью, но и со свободой совести.",
+          "de": "Das Grundgesetz erkannte das Recht an, den Dienst mit der Waffe aus Gewissensgruenden zu verweigern. Deshalb war die Debatte ueber Wehrpflicht von Anfang an auch mit Gewissensfreiheit verbunden.",
+          "en": "The Basic Law recognized the right to refuse armed service for reasons of conscience. The conscription debate was therefore connected from the start with freedom of conscience as well as security."
+        },
+        "importance": {
+          "ru": "Это необычная деталь для истории армии: демократия учитывала даже отказ от оружия.",
+          "de": "Das ist ein ungewoehnliches Detail der Armeegeschichte: Demokratie beruecksichtigte sogar die Verweigerung der Waffe.",
+          "en": "It is an unusual detail in military history: democracy even took refusal of arms into account."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Обязательная военная служба в ФРГ была приостановлена только в 2011 году.",
+    "de": "Die Wehrpflicht in der Bundesrepublik wurde erst 2011 ausgesetzt.",
+    "en": "Conscription in the Federal Republic was suspended only in 2011."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: You're in the Army Now",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1957-01-21-youre-in-the-army-now/"
+    },
+    {
+      "label": "Konrad-Adenauer-Stiftung: Bundestag ermoeglicht Wehrpflicht",
+      "url": "https://www.kas.de/de/web/geschichte-der-cdu/kalender/kalender-detail/-/content/bundestag-ermoeglicht-einfuehrung-einer-allgemeinen-wehrpflicht"
+    },
+    {
+      "label": "Deutscher BundeswehrVerband: Wehrpflicht Rueckblick",
+      "url": "https://www.dbwv.de/aktuelle-themen/newsbeitrag/wehrpflicht-ein-historischer-rueckblick"
+    }
+  ]
+}
