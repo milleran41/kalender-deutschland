@@ -1,0 +1,65 @@
+{
+  "date": "09-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1980-oktoberfest-bombing",
+    "year": 1980,
+    "title": {
+      "ru": "Теракт на Октоберфесте",
+      "de": "Das Oktoberfestattentat",
+      "en": "The Oktoberfest bombing"
+    },
+    "description": {
+      "ru": "26 сентября 1980 года у входа на Октоберфест в Мюнхене взорвалась бомба. Погибли 13 человек, включая преступника, более 200 были ранены.",
+      "de": "Am 26. September 1980 explodierte am Eingang zum Oktoberfest in Muenchen eine Bombe. 13 Menschen starben, darunter der Taeter, mehr als 200 wurden verletzt.",
+      "en": "On 26 September 1980, a bomb exploded at the entrance to Oktoberfest in Munich. Thirteen people died, including the perpetrator, and more than 200 were injured."
+    },
+    "importance": {
+      "ru": "Это один из самых тяжёлых праворадикальных терактов в истории ФРГ.",
+      "de": "Es ist einer der schwersten rechtsextremen Anschlaege in der Geschichte der Bundesrepublik.",
+      "en": "It is one of the deadliest right-wing extremist attacks in the history of the Federal Republic."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "oktoberfest-memory",
+        "year": 1980,
+        "title": {
+          "ru": "Память рядом с праздником",
+          "de": "Gedenken neben dem Fest",
+          "en": "Remembrance beside the festival"
+        },
+        "description": {
+          "ru": "Октоберфест обычно ассоциируется с весельем, но эта дата напоминает о другой стороне общественной безопасности. В Мюнхене есть место памяти жертв.",
+          "de": "Das Oktoberfest wird meist mit Freude verbunden, doch dieses Datum erinnert an eine andere Seite oeffentlicher Sicherheit. In Muenchen gibt es einen Erinnerungsort fuer die Opfer.",
+          "en": "Oktoberfest is usually associated with celebration, but this date recalls another side of public safety. Munich has a memorial for the victims."
+        },
+        "importance": {
+          "ru": "Так календарь не превращает культуру только в открытку.",
+          "de": "So wird Kultur im Kalender nicht nur zur Postkarte.",
+          "en": "This keeps culture in the calendar from becoming only a postcard."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Расследование и общественные споры вокруг теракта продолжались десятилетиями.",
+    "de": "Ermittlungen und oeffentliche Debatten zum Anschlag dauerten Jahrzehnte.",
+    "en": "Investigations and public debate about the attack continued for decades."
+  },
+  "sources": [
+    {
+      "label": "bpb: Oktoberfest bombing",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/316307/vor-40-jahren-oktoberfestattentat/"
+    },
+    {
+      "label": "City of Munich: Oktoberfest bombing memorial",
+      "url": "https://stadt.muenchen.de/infos/oktoberfest-attentat-gedenken.html"
+    }
+  ]
+}

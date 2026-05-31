@@ -1,0 +1,65 @@
+{
+  "date": "09-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-two-plus-four-treaty",
+    "year": 1990,
+    "title": {
+      "ru": "Подписан Договор «Два плюс четыре»",
+      "de": "Der Zwei-plus-Vier-Vertrag wird unterzeichnet",
+      "en": "The Two Plus Four Treaty is signed"
+    },
+    "description": {
+      "ru": "12 сентября 1990 года две Германии и четыре державы-победительницы подписали договор об окончательном урегулировании в отношении Германии. Он открыл путь к полному суверенитету объединённой страны.",
+      "de": "Am 12. September 1990 unterzeichneten die beiden deutschen Staaten und die vier Siegermächte den Vertrag ueber die abschliessende Regelung in Bezug auf Deutschland. Er ebnete den Weg zur vollen Souveraenitaet des vereinten Landes.",
+      "en": "On 12 September 1990, the two German states and the four victorious powers signed the final settlement treaty regarding Germany. It opened the way to full sovereignty for the united country."
+    },
+    "importance": {
+      "ru": "Без этого договора воссоединение 3 октября 1990 года было бы невозможно в международно-правовом смысле.",
+      "de": "Ohne diesen Vertrag waere die Wiedervereinigung am 3. Oktober 1990 voölkerrechtlich nicht moeglich gewesen.",
+      "en": "Without this treaty, reunification on 3 October 1990 would not have been possible in international law."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "foreign-policy-unity",
+        "year": 1990,
+        "title": {
+          "ru": "Единство как международный договор",
+          "de": "Einheit als internationaler Vertrag",
+          "en": "Unity as an international treaty"
+        },
+        "description": {
+          "ru": "Воссоединение было не только желанием немцев, но и вопросом согласия держав, связанных с итогами Второй мировой войны.",
+          "de": "Die Wiedervereinigung war nicht nur ein Wunsch der Deutschen, sondern auch eine Frage der Zustimmung der Mächte, die mit den Folgen des Zweiten Weltkriegs verbunden waren.",
+          "en": "Reunification was not only a German wish but also a matter of agreement by the powers linked to the consequences of the Second World War."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему немецкий вопрос был европейским вопросом.",
+          "de": "Das hilft zu verstehen, warum die deutsche Frage eine europaeische Frage war.",
+          "en": "It helps explain why the German question was a European question."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название «Два плюс четыре» означает две Германии и четыре державы: СССР, США, Великобританию и Францию.",
+    "de": "Zwei plus Vier meint die beiden deutschen Staaten und die vier Maechte: Sowjetunion, USA, Grossbritannien und Frankreich.",
+    "en": "Two Plus Four means the two German states and the four powers: the Soviet Union, United States, Britain and France."
+  },
+  "sources": [
+    {
+      "label": "Federal Foreign Office: Two Plus Four Treaty",
+      "url": "https://www.auswaertiges-amt.de/en/aussenpolitik/themen/-/231704"
+    },
+    {
+      "label": "Federal Government: Two Plus Four Treaty",
+      "url": "https://www.bundesregierung.de/breg-en/news/two-plus-four-treaty-1790846"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "10-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1946-nuremberg-verdicts",
+    "year": 1946,
+    "title": {
+      "ru": "Вынесены приговоры Нюрнбергского процесса",
+      "de": "Die Urteile im Nuernberger Prozess werden verkuendet",
+      "en": "The Nuremberg Trial verdicts are delivered"
+    },
+    "description": {
+      "ru": "1 октября 1946 года Международный военный трибунал в Нюрнберге вынес приговоры главным нацистским преступникам. Процесс стал важным шагом в развитии международного уголовного права.",
+      "de": "Am 1. Oktober 1946 verkuendete der Internationale Militaergerichtshof in Nuernberg die Urteile gegen fuehrende NS-Verbrecher. Der Prozess wurde ein wichtiger Schritt fuer das internationale Strafrecht.",
+      "en": "On 1 October 1946, the International Military Tribunal at Nuremberg delivered verdicts against major Nazi criminals. The trial became an important step in international criminal law."
+    },
+    "importance": {
+      "ru": "Нюрнберг показал, что государственные лидеры могут нести личную ответственность за преступления.",
+      "de": "Nuernberg zeigte, dass Staatsfuehrer persoenlich fuer Verbrechen verantwortlich gemacht werden koennen.",
+      "en": "Nuremberg showed that state leaders can be held personally responsible for crimes."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "nuremberg-law-legacy",
+        "year": 1946,
+        "title": {
+          "ru": "Право после катастрофы",
+          "de": "Recht nach der Katastrophe",
+          "en": "Law after catastrophe"
+        },
+        "description": {
+          "ru": "Процесс ввёл в широкое употребление понятия преступлений против человечности и агрессивной войны. Его наследие важно до сих пор.",
+          "de": "Der Prozess praegte Begriffe wie Verbrechen gegen die Menschlichkeit und Angriffskrieg. Sein Erbe ist bis heute wichtig.",
+          "en": "The trial shaped terms such as crimes against humanity and aggressive war. Its legacy remains important today."
+        },
+        "importance": {
+          "ru": "Дата показывает, что память нуждается не только в словах, но и в правосудии.",
+          "de": "Das Datum zeigt, dass Erinnerung nicht nur Worte, sondern auch Recht braucht.",
+          "en": "The date shows that remembrance needs not only words but justice."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Нюрнберг был выбран в том числе из-за символической связи города с нацистскими партийными съездами.",
+    "de": "Nuernberg wurde auch wegen der symbolischen Verbindung der Stadt mit NS-Parteitagen gewaehlt.",
+    "en": "Nuremberg was chosen partly because of the city's symbolic link with Nazi party rallies."
+  },
+  "sources": [
+    {
+      "label": "USHMM: International Military Tribunal at Nuremberg",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/international-military-tribunal-at-nuremberg"
+    },
+    {
+      "label": "Britannica: Nuremberg trials",
+      "url": "https://www.britannica.com/event/Nurnberg-trials"
+    }
+  ]
+}

@@ -45,6 +45,27 @@
           "en": "Such places help prevent history from becoming an abstraction."
         }
       }
+    ],
+    "culture": [
+      {
+        "id": "1935-first-regular-tv-service",
+        "year": 1935,
+        "title": {
+          "ru": "В Берлине началось регулярное телевещание",
+          "de": "In Berlin beginnt der regelmaessige Fernsehdienst",
+          "en": "Regular television service begins in Berlin"
+        },
+        "description": {
+          "ru": "22 марта 1935 года в Берлине началось регулярное телевизионное вещание. Это была ранняя стадия телевидения: экран был ещё редкостью, а аудитория небольшой.",
+          "de": "Am 22. Maerz 1935 begann in Berlin ein regelmaessiger Fernsehdienst. Das Fernsehen stand noch am Anfang: Bildschirme waren selten, das Publikum klein.",
+          "en": "On 22 March 1935, regular television service began in Berlin. Television was still in an early stage: screens were rare and the audience was small."
+        },
+        "importance": {
+          "ru": "Дата показывает, что история медиа в Германии началась задолго до массового телевидения 1950-х годов.",
+          "de": "Das Datum zeigt, dass Mediengeschichte in Deutschland lange vor dem Massenfernsehen der 1950er Jahre begann.",
+          "en": "The date shows that German media history began long before mass television in the 1950s."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,10 @@
     {
       "label": "USHMM: Dachau",
       "url": "https://encyclopedia.ushmm.org/narrative/4391/en"
+    },
+    {
+      "label": "Deutsches Technikmuseum: television history",
+      "url": "https://technikmuseum.berlin/en/exhibitions/permanent-exhibitions/television/"
     }
   ]
 }

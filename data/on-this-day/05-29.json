@@ -1,0 +1,65 @@
+{
+  "date": "05-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1993-solingen-arson-attack",
+    "year": 1993,
+    "title": {
+      "ru": "Расистское нападение в Золингене",
+      "de": "Rassistischer Brandanschlag in Solingen",
+      "en": "Racist arson attack in Solingen"
+    },
+    "description": {
+      "ru": "29 мая 1993 года в Золингене был подожжён дом семьи турецкого происхождения. Погибли пять женщин и девочек, событие потрясло объединённую Германию.",
+      "de": "Am 29. Mai 1993 wurde in Solingen das Haus einer Familie tuerkeistaemmiger Herkunft angezuendet. Fuenf Frauen und Maedchen starben, das Ereignis erschuetterte das vereinte Deutschland.",
+      "en": "On 29 May 1993, the home of a family of Turkish origin was set on fire in Solingen. Five women and girls died, shocking reunified Germany."
+    },
+    "importance": {
+      "ru": "Дата напоминает о проблеме правого экстремизма и расизма после воссоединения.",
+      "de": "Das Datum erinnert an das Problem von Rechtsextremismus und Rassismus nach der Wiedervereinigung.",
+      "en": "The date is a reminder of right-wing extremism and racism after reunification."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "migration-memory-solingen",
+        "year": 1993,
+        "title": {
+          "ru": "Память миграционной Германии",
+          "de": "Erinnerung der Einwanderungsgesellschaft",
+          "en": "Memory in an immigration society"
+        },
+        "description": {
+          "ru": "Золинген стал частью памяти немецкого общества миграции. История показывает, что современная Германия — многонациональная страна, где безопасность меньшинств имеет большое значение.",
+          "de": "Solingen wurde Teil der Erinnerung der deutschen Einwanderungsgesellschaft. Die Geschichte zeigt, dass das heutige Deutschland ein vielfaeltiges Land ist, in dem der Schutz von Minderheiten wichtig ist.",
+          "en": "Solingen became part of the memory of Germany as an immigration society. It shows that modern Germany is diverse and that minority safety matters."
+        },
+        "importance": {
+          "ru": "Эта дата трудная, но важная для честного календаря.",
+          "de": "Dieses Datum ist schwierig, aber wichtig fuer einen ehrlichen Kalender.",
+          "en": "This date is difficult but important for an honest calendar."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Золингене ежегодно проходят памятные мероприятия.",
+    "de": "In Solingen finden jaehrlich Gedenkveranstaltungen statt.",
+    "en": "Commemorative events are held annually in Solingen."
+  },
+  "sources": [
+    {
+      "label": "bpb: Solingen arson attack",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/520443/vor-30-jahren-brandanschlag-von-solingen/"
+    },
+    {
+      "label": "City of Solingen: commemoration",
+      "url": "https://www.solingen.de/de/inhalt/gedenken-an-den-brandanschlag/"
+    }
+  ]
+}

@@ -45,6 +45,27 @@
           "en": "It shows Germany's long connection with fundamental research."
         }
       }
+    ],
+    "culture": [
+      {
+        "id": "1516-bavarian-beer-purity-law",
+        "year": 1516,
+        "title": {
+          "ru": "Баварский закон о чистоте пива",
+          "de": "Das bayerische Reinheitsgebot",
+          "en": "The Bavarian Beer Purity Law"
+        },
+        "description": {
+          "ru": "23 апреля 1516 года в Баварии был принят знаменитый закон о составе пива. Его часто называют Reinheitsgebot, или законом о чистоте пива.",
+          "de": "Am 23. April 1516 wurde in Bayern die beruehmte Regel zum Bierbrauen erlassen. Sie ist als Reinheitsgebot bekannt.",
+          "en": "On 23 April 1516, Bavaria issued the famous rule on beer brewing. It is known as the Reinheitsgebot, or Beer Purity Law."
+        },
+        "importance": {
+          "ru": "Для Германии это не только история напитка, но и часть ремесла, торговли и региональной культуры.",
+          "de": "Fuer Deutschland ist das nicht nur Getraenkegeschichte, sondern auch Handwerk, Handel und regionale Kultur.",
+          "en": "For Germany, this is not only beverage history but also craft, trade and regional culture."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,10 @@
     {
       "label": "Britannica: Max Planck",
       "url": "https://www.britannica.com/biography/Max-Planck"
+    },
+    {
+      "label": "Bavarian Brewers Federation: Reinheitsgebot",
+      "url": "https://www.bayerisches-bier.de/bier-wissen/reinheitsgebot/"
     }
   ]
 }

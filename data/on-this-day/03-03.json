@@ -1,0 +1,65 @@
+{
+  "date": "03-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-treaty-of-brest-litovsk",
+    "year": 1918,
+    "title": {
+      "ru": "Подписан Брест-Литовский мир",
+      "de": "Der Frieden von Brest-Litowsk wird unterzeichnet",
+      "en": "The Treaty of Brest-Litovsk is signed"
+    },
+    "description": {
+      "ru": "3 марта 1918 года Германия, её союзники и Советская Россия подписали мирный договор в Брест-Литовске. Россия вышла из Первой мировой войны, а Германия получила временное преимущество на Востоке.",
+      "de": "Am 3. Maerz 1918 unterzeichneten Deutschland, seine Verbuendeten und Sowjetrussland den Frieden von Brest-Litowsk. Russland schied aus dem Ersten Weltkrieg aus, und Deutschland gewann voruebergehend Vorteile im Osten.",
+      "en": "On 3 March 1918, Germany, its allies and Soviet Russia signed the Treaty of Brest-Litovsk. Russia left the First World War, and Germany gained temporary advantages in the East."
+    },
+    "importance": {
+      "ru": "Договор показывает, как быстро карта Восточной Европы могла меняться в конце Первой мировой войны.",
+      "de": "Der Vertrag zeigt, wie schnell sich die Karte Osteuropas am Ende des Ersten Weltkriegs veraendern konnte.",
+      "en": "The treaty shows how quickly the map of Eastern Europe could change at the end of the First World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "short-lived-peace",
+        "year": 1918,
+        "title": {
+          "ru": "Краткий успех Германии",
+          "de": "Ein kurzer Erfolg Deutschlands",
+          "en": "A short-lived German success"
+        },
+        "description": {
+          "ru": "Условия мира были тяжёлыми для России, но германское преимущество оказалось недолгим. Уже осенью 1918 года сама Германия потерпела поражение.",
+          "de": "Die Friedensbedingungen waren fuer Russland hart, doch Deutschlands Vorteil hielt nicht lange. Schon im Herbst 1918 verlor Deutschland selbst den Krieg.",
+          "en": "The peace terms were harsh for Russia, but Germany's advantage did not last long. By autumn 1918, Germany itself had lost the war."
+        },
+        "importance": {
+          "ru": "Это пример того, как победа на одном фронте не спасает страну от общего поражения.",
+          "de": "Das ist ein Beispiel dafuer, dass ein Sieg an einer Front eine allgemeine Niederlage nicht verhindert.",
+          "en": "It is an example of how victory on one front does not prevent overall defeat."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Брест-Литовск сегодня называется Брест и находится в Беларуси.",
+    "de": "Brest-Litowsk heisst heute Brest und liegt in Belarus.",
+    "en": "Brest-Litovsk is now Brest in Belarus."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Treaty of Brest-Litovsk",
+      "url": "https://www.britannica.com/event/Treaties-of-Brest-Litovsk"
+    },
+    {
+      "label": "History.com: Treaty of Brest-Litovsk",
+      "url": "https://www.history.com/this-day-in-history/march-3/treaty-of-brest-litovsk-concluded"
+    }
+  ]
+}

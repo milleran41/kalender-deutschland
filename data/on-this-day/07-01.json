@@ -45,6 +45,27 @@
           "en": "Reunification was joyful but not simple."
         }
       }
+    ],
+    "culture": [
+      {
+        "id": "1989-first-love-parade",
+        "year": 1989,
+        "title": {
+          "ru": "Первая Love Parade в Берлине",
+          "de": "Die erste Loveparade in Berlin",
+          "en": "The first Love Parade in Berlin"
+        },
+        "description": {
+          "ru": "1 июля 1989 года в Западном Берлине прошла первая Love Parade. Позднее она стала одним из самых известных символов техно-культуры объединённого Берлина.",
+          "de": "Am 1. Juli 1989 fand in West-Berlin die erste Loveparade statt. Spaeter wurde sie zu einem der bekanntesten Symbole der Technokultur des vereinten Berlin.",
+          "en": "On 1 July 1989, the first Love Parade took place in West Berlin. It later became one of the best-known symbols of techno culture in reunified Berlin."
+        },
+        "importance": {
+          "ru": "Это показывает, как молодёжная культура стала частью нового образа Берлина после холодной войны.",
+          "de": "Das zeigt, wie Jugendkultur Teil des neuen Berlinbildes nach dem Kalten Krieg wurde.",
+          "en": "It shows how youth culture became part of Berlin's new image after the Cold War."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,10 @@
     {
       "label": "bpb: 1 July 1990",
       "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132747/1-juli-1990/"
+    },
+    {
+      "label": "Berlin.de: Love Parade history",
+      "url": "https://www.berlin.de/en/events/love-parade/"
     }
   ]
 }

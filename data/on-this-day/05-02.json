@@ -1,0 +1,65 @@
+{
+  "date": "05-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-trade-unions-smashed",
+    "year": 1933,
+    "title": {
+      "ru": "Нацисты разгромили свободные профсоюзы",
+      "de": "Die Nationalsozialisten zerschlagen die freien Gewerkschaften",
+      "en": "The Nazis destroy the free trade unions"
+    },
+    "description": {
+      "ru": "2 мая 1933 года нацисты заняли здания свободных профсоюзов, арестовали многих руководителей и конфисковали имущество. Независимое рабочее движение было уничтожено.",
+      "de": "Am 2. Mai 1933 besetzten Nationalsozialisten die Haeuser der freien Gewerkschaften, verhafteten viele Funktionaere und beschlagnahmten Vermoegen. Die unabhaengige Arbeiterbewegung wurde zerstoert.",
+      "en": "On 2 May 1933, the Nazis occupied free trade union offices, arrested many leaders and confiscated assets. The independent labor movement was destroyed."
+    },
+    "importance": {
+      "ru": "Это был важный шаг к полному контролю общества диктатурой.",
+      "de": "Das war ein wichtiger Schritt zur vollstaendigen Kontrolle der Gesellschaft durch die Diktatur.",
+      "en": "It was an important step toward the dictatorship's full control of society."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "labor-front",
+        "year": 1933,
+        "title": {
+          "ru": "Вместо профсоюзов — Германский трудовой фронт",
+          "de": "Statt Gewerkschaften die Deutsche Arbeitsfront",
+          "en": "The German Labor Front replaces unions"
+        },
+        "description": {
+          "ru": "После разгрома профсоюзов работников включали в контролируемые нацистами структуры. Право на независимую защиту интересов исчезло.",
+          "de": "Nach der Zerschlagung der Gewerkschaften wurden Arbeitnehmer in NS-kontrollierte Strukturen eingegliedert. Das Recht auf unabhaengige Interessenvertretung verschwand.",
+          "en": "After the unions were destroyed, workers were absorbed into Nazi-controlled structures. The right to independent representation disappeared."
+        },
+        "importance": {
+          "ru": "Дата показывает, что диктатура забирает не только выборы, но и повседневные способы защиты людей.",
+          "de": "Das Datum zeigt, dass Diktatur nicht nur Wahlen nimmt, sondern auch alltaegliche Schutzmoeglichkeiten.",
+          "en": "The date shows that dictatorship takes not only elections but also everyday forms of protection."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Разгром профсоюзов произошёл сразу после нацистских первомайских торжеств.",
+    "de": "Die Zerschlagung der Gewerkschaften geschah direkt nach den nationalsozialistischen Feiern zum 1. Mai.",
+    "en": "The destruction of unions happened immediately after the Nazi celebrations of 1 May."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Nazi rise to power and Gleichschaltung",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-rule"
+    },
+    {
+      "label": "DGB: 2 May 1933",
+      "url": "https://www.dgb.de/schwerpunkt/erinnern/2-mai-1933/"
+    }
+  ]
+}

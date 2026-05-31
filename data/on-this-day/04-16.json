@@ -1,0 +1,65 @@
+{
+  "date": "04-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-battle-of-berlin-begins",
+    "year": 1945,
+    "title": {
+      "ru": "Началась битва за Берлин",
+      "de": "Die Schlacht um Berlin beginnt",
+      "en": "The Battle of Berlin begins"
+    },
+    "description": {
+      "ru": "16 апреля 1945 года началось советское наступление на Берлин. Это была последняя крупная битва в Европе перед капитуляцией нацистской Германии.",
+      "de": "Am 16. April 1945 begann der sowjetische Angriff auf Berlin. Es war die letzte grosse Schlacht in Europa vor der Kapitulation NS-Deutschlands.",
+      "en": "On 16 April 1945, the Soviet assault on Berlin began. It was the last major battle in Europe before Nazi Germany's surrender."
+    },
+    "importance": {
+      "ru": "Событие стало началом финального краха Третьего рейха.",
+      "de": "Das Ereignis leitete den finalen Zusammenbruch des Dritten Reiches ein.",
+      "en": "The event began the final collapse of the Third Reich."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "berlin-civilians-1945",
+        "year": 1945,
+        "title": {
+          "ru": "Город в ловушке войны",
+          "de": "Eine Stadt im Kriegschaos",
+          "en": "A city trapped in war"
+        },
+        "description": {
+          "ru": "В Берлине оставались мирные жители, беженцы, солдаты и подростки из последних мобилизаций. Финальные дни войны стали для города катастрофой.",
+          "de": "In Berlin blieben Zivilisten, Fluechtlinge, Soldaten und Jugendliche der letzten Mobilisierungen. Die letzten Kriegstage wurden fuer die Stadt zur Katastrophe.",
+          "en": "Civilians, refugees, soldiers and teenagers from the last mobilizations remained in Berlin. The final days of the war became a catastrophe for the city."
+        },
+        "importance": {
+          "ru": "Так военная история превращается в историю человеческого выживания.",
+          "de": "So wird Kriegsgeschichte zur Geschichte menschlichen Ueberlebens.",
+          "en": "Military history becomes a story of human survival."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через две недели после начала битвы Гитлер покончил с собой в Берлине.",
+    "de": "Zwei Wochen nach Beginn der Schlacht beging Hitler in Berlin Selbstmord.",
+    "en": "Two weeks after the battle began, Hitler died by suicide in Berlin."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Battle of Berlin",
+      "url": "https://www.britannica.com/event/Battle-of-Berlin"
+    },
+    {
+      "label": "Imperial War Museums: Battle of Berlin",
+      "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-berlin"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "12-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1972-basic-treaty",
+    "year": 1972,
+    "title": {
+      "ru": "Подписан Основной договор между ФРГ и ГДР",
+      "de": "Der Grundlagenvertrag zwischen Bundesrepublik und DDR wird unterzeichnet",
+      "en": "The Basic Treaty between West and East Germany is signed"
+    },
+    "description": {
+      "ru": "21 декабря 1972 года ФРГ и ГДР подписали Основной договор. Он улучшал отношения между двумя немецкими государствами и признавал реальность их сосуществования.",
+      "de": "Am 21. Dezember 1972 unterzeichneten die Bundesrepublik und die DDR den Grundlagenvertrag. Er verbesserte die Beziehungen zwischen den beiden deutschen Staaten und erkannte die Realitaet ihres Nebeneinanders an.",
+      "en": "On 21 December 1972, West Germany and East Germany signed the Basic Treaty. It improved relations between the two German states and acknowledged the reality of their coexistence."
+    },
+    "importance": {
+      "ru": "Договор стал важной частью разрядки и восточной политики.",
+      "de": "Der Vertrag wurde ein wichtiger Teil von Entspannungspolitik und Ostpolitik.",
+      "en": "The treaty became an important part of detente and Ostpolitik."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "two-german-states-un",
+        "year": 1973,
+        "title": {
+          "ru": "Две Германии в ООН",
+          "de": "Zwei deutsche Staaten in der UNO",
+          "en": "Two German states in the UN"
+        },
+        "description": {
+          "ru": "После договора обе Германии в 1973 году стали членами ООН. Это закрепило их международное признание до воссоединения.",
+          "de": "Nach dem Vertrag wurden 1973 beide deutschen Staaten Mitglieder der Vereinten Nationen. Das festigte ihre internationale Anerkennung bis zur Wiedervereinigung.",
+          "en": "After the treaty, both German states joined the United Nations in 1973. This strengthened their international recognition until reunification."
+        },
+        "importance": {
+          "ru": "Разделение Германии стало не только внутренним, но и международным фактом.",
+          "de": "Die deutsche Teilung wurde nicht nur innenpolitisch, sondern auch international zur Tatsache.",
+          "en": "German division became not only a domestic but an international fact."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Основной договор не означал отказа ФРГ от идеи единства, но менял способ общения с ГДР.",
+    "de": "Der Grundlagenvertrag bedeutete keinen Verzicht der Bundesrepublik auf Einheit, veraenderte aber den Umgang mit der DDR.",
+    "en": "The Basic Treaty did not mean West Germany gave up the idea of unity, but it changed how it dealt with East Germany."
+  },
+  "sources": [
+    {
+      "label": "bpb: Basic Treaty",
+      "url": "https://www.bpb.de/themen/deutsche-teilung/deutsche-teilung/43651/grundlagenvertrag/"
+    },
+    {
+      "label": "LeMO: Grundlagenvertrag",
+      "url": "https://www.dhm.de/lemo/kapitel/geteiltes-deutschland-modernisierung/neue-ostpolitik/grundlagenvertrag.html"
+    }
+  ]
+}

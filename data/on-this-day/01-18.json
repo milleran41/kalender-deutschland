@@ -66,6 +66,27 @@
           "en": "His politics shaped Germany's system and foreign policy for decades."
         }
       }
+    ],
+    "weather": [
+      {
+        "id": "2007-storm-kyrill",
+        "year": 2007,
+        "title": {
+          "ru": "Ураган «Кирилл» прошёл по Германии",
+          "de": "Orkan Kyrill zieht ueber Deutschland",
+          "en": "Storm Kyrill sweeps across Germany"
+        },
+        "description": {
+          "ru": "18 января 2007 года мощный зимний шторм «Кирилл» нанёс серьёзный ущерб в Германии и других странах Европы. Были нарушены железнодорожное сообщение, электроснабжение и лесное хозяйство.",
+          "de": "Am 18. Januar 2007 verursachte der schwere Wintersturm Kyrill in Deutschland und anderen Teilen Europas grosse Schaeden. Bahnverkehr, Stromversorgung und Waelder waren betroffen.",
+          "en": "On 18 January 2007, the severe winter storm Kyrill caused major damage in Germany and other parts of Europe. Rail transport, power supply and forests were affected."
+        },
+        "importance": {
+          "ru": "Это сильный пример для категории погоды: иногда один шторм меняет жизнь целой страны на несколько дней.",
+          "de": "Das ist ein starkes Beispiel fuer die Kategorie Wetter: Ein einzelner Sturm kann das Leben eines ganzen Landes fuer Tage veraendern.",
+          "en": "It is a strong weather example: a single storm can disrupt life across a whole country for days."
+        }
+      }
     ]
   },
   "fact": {
@@ -81,6 +102,10 @@
     {
       "label": "Wikimedia Commons: Proclamation painting",
       "url": "https://commons.wikimedia.org/wiki/File:1871_Proclamation_of_the_German_Empire.jpg"
+    },
+    {
+      "label": "Deutscher Wetterdienst: Storm Kyrill",
+      "url": "https://www.dwd.de/DE/leistungen/besondereereignisse/stuerme/20070118_Orkan_Kyrill.pdf"
     }
   ]
 }

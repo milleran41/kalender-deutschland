@@ -1,0 +1,65 @@
+{
+  "date": "12-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1952-tagesschau-first-broadcast",
+    "year": 1952,
+    "title": {
+      "ru": "Впервые вышла Tagesschau",
+      "de": "Die Tagesschau wird erstmals gesendet",
+      "en": "Tagesschau is broadcast for the first time"
+    },
+    "description": {
+      "ru": "26 декабря 1952 года в ФРГ впервые вышла телевизионная новостная программа Tagesschau. Она стала одним из самых узнаваемых форматов немецкого телевидения.",
+      "de": "Am 26. Dezember 1952 wurde in der Bundesrepublik erstmals die Fernsehnachrichtensendung Tagesschau ausgestrahlt. Sie wurde zu einem der bekanntesten Formate des deutschen Fernsehens.",
+      "en": "On 26 December 1952, the television news program Tagesschau was broadcast for the first time in West Germany. It became one of the most recognizable formats on German television."
+    },
+    "importance": {
+      "ru": "Дата показывает, как телевидение стало частью повседневной политической культуры.",
+      "de": "Das Datum zeigt, wie Fernsehen Teil der politischen Alltagskultur wurde.",
+      "en": "The date shows how television became part of everyday political culture."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "news-ritual",
+        "year": 1952,
+        "title": {
+          "ru": "Новостной ритуал",
+          "de": "Ein Nachrichtenritual",
+          "en": "A news ritual"
+        },
+        "description": {
+          "ru": "Для многих зрителей вечерняя Tagesschau стала привычным способом узнавать новости. Её заставка и стиль узнаются поколениями.",
+          "de": "Fuer viele Zuschauer wurde die abendliche Tagesschau zur gewohnten Art, Nachrichten zu erfahren. Vorspann und Stil sind ueber Generationen wiedererkennbar.",
+          "en": "For many viewers, the evening Tagesschau became a familiar way to get the news. Its opening and style are recognized across generations."
+        },
+        "importance": {
+          "ru": "История медиа тоже часть истории Германии.",
+          "de": "Mediengeschichte ist auch Teil der deutschen Geschichte.",
+          "en": "Media history is also part of German history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Tagesschau выходит до сих пор и остаётся одним из важных немецких новостных брендов.",
+    "de": "Die Tagesschau wird bis heute gesendet und bleibt eine wichtige deutsche Nachrichtenmarke.",
+    "en": "Tagesschau is still broadcast and remains an important German news brand."
+  },
+  "sources": [
+    {
+      "label": "Tagesschau: History",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/tagesschau-geschichte-101.html"
+    },
+    {
+      "label": "ARD: Tagesschau history",
+      "url": "https://www.ard.de/die-ard/was-wir-leisten/70-jahre-tagesschau-100"
+    }
+  ]
+}
