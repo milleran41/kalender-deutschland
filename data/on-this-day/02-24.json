@@ -1,0 +1,65 @@
+{
+  "date": "02-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1786-wilhelm-grimm-born",
+    "year": 1786,
+    "title": {
+      "ru": "Родился Вильгельм Гримм",
+      "de": "Wilhelm Grimm wird geboren",
+      "en": "Wilhelm Grimm is born"
+    },
+    "description": {
+      "ru": "24 февраля 1786 года в Ханау родился Вильгельм Гримм. Вместе с братом Якобом он собирал и редактировал сказки, которые стали известны во всём мире.",
+      "de": "Am 24. Februar 1786 wurde Wilhelm Grimm in Hanau geboren. Zusammen mit seinem Bruder Jacob sammelte und bearbeitete er Maerchen, die weltweit bekannt wurden.",
+      "en": "On 24 February 1786, Wilhelm Grimm was born in Hanau. Together with his brother Jacob, he collected and edited fairy tales that became known around the world."
+    },
+    "importance": {
+      "ru": "Вильгельм Гримм особенно важен для литературной формы сказок: многие тексты стали читаться как семейные именно благодаря его обработке.",
+      "de": "Wilhelm Grimm ist besonders wichtig fuer die literarische Form der Maerchen: Viele Texte wurden gerade durch seine Bearbeitung als Familienlekture lesbar.",
+      "en": "Wilhelm Grimm is especially important for the literary form of the tales: many texts became readable as family literature through his editing."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "grimm-family-tales",
+        "year": 1812,
+        "title": {
+          "ru": "«Детские и семейные сказки»",
+          "de": "Kinder- und Hausmaerchen",
+          "en": "Children's and Household Tales"
+        },
+        "description": {
+          "ru": "Первый том сборника братьев Гримм вышел в 1812 году. В него вошли сюжеты, которые позднее стали классикой детского чтения: от Золушки до Гензеля и Гретель.",
+          "de": "Der erste Band der Sammlung der Brueder Grimm erschien 1812. Er enthielt Stoffe, die spaeter Klassiker der Kinderlekture wurden, von Aschenputtel bis Haensel und Gretel.",
+          "en": "The first volume of the Brothers Grimm collection appeared in 1812. It included stories that later became children's classics, from Cinderella to Hansel and Gretel."
+        },
+        "importance": {
+          "ru": "Сказки Гримм стали частью образа Германии далеко за её пределами.",
+          "de": "Die Maerchen der Grimm-Bruder wurden weit ueber Deutschland hinaus Teil des Deutschlandbildes.",
+          "en": "The Grimm tales became part of Germany's image far beyond its borders."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Якоб и Вильгельм Гримм родились в Ханау с разницей чуть больше года.",
+    "de": "Jacob und Wilhelm Grimm wurden in Hanau mit etwas mehr als einem Jahr Abstand geboren.",
+    "en": "Jacob and Wilhelm Grimm were born in Hanau a little more than a year apart."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Brothers Grimm",
+      "url": "https://www.britannica.com/biography/Brothers-Grimm"
+    },
+    {
+      "label": "Britannica Kids: Grimm brothers",
+      "url": "https://kids.britannica.com/students/article/Grimm-brothers/274670"
+    }
+  ]
+}

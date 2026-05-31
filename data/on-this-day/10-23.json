@@ -1,0 +1,86 @@
+{
+  "date": "10-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1955-saar-referendum",
+    "year": 1955,
+    "title": {
+      "ru": "Референдум в Сааре",
+      "de": "Volksabstimmung im Saarland",
+      "en": "Saar referendum"
+    },
+    "description": {
+      "ru": "23 октября 1955 года жители Саара голосовали по Саарскому статуту. Большинство отвергло предложенный европейский статус, что открыло путь к присоединению Саара к ФРГ.",
+      "de": "Am 23. Oktober 1955 stimmten die Menschen an der Saar ueber das Saarstatut ab. Die Mehrheit lehnte den vorgeschlagenen europaeischen Status ab und machte damit den Weg zum Beitritt zur Bundesrepublik frei.",
+      "en": "On 23 October 1955, people in the Saar voted on the Saar Statute. A majority rejected the proposed European status, opening the way for the Saar to join West Germany."
+    },
+    "importance": {
+      "ru": "Дата показывает, что послевоенные границы и принадлежность регионов решались не сразу и не только в Берлине.",
+      "de": "Das Datum zeigt, dass Nachkriegsgrenzen und regionale Zugehoerigkeit nicht sofort und nicht nur in Berlin entschieden wurden.",
+      "en": "The date shows that postwar borders and regional affiliation were not settled immediately and not only in Berlin."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "saar-small-reunification",
+        "year": 1957,
+        "title": {
+          "ru": "«Малое воссоединение»",
+          "de": "Die kleine Wiedervereinigung",
+          "en": "The small reunification"
+        },
+        "description": {
+          "ru": "1 января 1957 года Саар стал землёй Федеративной Республики Германия. Иногда это называют «малым воссоединением» задолго до объединения 1990 года.",
+          "de": "Am 1. Januar 1957 wurde das Saarland ein Land der Bundesrepublik Deutschland. Manchmal wird das als kleine Wiedervereinigung bezeichnet, lange vor der Einheit von 1990.",
+          "en": "On 1 January 1957, Saarland became a state of the Federal Republic of Germany. It is sometimes called a small reunification long before the unity of 1990."
+        },
+        "importance": {
+          "ru": "История Саара помогает понять особую роль границы между Германией и Францией.",
+          "de": "Die Geschichte des Saarlandes hilft, die besondere Rolle der deutsch-franzoesischen Grenze zu verstehen.",
+          "en": "The Saar's history helps explain the special role of the German-French border."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "saar-own-sports-teams",
+        "year": 1952,
+        "title": {
+          "ru": "Саар выступал отдельно",
+          "de": "Das Saarland trat eigenstaendig an",
+          "en": "The Saar competed separately"
+        },
+        "description": {
+          "ru": "В начале 1950-х Саар имел отдельные спортивные команды и даже участвовал в отборе к чемпионату мира по футболу отдельно от ФРГ. Для маленького региона это необычная страница истории.",
+          "de": "Anfang der 1950er Jahre hatte das Saarland eigene Sportmannschaften und trat sogar in der WM-Qualifikation getrennt von der Bundesrepublik an. Fuer eine kleine Region ist das eine ungewoehnliche Geschichte.",
+          "en": "In the early 1950s, the Saar had its own sports teams and even competed in World Cup qualification separately from West Germany. For a small region, that is an unusual historical episode."
+        },
+        "importance": {
+          "ru": "Такой факт делает сложную послевоенную политику немного нагляднее.",
+          "de": "Ein solcher Fakt macht die komplizierte Nachkriegspolitik anschaulicher.",
+          "en": "This fact makes complicated postwar politics easier to picture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "По данным bpb, против Саарского статута проголосовали 67,7 процента участников голосования.",
+    "de": "Nach Angaben der bpb stimmten 67,7 Prozent der Waehler gegen das Saarstatut.",
+    "en": "According to bpb, 67.7 percent of voters rejected the Saar Statute."
+  },
+  "sources": [
+    {
+      "label": "bpb: 23 October 1955 Saar referendum",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131458/23-oktober-1955/"
+    },
+    {
+      "label": "Portal Rheinische Geschichte: Saarland 1955-1959",
+      "url": "https://rheinische-geschichte.lvr.de/Epochen-und-Themen/Themen/abstimmungskampf-und-rueckgliederung-des-saarlandes-1955-1959/DE-2086/lido/67d197c45a3ad8.41684901"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "06-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1886-ludwig-ii-dies",
+    "year": 1886,
+    "title": {
+      "ru": "Умер Людвиг II Баварский",
+      "de": "Ludwig II. von Bayern stirbt",
+      "en": "Ludwig II of Bavaria dies"
+    },
+    "description": {
+      "ru": "13 июня 1886 года Людвиг II Баварский погиб при загадочных обстоятельствах в Штарнбергском озере. Он известен как покровитель Рихарда Вагнера и строитель сказочных замков.",
+      "de": "Am 13. Juni 1886 starb Ludwig II. von Bayern unter raetselhaften Umstaenden im Starnberger See. Er ist als Foerderer Richard Wagners und als Bauherr maerchenhafter Schloesser bekannt.",
+      "en": "On 13 June 1886, Ludwig II of Bavaria died under mysterious circumstances in Lake Starnberg. He is known as Richard Wagner's patron and as the builder of fairytale castles."
+    },
+    "importance": {
+      "ru": "Людвиг II соединяет политику Баварии, романтическую культуру и туристический образ Германии.",
+      "de": "Ludwig II. verbindet bayerische Politik, romantische Kultur und das touristische Bild Deutschlands.",
+      "en": "Ludwig II connects Bavarian politics, Romantic culture and Germany's tourist image."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "ludwig-castles-and-politics",
+        "year": 1886,
+        "title": {
+          "ru": "Замки и кризис власти",
+          "de": "Schloesser und Machtkrise",
+          "en": "Castles and a crisis of power"
+        },
+        "description": {
+          "ru": "За образом «сказочного короля» скрывалась политическая драма: короля объявили неспособным править, а вскоре он погиб. Поэтому история Людвига II одновременно красива и тревожна.",
+          "de": "Hinter dem Bild des Maerchenkoenigs stand ein politisches Drama: Der Koenig wurde fuer regierungsunfaehig erklaert und starb kurz darauf. Deshalb ist Ludwigs Geschichte zugleich schoen und beunruhigend.",
+          "en": "Behind the image of the fairytale king stood a political drama: he was declared unfit to rule and died soon afterward. Ludwig's story is therefore both beautiful and unsettling."
+        },
+        "importance": {
+          "ru": "Это помогает не видеть в замках только открытку, а помнить исторический контекст.",
+          "de": "Das hilft, in den Schloessern nicht nur Postkartenmotive zu sehen, sondern ihren historischen Kontext.",
+          "en": "It helps us see the castles not only as postcard images, but in their historical context."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "neuschwanstein-image",
+        "year": 1886,
+        "title": {
+          "ru": "Замок, похожий на сказку",
+          "de": "Ein Schloss wie aus dem Maerchen",
+          "en": "A castle like a fairy tale"
+        },
+        "description": {
+          "ru": "Нойшванштайн стал одним из самых узнаваемых замков Европы. Забавно, что при жизни Людвига он не был завершён и не был рассчитан на толпы туристов.",
+          "de": "Neuschwanstein wurde zu einem der bekanntesten Schloesser Europas. Kurios ist, dass es zu Ludwigs Lebzeiten nicht fertig war und nicht fuer Touristenmassen geplant wurde.",
+          "en": "Neuschwanstein became one of Europe's best-known castles. Curiously, it was unfinished during Ludwig's lifetime and was not designed for crowds of tourists."
+        },
+        "importance": {
+          "ru": "Так личная фантазия короля превратилась в мировой символ Баварии.",
+          "de": "So wurde die persoenliche Fantasie eines Koenigs zu einem weltweiten Symbol Bayerns.",
+          "en": "A king's personal fantasy became a worldwide symbol of Bavaria."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Обстоятельства смерти Людвига II до сих пор вызывают споры и версии.",
+    "de": "Die Umstaende von Ludwigs Tod sorgen bis heute fuer Diskussionen und Theorien.",
+    "en": "The circumstances of Ludwig's death still provoke debate and theories."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Ludwig II",
+      "url": "https://www.britannica.com/biography/Louis-II-king-of-Bavaria"
+    },
+    {
+      "label": "Deutschlandmuseum: Death of the Fairytale King",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1886-06-13-death-of-the-fairytale-king/"
+    }
+  ]
+}
