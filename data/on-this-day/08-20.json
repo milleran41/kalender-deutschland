@@ -1,0 +1,90 @@
+{
+  "date": "08-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1968-warsaw-pact-invasion-czechoslovakia-begins",
+    "year": 1968,
+    "title": {
+      "ru": "Началось вторжение в Чехословакию",
+      "de": "Der Einmarsch in die Tschechoslowakei beginnt",
+      "en": "The invasion of Czechoslovakia begins"
+    },
+    "description": {
+      "ru": "Поздно вечером 20 августа 1968 года войска стран Варшавского договора начали вторжение в Чехословакию, чтобы подавить Пражскую весну. ГДР участвовала в подготовке и поддержке операции, хотя основные восточногерманские части не вошли глубоко в страну.",
+      "de": "Am spaeten Abend des 20. August 1968 begannen Truppen des Warschauer Pakts den Einmarsch in die Tschechoslowakei, um den Prager Fruehling niederzuschlagen. Die DDR war an Vorbereitung und Unterstuetzung beteiligt, auch wenn die wichtigsten ostdeutschen Einheiten nicht tief in das Land einrueckten.",
+      "en": "Late on 20 August 1968, Warsaw Pact troops began the invasion of Czechoslovakia to crush the Prague Spring. East Germany took part in preparation and support, although the main East German units did not move deep into the country."
+    },
+    "importance": {
+      "ru": "Событие показало пределы реформ в советском блоке и стало важным моментом в истории холодной войны.",
+      "de": "Das Ereignis zeigte die Grenzen von Reformen im sowjetischen Block und wurde zu einem wichtigen Moment der Geschichte des Kalten Krieges.",
+      "en": "The event showed the limits of reform in the Soviet bloc and became an important moment in Cold War history."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "prague-spring-crushed",
+        "year": 1968,
+        "title": {
+          "ru": "Конец Пражской весны",
+          "de": "Ende des Prager Fruehlings",
+          "en": "The end of the Prague Spring"
+        },
+        "description": {
+          "ru": "Пражская весна обещала «социализм с человеческим лицом»: больше свободы слова, меньше цензуры и осторожные реформы. Вторжение показало, что Москва не готова терпеть самостоятельный путь союзной страны.",
+          "de": "Der Prager Fruehling versprach einen Sozialismus mit menschlichem Antlitz: mehr Meinungsfreiheit, weniger Zensur und vorsichtige Reformen. Der Einmarsch zeigte, dass Moskau keinen eigenstaendigen Weg eines verbuendeten Staates dulden wollte.",
+          "en": "The Prague Spring promised 'socialism with a human face': more freedom of expression, less censorship and cautious reforms. The invasion showed that Moscow would not tolerate an allied state's independent path."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, почему многие люди в Восточной Европе потеряли веру в реформируемый социализм.",
+          "de": "Das Datum hilft zu verstehen, warum viele Menschen in Osteuropa den Glauben an einen reformierbaren Sozialismus verloren.",
+          "en": "The date helps explain why many people in Eastern Europe lost faith in reformable socialism."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "gdr-troops-memory-problem",
+        "year": 1968,
+        "title": {
+          "ru": "Немецкий след был особенно чувствительным",
+          "de": "Die deutsche Spur war besonders heikel",
+          "en": "The German role was especially sensitive"
+        },
+        "description": {
+          "ru": "После опыта нацистской оккупации появление немецких войск в Чехословакии выглядело бы особенно взрывоопасно. Поэтому роль ГДР в операции была политически чувствительной и ограниченной.",
+          "de": "Nach der Erfahrung der NS-Besatzung waere das Auftreten deutscher Truppen in der Tschechoslowakei besonders brisant gewesen. Deshalb war die Rolle der DDR in der Operation politisch empfindlich und begrenzt.",
+          "en": "After the experience of Nazi occupation, the appearance of German troops in Czechoslovakia would have been especially explosive. East Germany's role in the operation was therefore politically sensitive and limited."
+        },
+        "importance": {
+          "ru": "Это показывает, как память о Второй мировой войне продолжала влиять на решения холодной войны.",
+          "de": "Das zeigt, wie die Erinnerung an den Zweiten Weltkrieg Entscheidungen des Kalten Krieges weiter beeinflusste.",
+          "en": "It shows how memory of the Second World War continued to influence Cold War decisions."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вторжение началось вечером 20 августа, а 21 августа стало очевидным для всего мира.",
+    "de": "Der Einmarsch begann am Abend des 20. August und wurde am 21. August fuer die Welt sichtbar.",
+    "en": "The invasion began on the evening of 20 August and became visible to the world on 21 August."
+  },
+  "sources": [
+    {
+      "label": "Office of the Historian: Soviet Invasion of Czechoslovakia",
+      "url": "https://history.state.gov/milestones/1961-1968/soviet-invasion-czechoslavkia"
+    },
+    {
+      "label": "Britannica: Prague Spring",
+      "url": "https://www.britannica.com/event/Prague-Spring"
+    },
+    {
+      "label": "History.com: Soviets invade Czechoslovakia",
+      "url": "https://www.history.com/this-day-in-history/August-20/soviets-invade-czechoslovakia"
+    }
+  ]
+}

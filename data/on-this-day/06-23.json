@@ -1,0 +1,90 @@
+{
+  "date": "06-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1948-soviet-zone-currency-reform",
+    "year": 1948,
+    "title": {
+      "ru": "В советской зоне началась своя валютная реформа",
+      "de": "In der Sowjetischen Besatzungszone beginnt eine eigene Waehrungsreform",
+      "en": "The Soviet occupation zone begins its own currency reform"
+    },
+    "description": {
+      "ru": "23 июня 1948 года в советской оккупационной зоне Германии началась собственная валютная реформа. Старые банкноты временно снабжали специальными купонами, пока готовились новые деньги.",
+      "de": "Am 23. Juni 1948 begann in der Sowjetischen Besatzungszone Deutschlands eine eigene Waehrungsreform. Alte Banknoten wurden voruebergehend mit Spezialkupons versehen, bis neues Geld bereitstand.",
+      "en": "On 23 June 1948, the Soviet occupation zone of Germany began its own currency reform. Old banknotes were temporarily marked with special coupons while new money was being prepared."
+    },
+    "importance": {
+      "ru": "Это был прямой ответ на западную валютную реформу и важный шаг к экономическому разделению Германии.",
+      "de": "Dies war eine direkte Antwort auf die westliche Waehrungsreform und ein wichtiger Schritt zur wirtschaftlichen Teilung Deutschlands.",
+      "en": "It was a direct response to the western currency reform and an important step toward Germany's economic division."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "currency-and-division",
+        "year": 1948,
+        "title": {
+          "ru": "Деньги и разделение страны",
+          "de": "Geld und Teilung des Landes",
+          "en": "Money and the division of the country"
+        },
+        "description": {
+          "ru": "Разные денежные реформы в западных зонах и советской зоне усилили раскол послевоенной Германии. Вскоре валютный конфликт стал частью Берлинского кризиса и блокады Западного Берлина.",
+          "de": "Unterschiedliche Waehrungsreformen in den Westzonen und in der Sowjetischen Besatzungszone vertieften die Spaltung Nachkriegsdeutschlands. Bald wurde der Waehrungskonflikt Teil der Berlin-Krise und der Blockade West-Berlins.",
+          "en": "Different currency reforms in the western zones and the Soviet occupation zone deepened postwar Germany's division. The currency conflict soon became part of the Berlin Crisis and the blockade of West Berlin."
+        },
+        "importance": {
+          "ru": "Дата показывает, как вопрос денег может быстро стать вопросом границ, власти и будущего государства.",
+          "de": "Das Datum zeigt, wie eine Geldfrage schnell zu einer Frage von Grenzen, Macht und staatlicher Zukunft werden kann.",
+          "en": "The date shows how a question of money can quickly become a question of borders, power and the future of the state."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "coupon-money",
+        "year": 1948,
+        "title": {
+          "ru": "Деньги с наклейками",
+          "de": "Geld mit Aufklebern",
+          "en": "Money with stickers"
+        },
+        "description": {
+          "ru": "Поскольку новые банкноты не были готовы, часть старых денег просто пометили специальными купонами. Для обычных людей это выглядело странно: вчерашняя купюра оставалась той же, но только с новым знаком власти.",
+          "de": "Weil neue Banknoten noch nicht bereitstanden, wurden Teile des alten Geldes einfach mit Spezialkupons markiert. Fuer viele Menschen wirkte das merkwuerdig: Der gestrige Geldschein blieb derselbe, trug aber ein neues Zeichen der Macht.",
+          "en": "Because new banknotes were not yet ready, some old money was simply marked with special coupons. To many people it looked strange: yesterday's note remained the same, but carried a new sign of authority."
+        },
+        "importance": {
+          "ru": "Это наглядная бытовая деталь большой политики разделения.",
+          "de": "Das ist ein anschauliches Alltagsdetail der grossen Politik der Teilung.",
+          "en": "It is a vivid everyday detail of the larger politics of division."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Валютные реформы июня 1948 года стали одной из причин усиления Берлинского кризиса.",
+    "de": "Die Waehrungsreformen vom Juni 1948 gehoerten zu den Gruenden fuer die Zuspitzung der Berlin-Krise.",
+    "en": "The currency reforms of June 1948 were among the reasons the Berlin Crisis escalated."
+  },
+  "sources": [
+    {
+      "label": "Deutsche Bundesbank: Waehrungsreform 1948",
+      "url": "https://www.bundesbank.de/de/aufgaben/themen/waehrungsreform-1948-614040"
+    },
+    {
+      "label": "Wikimedia Commons: SMAD Order No. 111/48",
+      "url": "https://commons.wikimedia.org/wiki/File:DX_1_680_0052.jpg"
+    },
+    {
+      "label": "ND-Archiv: Neues Deutschland, 23.06.1948",
+      "url": "https://www.nd-archiv.de/ausgabe/1948-06-23"
+    }
+  ]
+}

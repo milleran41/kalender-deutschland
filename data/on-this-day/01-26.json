@@ -1,0 +1,90 @@
+{
+  "date": "01-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1934-german-polish-non-aggression-declaration",
+    "year": 1934,
+    "title": {
+      "ru": "Германия и Польша подписали декларацию о ненападении",
+      "de": "Deutschland und Polen unterzeichnen eine Nichtangriffserklaerung",
+      "en": "Germany and Poland sign a non-aggression declaration"
+    },
+    "description": {
+      "ru": "26 января 1934 года Германия и Польша подписали декларацию о ненападении. Документ должен был снизить напряжение между двумя странами, но не изменил долгосрочных целей нацистской внешней политики.",
+      "de": "Am 26. Januar 1934 unterzeichneten Deutschland und Polen eine Nichtangriffserklaerung. Das Dokument sollte Spannungen zwischen beiden Staaten verringern, aenderte aber nicht die langfristigen Ziele der nationalsozialistischen Aussenpolitik.",
+      "en": "On 26 January 1934, Germany and Poland signed a non-aggression declaration. The document was meant to reduce tensions between the two states, but it did not change the long-term aims of Nazi foreign policy."
+    },
+    "importance": {
+      "ru": "Дата показывает, что дипломатические договоры 1930-х годов часто скрывали временные расчёты, а не настоящую готовность к миру.",
+      "de": "Das Datum zeigt, dass diplomatische Vertraege der 1930er Jahre oft taktische Berechnungen verbargen und keine echte Friedensbereitschaft bedeuteten.",
+      "en": "The date shows that diplomatic agreements of the 1930s often hid tactical calculations rather than genuine readiness for peace."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "temporary-calm-before-war",
+        "year": 1934,
+        "title": {
+          "ru": "Временное спокойствие",
+          "de": "Voruebergehende Ruhe",
+          "en": "Temporary calm"
+        },
+        "description": {
+          "ru": "После Первой мировой войны отношения Германии и Польши были напряжёнными из-за границ, Данцига и Польского коридора. Декларация 1934 года дала несколько лет видимого спокойствия, но уже в 1939 году Германия напала на Польшу.",
+          "de": "Nach dem Ersten Weltkrieg waren die Beziehungen zwischen Deutschland und Polen wegen Grenzen, Danzig und dem Polnischen Korridor angespannt. Die Erklaerung von 1934 brachte einige Jahre scheinbarer Ruhe, doch 1939 griff Deutschland Polen an.",
+          "en": "After the First World War, relations between Germany and Poland were tense over borders, Danzig and the Polish Corridor. The 1934 declaration brought a few years of apparent calm, but in 1939 Germany attacked Poland."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему историю договоров нужно читать вместе с последующими действиями государств.",
+          "de": "Das hilft zu verstehen, warum man die Geschichte von Vertraegen zusammen mit dem spaeteren Handeln der Staaten lesen muss.",
+          "en": "It helps explain why the history of treaties must be read together with states' later actions."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "promise-lasted-five-years",
+        "year": 1934,
+        "title": {
+          "ru": "Обещание, не прожившее и шести лет",
+          "de": "Ein Versprechen, das keine sechs Jahre hielt",
+          "en": "A promise that did not last six years"
+        },
+        "description": {
+          "ru": "Декларацию заключили на десять лет, но она фактически рухнула уже через пять с половиной лет. 1 сентября 1939 года вторжение в Польшу стало началом Второй мировой войны в Европе.",
+          "de": "Die Erklaerung wurde fuer zehn Jahre geschlossen, brach aber faktisch schon nach fuenfeinhalb Jahren zusammen. Am 1. September 1939 begann mit dem Angriff auf Polen der Zweite Weltkrieg in Europa.",
+          "en": "The declaration was concluded for ten years, but in practice collapsed after five and a half. On 1 September 1939, the invasion of Poland began the Second World War in Europe."
+        },
+        "importance": {
+          "ru": "Такая деталь хорошо показывает разницу между подписью на бумаге и реальной политикой.",
+          "de": "Dieses Detail zeigt gut den Unterschied zwischen einer Unterschrift auf Papier und realer Politik.",
+          "en": "This detail clearly shows the difference between a signature on paper and real politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Декларация 1934 года стала неожиданностью для части европейских дипломатов, потому что Германия и Польша считались естественными противниками.",
+    "de": "Die Erklaerung von 1934 ueberraschte viele europaeische Diplomaten, weil Deutschland und Polen als natuerliche Gegner galten.",
+    "en": "The 1934 declaration surprised many European diplomats because Germany and Poland were widely seen as natural opponents."
+  },
+  "sources": [
+    {
+      "label": "Britannica: German-Polish Nonaggression Pact",
+      "url": "https://www.britannica.com/event/German-Polish-Nonaggression-Pact"
+    },
+    {
+      "label": "GHDI: German-Polish Declaration of Non-Aggression",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/german-polish-declaration-of-non-aggression-january-26-1934"
+    },
+    {
+      "label": "DocumentArchiv: Deutsch-polnische Erklaerung, 1934",
+      "url": "https://www.documentarchiv.de/ns/1934/dt-poln_erklaerung.html"
+    }
+  ]
+}
