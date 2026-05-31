@@ -1,0 +1,65 @@
+{
+  "date": "09-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1973-two-german-states-join-un",
+    "year": 1973,
+    "title": {
+      "ru": "ФРГ и ГДР вступили в ООН",
+      "de": "Bundesrepublik und DDR treten den Vereinten Nationen bei",
+      "en": "West Germany and East Germany join the United Nations"
+    },
+    "description": {
+      "ru": "18 сентября 1973 года Федеративная Республика Германия и Германская Демократическая Республика были приняты в Организацию Объединённых Наций. Обе Германии стали членами одной международной организации.",
+      "de": "Am 18. September 1973 wurden die Bundesrepublik Deutschland und die Deutsche Demokratische Republik in die Vereinten Nationen aufgenommen. Beide deutschen Staaten wurden Mitglieder derselben internationalen Organisation.",
+      "en": "On 18 September 1973, the Federal Republic of Germany and the German Democratic Republic were admitted to the United Nations. Both German states became members of the same international organization."
+    },
+    "importance": {
+      "ru": "Дата показывает международное признание разделённой Германии в эпоху разрядки.",
+      "de": "Das Datum zeigt die internationale Anerkennung des geteilten Deutschlands in der Zeit der Entspannungspolitik.",
+      "en": "The date shows the international recognition of divided Germany during the era of detente."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "two-german-states-un",
+        "year": 1973,
+        "title": {
+          "ru": "Две Германии на одной мировой площадке",
+          "de": "Zwei deutsche Staaten auf einer Weltbuehne",
+          "en": "Two German states on one world stage"
+        },
+        "description": {
+          "ru": "После Основного договора отношения между ФРГ и ГДР стали более формализованными. Вступление в ООН закрепило ситуацию, в которой существовали два немецких государства.",
+          "de": "Nach dem Grundlagenvertrag wurden die Beziehungen zwischen Bundesrepublik und DDR formeller geregelt. Der UN-Beitritt befestigte die Lage, in der zwei deutsche Staaten existierten.",
+          "en": "After the Basic Treaty, relations between West and East Germany became more formalized. UN membership confirmed the situation in which two German states existed."
+        },
+        "importance": {
+          "ru": "Это важный этап между строительством Берлинской стены и воссоединением 1990 года.",
+          "de": "Das ist eine wichtige Etappe zwischen Mauerbau und Wiedervereinigung 1990.",
+          "en": "It is an important stage between the building of the Berlin Wall and reunification in 1990."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "ГДР была принята как 133-й, а ФРГ как 134-й член ООН.",
+    "de": "Die DDR wurde als 133. und die Bundesrepublik als 134. Mitglied der Vereinten Nationen aufgenommen.",
+    "en": "East Germany was admitted as the 133rd and West Germany as the 134th member of the United Nations."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: German states join the UN",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/the-gdr-and-the-federal-republic-join-the-united-nations-september-18-1973"
+    },
+    {
+      "label": "UN Digital Library: Admission of GDR and FRG",
+      "url": "https://digitallibrary.un.org/record/190984"
+    }
+  ]
+}

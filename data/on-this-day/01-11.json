@@ -1,0 +1,65 @@
+{
+  "date": "01-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1923-occupation-of-the-ruhr",
+    "year": 1923,
+    "title": {
+      "ru": "Началась оккупация Рура",
+      "de": "Die Besetzung des Ruhrgebiets beginnt",
+      "en": "The occupation of the Ruhr begins"
+    },
+    "description": {
+      "ru": "11 января 1923 года французские и бельгийские войска вошли в Рурскую область. Поводом стали споры о репарациях после Первой мировой войны.",
+      "de": "Am 11. Januar 1923 marschierten franzoesische und belgische Truppen ins Ruhrgebiet ein. Anlass waren Streitigkeiten ueber Reparationen nach dem Ersten Weltkrieg.",
+      "en": "On 11 January 1923, French and Belgian troops entered the Ruhr region. The trigger was a dispute over reparations after the First World War."
+    },
+    "importance": {
+      "ru": "Оккупация Рура стала одним из главных кризисов Веймарской республики и усилила экономический хаос 1923 года.",
+      "de": "Die Ruhrbesetzung wurde zu einer der grossen Krisen der Weimarer Republik und verschaerfte das wirtschaftliche Chaos von 1923.",
+      "en": "The occupation of the Ruhr became one of the major crises of the Weimar Republic and intensified the economic chaos of 1923."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "passive-resistance-and-inflation",
+        "year": 1923,
+        "title": {
+          "ru": "Пассивное сопротивление и инфляция",
+          "de": "Passiver Widerstand und Inflation",
+          "en": "Passive resistance and inflation"
+        },
+        "description": {
+          "ru": "Германское правительство поддерживало пассивное сопротивление в Руре, но это требовало огромных расходов. Печатание денег усилило гиперинфляцию и ударило по повседневной жизни.",
+          "de": "Die deutsche Regierung unterstuetzte den passiven Widerstand im Ruhrgebiet, doch das kostete enorme Summen. Das Gelddrucken verstaerkte die Hyperinflation und traf den Alltag hart.",
+          "en": "The German government supported passive resistance in the Ruhr, but this required enormous spending. Printing money worsened hyperinflation and hit everyday life hard."
+        },
+        "importance": {
+          "ru": "Так международный конфликт превратился в кризис кошельков, зарплат и сбережений обычных людей.",
+          "de": "So wurde ein internationaler Konflikt zur Krise von Geldboersen, Loehnen und Ersparnissen gewoehnlicher Menschen.",
+          "en": "An international conflict became a crisis of wallets, wages and savings for ordinary people."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Рур был сердцем немецкой угольной и сталелитейной промышленности.",
+    "de": "Das Ruhrgebiet war das Herz der deutschen Kohle- und Stahlindustrie.",
+    "en": "The Ruhr was the heart of Germany's coal and steel industry."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Beginn der Ruhrbesetzung",
+      "url": "https://weimar.bundesarchiv.de/WEIMAR/DE/Content/Dokumente-zur-Zeitgeschichte/1923-01-11_ruhrbesetzung.html"
+    },
+    {
+      "label": "Britannica: Ruhr occupation",
+      "url": "https://www.britannica.com/topic/Ruhr-occupation"
+    }
+  ]
+}

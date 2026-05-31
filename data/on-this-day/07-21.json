@@ -1,0 +1,65 @@
+{
+  "date": "07-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1969-moonwalk-seen-in-germany",
+    "year": 1969,
+    "title": {
+      "ru": "Немцы смотрели первые шаги человека на Луне",
+      "de": "Deutschland sieht die ersten Schritte auf dem Mond",
+      "en": "Germany watches the first steps on the Moon"
+    },
+    "description": {
+      "ru": "21 июля 1969 года по европейскому времени Нил Армстронг ступил на Луну, и миллионы зрителей в Германии смотрели трансляцию ночью. Событие стало общим медийным переживанием научной эпохи.",
+      "de": "Am 21. Juli 1969 europaeischer Zeit betrat Neil Armstrong den Mond, und Millionen Zuschauer in Deutschland sahen die Uebertragung in der Nacht. Das Ereignis wurde zu einem gemeinsamen Medienerlebnis des Wissenschaftszeitalters.",
+      "en": "On 21 July 1969 in European time, Neil Armstrong stepped onto the Moon, and millions of viewers in Germany watched the broadcast at night. The event became a shared media experience of the scientific age."
+    },
+    "importance": {
+      "ru": "Хотя полёт был американским, он показал, как телевидение и наука создают мировые события, переживаемые одновременно в разных странах.",
+      "de": "Obwohl der Flug amerikanisch war, zeigte er, wie Fernsehen und Wissenschaft Weltereignisse schaffen, die in vielen Laendern gleichzeitig erlebt werden.",
+      "en": "Although the flight was American, it showed how television and science create world events experienced simultaneously in many countries."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "apollo-11-night-broadcast",
+        "year": 1969,
+        "title": {
+          "ru": "Ночь науки и телевидения",
+          "de": "Eine Nacht von Wissenschaft und Fernsehen",
+          "en": "A night of science and television"
+        },
+        "description": {
+          "ru": "В Германии зрители следили за посадкой и первыми шагами через специальные телепередачи. Для многих это было первое космическое событие, увиденное почти в прямом эфире.",
+          "de": "In Deutschland verfolgten Zuschauer Landung und erste Schritte ueber Sondersendungen. Fuer viele war es das erste Weltraumereignis, das sie fast live erlebten.",
+          "en": "In Germany, viewers followed the landing and first steps through special broadcasts. For many, it was the first space event they experienced almost live."
+        },
+        "importance": {
+          "ru": "Это хорошая дата для связи истории техники, медиа и повседневной памяти.",
+          "de": "Das ist ein gutes Datum, um Technikgeschichte, Medien und Alltagsgedaechtnis zu verbinden.",
+          "en": "It is a good date for connecting technology, media and everyday memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Германии это была глубокая ночь: первые шаги на Луне произошли около 3:56 по центральноевропейскому времени.",
+    "de": "In Deutschland war es tiefe Nacht: Die ersten Schritte auf dem Mond geschahen gegen 3:56 Uhr mitteleuropaeischer Zeit.",
+    "en": "In Germany it was deep night: the first steps on the Moon occurred around 3:56 a.m. Central European Time."
+  },
+  "sources": [
+    {
+      "label": "DLR: 21 July 1969, humans on the Moon",
+      "url": "https://www.dlr.de/en/images/2019/3/21-july-1969-humans-on-the-moon"
+    },
+    {
+      "label": "NDR: Moon landing and German television",
+      "url": "https://www.ndr.de/geschichte/chronologie/Mondlandung-Neil-Armstrong-erster-Mensch-auf-dem-Mond,mondlandung116.html"
+    }
+  ]
+}
