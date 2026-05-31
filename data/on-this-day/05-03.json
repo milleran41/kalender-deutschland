@@ -1,0 +1,65 @@
+{
+  "date": "05-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-cap-arcona-disaster",
+    "year": 1945,
+    "title": {
+      "ru": "Трагедия Cap Arcona в Любекской бухте",
+      "de": "Die Cap-Arcona-Katastrophe in der Luebecker Bucht",
+      "en": "The Cap Arcona disaster in Luebeck Bay"
+    },
+    "description": {
+      "ru": "3 мая 1945 года британская авиация потопила суда Cap Arcona и Thielbek в Любекской бухте. На борту находились тысячи заключённых концлагерей, которых нацисты незадолго до конца войны вывезли к морю.",
+      "de": "Am 3. Mai 1945 versenkten britische Flugzeuge die Schiffe Cap Arcona und Thielbek in der Luebecker Bucht. An Bord waren Tausende KZ-Haeftlinge, die die Nationalsozialisten kurz vor Kriegsende ans Meer gebracht hatten.",
+      "en": "On 3 May 1945, British aircraft sank the ships Cap Arcona and Thielbek in Luebeck Bay. On board were thousands of concentration camp prisoners whom the Nazis had moved to the coast shortly before the war ended."
+    },
+    "importance": {
+      "ru": "Это одна из самых тяжёлых морских катастроф конца Второй мировой войны и трагический эпизод последних дней нацистского режима.",
+      "de": "Das ist eine der schwersten Schiffskatastrophen am Ende des Zweiten Weltkriegs und eine tragische Episode der letzten Tage des NS-Regimes.",
+      "en": "It is one of the worst maritime disasters at the end of the Second World War and a tragic episode in the final days of the Nazi regime."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "neuengamme-prisoners",
+        "year": 1945,
+        "title": {
+          "ru": "Заключённые из концлагерей",
+          "de": "Haeftlinge aus Konzentrationslagern",
+          "en": "Concentration camp prisoners"
+        },
+        "description": {
+          "ru": "Многие жертвы были узниками концлагеря Нойенгамме и его филиалов. В последние недели войны нацисты пытались скрыть следы преступлений и перемещали заключённых в хаосе отступления.",
+          "de": "Viele Opfer waren Haeftlinge des KZ Neuengamme und seiner Aussenlager. In den letzten Kriegswochen versuchten die Nationalsozialisten, Spuren ihrer Verbrechen zu verwischen, und verschoben Haeftlinge im Chaos des Rueckzugs.",
+          "en": "Many victims were prisoners from Neuengamme concentration camp and its subcamps. In the final weeks of the war, the Nazis tried to hide traces of their crimes and moved prisoners amid the chaos of retreat."
+        },
+        "importance": {
+          "ru": "Дата напоминает, что освобождение не для всех наступило одновременно и безопасно.",
+          "de": "Das Datum erinnert daran, dass Befreiung nicht fuer alle gleichzeitig und sicher kam.",
+          "en": "The date reminds us that liberation did not come at the same time or safely for everyone."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Память о Cap Arcona особенно связана с Нойштадтом в Гольштейне и мемориальной работой вокруг концлагеря Нойенгамме.",
+    "de": "Die Erinnerung an die Cap Arcona ist besonders mit Neustadt in Holstein und der Gedenkarbeit zu Neuengamme verbunden.",
+    "en": "Memory of the Cap Arcona is especially linked with Neustadt in Holstein and memorial work around Neuengamme."
+  },
+  "sources": [
+    {
+      "label": "Neuengamme Learning Workshop: Cap Arcona",
+      "url": "https://www.lernwerkstatt-neuengamme.de/en/ausstellung/uebersichtende/cap-arcona"
+    },
+    {
+      "label": "Cap Arcona Portal",
+      "url": "https://cap-arcona-portal.de/en"
+    }
+  ]
+}

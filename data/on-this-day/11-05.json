@@ -1,0 +1,65 @@
+{
+  "date": "11-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1937-hossbach-meeting",
+    "year": 1937,
+    "title": {
+      "ru": "Состоялось совещание, известное по протоколу Хоссбаха",
+      "de": "Die Besprechung zum Hossbach-Protokoll findet statt",
+      "en": "The meeting recorded in the Hossbach Memorandum takes place"
+    },
+    "description": {
+      "ru": "5 ноября 1937 года Гитлер собрал в рейхсканцелярии военное и внешнеполитическое руководство. В записи адъютанта Фридриха Хоссбаха были изложены агрессивные планы расширения нацистской Германии.",
+      "de": "Am 5. November 1937 versammelte Hitler in der Reichskanzlei die militaerische und aussenpolitische Fuehrung. In der Aufzeichnung seines Adjutanten Friedrich Hossbach wurden aggressive Expansionsplaene des NS-Staates festgehalten.",
+      "en": "On 5 November 1937, Hitler gathered military and foreign-policy leaders in the Reich Chancellery. In the record by his adjutant Friedrich Hossbach, aggressive expansion plans of Nazi Germany were set down."
+    },
+    "importance": {
+      "ru": "Протокол Хоссбаха важен для понимания пути нацистской Германии к войне.",
+      "de": "Das Hossbach-Protokoll ist wichtig fuer das Verstaendnis des Weges des NS-Staates in den Krieg.",
+      "en": "The Hossbach Memorandum is important for understanding Nazi Germany's road to war."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "planning-aggression",
+        "year": 1937,
+        "title": {
+          "ru": "Планирование агрессии",
+          "de": "Planung der Aggression",
+          "en": "Planning aggression"
+        },
+        "description": {
+          "ru": "Документ не был публичной речью: это был внутренний разговор власти о будущей экспансии. Именно такие источники помогают историкам видеть, как решения войны готовились заранее.",
+          "de": "Das Dokument war keine oeffentliche Rede, sondern ein internes Gespraech der Macht ueber kuenftige Expansion. Solche Quellen helfen Historikern zu erkennen, wie Kriegsentscheidungen vorbereitet wurden.",
+          "en": "The document was not a public speech, but an internal conversation of power about future expansion. Such sources help historians see how decisions for war were prepared."
+        },
+        "importance": {
+          "ru": "Это делает дату важной не как зрелищное событие, а как момент опасного политического планирования.",
+          "de": "Das macht das Datum wichtig nicht als sichtbares Ereignis, sondern als Moment gefaehrlicher politischer Planung.",
+          "en": "This makes the date important not as a visible event, but as a moment of dangerous political planning."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Запись была составлена Хоссбахом 10 ноября 1937 года по памяти после совещания.",
+    "de": "Die Aufzeichnung wurde von Hossbach am 10. November 1937 nach der Besprechung aus dem Gedaechtnis erstellt.",
+    "en": "The memorandum was written by Hossbach on 10 November 1937 from memory after the meeting."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: Hossbach Protocol",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/summary-of-hitlers-meeting-with-the-heads-of-the-armed-services-on-november-5-1937-hossbach-protocol-of-november-10-1937"
+    },
+    {
+      "label": "The Holocaust Explained: Hossbach Memorandum",
+      "url": "https://www.theholocaustexplained.org/life-in-nazi-occupied-europe/foreign-policy-and-the-road-to-war/planning-for-war-the-hossbach-memorandum/"
+    }
+  ]
+}

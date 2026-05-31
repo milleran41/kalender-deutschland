@@ -1,0 +1,65 @@
+{
+  "date": "02-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-weimar-national-assembly-opens",
+    "year": 1919,
+    "title": {
+      "ru": "Открылось Веймарское национальное собрание",
+      "de": "Die Weimarer Nationalversammlung wird eroeffnet",
+      "en": "The Weimar National Assembly opens"
+    },
+    "description": {
+      "ru": "6 февраля 1919 года в Веймаре впервые собралось Национальное собрание. Оно должно было дать Германии новую конституцию после революции, войны и падения монархии.",
+      "de": "Am 6. Februar 1919 trat in Weimar erstmals die Nationalversammlung zusammen. Sie sollte Deutschland nach Revolution, Krieg und Monarchieende eine neue Verfassung geben.",
+      "en": "On 6 February 1919, the National Assembly met for the first time in Weimar. It was meant to give Germany a new constitution after revolution, war and the fall of monarchy."
+    },
+    "importance": {
+      "ru": "Дата показывает начало парламентского оформления первой немецкой республики.",
+      "de": "Das Datum markiert den parlamentarischen Beginn der ersten deutschen Republik.",
+      "en": "The date marks the parliamentary beginning of Germany's first republic."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "why-weimar",
+        "year": 1919,
+        "title": {
+          "ru": "Почему именно Веймар",
+          "de": "Warum gerade Weimar",
+          "en": "Why Weimar"
+        },
+        "description": {
+          "ru": "Собрание проходило не в беспокойном Берлине, а в Веймаре, городе с сильным культурным символизмом. Так новая республика искала спокойную сцену и связь с немецкой классикой.",
+          "de": "Die Versammlung tagte nicht im unruhigen Berlin, sondern in Weimar, einer Stadt mit starker kultureller Symbolik. So suchte die neue Republik eine ruhigere Buehne und den Bezug zur deutschen Klassik.",
+          "en": "The assembly met not in restless Berlin, but in Weimar, a city with strong cultural symbolism. The new republic sought a calmer stage and a link to German classicism."
+        },
+        "importance": {
+          "ru": "Так политика попыталась опереться на культурный авторитет.",
+          "de": "So versuchte Politik, sich auf kulturelle Autoritaet zu stuetzen.",
+          "en": "Politics tried to lean on cultural authority."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через несколько месяцев это собрание приняло Веймарскую конституцию.",
+    "de": "Einige Monate spaeter verabschiedete diese Versammlung die Weimarer Verfassung.",
+    "en": "A few months later, this assembly adopted the Weimar Constitution."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Opening of the National Assembly",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/eroeffnung-der-nationalversammlung/"
+    },
+    {
+      "label": "German History in Documents and Images: First session",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/friedrich-ebert-delivers-the-opening-speech-at-the-first-session-of-the-national-assembly-in-weimar-february-6-1919"
+    }
+  ]
+}
