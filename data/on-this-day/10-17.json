@@ -1,0 +1,90 @@
+{
+  "date": "10-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-politburo-turns-against-honecker",
+    "year": 1989,
+    "title": {
+      "ru": "Политбюро СЕПГ отвернулось от Хонеккера",
+      "de": "Das SED-Politbüro wendet sich gegen Honecker",
+      "en": "The SED Politburo turns against Honecker"
+    },
+    "description": {
+      "ru": "17 октября 1989 года на заседании политбюро СЕПГ стало ясно, что Эрих Хонеккер теряет власть. На следующий день было объявлено о его уходе, а новым лидером ГДР стал Эгон Кренц.",
+      "de": "Am 17. Oktober 1989 wurde in der Sitzung des SED-Politbüros deutlich, dass Erich Honecker die Macht verlor. Am nächsten Tag wurde sein Rücktritt bekanntgegeben, und Egon Krenz wurde neuer DDR-Chef.",
+      "en": "On 17 October 1989, a meeting of the SED Politburo made clear that Erich Honecker was losing power. The next day his resignation was announced, and Egon Krenz became the new GDR leader."
+    },
+    "importance": {
+      "ru": "Это был один из решающих моментов осени 1989 года: руководство ГДР пыталось спасти систему сменой лица, но кризис уже вышел из-под контроля.",
+      "de": "Dies war einer der entscheidenden Momente des Herbstes 1989: Die DDR-Führung versuchte, das System durch einen Austausch an der Spitze zu retten, doch die Krise war bereits ausser Kontrolle.",
+      "en": "It was one of the decisive moments of autumn 1989: the GDR leadership tried to save the system by changing its face, but the crisis was already beyond control."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "peaceful-revolution-pressure",
+        "year": 1989,
+        "title": {
+          "ru": "Давление мирной революции",
+          "de": "Druck der Friedlichen Revolution",
+          "en": "Pressure of the Peaceful Revolution"
+        },
+        "description": {
+          "ru": "К осени 1989 года массовые демонстрации, бегство граждан через соседние страны и недовольство внутри партии подорвали позиции Хонеккера. Его уход уже не мог остановить движение к падению стены.",
+          "de": "Im Herbst 1989 hatten Massendemonstrationen, die Flucht vieler Bürger über Nachbarländer und Unzufriedenheit in der Partei Honeckers Position untergraben. Sein Abgang konnte den Weg zum Fall der Mauer nicht mehr stoppen.",
+          "en": "By autumn 1989, mass demonstrations, citizens fleeing through neighboring countries and discontent inside the party had undermined Honecker's position. His departure could no longer stop the movement toward the fall of the Wall."
+        },
+        "importance": {
+          "ru": "Дата помогает увидеть, что падение Берлинской стены было не внезапным чудом, а результатом нарастающего давления.",
+          "de": "Das Datum zeigt, dass der Fall der Berliner Mauer kein plötzliches Wunder war, sondern das Ergebnis wachsenden Drucks.",
+          "en": "The date shows that the fall of the Berlin Wall was not a sudden miracle, but the result of growing pressure."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "egon-krenz-short-rule",
+        "year": 1989,
+        "title": {
+          "ru": "Короткое правление Эгона Кренца",
+          "de": "Die kurze Herrschaft Egon Krenz'",
+          "en": "Egon Krenz's short rule"
+        },
+        "description": {
+          "ru": "Эгон Кренц пытался представить себя реформатором, но большинство граждан ГДР не поверило в настоящие перемены сверху. Уже через несколько недель открылась граница, а старая система начала быстро рушиться.",
+          "de": "Egon Krenz versuchte, sich als Reformer darzustellen, doch die meisten DDR-Bürger glaubten nicht an echte Veränderungen von oben. Schon wenige Wochen später öffnete sich die Grenze, und das alte System zerfiel rasch.",
+          "en": "Egon Krenz tried to present himself as a reformer, but most GDR citizens did not believe in real change from above. Only a few weeks later, the border opened and the old system began to collapse rapidly."
+        },
+        "importance": {
+          "ru": "Это показывает, что смена руководителя не всегда спасает режим, если общество уже требует большего.",
+          "de": "Das zeigt, dass ein Wechsel an der Spitze ein Regime nicht immer rettet, wenn die Gesellschaft bereits mehr verlangt.",
+          "en": "It shows that changing the leader does not always save a regime when society is already demanding more."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "От ухода Хонеккера до открытия Берлинской стены прошло меньше месяца.",
+    "de": "Vom Sturz Honeckers bis zur Öffnung der Berliner Mauer verging weniger als ein Monat.",
+    "en": "Less than a month passed between Honecker's fall and the opening of the Berlin Wall."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Oktober 1989",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/storys/die-stasi-im-jahr-1989/oktober-1989/"
+    },
+    {
+      "label": "Bundesregierung: Honecker geht, Krenz kommt",
+      "url": "https://www.bundesregierung.de/breg-de/themen/deutsche-einheit/honecker-geht-337246"
+    },
+    {
+      "label": "Konrad-Adenauer-Stiftung: Das ZK der SED entlässt Honecker",
+      "url": "https://www.kas.de/en/web/geschichte-der-cdu/calendar-detail/-/content/das-zentralkomitee-der-sed-entlaesst-honecker-und-weitere-mitglieder-des-politbueros"
+    }
+  ]
+}

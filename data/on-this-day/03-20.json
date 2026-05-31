@@ -1,0 +1,90 @@
+{
+  "date": "03-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-himmler-announces-dachau-camp",
+    "year": 1933,
+    "title": {
+      "ru": "Химмлер объявил о создании лагеря Дахау",
+      "de": "Himmler kündigt das Lager Dachau an",
+      "en": "Himmler announces the Dachau camp"
+    },
+    "description": {
+      "ru": "20 марта 1933 года Генрих Химмлер объявил о создании концентрационного лагеря для политических противников близ Дахау. Первые заключённые прибыли туда 22 марта.",
+      "de": "Am 20. März 1933 kündigte Heinrich Himmler die Einrichtung eines Konzentrationslagers für politische Gegner bei Dachau an. Die ersten Häftlinge trafen dort am 22. März ein.",
+      "en": "On 20 March 1933, Heinrich Himmler announced the establishment of a concentration camp for political opponents near Dachau. The first prisoners arrived there on 22 March."
+    },
+    "importance": {
+      "ru": "Дахау стал моделью системы лагерей СС и одним из ранних символов нацистского террора.",
+      "de": "Dachau wurde zum Modell des SS-Lagersystems und zu einem frühen Symbol des nationalsozialistischen Terrors.",
+      "en": "Dachau became a model for the SS camp system and an early symbol of Nazi terror."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "terror-against-political-opponents",
+        "year": 1933,
+        "title": {
+          "ru": "Террор против противников режима",
+          "de": "Terror gegen politische Gegner",
+          "en": "Terror against political opponents"
+        },
+        "description": {
+          "ru": "Первоначально Дахау предназначался прежде всего для коммунистов, социал-демократов и других противников нацистов. Очень быстро лагерь стал частью более широкой системы насилия, запугивания и уничтожения.",
+          "de": "Zunächst war Dachau vor allem für Kommunisten, Sozialdemokraten und andere Gegner der Nationalsozialisten bestimmt. Sehr schnell wurde das Lager Teil eines umfassenderen Systems von Gewalt, Einschüchterung und Vernichtung.",
+          "en": "At first, Dachau was intended mainly for communists, social democrats and other opponents of the Nazis. Very quickly, the camp became part of a broader system of violence, intimidation and destruction."
+        },
+        "importance": {
+          "ru": "Дата показывает, как быстро после прихода к власти нацисты перешли от политической борьбы к государственному террору.",
+          "de": "Das Datum zeigt, wie schnell die Nationalsozialisten nach der Machtübernahme von politischem Kampf zu staatlichem Terror übergingen.",
+          "en": "The date shows how quickly the Nazis moved from political struggle to state terror after taking power."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "public-announcement-of-terror",
+        "year": 1933,
+        "title": {
+          "ru": "Террор объявили публично",
+          "de": "Terror wurde öffentlich angekündigt",
+          "en": "Terror was announced publicly"
+        },
+        "description": {
+          "ru": "Дахау не возник как полностью скрытый проект: о лагере сообщили в прессе. Это показывает, насколько быстро насилие стало «нормальной» частью новой власти.",
+          "de": "Dachau entstand nicht als völlig verborgenes Projekt: Über das Lager wurde in der Presse berichtet. Das zeigt, wie schnell Gewalt zu einem normalen Bestandteil der neuen Macht wurde.",
+          "en": "Dachau did not begin as a completely hidden project: the camp was reported in the press. This shows how quickly violence became a 'normal' part of the new regime."
+        },
+        "importance": {
+          "ru": "Иногда страшно не только то, что скрывают, но и то, что уже не считают нужным скрывать.",
+          "de": "Manchmal ist nicht nur erschreckend, was verborgen wird, sondern auch, was man nicht mehr verbergen zu müssen glaubt.",
+          "en": "Sometimes what is frightening is not only what is hidden, but what people no longer feel the need to hide."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дахау действовал почти всё время существования нацистского режима, с 1933 по 1945 год.",
+    "de": "Dachau bestand fast während der gesamten NS-Herrschaft, von 1933 bis 1945.",
+    "en": "Dachau operated for almost the entire period of Nazi rule, from 1933 to 1945."
+  },
+  "sources": [
+    {
+      "label": "The Concentration Camps: Himmler sets up Dachau",
+      "url": "https://www.camps.bbk.ac.uk/documents/003-himmler-sets-up-dachau.html"
+    },
+    {
+      "label": "Dachau Memorial Site: Historical Site",
+      "url": "https://www.kz-gedenkstaette-dachau.de/en/historical-site/"
+    },
+    {
+      "label": "USHMM: Dachau",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/dachau"
+    }
+  ]
+}

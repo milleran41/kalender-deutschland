@@ -1,0 +1,90 @@
+{
+  "date": "01-31",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1958-explorer-1-von-braun",
+    "year": 1958,
+    "title": {
+      "ru": "Запущен Explorer 1",
+      "de": "Explorer 1 wird gestartet",
+      "en": "Explorer 1 is launched"
+    },
+    "description": {
+      "ru": "31 января 1958 года США вывели на орбиту свой первый спутник Explorer 1. Ракету для запуска разработала команда Army Ballistic Missile Agency под руководством Вернера фон Брауна, немецкого инженера, ранее работавшего над ракетами V-2.",
+      "de": "Am 31. Januar 1958 brachten die USA ihren ersten Satelliten Explorer 1 in die Erdumlaufbahn. Die Trägerrakete wurde vom Team der Army Ballistic Missile Agency unter Wernher von Braun entwickelt, einem deutschen Ingenieur, der zuvor an den V-2-Raketen gearbeitet hatte.",
+      "en": "On 31 January 1958, the United States placed its first satellite, Explorer 1, into orbit. The launch vehicle was developed by the Army Ballistic Missile Agency team led by Wernher von Braun, a German engineer who had previously worked on the V-2 rockets."
+    },
+    "importance": {
+      "ru": "Дата показывает сложную связь между немецкой ракетной техникой, наследием Второй мировой войны и началом космической эпохи.",
+      "de": "Das Datum zeigt die komplexe Verbindung zwischen deutscher Raketentechnik, dem Erbe des Zweiten Weltkriegs und dem Beginn des Raumfahrtzeitalters.",
+      "en": "The date shows the complex link between German rocketry, the legacy of the Second World War and the beginning of the space age."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "van-allen-belts-discovery",
+        "year": 1958,
+        "title": {
+          "ru": "Открытие радиационных поясов",
+          "de": "Entdeckung der Strahlungsgürtel",
+          "en": "Discovery of the radiation belts"
+        },
+        "description": {
+          "ru": "Explorer 1 нёс научный прибор Джеймса Ван Аллена. Данные спутника помогли обнаружить радиационные пояса вокруг Земли, которые теперь называют поясами Ван Аллена.",
+          "de": "Explorer 1 trug ein wissenschaftliches Instrument von James Van Allen. Die Daten des Satelliten halfen, Strahlungsgürtel um die Erde zu entdecken, die heute Van-Allen-Gürtel heissen.",
+          "en": "Explorer 1 carried a scientific instrument designed by James Van Allen. The satellite's data helped discover radiation belts around Earth, now called the Van Allen belts."
+        },
+        "importance": {
+          "ru": "Первый спутник США был не только политическим ответом на Sputnik, но и настоящей научной миссией.",
+          "de": "Der erste US-Satellit war nicht nur eine politische Antwort auf Sputnik, sondern auch eine echte wissenschaftliche Mission.",
+          "en": "America's first satellite was not only a political answer to Sputnik, but also a real scientific mission."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "von-braun-ambiguous-legacy",
+        "year": 1958,
+        "title": {
+          "ru": "Сложное наследие фон Брауна",
+          "de": "Das schwierige Erbe von Braun",
+          "en": "Von Braun's difficult legacy"
+        },
+        "description": {
+          "ru": "Вернер фон Браун стал знаменитым лицом американской космической программы, но его биография связана и с нацистской военной промышленностью. Поэтому его история требует не восхищения без вопросов, а внимательного разговора о науке и ответственности.",
+          "de": "Wernher von Braun wurde zu einem berühmten Gesicht des amerikanischen Raumfahrtprogramms, doch seine Biografie ist auch mit der nationalsozialistischen Rüstungsindustrie verbunden. Seine Geschichte verlangt daher keine unkritische Bewunderung, sondern ein genaues Gespräch über Wissenschaft und Verantwortung.",
+          "en": "Wernher von Braun became a famous face of the American space program, but his biography is also tied to the Nazi armaments industry. His story therefore calls not for uncritical admiration, but for careful discussion of science and responsibility."
+        },
+        "importance": {
+          "ru": "Это один из тех случаев, где технический прогресс нельзя отделить от моральных вопросов истории.",
+          "de": "Das ist einer der Fälle, in denen technischer Fortschritt nicht von moralischen Fragen der Geschichte getrennt werden kann.",
+          "en": "It is one of those cases where technical progress cannot be separated from the moral questions of history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Explorer 1 стал ответом США на советский Sputnik и первым американским спутником Земли.",
+    "de": "Explorer 1 war die Antwort der USA auf den sowjetischen Sputnik und der erste amerikanische Erdsatellit.",
+    "en": "Explorer 1 was the U.S. answer to the Soviet Sputnik and the first American Earth satellite."
+  },
+  "sources": [
+    {
+      "label": "NASA: Explorer 1",
+      "url": "https://science.nasa.gov/mission/explorer-1"
+    },
+    {
+      "label": "NASA History: America's first satellite",
+      "url": "https://www.nasa.gov/history/americas-first-satellite-established-foothold-in-space"
+    },
+    {
+      "label": "Deutschlandfunk: Explorer 1",
+      "url": "https://www.deutschlandfunk.de/explorer-100.html"
+    }
+  ]
+}
