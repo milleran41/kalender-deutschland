@@ -1,0 +1,90 @@
+{
+  "date": "05-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1955-austrian-state-treaty-signed",
+    "year": 1955,
+    "title": {
+      "ru": "Подписан Австрийский государственный договор",
+      "de": "Der Oesterreichische Staatsvertrag wird unterzeichnet",
+      "en": "The Austrian State Treaty is signed"
+    },
+    "description": {
+      "ru": "15 мая 1955 года в венском дворце Бельведер был подписан Австрийский государственный договор. Он восстановил Австрию как независимое и демократическое государство после союзной оккупации.",
+      "de": "Am 15. Mai 1955 wurde im Wiener Schloss Belvedere der Oesterreichische Staatsvertrag unterzeichnet. Er stellte Oesterreich nach der alliierten Besatzung als unabhaengigen und demokratischen Staat wieder her.",
+      "en": "On 15 May 1955, the Austrian State Treaty was signed at Belvedere Palace in Vienna. It restored Austria as an independent and democratic state after Allied occupation."
+    },
+    "importance": {
+      "ru": "Для немецкой истории договор важен тем, что запрещал новый аншлюс и окончательно отделял путь Австрии от послевоенного раздела Германии.",
+      "de": "Fuer die deutsche Geschichte ist der Vertrag wichtig, weil er einen neuen Anschluss verbot und Oesterreichs Weg endgueltig vom geteilten Nachkriegsdeutschland trennte.",
+      "en": "For German history, the treaty matters because it banned a new Anschluss and definitively separated Austria's path from divided postwar Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "austria-neutrality-and-germany",
+        "year": 1955,
+        "title": {
+          "ru": "Австрийский путь после войны",
+          "de": "Der oesterreichische Weg nach dem Krieg",
+          "en": "Austria's postwar path"
+        },
+        "description": {
+          "ru": "В отличие от Германии, Австрия не была разделена на два государства. После вывода оккупационных войск она закрепила нейтралитет и стала особым примером холодной войны в Центральной Европе.",
+          "de": "Anders als Deutschland wurde Oesterreich nicht in zwei Staaten geteilt. Nach dem Abzug der Besatzungstruppen verankerte es die Neutralitaet und wurde zu einem besonderen Beispiel des Kalten Krieges in Mitteleuropa.",
+          "en": "Unlike Germany, Austria was not divided into two states. After the occupation troops withdrew, it anchored neutrality and became a special Cold War example in Central Europe."
+        },
+        "importance": {
+          "ru": "Сравнение с Германией помогает понять, что после 1945 года у соседних стран могли быть очень разные судьбы.",
+          "de": "Der Vergleich mit Deutschland hilft zu verstehen, dass Nachbarlaender nach 1945 sehr unterschiedliche Schicksale haben konnten.",
+          "en": "The comparison with Germany helps show that neighboring countries could have very different fates after 1945."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "belvedere-balcony",
+        "year": 1955,
+        "title": {
+          "ru": "«Австрия свободна!»",
+          "de": "Oesterreich ist frei!",
+          "en": "Austria is free!"
+        },
+        "description": {
+          "ru": "Фраза Леопольда Фигля «Австрия свободна!» после подписания договора стала частью австрийской памяти. Сцена на балконе Бельведера до сих пор часто используется как образ возвращения суверенитета.",
+          "de": "Leopold Figls Satz Oesterreich ist frei! nach der Unterzeichnung wurde Teil der oesterreichischen Erinnerung. Die Szene auf dem Balkon des Belvedere gilt bis heute als Bild der Rueckkehr der Souveraenitaet.",
+          "en": "Leopold Figl's phrase 'Austria is free!' after the signing became part of Austrian memory. The scene on the Belvedere balcony is still used as an image of restored sovereignty."
+        },
+        "importance": {
+          "ru": "Иногда одна короткая фраза становится знаком целой эпохи.",
+          "de": "Manchmal wird ein kurzer Satz zum Zeichen einer ganzen Epoche.",
+          "en": "Sometimes one short phrase becomes the sign of an entire era."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Позднее, 26 октября 1955 года, Австрия закрепила постоянный нейтралитет.",
+    "de": "Spaeter, am 26. Oktober 1955, verankerte Oesterreich seine immerwaehrende Neutralitaet.",
+    "en": "Later, on 26 October 1955, Austria anchored its permanent neutrality."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Austrian State Treaty",
+      "url": "https://www.britannica.com/topic/Austrian-State-Treaty"
+    },
+    {
+      "label": "CVCE: State Treaty for Austria",
+      "url": "https://www.cvce.eu/en/obj/state_treaty_for_the_re_establishment_of_an_independent_and_democratic_austria_vienna_15_may_1955-en-5c586461-7528-4a74-92c3-d3eba73c2d7d.html"
+    },
+    {
+      "label": "Austria in USA: The U.S. and the Austrian State Treaty",
+      "url": "https://www.austriainusa.org/state-treaty"
+    }
+  ]
+}

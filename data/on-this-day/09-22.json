@@ -1,0 +1,90 @@
+{
+  "date": "09-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1984-kohl-mitterrand-verdun",
+    "year": 1984,
+    "title": {
+      "ru": "Коль и Миттеран взялись за руки в Вердене",
+      "de": "Kohl und Mitterrand reichen sich in Verdun die Haende",
+      "en": "Kohl and Mitterrand hold hands at Verdun"
+    },
+    "description": {
+      "ru": "22 сентября 1984 года канцлер ФРГ Гельмут Коль и президент Франции Франсуа Миттеран вместе почтили память погибших у Вердена. Их жест, когда они взялись за руки, стал символом франко-германского примирения.",
+      "de": "Am 22. September 1984 gedachten Bundeskanzler Helmut Kohl und Frankreichs Praesident Francois Mitterrand gemeinsam der Toten von Verdun. Ihr Haendedruck wurde zum Symbol der deutsch-franzoesischen Versoehnung.",
+      "en": "On 22 September 1984, West German Chancellor Helmut Kohl and French President Francois Mitterrand jointly honored the dead at Verdun. Their hand-holding became a symbol of Franco-German reconciliation."
+    },
+    "importance": {
+      "ru": "Сцена показала, как бывшие враги смогли превратить место страшной битвы в знак европейского сотрудничества.",
+      "de": "Die Szene zeigte, wie fruehere Feinde einen Ort einer furchtbaren Schlacht in ein Zeichen europaeischer Zusammenarbeit verwandeln konnten.",
+      "en": "The scene showed how former enemies could turn the site of a terrible battle into a sign of European cooperation."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "franco-german-reconciliation",
+        "year": 1984,
+        "title": {
+          "ru": "Примирение после двух войн",
+          "de": "Versoehnung nach zwei Kriegen",
+          "en": "Reconciliation after two wars"
+        },
+        "description": {
+          "ru": "Верден был одним из самых кровавых мест Первой мировой войны, а во Второй мировой Германия и Франция снова оказались врагами. Поэтому совместная церемония имела огромный символический вес.",
+          "de": "Verdun war einer der blutigsten Orte des Ersten Weltkriegs, und im Zweiten Weltkrieg standen Deutschland und Frankreich erneut gegeneinander. Darum hatte die gemeinsame Zeremonie enormes symbolisches Gewicht.",
+          "en": "Verdun was one of the bloodiest sites of the First World War, and Germany and France were enemies again in the Second. The joint ceremony therefore carried enormous symbolic weight."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, почему европейское единство строилось не только договорами, но и жестами памяти.",
+          "de": "Das Datum hilft zu verstehen, warum europaeische Einheit nicht nur durch Vertraege, sondern auch durch Gesten der Erinnerung entstand.",
+          "en": "The date helps explain why European unity was built not only through treaties, but also through gestures of memory."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "one-minute-image",
+        "year": 1984,
+        "title": {
+          "ru": "Одна минута стала образом эпохи",
+          "de": "Eine Minute wurde zum Bild einer Epoche",
+          "en": "One minute became an image of an era"
+        },
+        "description": {
+          "ru": "Фотография двух лидеров у мемориала стала намного известнее большинства официальных речей того дня. Иногда политический жест запоминается сильнее любого документа.",
+          "de": "Das Foto der beiden Staatsmaenner am Denkmal wurde viel bekannter als die meisten offiziellen Reden dieses Tages. Manchmal bleibt eine politische Geste staerker im Gedaechtnis als jedes Dokument.",
+          "en": "The photograph of the two leaders at the memorial became far better known than most official speeches that day. Sometimes a political gesture is remembered more strongly than any document."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как историческая память работает через образы.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie historische Erinnerung durch Bilder wirkt.",
+          "en": "It is a good example of how historical memory works through images."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Верден находится во Франции, но для немецкой памяти о Первой мировой войне это место тоже имеет особое значение.",
+    "de": "Verdun liegt in Frankreich, hat aber auch fuer die deutsche Erinnerung an den Ersten Weltkrieg besondere Bedeutung.",
+    "en": "Verdun is in France, but it also has special meaning for German memory of the First World War."
+  },
+  "sources": [
+    {
+      "label": "Bundesregierung: Verdun, 22.09.1984",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/media-center/verdun-22-09-1984-chancellor-helmut-kohl-and-french-president-fran%C3%A7ois-mitterrand-honour-the-memories-of-those-killed-in-the-world-wars-the-minute-that-they-stood-holding-hands-became-symbolic-of-franco-german-reconciliation--241662"
+    },
+    {
+      "label": "Helmut Kohl Foundation: 22 September 1984",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/22-september-1984-bundeskanzler-helmut-kohl-und-frankreichs-staatspraesident-francois-mitterrand-reichen-sich-in-verdun-die-haende/"
+    },
+    {
+      "label": "Institut Francois Mitterrand: Verdun, le geste Mitterrand-Kohl",
+      "url": "https://www.mitterrand.org/Verdun-le-geste-Mitterrand-Kohl.html"
+    }
+  ]
+}

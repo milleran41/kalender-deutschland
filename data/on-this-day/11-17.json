@@ -1,0 +1,90 @@
+{
+  "date": "11-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1881-imperial-message-social-policy",
+    "year": 1881,
+    "title": {
+      "ru": "Имперское послание о социальной политике",
+      "de": "Die Kaiserliche Botschaft zur Sozialpolitik",
+      "en": "The Imperial Message on social policy"
+    },
+    "description": {
+      "ru": "17 ноября 1881 года Бисмарк зачитал в рейхстаге послание кайзера Вильгельма I о государственной социальной политике. Оно стало отправной точкой для немецкого социального страхования.",
+      "de": "Am 17. November 1881 verlas Bismarck im Reichstag die Botschaft Kaiser Wilhelms I. zur staatlichen Sozialpolitik. Sie wurde zum Ausgangspunkt der deutschen Sozialversicherung.",
+      "en": "On 17 November 1881, Bismarck read Kaiser Wilhelm I's message on state social policy to the Reichstag. It became the starting point for German social insurance."
+    },
+    "importance": {
+      "ru": "Дата важна потому, что Германия стала одной из первых стран с современной системой социального страхования.",
+      "de": "Das Datum ist wichtig, weil Deutschland zu den ersten Laendern mit einem modernen System der Sozialversicherung wurde.",
+      "en": "The date matters because Germany became one of the first countries with a modern system of social insurance."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bismarck-social-state",
+        "year": 1881,
+        "title": {
+          "ru": "Начало социального государства",
+          "de": "Beginn des Sozialstaats",
+          "en": "Beginning of the social state"
+        },
+        "description": {
+          "ru": "Программа привела к законам о страховании на случай болезни, несчастных случаев, инвалидности и старости. Бисмарк хотел одновременно помогать рабочим и ослаблять влияние социал-демократов.",
+          "de": "Das Programm fuehrte zu Gesetzen ueber Kranken-, Unfall-, Invaliditaets- und Altersversicherung. Bismarck wollte damit Arbeitern helfen und zugleich den Einfluss der Sozialdemokratie schwaechen.",
+          "en": "The program led to laws on sickness, accident, disability and old-age insurance. Bismarck wanted both to help workers and to weaken the influence of social democracy."
+        },
+        "importance": {
+          "ru": "Так видно, что социальные реформы могут иметь одновременно гуманную и политически расчётливую сторону.",
+          "de": "So wird sichtbar, dass Sozialreformen zugleich humane und politisch berechnende Seiten haben koennen.",
+          "en": "It shows that social reforms can have both humane and politically calculated sides."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "state-insurance-as-innovation",
+        "year": 1881,
+        "title": {
+          "ru": "Страховка как новшество",
+          "de": "Versicherung als Neuerung",
+          "en": "Insurance as an innovation"
+        },
+        "description": {
+          "ru": "Сегодня больничное страхование кажется обычной частью жизни, но в XIX веке идея государственной защиты рабочих от болезни и старости была новаторской. Германия стала важной лабораторией такой политики.",
+          "de": "Heute wirkt Krankenversicherung wie ein normaler Teil des Lebens, doch im 19. Jahrhundert war die Idee staatlicher Sicherung gegen Krankheit und Alter neuartig. Deutschland wurde zu einem wichtigen Labor dieser Politik.",
+          "en": "Today health insurance seems like an ordinary part of life, but in the nineteenth century the idea of state protection against sickness and old age was innovative. Germany became an important laboratory for this policy."
+        },
+        "importance": {
+          "ru": "Это напоминает, что привычные права когда-то были смелыми экспериментами.",
+          "de": "Das erinnert daran, dass vertraute Rechte einst mutige Experimente waren.",
+          "en": "It is a reminder that familiar rights were once bold experiments."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первым крупным законом стала система медицинского страхования рабочих 1883 года.",
+    "de": "Das erste grosse Gesetz war die Krankenversicherung der Arbeiter von 1883.",
+    "en": "The first major law was the workers' health insurance system of 1883."
+  },
+  "sources": [
+    {
+      "label": "GHDI: Kaiser Wilhelm I's Royal Proclamation on Social Policy",
+      "url": "https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/kaiser-wilhelm-i-s-royal-proclamation-on-social-policy-november-17-1881"
+    },
+    {
+      "label": "bpb: Hundert Jahre Sozialversicherung in Deutschland",
+      "url": "https://www.bpb.de/shop/zeitschriften/apuz/archiv/532110/hundert-jahre-sozialversicherung-in-deutschland/"
+    },
+    {
+      "label": "Bismarck Foundation: Bismarck's social legislation",
+      "url": "https://bismarck-biografie.de/en/politik/bismarcks-sozialgesetzgebung-1881-1890"
+    }
+  ]
+}
