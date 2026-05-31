@@ -1,0 +1,65 @@
+{
+  "date": "01-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1927-metropolis-premiere",
+    "year": 1927,
+    "title": {
+      "ru": "В Берлине состоялась премьера «Метрополиса»",
+      "de": "Metropolis hat Premiere in Berlin",
+      "en": "Metropolis premieres in Berlin"
+    },
+    "description": {
+      "ru": "10 января 1927 года в Берлине состоялась премьера фильма Фрица Ланга «Метрополис». Немой фантастический фильм стал одним из самых известных произведений немецкого экспрессионистского кино.",
+      "de": "Am 10. Januar 1927 hatte Fritz Langs Film Metropolis in Berlin Premiere. Der stumme Science-Fiction-Film wurde zu einem der bekanntesten Werke des deutschen expressionistischen Kinos.",
+      "en": "On 10 January 1927, Fritz Lang's film Metropolis premiered in Berlin. The silent science-fiction film became one of the best-known works of German Expressionist cinema."
+    },
+    "importance": {
+      "ru": "«Метрополис» сделал образы современного города, машин и социальной напряжённости частью мировой киноистории.",
+      "de": "Metropolis machte Bilder der modernen Stadt, der Maschinen und sozialer Spannungen zu einem Teil der Weltfilmgeschichte.",
+      "en": "Metropolis made images of the modern city, machines and social tension part of world film history."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "weimar-cinema-future-city",
+        "year": 1927,
+        "title": {
+          "ru": "Будущее глазами Веймара",
+          "de": "Die Zukunft mit den Augen Weimars",
+          "en": "The future through Weimar's eyes"
+        },
+        "description": {
+          "ru": "Фильм показывал огромный город будущего, разделённый на богатый верх и рабочий низ. Для зрителей это была не только фантастика, но и тревожный разговор о технике и обществе.",
+          "de": "Der Film zeigte eine riesige Zukunftsstadt, geteilt in reiche Oberwelt und arbeitende Unterwelt. Fuer Zuschauer war das nicht nur Fantasie, sondern auch ein beunruhigendes Gespraech ueber Technik und Gesellschaft.",
+          "en": "The film showed a huge city of the future divided between a wealthy upper world and a laboring underworld. For viewers, it was not only fantasy but also an unsettling discussion of technology and society."
+        },
+        "importance": {
+          "ru": "Так кино Веймарской республики продолжает влиять на научную фантастику и визуальный дизайн.",
+          "de": "So beeinflusst das Kino der Weimarer Republik bis heute Science-Fiction und visuelles Design.",
+          "en": "Weimar-era cinema continues to influence science fiction and visual design."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Долгое время «Метрополис» существовал в сокращённых версиях; более полная реконструкция стала большим событием для киноведов.",
+    "de": "Metropolis existierte lange nur in gekuerzten Fassungen; eine vollstaendigere Rekonstruktion wurde zu einem grossen Ereignis fuer Filmhistoriker.",
+    "en": "For a long time, Metropolis survived only in shortened versions; a more complete reconstruction became a major event for film historians."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Metropolis",
+      "url": "https://www.britannica.com/topic/Metropolis-film-1927"
+    },
+    {
+      "label": "Weimar Cinema: Metropolis dossier",
+      "url": "https://www.weimarcinema.org/file/Film-Dossiers/metropolis-prelims.pdf"
+    }
+  ]
+}

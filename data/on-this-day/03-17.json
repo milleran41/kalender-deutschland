@@ -1,0 +1,65 @@
+{
+  "date": "03-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1834-gottlieb-daimler-born",
+    "year": 1834,
+    "title": {
+      "ru": "Родился Готлиб Даймлер",
+      "de": "Gottlieb Daimler wird geboren",
+      "en": "Gottlieb Daimler is born"
+    },
+    "description": {
+      "ru": "17 марта 1834 года в Шорндорфе родился инженер Готлиб Даймлер. Вместе с Вильгельмом Майбахом он стал одной из ключевых фигур ранней автомобильной техники.",
+      "de": "Am 17. Maerz 1834 wurde der Ingenieur Gottlieb Daimler in Schorndorf geboren. Zusammen mit Wilhelm Maybach wurde er zu einer Schluesselfigur der fruehen Automobiltechnik.",
+      "en": "On 17 March 1834, engineer Gottlieb Daimler was born in Schorndorf. Together with Wilhelm Maybach, he became a key figure in early automotive technology."
+    },
+    "importance": {
+      "ru": "Даймлер важен для истории Баден-Вюртемберга как одного из центров немецкой автомобильной промышленности.",
+      "de": "Daimler ist wichtig fuer die Geschichte Baden-Wuerttembergs als eines Zentrums der deutschen Automobilindustrie.",
+      "en": "Daimler is important for the history of Baden-Wuerttemberg as a center of Germany's automobile industry."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "daimler-high-speed-engine",
+        "year": 1885,
+        "title": {
+          "ru": "Лёгкий высокооборотный двигатель",
+          "de": "Ein leichter schnelllaufender Motor",
+          "en": "A light high-speed engine"
+        },
+        "description": {
+          "ru": "Даймлер и Майбах стремились создать компактный двигатель, который можно было устанавливать на разные виды транспорта. Эта идея стала важной для развития автомобиля, мотоцикла и моторной лодки.",
+          "de": "Daimler und Maybach wollten einen kompakten Motor schaffen, der in verschiedene Fahrzeuge eingebaut werden konnte. Diese Idee wurde wichtig fuer Auto, Motorrad und Motorboot.",
+          "en": "Daimler and Maybach aimed to create a compact engine that could be installed in different vehicles. This idea became important for the car, motorcycle and motorboat."
+        },
+        "importance": {
+          "ru": "История Даймлера показывает, что автомобиль вырос из серии технических экспериментов, а не из одного готового решения.",
+          "de": "Daimlers Geschichte zeigt, dass das Auto aus einer Reihe technischer Experimente entstand, nicht aus einer einzigen fertigen Loesung.",
+          "en": "Daimler's story shows that the automobile grew from a series of technical experiments, not from one finished solution."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дом, где родился Даймлер в Шорндорфе, сегодня является памятным местом Mercedes-Benz.",
+    "de": "Daimlers Geburtshaus in Schorndorf ist heute eine Gedenkstaette von Mercedes-Benz.",
+    "en": "Daimler's birthplace in Schorndorf is now a Mercedes-Benz memorial site."
+  },
+  "sources": [
+    {
+      "label": "Mercedes-Benz Group: Gottlieb Daimler",
+      "url": "https://group.mercedes-benz.com/company/tradition/founders-pioneers/gottlieb-daimler.html"
+    },
+    {
+      "label": "Britannica: Gottlieb Daimler",
+      "url": "https://www.britannica.com/biography/Gottlieb-Daimler"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "07-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1952-ecsc-treaty-enters-force",
+    "year": 1952,
+    "title": {
+      "ru": "Вступил в силу договор о Европейском объединении угля и стали",
+      "de": "Der Vertrag ueber die Europaeische Gemeinschaft fuer Kohle und Stahl tritt in Kraft",
+      "en": "The European Coal and Steel Community treaty enters into force"
+    },
+    "description": {
+      "ru": "23 июля 1952 года вступил в силу договор о Европейском объединении угля и стали. В нём участвовали Бельгия, Франция, Италия, Люксембург, Нидерланды и Федеративная Республика Германия.",
+      "de": "Am 23. Juli 1952 trat der Vertrag ueber die Europaeische Gemeinschaft fuer Kohle und Stahl in Kraft. Beteiligt waren Belgien, Frankreich, Italien, Luxemburg, die Niederlande und die Bundesrepublik Deutschland.",
+      "en": "On 23 July 1952, the treaty establishing the European Coal and Steel Community entered into force. Belgium, France, Italy, Luxembourg, the Netherlands and West Germany took part."
+    },
+    "importance": {
+      "ru": "Это был один из первых практических шагов к европейской интеграции после Второй мировой войны.",
+      "de": "Das war einer der ersten praktischen Schritte zur europaeischen Integration nach dem Zweiten Weltkrieg.",
+      "en": "It was one of the first practical steps toward European integration after the Second World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "coal-steel-peace-project",
+        "year": 1952,
+        "title": {
+          "ru": "Уголь и сталь как проект мира",
+          "de": "Kohle und Stahl als Friedensprojekt",
+          "en": "Coal and steel as a peace project"
+        },
+        "description": {
+          "ru": "Уголь и сталь были важны для промышленности и войны. Идея объединения этих отраслей должна была сделать новую войну между участниками менее вероятной.",
+          "de": "Kohle und Stahl waren wichtig fuer Industrie und Krieg. Die gemeinsame Organisation dieser Bereiche sollte einen neuen Krieg zwischen den Beteiligten unwahrscheinlicher machen.",
+          "en": "Coal and steel were important for industry and war. Placing these sectors under a shared framework was meant to make another war between the members less likely."
+        },
+        "importance": {
+          "ru": "Так послевоенная Германия постепенно возвращалась в европейское сотрудничество.",
+          "de": "So kehrte die Nachkriegs-Bundesrepublik schrittweise in die europaeische Zusammenarbeit zurueck.",
+          "en": "Postwar West Germany gradually returned to European cooperation through this process."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Договор ЕОУС был рассчитан на 50 лет и истёк 23 июля 2002 года.",
+    "de": "Der EGKS-Vertrag war auf 50 Jahre angelegt und lief am 23. Juli 2002 aus.",
+    "en": "The ECSC Treaty was designed for 50 years and expired on 23 July 2002."
+  },
+  "sources": [
+    {
+      "label": "European Parliament: Treaty of Paris",
+      "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-paris"
+    },
+    {
+      "label": "European Union: founding agreements",
+      "url": "https://european-union.europa.eu/principles-countries-history/principles-and-values/founding-agreements_en"
+    }
+  ]
+}
