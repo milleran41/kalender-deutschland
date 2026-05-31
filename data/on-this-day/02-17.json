@@ -1,0 +1,90 @@
+{
+  "date": "02-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1962-hamburg-north-sea-flood",
+    "year": 1962,
+    "title": {
+      "ru": "Гамбург пережил катастрофическое наводнение",
+      "de": "Hamburg erlebt eine katastrophale Sturmflut",
+      "en": "Hamburg suffers a catastrophic storm surge"
+    },
+    "description": {
+      "ru": "В ночь с 16 на 17 февраля 1962 года штормовой нагон воды прорвал дамбы в Гамбурге и на побережье Северного моря. В одном только Гамбурге погибли сотни людей, особенно сильно пострадал район Вильгельмсбург.",
+      "de": "In der Nacht vom 16. auf den 17. Februar 1962 brach eine Sturmflut Deiche in Hamburg und an der Nordseekueste. Allein in Hamburg starben Hunderte Menschen, besonders schwer traf es Wilhelmsburg.",
+      "en": "On the night of 16 to 17 February 1962, a storm surge broke dikes in Hamburg and along the North Sea coast. Hundreds died in Hamburg alone, with Wilhelmsburg hit especially hard."
+    },
+    "importance": {
+      "ru": "Катастрофа изменила защиту от наводнений в Гамбурге и стала важным уроком для городского управления в чрезвычайных ситуациях.",
+      "de": "Die Katastrophe veraenderte den Hochwasserschutz in Hamburg und wurde zu einer wichtigen Lehre fuer staedtisches Krisenmanagement.",
+      "en": "The disaster changed flood protection in Hamburg and became an important lesson for urban crisis management."
+    }
+  },
+  "categories": {
+    "weather": [
+      {
+        "id": "storm-vincinette-and-dikes",
+        "year": 1962,
+        "title": {
+          "ru": "Шторм, прилив и дамбы",
+          "de": "Sturm, Tide und Deiche",
+          "en": "Storm, tide and dikes"
+        },
+        "description": {
+          "ru": "Опасность возникла из-за сочетания сильного шторма, высокого прилива и уязвимых дамб. Вода пришла ночью, когда многие жители не успели вовремя получить предупреждение.",
+          "de": "Die Gefahr entstand aus dem Zusammenspiel von starkem Sturm, hoher Tide und verwundbaren Deichen. Das Wasser kam nachts, als viele Bewohner nicht rechtzeitig gewarnt wurden.",
+          "en": "The danger came from the combination of a powerful storm, high tide and vulnerable dikes. The water arrived at night, when many residents were not warned in time."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как природное явление становится катастрофой из-за слабой подготовки.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie ein Naturereignis durch schlechte Vorbereitung zur Katastrophe wird.",
+          "en": "It is a good example of how a natural event becomes a disaster because of weak preparation."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "helmut-schmidt-crisis",
+        "year": 1962,
+        "title": {
+          "ru": "Кризис и Гельмут Шмидт",
+          "de": "Krise und Helmut Schmidt",
+          "en": "Crisis and Helmut Schmidt"
+        },
+        "description": {
+          "ru": "Гамбургский сенатор внутренних дел Гельмут Шмидт организовывал спасательные работы и привлекал помощь, включая военных. Позже его действия стали важной частью его политической репутации.",
+          "de": "Hamburgs Innensenator Helmut Schmidt organisierte Rettungsmassnahmen und zog Hilfe hinzu, auch durch das Militaer. Spaeter wurden seine Entscheidungen zu einem wichtigen Teil seines politischen Rufes.",
+          "en": "Hamburg's Interior Senator Helmut Schmidt organized rescue efforts and brought in help, including military assistance. His decisions later became an important part of his political reputation."
+        },
+        "importance": {
+          "ru": "Дата показывает, как чрезвычайная ситуация может выявить сильные и слабые стороны государства.",
+          "de": "Das Datum zeigt, wie eine Notsituation Staerken und Schwaechen des Staates sichtbar machen kann.",
+          "en": "The date shows how an emergency can reveal the strengths and weaknesses of the state."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После наводнения Гамбург значительно усилил систему дамб и защиты от штормовых нагонов.",
+    "de": "Nach der Flut baute Hamburg sein System aus Deichen und Sturmflutschutz deutlich aus.",
+    "en": "After the flood, Hamburg greatly strengthened its system of dikes and storm-surge protection."
+  },
+  "sources": [
+    {
+      "label": "NDR: Sturmflut in Hamburg 1962",
+      "url": "https://www.ndr.de/geschichte/chronologie/sturmflut-1962-als-hamburg-im-wasser-versank,grossesturmflut2.html"
+    },
+    {
+      "label": "hamburg.de: Hamburger Sturmflut 1962",
+      "url": "https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/wasser/hochwasser/hamburger-sturmflut-1962"
+    },
+    {
+      "label": "Environment & Society Portal: The Great Flood of 1962 in Hamburg",
+      "url": "https://www.environmentandsociety.org/arcadia/great-flood-1962-hamburg"
+    }
+  ]
+}

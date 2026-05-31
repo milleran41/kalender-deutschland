@@ -1,0 +1,90 @@
+{
+  "date": "10-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1950-himmerod-meeting-begins",
+    "year": 1950,
+    "title": {
+      "ru": "Началась тайная встреча в Химмероде",
+      "de": "Die geheime Tagung in Himmerod beginnt",
+      "en": "The secret meeting at Himmerod begins"
+    },
+    "description": {
+      "ru": "5 октября 1950 года в монастыре Химмерод началась встреча бывших немецких офицеров, подготовленная по поручению канцлера Конрада Аденауэра. Участники обсуждали возможное перевооружение ФРГ в условиях холодной войны.",
+      "de": "Am 5. Oktober 1950 begann im Kloster Himmerod eine Tagung ehemaliger deutscher Offiziere, vorbereitet im Auftrag von Bundeskanzler Konrad Adenauer. Die Teilnehmer diskutierten eine moegliche Wiederbewaffnung der Bundesrepublik im Kalten Krieg.",
+      "en": "On 5 October 1950, a meeting of former German officers began at Himmerod Abbey, prepared on behalf of Chancellor Konrad Adenauer. The participants discussed possible West German rearmament in the Cold War."
+    },
+    "importance": {
+      "ru": "Химмеродская записка стала одним из ранних документов на пути к созданию Бундесвера.",
+      "de": "Die Himmeroder Denkschrift wurde zu einem fruehen Dokument auf dem Weg zur Gruendung der Bundeswehr.",
+      "en": "The Himmerod memorandum became an early document on the road to the creation of the Bundeswehr."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "west-german-rearmament-debate",
+        "year": 1950,
+        "title": {
+          "ru": "Спор о новой армии",
+          "de": "Streit um eine neue Armee",
+          "en": "Debate over a new army"
+        },
+        "description": {
+          "ru": "После Второй мировой войны ФРГ сначала не имела собственных вооружённых сил. Корейская война и страх перед СССР усилили давление союзников и внутри страны в пользу оборонного вклада Западной Германии.",
+          "de": "Nach dem Zweiten Weltkrieg hatte die Bundesrepublik zunaechst keine eigenen Streitkraefte. Der Koreakrieg und die Angst vor der Sowjetunion verstaerkten den Druck der Alliierten und im Inland fuer einen westdeutschen Verteidigungsbeitrag.",
+          "en": "After the Second World War, the Federal Republic initially had no armed forces of its own. The Korean War and fear of the Soviet Union increased Allied and domestic pressure for a West German defense contribution."
+        },
+        "importance": {
+          "ru": "Дата показывает, насколько сложным был вопрос армии в стране, только что вышедшей из нацистской войны.",
+          "de": "Das Datum zeigt, wie schwierig die Armeefrage in einem Land war, das gerade aus dem NS-Krieg kam.",
+          "en": "The date shows how difficult the military question was in a country that had just emerged from the Nazi war."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "monastery-and-rearmament",
+        "year": 1950,
+        "title": {
+          "ru": "Монастырь и военные планы",
+          "de": "Kloster und Militaerplaene",
+          "en": "A monastery and military plans"
+        },
+        "description": {
+          "ru": "Само место встречи звучит необычно: будущие основы армии обсуждали не в казарме, а в монастыре в Айфеле. Поэтому название Химмерод стало коротким символом раннего перевооружения ФРГ.",
+          "de": "Der Tagungsort wirkt ungewoehnlich: Grundlagen einer kuenftigen Armee wurden nicht in einer Kaserne, sondern in einem Kloster in der Eifel diskutiert. So wurde der Name Himmerod zu einem kurzen Symbol der fruehen Wiederbewaffnung.",
+          "en": "The meeting place sounds unusual: foundations for a future army were discussed not in a barracks, but in an abbey in the Eifel. The name Himmerod thus became a compact symbol of early West German rearmament."
+        },
+        "importance": {
+          "ru": "Такая деталь делает сухую тему безопасности более запоминающейся.",
+          "de": "Dieses Detail macht ein trockenes Sicherheitsthema einpraegsamer.",
+          "en": "This detail makes a dry security topic easier to remember."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первые солдаты Бундесвера поступили на службу только в 1955 году.",
+    "de": "Die ersten Soldaten der Bundeswehr traten erst 1955 ihren Dienst an.",
+    "en": "The first Bundeswehr soldiers entered service only in 1955."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Grundlegung der Bundeswehr",
+      "url": "https://www.bundesarchiv.de/staat-militaer-und-gesellschaft/streitkraefte-demokratie-rechtsstaat/grundlegung-der-bundeswehr/"
+    },
+    {
+      "label": "Bundesarchiv: Erste Ueberlegungen zu einer Wiederbewaffnung",
+      "url": "https://www.bundesarchiv.de/staat-militaer-und-gesellschaft/streitkraefte-demokratie-rechtsstaat/erste-ueberlegungen-zu-einer-wiederbewaffnung/"
+    },
+    {
+      "label": "Bundestag: 65 Jahre Bundeswehr, Himmerod",
+      "url": "https://www.bundestag.de/parlament/wehrbeauftragter/reden/20201103-dbwv-809034"
+    }
+  ]
+}

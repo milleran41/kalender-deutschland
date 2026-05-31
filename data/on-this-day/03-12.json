@@ -1,0 +1,90 @@
+{
+  "date": "03-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1938-anschluss-austria",
+    "year": 1938,
+    "title": {
+      "ru": "Германские войска вошли в Австрию",
+      "de": "Deutsche Truppen marschieren in Oesterreich ein",
+      "en": "German troops enter Austria"
+    },
+    "description": {
+      "ru": "12 марта 1938 года войска нацистской Германии вошли в Австрию. Это стало началом аншлюса, то есть включения Австрии в состав Германского рейха.",
+      "de": "Am 12. Maerz 1938 marschierten Truppen des nationalsozialistischen Deutschlands in Oesterreich ein. Damit begann der Anschluss, also die Eingliederung Oesterreichs in das Deutsche Reich.",
+      "en": "On 12 March 1938, troops of Nazi Germany entered Austria. This marked the beginning of the Anschluss, the incorporation of Austria into the German Reich."
+    },
+    "importance": {
+      "ru": "Аншлюс был первым крупным территориальным успехом гитлеровской экспансии в Европе.",
+      "de": "Der Anschluss war der erste grosse territoriale Erfolg der hitlerschen Expansion in Europa.",
+      "en": "The Anschluss was the first major territorial success of Hitler's expansion in Europe."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "expansion-before-war",
+        "year": 1938,
+        "title": {
+          "ru": "Шаг к большой войне",
+          "de": "Ein Schritt zum grossen Krieg",
+          "en": "A step toward a larger war"
+        },
+        "description": {
+          "ru": "До начала Второй мировой войны Германия постепенно разрушала европейский порядок, созданный после 1918 года. Аншлюс показал, что угрозы и военное давление могут изменить карту без немедленной войны.",
+          "de": "Vor Beginn des Zweiten Weltkriegs zerstoerte Deutschland schrittweise die europaeische Ordnung nach 1918. Der Anschluss zeigte, dass Drohungen und militaerischer Druck die Karte ohne sofortigen Krieg veraendern konnten.",
+          "en": "Before the Second World War began, Germany gradually destroyed the European order created after 1918. The Anschluss showed that threats and military pressure could change the map without immediate war."
+        },
+        "importance": {
+          "ru": "Так становится понятнее, почему политика уступок Гитлеру в 1938 году оказалась опасной.",
+          "de": "So wird verstaendlicher, warum die Politik der Zugestaendnisse an Hitler 1938 gefaehrlich war.",
+          "en": "This helps explain why making concessions to Hitler in 1938 proved dangerous."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "propaganda-and-plebiscite",
+        "year": 1938,
+        "title": {
+          "ru": "Голосование после факта",
+          "de": "Abstimmung nach vollendeten Tatsachen",
+          "en": "A vote after the fact"
+        },
+        "description": {
+          "ru": "Позднее нацисты провели плебисцит, который должен был показать массовую поддержку аншлюса. Но голосование проходило уже после ввода войск, арестов и мощной пропаганды.",
+          "de": "Spaeter organisierten die Nationalsozialisten eine Volksabstimmung, die breite Zustimmung zum Anschluss zeigen sollte. Sie fand jedoch nach dem Einmarsch, nach Verhaftungen und unter massiver Propaganda statt.",
+          "en": "The Nazis later held a plebiscite meant to show broad support for the Anschluss. But it took place after the troop entry, arrests and massive propaganda."
+        },
+        "importance": {
+          "ru": "Это напоминает, что цифры голосования без свободных условий могут вводить в заблуждение.",
+          "de": "Das erinnert daran, dass Abstimmungszahlen ohne freie Bedingungen in die Irre fuehren koennen.",
+          "en": "It is a reminder that voting figures can mislead when conditions are not free."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "13 марта 1938 года был принят закон о «воссоединении» Австрии с Германским рейхом.",
+    "de": "Am 13. Maerz 1938 wurde das Gesetz ueber die Wiedervereinigung Oesterreichs mit dem Deutschen Reich beschlossen.",
+    "en": "On 13 March 1938, the law on the 'reunification' of Austria with the German Reich was passed."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Unternehmen Otto",
+      "url": "https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/unternehmen-otto-der-einmarsch-deutscher-truppen-in-oesterreich-am-12-maerz-1938/"
+    },
+    {
+      "label": "USHMM: Nazi Territorial Aggression, the Anschluss",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-territorial-aggression-the-anschluss"
+    },
+    {
+      "label": "Britannica: Austria, Anschluss and World War II",
+      "url": "https://www.britannica.com/place/Austria/Anschluss-and-World-War-II"
+    }
+  ]
+}
