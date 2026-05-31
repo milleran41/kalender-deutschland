@@ -1,0 +1,65 @@
+{
+  "date": "06-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2006-world-cup-opens-germany",
+    "year": 2006,
+    "title": {
+      "ru": "В Германии открылся чемпионат мира по футболу 2006 года",
+      "de": "Die Fussball-Weltmeisterschaft 2006 in Deutschland beginnt",
+      "en": "The 2006 FIFA World Cup opens in Germany"
+    },
+    "description": {
+      "ru": "9 июня 2006 года в Мюнхене начался чемпионат мира по футболу в Германии. В первом матче Германия победила Коста-Рику со счётом 4:2.",
+      "de": "Am 9. Juni 2006 begann in Muenchen die Fussball-Weltmeisterschaft in Deutschland. Im Auftaktspiel besiegte Deutschland Costa Rica mit 4:2.",
+      "en": "On 9 June 2006, the FIFA World Cup in Germany opened in Munich. In the opening match, Germany defeated Costa Rica 4-2."
+    },
+    "importance": {
+      "ru": "Турнир стал для объединённой Германии большим праздником и частью нового, более открытого образа страны.",
+      "de": "Das Turnier wurde fuer das vereinte Deutschland zu einem grossen Fest und Teil eines neuen, offeneren Landesbildes.",
+      "en": "The tournament became a major celebration for reunified Germany and part of a new, more open image of the country."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "summer-fairytale",
+        "year": 2006,
+        "title": {
+          "ru": "«Летняя сказка»",
+          "de": "Das Sommermaerchen",
+          "en": "The summer fairytale"
+        },
+        "description": {
+          "ru": "Чемпионат 2006 года в Германии часто называют «летней сказкой». Улицы, фан-зоны и флаги сделали спорт частью городской культуры и общего настроения.",
+          "de": "Die Weltmeisterschaft 2006 in Deutschland wird oft Sommermaerchen genannt. Strassen, Fanmeilen und Flaggen machten den Sport zu einem Teil von Stadtkultur und gemeinsamer Stimmung.",
+          "en": "The 2006 World Cup in Germany is often called the summer fairytale. Streets, fan zones and flags made sport part of urban culture and shared mood."
+        },
+        "importance": {
+          "ru": "Это более лёгкая дата о том, как спорт меняет атмосферу страны.",
+          "de": "Das ist ein leichteres Datum darueber, wie Sport die Stimmung eines Landes veraendert.",
+          "en": "It is a lighter date about how sport changes a country's atmosphere."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Девиз турнира звучал по-английски: «A time to make friends».",
+    "de": "Das Motto des Turniers lautete auf Englisch: A time to make friends.",
+    "en": "The tournament motto was: A time to make friends."
+  },
+  "sources": [
+    {
+      "label": "FIFA: Germany v Costa Rica 2006",
+      "url": "https://www.plus.fifa.com/en/content/germany-v-costa-rica-or-group-a-or-2006-fifa-world-cup/5fd8e920-cdd8-4408-b163-47c7497d8744"
+    },
+    {
+      "label": "FIFA: Remembering Germany 2006",
+      "url": "https://inside.fifa.com/en/tournaments/mens/worldcup/2006germany/news/en/news/remembering-germany-2006-in-all-its-glory-2804741"
+    }
+  ]
+}

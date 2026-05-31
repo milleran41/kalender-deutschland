@@ -1,0 +1,65 @@
+{
+  "date": "05-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1935-first-reichsautobahn-section",
+    "year": 1935,
+    "title": {
+      "ru": "Открыт первый участок рейхсавтобана",
+      "de": "Der erste Abschnitt der Reichsautobahn wird eroeffnet",
+      "en": "The first Reichsautobahn section opens"
+    },
+    "description": {
+      "ru": "19 мая 1935 года был открыт участок автобана между Франкфуртом и Дармштадтом. Нацистская пропаганда представляла автобаны как собственное достижение режима, хотя идеи скоростных дорог появились раньше.",
+      "de": "Am 19. Mai 1935 wurde der Autobahnabschnitt zwischen Frankfurt und Darmstadt eroeffnet. Die NS-Propaganda stellte Autobahnen als eigene Leistung des Regimes dar, obwohl Ideen fuer Schnellstrassen aelter waren.",
+      "en": "On 19 May 1935, the autobahn section between Frankfurt and Darmstadt opened. Nazi propaganda presented autobahns as the regime's own achievement, although ideas for high-speed roads were older."
+    },
+    "importance": {
+      "ru": "Дата помогает отличать историю техники от политической пропаганды, которая присваивала себе эту технику.",
+      "de": "Das Datum hilft, Technikgeschichte von politischer Propaganda zu unterscheiden, die diese Technik fuer sich beanspruchte.",
+      "en": "The date helps distinguish technological history from political propaganda that claimed the technology for itself."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "autobahn-before-and-after-1933",
+        "year": 1935,
+        "title": {
+          "ru": "Дороги, автомобили и режим",
+          "de": "Strassen, Autos und Regime",
+          "en": "Roads, cars and regime"
+        },
+        "description": {
+          "ru": "Автобаны стали важной частью немецкой транспортной истории, но их образ был сильно политизирован. До этого уже существовала дорога Кёльн-Бонн, открытая в 1932 году.",
+          "de": "Autobahnen wurden zu einem wichtigen Teil deutscher Verkehrsgeschichte, doch ihr Bild war stark politisiert. Bereits 1932 gab es die Strecke Koeln-Bonn.",
+          "en": "Autobahns became an important part of German transport history, but their image was heavily politicized. The Cologne-Bonn road had already opened in 1932."
+        },
+        "importance": {
+          "ru": "Так можно показать, что технологии имеют не только инженерную, но и политическую биографию.",
+          "de": "So laesst sich zeigen, dass Technik nicht nur eine technische, sondern auch eine politische Biografie hat.",
+          "en": "This shows that technologies have not only technical but also political biographies."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Участок Франкфурт-Дармштадт стал частью мифа об автобанах, который режим активно использовал в пропаганде.",
+    "de": "Der Abschnitt Frankfurt-Darmstadt wurde Teil des Autobahn-Mythos, den das Regime intensiv propagandistisch nutzte.",
+    "en": "The Frankfurt-Darmstadt section became part of the autobahn myth that the regime used heavily in propaganda."
+  },
+  "sources": [
+    {
+      "label": "LAGIS Hessen: Opening of Frankfurt-Darmstadt Reichsautobahn",
+      "url": "https://lagis.hessen.de/de/quellen-und-materialien/historische-bilddokumente/alle-eintraege/113-009_adolf-hitler-bei-der-der-eroeffnung-der-reichsautobahn-frankfurt-darmstadt-19-mai-1935"
+    },
+    {
+      "label": "FHWA: The Reichsautobahnen",
+      "url": "https://highways.dot.gov/highway-history/interstate-system/reichsautobahnen"
+    }
+  ]
+}

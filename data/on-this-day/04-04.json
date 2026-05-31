@@ -1,0 +1,65 @@
+{
+  "date": "04-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-nato-founded",
+    "year": 1949,
+    "title": {
+      "ru": "Подписан Североатлантический договор",
+      "de": "Der Nordatlantikvertrag wird unterzeichnet",
+      "en": "The North Atlantic Treaty is signed"
+    },
+    "description": {
+      "ru": "4 апреля 1949 года в Вашингтоне был подписан Североатлантический договор, положивший начало НАТО. Федеративная Республика Германия вступила в альянс позднее, в 1955 году.",
+      "de": "Am 4. April 1949 wurde in Washington der Nordatlantikvertrag unterzeichnet, mit dem die NATO entstand. Die Bundesrepublik Deutschland trat dem Buendnis spaeter, 1955, bei.",
+      "en": "On 4 April 1949, the North Atlantic Treaty was signed in Washington, creating NATO. The Federal Republic of Germany joined the alliance later, in 1955."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания западной интеграции ФРГ и военного устройства Европы в холодную войну.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis der Westintegration der Bundesrepublik und der militaerischen Ordnung Europas im Kalten Krieg.",
+      "en": "The date is important for understanding West Germany's integration with the West and Europe's military order during the Cold War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "west-germany-nato-1955",
+        "year": 1955,
+        "title": {
+          "ru": "ФРГ входит в западный союз",
+          "de": "Die Bundesrepublik tritt dem westlichen Buendnis bei",
+          "en": "West Germany joins the Western alliance"
+        },
+        "description": {
+          "ru": "Вступление ФРГ в НАТО в 1955 году было связано с восстановлением суверенитета и перевооружением. Для Советского блока это стало одним из поводов к созданию Варшавского договора.",
+          "de": "Der NATO-Beitritt der Bundesrepublik 1955 hing mit Souveraenitaet und Wiederbewaffnung zusammen. Fuer den Ostblock wurde er zu einem Anlass fuer die Gruendung des Warschauer Pakts.",
+          "en": "West Germany's 1955 NATO membership was tied to sovereignty and rearmament. For the Eastern Bloc, it became one reason for creating the Warsaw Pact."
+        },
+        "importance": {
+          "ru": "Так раздел Германии стал частью более широкой системы блоков.",
+          "de": "So wurde die deutsche Teilung Teil eines groesseren Blocksystems.",
+          "en": "Germany's division became part of a wider bloc system."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Сегодня Германия остаётся членом НАТО, а Бонн и затем Берлин были важными площадками союзной политики.",
+    "de": "Deutschland ist bis heute NATO-Mitglied; Bonn und spaeter Berlin waren wichtige Orte der Buendnispolitik.",
+    "en": "Germany remains a NATO member today; Bonn and later Berlin were important places for alliance politics."
+  },
+  "sources": [
+    {
+      "label": "NATO: Founding Treaty",
+      "url": "https://www.nato.int/en/about-us/organization/founding-treaty"
+    },
+    {
+      "label": "NATO: Member countries",
+      "url": "https://www.nato.int/cps/en/natohq/topics_52044.htm"
+    }
+  ]
+}
