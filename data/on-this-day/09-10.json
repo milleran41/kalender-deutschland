@@ -1,0 +1,107 @@
+{
+  "date": "09-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-karl-lagerfeld-born",
+    "year": 1933,
+    "title": {
+      "ru": "Родился Карл Лагерфельд",
+      "de": "Karl Lagerfeld wird geboren",
+      "en": "Karl Lagerfeld is born"
+    },
+    "description": {
+      "ru": "10 сентября 1933 года в Гамбурге родился Карл Лагерфельд. Он стал одним из самых известных немецких дизайнеров моды и работал с крупными европейскими домами, включая Chanel и Fendi.",
+      "de": "Am 10. September 1933 wurde Karl Lagerfeld in Hamburg geboren. Er wurde einer der bekanntesten deutschen Modedesigner und arbeitete mit grossen europaeischen Haeusern wie Chanel und Fendi.",
+      "en": "On 10 September 1933, Karl Lagerfeld was born in Hamburg. He became one of Germany's best-known fashion designers and worked with major European houses including Chanel and Fendi."
+    },
+    "importance": {
+      "ru": "Лагерфельд показывает, что немецкая культурная история включает не только литературу и музыку, но и моду, фотографию и дизайн.",
+      "de": "Lagerfeld zeigt, dass deutsche Kulturgeschichte nicht nur Literatur und Musik, sondern auch Mode, Fotografie und Design umfasst.",
+      "en": "Lagerfeld shows that German cultural history includes not only literature and music but also fashion, photography and design."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "lagerfeld-fashion-design",
+        "year": 1983,
+        "title": {
+          "ru": "Chanel, Fendi и узнаваемый стиль",
+          "de": "Chanel, Fendi und ein wiedererkennbarer Stil",
+          "en": "Chanel, Fendi and a recognizable style"
+        },
+        "description": {
+          "ru": "Лагерфельд десятилетиями работал в высокой моде и стал известен умением обновлять старые марки. Его собственный образ - тёмные очки, белые волосы и высокий воротник - тоже стал частью поп-культуры.",
+          "de": "Lagerfeld arbeitete jahrzehntelang in der Haute Couture und wurde dafuer bekannt, alte Marken neu zu beleben. Auch sein eigener Look mit dunkler Brille, weissem Haar und hohem Kragen wurde Teil der Popkultur.",
+          "en": "Lagerfeld worked in high fashion for decades and became known for reviving older brands. His own look, with dark glasses, white hair and high collars, also became part of pop culture."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как дизайнер может стать не только автором вещей, но и культурным символом.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie ein Designer nicht nur Dinge entwirft, sondern selbst zum kulturellen Zeichen wird.",
+          "en": "It is a good example of how a designer can become not only a maker of things but also a cultural symbol."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "lagerfeld-hamburg-paris",
+        "year": 1933,
+        "title": {
+          "ru": "Из Гамбурга в Париж",
+          "de": "Von Hamburg nach Paris",
+          "en": "From Hamburg to Paris"
+        },
+        "description": {
+          "ru": "Лагерфельд родился в Гамбурге, но карьеру строил прежде всего во Франции и Италии. Его биография показывает, как немецкие творческие люди работали в общеевропейском культурном пространстве.",
+          "de": "Lagerfeld wurde in Hamburg geboren, machte seine Karriere aber vor allem in Frankreich und Italien. Seine Biografie zeigt, wie deutsche Kreative in einem gesamteuropaeischen Kulturraum arbeiteten.",
+          "en": "Lagerfeld was born in Hamburg but built his career mainly in France and Italy. His biography shows how German creatives worked in a wider European cultural space."
+        },
+        "importance": {
+          "ru": "Культура часто пересекает границы быстрее, чем политика.",
+          "de": "Kultur ueberschreitet Grenzen oft schneller als Politik.",
+          "en": "Culture often crosses borders faster than politics."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "lagerfeld-birth-year-mystery",
+        "year": 1933,
+        "title": {
+          "ru": "Возраст как часть легенды",
+          "de": "Das Alter als Teil der Legende",
+          "en": "Age as part of the legend"
+        },
+        "description": {
+          "ru": "Вокруг года рождения Лагерфельда долго ходили разные версии, хотя обычно указывают 1933 год. Даже эта путаница стала частью его тщательно созданного публичного образа.",
+          "de": "Um Lagerfelds Geburtsjahr kursierten lange verschiedene Angaben, obwohl meist 1933 genannt wird. Sogar diese Unklarheit wurde Teil seines sorgfaeltig gestalteten oeffentlichen Bildes.",
+          "en": "Different versions of Lagerfeld's birth year circulated for a long time, though 1933 is usually given. Even this uncertainty became part of his carefully crafted public image."
+        },
+        "importance": {
+          "ru": "Редкий случай, когда биографическая деталь сама становится элементом стиля.",
+          "de": "Ein seltener Fall, in dem ein biografisches Detail selbst zum Teil des Stils wird.",
+          "en": "A rare case in which a biographical detail itself becomes part of the style."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Карл Лагерфельд был не только дизайнером, но и фотографом, издателем и коллекционером книг.",
+    "de": "Karl Lagerfeld war nicht nur Designer, sondern auch Fotograf, Verleger und Buechersammler.",
+    "en": "Karl Lagerfeld was not only a designer but also a photographer, publisher and book collector."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Karl Lagerfeld",
+      "url": "https://www.britannica.com/biography/Karl-Lagerfeld"
+    },
+    {
+      "label": "Fashion Headline: Karl Lagerfeld birthday",
+      "url": "https://www.fashion-headline.com/en/article/7819"
+    }
+  ]
+}

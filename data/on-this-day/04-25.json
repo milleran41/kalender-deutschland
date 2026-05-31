@@ -1,0 +1,107 @@
+{
+  "date": "04-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1931-porsche-registered",
+    "year": 1931,
+    "title": {
+      "ru": "Porsche зарегистрирована в Штутгарте",
+      "de": "Porsche wird in Stuttgart eingetragen",
+      "en": "Porsche is registered in Stuttgart"
+    },
+    "description": {
+      "ru": "25 апреля 1931 года фирма Porsche была внесена в торговый реестр Штутгарта как конструкторское бюро для двигателей и транспортных средств. Сначала это была не фабрика спорткаров, а инженерная компания.",
+      "de": "Am 25. April 1931 wurde Porsche als Konstruktionsbuero fuer Motoren und Fahrzeuge in das Handelsregister Stuttgart eingetragen. Zunaechst war es keine Sportwagenfabrik, sondern ein Ingenieurunternehmen.",
+      "en": "On 25 April 1931, Porsche was entered in Stuttgart's commercial register as a design office for engines and vehicles. At first it was not a sports car factory but an engineering company."
+    },
+    "importance": {
+      "ru": "Дата важна для истории автомобильной земли Баден-Вюртемберг и немецкой инженерной культуры.",
+      "de": "Das Datum ist wichtig fuer die Geschichte des Autolandes Baden-Wuerttemberg und deutscher Ingenieurkultur.",
+      "en": "The date is important for the history of automotive Baden-Wuerttemberg and German engineering culture."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1931-engineering-office",
+        "year": 1931,
+        "title": {
+          "ru": "Сначала проектирование, потом марка автомобилей",
+          "de": "Erst Konstruktion, dann Automarke",
+          "en": "Design first, car brand later"
+        },
+        "description": {
+          "ru": "Ранний Porsche занимался инженерными разработками для других заказчиков. Это напоминает, что многие известные автомобильные марки выросли из конструкторских задач, а не сразу из готовых серийных машин.",
+          "de": "Das fruehe Porsche-Buero arbeitete an technischen Entwicklungen fuer andere Auftraggeber. Das erinnert daran, dass viele bekannte Automarken aus Konstruktionsaufgaben entstanden und nicht sofort aus fertigen Serienautos.",
+          "en": "The early Porsche office worked on technical developments for other clients. It is a reminder that many famous car brands grew from design work rather than immediately from finished production cars."
+        },
+        "importance": {
+          "ru": "Так видно, как немецкое автомобилестроение опиралось на сеть инженеров, поставщиков и заказчиков.",
+          "de": "So wird sichtbar, wie der deutsche Automobilbau auf ein Netz von Ingenieuren, Zulieferern und Auftraggebern aufbaute.",
+          "en": "This shows how German carmaking relied on a network of engineers, suppliers and clients."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1875-ferdinand-porsche",
+        "year": 1875,
+        "title": {
+          "ru": "Фердинанд Порше",
+          "de": "Ferdinand Porsche",
+          "en": "Ferdinand Porsche"
+        },
+        "description": {
+          "ru": "Фердинанд Порше был инженером, связанным с разными автомобильными проектами ещё до основания собственной фирмы. Его имя стало одним из самых узнаваемых в истории немецкого автопрома.",
+          "de": "Ferdinand Porsche war ein Ingenieur, der schon vor der Gruendung seiner eigenen Firma mit verschiedenen Automobilprojekten verbunden war. Sein Name wurde einer der bekanntesten in der Geschichte des deutschen Autobaus.",
+          "en": "Ferdinand Porsche was an engineer connected with various automotive projects even before founding his own firm. His name became one of the best known in the history of German carmaking."
+        },
+        "importance": {
+          "ru": "Через его биографию видна связь изобретательства, дизайна и промышленности.",
+          "de": "An seiner Biografie wird die Verbindung von Erfindung, Design und Industrie sichtbar.",
+          "en": "His biography shows the connection between invention, design and industry."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1931-kronenstrasse",
+        "year": 1931,
+        "title": {
+          "ru": "Начало на Kronenstrasse",
+          "de": "Anfang in der Kronenstrasse",
+          "en": "Beginning on Kronenstrasse"
+        },
+        "description": {
+          "ru": "Первая штаб-квартира фирмы находилась в Штутгарте на Kronenstrasse 24. Сегодня трудно представить, что такая всемирно известная марка начиналась как сравнительно небольшое бюро.",
+          "de": "Der erste Sitz der Firma lag in Stuttgart in der Kronenstrasse 24. Heute ist kaum vorstellbar, dass eine so weltbekannte Marke als vergleichsweise kleines Buero begann.",
+          "en": "The firm's first office was at Kronenstrasse 24 in Stuttgart. Today it is hard to imagine such a globally known brand beginning as a comparatively small office."
+        },
+        "importance": {
+          "ru": "Большие бренды часто начинаются с очень конкретного адреса на карте.",
+          "de": "Grosse Marken beginnen oft mit einer ganz konkreten Adresse auf der Karte.",
+          "en": "Big brands often begin with a very specific address on the map."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название Porsche долго было связано не только с собственными машинами, но и с инженерными разработками для других компаний.",
+    "de": "Der Name Porsche war lange nicht nur mit eigenen Autos, sondern auch mit Entwicklungsarbeit fuer andere Unternehmen verbunden.",
+    "en": "For a long time, the Porsche name was linked not only with its own cars but also with engineering work for other companies."
+  },
+  "sources": [
+    {
+      "label": "Porsche Newsroom: Milestones",
+      "url": "https://newsroom.porsche.com/de/pressemappen/Porsche-Museum/Meilensteine-der-Marke.html"
+    },
+    {
+      "label": "Porsche Christophorus: How it all began",
+      "url": "https://newsroom.porsche.com/christophorus/en/2021/398/ferdinand-porsche-engineering.html"
+    }
+  ]
+}

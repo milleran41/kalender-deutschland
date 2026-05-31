@@ -1,0 +1,86 @@
+{
+  "date": "03-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1882-beiersdorf-founded",
+    "year": 1882,
+    "title": {
+      "ru": "Дата основания Beiersdorf",
+      "de": "Gruendungsdatum von Beiersdorf",
+      "en": "Beiersdorf founding date"
+    },
+    "description": {
+      "ru": "28 марта 1882 года Пауль Байерсдорф получил патент на производство лечебных пластырей. Эта дата считается днём основания гамбургской компании Beiersdorf.",
+      "de": "Am 28. Maerz 1882 erhielt Paul Beiersdorf ein Patent fuer die Herstellung medizinischer Pflaster. Dieses Datum gilt als Gruendungsdatum des Hamburger Unternehmens Beiersdorf.",
+      "en": "On 28 March 1882, Paul Beiersdorf received a patent for manufacturing medical plasters. This date is regarded as the founding date of the Hamburg company Beiersdorf."
+    },
+    "importance": {
+      "ru": "Событие связывает немецкую аптечную практику, промышленность и историю повседневных медицинских товаров.",
+      "de": "Das Ereignis verbindet deutsche Apothekenpraxis, Industrie und die Geschichte alltaeglicher Medizinprodukte.",
+      "en": "The event links German pharmacy practice, industry and the history of everyday medical products."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1882-coated-plasters",
+        "year": 1882,
+        "title": {
+          "ru": "Пластыри как медицинская технология",
+          "de": "Pflaster als Medizintechnik",
+          "en": "Plasters as medical technology"
+        },
+        "description": {
+          "ru": "Патент Байерсдорфа касался покрытых пластырей, которые можно было производить более надёжно и удобно. Такая маленькая вещь стала важной частью современной аптечки.",
+          "de": "Beiersdorfs Patent betraf gestrichene Pflaster, die sich verlaesslicher und praktischer herstellen liessen. So ein kleines Produkt wurde zu einem wichtigen Teil moderner Hausapotheken.",
+          "en": "Beiersdorf's patent concerned coated plasters that could be produced more reliably and conveniently. Such a small product became an important part of modern first-aid kits."
+        },
+        "importance": {
+          "ru": "История техники бывает не только про машины, но и про вещи, которыми люди пользуются дома.",
+          "de": "Technikgeschichte handelt nicht nur von Maschinen, sondern auch von Dingen, die Menschen zu Hause benutzen.",
+          "en": "The history of technology is not only about machines, but also about things people use at home."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "hamburg-consumer-goods",
+        "year": 1882,
+        "title": {
+          "ru": "Гамбургская промышленная история",
+          "de": "Hamburger Industriegeschichte",
+          "en": "Hamburg industrial history"
+        },
+        "description": {
+          "ru": "Beiersdorf выросла из аптечной и лабораторной среды Гамбурга. Позже компания стала известна марками NIVEA, Eucerin, Hansaplast и Labello.",
+          "de": "Beiersdorf entstand aus dem Apotheken- und Laborumfeld Hamburgs. Spaeter wurde das Unternehmen mit Marken wie NIVEA, Eucerin, Hansaplast und Labello bekannt.",
+          "en": "Beiersdorf grew out of Hamburg's pharmacy and laboratory environment. Later the company became known for brands such as NIVEA, Eucerin, Hansaplast and Labello."
+        },
+        "importance": {
+          "ru": "Так в календаре появляется не только большая политика, но и история вещей, стоящих на полке в ванной.",
+          "de": "So erscheint im Kalender nicht nur grosse Politik, sondern auch die Geschichte von Dingen im Badezimmerregal.",
+          "en": "This adds not only high politics to the calendar, but also the history of things on a bathroom shelf."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название NIVEA происходит от латинского слова niveus - «белоснежный».",
+    "de": "Der Name NIVEA kommt vom lateinischen Wort niveus und bedeutet schneeweiss.",
+    "en": "The name NIVEA comes from the Latin word niveus, meaning snow-white."
+  },
+  "sources": [
+    {
+      "label": "Beiersdorf: Founding history",
+      "url": "https://www.beiersdorf.com/about-us/our-history/founding-history"
+    },
+    {
+      "label": "Beiersdorf: Milestones",
+      "url": "https://www.beiersdorf.com/about-us/our-history/milestones"
+    }
+  ]
+}
