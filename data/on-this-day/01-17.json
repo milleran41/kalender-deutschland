@@ -1,0 +1,90 @@
+{
+  "date": "01-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1988-east-berlin-luxemburg-demonstration-arrests",
+    "year": 1988,
+    "title": {
+      "ru": "Аресты на демонстрации в Восточном Берлине",
+      "de": "Festnahmen bei der Demonstration in Ost-Berlin",
+      "en": "Arrests at the demonstration in East Berlin"
+    },
+    "description": {
+      "ru": "17 января 1988 года оппозиционеры и желающие выехать из ГДР попытались присоединиться к официальной демонстрации памяти Розы Люксембург и Карла Либкнехта в Восточном Берлине. Они несли плакаты с фразой Люксембург о свободе для тех, кто думает иначе, и были задержаны.",
+      "de": "Am 17. Januar 1988 versuchten Oppositionelle und Ausreisewillige, sich der offiziellen Gedenkdemonstration fuer Rosa Luxemburg und Karl Liebknecht in Ost-Berlin anzuschliessen. Sie trugen Plakate mit Luxemburgs Satz von der Freiheit der Andersdenkenden und wurden festgenommen.",
+      "en": "On 17 January 1988, opposition activists and people seeking to leave the GDR tried to join the official memorial demonstration for Rosa Luxemburg and Karl Liebknecht in East Berlin. They carried placards with Luxemburg's phrase about freedom for those who think differently and were arrested."
+    },
+    "importance": {
+      "ru": "Событие стало заметным сигналом кризиса ГДР: власть использовала память о революционерке, но боялась её слов о свободе.",
+      "de": "Das Ereignis wurde zu einem sichtbaren Zeichen der Krise der DDR: Der Staat nutzte die Erinnerung an eine Revolutionaerin, fuerchtete aber ihre Worte ueber Freiheit.",
+      "en": "The event became a visible sign of the GDR's crisis: the state used the memory of a revolutionary, yet feared her words about freedom."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "gdr-opposition-before-1989",
+        "year": 1988,
+        "title": {
+          "ru": "Год до мирной революции",
+          "de": "Ein Jahr vor der Friedlichen Revolution",
+          "en": "One year before the Peaceful Revolution"
+        },
+        "description": {
+          "ru": "Аресты вызвали протесты и внимание западной прессы. Для многих людей в ГДР стало ясно, что даже осторожная критика режима может привести к давлению, высылке или тюрьме.",
+          "de": "Die Festnahmen loesten Proteste aus und fanden Aufmerksamkeit in westlichen Medien. Vielen Menschen in der DDR wurde klar, dass selbst vorsichtige Kritik am Regime zu Druck, Ausweisung oder Haft fuehren konnte.",
+          "en": "The arrests triggered protests and drew attention in Western media. Many people in the GDR saw that even careful criticism of the regime could lead to pressure, expulsion or imprisonment."
+        },
+        "importance": {
+          "ru": "Дата помогает увидеть, что перемены 1989 года начались не внезапно, а росли из более раннего сопротивления.",
+          "de": "Das Datum zeigt, dass die Veraenderungen von 1989 nicht ploetzlich begannen, sondern aus frueherem Widerstand wuchsen.",
+          "en": "The date shows that the changes of 1989 did not begin suddenly, but grew out of earlier resistance."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "luxemburg-quote-against-sed",
+        "year": 1988,
+        "title": {
+          "ru": "Цитата против официального ритуала",
+          "de": "Ein Zitat gegen das offizielle Ritual",
+          "en": "A quotation against the official ritual"
+        },
+        "description": {
+          "ru": "Демонстранты использовали не антисоциалистический лозунг, а слова самой Розы Люксембург. Поэтому акция выглядела особенно неудобной для СЕПГ, которая официально почитала Люксембург.",
+          "de": "Die Demonstrierenden verwendeten keinen antisozialistischen Spruch, sondern Worte Rosa Luxemburgs selbst. Gerade deshalb war die Aktion fuer die SED besonders unangenehm, die Luxemburg offiziell verehrte.",
+          "en": "The demonstrators did not use an anti-socialist slogan, but Rosa Luxemburg's own words. That made the action especially awkward for the SED, which officially honored Luxemburg."
+        },
+        "importance": {
+          "ru": "Иногда историческая цитата может стать сильнее обычного политического плаката.",
+          "de": "Manchmal kann ein historisches Zitat staerker sein als ein normales politisches Plakat.",
+          "en": "Sometimes a historical quotation can be stronger than an ordinary political placard."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Лозунг «Свобода всегда есть свобода инакомыслящих» после 1989 года стал одним из самых известных политических выражений в Германии.",
+    "de": "Der Satz Die Freiheit ist immer die Freiheit der Andersdenkenden wurde nach 1989 zu einem der bekanntesten politischen Zitate in Deutschland.",
+    "en": "The phrase 'Freedom is always the freedom of those who think differently' became one of Germany's best-known political quotations after 1989."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Provokation beim Staatsakt",
+      "url": "https://www.bundesarchiv.de/nachricht/provokation-beim-staatsakt/"
+    },
+    {
+      "label": "Revolution 89: Freedom for those who think differently",
+      "url": "https://revolution89.de/en/awakening/arrests-and-expulsions/freedom-for-those-who-think-differently/"
+    },
+    {
+      "label": "bpb: 17. Januar 1988",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131999/17-januar-1988/"
+    }
+  ]
+}

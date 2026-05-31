@@ -1,0 +1,90 @@
+{
+  "date": "07-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1914-germany-blank-cheque-austria-hungary",
+    "year": 1914,
+    "title": {
+      "ru": "Германия дала Австро-Венгрии «бланковый чек»",
+      "de": "Deutschland gibt Oesterreich-Ungarn den Blankoscheck",
+      "en": "Germany gives Austria-Hungary the blank cheque"
+    },
+    "description": {
+      "ru": "5 июля 1914 года в Берлине германское руководство заверило Австро-Венгрию в поддержке после убийства эрцгерцога Франца Фердинанда. Эта поддержка вошла в историю как «бланковый чек».",
+      "de": "Am 5. Juli 1914 sicherte die deutsche Fuehrung in Berlin Oesterreich-Ungarn nach der Ermordung Erzherzog Franz Ferdinands Unterstuetzung zu. Diese Zusage ging als Blankoscheck in die Geschichte ein.",
+      "en": "On 5 July 1914, Germany's leadership in Berlin assured Austria-Hungary of support after the assassination of Archduke Franz Ferdinand. This assurance entered history as the 'blank cheque'."
+    },
+    "importance": {
+      "ru": "Это был один из ключевых моментов Июльского кризиса, который вскоре привёл Европу к Первой мировой войне.",
+      "de": "Dies war einer der Schluesselmomente der Julikrise, die Europa bald in den Ersten Weltkrieg fuehrte.",
+      "en": "It was one of the key moments of the July Crisis, which soon led Europe into the First World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "july-crisis-berlin-vienna",
+        "year": 1914,
+        "title": {
+          "ru": "Июльский кризис",
+          "de": "Die Julikrise",
+          "en": "The July Crisis"
+        },
+        "description": {
+          "ru": "После Сараевского убийства европейские державы принимали решения под давлением союзов, страха и военных планов. Поддержка Берлина сделала позицию Вены жёстче в конфликте с Сербией.",
+          "de": "Nach dem Attentat von Sarajevo entschieden die europaeischen Maechte unter dem Druck von Buendnissen, Angst und Kriegsplaenen. Die Unterstuetzung Berlins machte Wiens Haltung im Konflikt mit Serbien haerter.",
+          "en": "After the Sarajevo assassination, European powers made decisions under the pressure of alliances, fear and military plans. Berlin's support hardened Vienna's position in its conflict with Serbia."
+        },
+        "importance": {
+          "ru": "Дата показывает, как дипломатические обещания могут запустить цепочку событий с огромными последствиями.",
+          "de": "Das Datum zeigt, wie diplomatische Zusagen eine Kette von Ereignissen mit riesigen Folgen ausloesen koennen.",
+          "en": "The date shows how diplomatic promises can set off a chain of events with enormous consequences."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "blank-cheque-metaphor",
+        "year": 1914,
+        "title": {
+          "ru": "Почему «чек»?",
+          "de": "Warum ein Scheck?",
+          "en": "Why a cheque?"
+        },
+        "description": {
+          "ru": "Речь шла не о настоящем банковском чеке, а о метафоре: Австро-Венгрия получила ощущение, что Германия поддержит её почти при любом развитии событий. Поэтому выражение стало таким запоминающимся.",
+          "de": "Gemeint war kein echter Bankscheck, sondern eine Metapher: Oesterreich-Ungarn gewann den Eindruck, dass Deutschland es fast bei jeder Entwicklung unterstuetzen wuerde. Darum blieb der Ausdruck so einpraegsam.",
+          "en": "It was not a real bank cheque, but a metaphor: Austria-Hungary gained the impression that Germany would support it in almost any development. That is why the expression became so memorable."
+        },
+        "importance": {
+          "ru": "Иногда простая метафора помогает понять сложный дипломатический кризис.",
+          "de": "Manchmal hilft eine einfache Metapher, eine komplizierte diplomatische Krise zu verstehen.",
+          "en": "Sometimes a simple metaphor helps explain a complicated diplomatic crisis."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через несколько недель после «бланкового чека» локальный конфликт на Балканах превратился в общеевропейскую войну.",
+    "de": "Nur wenige Wochen nach dem Blankoscheck wurde aus einem lokalen Konflikt auf dem Balkan ein europaeischer Krieg.",
+    "en": "Only weeks after the blank cheque, a local conflict in the Balkans turned into a European war."
+  },
+  "sources": [
+    {
+      "label": "1914-1918 Online: Germany's Blank Cheque",
+      "url": "https://encyclopedia.1914-1918-online.net/article/germanys-blank-cheque-to-austria-hungary/"
+    },
+    {
+      "label": "Britannica: The outbreak of World War I",
+      "url": "https://www.britannica.com/place/German-Empire/The-outbreak-of-World-War-I"
+    },
+    {
+      "label": "GHDI: The Blank Check",
+      "url": "https://ghdi.ghi-dc.org/pdf/eng/622_The%20Blank%20Check_126.pdf"
+    }
+  ]
+}

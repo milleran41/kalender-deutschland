@@ -1,0 +1,90 @@
+{
+  "date": "08-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-battle-of-amiens-black-day-german-army",
+    "year": 1918,
+    "title": {
+      "ru": "«Чёрный день» германской армии",
+      "de": "Der schwarze Tag des deutschen Heeres",
+      "en": "The black day of the German Army"
+    },
+    "description": {
+      "ru": "8 августа 1918 года началась битва при Амьене. Союзники прорвали немецкие позиции, а генерал Эрих Людендорф позже назвал этот день «чёрным днём германской армии».",
+      "de": "Am 8. August 1918 begann die Schlacht bei Amiens. Die Alliierten durchbrachen deutsche Stellungen, und General Erich Ludendorff nannte diesen Tag spaeter den schwarzen Tag des deutschen Heeres.",
+      "en": "On 8 August 1918, the Battle of Amiens began. The Allies broke through German positions, and General Erich Ludendorff later called the day the black day of the German Army."
+    },
+    "importance": {
+      "ru": "Амьен стал началом Стодневного наступления союзников, которое привело к поражению Германии и перемирию 11 ноября 1918 года.",
+      "de": "Amiens wurde zum Beginn der Hunderttageoffensive der Alliierten, die zur Niederlage Deutschlands und zum Waffenstillstand vom 11. November 1918 fuehrte.",
+      "en": "Amiens marked the beginning of the Allied Hundred Days Offensive, which led to Germany's defeat and the armistice of 11 November 1918."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "hundred-days-offensive-begins",
+        "year": 1918,
+        "title": {
+          "ru": "Начало конца Первой мировой",
+          "de": "Anfang vom Ende des Ersten Weltkriegs",
+          "en": "The beginning of the end of the First World War"
+        },
+        "description": {
+          "ru": "К лету 1918 года немецкая весенняя атака выдохлась, а союзники получили инициативу. Амьен показал, что германская армия больше не может удерживать фронт как раньше.",
+          "de": "Bis zum Sommer 1918 war die deutsche Fruehjahrsoffensive erschoepft, waehrend die Alliierten die Initiative gewannen. Amiens zeigte, dass das deutsche Heer die Front nicht mehr wie zuvor halten konnte.",
+          "en": "By summer 1918, the German spring offensive had run out of force while the Allies gained the initiative. Amiens showed that the German army could no longer hold the front as before."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, почему осенью 1918 года военный кризис так быстро перешёл в политический.",
+          "de": "Das Datum hilft zu verstehen, warum die militaerische Krise im Herbst 1918 so schnell politisch wurde.",
+          "en": "The date helps explain why the military crisis in autumn 1918 so quickly became political."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "ludendorff-phrase",
+        "year": 1918,
+        "title": {
+          "ru": "Фраза, ставшая символом",
+          "de": "Ein Satz wird zum Symbol",
+          "en": "A phrase becomes a symbol"
+        },
+        "description": {
+          "ru": "Выражение Людендорфа стало знаменитым потому, что передавало не только военное поражение, но и моральный надлом. Для командования это был знак, что прежняя уверенность исчезла.",
+          "de": "Ludendorffs Formulierung wurde beruehmt, weil sie nicht nur eine militaerische Niederlage, sondern auch einen moralischen Bruch ausdrueckte. Fuer die Fuehrung war es ein Zeichen, dass die fruehere Sicherheit verschwunden war.",
+          "en": "Ludendorff's phrase became famous because it expressed not only a military defeat, but also a collapse in morale. For the leadership, it was a sign that earlier confidence had vanished."
+        },
+        "importance": {
+          "ru": "Иногда одно выражение запоминается сильнее, чем длинное описание битвы.",
+          "de": "Manchmal bleibt ein einziger Ausdruck staerker im Gedaechtnis als eine lange Schlachtbeschreibung.",
+          "en": "Sometimes one phrase is remembered more strongly than a long description of a battle."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Битва при Амьене продолжалась с 8 по 11 августа 1918 года.",
+    "de": "Die Schlacht bei Amiens dauerte vom 8. bis zum 11. August 1918.",
+    "en": "The Battle of Amiens lasted from 8 to 11 August 1918."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Battle of Amiens",
+      "url": "https://www.britannica.com/event/Battle-of-Amiens"
+    },
+    {
+      "label": "Australian War Memorial: The Battle of Amiens",
+      "url": "https://www.awm.gov.au/visit/exhibitions/1918/battles/amiens"
+    },
+    {
+      "label": "National WWI Museum: Hundred Days Offensive",
+      "url": "https://www.theworldwar.org/learn/about-wwi/hundred-days-offensive"
+    }
+  ]
+}
