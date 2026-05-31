@@ -1,0 +1,90 @@
+{
+  "date": "12-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1963-frankfurt-auschwitz-trial-begins",
+    "year": 1963,
+    "title": {
+      "ru": "Начался Франкфуртский процесс по Освенциму",
+      "de": "Der Frankfurter Auschwitz-Prozess beginnt",
+      "en": "The Frankfurt Auschwitz trial begins"
+    },
+    "description": {
+      "ru": "20 декабря 1963 года во Франкфурте-на-Майне начался первый Франкфуртский процесс по Освенциму. Перед судом предстали бывшие сотрудники лагеря Auschwitz-Birkenau.",
+      "de": "Am 20. Dezember 1963 begann in Frankfurt am Main der erste Frankfurter Auschwitz-Prozess. Vor Gericht standen ehemalige Angehoerige des Lagers Auschwitz-Birkenau.",
+      "en": "On 20 December 1963, the first Frankfurt Auschwitz trial began in Frankfurt am Main. Former personnel of the Auschwitz-Birkenau camp stood before the court."
+    },
+    "importance": {
+      "ru": "Процесс стал важным моментом в послевоенном осмыслении преступлений нацизма в ФРГ.",
+      "de": "Der Prozess wurde zu einem wichtigen Moment in der bundesdeutschen Auseinandersetzung mit den Verbrechen des Nationalsozialismus.",
+      "en": "The trial became an important moment in West Germany's confrontation with the crimes of National Socialism."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1963-survivor-testimony",
+        "year": 1963,
+        "title": {
+          "ru": "Свидетельства выживших",
+          "de": "Aussagen von Ueberlebenden",
+          "en": "Survivor testimony"
+        },
+        "description": {
+          "ru": "На процессе многие выжившие впервые подробно рассказывали немецкому суду о массовых убийствах и повседневном насилии в лагере. Это сделало процесс не только юридическим, но и общественным событием.",
+          "de": "Im Prozess berichteten viele Ueberlebende erstmals ausfuehrlich vor einem deutschen Gericht ueber Massenmord und taegliche Gewalt im Lager. Dadurch wurde das Verfahren nicht nur juristisch, sondern auch gesellschaftlich bedeutsam.",
+          "en": "During the trial, many survivors gave detailed testimony before a German court about mass murder and daily violence in the camp. This made the proceedings not only legal but also social and historical events."
+        },
+        "importance": {
+          "ru": "Суд помог вынести знания о преступлениях из архивов и воспоминаний в публичное пространство.",
+          "de": "Das Gericht half, Wissen ueber die Verbrechen aus Archiven und Erinnerungen in die Oeffentlichkeit zu bringen.",
+          "en": "The court helped bring knowledge of the crimes out of archives and memories into public view."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "trial-in-frankfurt-roemer",
+        "year": 1963,
+        "title": {
+          "ru": "Суд в городском зале",
+          "de": "Gericht im Rathaus",
+          "en": "A trial in the city hall"
+        },
+        "description": {
+          "ru": "Процесс проходил в зале франкфуртского Рёмера, потому что обычные судебные помещения были слишком малы. Само место подчёркивало общественный масштаб дела.",
+          "de": "Der Prozess fand im Frankfurter Roemer statt, weil normale Gerichtssaeale zu klein waren. Schon der Ort zeigte die oeffentliche Dimension des Verfahrens.",
+          "en": "The trial took place in Frankfurt's Roemer because ordinary courtrooms were too small. The venue itself showed the public scale of the case."
+        },
+        "importance": {
+          "ru": "Иногда пространство суда становится частью исторической памяти.",
+          "de": "Manchmal wird der Ort eines Gerichtsverfahrens selbst Teil der historischen Erinnerung.",
+          "en": "Sometimes the space of a trial becomes part of historical memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первый Франкфуртский процесс по Освенциму продолжался до августа 1965 года.",
+    "de": "Der erste Frankfurter Auschwitz-Prozess dauerte bis August 1965.",
+    "en": "The first Frankfurt Auschwitz trial lasted until August 1965."
+  },
+  "sources": [
+    {
+      "label": "International Auschwitz Committee: 60 years since the start of the Frankfurt Auschwitz Trial",
+      "url": "https://www.auschwitz.info/en/press/press-informations/press-information-single/lesen/60-years-since-the-start-of-the-frankfurt-auschwitz-trials-on-20-december-1963-2957.html"
+    },
+    {
+      "label": "Auschwitz-Prozess Frankfurt: Geschichte des 1. Frankfurter Auschwitz-Prozesses",
+      "url": "https://auschwitz-prozess-frankfurt.de/index.php/der-auschwitz-prozess/geschichte-des-1-frankfurter-auschwitz-prozesses-1963-1965"
+    },
+    {
+      "label": "Jewish Museum Berlin: Frankfurt Auschwitz Trial",
+      "url": "https://www.jmberlin.de/en/node/10835"
+    }
+  ]
+}

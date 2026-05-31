@@ -1,0 +1,86 @@
+{
+  "date": "08-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1770-hegel-born",
+    "year": 1770,
+    "title": {
+      "ru": "Родился Георг Вильгельм Фридрих Гегель",
+      "de": "Georg Wilhelm Friedrich Hegel wird geboren",
+      "en": "Georg Wilhelm Friedrich Hegel is born"
+    },
+    "description": {
+      "ru": "27 августа 1770 года в Штутгарте родился философ Георг Вильгельм Фридрих Гегель. Он стал одной из крупнейших фигур немецкой классической философии.",
+      "de": "Am 27. August 1770 wurde der Philosoph Georg Wilhelm Friedrich Hegel in Stuttgart geboren. Er wurde zu einer der wichtigsten Figuren der klassischen deutschen Philosophie.",
+      "en": "On 27 August 1770, philosopher Georg Wilhelm Friedrich Hegel was born in Stuttgart. He became one of the major figures of classical German philosophy."
+    },
+    "importance": {
+      "ru": "Идеи Гегеля сильно повлияли на философию, историю, политику и гуманитарные науки XIX и XX веков.",
+      "de": "Hegels Ideen beeinflussten Philosophie, Geschichte, Politik und Geisteswissenschaften des 19. und 20. Jahrhunderts stark.",
+      "en": "Hegel's ideas strongly influenced philosophy, history, politics and the humanities in the 19th and 20th centuries."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "1770-hegel-stuttgart",
+        "year": 1770,
+        "title": {
+          "ru": "Философ из Штутгарта",
+          "de": "Philosoph aus Stuttgart",
+          "en": "Philosopher from Stuttgart"
+        },
+        "description": {
+          "ru": "Гегель вырос в Вюртемберге, учился в Тюбингене и позже работал в нескольких немецких городах. Его путь показывает роль университетов и княжеских столиц в интеллектуальной жизни Германии.",
+          "de": "Hegel wuchs in Wuerttemberg auf, studierte in Tuebingen und arbeitete spaeter in mehreren deutschen Staedten. Sein Weg zeigt die Rolle von Universitaeten und Residenzstaedten im geistigen Leben Deutschlands.",
+          "en": "Hegel grew up in Wuerttemberg, studied in Tuebingen and later worked in several German cities. His path shows the role of universities and princely capitals in Germany's intellectual life."
+        },
+        "importance": {
+          "ru": "Через его биографию видно, что немецкая культура складывалась не только в Берлине.",
+          "de": "An seiner Biografie sieht man, dass deutsche Kultur nicht nur in Berlin entstand.",
+          "en": "His biography shows that German culture was not shaped only in Berlin."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "hegel-philosophy-history",
+        "year": 1807,
+        "title": {
+          "ru": "История как движение идей",
+          "de": "Geschichte als Bewegung von Ideen",
+          "en": "History as the movement of ideas"
+        },
+        "description": {
+          "ru": "Гегель пытался объяснить развитие истории и мышления как сложный процесс противоречий и изменений. Его тексты трудные, но они сильно повлияли на то, как люди говорят о развитии общества.",
+          "de": "Hegel versuchte, die Entwicklung von Geschichte und Denken als komplexen Prozess von Widerspruechen und Veraenderungen zu erklaeren. Seine Texte sind schwierig, praegten aber stark, wie Menschen ueber gesellschaftliche Entwicklung sprechen.",
+          "en": "Hegel tried to explain the development of history and thought as a complex process of contradictions and change. His texts are difficult, but they strongly shaped how people speak about social development."
+        },
+        "importance": {
+          "ru": "Это пример того, как философия может влиять далеко за пределами университетов.",
+          "de": "Das ist ein Beispiel dafuer, wie Philosophie weit ueber Universitaeten hinaus wirken kann.",
+          "en": "It is an example of how philosophy can have an impact far beyond universities."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Штутгарте сохранился дом-музей Гегеля, связанный с местом его рождения.",
+    "de": "In Stuttgart gibt es ein Hegel-Haus, das mit seinem Geburtsort verbunden ist.",
+    "en": "Stuttgart has a Hegel House museum connected with his birthplace."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Georg Wilhelm Friedrich Hegel",
+      "url": "https://www.britannica.com/biography/Georg-Wilhelm-Friedrich-Hegel"
+    },
+    {
+      "label": "Stadtlexikon Stuttgart: Hegel",
+      "url": "https://www.stadtlexikon-stuttgart.de/article/f2d2d6d9-3f9e-4723-9aa3-a271ee89a84c/1/Georg_Wilhelm_Friedrich_Hegel.html"
+    }
+  ]
+}

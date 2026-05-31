@@ -1,0 +1,86 @@
+{
+  "date": "09-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1555-peace-of-augsburg",
+    "year": 1555,
+    "title": {
+      "ru": "Аугсбургский религиозный мир",
+      "de": "Der Augsburger Religionsfrieden",
+      "en": "The Peace of Augsburg"
+    },
+    "description": {
+      "ru": "25 сентября 1555 года рейхстаг Священной Римской империи в Аугсбурге утвердил религиозный мир. Он создал правовую основу сосуществования католицизма и лютеранства в немецких землях.",
+      "de": "Am 25. September 1555 beschloss der Reichstag des Heiligen Roemischen Reiches in Augsburg den Religionsfrieden. Er schuf eine rechtliche Grundlage fuer das Nebeneinander von Katholizismus und Luthertum in den deutschen Laendern.",
+      "en": "On 25 September 1555, the Diet of the Holy Roman Empire at Augsburg promulgated the religious peace. It created a legal basis for the coexistence of Catholicism and Lutheranism in the German lands."
+    },
+    "importance": {
+      "ru": "Это был важный шаг после конфликтов Реформации, хотя он не решил все религиозные противоречия.",
+      "de": "Das war ein wichtiger Schritt nach den Konflikten der Reformation, auch wenn er nicht alle religioesen Gegensaetze loeste.",
+      "en": "It was an important step after the conflicts of the Reformation, even though it did not solve all religious tensions."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "cuius-regio-eius-religio",
+        "year": 1555,
+        "title": {
+          "ru": "Чья власть, того и вера",
+          "de": "Wessen Gebiet, dessen Religion",
+          "en": "Whose realm, his religion"
+        },
+        "description": {
+          "ru": "Главный принцип мира часто передают латинской формулой cuius regio, eius religio. Правитель территории выбирал конфессию, а подданные должны были принять её или переселиться.",
+          "de": "Der Grundsatz des Friedens wird oft mit der lateinischen Formel cuius regio, eius religio zusammengefasst. Der Landesherr bestimmte die Konfession, die Untertanen mussten sie annehmen oder auswandern.",
+          "en": "The principle of the peace is often summarized by the Latin phrase cuius regio, eius religio. The ruler chose the confession of the territory, and subjects had to accept it or move away."
+        },
+        "importance": {
+          "ru": "Формула показывает, насколько тесно в XVI веке были связаны карта, власть и религия.",
+          "de": "Die Formel zeigt, wie eng Karte, Herrschaft und Religion im 16. Jahrhundert verbunden waren.",
+          "en": "The phrase shows how closely map, rule and religion were connected in the 16th century."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "peace-not-for-all-confessions",
+        "year": 1555,
+        "title": {
+          "ru": "Мир был не для всех",
+          "de": "Der Frieden galt nicht fuer alle",
+          "en": "The peace did not cover everyone"
+        },
+        "description": {
+          "ru": "Аугсбургский мир признавал католиков и лютеран, но не давал таких же прав кальвинистам и другим группам. Это стало одной из причин будущих напряжений.",
+          "de": "Der Augsburger Frieden erkannte Katholiken und Lutheraner an, gab aber Calvinisten und anderen Gruppen nicht dieselben Rechte. Das wurde zu einer Ursache spaeterer Spannungen.",
+          "en": "The Peace of Augsburg recognized Catholics and Lutherans but did not grant the same rights to Calvinists and other groups. This became one cause of later tensions."
+        },
+        "importance": {
+          "ru": "Компромисс может остановить один конфликт и одновременно оставить семена другого.",
+          "de": "Ein Kompromiss kann einen Konflikt beenden und zugleich die Keime eines neuen hinterlassen.",
+          "en": "A compromise can end one conflict while leaving the seeds of another."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Аугсбургский религиозный мир действовал до начала Тридцатилетней войны, но не смог предотвратить новый крупный религиозно-политический конфликт.",
+    "de": "Der Augsburger Religionsfrieden galt bis zum Beginn des Dreissigjaehrigen Krieges, konnte aber einen neuen grossen religioes-politischen Konflikt nicht verhindern.",
+    "en": "The Peace of Augsburg remained in force until the start of the Thirty Years' War, but it could not prevent a new major religious-political conflict."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Peace of Augsburg",
+      "url": "https://www.britannica.com/event/Peace-of-Augsburg"
+    },
+    {
+      "label": "German History in Documents and Images: Religious Peace of Augsburg",
+      "url": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/the-religious-peace-of-augsburg-september-25-1555.pdf"
+    }
+  ]
+}
