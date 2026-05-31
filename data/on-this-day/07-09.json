@@ -1,0 +1,111 @@
+{
+  "date": "07-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2006-world-cup-final-in-berlin",
+    "year": 2006,
+    "title": {
+      "ru": "Финал чемпионата мира по футболу прошёл в Берлине",
+      "de": "Das WM-Finale findet in Berlin statt",
+      "en": "The World Cup final is played in Berlin"
+    },
+    "description": {
+      "ru": "9 июля 2006 года на Олимпийском стадионе в Берлине прошёл финал чемпионата мира по футболу между Италией и Францией. Турнир в Германии запомнился атмосферой «летней сказки» и новым открытым образом страны.",
+      "de": "Am 9. Juli 2006 fand im Berliner Olympiastadion das Finale der Fussball-Weltmeisterschaft zwischen Italien und Frankreich statt. Das Turnier in Deutschland blieb als Sommermaerchen und als Zeichen eines neuen, offenen Landes in Erinnerung.",
+      "en": "On 9 July 2006, Berlin's Olympic Stadium hosted the FIFA World Cup final between Italy and France. The tournament in Germany was remembered as a summer fairy tale and as a sign of a new, open image of the country."
+    },
+    "importance": {
+      "ru": "Событие важно не только для спорта: чемпионат 2006 года стал частью современной культурной памяти Германии.",
+      "de": "Das Ereignis ist nicht nur sportlich wichtig: Die WM 2006 wurde Teil der modernen deutschen Erinnerungskultur.",
+      "en": "The event matters not only for sport: the 2006 World Cup became part of modern German cultural memory."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "italy-wins-in-berlin",
+        "year": 2006,
+        "title": {
+          "ru": "Италия стала чемпионом мира",
+          "de": "Italien wird Weltmeister",
+          "en": "Italy becomes world champion"
+        },
+        "description": {
+          "ru": "Финал завершился победой Италии над Францией в серии пенальти. Германия как хозяйка турнира заняла третье место, победив Португалию накануне.",
+          "de": "Das Finale endete mit einem italienischen Sieg gegen Frankreich im Elfmeterschiessen. Deutschland belegte als Gastgeber den dritten Platz nach einem Sieg gegen Portugal am Vortag.",
+          "en": "The final ended with Italy defeating France in a penalty shootout. Germany, as host nation, finished third after beating Portugal the day before."
+        },
+        "importance": {
+          "ru": "Так в календаре появляется большое спортивное событие, которое помнят миллионы людей.",
+          "de": "So bekommt der Kalender ein grosses Sportereignis, an das sich Millionen Menschen erinnern.",
+          "en": "This adds a major sporting event remembered by millions to the calendar."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "summer-fairy-tale",
+        "year": 2006,
+        "title": {
+          "ru": "«Летняя сказка»",
+          "de": "Sommermaerchen",
+          "en": "Summer fairy tale"
+        },
+        "description": {
+          "ru": "В Германии турнир часто называют Sommermaerchen — «летняя сказка». Для многих он стал моментом дружелюбного патриотизма без старой тяжести национальных символов.",
+          "de": "In Deutschland wird das Turnier oft Sommermaerchen genannt. Fuer viele wurde es zu einem Moment freundlicher Vaterlandsliebe ohne die alte Schwere nationaler Symbole.",
+          "en": "In Germany, the tournament is often called the Sommermaerchen, or summer fairy tale. For many, it became a moment of friendly patriotism without the older heaviness of national symbols."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему футбол иногда становится частью общественной истории.",
+          "de": "Das hilft zu verstehen, warum Fussball manchmal Teil der Gesellschaftsgeschichte wird.",
+          "en": "It helps explain why football can sometimes become part of social history."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "berlin-olympic-stadium-history",
+        "year": 2006,
+        "title": {
+          "ru": "Финал на стадионе с тяжёлой историей",
+          "de": "Finale in einem Stadion mit schwerer Geschichte",
+          "en": "A final in a stadium with a difficult history"
+        },
+        "description": {
+          "ru": "Олимпийский стадион был построен к Играм 1936 года, но в 2006 году стал ареной мирного международного праздника. Это хороший пример того, как место может получать новые смыслы.",
+          "de": "Das Olympiastadion wurde fuer die Spiele von 1936 gebaut, wurde 2006 aber zur Buehne eines friedlichen internationalen Festes. Das ist ein gutes Beispiel dafuer, wie ein Ort neue Bedeutungen erhalten kann.",
+          "en": "The Olympic Stadium was built for the 1936 Games, but in 2006 it became the stage for a peaceful international celebration. It is a good example of how a place can gain new meanings."
+        },
+        "importance": {
+          "ru": "Карта города здесь соединяет спорт, архитектуру и память.",
+          "de": "Die Stadtkarte verbindet hier Sport, Architektur und Erinnerung.",
+          "en": "The city map here connects sport, architecture and memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Чемпионат мира 2006 года проходил в Германии с 9 июня по 9 июля.",
+    "de": "Die Fussball-Weltmeisterschaft 2006 fand in Deutschland vom 9. Juni bis 9. Juli statt.",
+    "en": "The 2006 FIFA World Cup took place in Germany from 9 June to 9 July."
+  },
+  "sources": [
+    {
+      "label": "FIFA: 2006 FIFA World Cup Germany",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/2006germany"
+    },
+    {
+      "label": "DFB Datencenter: 2006 World Cup final",
+      "url": "https://datencenter.dfb.de/en/data-center/fifa-world-cup/2006-in-germany/final/italy-france-52"
+    },
+    {
+      "label": "Bundeszentrale fuer politische Bildung: Sommermaerchen 2006",
+      "url": "https://www.bpb.de/themen/sport/gesellschaft/516386/das-sommermaerchen-2006/"
+    }
+  ]
+}

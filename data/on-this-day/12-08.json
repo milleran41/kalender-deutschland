@@ -1,0 +1,111 @@
+{
+  "date": "12-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1970-willy-brandt-warsaw-kneefall",
+    "year": 1970,
+    "title": {
+      "ru": "Вилли Брандт преклонил колено в Варшаве",
+      "de": "Willy Brandt kniet in Warschau nieder",
+      "en": "Willy Brandt kneels in Warsaw"
+    },
+    "description": {
+      "ru": "8 декабря 1970 года канцлер ФРГ Вилли Брандт преклонил колено у памятника героям Варшавского гетто. Этот жест стал одним из самых сильных символов немецкого признания вины и новой восточной политики.",
+      "de": "Am 8. Dezember 1970 kniete Bundeskanzler Willy Brandt am Denkmal fuer die Helden des Warschauer Ghettos nieder. Diese Geste wurde zu einem der staerksten Symbole deutscher Schuldanerkennung und der neuen Ostpolitik.",
+      "en": "On 8 December 1970, West German Chancellor Willy Brandt knelt at the Monument to the Ghetto Heroes in Warsaw. The gesture became one of the strongest symbols of German acknowledgment of guilt and the new Ostpolitik."
+    },
+    "importance": {
+      "ru": "Дата важна как пример того, что политический жест иногда говорит сильнее длинной речи.",
+      "de": "Das Datum ist wichtig als Beispiel dafuer, dass eine politische Geste manchmal staerker spricht als eine lange Rede.",
+      "en": "The date matters as an example of how a political gesture can sometimes speak more powerfully than a long speech."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "ostpolitik",
+        "year": 1970,
+        "title": {
+          "ru": "Новая восточная политика",
+          "de": "Neue Ostpolitik",
+          "en": "New Ostpolitik"
+        },
+        "description": {
+          "ru": "В тот же день ФРГ и Польша подписали Варшавский договор, который признавал послевоенную границу по Одеру и Нейсе. Это было важным шагом к разрядке отношений с Восточной Европой.",
+          "de": "Am selben Tag unterzeichneten die Bundesrepublik und Polen den Warschauer Vertrag, der die Nachkriegsgrenze an Oder und Neisse anerkannte. Das war ein wichtiger Schritt zur Entspannung mit Osteuropa.",
+          "en": "On the same day, West Germany and Poland signed the Treaty of Warsaw, recognizing the postwar Oder-Neisse border. It was an important step toward detente with Eastern Europe."
+        },
+        "importance": {
+          "ru": "Так видно, как память о войне и реальная дипломатия были связаны в политике ФРГ.",
+          "de": "So wird sichtbar, wie Kriegserinnerung und konkrete Diplomatie in der Politik der Bundesrepublik verbunden waren.",
+          "en": "It shows how memory of the war and practical diplomacy were connected in West German policy."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "willy-brandt",
+        "year": 1970,
+        "title": {
+          "ru": "Вилли Брандт",
+          "de": "Willy Brandt",
+          "en": "Willy Brandt"
+        },
+        "description": {
+          "ru": "Брандт был канцлером ФРГ и одним из главных архитекторов Ostpolitik. Через год после варшавского жеста он получил Нобелевскую премию мира.",
+          "de": "Brandt war Bundeskanzler und einer der wichtigsten Architekten der Ostpolitik. Ein Jahr nach der Geste in Warschau erhielt er den Friedensnobelpreis.",
+          "en": "Brandt was West German chancellor and one of the main architects of Ostpolitik. One year after the Warsaw gesture, he received the Nobel Peace Prize."
+        },
+        "importance": {
+          "ru": "Его политика изменила отношения ФРГ с восточными соседями.",
+          "de": "Seine Politik veraenderte die Beziehungen der Bundesrepublik zu ihren oestlichen Nachbarn.",
+          "en": "His policy changed West Germany's relations with its eastern neighbors."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "spontaneous-gesture",
+        "year": 1970,
+        "title": {
+          "ru": "Жест без слов",
+          "de": "Eine Geste ohne Worte",
+          "en": "A gesture without words"
+        },
+        "description": {
+          "ru": "Коленопреклонение не было обычной частью дипломатического протокола. Именно поэтому оно произвело такое сильное впечатление и до сих пор обсуждается как момент политической морали.",
+          "de": "Der Kniefall war kein gewoehnlicher Teil des diplomatischen Protokolls. Gerade deshalb machte er einen so starken Eindruck und wird bis heute als Moment politischer Moral diskutiert.",
+          "en": "The kneeling was not a normal part of diplomatic protocol. That is precisely why it made such a strong impression and is still discussed as a moment of political morality."
+        },
+        "importance": {
+          "ru": "Иногда отсутствие слов делает событие ещё более запоминающимся.",
+          "de": "Manchmal macht das Fehlen von Worten ein Ereignis noch einpraegsamer.",
+          "en": "Sometimes the absence of words makes an event even more memorable."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Памятник, у которого стоял Брандт, посвящён восстанию в Варшавском гетто 1943 года.",
+    "de": "Das Denkmal, vor dem Brandt stand, erinnert an den Aufstand im Warschauer Ghetto von 1943.",
+    "en": "The monument where Brandt knelt commemorates the Warsaw Ghetto Uprising of 1943."
+  },
+  "sources": [
+    {
+      "label": "Bundeskanzler-Willy-Brandt-Stiftung: Kniefall von Warschau",
+      "url": "https://willy-brandt.de/willy-brandt/biografie/kniefall-von-warschau/"
+    },
+    {
+      "label": "German History in Documents and Images: Brandt in Warsaw",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/willy-brandt-in-warsaw-december-7-8-1970"
+    },
+    {
+      "label": "Nobel Prize: Willy Brandt facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1971/brandt/facts/"
+    }
+  ]
+}

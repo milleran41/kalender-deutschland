@@ -1,0 +1,90 @@
+{
+  "date": "09-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2001-september-11-and-germany",
+    "year": 2001,
+    "title": {
+      "ru": "Теракты 11 сентября изменили и политику Германии",
+      "de": "Die Anschlaege vom 11. September veraendern auch Deutschlands Politik",
+      "en": "The September 11 attacks also change German politics"
+    },
+    "description": {
+      "ru": "11 сентября 2001 года террористы атаковали США. Для Германии это стало поворотным событием: НАТО впервые в истории задействовала статью 5 о коллективной обороне, а ФРГ участвовала в последующих союзнических решениях.",
+      "de": "Am 11. September 2001 veruebten Terroristen Anschlaege in den USA. Fuer Deutschland wurde dies zu einem Einschnitt: Die NATO aktivierte erstmals in ihrer Geschichte Artikel 5 zur kollektiven Verteidigung, und die Bundesrepublik beteiligte sich an den folgenden Buendnisentscheidungen.",
+      "en": "On 11 September 2001, terrorists attacked the United States. For Germany, it became a turning point: NATO invoked Article 5 on collective defense for the first time in its history, and the Federal Republic took part in the alliance decisions that followed."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания современной внешней политики Германии и её роли в НАТО после холодной войны.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis der modernen deutschen Aussenpolitik und der Rolle Deutschlands in der NATO nach dem Kalten Krieg.",
+      "en": "The date is important for understanding modern German foreign policy and Germany's role in NATO after the Cold War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "article-five",
+        "year": 2001,
+        "title": {
+          "ru": "Первый случай статьи 5 НАТО",
+          "de": "Der erste Fall von Artikel 5 der NATO",
+          "en": "The first use of NATO Article 5"
+        },
+        "description": {
+          "ru": "На следующий день после атак НАТО объявила, что нападение может рассматриваться как нападение на весь союз, если будет доказано внешнее происхождение. Это был первый и единственный на тот момент случай применения этой нормы.",
+          "de": "Am Tag nach den Anschlaegen erklaerte die NATO, dass der Angriff als Angriff auf das gesamte Buendnis gelten koenne, wenn seine Herkunft von aussen nachgewiesen werde. Es war der erste und bis dahin einzige Fall dieser Bestimmung.",
+          "en": "The day after the attacks, NATO stated that the attack could be treated as an attack on the whole alliance if its external origin was confirmed. It was the first and, at that time, only use of this provision."
+        },
+        "importance": {
+          "ru": "Это показывает, как событие за пределами Европы напрямую изменило европейскую безопасность.",
+          "de": "Das zeigt, wie ein Ereignis ausserhalb Europas die europaeische Sicherheit direkt veraenderte.",
+          "en": "It shows how an event outside Europe directly changed European security."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "hamburg-cell",
+        "year": 2001,
+        "title": {
+          "ru": "Гамбургская связь",
+          "de": "Die Hamburger Verbindung",
+          "en": "The Hamburg connection"
+        },
+        "description": {
+          "ru": "Часть террористов до атак жила и училась в Гамбурге. Поэтому расследование 11 сентября имело и немецкое измерение, а город оказался связан с глобальной историей терроризма.",
+          "de": "Ein Teil der Terroristen lebte und studierte vor den Anschlaegen in Hamburg. Deshalb hatte die Untersuchung des 11. September auch eine deutsche Dimension, und die Stadt wurde mit der globalen Geschichte des Terrorismus verbunden.",
+          "en": "Some of the terrorists had lived and studied in Hamburg before the attacks. The investigation therefore had a German dimension, and the city became linked with the global history of terrorism."
+        },
+        "importance": {
+          "ru": "Это тревожный пример того, как мировые события иногда имеют скрытую местную предысторию.",
+          "de": "Das ist ein beunruhigendes Beispiel dafuer, wie Weltereignisse manchmal eine verborgene lokale Vorgeschichte haben.",
+          "en": "It is a disturbing example of how world events can sometimes have a hidden local prehistory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "НАТО официально заявила о применимости статьи 5 12 сентября 2001 года, на следующий день после атак.",
+    "de": "Die NATO erklaerte die Anwendbarkeit von Artikel 5 am 12. September 2001, einen Tag nach den Anschlaegen.",
+    "en": "NATO declared Article 5 applicable on 12 September 2001, the day after the attacks."
+  },
+  "sources": [
+    {
+      "label": "Haus der Geschichte: 11. September 2001",
+      "url": "https://www.hdg.de/lemo/kapitel/globalisierung/internationale-herausforderungen/11-september-2001.html"
+    },
+    {
+      "label": "NATO: NATO and the 9/11 terrorist attacks",
+      "url": "https://www.nato.int/cps/en/natohq/110496.htm"
+    },
+    {
+      "label": "9/11 Commission Report: Hamburg cell context",
+      "url": "https://www.9-11commission.gov/report/911Report.pdf"
+    }
+  ]
+}
