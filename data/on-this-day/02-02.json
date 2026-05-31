@@ -1,0 +1,65 @@
+{
+  "date": "02-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1356-first-hanseatic-diet",
+    "year": 1356,
+    "title": {
+      "ru": "В Любеке собрался первый ганзейский съезд",
+      "de": "In Luebeck tritt der erste Hansetag zusammen",
+      "en": "The first Hanseatic Diet meets in Luebeck"
+    },
+    "description": {
+      "ru": "2 февраля 1356 года в Любеке прошёл один из первых общих съездов ганзейских городов. Ганза постепенно превращалась из сети купцов в союз городов Северной Европы.",
+      "de": "Am 2. Februar 1356 fand in Luebeck einer der ersten allgemeinen Hansetage statt. Die Hanse entwickelte sich allmaehlich von einem Kaufmannsnetz zu einem Staedtebund Nordeuropas.",
+      "en": "On 2 February 1356, one of the first general Hanseatic Diets met in Luebeck. The Hanse gradually developed from a merchant network into a league of northern European cities."
+    },
+    "importance": {
+      "ru": "Дата важна для истории северной Германии, торговли Балтики и городского самоуправления.",
+      "de": "Das Datum ist wichtig fuer die Geschichte Norddeutschlands, des Ostseehandels und staedtischer Selbstverwaltung.",
+      "en": "The date is important for the history of northern Germany, Baltic trade and urban self-government."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "luebeck-hanse-center",
+        "year": 1356,
+        "title": {
+          "ru": "Любек как центр Ганзы",
+          "de": "Luebeck als Zentrum der Hanse",
+          "en": "Luebeck as the center of the Hanse"
+        },
+        "description": {
+          "ru": "Любек занимал удобное положение между Балтийским и Северным морями. Благодаря этому город стал одним из главных центров ганзейской торговли.",
+          "de": "Luebeck lag guenstig zwischen Ostsee und Nordsee. Dadurch wurde die Stadt zu einem der wichtigsten Zentren des hansischen Handels.",
+          "en": "Luebeck was well placed between the Baltic and North seas. This helped the city become one of the main centers of Hanseatic trade."
+        },
+        "importance": {
+          "ru": "Ганза показывает Германию не только как страну князей и империй, но и как сеть торговых городов.",
+          "de": "Die Hanse zeigt Deutschland nicht nur als Land von Fuersten und Reichen, sondern als Netz von Handelsstaedten.",
+          "en": "The Hanse shows Germany not only as a land of princes and empires, but as a network of trading cities."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Ганзейский союз не имел одного точного дня основания; он вырос постепенно из торговых связей и городских союзов.",
+    "de": "Die Hanse hatte keinen einzigen exakten Gruendungstag; sie wuchs schrittweise aus Handelsbeziehungen und Staedtebuenden.",
+    "en": "The Hanseatic League had no single exact founding day; it grew gradually from trade ties and city alliances."
+  },
+  "sources": [
+    {
+      "label": "Hanse.org: Origins of the Hanseatic League",
+      "url": "https://www.hanse.org/en/the-medieval-hanseatic-league/the-origins"
+    },
+    {
+      "label": "UNESCO Memory of the World: documents on the Hanse PDF",
+      "url": "https://media.unesco.org/sites/default/files/webform/mow001/documents-on-the-history-of-the-hanse_nom_en.pdf"
+    }
+  ]
+}

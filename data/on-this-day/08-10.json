@@ -1,0 +1,65 @@
+{
+  "date": "08-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "843-treaty-of-verdun",
+    "year": 843,
+    "title": {
+      "ru": "Верденский договор разделил империю Каролингов",
+      "de": "Der Vertrag von Verdun teilt das Karolingerreich",
+      "en": "The Treaty of Verdun divides the Carolingian Empire"
+    },
+    "description": {
+      "ru": "10 августа 843 года империя Карла Великого была разделена между его внуками. Восточная часть, полученная Людовиком Немецким, стала одним из истоков будущей Германии.",
+      "de": "Am 10. August 843 wurde das Reich Karls des Grossen unter seinen Enkeln geteilt. Der oestliche Teil, den Ludwig der Deutsche erhielt, wurde zu einem Ursprung des spaeteren Deutschlands.",
+      "en": "On 10 August 843, Charlemagne's empire was divided among his grandsons. The eastern part, received by Louis the German, became one of the origins of later Germany."
+    },
+    "importance": {
+      "ru": "Дата очень ранняя, но она помогает понять, почему карта Германии и Франции формировалась из наследия Франкской империи.",
+      "de": "Das Datum ist sehr frueh, hilft aber zu verstehen, warum die Karten Deutschlands und Frankreichs aus dem Erbe des Frankenreiches entstanden.",
+      "en": "The date is very early, but it helps explain why the maps of Germany and France grew out of the Frankish imperial legacy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "east-francia",
+        "year": 843,
+        "title": {
+          "ru": "Восточно-Франкское королевство",
+          "de": "Ostfrankenreich",
+          "en": "East Francia"
+        },
+        "description": {
+          "ru": "Восточно-Франкское королевство ещё не было Германией в современном смысле. Но именно оно стало важной предысторией средневекового немецкого королевства.",
+          "de": "Das Ostfrankenreich war noch kein Deutschland im modernen Sinn. Es wurde aber zu einer wichtigen Vorgeschichte des mittelalterlichen deutschen Koenigreichs.",
+          "en": "East Francia was not Germany in the modern sense. But it became an important prehistory of the medieval German kingdom."
+        },
+        "importance": {
+          "ru": "Это помогает школьнику не путать раннее Средневековье с современными национальными государствами.",
+          "de": "Das hilft Schuelern, das fruehe Mittelalter nicht mit modernen Nationalstaaten zu verwechseln.",
+          "en": "It helps students avoid confusing the early Middle Ages with modern nation-states."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Верден находится на территории современной Франции, но договор важен для истории всей Центральной Европы.",
+    "de": "Verdun liegt im heutigen Frankreich, doch der Vertrag ist fuer die Geschichte ganz Mitteleuropas wichtig.",
+    "en": "Verdun is in modern France, but the treaty is important for the history of Central Europe as a whole."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Treaty of Verdun",
+      "url": "https://www.britannica.com/event/Treaty-of-Verdun"
+    },
+    {
+      "label": "Britannica: History of Germany",
+      "url": "https://www.britannica.com/topic/history-of-Germany"
+    }
+  ]
+}
