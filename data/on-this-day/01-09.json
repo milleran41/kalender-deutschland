@@ -1,0 +1,65 @@
+{
+  "date": "01-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1890-kurt-tucholsky-born",
+    "year": 1890,
+    "title": {
+      "ru": "Родился Курт Тухольский",
+      "de": "Kurt Tucholsky wird geboren",
+      "en": "Kurt Tucholsky is born"
+    },
+    "description": {
+      "ru": "9 января 1890 года в Берлине родился писатель, журналист и сатирик Курт Тухольский. Он стал одним из самых острых голосов Веймарской республики.",
+      "de": "Am 9. Januar 1890 wurde der Schriftsteller, Journalist und Satiriker Kurt Tucholsky in Berlin geboren. Er wurde zu einer der scharfsten Stimmen der Weimarer Republik.",
+      "en": "On 9 January 1890, writer, journalist and satirist Kurt Tucholsky was born in Berlin. He became one of the sharpest voices of the Weimar Republic."
+    },
+    "importance": {
+      "ru": "Тухольский помогает увидеть Веймарскую Германию через прессу, сатиру, пацифизм и тревогу перед ростом радикализма.",
+      "de": "Tucholsky hilft, die Weimarer Republik durch Presse, Satire, Pazifismus und die Sorge vor wachsendem Radikalismus zu sehen.",
+      "en": "Tucholsky helps show Weimar Germany through journalism, satire, pacifism and anxiety about rising radicalism."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "tucholsky-weimar-satire",
+        "year": 1920,
+        "title": {
+          "ru": "Сатира как предупреждение",
+          "de": "Satire als Warnung",
+          "en": "Satire as warning"
+        },
+        "description": {
+          "ru": "Тухольский писал под разными псевдонимами и критиковал милитаризм, национализм и слабости молодой демократии. Его тексты часто звучат как раннее предупреждение.",
+          "de": "Tucholsky schrieb unter verschiedenen Pseudonymen und kritisierte Militarismus, Nationalismus und die Schwaechen der jungen Demokratie. Seine Texte wirken oft wie fruehe Warnungen.",
+          "en": "Tucholsky wrote under several pen names and criticized militarism, nationalism and the weaknesses of the young democracy. His texts often read like early warnings."
+        },
+        "importance": {
+          "ru": "Это показывает, что культура может быть не украшением, а способом защищать демократию.",
+          "de": "Das zeigt, dass Kultur nicht nur Schmuck sein kann, sondern ein Mittel, Demokratie zu verteidigen.",
+          "en": "It shows that culture can be not decoration, but a way to defend democracy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Тухольский после прихода нацистов к власти был лишён немецкого гражданства.",
+    "de": "Tucholsky wurde nach der Machtuebernahme der Nationalsozialisten die deutsche Staatsbuergerschaft entzogen.",
+    "en": "After the Nazis came to power, Tucholsky was stripped of his German citizenship."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Kurt Tucholsky",
+      "url": "https://www.britannica.com/biography/Kurt-Tucholsky"
+    },
+    {
+      "label": "Kurt Tucholsky Society",
+      "url": "https://tucholsky-gesellschaft.de/"
+    }
+  ]
+}

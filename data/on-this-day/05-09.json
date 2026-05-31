@@ -1,0 +1,65 @@
+{
+  "date": "05-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1921-sophie-scholl-born",
+    "year": 1921,
+    "title": {
+      "ru": "Родилась Софи Шолль",
+      "de": "Sophie Scholl wird geboren",
+      "en": "Sophie Scholl is born"
+    },
+    "description": {
+      "ru": "9 мая 1921 года в Форхтенберге родилась Софи Шолль. Она стала участницей студенческой группы сопротивления «Белая роза».",
+      "de": "Am 9. Mai 1921 wurde Sophie Scholl in Forchtenberg geboren. Sie wurde Mitglied der studentischen Widerstandsgruppe Weisse Rose.",
+      "en": "On 9 May 1921, Sophie Scholl was born in Forchtenberg. She became a member of the student resistance group White Rose."
+    },
+    "importance": {
+      "ru": "Её история показывает, что сопротивление диктатуре могло быть делом очень молодых людей.",
+      "de": "Ihre Geschichte zeigt, dass Widerstand gegen die Diktatur auch Sache sehr junger Menschen sein konnte.",
+      "en": "Her story shows that resistance to dictatorship could be the work of very young people."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "white-rose-leaflets",
+        "year": 1942,
+        "title": {
+          "ru": "Листовки «Белой розы»",
+          "de": "Die Flugblatter der Weissen Rose",
+          "en": "The White Rose leaflets"
+        },
+        "description": {
+          "ru": "Группа «Белая роза» распространяла листовки против нацистского режима. Софи и Ганс Шолль были арестованы после акции в Мюнхенском университете.",
+          "de": "Die Gruppe Weisse Rose verbreitete Flugblatter gegen das NS-Regime. Sophie und Hans Scholl wurden nach einer Aktion an der Universitaet Muenchen verhaftet.",
+          "en": "The White Rose group distributed leaflets against the Nazi regime. Sophie and Hans Scholl were arrested after an action at the University of Munich."
+        },
+        "importance": {
+          "ru": "Это один из самых известных примеров гражданского мужества в нацистской Германии.",
+          "de": "Das ist eines der bekanntesten Beispiele fuer Zivilcourage im nationalsozialistischen Deutschland.",
+          "en": "It is one of the best-known examples of civil courage in Nazi Germany."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Память о «Белой розе» особенно связана с Мюнхенским университетом.",
+    "de": "Die Erinnerung an die Weisse Rose ist besonders mit der Universitaet Muenchen verbunden.",
+    "en": "The memory of the White Rose is especially connected with the University of Munich."
+  },
+  "sources": [
+    {
+      "label": "German Resistance Memorial Center: Sophie Scholl",
+      "url": "https://www.gdw-berlin.de/en/recess/biographies/biographie/view-bio/sophie-scholl/"
+    },
+    {
+      "label": "Britannica: White Rose",
+      "url": "https://www.britannica.com/topic/White-Rose"
+    }
+  ]
+}
