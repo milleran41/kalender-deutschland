@@ -1,0 +1,90 @@
+{
+  "date": "11-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-charter-of-paris-for-a-new-europe",
+    "year": 1990,
+    "title": {
+      "ru": "Подписана Парижская хартия для новой Европы",
+      "de": "Die Charta von Paris fuer ein neues Europa wird unterzeichnet",
+      "en": "The Charter of Paris for a New Europe is signed"
+    },
+    "description": {
+      "ru": "21 ноября 1990 года государства Совещания по безопасности и сотрудничеству в Европе подписали Парижскую хартию для новой Европы. Документ закреплял надежду на европейский порядок после холодной войны и вскоре после объединения Германии.",
+      "de": "Am 21. November 1990 unterzeichneten die Staaten der Konferenz ueber Sicherheit und Zusammenarbeit in Europa die Charta von Paris fuer ein neues Europa. Das Dokument hielt die Hoffnung auf eine europaeische Ordnung nach dem Kalten Krieg und kurz nach der deutschen Einheit fest.",
+      "en": "On 21 November 1990, the states of the Conference on Security and Co-operation in Europe signed the Charter of Paris for a New Europe. The document expressed hopes for a European order after the Cold War and shortly after German reunification."
+    },
+    "importance": {
+      "ru": "Дата важна как символ момента, когда объединённая Германия входила в новую европейскую систему безопасности.",
+      "de": "Das Datum ist wichtig als Symbol des Moments, in dem das vereinte Deutschland in eine neue europaeische Sicherheitsordnung eintrat.",
+      "en": "The date matters as a symbol of the moment when reunited Germany entered a new European security order."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "after-reunification",
+        "year": 1990,
+        "title": {
+          "ru": "После объединения Германии",
+          "de": "Nach der deutschen Einheit",
+          "en": "After German reunification"
+        },
+        "description": {
+          "ru": "Германия была объединена 3 октября 1990 года, а уже в ноябре участвовала в документе о новой Европе. Это подчёркивало, что немецкий вопрос больше не должен быть источником войны и раздела континента.",
+          "de": "Deutschland wurde am 3. Oktober 1990 vereint und war schon im November an einem Dokument ueber ein neues Europa beteiligt. Das unterstrich, dass die deutsche Frage nicht mehr Quelle von Krieg und Teilung des Kontinents sein sollte.",
+          "en": "Germany was reunified on 3 October 1990 and was already part of a document about a new Europe in November. This emphasized that the German question should no longer be a source of war and division on the continent."
+        },
+        "importance": {
+          "ru": "Так видно, что объединение Германии было частью более широкого европейского перелома.",
+          "de": "So wird sichtbar, dass die deutsche Einheit Teil eines groesseren europaeischen Umbruchs war.",
+          "en": "It shows that German reunification was part of a larger European transformation."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "new-europe-language",
+        "year": 1990,
+        "title": {
+          "ru": "Слова «новая Европа»",
+          "de": "Die Worte neues Europa",
+          "en": "The words new Europe"
+        },
+        "description": {
+          "ru": "Название хартии звучало очень оптимистично: Европа без старых блоков и железного занавеса. Позднейшая история показала, что надежды 1990 года были сильными, но не решали всех будущих конфликтов.",
+          "de": "Der Titel der Charta klang sehr optimistisch: Europa ohne alte Bloecke und Eisernen Vorhang. Die spaetere Geschichte zeigte, dass die Hoffnungen von 1990 stark waren, aber nicht alle kuenftigen Konflikte loesten.",
+          "en": "The title of the charter sounded very optimistic: a Europe without old blocs and the Iron Curtain. Later history showed that the hopes of 1990 were strong, but did not solve all future conflicts."
+        },
+        "importance": {
+          "ru": "Интересно видеть момент, когда будущее казалось особенно открытым.",
+          "de": "Interessant ist der Blick auf einen Moment, in dem die Zukunft besonders offen wirkte.",
+          "en": "It is interesting to see a moment when the future seemed especially open."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Парижская хартия была подписана менее чем через два месяца после официального объединения Германии.",
+    "de": "Die Charta von Paris wurde weniger als zwei Monate nach der offiziellen deutschen Einheit unterzeichnet.",
+    "en": "The Charter of Paris was signed less than two months after Germany's official reunification."
+  },
+  "sources": [
+    {
+      "label": "OSCE: Charter of Paris for a New Europe",
+      "url": "https://www.osce.org/mc/39516"
+    },
+    {
+      "label": "CVCE: The Charter of Paris for a New Europe",
+      "url": "https://www.cvce.eu/en/obj/the_charter_of_paris_for_a_new_europe_21_november_1990-en-d2c6c610-6131-4e13-b6e7-9cf36c8f2c98.html"
+    },
+    {
+      "label": "NATO: A short history of NATO",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_139339.htm"
+    }
+  ]
+}

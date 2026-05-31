@@ -1,0 +1,111 @@
+{
+  "date": "10-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-ludendorff-dismissed",
+    "year": 1918,
+    "title": {
+      "ru": "Людендорф был отстранён от командования",
+      "de": "Ludendorff wird entlassen",
+      "en": "Ludendorff is dismissed"
+    },
+    "description": {
+      "ru": "26 октября 1918 года генерал Эрих Людендорф был фактически отстранён от высшего военного руководства Германии. Это произошло на фоне поражения в Первой мировой войне и споров о перемирии.",
+      "de": "Am 26. Oktober 1918 wurde General Erich Ludendorff faktisch aus der hoechsten militaerischen Fuehrung Deutschlands entlassen. Dies geschah vor dem Hintergrund der Niederlage im Ersten Weltkrieg und der Auseinandersetzungen ueber einen Waffenstillstand.",
+      "en": "On 26 October 1918, General Erich Ludendorff was effectively removed from Germany's highest military leadership. This happened amid defeat in the First World War and disputes over an armistice."
+    },
+    "importance": {
+      "ru": "Отставка одного из главных военных лидеров стала знаком скорого краха империи.",
+      "de": "Die Entlassung eines der wichtigsten Militaerfuehrer wurde zum Zeichen des nahenden Zusammenbruchs des Kaiserreichs.",
+      "en": "The dismissal of one of the chief military leaders became a sign of the empire's approaching collapse."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "armistice-conflict",
+        "year": 1918,
+        "title": {
+          "ru": "Спор о перемирии",
+          "de": "Streit um den Waffenstillstand",
+          "en": "Dispute over the armistice"
+        },
+        "description": {
+          "ru": "Немецкое руководство искало путь к прекращению войны, но внутри власти шли споры о том, как вести переговоры и кто должен нести ответственность. Уход Людендорфа показал глубину кризиса.",
+          "de": "Die deutsche Fuehrung suchte einen Weg zur Beendigung des Krieges, doch innerhalb der Machtspitze wurde ueber Verhandlungen und Verantwortung gestritten. Ludendorffs Abgang zeigte die Tiefe der Krise.",
+          "en": "German leaders were looking for a way to end the war, but disputes raged inside the leadership over negotiations and responsibility. Ludendorff's departure showed the depth of the crisis."
+        },
+        "importance": {
+          "ru": "Так видно, как военное поражение быстро превращалось в политический обвал.",
+          "de": "So wird sichtbar, wie eine militaerische Niederlage rasch zu einem politischen Zusammenbruch wurde.",
+          "en": "It shows how military defeat quickly turned into political collapse."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "hindenburg-remains",
+        "year": 1918,
+        "title": {
+          "ru": "Гинденбург остался",
+          "de": "Hindenburg bleibt",
+          "en": "Hindenburg remains"
+        },
+        "description": {
+          "ru": "Пауль фон Гинденбург сохранил пост, а Людендорф ушёл. Это важно, потому что Гинденбург позже стал президентом Веймарской республики и сыграл ключевую роль в назначении Гитлера канцлером.",
+          "de": "Paul von Hindenburg blieb im Amt, Ludendorff ging. Das ist wichtig, weil Hindenburg spaeter Reichspraesident der Weimarer Republik wurde und eine Schluesselrolle bei der Ernennung Hitlers zum Reichskanzler spielte.",
+          "en": "Paul von Hindenburg stayed in office while Ludendorff left. This matters because Hindenburg later became president of the Weimar Republic and played a key role in appointing Hitler chancellor."
+        },
+        "importance": {
+          "ru": "Иногда кадровые решения одного года отзываются в политике спустя десятилетие.",
+          "de": "Manchmal wirken Personalentscheidungen eines Jahres noch ein Jahrzehnt spaeter in der Politik nach.",
+          "en": "Sometimes personnel decisions in one year echo in politics a decade later."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "one-day-after-request",
+        "year": 1918,
+        "title": {
+          "ru": "На следующий день после просьбы",
+          "de": "Einen Tag nach der Bitte",
+          "en": "One day after the request"
+        },
+        "description": {
+          "ru": "Накануне Людендорф сам попросил об отставке, а 26 октября решение стало реальностью. Два соседних дня хорошо показывают, как быстро развивался кризис конца империи.",
+          "de": "Am Vortag hatte Ludendorff selbst um Entlassung gebeten, am 26. Oktober wurde die Entscheidung Wirklichkeit. Zwei benachbarte Tage zeigen gut, wie schnell sich die Krise am Ende des Kaiserreichs entwickelte.",
+          "en": "The previous day Ludendorff had asked to be dismissed, and on 26 October the decision became reality. Two neighboring dates show how quickly the crisis at the end of the empire developed."
+        },
+        "importance": {
+          "ru": "Календарь позволяет увидеть историю почти по дням.",
+          "de": "Der Kalender laesst Geschichte fast taggenau sichtbar werden.",
+          "en": "The calendar lets history become visible almost day by day."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через две недели после отставки Людендорфа в Германии была провозглашена республика.",
+    "de": "Zwei Wochen nach Ludendorffs Entlassung wurde in Deutschland die Republik ausgerufen.",
+    "en": "Two weeks after Ludendorff's dismissal, the republic was proclaimed in Germany."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Ludendorff bittet um seine Entlassung",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2018/kw43-revolutionskalender-23-251018-572552"
+    },
+    {
+      "label": "Britannica: Erich Ludendorff",
+      "url": "https://www.britannica.com/biography/Erich-Ludendorff"
+    },
+    {
+      "label": "1914-1918-online: Revolutions in Germany",
+      "url": "https://encyclopedia.1914-1918-online.net/article/revolutions_germany/"
+    }
+  ]
+}

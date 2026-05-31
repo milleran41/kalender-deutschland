@@ -1,0 +1,111 @@
+{
+  "date": "07-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1958-nasa-created-german-rocket-legacy",
+    "year": 1958,
+    "title": {
+      "ru": "В США было создано NASA",
+      "de": "In den USA wird die NASA gegruendet",
+      "en": "NASA is created in the United States"
+    },
+    "description": {
+      "ru": "29 июля 1958 года президент США Дуайт Эйзенхауэр подписал закон о создании NASA. Для немецкой истории это событие связано с ракетными специалистами, включая Вернера фон Брауна, чья биография соединяет нацистскую ракетную программу и американскую космическую гонку.",
+      "de": "Am 29. Juli 1958 unterzeichnete US-Praesident Dwight Eisenhower das Gesetz zur Gruendung der NASA. Fuer die deutsche Geschichte ist das Ereignis mit Raketenfachleuten wie Wernher von Braun verbunden, dessen Biografie das NS-Raketenprogramm und den amerikanischen Wettlauf ins All miteinander verknuepft.",
+      "en": "On 29 July 1958, U.S. President Dwight Eisenhower signed the law creating NASA. For German history, the event is linked to rocket specialists including Wernher von Braun, whose biography connects the Nazi rocket program and the American space race."
+    },
+    "importance": {
+      "ru": "Дата показывает, как научные и технические знания после Второй мировой войны перешли в новую эпоху космической конкуренции.",
+      "de": "Das Datum zeigt, wie wissenschaftliches und technisches Wissen nach dem Zweiten Weltkrieg in eine neue Epoche der Raumfahrtkonkurrenz ueberging.",
+      "en": "The date shows how scientific and technical knowledge after the Second World War moved into a new era of space competition."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "wernher-von-braun",
+        "year": 1958,
+        "title": {
+          "ru": "Вернер фон Браун",
+          "de": "Wernher von Braun",
+          "en": "Wernher von Braun"
+        },
+        "description": {
+          "ru": "Фон Браун был немецким инженером-ракетчиком, работал над ракетой V-2 в нацистской Германии, а после войны оказался в США. Позднее он стал одной из ключевых фигур американской лунной программы.",
+          "de": "Von Braun war ein deutscher Raketeningenieur, arbeitete im nationalsozialistischen Deutschland an der V-2 und kam nach dem Krieg in die USA. Spaeter wurde er zu einer Schluesselfigur des amerikanischen Mondprogramms.",
+          "en": "Von Braun was a German rocket engineer who worked on the V-2 in Nazi Germany and came to the United States after the war. Later he became a key figure in the American Moon program."
+        },
+        "importance": {
+          "ru": "Его история показывает сложную связь между инженерными достижениями, войной и моральной ответственностью.",
+          "de": "Seine Geschichte zeigt die komplizierte Verbindung zwischen technischen Leistungen, Krieg und moralischer Verantwortung.",
+          "en": "His story shows the complex link between engineering achievements, war and moral responsibility."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "space-race-and-cold-war",
+        "year": 1958,
+        "title": {
+          "ru": "Космическая гонка и холодная война",
+          "de": "Weltraumrennen und Kalter Krieg",
+          "en": "Space race and Cold War"
+        },
+        "description": {
+          "ru": "NASA возникла на фоне соперничества США и СССР после запуска спутника. Разделённая Германия находилась в самом центре холодной войны, поэтому космическая гонка была частью той же глобальной системы напряжения.",
+          "de": "Die NASA entstand vor dem Hintergrund der Konkurrenz zwischen den USA und der Sowjetunion nach dem Sputnik-Schock. Das geteilte Deutschland lag im Zentrum des Kalten Krieges, weshalb das Weltraumrennen Teil desselben globalen Spannungsfeldes war.",
+          "en": "NASA emerged amid U.S.-Soviet rivalry after the Sputnik shock. Divided Germany lay at the center of the Cold War, so the space race was part of the same global field of tension."
+        },
+        "importance": {
+          "ru": "Так видно, что космос был не только наукой, но и политикой.",
+          "de": "So wird sichtbar, dass Raumfahrt nicht nur Wissenschaft, sondern auch Politik war.",
+          "en": "It shows that spaceflight was not only science, but also politics."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "from-v2-to-saturn-v",
+        "year": 1958,
+        "title": {
+          "ru": "От V-2 к Saturn V",
+          "de": "Von der V-2 zur Saturn V",
+          "en": "From V-2 to Saturn V"
+        },
+        "description": {
+          "ru": "Ракетная техника, созданная для войны, позднее стала частью космической программы. Это один из самых сложных примеров того, как опасное наследие может быть переиспользовано в другой сфере.",
+          "de": "Raketentechnik, die fuer den Krieg entwickelt wurde, wurde spaeter Teil der Raumfahrt. Das ist eines der schwierigsten Beispiele dafuer, wie ein gefaehrliches Erbe in einem anderen Bereich weitergenutzt werden kann.",
+          "en": "Rocket technology developed for war later became part of spaceflight. It is one of the most difficult examples of how a dangerous legacy can be reused in another field."
+        },
+        "importance": {
+          "ru": "Такой факт интересен, но требует честного разговора о цене технического прогресса.",
+          "de": "Ein solcher Fakt ist interessant, verlangt aber ein ehrliches Gespraech ueber den Preis technischen Fortschritts.",
+          "en": "Such a fact is interesting, but it requires an honest conversation about the price of technological progress."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название NASA означает National Aeronautics and Space Administration.",
+    "de": "NASA steht fuer National Aeronautics and Space Administration.",
+    "en": "NASA stands for National Aeronautics and Space Administration."
+  },
+  "sources": [
+    {
+      "label": "NASA: NASA History Overview",
+      "url": "https://www.nasa.gov/history/history-overview/"
+    },
+    {
+      "label": "NASA History: Wernher von Braun",
+      "url": "https://www.nasa.gov/people/wernher-von-braun/"
+    },
+    {
+      "label": "National Air and Space Museum: Wernher von Braun",
+      "url": "https://airandspace.si.edu/explore/stories/wernher-von-braun"
+    }
+  ]
+}
