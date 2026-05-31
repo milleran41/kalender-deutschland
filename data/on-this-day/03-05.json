@@ -1,0 +1,65 @@
+{
+  "date": "03-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1871-rosa-luxemburg-born",
+    "year": 1871,
+    "title": {
+      "ru": "Родилась Роза Люксембург",
+      "de": "Rosa Luxemburg wird geboren",
+      "en": "Rosa Luxemburg is born"
+    },
+    "description": {
+      "ru": "5 марта 1871 года в Замосце родилась Роза Люксембург. Позднее она стала одной из самых известных фигур немецкого социалистического движения и соосновательницей Союза Спартака.",
+      "de": "Am 5. Maerz 1871 wurde Rosa Luxemburg in Zamosc geboren. Spaeter wurde sie eine der bekanntesten Figuren der deutschen sozialistischen Bewegung und Mitbegruenderin des Spartakusbundes.",
+      "en": "On 5 March 1871, Rosa Luxemburg was born in Zamosc. She later became one of the best-known figures of the German socialist movement and a co-founder of the Spartacus League."
+    },
+    "importance": {
+      "ru": "Её жизнь помогает понять споры о демократии, революции и рабочих движениях в Германской империи и Веймарской республике.",
+      "de": "Ihr Leben hilft, Debatten ueber Demokratie, Revolution und Arbeiterbewegungen im Kaiserreich und in der Weimarer Republik zu verstehen.",
+      "en": "Her life helps explain debates about democracy, revolution and labor movements in the German Empire and the Weimar Republic."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "luxemburg-spartacus",
+        "year": 1918,
+        "title": {
+          "ru": "Союз Спартака",
+          "de": "Der Spartakusbund",
+          "en": "The Spartacus League"
+        },
+        "description": {
+          "ru": "Во время революции 1918-1919 годов Люксембург выступала за социалистическое преобразование Германии. Её убийство в январе 1919 года стало одной из болезненных ран ранней Веймарской республики.",
+          "de": "Waehrend der Revolution 1918/19 trat Luxemburg fuer eine sozialistische Umgestaltung Deutschlands ein. Ihre Ermordung im Januar 1919 wurde zu einer schmerzhaften Wunde der fruehen Weimarer Republik.",
+          "en": "During the 1918-1919 revolution, Luxemburg argued for a socialist transformation of Germany. Her murder in January 1919 became one of the painful wounds of the early Weimar Republic."
+        },
+        "importance": {
+          "ru": "Это показывает, насколько напряжённым и насильственным было рождение Веймарской демократии.",
+          "de": "Das zeigt, wie gespannt und gewaltsam die Geburt der Weimarer Demokratie war.",
+          "en": "It shows how tense and violent the birth of Weimar democracy was."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Роза Люксембург писала политические тексты, письма и экономические работы, а её наследие до сих пор вызывает споры.",
+    "de": "Rosa Luxemburg schrieb politische Texte, Briefe und oekonomische Arbeiten; ihr Erbe bleibt bis heute umstritten.",
+    "en": "Rosa Luxemburg wrote political texts, letters and economic works, and her legacy remains debated."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Rosa Luxemburg",
+      "url": "https://www.britannica.com/biography/Rosa-Luxemburg"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Rosa Luxemburg",
+      "url": "https://plato.stanford.edu/entries/luxemburg/"
+    }
+  ]
+}

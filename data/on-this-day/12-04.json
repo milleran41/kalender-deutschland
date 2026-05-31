@@ -1,0 +1,65 @@
+{
+  "date": "12-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1971-first-mcdonalds-germany",
+    "year": 1971,
+    "title": {
+      "ru": "В Германии открылся первый McDonald's",
+      "de": "Der erste McDonald's in Deutschland wird eroeffnet",
+      "en": "The first McDonald's in Germany opens"
+    },
+    "description": {
+      "ru": "4 декабря 1971 года в мюнхенском районе Обергизинг открылся первый McDonald's в Германии. Это стало заметным знаком американской массовой культуры в послевоенной ФРГ.",
+      "de": "Am 4. Dezember 1971 wurde im Muenchner Stadtteil Obergiesing der erste McDonald's in Deutschland eroeffnet. Das wurde zu einem sichtbaren Zeichen amerikanischer Massenkultur in der Nachkriegs-Bundesrepublik.",
+      "en": "On 4 December 1971, the first McDonald's in Germany opened in Munich's Obergiesing district. It became a visible sign of American mass culture in postwar West Germany."
+    },
+    "importance": {
+      "ru": "Такая дата показывает историю Германии через повседневность: еду, городскую жизнь, рекламу и меняющиеся привычки.",
+      "de": "Ein solches Datum zeigt deutsche Geschichte im Alltag: Essen, Stadtleben, Werbung und sich veraendernde Gewohnheiten.",
+      "en": "A date like this shows German history through everyday life: food, urban life, advertising and changing habits."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "fast-food-arrives",
+        "year": 1971,
+        "title": {
+          "ru": "Фастфуд как исторический факт",
+          "de": "Fast Food als historischer Fakt",
+          "en": "Fast food as a historical fact"
+        },
+        "description": {
+          "ru": "На первый взгляд это не «большая история», но такие открытия меняют улицы, рабочие места и привычки миллионов людей. Через них видно, как Германия включалась в глобальную потребительскую культуру.",
+          "de": "Auf den ersten Blick ist das keine grosse Geschichte, doch solche Eroeffnungen veraendern Strassen, Arbeitsplaetze und Gewohnheiten von Millionen Menschen. An ihnen sieht man, wie Deutschland Teil globaler Konsumkultur wurde.",
+          "en": "At first glance this is not 'big history,' but such openings change streets, jobs and the habits of millions. They show how Germany became part of global consumer culture."
+        },
+        "importance": {
+          "ru": "Календарь становится живее, когда в нём есть не только войны и канцлеры, но и обычная жизнь.",
+          "de": "Ein Kalender wird lebendiger, wenn er nicht nur Kriege und Kanzler enthaelt, sondern auch Alltagsleben.",
+          "en": "A calendar becomes livelier when it includes not only wars and chancellors, but everyday life."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первая немецкая точка McDonald's находилась рядом со стадионом на улице Martin-Luther-Strasse в Мюнхене.",
+    "de": "Die erste deutsche McDonald's-Filiale lag in Muenchen an der Martin-Luther-Strasse nahe dem Stadion.",
+    "en": "The first German McDonald's was on Martin-Luther-Strasse in Munich, near the stadium."
+  },
+  "sources": [
+    {
+      "label": "Tagesschau: First McDonald's in Germany",
+      "url": "https://www.tagesschau.de/wirtschaft/mcdonalds-deutschland-erste-filiale-101.html"
+    },
+    {
+      "label": "McDonald's Germany CR Report 2015",
+      "url": "https://www.mcdonalds.com/content/dam/sites/de/unreferenced/unsere-verantwortung/Nachhaltigkeitsbericht/PDF/CR-Report_2015_EN.pdf"
+    }
+  ]
+}

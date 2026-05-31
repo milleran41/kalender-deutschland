@@ -1,0 +1,65 @@
+{
+  "date": "10-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1961-checkpoint-charlie-tank-standoff",
+    "year": 1961,
+    "title": {
+      "ru": "Танки США и СССР сошлись у Checkpoint Charlie",
+      "de": "US- und Sowjetpanzer stehen am Checkpoint Charlie einander gegenueber",
+      "en": "US and Soviet tanks face off at Checkpoint Charlie"
+    },
+    "description": {
+      "ru": "27 октября 1961 года у Checkpoint Charlie в Берлине американские и советские танки оказались друг напротив друга. Несколько часов кризис выглядел как опасный момент прямого столкновения сверхдержав.",
+      "de": "Am 27. Oktober 1961 standen sich am Checkpoint Charlie in Berlin amerikanische und sowjetische Panzer gegenueber. Fuer Stunden wirkte die Krise wie ein gefaehrlicher Moment direkter Konfrontation der Supermaechte.",
+      "en": "On 27 October 1961, American and Soviet tanks faced each other at Checkpoint Charlie in Berlin. For several hours, the crisis looked like a dangerous moment of direct superpower confrontation."
+    },
+    "importance": {
+      "ru": "Дата показывает, насколько острым был Берлинский кризис вскоре после строительства стены.",
+      "de": "Das Datum zeigt, wie scharf die Berlin-Krise kurz nach dem Mauerbau war.",
+      "en": "The date shows how tense the Berlin Crisis was shortly after the Wall was built."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "checkpoint-charlie-cold-war-symbol",
+        "year": 1961,
+        "title": {
+          "ru": "Символ холодной войны",
+          "de": "Symbol des Kalten Krieges",
+          "en": "Symbol of the Cold War"
+        },
+        "description": {
+          "ru": "Checkpoint Charlie был одним из самых известных переходов между Восточным и Западным Берлином. Противостояние танков сделало его символом разделённого города и мировой напряжённости.",
+          "de": "Checkpoint Charlie war einer der bekanntesten Uebergaenge zwischen Ost- und West-Berlin. Die Panzerkonfrontation machte ihn zum Symbol der geteilten Stadt und der weltweiten Spannung.",
+          "en": "Checkpoint Charlie was one of the best-known crossings between East and West Berlin. The tank standoff made it a symbol of the divided city and global tension."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему Берлин был не просто городом, а нервным центром холодной войны.",
+          "de": "Das hilft zu verstehen, warum Berlin nicht nur eine Stadt, sondern ein Nervenzentrum des Kalten Krieges war.",
+          "en": "It helps explain why Berlin was not just a city, but a nerve center of the Cold War."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Танки стояли примерно в 100 метрах друг от друга, но стороны постепенно отвели их, и прямого боя не произошло.",
+    "de": "Die Panzer standen etwa 100 Meter voneinander entfernt, wurden aber schrittweise abgezogen; zu einem direkten Kampf kam es nicht.",
+    "en": "The tanks stood about 100 meters apart, but both sides gradually withdrew them and no direct battle occurred."
+  },
+  "sources": [
+    {
+      "label": "U.S. Army: Standoff in Berlin, October 1961",
+      "url": "https://www.army.mil/article-amp/46993"
+    },
+    {
+      "label": "National Museum of American Diplomacy: Berlin Wall",
+      "url": "https://diplomacy.state.gov/berlin-wall/"
+    }
+  ]
+}
