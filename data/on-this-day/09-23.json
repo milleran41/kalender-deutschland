@@ -1,0 +1,107 @@
+{
+  "date": "09-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1862-bismarck-prussian-minister-president",
+    "year": 1862,
+    "title": {
+      "ru": "Бисмарк стал министром-президентом Пруссии",
+      "de": "Bismarck wird preussischer Ministerpraesident",
+      "en": "Bismarck becomes Prussian minister-president"
+    },
+    "description": {
+      "ru": "23 сентября 1862 года Отто фон Бисмарк занял пост министра-президента Пруссии. Он пришёл к власти во время конфликта короля и парламента из-за военной реформы.",
+      "de": "Am 23. September 1862 wurde Otto von Bismarck preussischer Ministerpraesident. Er kam waehrend des Konflikts zwischen Koenig und Parlament um die Heeresreform an die Macht.",
+      "en": "On 23 September 1862, Otto von Bismarck became minister-president of Prussia. He came to power during a conflict between the king and parliament over military reform."
+    },
+    "importance": {
+      "ru": "С этого назначения начался путь Бисмарка к объединению Германии под руководством Пруссии.",
+      "de": "Mit dieser Ernennung begann Bismarcks Weg zur deutschen Einigung unter preussischer Fuehrung.",
+      "en": "This appointment began Bismarck's path toward German unification under Prussian leadership."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1862-prussian-constitutional-conflict",
+        "year": 1862,
+        "title": {
+          "ru": "Прусский конституционный конфликт",
+          "de": "Der preussische Verfassungskonflikt",
+          "en": "The Prussian constitutional conflict"
+        },
+        "description": {
+          "ru": "Спор шёл о праве парламента контролировать бюджет и военные расходы. Бисмарк выбрал жёсткую линию и управлял даже без полноценного согласия депутатов.",
+          "de": "Der Streit drehte sich um das Recht des Parlaments, Haushalt und Militaerausgaben zu kontrollieren. Bismarck waehlte eine harte Linie und regierte auch ohne volle Zustimmung der Abgeordneten.",
+          "en": "The dispute concerned parliament's right to control the budget and military spending. Bismarck chose a hard line and governed even without full parliamentary approval."
+        },
+        "importance": {
+          "ru": "Эта борьба показывает, что объединение Германии началось не только на полях сражений, но и в спорах о власти внутри Пруссии.",
+          "de": "Dieser Konflikt zeigt, dass die deutsche Einigung nicht nur auf Schlachtfeldern, sondern auch in Machtkaempfen innerhalb Preussens begann.",
+          "en": "The conflict shows that German unification began not only on battlefields but also in struggles over power inside Prussia."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1815-otto-von-bismarck",
+        "year": 1815,
+        "title": {
+          "ru": "Отто фон Бисмарк",
+          "de": "Otto von Bismarck",
+          "en": "Otto von Bismarck"
+        },
+        "description": {
+          "ru": "Бисмарк позже стал первым канцлером Германской империи. Его политика сочетала дипломатический расчёт, военную силу и умение использовать кризисы.",
+          "de": "Bismarck wurde spaeter der erste Reichskanzler des Deutschen Kaiserreichs. Seine Politik verband diplomatisches Kalkuel, militaerische Macht und die Faehigkeit, Krisen zu nutzen.",
+          "en": "Bismarck later became the first chancellor of the German Empire. His politics combined diplomatic calculation, military power and the ability to use crises."
+        },
+        "importance": {
+          "ru": "Без Бисмарка трудно представить карту Германии 1871 года.",
+          "de": "Ohne Bismarck ist die Deutschlandkarte von 1871 kaum vorstellbar.",
+          "en": "Without Bismarck, the map of Germany in 1871 is hard to imagine."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1862-blood-and-iron-soon-after",
+        "year": 1862,
+        "title": {
+          "ru": "До речи о «железе и крови» оставалась неделя",
+          "de": "Bis zur Rede von Eisen und Blut blieb eine Woche",
+          "en": "One week before the blood and iron speech"
+        },
+        "description": {
+          "ru": "Через несколько дней после назначения Бисмарк произнёс знаменитую речь о том, что большие вопросы времени решаются не речами и большинством голосов. Эта фраза стала одной из самых известных в его биографии.",
+          "de": "Wenige Tage nach seiner Ernennung hielt Bismarck seine beruehmte Rede, in der er sagte, grosse Fragen der Zeit wuerden nicht durch Reden und Mehrheitsbeschluesse entschieden. Der Satz wurde einer der bekanntesten seiner Biografie.",
+          "en": "A few days after his appointment, Bismarck gave his famous speech saying that the great questions of the time were not decided by speeches and majority votes. The line became one of the best-known in his biography."
+        },
+        "importance": {
+          "ru": "Иногда политический стиль эпохи узнают по одной жёсткой формуле.",
+          "de": "Manchmal erkennt man den politischen Stil einer Epoche an einer harten Formel.",
+          "en": "Sometimes the political style of an era is remembered through one hard phrase."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бисмарк одновременно стал и министром иностранных дел Пруссии, что дало ему прямое влияние на внешнюю политику.",
+    "de": "Bismarck wurde zugleich preussischer Aussenminister und erhielt damit direkten Einfluss auf die Aussenpolitik.",
+    "en": "Bismarck also became Prussian foreign minister, giving him direct influence over foreign policy."
+  },
+  "sources": [
+    {
+      "label": "Bismarck-Biografie: Bismarck as Minister-President",
+      "url": "https://www.bismarck-biografie.de/en/politik/bismarck-als-ministerpraesident-1862-1871"
+    },
+    {
+      "label": "Britannica: Otto von Bismarck",
+      "url": "https://www.britannica.com/biography/Otto-von-Bismarck"
+    }
+  ]
+}

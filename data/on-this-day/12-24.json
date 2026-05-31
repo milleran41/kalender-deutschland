@@ -1,0 +1,86 @@
+{
+  "date": "12-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1717-christmas-flood",
+    "year": 1717,
+    "title": {
+      "ru": "Рождественское наводнение на Северном море",
+      "de": "Die Weihnachtsflut an der Nordsee",
+      "en": "The Christmas flood on the North Sea"
+    },
+    "description": {
+      "ru": "В ночь с 24 на 25 декабря 1717 года сильный штормовой нагон затопил побережья Нидерландов, немецких земель и Скандинавии. Это было одно из самых разрушительных наводнений в истории Северного моря.",
+      "de": "In der Nacht vom 24. auf den 25. Dezember 1717 ueberflutete eine schwere Sturmflut die Kuesten der Niederlande, der deutschen Laender und Skandinaviens. Sie war eine der verheerendsten Fluten der Nordseegeschichte.",
+      "en": "On the night of 24-25 December 1717, a severe storm surge flooded the coasts of the Netherlands, the German lands and Scandinavia. It was one of the most devastating floods in North Sea history."
+    },
+    "importance": {
+      "ru": "Дата напоминает, что история Германии связана не только с государствами и войнами, но и с борьбой побережий против моря.",
+      "de": "Das Datum erinnert daran, dass deutsche Geschichte nicht nur mit Staaten und Kriegen, sondern auch mit dem Kampf der Kuesten gegen das Meer verbunden ist.",
+      "en": "The date is a reminder that German history is linked not only to states and wars but also to coastal struggles against the sea."
+    }
+  },
+  "categories": {
+    "weather": [
+      {
+        "id": "1717-north-sea-storm-surge",
+        "year": 1717,
+        "title": {
+          "ru": "Штормовой нагон",
+          "de": "Sturmflut",
+          "en": "Storm surge"
+        },
+        "description": {
+          "ru": "Сильный северо-западный шторм погнал воду к низким берегам Северного моря. Дамбы не выдерживали, и вода проходила далеко вглубь прибрежных районов.",
+          "de": "Ein starker Nordweststurm drueckte das Wasser gegen die niedrigen Kuesten der Nordsee. Deiche hielten nicht stand, und das Wasser drang weit in die Kuestengebiete ein.",
+          "en": "A strong northwesterly storm pushed water toward the low North Sea coasts. Dikes failed, and the water penetrated far into coastal areas."
+        },
+        "importance": {
+          "ru": "Такие события объясняют, почему дамбы, каналы и защита берегов так важны для северной Германии.",
+          "de": "Solche Ereignisse erklaeren, warum Deiche, Kanaele und Kuestenschutz fuer Norddeutschland so wichtig sind.",
+          "en": "Events like this explain why dikes, canals and coastal protection are so important for northern Germany."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "1717-coastal-memory",
+        "year": 1717,
+        "title": {
+          "ru": "Память северных побережий",
+          "de": "Erinnerung der Nordseekueste",
+          "en": "Memory of the North Sea coast"
+        },
+        "description": {
+          "ru": "Рождественское наводнение осталось в хрониках, картах и изображениях. Для прибрежных общин такие катастрофы становились частью коллективной памяти.",
+          "de": "Die Weihnachtsflut blieb in Chroniken, Karten und Bildern erhalten. Fuer Kuestengemeinden wurden solche Katastrophen Teil des gemeinsamen Gedaechtnisses.",
+          "en": "The Christmas flood remained in chronicles, maps and images. For coastal communities, such disasters became part of collective memory."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как природа тоже меняет историческую карту.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie auch Natur die historische Karte veraendert.",
+          "en": "It is a good example of how nature also changes the historical map."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Наводнение произошло в период, который часто связывают с «малым ледниковым периодом», когда суровая погода сильнее влияла на жизнь людей.",
+    "de": "Die Flut fiel in eine Zeit, die oft mit der Kleinen Eiszeit verbunden wird, als extremes Wetter das Leben der Menschen stark beeinflusste.",
+    "en": "The flood occurred during a period often associated with the Little Ice Age, when harsh weather strongly affected people's lives."
+  },
+  "sources": [
+    {
+      "label": "Deutsches Historisches Museum: Storm surges on the North Sea coast",
+      "url": "https://www.dhm.de/journal/en/post/storm-surges-on-the-north-sea-coast"
+    },
+    {
+      "label": "E3S Web of Conferences: Christmas Flood 1717",
+      "url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2018/29/e3sconf_swim2018_00011.pdf"
+    }
+  ]
+}
