@@ -1,0 +1,90 @@
+{
+  "date": "04-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-dachau-liberated",
+    "year": 1945,
+    "title": {
+      "ru": "Освобождён концлагерь Дахау",
+      "de": "Das Konzentrationslager Dachau wird befreit",
+      "en": "Dachau concentration camp is liberated"
+    },
+    "description": {
+      "ru": "29 апреля 1945 года американские войска освободили концлагерь Дахау близ Мюнхена. Освободители обнаружили десятки тысяч узников и доказательства преступлений нацистской лагерной системы.",
+      "de": "Am 29. April 1945 befreiten amerikanische Truppen das Konzentrationslager Dachau bei Muenchen. Die Befreier fanden Zehntausende Haeftlinge und Beweise fuer die Verbrechen des nationalsozialistischen Lagersystems.",
+      "en": "On 29 April 1945, American troops liberated Dachau concentration camp near Munich. The liberators found tens of thousands of prisoners and evidence of the crimes of the Nazi camp system."
+    },
+    "importance": {
+      "ru": "Дахау был одним из первых концлагерей нацистского режима и стал символом террора, начавшегося уже в 1933 году.",
+      "de": "Dachau war eines der ersten Konzentrationslager des NS-Regimes und wurde zum Symbol des Terrors, der bereits 1933 begann.",
+      "en": "Dachau was one of the first concentration camps of the Nazi regime and became a symbol of the terror that began as early as 1933."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "liberation-and-evidence",
+        "year": 1945,
+        "title": {
+          "ru": "Освобождение и свидетельства",
+          "de": "Befreiung und Zeugnisse",
+          "en": "Liberation and evidence"
+        },
+        "description": {
+          "ru": "Фотографии, отчёты и показания о Дахау помогли миру увидеть реальность нацистских преступлений. Освобождение лагеря не отменяло страданий выживших, но стало концом многолетнего террора для тысяч людей.",
+          "de": "Fotos, Berichte und Aussagen aus Dachau halfen der Welt, die Realitaet der NS-Verbrechen zu erkennen. Die Befreiung des Lagers nahm den Ueberlebenden ihr Leid nicht, beendete aber fuer Tausende den jahrelangen Terror.",
+          "en": "Photographs, reports and testimony from Dachau helped the world see the reality of Nazi crimes. The liberation did not erase survivors' suffering, but it ended years of terror for thousands."
+        },
+        "importance": {
+          "ru": "Дата помогает говорить о конце войны через судьбы конкретных людей, а не только через линии фронта.",
+          "de": "Das Datum hilft, ueber das Kriegsende anhand konkreter Menschen und nicht nur anhand von Frontlinien zu sprechen.",
+          "en": "The date helps discuss the end of the war through individual human fates, not only through front lines."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "first-camp-liberated-late",
+        "year": 1945,
+        "title": {
+          "ru": "Первый лагерь освобождали одним из последних",
+          "de": "Das erste Lager wurde spaet befreit",
+          "en": "The first camp was liberated late"
+        },
+        "description": {
+          "ru": "Дахау открылся ещё в марте 1933 года, почти сразу после прихода нацистов к власти. Но освобождён он был только в последние дни войны в Европе.",
+          "de": "Dachau wurde schon im Maerz 1933 eroeffnet, fast unmittelbar nach der Machtuebernahme der Nationalsozialisten. Befreit wurde es aber erst in den letzten Kriegstagen in Europa.",
+          "en": "Dachau opened in March 1933, almost immediately after the Nazis came to power. Yet it was liberated only in the final days of the war in Europe."
+        },
+        "importance": {
+          "ru": "Это страшно показывает, как долго существовала система террора.",
+          "de": "Das zeigt erschreckend, wie lange das Terrorsystem bestand.",
+          "en": "It starkly shows how long the system of terror existed."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На территории бывшего лагеря сегодня находится мемориальный комплекс.",
+    "de": "Auf dem Gelaende des frueheren Lagers befindet sich heute eine Gedenkstaette.",
+    "en": "A memorial site now stands on the grounds of the former camp."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Liberation of Dachau",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/liberation-of-dachau"
+    },
+    {
+      "label": "Dachau Memorial Site: The Hour of Liberation",
+      "url": "https://www.kz-gedenkstaette-dachau.de/en/liberation-event/the-hour-of-liberation/"
+    },
+    {
+      "label": "National WWII Museum: The liberation of Dachau",
+      "url": "https://www.nationalww2museum.org/war/articles/american-liberation-dachau-april-29-1945"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "05-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1952-bonn-contractual-agreements-finalized",
+    "year": 1952,
+    "title": {
+      "ru": "В Бонне завершали подготовку Deutschlandvertrag",
+      "de": "In Bonn wird der Deutschlandvertrag vorbereitet",
+      "en": "The Germany Treaty is being finalized in Bonn"
+    },
+    "description": {
+      "ru": "25 мая 1952 года в Бонне шли заключительные переговоры западных союзников и ФРГ по договорному комплексу, который должны были подписать 26 мая. Эти соглашения должны были заменить оккупационный режим новым статусом ФРГ.",
+      "de": "Am 25. Mai 1952 liefen in Bonn die abschliessenden Verhandlungen der Westalliierten und der Bundesrepublik ueber den Vertragskomplex, der am 26. Mai unterzeichnet werden sollte. Diese Abkommen sollten das Besatzungsregime durch einen neuen Status der Bundesrepublik ersetzen.",
+      "en": "On 25 May 1952, final negotiations were underway in Bonn between the Western Allies and the Federal Republic over the package of agreements to be signed on 26 May. These agreements were meant to replace the occupation regime with a new status for West Germany."
+    },
+    "importance": {
+      "ru": "Дата показывает, как ФРГ шаг за шагом двигалась от послевоенной оккупации к ограниченной суверенности и западной интеграции.",
+      "de": "Das Datum zeigt, wie die Bundesrepublik Schritt fuer Schritt von der Nachkriegsbesatzung zu begrenzter Souveraenitaet und Westintegration ging.",
+      "en": "The date shows how West Germany moved step by step from postwar occupation toward limited sovereignty and Western integration."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bonn-conventions-and-sovereignty",
+        "year": 1952,
+        "title": {
+          "ru": "Договоры вместо оккупационного статуса",
+          "de": "Vertraege statt Besatzungsstatut",
+          "en": "Treaties instead of occupation status"
+        },
+        "description": {
+          "ru": "Deutschlandvertrag был связан с планами оборонного вклада ФРГ и западной системой безопасности. Полная сила договоров проявилась позже, после изменений Парижских соглашений и вступления их в силу в 1955 году.",
+          "de": "Der Deutschlandvertrag war mit Plaenen fuer einen westdeutschen Verteidigungsbeitrag und das westliche Sicherheitssystem verbunden. Seine volle Wirkung entfaltete sich spaeter nach den Pariser Aenderungen und dem Inkrafttreten 1955.",
+          "en": "The Germany Treaty was tied to plans for a West German defense contribution and the Western security system. Its full effect came later after the Paris amendments and entry into force in 1955."
+        },
+        "importance": {
+          "ru": "Так видно, что суверенитет ФРГ возник не одним актом, а сложной цепочкой договоров.",
+          "de": "So wird sichtbar, dass die Souveraenitaet der Bundesrepublik nicht durch einen einzigen Akt entstand, sondern durch eine komplizierte Vertragskette.",
+          "en": "It shows that West German sovereignty did not emerge through a single act, but through a complicated chain of treaties."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "bonn-as-diplomatic-stage",
+        "year": 1952,
+        "title": {
+          "ru": "Бонн как дипломатическая сцена",
+          "de": "Bonn als diplomatische Buehne",
+          "en": "Bonn as a diplomatic stage"
+        },
+        "description": {
+          "ru": "Маленький Бонн, временная столица ФРГ, стал местом переговоров, от которых зависел международный статус страны. Это хорошо показывает, как «временный» город оказался в центре большой политики.",
+          "de": "Das kleine Bonn, die provisorische Hauptstadt der Bundesrepublik, wurde zum Ort von Verhandlungen, von denen der internationale Status des Landes abhing. Das zeigt gut, wie eine vorlaeufige Stadt ins Zentrum grosser Politik rueckte.",
+          "en": "Small Bonn, West Germany's provisional capital, became the site of negotiations on the country's international status. It shows how a 'temporary' city moved to the center of high politics."
+        },
+        "importance": {
+          "ru": "Для карты Германии это важная деталь: политический центр страны долго находился не в Берлине.",
+          "de": "Fuer die Karte Deutschlands ist das ein wichtiges Detail: Das politische Zentrum des Landes lag lange nicht in Berlin.",
+          "en": "For Germany's map this is an important detail: the country's political center was long not in Berlin."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Deutschlandvertrag был подписан 26 мая 1952 года, но вступил в силу только 5 мая 1955 года.",
+    "de": "Der Deutschlandvertrag wurde am 26. Mai 1952 unterzeichnet, trat aber erst am 5. Mai 1955 in Kraft.",
+    "en": "The Germany Treaty was signed on 26 May 1952, but entered into force only on 5 May 1955."
+  },
+  "sources": [
+    {
+      "label": "Office of the Historian: Bonn meetings, May 23-26, 1952",
+      "url": "https://history.state.gov/historicaldocuments/frus1952-54v06p2/d517"
+    },
+    {
+      "label": "NDR: Deutschlandvertrag",
+      "url": "https://www.ndr.de/geschichte/chronologie/Deutschlandvertrag-Wie-die-Bundesrepublik-souveraen-wurde,deutschlandvertrag100.html"
+    },
+    {
+      "label": "Cambridge Core: Convention on Relations Between the Three Powers and the FRG",
+      "url": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/convention-on-relations-between-the-three-powers-and-the-federal-republic-of-germany/111504FE6D56517CABDC57809D7B7965"
+    }
+  ]
+}
