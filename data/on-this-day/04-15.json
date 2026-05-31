@@ -1,0 +1,90 @@
+{
+  "date": "04-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-liberation-bergen-belsen",
+    "year": 1945,
+    "title": {
+      "ru": "Освобождён концлагерь Берген-Бельзен",
+      "de": "Das Konzentrationslager Bergen-Belsen wird befreit",
+      "en": "Bergen-Belsen concentration camp is liberated"
+    },
+    "description": {
+      "ru": "15 апреля 1945 года британские войска вошли в концлагерь Берген-Бельзен в Нижней Саксонии. Они обнаружили тысячи погибших и десятки тысяч людей в тяжелейшем состоянии.",
+      "de": "Am 15. April 1945 erreichten britische Truppen das Konzentrationslager Bergen-Belsen in Niedersachsen. Sie fanden Tausende Tote und Zehntausende Menschen in schwerstem Zustand vor.",
+      "en": "On 15 April 1945, British troops entered Bergen-Belsen concentration camp in Lower Saxony. They found thousands of dead and tens of thousands of people in desperate condition."
+    },
+    "importance": {
+      "ru": "Освобождение Берген-Бельзена стало одним из моментов, когда миру особенно ясно открылись масштабы преступлений нацистского режима.",
+      "de": "Die Befreiung Bergen-Belsens wurde zu einem Moment, in dem der Welt das Ausmass der Verbrechen des NS-Regimes besonders deutlich vor Augen trat.",
+      "en": "The liberation of Bergen-Belsen became one of the moments when the world saw the scale of the Nazi regime's crimes especially clearly."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "holocaust-evidence-bergen-belsen",
+        "year": 1945,
+        "title": {
+          "ru": "Свидетельство Холокоста",
+          "de": "Zeugnis des Holocaust",
+          "en": "Evidence of the Holocaust"
+        },
+        "description": {
+          "ru": "Фотографии, кинохроника и рассказы солдат из Берген-Бельзена стали важными доказательствами преступлений. Освобождение лагеря не означало немедленного спасения всех: многие узники умерли уже после прихода союзников от болезней и истощения.",
+          "de": "Fotos, Filmaufnahmen und Berichte von Soldaten aus Bergen-Belsen wurden zu wichtigen Beweisen der Verbrechen. Die Befreiung bedeutete nicht sofortige Rettung fuer alle: Viele Haeftlinge starben noch nach der Ankunft der Alliierten an Krankheiten und Entkraeftung.",
+          "en": "Photographs, film footage and soldiers' reports from Bergen-Belsen became important evidence of the crimes. Liberation did not mean immediate rescue for everyone: many prisoners died after the Allies arrived from disease and exhaustion."
+        },
+        "importance": {
+          "ru": "Дата помогает говорить о памяти без абстракции: за ней стоят конкретные люди, места и документы.",
+          "de": "Das Datum hilft, ueber Erinnerung ohne Abstraktion zu sprechen: Dahinter stehen konkrete Menschen, Orte und Dokumente.",
+          "en": "The date helps discuss memory without abstraction: behind it are specific people, places and documents."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "anne-frank-bergen-belsen",
+        "year": 1945,
+        "title": {
+          "ru": "Память об Анне Франк",
+          "de": "Erinnerung an Anne Frank",
+          "en": "Remembering Anne Frank"
+        },
+        "description": {
+          "ru": "Среди жертв Берген-Бельзена была Анна Франк, автор знаменитого дневника. Она умерла в лагере незадолго до освобождения.",
+          "de": "Zu den Opfern von Bergen-Belsen gehoerte Anne Frank, die Autorin des beruehmten Tagebuchs. Sie starb kurz vor der Befreiung im Lager.",
+          "en": "Among the victims of Bergen-Belsen was Anne Frank, author of the famous diary. She died in the camp shortly before liberation."
+        },
+        "importance": {
+          "ru": "Её история помогает многим школьникам впервые понять человеческое измерение Холокоста.",
+          "de": "Ihre Geschichte hilft vielen Schuelern erstmals, die menschliche Dimension des Holocaust zu begreifen.",
+          "en": "Her story helps many students first grasp the human dimension of the Holocaust."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После освобождения лагерь пришлось сжечь из-за эпидемий и санитарной катастрофы.",
+    "de": "Nach der Befreiung musste das Lager wegen Seuchen und der sanitaeren Katastrophe niedergebrannt werden.",
+    "en": "After liberation, the camp had to be burned because of epidemics and the sanitary catastrophe."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Liberation of Bergen-Belsen",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/liberation-of-bergen-belsen"
+    },
+    {
+      "label": "National Army Museum: The liberation of Belsen",
+      "url": "https://www.nam.ac.uk/explore/liberation-belsen"
+    },
+    {
+      "label": "GHDI: The Liberation of Bergen-Belsen",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/the-liberation-of-bergen-belsen-april-1945"
+    }
+  ]
+}

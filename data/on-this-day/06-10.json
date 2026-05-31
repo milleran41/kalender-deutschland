@@ -1,0 +1,90 @@
+{
+  "date": "06-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1942-lidice-massacre",
+    "year": 1942,
+    "title": {
+      "ru": "Нацисты уничтожили деревню Лидице",
+      "de": "Die Nationalsozialisten zerstoeren Lidice",
+      "en": "The Nazis destroy Lidice"
+    },
+    "description": {
+      "ru": "10 июня 1942 года немецкие силы уничтожили чешскую деревню Лидице в ответ на убийство рейхспротектора Рейнхарда Гейдриха. Мужчин расстреляли, женщин депортировали, многих детей убили или отправили на «германизацию».",
+      "de": "Am 10. Juni 1942 zerstoerten deutsche Kraefte das tschechische Dorf Lidice als Vergeltung fuer das Attentat auf Reichsprotektor Reinhard Heydrich. Die Maenner wurden erschossen, Frauen deportiert, viele Kinder ermordet oder zur Germanisierung verschleppt.",
+      "en": "On 10 June 1942, German forces destroyed the Czech village of Lidice in reprisal for the assassination of Reich Protector Reinhard Heydrich. The men were shot, women deported, and many children were killed or taken for Germanization."
+    },
+    "importance": {
+      "ru": "Лидице стало международным символом нацистских карательных акций против гражданского населения.",
+      "de": "Lidice wurde zu einem internationalen Symbol nationalsozialistischer Vergeltungsaktionen gegen die Zivilbevoelkerung.",
+      "en": "Lidice became an international symbol of Nazi reprisals against civilians."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "occupation-terror-bohemia-moravia",
+        "year": 1942,
+        "title": {
+          "ru": "Террор оккупации",
+          "de": "Terror der Besatzung",
+          "en": "Terror of occupation"
+        },
+        "description": {
+          "ru": "Немецкая оккупационная власть в протекторате Богемии и Моравии использовала коллективные наказания, чтобы запугать население. Уничтожение Лидице было публичным предупреждением другим.",
+          "de": "Die deutsche Besatzungsmacht im Protektorat Boehmen und Maehren nutzte Kollektivstrafen, um die Bevoelkerung einzuschuechtern. Die Zerstoerung von Lidice war eine oeffentliche Warnung an andere.",
+          "en": "German occupation authorities in the Protectorate of Bohemia and Moravia used collective punishment to intimidate the population. The destruction of Lidice was a public warning to others."
+        },
+        "importance": {
+          "ru": "Дата напоминает, что история нацистской Германии включает преступления не только внутри Германии, но и на оккупированных территориях.",
+          "de": "Das Datum erinnert daran, dass die Geschichte NS-Deutschlands Verbrechen nicht nur in Deutschland, sondern auch in den besetzten Gebieten umfasst.",
+          "en": "The date is a reminder that the history of Nazi Germany includes crimes not only inside Germany, but also in occupied territories."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "lidice-name-survives",
+        "year": 1942,
+        "title": {
+          "ru": "Имя, которое не удалось стереть",
+          "de": "Ein Name, der nicht ausgeloescht wurde",
+          "en": "A name that could not be erased"
+        },
+        "description": {
+          "ru": "Нацисты хотели стереть Лидице с карты, но произошло обратное: имя деревни стало известно по всему миру. В разных странах появились улицы, посёлки и памятники с названием Lidice.",
+          "de": "Die Nationalsozialisten wollten Lidice von der Karte tilgen, doch das Gegenteil geschah: Der Name des Dorfes wurde weltweit bekannt. In verschiedenen Laendern entstanden Strassen, Siedlungen und Denkmale mit dem Namen Lidice.",
+          "en": "The Nazis wanted to erase Lidice from the map, but the opposite happened: the village's name became known worldwide. Streets, settlements and memorials named Lidice appeared in different countries."
+        },
+        "importance": {
+          "ru": "Это редкий случай, когда попытка уничтожить память сделала её ещё сильнее.",
+          "de": "Das ist ein seltener Fall, in dem der Versuch, Erinnerung zu vernichten, sie noch staerker machte.",
+          "en": "It is a rare case in which an attempt to destroy memory made it even stronger."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Материалы о Лидице позднее использовались как доказательства на Нюрнбергском процессе.",
+    "de": "Material ueber Lidice wurde spaeter als Beweismittel im Nuernberger Prozess verwendet.",
+    "en": "Material about Lidice was later used as evidence at the Nuremberg trials."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Germans Destroy Lidice",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/germans-destroy-lidice"
+    },
+    {
+      "label": "Britannica: Lidice",
+      "url": "https://www.britannica.com/place/Lidice"
+    },
+    {
+      "label": "Deutschlandmuseum: The Lidice massacre",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1942-06-10-the-lidice-massacre/"
+    }
+  ]
+}

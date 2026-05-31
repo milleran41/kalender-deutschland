@@ -1,0 +1,90 @@
+{
+  "date": "04-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-law-restoration-professional-civil-service",
+    "year": 1933,
+    "title": {
+      "ru": "Нацисты приняли закон о чистке госслужбы",
+      "de": "Das NS-Regime beschliesst das Berufsbeamtengesetz",
+      "en": "The Nazi regime passes the Civil Service Law"
+    },
+    "description": {
+      "ru": "7 апреля 1933 года в Германии был принят закон о «восстановлении профессионального чиновничества». Он позволял увольнять политически неугодных служащих и людей еврейского происхождения из государственной службы.",
+      "de": "Am 7. April 1933 wurde in Deutschland das Gesetz zur Wiederherstellung des Berufsbeamtentums beschlossen. Es ermoeglichte die Entlassung politisch missliebiger Beamter und von Menschen juedischer Herkunft aus dem Staatsdienst.",
+      "en": "On 7 April 1933, Germany passed the Law for the Restoration of the Professional Civil Service. It allowed the dismissal of politically undesirable civil servants and people of Jewish descent from public service."
+    },
+    "importance": {
+      "ru": "Это был один из первых крупных шагов к превращению государства в инструмент нацистской диктатуры и дискриминации.",
+      "de": "Dies war einer der ersten grossen Schritte, den Staat zu einem Werkzeug der NS-Diktatur und Diskriminierung zu machen.",
+      "en": "It was one of the first major steps in turning the state into an instrument of Nazi dictatorship and discrimination."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "gleichschaltung-civil-service",
+        "year": 1933,
+        "title": {
+          "ru": "Гляйхшальтунг на практике",
+          "de": "Gleichschaltung in der Praxis",
+          "en": "Gleichschaltung in practice"
+        },
+        "description": {
+          "ru": "После прихода Гитлера к власти нацисты быстро подчиняли себе учреждения, суды, школы и университеты. Закон 7 апреля стал юридическим инструментом этой перестройки.",
+          "de": "Nach Hitlers Machtuebernahme unterwarfen die Nationalsozialisten rasch Behoerden, Gerichte, Schulen und Universitaeten. Das Gesetz vom 7. April wurde zu einem juristischen Werkzeug dieser Umformung.",
+          "en": "After Hitler came to power, the Nazis quickly brought institutions, courts, schools and universities under their control. The law of 7 April became a legal tool for this transformation."
+        },
+        "importance": {
+          "ru": "Так видно, что диктатура создаётся не только насилием на улицах, но и законами, приказами и увольнениями.",
+          "de": "So wird sichtbar, dass eine Diktatur nicht nur durch Gewalt auf der Strasse entsteht, sondern auch durch Gesetze, Befehle und Entlassungen.",
+          "en": "This shows that dictatorship is built not only through street violence, but also through laws, orders and dismissals."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "academics-artists-exile",
+        "year": 1933,
+        "title": {
+          "ru": "Удар по науке и культуре",
+          "de": "Schlag gegen Wissenschaft und Kultur",
+          "en": "A blow to science and culture"
+        },
+        "description": {
+          "ru": "Закон затронул преподавателей, судей, врачей, чиновников и работников культурной сферы. Многие талантливые люди были вытеснены из профессии или вынуждены эмигрировать.",
+          "de": "Das Gesetz traf Lehrende, Richter, Aerzte, Beamte und Menschen aus dem Kulturbereich. Viele begabte Menschen wurden aus ihrem Beruf gedraengt oder zur Emigration gezwungen.",
+          "en": "The law affected teachers, judges, doctors, officials and people in cultural life. Many talented people were forced out of their professions or into exile."
+        },
+        "importance": {
+          "ru": "Германия потеряла огромную часть интеллектуального и культурного потенциала.",
+          "de": "Deutschland verlor einen grossen Teil seines intellektuellen und kulturellen Potenzials.",
+          "en": "Germany lost a large part of its intellectual and cultural potential."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Закон был принят меньше чем через три месяца после назначения Гитлера рейхсканцлером.",
+    "de": "Das Gesetz wurde weniger als drei Monate nach Hitlers Ernennung zum Reichskanzler beschlossen.",
+    "en": "The law was passed less than three months after Hitler was appointed Chancellor."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Gesetz zur Wiederherstellung des Berufsbeamtentums",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/7-april-1933-gesetz-zur-wiederherstellung-des-berufsbeamtentums/"
+    },
+    {
+      "label": "GHDI: Law for the Restoration of the Professional Civil Service",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/law-for-the-restoration-of-the-professional-civil-service-april-7-1933"
+    },
+    {
+      "label": "Kuenste im Exil: The Law for the Restoration of the Professional Civil Service",
+      "url": "https://kuenste-im-exil.de/KIE/Content/EN/Topics/gesetz-zur-wiederherstellung-en.html"
+    }
+  ]
+}
