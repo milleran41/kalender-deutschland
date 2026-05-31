@@ -1,0 +1,90 @@
+{
+  "date": "04-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1960-german-dutch-border-treaty",
+    "year": 1960,
+    "title": {
+      "ru": "ФРГ и Нидерланды урегулировали послевоенные пограничные вопросы",
+      "de": "Die Bundesrepublik und die Niederlande regeln Grenzfragen",
+      "en": "West Germany and the Netherlands settle border issues"
+    },
+    "description": {
+      "ru": "8 апреля 1960 года ФРГ и Нидерланды подписали договор, который урегулировал ряд послевоенных вопросов, включая возвращение большей части территорий, занятых Нидерландами после 1949 года. Договор стал частью нормализации отношений между соседями.",
+      "de": "Am 8. April 1960 unterzeichneten die Bundesrepublik und die Niederlande einen Vertrag, der mehrere Nachkriegsfragen regelte, darunter die Rueckgabe des groessten Teils der seit 1949 niederlaendisch verwalteten Gebiete. Der Vertrag wurde Teil der Normalisierung zwischen Nachbarn.",
+      "en": "On 8 April 1960, West Germany and the Netherlands signed a treaty settling several postwar issues, including the return of most territories administered by the Netherlands since 1949. The treaty became part of normalization between neighbors."
+    },
+    "importance": {
+      "ru": "Дата хорошо подходит для календаря с картами: она показывает, что даже небольшие участки границы после войны могли требовать долгих переговоров.",
+      "de": "Das Datum passt gut zu einem Kalender mit Karten: Es zeigt, dass selbst kleine Grenzabschnitte nach dem Krieg lange Verhandlungen erfordern konnten.",
+      "en": "The date fits a calendar with maps well: it shows that even small border sections after the war could require long negotiations."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "postwar-border-normalization",
+        "year": 1960,
+        "title": {
+          "ru": "Послевоенная нормализация",
+          "de": "Nachkriegliche Normalisierung",
+          "en": "Postwar normalization"
+        },
+        "description": {
+          "ru": "После немецкой оккупации Нидерландов вопрос доверия между странами был особенно сложным. Пограничный договор не стирал память о войне, но создавал практическую основу для будущего сотрудничества.",
+          "de": "Nach der deutschen Besatzung der Niederlande war die Vertrauensfrage zwischen beiden Laendern besonders schwierig. Der Grenzvertrag loeschte die Erinnerung an den Krieg nicht aus, schuf aber eine praktische Grundlage fuer kuenftige Zusammenarbeit.",
+          "en": "After the German occupation of the Netherlands, the question of trust between the two countries was especially difficult. The border treaty did not erase the memory of war, but it created a practical basis for future cooperation."
+        },
+        "importance": {
+          "ru": "Так видно, как европейское примирение строилось через конкретные договоры и границы.",
+          "de": "So wird sichtbar, wie europaeische Versoehnung durch konkrete Vertraege und Grenzen entstand.",
+          "en": "It shows how European reconciliation was built through concrete treaties and borders."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "small-border-big-meaning",
+        "year": 1960,
+        "title": {
+          "ru": "Маленькая граница, большой смысл",
+          "de": "Kleine Grenze, grosse Bedeutung",
+          "en": "Small border, big meaning"
+        },
+        "description": {
+          "ru": "Речь шла не о гигантских территориях, а о сравнительно небольших приграничных участках. Но для жителей таких мест смена администрации могла означать новые документы, правила и повседневные привычки.",
+          "de": "Es ging nicht um riesige Gebiete, sondern um vergleichsweise kleine Grenzabschnitte. Fuer die Menschen vor Ort konnte ein Verwaltungswechsel aber neue Dokumente, Regeln und Alltagsgewohnheiten bedeuten.",
+          "en": "The issue was not huge territories, but relatively small border sections. For local residents, however, a change of administration could mean new documents, rules and everyday habits."
+        },
+        "importance": {
+          "ru": "Это напоминает, что карта состоит не только из линий, но и из жизни людей по обе стороны границы.",
+          "de": "Das erinnert daran, dass eine Karte nicht nur aus Linien besteht, sondern aus dem Leben der Menschen auf beiden Seiten der Grenze.",
+          "en": "It is a reminder that a map consists not only of lines, but of people's lives on both sides of a border."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Договор 1960 года часто связывают с возвращением Германии района Эльтен и других небольших территорий.",
+    "de": "Der Vertrag von 1960 wird oft mit der Rueckgabe von Elten und anderen kleinen Gebieten an Deutschland verbunden.",
+    "en": "The 1960 treaty is often associated with the return of Elten and other small areas to Germany."
+  },
+  "sources": [
+    {
+      "label": "CVCE: Treaty between the Netherlands and the Federal Republic of Germany",
+      "url": "https://www.cvce.eu/en/obj/treaty_between_the_kingdom_of_the_netherlands_and_the_federal_republic_of_germany_the_hague_8_april_1960-en-3700eecf-e8b4-4ba8-bb35-d5e33e18f161.html"
+    },
+    {
+      "label": "CVCE: Relations between Germany and the Benelux countries",
+      "url": "https://www.cvce.eu/en/education/unit-content/-/unit/55c09dcc-a9f2-45e9-b240-eaef64452cae/42cc8d15-b5c9-430c-a04d-7955d12e3bf4"
+    },
+    {
+      "label": "Duitsland Instituut: Elten",
+      "url": "https://duitslandinstituut.nl/naslagwerk/233/elten"
+    }
+  ]
+}

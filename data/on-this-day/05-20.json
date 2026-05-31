@@ -1,0 +1,90 @@
+{
+  "date": "05-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1631-sack-of-magdeburg",
+    "year": 1631,
+    "title": {
+      "ru": "Разорение Магдебурга",
+      "de": "Die Zerstoerung Magdeburgs",
+      "en": "The sack of Magdeburg"
+    },
+    "description": {
+      "ru": "20 мая 1631 года, во время Тридцатилетней войны, войска Католической лиги и императора захватили протестантский Магдебург. Город был разрушен, а гибель жителей стала одним из самых страшных эпизодов войны.",
+      "de": "Am 20. Mai 1631 eroberten Truppen der Katholischen Liga und des Kaisers im Dreissigjaehrigen Krieg das protestantische Magdeburg. Die Stadt wurde verwuestet, und der Tod vieler Einwohner wurde zu einer der schrecklichsten Episoden des Krieges.",
+      "en": "On 20 May 1631, during the Thirty Years' War, troops of the Catholic League and the emperor captured Protestant Magdeburg. The city was devastated, and the deaths of many inhabitants became one of the war's most horrific episodes."
+    },
+    "importance": {
+      "ru": "Магдебург стал символом жестокости Тридцатилетней войны и разрушения городов в религиозно-политическом конфликте.",
+      "de": "Magdeburg wurde zum Symbol der Grausamkeit des Dreissigjaehrigen Krieges und der Zerstoerung von Staedten in einem religioes-politischen Konflikt.",
+      "en": "Magdeburg became a symbol of the brutality of the Thirty Years' War and the destruction of cities in a religious-political conflict."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "thirty-years-war-civilian-suffering",
+        "year": 1631,
+        "title": {
+          "ru": "Городская катастрофа",
+          "de": "Eine staedtische Katastrophe",
+          "en": "An urban catastrophe"
+        },
+        "description": {
+          "ru": "Тридцатилетняя война была не только войной армий, но и бедствием для мирного населения. Разорение Магдебурга показало, как осада, пожар, грабёж и паника могли уничтожить один из важных городов империи.",
+          "de": "Der Dreissigjaehrige Krieg war nicht nur ein Krieg der Armeen, sondern auch eine Katastrophe fuer die Zivilbevoelkerung. Die Zerstoerung Magdeburgs zeigte, wie Belagerung, Brand, Pluenderung und Panik eine wichtige Reichsstadt vernichten konnten.",
+          "en": "The Thirty Years' War was not only a war of armies, but also a catastrophe for civilians. The sack of Magdeburg showed how siege, fire, looting and panic could destroy an important imperial city."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, почему память о Тридцатилетней войне в Германии была такой тяжёлой.",
+          "de": "Das Datum hilft zu verstehen, warum die Erinnerung an den Dreissigjaehrigen Krieg in Deutschland so schwer war.",
+          "en": "The date helps explain why the memory of the Thirty Years' War was so heavy in Germany."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "magdeburgisieren",
+        "year": 1631,
+        "title": {
+          "ru": "Слово «магдебургизировать»",
+          "de": "Das Wort magdeburgisieren",
+          "en": "The word 'Magdeburgize'"
+        },
+        "description": {
+          "ru": "После катастрофы название города стало нарицательным: выражение «магдебургизировать» означало полностью разрушить город. Так одно место вошло даже в язык войны.",
+          "de": "Nach der Katastrophe wurde der Stadtname sprichwoertlich: Magdeburgisieren bedeutete, eine Stadt voellig zu zerstoeren. So ging ein Ort sogar in die Sprache des Krieges ein.",
+          "en": "After the catastrophe, the city's name became proverbial: to 'Magdeburgize' meant to destroy a city completely. A place thus entered the language of war."
+        },
+        "importance": {
+          "ru": "Это страшная, но запоминающаяся деталь о силе исторической памяти.",
+          "de": "Das ist ein schreckliches, aber einpraegsames Detail ueber die Kraft historischer Erinnerung.",
+          "en": "It is a grim but memorable detail about the power of historical memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Событие также известно как «Магдебургская свадьба» — горькое и саркастическое название катастрофы.",
+    "de": "Das Ereignis ist auch als Magdeburger Hochzeit bekannt, eine bittere und sarkastische Bezeichnung fuer die Katastrophe.",
+    "en": "The event is also known as the 'Magdeburg Wedding', a bitter and sarcastic name for the catastrophe."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Sack of Magdeburg",
+      "url": "https://www.britannica.com/event/Sack-of-Magdeburg"
+    },
+    {
+      "label": "German History in Documents and Images: Thirty Years War",
+      "url": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648"
+    },
+    {
+      "label": "Stadtarchiv Magdeburg: Magdeburger Hochzeit",
+      "url": "https://stadtarchiv.magdeburg.de/Start/B%C3%BCrger-Stadt/Stadt/Stadtgeschichte/index.php?La=1&NavID=37.367&object=tx,37.8847.1&kat=&kuo=2&sub=0"
+    }
+  ]
+}

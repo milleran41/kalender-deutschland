@@ -1,0 +1,90 @@
+{
+  "date": "03-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1814-battle-of-paris",
+    "year": 1814,
+    "title": {
+      "ru": "Союзники взяли Париж",
+      "de": "Die Verbuendeten nehmen Paris ein",
+      "en": "The Allies take Paris"
+    },
+    "description": {
+      "ru": "30 марта 1814 года войска антинаполеоновской коалиции сражались за Париж. В составе союзных сил были прусские и другие немецкие контингенты, а падение города ускорило отречение Наполеона.",
+      "de": "Am 30. Maerz 1814 kaempften Truppen der antinapoleonischen Koalition um Paris. Zu den alliierten Kraeften gehoerten preussische und andere deutsche Kontingente, und der Fall der Stadt beschleunigte Napoleons Abdankung.",
+      "en": "On 30 March 1814, troops of the anti-Napoleonic coalition fought for Paris. The Allied forces included Prussian and other German contingents, and the fall of the city hastened Napoleon's abdication."
+    },
+    "importance": {
+      "ru": "Дата важна для немецкой истории, потому что победа над Наполеоном изменила карту Центральной Европы и подготовила Венский конгресс.",
+      "de": "Das Datum ist fuer die deutsche Geschichte wichtig, weil der Sieg ueber Napoleon die Karte Mitteleuropas veraenderte und den Wiener Kongress vorbereitete.",
+      "en": "The date matters for German history because victory over Napoleon changed the map of Central Europe and prepared the way for the Congress of Vienna."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "liberation-wars-endgame",
+        "year": 1814,
+        "title": {
+          "ru": "Финал Освободительных войн",
+          "de": "Endphase der Befreiungskriege",
+          "en": "Final phase of the Wars of Liberation"
+        },
+        "description": {
+          "ru": "Для многих немецких земель война против Наполеона стала опытом совместного сопротивления французскому господству. После 1814 года вопрос о будущем немецких государств оказался в центре европейской дипломатии.",
+          "de": "Fuer viele deutsche Laender wurde der Krieg gegen Napoleon zur Erfahrung gemeinsamen Widerstands gegen franzoesische Vorherrschaft. Nach 1814 rueckte die Zukunft der deutschen Staaten ins Zentrum europaeischer Diplomatie.",
+          "en": "For many German lands, the war against Napoleon became an experience of joint resistance to French dominance. After 1814, the future of the German states moved to the center of European diplomacy."
+        },
+        "importance": {
+          "ru": "Так дата связывает карту Германии с большой европейской перестройкой после Наполеона.",
+          "de": "So verbindet das Datum die Karte Deutschlands mit der grossen europaeischen Neuordnung nach Napoleon.",
+          "en": "The date connects Germany's map with the major European reordering after Napoleon."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "paris-before-german-unification",
+        "year": 1814,
+        "title": {
+          "ru": "Немцы ещё без единой Германии",
+          "de": "Deutsche noch ohne einheitliches Deutschland",
+          "en": "Germans before a united Germany"
+        },
+        "description": {
+          "ru": "В 1814 году единого немецкого государства ещё не существовало. Поэтому на карте войны были Пруссия, Бавария, Вюртемберг и другие государства, а не современная Германия.",
+          "de": "1814 gab es noch keinen einheitlichen deutschen Staat. Auf der Kriegskarte standen daher Preussen, Bayern, Wuerttemberg und andere Staaten, nicht das heutige Deutschland.",
+          "en": "In 1814 there was still no unified German state. The war map therefore showed Prussia, Bavaria, Wuerttemberg and other states, not modern Germany."
+        },
+        "importance": {
+          "ru": "Это помогает не путать современную карту с исторической.",
+          "de": "Das hilft, die heutige Karte nicht mit der historischen zu verwechseln.",
+          "en": "It helps avoid confusing today's map with the historical one."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После взятия Парижа Наполеон вскоре отрёкся от престола и был отправлен на остров Эльба.",
+    "de": "Nach der Einnahme von Paris dankte Napoleon bald ab und wurde auf die Insel Elba geschickt.",
+    "en": "After Paris was taken, Napoleon soon abdicated and was sent to the island of Elba."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Napoleon I, the fall of the empire",
+      "url": "https://www.britannica.com/biography/Napoleon-I/The-fall-of-the-empire"
+    },
+    {
+      "label": "Napoleon.org: 1814 Campaign in France",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/timelines/1814-campaign-in-france/"
+    },
+    {
+      "label": "Oxford Reference: Battle of Paris",
+      "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100305450"
+    }
+  ]
+}
