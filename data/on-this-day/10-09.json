@@ -1,0 +1,86 @@
+{
+  "date": "10-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-leipzig-monday-demonstration",
+    "year": 1989,
+    "title": {
+      "ru": "Большая демонстрация в Лейпциге",
+      "de": "Grosse Montagsdemonstration in Leipzig",
+      "en": "Large Monday demonstration in Leipzig"
+    },
+    "description": {
+      "ru": "9 октября 1989 года около 70 000 человек вышли на улицы Лейпцига с лозунгом «Мы - народ». Власти ГДР стянули силы безопасности, но массового насилия удалось избежать.",
+      "de": "Am 9. Oktober 1989 gingen in Leipzig etwa 70.000 Menschen mit dem Ruf \"Wir sind das Volk\" auf die Strasse. Die DDR-Fuehrung hatte Sicherheitskraefte bereitgestellt, doch eine gewaltsame Eskalation blieb aus.",
+      "en": "On 9 October 1989, about 70,000 people marched through Leipzig chanting \"We are the people\". East German authorities had deployed security forces, but large-scale violence was avoided."
+    },
+    "importance": {
+      "ru": "Этот вечер стал переломным моментом Мирной революции и показал, что страх перед режимом начал отступать.",
+      "de": "Dieser Abend wurde zu einem Wendepunkt der Friedlichen Revolution und zeigte, dass die Angst vor dem Regime schwand.",
+      "en": "The evening became a turning point of the Peaceful Revolution and showed that fear of the regime was fading."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1989-nikolaikirche-prayers",
+        "year": 1989,
+        "title": {
+          "ru": "Молитвы за мир у церкви Святого Николая",
+          "de": "Friedensgebete an der Nikolaikirche",
+          "en": "Prayers for peace at St Nicholas Church"
+        },
+        "description": {
+          "ru": "Перед демонстрациями в Лейпциге важным местом встречи стала церковь Святого Николая. После молитв люди выходили на улицы, и движение постепенно стало массовым.",
+          "de": "Vor den Demonstrationen wurde die Nikolaikirche in Leipzig zu einem wichtigen Treffpunkt. Nach den Friedensgebeten gingen Menschen auf die Strasse, und die Bewegung wurde immer groesser.",
+          "en": "Before the demonstrations, St Nicholas Church in Leipzig became an important meeting place. After prayers for peace, people went into the streets and the movement grew."
+        },
+        "importance": {
+          "ru": "Это показывает, как гражданское сопротивление росло не только из политики, но и из местных общин.",
+          "de": "Das zeigt, dass ziviler Widerstand nicht nur aus Politik, sondern auch aus lokalen Gemeinschaften wuchs.",
+          "en": "It shows how civil resistance grew not only from politics but also from local communities."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1989-no-violence-miracle",
+        "year": 1989,
+        "title": {
+          "ru": "«Чудо Лейпцига»",
+          "de": "Das Wunder von Leipzig",
+          "en": "The miracle of Leipzig"
+        },
+        "description": {
+          "ru": "Многие участники боялись повторения китайского сценария на площади Тяньаньмэнь. То, что огромная демонстрация закончилась без кровопролития, позже часто называли «чудом Лейпцига».",
+          "de": "Viele Teilnehmende fuerchteten eine Entwicklung wie kurz zuvor auf dem Tiananmen-Platz in China. Dass die riesige Demonstration ohne Blutvergiessen endete, wurde spaeter oft als Wunder von Leipzig bezeichnet.",
+          "en": "Many participants feared a crackdown like the one recently seen in China's Tiananmen Square. The fact that the huge demonstration ended without bloodshed was later often called the miracle of Leipzig."
+        },
+        "importance": {
+          "ru": "Такой поворот сделал событие особенно сильным символом ненасильственного протеста.",
+          "de": "Dadurch wurde das Ereignis zu einem besonders starken Symbol gewaltfreien Protests.",
+          "en": "That made the event a powerful symbol of non-violent protest."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Лейпцигская фраза «Wir sind das Volk» позже сменилась на «Wir sind ein Volk», когда главным требованием стало объединение Германии.",
+    "de": "Aus dem Leipziger Ruf \"Wir sind das Volk\" wurde spaeter \"Wir sind ein Volk\", als die deutsche Einheit in den Mittelpunkt rueckte.",
+    "en": "The Leipzig slogan \"We are the people\" later shifted to \"We are one people\" as German unity moved to the center of the movement."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: 9 October 1989",
+      "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/sieg-ueber-die-sed-diktatur-353726"
+    },
+    {
+      "label": "Chronik der Wende: 9 October 1989",
+      "url": "https://www.chronikderwende.de/english/historicaldata_jsp/key%3Dehd9.10.1989.html"
+    }
+  ]
+}

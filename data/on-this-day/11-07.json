@@ -1,0 +1,90 @@
+{
+  "date": "11-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-free-state-bavaria",
+    "year": 1918,
+    "title": {
+      "ru": "Провозглашён Свободный штат Бавария",
+      "de": "Der Freistaat Bayern wird ausgerufen",
+      "en": "The Free State of Bavaria is proclaimed"
+    },
+    "description": {
+      "ru": "7 ноября 1918 года в Мюнхене революционеры во главе с Куртом Эйснером свергли власть баварского короля Людвига III. В ночь на 8 ноября была провозглашена Баварская республика.",
+      "de": "Am 7. November 1918 stuerzten Revolutionaere um Kurt Eisner in Muenchen die Herrschaft des bayerischen Koenigs Ludwig III. In der Nacht zum 8. November wurde die bayerische Republik ausgerufen.",
+      "en": "On 7 November 1918, revolutionaries around Kurt Eisner overthrew the rule of Bavaria's King Ludwig III in Munich. During the night of 7-8 November, the Bavarian republic was proclaimed."
+    },
+    "importance": {
+      "ru": "Бавария стала одним из первых мест, где рухнула монархия в конце Первой мировой войны.",
+      "de": "Bayern wurde zu einem der ersten Orte, an denen am Ende des Ersten Weltkriegs die Monarchie zusammenbrach.",
+      "en": "Bavaria became one of the first places where monarchy collapsed at the end of the First World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1918-ludwig-iii-leaves-munich",
+        "year": 1918,
+        "title": {
+          "ru": "Король Людвиг III покинул Мюнхен",
+          "de": "Koenig Ludwig III. verlaesst Muenchen",
+          "en": "King Ludwig III leaves Munich"
+        },
+        "description": {
+          "ru": "На фоне массовых протестов Людвиг III покинул город. Это фактически положило конец правлению династии Виттельсбахов в Баварии.",
+          "de": "Angesichts massiver Proteste verliess Ludwig III. die Stadt. Damit endete faktisch die Herrschaft der Wittelsbacher in Bayern.",
+          "en": "Amid mass protests, Ludwig III left the city. This effectively ended Wittelsbach rule in Bavaria."
+        },
+        "importance": {
+          "ru": "Событие показывает, как быстро в ноябре 1918 года распадалась старая имперская система.",
+          "de": "Das Ereignis zeigt, wie schnell im November 1918 die alte kaiserliche Ordnung zerfiel.",
+          "en": "The event shows how quickly the old imperial order disintegrated in November 1918."
+        }
+      }
+    ],
+    "famousPeople": [
+      {
+        "id": "1867-kurt-eisner",
+        "year": 1867,
+        "title": {
+          "ru": "Курт Эйснер",
+          "de": "Kurt Eisner",
+          "en": "Kurt Eisner"
+        },
+        "description": {
+          "ru": "Журналист и политик Курт Эйснер стал первым министром-президентом новой Баварской республики. Его правительство просуществовало недолго, но оставило заметный след в истории земли.",
+          "de": "Der Journalist und Politiker Kurt Eisner wurde erster Ministerpraesident der neuen bayerischen Republik. Seine Regierung bestand nur kurz, praegte aber die Geschichte des Landes.",
+          "en": "Journalist and politician Kurt Eisner became the first minister-president of the new Bavarian republic. His government was short-lived but left a strong mark on the state's history."
+        },
+        "importance": {
+          "ru": "Эйснер связан с рождением современного политического названия «Свободный штат Бавария».",
+          "de": "Eisner ist eng mit der Entstehung des modernen politischen Namens Freistaat Bayern verbunden.",
+          "en": "Eisner is closely linked to the modern political name Free State of Bavaria."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Слово «Freistaat» по смыслу означает республику, а не отдельное независимое государство.",
+    "de": "Das Wort Freistaat bedeutet dem Sinn nach Republik, nicht einen unabhaengigen Einzelstaat.",
+    "en": "The word Freistaat means republic in this context, not a separate independent state."
+  },
+  "sources": [
+    {
+      "label": "Bavarikon: Proclamation of the Free State of Bavaria",
+      "url": "https://www.bavarikon.de/object/bav:BSB-CMS-0000000000003620?lang=en"
+    },
+    {
+      "label": "Deutscher Bundestag: Kurt Eisner ruft den Freistaat Bayern aus",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2018/kw45-revolutionskalender-36-071118-574082"
+    },
+    {
+      "label": "Historisches Lexikon Bayerns: Revolution 1918/1919",
+      "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN:Revolution,_1918/1919"
+    }
+  ]
+}

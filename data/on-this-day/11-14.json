@@ -1,0 +1,90 @@
+{
+  "date": "11-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-german-polish-border-treaty",
+    "year": 1990,
+    "title": {
+      "ru": "Германия и Польша подтвердили границу",
+      "de": "Deutschland und Polen bestaetigen die Grenze",
+      "en": "Germany and Poland confirm the border"
+    },
+    "description": {
+      "ru": "14 ноября 1990 года Германия и Польша подписали в Варшаве договор о подтверждении существующей границы. Он закрепил линию по Одеру и Нейсе как окончательную границу между двумя государствами.",
+      "de": "Am 14. November 1990 unterzeichneten Deutschland und Polen in Warschau den Vertrag zur Bestaetigung der bestehenden Grenze. Er bestaetigte die Oder-Neisse-Linie als endgueltige Grenze zwischen beiden Staaten.",
+      "en": "On 14 November 1990, Germany and Poland signed a treaty in Warsaw confirming the existing border. It confirmed the Oder-Neisse line as the final border between the two states."
+    },
+    "importance": {
+      "ru": "Договор снял один из самых тяжёлых послевоенных вопросов и стал важной частью европейского порядка после объединения Германии.",
+      "de": "Der Vertrag klaerte eine der schwersten Nachkriegsfragen und wurde ein wichtiger Teil der europaeischen Ordnung nach der deutschen Einheit.",
+      "en": "The treaty settled one of the most difficult postwar issues and became an important part of the European order after German reunification."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1990-oder-neisse-line",
+        "year": 1990,
+        "title": {
+          "ru": "Линия Одер - Нейсе",
+          "de": "Die Oder-Neisse-Linie",
+          "en": "The Oder-Neisse line"
+        },
+        "description": {
+          "ru": "После 1945 года граница по рекам Одер и Нейсе оставалась болезненной темой для немцев и поляков. Подписание договора подтвердило, что объединённая Германия не имеет территориальных претензий к Польше.",
+          "de": "Nach 1945 blieb die Grenze an Oder und Neisse ein schmerzhaftes Thema fuer Deutsche und Polen. Der Vertrag bestaetigte, dass das vereinte Deutschland keine Gebietsansprueche gegen Polen erhebt.",
+          "en": "After 1945, the border along the Oder and Neisse rivers remained a painful issue for Germans and Poles. The treaty confirmed that unified Germany had no territorial claims against Poland."
+        },
+        "importance": {
+          "ru": "Это было важным условием доверия между соседями после десятилетий войны, изгнаний и разделения Европы.",
+          "de": "Das war eine wichtige Voraussetzung fuer Vertrauen zwischen Nachbarn nach Jahrzehnten von Krieg, Vertreibung und Teilung Europas.",
+          "en": "It was an important basis for trust between neighbors after decades of war, expulsions and European division."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1990-border-treaty-after-unity",
+        "year": 1990,
+        "title": {
+          "ru": "Договор подписали уже после Дня единства",
+          "de": "Der Vertrag kam erst nach dem Einheitstag",
+          "en": "The treaty came after Unity Day"
+        },
+        "description": {
+          "ru": "Германия объединилась 3 октября 1990 года, а договор с Польшей был подписан через шесть недель. Так новое государство почти сразу подтвердило свои внешние границы.",
+          "de": "Deutschland wurde am 3. Oktober 1990 vereinigt, der Vertrag mit Polen folgte sechs Wochen spaeter. So bestaetigte der neue Staat fast sofort seine Aussengrenzen.",
+          "en": "Germany was reunified on 3 October 1990, and the treaty with Poland followed six weeks later. The new state thus confirmed its external borders almost immediately."
+        },
+        "importance": {
+          "ru": "Эта деталь хорошо показывает, что объединение Германии было связано не только с Берлином, но и со всей Европой.",
+          "de": "Dieses Detail zeigt gut, dass die deutsche Einheit nicht nur Berlin, sondern ganz Europa betraf.",
+          "en": "This detail shows that German unity concerned not only Berlin but all of Europe."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Договор был подписан министрами иностранных дел Гансом-Дитрихом Геншером и Кшиштофом Скубишевским.",
+    "de": "Unterzeichnet wurde der Vertrag von den Aussenministern Hans-Dietrich Genscher und Krzysztof Skubiszewski.",
+    "en": "The treaty was signed by foreign ministers Hans-Dietrich Genscher and Krzysztof Skubiszewski."
+  },
+  "sources": [
+    {
+      "label": "United Nations Treaty Collection: Germany-Poland border treaty",
+      "url": "https://www.un.org/depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/DEU-POL1990CF.PDF"
+    },
+    {
+      "label": "Instytut Zachodni: 14 November 1990",
+      "url": "https://w.iz.poznan.pl/en/publications/polska-niemcy-kontrowersje/14-november-1990"
+    },
+    {
+      "label": "German-Polish Border Treaty overview",
+      "url": "https://en.wikipedia.org/wiki/German%E2%80%93Polish_Border_Treaty"
+    }
+  ]
+}
