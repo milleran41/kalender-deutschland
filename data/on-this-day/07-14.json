@@ -1,0 +1,61 @@
+{
+  "date": "07-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-law-against-new-parties",
+    "year": 1933,
+    "title": {
+      "ru": "Нацистская партия стала единственной легальной партией",
+      "de": "Die NSDAP wird die einzige legale Partei",
+      "en": "The Nazi Party becomes the only legal party"
+    },
+    "description": {
+      "ru": "14 июля 1933 года был принят закон против образования новых партий. Германия стала однопартийным государством под властью НСДАП.",
+      "de": "Am 14. Juli 1933 wurde das Gesetz gegen die Neubildung von Parteien erlassen. Deutschland wurde zu einem Einparteienstaat unter der NSDAP.",
+      "en": "On 14 July 1933, the Law Against the Formation of New Parties was enacted. Germany became a one-party state under the Nazi Party."
+    },
+    "importance": {
+      "ru": "Это юридически закрепило уничтожение политического плюрализма.",
+      "de": "Damit wurde die Zerstoerung des politischen Pluralismus rechtlich festgeschrieben.",
+      "en": "It legally fixed the destruction of political pluralism."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1933-gleichschaltung",
+        "year": 1933,
+        "title": {
+          "ru": "Шаг к полной унификации общества",
+          "de": "Ein Schritt zur Gleichschaltung",
+          "en": "A step toward forced coordination"
+        },
+        "description": {
+          "ru": "После запрета партий нацистам было легче подчинять государство, союзы, прессу и общественные организации. Политическая жизнь стала контролируемой сверху.",
+          "de": "Nach dem Parteienverbot konnten die Nationalsozialisten Staat, Verbaende, Presse und Organisationen leichter unterwerfen. Das politische Leben wurde von oben kontrolliert.",
+          "en": "After the party ban, the Nazis could more easily control the state, associations, press and organizations. Political life was controlled from above."
+        },
+        "importance": {
+          "ru": "Дата показывает, что диктатура строилась не одним ударом, а цепочкой решений.",
+          "de": "Das Datum zeigt, dass die Diktatur nicht durch einen einzigen Schlag, sondern durch eine Kette von Entscheidungen entstand.",
+          "en": "The date shows that dictatorship was built not in one blow but through a chain of decisions."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "К лету 1933 года многие партии уже были запрещены или вынуждены самораспуститься.",
+    "de": "Bis zum Sommer 1933 waren viele Parteien bereits verboten oder zur Selbstaufloesung gedraengt worden.",
+    "en": "By summer 1933, many parties had already been banned or forced to dissolve themselves."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Law, Justice and the Holocaust booklet",
+      "url": "https://www.ushmm.org/m/pdfs/20140711-ljh-booklet-2nd-Edition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "07-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1974-world-cup-final",
+    "year": 1974,
+    "title": {
+      "ru": "ФРГ выиграла чемпионат мира по футболу",
+      "de": "Die Bundesrepublik gewinnt die Fussball-WM",
+      "en": "West Germany wins the FIFA World Cup"
+    },
+    "description": {
+      "ru": "7 июля 1974 года сборная ФРГ победила Нидерланды 2:1 в финале чемпионата мира в Мюнхене. Турнир проходил в Западной Германии.",
+      "de": "Am 7. Juli 1974 besiegte die Bundesrepublik die Niederlande im WM-Finale in Muenchen mit 2:1. Das Turnier fand in Westdeutschland statt.",
+      "en": "On 7 July 1974, West Germany beat the Netherlands 2-1 in the World Cup final in Munich. The tournament was hosted by West Germany."
+    },
+    "importance": {
+      "ru": "Это была вторая победа Германии на чемпионате мира после «чуда в Берне» 1954 года.",
+      "de": "Es war Deutschlands zweiter WM-Titel nach dem Wunder von Bern 1954.",
+      "en": "It was Germany's second World Cup title after the Miracle of Bern in 1954."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "1974-total-football",
+        "year": 1974,
+        "title": {
+          "ru": "Победа над «тотальным футболом»",
+          "de": "Sieg gegen den totalen Fussball",
+          "en": "Victory over total football"
+        },
+        "description": {
+          "ru": "Команда Нидерландов с Йоханом Кройфом считалась символом нового, яркого футбола. Поэтому победа ФРГ стала большим спортивным сюжетом.",
+          "de": "Die Niederlande mit Johan Cruyff galten als Symbol eines neuen, spektakulaeren Fussballs. Deshalb wurde der Sieg der Bundesrepublik zu einer grossen Sportgeschichte.",
+          "en": "The Netherlands team with Johan Cruyff symbolized a new, exciting style of football. West Germany's victory therefore became a major sports story."
+        },
+        "importance": {
+          "ru": "Футбол снова стал частью немецкой коллективной памяти.",
+          "de": "Fussball wurde erneut Teil der deutschen kollektiven Erinnerung.",
+          "en": "Football once again became part of German collective memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Финал 1974 года проходил на Олимпийском стадионе в Мюнхене.",
+    "de": "Das Finale 1974 fand im Olympiastadion Muenchen statt.",
+    "en": "The 1974 final took place at Munich's Olympic Stadium."
+  },
+  "sources": [
+    {
+      "label": "FIFA: 1974 final",
+      "url": "https://www.plus.fifa.com/en/showcase/final-1974-fifa-world-cup/4d2d0a90-c38a-4fe6-8759-675e01bdcb32"
+    },
+    {
+      "label": "FIFA: 1974 final feature",
+      "url": "https://inside.fifa.com/fr/news/une-finale-totale-1168747"
+    }
+  ]
+}

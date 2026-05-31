@@ -1,0 +1,65 @@
+{
+  "date": "10-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-gdr-founded",
+    "year": 1949,
+    "title": {
+      "ru": "Основана Германская Демократическая Республика",
+      "de": "Die Deutsche Demokratische Republik wird gegruendet",
+      "en": "The German Democratic Republic is founded"
+    },
+    "description": {
+      "ru": "7 октября 1949 года в советской оккупационной зоне была провозглашена Германская Демократическая Республика. Так разделение Германии получило вторую государственную форму после создания ФРГ.",
+      "de": "Am 7. Oktober 1949 wurde in der sowjetischen Besatzungszone die Deutsche Demokratische Republik gegruendet. Damit erhielt die deutsche Teilung nach der Gruendung der Bundesrepublik ihre zweite staatliche Form.",
+      "en": "On 7 October 1949, the German Democratic Republic was founded in the Soviet occupation zone. German division took its second state form after the creation of West Germany."
+    },
+    "importance": {
+      "ru": "Дата стала началом сорокалетней истории восточногерманского государства.",
+      "de": "Das Datum markierte den Beginn der vierzigjaehrigen Geschichte des ostdeutschen Staates.",
+      "en": "The date marked the beginning of the forty-year history of the East German state."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "gdr-volkskammer",
+        "year": 1949,
+        "title": {
+          "ru": "Народная палата и власть СЕПГ",
+          "de": "Volkskammer und SED-Herrschaft",
+          "en": "Volkskammer and SED rule"
+        },
+        "description": {
+          "ru": "ГДР имела парламентские формы, но реальная власть принадлежала СЕПГ. Это отличало её от демократического парламентаризма.",
+          "de": "Die DDR hatte parlamentarische Formen, doch die wirkliche Macht lag bei der SED. Das unterschied sie von demokratischem Parlamentarismus.",
+          "en": "The GDR had parliamentary forms, but real power belonged to the SED. This distinguished it from democratic parliamentarism."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему одно слово «демократическая» в названии ещё не делает государство демократией.",
+          "de": "Das hilft zu verstehen, warum das Wort demokratisch im Namen noch keine Demokratie schafft.",
+          "en": "It helps explain why the word democratic in a name does not make a state democratic."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "ГДР просуществовала с 1949 года до воссоединения Германии 3 октября 1990 года.",
+    "de": "Die DDR bestand von 1949 bis zur deutschen Wiedervereinigung am 3. Oktober 1990.",
+    "en": "The GDR existed from 1949 until German reunification on 3 October 1990."
+  },
+  "sources": [
+    {
+      "label": "bpb: 7 October 1949",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/"
+    },
+    {
+      "label": "Bundestag archive: Volkskammer of the GDR",
+      "url": "https://webarchiv.bundestag.de/archive/2009/0924/htdocs_e/artandhistory/history/parlia/east_1949_89.html"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "09-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1935-nuremberg-laws",
+    "year": 1935,
+    "title": {
+      "ru": "Приняты Нюрнбергские законы",
+      "de": "Die Nuernberger Gesetze werden verabschiedet",
+      "en": "The Nuremberg Laws are passed"
+    },
+    "description": {
+      "ru": "15 сентября 1935 года нацистская Германия приняла Нюрнбергские расовые законы. Они лишали евреев гражданских прав и закрепляли расистскую политику государства.",
+      "de": "Am 15. September 1935 verabschiedete NS-Deutschland die Nuernberger Rassengesetze. Sie entzogen Juden Buergerrechte und verankerten die rassistische Politik des Staates.",
+      "en": "On 15 September 1935, Nazi Germany passed the Nuremberg racial laws. They stripped Jews of civil rights and anchored the state's racist policies."
+    },
+    "importance": {
+      "ru": "Это был ключевой шаг от дискриминации к систематическому преследованию.",
+      "de": "Das war ein zentraler Schritt von Diskriminierung zu systematischer Verfolgung.",
+      "en": "It was a key step from discrimination to systematic persecution."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "reich-citizenship-law",
+        "year": 1935,
+        "title": {
+          "ru": "Гражданство стало инструментом исключения",
+          "de": "Staatsbuergerschaft als Werkzeug des Ausschlusses",
+          "en": "Citizenship as a tool of exclusion"
+        },
+        "description": {
+          "ru": "Один из законов определял, кто считался гражданином рейха. Право стало механизмом разделения людей на «своих» и «чужих».",
+          "de": "Eines der Gesetze bestimmte, wer als Reichsbuerger galt. Recht wurde zu einem Mechanismus, Menschen in Zugehoerige und Ausgeschlossene zu teilen.",
+          "en": "One law defined who counted as a Reich citizen. Law became a mechanism for dividing people into insiders and outsiders."
+        },
+        "importance": {
+          "ru": "Дата показывает, как бюрократический язык может обслуживать преступную политику.",
+          "de": "Das Datum zeigt, wie buerokratische Sprache verbrecherischer Politik dienen kann.",
+          "en": "The date shows how bureaucratic language can serve criminal policy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Законы были объявлены в Нюрнберге во время съезда нацистской партии.",
+    "de": "Die Gesetze wurden in Nuernberg waehrend des Reichsparteitags verkuendet.",
+    "en": "The laws were announced in Nuremberg during the Nazi Party rally."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Laws and decrees timeline PDF",
+      "url": "https://www.ushmm.org/m/pdfs/USHMM-Timeline-Activity-Laws-Decrees.pdf"
+    },
+    {
+      "label": "USHMM: Nuremberg Laws primary source PDF",
+      "url": "https://media.bloomsbury.com/rep/files/primary-source-133-nuremberg-laws-1935.pdf"
+    }
+  ]
+}

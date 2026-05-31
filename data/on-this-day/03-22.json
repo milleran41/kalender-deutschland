@@ -1,0 +1,65 @@
+{
+  "date": "03-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-dachau-first-prisoners",
+    "year": 1933,
+    "title": {
+      "ru": "Первые заключённые прибыли в Дахау",
+      "de": "Die ersten Haeftlinge kommen nach Dachau",
+      "en": "The first prisoners arrive at Dachau"
+    },
+    "description": {
+      "ru": "22 марта 1933 года первые заключённые прибыли в концентрационный лагерь Дахау близ Мюнхена. Лагерь стал моделью для последующей системы нацистских концлагерей.",
+      "de": "Am 22. Maerz 1933 trafen die ersten Haeftlinge im Konzentrationslager Dachau bei Muenchen ein. Das Lager wurde zum Modell fuer das spaetere System nationalsozialistischer Konzentrationslager.",
+      "en": "On 22 March 1933, the first prisoners arrived at Dachau concentration camp near Munich. The camp became a model for the later Nazi concentration camp system."
+    },
+    "importance": {
+      "ru": "Дата показывает, как быстро после прихода нацистов к власти началась институциональная система террора.",
+      "de": "Das Datum zeigt, wie schnell nach der Machtuebernahme der Nationalsozialisten ein institutionelles Terrorsystem entstand.",
+      "en": "The date shows how quickly an institutional system of terror emerged after the Nazis came to power."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "dachau-memorial",
+        "year": 1965,
+        "title": {
+          "ru": "Место памяти",
+          "de": "Ein Ort der Erinnerung",
+          "en": "A place of remembrance"
+        },
+        "description": {
+          "ru": "После войны Дахау стал важным местом памяти и обучения. Сегодня там рассказывают о жертвах, преступниках и механизмах диктатуры.",
+          "de": "Nach dem Krieg wurde Dachau ein wichtiger Erinnerungs- und Lernort. Heute wird dort ueber Opfer, Taeter und Mechanismen der Diktatur informiert.",
+          "en": "After the war, Dachau became an important site of remembrance and learning. Today it explains victims, perpetrators and the mechanisms of dictatorship."
+        },
+        "importance": {
+          "ru": "Такие места помогают не превращать историю в абстракцию.",
+          "de": "Solche Orte helfen, Geschichte nicht zur Abstraktion werden zu lassen.",
+          "en": "Such places help prevent history from becoming an abstraction."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дахау находился в Баварии, недалеко от Мюнхена, где нацистское движение имело ранний центр.",
+    "de": "Dachau lag in Bayern, nahe Muenchen, einem fruehen Zentrum der nationalsozialistischen Bewegung.",
+    "en": "Dachau was in Bavaria, near Munich, an early center of the Nazi movement."
+  },
+  "sources": [
+    {
+      "label": "Dachau Memorial: historical site",
+      "url": "https://www.kz-gedenkstaette-dachau.de/en/historical-site/dachau-concentration-camp-1933-1945/"
+    },
+    {
+      "label": "USHMM: Dachau",
+      "url": "https://encyclopedia.ushmm.org/narrative/4391/en"
+    }
+  ]
+}

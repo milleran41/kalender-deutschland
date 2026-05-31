@@ -1,0 +1,65 @@
+{
+  "date": "01-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1886-benz-motorwagen-patent",
+    "year": 1886,
+    "title": {
+      "ru": "Карл Бенц подал патент на первый автомобиль",
+      "de": "Carl Benz meldet sein Automobil zum Patent an",
+      "en": "Carl Benz files a patent for the first automobile"
+    },
+    "description": {
+      "ru": "29 января 1886 года Карл Бенц подал патент на «транспортное средство с газовым двигателем». Benz Patent-Motorwagen часто называют первым практическим автомобилем.",
+      "de": "Am 29. Januar 1886 meldete Carl Benz sein Fahrzeug mit Gasmotorenbetrieb zum Patent an. Der Benz Patent-Motorwagen gilt oft als erstes praktisches Automobil.",
+      "en": "On 29 January 1886, Carl Benz filed a patent for a vehicle powered by a gas engine. The Benz Patent-Motorwagen is often regarded as the first practical automobile."
+    },
+    "importance": {
+      "ru": "Эта дата стала одним из символических дней рождения автомобильной эпохи.",
+      "de": "Dieses Datum wurde zu einem symbolischen Geburtstag des Automobilzeitalters.",
+      "en": "This date became one of the symbolic birthdays of the automobile age."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "mannheim-automobile",
+        "year": 1886,
+        "title": {
+          "ru": "Мангейм и рождение автомобиля",
+          "de": "Mannheim und die Geburt des Automobils",
+          "en": "Mannheim and the birth of the automobile"
+        },
+        "description": {
+          "ru": "Бенц работал в Мангейме, и именно там его машина впервые стала реальным техническим проектом. Это важная страница истории Баден-Вюртемберга.",
+          "de": "Benz arbeitete in Mannheim, und dort wurde sein Wagen zu einem realen technischen Projekt. Das ist ein wichtiges Kapitel der Geschichte Baden-Wuerttembergs.",
+          "en": "Benz worked in Mannheim, where his vehicle became a real technical project. It is an important chapter in the history of Baden-Wuerttemberg."
+        },
+        "importance": {
+          "ru": "Так немецкая инженерия стала частью повседневной жизни всего мира.",
+          "de": "So wurde deutsche Ingenieurkunst Teil des Alltags der ganzen Welt.",
+          "en": "German engineering became part of everyday life around the world."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Патент Бенца иногда называют «свидетельством о рождении автомобиля».",
+    "de": "Das Benz-Patent wird manchmal als Geburtsurkunde des Automobils bezeichnet.",
+    "en": "Benz's patent is sometimes called the birth certificate of the automobile."
+  },
+  "sources": [
+    {
+      "label": "Mercedes-Benz Group: Benz Patent Motor Car",
+      "url": "https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html"
+    },
+    {
+      "label": "Mercedes-Benz Group: German page",
+      "url": "https://group.mercedes-benz.com/unternehmen/tradition/geschichte/1885-1886.html"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "01-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-hitler-appointed-chancellor",
+    "year": 1933,
+    "title": {
+      "ru": "Гитлер назначен рейхсканцлером",
+      "de": "Hitler wird Reichskanzler",
+      "en": "Hitler is appointed chancellor"
+    },
+    "description": {
+      "ru": "30 января 1933 года президент Пауль фон Гинденбург назначил Адольфа Гитлера рейхсканцлером. В этот момент Гитлер ещё не был диктатором, но получил власть, которую быстро использовал для разрушения демократии.",
+      "de": "Am 30. Januar 1933 ernannte Reichspraesident Paul von Hindenburg Adolf Hitler zum Reichskanzler. Zu diesem Zeitpunkt war Hitler noch kein Diktator, nutzte die Macht aber schnell zur Zerstoerung der Demokratie.",
+      "en": "On 30 January 1933, President Paul von Hindenburg appointed Adolf Hitler chancellor. Hitler was not yet a dictator, but he quickly used power to destroy democracy."
+    },
+    "importance": {
+      "ru": "Дата показывает, что диктатура может начаться с формального назначения внутри существующей системы.",
+      "de": "Das Datum zeigt, dass eine Diktatur mit einer formalen Ernennung innerhalb eines bestehenden Systems beginnen kann.",
+      "en": "The date shows that dictatorship can begin with a formal appointment inside an existing system."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1933-end-of-weimar",
+        "year": 1933,
+        "title": {
+          "ru": "Конец Веймарской демократии",
+          "de": "Das Ende der Weimarer Demokratie",
+          "en": "The end of Weimar democracy"
+        },
+        "description": {
+          "ru": "После назначения нацисты использовали насилие, пропаганду и законы, чтобы устранить противников. Веймарская республика формально ещё существовала, но её основы быстро рушились.",
+          "de": "Nach der Ernennung nutzten die Nationalsozialisten Gewalt, Propaganda und Gesetze, um Gegner auszuschalten. Die Weimarer Republik existierte formal noch, doch ihre Grundlagen zerfielen schnell.",
+          "en": "After the appointment, the Nazis used violence, propaganda and laws to eliminate opponents. The Weimar Republic still existed formally, but its foundations collapsed quickly."
+        },
+        "importance": {
+          "ru": "Это важный урок о хрупкости демократических институтов.",
+          "de": "Das ist eine wichtige Lehre ueber die Zerbrechlichkeit demokratischer Institutionen.",
+          "en": "It is an important lesson about the fragility of democratic institutions."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "30 января нацисты позже называли «захватом власти», хотя власть была передана через политические решения элит.",
+    "de": "Die Nationalsozialisten nannten den 30. Januar spaeter Machtergreifung, obwohl Macht durch Entscheidungen politischer Eliten uebertragen wurde.",
+    "en": "The Nazis later called 30 January a seizure of power, although power was transferred through decisions by political elites."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Hitler appointed chancellor",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/hitler-appointed-chancellor"
+    },
+    {
+      "label": "USHMM: Nazi rise to power",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/adolf-hitler-1930-1933"
+    }
+  ]
+}

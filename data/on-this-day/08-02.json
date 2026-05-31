@@ -1,0 +1,65 @@
+{
+  "date": "08-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1934-hindenburg-dies",
+    "year": 1934,
+    "title": {
+      "ru": "После смерти Гинденбурга Гитлер объединил высшие должности",
+      "de": "Nach Hindenburgs Tod vereint Hitler die Spitzenämter",
+      "en": "After Hindenburg's death, Hitler combines the highest offices"
+    },
+    "description": {
+      "ru": "2 августа 1934 года умер президент Пауль фон Гинденбург. Гитлер объединил должности президента и канцлера и стал называть себя фюрером и рейхсканцлером.",
+      "de": "Am 2. August 1934 starb Reichspraesident Paul von Hindenburg. Hitler vereinte die Aemter des Praesidenten und Kanzlers und nannte sich Fuehrer und Reichskanzler.",
+      "en": "On 2 August 1934, President Paul von Hindenburg died. Hitler combined the offices of president and chancellor and styled himself Fuehrer and Reich Chancellor."
+    },
+    "importance": {
+      "ru": "Это стало важным шагом к личной диктатуре Гитлера.",
+      "de": "Das war ein wichtiger Schritt zur persoenlichen Diktatur Hitlers.",
+      "en": "It was an important step toward Hitler's personal dictatorship."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1934-army-oath",
+        "year": 1934,
+        "title": {
+          "ru": "Присяга лично Гитлеру",
+          "de": "Der Eid auf Hitler persoenlich",
+          "en": "The oath to Hitler personally"
+        },
+        "description": {
+          "ru": "После смерти Гинденбурга военные стали приносить присягу лично Гитлеру. Это усилило связь армии с диктатором.",
+          "de": "Nach Hindenburgs Tod leisteten Soldaten den Eid auf Hitler persoenlich. Das band die Armee staerker an den Diktator.",
+          "en": "After Hindenburg's death, soldiers swore an oath to Hitler personally. This bound the army more closely to the dictator."
+        },
+        "importance": {
+          "ru": "Иногда формула присяги меняет политическую реальность.",
+          "de": "Manchmal veraendert die Formel eines Eides politische Wirklichkeit.",
+          "en": "Sometimes the wording of an oath changes political reality."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гинденбург был президентом, который назначил Гитлера канцлером в январе 1933 года.",
+    "de": "Hindenburg war der Praesident, der Hitler im Januar 1933 zum Kanzler ernannt hatte.",
+    "en": "Hindenburg was the president who appointed Hitler chancellor in January 1933."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Death of President von Hindenburg",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/death-of-german-president-von-hindenburg"
+    },
+    {
+      "label": "USHMM: Propaganda timeline PDF",
+      "url": "https://www.ushmm.org/m/pdfs/20150703-propaganda-4-2_Timeline2.pdf"
+    }
+  ]
+}

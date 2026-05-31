@@ -1,0 +1,65 @@
+{
+  "date": "08-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1888-bertha-benz-road-trip",
+    "year": 1888,
+    "title": {
+      "ru": "Берта Бенц совершила первую дальнюю поездку на автомобиле",
+      "de": "Bertha Benz unternimmt die erste Fernfahrt mit dem Automobil",
+      "en": "Bertha Benz makes the first long-distance car journey"
+    },
+    "description": {
+      "ru": "5 августа 1888 года Берта Бенц поехала из Мангейма в Пфорцхайм на Benz Patent-Motorwagen. Она доказала, что автомобиль может быть практичным средством передвижения.",
+      "de": "Am 5. August 1888 fuhr Bertha Benz mit dem Benz Patent-Motorwagen von Mannheim nach Pforzheim. Sie bewies, dass das Automobil ein praktisches Verkehrsmittel sein konnte.",
+      "en": "On 5 August 1888, Bertha Benz drove a Benz Patent-Motorwagen from Mannheim to Pforzheim. She proved that the automobile could be a practical means of transport."
+    },
+    "importance": {
+      "ru": "Эта поездка стала одновременно техническим испытанием и блестящей рекламой нового изобретения.",
+      "de": "Diese Fahrt war zugleich ein technischer Test und eine brillante Werbung fuer die neue Erfindung.",
+      "en": "The journey was both a technical test and brilliant publicity for the new invention."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "bertha-benz-pharmacy-fuel",
+        "year": 1888,
+        "title": {
+          "ru": "Топливо купили в аптеке",
+          "de": "Kraftstoff aus der Apotheke",
+          "en": "Fuel from a pharmacy"
+        },
+        "description": {
+          "ru": "В раннюю автомобильную эпоху бензин ещё не покупали на заправках. Берта Бенц использовала лигроин, который можно было достать в аптеке.",
+          "de": "In der fruehen Automobilzeit kaufte man Benzin noch nicht an Tankstellen. Bertha Benz nutzte Ligroin, das in Apotheken erhaeltlich war.",
+          "en": "In the early automobile age, fuel was not bought at gas stations. Bertha Benz used ligroin, which could be obtained from pharmacies."
+        },
+        "importance": {
+          "ru": "Эта деталь делает историю автомобиля неожиданно бытовой и живой.",
+          "de": "Dieses Detail macht die Geschichte des Automobils ungewoehnlich alltaeglich und lebendig.",
+          "en": "This detail makes automobile history unexpectedly everyday and vivid."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Сегодня существует туристический маршрут Bertha Benz Memorial Route по следам её поездки.",
+    "de": "Heute folgt die Bertha Benz Memorial Route den Spuren ihrer Fahrt.",
+    "en": "Today, the Bertha Benz Memorial Route follows the path of her journey."
+  },
+  "sources": [
+    {
+      "label": "DPMA: Bertha Benz",
+      "url": "https://www.dpma.de/dpma/veroeffentlichungen/patentefrauen/berthabenz/index.html"
+    },
+    {
+      "label": "Mercedes-Benz Archive: Bertha Benz journey",
+      "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/Bertha-Benz-makes-the-worlds-first-long-distance-journey-in-a-car.xhtml?oid=4909524"
+    }
+  ]
+}

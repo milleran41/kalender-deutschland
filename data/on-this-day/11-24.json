@@ -1,0 +1,61 @@
+{
+  "date": "11-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1936-ossietzky-nobel-awarded",
+    "year": 1936,
+    "title": {
+      "ru": "Карлу фон Осецкому присуждена Нобелевская премия мира",
+      "de": "Carl von Ossietzky erhaelt den Friedensnobelpreis",
+      "en": "Carl von Ossietzky is awarded the Nobel Peace Prize"
+    },
+    "description": {
+      "ru": "24 ноября 1936 года Нобелевский комитет объявил о присуждении премии мира немецкому пацифисту Карлу фон Осецкому. В это время он уже был тяжело болен после нацистского преследования и заключения.",
+      "de": "Am 24. November 1936 gab das Nobelkomitee die Verleihung des Friedensnobelpreises an den deutschen Pazifisten Carl von Ossietzky bekannt. Er war damals nach NS-Verfolgung und Haft bereits schwer krank.",
+      "en": "On 24 November 1936, the Nobel Committee announced the Peace Prize for German pacifist Carl von Ossietzky. By then, after Nazi persecution and imprisonment, he was already gravely ill."
+    },
+    "importance": {
+      "ru": "Премия стала международным сигналом поддержки свободы слова и противников диктатуры.",
+      "de": "Der Preis wurde zu einem internationalen Signal der Unterstuetzung fuer Meinungsfreiheit und Gegner der Diktatur.",
+      "en": "The prize became an international signal of support for free speech and opponents of dictatorship."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "ossietzky-pacifism",
+        "year": 1936,
+        "title": {
+          "ru": "Пацифист против милитаризма",
+          "de": "Pazifist gegen Militarismus",
+          "en": "A pacifist against militarism"
+        },
+        "description": {
+          "ru": "Осецкий критиковал тайное перевооружение Германии ещё до прихода нацистов к власти. За это он стал символом смелой журналистики.",
+          "de": "Ossietzky kritisierte die geheime Wiederaufruestung Deutschlands schon vor der NS-Machtuebernahme. Dadurch wurde er zu einem Symbol mutigen Journalismus.",
+          "en": "Ossietzky criticized Germany's secret rearmament even before the Nazis took power. He became a symbol of courageous journalism."
+        },
+        "importance": {
+          "ru": "Его история показывает цену правды в авторитарной политике.",
+          "de": "Seine Geschichte zeigt den Preis der Wahrheit in autoritaerer Politik.",
+          "en": "His story shows the price of truth under authoritarian politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После дела Осецкого нацистское руководство запретило немцам принимать Нобелевские премии.",
+    "de": "Nach dem Fall Ossietzky verbot die NS-Fuehrung Deutschen die Annahme von Nobelpreisen.",
+    "en": "After the Ossietzky case, the Nazi leadership forbade Germans from accepting Nobel Prizes."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Carl von Ossietzky speed read",
+      "url": "https://www.nobelprize.org/prizes/peace/1935/ossietzky/speedread/"
+    }
+  ]
+}

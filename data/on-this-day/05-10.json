@@ -1,0 +1,65 @@
+{
+  "date": "05-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-nazi-book-burnings",
+    "year": 1933,
+    "title": {
+      "ru": "Нацистские сожжения книг",
+      "de": "Nationalsozialistische Buecherverbrennungen",
+      "en": "Nazi book burnings"
+    },
+    "description": {
+      "ru": "10 мая 1933 года студенты и сторонники нацистов сжигали книги в городах по всей Германии. Под удар попали произведения еврейских, либеральных, левых и других нежелательных авторов.",
+      "de": "Am 10. Mai 1933 verbrannten Studenten und NS-Anhaenger in Staedten in ganz Deutschland Buecher. Betroffen waren Werke juedischer, liberaler, linker und anderer unerwuenschter Autoren.",
+      "en": "On 10 May 1933, students and Nazi supporters burned books in towns and cities across Germany. Works by Jewish, liberal, left-wing and other unwanted authors were targeted."
+    },
+    "importance": {
+      "ru": "Это стало символом цензуры, интеллектуального насилия и подчинения культуры диктатуре.",
+      "de": "Das wurde zum Symbol fuer Zensur, geistige Gewalt und die Unterwerfung der Kultur unter die Diktatur.",
+      "en": "It became a symbol of censorship, intellectual violence and the subordination of culture to dictatorship."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "book-burning-heine",
+        "year": 1933,
+        "title": {
+          "ru": "Зловещая фраза Гейне",
+          "de": "Heines unheimlicher Satz",
+          "en": "Heine's ominous sentence"
+        },
+        "description": {
+          "ru": "После 1933 года часто вспоминали мысль Генриха Гейне о том, что там, где сжигают книги, в конце сжигают и людей. Эта фраза стала страшно точной.",
+          "de": "Nach 1933 erinnerte man oft an Heinrich Heines Satz, dass dort, wo man Buecher verbrennt, am Ende auch Menschen verbrannt werden. Der Satz wurde erschreckend treffend.",
+          "en": "After 1933, people often recalled Heinrich Heine's warning that where books are burned, people will eventually be burned too. The sentence became frighteningly accurate."
+        },
+        "importance": {
+          "ru": "Культура может быть ранним сигналом политической катастрофы.",
+          "de": "Kultur kann ein fruehes Warnsignal politischer Katastrophen sein.",
+          "en": "Culture can be an early warning signal of political catastrophe."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Берлине о сожжении книг напоминает подземный мемориал с пустыми книжными полками.",
+    "de": "In Berlin erinnert ein unterirdisches Denkmal mit leeren Buecherregalen an die Buecherverbrennung.",
+    "en": "In Berlin, an underground memorial with empty bookshelves recalls the book burning."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Nazi book burnings",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/book-burning"
+    },
+    {
+      "label": "PBS: Book burnings in Germany",
+      "url": "https://www.pbs.org/wgbh/americanexperience/features/goebbels-burnings/"
+    }
+  ]
+}

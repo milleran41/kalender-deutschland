@@ -1,0 +1,65 @@
+{
+  "date": "02-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-reichstag-fire",
+    "year": 1933,
+    "title": {
+      "ru": "Пожар в рейхстаге",
+      "de": "Der Reichstagsbrand",
+      "en": "The Reichstag fire"
+    },
+    "description": {
+      "ru": "27 февраля 1933 года здание рейхстага в Берлине было сильно повреждено пожаром. Нацисты использовали событие как повод для чрезвычайных мер против политических противников.",
+      "de": "Am 27. Februar 1933 wurde das Reichstagsgebaeude in Berlin durch Feuer schwer beschaedigt. Die Nationalsozialisten nutzten das Ereignis als Vorwand fuer Notmassnahmen gegen politische Gegner.",
+      "en": "On 27 February 1933, the Reichstag building in Berlin was badly damaged by fire. The Nazis used the event as a pretext for emergency measures against political opponents."
+    },
+    "importance": {
+      "ru": "На следующий день был принят указ, который фактически приостановил важные гражданские свободы.",
+      "de": "Am naechsten Tag wurde eine Notverordnung erlassen, die wichtige Grundrechte faktisch ausser Kraft setzte.",
+      "en": "The next day, an emergency decree effectively suspended key civil liberties."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1933-reichstag-fire-decree",
+        "year": 1933,
+        "title": {
+          "ru": "Указ после пожара",
+          "de": "Die Verordnung nach dem Brand",
+          "en": "The decree after the fire"
+        },
+        "description": {
+          "ru": "Указ «О защите народа и государства» стал инструментом преследования оппозиции. Он помог нацистам превращать исключение в постоянную систему власти.",
+          "de": "Die Verordnung zum Schutz von Volk und Staat wurde ein Werkzeug zur Verfolgung der Opposition. Sie half den Nationalsozialisten, den Ausnahmezustand zur Herrschaftsform zu machen.",
+          "en": "The Decree for the Protection of People and State became a tool for persecuting opposition. It helped the Nazis turn emergency rule into a system of power."
+        },
+        "importance": {
+          "ru": "Это пример того, как страх и кризис могут быть использованы против прав граждан.",
+          "de": "Das ist ein Beispiel dafuer, wie Angst und Krise gegen Buergerrechte genutzt werden koennen.",
+          "en": "It is an example of how fear and crisis can be used against civil rights."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вопрос о поджигателях долго оставался предметом споров, но политические последствия пожара ясны.",
+    "de": "Die Frage nach den Brandstiftern blieb lange umstritten, doch die politischen Folgen des Brandes sind klar.",
+    "en": "The question of who set the fire remained disputed for a long time, but the political consequences are clear."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Reichstagsbrand",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2023/kw09-kalenderblatt-reichstagsbrand-934664"
+    },
+    {
+      "label": "Britannica: Reichstag fire",
+      "url": "https://www.britannica.com/event/Reichstag-fire"
+    }
+  ]
+}
