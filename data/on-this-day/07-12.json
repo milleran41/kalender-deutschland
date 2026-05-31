@@ -1,0 +1,86 @@
+{
+  "date": "07-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1806-confederation-of-the-rhine",
+    "year": 1806,
+    "title": {
+      "ru": "Создан Рейнский союз",
+      "de": "Der Rheinbund wird gegruendet",
+      "en": "The Confederation of the Rhine is created"
+    },
+    "description": {
+      "ru": "12 июля 1806 года немецкие князья подписали договор о создании Рейнского союза под покровительством Наполеона. Через несколько недель Священная Римская империя прекратила существование.",
+      "de": "Am 12. Juli 1806 unterzeichneten deutsche Fuersten den Vertrag zur Gruendung des Rheinbundes unter dem Schutz Napoleons. Wenige Wochen spaeter hoerte das Heilige Roemische Reich auf zu bestehen.",
+      "en": "On 12 July 1806, German princes signed the treaty creating the Confederation of the Rhine under Napoleon's protection. A few weeks later, the Holy Roman Empire ceased to exist."
+    },
+    "importance": {
+      "ru": "Это событие резко изменило политическую карту немецких земель.",
+      "de": "Dieses Ereignis veraenderte die politische Karte der deutschen Laender grundlegend.",
+      "en": "The event dramatically changed the political map of the German lands."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1806-end-of-old-empire",
+        "year": 1806,
+        "title": {
+          "ru": "Конец старой имперской системы",
+          "de": "Das Ende der alten Reichsordnung",
+          "en": "The end of the old imperial order"
+        },
+        "description": {
+          "ru": "Рейнский союз вывел многие немецкие государства из орбиты старой империи. Император Франц II вскоре сложил корону Священной Римской империи.",
+          "de": "Der Rheinbund loeste viele deutsche Staaten aus der alten Reichsordnung. Kaiser Franz II. legte kurz darauf die Krone des Heiligen Roemischen Reiches nieder.",
+          "en": "The Confederation of the Rhine pulled many German states out of the old imperial order. Emperor Francis II soon laid down the crown of the Holy Roman Empire."
+        },
+        "importance": {
+          "ru": "Для карты Германии это один из ключевых моментов между средневековой империей и современными государствами.",
+          "de": "Fuer die Karte Deutschlands ist das einer der Schluesselmomente zwischen mittelalterlichem Reich und modernen Staaten.",
+          "en": "For Germany's map, it is one of the key moments between the medieval empire and modern states."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1806-many-small-states",
+        "year": 1806,
+        "title": {
+          "ru": "Германия ещё не была единой страной",
+          "de": "Deutschland war noch kein einheitliches Land",
+          "en": "Germany was not yet a unified country"
+        },
+        "description": {
+          "ru": "В начале XIX века на немецких землях существовало множество княжеств, королевств и городов. Поэтому «история Германии» тогда часто была историей меняющихся союзов.",
+          "de": "Anfang des 19. Jahrhunderts gab es in den deutschen Laendern viele Fuerstentuemer, Koenigreiche und Staedte. Darum war deutsche Geschichte damals oft Geschichte wechselnder Buendnisse.",
+          "en": "At the beginning of the 19th century, the German lands contained many principalities, kingdoms and cities. German history was therefore often a history of shifting alliances."
+        },
+        "importance": {
+          "ru": "Это хорошо объясняет, почему карты немецкой истории так сильно меняются от эпохи к эпохе.",
+          "de": "Das erklaert gut, warum Karten der deutschen Geschichte von Epoche zu Epoche so stark wechseln.",
+          "en": "This helps explain why maps of German history change so much from one era to another."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Рейнский союз просуществовал до 1813 года, когда поражения Наполеона разрушили его систему союзов.",
+    "de": "Der Rheinbund bestand bis 1813, als Napoleons Niederlagen sein Buendnissystem zerfallen liessen.",
+    "en": "The Confederation of the Rhine lasted until 1813, when Napoleon's defeats caused his alliance system to collapse."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Confederation of the Rhine",
+      "url": "https://www.britannica.com/topic/Confederation-of-the-Rhine"
+    },
+    {
+      "label": "Napoleon.org: The Confederation of the Rhine",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "11-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2005-angela-merkel-chancellor",
+    "year": 2005,
+    "title": {
+      "ru": "Ангела Меркель стала канцлером",
+      "de": "Angela Merkel wird Bundeskanzlerin",
+      "en": "Angela Merkel becomes chancellor"
+    },
+    "description": {
+      "ru": "22 ноября 2005 года Бундестаг избрал Ангелу Меркель федеральным канцлером. Она стала первой женщиной во главе правительства Германии.",
+      "de": "Am 22. November 2005 waehlte der Bundestag Angela Merkel zur Bundeskanzlerin. Sie wurde die erste Frau an der Spitze der deutschen Regierung.",
+      "en": "On 22 November 2005, the Bundestag elected Angela Merkel as federal chancellor. She became the first woman to lead Germany's government."
+    },
+    "importance": {
+      "ru": "Дата важна для современной политической истории Германии и для истории участия женщин в высшей власти.",
+      "de": "Das Datum ist wichtig fuer die moderne politische Geschichte Deutschlands und fuer die Geschichte von Frauen in hoechsten Staatsaemtern.",
+      "en": "The date is important for modern German political history and for the history of women in top government office."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "2005-grand-coalition",
+        "year": 2005,
+        "title": {
+          "ru": "Начало большой коалиции",
+          "de": "Beginn einer Grossen Koalition",
+          "en": "Start of a grand coalition"
+        },
+        "description": {
+          "ru": "Первое правительство Меркель опиралось на союз ХДС/ХСС и СДПГ. Такая коалиция показывает, что в парламентской системе партии иногда вынуждены договариваться после сложных выборов.",
+          "de": "Merkels erste Regierung beruhte auf einem Buendnis von CDU/CSU und SPD. Eine solche Koalition zeigt, dass Parteien in einem parlamentarischen System nach schwierigen Wahlen verhandeln muessen.",
+          "en": "Merkel's first government was based on an alliance between the CDU/CSU and the SPD. Such a coalition shows that parties in a parliamentary system sometimes have to negotiate after difficult elections."
+        },
+        "importance": {
+          "ru": "Это помогает понять, как реально работает немецкая парламентская демократия.",
+          "de": "Das hilft zu verstehen, wie die parlamentarische Demokratie in Deutschland praktisch funktioniert.",
+          "en": "It helps explain how Germany's parliamentary democracy works in practice."
+        }
+      }
+    ],
+    "famousPeople": [
+      {
+        "id": "1954-angela-merkel",
+        "year": 1954,
+        "title": {
+          "ru": "Политик из восточной Германии",
+          "de": "Eine Politikerin aus Ostdeutschland",
+          "en": "A politician from eastern Germany"
+        },
+        "description": {
+          "ru": "Меркель выросла в ГДР и была физиком по образованию. После объединения Германии она быстро вошла в федеральную политику.",
+          "de": "Merkel wuchs in der DDR auf und war von Ausbildung Physikerin. Nach der deutschen Einheit stieg sie schnell in die Bundespolitik auf.",
+          "en": "Merkel grew up in East Germany and trained as a physicist. After German reunification, she quickly entered federal politics."
+        },
+        "importance": {
+          "ru": "Её биография связывает историю разделённой Германии с историей Берлинской республики.",
+          "de": "Ihre Biografie verbindet die Geschichte des geteilten Deutschlands mit der Geschichte der Berliner Republik.",
+          "en": "Her biography connects the history of divided Germany with the history of the Berlin Republic."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "2005-first-woman-chancellor",
+        "year": 2005,
+        "title": {
+          "ru": "Первая женщина-канцлер",
+          "de": "Die erste Bundeskanzlerin",
+          "en": "The first woman chancellor"
+        },
+        "description": {
+          "ru": "До 2005 года все федеральные канцлеры Германии были мужчинами. Поэтому само обращение «Bundeskanzlerin» стало заметным символом перемен.",
+          "de": "Bis 2005 waren alle Bundeskanzler Deutschlands Maenner. Schon die Amtsbezeichnung Bundeskanzlerin wurde deshalb zu einem sichtbaren Zeichen des Wandels.",
+          "en": "Until 2005, all German federal chancellors had been men. Even the title Bundeskanzlerin became a visible sign of change."
+        },
+        "importance": {
+          "ru": "Иногда изменение видно даже в одном слове.",
+          "de": "Manchmal wird Veraenderung schon in einem einzigen Wort sichtbar.",
+          "en": "Sometimes change becomes visible in a single word."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Меркель занимала пост канцлера с 2005 по 2021 год, но в нашей базе события после 2020 года не добавляются.",
+    "de": "Merkel war von 2005 bis 2021 Bundeskanzlerin; in dieser Datenbank werden jedoch keine Ereignisse nach 2020 aufgenommen.",
+    "en": "Merkel served as chancellor from 2005 to 2021, but this database does not include events after 2020."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Angela Merkel elected chancellor",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2015/kw47_kalenderblatt_merkel-394698"
+    },
+    {
+      "label": "Britannica: Angela Merkel",
+      "url": "https://www.britannica.com/biography/Angela-Merkel"
+    }
+  ]
+}

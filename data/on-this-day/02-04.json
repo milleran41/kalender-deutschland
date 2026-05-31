@@ -1,0 +1,86 @@
+{
+  "date": "02-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1906-dietrich-bonhoeffer-born",
+    "year": 1906,
+    "title": {
+      "ru": "Родился Дитрих Бонхёффер",
+      "de": "Dietrich Bonhoeffer wird geboren",
+      "en": "Dietrich Bonhoeffer is born"
+    },
+    "description": {
+      "ru": "4 февраля 1906 года в Бреслау родился Дитрих Бонхёффер, немецкий богослов и участник сопротивления нацизму. Он открыто выступал против режима и был казнён в апреле 1945 года.",
+      "de": "Am 4. Februar 1906 wurde Dietrich Bonhoeffer in Breslau geboren, ein deutscher Theologe und Widerstandskaempfer gegen den Nationalsozialismus. Er stellte sich offen gegen das Regime und wurde im April 1945 hingerichtet.",
+      "en": "On 4 February 1906, Dietrich Bonhoeffer was born in Breslau. He became a German theologian and a member of the resistance against Nazism, and was executed in April 1945."
+    },
+    "importance": {
+      "ru": "Его жизнь показывает, что сопротивление диктатуре могло иметь не только политические, но и нравственные и религиозные причины.",
+      "de": "Sein Leben zeigt, dass Widerstand gegen eine Diktatur nicht nur politische, sondern auch moralische und religioese Gruende haben konnte.",
+      "en": "His life shows that resistance to dictatorship could have not only political but also moral and religious reasons."
+    }
+  },
+  "categories": {
+    "famousPeople": [
+      {
+        "id": "1906-bonhoeffer-theologian",
+        "year": 1906,
+        "title": {
+          "ru": "Богослов и человек совести",
+          "de": "Theologe und Mensch des Gewissens",
+          "en": "Theologian and man of conscience"
+        },
+        "description": {
+          "ru": "Бонхёффер писал о личной ответственности, вере и выборе человека в опасное время. Его книги читают далеко за пределами Германии.",
+          "de": "Bonhoeffer schrieb ueber persoenliche Verantwortung, Glauben und Entscheidungen in gefaehrlicher Zeit. Seine Buecher werden weit ueber Deutschland hinaus gelesen.",
+          "en": "Bonhoeffer wrote about personal responsibility, faith and human choices in dangerous times. His books are read far beyond Germany."
+        },
+        "importance": {
+          "ru": "Это пример того, как идеи могут оставаться важными даже после гибели автора.",
+          "de": "Das ist ein Beispiel dafuer, wie Ideen auch nach dem Tod ihres Autors wichtig bleiben koennen.",
+          "en": "It is an example of how ideas can remain important even after their author's death."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "1945-flossenbuerg-execution",
+        "year": 1945,
+        "title": {
+          "ru": "Казнь во Флоссенбюрге",
+          "de": "Hinrichtung in Flossenbuerg",
+          "en": "Execution at Flossenbuerg"
+        },
+        "description": {
+          "ru": "Бонхёффера казнили в концлагере Флоссенбюрг незадолго до окончания войны. Его судьба связана с немецким сопротивлением и с памятью о жертвах нацистского режима.",
+          "de": "Bonhoeffer wurde kurz vor Kriegsende im Konzentrationslager Flossenbuerg hingerichtet. Sein Schicksal ist mit dem deutschen Widerstand und der Erinnerung an die Opfer des NS-Regimes verbunden.",
+          "en": "Bonhoeffer was executed at Flossenbuerg concentration camp shortly before the end of the war. His fate is linked to the German resistance and the memory of the victims of the Nazi regime."
+        },
+        "importance": {
+          "ru": "Такие биографии помогают говорить о диктатуре через конкретную человеческую жизнь.",
+          "de": "Solche Biografien helfen, ueber Diktatur anhand eines konkreten Menschenlebens zu sprechen.",
+          "en": "Such biographies help explain dictatorship through a concrete human life."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бреслау, где родился Бонхёффер, сегодня находится в Польше и называется Вроцлав.",
+    "de": "Breslau, Bonhoeffers Geburtsstadt, liegt heute in Polen und heisst Wroclaw.",
+    "en": "Breslau, Bonhoeffer's birthplace, is now in Poland and is called Wroclaw."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Dietrich Bonhoeffer",
+      "url": "https://www.britannica.com/biography/Dietrich-Bonhoeffer"
+    },
+    {
+      "label": "Yad Vashem: Dietrich Bonhoeffer",
+      "url": "https://www.yadvashem.org/odot_pdf/Microsoft%20Word%20-%205975.pdf"
+    }
+  ]
+}
