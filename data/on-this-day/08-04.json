@@ -1,0 +1,86 @@
+{
+  "date": "08-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1914-germany-invades-belgium",
+    "year": 1914,
+    "title": {
+      "ru": "Германия вторглась в Бельгию",
+      "de": "Deutschland marschiert in Belgien ein",
+      "en": "Germany invades Belgium"
+    },
+    "description": {
+      "ru": "4 августа 1914 года германские войска перешли границу нейтральной Бельгии. В тот же день Великобритания объявила войну Германии.",
+      "de": "Am 4. August 1914 ueberschritten deutsche Truppen die Grenze des neutralen Belgien. Am selben Tag erklaerte Grossbritannien Deutschland den Krieg.",
+      "en": "On 4 August 1914, German troops crossed the border into neutral Belgium. On the same day, Britain declared war on Germany."
+    },
+    "importance": {
+      "ru": "Война быстро превратилась из европейского кризиса в огромный международный конфликт.",
+      "de": "Der Krieg wurde damit aus einer europaeischen Krise sehr schnell zu einem grossen internationalen Konflikt.",
+      "en": "The war quickly turned from a European crisis into a major international conflict."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1914-belgian-neutrality",
+        "year": 1914,
+        "title": {
+          "ru": "Нарушение нейтралитета Бельгии",
+          "de": "Verletzung der belgischen Neutralitaet",
+          "en": "Violation of Belgian neutrality"
+        },
+        "description": {
+          "ru": "Германский план войны с Францией предполагал проход через Бельгию. Но Бельгия была нейтральной страной, и вторжение вызвало резкую реакцию в Европе.",
+          "de": "Der deutsche Kriegsplan gegen Frankreich sah den Durchmarsch durch Belgien vor. Belgien war jedoch neutral, und der Einmarsch loeste in Europa scharfe Reaktionen aus.",
+          "en": "Germany's plan for war against France involved moving through Belgium. Belgium was neutral, and the invasion caused a strong reaction across Europe."
+        },
+        "importance": {
+          "ru": "Этот день помогает понять, почему география маленькой страны изменила ход всей войны.",
+          "de": "Der Tag zeigt, wie die Geografie eines kleinen Landes den Verlauf des ganzen Krieges beeinflusste.",
+          "en": "The day shows how the geography of a small country influenced the course of the whole war."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1914-scrap-of-paper",
+        "year": 1914,
+        "title": {
+          "ru": "«Клочок бумаги»",
+          "de": "Ein Fetzen Papier",
+          "en": "A scrap of paper"
+        },
+        "description": {
+          "ru": "Выражение о договоре как о «клочке бумаги» стало символом того, как опасно недооценивать международные обязательства. В британской пропаганде эта фраза быстро стала очень известной.",
+          "de": "Die Formulierung vom Vertrag als Fetzen Papier wurde zum Symbol dafuer, wie gefaehrlich es ist, internationale Verpflichtungen zu unterschaetzen. In der britischen Propaganda wurde der Satz schnell beruehmt.",
+          "en": "The phrase about a treaty as a scrap of paper became a symbol of the danger of underestimating international obligations. British propaganda quickly made it famous."
+        },
+        "importance": {
+          "ru": "Одна фраза иногда запоминается сильнее, чем длинные дипломатические документы.",
+          "de": "Manchmal bleibt ein einzelner Satz staerker im Gedaechtnis als lange diplomatische Dokumente.",
+          "en": "Sometimes a single phrase is remembered more strongly than long diplomatic documents."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бельгийское сопротивление у Льежа задержало немецкое наступление и стало важным сюжетом первых недель войны.",
+    "de": "Der belgische Widerstand bei Luettich verzoegerte den deutschen Vormarsch und wurde zu einem wichtigen Thema der ersten Kriegswochen.",
+    "en": "Belgian resistance at Liege delayed the German advance and became an important story of the war's first weeks."
+  },
+  "sources": [
+    {
+      "label": "Britannica: World War I in the west, 1914",
+      "url": "https://www.britannica.com/event/World-War-I/The-war-in-the-west-1914"
+    },
+    {
+      "label": "Britannica: Belgium and World War I",
+      "url": "https://www.britannica.com/place/Belgium/Belgium-and-World-War-I"
+    }
+  ]
+}

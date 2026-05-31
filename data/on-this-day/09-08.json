@@ -1,0 +1,86 @@
+{
+  "date": "09-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1926-germany-joins-league-of-nations",
+    "year": 1926,
+    "title": {
+      "ru": "Германия вступила в Лигу Наций",
+      "de": "Deutschland tritt dem Voelkerbund bei",
+      "en": "Germany joins the League of Nations"
+    },
+    "description": {
+      "ru": "8 сентября 1926 года Германия была принята в Лигу Наций. Для Веймарской республики это стало важным шагом возвращения в международную политику после Первой мировой войны.",
+      "de": "Am 8. September 1926 wurde Deutschland in den Voelkerbund aufgenommen. Fuer die Weimarer Republik war das ein wichtiger Schritt zur Rueckkehr in die internationale Politik nach dem Ersten Weltkrieg.",
+      "en": "On 8 September 1926, Germany was admitted to the League of Nations. For the Weimar Republic, this was an important step back into international politics after the First World War."
+    },
+    "importance": {
+      "ru": "Событие показало, что послевоенная изоляция Германии могла смениться дипломатическим сотрудничеством.",
+      "de": "Das Ereignis zeigte, dass die Nachkriegsisolation Deutschlands durch diplomatische Zusammenarbeit abgeloest werden konnte.",
+      "en": "The event showed that Germany's postwar isolation could be replaced by diplomatic cooperation."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1926-stresemann-locarno",
+        "year": 1926,
+        "title": {
+          "ru": "Политика Густава Штреземана",
+          "de": "Die Politik Gustav Stresemanns",
+          "en": "Gustav Stresemann's policy"
+        },
+        "description": {
+          "ru": "Министр иностранных дел Густав Штреземан добивался для Германии признания через переговоры, а не через новую конфронтацию. Вступление в Лигу Наций стало продолжением Локарнских соглашений.",
+          "de": "Aussenminister Gustav Stresemann wollte Deutschland durch Verhandlungen, nicht durch neue Konfrontation anerkennen lassen. Der Eintritt in den Voelkerbund setzte die Politik von Locarno fort.",
+          "en": "Foreign minister Gustav Stresemann sought recognition for Germany through negotiation, not renewed confrontation. Joining the League continued the policy of Locarno."
+        },
+        "importance": {
+          "ru": "Это один из самых заметных успехов немецкой дипломатии Веймарской эпохи.",
+          "de": "Das war einer der sichtbarsten Erfolge deutscher Diplomatie in der Weimarer Zeit.",
+          "en": "It was one of the most visible successes of German diplomacy during the Weimar era."
+        }
+      }
+    ],
+    "famousPeople": [
+      {
+        "id": "1878-gustav-stresemann",
+        "year": 1878,
+        "title": {
+          "ru": "Густав Штреземан",
+          "de": "Gustav Stresemann",
+          "en": "Gustav Stresemann"
+        },
+        "description": {
+          "ru": "Штреземан был канцлером, а затем министром иностранных дел Веймарской республики. За политику примирения он получил Нобелевскую премию мира вместе с Аристидом Брианом.",
+          "de": "Stresemann war Reichskanzler und danach Aussenminister der Weimarer Republik. Fuer seine Versoehnungspolitik erhielt er zusammen mit Aristide Briand den Friedensnobelpreis.",
+          "en": "Stresemann served as chancellor and then foreign minister of the Weimar Republic. For his policy of reconciliation, he received the Nobel Peace Prize together with Aristide Briand."
+        },
+        "importance": {
+          "ru": "Его биография показывает, что история Веймара состояла не только из кризисов, но и из попыток мирной политики.",
+          "de": "Seine Biografie zeigt, dass Weimar nicht nur aus Krisen bestand, sondern auch aus Versuchen friedlicher Politik.",
+          "en": "His biography shows that Weimar was not only a story of crises but also of attempts at peaceful politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Германия вышла из Лиги Наций в 1933 году, уже после прихода нацистов к власти.",
+    "de": "Deutschland trat 1933, nach der Machtuebernahme der Nationalsozialisten, wieder aus dem Voelkerbund aus.",
+    "en": "Germany left the League of Nations in 1933, after the Nazis came to power."
+  },
+  "sources": [
+    {
+      "label": "Britannica: League of Nations members",
+      "url": "https://www.britannica.com/topic/League-of-Nations/Members-of-the-League-of-Nations"
+    },
+    {
+      "label": "German History in Documents and Images: Germany and the League of Nations",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/kuno-von-westarps-reichstag-speech-against-joining-the-league-of-nations-january-27-1926.pdf"
+    }
+  ]
+}

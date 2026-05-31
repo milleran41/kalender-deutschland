@@ -1,0 +1,111 @@
+{
+  "date": "11-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1983-ulf-merbold-spacelab",
+    "year": 1983,
+    "title": {
+      "ru": "Ульф Мербольд полетел на Spacelab-1",
+      "de": "Ulf Merbold startet mit Spacelab-1",
+      "en": "Ulf Merbold launches with Spacelab-1"
+    },
+    "description": {
+      "ru": "28 ноября 1983 года шаттл Columbia стартовал с миссией STS-9/Spacelab-1. На борту был немецкий физик Ульф Мербольд, первый астронавт ESA, полетевший в космос.",
+      "de": "Am 28. November 1983 startete die Raumfaehre Columbia zur Mission STS-9/Spacelab-1. An Bord war der deutsche Physiker Ulf Merbold, der erste ESA-Astronaut im All.",
+      "en": "On 28 November 1983, the Space Shuttle Columbia launched on the STS-9/Spacelab-1 mission. On board was German physicist Ulf Merbold, the first ESA astronaut to fly in space."
+    },
+    "importance": {
+      "ru": "Это важная дата для немецкой и европейской космической истории.",
+      "de": "Das ist ein wichtiges Datum der deutschen und europaeischen Raumfahrtgeschichte.",
+      "en": "It is an important date in German and European space history."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1983-spacelab-1",
+        "year": 1983,
+        "title": {
+          "ru": "Лаборатория в грузовом отсеке шаттла",
+          "de": "Ein Labor im Frachtraum des Shuttles",
+          "en": "A laboratory in the shuttle cargo bay"
+        },
+        "description": {
+          "ru": "Spacelab был европейской лабораторией, установленной в шаттле. Учёные могли проводить эксперименты в невесомости прямо во время полёта.",
+          "de": "Spacelab war ein europaeisches Labor im Space Shuttle. Wissenschaftler konnten waehrend des Fluges Experimente in Schwerelosigkeit durchfuehren.",
+          "en": "Spacelab was a European laboratory carried inside the Space Shuttle. Scientists could perform experiments in weightlessness during the flight."
+        },
+        "importance": {
+          "ru": "Проект показал, что космос стал не только соревнованием держав, но и международной научной работой.",
+          "de": "Das Projekt zeigte, dass Raumfahrt nicht nur ein Wettlauf der Grossmaechte, sondern auch internationale Wissenschaft war.",
+          "en": "The project showed that spaceflight was not only a race between superpowers but also international scientific work."
+        }
+      }
+    ],
+    "famousPeople": [
+      {
+        "id": "1941-ulf-merbold",
+        "year": 1941,
+        "title": {
+          "ru": "Ульф Мербольд",
+          "de": "Ulf Merbold",
+          "en": "Ulf Merbold"
+        },
+        "description": {
+          "ru": "Мербольд родился в Грайце и стал одним из самых известных немецких астронавтов. Позже он летал ещё на американском шаттле и на российской станции «Мир».",
+          "de": "Merbold wurde in Greiz geboren und wurde einer der bekanntesten deutschen Astronauten. Spaeter flog er erneut mit dem amerikanischen Shuttle und zur russischen Raumstation Mir.",
+          "en": "Merbold was born in Greiz and became one of Germany's best-known astronauts. Later he flew again on the American shuttle and to the Russian space station Mir."
+        },
+        "importance": {
+          "ru": "Его карьера хорошо показывает, как немецкая космонавтика работала между Европой, США и Россией.",
+          "de": "Seine Karriere zeigt gut, wie deutsche Raumfahrt zwischen Europa, den USA und Russland arbeitete.",
+          "en": "His career shows how German spaceflight operated between Europe, the United States and Russia."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1983-first-non-american-shuttle",
+        "year": 1983,
+        "title": {
+          "ru": "Первый неамериканец на шаттле",
+          "de": "Der erste Nicht-Amerikaner im Shuttle",
+          "en": "The first non-American on the shuttle"
+        },
+        "description": {
+          "ru": "Мербольд стал первым неамериканцем, полетевшим на космическом шаттле. Для европейской публики это сделало программу Spacelab особенно заметной.",
+          "de": "Merbold war der erste Nicht-Amerikaner, der mit dem Space Shuttle flog. Fuer die europaeische Oeffentlichkeit machte das Spacelab besonders sichtbar.",
+          "en": "Merbold became the first non-American to fly on the Space Shuttle. For European audiences, this made Spacelab especially visible."
+        },
+        "importance": {
+          "ru": "Иногда один пассажир на борту меняет то, как целый континент воспринимает большую программу.",
+          "de": "Manchmal veraendert eine Person an Bord, wie ein ganzer Kontinent ein grosses Programm wahrnimmt.",
+          "en": "Sometimes one person on board changes how a whole continent sees a major program."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Миссия Spacelab-1 длилась с 28 ноября по 8 декабря 1983 года.",
+    "de": "Die Mission Spacelab-1 dauerte vom 28. November bis zum 8. Dezember 1983.",
+    "en": "The Spacelab-1 mission lasted from 28 November to 8 December 1983."
+  },
+  "sources": [
+    {
+      "label": "ESA: Ulf Merbold",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Ulf_Merbold"
+    },
+    {
+      "label": "ESA: Spacelab-1, 40 years on",
+      "url": "https://www.esa.int/About_Us/ESA_history/Spacelab-1_40_years_on"
+    },
+    {
+      "label": "DLR: Ulf Merbold",
+      "url": "https://www.dlr.de/en/research-and-transfer/projects-and-missions/german-astronauts-and-their-missions/ulf-merbold"
+    }
+  ]
+}
