@@ -1,0 +1,111 @@
+{
+  "date": "12-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1770-traditional-birthday-of-beethoven",
+    "year": 1770,
+    "title": {
+      "ru": "Традиционная дата рождения Бетховена",
+      "de": "Traditioneller Geburtstag Beethovens",
+      "en": "Traditional birthday of Beethoven"
+    },
+    "description": {
+      "ru": "16 декабря 1770 года обычно считают днём рождения Людвига ван Бетховена в Бонне, хотя документально точно известна дата его крещения — 17 декабря. Бетховен стал одним из самых влиятельных композиторов в истории европейской музыки.",
+      "de": "Der 16. Dezember 1770 gilt traditionell als Geburtstag Ludwig van Beethovens in Bonn, auch wenn urkundlich sicher nur seine Taufe am 17. Dezember belegt ist. Beethoven wurde einer der einflussreichsten Komponisten der europaeischen Musikgeschichte.",
+      "en": "16 December 1770 is traditionally regarded as Ludwig van Beethoven's birthday in Bonn, although the securely documented date is his baptism on 17 December. Beethoven became one of the most influential composers in European music history."
+    },
+    "importance": {
+      "ru": "Дата важна для немецкой и мировой культуры: Бонн до сих пор связан с именем Бетховена.",
+      "de": "Das Datum ist fuer die deutsche und die Weltkultur wichtig: Bonn ist bis heute eng mit Beethovens Namen verbunden.",
+      "en": "The date matters for German and world culture: Bonn is still closely associated with Beethoven's name."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "ludwig-van-beethoven",
+        "year": 1770,
+        "title": {
+          "ru": "Людвиг ван Бетховен",
+          "de": "Ludwig van Beethoven",
+          "en": "Ludwig van Beethoven"
+        },
+        "description": {
+          "ru": "Бетховен родился в музыкальной семье в Бонне и позже переехал в Вену. Его творчество соединяет классицизм и романтизм, а симфонии, сонаты и квартеты стали основой концертного репертуара.",
+          "de": "Beethoven wurde in Bonn in eine Musikerfamilie geboren und zog spaeter nach Wien. Sein Werk verbindet Klassik und Romantik; seine Sinfonien, Sonaten und Quartette gehoeren zum Kern des Konzertrepertoires.",
+          "en": "Beethoven was born into a musical family in Bonn and later moved to Vienna. His work bridges Classicism and Romanticism, and his symphonies, sonatas and quartets became central to the concert repertoire."
+        },
+        "importance": {
+          "ru": "Он остаётся одним из главных символов немецкой музыкальной традиции.",
+          "de": "Er bleibt eines der wichtigsten Symbole der deutschen Musiktradition.",
+          "en": "He remains one of the main symbols of the German musical tradition."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "bonn-beethoven-memory",
+        "year": 1770,
+        "title": {
+          "ru": "Бонн как город Бетховена",
+          "de": "Bonn als Beethovenstadt",
+          "en": "Bonn as Beethoven's city"
+        },
+        "description": {
+          "ru": "Дом, где родился композитор, сегодня известен как Beethoven-Haus. Он превратил биографию одного человека в важную часть культурной идентичности города.",
+          "de": "Das Geburtshaus des Komponisten ist heute als Beethoven-Haus bekannt. Es machte die Biografie eines Menschen zu einem wichtigen Teil der kulturellen Identitaet der Stadt.",
+          "en": "The house where the composer was born is now known as the Beethoven-Haus. It turned one person's biography into an important part of the city's cultural identity."
+        },
+        "importance": {
+          "ru": "Это показывает, как место рождения может стать культурной картой памяти.",
+          "de": "Das zeigt, wie ein Geburtsort zu einer kulturellen Erinnerungskarte werden kann.",
+          "en": "It shows how a birthplace can become a cultural map of memory."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "birthday-question",
+        "year": 1770,
+        "title": {
+          "ru": "День рождения с оговоркой",
+          "de": "Ein Geburtstag mit Vorbehalt",
+          "en": "A birthday with a caveat"
+        },
+        "description": {
+          "ru": "Точную запись о рождении Бетховена не нашли, зато сохранилась запись о крещении 17 декабря. Поэтому 16 декабря — традиционная, но не абсолютно документальная дата.",
+          "de": "Ein genauer Geburtseintrag Beethovens ist nicht bekannt, erhalten ist aber der Taufeintrag vom 17. Dezember. Deshalb ist der 16. Dezember ein traditionelles, aber nicht absolut urkundliches Datum.",
+          "en": "No exact birth record for Beethoven is known, but the baptism record from 17 December survives. That is why 16 December is traditional, but not absolutely documented."
+        },
+        "importance": {
+          "ru": "Интересно, что даже у всемирно знаменитого человека такая базовая дата может оставаться немного загадочной.",
+          "de": "Interessant ist, dass selbst bei einer weltberuehmten Person ein so grundlegendes Datum etwas raetselhaft bleiben kann.",
+          "en": "It is interesting that even for a world-famous person such a basic date can remain slightly uncertain."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бетховен был крещён 17 декабря 1770 года в Бонне.",
+    "de": "Beethoven wurde am 17. Dezember 1770 in Bonn getauft.",
+    "en": "Beethoven was baptized in Bonn on 17 December 1770."
+  },
+  "sources": [
+    {
+      "label": "Beethoven-Haus Bonn: Museum",
+      "url": "https://www.beethoven.de/museum"
+    },
+    {
+      "label": "Britannica: Ludwig van Beethoven",
+      "url": "https://www.britannica.com/biography/Ludwig-van-Beethoven"
+    },
+    {
+      "label": "BTHVN2020: Bonn cosmopolitan",
+      "url": "https://bthvn2020.de/en/background/leitthemen/bonn-cosmopolitan"
+    }
+  ]
+}

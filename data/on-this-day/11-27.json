@@ -1,0 +1,90 @@
+{
+  "date": "11-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1942-toulon-fleet-scuttled",
+    "year": 1942,
+    "title": {
+      "ru": "Французский флот в Тулоне был затоплен, чтобы не достаться Германии",
+      "de": "Die franzoesische Flotte in Toulon versenkt sich vor deutschem Zugriff",
+      "en": "The French fleet at Toulon is scuttled to avoid German capture"
+    },
+    "description": {
+      "ru": "27 ноября 1942 года немецкие войска попытались захватить французский флот в Тулоне. Французские моряки затопили корабли, чтобы они не попали в руки нацистской Германии.",
+      "de": "Am 27. November 1942 versuchten deutsche Truppen, die franzoesische Flotte in Toulon zu besetzen. Franzoesische Matrosen versenkten die Schiffe, damit sie nicht in die Haende des nationalsozialistischen Deutschlands fielen.",
+      "en": "On 27 November 1942, German troops tried to seize the French fleet at Toulon. French sailors scuttled the ships so they would not fall into Nazi Germany's hands."
+    },
+    "importance": {
+      "ru": "Событие важно, потому что показывает пределы контроля Германии над режимом Виши и значение флота в войне.",
+      "de": "Das Ereignis ist wichtig, weil es die Grenzen der deutschen Kontrolle ueber das Vichy-Regime und die Bedeutung der Flotte im Krieg zeigt.",
+      "en": "The event matters because it shows the limits of German control over the Vichy regime and the importance of naval power in the war."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "operation-lila",
+        "year": 1942,
+        "title": {
+          "ru": "Операция «Лила»",
+          "de": "Unternehmen Lila",
+          "en": "Operation Lila"
+        },
+        "description": {
+          "ru": "Попытка захвата флота была частью немецких действий после высадки союзников в Северной Африке. Германия заняла ранее неоккупированную часть Франции и стремилась не допустить перехода кораблей к союзникам.",
+          "de": "Der Versuch, die Flotte zu uebernehmen, gehoerte zu den deutschen Massnahmen nach der alliierten Landung in Nordafrika. Deutschland besetzte den zuvor unbesetzten Teil Frankreichs und wollte verhindern, dass die Schiffe zu den Alliierten gelangten.",
+          "en": "The attempt to take the fleet was part of German actions after the Allied landings in North Africa. Germany occupied the previously unoccupied part of France and wanted to prevent the ships from joining the Allies."
+        },
+        "importance": {
+          "ru": "Так видно, как события в Африке быстро меняли военную карту Европы.",
+          "de": "So wird sichtbar, wie Ereignisse in Afrika die militaerische Karte Europas rasch veraenderten.",
+          "en": "It shows how events in Africa quickly changed the military map of Europe."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "victory-by-destruction",
+        "year": 1942,
+        "title": {
+          "ru": "Победа через уничтожение",
+          "de": "Sieg durch Zerstoerung",
+          "en": "Victory through destruction"
+        },
+        "description": {
+          "ru": "Французский флот не победил в морском бою, но сорвал цель немецкой операции. Иногда в войне важным результатом становится не захват, а отказ отдать противнику ценный ресурс.",
+          "de": "Die franzoesische Flotte gewann keine Seeschlacht, vereitelte aber das Ziel der deutschen Operation. Manchmal ist im Krieg nicht die Eroberung entscheidend, sondern die Weigerung, dem Gegner einen wertvollen Besitz zu ueberlassen.",
+          "en": "The French fleet did not win a naval battle, but it frustrated the German operation's goal. Sometimes in war, the key result is not capture but denying the enemy a valuable resource."
+        },
+        "importance": {
+          "ru": "Это необычный пример военного решения, где самоуничтожение стало стратегическим выбором.",
+          "de": "Das ist ein ungewoehnliches Beispiel fuer eine militaerische Entscheidung, bei der Selbstzerstoerung zur Strategie wurde.",
+          "en": "It is an unusual example of a military decision in which self-destruction became strategy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Тулоне были затоплены десятки кораблей, включая крупные боевые единицы французского флота.",
+    "de": "In Toulon wurden Dutzende Schiffe versenkt, darunter grosse Einheiten der franzoesischen Flotte.",
+    "en": "Dozens of ships were scuttled at Toulon, including major units of the French fleet."
+  },
+  "sources": [
+    {
+      "label": "ImagesDefense: 27 novembre 1942, la flotte francaise se saborde a Toulon",
+      "url": "https://imagesdefense.gouv.fr/sabordage-flotte-francaise-toulon-1942"
+    },
+    {
+      "label": "Chemins de memoire: Toulon, le sabordage de la flotte",
+      "url": "https://www.cheminsdememoire.gouv.fr/en/node/8819"
+    },
+    {
+      "label": "World War II Database: Scuttling of the French Fleet",
+      "url": "https://ww2db.com/battle_spec.php?battle_id=210"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "12-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2016-berlin-christmas-market-attack",
+    "year": 2016,
+    "title": {
+      "ru": "Теракт на рождественском рынке в Берлине",
+      "de": "Terroranschlag auf dem Berliner Weihnachtsmarkt",
+      "en": "Terrorist attack at a Berlin Christmas market"
+    },
+    "description": {
+      "ru": "19 декабря 2016 года грузовик был направлен в толпу на рождественском рынке у Мемориальной церкви кайзера Вильгельма в Берлине. Погибли люди, десятки были ранены, а событие стало одним из самых тяжёлых террористических нападений в современной Германии.",
+      "de": "Am 19. Dezember 2016 wurde ein Lastwagen in die Menschenmenge auf dem Weihnachtsmarkt an der Kaiser-Wilhelm-Gedaechtniskirche in Berlin gelenkt. Menschen starben, Dutzende wurden verletzt, und das Ereignis wurde zu einem der schwersten Terroranschlaege im heutigen Deutschland.",
+      "en": "On 19 December 2016, a truck was driven into the crowd at the Christmas market beside Berlin's Kaiser Wilhelm Memorial Church. People were killed, dozens were injured, and the event became one of the most serious terrorist attacks in modern Germany."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания современных дискуссий о безопасности, памяти жертв и работе государственных служб.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis moderner Debatten ueber Sicherheit, Opfergedenken und die Arbeit staatlicher Behoerden.",
+      "en": "The date matters for understanding modern debates about security, remembrance of victims and the work of state authorities."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "breitscheidplatz-memory",
+        "year": 2016,
+        "title": {
+          "ru": "Брайтшайдплац как место памяти",
+          "de": "Der Breitscheidplatz als Erinnerungsort",
+          "en": "Breitscheidplatz as a place of memory"
+        },
+        "description": {
+          "ru": "После нападения площадь Брайтшайдплац стала местом траура и памяти. В Берлине появились мемориальные формы, которые напоминают о погибших и о хрупкости обычной городской жизни.",
+          "de": "Nach dem Anschlag wurde der Breitscheidplatz zu einem Ort der Trauer und Erinnerung. In Berlin entstanden Formen des Gedenkens, die an die Opfer und an die Verletzlichkeit des normalen Stadtlebens erinnern.",
+          "en": "After the attack, Breitscheidplatz became a place of mourning and remembrance. Berlin developed memorial forms that recall the victims and the fragility of ordinary urban life."
+        },
+        "importance": {
+          "ru": "Так видно, как современная история быстро превращается в городскую память.",
+          "de": "So wird sichtbar, wie Gegenwartsgeschichte rasch zu staedtischer Erinnerung wird.",
+          "en": "It shows how contemporary history can quickly become urban memory."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "christmas-market-security",
+        "year": 2016,
+        "title": {
+          "ru": "Рождественские рынки изменились",
+          "de": "Weihnachtsmaerkte veraenderten sich",
+          "en": "Christmas markets changed"
+        },
+        "description": {
+          "ru": "После нападения на многих рождественских рынках Германии усилили защиту, появились бетонные блоки и новые схемы контроля. Традиционный праздник стал связан и с вопросами безопасности.",
+          "de": "Nach dem Anschlag wurden viele Weihnachtsmaerkte in Deutschland staerker gesichert, mit Betonbarrieren und neuen Kontrollkonzepten. Ein traditionelles Fest wurde dadurch auch mit Sicherheitsfragen verbunden.",
+          "en": "After the attack, many Christmas markets in Germany received stronger protection, including concrete barriers and new control plans. A traditional festival also became linked with security concerns."
+        },
+        "importance": {
+          "ru": "Это показывает, как одно событие может изменить привычный городской ритуал.",
+          "de": "Das zeigt, wie ein einzelnes Ereignis ein vertrautes staedtisches Ritual veraendern kann.",
+          "en": "It shows how one event can change a familiar urban ritual."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Рынок находился рядом с Мемориальной церковью кайзера Вильгельма, одним из самых узнаваемых символов Западного Берлина.",
+    "de": "Der Markt lag neben der Kaiser-Wilhelm-Gedaechtniskirche, einem der bekanntesten Symbole West-Berlins.",
+    "en": "The market stood beside the Kaiser Wilhelm Memorial Church, one of West Berlin's most recognizable symbols."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: Berlin Christmas Market Terrorist Attack",
+      "url": "https://germanhistorydocs.org/en/a-new-germany-1990-2023/berlin-christmas-market-terrorist-attack-december-19-2016"
+    },
+    {
+      "label": "Eurojust: Berlin Christmas market terrorist attack",
+      "url": "https://www.eurojust.europa.eu/sites/default/files/2018-06/2016-12_Berlin-terrorist-attack.pdf"
+    },
+    {
+      "label": "Time: What to Know About the Berlin Christmas Market Attack",
+      "url": "https://time.com/4607437/berlin-christmas-market-crash-what-to-know/"
+    }
+  ]
+}
