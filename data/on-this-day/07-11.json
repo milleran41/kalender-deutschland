@@ -1,0 +1,86 @@
+{
+  "date": "07-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1920-east-prussia-plebiscite",
+    "year": 1920,
+    "title": {
+      "ru": "Плебисциты в Восточной и Западной Пруссии",
+      "de": "Volksabstimmungen in Ost- und Westpreussen",
+      "en": "Plebiscites in East and West Prussia"
+    },
+    "description": {
+      "ru": "11 июля 1920 года в Алленштайнском и Мариенвердерском округах прошли плебисциты о государственной принадлежности после Первой мировой войны. Большинство избирателей высказалось за сохранение этих территорий в Германии.",
+      "de": "Am 11. Juli 1920 fanden in den Abstimmungsgebieten Allenstein und Marienwerder Volksabstimmungen ueber die staatliche Zugehoerigkeit nach dem Ersten Weltkrieg statt. Die Mehrheit stimmte fuer den Verbleib bei Deutschland.",
+      "en": "On 11 July 1920, plebiscites were held in the Allenstein and Marienwerder areas on their state affiliation after the First World War. A majority voted for the territories to remain with Germany."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания сложной послевоенной карты на востоке Германии и Польши.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis der komplizierten Nachkriegskarte im Osten Deutschlands und Polens.",
+      "en": "The date is important for understanding the complicated postwar map in eastern Germany and Poland."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1920-versailles-border-settlement",
+        "year": 1920,
+        "title": {
+          "ru": "Границы после Версаля",
+          "de": "Grenzen nach Versailles",
+          "en": "Borders after Versailles"
+        },
+        "description": {
+          "ru": "Версальский договор предусматривал голосования в нескольких спорных регионах. Так международная политика пыталась совместить новые границы, национальные движения и местное мнение.",
+          "de": "Der Versailler Vertrag sah Abstimmungen in mehreren umstrittenen Regionen vor. So versuchte internationale Politik, neue Grenzen, nationale Bewegungen und lokale Meinungen miteinander zu verbinden.",
+          "en": "The Treaty of Versailles provided for votes in several disputed regions. International politics thus tried to combine new borders, national movements and local opinion."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как карта Европы после 1918 года строилась не только войнами, но и голосованиями.",
+          "de": "Das ist ein gutes Beispiel dafuer, dass die Karte Europas nach 1918 nicht nur durch Kriege, sondern auch durch Abstimmungen geformt wurde.",
+          "en": "It is a good example of how Europe's map after 1918 was shaped not only by wars but also by votes."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1920-allenstein-marienwerder",
+        "year": 1920,
+        "title": {
+          "ru": "Названия, которых больше нет на современной карте Германии",
+          "de": "Namen, die nicht mehr auf der heutigen Deutschlandkarte stehen",
+          "en": "Names no longer on today's map of Germany"
+        },
+        "description": {
+          "ru": "Алленштайн сегодня называется Ольштын и находится в Польше. Такие даты напоминают, что историческая карта немецких земель не совпадает с современной.",
+          "de": "Allenstein heisst heute Olsztyn und liegt in Polen. Solche Daten erinnern daran, dass die historische Karte deutscher Gebiete nicht mit der heutigen uebereinstimmt.",
+          "en": "Allenstein is now called Olsztyn and is in Poland. Dates like this remind us that the historical map of German lands does not match today's map."
+        },
+        "importance": {
+          "ru": "Для приложения с картами это особенно полезно: одно место может иметь разные имена и разные государственные истории.",
+          "de": "Fuer eine Karten-App ist das besonders nuetzlich: Ein Ort kann verschiedene Namen und verschiedene staatliche Geschichten haben.",
+          "en": "For a map app, this is especially useful: one place can have different names and different state histories."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Плебисциты проходили под международным контролем, что было характерно для спорных территорий после Первой мировой войны.",
+    "de": "Die Volksabstimmungen standen unter internationaler Kontrolle, wie es fuer umstrittene Gebiete nach dem Ersten Weltkrieg typisch war.",
+    "en": "The plebiscites were held under international supervision, as was typical for disputed territories after the First World War."
+  },
+  "sources": [
+    {
+      "label": "Encyclopedia.com: Allenstein and Marienwerder plebiscites",
+      "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/plebiscites-1920-1921"
+    },
+    {
+      "label": "German History in Documents and Images: East Prussia after Versailles",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/map-germany-after-the-treaty-of-versailles-1920"
+    }
+  ]
+}

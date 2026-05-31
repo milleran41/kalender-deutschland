@@ -1,0 +1,86 @@
+{
+  "date": "01-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-spartacist-uprising-begins",
+    "year": 1919,
+    "title": {
+      "ru": "Началось Спартаковское восстание",
+      "de": "Der Spartakusaufstand beginnt",
+      "en": "The Spartacist uprising begins"
+    },
+    "description": {
+      "ru": "5 января 1919 года в Берлине начались массовые выступления левых сил, вошедшие в историю как Спартаковское восстание. События стали одним из самых напряжённых моментов первых недель Веймарской республики.",
+      "de": "Am 5. Januar 1919 begannen in Berlin Massenproteste linker Kraefte, die als Spartakusaufstand in die Geschichte eingingen. Die Ereignisse wurden zu einem der angespanntesten Momente der ersten Wochen der Weimarer Republik.",
+      "en": "On 5 January 1919, mass protests by left-wing forces began in Berlin and became known as the Spartacist uprising. The events were among the most tense moments in the first weeks of the Weimar Republic."
+    },
+    "importance": {
+      "ru": "Дата показывает, как трудно рождалась первая немецкая демократия после войны, революции и падения монархии.",
+      "de": "Das Datum zeigt, wie schwer die erste deutsche Demokratie nach Krieg, Revolution und dem Ende der Monarchie entstand.",
+      "en": "The date shows how difficult the birth of Germany's first democracy was after war, revolution and the fall of monarchy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1919-berlin-revolutionary-crisis",
+        "year": 1919,
+        "title": {
+          "ru": "Берлин в революционном кризисе",
+          "de": "Berlin in der Revolutionskrise",
+          "en": "Berlin in revolutionary crisis"
+        },
+        "description": {
+          "ru": "После Ноябрьской революции разные политические силы спорили о будущем Германии. В январе 1919 года конфликт в Берлине перешёл в вооружённое противостояние.",
+          "de": "Nach der Novemberrevolution stritten verschiedene politische Kraefte ueber die Zukunft Deutschlands. Im Januar 1919 ging der Konflikt in Berlin in bewaffnete Auseinandersetzungen ueber.",
+          "en": "After the November Revolution, different political forces argued over Germany's future. In January 1919, the conflict in Berlin turned into armed confrontation."
+        },
+        "importance": {
+          "ru": "Так видно, что демократия в Германии начиналась не спокойно, а среди острых социальных и политических конфликтов.",
+          "de": "So wird sichtbar, dass Demokratie in Deutschland nicht ruhig begann, sondern inmitten scharfer sozialer und politischer Konflikte.",
+          "en": "This shows that democracy in Germany did not begin calmly, but amid sharp social and political conflicts."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1919-luxemburg-liebknecht-context",
+        "year": 1919,
+        "title": {
+          "ru": "Роза Люксембург и Карл Либкнехт",
+          "de": "Rosa Luxemburg und Karl Liebknecht",
+          "en": "Rosa Luxemburg and Karl Liebknecht"
+        },
+        "description": {
+          "ru": "С восстанием связаны имена Розы Люксембург и Карла Либкнехта, лидеров коммунистического движения. Через несколько дней они были убиты после подавления выступлений.",
+          "de": "Mit dem Aufstand sind die Namen Rosa Luxemburg und Karl Liebknecht verbunden, fuehrende Figuren der kommunistischen Bewegung. Wenige Tage spaeter wurden sie nach der Niederschlagung der Unruhen ermordet.",
+          "en": "The uprising is linked with Rosa Luxemburg and Karl Liebknecht, leading figures of the communist movement. A few days later, after the unrest was suppressed, they were murdered."
+        },
+        "importance": {
+          "ru": "Их гибель стала важной частью политической памяти левых движений в Германии.",
+          "de": "Ihr Tod wurde zu einem wichtigen Teil der politischen Erinnerung linker Bewegungen in Deutschland.",
+          "en": "Their deaths became an important part of the political memory of left-wing movements in Germany."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название восстания связано с Союзом Спартака, который получил имя древнеримского предводителя восставших рабов.",
+    "de": "Der Name des Aufstands haengt mit dem Spartakusbund zusammen, der nach dem antiken Anfuehrer eines Sklavenaufstands benannt war.",
+    "en": "The uprising's name comes from the Spartacus League, named after the ancient leader of a slave revolt."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Spartacus League",
+      "url": "https://www.britannica.com/topic/Spartacus-League"
+    },
+    {
+      "label": "German History in Documents and Images: The Spartacist uprising",
+      "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/the-spartacist-uprising-january-1919"
+    }
+  ]
+}

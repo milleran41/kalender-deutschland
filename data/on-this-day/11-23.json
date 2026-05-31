@@ -1,0 +1,107 @@
+{
+  "date": "11-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1936-carl-von-ossietzky-nobel-peace-prize",
+    "year": 1936,
+    "title": {
+      "ru": "Нобелевская премия мира Карлу фон Осецкому",
+      "de": "Friedensnobelpreis fuer Carl von Ossietzky",
+      "en": "Nobel Peace Prize for Carl von Ossietzky"
+    },
+    "description": {
+      "ru": "23 ноября 1936 года Нобелевский комитет присудил премию мира немецкому журналисту и пацифисту Карлу фон Осецкому. В это время он был узником нацистского режима.",
+      "de": "Am 23. November 1936 verlieh das Nobelkomitee den Friedensnobelpreis an den deutschen Journalisten und Pazifisten Carl von Ossietzky. Zu dieser Zeit war er Gefangener des NS-Regimes.",
+      "en": "On 23 November 1936, the Nobel Committee awarded the Peace Prize to German journalist and pacifist Carl von Ossietzky. At the time, he was a prisoner of the Nazi regime."
+    },
+    "importance": {
+      "ru": "Дата показывает, как международное признание могло стать протестом против диктатуры.",
+      "de": "Das Datum zeigt, wie internationale Anerkennung zu einem Protest gegen eine Diktatur werden konnte.",
+      "en": "The date shows how international recognition could become a protest against dictatorship."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "1889-carl-von-ossietzky",
+        "year": 1889,
+        "title": {
+          "ru": "Карл фон Осецкий",
+          "de": "Carl von Ossietzky",
+          "en": "Carl von Ossietzky"
+        },
+        "description": {
+          "ru": "Осецкий был журналистом, редактором журнала Die Weltbuehne и критиком милитаризма. До прихода нацистов к власти он писал о тайном перевооружении Германии.",
+          "de": "Ossietzky war Journalist, Herausgeber der Weltbuehne und Kritiker des Militarismus. Vor der Machtuebernahme der Nationalsozialisten schrieb er ueber die geheime Aufruestung Deutschlands.",
+          "en": "Ossietzky was a journalist, editor of Die Weltbuehne and critic of militarism. Before the Nazis came to power, he wrote about Germany's secret rearmament."
+        },
+        "importance": {
+          "ru": "Его судьба связывает свободу прессы, пацифизм и сопротивление авторитарной власти.",
+          "de": "Sein Schicksal verbindet Pressefreiheit, Pazifismus und Widerstand gegen autoritaere Macht.",
+          "en": "His fate connects press freedom, pacifism and resistance to authoritarian power."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "1936-nazi-reaction-nobel",
+        "year": 1936,
+        "title": {
+          "ru": "Премия, которую режим не хотел видеть",
+          "de": "Ein Preis, den das Regime nicht sehen wollte",
+          "en": "A prize the regime did not want to see"
+        },
+        "description": {
+          "ru": "Нобелевская премия Осецкому вызвала резкую реакцию нацистского руководства. После этого Гитлер запретил немцам принимать Нобелевские премии.",
+          "de": "Der Nobelpreis fuer Ossietzky loeste eine scharfe Reaktion der NS-Fuehrung aus. Danach verbot Hitler Deutschen, Nobelpreise anzunehmen.",
+          "en": "Ossietzky's Nobel Prize provoked a sharp reaction from the Nazi leadership. Hitler then forbade Germans from accepting Nobel Prizes."
+        },
+        "importance": {
+          "ru": "Это показывает, как диктатуры боятся независимой международной оценки.",
+          "de": "Das zeigt, wie sehr Diktaturen unabhaengige internationale Anerkennung fuerchten.",
+          "en": "It shows how much dictatorships fear independent international recognition."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1936-prize-for-1935",
+        "year": 1936,
+        "title": {
+          "ru": "Премия была за 1935 год",
+          "de": "Der Preis galt dem Jahr 1935",
+          "en": "The prize was for 1935"
+        },
+        "description": {
+          "ru": "Премия Осецкому была присуждена в 1936 году за 1935 год. Такие задержки иногда бывают у Нобелевского комитета, если решение переносится.",
+          "de": "Der Preis fuer Ossietzky wurde 1936 fuer das Jahr 1935 verliehen. Solche Verschiebungen gibt es beim Nobelkomitee, wenn Entscheidungen vertagt werden.",
+          "en": "Ossietzky's prize was awarded in 1936 for the year 1935. Such delays can happen when the Nobel Committee postpones a decision."
+        },
+        "importance": {
+          "ru": "Даже дата награды иногда рассказывает отдельную историю.",
+          "de": "Sogar das Datum einer Auszeichnung kann eine eigene Geschichte erzaehlen.",
+          "en": "Even the date of an award can tell its own story."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Осецкий не смог лично получить премию в Осло из-за преследования и болезни.",
+    "de": "Ossietzky konnte den Preis wegen Verfolgung und Krankheit nicht persoenlich in Oslo entgegennehmen.",
+    "en": "Ossietzky could not receive the prize in Oslo in person because of persecution and illness."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Carl von Ossietzky",
+      "url": "https://www.nobelprize.org/prizes/peace/1935/ossietzky/facts/"
+    },
+    {
+      "label": "German Resistance Memorial Center: Carl von Ossietzky",
+      "url": "https://www.gdw-berlin.de/en/recess/topics/9-resistance-to-national-socialism/carl-von-ossietzky/"
+    }
+  ]
+}
