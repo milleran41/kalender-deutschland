@@ -1,0 +1,86 @@
+{
+  "date": "05-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1927-berlin-stock-exchange-black-friday",
+    "year": 1927,
+    "title": {
+      "ru": "«Чёрная пятница» на Берлинской бирже",
+      "de": "Schwarzer Freitag an der Berliner Boerse",
+      "en": "Black Friday on the Berlin Stock Exchange"
+    },
+    "description": {
+      "ru": "13 мая 1927 года Берлинская биржа пережила резкое падение курсов. День вошёл в историю Веймарской республики как «чёрная пятница».",
+      "de": "Am 13. Mai 1927 erlebte die Berliner Boerse einen starken Kurseinbruch. Der Tag ging als Schwarzer Freitag in die Geschichte der Weimarer Republik ein.",
+      "en": "On 13 May 1927, the Berlin Stock Exchange experienced a sharp fall in share prices. The day entered Weimar Republic history as Black Friday."
+    },
+    "importance": {
+      "ru": "Крах показал, насколько хрупким было восстановление немецкой экономики после гиперинфляции.",
+      "de": "Der Einbruch zeigte, wie fragil die Erholung der deutschen Wirtschaft nach der Hyperinflation war.",
+      "en": "The crash showed how fragile Germany's economic recovery after hyperinflation remained."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "weimar-financial-instability",
+        "year": 1927,
+        "title": {
+          "ru": "Финансовая нервозность Веймара",
+          "de": "Finanzielle Nervositaet der Weimarer Zeit",
+          "en": "Financial nervousness in Weimar Germany"
+        },
+        "description": {
+          "ru": "После стабилизации валюты Германия всё ещё зависела от кредитов, ожиданий инвесторов и международных денег. Поэтому ограничения спекуляций могли вызвать сильную панику.",
+          "de": "Nach der Waehrungsstabilisierung hing Deutschland weiterhin von Krediten, Anlegererwartungen und internationalem Kapital ab. Deshalb konnten Einschraenkungen der Spekulation starke Panik ausloesen.",
+          "en": "After currency stabilization, Germany still depended on credit, investor expectations and international capital. Restrictions on speculation could therefore trigger strong panic."
+        },
+        "importance": {
+          "ru": "Экономическая история Веймара была не только про 1923 год, но и про тревожные годы после стабилизации.",
+          "de": "Die Wirtschaftsgeschichte Weimars handelt nicht nur von 1923, sondern auch von den nervoesen Jahren nach der Stabilisierung.",
+          "en": "Weimar economic history is not only about 1923, but also about the nervous years after stabilization."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "friday-the-thirteenth",
+        "year": 1927,
+        "title": {
+          "ru": "Пятница, 13-е",
+          "de": "Freitag, der 13.",
+          "en": "Friday the 13th"
+        },
+        "description": {
+          "ru": "Крах произошёл именно в пятницу, 13 мая. Конечно, причиной были не суеверия, а кредитная политика и перегретый рынок, но совпадение сделало дату особенно запоминающейся.",
+          "de": "Der Crash geschah ausgerechnet an einem Freitag, dem 13. Ursache waren natuerlich nicht Aberglaube, sondern Kreditpolitik und ein ueberhitzter Markt, doch der Zufall machte das Datum besonders einpraegsam.",
+          "en": "The crash happened on Friday, 13 May. The cause was not superstition, of course, but credit policy and an overheated market, yet the coincidence made the date especially memorable."
+        },
+        "importance": {
+          "ru": "Иногда случайная дата помогает событию закрепиться в памяти.",
+          "de": "Manchmal hilft ein zufaelliges Datum, ein Ereignis im Gedaechtnis zu verankern.",
+          "en": "Sometimes a coincidental date helps an event stick in memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Берлинская биржа связывает этот день с кредитной политикой, проблемами платёжного баланса и чрезмерной спекуляцией.",
+    "de": "Die Berliner Boerse verbindet diesen Tag mit Kreditpolitik, Zahlungsbilanzproblemen und uebermaessiger Spekulation.",
+    "en": "The Berlin Stock Exchange links the day to credit policy, balance-of-payments problems and excessive speculation."
+  },
+  "sources": [
+    {
+      "label": "Boerse Berlin: History",
+      "url": "https://www.berlinerboerse.com/index.php/Boerse_Berlin/History"
+    },
+    {
+      "label": "Deutschlandfunk Kakadu: Berliner Boersenkrach 1927",
+      "url": "https://www.kakadu.de/infotag-90-jahre-schwarzer-freitag-der-berliner-100.html"
+    }
+  ]
+}

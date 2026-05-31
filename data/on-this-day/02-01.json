@@ -1,0 +1,86 @@
+{
+  "date": "02-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1864-second-schleswig-war-begins",
+    "year": 1864,
+    "title": {
+      "ru": "Началась Вторая Шлезвигская война",
+      "de": "Der Zweite Schleswigsche Krieg beginnt",
+      "en": "The Second Schleswig War begins"
+    },
+    "description": {
+      "ru": "1 февраля 1864 года прусские и австрийские войска перешли реку Айдер и вошли в Шлезвиг. Так началась война против Дании за Шлезвиг, Гольштейн и Лауэнбург.",
+      "de": "Am 1. Februar 1864 ueberschritten preussische und oesterreichische Truppen die Eider und marschierten in Schleswig ein. Damit begann der Krieg gegen Daenemark um Schleswig, Holstein und Lauenburg.",
+      "en": "On 1 February 1864, Prussian and Austrian troops crossed the Eider River and entered Schleswig. This began the war against Denmark over Schleswig, Holstein and Lauenburg."
+    },
+    "importance": {
+      "ru": "Война стала первым из конфликтов, через которые Пруссия усилила своё влияние и приблизила объединение Германии.",
+      "de": "Der Krieg wurde zum ersten der Konflikte, durch die Preussen seinen Einfluss staerkte und die deutsche Einigung naeherbrachte.",
+      "en": "The war became the first of the conflicts through which Prussia strengthened its influence and moved German unification closer."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "schleswig-holstein-question",
+        "year": 1864,
+        "title": {
+          "ru": "Шлезвиг-гольштейнский вопрос",
+          "de": "Die Schleswig-Holstein-Frage",
+          "en": "The Schleswig-Holstein question"
+        },
+        "description": {
+          "ru": "Спор о герцогствах был сложным: они были связаны с датской монархией, немецким союзом, местными правами и национальными движениями. Поэтому маленькая область стала большой европейской проблемой.",
+          "de": "Der Streit um die Herzogtuemer war kompliziert: Sie waren mit der daenischen Monarchie, dem Deutschen Bund, lokalen Rechten und nationalen Bewegungen verbunden. So wurde ein kleines Gebiet zu einem grossen europaeischen Problem.",
+          "en": "The dispute over the duchies was complicated: they were linked to the Danish monarchy, the German Confederation, local rights and national movements. A small region thus became a major European problem."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как карта, язык и династические права переплетались в XIX веке.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie Karte, Sprache und dynastische Rechte im 19. Jahrhundert verflochten waren.",
+          "en": "It is a good example of how map, language and dynastic rights were intertwined in the 19th century."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "up-ewig-ungedeelt",
+        "year": 1864,
+        "title": {
+          "ru": "«Навеки неразделимы»",
+          "de": "Up ewig ungedeelt",
+          "en": "Forever undivided"
+        },
+        "description": {
+          "ru": "Фраза up ewig ungedeelt, связанная со Шлезвигом и Гольштейном, означала идею их нераздельности. Но история показала, что политические границы региона менялись не раз.",
+          "de": "Die Formel up ewig ungedeelt, verbunden mit Schleswig und Holstein, meinte ihre Unteilbarkeit. Die Geschichte zeigte jedoch, dass sich die politischen Grenzen der Region mehrfach veraenderten.",
+          "en": "The phrase up ewig ungedeelt, linked with Schleswig and Holstein, expressed the idea that they should remain undivided. History showed, however, that the region's political borders changed more than once."
+        },
+        "importance": {
+          "ru": "Иногда лозунг о вечности особенно хорошо показывает, насколько изменчива история границ.",
+          "de": "Manchmal zeigt gerade ein Spruch von Ewigkeit, wie wandelbar Grenzgeschichte ist.",
+          "en": "Sometimes a slogan about eternity shows especially well how changeable border history can be."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После войны Дания уступила Шлезвиг, Гольштейн и Лауэнбург Пруссии и Австрии.",
+    "de": "Nach dem Krieg trat Daenemark Schleswig, Holstein und Lauenburg an Preussen und Oesterreich ab.",
+    "en": "After the war, Denmark ceded Schleswig, Holstein and Lauenburg to Prussia and Austria."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Schleswig and Holstein",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1864-02-01-schleswig-and-holstein-up-ewig-ungedeelt/"
+    },
+    {
+      "label": "Britannica: German-Danish War",
+      "url": "https://www.britannica.com/event/German-Danish-War"
+    }
+  ]
+}

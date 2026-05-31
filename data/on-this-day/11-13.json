@@ -1,0 +1,86 @@
+{
+  "date": "11-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-modrow-forms-gdr-government",
+    "year": 1989,
+    "title": {
+      "ru": "Ханс Модров получил поручение сформировать правительство ГДР",
+      "de": "Hans Modrow wird mit der Regierungsbildung beauftragt",
+      "en": "Hans Modrow is asked to form the GDR government"
+    },
+    "description": {
+      "ru": "13 ноября 1989 года Народная палата ГДР поручила Хансу Модрову сформировать новое правительство. Это произошло всего через несколько дней после падения Берлинской стены.",
+      "de": "Am 13. November 1989 beauftragte die Volkskammer der DDR Hans Modrow mit der Bildung einer neuen Regierung. Das geschah nur wenige Tage nach dem Fall der Berliner Mauer.",
+      "en": "On 13 November 1989, East Germany's Volkskammer asked Hans Modrow to form a new government. This happened only a few days after the fall of the Berlin Wall."
+    },
+    "importance": {
+      "ru": "Дата показывает, как быстро после открытия границы старая власть ГДР пыталась перестроиться.",
+      "de": "Das Datum zeigt, wie schnell die alte DDR-Fuehrung nach der Grenzoeffnung versuchte, sich neu aufzustellen.",
+      "en": "The date shows how quickly East Germany's old leadership tried to reorganize after the border opened."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "modrow-transitional-government",
+        "year": 1989,
+        "title": {
+          "ru": "Переходное правительство",
+          "de": "Eine Uebergangsregierung",
+          "en": "A transitional government"
+        },
+        "description": {
+          "ru": "Правительство Модрова должно было отвечать на давление улицы, массовый отъезд граждан и требование реформ. Но события развивались быстрее, чем могла контролировать СЕПГ.",
+          "de": "Die Regierung Modrow musste auf den Druck der Strasse, die Massenausreise und Reformforderungen reagieren. Doch die Ereignisse entwickelten sich schneller, als die SED sie kontrollieren konnte.",
+          "en": "The Modrow government had to respond to street pressure, mass emigration and demands for reform. But events moved faster than the SED could control."
+        },
+        "importance": {
+          "ru": "Это важный шаг между падением стены и первыми свободными выборами в ГДР в марте 1990 года.",
+          "de": "Das war ein wichtiger Schritt zwischen dem Mauerfall und den ersten freien Wahlen in der DDR im Maerz 1990.",
+          "en": "It was an important step between the fall of the Wall and East Germany's first free elections in March 1990."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1928-hans-modrow",
+        "year": 1928,
+        "title": {
+          "ru": "Ханс Модров",
+          "de": "Hans Modrow",
+          "en": "Hans Modrow"
+        },
+        "description": {
+          "ru": "Модров считался более реформаторской фигурой внутри СЕПГ и до назначения руководил партийной организацией в Дрездене. Его кабинет стал последним правительством ГДР под руководством СЕПГ.",
+          "de": "Modrow galt innerhalb der SED als eher reformorientierte Figur und leitete zuvor die Parteiorganisation in Dresden. Sein Kabinett wurde die letzte DDR-Regierung unter SED-Fuehrung.",
+          "en": "Modrow was seen as a more reform-minded figure within the SED and had previously led the party organization in Dresden. His cabinet became the last GDR government led by the SED."
+        },
+        "importance": {
+          "ru": "Через его биографию виден переход от партийной власти к переговорам о будущем страны.",
+          "de": "An seiner Biografie wird der Uebergang von Parteiherrschaft zu Verhandlungen ueber die Zukunft des Landes sichtbar.",
+          "en": "His biography shows the transition from party rule to negotiations over the country's future."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Правительство Модрова работало до весны 1990 года, когда после свободных выборов его сменил кабинет Лотара де Мезьера.",
+    "de": "Die Regierung Modrow amtierte bis zum Fruehjahr 1990, als sie nach den freien Wahlen vom Kabinett Lothar de Maiziere abgeloest wurde.",
+    "en": "The Modrow government served until spring 1990, when it was replaced after free elections by Lothar de Maiziere's cabinet."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: 13 November 1989",
+      "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/regierung-modrow-337206"
+    },
+    {
+      "label": "Landtag Sachsen-Anhalt: 13 November 1989",
+      "url": "https://www.landtag.sachsen-anhalt.de/alle-dossiers/das-land-vor-30-jahren/ein-blick-in-den-kalender/13-november-1989"
+    }
+  ]
+}
