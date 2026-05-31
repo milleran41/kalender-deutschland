@@ -1,0 +1,90 @@
+{
+  "date": "12-31",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1944-operation-nordwind-begins",
+    "year": 1944,
+    "title": {
+      "ru": "Началась операция «Северный ветер»",
+      "de": "Unternehmen Nordwind beginnt",
+      "en": "Operation Nordwind begins"
+    },
+    "description": {
+      "ru": "31 декабря 1944 года немецкие войска начали операцию «Северный ветер» в Эльзасе и Лотарингии. Это была последняя крупная немецкая наступательная операция на Западном фронте.",
+      "de": "Am 31. Dezember 1944 begannen deutsche Truppen das Unternehmen Nordwind im Elsass und in Lothringen. Es war die letzte grosse deutsche Offensive an der Westfront.",
+      "en": "On 31 December 1944, German forces began Operation Nordwind in Alsace and Lorraine. It was the last major German offensive on the Western Front."
+    },
+    "importance": {
+      "ru": "Дата показывает, что даже в конце 1944 года нацистская Германия ещё пыталась переломить ход войны на Западе.",
+      "de": "Das Datum zeigt, dass das nationalsozialistische Deutschland noch Ende 1944 versuchte, den Krieg im Westen zu wenden.",
+      "en": "The date shows that even at the end of 1944, Nazi Germany was still trying to turn the war in the West."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "after-battle-of-the-bulge",
+        "year": 1944,
+        "title": {
+          "ru": "После Арденнского наступления",
+          "de": "Nach der Ardennenoffensive",
+          "en": "After the Battle of the Bulge"
+        },
+        "description": {
+          "ru": "Операция началась, когда Арденнское наступление уже теряло силу. Немецкое командование надеялось ударить южнее и связать силы США и Франции.",
+          "de": "Die Operation begann, als die Ardennenoffensive bereits an Kraft verlor. Die deutsche Fuehrung hoffte, weiter suedlich anzugreifen und amerikanische sowie franzoesische Kraefte zu binden.",
+          "en": "The operation began as the Battle of the Bulge was already losing momentum. German commanders hoped to strike farther south and tie down American and French forces."
+        },
+        "importance": {
+          "ru": "Так видно, как последние наступления Германии были связаны между собой, но уже не могли изменить общий исход войны.",
+          "de": "So wird sichtbar, wie die letzten deutschen Offensiven miteinander verbunden waren, den Ausgang des Krieges aber nicht mehr aendern konnten.",
+          "en": "It shows how Germany's last offensives were connected, yet could no longer change the war's overall outcome."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "new-year-offensive",
+        "year": 1944,
+        "title": {
+          "ru": "Новогоднее наступление",
+          "de": "Eine Offensive zum Jahreswechsel",
+          "en": "A New Year's offensive"
+        },
+        "description": {
+          "ru": "Наступление началось в последние часы 1944 года и продолжилось в январе 1945-го. Контраст между новогодней датой и реальностью боёв делает событие особенно мрачным.",
+          "de": "Die Offensive begann in den letzten Stunden des Jahres 1944 und dauerte bis in den Januar 1945. Der Gegensatz zwischen Jahreswechsel und Kampfrealitaet macht das Ereignis besonders duester.",
+          "en": "The offensive began in the final hours of 1944 and continued into January 1945. The contrast between New Year's timing and the reality of battle makes the event especially grim."
+        },
+        "importance": {
+          "ru": "Иногда календарная дата усиливает ощущение исторической трагедии.",
+          "de": "Manchmal verstaerkt ein Kalenderdatum das Gefuehl historischer Tragik.",
+          "en": "Sometimes a calendar date intensifies the feeling of historical tragedy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Операция «Северный ветер» продолжалась до конца января 1945 года и не достигла главных целей.",
+    "de": "Unternehmen Nordwind dauerte bis Ende Januar 1945 und erreichte seine Hauptziele nicht.",
+    "en": "Operation Nordwind lasted until late January 1945 and failed to achieve its main objectives."
+  },
+  "sources": [
+    {
+      "label": "National WWII Museum: Operation Nordwind",
+      "url": "https://www.nationalww2museum.org/war/articles/operation-nordwind-battle-after-bulge"
+    },
+    {
+      "label": "U.S. Army Center of Military History: Riviera to the Rhine",
+      "url": "https://history.army.mil/html/books/007/7-10-1/index.html"
+    },
+    {
+      "label": "Persee: Operation Nordwind",
+      "url": "https://www.persee.fr/doc/rbph_0035-0818_1988_num_66_4_5704_t1_0897_0000_2"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "11-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1944-himmler-orders-auschwitz-crematoria-destroyed",
+    "year": 1944,
+    "title": {
+      "ru": "Гиммлер приказал уничтожить крематории Освенцима",
+      "de": "Himmler befiehlt die Zerstoerung der Krematorien von Auschwitz",
+      "en": "Himmler orders the Auschwitz crematoria destroyed"
+    },
+    "description": {
+      "ru": "26 ноября 1944 года Генрих Гиммлер приказал уничтожить крематории и газовые камеры Освенцима-Биркенау. Нацистское руководство пыталось скрыть следы массового убийства, когда Красная армия приближалась к лагерю.",
+      "de": "Am 26. November 1944 befahl Heinrich Himmler die Zerstoerung der Krematorien und Gaskammern von Auschwitz-Birkenau. Die nationalsozialistische Fuehrung versuchte, Spuren des Massenmords zu verwischen, waehrend die Rote Armee naeher rueckte.",
+      "en": "On 26 November 1944, Heinrich Himmler ordered the destruction of the crematoria and gas chambers at Auschwitz-Birkenau. Nazi leaders tried to hide evidence of mass murder as the Red Army approached the camp."
+    },
+    "importance": {
+      "ru": "Дата важна как напоминание о том, что преступники пытались уничтожить доказательства, но свидетельства и память всё равно сохранились.",
+      "de": "Das Datum ist wichtig als Erinnerung daran, dass die Taeter Beweise vernichten wollten, Zeugnisse und Erinnerung aber dennoch erhalten blieben.",
+      "en": "The date matters as a reminder that perpetrators tried to destroy evidence, but testimony and memory survived."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "covering-up-genocide",
+        "year": 1944,
+        "title": {
+          "ru": "Попытка скрыть геноцид",
+          "de": "Der Versuch, den Voelkermord zu verbergen",
+          "en": "An attempt to hide genocide"
+        },
+        "description": {
+          "ru": "Уничтожение объектов лагеря было частью более широкой попытки замести следы преступлений. Но документы, руины, показания выживших и расследования после войны помогли восстановить картину произошедшего.",
+          "de": "Die Zerstoerung von Lageranlagen war Teil eines breiteren Versuchs, die Spuren der Verbrechen zu beseitigen. Doch Dokumente, Ruinen, Aussagen von Ueberlebenden und Nachkriegsermittlungen halfen, das Geschehen zu rekonstruieren.",
+          "en": "The destruction of camp facilities was part of a broader attempt to erase traces of crimes. But documents, ruins, survivors' testimony and postwar investigations helped reconstruct what happened."
+        },
+        "importance": {
+          "ru": "Так видно, почему исторические источники и судебные расследования имеют огромное значение.",
+          "de": "So wird sichtbar, warum historische Quellen und gerichtliche Untersuchungen enorme Bedeutung haben.",
+          "en": "It shows why historical sources and legal investigations are so important."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "ruins-as-evidence",
+        "year": 1945,
+        "title": {
+          "ru": "Руины как доказательство",
+          "de": "Ruinen als Beweis",
+          "en": "Ruins as evidence"
+        },
+        "description": {
+          "ru": "Даже разрушенные крематории стали важной частью памяти и исследования Освенцима. Иногда обломки здания говорят о прошлом не меньше, чем сохранившиеся документы.",
+          "de": "Selbst die zerstoerten Krematorien wurden zu einem wichtigen Teil der Erinnerung und Erforschung von Auschwitz. Manchmal sprechen Gebaeudereste ebenso deutlich ueber die Vergangenheit wie erhaltene Dokumente.",
+          "en": "Even the destroyed crematoria became an important part of Auschwitz memory and research. Sometimes the remains of a building speak about the past as clearly as surviving documents."
+        },
+        "importance": {
+          "ru": "Это особенно важно для приложения с картами: место само может быть историческим свидетельством.",
+          "de": "Das ist fuer eine App mit Karten besonders wichtig: Ein Ort selbst kann ein historisches Zeugnis sein.",
+          "en": "This is especially important for an app with maps: a place itself can be historical evidence."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Освенцим был освобождён Красной армией 27 января 1945 года.",
+    "de": "Auschwitz wurde am 27. Januar 1945 von der Roten Armee befreit.",
+    "en": "Auschwitz was liberated by the Red Army on 27 January 1945."
+  },
+  "sources": [
+    {
+      "label": "Auschwitz-Birkenau Memorial: History",
+      "url": "https://www.auschwitz.org/en/history/"
+    },
+    {
+      "label": "United States Holocaust Memorial Museum: Auschwitz",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/auschwitz"
+    },
+    {
+      "label": "Yad Vashem: Auschwitz-Birkenau",
+      "url": "https://www.yadvashem.org/holocaust/about/final-solution/auschwitz.html"
+    }
+  ]
+}
