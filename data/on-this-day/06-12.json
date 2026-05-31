@@ -1,0 +1,65 @@
+{
+  "date": "06-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1929-anne-frank-born",
+    "year": 1929,
+    "title": {
+      "ru": "Родилась Анна Франк",
+      "de": "Anne Frank wird geboren",
+      "en": "Anne Frank is born"
+    },
+    "description": {
+      "ru": "12 июня 1929 года во Франкфурте-на-Майне родилась Анна Франк. Её дневник стал одним из самых известных свидетельств о жизни еврейской семьи во время нацистских преследований.",
+      "de": "Am 12. Juni 1929 wurde Anne Frank in Frankfurt am Main geboren. Ihr Tagebuch wurde zu einem der bekanntesten Zeugnisse vom Leben einer juedischen Familie unter nationalsozialistischer Verfolgung.",
+      "en": "On 12 June 1929, Anne Frank was born in Frankfurt am Main. Her diary became one of the best-known testimonies of a Jewish family's life under Nazi persecution."
+    },
+    "importance": {
+      "ru": "Её история помогает школьникам понять Холокост через судьбу конкретного человека.",
+      "de": "Ihre Geschichte hilft Schuelern, den Holocaust anhand eines konkreten Menschen zu verstehen.",
+      "en": "Her story helps students understand the Holocaust through the fate of one person."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "anne-frank-diary",
+        "year": 1947,
+        "title": {
+          "ru": "Дневник, который прочитал мир",
+          "de": "Ein Tagebuch, das die Welt las",
+          "en": "A diary read by the world"
+        },
+        "description": {
+          "ru": "После войны дневник Анны Франк был опубликован и переведён на многие языки. Он стал важной книгой памяти.",
+          "de": "Nach dem Krieg wurde Anne Franks Tagebuch veroeffentlicht und in viele Sprachen uebersetzt. Es wurde zu einem wichtigen Buch der Erinnerung.",
+          "en": "After the war, Anne Frank's diary was published and translated into many languages. It became an important book of remembrance."
+        },
+        "importance": {
+          "ru": "Иногда маленький личный текст оказывается сильнее сухой статистики.",
+          "de": "Manchmal ist ein kleiner persoenlicher Text staerker als trockene Statistik.",
+          "en": "Sometimes a small personal text is stronger than dry statistics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Семья Франк покинула Германию после прихода нацистов к власти и переехала в Амстердам.",
+    "de": "Die Familie Frank verliess Deutschland nach der Machtuebernahme der Nationalsozialisten und zog nach Amsterdam.",
+    "en": "The Frank family left Germany after the Nazis came to power and moved to Amsterdam."
+  },
+  "sources": [
+    {
+      "label": "Anne Frank House: Timeline",
+      "url": "https://www.annefrank.org/en/anne-frank/the-timeline/timeline-anne-frank/"
+    },
+    {
+      "label": "USHMM: Anne Frank born",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/before-1933/anne-frank-born"
+    }
+  ]
+}

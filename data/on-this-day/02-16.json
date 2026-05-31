@@ -1,0 +1,65 @@
+{
+  "date": "02-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1962-hamburg-storm-surge",
+    "year": 1962,
+    "title": {
+      "ru": "Штормовой прилив в Гамбурге",
+      "de": "Sturmflut in Hamburg",
+      "en": "Storm surge in Hamburg"
+    },
+    "description": {
+      "ru": "В ночь с 16 на 17 февраля 1962 года сильный шторм нагнал воду в устья рек Эльба и Везер. Гамбург пережил одну из самых тяжёлых природных катастроф своей истории.",
+      "de": "In der Nacht vom 16. auf den 17. Februar 1962 drueckte ein schwerer Sturm Wasser in die Muendungen von Elbe und Weser. Hamburg erlebte eine der schwersten Naturkatastrophen seiner Geschichte.",
+      "en": "On the night of 16-17 February 1962, a severe storm pushed water into the lower Elbe and Weser. Hamburg suffered one of the worst natural disasters in its history."
+    },
+    "importance": {
+      "ru": "После катастрофы город серьёзно усилил защиту от наводнений.",
+      "de": "Nach der Katastrophe verstaerkte die Stadt ihren Hochwasserschutz deutlich.",
+      "en": "After the disaster, the city greatly strengthened its flood protection."
+    }
+  },
+  "categories": {
+    "weather": [
+      {
+        "id": "1962-flood-lessons",
+        "year": 1962,
+        "title": {
+          "ru": "Город учился защищаться от воды",
+          "de": "Die Stadt lernte, sich vor Wasser zu schuetzen",
+          "en": "The city learned to protect itself from water"
+        },
+        "description": {
+          "ru": "Катастрофа показала слабые места дамб, предупреждений и координации служб. Для портового города это стало уроком на десятилетия.",
+          "de": "Die Katastrophe zeigte Schwachstellen bei Deichen, Warnungen und der Koordination der Dienste. Fuer eine Hafenstadt wurde das eine Lehre fuer Jahrzehnte.",
+          "en": "The disaster exposed weaknesses in dikes, warnings and emergency coordination. For a port city, it became a lesson for decades."
+        },
+        "importance": {
+          "ru": "Это хорошая дата для категории погоды и природы: Германия не только история и культура, но и борьба с природными рисками.",
+          "de": "Das ist ein gutes Datum fuer Wetter und Natur: Deutschland ist nicht nur Geschichte und Kultur, sondern auch Umgang mit Naturgefahren.",
+          "en": "It is a good date for weather and nature: Germany is not only history and culture, but also dealing with natural risks."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гамбург называют городом на воде, но именно вода стала для него одной из самых серьёзных угроз XX века.",
+    "de": "Hamburg gilt als Stadt am Wasser, doch gerade das Wasser wurde im 20. Jahrhundert zu einer seiner groessten Gefahren.",
+    "en": "Hamburg is known as a city on the water, but water became one of its greatest dangers in the twentieth century."
+  },
+  "sources": [
+    {
+      "label": "Hamburg.de: Sturmflut 1962",
+      "url": "https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/wasser/hochwasser/hamburger-sturmflut-1962"
+    },
+    {
+      "label": "Deutschlandmuseum: Storm surge in Hamburg",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1962-02-16-storm-surge-in-hamburg/"
+    }
+  ]
+}

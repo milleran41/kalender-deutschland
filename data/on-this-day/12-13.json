@@ -1,0 +1,65 @@
+{
+  "date": "12-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1797-heinrich-heine-born",
+    "year": 1797,
+    "title": {
+      "ru": "Родился Генрих Гейне",
+      "de": "Heinrich Heine wird geboren",
+      "en": "Heinrich Heine is born"
+    },
+    "description": {
+      "ru": "13 декабря 1797 года в Дюссельдорфе родился Генрих Гейне. Он стал одним из самых известных немецких поэтов и острым политическим публицистом.",
+      "de": "Am 13. Dezember 1797 wurde Heinrich Heine in Duesseldorf geboren. Er wurde einer der bekanntesten deutschen Dichter und ein scharfer politischer Publizist.",
+      "en": "On 13 December 1797, Heinrich Heine was born in Duesseldorf. He became one of Germany's best-known poets and a sharp political writer."
+    },
+    "importance": {
+      "ru": "Гейне соединял лирику, сатиру и политическое мышление, поэтому его трудно свести к одному жанру.",
+      "de": "Heine verband Lyrik, Satire und politisches Denken, deshalb laesst er sich kaum auf ein Genre reduzieren.",
+      "en": "Heine combined lyric poetry, satire and political thought, making him hard to reduce to one genre."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "heine-dusseldorf-paris",
+        "year": 1831,
+        "title": {
+          "ru": "Между Дюссельдорфом и Парижем",
+          "de": "Zwischen Duesseldorf und Paris",
+          "en": "Between Duesseldorf and Paris"
+        },
+        "description": {
+          "ru": "Гейне долго жил во Франции и писал о Германии с дистанции. Поэтому его тексты часто звучат одновременно любовно и критически.",
+          "de": "Heine lebte lange in Frankreich und schrieb aus der Distanz ueber Deutschland. Deshalb klingen seine Texte oft zugleich liebevoll und kritisch.",
+          "en": "Heine lived for a long time in France and wrote about Germany from a distance. His texts often sound both affectionate and critical."
+        },
+        "importance": {
+          "ru": "Он важен для понимания Германии как части европейского культурного пространства.",
+          "de": "Er ist wichtig, um Deutschland als Teil eines europaeischen Kulturraums zu verstehen.",
+          "en": "He is important for understanding Germany as part of a European cultural space."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Университет Дюссельдорфа сегодня носит имя Генриха Гейне.",
+    "de": "Die Universitaet Duesseldorf traegt heute den Namen Heinrich Heines.",
+    "en": "The University of Duesseldorf is now named after Heinrich Heine."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Heinrich Heine",
+      "url": "https://www.britannica.com/biography/Heinrich-Heine-German-author"
+    },
+    {
+      "label": "Literatur Rheinland: Heinrich Heine",
+      "url": "https://www.literatur-rheinland.de/projekte/autorinnen-portraets/heine-heinrich"
+    }
+  ]
+}

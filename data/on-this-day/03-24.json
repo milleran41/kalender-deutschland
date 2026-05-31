@@ -25,6 +25,27 @@
     }
   },
   "categories": {
+    "science": [
+      {
+        "id": "1882-koch-tuberculosis-bacillus",
+        "year": 1882,
+        "title": {
+          "ru": "Роберт Кох объявил об открытии возбудителя туберкулёза",
+          "de": "Robert Koch gibt die Entdeckung des Tuberkulose-Erregers bekannt",
+          "en": "Robert Koch announces the discovery of the tuberculosis bacillus"
+        },
+        "description": {
+          "ru": "24 марта 1882 года Роберт Кох сообщил в Берлине, что обнаружил бактерию, вызывающую туберкулёз. Это стало большим шагом в развитии микробиологии и медицины.",
+          "de": "Am 24. Maerz 1882 teilte Robert Koch in Berlin mit, dass er das Bakterium entdeckt hatte, das Tuberkulose verursacht. Das war ein grosser Schritt fuer Mikrobiologie und Medizin.",
+          "en": "On 24 March 1882, Robert Koch announced in Berlin that he had found the bacterium that causes tuberculosis. It was a major step for microbiology and medicine."
+        },
+        "importance": {
+          "ru": "Сегодня 24 марта отмечается как Всемирный день борьбы с туберкулёзом.",
+          "de": "Heute wird der 24. Maerz als Welttuberkulosetag begangen.",
+          "en": "Today, 24 March is observed as World Tuberculosis Day."
+        }
+      }
+    ],
     "curiosities": [
       {
         "id": "2015-haltern-school-group",
@@ -60,6 +81,14 @@
     {
       "label": "AP: Germanwings anniversary",
       "url": "https://apnews.com/article/5b641358e1642a3f7a9e29d9c176fd60"
+    },
+    {
+      "label": "CDC: Koch's discovery of the tubercle bacillus",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000222.htm"
+    },
+    {
+      "label": "Britannica: Robert Koch and tuberculosis",
+      "url": "https://www.britannica.com/biography/Robert-Koch/Studies-of-tuberculosis-and-cholera"
     }
   ]
 }

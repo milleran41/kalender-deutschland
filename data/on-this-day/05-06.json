@@ -1,0 +1,65 @@
+{
+  "date": "05-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1955-west-germany-joins-nato",
+    "year": 1955,
+    "title": {
+      "ru": "ФРГ вступила в НАТО",
+      "de": "Die Bundesrepublik tritt der NATO bei",
+      "en": "West Germany joins NATO"
+    },
+    "description": {
+      "ru": "6 мая 1955 года Федеративная Республика Германия стала членом НАТО. Это закрепило её место в западной системе безопасности во время холодной войны.",
+      "de": "Am 6. Mai 1955 wurde die Bundesrepublik Deutschland Mitglied der NATO. Damit wurde ihr Platz im westlichen Sicherheitssystem des Kalten Krieges gefestigt.",
+      "en": "On 6 May 1955, the Federal Republic of Germany became a member of NATO. This confirmed its place in the Western security system during the Cold War."
+    },
+    "importance": {
+      "ru": "Вступление ФРГ в НАТО усилило разделение Европы на два блока.",
+      "de": "Der NATO-Beitritt der Bundesrepublik verstaerkte die Teilung Europas in zwei Bloecke.",
+      "en": "West Germany's NATO membership deepened Europe's division into two blocs."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1955-sovereignty-and-cold-war",
+        "year": 1955,
+        "title": {
+          "ru": "Суверенитет и холодная война",
+          "de": "Souveraenitaet und Kalter Krieg",
+          "en": "Sovereignty and the Cold War"
+        },
+        "description": {
+          "ru": "В тот же период завершался оккупационный статус ФРГ. Но новое положение страны сразу оказалось связано с военными союзами.",
+          "de": "In dieser Zeit endete auch der Besatzungsstatus der Bundesrepublik. Die neue Lage des Landes war jedoch sofort mit Buendnissen verbunden.",
+          "en": "Around the same time, West Germany's occupation status ended. But the country's new position was immediately tied to military alliances."
+        },
+        "importance": {
+          "ru": "Дата показывает, что послевоенное восстановление Германии шло вместе с новой геополитикой.",
+          "de": "Das Datum zeigt, dass Deutschlands Nachkriegsordnung eng mit neuer Geopolitik verbunden war.",
+          "en": "The date shows that Germany's postwar order was closely tied to new geopolitics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После воссоединения 1990 года вся Германия осталась в НАТО.",
+    "de": "Nach der Wiedervereinigung 1990 blieb ganz Deutschland in der NATO.",
+    "en": "After reunification in 1990, all of Germany remained in NATO."
+  },
+  "sources": [
+    {
+      "label": "NATO: Germany and NATO - 1955",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_185912.htm"
+    },
+    {
+      "label": "NATO: Germany becomes a member",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/1955/05/06/the-federal-republic-of-germany-becomes-a-member-of-nato"
+    }
+  ]
+}

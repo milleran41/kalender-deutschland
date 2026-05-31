@@ -1,0 +1,65 @@
+{
+  "date": "04-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1815-bismarck-born",
+    "year": 1815,
+    "title": {
+      "ru": "Родился Отто фон Бисмарк",
+      "de": "Otto von Bismarck wird geboren",
+      "en": "Otto von Bismarck is born"
+    },
+    "description": {
+      "ru": "1 апреля 1815 года в Шёнхаузене родился Отто фон Бисмарк. Позднее он стал прусским министром-президентом и первым рейхсканцлером Германской империи.",
+      "de": "Am 1. April 1815 wurde Otto von Bismarck in Schoenhausen geboren. Spaeter wurde er preussischer Ministerpraesident und erster Reichskanzler des Deutschen Kaiserreichs.",
+      "en": "On 1 April 1815, Otto von Bismarck was born in Schoenhausen. He later became Prussian minister-president and the first chancellor of the German Empire."
+    },
+    "importance": {
+      "ru": "Бисмарк был одной из ключевых фигур объединения Германии в XIX веке.",
+      "de": "Bismarck war eine Schluesselfigur der deutschen Einigung im 19. Jahrhundert.",
+      "en": "Bismarck was a key figure in German unification in the nineteenth century."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bismarck-realpolitik",
+        "year": 1815,
+        "title": {
+          "ru": "Политика силы и расчёта",
+          "de": "Politik von Macht und Kalkuel",
+          "en": "Politics of power and calculation"
+        },
+        "description": {
+          "ru": "Бисмарка часто связывают с понятием Realpolitik. Он умел соединять дипломатию, военную силу и внутренние реформы.",
+          "de": "Bismarck wird oft mit dem Begriff Realpolitik verbunden. Er verband Diplomatie, militaerische Macht und innere Reformen.",
+          "en": "Bismarck is often associated with Realpolitik. He combined diplomacy, military power and domestic reforms."
+        },
+        "importance": {
+          "ru": "Его политика объясняет, почему объединение Германии было таким сложным и противоречивым.",
+          "de": "Seine Politik erklaert, warum die deutsche Einigung so komplex und widerspruechlich war.",
+          "en": "His politics helps explain why German unification was so complex and contradictory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бисмарка часто называют «железным канцлером», хотя этот образ упрощает его сложную политическую роль.",
+    "de": "Bismarck wird oft Eiserner Kanzler genannt, obwohl dieses Bild seine komplexe politische Rolle vereinfacht.",
+    "en": "Bismarck is often called the Iron Chancellor, although the image simplifies his complex political role."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Otto von Bismarck",
+      "url": "https://www.britannica.com/biography/Otto-von-Bismarck"
+    },
+    {
+      "label": "Britannica: Bismarck facts",
+      "url": "https://www.britannica.com/facts/Otto-von-Bismarck"
+    }
+  ]
+}

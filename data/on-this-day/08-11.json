@@ -1,0 +1,65 @@
+{
+  "date": "08-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1922-deutschlandlied-anthem",
+    "year": 1922,
+    "title": {
+      "ru": "«Песнь немцев» стала гимном",
+      "de": "Das Lied der Deutschen wird Nationalhymne",
+      "en": "The Song of the Germans becomes the anthem"
+    },
+    "description": {
+      "ru": "11 августа 1922 года в Веймарской республике «Песнь немцев» получила официальный статус национального гимна. Позднее смысл и использование гимна менялись вместе с историей страны.",
+      "de": "Am 11. August 1922 erhielt das Lied der Deutschen in der Weimarer Republik offiziellen Status als Nationalhymne. Spaeter veraenderten sich Bedeutung und Gebrauch der Hymne mit der Geschichte des Landes.",
+      "en": "On 11 August 1922, the Song of the Germans gained official status as the national anthem in the Weimar Republic. Its meaning and use later changed with the country's history."
+    },
+    "importance": {
+      "ru": "Сегодня официально используется третья строфа, связанная с единством, правом и свободой.",
+      "de": "Heute wird offiziell die dritte Strophe verwendet, die mit Einigkeit, Recht und Freiheit verbunden ist.",
+      "en": "Today, the third stanza is used officially, associated with unity, justice and freedom."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "anthem-complicated-history",
+        "year": 1922,
+        "title": {
+          "ru": "Сложная история символа",
+          "de": "Die schwierige Geschichte eines Symbols",
+          "en": "The difficult history of a symbol"
+        },
+        "description": {
+          "ru": "Один и тот же гимн звучал в разных политических режимах, поэтому его история непростая. После войны Германия долго переосмысляла государственные символы.",
+          "de": "Dieselbe Hymne erklang in verschiedenen politischen Systemen, deshalb ist ihre Geschichte nicht einfach. Nach dem Krieg musste Deutschland seine Staatssymbole neu deuten.",
+          "en": "The same anthem was used under different political systems, making its history complicated. After the war, Germany had to reinterpret its state symbols."
+        },
+        "importance": {
+          "ru": "Это показывает, что символы не живут отдельно от истории.",
+          "de": "Das zeigt, dass Symbole nicht getrennt von Geschichte leben.",
+          "en": "It shows that symbols do not live apart from history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Мелодия гимна восходит к Йозефу Гайдну, а текст написал Август Генрих Гофман фон Фаллерслебен.",
+    "de": "Die Melodie geht auf Joseph Haydn zurueck, den Text schrieb August Heinrich Hoffmann von Fallersleben.",
+    "en": "The melody goes back to Joseph Haydn, while the words were written by August Heinrich Hoffmann von Fallersleben."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Deutschlandlied",
+      "url": "https://www.britannica.com/topic/Deutschlandlied"
+    },
+    {
+      "label": "German Bundestag: The German national anthem",
+      "url": "https://bundestag.api.proxy.bund.dev/en/parliament/symbols/anthem"
+    }
+  ]
+}

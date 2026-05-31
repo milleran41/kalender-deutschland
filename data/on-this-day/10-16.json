@@ -1,0 +1,61 @@
+{
+  "date": "10-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1927-guenter-grass-born",
+    "year": 1927,
+    "title": {
+      "ru": "Родился Гюнтер Грасс",
+      "de": "Guenter Grass wird geboren",
+      "en": "Guenter Grass is born"
+    },
+    "description": {
+      "ru": "16 октября 1927 года в Данциге родился писатель Гюнтер Грасс. Он стал лауреатом Нобелевской премии по литературе и одним из важных голосов послевоенной Германии.",
+      "de": "Am 16. Oktober 1927 wurde der Schriftsteller Guenter Grass in Danzig geboren. Er wurde Nobelpreistraeger fuer Literatur und eine wichtige Stimme der Nachkriegszeit.",
+      "en": "On 16 October 1927, writer Guenter Grass was born in Danzig. He became a Nobel Prize laureate in literature and an important voice of postwar Germany."
+    },
+    "importance": {
+      "ru": "Его творчество помогало Германии говорить о вине, памяти и травмах XX века.",
+      "de": "Sein Werk half Deutschland, ueber Schuld, Erinnerung und die Verletzungen des 20. Jahrhunderts zu sprechen.",
+      "en": "His work helped Germany talk about guilt, memory and the wounds of the twentieth century."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "tin-drum",
+        "year": 1959,
+        "title": {
+          "ru": "«Жестяной барабан»",
+          "de": "Die Blechtrommel",
+          "en": "The Tin Drum"
+        },
+        "description": {
+          "ru": "Роман «Жестяной барабан» сделал Грасса знаменитым. В нём история Данцига и Германии показана через гротескный и необычный взгляд.",
+          "de": "Der Roman Die Blechtrommel machte Grass beruehmt. Darin wird die Geschichte Danzigs und Deutschlands aus einer grotesken und ungewoehnlichen Perspektive erzaehlt.",
+          "en": "The novel The Tin Drum made Grass famous. It tells the history of Danzig and Germany through a grotesque and unusual perspective."
+        },
+        "importance": {
+          "ru": "Это пример литературы, которая не даёт прошлому стать удобной легендой.",
+          "de": "Das ist Literatur, die verhindert, dass Vergangenheit zu einer bequemen Legende wird.",
+          "en": "It is literature that prevents the past from becoming a comfortable legend."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Данциг, где родился Грасс, сегодня называется Гданьск и находится в Польше.",
+    "de": "Danzig, Grass' Geburtsstadt, heisst heute Gdansk und liegt in Polen.",
+    "en": "Danzig, Grass's birthplace, is now Gdansk in Poland."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Guenter Grass facts",
+      "url": "https://www.nobelprize.org/prizes/literature/1999/grass/facts/"
+    }
+  ]
+}

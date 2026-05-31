@@ -1,0 +1,65 @@
+{
+  "date": "12-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1891-nelly-sachs-born",
+    "year": 1891,
+    "title": {
+      "ru": "Родилась Нелли Закс",
+      "de": "Nelly Sachs wird geboren",
+      "en": "Nelly Sachs is born"
+    },
+    "description": {
+      "ru": "10 декабря 1891 года в Берлине родилась поэтесса Нелли Закс. Позднее она эмигрировала в Швецию и получила Нобелевскую премию по литературе.",
+      "de": "Am 10. Dezember 1891 wurde die Dichterin Nelly Sachs in Berlin geboren. Spaeter emigrierte sie nach Schweden und erhielt den Nobelpreis fuer Literatur.",
+      "en": "On 10 December 1891, poet Nelly Sachs was born in Berlin. She later emigrated to Sweden and received the Nobel Prize in Literature."
+    },
+    "importance": {
+      "ru": "Её творчество связано с памятью о преследовании евреев и катастрофе Холокоста.",
+      "de": "Ihr Werk ist mit der Erinnerung an die Verfolgung der Juden und die Katastrophe des Holocaust verbunden.",
+      "en": "Her work is tied to the memory of Jewish persecution and the catastrophe of the Holocaust."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "sachs-exile-poetry",
+        "year": 1966,
+        "title": {
+          "ru": "Поэзия изгнания и памяти",
+          "de": "Dichtung von Exil und Erinnerung",
+          "en": "Poetry of exile and memory"
+        },
+        "description": {
+          "ru": "Нелли Закс писала о боли, утрате и надежде после катастрофы. Её поэзия стала важной частью немецко-еврейской культуры памяти.",
+          "de": "Nelly Sachs schrieb ueber Schmerz, Verlust und Hoffnung nach der Katastrophe. Ihre Dichtung wurde ein wichtiger Teil deutsch-juedischer Erinnerungskultur.",
+          "en": "Nelly Sachs wrote about pain, loss and hope after catastrophe. Her poetry became an important part of German-Jewish memory culture."
+        },
+        "importance": {
+          "ru": "Она показывает, что немецкая культура после 1945 года невозможна без голоса изгнанных.",
+          "de": "Sie zeigt, dass deutsche Kultur nach 1945 ohne die Stimmen der Vertriebenen nicht denkbar ist.",
+          "en": "She shows that German culture after 1945 cannot be imagined without the voices of the exiled."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "10 декабря также день вручения Нобелевских премий, поэтому дата особенно символична для нобелевского лауреата.",
+    "de": "Der 10. Dezember ist auch der Tag der Nobelpreisverleihung, daher ist das Datum fuer eine Nobelpreistraegerin besonders symbolisch.",
+    "en": "10 December is also Nobel Prize award day, making the date especially symbolic for a Nobel laureate."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Nelly Sachs facts",
+      "url": "https://www.nobelprize.org/prizes/literature/1966/sachs/facts/"
+    },
+    {
+      "label": "Nobel Prize: Nelly Sachs suitcase",
+      "url": "https://www.nobelprize.org/press-release/litteraturpristagaren-nelly-sachs-resvaska-doneras-till-nobelprismuseet/"
+    }
+  ]
+}

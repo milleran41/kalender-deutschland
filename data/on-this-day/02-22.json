@@ -1,0 +1,65 @@
+{
+  "date": "02-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1943-white-rose-executions",
+    "year": 1943,
+    "title": {
+      "ru": "Казнены участники «Белой розы»",
+      "de": "Mitglieder der Weissen Rose werden hingerichtet",
+      "en": "White Rose members are executed"
+    },
+    "description": {
+      "ru": "22 февраля 1943 года в Мюнхене были казнены Софи Шолль, Ханс Шолль и Кристоф Пробст. Они распространяли листовки против нацистского режима.",
+      "de": "Am 22. Februar 1943 wurden Sophie Scholl, Hans Scholl und Christoph Probst in Muenchen hingerichtet. Sie hatten Flugblätter gegen das NS-Regime verbreitet.",
+      "en": "On 22 February 1943, Sophie Scholl, Hans Scholl and Christoph Probst were executed in Munich. They had distributed leaflets against the Nazi regime."
+    },
+    "importance": {
+      "ru": "«Белая роза» стала одним из самых известных символов гражданского сопротивления в нацистской Германии.",
+      "de": "Die Weisse Rose wurde zu einem der bekanntesten Symbole des zivilen Widerstands in NS-Deutschland.",
+      "en": "The White Rose became one of the best-known symbols of civilian resistance in Nazi Germany."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "sophie-scholl-courage",
+        "year": 1943,
+        "title": {
+          "ru": "Софи Шолль",
+          "de": "Sophie Scholl",
+          "en": "Sophie Scholl"
+        },
+        "description": {
+          "ru": "Софи Шолль была студенткой Мюнхенского университета. Её имя сегодня часто связывают с личной смелостью и моральным выбором.",
+          "de": "Sophie Scholl war Studentin an der Universitaet Muenchen. Ihr Name steht heute oft fuer persoenlichen Mut und moralische Entscheidung.",
+          "en": "Sophie Scholl was a student at the University of Munich. Her name is now often linked with personal courage and moral choice."
+        },
+        "importance": {
+          "ru": "Она напоминает, что сопротивление может начинаться с текста, листовки и отказа молчать.",
+          "de": "Sie erinnert daran, dass Widerstand mit einem Text, einem Flugblatt und dem Nein zum Schweigen beginnen kann.",
+          "en": "She reminds us that resistance can begin with a text, a leaflet and a refusal to stay silent."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Листовки «Белой розы» распространялись не только в Мюнхене, но и в других городах.",
+    "de": "Die Flugblaetter der Weissen Rose wurden nicht nur in Muenchen, sondern auch in anderen Staedten verbreitet.",
+    "en": "The White Rose leaflets were distributed not only in Munich but also in other cities."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Sophie Scholl",
+      "url": "https://www.britannica.com/biography/Sophie-Scholl"
+    },
+    {
+      "label": "National WWII Museum: Sophie Scholl and the White Rose",
+      "url": "https://www.nationalww2museum.org/war/articles/sophie-scholl-and-white-rose"
+    }
+  ]
+}

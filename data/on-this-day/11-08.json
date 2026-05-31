@@ -1,0 +1,65 @@
+{
+  "date": "11-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1895-roentgen-xrays",
+    "year": 1895,
+    "title": {
+      "ru": "Вильгельм Рентген открыл X-лучи",
+      "de": "Wilhelm Roentgen entdeckt die X-Strahlen",
+      "en": "Wilhelm Roentgen discovers X-rays"
+    },
+    "description": {
+      "ru": "8 ноября 1895 года физик Вильгельм Конрад Рентген в Вюрцбурге наблюдал неизвестное излучение. Позднее оно стало известно как рентгеновские лучи.",
+      "de": "Am 8. November 1895 beobachtete der Physiker Wilhelm Conrad Roentgen in Wuerzburg eine unbekannte Strahlung. Spaeter wurde sie als Roentgenstrahlung bekannt.",
+      "en": "On 8 November 1895, physicist Wilhelm Conrad Roentgen observed an unknown form of radiation in Wuerzburg. It later became known as X-rays."
+    },
+    "importance": {
+      "ru": "Открытие быстро изменило медицину: врачи получили возможность видеть кости и внутренние структуры без операции.",
+      "de": "Die Entdeckung veraenderte die Medizin schnell: Aerzte konnten Knochen und innere Strukturen ohne Operation sichtbar machen.",
+      "en": "The discovery quickly changed medicine: doctors could see bones and internal structures without surgery."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1901-first-physics-nobel",
+        "year": 1901,
+        "title": {
+          "ru": "Первый Нобель по физике",
+          "de": "Der erste Physik-Nobelpreis",
+          "en": "The first Nobel Prize in Physics"
+        },
+        "description": {
+          "ru": "Рентген получил первую Нобелевскую премию по физике. Он не стремился запатентовать открытие, и технология быстро распространилась.",
+          "de": "Roentgen erhielt den ersten Nobelpreis fuer Physik. Er versuchte nicht, seine Entdeckung zu patentieren, und die Technik verbreitete sich schnell.",
+          "en": "Roentgen received the first Nobel Prize in Physics. He did not try to patent his discovery, and the technology spread quickly."
+        },
+        "importance": {
+          "ru": "Это редкий пример открытия, которое почти сразу стало полезным для миллионов людей.",
+          "de": "Das ist ein seltenes Beispiel fuer eine Entdeckung, die fast sofort Millionen Menschen nutzte.",
+          "en": "It is a rare example of a discovery that became useful to millions almost immediately."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Буква X в названии означала неизвестное: Рентген сначала не знал природу обнаруженных лучей.",
+    "de": "Das X im Namen stand fuer das Unbekannte: Roentgen kannte die Natur der Strahlen zunaechst nicht.",
+    "en": "The X in the name meant unknown: Roentgen did not initially know the nature of the rays."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Roentgen and X-rays",
+      "url": "https://www.nobelprize.org/prizes/physics/1901/perspectives/"
+    },
+    {
+      "label": "American Physical Society: Roentgen's discovery",
+      "url": "https://www.aps.org/apsnews/2001/11/1895-roentgens-discovery-xrays"
+    }
+  ]
+}

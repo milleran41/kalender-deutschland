@@ -1,0 +1,65 @@
+{
+  "date": "11-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-kiel-mutiny",
+    "year": 1918,
+    "title": {
+      "ru": "Восстание моряков в Киле",
+      "de": "Matrosenaufstand in Kiel",
+      "en": "Sailors' mutiny in Kiel"
+    },
+    "description": {
+      "ru": "3 ноября 1918 года протесты моряков в Киле переросли в открытое выступление против войны и имперской власти. Восстание стало началом Ноябрьской революции.",
+      "de": "Am 3. November 1918 wurden Proteste von Matrosen in Kiel zu einem offenen Aufstand gegen Krieg und kaiserliche Macht. Der Aufstand wurde zum Beginn der Novemberrevolution.",
+      "en": "On 3 November 1918, sailors' protests in Kiel grew into an open revolt against the war and imperial rule. The mutiny became the beginning of the November Revolution."
+    },
+    "importance": {
+      "ru": "От Киля революция быстро распространилась по Германии и привела к падению монархии.",
+      "de": "Von Kiel breitete sich die Revolution schnell in Deutschland aus und fuehrte zum Ende der Monarchie.",
+      "en": "From Kiel, the revolution quickly spread across Germany and led to the fall of the monarchy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "kiel-before-republic",
+        "year": 1918,
+        "title": {
+          "ru": "До 9 ноября был Киль",
+          "de": "Vor dem 9. November kam Kiel",
+          "en": "Before 9 November came Kiel"
+        },
+        "description": {
+          "ru": "Республику обычно вспоминают через Берлин 9 ноября, но импульс пришёл с севера. Моряки и рабочие показали, что война потеряла поддержку.",
+          "de": "Die Republik wird oft mit Berlin am 9. November verbunden, doch der Impuls kam aus dem Norden. Matrosen und Arbeiter zeigten, dass der Krieg seine Unterstuetzung verloren hatte.",
+          "en": "The republic is often associated with Berlin on 9 November, but the impulse came from the north. Sailors and workers showed that the war had lost support."
+        },
+        "importance": {
+          "ru": "Это помогает не сводить историю Германии только к столице.",
+          "de": "Das hilft, deutsche Geschichte nicht nur auf die Hauptstadt zu reduzieren.",
+          "en": "It helps avoid reducing German history only to the capital."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Кильское восстание связывает морскую историю Шлезвиг-Гольштейна с рождением Веймарской республики.",
+    "de": "Der Kieler Aufstand verbindet die maritime Geschichte Schleswig-Holsteins mit der Geburt der Weimarer Republik.",
+    "en": "The Kiel uprising links Schleswig-Holstein's maritime history with the birth of the Weimar Republic."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: 3 November 1918",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1918-11-03-revolutionskalender-32-031118-574072"
+    },
+    {
+      "label": "USHMM: Mutiny of German sailors in Kiel",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/before-1933/mutiny-of-german-sailors-in-kiel"
+    }
+  ]
+}
