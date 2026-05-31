@@ -1,0 +1,86 @@
+{
+  "date": "04-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1930-helmut-kohl-born",
+    "year": 1930,
+    "title": {
+      "ru": "Родился Гельмут Коль",
+      "de": "Helmut Kohl wird geboren",
+      "en": "Helmut Kohl is born"
+    },
+    "description": {
+      "ru": "3 апреля 1930 года в Людвигсхафене-на-Рейне родился Гельмут Коль. Позже он стал федеральным канцлером и одним из главных политиков немецкого воссоединения.",
+      "de": "Am 3. April 1930 wurde Helmut Kohl in Ludwigshafen am Rhein geboren. Spaeter wurde er Bundeskanzler und einer der wichtigsten Politiker der deutschen Wiedervereinigung.",
+      "en": "On 3 April 1930, Helmut Kohl was born in Ludwigshafen am Rhein. He later became federal chancellor and one of the key politicians of German reunification."
+    },
+    "importance": {
+      "ru": "Коль связывает историю послевоенной ФРГ, европейской интеграции и объединения Германии.",
+      "de": "Kohl verbindet die Geschichte der Nachkriegs-Bundesrepublik, der europaeischen Integration und der deutschen Einheit.",
+      "en": "Kohl connects the history of postwar West Germany, European integration and German unity."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "1930-kohl-ludwigshafen",
+        "year": 1930,
+        "title": {
+          "ru": "Политик из Рейнланд-Пфальца",
+          "de": "Ein Politiker aus Rheinland-Pfalz",
+          "en": "A politician from Rhineland-Palatinate"
+        },
+        "description": {
+          "ru": "Коль начинал политическую карьеру в земле Рейнланд-Пфальц и был её министром-президентом. Позже он перенёс этот опыт земельной политики на федеральный уровень.",
+          "de": "Kohl begann seine politische Laufbahn in Rheinland-Pfalz und war dort Ministerpraesident. Spaeter brachte er diese Erfahrung aus der Landespolitik auf die Bundesebene.",
+          "en": "Kohl began his political career in Rhineland-Palatinate and served as the state's minister-president. He later carried that state-level experience into federal politics."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как немецкая федеральная система выращивает политиков через земли.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie der deutsche Foederalismus Politiker ueber die Laenderpraxis praegt.",
+          "en": "It is a good example of how German federalism shapes politicians through state-level experience."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "1989-1990-kohl-reunification",
+        "year": 1990,
+        "title": {
+          "ru": "Канцлер времени объединения",
+          "de": "Kanzler der Einheit",
+          "en": "Chancellor of unity"
+        },
+        "description": {
+          "ru": "В 1989-1990 годах правительство Коля вело переговоры о внешних условиях объединения Германии. Важную роль сыграли отношения с США, СССР, Францией, Великобританией и соседями Германии.",
+          "de": "In den Jahren 1989-1990 verhandelte Kohls Regierung ueber die aeusseren Bedingungen der deutschen Einheit. Wichtig waren die Beziehungen zu den USA, zur Sowjetunion, zu Frankreich, Grossbritannien und den Nachbarn Deutschlands.",
+          "en": "In 1989-1990, Kohl's government negotiated the external conditions of German unity. Relations with the United States, the Soviet Union, France, Britain and Germany's neighbors were crucial."
+        },
+        "importance": {
+          "ru": "Так воссоединение видно не только как народное движение, но и как сложная дипломатия.",
+          "de": "So wird die Wiedervereinigung nicht nur als Volksbewegung, sondern auch als komplexe Diplomatie sichtbar.",
+          "en": "This shows reunification not only as a popular movement but also as complex diplomacy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гельмут Коль занимал пост федерального канцлера с 1982 по 1998 год.",
+    "de": "Helmut Kohl war von 1982 bis 1998 Bundeskanzler.",
+    "en": "Helmut Kohl served as federal chancellor from 1982 to 1998."
+  },
+  "sources": [
+    {
+      "label": "Konrad-Adenauer-Stiftung: Helmut Kohl",
+      "url": "https://www.kas.de/en/web/geschichte-der-cdu/personen/biogramm-detail/-/content/helmut-kohl-v1"
+    },
+    {
+      "label": "Britannica: Helmut Kohl",
+      "url": "https://www.britannica.com/biography/Helmut-Kohl"
+    }
+  ]
+}

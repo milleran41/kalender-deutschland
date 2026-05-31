@@ -1,0 +1,86 @@
+{
+  "date": "06-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1864-richard-strauss-born",
+    "year": 1864,
+    "title": {
+      "ru": "Родился Рихард Штраус",
+      "de": "Richard Strauss wird geboren",
+      "en": "Richard Strauss is born"
+    },
+    "description": {
+      "ru": "11 июня 1864 года в Мюнхене родился композитор и дирижёр Рихард Штраус. Он стал одной из крупнейших фигур немецкой музыки конца XIX и первой половины XX века.",
+      "de": "Am 11. Juni 1864 wurde der Komponist und Dirigent Richard Strauss in Muenchen geboren. Er wurde zu einer der grossen Figuren der deutschen Musik vom spaeten 19. bis zur ersten Haelfte des 20. Jahrhunderts.",
+      "en": "On 11 June 1864, composer and conductor Richard Strauss was born in Munich. He became one of the major figures of German music from the late 19th to the first half of the 20th century."
+    },
+    "importance": {
+      "ru": "Штраус связывает Баварию с историей оперы, симфонической музыки и европейского модерна.",
+      "de": "Strauss verbindet Bayern mit der Geschichte von Oper, sinfonischer Musik und europaeischer Moderne.",
+      "en": "Strauss connects Bavaria with the history of opera, symphonic music and European modernism."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "strauss-tone-poems-operas",
+        "year": 1896,
+        "title": {
+          "ru": "Симфонические поэмы и оперы",
+          "de": "Tondichtungen und Opern",
+          "en": "Tone poems and operas"
+        },
+        "description": {
+          "ru": "Штраус прославился симфоническими поэмами и операми, включая «Так говорил Заратустра», «Саломе» и «Кавалера розы». Его музыка часто звучит ярко, театрально и очень образно.",
+          "de": "Strauss wurde durch Tondichtungen und Opern wie Also sprach Zarathustra, Salome und Der Rosenkavalier beruehmt. Seine Musik wirkt oft farbig, theatralisch und sehr bildhaft.",
+          "en": "Strauss became famous for tone poems and operas such as Also sprach Zarathustra, Salome and Der Rosenkavalier. His music often sounds vivid, theatrical and highly pictorial."
+        },
+        "importance": {
+          "ru": "Он показывает, как немецкая музыка перешла от романтизма к более современному звучанию.",
+          "de": "Er zeigt, wie deutsche Musik vom Romantischen zu moderneren Klangwelten ueberging.",
+          "en": "He shows how German music moved from Romanticism toward more modern sound worlds."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "strauss-munich-bavaria",
+        "year": 1864,
+        "title": {
+          "ru": "Мюнхенская музыкальная среда",
+          "de": "Muenchner Musikumfeld",
+          "en": "Munich musical environment"
+        },
+        "description": {
+          "ru": "Штраус вырос в музыкальной семье: его отец был валторнистом придворного оркестра в Мюнхене. Такая среда рано ввела будущего композитора в мир профессиональной музыки.",
+          "de": "Strauss wuchs in einer Musikerfamilie auf: Sein Vater war Hornist im Muenchner Hoforchester. Dieses Umfeld brachte den spaeteren Komponisten frueh mit professioneller Musik in Beruehrung.",
+          "en": "Strauss grew up in a musical family: his father was a horn player in the Munich court orchestra. This environment introduced the future composer early to professional music."
+        },
+        "importance": {
+          "ru": "Биография Штрауса хорошо показывает роль дворов, театров и оркестров в культурной жизни немецких земель.",
+          "de": "Strauss' Biografie zeigt gut die Rolle von Hoefen, Theatern und Orchestern im kulturellen Leben der deutschen Laender.",
+          "en": "Strauss's biography shows the role of courts, theaters and orchestras in the cultural life of the German lands."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вступление к «Так говорил Заратустра» стало всемирно известным после фильма «2001: Космическая одиссея».",
+    "de": "Der Beginn von Also sprach Zarathustra wurde durch den Film 2001: Odyssee im Weltraum weltweit bekannt.",
+    "en": "The opening of Also sprach Zarathustra became world-famous through the film 2001: A Space Odyssey."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Richard Strauss",
+      "url": "https://www.britannica.com/biography/Richard-Strauss"
+    },
+    {
+      "label": "Richard Strauss Institute: Biography",
+      "url": "https://www.richard-strauss-institut.de/en/richard-strauss/biography/"
+    }
+  ]
+}

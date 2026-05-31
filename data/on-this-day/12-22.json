@@ -1,0 +1,86 @@
+{
+  "date": "12-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-brandenburg-gate-opened",
+    "year": 1989,
+    "title": {
+      "ru": "Открылись Бранденбургские ворота",
+      "de": "Das Brandenburger Tor wird geoeffnet",
+      "en": "The Brandenburg Gate opens"
+    },
+    "description": {
+      "ru": "22 декабря 1989 года Бранденбургские ворота в Берлине были снова открыты для прохода. Канцлер Гельмут Коль и премьер ГДР Ханс Модров встретились у одного из главных символов разделённой Германии.",
+      "de": "Am 22. Dezember 1989 wurde das Brandenburger Tor in Berlin wieder fuer den Durchgang geoeffnet. Bundeskanzler Helmut Kohl und DDR-Ministerpraesident Hans Modrow trafen sich an einem der wichtigsten Symbole des geteilten Deutschlands.",
+      "en": "On 22 December 1989, the Brandenburg Gate in Berlin was reopened for passage. Chancellor Helmut Kohl and East German prime minister Hans Modrow met at one of the central symbols of divided Germany."
+    },
+    "importance": {
+      "ru": "Открытие ворот стало сильным визуальным знаком конца разделения Берлина.",
+      "de": "Die Oeffnung des Tores wurde zu einem starken sichtbaren Zeichen fuer das Ende der Teilung Berlins.",
+      "en": "The opening of the gate became a powerful visual sign of the end of Berlin's division."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1989-symbol-of-division-and-unity",
+        "year": 1989,
+        "title": {
+          "ru": "Символ разделения стал символом единства",
+          "de": "Vom Symbol der Teilung zum Symbol der Einheit",
+          "en": "From symbol of division to symbol of unity"
+        },
+        "description": {
+          "ru": "Во время Берлинской стены ворота стояли в пограничной зоне и были недоступны для обычного прохода. В декабре 1989 года это место снова стало открытым городским пространством.",
+          "de": "Waehrend der Berliner Mauer stand das Tor im Grenzgebiet und war fuer den normalen Durchgang unzugaenglich. Im Dezember 1989 wurde dieser Ort wieder zu einem offenen Stadtraum.",
+          "en": "During the Berlin Wall era, the gate stood in the border zone and was inaccessible for ordinary passage. In December 1989, the site became an open urban space again."
+        },
+        "importance": {
+          "ru": "Это событие особенно хорошо подходит для календаря с картами: одна точка на карте изменила своё значение на глазах у мира.",
+          "de": "Dieses Ereignis passt besonders gut zu einem Kalender mit Karten: Ein Punkt auf der Karte veraenderte vor den Augen der Welt seine Bedeutung.",
+          "en": "The event fits especially well in a calendar with maps: one point on the map changed its meaning before the eyes of the world."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1989-two-openings",
+        "year": 1989,
+        "title": {
+          "ru": "Стена пала раньше, но ворота открылись позже",
+          "de": "Die Mauer fiel frueher, das Tor oeffnete spaeter",
+          "en": "The Wall fell earlier, the gate opened later"
+        },
+        "description": {
+          "ru": "Берлинская стена фактически открылась 9 ноября 1989 года, но Бранденбургские ворота стали проходными только 22 декабря. Поэтому у осени и зимы 1989 года было несколько символических дат.",
+          "de": "Die Berliner Mauer oeffnete sich faktisch am 9. November 1989, doch das Brandenburger Tor wurde erst am 22. Dezember passierbar. Darum hatte Herbst und Winter 1989 mehrere symbolische Daten.",
+          "en": "The Berlin Wall effectively opened on 9 November 1989, but the Brandenburg Gate became passable only on 22 December. Autumn and winter 1989 therefore had several symbolic dates."
+        },
+        "importance": {
+          "ru": "Исторические перемены редко происходят одним кадром: часто это цепочка ярких моментов.",
+          "de": "Historische Veraenderungen geschehen selten in einem einzigen Bild; oft sind sie eine Reihe praegender Momente.",
+          "en": "Historical change rarely happens in a single image; it is often a chain of vivid moments."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бранденбургские ворота построили в конце XVIII века, задолго до того, как они стали символом Берлинской стены.",
+    "de": "Das Brandenburger Tor wurde Ende des 18. Jahrhunderts gebaut, lange bevor es zum Symbol der Berliner Mauer wurde.",
+    "en": "The Brandenburg Gate was built in the late 18th century, long before it became a symbol of the Berlin Wall."
+  },
+  "sources": [
+    {
+      "label": "Chronik der Wende: 22 December 1989",
+      "url": "https://www.chronikderwende.de/english/historicaldata_jsp/key%3Dehd22.12.1989.html"
+    },
+    {
+      "label": "Berlin Wall Foundation: Brandenburg Gate",
+      "url": "https://www.stiftung-berliner-mauer.de/en/topics/brandenburg-gate"
+    }
+  ]
+}
