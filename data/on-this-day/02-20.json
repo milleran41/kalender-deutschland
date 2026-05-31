@@ -1,0 +1,90 @@
+{
+  "date": "02-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-hitler-secret-meeting-industrialists",
+    "year": 1933,
+    "title": {
+      "ru": "Тайная встреча Гитлера с промышленниками",
+      "de": "Hitlers geheimes Treffen mit Industriellen",
+      "en": "Hitler's secret meeting with industrialists"
+    },
+    "description": {
+      "ru": "20 февраля 1933 года Адольф Гитлер встретился в Берлине с ведущими промышленниками и банкирами. На встрече собирали средства для избирательной кампании НСДАП перед выборами 5 марта.",
+      "de": "Am 20. Februar 1933 traf Adolf Hitler in Berlin fuehrende Industrielle und Bankiers. Bei dem Treffen wurden Mittel fuer den Wahlkampf der NSDAP vor der Wahl vom 5. Maerz gesammelt.",
+      "en": "On 20 February 1933, Adolf Hitler met leading industrialists and bankers in Berlin. The meeting raised funds for the Nazi Party's campaign before the election of 5 March."
+    },
+    "importance": {
+      "ru": "Дата показывает, что приход диктатуры к власти был связан не только с уличным насилием и пропагандой, но и с поддержкой части экономических элит.",
+      "de": "Das Datum zeigt, dass der Weg der Diktatur zur Macht nicht nur mit Strassengewalt und Propaganda, sondern auch mit Unterstuetzung aus Teilen der Wirtschaftseliten verbunden war.",
+      "en": "The date shows that dictatorship's path to power was connected not only with street violence and propaganda, but also with support from parts of the economic elite."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "money-and-dictatorship",
+        "year": 1933,
+        "title": {
+          "ru": "Деньги для диктатуры",
+          "de": "Geld fuer die Diktatur",
+          "en": "Money for dictatorship"
+        },
+        "description": {
+          "ru": "НСДАП уже имела власть канцлера, но стремилась укрепить позиции на выборах и сломать парламентскую систему. Поддержка бизнеса помогала финансировать кампанию в момент, когда демократия быстро разрушалась.",
+          "de": "Die NSDAP stellte bereits den Kanzler, wollte aber ihre Stellung bei der Wahl festigen und das parlamentarische System zerbrechen. Die Unterstuetzung aus der Wirtschaft half, den Wahlkampf in einem Moment zu finanzieren, in dem die Demokratie rasch zerfiel.",
+          "en": "The Nazi Party already held the chancellorship, but wanted to strengthen its position in the election and break the parliamentary system. Business support helped finance the campaign at a moment when democracy was rapidly collapsing."
+        },
+        "importance": {
+          "ru": "Это помогает понять, что ответственность за диктатуру лежит не только на одном человеке.",
+          "de": "Das hilft zu verstehen, dass Verantwortung fuer eine Diktatur nicht nur bei einer einzelnen Person liegt.",
+          "en": "It helps show that responsibility for dictatorship does not rest with one person alone."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "meeting-in-goering-residence",
+        "year": 1933,
+        "title": {
+          "ru": "Встреча у Геринга",
+          "de": "Treffen bei Goering",
+          "en": "Meeting at Goering's residence"
+        },
+        "description": {
+          "ru": "Встреча проходила в официальной резиденции Германа Геринга как президента рейхстага. Такое место показывало, как быстро партийные интересы нацистов начали сливаться с государственными ресурсами.",
+          "de": "Das Treffen fand in Hermann Goerings Amtssitz als Reichstagspraesident statt. Der Ort zeigte, wie schnell Parteiinteressen der Nationalsozialisten mit staatlichen Ressourcen verschmolzen.",
+          "en": "The meeting took place at Hermann Goering's official residence as president of the Reichstag. The setting showed how quickly Nazi party interests began to merge with state resources."
+        },
+        "importance": {
+          "ru": "Иногда адрес встречи говорит о политической ситуации не меньше, чем сама повестка.",
+          "de": "Manchmal sagt der Ort eines Treffens ueber die politische Lage genauso viel wie die Tagesordnung.",
+          "en": "Sometimes the location of a meeting says as much about the political situation as the agenda."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вскоре после встречи, 27 февраля 1933 года, произошёл поджог рейхстага, который нацисты использовали для расширения репрессий.",
+    "de": "Kurz nach dem Treffen, am 27. Februar 1933, brannte der Reichstag; die Nationalsozialisten nutzten dies zur Ausweitung der Repression.",
+    "en": "Soon after the meeting, on 27 February 1933, the Reichstag burned; the Nazis used this to expand repression."
+  },
+  "sources": [
+    {
+      "label": "GHDI: Introduction to Nazi Germany, 1933-1945",
+      "url": "https://ghdi.ghi-dc.org/pdf/eng/Volume%207%20Introduction%20English.pdf"
+    },
+    {
+      "label": "DBpedia: Secret Meeting of 20 February 1933",
+      "url": "https://dbpedia.org/page/Secret_Meeting_of_20_February_1933"
+    },
+    {
+      "label": "Institute for New Economic Thinking: Hitler and German Coal Industrialists",
+      "url": "https://www.ineteconomics.org/uploads/papers/WP_230-Schoenbach-Hitler-and-the-German-Coal-Industrialists-final.pdf"
+    }
+  ]
+}

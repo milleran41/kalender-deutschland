@@ -1,0 +1,90 @@
+{
+  "date": "04-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1889-adolf-hitler-born",
+    "year": 1889,
+    "title": {
+      "ru": "Родился Адольф Гитлер",
+      "de": "Adolf Hitler wird geboren",
+      "en": "Adolf Hitler is born"
+    },
+    "description": {
+      "ru": "20 апреля 1889 года в австрийском городе Браунау-ам-Инн родился Адольф Гитлер. Позднее он стал лидером НСДАП, диктатором Германии и главным инициатором преступной политики нацистского режима.",
+      "de": "Am 20. April 1889 wurde Adolf Hitler im oesterreichischen Braunau am Inn geboren. Spaeter wurde er Fuehrer der NSDAP, Diktator Deutschlands und Hauptinitiator der verbrecherischen Politik des NS-Regimes.",
+      "en": "On 20 April 1889, Adolf Hitler was born in Braunau am Inn, Austria. He later became leader of the Nazi Party, dictator of Germany and the main initiator of the criminal policies of the Nazi regime."
+    },
+    "importance": {
+      "ru": "Эта дата важна не как повод для интереса к личности, а как напоминание о том, к чему привели диктатура, расизм, война и уничтожение демократии.",
+      "de": "Dieses Datum ist nicht wegen der Person selbst wichtig, sondern als Erinnerung daran, wohin Diktatur, Rassismus, Krieg und die Zerstoerung der Demokratie fuehrten.",
+      "en": "This date matters not as a reason to focus on the person himself, but as a reminder of where dictatorship, racism, war and the destruction of democracy led."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "from-biography-to-catastrophe",
+        "year": 1889,
+        "title": {
+          "ru": "От биографии к катастрофе",
+          "de": "Von der Biografie zur Katastrophe",
+          "en": "From biography to catastrophe"
+        },
+        "description": {
+          "ru": "Один день рождения сам по себе ничего не объясняет. Важно понимать, как экономический кризис, политическая слабость, насилие и пропаганда позволили Гитлеру прийти к власти.",
+          "de": "Ein Geburtstag allein erklaert nichts. Wichtig ist zu verstehen, wie Wirtschaftskrise, politische Schwaeche, Gewalt und Propaganda Hitler den Weg zur Macht ermoeglichten.",
+          "en": "A birthday alone explains nothing. What matters is understanding how economic crisis, political weakness, violence and propaganda allowed Hitler to come to power."
+        },
+        "importance": {
+          "ru": "Так дата становится уроком о хрупкости демократии, а не биографической curiosität.",
+          "de": "So wird das Datum zu einer Lehre ueber die Zerbrechlichkeit der Demokratie und nicht zu einer biografischen Kuriositaet.",
+          "en": "The date thus becomes a lesson about the fragility of democracy, not a biographical curiosity."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "braunau-memory",
+        "year": 1889,
+        "title": {
+          "ru": "Браунау и трудная память",
+          "de": "Braunau und schwierige Erinnerung",
+          "en": "Braunau and difficult memory"
+        },
+        "description": {
+          "ru": "Город Браунау находится в Австрии, у границы с Германией. Само место рождения долго оставалось предметом споров о том, как помнить преступное прошлое без создания культа.",
+          "de": "Braunau liegt in Oesterreich nahe der deutschen Grenze. Der Geburtsort blieb lange Gegenstand von Debatten darueber, wie man an eine verbrecherische Vergangenheit erinnert, ohne einen Kult zu schaffen.",
+          "en": "Braunau is in Austria near the German border. The birthplace long remained the subject of debates about how to remember a criminal past without creating a cult."
+        },
+        "importance": {
+          "ru": "Это напоминает, что места памяти требуют осторожности и ответственности.",
+          "de": "Das erinnert daran, dass Erinnerungsorte Vorsicht und Verantwortung verlangen.",
+          "en": "It is a reminder that sites of memory require care and responsibility."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гитлер получил германское гражданство только в 1932 году, незадолго до назначения рейхсканцлером.",
+    "de": "Hitler erhielt die deutsche Staatsangehoerigkeit erst 1932, kurz vor seiner Ernennung zum Reichskanzler.",
+    "en": "Hitler obtained German citizenship only in 1932, shortly before being appointed Chancellor."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Adolf Hitler facts",
+      "url": "https://www.britannica.com/facts/Adolf-Hitler"
+    },
+    {
+      "label": "Britannica: Adolf Hitler biography",
+      "url": "https://www.britannica.com/biography/Adolf-Hitler"
+    },
+    {
+      "label": "Britannica Kids: Adolf Hitler",
+      "url": "https://kids.britannica.com/students/article/Adolf-Hitler/274895"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "06-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1948-berlin-airlift-early-flights",
+    "year": 1948,
+    "title": {
+      "ru": "Воздушный мост в Берлин набирает силу",
+      "de": "Die Berliner Luftbruecke nimmt Fahrt auf",
+      "en": "The Berlin Airlift gains momentum"
+    },
+    "description": {
+      "ru": "27 июня 1948 года западные союзники уже разворачивали воздушное снабжение Западного Берлина после советской блокады. Первые рейсы показали, что город можно поддерживать с воздуха, хотя масштаб задачи казался огромным.",
+      "de": "Am 27. Juni 1948 bauten die Westalliierten die Luftversorgung West-Berlins nach der sowjetischen Blockade bereits aus. Die ersten Fluege zeigten, dass die Stadt aus der Luft versorgt werden konnte, auch wenn die Aufgabe riesig wirkte.",
+      "en": "On 27 June 1948, the Western Allies were already expanding air supply to West Berlin after the Soviet blockade. The first flights showed that the city could be supported by air, even though the task seemed enormous."
+    },
+    "importance": {
+      "ru": "Воздушный мост стал одним из главных символов холодной войны и связи Западного Берлина с союзниками.",
+      "de": "Die Luftbruecke wurde zu einem der wichtigsten Symbole des Kalten Krieges und der Verbindung West-Berlins mit den Alliierten.",
+      "en": "The airlift became one of the main symbols of the Cold War and of West Berlin's connection with the Allies."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "blockade-and-air-supply",
+        "year": 1948,
+        "title": {
+          "ru": "Блокада и снабжение с воздуха",
+          "de": "Blockade und Versorgung aus der Luft",
+          "en": "Blockade and supply by air"
+        },
+        "description": {
+          "ru": "После валютной реформы советская сторона перекрыла сухопутные пути в западные сектора Берлина. Ответом стали регулярные рейсы с продовольствием, топливом и другими необходимыми грузами.",
+          "de": "Nach der Waehrungsreform sperrte die sowjetische Seite die Landwege in die Westsektoren Berlins. Die Antwort waren regelmaessige Fluege mit Lebensmitteln, Brennstoff und anderen notwendigen Guetern.",
+          "en": "After the currency reform, the Soviet side blocked land routes into Berlin's western sectors. The response was regular flights carrying food, fuel and other essential supplies."
+        },
+        "importance": {
+          "ru": "Дата показывает, как логистика стала политическим оружием и средством выживания города.",
+          "de": "Das Datum zeigt, wie Logistik zu einer politischen Waffe und zu einem Mittel des Ueberlebens einer Stadt wurde.",
+          "en": "The date shows how logistics became both a political weapon and a means for a city's survival."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "airlift-before-routine",
+        "year": 1948,
+        "title": {
+          "ru": "Сначала это выглядело почти невозможным",
+          "de": "Zuerst wirkte es fast unmoeglich",
+          "en": "At first it seemed almost impossible"
+        },
+        "description": {
+          "ru": "В первые дни никто не знал, сможет ли воздушный мост кормить большой город месяцами. То, что началось как импровизация, постепенно превратилось в огромную систему рейсов.",
+          "de": "In den ersten Tagen wusste niemand, ob eine Luftbruecke eine grosse Stadt monatelang versorgen koennte. Was als Improvisation begann, wurde allmaehlich zu einem riesigen System von Fluegen.",
+          "en": "In the first days, no one knew whether an airlift could supply a large city for months. What began as improvisation gradually became a vast system of flights."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как чрезвычайное решение становится историческим достижением.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie eine Notloesung zu einer historischen Leistung wird.",
+          "en": "It is a good example of an emergency solution becoming a historic achievement."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Берлинский воздушный мост продолжался до 1949 года и доставил в город миллионы тонн грузов.",
+    "de": "Die Berliner Luftbruecke dauerte bis 1949 und brachte Millionen Tonnen Gueter in die Stadt.",
+    "en": "The Berlin Airlift continued until 1949 and brought millions of tons of supplies into the city."
+  },
+  "sources": [
+    {
+      "label": "PBS: The Blockade and Airlift Begin",
+      "url": "https://www.pbs.org/wgbh/amex/airlift/peopleevents/e_airliftstart.html"
+    },
+    {
+      "label": "Stiftung Luftbrueckendank: Berlin Airlift chronology",
+      "url": "https://www.stiftung-luftbrueckendank.de/index_htm_files/Chronology%20of%20the%20Berlin%20Airlift%20ENG%20Dr%20Provan.pdf"
+    },
+    {
+      "label": "Berlin Blockade and Airlift",
+      "url": "https://www.trumanlibrary.gov/education/presidential-inquiries/berlin-blockade-and-airlift"
+    }
+  ]
+}
