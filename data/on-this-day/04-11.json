@@ -1,0 +1,65 @@
+{
+  "date": "04-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1961-eichmann-trial-begins",
+    "year": 1961,
+    "title": {
+      "ru": "Начался процесс над Адольфом Эйхманом",
+      "de": "Der Prozess gegen Adolf Eichmann beginnt",
+      "en": "The trial of Adolf Eichmann begins"
+    },
+    "description": {
+      "ru": "11 апреля 1961 года в Иерусалиме начался процесс над Адольфом Эйхманом. Эйхман был одним из организаторов депортации евреев в системе нацистского уничтожения.",
+      "de": "Am 11. April 1961 begann in Jerusalem der Prozess gegen Adolf Eichmann. Eichmann war einer der Organisatoren der Deportation von Juden im System der nationalsozialistischen Vernichtung.",
+      "en": "On 11 April 1961, the trial of Adolf Eichmann began in Jerusalem. Eichmann was one of the organizers of the deportation of Jews within the Nazi system of extermination."
+    },
+    "importance": {
+      "ru": "Процесс сделал свидетельства выживших центральной частью общественной памяти о Холокосте.",
+      "de": "Der Prozess machte die Aussagen von Ueberlebenden zu einem zentralen Teil der oeffentlichen Erinnerung an den Holocaust.",
+      "en": "The trial made survivor testimony a central part of public memory of the Holocaust."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "eichmann-trial-memory",
+        "year": 1961,
+        "title": {
+          "ru": "Суд и память",
+          "de": "Gericht und Erinnerung",
+          "en": "Trial and memory"
+        },
+        "description": {
+          "ru": "На процессе подробно звучали рассказы свидетелей о депортациях, гетто и лагерях. Это было важно не только для приговора, но и для понимания масштаба преступлений.",
+          "de": "Im Prozess wurden Zeugenaussagen ueber Deportationen, Ghettos und Lager ausfuehrlich gehoert. Das war nicht nur fuer das Urteil wichtig, sondern auch fuer das Verstaendnis des Ausmasses der Verbrechen.",
+          "en": "The trial heard detailed witness accounts of deportations, ghettos and camps. This mattered not only for the verdict but also for understanding the scale of the crimes."
+        },
+        "importance": {
+          "ru": "Дата показывает, как послевоенное правосудие стало частью исторического знания.",
+          "de": "Das Datum zeigt, wie Nachkriegsjustiz Teil historischen Wissens wurde.",
+          "en": "The date shows how postwar justice became part of historical knowledge."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Эйхман был захвачен израильскими агентами в Аргентине в 1960 году и доставлен в Израиль для суда.",
+    "de": "Eichmann wurde 1960 von israelischen Agenten in Argentinien gefasst und nach Israel gebracht.",
+    "en": "Eichmann was captured by Israeli agents in Argentina in 1960 and brought to Israel for trial."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Eichmann Trial",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/eichmann-trial"
+    },
+    {
+      "label": "bpb: Beginn des Eichmann-Prozesses",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/330724/beginn-des-eichmann-prozesses/"
+    }
+  ]
+}

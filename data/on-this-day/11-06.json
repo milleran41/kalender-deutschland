@@ -1,0 +1,65 @@
+{
+  "date": "11-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-relativity-eclipse-results",
+    "year": 1919,
+    "title": {
+      "ru": "Результаты затмения подтвердили теорию Эйнштейна",
+      "de": "Eklipsergebnisse bestaetigen Einsteins Theorie",
+      "en": "Eclipse results confirm Einstein's theory"
+    },
+    "description": {
+      "ru": "6 ноября 1919 года в Лондоне были представлены результаты наблюдений солнечного затмения, согласующиеся с общей теорией относительности Альберта Эйнштейна. После этого имя Эйнштейна стало известно широкой публике.",
+      "de": "Am 6. November 1919 wurden in London Ergebnisse von Sonnenfinsternis-Beobachtungen vorgestellt, die mit Albert Einsteins allgemeiner Relativitaetstheorie uebereinstimmten. Danach wurde Einsteins Name einer breiten Oeffentlichkeit bekannt.",
+      "en": "On 6 November 1919, results from solar eclipse observations were presented in London and agreed with Albert Einstein's general theory of relativity. After this, Einstein's name became known to the wider public."
+    },
+    "importance": {
+      "ru": "Дата показывает, как немецкая теоретическая физика стала мировой новостью.",
+      "de": "Das Datum zeigt, wie deutsche theoretische Physik zur Weltnachricht wurde.",
+      "en": "The date shows how German theoretical physics became world news."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "light-bending-test",
+        "year": 1919,
+        "title": {
+          "ru": "Свет изгибается у Солнца",
+          "de": "Licht wird an der Sonne abgelenkt",
+          "en": "Light bends near the Sun"
+        },
+        "description": {
+          "ru": "Экспедиции наблюдали звёзды рядом с затемнённым Солнцем и искали малое смещение их видимого положения. Такой эффект был важной проверкой новой картины гравитации.",
+          "de": "Die Expeditionen beobachteten Sterne nahe der verfinsterten Sonne und suchten nach einer kleinen Verschiebung ihrer scheinbaren Position. Dieser Effekt war ein wichtiger Test des neuen Gravitationsbildes.",
+          "en": "The expeditions observed stars near the eclipsed Sun and looked for a small shift in their apparent positions. The effect was an important test of a new picture of gravity."
+        },
+        "importance": {
+          "ru": "Так астрономические наблюдения помогли проверить очень абстрактную физическую теорию.",
+          "de": "So halfen astronomische Beobachtungen, eine sehr abstrakte physikalische Theorie zu pruefen.",
+          "en": "Astronomical observations helped test a very abstract physical theory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На следующий день, 7 ноября 1919 года, британская пресса сделала Эйнштейна мировой знаменитостью.",
+    "de": "Am naechsten Tag, dem 7. November 1919, machte die britische Presse Einstein weltberuehmt.",
+    "en": "The next day, 7 November 1919, the British press made Einstein world-famous."
+  },
+  "sources": [
+    {
+      "label": "Nature: Eclipse results and relativity theory",
+      "url": "https://www.nature.com/articles/104280a0"
+    },
+    {
+      "label": "arXiv: 1919 eclipse results",
+      "url": "https://arxiv.org/abs/2010.13744"
+    }
+  ]
+}

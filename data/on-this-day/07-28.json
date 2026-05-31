@@ -1,0 +1,65 @@
+{
+  "date": "07-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1750-johann-sebastian-bach-dies",
+    "year": 1750,
+    "title": {
+      "ru": "Умер Иоганн Себастьян Бах",
+      "de": "Johann Sebastian Bach stirbt",
+      "en": "Johann Sebastian Bach dies"
+    },
+    "description": {
+      "ru": "28 июля 1750 года в Лейпциге умер Иоганн Себастьян Бах. При жизни он был известен прежде всего как органист и церковный музыкант, а мировая слава пришла к его музыке позже.",
+      "de": "Am 28. Juli 1750 starb Johann Sebastian Bach in Leipzig. Zu Lebzeiten war er vor allem als Organist und Kirchenmusiker bekannt; der Weltruhm seiner Musik kam spaeter.",
+      "en": "On 28 July 1750, Johann Sebastian Bach died in Leipzig. During his lifetime he was known mainly as an organist and church musician; his music's worldwide fame came later."
+    },
+    "importance": {
+      "ru": "Бах стал одной из центральных фигур европейской музыки, а Лейпциг навсегда связан с его наследием.",
+      "de": "Bach wurde zu einer zentralen Figur der europaeischen Musik, und Leipzig bleibt dauerhaft mit seinem Erbe verbunden.",
+      "en": "Bach became one of the central figures of European music, and Leipzig remains permanently linked with his legacy."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "bach-rediscovery",
+        "year": 1829,
+        "title": {
+          "ru": "Возвращение Баха в концертную жизнь",
+          "de": "Bachs Rueckkehr ins Konzertleben",
+          "en": "Bach returns to concert life"
+        },
+        "description": {
+          "ru": "В XIX веке интерес к Баху резко вырос, особенно после исполнения «Страстей по Матфею» под руководством Феликса Мендельсона. Музыка, которая казалась старомодной, стала классикой.",
+          "de": "Im 19. Jahrhundert wuchs das Interesse an Bach stark, besonders nach der Auffuehrung der Matthaeus-Passion unter Felix Mendelssohn. Musik, die altmodisch gewirkt hatte, wurde klassisch.",
+          "en": "In the 19th century, interest in Bach grew sharply, especially after Felix Mendelssohn's performance of the St Matthew Passion. Music that had seemed old-fashioned became classic."
+        },
+        "importance": {
+          "ru": "Это показывает, что культурная слава иногда появляется через десятилетия после смерти автора.",
+          "de": "Das zeigt, dass kultureller Ruhm manchmal erst Jahrzehnte nach dem Tod eines Autors entsteht.",
+          "en": "It shows that cultural fame sometimes emerges decades after an artist's death."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Могила Баха находится в церкви Святого Фомы в Лейпциге.",
+    "de": "Bachs Grab befindet sich in der Thomaskirche in Leipzig.",
+    "en": "Bach's grave is in St Thomas Church in Leipzig."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Johann Sebastian Bach",
+      "url": "https://www.britannica.com/biography/Johann-Sebastian-Bach"
+    },
+    {
+      "label": "Britannica: Johann Sebastian Bach facts",
+      "url": "https://www.britannica.com/facts/Johann-Sebastian-Bach"
+    }
+  ]
+}
