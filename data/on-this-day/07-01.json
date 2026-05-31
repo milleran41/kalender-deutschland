@@ -1,0 +1,65 @@
+{
+  "date": "07-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-monetary-economic-social-union",
+    "year": 1990,
+    "title": {
+      "ru": "Вступил в силу валютный, экономический и социальный союз",
+      "de": "Die Wirtschafts-, Waehrungs- und Sozialunion tritt in Kraft",
+      "en": "The monetary, economic and social union takes effect"
+    },
+    "description": {
+      "ru": "1 июля 1990 года между ФРГ и ГДР вступил в силу валютный, экономический и социальный союз. Немецкая марка стала платёжным средством в ГДР.",
+      "de": "Am 1. Juli 1990 trat zwischen Bundesrepublik und DDR die Wirtschafts-, Waehrungs- und Sozialunion in Kraft. Die D-Mark wurde Zahlungsmittel in der DDR.",
+      "en": "On 1 July 1990, the monetary, economic and social union between West Germany and East Germany took effect. The Deutsche Mark became legal tender in East Germany."
+    },
+    "importance": {
+      "ru": "Это был один из решающих практических шагов к воссоединению Германии.",
+      "de": "Das war einer der entscheidenden praktischen Schritte zur deutschen Einheit.",
+      "en": "It was one of the decisive practical steps toward German unity."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "dmark-in-the-east",
+        "year": 1990,
+        "title": {
+          "ru": "Марка пришла на восток",
+          "de": "Die D-Mark kommt in den Osten",
+          "en": "The Deutsche Mark comes east"
+        },
+        "description": {
+          "ru": "Для многих жителей ГДР новая валюта была символом надежды и перемен. Но экономическая перестройка также принесла закрытие предприятий и трудные социальные последствия.",
+          "de": "Fuer viele Menschen in der DDR war die neue Waehrung ein Symbol von Hoffnung und Wandel. Die wirtschaftliche Umstellung brachte aber auch Betriebsschliessungen und schwierige soziale Folgen.",
+          "en": "For many East Germans, the new currency symbolized hope and change. But economic restructuring also brought factory closures and difficult social consequences."
+        },
+        "importance": {
+          "ru": "Воссоединение было радостным, но не простым процессом.",
+          "de": "Die Wiedervereinigung war freudig, aber kein einfacher Prozess.",
+          "en": "Reunification was joyful but not simple."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Валютный союз вступил в силу за три месяца до официального объединения 3 октября 1990 года.",
+    "de": "Die Waehrungsunion trat drei Monate vor der offiziellen Einheit am 3. Oktober 1990 in Kraft.",
+    "en": "The monetary union took effect three months before official unity on 3 October 1990."
+  },
+  "sources": [
+    {
+      "label": "Deutsche Bundesbank: Monetary union 1990",
+      "url": "https://www.bundesbank.de/en/tasks/topics/30-years-of-monetary-economic-and-social-union-835438"
+    },
+    {
+      "label": "bpb: 1 July 1990",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132747/1-juli-1990/"
+    }
+  ]
+}

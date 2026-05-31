@@ -1,0 +1,65 @@
+{
+  "date": "06-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1941-operation-barbarossa",
+    "year": 1941,
+    "title": {
+      "ru": "Германия напала на Советский Союз",
+      "de": "Deutschland greift die Sowjetunion an",
+      "en": "Germany invades the Soviet Union"
+    },
+    "description": {
+      "ru": "22 июня 1941 года нацистская Германия начала операцию «Барбаросса» против Советского Союза. Это открыло самый кровопролитный фронт Второй мировой войны.",
+      "de": "Am 22. Juni 1941 begann NS-Deutschland mit dem Unternehmen Barbarossa den Angriff auf die Sowjetunion. Damit begann die blutigste Front des Zweiten Weltkriegs.",
+      "en": "On 22 June 1941, Nazi Germany launched Operation Barbarossa against the Soviet Union. This opened the bloodiest front of the Second World War."
+    },
+    "importance": {
+      "ru": "Война на Востоке стала войной уничтожения с огромными жертвами среди военных и гражданских.",
+      "de": "Der Krieg im Osten wurde ein Vernichtungskrieg mit enormen Opfern unter Soldaten und Zivilisten.",
+      "en": "The war in the East became a war of annihilation with enormous military and civilian losses."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "war-of-annihilation",
+        "year": 1941,
+        "title": {
+          "ru": "Война на уничтожение",
+          "de": "Vernichtungskrieg",
+          "en": "War of annihilation"
+        },
+        "description": {
+          "ru": "Операция была связана не только с военными целями, но и с расистской идеологией нацистов. На оккупированных территориях последовали массовые убийства, голод и террор.",
+          "de": "Die Operation war nicht nur mit militaerischen Zielen, sondern auch mit der rassistischen Ideologie der Nationalsozialisten verbunden. In den besetzten Gebieten folgten Massenmorde, Hunger und Terror.",
+          "en": "The operation was tied not only to military aims but also to Nazi racist ideology. Mass murder, starvation and terror followed in the occupied territories."
+        },
+        "importance": {
+          "ru": "Дата является одной из самых трагичных в истории отношений Германии и Восточной Европы.",
+          "de": "Das Datum gehoert zu den tragischsten in der Geschichte der Beziehungen Deutschlands zu Osteuropa.",
+          "en": "The date is one of the most tragic in the history of Germany's relations with Eastern Europe."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название «Барбаросса» отсылало к средневековому императору Фридриху I Барбароссе.",
+    "de": "Der Name Barbarossa bezog sich auf den mittelalterlichen Kaiser Friedrich I. Barbarossa.",
+    "en": "The name Barbarossa referred to the medieval emperor Frederick I Barbarossa."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Invasion of the Soviet Union",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-the-soviet-union-june-1941"
+    },
+    {
+      "label": "Britannica: Operation Barbarossa",
+      "url": "https://www.britannica.com/event/Operation-Barbarossa"
+    }
+  ]
+}

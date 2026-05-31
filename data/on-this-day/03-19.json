@@ -1,0 +1,65 @@
+{
+  "date": "03-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1911-first-international-womens-day-germany",
+    "year": 1911,
+    "title": {
+      "ru": "Первый Международный женский день в Германии",
+      "de": "Erster Internationaler Frauentag in Deutschland",
+      "en": "First International Women's Day in Germany"
+    },
+    "description": {
+      "ru": "19 марта 1911 года Международный женский день впервые широко отметили в Германии и нескольких других странах. Главным требованием было избирательное право для женщин.",
+      "de": "Am 19. Maerz 1911 wurde der Internationale Frauentag erstmals in Deutschland und einigen anderen Laendern breit begangen. Eine zentrale Forderung war das Frauenwahlrecht.",
+      "en": "On 19 March 1911, International Women's Day was widely marked for the first time in Germany and several other countries. A central demand was women's suffrage."
+    },
+    "importance": {
+      "ru": "Дата показывает, что права женщин стали результатом долгой общественной борьбы.",
+      "de": "Das Datum zeigt, dass Frauenrechte Ergebnis langer gesellschaftlicher Kaempfe waren.",
+      "en": "The date shows that women's rights were the result of long social struggles."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "women-vote-demand",
+        "year": 1911,
+        "title": {
+          "ru": "До избирательного права оставалось семь лет",
+          "de": "Sieben Jahre bis zum Wahlrecht",
+          "en": "Seven years before suffrage"
+        },
+        "description": {
+          "ru": "Женщины в Германии получили избирательное право только в 1918 году. Поэтому 1911 год был важной ступенью, но не финалом борьбы.",
+          "de": "Frauen erhielten in Deutschland erst 1918 das Wahlrecht. Das Jahr 1911 war daher ein wichtiger Schritt, aber nicht das Ende des Kampfes.",
+          "en": "Women in Germany gained the right to vote only in 1918. The year 1911 was an important step but not the end of the struggle."
+        },
+        "importance": {
+          "ru": "Это хорошее напоминание, что демократические права редко появляются сами собой.",
+          "de": "Das erinnert daran, dass demokratische Rechte selten von selbst entstehen.",
+          "en": "It is a good reminder that democratic rights rarely appear by themselves."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Современный Международный женский день отмечается 8 марта, но первый массовый день в Германии прошёл 19 марта.",
+    "de": "Heute ist der Internationale Frauentag am 8. Maerz, doch der erste grosse Frauentag in Deutschland fand am 19. Maerz statt.",
+    "en": "International Women's Day is now observed on 8 March, but the first major Women's Day in Germany took place on 19 March."
+  },
+  "sources": [
+    {
+      "label": "UN Women: International Women's Day history",
+      "url": "https://www.unwomen.org/en/news-stories/in-focus/international-womens-day"
+    },
+    {
+      "label": "bpb: Frauenwahlrecht",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/280680/vor-100-jahren-frauen-erhalten-das-wahlrecht/"
+    }
+  ]
+}

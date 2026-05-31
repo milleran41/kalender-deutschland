@@ -1,0 +1,65 @@
+{
+  "date": "11-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-womens-suffrage-germany",
+    "year": 1918,
+    "title": {
+      "ru": "В Германии провозглашено избирательное право женщин",
+      "de": "Das Frauenwahlrecht wird in Deutschland verkuendet",
+      "en": "Women's suffrage is announced in Germany"
+    },
+    "description": {
+      "ru": "12 ноября 1918 года Совет народных уполномоченных объявил демократическую избирательную реформу, включавшую право женщин голосовать и быть избранными. Вскоре женщины впервые участвовали в выборах в Национальное собрание.",
+      "de": "Am 12. November 1918 verkuendete der Rat der Volksbeauftragten eine demokratische Wahlrechtsreform, die Frauen das aktive und passive Wahlrecht gab. Bald darauf nahmen Frauen erstmals an der Wahl zur Nationalversammlung teil.",
+      "en": "On 12 November 1918, the Council of People's Deputies announced democratic electoral reform, giving women the right to vote and stand for office. Soon afterward, women first voted in elections to the National Assembly."
+    },
+    "importance": {
+      "ru": "Это одна из ключевых дат немецкой демократии и истории равноправия.",
+      "de": "Das ist eines der Schluesseldaten deutscher Demokratie und Gleichberechtigung.",
+      "en": "It is one of the key dates in German democracy and equal rights."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1919-women-in-national-assembly",
+        "year": 1919,
+        "title": {
+          "ru": "Женщины в Национальном собрании",
+          "de": "Frauen in der Nationalversammlung",
+          "en": "Women in the National Assembly"
+        },
+        "description": {
+          "ru": "На выборах 1919 года женщины не только голосовали, но и были избраны депутатами. Это изменило лицо немецкой политики.",
+          "de": "Bei der Wahl 1919 stimmten Frauen nicht nur ab, sondern wurden auch als Abgeordnete gewaehlt. Das veraenderte das Gesicht der deutschen Politik.",
+          "en": "In the 1919 election, women not only voted but were also elected as deputies. This changed the face of German politics."
+        },
+        "importance": {
+          "ru": "Права становятся реальными, когда люди начинают ими пользоваться.",
+          "de": "Rechte werden wirklich, wenn Menschen sie nutzen.",
+          "en": "Rights become real when people begin to use them."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Германии женщины получили избирательное право раньше, чем во многих других европейских странах.",
+    "de": "In Deutschland erhielten Frauen das Wahlrecht frueher als in vielen anderen europaeischen Laendern.",
+    "en": "In Germany, women gained suffrage earlier than in many other European countries."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Women gain the right to vote",
+      "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/women_vote"
+    },
+    {
+      "label": "bpb: Frauenwahlrecht",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/280680/vor-100-jahren-frauen-erhalten-das-wahlrecht/"
+    }
+  ]
+}

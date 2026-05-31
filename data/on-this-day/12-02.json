@@ -1,0 +1,65 @@
+{
+  "date": "12-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-first-all-german-bundestag-election",
+    "year": 1990,
+    "title": {
+      "ru": "Первые общегерманские выборы после воссоединения",
+      "de": "Erste gesamtdeutsche Bundestagswahl nach der Einheit",
+      "en": "First all-German Bundestag election after reunification"
+    },
+    "description": {
+      "ru": "2 декабря 1990 года прошли первые выборы в Бундестаг после воссоединения Германии. В них участвовали избиратели из старых и новых федеральных земель.",
+      "de": "Am 2. Dezember 1990 fand die erste Bundestagswahl nach der deutschen Wiedervereinigung statt. Waehlerinnen und Waehler aus alten und neuen Bundeslaendern nahmen teil.",
+      "en": "On 2 December 1990, the first Bundestag election after German reunification took place. Voters from the old and new federal states participated."
+    },
+    "importance": {
+      "ru": "Дата закрепила воссоединение не только юридически, но и демократически.",
+      "de": "Das Datum verankerte die Einheit nicht nur rechtlich, sondern auch demokratisch.",
+      "en": "The date anchored unity not only legally but democratically."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "new-federal-states-vote",
+        "year": 1990,
+        "title": {
+          "ru": "Новые земли вошли в общую политическую систему",
+          "de": "Die neuen Laender treten in das gemeinsame politische System ein",
+          "en": "The new states enter the common political system"
+        },
+        "description": {
+          "ru": "Выборы показали, как восточные земли стали частью общегерманской парламентской жизни. Это был важный практический шаг после 3 октября.",
+          "de": "Die Wahl zeigte, wie die ostdeutschen Laender Teil des gesamtdeutschen Parlamentslebens wurden. Das war ein wichtiger praktischer Schritt nach dem 3. Oktober.",
+          "en": "The election showed how the eastern states became part of all-German parliamentary life. It was an important practical step after 3 October."
+        },
+        "importance": {
+          "ru": "Воссоединение продолжалось и после праздничных церемоний.",
+          "de": "Die Wiedervereinigung ging auch nach den Feiern weiter.",
+          "en": "Reunification continued after the celebrations."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Это были первые выборы в объединённой Германии с 1932 года, если считать всю территорию Германии как единое парламентское пространство.",
+    "de": "Es war die erste Wahl im vereinten Deutschland seit 1932, wenn man das gesamte Deutschland als gemeinsamen parlamentarischen Raum betrachtet.",
+    "en": "It was the first election in united Germany since 1932 if the whole German territory is considered as one parliamentary space."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Bundestag election 1990",
+      "url": "https://www.bundestag.de/parlament/geschichte/parlamentarismus/1990"
+    },
+    {
+      "label": "Federal Returning Officer: Bundestag elections 1990",
+      "url": "https://www.bundeswahlleiterin.de/en/bundestagswahlen/1990.html"
+    }
+  ]
+}

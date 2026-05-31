@@ -1,0 +1,65 @@
+{
+  "date": "10-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1648-peace-of-westphalia",
+    "year": 1648,
+    "title": {
+      "ru": "Заключён Вестфальский мир",
+      "de": "Der Westfaelische Frieden wird geschlossen",
+      "en": "The Peace of Westphalia is concluded"
+    },
+    "description": {
+      "ru": "24 октября 1648 года были заключены договоры, завершившие Тридцатилетнюю войну. Мирные соглашения изменили политическую карту Священной Римской империи и Европы.",
+      "de": "Am 24. Oktober 1648 wurden die Vertraege geschlossen, die den Dreissigjaehrigen Krieg beendeten. Die Friedensschluesse veraenderten die politische Karte des Heiligen Roemischen Reiches und Europas.",
+      "en": "On 24 October 1648, the treaties ending the Thirty Years' War were concluded. The peace settlements changed the political map of the Holy Roman Empire and Europe."
+    },
+    "importance": {
+      "ru": "Хотя дата раньше основного диапазона, она ключевая для понимания раздробленной истории немецких земель.",
+      "de": "Obwohl das Datum vor dem Hauptzeitraum liegt, ist es entscheidend fuer das Verstaendnis der zersplitterten Geschichte der deutschen Laender.",
+      "en": "Although the date is before the main range, it is crucial for understanding the fragmented history of the German lands."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "westphalia-cities",
+        "year": 1648,
+        "title": {
+          "ru": "Мюнстер и Оснабрюк",
+          "de": "Muenster und Osnabrueck",
+          "en": "Muenster and Osnabrueck"
+        },
+        "description": {
+          "ru": "Переговоры шли в двух вестфальских городах, Мюнстере и Оснабрюке. Поэтому мир получил название Вестфальского.",
+          "de": "Die Verhandlungen fanden in den westfaelischen Staedten Muenster und Osnabrueck statt. Daher erhielt der Frieden seinen Namen.",
+          "en": "Negotiations took place in the Westphalian cities of Muenster and Osnabrueck. That is why the peace took its name."
+        },
+        "importance": {
+          "ru": "Это пример того, как конкретные города становятся частью большой европейской дипломатии.",
+          "de": "Das ist ein Beispiel dafuer, wie konkrete Staedte Teil grosser europaeischer Diplomatie werden.",
+          "en": "It is an example of specific cities becoming part of major European diplomacy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Тридцатилетняя война особенно тяжело затронула многие немецкие территории.",
+    "de": "Der Dreissigjaehrige Krieg traf viele deutsche Gebiete besonders schwer.",
+    "en": "The Thirty Years' War hit many German territories especially hard."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Peace of Westphalia",
+      "url": "https://www.britannica.com/event/Peace-of-Westphalia"
+    },
+    {
+      "label": "LWL: Peace of Westphalia",
+      "url": "https://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/anzeigen.php?verzeichnis=med&dateiname=med160"
+    }
+  ]
+}

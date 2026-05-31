@@ -1,0 +1,65 @@
+{
+  "date": "05-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1987-mathias-rust-red-square",
+    "year": 1987,
+    "title": {
+      "ru": "Матиас Руст приземлился у Красной площади",
+      "de": "Mathias Rust landet nahe dem Roten Platz",
+      "en": "Mathias Rust lands near Red Square"
+    },
+    "description": {
+      "ru": "28 мая 1987 года 18-летний западногерманский пилот Матиас Руст на небольшом самолёте долетел до Москвы и приземлился рядом с Красной площадью. Его полёт стал мировой сенсацией.",
+      "de": "Am 28. Mai 1987 flog der 18-jaehrige westdeutsche Pilot Mathias Rust mit einem Kleinflugzeug bis nach Moskau und landete nahe dem Roten Platz. Sein Flug wurde zur Weltsensation.",
+      "en": "On 28 May 1987, 18-year-old West German pilot Mathias Rust flew a small aircraft to Moscow and landed near Red Square. His flight became a worldwide sensation."
+    },
+    "importance": {
+      "ru": "Событие выглядело почти невероятно и вызвало серьёзные последствия для советской системы ПВО.",
+      "de": "Das Ereignis wirkte fast unglaublich und hatte ernste Folgen fuer das sowjetische Luftverteidigungssystem.",
+      "en": "The event seemed almost unbelievable and had serious consequences for the Soviet air defense system."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "rust-cold-war-curiosity",
+        "year": 1987,
+        "title": {
+          "ru": "Самый странный полёт холодной войны",
+          "de": "Einer der seltsamsten Fluege des Kalten Krieges",
+          "en": "One of the strangest flights of the Cold War"
+        },
+        "description": {
+          "ru": "Руст говорил, что хотел сделать жест мира. Но с точки зрения безопасности его полёт выглядел как огромный провал системы.",
+          "de": "Rust sagte, er habe ein Friedenszeichen setzen wollen. Aus sicherheitspolitischer Sicht wirkte sein Flug jedoch wie ein gewaltiges Systemversagen.",
+          "en": "Rust said he wanted to make a gesture for peace. From a security perspective, however, his flight looked like a massive system failure."
+        },
+        "importance": {
+          "ru": "Это как раз тот необычный случай, который хорошо оживляет исторический календарь.",
+          "de": "Das ist genau die Art ungewoehnlicher Geschichte, die einen historischen Kalender lebendig macht.",
+          "en": "It is exactly the kind of unusual story that makes a history calendar vivid."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Руст вылетел из Финляндии на самолёте Cessna.",
+    "de": "Rust startete aus Finnland mit einer Cessna.",
+    "en": "Rust took off from Finland in a Cessna."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Mathias Rust",
+      "url": "https://www.britannica.com/biography/Mathias-Rust"
+    },
+    {
+      "label": "History.com: Mathias Rust lands in Moscow",
+      "url": "https://www.history.com/this-day-in-history/may-28/mathias-rust-lands-in-red-square"
+    }
+  ]
+}

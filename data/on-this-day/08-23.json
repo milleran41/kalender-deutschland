@@ -1,0 +1,65 @@
+{
+  "date": "08-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1939-molotov-ribbentrop-pact",
+    "year": 1939,
+    "title": {
+      "ru": "Подписан пакт Молотова-Риббентропа",
+      "de": "Der Hitler-Stalin-Pakt wird unterzeichnet",
+      "en": "The Molotov-Ribbentrop Pact is signed"
+    },
+    "description": {
+      "ru": "23 августа 1939 года нацистская Германия и Советский Союз подписали договор о ненападении. Секретные протоколы разделяли сферы влияния в Восточной Европе.",
+      "de": "Am 23. August 1939 unterzeichneten NS-Deutschland und die Sowjetunion einen Nichtangriffspakt. Geheime Zusatzprotokolle teilten Einflusszonen in Osteuropa auf.",
+      "en": "On 23 August 1939, Nazi Germany and the Soviet Union signed a non-aggression pact. Secret protocols divided spheres of influence in Eastern Europe."
+    },
+    "importance": {
+      "ru": "Пакт открыл путь к нападению Германии на Польшу 1 сентября 1939 года.",
+      "de": "Der Pakt ebnete den Weg fuer den deutschen Angriff auf Polen am 1. September 1939.",
+      "en": "The pact paved the way for Germany's invasion of Poland on 1 September 1939."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "secret-protocols",
+        "year": 1939,
+        "title": {
+          "ru": "Секретные протоколы",
+          "de": "Geheime Zusatzprotokolle",
+          "en": "Secret protocols"
+        },
+        "description": {
+          "ru": "Публично договор выглядел как соглашение о ненападении. Но секретная часть касалась судеб Польши, стран Балтии и других территорий.",
+          "de": "Oeffentlich wirkte der Vertrag wie ein Nichtangriffspakt. Der geheime Teil betraf jedoch das Schicksal Polens, der baltischen Staaten und weiterer Gebiete.",
+          "en": "Publicly, the treaty looked like a non-aggression pact. The secret part concerned the fate of Poland, the Baltic states and other territories."
+        },
+        "importance": {
+          "ru": "Дата показывает, как дипломатические документы могут скрывать будущую катастрофу.",
+          "de": "Das Datum zeigt, wie diplomatische Dokumente eine kommende Katastrophe verbergen koennen.",
+          "en": "The date shows how diplomatic documents can hide an approaching catastrophe."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Европе 23 августа отмечается как день памяти жертв сталинизма и нацизма.",
+    "de": "In Europa gilt der 23. August als Gedenktag fuer die Opfer von Stalinismus und Nationalsozialismus.",
+    "en": "In Europe, 23 August is observed as a day of remembrance for victims of Stalinism and Nazism."
+  },
+  "sources": [
+    {
+      "label": "USHMM: German-Soviet Pact",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact"
+    },
+    {
+      "label": "Britannica: German-Soviet Nonaggression Pact",
+      "url": "https://www.britannica.com/event/German-Soviet-Nonaggression-Pact"
+    }
+  ]
+}

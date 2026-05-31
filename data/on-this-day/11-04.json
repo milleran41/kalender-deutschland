@@ -1,0 +1,65 @@
+{
+  "date": "11-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-alexanderplatz-demonstration",
+    "year": 1989,
+    "title": {
+      "ru": "Массовая демонстрация на Александерплац",
+      "de": "Massendemonstration auf dem Alexanderplatz",
+      "en": "Mass demonstration at Alexanderplatz"
+    },
+    "description": {
+      "ru": "4 ноября 1989 года сотни тысяч людей собрались на Александерплац в Восточном Берлине. Они требовали свободы слова, реформ и политических перемен в ГДР.",
+      "de": "Am 4. November 1989 versammelten sich Hunderttausende Menschen auf dem Alexanderplatz in Ost-Berlin. Sie forderten Meinungsfreiheit, Reformen und politische Veraenderungen in der DDR.",
+      "en": "On 4 November 1989, hundreds of thousands gathered at Alexanderplatz in East Berlin. They demanded free speech, reforms and political change in the GDR."
+    },
+    "importance": {
+      "ru": "Это была одна из крупнейших демонстраций мирной революции в ГДР.",
+      "de": "Das war eine der groessten Demonstrationen der Friedlichen Revolution in der DDR.",
+      "en": "It was one of the largest demonstrations of the Peaceful Revolution in East Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "days-before-wall-fall",
+        "year": 1989,
+        "title": {
+          "ru": "За пять дней до падения стены",
+          "de": "Fuenf Tage vor dem Mauerfall",
+          "en": "Five days before the Wall fell"
+        },
+        "description": {
+          "ru": "Демонстрация прошла всего за несколько дней до 9 ноября. Она показала, что власть СЕПГ уже не контролирует общество так, как раньше.",
+          "de": "Die Demonstration fand nur wenige Tage vor dem 9. November statt. Sie zeigte, dass die SED die Gesellschaft nicht mehr wie frueher kontrollierte.",
+          "en": "The demonstration took place only days before 9 November. It showed that the SED no longer controlled society as before."
+        },
+        "importance": {
+          "ru": "Это помогает увидеть падение стены как результат давления общества, а не случайность одного вечера.",
+          "de": "Das hilft, den Mauerfall als Ergebnis gesellschaftlichen Drucks zu sehen, nicht als Zufall eines Abends.",
+          "en": "It helps show the fall of the Wall as the result of social pressure, not just an accident of one evening."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На митинге выступали писатели, актёры и представители оппозиции.",
+    "de": "Auf der Kundgebung sprachen Schriftsteller, Schauspieler und Vertreter der Opposition.",
+    "en": "Writers, actors and opposition representatives spoke at the rally."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: Alexanderplatz demonstration",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/mass-demonstration-on-alexanderplatz-november-4-1989"
+    },
+    {
+      "label": "bpb: 4 November 1989",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132728/4-november-1989/"
+    }
+  ]
+}

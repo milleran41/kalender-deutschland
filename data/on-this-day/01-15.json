@@ -1,0 +1,65 @@
+{
+  "date": "01-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-luxemburg-liebknecht-killed",
+    "year": 1919,
+    "title": {
+      "ru": "Убиты Роза Люксембург и Карл Либкнехт",
+      "de": "Rosa Luxemburg und Karl Liebknecht werden ermordet",
+      "en": "Rosa Luxemburg and Karl Liebknecht are killed"
+    },
+    "description": {
+      "ru": "15 января 1919 года в Берлине были убиты лидеры левого движения Роза Люксембург и Карл Либкнехт. Это произошло после подавления январского восстания в первые месяцы Веймарской республики.",
+      "de": "Am 15. Januar 1919 wurden in Berlin die linken Fuehrungsfiguren Rosa Luxemburg und Karl Liebknecht ermordet. Dies geschah nach der Niederschlagung des Januaraufstands in den ersten Monaten der Weimarer Republik.",
+      "en": "On 15 January 1919, left-wing leaders Rosa Luxemburg and Karl Liebknecht were killed in Berlin. This happened after the suppression of the January uprising in the first months of the Weimar Republic."
+    },
+    "importance": {
+      "ru": "Дата показывает, насколько бурным и насильственным было рождение первой немецкой демократии.",
+      "de": "Das Datum zeigt, wie unruhig und gewaltsam die Geburt der ersten deutschen Demokratie war.",
+      "en": "The date shows how turbulent and violent the birth of Germany's first democracy was."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "rosa-luxemburg",
+        "year": 1919,
+        "title": {
+          "ru": "Роза Люксембург",
+          "de": "Rosa Luxemburg",
+          "en": "Rosa Luxemburg"
+        },
+        "description": {
+          "ru": "Люксембург была теоретиком социализма, публицисткой и яркой критиком войны. Её тексты до сих пор обсуждают в политической истории Европы.",
+          "de": "Luxemburg war Sozialismustheoretikerin, Publizistin und eine scharfe Kritikerin des Krieges. Ihre Texte werden in der europaeischen politischen Geschichte bis heute diskutiert.",
+          "en": "Luxemburg was a socialist theorist, writer and sharp critic of war. Her writings are still discussed in European political history."
+        },
+        "importance": {
+          "ru": "Её судьба соединяет историю революции, прав человека и политического насилия.",
+          "de": "Ihr Schicksal verbindet Revolutionsgeschichte, Menschenrechte und politische Gewalt.",
+          "en": "Her fate connects revolutionary history, human rights and political violence."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Берлине память о Люксембург и Либкнехте до сих пор связана с ежегодными январскими мероприятиями.",
+    "de": "In Berlin ist die Erinnerung an Luxemburg und Liebknecht bis heute mit jaehrlichen Veranstaltungen im Januar verbunden.",
+    "en": "In Berlin, the memory of Luxemburg and Liebknecht is still linked with annual events in January."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Rosa Luxemburg",
+      "url": "https://www.britannica.com/biography/Rosa-Luxemburg"
+    },
+    {
+      "label": "Britannica: Karl Liebknecht",
+      "url": "https://www.britannica.com/biography/Karl-Liebknecht"
+    }
+  ]
+}

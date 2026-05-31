@@ -1,0 +1,65 @@
+{
+  "date": "06-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1967-benno-ohnesorg-shot",
+    "year": 1967,
+    "title": {
+      "ru": "В Берлине был застрелен Бенно Онезорг",
+      "de": "Benno Ohnesorg wird in Berlin erschossen",
+      "en": "Benno Ohnesorg is shot in Berlin"
+    },
+    "description": {
+      "ru": "2 июня 1967 года студент Бенно Онезорг был смертельно ранен полицейским во время демонстрации против визита шаха Ирана в Западный Берлин. Событие стало переломным для западногерманского студенческого движения.",
+      "de": "Am 2. Juni 1967 wurde der Student Benno Ohnesorg bei einer Demonstration gegen den Besuch des Schahs von Iran in West-Berlin von einem Polizisten erschossen. Das Ereignis wurde zum Wendepunkt der westdeutschen Studentenbewegung.",
+      "en": "On 2 June 1967, student Benno Ohnesorg was fatally shot by a police officer during a demonstration against the Shah of Iran's visit to West Berlin. The event became a turning point for West Germany's student movement."
+    },
+    "importance": {
+      "ru": "Дата помогает понять протестную культуру ФРГ конца 1960-х годов.",
+      "de": "Das Datum hilft, die Protestkultur der Bundesrepublik Ende der 1960er Jahre zu verstehen.",
+      "en": "The date helps explain West Germany's protest culture in the late 1960s."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1968-movement-background",
+        "year": 1967,
+        "title": {
+          "ru": "Предыстория 1968 года",
+          "de": "Vorgeschichte von 1968",
+          "en": "Background to 1968"
+        },
+        "description": {
+          "ru": "Гибель Онезорга усилила недоверие молодых людей к государству, полиции и старым элитам. После этого протесты стали более радикальными.",
+          "de": "Ohnesorgs Tod verstaerkte das Misstrauen junger Menschen gegenueber Staat, Polizei und alten Eliten. Danach radikalisierten sich Teile der Protestbewegung.",
+          "en": "Ohnesorg's death intensified young people's mistrust of the state, police and old elites. Parts of the protest movement became more radical afterward."
+        },
+        "importance": {
+          "ru": "Это показывает, что послевоенная демократия тоже переживала острые внутренние конфликты.",
+          "de": "Das zeigt, dass auch die Nachkriegsdemokratie scharfe innere Konflikte erlebte.",
+          "en": "It shows that postwar democracy also experienced sharp internal conflicts."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дата 2 июня позднее стала частью названия левой радикальной группы «Движение 2 июня».",
+    "de": "Der 2. Juni wurde spaeter Teil des Namens der linksradikalen Gruppe Bewegung 2. Juni.",
+    "en": "The date 2 June later became part of the name of the left-wing radical group Movement 2 June."
+  },
+  "sources": [
+    {
+      "label": "bpb: Benno Ohnesorg",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/248869/vor-50-jahren-tod-benno-ohnesorgs/"
+    },
+    {
+      "label": "Deutsches Historisches Museum: Benno Ohnesorg",
+      "url": "https://www.dhm.de/lemo/biografie/benno-ohnesorg"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "02-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-bombing-of-dresden",
+    "year": 1945,
+    "title": {
+      "ru": "Началась бомбардировка Дрездена",
+      "de": "Die Bombardierung Dresdens beginnt",
+      "en": "The bombing of Dresden begins"
+    },
+    "description": {
+      "ru": "В ночь с 13 на 14 февраля 1945 года британская и американская авиация начала массированные удары по Дрездену. Город был сильно разрушен, погибли десятки тысяч людей.",
+      "de": "In der Nacht vom 13. auf den 14. Februar 1945 begannen britische und amerikanische Luftangriffe auf Dresden. Die Stadt wurde stark zerstoert, Zehntausende Menschen starben.",
+      "en": "On the night of 13-14 February 1945, British and American aircraft began major raids on Dresden. The city was heavily destroyed and tens of thousands died."
+    },
+    "importance": {
+      "ru": "Дрезден стал одним из самых известных символов разрушений воздушной войны.",
+      "de": "Dresden wurde zu einem der bekanntesten Symbole der Zerstoerungen des Luftkriegs.",
+      "en": "Dresden became one of the best-known symbols of destruction caused by air warfare."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "dresden-memory",
+        "year": 1945,
+        "title": {
+          "ru": "Память и споры",
+          "de": "Erinnerung und Streit",
+          "en": "Memory and controversy"
+        },
+        "description": {
+          "ru": "Память о Дрездене долго была предметом споров и политического использования. Сегодня важно помнить жертв, не забывая контекст войны, начатой нацистской Германией.",
+          "de": "Die Erinnerung an Dresden war lange umstritten und politisch benutzt. Heute ist es wichtig, der Opfer zu gedenken, ohne den Kontext des von NS-Deutschland begonnenen Krieges zu vergessen.",
+          "en": "The memory of Dresden was long disputed and politically used. Today it is important to remember the victims while not forgetting the context of the war started by Nazi Germany."
+        },
+        "importance": {
+          "ru": "Это сложная дата, где память требует точности и осторожности.",
+          "de": "Das ist ein schwieriges Datum, bei dem Erinnerung Genauigkeit und Vorsicht verlangt.",
+          "en": "It is a difficult date where memory requires accuracy and care."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Восстановленная Фрауэнкирхе в Дрездене стала символом разрушения, памяти и примирения.",
+    "de": "Die wiederaufgebaute Frauenkirche in Dresden wurde zu einem Symbol von Zerstoerung, Erinnerung und Versoehnung.",
+    "en": "The rebuilt Frauenkirche in Dresden became a symbol of destruction, memory and reconciliation."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Bombing of Dresden",
+      "url": "https://www.britannica.com/event/bombing-of-Dresden"
+    },
+    {
+      "label": "Stadt Dresden: 13 February remembrance",
+      "url": "https://www.dresden.de/en/city/02/13-february.php"
+    }
+  ]
+}
