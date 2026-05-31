@@ -1,0 +1,65 @@
+{
+  "date": "05-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1941-zuse-z3",
+    "year": 1941,
+    "title": {
+      "ru": "Конрад Цузе представил компьютер Z3",
+      "de": "Konrad Zuse praesentiert den Z3",
+      "en": "Konrad Zuse presents the Z3 computer"
+    },
+    "description": {
+      "ru": "12 мая 1941 года немецкий инженер Конрад Цузе представил Z3 в Берлине. Машину часто называют первым работающим программируемым автоматическим цифровым компьютером.",
+      "de": "Am 12. Mai 1941 praesentierte der deutsche Ingenieur Konrad Zuse den Z3 in Berlin. Die Maschine gilt oft als erster funktionsfaehiger programmierbarer automatischer Digitalcomputer.",
+      "en": "On 12 May 1941, German engineer Konrad Zuse presented the Z3 in Berlin. The machine is often described as the first working programmable automatic digital computer."
+    },
+    "importance": {
+      "ru": "Дата показывает, что немецкая инженерная история важна не только для автомобилей и химии, но и для компьютерной техники.",
+      "de": "Das Datum zeigt, dass deutsche Technikgeschichte nicht nur Autos und Chemie, sondern auch Computer umfasst.",
+      "en": "The date shows that German engineering history includes computers, not only cars and chemistry."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "zuse-replica-museum",
+        "year": 1960,
+        "title": {
+          "ru": "Оригинал погиб, но копия сохранила память",
+          "de": "Das Original ging verloren, eine Rekonstruktion blieb",
+          "en": "The original was lost, but a replica preserved the memory"
+        },
+        "description": {
+          "ru": "Оригинальный Z3 был уничтожен во время войны. Позже была создана действующая реконструкция, которую связывают с экспозициями о ранних компьютерах.",
+          "de": "Der originale Z3 wurde im Krieg zerstört. Spaeter entstand eine funktionsfaehige Rekonstruktion, die mit Ausstellungen zur fruehen Computergeschichte verbunden ist.",
+          "en": "The original Z3 was destroyed during the war. A working reconstruction was later built and became part of exhibitions on early computing."
+        },
+        "importance": {
+          "ru": "Иногда историю техники приходится изучать по восстановленным машинам, чертежам и воспоминаниям.",
+          "de": "Manchmal muss Technikgeschichte anhand rekonstruierter Maschinen, Plaene und Erinnerungen erforscht werden.",
+          "en": "Sometimes the history of technology has to be studied through reconstructed machines, plans and memories."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Z3 работал не на микросхемах, а на электромеханических реле.",
+    "de": "Der Z3 arbeitete nicht mit Mikrochips, sondern mit elektromechanischen Relais.",
+    "en": "The Z3 did not use microchips; it worked with electromechanical relays."
+  },
+  "sources": [
+    {
+      "label": "Computer History Museum: Zuse completes Z3",
+      "url": "https://www.computerhistory.org/tdih/may/12/"
+    },
+    {
+      "label": "Konrad Zuse Internet Archive: Z3",
+      "url": "https://zuse.zib.de/z3"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "03-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1879-albert-einstein-born",
+    "year": 1879,
+    "title": {
+      "ru": "Родился Альберт Эйнштейн",
+      "de": "Albert Einstein wird geboren",
+      "en": "Albert Einstein is born"
+    },
+    "description": {
+      "ru": "14 марта 1879 года в Ульме родился Альберт Эйнштейн. Он стал одним из самых известных физиков в истории и получил Нобелевскую премию по физике.",
+      "de": "Am 14. Maerz 1879 wurde Albert Einstein in Ulm geboren. Er wurde einer der bekanntesten Physiker der Geschichte und erhielt den Nobelpreis fuer Physik.",
+      "en": "On 14 March 1879, Albert Einstein was born in Ulm. He became one of the most famous physicists in history and received the Nobel Prize in Physics."
+    },
+    "importance": {
+      "ru": "Его работы изменили понимание пространства, времени, света и энергии.",
+      "de": "Seine Arbeiten veraenderten das Verstaendnis von Raum, Zeit, Licht und Energie.",
+      "en": "His work changed the understanding of space, time, light and energy."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "einstein-nobel",
+        "year": 1921,
+        "title": {
+          "ru": "Нобелевская премия за фотоэффект",
+          "de": "Nobelpreis fuer den photoelektrischen Effekt",
+          "en": "Nobel Prize for the photoelectric effect"
+        },
+        "description": {
+          "ru": "Эйнштейн получил премию не прямо за теорию относительности, а за объяснение фотоэлектрического эффекта. Это открытие стало важным шагом к квантовой физике.",
+          "de": "Einstein erhielt den Preis nicht direkt fuer die Relativitaetstheorie, sondern fuer die Erklaerung des photoelektrischen Effekts. Diese Arbeit war ein wichtiger Schritt zur Quantenphysik.",
+          "en": "Einstein received the prize not directly for relativity but for explaining the photoelectric effect. That work was an important step toward quantum physics."
+        },
+        "importance": {
+          "ru": "Интересно, что самый знаменитый физик получил Нобеля за работу, которую многие школьники сначала даже не связывают с ним.",
+          "de": "Interessant ist, dass der beruehmteste Physiker den Nobelpreis fuer eine Arbeit erhielt, die viele Schueler zunaechst gar nicht mit ihm verbinden.",
+          "en": "It is interesting that the most famous physicist won the Nobel Prize for work many students do not first associate with him."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дата рождения Эйнштейна, 14 марта, в записи 3/14 похожа на число пи, поэтому её часто связывают с Днём числа пи.",
+    "de": "Einsteins Geburtstag, der 14. Maerz, sieht in der Schreibweise 3/14 wie die Zahl Pi aus und wird deshalb oft mit dem Pi-Tag verbunden.",
+    "en": "Einstein's birthday, March 14, is written as 3/14 in some countries, which resembles pi and links the date with Pi Day."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Albert Einstein facts",
+      "url": "https://www.nobelprize.org/laureate/26"
+    },
+    {
+      "label": "Britannica: Albert Einstein",
+      "url": "https://www.britannica.com/biography/Albert-Einstein"
+    }
+  ]
+}

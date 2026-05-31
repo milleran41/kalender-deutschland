@@ -1,0 +1,65 @@
+{
+  "date": "02-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1898-bertolt-brecht-born",
+    "year": 1898,
+    "title": {
+      "ru": "Родился Бертольт Брехт",
+      "de": "Bertolt Brecht wird geboren",
+      "en": "Bertolt Brecht is born"
+    },
+    "description": {
+      "ru": "10 февраля 1898 года в Аугсбурге родился Бертольт Брехт. Он стал одним из самых влиятельных драматургов XX века и реформатором театра.",
+      "de": "Am 10. Februar 1898 wurde Bertolt Brecht in Augsburg geboren. Er wurde einer der einflussreichsten Dramatiker des 20. Jahrhunderts und ein Reformator des Theaters.",
+      "en": "On 10 February 1898, Bertolt Brecht was born in Augsburg. He became one of the most influential playwrights of the twentieth century and a reformer of theatre."
+    },
+    "importance": {
+      "ru": "Брехт изменил представление о том, каким может быть политический и интеллектуальный театр.",
+      "de": "Brecht veraenderte die Vorstellung davon, was politisches und intellektuelles Theater sein kann.",
+      "en": "Brecht changed ideas about what political and intellectual theatre could be."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "brecht-epic-theatre",
+        "year": 1898,
+        "title": {
+          "ru": "Будущий создатель эпического театра",
+          "de": "Der spaetere Begruender des epischen Theaters",
+          "en": "The future creator of epic theatre"
+        },
+        "description": {
+          "ru": "Брехт хотел, чтобы зритель не только переживал историю, но и думал о причинах событий. Его пьесы до сих пор ставят по всему миру.",
+          "de": "Brecht wollte, dass Zuschauer nicht nur mitfuehlen, sondern ueber Ursachen von Ereignissen nachdenken. Seine Stuecke werden bis heute weltweit gespielt.",
+          "en": "Brecht wanted audiences not only to feel a story but also to think about why events happen. His plays are still staged around the world."
+        },
+        "importance": {
+          "ru": "Это делает его важной фигурой не только немецкой, но и мировой культуры.",
+          "de": "Das macht ihn zu einer wichtigen Figur nicht nur der deutschen, sondern der Weltkultur.",
+          "en": "That makes him important not only for German culture but for world culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Аугсбург сегодня бережно использует связь с Брехтом: в городе есть дом-музей и фестивальные проекты, посвящённые его наследию.",
+    "de": "Augsburg pflegt die Verbindung zu Brecht: In der Stadt gibt es ein Brechthaus und Festivalprojekte zu seinem Erbe.",
+    "en": "Augsburg maintains its connection with Brecht through a Brecht House and festival projects dedicated to his legacy."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Bertolt Brecht",
+      "url": "https://www.britannica.com/biography/Bertolt-Brecht"
+    },
+    {
+      "label": "Stadt Augsburg: Brechthaus",
+      "url": "https://www.augsburg.de/kultur/museen-galerien/brechthaus"
+    }
+  ]
+}

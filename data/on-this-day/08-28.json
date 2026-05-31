@@ -1,0 +1,65 @@
+{
+  "date": "08-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1749-goethe-born",
+    "year": 1749,
+    "title": {
+      "ru": "Родился Иоганн Вольфганг Гёте",
+      "de": "Johann Wolfgang von Goethe wird geboren",
+      "en": "Johann Wolfgang von Goethe is born"
+    },
+    "description": {
+      "ru": "28 августа 1749 года во Франкфурте-на-Майне родился Иоганн Вольфганг Гёте. Он стал одним из главных писателей немецкой литературы.",
+      "de": "Am 28. August 1749 wurde Johann Wolfgang von Goethe in Frankfurt am Main geboren. Er wurde einer der wichtigsten Schriftsteller der deutschen Literatur.",
+      "en": "On 28 August 1749, Johann Wolfgang von Goethe was born in Frankfurt am Main. He became one of the most important writers in German literature."
+    },
+    "importance": {
+      "ru": "Без Гёте трудно представить немецкую культуру, школьную литературу и образ Веймара как культурного центра.",
+      "de": "Ohne Goethe sind deutsche Kultur, Schullektuere und Weimar als Kulturort kaum vorstellbar.",
+      "en": "German culture, school literature and Weimar's image as a cultural center are hard to imagine without Goethe."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "goethe-faust",
+        "year": 1808,
+        "title": {
+          "ru": "«Фауст» стал литературным символом",
+          "de": "Faust wird zum literarischen Symbol",
+          "en": "Faust becomes a literary symbol"
+        },
+        "description": {
+          "ru": "Главное произведение Гёте, «Фауст», создавалось много лет. Оно стало одним из самых известных текстов немецкой литературы.",
+          "de": "Goethes Hauptwerk Faust entstand ueber viele Jahre. Es wurde zu einem der bekanntesten Texte der deutschen Literatur.",
+          "en": "Goethe's major work Faust was written over many years. It became one of the best-known texts in German literature."
+        },
+        "importance": {
+          "ru": "Через Гёте немецкий язык получил автора мирового масштаба.",
+          "de": "Mit Goethe erhielt die deutsche Sprache einen Autor von Weltrang.",
+          "en": "Through Goethe, the German language gained an author of world stature."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гёте был не только писателем: он занимался естествознанием, театром, управлением и коллекционированием.",
+    "de": "Goethe war nicht nur Schriftsteller: Er beschaeftigte sich mit Naturwissenschaft, Theater, Verwaltung und Sammlungen.",
+    "en": "Goethe was not only a writer: he worked on natural science, theatre, administration and collections."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Johann Wolfgang von Goethe",
+      "url": "https://www.britannica.com/biography/Johann-Wolfgang-von-Goethe"
+    },
+    {
+      "label": "Goethe National Museum",
+      "url": "https://www.klassik-stiftung.de/en/goethe-national-museum/"
+    }
+  ]
+}

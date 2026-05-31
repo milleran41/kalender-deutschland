@@ -1,0 +1,65 @@
+{
+  "date": "12-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1770-beethoven-baptized",
+    "year": 1770,
+    "title": {
+      "ru": "Крещён Людвиг ван Бетховен",
+      "de": "Ludwig van Beethoven wird getauft",
+      "en": "Ludwig van Beethoven is baptized"
+    },
+    "description": {
+      "ru": "17 декабря 1770 года в Бонне был крещён Людвиг ван Бетховен. Точная дата рождения неизвестна, но обычно считают, что он родился незадолго до крещения.",
+      "de": "Am 17. Dezember 1770 wurde Ludwig van Beethoven in Bonn getauft. Sein genaues Geburtsdatum ist unbekannt, doch meist wird angenommen, dass er kurz vor der Taufe geboren wurde.",
+      "en": "On 17 December 1770, Ludwig van Beethoven was baptized in Bonn. His exact birth date is unknown, but he is usually thought to have been born shortly before the baptism."
+    },
+    "importance": {
+      "ru": "Бетховен стал одним из величайших композиторов Европы и навсегда связал Бонн с мировой музыкой.",
+      "de": "Beethoven wurde einer der groessten Komponisten Europas und verband Bonn dauerhaft mit der Weltmusik.",
+      "en": "Beethoven became one of Europe's greatest composers and permanently linked Bonn with world music."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "beethoven-bonn-house",
+        "year": 1770,
+        "title": {
+          "ru": "Бонн хранит память о композиторе",
+          "de": "Bonn bewahrt die Erinnerung an den Komponisten",
+          "en": "Bonn preserves the composer's memory"
+        },
+        "description": {
+          "ru": "Дом Бетховена в Бонне сегодня является музеем. Это одно из самых известных музыкальных мест Германии.",
+          "de": "Das Beethoven-Haus in Bonn ist heute ein Museum. Es gehoert zu den bekanntesten Musikorten Deutschlands.",
+          "en": "The Beethoven House in Bonn is now a museum. It is one of Germany's best-known musical sites."
+        },
+        "importance": {
+          "ru": "Так город на Рейне стал частью культурной карты всего мира.",
+          "de": "So wurde die Stadt am Rhein Teil der kulturellen Weltkarte.",
+          "en": "The city on the Rhine became part of the world's cultural map."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бетховен долго думал, что родился в 1772 году; документы о крещении помогли уточнить дату.",
+    "de": "Beethoven glaubte lange, er sei 1772 geboren; Taufdokumente halfen, das Datum zu klaeren.",
+    "en": "Beethoven long believed he had been born in 1772; baptism records helped clarify the date."
+  },
+  "sources": [
+    {
+      "label": "Beethoven-Haus Bonn: Timeline",
+      "url": "https://www.beethoven.de/en/g/zeittafel-beethoven-in-bonn"
+    },
+    {
+      "label": "Britannica: Beethoven facts",
+      "url": "https://www.britannica.com/facts/Ludwig-van-Beethoven"
+    }
+  ]
+}

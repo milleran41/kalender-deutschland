@@ -1,0 +1,65 @@
+{
+  "date": "05-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1818-karl-marx-born",
+    "year": 1818,
+    "title": {
+      "ru": "Родился Карл Маркс",
+      "de": "Karl Marx wird geboren",
+      "en": "Karl Marx is born"
+    },
+    "description": {
+      "ru": "5 мая 1818 года в Трире родился Карл Маркс. Он стал философом, экономистом и политическим мыслителем, чьи идеи сильно повлияли на историю XIX и XX веков.",
+      "de": "Am 5. Mai 1818 wurde Karl Marx in Trier geboren. Er wurde Philosoph, Oekonom und politischer Denker, dessen Ideen die Geschichte des 19. und 20. Jahrhunderts stark beeinflussten.",
+      "en": "On 5 May 1818, Karl Marx was born in Trier. He became a philosopher, economist and political thinker whose ideas strongly influenced nineteenth- and twentieth-century history."
+    },
+    "importance": {
+      "ru": "Его труды стали основой марксизма и повлияли на рабочее движение, революции и политические споры по всему миру.",
+      "de": "Seine Schriften wurden zur Grundlage des Marxismus und beeinflussten Arbeiterbewegungen, Revolutionen und politische Debatten weltweit.",
+      "en": "His writings became the basis of Marxism and influenced labor movements, revolutions and political debates around the world."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "marx-house-trier",
+        "year": 1818,
+        "title": {
+          "ru": "Дом Маркса стал музеем",
+          "de": "Das Geburtshaus wurde zum Museum",
+          "en": "His birthplace became a museum"
+        },
+        "description": {
+          "ru": "Дом в Трире, где родился Маркс, сегодня работает как музей. В нём рассказывают не только о биографии Маркса, но и о мировой истории его идей.",
+          "de": "Das Haus in Trier, in dem Marx geboren wurde, ist heute ein Museum. Es erzaehlt nicht nur seine Biografie, sondern auch die weltweite Geschichte seiner Ideen.",
+          "en": "The house in Trier where Marx was born is now a museum. It presents not only his biography but also the global history of his ideas."
+        },
+        "importance": {
+          "ru": "Так маленький адрес в городе на Мозеле стал частью большой мировой истории.",
+          "de": "So wurde eine kleine Adresse an der Mosel Teil grosser Weltgeschichte.",
+          "en": "A small address on the Moselle became part of world history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Трир часто связывают с римской древностью, но для многих туристов он ещё и город Карла Маркса.",
+    "de": "Trier wird oft mit der roemischen Antike verbunden, ist fuer viele Besucher aber auch die Stadt von Karl Marx.",
+    "en": "Trier is often associated with Roman antiquity, but for many visitors it is also the city of Karl Marx."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Karl Marx",
+      "url": "https://www.britannica.com/biography/Karl-Marx"
+    },
+    {
+      "label": "Friedrich Ebert Foundation: Karl-Marx-Haus",
+      "url": "https://www.fes.de/en/karl-marx-haus"
+    }
+  ]
+}

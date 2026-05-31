@@ -1,0 +1,65 @@
+{
+  "date": "07-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1954-miracle-of-bern",
+    "year": 1954,
+    "title": {
+      "ru": "«Чудо в Берне»",
+      "de": "Das Wunder von Bern",
+      "en": "The Miracle of Bern"
+    },
+    "description": {
+      "ru": "4 июля 1954 года сборная ФРГ победила Венгрию 3:2 в финале чемпионата мира по футболу. Победа стала неожиданной и получила название «Чудо в Берне».",
+      "de": "Am 4. Juli 1954 besiegte die deutsche Mannschaft Ungarn im WM-Finale mit 3:2. Der ueberraschende Sieg wurde als Wunder von Bern bekannt.",
+      "en": "On 4 July 1954, West Germany beat Hungary 3-2 in the FIFA World Cup final. The unexpected victory became known as the Miracle of Bern."
+    },
+    "importance": {
+      "ru": "Для послевоенной ФРГ эта победа стала важным эмоциональным событием и частью национальной памяти.",
+      "de": "Fuer die Nachkriegs-Bundesrepublik wurde dieser Sieg zu einem wichtigen emotionalen Ereignis und Teil der nationalen Erinnerung.",
+      "en": "For postwar West Germany, the victory became an important emotional event and part of national memory."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "1954-hungary-favourites",
+        "year": 1954,
+        "title": {
+          "ru": "Победа над фаворитом",
+          "de": "Sieg gegen den Favoriten",
+          "en": "Victory over the favorite"
+        },
+        "description": {
+          "ru": "Венгерская команда считалась одной из сильнейших в мире. Поэтому немецкая победа выглядела почти невероятной.",
+          "de": "Die ungarische Mannschaft galt als eine der staerksten der Welt. Deshalb wirkte der deutsche Sieg fast unglaublich.",
+          "en": "The Hungarian team was regarded as one of the strongest in the world. That made the German victory seem almost unbelievable."
+        },
+        "importance": {
+          "ru": "Так спортивный матч стал событием, которое обсуждают далеко за пределами футбола.",
+          "de": "So wurde ein Fussballspiel zu einem Ereignis, das weit ueber den Sport hinaus erinnert wird.",
+          "en": "A football match became an event remembered far beyond sport."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Финал проходил не в Германии, а в швейцарском Берне.",
+    "de": "Das Finale fand nicht in Deutschland statt, sondern im schweizerischen Bern.",
+    "en": "The final was not played in Germany but in Bern, Switzerland."
+  },
+  "sources": [
+    {
+      "label": "FIFA: 1954 World Cup final highlights",
+      "url": "https://www.plus.fifa.com/en/content/429fe804-cd82-4b34-a09c-41131953b570"
+    },
+    {
+      "label": "Britannica: FIFA World Cup",
+      "url": "https://www.britannica.com/sports/World-Cup-football"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "08-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1932-cologne-bonn-road",
+    "year": 1932,
+    "title": {
+      "ru": "Открыта трасса Кёльн-Бонн",
+      "de": "Die Kraftfahrstrasse Koeln-Bonn wird freigegeben",
+      "en": "The Cologne-Bonn motor road opens"
+    },
+    "description": {
+      "ru": "6 августа 1932 года была открыта скоростная дорога между Кёльном и Бонном. Её часто называют первой немецкой автомагистралью такого типа.",
+      "de": "Am 6. August 1932 wurde die Kraftfahrstrasse zwischen Koeln und Bonn freigegeben. Sie wird oft als erste deutsche Autobahn dieser Art bezeichnet.",
+      "en": "On 6 August 1932, the motor road between Cologne and Bonn opened. It is often described as Germany's first road of this autobahn-like type."
+    },
+    "importance": {
+      "ru": "Дата напоминает, что история автобанов началась ещё до прихода нацистов к власти.",
+      "de": "Das Datum erinnert daran, dass die Geschichte der Autobahnen schon vor der Machtuebernahme der Nationalsozialisten begann.",
+      "en": "The date is a reminder that autobahn history began before the Nazis came to power."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1932-adenauer-opening",
+        "year": 1932,
+        "title": {
+          "ru": "Дорогу открыл Конрад Аденауэр",
+          "de": "Konrad Adenauer eroeffnete die Strecke",
+          "en": "Konrad Adenauer opened the route"
+        },
+        "description": {
+          "ru": "Открытие связано с Конрадом Аденауэром, тогда обер-бургомистром Кёльна. Позднее он стал первым канцлером ФРГ.",
+          "de": "Die Eroeffnung ist mit Konrad Adenauer verbunden, damals Oberbuergermeister von Koeln. Spaeter wurde er der erste Bundeskanzler der Bundesrepublik.",
+          "en": "The opening is linked to Konrad Adenauer, then mayor of Cologne. He later became West Germany's first chancellor."
+        },
+        "importance": {
+          "ru": "Одна дата неожиданно соединяет транспортную историю и большую политику.",
+          "de": "Ein Datum verbindet hier Verkehrsgeschichte und grosse Politik.",
+          "en": "One date unexpectedly connects transport history with high politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Сегодня этот маршрут связан с федеральной автомагистралью A555.",
+    "de": "Heute ist die Strecke mit der Bundesautobahn A555 verbunden.",
+    "en": "Today the route is associated with the A555 federal autobahn."
+  },
+  "sources": [
+    {
+      "label": "Archive im Rheinland: Koeln-Bonn road",
+      "url": "https://afz.lvr.de/de/archiv_des_lvr/dokument_des_monats/dokument_2014_08/2014_08.html"
+    },
+    {
+      "label": "Bonn.wiki: 1932",
+      "url": "https://bonn.wiki/wiki/1932"
+    }
+  ]
+}

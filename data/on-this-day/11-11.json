@@ -1,0 +1,65 @@
+{
+  "date": "11-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-armistice",
+    "year": 1918,
+    "title": {
+      "ru": "Перемирие завершило боевые действия Первой мировой войны",
+      "de": "Der Waffenstillstand beendet die Kampfhandlungen des Ersten Weltkriegs",
+      "en": "The armistice ends the fighting of the First World War"
+    },
+    "description": {
+      "ru": "11 ноября 1918 года вступило в силу перемирие между Германией и странами Антанты. На Западном фронте закончились боевые действия Первой мировой войны.",
+      "de": "Am 11. November 1918 trat der Waffenstillstand zwischen Deutschland und den Alliierten in Kraft. An der Westfront endeten die Kampfhandlungen des Ersten Weltkriegs.",
+      "en": "On 11 November 1918, the armistice between Germany and the Allies took effect. Fighting on the Western Front of the First World War ended."
+    },
+    "importance": {
+      "ru": "Для Германии это стало началом тяжёлого послевоенного периода и политических конфликтов Веймарской республики.",
+      "de": "Fuer Deutschland begann damit eine schwierige Nachkriegszeit mit politischen Konflikten in der Weimarer Republik.",
+      "en": "For Germany, it began a difficult postwar period and the political conflicts of the Weimar Republic."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1918-compiegne",
+        "year": 1918,
+        "title": {
+          "ru": "Перемирие подписали в Компьенском лесу",
+          "de": "Unterzeichnung im Wald von Compiegne",
+          "en": "Signed in the Forest of Compiegne"
+        },
+        "description": {
+          "ru": "Документ подписали в железнодорожном вагоне во Франции. Позднее это место стало сильным символом памяти и реванша.",
+          "de": "Das Dokument wurde in einem Eisenbahnwagen in Frankreich unterzeichnet. Spaeter wurde dieser Ort zu einem starken Symbol von Erinnerung und Revanche.",
+          "en": "The document was signed in a railway carriage in France. The place later became a powerful symbol of memory and revenge."
+        },
+        "importance": {
+          "ru": "История этого места показывает, как символы могут влиять на политику.",
+          "de": "Die Geschichte dieses Ortes zeigt, wie Symbole Politik beeinflussen koennen.",
+          "en": "The history of the place shows how symbols can influence politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В нескольких странах 11 ноября стало днём памяти погибших в войнах; в Германии эта дата связана ещё и с началом карнавального сезона.",
+    "de": "In mehreren Laendern ist der 11. November ein Gedenktag fuer Kriegstote; in Deutschland ist er zugleich mit dem Beginn der Karnevalssaison verbunden.",
+    "en": "In several countries, 11 November is a remembrance day for war dead; in Germany it is also linked with the start of carnival season."
+  },
+  "sources": [
+    {
+      "label": "Britannica: World War I armistice",
+      "url": "https://www.britannica.com/event/World-War-I/The-end-of-the-German-war"
+    },
+    {
+      "label": "National WWI Museum: Nov. 11, 1918",
+      "url": "https://www.theworldwar.org/learn/about-wwi/nov-11-1918"
+    }
+  ]
+}

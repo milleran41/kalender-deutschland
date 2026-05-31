@@ -1,0 +1,65 @@
+{
+  "date": "06-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1948-berlin-airlift-begins",
+    "year": 1948,
+    "title": {
+      "ru": "Начался Берлинский воздушный мост",
+      "de": "Die Berliner Luftbruecke beginnt",
+      "en": "The Berlin Airlift begins"
+    },
+    "description": {
+      "ru": "26 июня 1948 года западные союзники начали доставлять грузы в Западный Берлин по воздуху после советской блокады. Самолёты привозили продукты, уголь и лекарства.",
+      "de": "Am 26. Juni 1948 begannen die Westalliierten, West-Berlin nach der sowjetischen Blockade aus der Luft zu versorgen. Flugzeuge brachten Lebensmittel, Kohle und Medikamente.",
+      "en": "On 26 June 1948, the Western Allies began supplying West Berlin by air after the Soviet blockade. Aircraft carried food, coal and medicine."
+    },
+    "importance": {
+      "ru": "Воздушный мост стал одним из первых крупных кризисов холодной войны и символом поддержки Западного Берлина.",
+      "de": "Die Luftbruecke wurde zu einer der ersten grossen Krisen des Kalten Krieges und zum Symbol der Unterstuetzung fuer West-Berlin.",
+      "en": "The airlift became one of the first major Cold War crises and a symbol of support for West Berlin."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "candy-bombers",
+        "year": 1948,
+        "title": {
+          "ru": "«Изюмные бомбардировщики»",
+          "de": "Rosinenbomber",
+          "en": "Candy bombers"
+        },
+        "description": {
+          "ru": "Часть самолётов получила в Германии прозвище «изюмные бомбардировщики». Особенно запомнились маленькие парашюты со сладостями для берлинских детей.",
+          "de": "Einige Flugzeuge wurden in Deutschland Rosinenbomber genannt. Besonders in Erinnerung blieben kleine Fallschirme mit Suessigkeiten fuer Berliner Kinder.",
+          "en": "Some aircraft became known in Germany as raisin bombers. Small parachutes carrying sweets for Berlin children became especially memorable."
+        },
+        "importance": {
+          "ru": "Это необычная человеческая деталь внутри большого политического кризиса.",
+          "de": "Das ist ein ungewoehnlich menschliches Detail in einer grossen politischen Krise.",
+          "en": "It is an unusually human detail within a major political crisis."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Берлинский воздушный мост продолжался больше года и стал огромной логистической операцией.",
+    "de": "Die Berliner Luftbruecke dauerte mehr als ein Jahr und wurde zu einer riesigen logistischen Operation.",
+    "en": "The Berlin Airlift lasted more than a year and became a huge logistical operation."
+  },
+  "sources": [
+    {
+      "label": "NATO: The Berlin Airlift",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_156163.htm"
+    },
+    {
+      "label": "US Air Force Historical Support Division: Berlin Airlift",
+      "url": "https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/458961/the-berlin-airlift/"
+    }
+  ]
+}

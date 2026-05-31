@@ -1,0 +1,65 @@
+{
+  "date": "03-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2015-germanwings-crash",
+    "year": 2015,
+    "title": {
+      "ru": "Катастрофа рейса Germanwings 9525",
+      "de": "Absturz von Germanwings-Flug 9525",
+      "en": "Crash of Germanwings Flight 9525"
+    },
+    "description": {
+      "ru": "24 марта 2015 года самолёт Germanwings, летевший из Барселоны в Дюссельдорф, разбился во французских Альпах. Погибли все 150 человек на борту.",
+      "de": "Am 24. Maerz 2015 stuerzte ein Germanwings-Flug von Barcelona nach Duesseldorf in den franzoesischen Alpen ab. Alle 150 Menschen an Bord kamen ums Leben.",
+      "en": "On 24 March 2015, a Germanwings flight from Barcelona to Duesseldorf crashed in the French Alps. All 150 people on board died."
+    },
+    "importance": {
+      "ru": "Трагедия привела к новым обсуждениям авиационной безопасности, медицины пилотов и правил доступа в кабину.",
+      "de": "Die Tragödie fuehrte zu neuen Diskussionen ueber Flugsicherheit, die medizinische Betreuung von Piloten und Cockpitregeln.",
+      "en": "The tragedy led to new debates about aviation safety, pilot medical screening and cockpit access rules."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "2015-haltern-school-group",
+        "year": 2015,
+        "title": {
+          "ru": "Город Хальтерн-ам-Зе сильно пострадал",
+          "de": "Haltern am See war besonders betroffen",
+          "en": "Haltern am See was especially affected"
+        },
+        "description": {
+          "ru": "Среди погибших была школьная группа из Хальтерна-ам-Зе в Северном Рейне-Вестфалии. Поэтому трагедия особенно сильно отозвалась в этом небольшом городе.",
+          "de": "Unter den Opfern war eine Schuelergruppe aus Haltern am See in Nordrhein-Westfalen. Deshalb traf die Katastrophe diese kleinere Stadt besonders hart.",
+          "en": "Among the victims was a school group from Haltern am See in North Rhine-Westphalia. The disaster therefore hit that smaller town especially hard."
+        },
+        "importance": {
+          "ru": "Это не забавный случай, а пример того, как большое происшествие становится личной трагедией целого города.",
+          "de": "Das ist kein lustiger Fall, sondern ein Beispiel dafuer, wie ein grosses Unglueck zur persoenlichen Tragödie einer ganzen Stadt wird.",
+          "en": "This is not a funny curiosity but an example of how a major incident becomes the personal tragedy of a whole town."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Это одна из самых известных авиационных катастроф, связанных с немецкой авиакомпанией, в XXI веке.",
+    "de": "Es ist eine der bekanntesten Flugkatastrophen mit Bezug zu einer deutschen Fluggesellschaft im 21. Jahrhundert.",
+    "en": "It is one of the best-known air disasters involving a German airline in the twenty-first century."
+  },
+  "sources": [
+    {
+      "label": "History.com: Germanwings crash",
+      "url": "https://www.history.com/this-day-in-history/march-24/germanwings-pilot-intentionally-crashes-plane-killing-150-people"
+    },
+    {
+      "label": "AP: Germanwings anniversary",
+      "url": "https://apnews.com/article/5b641358e1642a3f7a9e29d9c176fd60"
+    }
+  ]
+}

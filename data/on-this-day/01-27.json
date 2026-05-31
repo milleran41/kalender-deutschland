@@ -1,0 +1,65 @@
+{
+  "date": "01-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-auschwitz-liberated",
+    "year": 1945,
+    "title": {
+      "ru": "Освобождён концлагерь Аушвиц",
+      "de": "Das Konzentrationslager Auschwitz wird befreit",
+      "en": "Auschwitz concentration camp is liberated"
+    },
+    "description": {
+      "ru": "27 января 1945 года советские войска освободили комплекс лагерей Аушвиц. Это место стало одним из главных символов Холокоста и преступлений нацистской Германии.",
+      "de": "Am 27. Januar 1945 befreiten sowjetische Truppen den Lagerkomplex Auschwitz. Der Ort wurde zu einem der wichtigsten Symbole des Holocaust und der Verbrechen NS-Deutschlands.",
+      "en": "On 27 January 1945, Soviet troops liberated the Auschwitz camp complex. The site became one of the central symbols of the Holocaust and Nazi Germany's crimes."
+    },
+    "importance": {
+      "ru": "В Германии 27 января является днём памяти жертв национал-социализма.",
+      "de": "In Deutschland ist der 27. Januar der Tag des Gedenkens an die Opfer des Nationalsozialismus.",
+      "en": "In Germany, 27 January is the day of remembrance for the victims of National Socialism."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1996-german-remembrance-day",
+        "year": 1996,
+        "title": {
+          "ru": "День памяти в Германии",
+          "de": "Gedenktag in Deutschland",
+          "en": "A remembrance day in Germany"
+        },
+        "description": {
+          "ru": "В 1996 году 27 января был официально установлен в Германии как день памяти жертв нацистского режима. В этот день проходят церемонии, уроки памяти и выступления в парламенте.",
+          "de": "1996 wurde der 27. Januar in Deutschland offiziell als Gedenktag fuer die Opfer des NS-Regimes eingefuehrt. An diesem Tag finden Gedenkfeiern, Unterrichtsprojekte und Reden im Parlament statt.",
+          "en": "In 1996, Germany officially made 27 January a remembrance day for the victims of the Nazi regime. Ceremonies, school projects and parliamentary speeches are held on this date."
+        },
+        "importance": {
+          "ru": "Дата показывает, как современная Германия работает с памятью о преступлениях прошлого.",
+          "de": "Das Datum zeigt, wie das heutige Deutschland mit der Erinnerung an vergangene Verbrechen umgeht.",
+          "en": "The date shows how modern Germany deals with the memory of past crimes."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "27 января также является Международным днём памяти жертв Холокоста.",
+    "de": "Der 27. Januar ist auch der Internationale Tag des Gedenkens an die Opfer des Holocaust.",
+    "en": "27 January is also International Holocaust Remembrance Day."
+  },
+  "sources": [
+    {
+      "label": "Auschwitz-Birkenau Memorial: Liberation",
+      "url": "https://www.auschwitz.org/en/history/liberation/"
+    },
+    {
+      "label": "Deutscher Bundestag: Remembrance Day",
+      "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/remembrance"
+    }
+  ]
+}
