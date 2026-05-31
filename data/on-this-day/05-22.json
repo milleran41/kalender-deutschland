@@ -1,0 +1,65 @@
+{
+  "date": "05-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1813-richard-wagner-born",
+    "year": 1813,
+    "title": {
+      "ru": "Родился Рихард Вагнер",
+      "de": "Richard Wagner wird geboren",
+      "en": "Richard Wagner is born"
+    },
+    "description": {
+      "ru": "22 мая 1813 года в Лейпциге родился композитор Рихард Вагнер. Его оперы и музыкальные идеи сильно повлияли на развитие европейской музыки.",
+      "de": "Am 22. Mai 1813 wurde der Komponist Richard Wagner in Leipzig geboren. Seine Opern und musikalischen Ideen beeinflussten die europaeische Musik stark.",
+      "en": "On 22 May 1813, composer Richard Wagner was born in Leipzig. His operas and musical ideas had a strong influence on European music."
+    },
+    "importance": {
+      "ru": "Вагнер связан с Байройтом, музыкальной драмой и одним из самых спорных наследий немецкой культуры.",
+      "de": "Wagner ist mit Bayreuth, dem Musikdrama und einem der umstrittensten Erben deutscher Kultur verbunden.",
+      "en": "Wagner is linked with Bayreuth, music drama and one of the most debated legacies in German culture."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "bayreuth-festival",
+        "year": 1876,
+        "title": {
+          "ru": "Байройтский фестиваль",
+          "de": "Bayreuther Festspiele",
+          "en": "Bayreuth Festival"
+        },
+        "description": {
+          "ru": "Вагнер создал в Байройте театр для исполнения своих произведений. Фестиваль до сих пор остаётся важным событием музыкального мира.",
+          "de": "Wagner schuf in Bayreuth ein Theater fuer seine Werke. Die Festspiele sind bis heute ein wichtiges Ereignis der Musikwelt.",
+          "en": "Wagner created a theatre in Bayreuth for his works. The festival remains an important event in the musical world."
+        },
+        "importance": {
+          "ru": "Это пример того, как один композитор смог изменить не только музыку, но и театр.",
+          "de": "Das ist ein Beispiel dafuer, wie ein Komponist nicht nur Musik, sondern auch Theater veraenderte.",
+          "en": "It is an example of one composer changing not only music but theatre."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Наследие Вагнера часто обсуждают не только из-за музыки, но и из-за его антисемитских взглядов и позднейшего использования его образа нацистами.",
+    "de": "Wagners Erbe wird nicht nur wegen seiner Musik diskutiert, sondern auch wegen seines Antisemitismus und der spaeteren Vereinnahmung durch die Nationalsozialisten.",
+    "en": "Wagner's legacy is debated not only because of his music but also because of his antisemitism and later appropriation by the Nazis."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Richard Wagner",
+      "url": "https://www.britannica.com/biography/Richard-Wagner-German-composer"
+    },
+    {
+      "label": "Bayreuth Festival: history",
+      "url": "https://www.bayreuther-festspiele.de/en/festival/history/"
+    }
+  ]
+}

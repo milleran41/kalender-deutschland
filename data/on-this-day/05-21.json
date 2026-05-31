@@ -1,0 +1,65 @@
+{
+  "date": "05-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1471-albrecht-duerer-born",
+    "year": 1471,
+    "title": {
+      "ru": "Родился Альбрехт Дюрер",
+      "de": "Albrecht Duerer wird geboren",
+      "en": "Albrecht Duerer is born"
+    },
+    "description": {
+      "ru": "21 мая 1471 года в Нюрнберге родился Альбрехт Дюрер. Он стал одним из крупнейших художников и графиков немецкого Возрождения.",
+      "de": "Am 21. Mai 1471 wurde Albrecht Duerer in Nuernberg geboren. Er wurde einer der bedeutendsten Maler und Grafiker der deutschen Renaissance.",
+      "en": "On 21 May 1471, Albrecht Duerer was born in Nuremberg. He became one of the greatest painters and printmakers of the German Renaissance."
+    },
+    "importance": {
+      "ru": "Дюрер сделал немецкое искусство частью общеевропейского Возрождения.",
+      "de": "Duerer machte deutsche Kunst zu einem Teil der gesamteuropaeischen Renaissance.",
+      "en": "Duerer made German art part of the wider European Renaissance."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "duerer-printmaking",
+        "year": 1471,
+        "title": {
+          "ru": "Мастер гравюры",
+          "de": "Meister des Drucks",
+          "en": "Master of printmaking"
+        },
+        "description": {
+          "ru": "Дюрер прославился не только живописью, но и гравюрами, которые можно было распространять шире, чем уникальные картины. Так искусство стало мобильнее.",
+          "de": "Duerer wurde nicht nur durch Malerei, sondern auch durch Druckgrafik beruehmt, die weiter verbreitet werden konnte als einzelne Gemaelde. So wurde Kunst mobiler.",
+          "en": "Duerer became famous not only for painting but also for prints, which could circulate more widely than unique paintings. Art became more mobile."
+        },
+        "importance": {
+          "ru": "Это связывает искусство с историей печати и массового распространения образов.",
+          "de": "Das verbindet Kunst mit der Geschichte des Drucks und der Verbreitung von Bildern.",
+          "en": "It links art with the history of printing and the spread of images."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Нюрнберг хранит дом-музей Дюрера как одну из городских достопримечательностей.",
+    "de": "Nuernberg bewahrt das Duererhaus als eine seiner Sehenswuerdigkeiten.",
+    "en": "Nuremberg preserves Duerer's house as one of the city's landmarks."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Albrecht Duerer",
+      "url": "https://www.britannica.com/biography/Albrecht-Durer-German-artist"
+    },
+    {
+      "label": "Museums Nuremberg: Albrecht Duerer's House",
+      "url": "https://museums.nuernberg.de/albrecht-duerer-house/"
+    }
+  ]
+}

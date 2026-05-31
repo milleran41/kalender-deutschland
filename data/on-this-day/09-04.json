@@ -1,0 +1,65 @@
+{
+  "date": "09-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-currywurst-berlin-claim",
+    "year": 1949,
+    "title": {
+      "ru": "Берлинская версия рождения карривурста",
+      "de": "Berliner Version der Currywurst-Erfindung",
+      "en": "Berlin's version of the invention of currywurst"
+    },
+    "description": {
+      "ru": "По берлинской версии, 4 сентября 1949 года Герта Хойвер придумала соус для карривурста в своём киоске в Шарлоттенбурге. История происхождения блюда спорная, но берлинская версия стала самой известной.",
+      "de": "Nach Berliner Darstellung erfand Herta Heuwer am 4. September 1949 in ihrem Imbiss in Charlottenburg die Sauce fuer die Currywurst. Die Herkunftsgeschichte ist umstritten, doch die Berliner Version ist die bekannteste.",
+      "en": "According to Berlin's version, on 4 September 1949 Herta Heuwer invented the sauce for currywurst at her snack stand in Charlottenburg. The origin story is disputed, but the Berlin version is the best known."
+    },
+    "importance": {
+      "ru": "Это лёгкая, но очень узнаваемая часть послевоенной городской культуры Германии.",
+      "de": "Das ist ein leichter, aber sehr wiedererkennbarer Teil der deutschen Nachkriegskultur.",
+      "en": "It is a light but very recognizable part of Germany's postwar urban culture."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "currywurst-origin-dispute",
+        "year": 1949,
+        "title": {
+          "ru": "Городская легенда с соусом",
+          "de": "Eine Stadtlegende mit Sauce",
+          "en": "An urban legend with sauce"
+        },
+        "description": {
+          "ru": "На изобретение карривурста претендуют разные места, включая Берлин и Гамбург. Именно поэтому эта история хорошо показывает, как еда превращается в городскую идентичность.",
+          "de": "Verschiedene Orte, darunter Berlin und Hamburg, beanspruchen die Erfindung der Currywurst. Genau deshalb zeigt die Geschichte, wie Essen zur staedtischen Identitaet wird.",
+          "en": "Different places, including Berlin and Hamburg, claim the invention of currywurst. That is why the story shows how food becomes part of urban identity."
+        },
+        "importance": {
+          "ru": "Не все исторические сюжеты обязаны быть монументальными; иногда людям запоминается киоск и тарелка с соусом.",
+          "de": "Nicht jede Geschichte muss monumental sein; manchmal erinnert man sich an einen Imbiss und eine Schale Sauce.",
+          "en": "Not every historical story has to be monumental; sometimes people remember a snack stand and a dish of sauce."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Берлине на Кантштрассе установлена памятная табличка, связанная с Гертой Хойвер.",
+    "de": "In Berlin an der Kantstrasse erinnert eine Gedenktafel an Herta Heuwer.",
+    "en": "A plaque on Kantstrasse in Berlin commemorates Herta Heuwer."
+  },
+  "sources": [
+    {
+      "label": "German Patent and Trade Mark Office: Currywurst",
+      "url": "https://www.dpma.de/english/our_office/publications/background/food-drink/spirit-currywurst/index.html"
+    },
+    {
+      "label": "National Geographic: currywurst story",
+      "url": "https://www.nationalgeographic.com/travel/article/what-is-currywurst-where-to-eat-berlin-germany"
+    }
+  ]
+}

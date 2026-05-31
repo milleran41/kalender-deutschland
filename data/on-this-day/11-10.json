@@ -1,0 +1,65 @@
+{
+  "date": "11-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1759-friedrich-schiller-born",
+    "year": 1759,
+    "title": {
+      "ru": "Родился Фридрих Шиллер",
+      "de": "Friedrich Schiller wird geboren",
+      "en": "Friedrich Schiller is born"
+    },
+    "description": {
+      "ru": "10 ноября 1759 года в Марбахе-на-Неккаре родился Фридрих Шиллер. Он стал одним из главных немецких драматургов, поэтов и мыслителей.",
+      "de": "Am 10. November 1759 wurde Friedrich Schiller in Marbach am Neckar geboren. Er wurde einer der wichtigsten deutschen Dramatiker, Dichter und Denker.",
+      "en": "On 10 November 1759, Friedrich Schiller was born in Marbach am Neckar. He became one of Germany's major dramatists, poets and thinkers."
+    },
+    "importance": {
+      "ru": "Шиллер вместе с Гёте связан с Веймарской классикой и немецкой литературой мирового уровня.",
+      "de": "Schiller ist zusammen mit Goethe mit der Weimarer Klassik und deutscher Weltliteratur verbunden.",
+      "en": "Together with Goethe, Schiller is linked with Weimar Classicism and German world literature."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "schiller-freedom-drama",
+        "year": 1759,
+        "title": {
+          "ru": "Драмы о свободе и достоинстве",
+          "de": "Dramen ueber Freiheit und Wuerde",
+          "en": "Dramas about freedom and dignity"
+        },
+        "description": {
+          "ru": "Шиллер писал о свободе, власти, нравственном выборе и человеческом достоинстве. Его пьесы долго оставались важной частью немецкой школы и театра.",
+          "de": "Schiller schrieb ueber Freiheit, Macht, moralische Entscheidung und Menschenwuerde. Seine Stuecke blieben lange ein wichtiger Teil von Schule und Theater.",
+          "en": "Schiller wrote about freedom, power, moral choice and human dignity. His plays long remained an important part of German schools and theatre."
+        },
+        "importance": {
+          "ru": "Через Шиллера литература становится способом говорить о политике и морали.",
+          "de": "Durch Schiller wird Literatur zu einer Art, ueber Politik und Moral zu sprechen.",
+          "en": "Through Schiller, literature becomes a way to speak about politics and morality."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Текст «Оды к радости» Шиллера позднее стал основой финала Девятой симфонии Бетховена.",
+    "de": "Schillers Ode an die Freude wurde spaeter zur Grundlage des Finales von Beethovens Neunter Symphonie.",
+    "en": "Schiller's Ode to Joy later became the basis for the finale of Beethoven's Ninth Symphony."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Friedrich Schiller",
+      "url": "https://www.britannica.com/biography/Friedrich-Schiller"
+    },
+    {
+      "label": "Deutsche Schillergesellschaft",
+      "url": "https://www.dla-marbach.de/en/"
+    }
+  ]
+}
