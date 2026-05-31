@@ -1,0 +1,90 @@
+{
+  "date": "04-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1940-operation-weseruebung",
+    "year": 1940,
+    "title": {
+      "ru": "Операция «Везерюбунг»",
+      "de": "Operation Weseruebung",
+      "en": "Operation Weseruebung"
+    },
+    "description": {
+      "ru": "9 апреля 1940 года нацистская Германия начала вторжение в Данию и Норвегию. Операция получила кодовое название «Везерюбунг».",
+      "de": "Am 9. April 1940 begann das nationalsozialistische Deutschland mit dem Angriff auf Daenemark und Norwegen. Die Operation trug den Decknamen Weseruebung.",
+      "en": "On 9 April 1940, Nazi Germany began its invasion of Denmark and Norway. The operation was code-named Weseruebung."
+    },
+    "importance": {
+      "ru": "Север Европы стал важной частью Второй мировой войны, а контроль над морскими путями и сырьём приобрёл огромное значение.",
+      "de": "Nordeuropa wurde zu einem wichtigen Teil des Zweiten Weltkriegs, und die Kontrolle ueber Seewege und Rohstoffe gewann enorme Bedeutung.",
+      "en": "Northern Europe became an important theater of the Second World War, and control of sea routes and raw materials gained enormous importance."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1940-denmark-norway-neutral",
+        "year": 1940,
+        "title": {
+          "ru": "Нападение на нейтральные страны",
+          "de": "Angriff auf neutrale Staaten",
+          "en": "Attack on neutral states"
+        },
+        "description": {
+          "ru": "Дания и Норвегия были нейтральными, но их положение было стратегически важным. Для Германии были важны датские аэродромы, норвежские порты и путь к шведской железной руде.",
+          "de": "Daenemark und Norwegen waren neutral, doch ihre Lage war strategisch wichtig. Fuer Deutschland zaehlten daenische Flugplaetze, norwegische Haefen und der Weg zum schwedischen Eisenerz.",
+          "en": "Denmark and Norway were neutral, but their location was strategically important. Germany valued Danish airfields, Norwegian ports and the route to Swedish iron ore."
+        },
+        "importance": {
+          "ru": "Эта дата показывает, что карта войны часто определялась портами, проливами и поставками сырья.",
+          "de": "Das Datum zeigt, dass die Kriegskarte oft von Haefen, Meerengen und Rohstoffwegen bestimmt wurde.",
+          "en": "The date shows that the map of war was often shaped by ports, straits and supply routes."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1940-short-denmark-campaign",
+        "year": 1940,
+        "title": {
+          "ru": "Одна из самых коротких кампаний войны",
+          "de": "Eine der kuerzesten Kampagnen des Krieges",
+          "en": "One of the shortest campaigns of the war"
+        },
+        "description": {
+          "ru": "Дания капитулировала в день нападения, чтобы избежать разрушений и больших потерь. Норвежская кампания продолжалась значительно дольше.",
+          "de": "Daenemark kapitulierte am Tag des Angriffs, um Zerstoerungen und grosse Verluste zu vermeiden. Der Feldzug in Norwegen dauerte deutlich laenger.",
+          "en": "Denmark surrendered on the day of the attack to avoid destruction and heavy losses. The Norwegian campaign lasted much longer."
+        },
+        "importance": {
+          "ru": "Один день может скрывать две очень разные военные истории.",
+          "de": "Ein einziger Tag kann zwei sehr unterschiedliche Kriegsgeschichten enthalten.",
+          "en": "A single day can contain two very different wartime stories."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название «Weseruebung» буквально отсылает к реке Везер; в немецких военных кодовых названиях часто использовались географические слова.",
+    "de": "Der Name Weseruebung verweist auf die Weser; in deutschen militaerischen Decknamen wurden haeufig geografische Begriffe verwendet.",
+    "en": "The name Weseruebung refers to the Weser River; German military code names often used geographical terms."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Germany invades Denmark and Norway",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1940-04-09-germany-invades-denmark-and-norway/"
+    },
+    {
+      "label": "Anne Frank House: Germany invades Denmark and Norway",
+      "url": "https://www.annefrank.org/en/timeline/61/germany-invades-denmark-and-norway/"
+    },
+    {
+      "label": "Danmarkshistorien: Operation Weseruebung",
+      "url": "https://danmarkshistorien.azurewebsites.net/danmarkshistorien.dk/vis/materiale/operation-weseruebung-april-1940.html"
+    }
+  ]
+}

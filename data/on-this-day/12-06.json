@@ -1,0 +1,86 @@
+{
+  "date": "12-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1892-werner-von-siemens-dies",
+    "year": 1892,
+    "title": {
+      "ru": "Умер Вернер фон Сименс",
+      "de": "Werner von Siemens stirbt",
+      "en": "Werner von Siemens dies"
+    },
+    "description": {
+      "ru": "6 декабря 1892 года в Берлине умер Вернер фон Сименс, немецкий инженер, изобретатель и промышленник. Его имя связано с телеграфией, электротехникой и компанией Siemens.",
+      "de": "Am 6. Dezember 1892 starb Werner von Siemens in Berlin, ein deutscher Ingenieur, Erfinder und Unternehmer. Sein Name ist mit Telegrafie, Elektrotechnik und dem Unternehmen Siemens verbunden.",
+      "en": "On 6 December 1892, Werner von Siemens died in Berlin. He was a German engineer, inventor and industrialist whose name is linked to telegraphy, electrical engineering and the Siemens company."
+    },
+    "importance": {
+      "ru": "Сименс стал одной из ключевых фигур немецкой индустриализации и электротехнической эпохи.",
+      "de": "Siemens wurde zu einer Schluesselfigur der deutschen Industrialisierung und des elektrotechnischen Zeitalters.",
+      "en": "Siemens became a key figure in German industrialization and the age of electrical engineering."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1866-dynamo-electric-principle",
+        "year": 1866,
+        "title": {
+          "ru": "Динамо-электрический принцип",
+          "de": "Das dynamoelektrische Prinzip",
+          "en": "The dynamo-electric principle"
+        },
+        "description": {
+          "ru": "Сименс внёс важный вклад в развитие генераторов электричества. Это помогло сделать электрическую энергию практичной для промышленности и городов.",
+          "de": "Siemens leistete einen wichtigen Beitrag zur Entwicklung elektrischer Generatoren. Das half, elektrische Energie fuer Industrie und Staedte praktisch nutzbar zu machen.",
+          "en": "Siemens made an important contribution to the development of electric generators. This helped make electrical power practical for industry and cities."
+        },
+        "importance": {
+          "ru": "Без таких изобретений электрический город XIX и XX века выглядел бы совсем иначе.",
+          "de": "Ohne solche Erfindungen haette die elektrische Stadt des 19. und 20. Jahrhunderts ganz anders ausgesehen.",
+          "en": "Without such inventions, the electric city of the 19th and 20th centuries would have looked very different."
+        }
+      }
+    ],
+    "famousPeople": [
+      {
+        "id": "1816-werner-von-siemens",
+        "year": 1816,
+        "title": {
+          "ru": "Инженер и предприниматель",
+          "de": "Ingenieur und Unternehmer",
+          "en": "Engineer and entrepreneur"
+        },
+        "description": {
+          "ru": "Сименс не только изобретал, но и строил промышленную компанию. Его работа показывает, как в XIX веке наука, техника и бизнес стали тесно связаны.",
+          "de": "Siemens erfand nicht nur, sondern baute auch ein Industrieunternehmen auf. Seine Arbeit zeigt, wie eng Wissenschaft, Technik und Wirtschaft im 19. Jahrhundert zusammenrueckten.",
+          "en": "Siemens did not only invent; he also built an industrial company. His work shows how closely science, technology and business became connected in the 19th century."
+        },
+        "importance": {
+          "ru": "Это хороший пример немецкой инженерной культуры в эпоху промышленного роста.",
+          "de": "Das ist ein gutes Beispiel deutscher Ingenieurkultur in einer Zeit industriellen Wachstums.",
+          "en": "It is a good example of German engineering culture during an era of industrial growth."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Werner von Siemens родился 13 декабря 1816 года в Ленте, недалеко от Ганновера.",
+    "de": "Werner von Siemens wurde am 13. Dezember 1816 in Lenthe bei Hannover geboren.",
+    "en": "Werner von Siemens was born on 13 December 1816 in Lenthe near Hanover."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Werner von Siemens",
+      "url": "https://www.britannica.com/biography/Werner-von-Siemens"
+    },
+    {
+      "label": "Siemens Global: Werner von Siemens",
+      "url": "https://www.siemens.com/global/en/company/about/history/people/werner-von-siemens.html"
+    }
+  ]
+}

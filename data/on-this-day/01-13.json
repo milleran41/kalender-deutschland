@@ -1,0 +1,86 @@
+{
+  "date": "01-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1935-saar-plebiscite",
+    "year": 1935,
+    "title": {
+      "ru": "Плебисцит в Сааре",
+      "de": "Volksabstimmung im Saargebiet",
+      "en": "Saar plebiscite"
+    },
+    "description": {
+      "ru": "13 января 1935 года жители Саарской области голосовали за будущее территории: сохранение управления Лиги Наций, присоединение к Франции или возвращение к Германии. Большинство высказалось за возвращение в Германию.",
+      "de": "Am 13. Januar 1935 stimmten die Menschen im Saargebiet ueber die Zukunft des Territoriums ab: Verwaltung durch den Voelkerbund, Anschluss an Frankreich oder Rueckkehr zu Deutschland. Die Mehrheit sprach sich fuer die Rueckkehr zu Deutschland aus.",
+      "en": "On 13 January 1935, people in the Saar territory voted on its future: continued League of Nations administration, union with France or return to Germany. A majority voted to return to Germany."
+    },
+    "importance": {
+      "ru": "Событие важно для истории Саара и показывает, как послевоенные границы решались через международный контроль и голосование.",
+      "de": "Das Ereignis ist wichtig fuer die Geschichte des Saarlandes und zeigt, wie Nachkriegsgrenzen durch internationale Kontrolle und Abstimmung entschieden wurden.",
+      "en": "The event is important for Saar history and shows how postwar borders could be decided through international control and voting."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1919-saar-league-mandate",
+        "year": 1919,
+        "title": {
+          "ru": "Саар под управлением Лиги Наций",
+          "de": "Das Saargebiet unter Voelkerbundverwaltung",
+          "en": "The Saar under League of Nations administration"
+        },
+        "description": {
+          "ru": "После Первой мировой войны Саарская область была отделена от Германии и передана под управление Лиги Наций. Угольные шахты региона имели большое значение для Франции и послевоенной экономики.",
+          "de": "Nach dem Ersten Weltkrieg wurde das Saargebiet von Deutschland getrennt und unter Verwaltung des Voelkerbundes gestellt. Die Kohlegruben der Region waren fuer Frankreich und die Nachkriegswirtschaft wichtig.",
+          "en": "After the First World War, the Saar territory was separated from Germany and placed under League of Nations administration. The region's coal mines were important for France and the postwar economy."
+        },
+        "importance": {
+          "ru": "Так становится понятнее, почему маленький регион оказался в центре большой европейской политики.",
+          "de": "So wird verstaendlicher, warum eine kleine Region im Zentrum grosser europaeischer Politik stand.",
+          "en": "This helps explain why a small region stood at the center of major European politics."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1935-saar-ballot-options",
+        "year": 1935,
+        "title": {
+          "ru": "Три варианта на бюллетене",
+          "de": "Drei Optionen auf dem Stimmzettel",
+          "en": "Three options on the ballot"
+        },
+        "description": {
+          "ru": "Бюллетень предлагал не простой ответ «да» или «нет», а три разных решения. Поэтому голосование было одновременно местным, международным и пропагандистским событием.",
+          "de": "Der Stimmzettel bot nicht nur Ja oder Nein, sondern drei verschiedene Loesungen. Darum war die Abstimmung zugleich ein lokales, internationales und propagandistisches Ereignis.",
+          "en": "The ballot offered not a simple yes or no but three different choices. The vote was therefore local, international and propagandistic at the same time."
+        },
+        "importance": {
+          "ru": "Иногда история границ помещается буквально на одном листе бумаги.",
+          "de": "Manchmal passt die Geschichte von Grenzen buchstaeblich auf ein Blatt Papier.",
+          "en": "Sometimes the history of borders literally fits on one sheet of paper."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Современная земля Саарланд снова получила особый статус после Второй мировой войны и окончательно вошла в ФРГ в 1957 году.",
+    "de": "Das heutige Saarland hatte auch nach dem Zweiten Weltkrieg wieder einen Sonderstatus und trat 1957 endgueltig der Bundesrepublik bei.",
+    "en": "Modern Saarland again had a special status after the Second World War and finally joined the Federal Republic in 1957."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: Saar referendum ballot",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ballot-for-the-saarland-referendum-january-13-1935"
+    },
+    {
+      "label": "Library of Congress: Saar Plebiscite",
+      "url": "https://www.loc.gov/item/2021670571/"
+    }
+  ]
+}
