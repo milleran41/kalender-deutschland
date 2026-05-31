@@ -1,0 +1,65 @@
+{
+  "date": "06-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1947-marshall-plan-speech",
+    "year": 1947,
+    "title": {
+      "ru": "Произнесена речь, положившая начало плану Маршалла",
+      "de": "Die Rede zum Marshallplan wird gehalten",
+      "en": "The speech that launched the Marshall Plan is delivered"
+    },
+    "description": {
+      "ru": "5 июня 1947 года госсекретарь США Джордж Маршалл выступил в Гарварде с речью о восстановлении Европы. Позднее эта инициатива стала известна как план Маршалла и сыграла важную роль в восстановлении Западной Германии.",
+      "de": "Am 5. Juni 1947 hielt US-Aussenminister George Marshall in Harvard eine Rede ueber den Wiederaufbau Europas. Die Initiative wurde spaeter als Marshallplan bekannt und spielte fuer den Wiederaufbau Westdeutschlands eine wichtige Rolle.",
+      "en": "On 5 June 1947, U.S. Secretary of State George Marshall gave a speech at Harvard about Europe's recovery. The initiative later became known as the Marshall Plan and played an important role in West Germany's reconstruction."
+    },
+    "importance": {
+      "ru": "Дата связывает послевоенную разруху, экономическое восстановление и начало западной интеграции ФРГ.",
+      "de": "Das Datum verbindet Nachkriegszerstoerung, wirtschaftlichen Wiederaufbau und den Beginn der Westintegration der Bundesrepublik.",
+      "en": "The date links postwar destruction, economic recovery and the beginning of West Germany's integration with the West."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "reconstruction-and-cold-war",
+        "year": 1948,
+        "title": {
+          "ru": "Восстановление и холодная война",
+          "de": "Wiederaufbau und Kalter Krieg",
+          "en": "Reconstruction and Cold War"
+        },
+        "description": {
+          "ru": "Помощь по плану Маршалла была не только экономической, но и политической. Она укрепляла Западную Европу в условиях растущего противостояния с Советским Союзом.",
+          "de": "Die Hilfe des Marshallplans war nicht nur wirtschaftlich, sondern auch politisch. Sie staerkte Westeuropa im wachsenden Gegensatz zur Sowjetunion.",
+          "en": "Marshall Plan aid was not only economic but also political. It strengthened Western Europe amid growing confrontation with the Soviet Union."
+        },
+        "importance": {
+          "ru": "Через эту дату видно, почему восстановление Германии быстро стало частью мировой политики.",
+          "de": "An diesem Datum sieht man, warum Deutschlands Wiederaufbau schnell Teil der Weltpolitik wurde.",
+          "en": "This date shows why Germany's recovery quickly became part of world politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Маршалл получил Нобелевскую премию мира в 1953 году.",
+    "de": "Marshall erhielt 1953 den Friedensnobelpreis.",
+    "en": "Marshall received the Nobel Peace Prize in 1953."
+  },
+  "sources": [
+    {
+      "label": "OECD: Marshall Plan speech",
+      "url": "https://www.oecd.org/en/about/history/the-marshall-plan-speech-at-harvard-university-5-june-1947.html"
+    },
+    {
+      "label": "U.S. National Archives: Marshall Plan",
+      "url": "https://www.archives.gov/exhibits/featured-documents/marshall-plan/"
+    }
+  ]
+}

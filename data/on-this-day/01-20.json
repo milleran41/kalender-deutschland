@@ -1,0 +1,65 @@
+{
+  "date": "01-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1942-wannsee-conference",
+    "year": 1942,
+    "title": {
+      "ru": "Прошла Ванзейская конференция",
+      "de": "Die Wannsee-Konferenz findet statt",
+      "en": "The Wannsee Conference takes place"
+    },
+    "description": {
+      "ru": "20 января 1942 года в берлинском районе Ванзе собрались высокопоставленные представители нацистского государства. Они обсуждали координацию депортации и уничтожения европейских евреев.",
+      "de": "Am 20. Januar 1942 trafen sich im Berliner Ortsteil Wannsee hochrangige Vertreter des NS-Staates. Sie besprachen die Koordination von Deportation und Ermordung der europaeischen Juden.",
+      "en": "On 20 January 1942, senior representatives of the Nazi state met in Berlin's Wannsee district. They discussed coordinating the deportation and murder of Europe's Jews."
+    },
+    "importance": {
+      "ru": "Дата показывает бюрократическую сторону Холокоста: преступление планировалось языком протоколов, ведомств и списков.",
+      "de": "Das Datum zeigt die buerokratische Seite des Holocaust: Das Verbrechen wurde in der Sprache von Protokollen, Behoerden und Listen organisiert.",
+      "en": "The date shows the bureaucratic side of the Holocaust: the crime was organized in the language of minutes, offices and lists."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "villa-as-memorial",
+        "year": 1992,
+        "title": {
+          "ru": "Вилла стала местом памяти",
+          "de": "Die Villa wird zum Erinnerungsort",
+          "en": "The villa becomes a memorial site"
+        },
+        "description": {
+          "ru": "Дом, где проходила конференция, сегодня является мемориальным и образовательным центром. Он показывает, как обычные кабинеты и документы могут быть частью массового преступления.",
+          "de": "Das Haus der Konferenz ist heute eine Gedenk- und Bildungsstaette. Es zeigt, wie normale Besprechungsraeume und Dokumente Teil eines Massenverbrechens sein koennen.",
+          "en": "The house where the conference took place is now a memorial and educational site. It shows how ordinary meeting rooms and documents can be part of mass crime."
+        },
+        "importance": {
+          "ru": "Это важное напоминание о роли государственных структур в преступлениях диктатуры.",
+          "de": "Das ist eine wichtige Erinnerung an die Rolle staatlicher Strukturen in den Verbrechen einer Diktatur.",
+          "en": "It is an important reminder of the role of state structures in the crimes of dictatorship."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Ванзейская конференция длилась недолго, но её протокол стал одним из ключевых документов истории Холокоста.",
+    "de": "Die Wannsee-Konferenz dauerte nicht lange, doch ihr Protokoll wurde zu einem Schluesseldokument der Holocaustgeschichte.",
+    "en": "The Wannsee Conference did not last long, but its protocol became a key document in the history of the Holocaust."
+  },
+  "sources": [
+    {
+      "label": "House of the Wannsee Conference: Conference",
+      "url": "https://www.ghwk.de/de/konferenz"
+    },
+    {
+      "label": "Britannica: Wannsee Conference",
+      "url": "https://www.britannica.com/event/Wannsee-Conference"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "10-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-leipzig-monday-demonstration",
+    "year": 1989,
+    "title": {
+      "ru": "В Лейпциге прошла крупная понедельничная демонстрация",
+      "de": "In Leipzig findet eine grosse Montagsdemonstration statt",
+      "en": "A large Monday demonstration takes place in Leipzig"
+    },
+    "description": {
+      "ru": "2 октября 1989 года после молитв за мир в Лейпциге на улицы вышли тысячи людей. Демонстрации становились всё смелее и приближали мирную революцию в ГДР.",
+      "de": "Am 2. Oktober 1989 gingen nach den Friedensgebeten in Leipzig Tausende Menschen auf die Strasse. Die Demonstrationen wurden immer mutiger und fuehrten die friedliche Revolution in der DDR voran.",
+      "en": "On 2 October 1989, thousands of people took to the streets in Leipzig after the prayers for peace. The demonstrations grew bolder and helped move forward the Peaceful Revolution in East Germany."
+    },
+    "importance": {
+      "ru": "Дата показывает, что падение стены началось не в один вечер, а через недели гражданского мужества.",
+      "de": "Das Datum zeigt, dass der Mauerfall nicht an einem Abend begann, sondern durch Wochen von Zivilcourage.",
+      "en": "The date shows that the fall of the Wall did not begin in a single evening, but through weeks of civil courage."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "leipzig-before-october-9",
+        "year": 1989,
+        "title": {
+          "ru": "Неделя перед решающим понедельником",
+          "de": "Die Woche vor dem entscheidenden Montag",
+          "en": "The week before the decisive Monday"
+        },
+        "description": {
+          "ru": "Через неделю, 9 октября, в Лейпциге вышли десятки тысяч людей, и насилие не произошло. Но напряжение росло уже 2 октября, когда власти внимательно следили за протестами.",
+          "de": "Eine Woche spaeter, am 9. Oktober, gingen in Leipzig Zehntausende auf die Strasse, ohne dass Gewalt ausbrach. Doch schon am 2. Oktober wuchs die Spannung, und die Behoerden beobachteten die Proteste genau.",
+          "en": "One week later, on 9 October, tens of thousands marched in Leipzig without violence breaking out. But tension was already rising on 2 October, as authorities closely watched the protests."
+        },
+        "importance": {
+          "ru": "Так лучше видно, как мирная революция набирала силу шаг за шагом.",
+          "de": "So wird sichtbar, wie die friedliche Revolution Schritt fuer Schritt an Kraft gewann.",
+          "en": "This shows how the Peaceful Revolution gained strength step by step."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Понедельничные демонстрации выросли из молитв за мир в Николаикирхе и других церквях Лейпцига.",
+    "de": "Die Montagsdemonstrationen entstanden aus Friedensgebeten in der Nikolaikirche und anderen Leipziger Kirchen.",
+    "en": "The Monday demonstrations grew out of prayers for peace in St Nicholas Church and other Leipzig churches."
+  },
+  "sources": [
+    {
+      "label": "Stasi Records Archive: Demonstrations on 2 October 1989",
+      "url": "https://www.ddr-im-blick.de/jahrgaenge/jahrgang-1989/report/montagsdemonstration-am-210-in-leipzig-1/"
+    },
+    {
+      "label": "Leipzig Travel: Peaceful Revolution",
+      "url": "https://www.leipzig.travel/en/research-text/Leipzig-the-peaceful-revolution-in-autumn-1989"
+    }
+  ]
+}
