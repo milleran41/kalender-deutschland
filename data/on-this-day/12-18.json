@@ -1,0 +1,65 @@
+{
+  "date": "12-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1913-willy-brandt-born",
+    "year": 1913,
+    "title": {
+      "ru": "Родился Вилли Брандт",
+      "de": "Willy Brandt wird geboren",
+      "en": "Willy Brandt is born"
+    },
+    "description": {
+      "ru": "18 декабря 1913 года в Любеке родился Вилли Брандт. Он стал канцлером ФРГ и лауреатом Нобелевской премии мира.",
+      "de": "Am 18. Dezember 1913 wurde Willy Brandt in Luebeck geboren. Er wurde Bundeskanzler und Friedensnobelpreistraeger.",
+      "en": "On 18 December 1913, Willy Brandt was born in Luebeck. He became West German chancellor and a Nobel Peace Prize laureate."
+    },
+    "importance": {
+      "ru": "Брандт связан с новой восточной политикой и попытками примирения между Западной Германией и Восточной Европой.",
+      "de": "Brandt ist mit der Neuen Ostpolitik und der Versoehnung zwischen Westdeutschland und Osteuropa verbunden.",
+      "en": "Brandt is associated with the new Ostpolitik and efforts at reconciliation between West Germany and Eastern Europe."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "brandt-warsaw-kneefall",
+        "year": 1970,
+        "title": {
+          "ru": "Жест в Варшаве",
+          "de": "Die Geste von Warschau",
+          "en": "The gesture in Warsaw"
+        },
+        "description": {
+          "ru": "В 1970 году Брандт встал на колени у памятника героям Варшавского гетто. Этот жест стал символом покаяния и памяти.",
+          "de": "1970 kniete Brandt am Denkmal fuer die Helden des Warschauer Ghettos nieder. Diese Geste wurde zu einem Symbol von Reue und Erinnerung.",
+          "en": "In 1970, Brandt knelt at the monument to the Warsaw Ghetto heroes. The gesture became a symbol of remorse and remembrance."
+        },
+        "importance": {
+          "ru": "Иногда один жест говорит о политике больше, чем длинная речь.",
+          "de": "Manchmal sagt eine Geste mehr ueber Politik als eine lange Rede.",
+          "en": "Sometimes one gesture says more about politics than a long speech."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вилли Брандт родился под именем Герберт Эрнст Карл Фрам; псевдоним Brandt он использовал в эмиграции.",
+    "de": "Willy Brandt wurde als Herbert Ernst Karl Frahm geboren; den Namen Brandt nutzte er im Exil.",
+    "en": "Willy Brandt was born Herbert Ernst Karl Frahm; he used the name Brandt in exile."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Willy Brandt",
+      "url": "https://www.britannica.com/biography/Willy-Brandt"
+    },
+    {
+      "label": "Nobel Prize: Willy Brandt biographical",
+      "url": "https://www.nobelprize.org/prizes/peace/1971/brandt/biographical/"
+    }
+  ]
+}

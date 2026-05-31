@@ -1,0 +1,65 @@
+{
+  "date": "06-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1926-daimler-benz",
+    "year": 1926,
+    "title": {
+      "ru": "Образована Daimler-Benz AG",
+      "de": "Die Daimler-Benz AG entsteht",
+      "en": "Daimler-Benz AG is formed"
+    },
+    "description": {
+      "ru": "28 июня 1926 года компании Benz & Cie. и Daimler-Motoren-Gesellschaft объединились в Daimler-Benz AG. С этим связано появление марки Mercedes-Benz в её классическом виде.",
+      "de": "Am 28. Juni 1926 schlossen sich Benz & Cie. und die Daimler-Motoren-Gesellschaft zur Daimler-Benz AG zusammen. Damit ist die Entstehung der Marke Mercedes-Benz in ihrer klassischen Form verbunden.",
+      "en": "On 28 June 1926, Benz & Cie. and Daimler-Motoren-Gesellschaft merged to form Daimler-Benz AG. This is tied to the emergence of the Mercedes-Benz brand in its classic form."
+    },
+    "importance": {
+      "ru": "Это важная дата в истории немецкой автомобильной промышленности.",
+      "de": "Das ist ein wichtiges Datum in der Geschichte der deutschen Automobilindustrie.",
+      "en": "It is an important date in the history of the German automobile industry."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "benz-daimler-roots",
+        "year": 1926,
+        "title": {
+          "ru": "Две линии изобретателей сошлись вместе",
+          "de": "Zwei Erfinderlinien kommen zusammen",
+          "en": "Two inventor traditions come together"
+        },
+        "description": {
+          "ru": "Слияние объединило наследие Карла Бенца, Готлиба Даймлера и Вильгельма Майбаха. За брендом стояла длинная инженерная история.",
+          "de": "Die Fusion verband das Erbe von Carl Benz, Gottlieb Daimler und Wilhelm Maybach. Hinter der Marke stand eine lange Ingenieurgeschichte.",
+          "en": "The merger united the legacies of Carl Benz, Gottlieb Daimler and Wilhelm Maybach. Behind the brand stood a long engineering history."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему автомобиль так важен для образа Германии.",
+          "de": "Das hilft zu verstehen, warum das Auto fuer das Deutschlandbild so wichtig ist.",
+          "en": "It helps explain why the automobile is so important to Germany's image."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Звезда Mercedes-Benz стала одним из самых узнаваемых промышленных символов Германии.",
+    "de": "Der Mercedes-Benz-Stern wurde zu einem der bekanntesten industriellen Symbole Deutschlands.",
+    "en": "The Mercedes-Benz star became one of Germany's most recognizable industrial symbols."
+  },
+  "sources": [
+    {
+      "label": "Mercedes-Benz Media: Daimler-Benz AG",
+      "url": "https://media.mercedes-benz.it/il-28-giugno-del-1926-nasce-la-daimler-benz-ag/"
+    },
+    {
+      "label": "Mercedes-Benz Group: history",
+      "url": "https://group.mercedes-benz.com/company/tradition/company-history/"
+    }
+  ]
+}

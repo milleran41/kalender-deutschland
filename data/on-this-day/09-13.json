@@ -1,0 +1,65 @@
+{
+  "date": "09-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1819-clara-schumann-born",
+    "year": 1819,
+    "title": {
+      "ru": "Родилась Клара Шуман",
+      "de": "Clara Schumann wird geboren",
+      "en": "Clara Schumann is born"
+    },
+    "description": {
+      "ru": "13 сентября 1819 года в Лейпциге родилась Клара Вик, позднее Клара Шуман. Она стала выдающейся пианисткой, композитором и музыкальным педагогом.",
+      "de": "Am 13. September 1819 wurde Clara Wieck, spaeter Clara Schumann, in Leipzig geboren. Sie wurde eine herausragende Pianistin, Komponistin und Musikpaedagogin.",
+      "en": "On 13 September 1819, Clara Wieck, later Clara Schumann, was born in Leipzig. She became an outstanding pianist, composer and music teacher."
+    },
+    "importance": {
+      "ru": "Её жизнь показывает, что история немецкой музыки состоит не только из мужских имён.",
+      "de": "Ihr Leben zeigt, dass die Geschichte der deutschen Musik nicht nur aus Maennernamen besteht.",
+      "en": "Her life shows that the history of German music is not made only of men's names."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "clara-european-pianist",
+        "year": 1819,
+        "title": {
+          "ru": "Звезда европейской сцены",
+          "de": "Ein Star der europaeischen Buehnen",
+          "en": "A star of European stages"
+        },
+        "description": {
+          "ru": "Клара Шуман много выступала и была одной из самых известных пианисток своего времени. Она также поддерживала музыку Роберта Шумана и Иоганнеса Брамса.",
+          "de": "Clara Schumann trat viel auf und war eine der bekanntesten Pianistinnen ihrer Zeit. Sie foerderte auch die Musik von Robert Schumann und Johannes Brahms.",
+          "en": "Clara Schumann performed widely and was one of the best-known pianists of her time. She also supported the music of Robert Schumann and Johannes Brahms."
+        },
+        "importance": {
+          "ru": "Она была не только «женой композитора», а самостоятельной фигурой музыкальной Европы.",
+          "de": "Sie war nicht nur die Frau eines Komponisten, sondern eine eigenstaendige Figur des europaeischen Musiklebens.",
+          "en": "She was not only a composer's wife but an independent figure in European musical life."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Лейпциг хранит память о Кларе Шуман как о части своей богатой музыкальной истории.",
+    "de": "Leipzig bewahrt die Erinnerung an Clara Schumann als Teil seiner reichen Musikgeschichte.",
+    "en": "Leipzig preserves Clara Schumann's memory as part of its rich musical history."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Clara Schumann",
+      "url": "https://www.britannica.com/biography/Clara-Schumann"
+    },
+    {
+      "label": "Schumann Portal: Clara in Leipzig",
+      "url": "https://www.schumann-portal.de/leipzig-1819-1844.html"
+    }
+  ]
+}

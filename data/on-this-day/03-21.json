@@ -1,0 +1,65 @@
+{
+  "date": "03-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1685-bach-born",
+    "year": 1685,
+    "title": {
+      "ru": "Родился Иоганн Себастьян Бах",
+      "de": "Johann Sebastian Bach wird geboren",
+      "en": "Johann Sebastian Bach is born"
+    },
+    "description": {
+      "ru": "21 марта 1685 года в Айзенахе родился Иоганн Себастьян Бах. Он стал одним из величайших композиторов европейской музыки.",
+      "de": "Am 21. Maerz 1685 wurde Johann Sebastian Bach in Eisenach geboren. Er wurde einer der groessten Komponisten der europaeischen Musik.",
+      "en": "On 21 March 1685, Johann Sebastian Bach was born in Eisenach. He became one of the greatest composers in European music."
+    },
+    "importance": {
+      "ru": "Дата выходит за основной диапазон, но Бах слишком важен для немецкой культуры, чтобы его пропускать.",
+      "de": "Das Datum liegt vor dem Hauptzeitraum, aber Bach ist fuer die deutsche Kultur zu wichtig, um ihn auszulassen.",
+      "en": "The date is before the main range, but Bach is too important for German culture to omit."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "bach-eisenach-leipzig",
+        "year": 1685,
+        "title": {
+          "ru": "От Айзенаха до Лейпцига",
+          "de": "Von Eisenach nach Leipzig",
+          "en": "From Eisenach to Leipzig"
+        },
+        "description": {
+          "ru": "Бах родился в Тюрингии, а позднее работал в Лейпциге. Поэтому его биография соединяет несколько важных культурных мест Германии.",
+          "de": "Bach wurde in Thueringen geboren und wirkte spaeter in Leipzig. Seine Biografie verbindet mehrere wichtige Kulturorte Deutschlands.",
+          "en": "Bach was born in Thuringia and later worked in Leipzig. His life connects several important cultural places in Germany."
+        },
+        "importance": {
+          "ru": "Через такие биографии карта Германии становится картой культуры.",
+          "de": "Durch solche Biografien wird die Karte Deutschlands auch zu einer Kulturkarte.",
+          "en": "Through lives like his, Germany's map becomes a cultural map."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "У Баха была большая музыкальная семья: фамилия Bach в Германии долго ассоциировалась с музыкантами.",
+    "de": "Bach stammte aus einer grossen Musikerfamilie: Der Name Bach war in Deutschland lange mit Musikern verbunden.",
+    "en": "Bach came from a large musical family: in Germany, the Bach name was long associated with musicians."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Johann Sebastian Bach",
+      "url": "https://www.britannica.com/biography/Johann-Sebastian-Bach"
+    },
+    {
+      "label": "Bachhaus Eisenach",
+      "url": "https://www.bachhaus.de/en/"
+    }
+  ]
+}

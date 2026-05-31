@@ -1,0 +1,65 @@
+{
+  "date": "07-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2010-love-parade-duisburg",
+    "year": 2010,
+    "title": {
+      "ru": "Трагедия на Love Parade в Дуйсбурге",
+      "de": "Die Loveparade-Katastrophe in Duisburg",
+      "en": "The Love Parade disaster in Duisburg"
+    },
+    "description": {
+      "ru": "24 июля 2010 года на музыкальном фестивале Love Parade в Дуйсбурге произошла давка. Погиб 21 человек, сотни были ранены.",
+      "de": "Am 24. Juli 2010 kam es bei der Loveparade in Duisburg zu einer Massenkatastrophe. 21 Menschen starben, Hunderte wurden verletzt.",
+      "en": "On 24 July 2010, a crowd disaster occurred at the Love Parade music festival in Duisburg. Twenty-one people died and hundreds were injured."
+    },
+    "importance": {
+      "ru": "Событие стало важным уроком о безопасности массовых мероприятий.",
+      "de": "Das Ereignis wurde zu einer wichtigen Lehre fuer die Sicherheit von Grossveranstaltungen.",
+      "en": "The event became an important lesson in the safety of large public events."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "love-parade-end",
+        "year": 2010,
+        "title": {
+          "ru": "После трагедии фестиваль прекратили",
+          "de": "Nach der Katastrophe endete das Festival",
+          "en": "The festival ended after the disaster"
+        },
+        "description": {
+          "ru": "Love Parade когда-то был символом танцевальной культуры и свободы большого города. После Дуйсбурга формат больше не продолжали.",
+          "de": "Die Loveparade war einst ein Symbol fuer Tanzkultur und urbane Freiheit. Nach Duisburg wurde das Format nicht fortgesetzt.",
+          "en": "The Love Parade had once symbolized dance culture and urban freedom. After Duisburg, the format was not continued."
+        },
+        "importance": {
+          "ru": "Это показывает, как одна ошибка в организации может закончить целую культурную эпоху.",
+          "de": "Das zeigt, wie organisatorische Fehler eine ganze Kulturepoche beenden koennen.",
+          "en": "It shows how organizational failures can end an entire cultural era."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "У места трагедии в Дуйсбурге есть мемориал, посвящённый погибшим 24 июля 2010 года.",
+    "de": "Am Ort der Katastrophe in Duisburg gibt es eine Gedenkstaette fuer die Opfer des 24. Juli 2010.",
+    "en": "There is a memorial in Duisburg for the victims of 24 July 2010."
+  },
+  "sources": [
+    {
+      "label": "City of Duisburg: Loveparade process and foundation",
+      "url": "https://www.duisburg.de/allgemein/fachbereiche/loveparade-prozess.php"
+    },
+    {
+      "label": "Duisburg memorial foundation: disaster text",
+      "url": "https://www.stiftung-duisburg-24-7-2010.de/files/text-qr_en.pdf"
+    }
+  ]
+}

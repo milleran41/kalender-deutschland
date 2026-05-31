@@ -1,0 +1,65 @@
+{
+  "date": "12-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1901-marlene-dietrich-born",
+    "year": 1901,
+    "title": {
+      "ru": "Родилась Марлен Дитрих",
+      "de": "Marlene Dietrich wird geboren",
+      "en": "Marlene Dietrich is born"
+    },
+    "description": {
+      "ru": "27 декабря 1901 года в Шёнеберге, ныне районе Берлина, родилась Марлен Дитрих. Она стала одной из самых известных актрис и певиц немецкого происхождения.",
+      "de": "Am 27. Dezember 1901 wurde Marlene Dietrich in Schoeneberg, heute ein Berliner Ortsteil, geboren. Sie wurde eine der bekanntesten Schauspielerinnen und Saengerinnen deutscher Herkunft.",
+      "en": "On 27 December 1901, Marlene Dietrich was born in Schoeneberg, now part of Berlin. She became one of the best-known actresses and singers of German origin."
+    },
+    "importance": {
+      "ru": "Дитрих стала мировой звездой и важной фигурой культуры эмиграции времён нацизма.",
+      "de": "Dietrich wurde ein Weltstar und eine wichtige Figur der Exilkultur in der Zeit des Nationalsozialismus.",
+      "en": "Dietrich became a world star and an important figure of exile culture during the Nazi era."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "blue-angel",
+        "year": 1930,
+        "title": {
+          "ru": "«Голубой ангел»",
+          "de": "Der blaue Engel",
+          "en": "The Blue Angel"
+        },
+        "description": {
+          "ru": "Фильм «Голубой ангел» сделал Дитрих знаменитой за пределами Германии. После этого её карьера продолжилась в Голливуде.",
+          "de": "Der Film Der blaue Engel machte Dietrich ueber Deutschland hinaus bekannt. Danach setzte sie ihre Karriere in Hollywood fort.",
+          "en": "The film The Blue Angel made Dietrich famous beyond Germany. Her career then continued in Hollywood."
+        },
+        "importance": {
+          "ru": "Это один из мостов между немецким кино Веймарской эпохи и мировой массовой культурой.",
+          "de": "Das ist eine Bruecke zwischen dem deutschen Kino der Weimarer Zeit und der Weltpopulaerkultur.",
+          "en": "It is a bridge between Weimar-era German cinema and global popular culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Во время Второй мировой войны Дитрих выступала перед союзными войсками и открыто выступала против нацистского режима.",
+    "de": "Im Zweiten Weltkrieg trat Dietrich vor alliierten Soldaten auf und stellte sich offen gegen das NS-Regime.",
+    "en": "During the Second World War, Dietrich performed for Allied troops and openly opposed the Nazi regime."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Marlene Dietrich",
+      "url": "https://www.britannica.com/biography/Marlene-Dietrich"
+    },
+    {
+      "label": "Britannica: Marlene Dietrich summary",
+      "url": "https://www.britannica.com/summary/Marlene-Dietrich"
+    }
+  ]
+}

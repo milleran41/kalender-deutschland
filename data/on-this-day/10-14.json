@@ -1,0 +1,65 @@
+{
+  "date": "10-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1906-hannah-arendt-born",
+    "year": 1906,
+    "title": {
+      "ru": "Родилась Ханна Арендт",
+      "de": "Hannah Arendt wird geboren",
+      "en": "Hannah Arendt is born"
+    },
+    "description": {
+      "ru": "14 октября 1906 года в Ганновере родилась Ханна Арендт. Она стала одной из самых известных политических мыслительниц XX века.",
+      "de": "Am 14. Oktober 1906 wurde Hannah Arendt in Hannover geboren. Sie wurde eine der bekanntesten politischen Denkerinnen des 20. Jahrhunderts.",
+      "en": "On 14 October 1906, Hannah Arendt was born in Hanover. She became one of the best-known political thinkers of the twentieth century."
+    },
+    "importance": {
+      "ru": "Её работы о тоталитаризме помогают понимать диктатуры, ответственность и политическую свободу.",
+      "de": "Ihre Arbeiten ueber Totalitarismus helfen, Diktaturen, Verantwortung und politische Freiheit zu verstehen.",
+      "en": "Her work on totalitarianism helps explain dictatorships, responsibility and political freedom."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "arendt-exile",
+        "year": 1933,
+        "title": {
+          "ru": "Из Германии в эмиграцию",
+          "de": "Aus Deutschland ins Exil",
+          "en": "From Germany into exile"
+        },
+        "description": {
+          "ru": "После прихода нацистов к власти Арендт, будучи еврейкой, покинула Германию. Позднее она жила во Франции и США.",
+          "de": "Nach der Machtuebernahme der Nationalsozialisten verliess Arendt als Juedin Deutschland. Spaeter lebte sie in Frankreich und den USA.",
+          "en": "After the Nazis took power, Arendt, who was Jewish, left Germany. She later lived in France and the United States."
+        },
+        "importance": {
+          "ru": "Её биография напрямую связана с катастрофами немецкой истории XX века.",
+          "de": "Ihre Biografie ist direkt mit den Katastrophen der deutschen Geschichte des 20. Jahrhunderts verbunden.",
+          "en": "Her biography is directly tied to the catastrophes of twentieth-century German history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Арендт часто называют философом, хотя сама она предпочитала говорить о себе как о политическом теоретике.",
+    "de": "Arendt wird oft Philosophin genannt, obwohl sie sich selbst lieber als politische Theoretikerin verstand.",
+    "en": "Arendt is often called a philosopher, although she preferred to describe herself as a political theorist."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Hannah Arendt",
+      "url": "https://www.britannica.com/biography/Hannah-Arendt"
+    },
+    {
+      "label": "Library of Congress: Hannah Arendt Papers PDF",
+      "url": "https://tile.loc.gov/storage-services/service/mss/eadxmlmss/eadpdfmss/uploaded_pdf/ead_pdf_batch_05_January_2005/ms001004.pdf"
+    }
+  ]
+}

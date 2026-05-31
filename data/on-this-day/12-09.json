@@ -1,0 +1,65 @@
+{
+  "date": "12-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1868-fritz-haber-born",
+    "year": 1868,
+    "title": {
+      "ru": "Родился Фриц Габер",
+      "de": "Fritz Haber wird geboren",
+      "en": "Fritz Haber is born"
+    },
+    "description": {
+      "ru": "9 декабря 1868 года в Бреслау родился химик Фриц Габер. Он получил Нобелевскую премию за синтез аммиака из азота и водорода.",
+      "de": "Am 9. Dezember 1868 wurde der Chemiker Fritz Haber in Breslau geboren. Er erhielt den Nobelpreis fuer die Synthese von Ammoniak aus Stickstoff und Wasserstoff.",
+      "en": "On 9 December 1868, chemist Fritz Haber was born in Breslau. He received the Nobel Prize for synthesizing ammonia from nitrogen and hydrogen."
+    },
+    "importance": {
+      "ru": "Процесс Габера-Боша изменил сельское хозяйство, потому что позволил массово производить удобрения.",
+      "de": "Das Haber-Bosch-Verfahren veraenderte die Landwirtschaft, weil es die Massenproduktion von Duengemitteln ermoeglichte.",
+      "en": "The Haber-Bosch process changed agriculture by enabling mass production of fertilizers."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "haber-ambivalent-legacy",
+        "year": 1918,
+        "title": {
+          "ru": "Сложное наследие",
+          "de": "Ein schwieriges Erbe",
+          "en": "A difficult legacy"
+        },
+        "description": {
+          "ru": "Габера помнят не только за удобрения, но и за роль в развитии химического оружия в Первую мировую войну. Поэтому его биография часто вызывает споры.",
+          "de": "Haber wird nicht nur wegen der Duengemittel erinnert, sondern auch wegen seiner Rolle bei chemischen Waffen im Ersten Weltkrieg. Deshalb ist seine Biografie umstritten.",
+          "en": "Haber is remembered not only for fertilizers but also for his role in chemical weapons during the First World War. His biography is therefore controversial."
+        },
+        "importance": {
+          "ru": "Это показывает, что научные открытия могут иметь одновременно полезные и страшные последствия.",
+          "de": "Das zeigt, dass wissenschaftliche Entdeckungen zugleich nuetzliche und gefaehrliche Folgen haben koennen.",
+          "en": "It shows that scientific discoveries can have both useful and frightening consequences."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бреслау, где родился Габер, сегодня называется Вроцлав и находится в Польше.",
+    "de": "Breslau, Habers Geburtsstadt, heisst heute Wroclaw und liegt in Polen.",
+    "en": "Breslau, Haber's birthplace, is now Wroclaw in Poland."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Fritz Haber facts",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1918/haber/facts/"
+    },
+    {
+      "label": "Britannica: Fritz Haber",
+      "url": "https://www.britannica.com/biography/Fritz-Haber"
+    }
+  ]
+}

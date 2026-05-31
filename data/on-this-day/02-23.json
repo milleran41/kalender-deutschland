@@ -1,0 +1,65 @@
+{
+  "date": "02-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1893-diesel-engine-patent",
+    "year": 1893,
+    "title": {
+      "ru": "Рудольф Дизель получил патент на двигатель",
+      "de": "Rudolf Diesel erhaelt das Patent fuer seinen Motor",
+      "en": "Rudolf Diesel receives a patent for his engine"
+    },
+    "description": {
+      "ru": "23 февраля 1893 года в Германской империи был выдан патент Рудольфа Дизеля на новый тип двигателя внутреннего сгорания. Позднее дизельные двигатели стали важной частью транспорта, судов и промышленности.",
+      "de": "Am 23. Februar 1893 wurde im Deutschen Reich Rudolf Diesels Patent fuer einen neuen Verbrennungsmotor ausgegeben. Spaeter wurden Dieselmotoren wichtig fuer Verkehr, Schiffe und Industrie.",
+      "en": "On 23 February 1893, Rudolf Diesel's patent for a new type of internal combustion engine was issued in the German Empire. Diesel engines later became important in transport, shipping and industry."
+    },
+    "importance": {
+      "ru": "Это один из ярких примеров немецкой инженерной истории, повлиявшей на весь мир.",
+      "de": "Das ist ein starkes Beispiel deutscher Ingenieurgeschichte mit weltweiter Wirkung.",
+      "en": "It is a strong example of German engineering history with worldwide impact."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "diesel-long-road",
+        "year": 1893,
+        "title": {
+          "ru": "От патента до работающего двигателя",
+          "de": "Vom Patent zum funktionierenden Motor",
+          "en": "From patent to working engine"
+        },
+        "description": {
+          "ru": "Патент был только началом: Дизелю ещё предстояло решить множество технических проблем. Первые успешные образцы появились после долгих испытаний.",
+          "de": "Das Patent war nur der Anfang: Diesel musste noch viele technische Probleme loesen. Erfolgreiche Modelle entstanden erst nach langen Versuchen.",
+          "en": "The patent was only the beginning: Diesel still had to solve many technical problems. Successful engines came after long testing."
+        },
+        "importance": {
+          "ru": "Иногда изобретение рождается не в один момент, а через годы экспериментов.",
+          "de": "Manchmal entsteht eine Erfindung nicht in einem Moment, sondern durch Jahre von Experimenten.",
+          "en": "Sometimes an invention is not born in one moment but through years of experiments."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Слово «дизель» стало настолько привычным, что многие уже не помнят: это фамилия изобретателя.",
+    "de": "Das Wort Diesel ist so alltaeglich geworden, dass viele vergessen: Es ist der Name des Erfinders.",
+    "en": "The word diesel has become so ordinary that many forget it is the inventor's name."
+  },
+  "sources": [
+    {
+      "label": "Deutsches Historisches Museum: Diesel patent",
+      "url": "https://www.dhm.de/lemo/bestand/objekt/patentschrift-von-rudolf-diesel-1893"
+    },
+    {
+      "label": "Wikimedia Commons: Diesel engine patent",
+      "url": "https://commons.wikimedia.org/wiki/File:Lumbar_patent_dieselengine.jpg"
+    }
+  ]
+}

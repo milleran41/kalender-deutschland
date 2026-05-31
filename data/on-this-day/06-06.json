@@ -1,0 +1,65 @@
+{
+  "date": "06-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1875-thomas-mann-born",
+    "year": 1875,
+    "title": {
+      "ru": "Родился Томас Манн",
+      "de": "Thomas Mann wird geboren",
+      "en": "Thomas Mann is born"
+    },
+    "description": {
+      "ru": "6 июня 1875 года в Любеке родился писатель Томас Манн. Он стал лауреатом Нобелевской премии по литературе и одним из главных немецких авторов XX века.",
+      "de": "Am 6. Juni 1875 wurde Thomas Mann in Luebeck geboren. Er wurde Nobelpreistraeger fuer Literatur und einer der wichtigsten deutschen Autoren des 20. Jahrhunderts.",
+      "en": "On 6 June 1875, writer Thomas Mann was born in Luebeck. He became a Nobel Prize laureate in literature and one of the major German authors of the twentieth century."
+    },
+    "importance": {
+      "ru": "Его книги помогают понять бюргерскую культуру, кризисы Европы и немецкую историю первой половины XX века.",
+      "de": "Seine Buecher helfen, buergerliche Kultur, europaeische Krisen und deutsche Geschichte der ersten Haelfte des 20. Jahrhunderts zu verstehen.",
+      "en": "His books help explain bourgeois culture, European crises and German history in the first half of the twentieth century."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "buddenbrooks-luebeck",
+        "year": 1901,
+        "title": {
+          "ru": "«Будденброки» и Любек",
+          "de": "Buddenbrooks und Luebeck",
+          "en": "Buddenbrooks and Luebeck"
+        },
+        "description": {
+          "ru": "Роман «Будденброки» связан с атмосферой ганзейского Любека. Именно он принёс Манну мировую известность.",
+          "de": "Der Roman Buddenbrooks ist eng mit der Atmosphaere der Hansestadt Luebeck verbunden. Er brachte Mann den internationalen Durchbruch.",
+          "en": "The novel Buddenbrooks is closely linked with the atmosphere of Hanseatic Luebeck. It brought Mann international recognition."
+        },
+        "importance": {
+          "ru": "Литература здесь превращает городскую историю в мировую культуру.",
+          "de": "Literatur verwandelt hier Stadtgeschichte in Weltkultur.",
+          "en": "Here literature turns urban history into world culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Нобелевский комитет особо связывал премию Манна с романом «Будденброки».",
+    "de": "Das Nobelkomitee verband Manns Auszeichnung besonders mit dem Roman Buddenbrooks.",
+    "en": "The Nobel Committee especially linked Mann's award with the novel Buddenbrooks."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Thomas Mann facts",
+      "url": "https://www.nobelprize.org/prizes/literature/1929/mann/facts/"
+    },
+    {
+      "label": "Nobel Prize: Thomas Mann biographical",
+      "url": "https://www.nobelprize.org/prizes/literature/1929/mann/biographical/"
+    }
+  ]
+}

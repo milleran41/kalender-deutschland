@@ -1,0 +1,65 @@
+{
+  "date": "04-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1858-max-planck-born",
+    "year": 1858,
+    "title": {
+      "ru": "Родился Макс Планк",
+      "de": "Max Planck wird geboren",
+      "en": "Max Planck is born"
+    },
+    "description": {
+      "ru": "23 апреля 1858 года в Киле родился физик Макс Планк. Его работы стали одним из истоков квантовой физики.",
+      "de": "Am 23. April 1858 wurde der Physiker Max Planck in Kiel geboren. Seine Arbeiten wurden zu einem Ursprung der Quantenphysik.",
+      "en": "On 23 April 1858, physicist Max Planck was born in Kiel. His work became one of the origins of quantum physics."
+    },
+    "importance": {
+      "ru": "Планк помог открыть новую эпоху в науке, где привычные представления о материи и энергии пришлось пересмотреть.",
+      "de": "Planck half, eine neue Epoche der Wissenschaft zu eroeffnen, in der alte Vorstellungen von Materie und Energie neu gedacht werden mussten.",
+      "en": "Planck helped open a new era of science in which old ideas about matter and energy had to be rethought."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "planck-nobel",
+        "year": 1918,
+        "title": {
+          "ru": "Нобелевская премия по физике",
+          "de": "Nobelpreis fuer Physik",
+          "en": "Nobel Prize in Physics"
+        },
+        "description": {
+          "ru": "Планк получил Нобелевскую премию по физике за вклад в развитие квантовой теории. Его имя сегодня носит одно из крупнейших научных обществ Германии.",
+          "de": "Planck erhielt den Nobelpreis fuer Physik fuer seinen Beitrag zur Quantentheorie. Heute traegt eine der groessten deutschen Wissenschaftsorganisationen seinen Namen.",
+          "en": "Planck received the Nobel Prize in Physics for his contribution to quantum theory. One of Germany's largest scientific organizations now bears his name."
+        },
+        "importance": {
+          "ru": "Это показывает долгую связь Германии с фундаментальной наукой.",
+          "de": "Das zeigt Deutschlands lange Verbindung zur Grundlagenforschung.",
+          "en": "It shows Germany's long connection with fundamental research."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Киль, родной город Планка, чаще вспоминают как морской город, но он связан и с историей физики.",
+    "de": "Kiel, Plancks Geburtsstadt, gilt oft als maritime Stadt, ist aber auch mit Physikgeschichte verbunden.",
+    "en": "Kiel, Planck's birthplace, is often seen as a maritime city, but it is also linked with the history of physics."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Max Planck facts",
+      "url": "https://www.nobelprize.org/laureate/23"
+    },
+    {
+      "label": "Britannica: Max Planck",
+      "url": "https://www.britannica.com/biography/Max-Planck"
+    }
+  ]
+}

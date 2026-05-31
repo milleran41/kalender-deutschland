@@ -1,0 +1,65 @@
+{
+  "date": "08-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1456-gutenberg-bible",
+    "year": 1456,
+    "title": {
+      "ru": "С датой связывают завершение экземпляра Библии Гутенберга",
+      "de": "Mit dem Datum wird ein Exemplar der Gutenberg-Bibel verbunden",
+      "en": "The date is linked with a copy of the Gutenberg Bible"
+    },
+    "description": {
+      "ru": "24 августа 1456 года связывают как минимум с одним завершённым экземпляром Библии Гутенберга. Печатная Библия стала одним из главных символов революции книгопечатания.",
+      "de": "Der 24. August 1456 wird mit mindestens einem vollendeten Exemplar der Gutenberg-Bibel verbunden. Die gedruckte Bibel wurde zu einem Hauptsymbol der Buchdruckrevolution.",
+      "en": "24 August 1456 is linked with at least one completed copy of the Gutenberg Bible. The printed Bible became one of the main symbols of the printing revolution."
+    },
+    "importance": {
+      "ru": "Хотя это намного раньше основного диапазона, событие слишком важно для истории немецких земель и всей Европы.",
+      "de": "Obwohl dies weit vor dem Hauptzeitraum liegt, ist das Ereignis fuer die Geschichte der deutschen Laender und Europas zu wichtig.",
+      "en": "Although this is far before the main range, the event is too important for the history of the German lands and Europe."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "gutenberg-mainz",
+        "year": 1456,
+        "title": {
+          "ru": "Майнц и новая эпоха книги",
+          "de": "Mainz und eine neue Epoche des Buches",
+          "en": "Mainz and a new age of the book"
+        },
+        "description": {
+          "ru": "Гутенберг работал в Майнце, и этот город до сих пор связан с историей печати. Его технология ускорила распространение знаний.",
+          "de": "Gutenberg wirkte in Mainz, und die Stadt ist bis heute mit der Geschichte des Drucks verbunden. Seine Technik beschleunigte die Verbreitung von Wissen.",
+          "en": "Gutenberg worked in Mainz, and the city is still tied to the history of printing. His technology accelerated the spread of knowledge."
+        },
+        "importance": {
+          "ru": "Без книгопечатания трудно представить Реформацию, образование и современную науку.",
+          "de": "Ohne Buchdruck sind Reformation, Bildung und moderne Wissenschaft kaum vorstellbar.",
+          "en": "Without printing, the Reformation, education and modern science are hard to imagine."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Печатный текст у экземпляров был одинаковым, но украшения часто добавляли вручную, поэтому книги могли отличаться внешне.",
+    "de": "Der gedruckte Text war gleich, doch Verzierungen wurden oft von Hand ergaenzt, sodass die Exemplare unterschiedlich aussehen konnten.",
+    "en": "The printed text was the same, but decoration was often added by hand, so copies could look different."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Gutenberg and printing of the Bible",
+      "url": "https://www.britannica.com/biography/Johannes-Gutenberg/Printing-of-the-Bible"
+    },
+    {
+      "label": "TIME: Gutenberg Bible page",
+      "url": "https://time.com/3987590/gutenberg-bible-page/"
+    }
+  ]
+}
