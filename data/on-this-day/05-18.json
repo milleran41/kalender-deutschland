@@ -1,0 +1,65 @@
+{
+  "date": "05-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1848-frankfurt-national-assembly",
+    "year": 1848,
+    "title": {
+      "ru": "Открылось Франкфуртское национальное собрание",
+      "de": "Die Frankfurter Nationalversammlung tritt zusammen",
+      "en": "The Frankfurt National Assembly convenes"
+    },
+    "description": {
+      "ru": "18 мая 1848 года депутаты первого общегерманского парламента собрались во франкфуртской церкви Святого Павла. Они пытались создать либеральную конституцию и германское национальное государство.",
+      "de": "Am 18. Mai 1848 versammelten sich die Abgeordneten des ersten gesamtdeutschen Parlaments in der Frankfurter Paulskirche. Sie wollten eine liberale Verfassung und einen deutschen Nationalstaat schaffen.",
+      "en": "On 18 May 1848, deputies of the first all-German parliament gathered in Frankfurt's St Paul's Church. They sought to create a liberal constitution and a German nation-state."
+    },
+    "importance": {
+      "ru": "Это одна из ключевых дат немецкой парламентской истории.",
+      "de": "Das ist eines der Schluesseldaten der deutschen Parlamentsgeschichte.",
+      "en": "It is one of the key dates in German parliamentary history."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "paulskirche-symbol",
+        "year": 1848,
+        "title": {
+          "ru": "Паульскирхе как символ демократии",
+          "de": "Die Paulskirche als Symbol der Demokratie",
+          "en": "St Paul's Church as a symbol of democracy"
+        },
+        "description": {
+          "ru": "Франкфуртская Паульскирхе стала символом ранней немецкой демократии. Даже после провала революции память о ней сохранилась.",
+          "de": "Die Frankfurter Paulskirche wurde zum Symbol der fruehen deutschen Demokratie. Auch nach dem Scheitern der Revolution blieb die Erinnerung daran erhalten.",
+          "en": "Frankfurt's St Paul's Church became a symbol of early German democracy. Even after the revolution failed, its memory remained."
+        },
+        "importance": {
+          "ru": "Дата помогает увидеть, что демократические традиции Германии старше ФРГ.",
+          "de": "Das Datum zeigt, dass demokratische Traditionen in Deutschland aelter sind als die Bundesrepublik.",
+          "en": "The date shows that Germany's democratic traditions are older than the Federal Republic."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через год Франкфуртский парламент предложил корону прусскому королю, но тот отказался.",
+    "de": "Ein Jahr spaeter bot das Frankfurter Parlament dem preussischen Koenig die Krone an, doch er lehnte ab.",
+    "en": "A year later, the Frankfurt Parliament offered the crown to the Prussian king, but he refused."
+  },
+  "sources": [
+    {
+      "label": "German Bundestag: Frankfurt National Assembly",
+      "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/1848-247956"
+    },
+    {
+      "label": "German Bundestag: 18 May 1848",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1848-05-18-nationalversammlung-948006"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "06-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1991-bundestag-capital-decision",
+    "year": 1991,
+    "title": {
+      "ru": "Бундестаг решил перенести парламент и правительство в Берлин",
+      "de": "Der Bundestag entscheidet sich fuer Berlin",
+      "en": "The Bundestag decides in favor of Berlin"
+    },
+    "description": {
+      "ru": "20 июня 1991 года Бундестаг после долгих дебатов решил перенести парламент и часть федерального правительства из Бонна в Берлин. Решение стало одним из символов объединённой Германии.",
+      "de": "Am 20. Juni 1991 entschied der Bundestag nach langer Debatte, Parlament und Teile der Bundesregierung von Bonn nach Berlin zu verlegen. Die Entscheidung wurde zu einem Symbol des vereinten Deutschlands.",
+      "en": "On 20 June 1991, after a long debate, the Bundestag decided to move parliament and parts of the federal government from Bonn to Berlin. The decision became a symbol of united Germany."
+    },
+    "importance": {
+      "ru": "Дата показывает, что воссоединение меняло не только границы, но и политическую географию страны.",
+      "de": "Das Datum zeigt, dass die Wiedervereinigung nicht nur Grenzen, sondern auch die politische Geografie des Landes veraenderte.",
+      "en": "The date shows that reunification changed not only borders but the country's political geography."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bonn-berlin-compromise",
+        "year": 1991,
+        "title": {
+          "ru": "Компромисс Бонн-Берлин",
+          "de": "Der Bonn-Berlin-Kompromiss",
+          "en": "The Bonn-Berlin compromise"
+        },
+        "description": {
+          "ru": "Решение не означало полного ухода из Бонна: многие федеральные структуры остались там. Германия фактически сохранила две важные административные точки.",
+          "de": "Die Entscheidung bedeutete keinen vollstaendigen Abschied von Bonn: Viele Bundesstrukturen blieben dort. Deutschland behielt faktisch zwei wichtige Verwaltungsorte.",
+          "en": "The decision did not mean a complete departure from Bonn: many federal structures remained there. Germany effectively kept two important administrative centers."
+        },
+        "importance": {
+          "ru": "Так политика памяти, федерализм и практические расходы встретились в одном решении.",
+          "de": "So trafen Erinnerungspolitik, Foederalismus und praktische Kosten in einer Entscheidung zusammen.",
+          "en": "Memory politics, federalism and practical costs met in one decision."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Решение было принято с небольшим перевесом голосов.",
+    "de": "Die Entscheidung fiel mit knapper Mehrheit.",
+    "en": "The decision was made by a narrow majority."
+  },
+  "sources": [
+    {
+      "label": "German Bundestag archive: decision to move to Berlin",
+      "url": "https://webarchiv.bundestag.de/archive/2009/0508/htdocs_e/art_arch/bonntoberlin/decis.html"
+    },
+    {
+      "label": "German Bundestag: from Bonn to Berlin",
+      "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/bonn-berlin"
+    }
+  ]
+}

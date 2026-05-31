@@ -1,0 +1,65 @@
+{
+  "date": "05-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1881-first-electric-tram-lichterfelde",
+    "year": 1881,
+    "title": {
+      "ru": "В Берлине-Лихтерфельде открылась первая электрическая трамвайная линия",
+      "de": "In Berlin-Lichterfelde faehrt die erste elektrische Strassenbahn",
+      "en": "The first electric tramway opens in Berlin-Lichterfelde"
+    },
+    "description": {
+      "ru": "16 мая 1881 года компания Siemens & Halske открыла электрическую железную дорогу в Лихтерфельде под Берлином. Это был важный шаг в истории городского электрического транспорта.",
+      "de": "Am 16. Mai 1881 eroeffnete Siemens & Halske die elektrische Bahn in Lichterfelde bei Berlin. Das war ein wichtiger Schritt in der Geschichte des elektrischen Stadtverkehrs.",
+      "en": "On 16 May 1881, Siemens & Halske opened the electric railway in Lichterfelde near Berlin. It was an important step in the history of electric urban transport."
+    },
+    "importance": {
+      "ru": "Дата показывает, как немецкая электротехника меняла повседневную мобильность городов.",
+      "de": "Das Datum zeigt, wie deutsche Elektrotechnik die alltägliche Mobilitaet der Staedte veraenderte.",
+      "en": "The date shows how German electrical engineering changed everyday urban mobility."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "siemens-urban-transport",
+        "year": 1881,
+        "title": {
+          "ru": "Сименс и транспорт будущего",
+          "de": "Siemens und der Verkehr der Zukunft",
+          "en": "Siemens and transport of the future"
+        },
+        "description": {
+          "ru": "Электрический трамвай казался технической новинкой, но быстро показал практическую пользу. Он стал частью будущего городского транспорта.",
+          "de": "Die elektrische Strassenbahn wirkte wie eine technische Neuheit, zeigte aber schnell praktischen Nutzen. Sie wurde Teil der Zukunft des Stadtverkehrs.",
+          "en": "The electric tram seemed like a technical novelty, but quickly proved practical. It became part of the future of urban transport."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как эксперимент превращается в инфраструктуру.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie aus einem Experiment Infrastruktur wird.",
+          "en": "It is a good example of an experiment becoming infrastructure."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Лихтерфельде позднее стало частью Берлина.",
+    "de": "Lichterfelde wurde spaeter ein Teil Berlins.",
+    "en": "Lichterfelde later became part of Berlin."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: The first electric trams",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1881-05-16-the-first-electric-trams/"
+    },
+    {
+      "label": "Deutsches Historisches Museum: first electric tram",
+      "url": "https://www.dhm.de/lemo/bestand/objekt/illustrirte-zeitung-zur-ersten-elektrischen-strassenbahn-1881"
+    }
+  ]
+}

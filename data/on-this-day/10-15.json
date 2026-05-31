@@ -1,0 +1,65 @@
+{
+  "date": "10-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1880-cologne-cathedral-completed",
+    "year": 1880,
+    "title": {
+      "ru": "Завершено строительство Кёльнского собора",
+      "de": "Der Koelner Dom wird vollendet",
+      "en": "Cologne Cathedral is completed"
+    },
+    "description": {
+      "ru": "15 октября 1880 года торжественно отметили завершение Кёльнского собора. Строительство началось ещё в 1248 году и длилось с большими перерывами более шести столетий.",
+      "de": "Am 15. Oktober 1880 wurde die Vollendung des Koelner Doms gefeiert. Der Bau hatte 1248 begonnen und dauerte mit grossen Unterbrechungen mehr als sechs Jahrhunderte.",
+      "en": "On 15 October 1880, the completion of Cologne Cathedral was celebrated. Construction had begun in 1248 and, with long interruptions, lasted more than six centuries."
+    },
+    "importance": {
+      "ru": "Собор стал не только религиозным памятником, но и национальным символом эпохи Германской империи.",
+      "de": "Der Dom wurde nicht nur ein religioeses Denkmal, sondern auch ein nationales Symbol der Kaiserzeit.",
+      "en": "The cathedral became not only a religious monument but also a national symbol of the imperial era."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "gothic-and-nation",
+        "year": 1880,
+        "title": {
+          "ru": "Готика и национальная идея",
+          "de": "Gotik und nationale Idee",
+          "en": "Gothic style and national idea"
+        },
+        "description": {
+          "ru": "В XIX веке завершение средневекового собора воспринимали как культурный проект объединённой Германии. Архитектура стала частью политики символов.",
+          "de": "Im 19. Jahrhundert wurde die Vollendung des mittelalterlichen Doms als Kulturprojekt des geeinten Deutschlands verstanden. Architektur wurde Teil der Symbolpolitik.",
+          "en": "In the nineteenth century, completing the medieval cathedral was seen as a cultural project of united Germany. Architecture became part of symbolic politics."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как здание может стать историческим аргументом.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie ein Gebaeude zu einem historischen Argument werden kann.",
+          "en": "It is a good example of a building becoming a historical argument."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Кёльнский собор включён в список Всемирного наследия ЮНЕСКО.",
+    "de": "Der Koelner Dom gehoert zum UNESCO-Welterbe.",
+    "en": "Cologne Cathedral is a UNESCO World Heritage Site."
+  },
+  "sources": [
+    {
+      "label": "UNESCO: Cologne Cathedral",
+      "url": "https://whc.unesco.org/en/list/292/"
+    },
+    {
+      "label": "GHDI: Cologne Cathedral festivities",
+      "url": "https://ghdi.ghi-dc.org/pdf/eng/304_Fontane_Cologne%20Cathedral_77.pdf"
+    }
+  ]
+}
