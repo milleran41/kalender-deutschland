@@ -1,0 +1,90 @@
+{
+  "date": "08-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1914-battle-of-tannenberg-ends",
+    "year": 1914,
+    "title": {
+      "ru": "Завершилась битва при Танненберге",
+      "de": "Die Schlacht bei Tannenberg endet",
+      "en": "The Battle of Tannenberg ends"
+    },
+    "description": {
+      "ru": "30 августа 1914 года завершилась битва при Танненберге в Восточной Пруссии. Германская армия нанесла тяжёлое поражение русской армии, и это стало одной из самых известных немецких побед начала Первой мировой войны.",
+      "de": "Am 30. August 1914 endete die Schlacht bei Tannenberg in Ostpreussen. Die deutsche Armee fuegte der russischen Armee eine schwere Niederlage zu; es wurde einer der bekanntesten deutschen Siege zu Beginn des Ersten Weltkriegs.",
+      "en": "On 30 August 1914, the Battle of Tannenberg in East Prussia ended. The German army inflicted a severe defeat on the Russian army, making it one of Germany's best-known early victories in the First World War."
+    },
+    "importance": {
+      "ru": "Событие важно для понимания Восточного фронта и того, как военные победы быстро превращались в политические мифы.",
+      "de": "Das Ereignis ist wichtig fuer das Verstaendnis der Ostfront und dafuer, wie militaerische Siege rasch zu politischen Mythen wurden.",
+      "en": "The event matters for understanding the Eastern Front and how military victories quickly became political myths."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "east-prussia-front",
+        "year": 1914,
+        "title": {
+          "ru": "Война пришла в Восточную Пруссию",
+          "de": "Der Krieg kommt nach Ostpreussen",
+          "en": "War reaches East Prussia"
+        },
+        "description": {
+          "ru": "Сражение происходило на территории Восточной Пруссии, которая тогда входила в Германскую империю. Для жителей региона война стала не далёкой новостью, а непосредственной угрозой.",
+          "de": "Die Schlacht fand in Ostpreussen statt, das damals zum Deutschen Reich gehoerte. Fuer die Menschen der Region war der Krieg keine ferne Nachricht, sondern eine unmittelbare Bedrohung.",
+          "en": "The battle took place in East Prussia, then part of the German Empire. For people in the region, the war was not distant news but an immediate threat."
+        },
+        "importance": {
+          "ru": "Так видно, что Первая мировая война с самого начала затронула не только фронты, но и мирное население.",
+          "de": "So wird deutlich, dass der Erste Weltkrieg von Anfang an nicht nur Fronten, sondern auch Zivilisten betraf.",
+          "en": "It shows that from the beginning the First World War affected not only armies but civilians too."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "name-as-propaganda",
+        "year": 1914,
+        "title": {
+          "ru": "Название как пропаганда",
+          "de": "Der Name als Propaganda",
+          "en": "A name used as propaganda"
+        },
+        "description": {
+          "ru": "Название «Танненберг» выбрали не случайно: оно отсылало к средневековой битве 1410 года, где Тевтонский орден потерпел поражение. В 1914 году немецкая пропаганда представила новую победу как символический реванш.",
+          "de": "Der Name Tannenberg war nicht zufaellig gewaehlt: Er verwies auf die mittelalterliche Schlacht von 1410, in der der Deutsche Orden besiegt worden war. 1914 stellte die deutsche Propaganda den neuen Sieg als symbolische Revanche dar.",
+          "en": "The name Tannenberg was chosen deliberately: it referred to the medieval battle of 1410, in which the Teutonic Order had been defeated. In 1914, German propaganda presented the new victory as symbolic revenge."
+        },
+        "importance": {
+          "ru": "Интересно, как даже название битвы может работать как политическое сообщение.",
+          "de": "Interessant ist, wie sogar der Name einer Schlacht als politische Botschaft wirken kann.",
+          "en": "It is interesting how even the name of a battle can work as a political message."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После Танненберга Пауль фон Гинденбург стал национальным героем в Германии, а позже сыграл огромную роль в политике Веймарской республики.",
+    "de": "Nach Tannenberg wurde Paul von Hindenburg in Deutschland zum Nationalhelden und spielte spaeter eine grosse Rolle in der Politik der Weimarer Republik.",
+    "en": "After Tannenberg, Paul von Hindenburg became a national hero in Germany and later played a major role in Weimar Republic politics."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Battle of Tannenberg",
+      "url": "https://www.britannica.com/event/Battle-of-Tannenberg-World-War-I-1914"
+    },
+    {
+      "label": "Deutschlandmuseum: The Battle of Tannenberg",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1914-08-30-the-battle-of-tannenberg/"
+    },
+    {
+      "label": "1914-1918-online: Tannenberg",
+      "url": "https://encyclopedia.1914-1918-online.net/article/tannenberg/"
+    }
+  ]
+}

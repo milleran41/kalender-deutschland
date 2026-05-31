@@ -1,0 +1,90 @@
+{
+  "date": "07-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1925-mein-kampf-first-volume-published",
+    "year": 1925,
+    "title": {
+      "ru": "Вышел первый том «Mein Kampf»",
+      "de": "Der erste Band von Mein Kampf erscheint",
+      "en": "The first volume of Mein Kampf is published"
+    },
+    "description": {
+      "ru": "18 июля 1925 года был опубликован первый том книги Адольфа Гитлера «Mein Kampf». Текст изложил многие идеи нацистской идеологии и позже стал одним из инструментов пропаганды.",
+      "de": "Am 18. Juli 1925 erschien der erste Band von Adolf Hitlers Mein Kampf. Der Text formulierte viele Grundideen der nationalsozialistischen Ideologie und wurde spaeter zu einem Propagandainstrument.",
+      "en": "On 18 July 1925, the first volume of Adolf Hitler's Mein Kampf was published. The text set out many ideas of Nazi ideology and later became a propaganda tool."
+    },
+    "importance": {
+      "ru": "Дата важна не из-за самой книги, а потому что показывает, как экстремистские идеи могут распространяться через печать и политику.",
+      "de": "Das Datum ist nicht wegen des Buches selbst wichtig, sondern weil es zeigt, wie extremistische Ideen durch Druck und Politik verbreitet werden koennen.",
+      "en": "The date matters not because of the book itself, but because it shows how extremist ideas can spread through print and politics."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "from-prison-text-to-propaganda",
+        "year": 1925,
+        "title": {
+          "ru": "От тюремной рукописи к пропаганде",
+          "de": "Vom Gefaengnistext zur Propaganda",
+          "en": "From prison manuscript to propaganda"
+        },
+        "description": {
+          "ru": "Гитлер начал диктовать книгу после провала «пивного путча» и заключения в Ландсберге. В дальнейшем нацистское государство активно распространяло этот текст.",
+          "de": "Hitler begann das Buch nach dem gescheiterten Hitlerputsch und seiner Haft in Landsberg zu diktieren. Spaeter verbreitete der NS-Staat den Text aktiv.",
+          "en": "Hitler began dictating the book after the failed Beer Hall Putsch and his imprisonment in Landsberg. Later, the Nazi state actively distributed the text."
+        },
+        "importance": {
+          "ru": "История книги помогает понять, почему пропаганду важно изучать критически.",
+          "de": "Die Geschichte des Buches hilft zu verstehen, warum Propaganda kritisch untersucht werden muss.",
+          "en": "The book's history helps explain why propaganda must be studied critically."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "copyright-and-annotated-edition",
+        "year": 2016,
+        "title": {
+          "ru": "Спорное переиздание с комментариями",
+          "de": "Umstrittene kommentierte Neuausgabe",
+          "en": "Controversial annotated edition"
+        },
+        "description": {
+          "ru": "После истечения авторских прав в Германии книгу издали в научной комментированной версии. Идея была в том, чтобы не распространять текст без объяснений, а разобрать его ложь и пропагандистские приёмы.",
+          "de": "Nach Ablauf des Urheberrechts wurde das Buch in Deutschland in einer wissenschaftlich kommentierten Ausgabe veroeffentlicht. Ziel war es, den Text nicht unkommentiert zu verbreiten, sondern seine Luegen und Propagandatechniken zu erklaeren.",
+          "en": "After the copyright expired, Germany saw a scholarly annotated edition. The aim was not to circulate the text without context, but to explain its lies and propaganda techniques."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как общество может работать с опасными историческими текстами.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie eine Gesellschaft mit gefaehrlichen historischen Texten umgehen kann.",
+          "en": "It is a useful example of how a society can deal with dangerous historical texts."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "К 1945 году «Mein Kampf» распространили миллионными тиражами, в том числе как «подарочные» экземпляры в нацистской Германии.",
+    "de": "Bis 1945 wurde Mein Kampf millionenfach verbreitet, auch als Geschenkausgabe im nationalsozialistischen Deutschland.",
+    "en": "By 1945, Mein Kampf had been distributed in millions of copies, including as gift editions in Nazi Germany."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Hitlers Mein Kampf erscheint",
+      "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1925-07-18-hitlers-mein-kampf-erscheint/"
+    },
+    {
+      "label": "Institut fuer Zeitgeschichte: 100 Jahre Hass und Hetze",
+      "url": "https://www.ifz-muenchen.de/aktuelles/artikel/100-jahre-hass-und-hetze"
+    },
+    {
+      "label": "History.com: Mein Kampf is published",
+      "url": "https://www.history.com/this-day-in-history/july-18/mein-kampf-is-published"
+    }
+  ]
+}

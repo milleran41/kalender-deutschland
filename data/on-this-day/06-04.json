@@ -1,0 +1,90 @@
+{
+  "date": "06-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1942-heydrich-dies-after-operation-anthropoid",
+    "year": 1942,
+    "title": {
+      "ru": "Рейнхард Гейдрих умер после покушения",
+      "de": "Reinhard Heydrich stirbt nach dem Attentat",
+      "en": "Reinhard Heydrich dies after the assassination attempt"
+    },
+    "description": {
+      "ru": "4 июня 1942 года в Праге умер Рейнхард Гейдрих, один из главных руководителей аппарата террора нацистской Германии и один из организаторов Холокоста. За несколько дней до этого на него совершили покушение участники чехословацкого сопротивления в операции «Антропоид».",
+      "de": "Am 4. Juni 1942 starb Reinhard Heydrich in Prag, einer der wichtigsten Leiter des Terrorapparats des nationalsozialistischen Deutschlands und einer der Organisatoren des Holocaust. Wenige Tage zuvor hatten Mitglieder des tschechoslowakischen Widerstands im Unternehmen Anthropoid ein Attentat auf ihn veruebt.",
+      "en": "On 4 June 1942, Reinhard Heydrich died in Prague. He was one of the leading figures in Nazi Germany's terror apparatus and one of the organizers of the Holocaust. Days earlier, members of the Czechoslovak resistance had attacked him in Operation Anthropoid."
+    },
+    "importance": {
+      "ru": "Событие важно как пример сопротивления нацистской оккупации и как напоминание о жестоких репрессиях, последовавших после покушения.",
+      "de": "Das Ereignis ist wichtig als Beispiel fuer Widerstand gegen die nationalsozialistische Besatzung und als Erinnerung an die brutalen Repressionen nach dem Attentat.",
+      "en": "The event matters as an example of resistance to Nazi occupation and as a reminder of the brutal reprisals that followed the attack."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "operation-anthropoid",
+        "year": 1942,
+        "title": {
+          "ru": "Операция «Антропоид»",
+          "de": "Unternehmen Anthropoid",
+          "en": "Operation Anthropoid"
+        },
+        "description": {
+          "ru": "Покушение подготовили чехословацкие военнослужащие, действовавшие при поддержке правительства в изгнании. Целью был один из самых опасных представителей нацистской власти в оккупированной Европе.",
+          "de": "Das Attentat wurde von tschechoslowakischen Soldaten vorbereitet, die mit Unterstuetzung der Exilregierung handelten. Ziel war einer der gefaehrlichsten Vertreter der nationalsozialistischen Herrschaft im besetzten Europa.",
+          "en": "The attack was prepared by Czechoslovak soldiers acting with support from the government in exile. The target was one of the most dangerous representatives of Nazi rule in occupied Europe."
+        },
+        "importance": {
+          "ru": "Это показывает, что сопротивление существовало даже в условиях крайне жестокой оккупации.",
+          "de": "Das zeigt, dass Widerstand selbst unter extrem brutaler Besatzung moeglich war.",
+          "en": "It shows that resistance existed even under extremely brutal occupation."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "radio-and-reprisals",
+        "year": 1942,
+        "title": {
+          "ru": "Событие, о котором узнала вся Европа",
+          "de": "Ein Ereignis, von dem Europa erfuhr",
+          "en": "An event known across Europe"
+        },
+        "description": {
+          "ru": "Смерть Гейдриха быстро стала известна далеко за пределами Праги. Нацистская пропаганда пыталась представить его как мученика режима, но в памяти Европы событие осталось прежде всего связано с сопротивлением и последующими карательными акциями.",
+          "de": "Heydrichs Tod wurde rasch weit ueber Prag hinaus bekannt. Die NS-Propaganda versuchte, ihn als Maertyrer des Regimes darzustellen, doch in Europas Erinnerung blieb das Ereignis vor allem mit Widerstand und den folgenden Strafaktionen verbunden.",
+          "en": "Heydrich's death quickly became known far beyond Prague. Nazi propaganda tried to present him as a martyr of the regime, but European memory connects the event above all with resistance and the reprisals that followed."
+        },
+        "importance": {
+          "ru": "Иногда одно событие становится символом сразу двух тем: мужества сопротивления и преступности диктатуры.",
+          "de": "Manchmal wird ein Ereignis zum Symbol fuer zwei Themen zugleich: den Mut des Widerstands und die Verbrechen der Diktatur.",
+          "en": "Sometimes one event becomes a symbol of two things at once: the courage of resistance and the crimes of dictatorship."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После смерти Гейдриха нацисты уничтожили деревню Лидице и убили или депортировали её жителей.",
+    "de": "Nach Heydrichs Tod zerstoerten die Nationalsozialisten das Dorf Lidice und ermordeten oder deportierten seine Bewohner.",
+    "en": "After Heydrich's death, the Nazis destroyed the village of Lidice and murdered or deported its inhabitants."
+  },
+  "sources": [
+    {
+      "label": "United States Holocaust Memorial Museum: Assassination of Reinhard Heydrich",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/assassination-of-reinhard-heydrich"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Reinhard Heydrich",
+      "url": "https://www.britannica.com/biography/Reinhard-Heydrich"
+    },
+    {
+      "label": "Radio Prague International: Operation Anthropoid",
+      "url": "https://english.radio.cz/operation-anthropoid-8061103"
+    }
+  ]
+}
