@@ -1,0 +1,65 @@
+{
+  "date": "02-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1546-martin-luther-dies",
+    "year": 1546,
+    "title": {
+      "ru": "Умер Мартин Лютер",
+      "de": "Martin Luther stirbt",
+      "en": "Martin Luther dies"
+    },
+    "description": {
+      "ru": "18 февраля 1546 года в Айслебене умер Мартин Лютер. Он был одним из главных деятелей Реформации и изменил религиозную историю Германии.",
+      "de": "Am 18. Februar 1546 starb Martin Luther in Eisleben. Er war eine der wichtigsten Figuren der Reformation und veraenderte die Religionsgeschichte Deutschlands.",
+      "en": "On 18 February 1546, Martin Luther died in Eisleben. He was one of the main figures of the Reformation and changed Germany's religious history."
+    },
+    "importance": {
+      "ru": "Лютер связан с Виттенбергом, переводом Библии и развитием немецкого письменного языка.",
+      "de": "Luther ist mit Wittenberg, der Bibeluebersetzung und der Entwicklung der deutschen Schriftsprache verbunden.",
+      "en": "Luther is linked with Wittenberg, Bible translation and the development of written German."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "luther-reformation-legacy",
+        "year": 1546,
+        "title": {
+          "ru": "Наследие Реформации",
+          "de": "Das Erbe der Reformation",
+          "en": "The legacy of the Reformation"
+        },
+        "description": {
+          "ru": "После Лютера религиозная карта Германии уже не была прежней. Споры о вере влияли на княжества, школы, книги и политику.",
+          "de": "Nach Luther war die religioese Landkarte Deutschlands nicht mehr dieselbe. Glaubensstreitigkeiten beeinflussten Fuerstentuemer, Schulen, Buecher und Politik.",
+          "en": "After Luther, Germany's religious map was no longer the same. Conflicts over faith shaped principalities, schools, books and politics."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему Реформация стала не только церковным, но и общественным событием.",
+          "de": "Das hilft zu verstehen, warum die Reformation nicht nur ein kirchliches, sondern auch ein gesellschaftliches Ereignis wurde.",
+          "en": "This helps explain why the Reformation became not only a church event but also a social one."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Лютер родился и умер в одном городе — Айслебене, который сегодня связан с памятными местами Реформации.",
+    "de": "Luther wurde in Eisleben geboren und starb dort auch; die Stadt ist heute mit Gedenkstaetten der Reformation verbunden.",
+    "en": "Luther was born and died in the same town, Eisleben, which is now linked with Reformation memorial sites."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Martin Luther",
+      "url": "https://www.britannica.com/biography/Martin-Luther"
+    },
+    {
+      "label": "Britannica: Martin Luther facts",
+      "url": "https://www.britannica.com/facts/Martin-Luther"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "05-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1824-beethoven-ninth-premiere",
+    "year": 1824,
+    "title": {
+      "ru": "Премьера Девятой симфонии Бетховена",
+      "de": "Urauffuehrung von Beethovens Neunter",
+      "en": "Premiere of Beethoven's Ninth Symphony"
+    },
+    "description": {
+      "ru": "7 мая 1824 года в Вене впервые прозвучала Девятая симфония Людвига ван Бетховена. Финал с «Одой к радости» стал одним из самых узнаваемых музыкальных символов Европы.",
+      "de": "Am 7. Mai 1824 wurde in Wien Ludwig van Beethovens Neunte Symphonie uraufgefuehrt. Das Finale mit der Ode an die Freude wurde zu einem der bekanntesten musikalischen Symbole Europas.",
+      "en": "On 7 May 1824, Ludwig van Beethoven's Ninth Symphony premiered in Vienna. Its finale with the Ode to Joy became one of Europe's most recognizable musical symbols."
+    },
+    "importance": {
+      "ru": "Хотя премьера была в Вене, Бетховен родился в Бонне и остаётся одной из центральных фигур немецкой музыкальной культуры.",
+      "de": "Obwohl die Urauffuehrung in Wien stattfand, wurde Beethoven in Bonn geboren und bleibt eine zentrale Figur der deutschen Musikkultur.",
+      "en": "Although the premiere took place in Vienna, Beethoven was born in Bonn and remains a central figure of German musical culture."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "ode-to-joy-europe",
+        "year": 1824,
+        "title": {
+          "ru": "«Ода к радости»",
+          "de": "Ode an die Freude",
+          "en": "Ode to Joy"
+        },
+        "description": {
+          "ru": "В финале симфонии Бетховен использовал стихотворение Фридриха Шиллера. Позднее эта мелодия стала музыкальным символом европейского единства.",
+          "de": "Im Finale der Symphonie verwendete Beethoven ein Gedicht von Friedrich Schiller. Spaeter wurde diese Melodie zu einem musikalischen Symbol europaeischer Einheit.",
+          "en": "In the symphony's finale, Beethoven used a poem by Friedrich Schiller. The melody later became a musical symbol of European unity."
+        },
+        "importance": {
+          "ru": "Здесь встречаются два великих имени немецкой культуры: Бетховен и Шиллер.",
+          "de": "Hier begegnen sich zwei grosse Namen der deutschen Kultur: Beethoven und Schiller.",
+          "en": "Two great names of German culture meet here: Beethoven and Schiller."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бетховен к моменту премьеры уже почти не слышал, поэтому история первого исполнения особенно драматична.",
+    "de": "Beethoven konnte zur Zeit der Urauffuehrung kaum noch hoeren, was die Geschichte der ersten Auffuehrung besonders bewegend macht.",
+    "en": "By the time of the premiere, Beethoven could barely hear, making the story of the first performance especially moving."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Symphony No. 9",
+      "url": "https://www.britannica.com/topic/Symphony-No-9-in-D-Minor"
+    },
+    {
+      "label": "Boston Symphony Orchestra: Beethoven Symphony No. 9",
+      "url": "https://www.bso.org/works/symphony-no-9-in-d-minor-op-125-cho"
+    }
+  ]
+}

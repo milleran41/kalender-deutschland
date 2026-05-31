@@ -1,0 +1,65 @@
+{
+  "date": "08-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1248-cologne-cathedral-foundation",
+    "year": 1248,
+    "title": {
+      "ru": "Началось строительство Кёльнского собора",
+      "de": "Baubeginn des Koelner Doms",
+      "en": "Construction of Cologne Cathedral begins"
+    },
+    "description": {
+      "ru": "15 августа 1248 года был заложен первый камень Кёльнского собора. Строительство растянулось на века, а собор стал одним из главных символов Рейнской области.",
+      "de": "Am 15. August 1248 wurde der Grundstein des Koelner Doms gelegt. Der Bau zog sich ueber Jahrhunderte hin, und der Dom wurde zu einem der wichtigsten Symbole des Rheinlands.",
+      "en": "On 15 August 1248, the foundation stone of Cologne Cathedral was laid. Construction stretched across centuries, and the cathedral became one of the main symbols of the Rhineland."
+    },
+    "importance": {
+      "ru": "Кёльнский собор показывает масштаб средневековой городской веры, богатства и мастерства.",
+      "de": "Der Koelner Dom zeigt die Groesse mittelalterlichen staedtischen Glaubens, Reichtums und Handwerks.",
+      "en": "Cologne Cathedral shows the scale of medieval urban faith, wealth and craftsmanship."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "cologne-cathedral-long-construction",
+        "year": 1880,
+        "title": {
+          "ru": "Собор достраивали через столетия",
+          "de": "Der Dom wurde erst Jahrhunderte spaeter vollendet",
+          "en": "The cathedral was completed centuries later"
+        },
+        "description": {
+          "ru": "Работы над собором надолго останавливались и были завершены только в XIX веке. Поэтому здание соединяет Средневековье, романтический интерес к готике и национальную символику.",
+          "de": "Die Arbeiten am Dom ruhten lange und wurden erst im 19. Jahrhundert vollendet. So verbindet das Gebaeude Mittelalter, romantisches Interesse an der Gotik und nationale Symbolik.",
+          "en": "Work on the cathedral stopped for a long time and was completed only in the 19th century. The building connects the Middle Ages, Romantic interest in Gothic architecture and national symbolism."
+        },
+        "importance": {
+          "ru": "Это редкий памятник, в котором один проект пережил несколько эпох.",
+          "de": "Es ist ein seltenes Denkmal, in dem ein Projekt mehrere Epochen ueberdauerte.",
+          "en": "It is a rare monument where one project outlasted several eras."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Кёльнский собор входит в список Всемирного наследия ЮНЕСКО.",
+    "de": "Der Koelner Dom gehoert zum UNESCO-Welterbe.",
+    "en": "Cologne Cathedral is a UNESCO World Heritage Site."
+  },
+  "sources": [
+    {
+      "label": "Cologne Cathedral official site: History",
+      "url": "https://www.koelner-dom.de/en/history"
+    },
+    {
+      "label": "UNESCO: Cologne Cathedral",
+      "url": "https://whc.unesco.org/en/list/292/"
+    }
+  ]
+}
