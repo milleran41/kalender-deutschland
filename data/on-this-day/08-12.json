@@ -1,0 +1,90 @@
+{
+  "date": "08-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1970-treaty-of-moscow-signed",
+    "year": 1970,
+    "title": {
+      "ru": "Подписан Московский договор",
+      "de": "Der Moskauer Vertrag wird unterzeichnet",
+      "en": "The Treaty of Moscow is signed"
+    },
+    "description": {
+      "ru": "12 августа 1970 года ФРГ и СССР подписали Московский договор. Стороны отказались от применения силы и признали неприкосновенность существующих европейских границ.",
+      "de": "Am 12. August 1970 unterzeichneten die Bundesrepublik Deutschland und die Sowjetunion den Moskauer Vertrag. Beide Seiten verzichteten auf Gewalt und erkannten die Unverletzlichkeit der bestehenden europaeischen Grenzen an.",
+      "en": "On 12 August 1970, West Germany and the Soviet Union signed the Treaty of Moscow. Both sides renounced the use of force and recognized the inviolability of existing European borders."
+    },
+    "importance": {
+      "ru": "Это был один из центральных шагов Ostpolitik Вилли Брандта и важная основа разрядки в Европе.",
+      "de": "Dies war ein zentraler Schritt der Ostpolitik Willy Brandts und eine wichtige Grundlage der Entspannung in Europa.",
+      "en": "It was a central step in Willy Brandt's Ostpolitik and an important basis for détente in Europe."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "ostpolitik-moscow",
+        "year": 1970,
+        "title": {
+          "ru": "Диалог с Востоком",
+          "de": "Dialog mit dem Osten",
+          "en": "Dialogue with the East"
+        },
+        "description": {
+          "ru": "После десятилетий холодной войны ФРГ начала искать договорные отношения с СССР и восточноевропейскими странами. Это не отменяло раздел Германии, но снижало напряжение и открывало новые контакты.",
+          "de": "Nach Jahrzehnten des Kalten Krieges suchte die Bundesrepublik vertragliche Beziehungen zur Sowjetunion und zu osteuropaeischen Staaten. Das hob die Teilung Deutschlands nicht auf, verringerte aber Spannungen und oeffnete neue Kontakte.",
+          "en": "After decades of Cold War, West Germany sought treaty-based relations with the Soviet Union and Eastern European states. This did not end Germany's division, but it reduced tension and opened new contacts."
+        },
+        "importance": {
+          "ru": "Дата показывает, как дипломатия постепенно готовила почву для более поздних перемен в Европе.",
+          "de": "Das Datum zeigt, wie Diplomatie allmaehlich den Boden fuer spaetere Veraenderungen in Europa bereitete.",
+          "en": "The date shows how diplomacy gradually prepared the ground for later changes in Europe."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "brandt-scheel-moscow",
+        "year": 1970,
+        "title": {
+          "ru": "Брандт и Шеель в Москве",
+          "de": "Brandt und Scheel in Moskau",
+          "en": "Brandt and Scheel in Moscow"
+        },
+        "description": {
+          "ru": "Договор подписали канцлер Вилли Брандт и министр иностранных дел Вальтер Шеель. Их политика вызвала острые споры в ФРГ, но стала одной из самых известных страниц западногерманской дипломатии.",
+          "de": "Der Vertrag wurde von Bundeskanzler Willy Brandt und Aussenminister Walter Scheel unterzeichnet. Ihre Politik loeste in der Bundesrepublik heftige Debatten aus, wurde aber zu einem der bekanntesten Kapitel westdeutscher Diplomatie.",
+          "en": "The treaty was signed by Chancellor Willy Brandt and Foreign Minister Walter Scheel. Their policy triggered fierce debates in West Germany, but became one of the best-known chapters of West German diplomacy."
+        },
+        "importance": {
+          "ru": "Это пример политического решения, которое выглядело рискованным, но стало частью долгой дороги к сближению.",
+          "de": "Das ist ein Beispiel fuer eine politische Entscheidung, die riskant wirkte, aber Teil eines langen Weges zur Annaeherung wurde.",
+          "en": "It is an example of a political decision that seemed risky but became part of a long road toward rapprochement."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Московский договор был ратифицирован Бундестагом в мае 1972 года вместе с Варшавским договором.",
+    "de": "Der Moskauer Vertrag wurde im Mai 1972 zusammen mit dem Warschauer Vertrag vom Bundestag ratifiziert.",
+    "en": "The Treaty of Moscow was ratified by the Bundestag in May 1972 together with the Treaty of Warsaw."
+  },
+  "sources": [
+    {
+      "label": "CVCE: Treaty of Moscow, 12 August 1970",
+      "url": "https://www.cvce.eu/en/obj/treaty_of_moscow_12_august_1970-en-4ab6845b-858d-4ea8-8cc6-f2bc8b0f40c8.html"
+    },
+    {
+      "label": "LeMO: Neue Ostpolitik",
+      "url": "https://www.dhm.de/lemo/kapitel/geteiltes-deutschland-modernisierung/neue-ostpolitik.html"
+    },
+    {
+      "label": "Bundestag: Ostvertraege",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/ostvertraege-200102"
+    }
+  ]
+}

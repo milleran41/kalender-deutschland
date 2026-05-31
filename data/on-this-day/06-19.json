@@ -1,0 +1,90 @@
+{
+  "date": "06-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1970-patent-cooperation-treaty-signed",
+    "year": 1970,
+    "title": {
+      "ru": "Подписан Договор о патентной кооперации",
+      "de": "Der Patentzusammenarbeitsvertrag wird unterzeichnet",
+      "en": "The Patent Cooperation Treaty is signed"
+    },
+    "description": {
+      "ru": "19 июня 1970 года в Вашингтоне был открыт для подписания Договор о патентной кооперации. Среди участников конференции была и Федеративная Республика Германия.",
+      "de": "Am 19. Juni 1970 wurde in Washington der Patentzusammenarbeitsvertrag zur Unterzeichnung aufgelegt. Zu den Teilnehmern der Konferenz gehoerte auch die Bundesrepublik Deutschland.",
+      "en": "On 19 June 1970, the Patent Cooperation Treaty was opened for signature in Washington. The Federal Republic of Germany was among the participants in the conference."
+    },
+    "importance": {
+      "ru": "Договор упростил международную охрану изобретений и стал важной частью современной системы патентов, особенно для технически сильных стран вроде Германии.",
+      "de": "Der Vertrag vereinfachte den internationalen Schutz von Erfindungen und wurde zu einem wichtigen Teil des modernen Patentsystems, besonders fuer technisch starke Laender wie Deutschland.",
+      "en": "The treaty simplified international protection for inventions and became an important part of the modern patent system, especially for technically strong countries such as Germany."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "patents-and-engineering",
+        "year": 1970,
+        "title": {
+          "ru": "Изобретения без границ",
+          "de": "Erfindungen ohne Grenzen",
+          "en": "Inventions across borders"
+        },
+        "description": {
+          "ru": "Патенты защищают идеи, устройства и технические решения. Для немецкой инженерии, химии, медицины и машиностроения международные правила стали особенно важны.",
+          "de": "Patente schuetzen Ideen, Geraete und technische Loesungen. Fuer deutsche Ingenieurkunst, Chemie, Medizin und Maschinenbau wurden internationale Regeln besonders wichtig.",
+          "en": "Patents protect ideas, devices and technical solutions. For German engineering, chemistry, medicine and mechanical industry, international rules became especially important."
+        },
+        "importance": {
+          "ru": "Это показывает, что наука и техника зависят не только от лабораторий, но и от права.",
+          "de": "Das zeigt, dass Wissenschaft und Technik nicht nur von Laboren, sondern auch vom Recht abhaengen.",
+          "en": "It shows that science and technology depend not only on laboratories, but also on law."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "one-application-many-countries",
+        "year": 1970,
+        "title": {
+          "ru": "Одна заявка для многих стран",
+          "de": "Eine Anmeldung fuer viele Laender",
+          "en": "One application for many countries"
+        },
+        "description": {
+          "ru": "Главная идея PCT проста: изобретатель может начать международную патентную процедуру одной заявкой. Это не заменяет национальные патенты полностью, но делает первый шаг гораздо удобнее.",
+          "de": "Die Grundidee des PCT ist einfach: Ein Erfinder kann ein internationales Patentverfahren mit einer einzigen Anmeldung beginnen. Das ersetzt nationale Patente nicht vollstaendig, macht den ersten Schritt aber viel einfacher.",
+          "en": "The basic idea of the PCT is simple: an inventor can begin an international patent procedure with one application. It does not fully replace national patents, but it makes the first step much easier."
+        },
+        "importance": {
+          "ru": "Даже бюрократическая реформа может сильно ускорить путь идеи из мастерской на мировой рынок.",
+          "de": "Auch eine buerokratische Reform kann den Weg einer Idee aus der Werkstatt auf den Weltmarkt stark beschleunigen.",
+          "en": "Even a bureaucratic reform can greatly speed an idea's path from workshop to world market."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Договор вступил в силу в 1978 году и сегодня действует для большинства стран мира.",
+    "de": "Der Vertrag trat 1978 in Kraft und gilt heute fuer die meisten Staaten der Welt.",
+    "en": "The treaty entered into force in 1978 and now applies to most countries in the world."
+  },
+  "sources": [
+    {
+      "label": "WIPO: Records of the Washington Diplomatic Conference on the PCT",
+      "url": "https://www.wipo.int/pct/en/texts/washington.html"
+    },
+    {
+      "label": "WIPO: Patent Cooperation Treaty, Washington 1970",
+      "url": "https://www.wipo.int/documents/d/pct-system/docs-en-texts-washington.pdf"
+    },
+    {
+      "label": "USPTO: Patent Cooperation Treaty",
+      "url": "https://www.uspto.gov/ip-policy/patent-policy/patent-cooperation-treaty"
+    }
+  ]
+}

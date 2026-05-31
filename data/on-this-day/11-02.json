@@ -1,0 +1,90 @@
+{
+  "date": "11-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1936-bbc-television-begins-german-competition",
+    "year": 1936,
+    "title": {
+      "ru": "BBC начала регулярное телевещание",
+      "de": "Die BBC beginnt mit regelmaessigem Fernsehen",
+      "en": "The BBC begins regular television broadcasting"
+    },
+    "description": {
+      "ru": "2 ноября 1936 года BBC начала регулярное телевизионное вещание в Лондоне. Для Германии эта дата интересна как часть ранней европейской гонки телевидения, в которой Берлин уже проводил свои опыты и трансляции.",
+      "de": "Am 2. November 1936 begann die BBC in London mit regelmaessigem Fernsehbetrieb. Fuer Deutschland ist dieses Datum interessant als Teil des fruehen europaeischen Fernsehwettlaufs, in dem Berlin bereits eigene Versuche und Sendungen durchfuehrte.",
+      "en": "On 2 November 1936, the BBC began regular television broadcasting in London. For Germany, the date is interesting as part of the early European race for television, in which Berlin was already conducting experiments and broadcasts."
+    },
+    "importance": {
+      "ru": "Дата помогает увидеть, что телевидение развивалось не в одной стране, а как общеевропейская техническая и культурная конкуренция.",
+      "de": "Das Datum zeigt, dass Fernsehen nicht in einem einzigen Land entstand, sondern als europaweiter technischer und kultureller Wettbewerb.",
+      "en": "The date shows that television did not develop in one country alone, but as a Europe-wide technical and cultural competition."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "early-television-technology",
+        "year": 1936,
+        "title": {
+          "ru": "Раннее телевидение",
+          "de": "Fruehes Fernsehen",
+          "en": "Early television"
+        },
+        "description": {
+          "ru": "Телевидение 1930-х годов было дорогим, технически сложным и доступным немногим. Но именно тогда появились форматы, студии и представление о прямой передаче изображения.",
+          "de": "Fernsehen der 1930er Jahre war teuer, technisch schwierig und nur wenigen Menschen zugaenglich. Doch damals entstanden Formate, Studios und die Vorstellung einer Live-Uebertragung von Bildern.",
+          "en": "Television in the 1930s was expensive, technically difficult and available to few people. Yet that period created formats, studios and the idea of live image transmission."
+        },
+        "importance": {
+          "ru": "Это показывает, как медиа, которые сегодня кажутся обычными, когда-то были экспериментальной техникой.",
+          "de": "Das zeigt, wie Medien, die heute alltaeglich wirken, einst experimentelle Technik waren.",
+          "en": "It shows how media that seem ordinary today were once experimental technology."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "berlin-television-olympics",
+        "year": 1936,
+        "title": {
+          "ru": "Берлин и олимпийские телепередачи",
+          "de": "Berlin und olympische Fernsehbilder",
+          "en": "Berlin and Olympic television"
+        },
+        "description": {
+          "ru": "В 1936 году в Берлине телепоказы Олимпийских игр демонстрировали возможности новой техники. Технологический интерес здесь соседствовал с пропагандистскими целями нацистского режима.",
+          "de": "1936 zeigten Fernsehuebertragungen der Olympischen Spiele in Berlin die Moeglichkeiten der neuen Technik. Technisches Interesse stand dabei neben propagandistischen Zielen des NS-Regimes.",
+          "en": "In 1936, television coverage of the Olympic Games in Berlin demonstrated the possibilities of the new technology. Technical interest stood alongside the propaganda aims of the Nazi regime."
+        },
+        "importance": {
+          "ru": "Так ранняя история телевидения связывается не только с изобретениями, но и с политикой изображения.",
+          "de": "So verbindet sich fruehe Fernsehgeschichte nicht nur mit Erfindungen, sondern auch mit der Politik der Bilder.",
+          "en": "Early television history is thus linked not only with inventions, but also with the politics of images."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Берлине во время Олимпиады 1936 года работали специальные телевизионные залы для зрителей.",
+    "de": "In Berlin gab es waehrend der Olympischen Spiele 1936 besondere Fernsehstuben fuer Zuschauer.",
+    "en": "During the 1936 Olympics, Berlin had special television rooms for viewers."
+  },
+  "sources": [
+    {
+      "label": "BBC: 2 November 1936 television service",
+      "url": "https://www.bbc.com/historyofthebbc/anniversaries/november/television-service"
+    },
+    {
+      "label": "Deutsches Technikmuseum: Fernsehen in Deutschland",
+      "url": "https://technikmuseum.berlin/ausstellungen/dauerausstellungen/fernsehen/"
+    },
+    {
+      "label": "Olympics.com: Television at the Berlin 1936 Olympic Games",
+      "url": "https://olympics.com/ioc/news/berlin-1936-the-first-olympic-games-to-be-televised"
+    }
+  ]
+}
