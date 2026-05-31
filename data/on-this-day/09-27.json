@@ -1,0 +1,90 @@
+{
+  "date": "09-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1940-tripartite-pact-signed-in-berlin",
+    "year": 1940,
+    "title": {
+      "ru": "В Берлине подписали Тройственный пакт",
+      "de": "Der Dreimaechtepakt wird in Berlin unterzeichnet",
+      "en": "The Tripartite Pact is signed in Berlin"
+    },
+    "description": {
+      "ru": "27 сентября 1940 года Германия, Италия и Япония подписали в Берлине Тройственный пакт. Документ оформил союз держав Оси и расширил политическую географию Второй мировой войны.",
+      "de": "Am 27. September 1940 unterzeichneten Deutschland, Italien und Japan in Berlin den Dreimaechtepakt. Das Dokument formalisierte das Buendnis der Achsenmaechte und erweiterte die politische Geografie des Zweiten Weltkriegs.",
+      "en": "On 27 September 1940, Germany, Italy and Japan signed the Tripartite Pact in Berlin. The document formalized the Axis alliance and widened the political geography of the Second World War."
+    },
+    "importance": {
+      "ru": "Событие важно, потому что оно связало европейскую и азиатско-тихоокеанскую агрессию в один крупный военный блок.",
+      "de": "Das Ereignis ist wichtig, weil es europaeische und asiatisch-pazifische Aggression in einem grossen Kriegsbuendnis verband.",
+      "en": "The event matters because it linked European and Asia-Pacific aggression in one major wartime alliance."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "axis-alliance",
+        "year": 1940,
+        "title": {
+          "ru": "Ось стала официальным союзом",
+          "de": "Die Achse wird zum offiziellen Buendnis",
+          "en": "The Axis becomes an official alliance"
+        },
+        "description": {
+          "ru": "Германия и Италия уже сотрудничали в Европе, а Япония вела войну в Азии. Пакт придал этому сотрудничеству форму международного договора.",
+          "de": "Deutschland und Italien arbeiteten bereits in Europa zusammen, waehrend Japan Krieg in Asien fuehrte. Der Pakt gab dieser Zusammenarbeit die Form eines internationalen Vertrags.",
+          "en": "Germany and Italy were already cooperating in Europe, while Japan was waging war in Asia. The pact gave that cooperation the form of an international treaty."
+        },
+        "importance": {
+          "ru": "Так видно, как локальные войны и союзы постепенно складывались в мировую войну.",
+          "de": "So wird sichtbar, wie lokale Kriege und Buendnisse allmaehlich zu einem Weltkrieg zusammenwuchsen.",
+          "en": "It shows how local wars and alliances gradually merged into a world war."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "berlin-pact-name",
+        "year": 1940,
+        "title": {
+          "ru": "Его называли ещё Берлинским пактом",
+          "de": "Er wurde auch Berliner Pakt genannt",
+          "en": "It was also called the Berlin Pact"
+        },
+        "description": {
+          "ru": "Тройственный пакт часто называют Берлинским пактом, потому что церемония подписания прошла именно в столице Германии. Для нацистской пропаганды место подписания было частью политического спектакля.",
+          "de": "Der Dreimaechtepakt wird oft auch Berliner Pakt genannt, weil die Unterzeichnung in der deutschen Hauptstadt stattfand. Fuer die NS-Propaganda war der Ort Teil der politischen Inszenierung.",
+          "en": "The Tripartite Pact is often also called the Berlin Pact because the signing ceremony took place in the German capital. For Nazi propaganda, the location was part of the political staging."
+        },
+        "importance": {
+          "ru": "Это напоминает, что дипломатические церемонии тоже могут быть инструментом пропаганды.",
+          "de": "Das erinnert daran, dass diplomatische Zeremonien ebenfalls Werkzeuge der Propaganda sein koennen.",
+          "en": "It is a reminder that diplomatic ceremonies can also be tools of propaganda."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Пакт подписали представители Германии, Италии и Японии в присутствии Адольфа Гитлера.",
+    "de": "Der Pakt wurde von Vertretern Deutschlands, Italiens und Japans in Anwesenheit Adolf Hitlers unterzeichnet.",
+    "en": "The pact was signed by representatives of Germany, Italy and Japan in Adolf Hitler's presence."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Tripartite Pact",
+      "url": "https://www.britannica.com/topic/Tripartite-Pact"
+    },
+    {
+      "label": "Avalon Project: Three-Power Pact",
+      "url": "https://cdn.britannica.com/primary_source/avalon/wwii/triparti.asp"
+    },
+    {
+      "label": "The National WWII Museum: Germany, Japan, and the Tripartite Pact",
+      "url": "https://www.nationalww2museum.org/war/articles/germany-japan-tripartite-pact"
+    }
+  ]
+}

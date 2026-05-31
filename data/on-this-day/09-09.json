@@ -1,0 +1,111 @@
+{
+  "date": "09-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1948-ernst-reuter-berlin-speech",
+    "year": 1948,
+    "title": {
+      "ru": "Эрнст Рейтер призвал мир не бросать Берлин",
+      "de": "Ernst Reuter ruft die Welt auf, Berlin nicht aufzugeben",
+      "en": "Ernst Reuter urges the world not to abandon Berlin"
+    },
+    "description": {
+      "ru": "9 сентября 1948 года во время блокады Берлина Эрнст Рейтер выступил перед Рейхстагом с речью к жителям города и западным союзникам. Его призыв «народы мира, посмотрите на этот город» стал одним из символов Западного Берлина.",
+      "de": "Am 9. September 1948 hielt Ernst Reuter waehrend der Berlin-Blockade vor dem Reichstag eine Rede an die Stadtbevoelkerung und die westlichen Alliierten. Sein Aufruf, die Voelker der Welt sollten auf diese Stadt schauen, wurde zu einem Symbol West-Berlins.",
+      "en": "On 9 September 1948, during the Berlin Blockade, Ernst Reuter spoke in front of the Reichstag to Berliners and the Western Allies. His appeal for the peoples of the world to look at the city became one of West Berlin's symbols."
+    },
+    "importance": {
+      "ru": "Речь показывает, как Берлин стал не только городом, но и символом холодной войны.",
+      "de": "Die Rede zeigt, wie Berlin nicht nur eine Stadt, sondern ein Symbol des Kalten Krieges wurde.",
+      "en": "The speech shows how Berlin became not only a city, but also a symbol of the Cold War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "berlin-blockade-context",
+        "year": 1948,
+        "title": {
+          "ru": "Блокада и воздушный мост",
+          "de": "Blockade und Luftbruecke",
+          "en": "Blockade and airlift"
+        },
+        "description": {
+          "ru": "Советская блокада перекрыла сухопутные пути в западные секторы Берлина. Западные союзники снабжали город по воздуху, и это превратило повседневную жизнь берлинцев в испытание на выносливость.",
+          "de": "Die sowjetische Blockade sperrte die Landwege in die Westsektoren Berlins. Die westlichen Alliierten versorgten die Stadt aus der Luft, wodurch der Alltag der Berliner zu einer Belastungsprobe wurde.",
+          "en": "The Soviet blockade cut off land routes to the western sectors of Berlin. The Western Allies supplied the city by air, turning daily life for Berliners into a test of endurance."
+        },
+        "importance": {
+          "ru": "Так школьнику легче понять, почему речь Рейтера произвела такой сильный эффект.",
+          "de": "So laesst sich leichter verstehen, warum Reuters Rede eine so starke Wirkung hatte.",
+          "en": "This makes it easier to understand why Reuter's speech had such a strong impact."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "ernst-reuter",
+        "year": 1948,
+        "title": {
+          "ru": "Эрнст Рейтер",
+          "de": "Ernst Reuter",
+          "en": "Ernst Reuter"
+        },
+        "description": {
+          "ru": "Рейтер был социал-демократическим политиком и вскоре стал правящим бургомистром Западного Берлина. Его имя прочно связано с образом города, который не хотел сдаваться давлению.",
+          "de": "Reuter war sozialdemokratischer Politiker und wurde kurz darauf Regierender Buergermeister von West-Berlin. Sein Name ist eng mit dem Bild einer Stadt verbunden, die dem Druck nicht nachgeben wollte.",
+          "en": "Reuter was a Social Democratic politician and soon became Governing Mayor of West Berlin. His name is closely tied to the image of a city that refused to give in to pressure."
+        },
+        "importance": {
+          "ru": "Он стал одной из главных политических фигур послевоенного Берлина.",
+          "de": "Er wurde zu einer der wichtigsten politischen Figuren des Nachkriegsberlins.",
+          "en": "He became one of the key political figures of postwar Berlin."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "speech-at-ruins",
+        "year": 1948,
+        "title": {
+          "ru": "Речь на фоне руин",
+          "de": "Eine Rede vor Ruinen",
+          "en": "A speech before ruins"
+        },
+        "description": {
+          "ru": "Рейтер выступал у повреждённого здания Рейхстага, которое само напоминало о недавней войне. Поэтому место речи усиливало её смысл: речь шла о будущем разрушенного, но живого города.",
+          "de": "Reuter sprach am beschaedigten Reichstagsgebaeude, das selbst an den gerade vergangenen Krieg erinnerte. Der Ort verstaerkte die Botschaft: Es ging um die Zukunft einer zerstoerten, aber lebendigen Stadt.",
+          "en": "Reuter spoke beside the damaged Reichstag building, which itself recalled the recent war. The setting strengthened the message: the issue was the future of a ruined but living city."
+        },
+        "importance": {
+          "ru": "Иногда место выступления делает политическую речь намного сильнее.",
+          "de": "Manchmal macht der Ort eine politische Rede sehr viel staerker.",
+          "en": "Sometimes the place where a speech is delivered makes the political message much stronger."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На митинг 9 сентября 1948 года пришли сотни тысяч жителей Берлина.",
+    "de": "Zur Kundgebung am 9. September 1948 kamen Hunderttausende Berlinerinnen und Berliner.",
+    "en": "Hundreds of thousands of Berliners attended the rally on 9 September 1948."
+  },
+  "sources": [
+    {
+      "label": "Berlin.de: Ernst Reuters Rede am 9. September 1948",
+      "url": "https://www.berlin.de/geschichte/8481767-3689745-ernst-reuters-rede-am-9-september-1948-v.html"
+    },
+    {
+      "label": "German History in Documents and Images: Ernst Reuter's speech",
+      "url": "https://germanhistorydocs.org/en/occupation-and-the-emergence-of-two-states-1945-1961/people-of-the-world-look-at-this-city-berlin-mayor-ernst-reuters-speech-on-the-berlin-blockade-september-9-1948.pdf"
+    },
+    {
+      "label": "Berlin Airlift 75: Reuter's speech",
+      "url": "https://www.berlinairlift75.org/en/reuters-speech/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "05-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1814-first-treaty-of-paris-german-confederation",
+    "year": 1814,
+    "title": {
+      "ru": "Первый Парижский мир и будущее Германии",
+      "de": "Der Erste Pariser Frieden und Deutschlands Zukunft",
+      "en": "The First Treaty of Paris and Germany's future"
+    },
+    "description": {
+      "ru": "30 мая 1814 года был подписан Первый Парижский мир после поражения Наполеона. Для немецких земель договор был важен тем, что он подтвердил идею будущего союза независимых германских государств.",
+      "de": "Am 30. Mai 1814 wurde nach Napoleons Niederlage der Erste Pariser Frieden unterzeichnet. Fuer die deutschen Laender war der Vertrag wichtig, weil er die Idee eines kuenftigen Bundes unabhaengiger deutscher Staaten bestaetigte.",
+      "en": "On 30 May 1814, the First Treaty of Paris was signed after Napoleon's defeat. For the German lands, the treaty mattered because it confirmed the idea of a future federation of independent German states."
+    },
+    "importance": {
+      "ru": "Это один из шагов от наполеоновской системы к Германскому союзу, который вскоре оформил политическую карту Центральной Европы.",
+      "de": "Es war ein Schritt von der napoleonischen Ordnung zum Deutschen Bund, der bald die politische Karte Mitteleuropas praegte.",
+      "en": "It was one step from the Napoleonic order toward the German Confederation, which soon shaped the political map of Central Europe."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "loose-german-federation",
+        "year": 1814,
+        "title": {
+          "ru": "Не единая Германия, а союз государств",
+          "de": "Kein einheitliches Deutschland, sondern ein Staatenbund",
+          "en": "Not a united Germany, but a federation of states"
+        },
+        "description": {
+          "ru": "После Наполеона немецкие земли не стали единым государством. Великие державы договорились о рыхлом союзе, где княжества, королевства и вольные города сохраняли большую самостоятельность.",
+          "de": "Nach Napoleon wurden die deutschen Laender kein einheitlicher Staat. Die Grossmaechte einigten sich auf einen lockeren Bund, in dem Fuerstentuemer, Koenigreiche und freie Staedte viel Eigenstaendigkeit behielten.",
+          "en": "After Napoleon, the German lands did not become one state. The great powers agreed on a loose federation in which principalities, kingdoms and free cities kept much of their independence."
+        },
+        "importance": {
+          "ru": "Так проще понять, почему путь к объединению Германии занял ещё десятилетия.",
+          "de": "So laesst sich besser verstehen, warum der Weg zur deutschen Einheit noch Jahrzehnte dauerte.",
+          "en": "This helps explain why the road to German unification still took decades."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "napoleon-left-but-map-remained-complicated",
+        "year": 1814,
+        "title": {
+          "ru": "Наполеон ушёл, но карта осталась сложной",
+          "de": "Napoleon ging, doch die Karte blieb kompliziert",
+          "en": "Napoleon left, but the map stayed complicated"
+        },
+        "description": {
+          "ru": "Поражение Наполеона не вернуло Европу точно к прежнему виду. Границы, компенсации и права государств обсуждали ещё на Венском конгрессе.",
+          "de": "Napoleons Niederlage brachte Europa nicht einfach in den alten Zustand zurueck. Grenzen, Entschaedigungen und Rechte der Staaten wurden noch auf dem Wiener Kongress verhandelt.",
+          "en": "Napoleon's defeat did not simply restore Europe to its old shape. Borders, compensation and the rights of states were still debated at the Congress of Vienna."
+        },
+        "importance": {
+          "ru": "История карты Германии после 1814 года показывает, что мирный договор часто только начинает долгий политический спор.",
+          "de": "Die Geschichte der deutschen Karte nach 1814 zeigt, dass ein Friedensvertrag oft erst eine lange politische Debatte beginnt.",
+          "en": "The history of Germany's map after 1814 shows that a peace treaty often only begins a long political debate."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Германский союз был окончательно оформлен в 1815 году на Венском конгрессе.",
+    "de": "Der Deutsche Bund wurde 1815 auf dem Wiener Kongress endgueltig gegruendet.",
+    "en": "The German Confederation was formally established in 1815 at the Congress of Vienna."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Treaty of Paris 1814",
+      "url": "https://www.britannica.com/topic/Treaty-of-Paris-1814"
+    },
+    {
+      "label": "Britannica: German Confederation",
+      "url": "https://www.britannica.com/place/German-Confederation"
+    },
+    {
+      "label": "Avalon Project: Treaty of Paris 1814",
+      "url": "https://avalon.law.yale.edu/19th_century/paris1814.asp"
+    }
+  ]
+}
