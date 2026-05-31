@@ -1,0 +1,90 @@
+{
+  "date": "05-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1955-warsaw-pact-founded",
+    "year": 1955,
+    "title": {
+      "ru": "Создан Варшавский договор",
+      "de": "Der Warschauer Pakt wird gegruendet",
+      "en": "The Warsaw Pact is founded"
+    },
+    "description": {
+      "ru": "14 мая 1955 года СССР и страны Восточного блока подписали в Варшаве договор о военном союзе. В него вошла и ГДР, а создание пакта стало ответом на вступление ФРГ в НАТО.",
+      "de": "Am 14. Mai 1955 unterzeichneten die Sowjetunion und Staaten des Ostblocks in Warschau ein militaerisches Buendnis. Auch die DDR gehoerte dazu; die Gruendung war eine Reaktion auf den NATO-Beitritt der Bundesrepublik.",
+      "en": "On 14 May 1955, the Soviet Union and Eastern Bloc states signed a military alliance in Warsaw. East Germany joined it, and the pact was a response to West Germany's entry into NATO."
+    },
+    "importance": {
+      "ru": "Германия стала одной из главных линий раздела между двумя военными блоками Холодной войны.",
+      "de": "Deutschland wurde zu einer der wichtigsten Trennlinien zwischen den beiden Militaerbloecken des Kalten Krieges.",
+      "en": "Germany became one of the main dividing lines between the two military blocs of the Cold War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1955-two-german-states-two-blocs",
+        "year": 1955,
+        "title": {
+          "ru": "Две Германии в двух блоках",
+          "de": "Zwei deutsche Staaten in zwei Bloecken",
+          "en": "Two German states in two blocs"
+        },
+        "description": {
+          "ru": "ФРГ вступила в НАТО в мае 1955 года, а ГДР оказалась в военной системе Восточного блока. Так немецкое разделение стало частью глобального противостояния.",
+          "de": "Die Bundesrepublik trat im Mai 1955 der NATO bei, waehrend die DDR Teil des militaerischen Systems des Ostblocks wurde. So wurde die deutsche Teilung Teil des globalen Gegensatzes.",
+          "en": "West Germany joined NATO in May 1955, while East Germany became part of the Eastern Bloc's military system. German division thus became part of a global confrontation."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему немецкая карта Холодной войны была одновременно европейской и мировой.",
+          "de": "Das hilft zu verstehen, warum die deutsche Karte des Kalten Krieges zugleich europaeisch und global war.",
+          "en": "This helps explain why Germany's Cold War map was both European and global."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1955-two-pacts-two-weeks",
+        "year": 1955,
+        "title": {
+          "ru": "Две недели, два блока",
+          "de": "Zwei Wochen, zwei Bloecke",
+          "en": "Two weeks, two blocs"
+        },
+        "description": {
+          "ru": "Между вступлением ФРГ в НАТО и созданием Варшавского договора прошло совсем немного времени. Для обычного человека это выглядело как быстрое затвердевание границы между Востоком и Западом.",
+          "de": "Zwischen dem NATO-Beitritt der Bundesrepublik und der Gruendung des Warschauer Pakts lag nur kurze Zeit. Fuer viele Menschen wirkte das wie ein rasches Verhaerten der Grenze zwischen Ost und West.",
+          "en": "Only a short time passed between West Germany joining NATO and the creation of the Warsaw Pact. For many people, it looked like the East-West border was hardening very quickly."
+        },
+        "importance": {
+          "ru": "Иногда большие исторические блоки складываются почти на глазах.",
+          "de": "Manchmal entstehen grosse historische Bloecke fast vor den Augen der Menschen.",
+          "en": "Sometimes major historical blocs form almost before people's eyes."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Варшавский договор был распущен в 1991 году, уже после падения Берлинской стены и перед распадом СССР.",
+    "de": "Der Warschauer Pakt wurde 1991 aufgeloest, nach dem Fall der Berliner Mauer und kurz vor dem Ende der Sowjetunion.",
+    "en": "The Warsaw Pact was dissolved in 1991, after the fall of the Berlin Wall and shortly before the end of the Soviet Union."
+  },
+  "sources": [
+    {
+      "label": "NATO: What was the Warsaw Pact?",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_138294.htm"
+    },
+    {
+      "label": "Office of the Historian: The Warsaw Treaty Organization",
+      "url": "https://history.state.gov/milestones/1953-1960/warsaw-treaty"
+    },
+    {
+      "label": "CVCE: Treaty of Warsaw, 14 May 1955",
+      "url": "https://www.cvce.eu/en/obj/treaty_of_friendship_cooperation_and_mutual_assistance_warsaw_14_may_1955-en-b1234dbc-f53b-4505-9d86-277e4f5c20d4.html"
+    }
+  ]
+}

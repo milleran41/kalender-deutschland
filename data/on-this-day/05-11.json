@@ -1,0 +1,86 @@
+{
+  "date": "05-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1720-baron-munchausen-born",
+    "year": 1720,
+    "title": {
+      "ru": "Родился барон Мюнхгаузен",
+      "de": "Baron Muenchhausen wird geboren",
+      "en": "Baron Munchausen is born"
+    },
+    "description": {
+      "ru": "11 мая 1720 года в Боденвердере родился Иероним Карл Фридрих фон Мюнхгаузен. Реальный немецкий дворянин и офицер позже стал героем невероятных литературных историй.",
+      "de": "Am 11. Mai 1720 wurde Hieronymus Carl Friedrich von Muenchhausen in Bodenwerder geboren. Der reale deutsche Adlige und Offizier wurde spaeter zur Figur unglaublicher literarischer Geschichten.",
+      "en": "On 11 May 1720, Hieronymus Carl Friedrich von Muenchhausen was born in Bodenwerder. The real German nobleman and officer later became the hero of incredible literary tales."
+    },
+    "importance": {
+      "ru": "Мюнхгаузен показывает, как реальная биография может превратиться в фольклор, сатиру и мировую литературу.",
+      "de": "Muenchhausen zeigt, wie aus einer realen Biografie Folklore, Satire und Weltliteratur werden koennen.",
+      "en": "Munchausen shows how a real biography can turn into folklore, satire and world literature."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "munchausen-literary-legend",
+        "year": 1785,
+        "title": {
+          "ru": "Литературный герой невероятных рассказов",
+          "de": "Literarischer Held unglaublicher Geschichten",
+          "en": "Literary hero of unbelievable tales"
+        },
+        "description": {
+          "ru": "Истории о Мюнхгаузене стали популярными благодаря книгам Рудольфа Эриха Распе и Готфрида Августа Бюргера. В них барон летает на ядре, выбирается из болота за волосы и рассказывает невозможное с серьёзным видом.",
+          "de": "Die Muenchhausen-Geschichten wurden durch Buecher von Rudolf Erich Raspe und Gottfried August Buerger beruehmt. Darin fliegt der Baron auf einer Kanonenkugel, zieht sich am eigenen Haar aus dem Sumpf und erzaehlt Unmoegliches mit ernster Miene.",
+          "en": "The Munchausen stories became famous through books by Rudolf Erich Raspe and Gottfried August Buerger. In them, the baron rides a cannonball, pulls himself from a swamp by his own hair and tells impossible stories with a serious face."
+        },
+        "importance": {
+          "ru": "Это одна из самых узнаваемых немецких фигур юмористической литературы.",
+          "de": "Er ist eine der bekanntesten deutschen Figuren der humoristischen Literatur.",
+          "en": "He is one of the best-known German figures in comic literature."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "munchausen-bodenwerder",
+        "year": 1720,
+        "title": {
+          "ru": "Город Мюнхгаузена",
+          "de": "Die Muenchhausenstadt",
+          "en": "The Munchausen town"
+        },
+        "description": {
+          "ru": "Боденвердер в Нижней Саксонии до сих пор связывает себя с именем Мюнхгаузена. Для небольшого города литературная легенда стала частью местной идентичности.",
+          "de": "Bodenwerder in Niedersachsen verbindet sich bis heute mit dem Namen Muenchhausen. Fuer die kleine Stadt wurde die literarische Legende Teil der lokalen Identitaet.",
+          "en": "Bodenwerder in Lower Saxony is still closely linked with Munchausen's name. For the small town, the literary legend became part of local identity."
+        },
+        "importance": {
+          "ru": "Иногда одна смешная история делает город известным на века.",
+          "de": "Manchmal macht eine komische Geschichte eine Stadt ueber Jahrhunderte bekannt.",
+          "en": "Sometimes one comic story makes a town famous for centuries."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В русском языке имя Мюнхгаузена тоже стало нарицательным: так называют человека, рассказывающего невероятные истории.",
+    "de": "Auch in anderen Sprachen wurde Muenchhausen sprichwoertlich: Der Name steht fuer jemanden, der unglaubliche Geschichten erzaehlt.",
+    "en": "Munchausen's name became proverbial in several languages, meaning someone who tells unbelievable stories."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: The birth of the liar baron",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1720-05-11-the-birth-of-the-liar-baron/"
+    },
+    {
+      "label": "Bodenwerder: Munchausen town",
+      "url": "https://www.bodenwerder.de/"
+    }
+  ]
+}

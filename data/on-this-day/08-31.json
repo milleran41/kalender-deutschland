@@ -1,0 +1,90 @@
+{
+  "date": "08-31",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1928-threepenny-opera-premiere",
+    "year": 1928,
+    "title": {
+      "ru": "Премьера «Трёхгрошовой оперы»",
+      "de": "Urauffuehrung der Dreigroschenoper",
+      "en": "Premiere of The Threepenny Opera"
+    },
+    "description": {
+      "ru": "31 августа 1928 года в берлинском Theater am Schiffbauerdamm состоялась премьера «Трёхгрошовой оперы» Бертольта Брехта и Курта Вайля. Спектакль быстро стал одним из символов культуры Веймарской республики.",
+      "de": "Am 31. August 1928 wurde im Berliner Theater am Schiffbauerdamm die Dreigroschenoper von Bertolt Brecht und Kurt Weill uraufgefuehrt. Das Stueck wurde rasch zu einem Symbol der Kultur der Weimarer Republik.",
+      "en": "On 31 August 1928, Bertolt Brecht and Kurt Weill's The Threepenny Opera premiered at Berlin's Theater am Schiffbauerdamm. The work quickly became a symbol of Weimar Republic culture."
+    },
+    "importance": {
+      "ru": "Это одно из самых известных немецких театрально-музыкальных произведений XX века.",
+      "de": "Es ist eines der bekanntesten deutschen Theater- und Musikwerke des 20. Jahrhunderts.",
+      "en": "It is one of the best-known German works of theater and music from the 20th century."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "1928-brecht-weill",
+        "year": 1928,
+        "title": {
+          "ru": "Брехт, Вайль и острый театр",
+          "de": "Brecht, Weill und scharfes Theater",
+          "en": "Brecht, Weill and sharp theater"
+        },
+        "description": {
+          "ru": "Брехт и Вайль смешали театр, песни, сатиру и социальную критику. Вместо красивой сказки зрители получили историю о преступниках, деньгах и лицемерии общества.",
+          "de": "Brecht und Weill verbanden Theater, Songs, Satire und Gesellschaftskritik. Statt eines schoenen Maerchens bekam das Publikum eine Geschichte ueber Verbrechen, Geld und gesellschaftliche Heuchelei.",
+          "en": "Brecht and Weill combined theater, songs, satire and social criticism. Instead of a pretty fairy tale, audiences got a story about crime, money and social hypocrisy."
+        },
+        "importance": {
+          "ru": "Такой театр хорошо передаёт нерв и свободу Берлина 1920-х годов.",
+          "de": "Dieses Theater vermittelt gut die Spannung und Freiheit Berlins in den 1920er Jahren.",
+          "en": "This kind of theater captures the tension and freedom of Berlin in the 1920s."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1928-mack-the-knife",
+        "year": 1928,
+        "title": {
+          "ru": "От сцены к мировому хиту",
+          "de": "Von der Buehne zum Welthit",
+          "en": "From stage song to world hit"
+        },
+        "description": {
+          "ru": "Песня о Мэкки Мессере позже стала известна во всём мире как «Mack the Knife». Её исполняли в самых разных стилях, далеко за пределами немецкого театра.",
+          "de": "Das Lied von Mackie Messer wurde spaeter als Mack the Knife weltweit bekannt. Es wurde in sehr unterschiedlichen Stilen gesungen, weit ueber das deutsche Theater hinaus.",
+          "en": "The song about Mackie Messer later became known worldwide as Mack the Knife. It was performed in many different styles, far beyond German theater."
+        },
+        "importance": {
+          "ru": "Иногда театральная песня неожиданно получает вторую жизнь как поп-классика.",
+          "de": "Manchmal bekommt ein Theaterlied ueberraschend ein zweites Leben als Popklassiker.",
+          "en": "Sometimes a theater song unexpectedly gets a second life as a pop classic."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Theater am Schiffbauerdamm позже стал домом Berliner Ensemble, театра, связанного с именем Брехта.",
+    "de": "Das Theater am Schiffbauerdamm wurde spaeter die Heimat des Berliner Ensembles, das eng mit Brechts Namen verbunden ist.",
+    "en": "Theater am Schiffbauerdamm later became the home of the Berliner Ensemble, closely associated with Brecht's name."
+  },
+  "sources": [
+    {
+      "label": "History.com: Threepenny Opera premieres in Berlin",
+      "url": "https://www.history.com/this-day-in-history/august-31/bertolt-brecht-and-kurt-weills-the-threepenny-opera-premieres-in-berlin"
+    },
+    {
+      "label": "Britannica: The Threepenny Opera",
+      "url": "https://www.britannica.com/topic/The-Threepenny-Opera"
+    },
+    {
+      "label": "Wikimedia Commons: 1928 premiere program",
+      "url": "https://commons.wikimedia.org/wiki/File:Dreigroschenoper_program_notes_1928.png"
+    }
+  ]
+}
