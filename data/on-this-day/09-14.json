@@ -1,0 +1,65 @@
+{
+  "date": "09-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1769-alexander-von-humboldt-born",
+    "year": 1769,
+    "title": {
+      "ru": "Родился Александр фон Гумбольдт",
+      "de": "Alexander von Humboldt wird geboren",
+      "en": "Alexander von Humboldt is born"
+    },
+    "description": {
+      "ru": "14 сентября 1769 года в Берлине родился Александр фон Гумбольдт. Он стал естествоиспытателем, географом и путешественником мирового масштаба.",
+      "de": "Am 14. September 1769 wurde Alexander von Humboldt in Berlin geboren. Er wurde ein Naturforscher, Geograf und Reisender von Weltrang.",
+      "en": "On 14 September 1769, Alexander von Humboldt was born in Berlin. He became a naturalist, geographer and explorer of global importance."
+    },
+    "importance": {
+      "ru": "Гумбольдт помог увидеть природу как связанную систему, а не набор отдельных явлений.",
+      "de": "Humboldt half, Natur als verbundenes System zu verstehen, nicht als Sammlung einzelner Erscheinungen.",
+      "en": "Humboldt helped people understand nature as a connected system, not a collection of separate phenomena."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "humboldt-global-science",
+        "year": 1769,
+        "title": {
+          "ru": "Наука как путешествие",
+          "de": "Wissenschaft als Reise",
+          "en": "Science as travel"
+        },
+        "description": {
+          "ru": "Гумбольдт исследовал Латинскую Америку, климат, растения, горы и карты. Его имя носит множество мест, учреждений и видов.",
+          "de": "Humboldt erforschte Lateinamerika, Klima, Pflanzen, Berge und Karten. Viele Orte, Einrichtungen und Arten tragen seinen Namen.",
+          "en": "Humboldt studied Latin America, climate, plants, mountains and maps. Many places, institutions and species bear his name."
+        },
+        "importance": {
+          "ru": "Он показывает Германию как часть мировой истории науки и исследований.",
+          "de": "Er zeigt Deutschland als Teil der Weltgeschichte von Wissenschaft und Forschung.",
+          "en": "He shows Germany as part of the global history of science and exploration."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Берлинский университет имени Гумбольдта назван в честь братьев Вильгельма и Александра фон Гумбольдтов.",
+    "de": "Die Berliner Humboldt-Universitaet ist nach den Bruedern Wilhelm und Alexander von Humboldt benannt.",
+    "en": "Berlin's Humboldt University is named after the brothers Wilhelm and Alexander von Humboldt."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Alexander von Humboldt",
+      "url": "https://www.britannica.com/biography/Alexander-von-Humboldt"
+    },
+    {
+      "label": "Humboldt Forum: Alexander von Humboldt",
+      "url": "https://www.humboldtforum.org/en/programme/digital-en/alexander-von-humboldt/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "12-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1843-robert-koch-born",
+    "year": 1843,
+    "title": {
+      "ru": "Родился Роберт Кох",
+      "de": "Robert Koch wird geboren",
+      "en": "Robert Koch is born"
+    },
+    "description": {
+      "ru": "11 декабря 1843 года в Клаустале, ныне Клаусталь-Целлерфельд, родился Роберт Кох. Он стал одним из основателей бактериологии.",
+      "de": "Am 11. Dezember 1843 wurde Robert Koch in Clausthal, heute Clausthal-Zellerfeld, geboren. Er wurde einer der Begruender der Bakteriologie.",
+      "en": "On 11 December 1843, Robert Koch was born in Clausthal, now Clausthal-Zellerfeld. He became one of the founders of bacteriology."
+    },
+    "importance": {
+      "ru": "Кох изменил медицину, показав, что конкретные микроорганизмы вызывают конкретные болезни.",
+      "de": "Koch veraenderte die Medizin, indem er zeigte, dass bestimmte Mikroorganismen bestimmte Krankheiten verursachen.",
+      "en": "Koch changed medicine by showing that specific microorganisms cause specific diseases."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "koch-tuberculosis-nobel",
+        "year": 1905,
+        "title": {
+          "ru": "Нобелевская премия за исследования туберкулёза",
+          "de": "Nobelpreis fuer Tuberkuloseforschung",
+          "en": "Nobel Prize for tuberculosis research"
+        },
+        "description": {
+          "ru": "В 1905 году Кох получил Нобелевскую премию по физиологии или медицине. Его открытие возбудителя туберкулёза стало одной из важнейших вех микробиологии.",
+          "de": "1905 erhielt Koch den Nobelpreis fuer Physiologie oder Medizin. Seine Entdeckung des Tuberkulose-Erregers wurde zu einem Meilenstein der Mikrobiologie.",
+          "en": "In 1905, Koch received the Nobel Prize in Physiology or Medicine. His discovery of the tuberculosis bacillus became a milestone in microbiology."
+        },
+        "importance": {
+          "ru": "Это одна из причин, почему немецкая медицина XIX века стала известна во всём мире.",
+          "de": "Das ist einer der Gruende, warum die deutsche Medizin des 19. Jahrhunderts weltweit bekannt wurde.",
+          "en": "It is one reason why nineteenth-century German medicine became known worldwide."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Институт Роберта Коха в Берлине сегодня является важным федеральным институтом общественного здравоохранения.",
+    "de": "Das Robert Koch-Institut in Berlin ist heute ein wichtiges Bundesinstitut fuer oeffentliche Gesundheit.",
+    "en": "The Robert Koch Institute in Berlin is now an important federal public health institute."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Robert Koch facts",
+      "url": "https://www.nobelprize.org/prizes/medicine/1905/koch/facts/"
+    },
+    {
+      "label": "Britannica: Robert Koch",
+      "url": "https://www.britannica.com/biography/Robert-Koch"
+    }
+  ]
+}

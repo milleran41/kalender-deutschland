@@ -45,6 +45,27 @@
           "en": "It helps show the end of dictatorship not as one moment but as the destructive finale of war."
         }
       }
+    ],
+    "science": [
+      {
+        "id": "1777-carl-friedrich-gauss-born",
+        "year": 1777,
+        "title": {
+          "ru": "Родился Карл Фридрих Гаусс",
+          "de": "Carl Friedrich Gauss wird geboren",
+          "en": "Carl Friedrich Gauss is born"
+        },
+        "description": {
+          "ru": "30 апреля 1777 года в Брауншвейге родился Карл Фридрих Гаусс. Его часто называют одним из величайших математиков всех времён.",
+          "de": "Am 30. April 1777 wurde Carl Friedrich Gauss in Braunschweig geboren. Er gilt als einer der groessten Mathematiker aller Zeiten.",
+          "en": "On 30 April 1777, Carl Friedrich Gauss was born in Brunswick. He is often regarded as one of the greatest mathematicians of all time."
+        },
+        "importance": {
+          "ru": "Гаусс внёс вклад в теорию чисел, астрономию, геодезию, физику и статистику.",
+          "de": "Gauss leistete Beitraege zur Zahlentheorie, Astronomie, Geodaesie, Physik und Statistik.",
+          "en": "Gauss contributed to number theory, astronomy, geodesy, physics and statistics."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,10 @@
     {
       "label": "History.com: Hitler dies by suicide",
       "url": "https://www.history.com/this-day-in-history/april-30/adolf-hitler-commits-suicide"
+    },
+    {
+      "label": "Britannica Kids: Carl Friedrich Gauss",
+      "url": "https://kids.britannica.com/students/article/Carl-Friedrich-Gauss/274510"
     }
   ]
 }

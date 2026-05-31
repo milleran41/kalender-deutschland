@@ -45,6 +45,27 @@
           "en": "It is a bridge between Weimar-era German cinema and global popular culture."
         }
       }
+    ],
+    "science": [
+      {
+        "id": "1571-johannes-kepler-born",
+        "year": 1571,
+        "title": {
+          "ru": "Родился Иоганн Кеплер",
+          "de": "Johannes Kepler wird geboren",
+          "en": "Johannes Kepler is born"
+        },
+        "description": {
+          "ru": "27 декабря 1571 года в Вайль-дер-Штадте родился Иоганн Кеплер. Он сформулировал законы движения планет и стал одной из ключевых фигур научной революции.",
+          "de": "Am 27. Dezember 1571 wurde Johannes Kepler in Weil der Stadt geboren. Er formulierte die Gesetze der Planetenbewegung und wurde zu einer Schluesselfigur der wissenschaftlichen Revolution.",
+          "en": "On 27 December 1571, Johannes Kepler was born in Weil der Stadt. He formulated the laws of planetary motion and became a key figure of the scientific revolution."
+        },
+        "importance": {
+          "ru": "Его работы помогли перейти от старой космологии к современной астрономии.",
+          "de": "Seine Arbeiten halfen beim Uebergang von alter Kosmologie zu moderner Astronomie.",
+          "en": "His work helped move from older cosmology to modern astronomy."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,10 @@
     {
       "label": "Britannica: Marlene Dietrich summary",
       "url": "https://www.britannica.com/summary/Marlene-Dietrich"
+    },
+    {
+      "label": "Britannica: Johannes Kepler",
+      "url": "https://www.britannica.com/biography/Johannes-Kepler"
     }
   ]
 }
