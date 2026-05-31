@@ -1,0 +1,90 @@
+{
+  "date": "05-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-national-labour-day",
+    "year": 1933,
+    "title": {
+      "ru": "Нацисты объявили 1 мая «Днём национального труда»",
+      "de": "Die Nationalsozialisten machen den 1. Mai zum Tag der nationalen Arbeit",
+      "en": "The Nazis make 1 May the Day of National Labour"
+    },
+    "description": {
+      "ru": "1 мая 1933 года нацистский режим устроил массовые празднования «Дня национального труда». Уже на следующий день независимые профсоюзы были разгромлены и подчинены режиму.",
+      "de": "Am 1. Mai 1933 inszenierte das NS-Regime grosse Feiern zum Tag der nationalen Arbeit. Schon am naechsten Tag wurden die freien Gewerkschaften zerschlagen und dem Regime unterworfen.",
+      "en": "On 1 May 1933, the Nazi regime staged mass celebrations for the Day of National Labour. The very next day, independent trade unions were destroyed and brought under the regime's control."
+    },
+    "importance": {
+      "ru": "Дата показывает, как диктатура могла присвоить популярный рабочий праздник, а затем уничтожить реальные рабочие организации.",
+      "de": "Das Datum zeigt, wie eine Diktatur einen populaeren Feiertag der Arbeiterbewegung vereinnahmen und dann echte Arbeiterorganisationen zerschlagen konnte.",
+      "en": "The date shows how a dictatorship could appropriate a popular workers' holiday and then destroy real workers' organizations."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1933-may-day-propaganda",
+        "year": 1933,
+        "title": {
+          "ru": "Праздник как пропаганда",
+          "de": "Feiertag als Propaganda",
+          "en": "A holiday as propaganda"
+        },
+        "description": {
+          "ru": "Нацисты превратили 1 мая в спектакль о «народном единстве» и труде. Но за красивыми лозунгами стояло уничтожение независимой политики и свободных объединений.",
+          "de": "Die Nationalsozialisten machten den 1. Mai zu einer Inszenierung von Volksgemeinschaft und Arbeit. Hinter den schoenen Parolen stand jedoch die Zerstoerung unabhaengiger Politik und freier Organisationen.",
+          "en": "The Nazis turned 1 May into a spectacle about national unity and labor. Behind the fine slogans stood the destruction of independent politics and free organizations."
+        },
+        "importance": {
+          "ru": "Так можно объяснить школьнику, что форма праздника не всегда совпадает с его настоящим смыслом.",
+          "de": "So laesst sich erklaeren, dass die Form eines Feiertags nicht immer mit seinem wirklichen Sinn uebereinstimmt.",
+          "en": "This helps explain that the form of a holiday does not always match its real meaning."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1933-one-day-before-union-destruction",
+        "year": 1933,
+        "title": {
+          "ru": "Парад сегодня, разгром завтра",
+          "de": "Heute Parade, morgen Zerschlagung",
+          "en": "Parade today, destruction tomorrow"
+        },
+        "description": {
+          "ru": "Контраст особенно резкий: 1 мая режим демонстрировал уважение к труду, а 2 мая занял здания профсоюзов и арестовал многих активистов. Поэтому эти два дня часто рассматривают вместе.",
+          "de": "Der Gegensatz ist besonders scharf: Am 1. Mai zeigte das Regime angebliche Achtung vor der Arbeit, am 2. Mai besetzte es Gewerkschaftshaeuser und verhaftete viele Aktive. Darum werden diese beiden Tage oft zusammen betrachtet.",
+          "en": "The contrast is especially sharp: on 1 May the regime displayed supposed respect for labor, and on 2 May it occupied union offices and arrested many activists. The two days are therefore often viewed together."
+        },
+        "importance": {
+          "ru": "Иногда главный смысл события раскрывается только если посмотреть на следующий день.",
+          "de": "Manchmal wird die Bedeutung eines Ereignisses erst sichtbar, wenn man auf den naechsten Tag schaut.",
+          "en": "Sometimes the meaning of an event becomes clear only by looking at the next day."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В 1919 году 1 мая уже был законным праздником в Германии, но тогда только на один год.",
+    "de": "Schon 1919 war der 1. Mai in Deutschland gesetzlicher Feiertag, damals jedoch nur fuer ein Jahr.",
+    "en": "In 1919, 1 May had already been a legal holiday in Germany, but only for that year."
+  },
+  "sources": [
+    {
+      "label": "Deutsches Historisches Museum: Der 1. Mai - Tag der Arbeit",
+      "url": "https://www.dhm.de/lemo/rueckblick/der-1-mai-tag-der-arbeit"
+    },
+    {
+      "label": "DGB: Geschichte des 1. Mai",
+      "url": "https://www.dgb.de/mitmachen/erster-mai/geschichte-des-ersten-mai/"
+    },
+    {
+      "label": "Holocaust Memorial Day Trust: Dissolution of German trade unions",
+      "url": "https://hmd.org.uk/resource/2-may-1933-dissolution-of-german-trade-unions/"
+    }
+  ]
+}

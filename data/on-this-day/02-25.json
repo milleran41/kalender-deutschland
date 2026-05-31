@@ -1,0 +1,86 @@
+{
+  "date": "02-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1947-prussia-abolished",
+    "year": 1947,
+    "title": {
+      "ru": "Пруссия была официально упразднена",
+      "de": "Preussen wird offiziell aufgeloest",
+      "en": "Prussia is officially abolished"
+    },
+    "description": {
+      "ru": "25 февраля 1947 года Союзный контрольный совет принял закон N 46 об упразднении Пруссии. Государство, которое веками играло огромную роль в немецкой истории, юридически прекратило существование.",
+      "de": "Am 25. Februar 1947 erliess der Alliierte Kontrollrat das Gesetz Nr. 46 zur Aufloesung Preussens. Der Staat, der ueber Jahrhunderte eine enorme Rolle in der deutschen Geschichte gespielt hatte, hoerte rechtlich auf zu bestehen.",
+      "en": "On 25 February 1947, the Allied Control Council issued Law No. 46 abolishing Prussia. The state that had played an enormous role in German history for centuries legally ceased to exist."
+    },
+    "importance": {
+      "ru": "Это важная дата для понимания послевоенной карты Германии и конца старой прусской государственности.",
+      "de": "Das ist ein wichtiges Datum zum Verstaendnis der Nachkriegskarte Deutschlands und des Endes alter preussischer Staatlichkeit.",
+      "en": "It is an important date for understanding Germany's postwar map and the end of old Prussian statehood."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1947-control-council-law-46",
+        "year": 1947,
+        "title": {
+          "ru": "Закон Союзного контрольного совета",
+          "de": "Gesetz des Alliierten Kontrollrats",
+          "en": "Allied Control Council law"
+        },
+        "description": {
+          "ru": "После Второй мировой войны Германия находилась под властью союзников. Закон N 46 прямо связывал Пруссию с милитаризмом и реакцией и распределял её территории между новыми землями.",
+          "de": "Nach dem Zweiten Weltkrieg stand Deutschland unter alliierter Kontrolle. Gesetz Nr. 46 verband Preussen ausdruecklich mit Militarismus und Reaktion und verteilte seine Gebiete auf neue Laender.",
+          "en": "After the Second World War, Germany was under Allied control. Law No. 46 explicitly linked Prussia with militarism and reaction and assigned its territories to new states."
+        },
+        "importance": {
+          "ru": "Так союзники пытались построить новую Германию без старого символа военной мощи.",
+          "de": "So versuchten die Alliierten, ein neues Deutschland ohne das alte Symbol militaerischer Macht aufzubauen.",
+          "en": "The Allies thus tried to build a new Germany without the old symbol of military power."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "prussia-name-after-1947",
+        "year": 1947,
+        "title": {
+          "ru": "Название исчезло с политической карты",
+          "de": "Der Name verschwindet von der politischen Karte",
+          "en": "The name disappears from the political map"
+        },
+        "description": {
+          "ru": "После 1947 года Пруссия осталась в музеях, книгах, памятниках и семейной памяти, но не как действующее государство. Это редкий случай, когда крупное историческое имя исчезает юридическим актом.",
+          "de": "Nach 1947 blieb Preussen in Museen, Buechern, Denkmaelern und Familienerinnerungen erhalten, aber nicht als handelnder Staat. Das ist ein seltener Fall, in dem ein grosser historischer Name durch einen Rechtsakt verschwindet.",
+          "en": "After 1947, Prussia remained in museums, books, monuments and family memory, but not as an active state. It is a rare case of a major historical name disappearing through a legal act."
+        },
+        "importance": {
+          "ru": "Для календаря с картами это особенно интересно: исчезла не земля на карте, а политическое имя.",
+          "de": "Fuer einen Kalender mit Karten ist das besonders interessant: Nicht das Land auf der Karte verschwand, sondern der politische Name.",
+          "en": "For a calendar with maps, this is especially interesting: the land did not disappear from the map, but the political name did."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Части бывшей Пруссии сегодня находятся в нескольких землях Германии, а также за пределами современной Германии.",
+    "de": "Teile des frueheren Preussens liegen heute in mehreren deutschen Laendern und auch ausserhalb des heutigen Deutschlands.",
+    "en": "Parts of former Prussia are now located in several German states and also outside modern Germany."
+  },
+  "sources": [
+    {
+      "label": "Wikisource: Control Council Law No. 46",
+      "url": "https://en.wikisource.org/wiki/Control_Council_Law_No_46_(25_February_1947)_Abolition_of_Prussia"
+    },
+    {
+      "label": "Allied Control Council portal",
+      "url": "https://en.wikisource.org/wiki/Portal:Allied_Control_Council"
+    }
+  ]
+}

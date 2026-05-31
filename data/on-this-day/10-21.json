@@ -1,0 +1,111 @@
+{
+  "date": "10-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1969-willy-brandt-elected-chancellor",
+    "year": 1969,
+    "title": {
+      "ru": "Вилли Брандт избран канцлером ФРГ",
+      "de": "Willy Brandt wird zum Bundeskanzler gewaehlt",
+      "en": "Willy Brandt is elected chancellor"
+    },
+    "description": {
+      "ru": "21 октября 1969 года Бундестаг избрал Вилли Брандта федеральным канцлером. Он стал первым социал-демократическим канцлером ФРГ.",
+      "de": "Am 21. Oktober 1969 waehlte der Bundestag Willy Brandt zum Bundeskanzler. Er wurde der erste sozialdemokratische Kanzler der Bundesrepublik.",
+      "en": "On 21 October 1969, the Bundestag elected Willy Brandt as federal chancellor. He became West Germany's first Social Democratic chancellor."
+    },
+    "importance": {
+      "ru": "Смена власти открыла период реформ и новой восточной политики.",
+      "de": "Der Machtwechsel oeffnete eine Phase von Reformen und neuer Ostpolitik.",
+      "en": "The change of power opened a period of reforms and a new Ostpolitik."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1969-spd-fdp-coalition",
+        "year": 1969,
+        "title": {
+          "ru": "Коалиция СДПГ и СвДП",
+          "de": "Koalition aus SPD und FDP",
+          "en": "SPD-FDP coalition"
+        },
+        "description": {
+          "ru": "После выборов 1969 года СДПГ и СвДП сформировали правительство в Бонне. Это завершило долгий период, когда федеральных канцлеров давал блок ХДС/ХСС.",
+          "de": "Nach der Bundestagswahl 1969 bildeten SPD und FDP in Bonn eine Regierung. Damit endete eine lange Phase, in der die Bundeskanzler von CDU/CSU gestellt wurden.",
+          "en": "After the 1969 federal election, the SPD and FDP formed a government in Bonn. This ended a long period in which chancellors had come from the CDU/CSU."
+        },
+        "importance": {
+          "ru": "Это важный пример мирной смены власти в послевоенной демократии.",
+          "de": "Das ist ein wichtiges Beispiel fuer friedlichen Machtwechsel in der Nachkriegsdemokratie.",
+          "en": "It is an important example of a peaceful transfer of power in postwar democracy."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1913-willy-brandt",
+        "year": 1913,
+        "title": {
+          "ru": "Вилли Брандт",
+          "de": "Willy Brandt",
+          "en": "Willy Brandt"
+        },
+        "description": {
+          "ru": "Брандт был противником нацизма, эмигрантом, правящим бургомистром Западного Берлина и затем канцлером ФРГ. Его имя особенно связано с попытками наладить отношения с Восточной Европой.",
+          "de": "Brandt war Gegner des Nationalsozialismus, Emigrant, Regierender Buergermeister von West-Berlin und spaeter Bundeskanzler. Sein Name ist besonders mit dem Versuch verbunden, die Beziehungen zu Osteuropa zu verbessern.",
+          "en": "Brandt was an opponent of Nazism, an emigrant, governing mayor of West Berlin and later federal chancellor. His name is especially linked with efforts to improve relations with Eastern Europe."
+        },
+        "importance": {
+          "ru": "Его биография связывает изгнание, Берлин, демократию и политику разрядки.",
+          "de": "Seine Biografie verbindet Exil, Berlin, Demokratie und Entspannungspolitik.",
+          "en": "His biography connects exile, Berlin, democracy and detente."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1969-mehr-demokratie-wagen",
+        "year": 1969,
+        "title": {
+          "ru": "«Осмелиться на больше демократии»",
+          "de": "Mehr Demokratie wagen",
+          "en": "Dare more democracy"
+        },
+        "description": {
+          "ru": "Через неделю после избрания Брандт произнёс правительственное заявление с фразой «Wir wollen mehr Demokratie wagen». Она стала одним из самых известных политических лозунгов ФРГ.",
+          "de": "Eine Woche nach seiner Wahl hielt Brandt seine Regierungserklaerung mit dem Satz: Wir wollen mehr Demokratie wagen. Er wurde zu einem der bekanntesten politischen Saetze der Bundesrepublik.",
+          "en": "One week after his election, Brandt gave his government statement with the line: We want to dare more democracy. It became one of West Germany's best-known political phrases."
+        },
+        "importance": {
+          "ru": "Иногда политическая эпоха запоминается одной короткой фразой.",
+          "de": "Manchmal bleibt eine politische Epoche durch einen kurzen Satz im Gedaechtnis.",
+          "en": "Sometimes a political era is remembered through one short phrase."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вилли Брандт получил Нобелевскую премию мира в 1971 году.",
+    "de": "Willy Brandt erhielt 1971 den Friedensnobelpreis.",
+    "en": "Willy Brandt received the Nobel Peace Prize in 1971."
+  },
+  "sources": [
+    {
+      "label": "German History in Documents and Images: Changeover of Power in Bonn",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/changeover-of-power-in-bonn-october-21-1969"
+    },
+    {
+      "label": "Office of the Historian: Willy Brandt elected chancellor",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76v40/d38"
+    },
+    {
+      "label": "Deutscher Bundestag: Mehr Demokratie wagen",
+      "url": "https://webarchiv.bundestag.de/archive/2008/0912/geschichte/parlhist/streifzug/g1960/g1960_8.html"
+    }
+  ]
+}
