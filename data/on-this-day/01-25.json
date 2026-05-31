@@ -1,0 +1,90 @@
+{
+  "date": "01-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1886-wilhelm-furtwaengler-born",
+    "year": 1886,
+    "title": {
+      "ru": "Родился Вильгельм Фуртвенглер",
+      "de": "Wilhelm Furtwaengler wird geboren",
+      "en": "Wilhelm Furtwaengler is born"
+    },
+    "description": {
+      "ru": "25 января 1886 года в Берлине родился дирижёр Вильгельм Фуртвенглер. Он стал одним из самых известных немецких музыкантов XX века и много лет работал с Берлинским филармоническим оркестром.",
+      "de": "Am 25. Januar 1886 wurde der Dirigent Wilhelm Furtwaengler in Berlin geboren. Er wurde einer der bekanntesten deutschen Musiker des 20. Jahrhunderts und arbeitete viele Jahre mit den Berliner Philharmonikern.",
+      "en": "On 25 January 1886, conductor Wilhelm Furtwaengler was born in Berlin. He became one of the best-known German musicians of the twentieth century and worked for many years with the Berlin Philharmonic."
+    },
+    "importance": {
+      "ru": "Его биография показывает величие немецкой музыкальной традиции и одновременно трудные вопросы культуры при диктатуре.",
+      "de": "Seine Biografie zeigt die Groesse der deutschen Musiktradition und zugleich schwierige Fragen von Kultur in der Diktatur.",
+      "en": "His biography shows the greatness of the German musical tradition and also the difficult questions of culture under dictatorship."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "berlin-philharmonic-furtwaengler",
+        "year": 1922,
+        "title": {
+          "ru": "Берлинская филармония",
+          "de": "Berliner Philharmoniker",
+          "en": "Berlin Philharmonic"
+        },
+        "description": {
+          "ru": "Фуртвенглер стал главным дирижёром Берлинского филармонического оркестра в 1920-е годы. Его трактовки Бетховена, Брамса и Брукнера долго считались образцовыми для немецкой симфонической школы.",
+          "de": "Furtwaengler wurde in den 1920er Jahren Chefdirigent der Berliner Philharmoniker. Seine Deutungen von Beethoven, Brahms und Bruckner galten lange als praegend fuer die deutsche symphonische Tradition.",
+          "en": "Furtwaengler became chief conductor of the Berlin Philharmonic in the 1920s. His interpretations of Beethoven, Brahms and Bruckner long shaped the German symphonic tradition."
+        },
+        "importance": {
+          "ru": "Через него хорошо видно, почему Берлин был одним из музыкальных центров Европы.",
+          "de": "An ihm laesst sich gut erkennen, warum Berlin eines der musikalischen Zentren Europas war.",
+          "en": "His career shows why Berlin was one of Europe's musical centers."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "furtwaengler-nazi-era-controversy",
+        "year": 1945,
+        "title": {
+          "ru": "Сложная репутация",
+          "de": "Schwieriger Ruf",
+          "en": "A difficult reputation"
+        },
+        "description": {
+          "ru": "Фуртвенглер оставался в Германии при нацистском режиме, из-за чего после войны его роль обсуждали особенно остро. Одни видели в нём защитника немецкой музыки, другие задавали вопрос о сотрудничестве с режимом.",
+          "de": "Furtwaengler blieb waehrend des NS-Regimes in Deutschland, weshalb seine Rolle nach dem Krieg heftig diskutiert wurde. Die einen sahen in ihm einen Bewahrer deutscher Musik, andere fragten nach seiner Naehe zum Regime.",
+          "en": "Furtwaengler remained in Germany under the Nazi regime, which made his role after the war highly controversial. Some saw him as a defender of German music, while others questioned his closeness to the regime."
+        },
+        "importance": {
+          "ru": "Это помогает говорить о культуре не только как о красоте, но и как об ответственности.",
+          "de": "Das hilft, ueber Kultur nicht nur als Schoenheit, sondern auch als Verantwortung zu sprechen.",
+          "en": "It helps discuss culture not only as beauty, but also as responsibility."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фуртвенглер был не только дирижёром, но и композитором.",
+    "de": "Furtwaengler war nicht nur Dirigent, sondern auch Komponist.",
+    "en": "Furtwaengler was not only a conductor, but also a composer."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Wilhelm Furtwaengler",
+      "url": "https://www.britannica.com/biography/Wilhelm-Furtwangler"
+    },
+    {
+      "label": "Berliner Philharmoniker: Wilhelm Furtwaengler",
+      "url": "https://www.berliner-philharmoniker.de/en/about-us/orchestra/history/wilhelm-furtwaengler/"
+    },
+    {
+      "label": "Deutsche Biographie: Wilhelm Furtwaengler",
+      "url": "https://www.deutsche-biographie.de/sfz17848.html"
+    }
+  ]
+}

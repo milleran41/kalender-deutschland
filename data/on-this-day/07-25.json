@@ -1,0 +1,90 @@
+{
+  "date": "07-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1934-july-putsch-dollfuss-assassinated",
+    "year": 1934,
+    "title": {
+      "ru": "Австрийские нацисты убили канцлера Дольфуса",
+      "de": "Oesterreichische Nationalsozialisten ermorden Kanzler Dollfuss",
+      "en": "Austrian Nazis assassinate Chancellor Dollfuss"
+    },
+    "description": {
+      "ru": "25 июля 1934 года австрийские нацисты попытались совершить переворот в Вене и смертельно ранили канцлера Энгельберта Дольфуса. Путч провалился, но показал, насколько сильным стало давление на независимость Австрии.",
+      "de": "Am 25. Juli 1934 versuchten oesterreichische Nationalsozialisten in Wien einen Putsch und verletzten Bundeskanzler Engelbert Dollfuss toedlich. Der Putsch scheiterte, zeigte aber, wie stark der Druck auf die Unabhaengigkeit Oesterreichs geworden war.",
+      "en": "On 25 July 1934, Austrian Nazis attempted a coup in Vienna and fatally wounded Chancellor Engelbert Dollfuss. The coup failed, but it showed how strong the pressure on Austria's independence had become."
+    },
+    "importance": {
+      "ru": "Событие стало важным предупреждением о намерениях нацистов задолго до аншлюса 1938 года.",
+      "de": "Das Ereignis wurde zu einer wichtigen Warnung vor den Absichten der Nationalsozialisten lange vor dem Anschluss von 1938.",
+      "en": "The event became an important warning about Nazi intentions long before the Anschluss of 1938."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "austria-between-germany-and-italy",
+        "year": 1934,
+        "title": {
+          "ru": "Австрия между Берлином и Римом",
+          "de": "Oesterreich zwischen Berlin und Rom",
+          "en": "Austria between Berlin and Rome"
+        },
+        "description": {
+          "ru": "После убийства Дольфуса Италия Муссолини ещё поддерживала независимость Австрии и резко отреагировала на угрозу германского влияния. Но позже союз Италии с Германией оставил Австрию почти без защиты.",
+          "de": "Nach Dollfuss' Ermordung unterstuetzte Mussolinis Italien noch die Unabhaengigkeit Oesterreichs und reagierte scharf auf die Gefahr deutschen Einflusses. Spaeter liess das Buendnis Italiens mit Deutschland Oesterreich fast schutzlos zurueck.",
+          "en": "After Dollfuss's assassination, Mussolini's Italy still supported Austrian independence and reacted strongly to the threat of German influence. Later, Italy's alliance with Germany left Austria almost unprotected."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, как быстро менялись союзы в Европе 1930-х годов.",
+          "de": "Das Datum hilft zu verstehen, wie schnell sich die Buendnisse im Europa der 1930er Jahre veraenderten.",
+          "en": "The date helps explain how quickly alliances changed in 1930s Europe."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "radio-station-coup",
+        "year": 1934,
+        "title": {
+          "ru": "Путч и радио",
+          "de": "Putsch und Radio",
+          "en": "Coup and radio"
+        },
+        "description": {
+          "ru": "Заговорщики пытались использовать радиосообщение, чтобы создать впечатление, будто власть уже сменилась. Это показывает, насколько важным инструментом политики стало радио в межвоенной Европе.",
+          "de": "Die Putschisten versuchten, eine Rundfunkmeldung zu nutzen, um den Eindruck zu erwecken, die Macht habe bereits gewechselt. Das zeigt, wie wichtig das Radio in der Zwischenkriegszeit als politisches Instrument wurde.",
+          "en": "The plotters tried to use a radio announcement to create the impression that power had already changed hands. This shows how important radio had become as a political instrument in interwar Europe."
+        },
+        "importance": {
+          "ru": "Даже неудачный переворот может многое рассказать о роли медиа и пропаганды.",
+          "de": "Selbst ein gescheiterter Putsch kann viel ueber die Rolle von Medien und Propaganda erzaehlen.",
+          "en": "Even a failed coup can reveal much about the role of media and propaganda."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После провала июльского путча многие австрийские нацисты бежали в Германию.",
+    "de": "Nach dem Scheitern des Juliputsches flohen viele oesterreichische Nationalsozialisten nach Deutschland.",
+    "en": "After the July Putsch failed, many Austrian Nazis fled to Germany."
+  },
+  "sources": [
+    {
+      "label": "Austrian Federal Chancellery: The First Republic",
+      "url": "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/visit-us/history/the-first-republic.html"
+    },
+    {
+      "label": "Britannica: Austria, First Republic and Anschluss",
+      "url": "https://www.britannica.com/topic/history-of-Austria/First-Republic-and-the-Anschluss"
+    },
+    {
+      "label": "Haus der Geschichte Oesterreich: Juli-Putschversuch 1934",
+      "url": "https://hdgoe.at/juli_putsch_versuch_1934"
+    }
+  ]
+}

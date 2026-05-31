@@ -1,0 +1,90 @@
+{
+  "date": "03-11",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1938-schuschnigg-resigns-under-german-pressure",
+    "year": 1938,
+    "title": {
+      "ru": "Шушниг ушёл в отставку под давлением Германии",
+      "de": "Schuschnigg tritt unter deutschem Druck zurueck",
+      "en": "Schuschnigg resigns under German pressure"
+    },
+    "description": {
+      "ru": "11 марта 1938 года австрийский канцлер Курт Шушниг отменил плебисцит о независимости Австрии и ушёл в отставку под давлением нацистской Германии. На следующий день немецкие войска вошли в Австрию.",
+      "de": "Am 11. Maerz 1938 sagte der oesterreichische Bundeskanzler Kurt Schuschnigg die Volksbefragung ueber die Unabhaengigkeit Oesterreichs ab und trat unter Druck des nationalsozialistischen Deutschlands zurueck. Am naechsten Tag marschierten deutsche Truppen in Oesterreich ein.",
+      "en": "On 11 March 1938, Austrian Chancellor Kurt Schuschnigg canceled the plebiscite on Austrian independence and resigned under pressure from Nazi Germany. The next day, German troops entered Austria."
+    },
+    "importance": {
+      "ru": "Это был решающий момент перед аншлюсом: независимость Австрии была сломлена угрозой военной силы и политическим шантажом.",
+      "de": "Dies war der entscheidende Moment vor dem Anschluss: Oesterreichs Unabhaengigkeit wurde durch militaerische Drohung und politischen Druck gebrochen.",
+      "en": "It was the decisive moment before the Anschluss: Austria's independence was broken by military threat and political pressure."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "plebiscite-cancelled",
+        "year": 1938,
+        "title": {
+          "ru": "Плебисцит, которого не случилось",
+          "de": "Die Volksbefragung, die nicht stattfand",
+          "en": "The plebiscite that never happened"
+        },
+        "description": {
+          "ru": "Шушниг хотел спросить австрийцев, поддерживают ли они независимость страны. Именно эта попытка сорвать планы Гитлера вызвала резкое давление Берлина.",
+          "de": "Schuschnigg wollte die Oesterreicher fragen, ob sie die Unabhaengigkeit ihres Landes unterstuetzen. Gerade dieser Versuch, Hitlers Plaene zu durchkreuzen, loeste den massiven Druck Berlins aus.",
+          "en": "Schuschnigg wanted to ask Austrians whether they supported their country's independence. This attempt to block Hitler's plans triggered intense pressure from Berlin."
+        },
+        "importance": {
+          "ru": "Дата показывает, что иногда несостоявшееся голосование говорит об эпохе больше, чем проведённое.",
+          "de": "Das Datum zeigt, dass eine nicht stattgefundene Abstimmung manchmal mehr ueber eine Epoche sagt als eine abgehaltene.",
+          "en": "The date shows that sometimes a vote that never happened says more about an era than one that did."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "radio-farewell",
+        "year": 1938,
+        "title": {
+          "ru": "Прощание по радио",
+          "de": "Abschied im Radio",
+          "en": "Farewell by radio"
+        },
+        "description": {
+          "ru": "Шушниг обратился к стране по радио и призвал австрийскую армию не сопротивляться, чтобы избежать кровопролития. Его последняя фраза о защите Австрии Богом стала часто цитируемой.",
+          "de": "Schuschnigg wandte sich im Radio an das Land und rief das oesterreichische Heer auf, keinen Widerstand zu leisten, um Blutvergiessen zu vermeiden. Sein letzter Wunsch, Gott moege Oesterreich schuetzen, wurde haeufig zitiert.",
+          "en": "Schuschnigg addressed the country by radio and told the Austrian army not to resist in order to avoid bloodshed. His final wish that God protect Austria became widely quoted."
+        },
+        "importance": {
+          "ru": "В этой радиоречи слышен момент, когда государство фактически теряет самостоятельность.",
+          "de": "In dieser Rundfunkrede ist der Moment hoerbar, in dem ein Staat faktisch seine Selbststaendigkeit verliert.",
+          "en": "In this radio speech, one can hear the moment when a state effectively loses its independence."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После аншлюса Шушниг был арестован и позже находился в заключении при нацистском режиме.",
+    "de": "Nach dem Anschluss wurde Schuschnigg verhaftet und spaeter vom NS-Regime gefangen gehalten.",
+    "en": "After the Anschluss, Schuschnigg was arrested and later held prisoner by the Nazi regime."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Nazi Territorial Aggression, the Anschluss",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-territorial-aggression-the-anschluss"
+    },
+    {
+      "label": "Austrian Federal Chancellery: 1938",
+      "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/besuchen-sie-uns/gang-der-geschichte/1938.html"
+    },
+    {
+      "label": "Office of the Historian: Telegram from Vienna, March 11, 1938",
+      "url": "https://history.state.gov/historicaldocuments/frus1938v01/d436"
+    }
+  ]
+}
