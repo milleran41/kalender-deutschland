@@ -1,0 +1,86 @@
+{
+  "date": "04-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1951-treaty-of-paris-ecsc",
+    "year": 1951,
+    "title": {
+      "ru": "Подписан Парижский договор о ЕОУС",
+      "de": "Der Pariser Vertrag zur EGKS wird unterzeichnet",
+      "en": "The Treaty of Paris on the ECSC is signed"
+    },
+    "description": {
+      "ru": "18 апреля 1951 года ФРГ, Франция, Италия, Бельгия, Нидерланды и Люксембург подписали договор о Европейском объединении угля и стали. Уголь и сталь, важные для войны и промышленности, перешли под общий контроль.",
+      "de": "Am 18. April 1951 unterzeichneten die Bundesrepublik, Frankreich, Italien, Belgien, die Niederlande und Luxemburg den Vertrag ueber die Europaeische Gemeinschaft fuer Kohle und Stahl. Kohle und Stahl, wichtig fuer Krieg und Industrie, wurden gemeinsam kontrolliert.",
+      "en": "On 18 April 1951, West Germany, France, Italy, Belgium, the Netherlands and Luxembourg signed the treaty creating the European Coal and Steel Community. Coal and steel, vital for war and industry, were placed under common control."
+    },
+    "importance": {
+      "ru": "Это был один из первых практических шагов к будущему Европейскому союзу и к примирению Германии с соседями.",
+      "de": "Das war einer der ersten praktischen Schritte zur spaeteren Europaeischen Union und zur Aussoehnung Deutschlands mit seinen Nachbarn.",
+      "en": "It was one of the first practical steps toward the later European Union and toward Germany's reconciliation with its neighbors."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1951-schuman-plan-result",
+        "year": 1951,
+        "title": {
+          "ru": "Идея Шумана стала договором",
+          "de": "Aus dem Schuman-Plan wird ein Vertrag",
+          "en": "The Schuman Plan becomes a treaty"
+        },
+        "description": {
+          "ru": "План Робера Шумана предлагал объединить французское и германское производство угля и стали. Через год после объявления идеи она получила форму международного договора.",
+          "de": "Der Schuman-Plan schlug vor, die franzoesische und deutsche Kohle- und Stahlproduktion zusammenzulegen. Ein Jahr nach der Ankuendigung wurde daraus ein internationaler Vertrag.",
+          "en": "Robert Schuman's plan proposed pooling French and German coal and steel production. One year after the idea was announced, it became an international treaty."
+        },
+        "importance": {
+          "ru": "Экономическое сотрудничество стало способом сделать новую войну между Францией и Германией почти невозможной.",
+          "de": "Wirtschaftliche Zusammenarbeit sollte einen neuen Krieg zwischen Frankreich und Deutschland praktisch unmoeglich machen.",
+          "en": "Economic cooperation was meant to make another war between France and Germany practically impossible."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "coal-steel-industry-control",
+        "year": 1951,
+        "title": {
+          "ru": "Промышленность как политика мира",
+          "de": "Industrie als Friedenspolitik",
+          "en": "Industry as peace policy"
+        },
+        "description": {
+          "ru": "Уголь и сталь были основой тяжёлой промышленности Рура и других регионов. Общие правила для этих отраслей превращали экономику в инструмент доверия.",
+          "de": "Kohle und Stahl waren die Grundlage der Schwerindustrie im Ruhrgebiet und in anderen Regionen. Gemeinsame Regeln fuer diese Branchen machten Wirtschaft zu einem Werkzeug des Vertrauens.",
+          "en": "Coal and steel were the foundation of heavy industry in the Ruhr and other regions. Common rules for these sectors turned the economy into a tool for trust."
+        },
+        "importance": {
+          "ru": "Так школьнику проще понять, почему европейская интеграция началась не с красивых слов, а с заводов и шахт.",
+          "de": "So laesst sich gut verstehen, warum die europaeische Integration nicht mit grossen Worten, sondern mit Werken und Bergwerken begann.",
+          "en": "This makes it easier to see why European integration began not with grand speeches but with factories and mines."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Договор ЕОУС был рассчитан на 50 лет: он вступил в силу в 1952 году и истёк в 2002 году.",
+    "de": "Der EGKS-Vertrag war auf 50 Jahre angelegt: Er trat 1952 in Kraft und lief 2002 aus.",
+    "en": "The ECSC Treaty was designed for 50 years: it entered into force in 1952 and expired in 2002."
+  },
+  "sources": [
+    {
+      "label": "European Parliament: Treaty of Paris",
+      "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-paris"
+    },
+    {
+      "label": "European Parliament: The first treaties",
+      "url": "https://www.europarl.europa.eu/factsheets/en/sheet/1/the-first-treaties"
+    }
+  ]
+}

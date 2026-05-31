@@ -1,0 +1,90 @@
+{
+  "date": "12-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1901-werner-heisenberg-born",
+    "year": 1901,
+    "title": {
+      "ru": "Родился Вернер Гейзенберг",
+      "de": "Werner Heisenberg wird geboren",
+      "en": "Werner Heisenberg is born"
+    },
+    "description": {
+      "ru": "5 декабря 1901 года в Вюрцбурге родился Вернер Гейзенберг, один из создателей квантовой механики. Его имя особенно известно благодаря принципу неопределённости.",
+      "de": "Am 5. Dezember 1901 wurde Werner Heisenberg in Wuerzburg geboren, einer der Begruender der Quantenmechanik. Besonders bekannt ist sein Name durch die Unschaerferelation.",
+      "en": "On 5 December 1901, Werner Heisenberg was born in Wuerzburg. He became one of the founders of quantum mechanics and is especially known for the uncertainty principle."
+    },
+    "importance": {
+      "ru": "Гейзенберг изменил представления физиков о микромире и получил Нобелевскую премию по физике.",
+      "de": "Heisenberg veraenderte das physikalische Bild der Mikrowelt und erhielt den Nobelpreis fuer Physik.",
+      "en": "Heisenberg changed physicists' understanding of the microscopic world and received the Nobel Prize in Physics."
+    }
+  },
+  "categories": {
+    "famousPeople": [
+      {
+        "id": "1901-heisenberg-wuerzburg",
+        "year": 1901,
+        "title": {
+          "ru": "Учёный из Вюрцбурга",
+          "de": "Ein Wissenschaftler aus Wuerzburg",
+          "en": "A scientist from Wuerzburg"
+        },
+        "description": {
+          "ru": "Гейзенберг учился и работал в нескольких немецких научных центрах, включая Мюнхен, Гёттинген и Лейпциг. Его биография хорошо показывает, насколько важны были университетские города Германии.",
+          "de": "Heisenberg lernte und arbeitete in mehreren deutschen Wissenschaftszentren, darunter Muenchen, Goettingen und Leipzig. Seine Biografie zeigt, wie wichtig deutsche Universitaetsstaedte waren.",
+          "en": "Heisenberg studied and worked in several German scientific centers, including Munich, Goettingen and Leipzig. His biography shows how important Germany's university cities were."
+        },
+        "importance": {
+          "ru": "Через одну биографию можно увидеть целую карту немецкой науки XX века.",
+          "de": "An einer Biografie laesst sich eine ganze Karte der deutschen Wissenschaft des 20. Jahrhunderts erkennen.",
+          "en": "One biography can reveal a whole map of 20th-century German science."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "1927-uncertainty-principle-context",
+        "year": 1927,
+        "title": {
+          "ru": "Принцип неопределённости",
+          "de": "Die Unschaerferelation",
+          "en": "The uncertainty principle"
+        },
+        "description": {
+          "ru": "Гейзенберг показал, что в квантовой физике нельзя одновременно с любой точностью знать некоторые пары величин, например положение и импульс частицы. Это не ошибка прибора, а свойство микромира.",
+          "de": "Heisenberg zeigte, dass man in der Quantenphysik bestimmte Groessenpaare, etwa Ort und Impuls eines Teilchens, nicht zugleich beliebig genau kennen kann. Das ist kein Messfehler, sondern eine Eigenschaft der Mikrowelt.",
+          "en": "Heisenberg showed that in quantum physics some pairs of quantities, such as a particle's position and momentum, cannot both be known with unlimited precision. This is not an instrument error but a feature of the microscopic world."
+        },
+        "importance": {
+          "ru": "Эта идея стала одной из самых известных и трудных идей современной физики.",
+          "de": "Diese Idee wurde zu einer der bekanntesten und schwierigsten Ideen der modernen Physik.",
+          "en": "The idea became one of the best-known and most challenging ideas in modern physics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Гейзенберг получил Нобелевскую премию 1932 года, но награда была вручена в 1933 году.",
+    "de": "Heisenberg erhielt den Nobelpreis fuer 1932; die Auszeichnung wurde ihm jedoch 1933 ueberreicht.",
+    "en": "Heisenberg received the 1932 Nobel Prize, but the award was presented to him in 1933."
+  },
+  "sources": [
+    {
+      "label": "American Institute of Physics: Heisenberg",
+      "url": "https://history.aip.org/exhibits/heisenberg/family-matters.html"
+    },
+    {
+      "label": "Nobel Prize: Werner Heisenberg",
+      "url": "https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts/"
+    },
+    {
+      "label": "Heisenberg-Gesellschaft: Jugend",
+      "url": "https://www.heisenberg-gesellschaft.de/1-jugend-1901-ndash-1920.html"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "07-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1886-benz-public-drive",
+    "year": 1886,
+    "title": {
+      "ru": "Karl Benz показал свой Motorwagen публике",
+      "de": "Karl Benz zeigt seinen Motorwagen oeffentlich",
+      "en": "Karl Benz shows his Motorwagen in public"
+    },
+    "description": {
+      "ru": "3 июля 1886 года Карл Бенц впервые публично проехал на своём Patent-Motorwagen в Мангейме. Трёхколёсная машина с бензиновым двигателем стала одним из символов рождения автомобиля.",
+      "de": "Am 3. Juli 1886 fuhr Karl Benz in Mannheim erstmals oeffentlich mit seinem Patent-Motorwagen. Das dreiraedrige Fahrzeug mit Benzinmotor wurde zu einem Symbol fuer die Geburt des Automobils.",
+      "en": "On 3 July 1886, Karl Benz publicly drove his Patent-Motorwagen in Mannheim for the first time. The three-wheeled vehicle with a gasoline engine became a symbol of the birth of the automobile."
+    },
+    "importance": {
+      "ru": "Это событие связывает Германию, Баден-Вюртемберг и мировую историю транспорта.",
+      "de": "Das Ereignis verbindet Deutschland, Baden-Wuerttemberg und die Weltgeschichte des Verkehrs.",
+      "en": "The event links Germany, Baden-Wuerttemberg and the global history of transport."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1886-first-gasoline-car",
+        "year": 1886,
+        "title": {
+          "ru": "Первый практичный автомобиль с бензиновым двигателем",
+          "de": "Das erste praktische Auto mit Benzinmotor",
+          "en": "The first practical gasoline automobile"
+        },
+        "description": {
+          "ru": "Benz Patent-Motorwagen не был похож на современные машины: у него было три колеса, простая рама и маленький двигатель. Но он показал, что самодвижущееся дорожное транспортное средство может работать в реальной жизни.",
+          "de": "Der Benz Patent-Motorwagen sah modernen Autos kaum aehnlich: Er hatte drei Raeder, einen einfachen Rahmen und einen kleinen Motor. Doch er zeigte, dass ein selbstfahrendes Strassenfahrzeug praktisch funktionieren konnte.",
+          "en": "The Benz Patent-Motorwagen hardly resembled modern cars: it had three wheels, a simple frame and a small engine. But it showed that a self-propelled road vehicle could work in practice."
+        },
+        "importance": {
+          "ru": "С этой машины начинается длинная история немецкого автомобилестроения.",
+          "de": "Mit diesem Fahrzeug beginnt ein langer Teil der deutschen Automobilgeschichte.",
+          "en": "This vehicle marks the beginning of a long chapter in German automotive history."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1886-mannheim-ringstrasse",
+        "year": 1886,
+        "title": {
+          "ru": "Публика увидела машину на обычной улице",
+          "de": "Das Publikum sah das Auto auf einer normalen Strasse",
+          "en": "The public saw the car on an ordinary street"
+        },
+        "description": {
+          "ru": "Бенц показывал автомобиль не в фантастическом романе и не на закрытом заводе, а на дороге в Мангейме. Для людей XIX века такая машина выглядела почти невероятной.",
+          "de": "Benz zeigte das Auto nicht in einem Zukunftsroman und nicht nur in einer Fabrik, sondern auf einer Strasse in Mannheim. Fuer Menschen des 19. Jahrhunderts wirkte so ein Fahrzeug fast unglaublich.",
+          "en": "Benz showed the car not in a science-fiction story and not only inside a factory, but on a road in Mannheim. For people of the 19th century, such a vehicle must have seemed almost unbelievable."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как техническая новинка сначала выглядит странно, а потом меняет весь мир.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie eine technische Neuheit zuerst seltsam wirkt und spaeter die Welt veraendert.",
+          "en": "It is a good example of how a technical novelty first looks strange and later changes the world."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через два года Берта Бенц совершила знаменитую дальнюю поездку из Мангейма в Пфорцхайм и доказала, что автомобиль полезен не только для коротких показов.",
+    "de": "Zwei Jahre spaeter unternahm Bertha Benz ihre beruehmte Fernfahrt von Mannheim nach Pforzheim und bewies, dass das Auto mehr konnte als kurze Vorfuehrungen.",
+    "en": "Two years later, Bertha Benz made her famous long-distance drive from Mannheim to Pforzheim and proved that the automobile was useful beyond short demonstrations."
+  },
+  "sources": [
+    {
+      "label": "German Patent and Trade Mark Office: Bertha Benz",
+      "url": "https://www.dpma.de/english/our_office/publications/ingeniouswomen/berthabenz_1/index.html"
+    },
+    {
+      "label": "German History Intersections: Benz Patent-Motorwagen",
+      "url": "https://germanhistory-intersections.org/en/knowledge-and-education/ghis%3Aimage-62"
+    }
+  ]
+}
