@@ -1,0 +1,65 @@
+{
+  "date": "03-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1879-otto-hahn-born",
+    "year": 1879,
+    "title": {
+      "ru": "Родился Отто Ган",
+      "de": "Otto Hahn wird geboren",
+      "en": "Otto Hahn is born"
+    },
+    "description": {
+      "ru": "8 марта 1879 года во Франкфурте-на-Майне родился химик Отто Ган. Он получил Нобелевскую премию по химии и связан с открытием ядерного деления.",
+      "de": "Am 8. Maerz 1879 wurde der Chemiker Otto Hahn in Frankfurt am Main geboren. Er erhielt den Nobelpreis fuer Chemie und ist mit der Entdeckung der Kernspaltung verbunden.",
+      "en": "On 8 March 1879, chemist Otto Hahn was born in Frankfurt am Main. He received the Nobel Prize in Chemistry and is linked with the discovery of nuclear fission."
+    },
+    "importance": {
+      "ru": "Его история показывает силу науки и одновременно ответственность за её последствия.",
+      "de": "Seine Geschichte zeigt die Kraft der Wissenschaft und zugleich die Verantwortung fuer ihre Folgen.",
+      "en": "His story shows the power of science and also responsibility for its consequences."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "nuclear-fission-discovery",
+        "year": 1938,
+        "title": {
+          "ru": "Открытие ядерного деления",
+          "de": "Entdeckung der Kernspaltung",
+          "en": "Discovery of nuclear fission"
+        },
+        "description": {
+          "ru": "В конце 1938 года эксперименты Гана и Фрица Штрассмана привели к открытию деления атомного ядра. Лиза Мейтнер и Отто Фриш вскоре дали физическое объяснение этому результату.",
+          "de": "Ende 1938 fuehrten Experimente von Hahn und Fritz Strassmann zur Entdeckung der Kernspaltung. Lise Meitner und Otto Frisch lieferten kurz darauf die physikalische Deutung.",
+          "en": "In late 1938, experiments by Hahn and Fritz Strassmann led to the discovery of nuclear fission. Lise Meitner and Otto Frisch soon provided the physical explanation."
+        },
+        "importance": {
+          "ru": "Это открытие изменило энергетику, физику и историю XX века.",
+          "de": "Diese Entdeckung veraenderte Energie, Physik und die Geschichte des 20. Jahrhunderts.",
+          "en": "This discovery changed energy, physics and the history of the 20th century."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Отто Ган после войны выступал за ответственное отношение к ядерной науке.",
+    "de": "Otto Hahn setzte sich nach dem Krieg fuer einen verantwortlichen Umgang mit der Kernwissenschaft ein.",
+    "en": "After the war, Otto Hahn advocated responsible handling of nuclear science."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Otto Hahn facts",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1944/hahn/facts/"
+    },
+    {
+      "label": "Nobel Prize: Otto Hahn biographical",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1944/hahn/biographical/"
+    }
+  ]
+}

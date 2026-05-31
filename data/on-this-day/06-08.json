@@ -1,0 +1,65 @@
+{
+  "date": "06-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1810-robert-schumann-born",
+    "year": 1810,
+    "title": {
+      "ru": "Родился Роберт Шуман",
+      "de": "Robert Schumann wird geboren",
+      "en": "Robert Schumann is born"
+    },
+    "description": {
+      "ru": "8 июня 1810 года в Цвиккау родился композитор Роберт Шуман. Он стал одной из главных фигур немецкого музыкального романтизма.",
+      "de": "Am 8. Juni 1810 wurde der Komponist Robert Schumann in Zwickau geboren. Er wurde zu einer der wichtigsten Figuren der deutschen musikalischen Romantik.",
+      "en": "On 8 June 1810, composer Robert Schumann was born in Zwickau. He became one of the major figures of German musical Romanticism."
+    },
+    "importance": {
+      "ru": "Шуман соединяет музыку, литературу, критику и романтическое представление о внутреннем мире человека.",
+      "de": "Schumann verbindet Musik, Literatur, Kritik und die romantische Vorstellung von der inneren Welt des Menschen.",
+      "en": "Schumann connects music, literature, criticism and the Romantic idea of a person's inner world."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "schumann-clara-and-romanticism",
+        "year": 1840,
+        "title": {
+          "ru": "Музыка и история семьи Шуман",
+          "de": "Musik und die Geschichte der Familie Schumann",
+          "en": "Music and the Schumann family story"
+        },
+        "description": {
+          "ru": "Роберт Шуман тесно связан с Кларой Шуман, выдающейся пианисткой и композитором. Их биография стала частью музыкальной истории Лейпцига, Дрездена и Дюссельдорфа.",
+          "de": "Robert Schumann ist eng mit Clara Schumann verbunden, einer herausragenden Pianistin und Komponistin. Ihre Biografie wurde Teil der Musikgeschichte von Leipzig, Dresden und Duesseldorf.",
+          "en": "Robert Schumann is closely linked with Clara Schumann, an outstanding pianist and composer. Their biography became part of the musical history of Leipzig, Dresden and Duesseldorf."
+        },
+        "importance": {
+          "ru": "Через Шуманов видно, что музыкальная культура создаётся не одиночками, а кругами, семьями и городами.",
+          "de": "Durch die Schumanns sieht man, dass Musikkultur nicht nur von Einzelnen, sondern von Kreisen, Familien und Staedten geschaffen wird.",
+          "en": "Through the Schumanns, we see that musical culture is shaped not only by individuals, but by circles, families and cities."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Шуман был не только композитором, но и влиятельным музыкальным критиком.",
+    "de": "Schumann war nicht nur Komponist, sondern auch ein einflussreicher Musikkritiker.",
+    "en": "Schumann was not only a composer but also an influential music critic."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Robert Schumann",
+      "url": "https://www.britannica.com/biography/Robert-Schumann"
+    },
+    {
+      "label": "Britannica: Robert Schumann summary",
+      "url": "https://www.britannica.com/summary/Robert-Schumann"
+    }
+  ]
+}

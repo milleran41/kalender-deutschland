@@ -45,6 +45,27 @@
           "en": "The date shows that remembrance needs not only words but justice."
         }
       }
+    ],
+    "sport": [
+      {
+        "id": "1988-steffi-graf-golden-slam",
+        "year": 1988,
+        "title": {
+          "ru": "Штеффи Граф завершила «золотой шлем»",
+          "de": "Steffi Graf vollendet den Golden Slam",
+          "en": "Steffi Graf completes the Golden Slam"
+        },
+        "description": {
+          "ru": "1 октября 1988 года немецкая теннисистка Штеффи Граф выиграла олимпийское золото в Сеуле. В том же году она победила на всех четырёх турнирах Большого шлема.",
+          "de": "Am 1. Oktober 1988 gewann die deutsche Tennisspielerin Steffi Graf olympisches Gold in Seoul. Im selben Jahr hatte sie alle vier Grand-Slam-Turniere gewonnen.",
+          "en": "On 1 October 1988, German tennis player Steffi Graf won Olympic gold in Seoul. In the same year, she had won all four Grand Slam tournaments."
+        },
+        "importance": {
+          "ru": "Это одно из самых редких достижений в истории тенниса.",
+          "de": "Das ist eine der seltensten Leistungen in der Geschichte des Tennis.",
+          "en": "It is one of the rarest achievements in tennis history."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,10 @@
     {
       "label": "Britannica: Nuremberg trials",
       "url": "https://www.britannica.com/event/Nurnberg-trials"
+    },
+    {
+      "label": "Guinness World Records: First tennis Golden Slam",
+      "url": "https://www.guinnessworldrecords.com/world-records/first-golden-tennis-grand-slam-female"
     }
   ]
 }

@@ -25,6 +25,27 @@
     }
   },
   "categories": {
+    "science": [
+      {
+        "id": "1882-emmy-noether-born",
+        "year": 1882,
+        "title": {
+          "ru": "Родилась Эмми Нётер",
+          "de": "Emmy Noether wird geboren",
+          "en": "Emmy Noether is born"
+        },
+        "description": {
+          "ru": "23 марта 1882 года в Эрлангене родилась математик Эмми Нётер. Её работы в алгебре и теоретической физике стали фундаментальными для науки XX века.",
+          "de": "Am 23. Maerz 1882 wurde die Mathematikerin Emmy Noether in Erlangen geboren. Ihre Arbeiten in Algebra und theoretischer Physik wurden grundlegend fuer die Wissenschaft des 20. Jahrhunderts.",
+          "en": "On 23 March 1882, mathematician Emmy Noether was born in Erlangen. Her work in algebra and theoretical physics became fundamental for 20th-century science."
+        },
+        "importance": {
+          "ru": "Нётер показывает, как важный вклад в науку может долго оставаться недооценённым из-за предрассудков времени.",
+          "de": "Noether zeigt, wie ein wichtiger wissenschaftlicher Beitrag wegen der Vorurteile der Zeit lange unterschaetzt werden kann.",
+          "en": "Noether shows how an important scientific contribution can remain undervalued for a long time because of the prejudices of its era."
+        }
+      }
+    ],
     "history": [
       {
         "id": "1933-otto-wels-speech",
@@ -60,6 +81,10 @@
     {
       "label": "Deutscher Bundestag: Enabling Act exhibition PDF",
       "url": "https://www.bundestag.de/resource/blob/189778/d0f948962723d454c536d24d43965f87/enabling_act-data.pdf"
+    },
+    {
+      "label": "Britannica: Emmy Noether",
+      "url": "https://www.britannica.com/biography/Emmy-Noether"
     }
   ]
 }
