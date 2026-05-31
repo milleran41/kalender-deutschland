@@ -1,0 +1,90 @@
+{
+  "date": "10-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-dresden-revolt",
+    "year": 1989,
+    "title": {
+      "ru": "Протесты у вокзала в Дрездене",
+      "de": "Proteste am Dresdner Hauptbahnhof",
+      "en": "Protests at Dresden Central Station"
+    },
+    "description": {
+      "ru": "4 октября 1989 года тысячи людей собрались у главного вокзала Дрездена, когда через ГДР проходили поезда с восточногерманскими беженцами из Праги в ФРГ. Протесты переросли в столкновения с силами безопасности.",
+      "de": "Am 4. Oktober 1989 versammelten sich Tausende am Dresdner Hauptbahnhof, als Zuege mit DDR-Fluechtlingen aus Prag in die Bundesrepublik durch die DDR fuhren. Die Proteste eskalierten zu Zusammenstoessen mit Sicherheitskraeften.",
+      "en": "On 4 October 1989, thousands gathered at Dresden Central Station as trains carrying East German refugees from Prague to West Germany passed through the GDR. The protests escalated into clashes with security forces."
+    },
+    "importance": {
+      "ru": "Дрезденские события стали важной частью Мирной революции и показали, насколько быстро росло недовольство в ГДР.",
+      "de": "Die Dresdner Ereignisse wurden zu einem wichtigen Teil der Friedlichen Revolution und zeigten, wie schnell die Unzufriedenheit in der DDR wuchs.",
+      "en": "The Dresden events became an important part of the Peaceful Revolution and showed how quickly discontent in East Germany was growing."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1989-prague-refugee-trains",
+        "year": 1989,
+        "title": {
+          "ru": "Поезда из Праги",
+          "de": "Die Zuege aus Prag",
+          "en": "The trains from Prague"
+        },
+        "description": {
+          "ru": "Тысячи граждан ГДР нашли убежище в посольстве ФРГ в Праге. Когда их вывозили на Запад поездами через территорию ГДР, многие в Дрездене попытались попасть к этим поездам.",
+          "de": "Tausende DDR-Buerger hatten in der Botschaft der Bundesrepublik in Prag Zuflucht gesucht. Als sie mit Zuegen durch DDR-Gebiet in den Westen gebracht wurden, versuchten viele Menschen in Dresden, diese Zuege zu erreichen.",
+          "en": "Thousands of East German citizens had sought refuge in the West German embassy in Prague. When they were taken west by trains through GDR territory, many people in Dresden tried to reach those trains."
+        },
+        "importance": {
+          "ru": "Так обычный вокзал стал местом, где видимым стал кризис всего государства.",
+          "de": "So wurde ein normaler Bahnhof zu einem Ort, an dem die Krise des ganzen Staates sichtbar wurde.",
+          "en": "An ordinary railway station thus became a place where the crisis of the whole state became visible."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1989-group-of-20",
+        "year": 1989,
+        "title": {
+          "ru": "Начало дрезденской «Группы 20»",
+          "de": "Anfang der Dresdner Gruppe der 20",
+          "en": "Beginning of Dresden's Group of 20"
+        },
+        "description": {
+          "ru": "После столкновений в Дрездене возникла группа гражданских представителей, которая стала вести переговоры с городскими властями. Её называли «Группой 20».",
+          "de": "Nach den Zusammenstoessen in Dresden entstand eine Gruppe buergerlicher Vertreter, die mit der Stadtfuehrung verhandelte. Sie wurde Gruppe der 20 genannt.",
+          "en": "After the clashes in Dresden, a group of citizen representatives emerged to negotiate with city authorities. It became known as the Group of 20."
+        },
+        "importance": {
+          "ru": "Иногда протест рождает не только лозунги, но и новые формы переговоров.",
+          "de": "Manchmal bringt Protest nicht nur Parolen hervor, sondern auch neue Formen des Verhandelns.",
+          "en": "Sometimes protest produces not only slogans but also new forms of negotiation."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Дрезденские события начались за несколько дней до знаменитой демонстрации 9 октября в Лейпциге.",
+    "de": "Die Dresdner Ereignisse begannen wenige Tage vor der beruehmten Demonstration am 9. Oktober in Leipzig.",
+    "en": "The Dresden events began a few days before the famous demonstration in Leipzig on 9 October."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: Revolt in Dresden",
+      "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/revolte-in-dresden-336968"
+    },
+    {
+      "label": "City of Dresden: Dresden 1989 and 1990",
+      "url": "https://www.dresden.de/wende"
+    },
+    {
+      "label": "Bundesarchiv: October 1989",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/storys/die-stasi-im-jahr-1989/oktober-1989/"
+    }
+  ]
+}

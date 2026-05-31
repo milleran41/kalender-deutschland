@@ -1,0 +1,86 @@
+{
+  "date": "01-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1861-wilhelm-i-becomes-king-of-prussia",
+    "year": 1861,
+    "title": {
+      "ru": "Вильгельм I стал королём Пруссии",
+      "de": "Wilhelm I. wird Koenig von Preussen",
+      "en": "Wilhelm I becomes King of Prussia"
+    },
+    "description": {
+      "ru": "2 января 1861 года умер прусский король Фридрих Вильгельм IV, и его брат Вильгельм I взошёл на престол. Через десять лет он стал первым германским императором.",
+      "de": "Am 2. Januar 1861 starb der preussische Koenig Friedrich Wilhelm IV., und sein Bruder Wilhelm I. bestieg den Thron. Zehn Jahre spaeter wurde er der erste deutsche Kaiser.",
+      "en": "On 2 January 1861, Prussian king Frederick William IV died, and his brother Wilhelm I ascended the throne. Ten years later, he became the first German emperor."
+    },
+    "importance": {
+      "ru": "Дата связывает позднюю историю Пруссии с будущим объединением Германии.",
+      "de": "Das Datum verbindet die spaete Geschichte Preussens mit der spaeteren deutschen Einigung.",
+      "en": "The date connects late Prussian history with the later unification of Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1861-prussian-monarchy-before-bismarck",
+        "year": 1861,
+        "title": {
+          "ru": "Пруссия перед эпохой Бисмарка",
+          "de": "Preussen vor der Bismarck-Zeit",
+          "en": "Prussia before the Bismarck era"
+        },
+        "description": {
+          "ru": "Когда Вильгельм I стал королём, вопрос о военной реформе и роли парламента уже становился всё острее. Вскоре этот конфликт приведёт к назначению Бисмарка.",
+          "de": "Als Wilhelm I. Koenig wurde, spitzte sich die Frage der Heeresreform und der Rolle des Parlaments bereits zu. Bald fuehrte dieser Konflikt zur Berufung Bismarcks.",
+          "en": "When Wilhelm I became king, the question of military reform and parliament's role was already becoming sharper. Soon this conflict would lead to Bismarck's appointment."
+        },
+        "importance": {
+          "ru": "Так видно, что объединение Германии выросло из внутренних прусских споров, а не только из внешних войн.",
+          "de": "So wird sichtbar, dass die deutsche Einigung aus inneren preussischen Konflikten entstand, nicht nur aus aeusseren Kriegen.",
+          "en": "This shows that German unification grew out of internal Prussian conflicts, not only foreign wars."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1797-wilhelm-i",
+        "year": 1797,
+        "title": {
+          "ru": "Вильгельм I",
+          "de": "Wilhelm I.",
+          "en": "Wilhelm I"
+        },
+        "description": {
+          "ru": "Вильгельм I был осторожным монархом, но именно при нём Пруссия победила в войнах 1860-х и 1870-1871 годов. Его имя стало частью имперской символики новой Германии.",
+          "de": "Wilhelm I. war ein vorsichtiger Monarch, doch unter ihm siegte Preussen in den Kriegen der 1860er Jahre und 1870-1871. Sein Name wurde Teil der kaiserlichen Symbolik des neuen Deutschlands.",
+          "en": "Wilhelm I was a cautious monarch, but under him Prussia won the wars of the 1860s and 1870-1871. His name became part of the imperial symbolism of the new Germany."
+        },
+        "importance": {
+          "ru": "Его правление помогает понять, почему Пруссия стала ядром Германской империи.",
+          "de": "Seine Herrschaft hilft zu verstehen, warum Preussen zum Kern des Deutschen Kaiserreichs wurde.",
+          "en": "His reign helps explain why Prussia became the core of the German Empire."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Торжественная коронация Вильгельма I прошла не 2 января, а 18 октября 1861 года в Кёнигсберге.",
+    "de": "Die feierliche Kroenung Wilhelms I. fand nicht am 2. Januar, sondern am 18. Oktober 1861 in Koenigsberg statt.",
+    "en": "Wilhelm I's formal coronation took place not on 2 January but on 18 October 1861 in Koenigsberg."
+  },
+  "sources": [
+    {
+      "label": "Britannica: William I",
+      "url": "https://www.britannica.com/biography/William-I-emperor-of-Germany"
+    },
+    {
+      "label": "German History in Documents and Images: Wilhelm I opening the Prussian Chamber",
+      "url": "https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/the-opening-of-the-prussian-chamber-january-14-1861"
+    }
+  ]
+}

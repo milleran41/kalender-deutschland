@@ -1,0 +1,90 @@
+{
+  "date": "08-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1914-germany-declares-war-on-france",
+    "year": 1914,
+    "title": {
+      "ru": "Германия объявила войну Франции",
+      "de": "Deutschland erklaert Frankreich den Krieg",
+      "en": "Germany declares war on France"
+    },
+    "description": {
+      "ru": "3 августа 1914 года Германия объявила войну Франции. На следующий день германские войска вторглись в Бельгию, и в войну вступила Великобритания.",
+      "de": "Am 3. August 1914 erklaerte Deutschland Frankreich den Krieg. Am naechsten Tag marschierten deutsche Truppen in Belgien ein, und Grossbritannien trat in den Krieg ein.",
+      "en": "On 3 August 1914, Germany declared war on France. The next day German troops invaded Belgium, and Britain entered the war."
+    },
+    "importance": {
+      "ru": "Так июльский кризис превратился в большую войну на западном фронте.",
+      "de": "So wurde aus der Julikrise ein grosser Krieg an der Westfront.",
+      "en": "The July Crisis thus became a major war on the Western Front."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1914-schlieffen-plan-context",
+        "year": 1914,
+        "title": {
+          "ru": "План войны на два фронта",
+          "de": "Kriegsplan fuer zwei Fronten",
+          "en": "War plan for two fronts"
+        },
+        "description": {
+          "ru": "Германское командование рассчитывало быстро ударить по Франции, пока Россия медленнее проводит мобилизацию. Эта логика толкала Германию к наступлению на западе.",
+          "de": "Die deutsche Fuehrung rechnete damit, Frankreich schnell zu schlagen, waehrend Russland langsamer mobilisierte. Diese Logik draengte Deutschland zum Angriff im Westen.",
+          "en": "Germany's leadership expected to strike France quickly while Russia mobilized more slowly. This logic pushed Germany toward an offensive in the west."
+        },
+        "importance": {
+          "ru": "Дата показывает, как военные планы могут ускорить политический кризис.",
+          "de": "Das Datum zeigt, wie militaerische Plaene eine politische Krise beschleunigen koennen.",
+          "en": "The date shows how military plans can accelerate a political crisis."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1914-war-not-one-day",
+        "year": 1914,
+        "title": {
+          "ru": "Война входила в Европу по дням",
+          "de": "Der Krieg kam Tag fuer Tag nach Europa",
+          "en": "War entered Europe day by day"
+        },
+        "description": {
+          "ru": "Первая мировая война не началась для всех стран в один момент. В конце июля и начале августа 1914 года объявления войны следовали одно за другим.",
+          "de": "Der Erste Weltkrieg begann nicht fuer alle Staaten im selben Moment. Ende Juli und Anfang August 1914 folgte Kriegserklaerung auf Kriegserklaerung.",
+          "en": "The First World War did not begin for all countries at the same moment. In late July and early August 1914, declarations of war followed one after another."
+        },
+        "importance": {
+          "ru": "По календарю хорошо видно, как быстро локальный кризис стал европейской катастрофой.",
+          "de": "Am Kalender laesst sich gut erkennen, wie schnell aus einer lokalen Krise eine europaeische Katastrophe wurde.",
+          "en": "A calendar makes it clear how quickly a local crisis became a European catastrophe."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Германия объявила войну России 1 августа, Франции 3 августа, а Бельгии война пришла 4 августа через вторжение.",
+    "de": "Deutschland erklaerte Russland am 1. August und Frankreich am 3. August den Krieg; Belgien wurde am 4. August durch den Einmarsch in den Krieg hineingezogen.",
+    "en": "Germany declared war on Russia on 1 August and on France on 3 August; Belgium was drawn into the war by the invasion on 4 August."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Germany declares war on France",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1914-08-03-germany-declares-war-on-france/"
+    },
+    {
+      "label": "Office of the Historian: Germany's declaration of war against France",
+      "url": "https://history.state.gov/historicaldocuments/frus1914Supp/d209"
+    },
+    {
+      "label": "History.com: Germany and France declare war",
+      "url": "https://www.history.com/this-day-in-history/August-3/germany-and-france-declare-war-on-each-other"
+    }
+  ]
+}
