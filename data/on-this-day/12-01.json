@@ -1,0 +1,111 @@
+{
+  "date": "12-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1966-kiesinger-elected-chancellor",
+    "year": 1966,
+    "title": {
+      "ru": "Курт Георг Кизингер стал канцлером",
+      "de": "Kurt Georg Kiesinger wird Bundeskanzler",
+      "en": "Kurt Georg Kiesinger becomes chancellor"
+    },
+    "description": {
+      "ru": "1 декабря 1966 года Бундестаг избрал Курта Георга Кизингера федеральным канцлером. Его правительство стало первой большой коалицией ХДС/ХСС и СДПГ на федеральном уровне.",
+      "de": "Am 1. Dezember 1966 waehlte der Bundestag Kurt Georg Kiesinger zum Bundeskanzler. Seine Regierung wurde die erste Grosse Koalition aus CDU/CSU und SPD auf Bundesebene.",
+      "en": "On 1 December 1966, the Bundestag elected Kurt Georg Kiesinger as federal chancellor. His government became the first grand coalition of the CDU/CSU and SPD at the federal level."
+    },
+    "importance": {
+      "ru": "Дата показывает, как парламентская система ФРГ выходила из правительственного кризиса через коалиционные переговоры.",
+      "de": "Das Datum zeigt, wie das parlamentarische System der Bundesrepublik eine Regierungskrise durch Koalitionsverhandlungen loeste.",
+      "en": "The date shows how West Germany's parliamentary system resolved a government crisis through coalition negotiations."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1966-first-grand-coalition",
+        "year": 1966,
+        "title": {
+          "ru": "Первая большая коалиция ФРГ",
+          "de": "Die erste Grosse Koalition der Bundesrepublik",
+          "en": "West Germany's first grand coalition"
+        },
+        "description": {
+          "ru": "После распада предыдущего правительства ХДС/ХСС и СДПГ создали совместный кабинет. Для СДПГ это был важный шаг к возвращению в федеральную власть.",
+          "de": "Nach dem Zerbrechen der vorherigen Regierung bildeten CDU/CSU und SPD ein gemeinsames Kabinett. Fuer die SPD war das ein wichtiger Schritt zur Rueckkehr in die Bundespolitik.",
+          "en": "After the previous government collapsed, the CDU/CSU and SPD formed a joint cabinet. For the SPD, this was an important step back into federal government."
+        },
+        "importance": {
+          "ru": "Так видно, что немецкая политика часто строится не на победе одной партии, а на умении договариваться.",
+          "de": "So wird sichtbar, dass deutsche Politik oft nicht auf dem Sieg einer Partei, sondern auf der Faehigkeit zum Kompromiss beruht.",
+          "en": "This shows that German politics often rests not on one party's victory but on the ability to compromise."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1904-kurt-georg-kiesinger",
+        "year": 1904,
+        "title": {
+          "ru": "Курт Георг Кизингер",
+          "de": "Kurt Georg Kiesinger",
+          "en": "Kurt Georg Kiesinger"
+        },
+        "description": {
+          "ru": "Кизингер до канцлерства был министром-президентом Баден-Вюртемберга. Его биография также вызывала споры из-за членства в НСДАП в годы нацизма.",
+          "de": "Kiesinger war vor seiner Kanzlerschaft Ministerpraesident von Baden-Wuerttemberg. Seine Biografie war auch wegen seiner NSDAP-Mitgliedschaft in der NS-Zeit umstritten.",
+          "en": "Before becoming chancellor, Kiesinger was minister-president of Baden-Wuerttemberg. His biography was also controversial because of his Nazi Party membership during the Nazi era."
+        },
+        "importance": {
+          "ru": "Его канцлерство напоминает, что послевоенная ФРГ долго спорила о прошлом своих политиков.",
+          "de": "Seine Kanzlerschaft erinnert daran, dass die Nachkriegs-Bundesrepublik lange ueber die Vergangenheit ihrer Politiker stritt.",
+          "en": "His chancellorship is a reminder that postwar West Germany long argued about the past of its politicians."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1966-brandt-vice-chancellor",
+        "year": 1966,
+        "title": {
+          "ru": "Брандт вошёл в правительство",
+          "de": "Brandt kommt in die Regierung",
+          "en": "Brandt enters government"
+        },
+        "description": {
+          "ru": "В этой коалиции Вилли Брандт стал вице-канцлером и министром иностранных дел. Через три года он сам стал федеральным канцлером.",
+          "de": "In dieser Koalition wurde Willy Brandt Vizekanzler und Aussenminister. Drei Jahre spaeter wurde er selbst Bundeskanzler.",
+          "en": "In this coalition, Willy Brandt became vice chancellor and foreign minister. Three years later, he became federal chancellor himself."
+        },
+        "importance": {
+          "ru": "Иногда временный компромисс становится ступенькой к большой политической смене.",
+          "de": "Manchmal wird ein vorlaeufiger Kompromiss zur Stufe fuer einen grossen politischen Wechsel.",
+          "en": "Sometimes a temporary compromise becomes a step toward a major political change."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Кабинет Кизингера работал до 1969 года, когда его сменила коалиция СДПГ и СвДП во главе с Вилли Брандтом.",
+    "de": "Das Kabinett Kiesinger amtierte bis 1969, als es von der SPD-FDP-Koalition unter Willy Brandt abgeloest wurde.",
+    "en": "The Kiesinger cabinet served until 1969, when it was replaced by the SPD-FDP coalition under Willy Brandt."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: Kurt Georg Kiesinger wird Bundeskanzler",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1966-12-01-kiesinger-481690"
+    },
+    {
+      "label": "Britannica: Kurt Georg Kiesinger",
+      "url": "https://www.britannica.com/biography/Kurt-Georg-Kiesinger"
+    },
+    {
+      "label": "German History in Documents and Images: Germany's first Grand Coalition Government",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/ghdi%3Aimage-5035.pdf"
+    }
+  ]
+}

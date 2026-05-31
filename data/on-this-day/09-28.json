@@ -1,0 +1,86 @@
+{
+  "date": "09-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1951-federal-constitutional-court-opens",
+    "year": 1951,
+    "title": {
+      "ru": "Открылся Федеральный конституционный суд",
+      "de": "Das Bundesverfassungsgericht wird eroeffnet",
+      "en": "The Federal Constitutional Court opens"
+    },
+    "description": {
+      "ru": "28 сентября 1951 года в Карлсруэ официально начал работу Федеральный конституционный суд. Он стал главным судом ФРГ по вопросам Основного закона.",
+      "de": "Am 28. September 1951 nahm das Bundesverfassungsgericht in Karlsruhe offiziell seine Arbeit auf. Es wurde zum obersten Gericht der Bundesrepublik fuer Fragen des Grundgesetzes.",
+      "en": "On 28 September 1951, the Federal Constitutional Court officially began its work in Karlsruhe. It became West Germany's highest court for questions concerning the Basic Law."
+    },
+    "importance": {
+      "ru": "Суд стал одним из ключевых институтов послевоенной немецкой демократии.",
+      "de": "Das Gericht wurde zu einer der Schluesselinstitutionen der deutschen Nachkriegsdemokratie.",
+      "en": "The court became one of the key institutions of postwar German democracy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "karlsruhe-constitutional-city",
+        "year": 1951,
+        "title": {
+          "ru": "Карлсруэ как город права",
+          "de": "Karlsruhe als Stadt des Rechts",
+          "en": "Karlsruhe as a city of law"
+        },
+        "description": {
+          "ru": "Место суда выбрали не в Бонне и не в Берлине, а в Карлсруэ. Это помогло отделить конституционный контроль от ежедневной партийной политики.",
+          "de": "Der Sitz des Gerichts wurde nicht Bonn oder Berlin, sondern Karlsruhe. Das half, die Verfassungskontrolle von der taeglichen Parteipolitik zu trennen.",
+          "en": "The court's seat was not Bonn or Berlin, but Karlsruhe. This helped separate constitutional review from day-to-day party politics."
+        },
+        "importance": {
+          "ru": "На карте ФРГ появился особый центр защиты конституции.",
+          "de": "Auf der Karte der Bundesrepublik entstand ein besonderer Ort des Verfassungsschutzes.",
+          "en": "A special center for protecting the constitution appeared on the map of the Federal Republic."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "red-robes-karlsruhe",
+        "year": 1951,
+        "title": {
+          "ru": "Красные мантии",
+          "de": "Rote Roben",
+          "en": "Red robes"
+        },
+        "description": {
+          "ru": "Судьи Федерального конституционного суда известны своими красными мантиями. Для многих немцев этот образ стал визуальным символом высшего судебного контроля.",
+          "de": "Die Richterinnen und Richter des Bundesverfassungsgerichts sind fuer ihre roten Roben bekannt. Fuer viele Deutsche wurde dieses Bild zum visuellen Symbol hoechster richterlicher Kontrolle.",
+          "en": "The judges of the Federal Constitutional Court are known for their red robes. For many Germans, this image became a visual symbol of the highest judicial review."
+        },
+        "importance": {
+          "ru": "Иногда институт запоминается не только решениями, но и сильным визуальным образом.",
+          "de": "Manchmal bleibt eine Institution nicht nur durch Entscheidungen, sondern auch durch ein starkes Bild im Gedaechtnis.",
+          "en": "Sometimes an institution is remembered not only through decisions but also through a strong visual image."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Федеральный конституционный суд может отменять законы, если они противоречат Основному закону.",
+    "de": "Das Bundesverfassungsgericht kann Gesetze aufheben, wenn sie dem Grundgesetz widersprechen.",
+    "en": "The Federal Constitutional Court can strike down laws if they contradict the Basic Law."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Opening of the Federal Constitutional Court",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1951-09-28-opening-of-the-federal-constitutional-court/"
+    },
+    {
+      "label": "Library of Congress: 70 Year Anniversary of the German Federal Constitutional Court",
+      "url": "https://blogs.loc.gov/law/2021/09/70-year-anniversary-of-the-german-federal-constitutional-court/"
+    }
+  ]
+}

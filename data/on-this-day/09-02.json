@@ -1,0 +1,90 @@
+{
+  "date": "09-02",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1870-sedan-day",
+    "year": 1870,
+    "title": {
+      "ru": "Капитуляция Наполеона III при Седане",
+      "de": "Kapitulation Napoleons III. bei Sedan",
+      "en": "Napoleon III surrenders at Sedan"
+    },
+    "description": {
+      "ru": "2 сентября 1870 года после поражения при Седане французский император Наполеон III сдался прусскому королю Вильгельму I. Победа стала важным шагом на пути к созданию Германской империи.",
+      "de": "Am 2. September 1870 kapitulierte der franzoesische Kaiser Napoleon III. nach der Niederlage bei Sedan vor dem preussischen Koenig Wilhelm I. Der Sieg wurde zu einem wichtigen Schritt auf dem Weg zum Deutschen Kaiserreich.",
+      "en": "On 2 September 1870, after the defeat at Sedan, French emperor Napoleon III surrendered to Prussian king Wilhelm I. The victory became an important step toward the creation of the German Empire."
+    },
+    "importance": {
+      "ru": "Дата стала символом прусско-германской победы и долго использовалась для укрепления имперского национального мифа.",
+      "de": "Das Datum wurde zum Symbol des preussisch-deutschen Sieges und wurde lange genutzt, um den nationalen Mythos des Kaiserreichs zu staerken.",
+      "en": "The date became a symbol of Prussian-German victory and was long used to strengthen the national myth of the empire."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "sedantag-empire-memory",
+        "year": 1871,
+        "title": {
+          "ru": "Sedantag в Германской империи",
+          "de": "Sedantag im Deutschen Kaiserreich",
+          "en": "Sedan Day in the German Empire"
+        },
+        "description": {
+          "ru": "После объединения Германии 2 сентября отмечали как день памяти победы при Седане. В городах проходили речи, шествия и школьные праздники.",
+          "de": "Nach der deutschen Einigung wurde der 2. September als Erinnerung an den Sieg bei Sedan begangen. In den Staedten gab es Reden, Umzuege und Schulfeiern.",
+          "en": "After German unification, 2 September was observed as a commemoration of the victory at Sedan. Cities held speeches, parades and school celebrations."
+        },
+        "importance": {
+          "ru": "Так военная победа превратилась в ежегодный ритуал молодой империи.",
+          "de": "So wurde aus einem militaerischen Sieg ein jaehrliches Ritual des jungen Kaiserreichs.",
+          "en": "A military victory thus became an annual ritual of the young empire."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "sedan-day-not-modern-holiday",
+        "year": 1918,
+        "title": {
+          "ru": "Праздник исчез вместе с империей",
+          "de": "Der Feiertag verschwand mit dem Kaiserreich",
+          "en": "The holiday disappeared with the empire"
+        },
+        "description": {
+          "ru": "После 1918 года Sedantag потерял значение: новая республика не хотела строить общую память вокруг имперского военного триумфа. Сегодня эта дата важна скорее как пример политической культуры XIX века.",
+          "de": "Nach 1918 verlor der Sedantag seine Bedeutung: Die neue Republik wollte ihre Erinnerung nicht um einen kaiserlichen Militaertriumph bauen. Heute ist das Datum eher ein Beispiel politischer Kultur des 19. Jahrhunderts.",
+          "en": "After 1918, Sedan Day lost its importance: the new republic did not want to build public memory around an imperial military triumph. Today the date is more an example of 19th-century political culture."
+        },
+        "importance": {
+          "ru": "Иногда исчезнувший праздник рассказывает о стране не меньше, чем действующий.",
+          "de": "Manchmal erzaehlt ein verschwundener Feiertag ebenso viel ueber ein Land wie ein bestehender.",
+          "en": "Sometimes a vanished holiday tells as much about a country as a current one."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Во Франции поражение при Седане привело к падению Второй империи и провозглашению республики 4 сентября 1870 года.",
+    "de": "In Frankreich fuehrte die Niederlage von Sedan zum Sturz des Zweiten Kaiserreichs und zur Ausrufung der Republik am 4. September 1870.",
+    "en": "In France, the defeat at Sedan led to the fall of the Second Empire and the proclamation of a republic on 4 September 1870."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Battle of Sedan",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1870-09-02-battle-of-sedan/"
+    },
+    {
+      "label": "Britannica: Battle of Sedan",
+      "url": "https://www.britannica.com/event/Battle-of-Sedan"
+    },
+    {
+      "label": "Hessische Landeszentrale: Sedantag",
+      "url": "https://hlz.hessen.de/themen/detailansicht/2-september-1871-150-jahrestag-sedanstag/"
+    }
+  ]
+}
