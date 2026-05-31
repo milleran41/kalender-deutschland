@@ -1,0 +1,90 @@
+{
+  "date": "08-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1934-hitler-referendum-head-of-state",
+    "year": 1934,
+    "title": {
+      "ru": "Плебисцит закрепил власть Гитлера",
+      "de": "Eine Volksabstimmung bestaetigt Hitlers Macht",
+      "en": "A referendum confirms Hitler's power"
+    },
+    "description": {
+      "ru": "19 августа 1934 года в нацистской Германии прошёл плебисцит о соединении должностей рейхспрезидента и рейхсканцлера в руках Адольфа Гитлера. Голосование должно было придать видимость народного одобрения уже установленной диктатуре.",
+      "de": "Am 19. August 1934 fand im nationalsozialistischen Deutschland eine Volksabstimmung ueber die Vereinigung der Aemter von Reichspraesident und Reichskanzler in der Hand Adolf Hitlers statt. Die Abstimmung sollte der bereits errichteten Diktatur den Anschein volkstuemlicher Zustimmung geben.",
+      "en": "On 19 August 1934, Nazi Germany held a referendum on merging the offices of Reich President and Reich Chancellor in Adolf Hitler's hands. The vote was meant to give the already established dictatorship the appearance of popular approval."
+    },
+    "importance": {
+      "ru": "Дата показывает, как диктатура может использовать формальные голосования для легитимации власти без настоящей свободы выбора.",
+      "de": "Das Datum zeigt, wie eine Diktatur formale Abstimmungen nutzen kann, um Macht ohne echte Wahlfreiheit zu legitimieren.",
+      "en": "The date shows how a dictatorship can use formal votes to legitimize power without real freedom of choice."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "end-of-weimar-constitutional-limits",
+        "year": 1934,
+        "title": {
+          "ru": "Последние ограничения исчезли",
+          "de": "Die letzten Grenzen verschwinden",
+          "en": "The last limits disappear"
+        },
+        "description": {
+          "ru": "После смерти президента Пауля фон Гинденбурга нацисты объединили высшую государственную должность с постом канцлера. Так исчез даже формальный противовес власти Гитлера.",
+          "de": "Nach dem Tod von Praesident Paul von Hindenburg vereinigten die Nationalsozialisten das hoechste Staatsamt mit dem Kanzleramt. Damit verschwand selbst ein formaler Gegenpol zu Hitlers Macht.",
+          "en": "After President Paul von Hindenburg's death, the Nazis merged the highest state office with the chancellorship. Even a formal counterweight to Hitler's power disappeared."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему уничтожение демократии было не одним событием, а цепочкой решений.",
+          "de": "Das hilft zu verstehen, dass die Zerstoerung der Demokratie kein einzelnes Ereignis war, sondern eine Kette von Entscheidungen.",
+          "en": "It helps explain why the destruction of democracy was not one event, but a chain of decisions."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "vote-without-free-choice",
+        "year": 1934,
+        "title": {
+          "ru": "Голосование без свободы",
+          "de": "Abstimmung ohne Freiheit",
+          "en": "Voting without freedom"
+        },
+        "description": {
+          "ru": "В бюллетене был вопрос, но страна уже жила под давлением террора, пропаганды и контроля. Поэтому высокий процент «за» нельзя понимать как обычный демократический результат.",
+          "de": "Auf dem Stimmzettel stand eine Frage, doch das Land lebte bereits unter Terror, Propaganda und Kontrolle. Deshalb kann der hohe Ja-Anteil nicht wie ein normales demokratisches Ergebnis verstanden werden.",
+          "en": "The ballot contained a question, but the country was already under terror, propaganda and control. The high 'yes' vote therefore cannot be understood as a normal democratic result."
+        },
+        "importance": {
+          "ru": "Это важное предупреждение: не всякое голосование означает демократию.",
+          "de": "Das ist eine wichtige Warnung: Nicht jede Abstimmung bedeutet Demokratie.",
+          "en": "It is an important warning: not every vote means democracy."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После этого Гитлер официально использовал титул «фюрер и рейхсканцлер».",
+    "de": "Danach fuehrte Hitler offiziell den Titel Fuehrer und Reichskanzler.",
+    "en": "After this, Hitler officially used the title 'Führer and Reich Chancellor'."
+  },
+  "sources": [
+    {
+      "label": "USHMM: Referendum confirms Hitler's new title and powers",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/referendum-confirms-hitlers-new-title-and-powers"
+    },
+    {
+      "label": "History.com: Adolf Hitler cements his position of supreme power",
+      "url": "https://www.history.com/this-day-in-history/august-19/adolf-hitler-becomes-president-of-germany"
+    },
+    {
+      "label": "Deutschlandmuseum: Fuehrer und Reichskanzler Hitler",
+      "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1934-08-01-fuehrer-und-reichskanzler-hitler/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "06-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1948-deutsche-mark-becomes-western-currency",
+    "year": 1948,
+    "title": {
+      "ru": "Deutsche Mark стала деньгами западных зон",
+      "de": "Die Deutsche Mark wird Geld der Westzonen",
+      "en": "The Deutsche Mark becomes the currency of the western zones"
+    },
+    "description": {
+      "ru": "21 июня 1948 года новая Deutsche Mark стала действующей валютой в западных оккупационных зонах Германии. Валютная реформа заменила обесцененную рейхсмарку и резко изменила повседневную экономику.",
+      "de": "Am 21. Juni 1948 wurde die neue Deutsche Mark zur gueltigen Waehrung in den westlichen Besatzungszonen Deutschlands. Die Waehrungsreform ersetzte die entwertete Reichsmark und veraenderte die Alltagswirtschaft schlagartig.",
+      "en": "On 21 June 1948, the new Deutsche Mark became the valid currency in Germany's western occupation zones. The currency reform replaced the devalued Reichsmark and sharply changed everyday economic life."
+    },
+    "importance": {
+      "ru": "Реформа стала важной основой западногерманского экономического восстановления и будущего «экономического чуда».",
+      "de": "Die Reform wurde zu einer wichtigen Grundlage des westdeutschen Wiederaufbaus und des spaeteren Wirtschaftswunders.",
+      "en": "The reform became an important basis for West Germany's economic recovery and the later 'economic miracle'."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "postwar-western-zones-currency",
+        "year": 1948,
+        "title": {
+          "ru": "Деньги после войны",
+          "de": "Geld nach dem Krieg",
+          "en": "Money after the war"
+        },
+        "description": {
+          "ru": "После войны в Германии процветал чёрный рынок, а сигареты часто служили заменой денег. Новая валюта вернула смысл ценам, зарплатам и магазинам.",
+          "de": "Nach dem Krieg bluehte in Deutschland der Schwarzmarkt, und Zigaretten dienten oft als Ersatzgeld. Die neue Waehrung gab Preisen, Loehnen und Geschaeften wieder Sinn.",
+          "en": "After the war, the black market flourished in Germany, and cigarettes often served as substitute money. The new currency gave meaning back to prices, wages and shops."
+        },
+        "importance": {
+          "ru": "Так видно, что восстановление страны начинается не только с зданий, но и с доверия к деньгам.",
+          "de": "So wird sichtbar, dass der Wiederaufbau eines Landes nicht nur mit Gebaeuden beginnt, sondern auch mit Vertrauen in Geld.",
+          "en": "It shows that rebuilding a country begins not only with buildings, but also with trust in money."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "shop-windows-filled-again",
+        "year": 1948,
+        "title": {
+          "ru": "Товары внезапно появились",
+          "de": "Waren tauchten ploetzlich auf",
+          "en": "Goods suddenly appeared"
+        },
+        "description": {
+          "ru": "После реформы многие товары, которые раньше прятали или продавали на чёрном рынке, снова появились в витринах. Для людей это выглядело почти как чудо, хотя за ним стояли новые правила и ожидания.",
+          "de": "Nach der Reform erschienen viele Waren, die zuvor versteckt oder auf dem Schwarzmarkt verkauft wurden, wieder in Schaufenstern. Fuer viele Menschen wirkte das fast wie ein Wunder, auch wenn dahinter neue Regeln und Erwartungen standen.",
+          "en": "After the reform, many goods previously hidden or sold on the black market reappeared in shop windows. To many people it seemed almost miraculous, though new rules and expectations stood behind it."
+        },
+        "importance": {
+          "ru": "Это бытовая деталь, которая помогает почувствовать перемены лучше сухих экономических терминов.",
+          "de": "Dieses Alltagsdetail macht die Veraenderung greifbarer als trockene Wirtschaftsworte.",
+          "en": "This everyday detail makes the change easier to grasp than dry economic terms."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Каждый житель западных зон сначала получил ограниченную сумму новых денег как «стартовый капитал».",
+    "de": "Jeder Einwohner der Westzonen erhielt zunaechst einen begrenzten Betrag neuen Geldes als Startbetrag.",
+    "en": "Each resident of the western zones initially received a limited amount of new money as a starting sum."
+  },
+  "sources": [
+    {
+      "label": "Deutsche Bundesbank: Waehrungsreform 1948",
+      "url": "https://www.bundesbank.de/de/aufgaben/themen/waehrungsreform-1948-614040"
+    },
+    {
+      "label": "Deutsche Bundesbank: The economic and currency reform of 1948",
+      "url": "https://www.bundesbank.de/en/press/contributions/the-economic-and-currency-reform-of-1948-the-basis-for-stable-money-915302"
+    },
+    {
+      "label": "Deutschlandmuseum: The D-Mark is here",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1948-06-21-the-d-mark-is-here/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "04-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1521-luther-before-diet-of-worms",
+    "year": 1521,
+    "title": {
+      "ru": "Лютер предстал перед рейхстагом в Вормсе",
+      "de": "Luther erscheint vor dem Reichstag zu Worms",
+      "en": "Luther appears before the Diet of Worms"
+    },
+    "description": {
+      "ru": "17 апреля 1521 года Мартин Лютер впервые предстал перед императором Карлом V и рейхстагом в Вормсе. От него требовали отказаться от своих сочинений, но он попросил время на размышление.",
+      "de": "Am 17. April 1521 erschien Martin Luther erstmals vor Kaiser Karl V. und dem Reichstag zu Worms. Man forderte ihn auf, seine Schriften zu widerrufen, doch er bat um Bedenkzeit.",
+      "en": "On 17 April 1521, Martin Luther first appeared before Emperor Charles V and the Diet of Worms. He was asked to recant his writings, but requested time to reflect."
+    },
+    "importance": {
+      "ru": "Это одна из ключевых сцен Реформации, после которой религиозная и политическая карта Германии начала меняться особенно быстро.",
+      "de": "Dies ist eine der Schluesselszenen der Reformation, nach der sich die religioese und politische Karte Deutschlands besonders schnell zu veraendern begann.",
+      "en": "It is one of the key scenes of the Reformation, after which Germany's religious and political map began to change especially quickly."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "reformation-at-imperial-diet",
+        "year": 1521,
+        "title": {
+          "ru": "Реформация перед императором",
+          "de": "Reformation vor dem Kaiser",
+          "en": "Reformation before the emperor"
+        },
+        "description": {
+          "ru": "Вормс был не университетским спором, а заседанием имперской политики. Поэтому конфликт вокруг богословских текстов сразу стал вопросом власти, закона и единства Священной Римской империи.",
+          "de": "Worms war keine Universitaetsdebatte, sondern eine Versammlung der Reichspolitik. Deshalb wurde der Streit um theologische Texte sofort zu einer Frage von Macht, Recht und Einheit des Heiligen Roemischen Reiches.",
+          "en": "Worms was not a university debate, but an assembly of imperial politics. The dispute over theological writings therefore immediately became a question of power, law and the unity of the Holy Roman Empire."
+        },
+        "importance": {
+          "ru": "Дата показывает, как религиозная идея может стать политическим событием европейского масштаба.",
+          "de": "Das Datum zeigt, wie eine religioese Idee zu einem politischen Ereignis von europaeischem Rang werden kann.",
+          "en": "The date shows how a religious idea can become a political event of European scale."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "printing-and-luther",
+        "year": 1521,
+        "title": {
+          "ru": "Печатные тексты как сила",
+          "de": "Gedruckte Texte als Kraft",
+          "en": "Printed texts as power"
+        },
+        "description": {
+          "ru": "Сочинения Лютера быстро распространялись благодаря печати. Без типографий спор в Вормсе вряд ли стал бы таким заметным для городов, князей и простых читателей.",
+          "de": "Luthers Schriften verbreiteten sich durch den Buchdruck schnell. Ohne Druckereien waere der Streit in Worms fuer Staedte, Fuersten und einfache Leser kaum so sichtbar geworden.",
+          "en": "Luther's writings spread quickly thanks to printing. Without print shops, the dispute at Worms would hardly have become so visible to cities, princes and ordinary readers."
+        },
+        "importance": {
+          "ru": "Это ранний пример того, как медиа меняют ход истории.",
+          "de": "Das ist ein fruehes Beispiel dafuer, wie Medien den Verlauf der Geschichte veraendern.",
+          "en": "It is an early example of media changing the course of history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Слушания Лютера в Вормсе продолжились 18 апреля 1521 года.",
+    "de": "Luthers Verhoer in Worms wurde am 18. April 1521 fortgesetzt.",
+    "en": "Luther's hearing in Worms continued on 18 April 1521."
+  },
+  "sources": [
+    {
+      "label": "Worms: The 1521 Diet of Worms",
+      "url": "https://www.worms.de/en/web/luther/Worms_1521/Reichstag/"
+    },
+    {
+      "label": "Britannica: Diet of Worms",
+      "url": "https://www.britannica.com/event/Diet-of-Worms-Germany-1521"
+    },
+    {
+      "label": "Luther.de: The Imperial Diet of Worms",
+      "url": "https://www.luther.de/en/worms.html"
+    }
+  ]
+}
