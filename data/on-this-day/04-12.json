@@ -1,0 +1,65 @@
+{
+  "date": "04-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1961-yuri-gagarin-spaceflight",
+    "year": 1961,
+    "title": {
+      "ru": "Юрий Гагарин стал первым человеком в космосе",
+      "de": "Juri Gagarin wird der erste Mensch im All",
+      "en": "Yuri Gagarin becomes the first human in space"
+    },
+    "description": {
+      "ru": "12 апреля 1961 года советский космонавт Юрий Гагарин совершил первый пилотируемый полёт в космос. В разделённой Германии это событие особенно сильно звучало в контексте холодной войны.",
+      "de": "Am 12. April 1961 unternahm der sowjetische Kosmonaut Juri Gagarin den ersten bemannten Raumflug. Im geteilten Deutschland hatte dieses Ereignis im Kontext des Kalten Krieges besondere Bedeutung.",
+      "en": "On 12 April 1961, Soviet cosmonaut Yuri Gagarin made the first human spaceflight. In divided Germany, the event had special meaning in the context of the Cold War."
+    },
+    "importance": {
+      "ru": "Дата связывает науку, пропаганду, медиа и соревнование систем между Востоком и Западом.",
+      "de": "Das Datum verbindet Wissenschaft, Propaganda, Medien und den Systemwettbewerb zwischen Ost und West.",
+      "en": "The date connects science, propaganda, media and the competition between East and West."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "space-race-divided-germany",
+        "year": 1961,
+        "title": {
+          "ru": "Космическая гонка и разделённая Германия",
+          "de": "Raumfahrtwettlauf und geteiltes Deutschland",
+          "en": "Space race and divided Germany"
+        },
+        "description": {
+          "ru": "Для ГДР успех Гагарина стал важным символом социалистической науки. В ФРГ это событие тоже внимательно обсуждали как часть глобальной технологической гонки.",
+          "de": "Fuer die DDR wurde Gagarins Erfolg zu einem wichtigen Symbol sozialistischer Wissenschaft. Auch in der Bundesrepublik wurde das Ereignis als Teil des globalen Technikwettlaufs aufmerksam verfolgt.",
+          "en": "For East Germany, Gagarin's success became an important symbol of socialist science. In West Germany too, the event was closely watched as part of the global technological race."
+        },
+        "importance": {
+          "ru": "Так одно космическое событие отражалось по-разному по обе стороны Берлинской стены.",
+          "de": "So spiegelte sich ein Weltraumereignis unterschiedlich auf beiden Seiten der Berliner Mauer.",
+          "en": "One space event was reflected differently on both sides of the Berlin Wall."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Полёт Гагарина длился 108 минут.",
+    "de": "Gagarins Flug dauerte 108 Minuten.",
+    "en": "Gagarin's flight lasted 108 minutes."
+  },
+  "sources": [
+    {
+      "label": "DLR: Yuri Gagarin, the first human in space",
+      "url": "https://www.dlr.de/de/aktuelles/nachrichten/2021/02/20210409_juri-gagarin-er-war-der-erste"
+    },
+    {
+      "label": "rbb: Gagarin's flight in 1961",
+      "url": "https://www.rbb-online.de/berlin-schicksalsjahre/themen/1961/juri-gagarins-flug-in-das-all.html"
+    }
+  ]
+}

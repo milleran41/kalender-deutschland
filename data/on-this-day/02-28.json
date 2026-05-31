@@ -1,0 +1,65 @@
+{
+  "date": "02-28",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-reichstag-fire-decree",
+    "year": 1933,
+    "title": {
+      "ru": "Издан указ после пожара Рейхстага",
+      "de": "Die Reichstagsbrandverordnung wird erlassen",
+      "en": "The Reichstag Fire Decree is issued"
+    },
+    "description": {
+      "ru": "28 февраля 1933 года, на следующий день после пожара Рейхстага, президент Гинденбург подписал чрезвычайный указ «О защите народа и государства». Он фактически отменял важные гражданские права.",
+      "de": "Am 28. Februar 1933, einen Tag nach dem Reichstagsbrand, unterzeichnete Praesident Hindenburg die Notverordnung zum Schutz von Volk und Staat. Sie setzte wichtige Grundrechte faktisch ausser Kraft.",
+      "en": "On 28 February 1933, the day after the Reichstag fire, President Hindenburg signed the emergency Decree for the Protection of People and State. It effectively suspended key civil rights."
+    },
+    "importance": {
+      "ru": "Это был решающий шаг на пути к нацистской диктатуре.",
+      "de": "Das war ein entscheidender Schritt auf dem Weg zur nationalsozialistischen Diktatur.",
+      "en": "It was a decisive step on the road to Nazi dictatorship."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "rights-suspended",
+        "year": 1933,
+        "title": {
+          "ru": "Права исчезают через чрезвычайный указ",
+          "de": "Rechte verschwinden durch Notverordnung",
+          "en": "Rights disappear through emergency decree"
+        },
+        "description": {
+          "ru": "Указ позволил массовые аресты политических противников и резко ограничил свободу слова, печати и собраний. Диктатура строилась не только насилием, но и юридическими инструментами.",
+          "de": "Die Verordnung ermoeglichte Massenverhaftungen politischer Gegner und schraenkte Rede-, Presse- und Versammlungsfreiheit stark ein. Die Diktatur entstand nicht nur durch Gewalt, sondern auch durch juristische Mittel.",
+          "en": "The decree enabled mass arrests of political opponents and sharply restricted freedom of speech, press and assembly. Dictatorship was built not only through violence but also through legal tools."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, почему защита основных прав стала центральной идеей послевоенного Основного закона.",
+          "de": "Das Datum hilft zu verstehen, warum der Schutz der Grundrechte nach 1945 zum Kern des Grundgesetzes wurde.",
+          "en": "The date helps explain why protecting basic rights became central to the postwar Basic Law."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Указ оставался формальной основой нацистских репрессий до конца режима.",
+    "de": "Die Verordnung blieb bis zum Ende des Regimes eine formale Grundlage nationalsozialistischer Repression.",
+    "en": "The decree remained a formal basis for Nazi repression until the regime's end."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Reichstag fire",
+      "url": "https://www.britannica.com/event/Reichstag-fire"
+    },
+    {
+      "label": "Deutschlandmuseum: Reichstag Fire Decree",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1933-02-28-on-the-road-to-dictatorship/"
+    }
+  ]
+}

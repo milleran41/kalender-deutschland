@@ -1,0 +1,65 @@
+{
+  "date": "01-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-first-women-vote-national-election",
+    "year": 1919,
+    "title": {
+      "ru": "Женщины впервые голосовали на общегерманских выборах",
+      "de": "Frauen waehlen erstmals bei einer reichsweiten Wahl",
+      "en": "Women vote for the first time in a nationwide German election"
+    },
+    "description": {
+      "ru": "19 января 1919 года прошли выборы в Веймарское национальное собрание. Это были первые общегерманские выборы, на которых женщины могли голосовать и быть избранными.",
+      "de": "Am 19. Januar 1919 fanden die Wahlen zur Weimarer Nationalversammlung statt. Es waren die ersten reichsweiten Wahlen, bei denen Frauen waehlen und gewaehlt werden konnten.",
+      "en": "On 19 January 1919, elections to the Weimar National Assembly were held. They were the first nationwide German elections in which women could vote and stand for office."
+    },
+    "importance": {
+      "ru": "Дата показывает, как революция 1918 года изменила политические права миллионов людей.",
+      "de": "Das Datum zeigt, wie die Revolution von 1918 die politischen Rechte von Millionen Menschen veraenderte.",
+      "en": "The date shows how the 1918 revolution changed the political rights of millions of people."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "women-enter-national-assembly",
+        "year": 1919,
+        "title": {
+          "ru": "Женщины вошли в парламентскую политику",
+          "de": "Frauen treten in die parlamentarische Politik ein",
+          "en": "Women enter parliamentary politics"
+        },
+        "description": {
+          "ru": "После этих выборов женщины впервые получили места в общегерманском парламентском собрании. Это не решило вопрос равенства сразу, но стало огромным шагом вперёд.",
+          "de": "Nach diesen Wahlen erhielten Frauen erstmals Sitze in einer reichsweiten parlamentarischen Versammlung. Gleichberechtigung war damit nicht sofort erreicht, aber ein grosser Schritt getan.",
+          "en": "After these elections, women held seats in a nationwide German parliamentary assembly for the first time. Equality was not achieved at once, but it was a major step forward."
+        },
+        "importance": {
+          "ru": "Это хорошо дополняет дату 19 февраля, когда Мари Юхач впервые выступила в парламенте.",
+          "de": "Das ergaenzt gut den 19. Februar, als Marie Juchacz erstmals im Parlament sprach.",
+          "en": "It pairs well with 19 February, when Marie Juchacz first spoke in parliament."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На этих выборах голосовать могли граждане с 20 лет, что также расширило электорат.",
+    "de": "Bei dieser Wahl durften Buerger ab 20 Jahren waehlen, was die Waehlerbasis ebenfalls erweiterte.",
+    "en": "Citizens aged 20 and above could vote in this election, which also expanded the electorate."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Frauenwahlrecht",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/frauenwahlrecht/"
+    },
+    {
+      "label": "Weimar Republic timeline: January 1919",
+      "url": "https://www.weimarer-republik.net/en/weimar-gateway/timeline-of-the-weimar-republic/1919/january-1919/"
+    }
+  ]
+}
