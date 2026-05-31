@@ -1,0 +1,65 @@
+{
+  "date": "08-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1936-jesse-owens-fourth-gold-berlin",
+    "year": 1936,
+    "title": {
+      "ru": "Джесси Оуэнс выиграл четвёртое золото в Берлине",
+      "de": "Jesse Owens gewinnt sein viertes Gold in Berlin",
+      "en": "Jesse Owens wins his fourth gold in Berlin"
+    },
+    "description": {
+      "ru": "9 августа 1936 года на Олимпийских играх в Берлине Джесси Оуэнс выиграл четвёртую золотую медаль, в эстафете 4 x 100 метров. Его успех стал сильным ударом по нацистской расовой пропаганде.",
+      "de": "Am 9. August 1936 gewann Jesse Owens bei den Olympischen Spielen in Berlin seine vierte Goldmedaille, in der 4-mal-100-Meter-Staffel. Sein Erfolg war ein deutlicher Schlag gegen die NS-Rassenpropaganda.",
+      "en": "On 9 August 1936, at the Berlin Olympic Games, Jesse Owens won his fourth gold medal in the 4 x 100 metres relay. His success was a powerful blow to Nazi racial propaganda."
+    },
+    "importance": {
+      "ru": "Олимпиада 1936 года была задумана как витрина режима, но спортивные результаты разрушали его мифы.",
+      "de": "Die Olympischen Spiele 1936 waren als Schaufenster des Regimes gedacht, doch sportliche Ergebnisse zerstoerten seine Mythen.",
+      "en": "The 1936 Olympics were intended as a showcase for the regime, but sporting results undermined its myths."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "owens-berlin-symbol",
+        "year": 1936,
+        "title": {
+          "ru": "Спорт против пропаганды",
+          "de": "Sport gegen Propaganda",
+          "en": "Sport against propaganda"
+        },
+        "description": {
+          "ru": "Оуэнс победил в четырёх дисциплинах: 100 метров, 200 метров, прыжок в длину и эстафета. Поэтому Берлинская Олимпиада стала не только спортивным, но и политическим символом.",
+          "de": "Owens siegte in vier Disziplinen: 100 Meter, 200 Meter, Weitsprung und Staffel. Deshalb wurde die Berliner Olympiade nicht nur ein sportliches, sondern auch ein politisches Symbol.",
+          "en": "Owens won four events: 100 metres, 200 metres, long jump and relay. The Berlin Olympics therefore became not only a sporting event but also a political symbol."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему спорт иногда говорит о времени больше, чем официальные речи.",
+          "de": "Das hilft zu verstehen, warum Sport manchmal mehr ueber eine Zeit sagt als offizielle Reden.",
+          "en": "It helps explain why sport can sometimes say more about an era than official speeches."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Немецкий прыгун в длину Лутц Лонг публично поддержал Оуэнса во время соревнований, и эта история стала символом спортивного уважения.",
+    "de": "Der deutsche Weitspringer Luz Long unterstuetzte Owens waehrend des Wettbewerbs oeffentlich; die Geschichte wurde zum Symbol sportlichen Respekts.",
+    "en": "German long jumper Luz Long publicly supported Owens during the competition, and the story became a symbol of sporting respect."
+  },
+  "sources": [
+    {
+      "label": "TIME: Jesse Owens and the 1936 Olympics",
+      "url": "https://time.com/3971065/photos-1936-summer-olympics-jesse-owens/"
+    },
+    {
+      "label": "FEI: Olympic Games Berlin 1936",
+      "url": "https://www.fei.org/history/olympic-games/1936-berlin-ger"
+    }
+  ]
+}

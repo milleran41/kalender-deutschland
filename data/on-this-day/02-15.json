@@ -1,0 +1,86 @@
+{
+  "date": "02-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1902-first-berlin-u-bahn-ride",
+    "year": 1902,
+    "title": {
+      "ru": "По Берлину впервые прошёл поезд U-Bahn",
+      "de": "Der erste Berliner U-Bahn-Zug faehrt",
+      "en": "The first Berlin U-Bahn train runs"
+    },
+    "description": {
+      "ru": "15 февраля 1902 года состоялась первая поездка по новой берлинской электрической городской железной дороге. Это стало началом истории U-Bahn, без которой сегодня трудно представить Берлин.",
+      "de": "Am 15. Februar 1902 fand die erste Fahrt auf der neuen elektrischen Stadtschnellbahn Berlins statt. Damit begann die Geschichte der U-Bahn, ohne die Berlin heute kaum vorstellbar ist.",
+      "en": "On 15 February 1902, the first ride took place on Berlin's new electric urban railway. It began the history of the U-Bahn, without which Berlin is hard to imagine today."
+    },
+    "importance": {
+      "ru": "Дата показывает рост большого города и то, как транспорт меняет повседневную жизнь.",
+      "de": "Das Datum zeigt das Wachstum der Grossstadt und wie Verkehr den Alltag veraendert.",
+      "en": "The date shows the growth of the metropolis and how transport changes everyday life."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "berlin-modern-transport",
+        "year": 1902,
+        "title": {
+          "ru": "Современный город на рельсах",
+          "de": "Eine moderne Stadt auf Schienen",
+          "en": "A modern city on rails"
+        },
+        "description": {
+          "ru": "Первые линии частично шли как надземная железная дорога, но быстро стали частью идеи современного городского транспорта. Поезда помогали соединять районы растущей столицы.",
+          "de": "Die ersten Strecken verliefen teilweise als Hochbahn, wurden aber schnell Teil der Idee eines modernen Nahverkehrs. Die Zuege verbanden die Viertel der wachsenden Hauptstadt.",
+          "en": "The first sections partly ran as elevated railway, but quickly became part of the idea of modern urban transport. The trains connected the districts of the growing capital."
+        },
+        "importance": {
+          "ru": "Это история не только техники, но и городской привычки: как люди начинают иначе жить и перемещаться.",
+          "de": "Das ist nicht nur Technikgeschichte, sondern auch Stadtalltag: Menschen leben und bewegen sich anders.",
+          "en": "It is not only technological history, but also urban everyday life: people begin to live and move differently."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "underground-that-started-above-ground",
+        "year": 1902,
+        "title": {
+          "ru": "Метро, которое начиналось сверху",
+          "de": "Eine U-Bahn, die oben begann",
+          "en": "An underground that began above ground"
+        },
+        "description": {
+          "ru": "Забавно, что ранняя берлинская U-Bahn была во многом Hochbahn, то есть надземной дорогой. Название «подземка» не всегда буквально описывает первые маршруты.",
+          "de": "Kurios ist, dass die fruehe Berliner U-Bahn zu grossen Teilen eine Hochbahn war. Der Name Untergrundbahn beschreibt die ersten Strecken also nicht immer woertlich.",
+          "en": "Curiously, the early Berlin U-Bahn was largely an elevated railway. The name 'underground' did not always literally describe the first routes."
+        },
+        "importance": {
+          "ru": "Такие детали делают историю города живой и немного неожиданной.",
+          "de": "Solche Details machen Stadtgeschichte lebendig und etwas unerwartet.",
+          "en": "Details like this make urban history lively and a little unexpected."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Берлин стал седьмым городом мира с метро такого типа.",
+    "de": "Berlin wurde die siebte Stadt der Welt mit einer U-Bahn dieser Art.",
+    "en": "Berlin became the seventh city in the world with an underground railway of this kind."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: First Berlin U-Bahn",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1902-02-15-a-new-era-in-german-public-transport/"
+    },
+    {
+      "label": "Berliner Unterwelten: Berlin U-Bahn history",
+      "url": "https://www.berliner-unterwelten.de/verein/forschungsthema-untergrund/netzwerke/die-berliner-u-bahn.html"
+    }
+  ]
+}

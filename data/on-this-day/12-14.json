@@ -1,0 +1,86 @@
+{
+  "date": "12-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-friedrich-karl-renounces-finnish-throne",
+    "year": 1918,
+    "title": {
+      "ru": "Немецкий принц отказался от финской короны",
+      "de": "Ein deutscher Prinz verzichtet auf die finnische Krone",
+      "en": "A German prince renounces the Finnish crown"
+    },
+    "description": {
+      "ru": "14 декабря 1918 года принц Фридрих Карл Гессенский отказался от финского престола. Его избрали королём Финляндии осенью 1918 года, но поражение Германии в Первой мировой войне сделало этот план невозможным.",
+      "de": "Am 14. Dezember 1918 verzichtete Prinz Friedrich Karl von Hessen auf den finnischen Thron. Er war im Herbst 1918 zum Koenig von Finnland gewaehlt worden, doch die Niederlage Deutschlands im Ersten Weltkrieg machte diesen Plan unmoeglich.",
+      "en": "On 14 December 1918, Prince Frederick Charles of Hesse renounced the Finnish throne. He had been elected king of Finland in autumn 1918, but Germany's defeat in the First World War made the plan impossible."
+    },
+    "importance": {
+      "ru": "Это необычный эпизод показывает, как далеко простиралось влияние Германской империи в конце войны и как быстро оно рухнуло.",
+      "de": "Diese ungewoehnliche Episode zeigt, wie weit der Einfluss des Deutschen Kaiserreichs am Kriegsende reichte und wie schnell er zusammenbrach.",
+      "en": "This unusual episode shows how far the German Empire's influence reached at the end of the war and how quickly it collapsed."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "king-who-never-ruled",
+        "year": 1918,
+        "title": {
+          "ru": "Король, который не правил",
+          "de": "Ein Koenig, der nie regierte",
+          "en": "A king who never ruled"
+        },
+        "description": {
+          "ru": "Фридрих Карл так и не приехал в Финляндию и не вступил на престол. История выглядит почти как исторический курьёз: корона была предложена, но государство быстро стало республикой.",
+          "de": "Friedrich Karl reiste nie nach Finnland und trat die Herrschaft nicht an. Die Geschichte wirkt fast kurios: Die Krone wurde angeboten, doch der Staat wurde bald Republik.",
+          "en": "Frederick Charles never travelled to Finland and never took the throne. The story is almost a historical curiosity: the crown was offered, but the state soon became a republic."
+        },
+        "importance": {
+          "ru": "Такой случай помогает увидеть, насколько нестабильной была Европа после 1918 года.",
+          "de": "Dieser Fall zeigt, wie instabil Europa nach 1918 war.",
+          "en": "This case helps show how unstable Europe was after 1918."
+        }
+      }
+    ],
+    "history": [
+      {
+        "id": "finland-germany-1918",
+        "year": 1918,
+        "title": {
+          "ru": "Финляндия между Германией и республикой",
+          "de": "Finnland zwischen Deutschland und Republik",
+          "en": "Finland between Germany and republic"
+        },
+        "description": {
+          "ru": "В 1918 году Финляндия искала форму новой государственности после независимости и гражданской войны. Ставка на немецкую монархическую связь быстро потеряла смысл после поражения Германии.",
+          "de": "1918 suchte Finnland nach Unabhaengigkeit und Buergerkrieg nach einer neuen Staatsform. Die Orientierung auf eine deutsche Monarchie verlor nach Deutschlands Niederlage rasch ihren Sinn.",
+          "en": "In 1918, after independence and civil war, Finland was seeking a new form of statehood. The turn toward a German monarchical link quickly lost meaning after Germany's defeat."
+        },
+        "importance": {
+          "ru": "Это маленькое событие хорошо показывает большую перестройку Европы после войны.",
+          "de": "Dieses kleine Ereignis zeigt gut den grossen Umbau Europas nach dem Krieg.",
+          "en": "This small event shows the larger reshaping of Europe after the war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фридрих Карл был родственником германского императора Вильгельма II.",
+    "de": "Friedrich Karl war mit dem deutschen Kaiser Wilhelm II. verwandt.",
+    "en": "Frederick Charles was related to German Emperor Wilhelm II."
+  },
+  "sources": [
+    {
+      "label": "Uppslagsverket Finland: Friedrich Karl",
+      "url": "https://www.uppslagsverket.fi/sv/view-170045-FriedrichKarl"
+    },
+    {
+      "label": "Kingdom of Finland overview",
+      "url": "https://www.almanachdegotha.org/id58.html"
+    }
+  ]
+}
