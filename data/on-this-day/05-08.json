@@ -1,0 +1,65 @@
+{
+  "date": "05-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-germany-surrenders",
+    "year": 1945,
+    "title": {
+      "ru": "Капитуляция нацистской Германии вступила в силу",
+      "de": "Die Kapitulation NS-Deutschlands tritt in Kraft",
+      "en": "Nazi Germany's surrender takes effect"
+    },
+    "description": {
+      "ru": "8 мая 1945 года вступила в силу безоговорочная капитуляция германских вооружённых сил. В Европе закончилась Вторая мировая война.",
+      "de": "Am 8. Mai 1945 trat die bedingungslose Kapitulation der deutschen Wehrmacht in Kraft. In Europa endete der Zweite Weltkrieg.",
+      "en": "On 8 May 1945, the unconditional surrender of the German armed forces took effect. The Second World War ended in Europe."
+    },
+    "importance": {
+      "ru": "В Германии эта дата стала днём памяти о конце войны, освобождении от нацизма и ответственности за преступления режима.",
+      "de": "In Deutschland wurde dieses Datum ein Tag der Erinnerung an Kriegsende, Befreiung vom Nationalsozialismus und Verantwortung fuer die Verbrechen des Regimes.",
+      "en": "In Germany, the date became a day of remembrance for the war's end, liberation from Nazism and responsibility for the regime's crimes."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1945-karlshorst-surrender",
+        "year": 1945,
+        "title": {
+          "ru": "Подписание в Берлине-Карлсхорсте",
+          "de": "Unterzeichnung in Berlin-Karlshorst",
+          "en": "Signing in Berlin-Karlshorst"
+        },
+        "description": {
+          "ru": "Окончательный акт капитуляции был подписан в Берлине-Карлсхорсте поздно вечером 8 мая. По московскому времени это уже было 9 мая.",
+          "de": "Die endgueltige Kapitulationsurkunde wurde am spaeten Abend des 8. Mai in Berlin-Karlshorst unterzeichnet. Nach Moskauer Zeit war es bereits der 9. Mai.",
+          "en": "The final surrender document was signed late on 8 May in Berlin-Karlshorst. In Moscow time it was already 9 May."
+        },
+        "importance": {
+          "ru": "Так объясняется, почему окончание войны в Европе вспоминают 8 и 9 мая.",
+          "de": "So erklaert sich, warum das Kriegsende in Europa am 8. und am 9. Mai erinnert wird.",
+          "en": "This explains why the end of the war in Europe is remembered on both 8 and 9 May."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В немецкой политической культуре 8 мая всё чаще называют не только днём поражения, но и днём освобождения от нацистской диктатуры.",
+    "de": "In der deutschen politischen Kultur wird der 8. Mai zunehmend nicht nur als Tag der Niederlage, sondern als Tag der Befreiung von der NS-Diktatur verstanden.",
+    "en": "In German political culture, 8 May is increasingly understood not only as a day of defeat but as a day of liberation from Nazi dictatorship."
+  },
+  "sources": [
+    {
+      "label": "Britannica: V-E Day",
+      "url": "https://www.britannica.com/event/V-E-Day"
+    },
+    {
+      "label": "Berlin-Karlshorst Museum",
+      "url": "https://www.museum-karlshorst.de/en/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "07-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1944-july-20-plot",
+    "year": 1944,
+    "title": {
+      "ru": "Покушение на Гитлера 20 июля",
+      "de": "Attentat auf Hitler am 20. Juli",
+      "en": "The 20 July plot against Hitler"
+    },
+    "description": {
+      "ru": "20 июля 1944 года группа немецких офицеров и гражданских противников режима попыталась убить Гитлера и свергнуть нацистскую власть. Бомбу в ставку «Волчье логово» доставил Клаус Шенк граф фон Штауффенберг.",
+      "de": "Am 20. Juli 1944 versuchten deutsche Offiziere und zivile Gegner des Regimes, Hitler zu toeteten und die NS-Herrschaft zu stuerzen. Claus Schenk Graf von Stauffenberg brachte die Bombe in die Wolfsschanze.",
+      "en": "On 20 July 1944, German officers and civilian opponents of the regime tried to kill Hitler and overthrow Nazi rule. Claus Schenk Graf von Stauffenberg carried the bomb into the Wolf's Lair."
+    },
+    "importance": {
+      "ru": "Провал заговора привёл к жестоким репрессиям, но стал важным символом немецкого сопротивления нацизму.",
+      "de": "Das Scheitern fuehrte zu brutaler Verfolgung, wurde aber zu einem wichtigen Symbol des deutschen Widerstands gegen den Nationalsozialismus.",
+      "en": "The failure led to brutal reprisals, but the plot became an important symbol of German resistance to Nazism."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "1944-stauffenberg",
+        "year": 1944,
+        "title": {
+          "ru": "Клаус фон Штауффенберг",
+          "de": "Claus von Stauffenberg",
+          "en": "Claus von Stauffenberg"
+        },
+        "description": {
+          "ru": "Штауффенберг был офицером вермахта и одним из центральных участников заговора. После провала операции его расстреляли в ночь на 21 июля.",
+          "de": "Stauffenberg war Offizier der Wehrmacht und eine zentrale Figur des Umsturzversuchs. Nach dem Scheitern wurde er in der Nacht zum 21. Juli erschossen.",
+          "en": "Stauffenberg was a Wehrmacht officer and a central figure in the attempted coup. After it failed, he was shot during the night of 20-21 July."
+        },
+        "importance": {
+          "ru": "Его имя стало одним из самых известных символов сопротивления внутри Германии.",
+          "de": "Sein Name wurde zu einem der bekanntesten Symbole des Widerstands innerhalb Deutschlands.",
+          "en": "His name became one of the best-known symbols of resistance inside Germany."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Операция получила название «Валькирия»: заговорщики хотели использовать план подавления внутренних беспорядков против самого нацистского режима.",
+    "de": "Die Operation hiess Walkuere: Die Verschwoerer wollten einen Plan zur Niederschlagung innerer Unruhen gegen das NS-Regime selbst wenden.",
+    "en": "The operation was called Valkyrie: the conspirators hoped to turn an internal security plan against the Nazi regime itself."
+  },
+  "sources": [
+    {
+      "label": "German Resistance Memorial Center: 20 July 1944",
+      "url": "https://www.gdw-berlin.de/en/recess/topics/11-the-attempted-coup-of-july-20-1944"
+    },
+    {
+      "label": "Gedenkstaette Ploetzensee: July 20, 1944",
+      "url": "https://www.gedenkstaette-ploetzensee.de/en/executions-in-ploetzensee-prison/july-20-1944"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "06-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1953-east-german-uprising",
+    "year": 1953,
+    "title": {
+      "ru": "Народное восстание в ГДР",
+      "de": "Volksaufstand in der DDR",
+      "en": "Popular uprising in East Germany"
+    },
+    "description": {
+      "ru": "17 июня 1953 года протесты рабочих в Восточном Берлине переросли в массовое восстание по всей ГДР. Советские войска и власти СЕПГ подавили выступления.",
+      "de": "Am 17. Juni 1953 wurden Arbeiterproteste in Ost-Berlin zu einem Massenaufstand in der ganzen DDR. Sowjetische Truppen und die SED-Fuehrung schlugen die Proteste nieder.",
+      "en": "On 17 June 1953, workers' protests in East Berlin grew into a mass uprising across East Germany. Soviet troops and the SED leadership suppressed the protests."
+    },
+    "importance": {
+      "ru": "Это был первый крупный массовый протест против коммунистической диктатуры в Восточной Европе после войны.",
+      "de": "Es war der erste grosse Massenprotest gegen eine kommunistische Diktatur in Osteuropa nach dem Krieg.",
+      "en": "It was the first major mass protest against a communist dictatorship in postwar Eastern Europe."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1953-former-unity-day",
+        "year": 1953,
+        "title": {
+          "ru": "17 июня был праздником единства в ФРГ",
+          "de": "Der 17. Juni wurde Feiertag der Einheit",
+          "en": "17 June became a unity holiday"
+        },
+        "description": {
+          "ru": "В Западной Германии 17 июня долгие годы был Днём немецкого единства. После воссоединения национальным праздником стало 3 октября.",
+          "de": "In Westdeutschland war der 17. Juni viele Jahre der Tag der deutschen Einheit. Nach der Wiedervereinigung wurde der 3. Oktober Nationalfeiertag.",
+          "en": "In West Germany, 17 June was German Unity Day for many years. After reunification, the national holiday moved to 3 October."
+        },
+        "importance": {
+          "ru": "Так память о восстании стала частью политической культуры ФРГ.",
+          "de": "So wurde die Erinnerung an den Aufstand Teil der politischen Kultur der Bundesrepublik.",
+          "en": "The memory of the uprising became part of West Germany's political culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Восстание началось из-за рабочих норм, но быстро превратилось в протест за свободу, честные выборы и конец диктатуры.",
+    "de": "Der Aufstand begann wegen Arbeitsnormen, wurde aber schnell zu einem Protest fuer Freiheit, freie Wahlen und ein Ende der Diktatur.",
+    "en": "The uprising began over work quotas but quickly became a protest for freedom, free elections and an end to dictatorship."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: 17 June 1953",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1953-06-17-protest-sed-212820"
+    },
+    {
+      "label": "Bundesarchiv: Volksaufstand",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/storys/volksaufstand/"
+    }
+  ]
+}

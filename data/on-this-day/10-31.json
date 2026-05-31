@@ -1,0 +1,65 @@
+{
+  "date": "10-31",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1517-luther-95-theses",
+    "year": 1517,
+    "title": {
+      "ru": "Начало Реформации",
+      "de": "Beginn der Reformation",
+      "en": "Beginning of the Reformation"
+    },
+    "description": {
+      "ru": "По традиционной версии, 31 октября 1517 года Мартин Лютер обнародовал 95 тезисов в Виттенберге. Этот текст стал началом движения, изменившего религиозную и политическую карту Европы.",
+      "de": "Nach der traditionellen Darstellung veroeffentlichte Martin Luther am 31. Oktober 1517 seine 95 Thesen in Wittenberg. Der Text wurde zum Ausgangspunkt einer Bewegung, die Europas religioese und politische Landkarte veraenderte.",
+      "en": "According to the traditional account, Martin Luther made his 95 Theses public in Wittenberg on 31 October 1517. The text became the starting point of a movement that changed Europe's religious and political map."
+    },
+    "importance": {
+      "ru": "Хотя дата раньше основного диапазона, для истории Германии она слишком важна, чтобы её пропускать.",
+      "de": "Obwohl das Datum vor dem Hauptzeitraum liegt, ist es fuer die deutsche Geschichte zu wichtig, um es auszulassen.",
+      "en": "Although the date is before the main range, it is too important for German history to omit."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "1517-printing-and-reformation",
+        "year": 1517,
+        "title": {
+          "ru": "Печатное слово ускорило спор",
+          "de": "Der Buchdruck beschleunigt den Streit",
+          "en": "Printing accelerates the dispute"
+        },
+        "description": {
+          "ru": "Идеи Реформации быстро распространялись благодаря печати. Немецкие города стали важными центрами религиозных текстов, листовок и полемики.",
+          "de": "Die Ideen der Reformation verbreiteten sich rasch durch den Buchdruck. Deutsche Staedte wurden wichtige Zentren religioeser Texte, Flugschriften und Debatten.",
+          "en": "Reformation ideas spread quickly through printing. German cities became important centers of religious texts, pamphlets and debate."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как технология меняет культуру и политику.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie Technik Kultur und Politik veraendert.",
+          "en": "It is a strong example of how technology can change culture and politics."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "31 октября в нескольких землях Германии является праздничным Днём Реформации.",
+    "de": "Der 31. Oktober ist in mehreren deutschen Bundeslaendern als Reformationstag ein Feiertag.",
+    "en": "31 October is Reformation Day and a public holiday in several German states."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Ninety-five Theses",
+      "url": "https://www.britannica.com/event/Ninety-five-Theses"
+    },
+    {
+      "label": "Britannica: Reformation",
+      "url": "https://www.britannica.com/event/Reformation"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "10-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1990-german-reunification",
+    "year": 1990,
+    "title": {
+      "ru": "День немецкого единства",
+      "de": "Tag der Deutschen Einheit",
+      "en": "German Unity Day"
+    },
+    "description": {
+      "ru": "3 октября 1990 года ГДР присоединилась к сфере действия Основного закона ФРГ. Германия снова стала единым государством.",
+      "de": "Am 3. Oktober 1990 trat die DDR dem Geltungsbereich des Grundgesetzes der Bundesrepublik bei. Deutschland wurde wieder ein einheitlicher Staat.",
+      "en": "On 3 October 1990, East Germany joined the area of application of the Federal Republic's Basic Law. Germany became a single state again."
+    },
+    "importance": {
+      "ru": "Это главный государственный праздник современной Германии.",
+      "de": "Das ist der wichtigste Nationalfeiertag des heutigen Deutschlands.",
+      "en": "It is the main national holiday of modern Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1990-reichstag-first-all-german-bundestag",
+        "year": 1990,
+        "title": {
+          "ru": "Первый общегерманский Бундестаг после разделения",
+          "de": "Erster gesamtdeutscher Bundestag nach der Teilung",
+          "en": "First all-German Bundestag after division"
+        },
+        "description": {
+          "ru": "В день единства депутаты из восточных земель вошли в Бундестаг. Это символически завершило парламентское разделение страны.",
+          "de": "Am Tag der Einheit zogen Abgeordnete aus den ostdeutschen Laendern in den Bundestag ein. Damit endete symbolisch die parlamentarische Teilung des Landes.",
+          "en": "On Unity Day, deputies from the eastern states joined the Bundestag. This symbolically ended the country's parliamentary division."
+        },
+        "importance": {
+          "ru": "Событие показывает, что воссоединение было не только эмоциональным, но и юридическим процессом.",
+          "de": "Das Ereignis zeigt, dass die Wiedervereinigung nicht nur emotional, sondern auch rechtlich-politisch war.",
+          "en": "The event shows that reunification was not only emotional but also a legal and political process."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "До 1990 года в ФРГ Днём немецкого единства было 17 июня, в память о восстании в ГДР 1953 года.",
+    "de": "Bis 1990 war in der Bundesrepublik der 17. Juni der Tag der deutschen Einheit, zur Erinnerung an den DDR-Aufstand von 1953.",
+    "en": "Until 1990, West Germany marked German Unity Day on 17 June, in memory of the 1953 uprising in East Germany."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: 3 October 1990",
+      "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-einheit-ist-wirklichkeit-432814"
+    },
+    {
+      "label": "Deutscher Bundestag: First freely elected Volkskammer",
+      "url": "https://www.bundestag.de/parlament/geschichte/parlamentarismus/10_volkskammer/"
+    }
+  ]
+}

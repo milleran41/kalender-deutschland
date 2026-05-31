@@ -1,0 +1,109 @@
+{
+  "date": "11-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1989-fall-of-berlin-wall",
+    "year": 1989,
+    "title": {
+      "ru": "Пала Берлинская стена",
+      "de": "Die Berliner Mauer faellt",
+      "en": "The Berlin Wall falls"
+    },
+    "description": {
+      "ru": "9 ноября 1989 года власти ГДР неожиданно объявили новые правила выезда. В тот же вечер тысячи людей пришли к пограничным переходам, и стена фактически открылась.",
+      "de": "Am 9. November 1989 verkuendete die DDR-Fuehrung unerwartet neue Reiseregeln. Noch am selben Abend stroemten Tausende zu den Grenzuebergaengen, und die Mauer oeffnete sich faktisch.",
+      "en": "On 9 November 1989, East German authorities unexpectedly announced new travel rules. That evening, thousands went to the border crossings, and the Wall effectively opened."
+    },
+    "importance": {
+      "ru": "Это событие стало символом конца разделённой Германии и ускорило воссоединение.",
+      "de": "Das Ereignis wurde zum Symbol fuer das Ende der deutschen Teilung und beschleunigte die Wiedervereinigung.",
+      "en": "The event became the symbol of the end of German division and accelerated reunification."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1918-republic-proclaimed",
+        "year": 1918,
+        "title": {
+          "ru": "Провозглашена республика",
+          "de": "Die Republik wird ausgerufen",
+          "en": "The republic is proclaimed"
+        },
+        "description": {
+          "ru": "9 ноября 1918 года Филипп Шейдеман провозгласил республику в Берлине. Германская империя рухнула после поражения в Первой мировой войне.",
+          "de": "Am 9. November 1918 rief Philipp Scheidemann in Berlin die Republik aus. Das Kaiserreich brach nach der Niederlage im Ersten Weltkrieg zusammen.",
+          "en": "On 9 November 1918, Philipp Scheidemann proclaimed the republic in Berlin. The German Empire collapsed after defeat in the First World War."
+        },
+        "importance": {
+          "ru": "Это начало Веймарской республики, первого демократического государства Германии.",
+          "de": "Das war der Beginn der Weimarer Republik, des ersten demokratischen Staates Deutschlands.",
+          "en": "It marked the beginning of the Weimar Republic, Germany's first democratic state."
+        }
+      },
+      {
+        "id": "1938-kristallnacht",
+        "year": 1938,
+        "title": {
+          "ru": "Ноябрьские погромы",
+          "de": "Novemberpogrome",
+          "en": "November pogroms"
+        },
+        "description": {
+          "ru": "В ночь с 9 на 10 ноября 1938 года по всей Германии и Австрии нацисты организовали насилие против евреев, синагог, домов и магазинов. Это стало резким шагом к открытой массовой политике преследования.",
+          "de": "In der Nacht vom 9. auf den 10. November 1938 organisierten die Nationalsozialisten Gewalt gegen Juden, Synagogen, Wohnungen und Geschaefte in Deutschland und Oesterreich. Das war ein massiver Schritt zur offenen Verfolgungspolitik.",
+          "en": "On the night of 9-10 November 1938, the Nazis organized violence against Jews, synagogues, homes and businesses across Germany and Austria. It was a major step toward open mass persecution."
+        },
+        "importance": {
+          "ru": "9 ноября поэтому одновременно несёт память о свободе и о преступлениях.",
+          "de": "Darum steht der 9. November zugleich fuer Freiheit und fuer Verbrechen.",
+          "en": "For this reason, 9 November carries memories of both freedom and crime."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1989-schabowski-note",
+        "year": 1989,
+        "title": {
+          "ru": "Одна неясная фраза изменила вечер",
+          "de": "Ein unklarer Satz veraendert den Abend",
+          "en": "One unclear phrase changes the evening"
+        },
+        "description": {
+          "ru": "На пресс-конференции Гюнтер Шабовски неуверенно сказал, что новые правила выезда действуют «немедленно». Люди восприняли это буквально и пошли к стене.",
+          "de": "Auf einer Pressekonferenz sagte Guenter Schabowski unsicher, die neuen Reiseregeln galten ab sofort. Viele Menschen nahmen das woertlich und gingen zur Mauer.",
+          "en": "At a press conference, Guenter Schabowski uncertainly said the new travel rules applied immediately. Many people took him literally and went to the Wall."
+        },
+        "importance": {
+          "ru": "Это редкий случай, когда бюрократическая путаница помогла открыть границу.",
+          "de": "Das ist ein seltener Fall, in dem buerokratische Verwirrung half, eine Grenze zu oeffnen.",
+          "en": "It is a rare case in which bureaucratic confusion helped open a border."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "9 ноября называют немецким «днём судьбы»: на эту дату пришлись события 1918, 1938 и 1989 годов.",
+    "de": "Der 9. November gilt als deutscher Schicksalstag: Auf dieses Datum fallen Ereignisse von 1918, 1938 und 1989.",
+    "en": "9 November is often called Germany's day of fate because major events occurred on this date in 1918, 1938 and 1989."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: The day the Berlin Wall fell",
+      "url": "https://www.bundesregierung.de/breg-en/issues/the-day-the-berlin-wall-fell-in-november-1989-404490"
+    },
+    {
+      "label": "German Bundestag: 9 November",
+      "url": "https://www.bundestag.de/en/documents/textarchive/kw45-2018-9november-576974"
+    },
+    {
+      "label": "Britannica: German Revolution of 1918-19",
+      "url": "https://www.britannica.com/event/Revolution-of-1918-19-German-history"
+    }
+  ]
+}

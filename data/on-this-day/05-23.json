@@ -1,0 +1,61 @@
+{
+  "date": "05-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-basic-law-promulgated",
+    "year": 1949,
+    "title": {
+      "ru": "Обнародован Основной закон ФРГ",
+      "de": "Das Grundgesetz wird verkuendet",
+      "en": "The Basic Law is promulgated"
+    },
+    "description": {
+      "ru": "23 мая 1949 года в Бонне был подписан и обнародован Основной закон Федеративной Республики Германия. Он стал конституционной основой западногерманского государства.",
+      "de": "Am 23. Mai 1949 wurde in Bonn das Grundgesetz der Bundesrepublik Deutschland unterzeichnet und verkuendet. Es wurde zur verfassungsrechtlichen Grundlage des westdeutschen Staates.",
+      "en": "On 23 May 1949, the Basic Law of the Federal Republic of Germany was signed and promulgated in Bonn. It became the constitutional foundation of West Germany."
+    },
+    "importance": {
+      "ru": "После 1990 года Основной закон стал конституцией объединённой Германии.",
+      "de": "Nach 1990 wurde das Grundgesetz zur Verfassung des vereinten Deutschlands.",
+      "en": "After 1990, the Basic Law became the constitution of reunified Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1949-bonn-provisional-capital",
+        "year": 1949,
+        "title": {
+          "ru": "Бонн стал политическим центром ФРГ",
+          "de": "Bonn wird politisches Zentrum der Bundesrepublik",
+          "en": "Bonn becomes West Germany's political center"
+        },
+        "description": {
+          "ru": "Новая Федеративная Республика Германия строилась вокруг временной столицы в Бонне. Это подчёркивало, что разделение страны не считалось окончательным.",
+          "de": "Die neue Bundesrepublik Deutschland entstand mit Bonn als provisorischem politischem Zentrum. Das zeigte, dass die Teilung des Landes nicht als endgueltig galt.",
+          "en": "The new Federal Republic of Germany was built around Bonn as a provisional political center. This showed that the division of the country was not seen as final."
+        },
+        "importance": {
+          "ru": "История Бонна помогает понять, почему послевоенная Германия долго жила с мыслью о временности разделения.",
+          "de": "Die Geschichte Bonns hilft zu verstehen, warum die Nachkriegsordnung lange als provisorisch empfunden wurde.",
+          "en": "Bonn's role helps explain why postwar Germany long treated division as provisional."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первая статья Основного закона начинается с защиты человеческого достоинства; это прямой ответ на опыт нацистской диктатуры.",
+    "de": "Der erste Artikel des Grundgesetzes beginnt mit dem Schutz der Menschenwuerde; das ist eine direkte Antwort auf die Erfahrung der NS-Diktatur.",
+    "en": "The first article of the Basic Law begins with the protection of human dignity, a direct response to the experience of Nazi dictatorship."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: Basic Law",
+      "url": "https://www.bundesregierung.de/breg-en/federal-government/basic-law-for-the-federal-republic-of-germany-482266"
+    }
+  ]
+}

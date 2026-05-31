@@ -1,0 +1,86 @@
+{
+  "date": "01-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1871-german-empire-proclaimed",
+    "year": 1871,
+    "title": {
+      "ru": "Провозглашена Германская империя",
+      "de": "Das Deutsche Kaiserreich wird ausgerufen",
+      "en": "The German Empire is proclaimed"
+    },
+    "description": {
+      "ru": "18 января 1871 года в Зеркальной галерее Версальского дворца прусский король Вильгельм I был провозглашён германским императором. Так возникла Германская империя под ведущей ролью Пруссии.",
+      "de": "Am 18. Januar 1871 wurde der preussische Koenig Wilhelm I. im Spiegelsaal von Versailles zum Deutschen Kaiser ausgerufen. Damit entstand das Deutsche Kaiserreich unter preussischer Fuehrung.",
+      "en": "On 18 January 1871, Prussian King Wilhelm I was proclaimed German Emperor in the Hall of Mirrors at Versailles. The German Empire was created under Prussian leadership."
+    },
+    "importance": {
+      "ru": "Это стало ключевым моментом политического объединения Германии в XIX веке.",
+      "de": "Das war ein Schluesselmoment der politischen Einigung Deutschlands im 19. Jahrhundert.",
+      "en": "It was a key moment in Germany's political unification in the nineteenth century."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1871-versailles-symbolism",
+        "year": 1871,
+        "title": {
+          "ru": "Империю объявили не в Берлине",
+          "de": "Die Reichsgruendung fand nicht in Berlin statt",
+          "en": "The empire was not proclaimed in Berlin"
+        },
+        "description": {
+          "ru": "Место церемонии было выбрано во время Франко-прусской войны. Провозглашение в Версале сделало событие особенно болезненным для Франции.",
+          "de": "Der Ort der Zeremonie wurde waehrend des Deutsch-Franzoesischen Krieges gewaehlt. Die Ausrufung in Versailles war fuer Frankreich besonders demuetigend.",
+          "en": "The ceremony took place during the Franco-Prussian War. Holding it at Versailles made the event especially painful for France."
+        },
+        "importance": {
+          "ru": "Дата показывает, как объединение Германии было связано с европейским балансом сил.",
+          "de": "Das Datum zeigt, wie eng die deutsche Einigung mit dem europaeischen Machtgleichgewicht verbunden war.",
+          "en": "The date shows how closely German unification was tied to the European balance of power."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1871-bismarck-empire",
+        "year": 1871,
+        "title": {
+          "ru": "Бисмарк стал архитектором объединения",
+          "de": "Bismarck wird zum Architekten der Einigung",
+          "en": "Bismarck becomes the architect of unification"
+        },
+        "description": {
+          "ru": "Отто фон Бисмарк уже был главным политиком Северогерманского союза. После 1871 года он стал первым рейхсканцлером новой империи.",
+          "de": "Otto von Bismarck war bereits der fuehrende Politiker des Norddeutschen Bundes. Nach 1871 wurde er der erste Reichskanzler des neuen Kaiserreichs.",
+          "en": "Otto von Bismarck was already the leading politician of the North German Confederation. After 1871 he became the first imperial chancellor."
+        },
+        "importance": {
+          "ru": "Его политика надолго определила устройство и внешнюю политику Германии.",
+          "de": "Seine Politik praegte die Ordnung und Aussenpolitik Deutschlands fuer lange Zeit.",
+          "en": "His politics shaped Germany's system and foreign policy for decades."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "18 января было выбрано не случайно: в этот же день в 1701 году курфюрст Фридрих III короновался как король в Пруссии.",
+    "de": "Der 18. Januar war nicht zufaellig gewaehlt: Am selben Tag kroente sich 1701 Kurfuerst Friedrich III. zum Koenig in Preussen.",
+    "en": "18 January was not chosen by chance: on the same day in 1701, Elector Frederick III crowned himself King in Prussia."
+  },
+  "sources": [
+    {
+      "label": "Chateau de Versailles: Proclamation of the German Empire",
+      "url": "https://en.chateauversailles.fr/discover/history/key-dates/proclamation-german-empire-1871"
+    },
+    {
+      "label": "Wikimedia Commons: Proclamation painting",
+      "url": "https://commons.wikimedia.org/wiki/File:1871_Proclamation_of_the_German_Empire.jpg"
+    }
+  ]
+}

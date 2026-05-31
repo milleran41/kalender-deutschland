@@ -1,0 +1,65 @@
+{
+  "date": "03-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1848-march-revolution-berlin",
+    "year": 1848,
+    "title": {
+      "ru": "Начались мартовские бои в Берлине",
+      "de": "Die Maerzkaempfe in Berlin beginnen",
+      "en": "The March fighting in Berlin begins"
+    },
+    "description": {
+      "ru": "18 марта 1848 года в Берлине начались столкновения между гражданами и войсками. Событие стало одним из главных эпизодов революции 1848 года в германских землях.",
+      "de": "Am 18. Maerz 1848 kam es in Berlin zu Zusammenstoessen zwischen Buergern und Truppen. Das Ereignis wurde zu einem wichtigen Abschnitt der Revolution von 1848 in den deutschen Laendern.",
+      "en": "On 18 March 1848, clashes broke out in Berlin between citizens and troops. The event became one of the central episodes of the 1848 revolution in the German lands."
+    },
+    "importance": {
+      "ru": "Эта дата напоминает, что путь Германии к демократии был трудным и часто насильственным.",
+      "de": "Dieses Datum erinnert daran, dass Deutschlands Weg zur Demokratie schwierig und oft gewaltsam war.",
+      "en": "The date is a reminder that Germany's path toward democracy was difficult and often violent."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1990-first-free-gdr-election",
+        "year": 1990,
+        "title": {
+          "ru": "Первые свободные выборы в Народную палату ГДР",
+          "de": "Erste freie Volkskammerwahl in der DDR",
+          "en": "First free Volkskammer election in East Germany"
+        },
+        "description": {
+          "ru": "18 марта 1990 года жители ГДР впервые свободно избрали парламент. Итог выборов ускорил путь к воссоединению Германии.",
+          "de": "Am 18. Maerz 1990 waehlten die Menschen in der DDR erstmals frei ihr Parlament. Das Ergebnis beschleunigte den Weg zur deutschen Einheit.",
+          "en": "On 18 March 1990, East Germans freely elected their parliament for the first time. The result accelerated the path toward German unity."
+        },
+        "importance": {
+          "ru": "На одной дате встретились революция 1848 года и демократический перелом 1990 года.",
+          "de": "An einem Datum begegnen sich die Revolution von 1848 und der demokratische Umbruch von 1990.",
+          "en": "One date links the 1848 revolution with the democratic turning point of 1990."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "18 марта в немецкой памяти связано сразу с двумя попытками добиться свободы: революционной в 1848 году и мирной демократической в 1990 году.",
+    "de": "Der 18. Maerz steht in der deutschen Erinnerung fuer zwei Wege zur Freiheit: den revolutionaeren von 1848 und den friedlich-demokratischen von 1990.",
+    "en": "In German memory, 18 March is tied to two paths toward freedom: the revolutionary one in 1848 and the peaceful democratic one in 1990."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: 18 March 1848",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1848-03-18-buergerliche-revolution-937594"
+    },
+    {
+      "label": "Deutscher Bundestag: First freely elected Volkskammer",
+      "url": "https://www.bundestag.de/parlament/geschichte/parlamentarismus/10_volkskammer/"
+    }
+  ]
+}

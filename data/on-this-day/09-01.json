@@ -1,0 +1,65 @@
+{
+  "date": "09-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1939-germany-invades-poland",
+    "year": 1939,
+    "title": {
+      "ru": "Германия напала на Польшу",
+      "de": "Deutschland greift Polen an",
+      "en": "Germany invades Poland"
+    },
+    "description": {
+      "ru": "1 сентября 1939 года нацистская Германия начала вторжение в Польшу. Это стало началом Второй мировой войны в Европе.",
+      "de": "Am 1. September 1939 begann das nationalsozialistische Deutschland den Ueberfall auf Polen. Damit begann der Zweite Weltkrieg in Europa.",
+      "en": "On 1 September 1939, Nazi Germany began its invasion of Poland. This marked the beginning of the Second World War in Europe."
+    },
+    "importance": {
+      "ru": "Дата стала одним из самых трагических рубежей европейской истории XX века.",
+      "de": "Das Datum wurde zu einer der tragischsten Zäsuren der europaeischen Geschichte des 20. Jahrhunderts.",
+      "en": "The date became one of the most tragic turning points in twentieth-century European history."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1939-westerplatte",
+        "year": 1939,
+        "title": {
+          "ru": "Вестерплатте стало символом начала войны",
+          "de": "Westerplatte wird zum Symbol des Kriegsbeginns",
+          "en": "Westerplatte becomes a symbol of the war's beginning"
+        },
+        "description": {
+          "ru": "Одним из первых объектов атаки стал польский гарнизон на Вестерплатте у Данцига. Его оборона стала важным символом польского сопротивления.",
+          "de": "Eines der ersten Angriffsziele war die polnische Stellung auf der Westerplatte bei Danzig. Ihre Verteidigung wurde zu einem wichtigen Symbol polnischen Widerstands.",
+          "en": "One of the first targets was the Polish position at Westerplatte near Danzig. Its defense became an important symbol of Polish resistance."
+        },
+        "importance": {
+          "ru": "Событие связывает историю Германии, Польши и города Данцига, нынешнего Гданьска.",
+          "de": "Das Ereignis verbindet die Geschichte Deutschlands, Polens und der Stadt Danzig, heute Gdansk.",
+          "en": "The event connects the histories of Germany, Poland and Danzig, today's Gdansk."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Немецкая пропаганда пыталась представить нападение как ответную акцию, но это была заранее подготовленная агрессия.",
+    "de": "Die deutsche Propaganda versuchte, den Angriff als Gegenwehr darzustellen, doch es war eine vorbereitete Aggression.",
+    "en": "German propaganda tried to present the attack as retaliation, but it was a planned act of aggression."
+  },
+  "sources": [
+    {
+      "label": "United States Holocaust Memorial Museum: German invasion of Poland",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1939-1941/german-invasion-of-poland"
+    },
+    {
+      "label": "Britannica: Invasion of Poland",
+      "url": "https://www.britannica.com/event/Invasion-of-Poland"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "03-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1933-enabling-act",
+    "year": 1933,
+    "title": {
+      "ru": "Рейхстаг принял Закон о чрезвычайных полномочиях",
+      "de": "Der Reichstag beschliesst das Ermaechtigungsgesetz",
+      "en": "The Reichstag passes the Enabling Act"
+    },
+    "description": {
+      "ru": "23 марта 1933 года рейхстаг дал правительству Гитлера право принимать законы без полноценного парламентского контроля. Это стало решающим шагом к нацистской диктатуре.",
+      "de": "Am 23. Maerz 1933 gab der Reichstag Hitlers Regierung das Recht, Gesetze ohne volle parlamentarische Kontrolle zu erlassen. Das war ein entscheidender Schritt zur NS-Diktatur.",
+      "en": "On 23 March 1933, the Reichstag allowed Hitler's government to pass laws without full parliamentary control. It was a decisive step toward Nazi dictatorship."
+    },
+    "importance": {
+      "ru": "Событие показывает, как демократические институты могут быть разрушены формально законным путём.",
+      "de": "Das Ereignis zeigt, wie demokratische Institutionen formal legal zerstoert werden koennen.",
+      "en": "The event shows how democratic institutions can be destroyed through formally legal means."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1933-otto-wels-speech",
+        "year": 1933,
+        "title": {
+          "ru": "Речь Отто Вельса против закона",
+          "de": "Otto Wels spricht gegen das Gesetz",
+          "en": "Otto Wels speaks against the law"
+        },
+        "description": {
+          "ru": "Социал-демократ Отто Вельс выступил против передачи власти правительству. Его речь стала одним из самых известных актов парламентского сопротивления нацистам.",
+          "de": "Der Sozialdemokrat Otto Wels sprach gegen die Uebertragung der Macht an die Regierung. Seine Rede gilt als einer der bekanntesten Akte parlamentarischen Widerstands gegen die Nationalsozialisten.",
+          "en": "Social Democrat Otto Wels spoke against handing power to the government. His speech became one of the best-known acts of parliamentary resistance to the Nazis."
+        },
+        "importance": {
+          "ru": "Это важный пример политического мужества в момент, когда диктатура уже почти победила.",
+          "de": "Es ist ein wichtiges Beispiel politischen Mutes in einem Moment, in dem die Diktatur fast schon gesiegt hatte.",
+          "en": "It is an important example of political courage at a moment when dictatorship had nearly won."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Заседание проходило не в обычном здании рейхстага: оно было повреждено пожаром в феврале 1933 года.",
+    "de": "Die Sitzung fand nicht im gewohnten Reichstagsgebaeude statt: Es war durch den Brand im Februar 1933 beschaedigt.",
+    "en": "The session did not take place in the usual Reichstag building because it had been damaged by the fire of February 1933."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Enabling Act",
+      "url": "https://www.britannica.com/topic/Enabling-Act"
+    },
+    {
+      "label": "Deutscher Bundestag: Enabling Act exhibition PDF",
+      "url": "https://www.bundestag.de/resource/blob/189778/d0f948962723d454c536d24d43965f87/enabling_act-data.pdf"
+    }
+  ]
+}

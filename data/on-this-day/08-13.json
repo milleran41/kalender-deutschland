@@ -1,0 +1,65 @@
+{
+  "date": "08-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1961-berlin-wall-construction",
+    "year": 1961,
+    "title": {
+      "ru": "Началось строительство Берлинской стены",
+      "de": "Der Bau der Berliner Mauer beginnt",
+      "en": "Construction of the Berlin Wall begins"
+    },
+    "description": {
+      "ru": "13 августа 1961 года власти ГДР закрыли границу между Восточным и Западным Берлином. Вскоре временные заграждения превратились в Берлинскую стену.",
+      "de": "Am 13. August 1961 sperrten die DDR-Behörden die Grenze zwischen Ost- und West-Berlin. Aus den provisorischen Sperren wurde bald die Berliner Mauer.",
+      "en": "On 13 August 1961, East German authorities sealed the border between East and West Berlin. Temporary barriers soon became the Berlin Wall."
+    },
+    "importance": {
+      "ru": "Стена стала главным символом разделённой Германии и холодной войны.",
+      "de": "Die Mauer wurde zum wichtigsten Symbol des geteilten Deutschlands und des Kalten Krieges.",
+      "en": "The Wall became the main symbol of divided Germany and the Cold War."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "1961-weekend-wall",
+        "year": 1961,
+        "title": {
+          "ru": "Границу закрыли в воскресенье",
+          "de": "Die Grenze wurde an einem Sonntag geschlossen",
+          "en": "The border was closed on a Sunday"
+        },
+        "description": {
+          "ru": "Операция началась в ночь на воскресенье, когда город был менее активен. Многие берлинцы утром обнаружили, что привычные пути внезапно исчезли.",
+          "de": "Die Aktion begann in der Nacht zu einem Sonntag, als die Stadt ruhiger war. Viele Berliner merkten am Morgen, dass gewohnte Wege ploetzlich verschwunden waren.",
+          "en": "The operation began during the night before Sunday, when the city was quieter. Many Berliners woke up to find familiar routes suddenly gone."
+        },
+        "importance": {
+          "ru": "Эта деталь делает событие особенно понятным: большая история вошла прямо в повседневную жизнь людей.",
+          "de": "Dieses Detail macht das Ereignis besonders greifbar: Grosse Geschichte griff direkt in den Alltag ein.",
+          "en": "The detail makes the event vivid: big history entered people's everyday lives overnight."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Сначала это были проволока и блокпосты; бетонная система стены формировалась постепенно.",
+    "de": "Zuerst waren es Drahtsperren und Kontrollpunkte; das Betonsystem der Mauer entstand schrittweise.",
+    "en": "At first there were wire barriers and checkpoints; the concrete wall system developed gradually."
+  },
+  "sources": [
+    {
+      "label": "Federal Government: Construction of the Berlin Wall",
+      "url": "https://www.bundesregierung.de/breg-en/issues/remembrance-and-commemoration/construction-berlin-wall-1777024"
+    },
+    {
+      "label": "Deutscher Bundestag: 13 August 1961",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/1961-08-13-mauerbau-436214"
+    }
+  ]
+}
