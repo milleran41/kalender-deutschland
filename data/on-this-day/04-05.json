@@ -1,0 +1,90 @@
+{
+  "date": "04-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1943-dietrich-bonhoeffer-arrested",
+    "year": 1943,
+    "title": {
+      "ru": "Арестован Дитрих Бонхёффер",
+      "de": "Dietrich Bonhoeffer wird verhaftet",
+      "en": "Dietrich Bonhoeffer is arrested"
+    },
+    "description": {
+      "ru": "5 апреля 1943 года гестапо арестовало немецкого богослова Дитриха Бонхёффера. Он был связан с церковным и политическим сопротивлением нацистскому режиму и позже был казнён в концлагере Флоссенбюрг.",
+      "de": "Am 5. April 1943 verhaftete die Gestapo den deutschen Theologen Dietrich Bonhoeffer. Er war mit kirchlichem und politischem Widerstand gegen das NS-Regime verbunden und wurde spaeter im Konzentrationslager Flossenbuerg hingerichtet.",
+      "en": "On 5 April 1943, the Gestapo arrested German theologian Dietrich Bonhoeffer. He was connected with church and political resistance to the Nazi regime and was later executed at Flossenbuerg concentration camp."
+    },
+    "importance": {
+      "ru": "Дата напоминает, что сопротивление диктатуре существовало и внутри Германии, хотя оно было опасным и часто заканчивалось гибелью.",
+      "de": "Das Datum erinnert daran, dass es Widerstand gegen die Diktatur auch innerhalb Deutschlands gab, obwohl er gefaehrlich war und oft mit dem Tod endete.",
+      "en": "The date is a reminder that resistance to dictatorship also existed inside Germany, though it was dangerous and often ended in death."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "bonhoeffer-theologian-resistance",
+        "year": 1943,
+        "title": {
+          "ru": "Богослов и участник сопротивления",
+          "de": "Theologe und Widerstandskaempfer",
+          "en": "Theologian and resister"
+        },
+        "description": {
+          "ru": "Бонхёффер был одним из известных представителей Исповедующей церкви и критиков нацистского вмешательства в церковную жизнь. Его тюремные письма стали важными текстами христианской мысли XX века.",
+          "de": "Bonhoeffer war einer der bekannten Vertreter der Bekennenden Kirche und Kritiker nationalsozialistischer Eingriffe in das kirchliche Leben. Seine Gefaengnisbriefe wurden zu wichtigen Texten christlichen Denkens im 20. Jahrhundert.",
+          "en": "Bonhoeffer was one of the well-known figures of the Confessing Church and a critic of Nazi interference in church life. His prison letters became important texts of twentieth-century Christian thought."
+        },
+        "importance": {
+          "ru": "Его биография помогает говорить о личной ответственности в условиях несвободы.",
+          "de": "Seine Biografie hilft, ueber persoenliche Verantwortung unter Bedingungen der Unfreiheit zu sprechen.",
+          "en": "His biography helps discuss personal responsibility under conditions of unfreedom."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "letters-from-prison",
+        "year": 1943,
+        "title": {
+          "ru": "Письма из тюрьмы",
+          "de": "Briefe aus der Haft",
+          "en": "Letters from prison"
+        },
+        "description": {
+          "ru": "Во время заключения Бонхёффер писал письма и размышления, которые позднее были опубликованы. Они показывают не только политику сопротивления, но и внутреннюю жизнь человека перед лицом диктатуры.",
+          "de": "Waehrend der Haft schrieb Bonhoeffer Briefe und Gedanken, die spaeter veroeffentlicht wurden. Sie zeigen nicht nur Politik des Widerstands, sondern auch das innere Leben eines Menschen angesichts der Diktatur.",
+          "en": "During imprisonment, Bonhoeffer wrote letters and reflections that were later published. They show not only the politics of resistance, but also a person's inner life in the face of dictatorship."
+        },
+        "importance": {
+          "ru": "Так история становится ближе: через голос человека, а не только через даты и приказы.",
+          "de": "So wird Geschichte naeher: durch die Stimme eines Menschen, nicht nur durch Daten und Befehle.",
+          "en": "History becomes closer this way: through a human voice, not only through dates and orders."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бонхёффер был казнён 9 апреля 1945 года, всего за несколько недель до конца войны в Европе.",
+    "de": "Bonhoeffer wurde am 9. April 1945 hingerichtet, nur wenige Wochen vor Kriegsende in Europa.",
+    "en": "Bonhoeffer was executed on 9 April 1945, only weeks before the end of the war in Europe."
+  },
+  "sources": [
+    {
+      "label": "GHDI: Dietrich Bonhoeffer",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/dietrich-bonhoeffer-1939.pdf"
+    },
+    {
+      "label": "Columbia University Libraries: Bonhoeffer Collection",
+      "url": "https://library.columbia.edu/libraries/burke/special-collections/archives/bonhoeffer.html"
+    },
+    {
+      "label": "Brandenburg Political Education: Bekennende Kirche and resistance",
+      "url": "https://www.politische-bildung-brandenburg.de/themen/horizont-und-mitte/die-bekennende-kirche-und-der-widerstand-gegen-den-nationalsozialismus"
+    }
+  ]
+}

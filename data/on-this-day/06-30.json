@@ -1,0 +1,90 @@
+{
+  "date": "06-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1934-night-of-the-long-knives",
+    "year": 1934,
+    "title": {
+      "ru": "Началась «Ночь длинных ножей»",
+      "de": "Die Nacht der langen Messer beginnt",
+      "en": "The Night of the Long Knives begins"
+    },
+    "description": {
+      "ru": "30 июня 1934 года нацистское руководство начало серию убийств против руководителей СА и других реальных или воображаемых противников. Среди жертв были Эрнст Рём, Грегор Штрассер и бывший канцлер Курт фон Шлейхер.",
+      "de": "Am 30. Juni 1934 begann die NS-Fuehrung eine Mordaktion gegen die Fuehrung der SA und andere wirkliche oder angebliche Gegner. Zu den Opfern gehoerten Ernst Roehm, Gregor Strasser und der fruehere Reichskanzler Kurt von Schleicher.",
+      "en": "On 30 June 1934, the Nazi leadership began a series of murders against the SA leadership and other real or alleged opponents. Victims included Ernst Roehm, Gregor Strasser and former Chancellor Kurt von Schleicher."
+    },
+    "importance": {
+      "ru": "Это событие укрепило личную власть Гитлера и показало, что режим готов использовать убийства как инструмент политики.",
+      "de": "Dieses Ereignis festigte Hitlers persoenliche Macht und zeigte, dass das Regime Mord als politisches Instrument einsetzte.",
+      "en": "The event strengthened Hitler's personal power and showed that the regime was willing to use murder as a political instrument."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "ss-army-hitler-power",
+        "year": 1934,
+        "title": {
+          "ru": "Путь к абсолютной власти",
+          "de": "Weg zur absoluten Macht",
+          "en": "Road to absolute power"
+        },
+        "description": {
+          "ru": "Пурга ослабила СА и усилила СС, а также успокоила армию, которая опасалась конкуренции со стороны штурмовиков. После смерти Гинденбурга Гитлер вскоре объединил высшие должности государства.",
+          "de": "Die Saeuberung schwaechte die SA und staerkte die SS; zugleich beruhigte sie die Armee, die Konkurrenz durch die SA fuerchtete. Nach Hindenburgs Tod vereinigte Hitler bald die hoechsten Staatsaemter.",
+          "en": "The purge weakened the SA and strengthened the SS, while reassuring the army, which feared competition from the SA. After Hindenburg's death, Hitler soon merged the highest state offices."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, как внутренняя борьба в диктатуре превращалась в государственное убийство.",
+          "de": "Das Datum hilft zu verstehen, wie innerer Machtkampf in einer Diktatur zu staatlichem Mord wurde.",
+          "en": "The date helps explain how internal power struggle in a dictatorship turned into state murder."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "invented-coup-story",
+        "year": 1934,
+        "title": {
+          "ru": "Миф о «путче Рёма»",
+          "de": "Der Mythos vom Roehm-Putsch",
+          "en": "The myth of the Roehm Putsch"
+        },
+        "description": {
+          "ru": "Нацисты оправдывали убийства якобы предотвращённым заговором СА. В действительности это была политическая расправа, которую затем пытались представить как защиту государства.",
+          "de": "Die Nationalsozialisten rechtfertigten die Morde mit einem angeblich verhinderten SA-Komplott. Tatsaechlich war es eine politische Abrechnung, die nachtraeglich als Schutz des Staates dargestellt wurde.",
+          "en": "The Nazis justified the murders by claiming they had prevented an SA plot. In reality it was a political settling of accounts, later presented as protection of the state."
+        },
+        "importance": {
+          "ru": "Это показывает, как диктатуры создают легенды, чтобы прикрывать насилие.",
+          "de": "Das zeigt, wie Diktaturen Legenden schaffen, um Gewalt zu verdecken.",
+          "en": "It shows how dictatorships create legends to cover violence."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Убийства продолжались несколько дней, с 30 июня до начала июля 1934 года.",
+    "de": "Die Morde dauerten mehrere Tage, vom 30. Juni bis Anfang Juli 1934.",
+    "en": "The murders continued for several days, from 30 June into early July 1934."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Night of the Long Knives",
+      "url": "https://www.britannica.com/event/Night-of-the-Long-Knives"
+    },
+    {
+      "label": "USHMM: Roehm Purge",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/roehm-purge"
+    },
+    {
+      "label": "Jewish Virtual Library: Night of the Long Knives",
+      "url": "https://www.jewishvirtuallibrary.org/jsource/Holocaust/knives.html"
+    }
+  ]
+}
