@@ -1,0 +1,90 @@
+{
+  "date": "09-19",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1941-german-forces-capture-kyiv",
+    "year": 1941,
+    "title": {
+      "ru": "Немецкие войска заняли Киев",
+      "de": "Deutsche Truppen besetzen Kiew",
+      "en": "German troops occupy Kyiv"
+    },
+    "description": {
+      "ru": "19 сентября 1941 года немецкие войска заняли Киев после крупного окружения советских сил. Вскоре после этого оккупация привела к массовым преступлениям, включая расстрелы в Бабьем Яру.",
+      "de": "Am 19. September 1941 besetzten deutsche Truppen Kiew nach einer grossen Einkesselung sowjetischer Kraefte. Kurz darauf fuehrte die Besatzung zu Massenverbrechen, darunter die Erschiessungen in Babyn Jar.",
+      "en": "On 19 September 1941, German troops occupied Kyiv after a major encirclement of Soviet forces. Soon afterward, the occupation led to mass crimes, including the shootings at Babyn Yar."
+    },
+    "importance": {
+      "ru": "Дата важна для понимания войны на Востоке как войны завоевания, оккупации и массового насилия.",
+      "de": "Das Datum ist wichtig fuer das Verstaendnis des Krieges im Osten als Eroberungs-, Besatzungs- und Vernichtungskrieg.",
+      "en": "The date is important for understanding the war in the East as a war of conquest, occupation and mass violence."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "battle-of-kyiv-1941",
+        "year": 1941,
+        "title": {
+          "ru": "Крупное окружение 1941 года",
+          "de": "Eine grosse Einkesselung von 1941",
+          "en": "A major encirclement in 1941"
+        },
+        "description": {
+          "ru": "Битва за Киев стала одной из крупнейших операций начального этапа германо-советской войны. Для Красной армии поражение было тяжёлым, а для немецкого командования казалось подтверждением успеха блицкрига.",
+          "de": "Die Schlacht um Kiew gehoerte zu den groessten Operationen der Anfangsphase des deutsch-sowjetischen Krieges. Fuer die Rote Armee war die Niederlage schwer, waehrend die deutsche Fuehrung darin eine Bestaetigung des Blitzkriegs sah.",
+          "en": "The Battle of Kyiv was one of the largest operations in the early phase of the German-Soviet war. For the Red Army it was a severe defeat, while the German command saw it as confirmation of blitzkrieg success."
+        },
+        "importance": {
+          "ru": "Так видно, как военные победы 1941 года скрывали будущую катастрофу немецкой стратегии на Востоке.",
+          "de": "So wird sichtbar, wie die militaerischen Siege von 1941 die spaetere Katastrophe der deutschen Oststrategie verdeckten.",
+          "en": "It shows how the military victories of 1941 concealed the later catastrophe of Germany's eastern strategy."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "place-name-memory",
+        "year": 1941,
+        "title": {
+          "ru": "Карта и память",
+          "de": "Karte und Erinnerung",
+          "en": "Map and memory"
+        },
+        "description": {
+          "ru": "На военных картах Киев был важной точкой наступления, но для жителей города это означало начало жестокой оккупации. Одно и то же место на карте может выглядеть как военная цель и как человеческая трагедия.",
+          "de": "Auf militaerischen Karten war Kiew ein wichtiges Angriffsziel, fuer die Bewohner der Stadt bedeutete es jedoch den Beginn einer brutalen Besatzung. Derselbe Ort auf der Karte kann als militaerisches Ziel und als menschliche Tragödie erscheinen.",
+          "en": "On military maps Kyiv was an important objective, but for the city's residents it meant the beginning of brutal occupation. The same place on a map can appear as a military target and as a human tragedy."
+        },
+        "importance": {
+          "ru": "Это важно для нашего календаря с картами: за линиями фронта всегда стоят люди.",
+          "de": "Das ist fuer unseren Kalender mit Karten wichtig: Hinter Frontlinien stehen immer Menschen.",
+          "en": "This matters for our calendar with maps: behind front lines there are always people."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Массовые расстрелы в Бабьем Яру начались 29 сентября 1941 года, через десять дней после занятия Киева.",
+    "de": "Die Massenerschiessungen in Babyn Jar begannen am 29. September 1941, zehn Tage nach der Besetzung Kiews.",
+    "en": "The mass shootings at Babyn Yar began on 29 September 1941, ten days after the occupation of Kyiv."
+  },
+  "sources": [
+    {
+      "label": "United States Holocaust Memorial Museum: Kyiv and Babi Yar",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar"
+    },
+    {
+      "label": "Britannica: Operation Barbarossa",
+      "url": "https://www.britannica.com/event/Operation-Barbarossa"
+    },
+    {
+      "label": "Babyn Yar Holocaust Memorial Center: History",
+      "url": "https://babynyar.org/en/history"
+    }
+  ]
+}

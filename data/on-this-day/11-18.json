@@ -1,0 +1,111 @@
+{
+  "date": "11-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1916-battle-of-the-somme-ends",
+    "year": 1916,
+    "title": {
+      "ru": "Завершилась битва на Сомме",
+      "de": "Die Schlacht an der Somme endet",
+      "en": "The Battle of the Somme ends"
+    },
+    "description": {
+      "ru": "18 ноября 1916 года завершилась битва на Сомме, одно из самых кровопролитных сражений Первой мировой войны. Немецкая армия противостояла британским и французским войскам в долгой позиционной битве.",
+      "de": "Am 18. November 1916 endete die Schlacht an der Somme, eine der blutigsten Schlachten des Ersten Weltkriegs. Die deutsche Armee stand britischen und franzoesischen Truppen in einer langen Stellungsschlacht gegenueber.",
+      "en": "On 18 November 1916, the Battle of the Somme ended, one of the bloodiest battles of the First World War. The German army faced British and French forces in a long battle of positions."
+    },
+    "importance": {
+      "ru": "Сомма стала символом индустриальной войны, огромных потерь и ограниченных территориальных результатов.",
+      "de": "Die Somme wurde zum Symbol des industriellen Krieges, enormer Verluste und begrenzter territorialer Ergebnisse.",
+      "en": "The Somme became a symbol of industrial war, enormous losses and limited territorial gains."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "industrial-war",
+        "year": 1916,
+        "title": {
+          "ru": "Индустриальная война",
+          "de": "Industrieller Krieg",
+          "en": "Industrial war"
+        },
+        "description": {
+          "ru": "Артиллерия, пулемёты, окопы и массовые армии превратили фронт в машину истощения. Для солдат по обе стороны линии фронта битва стала опытом страха, грязи и постоянной опасности.",
+          "de": "Artillerie, Maschinengewehre, Graeben und Massenheere machten die Front zu einer Maschine der Erschoepfung. Fuer Soldaten auf beiden Seiten wurde die Schlacht zu einer Erfahrung von Angst, Schlamm und staendiger Gefahr.",
+          "en": "Artillery, machine guns, trenches and mass armies turned the front into a machine of attrition. For soldiers on both sides, the battle became an experience of fear, mud and constant danger."
+        },
+        "importance": {
+          "ru": "Так видно, почему Первая мировая война изменила представление Европы о войне.",
+          "de": "So wird sichtbar, warum der Erste Weltkrieg Europas Vorstellung vom Krieg veraenderte.",
+          "en": "It shows why the First World War changed Europe's understanding of war."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "tanks-appear",
+        "year": 1916,
+        "title": {
+          "ru": "Первые танки на поле боя",
+          "de": "Erste Panzer auf dem Schlachtfeld",
+          "en": "First tanks on the battlefield"
+        },
+        "description": {
+          "ru": "Во время битвы на Сомме британцы впервые применили танки. Техника была ещё ненадёжной, но появление нового оружия показало, что война быстро меняет инженерные решения.",
+          "de": "Waehrend der Schlacht an der Somme setzten die Briten erstmals Panzer ein. Die Technik war noch unzuverlaessig, doch das neue Waffensystem zeigte, wie schnell der Krieg technische Loesungen veraenderte.",
+          "en": "During the Battle of the Somme, the British used tanks for the first time. The technology was still unreliable, but the new weapon showed how rapidly war changed engineering solutions."
+        },
+        "importance": {
+          "ru": "Это связывает военную историю с историей техники, пусть и в очень мрачном контексте.",
+          "de": "Das verbindet Militärgeschichte mit Technikgeschichte, wenn auch in einem sehr duesteren Zusammenhang.",
+          "en": "It links military history with the history of technology, though in a very dark context."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "months-for-kilometers",
+        "year": 1916,
+        "title": {
+          "ru": "Месяцы за километры",
+          "de": "Monate fuer Kilometer",
+          "en": "Months for kilometers"
+        },
+        "description": {
+          "ru": "Битва длилась больше четырёх месяцев, но линия фронта изменилась сравнительно мало. Это стало одним из самых горьких символов позиционной войны.",
+          "de": "Die Schlacht dauerte mehr als vier Monate, doch die Frontlinie verschob sich vergleichsweise wenig. Das wurde zu einem der bittersten Symbole des Stellungskrieges.",
+          "en": "The battle lasted more than four months, but the front line moved comparatively little. This became one of the bitterest symbols of trench warfare."
+        },
+        "importance": {
+          "ru": "Иногда карта после битвы почти не меняется, а человеческие потери оказываются чудовищными.",
+          "de": "Manchmal aendert sich die Karte nach einer Schlacht kaum, waehrend die menschlichen Verluste ungeheuer sind.",
+          "en": "Sometimes the map after a battle changes very little, while human losses are enormous."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "На Сомме британская армия впервые в истории применила танки в бою 15 сентября 1916 года.",
+    "de": "An der Somme setzte die britische Armee am 15. September 1916 erstmals Panzer im Kampf ein.",
+    "en": "At the Somme, the British Army first used tanks in combat on 15 September 1916."
+  },
+  "sources": [
+    {
+      "label": "Imperial War Museums: What was the Battle of the Somme?",
+      "url": "https://www.iwm.org.uk/history/what-was-the-battle-of-the-somme"
+    },
+    {
+      "label": "Britannica: First Battle of the Somme",
+      "url": "https://www.britannica.com/event/First-Battle-of-the-Somme"
+    },
+    {
+      "label": "1914-1918-online: Somme, Battles of",
+      "url": "https://encyclopedia.1914-1918-online.net/article/somme_battles_of_the/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "09-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1938-munich-agreement",
+    "year": 1938,
+    "title": {
+      "ru": "Началась Мюнхенская конференция",
+      "de": "Die Muenchner Konferenz beginnt",
+      "en": "The Munich Conference begins"
+    },
+    "description": {
+      "ru": "29 сентября 1938 года в Мюнхене началась конференция лидеров Германии, Италии, Великобритании и Франции. Итоговое соглашение позволило нацистской Германии занять Судетскую область Чехословакии.",
+      "de": "Am 29. September 1938 begann in Muenchen die Konferenz der Staats- und Regierungschefs Deutschlands, Italiens, Grossbritanniens und Frankreichs. Das anschliessende Abkommen erlaubte dem nationalsozialistischen Deutschland die Besetzung des Sudetenlandes.",
+      "en": "On 29 September 1938, a conference of the leaders of Germany, Italy, Britain and France began in Munich. The agreement that followed allowed Nazi Germany to occupy the Sudetenland of Czechoslovakia."
+    },
+    "importance": {
+      "ru": "Мюнхенское соглашение стало символом политики умиротворения агрессора и шагом к Второй мировой войне.",
+      "de": "Das Muenchner Abkommen wurde zum Symbol der Appeasement-Politik gegenueber einem Aggressor und zu einem Schritt in Richtung Zweiter Weltkrieg.",
+      "en": "The Munich Agreement became a symbol of appeasement toward an aggressor and a step toward the Second World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "sudetenland",
+        "year": 1938,
+        "title": {
+          "ru": "Судетская область без Чехословакии за столом",
+          "de": "Das Sudetenland ohne die Tschechoslowakei am Tisch",
+          "en": "The Sudetenland without Czechoslovakia at the table"
+        },
+        "description": {
+          "ru": "Чехословакия не участвовала в главных переговорах, хотя решалась судьба её территории. Это стало одной из причин, почему соглашение воспринимают как пример несправедливой дипломатии.",
+          "de": "Die Tschechoslowakei nahm an den entscheidenden Verhandlungen nicht teil, obwohl ueber ihr Gebiet entschieden wurde. Deshalb gilt das Abkommen als Beispiel ungerechter Diplomatie.",
+          "en": "Czechoslovakia did not take part in the decisive talks, although its territory was being decided. That is one reason the agreement is seen as an example of unjust diplomacy."
+        },
+        "importance": {
+          "ru": "Так видно, почему решения о границах без участия затронутой страны почти всегда опасны.",
+          "de": "So wird deutlich, warum Entscheidungen ueber Grenzen ohne das betroffene Land fast immer gefaehrlich sind.",
+          "en": "It shows why decisions about borders made without the affected country are almost always dangerous."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "peace-for-our-time",
+        "year": 1938,
+        "title": {
+          "ru": "«Мир для нашего времени»",
+          "de": "Frieden fuer unsere Zeit",
+          "en": "Peace for our time"
+        },
+        "description": {
+          "ru": "После Мюнхена британский премьер Невилл Чемберлен говорил о мире, но уже через год началась Вторая мировая война. Поэтому фраза стала историческим предупреждением о цене самообмана.",
+          "de": "Nach Muenchen sprach der britische Premierminister Neville Chamberlain vom Frieden, doch schon ein Jahr spaeter begann der Zweite Weltkrieg. Der Satz wurde deshalb zu einer historischen Warnung vor Selbsttaeuschung.",
+          "en": "After Munich, British Prime Minister Neville Chamberlain spoke of peace, but the Second World War began only a year later. The phrase therefore became a historical warning about self-deception."
+        },
+        "importance": {
+          "ru": "Иногда самая известная фраза эпохи становится известной именно потому, что оказалась ошибочной.",
+          "de": "Manchmal wird der bekannteste Satz einer Epoche gerade deshalb beruehmt, weil er sich als falsch erwies.",
+          "en": "Sometimes the most famous phrase of an era becomes famous precisely because it turned out to be wrong."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Соглашение было подписано ночью с 29 на 30 сентября 1938 года.",
+    "de": "Das Abkommen wurde in der Nacht vom 29. auf den 30. September 1938 unterzeichnet.",
+    "en": "The agreement was signed during the night of 29 to 30 September 1938."
+  },
+  "sources": [
+    {
+      "label": "United States Holocaust Memorial Museum: Munich Agreement",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/munich-agreement"
+    },
+    {
+      "label": "Britannica: Munich Agreement",
+      "url": "https://www.britannica.com/event/Munich-Agreement"
+    },
+    {
+      "label": "National Archives: The Munich Agreement",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/chamberlain-and-hitler/source-3/"
+    }
+  ]
+}
