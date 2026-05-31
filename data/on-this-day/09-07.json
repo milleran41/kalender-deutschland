@@ -1,0 +1,65 @@
+{
+  "date": "09-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-first-bundestag-sitting",
+    "year": 1949,
+    "title": {
+      "ru": "Собрался первый Бундестаг",
+      "de": "Der erste Bundestag tritt zusammen",
+      "en": "The first Bundestag convenes"
+    },
+    "description": {
+      "ru": "7 сентября 1949 года в Бонне впервые собрался Бундестаг Федеративной Республики Германия. Это был важный шаг в становлении западногерманской демократии.",
+      "de": "Am 7. September 1949 trat in Bonn erstmals der Bundestag der Bundesrepublik Deutschland zusammen. Das war ein wichtiger Schritt beim Aufbau der westdeutschen Demokratie.",
+      "en": "On 7 September 1949, the Bundestag of the Federal Republic of Germany met for the first time in Bonn. It was an important step in building West German democracy."
+    },
+    "importance": {
+      "ru": "Новый парламент стал центральным институтом ФРГ.",
+      "de": "Das neue Parlament wurde zur zentralen Institution der Bundesrepublik.",
+      "en": "The new parliament became the central institution of the Federal Republic."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bonn-parliament",
+        "year": 1949,
+        "title": {
+          "ru": "Бонн как парламентский город",
+          "de": "Bonn als Parlamentsstadt",
+          "en": "Bonn as a parliamentary city"
+        },
+        "description": {
+          "ru": "После войны Бонн стал временным политическим центром ФРГ. Это подчёркивало, что разделение Германии не считалось окончательным.",
+          "de": "Nach dem Krieg wurde Bonn zum provisorischen politischen Zentrum der Bundesrepublik. Das zeigte, dass die deutsche Teilung nicht als endgueltig galt.",
+          "en": "After the war, Bonn became the provisional political center of West Germany. This showed that German division was not considered final."
+        },
+        "importance": {
+          "ru": "Дата хорошо дополняет 23 мая, когда был обнародован Основной закон.",
+          "de": "Das Datum ergaenzt den 23. Mai, an dem das Grundgesetz verkuendet wurde.",
+          "en": "The date pairs well with 23 May, when the Basic Law was promulgated."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бундестаг вернулся из Бонна в Берлин после воссоединения, но многие федеральные учреждения остались в Бонне.",
+    "de": "Der Bundestag zog nach der Wiedervereinigung von Bonn nach Berlin, doch viele Bundesbehoerden blieben in Bonn.",
+    "en": "After reunification, the Bundestag moved from Bonn to Berlin, but many federal institutions remained in Bonn."
+  },
+  "sources": [
+    {
+      "label": "Deutscher Bundestag: first Bundestag",
+      "url": "https://www.bundestag.de/parlament/geschichte/parlamentarismus/1949"
+    },
+    {
+      "label": "Deutscher Bundestag: history",
+      "url": "https://www.bundestag.de/en/parliament/history"
+    }
+  ]
+}

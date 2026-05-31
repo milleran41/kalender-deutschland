@@ -1,0 +1,65 @@
+{
+  "date": "10-18",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1817-wartburg-festival",
+    "year": 1817,
+    "title": {
+      "ru": "Вартбургский фестиваль",
+      "de": "Wartburgfest",
+      "en": "Wartburg Festival"
+    },
+    "description": {
+      "ru": "18 октября 1817 года студенты и либеральные участники собрались у замка Вартбург в Тюрингии. Они выступали за свободы, реформы и немецкое национальное единство.",
+      "de": "Am 18. Oktober 1817 versammelten sich Studenten und liberale Teilnehmer auf der Wartburg in Thueringen. Sie forderten Freiheiten, Reformen und deutsche nationale Einheit.",
+      "en": "On 18 October 1817, students and liberal participants gathered at Wartburg Castle in Thuringia. They called for freedoms, reforms and German national unity."
+    },
+    "importance": {
+      "ru": "Это одно из ранних событий немецкого национального и либерального движения.",
+      "de": "Das ist eines der fruehen Ereignisse der deutschen nationalen und liberalen Bewegung.",
+      "en": "It is one of the early events of the German national and liberal movement."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "wartburg-symbolism",
+        "year": 1817,
+        "title": {
+          "ru": "Замок как политический символ",
+          "de": "Die Burg als politisches Symbol",
+          "en": "The castle as a political symbol"
+        },
+        "description": {
+          "ru": "Вартбург уже был связан с памятью о Мартине Лютере. Поэтому место хорошо подходило для события, где история, религия и политика переплетались.",
+          "de": "Die Wartburg war bereits mit der Erinnerung an Martin Luther verbunden. Deshalb passte der Ort zu einem Ereignis, in dem Geschichte, Religion und Politik zusammenkamen.",
+          "en": "Wartburg Castle was already linked with the memory of Martin Luther. That made it a powerful setting for an event where history, religion and politics met."
+        },
+        "importance": {
+          "ru": "Так география Германии превращается в карту символов.",
+          "de": "So wird Deutschlands Geografie zu einer Karte von Symbolen.",
+          "en": "Germany's geography becomes a map of symbols."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Чёрно-красно-золотые цвета позднее стали важным символом демократического и национального движения.",
+    "de": "Schwarz-Rot-Gold wurde spaeter zu einem wichtigen Symbol der demokratischen und nationalen Bewegung.",
+    "en": "Black, red and gold later became an important symbol of the democratic and national movement."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Wartburg Festival",
+      "url": "https://www.britannica.com/event/Wartburg-Festival"
+    },
+    {
+      "label": "Wartburg Castle: Luther and history",
+      "url": "https://www.wartburg.de/en/"
+    }
+  ]
+}

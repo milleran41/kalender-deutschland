@@ -1,0 +1,65 @@
+{
+  "date": "04-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-hitler-suicide",
+    "year": 1945,
+    "title": {
+      "ru": "Гитлер покончил с собой в Берлине",
+      "de": "Hitler begeht in Berlin Selbstmord",
+      "en": "Hitler dies by suicide in Berlin"
+    },
+    "description": {
+      "ru": "30 апреля 1945 года Адольф Гитлер покончил с собой в бункере рейхсканцелярии. Берлин уже был окружён и разрушался в последние дни войны.",
+      "de": "Am 30. April 1945 beging Adolf Hitler im Bunker der Reichskanzlei Selbstmord. Berlin war bereits eingekesselt und wurde in den letzten Kriegstagen zerstoert.",
+      "en": "On 30 April 1945, Adolf Hitler died by suicide in the bunker of the Reich Chancellery. Berlin was already encircled and being destroyed in the final days of the war."
+    },
+    "importance": {
+      "ru": "Дата стала одним из последних актов краха нацистской диктатуры.",
+      "de": "Das Datum wurde zu einem der letzten Akte des Zusammenbruchs der NS-Diktatur.",
+      "en": "The date became one of the final acts in the collapse of the Nazi dictatorship."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "battle-of-berlin-final-days",
+        "year": 1945,
+        "title": {
+          "ru": "Последние дни битвы за Берлин",
+          "de": "Die letzten Tage der Schlacht um Berlin",
+          "en": "The final days of the Battle of Berlin"
+        },
+        "description": {
+          "ru": "В конце апреля город был ареной тяжёлых боёв. Через несколько дней Берлин капитулировал, а война в Европе закончилась 8 мая.",
+          "de": "Ende April war die Stadt Schauplatz schwerer Kaempfe. Wenige Tage spaeter kapitulierte Berlin, und der Krieg in Europa endete am 8. Mai.",
+          "en": "At the end of April, the city was the scene of heavy fighting. A few days later Berlin capitulated, and the war in Europe ended on 8 May."
+        },
+        "importance": {
+          "ru": "Это помогает увидеть конец диктатуры не как один момент, а как разрушительный финал войны.",
+          "de": "Das hilft, das Ende der Diktatur nicht als einen Moment, sondern als zerstoererisches Kriegsfinale zu sehen.",
+          "en": "It helps show the end of dictatorship not as one moment but as the destructive finale of war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бункер находился в центре Берлина, рядом с бывшей рейхсканцелярией.",
+    "de": "Der Bunker lag im Zentrum Berlins, nahe der ehemaligen Reichskanzlei.",
+    "en": "The bunker was in central Berlin, near the former Reich Chancellery."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Adolf Hitler",
+      "url": "https://www.britannica.com/biography/Adolf-Hitler/World-War-II"
+    },
+    {
+      "label": "History.com: Hitler dies by suicide",
+      "url": "https://www.history.com/this-day-in-history/april-30/adolf-hitler-commits-suicide"
+    }
+  ]
+}

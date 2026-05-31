@@ -1,0 +1,65 @@
+{
+  "date": "09-05",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1972-munich-massacre",
+    "year": 1972,
+    "title": {
+      "ru": "Теракт на Олимпиаде в Мюнхене",
+      "de": "Das Attentat bei den Olympischen Spielen in Muenchen",
+      "en": "The attack at the Munich Olympic Games"
+    },
+    "description": {
+      "ru": "5 сентября 1972 года палестинская группа «Чёрный сентябрь» захватила израильских спортсменов в Олимпийской деревне. В результате погибли 11 членов израильской команды и немецкий полицейский.",
+      "de": "Am 5. September 1972 nahm die palaestinensische Gruppe Schwarzer September israelische Sportler im Olympischen Dorf als Geiseln. Am Ende starben elf Mitglieder der israelischen Mannschaft und ein deutscher Polizist.",
+      "en": "On 5 September 1972, the Palestinian group Black September took Israeli athletes hostage in the Olympic Village. Eleven members of the Israeli team and a German police officer were killed."
+    },
+    "importance": {
+      "ru": "Событие навсегда изменило представления о безопасности крупных спортивных мероприятий.",
+      "de": "Das Ereignis veraenderte dauerhaft die Sicherheitsvorstellungen fuer grosse Sportveranstaltungen.",
+      "en": "The event permanently changed ideas about security at major sporting events."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "munich-1972-shadow",
+        "year": 1972,
+        "title": {
+          "ru": "Тень над «весёлыми играми»",
+          "de": "Ein Schatten ueber den heiteren Spielen",
+          "en": "A shadow over the cheerful Games"
+        },
+        "description": {
+          "ru": "Организаторы хотели создать открытую и дружелюбную атмосферу. После теракта этот образ был разрушен.",
+          "de": "Die Organisatoren wollten eine offene und freundliche Atmosphaere schaffen. Nach dem Attentat war dieses Bild zerstoert.",
+          "en": "The organizers wanted an open and friendly atmosphere. After the attack, that image was shattered."
+        },
+        "importance": {
+          "ru": "Дата показывает, как спорт может стать частью мировой политики и насилия.",
+          "de": "Das Datum zeigt, wie Sport Teil von Weltpolitik und Gewalt werden kann.",
+          "en": "The date shows how sport can become part of world politics and violence."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Мюнхенском Олимпийском парке сегодня есть место памяти жертв теракта.",
+    "de": "Im Muenchner Olympiapark gibt es heute einen Erinnerungsort fuer die Opfer des Attentats.",
+    "en": "Munich Olympic Park now includes a memorial site for the victims of the attack."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Munich massacre",
+      "url": "https://www.britannica.com/event/Munich-Massacre"
+    },
+    {
+      "label": "Olympics: Munich 1972 attack",
+      "url": "https://olympics.com/en/news/munich-1972-olympics-terror-attack-israeli-athletes-memorial"
+    }
+  ]
+}

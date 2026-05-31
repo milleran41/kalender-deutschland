@@ -1,0 +1,65 @@
+{
+  "date": "07-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-potsdam-conference-begins",
+    "year": 1945,
+    "title": {
+      "ru": "Началась Потсдамская конференция",
+      "de": "Die Potsdamer Konferenz beginnt",
+      "en": "The Potsdam Conference begins"
+    },
+    "description": {
+      "ru": "17 июля 1945 года лидеры СССР, США и Великобритании собрались в Потсдаме. Они обсуждали послевоенное устройство Германии и Европы.",
+      "de": "Am 17. Juli 1945 trafen sich die Fuehrer der Sowjetunion, der USA und Grossbritanniens in Potsdam. Sie berieten ueber die Nachkriegsordnung Deutschlands und Europas.",
+      "en": "On 17 July 1945, the leaders of the Soviet Union, the United States and Britain met in Potsdam. They discussed the postwar order of Germany and Europe."
+    },
+    "importance": {
+      "ru": "Решения конференции повлияли на оккупацию, границы и дальнейшее разделение Германии.",
+      "de": "Die Beschluesse beeinflussten Besatzung, Grenzen und die spaetere Teilung Deutschlands.",
+      "en": "The conference decisions shaped occupation, borders and Germany's later division."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "cecilienhof",
+        "year": 1945,
+        "title": {
+          "ru": "Дворец Цецилиенхоф",
+          "de": "Schloss Cecilienhof",
+          "en": "Cecilienhof Palace"
+        },
+        "description": {
+          "ru": "Конференция проходила во дворце Цецилиенхоф в Потсдаме. Сегодня это одно из важных мест памяти о послевоенной Европе.",
+          "de": "Die Konferenz fand im Schloss Cecilienhof in Potsdam statt. Heute ist es ein wichtiger Erinnerungsort der Nachkriegsordnung Europas.",
+          "en": "The conference took place at Cecilienhof Palace in Potsdam. Today it is an important site of memory for postwar Europe."
+        },
+        "importance": {
+          "ru": "Карта Германии после 1945 года во многом начинается именно здесь.",
+          "de": "Die Karte Deutschlands nach 1945 beginnt in vielem genau hier.",
+          "en": "In many ways, the map of Germany after 1945 begins here."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Потсдам сегодня находится в земле Бранденбург, рядом с Берлином.",
+    "de": "Potsdam liegt heute im Bundesland Brandenburg, nahe Berlin.",
+    "en": "Potsdam is now in the state of Brandenburg, near Berlin."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Potsdam Conference",
+      "url": "https://www.britannica.com/event/Potsdam-Conference"
+    },
+    {
+      "label": "Cecilienhof Palace",
+      "url": "https://www.spsg.de/en/palaces-gardens/object/cecilienhof-country-house/"
+    }
+  ]
+}

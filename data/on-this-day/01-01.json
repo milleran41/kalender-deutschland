@@ -1,0 +1,65 @@
+{
+  "date": "01-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "2002-euro-cash-introduced",
+    "year": 2002,
+    "title": {
+      "ru": "Евро появился в наличном обращении",
+      "de": "Euro-Bargeld wird eingefuehrt",
+      "en": "Euro cash is introduced"
+    },
+    "description": {
+      "ru": "1 января 2002 года в Германии и других странах еврозоны появились банкноты и монеты евро. Немецкая марка постепенно вышла из повседневного обращения.",
+      "de": "Am 1. Januar 2002 wurden in Deutschland und anderen Laendern des Euroraums Euro-Banknoten und -Muenzen eingefuehrt. Die D-Mark verschwand schrittweise aus dem Alltag.",
+      "en": "On 1 January 2002, euro banknotes and coins were introduced in Germany and other euro-area countries. The Deutsche Mark gradually disappeared from everyday use."
+    },
+    "importance": {
+      "ru": "Это был очень заметный бытовой символ европейской интеграции.",
+      "de": "Das war ein sehr sichtbares Alltagssymbol der europaeischen Integration.",
+      "en": "It was a very visible everyday symbol of European integration."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "deutsche-mark-memory",
+        "year": 2002,
+        "title": {
+          "ru": "Прощание с немецкой маркой",
+          "de": "Abschied von der D-Mark",
+          "en": "Farewell to the Deutsche Mark"
+        },
+        "description": {
+          "ru": "Для многих жителей Германии марка была символом послевоенного восстановления и стабильности. Поэтому переход на евро был не только финансовым, но и эмоциональным событием.",
+          "de": "Fuer viele Menschen in Deutschland war die D-Mark ein Symbol fuer Wiederaufbau und Stabilitaet. Der Wechsel zum Euro war deshalb nicht nur finanziell, sondern auch emotional.",
+          "en": "For many people in Germany, the Deutsche Mark symbolized postwar recovery and stability. The switch to the euro was therefore emotional as well as financial."
+        },
+        "importance": {
+          "ru": "День показывает, как большая политика входит в кошелёк каждого человека.",
+          "de": "Der Tag zeigt, wie grosse Politik in den Geldbeutel jedes Menschen gelangt.",
+          "en": "The day shows how big politics enters everyone's wallet."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Немецкие марки до сих пор можно обменять в Бундесбанке.",
+    "de": "D-Mark-Bestaende koennen bis heute bei der Bundesbank umgetauscht werden.",
+    "en": "Deutsche Mark cash can still be exchanged at the Bundesbank."
+  },
+  "sources": [
+    {
+      "label": "European Central Bank: euro cash changeover",
+      "url": "https://www.ecb.europa.eu/euro/changeover/html/index.en.html"
+    },
+    {
+      "label": "Deutsche Bundesbank: exchange D-Mark",
+      "url": "https://www.bundesbank.de/en/tasks/cash-management/dm-banknotes-and-coins/exchanging-dm-for-euro-616928"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "08-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1972-munich-olympics-open",
+    "year": 1972,
+    "title": {
+      "ru": "Открылись Олимпийские игры в Мюнхене",
+      "de": "Die Olympischen Spiele in Muenchen werden eroeffnet",
+      "en": "The Munich Olympic Games open"
+    },
+    "description": {
+      "ru": "26 августа 1972 года в Мюнхене открылись летние Олимпийские игры. ФРГ хотела показать миру современную, мирную и демократическую Германию.",
+      "de": "Am 26. August 1972 wurden in Muenchen die Olympischen Sommerspiele eroeffnet. Die Bundesrepublik wollte der Welt ein modernes, friedliches und demokratisches Deutschland zeigen.",
+      "en": "On 26 August 1972, the Summer Olympic Games opened in Munich. West Germany wanted to show the world a modern, peaceful and democratic Germany."
+    },
+    "importance": {
+      "ru": "Игры стали важным моментом послевоенного образа Германии, но позже были омрачены терактом 5 сентября.",
+      "de": "Die Spiele waren ein wichtiger Moment fuer das Nachkriegsbild Deutschlands, wurden aber spaeter durch das Attentat vom 5. September ueberschattet.",
+      "en": "The Games were an important moment in Germany's postwar image, but were later overshadowed by the attack of 5 September."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "olympic-park-munich",
+        "year": 1972,
+        "title": {
+          "ru": "Олимпийский парк",
+          "de": "Olympiapark",
+          "en": "Olympic Park"
+        },
+        "description": {
+          "ru": "Олимпийский парк и стадион стали заметной частью архитектуры Мюнхена. Их лёгкие конструкции должны были отличаться от тяжёлой символики прошлого.",
+          "de": "Olympiapark und Stadion wurden zu markanten Teilen der Muenchner Architektur. Ihre leichten Formen sollten sich von schwerer Symbolik der Vergangenheit unterscheiden.",
+          "en": "The Olympic Park and stadium became striking parts of Munich's architecture. Their light forms were meant to contrast with the heavy symbolism of the past."
+        },
+        "importance": {
+          "ru": "Спорт здесь связан с дизайном, политикой памяти и образом страны.",
+          "de": "Sport verbindet sich hier mit Design, Erinnerungspolitik und dem Bild des Landes.",
+          "en": "Here sport is connected with design, memory politics and the country's image."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Мюнхенский Олимпийский парк до сих пор используется для концертов, спорта и городских событий.",
+    "de": "Der Muenchner Olympiapark wird bis heute fuer Konzerte, Sport und Stadtveranstaltungen genutzt.",
+    "en": "Munich's Olympic Park is still used for concerts, sports and city events."
+  },
+  "sources": [
+    {
+      "label": "Olympics: Munich 1972",
+      "url": "https://olympics.com/en/olympic-games/munich-1972"
+    },
+    {
+      "label": "Olympiapark Munich: History",
+      "url": "https://www.olympiapark.de/en/the-olympic-park/history"
+    }
+  ]
+}

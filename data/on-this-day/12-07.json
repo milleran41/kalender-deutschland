@@ -1,0 +1,65 @@
+{
+  "date": "12-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1970-warsaw-treaty-brandt",
+    "year": 1970,
+    "title": {
+      "ru": "Варшавский договор и жест Вилли Брандта",
+      "de": "Warschauer Vertrag und Brandts Kniefall",
+      "en": "Treaty of Warsaw and Brandt's kneeling"
+    },
+    "description": {
+      "ru": "7 декабря 1970 года ФРГ и Польша подписали Варшавский договор. В тот же день канцлер Вилли Брандт встал на колени у памятника героям Варшавского гетто.",
+      "de": "Am 7. Dezember 1970 unterzeichneten die Bundesrepublik und Polen den Warschauer Vertrag. Am selben Tag kniete Bundeskanzler Willy Brandt am Denkmal fuer die Helden des Warschauer Ghettos nieder.",
+      "en": "On 7 December 1970, West Germany and Poland signed the Treaty of Warsaw. On the same day, Chancellor Willy Brandt knelt at the monument to the heroes of the Warsaw Ghetto."
+    },
+    "importance": {
+      "ru": "Дата стала символом новой восточной политики, признания границ и памяти о преступлениях.",
+      "de": "Das Datum wurde zum Symbol der Neuen Ostpolitik, der Anerkennung von Grenzen und der Erinnerung an Verbrechen.",
+      "en": "The date became a symbol of the new Ostpolitik, recognition of borders and remembrance of crimes."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "brandt-kneefall",
+        "year": 1970,
+        "title": {
+          "ru": "Один жест вместо длинной речи",
+          "de": "Eine Geste statt einer langen Rede",
+          "en": "One gesture instead of a long speech"
+        },
+        "description": {
+          "ru": "Брандт не планировал заранее этот жест. Именно поэтому он был воспринят как особенно сильный знак покаяния.",
+          "de": "Brandt hatte diese Geste nicht genau geplant. Gerade deshalb wurde sie als besonders starkes Zeichen der Reue wahrgenommen.",
+          "en": "Brandt had not precisely planned the gesture. That made it seem especially powerful as a sign of remorse."
+        },
+        "importance": {
+          "ru": "Иногда история запоминает не документ, а движение человека.",
+          "de": "Manchmal erinnert Geschichte nicht nur ein Dokument, sondern die Bewegung eines Menschen.",
+          "en": "Sometimes history remembers not only a document but a human movement."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вилли Брандт получил Нобелевскую премию мира в 1971 году.",
+    "de": "Willy Brandt erhielt 1971 den Friedensnobelpreis.",
+    "en": "Willy Brandt received the Nobel Peace Prize in 1971."
+  },
+  "sources": [
+    {
+      "label": "Willy Brandt Foundation: Warsaw genuflection",
+      "url": "https://willy-brandt.de/en/willy-brandt/biography/warsaw-genuflection/"
+    },
+    {
+      "label": "Nobel Prize: Willy Brandt",
+      "url": "https://www.nobelprize.org/prizes/peace/1971/brandt/biographical/"
+    }
+  ]
+}

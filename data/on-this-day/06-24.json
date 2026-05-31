@@ -1,0 +1,65 @@
+{
+  "date": "06-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1948-berlin-blockade-begins",
+    "year": 1948,
+    "title": {
+      "ru": "Началась блокада Западного Берлина",
+      "de": "Die Blockade West-Berlins beginnt",
+      "en": "The blockade of West Berlin begins"
+    },
+    "description": {
+      "ru": "24 июня 1948 года Советский Союз перекрыл наземные пути сообщения западных секторов Берлина с западными зонами оккупации. Это стало одним из первых крупных кризисов холодной войны.",
+      "de": "Am 24. Juni 1948 sperrte die Sowjetunion die Landwege zwischen den Westsektoren Berlins und den westlichen Besatzungszonen. Das wurde eine der ersten grossen Krisen des Kalten Krieges.",
+      "en": "On 24 June 1948, the Soviet Union blocked land routes between West Berlin and the western occupation zones. It became one of the first major crises of the Cold War."
+    },
+    "importance": {
+      "ru": "Ответом стал Берлинский воздушный мост, начавшийся через два дня.",
+      "de": "Die Antwort war die Berliner Luftbruecke, die zwei Tage spaeter begann.",
+      "en": "The response was the Berlin Airlift, which began two days later."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "berlin-cold-war-frontline",
+        "year": 1948,
+        "title": {
+          "ru": "Берлин стал линией фронта холодной войны",
+          "de": "Berlin wird zur Frontlinie des Kalten Krieges",
+          "en": "Berlin becomes a Cold War front line"
+        },
+        "description": {
+          "ru": "Город находился внутри советской зоны, но имел западные секторы. Это делало Берлин особенно уязвимым и политически важным.",
+          "de": "Die Stadt lag in der sowjetischen Zone, hatte aber westliche Sektoren. Das machte Berlin besonders verwundbar und politisch wichtig.",
+          "en": "The city lay inside the Soviet zone but contained western sectors. This made Berlin especially vulnerable and politically important."
+        },
+        "importance": {
+          "ru": "История Берлина после войны объясняет многое в карте разделённой Германии.",
+          "de": "Die Nachkriegsgeschichte Berlins erklaert vieles auf der Karte des geteilten Deutschlands.",
+          "en": "Berlin's postwar history explains much about the map of divided Germany."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Блокада продолжалась почти год и закончилась в мае 1949 года.",
+    "de": "Die Blockade dauerte fast ein Jahr und endete im Mai 1949.",
+    "en": "The blockade lasted almost a year and ended in May 1949."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Berlin blockade",
+      "url": "https://www.britannica.com/event/Berlin-blockade"
+    },
+    {
+      "label": "NATO: Berlin Airlift",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_156163.htm"
+    }
+  ]
+}

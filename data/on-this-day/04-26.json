@@ -1,0 +1,65 @@
+{
+  "date": "04-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1986-chernobyl-affects-germany",
+    "year": 1986,
+    "title": {
+      "ru": "Авария в Чернобыле затронула Германию",
+      "de": "Der Reaktorunfall von Tschernobyl betrifft Deutschland",
+      "en": "The Chernobyl accident affects Germany"
+    },
+    "description": {
+      "ru": "26 апреля 1986 года произошла авария на Чернобыльской АЭС. Радиоактивные выпадения достигли многих регионов Европы, включая Германию.",
+      "de": "Am 26. April 1986 kam es zum Reaktorunfall von Tschernobyl. Radioaktiver Niederschlag erreichte viele Regionen Europas, auch Deutschland.",
+      "en": "On 26 April 1986, the Chernobyl nuclear accident occurred. Radioactive fallout reached many parts of Europe, including Germany."
+    },
+    "importance": {
+      "ru": "Событие сильно повлияло на отношение немцев к атомной энергетике, экологии и безопасности.",
+      "de": "Das Ereignis praegte die deutsche Debatte ueber Kernenergie, Umwelt und Sicherheit stark.",
+      "en": "The event strongly shaped German debates about nuclear power, environment and safety."
+    }
+  },
+  "categories": {
+    "weather": [
+      {
+        "id": "chernobyl-fallout-food",
+        "year": 1986,
+        "title": {
+          "ru": "Опасность пришла с дождём и пылью",
+          "de": "Gefahr kam mit Regen und Staub",
+          "en": "Danger came with rain and dust"
+        },
+        "description": {
+          "ru": "Уровень загрязнения зависел от ветра и дождей. В некоторых местах долго проверяли грибы, дичь, молоко и продукты питания.",
+          "de": "Die Belastung hing von Wind und Regen ab. In manchen Regionen wurden Pilze, Wild, Milch und Lebensmittel lange kontrolliert.",
+          "en": "Contamination depended on wind and rain. In some regions, mushrooms, game, milk and food were checked for a long time."
+        },
+        "importance": {
+          "ru": "Это пример того, как техногенная авария превращается в природную и бытовую проблему.",
+          "de": "Das ist ein Beispiel dafuer, wie ein technischer Unfall zu einem Natur- und Alltagsproblem wird.",
+          "en": "It is an example of how a technical accident becomes an environmental and everyday problem."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Германии после Чернобыля усилилось антиядерное движение.",
+    "de": "In Deutschland wurde nach Tschernobyl die Anti-Atom-Bewegung staerker.",
+    "en": "In Germany, the anti-nuclear movement grew stronger after Chernobyl."
+  },
+  "sources": [
+    {
+      "label": "Federal Office for Radiation Protection: Chernobyl",
+      "url": "https://www.bfs.de/EN/topics/ion/accident-management/emergency/chernobyl/chernobyl_node.html"
+    },
+    {
+      "label": "IAEA: Chernobyl accident",
+      "url": "https://www.iaea.org/newscenter/focus/chernobyl"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "08-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1962-peter-fechter-killed",
+    "year": 1962,
+    "title": {
+      "ru": "У Берлинской стены погиб Петер Фехтер",
+      "de": "Peter Fechter stirbt an der Berliner Mauer",
+      "en": "Peter Fechter dies at the Berlin Wall"
+    },
+    "description": {
+      "ru": "17 августа 1962 года 18-летний Петер Фехтер был смертельно ранен при попытке бежать из Восточного Берлина. Он стал одной из самых известных жертв Берлинской стены.",
+      "de": "Am 17. August 1962 wurde der 18-jaehrige Peter Fechter bei einem Fluchtversuch aus Ost-Berlin tödlich verletzt. Er wurde zu einem der bekanntesten Opfer der Berliner Mauer.",
+      "en": "On 17 August 1962, 18-year-old Peter Fechter was fatally wounded while trying to escape from East Berlin. He became one of the best-known victims of the Berlin Wall."
+    },
+    "importance": {
+      "ru": "Его смерть показала миру человеческую цену разделения Германии.",
+      "de": "Sein Tod zeigte der Welt den menschlichen Preis der deutschen Teilung.",
+      "en": "His death showed the world the human cost of German division."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "wall-victims",
+        "year": 1962,
+        "title": {
+          "ru": "Жертвы стены",
+          "de": "Opfer der Mauer",
+          "en": "Victims of the Wall"
+        },
+        "description": {
+          "ru": "Берлинская стена была не только бетонной границей, но и системой запретов, охраны и риска смерти. Истории отдельных людей делают это особенно ясно.",
+          "de": "Die Berliner Mauer war nicht nur eine Betongrenze, sondern ein System von Verboten, Bewachung und Todesgefahr. Einzelne Biografien machen das besonders deutlich.",
+          "en": "The Berlin Wall was not only a concrete border but a system of bans, guards and deadly risk. Individual stories make that especially clear."
+        },
+        "importance": {
+          "ru": "История Фехтера помогает понять, почему падение стены в 1989 году воспринималось так эмоционально.",
+          "de": "Fechters Geschichte hilft zu verstehen, warum der Mauerfall 1989 so emotional erlebt wurde.",
+          "en": "Fechter's story helps explain why the fall of the Wall in 1989 was felt so emotionally."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Петер Фехтер умер у стены на глазах у людей по обе стороны границы.",
+    "de": "Peter Fechter starb an der Mauer vor den Augen von Menschen auf beiden Seiten der Grenze.",
+    "en": "Peter Fechter died at the Wall in view of people on both sides of the border."
+  },
+  "sources": [
+    {
+      "label": "Berlin Wall Foundation: Peter Fechter",
+      "url": "https://www.berliner-mauer-gedenkstaette.de/en/victims-991,506,2.html"
+    },
+    {
+      "label": "Chronik der Mauer: Peter Fechter",
+      "url": "https://www.chronik-der-mauer.de/todesopfer/171358/fechter-peter"
+    }
+  ]
+}

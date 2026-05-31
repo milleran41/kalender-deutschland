@@ -1,0 +1,65 @@
+{
+  "date": "10-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1810-oktoberfest-origin",
+    "year": 1810,
+    "title": {
+      "ru": "Свадьба, с которой связывают начало Октоберфеста",
+      "de": "Die Hochzeit, mit der das Oktoberfest verbunden ist",
+      "en": "The wedding linked to the origin of Oktoberfest"
+    },
+    "description": {
+      "ru": "12 октября 1810 года в Мюнхене состоялась свадьба кронпринца Людвига Баварского и Терезы Саксен-Хильдбургхаузенской. Праздничные мероприятия после этой свадьбы стали началом традиции Октоберфеста.",
+      "de": "Am 12. Oktober 1810 heirateten in Muenchen Kronprinz Ludwig von Bayern und Therese von Sachsen-Hildburghausen. Die Feierlichkeiten nach dieser Hochzeit gelten als Ursprung des Oktoberfests.",
+      "en": "On 12 October 1810, Crown Prince Ludwig of Bavaria married Therese of Saxe-Hildburghausen in Munich. The celebrations after this wedding are considered the origin of Oktoberfest."
+    },
+    "importance": {
+      "ru": "Октоберфест стал одним из самых известных культурных символов Баварии.",
+      "de": "Das Oktoberfest wurde zu einem der bekanntesten Kultursymbole Bayerns.",
+      "en": "Oktoberfest became one of Bavaria's best-known cultural symbols."
+    }
+  },
+  "categories": {
+    "curiosities": [
+      {
+        "id": "theresienwiese",
+        "year": 1810,
+        "title": {
+          "ru": "Терезин луг",
+          "de": "Theresienwiese",
+          "en": "Theresa's Meadow"
+        },
+        "description": {
+          "ru": "Место праздника назвали Терезин луг в честь невесты. До сих пор мюнхенцы часто называют площадку Октоберфеста просто Wiesn.",
+          "de": "Der Festplatz wurde zu Ehren der Braut Theresienwiese genannt. Bis heute nennen Muenchner das Oktoberfest oft einfach Wiesn.",
+          "en": "The festival grounds were named Theresienwiese in honor of the bride. Munich locals still often call Oktoberfest simply the Wiesn."
+        },
+        "importance": {
+          "ru": "Это забавный пример того, как свадебная площадка превратилась в мировой бренд.",
+          "de": "Das ist ein kurioses Beispiel dafuer, wie ein Hochzeitsplatz zur Weltmarke wurde.",
+          "en": "It is a curious example of a wedding ground becoming a global brand."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Хотя праздник называется Oktoberfest, сегодня основная часть фестиваля часто проходит в сентябре.",
+    "de": "Obwohl das Fest Oktoberfest heisst, findet heute ein grosser Teil oft im September statt.",
+    "en": "Although it is called Oktoberfest, much of the festival now often takes place in September."
+  },
+  "sources": [
+    {
+      "label": "Official Oktoberfest: History",
+      "url": "https://www.oktoberfest.de/en/magazine/oktoberfest-news/2023/the-history-of-the-oktoberfest"
+    },
+    {
+      "label": "City of Munich: Oktoberfest",
+      "url": "https://stadt.muenchen.de/en/info/oktoberfest.html"
+    }
+  ]
+}
