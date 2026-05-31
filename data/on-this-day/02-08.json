@@ -1,0 +1,107 @@
+{
+  "date": "02-08",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1950-stasi-founded",
+    "year": 1950,
+    "title": {
+      "ru": "В ГДР создано Министерство госбезопасности",
+      "de": "Das Ministerium fuer Staatssicherheit wird gegruendet",
+      "en": "East Germany creates the Ministry for State Security"
+    },
+    "description": {
+      "ru": "8 февраля 1950 года Народная палата ГДР приняла закон о создании Министерства государственной безопасности. Позже это ведомство стало известно как Stasi.",
+      "de": "Am 8. Februar 1950 verabschiedete die Volkskammer der DDR das Gesetz zur Gruendung des Ministeriums fuer Staatssicherheit. Spaeter wurde diese Behoerde als Stasi bekannt.",
+      "en": "On 8 February 1950, East Germany's People's Chamber passed the law establishing the Ministry for State Security. The agency later became known as the Stasi."
+    },
+    "importance": {
+      "ru": "Stasi стала одним из главных инструментов контроля общества в ГДР.",
+      "de": "Die Stasi wurde zu einem der wichtigsten Instrumente gesellschaftlicher Kontrolle in der DDR.",
+      "en": "The Stasi became one of the main instruments of social control in East Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1950-gdr-security-apparatus",
+        "year": 1950,
+        "title": {
+          "ru": "Становление аппарата контроля",
+          "de": "Aufbau eines Kontrollapparats",
+          "en": "Building an apparatus of control"
+        },
+        "description": {
+          "ru": "Новое министерство занималось разведкой, контрразведкой и политическим наблюдением. Со временем оно создало огромную сеть сотрудников и информаторов.",
+          "de": "Das neue Ministerium befasste sich mit Nachrichtendienst, Spionageabwehr und politischer Ueberwachung. Mit der Zeit entstand ein riesiges Netz aus Mitarbeitern und Informanten.",
+          "en": "The new ministry handled intelligence, counterintelligence and political surveillance. Over time it built a vast network of staff and informants."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему частная жизнь в ГДР часто была тесно связана с политикой.",
+          "de": "Das hilft zu verstehen, warum privates Leben in der DDR oft eng mit Politik verbunden war.",
+          "en": "This helps explain why private life in East Germany was often closely tied to politics."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1950-wilhelm-zaisser",
+        "year": 1950,
+        "title": {
+          "ru": "Вильгельм Цайссер",
+          "de": "Wilhelm Zaisser",
+          "en": "Wilhelm Zaisser"
+        },
+        "description": {
+          "ru": "Первым министром госбезопасности стал Вильгельм Цайссер. Он руководил ведомством в первые годы, когда ГДР только строила свою систему власти.",
+          "de": "Der erste Minister fuer Staatssicherheit war Wilhelm Zaisser. Er leitete die Behoerde in den ersten Jahren, als die DDR ihr Herrschaftssystem aufbaute.",
+          "en": "The first minister for state security was Wilhelm Zaisser. He led the agency in the early years as East Germany built its system of rule."
+        },
+        "importance": {
+          "ru": "Через такие биографии видна ранняя структура власти в ГДР.",
+          "de": "An solchen Biografien wird die fruehe Machtstruktur der DDR sichtbar.",
+          "en": "Such biographies reveal the early power structure of East Germany."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "stasi-files-after-1990",
+        "year": 1990,
+        "title": {
+          "ru": "Архивы стали историческим источником",
+          "de": "Akten werden zur historischen Quelle",
+          "en": "Files became a historical source"
+        },
+        "description": {
+          "ru": "После 1989-1990 годов миллионы документов Stasi стали важным источником для изучения жизни в ГДР. Многие люди смогли увидеть, что о них собирало государство.",
+          "de": "Nach 1989-1990 wurden Millionen Stasi-Unterlagen zu einer wichtigen Quelle fuer die Erforschung des Lebens in der DDR. Viele Menschen konnten erfahren, was der Staat ueber sie gesammelt hatte.",
+          "en": "After 1989-1990, millions of Stasi files became an important source for studying life in East Germany. Many people could see what the state had collected about them."
+        },
+        "importance": {
+          "ru": "Редкий случай, когда архив тайной полиции стал частью публичной памяти.",
+          "de": "Ein seltener Fall, in dem das Archiv einer Geheimpolizei Teil oeffentlicher Erinnerung wurde.",
+          "en": "A rare case in which the archive of a secret police became part of public memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Сокращение Stasi происходит от немецкого Staatssicherheit - «государственная безопасность».",
+    "de": "Die Abkuerzung Stasi kommt von Staatssicherheit.",
+    "en": "The abbreviation Stasi comes from the German Staatssicherheit, meaning state security."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv Stasi Records Archive: The founding of the MfS",
+      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/the-founding-of-the-mfs/"
+    },
+    {
+      "label": "Haus der Geschichte: Aufbau des MfS",
+      "url": "https://www.hdg.de/lemo/kapitel/geteiltes-deutschland-gruenderjahre/weg-nach-osten/aufbau-des-mfs.html"
+    }
+  ]
+}

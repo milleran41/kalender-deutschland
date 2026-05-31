@@ -1,0 +1,90 @@
+{
+  "date": "03-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1935-saar-reintegrated-germany",
+    "year": 1935,
+    "title": {
+      "ru": "Саар официально вернулся в Германию",
+      "de": "Das Saargebiet kehrt offiziell zu Deutschland zurueck",
+      "en": "The Saar officially returns to Germany"
+    },
+    "description": {
+      "ru": "1 марта 1935 года Саарская область была официально включена в состав Германии после январского плебисцита. До этого регион 15 лет находился под управлением Лиги Наций.",
+      "de": "Am 1. Maerz 1935 wurde das Saargebiet nach der Volksabstimmung vom Januar offiziell wieder in Deutschland eingegliedert. Zuvor hatte die Region 15 Jahre unter Verwaltung des Voelkerbundes gestanden.",
+      "en": "On 1 March 1935, the Saar territory was officially reintegrated into Germany after the January plebiscite. Before that, the region had been under League of Nations administration for 15 years."
+    },
+    "importance": {
+      "ru": "Это событие завершило один из послевоенных территориальных споров после Версальского договора.",
+      "de": "Das Ereignis beendete einen der territorialen Nachkriegsstreitpunkte nach dem Versailler Vertrag.",
+      "en": "The event ended one of the postwar territorial questions created after the Treaty of Versailles."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1935-after-saar-vote",
+        "year": 1935,
+        "title": {
+          "ru": "После голосования 13 января",
+          "de": "Nach der Abstimmung vom 13. Januar",
+          "en": "After the vote of 13 January"
+        },
+        "description": {
+          "ru": "На плебисците большинство избирателей выбрало возвращение к Германии. 1 марта решение было реализовано на практике.",
+          "de": "Bei der Volksabstimmung waehlte die Mehrheit der Stimmberechtigten die Rueckkehr zu Deutschland. Am 1. Maerz wurde diese Entscheidung praktisch umgesetzt.",
+          "en": "In the plebiscite, a majority of voters chose return to Germany. On 1 March, that decision was put into practice."
+        },
+        "importance": {
+          "ru": "Так дата связывает карту, международное право и настроение местного населения.",
+          "de": "So verbindet das Datum Karte, internationales Recht und die Stimmung der lokalen Bevoelkerung.",
+          "en": "The date connects the map, international law and the mood of the local population."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "saar-refuge-for-opponents",
+        "year": 1933,
+        "title": {
+          "ru": "Саар как временное убежище",
+          "de": "Das Saargebiet als voruebergehender Zufluchtsort",
+          "en": "The Saar as a temporary refuge"
+        },
+        "description": {
+          "ru": "После прихода нацистов к власти некоторые противники режима бежали в Саар, потому что он ещё не управлялся Берлином. После возвращения региона эта защита исчезла.",
+          "de": "Nach der Machtuebernahme der Nationalsozialisten flohen manche Gegner des Regimes ins Saargebiet, weil es noch nicht von Berlin regiert wurde. Nach der Rueckgliederung verschwand dieser Schutz.",
+          "en": "After the Nazis came to power, some opponents of the regime fled to the Saar because it was not yet ruled from Berlin. After reintegration, that protection disappeared."
+        },
+        "importance": {
+          "ru": "Одна и та же граница могла быть и политическим вопросом, и вопросом личной безопасности.",
+          "de": "Dieselbe Grenze konnte zugleich eine politische Frage und eine Frage persoenlicher Sicherheit sein.",
+          "en": "The same border could be both a political question and a matter of personal safety."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Саар снова получил особый статус после Второй мировой войны и окончательно вошёл в ФРГ только в 1957 году.",
+    "de": "Das Saarland erhielt nach dem Zweiten Weltkrieg erneut einen Sonderstatus und trat erst 1957 endgueltig der Bundesrepublik bei.",
+    "en": "The Saar again received a special status after the Second World War and only finally joined West Germany in 1957."
+  },
+  "sources": [
+    {
+      "label": "Library of Congress: Saar Plebiscite",
+      "url": "https://www.loc.gov/item/2021670571/"
+    },
+    {
+      "label": "German History in Documents and Images: Saar referendum ballot",
+      "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ballot-for-the-saarland-referendum-january-13-1935"
+    },
+    {
+      "label": "German Exile Archive: Territory of the Saar Basin",
+      "url": "https://exilarchiv.dnb.de/DEA/Web/EN/Navigation/LaenderDesExils/Saargebiet/saargebiet.html"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "11-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1923-rentenmark-introduced",
+    "year": 1923,
+    "title": {
+      "ru": "Введена рентная марка",
+      "de": "Die Rentenmark wird eingefuehrt",
+      "en": "The Rentenmark is introduced"
+    },
+    "description": {
+      "ru": "15 ноября 1923 года в Германии начали выдавать новую валюту - Rentenmark. Она помогла остановить гиперинфляцию, из-за которой бумажная марка почти потеряла ценность.",
+      "de": "Am 15. November 1923 wurde in Deutschland die neue Waehrung Rentenmark ausgegeben. Sie half, die Hyperinflation zu stoppen, durch die die Papiermark fast wertlos geworden war.",
+      "en": "On 15 November 1923, Germany began issuing the new Rentenmark currency. It helped stop the hyperinflation that had made the paper mark almost worthless."
+    },
+    "importance": {
+      "ru": "Это был ключевой шаг к стабилизации Веймарской республики после тяжёлого кризиса 1923 года.",
+      "de": "Das war ein Schluesselschritt zur Stabilisierung der Weimarer Republik nach der schweren Krise von 1923.",
+      "en": "It was a key step toward stabilizing the Weimar Republic after the severe crisis of 1923."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1923-hyperinflation-everyday-life",
+        "year": 1923,
+        "title": {
+          "ru": "Гиперинфляция в повседневной жизни",
+          "de": "Hyperinflation im Alltag",
+          "en": "Hyperinflation in everyday life"
+        },
+        "description": {
+          "ru": "Цены росли так быстро, что зарплаты могли терять ценность за несколько часов. Люди спешили потратить деньги сразу, пока они ещё что-то стоили.",
+          "de": "Die Preise stiegen so schnell, dass Loehne schon nach wenigen Stunden an Wert verlieren konnten. Viele Menschen gaben Geld sofort aus, solange es noch etwas wert war.",
+          "en": "Prices rose so fast that wages could lose value within hours. People rushed to spend money immediately while it was still worth something."
+        },
+        "importance": {
+          "ru": "Так экономический кризис становится понятным не как график, а как ежедневная тревога людей.",
+          "de": "So wird eine Wirtschaftskrise nicht als Diagramm, sondern als taegliche Sorge der Menschen verstaendlich.",
+          "en": "This makes an economic crisis understandable not as a chart but as people's daily anxiety."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "1923-currency-stabilization",
+        "year": 1923,
+        "title": {
+          "ru": "Финансовая техника стабилизации",
+          "de": "Finanztechnik der Stabilisierung",
+          "en": "Financial engineering of stabilization"
+        },
+        "description": {
+          "ru": "Rentenmark была обеспечена не золотом, а залоговой стоимостью земли и промышленности. Важнее всего оказалось доверие к ограниченному выпуску новой валюты.",
+          "de": "Die Rentenmark war nicht durch Gold, sondern durch Grund- und Industriewerte gedeckt. Entscheidend war vor allem das Vertrauen in die begrenzte Ausgabe der neuen Waehrung.",
+          "en": "The Rentenmark was backed not by gold but by the value of land and industry. Most important was trust in the limited issue of the new currency."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как деньги зависят не только от бумаги, но и от доверия.",
+          "de": "Das ist ein gutes Beispiel dafuer, dass Geld nicht nur von Papier, sondern auch von Vertrauen abhaengt.",
+          "en": "It is a good example of how money depends not only on paper but also on trust."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1923-trillion-paper-marks",
+        "year": 1923,
+        "title": {
+          "ru": "Триллионы старых марок",
+          "de": "Billionen alter Mark",
+          "en": "Trillions of old marks"
+        },
+        "description": {
+          "ru": "Курс обмена закрепил огромную разницу между старой и новой валютой: одна Rentenmark соответствовала триллиону бумажных марок. Такая цифра хорошо показывает масштаб кризиса.",
+          "de": "Der Umrechnungskurs zeigte den riesigen Abstand zwischen alter und neuer Waehrung: Eine Rentenmark entsprach einer Billion Papiermark. Diese Zahl macht das Ausmass der Krise anschaulich.",
+          "en": "The exchange rate showed the huge gap between old and new currency: one Rentenmark equaled one trillion paper marks. That number makes the scale of the crisis vivid."
+        },
+        "importance": {
+          "ru": "Иногда одна денежная цифра объясняет эпоху лучше длинной лекции.",
+          "de": "Manchmal erklaert eine Geldzahl eine Epoche besser als eine lange Vorlesung.",
+          "en": "Sometimes one monetary number explains an era better than a long lecture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Rentenmark часто называют «чудом рентной марки», потому что инфляция остановилась очень быстро.",
+    "de": "Die Rentenmark wird oft als Wunder der Rentenmark bezeichnet, weil die Inflation sehr schnell zum Stillstand kam.",
+    "en": "The Rentenmark is often called the miracle of the Rentenmark because inflation stopped very quickly."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv Weimar: Einfuehrung der Rentenmark",
+      "url": "https://weimar.bundesarchiv.de/WEIMAR/DE/Content/Dokumente-zur-Zeitgeschichte/1923-11-15_waehrungsreform.html"
+    },
+    {
+      "label": "Deutschlandmuseum: End of hyperinflation",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1923-11-15-ende-der-hyperinflation/"
+    }
+  ]
+}
