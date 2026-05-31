@@ -1,0 +1,90 @@
+{
+  "date": "03-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1916-germany-declares-war-on-portugal",
+    "year": 1916,
+    "title": {
+      "ru": "Германия объявила войну Португалии",
+      "de": "Deutschland erklaert Portugal den Krieg",
+      "en": "Germany declares war on Portugal"
+    },
+    "description": {
+      "ru": "9 марта 1916 года Германская империя объявила войну Португалии. Поводом стало изъятие немецких судов, находившихся в португальских портах.",
+      "de": "Am 9. Maerz 1916 erklaerte das Deutsche Reich Portugal den Krieg. Anlass war die Beschlagnahme deutscher Schiffe in portugiesischen Haefen.",
+      "en": "On 9 March 1916, the German Empire declared war on Portugal. The trigger was the seizure of German ships in Portuguese ports."
+    },
+    "importance": {
+      "ru": "Событие показывает, как мировая война втягивала в конфликт всё новые страны из-за морской торговли, колоний и союзов.",
+      "de": "Das Ereignis zeigt, wie der Weltkrieg durch Seehandel, Kolonien und Buendnisse immer weitere Staaten in den Konflikt hineinzog.",
+      "en": "The event shows how the world war drew more countries into conflict through sea trade, colonies and alliances."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "portugal-enters-world-war-one",
+        "year": 1916,
+        "title": {
+          "ru": "Португалия входит в войну",
+          "de": "Portugal tritt in den Krieg ein",
+          "en": "Portugal enters the war"
+        },
+        "description": {
+          "ru": "Португалия уже была связана с Великобританией союзом и имела колонии в Африке, где напряжение с Германией существовало с 1914 года. После объявления войны конфликт стал официальным и в Европе.",
+          "de": "Portugal war bereits mit Grossbritannien verbuendet und besass Kolonien in Afrika, wo seit 1914 Spannungen mit Deutschland bestanden. Nach der Kriegserklaerung wurde der Konflikt auch in Europa offiziell.",
+          "en": "Portugal was already allied with Britain and had colonies in Africa, where tensions with Germany had existed since 1914. After the declaration of war, the conflict became official in Europe as well."
+        },
+        "importance": {
+          "ru": "Так видно, что Первая мировая война была действительно глобальной, а не только европейской.",
+          "de": "So wird sichtbar, dass der Erste Weltkrieg wirklich global war und nicht nur europaeisch.",
+          "en": "This shows that the First World War was truly global, not only European."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "ships-as-war-trigger",
+        "year": 1916,
+        "title": {
+          "ru": "Война из-за кораблей",
+          "de": "Krieg wegen Schiffen",
+          "en": "War over ships"
+        },
+        "description": {
+          "ru": "Причиной резкого обострения стали не сражения на фронте, а торговые суда, стоявшие в портах. В большой войне даже корабли у причала могли стать политическим оружием.",
+          "de": "Der unmittelbare Ausloeser waren keine Frontkaempfe, sondern Handelsschiffe in Haefen. In einem grossen Krieg konnten selbst Schiffe am Kai zu politischen Waffen werden.",
+          "en": "The immediate trigger was not a battle at the front, but merchant ships in ports. In a great war, even ships at the quay could become political weapons."
+        },
+        "importance": {
+          "ru": "Это необычная деталь, которая помогает понять экономическую сторону войны.",
+          "de": "Dieses ungewoehnliche Detail hilft, die wirtschaftliche Seite des Krieges zu verstehen.",
+          "en": "This unusual detail helps explain the economic side of the war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Национальные архивы Великобритании также связывают объявление войны с изъятием немецких судов в Португалии.",
+    "de": "Auch die britischen National Archives verbinden die Kriegserklaerung mit der Beschlagnahme deutscher Schiffe in Portugal.",
+    "en": "The UK National Archives also link the declaration of war to the seizure of German ships in Portugal."
+  },
+  "sources": [
+    {
+      "label": "LeMO: Chronik 1916",
+      "url": "https://www.dhm.de/lemo/jahreschronik/1916"
+    },
+    {
+      "label": "Parlamento: Portugal na Grande Guerra",
+      "url": "https://www.parlamento.pt/Parlamento/Paginas/Portugal-Grande-Guerra.aspx"
+    },
+    {
+      "label": "The National Archives: Portugal in the First World War",
+      "url": "https://www.nationalarchives.gov.uk/first-world-war__trashed/a-global-view__trashed/europe/portugal/"
+    }
+  ]
+}

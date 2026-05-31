@@ -1,0 +1,90 @@
+{
+  "date": "02-09",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1925-stresemann-security-pact-memorandum",
+    "year": 1925,
+    "title": {
+      "ru": "Штреземан предложил путь к Локарно",
+      "de": "Stresemann oeffnet den Weg nach Locarno",
+      "en": "Stresemann opens the road to Locarno"
+    },
+    "description": {
+      "ru": "9 февраля 1925 года министр иностранных дел Германии Густав Штреземан передал Великобритании и Франции меморандум о пакте безопасности. Эта инициатива стала важным шагом к Локарнским соглашениям.",
+      "de": "Am 9. Februar 1925 uebergab der deutsche Aussenminister Gustav Stresemann Grossbritannien und Frankreich ein Memorandum zu einem Sicherheitspakt. Diese Initiative wurde zu einem wichtigen Schritt auf dem Weg zu den Locarno-Vertraegen.",
+      "en": "On 9 February 1925, German Foreign Minister Gustav Stresemann sent Britain and France a memorandum on a security pact. The initiative became an important step toward the Locarno Treaties."
+    },
+    "importance": {
+      "ru": "Дата показывает, как Веймарская республика пыталась выйти из международной изоляции не силой, а дипломатией.",
+      "de": "Das Datum zeigt, wie die Weimarer Republik versuchte, nicht mit Gewalt, sondern durch Diplomatie aus der internationalen Isolation herauszukommen.",
+      "en": "The date shows how the Weimar Republic tried to escape international isolation through diplomacy rather than force."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "weimar-diplomacy-locarno",
+        "year": 1925,
+        "title": {
+          "ru": "Дипломатия вместо реванша",
+          "de": "Diplomatie statt Revanche",
+          "en": "Diplomacy instead of revenge"
+        },
+        "description": {
+          "ru": "После Первой мировой войны Германия искала способ смягчить последствия Версальского договора и восстановить доверие соседей. Локарно не решило все проблемы, но дало Европе несколько лет надежды на мир.",
+          "de": "Nach dem Ersten Weltkrieg suchte Deutschland einen Weg, die Folgen des Versailler Vertrags zu mildern und Vertrauen bei den Nachbarn zurueckzugewinnen. Locarno loeste nicht alle Probleme, gab Europa aber einige Jahre Hoffnung auf Frieden.",
+          "en": "After the First World War, Germany sought a way to ease the consequences of the Treaty of Versailles and regain its neighbors' trust. Locarno did not solve every problem, but it gave Europe several years of hope for peace."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему 1920-е годы в Германии были не только кризисом, но и временем политических возможностей.",
+          "de": "Das hilft zu verstehen, warum die 1920er Jahre in Deutschland nicht nur Krisenzeit, sondern auch eine Zeit politischer Moeglichkeiten waren.",
+          "en": "It helps explain why the 1920s in Germany were not only a time of crisis, but also a time of political possibility."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "gustav-stresemann-realpolitik",
+        "year": 1925,
+        "title": {
+          "ru": "Густав Штреземан",
+          "de": "Gustav Stresemann",
+          "en": "Gustav Stresemann"
+        },
+        "description": {
+          "ru": "Штреземан был одним из самых заметных политиков Веймарской республики. Его часто связывают с осторожной внешней политикой, которая сочетала немецкие интересы и готовность к переговорам.",
+          "de": "Stresemann war einer der praegenden Politiker der Weimarer Republik. Er steht fuer eine vorsichtige Aussenpolitik, die deutsche Interessen mit Verhandlungsbereitschaft verband.",
+          "en": "Stresemann was one of the defining politicians of the Weimar Republic. He is associated with a careful foreign policy that combined German interests with readiness to negotiate."
+        },
+        "importance": {
+          "ru": "На его примере видно, что внешняя политика может менять карту Европы без выстрелов.",
+          "de": "An seinem Beispiel sieht man, dass Aussenpolitik die Karte Europas auch ohne Schuesse veraendern kann.",
+          "en": "His example shows that foreign policy can change Europe's map without gunfire."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Локарнские соглашения были подписаны позже, в октябре 1925 года, а в 1926 году Германия вступила в Лигу Наций.",
+    "de": "Die Locarno-Vertraege wurden spaeter, im Oktober 1925, unterzeichnet; 1926 trat Deutschland dem Voelkerbund bei.",
+    "en": "The Locarno Treaties were signed later, in October 1925; in 1926 Germany joined the League of Nations."
+  },
+  "sources": [
+    {
+      "label": "LeMO: Chronik 1925",
+      "url": "https://www.dhm.de/lemo/jahreschronik/1925"
+    },
+    {
+      "label": "bpb: Deutschlands Orientierung zwischen Ost und West",
+      "url": "https://www.bpb.de/shop/zeitschriften/apuz/archiv/526932/deutschlands-orientierung-zwischen-ost-und-west-in-der-vorgeschichte-seines-beitritts-zum-voelkerbund-1924-1926/"
+    },
+    {
+      "label": "Office of the Historian: FRUS 1925, security pact note",
+      "url": "https://history.state.gov/historicaldocuments/frus1925v01/d28fn5"
+    }
+  ]
+}

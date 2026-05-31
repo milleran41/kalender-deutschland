@@ -1,0 +1,90 @@
+{
+  "date": "03-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1916-tirpitz-resigns",
+    "year": 1916,
+    "title": {
+      "ru": "Ушёл в отставку Альфред фон Тирпиц",
+      "de": "Alfred von Tirpitz tritt zurueck",
+      "en": "Alfred von Tirpitz resigns"
+    },
+    "description": {
+      "ru": "15 марта 1916 года Альфред фон Тирпиц ушёл с поста статс-секретаря Имперского морского ведомства. Он был главным архитектором германского флота кайзеровской эпохи.",
+      "de": "Am 15. Maerz 1916 trat Alfred von Tirpitz als Staatssekretaer des Reichsmarineamts zurueck. Er war der wichtigste Architekt der deutschen Flotte der Kaiserzeit.",
+      "en": "On 15 March 1916, Alfred von Tirpitz resigned as State Secretary of the Imperial Naval Office. He had been the chief architect of the German fleet in the imperial era."
+    },
+    "importance": {
+      "ru": "Отставка показала, насколько спорным стал вопрос морской войны и подводных лодок в середине Первой мировой.",
+      "de": "Der Ruecktritt zeigte, wie umstritten die Frage des Seekriegs und der U-Boote mitten im Ersten Weltkrieg geworden war.",
+      "en": "The resignation showed how controversial naval warfare and submarines had become in the middle of the First World War."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "tirpitz-fleet-builder",
+        "year": 1916,
+        "title": {
+          "ru": "Создатель флота кайзера",
+          "de": "Flottenbauer des Kaisers",
+          "en": "The Kaiser's fleet builder"
+        },
+        "description": {
+          "ru": "Тирпиц много лет продвигал строительство сильного германского военно-морского флота. Его программа усилила соперничество с Великобританией ещё до 1914 года.",
+          "de": "Tirpitz trieb viele Jahre den Aufbau einer starken deutschen Kriegsflotte voran. Sein Programm verschaerfte bereits vor 1914 die Rivalitaet mit Grossbritannien.",
+          "en": "For many years Tirpitz promoted the building of a strong German battle fleet. His program intensified rivalry with Britain even before 1914."
+        },
+        "importance": {
+          "ru": "Через его карьеру видно, как техника, армия и политика могут менять международные отношения.",
+          "de": "An seiner Karriere erkennt man, wie Technik, Militaer und Politik internationale Beziehungen veraendern koennen.",
+          "en": "His career shows how technology, the military and politics can reshape international relations."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "submarine-war-dilemma",
+        "year": 1916,
+        "title": {
+          "ru": "Подводные лодки и риск",
+          "de": "U-Boote und Risiko",
+          "en": "Submarines and risk"
+        },
+        "description": {
+          "ru": "В Германии спорили, насколько далеко можно заходить в подводной войне против торгового судоходства. С военной точки зрения подлодки казались мощным средством, но политически они могли подтолкнуть США к вступлению в войну.",
+          "de": "In Deutschland wurde gestritten, wie weit der U-Boot-Krieg gegen die Handelsschifffahrt gehen duerfe. Militaerisch schienen U-Boote stark, politisch konnten sie aber die USA in den Krieg treiben.",
+          "en": "Germany debated how far submarine warfare against merchant shipping should go. Militarily, submarines seemed powerful, but politically they could push the United States toward entering the war."
+        },
+        "importance": {
+          "ru": "Это пример того, как техническое оружие создаёт не только возможности, но и большие политические риски.",
+          "de": "Das ist ein Beispiel dafuer, wie technische Waffen nicht nur Chancen, sondern auch grosse politische Risiken schaffen.",
+          "en": "It is an example of how technological weapons create not only opportunities, but also major political risks."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После Тирпица Имперское морское ведомство возглавил адмирал Эдуард фон Капелле.",
+    "de": "Nach Tirpitz uebernahm Admiral Eduard von Capelle das Reichsmarineamt.",
+    "en": "After Tirpitz, Admiral Eduard von Capelle took over the Imperial Naval Office."
+  },
+  "sources": [
+    {
+      "label": "LeMO: Chronik 1916",
+      "url": "https://www.dhm.de/lemo/jahreschronik/1916"
+    },
+    {
+      "label": "FAZ: Ruecktritt des Staatssekretaers von Tirpitz",
+      "url": "https://www.faz.net/aktuell/politik/historisches-e-paper/historisches-e-paper-zum-ersten-weltkrieg-ruecktritt-des-staatssekretaers-von-tirpitz-13935159.html"
+    },
+    {
+      "label": "Naval History: Tirpitz Memoirs note",
+      "url": "https://www.naval-history.net/WW1Book-Adm_Tirpitz-Memoirs.htm"
+    }
+  ]
+}
