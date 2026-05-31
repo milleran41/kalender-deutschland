@@ -1,0 +1,111 @@
+{
+  "date": "06-29",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1764-woldegk-tornado",
+    "year": 1764,
+    "title": {
+      "ru": "Сильнейший торнадо у Вольдега",
+      "de": "Der schwere Tornado bei Woldegk",
+      "en": "The violent Woldegk tornado"
+    },
+    "description": {
+      "ru": "29 июня 1764 года район Вольдега в современном Мекленбурге-Передней Померании был разрушен чрезвычайно сильным торнадо. Его подробное описание пастором и учёным Готтлобом Бурхардом Генцмером стало одним из важных ранних документов о европейских смерчах.",
+      "de": "Am 29. Juni 1764 wurde die Gegend um Woldegk im heutigen Mecklenburg-Vorpommern von einem aussergewoehnlich starken Tornado verwuestet. Die genaue Beschreibung durch den Pastor und Gelehrten Gottlob Burchard Genzmer wurde zu einem wichtigen fruehen Dokument ueber europaeische Windhosen.",
+      "en": "On 29 June 1764, the area around Woldegk in today's Mecklenburg-Western Pomerania was devastated by an exceptionally strong tornado. The detailed account by pastor and scholar Gottlob Burchard Genzmer became an important early document on European tornadoes."
+    },
+    "importance": {
+      "ru": "Дата показывает, что необычная погода и природные катастрофы тоже являются частью истории Германии.",
+      "de": "Das Datum zeigt, dass ungewoehnliches Wetter und Naturkatastrophen ebenfalls Teil der deutschen Geschichte sind.",
+      "en": "The date shows that unusual weather and natural disasters are also part of German history."
+    }
+  },
+  "categories": {
+    "weather": [
+      {
+        "id": "one-of-europes-strongest-tornadoes",
+        "year": 1764,
+        "title": {
+          "ru": "Один из сильнейших торнадо Европы",
+          "de": "Einer der staerksten Tornados Europas",
+          "en": "One of Europe's strongest tornadoes"
+        },
+        "description": {
+          "ru": "Современные исследователи относят Вольдегский торнадо к редчайшим очень сильным смерчам. Он разрушал строения, валил лес и оставил настолько подробные следы, что событие изучают до сих пор.",
+          "de": "Moderne Forscher zaehlen den Tornado von Woldegk zu den seltenen sehr starken Tornados. Er zerstoerte Gebaeude, warf Waelder um und hinterliess so genaue Spuren, dass das Ereignis bis heute untersucht wird.",
+          "en": "Modern researchers count the Woldegk tornado among the rare very violent tornadoes. It destroyed buildings, flattened forest and left such detailed traces that the event is still studied today."
+        },
+        "importance": {
+          "ru": "Так школьник видит, что климатическая и погодная история не ограничивается современными новостями.",
+          "de": "So wird sichtbar, dass Klima- und Wettergeschichte nicht erst mit modernen Nachrichten beginnt.",
+          "en": "It shows that weather and climate history did not begin with modern news."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "genzmer-report",
+        "year": 1765,
+        "title": {
+          "ru": "Отчёт Генцмера",
+          "de": "Der Bericht Genzmers",
+          "en": "Genzmer's report"
+        },
+        "description": {
+          "ru": "Генцмер собрал рассказы очевидцев и описал путь разрушений. Для XVIII века это был очень внимательный научный подход к природному явлению.",
+          "de": "Genzmer sammelte Augenzeugenberichte und beschrieb die Schadensspur. Fuer das 18. Jahrhundert war das ein sehr genauer wissenschaftlicher Umgang mit einem Naturereignis.",
+          "en": "Genzmer collected eyewitness accounts and described the damage path. For the eighteenth century, this was a very careful scientific approach to a natural event."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как наблюдение и запись фактов помогают науке через столетия.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie Beobachtung und genaue Aufzeichnung der Wissenschaft ueber Jahrhunderte helfen.",
+          "en": "It is a good example of how observation and careful recording can help science across centuries."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "windhose-word",
+        "year": 1764,
+        "title": {
+          "ru": "Старое слово «Windhose»",
+          "de": "Das alte Wort Windhose",
+          "en": "The old word Windhose"
+        },
+        "description": {
+          "ru": "В немецком языке смерчи долго называли Windhose — буквально «ветряной рукав». Такое слово звучит почти безобидно, хотя описывает очень опасное явление.",
+          "de": "Im Deutschen wurden Tornados lange Windhose genannt. Das Wort klingt fast harmlos, beschreibt aber ein sehr gefaehrliches Phaenomen.",
+          "en": "In German, tornadoes were long called Windhose, literally a wind hose. The word sounds almost harmless, though it describes a very dangerous phenomenon."
+        },
+        "importance": {
+          "ru": "Интересно, как язык иногда смягчает то, что в реальности было разрушительным.",
+          "de": "Interessant ist, wie Sprache manchmal etwas harmloser klingen laesst, als es in Wirklichkeit war.",
+          "en": "It is interesting how language can sometimes make something sound gentler than it really was."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Вольдег находится в земле Мекленбург-Передняя Померания.",
+    "de": "Woldegk liegt in Mecklenburg-Vorpommern.",
+    "en": "Woldegk is located in Mecklenburg-Western Pomerania."
+  },
+  "sources": [
+    {
+      "label": "NDR: Der Jahrtausendtornado von Woldegk",
+      "url": "https://www.ndr.de/geschichte/schauplaetze/Der-Jahrtausendtornado-von-Woldegk-vom-29-Juni-1764%2Ctornado236.html"
+    },
+    {
+      "label": "European Severe Storms Laboratory: Woldegk tornado summary",
+      "url": "https://www.essl.org/cms/wp-content/uploads/17640629-Woldegk.pdf"
+    },
+    {
+      "label": "Tornadoliste Deutschland: Woldegk 29.06.1764",
+      "url": "https://tornadoliste.de/read:2089"
+    }
+  ]
+}

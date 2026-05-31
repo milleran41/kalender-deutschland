@@ -1,0 +1,111 @@
+{
+  "date": "08-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1936-berlin-olympics-close",
+    "year": 1936,
+    "title": {
+      "ru": "Завершились Олимпийские игры в Берлине",
+      "de": "Die Olympischen Spiele in Berlin enden",
+      "en": "The Olympic Games in Berlin end"
+    },
+    "description": {
+      "ru": "16 августа 1936 года завершились летние Олимпийские игры в Берлине. Нацистский режим использовал их как крупную пропагандистскую витрину, пытаясь показать миру благополучный образ Германии.",
+      "de": "Am 16. August 1936 endeten die Olympischen Sommerspiele in Berlin. Das NS-Regime nutzte sie als grosse Propagandabuehne, um der Welt ein positives Bild Deutschlands zu zeigen.",
+      "en": "On 16 August 1936, the Summer Olympic Games in Berlin came to an end. The Nazi regime used them as a major propaganda stage to present a favorable image of Germany to the world."
+    },
+    "importance": {
+      "ru": "Дата важна, потому что спорт здесь стал частью политики, международного имиджа и нацистской пропаганды.",
+      "de": "Das Datum ist wichtig, weil Sport hier Teil von Politik, internationalem Image und nationalsozialistischer Propaganda wurde.",
+      "en": "The date matters because sport here became part of politics, international image-making and Nazi propaganda."
+    }
+  },
+  "categories": {
+    "sport": [
+      {
+        "id": "berlin-1936",
+        "year": 1936,
+        "title": {
+          "ru": "Игры XI Олимпиады",
+          "de": "Die Spiele der XI. Olympiade",
+          "en": "The Games of the XI Olympiad"
+        },
+        "description": {
+          "ru": "Игры проходили с 1 по 16 августа 1936 года. Германия была страной-хозяйкой, а соревнования привлекли внимание всего мира.",
+          "de": "Die Spiele fanden vom 1. bis 16. August 1936 statt. Deutschland war Gastgeber, und die Wettbewerbe zogen weltweite Aufmerksamkeit auf sich.",
+          "en": "The Games took place from 1 to 16 August 1936. Germany was the host country, and the competitions drew worldwide attention."
+        },
+        "importance": {
+          "ru": "Это одно из самых известных спортивных событий, проходивших в Германии.",
+          "de": "Es ist eines der bekanntesten Sportereignisse, die in Deutschland stattfanden.",
+          "en": "It is one of the best-known sporting events ever held in Germany."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "propaganda-and-images",
+        "year": 1936,
+        "title": {
+          "ru": "Образ вместо реальности",
+          "de": "Bild statt Wirklichkeit",
+          "en": "Image instead of reality"
+        },
+        "description": {
+          "ru": "Перед иностранными гостями режим временно приглушал видимые признаки антисемитской политики. За праздничной картинкой уже существовала диктатура, преследования и подготовка к дальнейшей агрессии.",
+          "de": "Vor auslaendischen Gaesten milderte das Regime zeitweise sichtbare Zeichen antisemitischer Politik. Hinter dem festlichen Bild standen bereits Diktatur, Verfolgung und die Vorbereitung weiterer Aggression.",
+          "en": "For foreign visitors, the regime temporarily softened visible signs of antisemitic policy. Behind the festive image already stood dictatorship, persecution and preparation for further aggression."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему красивые картинки власти нужно рассматривать критически.",
+          "de": "Das hilft zu verstehen, warum schoene Bilder der Macht kritisch betrachtet werden muessen.",
+          "en": "It helps explain why attractive images of power need to be viewed critically."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "first-television-coverage",
+        "year": 1936,
+        "title": {
+          "ru": "Олимпиада и раннее телевидение",
+          "de": "Olympia und fruehes Fernsehen",
+          "en": "Olympics and early television"
+        },
+        "description": {
+          "ru": "Берлинские игры стали одним из ранних примеров телевизионного показа спортивных соревнований. Техника была новой, но власть уже понимала силу изображения.",
+          "de": "Die Berliner Spiele gehoerten zu den fruehen Beispielen einer Fernsehuebertragung von Sportwettbewerben. Die Technik war neu, doch die Macht des Bildes wurde bereits verstanden.",
+          "en": "The Berlin Games were among the early examples of televised sports competition. The technology was new, but the power of images was already understood."
+        },
+        "importance": {
+          "ru": "Интересно, как спорт, техника и пропаганда встретились в одном событии.",
+          "de": "Interessant ist, wie Sport, Technik und Propaganda in einem Ereignis zusammentrafen.",
+          "en": "It is interesting how sport, technology and propaganda met in one event."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Самым знаменитым спортсменом Берлина-1936 стал Джесси Оуэнс, выигравший четыре золотые медали.",
+    "de": "Der beruehmteste Sportler von Berlin 1936 war Jesse Owens, der vier Goldmedaillen gewann.",
+    "en": "The most famous athlete of Berlin 1936 was Jesse Owens, who won four gold medals."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Closing ceremony of the Olympic Games in Berlin",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1936-08-16-the-closing-ceremony-of-the-olympic-games-in-berlin/"
+    },
+    {
+      "label": "Britannica: Berlin 1936 Olympic Games",
+      "url": "https://www.britannica.com/event/Berlin-1936-Olympic-Games"
+    },
+    {
+      "label": "Olympedia: 1936 Summer Olympics overview",
+      "url": "https://www.olympedia.org/editions/11"
+    }
+  ]
+}

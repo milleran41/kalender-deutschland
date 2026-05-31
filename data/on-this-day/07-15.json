@@ -1,0 +1,111 @@
+{
+  "date": "07-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1937-buchenwald-concentration-camp-opens",
+    "year": 1937,
+    "title": {
+      "ru": "Первые заключённые прибыли в Бухенвальд",
+      "de": "Die ersten Haeftlinge kommen nach Buchenwald",
+      "en": "The first prisoners arrive at Buchenwald"
+    },
+    "description": {
+      "ru": "15 июля 1937 года первые заключённые прибыли в концентрационный лагерь Бухенвальд возле Веймара. Лагерь стал одним из крупнейших концентрационных лагерей на территории нацистской Германии.",
+      "de": "Am 15. Juli 1937 kamen die ersten Haeftlinge in das Konzentrationslager Buchenwald bei Weimar. Das Lager wurde eines der groessten Konzentrationslager auf dem Gebiet des nationalsozialistischen Deutschlands.",
+      "en": "On 15 July 1937, the first prisoners arrived at the Buchenwald concentration camp near Weimar. The camp became one of the largest concentration camps on the territory of Nazi Germany."
+    },
+    "importance": {
+      "ru": "Дата важна как напоминание о том, что террор нацистского режима разворачивался внутри самой Германии.",
+      "de": "Das Datum ist wichtig als Erinnerung daran, dass der Terror des NS-Regimes im Inneren Deutschlands aufgebaut wurde.",
+      "en": "The date is important as a reminder that the terror of the Nazi regime was built inside Germany itself."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "camp-near-weimar",
+        "year": 1937,
+        "title": {
+          "ru": "Лагерь рядом с Веймаром",
+          "de": "Ein Lager bei Weimar",
+          "en": "A camp near Weimar"
+        },
+        "description": {
+          "ru": "Бухенвальд находился на Эттерсберге, недалеко от города, связанного с Гёте, Шиллером и немецкой классикой. Это соседство культуры и насилия стало особенно горьким символом немецкой истории.",
+          "de": "Buchenwald lag auf dem Ettersberg, nahe einer Stadt, die mit Goethe, Schiller und der deutschen Klassik verbunden ist. Diese Nachbarschaft von Kultur und Gewalt wurde zu einem besonders bitteren Symbol deutscher Geschichte.",
+          "en": "Buchenwald stood on the Ettersberg, near a city associated with Goethe, Schiller and German classicism. This closeness of culture and violence became a particularly bitter symbol of German history."
+        },
+        "importance": {
+          "ru": "Так видно, что высокая культура сама по себе не защищает общество от диктатуры и преступлений.",
+          "de": "So wird sichtbar, dass hohe Kultur allein eine Gesellschaft nicht vor Diktatur und Verbrechen schuetzt.",
+          "en": "It shows that high culture alone does not protect a society from dictatorship and crimes."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "victims-of-buchenwald",
+        "year": 1937,
+        "title": {
+          "ru": "Заключённые разных групп",
+          "de": "Haeftlinge aus vielen Gruppen",
+          "en": "Prisoners from many groups"
+        },
+        "description": {
+          "ru": "В Бухенвальд отправляли политических противников, евреев, синти и рома, свидетелей Иеговы, людей, которых нацисты называли «асоциальными», и многих других. За сухими категориями стояли реальные семьи и судьбы.",
+          "de": "Nach Buchenwald wurden politische Gegner, Juden, Sinti und Roma, Zeugen Jehovas, von den Nationalsozialisten als asozial verfolgte Menschen und viele andere verschleppt. Hinter den Kategorien standen echte Familien und Lebenswege.",
+          "en": "Political opponents, Jews, Sinti and Roma, Jehovah's Witnesses, people persecuted by the Nazis as asocial, and many others were sent to Buchenwald. Behind the categories stood real families and lives."
+        },
+        "importance": {
+          "ru": "Это помогает говорить о памяти не абстрактно, а через людей.",
+          "de": "Das hilft, Erinnerung nicht abstrakt, sondern ueber Menschen zu verstehen.",
+          "en": "It helps make remembrance about people rather than abstractions."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "name-beech-forest",
+        "year": 1937,
+        "title": {
+          "ru": "Название с мирным звучанием",
+          "de": "Ein Name mit friedlichem Klang",
+          "en": "A name with a peaceful sound"
+        },
+        "description": {
+          "ru": "Слово Buchenwald буквально означает «буковый лес». Контраст между спокойным названием и реальностью лагеря делает это место особенно страшным в памяти.",
+          "de": "Das Wort Buchenwald bedeutet woertlich Buchenwald. Der Gegensatz zwischen dem ruhigen Namen und der Wirklichkeit des Lagers macht diesen Ort in der Erinnerung besonders erschuetternd.",
+          "en": "The word Buchenwald literally means beech forest. The contrast between the peaceful name and the reality of the camp makes the place especially disturbing in memory."
+        },
+        "importance": {
+          "ru": "Иногда само название места показывает, как обычный язык может скрывать ужас.",
+          "de": "Manchmal zeigt schon ein Ortsname, wie gewoehnliche Sprache Schrecken verdecken kann.",
+          "en": "Sometimes a place name itself shows how ordinary language can hide horror."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Мемориал Бухенвальд сегодня находится недалеко от Веймара в земле Тюрингия.",
+    "de": "Die Gedenkstaette Buchenwald liegt heute nahe Weimar in Thueringen.",
+    "en": "The Buchenwald Memorial is today located near Weimar in Thuringia."
+  },
+  "sources": [
+    {
+      "label": "United States Holocaust Memorial Museum: Buchenwald Concentration Camp Opens",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/buchenwald-concentration-camp-opens"
+    },
+    {
+      "label": "Gedenkstaette Buchenwald: Lagergruendung",
+      "url": "https://www.buchenwald.de/geschichte/chronologie/konzentrationslager/lagergruendung"
+    },
+    {
+      "label": "LeMO: KZ Buchenwald",
+      "url": "https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/voelkermord/kz-buchenwald"
+    }
+  ]
+}
