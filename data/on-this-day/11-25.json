@@ -1,0 +1,86 @@
+{
+  "date": "11-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1844-carl-benz-born",
+    "year": 1844,
+    "title": {
+      "ru": "Родился Карл Бенц",
+      "de": "Carl Benz wird geboren",
+      "en": "Carl Benz is born"
+    },
+    "description": {
+      "ru": "25 ноября 1844 года в Карлсруэ родился инженер Карл Бенц. Он стал одним из создателей автомобиля с двигателем внутреннего сгорания.",
+      "de": "Am 25. November 1844 wurde der Ingenieur Carl Benz in Karlsruhe geboren. Er wurde einer der Schoepfer des Automobils mit Verbrennungsmotor.",
+      "en": "On 25 November 1844, engineer Carl Benz was born in Karlsruhe. He became one of the creators of the automobile with an internal-combustion engine."
+    },
+    "importance": {
+      "ru": "История Бенца связывает Баден-Вюртемберг с началом мировой автомобильной культуры.",
+      "de": "Die Geschichte von Benz verbindet Baden-Wuerttemberg mit dem Beginn der weltweiten Automobilkultur.",
+      "en": "Benz's story links Baden-Wuerttemberg with the beginning of global automobile culture."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1886-benz-patent-motorwagen",
+        "year": 1886,
+        "title": {
+          "ru": "Патент-моторваген",
+          "de": "Patent-Motorwagen",
+          "en": "Patent Motor Car"
+        },
+        "description": {
+          "ru": "В 1886 году Бенц получил патент на свой Motorwagen. Машина выглядела не как современный автомобиль, но стала важным шагом от эксперимента к промышленной технике.",
+          "de": "1886 erhielt Benz das Patent fuer seinen Motorwagen. Das Fahrzeug sah nicht wie ein modernes Auto aus, war aber ein wichtiger Schritt vom Experiment zur Industrietechnik.",
+          "en": "In 1886, Benz received a patent for his Motorwagen. It did not look like a modern car, but it was an important step from experiment to industrial technology."
+        },
+        "importance": {
+          "ru": "Автомобиль стал одной из самых заметных немецких технологий XIX и XX веков.",
+          "de": "Das Automobil wurde zu einer der sichtbarsten deutschen Technologien des 19. und 20. Jahrhunderts.",
+          "en": "The automobile became one of the most visible German technologies of the 19th and 20th centuries."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "bertha-benz-long-drive",
+        "year": 1888,
+        "title": {
+          "ru": "Поездка Берты Бенц",
+          "de": "Die Fahrt von Bertha Benz",
+          "en": "Bertha Benz's drive"
+        },
+        "description": {
+          "ru": "Берта Бенц совершила дальнюю поездку на автомобиле мужа и фактически устроила ему громкую рекламу. По пути приходилось чинить машину подручными средствами.",
+          "de": "Bertha Benz unternahm eine Fernfahrt mit dem Auto ihres Mannes und machte damit praktisch Werbung. Unterwegs musste sie das Fahrzeug mit einfachen Mitteln reparieren.",
+          "en": "Bertha Benz made a long-distance drive in her husband's car and effectively gave it major publicity. Along the way, she had to repair the vehicle with simple tools."
+        },
+        "importance": {
+          "ru": "Это один из самых живых эпизодов ранней автомобильной истории.",
+          "de": "Das ist eine der lebendigsten Episoden der fruehen Automobilgeschichte.",
+          "en": "It is one of the liveliest episodes in early automobile history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Маршрут Берты Бенц сегодня можно пройти как туристический путь в Баден-Вюртемберге.",
+    "de": "Die Route von Bertha Benz kann man heute als touristische Strecke in Baden-Wuerttemberg erleben.",
+    "en": "Bertha Benz's route can now be followed as a tourist route in Baden-Wuerttemberg."
+  },
+  "sources": [
+    {
+      "label": "Mercedes-Benz Group: Carl Benz",
+      "url": "https://group.mercedes-benz.com/company/tradition/founders-pioneers/carl-benz.html"
+    },
+    {
+      "label": "Britannica: Karl Benz",
+      "url": "https://www.britannica.com/biography/Karl-Benz"
+    }
+  ]
+}

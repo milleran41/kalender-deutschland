@@ -1,0 +1,65 @@
+{
+  "date": "03-27",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1845-wilhelm-roentgen-born",
+    "year": 1845,
+    "title": {
+      "ru": "Родился Вильгельм Конрад Рентген",
+      "de": "Wilhelm Conrad Roentgen wird geboren",
+      "en": "Wilhelm Conrad Roentgen is born"
+    },
+    "description": {
+      "ru": "27 марта 1845 года в Леннепе, ныне части Ремшайда, родился физик Вильгельм Конрад Рентген. Позднее он открыл X-лучи, которые быстро стали важнейшим инструментом медицины.",
+      "de": "Am 27. Maerz 1845 wurde der Physiker Wilhelm Conrad Roentgen in Lennep, heute ein Teil von Remscheid, geboren. Spaeter entdeckte er die X-Strahlen, die rasch zu einem wichtigen Werkzeug der Medizin wurden.",
+      "en": "On 27 March 1845, physicist Wilhelm Conrad Roentgen was born in Lennep, now part of Remscheid. He later discovered X-rays, which quickly became a vital tool in medicine."
+    },
+    "importance": {
+      "ru": "Рентген получил первую Нобелевскую премию по физике и показал, как фундаментальное открытие может спасти множество жизней.",
+      "de": "Roentgen erhielt den ersten Nobelpreis fuer Physik und zeigte, wie eine Grundlagenentdeckung viele Leben retten kann.",
+      "en": "Roentgen received the first Nobel Prize in Physics and showed how a basic discovery can save many lives."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "1895-x-rays-discovered",
+        "year": 1895,
+        "title": {
+          "ru": "Открытие X-лучей",
+          "de": "Entdeckung der X-Strahlen",
+          "en": "Discovery of X-rays"
+        },
+        "description": {
+          "ru": "В Вюрцбурге Рентген обнаружил неизвестное излучение и назвал его X-лучами. Уже вскоре врачи начали использовать снимки, чтобы видеть кости и инородные предметы внутри тела.",
+          "de": "In Wuerzburg entdeckte Roentgen eine unbekannte Strahlung und nannte sie X-Strahlen. Schon bald nutzten Aerzte Aufnahmen, um Knochen und Fremdkoerper im Koerper zu sehen.",
+          "en": "In Wuerzburg, Roentgen discovered unknown radiation and called it X-rays. Doctors soon used images to see bones and foreign objects inside the body."
+        },
+        "importance": {
+          "ru": "Сегодня рентгеновские снимки кажутся обычными, но в 1895 году это выглядело почти невероятно.",
+          "de": "Heute wirken Roentgenbilder alltaeglich, aber 1895 erschien das fast unglaublich.",
+          "en": "X-ray images seem ordinary today, but in 1895 they looked almost unbelievable."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Рентген не запатентовал своё открытие, чтобы оно могло свободно использоваться.",
+    "de": "Roentgen liess seine Entdeckung nicht patentieren, damit sie frei genutzt werden konnte.",
+    "en": "Roentgen did not patent his discovery so it could be used freely."
+  },
+  "sources": [
+    {
+      "label": "Nobel Prize: Wilhelm Roentgen facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1901/rontgen/facts/"
+    },
+    {
+      "label": "Nobel Prize: Wilhelm Roentgen biography",
+      "url": "https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/"
+    }
+  ]
+}

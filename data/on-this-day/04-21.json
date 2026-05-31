@@ -1,0 +1,65 @@
+{
+  "date": "04-21",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1782-friedrich-froebel-born",
+    "year": 1782,
+    "title": {
+      "ru": "Родился Фридрих Фрёбель",
+      "de": "Friedrich Froebel wird geboren",
+      "en": "Friedrich Froebel is born"
+    },
+    "description": {
+      "ru": "21 апреля 1782 года в Обервайсбахе в Тюрингии родился педагог Фридрих Фрёбель. Он стал создателем идеи детского сада.",
+      "de": "Am 21. April 1782 wurde der Paedagoge Friedrich Froebel in Oberweissbach in Thueringen geboren. Er wurde zum Begruender der Idee des Kindergartens.",
+      "en": "On 21 April 1782, educator Friedrich Froebel was born in Oberweissbach in Thuringia. He became the founder of the kindergarten idea."
+    },
+    "importance": {
+      "ru": "Фрёбель изменил отношение к раннему детству: игра стала частью образования, а не просто развлечением.",
+      "de": "Froebel veraenderte den Blick auf die fruehe Kindheit: Spiel wurde Teil der Bildung, nicht nur Unterhaltung.",
+      "en": "Froebel changed views of early childhood: play became part of education, not just entertainment."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "1837-kindergarten-idea",
+        "year": 1837,
+        "title": {
+          "ru": "Идея детского сада",
+          "de": "Die Idee des Kindergartens",
+          "en": "The kindergarten idea"
+        },
+        "description": {
+          "ru": "В 1837 году Фрёбель открыл учреждение для маленьких детей, которое позднее назвал Kindergarten. Название буквально означает «детский сад» и стало международным словом.",
+          "de": "1837 eroeffnete Froebel eine Einrichtung fuer kleine Kinder, die er spaeter Kindergarten nannte. Der Name wurde zu einem internationalen Wort.",
+          "en": "In 1837, Froebel opened an institution for young children that he later called Kindergarten. The name became an international word."
+        },
+        "importance": {
+          "ru": "Это редкий случай, когда немецкое слово вошло во многие языки почти без перевода.",
+          "de": "Das ist ein seltener Fall, in dem ein deutsches Wort fast ohne Uebersetzung in viele Sprachen einging.",
+          "en": "It is a rare case of a German word entering many languages almost untranslated."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Фрёбель считал, что дети учатся через действие, наблюдение и игру с простыми формами.",
+    "de": "Froebel meinte, dass Kinder durch Handeln, Beobachten und Spielen mit einfachen Formen lernen.",
+    "en": "Froebel believed children learn through action, observation and play with simple forms."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Friedrich Froebel",
+      "url": "https://www.britannica.com/biography/Friedrich-Froebel"
+    },
+    {
+      "label": "Froebel Web: timeline",
+      "url": "https://www.froebelweb.org/webline.html"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "09-17",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1179-hildegard-of-bingen-dies",
+    "year": 1179,
+    "title": {
+      "ru": "Умерла Хильдегарда Бингенская",
+      "de": "Hildegard von Bingen stirbt",
+      "en": "Hildegard of Bingen dies"
+    },
+    "description": {
+      "ru": "17 сентября 1179 года на Рупертсберге близ Бингена умерла Хильдегарда Бингенская. Она была аббатисой, писательницей, композитором, мыслительницей и автором трудов о природе.",
+      "de": "Am 17. September 1179 starb Hildegard von Bingen auf dem Rupertsberg bei Bingen. Sie war Aebtissin, Schriftstellerin, Komponistin, Denkerin und Autorin von Schriften ueber die Natur.",
+      "en": "On 17 September 1179, Hildegard of Bingen died at Rupertsberg near Bingen. She was an abbess, writer, composer, thinker and author of works on nature."
+    },
+    "importance": {
+      "ru": "Хильдегарда показывает, что средневековая Германия была не только миром рыцарей и императоров, но и миром знаний, музыки и рукописей.",
+      "de": "Hildegard zeigt, dass das mittelalterliche Deutschland nicht nur aus Rittern und Kaisern bestand, sondern auch aus Wissen, Musik und Handschriften.",
+      "en": "Hildegard shows that medieval Germany was not only a world of knights and emperors, but also of knowledge, music and manuscripts."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "hildegard-music-and-manuscripts",
+        "year": 1179,
+        "title": {
+          "ru": "Музыка, видения и книги",
+          "de": "Musik, Visionen und Buecher",
+          "en": "Music, visions and books"
+        },
+        "description": {
+          "ru": "Хильдегарда оставила духовные песнопения, богословские тексты и сочинения о человеке и природе. Для XII века это был необычайно широкий круг занятий.",
+          "de": "Hildegard hinterliess geistliche Gesaenge, theologische Texte und Schriften ueber Mensch und Natur. Fuer das 12. Jahrhundert war das ein ungewoehnlich breites Feld.",
+          "en": "Hildegard left sacred songs, theological texts and writings on humanity and nature. For the 12th century, that was an unusually wide range."
+        },
+        "importance": {
+          "ru": "Её имя помогает увидеть роль женщин в культуре Средневековья.",
+          "de": "Ihr Name hilft, die Rolle von Frauen in der Kultur des Mittelalters zu erkennen.",
+          "en": "Her name helps reveal the role of women in medieval culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В Бингене и Рюдесхайме память о Хильдегарде до сих пор связана с музеями, монастырской традицией и рейнским пейзажем.",
+    "de": "In Bingen und Ruedesheim ist die Erinnerung an Hildegard bis heute mit Museen, Klostertradition und Rheinlandschaft verbunden.",
+    "en": "In Bingen and Ruedesheim, Hildegard's memory is still linked with museums, monastic tradition and the Rhine landscape."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Death of Hildegard of Bingen",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1179-09-17-death-of-hildegard-of-bingen/"
+    },
+    {
+      "label": "Deutsche Biographie: Hildegard von Bingen",
+      "url": "https://www.deutsche-biographie.de/sfz32286.html"
+    }
+  ]
+}
