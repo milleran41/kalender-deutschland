@@ -1,0 +1,182 @@
+{
+  "date": "05-31",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1916-battle-of-jutland",
+    "year": 1916,
+    "title": {
+      "ru": "Началось Ютландское сражение",
+      "de": "Die Skagerrakschlacht beginnt",
+      "en": "The Battle of Jutland begins"
+    },
+    "description": {
+      "ru": "31 мая 1916 года британский Гранд-флит и германский Флот открытого моря столкнулись у берегов Ютландии. Это стало крупнейшим морским сражением Первой мировой войны.",
+      "de": "Am 31. Mai 1916 trafen die britische Grand Fleet und die deutsche Hochseeflotte vor Jütland aufeinander. Es wurde die größte Seeschlacht des Ersten Weltkriegs.",
+      "en": "On 31 May 1916, Britain's Grand Fleet and Germany's High Seas Fleet clashed off Jutland. It became the largest naval battle of the First World War."
+    },
+    "importance": {
+      "ru": "Сражение не принесло Германии решающего перелома и показало пределы её надводного флота.",
+      "de": "Die Schlacht brachte Deutschland keinen entscheidenden Durchbruch und zeigte die Grenzen seiner Hochseeflotte.",
+      "en": "The battle did not give Germany a decisive breakthrough and showed the limits of its surface fleet."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "1849-frankfurt-parliament-stuttgart",
+        "year": 1849,
+        "title": {
+          "ru": "Франкфуртский парламент покинул Франкфурт",
+          "de": "Die Frankfurter Nationalversammlung verlässt Frankfurt",
+          "en": "The Frankfurt Parliament leaves Frankfurt"
+        },
+        "description": {
+          "ru": "Оставшиеся депутаты первого общегерманского парламента решили перенести работу в Штутгарт. Это был один из последних эпизодов революции 1848–1849 годов.",
+          "de": "Die verbliebenen Abgeordneten des ersten gesamtdeutschen Parlaments verlegten ihre Arbeit nach Stuttgart. Es war eine der letzten Phasen der Revolution von 1848/49.",
+          "en": "The remaining deputies of the first all-German parliament moved their work to Stuttgart. It was one of the final episodes of the 1848–1849 revolution."
+        },
+        "importance": {
+          "ru": "Событие показывает, как близко Германия подошла к парламентскому объединению ещё до 1871 года.",
+          "de": "Das Ereignis zeigt, wie nahe Deutschland schon vor 1871 an einer parlamentarischen Einigung war.",
+          "en": "It shows how close Germany came to parliamentary unification before 1871."
+        }
+      },
+      {
+        "id": "1916-battle-of-jutland-history",
+        "year": 1916,
+        "title": {
+          "ru": "Битва флотов в Северном море",
+          "de": "Flottenschlacht in der Nordsee",
+          "en": "Fleet battle in the North Sea"
+        },
+        "description": {
+          "ru": "Ютландское сражение продолжалось с 31 мая по 1 июня. В нём участвовали главные силы британского и германского флотов.",
+          "de": "Die Skagerrakschlacht dauerte vom 31. Mai bis 1. Juni. Beteiligt waren die Hauptkräfte der britischen und deutschen Flotten.",
+          "en": "The Battle of Jutland lasted from 31 May to 1 June. The main British and German battle fleets took part."
+        },
+        "importance": {
+          "ru": "После него германский надводный флот уже не смог изменить баланс сил на море.",
+          "de": "Danach konnte die deutsche Hochseeflotte das Kräfteverhältnis zur See nicht mehr wenden.",
+          "en": "Afterward, Germany's surface fleet could no longer change the balance at sea."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "1852-julius-richard-petri-born",
+        "year": 1852,
+        "title": {
+          "ru": "Родился Юлиус Рихард Петри",
+          "de": "Julius Richard Petri wird geboren",
+          "en": "Julius Richard Petri is born"
+        },
+        "description": {
+          "ru": "Немецкий микробиолог родился в Бармене, сегодня это часть Вупперталя. Его имя носит чашка Петри, один из самых узнаваемых предметов лаборатории.",
+          "de": "Der deutsche Mikrobiologe wurde in Barmen geboren, heute ein Stadtteil von Wuppertal. Nach ihm ist die Petrischale benannt, eines der bekanntesten Laborgeräte.",
+          "en": "The German microbiologist was born in Barmen, now part of Wuppertal. The Petri dish, one of the best-known laboratory tools, is named after him."
+        },
+        "importance": {
+          "ru": "Без таких простых лабораторных инструментов трудно представить современную микробиологию.",
+          "de": "Ohne solche einfachen Laborgeräte ist moderne Mikrobiologie kaum vorstellbar.",
+          "en": "Modern microbiology is hard to imagine without such simple laboratory tools."
+        }
+      },
+      {
+        "id": "1945-rainer-werner-fassbinder-born",
+        "year": 1945,
+        "title": {
+          "ru": "Родился Райнер Вернер Фассбиндер",
+          "de": "Rainer Werner Fassbinder wird geboren",
+          "en": "Rainer Werner Fassbinder is born"
+        },
+        "description": {
+          "ru": "Будущий режиссёр, актёр и драматург родился в Бад-Вёрисхофене в Баварии. Он стал одной из ключевых фигур Нового немецкого кино.",
+          "de": "Der spätere Regisseur, Schauspieler und Dramatiker wurde in Bad Wörishofen in Bayern geboren. Er wurde zu einer Schlüsselfigur des Neuen Deutschen Films.",
+          "en": "The future director, actor and playwright was born in Bad Wörishofen, Bavaria. He became a key figure of New German Cinema."
+        },
+        "importance": {
+          "ru": "Фассбиндер сделал немецкое кино заметным далеко за пределами Германии.",
+          "de": "Fassbinder machte das deutsche Kino weit über Deutschland hinaus sichtbar.",
+          "en": "Fassbinder made German cinema visible far beyond Germany."
+        }
+      }
+    ],
+    "sport": [
+      {
+        "id": "1903-first-german-football-champion",
+        "year": 1903,
+        "title": {
+          "ru": "Первый финал чемпионата Германии по футболу",
+          "de": "Erstes Endspiel um die deutsche Fußballmeisterschaft",
+          "en": "First German football championship final"
+        },
+        "description": {
+          "ru": "В Альтоне VfB Leipzig победил DFC Prag со счётом 7:2. Так появился первый официальный чемпион Германии по футболу.",
+          "de": "In Altona besiegte der VfB Leipzig den DFC Prag mit 7:2. Damit gab es den ersten offiziellen deutschen Fußballmeister.",
+          "en": "In Altona, VfB Leipzig defeated DFC Prag 7–2. Germany had its first official national football champion."
+        },
+        "importance": {
+          "ru": "Это отправная точка истории немецких футбольных чемпионатов.",
+          "de": "Das ist der Ausgangspunkt der deutschen Fußballmeisterschaften.",
+          "en": "It marks the starting point of German national football championships."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "1903-prague-in-first-german-final",
+        "year": 1903,
+        "title": {
+          "ru": "В первом немецком финале играл клуб из Праги",
+          "de": "Im ersten deutschen Finale spielte ein Klub aus Prag",
+          "en": "A Prague club played in the first German final"
+        },
+        "description": {
+          "ru": "Соперником VfB Leipzig был DFC Prag. В раннем футболе границы турниров ещё выглядели непривычно для современного зрителя.",
+          "de": "Gegner des VfB Leipzig war der DFC Prag. Im frühen Fußball wirkten Turniergrenzen noch anders als heute.",
+          "en": "VfB Leipzig's opponent was DFC Prag. Early football tournaments had borders that look unusual today."
+        },
+        "importance": {
+          "ru": "Хорошее напоминание, что немецкий футбол начинался в очень пёстрой спортивной среде.",
+          "de": "Es erinnert daran, dass der deutsche Fußball in einem sehr vielfältigen Umfeld begann.",
+          "en": "It is a reminder that German football began in a very mixed sporting environment."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "31 мая хорошо показывает разные стороны Германии: революционный парламент, морская война, лабораторная наука, авторское кино и ранний футбол.",
+    "de": "Der 31. Mai zeigt viele Seiten Deutschlands: Revolutionsparlament, Seekrieg, Laborwissenschaft, Autorenkino und frühen Fußball.",
+    "en": "31 May shows many sides of Germany: revolutionary parliament, naval war, laboratory science, auteur cinema and early football."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Battle of Jutland",
+      "url": "https://www.britannica.com/event/Battle-of-Jutland"
+    },
+    {
+      "label": "Imperial War Museums: Jutland",
+      "url": "https://www.iwm.org.uk/history/what-was-the-battle-of-jutland"
+    },
+    {
+      "label": "German Bundestag: Frankfurt National Assembly",
+      "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/1848"
+    },
+    {
+      "label": "CDC: Petri Dish",
+      "url": "https://wwwnc.cdc.gov/eid/article/27/1/ET-2701_article"
+    },
+    {
+      "label": "Wikimedia Commons: Fassbinder",
+      "url": "https://commons.wikimedia.org/wiki/Category:Rainer_Werner_Fassbinder"
+    },
+    {
+      "label": "DFB: VfB Leipzig",
+      "url": "https://www.dfb.de/news/vfb-leipzig-der-erste-deutsche-fussballmeister"
+    }
+  ]
+}

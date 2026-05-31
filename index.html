@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/leaflet.css">
   <link rel="stylesheet" href="css/atlas.css">
   <link rel="stylesheet" href="css/history.css">
+  <link rel="stylesheet" href="css/on-this-day.css">
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     /* Fallback: показать контент, даже если JS упадет */
@@ -67,6 +68,9 @@
         <button id="btnOpenHistory" class="btn-secondary flex items-center gap-2 shadow-lg hover:shadow-xl transition-all" style="border-radius: 30px; padding: 10px 24px; border: 2px solid #6366f1;">
           <i data-lucide="landmark" class="w-[20px] h-[20px]"></i> <span class="font-bold text-sm">История Германии</span>
         </button>
+        <button id="btnOpenOnThisDay" class="btn-secondary flex items-center gap-2 shadow-lg hover:shadow-xl transition-all" style="border-radius: 30px; padding: 10px 24px; border: 2px solid #6366f1;">
+          <i data-lucide="calendar" class="w-[20px] h-[20px]"></i> <span class="font-bold text-sm">День в истории</span>
+        </button>
       </div>
       <div class="brand-milleran" aria-label="milleran">milleran</div>
     </div>
@@ -85,5 +89,6 @@
   <script src="js/history-data.js"></script>
   <script src="js/history-extra.js"></script>
   <script src="js/history.js"></script>
+  <script src="js/on-this-day.js"></script>
 </body>
 </html>
