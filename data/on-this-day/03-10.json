@@ -1,0 +1,65 @@
+{
+  "date": "03-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1870-deutsche-bank-licensed",
+    "year": 1870,
+    "title": {
+      "ru": "Deutsche Bank получила банковскую лицензию",
+      "de": "Die Deutsche Bank erhaelt ihre Banklizenz",
+      "en": "Deutsche Bank receives its banking license"
+    },
+    "description": {
+      "ru": "10 марта 1870 года прусское правительство выдало лицензию Deutsche Bank. Банк был создан для поддержки внешней торговли и немецкого экспорта.",
+      "de": "Am 10. Maerz 1870 erteilte die preussische Regierung der Deutschen Bank die Banklizenz. Die Bank wurde zur Foerderung des Aussenhandels und deutscher Exporte gegruendet.",
+      "en": "On 10 March 1870, the Prussian government granted Deutsche Bank its banking license. The bank was founded to support foreign trade and German exports."
+    },
+    "importance": {
+      "ru": "Дата показывает, как финансовые институты сопровождали экономический подъём Германии XIX века.",
+      "de": "Das Datum zeigt, wie Finanzinstitutionen den wirtschaftlichen Aufstieg Deutschlands im 19. Jahrhundert begleiteten.",
+      "en": "The date shows how financial institutions accompanied Germany's economic rise in the nineteenth century."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "exports-and-banking",
+        "year": 1870,
+        "title": {
+          "ru": "Банк для мировой торговли",
+          "de": "Eine Bank fuer den Welthandel",
+          "en": "A bank for world trade"
+        },
+        "description": {
+          "ru": "Немецким компаниям нужны были финансовые связи за границей. Deutsche Bank стала частью этой новой инфраструктуры промышленной экономики.",
+          "de": "Deutsche Unternehmen brauchten Finanzverbindungen ins Ausland. Die Deutsche Bank wurde Teil dieser neuen Infrastruktur der Industriewirtschaft.",
+          "en": "German companies needed financial links abroad. Deutsche Bank became part of the new infrastructure of the industrial economy."
+        },
+        "importance": {
+          "ru": "Экономическая история здесь напрямую связана с политическим объединением и экспортом.",
+          "de": "Wirtschaftsgeschichte ist hier direkt mit politischer Einigung und Export verbunden.",
+          "en": "Economic history here is directly linked with political unification and exports."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Deutsche Bank была основана в Берлине, а с 1957 года её штаб-квартира находится во Франкфурте-на-Майне.",
+    "de": "Die Deutsche Bank wurde in Berlin gegruendet; seit 1957 befindet sich ihr Sitz in Frankfurt am Main.",
+    "en": "Deutsche Bank was founded in Berlin; since 1957 its headquarters have been in Frankfurt am Main."
+  },
+  "sources": [
+    {
+      "label": "Britannica Money: Deutsche Bank",
+      "url": "https://www.britannica.com/topic/Deutsche-Bank-AG"
+    },
+    {
+      "label": "Deutsche Bank: chronicle PDF",
+      "url": "https://www.db.com/files/documents/Deutsche-Bank-History--Chronicle-from-1870-until-today.pdf"
+    }
+  ]
+}

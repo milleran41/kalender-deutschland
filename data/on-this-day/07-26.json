@@ -1,0 +1,65 @@
+{
+  "date": "07-26",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1957-bundesbank-act",
+    "year": 1957,
+    "title": {
+      "ru": "Принят закон о Deutsche Bundesbank",
+      "de": "Das Bundesbankgesetz wird verabschiedet",
+      "en": "The Bundesbank Act is passed"
+    },
+    "description": {
+      "ru": "26 июля 1957 года был принят закон о Deutsche Bundesbank. Он создал единый центральный банк ФРГ, который вскоре стал символом денежной стабильности.",
+      "de": "Am 26. Juli 1957 wurde das Gesetz ueber die Deutsche Bundesbank beschlossen. Es schuf die einheitliche Zentralbank der Bundesrepublik, die bald zum Symbol fuer Geldwertstabilitaet wurde.",
+      "en": "On 26 July 1957, the Bundesbank Act was passed. It created West Germany's unified central bank, which soon became a symbol of monetary stability."
+    },
+    "importance": {
+      "ru": "Bundesbank сыграла ключевую роль в истории немецкой марки и европейской денежной политики.",
+      "de": "Die Bundesbank spielte eine Schluesselrolle in der Geschichte der D-Mark und der europaeischen Geldpolitik.",
+      "en": "The Bundesbank played a key role in the history of the Deutsche Mark and European monetary policy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "independent-central-bank",
+        "year": 1957,
+        "title": {
+          "ru": "Независимый центральный банк",
+          "de": "Eine unabhaengige Zentralbank",
+          "en": "An independent central bank"
+        },
+        "description": {
+          "ru": "Bundesbank была независима от прямых указаний правительства. Эта идея сильно повлияла на будущую архитектуру Европейского центрального банка.",
+          "de": "Die Bundesbank war von direkten Weisungen der Bundesregierung unabhaengig. Diese Idee beeinflusste spaeter die Architektur der Europaeischen Zentralbank.",
+          "en": "The Bundesbank was independent from direct government instructions. This idea later influenced the architecture of the European Central Bank."
+        },
+        "importance": {
+          "ru": "Финансовая история Германии здесь напрямую связана с историей евро.",
+          "de": "Deutschlands Finanzgeschichte ist hier direkt mit der Geschichte des Euro verbunden.",
+          "en": "Germany's financial history here is directly linked with the history of the euro."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Закон вступил в силу 1 августа 1957 года.",
+    "de": "Das Gesetz trat am 1. August 1957 in Kraft.",
+    "en": "The law entered into force on 1 August 1957."
+  },
+  "sources": [
+    {
+      "label": "Deutsche Bundesbank: timeline",
+      "url": "https://www.bundesbank.de/en/bundesbank/history"
+    },
+    {
+      "label": "bpb: founding of the Bundesbank",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/252159/vor-60-jahren-gruendung-der-bundesbank/"
+    }
+  ]
+}

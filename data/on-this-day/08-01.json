@@ -1,0 +1,65 @@
+{
+  "date": "08-01",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1863-bayer-founded",
+    "year": 1863,
+    "title": {
+      "ru": "Основана компания Bayer",
+      "de": "Bayer wird gegruendet",
+      "en": "Bayer is founded"
+    },
+    "description": {
+      "ru": "1 августа 1863 года Фридрих Байер и Иоганн Фридрих Вескотт основали в Бармене компанию Friedr. Bayer et comp. Позднее Bayer стала одной из крупнейших немецких химико-фармацевтических компаний.",
+      "de": "Am 1. August 1863 gruendeten Friedrich Bayer und Johann Friedrich Weskott in Barmen die Firma Friedr. Bayer et comp. Spaeter wurde Bayer zu einem der groessten deutschen Chemie- und Pharmaunternehmen.",
+      "en": "On 1 August 1863, Friedrich Bayer and Johann Friedrich Weskott founded Friedr. Bayer et comp. in Barmen. Bayer later became one of Germany's largest chemical and pharmaceutical companies."
+    },
+    "importance": {
+      "ru": "История Bayer показывает связь немецкой химии, медицины и промышленного роста.",
+      "de": "Die Geschichte von Bayer zeigt die Verbindung von deutscher Chemie, Medizin und industriellem Wachstum.",
+      "en": "Bayer's history shows the link between German chemistry, medicine and industrial growth."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "barmen-wuppertal-industry",
+        "year": 1863,
+        "title": {
+          "ru": "Бармен и промышленная Вуппертальская долина",
+          "de": "Barmen und das industrielle Wuppertal",
+          "en": "Barmen and industrial Wuppertal"
+        },
+        "description": {
+          "ru": "Бармен сегодня является частью Вупперталя. В XIX веке этот регион был важным центром текстильной, красильной и химической промышленности.",
+          "de": "Barmen ist heute ein Teil von Wuppertal. Im 19. Jahrhundert war die Region ein wichtiges Zentrum von Textil-, Farbstoff- und Chemieindustrie.",
+          "en": "Barmen is now part of Wuppertal. In the nineteenth century, the region was an important center of textile, dye and chemical industries."
+        },
+        "importance": {
+          "ru": "Такие даты помогают видеть промышленную Германию не только через Рур, но и через другие регионы.",
+          "de": "Solche Daten zeigen das industrielle Deutschland nicht nur durch das Ruhrgebiet, sondern auch durch andere Regionen.",
+          "en": "Dates like this show industrial Germany not only through the Ruhr but also through other regions."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Бармен, где появилась Bayer, сегодня входит в город Вупперталь в Северном Рейне-Вестфалии.",
+    "de": "Barmen, der Gruendungsort von Bayer, gehoert heute zu Wuppertal in Nordrhein-Westfalen.",
+    "en": "Barmen, where Bayer was founded, is now part of Wuppertal in North Rhine-Westphalia."
+  },
+  "sources": [
+    {
+      "label": "Bayer: history",
+      "url": "https://www.bayer.com/en/history"
+    },
+    {
+      "label": "Bayer: Unternehmensgeschichte",
+      "url": "https://www.bayer.com/de/unternehmensgeschichte/unternehmensgeschichte"
+    }
+  ]
+}

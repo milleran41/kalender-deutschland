@@ -45,6 +45,27 @@
           "en": "It is a curious example of a wedding ground becoming a global brand."
         }
       }
+    ],
+    "science": [
+      {
+        "id": "1847-siemens-founded",
+        "year": 1847,
+        "title": {
+          "ru": "Начала работу мастерская Siemens & Halske",
+          "de": "Siemens & Halske beginnt in einer Berliner Werkstatt",
+          "en": "Siemens & Halske begins in a Berlin workshop"
+        },
+        "description": {
+          "ru": "12 октября 1847 года в Берлине открылась первая мастерская компании Siemens & Halske. Из небольшой телеграфной мастерской вырос один из крупнейших немецких технологических концернов.",
+          "de": "Am 12. Oktober 1847 oeffnete in Berlin die erste Werkstatt von Siemens & Halske. Aus einer kleinen Telegrafenwerkstatt entstand einer der groessten deutschen Technologiekonzerne.",
+          "en": "On 12 October 1847, the first Siemens & Halske workshop opened in Berlin. A small telegraph workshop grew into one of Germany's largest technology groups."
+        },
+        "importance": {
+          "ru": "Дата показывает, как телеграф и электротехника стали частью немецкой индустриальной истории.",
+          "de": "Das Datum zeigt, wie Telegrafie und Elektrotechnik Teil der deutschen Industriegeschichte wurden.",
+          "en": "The date shows how telegraphy and electrical engineering became part of German industrial history."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,14 @@
     {
       "label": "City of Munich: Oktoberfest",
       "url": "https://stadt.muenchen.de/en/info/oktoberfest.html"
+    },
+    {
+      "label": "Siemens: 170 years of Siemens",
+      "url": "https://press.siemens.com/global/en/pressrelease/170-years-siemens-inner-courtyard-cloud"
+    },
+    {
+      "label": "Siemens: history and heritage",
+      "url": "https://www.siemens.com/en-us/company/history-heritage/"
     }
   ]
 }

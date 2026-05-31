@@ -1,0 +1,65 @@
+{
+  "date": "04-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1865-basf-founded",
+    "year": 1865,
+    "title": {
+      "ru": "Основана BASF",
+      "de": "BASF wird gegruendet",
+      "en": "BASF is founded"
+    },
+    "description": {
+      "ru": "6 апреля 1865 года в Мангейме была основана Badische Anilin- & Sodafabrik, будущая BASF. Компания выросла из химии красителей в один из крупнейших химических концернов мира.",
+      "de": "Am 6. April 1865 wurde in Mannheim die Badische Anilin- & Sodafabrik, die spaetere BASF, gegruendet. Aus der Farbstoffchemie entwickelte sich einer der groessten Chemiekonzerne der Welt.",
+      "en": "On 6 April 1865, Badische Anilin- & Sodafabrik, later BASF, was founded in Mannheim. From dye chemistry it grew into one of the world's largest chemical companies."
+    },
+    "importance": {
+      "ru": "Дата показывает роль химической промышленности в развитии немецкой экономики.",
+      "de": "Das Datum zeigt die Rolle der chemischen Industrie fuer die deutsche Wirtschaft.",
+      "en": "The date shows the role of the chemical industry in Germany's economic development."
+    }
+  },
+  "categories": {
+    "science": [
+      {
+        "id": "chemical-industry-rhine",
+        "year": 1865,
+        "title": {
+          "ru": "Химия на Рейне",
+          "de": "Chemie am Rhein",
+          "en": "Chemistry on the Rhine"
+        },
+        "description": {
+          "ru": "Рейнские и южногерманские промышленные районы стали важными центрами химии. Красители, удобрения и новые материалы меняли производство и быт.",
+          "de": "Die rheinischen und sueddeutschen Industrieregionen wurden wichtige Zentren der Chemie. Farbstoffe, Duengemittel und neue Materialien veraenderten Produktion und Alltag.",
+          "en": "The Rhine and southern German industrial regions became important centers of chemistry. Dyes, fertilizers and new materials changed production and everyday life."
+        },
+        "importance": {
+          "ru": "Индустриализация Германии была не только углём и сталью, но и лабораторией.",
+          "de": "Deutschlands Industrialisierung bestand nicht nur aus Kohle und Stahl, sondern auch aus Laboren.",
+          "en": "Germany's industrialization was not only coal and steel but also laboratories."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Название BASF происходит от первоначального имени Badische Anilin- & Sodafabrik.",
+    "de": "Der Name BASF geht auf Badische Anilin- & Sodafabrik zurueck.",
+    "en": "The name BASF comes from Badische Anilin- & Sodafabrik."
+  },
+  "sources": [
+    {
+      "label": "BASF: Chronology",
+      "url": "https://www.basf.com/gb/en/who-we-are/history/chronology"
+    },
+    {
+      "label": "BASF: history 1865-1901",
+      "url": "https://www.basf.com/global/de/who-we-are/history/chronology/1865-1901"
+    }
+  ]
+}

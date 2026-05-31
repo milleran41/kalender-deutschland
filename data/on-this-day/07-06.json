@@ -1,0 +1,65 @@
+{
+  "date": "07-06",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1884-accident-insurance-law",
+    "year": 1884,
+    "title": {
+      "ru": "Принят закон о страховании от несчастных случаев",
+      "de": "Das Unfallversicherungsgesetz wird beschlossen",
+      "en": "The accident insurance law is passed"
+    },
+    "description": {
+      "ru": "6 июля 1884 года в Германской империи был принят закон о страховании рабочих от несчастных случаев. Он стал ещё одним важным элементом раннего социального страхования.",
+      "de": "Am 6. Juli 1884 wurde im Deutschen Reich das Unfallversicherungsgesetz fuer Arbeiter beschlossen. Es wurde ein weiterer wichtiger Baustein der fruehen Sozialversicherung.",
+      "en": "On 6 July 1884, the German Empire passed the accident insurance law for workers. It became another important building block of early social insurance."
+    },
+    "importance": {
+      "ru": "Система страхования от несчастных случаев стала образцом, который изучали и за пределами Германии.",
+      "de": "Das System der Unfallversicherung wurde zu einem Modell, das auch ausserhalb Deutschlands beachtet wurde.",
+      "en": "The accident insurance system became a model studied beyond Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "industrial-risk",
+        "year": 1884,
+        "title": {
+          "ru": "Индустриальный риск",
+          "de": "Industrielles Risiko",
+          "en": "Industrial risk"
+        },
+        "description": {
+          "ru": "Фабрики, шахты и железные дороги создавали новые опасности для работников. Закон отвечал на вопрос, кто несёт ответственность за травмы на производстве.",
+          "de": "Fabriken, Bergwerke und Eisenbahnen brachten neue Gefahren fuer Arbeiter. Das Gesetz beantwortete die Frage, wer fuer Arbeitsunfaelle Verantwortung traegt.",
+          "en": "Factories, mines and railways created new dangers for workers. The law addressed who bears responsibility for workplace injuries."
+        },
+        "importance": {
+          "ru": "Социальная история здесь напрямую связана с промышленной картой Германии.",
+          "de": "Sozialgeschichte ist hier direkt mit der industriellen Karte Deutschlands verbunden.",
+          "en": "Social history here is directly linked with Germany's industrial map."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Немецкое обязательное страхование от несчастных случаев продолжает существовать в современной форме.",
+    "de": "Die gesetzliche Unfallversicherung besteht in moderner Form bis heute.",
+    "en": "German statutory accident insurance continues to exist in a modern form today."
+  },
+  "sources": [
+    {
+      "label": "DGUV: brief history",
+      "url": "https://www.dguv.de/en/about-us/brief-history/index.jsp"
+    },
+    {
+      "label": "Deutsche Digitale Bibliothek: accident insurance law 1884",
+      "url": "https://www.deutsche-digitale-bibliothek.de/item/TIOF64MSQW6Z7QLWDXBXD6I7YO2F35LG"
+    }
+  ]
+}

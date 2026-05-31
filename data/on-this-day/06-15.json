@@ -1,0 +1,65 @@
+{
+  "date": "06-15",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1883-health-insurance-law",
+    "year": 1883,
+    "title": {
+      "ru": "Принят закон о медицинском страховании рабочих",
+      "de": "Das Krankenversicherungsgesetz fuer Arbeiter wird beschlossen",
+      "en": "The workers' health insurance law is passed"
+    },
+    "description": {
+      "ru": "15 июня 1883 года Германская империя приняла закон о медицинском страховании рабочих. Он стал первой важной частью бисмарковской системы социального страхования.",
+      "de": "Am 15. Juni 1883 beschloss das Deutsche Reich das Krankenversicherungsgesetz fuer Arbeiter. Es wurde der erste wichtige Teil der Sozialversicherung Bismarcks.",
+      "en": "On 15 June 1883, the German Empire passed the workers' health insurance law. It became the first major part of Bismarck's social insurance system."
+    },
+    "importance": {
+      "ru": "Это один из истоков современного социального государства.",
+      "de": "Das ist einer der Urspruenge des modernen Sozialstaats.",
+      "en": "It is one of the origins of the modern welfare state."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "bismarck-social-policy",
+        "year": 1883,
+        "title": {
+          "ru": "Социальная политика Бисмарка",
+          "de": "Bismarcks Sozialpolitik",
+          "en": "Bismarck's social policy"
+        },
+        "description": {
+          "ru": "Бисмарк вводил социальные законы не только из заботы о рабочих, но и чтобы ослабить влияние социал-демократов. Политический расчёт и социальная защита здесь шли вместе.",
+          "de": "Bismarck fuehrte Sozialgesetze nicht nur aus Sorge um Arbeiter ein, sondern auch, um den Einfluss der Sozialdemokraten zu schwaechen. Politisches Kalkuel und sozialer Schutz gingen zusammen.",
+          "en": "Bismarck introduced social laws not only out of concern for workers but also to weaken the Social Democrats. Political calculation and social protection went together."
+        },
+        "importance": {
+          "ru": "Дата показывает, что реформы могут иметь смешанные мотивы, но долгие последствия.",
+          "de": "Das Datum zeigt, dass Reformen gemischte Motive, aber lange Folgen haben koennen.",
+          "en": "The date shows that reforms can have mixed motives but long-lasting consequences."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Позднее к системе добавились страхование от несчастных случаев и пенсионное страхование.",
+    "de": "Spaeter kamen Unfallversicherung und Rentenversicherung hinzu.",
+    "en": "Accident insurance and pension insurance were added later."
+  },
+  "sources": [
+    {
+      "label": "Bayern 2: Krankenversicherung 1883",
+      "url": "https://www.br.de/radio/bayern2/sendungen/kalenderblatt/der-deutsche-reichstag-macht-krankenversicherung-zu-pflichtversicherung-100.html"
+    },
+    {
+      "label": "EHES working paper on German social insurance PDF",
+      "url": "https://ehes.org/wp/EHES_227.pdf"
+    }
+  ]
+}
