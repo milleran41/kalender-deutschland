@@ -1,0 +1,90 @@
+{
+  "date": "04-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1938-anschluss-referendum",
+    "year": 1938,
+    "title": {
+      "ru": "Плебисцит по аншлюсу Австрии",
+      "de": "Volksabstimmung zum Anschluss Oesterreichs",
+      "en": "Referendum on Austria's Anschluss"
+    },
+    "description": {
+      "ru": "10 апреля 1938 года в уже оккупированной Австрии и в Германском рейхе прошёл плебисцит, который должен был подтвердить аншлюс. Голосование проводилось под контролем нацистского режима и сопровождалось мощной пропагандой.",
+      "de": "Am 10. April 1938 fand im bereits besetzten Oesterreich und im Deutschen Reich eine Volksabstimmung statt, die den Anschluss bestaetigen sollte. Die Abstimmung stand unter Kontrolle des NS-Regimes und wurde von massiver Propaganda begleitet.",
+      "en": "On 10 April 1938, a referendum was held in already occupied Austria and in the German Reich to confirm the Anschluss. The vote was controlled by the Nazi regime and accompanied by massive propaganda."
+    },
+    "importance": {
+      "ru": "Дата показывает, как диктатура использовала форму голосования для закрепления уже совершённой аннексии.",
+      "de": "Das Datum zeigt, wie eine Diktatur die Form einer Abstimmung nutzte, um eine bereits vollzogene Annexion zu bestaetigen.",
+      "en": "The date shows how a dictatorship used the form of a vote to confirm an annexation that had already taken place."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "anschluss-after-occupation",
+        "year": 1938,
+        "title": {
+          "ru": "Голосование после оккупации",
+          "de": "Abstimmung nach der Besetzung",
+          "en": "Voting after occupation"
+        },
+        "description": {
+          "ru": "Немецкие войска вошли в Австрию 12 марта, то есть почти за месяц до голосования. Поэтому результат нельзя понимать как свободное решение общества.",
+          "de": "Deutsche Truppen marschierten schon am 12. Maerz in Oesterreich ein, also fast einen Monat vor der Abstimmung. Deshalb kann das Ergebnis nicht als freie Entscheidung der Gesellschaft verstanden werden.",
+          "en": "German troops entered Austria on 12 March, almost a month before the vote. The result therefore cannot be understood as a free decision by society."
+        },
+        "importance": {
+          "ru": "Это помогает отличать демократическое голосование от политического спектакля под давлением.",
+          "de": "Das hilft, eine demokratische Abstimmung von einem politischen Schauspiel unter Druck zu unterscheiden.",
+          "en": "It helps distinguish a democratic vote from a political spectacle under pressure."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "ballot-design-propaganda",
+        "year": 1938,
+        "title": {
+          "ru": "Даже бюллетень был пропагандой",
+          "de": "Sogar der Stimmzettel war Propaganda",
+          "en": "Even the ballot was propaganda"
+        },
+        "description": {
+          "ru": "На известных бюллетенях вариант «за» визуально выделялся намного сильнее, чем вариант «нет». Такая деталь показывает, что давление начиналось ещё до подсчёта голосов.",
+          "de": "Auf bekannten Stimmzetteln war das Ja deutlich auffaelliger gestaltet als das Nein. Dieses Detail zeigt, dass der Druck schon vor der Auszaehlung begann.",
+          "en": "On well-known ballots, the 'yes' option was made much more visually prominent than the 'no' option. This detail shows that pressure began even before the votes were counted."
+        },
+        "importance": {
+          "ru": "Иногда дизайн документа сам рассказывает о несвободе выборов.",
+          "de": "Manchmal erzaehlt schon das Design eines Dokuments von der Unfreiheit der Wahl.",
+          "en": "Sometimes the design of a document itself reveals the lack of freedom in an election."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Официальные результаты заявляли более 99 процентов поддержки, но они не отражали свободного волеизъявления.",
+    "de": "Die offiziellen Ergebnisse meldeten mehr als 99 Prozent Zustimmung, spiegelten aber keine freie Willensbildung wider.",
+    "en": "The official results claimed more than 99 percent support, but they did not reflect a free expression of will."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Anschluss",
+      "url": "https://www.britannica.com/event/Anschluss"
+    },
+    {
+      "label": "DHM Blog: Austria's Anschluss with Germany in 1938",
+      "url": "https://www.dhm.de/blog/2018/03/12/stories-austrias-anschluss-with-germany-in-1938/"
+    },
+    {
+      "label": "Documentation Centre of Austrian Resistance: NS-Volksabstimmung",
+      "url": "https://www.doew.at/n/epr0b/JA"
+    }
+  ]
+}

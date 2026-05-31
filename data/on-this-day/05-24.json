@@ -1,0 +1,90 @@
+{
+  "date": "05-24",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1949-basic-law-first-full-day",
+    "year": 1949,
+    "title": {
+      "ru": "ФРГ начала жить по Основному закону",
+      "de": "Die Bundesrepublik lebt nach dem Grundgesetz",
+      "en": "West Germany begins life under the Basic Law"
+    },
+    "description": {
+      "ru": "24 мая 1949 года был первый полный день действия Основного закона ФРГ, промульгированного накануне в Бонне. Новый документ закрепил демократию, федерализм, правовое государство и основные права.",
+      "de": "Der 24. Mai 1949 war der erste volle Tag unter dem Grundgesetz der Bundesrepublik, das am Vortag in Bonn verkuendet worden war. Das neue Dokument verankerte Demokratie, Foederalismus, Rechtsstaat und Grundrechte.",
+      "en": "24 May 1949 was the first full day under the Basic Law of the Federal Republic, which had been promulgated in Bonn the previous day. The new document anchored democracy, federalism, the rule of law and fundamental rights."
+    },
+    "importance": {
+      "ru": "Основной закон стал фундаментом западногерманской, а затем объединённой немецкой демократии.",
+      "de": "Das Grundgesetz wurde zum Fundament der westdeutschen und spaeter der gesamtdeutschen Demokratie.",
+      "en": "The Basic Law became the foundation of West German and later united German democracy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "constitution-after-dictatorship",
+        "year": 1949,
+        "title": {
+          "ru": "Конституция после диктатуры",
+          "de": "Verfassung nach der Diktatur",
+          "en": "Constitution after dictatorship"
+        },
+        "description": {
+          "ru": "Авторы Основного закона сознательно учитывали опыт Веймарской республики и нацистской диктатуры. Поэтому защита человеческого достоинства и ограничение власти государства получили особое значение.",
+          "de": "Die Autoren des Grundgesetzes beruecksichtigten bewusst die Erfahrungen der Weimarer Republik und der NS-Diktatur. Darum erhielten der Schutz der Menschenwuerde und die Begrenzung staatlicher Macht besonderes Gewicht.",
+          "en": "The authors of the Basic Law consciously took account of the Weimar Republic and Nazi dictatorship. Protection of human dignity and limits on state power therefore received special weight."
+        },
+        "importance": {
+          "ru": "Так видно, как тяжёлый исторический опыт превращается в правовые гарантии.",
+          "de": "So wird sichtbar, wie schwere historische Erfahrung zu rechtlichen Garantien wird.",
+          "en": "It shows how painful historical experience can become legal safeguards."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "basic-law-not-constitution-name",
+        "year": 1949,
+        "title": {
+          "ru": "Почему не «конституция»?",
+          "de": "Warum nicht Verfassung?",
+          "en": "Why not 'constitution'?"
+        },
+        "description": {
+          "ru": "Документ назвали Основным законом, потому что он задумывался как временный порядок для западной части страны до будущего единства Германии. В итоге он оказался необычайно долговечным.",
+          "de": "Das Dokument hiess Grundgesetz, weil es als vorlaeufige Ordnung fuer den westlichen Teil des Landes bis zu einer kuenftigen deutschen Einheit gedacht war. Am Ende erwies es sich als ausserordentlich langlebig.",
+          "en": "The document was called Basic Law because it was intended as a provisional order for the western part of the country until future German unity. In the end, it proved extraordinarily durable."
+        },
+        "importance": {
+          "ru": "Иногда временное решение становится самой устойчивой частью политической системы.",
+          "de": "Manchmal wird eine vorlaeufige Loesung zum stabilsten Teil eines politischen Systems.",
+          "en": "Sometimes a provisional solution becomes the most stable part of a political system."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Первая статья Основного закона начинается с защиты человеческого достоинства.",
+    "de": "Der erste Artikel des Grundgesetzes beginnt mit dem Schutz der Menschenwuerde.",
+    "en": "The first article of the Basic Law begins with the protection of human dignity."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: The Basic Law",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1949-05-23-the-basic-law/"
+    },
+    {
+      "label": "Bundesregierung: 70 years of the Basic Law",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/media-center/1631156-1631156"
+    },
+    {
+      "label": "GHDI: Basic Law of the Federal Republic of Germany",
+      "url": "https://ghdi.ghi-dc.org/pdf/eng/Founding%209%20ENG%20Basic%20Law.pdf"
+    }
+  ]
+}

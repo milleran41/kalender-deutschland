@@ -1,0 +1,90 @@
+{
+  "date": "10-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1977-lufthansa-landshut-hijacking-begins",
+    "year": 1977,
+    "title": {
+      "ru": "Начался захват самолёта Lufthansa «Landshut»",
+      "de": "Die Entfuehrung der Lufthansa-Maschine Landshut beginnt",
+      "en": "The hijacking of Lufthansa Landshut begins"
+    },
+    "description": {
+      "ru": "13 октября 1977 года самолёт Lufthansa рейса LH 181, летевший из Пальмы-де-Майорки во Франкфурт, был захвачен террористами. Захват стал драматической частью «немецкой осени» 1977 года.",
+      "de": "Am 13. Oktober 1977 wurde die Lufthansa-Maschine LH 181 auf dem Flug von Palma de Mallorca nach Frankfurt von Terroristen entfuehrt. Die Entfuehrung wurde zu einem dramatischen Teil des Deutschen Herbstes 1977.",
+      "en": "On 13 October 1977, Lufthansa flight LH 181 from Palma de Mallorca to Frankfurt was hijacked by terrorists. The hijacking became a dramatic part of the German Autumn of 1977."
+    },
+    "importance": {
+      "ru": "Событие стало одним из самых острых испытаний для ФРГ в борьбе с терроризмом и привело к операции GSG 9 в Могадишо.",
+      "de": "Das Ereignis wurde zu einer der schwersten Bewaehrungsproben der Bundesrepublik im Kampf gegen Terrorismus und fuehrte zur GSG-9-Operation in Mogadischu.",
+      "en": "The event became one of West Germany's severest tests in confronting terrorism and led to the GSG 9 operation in Mogadishu."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "german-autumn-crisis",
+        "year": 1977,
+        "title": {
+          "ru": "Кризис «немецкой осени»",
+          "de": "Krise des Deutschen Herbstes",
+          "en": "Crisis of the German Autumn"
+        },
+        "description": {
+          "ru": "Захват «Landshut» был связан с требованием освободить заключённых членов RAF. Для правительства ФРГ это стало вопросом не только спасения заложников, но и границ уступок террору.",
+          "de": "Die Entfuehrung der Landshut war mit der Forderung verbunden, inhaftierte RAF-Mitglieder freizulassen. Fuer die Bundesregierung ging es nicht nur um die Rettung der Geiseln, sondern auch um die Grenzen von Zugestaendnissen an Terror.",
+          "en": "The Landshut hijacking was linked to demands for the release of imprisoned RAF members. For the West German government, the issue was not only saving hostages, but also the limits of concessions to terror."
+        },
+        "importance": {
+          "ru": "Дата помогает понять, почему 1977 год оставил такой глубокий след в политической памяти ФРГ.",
+          "de": "Das Datum hilft zu verstehen, warum das Jahr 1977 so tiefe Spuren im politischen Gedaechtnis der Bundesrepublik hinterliess.",
+          "en": "The date helps explain why 1977 left such a deep mark on West Germany's political memory."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "plane-named-landshut",
+        "year": 1977,
+        "title": {
+          "ru": "Почему «Landshut»?",
+          "de": "Warum Landshut?",
+          "en": "Why Landshut?"
+        },
+        "description": {
+          "ru": "Самолёт носил имя баварского города Ландсхут. После событий 1977 года это название стало в Германии символом кризиса, мужества экипажа и спасения заложников.",
+          "de": "Das Flugzeug trug den Namen der bayerischen Stadt Landshut. Nach den Ereignissen von 1977 wurde dieser Name in Deutschland zum Symbol fuer Krise, Mut der Besatzung und Geiselbefreiung.",
+          "en": "The aircraft was named after the Bavarian city of Landshut. After the events of 1977, the name became a German symbol of crisis, crew courage and hostage rescue."
+        },
+        "importance": {
+          "ru": "Иногда название самолёта становится частью национальной памяти.",
+          "de": "Manchmal wird der Name eines Flugzeugs Teil des nationalen Gedaechtnisses.",
+          "en": "Sometimes the name of an aircraft becomes part of national memory."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Заложников освободили 18 октября 1977 года в Могадишо силами немецкого подразделения GSG 9.",
+    "de": "Die Geiseln wurden am 18. Oktober 1977 in Mogadischu durch die deutsche Einheit GSG 9 befreit.",
+    "en": "The hostages were freed on 18 October 1977 in Mogadishu by the German GSG 9 unit."
+  },
+  "sources": [
+    {
+      "label": "bpb: Entfuehrung der Landshut",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/514196/vor-45-jahren-entfuehrung-der-landshut/"
+    },
+    {
+      "label": "GHDI: Arrival of GSG 9 at Cologne/Bonn Airport",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/the-arrival-of-the-counter-terrorism-unit-of-the-german-federal-police-gsg-9-at-the-cologne-bonn-airport-october-18-1977.pdf"
+    },
+    {
+      "label": "Bundestag web archive: Grenzerfahrung Terrorismus",
+      "url": "https://webarchiv.bundestag.de/archive/2007/0206/geschichte/parlhist/streifzug/g1970/g1970_6.html"
+    }
+  ]
+}
