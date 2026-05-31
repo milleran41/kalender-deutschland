@@ -1,0 +1,90 @@
+{
+  "date": "04-14",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1935-stresa-front",
+    "year": 1935,
+    "title": {
+      "ru": "Создан Стрезский фронт",
+      "de": "Die Stresa-Front wird gebildet",
+      "en": "The Stresa Front is formed"
+    },
+    "description": {
+      "ru": "14 апреля 1935 года Великобритания, Франция и Италия договорились в Стрезе выступать против дальнейших нарушений Версальского договора со стороны Германии. Поводом стало открытое перевооружение нацистской Германии.",
+      "de": "Am 14. April 1935 vereinbarten Grossbritannien, Frankreich und Italien in Stresa, weiteren deutschen Verletzungen des Versailler Vertrags entgegenzutreten. Anlass war die offene Aufruestung des nationalsozialistischen Deutschlands.",
+      "en": "On 14 April 1935, Britain, France and Italy agreed at Stresa to oppose further German violations of the Treaty of Versailles. The trigger was Nazi Germany's open rearmament."
+    },
+    "importance": {
+      "ru": "Дата показывает, что европейские державы ещё пытались сдержать Гитлера коллективно, но этот фронт оказался недолговечным.",
+      "de": "Das Datum zeigt, dass die europaeischen Maechte noch versuchten, Hitler gemeinsam einzudaemmen, doch diese Front blieb kurzlebig.",
+      "en": "The date shows that European powers still tried to contain Hitler collectively, but this front proved short-lived."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "collective-security-before-appeasement",
+        "year": 1935,
+        "title": {
+          "ru": "Последняя попытка единства",
+          "de": "Ein letzter Versuch der Einigkeit",
+          "en": "A last attempt at unity"
+        },
+        "description": {
+          "ru": "После восстановления воинской повинности в Германии соседи опасались разрушения послевоенного порядка. Но интересы Лондона, Парижа и Рима быстро разошлись, особенно после войны Италии против Эфиопии.",
+          "de": "Nach der Wiedereinfuehrung der Wehrpflicht in Deutschland fuerchteten die Nachbarn die Zerstoerung der Nachkriegsordnung. Doch die Interessen Londons, Paris' und Roms gingen bald auseinander, besonders nach Italiens Krieg gegen Aethiopien.",
+          "en": "After Germany reintroduced conscription, its neighbors feared the destruction of the postwar order. But the interests of London, Paris and Rome soon diverged, especially after Italy's war against Ethiopia."
+        },
+        "importance": {
+          "ru": "Так видно, почему дипломатическое сдерживание 1930-х годов оказалось таким слабым.",
+          "de": "So wird sichtbar, warum die diplomatische Eindämmung der 1930er Jahre so schwach blieb.",
+          "en": "It shows why diplomatic containment in the 1930s remained so weak."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "front-without-germany",
+        "year": 1935,
+        "title": {
+          "ru": "Фронт без выстрелов",
+          "de": "Eine Front ohne Schuesse",
+          "en": "A front without shots"
+        },
+        "description": {
+          "ru": "Слово «фронт» здесь означало не линию боя, а дипломатическое объединение. Оно звучало твёрдо, но без реальной общей стратегии оказалось скорее временным жестом.",
+          "de": "Das Wort Front meinte hier keine Kampflinie, sondern ein diplomatisches Buendnis. Es klang entschlossen, blieb ohne echte gemeinsame Strategie aber eher eine voruebergehende Geste.",
+          "en": "The word 'front' did not mean a battle line here, but a diplomatic alignment. It sounded firm, but without a real common strategy it remained more of a temporary gesture."
+        },
+        "importance": {
+          "ru": "Это хороший пример того, как громкое политическое название может скрывать слабость решения.",
+          "de": "Das ist ein gutes Beispiel dafuer, wie ein stark klingender politischer Name die Schwaeche einer Loesung verdecken kann.",
+          "en": "It is a good example of how a strong-sounding political name can hide a weak solution."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Стрезский фронт фактически распался уже в том же году после англо-германского морского соглашения и итальянской агрессии в Африке.",
+    "de": "Die Stresa-Front zerfiel faktisch noch im selben Jahr nach dem deutsch-britischen Flottenabkommen und der italienischen Aggression in Afrika.",
+    "en": "The Stresa Front effectively fell apart the same year after the Anglo-German Naval Agreement and Italian aggression in Africa."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Stresa Front",
+      "url": "https://www.britannica.com/event/Stresa-Front"
+    },
+    {
+      "label": "Britannica: Remilitarization context",
+      "url": "https://www.britannica.com/event/remilitarization-of-the-Rhineland"
+    },
+    {
+      "label": "Oxford Reference: Stresa Front",
+      "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100535844"
+    }
+  ]
+}

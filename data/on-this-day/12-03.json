@@ -1,0 +1,90 @@
+{
+  "date": "12-03",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1932-schleicher-appointed-chancellor",
+    "year": 1932,
+    "title": {
+      "ru": "Курт фон Шлейхер стал рейхсканцлером",
+      "de": "Kurt von Schleicher wird Reichskanzler",
+      "en": "Kurt von Schleicher becomes Reich Chancellor"
+    },
+    "description": {
+      "ru": "3 декабря 1932 года президент Пауль фон Гинденбург назначил генерала Курта фон Шлейхера рейхсканцлером. Его кабинет стал последним правительством Веймарской республики перед назначением Гитлера.",
+      "de": "Am 3. Dezember 1932 ernannte Praesident Paul von Hindenburg General Kurt von Schleicher zum Reichskanzler. Sein Kabinett wurde die letzte Regierung der Weimarer Republik vor Hitlers Ernennung.",
+      "en": "On 3 December 1932, President Paul von Hindenburg appointed General Kurt von Schleicher Reich Chancellor. His cabinet became the last government of the Weimar Republic before Hitler's appointment."
+    },
+    "importance": {
+      "ru": "Дата показывает последний кризис Веймара: парламентская демократия уже была почти парализована, а элиты искали выход через президентские кабинеты.",
+      "de": "Das Datum zeigt die letzte Krise Weimars: Die parlamentarische Demokratie war fast gelaehmt, und Eliten suchten den Ausweg ueber Praesidialkabinette.",
+      "en": "The date shows Weimar's final crisis: parliamentary democracy was almost paralyzed, and elites sought a way out through presidential cabinets."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "last-weimar-cabinet",
+        "year": 1932,
+        "title": {
+          "ru": "Последний кабинет перед Гитлером",
+          "de": "Das letzte Kabinett vor Hitler",
+          "en": "The last cabinet before Hitler"
+        },
+        "description": {
+          "ru": "Шлейхер пытался расколоть НСДАП и найти опору для правительства без устойчивого парламентского большинства. Его манёвр провалился, а уже 30 января 1933 года канцлером стал Гитлер.",
+          "de": "Schleicher versuchte, die NSDAP zu spalten und eine Grundlage fuer eine Regierung ohne stabile parlamentarische Mehrheit zu finden. Sein Manoever scheiterte, und schon am 30. Januar 1933 wurde Hitler Kanzler.",
+          "en": "Schleicher tried to split the Nazi Party and find a basis for government without a stable parliamentary majority. His maneuver failed, and on 30 January 1933 Hitler became Chancellor."
+        },
+        "importance": {
+          "ru": "Это помогает понять, что конец демократии часто выглядит как череда процедурных решений, а не как один внезапный обвал.",
+          "de": "Das hilft zu verstehen, dass das Ende einer Demokratie oft wie eine Reihe formaler Entscheidungen aussieht, nicht wie ein einziger ploetzlicher Einsturz.",
+          "en": "It helps explain that the end of a democracy often looks like a sequence of formal decisions, not one sudden collapse."
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "schleicher-general-politician",
+        "year": 1932,
+        "title": {
+          "ru": "Генерал в политике",
+          "de": "Ein General in der Politik",
+          "en": "A general in politics"
+        },
+        "description": {
+          "ru": "Шлейхер был военным и политическим интриганом, связанным с рейхсвером и окружением Гинденбурга. Его карьера показывает, насколько сильно армейские круги влияли на политику поздней Веймарской республики.",
+          "de": "Schleicher war Militaer und politischer Intrigant, verbunden mit Reichswehr und Hindenburgs Umfeld. Seine Karriere zeigt, wie stark militaerische Kreise die Politik der spaeten Weimarer Republik beeinflussten.",
+          "en": "Schleicher was a soldier and political intriguer connected with the Reichswehr and Hindenburg's circle. His career shows how strongly military circles influenced late Weimar politics."
+        },
+        "importance": {
+          "ru": "Так школьнику легче увидеть, почему слабая демократия опасна, когда ключевые решения уходят за кулисы.",
+          "de": "So wird leichter sichtbar, warum eine schwache Demokratie gefaehrlich ist, wenn wichtige Entscheidungen hinter die Kulissen wandern.",
+          "en": "This makes it easier to see why a weak democracy is dangerous when key decisions move behind the scenes."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Шлейхер оставался канцлером меньше двух месяцев.",
+    "de": "Schleicher blieb weniger als zwei Monate Reichskanzler.",
+    "en": "Schleicher remained Chancellor for less than two months."
+  },
+  "sources": [
+    {
+      "label": "Bundesarchiv: Das Kabinett von Schleicher",
+      "url": "https://www.bundesarchiv.de/aktenreichskanzlei/1919-1933/a0r/vsc/vsc1p/kap1_3/para2_1.html"
+    },
+    {
+      "label": "Weimarer Republik: December 1932",
+      "url": "https://www.weimarer-republik.net/en/weimar-gateway/timeline-of-the-weimar-republic/1932/december-1932/"
+    },
+    {
+      "label": "Britannica: Kurt von Schleicher",
+      "url": "https://www.britannica.com/biography/Kurt-von-Schleicher"
+    }
+  ]
+}

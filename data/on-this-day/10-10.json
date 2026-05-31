@@ -1,0 +1,90 @@
+{
+  "date": "10-10",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1981-bonn-peace-demonstration",
+    "year": 1981,
+    "title": {
+      "ru": "Массовая мирная демонстрация в Бонне",
+      "de": "Grosse Friedensdemonstration in Bonn",
+      "en": "Major peace demonstration in Bonn"
+    },
+    "description": {
+      "ru": "10 октября 1981 года сотни тысяч людей собрались в Боннском Хофгартене против размещения новых ядерных ракет в Европе. Это была одна из крупнейших демонстраций в истории ФРГ.",
+      "de": "Am 10. Oktober 1981 versammelten sich Hunderttausende Menschen im Bonner Hofgarten gegen die Stationierung neuer Atomraketen in Europa. Es war eine der groessten Demonstrationen in der Geschichte der Bundesrepublik.",
+      "en": "On 10 October 1981, hundreds of thousands gathered in Bonn's Hofgarten to protest the stationing of new nuclear missiles in Europe. It was one of the largest demonstrations in West German history."
+    },
+    "importance": {
+      "ru": "Дата показывает силу гражданского общества ФРГ в эпоху холодной войны и страх перед ядерным конфликтом.",
+      "de": "Das Datum zeigt die Kraft der Zivilgesellschaft in der Bundesrepublik waehrend des Kalten Krieges und die Angst vor einem Atomkonflikt.",
+      "en": "The date shows the strength of West German civil society during the Cold War and the fear of nuclear conflict."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "nato-double-track-decision-protest",
+        "year": 1981,
+        "title": {
+          "ru": "Спор о двойном решении НАТО",
+          "de": "Streit um den NATO-Doppelbeschluss",
+          "en": "Debate over NATO's Double-Track Decision"
+        },
+        "description": {
+          "ru": "Поводом был план НАТО разместить новые ракеты, если переговоры с СССР не приведут к сокращению вооружений. Для многих жителей ФРГ Германия снова казалась возможным полем ядерного противостояния.",
+          "de": "Anlass war der Plan der NATO, neue Raketen zu stationieren, falls Verhandlungen mit der Sowjetunion keine Abruestung braechten. Fuer viele Menschen in der Bundesrepublik wirkte Deutschland erneut wie ein moegliches Feld nuklearer Konfrontation.",
+          "en": "The trigger was NATO's plan to deploy new missiles if negotiations with the Soviet Union did not lead to arms reductions. For many West Germans, Germany again seemed a possible battlefield of nuclear confrontation."
+        },
+        "importance": {
+          "ru": "Так видно, как глобальная стратегия холодной войны входила в повседневные страхи людей.",
+          "de": "So wird sichtbar, wie globale Strategie des Kalten Krieges in die Alltagsaengste der Menschen eingriff.",
+          "en": "It shows how global Cold War strategy entered people's everyday fears."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "hofgarten-as-political-stage",
+        "year": 1981,
+        "title": {
+          "ru": "Хофгартен как политическая сцена",
+          "de": "Der Hofgarten als politische Buehne",
+          "en": "The Hofgarten as a political stage"
+        },
+        "description": {
+          "ru": "Боннский Хофгартен был не просто парком у университета. В годы Боннской республики он стал местом больших демонстраций, где политика буквально выходила на траву перед властью.",
+          "de": "Der Bonner Hofgarten war nicht nur ein Park an der Universitaet. In der Bonner Republik wurde er zum Ort grosser Demonstrationen, an dem Politik buchstaeblich auf die Wiese vor der Macht trat.",
+          "en": "Bonn's Hofgarten was not just a park by the university. In the Bonn Republic it became a site of major demonstrations, where politics literally stepped onto the lawn in front of power."
+        },
+        "importance": {
+          "ru": "Это делает сухую тему безопасности очень наглядной и человеческой.",
+          "de": "Das macht ein trockenes Sicherheitsthema sehr anschaulich und menschlich.",
+          "en": "It makes a dry security topic vivid and human."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "В разных источниках число участников оценивают примерно от 250 000 до 300 000 человек.",
+    "de": "Die Zahl der Teilnehmenden wird in verschiedenen Quellen auf etwa 250.000 bis 300.000 Menschen geschaetzt.",
+    "en": "Different sources estimate the number of participants at roughly 250,000 to 300,000."
+  },
+  "sources": [
+    {
+      "label": "Deutschlandmuseum: Give peace a chance",
+      "url": "https://www.deutschlandmuseum.de/en/history/calendar/1981-10-10-give-peace-a-chance/"
+    },
+    {
+      "label": "GHDI: Peace Demonstration in Bonn",
+      "url": "https://germanhistorydocs.org/en/two-germanies-1961-1989/peace-demonstration-in-bonn-october-10-1981.pdf"
+    },
+    {
+      "label": "Weg der Demokratie: Hofgarten",
+      "url": "https://www.wegderdemokratie.de/en/hofgarten"
+    }
+  ]
+}
