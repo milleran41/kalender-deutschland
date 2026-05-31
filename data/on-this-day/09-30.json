@@ -1,0 +1,65 @@
+{
+  "date": "09-30",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1938-munich-agreement",
+    "year": 1938,
+    "title": {
+      "ru": "Подписано Мюнхенское соглашение",
+      "de": "Das Muenchner Abkommen wird unterzeichnet",
+      "en": "The Munich Agreement is signed"
+    },
+    "description": {
+      "ru": "30 сентября 1938 года Германия, Великобритания, Франция и Италия подписали Мюнхенское соглашение. Оно позволило нацистской Германии присоединить Судетскую область Чехословакии.",
+      "de": "Am 30. September 1938 unterzeichneten Deutschland, Grossbritannien, Frankreich und Italien das Muenchner Abkommen. Es erlaubte NS-Deutschland die Eingliederung des Sudetenlandes der Tschechoslowakei.",
+      "en": "On 30 September 1938, Germany, Britain, France and Italy signed the Munich Agreement. It allowed Nazi Germany to annex the Sudetenland of Czechoslovakia."
+    },
+    "importance": {
+      "ru": "Соглашение стало символом провала политики умиротворения Гитлера.",
+      "de": "Das Abkommen wurde zum Symbol des Scheiterns der Beschwichtigungspolitik gegenueber Hitler.",
+      "en": "The agreement became a symbol of the failure of appeasement toward Hitler."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "czechoslovakia-not-in-room",
+        "year": 1938,
+        "title": {
+          "ru": "Решение без Чехословакии",
+          "de": "Eine Entscheidung ohne die Tschechoslowakei",
+          "en": "A decision without Czechoslovakia"
+        },
+        "description": {
+          "ru": "Судьбу территории решали без полноценного участия самой Чехословакии. Это сделало соглашение особенно болезненным и несправедливым.",
+          "de": "Ueber das Gebiet wurde ohne volle Beteiligung der Tschechoslowakei entschieden. Das machte das Abkommen besonders schmerzhaft und ungerecht.",
+          "en": "The fate of the territory was decided without full participation by Czechoslovakia itself. This made the agreement especially painful and unjust."
+        },
+        "importance": {
+          "ru": "Дата показывает, чем опасна дипломатия, которая жертвует одним государством ради временного спокойствия других.",
+          "de": "Das Datum zeigt die Gefahr einer Diplomatie, die einen Staat opfert, um anderen voruebergehend Ruhe zu verschaffen.",
+          "en": "The date shows the danger of diplomacy that sacrifices one state for the temporary calm of others."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Мюнхенское соглашение не предотвратило войну: менее чем через год Германия напала на Польшу.",
+    "de": "Das Muenchner Abkommen verhinderte den Krieg nicht: Weniger als ein Jahr spaeter griff Deutschland Polen an.",
+    "en": "The Munich Agreement did not prevent war: less than a year later Germany invaded Poland."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Munich Agreement",
+      "url": "https://www.britannica.com/event/Munich-Agreement"
+    },
+    {
+      "label": "Avalon Project: Munich Pact text",
+      "url": "https://cdn.britannica.com/primary_source/avalon/imt/munich1.asp"
+    }
+  ]
+}

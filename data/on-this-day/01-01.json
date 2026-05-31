@@ -44,6 +44,25 @@
           "de": "Der Tag zeigt, wie grosse Politik in den Geldbeutel jedes Menschen gelangt.",
           "en": "The day shows how big politics enters everyone's wallet."
         }
+      },
+      {
+        "id": "1957-saarland-joins-frg",
+        "year": 1957,
+        "title": {
+          "ru": "Саар стал федеральной землёй ФРГ",
+          "de": "Das Saarland wird Bundesland der Bundesrepublik",
+          "en": "Saarland becomes a federal state of West Germany"
+        },
+        "description": {
+          "ru": "1 января 1957 года Саар вошёл в состав Федеративной Республики Германия как федеральная земля. До этого регион имел особый послевоенный статус и был тесно связан с Францией.",
+          "de": "Am 1. Januar 1957 trat das Saarland der Bundesrepublik Deutschland als Bundesland bei. Zuvor hatte die Region einen besonderen Nachkriegsstatus und war eng mit Frankreich verbunden.",
+          "en": "On 1 January 1957, Saarland joined the Federal Republic of Germany as a federal state. Before that, the region had a special postwar status and close ties to France."
+        },
+        "importance": {
+          "ru": "Дата показывает, что границы и устройство ФРГ формировались постепенно.",
+          "de": "Das Datum zeigt, dass Grenzen und Ordnung der Bundesrepublik schrittweise entstanden.",
+          "en": "The date shows that West Germany's borders and structure developed gradually."
+        }
       }
     ]
   },
@@ -60,6 +79,10 @@
     {
       "label": "Deutsche Bundesbank: exchange D-Mark",
       "url": "https://www.bundesbank.de/en/tasks/cash-management/dm-banknotes-and-coins/exchanging-dm-for-euro-616928"
+    },
+    {
+      "label": "German History in Documents and Images: States of the Federal Republic 1957",
+      "url": "https://germanhistorydocs.org/en/occupation-and-the-emergence-of-two-states-1945-1961/states-of-the-federal-republic-1957"
     }
   ]
 }

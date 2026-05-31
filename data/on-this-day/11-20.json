@@ -1,0 +1,65 @@
+{
+  "date": "11-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-nuremberg-trials-begin",
+    "year": 1945,
+    "title": {
+      "ru": "Начался Нюрнбергский процесс",
+      "de": "Der Nuernberger Prozess beginnt",
+      "en": "The Nuremberg Trial begins"
+    },
+    "description": {
+      "ru": "20 ноября 1945 года в Нюрнберге начался Международный военный трибунал над главными нацистскими преступниками. Суд рассматривал преступления против мира, военные преступления и преступления против человечности.",
+      "de": "Am 20. November 1945 begann in Nuernberg der Internationale Militaergerichtshof gegen die Hauptkriegsverbrecher des NS-Regimes. Verhandelt wurden Verbrechen gegen den Frieden, Kriegsverbrechen und Verbrechen gegen die Menschlichkeit.",
+      "en": "On 20 November 1945, the International Military Tribunal against major Nazi criminals began in Nuremberg. It dealt with crimes against peace, war crimes and crimes against humanity."
+    },
+    "importance": {
+      "ru": "Процесс стал основой послевоенного международного уголовного правосудия.",
+      "de": "Der Prozess wurde zu einer Grundlage des internationalen Strafrechts nach dem Krieg.",
+      "en": "The trial became a foundation of postwar international criminal justice."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "nuremberg-palace-of-justice",
+        "year": 1945,
+        "title": {
+          "ru": "Дворец правосудия в Нюрнберге",
+          "de": "Justizpalast in Nuernberg",
+          "en": "Nuremberg Palace of Justice"
+        },
+        "description": {
+          "ru": "Суд проходил в Нюрнбергском дворце правосудия. Город был выбран не только из практических причин, но и из-за его символической роли в истории нацизма.",
+          "de": "Der Prozess fand im Nuernberger Justizpalast statt. Die Stadt wurde nicht nur aus praktischen Gruenden gewaehlt, sondern auch wegen ihrer symbolischen Rolle in der Geschichte des Nationalsozialismus.",
+          "en": "The trial took place in the Nuremberg Palace of Justice. The city was chosen not only for practical reasons but also because of its symbolic role in Nazi history."
+        },
+        "importance": {
+          "ru": "Место суда стало частью немецкой и мировой культуры памяти.",
+          "de": "Der Ort des Prozesses wurde Teil deutscher und weltweiter Erinnerungskultur.",
+          "en": "The trial site became part of German and global remembrance culture."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Приговоры главного Нюрнбергского процесса были объявлены 1 октября 1946 года.",
+    "de": "Die Urteile des Hauptprozesses wurden am 1. Oktober 1946 verkuendet.",
+    "en": "The verdicts of the main Nuremberg Trial were announced on 1 October 1946."
+  },
+  "sources": [
+    {
+      "label": "USHMM: International Military Tribunal at Nuremberg",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/international-military-tribunal-at-nuremberg"
+    },
+    {
+      "label": "History.com: Nuremberg Trials",
+      "url": "https://www.history.com/topics/world-war-ii/nuremberg-trials"
+    }
+  ]
+}

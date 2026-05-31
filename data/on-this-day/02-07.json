@@ -1,0 +1,65 @@
+{
+  "date": "02-07",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1992-maastricht-treaty-signed",
+    "year": 1992,
+    "title": {
+      "ru": "Подписан Маастрихтский договор",
+      "de": "Der Vertrag von Maastricht wird unterzeichnet",
+      "en": "The Maastricht Treaty is signed"
+    },
+    "description": {
+      "ru": "7 февраля 1992 года государства Европейских сообществ подписали Маастрихтский договор. Германия была одной из стран, участвовавших в создании нового Европейского союза.",
+      "de": "Am 7. Februar 1992 unterzeichneten die Staaten der Europaeischen Gemeinschaften den Vertrag von Maastricht. Deutschland gehoerte zu den Staaten, die die neue Europaeische Union mitgestalteten.",
+      "en": "On 7 February 1992, the states of the European Communities signed the Maastricht Treaty. Germany was one of the countries shaping the new European Union."
+    },
+    "importance": {
+      "ru": "Договор стал основой Европейского союза и будущего евро.",
+      "de": "Der Vertrag wurde zur Grundlage der Europaeischen Union und des spaeteren Euro.",
+      "en": "The treaty became the foundation of the European Union and the later euro."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "maastricht-after-unification",
+        "year": 1992,
+        "title": {
+          "ru": "Европа после объединения Германии",
+          "de": "Europa nach der deutschen Einheit",
+          "en": "Europe after German reunification"
+        },
+        "description": {
+          "ru": "После 1990 года Германия стремилась показать, что её единство связано с общей Европой. Маастрихт стал важной частью этого курса.",
+          "de": "Nach 1990 wollte Deutschland zeigen, dass seine Einheit mit einem gemeinsamen Europa verbunden ist. Maastricht wurde ein wichtiger Teil dieses Kurses.",
+          "en": "After 1990, Germany sought to show that its unity was tied to a shared Europe. Maastricht became an important part of that path."
+        },
+        "importance": {
+          "ru": "Дата помогает понять современную Германию как европейскую державу.",
+          "de": "Das Datum hilft, das heutige Deutschland als europaeische Macht zu verstehen.",
+          "en": "The date helps explain modern Germany as a European power."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Договор был подписан 7 февраля 1992 года, а вступил в силу 1 ноября 1993 года.",
+    "de": "Der Vertrag wurde am 7. Februar 1992 unterzeichnet und trat am 1. November 1993 in Kraft.",
+    "en": "The treaty was signed on 7 February 1992 and entered into force on 1 November 1993."
+  },
+  "sources": [
+    {
+      "label": "European Parliament: Maastricht Treaty",
+      "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/maastricht-treaty"
+    },
+    {
+      "label": "European Parliament: Maastricht and Amsterdam Treaties",
+      "url": "https://www.europarl.europa.eu/factsheets/en/sheet/3/los-tratados-de-maastricht"
+    }
+  ]
+}

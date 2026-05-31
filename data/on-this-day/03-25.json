@@ -1,0 +1,65 @@
+{
+  "date": "03-25",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1957-treaties-of-rome",
+    "year": 1957,
+    "title": {
+      "ru": "Подписаны Римские договоры",
+      "de": "Die Roemischen Vertraege werden unterzeichnet",
+      "en": "The Treaties of Rome are signed"
+    },
+    "description": {
+      "ru": "25 марта 1957 года шесть стран, включая Федеративную Республику Германия, подписали Римские договоры. Они создали Европейское экономическое сообщество и Евратом.",
+      "de": "Am 25. Maerz 1957 unterzeichneten sechs Staaten, darunter die Bundesrepublik Deutschland, die Roemischen Vertraege. Sie gruendeten die Europaeische Wirtschaftsgemeinschaft und Euratom.",
+      "en": "On 25 March 1957, six countries, including the Federal Republic of Germany, signed the Treaties of Rome. They created the European Economic Community and Euratom."
+    },
+    "importance": {
+      "ru": "Это один из главных шагов к современной Европейской унии.",
+      "de": "Das war einer der wichtigsten Schritte zur heutigen Europaeischen Union.",
+      "en": "It was one of the main steps toward today's European Union."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "germany-as-founding-member",
+        "year": 1957,
+        "title": {
+          "ru": "Германия как страна-основатель",
+          "de": "Deutschland als Gruendungsmitglied",
+          "en": "Germany as a founding member"
+        },
+        "description": {
+          "ru": "Для послевоенной ФРГ европейская интеграция была способом вернуться в международное доверие. Экономическое сотрудничество стало частью политики мира.",
+          "de": "Fuer die Nachkriegs-Bundesrepublik war die europaeische Integration ein Weg zurueck in internationales Vertrauen. Wirtschaftliche Zusammenarbeit wurde Teil der Friedenspolitik.",
+          "en": "For postwar West Germany, European integration was a way back into international trust. Economic cooperation became part of peace policy."
+        },
+        "importance": {
+          "ru": "Дата показывает, как Германия после войны встроилась в новую Европу.",
+          "de": "Das Datum zeigt, wie Deutschland nach dem Krieg in ein neues Europa eingebunden wurde.",
+          "en": "The date shows how Germany was embedded in a new Europe after the war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Римские договоры вступили в силу 1 января 1958 года.",
+    "de": "Die Roemischen Vertraege traten am 1. Januar 1958 in Kraft.",
+    "en": "The Treaties of Rome entered into force on 1 January 1958."
+  },
+  "sources": [
+    {
+      "label": "European Parliament: Treaty of Rome",
+      "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-rome"
+    },
+    {
+      "label": "EUR-Lex: 60 years of the Rome Treaties",
+      "url": "https://eur-lex.europa.eu/content/news/treaty_rome.html?locale=en"
+    }
+  ]
+}

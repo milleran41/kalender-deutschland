@@ -45,6 +45,27 @@
           "en": "His politics helps explain why German unification was so complex and contradictory."
         }
       }
+    ],
+    "culture": [
+      {
+        "id": "1919-bauhaus-founded",
+        "year": 1919,
+        "title": {
+          "ru": "В Веймаре основан Баухаус",
+          "de": "Das Bauhaus wird in Weimar gegruendet",
+          "en": "The Bauhaus is founded in Weimar"
+        },
+        "description": {
+          "ru": "1 апреля 1919 года в Веймаре был основан Баухаус. Школа объединила искусство, ремесло, дизайн и архитектуру и сильно повлияла на современный визуальный мир.",
+          "de": "Am 1. April 1919 wurde in Weimar das Bauhaus gegruendet. Die Schule verband Kunst, Handwerk, Design und Architektur und praegte die moderne visuelle Welt stark.",
+          "en": "On 1 April 1919, the Bauhaus was founded in Weimar. The school united art, craft, design and architecture and strongly influenced the modern visual world."
+        },
+        "importance": {
+          "ru": "Баухаус сделал Германию одним из центров мирового модернизма.",
+          "de": "Das Bauhaus machte Deutschland zu einem Zentrum der weltweiten Moderne.",
+          "en": "The Bauhaus made Germany one of the centers of global modernism."
+        }
+      }
     ]
   },
   "fact": {
@@ -60,6 +81,14 @@
     {
       "label": "Britannica: Bismarck facts",
       "url": "https://www.britannica.com/facts/Otto-von-Bismarck"
+    },
+    {
+      "label": "Bauhaus Archive: 14 years of Bauhaus",
+      "url": "https://www.bauhaus.de/en/discover/article/14-years-of-bauhaus/"
+    },
+    {
+      "label": "Bundesarchiv: Bauhaus founding",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/bauhaus-gruendung-in-weimar/"
     }
   ]
 }
