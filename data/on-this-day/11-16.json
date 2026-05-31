@@ -1,0 +1,111 @@
+{
+  "date": "11-16",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1945-unesco-constitution-signed",
+    "year": 1945,
+    "title": {
+      "ru": "Подписана конституция UNESCO",
+      "de": "Die Verfassung der UNESCO wird unterzeichnet",
+      "en": "UNESCO's constitution is signed"
+    },
+    "description": {
+      "ru": "16 ноября 1945 года в Лондоне была подписана конституция UNESCO. Организация возникла после Второй мировой войны как попытка укреплять мир через образование, науку и культуру.",
+      "de": "Am 16. November 1945 wurde in London die Verfassung der UNESCO unterzeichnet. Die Organisation entstand nach dem Zweiten Weltkrieg mit dem Ziel, Frieden durch Bildung, Wissenschaft und Kultur zu staerken.",
+      "en": "On 16 November 1945, UNESCO's constitution was signed in London. The organization emerged after the Second World War as an effort to strengthen peace through education, science and culture."
+    },
+    "importance": {
+      "ru": "Для Германии эта дата связана с послевоенным восстановлением культуры, науки и международного доверия.",
+      "de": "Fuer Deutschland ist dieses Datum mit dem Wiederaufbau von Kultur, Wissenschaft und internationalem Vertrauen nach dem Krieg verbunden.",
+      "en": "For Germany, the date is connected with the postwar rebuilding of culture, science and international trust."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "heritage-after-war",
+        "year": 1945,
+        "title": {
+          "ru": "Культура после разрушений",
+          "de": "Kultur nach den Zerstoerungen",
+          "en": "Culture after destruction"
+        },
+        "description": {
+          "ru": "После войны Европа лежала в руинах, а музеи, школы, библиотеки и памятники нуждались в восстановлении. UNESCO стала одной из организаций, которые помогали говорить о культуре как о деле всего мира.",
+          "de": "Nach dem Krieg lag Europa in Truemmern, und Museen, Schulen, Bibliotheken und Denkmaeler mussten wiederaufgebaut werden. Die UNESCO wurde zu einer Organisation, die Kultur als Aufgabe der ganzen Welt verstand.",
+          "en": "After the war, Europe lay in ruins, and museums, schools, libraries and monuments needed rebuilding. UNESCO became one organization that treated culture as a responsibility shared by the world."
+        },
+        "importance": {
+          "ru": "Это напоминает, что восстановление страны состоит не только из домов и дорог, но и из образования и памяти.",
+          "de": "Das erinnert daran, dass der Wiederaufbau eines Landes nicht nur aus Haeusern und Strassen besteht, sondern auch aus Bildung und Erinnerung.",
+          "en": "It is a reminder that rebuilding a country involves not only houses and roads, but also education and memory."
+        }
+      }
+    ],
+    "science": [
+      {
+        "id": "science-and-peace",
+        "year": 1945,
+        "title": {
+          "ru": "Наука как язык сотрудничества",
+          "de": "Wissenschaft als Sprache der Zusammenarbeit",
+          "en": "Science as a language of cooperation"
+        },
+        "description": {
+          "ru": "UNESCO включила науку в свою миссию рядом с образованием и культурой. После опыта войны это было важным сигналом: знания должны помогать сотрудничеству, а не только военной силе.",
+          "de": "Die UNESCO stellte Wissenschaft neben Bildung und Kultur in den Mittelpunkt ihrer Aufgabe. Nach den Kriegserfahrungen war das ein wichtiges Signal: Wissen sollte Zusammenarbeit foerdern, nicht nur militaerische Macht.",
+          "en": "UNESCO placed science alongside education and culture in its mission. After the experience of war, this was an important signal: knowledge should support cooperation, not only military power."
+        },
+        "importance": {
+          "ru": "Для страны с сильной научной традицией, такой как Германия, это имело особый смысл после 1945 года.",
+          "de": "Fuer ein Land mit starker wissenschaftlicher Tradition wie Deutschland hatte das nach 1945 besondere Bedeutung.",
+          "en": "For a country with a strong scientific tradition such as Germany, this had special meaning after 1945."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "germany-joins-later",
+        "year": 1951,
+        "title": {
+          "ru": "Германия присоединилась позже",
+          "de": "Deutschland kam spaeter dazu",
+          "en": "Germany joined later"
+        },
+        "description": {
+          "ru": "Германия не была среди первых подписантов в 1945 году. Федеративная Республика Германия вступила в UNESCO позже, в 1951 году, уже в процессе послевоенного возвращения в международное сообщество.",
+          "de": "Deutschland gehoerte 1945 nicht zu den ersten Unterzeichnern. Die Bundesrepublik Deutschland trat der UNESCO spaeter, 1951, im Zuge ihrer Rueckkehr in die internationale Gemeinschaft bei.",
+          "en": "Germany was not among the first signatories in 1945. The Federal Republic of Germany joined UNESCO later, in 1951, as part of its postwar return to the international community."
+        },
+        "importance": {
+          "ru": "Эта деталь хорошо показывает, что после войны доверие возвращалось постепенно.",
+          "de": "Dieses Detail zeigt gut, dass Vertrauen nach dem Krieg nur schrittweise zurueckkehrte.",
+          "en": "This detail shows well that trust returned only gradually after the war."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Аббревиатура UNESCO означает Организацию Объединённых Наций по вопросам образования, науки и культуры.",
+    "de": "Die Abkuerzung UNESCO steht fuer Organisation der Vereinten Nationen fuer Bildung, Wissenschaft und Kultur.",
+    "en": "UNESCO stands for the United Nations Educational, Scientific and Cultural Organization."
+  },
+  "sources": [
+    {
+      "label": "UNESCO: 75 years ago, UNESCO's Constitution adopted",
+      "url": "https://www.unesco.org/en/articles/75-years-ago-unescos-constitution-adopted"
+    },
+    {
+      "label": "Deutsche UNESCO-Kommission: Geschichte der UNESCO",
+      "url": "https://www.unesco.de/ueber-uns/ueber-die-unesco/geschichte-der-unesco-eine-chronik/"
+    },
+    {
+      "label": "Deutsche UNESCO-Kommission: 1945 bis 1954",
+      "url": "https://www.unesco.de/ueber-uns/ueber-die-unesco/geschichte-der-unesco-eine-chronik/1945-bis-1954-gruendung-der-unesco-und-wiederaufbau-nach-dem-zweiten-weltkrieg/"
+    }
+  ]
+}

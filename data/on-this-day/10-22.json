@@ -1,0 +1,90 @@
+{
+  "date": "10-22",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1940-deportation-to-gurs",
+    "year": 1940,
+    "title": {
+      "ru": "Депортация евреев из юго-западной Германии в Гюрс",
+      "de": "Deportation der Juden aus Suedwestdeutschland nach Gurs",
+      "en": "Deportation of Jews from southwest Germany to Gurs"
+    },
+    "description": {
+      "ru": "22 октября 1940 года началась депортация тысяч евреев из Бадена, Саарпфальца и соседних районов в лагерь Гюрс на юго-западе Франции. Это была одна из ранних массовых депортаций евреев из Германии.",
+      "de": "Am 22. Oktober 1940 begann die Deportation Tausender Juden aus Baden, der Saarpfalz und angrenzenden Gebieten in das Lager Gurs im Suedwesten Frankreichs. Sie gehoerte zu den fruehen Massendeportationen von Juden aus Deutschland.",
+      "en": "On 22 October 1940, the deportation of thousands of Jews from Baden, the Saar-Palatinate and nearby areas to the Gurs camp in southwestern France began. It was one of the early mass deportations of Jews from Germany."
+    },
+    "importance": {
+      "ru": "Событие важно как часть истории Холокоста и как региональная трагедия Бадена, Саара и Пфальца.",
+      "de": "Das Ereignis ist wichtig als Teil der Geschichte des Holocaust und als regionale Tragödie Badens, des Saarlandes und der Pfalz.",
+      "en": "The event matters as part of Holocaust history and as a regional tragedy for Baden, the Saar and the Palatinate."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "gurs-camp",
+        "year": 1940,
+        "title": {
+          "ru": "Лагерь Гюрс",
+          "de": "Das Lager Gurs",
+          "en": "The Gurs camp"
+        },
+        "description": {
+          "ru": "Гюрс находился во Франции, у подножия Пиренеев. Условия в лагере были тяжёлыми, а многих депортированных позже отправили дальше, в лагеря уничтожения.",
+          "de": "Gurs lag in Frankreich am Fuss der Pyrenaeen. Die Bedingungen im Lager waren hart, und viele Deportierte wurden spaeter weiter in Vernichtungslager verschleppt.",
+          "en": "Gurs was located in France, at the foot of the Pyrenees. Conditions in the camp were harsh, and many deportees were later sent onward to extermination camps."
+        },
+        "importance": {
+          "ru": "Это помогает понять, что Холокост включал не только далёкие лагеря на востоке, но и депортации из конкретных немецких городов и деревень.",
+          "de": "Das hilft zu verstehen, dass der Holocaust nicht nur ferne Lager im Osten umfasste, sondern auch Deportationen aus konkreten deutschen Staedten und Doerfern.",
+          "en": "It helps show that the Holocaust involved not only distant camps in the east, but deportations from specific German towns and villages."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "regional-memory",
+        "year": 1940,
+        "title": {
+          "ru": "Память в местных городах",
+          "de": "Erinnerung in den Orten",
+          "en": "Memory in local towns"
+        },
+        "description": {
+          "ru": "Сегодня во многих городах Баден-Вюртемберга, Рейнланд-Пфальца и Саара есть памятные знаки о депортации в Гюрс. Большая история здесь читается через имена улиц, вокзалов и семей.",
+          "de": "Heute erinnern in vielen Staedten Baden-Wuerttembergs, von Rheinland-Pfalz und des Saarlandes Gedenkzeichen an die Deportation nach Gurs. Die grosse Geschichte wird hier ueber Strassen, Bahnhoefe und Familiennamen sichtbar.",
+          "en": "Today, many towns in Baden-Wuerttemberg, Rhineland-Palatinate and Saarland have memorials to the deportation to Gurs. The larger history becomes visible through streets, railway stations and family names."
+        },
+        "importance": {
+          "ru": "Так школьнику легче увидеть связь между историей страны и историей своего региона.",
+          "de": "So koennen Schuelerinnen und Schueler die Verbindung zwischen Landesgeschichte und regionaler Geschichte besser erkennen.",
+          "en": "This helps students see the connection between national history and the history of a region."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Депортации 22-23 октября 1940 года часто называют «акцией Вагнера-Бюркеля» по именам нацистских руководителей регионов.",
+    "de": "Die Deportationen vom 22. und 23. Oktober 1940 werden oft Wagner-Buerckel-Aktion genannt, nach den nationalsozialistischen Gauleitern der Regionen.",
+    "en": "The deportations of 22-23 October 1940 are often called the Wagner-Buerckel Action, after the Nazi regional leaders involved."
+  },
+  "sources": [
+    {
+      "label": "Gurs 1940: Deportation and murder of Jews from southwest Germany",
+      "url": "https://www.gurs1940.de/en/exhibition/introduction"
+    },
+    {
+      "label": "Landeskunde Baden-Wuerttemberg: Gurs",
+      "url": "https://www.landeskunde-baden-wuerttemberg.de/gurs-internierungslager"
+    },
+    {
+      "label": "LEO-BW: Gurs 1940",
+      "url": "https://www.leo-bw.de/themenmodul/juedisches-leben-im-suedwesten/gurs"
+    }
+  ]
+}

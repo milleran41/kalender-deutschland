@@ -1,0 +1,90 @@
+{
+  "date": "10-20",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1805-austrian-army-surrenders-at-ulm",
+    "year": 1805,
+    "title": {
+      "ru": "Капитуляция австрийской армии под Ульмом",
+      "de": "Kapitulation der oesterreichischen Armee bei Ulm",
+      "en": "Austrian army surrenders at Ulm"
+    },
+    "description": {
+      "ru": "20 октября 1805 года австрийская армия генерала Карла Мака капитулировала перед Наполеоном возле Ульма. Победа была достигнута в южной Германии почти без крупного генерального сражения.",
+      "de": "Am 20. Oktober 1805 kapitulierte die oesterreichische Armee unter General Karl Mack bei Ulm vor Napoleon. Der Sieg wurde in Sueddeutschland fast ohne grosse Entscheidungsschlacht errungen.",
+      "en": "On 20 October 1805, the Austrian army under General Karl Mack surrendered to Napoleon near Ulm. The victory in southern Germany was achieved with almost no major set-piece battle."
+    },
+    "importance": {
+      "ru": "Ульм показывает, как манёвр и скорость иногда решали исход кампании сильнее, чем само сражение.",
+      "de": "Ulm zeigt, wie Manoever und Geschwindigkeit den Ausgang eines Feldzugs manchmal staerker bestimmten als die Schlacht selbst.",
+      "en": "Ulm shows how maneuver and speed could sometimes decide a campaign more than the battle itself."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "napoleon-in-southern-germany",
+        "year": 1805,
+        "title": {
+          "ru": "Наполеон в Южной Германии",
+          "de": "Napoleon in Sueddeutschland",
+          "en": "Napoleon in southern Germany"
+        },
+        "description": {
+          "ru": "Кампания проходила на территории современной Баварии и Баден-Вюртемберга. Немецкие земли тогда были важной ареной борьбы между Францией, Австрией и другими европейскими державами.",
+          "de": "Der Feldzug spielte sich auf dem Gebiet des heutigen Bayern und Baden-Wuerttemberg ab. Die deutschen Laender waren damals eine wichtige Buehne des Ringens zwischen Frankreich, Oesterreich und anderen europaeischen Maechten.",
+          "en": "The campaign took place in what is now Bavaria and Baden-Wuerttemberg. The German lands were a key arena in the struggle between France, Austria and other European powers."
+        },
+        "importance": {
+          "ru": "Так видно, почему история Германии начала XIX века тесно связана с наполеоновскими войнами.",
+          "de": "So wird sichtbar, warum die deutsche Geschichte des fruehen 19. Jahrhunderts eng mit den napoleonischen Kriegen verbunden ist.",
+          "en": "It shows why early nineteenth-century German history is closely tied to the Napoleonic Wars."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "victory-without-great-battle",
+        "year": 1805,
+        "title": {
+          "ru": "Победа почти без большой битвы",
+          "de": "Sieg fast ohne grosse Schlacht",
+          "en": "Victory with almost no great battle"
+        },
+        "description": {
+          "ru": "Наполеон окружил противника серией быстрых маршей и заставил его сдаться. Поэтому Ульм часто вспоминают как пример победы, где карта и темп оказались важнее лобового столкновения.",
+          "de": "Napoleon schloss den Gegner durch eine Reihe schneller Maersche ein und zwang ihn zur Aufgabe. Deshalb gilt Ulm oft als Beispiel fuer einen Sieg, bei dem Karte und Tempo wichtiger waren als der Frontalangriff.",
+          "en": "Napoleon surrounded his opponent through a series of rapid marches and forced surrender. That is why Ulm is often remembered as a victory where map-reading and tempo mattered more than frontal combat."
+        },
+        "importance": {
+          "ru": "Это необычный случай, когда военная история напоминает шахматную партию.",
+          "de": "Das ist ein ungewoehnlicher Fall, in dem Militärgeschichte fast wie eine Schachpartie wirkt.",
+          "en": "It is an unusual case in which military history almost resembles a chess game."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Через несколько недель после Ульма Наполеон одержал победу при Аустерлице.",
+    "de": "Wenige Wochen nach Ulm siegte Napoleon bei Austerlitz.",
+    "en": "A few weeks after Ulm, Napoleon won the Battle of Austerlitz."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Battle of Ulm",
+      "url": "https://www.britannica.com/event/Battle-of-Ulm"
+    },
+    {
+      "label": "History of War: Ulm Campaign",
+      "url": "https://www.historyofwar.org/articles/campaign_ulm.html"
+    },
+    {
+      "label": "Napoleon.org: The Ulm Campaign",
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-ulm-campaign/"
+    }
+  ]
+}
