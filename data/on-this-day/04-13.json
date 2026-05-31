@@ -1,0 +1,86 @@
+{
+  "date": "04-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1919-bavarian-soviet-republic-proclaimed",
+    "year": 1919,
+    "title": {
+      "ru": "Провозглашена вторая Баварская советская республика",
+      "de": "Die zweite Bayerische Raeterepublik wird ausgerufen",
+      "en": "The second Bavarian Soviet Republic is proclaimed"
+    },
+    "description": {
+      "ru": "13 апреля 1919 года в Мюнхене была провозглашена коммунистическая Баварская советская республика. Она просуществовала недолго, но стала ярким эпизодом революционного хаоса после Первой мировой войны.",
+      "de": "Am 13. April 1919 wurde in Muenchen die kommunistische Bayerische Raeterepublik ausgerufen. Sie bestand nur kurze Zeit, wurde aber zu einer auffaelligen Episode des revolutionaeren Chaos nach dem Ersten Weltkrieg.",
+      "en": "On 13 April 1919, the communist Bavarian Soviet Republic was proclaimed in Munich. It lasted only a short time, but became a striking episode of revolutionary chaos after the First World War."
+    },
+    "importance": {
+      "ru": "Дата показывает, насколько нестабильной была Германия сразу после войны и падения монархии.",
+      "de": "Das Datum zeigt, wie instabil Deutschland direkt nach Krieg und Monarchieende war.",
+      "en": "The date shows how unstable Germany was immediately after the war and the fall of monarchy."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "munich-revolution-1919",
+        "year": 1919,
+        "title": {
+          "ru": "Мюнхен в революции",
+          "de": "Muenchen in der Revolution",
+          "en": "Munich in revolution"
+        },
+        "description": {
+          "ru": "После убийства Курта Эйснера и борьбы разных левых групп Мюнхен стал ареной острого политического конфликта. Подавление советской республики сопровождалось насилием.",
+          "de": "Nach der Ermordung Kurt Eisners und dem Streit verschiedener linker Gruppen wurde Muenchen zum Schauplatz eines scharfen politischen Konflikts. Die Niederschlagung der Raeterepublik war von Gewalt begleitet.",
+          "en": "After Kurt Eisner's murder and conflict among different left-wing groups, Munich became the scene of sharp political conflict. The suppression of the soviet republic was accompanied by violence."
+        },
+        "importance": {
+          "ru": "Это помогает понять, почему ранняя Веймарская республика с самого начала была окружена страхами и радикализацией.",
+          "de": "Das hilft zu verstehen, warum die fruehe Weimarer Republik von Anfang an von Aengsten und Radikalisierung umgeben war.",
+          "en": "It helps explain why the early Weimar Republic was surrounded from the start by fear and radicalization."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "short-lived-state",
+        "year": 1919,
+        "title": {
+          "ru": "Государство на несколько недель",
+          "de": "Ein Staat fuer wenige Wochen",
+          "en": "A state for a few weeks"
+        },
+        "description": {
+          "ru": "Баварская советская республика существовала так недолго, что кажется почти невероятной вставкой в историю Мюнхена. Но такие короткие эпизоды иногда сильно влияют на политическую память.",
+          "de": "Die Bayerische Raeterepublik bestand so kurz, dass sie fast wie eine unwahrscheinliche Episode der Muenchner Geschichte wirkt. Doch solche kurzen Phasen praegen oft die politische Erinnerung.",
+          "en": "The Bavarian Soviet Republic existed so briefly that it seems almost like an unlikely episode in Munich's history. But such short episodes often strongly shape political memory."
+        },
+        "importance": {
+          "ru": "Курьёзность срока не отменяет серьёзности последствий.",
+          "de": "Die Kuerze der Dauer macht die Folgen nicht weniger ernst.",
+          "en": "The curious shortness of its duration does not make the consequences less serious."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "События 1919 года в Мюнхене позже активно использовались правыми радикалами в политической пропаганде.",
+    "de": "Die Ereignisse von 1919 in Muenchen wurden spaeter von rechten Radikalen stark propagandistisch genutzt.",
+    "en": "The events of 1919 in Munich were later heavily used in propaganda by right-wing radicals."
+  },
+  "sources": [
+    {
+      "label": "Historisches Lexikon Bayerns: Bayerische Raeterepublik",
+      "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/Bayerische_Raeterepublik"
+    },
+    {
+      "label": "Britannica: Bavarian Soviet Republic",
+      "url": "https://www.britannica.com/place/Bavarian-Soviet-Republic"
+    }
+  ]
+}

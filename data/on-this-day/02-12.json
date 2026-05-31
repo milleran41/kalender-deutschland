@@ -1,0 +1,65 @@
+{
+  "date": "02-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1804-immanuel-kant-dies",
+    "year": 1804,
+    "title": {
+      "ru": "Умер Иммануил Кант",
+      "de": "Immanuel Kant stirbt",
+      "en": "Immanuel Kant dies"
+    },
+    "description": {
+      "ru": "12 февраля 1804 года в Кёнигсберге умер философ Иммануил Кант. Он почти всю жизнь провёл в этом городе, но его идеи повлияли на философию всей Европы.",
+      "de": "Am 12. Februar 1804 starb der Philosoph Immanuel Kant in Koenigsberg. Er verbrachte fast sein ganzes Leben in dieser Stadt, doch seine Ideen beeinflussten die Philosophie ganz Europas.",
+      "en": "On 12 February 1804, philosopher Immanuel Kant died in Koenigsberg. He spent almost his entire life in that city, but his ideas influenced philosophy across Europe."
+    },
+    "importance": {
+      "ru": "Кант стал одной из центральных фигур Просвещения и изменил разговор о разуме, морали и свободе.",
+      "de": "Kant wurde zu einer zentralen Figur der Aufklaerung und veraenderte das Denken ueber Vernunft, Moral und Freiheit.",
+      "en": "Kant became a central figure of the Enlightenment and changed thinking about reason, morality and freedom."
+    }
+  },
+  "categories": {
+    "culture": [
+      {
+        "id": "kant-practical-reason",
+        "year": 1788,
+        "title": {
+          "ru": "Разум и мораль",
+          "de": "Vernunft und Moral",
+          "en": "Reason and morality"
+        },
+        "description": {
+          "ru": "Кант пытался объяснить, как человек может действовать нравственно и самостоятельно мыслить. Его философия трудна, но её главный вопрос прост: как жить разумно и ответственно?",
+          "de": "Kant versuchte zu erklaeren, wie der Mensch moralisch handeln und selbststaendig denken kann. Seine Philosophie ist schwierig, doch ihre Hauptfrage ist einfach: Wie lebt man vernuenftig und verantwortlich?",
+          "en": "Kant tried to explain how humans can act morally and think independently. His philosophy is difficult, but its central question is simple: how can one live rationally and responsibly?"
+        },
+        "importance": {
+          "ru": "Так философия становится не только школьным предметом, но и разговором о выборе человека.",
+          "de": "So wird Philosophie nicht nur Schulstoff, sondern ein Gespraech ueber menschliche Entscheidungen.",
+          "en": "Philosophy becomes not only a school subject, but a conversation about human choice."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Кант похоронен у Кёнигсбергского собора; сегодня это Калининград.",
+    "de": "Kant ist am Koenigsberger Dom begraben; heute liegt dieser Ort in Kaliningrad.",
+    "en": "Kant is buried by Koenigsberg Cathedral; today the city is Kaliningrad."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Immanuel Kant",
+      "url": "https://www.britannica.com/biography/Immanuel-Kant"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Immanuel Kant",
+      "url": "https://plato.stanford.edu/entries/kant/"
+    }
+  ]
+}

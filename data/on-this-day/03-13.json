@@ -1,0 +1,65 @@
+{
+  "date": "03-13",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1848-metternich-resigns",
+    "year": 1848,
+    "title": {
+      "ru": "Меттерних ушёл в отставку",
+      "de": "Metternich tritt zurueck",
+      "en": "Metternich resigns"
+    },
+    "description": {
+      "ru": "13 марта 1848 года в Вене начались революционные волнения, и князь Клеменс фон Меттерних был вынужден уйти в отставку. Для немецких земель это стало сильным сигналом начала революционной эпохи.",
+      "de": "Am 13. Maerz 1848 begannen in Wien revolutionaere Unruhen, und Fuerst Klemens von Metternich musste zuruecktreten. Fuer die deutschen Laender war das ein starkes Signal des Beginns der Revolutionszeit.",
+      "en": "On 13 March 1848, revolutionary unrest began in Vienna, and Prince Klemens von Metternich was forced to resign. For the German lands, this was a strong signal that a revolutionary era had begun."
+    },
+    "importance": {
+      "ru": "Меттерних считался символом консервативного порядка после Наполеона, поэтому его падение выглядело как трещина в старой системе.",
+      "de": "Metternich galt als Symbol der konservativen Ordnung nach Napoleon, daher wirkte sein Sturz wie ein Riss im alten System.",
+      "en": "Metternich was seen as a symbol of the conservative order after Napoleon, so his fall looked like a crack in the old system."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "march-revolution-german-confederation",
+        "year": 1848,
+        "title": {
+          "ru": "Мартовская революция",
+          "de": "Maerzrevolution",
+          "en": "March Revolution"
+        },
+        "description": {
+          "ru": "В 1848 году волнения быстро распространились по Германскому союзу. Люди требовали свободной прессы, конституций, гражданских прав и национального парламента.",
+          "de": "1848 breiteten sich die Unruhen schnell im Deutschen Bund aus. Menschen forderten Pressefreiheit, Verfassungen, Buergerrechte und ein nationales Parlament.",
+          "en": "In 1848, unrest spread quickly through the German Confederation. People demanded freedom of the press, constitutions, civil rights and a national parliament."
+        },
+        "importance": {
+          "ru": "Это прямой фон к Франкфуртскому национальному собранию 18 мая 1848 года.",
+          "de": "Das ist der direkte Hintergrund zur Frankfurter Nationalversammlung vom 18. Mai 1848.",
+          "en": "This is the direct background to the Frankfurt National Assembly of 18 May 1848."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Меттерних бежал в изгнание в Англию, но позже вернулся в Австрию.",
+    "de": "Metternich floh ins Exil nach England, kehrte spaeter aber nach Oesterreich zurueck.",
+    "en": "Metternich fled into exile in England, but later returned to Austria."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Revolutions of 1848",
+      "url": "https://www.britannica.com/event/Revolutions-of-1848"
+    },
+    {
+      "label": "German History in Documents and Images: March Revolution",
+      "url": "https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/the-march-revolution-in-vienna-march-1848"
+    }
+  ]
+}
