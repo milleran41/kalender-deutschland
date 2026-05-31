@@ -1,0 +1,90 @@
+{
+  "date": "12-23",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1918-berlin-christmas-crisis-begins",
+    "year": 1918,
+    "title": {
+      "ru": "Начались рождественские бои в Берлине",
+      "de": "Die Weihnachtskaempfe in Berlin beginnen",
+      "en": "The Christmas clashes in Berlin begin"
+    },
+    "description": {
+      "ru": "23 декабря 1918 года в Берлине обострился конфликт между революционной Народной морской дивизией и правительством Совета народных уполномоченных. На следующий день столкновение переросло в кровавые рождественские бои.",
+      "de": "Am 23. Dezember 1918 eskalierte in Berlin der Konflikt zwischen der revolutionaeren Volksmarinedivision und dem Rat der Volksbeauftragten. Am naechsten Tag entwickelte sich daraus der blutige Weihnachtskampf.",
+      "en": "On 23 December 1918, the conflict in Berlin between the revolutionary People's Naval Division and the Council of People's Deputies escalated. The next day it developed into the bloody Christmas clashes."
+    },
+    "importance": {
+      "ru": "Событие показало, насколько нестабильной была новая республика сразу после падения монархии и окончания Первой мировой войны.",
+      "de": "Das Ereignis zeigte, wie instabil die neue Republik unmittelbar nach dem Sturz der Monarchie und dem Ende des Ersten Weltkriegs war.",
+      "en": "The event showed how unstable the new republic was immediately after the fall of the monarchy and the end of the First World War."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "november-revolution-aftershock",
+        "year": 1918,
+        "title": {
+          "ru": "Эхо Ноябрьской революции",
+          "de": "Nachhall der Novemberrevolution",
+          "en": "Aftershock of the November Revolution"
+        },
+        "description": {
+          "ru": "После революции 1918 года Германия ещё не знала, какой будет новая власть: парламентской республикой или системой советов. Берлинские рождественские бои стали одним из сигналов будущих конфликтов Веймарской республики.",
+          "de": "Nach der Revolution von 1918 war noch offen, welche Form die neue Macht annehmen wuerde: parlamentarische Republik oder Raetesystem. Die Berliner Weihnachtskaempfe wurden zu einem Warnzeichen kommender Konflikte der Weimarer Republik.",
+          "en": "After the 1918 revolution, it was still unclear what form the new power would take: parliamentary republic or council system. The Berlin Christmas clashes became a warning sign of conflicts to come in the Weimar Republic."
+        },
+        "importance": {
+          "ru": "Так становится понятнее, почему демократия Веймара родилась в атмосфере давления и насилия.",
+          "de": "So wird verstaendlicher, warum die Weimarer Demokratie in einer Atmosphaere von Druck und Gewalt entstand.",
+          "en": "It helps explain why Weimar democracy was born in an atmosphere of pressure and violence."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "christmas-with-barricades",
+        "year": 1918,
+        "title": {
+          "ru": "Рождество с баррикадами",
+          "de": "Weihnachten mit Barrikaden",
+          "en": "Christmas with barricades"
+        },
+        "description": {
+          "ru": "Название звучит почти странно: «рождественские бои» в центре Берлина. Но именно праздничные дни сделали контраст между ожиданием покоя и политическим насилием особенно заметным.",
+          "de": "Der Name wirkt fast widerspruechlich: Weihnachtskaempfe mitten in Berlin. Gerade die Feiertage machten den Gegensatz zwischen erwarteter Ruhe und politischer Gewalt besonders sichtbar.",
+          "en": "The name sounds almost contradictory: Christmas clashes in the center of Berlin. The holidays made the contrast between expected calm and political violence especially striking."
+        },
+        "importance": {
+          "ru": "Такие даты хорошо запоминаются, потому что обычный календарный праздник сталкивается с большой историей.",
+          "de": "Solche Daten bleiben im Gedaechtnis, weil ein normaler Feiertag auf grosse Geschichte trifft.",
+          "en": "Such dates are memorable because an ordinary holiday collides with major history."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "После рождественских боёв представители USPD вышли из Совета народных уполномоченных.",
+    "de": "Nach den Weihnachtskaempfen verliessen die Vertreter der USPD den Rat der Volksbeauftragten.",
+    "en": "After the Christmas clashes, USPD representatives left the Council of People's Deputies."
+  },
+  "sources": [
+    {
+      "label": "LeMO: Die Weihnachtskaempfe 1918",
+      "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/die-weihnachtskaempfe-1918.html"
+    },
+    {
+      "label": "Bundesarchiv: Weihnachtskaempfe",
+      "url": "https://weimar.bundesarchiv.de/WEIMAR/DE/Content/Dokumente-zur-Zeitgeschichte/1918-12-23_weihnachtskaempfe.html"
+    },
+    {
+      "label": "Britannica: German Revolution 1918-1919",
+      "url": "https://www.britannica.com/event/German-Revolution-1918-1919"
+    }
+  ]
+}

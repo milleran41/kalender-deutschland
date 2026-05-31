@@ -1,0 +1,90 @@
+{
+  "date": "01-12",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1904-herero-uprising-begins",
+    "year": 1904,
+    "title": {
+      "ru": "Началось восстание гереро",
+      "de": "Der Aufstand der Herero beginnt",
+      "en": "The Herero uprising begins"
+    },
+    "description": {
+      "ru": "12 января 1904 года в Германской Юго-Западной Африке, на территории современной Намибии, началось восстание народа гереро против немецкой колониальной власти. Конфликт быстро перерос в жестокую колониальную войну.",
+      "de": "Am 12. Januar 1904 begann in Deutsch-Suedwestafrika, dem heutigen Namibia, der Aufstand der Herero gegen die deutsche Kolonialherrschaft. Der Konflikt entwickelte sich rasch zu einem brutalen Kolonialkrieg.",
+      "en": "On 12 January 1904, the Herero uprising against German colonial rule began in German South West Africa, present-day Namibia. The conflict quickly developed into a brutal colonial war."
+    },
+    "importance": {
+      "ru": "Это одна из самых тяжёлых страниц немецкой колониальной истории, без которой невозможно честно говорить о Германии XX века.",
+      "de": "Dies ist eines der schwersten Kapitel der deutschen Kolonialgeschichte und gehoert zu einem ehrlichen Blick auf das Deutschland des 20. Jahrhunderts.",
+      "en": "It is one of the darkest chapters of German colonial history and belongs to any honest view of twentieth-century Germany."
+    }
+  },
+  "categories": {
+    "history": [
+      {
+        "id": "colonial-rule-south-west-africa",
+        "year": 1904,
+        "title": {
+          "ru": "Колониальная война в Африке",
+          "de": "Kolonialkrieg in Afrika",
+          "en": "Colonial war in Africa"
+        },
+        "description": {
+          "ru": "Гереро выступили против потери земли, давления поселенцев и колониальных порядков. Немецкая военная реакция привела к массовой гибели гереро и нама.",
+          "de": "Die Herero wehrten sich gegen Landverlust, den Druck von Siedlern und die koloniale Ordnung. Die deutsche militaerische Reaktion fuehrte zum massenhaften Tod von Herero und Nama.",
+          "en": "The Herero resisted land loss, settler pressure and the colonial order. The German military response led to mass death among Herero and Nama people."
+        },
+        "importance": {
+          "ru": "Событие напоминает, что история Германии не ограничивается Европой и включает колониальное насилие.",
+          "de": "Das Ereignis erinnert daran, dass deutsche Geschichte nicht auf Europa begrenzt ist und koloniale Gewalt einschliesst.",
+          "en": "The event shows that German history is not limited to Europe and includes colonial violence."
+        }
+      }
+    ],
+    "curiosities": [
+      {
+        "id": "german-history-in-namibia",
+        "year": 1904,
+        "title": {
+          "ru": "Немецкая история на карте Намибии",
+          "de": "Deutsche Geschichte auf der Karte Namibias",
+          "en": "German history on Namibia's map"
+        },
+        "description": {
+          "ru": "Многие немецкие колониальные названия и следы архитектуры в Намибии долго напоминали о коротком, но тяжёлом периоде немецкого правления. Поэтому эту дату полезно видеть не только на карте Европы.",
+          "de": "Viele deutsche Kolonialnamen und architektonische Spuren in Namibia erinnerten lange an die kurze, aber schwere Zeit deutscher Herrschaft. Deshalb gehoert dieses Datum nicht nur auf eine Europakarte.",
+          "en": "Many German colonial names and architectural traces in Namibia long recalled the short but harsh period of German rule. This date therefore belongs on more than just a map of Europe."
+        },
+        "importance": {
+          "ru": "Карта помогает увидеть, насколько далеко уходили последствия политики Германской империи.",
+          "de": "Die Karte macht sichtbar, wie weit die Folgen der Politik des Deutschen Kaiserreichs reichten.",
+          "en": "The map helps show how far the consequences of the German Empire's policies reached."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Современная Германия признала войну против гереро и нама преступлением и геноцидом.",
+    "de": "Das heutige Deutschland hat den Krieg gegen Herero und Nama als Verbrechen und Voelkermord anerkannt.",
+    "en": "Modern Germany has recognized the war against the Herero and Nama as a crime and genocide."
+  },
+  "sources": [
+    {
+      "label": "Britannica: German-Herero conflict of 1904-07",
+      "url": "https://www.britannica.com/topic/German-Herero-conflict-of-1904-1907"
+    },
+    {
+      "label": "LeMO: Herero-Krieg 1904",
+      "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/aussenpolitik/herero-krieg-1904"
+    },
+    {
+      "label": "Bundesarchiv: Der Krieg gegen die Herero 1904",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/der-krieg-gegen-die-herero-1904/"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "03-04",
+  "policy": {
+    "preferredRange": "1700-2020",
+    "allowEarlier": "important_and_well_documented",
+    "after2020": "not_included"
+  },
+  "main": {
+    "id": "1916-franz-marc-dies",
+    "year": 1916,
+    "title": {
+      "ru": "Погиб художник Франц Марк",
+      "de": "Franz Marc faellt im Krieg",
+      "en": "Franz Marc dies in the war"
+    },
+    "description": {
+      "ru": "4 марта 1916 года у Вердена погиб немецкий художник Франц Марк, один из ключевых представителей экспрессионизма. Он был связан с группой «Синий всадник» и особенно известен картинами с животными.",
+      "de": "Am 4. Maerz 1916 fiel der deutsche Maler Franz Marc bei Verdun. Er gehoerte zu den Schluesselfiguren des Expressionismus, war mit dem Blauen Reiter verbunden und wurde besonders durch seine Tierbilder bekannt.",
+      "en": "On 4 March 1916, German painter Franz Marc died near Verdun. He was a key figure of Expressionism, associated with Der Blaue Reiter, and became especially known for his animal paintings."
+    },
+    "importance": {
+      "ru": "Его смерть показывает, как Первая мировая война оборвала жизни и творческие пути целого поколения европейских художников.",
+      "de": "Sein Tod zeigt, wie der Erste Weltkrieg die Lebenswege und kuenstlerischen Entwicklungen einer ganzen europaeischen Generation abbrach.",
+      "en": "His death shows how the First World War cut short the lives and artistic paths of a whole European generation."
+    }
+  },
+  "categories": {
+    "people": [
+      {
+        "id": "franz-marc-blue-rider",
+        "year": 1911,
+        "title": {
+          "ru": "Художник «Синего всадника»",
+          "de": "Kuenstler des Blauen Reiters",
+          "en": "Artist of Der Blaue Reiter"
+        },
+        "description": {
+          "ru": "Франц Марк вместе с Василием Кандинским стал одной из центральных фигур мюнхенского объединения «Синий всадник». Художники искали новый язык цвета, формы и внутреннего чувства.",
+          "de": "Franz Marc wurde zusammen mit Wassily Kandinsky zu einer zentralen Figur der Muenchner Gruppe Der Blaue Reiter. Die Kuenstler suchten eine neue Sprache von Farbe, Form und innerem Ausdruck.",
+          "en": "Together with Wassily Kandinsky, Franz Marc became a central figure of the Munich group Der Blaue Reiter. The artists searched for a new language of color, form and inner expression."
+        },
+        "importance": {
+          "ru": "Через Марка хорошо видно, почему Мюнхен был важным центром модернизма.",
+          "de": "An Marc laesst sich gut erkennen, warum Muenchen ein wichtiger Ort der Moderne war.",
+          "en": "Marc helps show why Munich was an important center of modern art."
+        }
+      }
+    ],
+    "culture": [
+      {
+        "id": "expressionism-war-loss",
+        "year": 1916,
+        "title": {
+          "ru": "Искусство и война",
+          "de": "Kunst und Krieg",
+          "en": "Art and war"
+        },
+        "description": {
+          "ru": "До войны Марк писал яркие, символические картины, где животные часто выглядели чище и гармоничнее человеческого мира. Война резко оборвала этот художественный поиск.",
+          "de": "Vor dem Krieg malte Marc leuchtende, symbolische Bilder, in denen Tiere oft reiner und harmonischer wirkten als die Menschenwelt. Der Krieg beendete diese kuenstlerische Suche abrupt.",
+          "en": "Before the war, Marc painted bright, symbolic works in which animals often seemed purer and more harmonious than the human world. The war abruptly ended that artistic search."
+        },
+        "importance": {
+          "ru": "Это делает его биографию понятной даже школьнику: за красивыми картинами стоит трагедия эпохи.",
+          "de": "Das macht seine Biografie auch fuer Schueler gut verstaendlich: Hinter den schoenen Bildern steht die Tragik einer Epoche.",
+          "en": "It makes his biography easy to grasp: behind the beautiful paintings stands the tragedy of an era."
+        }
+      }
+    ]
+  },
+  "fact": {
+    "ru": "Франц Марк родился в Мюнхене, а погиб во Франции во время битвы под Верденом.",
+    "de": "Franz Marc wurde in Muenchen geboren und fiel in Frankreich waehrend der Schlacht um Verdun.",
+    "en": "Franz Marc was born in Munich and died in France during the Battle of Verdun."
+  },
+  "sources": [
+    {
+      "label": "Britannica: Franz Marc",
+      "url": "https://www.britannica.com/biography/Franz-Marc"
+    },
+    {
+      "label": "LeMO: Chronik 1916",
+      "url": "https://www.dhm.de/lemo/jahreschronik/1916"
+    }
+  ]
+}
