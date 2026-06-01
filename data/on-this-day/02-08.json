@@ -11,17 +11,53 @@
     "title": {
       "ru": "В ГДР создано Министерство госбезопасности",
       "de": "Das Ministerium fuer Staatssicherheit wird gegruendet",
-      "en": "East Germany creates the Ministry for State Security"
+      "en": "East Germany creates the Ministry for State Security",
+      "fr": "La RDA crée le ministère de la Sécurité d'État",
+      "es": "La RDA crea el Ministerio de Seguridad del Estado",
+      "it": "La RDT crea il Ministero per la Sicurezza dello Stato",
+      "pt": "A RDA cria o Ministério da Segurança do Estado",
+      "nl": "De DDR richt het Ministerie voor Staatsveiligheid op",
+      "pl": "NRD tworzy Ministerstwo Bezpieczeństwa Państwowego",
+      "tr": "Doğu Almanya Devlet Güvenliği Bakanlığı'nı kurdu",
+      "zh": "东德成立国家安全部",
+      "ja": "東ドイツが国家保安省を設立",
+      "ko": "동독이 국가보안부를 창설하다",
+      "hi": "पूर्वी जर्मनी ने राज्य सुरक्षा मंत्रालय बनाया",
+      "ar": "ألمانيا الشرقية تنشئ وزارة أمن الدولة"
     },
     "description": {
       "ru": "8 февраля 1950 года Народная палата ГДР приняла закон о создании Министерства государственной безопасности. Позже это ведомство стало известно как Stasi.",
       "de": "Am 8. Februar 1950 verabschiedete die Volkskammer der DDR das Gesetz zur Gruendung des Ministeriums fuer Staatssicherheit. Spaeter wurde diese Behoerde als Stasi bekannt.",
-      "en": "On 8 February 1950, East Germany's People's Chamber passed the law establishing the Ministry for State Security. The agency later became known as the Stasi."
+      "en": "On 8 February 1950, East Germany's People's Chamber passed the law establishing the Ministry for State Security. The agency later became known as the Stasi.",
+      "fr": "Le 8 février 1950, la Chambre du peuple de la RDA a adopté la loi créant le ministère de la Sécurité d'État. Cette institution est ensuite devenue connue sous le nom de Stasi.",
+      "es": "El 8 de febrero de 1950, la Cámara Popular de la RDA aprobó la ley que creaba el Ministerio de Seguridad del Estado. Más tarde, el organismo sería conocido como la Stasi.",
+      "it": "L'8 febbraio 1950 la Camera del popolo della RDT approvò la legge che istituiva il Ministero per la Sicurezza dello Stato. In seguito l'ente divenne noto come Stasi.",
+      "pt": "Em 8 de fevereiro de 1950, a Câmara do Povo da RDA aprovou a lei que criava o Ministério da Segurança do Estado. Mais tarde, o órgão ficou conhecido como Stasi.",
+      "nl": "Op 8 februari 1950 nam de Volkskamer van de DDR de wet aan waarmee het Ministerie voor Staatsveiligheid werd opgericht. Later werd deze dienst bekend als de Stasi.",
+      "pl": "8 lutego 1950 roku Izba Ludowa NRD uchwaliła ustawę o utworzeniu Ministerstwa Bezpieczeństwa Państwowego. Później urząd ten stał się znany jako Stasi.",
+      "tr": "8 Şubat 1950'de Doğu Almanya Halk Meclisi, Devlet Güvenliği Bakanlığı'nın kurulmasına ilişkin yasayı kabul etti. Bu kurum daha sonra Stasi olarak tanındı.",
+      "zh": "1950年2月8日，东德人民议院通过了设立国家安全部的法律。这个机构后来被称为史塔西。",
+      "ja": "1950年2月8日、東ドイツの人民議会は国家保安省を設立する法律を可決しました。この機関は後にシュタージとして知られるようになりました。",
+      "ko": "1950년 2월 8일, 동독 인민의회는 국가보안부 설립 법률을 통과시켰습니다. 이 기관은 나중에 슈타지로 알려졌습니다.",
+      "hi": "8 फ़रवरी 1950 को पूर्वी जर्मनी की पीपुल्स चैंबर ने राज्य सुरक्षा मंत्रालय बनाने का कानून पारित किया। यह संस्था बाद में स्टासी के नाम से जानी गई।",
+      "ar": "في 8 فبراير 1950 أقر مجلس الشعب في ألمانيا الشرقية قانون إنشاء وزارة أمن الدولة. وعرفت هذه المؤسسة لاحقا باسم شتازي."
     },
     "importance": {
       "ru": "Stasi стала одним из главных инструментов контроля общества в ГДР.",
       "de": "Die Stasi wurde zu einem der wichtigsten Instrumente gesellschaftlicher Kontrolle in der DDR.",
-      "en": "The Stasi became one of the main instruments of social control in East Germany."
+      "en": "The Stasi became one of the main instruments of social control in East Germany.",
+      "fr": "La Stasi est devenue l'un des principaux instruments de contrôle social en RDA.",
+      "es": "La Stasi se convirtió en uno de los principales instrumentos de control social en la RDA.",
+      "it": "La Stasi divenne uno dei principali strumenti di controllo sociale nella RDT.",
+      "pt": "A Stasi tornou-se um dos principais instrumentos de controlo social na RDA.",
+      "nl": "De Stasi werd een van de belangrijkste instrumenten van maatschappelijke controle in de DDR.",
+      "pl": "Stasi stała się jednym z głównych narzędzi kontroli społeczeństwa w NRD.",
+      "tr": "Stasi, Doğu Almanya'da toplumsal denetimin başlıca araçlarından biri oldu.",
+      "zh": "史塔西成为东德控制社会的主要工具之一。",
+      "ja": "シュタージは東ドイツ社会を統制する主要な手段の一つになりました。",
+      "ko": "슈타지는 동독 사회 통제의 주요 수단 중 하나가 되었습니다.",
+      "hi": "स्टासी पूर्वी जर्मनी में समाज पर नियंत्रण के मुख्य साधनों में से एक बन गई।",
+      "ar": "أصبحت شتازي إحدى أهم أدوات السيطرة الاجتماعية في ألمانيا الشرقية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Становление аппарата контроля",
           "de": "Aufbau eines Kontrollapparats",
-          "en": "Building an apparatus of control"
+          "en": "Building an apparatus of control",
+          "fr": "La mise en place d'un appareil de contrôle",
+          "es": "La construcción de un aparato de control",
+          "it": "La costruzione di un apparato di controllo",
+          "pt": "A construção de um aparelho de controlo",
+          "nl": "De opbouw van een controleapparaat",
+          "pl": "Budowa aparatu kontroli",
+          "tr": "Bir denetim aygıtının kurulması",
+          "zh": "控制机构的建立",
+          "ja": "統制装置の構築",
+          "ko": "통제 기구의 구축",
+          "hi": "नियंत्रण तंत्र का निर्माण",
+          "ar": "بناء جهاز للرقابة"
         },
         "description": {
           "ru": "Новое министерство занималось разведкой, контрразведкой и политическим наблюдением. Со временем оно создало огромную сеть сотрудников и информаторов.",
           "de": "Das neue Ministerium befasste sich mit Nachrichtendienst, Spionageabwehr und politischer Ueberwachung. Mit der Zeit entstand ein riesiges Netz aus Mitarbeitern und Informanten.",
-          "en": "The new ministry handled intelligence, counterintelligence and political surveillance. Over time it built a vast network of staff and informants."
+          "en": "The new ministry handled intelligence, counterintelligence and political surveillance. Over time it built a vast network of staff and informants.",
+          "fr": "Le nouveau ministère s'occupait du renseignement, du contre-espionnage et de la surveillance politique. Avec le temps, il a créé un immense réseau d'agents et d'informateurs.",
+          "es": "El nuevo ministerio se ocupaba de inteligencia, contrainteligencia y vigilancia política. Con el tiempo creó una enorme red de empleados e informadores.",
+          "it": "Il nuovo ministero si occupava di intelligence, controspionaggio e sorveglianza politica. Col tempo costruì una vasta rete di dipendenti e informatori.",
+          "pt": "O novo ministério tratava de informações, contraespionagem e vigilância política. Com o tempo, criou uma enorme rede de funcionários e informadores.",
+          "nl": "Het nieuwe ministerie hield zich bezig met inlichtingenwerk, contraspionage en politieke bewaking. In de loop der tijd bouwde het een enorm netwerk van medewerkers en informanten op.",
+          "pl": "Nowe ministerstwo zajmowało się wywiadem, kontrwywiadem i nadzorem politycznym. Z czasem stworzyło ogromną sieć pracowników i informatorów.",
+          "tr": "Yeni bakanlık istihbarat, karşı istihbarat ve siyasi gözetimle ilgileniyordu. Zamanla çok geniş bir personel ve muhbir ağı kurdu.",
+          "zh": "这个新部门负责情报、反间谍和政治监视。随着时间推移，它建立了庞大的工作人员和线人网络。",
+          "ja": "新しい省は情報活動、防諜、政治的監視を担当しました。やがて職員と協力者の巨大なネットワークを築きました。",
+          "ko": "새 부처는 정보 활동, 방첩, 정치 감시를 담당했습니다. 시간이 지나며 직원과 정보 제공자로 이루어진 거대한 네트워크를 만들었습니다.",
+          "hi": "नया मंत्रालय खुफिया कार्य, प्रतिखुफिया और राजनीतिक निगरानी संभालता था। समय के साथ उसने कर्मचारियों और मुखबिरों का विशाल नेटवर्क बनाया।",
+          "ar": "تولت الوزارة الجديدة شؤون الاستخبارات ومكافحة التجسس والمراقبة السياسية. ومع الوقت أنشأت شبكة واسعة من الموظفين والمخبرين."
         },
         "importance": {
           "ru": "Это помогает понять, почему частная жизнь в ГДР часто была тесно связана с политикой.",
           "de": "Das hilft zu verstehen, warum privates Leben in der DDR oft eng mit Politik verbunden war.",
-          "en": "This helps explain why private life in East Germany was often closely tied to politics."
+          "en": "This helps explain why private life in East Germany was often closely tied to politics.",
+          "fr": "Cela aide à comprendre pourquoi la vie privée en RDA était souvent étroitement liée à la politique.",
+          "es": "Esto ayuda a entender por qué la vida privada en la RDA estaba a menudo estrechamente ligada a la política.",
+          "it": "Questo aiuta a capire perché nella RDT la vita privata era spesso strettamente legata alla politica.",
+          "pt": "Isto ajuda a compreender por que a vida privada na RDA estava muitas vezes intimamente ligada à política.",
+          "nl": "Dit helpt te begrijpen waarom het privéleven in de DDR vaak nauw met politiek verweven was.",
+          "pl": "To pomaga zrozumieć, dlaczego życie prywatne w NRD często było ściśle związane z polityką.",
+          "tr": "Bu, Doğu Almanya'da özel hayatın neden sık sık siyasetle yakından bağlantılı olduğunu anlamaya yardımcı olur.",
+          "zh": "这有助于解释为什么东德的私人生活常常与政治紧密相连。",
+          "ja": "これは、東ドイツで私生活がしばしば政治と密接に結びついていた理由を理解する助けになります。",
+          "ko": "이는 동독에서 사생활이 왜 정치와 밀접하게 연결되는 경우가 많았는지 이해하는 데 도움이 됩니다.",
+          "hi": "इससे समझने में मदद मिलती है कि पूर्वी जर्मनी में निजी जीवन अक्सर राजनीति से इतना जुड़ा क्यों था।",
+          "ar": "يساعد ذلك على فهم سبب ارتباط الحياة الخاصة في ألمانيا الشرقية بالسياسة في كثير من الأحيان."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Вильгельм Цайссер",
           "de": "Wilhelm Zaisser",
-          "en": "Wilhelm Zaisser"
+          "en": "Wilhelm Zaisser",
+          "fr": "Wilhelm Zaisser",
+          "es": "Wilhelm Zaisser",
+          "it": "Wilhelm Zaisser",
+          "pt": "Wilhelm Zaisser",
+          "nl": "Wilhelm Zaisser",
+          "pl": "Wilhelm Zaisser",
+          "tr": "Wilhelm Zaisser",
+          "zh": "威廉·蔡瑟",
+          "ja": "ヴィルヘルム・ツァイサー",
+          "ko": "빌헬름 차이서",
+          "hi": "विल्हेल्म त्साइसर",
+          "ar": "فيلهلم تسايسر"
         },
         "description": {
           "ru": "Первым министром госбезопасности стал Вильгельм Цайссер. Он руководил ведомством в первые годы, когда ГДР только строила свою систему власти.",
           "de": "Der erste Minister fuer Staatssicherheit war Wilhelm Zaisser. Er leitete die Behoerde in den ersten Jahren, als die DDR ihr Herrschaftssystem aufbaute.",
-          "en": "The first minister for state security was Wilhelm Zaisser. He led the agency in the early years as East Germany built its system of rule."
+          "en": "The first minister for state security was Wilhelm Zaisser. He led the agency in the early years as East Germany built its system of rule.",
+          "fr": "Le premier ministre de la Sécurité d'État fut Wilhelm Zaisser. Il dirigea l'institution dans les premières années, alors que la RDA construisait son système de pouvoir.",
+          "es": "El primer ministro de Seguridad del Estado fue Wilhelm Zaisser. Dirigió el organismo en los primeros años, cuando la RDA estaba construyendo su sistema de poder.",
+          "it": "Il primo ministro per la Sicurezza dello Stato fu Wilhelm Zaisser. Guidò l'ente nei primi anni, mentre la RDT costruiva il proprio sistema di potere.",
+          "pt": "O primeiro ministro da Segurança do Estado foi Wilhelm Zaisser. Ele dirigiu o órgão nos primeiros anos, quando a RDA construía o seu sistema de poder.",
+          "nl": "De eerste minister voor Staatsveiligheid was Wilhelm Zaisser. Hij leidde de dienst in de beginjaren, toen de DDR haar machtssysteem opbouwde.",
+          "pl": "Pierwszym ministrem bezpieczeństwa państwowego był Wilhelm Zaisser. Kierował urzędem w pierwszych latach, gdy NRD budowała swój system władzy.",
+          "tr": "İlk devlet güvenliği bakanı Wilhelm Zaisser'di. Doğu Almanya kendi iktidar sistemini kurarken kurumun ilk yıllarına o liderlik etti.",
+          "zh": "首任国家安全部长是威廉·蔡瑟。在东德建立统治体系的早期，他领导了这一机构。",
+          "ja": "初代国家保安大臣はヴィルヘルム・ツァイサーでした。東ドイツが支配体制を築いていた初期に、彼はこの機関を率いました。",
+          "ko": "초대 국가보안부 장관은 빌헬름 차이서였습니다. 그는 동독이 통치 체제를 구축하던 초기 몇 년 동안 이 기관을 이끌었습니다.",
+          "hi": "राज्य सुरक्षा के पहले मंत्री विल्हेल्म त्साइसर थे। पूर्वी जर्मनी जब अपनी सत्ता व्यवस्था बना रहा था, तब शुरुआती वर्षों में उन्होंने इस संस्था का नेतृत्व किया।",
+          "ar": "كان فيلهلم تسايسر أول وزير لأمن الدولة. وقد قاد المؤسسة في سنواتها الأولى حين كانت ألمانيا الشرقية تبني نظام حكمها."
         },
         "importance": {
           "ru": "Через такие биографии видна ранняя структура власти в ГДР.",
           "de": "An solchen Biografien wird die fruehe Machtstruktur der DDR sichtbar.",
-          "en": "Such biographies reveal the early power structure of East Germany."
+          "en": "Such biographies reveal the early power structure of East Germany.",
+          "fr": "Ces biographies rendent visible la première structure du pouvoir en RDA.",
+          "es": "Biografías como esta muestran la estructura temprana del poder en la RDA.",
+          "it": "Biografie come questa rendono visibile la prima struttura del potere nella RDT.",
+          "pt": "Biografias como esta revelam a estrutura inicial do poder na RDA.",
+          "nl": "Zulke biografieën maken de vroege machtsstructuur van de DDR zichtbaar.",
+          "pl": "Takie biografie pokazują wczesną strukturę władzy w NRD.",
+          "tr": "Bu tür biyografiler Doğu Almanya'daki erken iktidar yapısını görünür kılar.",
+          "zh": "这样的传记展现了东德早期的权力结构。",
+          "ja": "このような人物像から、東ドイツ初期の権力構造が見えてきます。",
+          "ko": "이런 전기는 동독 초기의 권력 구조를 보여 줍니다.",
+          "hi": "ऐसी जीवनियाँ पूर्वी जर्मनी की शुरुआती सत्ता संरचना को दिखाती हैं।",
+          "ar": "تكشف مثل هذه السير عن بنية السلطة المبكرة في ألمانيا الشرقية."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Архивы стали историческим источником",
           "de": "Akten werden zur historischen Quelle",
-          "en": "Files became a historical source"
+          "en": "Files became a historical source",
+          "fr": "Les dossiers deviennent une source historique",
+          "es": "Los archivos se convirtieron en fuente histórica",
+          "it": "I fascicoli divennero una fonte storica",
+          "pt": "Os arquivos tornaram-se fonte histórica",
+          "nl": "Dossiers werden een historische bron",
+          "pl": "Akta stały się źródłem historycznym",
+          "tr": "Dosyalar tarihsel bir kaynağa dönüştü",
+          "zh": "档案成为历史资料",
+          "ja": "文書が歴史資料になった",
+          "ko": "문서가 역사 자료가 되다",
+          "hi": "फाइलें ऐतिहासिक स्रोत बन गईं",
+          "ar": "تحولت الملفات إلى مصدر تاريخي"
         },
         "description": {
           "ru": "После 1989-1990 годов миллионы документов Stasi стали важным источником для изучения жизни в ГДР. Многие люди смогли увидеть, что о них собирало государство.",
           "de": "Nach 1989-1990 wurden Millionen Stasi-Unterlagen zu einer wichtigen Quelle fuer die Erforschung des Lebens in der DDR. Viele Menschen konnten erfahren, was der Staat ueber sie gesammelt hatte.",
-          "en": "After 1989-1990, millions of Stasi files became an important source for studying life in East Germany. Many people could see what the state had collected about them."
+          "en": "After 1989-1990, millions of Stasi files became an important source for studying life in East Germany. Many people could see what the state had collected about them.",
+          "fr": "Après 1989-1990, des millions de dossiers de la Stasi sont devenus une source importante pour étudier la vie en RDA. Beaucoup de personnes ont pu voir ce que l'État avait recueilli sur elles.",
+          "es": "Después de 1989-1990, millones de expedientes de la Stasi se convirtieron en una fuente importante para estudiar la vida en la RDA. Muchas personas pudieron ver qué había reunido el Estado sobre ellas.",
+          "it": "Dopo il 1989-1990, milioni di fascicoli della Stasi divennero una fonte importante per studiare la vita nella RDT. Molte persone poterono vedere che cosa lo Stato aveva raccolto su di loro.",
+          "pt": "Depois de 1989-1990, milhões de arquivos da Stasi tornaram-se uma fonte importante para estudar a vida na RDA. Muitas pessoas puderam ver o que o Estado tinha reunido sobre elas.",
+          "nl": "Na 1989-1990 werden miljoenen Stasi-dossiers een belangrijke bron voor het onderzoek naar het leven in de DDR. Veel mensen konden zien wat de staat over hen had verzameld.",
+          "pl": "Po latach 1989-1990 miliony akt Stasi stały się ważnym źródłem do badania życia w NRD. Wielu ludzi mogło zobaczyć, co państwo o nich zbierało.",
+          "tr": "1989-1990'dan sonra milyonlarca Stasi dosyası Doğu Almanya'daki yaşamı incelemek için önemli bir kaynak haline geldi. Birçok kişi devletin kendileri hakkında ne topladığını görebildi.",
+          "zh": "1989至1990年后，数百万份史塔西档案成为研究东德生活的重要资料。许多人能够看到国家曾经收集了关于他们的什么信息。",
+          "ja": "1989年から1990年以降、数百万点のシュタージ文書は東ドイツの生活を研究する重要な資料になりました。多くの人々が、国家が自分について何を集めていたのかを見ることができました。",
+          "ko": "1989-1990년 이후 수백만 건의 슈타지 문서는 동독의 생활을 연구하는 중요한 자료가 되었습니다. 많은 사람이 국가가 자신에 대해 무엇을 수집했는지 볼 수 있었습니다.",
+          "hi": "1989-1990 के बाद स्टासी की लाखों फाइलें पूर्वी जर्मनी के जीवन का अध्ययन करने का महत्वपूर्ण स्रोत बन गईं। बहुत से लोग देख सके कि राज्य ने उनके बारे में क्या इकट्ठा किया था।",
+          "ar": "بعد عامي 1989 و1990 أصبحت ملايين ملفات شتازي مصدرا مهما لدراسة الحياة في ألمانيا الشرقية. وتمكن كثير من الناس من معرفة ما جمعته الدولة عنهم."
         },
         "importance": {
           "ru": "Редкий случай, когда архив тайной полиции стал частью публичной памяти.",
           "de": "Ein seltener Fall, in dem das Archiv einer Geheimpolizei Teil oeffentlicher Erinnerung wurde.",
-          "en": "A rare case in which the archive of a secret police became part of public memory."
+          "en": "A rare case in which the archive of a secret police became part of public memory.",
+          "fr": "Un cas rare où les archives d'une police secrète sont devenues une partie de la mémoire publique.",
+          "es": "Un caso raro en el que el archivo de una policía secreta se convirtió en parte de la memoria pública.",
+          "it": "Un caso raro in cui l'archivio di una polizia segreta è diventato parte della memoria pubblica.",
+          "pt": "Um caso raro em que o arquivo de uma polícia secreta se tornou parte da memória pública.",
+          "nl": "Een zeldzaam geval waarin het archief van een geheime politie deel werd van het publieke geheugen.",
+          "pl": "Rzadki przypadek, gdy archiwum tajnej policji stało się częścią pamięci publicznej.",
+          "tr": "Gizli polis arşivinin kamusal hafızanın parçası haline geldiği ender bir örnek.",
+          "zh": "这是秘密警察档案成为公共记忆一部分的罕见案例。",
+          "ja": "秘密警察の記録が公的な記憶の一部になった珍しい例です。",
+          "ko": "비밀경찰의 기록 보관소가 공적 기억의 일부가 된 드문 사례입니다.",
+          "hi": "यह दुर्लभ मामला है जब गुप्त पुलिस का अभिलेखागार सार्वजनिक स्मृति का हिस्सा बन गया।",
+          "ar": "حالة نادرة أصبح فيها أرشيف شرطة سرية جزءا من الذاكرة العامة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Сокращение Stasi происходит от немецкого Staatssicherheit - «государственная безопасность».",
     "de": "Die Abkuerzung Stasi kommt von Staatssicherheit.",
-    "en": "The abbreviation Stasi comes from the German Staatssicherheit, meaning state security."
+    "en": "The abbreviation Stasi comes from the German Staatssicherheit, meaning state security.",
+    "fr": "L'abréviation Stasi vient de l'allemand Staatssicherheit, qui signifie sécurité d'État.",
+    "es": "La abreviatura Stasi procede del alemán Staatssicherheit, que significa seguridad del Estado.",
+    "it": "L'abbreviazione Stasi viene dal tedesco Staatssicherheit, cioè sicurezza dello Stato.",
+    "pt": "A abreviação Stasi vem do alemão Staatssicherheit, que significa segurança do Estado.",
+    "nl": "De afkorting Stasi komt van het Duitse Staatssicherheit, wat staatsveiligheid betekent.",
+    "pl": "Skrót Stasi pochodzi od niemieckiego Staatssicherheit, czyli bezpieczeństwo państwa.",
+    "tr": "Stasi kısaltması, Almanca devlet güvenliği anlamına gelen Staatssicherheit sözcüğünden gelir.",
+    "zh": "Stasi这个缩写来自德语Staatssicherheit，意思是国家安全。",
+    "ja": "Stasiという略称は、国家保安を意味するドイツ語Staatssicherheitに由来します。",
+    "ko": "Stasi라는 약칭은 국가 안보를 뜻하는 독일어 Staatssicherheit에서 왔습니다.",
+    "hi": "Stasi संक्षेप जर्मन शब्द Staatssicherheit से आया है, जिसका अर्थ है राज्य सुरक्षा।",
+    "ar": "تأتي كلمة شتازي المختصرة من الكلمة الألمانية Staatssicherheit، أي أمن الدولة."
   },
   "sources": [
     {

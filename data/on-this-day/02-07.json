@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Маастрихтский договор",
       "de": "Der Vertrag von Maastricht wird unterzeichnet",
-      "en": "The Maastricht Treaty is signed"
+      "en": "The Maastricht Treaty is signed",
+      "fr": "Signature du traité de Maastricht",
+      "es": "Se firma el Tratado de Maastricht",
+      "it": "Viene firmato il Trattato di Maastricht",
+      "pt": "O Tratado de Maastricht é assinado",
+      "nl": "Het Verdrag van Maastricht wordt ondertekend",
+      "pl": "Podpisano traktat z Maastricht",
+      "tr": "Maastricht Antlaşması imzalandı",
+      "zh": "《马斯特里赫特条约》签署",
+      "ja": "マーストリヒト条約が署名される",
+      "ko": "마스트리흐트 조약이 서명되다",
+      "hi": "मास्ट्रिख्ट संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدة ماستريخت"
     },
     "description": {
       "ru": "7 февраля 1992 года государства Европейских сообществ подписали Маастрихтский договор. Германия была одной из стран, участвовавших в создании нового Европейского союза.",
       "de": "Am 7. Februar 1992 unterzeichneten die Staaten der Europaeischen Gemeinschaften den Vertrag von Maastricht. Deutschland gehoerte zu den Staaten, die die neue Europaeische Union mitgestalteten.",
-      "en": "On 7 February 1992, the states of the European Communities signed the Maastricht Treaty. Germany was one of the countries shaping the new European Union."
+      "en": "On 7 February 1992, the states of the European Communities signed the Maastricht Treaty. Germany was one of the countries shaping the new European Union.",
+      "fr": "Le 7 février 1992, les États des Communautés européennes ont signé le traité de Maastricht. L'Allemagne faisait partie des pays qui ont contribué à façonner la nouvelle Union européenne.",
+      "es": "El 7 de febrero de 1992, los Estados de las Comunidades Europeas firmaron el Tratado de Maastricht. Alemania fue uno de los países que dieron forma a la nueva Unión Europea.",
+      "it": "Il 7 febbraio 1992 gli Stati delle Comunità europee firmarono il Trattato di Maastricht. La Germania fu uno dei paesi che contribuirono a creare la nuova Unione europea.",
+      "pt": "Em 7 de fevereiro de 1992, os Estados das Comunidades Europeias assinaram o Tratado de Maastricht. A Alemanha foi um dos países que ajudaram a moldar a nova União Europeia.",
+      "nl": "Op 7 februari 1992 ondertekenden de staten van de Europese Gemeenschappen het Verdrag van Maastricht. Duitsland was een van de landen die de nieuwe Europese Unie mee vormgaven.",
+      "pl": "7 lutego 1992 roku państwa Wspólnot Europejskich podpisały traktat z Maastricht. Niemcy należały do krajów współtworzących nową Unię Europejską.",
+      "tr": "7 Şubat 1992'de Avrupa Toplulukları devletleri Maastricht Antlaşması'nı imzaladı. Almanya, yeni Avrupa Birliği'ni şekillendiren ülkelerden biriydi.",
+      "zh": "1992年2月7日，欧洲共同体各国签署了《马斯特里赫特条约》。德国是塑造新欧洲联盟的国家之一。",
+      "ja": "1992年2月7日、欧州共同体の各国はマーストリヒト条約に署名しました。ドイツは新しい欧州連合の形成に関わった国の一つでした。",
+      "ko": "1992년 2월 7일, 유럽공동체 회원국들이 마스트리흐트 조약에 서명했습니다. 독일은 새로운 유럽연합을 만드는 데 참여한 나라 중 하나였습니다.",
+      "hi": "7 फ़रवरी 1992 को यूरोपीय समुदायों के देशों ने मास्ट्रिख्ट संधि पर हस्ताक्षर किए। जर्मनी नए यूरोपीय संघ को आकार देने वाले देशों में से एक था।",
+      "ar": "في 7 فبراير 1992 وقعت دول الجماعات الأوروبية معاهدة ماستريخت. وكانت ألمانيا من الدول التي ساهمت في تشكيل الاتحاد الأوروبي الجديد."
     },
     "importance": {
       "ru": "Договор стал основой Европейского союза и будущего евро.",
       "de": "Der Vertrag wurde zur Grundlage der Europaeischen Union und des spaeteren Euro.",
-      "en": "The treaty became the foundation of the European Union and the later euro."
+      "en": "The treaty became the foundation of the European Union and the later euro.",
+      "fr": "Le traité est devenu la base de l'Union européenne et du futur euro.",
+      "es": "El tratado se convirtió en la base de la Unión Europea y del futuro euro.",
+      "it": "Il trattato divenne la base dell'Unione europea e del futuro euro.",
+      "pt": "O tratado tornou-se a base da União Europeia e do futuro euro.",
+      "nl": "Het verdrag werd de basis van de Europese Unie en de latere euro.",
+      "pl": "Traktat stał się podstawą Unii Europejskiej i późniejszego euro.",
+      "tr": "Antlaşma, Avrupa Birliği'nin ve daha sonra avronun temelini oluşturdu.",
+      "zh": "该条约成为欧洲联盟以及后来欧元的基础。",
+      "ja": "この条約は欧州連合と後のユーロの基礎になりました。",
+      "ko": "이 조약은 유럽연합과 이후 유로화의 기반이 되었습니다.",
+      "hi": "यह संधि यूरोपीय संघ और बाद में यूरो की नींव बनी।",
+      "ar": "أصبحت المعاهدة أساس الاتحاد الأوروبي واليورو لاحقا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Европа после объединения Германии",
           "de": "Europa nach der deutschen Einheit",
-          "en": "Europe after German reunification"
+          "en": "Europe after German reunification",
+          "fr": "L'Europe après la réunification allemande",
+          "es": "Europa después de la reunificación alemana",
+          "it": "L'Europa dopo la riunificazione tedesca",
+          "pt": "A Europa após a reunificação alemã",
+          "nl": "Europa na de Duitse hereniging",
+          "pl": "Europa po zjednoczeniu Niemiec",
+          "tr": "Almanya'nın birleşmesinden sonra Avrupa",
+          "zh": "德国统一后的欧洲",
+          "ja": "ドイツ再統一後のヨーロッパ",
+          "ko": "독일 통일 이후의 유럽",
+          "hi": "जर्मन एकीकरण के बाद यूरोप",
+          "ar": "أوروبا بعد إعادة توحيد ألمانيا"
         },
         "description": {
           "ru": "После 1990 года Германия стремилась показать, что её единство связано с общей Европой. Маастрихт стал важной частью этого курса.",
           "de": "Nach 1990 wollte Deutschland zeigen, dass seine Einheit mit einem gemeinsamen Europa verbunden ist. Maastricht wurde ein wichtiger Teil dieses Kurses.",
-          "en": "After 1990, Germany sought to show that its unity was tied to a shared Europe. Maastricht became an important part of that path."
+          "en": "After 1990, Germany sought to show that its unity was tied to a shared Europe. Maastricht became an important part of that path.",
+          "fr": "Après 1990, l'Allemagne a voulu montrer que son unité était liée à une Europe commune. Maastricht est devenu une étape importante de cette orientation.",
+          "es": "Después de 1990, Alemania quiso demostrar que su unidad estaba unida a una Europa común. Maastricht se convirtió en una parte importante de ese rumbo.",
+          "it": "Dopo il 1990, la Germania cercò di mostrare che la sua unità era legata a un'Europa comune. Maastricht divenne una tappa importante di questo percorso.",
+          "pt": "Depois de 1990, a Alemanha procurou mostrar que a sua unidade estava ligada a uma Europa comum. Maastricht tornou-se uma parte importante desse caminho.",
+          "nl": "Na 1990 wilde Duitsland laten zien dat zijn eenheid verbonden was met een gemeenschappelijk Europa. Maastricht werd een belangrijk onderdeel van die koers.",
+          "pl": "Po 1990 roku Niemcy chciały pokazać, że ich jedność jest związana ze wspólną Europą. Maastricht stało się ważną częścią tego kursu.",
+          "tr": "1990'dan sonra Almanya, birliğinin ortak bir Avrupa ile bağlantılı olduğunu göstermek istedi. Maastricht bu yolun önemli bir parçası oldu.",
+          "zh": "1990年后，德国希望表明本国统一与共同的欧洲紧密相连。马斯特里赫特成为这一方向的重要组成部分。",
+          "ja": "1990年以降、ドイツは自国の統一が共通のヨーロッパと結びついていることを示そうとしました。マーストリヒトはその道筋の重要な一部となりました。",
+          "ko": "1990년 이후 독일은 통일이 공동의 유럽과 연결되어 있음을 보여 주려 했습니다. 마스트리흐트는 그 방향의 중요한 부분이 되었습니다.",
+          "hi": "1990 के बाद जर्मनी ने दिखाना चाहा कि उसका एकीकरण साझा यूरोप से जुड़ा है। मास्ट्रिख्ट इस रास्ते का महत्वपूर्ण हिस्सा बना।",
+          "ar": "بعد عام 1990 أرادت ألمانيا أن تظهر أن وحدتها مرتبطة بأوروبا مشتركة. وأصبحت ماستريخت جزءا مهما من هذا المسار."
         },
         "importance": {
           "ru": "Дата помогает понять современную Германию как европейскую державу.",
           "de": "Das Datum hilft, das heutige Deutschland als europaeische Macht zu verstehen.",
-          "en": "The date helps explain modern Germany as a European power."
+          "en": "The date helps explain modern Germany as a European power.",
+          "fr": "Cette date aide à comprendre l'Allemagne moderne comme puissance européenne.",
+          "es": "La fecha ayuda a entender a la Alemania moderna como una potencia europea.",
+          "it": "La data aiuta a capire la Germania moderna come potenza europea.",
+          "pt": "A data ajuda a compreender a Alemanha moderna como potência europeia.",
+          "nl": "Deze datum helpt het moderne Duitsland als Europese macht te begrijpen.",
+          "pl": "Ta data pomaga zrozumieć współczesne Niemcy jako potęgę europejską.",
+          "tr": "Bu tarih, modern Almanya'yı bir Avrupa gücü olarak anlamaya yardımcı olur.",
+          "zh": "这个日期有助于理解现代德国作为欧洲大国的角色。",
+          "ja": "この日付は、現代ドイツをヨーロッパの大国として理解する助けになります。",
+          "ko": "이 날짜는 현대 독일을 유럽의 강국으로 이해하는 데 도움이 됩니다.",
+          "hi": "यह तारीख आधुनिक जर्मनी को एक यूरोपीय शक्ति के रूप में समझने में मदद करती है।",
+          "ar": "يساعد هذا التاريخ على فهم ألمانيا الحديثة بوصفها قوة أوروبية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Договор был подписан 7 февраля 1992 года, а вступил в силу 1 ноября 1993 года.",
     "de": "Der Vertrag wurde am 7. Februar 1992 unterzeichnet und trat am 1. November 1993 in Kraft.",
-    "en": "The treaty was signed on 7 February 1992 and entered into force on 1 November 1993."
+    "en": "The treaty was signed on 7 February 1992 and entered into force on 1 November 1993.",
+    "fr": "Le traité a été signé le 7 février 1992 et est entré en vigueur le 1er novembre 1993.",
+    "es": "El tratado se firmó el 7 de febrero de 1992 y entró en vigor el 1 de noviembre de 1993.",
+    "it": "Il trattato fu firmato il 7 febbraio 1992 ed entrò in vigore il 1 novembre 1993.",
+    "pt": "O tratado foi assinado em 7 de fevereiro de 1992 e entrou em vigor em 1 de novembro de 1993.",
+    "nl": "Het verdrag werd ondertekend op 7 februari 1992 en trad in werking op 1 november 1993.",
+    "pl": "Traktat podpisano 7 lutego 1992 roku, a wszedł w życie 1 listopada 1993 roku.",
+    "tr": "Antlaşma 7 Şubat 1992'de imzalandı ve 1 Kasım 1993'te yürürlüğe girdi.",
+    "zh": "该条约于1992年2月7日签署，并于1993年11月1日生效。",
+    "ja": "この条約は1992年2月7日に署名され、1993年11月1日に発効しました。",
+    "ko": "이 조약은 1992년 2월 7일 서명되었고 1993년 11월 1일 발효되었습니다.",
+    "hi": "यह संधि 7 फ़रवरी 1992 को हस्ताक्षरित हुई और 1 नवंबर 1993 को लागू हुई।",
+    "ar": "وُقعت المعاهدة في 7 فبراير 1992 ودخلت حيز التنفيذ في 1 نوفمبر 1993."
   },
   "sources": [
     {
