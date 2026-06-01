@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открылось Cabaret Voltaire",
       "de": "Das Cabaret Voltaire wird eroeffnet",
-      "en": "Cabaret Voltaire opens"
+      "en": "Cabaret Voltaire opens",
+      "fr": "Ouverture du Cabaret Voltaire",
+      "es": "Abre el Cabaret Voltaire",
+      "it": "Apre il Cabaret Voltaire",
+      "pt": "Abre o Cabaret Voltaire",
+      "nl": "Cabaret Voltaire opent",
+      "pl": "Otwarto Cabaret Voltaire",
+      "tr": "Cabaret Voltaire açılır",
+      "zh": "伏尔泰酒馆开幕",
+      "ja": "キャバレー・ヴォルテールが開く",
+      "ko": "카바레 볼테르가 문을 열다",
+      "hi": "कैबरे वोल्टेयर खुला",
+      "ar": "افتتاح كاباريه فولتير"
     },
     "description": {
       "ru": "5 февраля 1916 года в Цюрихе немецкие артисты и писатели Хуго Балль и Эмми Хеннингс открыли Cabaret Voltaire. Это место стало одним из центров зарождения дадаизма.",
       "de": "Am 5. Februar 1916 eroeffneten die deutschen Kuenstler und Autoren Hugo Ball und Emmy Hennings in Zuerich das Cabaret Voltaire. Der Ort wurde zu einem Zentrum der Entstehung des Dadaismus.",
-      "en": "On 5 February 1916, German artists and writers Hugo Ball and Emmy Hennings opened Cabaret Voltaire in Zurich. The venue became one of the centers where Dadaism emerged."
+      "en": "On 5 February 1916, German artists and writers Hugo Ball and Emmy Hennings opened Cabaret Voltaire in Zurich. The venue became one of the centers where Dadaism emerged.",
+      "fr": "Le 5 février 1916, les artistes et écrivains allemands Hugo Ball et Emmy Hennings ouvrirent le Cabaret Voltaire à Zurich. Ce lieu devint l'un des centres où naquit le dadaïsme.",
+      "es": "El 5 de febrero de 1916, los artistas y escritores alemanes Hugo Ball y Emmy Hennings abrieron el Cabaret Voltaire en Zúrich. El lugar se convirtió en uno de los centros donde surgió el dadaísmo.",
+      "it": "Il 5 febbraio 1916 gli artisti e scrittori tedeschi Hugo Ball ed Emmy Hennings aprirono il Cabaret Voltaire a Zurigo. Il luogo divenne uno dei centri in cui nacque il dadaismo.",
+      "pt": "Em 5 de fevereiro de 1916, os artistas e escritores alemães Hugo Ball e Emmy Hennings abriram o Cabaret Voltaire em Zurique. O local tornou-se um dos centros onde surgiu o dadaísmo.",
+      "nl": "Op 5 februari 1916 openden de Duitse kunstenaars en schrijvers Hugo Ball en Emmy Hennings in Zürich het Cabaret Voltaire. De plek werd een van de centra waar het dadaïsme ontstond.",
+      "pl": "5 lutego 1916 roku niemieccy artyści i pisarze Hugo Ball oraz Emmy Hennings otworzyli w Zurychu Cabaret Voltaire. Miejsce to stało się jednym z ośrodków narodzin dadaizmu.",
+      "tr": "5 Şubat 1916'da Alman sanatçılar ve yazarlar Hugo Ball ile Emmy Hennings Zürih'te Cabaret Voltaire'i açtı. Bu mekân Dadaizmin doğduğu merkezlerden biri oldu.",
+      "zh": "1916年2月5日，德国艺术家兼作家胡戈·巴尔和埃米·亨宁斯在苏黎世开设了伏尔泰酒馆。这里成为达达主义兴起的中心之一。",
+      "ja": "1916年2月5日、ドイツの芸術家・作家フーゴ・バルとエミー・ヘニングスがチューリヒでキャバレー・ヴォルテールを開いた。この場所はダダイズムが生まれる中心地の一つとなった。",
+      "ko": "1916년 2월 5일 독일 예술가이자 작가인 후고 발과 에미 헤닝스가 취리히에서 카바레 볼테르를 열었다. 이 장소는 다다이즘이 등장한 중심지 중 하나가 되었다.",
+      "hi": "5 फरवरी 1916 को जर्मन कलाकारों और लेखकों ह्यूगो बाल और एम्मी हेनिंग्स ने ज़्यूरिख में कैबरे वोल्टेयर खोला। यह स्थान दादावाद के उदय के केंद्रों में से एक बन गया।",
+      "ar": "في 5 فبراير 1916 افتتح الفنانان والكاتبان الألمانيان هوغو بال وإيمي هينينغز كاباريه فولتير في زيورخ. وأصبح المكان أحد المراكز التي ظهر فيها الدادائية."
     },
     "importance": {
       "ru": "Хотя событие произошло в Швейцарии, оно тесно связано с немецкоязычной культурой, эмиграцией и протестом против войны.",
       "de": "Obwohl das Ereignis in der Schweiz stattfand, ist es eng mit deutschsprachiger Kultur, Exil und Protest gegen den Krieg verbunden.",
-      "en": "Although the event took place in Switzerland, it is closely tied to German-language culture, exile and protest against war."
+      "en": "Although the event took place in Switzerland, it is closely tied to German-language culture, exile and protest against war.",
+      "fr": "Même si l'événement eut lieu en Suisse, il est étroitement lié à la culture germanophone, à l'exil et à la protestation contre la guerre.",
+      "es": "Aunque el acontecimiento tuvo lugar en Suiza, está estrechamente ligado a la cultura de lengua alemana, el exilio y la protesta contra la guerra.",
+      "it": "Anche se l'evento avvenne in Svizzera, è strettamente legato alla cultura di lingua tedesca, all'esilio e alla protesta contro la guerra.",
+      "pt": "Embora o acontecimento tenha ocorrido na Suíça, ele está intimamente ligado à cultura de língua alemã, ao exílio e ao protesto contra a guerra.",
+      "nl": "Hoewel de gebeurtenis in Zwitserland plaatsvond, is zij nauw verbonden met Duitstalige cultuur, ballingschap en protest tegen de oorlog.",
+      "pl": "Choć wydarzenie miało miejsce w Szwajcarii, jest ściśle związane z kulturą niemieckojęzyczną, emigracją i protestem przeciw wojnie.",
+      "tr": "Olay İsviçre'de gerçekleşmiş olsa da Almanca kültür, sürgün ve savaşa karşı protestoyla yakından bağlantılıdır.",
+      "zh": "尽管这一事件发生在瑞士，但它与德语文化、流亡和反战抗议密切相关。",
+      "ja": "この出来事はスイスで起きたが、ドイツ語文化、亡命、戦争への抗議と深く結びついている。",
+      "ko": "이 사건은 스위스에서 일어났지만 독일어권 문화, 망명, 전쟁 반대와 밀접하게 연결되어 있다.",
+      "hi": "हालाँकि यह घटना स्विट्ज़रलैंड में हुई, यह जर्मन-भाषी संस्कृति, निर्वासन और युद्ध-विरोध से गहराई से जुड़ी है।",
+      "ar": "رغم أن الحدث وقع في سويسرا، فإنه يرتبط بقوة بالثقافة الناطقة بالألمانية والمنفى والاحتجاج على الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дада как художественный бунт",
           "de": "Dada als kuenstlerischer Aufstand",
-          "en": "Dada as artistic rebellion"
+          "en": "Dada as artistic rebellion",
+          "fr": "Dada comme rébellion artistique",
+          "es": "Dada como rebelión artística",
+          "it": "Dada come ribellione artistica",
+          "pt": "Dada como rebelião artística",
+          "nl": "Dada als artistieke opstand",
+          "pl": "Dada jako artystyczny bunt",
+          "tr": "Sanatsal isyan olarak Dada",
+          "zh": "作为艺术反叛的达达",
+          "ja": "芸術的反乱としてのダダ",
+          "ko": "예술적 반란으로서의 다다",
+          "hi": "कलात्मक विद्रोह के रूप में दादा",
+          "ar": "دادا كتمرد فني"
         },
         "description": {
           "ru": "Дадаисты смешивали стихи, шум, театр, коллаж и абсурд. Их искусство выглядело странно именно потому, что мир войны казался им ещё более абсурдным.",
           "de": "Die Dadaisten mischten Gedichte, Laerm, Theater, Collage und Absurditaet. Ihre Kunst wirkte seltsam, weil ihnen die Welt des Krieges noch absurder erschien.",
-          "en": "The Dadaists mixed poems, noise, theatre, collage and absurdity. Their art looked strange because the world of war seemed even more absurd to them."
+          "en": "The Dadaists mixed poems, noise, theatre, collage and absurdity. Their art looked strange because the world of war seemed even more absurd to them.",
+          "fr": "Les dadaïstes mêlaient poèmes, bruit, théâtre, collage et absurdité. Leur art paraissait étrange parce que le monde de la guerre leur semblait encore plus absurde.",
+          "es": "Los dadaístas mezclaban poemas, ruido, teatro, collage y absurdo. Su arte parecía extraño porque el mundo de la guerra les parecía aún más absurdo.",
+          "it": "I dadaisti mescolavano poesie, rumore, teatro, collage e assurdità. La loro arte appariva strana perché il mondo della guerra sembrava loro ancora più assurdo.",
+          "pt": "Os dadaístas misturavam poemas, ruído, teatro, colagem e absurdo. Sua arte parecia estranha porque o mundo da guerra lhes parecia ainda mais absurdo.",
+          "nl": "De dadaïsten mengden gedichten, lawaai, theater, collage en absurditeit. Hun kunst leek vreemd omdat de wereld van de oorlog hun nog absurder voorkwam.",
+          "pl": "Dadaiści mieszali wiersze, hałas, teatr, kolaż i absurd. Ich sztuka wydawała się dziwna właśnie dlatego, że świat wojny wydawał im się jeszcze bardziej absurdalny.",
+          "tr": "Dadaistler şiirleri, gürültüyü, tiyatroyu, kolajı ve saçmalığı karıştırdı. Sanatları tuhaf görünüyordu, çünkü savaş dünyası onlara daha da saçma geliyordu.",
+          "zh": "达达主义者混合诗歌、噪音、戏剧、拼贴和荒诞。他们的艺术看起来奇怪，正是因为战争世界在他们眼中更加荒诞。",
+          "ja": "ダダイストたちは詩、騒音、演劇、コラージュ、そして不条理を混ぜ合わせた。彼らの芸術が奇妙に見えたのは、戦争の世界の方がさらに不条理に思えたからである。",
+          "ko": "다다이스트들은 시, 소음, 연극, 콜라주, 부조리를 뒤섞었다. 그들의 예술이 이상하게 보였던 것은 전쟁의 세계가 그들에게는 더 부조리하게 보였기 때문이다.",
+          "hi": "दादावादियों ने कविता, शोर, रंगमंच, कोलाज और बेतुकेपन को मिलाया। उनकी कला अजीब लगी क्योंकि युद्ध की दुनिया उन्हें उससे भी अधिक बेतुकी लगती थी।",
+          "ar": "مزج الدادائيون الشعر والضجيج والمسرح والكولاج والعبث. بدا فنهم غريباً لأن عالم الحرب بدا لهم أكثر عبثية."
         },
         "importance": {
           "ru": "Это хороший пример того, как искусство реагирует на исторический шок.",
           "de": "Das ist ein gutes Beispiel dafuer, wie Kunst auf historischen Schock reagiert.",
-          "en": "It is a good example of art responding to historical shock."
+          "en": "It is a good example of art responding to historical shock.",
+          "fr": "C'est un bon exemple de la manière dont l'art réagit à un choc historique.",
+          "es": "Es un buen ejemplo de cómo el arte responde a un choque histórico.",
+          "it": "È un buon esempio di come l'arte reagisce a uno shock storico.",
+          "pt": "É um bom exemplo de como a arte reage a um choque histórico.",
+          "nl": "Het is een goed voorbeeld van hoe kunst reageert op een historische schok.",
+          "pl": "To dobry przykład tego, jak sztuka reaguje na historyczny wstrząs.",
+          "tr": "Bu, sanatın tarihsel bir şoka nasıl tepki verdiğine iyi bir örnektir.",
+          "zh": "这是艺术如何回应历史冲击的好例子。",
+          "ja": "これは、芸術が歴史的衝撃にどのように反応するかを示すよい例である。",
+          "ko": "이는 예술이 역사적 충격에 어떻게 반응하는지를 보여 주는 좋은 예다.",
+          "hi": "यह अच्छा उदाहरण है कि कला ऐतिहासिक आघात पर कैसे प्रतिक्रिया देती है।",
+          "ar": "إنه مثال جيد على كيفية استجابة الفن لصدمة تاريخية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Стихи без привычных слов",
           "de": "Gedichte ohne gewohnte Woerter",
-          "en": "Poems without familiar words"
+          "en": "Poems without familiar words",
+          "fr": "Des poèmes sans mots familiers",
+          "es": "Poemas sin palabras familiares",
+          "it": "Poesie senza parole familiari",
+          "pt": "Poemas sem palavras familiares",
+          "nl": "Gedichten zonder vertrouwde woorden",
+          "pl": "Wiersze bez zwykłych słów",
+          "tr": "Alışılmış kelimeler olmadan şiirler",
+          "zh": "没有熟悉词语的诗",
+          "ja": "なじみのある言葉のない詩",
+          "ko": "익숙한 단어 없는 시",
+          "hi": "परिचित शब्दों के बिना कविताएँ",
+          "ar": "قصائد بلا كلمات مألوفة"
         },
         "description": {
           "ru": "Хуго Балль исполнял звуковые стихи, где важнее были ритм, голос и жест, чем обычный смысл слов. Для публики это было одновременно смешно, странно и тревожно.",
           "de": "Hugo Ball trug Lautgedichte vor, in denen Rhythmus, Stimme und Geste wichtiger waren als die uebliche Bedeutung der Woerter. Fuer das Publikum war das zugleich komisch, seltsam und beunruhigend.",
-          "en": "Hugo Ball performed sound poems in which rhythm, voice and gesture mattered more than ordinary word meanings. For audiences, it was funny, strange and unsettling at once."
+          "en": "Hugo Ball performed sound poems in which rhythm, voice and gesture mattered more than ordinary word meanings. For audiences, it was funny, strange and unsettling at once.",
+          "fr": "Hugo Ball récitait des poèmes sonores où le rythme, la voix et le geste comptaient plus que le sens habituel des mots. Pour le public, c'était à la fois drôle, étrange et inquiétant.",
+          "es": "Hugo Ball interpretaba poemas sonoros en los que el ritmo, la voz y el gesto importaban más que el significado habitual de las palabras. Para el público era a la vez divertido, extraño e inquietante.",
+          "it": "Hugo Ball recitava poesie sonore in cui ritmo, voce e gesto contavano più del significato normale delle parole. Per il pubblico era insieme divertente, strano e inquietante.",
+          "pt": "Hugo Ball apresentava poemas sonoros nos quais ritmo, voz e gesto importavam mais que o sentido comum das palavras. Para o público, era ao mesmo tempo engraçado, estranho e inquietante.",
+          "nl": "Hugo Ball droeg klankgedichten voor waarin ritme, stem en gebaar belangrijker waren dan de gewone betekenis van woorden. Voor het publiek was dat tegelijk grappig, vreemd en verontrustend.",
+          "pl": "Hugo Ball wykonywał wiersze dźwiękowe, w których rytm, głos i gest były ważniejsze niż zwykłe znaczenie słów. Dla publiczności było to jednocześnie zabawne, dziwne i niepokojące.",
+          "tr": "Hugo Ball, ritim, ses ve jestin kelimelerin olağan anlamından daha önemli olduğu ses şiirleri seslendirdi. İzleyiciler için bu aynı anda komik, tuhaf ve huzursuz ediciydi.",
+          "zh": "胡戈·巴尔表演声音诗，其中节奏、声音和姿态比词语的通常意义更重要。对观众来说，这既滑稽、奇怪，又令人不安。",
+          "ja": "フーゴ・バルは、普通の言葉の意味よりもリズム、声、身振りが重要な音響詩を朗読した。観客にとってそれは面白く、奇妙で、不安を誘うものでもあった。",
+          "ko": "후고 발은 단어의 일반적 의미보다 리듬, 목소리, 몸짓이 더 중요한 음성시를 공연했다. 관객에게 그것은 동시에 웃기고, 이상하고, 불안한 것이었다.",
+          "hi": "ह्यूगो बाल ध्वनि-कविताएँ प्रस्तुत करते थे, जिनमें सामान्य शब्दार्थ से अधिक ताल, आवाज़ और हावभाव महत्वपूर्ण थे। दर्शकों के लिए यह एक साथ मज़ेदार, अजीब और बेचैन करने वाला था।",
+          "ar": "كان هوغو بال يؤدي قصائد صوتية يكون فيها الإيقاع والصوت والإيماءة أهم من المعنى المعتاد للكلمات. وبالنسبة للجمهور كان ذلك مضحكاً وغريباً ومقلقاً في الوقت نفسه."
         },
         "importance": {
           "ru": "Такие курьёзные формы стали частью серьёзной истории авангарда.",
           "de": "Solche kuriosen Formen wurden Teil einer ernsthaften Geschichte der Avantgarde.",
-          "en": "Such curious forms became part of the serious history of the avant-garde."
+          "en": "Such curious forms became part of the serious history of the avant-garde.",
+          "fr": "Ces formes curieuses devinrent une partie de l'histoire sérieuse de l'avant-garde.",
+          "es": "Estas formas curiosas se convirtieron en parte de la historia seria de la vanguardia.",
+          "it": "Queste forme curiose divennero parte della storia seria dell'avanguardia.",
+          "pt": "Essas formas curiosas tornaram-se parte da história séria da vanguarda.",
+          "nl": "Zulke merkwaardige vormen werden deel van de serieuze geschiedenis van de avant-garde.",
+          "pl": "Takie osobliwe formy stały się częścią poważnej historii awangardy.",
+          "tr": "Bu tuhaf biçimler avangardın ciddi tarihinin bir parçası oldu.",
+          "zh": "这些奇特形式成为严肃先锋艺术史的一部分。",
+          "ja": "こうした奇妙な形式は、前衛芸術の真剣な歴史の一部となった。",
+          "ko": "이런 기묘한 형식들은 아방가르드의 진지한 역사 일부가 되었다.",
+          "hi": "ऐसे विचित्र रूप अवाँगार्द के गंभीर इतिहास का हिस्सा बन गए।",
+          "ar": "أصبحت هذه الأشكال الغريبة جزءاً من التاريخ الجاد للطليعة الفنية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Cabaret Voltaire находилось на Spiegelgasse в Цюрихе, совсем рядом с местами, где в те же годы жили политические эмигранты.",
     "de": "Das Cabaret Voltaire lag in der Spiegelgasse in Zuerich, nahe bei Orten, an denen damals politische Emigranten lebten.",
-    "en": "Cabaret Voltaire was on Spiegelgasse in Zurich, close to places where political exiles lived at the same time."
+    "en": "Cabaret Voltaire was on Spiegelgasse in Zurich, close to places where political exiles lived at the same time.",
+    "fr": "Le Cabaret Voltaire se trouvait dans la Spiegelgasse à Zurich, tout près des lieux où vivaient alors des émigrés politiques.",
+    "es": "El Cabaret Voltaire estaba en la Spiegelgasse de Zúrich, muy cerca de lugares donde vivían entonces emigrados políticos.",
+    "it": "Il Cabaret Voltaire si trovava nella Spiegelgasse a Zurigo, vicino ai luoghi in cui allora vivevano emigrati politici.",
+    "pt": "O Cabaret Voltaire ficava na Spiegelgasse, em Zurique, perto de lugares onde viviam emigrados políticos na mesma época.",
+    "nl": "Cabaret Voltaire lag aan de Spiegelgasse in Zürich, vlak bij plekken waar toen politieke emigranten woonden.",
+    "pl": "Cabaret Voltaire znajdował się przy Spiegelgasse w Zurychu, blisko miejsc, gdzie w tych latach mieszkali emigranci polityczni.",
+    "tr": "Cabaret Voltaire, Zürih'teki Spiegelgasse üzerindeydi; aynı yıllarda siyasi göçmenlerin yaşadığı yerlere çok yakındı.",
+    "zh": "伏尔泰酒馆位于苏黎世的Spiegelgasse，靠近当时政治流亡者居住的地方。",
+    "ja": "キャバレー・ヴォルテールはチューリヒのシュピーゲルガッセにあり、同じ時期に政治亡命者が暮らしていた場所のすぐ近くだった。",
+    "ko": "카바레 볼테르는 취리히의 슈피겔가세에 있었으며, 당시 정치적 망명자들이 살던 곳들과 가까웠다.",
+    "hi": "कैबरे वोल्टेयर ज़्यूरिख की Spiegelgasse में था, उन स्थानों के बहुत पास जहाँ उसी समय राजनीतिक निर्वासी रहते थे।",
+    "ar": "كان كاباريه فولتير في شارع شبيغلغاسه في زيورخ، قريباً من أماكن كان يعيش فيها مهاجرون سياسيون في تلك السنوات."
   },
   "sources": [
     {

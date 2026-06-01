@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Дитрих Бонхёффер",
       "de": "Dietrich Bonhoeffer wird geboren",
-      "en": "Dietrich Bonhoeffer is born"
+      "en": "Dietrich Bonhoeffer is born",
+      "fr": "Naissance de Dietrich Bonhoeffer",
+      "es": "Nace Dietrich Bonhoeffer",
+      "it": "Nasce Dietrich Bonhoeffer",
+      "pt": "Nasce Dietrich Bonhoeffer",
+      "nl": "Dietrich Bonhoeffer wordt geboren",
+      "pl": "Urodził się Dietrich Bonhoeffer",
+      "tr": "Dietrich Bonhoeffer doğdu",
+      "zh": "迪特里希·朋霍费尔诞生",
+      "ja": "ディートリヒ・ボンヘッファーが生まれる",
+      "ko": "디트리히 본회퍼가 태어나다",
+      "hi": "डीट्रिख बोनहोफर का जन्म हुआ",
+      "ar": "ميلاد ديتريش بونهوفر"
     },
     "description": {
       "ru": "4 февраля 1906 года в Бреслау родился Дитрих Бонхёффер, немецкий богослов и участник сопротивления нацизму. Он открыто выступал против режима и был казнён в апреле 1945 года.",
       "de": "Am 4. Februar 1906 wurde Dietrich Bonhoeffer in Breslau geboren, ein deutscher Theologe und Widerstandskaempfer gegen den Nationalsozialismus. Er stellte sich offen gegen das Regime und wurde im April 1945 hingerichtet.",
-      "en": "On 4 February 1906, Dietrich Bonhoeffer was born in Breslau. He became a German theologian and a member of the resistance against Nazism, and was executed in April 1945."
+      "en": "On 4 February 1906, Dietrich Bonhoeffer was born in Breslau. He became a German theologian and a member of the resistance against Nazism, and was executed in April 1945.",
+      "fr": "Le 4 février 1906, Dietrich Bonhoeffer naquit à Breslau. Théologien allemand et membre de la résistance au nazisme, il s'opposa ouvertement au régime et fut exécuté en avril 1945.",
+      "es": "El 4 de febrero de 1906 nació Dietrich Bonhoeffer en Breslau. Fue teólogo alemán y miembro de la resistencia contra el nazismo; se opuso abiertamente al régimen y fue ejecutado en abril de 1945.",
+      "it": "Il 4 febbraio 1906 Dietrich Bonhoeffer nacque a Breslavia. Fu un teologo tedesco e membro della resistenza al nazismo; si oppose apertamente al regime e fu giustiziato nell'aprile 1945.",
+      "pt": "Em 4 de fevereiro de 1906, Dietrich Bonhoeffer nasceu em Breslau. Ele foi teólogo alemão e membro da resistência ao nazismo, opôs-se abertamente ao regime e foi executado em abril de 1945.",
+      "nl": "Op 4 februari 1906 werd Dietrich Bonhoeffer geboren in Breslau. Hij werd een Duitse theoloog en lid van het verzet tegen het nazisme, en werd in april 1945 geëxecuteerd.",
+      "pl": "4 lutego 1906 roku we Wrocławiu, ówczesnym Breslau, urodził się Dietrich Bonhoeffer. Był niemieckim teologiem i uczestnikiem oporu przeciw nazizmowi; otwarcie sprzeciwiał się reżimowi i został stracony w kwietniu 1945 roku.",
+      "tr": "4 Şubat 1906'da Dietrich Bonhoeffer Breslau'da doğdu. Alman ilahiyatçı ve Nazizme karşı direniş üyesi oldu; rejime açıkça karşı çıktı ve Nisan 1945'te idam edildi.",
+      "zh": "1906年2月4日，迪特里希·朋霍费尔出生于布雷斯劳。他是德国神学家，也是反纳粹抵抗运动成员，公开反对该政权，并于1945年4月被处决。",
+      "ja": "1906年2月4日、ディートリヒ・ボンヘッファーがブレスラウで生まれた。彼はドイツの神学者であり、ナチズムへの抵抗運動に加わり、体制に公然と反対して1945年4月に処刑された。",
+      "ko": "1906년 2월 4일 디트리히 본회퍼가 브레슬라우에서 태어났다. 그는 독일의 신학자이자 나치즘에 맞선 저항 운동의 일원이었으며, 정권에 공개적으로 반대하다 1945년 4월 처형되었다.",
+      "hi": "4 फरवरी 1906 को डीट्रिख बोनहोफर का जन्म ब्रेसलाउ में हुआ। वे जर्मन धर्मशास्त्री और नाज़ीवाद के विरुद्ध प्रतिरोध के सदस्य थे; उन्होंने शासन का खुलकर विरोध किया और अप्रैल 1945 में उन्हें मृत्युदंड दिया गया।",
+      "ar": "في 4 فبراير 1906 وُلد ديتريش بونهوفر في بريسلاو. أصبح لاهوتياً ألمانياً وعضواً في مقاومة النازية، عارض النظام علناً وأُعدم في أبريل 1945."
     },
     "importance": {
       "ru": "Его жизнь показывает, что сопротивление диктатуре могло иметь не только политические, но и нравственные и религиозные причины.",
       "de": "Sein Leben zeigt, dass Widerstand gegen eine Diktatur nicht nur politische, sondern auch moralische und religioese Gruende haben konnte.",
-      "en": "His life shows that resistance to dictatorship could have not only political but also moral and religious reasons."
+      "en": "His life shows that resistance to dictatorship could have not only political but also moral and religious reasons.",
+      "fr": "Sa vie montre que la résistance à une dictature pouvait avoir non seulement des raisons politiques, mais aussi morales et religieuses.",
+      "es": "Su vida muestra que la resistencia a una dictadura podía tener razones no solo políticas, sino también morales y religiosas.",
+      "it": "La sua vita mostra che la resistenza a una dittatura poteva avere motivi non solo politici, ma anche morali e religiosi.",
+      "pt": "Sua vida mostra que a resistência a uma ditadura podia ter razões não apenas políticas, mas também morais e religiosas.",
+      "nl": "Zijn leven laat zien dat verzet tegen een dictatuur niet alleen politieke, maar ook morele en religieuze redenen kon hebben.",
+      "pl": "Jego życie pokazuje, że opór wobec dyktatury mógł mieć nie tylko polityczne, lecz także moralne i religijne powody.",
+      "tr": "Onun hayatı, diktatörlüğe karşı direnişin yalnızca siyasi değil, ahlaki ve dini nedenleri de olabileceğini gösterir.",
+      "zh": "他的一生表明，反抗独裁不仅可能出于政治原因，也可能出于道德和宗教原因。",
+      "ja": "彼の生涯は、独裁への抵抗が政治的理由だけでなく、道徳的・宗教的理由からも生まれ得ることを示している。",
+      "ko": "그의 삶은 독재에 대한 저항이 정치적 이유뿐 아니라 도덕적, 종교적 이유에서도 나올 수 있음을 보여 준다.",
+      "hi": "उनका जीवन दिखाता है कि तानाशाही के विरुद्ध प्रतिरोध केवल राजनीतिक ही नहीं, नैतिक और धार्मिक कारणों से भी हो सकता था।",
+      "ar": "تُظهر حياته أن مقاومة الدكتاتورية قد تكون لها أسباب سياسية، وكذلك أخلاقية ودينية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Богослов и человек совести",
           "de": "Theologe und Mensch des Gewissens",
-          "en": "Theologian and man of conscience"
+          "en": "Theologian and man of conscience",
+          "fr": "Théologien et homme de conscience",
+          "es": "Teólogo y hombre de conciencia",
+          "it": "Teologo e uomo di coscienza",
+          "pt": "Teólogo e homem de consciência",
+          "nl": "Theoloog en man van geweten",
+          "pl": "Teolog i człowiek sumienia",
+          "tr": "İlahiyatçı ve vicdan insanı",
+          "zh": "神学家和有良知的人",
+          "ja": "神学者であり良心の人",
+          "ko": "신학자이자 양심의 사람",
+          "hi": "धर्मशास्त्री और अंतरात्मा के व्यक्ति",
+          "ar": "لاهوتي ورجل ضمير"
         },
         "description": {
           "ru": "Бонхёффер писал о личной ответственности, вере и выборе человека в опасное время. Его книги читают далеко за пределами Германии.",
           "de": "Bonhoeffer schrieb ueber persoenliche Verantwortung, Glauben und Entscheidungen in gefaehrlicher Zeit. Seine Buecher werden weit ueber Deutschland hinaus gelesen.",
-          "en": "Bonhoeffer wrote about personal responsibility, faith and human choices in dangerous times. His books are read far beyond Germany."
+          "en": "Bonhoeffer wrote about personal responsibility, faith and human choices in dangerous times. His books are read far beyond Germany.",
+          "fr": "Bonhoeffer écrivit sur la responsabilité personnelle, la foi et les choix humains en temps dangereux. Ses livres sont lus bien au-delà de l'Allemagne.",
+          "es": "Bonhoeffer escribió sobre la responsabilidad personal, la fe y las decisiones humanas en tiempos peligrosos. Sus libros se leen mucho más allá de Alemania.",
+          "it": "Bonhoeffer scrisse di responsabilità personale, fede e scelte umane in tempi pericolosi. I suoi libri sono letti ben oltre la Germania.",
+          "pt": "Bonhoeffer escreveu sobre responsabilidade pessoal, fé e escolhas humanas em tempos perigosos. Seus livros são lidos muito além da Alemanha.",
+          "nl": "Bonhoeffer schreef over persoonlijke verantwoordelijkheid, geloof en menselijke keuzes in gevaarlijke tijden. Zijn boeken worden ver buiten Duitsland gelezen.",
+          "pl": "Bonhoeffer pisał o osobistej odpowiedzialności, wierze i ludzkich wyborach w niebezpiecznych czasach. Jego książki czyta się daleko poza Niemcami.",
+          "tr": "Bonhoeffer tehlikeli zamanlarda kişisel sorumluluk, inanç ve insanın seçimleri üzerine yazdı. Kitapları Almanya'nın çok ötesinde okunur.",
+          "zh": "朋霍费尔写作关于个人责任、信仰以及人在危险时代的选择。他的著作在德国之外也被广泛阅读。",
+          "ja": "ボンヘッファーは、危険な時代における個人の責任、信仰、人間の選択について書いた。彼の本はドイツをはるかに越えて読まれている。",
+          "ko": "본회퍼는 위험한 시대의 개인적 책임, 신앙, 인간의 선택에 대해 썼다. 그의 책은 독일을 넘어 널리 읽힌다.",
+          "hi": "बोनहोफर ने खतरनाक समय में व्यक्तिगत जिम्मेदारी, विश्वास और मनुष्य के चुनावों पर लिखा। उनकी पुस्तकें जर्मनी से बहुत दूर तक पढ़ी जाती हैं।",
+          "ar": "كتب بونهوفر عن المسؤولية الشخصية والإيمان وخيارات الإنسان في زمن خطير. وتُقرأ كتبه خارج ألمانيا بكثير."
         },
         "importance": {
           "ru": "Это пример того, как идеи могут оставаться важными даже после гибели автора.",
           "de": "Das ist ein Beispiel dafuer, wie Ideen auch nach dem Tod ihres Autors wichtig bleiben koennen.",
-          "en": "It is an example of how ideas can remain important even after their author's death."
+          "en": "It is an example of how ideas can remain important even after their author's death.",
+          "fr": "C'est un exemple de la façon dont des idées peuvent rester importantes même après la mort de leur auteur.",
+          "es": "Es un ejemplo de cómo las ideas pueden seguir siendo importantes incluso después de la muerte de su autor.",
+          "it": "È un esempio di come le idee possano restare importanti anche dopo la morte del loro autore.",
+          "pt": "É um exemplo de como ideias podem continuar importantes mesmo após a morte de seu autor.",
+          "nl": "Het is een voorbeeld van hoe ideeën belangrijk kunnen blijven, zelfs na de dood van hun auteur.",
+          "pl": "To przykład tego, jak idee mogą pozostać ważne nawet po śmierci autora.",
+          "tr": "Bu, fikirlerin yazarının ölümünden sonra bile önemli kalabileceğine dair bir örnektir.",
+          "zh": "这是一个例子，说明思想即使在作者去世后仍能保持重要性。",
+          "ja": "これは、思想が著者の死後も重要であり続け得ることを示す例である。",
+          "ko": "이는 사상이 저자의 죽음 이후에도 중요하게 남을 수 있음을 보여 주는 예다.",
+          "hi": "यह उदाहरण है कि लेखक की मृत्यु के बाद भी विचार महत्वपूर्ण बने रह सकते हैं।",
+          "ar": "إنه مثال على أن الأفكار يمكن أن تبقى مهمة حتى بعد وفاة صاحبها."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Казнь во Флоссенбюрге",
           "de": "Hinrichtung in Flossenbuerg",
-          "en": "Execution at Flossenbuerg"
+          "en": "Execution at Flossenbuerg",
+          "fr": "Exécution à Flossenbürg",
+          "es": "Ejecución en Flossenbürg",
+          "it": "Esecuzione a Flossenbürg",
+          "pt": "Execução em Flossenbürg",
+          "nl": "Executie in Flossenbürg",
+          "pl": "Egzekucja we Flossenbürgu",
+          "tr": "Flossenbürg'de idam",
+          "zh": "在弗洛森比格被处决",
+          "ja": "フロッセンビュルクでの処刑",
+          "ko": "플로센뷔르크에서의 처형",
+          "hi": "फ्लॉसेनबुर्ग में फाँसी",
+          "ar": "الإعدام في فلوسنبورغ"
         },
         "description": {
           "ru": "Бонхёффера казнили в концлагере Флоссенбюрг незадолго до окончания войны. Его судьба связана с немецким сопротивлением и с памятью о жертвах нацистского режима.",
           "de": "Bonhoeffer wurde kurz vor Kriegsende im Konzentrationslager Flossenbuerg hingerichtet. Sein Schicksal ist mit dem deutschen Widerstand und der Erinnerung an die Opfer des NS-Regimes verbunden.",
-          "en": "Bonhoeffer was executed at Flossenbuerg concentration camp shortly before the end of the war. His fate is linked to the German resistance and the memory of the victims of the Nazi regime."
+          "en": "Bonhoeffer was executed at Flossenbuerg concentration camp shortly before the end of the war. His fate is linked to the German resistance and the memory of the victims of the Nazi regime.",
+          "fr": "Bonhoeffer fut exécuté au camp de concentration de Flossenbürg peu avant la fin de la guerre. Son destin est lié à la résistance allemande et à la mémoire des victimes du régime nazi.",
+          "es": "Bonhoeffer fue ejecutado en el campo de concentración de Flossenbürg poco antes del final de la guerra. Su destino está ligado a la resistencia alemana y a la memoria de las víctimas del régimen nazi.",
+          "it": "Bonhoeffer fu giustiziato nel campo di concentramento di Flossenbürg poco prima della fine della guerra. Il suo destino è legato alla resistenza tedesca e alla memoria delle vittime del regime nazista.",
+          "pt": "Bonhoeffer foi executado no campo de concentração de Flossenbürg pouco antes do fim da guerra. Seu destino está ligado à resistência alemã e à memória das vítimas do regime nazista.",
+          "nl": "Bonhoeffer werd kort voor het einde van de oorlog in concentratiekamp Flossenbürg geëxecuteerd. Zijn lot is verbonden met het Duitse verzet en de herinnering aan de slachtoffers van het naziregime.",
+          "pl": "Bonhoeffer został stracony w obozie koncentracyjnym Flossenbürg krótko przed końcem wojny. Jego los wiąże się z niemieckim oporem i pamięcią o ofiarach reżimu nazistowskiego.",
+          "tr": "Bonhoeffer savaşın bitiminden kısa süre önce Flossenbürg toplama kampında idam edildi. Onun kaderi Alman direnişiyle ve Nazi rejiminin kurbanlarının anısıyla bağlantılıdır.",
+          "zh": "朋霍费尔在战争结束前不久于弗洛森比格集中营被处决。他的命运与德国抵抗运动以及对纳粹政权受害者的记忆相连。",
+          "ja": "ボンヘッファーは戦争終結の直前、フロッセンビュルク強制収容所で処刑された。彼の運命はドイツ抵抗運動とナチ体制の犠牲者の記憶に結びついている。",
+          "ko": "본회퍼는 전쟁이 끝나기 직전 플로센뷔르크 강제수용소에서 처형되었다. 그의 운명은 독일 저항 운동과 나치 정권 희생자들의 기억과 연결되어 있다.",
+          "hi": "बोनहोफर को युद्ध समाप्त होने से कुछ ही समय पहले फ्लॉसेनबुर्ग एकाग्रता शिविर में फाँसी दी गई। उनका भाग्य जर्मन प्रतिरोध और नाजी शासन के पीड़ितों की स्मृति से जुड़ा है।",
+          "ar": "أُعدم بونهوفر في معسكر اعتقال فلوسنبورغ قبل نهاية الحرب بقليل. ويرتبط مصيره بالمقاومة الألمانية وبذكرى ضحايا النظام النازي."
         },
         "importance": {
           "ru": "Такие биографии помогают говорить о диктатуре через конкретную человеческую жизнь.",
           "de": "Solche Biografien helfen, ueber Diktatur anhand eines konkreten Menschenlebens zu sprechen.",
-          "en": "Such biographies help explain dictatorship through a concrete human life."
+          "en": "Such biographies help explain dictatorship through a concrete human life.",
+          "fr": "De telles biographies aident à parler de la dictature à travers une vie humaine concrète.",
+          "es": "Estas biografías ayudan a hablar de la dictadura a través de una vida humana concreta.",
+          "it": "Biografie come questa aiutano a parlare della dittatura attraverso una vita umana concreta.",
+          "pt": "Biografias assim ajudam a falar da ditadura por meio de uma vida humana concreta.",
+          "nl": "Zulke biografieën helpen om over dictatuur te spreken aan de hand van een concreet mensenleven.",
+          "pl": "Takie biografie pomagają mówić o dyktaturze przez konkretne ludzkie życie.",
+          "tr": "Böyle biyografiler, diktatörlüğü somut bir insan hayatı üzerinden anlatmaya yardımcı olur.",
+          "zh": "这样的传记有助于通过具体的人生来讲述独裁。",
+          "ja": "こうした伝記は、具体的な一人の人生を通して独裁について語る助けになる。",
+          "ko": "이런 전기는 구체적인 한 사람의 삶을 통해 독재를 설명하는 데 도움을 준다.",
+          "hi": "ऐसी जीवनियाँ एक ठोस मानव जीवन के माध्यम से तानाशाही को समझाने में मदद करती हैं।",
+          "ar": "تساعد مثل هذه السير على الحديث عن الدكتاتورية من خلال حياة إنسانية محددة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Бреслау, где родился Бонхёффер, сегодня находится в Польше и называется Вроцлав.",
     "de": "Breslau, Bonhoeffers Geburtsstadt, liegt heute in Polen und heisst Wroclaw.",
-    "en": "Breslau, Bonhoeffer's birthplace, is now in Poland and is called Wroclaw."
+    "en": "Breslau, Bonhoeffer's birthplace, is now in Poland and is called Wroclaw.",
+    "fr": "Breslau, ville natale de Bonhoeffer, se trouve aujourd'hui en Pologne et s'appelle Wrocław.",
+    "es": "Breslau, ciudad natal de Bonhoeffer, hoy está en Polonia y se llama Wrocław.",
+    "it": "Breslavia, città natale di Bonhoeffer, oggi si trova in Polonia e si chiama Wrocław.",
+    "pt": "Breslau, cidade natal de Bonhoeffer, hoje fica na Polônia e se chama Wrocław.",
+    "nl": "Breslau, de geboorteplaats van Bonhoeffer, ligt tegenwoordig in Polen en heet Wrocław.",
+    "pl": "Breslau, miejsce urodzenia Bonhoeffera, znajduje się dziś w Polsce i nazywa się Wrocław.",
+    "tr": "Bonhoeffer'in doğum yeri Breslau bugün Polonya'dadır ve Wrocław adını taşır.",
+    "zh": "朋霍费尔的出生地布雷斯劳如今位于波兰，名为弗罗茨瓦夫。",
+    "ja": "ボンヘッファーの出生地ブレスラウは現在ポーランドにあり、ヴロツワフと呼ばれている。",
+    "ko": "본회퍼의 출생지 브레슬라우는 오늘날 폴란드에 있으며 브로츠와프라고 불린다.",
+    "hi": "बोनहोफर का जन्मस्थान ब्रेसलाउ आज पोलैंड में है और व्रॉत्सवाफ कहलाता है।",
+    "ar": "تقع بريسلاو، مسقط رأس بونهوفر، اليوم في بولندا وتُسمى فروتسواف."
   },
   "sources": [
     {

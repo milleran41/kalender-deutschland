@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открылось Веймарское национальное собрание",
       "de": "Die Weimarer Nationalversammlung wird eroeffnet",
-      "en": "The Weimar National Assembly opens"
+      "en": "The Weimar National Assembly opens",
+      "fr": "Ouverture de l'Assemblée nationale de Weimar",
+      "es": "Se abre la Asamblea Nacional de Weimar",
+      "it": "Si apre l'Assemblea nazionale di Weimar",
+      "pt": "A Assembleia Nacional de Weimar é aberta",
+      "nl": "De Nationale Vergadering van Weimar wordt geopend",
+      "pl": "Otwarto Weimarskie Zgromadzenie Narodowe",
+      "tr": "Weimar Ulusal Meclisi açılır",
+      "zh": "魏玛国民议会开幕",
+      "ja": "ワイマール国民議会が開会する",
+      "ko": "바이마르 국민의회가 개회하다",
+      "hi": "वाइमर राष्ट्रीय सभा खुली",
+      "ar": "افتتاح الجمعية الوطنية في فايمار"
     },
     "description": {
       "ru": "6 февраля 1919 года в Веймаре впервые собралось Национальное собрание. Оно должно было дать Германии новую конституцию после революции, войны и падения монархии.",
       "de": "Am 6. Februar 1919 trat in Weimar erstmals die Nationalversammlung zusammen. Sie sollte Deutschland nach Revolution, Krieg und Monarchieende eine neue Verfassung geben.",
-      "en": "On 6 February 1919, the National Assembly met for the first time in Weimar. It was meant to give Germany a new constitution after revolution, war and the fall of monarchy."
+      "en": "On 6 February 1919, the National Assembly met for the first time in Weimar. It was meant to give Germany a new constitution after revolution, war and the fall of monarchy.",
+      "fr": "Le 6 février 1919, l'Assemblée nationale se réunit pour la première fois à Weimar. Elle devait donner à l'Allemagne une nouvelle constitution après la révolution, la guerre et la chute de la monarchie.",
+      "es": "El 6 de febrero de 1919, la Asamblea Nacional se reunió por primera vez en Weimar. Debía dar a Alemania una nueva constitución tras la revolución, la guerra y la caída de la monarquía.",
+      "it": "Il 6 febbraio 1919 l'Assemblea nazionale si riunì per la prima volta a Weimar. Doveva dare alla Germania una nuova costituzione dopo la rivoluzione, la guerra e la caduta della monarchia.",
+      "pt": "Em 6 de fevereiro de 1919, a Assembleia Nacional reuniu-se pela primeira vez em Weimar. Ela deveria dar à Alemanha uma nova constituição após a revolução, a guerra e a queda da monarquia.",
+      "nl": "Op 6 februari 1919 kwam de Nationale Vergadering voor het eerst bijeen in Weimar. Zij moest Duitsland na revolutie, oorlog en het einde van de monarchie een nieuwe grondwet geven.",
+      "pl": "6 lutego 1919 roku w Weimarze po raz pierwszy zebrało się Zgromadzenie Narodowe. Miało ono dać Niemcom nową konstytucję po rewolucji, wojnie i upadku monarchii.",
+      "tr": "6 Şubat 1919'da Ulusal Meclis ilk kez Weimar'da toplandı. Devrim, savaş ve monarşinin sona ermesinden sonra Almanya'ya yeni bir anayasa vermesi gerekiyordu.",
+      "zh": "1919年2月6日，国民议会首次在魏玛召开。它的任务是在革命、战争和君主制崩溃后为德国制定新宪法。",
+      "ja": "1919年2月6日、国民議会が初めてワイマールで開かれた。革命、戦争、君主制の崩壊の後、ドイツに新しい憲法を与えることが目的だった。",
+      "ko": "1919년 2월 6일 국민의회가 처음으로 바이마르에서 열렸다. 혁명, 전쟁, 군주제 붕괴 이후 독일에 새 헌법을 마련하는 것이 목적이었다.",
+      "hi": "6 फरवरी 1919 को राष्ट्रीय सभा पहली बार वाइमर में मिली। क्रांति, युद्ध और राजशाही के पतन के बाद उसे जर्मनी को नया संविधान देना था।",
+      "ar": "في 6 فبراير 1919 اجتمعت الجمعية الوطنية لأول مرة في فايمار. وكان عليها أن تمنح ألمانيا دستوراً جديداً بعد الثورة والحرب وسقوط الملكية."
     },
     "importance": {
       "ru": "Дата показывает начало парламентского оформления первой немецкой республики.",
       "de": "Das Datum markiert den parlamentarischen Beginn der ersten deutschen Republik.",
-      "en": "The date marks the parliamentary beginning of Germany's first republic."
+      "en": "The date marks the parliamentary beginning of Germany's first republic.",
+      "fr": "Cette date marque le début parlementaire de la première république allemande.",
+      "es": "La fecha marca el comienzo parlamentario de la primera república alemana.",
+      "it": "La data segna l'inizio parlamentare della prima repubblica tedesca.",
+      "pt": "A data marca o início parlamentar da primeira república alemã.",
+      "nl": "De datum markeert het parlementaire begin van de eerste Duitse republiek.",
+      "pl": "Ta data wyznacza parlamentarny początek pierwszej niemieckiej republiki.",
+      "tr": "Bu tarih Almanya'nın ilk cumhuriyetinin parlamenter başlangıcını işaret eder.",
+      "zh": "这个日期标志着德国第一个共和国的议会开端。",
+      "ja": "この日付はドイツ初の共和国の議会的な始まりを示している。",
+      "ko": "이 날짜는 독일 최초 공화국의 의회적 시작을 나타낸다.",
+      "hi": "यह तारीख जर्मनी के पहले गणराज्य की संसदीय शुरुआत को चिह्नित करती है।",
+      "ar": "يمثل هذا التاريخ البداية البرلمانية لأول جمهورية ألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Почему именно Веймар",
           "de": "Warum gerade Weimar",
-          "en": "Why Weimar"
+          "en": "Why Weimar",
+          "fr": "Pourquoi Weimar",
+          "es": "Por qué Weimar",
+          "it": "Perché proprio Weimar",
+          "pt": "Por que Weimar",
+          "nl": "Waarom juist Weimar",
+          "pl": "Dlaczego właśnie Weimar",
+          "tr": "Neden Weimar",
+          "zh": "为什么是魏玛",
+          "ja": "なぜワイマールだったのか",
+          "ko": "왜 바이마르인가",
+          "hi": "वाइमर ही क्यों",
+          "ar": "لماذا فايمار"
         },
         "description": {
           "ru": "Собрание проходило не в беспокойном Берлине, а в Веймаре, городе с сильным культурным символизмом. Так новая республика искала спокойную сцену и связь с немецкой классикой.",
           "de": "Die Versammlung tagte nicht im unruhigen Berlin, sondern in Weimar, einer Stadt mit starker kultureller Symbolik. So suchte die neue Republik eine ruhigere Buehne und den Bezug zur deutschen Klassik.",
-          "en": "The assembly met not in restless Berlin, but in Weimar, a city with strong cultural symbolism. The new republic sought a calmer stage and a link to German classicism."
+          "en": "The assembly met not in restless Berlin, but in Weimar, a city with strong cultural symbolism. The new republic sought a calmer stage and a link to German classicism.",
+          "fr": "L'assemblée ne siégea pas dans Berlin agité, mais à Weimar, ville au fort symbolisme culturel. La nouvelle république cherchait ainsi une scène plus calme et un lien avec le classicisme allemand.",
+          "es": "La asamblea no se reunió en el inquieto Berlín, sino en Weimar, una ciudad con fuerte simbolismo cultural. La nueva república buscaba así un escenario más tranquilo y un vínculo con el clasicismo alemán.",
+          "it": "L'assemblea non si riunì nell'inquieta Berlino, ma a Weimar, città dal forte simbolismo culturale. La nuova repubblica cercava così un palcoscenico più tranquillo e un legame con il classicismo tedesco.",
+          "pt": "A assembleia não se reuniu na agitada Berlim, mas em Weimar, cidade de forte simbolismo cultural. A nova república buscava assim um palco mais calmo e uma ligação com o classicismo alemão.",
+          "nl": "De vergadering kwam niet bijeen in het onrustige Berlijn, maar in Weimar, een stad met sterke culturele symboliek. Zo zocht de nieuwe republiek een rustiger toneel en een verbinding met de Duitse klassiek.",
+          "pl": "Zgromadzenie obradowało nie w niespokojnym Berlinie, lecz w Weimarze, mieście o silnej symbolice kulturowej. Nowa republika szukała w ten sposób spokojniejszej sceny i związku z niemiecką klasyką.",
+          "tr": "Meclis huzursuz Berlin'de değil, güçlü kültürel sembolizme sahip Weimar'da toplandı. Yeni cumhuriyet böylece daha sakin bir sahne ve Alman klasisizmiyle bağ aradı.",
+          "zh": "议会没有在动荡的柏林召开，而是在具有强烈文化象征意义的魏玛召开。新共和国由此寻找更平静的舞台，并与德国古典文化建立联系。",
+          "ja": "議会は騒然としたベルリンではなく、強い文化的象徴性を持つワイマールで開かれた。新しい共和国は、より落ち着いた舞台とドイツ古典主義との結びつきを求めたのである。",
+          "ko": "의회는 불안정한 베를린이 아니라 강한 문화적 상징성을 지닌 바이마르에서 열렸다. 새 공화국은 더 조용한 무대와 독일 고전주의와의 연결을 찾고자 했다.",
+          "hi": "सभा अशांत बर्लिन में नहीं, बल्कि मजबूत सांस्कृतिक प्रतीक वाले वाइमर में हुई। नई गणराज्य ने इस तरह शांत मंच और जर्मन क्लासिक परंपरा से संबंध खोजा।",
+          "ar": "لم تنعقد الجمعية في برلين المضطربة، بل في فايمار، وهي مدينة ذات رمزية ثقافية قوية. وهكذا بحثت الجمهورية الجديدة عن مسرح أهدأ وعن صلة بالكلاسيكية الألمانية."
         },
         "importance": {
           "ru": "Так политика попыталась опереться на культурный авторитет.",
           "de": "So versuchte Politik, sich auf kulturelle Autoritaet zu stuetzen.",
-          "en": "Politics tried to lean on cultural authority."
+          "en": "Politics tried to lean on cultural authority.",
+          "fr": "La politique tenta ainsi de s'appuyer sur une autorité culturelle.",
+          "es": "Así, la política intentó apoyarse en la autoridad cultural.",
+          "it": "Così la politica cercò di appoggiarsi all'autorità culturale.",
+          "pt": "Assim, a política tentou apoiar-se na autoridade cultural.",
+          "nl": "Zo probeerde de politiek te steunen op cultureel gezag.",
+          "pl": "W ten sposób polityka próbowała oprzeć się na autorytecie kultury.",
+          "tr": "Böylece siyaset kültürel otoriteye yaslanmaya çalıştı.",
+          "zh": "政治由此试图依靠文化权威。",
+          "ja": "こうして政治は文化的権威に支えを求めた。",
+          "ko": "이렇게 정치는 문화적 권위에 기대려 했다.",
+          "hi": "इस तरह राजनीति ने सांस्कृतिक अधिकार पर टिकने की कोशिश की।",
+          "ar": "وهكذا حاولت السياسة أن تستند إلى سلطة ثقافية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Через несколько месяцев это собрание приняло Веймарскую конституцию.",
     "de": "Einige Monate spaeter verabschiedete diese Versammlung die Weimarer Verfassung.",
-    "en": "A few months later, this assembly adopted the Weimar Constitution."
+    "en": "A few months later, this assembly adopted the Weimar Constitution.",
+    "fr": "Quelques mois plus tard, cette assemblée adopta la Constitution de Weimar.",
+    "es": "Unos meses más tarde, esta asamblea aprobó la Constitución de Weimar.",
+    "it": "Pochi mesi dopo, questa assemblea approvò la Costituzione di Weimar.",
+    "pt": "Alguns meses depois, essa assembleia adotou a Constituição de Weimar.",
+    "nl": "Enkele maanden later nam deze vergadering de Weimarer Grondwet aan.",
+    "pl": "Kilka miesięcy później zgromadzenie to uchwaliło konstytucję weimarską.",
+    "tr": "Birkaç ay sonra bu meclis Weimar Anayasası'nı kabul etti.",
+    "zh": "几个月后，该议会通过了魏玛宪法。",
+    "ja": "数か月後、この議会はワイマール憲法を採択した。",
+    "ko": "몇 달 뒤 이 의회는 바이마르 헌법을 채택했다.",
+    "hi": "कुछ महीनों बाद इसी सभा ने वाइमर संविधान स्वीकार किया।",
+    "ar": "بعد بضعة أشهر تبنت هذه الجمعية دستور فايمار."
   },
   "sources": [
     {
