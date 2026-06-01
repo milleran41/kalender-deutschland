@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Вильгельм Гримм",
       "de": "Wilhelm Grimm wird geboren",
-      "en": "Wilhelm Grimm is born"
+      "en": "Wilhelm Grimm is born",
+      "fr": "Naissance de Wilhelm Grimm",
+      "es": "Nace Wilhelm Grimm",
+      "it": "Nasce Wilhelm Grimm",
+      "pt": "Nasce Wilhelm Grimm",
+      "nl": "Wilhelm Grimm wordt geboren",
+      "pl": "Urodził się Wilhelm Grimm",
+      "tr": "Wilhelm Grimm doğdu",
+      "zh": "威廉·格林出生",
+      "ja": "ヴィルヘルム・グリムが生まれる",
+      "ko": "빌헬름 그림이 태어나다",
+      "hi": "विल्हेल्म ग्रिम का जन्म हुआ",
+      "ar": "ولادة فيلهلم غريم"
     },
     "description": {
       "ru": "24 февраля 1786 года в Ханау родился Вильгельм Гримм. Вместе с братом Якобом он собирал и редактировал сказки, которые стали известны во всём мире.",
       "de": "Am 24. Februar 1786 wurde Wilhelm Grimm in Hanau geboren. Zusammen mit seinem Bruder Jacob sammelte und bearbeitete er Maerchen, die weltweit bekannt wurden.",
-      "en": "On 24 February 1786, Wilhelm Grimm was born in Hanau. Together with his brother Jacob, he collected and edited fairy tales that became known around the world."
+      "en": "On 24 February 1786, Wilhelm Grimm was born in Hanau. Together with his brother Jacob, he collected and edited fairy tales that became known around the world.",
+      "fr": "Le 24 février 1786, Wilhelm Grimm naquit à Hanau. Avec son frère Jacob, il collecta et retravailla des contes devenus célèbres dans le monde entier.",
+      "es": "El 24 de febrero de 1786 nació Wilhelm Grimm en Hanau. Junto con su hermano Jacob, recopiló y editó cuentos que se hicieron conocidos en todo el mundo.",
+      "it": "Il 24 febbraio 1786 Wilhelm Grimm nacque a Hanau. Insieme al fratello Jacob raccolse e rielaborò fiabe che divennero famose in tutto il mondo.",
+      "pt": "Em 24 de fevereiro de 1786, Wilhelm Grimm nasceu em Hanau. Juntamente com o seu irmão Jacob, recolheu e editou contos que ficaram conhecidos em todo o mundo.",
+      "nl": "Op 24 februari 1786 werd Wilhelm Grimm in Hanau geboren. Samen met zijn broer Jacob verzamelde en bewerkte hij sprookjes die wereldwijd bekend werden.",
+      "pl": "24 lutego 1786 roku w Hanau urodził się Wilhelm Grimm. Wraz z bratem Jacobem zbierał i redagował baśnie, które stały się znane na całym świecie.",
+      "tr": "24 Şubat 1786'da Wilhelm Grimm Hanau'da doğdu. Kardeşi Jacob ile birlikte dünya çapında tanınan masalları derledi ve düzenledi.",
+      "zh": "1786年2月24日，威廉·格林出生于哈瑙。他与哥哥雅各布一起收集和编辑了后来闻名世界的童话。",
+      "ja": "1786年2月24日、ヴィルヘルム・グリムはハーナウで生まれました。兄ヤーコプとともに、世界中で知られるようになった昔話を収集し編集しました。",
+      "ko": "1786년 2월 24일, 빌헬름 그림이 하나우에서 태어났습니다. 그는 형 야코프와 함께 전 세계에 알려진 동화를 수집하고 편집했습니다.",
+      "hi": "24 फ़रवरी 1786 को विल्हेल्म ग्रिम का जन्म हानाउ में हुआ। भाई याकॉब के साथ उन्होंने वे लोककथाएँ इकट्ठी और संपादित कीं जो पूरी दुनिया में प्रसिद्ध हुईं।",
+      "ar": "في 24 فبراير 1786 وُلد فيلهلم غريم في هاناو. وجمع مع أخيه ياكوب حكايات وحررها، فأصبحت معروفة في أنحاء العالم."
     },
     "importance": {
       "ru": "Вильгельм Гримм особенно важен для литературной формы сказок: многие тексты стали читаться как семейные именно благодаря его обработке.",
       "de": "Wilhelm Grimm ist besonders wichtig fuer die literarische Form der Maerchen: Viele Texte wurden gerade durch seine Bearbeitung als Familienlekture lesbar.",
-      "en": "Wilhelm Grimm is especially important for the literary form of the tales: many texts became readable as family literature through his editing."
+      "en": "Wilhelm Grimm is especially important for the literary form of the tales: many texts became readable as family literature through his editing.",
+      "fr": "Wilhelm Grimm est particulièrement important pour la forme littéraire des contes: beaucoup de textes sont devenus lisibles comme littérature familiale grâce à son travail d'édition.",
+      "es": "Wilhelm Grimm es especialmente importante para la forma literaria de los cuentos: muchos textos llegaron a leerse como literatura familiar gracias a su edición.",
+      "it": "Wilhelm Grimm è particolarmente importante per la forma letteraria delle fiabe: molti testi divennero leggibili come letteratura familiare grazie alla sua rielaborazione.",
+      "pt": "Wilhelm Grimm é especialmente importante para a forma literária dos contos: muitos textos tornaram-se legíveis como literatura familiar graças à sua edição.",
+      "nl": "Wilhelm Grimm is vooral belangrijk voor de literaire vorm van de sprookjes: veel teksten werden juist door zijn bewerking leesbaar als gezinslectuur.",
+      "pl": "Wilhelm Grimm jest szczególnie ważny dla literackiej formy baśni: wiele tekstów stało się lekturą rodzinną właśnie dzięki jego opracowaniu.",
+      "tr": "Wilhelm Grimm masalların edebi biçimi açısından özellikle önemlidir: birçok metin onun düzenlemesi sayesinde aile edebiyatı olarak okunabilir hale geldi.",
+      "zh": "威廉·格林对童话的文学形式尤其重要：许多文本正是通过他的加工，才成为适合家庭阅读的文学。",
+      "ja": "ヴィルヘルム・グリムは物語の文学的な形にとって特に重要です。多くの作品は彼の編集によって、家族で読める文学として受け取られるようになりました。",
+      "ko": "빌헬름 그림은 이야기의 문학적 형식에 특히 중요합니다. 많은 텍스트가 그의 편집을 통해 가족 문학으로 읽힐 수 있게 되었습니다.",
+      "hi": "विल्हेल्म ग्रिम लोककथाओं के साहित्यिक रूप के लिए विशेष रूप से महत्वपूर्ण हैं: उनके संपादन से कई पाठ पारिवारिक साहित्य की तरह पढ़े जाने लगे।",
+      "ar": "يُعد فيلهلم غريم مهما خاصة للشكل الأدبي للحكايات: فقد أصبحت نصوص كثيرة قابلة للقراءة كأدب عائلي بفضل تحريره."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Детские и семейные сказки»",
           "de": "Kinder- und Hausmaerchen",
-          "en": "Children's and Household Tales"
+          "en": "Children's and Household Tales",
+          "fr": "Contes de l'enfance et du foyer",
+          "es": "Cuentos infantiles y del hogar",
+          "it": "Fiabe per bambini e famiglie",
+          "pt": "Contos infantis e domésticos",
+          "nl": "Kinder- en huisvertellingen",
+          "pl": "Baśnie dla dzieci i domu",
+          "tr": "Çocuk ve Ev Masalları",
+          "zh": "《儿童与家庭童话》",
+          "ja": "『子どもと家庭の童話』",
+          "ko": "어린이와 가정을 위한 이야기",
+          "hi": "बच्चों और घर की कहानियाँ",
+          "ar": "حكايات الأطفال والبيت"
         },
         "description": {
           "ru": "Первый том сборника братьев Гримм вышел в 1812 году. В него вошли сюжеты, которые позднее стали классикой детского чтения: от Золушки до Гензеля и Гретель.",
           "de": "Der erste Band der Sammlung der Brueder Grimm erschien 1812. Er enthielt Stoffe, die spaeter Klassiker der Kinderlekture wurden, von Aschenputtel bis Haensel und Gretel.",
-          "en": "The first volume of the Brothers Grimm collection appeared in 1812. It included stories that later became children's classics, from Cinderella to Hansel and Gretel."
+          "en": "The first volume of the Brothers Grimm collection appeared in 1812. It included stories that later became children's classics, from Cinderella to Hansel and Gretel.",
+          "fr": "Le premier volume du recueil des frères Grimm parut en 1812. Il contenait des récits devenus plus tard des classiques de la lecture enfantine, de Cendrillon à Hansel et Gretel.",
+          "es": "El primer volumen de la colección de los hermanos Grimm apareció en 1812. Incluía relatos que más tarde se convirtieron en clásicos infantiles, desde Cenicienta hasta Hansel y Gretel.",
+          "it": "Il primo volume della raccolta dei fratelli Grimm uscì nel 1812. Conteneva storie che in seguito divennero classici per bambini, da Cenerentola a Hansel e Gretel.",
+          "pt": "O primeiro volume da coleção dos irmãos Grimm saiu em 1812. Incluía histórias que mais tarde se tornaram clássicos infantis, da Cinderela a Hansel e Gretel.",
+          "nl": "Het eerste deel van de verzameling van de gebroeders Grimm verscheen in 1812. Het bevatte verhalen die later klassiekers voor kinderen werden, van Assepoester tot Hans en Grietje.",
+          "pl": "Pierwszy tom zbioru braci Grimm ukazał się w 1812 roku. Zawierał opowieści, które później stały się klasyką dziecięcej lektury, od Kopciuszka po Jasia i Małgosię.",
+          "tr": "Grimm Kardeşler'in derlemesinin ilk cildi 1812'de çıktı. Külkedisi'nden Hansel ve Gretel'e kadar sonradan çocuk klasikleri haline gelen hikayeleri içeriyordu.",
+          "zh": "格林兄弟故事集第一卷于1812年出版，其中包括后来成为儿童经典的故事，从《灰姑娘》到《汉塞尔与格蕾特》。",
+          "ja": "グリム兄弟の作品集の第1巻は1812年に刊行されました。そこには『シンデレラ』から『ヘンゼルとグレーテル』まで、後に子どもの読書の古典となる物語が含まれていました。",
+          "ko": "그림 형제 이야기집의 첫 권은 1812년에 나왔습니다. 신데렐라부터 헨젤과 그레텔까지, 나중에 어린이 고전이 된 이야기들이 들어 있었습니다.",
+          "hi": "ब्रदर्स ग्रिम के संग्रह का पहला खंड 1812 में प्रकाशित हुआ। इसमें सिंड्रेला से लेकर हैंज़ेल और ग्रेटेल तक वे कथाएँ थीं जो बाद में बच्चों की क्लासिक कहानियाँ बनीं।",
+          "ar": "صدر المجلد الأول من مجموعة الأخوين غريم عام 1812. وضم قصصا أصبحت لاحقا من كلاسيكيات قراءة الأطفال، من سندريلا إلى هانسل وغريتل."
         },
         "importance": {
           "ru": "Сказки Гримм стали частью образа Германии далеко за её пределами.",
           "de": "Die Maerchen der Grimm-Bruder wurden weit ueber Deutschland hinaus Teil des Deutschlandbildes.",
-          "en": "The Grimm tales became part of Germany's image far beyond its borders."
+          "en": "The Grimm tales became part of Germany's image far beyond its borders.",
+          "fr": "Les contes des Grimm sont devenus une partie de l'image de l'Allemagne bien au-delà de ses frontières.",
+          "es": "Los cuentos de Grimm se convirtieron en parte de la imagen de Alemania mucho más allá de sus fronteras.",
+          "it": "Le fiabe dei Grimm divennero parte dell'immagine della Germania ben oltre i suoi confini.",
+          "pt": "Os contos dos Grimm tornaram-se parte da imagem da Alemanha muito para além das suas fronteiras.",
+          "nl": "De sprookjes van Grimm werden ver buiten haar grenzen deel van het beeld van Duitsland.",
+          "pl": "Baśnie Grimmów stały się częścią obrazu Niemiec daleko poza ich granicami.",
+          "tr": "Grimm masalları Almanya'nın imajının sınırlarının çok ötesinde bir parçası oldu.",
+          "zh": "格林童话成为德国形象的一部分，影响远远超出德国边界。",
+          "ja": "グリム童話は、国境をはるかに越えてドイツのイメージの一部となりました。",
+          "ko": "그림 동화는 독일의 국경을 훨씬 넘어 독일 이미지의 일부가 되었습니다.",
+          "hi": "ग्रिम की कहानियाँ जर्मनी की छवि का हिस्सा बन गईं, वह भी उसकी सीमाओं से बहुत दूर तक।",
+          "ar": "أصبحت حكايات غريم جزءا من صورة ألمانيا خارج حدودها بكثير."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Якоб и Вильгельм Гримм родились в Ханау с разницей чуть больше года.",
     "de": "Jacob und Wilhelm Grimm wurden in Hanau mit etwas mehr als einem Jahr Abstand geboren.",
-    "en": "Jacob and Wilhelm Grimm were born in Hanau a little more than a year apart."
+    "en": "Jacob and Wilhelm Grimm were born in Hanau a little more than a year apart.",
+    "fr": "Jacob et Wilhelm Grimm sont nés à Hanau avec un peu plus d'un an d'écart.",
+    "es": "Jacob y Wilhelm Grimm nacieron en Hanau con poco más de un año de diferencia.",
+    "it": "Jacob e Wilhelm Grimm nacquero a Hanau a poco più di un anno di distanza.",
+    "pt": "Jacob e Wilhelm Grimm nasceram em Hanau com pouco mais de um ano de diferença.",
+    "nl": "Jacob en Wilhelm Grimm werden in Hanau geboren met iets meer dan een jaar verschil.",
+    "pl": "Jacob i Wilhelm Grimm urodzili się w Hanau w odstępie nieco ponad roku.",
+    "tr": "Jacob ve Wilhelm Grimm Hanau'da bir yıldan biraz fazla arayla doğdu.",
+    "zh": "雅各布和威廉·格林都出生在哈瑙，相差稍多于一年。",
+    "ja": "ヤーコプとヴィルヘルム・グリムは、1年少しの差でともにハーナウに生まれました。",
+    "ko": "야코프와 빌헬름 그림은 하나우에서 1년 조금 넘는 차이로 태어났습니다.",
+    "hi": "याकॉब और विल्हेल्म ग्रिम का जन्म हानाउ में एक साल से थोड़ा अधिक अंतर से हुआ।",
+    "ar": "وُلد ياكوب وفيلهلم غريم في هاناو بفارق يزيد قليلا على عام."
   },
   "sources": [
     {

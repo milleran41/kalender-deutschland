@@ -11,17 +11,53 @@
     "title": {
       "ru": "Казнены участники «Белой розы»",
       "de": "Mitglieder der Weissen Rose werden hingerichtet",
-      "en": "White Rose members are executed"
+      "en": "White Rose members are executed",
+      "fr": "Des membres de la Rose blanche sont exécutés",
+      "es": "Son ejecutados miembros de la Rosa Blanca",
+      "it": "Vengono giustiziati membri della Rosa Bianca",
+      "pt": "Membros da Rosa Branca são executados",
+      "nl": "Leden van de Witte Roos worden terechtgesteld",
+      "pl": "Stracono członków Białej Róży",
+      "tr": "Beyaz Gül üyeleri idam edildi",
+      "zh": "白玫瑰成员被处决",
+      "ja": "白バラのメンバーが処刑される",
+      "ko": "백장미단 구성원들이 처형되다",
+      "hi": "व्हाइट रोज़ के सदस्यों को फाँसी दी गई",
+      "ar": "إعدام أعضاء من الوردة البيضاء"
     },
     "description": {
       "ru": "22 февраля 1943 года в Мюнхене были казнены Софи Шолль, Ханс Шолль и Кристоф Пробст. Они распространяли листовки против нацистского режима.",
       "de": "Am 22. Februar 1943 wurden Sophie Scholl, Hans Scholl und Christoph Probst in Muenchen hingerichtet. Sie hatten Flugblätter gegen das NS-Regime verbreitet.",
-      "en": "On 22 February 1943, Sophie Scholl, Hans Scholl and Christoph Probst were executed in Munich. They had distributed leaflets against the Nazi regime."
+      "en": "On 22 February 1943, Sophie Scholl, Hans Scholl and Christoph Probst were executed in Munich. They had distributed leaflets against the Nazi regime.",
+      "fr": "Le 22 février 1943, Sophie Scholl, Hans Scholl et Christoph Probst furent exécutés à Munich. Ils avaient distribué des tracts contre le régime nazi.",
+      "es": "El 22 de febrero de 1943 fueron ejecutados en Múnich Sophie Scholl, Hans Scholl y Christoph Probst. Habían distribuido octavillas contra el régimen nazi.",
+      "it": "Il 22 febbraio 1943 Sophie Scholl, Hans Scholl e Christoph Probst furono giustiziati a Monaco. Avevano distribuito volantini contro il regime nazista.",
+      "pt": "Em 22 de fevereiro de 1943, Sophie Scholl, Hans Scholl e Christoph Probst foram executados em Munique. Tinham distribuído panfletos contra o regime nazi.",
+      "nl": "Op 22 februari 1943 werden Sophie Scholl, Hans Scholl en Christoph Probst in München terechtgesteld. Zij hadden pamfletten tegen het naziregime verspreid.",
+      "pl": "22 lutego 1943 roku w Monachium stracono Sophie Scholl, Hansa Scholla i Christopha Probsta. Rozpowszechniali ulotki przeciwko reżimowi nazistowskiemu.",
+      "tr": "22 Şubat 1943'te Sophie Scholl, Hans Scholl ve Christoph Probst Münih'te idam edildi. Nazi rejimine karşı bildiriler dağıtmışlardı.",
+      "zh": "1943年2月22日，索菲·朔尔、汉斯·朔尔和克里斯托夫·普罗布斯特在慕尼黑被处决。他们曾散发反对纳粹政权的传单。",
+      "ja": "1943年2月22日、ゾフィー・ショル、ハンス・ショル、クリストフ・プロープストがミュンヘンで処刑されました。彼らはナチ体制に反対するビラを配布していました。",
+      "ko": "1943년 2월 22일, 조피 숄, 한스 숄, 크리스토프 프로프스트가 뮌헨에서 처형되었습니다. 그들은 나치 정권에 반대하는 전단을 배포했습니다.",
+      "hi": "22 फ़रवरी 1943 को म्यूनिख में सोफी शोल, हांस शोल और क्रिस्टोफ प्रोब्स्ट को फाँसी दी गई। उन्होंने नाजी शासन के खिलाफ पर्चे बाँटे थे।",
+      "ar": "في 22 فبراير 1943 أُعدمت صوفي شول وهانس شول وكريستوف بروبست في ميونخ. كانوا قد وزعوا منشورات ضد النظام النازي."
     },
     "importance": {
       "ru": "«Белая роза» стала одним из самых известных символов гражданского сопротивления в нацистской Германии.",
       "de": "Die Weisse Rose wurde zu einem der bekanntesten Symbole des zivilen Widerstands in NS-Deutschland.",
-      "en": "The White Rose became one of the best-known symbols of civilian resistance in Nazi Germany."
+      "en": "The White Rose became one of the best-known symbols of civilian resistance in Nazi Germany.",
+      "fr": "La Rose blanche est devenue l'un des symboles les plus connus de la résistance civile dans l'Allemagne nazie.",
+      "es": "La Rosa Blanca se convirtió en uno de los símbolos más conocidos de la resistencia civil en la Alemania nazi.",
+      "it": "La Rosa Bianca divenne uno dei simboli più noti della resistenza civile nella Germania nazista.",
+      "pt": "A Rosa Branca tornou-se um dos símbolos mais conhecidos da resistência civil na Alemanha nazi.",
+      "nl": "De Witte Roos werd een van de bekendste symbolen van burgerlijk verzet in nazi-Duitsland.",
+      "pl": "Biała Róża stała się jednym z najbardziej znanych symboli cywilnego oporu w nazistowskich Niemczech.",
+      "tr": "Beyaz Gül, Nazi Almanyası'ndaki sivil direnişin en bilinen simgelerinden biri oldu.",
+      "zh": "白玫瑰成为纳粹德国公民抵抗最著名的象征之一。",
+      "ja": "白バラは、ナチス・ドイツにおける市民的抵抗の最もよく知られた象徴の一つになりました。",
+      "ko": "백장미단은 나치 독일의 시민 저항을 상징하는 가장 잘 알려진 사례 중 하나가 되었습니다.",
+      "hi": "व्हाइट रोज़ नाजी जर्मनी में नागरिक प्रतिरोध के सबसे प्रसिद्ध प्रतीकों में से एक बन गया।",
+      "ar": "أصبحت الوردة البيضاء أحد أشهر رموز المقاومة المدنية في ألمانيا النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Софи Шолль",
           "de": "Sophie Scholl",
-          "en": "Sophie Scholl"
+          "en": "Sophie Scholl",
+          "fr": "Sophie Scholl",
+          "es": "Sophie Scholl",
+          "it": "Sophie Scholl",
+          "pt": "Sophie Scholl",
+          "nl": "Sophie Scholl",
+          "pl": "Sophie Scholl",
+          "tr": "Sophie Scholl",
+          "zh": "索菲·朔尔",
+          "ja": "ゾフィー・ショル",
+          "ko": "조피 숄",
+          "hi": "सोफी शोल",
+          "ar": "صوفي شول"
         },
         "description": {
           "ru": "Софи Шолль была студенткой Мюнхенского университета. Её имя сегодня часто связывают с личной смелостью и моральным выбором.",
           "de": "Sophie Scholl war Studentin an der Universitaet Muenchen. Ihr Name steht heute oft fuer persoenlichen Mut und moralische Entscheidung.",
-          "en": "Sophie Scholl was a student at the University of Munich. Her name is now often linked with personal courage and moral choice."
+          "en": "Sophie Scholl was a student at the University of Munich. Her name is now often linked with personal courage and moral choice.",
+          "fr": "Sophie Scholl était étudiante à l'université de Munich. Son nom est aujourd'hui souvent associé au courage personnel et au choix moral.",
+          "es": "Sophie Scholl era estudiante en la Universidad de Múnich. Hoy su nombre suele asociarse con el valor personal y la elección moral.",
+          "it": "Sophie Scholl era studentessa all'Università di Monaco. Oggi il suo nome è spesso legato al coraggio personale e alla scelta morale.",
+          "pt": "Sophie Scholl era estudante na Universidade de Munique. Hoje o seu nome é frequentemente associado à coragem pessoal e à escolha moral.",
+          "nl": "Sophie Scholl was studente aan de Universiteit van München. Haar naam wordt vandaag vaak verbonden met persoonlijke moed en morele keuze.",
+          "pl": "Sophie Scholl była studentką Uniwersytetu Monachijskiego. Jej imię często łączy się dziś z osobistą odwagą i moralnym wyborem.",
+          "tr": "Sophie Scholl Münih Üniversitesi'nde öğrenciydi. Adı bugün çoğu zaman kişisel cesaret ve ahlaki seçimle ilişkilendirilir.",
+          "zh": "索菲·朔尔是慕尼黑大学的学生。今天，她的名字常与个人勇气和道德选择联系在一起。",
+          "ja": "ゾフィー・ショルはミュンヘン大学の学生でした。彼女の名前は今日、個人の勇気と道徳的選択と結びつけられることが多いです。",
+          "ko": "조피 숄은 뮌헨대학교 학생이었습니다. 오늘날 그녀의 이름은 개인의 용기와 도덕적 선택과 자주 연결됩니다.",
+          "hi": "सोफी शोल म्यूनिख विश्वविद्यालय की छात्रा थीं। आज उनका नाम अक्सर व्यक्तिगत साहस और नैतिक चुनाव से जोड़ा जाता है।",
+          "ar": "كانت صوفي شول طالبة في جامعة ميونخ. ويرتبط اسمها اليوم كثيرا بالشجاعة الشخصية والاختيار الأخلاقي."
         },
         "importance": {
           "ru": "Она напоминает, что сопротивление может начинаться с текста, листовки и отказа молчать.",
           "de": "Sie erinnert daran, dass Widerstand mit einem Text, einem Flugblatt und dem Nein zum Schweigen beginnen kann.",
-          "en": "She reminds us that resistance can begin with a text, a leaflet and a refusal to stay silent."
+          "en": "She reminds us that resistance can begin with a text, a leaflet and a refusal to stay silent.",
+          "fr": "Elle rappelle que la résistance peut commencer par un texte, un tract et le refus de se taire.",
+          "es": "Ella recuerda que la resistencia puede empezar con un texto, una octavilla y la negativa a callar.",
+          "it": "Ricorda che la resistenza può cominciare con un testo, un volantino e il rifiuto di tacere.",
+          "pt": "Ela lembra que a resistência pode começar com um texto, um panfleto e a recusa de ficar em silêncio.",
+          "nl": "Zij herinnert eraan dat verzet kan beginnen met een tekst, een pamflet en de weigering om te zwijgen.",
+          "pl": "Przypomina, że opór może zaczynać się od tekstu, ulotki i odmowy milczenia.",
+          "tr": "Direnişin bir metinle, bir bildiriyle ve susmayı reddetmekle başlayabileceğini hatırlatır.",
+          "zh": "她提醒人们，抵抗可以从一篇文字、一张传单和拒绝沉默开始。",
+          "ja": "彼女は、抵抗が一つの文章、一枚のビラ、沈黙を拒むことから始まり得ると教えてくれます。",
+          "ko": "그녀는 저항이 글, 전단, 침묵하지 않겠다는 거부에서 시작될 수 있음을 일깨워 줍니다.",
+          "hi": "वे याद दिलाती हैं कि प्रतिरोध एक पाठ, एक पर्चे और चुप रहने से इनकार से शुरू हो सकता है।",
+          "ar": "تذكرنا بأن المقاومة يمكن أن تبدأ بنص ومنشور ورفض للصمت."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Листовки «Белой розы» распространялись не только в Мюнхене, но и в других городах.",
     "de": "Die Flugblaetter der Weissen Rose wurden nicht nur in Muenchen, sondern auch in anderen Staedten verbreitet.",
-    "en": "The White Rose leaflets were distributed not only in Munich but also in other cities."
+    "en": "The White Rose leaflets were distributed not only in Munich but also in other cities.",
+    "fr": "Les tracts de la Rose blanche furent distribués non seulement à Munich, mais aussi dans d'autres villes.",
+    "es": "Las octavillas de la Rosa Blanca se distribuyeron no solo en Múnich, sino también en otras ciudades.",
+    "it": "I volantini della Rosa Bianca furono distribuiti non solo a Monaco, ma anche in altre città.",
+    "pt": "Os panfletos da Rosa Branca foram distribuídos não só em Munique, mas também noutras cidades.",
+    "nl": "De pamfletten van de Witte Roos werden niet alleen in München, maar ook in andere steden verspreid.",
+    "pl": "Ulotki Białej Róży rozpowszechniano nie tylko w Monachium, lecz także w innych miastach.",
+    "tr": "Beyaz Gül bildirileri yalnızca Münih'te değil, başka şehirlerde de dağıtıldı.",
+    "zh": "白玫瑰传单不仅在慕尼黑传播，也在其他城市传播。",
+    "ja": "白バラのビラはミュンヘンだけでなく、他の都市にも配布されました。",
+    "ko": "백장미단의 전단은 뮌헨뿐 아니라 다른 도시들에도 배포되었습니다.",
+    "hi": "व्हाइट रोज़ के पर्चे केवल म्यूनिख में ही नहीं, अन्य शहरों में भी बाँटे गए।",
+    "ar": "وُزعت منشورات الوردة البيضاء ليس في ميونخ فقط، بل في مدن أخرى أيضا."
   },
   "sources": [
     {

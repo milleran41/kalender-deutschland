@@ -11,17 +11,53 @@
     "title": {
       "ru": "Рудольф Дизель получил патент на двигатель",
       "de": "Rudolf Diesel erhaelt das Patent fuer seinen Motor",
-      "en": "Rudolf Diesel receives a patent for his engine"
+      "en": "Rudolf Diesel receives a patent for his engine",
+      "fr": "Rudolf Diesel reçoit un brevet pour son moteur",
+      "es": "Rudolf Diesel recibe una patente para su motor",
+      "it": "Rudolf Diesel riceve un brevetto per il suo motore",
+      "pt": "Rudolf Diesel recebe uma patente para o seu motor",
+      "nl": "Rudolf Diesel krijgt een patent voor zijn motor",
+      "pl": "Rudolf Diesel otrzymuje patent na swój silnik",
+      "tr": "Rudolf Diesel motoru için patent aldı",
+      "zh": "鲁道夫·狄塞尔获得发动机专利",
+      "ja": "ルドルフ・ディーゼルがエンジンの特許を取得",
+      "ko": "루돌프 디젤이 자신의 엔진 특허를 받다",
+      "hi": "रूडोल्फ डीज़ल को अपने इंजन का पेटेंट मिला",
+      "ar": "رودولف ديزل يحصل على براءة اختراع لمحركه"
     },
     "description": {
       "ru": "23 февраля 1893 года в Германской империи был выдан патент Рудольфа Дизеля на новый тип двигателя внутреннего сгорания. Позднее дизельные двигатели стали важной частью транспорта, судов и промышленности.",
       "de": "Am 23. Februar 1893 wurde im Deutschen Reich Rudolf Diesels Patent fuer einen neuen Verbrennungsmotor ausgegeben. Spaeter wurden Dieselmotoren wichtig fuer Verkehr, Schiffe und Industrie.",
-      "en": "On 23 February 1893, Rudolf Diesel's patent for a new type of internal combustion engine was issued in the German Empire. Diesel engines later became important in transport, shipping and industry."
+      "en": "On 23 February 1893, Rudolf Diesel's patent for a new type of internal combustion engine was issued in the German Empire. Diesel engines later became important in transport, shipping and industry.",
+      "fr": "Le 23 février 1893, le brevet de Rudolf Diesel pour un nouveau type de moteur à combustion interne fut délivré dans l'Empire allemand. Les moteurs diesel devinrent plus tard importants pour les transports, les navires et l'industrie.",
+      "es": "El 23 de febrero de 1893 se concedió en el Imperio alemán la patente de Rudolf Diesel para un nuevo tipo de motor de combustión interna. Más tarde, los motores diésel se volvieron importantes para el transporte, los barcos y la industria.",
+      "it": "Il 23 febbraio 1893 nell'Impero tedesco fu rilasciato il brevetto di Rudolf Diesel per un nuovo tipo di motore a combustione interna. In seguito i motori diesel divennero importanti per i trasporti, le navi e l'industria.",
+      "pt": "Em 23 de fevereiro de 1893, foi emitida no Império Alemão a patente de Rudolf Diesel para um novo tipo de motor de combustão interna. Mais tarde, os motores diesel tornaram-se importantes nos transportes, nos navios e na indústria.",
+      "nl": "Op 23 februari 1893 werd in het Duitse Keizerrijk Rudolf Diesels patent voor een nieuw type verbrandingsmotor uitgegeven. Later werden dieselmotoren belangrijk voor vervoer, scheepvaart en industrie.",
+      "pl": "23 lutego 1893 roku w Cesarstwie Niemieckim wydano patent Rudolfa Diesla na nowy typ silnika spalinowego. Później silniki Diesla stały się ważne w transporcie, żegludze i przemyśle.",
+      "tr": "23 Şubat 1893'te Alman İmparatorluğu'nda Rudolf Diesel'in yeni bir içten yanmalı motor türü için patenti verildi. Dizel motorlar daha sonra ulaşım, gemiler ve sanayi için önemli hale geldi.",
+      "zh": "1893年2月23日，德意志帝国颁发了鲁道夫·狄塞尔关于一种新型内燃机的专利。后来，柴油发动机在交通、航运和工业中变得十分重要。",
+      "ja": "1893年2月23日、ドイツ帝国でルドルフ・ディーゼルによる新しい内燃機関の特許が発行されました。後にディーゼルエンジンは交通、船舶、産業で重要になりました。",
+      "ko": "1893년 2월 23일, 독일 제국에서 루돌프 디젤의 새로운 내연기관 특허가 발급되었습니다. 디젤 엔진은 이후 교통, 선박, 산업에서 중요해졌습니다.",
+      "hi": "23 फ़रवरी 1893 को जर्मन साम्राज्य में रूडोल्फ डीज़ल को नए प्रकार के आंतरिक दहन इंजन का पेटेंट जारी किया गया। बाद में डीज़ल इंजन परिवहन, जहाजों और उद्योग का महत्वपूर्ण हिस्सा बने।",
+      "ar": "في 23 فبراير 1893 صدرت في الإمبراطورية الألمانية براءة اختراع رودولف ديزل لنوع جديد من محركات الاحتراق الداخلي. وأصبحت محركات الديزل لاحقا مهمة في النقل والسفن والصناعة."
     },
     "importance": {
       "ru": "Это один из ярких примеров немецкой инженерной истории, повлиявшей на весь мир.",
       "de": "Das ist ein starkes Beispiel deutscher Ingenieurgeschichte mit weltweiter Wirkung.",
-      "en": "It is a strong example of German engineering history with worldwide impact."
+      "en": "It is a strong example of German engineering history with worldwide impact.",
+      "fr": "C'est un exemple marquant de l'histoire de l'ingénierie allemande avec un impact mondial.",
+      "es": "Es un claro ejemplo de la historia de la ingeniería alemana con impacto mundial.",
+      "it": "È un forte esempio di storia dell'ingegneria tedesca con impatto mondiale.",
+      "pt": "É um exemplo marcante da história da engenharia alemã com impacto mundial.",
+      "nl": "Het is een sterk voorbeeld van Duitse ingenieursgeschiedenis met wereldwijde invloed.",
+      "pl": "To wyrazisty przykład niemieckiej historii inżynierii o światowym znaczeniu.",
+      "tr": "Bu, dünya çapında etkisi olan Alman mühendislik tarihinin güçlü bir örneğidir.",
+      "zh": "这是德国工程史影响世界的一个鲜明例子。",
+      "ja": "これは、世界的な影響を持つドイツ工学史の力強い例です。",
+      "ko": "이는 전 세계에 영향을 준 독일 공학사의 뚜렷한 사례입니다.",
+      "hi": "यह विश्वव्यापी प्रभाव वाली जर्मन इंजीनियरिंग इतिहास का मजबूत उदाहरण है।",
+      "ar": "إنه مثال بارز على تاريخ الهندسة الألمانية ذي التأثير العالمي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Родился Георг Фридрих Гендель",
           "de": "Georg Friedrich Haendel wird geboren",
-          "en": "George Frideric Handel is born"
+          "en": "George Frideric Handel is born",
+          "fr": "Naissance de Georg Friedrich Haendel",
+          "es": "Nace Georg Friedrich Haendel",
+          "it": "Nasce Georg Friedrich Haendel",
+          "pt": "Nasce Georg Friedrich Haendel",
+          "nl": "Georg Friedrich Haendel wordt geboren",
+          "pl": "Urodził się Georg Friedrich Haendel",
+          "tr": "Georg Friedrich Haendel doğdu",
+          "zh": "乔治·弗里德里希·亨德尔出生",
+          "ja": "ゲオルク・フリードリヒ・ヘンデルが生まれる",
+          "ko": "게오르크 프리드리히 헨델이 태어나다",
+          "hi": "जॉर्ज फ़्रीडरिक हैंडेल का जन्म हुआ",
+          "ar": "ولادة جورج فريدريش هاندل"
         },
         "description": {
           "ru": "23 февраля 1685 года в Галле родился композитор Георг Фридрих Гендель. Позднее он переехал в Англию и стал одной из главных фигур музыки барокко.",
           "de": "Am 23. Februar 1685 wurde Georg Friedrich Haendel in Halle geboren. Spaeter ging er nach England und wurde eine der wichtigsten Figuren der Barockmusik.",
-          "en": "On 23 February 1685, composer George Frideric Handel was born in Halle. He later moved to England and became one of the major figures of Baroque music."
+          "en": "On 23 February 1685, composer George Frideric Handel was born in Halle. He later moved to England and became one of the major figures of Baroque music.",
+          "fr": "Le 23 février 1685, le compositeur Georg Friedrich Haendel naquit à Halle. Il partit plus tard en Angleterre et devint l'une des grandes figures de la musique baroque.",
+          "es": "El 23 de febrero de 1685 nació en Halle el compositor Georg Friedrich Haendel. Más tarde se trasladó a Inglaterra y se convirtió en una de las grandes figuras de la música barroca.",
+          "it": "Il 23 febbraio 1685 nacque a Halle il compositore Georg Friedrich Haendel. In seguito si trasferì in Inghilterra e divenne una delle figure principali della musica barocca.",
+          "pt": "Em 23 de fevereiro de 1685, o compositor Georg Friedrich Haendel nasceu em Halle. Mais tarde mudou-se para Inglaterra e tornou-se uma das grandes figuras da música barroca.",
+          "nl": "Op 23 februari 1685 werd componist Georg Friedrich Haendel in Halle geboren. Later verhuisde hij naar Engeland en werd een van de belangrijkste figuren van de barokmuziek.",
+          "pl": "23 lutego 1685 roku w Halle urodził się kompozytor Georg Friedrich Haendel. Później przeniósł się do Anglii i stał się jedną z głównych postaci muzyki barokowej.",
+          "tr": "23 Şubat 1685'te besteci Georg Friedrich Haendel Halle'de doğdu. Daha sonra İngiltere'ye taşındı ve barok müziğin başlıca figürlerinden biri oldu.",
+          "zh": "1685年2月23日，作曲家乔治·弗里德里希·亨德尔出生于哈雷。后来他移居英国，成为巴洛克音乐的重要人物之一。",
+          "ja": "1685年2月23日、作曲家ゲオルク・フリードリヒ・ヘンデルがハレで生まれました。後に彼はイギリスへ移り、バロック音楽の主要人物の一人になりました。",
+          "ko": "1685년 2월 23일, 작곡가 게오르크 프리드리히 헨델이 할레에서 태어났습니다. 그는 나중에 영국으로 이주해 바로크 음악의 주요 인물 중 한 명이 되었습니다.",
+          "hi": "23 फ़रवरी 1685 को संगीतकार जॉर्ज फ़्रीडरिक हैंडेल का जन्म हाले में हुआ। बाद में वे इंग्लैंड चले गए और बारोक संगीत की प्रमुख हस्तियों में से एक बने।",
+          "ar": "في 23 فبراير 1685 وُلد المؤلف الموسيقي جورج فريدريش هاندل في هاله. وانتقل لاحقا إلى إنجلترا وأصبح أحد أبرز شخصيات موسيقى الباروك."
         },
         "importance": {
           "ru": "Гендель показывает, как немецкая музыкальная культура была частью общеевропейского мира.",
           "de": "Haendel zeigt, wie deutsche Musikkultur Teil einer gesamteuropaeischen Welt war.",
-          "en": "Handel shows how German musical culture was part of a wider European world."
+          "en": "Handel shows how German musical culture was part of a wider European world.",
+          "fr": "Haendel montre comment la culture musicale allemande faisait partie d'un monde européen plus large.",
+          "es": "Haendel muestra cómo la cultura musical alemana formaba parte de un mundo europeo más amplio.",
+          "it": "Haendel mostra come la cultura musicale tedesca fosse parte di un mondo europeo più ampio.",
+          "pt": "Haendel mostra como a cultura musical alemã fazia parte de um mundo europeu mais amplo.",
+          "nl": "Haendel laat zien hoe Duitse muziekcultuur deel uitmaakte van een bredere Europese wereld.",
+          "pl": "Haendel pokazuje, jak niemiecka kultura muzyczna była częścią szerszego europejskiego świata.",
+          "tr": "Haendel, Alman müzik kültürünün daha geniş bir Avrupa dünyasının parçası olduğunu gösterir.",
+          "zh": "亨德尔显示了德国音乐文化如何成为更广阔欧洲世界的一部分。",
+          "ja": "ヘンデルは、ドイツの音楽文化がより広いヨーロッパ世界の一部であったことを示しています。",
+          "ko": "헨델은 독일 음악 문화가 더 넓은 유럽 세계의 일부였음을 보여 줍니다.",
+          "hi": "हैंडेल दिखाते हैं कि जर्मन संगीत संस्कृति व्यापक यूरोपीय दुनिया का हिस्सा थी।",
+          "ar": "يُظهر هاندل كيف كانت الثقافة الموسيقية الألمانية جزءا من عالم أوروبي أوسع."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "От патента до работающего двигателя",
           "de": "Vom Patent zum funktionierenden Motor",
-          "en": "From patent to working engine"
+          "en": "From patent to working engine",
+          "fr": "Du brevet au moteur fonctionnel",
+          "es": "De la patente al motor funcional",
+          "it": "Dal brevetto al motore funzionante",
+          "pt": "Da patente ao motor funcional",
+          "nl": "Van patent naar werkende motor",
+          "pl": "Od patentu do działającego silnika",
+          "tr": "Patentten çalışan motora",
+          "zh": "从专利到可运行的发动机",
+          "ja": "特許から実用エンジンへ",
+          "ko": "특허에서 작동하는 엔진으로",
+          "hi": "पेटेंट से चलने वाले इंजन तक",
+          "ar": "من البراءة إلى محرك يعمل"
         },
         "description": {
           "ru": "Патент был только началом: Дизелю ещё предстояло решить множество технических проблем. Первые успешные образцы появились после долгих испытаний.",
           "de": "Das Patent war nur der Anfang: Diesel musste noch viele technische Probleme loesen. Erfolgreiche Modelle entstanden erst nach langen Versuchen.",
-          "en": "The patent was only the beginning: Diesel still had to solve many technical problems. Successful engines came after long testing."
+          "en": "The patent was only the beginning: Diesel still had to solve many technical problems. Successful engines came after long testing.",
+          "fr": "Le brevet n'était que le début: Diesel devait encore résoudre de nombreux problèmes techniques. Les premiers modèles réussis apparurent après de longs essais.",
+          "es": "La patente fue solo el comienzo: Diesel aún tenía que resolver muchos problemas técnicos. Los primeros modelos exitosos llegaron tras largas pruebas.",
+          "it": "Il brevetto fu solo l'inizio: Diesel doveva ancora risolvere molti problemi tecnici. I primi modelli riusciti arrivarono dopo lunghe prove.",
+          "pt": "A patente foi apenas o começo: Diesel ainda tinha de resolver muitos problemas técnicos. Os primeiros modelos bem-sucedidos surgiram depois de longos testes.",
+          "nl": "Het patent was pas het begin: Diesel moest nog veel technische problemen oplossen. Succesvolle modellen ontstonden pas na lange proeven.",
+          "pl": "Patent był dopiero początkiem: Diesel musiał jeszcze rozwiązać wiele problemów technicznych. Pierwsze udane modele powstały po długich próbach.",
+          "tr": "Patent yalnızca başlangıçtı: Diesel'in hâlâ birçok teknik sorunu çözmesi gerekiyordu. Başarılı motorlar uzun denemelerden sonra ortaya çıktı.",
+          "zh": "专利只是开始：狄塞尔还必须解决许多技术问题。第一批成功的样机是在长期试验后才出现的。",
+          "ja": "特許は始まりにすぎませんでした。ディーゼルはまだ多くの技術的問題を解決しなければなりませんでした。成功したエンジンは長い試験の後に生まれました。",
+          "ko": "특허는 시작일 뿐이었습니다. 디젤은 여전히 많은 기술적 문제를 해결해야 했습니다. 성공적인 엔진은 오랜 시험 끝에 나왔습니다.",
+          "hi": "पेटेंट केवल शुरुआत था: डीज़ल को अभी कई तकनीकी समस्याएँ हल करनी थीं। सफल इंजन लंबे परीक्षणों के बाद आए।",
+          "ar": "كانت البراءة مجرد بداية: كان على ديزل أن يحل مشكلات تقنية كثيرة. وظهرت النماذج الناجحة الأولى بعد اختبارات طويلة."
         },
         "importance": {
           "ru": "Иногда изобретение рождается не в один момент, а через годы экспериментов.",
           "de": "Manchmal entsteht eine Erfindung nicht in einem Moment, sondern durch Jahre von Experimenten.",
-          "en": "Sometimes an invention is not born in one moment but through years of experiments."
+          "en": "Sometimes an invention is not born in one moment but through years of experiments.",
+          "fr": "Parfois, une invention ne naît pas en un instant, mais après des années d'expériences.",
+          "es": "A veces una invención no nace en un solo momento, sino a través de años de experimentos.",
+          "it": "A volte un'invenzione non nasce in un momento, ma attraverso anni di esperimenti.",
+          "pt": "Às vezes, uma invenção não nasce num só momento, mas através de anos de experiências.",
+          "nl": "Soms ontstaat een uitvinding niet op één moment, maar door jaren van experimenten.",
+          "pl": "Czasem wynalazek nie rodzi się w jednej chwili, lecz przez lata eksperymentów.",
+          "tr": "Bazen bir icat tek bir anda değil, yıllar süren deneylerle doğar.",
+          "zh": "有时，发明并不是一瞬间诞生的，而是经历多年实验才形成。",
+          "ja": "発明は一瞬で生まれるのではなく、何年もの実験を通して生まれることがあります。",
+          "ko": "때로 발명은 한순간에 태어나는 것이 아니라 수년간의 실험을 통해 만들어집니다.",
+          "hi": "कभी-कभी आविष्कार एक पल में नहीं, बल्कि वर्षों के प्रयोगों से जन्म लेता है।",
+          "ar": "أحيانا لا يولد الاختراع في لحظة واحدة، بل عبر سنوات من التجارب."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Слово «дизель» стало настолько привычным, что многие уже не помнят: это фамилия изобретателя.",
     "de": "Das Wort Diesel ist so alltaeglich geworden, dass viele vergessen: Es ist der Name des Erfinders.",
-    "en": "The word diesel has become so ordinary that many forget it is the inventor's name."
+    "en": "The word diesel has become so ordinary that many forget it is the inventor's name.",
+    "fr": "Le mot diesel est devenu si courant que beaucoup oublient qu'il s'agit du nom de l'inventeur.",
+    "es": "La palabra diésel se ha vuelto tan cotidiana que muchos olvidan que es el apellido del inventor.",
+    "it": "La parola diesel è diventata così comune che molti dimenticano che è il cognome dell'inventore.",
+    "pt": "A palavra diesel tornou-se tão comum que muitos esquecem que é o nome do inventor.",
+    "nl": "Het woord diesel is zo alledaags geworden dat velen vergeten dat het de naam van de uitvinder is.",
+    "pl": "Słowo diesel stało się tak zwyczajne, że wielu zapomina, iż to nazwisko wynalazcy.",
+    "tr": "Dizel sözcüğü o kadar sıradanlaştı ki birçok kişi bunun mucidin soyadı olduğunu unutur.",
+    "zh": "“柴油”这个词已经如此常见，以至于许多人忘了它其实是发明者的姓氏。",
+    "ja": "ディーゼルという言葉はあまりに日常的になったため、それが発明者の名前であることを忘れる人も多いです。",
+    "ko": "디젤이라는 단어는 너무 흔해져서 많은 사람이 그것이 발명가의 이름이라는 사실을 잊습니다.",
+    "hi": "डीज़ल शब्द इतना आम हो गया है कि कई लोग भूल जाते हैं कि यह आविष्कारक का नाम है।",
+    "ar": "أصبحت كلمة ديزل مألوفة جدا حتى إن كثيرين ينسون أنها اسم المخترع."
   },
   "sources": [
     {
