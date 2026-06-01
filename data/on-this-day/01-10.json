@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Берлине состоялась премьера «Метрополиса»",
       "de": "Metropolis hat Premiere in Berlin",
-      "en": "Metropolis premieres in Berlin"
+      "en": "Metropolis premieres in Berlin",
+      "fr": "Metropolis est présenté en première à Berlin",
+      "es": "Metropolis se estrena en Berlín",
+      "it": "Metropolis viene presentato in prima a Berlino",
+      "pt": "Metropolis estreia em Berlim",
+      "nl": "Metropolis gaat in première in Berlijn",
+      "pl": "Metropolis ma premierę w Berlinie",
+      "tr": "Metropolis Berlin’de gösterime girer",
+      "zh": "《大都会》在柏林首映",
+      "ja": "『メトロポリス』がベルリンで初公開される",
+      "ko": "『메트로폴리스』가 베를린에서 초연되다",
+      "hi": "“Metropolis” का बर्लिन में प्रीमियर हुआ",
+      "ar": "عُرض فيلم Metropolis لأول مرة في برلين"
     },
     "description": {
       "ru": "10 января 1927 года в Берлине состоялась премьера фильма Фрица Ланга «Метрополис». Немой фантастический фильм стал одним из самых известных произведений немецкого экспрессионистского кино.",
       "de": "Am 10. Januar 1927 hatte Fritz Langs Film Metropolis in Berlin Premiere. Der stumme Science-Fiction-Film wurde zu einem der bekanntesten Werke des deutschen expressionistischen Kinos.",
-      "en": "On 10 January 1927, Fritz Lang's film Metropolis premiered in Berlin. The silent science-fiction film became one of the best-known works of German Expressionist cinema."
+      "en": "On 10 January 1927, Fritz Lang's film Metropolis premiered in Berlin. The silent science-fiction film became one of the best-known works of German Expressionist cinema.",
+      "fr": "Le 10 janvier 1927, le film Metropolis de Fritz Lang fut présenté en première à Berlin. Ce film muet de science-fiction devint l’une des œuvres les plus connues du cinéma expressionniste allemand.",
+      "es": "El 10 de enero de 1927 se estrenó en Berlín la película Metropolis de Fritz Lang. La película muda de ciencia ficción se convirtió en una de las obras más conocidas del cine expresionista alemán.",
+      "it": "Il 10 gennaio 1927 il film Metropolis di Fritz Lang ebbe la sua prima a Berlino. Il film muto di fantascienza divenne una delle opere più note del cinema espressionista tedesco.",
+      "pt": "Em 10 de janeiro de 1927, o filme Metropolis, de Fritz Lang, estreou em Berlim. O filme mudo de ficção científica tornou-se uma das obras mais conhecidas do cinema expressionista alemão.",
+      "nl": "Op 10 januari 1927 ging Fritz Langs film Metropolis in Berlijn in première. De stomme sciencefictionfilm werd een van de bekendste werken van de Duitse expressionistische cinema.",
+      "pl": "10 stycznia 1927 roku w Berlinie odbyła się premiera filmu Metropolis Fritza Langa. Niemy film science fiction stał się jednym z najbardziej znanych dzieł niemieckiego kina ekspresjonistycznego.",
+      "tr": "10 Ocak 1927’de Fritz Lang’ın Metropolis filmi Berlin’de prömiyer yaptı. Sessiz bilimkurgu filmi, Alman dışavurumcu sinemasının en bilinen eserlerinden biri oldu.",
+      "zh": "1927年1月10日，弗里茨·朗的电影《大都会》在柏林首映。这部无声科幻电影成为德国表现主义电影中最著名的作品之一。",
+      "ja": "1927年1月10日、フリッツ・ラングの映画『メトロポリス』がベルリンで初公開されました。この無声SF映画は、ドイツ表現主義映画の最も有名な作品の一つとなりました。",
+      "ko": "1927년 1월 10일, 프리츠 랑의 영화 『메트로폴리스』가 베를린에서 초연되었다. 이 무성 공상과학 영화는 독일 표현주의 영화의 가장 유명한 작품 중 하나가 되었다.",
+      "hi": "10 जनवरी 1927 को फ्रिट्ज़ लांग की फिल्म “Metropolis” का बर्लिन में प्रीमियर हुआ। यह मूक विज्ञान-कथा फिल्म जर्मन अभिव्यंजनावादी सिनेमा की सबसे प्रसिद्ध कृतियों में से एक बनी।",
+      "ar": "في 10 يناير 1927 عُرض فيلم فريتز لانغ Metropolis لأول مرة في برلين. وأصبح هذا الفيلم الصامت من أفلام الخيال العلمي واحداً من أشهر أعمال السينما التعبيرية الألمانية."
     },
     "importance": {
       "ru": "«Метрополис» сделал образы современного города, машин и социальной напряжённости частью мировой киноистории.",
       "de": "Metropolis machte Bilder der modernen Stadt, der Maschinen und sozialer Spannungen zu einem Teil der Weltfilmgeschichte.",
-      "en": "Metropolis made images of the modern city, machines and social tension part of world film history."
+      "en": "Metropolis made images of the modern city, machines and social tension part of world film history.",
+      "fr": "Metropolis a fait entrer les images de la ville moderne, des machines et des tensions sociales dans l’histoire mondiale du cinéma.",
+      "es": "Metropolis convirtió las imágenes de la ciudad moderna, las máquinas y la tensión social en parte de la historia mundial del cine.",
+      "it": "Metropolis rese le immagini della città moderna, delle macchine e delle tensioni sociali parte della storia mondiale del cinema.",
+      "pt": "Metropolis transformou imagens da cidade moderna, das máquinas e da tensão social em parte da história mundial do cinema.",
+      "nl": "Metropolis maakte beelden van de moderne stad, machines en sociale spanning tot onderdeel van de wereldfilmgeschiedenis.",
+      "pl": "Metropolis uczynił obrazy nowoczesnego miasta, maszyn i napięć społecznych częścią światowej historii kina.",
+      "tr": "Metropolis, modern şehir, makineler ve toplumsal gerilim imgelerini dünya sinema tarihinin bir parçası hâline getirdi.",
+      "zh": "《大都会》使现代城市、机器和社会紧张的影像成为世界电影史的一部分。",
+      "ja": "『メトロポリス』は、近代都市、機械、社会的緊張のイメージを世界映画史の一部にしました。",
+      "ko": "『메트로폴리스』는 현대 도시, 기계, 사회적 긴장의 이미지를 세계 영화사의 일부로 만들었다.",
+      "hi": "“Metropolis” ने आधुनिक शहर, मशीनों और सामाजिक तनाव की छवियों को विश्व फिल्म इतिहास का हिस्सा बना दिया।",
+      "ar": "جعل Metropolis صور المدينة الحديثة والآلات والتوتر الاجتماعي جزءاً من تاريخ السينما العالمية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Будущее глазами Веймара",
           "de": "Die Zukunft mit den Augen Weimars",
-          "en": "The future through Weimar's eyes"
+          "en": "The future through Weimar's eyes",
+          "fr": "L’avenir vu par Weimar",
+          "es": "El futuro visto por Weimar",
+          "it": "Il futuro visto da Weimar",
+          "pt": "O futuro pelos olhos de Weimar",
+          "nl": "De toekomst door de ogen van Weimar",
+          "pl": "Przyszłość oczami Weimaru",
+          "tr": "Weimar’ın gözünden gelecek",
+          "zh": "魏玛眼中的未来",
+          "ja": "ワイマールの目で見た未来",
+          "ko": "바이마르의 눈으로 본 미래",
+          "hi": "वाइमर की आँखों से भविष्य",
+          "ar": "المستقبل بعيون فايمار"
         },
         "description": {
           "ru": "Фильм показывал огромный город будущего, разделённый на богатый верх и рабочий низ. Для зрителей это была не только фантастика, но и тревожный разговор о технике и обществе.",
           "de": "Der Film zeigte eine riesige Zukunftsstadt, geteilt in reiche Oberwelt und arbeitende Unterwelt. Fuer Zuschauer war das nicht nur Fantasie, sondern auch ein beunruhigendes Gespraech ueber Technik und Gesellschaft.",
-          "en": "The film showed a huge city of the future divided between a wealthy upper world and a laboring underworld. For viewers, it was not only fantasy but also an unsettling discussion of technology and society."
+          "en": "The film showed a huge city of the future divided between a wealthy upper world and a laboring underworld. For viewers, it was not only fantasy but also an unsettling discussion of technology and society.",
+          "fr": "Le film montrait une immense ville du futur, divisée entre un monde supérieur riche et un monde souterrain laborieux. Pour les spectateurs, ce n’était pas seulement de la fantaisie, mais aussi une réflexion inquiétante sur la technique et la société.",
+          "es": "La película mostraba una enorme ciudad del futuro dividida entre un mundo superior rico y un mundo subterráneo trabajador. Para los espectadores no era solo fantasía, sino también una inquietante reflexión sobre la tecnología y la sociedad.",
+          "it": "Il film mostrava una gigantesca città del futuro, divisa tra un mondo superiore ricco e un mondo sotterraneo di lavoratori. Per gli spettatori non era solo fantasia, ma anche una discussione inquietante su tecnologia e società.",
+          "pt": "O filme mostrava uma enorme cidade do futuro dividida entre um mundo superior rico e um submundo trabalhador. Para os espectadores, não era apenas fantasia, mas também uma discussão inquietante sobre tecnologia e sociedade.",
+          "nl": "De film toonde een enorme stad van de toekomst, verdeeld tussen een rijke bovenwereld en een werkende onderwereld. Voor kijkers was het niet alleen fantasie, maar ook een verontrustend gesprek over techniek en samenleving.",
+          "pl": "Film pokazywał ogromne miasto przyszłości, podzielone na bogaty świat górny i pracujący świat podziemny. Dla widzów była to nie tylko fantazja, lecz także niepokojąca rozmowa o technice i społeczeństwie.",
+          "tr": "Film, zengin bir üst dünya ile çalışan bir yeraltı dünyası arasında bölünmüş dev bir gelecek şehrini gösteriyordu. İzleyiciler için bu yalnızca fantezi değil, teknoloji ve toplum üzerine rahatsız edici bir tartışmaydı.",
+          "zh": "影片展示了一座巨大的未来城市，分为富裕的上层世界和劳作的地下世界。对观众来说，这不仅是幻想，也是关于技术与社会的令人不安的讨论。",
+          "ja": "映画は、裕福な上層世界と働く地下世界に分かれた巨大な未来都市を描きました。観客にとって、それは単なる空想ではなく、技術と社会についての不安を伴う議論でもありました。",
+          "ko": "영화는 부유한 상층 세계와 노동하는 지하 세계로 나뉜 거대한 미래 도시를 보여 주었다. 관객에게 그것은 단순한 환상이 아니라 기술과 사회에 대한 불안한 논의이기도 했다.",
+          "hi": "फिल्म ने भविष्य के एक विशाल शहर को दिखाया, जो अमीर ऊपरी दुनिया और मेहनतकश निचली दुनिया में बँटा था। दर्शकों के लिए यह केवल कल्पना नहीं, बल्कि तकनीक और समाज पर बेचैन कर देने वाली चर्चा भी थी।",
+          "ar": "عرض الفيلم مدينة مستقبلية ضخمة منقسمة بين عالم علوي غني وعالم سفلي عامل. ولم يكن ذلك للمشاهدين مجرد خيال، بل نقاشاً مقلقاً حول التقنية والمجتمع."
         },
         "importance": {
           "ru": "Так кино Веймарской республики продолжает влиять на научную фантастику и визуальный дизайн.",
           "de": "So beeinflusst das Kino der Weimarer Republik bis heute Science-Fiction und visuelles Design.",
-          "en": "Weimar-era cinema continues to influence science fiction and visual design."
+          "en": "Weimar-era cinema continues to influence science fiction and visual design.",
+          "fr": "Ainsi, le cinéma de l’époque de Weimar continue d’influencer la science-fiction et le design visuel.",
+          "es": "Así, el cine de la época de Weimar sigue influyendo en la ciencia ficción y el diseño visual.",
+          "it": "Così il cinema dell’epoca di Weimar continua a influenzare la fantascienza e il design visivo.",
+          "pt": "Assim, o cinema da era de Weimar continua a influenciar a ficção científica e o design visual.",
+          "nl": "Zo blijft de cinema uit de Weimartijd sciencefiction en visueel ontwerp beïnvloeden.",
+          "pl": "W ten sposób kino epoki weimarskiej nadal wpływa na fantastykę naukową i projektowanie wizualne.",
+          "tr": "Böylece Weimar dönemi sineması bilimkurguyu ve görsel tasarımı etkilemeye devam eder.",
+          "zh": "因此，魏玛时期电影至今仍影响着科幻和视觉设计。",
+          "ja": "こうしてワイマール時代の映画は、今もSFとビジュアルデザインに影響を与え続けています。",
+          "ko": "이처럼 바이마르 시대의 영화는 오늘날에도 공상과학과 시각 디자인에 영향을 미치고 있다.",
+          "hi": "इस तरह वाइमर युग का सिनेमा आज भी विज्ञान-कथा और दृश्य डिज़ाइन को प्रभावित करता है।",
+          "ar": "وهكذا لا تزال سينما عصر فايمار تؤثر في الخيال العلمي والتصميم البصري."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Долгое время «Метрополис» существовал в сокращённых версиях; более полная реконструкция стала большим событием для киноведов.",
     "de": "Metropolis existierte lange nur in gekuerzten Fassungen; eine vollstaendigere Rekonstruktion wurde zu einem grossen Ereignis fuer Filmhistoriker.",
-    "en": "For a long time, Metropolis survived only in shortened versions; a more complete reconstruction became a major event for film historians."
+    "en": "For a long time, Metropolis survived only in shortened versions; a more complete reconstruction became a major event for film historians.",
+    "fr": "Pendant longtemps, Metropolis n’exista que dans des versions abrégées ; une reconstruction plus complète devint un grand événement pour les historiens du cinéma.",
+    "es": "Durante mucho tiempo, Metropolis solo sobrevivió en versiones abreviadas; una reconstrucción más completa se convirtió en un gran acontecimiento para los historiadores del cine.",
+    "it": "Per molto tempo Metropolis sopravvisse solo in versioni ridotte; una ricostruzione più completa divenne un grande evento per gli storici del cinema.",
+    "pt": "Por muito tempo, Metropolis sobreviveu apenas em versões reduzidas; uma reconstrução mais completa tornou-se um grande acontecimento para historiadores do cinema.",
+    "nl": "Lange tijd bestond Metropolis alleen in ingekorte versies; een completere reconstructie werd een groot evenement voor filmhistorici.",
+    "pl": "Przez długi czas Metropolis istniał tylko w skróconych wersjach; pełniejsza rekonstrukcja stała się wielkim wydarzeniem dla historyków kina.",
+    "tr": "Metropolis uzun süre yalnızca kısaltılmış versiyonlarla varlığını sürdürdü; daha eksiksiz bir rekonstrüksiyon sinema tarihçileri için büyük bir olay oldu.",
+    "zh": "很长一段时间里，《大都会》只以删节版本流传；更完整的修复版本成为电影史研究者的一件大事。",
+    "ja": "長い間、『メトロポリス』は短縮版でしか残っていませんでした。より完全な復元は映画史家にとって大きな出来事となりました。",
+    "ko": "오랫동안 『메트로폴리스』는 축약본으로만 남아 있었다. 더 완전한 복원은 영화사 연구자들에게 큰 사건이 되었다.",
+    "hi": "लंबे समय तक “Metropolis” केवल संक्षिप्त संस्करणों में ही उपलब्ध रही; अधिक पूर्ण पुनर्निर्माण फिल्म इतिहासकारों के लिए बड़ी घटना बना।",
+    "ar": "ظل فيلم Metropolis لفترة طويلة موجوداً فقط في نسخ مختصرة؛ وأصبحت إعادة بناء أكثر اكتمالاً حدثاً كبيراً لمؤرخي السينما."
   },
   "sources": [
     {

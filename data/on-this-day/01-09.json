@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Курт Тухольский",
       "de": "Kurt Tucholsky wird geboren",
-      "en": "Kurt Tucholsky is born"
+      "en": "Kurt Tucholsky is born",
+      "fr": "Naissance de Kurt Tucholsky",
+      "es": "Nace Kurt Tucholsky",
+      "it": "Nasce Kurt Tucholsky",
+      "pt": "Nasce Kurt Tucholsky",
+      "nl": "Kurt Tucholsky wordt geboren",
+      "pl": "Urodził się Kurt Tucholsky",
+      "tr": "Kurt Tucholsky doğdu",
+      "zh": "库尔特·图霍尔斯基出生",
+      "ja": "クルト・トゥホルスキーが生まれる",
+      "ko": "쿠르트 투홀스키가 태어나다",
+      "hi": "कुर्ट तुखोल्स्की का जन्म हुआ",
+      "ar": "وُلد كورت توخولسكي"
     },
     "description": {
       "ru": "9 января 1890 года в Берлине родился писатель, журналист и сатирик Курт Тухольский. Он стал одним из самых острых голосов Веймарской республики.",
       "de": "Am 9. Januar 1890 wurde der Schriftsteller, Journalist und Satiriker Kurt Tucholsky in Berlin geboren. Er wurde zu einer der scharfsten Stimmen der Weimarer Republik.",
-      "en": "On 9 January 1890, writer, journalist and satirist Kurt Tucholsky was born in Berlin. He became one of the sharpest voices of the Weimar Republic."
+      "en": "On 9 January 1890, writer, journalist and satirist Kurt Tucholsky was born in Berlin. He became one of the sharpest voices of the Weimar Republic.",
+      "fr": "Le 9 janvier 1890, l’écrivain, journaliste et satiriste Kurt Tucholsky naquit à Berlin. Il devint l’une des voix les plus acérées de la République de Weimar.",
+      "es": "El 9 de enero de 1890 nació en Berlín el escritor, periodista y satírico Kurt Tucholsky. Se convirtió en una de las voces más agudas de la República de Weimar.",
+      "it": "Il 9 gennaio 1890 nacque a Berlino lo scrittore, giornalista e satirico Kurt Tucholsky. Divenne una delle voci più taglienti della Repubblica di Weimar.",
+      "pt": "Em 9 de janeiro de 1890, nasceu em Berlim o escritor, jornalista e satirista Kurt Tucholsky. Ele se tornou uma das vozes mais afiadas da República de Weimar.",
+      "nl": "Op 9 januari 1890 werd schrijver, journalist en satiricus Kurt Tucholsky in Berlijn geboren. Hij werd een van de scherpste stemmen van de Weimarrepubliek.",
+      "pl": "9 stycznia 1890 roku w Berlinie urodził się pisarz, dziennikarz i satyryk Kurt Tucholsky. Stał się jednym z najostrzejszych głosów Republiki Weimarskiej.",
+      "tr": "9 Ocak 1890’da yazar, gazeteci ve hicivci Kurt Tucholsky Berlin’de doğdu. Weimar Cumhuriyeti’nin en keskin seslerinden biri oldu.",
+      "zh": "1890年1月9日，作家、记者和讽刺家库尔特·图霍尔斯基出生于柏林。他成为魏玛共和国最犀利的声音之一。",
+      "ja": "1890年1月9日、作家、ジャーナリスト、風刺家のクルト・トゥホルスキーがベルリンで生まれました。彼はワイマール共和国で最も鋭い声の一つとなりました。",
+      "ko": "1890년 1월 9일, 작가이자 언론인, 풍자가인 쿠르트 투홀스키가 베를린에서 태어났다. 그는 바이마르 공화국의 가장 날카로운 목소리 중 하나가 되었다.",
+      "hi": "9 जनवरी 1890 को लेखक, पत्रकार और व्यंग्यकार कुर्ट तुखोल्स्की का जन्म बर्लिन में हुआ। वे वाइमर गणराज्य की सबसे तीखी आवाज़ों में से एक बने।",
+      "ar": "في 9 يناير 1890 وُلد الكاتب والصحفي والساخر كورت توخولسكي في برلين. وأصبح من أكثر الأصوات حدة في جمهورية فايمار."
     },
     "importance": {
       "ru": "Тухольский помогает увидеть Веймарскую Германию через прессу, сатиру, пацифизм и тревогу перед ростом радикализма.",
       "de": "Tucholsky hilft, die Weimarer Republik durch Presse, Satire, Pazifismus und die Sorge vor wachsendem Radikalismus zu sehen.",
-      "en": "Tucholsky helps show Weimar Germany through journalism, satire, pacifism and anxiety about rising radicalism."
+      "en": "Tucholsky helps show Weimar Germany through journalism, satire, pacifism and anxiety about rising radicalism.",
+      "fr": "Tucholsky aide à voir l’Allemagne de Weimar à travers la presse, la satire, le pacifisme et l’inquiétude face à la montée du radicalisme.",
+      "es": "Tucholsky ayuda a ver la Alemania de Weimar a través de la prensa, la sátira, el pacifismo y la preocupación por el aumento del radicalismo.",
+      "it": "Tucholsky aiuta a vedere la Germania di Weimar attraverso stampa, satira, pacifismo e preoccupazione per la crescita del radicalismo.",
+      "pt": "Tucholsky ajuda a ver a Alemanha de Weimar por meio da imprensa, da sátira, do pacifismo e da preocupação com o crescimento do radicalismo.",
+      "nl": "Tucholsky helpt Weimar-Duitsland te zien via journalistiek, satire, pacifisme en zorgen over groeiend radicalisme.",
+      "pl": "Tucholsky pomaga zobaczyć Niemcy weimarskie przez pryzmat prasy, satyry, pacyfizmu i niepokoju przed narastającym radykalizmem.",
+      "tr": "Tucholsky, Weimar Almanyası’nı basın, hiciv, pasifizm ve yükselen radikalizm kaygısı üzerinden görmeye yardımcı olur.",
+      "zh": "图霍尔斯基帮助人们通过新闻、讽刺、和平主义以及对激进主义上升的忧虑来看待魏玛德国。",
+      "ja": "トゥホルスキーは、ジャーナリズム、風刺、平和主義、そして急進主義の高まりへの不安を通してワイマール・ドイツを見せてくれます。",
+      "ko": "투홀스키는 언론, 풍자, 평화주의, 그리고 급진주의의 성장에 대한 불안을 통해 바이마르 독일을 보여 준다.",
+      "hi": "तुखोल्स्की वाइमर जर्मनी को प्रेस, व्यंग्य, शांतिवाद और बढ़ते उग्रवाद की चिंता के माध्यम से देखने में मदद करते हैं।",
+      "ar": "يساعد توخولسكي على رؤية ألمانيا فايمار من خلال الصحافة والسخرية والسلمية والقلق من تصاعد التطرف."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сатира как предупреждение",
           "de": "Satire als Warnung",
-          "en": "Satire as warning"
+          "en": "Satire as warning",
+          "fr": "La satire comme avertissement",
+          "es": "La sátira como advertencia",
+          "it": "La satira come avvertimento",
+          "pt": "A sátira como aviso",
+          "nl": "Satire als waarschuwing",
+          "pl": "Satyra jako ostrzeżenie",
+          "tr": "Uyarı olarak hiciv",
+          "zh": "作为警告的讽刺",
+          "ja": "警告としての風刺",
+          "ko": "경고로서의 풍자",
+          "hi": "चेतावनी के रूप में व्यंग्य",
+          "ar": "السخرية كتحذير"
         },
         "description": {
           "ru": "Тухольский писал под разными псевдонимами и критиковал милитаризм, национализм и слабости молодой демократии. Его тексты часто звучат как раннее предупреждение.",
           "de": "Tucholsky schrieb unter verschiedenen Pseudonymen und kritisierte Militarismus, Nationalismus und die Schwaechen der jungen Demokratie. Seine Texte wirken oft wie fruehe Warnungen.",
-          "en": "Tucholsky wrote under several pen names and criticized militarism, nationalism and the weaknesses of the young democracy. His texts often read like early warnings."
+          "en": "Tucholsky wrote under several pen names and criticized militarism, nationalism and the weaknesses of the young democracy. His texts often read like early warnings.",
+          "fr": "Tucholsky écrivait sous plusieurs pseudonymes et critiquait le militarisme, le nationalisme et les faiblesses de la jeune démocratie. Ses textes ressemblent souvent à des avertissements précoces.",
+          "es": "Tucholsky escribió bajo varios seudónimos y criticó el militarismo, el nacionalismo y las debilidades de la joven democracia. Sus textos a menudo parecen advertencias tempranas.",
+          "it": "Tucholsky scrisse con diversi pseudonimi e criticò militarismo, nazionalismo e debolezze della giovane democrazia. I suoi testi spesso sembrano avvertimenti precoci.",
+          "pt": "Tucholsky escreveu sob vários pseudônimos e criticou o militarismo, o nacionalismo e as fraquezas da jovem democracia. Seus textos muitas vezes parecem alertas precoces.",
+          "nl": "Tucholsky schreef onder verschillende pseudoniemen en bekritiseerde militarisme, nationalisme en de zwaktes van de jonge democratie. Zijn teksten lezen vaak als vroege waarschuwingen.",
+          "pl": "Tucholsky pisał pod różnymi pseudonimami i krytykował militaryzm, nacjonalizm oraz słabości młodej demokracji. Jego teksty często brzmią jak wczesne ostrzeżenia.",
+          "tr": "Tucholsky farklı takma adlarla yazdı; militarizmi, milliyetçiliği ve genç demokrasinin zayıflıklarını eleştirdi. Metinleri çoğu zaman erken uyarılar gibi okunur.",
+          "zh": "图霍尔斯基使用多个笔名写作，批评军国主义、民族主义以及年轻民主制度的弱点。他的文章常常像早期警告。",
+          "ja": "トゥホルスキーは複数の筆名で執筆し、軍国主義、ナショナリズム、若い民主主義の弱点を批判しました。彼の文章はしばしば早期の警告のように読めます。",
+          "ko": "투홀스키는 여러 필명으로 글을 쓰며 군국주의, 민족주의, 젊은 민주주의의 약점을 비판했다. 그의 글은 종종 이른 경고처럼 읽힌다.",
+          "hi": "तुखोल्स्की ने कई उपनामों से लिखा और सैन्यवाद, राष्ट्रवाद तथा युवा लोकतंत्र की कमजोरियों की आलोचना की। उनके लेख अक्सर शुरुआती चेतावनी जैसे लगते हैं।",
+          "ar": "كتب توخولسكي بأسماء مستعارة عدة، وانتقد النزعة العسكرية والقومية وضعف الديمقراطية الفتية. وكثيراً ما تبدو نصوصه كتحذيرات مبكرة."
         },
         "importance": {
           "ru": "Это показывает, что культура может быть не украшением, а способом защищать демократию.",
           "de": "Das zeigt, dass Kultur nicht nur Schmuck sein kann, sondern ein Mittel, Demokratie zu verteidigen.",
-          "en": "It shows that culture can be not decoration, but a way to defend democracy."
+          "en": "It shows that culture can be not decoration, but a way to defend democracy.",
+          "fr": "Cela montre que la culture peut être non pas un simple ornement, mais un moyen de défendre la démocratie.",
+          "es": "Muestra que la cultura puede no ser un adorno, sino una forma de defender la democracia.",
+          "it": "Mostra che la cultura può non essere un ornamento, ma un modo per difendere la democrazia.",
+          "pt": "Isso mostra que a cultura pode não ser enfeite, mas uma forma de defender a democracia.",
+          "nl": "Het laat zien dat cultuur geen versiering hoeft te zijn, maar een manier kan zijn om democratie te verdedigen.",
+          "pl": "Pokazuje to, że kultura może być nie ozdobą, lecz sposobem obrony demokracji.",
+          "tr": "Bu, kültürün yalnızca süs değil, demokrasiyi savunmanın bir yolu olabileceğini gösterir.",
+          "zh": "这说明文化可以不是装饰，而是捍卫民主的一种方式。",
+          "ja": "これは、文化が単なる飾りではなく、民主主義を守る手段になり得ることを示しています。",
+          "ko": "이는 문화가 장식이 아니라 민주주의를 지키는 방법이 될 수 있음을 보여 준다.",
+          "hi": "यह दिखाता है कि संस्कृति केवल सजावट नहीं, बल्कि लोकतंत्र की रक्षा का तरीका भी हो सकती है।",
+          "ar": "يُظهر ذلك أن الثقافة قد لا تكون زينة فحسب، بل وسيلة للدفاع عن الديمقراطية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Тухольский после прихода нацистов к власти был лишён немецкого гражданства.",
     "de": "Tucholsky wurde nach der Machtuebernahme der Nationalsozialisten die deutsche Staatsbuergerschaft entzogen.",
-    "en": "After the Nazis came to power, Tucholsky was stripped of his German citizenship."
+    "en": "After the Nazis came to power, Tucholsky was stripped of his German citizenship.",
+    "fr": "Après l’arrivée des nazis au pouvoir, Tucholsky fut déchu de sa nationalité allemande.",
+    "es": "Después de la llegada de los nazis al poder, Tucholsky fue privado de la ciudadanía alemana.",
+    "it": "Dopo l’ascesa al potere dei nazisti, Tucholsky fu privato della cittadinanza tedesca.",
+    "pt": "Depois que os nazistas chegaram ao poder, Tucholsky foi privado da cidadania alemã.",
+    "nl": "Nadat de nazi’s aan de macht kwamen, werd Tucholsky zijn Duitse staatsburgerschap ontnomen.",
+    "pl": "Po dojściu nazistów do władzy Tucholsky został pozbawiony obywatelstwa niemieckiego.",
+    "tr": "Naziler iktidara geldikten sonra Tucholsky Alman vatandaşlığından çıkarıldı.",
+    "zh": "纳粹掌权后，图霍尔斯基被剥夺了德国国籍。",
+    "ja": "ナチスが権力を握った後、トゥホルスキーはドイツ国籍を剥奪されました。",
+    "ko": "나치가 집권한 뒤 투홀스키는 독일 시민권을 박탈당했다.",
+    "hi": "नाज़ियों के सत्ता में आने के बाद तुखोल्स्की से जर्मन नागरिकता छीन ली गई।",
+    "ar": "بعد وصول النازيين إلى السلطة، جُرّد توخولسكي من جنسيته الألمانية."
   },
   "sources": [
     {
