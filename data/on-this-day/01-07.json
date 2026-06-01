@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Филипп Райс",
       "de": "Philipp Reis wird geboren",
-      "en": "Philipp Reis is born"
+      "en": "Philipp Reis is born",
+      "fr": "Naissance de Philipp Reis",
+      "es": "Nace Philipp Reis",
+      "it": "Nasce Philipp Reis",
+      "pt": "Nasce Philipp Reis",
+      "nl": "Philipp Reis wordt geboren",
+      "pl": "Urodził się Philipp Reis",
+      "tr": "Philipp Reis doğdu",
+      "zh": "菲利普·赖斯出生",
+      "ja": "フィリップ・ライスが生まれる",
+      "ko": "필리프 라이스가 태어나다",
+      "hi": "फिलिप राइस का जन्म हुआ",
+      "ar": "وُلد فيليب رايس"
     },
     "description": {
       "ru": "7 января 1834 года в Гельнхаузене родился физик и изобретатель Филипп Райс. Он создал один из ранних аппаратов для передачи звука по электрическим проводам и называл его «Telephon».",
       "de": "Am 7. Januar 1834 wurde der Physiker und Erfinder Philipp Reis in Gelnhausen geboren. Er baute einen fruehen Apparat zur Uebertragung von Schall ueber elektrische Leitungen und nannte ihn Telephon.",
-      "en": "On 7 January 1834, physicist and inventor Philipp Reis was born in Gelnhausen. He built an early device for transmitting sound over electrical wires and called it the Telephon."
+      "en": "On 7 January 1834, physicist and inventor Philipp Reis was born in Gelnhausen. He built an early device for transmitting sound over electrical wires and called it the Telephon.",
+      "fr": "Le 7 janvier 1834, le physicien et inventeur Philipp Reis naquit à Gelnhausen. Il construisit un appareil précoce permettant de transmettre le son par des fils électriques et l’appela Telephon.",
+      "es": "El 7 de enero de 1834 nació en Gelnhausen el físico e inventor Philipp Reis. Construyó un aparato temprano para transmitir sonido por cables eléctricos y lo llamó Telephon.",
+      "it": "Il 7 gennaio 1834 nacque a Gelnhausen il fisico e inventore Philipp Reis. Costruì un apparecchio precoce per trasmettere il suono attraverso fili elettrici e lo chiamò Telephon.",
+      "pt": "Em 7 de janeiro de 1834, nasceu em Gelnhausen o físico e inventor Philipp Reis. Ele construiu um aparelho inicial para transmitir som por fios elétricos e o chamou de Telephon.",
+      "nl": "Op 7 januari 1834 werd de natuurkundige en uitvinder Philipp Reis in Gelnhausen geboren. Hij bouwde een vroeg apparaat om geluid via elektrische draden over te brengen en noemde het Telephon.",
+      "pl": "7 stycznia 1834 roku w Gelnhausen urodził się fizyk i wynalazca Philipp Reis. Zbudował wczesne urządzenie do przesyłania dźwięku przewodami elektrycznymi i nazwał je Telephon.",
+      "tr": "7 Ocak 1834’te fizikçi ve mucit Philipp Reis Gelnhausen’de doğdu. Elektrik telleri üzerinden ses iletmeye yarayan erken bir aygıt yaptı ve ona Telephon adını verdi.",
+      "zh": "1834年1月7日，物理学家和发明家菲利普·赖斯出生于格尔恩豪森。他制造了一种早期装置，可以通过电线传输声音，并称之为Telephon。",
+      "ja": "1834年1月7日、物理学者で発明家のフィリップ・ライスがゲルンハウゼンで生まれました。彼は電線を通じて音を送る初期の装置を作り、それをTelephonと呼びました。",
+      "ko": "1834년 1월 7일, 물리학자이자 발명가인 필리프 라이스가 겔른하우젠에서 태어났다. 그는 전선을 통해 소리를 전달하는 초기 장치를 만들고 그것을 Telephon이라고 불렀다.",
+      "hi": "7 जनवरी 1834 को भौतिक विज्ञानी और आविष्कारक फिलिप राइस का जन्म गेल्नहाउज़ेन में हुआ। उन्होंने विद्युत तारों के माध्यम से ध्वनि भेजने वाला एक प्रारंभिक उपकरण बनाया और उसे Telephon कहा।",
+      "ar": "في 7 يناير 1834 وُلد الفيزيائي والمخترع فيليب رايس في غيلنهاوزن. صنع جهازاً مبكراً لنقل الصوت عبر الأسلاك الكهربائية وسمّاه Telephon."
     },
     "importance": {
       "ru": "История Райса показывает, что большие изобретения часто имеют несколько предшественников и долгий путь развития.",
       "de": "Die Geschichte von Reis zeigt, dass grosse Erfindungen oft mehrere Vorlaeufer und einen langen Entwicklungsweg haben.",
-      "en": "Reis's story shows that major inventions often have several precursors and a long path of development."
+      "en": "Reis's story shows that major inventions often have several precursors and a long path of development.",
+      "fr": "L’histoire de Reis montre que les grandes inventions ont souvent plusieurs précurseurs et un long chemin de développement.",
+      "es": "La historia de Reis muestra que los grandes inventos suelen tener varios precursores y un largo camino de desarrollo.",
+      "it": "La storia di Reis mostra che le grandi invenzioni hanno spesso diversi precursori e un lungo percorso di sviluppo.",
+      "pt": "A história de Reis mostra que grandes invenções muitas vezes têm vários precursores e um longo caminho de desenvolvimento.",
+      "nl": "Het verhaal van Reis laat zien dat grote uitvindingen vaak meerdere voorlopers en een lange ontwikkeling hebben.",
+      "pl": "Historia Reisa pokazuje, że wielkie wynalazki często mają kilku poprzedników i długą drogę rozwoju.",
+      "tr": "Reis’in hikâyesi, büyük icatların çoğu zaman birkaç öncülü ve uzun bir gelişim yolu olduğunu gösterir.",
+      "zh": "赖斯的故事说明，重大发明往往有多个先驱，并经历漫长的发展过程。",
+      "ja": "ライスの物語は、大きな発明にはしばしば複数の先駆者と長い発展の道のりがあることを示しています。",
+      "ko": "라이스의 이야기는 큰 발명이 종종 여러 선구자와 긴 발전 과정을 가진다는 것을 보여 준다.",
+      "hi": "राइस की कहानी दिखाती है कि बड़े आविष्कारों के अक्सर कई पूर्ववर्ती होते हैं और विकास की लंबी प्रक्रिया होती है।",
+      "ar": "تُظهر قصة رايس أن الاختراعات الكبرى غالباً ما يكون لها عدة رواد وطريق طويل من التطور."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Ранний «телефон»",
           "de": "Ein fruehes Telephon",
-          "en": "An early telephone"
+          "en": "An early telephone",
+          "fr": "Un téléphone précoce",
+          "es": "Un teléfono temprano",
+          "it": "Un telefono primitivo",
+          "pt": "Um telefone inicial",
+          "nl": "Een vroege telefoon",
+          "pl": "Wczesny telefon",
+          "tr": "Erken bir telefon",
+          "zh": "早期电话",
+          "ja": "初期の電話",
+          "ko": "초기의 전화기",
+          "hi": "एक प्रारंभिक टेलीफोन",
+          "ar": "هاتف مبكر"
         },
         "description": {
           "ru": "В 1861 году Райс демонстрировал свой аппарат во Франкфурте-на-Майне. Устройство ещё не стало массовой технологией, но было важным шагом в истории связи.",
           "de": "1861 fuehrte Reis seinen Apparat in Frankfurt am Main vor. Das Geraet wurde noch keine Massentechnologie, war aber ein wichtiger Schritt in der Geschichte der Kommunikation.",
-          "en": "In 1861, Reis demonstrated his device in Frankfurt am Main. It did not yet become a mass technology, but it was an important step in the history of communication."
+          "en": "In 1861, Reis demonstrated his device in Frankfurt am Main. It did not yet become a mass technology, but it was an important step in the history of communication.",
+          "fr": "En 1861, Reis présenta son appareil à Francfort-sur-le-Main. L’appareil ne devint pas encore une technologie de masse, mais ce fut une étape importante dans l’histoire de la communication.",
+          "es": "En 1861, Reis presentó su aparato en Fráncfort del Meno. El dispositivo aún no se convirtió en una tecnología de masas, pero fue un paso importante en la historia de la comunicación.",
+          "it": "Nel 1861 Reis dimostrò il suo apparecchio a Francoforte sul Meno. Il dispositivo non divenne ancora una tecnologia di massa, ma fu un passo importante nella storia della comunicazione.",
+          "pt": "Em 1861, Reis demonstrou seu aparelho em Frankfurt am Main. O dispositivo ainda não se tornou uma tecnologia de massa, mas foi um passo importante na história da comunicação.",
+          "nl": "In 1861 demonstreerde Reis zijn apparaat in Frankfurt am Main. Het werd nog geen massatechnologie, maar het was een belangrijke stap in de geschiedenis van communicatie.",
+          "pl": "W 1861 roku Reis zaprezentował swoje urządzenie we Frankfurcie nad Menem. Nie stało się ono jeszcze technologią masową, ale było ważnym krokiem w historii komunikacji.",
+          "tr": "Reis 1861’de aygıtını Frankfurt am Main’da gösterdi. Cihaz henüz kitlesel bir teknolojiye dönüşmedi, ancak iletişim tarihinde önemli bir adımdı.",
+          "zh": "1861年，赖斯在法兰克福展示了他的装置。它尚未成为大众技术，但却是通信史上的重要一步。",
+          "ja": "1861年、ライスはフランクフルト・アム・マインで装置を実演しました。それはまだ大衆的な技術にはなりませんでしたが、通信史上の重要な一歩でした。",
+          "ko": "1861년 라이스는 프랑크푸르트암마인에서 자신의 장치를 시연했다. 이 장치는 아직 대중 기술이 되지는 못했지만 통신 역사에서 중요한 한 걸음이었다.",
+          "hi": "1861 में राइस ने फ्रैंकफर्ट आम माइन में अपना उपकरण प्रदर्शित किया। वह अभी जन-तकनीक नहीं बना था, लेकिन संचार के इतिहास में महत्वपूर्ण कदम था।",
+          "ar": "في عام 1861 عرض رايس جهازه في فرانكفورت أم ماين. لم يصبح الجهاز بعد تقنية جماهيرية، لكنه كان خطوة مهمة في تاريخ الاتصالات."
         },
         "importance": {
           "ru": "Так школьнику легче понять, что технология телефона возникала постепенно.",
           "de": "So laesst sich leichter verstehen, dass die Telefontechnik schrittweise entstand.",
-          "en": "This makes it easier to understand that telephone technology emerged gradually."
+          "en": "This makes it easier to understand that telephone technology emerged gradually.",
+          "fr": "Cela aide à comprendre que la technologie du téléphone est apparue progressivement.",
+          "es": "Esto ayuda a entender que la tecnología del teléfono surgió gradualmente.",
+          "it": "Questo aiuta a capire che la tecnologia del telefono emerse gradualmente.",
+          "pt": "Isso ajuda a entender que a tecnologia do telefone surgiu gradualmente.",
+          "nl": "Zo wordt duidelijker dat telefoontechnologie geleidelijk ontstond.",
+          "pl": "Dzięki temu łatwiej zrozumieć, że technologia telefonu powstawała stopniowo.",
+          "tr": "Bu, telefon teknolojisinin aşamalı olarak ortaya çıktığını anlamayı kolaylaştırır.",
+          "zh": "这有助于理解电话技术是逐步出现的。",
+          "ja": "これにより、電話技術が段階的に生まれたことが理解しやすくなります。",
+          "ko": "이는 전화 기술이 점진적으로 등장했다는 것을 이해하기 쉽게 해 준다.",
+          "hi": "इससे यह समझना आसान होता है कि टेलीफोन तकनीक धीरे-धीरे विकसित हुई।",
+          "ar": "يساعد ذلك على فهم أن تقنية الهاتف ظهرت تدريجياً."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Филипп Райс умер очень рано, в 40 лет, и не увидел массового распространения телефонной связи.",
     "de": "Philipp Reis starb sehr frueh, mit 40 Jahren, und erlebte die weite Verbreitung der Telefonie nicht mehr.",
-    "en": "Philipp Reis died very young, at 40, and did not live to see telephony become widespread."
+    "en": "Philipp Reis died very young, at 40, and did not live to see telephony become widespread.",
+    "fr": "Philipp Reis mourut très jeune, à 40 ans, et ne vit pas la téléphonie se répandre largement.",
+    "es": "Philipp Reis murió muy joven, a los 40 años, y no llegó a ver la amplia difusión de la telefonía.",
+    "it": "Philipp Reis morì molto giovane, a 40 anni, e non vide la diffusione di massa della telefonia.",
+    "pt": "Philipp Reis morreu muito jovem, aos 40 anos, e não viveu para ver a telefonia se difundir amplamente.",
+    "nl": "Philipp Reis stierf zeer jong, op 40-jarige leeftijd, en maakte de brede verspreiding van telefonie niet meer mee.",
+    "pl": "Philipp Reis zmarł bardzo młodo, w wieku 40 lat, i nie doczekał szerokiego rozpowszechnienia telefonii.",
+    "tr": "Philipp Reis çok genç, 40 yaşında öldü ve telefonun yaygınlaşmasını göremedi.",
+    "zh": "菲利普·赖斯英年早逝，年仅40岁，未能看到电话通信的广泛普及。",
+    "ja": "フィリップ・ライスは40歳で早く亡くなり、電話通信が広く普及するのを見ることはありませんでした。",
+    "ko": "필리프 라이스는 40세의 젊은 나이에 세상을 떠났고 전화 통신이 널리 보급되는 것을 보지 못했다.",
+    "hi": "फिलिप राइस का 40 वर्ष की कम उम्र में निधन हो गया और वे टेलीफोन संचार के व्यापक प्रसार को नहीं देख सके।",
+    "ar": "توفي فيليب رايس شاباً جداً في سن الأربعين، ولم يعش ليرى انتشار الاتصال الهاتفي على نطاق واسع."
   },
   "sources": [
     {
