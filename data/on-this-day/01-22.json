@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Елисейский договор",
       "de": "Der Elysee-Vertrag wird unterzeichnet",
-      "en": "The Elysee Treaty is signed"
+      "en": "The Elysee Treaty is signed",
+      "fr": "Le traité de l'Élysée est signé",
+      "es": "Se firma el Tratado del Elíseo",
+      "it": "Viene firmato il Trattato dell'Eliseo",
+      "pt": "O Tratado do Eliseu é assinado",
+      "nl": "Het Élysée-verdrag wordt ondertekend",
+      "pl": "Podpisano Traktat Elizejski",
+      "tr": "Élysée Antlaşması imzalanır",
+      "zh": "《爱丽舍条约》签署",
+      "ja": "エリゼ条約が署名される",
+      "ko": "엘리제 조약이 체결되다",
+      "hi": "एलिसे संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدة الإليزيه"
     },
     "description": {
       "ru": "22 января 1963 года канцлер Конрад Аденауэр и президент Шарль де Голль подписали в Париже договор о франко-германском сотрудничестве. Он стал символом примирения после десятилетий войн.",
       "de": "Am 22. Januar 1963 unterzeichneten Kanzler Konrad Adenauer und Praesident Charles de Gaulle in Paris den Vertrag ueber die deutsch-franzoesische Zusammenarbeit. Er wurde zum Symbol der Versoehnung nach Jahrzehnten von Kriegen.",
-      "en": "On 22 January 1963, Chancellor Konrad Adenauer and President Charles de Gaulle signed the treaty on Franco-German cooperation in Paris. It became a symbol of reconciliation after decades of war."
+      "en": "On 22 January 1963, Chancellor Konrad Adenauer and President Charles de Gaulle signed the treaty on Franco-German cooperation in Paris. It became a symbol of reconciliation after decades of war.",
+      "fr": "Le 22 janvier 1963, le chancelier Konrad Adenauer et le président Charles de Gaulle signèrent à Paris le traité sur la coopération franco-allemande. Il devint un symbole de réconciliation après des décennies de guerres.",
+      "es": "El 22 de enero de 1963, el canciller Konrad Adenauer y el presidente Charles de Gaulle firmaron en París el tratado de cooperación franco-alemana. Se convirtió en símbolo de reconciliación tras décadas de guerras.",
+      "it": "Il 22 gennaio 1963 il cancelliere Konrad Adenauer e il presidente Charles de Gaulle firmarono a Parigi il trattato sulla cooperazione franco-tedesca. Divenne un simbolo di riconciliazione dopo decenni di guerre.",
+      "pt": "Em 22 de janeiro de 1963, o chanceler Konrad Adenauer e o presidente Charles de Gaulle assinaram em Paris o tratado de cooperação franco-alemã. Ele tornou-se símbolo de reconciliação após décadas de guerras.",
+      "nl": "Op 22 januari 1963 ondertekenden bondskanselier Konrad Adenauer en president Charles de Gaulle in Parijs het verdrag over Frans-Duitse samenwerking. Het werd een symbool van verzoening na decennia van oorlogen.",
+      "pl": "22 stycznia 1963 roku kanclerz Konrad Adenauer i prezydent Charles de Gaulle podpisali w Paryżu traktat o współpracy francusko-niemieckiej. Stał się on symbolem pojednania po dekadach wojen.",
+      "tr": "22 Ocak 1963'te Şansölye Konrad Adenauer ve Cumhurbaşkanı Charles de Gaulle Paris'te Fransız-Alman işbirliği antlaşmasını imzaladı. Bu antlaşma, onlarca yıllık savaşların ardından uzlaşmanın sembolü oldu.",
+      "zh": "1963年1月22日，德国总理康拉德·阿登纳和法国总统夏尔·戴高乐在巴黎签署了法德合作条约。它成为数十年战争之后和解的象征。",
+      "ja": "1963年1月22日、コンラート・アデナウアー首相とシャルル・ド・ゴール大統領がパリで仏独協力条約に署名した。この条約は数十年にわたる戦争の後の和解の象徴となった。",
+      "ko": "1963년 1월 22일 콘라트 아데나워 총리와 샤를 드골 대통령은 파리에서 프랑스-독일 협력 조약에 서명했다. 이 조약은 수십 년의 전쟁 뒤 화해의 상징이 되었다.",
+      "hi": "22 जनवरी 1963 को चांसलर कोनराड आदेनाउअर और राष्ट्रपति शार्ल द गॉल ने पेरिस में फ्रांसीसी-जर्मन सहयोग की संधि पर हस्ताक्षर किए। यह दशकों के युद्धों के बाद मेल-मिलाप का प्रतीक बनी।",
+      "ar": "في 22 يناير 1963 وقّع المستشار كونراد أديناور والرئيس شارل ديغول في باريس معاهدة التعاون الفرنسي الألماني. وأصبحت رمزاً للمصالحة بعد عقود من الحروب."
     },
     "importance": {
       "ru": "Договор стал одной из основ современной дружбы Германии и Франции и европейской интеграции.",
       "de": "Der Vertrag wurde zu einer Grundlage der modernen deutsch-franzoesischen Freundschaft und der europaeischen Integration.",
-      "en": "The treaty became one foundation of modern Franco-German friendship and European integration."
+      "en": "The treaty became one foundation of modern Franco-German friendship and European integration.",
+      "fr": "Le traité devint l'un des fondements de l'amitié franco-allemande moderne et de l'intégration européenne.",
+      "es": "El tratado se convirtió en una de las bases de la amistad franco-alemana moderna y de la integración europea.",
+      "it": "Il trattato divenne una delle basi dell'amicizia franco-tedesca moderna e dell'integrazione europea.",
+      "pt": "O tratado tornou-se uma das bases da amizade franco-alemã moderna e da integração europeia.",
+      "nl": "Het verdrag werd een van de fundamenten van de moderne Frans-Duitse vriendschap en de Europese integratie.",
+      "pl": "Traktat stał się jedną z podstaw współczesnej przyjaźni francusko-niemieckiej i integracji europejskiej.",
+      "tr": "Antlaşma, modern Fransız-Alman dostluğunun ve Avrupa bütünleşmesinin temellerinden biri oldu.",
+      "zh": "该条约成为现代法德友谊和欧洲一体化的基础之一。",
+      "ja": "この条約は、現代の仏独友好とヨーロッパ統合の基盤の一つとなった。",
+      "ko": "이 조약은 현대 프랑스-독일 우정과 유럽 통합의 토대 중 하나가 되었다.",
+      "hi": "यह संधि आधुनिक फ्रांसीसी-जर्मन मित्रता और यूरोपीय एकीकरण की एक आधारशिला बनी।",
+      "ar": "أصبحت المعاهدة إحدى أسس الصداقة الفرنسية الألمانية الحديثة والتكامل الأوروبي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Молодёжь как мост",
           "de": "Jugend als Bruecke",
-          "en": "Youth as a bridge"
+          "en": "Youth as a bridge",
+          "fr": "La jeunesse comme pont",
+          "es": "La juventud como puente",
+          "it": "La gioventù come ponte",
+          "pt": "A juventude como ponte",
+          "nl": "Jeugd als brug",
+          "pl": "Młodzież jako most",
+          "tr": "Bir köprü olarak gençlik",
+          "zh": "青年作为桥梁",
+          "ja": "橋としての若者",
+          "ko": "다리로서의 청소년",
+          "hi": "पुल के रूप में युवा",
+          "ar": "الشباب كجسر"
         },
         "description": {
           "ru": "Одним из практических результатов стало Франко-германское молодёжное бюро. Миллионы молодых людей получили возможность участвовать в обменах.",
           "de": "Ein praktisches Ergebnis war das Deutsch-Franzoesische Jugendwerk. Millionen junger Menschen konnten an Austauschprogrammen teilnehmen.",
-          "en": "One practical result was the Franco-German Youth Office. Millions of young people gained opportunities to take part in exchanges."
+          "en": "One practical result was the Franco-German Youth Office. Millions of young people gained opportunities to take part in exchanges.",
+          "fr": "L'un des résultats pratiques fut l'Office franco-allemand pour la Jeunesse. Des millions de jeunes eurent la possibilité de participer à des échanges.",
+          "es": "Uno de los resultados prácticos fue la Oficina Franco-Alemana de la Juventud. Millones de jóvenes obtuvieron la oportunidad de participar en intercambios.",
+          "it": "Uno dei risultati pratici fu l'Ufficio franco-tedesco per la gioventù. Milioni di giovani ebbero la possibilità di partecipare a scambi.",
+          "pt": "Um dos resultados práticos foi o Escritório Franco-Alemão da Juventude. Milhões de jovens ganharam oportunidades de participar de intercâmbios.",
+          "nl": "Een praktisch resultaat was het Frans-Duitse Jeugdwerk. Miljoenen jonge mensen kregen de mogelijkheid om aan uitwisselingen deel te nemen.",
+          "pl": "Jednym z praktycznych rezultatów była Francusko-Niemiecka Współpraca Młodzieży. Miliony młodych ludzi otrzymały możliwość udziału w wymianach.",
+          "tr": "Pratik sonuçlardan biri Fransız-Alman Gençlik Ofisi oldu. Milyonlarca genç değişim programlarına katılma fırsatı elde etti.",
+          "zh": "一个实际成果是法德青年办公室。数百万年轻人获得了参加交流项目的机会。",
+          "ja": "具体的な成果の一つが仏独青少年事務局だった。何百万人もの若者が交流に参加する機会を得た。",
+          "ko": "실질적인 결과 중 하나는 프랑스-독일 청소년 사무소였다. 수백만 명의 젊은이들이 교류 프로그램에 참여할 기회를 얻었다.",
+          "hi": "इसका एक व्यावहारिक परिणाम फ्रांसीसी-जर्मन युवा कार्यालय था। लाखों युवाओं को आदान-प्रदान कार्यक्रमों में भाग लेने का अवसर मिला।",
+          "ar": "كانت إحدى النتائج العملية هي مكتب الشباب الفرنسي الألماني. وحصل ملايين الشباب على فرص للمشاركة في برامج التبادل."
         },
         "importance": {
           "ru": "Примирение стало не только делом политиков, но и опытом обычных семей и школьников.",
           "de": "Versoehnung wurde nicht nur Sache der Politik, sondern Erfahrung von Familien und Schuelern.",
-          "en": "Reconciliation became not only a matter for politicians but an experience for families and students."
+          "en": "Reconciliation became not only a matter for politicians but an experience for families and students.",
+          "fr": "La réconciliation ne fut pas seulement une affaire de responsables politiques, mais aussi une expérience vécue par des familles et des élèves.",
+          "es": "La reconciliación no fue solo asunto de políticos, sino también una experiencia para familias y estudiantes.",
+          "it": "La riconciliazione non fu solo una questione di politici, ma anche un'esperienza per famiglie e studenti.",
+          "pt": "A reconciliação tornou-se não apenas assunto de políticos, mas também uma experiência para famílias e estudantes.",
+          "nl": "Verzoening werd niet alleen een zaak van politici, maar ook een ervaring van gezinnen en scholieren.",
+          "pl": "Pojednanie stało się nie tylko sprawą polityków, lecz także doświadczeniem zwykłych rodzin i uczniów.",
+          "tr": "Uzlaşma yalnızca politikacıların işi değil, ailelerin ve öğrencilerin de yaşadığı bir deneyim haline geldi.",
+          "zh": "和解不仅成为政治家的事情，也成为普通家庭和学生的亲身经历。",
+          "ja": "和解は政治家だけの問題ではなく、普通の家族や生徒たちの経験にもなった。",
+          "ko": "화해는 정치인들만의 일이 아니라 평범한 가족과 학생들의 경험이 되었다.",
+          "hi": "मेल-मिलाप केवल राजनेताओं का मामला नहीं रहा, बल्कि सामान्य परिवारों और छात्रों का अनुभव भी बना।",
+          "ar": "لم تصبح المصالحة شأناً للسياسيين فقط، بل تجربة تعيشها العائلات والطلاب أيضاً."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "22 января в Германии и Франции отмечают как День франко-германской дружбы.",
     "de": "Der 22. Januar wird in Deutschland und Frankreich als Tag der deutsch-franzoesischen Freundschaft begangen.",
-    "en": "22 January is observed in Germany and France as Franco-German Friendship Day."
+    "en": "22 January is observed in Germany and France as Franco-German Friendship Day.",
+    "fr": "Le 22 janvier est célébré en Allemagne et en France comme la Journée de l'amitié franco-allemande.",
+    "es": "El 22 de enero se celebra en Alemania y Francia como el Día de la Amistad Franco-Alemana.",
+    "it": "Il 22 gennaio è celebrato in Germania e in Francia come Giornata dell'amicizia franco-tedesca.",
+    "pt": "22 de janeiro é celebrado na Alemanha e na França como o Dia da Amizade Franco-Alemã.",
+    "nl": "22 januari wordt in Duitsland en Frankrijk gevierd als Dag van de Frans-Duitse vriendschap.",
+    "pl": "22 stycznia obchodzony jest w Niemczech i Francji jako Dzień Przyjaźni Francusko-Niemieckiej.",
+    "tr": "22 Ocak, Almanya ve Fransa'da Fransız-Alman Dostluk Günü olarak kutlanır.",
+    "zh": "1月22日在德国和法国被纪念为法德友谊日。",
+    "ja": "1月22日はドイツとフランスで仏独友好の日として祝われている。",
+    "ko": "1월 22일은 독일과 프랑스에서 프랑스-독일 우정의 날로 기념된다.",
+    "hi": "22 जनवरी को जर्मनी और फ्रांस में फ्रांसीसी-जर्मन मित्रता दिवस के रूप में मनाया जाता है।",
+    "ar": "يُحتفل بيوم 22 يناير في ألمانيا وفرنسا بوصفه يوم الصداقة الفرنسية الألمانية."
   },
   "sources": [
     {

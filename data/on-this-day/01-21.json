@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первые призывники Бундесвера",
       "de": "Die ersten Wehrpflichtigen der Bundeswehr",
-      "en": "The first Bundeswehr conscripts"
+      "en": "The first Bundeswehr conscripts",
+      "fr": "Les premiers appelés de la Bundeswehr",
+      "es": "Los primeros reclutas de la Bundeswehr",
+      "it": "I primi coscritti della Bundeswehr",
+      "pt": "Os primeiros recrutas da Bundeswehr",
+      "nl": "De eerste dienstplichtigen van de Bundeswehr",
+      "pl": "Pierwsi poborowi Bundeswehry",
+      "tr": "Bundeswehr'in ilk askerlik yükümlüleri",
+      "zh": "联邦国防军的首批应征兵",
+      "ja": "ドイツ連邦軍の最初の徴集兵",
+      "ko": "분데스베어의 첫 징집병",
+      "hi": "बुंडेसवेहर के पहले अनिवार्य सैनिक",
+      "ar": "أول المجندين في البوندسفير"
     },
     "description": {
       "ru": "21 января 1957 года начался призыв первых военнообязанных в Бундесвер. Это стало практическим шагом после решения ФРГ снова создать вооружённые силы в рамках НАТО.",
       "de": "Am 21. Januar 1957 begann die Einberufung der ersten Wehrpflichtigen zur Bundeswehr. Das war ein praktischer Schritt nach der Entscheidung der Bundesrepublik, im Rahmen der NATO wieder Streitkraefte aufzubauen.",
-      "en": "On 21 January 1957, the first conscripts were drafted into the Bundeswehr. It was a practical step after West Germany's decision to rebuild armed forces within NATO."
+      "en": "On 21 January 1957, the first conscripts were drafted into the Bundeswehr. It was a practical step after West Germany's decision to rebuild armed forces within NATO.",
+      "fr": "Le 21 janvier 1957 commença l'appel des premiers conscrits dans la Bundeswehr. C'était une étape concrète après la décision de la RFA de reconstruire des forces armées dans le cadre de l'OTAN.",
+      "es": "El 21 de enero de 1957 comenzó el reclutamiento de los primeros conscriptos para la Bundeswehr. Fue un paso práctico tras la decisión de la RFA de reconstruir fuerzas armadas dentro de la OTAN.",
+      "it": "Il 21 gennaio 1957 iniziò la chiamata dei primi coscritti nella Bundeswehr. Fu un passo concreto dopo la decisione della Repubblica Federale di ricostruire forze armate nell'ambito della NATO.",
+      "pt": "Em 21 de janeiro de 1957 começou a convocação dos primeiros conscritos para a Bundeswehr. Foi um passo prático após a decisão da Alemanha Ocidental de reconstruir forças armadas no âmbito da OTAN.",
+      "nl": "Op 21 januari 1957 begon de oproeping van de eerste dienstplichtigen voor de Bundeswehr. Het was een praktische stap na het besluit van de Bondsrepubliek om binnen de NAVO opnieuw strijdkrachten op te bouwen.",
+      "pl": "21 stycznia 1957 roku rozpoczęło się powoływanie pierwszych poborowych do Bundeswehry. Był to praktyczny krok po decyzji RFN o ponownej budowie sił zbrojnych w ramach NATO.",
+      "tr": "21 Ocak 1957'de ilk yükümlüler Bundeswehr'e çağrılmaya başlandı. Bu, Batı Almanya'nın NATO çerçevesinde yeniden silahlı kuvvetler kurma kararından sonra atılan pratik bir adımdı.",
+      "zh": "1957年1月21日，首批义务兵被征召进入联邦国防军。这是西德决定在北约框架内重建武装力量后的实际步骤。",
+      "ja": "1957年1月21日、最初の徴集兵がドイツ連邦軍に召集され始めた。これは西ドイツがNATOの枠内で再び軍隊を整備する決定をした後の具体的な一歩だった。",
+      "ko": "1957년 1월 21일 첫 징집 대상자들이 분데스베어에 소집되기 시작했다. 이는 서독이 NATO 틀 안에서 다시 군대를 건설하기로 한 결정 이후의 실제적인 조치였다.",
+      "hi": "21 जनवरी 1957 को पहले अनिवार्य सैनिकों को बुंडेसवेहर में बुलाया जाना शुरू हुआ। यह पश्चिम जर्मनी के नाटो के भीतर फिर से सशस्त्र बल बनाने के निर्णय के बाद व्यावहारिक कदम था।",
+      "ar": "في 21 يناير 1957 بدأ استدعاء أول المجندين الإلزاميين إلى البوندسفير. وكان ذلك خطوة عملية بعد قرار ألمانيا الغربية إعادة بناء قوات مسلحة ضمن إطار الناتو."
     },
     "importance": {
       "ru": "Дата показывает, насколько спорным и важным был вопрос армии в послевоенной демократии.",
       "de": "Das Datum zeigt, wie umstritten und wichtig die Armeefrage in der Nachkriegsdemokratie war.",
-      "en": "The date shows how controversial and important the military question was in postwar democracy."
+      "en": "The date shows how controversial and important the military question was in postwar democracy.",
+      "fr": "Cette date montre à quel point la question de l'armée était controversée et importante dans la démocratie d'après-guerre.",
+      "es": "La fecha muestra lo controvertida e importante que fue la cuestión militar en la democracia de posguerra.",
+      "it": "La data mostra quanto fosse controversa e importante la questione dell'esercito nella democrazia del dopoguerra.",
+      "pt": "A data mostra como a questão militar era controversa e importante na democracia do pós-guerra.",
+      "nl": "De datum laat zien hoe omstreden en belangrijk de legerkwestie was in de naoorlogse democratie.",
+      "pl": "Ta data pokazuje, jak sporna i ważna była kwestia armii w powojennej demokracji.",
+      "tr": "Bu tarih, savaş sonrası demokraside ordu meselesinin ne kadar tartışmalı ve önemli olduğunu gösterir.",
+      "zh": "这个日期显示了军队问题在战后民主中有多么有争议且重要。",
+      "ja": "この日付は、戦後民主主義において軍隊の問題がいかに議論を呼び、重要だったかを示している。",
+      "ko": "이 날짜는 전후 민주주의에서 군대 문제가 얼마나 논쟁적이고 중요했는지를 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि युद्धोत्तर लोकतंत्र में सेना का प्रश्न कितना विवादास्पद और महत्वपूर्ण था।",
+      "ar": "يُظهر هذا التاريخ مدى الجدل والأهمية اللذين أحاطا بمسألة الجيش في ديمقراطية ما بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Гражданин в форме»",
           "de": "Buerger in Uniform",
-          "en": "Citizen in uniform"
+          "en": "Citizen in uniform",
+          "fr": "Citoyen en uniforme",
+          "es": "Ciudadano de uniforme",
+          "it": "Cittadino in uniforme",
+          "pt": "Cidadão de uniforme",
+          "nl": "Burger in uniform",
+          "pl": "Obywatel w mundurze",
+          "tr": "Üniformalı vatandaş",
+          "zh": "穿制服的公民",
+          "ja": "制服を着た市民",
+          "ko": "제복 입은 시민",
+          "hi": "वर्दी में नागरिक",
+          "ar": "مواطن بالزي العسكري"
         },
         "description": {
           "ru": "Новая армия ФРГ должна была отличаться от старых немецких военных традиций. Идея «гражданина в форме» подчёркивала, что солдат остаётся частью демократического общества.",
           "de": "Die neue Armee der Bundesrepublik sollte sich von alten deutschen Militaertraditionen unterscheiden. Die Idee des Buergers in Uniform betonte, dass der Soldat Teil der demokratischen Gesellschaft bleibt.",
-          "en": "West Germany's new army was meant to differ from older German military traditions. The idea of the 'citizen in uniform' emphasized that the soldier remained part of democratic society."
+          "en": "West Germany's new army was meant to differ from older German military traditions. The idea of the 'citizen in uniform' emphasized that the soldier remained part of democratic society.",
+          "fr": "La nouvelle armée de la RFA devait se distinguer des anciennes traditions militaires allemandes. L'idée du « citoyen en uniforme » soulignait que le soldat restait partie de la société démocratique.",
+          "es": "El nuevo ejército de la RFA debía diferenciarse de las antiguas tradiciones militares alemanas. La idea del «ciudadano de uniforme» subrayaba que el soldado seguía siendo parte de la sociedad democrática.",
+          "it": "Il nuovo esercito della Repubblica Federale doveva distinguersi dalle vecchie tradizioni militari tedesche. L'idea del «cittadino in uniforme» sottolineava che il soldato rimaneva parte della società democratica.",
+          "pt": "O novo exército da Alemanha Ocidental deveria diferenciar-se das antigas tradições militares alemãs. A ideia do «cidadão de uniforme» destacava que o soldado continuava parte da sociedade democrática.",
+          "nl": "Het nieuwe leger van de Bondsrepubliek moest verschillen van oudere Duitse militaire tradities. Het idee van de 'burger in uniform' benadrukte dat de soldaat deel bleef van de democratische samenleving.",
+          "pl": "Nowa armia RFN miała różnić się od dawnych niemieckich tradycji wojskowych. Idea „obywatela w mundurze” podkreślała, że żołnierz pozostaje częścią demokratycznego społeczeństwa.",
+          "tr": "Federal Almanya'nın yeni ordusunun eski Alman askeri geleneklerinden farklı olması gerekiyordu. 'Üniformalı vatandaş' fikri, askerin demokratik toplumun bir parçası olmaya devam ettiğini vurguluyordu.",
+          "zh": "西德的新军队应当不同于旧的德国军事传统。“穿制服的公民”这一理念强调，士兵仍然是民主社会的一部分。",
+          "ja": "西ドイツの新しい軍隊は、古いドイツ軍の伝統とは異なるものになるべきだった。「制服を着た市民」という考えは、兵士が民主社会の一員であり続けることを強調した。",
+          "ko": "서독의 새 군대는 오래된 독일 군사 전통과 달라야 했다. '제복 입은 시민'이라는 생각은 군인이 민주 사회의 일부로 남아 있음을 강조했다.",
+          "hi": "पश्चिम जर्मनी की नई सेना को पुरानी जर्मन सैन्य परंपराओं से अलग होना था। 'वर्दी में नागरिक' का विचार यह रेखांकित करता था कि सैनिक लोकतांत्रिक समाज का हिस्सा बना रहता है।",
+          "ar": "كان من المفترض أن يختلف الجيش الجديد في ألمانيا الغربية عن التقاليد العسكرية الألمانية القديمة. وأكدت فكرة «المواطن بالزي العسكري» أن الجندي يبقى جزءاً من المجتمع الديمقراطي."
         },
         "importance": {
           "ru": "Это показывает, как после диктатуры Германия пыталась встроить армию в демократические правила.",
           "de": "Das zeigt, wie Deutschland nach der Diktatur versuchte, die Armee in demokratische Regeln einzubinden.",
-          "en": "It shows how Germany tried to place the army within democratic rules after dictatorship."
+          "en": "It shows how Germany tried to place the army within democratic rules after dictatorship.",
+          "fr": "Cela montre comment l'Allemagne tenta, après la dictature, d'inscrire l'armée dans des règles démocratiques.",
+          "es": "Muestra cómo Alemania intentó integrar el ejército en reglas democráticas después de la dictadura.",
+          "it": "Mostra come la Germania cercò, dopo la dittatura, di inserire l'esercito entro regole democratiche.",
+          "pt": "Isso mostra como a Alemanha tentou inserir o exército em regras democráticas após a ditadura.",
+          "nl": "Het laat zien hoe Duitsland na de dictatuur probeerde het leger in democratische regels in te passen.",
+          "pl": "Pokazuje to, jak Niemcy po dyktaturze próbowały wpisać armię w demokratyczne zasady.",
+          "tr": "Bu, Almanya'nın diktatörlükten sonra orduyu demokratik kurallar içine yerleştirmeye nasıl çalıştığını gösterir.",
+          "zh": "这显示了德国在独裁之后如何试图把军队纳入民主规则之中。",
+          "ja": "これは、独裁の後にドイツが軍隊を民主的なルールの中に位置づけようとしたことを示している。",
+          "ko": "이는 독일이 독재 이후 군대를 민주적 규칙 안에 두려고 어떻게 노력했는지를 보여 준다.",
+          "hi": "यह दिखाता है कि तानाशाही के बाद जर्मनी ने सेना को लोकतांत्रिक नियमों के भीतर रखने की कोशिश कैसे की।",
+          "ar": "يوضح ذلك كيف حاولت ألمانيا بعد الدكتاتورية إدخال الجيش ضمن قواعد ديمقراطية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Призыв и право отказаться",
           "de": "Wehrpflicht und Gewissen",
-          "en": "Conscription and conscience"
+          "en": "Conscription and conscience",
+          "fr": "Conscription et conscience",
+          "es": "Servicio obligatorio y conciencia",
+          "it": "Leva obbligatoria e coscienza",
+          "pt": "Conscrição e consciência",
+          "nl": "Dienstplicht en geweten",
+          "pl": "Pobór i sumienie",
+          "tr": "Zorunlu askerlik ve vicdan",
+          "zh": "征兵与良心",
+          "ja": "徴兵と良心",
+          "ko": "징병과 양심",
+          "hi": "अनिवार्य सैन्य सेवा और अंतरात्मा",
+          "ar": "التجنيد والضمير"
         },
         "description": {
           "ru": "Основной закон ФРГ признавал право отказаться от службы с оружием по убеждениям. Поэтому спор о призыве сразу был связан не только с безопасностью, но и со свободой совести.",
           "de": "Das Grundgesetz erkannte das Recht an, den Dienst mit der Waffe aus Gewissensgruenden zu verweigern. Deshalb war die Debatte ueber Wehrpflicht von Anfang an auch mit Gewissensfreiheit verbunden.",
-          "en": "The Basic Law recognized the right to refuse armed service for reasons of conscience. The conscription debate was therefore connected from the start with freedom of conscience as well as security."
+          "en": "The Basic Law recognized the right to refuse armed service for reasons of conscience. The conscription debate was therefore connected from the start with freedom of conscience as well as security.",
+          "fr": "La Loi fondamentale reconnaissait le droit de refuser le service armé pour des raisons de conscience. Le débat sur la conscription fut donc lié dès le départ à la liberté de conscience autant qu'à la sécurité.",
+          "es": "La Ley Fundamental reconocía el derecho a rechazar el servicio armado por motivos de conciencia. Por eso el debate sobre el servicio obligatorio estuvo unido desde el principio tanto a la seguridad como a la libertad de conciencia.",
+          "it": "La Legge fondamentale riconosceva il diritto di rifiutare il servizio armato per motivi di coscienza. Perciò il dibattito sulla leva fu legato fin dall'inizio non solo alla sicurezza, ma anche alla libertà di coscienza.",
+          "pt": "A Lei Fundamental reconhecia o direito de recusar o serviço armado por motivos de consciência. Por isso, o debate sobre a conscrição esteve desde o início ligado tanto à segurança quanto à liberdade de consciência.",
+          "nl": "De Grondwet erkende het recht om gewapende dienst om gewetensredenen te weigeren. Daarom was het debat over dienstplicht vanaf het begin verbonden met zowel veiligheid als gewetensvrijheid.",
+          "pl": "Ustawa Zasadnicza uznawała prawo do odmowy służby z bronią ze względów sumienia. Dlatego spór o pobór od początku wiązał się nie tylko z bezpieczeństwem, lecz także z wolnością sumienia.",
+          "tr": "Temel Yasa, vicdani nedenlerle silahlı hizmeti reddetme hakkını tanıyordu. Bu yüzden zorunlu askerlik tartışması baştan itibaren güvenliğin yanında vicdan özgürlüğüyle de bağlantılıydı.",
+          "zh": "《基本法》承认基于良心理由拒绝持武器服役的权利。因此，关于征兵的争论从一开始就不仅关系到安全，也关系到良心自由。",
+          "ja": "基本法は、良心上の理由から武器を持つ兵役を拒否する権利を認めていた。そのため徴兵をめぐる議論は、当初から安全保障だけでなく良心の自由とも結びついていた。",
+          "ko": "기본법은 양심상의 이유로 무장 복무를 거부할 권리를 인정했다. 그래서 징병 논쟁은 처음부터 안보뿐 아니라 양심의 자유와도 연결되어 있었다.",
+          "hi": "मूल कानून ने अंतरात्मा के कारण हथियारबंद सेवा से इंकार करने का अधिकार स्वीकार किया। इसलिए अनिवार्य सैन्य सेवा पर बहस शुरुआत से ही सुरक्षा के साथ-साथ अंतरात्मा की स्वतंत्रता से भी जुड़ी थी।",
+          "ar": "اعترف القانون الأساسي بالحق في رفض الخدمة المسلحة لأسباب ضميرية. لذلك ارتبط النقاش حول التجنيد منذ البداية بحرية الضمير إلى جانب الأمن."
         },
         "importance": {
           "ru": "Это необычная деталь для истории армии: демократия учитывала даже отказ от оружия.",
           "de": "Das ist ein ungewoehnliches Detail der Armeegeschichte: Demokratie beruecksichtigte sogar die Verweigerung der Waffe.",
-          "en": "It is an unusual detail in military history: democracy even took refusal of arms into account."
+          "en": "It is an unusual detail in military history: democracy even took refusal of arms into account.",
+          "fr": "C'est un détail inhabituel de l'histoire militaire : la démocratie prenait même en compte le refus des armes.",
+          "es": "Es un detalle poco común en la historia militar: la democracia tenía en cuenta incluso el rechazo de las armas.",
+          "it": "È un dettaglio insolito nella storia militare: la democrazia teneva conto persino del rifiuto delle armi.",
+          "pt": "É um detalhe incomum na história militar: a democracia levava em conta até a recusa das armas.",
+          "nl": "Het is een ongewoon detail in de militaire geschiedenis: de democratie hield zelfs rekening met het weigeren van wapens.",
+          "pl": "To niezwykły szczegół historii armii: demokracja uwzględniała nawet odmowę noszenia broni.",
+          "tr": "Bu, askeri tarih için alışılmadık bir ayrıntıdır: demokrasi silah taşımayı reddetmeyi bile dikkate alıyordu.",
+          "zh": "这是军事史中一个不同寻常的细节：民主甚至考虑到了拒绝持武器服役。",
+          "ja": "これは軍事史における珍しい点である。民主主義は、武器を拒否することさえ考慮に入れていた。",
+          "ko": "이는 군사사에서 보기 드문 세부사항이다. 민주주의는 무기 사용 거부까지도 고려했다.",
+          "hi": "यह सैन्य इतिहास की असामान्य बात है: लोकतंत्र ने हथियारों से इंकार को भी ध्यान में रखा।",
+          "ar": "إنها تفصيلة غير معتادة في تاريخ الجيوش: فقد أخذت الديمقراطية حتى رفض حمل السلاح في الحسبان."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Обязательная военная служба в ФРГ была приостановлена только в 2011 году.",
     "de": "Die Wehrpflicht in der Bundesrepublik wurde erst 2011 ausgesetzt.",
-    "en": "Conscription in the Federal Republic was suspended only in 2011."
+    "en": "Conscription in the Federal Republic was suspended only in 2011.",
+    "fr": "La conscription dans la République fédérale ne fut suspendue qu'en 2011.",
+    "es": "El servicio militar obligatorio en la República Federal se suspendió solo en 2011.",
+    "it": "La leva obbligatoria nella Repubblica Federale fu sospesa solo nel 2011.",
+    "pt": "A conscrição na República Federal foi suspensa apenas em 2011.",
+    "nl": "De dienstplicht in de Bondsrepubliek werd pas in 2011 opgeschort.",
+    "pl": "Obowiązkowa służba wojskowa w Republice Federalnej została zawieszona dopiero w 2011 roku.",
+    "tr": "Federal Cumhuriyet'te zorunlu askerlik ancak 2011'de askıya alındı.",
+    "zh": "联邦共和国的义务兵役直到2011年才被暂停。",
+    "ja": "連邦共和国での徴兵制は2011年になってようやく停止された。",
+    "ko": "연방공화국의 징병제는 2011년에야 중단되었다.",
+    "hi": "संघीय गणराज्य में अनिवार्य सैन्य सेवा केवल 2011 में स्थगित की गई।",
+    "ar": "لم تُعلّق الخدمة العسكرية الإلزامية في الجمهورية الاتحادية إلا في عام 2011."
   },
   "sources": [
     {
