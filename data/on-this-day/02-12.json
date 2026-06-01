@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умер Иммануил Кант",
       "de": "Immanuel Kant stirbt",
-      "en": "Immanuel Kant dies"
+      "en": "Immanuel Kant dies",
+      "fr": "Mort d'Immanuel Kant",
+      "es": "Muere Immanuel Kant",
+      "it": "Muore Immanuel Kant",
+      "pt": "Morre Immanuel Kant",
+      "nl": "Immanuel Kant sterft",
+      "pl": "Zmarł Immanuel Kant",
+      "tr": "Immanuel Kant öldü",
+      "zh": "伊曼努尔·康德逝世",
+      "ja": "イマヌエル・カントが死去",
+      "ko": "임마누엘 칸트가 사망하다",
+      "hi": "इमैनुएल कांट का निधन हुआ",
+      "ar": "وفاة إيمانويل كانط"
     },
     "description": {
       "ru": "12 февраля 1804 года в Кёнигсберге умер философ Иммануил Кант. Он почти всю жизнь провёл в этом городе, но его идеи повлияли на философию всей Европы.",
       "de": "Am 12. Februar 1804 starb der Philosoph Immanuel Kant in Koenigsberg. Er verbrachte fast sein ganzes Leben in dieser Stadt, doch seine Ideen beeinflussten die Philosophie ganz Europas.",
-      "en": "On 12 February 1804, philosopher Immanuel Kant died in Koenigsberg. He spent almost his entire life in that city, but his ideas influenced philosophy across Europe."
+      "en": "On 12 February 1804, philosopher Immanuel Kant died in Koenigsberg. He spent almost his entire life in that city, but his ideas influenced philosophy across Europe.",
+      "fr": "Le 12 février 1804, le philosophe Immanuel Kant mourut à Königsberg. Il passa presque toute sa vie dans cette ville, mais ses idées influencèrent la philosophie dans toute l'Europe.",
+      "es": "El 12 de febrero de 1804 murió en Königsberg el filósofo Immanuel Kant. Pasó casi toda su vida en esa ciudad, pero sus ideas influyeron en la filosofía de toda Europa.",
+      "it": "Il 12 febbraio 1804 il filosofo Immanuel Kant morì a Königsberg. Trascorse quasi tutta la vita in quella città, ma le sue idee influenzarono la filosofia in tutta Europa.",
+      "pt": "Em 12 de fevereiro de 1804, o filósofo Immanuel Kant morreu em Königsberg. Passou quase toda a vida nessa cidade, mas as suas ideias influenciaram a filosofia em toda a Europa.",
+      "nl": "Op 12 februari 1804 stierf de filosoof Immanuel Kant in Königsberg. Hij bracht bijna zijn hele leven in die stad door, maar zijn ideeën beïnvloedden de filosofie in heel Europa.",
+      "pl": "12 lutego 1804 roku w Królewcu zmarł filozof Immanuel Kant. Spędził prawie całe życie w tym mieście, ale jego idee wpłynęły na filozofię całej Europy.",
+      "tr": "12 Şubat 1804'te filozof Immanuel Kant Königsberg'de öldü. Neredeyse tüm yaşamını bu şehirde geçirdi, ama fikirleri bütün Avrupa felsefesini etkiledi.",
+      "zh": "1804年2月12日，哲学家伊曼努尔·康德在柯尼斯堡逝世。他几乎一生都生活在这座城市，但他的思想影响了整个欧洲的哲学。",
+      "ja": "1804年2月12日、哲学者イマヌエル・カントはケーニヒスベルクで亡くなりました。彼はほぼ生涯をこの町で過ごしましたが、その思想はヨーロッパ全体の哲学に影響を与えました。",
+      "ko": "1804년 2월 12일, 철학자 임마누엘 칸트가 쾨니히스베르크에서 사망했습니다. 그는 거의 평생을 그 도시에서 보냈지만, 그의 사상은 유럽 전역의 철학에 영향을 주었습니다.",
+      "hi": "12 फ़रवरी 1804 को दार्शनिक इमैनुएल कांट का निधन कोनिग्सबर्ग में हुआ। उन्होंने लगभग पूरा जीवन इसी शहर में बिताया, लेकिन उनके विचारों ने पूरे यूरोप की दर्शन परंपरा को प्रभावित किया।",
+      "ar": "في 12 فبراير 1804 توفي الفيلسوف إيمانويل كانط في كونيغسبرغ. قضى معظم حياته في هذه المدينة، لكن أفكاره أثرت في الفلسفة في أوروبا كلها."
     },
     "importance": {
       "ru": "Кант стал одной из центральных фигур Просвещения и изменил разговор о разуме, морали и свободе.",
       "de": "Kant wurde zu einer zentralen Figur der Aufklaerung und veraenderte das Denken ueber Vernunft, Moral und Freiheit.",
-      "en": "Kant became a central figure of the Enlightenment and changed thinking about reason, morality and freedom."
+      "en": "Kant became a central figure of the Enlightenment and changed thinking about reason, morality and freedom.",
+      "fr": "Kant devint une figure centrale des Lumières et transforma la réflexion sur la raison, la morale et la liberté.",
+      "es": "Kant se convirtió en una figura central de la Ilustración y cambió la forma de pensar sobre la razón, la moral y la libertad.",
+      "it": "Kant divenne una figura centrale dell'Illuminismo e cambiò il modo di pensare ragione, morale e libertà.",
+      "pt": "Kant tornou-se uma figura central do Iluminismo e mudou o pensamento sobre razão, moral e liberdade.",
+      "nl": "Kant werd een centrale figuur van de Verlichting en veranderde het denken over rede, moraal en vrijheid.",
+      "pl": "Kant stał się jedną z centralnych postaci oświecenia i zmienił myślenie o rozumie, moralności i wolności.",
+      "tr": "Kant, Aydınlanma'nın merkezî figürlerinden biri oldu ve akıl, ahlak ve özgürlük üzerine düşünceyi değiştirdi.",
+      "zh": "康德成为启蒙运动的核心人物之一，并改变了关于理性、道德和自由的思考方式。",
+      "ja": "カントは啓蒙思想の中心的人物の一人となり、理性、道徳、自由についての考え方を変えました。",
+      "ko": "칸트는 계몽주의의 중심 인물 중 한 명이 되었고, 이성, 도덕, 자유에 대한 생각을 바꾸었습니다.",
+      "hi": "कांट प्रबोधन युग की केंद्रीय हस्तियों में से एक बने और उन्होंने तर्क, नैतिकता और स्वतंत्रता पर सोच को बदल दिया।",
+      "ar": "أصبح كانط شخصية مركزية في عصر التنوير وغيّر التفكير في العقل والأخلاق والحرية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Разум и мораль",
           "de": "Vernunft und Moral",
-          "en": "Reason and morality"
+          "en": "Reason and morality",
+          "fr": "Raison et morale",
+          "es": "Razón y moral",
+          "it": "Ragione e morale",
+          "pt": "Razão e moral",
+          "nl": "Rede en moraal",
+          "pl": "Rozum i moralność",
+          "tr": "Akıl ve ahlak",
+          "zh": "理性与道德",
+          "ja": "理性と道徳",
+          "ko": "이성과 도덕",
+          "hi": "तर्क और नैतिकता",
+          "ar": "العقل والأخلاق"
         },
         "description": {
           "ru": "Кант пытался объяснить, как человек может действовать нравственно и самостоятельно мыслить. Его философия трудна, но её главный вопрос прост: как жить разумно и ответственно?",
           "de": "Kant versuchte zu erklaeren, wie der Mensch moralisch handeln und selbststaendig denken kann. Seine Philosophie ist schwierig, doch ihre Hauptfrage ist einfach: Wie lebt man vernuenftig und verantwortlich?",
-          "en": "Kant tried to explain how humans can act morally and think independently. His philosophy is difficult, but its central question is simple: how can one live rationally and responsibly?"
+          "en": "Kant tried to explain how humans can act morally and think independently. His philosophy is difficult, but its central question is simple: how can one live rationally and responsibly?",
+          "fr": "Kant tenta d'expliquer comment l'être humain peut agir moralement et penser par lui-même. Sa philosophie est difficile, mais sa question centrale est simple: comment vivre de manière raisonnable et responsable?",
+          "es": "Kant intentó explicar cómo una persona puede actuar moralmente y pensar de forma independiente. Su filosofía es difícil, pero su pregunta central es sencilla: ¿cómo vivir de manera racional y responsable?",
+          "it": "Kant cercò di spiegare come l'essere umano possa agire moralmente e pensare in modo autonomo. La sua filosofia è difficile, ma la domanda centrale è semplice: come vivere in modo razionale e responsabile?",
+          "pt": "Kant tentou explicar como o ser humano pode agir moralmente e pensar de forma independente. A sua filosofia é difícil, mas a pergunta central é simples: como viver de modo racional e responsável?",
+          "nl": "Kant probeerde uit te leggen hoe mensen moreel kunnen handelen en zelfstandig kunnen denken. Zijn filosofie is moeilijk, maar de hoofdvraag is eenvoudig: hoe leef je redelijk en verantwoordelijk?",
+          "pl": "Kant próbował wyjaśnić, jak człowiek może działać moralnie i samodzielnie myśleć. Jego filozofia jest trudna, ale jej główne pytanie jest proste: jak żyć rozumnie i odpowiedzialnie?",
+          "tr": "Kant, insanın nasıl ahlaki davranabileceğini ve bağımsız düşünebileceğini açıklamaya çalıştı. Felsefesi zordur, ama temel sorusu basittir: Akılcı ve sorumlu bir şekilde nasıl yaşanır?",
+          "zh": "康德试图解释人如何能够合乎道德地行动并独立思考。他的哲学很难，但核心问题很简单：怎样理性而负责地生活？",
+          "ja": "カントは、人間がどのように道徳的に行動し、自立して考えることができるのかを説明しようとしました。彼の哲学は難解ですが、中心となる問いは単純です。理性的で責任ある生き方とは何か。",
+          "ko": "칸트는 인간이 어떻게 도덕적으로 행동하고 독립적으로 생각할 수 있는지 설명하려 했습니다. 그의 철학은 어렵지만 핵심 질문은 단순합니다. 어떻게 이성적이고 책임 있게 살 수 있는가입니다.",
+          "hi": "कांट ने समझाने की कोशिश की कि मनुष्य नैतिक रूप से कैसे काम कर सकता है और स्वतंत्र रूप से कैसे सोच सकता है। उनकी दर्शन कठिन है, लेकिन मुख्य प्रश्न सरल है: समझदारी और जिम्मेदारी से कैसे जिया जाए?",
+          "ar": "حاول كانط أن يشرح كيف يمكن للإنسان أن يتصرف أخلاقيا وأن يفكر باستقلال. فلسفته صعبة، لكن سؤالها الرئيسي بسيط: كيف نعيش بعقلانية ومسؤولية؟"
         },
         "importance": {
           "ru": "Так философия становится не только школьным предметом, но и разговором о выборе человека.",
           "de": "So wird Philosophie nicht nur Schulstoff, sondern ein Gespraech ueber menschliche Entscheidungen.",
-          "en": "Philosophy becomes not only a school subject, but a conversation about human choice."
+          "en": "Philosophy becomes not only a school subject, but a conversation about human choice.",
+          "fr": "Ainsi, la philosophie devient non seulement une matière scolaire, mais aussi une conversation sur les choix humains.",
+          "es": "Así, la filosofía no es solo una materia escolar, sino una conversación sobre las decisiones humanas.",
+          "it": "Così la filosofia diventa non solo una materia scolastica, ma una conversazione sulle scelte umane.",
+          "pt": "Assim, a filosofia torna-se não só uma disciplina escolar, mas uma conversa sobre as escolhas humanas.",
+          "nl": "Zo wordt filosofie niet alleen een schoolvak, maar ook een gesprek over menselijke keuzes.",
+          "pl": "W ten sposób filozofia staje się nie tylko przedmiotem szkolnym, lecz także rozmową o ludzkich wyborach.",
+          "tr": "Böylece felsefe yalnızca bir okul dersi değil, insanın seçimleri üzerine bir konuşma haline gelir.",
+          "zh": "这样，哲学不仅是学校科目，也成为关于人的选择的对话。",
+          "ja": "こうして哲学は単なる学校の科目ではなく、人間の選択についての対話になります。",
+          "ko": "이렇게 철학은 단순한 학교 과목이 아니라 인간의 선택에 관한 대화가 됩니다.",
+          "hi": "इस तरह दर्शन केवल स्कूल का विषय नहीं, बल्कि मनुष्य के चुनावों पर बातचीत बन जाता है।",
+          "ar": "بهذا تصبح الفلسفة ليست مادة مدرسية فقط، بل حديثا عن اختيارات الإنسان."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Кант похоронен у Кёнигсбергского собора; сегодня это Калининград.",
     "de": "Kant ist am Koenigsberger Dom begraben; heute liegt dieser Ort in Kaliningrad.",
-    "en": "Kant is buried by Koenigsberg Cathedral; today the city is Kaliningrad."
+    "en": "Kant is buried by Koenigsberg Cathedral; today the city is Kaliningrad.",
+    "fr": "Kant est enterré près de la cathédrale de Königsberg; aujourd'hui, la ville s'appelle Kaliningrad.",
+    "es": "Kant está enterrado junto a la catedral de Königsberg; hoy la ciudad es Kaliningrado.",
+    "it": "Kant è sepolto presso la cattedrale di Königsberg; oggi la città è Kaliningrad.",
+    "pt": "Kant está sepultado junto à catedral de Königsberg; hoje a cidade é Kaliningrado.",
+    "nl": "Kant ligt begraven bij de kathedraal van Königsberg; tegenwoordig is die stad Kaliningrad.",
+    "pl": "Kant jest pochowany przy katedrze w Królewcu; dziś to miasto to Kaliningrad.",
+    "tr": "Kant, Königsberg Katedrali'nin yanında gömülüdür; bugün bu şehir Kaliningrad'dır.",
+    "zh": "康德葬于柯尼斯堡大教堂旁；今天这座城市是加里宁格勒。",
+    "ja": "カントはケーニヒスベルク大聖堂のそばに埋葬されています。現在その町はカリーニングラードです。",
+    "ko": "칸트는 쾨니히스베르크 대성당 옆에 묻혀 있습니다. 오늘날 그 도시는 칼리닌그라드입니다.",
+    "hi": "कांट को कोनिग्सबर्ग कैथेड्रल के पास दफनाया गया है; आज यह शहर कैलिनिनग्राद है।",
+    "ar": "دُفن كانط قرب كاتدرائية كونيغسبرغ؛ واليوم تُعرف المدينة باسم كالينينغراد."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Бертольт Брехт",
       "de": "Bertolt Brecht wird geboren",
-      "en": "Bertolt Brecht is born"
+      "en": "Bertolt Brecht is born",
+      "fr": "Naissance de Bertolt Brecht",
+      "es": "Nace Bertolt Brecht",
+      "it": "Nasce Bertolt Brecht",
+      "pt": "Nasce Bertolt Brecht",
+      "nl": "Bertolt Brecht wordt geboren",
+      "pl": "Urodził się Bertolt Brecht",
+      "tr": "Bertolt Brecht doğdu",
+      "zh": "贝托尔特·布莱希特出生",
+      "ja": "ベルトルト・ブレヒトが生まれる",
+      "ko": "베르톨트 브레히트가 태어나다",
+      "hi": "बेर्टोल्ट ब्रेख्त का जन्म हुआ",
+      "ar": "ولادة برتولت بريشت"
     },
     "description": {
       "ru": "10 февраля 1898 года в Аугсбурге родился Бертольт Брехт. Он стал одним из самых влиятельных драматургов XX века и реформатором театра.",
       "de": "Am 10. Februar 1898 wurde Bertolt Brecht in Augsburg geboren. Er wurde einer der einflussreichsten Dramatiker des 20. Jahrhunderts und ein Reformator des Theaters.",
-      "en": "On 10 February 1898, Bertolt Brecht was born in Augsburg. He became one of the most influential playwrights of the twentieth century and a reformer of theatre."
+      "en": "On 10 February 1898, Bertolt Brecht was born in Augsburg. He became one of the most influential playwrights of the twentieth century and a reformer of theatre.",
+      "fr": "Le 10 février 1898, Bertolt Brecht naquit à Augsbourg. Il devint l'un des dramaturges les plus influents du XXe siècle et un réformateur du théâtre.",
+      "es": "El 10 de febrero de 1898 nació Bertolt Brecht en Augsburgo. Llegó a ser uno de los dramaturgos más influyentes del siglo XX y un reformador del teatro.",
+      "it": "Il 10 febbraio 1898 Bertolt Brecht nacque ad Augusta. Divenne uno dei drammaturghi più influenti del XX secolo e un riformatore del teatro.",
+      "pt": "Em 10 de fevereiro de 1898, Bertolt Brecht nasceu em Augsburgo. Tornou-se um dos dramaturgos mais influentes do século XX e um reformador do teatro.",
+      "nl": "Op 10 februari 1898 werd Bertolt Brecht in Augsburg geboren. Hij werd een van de invloedrijkste toneelschrijvers van de twintigste eeuw en een hervormer van het theater.",
+      "pl": "10 lutego 1898 roku w Augsburgu urodził się Bertolt Brecht. Stał się jednym z najbardziej wpływowych dramatopisarzy XX wieku i reformatorem teatru.",
+      "tr": "10 Şubat 1898'de Bertolt Brecht Augsburg'da doğdu. Yirminci yüzyılın en etkili oyun yazarlarından ve tiyatro reformcularından biri oldu.",
+      "zh": "1898年2月10日，贝托尔特·布莱希特出生于奥格斯堡。他成为20世纪最有影响力的剧作家之一，也是戏剧改革者。",
+      "ja": "1898年2月10日、ベルトルト・ブレヒトはアウクスブルクで生まれました。彼は20世紀で最も影響力のある劇作家の一人となり、演劇の改革者にもなりました。",
+      "ko": "1898년 2월 10일, 베르톨트 브레히트가 아우크스부르크에서 태어났습니다. 그는 20세기의 가장 영향력 있는 극작가 중 한 명이자 연극 개혁가가 되었습니다.",
+      "hi": "10 फ़रवरी 1898 को बेर्टोल्ट ब्रेख्त का जन्म ऑग्सबुर्ग में हुआ। वे बीसवीं सदी के सबसे प्रभावशाली नाटककारों में से एक और रंगमंच सुधारक बने।",
+      "ar": "في 10 فبراير 1898 ولد برتولت بريشت في أوغسبورغ. وأصبح أحد أكثر كتاب المسرح تأثيرا في القرن العشرين ومجددا للمسرح."
     },
     "importance": {
       "ru": "Брехт изменил представление о том, каким может быть политический и интеллектуальный театр.",
       "de": "Brecht veraenderte die Vorstellung davon, was politisches und intellektuelles Theater sein kann.",
-      "en": "Brecht changed ideas about what political and intellectual theatre could be."
+      "en": "Brecht changed ideas about what political and intellectual theatre could be.",
+      "fr": "Brecht a changé l'idée de ce que pouvait être un théâtre politique et intellectuel.",
+      "es": "Brecht cambió la idea de lo que podía ser un teatro político e intelectual.",
+      "it": "Brecht cambiò l'idea di ciò che poteva essere un teatro politico e intellettuale.",
+      "pt": "Brecht mudou a ideia do que podia ser um teatro político e intelectual.",
+      "nl": "Brecht veranderde het beeld van wat politiek en intellectueel theater kon zijn.",
+      "pl": "Brecht zmienił wyobrażenie o tym, czym może być teatr polityczny i intelektualny.",
+      "tr": "Brecht, politik ve düşünsel tiyatronun ne olabileceğine dair fikirleri değiştirdi.",
+      "zh": "布莱希特改变了人们对政治性和思想性戏剧可能形态的认识。",
+      "ja": "ブレヒトは、政治的で知的な演劇がどのようなものになり得るかという考え方を変えました。",
+      "ko": "브레히트는 정치적이고 지적인 연극이 무엇일 수 있는지에 대한 생각을 바꾸었습니다.",
+      "hi": "ब्रेख्त ने राजनीतिक और बौद्धिक रंगमंच की संभावनाओं के बारे में सोच बदल दी।",
+      "ar": "غيّر بريشت تصور الناس لما يمكن أن يكون عليه المسرح السياسي والفكري."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Будущий создатель эпического театра",
           "de": "Der spaetere Begruender des epischen Theaters",
-          "en": "The future creator of epic theatre"
+          "en": "The future creator of epic theatre",
+          "fr": "Le futur créateur du théâtre épique",
+          "es": "El futuro creador del teatro épico",
+          "it": "Il futuro creatore del teatro epico",
+          "pt": "O futuro criador do teatro épico",
+          "nl": "De latere schepper van het epische theater",
+          "pl": "Przyszły twórca teatru epickiego",
+          "tr": "Epik tiyatronun gelecekteki kurucusu",
+          "zh": "未来的史诗剧场创造者",
+          "ja": "後に叙事的演劇を生み出す人物",
+          "ko": "훗날 서사극을 창시한 인물",
+          "hi": "एपिक थिएटर के भावी निर्माता",
+          "ar": "المؤسس اللاحق للمسرح الملحمي"
         },
         "description": {
           "ru": "Брехт хотел, чтобы зритель не только переживал историю, но и думал о причинах событий. Его пьесы до сих пор ставят по всему миру.",
           "de": "Brecht wollte, dass Zuschauer nicht nur mitfuehlen, sondern ueber Ursachen von Ereignissen nachdenken. Seine Stuecke werden bis heute weltweit gespielt.",
-          "en": "Brecht wanted audiences not only to feel a story but also to think about why events happen. His plays are still staged around the world."
+          "en": "Brecht wanted audiences not only to feel a story but also to think about why events happen. His plays are still staged around the world.",
+          "fr": "Brecht voulait que le public ne ressente pas seulement une histoire, mais réfléchisse aussi aux causes des événements. Ses pièces sont encore jouées dans le monde entier.",
+          "es": "Brecht quería que el público no solo sintiera una historia, sino que también pensara en las causas de los acontecimientos. Sus obras siguen representándose en todo el mundo.",
+          "it": "Brecht voleva che il pubblico non solo provasse emozioni per una storia, ma pensasse anche alle cause degli eventi. Le sue opere sono ancora messe in scena in tutto il mondo.",
+          "pt": "Brecht queria que o público não apenas sentisse a história, mas também pensasse nas causas dos acontecimentos. As suas peças continuam a ser encenadas em todo o mundo.",
+          "nl": "Brecht wilde dat het publiek een verhaal niet alleen meevoelde, maar ook nadacht over waarom gebeurtenissen plaatsvinden. Zijn stukken worden nog steeds overal ter wereld opgevoerd.",
+          "pl": "Brecht chciał, aby widz nie tylko przeżywał historię, lecz także myślał o przyczynach wydarzeń. Jego sztuki wciąż wystawia się na całym świecie.",
+          "tr": "Brecht, seyircinin bir hikayeyi yalnızca hissetmesini değil, olayların nedenlerini de düşünmesini istedi. Oyunları bugün hala dünyanın her yerinde sahneleniyor.",
+          "zh": "布莱希特希望观众不仅感受故事，也思考事件发生的原因。他的戏剧至今仍在世界各地上演。",
+          "ja": "ブレヒトは、観客が物語を感じるだけでなく、出来事がなぜ起こるのかも考えることを望みました。彼の戯曲はいまも世界中で上演されています。",
+          "ko": "브레히트는 관객이 이야기를 느끼는 데 그치지 않고 사건이 왜 일어나는지도 생각하기를 원했습니다. 그의 희곡은 지금도 전 세계에서 공연됩니다.",
+          "hi": "ब्रेख्त चाहते थे कि दर्शक कहानी को केवल महसूस न करें, बल्कि घटनाओं के कारणों पर भी सोचें। उनके नाटक आज भी दुनिया भर में मंचित होते हैं।",
+          "ar": "أراد بريشت أن لا يكتفي الجمهور بالتأثر بالقصة، بل أن يفكر أيضا في أسباب الأحداث. وما زالت مسرحياته تقدم في أنحاء العالم."
         },
         "importance": {
           "ru": "Это делает его важной фигурой не только немецкой, но и мировой культуры.",
           "de": "Das macht ihn zu einer wichtigen Figur nicht nur der deutschen, sondern der Weltkultur.",
-          "en": "That makes him important not only for German culture but for world culture."
+          "en": "That makes him important not only for German culture but for world culture.",
+          "fr": "Cela fait de lui une figure importante non seulement de la culture allemande, mais aussi de la culture mondiale.",
+          "es": "Eso lo convierte en una figura importante no solo de la cultura alemana, sino también de la cultura mundial.",
+          "it": "Questo lo rende una figura importante non solo della cultura tedesca, ma anche di quella mondiale.",
+          "pt": "Isso faz dele uma figura importante não só da cultura alemã, mas também da cultura mundial.",
+          "nl": "Dat maakt hem belangrijk voor niet alleen de Duitse, maar ook de wereldcultuur.",
+          "pl": "Czyni go to ważną postacią nie tylko kultury niemieckiej, lecz także światowej.",
+          "tr": "Bu, onu yalnızca Alman kültürü için değil dünya kültürü için de önemli bir figür yapar.",
+          "zh": "这使他不仅成为德国文化的重要人物，也成为世界文化的重要人物。",
+          "ja": "そのため彼は、ドイツ文化だけでなく世界文化にとっても重要な人物です。",
+          "ko": "그래서 그는 독일 문화뿐 아니라 세계 문화에서도 중요한 인물입니다.",
+          "hi": "इससे वे केवल जर्मन संस्कृति ही नहीं, विश्व संस्कृति के भी महत्वपूर्ण व्यक्ति बनते हैं।",
+          "ar": "وهذا يجعله شخصية مهمة ليس في الثقافة الألمانية فقط، بل في الثقافة العالمية أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Аугсбург сегодня бережно использует связь с Брехтом: в городе есть дом-музей и фестивальные проекты, посвящённые его наследию.",
     "de": "Augsburg pflegt die Verbindung zu Brecht: In der Stadt gibt es ein Brechthaus und Festivalprojekte zu seinem Erbe.",
-    "en": "Augsburg maintains its connection with Brecht through a Brecht House and festival projects dedicated to his legacy."
+    "en": "Augsburg maintains its connection with Brecht through a Brecht House and festival projects dedicated to his legacy.",
+    "fr": "Augsbourg entretient son lien avec Brecht grâce à une maison Brecht et à des projets de festival consacrés à son héritage.",
+    "es": "Augsburgo mantiene su vínculo con Brecht mediante una Casa Brecht y proyectos de festival dedicados a su legado.",
+    "it": "Augusta conserva il legame con Brecht attraverso una Casa Brecht e progetti di festival dedicati alla sua eredità.",
+    "pt": "Augsburgo mantém a sua ligação a Brecht através de uma Casa Brecht e de projetos de festival dedicados ao seu legado.",
+    "nl": "Augsburg onderhoudt de band met Brecht via een Brechthuis en festivalprojecten rond zijn nalatenschap.",
+    "pl": "Augsburg pielęgnuje związek z Brechtem poprzez Dom Brechta i projekty festiwalowe poświęcone jego dziedzictwu.",
+    "tr": "Augsburg, Brecht ile bağını Brecht Evi ve onun mirasına adanmış festival projeleriyle sürdürüyor.",
+    "zh": "奥格斯堡通过布莱希特故居和纪念其遗产的节庆项目保持与他的联系。",
+    "ja": "アウクスブルクは、ブレヒト・ハウスや彼の遺産に捧げられたフェスティバル企画を通じて、ブレヒトとのつながりを保っています。",
+    "ko": "아우크스부르크는 브레히트 하우스와 그의 유산을 기리는 축제 프로젝트를 통해 브레히트와의 관계를 이어 가고 있습니다.",
+    "hi": "ऑग्सबुर्ग ब्रेख्त हाउस और उनकी विरासत को समर्पित उत्सव परियोजनाओं के माध्यम से ब्रेख्त से अपना संबंध बनाए रखता है।",
+    "ar": "تحافظ أوغسبورغ على صلتها ببريشت من خلال بيت بريشت ومشروعات مهرجانية مخصصة لإرثه."
   },
   "sources": [
     {

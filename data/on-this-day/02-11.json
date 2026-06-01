@@ -11,17 +11,53 @@
     "title": {
       "ru": "Фридрих Эберт избран рейхспрезидентом",
       "de": "Friedrich Ebert wird zum Reichspraesidenten gewaehlt",
-      "en": "Friedrich Ebert is elected Reich President"
+      "en": "Friedrich Ebert is elected Reich President",
+      "fr": "Friedrich Ebert est élu président du Reich",
+      "es": "Friedrich Ebert es elegido presidente del Reich",
+      "it": "Friedrich Ebert viene eletto presidente del Reich",
+      "pt": "Friedrich Ebert é eleito presidente do Reich",
+      "nl": "Friedrich Ebert wordt tot rijkspresident gekozen",
+      "pl": "Friedrich Ebert zostaje wybrany prezydentem Rzeszy",
+      "tr": "Friedrich Ebert Reich Cumhurbaşkanı seçildi",
+      "zh": "弗里德里希·艾伯特当选帝国总统",
+      "ja": "フリードリヒ・エーベルトがライヒ大統領に選ばれる",
+      "ko": "프리드리히 에베르트가 라이히 대통령으로 선출되다",
+      "hi": "फ्रीडरिष एबर्ट राइख राष्ट्रपति चुने गए",
+      "ar": "انتخاب فريدريش إيبرت رئيسا للرايخ"
     },
     "description": {
       "ru": "11 февраля 1919 года Национальное собрание в Веймаре избрало Фридриха Эберта временным рейхспрезидентом. Он стал первым демократически избранным главой государства в немецкой истории.",
       "de": "Am 11. Februar 1919 waehlte die Nationalversammlung in Weimar Friedrich Ebert zum vorlaeufigen Reichspraesidenten. Er wurde das erste demokratisch gewaehlte Staatsoberhaupt der deutschen Geschichte.",
-      "en": "On 11 February 1919, the National Assembly in Weimar elected Friedrich Ebert provisional Reich President. He became the first democratically elected head of state in German history."
+      "en": "On 11 February 1919, the National Assembly in Weimar elected Friedrich Ebert provisional Reich President. He became the first democratically elected head of state in German history.",
+      "fr": "Le 11 février 1919, l'Assemblée nationale réunie à Weimar élut Friedrich Ebert président provisoire du Reich. Il devint le premier chef d'État élu démocratiquement dans l'histoire allemande.",
+      "es": "El 11 de febrero de 1919, la Asamblea Nacional en Weimar eligió a Friedrich Ebert presidente provisional del Reich. Fue el primer jefe de Estado elegido democráticamente en la historia alemana.",
+      "it": "L'11 febbraio 1919 l'Assemblea nazionale riunita a Weimar elesse Friedrich Ebert presidente provvisorio del Reich. Divenne il primo capo di Stato eletto democraticamente nella storia tedesca.",
+      "pt": "Em 11 de fevereiro de 1919, a Assembleia Nacional em Weimar elegeu Friedrich Ebert presidente provisório do Reich. Ele tornou-se o primeiro chefe de Estado eleito democraticamente na história alemã.",
+      "nl": "Op 11 februari 1919 koos de Nationale Vergadering in Weimar Friedrich Ebert tot voorlopig rijkspresident. Hij werd het eerste democratisch gekozen staatshoofd in de Duitse geschiedenis.",
+      "pl": "11 lutego 1919 roku Zgromadzenie Narodowe w Weimarze wybrało Friedricha Eberta tymczasowym prezydentem Rzeszy. Został pierwszą demokratycznie wybraną głową państwa w historii Niemiec.",
+      "tr": "11 Şubat 1919'da Weimar'daki Ulusal Meclis, Friedrich Ebert'i geçici Reich Cumhurbaşkanı seçti. Alman tarihinde demokratik olarak seçilen ilk devlet başkanı oldu.",
+      "zh": "1919年2月11日，魏玛国民议会选举弗里德里希·艾伯特为临时帝国总统。他成为德国历史上第一位经民主选举产生的国家元首。",
+      "ja": "1919年2月11日、ワイマールの国民議会はフリードリヒ・エーベルトを暫定ライヒ大統領に選出しました。彼はドイツ史上初めて民主的に選ばれた国家元首となりました。",
+      "ko": "1919년 2월 11일, 바이마르 국민의회는 프리드리히 에베르트를 임시 라이히 대통령으로 선출했습니다. 그는 독일 역사상 최초로 민주적으로 선출된 국가 원수가 되었습니다.",
+      "hi": "11 फ़रवरी 1919 को वाइमर में राष्ट्रीय सभा ने फ्रीडरिष एबर्ट को अस्थायी राइख राष्ट्रपति चुना। वे जर्मन इतिहास में लोकतांत्रिक रूप से चुने गए पहले राष्ट्राध्यक्ष बने।",
+      "ar": "في 11 فبراير 1919 انتخبت الجمعية الوطنية في فايمار فريدريش إيبرت رئيسا مؤقتا للرايخ. وأصبح أول رئيس دولة منتخب ديمقراطيا في التاريخ الألماني."
     },
     "importance": {
       "ru": "Дата важна для начала Веймарской республики и перехода Германии от монархии к демократии.",
       "de": "Das Datum ist wichtig fuer den Beginn der Weimarer Republik und den Uebergang Deutschlands von der Monarchie zur Demokratie.",
-      "en": "The date is important for the beginning of the Weimar Republic and Germany's transition from monarchy to democracy."
+      "en": "The date is important for the beginning of the Weimar Republic and Germany's transition from monarchy to democracy.",
+      "fr": "Cette date est importante pour le début de la République de Weimar et le passage de l'Allemagne de la monarchie à la démocratie.",
+      "es": "La fecha es importante para el comienzo de la República de Weimar y la transición de Alemania de la monarquía a la democracia.",
+      "it": "La data è importante per l'inizio della Repubblica di Weimar e per il passaggio della Germania dalla monarchia alla democrazia.",
+      "pt": "A data é importante para o início da República de Weimar e para a transição da Alemanha da monarquia para a democracia.",
+      "nl": "Deze datum is belangrijk voor het begin van de Weimarrepubliek en de overgang van Duitsland van monarchie naar democratie.",
+      "pl": "Ta data jest ważna dla początku Republiki Weimarskiej i przejścia Niemiec od monarchii do demokracji.",
+      "tr": "Bu tarih, Weimar Cumhuriyeti'nin başlangıcı ve Almanya'nın monarşiden demokrasiye geçişi için önemlidir.",
+      "zh": "这个日期对魏玛共和国的开端以及德国从君主制走向民主具有重要意义。",
+      "ja": "この日付は、ワイマール共和国の始まりと、ドイツが君主制から民主主義へ移行したことを示す重要な日です。",
+      "ko": "이 날짜는 바이마르 공화국의 시작과 독일이 군주제에서 민주주의로 전환한 데 중요합니다.",
+      "hi": "यह तारीख वाइमर गणराज्य की शुरुआत और जर्मनी के राजशाही से लोकतंत्र में परिवर्तन के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لبداية جمهورية فايمار وانتقال ألمانيا من الملكية إلى الديمقراطية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Национальное собрание в Веймаре",
           "de": "Die Nationalversammlung in Weimar",
-          "en": "The National Assembly in Weimar"
+          "en": "The National Assembly in Weimar",
+          "fr": "L'Assemblée nationale à Weimar",
+          "es": "La Asamblea Nacional en Weimar",
+          "it": "L'Assemblea nazionale a Weimar",
+          "pt": "A Assembleia Nacional em Weimar",
+          "nl": "De Nationale Vergadering in Weimar",
+          "pl": "Zgromadzenie Narodowe w Weimarze",
+          "tr": "Weimar'daki Ulusal Meclis",
+          "zh": "魏玛国民议会",
+          "ja": "ワイマールの国民議会",
+          "ko": "바이마르 국민의회",
+          "hi": "वाइमर की राष्ट्रीय सभा",
+          "ar": "الجمعية الوطنية في فايمار"
         },
         "description": {
           "ru": "Национальное собрание заседало не в неспокойном Берлине, а в Веймаре. Отсюда и пошло название первой немецкой республики.",
           "de": "Die Nationalversammlung tagte nicht im unruhigen Berlin, sondern in Weimar. Daher stammt der Name der ersten deutschen Republik.",
-          "en": "The National Assembly met not in troubled Berlin but in Weimar. This is where the first German republic got its name."
+          "en": "The National Assembly met not in troubled Berlin but in Weimar. This is where the first German republic got its name.",
+          "fr": "L'Assemblée nationale ne siégea pas dans le Berlin agité, mais à Weimar. C'est de là que vient le nom de la première république allemande.",
+          "es": "La Asamblea Nacional no se reunió en el agitado Berlín, sino en Weimar. De ahí tomó su nombre la primera república alemana.",
+          "it": "L'Assemblea nazionale non si riunì nella turbolenta Berlino, ma a Weimar. Da qui derivò il nome della prima repubblica tedesca.",
+          "pt": "A Assembleia Nacional não se reuniu na agitada Berlim, mas em Weimar. Foi daí que veio o nome da primeira república alemã.",
+          "nl": "De Nationale Vergadering kwam niet bijeen in het onrustige Berlijn, maar in Weimar. Vandaar de naam van de eerste Duitse republiek.",
+          "pl": "Zgromadzenie Narodowe obradowało nie w niespokojnym Berlinie, lecz w Weimarze. Stąd wzięła się nazwa pierwszej niemieckiej republiki.",
+          "tr": "Ulusal Meclis huzursuz Berlin'de değil, Weimar'da toplandı. İlk Alman cumhuriyetinin adı buradan geldi.",
+          "zh": "国民议会没有在动荡的柏林开会，而是在魏玛开会。德国第一个共和国的名称也由此而来。",
+          "ja": "国民議会は混乱していたベルリンではなく、ワイマールで開かれました。最初のドイツ共和国の名前はここに由来します。",
+          "ko": "국민의회는 혼란스러운 베를린이 아니라 바이마르에서 열렸습니다. 독일 최초의 공화국 이름은 여기에서 나왔습니다.",
+          "hi": "राष्ट्रीय सभा अशांत बर्लिन में नहीं, बल्कि वाइमर में बैठी। पहली जर्मन गणराज्य का नाम यहीं से आया।",
+          "ar": "لم تجتمع الجمعية الوطنية في برلين المضطربة، بل في فايمار. ومن هنا جاء اسم أول جمهورية ألمانية."
         },
         "importance": {
           "ru": "Место заседания стало названием целой эпохи немецкой истории.",
           "de": "Der Tagungsort wurde zum Namen einer ganzen Epoche deutscher Geschichte.",
-          "en": "The meeting place became the name of an entire era in German history."
+          "en": "The meeting place became the name of an entire era in German history.",
+          "fr": "Le lieu de réunion a donné son nom à toute une époque de l'histoire allemande.",
+          "es": "El lugar de reunión dio nombre a toda una época de la historia alemana.",
+          "it": "Il luogo della riunione diede il nome a un'intera epoca della storia tedesca.",
+          "pt": "O local da reunião deu nome a toda uma época da história alemã.",
+          "nl": "De vergaderplaats werd de naam van een heel tijdperk in de Duitse geschiedenis.",
+          "pl": "Miejsce obrad stało się nazwą całej epoki w historii Niemiec.",
+          "tr": "Toplantı yeri, Alman tarihindeki bütün bir döneme adını verdi.",
+          "zh": "会议地点成为德国历史上整个时代的名称。",
+          "ja": "会議の場所が、ドイツ史の一つの時代全体の名前になりました。",
+          "ko": "회의 장소가 독일 역사에서 한 시대 전체의 이름이 되었습니다.",
+          "hi": "बैठक का स्थान जर्मन इतिहास के पूरे युग का नाम बन गया।",
+          "ar": "أصبح مكان الاجتماع اسما لحقبة كاملة من التاريخ الألماني."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Фридрих Эберт",
           "de": "Friedrich Ebert",
-          "en": "Friedrich Ebert"
+          "en": "Friedrich Ebert",
+          "fr": "Friedrich Ebert",
+          "es": "Friedrich Ebert",
+          "it": "Friedrich Ebert",
+          "pt": "Friedrich Ebert",
+          "nl": "Friedrich Ebert",
+          "pl": "Friedrich Ebert",
+          "tr": "Friedrich Ebert",
+          "zh": "弗里德里希·艾伯特",
+          "ja": "フリードリヒ・エーベルト",
+          "ko": "프리드리히 에베르트",
+          "hi": "फ्रीडरिष एबर्ट",
+          "ar": "فريدريش إيبرت"
         },
         "description": {
           "ru": "Эберт был социал-демократом и выходцем из рабочей среды. В годы революции и первых лет республики он пытался удержать государство от распада и гражданской войны.",
           "de": "Ebert war Sozialdemokrat und stammte aus einem Arbeiterumfeld. In der Revolution und den ersten Jahren der Republik versuchte er, den Staat vor Zerfall und Buergerkrieg zu bewahren.",
-          "en": "Ebert was a Social Democrat from a working-class background. During the revolution and the early republic, he tried to keep the state from collapse and civil war."
+          "en": "Ebert was a Social Democrat from a working-class background. During the revolution and the early republic, he tried to keep the state from collapse and civil war.",
+          "fr": "Ebert était social-démocrate et venait d'un milieu ouvrier. Pendant la révolution et les premières années de la république, il tenta d'empêcher l'État de sombrer dans l'effondrement et la guerre civile.",
+          "es": "Ebert era socialdemócrata y procedía de un entorno obrero. Durante la revolución y los primeros años de la república, intentó evitar el colapso del Estado y la guerra civil.",
+          "it": "Ebert era socialdemocratico e proveniva da un ambiente operaio. Durante la rivoluzione e i primi anni della repubblica cercò di impedire il crollo dello Stato e la guerra civile.",
+          "pt": "Ebert era social-democrata e vinha de um meio operário. Durante a revolução e os primeiros anos da república, tentou impedir o colapso do Estado e a guerra civil.",
+          "nl": "Ebert was sociaaldemocraat en kwam uit een arbeidersmilieu. Tijdens de revolutie en de eerste jaren van de republiek probeerde hij de staat te behoeden voor instorting en burgeroorlog.",
+          "pl": "Ebert był socjaldemokratą i pochodził ze środowiska robotniczego. W czasie rewolucji i pierwszych lat republiki próbował uchronić państwo przed rozpadem i wojną domową.",
+          "tr": "Ebert işçi kökenli bir sosyal demokrattı. Devrim sırasında ve cumhuriyetin ilk yıllarında devleti çöküşten ve iç savaştan korumaya çalıştı.",
+          "zh": "艾伯特是一名出身工人阶层的社会民主党人。在革命和共和国初期，他试图阻止国家崩溃和内战。",
+          "ja": "エーベルトは労働者階級出身の社会民主主義者でした。革命期と共和国初期に、彼は国家の崩壊と内戦を防ごうとしました。",
+          "ko": "에베르트는 노동자 계층 출신의 사회민주주의자였습니다. 혁명기와 공화국 초기 몇 년 동안 그는 국가의 붕괴와 내전을 막으려 했습니다.",
+          "hi": "एबर्ट श्रमिक पृष्ठभूमि से आए सोशल डेमोक्रेट थे। क्रांति और गणराज्य के शुरुआती वर्षों में उन्होंने राज्य को विघटन और गृहयुद्ध से बचाने की कोशिश की।",
+          "ar": "كان إيبرت اشتراكيا ديمقراطيا من خلفية عمالية. وخلال الثورة والسنوات الأولى للجمهورية حاول حماية الدولة من الانهيار والحرب الأهلية."
         },
         "importance": {
           "ru": "Его роль остаётся спорной, но без Эберта трудно понять первые годы Веймара.",
           "de": "Seine Rolle bleibt umstritten, doch ohne Ebert sind die ersten Jahre Weimars kaum zu verstehen.",
-          "en": "His role remains controversial, but the early years of Weimar are hard to understand without him."
+          "en": "His role remains controversial, but the early years of Weimar are hard to understand without him.",
+          "fr": "Son rôle reste controversé, mais il est difficile de comprendre les premières années de Weimar sans lui.",
+          "es": "Su papel sigue siendo controvertido, pero los primeros años de Weimar son difíciles de entender sin él.",
+          "it": "Il suo ruolo resta controverso, ma i primi anni di Weimar sono difficili da capire senza di lui.",
+          "pt": "O seu papel continua controverso, mas os primeiros anos de Weimar são difíceis de compreender sem ele.",
+          "nl": "Zijn rol blijft omstreden, maar de eerste jaren van Weimar zijn moeilijk zonder hem te begrijpen.",
+          "pl": "Jego rola pozostaje sporna, ale bez Eberta trudno zrozumieć pierwsze lata Weimaru.",
+          "tr": "Rolü tartışmalı olmaya devam ediyor, ancak Weimar'ın ilk yıllarını onsuz anlamak zordur.",
+          "zh": "他的作用仍有争议，但如果不了解艾伯特，就很难理解魏玛早期。",
+          "ja": "彼の役割には議論が残りますが、エーベルト抜きにワイマール初期を理解するのは困難です。",
+          "ko": "그의 역할은 여전히 논쟁적이지만, 에베르트 없이 바이마르 초기의 몇 년을 이해하기는 어렵습니다.",
+          "hi": "उनकी भूमिका विवादित बनी हुई है, लेकिन एबर्ट के बिना वाइमर के शुरुआती वर्षों को समझना कठिन है।",
+          "ar": "ما زال دوره محل جدل، لكن من الصعب فهم سنوات فايمار الأولى من دونه."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Эберт получил 277 голосов из 379 в Национальном собрании.",
     "de": "Ebert erhielt in der Nationalversammlung 277 von 379 Stimmen.",
-    "en": "Ebert received 277 of 379 votes in the National Assembly."
+    "en": "Ebert received 277 of 379 votes in the National Assembly.",
+    "fr": "Ebert obtint 277 voix sur 379 à l'Assemblée nationale.",
+    "es": "Ebert recibió 277 de 379 votos en la Asamblea Nacional.",
+    "it": "Ebert ricevette 277 voti su 379 nell'Assemblea nazionale.",
+    "pt": "Ebert recebeu 277 dos 379 votos na Assembleia Nacional.",
+    "nl": "Ebert kreeg 277 van de 379 stemmen in de Nationale Vergadering.",
+    "pl": "Ebert otrzymał 277 z 379 głosów w Zgromadzeniu Narodowym.",
+    "tr": "Ebert, Ulusal Meclis'te 379 oyun 277'sini aldı.",
+    "zh": "艾伯特在国民议会379票中获得277票。",
+    "ja": "エーベルトは国民議会で379票中277票を得ました。",
+    "ko": "에베르트는 국민의회에서 379표 중 277표를 받았습니다.",
+    "hi": "एबर्ट को राष्ट्रीय सभा में 379 में से 277 वोट मिले।",
+    "ar": "حصل إيبرت في الجمعية الوطنية على 277 صوتا من أصل 379."
   },
   "sources": [
     {
