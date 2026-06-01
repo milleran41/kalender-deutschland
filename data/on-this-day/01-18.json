@@ -11,17 +11,53 @@
     "title": {
       "ru": "Провозглашена Германская империя",
       "de": "Das Deutsche Kaiserreich wird ausgerufen",
-      "en": "The German Empire is proclaimed"
+      "en": "The German Empire is proclaimed",
+      "fr": "L'Empire allemand est proclamé",
+      "es": "Se proclama el Imperio alemán",
+      "it": "Viene proclamato l'Impero tedesco",
+      "pt": "O Império Alemão é proclamado",
+      "nl": "Het Duitse Keizerrijk wordt uitgeroepen",
+      "pl": "Proklamowano Cesarstwo Niemieckie",
+      "tr": "Alman İmparatorluğu ilan edilir",
+      "zh": "德意志帝国宣告成立",
+      "ja": "ドイツ帝国が宣言される",
+      "ko": "독일 제국이 선포되다",
+      "hi": "जर्मन साम्राज्य की घोषणा हुई",
+      "ar": "إعلان الإمبراطورية الألمانية"
     },
     "description": {
       "ru": "18 января 1871 года в Зеркальной галерее Версальского дворца прусский король Вильгельм I был провозглашён германским императором. Так возникла Германская империя под ведущей ролью Пруссии.",
       "de": "Am 18. Januar 1871 wurde der preussische Koenig Wilhelm I. im Spiegelsaal von Versailles zum Deutschen Kaiser ausgerufen. Damit entstand das Deutsche Kaiserreich unter preussischer Fuehrung.",
-      "en": "On 18 January 1871, Prussian King Wilhelm I was proclaimed German Emperor in the Hall of Mirrors at Versailles. The German Empire was created under Prussian leadership."
+      "en": "On 18 January 1871, Prussian King Wilhelm I was proclaimed German Emperor in the Hall of Mirrors at Versailles. The German Empire was created under Prussian leadership.",
+      "fr": "Le 18 janvier 1871, le roi de Prusse Guillaume Ier fut proclamé empereur allemand dans la galerie des Glaces du château de Versailles. L'Empire allemand naquit ainsi sous la direction de la Prusse.",
+      "es": "El 18 de enero de 1871, el rey prusiano Guillermo I fue proclamado emperador alemán en la Galería de los Espejos del palacio de Versalles. Así nació el Imperio alemán bajo el liderazgo de Prusia.",
+      "it": "Il 18 gennaio 1871 il re di Prussia Guglielmo I fu proclamato imperatore tedesco nella Galleria degli Specchi della reggia di Versailles. Nacque così l'Impero tedesco sotto la guida della Prussia.",
+      "pt": "Em 18 de janeiro de 1871, o rei prussiano Guilherme I foi proclamado imperador alemão na Galeria dos Espelhos do palácio de Versalhes. Assim surgiu o Império Alemão sob liderança prussiana.",
+      "nl": "Op 18 januari 1871 werd de Pruisische koning Wilhelm I in de Spiegelzaal van het paleis van Versailles tot Duitse keizer uitgeroepen. Zo ontstond het Duitse Keizerrijk onder Pruisische leiding.",
+      "pl": "18 stycznia 1871 roku pruski król Wilhelm I został ogłoszony cesarzem niemieckim w Sali Lustrzanej pałacu wersalskiego. Tak powstało Cesarstwo Niemieckie pod przewodnictwem Prus.",
+      "tr": "18 Ocak 1871'de Prusya Kralı I. Wilhelm, Versailles Sarayı'nın Aynalar Salonu'nda Alman İmparatoru ilan edildi. Böylece Prusya'nın öncülüğünde Alman İmparatorluğu kuruldu.",
+      "zh": "1871年1月18日，普鲁士国王威廉一世在凡尔赛宫镜厅被宣布为德意志皇帝。德意志帝国由此在普鲁士主导下成立。",
+      "ja": "1871年1月18日、プロイセン王ヴィルヘルム1世はヴェルサイユ宮殿の鏡の間でドイツ皇帝として宣言された。こうしてプロイセン主導のもとドイツ帝国が成立した。",
+      "ko": "1871년 1월 18일 프로이센 국왕 빌헬름 1세가 베르사유 궁전 거울의 방에서 독일 황제로 선포되었다. 이렇게 프로이센 주도 아래 독일 제국이 탄생했다.",
+      "hi": "18 जनवरी 1871 को वर्साय महल के दर्पण कक्ष में प्रशिया के राजा विल्हेल्म प्रथम को जर्मन सम्राट घोषित किया गया। इस तरह प्रशिया के नेतृत्व में जर्मन साम्राज्य बना।",
+      "ar": "في 18 يناير 1871 أُعلن ملك بروسيا فيلهلم الأول إمبراطوراً ألمانياً في قاعة المرايا بقصر فرساي. وهكذا نشأت الإمبراطورية الألمانية بقيادة بروسيا."
     },
     "importance": {
       "ru": "Это стало ключевым моментом политического объединения Германии в XIX веке.",
       "de": "Das war ein Schluesselmoment der politischen Einigung Deutschlands im 19. Jahrhundert.",
-      "en": "It was a key moment in Germany's political unification in the nineteenth century."
+      "en": "It was a key moment in Germany's political unification in the nineteenth century.",
+      "fr": "Ce fut un moment clé de l'unification politique de l'Allemagne au XIXe siècle.",
+      "es": "Fue un momento clave en la unificación política de Alemania en el siglo XIX.",
+      "it": "Fu un momento chiave dell'unificazione politica della Germania nel XIX secolo.",
+      "pt": "Foi um momento-chave da unificação política da Alemanha no século XIX.",
+      "nl": "Het was een sleutelmoment in de politieke eenwording van Duitsland in de negentiende eeuw.",
+      "pl": "Był to kluczowy moment politycznego zjednoczenia Niemiec w XIX wieku.",
+      "tr": "Bu, Almanya'nın on dokuzuncu yüzyıldaki siyasi birleşmesinin kilit anıydı.",
+      "zh": "这是19世纪德国政治统一的关键时刻。",
+      "ja": "これは19世紀のドイツ政治的統一における重要な瞬間だった。",
+      "ko": "이는 19세기 독일 정치 통일의 핵심적인 순간이었다.",
+      "hi": "यह उन्नीसवीं सदी में जर्मनी के राजनीतिक एकीकरण का निर्णायक क्षण था।",
+      "ar": "كان ذلك لحظة محورية في التوحيد السياسي لألمانيا في القرن التاسع عشر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Империю объявили не в Берлине",
           "de": "Die Reichsgruendung fand nicht in Berlin statt",
-          "en": "The empire was not proclaimed in Berlin"
+          "en": "The empire was not proclaimed in Berlin",
+          "fr": "L'empire ne fut pas proclamé à Berlin",
+          "es": "El imperio no fue proclamado en Berlín",
+          "it": "L'impero non fu proclamato a Berlino",
+          "pt": "O império não foi proclamado em Berlim",
+          "nl": "Het rijk werd niet in Berlijn uitgeroepen",
+          "pl": "Cesarstwa nie ogłoszono w Berlinie",
+          "tr": "İmparatorluk Berlin'de ilan edilmedi",
+          "zh": "帝国并非在柏林宣告成立",
+          "ja": "帝国はベルリンで宣言されたのではなかった",
+          "ko": "제국은 베를린에서 선포되지 않았다",
+          "hi": "साम्राज्य की घोषणा बर्लिन में नहीं हुई",
+          "ar": "لم تُعلن الإمبراطورية في برلين"
         },
         "description": {
           "ru": "Место церемонии было выбрано во время Франко-прусской войны. Провозглашение в Версале сделало событие особенно болезненным для Франции.",
           "de": "Der Ort der Zeremonie wurde waehrend des Deutsch-Franzoesischen Krieges gewaehlt. Die Ausrufung in Versailles war fuer Frankreich besonders demuetigend.",
-          "en": "The ceremony took place during the Franco-Prussian War. Holding it at Versailles made the event especially painful for France."
+          "en": "The ceremony took place during the Franco-Prussian War. Holding it at Versailles made the event especially painful for France.",
+          "fr": "Le lieu de la cérémonie fut choisi pendant la guerre franco-prussienne. La proclamation à Versailles rendit l'événement particulièrement douloureux pour la France.",
+          "es": "El lugar de la ceremonia fue elegido durante la guerra franco-prusiana. Celebrarla en Versalles hizo que el acontecimiento fuera especialmente doloroso para Francia.",
+          "it": "Il luogo della cerimonia fu scelto durante la guerra franco-prussiana. La proclamazione a Versailles rese l'evento particolarmente doloroso per la Francia.",
+          "pt": "O local da cerimônia foi escolhido durante a Guerra Franco-Prussiana. A proclamação em Versalhes tornou o acontecimento especialmente doloroso para a França.",
+          "nl": "De plaats van de ceremonie werd gekozen tijdens de Frans-Duitse Oorlog. De uitroeping in Versailles maakte de gebeurtenis bijzonder pijnlijk voor Frankrijk.",
+          "pl": "Miejsce ceremonii wybrano podczas wojny francusko-pruskiej. Proklamacja w Wersalu uczyniła to wydarzenie szczególnie bolesnym dla Francji.",
+          "tr": "Törenin yeri Fransa-Prusya Savaşı sırasında seçildi. İlanın Versailles'da yapılması olayı Fransa için özellikle acı verici hale getirdi.",
+          "zh": "仪式地点是在普法战争期间选定的。在凡尔赛举行宣告使这一事件对法国格外痛苦。",
+          "ja": "式典の場所は普仏戦争中に選ばれた。ヴェルサイユでの宣言は、この出来事をフランスにとって特に苦痛なものにした。",
+          "ko": "의식 장소는 프랑스-프로이센 전쟁 중에 선택되었다. 베르사유에서 선포한 것은 프랑스에 특히 고통스러운 사건이 되었다.",
+          "hi": "समारोह का स्थान फ्रांको-प्रशियन युद्ध के दौरान चुना गया था। वर्साय में घोषणा ने इस घटना को फ्रांस के लिए विशेष रूप से पीड़ादायक बना दिया।",
+          "ar": "اختير مكان المراسم أثناء الحرب الفرنسية البروسية. وجعل الإعلان في فرساي الحدث مؤلماً على نحو خاص لفرنسا."
         },
         "importance": {
           "ru": "Дата показывает, как объединение Германии было связано с европейским балансом сил.",
           "de": "Das Datum zeigt, wie eng die deutsche Einigung mit dem europaeischen Machtgleichgewicht verbunden war.",
-          "en": "The date shows how closely German unification was tied to the European balance of power."
+          "en": "The date shows how closely German unification was tied to the European balance of power.",
+          "fr": "Cette date montre à quel point l'unification allemande était liée à l'équilibre européen des puissances.",
+          "es": "La fecha muestra lo estrechamente que la unificación alemana estuvo ligada al equilibrio de poder europeo.",
+          "it": "La data mostra quanto l'unificazione tedesca fosse legata all'equilibrio di potere europeo.",
+          "pt": "A data mostra como a unificação alemã estava ligada ao equilíbrio de poder europeu.",
+          "nl": "De datum laat zien hoe nauw de Duitse eenwording verbonden was met het Europese machtsevenwicht.",
+          "pl": "Ta data pokazuje, jak ściśle zjednoczenie Niemiec było związane z europejską równowagą sił.",
+          "tr": "Bu tarih, Alman birleşmesinin Avrupa güç dengesiyle ne kadar yakından bağlantılı olduğunu gösterir.",
+          "zh": "这个日期显示了德国统一与欧洲力量平衡之间的紧密联系。",
+          "ja": "この日付は、ドイツ統一がヨーロッパの勢力均衡といかに密接に結びついていたかを示している。",
+          "ko": "이 날짜는 독일 통일이 유럽 세력 균형과 얼마나 밀접하게 연결되어 있었는지를 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि जर्मन एकीकरण यूरोप की शक्ति-संतुलन व्यवस्था से कितना गहराई से जुड़ा था।",
+          "ar": "يُظهر هذا التاريخ مدى ارتباط توحيد ألمانيا بتوازن القوى الأوروبي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Бисмарк стал архитектором объединения",
           "de": "Bismarck wird zum Architekten der Einigung",
-          "en": "Bismarck becomes the architect of unification"
+          "en": "Bismarck becomes the architect of unification",
+          "fr": "Bismarck devient l'architecte de l'unification",
+          "es": "Bismarck se convierte en el arquitecto de la unificación",
+          "it": "Bismarck diventa l'architetto dell'unificazione",
+          "pt": "Bismarck torna-se o arquiteto da unificação",
+          "nl": "Bismarck wordt de architect van de eenwording",
+          "pl": "Bismarck staje się architektem zjednoczenia",
+          "tr": "Bismarck birleşmenin mimarı olur",
+          "zh": "俾斯麦成为统一的设计者",
+          "ja": "ビスマルクが統一の設計者となる",
+          "ko": "비스마르크가 통일의 설계자가 되다",
+          "hi": "बिस्मार्क एकीकरण के वास्तुकार बने",
+          "ar": "بسمارك يصبح مهندس التوحيد"
         },
         "description": {
           "ru": "Отто фон Бисмарк уже был главным политиком Северогерманского союза. После 1871 года он стал первым рейхсканцлером новой империи.",
           "de": "Otto von Bismarck war bereits der fuehrende Politiker des Norddeutschen Bundes. Nach 1871 wurde er der erste Reichskanzler des neuen Kaiserreichs.",
-          "en": "Otto von Bismarck was already the leading politician of the North German Confederation. After 1871 he became the first imperial chancellor."
+          "en": "Otto von Bismarck was already the leading politician of the North German Confederation. After 1871 he became the first imperial chancellor.",
+          "fr": "Otto von Bismarck était déjà le principal homme politique de la Confédération de l'Allemagne du Nord. Après 1871, il devint le premier chancelier impérial du nouvel empire.",
+          "es": "Otto von Bismarck ya era el principal político de la Confederación Alemana del Norte. Después de 1871 se convirtió en el primer canciller imperial del nuevo imperio.",
+          "it": "Otto von Bismarck era già il principale politico della Confederazione Tedesca del Nord. Dopo il 1871 divenne il primo cancelliere imperiale del nuovo impero.",
+          "pt": "Otto von Bismarck já era o principal político da Confederação da Alemanha do Norte. Depois de 1871, tornou-se o primeiro chanceler imperial do novo império.",
+          "nl": "Otto von Bismarck was al de leidende politicus van de Noord-Duitse Bond. Na 1871 werd hij de eerste rijkskanselier van het nieuwe keizerrijk.",
+          "pl": "Otto von Bismarck był już głównym politykiem Związku Północnoniemieckiego. Po 1871 roku został pierwszym kanclerzem Rzeszy w nowym cesarstwie.",
+          "tr": "Otto von Bismarck zaten Kuzey Almanya Konfederasyonu'nun önde gelen siyasetçisiydi. 1871'den sonra yeni imparatorluğun ilk imparatorluk şansölyesi oldu.",
+          "zh": "奥托·冯·俾斯麦已经是北德意志邦联的主要政治人物。1871年后，他成为新帝国的首任帝国宰相。",
+          "ja": "オットー・フォン・ビスマルクはすでに北ドイツ連邦の中心的政治家だった。1871年以後、彼は新帝国の初代帝国宰相となった。",
+          "ko": "오토 폰 비스마르크는 이미 북독일 연방의 핵심 정치가였다. 1871년 이후 그는 새 제국의 초대 제국수상이 되었다.",
+          "hi": "ओटो फ़ॉन बिस्मार्क पहले से ही उत्तरी जर्मन संघ के प्रमुख राजनेता थे। 1871 के बाद वे नए साम्राज्य के पहले राइख्सकान्सलर बने।",
+          "ar": "كان أوتو فون بسمارك بالفعل السياسي الأبرز في اتحاد شمال ألمانيا. وبعد عام 1871 أصبح أول مستشار إمبراطوري للإمبراطورية الجديدة."
         },
         "importance": {
           "ru": "Его политика надолго определила устройство и внешнюю политику Германии.",
           "de": "Seine Politik praegte die Ordnung und Aussenpolitik Deutschlands fuer lange Zeit.",
-          "en": "His politics shaped Germany's system and foreign policy for decades."
+          "en": "His politics shaped Germany's system and foreign policy for decades.",
+          "fr": "Sa politique marqua durablement l'organisation et la politique étrangère de l'Allemagne.",
+          "es": "Su política marcó durante mucho tiempo el sistema y la política exterior de Alemania.",
+          "it": "La sua politica plasmò a lungo l'assetto e la politica estera della Germania.",
+          "pt": "Sua política moldou por muito tempo o sistema e a política externa da Alemanha.",
+          "nl": "Zijn politiek bepaalde lange tijd de inrichting en buitenlandse politiek van Duitsland.",
+          "pl": "Jego polityka na długo ukształtowała ustrój i politykę zagraniczną Niemiec.",
+          "tr": "Onun politikası Almanya'nın düzenini ve dış politikasını uzun süre şekillendirdi.",
+          "zh": "他的政策长期塑造了德国的制度和外交政策。",
+          "ja": "彼の政策は、長い間ドイツの体制と外交政策を形作った。",
+          "ko": "그의 정치는 오랫동안 독일의 체제와 외교 정책을 형성했다.",
+          "hi": "उनकी नीतियों ने लंबे समय तक जर्मनी की व्यवस्था और विदेश नीति को आकार दिया।",
+          "ar": "شكّلت سياساته نظام ألمانيا وسياستها الخارجية لفترة طويلة."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Ураган «Кирилл» прошёл по Германии",
           "de": "Orkan Kyrill zieht ueber Deutschland",
-          "en": "Storm Kyrill sweeps across Germany"
+          "en": "Storm Kyrill sweeps across Germany",
+          "fr": "La tempête Kyrill traverse l'Allemagne",
+          "es": "El temporal Kyrill atraviesa Alemania",
+          "it": "La tempesta Kyrill attraversa la Germania",
+          "pt": "A tempestade Kyrill atravessa a Alemanha",
+          "nl": "Storm Kyrill trekt over Duitsland",
+          "pl": "Orkan Cyryl przechodzi przez Niemcy",
+          "tr": "Kyrill fırtınası Almanya'yı etkiler",
+          "zh": "基里尔风暴席卷德国",
+          "ja": "暴風キリルがドイツを通過する",
+          "ko": "폭풍 키릴이 독일을 휩쓸다",
+          "hi": "तूफ़ान किरिल जर्मनी से गुज़रा",
+          "ar": "العاصفة كيريل تجتاح ألمانيا"
         },
         "description": {
           "ru": "18 января 2007 года мощный зимний шторм «Кирилл» нанёс серьёзный ущерб в Германии и других странах Европы. Были нарушены железнодорожное сообщение, электроснабжение и лесное хозяйство.",
           "de": "Am 18. Januar 2007 verursachte der schwere Wintersturm Kyrill in Deutschland und anderen Teilen Europas grosse Schaeden. Bahnverkehr, Stromversorgung und Waelder waren betroffen.",
-          "en": "On 18 January 2007, the severe winter storm Kyrill caused major damage in Germany and other parts of Europe. Rail transport, power supply and forests were affected."
+          "en": "On 18 January 2007, the severe winter storm Kyrill caused major damage in Germany and other parts of Europe. Rail transport, power supply and forests were affected.",
+          "fr": "Le 18 janvier 2007, la violente tempête hivernale Kyrill causa de grands dégâts en Allemagne et dans d'autres régions d'Europe. Le transport ferroviaire, l'alimentation électrique et les forêts furent touchés.",
+          "es": "El 18 de enero de 2007, el fuerte temporal invernal Kyrill causó grandes daños en Alemania y en otras partes de Europa. Se vieron afectados el transporte ferroviario, el suministro eléctrico y los bosques.",
+          "it": "Il 18 gennaio 2007 la violenta tempesta invernale Kyrill causò gravi danni in Germania e in altre parti d'Europa. Furono colpiti il traffico ferroviario, l'approvvigionamento elettrico e le foreste.",
+          "pt": "Em 18 de janeiro de 2007, a forte tempestade de inverno Kyrill causou grandes danos na Alemanha e em outras partes da Europa. O transporte ferroviário, o fornecimento de energia e as florestas foram afetados.",
+          "nl": "Op 18 januari 2007 veroorzaakte de zware winterstorm Kyrill grote schade in Duitsland en andere delen van Europa. Spoorverkeer, stroomvoorziening en bossen werden getroffen.",
+          "pl": "18 stycznia 2007 roku silny zimowy orkan Cyryl spowodował duże szkody w Niemczech i innych częściach Europy. Ucierpiały kolej, dostawy prądu i lasy.",
+          "tr": "18 Ocak 2007'de şiddetli kış fırtınası Kyrill Almanya'da ve Avrupa'nın başka bölgelerinde büyük hasara yol açtı. Demiryolu ulaşımı, elektrik arzı ve ormanlar etkilendi.",
+          "zh": "2007年1月18日，强烈冬季风暴“基里尔”在德国和欧洲其他地区造成重大损失。铁路运输、电力供应和森林都受到影响。",
+          "ja": "2007年1月18日、強い冬の嵐キリルがドイツとヨーロッパ各地に大きな被害をもたらした。鉄道、電力供給、森林が影響を受けた。",
+          "ko": "2007년 1월 18일 강력한 겨울 폭풍 키릴이 독일과 유럽 여러 지역에 큰 피해를 입혔다. 철도 운행, 전력 공급, 숲이 영향을 받았다.",
+          "hi": "18 जनवरी 2007 को शक्तिशाली शीतकालीन तूफ़ान किरिल ने जर्मनी और यूरोप के अन्य हिस्सों में भारी नुकसान पहुँचाया। रेल यातायात, बिजली आपूर्ति और वन प्रभावित हुए।",
+          "ar": "في 18 يناير 2007 تسببت العاصفة الشتوية الشديدة كيريل في أضرار كبيرة في ألمانيا وأجزاء أخرى من أوروبا. وتأثرت حركة السكك الحديدية وإمدادات الكهرباء والغابات."
         },
         "importance": {
           "ru": "Это сильный пример для категории погоды: иногда один шторм меняет жизнь целой страны на несколько дней.",
           "de": "Das ist ein starkes Beispiel fuer die Kategorie Wetter: Ein einzelner Sturm kann das Leben eines ganzen Landes fuer Tage veraendern.",
-          "en": "It is a strong weather example: a single storm can disrupt life across a whole country for days."
+          "en": "It is a strong weather example: a single storm can disrupt life across a whole country for days.",
+          "fr": "C'est un exemple marquant pour la météo : une seule tempête peut perturber la vie de tout un pays pendant plusieurs jours.",
+          "es": "Es un ejemplo claro de la categoría de clima: una sola tormenta puede alterar la vida de todo un país durante días.",
+          "it": "È un esempio forte per la categoria meteo: una sola tempesta può cambiare la vita di un intero paese per giorni.",
+          "pt": "É um forte exemplo para a categoria de clima: uma única tempestade pode alterar a vida de um país inteiro por dias.",
+          "nl": "Het is een sterk voorbeeld voor de categorie weer: één storm kan het leven in een heel land dagenlang ontregelen.",
+          "pl": "To mocny przykład dla kategorii pogody: jeden sztorm może na kilka dni zmienić życie całego kraju.",
+          "tr": "Bu, hava olayları kategorisi için güçlü bir örnektir: tek bir fırtına bütün bir ülkenin yaşamını günlerce aksatabilir.",
+          "zh": "这是天气类别的一个有力例子：一场风暴就能让整个国家的生活中断数日。",
+          "ja": "これは天気カテゴリーの分かりやすい例である。一つの嵐が国全体の生活を数日間混乱させることがある。",
+          "ko": "이는 날씨 범주의 강력한 예다. 한 번의 폭풍이 며칠 동안 한 나라 전체의 생활을 흔들 수 있다.",
+          "hi": "यह मौसम श्रेणी का मजबूत उदाहरण है: एक ही तूफ़ान कई दिनों तक पूरे देश का जीवन बाधित कर सकता है।",
+          "ar": "إنه مثال قوي في فئة الطقس: فعاصفة واحدة قد تعطل حياة بلد كامل لعدة أيام."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "18 января было выбрано не случайно: в этот же день в 1701 году курфюрст Фридрих III короновался как король в Пруссии.",
     "de": "Der 18. Januar war nicht zufaellig gewaehlt: Am selben Tag kroente sich 1701 Kurfuerst Friedrich III. zum Koenig in Preussen.",
-    "en": "18 January was not chosen by chance: on the same day in 1701, Elector Frederick III crowned himself King in Prussia."
+    "en": "18 January was not chosen by chance: on the same day in 1701, Elector Frederick III crowned himself King in Prussia.",
+    "fr": "Le 18 janvier ne fut pas choisi par hasard : le même jour en 1701, l'électeur Frédéric III se couronna roi en Prusse.",
+    "es": "El 18 de enero no fue elegido por casualidad: ese mismo día de 1701, el elector Federico III se coronó rey en Prusia.",
+    "it": "Il 18 gennaio non fu scelto per caso: lo stesso giorno del 1701, l'elettore Federico III si incoronò re in Prussia.",
+    "pt": "O dia 18 de janeiro não foi escolhido por acaso: nesse mesmo dia, em 1701, o eleitor Frederico III coroou-se rei na Prússia.",
+    "nl": "18 januari was niet toevallig gekozen: op dezelfde dag in 1701 kroonde keurvorst Frederik III zichzelf tot koning in Pruisen.",
+    "pl": "18 stycznia nie wybrano przypadkowo: tego samego dnia w 1701 roku elektor Fryderyk III koronował się na króla w Prusach.",
+    "tr": "18 Ocak tesadüfen seçilmedi: aynı gün 1701'de Elektör III. Friedrich kendini Prusya'da kral olarak taçlandırdı.",
+    "zh": "1月18日并非偶然选择：1701年的同一天，选帝侯腓特烈三世加冕为普鲁士国王。",
+    "ja": "1月18日は偶然選ばれたわけではない。同じ日である1701年1月18日、選帝侯フリードリヒ3世がプロイセンの王として戴冠した。",
+    "ko": "1월 18일은 우연히 선택된 날이 아니었다. 1701년 같은 날, 선제후 프리드리히 3세가 프로이센의 왕으로 스스로 대관했다.",
+    "hi": "18 जनवरी संयोग से नहीं चुनी गई थी: इसी दिन 1701 में निर्वाचक फ़्रीडरिख तृतीय ने स्वयं को प्रशिया का राजा ताज पहनाया था।",
+    "ar": "لم يُختر يوم 18 يناير مصادفة: ففي اليوم نفسه عام 1701 توّج الأمير الناخب فريدريش الثالث نفسه ملكاً في بروسيا."
   },
   "sources": [
     {
