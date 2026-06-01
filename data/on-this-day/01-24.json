@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Фридрих Великий",
       "de": "Friedrich der Grosse wird geboren",
-      "en": "Frederick the Great is born"
+      "en": "Frederick the Great is born",
+      "fr": "Naissance de Frédéric le Grand",
+      "es": "Nace Federico el Grande",
+      "it": "Nasce Federico il Grande",
+      "pt": "Nasce Frederico, o Grande",
+      "nl": "Frederik de Grote wordt geboren",
+      "pl": "Urodził się Fryderyk Wielki",
+      "tr": "Büyük Friedrich doğdu",
+      "zh": "腓特烈大帝诞生",
+      "ja": "フリードリヒ大王が生まれる",
+      "ko": "프리드리히 대왕이 태어나다",
+      "hi": "फ़्रेडरिक महान का जन्म हुआ",
+      "ar": "ميلاد فريدريش العظيم"
     },
     "description": {
       "ru": "24 января 1712 года в Берлине родился Фридрих II Прусский, известный как Фридрих Великий. При нём Пруссия стала одной из главных европейских держав.",
       "de": "Am 24. Januar 1712 wurde Friedrich II. von Preussen, bekannt als Friedrich der Grosse, in Berlin geboren. Unter ihm wurde Preussen zu einer der wichtigsten europaeischen Maechte.",
-      "en": "On 24 January 1712, Frederick II of Prussia, known as Frederick the Great, was born in Berlin. Under him, Prussia became one of Europe's major powers."
+      "en": "On 24 January 1712, Frederick II of Prussia, known as Frederick the Great, was born in Berlin. Under him, Prussia became one of Europe's major powers.",
+      "fr": "Le 24 janvier 1712, Frédéric II de Prusse, connu sous le nom de Frédéric le Grand, naquit à Berlin. Sous son règne, la Prusse devint l'une des grandes puissances européennes.",
+      "es": "El 24 de enero de 1712 nació en Berlín Federico II de Prusia, conocido como Federico el Grande. Bajo su reinado, Prusia se convirtió en una de las grandes potencias europeas.",
+      "it": "Il 24 gennaio 1712 nacque a Berlino Federico II di Prussia, noto come Federico il Grande. Sotto di lui la Prussia divenne una delle principali potenze europee.",
+      "pt": "Em 24 de janeiro de 1712, nasceu em Berlim Frederico II da Prússia, conhecido como Frederico, o Grande. Sob seu governo, a Prússia tornou-se uma das grandes potências europeias.",
+      "nl": "Op 24 januari 1712 werd Frederik II van Pruisen, bekend als Frederik de Grote, in Berlijn geboren. Onder hem werd Pruisen een van de grote Europese machten.",
+      "pl": "24 stycznia 1712 roku w Berlinie urodził się Fryderyk II Pruski, znany jako Fryderyk Wielki. Za jego rządów Prusy stały się jedną z głównych potęg europejskich.",
+      "tr": "24 Ocak 1712'de Prusya Kralı II. Friedrich, Büyük Friedrich olarak bilinen hükümdar, Berlin'de doğdu. Onun döneminde Prusya Avrupa'nın büyük güçlerinden biri oldu.",
+      "zh": "1712年1月24日，普鲁士的腓特烈二世，也就是腓特烈大帝，出生于柏林。在他统治下，普鲁士成为欧洲主要强国之一。",
+      "ja": "1712年1月24日、フリードリヒ大王として知られるプロイセン王フリードリヒ2世がベルリンで生まれた。彼のもとでプロイセンはヨーロッパの主要列強の一つとなった。",
+      "ko": "1712년 1월 24일 프리드리히 대왕으로 알려진 프로이센의 프리드리히 2세가 베를린에서 태어났다. 그의 통치 아래 프로이센은 유럽의 주요 강국 중 하나가 되었다.",
+      "hi": "24 जनवरी 1712 को प्रशिया के फ़्रेडरिक द्वितीय, जिन्हें फ़्रेडरिक महान कहा जाता है, का जन्म बर्लिन में हुआ। उनके शासन में प्रशिया यूरोप की प्रमुख शक्तियों में से एक बन गया।",
+      "ar": "في 24 يناير 1712 وُلد في برلين فريدريش الثاني ملك بروسيا، المعروف بفريدريش العظيم. وفي عهده أصبحت بروسيا إحدى القوى الأوروبية الكبرى."
     },
     "importance": {
       "ru": "Фридрих важен для понимания Пруссии, военной истории и немецкого Просвещения XVIII века.",
       "de": "Friedrich ist wichtig fuer das Verstaendnis Preussens, der Militaergeschichte und der deutschen Aufklaerung des 18. Jahrhunderts.",
-      "en": "Frederick is important for understanding Prussia, military history and the German Enlightenment of the 18th century."
+      "en": "Frederick is important for understanding Prussia, military history and the German Enlightenment of the 18th century.",
+      "fr": "Frédéric est important pour comprendre la Prusse, l'histoire militaire et les Lumières allemandes du XVIIIe siècle.",
+      "es": "Federico es importante para entender Prusia, la historia militar y la Ilustración alemana del siglo XVIII.",
+      "it": "Federico è importante per comprendere la Prussia, la storia militare e l'Illuminismo tedesco del XVIII secolo.",
+      "pt": "Frederico é importante para entender a Prússia, a história militar e o Iluminismo alemão do século XVIII.",
+      "nl": "Frederik is belangrijk voor het begrijpen van Pruisen, militaire geschiedenis en de Duitse Verlichting van de achttiende eeuw.",
+      "pl": "Fryderyk jest ważny dla zrozumienia Prus, historii wojskowości i niemieckiego oświecenia XVIII wieku.",
+      "tr": "Friedrich, Prusya'yı, askeri tarihi ve 18. yüzyıl Alman Aydınlanması'nı anlamak için önemlidir.",
+      "zh": "腓特烈对于理解普鲁士、军事史和18世纪德国启蒙运动很重要。",
+      "ja": "フリードリヒは、プロイセン、軍事史、18世紀ドイツ啓蒙主義を理解するうえで重要である。",
+      "ko": "프리드리히는 프로이센, 군사사, 18세기 독일 계몽주의를 이해하는 데 중요하다.",
+      "hi": "फ़्रेडरिक प्रशिया, सैन्य इतिहास और अठारहवीं सदी के जर्मन प्रबोधन को समझने के लिए महत्वपूर्ण हैं।",
+      "ar": "يُعد فريدريش مهماً لفهم بروسيا والتاريخ العسكري والتنوير الألماني في القرن الثامن عشر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Пруссия усиливается",
           "de": "Preussen gewinnt an Macht",
-          "en": "Prussia grows stronger"
+          "en": "Prussia grows stronger",
+          "fr": "La Prusse se renforce",
+          "es": "Prusia se fortalece",
+          "it": "La Prussia si rafforza",
+          "pt": "A Prússia se fortalece",
+          "nl": "Pruisen wordt sterker",
+          "pl": "Prusy rosną w siłę",
+          "tr": "Prusya güçlenir",
+          "zh": "普鲁士变得更强",
+          "ja": "プロイセンが強くなる",
+          "ko": "프로이센이 강해지다",
+          "hi": "प्रशिया मजबूत हुआ",
+          "ar": "بروسيا تزداد قوة"
         },
         "description": {
           "ru": "Став королём, Фридрих вёл войны, расширял влияние Пруссии и строил сильную государственную систему. Его политика сделала Берлин и Потсдам важными центрами власти.",
           "de": "Als Koenig fuehrte Friedrich Kriege, erweiterte den Einfluss Preussens und baute einen starken Staatsapparat aus. Seine Politik machte Berlin und Potsdam zu wichtigen Machtzentren.",
-          "en": "As king, Frederick fought wars, expanded Prussia's influence and built a strong state system. His policies made Berlin and Potsdam important centers of power."
+          "en": "As king, Frederick fought wars, expanded Prussia's influence and built a strong state system. His policies made Berlin and Potsdam important centers of power.",
+          "fr": "Devenu roi, Frédéric mena des guerres, étendit l'influence de la Prusse et développa un appareil d'État puissant. Sa politique fit de Berlin et Potsdam d'importants centres de pouvoir.",
+          "es": "Como rey, Federico libró guerras, amplió la influencia de Prusia y construyó un fuerte sistema estatal. Sus políticas hicieron de Berlín y Potsdam importantes centros de poder.",
+          "it": "Da re, Federico combatté guerre, ampliò l'influenza della Prussia e costruì un forte sistema statale. La sua politica rese Berlino e Potsdam importanti centri di potere.",
+          "pt": "Como rei, Frederico travou guerras, ampliou a influência da Prússia e construiu um forte sistema estatal. Suas políticas fizeram de Berlim e Potsdam importantes centros de poder.",
+          "nl": "Als koning voerde Frederik oorlogen, breidde hij de invloed van Pruisen uit en bouwde hij een sterk staatsapparaat op. Zijn beleid maakte Berlijn en Potsdam tot belangrijke machtscentra.",
+          "pl": "Jako król Fryderyk prowadził wojny, rozszerzał wpływy Prus i budował silny system państwowy. Jego polityka uczyniła Berlin i Poczdam ważnymi ośrodkami władzy.",
+          "tr": "Kral olarak Friedrich savaşlar yürüttü, Prusya'nın etkisini genişletti ve güçlü bir devlet sistemi kurdu. Politikaları Berlin ve Potsdam'ı önemli iktidar merkezleri haline getirdi.",
+          "zh": "作为国王，腓特烈发动战争，扩大普鲁士的影响，并建立强大的国家体系。他的政策使柏林和波茨坦成为重要权力中心。",
+          "ja": "王となったフリードリヒは戦争を行い、プロイセンの影響力を広げ、強力な国家体制を築いた。彼の政策により、ベルリンとポツダムは重要な権力の中心地となった。",
+          "ko": "왕이 된 프리드리히는 전쟁을 벌이고 프로이센의 영향력을 넓혔으며 강력한 국가 체제를 구축했다. 그의 정책은 베를린과 포츠담을 중요한 권력 중심지로 만들었다.",
+          "hi": "राजा बनने के बाद फ़्रेडरिक ने युद्ध लड़े, प्रशिया का प्रभाव बढ़ाया और मजबूत राज्य व्यवस्था बनाई। उनकी नीतियों ने बर्लिन और पॉट्सडाम को सत्ता के महत्वपूर्ण केंद्र बना दिया।",
+          "ar": "بعد أن أصبح ملكاً، خاض فريدريش حروباً ووسّع نفوذ بروسيا وبنى جهاز دولة قوياً. وجعلت سياساته برلين وبوتسدام مركزين مهمين للسلطة."
         },
         "importance": {
           "ru": "Без Пруссии трудно понять дальнейший путь к объединению Германии.",
           "de": "Ohne Preussen ist der spaetere Weg zur deutschen Einigung schwer zu verstehen.",
-          "en": "Without Prussia, the later road to German unification is hard to understand."
+          "en": "Without Prussia, the later road to German unification is hard to understand.",
+          "fr": "Sans la Prusse, il est difficile de comprendre le chemin ultérieur vers l'unification allemande.",
+          "es": "Sin Prusia, es difícil entender el camino posterior hacia la unificación alemana.",
+          "it": "Senza la Prussia è difficile comprendere il percorso successivo verso l'unificazione tedesca.",
+          "pt": "Sem a Prússia, é difícil entender o caminho posterior para a unificação alemã.",
+          "nl": "Zonder Pruisen is de latere weg naar de Duitse eenwording moeilijk te begrijpen.",
+          "pl": "Bez Prus trudno zrozumieć późniejszą drogę do zjednoczenia Niemiec.",
+          "tr": "Prusya olmadan Almanya'nın daha sonraki birleşme yolunu anlamak zordur.",
+          "zh": "没有普鲁士，就很难理解后来德国统一的道路。",
+          "ja": "プロイセンなしには、その後のドイツ統一への道を理解するのは難しい。",
+          "ko": "프로이센 없이는 이후 독일 통일로 가는 길을 이해하기 어렵다.",
+          "hi": "प्रशिया के बिना जर्मनी के बाद के एकीकरण के मार्ग को समझना कठिन है।",
+          "ar": "من دون بروسيا يصعب فهم الطريق اللاحق إلى توحيد ألمانيا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Сан-Суси и придворная культура",
           "de": "Sanssouci und Hofkultur",
-          "en": "Sanssouci and court culture"
+          "en": "Sanssouci and court culture",
+          "fr": "Sanssouci et la culture de cour",
+          "es": "Sanssouci y la cultura cortesana",
+          "it": "Sanssouci e la cultura di corte",
+          "pt": "Sanssouci e a cultura de corte",
+          "nl": "Sanssouci en hofcultuur",
+          "pl": "Sanssouci i kultura dworska",
+          "tr": "Sanssouci ve saray kültürü",
+          "zh": "无忧宫与宫廷文化",
+          "ja": "サンスーシと宮廷文化",
+          "ko": "상수시와 궁정 문화",
+          "hi": "साँसूसी और दरबारी संस्कृति",
+          "ar": "سانسوسي وثقافة البلاط"
         },
         "description": {
           "ru": "Фридрих связан с дворцом Сан-Суси в Потсдаме, музыкой, философией и перепиской с мыслителями Просвещения. Его образ сложнее, чем просто образ военного короля.",
           "de": "Friedrich ist mit Schloss Sanssouci in Potsdam, Musik, Philosophie und dem Austausch mit Denkern der Aufklaerung verbunden. Sein Bild ist komplexer als das eines reinen Kriegskoenigs.",
-          "en": "Frederick is linked with Sanssouci Palace in Potsdam, music, philosophy and exchanges with Enlightenment thinkers. His image is more complex than that of a purely military king."
+          "en": "Frederick is linked with Sanssouci Palace in Potsdam, music, philosophy and exchanges with Enlightenment thinkers. His image is more complex than that of a purely military king.",
+          "fr": "Frédéric est lié au palais de Sanssouci à Potsdam, à la musique, à la philosophie et aux échanges avec les penseurs des Lumières. Son image est plus complexe que celle d'un simple roi guerrier.",
+          "es": "Federico está vinculado con el palacio Sanssouci de Potsdam, la música, la filosofía y el intercambio con pensadores de la Ilustración. Su imagen es más compleja que la de un rey puramente militar.",
+          "it": "Federico è legato al palazzo Sanssouci di Potsdam, alla musica, alla filosofia e agli scambi con i pensatori dell'Illuminismo. La sua immagine è più complessa di quella di un semplice re guerriero.",
+          "pt": "Frederico está ligado ao Palácio de Sanssouci em Potsdam, à música, à filosofia e ao intercâmbio com pensadores do Iluminismo. Sua imagem é mais complexa do que a de um rei apenas militar.",
+          "nl": "Frederik is verbonden met Slot Sanssouci in Potsdam, muziek, filosofie en uitwisseling met denkers van de Verlichting. Zijn beeld is complexer dan dat van een louter militaire koning.",
+          "pl": "Fryderyk wiąże się z pałacem Sanssouci w Poczdamie, muzyką, filozofią i korespondencją z myślicielami oświecenia. Jego obraz jest bardziej złożony niż tylko obraz króla wojownika.",
+          "tr": "Friedrich, Potsdam'daki Sanssouci Sarayı, müzik, felsefe ve Aydınlanma düşünürleriyle kurduğu ilişkilerle bağlantılıdır. Onun imajı yalnızca askeri bir kral imajından daha karmaşıktır.",
+          "zh": "腓特烈与波茨坦的无忧宫、音乐、哲学以及同启蒙思想家的交流相联系。他的形象比单纯的军事国王更复杂。",
+          "ja": "フリードリヒはポツダムのサンスーシ宮殿、音楽、哲学、啓蒙思想家との交流と結びついている。彼のイメージは単なる軍事的な王よりも複雑である。",
+          "ko": "프리드리히는 포츠담의 상수시 궁전, 음악, 철학, 계몽주의 사상가들과의 교류와 연결되어 있다. 그의 이미지는 단순한 군사적 왕의 이미지보다 더 복잡하다.",
+          "hi": "फ़्रेडरिक पॉट्सडाम के साँसूसी महल, संगीत, दर्शन और प्रबोधन के विचारकों से संवाद से जुड़े हैं। उनकी छवि केवल सैन्य राजा की छवि से अधिक जटिल है।",
+          "ar": "يرتبط فريدريش بقصر سانسوسي في بوتسدام وبالموسيقى والفلسفة والتبادل مع مفكري التنوير. وصورته أعقد من مجرد ملك عسكري."
         },
         "importance": {
           "ru": "Это показывает, как политика и культура в XVIII веке часто существовали рядом.",
           "de": "Das zeigt, wie Politik und Kultur im 18. Jahrhundert oft eng beieinander lagen.",
-          "en": "It shows how politics and culture often stood close together in the 18th century."
+          "en": "It shows how politics and culture often stood close together in the 18th century.",
+          "fr": "Cela montre comment la politique et la culture étaient souvent étroitement liées au XVIIIe siècle.",
+          "es": "Muestra cómo la política y la cultura a menudo estuvieron muy próximas en el siglo XVIII.",
+          "it": "Mostra come politica e cultura nel XVIII secolo fossero spesso molto vicine.",
+          "pt": "Isso mostra como política e cultura frequentemente estiveram próximas no século XVIII.",
+          "nl": "Het laat zien hoe politiek en cultuur in de achttiende eeuw vaak dicht bij elkaar stonden.",
+          "pl": "Pokazuje to, jak polityka i kultura w XVIII wieku często istniały blisko siebie.",
+          "tr": "Bu, 18. yüzyılda siyaset ve kültürün çoğu zaman nasıl yan yana durduğunu gösterir.",
+          "zh": "这显示了18世纪政治和文化常常紧密相邻。",
+          "ja": "これは、18世紀に政治と文化がしばしば近い関係にあったことを示している。",
+          "ko": "이는 18세기에 정치와 문화가 종종 서로 가까이 있었음을 보여 준다.",
+          "hi": "यह दिखाता है कि अठारहवीं सदी में राजनीति और संस्कृति अक्सर साथ-साथ मौजूद थीं।",
+          "ar": "يوضح ذلك كيف كانت السياسة والثقافة في القرن الثامن عشر غالباً متقاربتين."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Фридрих Великий играл на флейте и сам сочинял музыку.",
     "de": "Friedrich der Grosse spielte Floete und komponierte selbst Musik.",
-    "en": "Frederick the Great played the flute and composed music himself."
+    "en": "Frederick the Great played the flute and composed music himself.",
+    "fr": "Frédéric le Grand jouait de la flûte et composait lui-même de la musique.",
+    "es": "Federico el Grande tocaba la flauta y componía música él mismo.",
+    "it": "Federico il Grande suonava il flauto e componeva musica personalmente.",
+    "pt": "Frederico, o Grande, tocava flauta e compunha música ele mesmo.",
+    "nl": "Frederik de Grote speelde fluit en componeerde zelf muziek.",
+    "pl": "Fryderyk Wielki grał na flecie i sam komponował muzykę.",
+    "tr": "Büyük Friedrich flüt çalar ve kendisi müzik bestelerdi.",
+    "zh": "腓特烈大帝会吹长笛，并亲自作曲。",
+    "ja": "フリードリヒ大王はフルートを演奏し、自ら作曲もした。",
+    "ko": "프리드리히 대왕은 플루트를 연주했고 직접 음악을 작곡하기도 했다.",
+    "hi": "फ़्रेडरिक महान बाँसुरी बजाते थे और स्वयं संगीत भी रचते थे।",
+    "ar": "كان فريدريش العظيم يعزف الفلوت ويؤلف الموسيقى بنفسه."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Давид Гильберт",
       "de": "David Hilbert wird geboren",
-      "en": "David Hilbert is born"
+      "en": "David Hilbert is born",
+      "fr": "Naissance de David Hilbert",
+      "es": "Nace David Hilbert",
+      "it": "Nasce David Hilbert",
+      "pt": "Nasce David Hilbert",
+      "nl": "David Hilbert wordt geboren",
+      "pl": "Urodził się David Hilbert",
+      "tr": "David Hilbert doğdu",
+      "zh": "大卫·希尔伯特诞生",
+      "ja": "ダフィット・ヒルベルトが生まれる",
+      "ko": "다비트 힐베르트가 태어나다",
+      "hi": "डेविड हिल्बर्ट का जन्म हुआ",
+      "ar": "ميلاد ديفيد هيلبرت"
     },
     "description": {
       "ru": "23 января 1862 года в Кёнигсберге родился Давид Гильберт, один из самых влиятельных немецких математиков. Его работы изменили геометрию, алгебру, математическую логику и физику.",
       "de": "Am 23. Januar 1862 wurde David Hilbert in Koenigsberg geboren, einer der einflussreichsten deutschen Mathematiker. Seine Arbeiten veraenderten Geometrie, Algebra, mathematische Logik und Physik.",
-      "en": "On 23 January 1862, David Hilbert was born in Koenigsberg, one of the most influential German mathematicians. His work changed geometry, algebra, mathematical logic and physics."
+      "en": "On 23 January 1862, David Hilbert was born in Koenigsberg, one of the most influential German mathematicians. His work changed geometry, algebra, mathematical logic and physics.",
+      "fr": "Le 23 janvier 1862, David Hilbert naquit à Königsberg. Il fut l'un des mathématiciens allemands les plus influents. Ses travaux transformèrent la géométrie, l'algèbre, la logique mathématique et la physique.",
+      "es": "El 23 de enero de 1862 nació David Hilbert en Königsberg, uno de los matemáticos alemanes más influyentes. Sus trabajos cambiaron la geometría, el álgebra, la lógica matemática y la física.",
+      "it": "Il 23 gennaio 1862 David Hilbert nacque a Königsberg, uno dei matematici tedeschi più influenti. I suoi lavori cambiarono geometria, algebra, logica matematica e fisica.",
+      "pt": "Em 23 de janeiro de 1862, David Hilbert nasceu em Königsberg, um dos matemáticos alemães mais influentes. Seus trabalhos mudaram a geometria, a álgebra, a lógica matemática e a física.",
+      "nl": "Op 23 januari 1862 werd David Hilbert geboren in Königsberg, een van de invloedrijkste Duitse wiskundigen. Zijn werk veranderde meetkunde, algebra, wiskundige logica en natuurkunde.",
+      "pl": "23 stycznia 1862 roku w Królewcu urodził się David Hilbert, jeden z najbardziej wpływowych niemieckich matematyków. Jego prace zmieniły geometrię, algebrę, logikę matematyczną i fizykę.",
+      "tr": "23 Ocak 1862'de David Hilbert Königsberg'de doğdu; en etkili Alman matematikçilerden biriydi. Çalışmaları geometriyi, cebiri, matematiksel mantığı ve fiziği değiştirdi.",
+      "zh": "1862年1月23日，大卫·希尔伯特出生于柯尼斯堡，他是最有影响力的德国数学家之一。他的工作改变了几何学、代数学、数理逻辑和物理学。",
+      "ja": "1862年1月23日、ダフィット・ヒルベルトがケーニヒスベルクで生まれた。彼は最も影響力のあるドイツの数学者の一人だった。彼の研究は幾何学、代数学、数理論理学、物理学を変えた。",
+      "ko": "1862년 1월 23일 다비트 힐베르트가 쾨니히스베르크에서 태어났다. 그는 가장 영향력 있는 독일 수학자 중 한 명이었다. 그의 연구는 기하학, 대수학, 수리논리학, 물리학을 변화시켰다.",
+      "hi": "23 जनवरी 1862 को डेविड हिल्बर्ट का जन्म कोनिग्सबर्ग में हुआ। वे सबसे प्रभावशाली जर्मन गणितज्ञों में से एक थे। उनके कार्यों ने ज्यामिति, बीजगणित, गणितीय तर्क और भौतिकी को बदल दिया।",
+      "ar": "في 23 يناير 1862 وُلد ديفيد هيلبرت في كونيغسبرغ، وكان أحد أكثر علماء الرياضيات الألمان تأثيراً. غيّرت أعماله الهندسة والجبر والمنطق الرياضي والفيزياء."
     },
     "importance": {
       "ru": "Гильберт показывает, почему Германия и особенно Гёттинген были одним из мировых центров науки начала XX века.",
       "de": "Hilbert zeigt, warum Deutschland und besonders Goettingen zu Beginn des 20. Jahrhunderts ein Weltzentrum der Wissenschaft waren.",
-      "en": "Hilbert shows why Germany, and especially Goettingen, was one of the world's scientific centers in the early twentieth century."
+      "en": "Hilbert shows why Germany, and especially Goettingen, was one of the world's scientific centers in the early twentieth century.",
+      "fr": "Hilbert montre pourquoi l'Allemagne, et surtout Göttingen, fut l'un des centres scientifiques mondiaux au début du XXe siècle.",
+      "es": "Hilbert muestra por qué Alemania, y especialmente Gotinga, fue uno de los centros científicos del mundo a comienzos del siglo XX.",
+      "it": "Hilbert mostra perché la Germania, e soprattutto Gottinga, fu uno dei centri scientifici mondiali all'inizio del XX secolo.",
+      "pt": "Hilbert mostra por que a Alemanha, especialmente Göttingen, foi um dos centros científicos mundiais no início do século XX.",
+      "nl": "Hilbert laat zien waarom Duitsland, en vooral Göttingen, aan het begin van de twintigste eeuw een van de wetenschappelijke centra van de wereld was.",
+      "pl": "Hilbert pokazuje, dlaczego Niemcy, a zwłaszcza Getynga, były na początku XX wieku jednym ze światowych centrów nauki.",
+      "tr": "Hilbert, Almanya'nın ve özellikle Göttingen'in yirminci yüzyılın başında neden dünyanın bilim merkezlerinden biri olduğunu gösterir.",
+      "zh": "希尔伯特说明了为什么德国，尤其是哥廷根，是20世纪初世界科学中心之一。",
+      "ja": "ヒルベルトは、20世紀初頭にドイツ、とりわけゲッティンゲンが世界的な科学の中心地の一つだった理由を示している。",
+      "ko": "힐베르트는 독일, 특히 괴팅겐이 20세기 초 세계 과학 중심지 중 하나였던 이유를 보여 준다.",
+      "hi": "हिल्बर्ट दिखाते हैं कि जर्मनी, और विशेष रूप से गॉटिंगेन, बीसवीं सदी की शुरुआत में दुनिया के वैज्ञानिक केंद्रों में से एक क्यों था।",
+      "ar": "يُظهر هيلبرت لماذا كانت ألمانيا، ولا سيما غوتنغن، أحد مراكز العلم العالمية في بدايات القرن العشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Учёный из Гёттингена",
           "de": "Gelehrter aus Goettingen",
-          "en": "Scholar of Goettingen"
+          "en": "Scholar of Goettingen",
+          "fr": "Savant de Göttingen",
+          "es": "Académico de Gotinga",
+          "it": "Studioso di Gottinga",
+          "pt": "Estudioso de Göttingen",
+          "nl": "Geleerde uit Göttingen",
+          "pl": "Uczony z Getyngi",
+          "tr": "Göttingenli bilim insanı",
+          "zh": "哥廷根的学者",
+          "ja": "ゲッティンゲンの学者",
+          "ko": "괴팅겐의 학자",
+          "hi": "गॉटिंगेन के विद्वान",
+          "ar": "عالم من غوتنغن"
         },
         "description": {
           "ru": "С 1895 года Гильберт работал в Гёттингене, где вокруг университета сложилась мощная математическая школа. Его лекции и ученики влияли на науку далеко за пределами Германии.",
           "de": "Ab 1895 arbeitete Hilbert in Goettingen, wo rund um die Universitaet eine starke mathematische Schule entstand. Seine Vorlesungen und Schueler wirkten weit ueber Deutschland hinaus.",
-          "en": "From 1895, Hilbert worked in Goettingen, where a strong mathematical school developed around the university. His lectures and students influenced science far beyond Germany."
+          "en": "From 1895, Hilbert worked in Goettingen, where a strong mathematical school developed around the university. His lectures and students influenced science far beyond Germany.",
+          "fr": "À partir de 1895, Hilbert travailla à Göttingen, où une forte école mathématique se développa autour de l'université. Ses cours et ses élèves influencèrent la science bien au-delà de l'Allemagne.",
+          "es": "Desde 1895, Hilbert trabajó en Gotinga, donde alrededor de la universidad se formó una poderosa escuela matemática. Sus clases y alumnos influyeron en la ciencia mucho más allá de Alemania.",
+          "it": "Dal 1895 Hilbert lavorò a Gottinga, dove attorno all'università nacque una forte scuola matematica. Le sue lezioni e i suoi allievi influenzarono la scienza ben oltre la Germania.",
+          "pt": "A partir de 1895, Hilbert trabalhou em Göttingen, onde se desenvolveu uma forte escola matemática em torno da universidade. Suas aulas e alunos influenciaram a ciência muito além da Alemanha.",
+          "nl": "Vanaf 1895 werkte Hilbert in Göttingen, waar rond de universiteit een sterke wiskundige school ontstond. Zijn colleges en studenten beïnvloedden de wetenschap ver buiten Duitsland.",
+          "pl": "Od 1895 roku Hilbert pracował w Getyndze, gdzie wokół uniwersytetu powstała silna szkoła matematyczna. Jego wykłady i uczniowie wpływali na naukę daleko poza Niemcami.",
+          "tr": "Hilbert 1895'ten itibaren Göttingen'de çalıştı; üniversitenin çevresinde güçlü bir matematik okulu oluştu. Dersleri ve öğrencileri Almanya'nın çok ötesinde bilimi etkiledi.",
+          "zh": "从1895年起，希尔伯特在哥廷根工作，那里围绕大学形成了强大的数学学派。他的讲座和学生对德国以外的科学产生了深远影响。",
+          "ja": "1895年からヒルベルトはゲッティンゲンで働き、大学を中心に強力な数学学派が形成された。彼の講義と学生たちは、ドイツをはるかに越えて科学に影響を与えた。",
+          "ko": "1895년부터 힐베르트는 괴팅겐에서 일했으며, 그곳 대학을 중심으로 강력한 수학 학파가 형성되었다. 그의 강의와 제자들은 독일을 넘어 과학에 큰 영향을 미쳤다.",
+          "hi": "1895 से हिल्बर्ट ने गॉटिंगेन में काम किया, जहाँ विश्वविद्यालय के आसपास एक मजबूत गणितीय परंपरा बनी। उनके व्याख्यानों और विद्यार्थियों ने जर्मनी से बहुत दूर तक विज्ञान को प्रभावित किया।",
+          "ar": "منذ عام 1895 عمل هيلبرت في غوتنغن، حيث نشأت حول الجامعة مدرسة رياضية قوية. أثرت محاضراته وطلابه في العلم خارج ألمانيا بكثير."
         },
         "importance": {
           "ru": "Так одна университетская среда стала частью мировой истории науки.",
           "de": "So wurde ein Universitaetsmilieu Teil der Weltgeschichte der Wissenschaft.",
-          "en": "A university environment thus became part of the world history of science."
+          "en": "A university environment thus became part of the world history of science.",
+          "fr": "Ainsi, un milieu universitaire devint une partie de l'histoire mondiale de la science.",
+          "es": "Así, un entorno universitario se convirtió en parte de la historia mundial de la ciencia.",
+          "it": "Così un ambiente universitario divenne parte della storia mondiale della scienza.",
+          "pt": "Assim, um ambiente universitário tornou-se parte da história mundial da ciência.",
+          "nl": "Zo werd een universitaire omgeving deel van de wereldgeschiedenis van de wetenschap.",
+          "pl": "W ten sposób jedno środowisko uniwersyteckie stało się częścią światowej historii nauki.",
+          "tr": "Böylece bir üniversite ortamı bilim tarihinin dünya çapındaki parçası haline geldi.",
+          "zh": "这样，一个大学环境成为了世界科学史的一部分。",
+          "ja": "こうして一つの大学環境が、世界の科学史の一部となった。",
+          "ko": "이렇게 하나의 대학 환경이 세계 과학사의 일부가 되었다.",
+          "hi": "इस तरह एक विश्वविद्यालयी वातावरण विश्व विज्ञान इतिहास का हिस्सा बन गया।",
+          "ar": "وهكذا أصبحت بيئة جامعية واحدة جزءاً من التاريخ العالمي للعلم."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "23 задачи для будущего",
           "de": "23 Aufgaben fuer die Zukunft",
-          "en": "23 problems for the future"
+          "en": "23 problems for the future",
+          "fr": "23 problèmes pour l'avenir",
+          "es": "23 problemas para el futuro",
+          "it": "23 problemi per il futuro",
+          "pt": "23 problemas para o futuro",
+          "nl": "23 problemen voor de toekomst",
+          "pl": "23 problemy na przyszłość",
+          "tr": "Gelecek için 23 problem",
+          "zh": "面向未来的23个问题",
+          "ja": "未来への23の問題",
+          "ko": "미래를 위한 23가지 문제",
+          "hi": "भविष्य के लिए 23 समस्याएँ",
+          "ar": "23 مسألة للمستقبل"
         },
         "description": {
           "ru": "В 1900 году Гильберт сформулировал знаменитые 23 математические проблемы. Они стали ориентиром для математиков XX века и показали, как один список вопросов может направить целую науку.",
           "de": "Im Jahr 1900 formulierte Hilbert seine beruehmten 23 mathematischen Probleme. Sie wurden zu Leitfragen fuer die Mathematik des 20. Jahrhunderts und zeigten, wie eine Liste von Fragen eine ganze Wissenschaft praegen kann.",
-          "en": "In 1900, Hilbert formulated his famous 23 mathematical problems. They became guideposts for twentieth-century mathematics and showed how one list of questions can shape an entire science."
+          "en": "In 1900, Hilbert formulated his famous 23 mathematical problems. They became guideposts for twentieth-century mathematics and showed how one list of questions can shape an entire science.",
+          "fr": "En 1900, Hilbert formula ses célèbres 23 problèmes mathématiques. Ils devinrent des repères pour les mathématiciens du XXe siècle et montrèrent comment une liste de questions peut orienter toute une science.",
+          "es": "En 1900, Hilbert formuló sus famosos 23 problemas matemáticos. Se convirtieron en guías para los matemáticos del siglo XX y mostraron cómo una lista de preguntas puede orientar toda una ciencia.",
+          "it": "Nel 1900 Hilbert formulò i suoi celebri 23 problemi matematici. Divennero punti di riferimento per i matematici del XX secolo e mostrarono come un elenco di domande possa orientare un'intera scienza.",
+          "pt": "Em 1900, Hilbert formulou seus famosos 23 problemas matemáticos. Eles se tornaram guias para os matemáticos do século XX e mostraram como uma lista de perguntas pode orientar uma ciência inteira.",
+          "nl": "In 1900 formuleerde Hilbert zijn beroemde 23 wiskundige problemen. Ze werden richtingwijzers voor de wiskunde van de twintigste eeuw en lieten zien hoe één lijst vragen een hele wetenschap kan sturen.",
+          "pl": "W 1900 roku Hilbert sformułował swoje słynne 23 problemy matematyczne. Stały się one drogowskazem dla matematyków XX wieku i pokazały, jak jedna lista pytań może ukierunkować całą naukę.",
+          "tr": "1900'de Hilbert ünlü 23 matematik problemini formüle etti. Bunlar yirminci yüzyıl matematiği için yol gösterici oldu ve tek bir soru listesinin bütün bir bilimi nasıl şekillendirebileceğini gösterdi.",
+          "zh": "1900年，希尔伯特提出了著名的23个数学问题。它们成为20世纪数学的路标，也显示了一张问题清单如何影响整门科学的发展。",
+          "ja": "1900年、ヒルベルトは有名な23の数学問題を提示した。それらは20世紀数学の道しるべとなり、一つの問いのリストが科学全体を方向づけ得ることを示した。",
+          "ko": "1900년에 힐베르트는 유명한 23가지 수학 문제를 제시했다. 그것들은 20세기 수학의 길잡이가 되었고, 하나의 질문 목록이 학문 전체를 어떻게 이끌 수 있는지 보여 주었다.",
+          "hi": "1900 में हिल्बर्ट ने अपनी प्रसिद्ध 23 गणितीय समस्याएँ प्रस्तुत कीं। वे बीसवीं सदी के गणितज्ञों के लिए दिशा-सूचक बनीं और दिखाया कि प्रश्नों की एक सूची पूरी विज्ञान शाखा को दिशा दे सकती है।",
+          "ar": "في عام 1900 صاغ هيلبرت مسائله الرياضية الثلاث والعشرين الشهيرة. أصبحت دليلاً لرياضيات القرن العشرين، وأظهرت كيف يمكن لقائمة أسئلة واحدة أن توجه علماً كاملاً."
         },
         "importance": {
           "ru": "Это редкий случай, когда научная программа стала почти картой будущих открытий.",
           "de": "Das ist ein seltener Fall, in dem ein wissenschaftliches Programm fast zu einer Karte kuenftiger Entdeckungen wurde.",
-          "en": "It is a rare case in which a scientific program became almost a map of future discoveries."
+          "en": "It is a rare case in which a scientific program became almost a map of future discoveries.",
+          "fr": "C'est un cas rare où un programme scientifique devint presque une carte des découvertes futures.",
+          "es": "Es un caso raro en el que un programa científico se convirtió casi en un mapa de futuros descubrimientos.",
+          "it": "È un caso raro in cui un programma scientifico divenne quasi una mappa delle scoperte future.",
+          "pt": "É um caso raro em que um programa científico tornou-se quase um mapa de descobertas futuras.",
+          "nl": "Het is een zeldzaam geval waarin een wetenschappelijk programma bijna een kaart van toekomstige ontdekkingen werd.",
+          "pl": "To rzadki przypadek, gdy program naukowy stał się niemal mapą przyszłych odkryć.",
+          "tr": "Bu, bilimsel bir programın neredeyse gelecekteki keşiflerin haritasına dönüştüğü nadir bir örnektir.",
+          "zh": "这是一个罕见的例子：一项科学纲领几乎成为未来发现的地图。",
+          "ja": "これは、科学的プログラムが将来の発見の地図のようになった珍しい例である。",
+          "ko": "이는 과학 프로그램이 미래 발견의 지도처럼 된 드문 사례다.",
+          "hi": "यह दुर्लभ मामला है जब कोई वैज्ञानिक कार्यक्रम भविष्य की खोजों का लगभग नक्शा बन गया।",
+          "ar": "إنها حالة نادرة أصبح فيها برنامج علمي أشبه بخريطة للاكتشافات المستقبلية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Понятие «гильбертово пространство» важно в современной математике и квантовой физике.",
     "de": "Der Begriff Hilbert-Raum ist in moderner Mathematik und Quantenphysik wichtig.",
-    "en": "The concept of Hilbert space is important in modern mathematics and quantum physics."
+    "en": "The concept of Hilbert space is important in modern mathematics and quantum physics.",
+    "fr": "Le concept d'espace de Hilbert est important en mathématiques modernes et en physique quantique.",
+    "es": "El concepto de espacio de Hilbert es importante en la matemática moderna y la física cuántica.",
+    "it": "Il concetto di spazio di Hilbert è importante nella matematica moderna e nella fisica quantistica.",
+    "pt": "O conceito de espaço de Hilbert é importante na matemática moderna e na física quântica.",
+    "nl": "Het begrip Hilbertruimte is belangrijk in de moderne wiskunde en kwantumfysica.",
+    "pl": "Pojęcie przestrzeni Hilberta jest ważne we współczesnej matematyce i fizyce kwantowej.",
+    "tr": "Hilbert uzayı kavramı modern matematikte ve kuantum fiziğinde önemlidir.",
+    "zh": "希尔伯特空间的概念在现代数学和量子物理中很重要。",
+    "ja": "ヒルベルト空間の概念は、現代数学と量子物理学で重要である。",
+    "ko": "힐베르트 공간의 개념은 현대 수학과 양자 물리학에서 중요하다.",
+    "hi": "हिल्बर्ट स्पेस की अवधारणा आधुनिक गणित और क्वांटम भौतिकी में महत्वपूर्ण है।",
+    "ar": "يُعد مفهوم فضاء هيلبرت مهماً في الرياضيات الحديثة والفيزياء الكمية."
   },
   "sources": [
     {
