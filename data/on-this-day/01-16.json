@@ -11,17 +11,53 @@
     "title": {
       "ru": "Гитлер переехал в фюрербункер",
       "de": "Hitler zieht in den Fuehrerbunker",
-      "en": "Hitler moves into the Fuehrerbunker"
+      "en": "Hitler moves into the Fuehrerbunker",
+      "fr": "Hitler s'installe dans le Führerbunker",
+      "es": "Hitler se traslada al Führerbunker",
+      "it": "Hitler si trasferisce nel Führerbunker",
+      "pt": "Hitler muda-se para o Führerbunker",
+      "nl": "Hitler verhuist naar de Führerbunker",
+      "pl": "Hitler przenosi się do Führerbunkra",
+      "tr": "Hitler Führerbunker'e taşınır",
+      "zh": "希特勒搬入元首地堡",
+      "ja": "ヒトラーが総統地下壕へ移る",
+      "ko": "히틀러가 총통벙커로 들어가다",
+      "hi": "हिटलर फ्यूहररबंकर में चला गया",
+      "ar": "هتلر ينتقل إلى قبو الفوهرر"
     },
     "description": {
       "ru": "16 января 1945 года Адольф Гитлер окончательно перенёс свою ставку в подземный фюрербункер в Берлине. Оттуда он руководил последними месяцами войны, пока Красная армия приближалась к столице.",
       "de": "Am 16. Januar 1945 verlegte Adolf Hitler sein Hauptquartier endgueltig in den unterirdischen Fuehrerbunker in Berlin. Von dort aus fuehrte er die letzten Kriegsmonate, waehrend die Rote Armee auf die Hauptstadt vorrueckte.",
-      "en": "On 16 January 1945, Adolf Hitler finally moved his headquarters into the underground Fuehrerbunker in Berlin. From there he directed the final months of the war as the Red Army advanced toward the capital."
+      "en": "On 16 January 1945, Adolf Hitler finally moved his headquarters into the underground Fuehrerbunker in Berlin. From there he directed the final months of the war as the Red Army advanced toward the capital.",
+      "fr": "Le 16 janvier 1945, Adolf Hitler transféra définitivement son quartier général dans le Führerbunker souterrain à Berlin. De là, il dirigea les derniers mois de la guerre tandis que l'Armée rouge avançait vers la capitale.",
+      "es": "El 16 de enero de 1945, Adolf Hitler trasladó definitivamente su cuartel general al Führerbunker subterráneo en Berlín. Desde allí dirigió los últimos meses de la guerra mientras el Ejército Rojo avanzaba hacia la capital.",
+      "it": "Il 16 gennaio 1945 Adolf Hitler trasferì definitivamente il suo quartier generale nel Führerbunker sotterraneo a Berlino. Da lì diresse gli ultimi mesi della guerra mentre l'Armata Rossa avanzava verso la capitale.",
+      "pt": "Em 16 de janeiro de 1945, Adolf Hitler transferiu definitivamente seu quartel-general para o Führerbunker subterrâneo em Berlim. De lá, comandou os últimos meses da guerra enquanto o Exército Vermelho avançava em direção à capital.",
+      "nl": "Op 16 januari 1945 verplaatste Adolf Hitler zijn hoofdkwartier definitief naar de ondergrondse Führerbunker in Berlijn. Van daaruit leidde hij de laatste maanden van de oorlog terwijl het Rode Leger naar de hoofdstad oprukte.",
+      "pl": "16 stycznia 1945 roku Adolf Hitler ostatecznie przeniósł swoją kwaterę główną do podziemnego Führerbunkra w Berlinie. Stamtąd kierował ostatnimi miesiącami wojny, gdy Armia Czerwona zbliżała się do stolicy.",
+      "tr": "16 Ocak 1945'te Adolf Hitler karargâhını kesin olarak Berlin'deki yeraltı Führerbunker'ine taşıdı. Kızıl Ordu başkente doğru ilerlerken savaşın son aylarını buradan yönetti.",
+      "zh": "1945年1月16日，阿道夫·希特勒最终把他的指挥部迁入柏林地下的元首地堡。随着红军逼近首都，他在那里指挥了战争的最后几个月。",
+      "ja": "1945年1月16日、アドルフ・ヒトラーは司令部をベルリンの地下にある総統地下壕へ最終的に移した。赤軍が首都へ迫る中、彼はそこから戦争最後の数か月を指揮した。",
+      "ko": "1945년 1월 16일 아돌프 히틀러는 자신의 본부를 베를린 지하의 총통벙커로 최종 이전했다. 붉은 군대가 수도로 진격하는 가운데 그는 그곳에서 전쟁의 마지막 몇 달을 지휘했다.",
+      "hi": "16 जनवरी 1945 को एडोल्फ हिटलर ने अपना मुख्यालय अंतिम रूप से बर्लिन के भूमिगत फ्यूहररबंकर में स्थानांतरित कर लिया। वहीं से उसने युद्ध के अंतिम महीनों का संचालन किया, जबकि लाल सेना राजधानी की ओर बढ़ रही थी।",
+      "ar": "في 16 يناير 1945 نقل أدولف هتلر مقره نهائياً إلى قبو الفوهرر تحت الأرض في برلين. ومن هناك أدار الأشهر الأخيرة من الحرب بينما كان الجيش الأحمر يتقدم نحو العاصمة."
     },
     "importance": {
       "ru": "Дата символизирует последние месяцы нацистского режима: внешне ещё приказы и пропаганда, а фактически уже военный крах.",
       "de": "Das Datum steht sinnbildlich fuer die letzten Monate des NS-Regimes: nach aussen noch Befehle und Propaganda, tatsaechlich aber bereits militaerischer Zusammenbruch.",
-      "en": "The date symbolizes the final months of the Nazi regime: outwardly still issuing orders and propaganda, but in reality already facing military collapse."
+      "en": "The date symbolizes the final months of the Nazi regime: outwardly still issuing orders and propaganda, but in reality already facing military collapse.",
+      "fr": "Cette date symbolise les derniers mois du régime nazi : extérieurement encore des ordres et de la propagande, mais en réalité déjà l'effondrement militaire.",
+      "es": "La fecha simboliza los últimos meses del régimen nazi: hacia fuera aún órdenes y propaganda, pero en realidad ya un colapso militar.",
+      "it": "La data simboleggia gli ultimi mesi del regime nazista: all'esterno ancora ordini e propaganda, ma in realtà già il crollo militare.",
+      "pt": "A data simboliza os últimos meses do regime nazista: por fora ainda havia ordens e propaganda, mas na realidade já ocorria o colapso militar.",
+      "nl": "De datum symboliseert de laatste maanden van het naziregime: naar buiten toe nog bevelen en propaganda, maar in werkelijkheid al militaire ineenstorting.",
+      "pl": "Ta data symbolizuje ostatnie miesiące reżimu nazistowskiego: na zewnątrz wciąż rozkazy i propaganda, a w rzeczywistości już militarny upadek.",
+      "tr": "Bu tarih Nazi rejiminin son aylarını simgeler: dışarıya hâlâ emirler ve propaganda, gerçekte ise artık askeri çöküş.",
+      "zh": "这个日期象征着纳粹政权的最后几个月：表面上仍有命令和宣传，实际上已面临军事崩溃。",
+      "ja": "この日付はナチ体制最後の数か月を象徴している。外向きにはなお命令と宣伝が続いていたが、実際にはすでに軍事的崩壊に直面していた。",
+      "ko": "이 날짜는 나치 정권의 마지막 몇 달을 상징한다. 겉으로는 여전히 명령과 선전이 이어졌지만, 실제로는 이미 군사적 붕괴에 직면해 있었다.",
+      "hi": "यह तारीख नाजी शासन के अंतिम महीनों का प्रतीक है: बाहर से अभी भी आदेश और प्रचार दिखते थे, लेकिन वास्तविकता में सैन्य पतन शुरू हो चुका था।",
+      "ar": "يرمز هذا التاريخ إلى الأشهر الأخيرة من النظام النازي: أوامر ودعاية في الظاهر، لكن في الواقع كان الانهيار العسكري قد بدأ بالفعل."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Берлин в финальной фазе войны",
           "de": "Berlin in der Endphase des Krieges",
-          "en": "Berlin in the final phase of the war"
+          "en": "Berlin in the final phase of the war",
+          "fr": "Berlin dans la phase finale de la guerre",
+          "es": "Berlín en la fase final de la guerra",
+          "it": "Berlino nella fase finale della guerra",
+          "pt": "Berlim na fase final da guerra",
+          "nl": "Berlijn in de eindfase van de oorlog",
+          "pl": "Berlin w końcowej fazie wojny",
+          "tr": "Savaşın son aşamasında Berlin",
+          "zh": "战争最后阶段的柏林",
+          "ja": "戦争最終局面のベルリン",
+          "ko": "전쟁 마지막 단계의 베를린",
+          "hi": "युद्ध के अंतिम चरण में बर्लिन",
+          "ar": "برلين في المرحلة الأخيرة من الحرب"
         },
         "description": {
           "ru": "В январе 1945 года советское наступление на востоке стало для Германии смертельной угрозой. Берлин готовился к осаде, а нацистское руководство всё сильнее уходило в изоляцию и иллюзии.",
           "de": "Im Januar 1945 wurde die sowjetische Offensive im Osten fuer Deutschland zur existenziellen Bedrohung. Berlin bereitete sich auf die Belagerung vor, waehrend sich die NS-Fuehrung immer staerker in Isolation und Illusionen zurueckzog.",
-          "en": "In January 1945, the Soviet offensive in the east became an existential threat to Germany. Berlin prepared for siege while the Nazi leadership retreated further into isolation and illusions."
+          "en": "In January 1945, the Soviet offensive in the east became an existential threat to Germany. Berlin prepared for siege while the Nazi leadership retreated further into isolation and illusions.",
+          "fr": "En janvier 1945, l'offensive soviétique à l'est devint une menace existentielle pour l'Allemagne. Berlin se préparait au siège, tandis que la direction nazie s'enfermait de plus en plus dans l'isolement et les illusions.",
+          "es": "En enero de 1945, la ofensiva soviética en el este se convirtió en una amenaza existencial para Alemania. Berlín se preparaba para el asedio mientras la dirección nazi se retiraba cada vez más hacia el aislamiento y las ilusiones.",
+          "it": "Nel gennaio 1945 l'offensiva sovietica a est divenne una minaccia esistenziale per la Germania. Berlino si preparava all'assedio, mentre la leadership nazista si ritirava sempre più nell'isolamento e nelle illusioni.",
+          "pt": "Em janeiro de 1945, a ofensiva soviética no leste tornou-se uma ameaça existencial para a Alemanha. Berlim preparava-se para o cerco enquanto a liderança nazista se afastava cada vez mais para o isolamento e as ilusões.",
+          "nl": "In januari 1945 werd het Sovjetoffensief in het oosten een existentiële bedreiging voor Duitsland. Berlijn bereidde zich voor op een belegering, terwijl de nazileiding zich steeds verder terugtrok in isolement en illusies.",
+          "pl": "W styczniu 1945 roku radziecka ofensywa na wschodzie stała się dla Niemiec egzystencjalnym zagrożeniem. Berlin przygotowywał się do oblężenia, a nazistowskie przywództwo coraz bardziej pogrążało się w izolacji i złudzeniach.",
+          "tr": "Ocak 1945'te doğudaki Sovyet taarruzu Almanya için varoluşsal bir tehdit haline geldi. Berlin kuşatmaya hazırlanırken Nazi liderliği giderek daha fazla izolasyona ve hayallere çekildi.",
+          "zh": "1945年1月，苏军在东线的攻势成为德国的生死威胁。柏林准备迎接围城，而纳粹领导层则越来越陷入孤立和幻想。",
+          "ja": "1945年1月、東部でのソ連軍の攻勢はドイツにとって存亡に関わる脅威となった。ベルリンは包囲に備え、ナチ指導部はますます孤立と幻想の中へ閉じこもっていった。",
+          "ko": "1945년 1월 동부에서의 소련 공세는 독일에 실존적 위협이 되었다. 베를린은 포위에 대비했고, 나치 지도부는 점점 더 고립과 환상 속으로 물러났다.",
+          "hi": "जनवरी 1945 में पूर्व में सोवियत आक्रमण जर्मनी के लिए अस्तित्व का खतरा बन गया। बर्लिन घेराबंदी की तैयारी कर रहा था, जबकि नाजी नेतृत्व और अधिक अलगाव और भ्रम में चला गया।",
+          "ar": "في يناير 1945 أصبح الهجوم السوفيتي في الشرق تهديداً وجودياً لألمانيا. كانت برلين تستعد للحصار، بينما انغلق قادة النازية أكثر فأكثر في العزلة والأوهام."
         },
         "importance": {
           "ru": "Это помогает понять, почему конец войны в Германии был одновременно военным, политическим и моральным крахом.",
           "de": "Das hilft zu verstehen, warum das Kriegsende in Deutschland zugleich ein militaerischer, politischer und moralischer Zusammenbruch war.",
-          "en": "It helps explain why the end of the war in Germany was a military, political and moral collapse at the same time."
+          "en": "It helps explain why the end of the war in Germany was a military, political and moral collapse at the same time.",
+          "fr": "Cela aide à comprendre pourquoi la fin de la guerre en Allemagne fut à la fois un effondrement militaire, politique et moral.",
+          "es": "Esto ayuda a entender por qué el final de la guerra en Alemania fue al mismo tiempo un colapso militar, político y moral.",
+          "it": "Questo aiuta a capire perché la fine della guerra in Germania fu insieme un crollo militare, politico e morale.",
+          "pt": "Isso ajuda a entender por que o fim da guerra na Alemanha foi ao mesmo tempo um colapso militar, político e moral.",
+          "nl": "Dit helpt verklaren waarom het einde van de oorlog in Duitsland tegelijk een militaire, politieke en morele ineenstorting was.",
+          "pl": "Pomaga to zrozumieć, dlaczego koniec wojny w Niemczech był jednocześnie załamaniem militarnym, politycznym i moralnym.",
+          "tr": "Bu, Almanya'da savaşın sonunun neden aynı anda askeri, siyasi ve ahlaki bir çöküş olduğunu anlamaya yardımcı olur.",
+          "zh": "这有助于解释为什么德国的战争结束同时是军事、政治和道德上的崩溃。",
+          "ja": "これは、ドイツにおける戦争の終結が軍事的、政治的、道徳的崩壊であった理由を理解する助けになる。",
+          "ko": "이는 독일에서 전쟁의 끝이 왜 군사적, 정치적, 도덕적 붕괴였는지 이해하는 데 도움을 준다.",
+          "hi": "इससे समझने में मदद मिलती है कि जर्मनी में युद्ध का अंत एक साथ सैन्य, राजनीतिक और नैतिक पतन क्यों था।",
+          "ar": "يساعد ذلك على فهم لماذا كانت نهاية الحرب في ألمانيا انهياراً عسكرياً وسياسياً وأخلاقياً في الوقت نفسه."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Место без героизации",
           "de": "Ein Ort ohne Heroisierung",
-          "en": "A place without heroization"
+          "en": "A place without heroization",
+          "fr": "Un lieu sans héroïsation",
+          "es": "Un lugar sin heroización",
+          "it": "Un luogo senza eroizzazione",
+          "pt": "Um lugar sem heroização",
+          "nl": "Een plek zonder verheerlijking",
+          "pl": "Miejsce bez heroizacji",
+          "tr": "Yüceltme olmadan bir yer",
+          "zh": "一个不被英雄化的地点",
+          "ja": "英雄化されない場所",
+          "ko": "영웅화 없는 장소",
+          "hi": "महिमामंडन के बिना एक स्थान",
+          "ar": "مكان بلا تمجيد"
         },
         "description": {
           "ru": "Сегодня место бывшего бункера в Берлине не превращено в памятник поклонения. Информационные таблички объясняют историю, но само место намеренно выглядит буднично.",
           "de": "Heute ist der Ort des frueheren Bunkers in Berlin kein Denkmal der Verehrung. Informationstafeln erklaeren die Geschichte, doch der Ort selbst wirkt bewusst alltaeglich.",
-          "en": "Today the site of the former bunker in Berlin is not turned into a place of veneration. Information boards explain the history, but the place itself is deliberately ordinary."
+          "en": "Today the site of the former bunker in Berlin is not turned into a place of veneration. Information boards explain the history, but the place itself is deliberately ordinary.",
+          "fr": "Aujourd'hui, le site de l'ancien bunker à Berlin n'est pas transformé en lieu de vénération. Des panneaux d'information expliquent l'histoire, mais l'endroit lui-même paraît volontairement ordinaire.",
+          "es": "Hoy el lugar del antiguo búnker en Berlín no se ha convertido en un sitio de veneración. Paneles informativos explican la historia, pero el lugar en sí parece deliberadamente cotidiano.",
+          "it": "Oggi il sito dell'ex bunker a Berlino non è trasformato in un luogo di venerazione. Pannelli informativi spiegano la storia, ma il luogo stesso appare volutamente ordinario.",
+          "pt": "Hoje, o local do antigo bunker em Berlim não foi transformado em lugar de veneração. Placas informativas explicam a história, mas o próprio lugar parece intencionalmente comum.",
+          "nl": "Tegenwoordig is de plek van de voormalige bunker in Berlijn niet veranderd in een plaats van verering. Informatieborden leggen de geschiedenis uit, maar de plek zelf oogt bewust alledaags.",
+          "pl": "Dziś miejsce dawnego bunkra w Berlinie nie zostało zamienione w miejsce czci. Tablice informacyjne wyjaśniają historię, ale samo miejsce celowo wygląda zwyczajnie.",
+          "tr": "Bugün Berlin'deki eski sığınağın bulunduğu yer bir yüceltme mekânına dönüştürülmemiştir. Bilgi panoları tarihi açıklar, ancak yerin kendisi bilinçli olarak sıradan görünür.",
+          "zh": "今天，柏林原地堡所在地并没有被变成崇拜场所。信息牌解释其历史，但这个地点本身被有意保持得很普通。",
+          "ja": "現在、ベルリンの旧地下壕跡は崇拝の場所にはされていない。案内板が歴史を説明しているが、その場所自体は意図的に日常的に見えるようにされている。",
+          "ko": "오늘날 베를린의 옛 벙커 자리에는 숭배의 장소가 조성되어 있지 않다. 안내판이 역사를 설명하지만, 그 장소 자체는 의도적으로 평범하게 보이도록 되어 있다.",
+          "hi": "आज बर्लिन में पूर्व बंकर की जगह को श्रद्धा या पूजा के स्थल में नहीं बदला गया है। सूचना पट्ट इतिहास समझाते हैं, लेकिन जगह स्वयं जानबूझकर साधारण दिखाई देती है।",
+          "ar": "اليوم لم يتحول موقع القبو السابق في برلين إلى مكان للتبجيل. تشرح اللوحات المعلوماتية التاريخ، لكن المكان نفسه يبدو عادياً عن قصد."
         },
         "importance": {
           "ru": "Это пример того, как Германия обращается с местами преступной диктатуры без создания культа.",
           "de": "Das ist ein Beispiel dafuer, wie Deutschland mit Orten einer verbrecherischen Diktatur umgeht, ohne einen Kult zu schaffen.",
-          "en": "It is an example of how Germany handles sites of a criminal dictatorship without creating a cult."
+          "en": "It is an example of how Germany handles sites of a criminal dictatorship without creating a cult.",
+          "fr": "C'est un exemple de la manière dont l'Allemagne traite les lieux d'une dictature criminelle sans créer de culte.",
+          "es": "Es un ejemplo de cómo Alemania trata los lugares de una dictadura criminal sin crear un culto.",
+          "it": "È un esempio di come la Germania tratta i luoghi di una dittatura criminale senza creare un culto.",
+          "pt": "É um exemplo de como a Alemanha lida com locais de uma ditadura criminosa sem criar um culto.",
+          "nl": "Het is een voorbeeld van hoe Duitsland omgaat met plaatsen van een criminele dictatuur zonder een cultus te creëren.",
+          "pl": "To przykład tego, jak Niemcy obchodzą się z miejscami zbrodniczej dyktatury, nie tworząc kultu.",
+          "tr": "Bu, Almanya'nın suçlu bir diktatörlüğün mekânlarıyla kült yaratmadan nasıl başa çıktığının bir örneğidir.",
+          "zh": "这是德国如何处理犯罪独裁政权相关地点而不制造崇拜的例子。",
+          "ja": "これは、ドイツが犯罪的独裁の場所を、崇拝の対象にせず扱う方法の一例である。",
+          "ko": "이는 독일이 범죄적 독재의 장소를 숭배 대상으로 만들지 않고 다루는 방식을 보여 주는 예다.",
+          "hi": "यह उदाहरण है कि जर्मनी अपराधी तानाशाही से जुड़े स्थानों से बिना किसी पंथ या पूजा-भावना के कैसे निपटता है।",
+          "ar": "إنه مثال على كيفية تعامل ألمانيا مع مواقع دكتاتورية إجرامية من دون إنشاء عبادة أو تمجيد."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Фюрербункер находился рядом с рейхсканцелярией, в самом центре Берлина.",
     "de": "Der Fuehrerbunker lag neben der Reichskanzlei im Zentrum Berlins.",
-    "en": "The Fuehrerbunker was next to the Reich Chancellery in central Berlin."
+    "en": "The Fuehrerbunker was next to the Reich Chancellery in central Berlin.",
+    "fr": "Le Führerbunker se trouvait près de la chancellerie du Reich, au centre de Berlin.",
+    "es": "El Führerbunker estaba junto a la Cancillería del Reich, en el centro de Berlín.",
+    "it": "Il Führerbunker si trovava accanto alla Cancelleria del Reich, nel centro di Berlino.",
+    "pt": "O Führerbunker ficava ao lado da Chancelaria do Reich, no centro de Berlim.",
+    "nl": "De Führerbunker lag naast de Rijkskanselarij in het centrum van Berlijn.",
+    "pl": "Führerbunker znajdował się obok Kancelarii Rzeszy, w centrum Berlina.",
+    "tr": "Führerbunker, Berlin'in merkezinde Reich Şansölyeliği'nin yanında bulunuyordu.",
+    "zh": "元首地堡位于柏林市中心的帝国总理府旁边。",
+    "ja": "総統地下壕はベルリン中心部の総統官邸の隣にあった。",
+    "ko": "총통벙커는 베를린 중심부의 국가수상관저 옆에 있었다.",
+    "hi": "फ्यूहररबंकर बर्लिन के केंद्र में राइख चांसलरी के पास था।",
+    "ar": "كان قبو الفوهرر بجوار مستشارية الرايخ في وسط برلين."
   },
   "sources": [
     {

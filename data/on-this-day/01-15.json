@@ -11,17 +11,53 @@
     "title": {
       "ru": "Убиты Роза Люксембург и Карл Либкнехт",
       "de": "Rosa Luxemburg und Karl Liebknecht werden ermordet",
-      "en": "Rosa Luxemburg and Karl Liebknecht are killed"
+      "en": "Rosa Luxemburg and Karl Liebknecht are killed",
+      "fr": "Rosa Luxemburg et Karl Liebknecht sont tués",
+      "es": "Rosa Luxemburg y Karl Liebknecht son asesinados",
+      "it": "Rosa Luxemburg e Karl Liebknecht vengono uccisi",
+      "pt": "Rosa Luxemburg e Karl Liebknecht são mortos",
+      "nl": "Rosa Luxemburg en Karl Liebknecht worden gedood",
+      "pl": "Róża Luksemburg i Karl Liebknecht zostają zabici",
+      "tr": "Rosa Luxemburg ve Karl Liebknecht öldürülür",
+      "zh": "罗莎·卢森堡和卡尔·李卜克内西遇害",
+      "ja": "ローザ・ルクセンブルクとカール・リープクネヒトが殺害される",
+      "ko": "로자 룩셈부르크와 카를 리프크네히트가 살해되다",
+      "hi": "रोज़ा लक्ज़मबर्ग और कार्ल लीबक्नेख्ट की हत्या हुई",
+      "ar": "مقتل روزا لوكسمبورغ وكارل ليبكنخت"
     },
     "description": {
       "ru": "15 января 1919 года в Берлине были убиты лидеры левого движения Роза Люксембург и Карл Либкнехт. Это произошло после подавления январского восстания в первые месяцы Веймарской республики.",
       "de": "Am 15. Januar 1919 wurden in Berlin die linken Fuehrungsfiguren Rosa Luxemburg und Karl Liebknecht ermordet. Dies geschah nach der Niederschlagung des Januaraufstands in den ersten Monaten der Weimarer Republik.",
-      "en": "On 15 January 1919, left-wing leaders Rosa Luxemburg and Karl Liebknecht were killed in Berlin. This happened after the suppression of the January uprising in the first months of the Weimar Republic."
+      "en": "On 15 January 1919, left-wing leaders Rosa Luxemburg and Karl Liebknecht were killed in Berlin. This happened after the suppression of the January uprising in the first months of the Weimar Republic.",
+      "fr": "Le 15 janvier 1919, les dirigeants de gauche Rosa Luxemburg et Karl Liebknecht furent tués à Berlin. Cela se produisit après la répression de l'insurrection de janvier, dans les premiers mois de la république de Weimar.",
+      "es": "El 15 de enero de 1919, los líderes de izquierda Rosa Luxemburg y Karl Liebknecht fueron asesinados en Berlín. Ocurrió después de la represión del levantamiento de enero, en los primeros meses de la República de Weimar.",
+      "it": "Il 15 gennaio 1919 i leader della sinistra Rosa Luxemburg e Karl Liebknecht furono uccisi a Berlino. Accadde dopo la repressione dell'insurrezione di gennaio, nei primi mesi della Repubblica di Weimar.",
+      "pt": "Em 15 de janeiro de 1919, os líderes de esquerda Rosa Luxemburg e Karl Liebknecht foram mortos em Berlim. Isso aconteceu após a repressão do levante de janeiro, nos primeiros meses da República de Weimar.",
+      "nl": "Op 15 januari 1919 werden de linkse leiders Rosa Luxemburg en Karl Liebknecht in Berlijn gedood. Dit gebeurde na het neerslaan van de januari-opstand in de eerste maanden van de Weimarrepubliek.",
+      "pl": "15 stycznia 1919 roku w Berlinie zabito przywódców lewicy, Różę Luksemburg i Karla Liebknechta. Stało się to po stłumieniu powstania styczniowego w pierwszych miesiącach Republiki Weimarskiej.",
+      "tr": "15 Ocak 1919'da sol hareketin liderleri Rosa Luxemburg ve Karl Liebknecht Berlin'de öldürüldü. Bu, Weimar Cumhuriyeti'nin ilk aylarında Ocak ayaklanmasının bastırılmasından sonra gerçekleşti.",
+      "zh": "1919年1月15日，左翼领袖罗莎·卢森堡和卡尔·李卜克内西在柏林遇害。这发生在魏玛共和国最初几个月镇压一月起义之后。",
+      "ja": "1919年1月15日、左派指導者ローザ・ルクセンブルクとカール・リープクネヒトがベルリンで殺害された。これはワイマール共和国初期の数か月に起きた一月蜂起の鎮圧後の出来事だった。",
+      "ko": "1919년 1월 15일 좌파 지도자 로자 룩셈부르크와 카를 리프크네히트가 베를린에서 살해되었다. 이는 바이마르 공화국 초기 몇 달 동안 일어난 1월 봉기가 진압된 뒤 벌어진 일이었다.",
+      "hi": "15 जनवरी 1919 को बर्लिन में वामपंथी नेता रोज़ा लक्ज़मबर्ग और कार्ल लीबक्नेख्ट की हत्या कर दी गई। यह वाइमर गणराज्य के शुरुआती महीनों में जनवरी विद्रोह के दमन के बाद हुआ।",
+      "ar": "في 15 يناير 1919 قُتل في برلين الزعيمان اليساريان روزا لوكسمبورغ وكارل ليبكنخت. حدث ذلك بعد قمع انتفاضة يناير في الأشهر الأولى من جمهورية فايمار."
     },
     "importance": {
       "ru": "Дата показывает, насколько бурным и насильственным было рождение первой немецкой демократии.",
       "de": "Das Datum zeigt, wie unruhig und gewaltsam die Geburt der ersten deutschen Demokratie war.",
-      "en": "The date shows how turbulent and violent the birth of Germany's first democracy was."
+      "en": "The date shows how turbulent and violent the birth of Germany's first democracy was.",
+      "fr": "Cette date montre à quel point la naissance de la première démocratie allemande fut agitée et violente.",
+      "es": "La fecha muestra lo turbulento y violento que fue el nacimiento de la primera democracia alemana.",
+      "it": "La data mostra quanto fu turbolenta e violenta la nascita della prima democrazia tedesca.",
+      "pt": "A data mostra como foi turbulento e violento o nascimento da primeira democracia alemã.",
+      "nl": "De datum laat zien hoe onrustig en gewelddadig de geboorte van Duitslands eerste democratie was.",
+      "pl": "Ta data pokazuje, jak burzliwe i pełne przemocy były narodziny pierwszej niemieckiej demokracji.",
+      "tr": "Bu tarih, Almanya'nın ilk demokrasisinin doğuşunun ne kadar çalkantılı ve şiddet dolu olduğunu gösterir.",
+      "zh": "这个日期显示了德国第一个民主制度诞生时有多么动荡和暴力。",
+      "ja": "この日付は、ドイツ初の民主主義の誕生がいかに混乱し、暴力を伴うものだったかを示している。",
+      "ko": "이 날짜는 독일 최초의 민주주의가 얼마나 혼란스럽고 폭력적인 상황 속에서 탄생했는지를 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि जर्मनी के पहले लोकतंत्र का जन्म कितना अशांत और हिंसक था।",
+      "ar": "يُظهر هذا التاريخ مدى الاضطراب والعنف اللذين رافقا ولادة أول ديمقراطية ألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Роза Люксембург",
           "de": "Rosa Luxemburg",
-          "en": "Rosa Luxemburg"
+          "en": "Rosa Luxemburg",
+          "fr": "Rosa Luxemburg",
+          "es": "Rosa Luxemburg",
+          "it": "Rosa Luxemburg",
+          "pt": "Rosa Luxemburg",
+          "nl": "Rosa Luxemburg",
+          "pl": "Róża Luksemburg",
+          "tr": "Rosa Luxemburg",
+          "zh": "罗莎·卢森堡",
+          "ja": "ローザ・ルクセンブルク",
+          "ko": "로자 룩셈부르크",
+          "hi": "रोज़ा लक्ज़मबर्ग",
+          "ar": "روزا لوكسمبورغ"
         },
         "description": {
           "ru": "Люксембург была теоретиком социализма, публицисткой и яркой критиком войны. Её тексты до сих пор обсуждают в политической истории Европы.",
           "de": "Luxemburg war Sozialismustheoretikerin, Publizistin und eine scharfe Kritikerin des Krieges. Ihre Texte werden in der europaeischen politischen Geschichte bis heute diskutiert.",
-          "en": "Luxemburg was a socialist theorist, writer and sharp critic of war. Her writings are still discussed in European political history."
+          "en": "Luxemburg was a socialist theorist, writer and sharp critic of war. Her writings are still discussed in European political history.",
+          "fr": "Luxemburg était une théoricienne socialiste, publiciste et critique vive de la guerre. Ses écrits sont encore discutés dans l'histoire politique européenne.",
+          "es": "Luxemburg fue teórica socialista, escritora y una dura crítica de la guerra. Sus textos aún se debaten en la historia política europea.",
+          "it": "Luxemburg fu teorica del socialismo, pubblicista e aspra critica della guerra. I suoi scritti sono ancora discussi nella storia politica europea.",
+          "pt": "Luxemburg foi teórica socialista, escritora e crítica severa da guerra. Seus textos ainda são discutidos na história política europeia.",
+          "nl": "Luxemburg was socialistisch theoretica, publiciste en felle criticus van oorlog. Haar teksten worden nog altijd besproken in de Europese politieke geschiedenis.",
+          "pl": "Luksemburg była teoretyczką socjalizmu, publicystką i ostrą krytyczką wojny. Jej teksty wciąż są omawiane w europejskiej historii politycznej.",
+          "tr": "Luxemburg sosyalist bir kuramcı, yazar ve savaşın sert bir eleştirmeniydi. Yazıları Avrupa siyasi tarihinde hâlâ tartışılmaktadır.",
+          "zh": "卢森堡是社会主义理论家、政论作家，也是战争的尖锐批评者。她的著作至今仍在欧洲政治史中被讨论。",
+          "ja": "ルクセンブルクは社会主義の理論家、評論家であり、戦争を鋭く批判した人物だった。彼女の著作は今もヨーロッパ政治史で議論されている。",
+          "ko": "룩셈부르크는 사회주의 이론가이자 저술가였으며 전쟁을 날카롭게 비판했다. 그녀의 글은 오늘날에도 유럽 정치사에서 논의된다.",
+          "hi": "लक्ज़मबर्ग समाजवाद की सिद्धांतकार, लेखिका और युद्ध की तीखी आलोचक थीं। उनके लेख आज भी यूरोपीय राजनीतिक इतिहास में चर्चा का विषय हैं।",
+          "ar": "كانت لوكسمبورغ منظّرة اشتراكية وكاتبة وناقدة حادة للحرب. وما زالت نصوصها تُناقش في التاريخ السياسي الأوروبي حتى اليوم."
         },
         "importance": {
           "ru": "Её судьба соединяет историю революции, прав человека и политического насилия.",
           "de": "Ihr Schicksal verbindet Revolutionsgeschichte, Menschenrechte und politische Gewalt.",
-          "en": "Her fate connects revolutionary history, human rights and political violence."
+          "en": "Her fate connects revolutionary history, human rights and political violence.",
+          "fr": "Son destin relie l'histoire révolutionnaire, les droits humains et la violence politique.",
+          "es": "Su destino conecta la historia revolucionaria, los derechos humanos y la violencia política.",
+          "it": "Il suo destino collega storia rivoluzionaria, diritti umani e violenza politica.",
+          "pt": "Seu destino liga história revolucionária, direitos humanos e violência política.",
+          "nl": "Haar lot verbindt revolutiegeschiedenis, mensenrechten en politiek geweld.",
+          "pl": "Jej los łączy historię rewolucji, prawa człowieka i przemoc polityczną.",
+          "tr": "Onun kaderi devrim tarihini, insan haklarını ve siyasi şiddeti birbirine bağlar.",
+          "zh": "她的命运把革命史、人权和政治暴力联系在一起。",
+          "ja": "彼女の運命は、革命の歴史、人権、政治的暴力を結びつけている。",
+          "ko": "그녀의 운명은 혁명의 역사, 인권, 정치적 폭력을 연결한다.",
+          "hi": "उनका जीवन क्रांति के इतिहास, मानवाधिकारों और राजनीतिक हिंसा को जोड़ता है।",
+          "ar": "يربط مصيرها بين تاريخ الثورة وحقوق الإنسان والعنف السياسي."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Берлине память о Люксембург и Либкнехте до сих пор связана с ежегодными январскими мероприятиями.",
     "de": "In Berlin ist die Erinnerung an Luxemburg und Liebknecht bis heute mit jaehrlichen Veranstaltungen im Januar verbunden.",
-    "en": "In Berlin, the memory of Luxemburg and Liebknecht is still linked with annual events in January."
+    "en": "In Berlin, the memory of Luxemburg and Liebknecht is still linked with annual events in January.",
+    "fr": "À Berlin, la mémoire de Luxemburg et Liebknecht reste liée à des événements annuels en janvier.",
+    "es": "En Berlín, la memoria de Luxemburg y Liebknecht sigue vinculada a actos anuales en enero.",
+    "it": "A Berlino, la memoria di Luxemburg e Liebknecht è ancora legata a eventi annuali in gennaio.",
+    "pt": "Em Berlim, a memória de Luxemburg e Liebknecht ainda está ligada a eventos anuais em janeiro.",
+    "nl": "In Berlijn is de herinnering aan Luxemburg en Liebknecht nog steeds verbonden met jaarlijkse bijeenkomsten in januari.",
+    "pl": "W Berlinie pamięć o Luksemburg i Liebknechcie do dziś wiąże się z corocznymi wydarzeniami w styczniu.",
+    "tr": "Berlin'de Luxemburg ve Liebknecht'in anısı hâlâ ocak ayındaki yıllık etkinliklerle bağlantılıdır.",
+    "zh": "在柏林，对卢森堡和李卜克内西的纪念至今仍与每年一月的活动相连。",
+    "ja": "ベルリンでは、ルクセンブルクとリープクネヒトの記憶は今も毎年一月の行事と結びついている。",
+    "ko": "베를린에서는 룩셈부르크와 리프크네히트에 대한 기억이 오늘날에도 매년 1월 행사와 연결되어 있다.",
+    "hi": "बर्लिन में लक्ज़मबर्ग और लीबक्नेख्ट की स्मृति आज भी हर जनवरी होने वाले कार्यक्रमों से जुड़ी है।",
+    "ar": "في برلين لا تزال ذكرى لوكسمبورغ وليبكنخت مرتبطة بفعاليات سنوية في شهر يناير."
   },
   "sources": [
     {
