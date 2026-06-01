@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вильгельм I стал королём Пруссии",
       "de": "Wilhelm I. wird Koenig von Preussen",
-      "en": "Wilhelm I becomes King of Prussia"
+      "en": "Wilhelm I becomes King of Prussia",
+      "fr": "Guillaume Ier devient roi de Prusse",
+      "es": "Guillermo I se convierte en rey de Prusia",
+      "it": "Guglielmo I diventa re di Prussia",
+      "pt": "Guilherme I torna-se rei da Prússia",
+      "nl": "Wilhelm I wordt koning van Pruisen",
+      "pl": "Wilhelm I zostaje królem Prus",
+      "tr": "I. Wilhelm Prusya Kralı olur",
+      "zh": "威廉一世成为普鲁士国王",
+      "ja": "ヴィルヘルム1世がプロイセン王となる",
+      "ko": "빌헬름 1세가 프로이센 국왕이 되다",
+      "hi": "विल्हेल्म प्रथम प्रशिया का राजा बना",
+      "ar": "أصبح فيلهلم الأول ملكاً على بروسيا"
     },
     "description": {
       "ru": "2 января 1861 года умер прусский король Фридрих Вильгельм IV, и его брат Вильгельм I взошёл на престол. Через десять лет он стал первым германским императором.",
       "de": "Am 2. Januar 1861 starb der preussische Koenig Friedrich Wilhelm IV., und sein Bruder Wilhelm I. bestieg den Thron. Zehn Jahre spaeter wurde er der erste deutsche Kaiser.",
-      "en": "On 2 January 1861, Prussian king Frederick William IV died, and his brother Wilhelm I ascended the throne. Ten years later, he became the first German emperor."
+      "en": "On 2 January 1861, Prussian king Frederick William IV died, and his brother Wilhelm I ascended the throne. Ten years later, he became the first German emperor.",
+      "fr": "Le 2 janvier 1861, le roi de Prusse Frédéric-Guillaume IV mourut, et son frère Guillaume Ier monta sur le trône. Dix ans plus tard, il devint le premier empereur allemand.",
+      "es": "El 2 de enero de 1861 murió el rey prusiano Federico Guillermo IV, y su hermano Guillermo I subió al trono. Diez años después se convirtió en el primer emperador alemán.",
+      "it": "Il 2 gennaio 1861 morì il re prussiano Federico Guglielmo IV e suo fratello Guglielmo I salì al trono. Dieci anni dopo divenne il primo imperatore tedesco.",
+      "pt": "Em 2 de janeiro de 1861, morreu o rei prussiano Frederico Guilherme IV, e seu irmão Guilherme I subiu ao trono. Dez anos depois, ele se tornou o primeiro imperador alemão.",
+      "nl": "Op 2 januari 1861 overleed de Pruisische koning Frederik Willem IV, en zijn broer Wilhelm I besteeg de troon. Tien jaar later werd hij de eerste Duitse keizer.",
+      "pl": "2 stycznia 1861 roku zmarł pruski król Fryderyk Wilhelm IV, a jego brat Wilhelm I wstąpił na tron. Dziesięć lat później został pierwszym cesarzem niemieckim.",
+      "tr": "2 Ocak 1861’de Prusya Kralı IV. Friedrich Wilhelm öldü ve kardeşi I. Wilhelm tahta çıktı. On yıl sonra ilk Alman imparatoru oldu.",
+      "zh": "1861年1月2日，普鲁士国王腓特烈·威廉四世去世，其弟威廉一世继承王位。十年后，他成为第一位德意志皇帝。",
+      "ja": "1861年1月2日、プロイセン王フリードリヒ・ヴィルヘルム4世が死去し、弟のヴィルヘルム1世が王位に就きました。10年後、彼は初代ドイツ皇帝となりました。",
+      "ko": "1861년 1월 2일, 프로이센 국왕 프리드리히 빌헬름 4세가 사망하고 그의 동생 빌헬름 1세가 왕위에 올랐다. 10년 뒤 그는 첫 독일 황제가 되었다.",
+      "hi": "2 जनवरी 1861 को प्रशिया के राजा फ्रेडरिक विल्हेल्म चतुर्थ की मृत्यु हुई और उनके भाई विल्हेल्म प्रथम सिंहासन पर बैठे। दस वर्ष बाद वे पहले जर्मन सम्राट बने।",
+      "ar": "في 2 يناير 1861 توفي ملك بروسيا فريدريش فيلهلم الرابع، واعتلى أخوه فيلهلم الأول العرش. وبعد عشر سنوات أصبح أول إمبراطور ألماني."
     },
     "importance": {
       "ru": "Дата связывает позднюю историю Пруссии с будущим объединением Германии.",
       "de": "Das Datum verbindet die spaete Geschichte Preussens mit der spaeteren deutschen Einigung.",
-      "en": "The date connects late Prussian history with the later unification of Germany."
+      "en": "The date connects late Prussian history with the later unification of Germany.",
+      "fr": "Cette date relie la fin de l’histoire prussienne à la future unification de l’Allemagne.",
+      "es": "La fecha conecta la historia tardía de Prusia con la posterior unificación de Alemania.",
+      "it": "La data collega la tarda storia prussiana alla successiva unificazione della Germania.",
+      "pt": "A data liga a história tardia da Prússia à posterior unificação da Alemanha.",
+      "nl": "De datum verbindt de late Pruisische geschiedenis met de latere Duitse eenwording.",
+      "pl": "Data łączy późną historię Prus z późniejszym zjednoczeniem Niemiec.",
+      "tr": "Bu tarih, geç dönem Prusya tarihini Almanya’nın sonraki birleşmesiyle bağlar.",
+      "zh": "这一日期把普鲁士后期历史与后来的德国统一联系起来。",
+      "ja": "この日付は、後期プロイセン史とその後のドイツ統一を結びつけています。",
+      "ko": "이 날짜는 후기 프로이센 역사와 이후 독일 통일을 연결한다.",
+      "hi": "यह तारीख प्रशिया के अंतिम दौर के इतिहास को बाद के जर्मन एकीकरण से जोड़ती है।",
+      "ar": "يربط هذا التاريخ أواخر تاريخ بروسيا بتوحيد ألمانيا اللاحق."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Пруссия перед эпохой Бисмарка",
           "de": "Preussen vor der Bismarck-Zeit",
-          "en": "Prussia before the Bismarck era"
+          "en": "Prussia before the Bismarck era",
+          "fr": "La Prusse avant l’époque de Bismarck",
+          "es": "Prusia antes de la era de Bismarck",
+          "it": "La Prussia prima dell’epoca di Bismarck",
+          "pt": "A Prússia antes da era Bismarck",
+          "nl": "Pruisen vóór het Bismarck-tijdperk",
+          "pl": "Prusy przed epoką Bismarcka",
+          "tr": "Bismarck döneminden önce Prusya",
+          "zh": "俾斯麦时代之前的普鲁士",
+          "ja": "ビスマルク時代以前のプロイセン",
+          "ko": "비스마르크 시대 이전의 프로이센",
+          "hi": "बिस्मार्क युग से पहले प्रशिया",
+          "ar": "بروسيا قبل عصر بسمارك"
         },
         "description": {
           "ru": "Когда Вильгельм I стал королём, вопрос о военной реформе и роли парламента уже становился всё острее. Вскоре этот конфликт приведёт к назначению Бисмарка.",
           "de": "Als Wilhelm I. Koenig wurde, spitzte sich die Frage der Heeresreform und der Rolle des Parlaments bereits zu. Bald fuehrte dieser Konflikt zur Berufung Bismarcks.",
-          "en": "When Wilhelm I became king, the question of military reform and parliament's role was already becoming sharper. Soon this conflict would lead to Bismarck's appointment."
+          "en": "When Wilhelm I became king, the question of military reform and parliament's role was already becoming sharper. Soon this conflict would lead to Bismarck's appointment.",
+          "fr": "Lorsque Guillaume Ier devint roi, la question de la réforme militaire et du rôle du parlement devenait déjà plus aiguë. Ce conflit conduirait bientôt à la nomination de Bismarck.",
+          "es": "Cuando Guillermo I se convirtió en rey, la cuestión de la reforma militar y del papel del parlamento ya se estaba agudizando. Pronto este conflicto llevaría al nombramiento de Bismarck.",
+          "it": "Quando Guglielmo I divenne re, la questione della riforma militare e del ruolo del parlamento era già sempre più acuta. Presto questo conflitto avrebbe portato alla nomina di Bismarck.",
+          "pt": "Quando Guilherme I se tornou rei, a questão da reforma militar e do papel do parlamento já se tornava mais aguda. Em breve, esse conflito levaria à nomeação de Bismarck.",
+          "nl": "Toen Wilhelm I koning werd, werd de kwestie van legerhervorming en de rol van het parlement al steeds scherper. Al snel zou dit conflict leiden tot de benoeming van Bismarck.",
+          "pl": "Gdy Wilhelm I został królem, spór o reformę wojskową i rolę parlamentu stawał się coraz ostrzejszy. Wkrótce konflikt ten doprowadził do powołania Bismarcka.",
+          "tr": "I. Wilhelm kral olduğunda, askerî reform ve parlamentonun rolü sorunu giderek keskinleşiyordu. Bu çatışma kısa süre sonra Bismarck’ın atanmasına yol açacaktı.",
+          "zh": "威廉一世成为国王时，军事改革和议会角色的问题已经日益尖锐。不久，这场冲突将导致俾斯麦被任命。",
+          "ja": "ヴィルヘルム1世が王となった時、軍制改革と議会の役割をめぐる問題はすでに深刻化していました。やがてこの対立はビスマルクの任命につながります。",
+          "ko": "빌헬름 1세가 왕이 되었을 때, 군제 개혁과 의회의 역할을 둘러싼 문제가 이미 점점 날카로워지고 있었다. 곧 이 갈등은 비스마르크의 임명으로 이어졌다.",
+          "hi": "जब विल्हेल्म प्रथम राजा बने, तब सैन्य सुधार और संसद की भूमिका का प्रश्न पहले ही तीखा होता जा रहा था। जल्द ही यह संघर्ष बिस्मार्क की नियुक्ति तक पहुँचा।",
+          "ar": "عندما أصبح فيلهلم الأول ملكاً، كانت مسألة الإصلاح العسكري ودور البرلمان تزداد حدة. وسرعان ما قاد هذا الصراع إلى تعيين بسمارك."
         },
         "importance": {
           "ru": "Так видно, что объединение Германии выросло из внутренних прусских споров, а не только из внешних войн.",
           "de": "So wird sichtbar, dass die deutsche Einigung aus inneren preussischen Konflikten entstand, nicht nur aus aeusseren Kriegen.",
-          "en": "This shows that German unification grew out of internal Prussian conflicts, not only foreign wars."
+          "en": "This shows that German unification grew out of internal Prussian conflicts, not only foreign wars.",
+          "fr": "Cela montre que l’unification allemande est née aussi de conflits internes prussiens, et pas seulement de guerres extérieures.",
+          "es": "Esto muestra que la unificación alemana surgió de conflictos internos prusianos, no solo de guerras exteriores.",
+          "it": "Questo mostra che l’unificazione tedesca nacque da conflitti interni prussiani, non solo da guerre esterne.",
+          "pt": "Isso mostra que a unificação alemã surgiu de conflitos internos prussianos, não apenas de guerras externas.",
+          "nl": "Dit laat zien dat de Duitse eenwording voortkwam uit interne Pruisische conflicten, niet alleen uit buitenlandse oorlogen.",
+          "pl": "To pokazuje, że zjednoczenie Niemiec wyrosło z wewnętrznych konfliktów pruskich, a nie tylko z wojen zewnętrznych.",
+          "tr": "Bu, Alman birleşmesinin yalnızca dış savaşlardan değil, Prusya içindeki çatışmalardan da doğduğunu gösterir.",
+          "zh": "这说明德国统一不仅来自对外战争，也源于普鲁士内部的冲突。",
+          "ja": "これは、ドイツ統一が対外戦争だけでなく、プロイセン内部の対立からも生まれたことを示しています。",
+          "ko": "이는 독일 통일이 외부 전쟁뿐 아니라 프로이센 내부 갈등에서도 비롯되었음을 보여 준다.",
+          "hi": "यह दिखाता है कि जर्मन एकीकरण केवल बाहरी युद्धों से नहीं, बल्कि प्रशिया के आंतरिक संघर्षों से भी निकला।",
+          "ar": "يُظهر ذلك أن توحيد ألمانيا نشأ أيضاً من صراعات بروسية داخلية، لا من الحروب الخارجية وحدها."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Вильгельм I",
           "de": "Wilhelm I.",
-          "en": "Wilhelm I"
+          "en": "Wilhelm I",
+          "fr": "Guillaume Ier",
+          "es": "Guillermo I",
+          "it": "Guglielmo I",
+          "pt": "Guilherme I",
+          "nl": "Wilhelm I",
+          "pl": "Wilhelm I",
+          "tr": "I. Wilhelm",
+          "zh": "威廉一世",
+          "ja": "ヴィルヘルム1世",
+          "ko": "빌헬름 1세",
+          "hi": "विल्हेल्म प्रथम",
+          "ar": "فيلهلم الأول"
         },
         "description": {
           "ru": "Вильгельм I был осторожным монархом, но именно при нём Пруссия победила в войнах 1860-х и 1870-1871 годов. Его имя стало частью имперской символики новой Германии.",
           "de": "Wilhelm I. war ein vorsichtiger Monarch, doch unter ihm siegte Preussen in den Kriegen der 1860er Jahre und 1870-1871. Sein Name wurde Teil der kaiserlichen Symbolik des neuen Deutschlands.",
-          "en": "Wilhelm I was a cautious monarch, but under him Prussia won the wars of the 1860s and 1870-1871. His name became part of the imperial symbolism of the new Germany."
+          "en": "Wilhelm I was a cautious monarch, but under him Prussia won the wars of the 1860s and 1870-1871. His name became part of the imperial symbolism of the new Germany.",
+          "fr": "Guillaume Ier était un monarque prudent, mais sous son règne la Prusse remporta les guerres des années 1860 et de 1870-1871. Son nom devint une partie de la symbolique impériale de la nouvelle Allemagne.",
+          "es": "Guillermo I fue un monarca prudente, pero bajo su reinado Prusia venció en las guerras de la década de 1860 y de 1870-1871. Su nombre pasó a formar parte de la simbología imperial de la nueva Alemania.",
+          "it": "Guglielmo I era un monarca prudente, ma sotto di lui la Prussia vinse le guerre degli anni 1860 e del 1870-1871. Il suo nome divenne parte della simbologia imperiale della nuova Germania.",
+          "pt": "Guilherme I era um monarca cauteloso, mas sob seu reinado a Prússia venceu as guerras da década de 1860 e de 1870-1871. Seu nome tornou-se parte do simbolismo imperial da nova Alemanha.",
+          "nl": "Wilhelm I was een voorzichtige monarch, maar onder hem won Pruisen de oorlogen van de jaren 1860 en 1870-1871. Zijn naam werd deel van de keizerlijke symboliek van het nieuwe Duitsland.",
+          "pl": "Wilhelm I był ostrożnym monarchą, ale za jego panowania Prusy zwyciężyły w wojnach lat 60. XIX wieku oraz w latach 1870-1871. Jego imię stało się częścią cesarskiej symboliki nowych Niemiec.",
+          "tr": "I. Wilhelm temkinli bir monarktı, ancak onun döneminde Prusya 1860’lardaki ve 1870-1871’deki savaşları kazandı. Adı, yeni Almanya’nın imparatorluk sembollerinin bir parçası oldu.",
+          "zh": "威廉一世是一位谨慎的君主，但在他统治下，普鲁士赢得了19世纪60年代以及1870至1871年的战争。他的名字成为新德国帝国象征的一部分。",
+          "ja": "ヴィルヘルム1世は慎重な君主でしたが、彼の治世下でプロイセンは1860年代および1870-1871年の戦争に勝利しました。彼の名は新しいドイツの帝国的象徴の一部となりました。",
+          "ko": "빌헬름 1세는 신중한 군주였지만, 그의 통치 아래 프로이센은 1860년대와 1870-1871년의 전쟁에서 승리했다. 그의 이름은 새로운 독일의 제국적 상징의 일부가 되었다.",
+          "hi": "विल्हेल्म प्रथम एक सावधान सम्राट थे, लेकिन उन्हीं के शासन में प्रशिया ने 1860 के दशक और 1870-1871 के युद्धों में विजय पाई। उनका नाम नए जर्मनी की साम्राज्यिक प्रतीक-व्यवस्था का हिस्सा बन गया।",
+          "ar": "كان فيلهلم الأول ملكاً حذراً، لكن بروسيا انتصرت في عهده في حروب ستينيات القرن التاسع عشر وحرب 1870-1871. وأصبح اسمه جزءاً من رمزية الإمبراطورية الألمانية الجديدة."
         },
         "importance": {
           "ru": "Его правление помогает понять, почему Пруссия стала ядром Германской империи.",
           "de": "Seine Herrschaft hilft zu verstehen, warum Preussen zum Kern des Deutschen Kaiserreichs wurde.",
-          "en": "His reign helps explain why Prussia became the core of the German Empire."
+          "en": "His reign helps explain why Prussia became the core of the German Empire.",
+          "fr": "Son règne aide à comprendre pourquoi la Prusse est devenue le noyau de l’Empire allemand.",
+          "es": "Su reinado ayuda a explicar por qué Prusia se convirtió en el núcleo del Imperio alemán.",
+          "it": "Il suo regno aiuta a spiegare perché la Prussia divenne il nucleo dell’Impero tedesco.",
+          "pt": "Seu reinado ajuda a explicar por que a Prússia se tornou o núcleo do Império Alemão.",
+          "nl": "Zijn regering helpt verklaren waarom Pruisen de kern van het Duitse Keizerrijk werd.",
+          "pl": "Jego panowanie pomaga wyjaśnić, dlaczego Prusy stały się rdzeniem Cesarstwa Niemieckiego.",
+          "tr": "Onun hükümdarlığı, Prusya’nın neden Alman İmparatorluğu’nun çekirdeği hâline geldiğini açıklar.",
+          "zh": "他的统治有助于解释为什么普鲁士成为德意志帝国的核心。",
+          "ja": "彼の治世は、なぜプロイセンがドイツ帝国の中核となったのかを理解する助けになります。",
+          "ko": "그의 통치는 프로이센이 왜 독일 제국의 핵심이 되었는지를 이해하는 데 도움이 된다.",
+          "hi": "उनका शासन यह समझने में मदद करता है कि प्रशिया जर्मन साम्राज्य का केंद्र क्यों बना।",
+          "ar": "يساعد عهده على فهم سبب تحول بروسيا إلى نواة الإمبراطورية الألمانية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Торжественная коронация Вильгельма I прошла не 2 января, а 18 октября 1861 года в Кёнигсберге.",
     "de": "Die feierliche Kroenung Wilhelms I. fand nicht am 2. Januar, sondern am 18. Oktober 1861 in Koenigsberg statt.",
-    "en": "Wilhelm I's formal coronation took place not on 2 January but on 18 October 1861 in Koenigsberg."
+    "en": "Wilhelm I's formal coronation took place not on 2 January but on 18 October 1861 in Koenigsberg.",
+    "fr": "Le couronnement solennel de Guillaume Ier eut lieu non pas le 2 janvier, mais le 18 octobre 1861 à Königsberg.",
+    "es": "La coronación solemne de Guillermo I no tuvo lugar el 2 de enero, sino el 18 de octubre de 1861 en Königsberg.",
+    "it": "L’incoronazione solenne di Guglielmo I non si svolse il 2 gennaio, ma il 18 ottobre 1861 a Königsberg.",
+    "pt": "A coroação solene de Guilherme I ocorreu não em 2 de janeiro, mas em 18 de outubro de 1861 em Königsberg.",
+    "nl": "De plechtige kroning van Wilhelm I vond niet plaats op 2 januari, maar op 18 oktober 1861 in Königsberg.",
+    "pl": "Uroczysta koronacja Wilhelma I odbyła się nie 2 stycznia, lecz 18 października 1861 roku w Królewcu.",
+    "tr": "I. Wilhelm’in resmî taç giyme töreni 2 Ocak’ta değil, 18 Ekim 1861’de Königsberg’de yapıldı.",
+    "zh": "威廉一世的正式加冕并非在1月2日举行，而是在1861年10月18日于柯尼斯堡举行。",
+    "ja": "ヴィルヘルム1世の正式な戴冠式は1月2日ではなく、1861年10月18日にケーニヒスベルクで行われました。",
+    "ko": "빌헬름 1세의 공식 대관식은 1월 2일이 아니라 1861년 10월 18일 쾨니히스베르크에서 열렸다.",
+    "hi": "विल्हेल्म प्रथम का औपचारिक राज्याभिषेक 2 जनवरी को नहीं, बल्कि 18 अक्टूबर 1861 को कोनिग्सबर्ग में हुआ।",
+    "ar": "لم تُجرَ مراسم تتويج فيلهلم الأول الرسمية في 2 يناير، بل في 18 أكتوبر 1861 في كونيغسبرغ."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Евро появился в наличном обращении",
       "de": "Euro-Bargeld wird eingefuehrt",
-      "en": "Euro cash is introduced"
+      "en": "Euro cash is introduced",
+      "fr": "L’euro fiduciaire est introduit",
+      "es": "Se introduce el efectivo en euros",
+      "it": "Viene introdotto il contante in euro",
+      "pt": "O euro em dinheiro é introduzido",
+      "nl": "Eurocontant geld wordt ingevoerd",
+      "pl": "Wprowadzono gotówkę euro",
+      "tr": "Euro nakit para olarak kullanılmaya başlandı",
+      "zh": "欧元现金开始流通",
+      "ja": "ユーロ現金が導入される",
+      "ko": "유로 현금이 도입되다",
+      "hi": "यूरो नकद मुद्रा शुरू हुई",
+      "ar": "بدء تداول اليورو نقداً"
     },
     "description": {
       "ru": "1 января 2002 года в Германии и других странах еврозоны появились банкноты и монеты евро. Немецкая марка постепенно вышла из повседневного обращения.",
       "de": "Am 1. Januar 2002 wurden in Deutschland und anderen Laendern des Euroraums Euro-Banknoten und -Muenzen eingefuehrt. Die D-Mark verschwand schrittweise aus dem Alltag.",
-      "en": "On 1 January 2002, euro banknotes and coins were introduced in Germany and other euro-area countries. The Deutsche Mark gradually disappeared from everyday use."
+      "en": "On 1 January 2002, euro banknotes and coins were introduced in Germany and other euro-area countries. The Deutsche Mark gradually disappeared from everyday use.",
+      "fr": "Le 1er janvier 2002, les billets et les pièces en euros ont été introduits en Allemagne et dans d’autres pays de la zone euro. Le deutsche mark a progressivement disparu de la vie quotidienne.",
+      "es": "El 1 de enero de 2002 se introdujeron billetes y monedas de euro en Alemania y en otros países de la zona euro. El marco alemán fue desapareciendo poco a poco del uso cotidiano.",
+      "it": "Il 1º gennaio 2002 furono introdotte in Germania e in altri paesi dell’area euro le banconote e le monete in euro. Il marco tedesco scomparve gradualmente dalla vita quotidiana.",
+      "pt": "Em 1º de janeiro de 2002, notas e moedas de euro foram introduzidas na Alemanha e em outros países da zona do euro. O marco alemão desapareceu gradualmente do uso cotidiano.",
+      "nl": "Op 1 januari 2002 werden in Duitsland en andere eurolanden eurobankbiljetten en euromunten ingevoerd. De Duitse mark verdween geleidelijk uit het dagelijks gebruik.",
+      "pl": "1 stycznia 2002 roku w Niemczech i innych krajach strefy euro wprowadzono banknoty i monety euro. Marka niemiecka stopniowo znikała z codziennego obiegu.",
+      "tr": "1 Ocak 2002’de Almanya’da ve diğer avro bölgesi ülkelerinde avro banknotları ve madeni paraları kullanılmaya başlandı. Alman markı günlük hayattan yavaş yavaş çekildi.",
+      "zh": "2002年1月1日，德国和其他欧元区国家开始使用欧元纸币和硬币。德国马克逐渐退出日常流通。",
+      "ja": "2002年1月1日、ドイツと他のユーロ圏諸国でユーロ紙幣と硬貨が導入されました。ドイツマルクは日常生活から徐々に姿を消しました。",
+      "ko": "2002년 1월 1일, 독일과 다른 유로존 국가들에서 유로 지폐와 동전이 도입되었다. 독일 마르크는 일상적인 사용에서 점차 사라졌다.",
+      "hi": "1 जनवरी 2002 को जर्मनी और यूरो क्षेत्र के अन्य देशों में यूरो के नोट और सिक्के शुरू किए गए। जर्मन मार्क धीरे-धीरे रोज़मर्रा के उपयोग से बाहर हो गया।",
+      "ar": "في 1 يناير 2002، طُرحت أوراق وعملات اليورو في ألمانيا ودول أخرى من منطقة اليورو. واختفى المارك الألماني تدريجياً من الاستخدام اليومي."
     },
     "importance": {
       "ru": "Это был очень заметный бытовой символ европейской интеграции.",
       "de": "Das war ein sehr sichtbares Alltagssymbol der europaeischen Integration.",
-      "en": "It was a very visible everyday symbol of European integration."
+      "en": "It was a very visible everyday symbol of European integration.",
+      "fr": "Ce fut un symbole très visible, dans la vie quotidienne, de l’intégration européenne.",
+      "es": "Fue un símbolo cotidiano muy visible de la integración europea.",
+      "it": "Fu un simbolo quotidiano molto visibile dell’integrazione europea.",
+      "pt": "Foi um símbolo cotidiano muito visível da integração europeia.",
+      "nl": "Het was een heel zichtbaar alledaags symbool van Europese integratie.",
+      "pl": "Był to bardzo widoczny, codzienny symbol integracji europejskiej.",
+      "tr": "Bu, Avrupa bütünleşmesinin günlük hayatta çok görünür bir simgesiydi.",
+      "zh": "这是欧洲一体化在日常生活中非常醒目的象征。",
+      "ja": "それは欧州統合を日常生活の中で非常にはっきり示す象徴でした。",
+      "ko": "이는 유럽 통합을 일상에서 매우 분명하게 보여 주는 상징이었다.",
+      "hi": "यह यूरोपीय एकीकरण का रोज़मर्रा की ज़िंदगी में बहुत स्पष्ट प्रतीक था।",
+      "ar": "كان ذلك رمزاً يومياً واضحاً جداً للتكامل الأوروبي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Прощание с немецкой маркой",
           "de": "Abschied von der D-Mark",
-          "en": "Farewell to the Deutsche Mark"
+          "en": "Farewell to the Deutsche Mark",
+          "fr": "Adieu au deutsche mark",
+          "es": "Adiós al marco alemán",
+          "it": "Addio al marco tedesco",
+          "pt": "Adeus ao marco alemão",
+          "nl": "Afscheid van de Duitse mark",
+          "pl": "Pożegnanie z marką niemiecką",
+          "tr": "Alman markına veda",
+          "zh": "告别德国马克",
+          "ja": "ドイツマルクへの別れ",
+          "ko": "독일 마르크와의 작별",
+          "hi": "जर्मन मार्क को विदाई",
+          "ar": "وداعاً للمارك الألماني"
         },
         "description": {
           "ru": "Для многих жителей Германии марка была символом послевоенного восстановления и стабильности. Поэтому переход на евро был не только финансовым, но и эмоциональным событием.",
           "de": "Fuer viele Menschen in Deutschland war die D-Mark ein Symbol fuer Wiederaufbau und Stabilitaet. Der Wechsel zum Euro war deshalb nicht nur finanziell, sondern auch emotional.",
-          "en": "For many people in Germany, the Deutsche Mark symbolized postwar recovery and stability. The switch to the euro was therefore emotional as well as financial."
+          "en": "For many people in Germany, the Deutsche Mark symbolized postwar recovery and stability. The switch to the euro was therefore emotional as well as financial.",
+          "fr": "Pour beaucoup de personnes en Allemagne, le deutsche mark symbolisait la reconstruction et la stabilité d’après-guerre. Le passage à l’euro fut donc un événement émotionnel autant que financier.",
+          "es": "Para muchas personas en Alemania, el marco alemán simbolizaba la reconstrucción y la estabilidad de la posguerra. Por eso el cambio al euro fue un acontecimiento tanto emocional como financiero.",
+          "it": "Per molte persone in Germania, il marco tedesco simboleggiava la ricostruzione e la stabilità del dopoguerra. Il passaggio all’euro fu quindi un evento non solo finanziario, ma anche emotivo.",
+          "pt": "Para muitas pessoas na Alemanha, o marco alemão simbolizava a reconstrução e a estabilidade do pós-guerra. Por isso, a mudança para o euro foi um acontecimento tanto emocional quanto financeiro.",
+          "nl": "Voor veel mensen in Duitsland stond de Duitse mark symbool voor wederopbouw en stabiliteit na de oorlog. De overstap naar de euro was daarom niet alleen financieel, maar ook emotioneel.",
+          "pl": "Dla wielu ludzi w Niemczech marka niemiecka była symbolem powojennej odbudowy i stabilności. Dlatego przejście na euro było wydarzeniem nie tylko finansowym, lecz także emocjonalnym.",
+          "tr": "Almanya’daki birçok insan için Alman markı savaş sonrası toparlanmanın ve istikrarın simgesiydi. Bu yüzden avroya geçiş yalnızca mali değil, aynı zamanda duygusal bir olaydı.",
+          "zh": "对许多德国人来说，德国马克象征着战后重建与稳定。因此，改用欧元不仅是金融事件，也带有情感意义。",
+          "ja": "ドイツの多くの人々にとって、ドイツマルクは戦後復興と安定の象徴でした。そのためユーロへの移行は、金融面だけでなく感情面でも大きな出来事でした。",
+          "ko": "독일의 많은 사람들에게 독일 마르크는 전후 재건과 안정의 상징이었다. 그래서 유로로의 전환은 금융적인 사건일 뿐 아니라 감정적인 사건이기도 했다.",
+          "hi": "जर्मनी में कई लोगों के लिए जर्मन मार्क युद्धोत्तर पुनर्निर्माण और स्थिरता का प्रतीक था। इसलिए यूरो में बदलाव केवल वित्तीय नहीं, बल्कि भावनात्मक घटना भी था।",
+          "ar": "بالنسبة إلى كثير من الناس في ألمانيا، كان المارك الألماني رمزاً لإعادة الإعمار والاستقرار بعد الحرب. لذلك كان الانتقال إلى اليورو حدثاً مالياً وعاطفياً في الوقت نفسه."
         },
         "importance": {
           "ru": "День показывает, как большая политика входит в кошелёк каждого человека.",
           "de": "Der Tag zeigt, wie grosse Politik in den Geldbeutel jedes Menschen gelangt.",
-          "en": "The day shows how big politics enters everyone's wallet."
+          "en": "The day shows how big politics enters everyone's wallet.",
+          "fr": "Cette journée montre comment la grande politique entre dans le portefeuille de chacun.",
+          "es": "El día muestra cómo la gran política entra en la cartera de cada persona.",
+          "it": "La giornata mostra come la grande politica entri nel portafoglio di ogni persona.",
+          "pt": "O dia mostra como a grande política entra na carteira de cada pessoa.",
+          "nl": "Deze dag laat zien hoe grote politiek in ieders portemonnee terechtkomt.",
+          "pl": "Ten dzień pokazuje, jak wielka polityka trafia do portfela każdego człowieka.",
+          "tr": "Bu gün, büyük siyasetin herkesin cüzdanına nasıl girdiğini gösterir.",
+          "zh": "这一天说明，宏观政治如何进入每个人的钱包。",
+          "ja": "この日は、大きな政治が一人ひとりの財布に入り込むことを示しています。",
+          "ko": "이 날은 큰 정치가 어떻게 모든 사람의 지갑 속으로 들어오는지를 보여 준다.",
+          "hi": "यह दिन दिखाता है कि बड़ी राजनीति हर व्यक्ति के बटुए तक कैसे पहुँचती है।",
+          "ar": "يُظهر هذا اليوم كيف تدخل السياسة الكبرى إلى محفظة كل شخص."
         }
       },
       {
@@ -51,17 +123,53 @@
         "title": {
           "ru": "Саар стал федеральной землёй ФРГ",
           "de": "Das Saarland wird Bundesland der Bundesrepublik",
-          "en": "Saarland becomes a federal state of West Germany"
+          "en": "Saarland becomes a federal state of West Germany",
+          "fr": "La Sarre devient un Land de la RFA",
+          "es": "El Sarre se convierte en estado federado de la RFA",
+          "it": "Il Saarland diventa uno stato federato della Germania Ovest",
+          "pt": "O Sarre torna-se um estado federado da Alemanha Ocidental",
+          "nl": "Saarland wordt een deelstaat van West-Duitsland",
+          "pl": "Saara staje się krajem związkowym RFN",
+          "tr": "Saarland Batı Almanya’nın federal eyaleti olur",
+          "zh": "萨尔成为西德的一个联邦州",
+          "ja": "ザールラントが西ドイツの連邦州となる",
+          "ko": "자를란트가 서독의 연방주가 되다",
+          "hi": "सारलैंड पश्चिम जर्मनी का संघीय राज्य बना",
+          "ar": "أصبحت سارلاند ولاية اتحادية في ألمانيا الغربية"
         },
         "description": {
           "ru": "1 января 1957 года Саар вошёл в состав Федеративной Республики Германия как федеральная земля. До этого регион имел особый послевоенный статус и был тесно связан с Францией.",
           "de": "Am 1. Januar 1957 trat das Saarland der Bundesrepublik Deutschland als Bundesland bei. Zuvor hatte die Region einen besonderen Nachkriegsstatus und war eng mit Frankreich verbunden.",
-          "en": "On 1 January 1957, Saarland joined the Federal Republic of Germany as a federal state. Before that, the region had a special postwar status and close ties to France."
+          "en": "On 1 January 1957, Saarland joined the Federal Republic of Germany as a federal state. Before that, the region had a special postwar status and close ties to France.",
+          "fr": "Le 1er janvier 1957, la Sarre a rejoint la République fédérale d’Allemagne en tant que Land. Auparavant, la région avait un statut particulier d’après-guerre et des liens étroits avec la France.",
+          "es": "El 1 de enero de 1957, el Sarre se incorporó a la República Federal de Alemania como estado federado. Antes de eso, la región tenía un estatus especial de posguerra y estrechos vínculos con Francia.",
+          "it": "Il 1º gennaio 1957 il Saarland entrò a far parte della Repubblica Federale di Germania come stato federato. Prima di allora, la regione aveva uno speciale status postbellico ed era strettamente legata alla Francia.",
+          "pt": "Em 1º de janeiro de 1957, o Sarre entrou na República Federal da Alemanha como estado federado. Antes disso, a região tinha um estatuto especial no pós-guerra e fortes ligações com a França.",
+          "nl": "Op 1 januari 1957 trad Saarland toe tot de Bondsrepubliek Duitsland als deelstaat. Daarvoor had de regio een bijzondere naoorlogse status en nauwe banden met Frankrijk.",
+          "pl": "1 stycznia 1957 roku Saara weszła w skład Republiki Federalnej Niemiec jako kraj związkowy. Wcześniej region miał szczególny status powojenny i bliskie związki z Francją.",
+          "tr": "1 Ocak 1957’de Saarland, Federal Almanya Cumhuriyeti’ne federal eyalet olarak katıldı. Bundan önce bölgenin özel bir savaş sonrası statüsü ve Fransa ile yakın bağları vardı.",
+          "zh": "1957年1月1日，萨尔作为联邦州加入德意志联邦共和国。在此之前，该地区拥有特殊的战后地位，并与法国关系密切。",
+          "ja": "1957年1月1日、ザールラントは連邦州としてドイツ連邦共和国に加わりました。それ以前、この地域は戦後の特別な地位を持ち、フランスと深く結びついていました。",
+          "ko": "1957년 1월 1일, 자를란트는 연방주로서 독일연방공화국에 편입되었다. 그 전까지 이 지역은 특별한 전후 지위를 가졌고 프랑스와 밀접하게 연결되어 있었다.",
+          "hi": "1 जनवरी 1957 को सारलैंड संघीय राज्य के रूप में जर्मनी के संघीय गणराज्य में शामिल हुआ। इससे पहले इस क्षेत्र की युद्धोत्तर विशेष स्थिति थी और उसका फ्रांस से गहरा संबंध था।",
+          "ar": "في 1 يناير 1957، انضمت سارلاند إلى جمهورية ألمانيا الاتحادية بوصفها ولاية اتحادية. وقبل ذلك كان للمنطقة وضع خاص بعد الحرب وروابط وثيقة مع فرنسا."
         },
         "importance": {
           "ru": "Дата показывает, что границы и устройство ФРГ формировались постепенно.",
           "de": "Das Datum zeigt, dass Grenzen und Ordnung der Bundesrepublik schrittweise entstanden.",
-          "en": "The date shows that West Germany's borders and structure developed gradually."
+          "en": "The date shows that West Germany's borders and structure developed gradually.",
+          "fr": "Cette date montre que les frontières et l’organisation de la RFA se sont formées progressivement.",
+          "es": "La fecha muestra que las fronteras y la estructura de la Alemania Occidental se formaron gradualmente.",
+          "it": "La data mostra che i confini e l’assetto della Germania Ovest si formarono gradualmente.",
+          "pt": "A data mostra que as fronteiras e a estrutura da Alemanha Ocidental se formaram gradualmente.",
+          "nl": "De datum laat zien dat de grenzen en de structuur van West-Duitsland geleidelijk ontstonden.",
+          "pl": "Data pokazuje, że granice i ustrój RFN kształtowały się stopniowo.",
+          "tr": "Bu tarih, Batı Almanya’nın sınırlarının ve yapısının aşamalı olarak oluştuğunu gösterir.",
+          "zh": "这一日期说明，西德的边界和制度结构是逐步形成的。",
+          "ja": "この日付は、西ドイツの国境と体制が段階的に形成されたことを示しています。",
+          "ko": "이 날짜는 서독의 경계와 구조가 점진적으로 형성되었음을 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि पश्चिम जर्मनी की सीमाएँ और संरचना धीरे-धीरे बनीं।",
+          "ar": "يُظهر هذا التاريخ أن حدود ألمانيا الغربية وبنيتها تشكلت تدريجياً."
         }
       }
     ]
@@ -69,7 +177,19 @@
   "fact": {
     "ru": "Немецкие марки до сих пор можно обменять в Бундесбанке.",
     "de": "D-Mark-Bestaende koennen bis heute bei der Bundesbank umgetauscht werden.",
-    "en": "Deutsche Mark cash can still be exchanged at the Bundesbank."
+    "en": "Deutsche Mark cash can still be exchanged at the Bundesbank.",
+    "fr": "Les espèces en deutsche marks peuvent encore être échangées à la Bundesbank.",
+    "es": "El efectivo en marcos alemanes todavía puede cambiarse en el Bundesbank.",
+    "it": "Il contante in marchi tedeschi può ancora essere cambiato presso la Bundesbank.",
+    "pt": "Dinheiro em marcos alemães ainda pode ser trocado no Bundesbank.",
+    "nl": "Contant geld in Duitse marken kan nog steeds bij de Bundesbank worden ingewisseld.",
+    "pl": "Gotówkę w markach niemieckich nadal można wymienić w Bundesbanku.",
+    "tr": "Alman markı nakitleri hâlâ Bundesbank’ta değiştirilebilir.",
+    "zh": "德国马克现金至今仍可在德国联邦银行兑换。",
+    "ja": "ドイツマルクの現金は現在もドイツ連邦銀行で交換できます。",
+    "ko": "독일 마르크 현금은 지금도 독일연방은행에서 교환할 수 있다.",
+    "hi": "जर्मन मार्क की नकदी आज भी बुंडेसबैंक में बदली जा सकती है।",
+    "ar": "لا يزال من الممكن استبدال نقود المارك الألماني لدى البنك الاتحادي الألماني."
   },
   "sources": [
     {
