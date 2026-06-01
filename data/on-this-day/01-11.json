@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась оккупация Рура",
       "de": "Die Besetzung des Ruhrgebiets beginnt",
-      "en": "The occupation of the Ruhr begins"
+      "en": "The occupation of the Ruhr begins",
+      "fr": "Le début de l'occupation de la Ruhr",
+      "es": "Comienza la ocupación del Ruhr",
+      "it": "Inizia l'occupazione della Ruhr",
+      "pt": "Começa a ocupação do Ruhr",
+      "nl": "De bezetting van het Ruhrgebied begint",
+      "pl": "Rozpoczyna się okupacja Zagłębia Ruhry",
+      "tr": "Ruhr'un işgali başlıyor",
+      "zh": "鲁尔占领开始",
+      "ja": "ルール占領が始まる",
+      "ko": "루르 점령이 시작되다",
+      "hi": "रूर क्षेत्र पर कब्जा शुरू हुआ",
+      "ar": "بدء احتلال منطقة الرور"
     },
     "description": {
       "ru": "11 января 1923 года французские и бельгийские войска вошли в Рурскую область. Поводом стали споры о репарациях после Первой мировой войны.",
       "de": "Am 11. Januar 1923 marschierten franzoesische und belgische Truppen ins Ruhrgebiet ein. Anlass waren Streitigkeiten ueber Reparationen nach dem Ersten Weltkrieg.",
-      "en": "On 11 January 1923, French and Belgian troops entered the Ruhr region. The trigger was a dispute over reparations after the First World War."
+      "en": "On 11 January 1923, French and Belgian troops entered the Ruhr region. The trigger was a dispute over reparations after the First World War.",
+      "fr": "Le 11 janvier 1923, des troupes françaises et belges entrèrent dans la Ruhr. Le déclencheur fut un conflit sur les réparations après la Première Guerre mondiale.",
+      "es": "El 11 de enero de 1923, tropas francesas y belgas entraron en la región del Ruhr. El motivo fue una disputa sobre las reparaciones tras la Primera Guerra Mundial.",
+      "it": "L'11 gennaio 1923 truppe francesi e belghe entrarono nella regione della Ruhr. Il motivo fu una disputa sulle riparazioni dopo la Prima guerra mondiale.",
+      "pt": "Em 11 de janeiro de 1923, tropas francesas e belgas entraram na região do Ruhr. O motivo foi uma disputa sobre reparações após a Primeira Guerra Mundial.",
+      "nl": "Op 11 januari 1923 trokken Franse en Belgische troepen het Ruhrgebied binnen. De aanleiding was een conflict over herstelbetalingen na de Eerste Wereldoorlog.",
+      "pl": "11 stycznia 1923 roku wojska francuskie i belgijskie wkroczyły do Zagłębia Ruhry. Powodem był spór o reparacje po I wojnie światowej.",
+      "tr": "11 Ocak 1923'te Fransız ve Belçika birlikleri Ruhr bölgesine girdi. Bunun nedeni, Birinci Dünya Savaşı sonrasındaki tazminatlar konusundaki anlaşmazlıktı.",
+      "zh": "1923年1月11日，法国和比利时军队进入鲁尔地区。导火索是第一次世界大战后关于赔款的争端。",
+      "ja": "1923年1月11日、フランス軍とベルギー軍がルール地方に進駐した。きっかけは第一次世界大戦後の賠償をめぐる対立だった。",
+      "ko": "1923년 1월 11일 프랑스와 벨기에 군대가 루르 지역에 진입했다. 계기는 제1차 세계대전 이후 배상 문제를 둘러싼 분쟁이었다.",
+      "hi": "11 जनवरी 1923 को फ्रांसीसी और बेल्जियाई सैनिक रूर क्षेत्र में दाखिल हुए। इसका कारण प्रथम विश्व युद्ध के बाद क्षतिपूर्ति को लेकर विवाद था।",
+      "ar": "في 11 يناير 1923 دخلت القوات الفرنسية والبلجيكية منطقة الرور. وكان السبب نزاعاً حول التعويضات بعد الحرب العالمية الأولى."
     },
     "importance": {
       "ru": "Оккупация Рура стала одним из главных кризисов Веймарской республики и усилила экономический хаос 1923 года.",
       "de": "Die Ruhrbesetzung wurde zu einer der grossen Krisen der Weimarer Republik und verschaerfte das wirtschaftliche Chaos von 1923.",
-      "en": "The occupation of the Ruhr became one of the major crises of the Weimar Republic and intensified the economic chaos of 1923."
+      "en": "The occupation of the Ruhr became one of the major crises of the Weimar Republic and intensified the economic chaos of 1923.",
+      "fr": "L'occupation de la Ruhr devint l'une des grandes crises de la république de Weimar et aggrava le chaos économique de 1923.",
+      "es": "La ocupación del Ruhr se convirtió en una de las grandes crisis de la República de Weimar y agravó el caos económico de 1923.",
+      "it": "L'occupazione della Ruhr divenne una delle grandi crisi della Repubblica di Weimar e aggravò il caos economico del 1923.",
+      "pt": "A ocupação do Ruhr tornou-se uma das grandes crises da República de Weimar e agravou o caos econômico de 1923.",
+      "nl": "De bezetting van het Ruhrgebied werd een van de grote crises van de Weimarrepubliek en verergerde de economische chaos van 1923.",
+      "pl": "Okupacja Zagłębia Ruhry stała się jednym z największych kryzysów Republiki Weimarskiej i pogłębiła chaos gospodarczy 1923 roku.",
+      "tr": "Ruhr'un işgali Weimar Cumhuriyeti'nin büyük krizlerinden biri oldu ve 1923'teki ekonomik kaosu derinleştirdi.",
+      "zh": "鲁尔占领成为魏玛共和国的重大危机之一，并加剧了1923年的经济混乱。",
+      "ja": "ルール占領はワイマール共和国の大きな危機の一つとなり、1923年の経済的混乱をさらに深めた。",
+      "ko": "루르 점령은 바이마르 공화국의 주요 위기 중 하나가 되었고 1923년의 경제 혼란을 심화시켰다.",
+      "hi": "रूर का कब्जा वाइमर गणराज्य के बड़े संकटों में से एक बन गया और 1923 की आर्थिक अव्यवस्था को और बढ़ा दिया।",
+      "ar": "أصبح احتلال الرور إحدى الأزمات الكبرى في جمهورية فايمار وزاد الفوضى الاقتصادية في عام 1923."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Пассивное сопротивление и инфляция",
           "de": "Passiver Widerstand und Inflation",
-          "en": "Passive resistance and inflation"
+          "en": "Passive resistance and inflation",
+          "fr": "Résistance passive et inflation",
+          "es": "Resistencia pasiva e inflación",
+          "it": "Resistenza passiva e inflazione",
+          "pt": "Resistência passiva e inflação",
+          "nl": "Passief verzet en inflatie",
+          "pl": "Bierny opór i inflacja",
+          "tr": "Pasif direniş ve enflasyon",
+          "zh": "消极抵抗与通货膨胀",
+          "ja": "消極的抵抗とインフレーション",
+          "ko": "수동적 저항과 인플레이션",
+          "hi": "निष्क्रिय प्रतिरोध और मुद्रास्फीति",
+          "ar": "المقاومة السلبية والتضخم"
         },
         "description": {
           "ru": "Германское правительство поддерживало пассивное сопротивление в Руре, но это требовало огромных расходов. Печатание денег усилило гиперинфляцию и ударило по повседневной жизни.",
           "de": "Die deutsche Regierung unterstuetzte den passiven Widerstand im Ruhrgebiet, doch das kostete enorme Summen. Das Gelddrucken verstaerkte die Hyperinflation und traf den Alltag hart.",
-          "en": "The German government supported passive resistance in the Ruhr, but this required enormous spending. Printing money worsened hyperinflation and hit everyday life hard."
+          "en": "The German government supported passive resistance in the Ruhr, but this required enormous spending. Printing money worsened hyperinflation and hit everyday life hard.",
+          "fr": "Le gouvernement allemand soutenait la résistance passive dans la Ruhr, mais cela coûtait des sommes énormes. L'impression de monnaie aggrava l'hyperinflation et frappa durement la vie quotidienne.",
+          "es": "El gobierno alemán apoyó la resistencia pasiva en el Ruhr, pero eso exigía enormes gastos. La impresión de dinero agravó la hiperinflación y golpeó con fuerza la vida cotidiana.",
+          "it": "Il governo tedesco sostenne la resistenza passiva nella Ruhr, ma ciò richiese spese enormi. La stampa di denaro peggiorò l'iperinflazione e colpì duramente la vita quotidiana.",
+          "pt": "O governo alemão apoiou a resistência passiva no Ruhr, mas isso exigia gastos enormes. A impressão de dinheiro agravou a hiperinflação e atingiu duramente a vida cotidiana.",
+          "nl": "De Duitse regering steunde het passieve verzet in het Ruhrgebied, maar dat kostte enorme bedragen. Het drukken van geld verergerde de hyperinflatie en raakte het dagelijks leven hard.",
+          "pl": "Rząd niemiecki wspierał bierny opór w Zagłębiu Ruhry, ale wymagało to ogromnych wydatków. Drukowanie pieniędzy nasiliło hiperinflację i mocno uderzyło w codzienne życie.",
+          "tr": "Alman hükümeti Ruhr'daki pasif direnişi destekledi, ancak bu çok büyük harcamalar gerektiriyordu. Para basılması hiperenflasyonu ağırlaştırdı ve günlük yaşamı sert biçimde etkiledi.",
+          "zh": "德国政府支持鲁尔地区的消极抵抗，但这需要巨额开支。大量印钞加剧了恶性通货膨胀，严重冲击了日常生活。",
+          "ja": "ドイツ政府はルールでの消極的抵抗を支援したが、それには巨額の支出が必要だった。紙幣の増刷はハイパーインフレを悪化させ、日常生活に深刻な打撃を与えた。",
+          "ko": "독일 정부는 루르 지역의 수동적 저항을 지원했지만, 막대한 비용이 들었다. 화폐 발행은 초인플레이션을 악화시켰고 일상생활에 큰 타격을 주었다.",
+          "hi": "जर्मन सरकार ने रूर में निष्क्रिय प्रतिरोध का समर्थन किया, लेकिन इसके लिए भारी खर्च करना पड़ा। पैसा छापने से अति-मुद्रास्फीति और बढ़ी और रोजमर्रा की जिंदगी बुरी तरह प्रभावित हुई।",
+          "ar": "دعمت الحكومة الألمانية المقاومة السلبية في الرور، لكن ذلك تطلب إنفاقاً هائلاً. وأدى طبع النقود إلى تفاقم التضخم المفرط وإلى ضرر شديد في الحياة اليومية."
         },
         "importance": {
           "ru": "Так международный конфликт превратился в кризис кошельков, зарплат и сбережений обычных людей.",
           "de": "So wurde ein internationaler Konflikt zur Krise von Geldboersen, Loehnen und Ersparnissen gewoehnlicher Menschen.",
-          "en": "An international conflict became a crisis of wallets, wages and savings for ordinary people."
+          "en": "An international conflict became a crisis of wallets, wages and savings for ordinary people.",
+          "fr": "Un conflit international devint ainsi une crise des porte-monnaie, des salaires et des économies des gens ordinaires.",
+          "es": "Así, un conflicto internacional se convirtió en una crisis de bolsillos, salarios y ahorros de la gente común.",
+          "it": "Così un conflitto internazionale divenne una crisi dei portafogli, dei salari e dei risparmi della gente comune.",
+          "pt": "Assim, um conflito internacional virou uma crise de carteiras, salários e poupanças de pessoas comuns.",
+          "nl": "Zo werd een internationaal conflict een crisis van portemonnees, lonen en spaargeld van gewone mensen.",
+          "pl": "W ten sposób konflikt międzynarodowy stał się kryzysem portfeli, pensji i oszczędności zwykłych ludzi.",
+          "tr": "Böylece uluslararası bir çatışma, sıradan insanların cüzdanları, maaşları ve birikimleri için bir krize dönüştü.",
+          "zh": "一场国际冲突就这样变成了普通人的钱包、工资和储蓄危机。",
+          "ja": "こうして国際紛争は、普通の人々の財布、賃金、貯蓄を直撃する危機になった。",
+          "ko": "이렇게 국제 분쟁은 평범한 사람들의 지갑, 임금, 저축의 위기로 바뀌었다.",
+          "hi": "इस तरह एक अंतरराष्ट्रीय संघर्ष आम लोगों की जेब, वेतन और बचत का संकट बन गया।",
+          "ar": "وهكذا تحول صراع دولي إلى أزمة تمس محافظ الناس العاديين وأجورهم ومدخراتهم."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Рур был сердцем немецкой угольной и сталелитейной промышленности.",
     "de": "Das Ruhrgebiet war das Herz der deutschen Kohle- und Stahlindustrie.",
-    "en": "The Ruhr was the heart of Germany's coal and steel industry."
+    "en": "The Ruhr was the heart of Germany's coal and steel industry.",
+    "fr": "La Ruhr était le coeur de l'industrie allemande du charbon et de l'acier.",
+    "es": "El Ruhr era el corazón de la industria alemana del carbón y del acero.",
+    "it": "La Ruhr era il cuore dell'industria tedesca del carbone e dell'acciaio.",
+    "pt": "O Ruhr era o coração da indústria alemã do carvão e do aço.",
+    "nl": "Het Ruhrgebied was het hart van de Duitse kolen- en staalindustrie.",
+    "pl": "Zagłębie Ruhry było sercem niemieckiego przemysłu węglowego i stalowego.",
+    "tr": "Ruhr, Almanya'nın kömür ve çelik sanayisinin kalbiydi.",
+    "zh": "鲁尔曾是德国煤炭和钢铁工业的核心。",
+    "ja": "ルール地方はドイツの石炭・鉄鋼産業の中心地だった。",
+    "ko": "루르는 독일 석탄과 철강 산업의 중심지였다.",
+    "hi": "रूर जर्मनी के कोयला और इस्पात उद्योग का केंद्र था।",
+    "ar": "كانت منطقة الرور قلب صناعة الفحم والصلب الألمانية."
   },
   "sources": [
     {

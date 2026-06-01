@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началось восстание гереро",
       "de": "Der Aufstand der Herero beginnt",
-      "en": "The Herero uprising begins"
+      "en": "The Herero uprising begins",
+      "fr": "Le début du soulèvement des Herero",
+      "es": "Comienza el levantamiento herero",
+      "it": "Inizia la rivolta degli Herero",
+      "pt": "Começa a revolta dos herero",
+      "nl": "De opstand van de Herero begint",
+      "pl": "Rozpoczyna się powstanie Herero",
+      "tr": "Herero ayaklanması başlıyor",
+      "zh": "赫雷罗人起义开始",
+      "ja": "ヘレロ人の蜂起が始まる",
+      "ko": "헤레로 봉기가 시작되다",
+      "hi": "हेररो विद्रोह शुरू हुआ",
+      "ar": "بدء انتفاضة الهيريرو"
     },
     "description": {
       "ru": "12 января 1904 года в Германской Юго-Западной Африке, на территории современной Намибии, началось восстание народа гереро против немецкой колониальной власти. Конфликт быстро перерос в жестокую колониальную войну.",
       "de": "Am 12. Januar 1904 begann in Deutsch-Suedwestafrika, dem heutigen Namibia, der Aufstand der Herero gegen die deutsche Kolonialherrschaft. Der Konflikt entwickelte sich rasch zu einem brutalen Kolonialkrieg.",
-      "en": "On 12 January 1904, the Herero uprising against German colonial rule began in German South West Africa, present-day Namibia. The conflict quickly developed into a brutal colonial war."
+      "en": "On 12 January 1904, the Herero uprising against German colonial rule began in German South West Africa, present-day Namibia. The conflict quickly developed into a brutal colonial war.",
+      "fr": "Le 12 janvier 1904, dans le Sud-Ouest africain allemand, l'actuelle Namibie, commença le soulèvement des Herero contre la domination coloniale allemande. Le conflit se transforma rapidement en une guerre coloniale brutale.",
+      "es": "El 12 de enero de 1904, en el África del Sudoeste Alemana, la actual Namibia, comenzó el levantamiento de los herero contra el dominio colonial alemán. El conflicto se convirtió rápidamente en una brutal guerra colonial.",
+      "it": "Il 12 gennaio 1904, nell'Africa Tedesca del Sud-Ovest, l'attuale Namibia, iniziò la rivolta degli Herero contro il dominio coloniale tedesco. Il conflitto si trasformò rapidamente in una brutale guerra coloniale.",
+      "pt": "Em 12 de janeiro de 1904, no Sudoeste Africano Alemão, atual Namíbia, começou a revolta dos herero contra o domínio colonial alemão. O conflito rapidamente se transformou em uma guerra colonial brutal.",
+      "nl": "Op 12 januari 1904 begon in Duits-Zuidwest-Afrika, het huidige Namibië, de opstand van de Herero tegen het Duitse koloniale bestuur. Het conflict groeide snel uit tot een wrede koloniale oorlog.",
+      "pl": "12 stycznia 1904 roku w Niemieckiej Afryce Południowo-Zachodniej, na terenie dzisiejszej Namibii, rozpoczęło się powstanie Herero przeciw niemieckiej władzy kolonialnej. Konflikt szybko przerodził się w brutalną wojnę kolonialną.",
+      "tr": "12 Ocak 1904'te, bugünkü Namibya olan Alman Güneybatı Afrikası'nda Herero halkının Alman sömürge yönetimine karşı ayaklanması başladı. Çatışma kısa sürede acımasız bir sömürge savaşına dönüştü.",
+      "zh": "1904年1月12日，在德属西南非洲，即今天的纳米比亚，赫雷罗人反抗德国殖民统治的起义开始。冲突很快演变为残酷的殖民战争。",
+      "ja": "1904年1月12日、現在のナミビアにあたるドイツ領南西アフリカで、ドイツの植民地支配に対するヘレロ人の蜂起が始まった。紛争はすぐに苛酷な植民地戦争へと発展した。",
+      "ko": "1904년 1월 12일, 오늘날 나미비아에 해당하는 독일령 남서아프리카에서 헤레로 사람들이 독일 식민 지배에 맞서 봉기했다. 이 갈등은 곧 잔혹한 식민지 전쟁으로 번졌다.",
+      "hi": "12 जनवरी 1904 को जर्मन दक्षिण-पश्चिम अफ्रीका, यानी आज के नामीबिया, में हेररो लोगों का जर्मन औपनिवेशिक शासन के खिलाफ विद्रोह शुरू हुआ। यह संघर्ष जल्दी ही एक क्रूर औपनिवेशिक युद्ध में बदल गया।",
+      "ar": "في 12 يناير 1904 بدأت في جنوب غرب أفريقيا الألمانية، وهي ناميبيا اليوم، انتفاضة شعب الهيريرو ضد الحكم الاستعماري الألماني. وسرعان ما تحول النزاع إلى حرب استعمارية قاسية."
     },
     "importance": {
       "ru": "Это одна из самых тяжёлых страниц немецкой колониальной истории, без которой невозможно честно говорить о Германии XX века.",
       "de": "Dies ist eines der schwersten Kapitel der deutschen Kolonialgeschichte und gehoert zu einem ehrlichen Blick auf das Deutschland des 20. Jahrhunderts.",
-      "en": "It is one of the darkest chapters of German colonial history and belongs to any honest view of twentieth-century Germany."
+      "en": "It is one of the darkest chapters of German colonial history and belongs to any honest view of twentieth-century Germany.",
+      "fr": "C'est l'un des chapitres les plus sombres de l'histoire coloniale allemande et il fait partie d'un regard honnête sur l'Allemagne du XXe siècle.",
+      "es": "Es uno de los capítulos más oscuros de la historia colonial alemana y forma parte de una mirada honesta a la Alemania del siglo XX.",
+      "it": "È uno dei capitoli più oscuri della storia coloniale tedesca e appartiene a uno sguardo onesto sulla Germania del XX secolo.",
+      "pt": "É um dos capítulos mais sombrios da história colonial alemã e faz parte de uma visão honesta sobre a Alemanha do século XX.",
+      "nl": "Het is een van de donkerste hoofdstukken uit de Duitse koloniale geschiedenis en hoort bij een eerlijke blik op Duitsland in de twintigste eeuw.",
+      "pl": "To jeden z najciemniejszych rozdziałów niemieckiej historii kolonialnej i element uczciwego spojrzenia na Niemcy XX wieku.",
+      "tr": "Bu, Alman sömürge tarihinin en karanlık sayfalarından biridir ve yirminci yüzyıl Almanya'sına dürüstçe bakmanın parçasıdır.",
+      "zh": "这是德国殖民历史中最黑暗的篇章之一，也是诚实理解20世纪德国不可回避的一部分。",
+      "ja": "これはドイツ植民地史の中でも最も暗い章の一つであり、20世紀のドイツを誠実に見るうえで欠かせない出来事である。",
+      "ko": "이는 독일 식민 역사에서 가장 어두운 장면 중 하나이며, 20세기 독일을 정직하게 바라보는 데 반드시 포함되어야 한다.",
+      "hi": "यह जर्मन औपनिवेशिक इतिहास के सबसे अंधेरे अध्यायों में से एक है और बीसवीं सदी के जर्मनी को ईमानदारी से समझने का हिस्सा है।",
+      "ar": "إنها واحدة من أحلك صفحات التاريخ الاستعماري الألماني، ولا يمكن النظر بصدق إلى ألمانيا في القرن العشرين من دونها."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Колониальная война в Африке",
           "de": "Kolonialkrieg in Afrika",
-          "en": "Colonial war in Africa"
+          "en": "Colonial war in Africa",
+          "fr": "Guerre coloniale en Afrique",
+          "es": "Guerra colonial en África",
+          "it": "Guerra coloniale in Africa",
+          "pt": "Guerra colonial na África",
+          "nl": "Koloniale oorlog in Afrika",
+          "pl": "Wojna kolonialna w Afryce",
+          "tr": "Afrika'da sömürge savaşı",
+          "zh": "非洲的殖民战争",
+          "ja": "アフリカでの植民地戦争",
+          "ko": "아프리카의 식민지 전쟁",
+          "hi": "अफ्रीका में औपनिवेशिक युद्ध",
+          "ar": "حرب استعمارية في أفريقيا"
         },
         "description": {
           "ru": "Гереро выступили против потери земли, давления поселенцев и колониальных порядков. Немецкая военная реакция привела к массовой гибели гереро и нама.",
           "de": "Die Herero wehrten sich gegen Landverlust, den Druck von Siedlern und die koloniale Ordnung. Die deutsche militaerische Reaktion fuehrte zum massenhaften Tod von Herero und Nama.",
-          "en": "The Herero resisted land loss, settler pressure and the colonial order. The German military response led to mass death among Herero and Nama people."
+          "en": "The Herero resisted land loss, settler pressure and the colonial order. The German military response led to mass death among Herero and Nama people.",
+          "fr": "Les Herero résistèrent à la perte de leurs terres, à la pression des colons et à l'ordre colonial. La réaction militaire allemande entraîna la mort massive de Herero et de Nama.",
+          "es": "Los herero se resistieron a la pérdida de tierras, a la presión de los colonos y al orden colonial. La respuesta militar alemana provocó la muerte masiva de herero y nama.",
+          "it": "Gli Herero si opposero alla perdita delle terre, alla pressione dei coloni e all'ordine coloniale. La reazione militare tedesca portò alla morte di massa di Herero e Nama.",
+          "pt": "Os herero resistiram à perda de terras, à pressão dos colonos e à ordem colonial. A reação militar alemã levou à morte em massa de herero e nama.",
+          "nl": "De Herero verzetten zich tegen landverlies, druk van kolonisten en de koloniale orde. De Duitse militaire reactie leidde tot massale sterfte onder Herero en Nama.",
+          "pl": "Herero sprzeciwiali się utracie ziemi, presji osadników i porządkowi kolonialnemu. Niemiecka reakcja wojskowa doprowadziła do masowej śmierci Herero i Nama.",
+          "tr": "Herero halkı toprak kaybına, yerleşimcilerin baskısına ve sömürge düzenine karşı çıktı. Alman askeri tepkisi Herero ve Nama halkları arasında kitlesel ölümlere yol açtı.",
+          "zh": "赫雷罗人反抗土地丧失、殖民者压力和殖民秩序。德国的军事反应导致赫雷罗人和纳马人大量死亡。",
+          "ja": "ヘレロ人は土地の喪失、入植者からの圧力、植民地秩序に抵抗した。ドイツ軍の対応はヘレロ人とナマ人の大量死につながった。",
+          "ko": "헤레로 사람들은 토지 상실, 정착민의 압박, 식민 질서에 저항했다. 독일군의 대응은 헤레로와 나마 사람들의 대규모 죽음으로 이어졌다.",
+          "hi": "हेररो लोगों ने भूमि छिनने, बसने वालों के दबाव और औपनिवेशिक व्यवस्था का विरोध किया। जर्मन सैन्य प्रतिक्रिया से हेररो और नामा लोगों की बड़े पैमाने पर मृत्यु हुई।",
+          "ar": "قاوم الهيريرو فقدان الأراضي وضغط المستوطنين والنظام الاستعماري. وأدى الرد العسكري الألماني إلى موت أعداد هائلة من الهيريرو والناما."
         },
         "importance": {
           "ru": "Событие напоминает, что история Германии не ограничивается Европой и включает колониальное насилие.",
           "de": "Das Ereignis erinnert daran, dass deutsche Geschichte nicht auf Europa begrenzt ist und koloniale Gewalt einschliesst.",
-          "en": "The event shows that German history is not limited to Europe and includes colonial violence."
+          "en": "The event shows that German history is not limited to Europe and includes colonial violence.",
+          "fr": "L'événement rappelle que l'histoire allemande ne se limite pas à l'Europe et inclut la violence coloniale.",
+          "es": "El acontecimiento recuerda que la historia alemana no se limita a Europa e incluye violencia colonial.",
+          "it": "L'evento ricorda che la storia tedesca non si limita all'Europa e comprende la violenza coloniale.",
+          "pt": "O acontecimento lembra que a história alemã não se limita à Europa e inclui violência colonial.",
+          "nl": "De gebeurtenis laat zien dat de Duitse geschiedenis niet tot Europa beperkt is en ook koloniaal geweld omvat.",
+          "pl": "Wydarzenie przypomina, że historia Niemiec nie ogranicza się do Europy i obejmuje przemoc kolonialną.",
+          "tr": "Bu olay, Alman tarihinin Avrupa ile sınırlı olmadığını ve sömürge şiddetini de içerdiğini hatırlatır.",
+          "zh": "这一事件提醒人们，德国历史并不局限于欧洲，也包括殖民暴力。",
+          "ja": "この出来事は、ドイツ史がヨーロッパだけに限られず、植民地暴力も含むことを思い出させる。",
+          "ko": "이 사건은 독일 역사가 유럽에만 한정되지 않으며 식민 폭력도 포함한다는 사실을 보여 준다.",
+          "hi": "यह घटना याद दिलाती है कि जर्मनी का इतिहास केवल यूरोप तक सीमित नहीं है और उसमें औपनिवेशिक हिंसा भी शामिल है।",
+          "ar": "يذكّر هذا الحدث بأن التاريخ الألماني لا يقتصر على أوروبا، بل يشمل أيضاً العنف الاستعماري."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Немецкая история на карте Намибии",
           "de": "Deutsche Geschichte auf der Karte Namibias",
-          "en": "German history on Namibia's map"
+          "en": "German history on Namibia's map",
+          "fr": "L'histoire allemande sur la carte de la Namibie",
+          "es": "Historia alemana en el mapa de Namibia",
+          "it": "Storia tedesca sulla carta della Namibia",
+          "pt": "História alemã no mapa da Namíbia",
+          "nl": "Duitse geschiedenis op de kaart van Namibië",
+          "pl": "Niemiecka historia na mapie Namibii",
+          "tr": "Namibya haritasında Alman tarihi",
+          "zh": "纳米比亚地图上的德国历史",
+          "ja": "ナミビアの地図に残るドイツ史",
+          "ko": "나미비아 지도 위의 독일 역사",
+          "hi": "नामीबिया के नक्शे पर जर्मन इतिहास",
+          "ar": "التاريخ الألماني على خريطة ناميبيا"
         },
         "description": {
           "ru": "Многие немецкие колониальные названия и следы архитектуры в Намибии долго напоминали о коротком, но тяжёлом периоде немецкого правления. Поэтому эту дату полезно видеть не только на карте Европы.",
           "de": "Viele deutsche Kolonialnamen und architektonische Spuren in Namibia erinnerten lange an die kurze, aber schwere Zeit deutscher Herrschaft. Deshalb gehoert dieses Datum nicht nur auf eine Europakarte.",
-          "en": "Many German colonial names and architectural traces in Namibia long recalled the short but harsh period of German rule. This date therefore belongs on more than just a map of Europe."
+          "en": "Many German colonial names and architectural traces in Namibia long recalled the short but harsh period of German rule. This date therefore belongs on more than just a map of Europe.",
+          "fr": "De nombreux noms coloniaux allemands et traces architecturales en Namibie ont longtemps rappelé la période courte mais dure de la domination allemande. Cette date ne concerne donc pas seulement une carte de l'Europe.",
+          "es": "Muchos nombres coloniales alemanes y huellas arquitectónicas en Namibia recordaron durante mucho tiempo el breve pero duro periodo de dominio alemán. Por eso esta fecha no pertenece solo a un mapa de Europa.",
+          "it": "Molti nomi coloniali tedeschi e tracce architettoniche in Namibia hanno ricordato a lungo il breve ma duro periodo del dominio tedesco. Per questo questa data non appartiene soltanto a una carta dell'Europa.",
+          "pt": "Muitos nomes coloniais alemães e vestígios arquitetônicos na Namíbia lembraram por muito tempo o curto, mas duro, período de domínio alemão. Por isso esta data não pertence apenas a um mapa da Europa.",
+          "nl": "Veel Duitse koloniale namen en architectonische sporen in Namibië herinnerden lang aan de korte maar harde periode van Duits bestuur. Daarom hoort deze datum niet alleen op een kaart van Europa thuis.",
+          "pl": "Wiele niemieckich nazw kolonialnych i śladów architektury w Namibii długo przypominało o krótkim, ale ciężkim okresie niemieckich rządów. Dlatego ta data nie należy tylko do mapy Europy.",
+          "tr": "Namibya'daki birçok Alman sömürge adı ve mimari iz, Alman yönetiminin kısa ama sert dönemini uzun süre hatırlattı. Bu yüzden bu tarih yalnızca Avrupa haritasına ait değildir.",
+          "zh": "纳米比亚的许多德国殖民地名和建筑痕迹，长期让人想起德国统治虽短却沉重的时期。因此，这个日期不应只出现在欧洲地图上。",
+          "ja": "ナミビアには、ドイツ植民地時代の地名や建築の痕跡が長く残り、短いが苛酷だったドイツ支配の時代を思い起こさせてきた。だからこの日付はヨーロッパの地図だけで考えるものではない。",
+          "ko": "나미비아의 많은 독일 식민지 지명과 건축 흔적은 짧지만 혹독했던 독일 지배의 시기를 오랫동안 떠올리게 했다. 그래서 이 날짜는 유럽 지도에만 속하는 것이 아니다.",
+          "hi": "नामीबिया में कई जर्मन औपनिवेशिक नाम और वास्तुकला के निशान लंबे समय तक जर्मन शासन के छोटे लेकिन कठोर दौर की याद दिलाते रहे। इसलिए यह तारीख केवल यूरोप के नक्शे तक सीमित नहीं है।",
+          "ar": "ظلّت أسماء استعمارية ألمانية كثيرة وآثار معمارية في ناميبيا تذكّر طويلاً بفترة الحكم الألماني القصيرة والقاسية. لذلك لا تنتمي هذه الذكرى إلى خريطة أوروبا وحدها."
         },
         "importance": {
           "ru": "Карта помогает увидеть, насколько далеко уходили последствия политики Германской империи.",
           "de": "Die Karte macht sichtbar, wie weit die Folgen der Politik des Deutschen Kaiserreichs reichten.",
-          "en": "The map helps show how far the consequences of the German Empire's policies reached."
+          "en": "The map helps show how far the consequences of the German Empire's policies reached.",
+          "fr": "La carte aide à voir jusqu'où portèrent les conséquences de la politique de l'Empire allemand.",
+          "es": "El mapa ayuda a ver hasta dónde llegaron las consecuencias de la política del Imperio alemán.",
+          "it": "La carta aiuta a vedere quanto lontano arrivarono le conseguenze della politica dell'Impero tedesco.",
+          "pt": "O mapa ajuda a mostrar até onde chegaram as consequências da política do Império Alemão.",
+          "nl": "De kaart helpt zichtbaar te maken hoe ver de gevolgen van het beleid van het Duitse Keizerrijk reikten.",
+          "pl": "Mapa pomaga zobaczyć, jak daleko sięgały skutki polityki Cesarstwa Niemieckiego.",
+          "tr": "Harita, Alman İmparatorluğu'nun politikalarının sonuçlarının ne kadar uzağa ulaştığını göstermeye yardımcı olur.",
+          "zh": "地图有助于看清德意志帝国政策的影响延伸得有多远。",
+          "ja": "地図は、ドイツ帝国の政策の影響がどれほど遠くまで及んだかを示してくれる。",
+          "ko": "지도는 독일 제국 정책의 결과가 얼마나 멀리까지 미쳤는지 보여 준다.",
+          "hi": "नक्शा दिखाने में मदद करता है कि जर्मन साम्राज्य की नीतियों के परिणाम कितनी दूर तक पहुँचे।",
+          "ar": "تساعد الخريطة على إظهار مدى اتساع آثار سياسات الإمبراطورية الألمانية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Современная Германия признала войну против гереро и нама преступлением и геноцидом.",
     "de": "Das heutige Deutschland hat den Krieg gegen Herero und Nama als Verbrechen und Voelkermord anerkannt.",
-    "en": "Modern Germany has recognized the war against the Herero and Nama as a crime and genocide."
+    "en": "Modern Germany has recognized the war against the Herero and Nama as a crime and genocide.",
+    "fr": "L'Allemagne actuelle a reconnu la guerre contre les Herero et les Nama comme un crime et un génocide.",
+    "es": "La Alemania actual ha reconocido la guerra contra los herero y los nama como un crimen y un genocidio.",
+    "it": "La Germania contemporanea ha riconosciuto la guerra contro Herero e Nama come un crimine e un genocidio.",
+    "pt": "A Alemanha atual reconheceu a guerra contra os herero e os nama como crime e genocídio.",
+    "nl": "Het huidige Duitsland heeft de oorlog tegen de Herero en Nama erkend als misdaad en genocide.",
+    "pl": "Współczesne Niemcy uznały wojnę przeciw Herero i Nama za zbrodnię i ludobójstwo.",
+    "tr": "Günümüz Almanyası, Herero ve Nama'ya karşı yürütülen savaşı suç ve soykırım olarak tanımıştır.",
+    "zh": "现代德国已承认针对赫雷罗人和纳马人的战争是犯罪和种族灭绝。",
+    "ja": "現在のドイツは、ヘレロ人とナマ人に対する戦争を犯罪およびジェノサイドとして認めている。",
+    "ko": "현대 독일은 헤레로와 나마에 대한 전쟁을 범죄이자 집단학살로 인정했다.",
+    "hi": "आधुनिक जर्मनी ने हेररो और नामा के खिलाफ युद्ध को अपराध और नरसंहार के रूप में स्वीकार किया है।",
+    "ar": "اعترفت ألمانيا الحديثة بالحرب ضد الهيريرو والناما بوصفها جريمة وإبادة جماعية."
   },
   "sources": [
     {
