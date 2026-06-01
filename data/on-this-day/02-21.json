@@ -11,17 +11,53 @@
     "title": {
       "ru": "Опубликован «Коммунистический манифест»",
       "de": "Das Kommunistische Manifest erscheint",
-      "en": "The Communist Manifesto is published"
+      "en": "The Communist Manifesto is published",
+      "fr": "Publication du Manifeste communiste",
+      "es": "Se publica el Manifiesto Comunista",
+      "it": "Viene pubblicato il Manifesto comunista",
+      "pt": "É publicado o Manifesto Comunista",
+      "nl": "Het Communistisch Manifest verschijnt",
+      "pl": "Opublikowano Manifest komunistyczny",
+      "tr": "Komünist Manifesto yayımlandı",
+      "zh": "《共产党宣言》出版",
+      "ja": "『共産党宣言』が出版される",
+      "ko": "공산당 선언이 출판되다",
+      "hi": "कम्युनिस्ट घोषणापत्र प्रकाशित हुआ",
+      "ar": "نشر البيان الشيوعي"
     },
     "description": {
       "ru": "21 февраля 1848 года в Лондоне был опубликован «Манифест Коммунистической партии» Карла Маркса и Фридриха Энгельса. Текст был написан для Союза коммунистов, организации немецких революционеров и эмигрантов.",
       "de": "Am 21. Februar 1848 erschien in London das Manifest der Kommunistischen Partei von Karl Marx und Friedrich Engels. Der Text wurde fuer den Bund der Kommunisten verfasst, eine Organisation deutscher Revolutionaere und Emigranten.",
-      "en": "On 21 February 1848, the Manifesto of the Communist Party by Karl Marx and Friedrich Engels was published in London. It was written for the Communist League, an organization of German revolutionaries and emigrants."
+      "en": "On 21 February 1848, the Manifesto of the Communist Party by Karl Marx and Friedrich Engels was published in London. It was written for the Communist League, an organization of German revolutionaries and emigrants.",
+      "fr": "Le 21 février 1848, le Manifeste du parti communiste de Karl Marx et Friedrich Engels fut publié à Londres. Le texte fut écrit pour la Ligue des communistes, une organisation de révolutionnaires et d'émigrés allemands.",
+      "es": "El 21 de febrero de 1848 se publicó en Londres el Manifiesto del Partido Comunista de Karl Marx y Friedrich Engels. El texto fue escrito para la Liga de los Comunistas, una organización de revolucionarios y emigrantes alemanes.",
+      "it": "Il 21 febbraio 1848 fu pubblicato a Londra il Manifesto del Partito Comunista di Karl Marx e Friedrich Engels. Il testo fu scritto per la Lega dei Comunisti, un'organizzazione di rivoluzionari ed emigrati tedeschi.",
+      "pt": "Em 21 de fevereiro de 1848, foi publicado em Londres o Manifesto do Partido Comunista de Karl Marx e Friedrich Engels. O texto foi escrito para a Liga dos Comunistas, uma organização de revolucionários e emigrantes alemães.",
+      "nl": "Op 21 februari 1848 verscheen in Londen het Manifest van de Communistische Partij van Karl Marx en Friedrich Engels. De tekst werd geschreven voor de Bond der Communisten, een organisatie van Duitse revolutionairen en emigranten.",
+      "pl": "21 lutego 1848 roku w Londynie opublikowano Manifest Partii Komunistycznej Karola Marksa i Fryderyka Engelsa. Tekst napisano dla Związku Komunistów, organizacji niemieckich rewolucjonistów i emigrantów.",
+      "tr": "21 Şubat 1848'de Karl Marx ve Friedrich Engels'in Komünist Parti Manifestosu Londra'da yayımlandı. Metin, Alman devrimcileri ve göçmenlerinden oluşan Komünistler Birliği için yazılmıştı.",
+      "zh": "1848年2月21日，卡尔·马克思和弗里德里希·恩格斯的《共产党宣言》在伦敦出版。该文本是为共产主义者同盟而写的，这是一群德国革命者和流亡者的组织。",
+      "ja": "1848年2月21日、カール・マルクスとフリードリヒ・エンゲルスによる『共産党宣言』がロンドンで出版されました。この文書は、ドイツ人革命家や亡命者の組織である共産主義者同盟のために書かれました。",
+      "ko": "1848년 2월 21일, 카를 마르크스와 프리드리히 엥겔스의 공산당 선언이 런던에서 출판되었습니다. 이 글은 독일 혁명가와 망명자들의 조직인 공산주의자 동맹을 위해 쓰였습니다.",
+      "hi": "21 फ़रवरी 1848 को कार्ल मार्क्स और फ़्रीडरिष एंगेल्स का कम्युनिस्ट पार्टी का घोषणापत्र लंदन में प्रकाशित हुआ। यह पाठ जर्मन क्रांतिकारियों और प्रवासियों के संगठन कम्युनिस्ट लीग के लिए लिखा गया था।",
+      "ar": "في 21 فبراير 1848 نُشر في لندن بيان الحزب الشيوعي لكارل ماركس وفريدريش إنغلز. وكُتب النص لرابطة الشيوعيين، وهي منظمة لثوريين ومهاجرين ألمان."
     },
     "importance": {
       "ru": "Это один из самых влиятельных политических текстов XIX века, тесно связанный с немецкой интеллектуальной и революционной историей.",
       "de": "Es ist einer der einflussreichsten politischen Texte des 19. Jahrhunderts und eng mit deutscher Ideen- und Revolutionsgeschichte verbunden.",
-      "en": "It is one of the most influential political texts of the nineteenth century and is closely tied to German intellectual and revolutionary history."
+      "en": "It is one of the most influential political texts of the nineteenth century and is closely tied to German intellectual and revolutionary history.",
+      "fr": "C'est l'un des textes politiques les plus influents du XIXe siècle, étroitement lié à l'histoire intellectuelle et révolutionnaire allemande.",
+      "es": "Es uno de los textos políticos más influyentes del siglo XIX y está estrechamente ligado a la historia intelectual y revolucionaria alemana.",
+      "it": "È uno dei testi politici più influenti del XIX secolo ed è strettamente legato alla storia intellettuale e rivoluzionaria tedesca.",
+      "pt": "É um dos textos políticos mais influentes do século XIX e está estreitamente ligado à história intelectual e revolucionária alemã.",
+      "nl": "Het is een van de invloedrijkste politieke teksten van de negentiende eeuw en nauw verbonden met Duitse intellectuele en revolutionaire geschiedenis.",
+      "pl": "To jeden z najbardziej wpływowych tekstów politycznych XIX wieku, ściśle związany z niemiecką historią idei i rewolucji.",
+      "tr": "Bu, on dokuzuncu yüzyılın en etkili siyasi metinlerinden biridir ve Alman düşünce ve devrim tarihiyle yakından bağlantılıdır.",
+      "zh": "这是19世纪最有影响力的政治文本之一，与德国思想史和革命史密切相关。",
+      "ja": "これは19世紀で最も影響力のある政治文書の一つであり、ドイツの思想史と革命史に深く結びついています。",
+      "ko": "이는 19세기의 가장 영향력 있는 정치 문서 중 하나이며 독일의 지성사와 혁명사와 밀접하게 연결되어 있습니다.",
+      "hi": "यह उन्नीसवीं सदी के सबसे प्रभावशाली राजनीतिक ग्रंथों में से एक है और जर्मन बौद्धिक तथा क्रांतिकारी इतिहास से गहराई से जुड़ा है।",
+      "ar": "إنه أحد أكثر النصوص السياسية تأثيرا في القرن التاسع عشر ويرتبط ارتباطا وثيقا بالتاريخ الفكري والثوري الألماني."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Немецкая книга из Лондона",
           "de": "Ein deutscher Text aus London",
-          "en": "A German text from London"
+          "en": "A German text from London",
+          "fr": "Un texte allemand venu de Londres",
+          "es": "Un texto alemán desde Londres",
+          "it": "Un testo tedesco da Londra",
+          "pt": "Um texto alemão vindo de Londres",
+          "nl": "Een Duitse tekst uit Londen",
+          "pl": "Niemiecki tekst z Londynu",
+          "tr": "Londra'dan bir Alman metni",
+          "zh": "来自伦敦的德语文本",
+          "ja": "ロンドンから出たドイツ語の文書",
+          "ko": "런던에서 나온 독일어 글",
+          "hi": "लंदन से आया जर्मन पाठ",
+          "ar": "نص ألماني من لندن"
         },
         "description": {
           "ru": "Хотя авторы были немцами, первый выпуск появился в Лондоне, где жили многие политические эмигранты. Так революционная история Германии сразу была частью европейской сети идей.",
           "de": "Obwohl die Autoren Deutsche waren, erschien die erste Ausgabe in London, wo viele politische Emigranten lebten. So war deutsche Revolutionsgeschichte von Anfang an Teil eines europaeischen Ideennetzes.",
-          "en": "Although the authors were German, the first edition appeared in London, where many political emigrants lived. German revolutionary history was therefore part of a European network of ideas from the start."
+          "en": "Although the authors were German, the first edition appeared in London, where many political emigrants lived. German revolutionary history was therefore part of a European network of ideas from the start.",
+          "fr": "Bien que les auteurs fussent allemands, la première édition parut à Londres, où vivaient de nombreux émigrés politiques. L'histoire révolutionnaire allemande faisait donc dès le départ partie d'un réseau européen d'idées.",
+          "es": "Aunque los autores eran alemanes, la primera edición apareció en Londres, donde vivían muchos emigrantes políticos. Así, la historia revolucionaria alemana formó parte desde el inicio de una red europea de ideas.",
+          "it": "Sebbene gli autori fossero tedeschi, la prima edizione apparve a Londra, dove vivevano molti emigrati politici. La storia rivoluzionaria tedesca fu quindi fin dall'inizio parte di una rete europea di idee.",
+          "pt": "Embora os autores fossem alemães, a primeira edição apareceu em Londres, onde viviam muitos emigrantes políticos. Assim, a história revolucionária alemã fez parte desde o início de uma rede europeia de ideias.",
+          "nl": "Hoewel de auteurs Duits waren, verscheen de eerste uitgave in Londen, waar veel politieke emigranten woonden. Zo was Duitse revolutionaire geschiedenis vanaf het begin deel van een Europees netwerk van ideeën.",
+          "pl": "Chociaż autorzy byli Niemcami, pierwsze wydanie ukazało się w Londynie, gdzie żyło wielu emigrantów politycznych. Niemiecka historia rewolucyjna od początku była więc częścią europejskiej sieci idei.",
+          "tr": "Yazarlar Alman olmasına rağmen ilk baskı, birçok siyasi göçmenin yaşadığı Londra'da çıktı. Böylece Alman devrim tarihi başından itibaren Avrupa çapında bir fikir ağının parçasıydı.",
+          "zh": "尽管作者是德国人，第一版却出现在许多政治流亡者居住的伦敦。因此，德国革命史从一开始就是欧洲思想网络的一部分。",
+          "ja": "著者たちはドイツ人でしたが、初版は多くの政治亡命者が暮らしていたロンドンで出ました。そのためドイツの革命史は、最初からヨーロッパの思想ネットワークの一部でした。",
+          "ko": "저자들은 독일인이었지만 첫 판은 많은 정치 망명자들이 살던 런던에서 나왔습니다. 따라서 독일 혁명사는 처음부터 유럽의 사상 네트워크의 일부였습니다.",
+          "hi": "लेखक जर्मन थे, फिर भी पहला संस्करण लंदन में छपा, जहाँ कई राजनीतिक प्रवासी रहते थे। इस तरह जर्मनी का क्रांतिकारी इतिहास शुरू से ही यूरोपीय विचार-जाल का हिस्सा था।",
+          "ar": "مع أن المؤلفين كانا ألمانيين، ظهرت الطبعة الأولى في لندن حيث عاش كثير من المهاجرين السياسيين. لذلك كان التاريخ الثوري الألماني منذ البداية جزءا من شبكة أفكار أوروبية."
         },
         "importance": {
           "ru": "Это помогает понять, что идеи часто путешествуют быстрее границ и государств.",
           "de": "Das hilft zu verstehen, dass Ideen oft schneller reisen als Grenzen und Staaten.",
-          "en": "It helps show that ideas often travel faster than borders and states."
+          "en": "It helps show that ideas often travel faster than borders and states.",
+          "fr": "Cela aide à comprendre que les idées voyagent souvent plus vite que les frontières et les États.",
+          "es": "Ayuda a entender que las ideas a menudo viajan más rápido que las fronteras y los Estados.",
+          "it": "Aiuta a capire che le idee spesso viaggiano più velocemente dei confini e degli Stati.",
+          "pt": "Ajuda a compreender que as ideias muitas vezes viajam mais depressa do que fronteiras e Estados.",
+          "nl": "Het helpt te begrijpen dat ideeën vaak sneller reizen dan grenzen en staten.",
+          "pl": "Pomaga to zrozumieć, że idee często podróżują szybciej niż granice i państwa.",
+          "tr": "Bu, fikirlerin çoğu zaman sınırlar ve devletlerden daha hızlı yol aldığını anlamaya yardımcı olur.",
+          "zh": "这有助于说明，思想常常比边界和国家传播得更快。",
+          "ja": "これは、思想が国境や国家よりも速く移動することが多いと理解する助けになります。",
+          "ko": "이는 사상이 국경과 국가보다 더 빠르게 이동하는 경우가 많다는 점을 보여 줍니다.",
+          "hi": "इससे समझने में मदद मिलती है कि विचार अक्सर सीमाओं और राज्यों से तेज यात्रा करते हैं।",
+          "ar": "يساعد ذلك على فهم أن الأفكار تسافر غالبا أسرع من الحدود والدول."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Маркс и Энгельс",
           "de": "Marx und Engels",
-          "en": "Marx and Engels"
+          "en": "Marx and Engels",
+          "fr": "Marx et Engels",
+          "es": "Marx y Engels",
+          "it": "Marx ed Engels",
+          "pt": "Marx e Engels",
+          "nl": "Marx en Engels",
+          "pl": "Marks i Engels",
+          "tr": "Marx ve Engels",
+          "zh": "马克思与恩格斯",
+          "ja": "マルクスとエンゲルス",
+          "ko": "마르크스와 엥겔스",
+          "hi": "मार्क्स और एंगेल्स",
+          "ar": "ماركس وإنغلز"
         },
         "description": {
           "ru": "Карл Маркс родился в Трире, а Фридрих Энгельс в Бармене, ныне части Вупперталя. Их совместная работа стала одним из самых известных примеров немецкой политической публицистики.",
           "de": "Karl Marx wurde in Trier geboren, Friedrich Engels in Barmen, heute Teil von Wuppertal. Ihre Zusammenarbeit wurde zu einem der bekanntesten Beispiele deutscher politischer Publizistik.",
-          "en": "Karl Marx was born in Trier and Friedrich Engels in Barmen, now part of Wuppertal. Their collaboration became one of the best-known examples of German political writing."
+          "en": "Karl Marx was born in Trier and Friedrich Engels in Barmen, now part of Wuppertal. Their collaboration became one of the best-known examples of German political writing.",
+          "fr": "Karl Marx est né à Trèves et Friedrich Engels à Barmen, aujourd'hui partie de Wuppertal. Leur collaboration devint l'un des exemples les plus connus de la publicistique politique allemande.",
+          "es": "Karl Marx nació en Tréveris y Friedrich Engels en Barmen, hoy parte de Wuppertal. Su colaboración se convirtió en uno de los ejemplos más conocidos de escritura política alemana.",
+          "it": "Karl Marx nacque a Treviri e Friedrich Engels a Barmen, oggi parte di Wuppertal. La loro collaborazione divenne uno degli esempi più noti di pubblicistica politica tedesca.",
+          "pt": "Karl Marx nasceu em Trier e Friedrich Engels em Barmen, hoje parte de Wuppertal. A sua colaboração tornou-se um dos exemplos mais conhecidos da escrita política alemã.",
+          "nl": "Karl Marx werd geboren in Trier en Friedrich Engels in Barmen, nu deel van Wuppertal. Hun samenwerking werd een van de bekendste voorbeelden van Duitse politieke publicistiek.",
+          "pl": "Karol Marks urodził się w Trewirze, a Fryderyk Engels w Barmen, dziś części Wuppertalu. Ich współpraca stała się jednym z najbardziej znanych przykładów niemieckiej publicystyki politycznej.",
+          "tr": "Karl Marx Trier'de, Friedrich Engels ise bugün Wuppertal'ın parçası olan Barmen'de doğdu. Ortak çalışmaları Alman siyasi yazınının en bilinen örneklerinden biri oldu.",
+          "zh": "卡尔·马克思出生于特里尔，弗里德里希·恩格斯出生于巴门，今天那里是伍珀塔尔的一部分。他们的合作成为德国政治写作最著名的例子之一。",
+          "ja": "カール・マルクスはトリーアで、フリードリヒ・エンゲルスは現在ヴッパータールの一部であるバルメンで生まれました。二人の共同作業は、ドイツの政治的著述の最も有名な例の一つとなりました。",
+          "ko": "카를 마르크스는 트리어에서, 프리드리히 엥겔스는 오늘날 부퍼탈의 일부인 바르멘에서 태어났습니다. 두 사람의 협업은 독일 정치 저술의 가장 잘 알려진 사례 중 하나가 되었습니다.",
+          "hi": "कार्ल मार्क्स का जन्म ट्रियर में और फ़्रीडरिष एंगेल्स का जन्म बार्मेन में हुआ, जो आज वुप्पर्टाल का हिस्सा है। उनका सहयोग जर्मन राजनीतिक लेखन के सबसे प्रसिद्ध उदाहरणों में से एक बना।",
+          "ar": "وُلد كارل ماركس في ترير، وفريدريش إنغلز في بارمن، وهي اليوم جزء من فوبرتال. وأصبح تعاونهما أحد أشهر أمثلة الكتابة السياسية الألمانية."
         },
         "importance": {
           "ru": "На их примере видно, как региональные биографии могут стать частью мировой истории.",
           "de": "An ihnen sieht man, wie regionale Biografien Teil der Weltgeschichte werden koennen.",
-          "en": "Their lives show how regional biographies can become part of world history."
+          "en": "Their lives show how regional biographies can become part of world history.",
+          "fr": "Leur exemple montre comment des biographies régionales peuvent devenir partie de l'histoire mondiale.",
+          "es": "Sus vidas muestran cómo biografías regionales pueden convertirse en parte de la historia mundial.",
+          "it": "Le loro vite mostrano come biografie regionali possano diventare parte della storia mondiale.",
+          "pt": "As suas vidas mostram como biografias regionais podem tornar-se parte da história mundial.",
+          "nl": "Hun levens laten zien hoe regionale biografieën deel kunnen worden van de wereldgeschiedenis.",
+          "pl": "Ich życie pokazuje, jak regionalne biografie mogą stać się częścią historii świata.",
+          "tr": "Onların yaşamları, bölgesel biyografilerin dünya tarihinin parçası olabileceğini gösterir.",
+          "zh": "他们的人生显示，地区性的个人经历如何成为世界历史的一部分。",
+          "ja": "二人の生涯は、地域的な人物史がどのように世界史の一部になり得るかを示しています。",
+          "ko": "그들의 삶은 지역적 전기가 어떻게 세계사의 일부가 될 수 있는지 보여 줍니다.",
+          "hi": "उनका जीवन दिखाता है कि क्षेत्रीय जीवनियाँ विश्व इतिहास का हिस्सा कैसे बन सकती हैं।",
+          "ar": "تُظهر حياتهما كيف يمكن لسير إقليمية أن تصبح جزءا من تاريخ العالم."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Манифест появился почти одновременно с началом революций 1848 года в Европе.",
     "de": "Das Manifest erschien fast gleichzeitig mit dem Beginn der Revolutionen von 1848 in Europa.",
-    "en": "The Manifesto appeared almost at the same time as the revolutions of 1848 began in Europe."
+    "en": "The Manifesto appeared almost at the same time as the revolutions of 1848 began in Europe.",
+    "fr": "Le Manifeste parut presque en même temps que le début des révolutions de 1848 en Europe.",
+    "es": "El Manifiesto apareció casi al mismo tiempo que comenzaban las revoluciones de 1848 en Europa.",
+    "it": "Il Manifesto apparve quasi nello stesso momento in cui iniziavano le rivoluzioni del 1848 in Europa.",
+    "pt": "O Manifesto apareceu quase ao mesmo tempo que começavam as revoluções de 1848 na Europa.",
+    "nl": "Het Manifest verscheen bijna tegelijk met het begin van de revoluties van 1848 in Europa.",
+    "pl": "Manifest ukazał się niemal równocześnie z początkiem rewolucji 1848 roku w Europie.",
+    "tr": "Manifesto, Avrupa'da 1848 devrimlerinin başlamasıyla neredeyse aynı zamanda ortaya çıktı.",
+    "zh": "《宣言》的出现几乎与1848年欧洲革命的开始同时。",
+    "ja": "この宣言は、ヨーロッパで1848年革命が始まるのとほぼ同時に現れました。",
+    "ko": "선언은 유럽에서 1848년 혁명이 시작될 때와 거의 동시에 등장했습니다.",
+    "hi": "घोषणापत्र यूरोप में 1848 की क्रांतियों की शुरुआत के लगभग साथ ही आया।",
+    "ar": "ظهر البيان تقريبا في الوقت نفسه الذي بدأت فيه ثورات 1848 في أوروبا."
   },
   "sources": [
     {

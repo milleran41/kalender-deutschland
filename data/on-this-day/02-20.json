@@ -11,17 +11,53 @@
     "title": {
       "ru": "Тайная встреча Гитлера с промышленниками",
       "de": "Hitlers geheimes Treffen mit Industriellen",
-      "en": "Hitler's secret meeting with industrialists"
+      "en": "Hitler's secret meeting with industrialists",
+      "fr": "La réunion secrète d'Hitler avec des industriels",
+      "es": "La reunión secreta de Hitler con industriales",
+      "it": "L'incontro segreto di Hitler con gli industriali",
+      "pt": "A reunião secreta de Hitler com industriais",
+      "nl": "Hitlers geheime ontmoeting met industriëlen",
+      "pl": "Tajne spotkanie Hitlera z przemysłowcami",
+      "tr": "Hitler'in sanayicilerle gizli toplantısı",
+      "zh": "希特勒与工业家的秘密会面",
+      "ja": "ヒトラーと実業家たちの秘密会合",
+      "ko": "히틀러와 산업가들의 비밀 회동",
+      "hi": "हिटलर की उद्योगपतियों से गुप्त बैठक",
+      "ar": "اجتماع هتلر السري مع الصناعيين"
     },
     "description": {
       "ru": "20 февраля 1933 года Адольф Гитлер встретился в Берлине с ведущими промышленниками и банкирами. На встрече собирали средства для избирательной кампании НСДАП перед выборами 5 марта.",
       "de": "Am 20. Februar 1933 traf Adolf Hitler in Berlin fuehrende Industrielle und Bankiers. Bei dem Treffen wurden Mittel fuer den Wahlkampf der NSDAP vor der Wahl vom 5. Maerz gesammelt.",
-      "en": "On 20 February 1933, Adolf Hitler met leading industrialists and bankers in Berlin. The meeting raised funds for the Nazi Party's campaign before the election of 5 March."
+      "en": "On 20 February 1933, Adolf Hitler met leading industrialists and bankers in Berlin. The meeting raised funds for the Nazi Party's campaign before the election of 5 March.",
+      "fr": "Le 20 février 1933, Adolf Hitler rencontra à Berlin de grands industriels et banquiers. La réunion servit à recueillir des fonds pour la campagne du parti nazi avant les élections du 5 mars.",
+      "es": "El 20 de febrero de 1933, Adolf Hitler se reunió en Berlín con importantes industriales y banqueros. En la reunión se recaudaron fondos para la campaña del Partido Nazi antes de las elecciones del 5 de marzo.",
+      "it": "Il 20 febbraio 1933 Adolf Hitler incontrò a Berlino importanti industriali e banchieri. L'incontro raccolse fondi per la campagna del Partito nazista prima delle elezioni del 5 marzo.",
+      "pt": "Em 20 de fevereiro de 1933, Adolf Hitler reuniu-se em Berlim com importantes industriais e banqueiros. A reunião angariou fundos para a campanha do Partido Nazi antes da eleição de 5 de março.",
+      "nl": "Op 20 februari 1933 ontmoette Adolf Hitler in Berlijn vooraanstaande industriëlen en bankiers. Tijdens de bijeenkomst werd geld ingezameld voor de campagne van de NSDAP vóór de verkiezing van 5 maart.",
+      "pl": "20 lutego 1933 roku Adolf Hitler spotkał się w Berlinie z czołowymi przemysłowcami i bankierami. Na spotkaniu zbierano środki na kampanię NSDAP przed wyborami 5 marca.",
+      "tr": "20 Şubat 1933'te Adolf Hitler Berlin'de önde gelen sanayiciler ve bankacılarla buluştu. Toplantıda 5 Mart seçimleri öncesinde Nazi Partisi'nin kampanyası için para toplandı.",
+      "zh": "1933年2月20日，阿道夫·希特勒在柏林会见了主要工业家和银行家。会议为纳粹党在3月5日选举前的竞选筹集资金。",
+      "ja": "1933年2月20日、アドルフ・ヒトラーはベルリンで有力な実業家や銀行家と会いました。この会合では、3月5日の選挙を前にナチ党の選挙運動資金が集められました。",
+      "ko": "1933년 2월 20일, 아돌프 히틀러는 베를린에서 주요 산업가와 은행가들을 만났습니다. 이 회동에서는 3월 5일 선거를 앞둔 나치당 선거운동 자금이 모였습니다.",
+      "hi": "20 फ़रवरी 1933 को एडॉल्फ हिटलर ने बर्लिन में प्रमुख उद्योगपतियों और बैंकरों से मुलाकात की। इस बैठक में 5 मार्च के चुनाव से पहले नाजी पार्टी के चुनाव अभियान के लिए धन जुटाया गया।",
+      "ar": "في 20 فبراير 1933 التقى أدولف هتلر في برلين كبار الصناعيين والمصرفيين. وجُمعت في الاجتماع أموال لحملة الحزب النازي قبل انتخابات 5 مارس."
     },
     "importance": {
       "ru": "Дата показывает, что приход диктатуры к власти был связан не только с уличным насилием и пропагандой, но и с поддержкой части экономических элит.",
       "de": "Das Datum zeigt, dass der Weg der Diktatur zur Macht nicht nur mit Strassengewalt und Propaganda, sondern auch mit Unterstuetzung aus Teilen der Wirtschaftseliten verbunden war.",
-      "en": "The date shows that dictatorship's path to power was connected not only with street violence and propaganda, but also with support from parts of the economic elite."
+      "en": "The date shows that dictatorship's path to power was connected not only with street violence and propaganda, but also with support from parts of the economic elite.",
+      "fr": "Cette date montre que l'arrivée de la dictature au pouvoir fut liée non seulement à la violence de rue et à la propagande, mais aussi au soutien d'une partie des élites économiques.",
+      "es": "La fecha muestra que el camino de la dictadura hacia el poder estuvo ligado no solo a la violencia callejera y la propaganda, sino también al apoyo de parte de las élites económicas.",
+      "it": "La data mostra che il cammino della dittatura verso il potere fu legato non solo alla violenza di strada e alla propaganda, ma anche al sostegno di parte delle élite economiche.",
+      "pt": "A data mostra que o caminho da ditadura para o poder esteve ligado não só à violência de rua e à propaganda, mas também ao apoio de parte das elites económicas.",
+      "nl": "Deze datum laat zien dat de weg van de dictatuur naar de macht niet alleen verbonden was met straatgeweld en propaganda, maar ook met steun van delen van de economische elite.",
+      "pl": "Ta data pokazuje, że droga dyktatury do władzy wiązała się nie tylko z przemocą uliczną i propagandą, lecz także ze wsparciem części elit gospodarczych.",
+      "tr": "Bu tarih, diktatörlüğün iktidara giden yolunun yalnızca sokak şiddeti ve propaganda ile değil, ekonomik elitlerin bir kısmının desteğiyle de bağlantılı olduğunu gösterir.",
+      "zh": "这个日期表明，独裁政权上台不仅与街头暴力和宣传有关，也与部分经济精英的支持有关。",
+      "ja": "この日付は、独裁が権力へ至る道が街頭暴力や宣伝だけでなく、経済エリートの一部からの支持とも結びついていたことを示しています。",
+      "ko": "이 날짜는 독재가 권력에 이르는 길이 거리 폭력과 선전뿐 아니라 경제 엘리트 일부의 지원과도 연결되어 있었음을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि तानाशाही के सत्ता तक पहुँचने का रास्ता केवल सड़क हिंसा और प्रचार से नहीं, बल्कि आर्थिक अभिजात वर्ग के एक हिस्से के समर्थन से भी जुड़ा था।",
+      "ar": "يبين هذا التاريخ أن طريق الدكتاتورية إلى السلطة لم يرتبط بعنف الشوارع والدعاية فقط، بل أيضا بدعم من أجزاء من النخب الاقتصادية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Деньги для диктатуры",
           "de": "Geld fuer die Diktatur",
-          "en": "Money for dictatorship"
+          "en": "Money for dictatorship",
+          "fr": "De l'argent pour la dictature",
+          "es": "Dinero para la dictadura",
+          "it": "Denaro per la dittatura",
+          "pt": "Dinheiro para a ditadura",
+          "nl": "Geld voor de dictatuur",
+          "pl": "Pieniądze dla dyktatury",
+          "tr": "Diktatörlük için para",
+          "zh": "给独裁的资金",
+          "ja": "独裁への資金",
+          "ko": "독재를 위한 돈",
+          "hi": "तानाशाही के लिए पैसा",
+          "ar": "مال من أجل الدكتاتورية"
         },
         "description": {
           "ru": "НСДАП уже имела власть канцлера, но стремилась укрепить позиции на выборах и сломать парламентскую систему. Поддержка бизнеса помогала финансировать кампанию в момент, когда демократия быстро разрушалась.",
           "de": "Die NSDAP stellte bereits den Kanzler, wollte aber ihre Stellung bei der Wahl festigen und das parlamentarische System zerbrechen. Die Unterstuetzung aus der Wirtschaft half, den Wahlkampf in einem Moment zu finanzieren, in dem die Demokratie rasch zerfiel.",
-          "en": "The Nazi Party already held the chancellorship, but wanted to strengthen its position in the election and break the parliamentary system. Business support helped finance the campaign at a moment when democracy was rapidly collapsing."
+          "en": "The Nazi Party already held the chancellorship, but wanted to strengthen its position in the election and break the parliamentary system. Business support helped finance the campaign at a moment when democracy was rapidly collapsing.",
+          "fr": "Le parti nazi détenait déjà la chancellerie, mais voulait renforcer sa position aux élections et briser le système parlementaire. Le soutien du monde économique aida à financer la campagne à un moment où la démocratie s'effondrait rapidement.",
+          "es": "El Partido Nazi ya ocupaba la cancillería, pero quería fortalecer su posición en las elecciones y romper el sistema parlamentario. El apoyo empresarial ayudó a financiar la campaña en un momento en que la democracia se derrumbaba rápidamente.",
+          "it": "Il Partito nazista controllava già la cancelleria, ma voleva rafforzare la propria posizione nelle elezioni e spezzare il sistema parlamentare. Il sostegno economico aiutò a finanziare la campagna mentre la democrazia crollava rapidamente.",
+          "pt": "O Partido Nazi já ocupava a chancelaria, mas queria reforçar a sua posição nas eleições e destruir o sistema parlamentar. O apoio empresarial ajudou a financiar a campanha num momento em que a democracia ruía rapidamente.",
+          "nl": "De NSDAP leverde al de kanselier, maar wilde haar positie bij de verkiezingen versterken en het parlementaire systeem breken. Steun uit het bedrijfsleven hielp de campagne te financieren op een moment dat de democratie snel instortte.",
+          "pl": "NSDAP miała już urząd kanclerza, ale chciała wzmocnić swoją pozycję w wyborach i złamać system parlamentarny. Wsparcie biznesu pomagało finansować kampanię w chwili, gdy demokracja szybko się rozpadała.",
+          "tr": "Nazi Partisi şansölyeliği zaten elinde tutuyordu, ancak seçimde konumunu güçlendirmek ve parlamenter sistemi kırmak istiyordu. İş dünyasının desteği, demokrasinin hızla çöktüğü bir anda kampanyayı finanse etmeye yardım etti.",
+          "zh": "纳粹党已经掌握总理职位，但仍希望在选举中加强地位并摧毁议会制度。商业界的支持帮助其在民主迅速崩塌之际为竞选筹资。",
+          "ja": "ナチ党はすでに首相職を握っていましたが、選挙で立場を強め、議会制度を破壊しようとしていました。経済界の支援は、民主主義が急速に崩れていく時期に選挙運動資金を支えました。",
+          "ko": "나치당은 이미 총리직을 차지하고 있었지만, 선거에서 입지를 강화하고 의회 제도를 무너뜨리려 했습니다. 기업계의 지원은 민주주의가 빠르게 붕괴하던 순간 선거운동 자금을 마련하는 데 도움을 주었습니다.",
+          "hi": "नाजी पार्टी के पास पहले से चांसलर का पद था, लेकिन वह चुनाव में अपनी स्थिति मजबूत कर संसदीय व्यवस्था को तोड़ना चाहती थी। व्यापार जगत के समर्थन ने उस समय अभियान को धन दिया जब लोकतंत्र तेजी से टूट रहा था।",
+          "ar": "كان الحزب النازي يملك منصب المستشار بالفعل، لكنه أراد تعزيز موقعه في الانتخابات وكسر النظام البرلماني. وساعد دعم رجال الأعمال في تمويل الحملة في لحظة كانت الديمقراطية تنهار فيها بسرعة."
         },
         "importance": {
           "ru": "Это помогает понять, что ответственность за диктатуру лежит не только на одном человеке.",
           "de": "Das hilft zu verstehen, dass Verantwortung fuer eine Diktatur nicht nur bei einer einzelnen Person liegt.",
-          "en": "It helps show that responsibility for dictatorship does not rest with one person alone."
+          "en": "It helps show that responsibility for dictatorship does not rest with one person alone.",
+          "fr": "Cela aide à comprendre que la responsabilité d'une dictature ne repose pas sur une seule personne.",
+          "es": "Ayuda a entender que la responsabilidad por una dictadura no recae en una sola persona.",
+          "it": "Aiuta a capire che la responsabilità di una dittatura non ricade su una sola persona.",
+          "pt": "Ajuda a compreender que a responsabilidade por uma ditadura não recai sobre uma só pessoa.",
+          "nl": "Het helpt te begrijpen dat de verantwoordelijkheid voor een dictatuur niet bij één persoon alleen ligt.",
+          "pl": "Pomaga to zrozumieć, że odpowiedzialność za dyktaturę nie spoczywa tylko na jednej osobie.",
+          "tr": "Bu, diktatörlük sorumluluğunun yalnızca tek bir kişiye ait olmadığını anlamaya yardımcı olur.",
+          "zh": "这有助于说明，对独裁的责任并不只落在一个人身上。",
+          "ja": "これは、独裁への責任が一人だけにあるわけではないことを理解する助けになります。",
+          "ko": "이는 독재에 대한 책임이 한 사람에게만 있지 않다는 점을 이해하는 데 도움이 됩니다.",
+          "hi": "इससे समझने में मदद मिलती है कि तानाशाही की जिम्मेदारी केवल एक व्यक्ति पर नहीं होती।",
+          "ar": "يساعد ذلك على فهم أن المسؤولية عن الدكتاتورية لا تقع على شخص واحد فقط."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Встреча у Геринга",
           "de": "Treffen bei Goering",
-          "en": "Meeting at Goering's residence"
+          "en": "Meeting at Goering's residence",
+          "fr": "Réunion chez Goering",
+          "es": "Reunión en la residencia de Goering",
+          "it": "Incontro nella residenza di Goering",
+          "pt": "Reunião na residência de Goering",
+          "nl": "Bijeenkomst bij Goering",
+          "pl": "Spotkanie u Goeringa",
+          "tr": "Goering'in konutunda toplantı",
+          "zh": "在戈林官邸的会面",
+          "ja": "ゲーリング邸での会合",
+          "ko": "괴링 관저에서 열린 회의",
+          "hi": "गोअरिंग के निवास पर बैठक",
+          "ar": "اجتماع في مقر إقامة غورينغ"
         },
         "description": {
           "ru": "Встреча проходила в официальной резиденции Германа Геринга как президента рейхстага. Такое место показывало, как быстро партийные интересы нацистов начали сливаться с государственными ресурсами.",
           "de": "Das Treffen fand in Hermann Goerings Amtssitz als Reichstagspraesident statt. Der Ort zeigte, wie schnell Parteiinteressen der Nationalsozialisten mit staatlichen Ressourcen verschmolzen.",
-          "en": "The meeting took place at Hermann Goering's official residence as president of the Reichstag. The setting showed how quickly Nazi party interests began to merge with state resources."
+          "en": "The meeting took place at Hermann Goering's official residence as president of the Reichstag. The setting showed how quickly Nazi party interests began to merge with state resources.",
+          "fr": "La réunion eut lieu dans la résidence officielle d'Hermann Goering comme président du Reichstag. Ce lieu montrait à quelle vitesse les intérêts du parti nazi commençaient à se confondre avec les ressources de l'État.",
+          "es": "La reunión tuvo lugar en la residencia oficial de Hermann Goering como presidente del Reichstag. El lugar mostraba lo rápido que los intereses del partido nazi empezaban a mezclarse con los recursos del Estado.",
+          "it": "L'incontro si svolse nella residenza ufficiale di Hermann Goering come presidente del Reichstag. Il luogo mostrava quanto rapidamente gli interessi del partito nazista iniziassero a fondersi con le risorse dello Stato.",
+          "pt": "A reunião ocorreu na residência oficial de Hermann Goering enquanto presidente do Reichstag. O local mostrava a rapidez com que os interesses do partido nazi começavam a fundir-se com recursos do Estado.",
+          "nl": "De bijeenkomst vond plaats in de officiële ambtswoning van Hermann Goering als president van de Rijksdag. De locatie liet zien hoe snel partijbelangen van de nazi's begonnen samen te vallen met staatsmiddelen.",
+          "pl": "Spotkanie odbyło się w oficjalnej rezydencji Hermanna Goeringa jako prezydenta Reichstagu. To miejsce pokazywało, jak szybko interesy partii nazistowskiej zaczęły zrastać się z zasobami państwa.",
+          "tr": "Toplantı, Hermann Goering'in Reichstag başkanı olarak resmi konutunda yapıldı. Bu mekan, Nazi partisinin çıkarlarının devlet kaynaklarıyla ne kadar hızlı birleşmeye başladığını gösteriyordu.",
+          "zh": "会议在赫尔曼·戈林作为国会主席的官方住所举行。这个地点显示出纳粹党的利益多么迅速地开始与国家资源融合。",
+          "ja": "会合は、ライヒ議会議長としてのヘルマン・ゲーリングの公邸で行われました。その場所は、ナチ党の利益がどれほど急速に国家資源と結びつき始めたかを示していました。",
+          "ko": "회의는 헤르만 괴링이 라이히스탁 의장으로 사용하던 공식 관저에서 열렸습니다. 이 장소는 나치당의 이해관계가 국가 자원과 얼마나 빠르게 결합하기 시작했는지를 보여 주었습니다.",
+          "hi": "बैठक राइखस्टाग अध्यक्ष के रूप में हेरमन गोअरिंग के आधिकारिक निवास पर हुई। यह स्थान दिखाता था कि नाजी पार्टी के हित कितनी जल्दी राज्य संसाधनों से मिलते जा रहे थे।",
+          "ar": "عُقد الاجتماع في المقر الرسمي لهرمان غورينغ بصفته رئيس الرايخستاغ. وكان المكان يبين مدى سرعة اندماج مصالح الحزب النازي مع موارد الدولة."
         },
         "importance": {
           "ru": "Иногда адрес встречи говорит о политической ситуации не меньше, чем сама повестка.",
           "de": "Manchmal sagt der Ort eines Treffens ueber die politische Lage genauso viel wie die Tagesordnung.",
-          "en": "Sometimes the location of a meeting says as much about the political situation as the agenda."
+          "en": "Sometimes the location of a meeting says as much about the political situation as the agenda.",
+          "fr": "Parfois, le lieu d'une réunion en dit autant sur la situation politique que l'ordre du jour lui-même.",
+          "es": "A veces, el lugar de una reunión dice tanto sobre la situación política como el propio orden del día.",
+          "it": "A volte il luogo di un incontro dice sulla situazione politica tanto quanto l'ordine del giorno.",
+          "pt": "Às vezes, o local de uma reunião diz tanto sobre a situação política como a própria agenda.",
+          "nl": "Soms zegt de plaats van een bijeenkomst evenveel over de politieke situatie als de agenda zelf.",
+          "pl": "Czasem adres spotkania mówi o sytuacji politycznej nie mniej niż sam porządek obrad.",
+          "tr": "Bazen bir toplantının yeri, siyasi durum hakkında gündem kadar çok şey söyler.",
+          "zh": "有时，会议地点本身就像议程一样能说明政治形势。",
+          "ja": "会合の場所は、議題そのものと同じくらい政治状況を物語ることがあります。",
+          "ko": "때로는 회의 장소가 의제만큼이나 정치 상황을 말해 줍니다.",
+          "hi": "कभी-कभी बैठक का स्थान राजनीतिक स्थिति के बारे में एजेंडा जितना ही बताता है।",
+          "ar": "أحيانا يقول مكان الاجتماع عن الوضع السياسي قدر ما تقوله الأجندة نفسها."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Вскоре после встречи, 27 февраля 1933 года, произошёл поджог рейхстага, который нацисты использовали для расширения репрессий.",
     "de": "Kurz nach dem Treffen, am 27. Februar 1933, brannte der Reichstag; die Nationalsozialisten nutzten dies zur Ausweitung der Repression.",
-    "en": "Soon after the meeting, on 27 February 1933, the Reichstag burned; the Nazis used this to expand repression."
+    "en": "Soon after the meeting, on 27 February 1933, the Reichstag burned; the Nazis used this to expand repression.",
+    "fr": "Peu après la réunion, le 27 février 1933, le Reichstag brûla; les nazis s'en servirent pour étendre la répression.",
+    "es": "Poco después de la reunión, el 27 de febrero de 1933, ardió el Reichstag; los nazis lo usaron para ampliar la represión.",
+    "it": "Poco dopo l'incontro, il 27 febbraio 1933, il Reichstag bruciò; i nazisti usarono l'evento per ampliare la repressione.",
+    "pt": "Pouco depois da reunião, em 27 de fevereiro de 1933, o Reichstag ardeu; os nazis usaram isso para ampliar a repressão.",
+    "nl": "Kort na de bijeenkomst, op 27 februari 1933, brandde de Rijksdag; de nazi's gebruikten dit om de repressie uit te breiden.",
+    "pl": "Wkrótce po spotkaniu, 27 lutego 1933 roku, spłonął Reichstag; naziści wykorzystali to do rozszerzenia represji.",
+    "tr": "Toplantıdan kısa süre sonra, 27 Şubat 1933'te Reichstag yandı; Naziler bunu baskıyı genişletmek için kullandı.",
+    "zh": "会议后不久，1933年2月27日，国会大厦起火；纳粹利用此事扩大镇压。",
+    "ja": "会合の直後、1933年2月27日にライヒ議会議事堂が炎上し、ナチスはこれを弾圧拡大に利用しました。",
+    "ko": "회의 직후인 1933년 2월 27일 라이히스탁이 불탔고, 나치는 이를 탄압 확대에 이용했습니다.",
+    "hi": "बैठक के कुछ ही समय बाद, 27 फ़रवरी 1933 को राइखस्टाग में आग लगी; नाजियों ने इसका उपयोग दमन बढ़ाने के लिए किया।",
+    "ar": "بعد الاجتماع بقليل، في 27 فبراير 1933، احترق الرايخستاغ؛ واستغل النازيون ذلك لتوسيع القمع."
   },
   "sources": [
     {

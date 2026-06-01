@@ -11,17 +11,53 @@
     "title": {
       "ru": "Женщина впервые выступила в немецком парламенте",
       "de": "Eine Frau spricht erstmals in einem deutschen Parlament",
-      "en": "A woman speaks in a German parliament for the first time"
+      "en": "A woman speaks in a German parliament for the first time",
+      "fr": "Une femme parle pour la première fois dans un parlement allemand",
+      "es": "Una mujer habla por primera vez en un parlamento alemán",
+      "it": "Una donna parla per la prima volta in un parlamento tedesco",
+      "pt": "Uma mulher fala pela primeira vez num parlamento alemão",
+      "nl": "Een vrouw spreekt voor het eerst in een Duits parlement",
+      "pl": "Kobieta po raz pierwszy przemawia w niemieckim parlamencie",
+      "tr": "Bir kadın ilk kez Alman parlamentosunda konuştu",
+      "zh": "女性首次在德国议会发言",
+      "ja": "女性が初めてドイツ議会で演説する",
+      "ko": "여성이 처음으로 독일 의회에서 발언하다",
+      "hi": "एक महिला ने पहली बार जर्मन संसद में भाषण दिया",
+      "ar": "امرأة تتحدث لأول مرة في برلمان ألماني"
     },
     "description": {
       "ru": "19 февраля 1919 года социал-демократка Мари Юхач выступила в Веймарском национальном собрании. Это была первая речь женщины в немецком парламенте.",
       "de": "Am 19. Februar 1919 sprach die Sozialdemokratin Marie Juchacz in der Weimarer Nationalversammlung. Es war die erste Rede einer Frau in einem deutschen Parlament.",
-      "en": "On 19 February 1919, Social Democrat Marie Juchacz spoke in the Weimar National Assembly. It was the first speech by a woman in a German parliament."
+      "en": "On 19 February 1919, Social Democrat Marie Juchacz spoke in the Weimar National Assembly. It was the first speech by a woman in a German parliament.",
+      "fr": "Le 19 février 1919, la sociale-démocrate Marie Juchacz prit la parole à l'Assemblée nationale de Weimar. Ce fut le premier discours d'une femme dans un parlement allemand.",
+      "es": "El 19 de febrero de 1919, la socialdemócrata Marie Juchacz habló en la Asamblea Nacional de Weimar. Fue el primer discurso de una mujer en un parlamento alemán.",
+      "it": "Il 19 febbraio 1919 la socialdemocratica Marie Juchacz parlò nell'Assemblea nazionale di Weimar. Fu il primo discorso di una donna in un parlamento tedesco.",
+      "pt": "Em 19 de fevereiro de 1919, a social-democrata Marie Juchacz falou na Assembleia Nacional de Weimar. Foi o primeiro discurso de uma mulher num parlamento alemão.",
+      "nl": "Op 19 februari 1919 sprak sociaaldemocraat Marie Juchacz in de Nationale Vergadering van Weimar. Het was de eerste rede van een vrouw in een Duits parlement.",
+      "pl": "19 lutego 1919 roku socjaldemokratka Marie Juchacz przemówiła w Weimarskim Zgromadzeniu Narodowym. Było to pierwsze wystąpienie kobiety w niemieckim parlamencie.",
+      "tr": "19 Şubat 1919'da sosyal demokrat Marie Juchacz Weimar Ulusal Meclisi'nde konuştu. Bu, bir kadının Alman parlamentosundaki ilk konuşmasıydı.",
+      "zh": "1919年2月19日，社会民主党人玛丽·尤哈奇在魏玛国民议会发言。这是女性在德国议会中的首次演讲。",
+      "ja": "1919年2月19日、社会民主主義者マリー・ユハチュがワイマール国民議会で演説しました。これはドイツ議会における女性初の演説でした。",
+      "ko": "1919년 2월 19일, 사회민주주의자 마리 유하츠가 바이마르 국민의회에서 연설했습니다. 이는 독일 의회에서 여성이 한 첫 연설이었습니다.",
+      "hi": "19 फ़रवरी 1919 को सोशल डेमोक्रेट मारी युखाच ने वाइमर राष्ट्रीय सभा में भाषण दिया। यह जर्मन संसद में किसी महिला का पहला भाषण था।",
+      "ar": "في 19 فبراير 1919 تحدثت الاشتراكية الديمقراطية ماري يوخاتس في الجمعية الوطنية في فايمار. وكان ذلك أول خطاب لامرأة في برلمان ألماني."
     },
     "importance": {
       "ru": "Дата показывает, как после Первой мировой войны немецкая демократия впервые открыла парламентскую трибуну для женщин.",
       "de": "Das Datum zeigt, wie die deutsche Demokratie nach dem Ersten Weltkrieg Frauen erstmals die parlamentarische Rednertribuene oeffnete.",
-      "en": "The date shows how, after the First World War, German democracy first opened the parliamentary podium to women."
+      "en": "The date shows how, after the First World War, German democracy first opened the parliamentary podium to women.",
+      "fr": "Cette date montre comment, après la Première Guerre mondiale, la démocratie allemande ouvrit pour la première fois la tribune parlementaire aux femmes.",
+      "es": "La fecha muestra cómo, después de la Primera Guerra Mundial, la democracia alemana abrió por primera vez la tribuna parlamentaria a las mujeres.",
+      "it": "La data mostra come, dopo la Prima guerra mondiale, la democrazia tedesca aprì per la prima volta la tribuna parlamentare alle donne.",
+      "pt": "A data mostra como, depois da Primeira Guerra Mundial, a democracia alemã abriu pela primeira vez a tribuna parlamentar às mulheres.",
+      "nl": "Deze datum laat zien hoe de Duitse democratie na de Eerste Wereldoorlog voor het eerst het parlementaire spreekgestoelte voor vrouwen opende.",
+      "pl": "Ta data pokazuje, jak po pierwszej wojnie światowej niemiecka demokracja po raz pierwszy otworzyła parlamentarną mównicę dla kobiet.",
+      "tr": "Bu tarih, Birinci Dünya Savaşı'ndan sonra Alman demokrasisinin parlamentodaki kürsüyü kadınlara ilk kez nasıl açtığını gösterir.",
+      "zh": "这个日期显示，第一次世界大战后，德国民主制度首次向女性开放了议会讲坛。",
+      "ja": "この日付は、第一次世界大戦後のドイツ民主主義が、初めて女性に議会の演壇を開いたことを示しています。",
+      "ko": "이 날짜는 제1차 세계대전 이후 독일 민주주의가 처음으로 여성에게 의회 연단을 열었음을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि प्रथम विश्व युद्ध के बाद जर्मन लोकतंत्र ने पहली बार महिलाओं के लिए संसदीय मंच खोला।",
+      "ar": "يبين هذا التاريخ كيف فتحت الديمقراطية الألمانية بعد الحرب العالمية الأولى منصة البرلمان للنساء لأول مرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Женское избирательное право становится видимым",
           "de": "Frauenwahlrecht wird sichtbar",
-          "en": "Women's suffrage becomes visible"
+          "en": "Women's suffrage becomes visible",
+          "fr": "Le droit de vote des femmes devient visible",
+          "es": "El sufragio femenino se hace visible",
+          "it": "Il suffragio femminile diventa visibile",
+          "pt": "O sufrágio feminino torna-se visível",
+          "nl": "Vrouwenkiesrecht wordt zichtbaar",
+          "pl": "Prawa wyborcze kobiet stają się widoczne",
+          "tr": "Kadınların oy hakkı görünür hale geldi",
+          "zh": "女性选举权变得可见",
+          "ja": "女性参政権が目に見えるものになる",
+          "ko": "여성 참정권이 가시화되다",
+          "hi": "महिला मताधिकार दिखाई देने लगा",
+          "ar": "حق المرأة في التصويت يصبح ظاهرا"
         },
         "description": {
           "ru": "Женщины в Германии получили право голосовать и быть избранными после революции 1918 года. Речь Юхач стала символом того, что это право уже действует на практике.",
           "de": "Frauen in Deutschland erhielten nach der Revolution von 1918 das aktive und passive Wahlrecht. Juchacz' Rede wurde zum Zeichen dafuer, dass dieses Recht nun praktisch wirkte.",
-          "en": "Women in Germany gained the right to vote and stand for election after the 1918 revolution. Juchacz's speech became a sign that this right was now working in practice."
+          "en": "Women in Germany gained the right to vote and stand for election after the 1918 revolution. Juchacz's speech became a sign that this right was now working in practice.",
+          "fr": "Les femmes en Allemagne obtinrent le droit de voter et d'être élues après la révolution de 1918. Le discours de Juchacz devint le signe que ce droit fonctionnait désormais en pratique.",
+          "es": "Las mujeres en Alemania obtuvieron el derecho a votar y a ser elegidas después de la revolución de 1918. El discurso de Juchacz se convirtió en señal de que ese derecho ya funcionaba en la práctica.",
+          "it": "Le donne in Germania ottennero il diritto di votare e di essere elette dopo la rivoluzione del 1918. Il discorso di Juchacz divenne il segno che questo diritto funzionava ormai nella pratica.",
+          "pt": "As mulheres na Alemanha conquistaram o direito de votar e de ser eleitas depois da revolução de 1918. O discurso de Juchacz tornou-se sinal de que esse direito já funcionava na prática.",
+          "nl": "Vrouwen in Duitsland kregen na de revolutie van 1918 het recht om te stemmen en verkozen te worden. De rede van Juchacz werd een teken dat dit recht nu ook in de praktijk werkte.",
+          "pl": "Kobiety w Niemczech uzyskały prawo głosu i kandydowania po rewolucji 1918 roku. Przemówienie Juchacz stało się znakiem, że to prawo działało już w praktyce.",
+          "tr": "Almanya'da kadınlar 1918 devriminden sonra oy verme ve seçilme hakkı kazandı. Juchacz'ın konuşması bu hakkın artık uygulamada işlediğinin işareti oldu.",
+          "zh": "1918年革命后，德国女性获得了投票权和被选举权。尤哈奇的演讲成为这一权利已经在实践中生效的象征。",
+          "ja": "ドイツの女性は1918年革命後に投票権と被選挙権を得ました。ユハチュの演説は、その権利が実際に機能し始めたことの象徴となりました。",
+          "ko": "독일 여성들은 1918년 혁명 이후 투표권과 피선거권을 얻었습니다. 유하츠의 연설은 이 권리가 실제로 작동하고 있음을 보여 주는 상징이 되었습니다.",
+          "hi": "जर्मनी में महिलाओं को 1918 की क्रांति के बाद वोट देने और चुनाव लड़ने का अधिकार मिला। युखाच का भाषण इस बात का प्रतीक बना कि यह अधिकार अब व्यवहार में काम कर रहा था।",
+          "ar": "حصلت النساء في ألمانيا بعد ثورة 1918 على حق التصويت والترشح. وأصبح خطاب يوخاتس علامة على أن هذا الحق صار يعمل عمليا."
         },
         "importance": {
           "ru": "Это важный шаг от формального права к реальному участию в политике.",
           "de": "Das ist ein wichtiger Schritt vom formalen Recht zur wirklichen politischen Teilhabe.",
-          "en": "It was an important step from formal rights to real political participation."
+          "en": "It was an important step from formal rights to real political participation.",
+          "fr": "Ce fut une étape importante entre le droit formel et la participation politique réelle.",
+          "es": "Fue un paso importante desde el derecho formal hacia la participación política real.",
+          "it": "Fu un passo importante dal diritto formale alla partecipazione politica reale.",
+          "pt": "Foi um passo importante do direito formal para a participação política real.",
+          "nl": "Het was een belangrijke stap van formeel recht naar echte politieke deelname.",
+          "pl": "Był to ważny krok od prawa formalnego do rzeczywistego udziału w polityce.",
+          "tr": "Bu, biçimsel haktan gerçek siyasi katılıma doğru önemli bir adımdı.",
+          "zh": "这是从形式权利走向真实政治参与的重要一步。",
+          "ja": "これは形式上の権利から実際の政治参加へ進む重要な一歩でした。",
+          "ko": "이는 형식적 권리에서 실제 정치 참여로 나아가는 중요한 단계였습니다.",
+          "hi": "यह औपचारिक अधिकार से वास्तविक राजनीतिक भागीदारी तक का महत्वपूर्ण कदम था।",
+          "ar": "كانت خطوة مهمة من الحق الرسمي إلى المشاركة السياسية الحقيقية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Мари Юхач позднее основала Arbeiterwohlfahrt, одну из важных социальных организаций Германии.",
     "de": "Marie Juchacz gruendete spaeter die Arbeiterwohlfahrt, eine wichtige soziale Organisation in Deutschland.",
-    "en": "Marie Juchacz later founded Arbeiterwohlfahrt, an important social welfare organization in Germany."
+    "en": "Marie Juchacz later founded Arbeiterwohlfahrt, an important social welfare organization in Germany.",
+    "fr": "Marie Juchacz fonda plus tard l'Arbeiterwohlfahrt, une importante organisation sociale en Allemagne.",
+    "es": "Marie Juchacz fundó más tarde Arbeiterwohlfahrt, una importante organización social de Alemania.",
+    "it": "Marie Juchacz fondò in seguito l'Arbeiterwohlfahrt, un'importante organizzazione sociale in Germania.",
+    "pt": "Marie Juchacz fundou mais tarde a Arbeiterwohlfahrt, uma importante organização social na Alemanha.",
+    "nl": "Marie Juchacz richtte later de Arbeiterwohlfahrt op, een belangrijke sociale organisatie in Duitsland.",
+    "pl": "Marie Juchacz założyła później Arbeiterwohlfahrt, ważną organizację społeczną w Niemczech.",
+    "tr": "Marie Juchacz daha sonra Almanya'nın önemli sosyal yardım kuruluşlarından Arbeiterwohlfahrt'ı kurdu.",
+    "zh": "玛丽·尤哈奇后来创立了德国重要的社会福利组织Arbeiterwohlfahrt。",
+    "ja": "マリー・ユハチュは後に、ドイツの重要な社会福祉団体Arbeiterwohlfahrtを設立しました。",
+    "ko": "마리 유하츠는 이후 독일의 중요한 사회복지 단체인 Arbeiterwohlfahrt를 설립했습니다.",
+    "hi": "मारी युखाच ने बाद में जर्मनी के महत्वपूर्ण सामाजिक संगठन Arbeiterwohlfahrt की स्थापना की।",
+    "ar": "أسست ماري يوخاتس لاحقا منظمة Arbeiterwohlfahrt، وهي منظمة اجتماعية مهمة في ألمانيا."
   },
   "sources": [
     {
