@@ -11,17 +11,53 @@
     "title": {
       "ru": "Прошла Ванзейская конференция",
       "de": "Die Wannsee-Konferenz findet statt",
-      "en": "The Wannsee Conference takes place"
+      "en": "The Wannsee Conference takes place",
+      "fr": "La conférence de Wannsee a lieu",
+      "es": "Tiene lugar la Conferencia de Wannsee",
+      "it": "Si tiene la Conferenza di Wannsee",
+      "pt": "A Conferência de Wannsee acontece",
+      "nl": "De Wannseeconferentie vindt plaats",
+      "pl": "Odbywa się konferencja w Wannsee",
+      "tr": "Wannsee Konferansı yapılır",
+      "zh": "万湖会议召开",
+      "ja": "ヴァンゼー会議が開かれる",
+      "ko": "반제 회의가 열리다",
+      "hi": "वानज़े सम्मेलन हुआ",
+      "ar": "انعقاد مؤتمر وانزيه"
     },
     "description": {
       "ru": "20 января 1942 года в берлинском районе Ванзе собрались высокопоставленные представители нацистского государства. Они обсуждали координацию депортации и уничтожения европейских евреев.",
       "de": "Am 20. Januar 1942 trafen sich im Berliner Ortsteil Wannsee hochrangige Vertreter des NS-Staates. Sie besprachen die Koordination von Deportation und Ermordung der europaeischen Juden.",
-      "en": "On 20 January 1942, senior representatives of the Nazi state met in Berlin's Wannsee district. They discussed coordinating the deportation and murder of Europe's Jews."
+      "en": "On 20 January 1942, senior representatives of the Nazi state met in Berlin's Wannsee district. They discussed coordinating the deportation and murder of Europe's Jews.",
+      "fr": "Le 20 janvier 1942, de hauts représentants de l'État nazi se réunirent dans le quartier berlinois de Wannsee. Ils discutèrent de la coordination de la déportation et du meurtre des Juifs d'Europe.",
+      "es": "El 20 de enero de 1942, altos representantes del Estado nazi se reunieron en el distrito berlinés de Wannsee. Discutieron la coordinación de la deportación y el asesinato de los judíos de Europa.",
+      "it": "Il 20 gennaio 1942 alti rappresentanti dello Stato nazista si riunirono nel quartiere berlinese di Wannsee. Discussero il coordinamento della deportazione e dell'uccisione degli ebrei europei.",
+      "pt": "Em 20 de janeiro de 1942, altos representantes do Estado nazista reuniram-se no distrito berlinense de Wannsee. Eles discutiram a coordenação da deportação e do assassinato dos judeus europeus.",
+      "nl": "Op 20 januari 1942 kwamen hoge vertegenwoordigers van de nazistaat bijeen in de Berlijnse wijk Wannsee. Zij bespraken de coördinatie van deportatie en moord op de Joden van Europa.",
+      "pl": "20 stycznia 1942 roku wysocy przedstawiciele państwa nazistowskiego spotkali się w berlińskiej dzielnicy Wannsee. Omawiali koordynację deportacji i mordowania europejskich Żydów.",
+      "tr": "20 Ocak 1942'de Nazi devletinin üst düzey temsilcileri Berlin'in Wannsee semtinde toplandı. Avrupa Yahudilerinin sürgünü ve öldürülmesinin koordinasyonunu görüştüler.",
+      "zh": "1942年1月20日，纳粹国家的高级代表在柏林万湖区会面。他们讨论了协调驱逐和杀害欧洲犹太人的计划。",
+      "ja": "1942年1月20日、ナチ国家の高官たちがベルリンのヴァンゼー地区に集まった。彼らはヨーロッパのユダヤ人の移送と殺害を調整する方法について話し合った。",
+      "ko": "1942년 1월 20일 나치 국가의 고위 대표들이 베를린 반제 지구에 모였다. 그들은 유럽 유대인들의 추방과 살해를 조정하는 문제를 논의했다.",
+      "hi": "20 जनवरी 1942 को नाजी राज्य के वरिष्ठ प्रतिनिधि बर्लिन के वानज़े इलाके में मिले। उन्होंने यूरोप के यहूदियों के निर्वासन और हत्या के समन्वय पर चर्चा की।",
+      "ar": "في 20 يناير 1942 اجتمع ممثلون كبار عن الدولة النازية في حي وانزيه ببرلين. ناقشوا تنسيق ترحيل يهود أوروبا وقتلهم."
     },
     "importance": {
       "ru": "Дата показывает бюрократическую сторону Холокоста: преступление планировалось языком протоколов, ведомств и списков.",
       "de": "Das Datum zeigt die buerokratische Seite des Holocaust: Das Verbrechen wurde in der Sprache von Protokollen, Behoerden und Listen organisiert.",
-      "en": "The date shows the bureaucratic side of the Holocaust: the crime was organized in the language of minutes, offices and lists."
+      "en": "The date shows the bureaucratic side of the Holocaust: the crime was organized in the language of minutes, offices and lists.",
+      "fr": "Cette date montre le côté bureaucratique de la Shoah : le crime fut organisé dans le langage des procès-verbaux, des administrations et des listes.",
+      "es": "La fecha muestra el lado burocrático del Holocausto: el crimen fue organizado con el lenguaje de actas, oficinas y listas.",
+      "it": "La data mostra il lato burocratico dell'Olocausto: il crimine fu organizzato nel linguaggio di verbali, uffici e liste.",
+      "pt": "A data mostra o lado burocrático do Holocausto: o crime foi organizado na linguagem de atas, repartições e listas.",
+      "nl": "De datum laat de bureaucratische kant van de Holocaust zien: de misdaad werd georganiseerd in de taal van notulen, instanties en lijsten.",
+      "pl": "Ta data pokazuje biurokratyczną stronę Holokaustu: zbrodnia była organizowana językiem protokołów, urzędów i list.",
+      "tr": "Bu tarih Holokost'un bürokratik yönünü gösterir: suç, tutanakların, dairelerin ve listelerin diliyle örgütlendi.",
+      "zh": "这个日期显示了大屠杀的官僚层面：犯罪是用会议记录、机构和名单的语言组织起来的。",
+      "ja": "この日付はホロコーストの官僚的側面を示している。犯罪は議事録、官庁、名簿の言葉で組織された。",
+      "ko": "이 날짜는 홀로코스트의 관료적 측면을 보여 준다. 범죄는 회의록, 관청, 명단의 언어로 조직되었다.",
+      "hi": "यह तारीख होलोकॉस्ट के नौकरशाही पक्ष को दिखाती है: अपराध को कार्यवृत्त, दफ्तरों और सूचियों की भाषा में संगठित किया गया।",
+      "ar": "يُظهر هذا التاريخ الجانب البيروقراطي للهولوكوست: فقد نُظمت الجريمة بلغة المحاضر والدوائر والقوائم."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Вилла стала местом памяти",
           "de": "Die Villa wird zum Erinnerungsort",
-          "en": "The villa becomes a memorial site"
+          "en": "The villa becomes a memorial site",
+          "fr": "La villa devient un lieu de mémoire",
+          "es": "La villa se convierte en lugar de memoria",
+          "it": "La villa diventa un luogo della memoria",
+          "pt": "A villa torna-se um lugar de memória",
+          "nl": "De villa wordt een herinneringsplaats",
+          "pl": "Willa staje się miejscem pamięci",
+          "tr": "Villa bir anma mekânı olur",
+          "zh": "别墅成为纪念场所",
+          "ja": "ヴィラが記憶の場となる",
+          "ko": "빌라가 기억의 장소가 되다",
+          "hi": "विला स्मृति-स्थल बन गया",
+          "ar": "الفيلا تصبح موقعاً للذاكرة"
         },
         "description": {
           "ru": "Дом, где проходила конференция, сегодня является мемориальным и образовательным центром. Он показывает, как обычные кабинеты и документы могут быть частью массового преступления.",
           "de": "Das Haus der Konferenz ist heute eine Gedenk- und Bildungsstaette. Es zeigt, wie normale Besprechungsraeume und Dokumente Teil eines Massenverbrechens sein koennen.",
-          "en": "The house where the conference took place is now a memorial and educational site. It shows how ordinary meeting rooms and documents can be part of mass crime."
+          "en": "The house where the conference took place is now a memorial and educational site. It shows how ordinary meeting rooms and documents can be part of mass crime.",
+          "fr": "La maison où eut lieu la conférence est aujourd'hui un lieu de mémoire et d'éducation. Elle montre comment des salles de réunion et des documents ordinaires peuvent faire partie d'un crime de masse.",
+          "es": "La casa donde tuvo lugar la conferencia es hoy un centro memorial y educativo. Muestra cómo salas de reuniones y documentos ordinarios pueden formar parte de un crimen masivo.",
+          "it": "La casa in cui si tenne la conferenza è oggi un memoriale e centro educativo. Mostra come normali sale riunioni e documenti possano far parte di un crimine di massa.",
+          "pt": "A casa onde ocorreu a conferência é hoje um local memorial e educativo. Ela mostra como salas de reunião e documentos comuns podem fazer parte de um crime em massa.",
+          "nl": "Het huis waar de conferentie plaatsvond is nu een gedenk- en educatiecentrum. Het laat zien hoe gewone vergaderzalen en documenten deel kunnen uitmaken van massamisdaad.",
+          "pl": "Dom, w którym odbyła się konferencja, jest dziś miejscem pamięci i edukacji. Pokazuje, jak zwykłe sale narad i dokumenty mogą być częścią masowej zbrodni.",
+          "tr": "Konferansın yapıldığı ev bugün bir anma ve eğitim merkezidir. Sıradan toplantı odalarının ve belgelerin nasıl kitlesel bir suçun parçası olabileceğini gösterir.",
+          "zh": "会议举行的那栋房子如今是纪念和教育场所。它展示了普通会议室和文件如何成为大规模犯罪的一部分。",
+          "ja": "会議が行われた建物は現在、追悼と教育の場となっている。普通の会議室や文書が大量犯罪の一部になり得ることを示している。",
+          "ko": "회의가 열린 집은 오늘날 기념 및 교육 장소가 되었다. 평범한 회의실과 문서가 어떻게 대량 범죄의 일부가 될 수 있는지를 보여 준다.",
+          "hi": "जहाँ सम्मेलन हुआ था वह घर आज स्मृति और शिक्षा केंद्र है। यह दिखाता है कि साधारण बैठक-कक्ष और दस्तावेज भी सामूहिक अपराध का हिस्सा हो सकते हैं।",
+          "ar": "أصبح البيت الذي عُقد فيه المؤتمر اليوم موقعاً تذكارياً وتعليمياً. وهو يبيّن كيف يمكن لغرف اجتماعات ووثائق عادية أن تكون جزءاً من جريمة جماعية."
         },
         "importance": {
           "ru": "Это важное напоминание о роли государственных структур в преступлениях диктатуры.",
           "de": "Das ist eine wichtige Erinnerung an die Rolle staatlicher Strukturen in den Verbrechen einer Diktatur.",
-          "en": "It is an important reminder of the role of state structures in the crimes of dictatorship."
+          "en": "It is an important reminder of the role of state structures in the crimes of dictatorship.",
+          "fr": "C'est un rappel important du rôle des structures de l'État dans les crimes d'une dictature.",
+          "es": "Es un recordatorio importante del papel de las estructuras estatales en los crímenes de una dictadura.",
+          "it": "È un importante promemoria del ruolo delle strutture statali nei crimini di una dittatura.",
+          "pt": "É um lembrete importante do papel das estruturas estatais nos crimes de uma ditadura.",
+          "nl": "Het is een belangrijke herinnering aan de rol van staatsstructuren in de misdaden van een dictatuur.",
+          "pl": "To ważne przypomnienie roli struktur państwowych w zbrodniach dyktatury.",
+          "tr": "Bu, bir diktatörlüğün suçlarında devlet yapılarının rolünü hatırlatan önemli bir örnektir.",
+          "zh": "这是对国家结构在独裁政权罪行中所起作用的重要提醒。",
+          "ja": "これは、独裁体制の犯罪における国家機構の役割を思い起こさせる重要なものだ。",
+          "ko": "이는 독재의 범죄에서 국가 구조가 맡은 역할을 중요한 방식으로 상기시킨다.",
+          "hi": "यह तानाशाही के अपराधों में राज्य की संरचनाओं की भूमिका की महत्वपूर्ण याद दिलाता है।",
+          "ar": "إنه تذكير مهم بدور هياكل الدولة في جرائم الدكتاتورية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Ванзейская конференция длилась недолго, но её протокол стал одним из ключевых документов истории Холокоста.",
     "de": "Die Wannsee-Konferenz dauerte nicht lange, doch ihr Protokoll wurde zu einem Schluesseldokument der Holocaustgeschichte.",
-    "en": "The Wannsee Conference did not last long, but its protocol became a key document in the history of the Holocaust."
+    "en": "The Wannsee Conference did not last long, but its protocol became a key document in the history of the Holocaust.",
+    "fr": "La conférence de Wannsee ne dura pas longtemps, mais son procès-verbal devint un document clé de l'histoire de la Shoah.",
+    "es": "La Conferencia de Wannsee no duró mucho, pero su protocolo se convirtió en un documento clave de la historia del Holocausto.",
+    "it": "La Conferenza di Wannsee non durò a lungo, ma il suo verbale divenne un documento chiave nella storia dell'Olocausto.",
+    "pt": "A Conferência de Wannsee não durou muito, mas seu protocolo tornou-se um documento-chave na história do Holocausto.",
+    "nl": "De Wannseeconferentie duurde niet lang, maar het protocol werd een sleuteldocument in de geschiedenis van de Holocaust.",
+    "pl": "Konferencja w Wannsee nie trwała długo, ale jej protokół stał się kluczowym dokumentem w historii Holokaustu.",
+    "tr": "Wannsee Konferansı uzun sürmedi, ancak tutanağı Holokost tarihinin kilit belgelerinden biri oldu.",
+    "zh": "万湖会议持续时间并不长，但其会议记录成为大屠杀历史中的关键文件之一。",
+    "ja": "ヴァンゼー会議は長くは続かなかったが、その議事録はホロコースト史の重要文書となった。",
+    "ko": "반제 회의는 오래 지속되지 않았지만, 그 회의록은 홀로코스트 역사에서 핵심 문서가 되었다.",
+    "hi": "वानज़े सम्मेलन लंबा नहीं चला, लेकिन उसका प्रोटोकॉल होलोकॉस्ट के इतिहास का एक प्रमुख दस्तावेज बन गया।",
+    "ar": "لم يستمر مؤتمر وانزيه طويلاً، لكن محضره أصبح وثيقة أساسية في تاريخ الهولوكوست."
   },
   "sources": [
     {

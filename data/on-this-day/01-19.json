@@ -11,17 +11,53 @@
     "title": {
       "ru": "Женщины впервые голосовали на общегерманских выборах",
       "de": "Frauen waehlen erstmals bei einer reichsweiten Wahl",
-      "en": "Women vote for the first time in a nationwide German election"
+      "en": "Women vote for the first time in a nationwide German election",
+      "fr": "Les femmes votent pour la première fois à une élection nationale allemande",
+      "es": "Las mujeres votan por primera vez en unas elecciones nacionales alemanas",
+      "it": "Le donne votano per la prima volta in elezioni nazionali tedesche",
+      "pt": "Mulheres votam pela primeira vez em uma eleição nacional alemã",
+      "nl": "Vrouwen stemmen voor het eerst bij landelijke Duitse verkiezingen",
+      "pl": "Kobiety po raz pierwszy głosują w ogólnoniemieckich wyborach",
+      "tr": "Kadınlar ilk kez Almanya çapında bir seçimde oy kullanır",
+      "zh": "女性首次在全德国选举中投票",
+      "ja": "女性が初めて全国規模のドイツ選挙で投票する",
+      "ko": "여성이 처음으로 독일 전국 선거에서 투표하다",
+      "hi": "महिलाओं ने पहली बार पूरे जर्मनी के चुनाव में मतदान किया",
+      "ar": "النساء يصوّتن لأول مرة في انتخابات ألمانية عامة"
     },
     "description": {
       "ru": "19 января 1919 года прошли выборы в Веймарское национальное собрание. Это были первые общегерманские выборы, на которых женщины могли голосовать и быть избранными.",
       "de": "Am 19. Januar 1919 fanden die Wahlen zur Weimarer Nationalversammlung statt. Es waren die ersten reichsweiten Wahlen, bei denen Frauen waehlen und gewaehlt werden konnten.",
-      "en": "On 19 January 1919, elections to the Weimar National Assembly were held. They were the first nationwide German elections in which women could vote and stand for office."
+      "en": "On 19 January 1919, elections to the Weimar National Assembly were held. They were the first nationwide German elections in which women could vote and stand for office.",
+      "fr": "Le 19 janvier 1919 eurent lieu les élections à l'Assemblée nationale de Weimar. Ce furent les premières élections nationales allemandes lors desquelles les femmes pouvaient voter et être élues.",
+      "es": "El 19 de enero de 1919 se celebraron las elecciones a la Asamblea Nacional de Weimar. Fueron las primeras elecciones nacionales alemanas en las que las mujeres podían votar y ser elegidas.",
+      "it": "Il 19 gennaio 1919 si tennero le elezioni per l'Assemblea nazionale di Weimar. Furono le prime elezioni nazionali tedesche in cui le donne poterono votare ed essere elette.",
+      "pt": "Em 19 de janeiro de 1919, ocorreram as eleições para a Assembleia Nacional de Weimar. Foram as primeiras eleições nacionais alemãs em que as mulheres puderam votar e ser eleitas.",
+      "nl": "Op 19 januari 1919 vonden de verkiezingen voor de Nationale Vergadering van Weimar plaats. Het waren de eerste landelijke Duitse verkiezingen waarbij vrouwen mochten stemmen en gekozen konden worden.",
+      "pl": "19 stycznia 1919 roku odbyły się wybory do Weimarskiego Zgromadzenia Narodowego. Były to pierwsze ogólnoniemieckie wybory, w których kobiety mogły głosować i kandydować.",
+      "tr": "19 Ocak 1919'da Weimar Ulusal Meclisi seçimleri yapıldı. Bunlar, kadınların oy kullanabildiği ve seçilebildiği ilk Almanya çapındaki seçimlerdi.",
+      "zh": "1919年1月19日，魏玛国民议会选举举行。这是女性可以投票并参选的首次全德国选举。",
+      "ja": "1919年1月19日、ワイマール国民議会の選挙が行われた。これは女性が投票し、立候補できた初めての全国規模のドイツ選挙だった。",
+      "ko": "1919년 1월 19일 바이마르 국민의회 선거가 열렸다. 이는 여성이 투표하고 후보로 나설 수 있었던 최초의 독일 전국 선거였다.",
+      "hi": "19 जनवरी 1919 को वाइमर राष्ट्रीय सभा के चुनाव हुए। ये पूरे जर्मनी के पहले चुनाव थे जिनमें महिलाएँ मतदान कर सकती थीं और चुनी भी जा सकती थीं।",
+      "ar": "في 19 يناير 1919 جرت انتخابات الجمعية الوطنية في فايمار. وكانت أول انتخابات ألمانية عامة تستطيع فيها النساء التصويت والترشح."
     },
     "importance": {
       "ru": "Дата показывает, как революция 1918 года изменила политические права миллионов людей.",
       "de": "Das Datum zeigt, wie die Revolution von 1918 die politischen Rechte von Millionen Menschen veraenderte.",
-      "en": "The date shows how the 1918 revolution changed the political rights of millions of people."
+      "en": "The date shows how the 1918 revolution changed the political rights of millions of people.",
+      "fr": "Cette date montre comment la révolution de 1918 transforma les droits politiques de millions de personnes.",
+      "es": "La fecha muestra cómo la revolución de 1918 cambió los derechos políticos de millones de personas.",
+      "it": "La data mostra come la rivoluzione del 1918 cambiò i diritti politici di milioni di persone.",
+      "pt": "A data mostra como a revolução de 1918 mudou os direitos políticos de milhões de pessoas.",
+      "nl": "De datum laat zien hoe de revolutie van 1918 de politieke rechten van miljoenen mensen veranderde.",
+      "pl": "Ta data pokazuje, jak rewolucja 1918 roku zmieniła prawa polityczne milionów ludzi.",
+      "tr": "Bu tarih, 1918 devriminin milyonlarca insanın siyasi haklarını nasıl değiştirdiğini gösterir.",
+      "zh": "这个日期显示了1918年革命如何改变了数百万人的政治权利。",
+      "ja": "この日付は、1918年革命が何百万人もの政治的権利をどのように変えたかを示している。",
+      "ko": "이 날짜는 1918년 혁명이 수백만 명의 정치적 권리를 어떻게 바꾸었는지를 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि 1918 की क्रांति ने लाखों लोगों के राजनीतिक अधिकारों को कैसे बदल दिया।",
+      "ar": "يُظهر هذا التاريخ كيف غيّرت ثورة 1918 الحقوق السياسية لملايين الناس."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Женщины вошли в парламентскую политику",
           "de": "Frauen treten in die parlamentarische Politik ein",
-          "en": "Women enter parliamentary politics"
+          "en": "Women enter parliamentary politics",
+          "fr": "Les femmes entrent dans la politique parlementaire",
+          "es": "Las mujeres entran en la política parlamentaria",
+          "it": "Le donne entrano nella politica parlamentare",
+          "pt": "Mulheres entram na política parlamentar",
+          "nl": "Vrouwen treden toe tot de parlementaire politiek",
+          "pl": "Kobiety wchodzą do polityki parlamentarnej",
+          "tr": "Kadınlar parlamenter siyasete girer",
+          "zh": "女性进入议会政治",
+          "ja": "女性が議会政治に入る",
+          "ko": "여성이 의회 정치에 진입하다",
+          "hi": "महिलाएँ संसदीय राजनीति में आईं",
+          "ar": "النساء يدخلن السياسة البرلمانية"
         },
         "description": {
           "ru": "После этих выборов женщины впервые получили места в общегерманском парламентском собрании. Это не решило вопрос равенства сразу, но стало огромным шагом вперёд.",
           "de": "Nach diesen Wahlen erhielten Frauen erstmals Sitze in einer reichsweiten parlamentarischen Versammlung. Gleichberechtigung war damit nicht sofort erreicht, aber ein grosser Schritt getan.",
-          "en": "After these elections, women held seats in a nationwide German parliamentary assembly for the first time. Equality was not achieved at once, but it was a major step forward."
+          "en": "After these elections, women held seats in a nationwide German parliamentary assembly for the first time. Equality was not achieved at once, but it was a major step forward.",
+          "fr": "Après ces élections, des femmes obtinrent pour la première fois des sièges dans une assemblée parlementaire nationale allemande. L'égalité ne fut pas atteinte immédiatement, mais ce fut un grand pas en avant.",
+          "es": "Después de estas elecciones, las mujeres ocuparon por primera vez escaños en una asamblea parlamentaria nacional alemana. La igualdad no se logró de inmediato, pero fue un gran paso adelante.",
+          "it": "Dopo queste elezioni, le donne ottennero per la prima volta seggi in un'assemblea parlamentare nazionale tedesca. L'uguaglianza non fu raggiunta subito, ma fu un grande passo avanti.",
+          "pt": "Depois dessas eleições, mulheres ocuparam pela primeira vez assentos em uma assembleia parlamentar nacional alemã. A igualdade não foi alcançada de imediato, mas foi um grande passo adiante.",
+          "nl": "Na deze verkiezingen kregen vrouwen voor het eerst zetels in een landelijke Duitse parlementaire vergadering. Gelijkheid was daarmee niet meteen bereikt, maar het was een grote stap vooruit.",
+          "pl": "Po tych wyborach kobiety po raz pierwszy uzyskały mandaty w ogólnoniemieckim zgromadzeniu parlamentarnym. Równość nie została osiągnięta od razu, ale był to ogromny krok naprzód.",
+          "tr": "Bu seçimlerden sonra kadınlar ilk kez Almanya çapındaki bir parlamento meclisinde sandalye kazandı. Eşitlik hemen sağlanmadı, ancak bu büyük bir ileri adımdı.",
+          "zh": "这些选举之后，女性首次在全德国议会机构中获得席位。平等并没有立刻实现，但这是向前迈出的一大步。",
+          "ja": "この選挙の後、女性は初めて全国規模のドイツ議会に議席を得た。平等がすぐに実現したわけではないが、大きな前進だった。",
+          "ko": "이 선거 이후 여성들은 처음으로 독일 전국 의회 기구에서 의석을 차지했다. 평등이 곧바로 이루어진 것은 아니었지만, 큰 진전이었다.",
+          "hi": "इन चुनावों के बाद महिलाएँ पहली बार पूरे जर्मनी की संसदीय सभा में सीटें प्राप्त कर सकीं। समानता तुरंत नहीं मिली, लेकिन यह बहुत बड़ा कदम था।",
+          "ar": "بعد هذه الانتخابات حصلت النساء لأول مرة على مقاعد في جمعية برلمانية ألمانية عامة. لم تتحقق المساواة فوراً، لكنه كان تقدماً كبيراً."
         },
         "importance": {
           "ru": "Это хорошо дополняет дату 19 февраля, когда Мари Юхач впервые выступила в парламенте.",
           "de": "Das ergaenzt gut den 19. Februar, als Marie Juchacz erstmals im Parlament sprach.",
-          "en": "It pairs well with 19 February, when Marie Juchacz first spoke in parliament."
+          "en": "It pairs well with 19 February, when Marie Juchacz first spoke in parliament.",
+          "fr": "Cela complète bien la date du 19 février, lorsque Marie Juchacz prit la parole pour la première fois au parlement.",
+          "es": "Esto se complementa bien con el 19 de febrero, cuando Marie Juchacz habló por primera vez en el parlamento.",
+          "it": "Si collega bene al 19 febbraio, quando Marie Juchacz parlò per la prima volta in parlamento.",
+          "pt": "Isso combina bem com 19 de fevereiro, quando Marie Juchacz falou pela primeira vez no parlamento.",
+          "nl": "Dit sluit goed aan bij 19 februari, toen Marie Juchacz voor het eerst in het parlement sprak.",
+          "pl": "Dobrze uzupełnia to datę 19 lutego, kiedy Marie Juchacz po raz pierwszy przemówiła w parlamencie.",
+          "tr": "Bu, Marie Juchacz'ın parlamentoda ilk kez konuştuğu 19 Şubat tarihiyle iyi bir şekilde tamamlanır.",
+          "zh": "这与2月19日相呼应，那一天玛丽·尤哈奇首次在议会发言。",
+          "ja": "これは、マリー・ユハーチが初めて議会で演説した2月19日とよくつながる。",
+          "ko": "이는 마리 유하치가 의회에서 처음 발언한 2월 19일과 잘 연결된다.",
+          "hi": "यह 19 फरवरी की तारीख से अच्छी तरह जुड़ता है, जब मैरी यूखाच ने पहली बार संसद में भाषण दिया था।",
+          "ar": "يكمل ذلك جيداً تاريخ 19 فبراير، عندما تحدثت ماري يوخاتس لأول مرة في البرلمان."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "На этих выборах голосовать могли граждане с 20 лет, что также расширило электорат.",
     "de": "Bei dieser Wahl durften Buerger ab 20 Jahren waehlen, was die Waehlerbasis ebenfalls erweiterte.",
-    "en": "Citizens aged 20 and above could vote in this election, which also expanded the electorate."
+    "en": "Citizens aged 20 and above could vote in this election, which also expanded the electorate.",
+    "fr": "Les citoyens âgés de 20 ans et plus pouvaient voter à cette élection, ce qui élargit également le corps électoral.",
+    "es": "En estas elecciones podían votar los ciudadanos de 20 años o más, lo que también amplió el electorado.",
+    "it": "In queste elezioni potevano votare i cittadini dai 20 anni in su, ampliando così anche l'elettorato.",
+    "pt": "Nessa eleição, cidadãos a partir de 20 anos podiam votar, o que também ampliou o eleitorado.",
+    "nl": "Bij deze verkiezing mochten burgers vanaf 20 jaar stemmen, waardoor ook het electoraat werd uitgebreid.",
+    "pl": "W tych wyborach głosować mogli obywatele od 20 roku życia, co również poszerzyło elektorat.",
+    "tr": "Bu seçimde 20 yaş ve üzerindeki vatandaşlar oy kullanabiliyordu; bu da seçmen kitlesini genişletti.",
+    "zh": "在这次选举中，20岁及以上公民可以投票，这也扩大了选民范围。",
+    "ja": "この選挙では20歳以上の市民が投票でき、選挙権を持つ人々の範囲も広がった。",
+    "ko": "이 선거에서는 20세 이상의 시민이 투표할 수 있었고, 이는 유권자층도 확대했다.",
+    "hi": "इन चुनावों में 20 वर्ष और उससे अधिक आयु के नागरिक मतदान कर सकते थे, जिससे मतदाता वर्ग भी बढ़ा।",
+    "ar": "كان بإمكان المواطنين من سن 20 عاماً فما فوق التصويت في هذه الانتخابات، مما وسّع أيضاً قاعدة الناخبين."
   },
   "sources": [
     {
