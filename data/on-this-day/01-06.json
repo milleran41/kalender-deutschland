@@ -11,17 +11,53 @@
     "title": {
       "ru": "Создана Deutsche Luft Hansa",
       "de": "Deutsche Luft Hansa wird gegruendet",
-      "en": "Deutsche Luft Hansa is founded"
+      "en": "Deutsche Luft Hansa is founded",
+      "fr": "Deutsche Luft Hansa est fondée",
+      "es": "Se funda Deutsche Luft Hansa",
+      "it": "Viene fondata Deutsche Luft Hansa",
+      "pt": "É fundada a Deutsche Luft Hansa",
+      "nl": "Deutsche Luft Hansa wordt opgericht",
+      "pl": "Powstaje Deutsche Luft Hansa",
+      "tr": "Deutsche Luft Hansa kuruldu",
+      "zh": "德意志汉莎航空成立",
+      "ja": "ドイチェ・ルフトハンザが設立される",
+      "ko": "도이체 루프트 한자가 설립되다",
+      "hi": "डॉयचे लुफ्ट हांसा की स्थापना हुई",
+      "ar": "تأسست شركة دويتشه لوفت هانزا"
     },
     "description": {
       "ru": "6 января 1926 года в Берлине была образована Deutsche Luft Hansa AG после слияния Deutscher Aero Lloyd и Junkers Luftverkehr. Это стало важным событием в истории немецкой гражданской авиации.",
       "de": "Am 6. Januar 1926 entstand in Berlin die Deutsche Luft Hansa AG durch den Zusammenschluss von Deutscher Aero Lloyd und Junkers Luftverkehr. Das war ein wichtiges Ereignis in der Geschichte der deutschen Zivilluftfahrt.",
-      "en": "On 6 January 1926, Deutsche Luft Hansa AG was formed in Berlin through the merger of Deutscher Aero Lloyd and Junkers Luftverkehr. It was an important event in the history of German civil aviation."
+      "en": "On 6 January 1926, Deutsche Luft Hansa AG was formed in Berlin through the merger of Deutscher Aero Lloyd and Junkers Luftverkehr. It was an important event in the history of German civil aviation.",
+      "fr": "Le 6 janvier 1926, Deutsche Luft Hansa AG fut créée à Berlin par la fusion de Deutscher Aero Lloyd et de Junkers Luftverkehr. Ce fut un événement important dans l’histoire de l’aviation civile allemande.",
+      "es": "El 6 de enero de 1926 se formó en Berlín Deutsche Luft Hansa AG mediante la fusión de Deutscher Aero Lloyd y Junkers Luftverkehr. Fue un acontecimiento importante en la historia de la aviación civil alemana.",
+      "it": "Il 6 gennaio 1926 nacque a Berlino la Deutsche Luft Hansa AG dalla fusione di Deutscher Aero Lloyd e Junkers Luftverkehr. Fu un evento importante nella storia dell’aviazione civile tedesca.",
+      "pt": "Em 6 de janeiro de 1926, a Deutsche Luft Hansa AG foi formada em Berlim pela fusão da Deutscher Aero Lloyd com a Junkers Luftverkehr. Foi um acontecimento importante na história da aviação civil alemã.",
+      "nl": "Op 6 januari 1926 ontstond in Berlijn Deutsche Luft Hansa AG door de fusie van Deutscher Aero Lloyd en Junkers Luftverkehr. Het was een belangrijke gebeurtenis in de geschiedenis van de Duitse burgerluchtvaart.",
+      "pl": "6 stycznia 1926 roku w Berlinie powstała Deutsche Luft Hansa AG w wyniku połączenia Deutscher Aero Lloyd i Junkers Luftverkehr. Było to ważne wydarzenie w historii niemieckiego lotnictwa cywilnego.",
+      "tr": "6 Ocak 1926’da Berlin’de Deutscher Aero Lloyd ile Junkers Luftverkehr’in birleşmesiyle Deutsche Luft Hansa AG kuruldu. Bu, Alman sivil havacılığı tarihinde önemli bir olaydı.",
+      "zh": "1926年1月6日，Deutscher Aero Lloyd与Junkers Luftverkehr合并，在柏林成立了Deutsche Luft Hansa AG。这是德国民航史上的重要事件。",
+      "ja": "1926年1月6日、Deutscher Aero LloydとJunkers Luftverkehrの合併により、ベルリンでDeutsche Luft Hansa AGが設立されました。これはドイツ民間航空史上の重要な出来事でした。",
+      "ko": "1926년 1월 6일, 베를린에서 Deutscher Aero Lloyd와 Junkers Luftverkehr의 합병으로 Deutsche Luft Hansa AG가 설립되었다. 이는 독일 민간 항공 역사에서 중요한 사건이었다.",
+      "hi": "6 जनवरी 1926 को बर्लिन में Deutscher Aero Lloyd और Junkers Luftverkehr के विलय से Deutsche Luft Hansa AG बनी। यह जर्मन नागरिक उड्डयन के इतिहास की महत्वपूर्ण घटना थी।",
+      "ar": "في 6 يناير 1926 تأسست في برلين شركة دويتشه لوفت هانزا المساهمة نتيجة اندماج دويتشر أيرو لويد ويونكرز لوفتفيركر. وكان ذلك حدثاً مهماً في تاريخ الطيران المدني الألماني."
     },
     "importance": {
       "ru": "История Lufthansa связана и с техническим прогрессом авиации, и с трудными страницами XX века.",
       "de": "Die Geschichte der Lufthansa ist sowohl mit technischem Fortschritt der Luftfahrt als auch mit schwierigen Kapiteln des 20. Jahrhunderts verbunden.",
-      "en": "Lufthansa's history is linked both with aviation technology and with difficult chapters of the twentieth century."
+      "en": "Lufthansa's history is linked both with aviation technology and with difficult chapters of the twentieth century.",
+      "fr": "L’histoire de Lufthansa est liée à la fois au progrès technique de l’aviation et aux chapitres difficiles du XXe siècle.",
+      "es": "La historia de Lufthansa está vinculada tanto al progreso técnico de la aviación como a capítulos difíciles del siglo XX.",
+      "it": "La storia di Lufthansa è legata sia al progresso tecnico dell’aviazione sia a capitoli difficili del XX secolo.",
+      "pt": "A história da Lufthansa está ligada tanto ao progresso técnico da aviação quanto a capítulos difíceis do século XX.",
+      "nl": "De geschiedenis van Lufthansa is verbonden met zowel technische vooruitgang in de luchtvaart als moeilijke hoofdstukken van de twintigste eeuw.",
+      "pl": "Historia Lufthansy wiąże się zarówno z postępem technicznym lotnictwa, jak i z trudnymi rozdziałami XX wieku.",
+      "tr": "Lufthansa’nın tarihi hem havacılıktaki teknik ilerlemeyle hem de yirminci yüzyılın zor sayfalarıyla bağlantılıdır.",
+      "zh": "汉莎航空的历史既与航空技术进步有关，也与20世纪的艰难篇章相连。",
+      "ja": "ルフトハンザの歴史は、航空技術の進歩と20世紀の困難な章の両方に結びついています。",
+      "ko": "루프트한자의 역사는 항공 기술의 발전과 20세기의 어려운 장면들 모두와 연결되어 있다.",
+      "hi": "लुफ्थांसा का इतिहास विमानन तकनीक की प्रगति और बीसवीं सदी के कठिन अध्यायों दोनों से जुड़ा है।",
+      "ar": "يرتبط تاريخ لوفتهانزا بتقدم تقنية الطيران وبفصول صعبة من القرن العشرين في الوقت نفسه."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Германия в авиационной сети",
           "de": "Deutschland im Luftverkehrsnetz",
-          "en": "Germany in the aviation network"
+          "en": "Germany in the aviation network",
+          "fr": "L’Allemagne dans le réseau aérien",
+          "es": "Alemania en la red aérea",
+          "it": "La Germania nella rete aerea",
+          "pt": "A Alemanha na rede aérea",
+          "nl": "Duitsland in het luchtverkeersnet",
+          "pl": "Niemcy w sieci lotniczej",
+          "tr": "Havacılık ağında Almanya",
+          "zh": "航空网络中的德国",
+          "ja": "航空網の中のドイツ",
+          "ko": "항공 네트워크 속의 독일",
+          "hi": "विमानन नेटवर्क में जर्मनी",
+          "ar": "ألمانيا في شبكة الطيران"
         },
         "description": {
           "ru": "В межвоенные годы авиалинии стали новым способом соединять города и страны. Берлин, Дессау и другие центры авиации играли важную роль.",
           "de": "In der Zwischenkriegszeit wurden Fluglinien zu einer neuen Verbindung zwischen Staedten und Laendern. Berlin, Dessau und andere Luftfahrtzentren spielten eine wichtige Rolle.",
-          "en": "In the interwar years, airlines became a new way to connect cities and countries. Berlin, Dessau and other aviation centers played important roles."
+          "en": "In the interwar years, airlines became a new way to connect cities and countries. Berlin, Dessau and other aviation centers played important roles.",
+          "fr": "Dans l’entre-deux-guerres, les lignes aériennes devinrent une nouvelle façon de relier les villes et les pays. Berlin, Dessau et d’autres centres de l’aviation jouèrent un rôle important.",
+          "es": "En los años de entreguerras, las aerolíneas se convirtieron en una nueva forma de conectar ciudades y países. Berlín, Dessau y otros centros de aviación desempeñaron papeles importantes.",
+          "it": "Negli anni tra le due guerre, le linee aeree divennero un nuovo modo di collegare città e paesi. Berlino, Dessau e altri centri dell’aviazione ebbero ruoli importanti.",
+          "pt": "Nos anos entre as guerras, as companhias aéreas tornaram-se uma nova forma de ligar cidades e países. Berlim, Dessau e outros centros de aviação desempenharam papéis importantes.",
+          "nl": "In het interbellum werden luchtlijnen een nieuwe manier om steden en landen te verbinden. Berlijn, Dessau en andere luchtvaartcentra speelden belangrijke rollen.",
+          "pl": "W latach międzywojennych linie lotnicze stały się nowym sposobem łączenia miast i krajów. Berlin, Dessau i inne ośrodki lotnictwa odgrywały ważną rolę.",
+          "tr": "Savaşlar arası yıllarda havayolları şehirleri ve ülkeleri birbirine bağlamanın yeni bir yolu oldu. Berlin, Dessau ve diğer havacılık merkezleri önemli roller oynadı.",
+          "zh": "两次世界大战之间，航空线路成为连接城市和国家的新方式。柏林、德绍和其他航空中心发挥了重要作用。",
+          "ja": "戦間期には、航空路線が都市や国々を結ぶ新しい手段となりました。ベルリン、デッサウ、その他の航空拠点が重要な役割を果たしました。",
+          "ko": "전간기에는 항공 노선이 도시와 국가를 연결하는 새로운 방식이 되었다. 베를린, 데사우와 다른 항공 중심지들이 중요한 역할을 했다.",
+          "hi": "दो विश्वयुद्धों के बीच के वर्षों में विमान सेवाएँ शहरों और देशों को जोड़ने का नया तरीका बन गईं। बर्लिन, डेसाउ और अन्य विमानन केंद्रों ने महत्वपूर्ण भूमिका निभाई।",
+          "ar": "في سنوات ما بين الحربين أصبحت الخطوط الجوية وسيلة جديدة لربط المدن والبلدان. ولعبت برلين وديساو ومراكز طيران أخرى أدواراً مهمة."
         },
         "importance": {
           "ru": "Дата показывает, как карта Германии стала связана не только железными дорогами, но и воздушными маршрутами.",
           "de": "Das Datum zeigt, wie Deutschlands Karte nicht nur durch Eisenbahnen, sondern auch durch Flugrouten verbunden wurde.",
-          "en": "The date shows how Germany's map became connected not only by railways but by air routes."
+          "en": "The date shows how Germany's map became connected not only by railways but by air routes.",
+          "fr": "Cette date montre comment la carte de l’Allemagne fut reliée non seulement par les chemins de fer, mais aussi par les routes aériennes.",
+          "es": "La fecha muestra cómo el mapa de Alemania quedó conectado no solo por ferrocarriles, sino también por rutas aéreas.",
+          "it": "La data mostra come la mappa della Germania venne collegata non solo dalle ferrovie, ma anche dalle rotte aeree.",
+          "pt": "A data mostra como o mapa da Alemanha passou a ser conectado não apenas por ferrovias, mas também por rotas aéreas.",
+          "nl": "De datum laat zien hoe de kaart van Duitsland niet alleen door spoorwegen, maar ook door vliegroutes werd verbonden.",
+          "pl": "Data pokazuje, jak mapa Niemiec została połączona nie tylko kolejami, lecz także trasami lotniczymi.",
+          "tr": "Bu tarih, Almanya haritasının yalnızca demiryollarıyla değil, hava rotalarıyla da nasıl bağlandığını gösterir.",
+          "zh": "这一日期说明，德国地图不仅通过铁路，也通过航空线路连接起来。",
+          "ja": "この日付は、ドイツの地図が鉄道だけでなく航空路によっても結ばれるようになったことを示しています。",
+          "ko": "이 날짜는 독일의 지도가 철도뿐 아니라 항공 노선으로도 연결되었음을 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि जर्मनी का नक्शा केवल रेलमार्गों से नहीं, बल्कि हवाई मार्गों से भी जुड़ने लगा।",
+          "ar": "يُظهر هذا التاريخ كيف أصبحت خريطة ألمانيا مرتبطة ليس بالسكك الحديدية فقط، بل بالمسارات الجوية أيضاً."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Современная Deutsche Lufthansa AG не является прямым юридическим продолжателем компании 1926 года, но исторически связывает себя с этой традицией.",
     "de": "Die heutige Deutsche Lufthansa AG ist nicht die direkte Rechtsnachfolgerin der Gesellschaft von 1926, knuepft historisch aber an diese Tradition an.",
-    "en": "Today's Deutsche Lufthansa AG is not the direct legal successor to the 1926 company, but it historically connects itself with that tradition."
+    "en": "Today's Deutsche Lufthansa AG is not the direct legal successor to the 1926 company, but it historically connects itself with that tradition.",
+    "fr": "L’actuelle Deutsche Lufthansa AG n’est pas la successeure juridique directe de la société de 1926, mais elle se rattache historiquement à cette tradition.",
+    "es": "La actual Deutsche Lufthansa AG no es la sucesora jurídica directa de la compañía de 1926, pero se vincula históricamente con esa tradición.",
+    "it": "L’attuale Deutsche Lufthansa AG non è la diretta erede giuridica della società del 1926, ma si collega storicamente a quella tradizione.",
+    "pt": "A atual Deutsche Lufthansa AG não é a sucessora jurídica direta da empresa de 1926, mas se liga historicamente a essa tradição.",
+    "nl": "De huidige Deutsche Lufthansa AG is niet de directe juridische opvolger van de onderneming uit 1926, maar verbindt zich historisch wel met die traditie.",
+    "pl": "Dzisiejsza Deutsche Lufthansa AG nie jest bezpośrednim następcą prawnym spółki z 1926 roku, ale historycznie odwołuje się do tej tradycji.",
+    "tr": "Bugünkü Deutsche Lufthansa AG, 1926’daki şirketin doğrudan hukuki halefi değildir; ancak tarihsel olarak kendisini bu gelenekle ilişkilendirir.",
+    "zh": "今天的Deutsche Lufthansa AG并不是1926年公司在法律上的直接继承者，但在历史上将自己与这一传统联系起来。",
+    "ja": "現在のDeutsche Lufthansa AGは1926年の会社の直接の法的後継ではありませんが、歴史的にはその伝統と結びついています。",
+    "ko": "오늘날의 Deutsche Lufthansa AG는 1926년 회사의 직접적인 법적 후계자는 아니지만, 역사적으로 그 전통과 자신을 연결한다.",
+    "hi": "आज की Deutsche Lufthansa AG 1926 की कंपनी की प्रत्यक्ष कानूनी उत्तराधिकारी नहीं है, लेकिन ऐतिहासिक रूप से स्वयं को उस परंपरा से जोड़ती है।",
+    "ar": "ليست شركة دويتشه لوفتهانزا الحالية الخلف القانوني المباشر لشركة عام 1926، لكنها تربط نفسها تاريخياً بتلك التقاليد."
   },
   "sources": [
     {

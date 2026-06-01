@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началось Спартаковское восстание",
       "de": "Der Spartakusaufstand beginnt",
-      "en": "The Spartacist uprising begins"
+      "en": "The Spartacist uprising begins",
+      "fr": "Le soulèvement spartakiste commence",
+      "es": "Comienza el levantamiento espartaquista",
+      "it": "Inizia la rivolta spartachista",
+      "pt": "Começa a Revolta Espartaquista",
+      "nl": "De Spartacusopstand begint",
+      "pl": "Rozpoczyna się powstanie spartakusowskie",
+      "tr": "Spartakist ayaklanması başlar",
+      "zh": "斯巴达克起义开始",
+      "ja": "スパルタクス団蜂起が始まる",
+      "ko": "스파르타쿠스 봉기가 시작되다",
+      "hi": "स्पार्टाकस विद्रोह शुरू हुआ",
+      "ar": "بدأت انتفاضة سبارتاكوس"
     },
     "description": {
       "ru": "5 января 1919 года в Берлине начались массовые выступления левых сил, вошедшие в историю как Спартаковское восстание. События стали одним из самых напряжённых моментов первых недель Веймарской республики.",
       "de": "Am 5. Januar 1919 begannen in Berlin Massenproteste linker Kraefte, die als Spartakusaufstand in die Geschichte eingingen. Die Ereignisse wurden zu einem der angespanntesten Momente der ersten Wochen der Weimarer Republik.",
-      "en": "On 5 January 1919, mass protests by left-wing forces began in Berlin and became known as the Spartacist uprising. The events were among the most tense moments in the first weeks of the Weimar Republic."
+      "en": "On 5 January 1919, mass protests by left-wing forces began in Berlin and became known as the Spartacist uprising. The events were among the most tense moments in the first weeks of the Weimar Republic.",
+      "fr": "Le 5 janvier 1919, des manifestations de masse des forces de gauche commencèrent à Berlin et entrèrent dans l’histoire sous le nom de soulèvement spartakiste. Ces événements furent parmi les moments les plus tendus des premières semaines de la République de Weimar.",
+      "es": "El 5 de enero de 1919 comenzaron en Berlín protestas masivas de fuerzas de izquierda, conocidas después como el levantamiento espartaquista. Los acontecimientos fueron uno de los momentos más tensos de las primeras semanas de la República de Weimar.",
+      "it": "Il 5 gennaio 1919 a Berlino iniziarono proteste di massa delle forze di sinistra, passate alla storia come rivolta spartachista. Gli eventi furono tra i momenti più tesi delle prime settimane della Repubblica di Weimar.",
+      "pt": "Em 5 de janeiro de 1919, começaram em Berlim protestos em massa de forças de esquerda, que ficaram conhecidas como Revolta Espartaquista. Os acontecimentos foram um dos momentos mais tensos das primeiras semanas da República de Weimar.",
+      "nl": "Op 5 januari 1919 begonnen in Berlijn massale protesten van linkse krachten, die bekend werden als de Spartacusopstand. De gebeurtenissen behoorden tot de meest gespannen momenten van de eerste weken van de Weimarrepubliek.",
+      "pl": "5 stycznia 1919 roku w Berlinie rozpoczęły się masowe wystąpienia sił lewicowych, znane jako powstanie spartakusowskie. Wydarzenia te należały do najbardziej napiętych momentów pierwszych tygodni Republiki Weimarskiej.",
+      "tr": "5 Ocak 1919’da Berlin’de sol güçlerin kitlesel protestoları başladı ve bunlar Spartakist ayaklanması olarak tarihe geçti. Olaylar, Weimar Cumhuriyeti’nin ilk haftalarının en gergin anlarından biriydi.",
+      "zh": "1919年1月5日，左翼力量在柏林开始大规模抗议，后来被称为斯巴达克起义。这些事件是魏玛共和国最初几周中最紧张的时刻之一。",
+      "ja": "1919年1月5日、ベルリンで左派勢力による大規模な抗議が始まり、スパルタクス団蜂起として知られるようになりました。この出来事はワイマール共和国初期数週間の中でも最も緊迫した瞬間の一つでした。",
+      "ko": "1919년 1월 5일, 베를린에서 좌파 세력의 대규모 시위가 시작되었고 이는 스파르타쿠스 봉기로 알려지게 되었다. 이 사건은 바이마르 공화국 초기 몇 주 동안 가장 긴장된 순간 중 하나였다.",
+      "hi": "5 जनवरी 1919 को बर्लिन में वामपंथी शक्तियों के बड़े प्रदर्शन शुरू हुए, जिन्हें इतिहास में स्पार्टाकस विद्रोह के रूप में जाना गया। ये घटनाएँ वाइमर गणराज्य के शुरुआती सप्ताहों के सबसे तनावपूर्ण क्षणों में थीं।",
+      "ar": "في 5 يناير 1919 بدأت في برلين احتجاجات جماهيرية لقوى يسارية عُرفت في التاريخ باسم انتفاضة سبارتاكوس. وكانت هذه الأحداث من أكثر لحظات الأسابيع الأولى لجمهورية فايمار توتراً."
     },
     "importance": {
       "ru": "Дата показывает, как трудно рождалась первая немецкая демократия после войны, революции и падения монархии.",
       "de": "Das Datum zeigt, wie schwer die erste deutsche Demokratie nach Krieg, Revolution und dem Ende der Monarchie entstand.",
-      "en": "The date shows how difficult the birth of Germany's first democracy was after war, revolution and the fall of monarchy."
+      "en": "The date shows how difficult the birth of Germany's first democracy was after war, revolution and the fall of monarchy.",
+      "fr": "Cette date montre combien la naissance de la première démocratie allemande fut difficile après la guerre, la révolution et la chute de la monarchie.",
+      "es": "La fecha muestra lo difícil que fue el nacimiento de la primera democracia alemana tras la guerra, la revolución y la caída de la monarquía.",
+      "it": "La data mostra quanto fu difficile la nascita della prima democrazia tedesca dopo la guerra, la rivoluzione e la caduta della monarchia.",
+      "pt": "A data mostra como foi difícil o nascimento da primeira democracia alemã após a guerra, a revolução e a queda da monarquia.",
+      "nl": "De datum laat zien hoe moeilijk de geboorte van Duitslands eerste democratie was na oorlog, revolutie en de val van de monarchie.",
+      "pl": "Data pokazuje, jak trudne były narodziny pierwszej niemieckiej demokracji po wojnie, rewolucji i upadku monarchii.",
+      "tr": "Bu tarih, savaş, devrim ve monarşinin çöküşünden sonra Almanya’nın ilk demokrasisinin ne kadar zor doğduğunu gösterir.",
+      "zh": "这一日期说明，德国第一个民主政体在战争、革命和君主制崩溃之后诞生得多么艰难。",
+      "ja": "この日付は、戦争、革命、君主制の崩壊の後にドイツ初の民主主義がいかに困難に生まれたかを示しています。",
+      "ko": "이 날짜는 전쟁, 혁명, 군주제 붕괴 이후 독일 최초의 민주주의가 얼마나 어렵게 탄생했는지를 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि युद्ध, क्रांति और राजशाही के पतन के बाद जर्मनी की पहली लोकतांत्रिक व्यवस्था का जन्म कितना कठिन था।",
+      "ar": "يُظهر هذا التاريخ مدى صعوبة ولادة أول ديمقراطية ألمانية بعد الحرب والثورة وسقوط الملكية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Берлин в революционном кризисе",
           "de": "Berlin in der Revolutionskrise",
-          "en": "Berlin in revolutionary crisis"
+          "en": "Berlin in revolutionary crisis",
+          "fr": "Berlin dans la crise révolutionnaire",
+          "es": "Berlín en crisis revolucionaria",
+          "it": "Berlino nella crisi rivoluzionaria",
+          "pt": "Berlim em crise revolucionária",
+          "nl": "Berlijn in revolutionaire crisis",
+          "pl": "Berlin w kryzysie rewolucyjnym",
+          "tr": "Devrim krizi içindeki Berlin",
+          "zh": "革命危机中的柏林",
+          "ja": "革命危機の中のベルリン",
+          "ko": "혁명 위기 속의 베를린",
+          "hi": "क्रांतिकारी संकट में बर्लिन",
+          "ar": "برلين في أزمة ثورية"
         },
         "description": {
           "ru": "После Ноябрьской революции разные политические силы спорили о будущем Германии. В январе 1919 года конфликт в Берлине перешёл в вооружённое противостояние.",
           "de": "Nach der Novemberrevolution stritten verschiedene politische Kraefte ueber die Zukunft Deutschlands. Im Januar 1919 ging der Konflikt in Berlin in bewaffnete Auseinandersetzungen ueber.",
-          "en": "After the November Revolution, different political forces argued over Germany's future. In January 1919, the conflict in Berlin turned into armed confrontation."
+          "en": "After the November Revolution, different political forces argued over Germany's future. In January 1919, the conflict in Berlin turned into armed confrontation.",
+          "fr": "Après la révolution de Novembre, différentes forces politiques se disputèrent l’avenir de l’Allemagne. En janvier 1919, le conflit à Berlin se transforma en affrontement armé.",
+          "es": "Tras la Revolución de Noviembre, distintas fuerzas políticas discutían sobre el futuro de Alemania. En enero de 1919, el conflicto en Berlín se convirtió en enfrentamiento armado.",
+          "it": "Dopo la Rivoluzione di novembre, diverse forze politiche si scontrarono sul futuro della Germania. Nel gennaio 1919, il conflitto a Berlino si trasformò in confronto armato.",
+          "pt": "Após a Revolução de Novembro, diferentes forças políticas disputavam o futuro da Alemanha. Em janeiro de 1919, o conflito em Berlim transformou-se em confronto armado.",
+          "nl": "Na de Novemberrevolutie twistten verschillende politieke krachten over de toekomst van Duitsland. In januari 1919 veranderde het conflict in Berlijn in een gewapende confrontatie.",
+          "pl": "Po rewolucji listopadowej różne siły polityczne spierały się o przyszłość Niemiec. W styczniu 1919 roku konflikt w Berlinie przerodził się w zbrojne starcie.",
+          "tr": "Kasım Devrimi’nden sonra farklı siyasi güçler Almanya’nın geleceği konusunda tartışıyordu. Ocak 1919’da Berlin’deki çatışma silahlı bir karşı karşıya gelişe dönüştü.",
+          "zh": "十一月革命之后，不同政治力量围绕德国的未来发生争论。1919年1月，柏林的冲突转变为武装对抗。",
+          "ja": "十一月革命の後、さまざまな政治勢力がドイツの未来をめぐって争いました。1919年1月、ベルリンの対立は武装衝突へと変わりました。",
+          "ko": "11월 혁명 이후 여러 정치 세력이 독일의 미래를 두고 논쟁했다. 1919년 1월, 베를린의 갈등은 무장 대립으로 바뀌었다.",
+          "hi": "नवंबर क्रांति के बाद अलग-अलग राजनीतिक शक्तियाँ जर्मनी के भविष्य पर विवाद कर रही थीं। जनवरी 1919 में बर्लिन का संघर्ष सशस्त्र टकराव में बदल गया।",
+          "ar": "بعد ثورة نوفمبر تنازعت قوى سياسية مختلفة حول مستقبل ألمانيا. وفي يناير 1919 تحول الصراع في برلين إلى مواجهة مسلحة."
         },
         "importance": {
           "ru": "Так видно, что демократия в Германии начиналась не спокойно, а среди острых социальных и политических конфликтов.",
           "de": "So wird sichtbar, dass Demokratie in Deutschland nicht ruhig begann, sondern inmitten scharfer sozialer und politischer Konflikte.",
-          "en": "This shows that democracy in Germany did not begin calmly, but amid sharp social and political conflicts."
+          "en": "This shows that democracy in Germany did not begin calmly, but amid sharp social and political conflicts.",
+          "fr": "Cela montre que la démocratie en Allemagne n’a pas commencé dans le calme, mais au milieu de conflits sociaux et politiques aigus.",
+          "es": "Esto muestra que la democracia en Alemania no comenzó con calma, sino en medio de fuertes conflictos sociales y políticos.",
+          "it": "Questo mostra che la democrazia in Germania non iniziò serenamente, ma in mezzo a duri conflitti sociali e politici.",
+          "pt": "Isso mostra que a democracia na Alemanha não começou de forma tranquila, mas em meio a fortes conflitos sociais e políticos.",
+          "nl": "Dit laat zien dat de democratie in Duitsland niet rustig begon, maar midden in scherpe sociale en politieke conflicten.",
+          "pl": "Pokazuje to, że demokracja w Niemczech nie zaczęła się spokojnie, lecz pośród ostrych konfliktów społecznych i politycznych.",
+          "tr": "Bu, Almanya’da demokrasinin sakin biçimde değil, sert toplumsal ve siyasi çatışmaların ortasında başladığını gösterir.",
+          "zh": "这说明德国的民主并非平静开始，而是在尖锐的社会和政治冲突中诞生。",
+          "ja": "これは、ドイツの民主主義が穏やかに始まったのではなく、激しい社会的・政治的対立の中で始まったことを示しています。",
+          "ko": "이는 독일의 민주주의가 평온하게 시작된 것이 아니라 날카로운 사회적·정치적 갈등 속에서 시작되었음을 보여 준다.",
+          "hi": "यह दिखाता है कि जर्मनी में लोकतंत्र शांतिपूर्वक नहीं, बल्कि तीखे सामाजिक और राजनीतिक संघर्षों के बीच शुरू हुआ।",
+          "ar": "يُظهر ذلك أن الديمقراطية في ألمانيا لم تبدأ بهدوء، بل وسط صراعات اجتماعية وسياسية حادة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Роза Люксембург и Карл Либкнехт",
           "de": "Rosa Luxemburg und Karl Liebknecht",
-          "en": "Rosa Luxemburg and Karl Liebknecht"
+          "en": "Rosa Luxemburg and Karl Liebknecht",
+          "fr": "Rosa Luxemburg et Karl Liebknecht",
+          "es": "Rosa Luxemburg y Karl Liebknecht",
+          "it": "Rosa Luxemburg e Karl Liebknecht",
+          "pt": "Rosa Luxemburg e Karl Liebknecht",
+          "nl": "Rosa Luxemburg en Karl Liebknecht",
+          "pl": "Róża Luksemburg i Karl Liebknecht",
+          "tr": "Rosa Luxemburg ve Karl Liebknecht",
+          "zh": "罗莎·卢森堡和卡尔·李卜克内西",
+          "ja": "ローザ・ルクセンブルクとカール・リープクネヒト",
+          "ko": "로자 룩셈부르크와 카를 리프크네히트",
+          "hi": "रोज़ा लक्ज़मबर्ग और कार्ल लीबक्नेख्ट",
+          "ar": "روزا لوكسمبورغ وكارل ليبكنخت"
         },
         "description": {
           "ru": "С восстанием связаны имена Розы Люксембург и Карла Либкнехта, лидеров коммунистического движения. Через несколько дней они были убиты после подавления выступлений.",
           "de": "Mit dem Aufstand sind die Namen Rosa Luxemburg und Karl Liebknecht verbunden, fuehrende Figuren der kommunistischen Bewegung. Wenige Tage spaeter wurden sie nach der Niederschlagung der Unruhen ermordet.",
-          "en": "The uprising is linked with Rosa Luxemburg and Karl Liebknecht, leading figures of the communist movement. A few days later, after the unrest was suppressed, they were murdered."
+          "en": "The uprising is linked with Rosa Luxemburg and Karl Liebknecht, leading figures of the communist movement. A few days later, after the unrest was suppressed, they were murdered.",
+          "fr": "Le soulèvement est lié aux noms de Rosa Luxemburg et Karl Liebknecht, figures majeures du mouvement communiste. Quelques jours plus tard, après la répression des troubles, ils furent assassinés.",
+          "es": "El levantamiento está vinculado a Rosa Luxemburg y Karl Liebknecht, figuras destacadas del movimiento comunista. Pocos días después, tras la represión de los disturbios, fueron asesinados.",
+          "it": "La rivolta è legata ai nomi di Rosa Luxemburg e Karl Liebknecht, figure di spicco del movimento comunista. Pochi giorni dopo, dopo la repressione dei disordini, furono assassinati.",
+          "pt": "A revolta está ligada aos nomes de Rosa Luxemburg e Karl Liebknecht, figuras importantes do movimento comunista. Poucos dias depois, após a repressão dos distúrbios, eles foram assassinados.",
+          "nl": "De opstand is verbonden met Rosa Luxemburg en Karl Liebknecht, leidende figuren van de communistische beweging. Enkele dagen later, nadat de onrust was neergeslagen, werden zij vermoord.",
+          "pl": "Powstanie wiąże się z nazwiskami Róży Luksemburg i Karla Liebknechta, czołowych postaci ruchu komunistycznego. Kilka dni później, po stłumieniu wystąpień, zostali zamordowani.",
+          "tr": "Ayaklanma, komünist hareketin önde gelen isimleri Rosa Luxemburg ve Karl Liebknecht ile bağlantılıdır. Birkaç gün sonra, olaylar bastırıldıktan sonra öldürüldüler.",
+          "zh": "这次起义与共产主义运动的领导人物罗莎·卢森堡和卡尔·李卜克内西有关。几天后，在动乱被镇压之后，他们被杀害。",
+          "ja": "この蜂起は、共産主義運動の主要人物であるローザ・ルクセンブルクとカール・リープクネヒトと結びついています。数日後、騒乱が鎮圧された後、二人は殺害されました。",
+          "ko": "이 봉기는 공산주의 운동의 주요 인물인 로자 룩셈부르크와 카를 리프크네히트와 연결된다. 며칠 뒤 소요가 진압된 후 그들은 살해되었다.",
+          "hi": "यह विद्रोह कम्युनिस्ट आंदोलन के प्रमुख नेताओं रोज़ा लक्ज़मबर्ग और कार्ल लीबक्नेख्ट से जुड़ा है। कुछ दिनों बाद, प्रदर्शनों को दबाए जाने के बाद, उनकी हत्या कर दी गई।",
+          "ar": "ترتبط الانتفاضة باسمي روزا لوكسمبورغ وكارل ليبكنخت، وهما من أبرز شخصيات الحركة الشيوعية. وبعد أيام قليلة من قمع الاضطرابات قُتلا."
         },
         "importance": {
           "ru": "Их гибель стала важной частью политической памяти левых движений в Германии.",
           "de": "Ihr Tod wurde zu einem wichtigen Teil der politischen Erinnerung linker Bewegungen in Deutschland.",
-          "en": "Their deaths became an important part of the political memory of left-wing movements in Germany."
+          "en": "Their deaths became an important part of the political memory of left-wing movements in Germany.",
+          "fr": "Leur mort devint une partie importante de la mémoire politique des mouvements de gauche en Allemagne.",
+          "es": "Sus muertes se convirtieron en una parte importante de la memoria política de los movimientos de izquierda en Alemania.",
+          "it": "La loro morte divenne una parte importante della memoria politica dei movimenti di sinistra in Germania.",
+          "pt": "Suas mortes tornaram-se uma parte importante da memória política dos movimentos de esquerda na Alemanha.",
+          "nl": "Hun dood werd een belangrijk onderdeel van de politieke herinnering van linkse bewegingen in Duitsland.",
+          "pl": "Ich śmierć stała się ważną częścią pamięci politycznej ruchów lewicowych w Niemczech.",
+          "tr": "Ölümleri, Almanya’daki sol hareketlerin siyasi hafızasının önemli bir parçası hâline geldi.",
+          "zh": "他们的死亡成为德国左翼运动政治记忆的重要组成部分。",
+          "ja": "二人の死は、ドイツの左派運動の政治的記憶の重要な一部となりました。",
+          "ko": "그들의 죽음은 독일 좌파 운동의 정치적 기억에서 중요한 부분이 되었다.",
+          "hi": "उनकी मृत्यु जर्मनी के वामपंथी आंदोलनों की राजनीतिक स्मृति का महत्वपूर्ण हिस्सा बन गई।",
+          "ar": "أصبح موتهما جزءاً مهماً من الذاكرة السياسية للحركات اليسارية في ألمانيا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Название восстания связано с Союзом Спартака, который получил имя древнеримского предводителя восставших рабов.",
     "de": "Der Name des Aufstands haengt mit dem Spartakusbund zusammen, der nach dem antiken Anfuehrer eines Sklavenaufstands benannt war.",
-    "en": "The uprising's name comes from the Spartacus League, named after the ancient leader of a slave revolt."
+    "en": "The uprising's name comes from the Spartacus League, named after the ancient leader of a slave revolt.",
+    "fr": "Le nom du soulèvement vient de la Ligue spartakiste, nommée d’après l’ancien chef d’une révolte d’esclaves.",
+    "es": "El nombre del levantamiento procede de la Liga Espartaquista, llamada así por el antiguo líder de una rebelión de esclavos.",
+    "it": "Il nome della rivolta deriva dalla Lega di Spartaco, chiamata così in onore dell’antico capo di una rivolta di schiavi.",
+    "pt": "O nome da revolta vem da Liga Espartaquista, batizada em homenagem ao antigo líder de uma revolta de escravos.",
+    "nl": "De naam van de opstand komt van de Spartacusbond, genoemd naar de antieke leider van een slavenopstand.",
+    "pl": "Nazwa powstania pochodzi od Związku Spartakusa, nazwanego na cześć starożytnego przywódcy powstania niewolników.",
+    "tr": "Ayaklanmanın adı, antik çağdaki bir köle isyanının liderinden adını alan Spartakus Birliği’nden gelir.",
+    "zh": "起义名称来自斯巴达克同盟，该组织以古罗马奴隶起义领袖斯巴达克命名。",
+    "ja": "蜂起の名称は、古代の奴隷反乱の指導者にちなんで名付けられたスパルタクス団に由来します。",
+    "ko": "봉기의 이름은 고대 노예 반란의 지도자 이름을 딴 스파르타쿠스 동맹에서 비롯되었다.",
+    "hi": "विद्रोह का नाम स्पार्टाकस लीग से आया, जिसका नाम प्राचीन दास विद्रोह के नेता पर रखा गया था।",
+    "ar": "جاء اسم الانتفاضة من رابطة سبارتاكوس، التي سُمّيت على اسم قائد قديم لثورة عبيد."
   },
   "sources": [
     {
