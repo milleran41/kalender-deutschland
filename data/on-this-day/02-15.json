@@ -11,17 +11,53 @@
     "title": {
       "ru": "По Берлину впервые прошёл поезд U-Bahn",
       "de": "Der erste Berliner U-Bahn-Zug faehrt",
-      "en": "The first Berlin U-Bahn train runs"
+      "en": "The first Berlin U-Bahn train runs",
+      "fr": "Le premier train du U-Bahn de Berlin circule",
+      "es": "Circula el primer tren del U-Bahn de Berlín",
+      "it": "Circola il primo treno della U-Bahn di Berlino",
+      "pt": "Circula o primeiro comboio do U-Bahn de Berlim",
+      "nl": "De eerste Berlijnse U-Bahn-trein rijdt",
+      "pl": "Rusza pierwszy pociąg berlińskiego U-Bahnu",
+      "tr": "İlk Berlin U-Bahn treni çalıştı",
+      "zh": "柏林第一列U-Bahn列车运行",
+      "ja": "ベルリン初のUバーン列車が走る",
+      "ko": "첫 베를린 U-Bahn 열차가 운행되다",
+      "hi": "बर्लिन की पहली U-Bahn ट्रेन चली",
+      "ar": "انطلاق أول قطار U-Bahn في برلين"
     },
     "description": {
       "ru": "15 февраля 1902 года состоялась первая поездка по новой берлинской электрической городской железной дороге. Это стало началом истории U-Bahn, без которой сегодня трудно представить Берлин.",
       "de": "Am 15. Februar 1902 fand die erste Fahrt auf der neuen elektrischen Stadtschnellbahn Berlins statt. Damit begann die Geschichte der U-Bahn, ohne die Berlin heute kaum vorstellbar ist.",
-      "en": "On 15 February 1902, the first ride took place on Berlin's new electric urban railway. It began the history of the U-Bahn, without which Berlin is hard to imagine today."
+      "en": "On 15 February 1902, the first ride took place on Berlin's new electric urban railway. It began the history of the U-Bahn, without which Berlin is hard to imagine today.",
+      "fr": "Le 15 février 1902 eut lieu le premier trajet sur le nouveau chemin de fer urbain électrique de Berlin. Ce fut le début de l'histoire du U-Bahn, sans lequel Berlin est aujourd'hui difficile à imaginer.",
+      "es": "El 15 de febrero de 1902 tuvo lugar el primer viaje en el nuevo ferrocarril urbano eléctrico de Berlín. Así comenzó la historia del U-Bahn, sin el cual hoy es difícil imaginar Berlín.",
+      "it": "Il 15 febbraio 1902 si svolse il primo viaggio sulla nuova ferrovia urbana elettrica di Berlino. Cominciò così la storia della U-Bahn, senza la quale oggi Berlino è difficile da immaginare.",
+      "pt": "Em 15 de fevereiro de 1902, realizou-se a primeira viagem na nova ferrovia urbana elétrica de Berlim. Começou assim a história do U-Bahn, sem o qual hoje é difícil imaginar Berlim.",
+      "nl": "Op 15 februari 1902 vond de eerste rit plaats op de nieuwe elektrische stadsspoorlijn van Berlijn. Daarmee begon de geschiedenis van de U-Bahn, zonder welke Berlijn vandaag moeilijk voorstelbaar is.",
+      "pl": "15 lutego 1902 roku odbył się pierwszy przejazd nową elektryczną koleją miejską Berlina. Tak zaczęła się historia U-Bahnu, bez którego trudno dziś wyobrazić sobie Berlin.",
+      "tr": "15 Şubat 1902'de Berlin'in yeni elektrikli kent demiryolunda ilk yolculuk yapıldı. Bugün Berlin'i onsuz düşünmenin zor olduğu U-Bahn'ın tarihi böyle başladı.",
+      "zh": "1902年2月15日，柏林新建电气化城市铁路进行了首次运行。U-Bahn的历史由此开始，如今没有它很难想象柏林。",
+      "ja": "1902年2月15日、ベルリンの新しい電気式都市鉄道で最初の乗車が行われました。これが、今日のベルリンを語るうえで欠かせないUバーンの歴史の始まりでした。",
+      "ko": "1902년 2월 15일, 베를린의 새로운 전기 도시철도에서 첫 운행이 이루어졌습니다. 오늘날 베를린을 상상하기 어려울 만큼 중요한 U-Bahn의 역사가 이렇게 시작되었습니다.",
+      "hi": "15 फ़रवरी 1902 को बर्लिन की नई विद्युत शहरी रेल पर पहली यात्रा हुई। यहीं से U-Bahn का इतिहास शुरू हुआ, जिसके बिना आज बर्लिन की कल्पना कठिन है।",
+      "ar": "في 15 فبراير 1902 جرت أول رحلة على سكة الحديد الكهربائية الحضرية الجديدة في برلين. ومن هنا بدأ تاريخ U-Bahn، الذي يصعب اليوم تخيل برلين من دونه."
     },
     "importance": {
       "ru": "Дата показывает рост большого города и то, как транспорт меняет повседневную жизнь.",
       "de": "Das Datum zeigt das Wachstum der Grossstadt und wie Verkehr den Alltag veraendert.",
-      "en": "The date shows the growth of the metropolis and how transport changes everyday life."
+      "en": "The date shows the growth of the metropolis and how transport changes everyday life.",
+      "fr": "Cette date montre la croissance de la métropole et la façon dont les transports changent la vie quotidienne.",
+      "es": "La fecha muestra el crecimiento de la gran ciudad y cómo el transporte cambia la vida cotidiana.",
+      "it": "La data mostra la crescita della metropoli e come i trasporti cambiano la vita quotidiana.",
+      "pt": "A data mostra o crescimento da grande cidade e como os transportes mudam a vida quotidiana.",
+      "nl": "Deze datum laat de groei van de metropool zien en hoe vervoer het dagelijks leven verandert.",
+      "pl": "Ta data pokazuje rozwój wielkiego miasta i to, jak transport zmienia codzienne życie.",
+      "tr": "Bu tarih, büyük kentin büyümesini ve ulaşımın günlük yaşamı nasıl değiştirdiğini gösterir.",
+      "zh": "这个日期显示了大都市的成长，以及交通如何改变日常生活。",
+      "ja": "この日付は、大都市の成長と交通が日常生活をどのように変えるかを示しています。",
+      "ko": "이 날짜는 대도시의 성장과 교통이 일상을 어떻게 바꾸는지 보여 줍니다.",
+      "hi": "यह तारीख महानगर के विकास और परिवहन द्वारा रोजमर्रा के जीवन में लाए बदलाव को दिखाती है।",
+      "ar": "يبين هذا التاريخ نمو المدينة الكبرى وكيف يغير النقل الحياة اليومية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Современный город на рельсах",
           "de": "Eine moderne Stadt auf Schienen",
-          "en": "A modern city on rails"
+          "en": "A modern city on rails",
+          "fr": "Une ville moderne sur rails",
+          "es": "Una ciudad moderna sobre raíles",
+          "it": "Una città moderna su rotaie",
+          "pt": "Uma cidade moderna sobre carris",
+          "nl": "Een moderne stad op rails",
+          "pl": "Nowoczesne miasto na szynach",
+          "tr": "Raylar üzerinde modern bir şehir",
+          "zh": "轨道上的现代城市",
+          "ja": "レールの上の近代都市",
+          "ko": "철로 위의 현대 도시",
+          "hi": "पटरी पर चलता आधुनिक शहर",
+          "ar": "مدينة حديثة على السكك"
         },
         "description": {
           "ru": "Первые линии частично шли как надземная железная дорога, но быстро стали частью идеи современного городского транспорта. Поезда помогали соединять районы растущей столицы.",
           "de": "Die ersten Strecken verliefen teilweise als Hochbahn, wurden aber schnell Teil der Idee eines modernen Nahverkehrs. Die Zuege verbanden die Viertel der wachsenden Hauptstadt.",
-          "en": "The first sections partly ran as elevated railway, but quickly became part of the idea of modern urban transport. The trains connected the districts of the growing capital."
+          "en": "The first sections partly ran as elevated railway, but quickly became part of the idea of modern urban transport. The trains connected the districts of the growing capital.",
+          "fr": "Les premiers tronçons circulaient en partie comme chemin de fer aérien, mais devinrent vite une partie de l'idée d'un transport urbain moderne. Les trains reliaient les quartiers de la capitale en pleine croissance.",
+          "es": "Los primeros tramos funcionaban en parte como ferrocarril elevado, pero pronto formaron parte de la idea de un transporte urbano moderno. Los trenes conectaban los barrios de la capital en crecimiento.",
+          "it": "I primi tratti correvano in parte come ferrovia sopraelevata, ma divennero presto parte dell'idea di un trasporto urbano moderno. I treni collegavano i quartieri della capitale in crescita.",
+          "pt": "Os primeiros troços circulavam em parte como ferrovia elevada, mas rapidamente se tornaram parte da ideia de transporte urbano moderno. Os comboios ligavam os bairros da capital em crescimento.",
+          "nl": "De eerste delen liepen gedeeltelijk als verhoogde spoorlijn, maar werden al snel onderdeel van het idee van modern stadsvervoer. De treinen verbonden de wijken van de groeiende hoofdstad.",
+          "pl": "Pierwsze odcinki częściowo przebiegały jako kolej nadziemna, ale szybko stały się częścią idei nowoczesnego transportu miejskiego. Pociągi łączyły dzielnice rosnącej stolicy.",
+          "tr": "İlk bölümler kısmen yükseltilmiş demiryolu olarak ilerliyordu, ancak kısa sürede modern kent ulaşımı fikrinin parçası oldu. Trenler büyüyen başkentin semtlerini birbirine bağlıyordu.",
+          "zh": "最早的路段部分以高架铁路形式运行，但很快成为现代城市交通理念的一部分。列车把不断扩张的首都各城区连接起来。",
+          "ja": "最初の区間は一部が高架鉄道として走っていましたが、すぐに近代的な都市交通の考え方の一部になりました。列車は成長する首都の地区を結びました。",
+          "ko": "초기 구간은 일부가 고가철도로 운행되었지만, 곧 현대 도시 교통이라는 생각의 일부가 되었습니다. 열차는 성장하는 수도의 여러 구역을 연결했습니다.",
+          "hi": "पहले हिस्से कुछ जगह ऊँची रेल के रूप में चलते थे, लेकिन जल्दी ही आधुनिक शहरी परिवहन की कल्पना का हिस्सा बन गए। ट्रेनों ने बढ़ती राजधानी के इलाकों को जोड़ा।",
+          "ar": "كانت المقاطع الأولى تسير جزئيا كخط حديدي مرتفع، لكنها سرعان ما أصبحت جزءا من فكرة النقل الحضري الحديث. وربطت القطارات أحياء العاصمة المتنامية."
         },
         "importance": {
           "ru": "Это история не только техники, но и городской привычки: как люди начинают иначе жить и перемещаться.",
           "de": "Das ist nicht nur Technikgeschichte, sondern auch Stadtalltag: Menschen leben und bewegen sich anders.",
-          "en": "It is not only technological history, but also urban everyday life: people begin to live and move differently."
+          "en": "It is not only technological history, but also urban everyday life: people begin to live and move differently.",
+          "fr": "Ce n'est pas seulement une histoire technique, mais aussi une histoire du quotidien urbain: les gens commencent à vivre et à se déplacer autrement.",
+          "es": "No es solo historia de la técnica, sino también de la vida cotidiana urbana: la gente empieza a vivir y moverse de otra manera.",
+          "it": "Non è solo storia della tecnologia, ma anche della vita quotidiana urbana: le persone iniziano a vivere e a muoversi in modo diverso.",
+          "pt": "Não é apenas história da tecnologia, mas também do quotidiano urbano: as pessoas começam a viver e a deslocar-se de outra forma.",
+          "nl": "Het is niet alleen techniekgeschiedenis, maar ook stedelijk dagelijks leven: mensen gaan anders leven en zich anders verplaatsen.",
+          "pl": "To nie tylko historia techniki, lecz także miejskiej codzienności: ludzie zaczynają inaczej żyć i się przemieszczać.",
+          "tr": "Bu yalnızca teknoloji tarihi değil, aynı zamanda kentsel gündelik yaşam tarihidir: insanlar farklı yaşamaya ve hareket etmeye başlar.",
+          "zh": "这不仅是技术史，也是城市日常生活史：人们开始以不同方式生活和出行。",
+          "ja": "これは技術の歴史であるだけでなく、都市の日常生活の歴史でもあります。人々は別の暮らし方、移動の仕方を始めました。",
+          "ko": "이는 기술의 역사일 뿐 아니라 도시의 일상사이기도 합니다. 사람들은 다르게 살고 이동하기 시작했습니다.",
+          "hi": "यह केवल तकनीक का इतिहास नहीं, बल्कि शहरी रोजमर्रा का इतिहास भी है: लोग अलग ढंग से जीना और चलना शुरू करते हैं।",
+          "ar": "إنها ليست تاريخا تقنيا فقط، بل تاريخا للحياة اليومية في المدينة أيضا: يبدأ الناس في العيش والتنقل بطريقة مختلفة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Метро, которое начиналось сверху",
           "de": "Eine U-Bahn, die oben begann",
-          "en": "An underground that began above ground"
+          "en": "An underground that began above ground",
+          "fr": "Un métro qui a commencé au-dessus du sol",
+          "es": "Un metro que empezó por encima del suelo",
+          "it": "Una metropolitana che iniziò in superficie",
+          "pt": "Um metro que começou acima do solo",
+          "nl": "Een metro die bovengronds begon",
+          "pl": "Metro, które zaczęło się nad ziemią",
+          "tr": "Yer üstünde başlayan bir metro",
+          "zh": "从地上开始的地铁",
+          "ja": "地上から始まった地下鉄",
+          "ko": "지상에서 시작된 지하철",
+          "hi": "जमीन के ऊपर से शुरू हुई भूमिगत रेल",
+          "ar": "مترو بدأ فوق الأرض"
         },
         "description": {
           "ru": "Забавно, что ранняя берлинская U-Bahn была во многом Hochbahn, то есть надземной дорогой. Название «подземка» не всегда буквально описывает первые маршруты.",
           "de": "Kurios ist, dass die fruehe Berliner U-Bahn zu grossen Teilen eine Hochbahn war. Der Name Untergrundbahn beschreibt die ersten Strecken also nicht immer woertlich.",
-          "en": "Curiously, the early Berlin U-Bahn was largely an elevated railway. The name 'underground' did not always literally describe the first routes."
+          "en": "Curiously, the early Berlin U-Bahn was largely an elevated railway. The name 'underground' did not always literally describe the first routes.",
+          "fr": "Curieusement, le premier U-Bahn de Berlin était en grande partie un chemin de fer aérien. Le nom « métro » ne décrivait donc pas toujours littéralement les premiers trajets.",
+          "es": "Curiosamente, el primer U-Bahn de Berlín era en gran parte un ferrocarril elevado. El nombre «subterráneo» no siempre describía literalmente las primeras rutas.",
+          "it": "Curiosamente, la prima U-Bahn di Berlino era in gran parte una ferrovia sopraelevata. Il nome «metropolitana» non descriveva quindi sempre alla lettera i primi percorsi.",
+          "pt": "Curiosamente, o primeiro U-Bahn de Berlim era em grande parte uma ferrovia elevada. O nome «subterrâneo» nem sempre descrevia literalmente as primeiras rotas.",
+          "nl": "Opmerkelijk genoeg was de vroege Berlijnse U-Bahn voor een groot deel een verhoogde spoorlijn. De naam 'ondergrondse' beschreef de eerste routes dus niet altijd letterlijk.",
+          "pl": "Ciekawe, że wczesny berliński U-Bahn był w dużej mierze koleją nadziemną. Nazwa „podziemna” nie zawsze dosłownie opisywała pierwsze trasy.",
+          "tr": "İlginçtir ki erken Berlin U-Bahn'ı büyük ölçüde yükseltilmiş bir demiryoluydu. Bu yüzden 'yeraltı' adı ilk hatları her zaman kelimesi kelimesine anlatmıyordu.",
+          "zh": "有趣的是，早期柏林U-Bahn很大程度上是高架铁路。因此，“地下铁路”这个名称并不总是字面描述最早的线路。",
+          "ja": "興味深いことに、初期のベルリンUバーンは大部分が高架鉄道でした。そのため「地下鉄」という名前は、最初の路線を必ずしも文字どおりに表していたわけではありません。",
+          "ko": "흥미롭게도 초기 베를린 U-Bahn은 상당 부분 고가철도였습니다. 그래서 '지하철'이라는 이름이 초기 노선을 항상 문자 그대로 설명한 것은 아니었습니다.",
+          "hi": "दिलचस्प बात यह है कि शुरुआती बर्लिन U-Bahn काफी हद तक ऊँची रेल थी। इसलिए 'भूमिगत' नाम शुरुआती मार्गों को हमेशा शाब्दिक रूप से नहीं बताता था।",
+          "ar": "من الطريف أن U-Bahn برلين المبكر كان في جزء كبير منه خطا مرتفعا. لذلك لم يكن اسم «تحت الأرض» يصف المسارات الأولى حرفيا دائما."
         },
         "importance": {
           "ru": "Такие детали делают историю города живой и немного неожиданной.",
           "de": "Solche Details machen Stadtgeschichte lebendig und etwas unerwartet.",
-          "en": "Details like this make urban history lively and a little unexpected."
+          "en": "Details like this make urban history lively and a little unexpected.",
+          "fr": "De tels détails rendent l'histoire urbaine vivante et un peu inattendue.",
+          "es": "Detalles así hacen que la historia urbana sea viva y un poco inesperada.",
+          "it": "Dettagli come questo rendono la storia urbana viva e un po' inattesa.",
+          "pt": "Detalhes como este tornam a história urbana viva e um pouco inesperada.",
+          "nl": "Zulke details maken stadsgeschiedenis levendig en een beetje onverwacht.",
+          "pl": "Takie szczegóły sprawiają, że historia miasta staje się żywa i trochę zaskakująca.",
+          "tr": "Böyle ayrıntılar kent tarihini canlı ve biraz beklenmedik kılar.",
+          "zh": "这样的细节让城市历史变得生动，也有一点出人意料。",
+          "ja": "このような細部が都市の歴史を生き生きと、少し意外なものにします。",
+          "ko": "이런 세부 사항은 도시 역사를 생생하고 조금은 뜻밖의 것으로 만듭니다.",
+          "hi": "ऐसी बातें शहर के इतिहास को जीवंत और थोड़ा अप्रत्याशित बनाती हैं।",
+          "ar": "مثل هذه التفاصيل تجعل تاريخ المدينة حيا ومفاجئا بعض الشيء."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Берлин стал седьмым городом мира с метро такого типа.",
     "de": "Berlin wurde die siebte Stadt der Welt mit einer U-Bahn dieser Art.",
-    "en": "Berlin became the seventh city in the world with an underground railway of this kind."
+    "en": "Berlin became the seventh city in the world with an underground railway of this kind.",
+    "fr": "Berlin devint la septième ville du monde dotée d'un métro de ce type.",
+    "es": "Berlín se convirtió en la séptima ciudad del mundo con un metro de este tipo.",
+    "it": "Berlino divenne la settima città al mondo con una metropolitana di questo tipo.",
+    "pt": "Berlim tornou-se a sétima cidade do mundo com um metro deste tipo.",
+    "nl": "Berlijn werd de zevende stad ter wereld met een ondergrondse spoorweg van dit type.",
+    "pl": "Berlin stał się siódmym miastem na świecie z metrem tego typu.",
+    "tr": "Berlin, bu tür bir yeraltı demiryoluna sahip dünyanın yedinci şehri oldu.",
+    "zh": "柏林成为世界上第七个拥有此类地铁的城市。",
+    "ja": "ベルリンは、この種の地下鉄を持つ世界で7番目の都市になりました。",
+    "ko": "베를린은 이런 종류의 지하철을 가진 세계 일곱 번째 도시가 되었습니다.",
+    "hi": "बर्लिन इस प्रकार की भूमिगत रेल वाला दुनिया का सातवाँ शहर बना।",
+    "ar": "أصبحت برلين سابع مدينة في العالم تمتلك قطارا حضريا تحت الأرض من هذا النوع."
   },
   "sources": [
     {

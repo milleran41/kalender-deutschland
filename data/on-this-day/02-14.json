@@ -11,17 +11,53 @@
     "title": {
       "ru": "Дрезден после ночной бомбардировки",
       "de": "Dresden nach der naechtlichen Bombardierung",
-      "en": "Dresden after the night bombing"
+      "en": "Dresden after the night bombing",
+      "fr": "Dresde après le bombardement nocturne",
+      "es": "Dresde tras el bombardeo nocturno",
+      "it": "Dresda dopo il bombardamento notturno",
+      "pt": "Dresden após o bombardeamento noturno",
+      "nl": "Dresden na het nachtelijke bombardement",
+      "pl": "Drezno po nocnym bombardowaniu",
+      "tr": "Gece bombardımanından sonra Dresden",
+      "zh": "夜间轰炸后的德累斯顿",
+      "ja": "夜間爆撃後のドレスデン",
+      "ko": "야간 폭격 이후의 드레스덴",
+      "hi": "रात की बमबारी के बाद ड्रेसडेन",
+      "ar": "دريسدن بعد القصف الليلي"
     },
     "description": {
       "ru": "В ночь с 13 на 14 февраля 1945 года Дрезден пережил один из самых разрушительных авиаударов Второй мировой войны. Центр города был охвачен огненной бурей, погибли тысячи мирных жителей.",
       "de": "In der Nacht vom 13. auf den 14. Februar 1945 erlebte Dresden einen der verheerendsten Luftangriffe des Zweiten Weltkriegs. Das Stadtzentrum geriet in einen Feuersturm, Tausende Zivilisten starben.",
-      "en": "On the night of 13 to 14 February 1945, Dresden experienced one of the most destructive air raids of the Second World War. The city center was engulfed by a firestorm, and thousands of civilians died."
+      "en": "On the night of 13 to 14 February 1945, Dresden experienced one of the most destructive air raids of the Second World War. The city center was engulfed by a firestorm, and thousands of civilians died.",
+      "fr": "Dans la nuit du 13 au 14 février 1945, Dresde subit l'un des raids aériens les plus destructeurs de la Seconde Guerre mondiale. Le centre-ville fut pris dans une tempête de feu et des milliers de civils moururent.",
+      "es": "En la noche del 13 al 14 de febrero de 1945, Dresde sufrió uno de los ataques aéreos más destructivos de la Segunda Guerra Mundial. El centro de la ciudad quedó envuelto en una tormenta de fuego y murieron miles de civiles.",
+      "it": "Nella notte tra il 13 e il 14 febbraio 1945 Dresda subì uno dei bombardamenti aerei più distruttivi della Seconda guerra mondiale. Il centro della città fu travolto da una tempesta di fuoco e morirono migliaia di civili.",
+      "pt": "Na noite de 13 para 14 de fevereiro de 1945, Dresden sofreu um dos ataques aéreos mais destrutivos da Segunda Guerra Mundial. O centro da cidade foi envolvido por uma tempestade de fogo e milhares de civis morreram.",
+      "nl": "In de nacht van 13 op 14 februari 1945 beleefde Dresden een van de verwoestendste luchtaanvallen van de Tweede Wereldoorlog. Het stadscentrum werd door een vuurstorm verzwolgen en duizenden burgers kwamen om.",
+      "pl": "W nocy z 13 na 14 lutego 1945 roku Drezno doświadczyło jednego z najbardziej niszczycielskich nalotów II wojny światowej. Centrum miasta ogarnęła burza ogniowa, a tysiące cywilów zginęły.",
+      "tr": "13-14 Şubat 1945 gecesi Dresden, İkinci Dünya Savaşı'nın en yıkıcı hava saldırılarından birini yaşadı. Kent merkezi bir ateş fırtınasına kapıldı ve binlerce sivil öldü.",
+      "zh": "1945年2月13日至14日夜间，德累斯顿遭遇了第二次世界大战中最具破坏性的空袭之一。市中心被火风暴吞没，数千名平民死亡。",
+      "ja": "1945年2月13日から14日にかけての夜、ドレスデンは第二次世界大戦で最も破壊的な空襲の一つを受けました。市中心部は火災嵐に包まれ、数千人の市民が亡くなりました。",
+      "ko": "1945년 2월 13일에서 14일로 넘어가는 밤, 드레스덴은 제2차 세계대전에서 가장 파괴적인 공습 중 하나를 겪었습니다. 도심은 화염 폭풍에 휩싸였고 수천 명의 민간인이 사망했습니다.",
+      "hi": "13 से 14 फ़रवरी 1945 की रात ड्रेसडेन ने द्वितीय विश्व युद्ध के सबसे विनाशकारी हवाई हमलों में से एक झेला। शहर का केंद्र आग की आँधी में घिर गया और हजारों नागरिक मारे गए।",
+      "ar": "في ليلة 13 إلى 14 فبراير 1945 تعرضت دريسدن لأحد أكثر الغارات الجوية تدميرا في الحرب العالمية الثانية. اجتاح عاصف ناري مركز المدينة وقُتل آلاف المدنيين."
     },
     "importance": {
       "ru": "Дрезден стал символом разрушения городов в тотальной войне и до сих пор остаётся сложной темой памяти.",
       "de": "Dresden wurde zu einem Symbol fuer die Zerstoerung von Staedten im totalen Krieg und bleibt bis heute ein schwieriges Thema der Erinnerung.",
-      "en": "Dresden became a symbol of urban destruction in total war and remains a difficult subject of memory."
+      "en": "Dresden became a symbol of urban destruction in total war and remains a difficult subject of memory.",
+      "fr": "Dresde est devenue un symbole de la destruction des villes dans la guerre totale et reste aujourd'hui un sujet de mémoire difficile.",
+      "es": "Dresde se convirtió en símbolo de la destrucción urbana en la guerra total y sigue siendo un tema difícil de memoria histórica.",
+      "it": "Dresda divenne un simbolo della distruzione delle città nella guerra totale e rimane ancora oggi un tema difficile della memoria.",
+      "pt": "Dresden tornou-se um símbolo da destruição urbana na guerra total e continua a ser um tema difícil da memória.",
+      "nl": "Dresden werd een symbool van stedelijke verwoesting in de totale oorlog en blijft een moeilijk onderwerp van herinnering.",
+      "pl": "Drezno stało się symbolem niszczenia miast w wojnie totalnej i do dziś pozostaje trudnym tematem pamięci.",
+      "tr": "Dresden, topyekun savaşta kentlerin yıkımının simgesi oldu ve bugün hâlâ zor bir hafıza konusudur.",
+      "zh": "德累斯顿成为总体战中城市毁灭的象征，至今仍是一个复杂的记忆议题。",
+      "ja": "ドレスデンは総力戦における都市破壊の象徴となり、現在も記憶をめぐる難しいテーマであり続けています。",
+      "ko": "드레스덴은 총력전 속 도시 파괴의 상징이 되었고, 오늘날에도 기억의 어려운 주제로 남아 있습니다.",
+      "hi": "ड्रेसडेन पूर्ण युद्ध में शहरों के विनाश का प्रतीक बन गया और आज भी स्मृति का कठिन विषय है।",
+      "ar": "أصبحت دريسدن رمزا لتدمير المدن في الحرب الشاملة، وما زالت حتى اليوم موضوعا صعبا في الذاكرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Память без простых ответов",
           "de": "Erinnerung ohne einfache Antworten",
-          "en": "Memory without simple answers"
+          "en": "Memory without simple answers",
+          "fr": "Une mémoire sans réponses simples",
+          "es": "Memoria sin respuestas sencillas",
+          "it": "Memoria senza risposte semplici",
+          "pt": "Memória sem respostas simples",
+          "nl": "Herinnering zonder eenvoudige antwoorden",
+          "pl": "Pamięć bez prostych odpowiedzi",
+          "tr": "Basit cevapları olmayan hafıza",
+          "zh": "没有简单答案的记忆",
+          "ja": "単純な答えのない記憶",
+          "ko": "단순한 답이 없는 기억",
+          "hi": "आसान उत्तरों के बिना स्मृति",
+          "ar": "ذاكرة بلا إجابات سهلة"
         },
         "description": {
           "ru": "Бомбардировка Дрездена обсуждается в контексте конца войны, нацистской агрессии и страданий гражданского населения. Важно помнить жертв, не забывая, кто начал войну и преступления нацистского режима.",
           "de": "Die Bombardierung Dresdens wird im Kontext des Kriegsendes, der NS-Aggression und des Leidens der Zivilbevoelkerung diskutiert. Wichtig ist, der Opfer zu gedenken, ohne zu vergessen, wer den Krieg und die Verbrechen des NS-Regimes begann.",
-          "en": "The bombing of Dresden is discussed in the context of the war's end, Nazi aggression and civilian suffering. It is important to remember the victims without forgetting who began the war and the crimes of the Nazi regime."
+          "en": "The bombing of Dresden is discussed in the context of the war's end, Nazi aggression and civilian suffering. It is important to remember the victims without forgetting who began the war and the crimes of the Nazi regime.",
+          "fr": "Le bombardement de Dresde est discuté dans le contexte de la fin de la guerre, de l'agression nazie et des souffrances civiles. Il est important de se souvenir des victimes sans oublier qui a déclenché la guerre et les crimes du régime nazi.",
+          "es": "El bombardeo de Dresde se debate en el contexto del final de la guerra, la agresión nazi y el sufrimiento de la población civil. Es importante recordar a las víctimas sin olvidar quién inició la guerra y los crímenes del régimen nazi.",
+          "it": "Il bombardamento di Dresda viene discusso nel contesto della fine della guerra, dell'aggressione nazista e della sofferenza dei civili. È importante ricordare le vittime senza dimenticare chi iniziò la guerra e i crimini del regime nazista.",
+          "pt": "O bombardeamento de Dresden é discutido no contexto do fim da guerra, da agressão nazi e do sofrimento civil. É importante recordar as vítimas sem esquecer quem iniciou a guerra e os crimes do regime nazi.",
+          "nl": "Het bombardement op Dresden wordt besproken in de context van het einde van de oorlog, nazi-agressie en burgerlijk lijden. Het is belangrijk de slachtoffers te herdenken zonder te vergeten wie de oorlog en de misdaden van het naziregime begon.",
+          "pl": "Bombardowanie Drezna omawia się w kontekście końca wojny, nazistowskiej agresji i cierpienia ludności cywilnej. Ważne jest upamiętnianie ofiar bez zapominania, kto rozpoczął wojnę i zbrodnie nazistowskiego reżimu.",
+          "tr": "Dresden bombardımanı savaşın sonu, Nazi saldırganlığı ve sivillerin acıları bağlamında tartışılır. Kurbanları hatırlarken savaşı ve Nazi rejiminin suçlarını kimin başlattığını unutmamak önemlidir.",
+          "zh": "德累斯顿轰炸通常放在战争结束、纳粹侵略和平民苦难的背景下讨论。纪念受害者很重要，但不能忘记是谁发动了战争以及纳粹政权的罪行。",
+          "ja": "ドレスデン爆撃は、戦争末期、ナチスの侵略、市民の苦しみという文脈で語られます。犠牲者を記憶すると同時に、誰が戦争とナチ体制の犯罪を始めたのかを忘れないことが重要です。",
+          "ko": "드레스덴 폭격은 전쟁 말기, 나치의 침략, 민간인의 고통이라는 맥락에서 논의됩니다. 희생자를 기억하되 누가 전쟁과 나치 정권의 범죄를 시작했는지 잊지 않는 것이 중요합니다.",
+          "hi": "ड्रेसडेन की बमबारी पर युद्ध के अंत, नाजी आक्रामकता और नागरिकों की पीड़ा के संदर्भ में चर्चा होती है। पीड़ितों को याद करना जरूरी है, लेकिन यह भूलना नहीं चाहिए कि युद्ध और नाजी शासन के अपराध किसने शुरू किए।",
+          "ar": "يُناقش قصف دريسدن في سياق نهاية الحرب والعدوان النازي ومعاناة المدنيين. ومن المهم تذكر الضحايا من دون نسيان من بدأ الحرب وجرائم النظام النازي."
         },
         "importance": {
           "ru": "Так школьник видит, что историческая память требует точности и ответственности.",
           "de": "So wird sichtbar, dass historische Erinnerung Genauigkeit und Verantwortung braucht.",
-          "en": "This shows that historical memory requires accuracy and responsibility."
+          "en": "This shows that historical memory requires accuracy and responsibility.",
+          "fr": "Cela montre que la mémoire historique exige précision et responsabilité.",
+          "es": "Esto muestra que la memoria histórica exige precisión y responsabilidad.",
+          "it": "Questo mostra che la memoria storica richiede precisione e responsabilità.",
+          "pt": "Isto mostra que a memória histórica exige precisão e responsabilidade.",
+          "nl": "Dit laat zien dat historische herinnering nauwkeurigheid en verantwoordelijkheid vraagt.",
+          "pl": "Pokazuje to, że pamięć historyczna wymaga dokładności i odpowiedzialności.",
+          "tr": "Bu, tarihsel hafızanın doğruluk ve sorumluluk gerektirdiğini gösterir.",
+          "zh": "这表明历史记忆需要准确性和责任感。",
+          "ja": "これは、歴史の記憶には正確さと責任が必要であることを示しています。",
+          "ko": "이는 역사적 기억에 정확성과 책임이 필요함을 보여 줍니다.",
+          "hi": "इससे दिखता है कि ऐतिहासिक स्मृति को सटीकता और जिम्मेदारी चाहिए।",
+          "ar": "يوضح ذلك أن الذاكرة التاريخية تحتاج إلى دقة ومسؤولية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Почему спорили о числе погибших",
           "de": "Warum ueber die Opferzahl gestritten wurde",
-          "en": "Why the death toll was disputed"
+          "en": "Why the death toll was disputed",
+          "fr": "Pourquoi le nombre de morts a été discuté",
+          "es": "Por qué se discutió la cifra de muertos",
+          "it": "Perché si discusse sul numero delle vittime",
+          "pt": "Por que se discutiu o número de mortos",
+          "nl": "Waarom over het dodental werd gediscussieerd",
+          "pl": "Dlaczego spierano się o liczbę ofiar",
+          "tr": "Ölü sayısı neden tartışıldı",
+          "zh": "为什么死亡人数存在争议",
+          "ja": "なぜ死者数が論争になったのか",
+          "ko": "사망자 수가 왜 논쟁이 되었나",
+          "hi": "मृतकों की संख्या पर विवाद क्यों हुआ",
+          "ar": "لماذا كان عدد القتلى محل خلاف"
         },
         "description": {
           "ru": "После войны назывались очень разные числа погибших, и эта тема часто использовалась в политических целях. Позднее историческая комиссия Дрездена пришла к оценке до 25 000 жертв.",
           "de": "Nach dem Krieg wurden sehr unterschiedliche Opferzahlen genannt, und das Thema wurde oft politisch benutzt. Spaeter kam eine Dresdner Historikerkommission zu einer Schaetzung von bis zu 25.000 Toten.",
-          "en": "After the war, very different death tolls were cited, and the subject was often used politically. Later, a Dresden historians' commission estimated up to 25,000 deaths."
+          "en": "After the war, very different death tolls were cited, and the subject was often used politically. Later, a Dresden historians' commission estimated up to 25,000 deaths.",
+          "fr": "Après la guerre, des chiffres très différents furent avancés, et le sujet fut souvent utilisé à des fins politiques. Plus tard, une commission d'historiens de Dresde estima le nombre de morts à jusqu'à 25 000.",
+          "es": "Después de la guerra se citaron cifras de muertos muy diferentes, y el tema se usó a menudo con fines políticos. Más tarde, una comisión de historiadores de Dresde estimó hasta 25 000 muertes.",
+          "it": "Dopo la guerra furono indicate cifre molto diverse sulle vittime, e il tema fu spesso usato politicamente. Più tardi, una commissione di storici di Dresda stimò fino a 25.000 morti.",
+          "pt": "Depois da guerra foram citados números de mortos muito diferentes, e o tema foi muitas vezes usado politicamente. Mais tarde, uma comissão de historiadores de Dresden estimou até 25 000 mortos.",
+          "nl": "Na de oorlog werden zeer uiteenlopende dodentallen genoemd, en het onderwerp werd vaak politiek gebruikt. Later schatte een Dresdense historici-commissie het aantal doden op maximaal 25.000.",
+          "pl": "Po wojnie podawano bardzo różne liczby ofiar, a temat często wykorzystywano politycznie. Później komisja historyków z Drezna oszacowała liczbę zabitych na do 25 000.",
+          "tr": "Savaştan sonra çok farklı ölü sayıları dile getirildi ve konu sık sık siyasi amaçlarla kullanıldı. Daha sonra Dresdenli tarihçilerden oluşan bir komisyon ölü sayısını 25.000'e kadar olarak tahmin etti.",
+          "zh": "战后曾出现非常不同的死亡人数说法，这一话题也常被政治化利用。后来，德累斯顿历史学家委员会估计死亡人数最多为25,000人。",
+          "ja": "戦後、死者数について非常に異なる数字が示され、この問題はしばしば政治的に利用されました。後にドレスデンの歴史家委員会は、死者数を最大25,000人と推定しました。",
+          "ko": "전후에는 매우 다른 사망자 수가 제시되었고, 이 주제는 종종 정치적으로 이용되었습니다. 이후 드레스덴 역사학자 위원회는 사망자를 최대 25,000명으로 추정했습니다.",
+          "hi": "युद्ध के बाद मृतकों की संख्या के बहुत अलग-अलग आँकड़े बताए गए और इस विषय का अक्सर राजनीतिक उपयोग हुआ। बाद में ड्रेसडेन के इतिहासकारों की आयोग ने मृतकों की संख्या 25,000 तक आँकी।",
+          "ar": "بعد الحرب ذُكرت أعداد مختلفة جدا للضحايا، واستُخدم الموضوع كثيرا لأغراض سياسية. ولاحقا قدرت لجنة مؤرخين في دريسدن عدد القتلى بما يصل إلى 25 ألفا."
         },
         "importance": {
           "ru": "Это хороший пример того, почему источники и проверка цифр важны в истории.",
           "de": "Das ist ein gutes Beispiel dafuer, warum Quellen und die Pruefung von Zahlen in der Geschichte wichtig sind.",
-          "en": "It is a good example of why sources and checking numbers matter in history."
+          "en": "It is a good example of why sources and checking numbers matter in history.",
+          "fr": "C'est un bon exemple de l'importance des sources et de la vérification des chiffres en histoire.",
+          "es": "Es un buen ejemplo de por qué las fuentes y la comprobación de cifras importan en la historia.",
+          "it": "È un buon esempio del perché le fonti e la verifica dei numeri siano importanti nella storia.",
+          "pt": "É um bom exemplo de por que as fontes e a verificação dos números são importantes na história.",
+          "nl": "Het is een goed voorbeeld van waarom bronnen en het controleren van cijfers belangrijk zijn in de geschiedenis.",
+          "pl": "To dobry przykład tego, dlaczego źródła i sprawdzanie liczb są ważne w historii.",
+          "tr": "Bu, tarihte kaynakların ve sayıların kontrol edilmesinin neden önemli olduğuna iyi bir örnektir.",
+          "zh": "这是说明为什么历史研究中资料来源和数字核查很重要的好例子。",
+          "ja": "これは、歴史において資料と数字の確認がなぜ重要なのかを示すよい例です。",
+          "ko": "이는 역사에서 자료와 숫자 확인이 왜 중요한지 보여 주는 좋은 예입니다.",
+          "hi": "यह इस बात का अच्छा उदाहरण है कि इतिहास में स्रोत और आँकड़ों की जाँच क्यों महत्वपूर्ण हैं।",
+          "ar": "إنه مثال جيد على أهمية المصادر والتحقق من الأرقام في التاريخ."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Атаки на Дрезден продолжались с 13 по 15 февраля 1945 года.",
     "de": "Die Angriffe auf Dresden dauerten vom 13. bis zum 15. Februar 1945.",
-    "en": "The attacks on Dresden continued from 13 to 15 February 1945."
+    "en": "The attacks on Dresden continued from 13 to 15 February 1945.",
+    "fr": "Les attaques contre Dresde se poursuivirent du 13 au 15 février 1945.",
+    "es": "Los ataques contra Dresde continuaron del 13 al 15 de febrero de 1945.",
+    "it": "Gli attacchi su Dresda continuarono dal 13 al 15 febbraio 1945.",
+    "pt": "Os ataques a Dresden continuaram de 13 a 15 de fevereiro de 1945.",
+    "nl": "De aanvallen op Dresden duurden van 13 tot 15 februari 1945.",
+    "pl": "Ataki na Drezno trwały od 13 do 15 lutego 1945 roku.",
+    "tr": "Dresden'e yönelik saldırılar 13-15 Şubat 1945 arasında sürdü.",
+    "zh": "对德累斯顿的攻击从1945年2月13日持续到15日。",
+    "ja": "ドレスデンへの攻撃は1945年2月13日から15日まで続きました。",
+    "ko": "드레스덴에 대한 공격은 1945년 2월 13일부터 15일까지 계속되었습니다.",
+    "hi": "ड्रेसडेन पर हमले 13 से 15 फ़रवरी 1945 तक जारी रहे।",
+    "ar": "استمرت الهجمات على دريسدن من 13 إلى 15 فبراير 1945."
   },
   "sources": [
     {

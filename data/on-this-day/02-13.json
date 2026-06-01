@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась бомбардировка Дрездена",
       "de": "Die Bombardierung Dresdens beginnt",
-      "en": "The bombing of Dresden begins"
+      "en": "The bombing of Dresden begins",
+      "fr": "Le bombardement de Dresde commence",
+      "es": "Comienza el bombardeo de Dresde",
+      "it": "Inizia il bombardamento di Dresda",
+      "pt": "Começa o bombardeamento de Dresden",
+      "nl": "Het bombardement op Dresden begint",
+      "pl": "Rozpoczyna się bombardowanie Drezna",
+      "tr": "Dresden bombardımanı başladı",
+      "zh": "德累斯顿轰炸开始",
+      "ja": "ドレスデン爆撃が始まる",
+      "ko": "드레스덴 폭격이 시작되다",
+      "hi": "ड्रेसडेन की बमबारी शुरू हुई",
+      "ar": "بدء قصف دريسدن"
     },
     "description": {
       "ru": "В ночь с 13 на 14 февраля 1945 года британская и американская авиация начала массированные удары по Дрездену. Город был сильно разрушен, погибли десятки тысяч людей.",
       "de": "In der Nacht vom 13. auf den 14. Februar 1945 begannen britische und amerikanische Luftangriffe auf Dresden. Die Stadt wurde stark zerstoert, Zehntausende Menschen starben.",
-      "en": "On the night of 13-14 February 1945, British and American aircraft began major raids on Dresden. The city was heavily destroyed and tens of thousands died."
+      "en": "On the night of 13-14 February 1945, British and American aircraft began major raids on Dresden. The city was heavily destroyed and tens of thousands died.",
+      "fr": "Dans la nuit du 13 au 14 février 1945, l'aviation britannique et américaine lança de grands raids sur Dresde. La ville fut très fortement détruite et des dizaines de milliers de personnes moururent.",
+      "es": "En la noche del 13 al 14 de febrero de 1945, la aviación británica y estadounidense inició grandes ataques contra Dresde. La ciudad quedó gravemente destruida y murieron decenas de miles de personas.",
+      "it": "Nella notte tra il 13 e il 14 febbraio 1945, l'aviazione britannica e americana iniziò grandi bombardamenti su Dresda. La città fu gravemente distrutta e morirono decine di migliaia di persone.",
+      "pt": "Na noite de 13 para 14 de fevereiro de 1945, a aviação britânica e americana iniciou grandes ataques contra Dresden. A cidade foi fortemente destruída e morreram dezenas de milhares de pessoas.",
+      "nl": "In de nacht van 13 op 14 februari 1945 begonnen Britse en Amerikaanse vliegtuigen grote aanvallen op Dresden. De stad werd zwaar verwoest en tienduizenden mensen kwamen om.",
+      "pl": "W nocy z 13 na 14 lutego 1945 roku lotnictwo brytyjskie i amerykańskie rozpoczęło masowe naloty na Drezno. Miasto zostało poważnie zniszczone, a dziesiątki tysięcy ludzi zginęły.",
+      "tr": "13-14 Şubat 1945 gecesi Britanya ve Amerikan uçakları Dresden'e büyük saldırılar başlattı. Şehir ağır biçimde yıkıldı ve on binlerce insan öldü.",
+      "zh": "1945年2月13日至14日夜间，英国和美国飞机开始对德累斯顿进行大规模空袭。城市遭到严重破坏，数万人死亡。",
+      "ja": "1945年2月13日から14日にかけての夜、イギリスとアメリカの航空機がドレスデンへの大規模な空襲を始めました。町は激しく破壊され、数万人が亡くなりました。",
+      "ko": "1945년 2월 13일에서 14일로 넘어가는 밤, 영국과 미국 항공기가 드레스덴에 대한 대규모 공습을 시작했습니다. 도시는 심하게 파괴되었고 수만 명이 사망했습니다.",
+      "hi": "13 से 14 फ़रवरी 1945 की रात ब्रिटिश और अमेरिकी विमानों ने ड्रेसडेन पर बड़े हमले शुरू किए। शहर बुरी तरह नष्ट हुआ और दसियों हजार लोग मारे गए।",
+      "ar": "في ليلة 13 إلى 14 فبراير 1945 بدأت الطائرات البريطانية والأمريكية غارات كبيرة على دريسدن. دُمرت المدينة بشدة وقُتل عشرات الآلاف."
     },
     "importance": {
       "ru": "Дрезден стал одним из самых известных символов разрушений воздушной войны.",
       "de": "Dresden wurde zu einem der bekanntesten Symbole der Zerstoerungen des Luftkriegs.",
-      "en": "Dresden became one of the best-known symbols of destruction caused by air warfare."
+      "en": "Dresden became one of the best-known symbols of destruction caused by air warfare.",
+      "fr": "Dresde est devenue l'un des symboles les plus connus des destructions causées par la guerre aérienne.",
+      "es": "Dresde se convirtió en uno de los símbolos más conocidos de la destrucción causada por la guerra aérea.",
+      "it": "Dresda divenne uno dei simboli più noti delle distruzioni causate dalla guerra aerea.",
+      "pt": "Dresden tornou-se um dos símbolos mais conhecidos da destruição causada pela guerra aérea.",
+      "nl": "Dresden werd een van de bekendste symbolen van de verwoesting door luchtoorlog.",
+      "pl": "Drezno stało się jednym z najbardziej znanych symboli zniszczeń spowodowanych wojną powietrzną.",
+      "tr": "Dresden, hava savaşının yol açtığı yıkımın en bilinen simgelerinden biri oldu.",
+      "zh": "德累斯顿成为空战造成破坏的最著名象征之一。",
+      "ja": "ドレスデンは、航空戦による破壊を象徴する最もよく知られた例の一つになりました。",
+      "ko": "드레스덴은 공중전이 초래한 파괴의 가장 잘 알려진 상징 중 하나가 되었습니다.",
+      "hi": "ड्रेसडेन हवाई युद्ध से हुई तबाही के सबसे प्रसिद्ध प्रतीकों में से एक बन गया।",
+      "ar": "أصبحت دريسدن أحد أشهر رموز الدمار الذي سببته الحرب الجوية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Память и споры",
           "de": "Erinnerung und Streit",
-          "en": "Memory and controversy"
+          "en": "Memory and controversy",
+          "fr": "Mémoire et controverses",
+          "es": "Memoria y controversia",
+          "it": "Memoria e controversie",
+          "pt": "Memória e controvérsia",
+          "nl": "Herinnering en controverse",
+          "pl": "Pamięć i spory",
+          "tr": "Hafıza ve tartışma",
+          "zh": "记忆与争议",
+          "ja": "記憶と論争",
+          "ko": "기억과 논쟁",
+          "hi": "स्मृति और विवाद",
+          "ar": "الذاكرة والجدل"
         },
         "description": {
           "ru": "Память о Дрездене долго была предметом споров и политического использования. Сегодня важно помнить жертв, не забывая контекст войны, начатой нацистской Германией.",
           "de": "Die Erinnerung an Dresden war lange umstritten und politisch benutzt. Heute ist es wichtig, der Opfer zu gedenken, ohne den Kontext des von NS-Deutschland begonnenen Krieges zu vergessen.",
-          "en": "The memory of Dresden was long disputed and politically used. Today it is important to remember the victims while not forgetting the context of the war started by Nazi Germany."
+          "en": "The memory of Dresden was long disputed and politically used. Today it is important to remember the victims while not forgetting the context of the war started by Nazi Germany.",
+          "fr": "La mémoire de Dresde a longtemps été disputée et utilisée politiquement. Aujourd'hui, il est important de se souvenir des victimes sans oublier le contexte de la guerre déclenchée par l'Allemagne nazie.",
+          "es": "La memoria de Dresde fue durante mucho tiempo objeto de disputa y uso político. Hoy es importante recordar a las víctimas sin olvidar el contexto de la guerra iniciada por la Alemania nazi.",
+          "it": "La memoria di Dresda fu a lungo discussa e usata politicamente. Oggi è importante ricordare le vittime senza dimenticare il contesto della guerra iniziata dalla Germania nazista.",
+          "pt": "A memória de Dresden foi durante muito tempo disputada e usada politicamente. Hoje é importante recordar as vítimas sem esquecer o contexto da guerra iniciada pela Alemanha nazi.",
+          "nl": "De herinnering aan Dresden was lang omstreden en werd politiek gebruikt. Vandaag is het belangrijk de slachtoffers te herdenken zonder de context te vergeten van de oorlog die door nazi-Duitsland werd begonnen.",
+          "pl": "Pamięć o Dreźnie długo była przedmiotem sporów i politycznego wykorzystywania. Dziś ważne jest upamiętnianie ofiar bez zapominania o kontekście wojny rozpoczętej przez nazistowskie Niemcy.",
+          "tr": "Dresden'in hatırası uzun süre tartışmalı oldu ve siyaseten kullanıldı. Bugün kurbanları anarken Nazi Almanyası'nın başlattığı savaşın bağlamını unutmamak önemlidir.",
+          "zh": "关于德累斯顿的记忆长期存在争议，也被政治化使用。今天，纪念受害者的同时，也不能忘记这场战争是纳粹德国发动的背景。",
+          "ja": "ドレスデンの記憶は長く論争の対象となり、政治的にも利用されました。今日では犠牲者を追悼しつつ、ナチス・ドイツが始めた戦争という文脈を忘れないことが重要です。",
+          "ko": "드레스덴에 대한 기억은 오랫동안 논쟁의 대상이었고 정치적으로 이용되기도 했습니다. 오늘날에는 희생자를 기억하면서도 나치 독일이 시작한 전쟁의 맥락을 잊지 않는 것이 중요합니다.",
+          "hi": "ड्रेसडेन की स्मृति लंबे समय तक विवाद और राजनीतिक उपयोग का विषय रही। आज पीड़ितों को याद करना जरूरी है, लेकिन नाजी जर्मनी द्वारा शुरू किए गए युद्ध के संदर्भ को भूलना नहीं चाहिए।",
+          "ar": "ظلت ذاكرة دريسدن محل خلاف واستُخدمت سياسيا زمنا طويلا. واليوم من المهم تذكر الضحايا من دون نسيان سياق الحرب التي بدأتها ألمانيا النازية."
         },
         "importance": {
           "ru": "Это сложная дата, где память требует точности и осторожности.",
           "de": "Das ist ein schwieriges Datum, bei dem Erinnerung Genauigkeit und Vorsicht verlangt.",
-          "en": "It is a difficult date where memory requires accuracy and care."
+          "en": "It is a difficult date where memory requires accuracy and care.",
+          "fr": "C'est une date difficile, où la mémoire demande précision et prudence.",
+          "es": "Es una fecha difícil, en la que la memoria exige precisión y cuidado.",
+          "it": "È una data difficile, in cui la memoria richiede precisione e cautela.",
+          "pt": "É uma data difícil, em que a memória exige precisão e cuidado.",
+          "nl": "Het is een moeilijke datum waarbij herinnering nauwkeurigheid en zorg vraagt.",
+          "pl": "To trudna data, przy której pamięć wymaga dokładności i ostrożności.",
+          "tr": "Bu, hatırlamanın doğruluk ve özen gerektirdiği zor bir tarihtir.",
+          "zh": "这是一个艰难的日期，历史记忆需要准确和谨慎。",
+          "ja": "これは、記憶に正確さと慎重さが求められる難しい日付です。",
+          "ko": "이는 기억에 정확성과 신중함이 필요한 어려운 날짜입니다.",
+          "hi": "यह कठिन तारीख है, जहाँ स्मृति को सटीकता और सावधानी चाहिए।",
+          "ar": "إنه تاريخ صعب تتطلب فيه الذاكرة دقة وحذرا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Восстановленная Фрауэнкирхе в Дрездене стала символом разрушения, памяти и примирения.",
     "de": "Die wiederaufgebaute Frauenkirche in Dresden wurde zu einem Symbol von Zerstoerung, Erinnerung und Versoehnung.",
-    "en": "The rebuilt Frauenkirche in Dresden became a symbol of destruction, memory and reconciliation."
+    "en": "The rebuilt Frauenkirche in Dresden became a symbol of destruction, memory and reconciliation.",
+    "fr": "La Frauenkirche reconstruite de Dresde est devenue un symbole de destruction, de mémoire et de réconciliation.",
+    "es": "La Frauenkirche reconstruida de Dresde se convirtió en símbolo de destrucción, memoria y reconciliación.",
+    "it": "La Frauenkirche ricostruita di Dresda divenne un simbolo di distruzione, memoria e riconciliazione.",
+    "pt": "A Frauenkirche reconstruída em Dresden tornou-se um símbolo de destruição, memória e reconciliação.",
+    "nl": "De herbouwde Frauenkirche in Dresden werd een symbool van verwoesting, herinnering en verzoening.",
+    "pl": "Odbudowany kościół Frauenkirche w Dreźnie stał się symbolem zniszczenia, pamięci i pojednania.",
+    "tr": "Dresden'de yeniden inşa edilen Frauenkirche, yıkımın, hafızanın ve uzlaşmanın simgesi oldu.",
+    "zh": "重建后的德累斯顿圣母教堂成为毁灭、记忆与和解的象征。",
+    "ja": "再建されたドレスデンの聖母教会は、破壊、記憶、和解の象徴となりました。",
+    "ko": "재건된 드레스덴 프라우엔키르헤는 파괴, 기억, 화해의 상징이 되었습니다.",
+    "hi": "ड्रेसडेन की पुनर्निर्मित फ्राउएनकिर्खे विनाश, स्मृति और मेल-मिलाप का प्रतीक बन गई।",
+    "ar": "أصبحت كنيسة فراونكيرخه المعاد بناؤها في دريسدن رمزا للدمار والذاكرة والمصالحة."
   },
   "sources": [
     {
