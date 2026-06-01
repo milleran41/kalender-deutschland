@@ -67,6 +67,258 @@
         weather: '🌦️ Погода и природа',
         curiosities: '😄 Курьёзы и необычные случаи'
       }
+    },
+    fr: {
+      button: 'Jour dans l’histoire',
+      kicker: 'Allemagne',
+      title: 'Jour dans l’histoire',
+      subtitle: 'Événements à cette date',
+      main: '⭐ Événement principal du jour',
+      why: 'Pourquoi c’est important :',
+      fact: '📊 Fait intéressant du jour',
+      empty: 'Aucun événement vérifié n’a encore été préparé pour cette date.',
+      sources: 'Sources',
+      close: 'Fermer',
+      categories: {
+        history: '🏰 Histoire',
+        people: '👤 Personnalités connues',
+        science: '⚙️ Science et technologie',
+        culture: '🎭 Culture',
+        sport: '⚽ Sport',
+        weather: '🌦️ Météo et nature',
+        curiosities: '😄 Curiosités et faits inhabituels'
+      }
+    },
+    es: {
+      button: 'Día en la historia',
+      kicker: 'Alemania',
+      title: 'Día en la historia',
+      subtitle: 'Acontecimientos de esta fecha',
+      main: '⭐ Acontecimiento principal del día',
+      why: 'Por qué es importante:',
+      fact: '📊 Dato interesante del día',
+      empty: 'Aún no hay acontecimientos verificados preparados para esta fecha.',
+      sources: 'Fuentes',
+      close: 'Cerrar',
+      categories: {
+        history: '🏰 Historia',
+        people: '👤 Personajes famosos',
+        science: '⚙️ Ciencia y tecnología',
+        culture: '🎭 Cultura',
+        sport: '⚽ Deporte',
+        weather: '🌦️ Tiempo y naturaleza',
+        curiosities: '😄 Curiosidades y casos inusuales'
+      }
+    },
+    it: {
+      button: 'Giorno nella storia',
+      kicker: 'Germania',
+      title: 'Giorno nella storia',
+      subtitle: 'Eventi in questa data',
+      main: '⭐ Evento principale del giorno',
+      why: 'Perché è importante:',
+      fact: '📊 Fatto interessante del giorno',
+      empty: 'Per questa data non sono ancora stati preparati eventi verificati.',
+      sources: 'Fonti',
+      close: 'Chiudi',
+      categories: {
+        history: '🏰 Storia',
+        people: '👤 Personaggi famosi',
+        science: '⚙️ Scienza e tecnologia',
+        culture: '🎭 Cultura',
+        sport: '⚽ Sport',
+        weather: '🌦️ Meteo e natura',
+        curiosities: '😄 Curiosità e casi insoliti'
+      }
+    },
+    pt: {
+      button: 'Dia na história',
+      kicker: 'Alemanha',
+      title: 'Dia na história',
+      subtitle: 'Eventos nesta data',
+      main: '⭐ Evento principal do dia',
+      why: 'Por que é importante:',
+      fact: '📊 Fato interessante do dia',
+      empty: 'Ainda não há eventos verificados preparados para esta data.',
+      sources: 'Fontes',
+      close: 'Fechar',
+      categories: {
+        history: '🏰 História',
+        people: '👤 Personalidades famosas',
+        science: '⚙️ Ciência e tecnologia',
+        culture: '🎭 Cultura',
+        sport: '⚽ Esporte',
+        weather: '🌦️ Tempo e natureza',
+        curiosities: '😄 Curiosidades e casos incomuns'
+      }
+    },
+    nl: {
+      button: 'Dag in de geschiedenis',
+      kicker: 'Duitsland',
+      title: 'Dag in de geschiedenis',
+      subtitle: 'Gebeurtenissen op deze datum',
+      main: '⭐ Belangrijkste gebeurtenis van de dag',
+      why: 'Waarom dit belangrijk is:',
+      fact: '📊 Interessant feit van de dag',
+      empty: 'Voor deze datum zijn nog geen gecontroleerde gebeurtenissen voorbereid.',
+      sources: 'Bronnen',
+      close: 'Sluiten',
+      categories: {
+        history: '🏰 Geschiedenis',
+        people: '👤 Bekende personen',
+        science: '⚙️ Wetenschap en technologie',
+        culture: '🎭 Cultuur',
+        sport: '⚽ Sport',
+        weather: '🌦️ Weer en natuur',
+        curiosities: '😄 Curiosa en ongewone gevallen'
+      }
+    },
+    pl: {
+      button: 'Dzień w historii',
+      kicker: 'Niemcy',
+      title: 'Dzień w historii',
+      subtitle: 'Wydarzenia z tej daty',
+      main: '⭐ Najważniejsze wydarzenie dnia',
+      why: 'Dlaczego to ważne:',
+      fact: '📊 Ciekawostka dnia',
+      empty: 'Dla tej daty nie przygotowano jeszcze zweryfikowanych wydarzeń.',
+      sources: 'Źródła',
+      close: 'Zamknij',
+      categories: {
+        history: '🏰 Historia',
+        people: '👤 Znane osoby',
+        science: '⚙️ Nauka i technika',
+        culture: '🎭 Kultura',
+        sport: '⚽ Sport',
+        weather: '🌦️ Pogoda i przyroda',
+        curiosities: '😄 Ciekawostki i niezwykłe przypadki'
+      }
+    },
+    tr: {
+      button: 'Tarihte bugün',
+      kicker: 'Almanya',
+      title: 'Tarihte bugün',
+      subtitle: 'Bu tarihteki olaylar',
+      main: '⭐ Günün ana olayı',
+      why: 'Neden önemli:',
+      fact: '📊 Günün ilginç bilgisi',
+      empty: 'Bu tarih için henüz doğrulanmış olay hazırlanmadı.',
+      sources: 'Kaynaklar',
+      close: 'Kapat',
+      categories: {
+        history: '🏰 Tarih',
+        people: '👤 Ünlü kişiler',
+        science: '⚙️ Bilim ve teknoloji',
+        culture: '🎭 Kültür',
+        sport: '⚽ Spor',
+        weather: '🌦️ Hava ve doğa',
+        curiosities: '😄 İlginç ve sıra dışı olaylar'
+      }
+    },
+    zh: {
+      button: '历史上的今天',
+      kicker: '德国',
+      title: '历史上的今天',
+      subtitle: '这一天的事件',
+      main: '⭐ 今日主要事件',
+      why: '为什么重要：',
+      fact: '📊 今日趣味事实',
+      empty: '此日期尚未准备经过核实的事件。',
+      sources: '来源',
+      close: '关闭',
+      categories: {
+        history: '🏰 历史',
+        people: '👤 知名人物',
+        science: '⚙️ 科学与技术',
+        culture: '🎭 文化',
+        sport: '⚽ 体育',
+        weather: '🌦️ 天气与自然',
+        curiosities: '😄 趣闻与特殊事件'
+      }
+    },
+    ja: {
+      button: '歴史のこの日',
+      kicker: 'ドイツ',
+      title: '歴史のこの日',
+      subtitle: 'この日の出来事',
+      main: '⭐ 今日の主な出来事',
+      why: 'なぜ重要か：',
+      fact: '📊 今日の興味深い事実',
+      empty: 'この日付には、確認済みの出来事がまだ用意されていません。',
+      sources: '出典',
+      close: '閉じる',
+      categories: {
+        history: '🏰 歴史',
+        people: '👤 有名人',
+        science: '⚙️ 科学と技術',
+        culture: '🎭 文化',
+        sport: '⚽ スポーツ',
+        weather: '🌦️ 天気と自然',
+        curiosities: '😄 珍しい出来事'
+      }
+    },
+    ko: {
+      button: '역사 속 오늘',
+      kicker: '독일',
+      title: '역사 속 오늘',
+      subtitle: '이 날짜의 사건',
+      main: '⭐ 오늘의 주요 사건',
+      why: '왜 중요한가:',
+      fact: '📊 오늘의 흥미로운 사실',
+      empty: '이 날짜에 대해 검증된 사건이 아직 준비되지 않았습니다.',
+      sources: '출처',
+      close: '닫기',
+      categories: {
+        history: '🏰 역사',
+        people: '👤 유명 인물',
+        science: '⚙️ 과학과 기술',
+        culture: '🎭 문화',
+        sport: '⚽ 스포츠',
+        weather: '🌦️ 날씨와 자연',
+        curiosities: '😄 흥미롭고 특이한 사건'
+      }
+    },
+    hi: {
+      button: 'इतिहास में आज का दिन',
+      kicker: 'जर्मनी',
+      title: 'इतिहास में आज का दिन',
+      subtitle: 'इस तारीख की घटनाएँ',
+      main: '⭐ दिन की मुख्य घटना',
+      why: 'यह क्यों महत्वपूर्ण है:',
+      fact: '📊 दिन का रोचक तथ्य',
+      empty: 'इस तारीख के लिए अभी कोई सत्यापित घटना तैयार नहीं है।',
+      sources: 'स्रोत',
+      close: 'बंद करें',
+      categories: {
+        history: '🏰 इतिहास',
+        people: '👤 प्रसिद्ध व्यक्ति',
+        science: '⚙️ विज्ञान और तकनीक',
+        culture: '🎭 संस्कृति',
+        sport: '⚽ खेल',
+        weather: '🌦️ मौसम और प्रकृति',
+        curiosities: '😄 रोचक और असामान्य घटनाएँ'
+      }
+    },
+    ar: {
+      button: 'في مثل هذا اليوم',
+      kicker: 'ألمانيا',
+      title: 'في مثل هذا اليوم',
+      subtitle: 'أحداث في هذا التاريخ',
+      main: '⭐ الحدث الأهم في اليوم',
+      why: 'لماذا هو مهم:',
+      fact: '📊 حقيقة مثيرة في اليوم',
+      empty: 'لم يتم إعداد أحداث موثقة لهذا التاريخ بعد.',
+      sources: 'المصادر',
+      close: 'إغلاق',
+      categories: {
+        history: '🏰 التاريخ',
+        people: '👤 شخصيات معروفة',
+        science: '⚙️ العلم والتقنية',
+        culture: '🎭 الثقافة',
+        sport: '⚽ الرياضة',
+        weather: '🌦️ الطقس والطبيعة',
+        curiosities: '😄 طرائف وحالات غير عادية'
+      }
     }
   };
 
