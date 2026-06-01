@@ -11,17 +11,53 @@
     "title": {
       "ru": "Гамбург пережил катастрофическое наводнение",
       "de": "Hamburg erlebt eine katastrophale Sturmflut",
-      "en": "Hamburg suffers a catastrophic storm surge"
+      "en": "Hamburg suffers a catastrophic storm surge",
+      "fr": "Hambourg subit une marée de tempête catastrophique",
+      "es": "Hamburgo sufre una marejada catastrófica",
+      "it": "Amburgo subisce una marea di tempesta catastrofica",
+      "pt": "Hamburgo sofre uma maré de tempestade catastrófica",
+      "nl": "Hamburg ondergaat een catastrofale stormvloed",
+      "pl": "Hamburg przeżywa katastrofalny sztormowy przypływ",
+      "tr": "Hamburg yıkıcı bir fırtına kabarması yaşadı",
+      "zh": "汉堡遭遇灾难性风暴潮",
+      "ja": "ハンブルクが壊滅的な高潮に見舞われる",
+      "ko": "함부르크가 재앙적 폭풍 해일을 겪다",
+      "hi": "हैम्बर्ग ने विनाशकारी तूफानी ज्वार झेला",
+      "ar": "هامبورغ تواجه مدا عاصفيا كارثيا"
     },
     "description": {
       "ru": "В ночь с 16 на 17 февраля 1962 года штормовой нагон воды прорвал дамбы в Гамбурге и на побережье Северного моря. В одном только Гамбурге погибли сотни людей, особенно сильно пострадал район Вильгельмсбург.",
       "de": "In der Nacht vom 16. auf den 17. Februar 1962 brach eine Sturmflut Deiche in Hamburg und an der Nordseekueste. Allein in Hamburg starben Hunderte Menschen, besonders schwer traf es Wilhelmsburg.",
-      "en": "On the night of 16 to 17 February 1962, a storm surge broke dikes in Hamburg and along the North Sea coast. Hundreds died in Hamburg alone, with Wilhelmsburg hit especially hard."
+      "en": "On the night of 16 to 17 February 1962, a storm surge broke dikes in Hamburg and along the North Sea coast. Hundreds died in Hamburg alone, with Wilhelmsburg hit especially hard.",
+      "fr": "Dans la nuit du 16 au 17 février 1962, une marée de tempête rompit des digues à Hambourg et sur la côte de la mer du Nord. Rien qu'à Hambourg, des centaines de personnes moururent, Wilhelmsburg étant particulièrement touché.",
+      "es": "En la noche del 16 al 17 de febrero de 1962, una marejada rompió diques en Hamburgo y a lo largo de la costa del mar del Norte. Solo en Hamburgo murieron cientos de personas, con Wilhelmsburg especialmente afectado.",
+      "it": "Nella notte tra il 16 e il 17 febbraio 1962, una marea di tempesta ruppe gli argini ad Amburgo e lungo la costa del Mare del Nord. Solo ad Amburgo morirono centinaia di persone, con Wilhelmsburg colpita in modo particolarmente grave.",
+      "pt": "Na noite de 16 para 17 de fevereiro de 1962, uma maré de tempestade rompeu diques em Hamburgo e ao longo da costa do mar do Norte. Só em Hamburgo morreram centenas de pessoas, com Wilhelmsburg especialmente atingida.",
+      "nl": "In de nacht van 16 op 17 februari 1962 brak een stormvloed dijken in Hamburg en langs de Noordzeekust. Alleen al in Hamburg kwamen honderden mensen om, vooral Wilhelmsburg werd zwaar getroffen.",
+      "pl": "W nocy z 16 na 17 lutego 1962 roku sztormowy przypływ przerwał wały w Hamburgu i na wybrzeżu Morza Północnego. W samym Hamburgu zginęły setki ludzi, szczególnie mocno ucierpiał Wilhelmsburg.",
+      "tr": "16-17 Şubat 1962 gecesi bir fırtına kabarması Hamburg'da ve Kuzey Denizi kıyısında setleri yıktı. Yalnızca Hamburg'da yüzlerce kişi öldü; Wilhelmsburg özellikle ağır etkilendi.",
+      "zh": "1962年2月16日至17日夜间，风暴潮冲垮了汉堡和北海沿岸的堤坝。仅汉堡就有数百人死亡，其中威廉斯堡受灾尤其严重。",
+      "ja": "1962年2月16日から17日にかけての夜、高潮がハンブルクと北海沿岸の堤防を破壊しました。ハンブルクだけで数百人が亡くなり、特にヴィルヘルムスブルクが大きな被害を受けました。",
+      "ko": "1962년 2월 16일에서 17일로 넘어가는 밤, 폭풍 해일이 함부르크와 북해 연안의 제방을 무너뜨렸습니다. 함부르크에서만 수백 명이 사망했으며, 빌헬름스부르크가 특히 큰 피해를 입었습니다.",
+      "hi": "16 से 17 फ़रवरी 1962 की रात तूफानी ज्वार ने हैम्बर्ग और उत्तरी सागर तट पर बाँध तोड़ दिए। अकेले हैम्बर्ग में सैकड़ों लोग मारे गए, और विल्हेल्म्सबुर्ग विशेष रूप से बुरी तरह प्रभावित हुआ।",
+      "ar": "في ليلة 16 إلى 17 فبراير 1962 حطم مد عاصفي سدودا في هامبورغ وعلى ساحل بحر الشمال. وقُتل مئات الأشخاص في هامبورغ وحدها، وتضررت فيلهلمسبورغ بشدة خاصة."
     },
     "importance": {
       "ru": "Катастрофа изменила защиту от наводнений в Гамбурге и стала важным уроком для городского управления в чрезвычайных ситуациях.",
       "de": "Die Katastrophe veraenderte den Hochwasserschutz in Hamburg und wurde zu einer wichtigen Lehre fuer staedtisches Krisenmanagement.",
-      "en": "The disaster changed flood protection in Hamburg and became an important lesson for urban crisis management."
+      "en": "The disaster changed flood protection in Hamburg and became an important lesson for urban crisis management.",
+      "fr": "La catastrophe transforma la protection contre les inondations à Hambourg et devint une leçon importante pour la gestion urbaine des crises.",
+      "es": "La catástrofe cambió la protección contra inundaciones en Hamburgo y se convirtió en una lección importante para la gestión urbana de crisis.",
+      "it": "La catastrofe cambiò la protezione dalle inondazioni ad Amburgo e divenne una lezione importante per la gestione urbana delle crisi.",
+      "pt": "A catástrofe mudou a proteção contra cheias em Hamburgo e tornou-se uma lição importante para a gestão urbana de crises.",
+      "nl": "De ramp veranderde de bescherming tegen overstromingen in Hamburg en werd een belangrijke les voor stedelijk crisisbeheer.",
+      "pl": "Katastrofa zmieniła ochronę przeciwpowodziową Hamburga i stała się ważną lekcją dla miejskiego zarządzania kryzysowego.",
+      "tr": "Felaket Hamburg'daki sel korumasını değiştirdi ve kentsel kriz yönetimi için önemli bir ders oldu.",
+      "zh": "这场灾难改变了汉堡的防洪体系，也成为城市危机管理的重要教训。",
+      "ja": "この災害はハンブルクの洪水対策を変え、都市の危機管理にとって重要な教訓となりました。",
+      "ko": "이 재난은 함부르크의 홍수 방어를 바꾸었고 도시 위기 관리의 중요한 교훈이 되었습니다.",
+      "hi": "इस आपदा ने हैम्बर्ग की बाढ़ सुरक्षा बदल दी और शहरी संकट प्रबंधन के लिए महत्वपूर्ण सबक बनी।",
+      "ar": "غيّرت الكارثة حماية هامبورغ من الفيضانات وأصبحت درسا مهما لإدارة الأزمات في المدن."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Шторм, прилив и дамбы",
           "de": "Sturm, Tide und Deiche",
-          "en": "Storm, tide and dikes"
+          "en": "Storm, tide and dikes",
+          "fr": "Tempête, marée et digues",
+          "es": "Tormenta, marea y diques",
+          "it": "Tempesta, marea e argini",
+          "pt": "Tempestade, maré e diques",
+          "nl": "Storm, tij en dijken",
+          "pl": "Sztorm, przypływ i wały",
+          "tr": "Fırtına, gelgit ve setler",
+          "zh": "风暴、潮汐与堤坝",
+          "ja": "嵐、潮汐、堤防",
+          "ko": "폭풍, 조수, 제방",
+          "hi": "तूफान, ज्वार और बाँध",
+          "ar": "العاصفة والمد والجسور"
         },
         "description": {
           "ru": "Опасность возникла из-за сочетания сильного шторма, высокого прилива и уязвимых дамб. Вода пришла ночью, когда многие жители не успели вовремя получить предупреждение.",
           "de": "Die Gefahr entstand aus dem Zusammenspiel von starkem Sturm, hoher Tide und verwundbaren Deichen. Das Wasser kam nachts, als viele Bewohner nicht rechtzeitig gewarnt wurden.",
-          "en": "The danger came from the combination of a powerful storm, high tide and vulnerable dikes. The water arrived at night, when many residents were not warned in time."
+          "en": "The danger came from the combination of a powerful storm, high tide and vulnerable dikes. The water arrived at night, when many residents were not warned in time.",
+          "fr": "Le danger venait de la combinaison d'une forte tempête, d'une marée haute et de digues vulnérables. L'eau arriva de nuit, alors que beaucoup d'habitants n'avaient pas été avertis à temps.",
+          "es": "El peligro surgió de la combinación de una fuerte tormenta, marea alta y diques vulnerables. El agua llegó de noche, cuando muchos habitantes no fueron advertidos a tiempo.",
+          "it": "Il pericolo nacque dalla combinazione di una forte tempesta, alta marea e argini vulnerabili. L'acqua arrivò di notte, quando molti abitanti non furono avvertiti in tempo.",
+          "pt": "O perigo resultou da combinação de uma forte tempestade, maré alta e diques vulneráveis. A água chegou de noite, quando muitos moradores não foram avisados a tempo.",
+          "nl": "Het gevaar ontstond door de combinatie van een zware storm, hoogwater en kwetsbare dijken. Het water kwam 's nachts, toen veel bewoners niet op tijd waren gewaarschuwd.",
+          "pl": "Zagrożenie powstało przez połączenie silnego sztormu, wysokiego przypływu i podatnych na uszkodzenia wałów. Woda przyszła nocą, gdy wielu mieszkańców nie ostrzeżono na czas.",
+          "tr": "Tehlike güçlü bir fırtına, yüksek gelgit ve savunmasız setlerin birleşiminden doğdu. Su gece geldi; birçok sakin zamanında uyarılmamıştı.",
+          "zh": "危险来自强风暴、高潮和脆弱堤坝的叠加。洪水在夜间到来，许多居民没有及时收到警告。",
+          "ja": "危険は、強い嵐、満潮、脆弱な堤防が重なったことで生じました。水は夜に押し寄せ、多くの住民は間に合う警告を受けていませんでした。",
+          "ko": "위험은 강한 폭풍, 만조, 취약한 제방이 결합되면서 생겼습니다. 물은 밤에 밀려왔고 많은 주민은 제때 경고를 받지 못했습니다.",
+          "hi": "खतरा तेज तूफान, ऊँचे ज्वार और कमजोर बाँधों के मेल से पैदा हुआ। पानी रात में आया, जब कई निवासियों को समय पर चेतावनी नहीं मिली।",
+          "ar": "نشأ الخطر من اجتماع عاصفة قوية ومد مرتفع وسدود ضعيفة. وجاءت المياه ليلا عندما لم يُحذر كثير من السكان في الوقت المناسب."
         },
         "importance": {
           "ru": "Это хороший пример того, как природное явление становится катастрофой из-за слабой подготовки.",
           "de": "Das ist ein gutes Beispiel dafuer, wie ein Naturereignis durch schlechte Vorbereitung zur Katastrophe wird.",
-          "en": "It is a good example of how a natural event becomes a disaster because of weak preparation."
+          "en": "It is a good example of how a natural event becomes a disaster because of weak preparation.",
+          "fr": "C'est un bon exemple de la façon dont un phénomène naturel devient une catastrophe à cause d'une préparation insuffisante.",
+          "es": "Es un buen ejemplo de cómo un fenómeno natural se convierte en catástrofe por una preparación débil.",
+          "it": "È un buon esempio di come un evento naturale diventi una catastrofe a causa di una preparazione insufficiente.",
+          "pt": "É um bom exemplo de como um fenómeno natural se transforma em catástrofe por falta de preparação.",
+          "nl": "Het is een goed voorbeeld van hoe een natuurverschijnsel door zwakke voorbereiding een ramp wordt.",
+          "pl": "To dobry przykład tego, jak zjawisko naturalne staje się katastrofą przez słabe przygotowanie.",
+          "tr": "Bu, zayıf hazırlık nedeniyle doğal bir olayın nasıl felakete dönüştüğüne iyi bir örnektir.",
+          "zh": "这是自然现象如何因准备不足而变成灾难的好例子。",
+          "ja": "これは、備えが不十分だと自然現象がどのように災害になるかを示すよい例です。",
+          "ko": "이는 준비가 부족할 때 자연 현상이 어떻게 재난이 되는지 보여 주는 좋은 예입니다.",
+          "hi": "यह अच्छा उदाहरण है कि कमजोर तैयारी के कारण प्राकृतिक घटना कैसे आपदा बन जाती है।",
+          "ar": "إنه مثال جيد على كيف يمكن لظاهرة طبيعية أن تصبح كارثة بسبب ضعف الاستعداد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Кризис и Гельмут Шмидт",
           "de": "Krise und Helmut Schmidt",
-          "en": "Crisis and Helmut Schmidt"
+          "en": "Crisis and Helmut Schmidt",
+          "fr": "La crise et Helmut Schmidt",
+          "es": "La crisis y Helmut Schmidt",
+          "it": "La crisi e Helmut Schmidt",
+          "pt": "A crise e Helmut Schmidt",
+          "nl": "Crisis en Helmut Schmidt",
+          "pl": "Kryzys i Helmut Schmidt",
+          "tr": "Kriz ve Helmut Schmidt",
+          "zh": "危机与赫尔穆特·施密特",
+          "ja": "危機とヘルムート・シュミット",
+          "ko": "위기와 헬무트 슈미트",
+          "hi": "संकट और हेल्मुट श्मिट",
+          "ar": "الأزمة وهلموت شميت"
         },
         "description": {
           "ru": "Гамбургский сенатор внутренних дел Гельмут Шмидт организовывал спасательные работы и привлекал помощь, включая военных. Позже его действия стали важной частью его политической репутации.",
           "de": "Hamburgs Innensenator Helmut Schmidt organisierte Rettungsmassnahmen und zog Hilfe hinzu, auch durch das Militaer. Spaeter wurden seine Entscheidungen zu einem wichtigen Teil seines politischen Rufes.",
-          "en": "Hamburg's Interior Senator Helmut Schmidt organized rescue efforts and brought in help, including military assistance. His decisions later became an important part of his political reputation."
+          "en": "Hamburg's Interior Senator Helmut Schmidt organized rescue efforts and brought in help, including military assistance. His decisions later became an important part of his political reputation.",
+          "fr": "Le sénateur de l'Intérieur de Hambourg, Helmut Schmidt, organisa les secours et fit venir de l'aide, y compris militaire. Plus tard, ses décisions devinrent une partie importante de sa réputation politique.",
+          "es": "El senador de Interior de Hamburgo, Helmut Schmidt, organizó los rescates y pidió ayuda, incluida asistencia militar. Sus decisiones se convirtieron después en una parte importante de su reputación política.",
+          "it": "Il senatore dell'Interno di Amburgo, Helmut Schmidt, organizzò i soccorsi e fece arrivare aiuti, anche militari. In seguito le sue decisioni divennero una parte importante della sua reputazione politica.",
+          "pt": "O senador do Interior de Hamburgo, Helmut Schmidt, organizou os trabalhos de salvamento e chamou ajuda, incluindo assistência militar. Mais tarde, as suas decisões tornaram-se parte importante da sua reputação política.",
+          "nl": "Hamburgs senator van Binnenlandse Zaken Helmut Schmidt organiseerde reddingsacties en haalde hulp erbij, ook van het leger. Later werden zijn beslissingen een belangrijk deel van zijn politieke reputatie.",
+          "pl": "Hamburski senator spraw wewnętrznych Helmut Schmidt organizował akcję ratunkową i sprowadzał pomoc, także wojskową. Później jego decyzje stały się ważną częścią jego politycznej reputacji.",
+          "tr": "Hamburg İçişleri Senatörü Helmut Schmidt kurtarma çalışmalarını organize etti ve askeri yardım dahil destek çağırdı. Kararları daha sonra siyasi itibarının önemli bir parçası oldu.",
+          "zh": "汉堡内政参议员赫尔穆特·施密特组织救援工作，并调来包括军队在内的援助。后来，他的这些决定成为其政治声望的重要组成部分。",
+          "ja": "ハンブルクの内務担当参事ヘルムート・シュミットは救助活動を組織し、軍の支援を含む援助を呼び込みました。後に彼の判断は、その政治的評価の重要な一部となりました。",
+          "ko": "함부르크 내무 상원의원 헬무트 슈미트는 구조 활동을 조직하고 군 지원을 포함한 도움을 끌어왔습니다. 그의 결정은 나중에 정치적 명성의 중요한 부분이 되었습니다.",
+          "hi": "हैम्बर्ग के आंतरिक मामलों के सीनेटर हेल्मुट श्मिट ने बचाव कार्य संगठित किए और सैन्य सहायता सहित मदद बुलाई। बाद में उनके फैसले उनकी राजनीतिक प्रतिष्ठा का महत्वपूर्ण हिस्सा बने।",
+          "ar": "نظم سناتور داخلية هامبورغ هلموت شميت أعمال الإنقاذ واستدعى المساعدة، بما في ذلك المساعدة العسكرية. ولاحقا أصبحت قراراته جزءا مهما من سمعته السياسية."
         },
         "importance": {
           "ru": "Дата показывает, как чрезвычайная ситуация может выявить сильные и слабые стороны государства.",
           "de": "Das Datum zeigt, wie eine Notsituation Staerken und Schwaechen des Staates sichtbar machen kann.",
-          "en": "The date shows how an emergency can reveal the strengths and weaknesses of the state."
+          "en": "The date shows how an emergency can reveal the strengths and weaknesses of the state.",
+          "fr": "Cette date montre comment une situation d'urgence peut révéler les forces et les faiblesses de l'État.",
+          "es": "La fecha muestra cómo una emergencia puede revelar las fortalezas y debilidades del Estado.",
+          "it": "La data mostra come un'emergenza possa rivelare punti di forza e debolezze dello Stato.",
+          "pt": "A data mostra como uma emergência pode revelar os pontos fortes e fracos do Estado.",
+          "nl": "Deze datum laat zien hoe een noodsituatie de sterke en zwakke kanten van de staat kan onthullen.",
+          "pl": "Ta data pokazuje, jak sytuacja nadzwyczajna może ujawnić mocne i słabe strony państwa.",
+          "tr": "Bu tarih, bir acil durumun devletin güçlü ve zayıf yanlarını nasıl ortaya çıkarabileceğini gösterir.",
+          "zh": "这个日期显示，紧急情况如何暴露国家的优势与弱点。",
+          "ja": "この日付は、緊急事態が国家の強みと弱みをどのように明らかにするかを示しています。",
+          "ko": "이 날짜는 비상 상황이 국가의 강점과 약점을 어떻게 드러낼 수 있는지 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि आपात स्थिति राज्य की ताकत और कमजोरी कैसे सामने ला सकती है।",
+          "ar": "يبين هذا التاريخ كيف يمكن لحالة طوارئ أن تكشف نقاط قوة الدولة وضعفها."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После наводнения Гамбург значительно усилил систему дамб и защиты от штормовых нагонов.",
     "de": "Nach der Flut baute Hamburg sein System aus Deichen und Sturmflutschutz deutlich aus.",
-    "en": "After the flood, Hamburg greatly strengthened its system of dikes and storm-surge protection."
+    "en": "After the flood, Hamburg greatly strengthened its system of dikes and storm-surge protection.",
+    "fr": "Après l'inondation, Hambourg renforça fortement son système de digues et de protection contre les marées de tempête.",
+    "es": "Después de la inundación, Hamburgo reforzó mucho su sistema de diques y protección contra marejadas.",
+    "it": "Dopo l'alluvione, Amburgo rafforzò notevolmente il sistema di argini e protezione dalle maree di tempesta.",
+    "pt": "Depois da cheia, Hamburgo reforçou muito o seu sistema de diques e proteção contra marés de tempestade.",
+    "nl": "Na de overstroming versterkte Hamburg zijn systeem van dijken en bescherming tegen stormvloeden sterk.",
+    "pl": "Po powodzi Hamburg znacznie wzmocnił system wałów i ochrony przed sztormowymi przypływami.",
+    "tr": "Selden sonra Hamburg setler ve fırtına kabarması koruması sistemini büyük ölçüde güçlendirdi.",
+    "zh": "洪水过后，汉堡大幅加强了堤坝和风暴潮防护体系。",
+    "ja": "洪水の後、ハンブルクは堤防と高潮対策の仕組みを大きく強化しました。",
+    "ko": "홍수 이후 함부르크는 제방과 폭풍 해일 방어 체계를 크게 강화했습니다.",
+    "hi": "बाढ़ के बाद हैम्बर्ग ने बाँधों और तूफानी ज्वार से सुरक्षा की व्यवस्था को काफी मजबूत किया।",
+    "ar": "بعد الفيضان عززت هامبورغ بدرجة كبيرة نظام السدود والحماية من المد العاصفي."
   },
   "sources": [
     {

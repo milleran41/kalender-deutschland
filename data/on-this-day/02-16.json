@@ -11,17 +11,53 @@
     "title": {
       "ru": "Штормовой прилив в Гамбурге",
       "de": "Sturmflut in Hamburg",
-      "en": "Storm surge in Hamburg"
+      "en": "Storm surge in Hamburg",
+      "fr": "Marée de tempête à Hambourg",
+      "es": "Marejada ciclónica en Hamburgo",
+      "it": "Marea di tempesta ad Amburgo",
+      "pt": "Maré de tempestade em Hamburgo",
+      "nl": "Stormvloed in Hamburg",
+      "pl": "Sztormowy przypływ w Hamburgu",
+      "tr": "Hamburg'da fırtına kabarması",
+      "zh": "汉堡风暴潮",
+      "ja": "ハンブルクの高潮",
+      "ko": "함부르크의 폭풍 해일",
+      "hi": "हैम्बर्ग में तूफानी ज्वार",
+      "ar": "مد عاصفي في هامبورغ"
     },
     "description": {
       "ru": "В ночь с 16 на 17 февраля 1962 года сильный шторм нагнал воду в устья рек Эльба и Везер. Гамбург пережил одну из самых тяжёлых природных катастроф своей истории.",
       "de": "In der Nacht vom 16. auf den 17. Februar 1962 drueckte ein schwerer Sturm Wasser in die Muendungen von Elbe und Weser. Hamburg erlebte eine der schwersten Naturkatastrophen seiner Geschichte.",
-      "en": "On the night of 16-17 February 1962, a severe storm pushed water into the lower Elbe and Weser. Hamburg suffered one of the worst natural disasters in its history."
+      "en": "On the night of 16-17 February 1962, a severe storm pushed water into the lower Elbe and Weser. Hamburg suffered one of the worst natural disasters in its history.",
+      "fr": "Dans la nuit du 16 au 17 février 1962, une violente tempête poussa l'eau vers les embouchures de l'Elbe et de la Weser. Hambourg connut l'une des pires catastrophes naturelles de son histoire.",
+      "es": "En la noche del 16 al 17 de febrero de 1962, una fuerte tormenta empujó el agua hacia las desembocaduras del Elba y el Weser. Hamburgo sufrió una de las peores catástrofes naturales de su historia.",
+      "it": "Nella notte tra il 16 e il 17 febbraio 1962, una forte tempesta spinse l'acqua verso le foci dell'Elba e del Weser. Amburgo subì una delle peggiori catastrofi naturali della sua storia.",
+      "pt": "Na noite de 16 para 17 de fevereiro de 1962, uma forte tempestade empurrou a água para as fozes do Elba e do Weser. Hamburgo sofreu uma das piores catástrofes naturais da sua história.",
+      "nl": "In de nacht van 16 op 17 februari 1962 stuwde een zware storm water de mondingen van de Elbe en de Weser in. Hamburg maakte een van de zwaarste natuurrampen uit zijn geschiedenis mee.",
+      "pl": "W nocy z 16 na 17 lutego 1962 roku silny sztorm wtłoczył wodę do ujść Łaby i Wezery. Hamburg przeżył jedną z najcięższych klęsk żywiołowych w swojej historii.",
+      "tr": "16-17 Şubat 1962 gecesi şiddetli bir fırtına Elbe ve Weser nehirlerinin aşağı kesimlerine su itti. Hamburg tarihinin en ağır doğal afetlerinden birini yaşadı.",
+      "zh": "1962年2月16日至17日夜间，一场强风暴把海水推入易北河和威悉河下游。汉堡遭遇了其历史上最严重的自然灾害之一。",
+      "ja": "1962年2月16日から17日にかけての夜、激しい嵐がエルベ川とヴェーザー川の下流へ水を押し込みました。ハンブルクはその歴史上最悪級の自然災害に見舞われました。",
+      "ko": "1962년 2월 16일에서 17일로 넘어가는 밤, 강한 폭풍이 엘베강과 베저강 하류로 물을 밀어 넣었습니다. 함부르크는 역사상 최악의 자연재해 중 하나를 겪었습니다.",
+      "hi": "16 से 17 फ़रवरी 1962 की रात एक तेज तूफान ने एल्बे और वेज़र नदियों के मुहानों में पानी धकेल दिया। हैम्बर्ग ने अपने इतिहास की सबसे गंभीर प्राकृतिक आपदाओं में से एक झेली।",
+      "ar": "في ليلة 16 إلى 17 فبراير 1962 دفعت عاصفة شديدة المياه إلى مصبي نهري إلبه وفيسر. وواجهت هامبورغ واحدة من أسوأ الكوارث الطبيعية في تاريخها."
     },
     "importance": {
       "ru": "После катастрофы город серьёзно усилил защиту от наводнений.",
       "de": "Nach der Katastrophe verstaerkte die Stadt ihren Hochwasserschutz deutlich.",
-      "en": "After the disaster, the city greatly strengthened its flood protection."
+      "en": "After the disaster, the city greatly strengthened its flood protection.",
+      "fr": "Après la catastrophe, la ville renforça fortement sa protection contre les inondations.",
+      "es": "Después de la catástrofe, la ciudad reforzó mucho su protección contra inundaciones.",
+      "it": "Dopo la catastrofe, la città rafforzò notevolmente la protezione contro le inondazioni.",
+      "pt": "Depois da catástrofe, a cidade reforçou muito a sua proteção contra cheias.",
+      "nl": "Na de ramp versterkte de stad haar bescherming tegen overstromingen sterk.",
+      "pl": "Po katastrofie miasto znacznie wzmocniło ochronę przeciwpowodziową.",
+      "tr": "Felaketten sonra şehir sel korumasını büyük ölçüde güçlendirdi.",
+      "zh": "灾难之后，这座城市大幅加强了防洪保护。",
+      "ja": "災害の後、市は洪水対策を大きく強化しました。",
+      "ko": "재난 이후 도시는 홍수 방어를 크게 강화했습니다.",
+      "hi": "आपदा के बाद शहर ने बाढ़ से बचाव को काफी मजबूत किया।",
+      "ar": "بعد الكارثة عززت المدينة حماية الفيضانات بدرجة كبيرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Город учился защищаться от воды",
           "de": "Die Stadt lernte, sich vor Wasser zu schuetzen",
-          "en": "The city learned to protect itself from water"
+          "en": "The city learned to protect itself from water",
+          "fr": "La ville apprend à se protéger de l'eau",
+          "es": "La ciudad aprendió a protegerse del agua",
+          "it": "La città imparò a proteggersi dall'acqua",
+          "pt": "A cidade aprendeu a proteger-se da água",
+          "nl": "De stad leerde zich tegen water te beschermen",
+          "pl": "Miasto uczyło się chronić przed wodą",
+          "tr": "Şehir sudan korunmayı öğrendi",
+          "zh": "城市学会保护自己免受洪水威胁",
+          "ja": "都市は水から身を守ることを学んだ",
+          "ko": "도시는 물로부터 자신을 지키는 법을 배웠다",
+          "hi": "शहर ने पानी से बचना सीखा",
+          "ar": "تعلمت المدينة حماية نفسها من الماء"
         },
         "description": {
           "ru": "Катастрофа показала слабые места дамб, предупреждений и координации служб. Для портового города это стало уроком на десятилетия.",
           "de": "Die Katastrophe zeigte Schwachstellen bei Deichen, Warnungen und der Koordination der Dienste. Fuer eine Hafenstadt wurde das eine Lehre fuer Jahrzehnte.",
-          "en": "The disaster exposed weaknesses in dikes, warnings and emergency coordination. For a port city, it became a lesson for decades."
+          "en": "The disaster exposed weaknesses in dikes, warnings and emergency coordination. For a port city, it became a lesson for decades.",
+          "fr": "La catastrophe révéla des faiblesses dans les digues, les alertes et la coordination des services. Pour une ville portuaire, ce fut une leçon pour des décennies.",
+          "es": "La catástrofe mostró debilidades en los diques, las alertas y la coordinación de los servicios. Para una ciudad portuaria, fue una lección para décadas.",
+          "it": "La catastrofe mise in luce debolezze negli argini, negli avvisi e nel coordinamento dei servizi. Per una città portuale fu una lezione per decenni.",
+          "pt": "A catástrofe revelou fraquezas nos diques, nos avisos e na coordenação dos serviços. Para uma cidade portuária, tornou-se uma lição para décadas.",
+          "nl": "De ramp legde zwakke plekken bloot in dijken, waarschuwingen en de coördinatie van hulpdiensten. Voor een havenstad werd dit een les voor tientallen jaren.",
+          "pl": "Katastrofa ujawniła słabości wałów, ostrzeżeń i koordynacji służb. Dla miasta portowego była to lekcja na dziesięciolecia.",
+          "tr": "Felaket, setlerde, uyarılarda ve hizmetlerin koordinasyonunda zayıflıkları ortaya çıkardı. Bir liman kenti için bu onlarca yıllık bir ders oldu.",
+          "zh": "这场灾难暴露了堤坝、预警和应急协调方面的弱点。对一座港口城市来说，这是持续数十年的教训。",
+          "ja": "この災害は、堤防、警報、救助機関の連携に弱点があることを明らかにしました。港湾都市にとって、それは何十年にもわたる教訓となりました。",
+          "ko": "이 재난은 제방, 경보, 긴급 대응 조정의 약점을 드러냈습니다. 항구 도시에는 수십 년간 이어질 교훈이 되었습니다.",
+          "hi": "आपदा ने बाँधों, चेतावनियों और सेवाओं के समन्वय की कमजोरियाँ दिखाईं। बंदरगाह शहर के लिए यह दशकों तक याद रहने वाला सबक बना।",
+          "ar": "كشفت الكارثة نقاط ضعف في السدود والتحذيرات وتنسيق الخدمات. وبالنسبة إلى مدينة مرفئية أصبحت درسا لعقود."
         },
         "importance": {
           "ru": "Это хорошая дата для категории погоды и природы: Германия не только история и культура, но и борьба с природными рисками.",
           "de": "Das ist ein gutes Datum fuer Wetter und Natur: Deutschland ist nicht nur Geschichte und Kultur, sondern auch Umgang mit Naturgefahren.",
-          "en": "It is a good date for weather and nature: Germany is not only history and culture, but also dealing with natural risks."
+          "en": "It is a good date for weather and nature: Germany is not only history and culture, but also dealing with natural risks.",
+          "fr": "C'est une bonne date pour la catégorie météo et nature: l'Allemagne, ce n'est pas seulement l'histoire et la culture, mais aussi la gestion des risques naturels.",
+          "es": "Es una buena fecha para la categoría de clima y naturaleza: Alemania no es solo historia y cultura, sino también gestión de riesgos naturales.",
+          "it": "È una buona data per la categoria meteo e natura: la Germania non è solo storia e cultura, ma anche confronto con i rischi naturali.",
+          "pt": "É uma boa data para a categoria de clima e natureza: a Alemanha não é apenas história e cultura, mas também gestão de riscos naturais.",
+          "nl": "Het is een goede datum voor weer en natuur: Duitsland is niet alleen geschiedenis en cultuur, maar ook omgaan met natuurlijke risico's.",
+          "pl": "To dobra data dla kategorii pogody i przyrody: Niemcy to nie tylko historia i kultura, lecz także zmaganie się z zagrożeniami naturalnymi.",
+          "tr": "Bu, hava durumu ve doğa kategorisi için iyi bir tarihtir: Almanya yalnızca tarih ve kültür değil, doğal risklerle başa çıkma konusudur da.",
+          "zh": "这是天气与自然类别中的一个好日期：德国不仅有历史和文化，也有应对自然风险的经验。",
+          "ja": "これは天気と自然のカテゴリにふさわしい日付です。ドイツは歴史や文化だけでなく、自然災害への対応の歴史も持っています。",
+          "ko": "이는 날씨와 자연 범주에 좋은 날짜입니다. 독일은 역사와 문화뿐 아니라 자연 위험에 대처하는 이야기이기도 합니다.",
+          "hi": "यह मौसम और प्रकृति की श्रेणी के लिए अच्छी तारीख है: जर्मनी केवल इतिहास और संस्कृति नहीं, बल्कि प्राकृतिक जोखिमों से निपटने की कहानी भी है।",
+          "ar": "إنه تاريخ مناسب لفئة الطقس والطبيعة: فألمانيا ليست تاريخا وثقافة فقط، بل تعامل مع المخاطر الطبيعية أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Гамбург называют городом на воде, но именно вода стала для него одной из самых серьёзных угроз XX века.",
     "de": "Hamburg gilt als Stadt am Wasser, doch gerade das Wasser wurde im 20. Jahrhundert zu einer seiner groessten Gefahren.",
-    "en": "Hamburg is known as a city on the water, but water became one of its greatest dangers in the twentieth century."
+    "en": "Hamburg is known as a city on the water, but water became one of its greatest dangers in the twentieth century.",
+    "fr": "Hambourg est connue comme une ville sur l'eau, mais l'eau devint justement l'un de ses plus grands dangers au XXe siècle.",
+    "es": "Hamburgo es conocida como una ciudad sobre el agua, pero el agua se convirtió en uno de sus mayores peligros en el siglo XX.",
+    "it": "Amburgo è conosciuta come città sull'acqua, ma proprio l'acqua divenne uno dei suoi maggiori pericoli nel XX secolo.",
+    "pt": "Hamburgo é conhecida como uma cidade sobre a água, mas a água tornou-se um dos seus maiores perigos no século XX.",
+    "nl": "Hamburg staat bekend als een stad aan het water, maar juist water werd in de twintigste eeuw een van haar grootste gevaren.",
+    "pl": "Hamburg nazywa się miastem na wodzie, ale właśnie woda stała się dla niego jednym z największych zagrożeń XX wieku.",
+    "tr": "Hamburg su üzerindeki şehir olarak bilinir, ama su yirminci yüzyılda onun en büyük tehlikelerinden biri oldu.",
+    "zh": "汉堡以水上城市闻名，但在20世纪，水也成为它最大的威胁之一。",
+    "ja": "ハンブルクは水辺の都市として知られていますが、20世紀にはその水こそが最大の脅威の一つになりました。",
+    "ko": "함부르크는 물 위의 도시로 알려져 있지만, 20세기에는 바로 그 물이 가장 큰 위험 중 하나가 되었습니다.",
+    "hi": "हैम्बर्ग को पानी पर बसे शहर के रूप में जाना जाता है, लेकिन बीसवीं सदी में वही पानी उसके सबसे बड़े खतरों में से एक बन गया।",
+    "ar": "تُعرف هامبورغ بأنها مدينة على الماء، لكن الماء نفسه أصبح في القرن العشرين أحد أكبر أخطارها."
   },
   "sources": [
     {

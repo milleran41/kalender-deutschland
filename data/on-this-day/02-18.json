@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умер Мартин Лютер",
       "de": "Martin Luther stirbt",
-      "en": "Martin Luther dies"
+      "en": "Martin Luther dies",
+      "fr": "Mort de Martin Luther",
+      "es": "Muere Martín Lutero",
+      "it": "Muore Martin Lutero",
+      "pt": "Morre Martinho Lutero",
+      "nl": "Maarten Luther sterft",
+      "pl": "Zmarł Marcin Luter",
+      "tr": "Martin Luther öldü",
+      "zh": "马丁·路德逝世",
+      "ja": "マルティン・ルターが死去",
+      "ko": "마르틴 루터가 사망하다",
+      "hi": "मार्टिन लूथर का निधन हुआ",
+      "ar": "وفاة مارتن لوثر"
     },
     "description": {
       "ru": "18 февраля 1546 года в Айслебене умер Мартин Лютер. Он был одним из главных деятелей Реформации и изменил религиозную историю Германии.",
       "de": "Am 18. Februar 1546 starb Martin Luther in Eisleben. Er war eine der wichtigsten Figuren der Reformation und veraenderte die Religionsgeschichte Deutschlands.",
-      "en": "On 18 February 1546, Martin Luther died in Eisleben. He was one of the main figures of the Reformation and changed Germany's religious history."
+      "en": "On 18 February 1546, Martin Luther died in Eisleben. He was one of the main figures of the Reformation and changed Germany's religious history.",
+      "fr": "Le 18 février 1546, Martin Luther mourut à Eisleben. Il fut l'une des principales figures de la Réforme et transforma l'histoire religieuse de l'Allemagne.",
+      "es": "El 18 de febrero de 1546 murió Martín Lutero en Eisleben. Fue una de las principales figuras de la Reforma y cambió la historia religiosa de Alemania.",
+      "it": "Il 18 febbraio 1546 Martin Lutero morì a Eisleben. Fu una delle figure principali della Riforma e cambiò la storia religiosa della Germania.",
+      "pt": "Em 18 de fevereiro de 1546, Martinho Lutero morreu em Eisleben. Foi uma das principais figuras da Reforma e mudou a história religiosa da Alemanha.",
+      "nl": "Op 18 februari 1546 stierf Maarten Luther in Eisleben. Hij was een van de belangrijkste figuren van de Reformatie en veranderde de religieuze geschiedenis van Duitsland.",
+      "pl": "18 lutego 1546 roku w Eisleben zmarł Marcin Luter. Był jedną z głównych postaci reformacji i zmienił religijną historię Niemiec.",
+      "tr": "18 Şubat 1546'da Martin Luther Eisleben'de öldü. Reformasyonun başlıca figürlerinden biriydi ve Almanya'nın dini tarihini değiştirdi.",
+      "zh": "1546年2月18日，马丁·路德在艾斯莱本逝世。他是宗教改革的主要人物之一，改变了德国的宗教史。",
+      "ja": "1546年2月18日、マルティン・ルターはアイスレーベンで亡くなりました。彼は宗教改革の主要人物の一人で、ドイツの宗教史を変えました。",
+      "ko": "1546년 2월 18일, 마르틴 루터가 아이슬레벤에서 사망했습니다. 그는 종교개혁의 주요 인물 중 한 명이었고 독일의 종교사를 바꾸었습니다.",
+      "hi": "18 फ़रवरी 1546 को मार्टिन लूथर का निधन आइसलेबेन में हुआ। वे सुधार आंदोलन की मुख्य हस्तियों में से एक थे और उन्होंने जर्मनी के धार्मिक इतिहास को बदल दिया।",
+      "ar": "في 18 فبراير 1546 توفي مارتن لوثر في آيسلبن. كان أحد أبرز شخصيات الإصلاح الديني وغيّر التاريخ الديني لألمانيا."
     },
     "importance": {
       "ru": "Лютер связан с Виттенбергом, переводом Библии и развитием немецкого письменного языка.",
       "de": "Luther ist mit Wittenberg, der Bibeluebersetzung und der Entwicklung der deutschen Schriftsprache verbunden.",
-      "en": "Luther is linked with Wittenberg, Bible translation and the development of written German."
+      "en": "Luther is linked with Wittenberg, Bible translation and the development of written German.",
+      "fr": "Luther est lié à Wittenberg, à la traduction de la Bible et au développement de l'allemand écrit.",
+      "es": "Lutero está vinculado con Wittenberg, la traducción de la Biblia y el desarrollo del alemán escrito.",
+      "it": "Lutero è legato a Wittenberg, alla traduzione della Bibbia e allo sviluppo del tedesco scritto.",
+      "pt": "Lutero está ligado a Wittenberg, à tradução da Bíblia e ao desenvolvimento do alemão escrito.",
+      "nl": "Luther is verbonden met Wittenberg, de Bijbelvertaling en de ontwikkeling van geschreven Duits.",
+      "pl": "Luter jest związany z Wittenbergą, tłumaczeniem Biblii i rozwojem pisanego języka niemieckiego.",
+      "tr": "Luther, Wittenberg, İncil çevirisi ve yazılı Almancanın gelişimiyle bağlantılıdır.",
+      "zh": "路德与维滕贝格、圣经翻译以及书面德语的发展密切相关。",
+      "ja": "ルターはヴィッテンベルク、聖書翻訳、書き言葉としてのドイツ語の発展と結びついています。",
+      "ko": "루터는 비텐베르크, 성경 번역, 문어 독일어의 발전과 연결되어 있습니다.",
+      "hi": "लूथर विटेनबर्ग, बाइबिल अनुवाद और लिखित जर्मन भाषा के विकास से जुड़े हैं।",
+      "ar": "يرتبط لوثر بفيتنبرغ وترجمة الكتاب المقدس وتطور اللغة الألمانية المكتوبة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Наследие Реформации",
           "de": "Das Erbe der Reformation",
-          "en": "The legacy of the Reformation"
+          "en": "The legacy of the Reformation",
+          "fr": "L'héritage de la Réforme",
+          "es": "El legado de la Reforma",
+          "it": "L'eredità della Riforma",
+          "pt": "O legado da Reforma",
+          "nl": "De erfenis van de Reformatie",
+          "pl": "Dziedzictwo reformacji",
+          "tr": "Reformasyonun mirası",
+          "zh": "宗教改革的遗产",
+          "ja": "宗教改革の遺産",
+          "ko": "종교개혁의 유산",
+          "hi": "सुधार आंदोलन की विरासत",
+          "ar": "إرث الإصلاح الديني"
         },
         "description": {
           "ru": "После Лютера религиозная карта Германии уже не была прежней. Споры о вере влияли на княжества, школы, книги и политику.",
           "de": "Nach Luther war die religioese Landkarte Deutschlands nicht mehr dieselbe. Glaubensstreitigkeiten beeinflussten Fuerstentuemer, Schulen, Buecher und Politik.",
-          "en": "After Luther, Germany's religious map was no longer the same. Conflicts over faith shaped principalities, schools, books and politics."
+          "en": "After Luther, Germany's religious map was no longer the same. Conflicts over faith shaped principalities, schools, books and politics.",
+          "fr": "Après Luther, la carte religieuse de l'Allemagne ne fut plus la même. Les conflits de foi influencèrent les principautés, les écoles, les livres et la politique.",
+          "es": "Después de Lutero, el mapa religioso de Alemania ya no fue el mismo. Los conflictos de fe influyeron en principados, escuelas, libros y política.",
+          "it": "Dopo Lutero, la mappa religiosa della Germania non fu più la stessa. I conflitti sulla fede influenzarono principati, scuole, libri e politica.",
+          "pt": "Depois de Lutero, o mapa religioso da Alemanha deixou de ser o mesmo. Os conflitos de fé influenciaram principados, escolas, livros e política.",
+          "nl": "Na Luther was de religieuze kaart van Duitsland niet meer dezelfde. Geloofsconflicten beïnvloedden vorstendommen, scholen, boeken en politiek.",
+          "pl": "Po Lutrze religijna mapa Niemiec nie była już taka sama. Spory o wiarę wpływały na księstwa, szkoły, książki i politykę.",
+          "tr": "Luther'den sonra Almanya'nın dini haritası artık aynı değildi. İnanç üzerine çatışmalar prenslikleri, okulları, kitapları ve siyaseti şekillendirdi.",
+          "zh": "路德之后，德国的宗教版图不再相同。围绕信仰的冲突影响了诸侯国、学校、书籍和政治。",
+          "ja": "ルター以後、ドイツの宗教地図は以前と同じではなくなりました。信仰をめぐる対立は、諸侯領、学校、書物、政治に影響を与えました。",
+          "ko": "루터 이후 독일의 종교 지도는 더 이상 이전과 같지 않았습니다. 신앙을 둘러싼 갈등은 공국, 학교, 책, 정치를 형성했습니다.",
+          "hi": "लूथर के बाद जर्मनी का धार्मिक नक्शा पहले जैसा नहीं रहा। विश्वास को लेकर विवादों ने रियासतों, स्कूलों, किताबों और राजनीति को प्रभावित किया।",
+          "ar": "بعد لوثر لم تعد الخريطة الدينية لألمانيا كما كانت. فقد أثرت الخلافات حول الإيمان في الإمارات والمدارس والكتب والسياسة."
         },
         "importance": {
           "ru": "Это помогает понять, почему Реформация стала не только церковным, но и общественным событием.",
           "de": "Das hilft zu verstehen, warum die Reformation nicht nur ein kirchliches, sondern auch ein gesellschaftliches Ereignis wurde.",
-          "en": "This helps explain why the Reformation became not only a church event but also a social one."
+          "en": "This helps explain why the Reformation became not only a church event but also a social one.",
+          "fr": "Cela aide à comprendre pourquoi la Réforme devint non seulement un événement religieux, mais aussi social.",
+          "es": "Esto ayuda a entender por qué la Reforma fue no solo un acontecimiento eclesiástico, sino también social.",
+          "it": "Questo aiuta a capire perché la Riforma divenne non solo un evento ecclesiastico, ma anche sociale.",
+          "pt": "Isto ajuda a compreender por que a Reforma se tornou não só um acontecimento religioso, mas também social.",
+          "nl": "Dit helpt te begrijpen waarom de Reformatie niet alleen een kerkelijke, maar ook een maatschappelijke gebeurtenis werd.",
+          "pl": "Pomaga to zrozumieć, dlaczego reformacja stała się nie tylko wydarzeniem kościelnym, lecz także społecznym.",
+          "tr": "Bu, Reformasyonun neden yalnızca kiliseye ait değil, toplumsal bir olay da olduğunu anlamaya yardımcı olur.",
+          "zh": "这有助于解释为什么宗教改革不仅是教会事件，也是社会事件。",
+          "ja": "これは、宗教改革が教会だけの出来事ではなく、社会的な出来事にもなった理由を理解する助けになります。",
+          "ko": "이는 종교개혁이 왜 교회의 사건일 뿐 아니라 사회적 사건이 되었는지 설명하는 데 도움이 됩니다.",
+          "hi": "इससे समझने में मदद मिलती है कि सुधार आंदोलन केवल चर्च की घटना नहीं, बल्कि सामाजिक घटना भी क्यों बना।",
+          "ar": "يساعد ذلك على فهم لماذا أصبح الإصلاح الديني حدثا كنسيا واجتماعيا في الوقت نفسه."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Лютер родился и умер в одном городе — Айслебене, который сегодня связан с памятными местами Реформации.",
     "de": "Luther wurde in Eisleben geboren und starb dort auch; die Stadt ist heute mit Gedenkstaetten der Reformation verbunden.",
-    "en": "Luther was born and died in the same town, Eisleben, which is now linked with Reformation memorial sites."
+    "en": "Luther was born and died in the same town, Eisleben, which is now linked with Reformation memorial sites.",
+    "fr": "Luther est né et mort dans la même ville, Eisleben, aujourd'hui liée à des lieux de mémoire de la Réforme.",
+    "es": "Lutero nació y murió en la misma ciudad, Eisleben, hoy vinculada a lugares conmemorativos de la Reforma.",
+    "it": "Lutero nacque e morì nella stessa città, Eisleben, oggi legata ai luoghi della memoria della Riforma.",
+    "pt": "Lutero nasceu e morreu na mesma cidade, Eisleben, hoje ligada a locais memoriais da Reforma.",
+    "nl": "Luther werd geboren en stierf in dezelfde stad, Eisleben, die tegenwoordig verbonden is met gedenkplaatsen van de Reformatie.",
+    "pl": "Luter urodził się i zmarł w tym samym mieście, Eisleben, które dziś wiąże się z miejscami pamięci reformacji.",
+    "tr": "Luther aynı kasabada, Eisleben'de doğdu ve öldü; bu yer bugün Reformasyon anıtlarıyla bağlantılıdır.",
+    "zh": "路德出生和逝世于同一座城镇艾斯莱本，如今这里与宗教改革纪念地相连。",
+    "ja": "ルターは同じ町アイスレーベンで生まれ、そこで亡くなりました。現在この町は宗教改革の記念地と結びついています。",
+    "ko": "루터는 같은 도시 아이슬레벤에서 태어나고 사망했으며, 오늘날 이곳은 종교개혁 기념지와 연결되어 있습니다.",
+    "hi": "लूथर का जन्म और निधन एक ही नगर, आइसलेबेन, में हुआ; आज यह स्थान सुधार आंदोलन के स्मारक स्थलों से जुड़ा है।",
+    "ar": "وُلد لوثر ومات في المدينة نفسها، آيسلبن، وهي اليوم مرتبطة بمواقع تذكارية للإصلاح الديني."
   },
   "sources": [
     {
