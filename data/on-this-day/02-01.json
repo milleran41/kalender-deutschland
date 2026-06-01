@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась Вторая Шлезвигская война",
       "de": "Der Zweite Schleswigsche Krieg beginnt",
-      "en": "The Second Schleswig War begins"
+      "en": "The Second Schleswig War begins",
+      "fr": "La deuxième guerre du Schleswig commence",
+      "es": "Comienza la Segunda Guerra de Schleswig",
+      "it": "Inizia la seconda guerra dello Schleswig",
+      "pt": "Começa a Segunda Guerra de Schleswig",
+      "nl": "De Tweede Sleeswijkse Oorlog begint",
+      "pl": "Rozpoczyna się druga wojna o Szlezwik",
+      "tr": "İkinci Schleswig Savaşı başlar",
+      "zh": "第二次石勒苏益格战争开始",
+      "ja": "第二次シュレースヴィヒ戦争が始まる",
+      "ko": "제2차 슐레스비히 전쟁이 시작되다",
+      "hi": "दूसरा श्लेस्विग युद्ध शुरू हुआ",
+      "ar": "بدء حرب شليسفيغ الثانية"
     },
     "description": {
       "ru": "1 февраля 1864 года прусские и австрийские войска перешли реку Айдер и вошли в Шлезвиг. Так началась война против Дании за Шлезвиг, Гольштейн и Лауэнбург.",
       "de": "Am 1. Februar 1864 ueberschritten preussische und oesterreichische Truppen die Eider und marschierten in Schleswig ein. Damit begann der Krieg gegen Daenemark um Schleswig, Holstein und Lauenburg.",
-      "en": "On 1 February 1864, Prussian and Austrian troops crossed the Eider River and entered Schleswig. This began the war against Denmark over Schleswig, Holstein and Lauenburg."
+      "en": "On 1 February 1864, Prussian and Austrian troops crossed the Eider River and entered Schleswig. This began the war against Denmark over Schleswig, Holstein and Lauenburg.",
+      "fr": "Le 1er février 1864, les troupes prussiennes et autrichiennes franchirent l'Eider et entrèrent dans le Schleswig. Ainsi commença la guerre contre le Danemark pour le Schleswig, le Holstein et le Lauenburg.",
+      "es": "El 1 de febrero de 1864, tropas prusianas y austríacas cruzaron el río Eider y entraron en Schleswig. Así comenzó la guerra contra Dinamarca por Schleswig, Holstein y Lauenburg.",
+      "it": "Il 1º febbraio 1864 truppe prussiane e austriache attraversarono il fiume Eider ed entrarono nello Schleswig. Così iniziò la guerra contro la Danimarca per Schleswig, Holstein e Lauenburg.",
+      "pt": "Em 1º de fevereiro de 1864, tropas prussianas e austríacas cruzaram o rio Eider e entraram em Schleswig. Assim começou a guerra contra a Dinamarca por Schleswig, Holstein e Lauenburg.",
+      "nl": "Op 1 februari 1864 staken Pruisische en Oostenrijkse troepen de rivier de Eider over en trokken Sleeswijk binnen. Zo begon de oorlog tegen Denemarken om Sleeswijk, Holstein en Lauenburg.",
+      "pl": "1 lutego 1864 roku wojska pruskie i austriackie przekroczyły rzekę Eider i wkroczyły do Szlezwiku. Tak rozpoczęła się wojna z Danią o Szlezwik, Holsztyn i Lauenburg.",
+      "tr": "1 Şubat 1864'te Prusya ve Avusturya birlikleri Eider Nehri'ni geçerek Schleswig'e girdi. Böylece Schleswig, Holstein ve Lauenburg için Danimarka'ya karşı savaş başladı.",
+      "zh": "1864年2月1日，普鲁士和奥地利军队渡过艾德河进入石勒苏益格。由此开始了围绕石勒苏益格、荷尔斯泰因和劳恩堡对丹麦的战争。",
+      "ja": "1864年2月1日、プロイセン軍とオーストリア軍がアイダー川を渡り、シュレースヴィヒに入った。こうしてシュレースヴィヒ、ホルシュタイン、ラウエンブルクをめぐるデンマークとの戦争が始まった。",
+      "ko": "1864년 2월 1일 프로이센과 오스트리아 군대가 아이더강을 건너 슐레스비히로 진입했다. 이로써 슐레스비히, 홀슈타인, 라우엔부르크를 둘러싼 덴마크와의 전쟁이 시작되었다.",
+      "hi": "1 फरवरी 1864 को प्रशियाई और ऑस्ट्रियाई सैनिकों ने आइडर नदी पार कर श्लेस्विग में प्रवेश किया। इस तरह श्लेस्विग, होल्स्टाइन और लाउएनबुर्ग के लिए डेनमार्क के विरुद्ध युद्ध शुरू हुआ।",
+      "ar": "في 1 فبراير 1864 عبرت القوات البروسية والنمساوية نهر آيدر ودخلت شليسفيغ. وهكذا بدأت الحرب ضد الدنمارك من أجل شليسفيغ وهولشتاين ولاونبورغ."
     },
     "importance": {
       "ru": "Война стала первым из конфликтов, через которые Пруссия усилила своё влияние и приблизила объединение Германии.",
       "de": "Der Krieg wurde zum ersten der Konflikte, durch die Preussen seinen Einfluss staerkte und die deutsche Einigung naeherbrachte.",
-      "en": "The war became the first of the conflicts through which Prussia strengthened its influence and moved German unification closer."
+      "en": "The war became the first of the conflicts through which Prussia strengthened its influence and moved German unification closer.",
+      "fr": "La guerre fut le premier des conflits par lesquels la Prusse renforça son influence et rapprocha l'unification allemande.",
+      "es": "La guerra fue el primero de los conflictos mediante los cuales Prusia fortaleció su influencia y acercó la unificación alemana.",
+      "it": "La guerra fu il primo dei conflitti attraverso cui la Prussia rafforzò la propria influenza e avvicinò l'unificazione tedesca.",
+      "pt": "A guerra foi o primeiro dos conflitos pelos quais a Prússia fortaleceu sua influência e aproximou a unificação alemã.",
+      "nl": "De oorlog werd de eerste van de conflicten waardoor Pruisen zijn invloed versterkte en de Duitse eenwording dichterbij bracht.",
+      "pl": "Wojna stała się pierwszym z konfliktów, dzięki którym Prusy wzmocniły swoje wpływy i przybliżyły zjednoczenie Niemiec.",
+      "tr": "Savaş, Prusya'nın etkisini güçlendirdiği ve Alman birleşmesini yaklaştırdığı çatışmaların ilki oldu.",
+      "zh": "这场战争成为普鲁士加强影响并推动德国统一临近的第一场冲突。",
+      "ja": "この戦争は、プロイセンが影響力を強め、ドイツ統一を近づける一連の紛争の最初となった。",
+      "ko": "이 전쟁은 프로이센이 영향력을 강화하고 독일 통일을 앞당긴 여러 분쟁의 첫 번째가 되었다.",
+      "hi": "यह युद्ध उन संघर्षों में पहला बना जिनसे प्रशिया ने अपना प्रभाव बढ़ाया और जर्मन एकीकरण को निकट लाया।",
+      "ar": "أصبحت الحرب أولى الصراعات التي عززت بروسيا من خلالها نفوذها وقرّبت توحيد ألمانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Шлезвиг-гольштейнский вопрос",
           "de": "Die Schleswig-Holstein-Frage",
-          "en": "The Schleswig-Holstein question"
+          "en": "The Schleswig-Holstein question",
+          "fr": "La question du Schleswig-Holstein",
+          "es": "La cuestión de Schleswig-Holstein",
+          "it": "La questione dello Schleswig-Holstein",
+          "pt": "A questão de Schleswig-Holstein",
+          "nl": "De Sleeswijk-Holsteinse kwestie",
+          "pl": "Kwestia szlezwicko-holsztyńska",
+          "tr": "Schleswig-Holstein meselesi",
+          "zh": "石勒苏益格-荷尔斯泰因问题",
+          "ja": "シュレースヴィヒ＝ホルシュタイン問題",
+          "ko": "슐레스비히-홀슈타인 문제",
+          "hi": "श्लेस्विग-होल्स्टाइन प्रश्न",
+          "ar": "مسألة شليسفيغ-هولشتاين"
         },
         "description": {
           "ru": "Спор о герцогствах был сложным: они были связаны с датской монархией, немецким союзом, местными правами и национальными движениями. Поэтому маленькая область стала большой европейской проблемой.",
           "de": "Der Streit um die Herzogtuemer war kompliziert: Sie waren mit der daenischen Monarchie, dem Deutschen Bund, lokalen Rechten und nationalen Bewegungen verbunden. So wurde ein kleines Gebiet zu einem grossen europaeischen Problem.",
-          "en": "The dispute over the duchies was complicated: they were linked to the Danish monarchy, the German Confederation, local rights and national movements. A small region thus became a major European problem."
+          "en": "The dispute over the duchies was complicated: they were linked to the Danish monarchy, the German Confederation, local rights and national movements. A small region thus became a major European problem.",
+          "fr": "Le conflit autour des duchés était complexe : ils étaient liés à la monarchie danoise, à la Confédération germanique, aux droits locaux et aux mouvements nationaux. Une petite région devint ainsi un grand problème européen.",
+          "es": "La disputa por los ducados era compleja: estaban ligados a la monarquía danesa, la Confederación Germánica, derechos locales y movimientos nacionales. Así, una pequeña región se convirtió en un gran problema europeo.",
+          "it": "La disputa sui ducati era complessa: erano legati alla monarchia danese, alla Confederazione germanica, ai diritti locali e ai movimenti nazionali. Così una piccola regione divenne un grande problema europeo.",
+          "pt": "A disputa pelos ducados era complexa: eles estavam ligados à monarquia dinamarquesa, à Confederação Germânica, a direitos locais e a movimentos nacionais. Assim, uma pequena região tornou-se um grande problema europeu.",
+          "nl": "Het geschil over de hertogdommen was ingewikkeld: ze waren verbonden met de Deense monarchie, de Duitse Bond, lokale rechten en nationale bewegingen. Zo werd een kleine regio een groot Europees probleem.",
+          "pl": "Spór o księstwa był skomplikowany: łączyły się one z monarchią duńską, Związkiem Niemieckim, prawami lokalnymi i ruchami narodowymi. Tak mały region stał się wielkim problemem europejskim.",
+          "tr": "Düklükler üzerindeki anlaşmazlık karmaşıktı: Danimarka monarşisi, Alman Konfederasyonu, yerel haklar ve ulusal hareketlerle bağlantılıydı. Böylece küçük bir bölge büyük bir Avrupa sorunu haline geldi.",
+          "zh": "围绕这些公国的争端很复杂：它们与丹麦王室、德意志邦联、地方权利和民族运动相连。因此，一个小地区成为欧洲的大问题。",
+          "ja": "公国をめぐる争いは複雑だった。それらはデンマーク王権、ドイツ連邦、地域の権利、民族運動と結びついていた。こうして小さな地域が大きなヨーロッパ問題となった。",
+          "ko": "공국들을 둘러싼 분쟁은 복잡했다. 그것들은 덴마크 왕정, 독일 연방, 지역 권리, 민족 운동과 연결되어 있었다. 이렇게 작은 지역이 큰 유럽 문제가 되었다.",
+          "hi": "डची क्षेत्रों को लेकर विवाद जटिल था: वे डेनिश राजशाही, जर्मन संघ, स्थानीय अधिकारों और राष्ट्रीय आंदोलनों से जुड़े थे। इस तरह एक छोटा क्षेत्र बड़ा यूरोपीय प्रश्न बन गया।",
+          "ar": "كان النزاع حول الدوقيات معقداً: فقد ارتبطت بالملكية الدنماركية والاتحاد الألماني والحقوق المحلية والحركات القومية. وهكذا أصبحت منطقة صغيرة مشكلة أوروبية كبيرة."
         },
         "importance": {
           "ru": "Это хороший пример того, как карта, язык и династические права переплетались в XIX веке.",
           "de": "Das ist ein gutes Beispiel dafuer, wie Karte, Sprache und dynastische Rechte im 19. Jahrhundert verflochten waren.",
-          "en": "It is a good example of how map, language and dynastic rights were intertwined in the 19th century."
+          "en": "It is a good example of how map, language and dynastic rights were intertwined in the 19th century.",
+          "fr": "C'est un bon exemple de la manière dont carte, langue et droits dynastiques s'entremêlaient au XIXe siècle.",
+          "es": "Es un buen ejemplo de cómo mapa, lengua y derechos dinásticos se entrelazaban en el siglo XIX.",
+          "it": "È un buon esempio di come mappa, lingua e diritti dinastici si intrecciassero nel XIX secolo.",
+          "pt": "É um bom exemplo de como mapa, língua e direitos dinásticos se entrelaçavam no século XIX.",
+          "nl": "Het is een goed voorbeeld van hoe kaart, taal en dynastieke rechten in de negentiende eeuw verweven waren.",
+          "pl": "To dobry przykład tego, jak mapa, język i prawa dynastyczne splatały się w XIX wieku.",
+          "tr": "Bu, 19. yüzyılda harita, dil ve hanedan haklarının nasıl iç içe geçtiğine iyi bir örnektir.",
+          "zh": "这是地图、语言和王朝权利在19世纪如何交织的好例子。",
+          "ja": "これは、19世紀に地図、言語、王朝の権利がどのように絡み合っていたかを示すよい例である。",
+          "ko": "이는 19세기에 지도, 언어, 왕조적 권리가 어떻게 얽혀 있었는지를 보여 주는 좋은 예다.",
+          "hi": "यह अच्छा उदाहरण है कि उन्नीसवीं सदी में नक्शा, भाषा और वंशवादी अधिकार कैसे आपस में जुड़े थे।",
+          "ar": "إنه مثال جيد على كيفية تداخل الخريطة واللغة والحقوق الأسرية في القرن التاسع عشر."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "«Навеки неразделимы»",
           "de": "Up ewig ungedeelt",
-          "en": "Forever undivided"
+          "en": "Forever undivided",
+          "fr": "À jamais indivisibles",
+          "es": "Para siempre indivisibles",
+          "it": "Per sempre indivisi",
+          "pt": "Para sempre indivisíveis",
+          "nl": "Voor eeuwig ongedeeld",
+          "pl": "Na zawsze niepodzielne",
+          "tr": "Sonsuza dek bölünmez",
+          "zh": "永远不可分割",
+          "ja": "永遠に分かたれず",
+          "ko": "영원히 나뉘지 않음",
+          "hi": "सदा अविभाज्य",
+          "ar": "غير منقسمين إلى الأبد"
         },
         "description": {
           "ru": "Фраза up ewig ungedeelt, связанная со Шлезвигом и Гольштейном, означала идею их нераздельности. Но история показала, что политические границы региона менялись не раз.",
           "de": "Die Formel up ewig ungedeelt, verbunden mit Schleswig und Holstein, meinte ihre Unteilbarkeit. Die Geschichte zeigte jedoch, dass sich die politischen Grenzen der Region mehrfach veraenderten.",
-          "en": "The phrase up ewig ungedeelt, linked with Schleswig and Holstein, expressed the idea that they should remain undivided. History showed, however, that the region's political borders changed more than once."
+          "en": "The phrase up ewig ungedeelt, linked with Schleswig and Holstein, expressed the idea that they should remain undivided. History showed, however, that the region's political borders changed more than once.",
+          "fr": "La formule up ewig ungedeelt, liée au Schleswig et au Holstein, exprimait l'idée de leur indivisibilité. L'histoire montra pourtant que les frontières politiques de la région changèrent plusieurs fois.",
+          "es": "La frase up ewig ungedeelt, ligada a Schleswig y Holstein, expresaba la idea de que debían permanecer indivisos. Sin embargo, la historia mostró que las fronteras políticas de la región cambiaron más de una vez.",
+          "it": "La formula up ewig ungedeelt, legata a Schleswig e Holstein, esprimeva l'idea della loro indivisibilità. La storia mostrò però che i confini politici della regione cambiarono più volte.",
+          "pt": "A frase up ewig ungedeelt, ligada a Schleswig e Holstein, expressava a ideia de que deveriam permanecer indivisíveis. A história mostrou, porém, que as fronteiras políticas da região mudaram mais de uma vez.",
+          "nl": "De uitdrukking up ewig ungedeelt, verbonden met Sleeswijk en Holstein, drukte hun ondeelbaarheid uit. De geschiedenis liet echter zien dat de politieke grenzen van de regio meer dan eens veranderden.",
+          "pl": "Zwrot up ewig ungedeelt, związany ze Szlezwikiem i Holsztynem, wyrażał ideę ich niepodzielności. Historia pokazała jednak, że granice polityczne regionu zmieniały się wielokrotnie.",
+          "tr": "Schleswig ve Holstein ile bağlantılı up ewig ungedeelt sözü, onların bölünmez kalması fikrini ifade ediyordu. Ancak tarih, bölgenin siyasi sınırlarının birden çok kez değiştiğini gösterdi.",
+          "zh": "与石勒苏益格和荷尔斯泰因相关的短语 up ewig ungedeelt 表达了它们应保持不可分割的理念。然而历史表明，该地区的政治边界不止一次发生变化。",
+          "ja": "シュレースヴィヒとホルシュタインに結びつく up ewig ungedeelt という言葉は、両者が分かたれないという考えを表していた。しかし歴史は、この地域の政治的境界が何度も変わったことを示した。",
+          "ko": "슐레스비히와 홀슈타인과 관련된 up ewig ungedeelt라는 표현은 둘이 나뉘지 않아야 한다는 생각을 담고 있었다. 그러나 역사는 이 지역의 정치적 경계가 여러 차례 바뀌었음을 보여 주었다.",
+          "hi": "श्लेस्विग और होल्स्टाइन से जुड़ा वाक्य up ewig ungedeelt उनके अविभाज्य रहने की धारणा व्यक्त करता था। लेकिन इतिहास ने दिखाया कि क्षेत्र की राजनीतिक सीमाएँ कई बार बदलीं।",
+          "ar": "عبارة up ewig ungedeelt المرتبطة بشليسفيغ وهولشتاين عبّرت عن فكرة بقائهما غير منقسمين. لكن التاريخ أظهر أن الحدود السياسية للمنطقة تغيرت أكثر من مرة."
         },
         "importance": {
           "ru": "Иногда лозунг о вечности особенно хорошо показывает, насколько изменчива история границ.",
           "de": "Manchmal zeigt gerade ein Spruch von Ewigkeit, wie wandelbar Grenzgeschichte ist.",
-          "en": "Sometimes a slogan about eternity shows especially well how changeable border history can be."
+          "en": "Sometimes a slogan about eternity shows especially well how changeable border history can be.",
+          "fr": "Parfois, un slogan sur l'éternité montre particulièrement bien combien l'histoire des frontières peut changer.",
+          "es": "A veces un lema sobre la eternidad muestra muy bien lo cambiante que puede ser la historia de las fronteras.",
+          "it": "A volte uno slogan sull'eternità mostra particolarmente bene quanto possa essere mutevole la storia dei confini.",
+          "pt": "Às vezes, um lema sobre eternidade mostra muito bem como a história das fronteiras pode mudar.",
+          "nl": "Soms laat juist een leus over eeuwigheid goed zien hoe veranderlijk grensgeschiedenis kan zijn.",
+          "pl": "Czasem hasło o wieczności szczególnie dobrze pokazuje, jak zmienna bywa historia granic.",
+          "tr": "Bazen sonsuzluk hakkındaki bir slogan, sınır tarihinin ne kadar değişken olabileceğini özellikle iyi gösterir.",
+          "zh": "有时，一个关于永恒的口号反而特别能说明边界历史多么易变。",
+          "ja": "時には永遠についての標語が、国境の歴史がいかに変わりやすいかをよく示す。",
+          "ko": "때로는 영원에 관한 구호가 국경의 역사가 얼마나 변할 수 있는지를 특히 잘 보여 준다.",
+          "hi": "कभी-कभी अनंतता का नारा सीमाओं के इतिहास की परिवर्तनशीलता को विशेष रूप से अच्छी तरह दिखाता है।",
+          "ar": "أحياناً يُظهر شعار عن الأبدية بشكل خاص مدى تغير تاريخ الحدود."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После войны Дания уступила Шлезвиг, Гольштейн и Лауэнбург Пруссии и Австрии.",
     "de": "Nach dem Krieg trat Daenemark Schleswig, Holstein und Lauenburg an Preussen und Oesterreich ab.",
-    "en": "After the war, Denmark ceded Schleswig, Holstein and Lauenburg to Prussia and Austria."
+    "en": "After the war, Denmark ceded Schleswig, Holstein and Lauenburg to Prussia and Austria.",
+    "fr": "Après la guerre, le Danemark céda le Schleswig, le Holstein et le Lauenburg à la Prusse et à l'Autriche.",
+    "es": "Después de la guerra, Dinamarca cedió Schleswig, Holstein y Lauenburg a Prusia y Austria.",
+    "it": "Dopo la guerra, la Danimarca cedette Schleswig, Holstein e Lauenburg a Prussia e Austria.",
+    "pt": "Depois da guerra, a Dinamarca cedeu Schleswig, Holstein e Lauenburg à Prússia e à Áustria.",
+    "nl": "Na de oorlog stond Denemarken Sleeswijk, Holstein en Lauenburg af aan Pruisen en Oostenrijk.",
+    "pl": "Po wojnie Dania odstąpiła Szlezwik, Holsztyn i Lauenburg Prusom i Austrii.",
+    "tr": "Savaştan sonra Danimarka Schleswig, Holstein ve Lauenburg'u Prusya ve Avusturya'ya bıraktı.",
+    "zh": "战后，丹麦将石勒苏益格、荷尔斯泰因和劳恩堡割让给普鲁士和奥地利。",
+    "ja": "戦後、デンマークはシュレースヴィヒ、ホルシュタイン、ラウエンブルクをプロイセンとオーストリアに割譲した。",
+    "ko": "전쟁 후 덴마크는 슐레스비히, 홀슈타인, 라우엔부르크를 프로이센과 오스트리아에 양도했다.",
+    "hi": "युद्ध के बाद डेनमार्क ने श्लेस्विग, होल्स्टाइन और लाउएनबुर्ग प्रशिया और ऑस्ट्रिया को सौंप दिए।",
+    "ar": "بعد الحرب تنازلت الدنمارك عن شليسفيغ وهولشتاين ولاونبورغ لبروسيا والنمسا."
   },
   "sources": [
     {

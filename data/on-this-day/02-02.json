@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Любеке собрался первый ганзейский съезд",
       "de": "In Luebeck tritt der erste Hansetag zusammen",
-      "en": "The first Hanseatic Diet meets in Luebeck"
+      "en": "The first Hanseatic Diet meets in Luebeck",
+      "fr": "Le premier congrès hanséatique se réunit à Lübeck",
+      "es": "Se reúne en Lübeck la primera Dieta Hanseática",
+      "it": "Si riunisce a Lubecca la prima Dieta anseatica",
+      "pt": "A primeira Dieta Hanseática reúne-se em Lübeck",
+      "nl": "De eerste Hanzedag komt bijeen in Lübeck",
+      "pl": "W Lubece zbiera się pierwszy zjazd hanzeatycki",
+      "tr": "İlk Hansa Meclisi Lübeck'te toplanır",
+      "zh": "第一次汉萨会议在吕贝克召开",
+      "ja": "最初のハンザ会議がリューベックで開かれる",
+      "ko": "첫 한자 회의가 뤼베크에서 열리다",
+      "hi": "पहला हैंज़ीयाटिक सम्मेलन ल्यूबेक में हुआ",
+      "ar": "انعقاد أول مجلس هانزي في لوبيك"
     },
     "description": {
       "ru": "2 февраля 1356 года в Любеке прошёл один из первых общих съездов ганзейских городов. Ганза постепенно превращалась из сети купцов в союз городов Северной Европы.",
       "de": "Am 2. Februar 1356 fand in Luebeck einer der ersten allgemeinen Hansetage statt. Die Hanse entwickelte sich allmaehlich von einem Kaufmannsnetz zu einem Staedtebund Nordeuropas.",
-      "en": "On 2 February 1356, one of the first general Hanseatic Diets met in Luebeck. The Hanse gradually developed from a merchant network into a league of northern European cities."
+      "en": "On 2 February 1356, one of the first general Hanseatic Diets met in Luebeck. The Hanse gradually developed from a merchant network into a league of northern European cities.",
+      "fr": "Le 2 février 1356, l'un des premiers congrès généraux des villes hanséatiques se tint à Lübeck. La Hanse passa peu à peu d'un réseau de marchands à une ligue de villes d'Europe du Nord.",
+      "es": "El 2 de febrero de 1356 se celebró en Lübeck una de las primeras reuniones generales de las ciudades hanseáticas. La Hansa pasó poco a poco de una red de comerciantes a una liga de ciudades del norte de Europa.",
+      "it": "Il 2 febbraio 1356 si tenne a Lubecca uno dei primi congressi generali delle città anseatiche. La Hansa si trasformò gradualmente da rete di mercanti in lega di città dell'Europa settentrionale.",
+      "pt": "Em 2 de fevereiro de 1356, realizou-se em Lübeck uma das primeiras assembleias gerais das cidades hanseáticas. A Hansa passou gradualmente de uma rede de mercadores a uma liga de cidades do norte da Europa.",
+      "nl": "Op 2 februari 1356 vond in Lübeck een van de eerste algemene Hanzedagen plaats. De Hanze ontwikkelde zich geleidelijk van een koopmansnetwerk tot een stedenbond van Noord-Europa.",
+      "pl": "2 lutego 1356 roku w Lubece odbył się jeden z pierwszych ogólnych zjazdów miast hanzeatyckich. Hanza stopniowo zmieniała się z sieci kupców w związek miast północnej Europy.",
+      "tr": "2 Şubat 1356'da Lübeck'te ilk genel Hansa toplantılarından biri yapıldı. Hansa yavaş yavaş bir tüccar ağından Kuzey Avrupa şehirleri birliğine dönüştü.",
+      "zh": "1356年2月2日，最早的汉萨城市总会议之一在吕贝克举行。汉萨逐渐从商人网络发展为北欧城市联盟。",
+      "ja": "1356年2月2日、リューベックで最初期の一般ハンザ会議の一つが開かれた。ハンザは商人ネットワークから北ヨーロッパの都市同盟へと徐々に発展した。",
+      "ko": "1356년 2월 2일 뤼베크에서 초기의 일반 한자 회의 중 하나가 열렸다. 한자는 상인 네트워크에서 북유럽 도시 동맹으로 서서히 발전했다.",
+      "hi": "2 फरवरी 1356 को ल्यूबेक में हैंज़ीयाटिक नगरों की शुरुआती आम सभाओं में से एक हुई। हैंज़ा धीरे-धीरे व्यापारियों के नेटवर्क से उत्तरी यूरोप के नगर-संघ में बदल गई।",
+      "ar": "في 2 فبراير 1356 عُقد في لوبيك أحد أوائل الاجتماعات العامة للمدن الهانزية. وتطورت الهانزا تدريجياً من شبكة تجار إلى اتحاد مدن في شمال أوروبا."
     },
     "importance": {
       "ru": "Дата важна для истории северной Германии, торговли Балтики и городского самоуправления.",
       "de": "Das Datum ist wichtig fuer die Geschichte Norddeutschlands, des Ostseehandels und staedtischer Selbstverwaltung.",
-      "en": "The date is important for the history of northern Germany, Baltic trade and urban self-government."
+      "en": "The date is important for the history of northern Germany, Baltic trade and urban self-government.",
+      "fr": "Cette date est importante pour l'histoire du nord de l'Allemagne, du commerce baltique et de l'autonomie urbaine.",
+      "es": "La fecha es importante para la historia del norte de Alemania, el comercio báltico y el autogobierno urbano.",
+      "it": "La data è importante per la storia della Germania settentrionale, del commercio baltico e dell'autogoverno urbano.",
+      "pt": "A data é importante para a história do norte da Alemanha, do comércio báltico e da autonomia urbana.",
+      "nl": "De datum is belangrijk voor de geschiedenis van Noord-Duitsland, de Oostzeehandel en stedelijk zelfbestuur.",
+      "pl": "Ta data jest ważna dla historii północnych Niemiec, handlu bałtyckiego i miejskiego samorządu.",
+      "tr": "Bu tarih Kuzey Almanya tarihi, Baltık ticareti ve şehir özyönetimi için önemlidir.",
+      "zh": "这个日期对德国北部历史、波罗的海贸易和城市自治很重要。",
+      "ja": "この日付は北ドイツ、バルト海交易、都市自治の歴史にとって重要である。",
+      "ko": "이 날짜는 북독일 역사, 발트해 무역, 도시 자치의 역사에서 중요하다.",
+      "hi": "यह तारीख उत्तरी जर्मनी, बाल्टिक व्यापार और नगर स्वशासन के इतिहास के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لتاريخ شمال ألمانيا وتجارة البلطيق والحكم الذاتي للمدن."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Любек как центр Ганзы",
           "de": "Luebeck als Zentrum der Hanse",
-          "en": "Luebeck as the center of the Hanse"
+          "en": "Luebeck as the center of the Hanse",
+          "fr": "Lübeck comme centre de la Hanse",
+          "es": "Lübeck como centro de la Hansa",
+          "it": "Lubecca come centro della Hansa",
+          "pt": "Lübeck como centro da Hansa",
+          "nl": "Lübeck als centrum van de Hanze",
+          "pl": "Lubeka jako centrum Hanzy",
+          "tr": "Hansa'nın merkezi olarak Lübeck",
+          "zh": "作为汉萨中心的吕贝克",
+          "ja": "ハンザの中心としてのリューベック",
+          "ko": "한자의 중심지 뤼베크",
+          "hi": "हैंज़ा के केंद्र के रूप में ल्यूबेक",
+          "ar": "لوبيك كمركز للهانزا"
         },
         "description": {
           "ru": "Любек занимал удобное положение между Балтийским и Северным морями. Благодаря этому город стал одним из главных центров ганзейской торговли.",
           "de": "Luebeck lag guenstig zwischen Ostsee und Nordsee. Dadurch wurde die Stadt zu einem der wichtigsten Zentren des hansischen Handels.",
-          "en": "Luebeck was well placed between the Baltic and North seas. This helped the city become one of the main centers of Hanseatic trade."
+          "en": "Luebeck was well placed between the Baltic and North seas. This helped the city become one of the main centers of Hanseatic trade.",
+          "fr": "Lübeck était bien située entre la mer Baltique et la mer du Nord. Cela aida la ville à devenir l'un des principaux centres du commerce hanséatique.",
+          "es": "Lübeck estaba bien situada entre el mar Báltico y el mar del Norte. Esto ayudó a la ciudad a convertirse en uno de los principales centros del comercio hanseático.",
+          "it": "Lubecca era ben situata tra il Mar Baltico e il Mare del Nord. Questo aiutò la città a diventare uno dei principali centri del commercio anseatico.",
+          "pt": "Lübeck tinha uma posição favorável entre o mar Báltico e o mar do Norte. Isso ajudou a cidade a tornar-se um dos principais centros do comércio hanseático.",
+          "nl": "Lübeck lag gunstig tussen de Oostzee en de Noordzee. Daardoor werd de stad een van de belangrijkste centra van de Hanzekoophandel.",
+          "pl": "Lubeka miała dogodne położenie między Morzem Bałtyckim a Północnym. Dzięki temu stała się jednym z głównych ośrodków handlu hanzeatyckiego.",
+          "tr": "Lübeck Baltık Denizi ile Kuzey Denizi arasında elverişli bir konumdaydı. Bu, şehrin Hansa ticaretinin başlıca merkezlerinden biri olmasına yardım etti.",
+          "zh": "吕贝克位于波罗的海和北海之间，位置优越。这帮助这座城市成为汉萨贸易的主要中心之一。",
+          "ja": "リューベックはバルト海と北海の間に位置し、地理的に恵まれていた。そのため、この都市はハンザ交易の主要中心地の一つとなった。",
+          "ko": "뤼베크는 발트해와 북해 사이에 유리하게 자리 잡고 있었다. 이 때문에 도시는 한자 무역의 주요 중심지 중 하나가 되었다.",
+          "hi": "ल्यूबेक बाल्टिक और उत्तरी सागर के बीच अनुकूल स्थान पर था। इससे शहर हैंज़ीयाटिक व्यापार के मुख्य केंद्रों में से एक बन गया।",
+          "ar": "كان موقع لوبيك مناسباً بين بحر البلطيق وبحر الشمال. وساعد ذلك المدينة على أن تصبح أحد أهم مراكز التجارة الهانزية."
         },
         "importance": {
           "ru": "Ганза показывает Германию не только как страну князей и империй, но и как сеть торговых городов.",
           "de": "Die Hanse zeigt Deutschland nicht nur als Land von Fuersten und Reichen, sondern als Netz von Handelsstaedten.",
-          "en": "The Hanse shows Germany not only as a land of princes and empires, but as a network of trading cities."
+          "en": "The Hanse shows Germany not only as a land of princes and empires, but as a network of trading cities.",
+          "fr": "La Hanse montre l'Allemagne non seulement comme un pays de princes et d'empires, mais aussi comme un réseau de villes marchandes.",
+          "es": "La Hansa muestra Alemania no solo como tierra de príncipes e imperios, sino también como red de ciudades comerciales.",
+          "it": "La Hansa mostra la Germania non solo come terra di principi e imperi, ma anche come rete di città commerciali.",
+          "pt": "A Hansa mostra a Alemanha não apenas como terra de príncipes e impérios, mas também como rede de cidades comerciais.",
+          "nl": "De Hanze toont Duitsland niet alleen als land van vorsten en rijken, maar ook als netwerk van handelssteden.",
+          "pl": "Hanza pokazuje Niemcy nie tylko jako kraj książąt i imperiów, lecz także jako sieć miast handlowych.",
+          "tr": "Hansa, Almanya'yı yalnızca prensler ve imparatorluklar ülkesi değil, ticaret şehirleri ağı olarak da gösterir.",
+          "zh": "汉萨展示的德国不仅是诸侯和帝国之地，也是贸易城市的网络。",
+          "ja": "ハンザはドイツを、諸侯や帝国の国としてだけでなく、交易都市のネットワークとしても示している。",
+          "ko": "한자는 독일을 군주와 제국의 땅일 뿐 아니라 무역 도시들의 네트워크로도 보여 준다.",
+          "hi": "हैंज़ा जर्मनी को केवल राजकुमारों और साम्राज्यों की भूमि नहीं, बल्कि व्यापारिक नगरों के नेटवर्क के रूप में भी दिखाती है।",
+          "ar": "تُظهر الهانزا ألمانيا لا كأرض أمراء وإمبراطوريات فقط، بل كشبكة من المدن التجارية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Ганзейский союз не имел одного точного дня основания; он вырос постепенно из торговых связей и городских союзов.",
     "de": "Die Hanse hatte keinen einzigen exakten Gruendungstag; sie wuchs schrittweise aus Handelsbeziehungen und Staedtebuenden.",
-    "en": "The Hanseatic League had no single exact founding day; it grew gradually from trade ties and city alliances."
+    "en": "The Hanseatic League had no single exact founding day; it grew gradually from trade ties and city alliances.",
+    "fr": "La Ligue hanséatique n'eut pas un seul jour exact de fondation; elle grandit peu à peu à partir de liens commerciaux et d'alliances urbaines.",
+    "es": "La Liga Hanseática no tuvo un único día exacto de fundación; creció gradualmente a partir de vínculos comerciales y alianzas de ciudades.",
+    "it": "La Lega anseatica non ebbe un solo giorno esatto di fondazione; crebbe gradualmente da legami commerciali e alleanze di città.",
+    "pt": "A Liga Hanseática não teve um único dia exato de fundação; cresceu gradualmente a partir de laços comerciais e alianças urbanas.",
+    "nl": "De Hanze had geen enkele exacte stichtingsdag; zij groeide geleidelijk uit handelsbanden en stedenverbonden.",
+    "pl": "Związek Hanzeatycki nie miał jednego dokładnego dnia założenia; wyrastał stopniowo z więzi handlowych i sojuszy miast.",
+    "tr": "Hansa Birliği'nin tek ve kesin bir kuruluş günü yoktu; ticaret bağları ve şehir ittifaklarından yavaş yavaş büyüdü.",
+    "zh": "汉萨同盟没有一个确切的成立日；它是从贸易联系和城市联盟中逐渐发展起来的。",
+    "ja": "ハンザ同盟には一つの正確な創設日がなかった。交易関係と都市同盟から徐々に成長した。",
+    "ko": "한자 동맹에는 하나의 정확한 창립일이 없었다. 무역 관계와 도시 동맹에서 점차 성장했다.",
+    "hi": "हैंज़ीयाटिक संघ का कोई एक सटीक स्थापना दिवस नहीं था; यह व्यापारिक संबंधों और नगर-गठबंधनों से धीरे-धीरे विकसित हुआ।",
+    "ar": "لم يكن للرابطة الهانزية يوم تأسيس واحد دقيق؛ فقد نمت تدريجياً من روابط تجارية وتحالفات بين المدن."
   },
   "sources": [
     {

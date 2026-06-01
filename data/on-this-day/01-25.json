@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Вильгельм Фуртвенглер",
       "de": "Wilhelm Furtwaengler wird geboren",
-      "en": "Wilhelm Furtwaengler is born"
+      "en": "Wilhelm Furtwaengler is born",
+      "fr": "Naissance de Wilhelm Furtwängler",
+      "es": "Nace Wilhelm Furtwängler",
+      "it": "Nasce Wilhelm Furtwängler",
+      "pt": "Nasce Wilhelm Furtwängler",
+      "nl": "Wilhelm Furtwängler wordt geboren",
+      "pl": "Urodził się Wilhelm Furtwängler",
+      "tr": "Wilhelm Furtwängler doğdu",
+      "zh": "威廉·富特文格勒诞生",
+      "ja": "ヴィルヘルム・フルトヴェングラーが生まれる",
+      "ko": "빌헬름 푸르트벵글러가 태어나다",
+      "hi": "विल्हेल्म फुर्टवेंगलर का जन्म हुआ",
+      "ar": "ميلاد فيلهلم فورتفنغلر"
     },
     "description": {
       "ru": "25 января 1886 года в Берлине родился дирижёр Вильгельм Фуртвенглер. Он стал одним из самых известных немецких музыкантов XX века и много лет работал с Берлинским филармоническим оркестром.",
       "de": "Am 25. Januar 1886 wurde der Dirigent Wilhelm Furtwaengler in Berlin geboren. Er wurde einer der bekanntesten deutschen Musiker des 20. Jahrhunderts und arbeitete viele Jahre mit den Berliner Philharmonikern.",
-      "en": "On 25 January 1886, conductor Wilhelm Furtwaengler was born in Berlin. He became one of the best-known German musicians of the twentieth century and worked for many years with the Berlin Philharmonic."
+      "en": "On 25 January 1886, conductor Wilhelm Furtwaengler was born in Berlin. He became one of the best-known German musicians of the twentieth century and worked for many years with the Berlin Philharmonic.",
+      "fr": "Le 25 janvier 1886, le chef d'orchestre Wilhelm Furtwängler naquit à Berlin. Il devint l'un des musiciens allemands les plus connus du XXe siècle et travailla longtemps avec l'Orchestre philharmonique de Berlin.",
+      "es": "El 25 de enero de 1886 nació en Berlín el director Wilhelm Furtwängler. Llegó a ser uno de los músicos alemanes más conocidos del siglo XX y trabajó muchos años con la Filarmónica de Berlín.",
+      "it": "Il 25 gennaio 1886 nacque a Berlino il direttore Wilhelm Furtwängler. Divenne uno dei musicisti tedeschi più noti del XX secolo e lavorò per molti anni con i Berliner Philharmoniker.",
+      "pt": "Em 25 de janeiro de 1886 nasceu em Berlim o maestro Wilhelm Furtwängler. Ele se tornou um dos músicos alemães mais conhecidos do século XX e trabalhou por muitos anos com a Filarmônica de Berlim.",
+      "nl": "Op 25 januari 1886 werd dirigent Wilhelm Furtwängler in Berlijn geboren. Hij werd een van de bekendste Duitse musici van de twintigste eeuw en werkte jarenlang met de Berliner Philharmoniker.",
+      "pl": "25 stycznia 1886 roku w Berlinie urodził się dyrygent Wilhelm Furtwängler. Stał się jednym z najbardziej znanych niemieckich muzyków XX wieku i przez wiele lat pracował z Filharmonikami Berlińskimi.",
+      "tr": "25 Ocak 1886'da şef Wilhelm Furtwängler Berlin'de doğdu. Yirminci yüzyılın en tanınmış Alman müzisyenlerinden biri oldu ve uzun yıllar Berlin Filarmoni Orkestrası ile çalıştı.",
+      "zh": "1886年1月25日，指挥家威廉·富特文格勒出生于柏林。他成为20世纪最著名的德国音乐家之一，并长期与柏林爱乐乐团合作。",
+      "ja": "1886年1月25日、指揮者ヴィルヘルム・フルトヴェングラーがベルリンで生まれた。彼は20世紀ドイツで最も有名な音楽家の一人となり、長年ベルリン・フィルハーモニー管弦楽団と活動した。",
+      "ko": "1886년 1월 25일 지휘자 빌헬름 푸르트벵글러가 베를린에서 태어났다. 그는 20세기 독일의 가장 유명한 음악가 중 한 명이 되었고 베를린 필하모닉과 오랫동안 함께했다.",
+      "hi": "25 जनवरी 1886 को बर्लिन में संचालक विल्हेल्म फुर्टवेंगलर का जन्म हुआ। वे बीसवीं सदी के सबसे प्रसिद्ध जर्मन संगीतकारों में से एक बने और कई वर्षों तक बर्लिन फिलहारमोनिक के साथ काम किया।",
+      "ar": "في 25 يناير 1886 وُلد قائد الأوركسترا فيلهلم فورتفنغلر في برلين. أصبح أحد أشهر الموسيقيين الألمان في القرن العشرين وعمل سنوات طويلة مع أوركسترا برلين الفيلهارمونية."
     },
     "importance": {
       "ru": "Его биография показывает величие немецкой музыкальной традиции и одновременно трудные вопросы культуры при диктатуре.",
       "de": "Seine Biografie zeigt die Groesse der deutschen Musiktradition und zugleich schwierige Fragen von Kultur in der Diktatur.",
-      "en": "His biography shows the greatness of the German musical tradition and also the difficult questions of culture under dictatorship."
+      "en": "His biography shows the greatness of the German musical tradition and also the difficult questions of culture under dictatorship.",
+      "fr": "Sa biographie montre la grandeur de la tradition musicale allemande, mais aussi les questions difficiles de la culture sous une dictature.",
+      "es": "Su biografía muestra la grandeza de la tradición musical alemana y también las difíciles preguntas sobre la cultura bajo una dictadura.",
+      "it": "La sua biografia mostra la grandezza della tradizione musicale tedesca e anche le difficili domande sulla cultura sotto una dittatura.",
+      "pt": "Sua biografia mostra a grandeza da tradição musical alemã e também as questões difíceis da cultura sob uma ditadura.",
+      "nl": "Zijn biografie toont de grootheid van de Duitse muzikale traditie en tegelijk de moeilijke vragen over cultuur onder een dictatuur.",
+      "pl": "Jego biografia pokazuje wielkość niemieckiej tradycji muzycznej, a zarazem trudne pytania o kulturę w dyktaturze.",
+      "tr": "Biyografisi Alman müzik geleneğinin büyüklüğünü, aynı zamanda diktatörlük altında kültürün zor sorularını gösterir.",
+      "zh": "他的生平既展示了德国音乐传统的伟大，也提出了独裁统治下文化的艰难问题。",
+      "ja": "彼の生涯はドイツ音楽伝統の偉大さと、独裁下の文化をめぐる難しい問題の両方を示している。",
+      "ko": "그의 생애는 독일 음악 전통의 위대함과 독재 아래 문화가 마주한 어려운 질문을 함께 보여 준다.",
+      "hi": "उनकी जीवनी जर्मन संगीत परंपरा की महानता और तानाशाही में संस्कृति से जुड़े कठिन प्रश्न दोनों दिखाती है।",
+      "ar": "تُظهر سيرته عظمة التقليد الموسيقي الألماني، وفي الوقت نفسه الأسئلة الصعبة حول الثقافة في ظل الدكتاتورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Берлинская филармония",
           "de": "Berliner Philharmoniker",
-          "en": "Berlin Philharmonic"
+          "en": "Berlin Philharmonic",
+          "fr": "Philharmonie de Berlin",
+          "es": "Filarmónica de Berlín",
+          "it": "Filarmonica di Berlino",
+          "pt": "Filarmônica de Berlim",
+          "nl": "Berliner Philharmoniker",
+          "pl": "Filharmonicy Berlińscy",
+          "tr": "Berlin Filarmoni",
+          "zh": "柏林爱乐乐团",
+          "ja": "ベルリン・フィルハーモニー",
+          "ko": "베를린 필하모닉",
+          "hi": "बर्लिन फिलहारमोनिक",
+          "ar": "أوركسترا برلين الفيلهارمونية"
         },
         "description": {
           "ru": "Фуртвенглер стал главным дирижёром Берлинского филармонического оркестра в 1920-е годы. Его трактовки Бетховена, Брамса и Брукнера долго считались образцовыми для немецкой симфонической школы.",
           "de": "Furtwaengler wurde in den 1920er Jahren Chefdirigent der Berliner Philharmoniker. Seine Deutungen von Beethoven, Brahms und Bruckner galten lange als praegend fuer die deutsche symphonische Tradition.",
-          "en": "Furtwaengler became chief conductor of the Berlin Philharmonic in the 1920s. His interpretations of Beethoven, Brahms and Bruckner long shaped the German symphonic tradition."
+          "en": "Furtwaengler became chief conductor of the Berlin Philharmonic in the 1920s. His interpretations of Beethoven, Brahms and Bruckner long shaped the German symphonic tradition.",
+          "fr": "Furtwängler devint chef principal de la Philharmonie de Berlin dans les années 1920. Ses interprétations de Beethoven, Brahms et Bruckner marquèrent longtemps la tradition symphonique allemande.",
+          "es": "Furtwängler se convirtió en director principal de la Filarmónica de Berlín en la década de 1920. Sus interpretaciones de Beethoven, Brahms y Bruckner marcaron durante mucho tiempo la tradición sinfónica alemana.",
+          "it": "Furtwängler divenne direttore principale dei Berliner Philharmoniker negli anni Venti. Le sue interpretazioni di Beethoven, Brahms e Bruckner segnarono a lungo la tradizione sinfonica tedesca.",
+          "pt": "Furtwängler tornou-se maestro principal da Filarmônica de Berlim nos anos 1920. Suas interpretações de Beethoven, Brahms e Bruckner marcaram por muito tempo a tradição sinfônica alemã.",
+          "nl": "Furtwängler werd in de jaren twintig chef-dirigent van de Berliner Philharmoniker. Zijn interpretaties van Beethoven, Brahms en Bruckner bepaalden lang de Duitse symfonische traditie.",
+          "pl": "Furtwängler został w latach 20. głównym dyrygentem Filharmoników Berlińskich. Jego interpretacje Beethovena, Brahmsa i Brucknera długo kształtowały niemiecką tradycję symfoniczną.",
+          "tr": "Furtwängler 1920'lerde Berlin Filarmoni'nin baş şefi oldu. Beethoven, Brahms ve Bruckner yorumları uzun süre Alman senfonik geleneğini şekillendirdi.",
+          "zh": "富特文格勒在20世纪20年代成为柏林爱乐乐团首席指挥。他对贝多芬、勃拉姆斯和布鲁克纳的诠释长期影响德国交响乐传统。",
+          "ja": "フルトヴェングラーは1920年代にベルリン・フィルの首席指揮者となった。ベートーヴェン、ブラームス、ブルックナーの解釈は、長くドイツ交響楽の伝統を形作った。",
+          "ko": "푸르트벵글러는 1920년대 베를린 필하모닉의 수석 지휘자가 되었다. 베토벤, 브람스, 브루크너 해석은 오랫동안 독일 교향악 전통을 형성했다.",
+          "hi": "फुर्टवेंगलर 1920 के दशक में बर्लिन फिलहारमोनिक के मुख्य संचालक बने। बीथोवेन, ब्राह्म्स और ब्रुकनर की उनकी व्याख्याएँ लंबे समय तक जर्मन सिम्फोनिक परंपरा को आकार देती रहीं।",
+          "ar": "أصبح فورتفنغلر القائد الرئيسي لأوركسترا برلين الفيلهارمونية في عشرينيات القرن العشرين. وظلت تفسيراته لبيتهوفن وبرامز وبروكنر مؤثرة طويلاً في التقليد السمفوني الألماني."
         },
         "importance": {
           "ru": "Через него хорошо видно, почему Берлин был одним из музыкальных центров Европы.",
           "de": "An ihm laesst sich gut erkennen, warum Berlin eines der musikalischen Zentren Europas war.",
-          "en": "His career shows why Berlin was one of Europe's musical centers."
+          "en": "His career shows why Berlin was one of Europe's musical centers.",
+          "fr": "Sa carrière montre pourquoi Berlin fut l'un des centres musicaux de l'Europe.",
+          "es": "Su carrera muestra por qué Berlín fue uno de los centros musicales de Europa.",
+          "it": "La sua carriera mostra perché Berlino fu uno dei centri musicali d'Europa.",
+          "pt": "Sua carreira mostra por que Berlim foi um dos centros musicais da Europa.",
+          "nl": "Zijn loopbaan laat zien waarom Berlijn een van de muzikale centra van Europa was.",
+          "pl": "Jego kariera pokazuje, dlaczego Berlin był jednym z muzycznych centrów Europy.",
+          "tr": "Kariyeri, Berlin'in neden Avrupa'nın müzik merkezlerinden biri olduğunu gösterir.",
+          "zh": "他的职业生涯说明了为什么柏林是欧洲音乐中心之一。",
+          "ja": "彼の経歴は、ベルリンがヨーロッパの音楽中心地の一つだった理由を示している。",
+          "ko": "그의 경력은 베를린이 왜 유럽의 음악 중심지 중 하나였는지를 보여 준다.",
+          "hi": "उनका करियर दिखाता है कि बर्लिन यूरोप के संगीत केंद्रों में से एक क्यों था।",
+          "ar": "تُظهر مسيرته لماذا كانت برلين أحد المراكز الموسيقية في أوروبا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Сложная репутация",
           "de": "Schwieriger Ruf",
-          "en": "A difficult reputation"
+          "en": "A difficult reputation",
+          "fr": "Une réputation difficile",
+          "es": "Una reputación difícil",
+          "it": "Una reputazione difficile",
+          "pt": "Uma reputação difícil",
+          "nl": "Een moeilijke reputatie",
+          "pl": "Trudna reputacja",
+          "tr": "Zor bir itibar",
+          "zh": "复杂的声誉",
+          "ja": "難しい評価",
+          "ko": "어려운 평판",
+          "hi": "जटिल प्रतिष्ठा",
+          "ar": "سمعة معقدة"
         },
         "description": {
           "ru": "Фуртвенглер оставался в Германии при нацистском режиме, из-за чего после войны его роль обсуждали особенно остро. Одни видели в нём защитника немецкой музыки, другие задавали вопрос о сотрудничестве с режимом.",
           "de": "Furtwaengler blieb waehrend des NS-Regimes in Deutschland, weshalb seine Rolle nach dem Krieg heftig diskutiert wurde. Die einen sahen in ihm einen Bewahrer deutscher Musik, andere fragten nach seiner Naehe zum Regime.",
-          "en": "Furtwaengler remained in Germany under the Nazi regime, which made his role after the war highly controversial. Some saw him as a defender of German music, while others questioned his closeness to the regime."
+          "en": "Furtwaengler remained in Germany under the Nazi regime, which made his role after the war highly controversial. Some saw him as a defender of German music, while others questioned his closeness to the regime.",
+          "fr": "Furtwängler resta en Allemagne sous le régime nazi, ce qui rendit son rôle très controversé après la guerre. Certains virent en lui un défenseur de la musique allemande, d'autres interrogèrent sa proximité avec le régime.",
+          "es": "Furtwängler permaneció en Alemania bajo el régimen nazi, por lo que su papel fue muy discutido después de la guerra. Unos lo veían como defensor de la música alemana, otros cuestionaban su cercanía al régimen.",
+          "it": "Furtwängler rimase in Germania sotto il regime nazista, e per questo il suo ruolo fu molto discusso dopo la guerra. Alcuni lo videro come difensore della musica tedesca, altri misero in discussione la sua vicinanza al regime.",
+          "pt": "Furtwängler permaneceu na Alemanha sob o regime nazista, o que tornou seu papel muito controverso depois da guerra. Alguns o viam como defensor da música alemã; outros questionavam sua proximidade com o regime.",
+          "nl": "Furtwängler bleef tijdens het naziregime in Duitsland, waardoor zijn rol na de oorlog fel werd besproken. Sommigen zagen hem als verdediger van Duitse muziek, anderen vroegen naar zijn nabijheid tot het regime.",
+          "pl": "Furtwängler pozostał w Niemczech podczas reżimu nazistowskiego, dlatego po wojnie jego rola była ostro dyskutowana. Jedni widzieli w nim obrońcę niemieckiej muzyki, inni pytali o jego bliskość wobec reżimu.",
+          "tr": "Furtwängler Nazi rejimi sırasında Almanya'da kaldı; bu yüzden savaştan sonra rolü çok tartışıldı. Kimileri onu Alman müziğinin savunucusu olarak gördü, kimileri rejime yakınlığını sorguladı.",
+          "zh": "富特文格勒在纳粹政权时期留在德国，因此战后他的角色备受争议。有人认为他维护了德国音乐，也有人质疑他与政权的关系。",
+          "ja": "フルトヴェングラーはナチ体制下のドイツに留まったため、戦後その役割は激しく議論された。彼をドイツ音楽の擁護者と見る人もいれば、体制との近さを問う人もいた。",
+          "ko": "푸르트벵글러는 나치 정권 아래 독일에 남았고, 전후 그의 역할은 크게 논란이 되었다. 어떤 이들은 그를 독일 음악의 수호자로 보았고, 다른 이들은 정권과의 가까움을 문제 삼았다.",
+          "hi": "फुर्टवेंगलर नाजी शासन के दौरान जर्मनी में रहे, इसलिए युद्ध के बाद उनकी भूमिका पर तीखी बहस हुई। कुछ लोगों ने उन्हें जर्मन संगीत का रक्षक माना, जबकि दूसरों ने शासन से उनकी निकटता पर प्रश्न उठाए।",
+          "ar": "بقي فورتفنغلر في ألمانيا خلال النظام النازي، ولذلك أثير جدل شديد حول دوره بعد الحرب. رأى فيه بعضهم حامياً للموسيقى الألمانية، بينما تساءل آخرون عن قربه من النظام."
         },
         "importance": {
           "ru": "Это помогает говорить о культуре не только как о красоте, но и как об ответственности.",
           "de": "Das hilft, ueber Kultur nicht nur als Schoenheit, sondern auch als Verantwortung zu sprechen.",
-          "en": "It helps discuss culture not only as beauty, but also as responsibility."
+          "en": "It helps discuss culture not only as beauty, but also as responsibility.",
+          "fr": "Cela aide à parler de la culture non seulement comme beauté, mais aussi comme responsabilité.",
+          "es": "Ayuda a hablar de la cultura no solo como belleza, sino también como responsabilidad.",
+          "it": "Aiuta a parlare della cultura non solo come bellezza, ma anche come responsabilità.",
+          "pt": "Isso ajuda a falar da cultura não apenas como beleza, mas também como responsabilidade.",
+          "nl": "Het helpt om over cultuur niet alleen als schoonheid, maar ook als verantwoordelijkheid te spreken.",
+          "pl": "Pomaga to mówić o kulturze nie tylko jako o pięknie, lecz także jako o odpowiedzialności.",
+          "tr": "Bu, kültürü yalnızca güzellik olarak değil, sorumluluk olarak da tartışmaya yardımcı olur.",
+          "zh": "这有助于把文化不仅作为美来讨论，也作为责任来讨论。",
+          "ja": "これは、文化を美しさとしてだけでなく責任としても語る助けになる。",
+          "ko": "이는 문화를 아름다움뿐 아니라 책임으로도 이야기하는 데 도움을 준다.",
+          "hi": "इससे संस्कृति को केवल सुंदरता नहीं, बल्कि जिम्मेदारी के रूप में भी समझने में मदद मिलती है।",
+          "ar": "يساعد ذلك على الحديث عن الثقافة لا بوصفها جمالاً فقط، بل مسؤولية أيضاً."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Фуртвенглер был не только дирижёром, но и композитором.",
     "de": "Furtwaengler war nicht nur Dirigent, sondern auch Komponist.",
-    "en": "Furtwaengler was not only a conductor, but also a composer."
+    "en": "Furtwaengler was not only a conductor, but also a composer.",
+    "fr": "Furtwängler n'était pas seulement chef d'orchestre, mais aussi compositeur.",
+    "es": "Furtwängler no fue solo director, sino también compositor.",
+    "it": "Furtwängler non fu solo direttore d'orchestra, ma anche compositore.",
+    "pt": "Furtwängler não foi apenas maestro, mas também compositor.",
+    "nl": "Furtwängler was niet alleen dirigent, maar ook componist.",
+    "pl": "Furtwängler był nie tylko dyrygentem, lecz także kompozytorem.",
+    "tr": "Furtwängler yalnızca bir şef değil, aynı zamanda besteciydi.",
+    "zh": "富特文格勒不仅是指挥家，也是作曲家。",
+    "ja": "フルトヴェングラーは指揮者であるだけでなく、作曲家でもあった。",
+    "ko": "푸르트벵글러는 지휘자일 뿐 아니라 작곡가이기도 했다.",
+    "hi": "फुर्टवेंगलर केवल संचालक ही नहीं, बल्कि संगीतकार भी थे।",
+    "ar": "لم يكن فورتفنغلر قائد أوركسترا فحسب، بل كان مؤلفاً موسيقياً أيضاً."
   },
   "sources": [
     {

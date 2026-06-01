@@ -11,17 +11,53 @@
     "title": {
       "ru": "Освобождён концлагерь Аушвиц",
       "de": "Das Konzentrationslager Auschwitz wird befreit",
-      "en": "Auschwitz concentration camp is liberated"
+      "en": "Auschwitz concentration camp is liberated",
+      "fr": "Le camp de concentration d'Auschwitz est libéré",
+      "es": "Es liberado el campo de concentración de Auschwitz",
+      "it": "Il campo di concentramento di Auschwitz viene liberato",
+      "pt": "O campo de concentração de Auschwitz é libertado",
+      "nl": "Concentratiekamp Auschwitz wordt bevrijd",
+      "pl": "Wyzwolono obóz koncentracyjny Auschwitz",
+      "tr": "Auschwitz toplama kampı kurtarılır",
+      "zh": "奥斯维辛集中营获解放",
+      "ja": "アウシュヴィッツ強制収容所が解放される",
+      "ko": "아우슈비츠 강제수용소가 해방되다",
+      "hi": "ऑशविट्स एकाग्रता शिविर मुक्त हुआ",
+      "ar": "تحرير معسكر أوشفيتز"
     },
     "description": {
       "ru": "27 января 1945 года советские войска освободили комплекс лагерей Аушвиц. Это место стало одним из главных символов Холокоста и преступлений нацистской Германии.",
       "de": "Am 27. Januar 1945 befreiten sowjetische Truppen den Lagerkomplex Auschwitz. Der Ort wurde zu einem der wichtigsten Symbole des Holocaust und der Verbrechen NS-Deutschlands.",
-      "en": "On 27 January 1945, Soviet troops liberated the Auschwitz camp complex. The site became one of the central symbols of the Holocaust and Nazi Germany's crimes."
+      "en": "On 27 January 1945, Soviet troops liberated the Auschwitz camp complex. The site became one of the central symbols of the Holocaust and Nazi Germany's crimes.",
+      "fr": "Le 27 janvier 1945, les troupes soviétiques libérèrent le complexe de camps d'Auschwitz. Ce lieu devint l'un des principaux symboles de la Shoah et des crimes de l'Allemagne nazie.",
+      "es": "El 27 de enero de 1945, tropas soviéticas liberaron el complejo de campos de Auschwitz. El lugar se convirtió en uno de los símbolos centrales del Holocausto y de los crímenes de la Alemania nazi.",
+      "it": "Il 27 gennaio 1945 le truppe sovietiche liberarono il complesso dei campi di Auschwitz. Il luogo divenne uno dei simboli centrali dell'Olocausto e dei crimini della Germania nazista.",
+      "pt": "Em 27 de janeiro de 1945, tropas soviéticas libertaram o complexo de campos de Auschwitz. O local tornou-se um dos principais símbolos do Holocausto e dos crimes da Alemanha nazista.",
+      "nl": "Op 27 januari 1945 bevrijdden Sovjettroepen het kampcomplex Auschwitz. De plaats werd een van de belangrijkste symbolen van de Holocaust en de misdaden van nazi-Duitsland.",
+      "pl": "27 stycznia 1945 roku wojska radzieckie wyzwoliły kompleks obozów Auschwitz. Miejsce to stało się jednym z głównych symboli Holokaustu i zbrodni nazistowskich Niemiec.",
+      "tr": "27 Ocak 1945'te Sovyet birlikleri Auschwitz kamp kompleksini kurtardı. Bu yer Holokost'un ve Nazi Almanyası'nın suçlarının başlıca sembollerinden biri oldu.",
+      "zh": "1945年1月27日，苏军解放了奥斯维辛集中营群。该地点成为大屠杀和纳粹德国罪行的核心象征之一。",
+      "ja": "1945年1月27日、ソ連軍がアウシュヴィッツ収容所群を解放した。この場所はホロコーストとナチ・ドイツの犯罪を象徴する中心的な場所の一つとなった。",
+      "ko": "1945년 1월 27일 소련군은 아우슈비츠 수용소 단지를 해방했다. 이 장소는 홀로코스트와 나치 독일 범죄의 핵심 상징 중 하나가 되었다.",
+      "hi": "27 जनवरी 1945 को सोवियत सैनिकों ने ऑशविट्स शिविर परिसर को मुक्त कराया। यह स्थान होलोकॉस्ट और नाजी जर्मनी के अपराधों का प्रमुख प्रतीक बन गया।",
+      "ar": "في 27 يناير 1945 حررت القوات السوفيتية مجمع معسكرات أوشفيتز. وأصبح هذا المكان أحد الرموز الرئيسية للهولوكوست وجرائم ألمانيا النازية."
     },
     "importance": {
       "ru": "В Германии 27 января является днём памяти жертв национал-социализма.",
       "de": "In Deutschland ist der 27. Januar der Tag des Gedenkens an die Opfer des Nationalsozialismus.",
-      "en": "In Germany, 27 January is the day of remembrance for the victims of National Socialism."
+      "en": "In Germany, 27 January is the day of remembrance for the victims of National Socialism.",
+      "fr": "En Allemagne, le 27 janvier est la journée de mémoire des victimes du national-socialisme.",
+      "es": "En Alemania, el 27 de enero es el día de memoria de las víctimas del nacionalsocialismo.",
+      "it": "In Germania il 27 gennaio è il giorno della memoria delle vittime del nazionalsocialismo.",
+      "pt": "Na Alemanha, 27 de janeiro é o dia de memória das vítimas do nacional-socialismo.",
+      "nl": "In Duitsland is 27 januari de herdenkingsdag voor de slachtoffers van het nationaalsocialisme.",
+      "pl": "W Niemczech 27 stycznia jest dniem pamięci o ofiarach narodowego socjalizmu.",
+      "tr": "Almanya'da 27 Ocak, Nasyonal Sosyalizm kurbanlarını anma günüdür.",
+      "zh": "在德国，1月27日是纪念纳粹主义受害者的日子。",
+      "ja": "ドイツでは1月27日はナチズムの犠牲者を追悼する日である。",
+      "ko": "독일에서 1월 27일은 국가사회주의 희생자 추모일이다.",
+      "hi": "जर्मनी में 27 जनवरी राष्ट्रीय समाजवाद के पीड़ितों की स्मृति का दिन है।",
+      "ar": "في ألمانيا يُعد 27 يناير يوم إحياء ذكرى ضحايا النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "День памяти в Германии",
           "de": "Gedenktag in Deutschland",
-          "en": "A remembrance day in Germany"
+          "en": "A remembrance day in Germany",
+          "fr": "Une journée de mémoire en Allemagne",
+          "es": "Un día de memoria en Alemania",
+          "it": "Una giornata della memoria in Germania",
+          "pt": "Um dia de memória na Alemanha",
+          "nl": "Een herdenkingsdag in Duitsland",
+          "pl": "Dzień pamięci w Niemczech",
+          "tr": "Almanya'da anma günü",
+          "zh": "德国的纪念日",
+          "ja": "ドイツの追悼日",
+          "ko": "독일의 추모일",
+          "hi": "जर्मनी में स्मृति दिवस",
+          "ar": "يوم ذكرى في ألمانيا"
         },
         "description": {
           "ru": "В 1996 году 27 января был официально установлен в Германии как день памяти жертв нацистского режима. В этот день проходят церемонии, уроки памяти и выступления в парламенте.",
           "de": "1996 wurde der 27. Januar in Deutschland offiziell als Gedenktag fuer die Opfer des NS-Regimes eingefuehrt. An diesem Tag finden Gedenkfeiern, Unterrichtsprojekte und Reden im Parlament statt.",
-          "en": "In 1996, Germany officially made 27 January a remembrance day for the victims of the Nazi regime. Ceremonies, school projects and parliamentary speeches are held on this date."
+          "en": "In 1996, Germany officially made 27 January a remembrance day for the victims of the Nazi regime. Ceremonies, school projects and parliamentary speeches are held on this date.",
+          "fr": "En 1996, l'Allemagne fit officiellement du 27 janvier une journée de mémoire pour les victimes du régime nazi. Des cérémonies, des projets scolaires et des discours parlementaires ont lieu ce jour-là.",
+          "es": "En 1996, Alemania convirtió oficialmente el 27 de enero en día de memoria de las víctimas del régimen nazi. En esta fecha se realizan ceremonias, proyectos escolares y discursos parlamentarios.",
+          "it": "Nel 1996 la Germania rese ufficialmente il 27 gennaio una giornata di memoria per le vittime del regime nazista. In questa data si tengono cerimonie, progetti scolastici e discorsi parlamentari.",
+          "pt": "Em 1996, a Alemanha tornou oficialmente 27 de janeiro um dia de memória das vítimas do regime nazista. Nessa data ocorrem cerimônias, projetos escolares e discursos no parlamento.",
+          "nl": "In 1996 maakte Duitsland 27 januari officieel tot herdenkingsdag voor de slachtoffers van het naziregime. Op die datum zijn er ceremonies, schoolprojecten en toespraken in het parlement.",
+          "pl": "W 1996 roku Niemcy oficjalnie ustanowiły 27 stycznia dniem pamięci ofiar reżimu nazistowskiego. Tego dnia odbywają się uroczystości, projekty szkolne i przemówienia w parlamencie.",
+          "tr": "1996'da Almanya 27 Ocak'ı Nazi rejimi kurbanları için resmî anma günü yaptı. Bu tarihte törenler, okul projeleri ve parlamentoda konuşmalar düzenlenir.",
+          "zh": "1996年，德国正式将1月27日定为纪念纳粹政权受害者的日子。这一天会举行纪念仪式、学校项目和议会演讲。",
+          "ja": "1996年、ドイツは1月27日をナチ体制の犠牲者の公式追悼日とした。この日には式典、学校での追悼学習、議会での演説が行われる。",
+          "ko": "1996년 독일은 1월 27일을 나치 정권 희생자들을 위한 공식 추모일로 정했다. 이날에는 기념식, 학교 프로젝트, 의회 연설이 열린다.",
+          "hi": "1996 में जर्मनी ने 27 जनवरी को नाजी शासन के पीड़ितों की आधिकारिक स्मृति-दिवस बनाया। इस दिन समारोह, विद्यालयी परियोजनाएँ और संसद में भाषण होते हैं।",
+          "ar": "في عام 1996 جعلت ألمانيا يوم 27 يناير رسمياً يوم ذكرى لضحايا النظام النازي. وتقام في هذا اليوم مراسم ومشاريع مدرسية وخطب برلمانية."
         },
         "importance": {
           "ru": "Дата показывает, как современная Германия работает с памятью о преступлениях прошлого.",
           "de": "Das Datum zeigt, wie das heutige Deutschland mit der Erinnerung an vergangene Verbrechen umgeht.",
-          "en": "The date shows how modern Germany deals with the memory of past crimes."
+          "en": "The date shows how modern Germany deals with the memory of past crimes.",
+          "fr": "Cette date montre comment l'Allemagne actuelle traite la mémoire des crimes passés.",
+          "es": "La fecha muestra cómo la Alemania actual trabaja con la memoria de los crímenes del pasado.",
+          "it": "La data mostra come la Germania contemporanea affronta la memoria dei crimini del passato.",
+          "pt": "A data mostra como a Alemanha atual lida com a memória dos crimes do passado.",
+          "nl": "De datum laat zien hoe het huidige Duitsland omgaat met de herinnering aan misdaden uit het verleden.",
+          "pl": "Ta data pokazuje, jak współczesne Niemcy pracują z pamięcią o zbrodniach przeszłości.",
+          "tr": "Bu tarih, modern Almanya'nın geçmiş suçların anısıyla nasıl yüzleştiğini gösterir.",
+          "zh": "这个日期显示了现代德国如何面对过去罪行的记忆。",
+          "ja": "この日付は、現代ドイツが過去の犯罪の記憶とどのように向き合っているかを示している。",
+          "ko": "이 날짜는 현대 독일이 과거 범죄의 기억을 어떻게 다루는지를 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि आधुनिक जर्मनी अतीत के अपराधों की स्मृति से कैसे निपटता है।",
+          "ar": "يُظهر هذا التاريخ كيف تتعامل ألمانيا الحديثة مع ذكرى جرائم الماضي."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "27 января также является Международным днём памяти жертв Холокоста.",
     "de": "Der 27. Januar ist auch der Internationale Tag des Gedenkens an die Opfer des Holocaust.",
-    "en": "27 January is also International Holocaust Remembrance Day."
+    "en": "27 January is also International Holocaust Remembrance Day.",
+    "fr": "Le 27 janvier est aussi la Journée internationale dédiée à la mémoire des victimes de l'Holocauste.",
+    "es": "El 27 de enero también es el Día Internacional de Conmemoración de las Víctimas del Holocausto.",
+    "it": "Il 27 gennaio è anche la Giornata internazionale della memoria delle vittime dell'Olocausto.",
+    "pt": "27 de janeiro também é o Dia Internacional em Memória das Vítimas do Holocausto.",
+    "nl": "27 januari is ook de Internationale Herdenkingsdag voor de Slachtoffers van de Holocaust.",
+    "pl": "27 stycznia jest także Międzynarodowym Dniem Pamięci o Ofiarach Holokaustu.",
+    "tr": "27 Ocak aynı zamanda Uluslararası Holokost Kurbanlarını Anma Günü'dür.",
+    "zh": "1月27日也是国际大屠杀纪念日。",
+    "ja": "1月27日は国際ホロコースト記念日でもある。",
+    "ko": "1월 27일은 국제 홀로코스트 희생자 추모일이기도 하다.",
+    "hi": "27 जनवरी अंतरराष्ट्रीय होलोकॉस्ट स्मृति दिवस भी है।",
+    "ar": "يُعد 27 يناير أيضاً اليوم الدولي لإحياء ذكرى ضحايا الهولوكوست."
   },
   "sources": [
     {

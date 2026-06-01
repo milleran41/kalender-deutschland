@@ -11,17 +11,53 @@
     "title": {
       "ru": "Карл Бенц подал патент на первый автомобиль",
       "de": "Carl Benz meldet sein Automobil zum Patent an",
-      "en": "Carl Benz files a patent for the first automobile"
+      "en": "Carl Benz files a patent for the first automobile",
+      "fr": "Carl Benz dépose un brevet pour la première automobile",
+      "es": "Carl Benz solicita la patente del primer automóvil",
+      "it": "Carl Benz deposita il brevetto della prima automobile",
+      "pt": "Carl Benz registra a patente do primeiro automóvel",
+      "nl": "Carl Benz vraagt patent aan voor de eerste auto",
+      "pl": "Carl Benz zgłasza patent na pierwszy automobil",
+      "tr": "Carl Benz ilk otomobil için patent başvurusu yapar",
+      "zh": "卡尔·本茨为第一辆汽车申请专利",
+      "ja": "カール・ベンツが最初の自動車の特許を出願する",
+      "ko": "카를 벤츠가 최초의 자동차 특허를 출원하다",
+      "hi": "कार्ल बेन्ज़ ने पहली ऑटोमोबाइल के पेटेंट के लिए आवेदन किया",
+      "ar": "كارل بنز يقدّم براءة اختراع لأول سيارة"
     },
     "description": {
       "ru": "29 января 1886 года Карл Бенц подал патент на «транспортное средство с газовым двигателем». Benz Patent-Motorwagen часто называют первым практическим автомобилем.",
       "de": "Am 29. Januar 1886 meldete Carl Benz sein Fahrzeug mit Gasmotorenbetrieb zum Patent an. Der Benz Patent-Motorwagen gilt oft als erstes praktisches Automobil.",
-      "en": "On 29 January 1886, Carl Benz filed a patent for a vehicle powered by a gas engine. The Benz Patent-Motorwagen is often regarded as the first practical automobile."
+      "en": "On 29 January 1886, Carl Benz filed a patent for a vehicle powered by a gas engine. The Benz Patent-Motorwagen is often regarded as the first practical automobile.",
+      "fr": "Le 29 janvier 1886, Carl Benz déposa un brevet pour un véhicule à moteur à gaz. Le Benz Patent-Motorwagen est souvent considéré comme la première automobile pratique.",
+      "es": "El 29 de enero de 1886, Carl Benz solicitó una patente para un vehículo con motor de gas. El Benz Patent-Motorwagen suele considerarse el primer automóvil práctico.",
+      "it": "Il 29 gennaio 1886 Carl Benz depositò un brevetto per un veicolo con motore a gas. Il Benz Patent-Motorwagen è spesso considerato la prima automobile pratica.",
+      "pt": "Em 29 de janeiro de 1886, Carl Benz registrou uma patente para um veículo movido por motor a gás. O Benz Patent-Motorwagen é frequentemente considerado o primeiro automóvel prático.",
+      "nl": "Op 29 januari 1886 vroeg Carl Benz patent aan voor een voertuig met gasmotor. De Benz Patent-Motorwagen wordt vaak gezien als de eerste praktische auto.",
+      "pl": "29 stycznia 1886 roku Carl Benz zgłosił patent na pojazd napędzany silnikiem gazowym. Benz Patent-Motorwagen bywa uznawany za pierwszy praktyczny automobil.",
+      "tr": "29 Ocak 1886'da Carl Benz gaz motoruyla çalışan bir araç için patent başvurusu yaptı. Benz Patent-Motorwagen çoğu zaman ilk pratik otomobil sayılır.",
+      "zh": "1886年1月29日，卡尔·本茨为一辆由燃气发动机驱动的车辆申请专利。本茨专利汽车常被视为第一辆实用汽车。",
+      "ja": "1886年1月29日、カール・ベンツはガスエンジンで動く車両の特許を出願した。ベンツ・パテント・モトールヴァーゲンは、しばしば最初の実用的な自動車と見なされる。",
+      "ko": "1886년 1월 29일 카를 벤츠는 가스 엔진으로 움직이는 차량의 특허를 출원했다. 벤츠 특허 자동차는 흔히 최초의 실용 자동차로 여겨진다.",
+      "hi": "29 जनवरी 1886 को कार्ल बेन्ज़ ने गैस इंजन से चलने वाले वाहन के लिए पेटेंट दायर किया। Benz Patent-Motorwagen को अक्सर पहला व्यावहारिक ऑटोमोबाइल माना जाता है।",
+      "ar": "في 29 يناير 1886 قدّم كارل بنز براءة اختراع لمركبة تعمل بمحرك غازي. وغالباً ما يُعد Benz Patent-Motorwagen أول سيارة عملية."
     },
     "importance": {
       "ru": "Эта дата стала одним из символических дней рождения автомобильной эпохи.",
       "de": "Dieses Datum wurde zu einem symbolischen Geburtstag des Automobilzeitalters.",
-      "en": "This date became one of the symbolic birthdays of the automobile age."
+      "en": "This date became one of the symbolic birthdays of the automobile age.",
+      "fr": "Cette date devint l'une des naissances symboliques de l'ère automobile.",
+      "es": "Esta fecha se convirtió en uno de los nacimientos simbólicos de la era del automóvil.",
+      "it": "Questa data divenne una delle nascite simboliche dell'era dell'automobile.",
+      "pt": "Essa data tornou-se um dos nascimentos simbólicos da era do automóvel.",
+      "nl": "Deze datum werd een van de symbolische geboortedagen van het autotijdperk.",
+      "pl": "Ta data stała się jedną z symbolicznych dat narodzin epoki samochodu.",
+      "tr": "Bu tarih otomobil çağının sembolik doğum günlerinden biri oldu.",
+      "zh": "这个日期成为汽车时代的象征性诞生日之一。",
+      "ja": "この日付は自動車時代の象徴的な誕生日の一つとなった。",
+      "ko": "이 날짜는 자동차 시대의 상징적 탄생일 중 하나가 되었다.",
+      "hi": "यह तारीख ऑटोमोबाइल युग के प्रतीकात्मक जन्मदिनों में से एक बन गई।",
+      "ar": "أصبح هذا التاريخ أحد أيام الميلاد الرمزية لعصر السيارات."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Мангейм и рождение автомобиля",
           "de": "Mannheim und die Geburt des Automobils",
-          "en": "Mannheim and the birth of the automobile"
+          "en": "Mannheim and the birth of the automobile",
+          "fr": "Mannheim et la naissance de l'automobile",
+          "es": "Mannheim y el nacimiento del automóvil",
+          "it": "Mannheim e la nascita dell'automobile",
+          "pt": "Mannheim e o nascimento do automóvel",
+          "nl": "Mannheim en de geboorte van de auto",
+          "pl": "Mannheim i narodziny automobilu",
+          "tr": "Mannheim ve otomobilin doğuşu",
+          "zh": "曼海姆与汽车的诞生",
+          "ja": "マンハイムと自動車の誕生",
+          "ko": "만하임과 자동차의 탄생",
+          "hi": "मैनहाइम और ऑटोमोबाइल का जन्म",
+          "ar": "مانهايم وميلاد السيارة"
         },
         "description": {
           "ru": "Бенц работал в Мангейме, и именно там его машина впервые стала реальным техническим проектом. Это важная страница истории Баден-Вюртемберга.",
           "de": "Benz arbeitete in Mannheim, und dort wurde sein Wagen zu einem realen technischen Projekt. Das ist ein wichtiges Kapitel der Geschichte Baden-Wuerttembergs.",
-          "en": "Benz worked in Mannheim, where his vehicle became a real technical project. It is an important chapter in the history of Baden-Wuerttemberg."
+          "en": "Benz worked in Mannheim, where his vehicle became a real technical project. It is an important chapter in the history of Baden-Wuerttemberg.",
+          "fr": "Benz travailla à Mannheim, où son véhicule devint un véritable projet technique. C'est une page importante de l'histoire du Bade-Wurtemberg.",
+          "es": "Benz trabajó en Mannheim, donde su vehículo se convirtió en un proyecto técnico real. Es una página importante de la historia de Baden-Wurtemberg.",
+          "it": "Benz lavorò a Mannheim, dove il suo veicolo divenne un vero progetto tecnico. È una pagina importante della storia del Baden-Württemberg.",
+          "pt": "Benz trabalhou em Mannheim, onde seu veículo se tornou um projeto técnico real. É uma página importante da história de Baden-Württemberg.",
+          "nl": "Benz werkte in Mannheim, waar zijn voertuig een echt technisch project werd. Het is een belangrijk hoofdstuk in de geschiedenis van Baden-Württemberg.",
+          "pl": "Benz pracował w Mannheim, gdzie jego pojazd stał się prawdziwym projektem technicznym. To ważny rozdział historii Badenii-Wirtembergii.",
+          "tr": "Benz Mannheim'da çalıştı ve aracı orada gerçek bir teknik proje haline geldi. Bu, Baden-Württemberg tarihinin önemli bir sayfasıdır.",
+          "zh": "本茨在曼海姆工作，他的车辆正是在那里成为真正的技术项目。这是巴登-符腾堡历史的重要篇章。",
+          "ja": "ベンツはマンハイムで働き、そこで彼の車両は実際の技術プロジェクトとなった。これはバーデン＝ヴュルテンベルク史の重要な一章である。",
+          "ko": "벤츠는 만하임에서 일했고, 그곳에서 그의 차량은 실제 기술 프로젝트가 되었다. 이는 바덴뷔르템베르크 역사에서 중요한 장이다.",
+          "hi": "बेन्ज़ ने मैनहाइम में काम किया, और वहीं उनका वाहन वास्तविक तकनीकी परियोजना बना। यह बाडेन-व्यूर्टेमबर्ग के इतिहास का महत्वपूर्ण अध्याय है।",
+          "ar": "عمل بنز في مانهايم، وهناك أصبح مركبته مشروعاً تقنياً حقيقياً. وهذه صفحة مهمة في تاريخ بادن-فورتمبيرغ."
         },
         "importance": {
           "ru": "Так немецкая инженерия стала частью повседневной жизни всего мира.",
           "de": "So wurde deutsche Ingenieurkunst Teil des Alltags der ganzen Welt.",
-          "en": "German engineering became part of everyday life around the world."
+          "en": "German engineering became part of everyday life around the world.",
+          "fr": "Ainsi, l'ingénierie allemande devint partie de la vie quotidienne dans le monde entier.",
+          "es": "Así, la ingeniería alemana se convirtió en parte de la vida cotidiana en todo el mundo.",
+          "it": "Così l'ingegneria tedesca divenne parte della vita quotidiana in tutto il mondo.",
+          "pt": "Assim, a engenharia alemã tornou-se parte da vida cotidiana em todo o mundo.",
+          "nl": "Zo werd Duitse ingenieurskunst deel van het dagelijks leven over de hele wereld.",
+          "pl": "W ten sposób niemiecka inżynieria stała się częścią codziennego życia na całym świecie.",
+          "tr": "Böylece Alman mühendisliği dünyanın günlük yaşamının bir parçası oldu.",
+          "zh": "德国工程技术由此成为全世界日常生活的一部分。",
+          "ja": "こうしてドイツの工学は世界中の日常生活の一部となった。",
+          "ko": "이렇게 독일 공학은 전 세계 일상생활의 일부가 되었다.",
+          "hi": "इस तरह जर्मन इंजीनियरिंग पूरी दुनिया के रोजमर्रा जीवन का हिस्सा बन गई।",
+          "ar": "وهكذا أصبحت الهندسة الألمانية جزءاً من الحياة اليومية في العالم كله."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Патент Бенца иногда называют «свидетельством о рождении автомобиля».",
     "de": "Das Benz-Patent wird manchmal als Geburtsurkunde des Automobils bezeichnet.",
-    "en": "Benz's patent is sometimes called the birth certificate of the automobile."
+    "en": "Benz's patent is sometimes called the birth certificate of the automobile.",
+    "fr": "Le brevet de Benz est parfois appelé l'acte de naissance de l'automobile.",
+    "es": "La patente de Benz a veces se llama el certificado de nacimiento del automóvil.",
+    "it": "Il brevetto di Benz è talvolta chiamato il certificato di nascita dell'automobile.",
+    "pt": "A patente de Benz às vezes é chamada de certidão de nascimento do automóvel.",
+    "nl": "Het patent van Benz wordt soms de geboorteakte van de auto genoemd.",
+    "pl": "Patent Benza bywa nazywany aktem urodzenia automobilu.",
+    "tr": "Benz'in patenti bazen otomobilin doğum belgesi olarak adlandırılır.",
+    "zh": "本茨的专利有时被称为汽车的出生证明。",
+    "ja": "ベンツの特許は、自動車の出生証明書と呼ばれることがある。",
+    "ko": "벤츠의 특허는 때때로 자동차의 출생증명서라고 불린다.",
+    "hi": "बेन्ज़ के पेटेंट को कभी-कभी ऑटोमोबाइल का जन्म प्रमाणपत्र कहा जाता है।",
+    "ar": "تُسمى براءة بنز أحياناً شهادة ميلاد السيارة."
   },
   "sources": [
     {

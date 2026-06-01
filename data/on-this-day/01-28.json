@@ -11,17 +11,53 @@
     "title": {
       "ru": "Заработал первый функциональный дизельный двигатель",
       "de": "Der erste funktionsfaehige Dieselmotor laeuft",
-      "en": "The first functional diesel engine works"
+      "en": "The first functional diesel engine works",
+      "fr": "Le premier moteur diesel fonctionnel marche",
+      "es": "Funciona el primer motor diésel operativo",
+      "it": "Funziona il primo motore diesel operativo",
+      "pt": "Funciona o primeiro motor diesel operacional",
+      "nl": "De eerste werkende dieselmotor draait",
+      "pl": "Działa pierwszy sprawny silnik Diesla",
+      "tr": "İlk çalışan dizel motor işler",
+      "zh": "第一台实用柴油发动机运转",
+      "ja": "最初の実用的なディーゼルエンジンが動く",
+      "ko": "최초의 실용 디젤 엔진이 작동하다",
+      "hi": "पहला कार्यशील डीज़ल इंजन चला",
+      "ar": "تشغيل أول محرك ديزل عملي"
     },
     "description": {
       "ru": "28 января 1897 года в Аугсбурге был завершён первый работающий дизельный двигатель. Рудольф Дизель и инженеры Maschinenfabrik Augsburg прошли к этому результату через годы испытаний.",
       "de": "Am 28. Januar 1897 wurde in Augsburg der erste funktionsfaehige Dieselmotor vollendet. Rudolf Diesel und die Ingenieure der Maschinenfabrik Augsburg erreichten dieses Ergebnis nach Jahren von Versuchen.",
-      "en": "On 28 January 1897, the first functional diesel engine was completed in Augsburg. Rudolf Diesel and the engineers of Maschinenfabrik Augsburg reached this result after years of testing."
+      "en": "On 28 January 1897, the first functional diesel engine was completed in Augsburg. Rudolf Diesel and the engineers of Maschinenfabrik Augsburg reached this result after years of testing.",
+      "fr": "Le 28 janvier 1897, le premier moteur diesel fonctionnel fut achevé à Augsbourg. Rudolf Diesel et les ingénieurs de Maschinenfabrik Augsburg y parvinrent après des années d'essais.",
+      "es": "El 28 de enero de 1897 se completó en Augsburgo el primer motor diésel operativo. Rudolf Diesel y los ingenieros de Maschinenfabrik Augsburg llegaron a ese resultado tras años de pruebas.",
+      "it": "Il 28 gennaio 1897 ad Augusta fu completato il primo motore diesel funzionante. Rudolf Diesel e gli ingegneri della Maschinenfabrik Augsburg raggiunsero questo risultato dopo anni di prove.",
+      "pt": "Em 28 de janeiro de 1897, o primeiro motor diesel funcional foi concluído em Augsburgo. Rudolf Diesel e os engenheiros da Maschinenfabrik Augsburg chegaram a esse resultado após anos de testes.",
+      "nl": "Op 28 januari 1897 werd in Augsburg de eerste werkende dieselmotor voltooid. Rudolf Diesel en de ingenieurs van Maschinenfabrik Augsburg bereikten dit resultaat na jaren van testen.",
+      "pl": "28 stycznia 1897 roku w Augsburgu ukończono pierwszy sprawny silnik Diesla. Rudolf Diesel i inżynierowie Maschinenfabrik Augsburg osiągnęli ten wynik po latach prób.",
+      "tr": "28 Ocak 1897'de Augsburg'da ilk çalışan dizel motor tamamlandı. Rudolf Diesel ve Maschinenfabrik Augsburg mühendisleri yıllar süren denemelerden sonra bu sonuca ulaştı.",
+      "zh": "1897年1月28日，第一台实用柴油发动机在奥格斯堡完成。鲁道夫·狄塞尔和奥格斯堡机械厂的工程师经过多年试验才取得这一成果。",
+      "ja": "1897年1月28日、アウクスブルクで最初の実用的なディーゼルエンジンが完成した。ルドルフ・ディーゼルと機械工場の技師たちは、何年もの試験の末にこの成果へ到達した。",
+      "ko": "1897년 1월 28일 아우크스부르크에서 최초의 실용 디젤 엔진이 완성되었다. 루돌프 디젤과 Maschinenfabrik Augsburg의 엔지니어들은 수년간의 시험 끝에 이 결과에 도달했다.",
+      "hi": "28 जनवरी 1897 को ऑग्सबुर्ग में पहला कार्यशील डीज़ल इंजन पूरा हुआ। रुडॉल्फ डीज़ल और Maschinenfabrik Augsburg के इंजीनियर वर्षों की परीक्षाओं के बाद इस परिणाम तक पहुँचे।",
+      "ar": "في 28 يناير 1897 اكتمل في أوغسبورغ أول محرك ديزل عملي. وصل رودولف ديزل ومهندسو Maschinenfabrik Augsburg إلى هذه النتيجة بعد سنوات من التجارب."
     },
     "importance": {
       "ru": "Дизельный двигатель стал одной из ключевых технологий для судов, грузовиков, поездов и промышленности.",
       "de": "Der Dieselmotor wurde zu einer Schluesseltechnik fuer Schiffe, Lastwagen, Zuege und Industrie.",
-      "en": "The diesel engine became a key technology for ships, trucks, trains and industry."
+      "en": "The diesel engine became a key technology for ships, trucks, trains and industry.",
+      "fr": "Le moteur diesel devint une technologie clé pour les navires, les camions, les trains et l'industrie.",
+      "es": "El motor diésel se convirtió en una tecnología clave para barcos, camiones, trenes e industria.",
+      "it": "Il motore diesel divenne una tecnologia chiave per navi, camion, treni e industria.",
+      "pt": "O motor diesel tornou-se uma tecnologia-chave para navios, caminhões, trens e indústria.",
+      "nl": "De dieselmotor werd een sleuteltechnologie voor schepen, vrachtwagens, treinen en industrie.",
+      "pl": "Silnik Diesla stał się kluczową technologią dla statków, ciężarówek, pociągów i przemysłu.",
+      "tr": "Dizel motor gemiler, kamyonlar, trenler ve sanayi için kilit bir teknoloji oldu.",
+      "zh": "柴油发动机成为船舶、卡车、火车和工业的关键技术。",
+      "ja": "ディーゼルエンジンは船、トラック、鉄道、産業にとって重要な技術となった。",
+      "ko": "디젤 엔진은 선박, 트럭, 기차, 산업의 핵심 기술이 되었다.",
+      "hi": "डीज़ल इंजन जहाज़ों, ट्रकों, रेलगाड़ियों और उद्योग के लिए प्रमुख तकनीक बन गया।",
+      "ar": "أصبح محرك الديزل تقنية أساسية للسفن والشاحنات والقطارات والصناعة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Изобретение после множества неудач",
           "de": "Eine Erfindung nach vielen Rueckschlaegen",
-          "en": "An invention after many setbacks"
+          "en": "An invention after many setbacks",
+          "fr": "Une invention après de nombreux échecs",
+          "es": "Una invención tras muchos fracasos",
+          "it": "Un'invenzione dopo molti insuccessi",
+          "pt": "Uma invenção após muitos fracassos",
+          "nl": "Een uitvinding na veel tegenslagen",
+          "pl": "Wynalazek po wielu niepowodzeniach",
+          "tr": "Birçok aksilikten sonra bir icat",
+          "zh": "经历多次失败后的发明",
+          "ja": "多くの失敗の後の発明",
+          "ko": "많은 실패 끝의 발명",
+          "hi": "कई असफलताओं के बाद आविष्कार",
+          "ar": "اختراع بعد إخفاقات كثيرة"
         },
         "description": {
           "ru": "Путь к работающему мотору был не прямым: ранние опыты ломались, перегревались и требовали переделок. Успех 1897 года показывает, что инженерные открытия часто рождаются в мастерской, а не только на бумаге.",
           "de": "Der Weg zum funktionierenden Motor war nicht gerade: fruehe Versuche scheiterten, ueberhitzten und mussten umgebaut werden. Der Erfolg von 1897 zeigt, dass technische Erfindungen oft in der Werkstatt entstehen, nicht nur auf Papier.",
-          "en": "The road to a working engine was not straight: early tests failed, overheated and had to be rebuilt. The 1897 success shows that engineering inventions are often born in the workshop, not only on paper."
+          "en": "The road to a working engine was not straight: early tests failed, overheated and had to be rebuilt. The 1897 success shows that engineering inventions are often born in the workshop, not only on paper.",
+          "fr": "Le chemin vers un moteur fonctionnel ne fut pas direct : les premiers essais échouèrent, surchauffèrent et durent être reconstruits. Le succès de 1897 montre que les inventions naissent souvent dans l'atelier, pas seulement sur le papier.",
+          "es": "El camino hacia un motor funcional no fue recto: las primeras pruebas fallaban, se sobrecalentaban y exigían cambios. El éxito de 1897 muestra que las invenciones de ingeniería nacen a menudo en el taller, no solo en el papel.",
+          "it": "La strada verso un motore funzionante non fu lineare: i primi test fallivano, si surriscaldavano e richiedevano modifiche. Il successo del 1897 mostra che le invenzioni tecniche nascono spesso in officina, non solo sulla carta.",
+          "pt": "O caminho até um motor funcional não foi direto: os primeiros testes falharam, superaqueceram e precisaram ser refeitos. O sucesso de 1897 mostra que invenções de engenharia nascem muitas vezes na oficina, não apenas no papel.",
+          "nl": "De weg naar een werkende motor was niet recht: vroege proeven mislukten, raakten oververhit en moesten worden omgebouwd. Het succes van 1897 laat zien dat technische uitvindingen vaak in de werkplaats ontstaan, niet alleen op papier.",
+          "pl": "Droga do działającego silnika nie była prosta: pierwsze próby zawodziły, przegrzewały się i wymagały przeróbek. Sukces z 1897 roku pokazuje, że wynalazki techniczne często rodzą się w warsztacie, nie tylko na papierze.",
+          "tr": "Çalışan bir motora giden yol düz değildi: ilk denemeler başarısız oldu, aşırı ısındı ve yeniden yapılmak zorunda kaldı. 1897 başarısı mühendislik buluşlarının çoğu zaman yalnızca kâğıtta değil atölyede doğduğunu gösterir.",
+          "zh": "通向可用发动机的道路并不顺利：早期试验失败、过热，还需要改造。1897年的成功说明，工程发明常常诞生在车间，而不只是纸面上。",
+          "ja": "動くエンジンへの道は一直線ではなかった。初期の試験は失敗し、過熱し、作り直しが必要だった。1897年の成功は、工学の発明が紙の上だけでなく工房でも生まれることを示している。",
+          "ko": "작동하는 엔진으로 가는 길은 순탄하지 않았다. 초기 시험은 실패하고 과열되었으며 다시 만들어야 했다. 1897년의 성공은 공학 발명이 종이 위에서만이 아니라 작업장에서도 태어난다는 것을 보여 준다.",
+          "hi": "चलने वाले इंजन तक पहुँचना आसान नहीं था: शुरुआती परीक्षण विफल हुए, इंजन गरम हुए और बदलाव करने पड़े। 1897 की सफलता दिखाती है कि इंजीनियरिंग आविष्कार अक्सर केवल कागज पर नहीं, कार्यशाला में जन्म लेते हैं।",
+          "ar": "لم يكن الطريق إلى محرك يعمل مستقيماً: فشلت التجارب الأولى وارتفعت حرارتها واحتاجت إلى إعادة بناء. يُظهر نجاح 1897 أن الاختراعات الهندسية تولد غالباً في الورشة، لا على الورق فقط."
         },
         "importance": {
           "ru": "Это хорошая история о терпении в технике.",
           "de": "Das ist eine gute Geschichte ueber Geduld in der Technik.",
-          "en": "It is a good story about patience in engineering."
+          "en": "It is a good story about patience in engineering.",
+          "fr": "C'est une bonne histoire sur la patience en ingénierie.",
+          "es": "Es una buena historia sobre la paciencia en la ingeniería.",
+          "it": "È una buona storia sulla pazienza nell'ingegneria.",
+          "pt": "É uma boa história sobre paciência na engenharia.",
+          "nl": "Het is een goed verhaal over geduld in de techniek.",
+          "pl": "To dobra historia o cierpliwości w technice.",
+          "tr": "Bu, mühendislikte sabır hakkında iyi bir hikâyedir.",
+          "zh": "这是一个关于工程耐心的好故事。",
+          "ja": "これは工学における忍耐についてのよい物語である。",
+          "ko": "이는 공학에서의 인내에 관한 좋은 이야기다.",
+          "hi": "यह इंजीनियरिंग में धैर्य की अच्छी कहानी है।",
+          "ar": "إنها قصة جيدة عن الصبر في الهندسة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Первый функциональный дизельный двигатель связан с Аугсбургом, городом с сильной промышленной традицией.",
     "de": "Der erste funktionsfaehige Dieselmotor ist mit Augsburg verbunden, einer Stadt mit starker Industrietradition.",
-    "en": "The first functional diesel engine is linked with Augsburg, a city with a strong industrial tradition."
+    "en": "The first functional diesel engine is linked with Augsburg, a city with a strong industrial tradition.",
+    "fr": "Le premier moteur diesel fonctionnel est lié à Augsbourg, ville à forte tradition industrielle.",
+    "es": "El primer motor diésel operativo está ligado a Augsburgo, una ciudad con fuerte tradición industrial.",
+    "it": "Il primo motore diesel funzionante è legato ad Augusta, città con una forte tradizione industriale.",
+    "pt": "O primeiro motor diesel funcional está ligado a Augsburgo, cidade com forte tradição industrial.",
+    "nl": "De eerste werkende dieselmotor is verbonden met Augsburg, een stad met een sterke industriële traditie.",
+    "pl": "Pierwszy sprawny silnik Diesla jest związany z Augsburgiem, miastem o silnej tradycji przemysłowej.",
+    "tr": "İlk çalışan dizel motor, güçlü sanayi geleneğine sahip Augsburg kentiyle bağlantılıdır.",
+    "zh": "第一台实用柴油发动机与奥格斯堡有关，这是一座工业传统深厚的城市。",
+    "ja": "最初の実用的なディーゼルエンジンは、強い産業伝統を持つアウクスブルクと結びついている。",
+    "ko": "최초의 실용 디젤 엔진은 강한 산업 전통을 지닌 아우크스부르크와 연결되어 있다.",
+    "hi": "पहला कार्यशील डीज़ल इंजन मजबूत औद्योगिक परंपरा वाले ऑग्सबुर्ग शहर से जुड़ा है।",
+    "ar": "يرتبط أول محرك ديزل عملي بمدينة أوغسبورغ ذات التقليد الصناعي القوي."
   },
   "sources": [
     {

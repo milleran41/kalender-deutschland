@@ -11,17 +11,53 @@
     "title": {
       "ru": "Запущен Explorer 1",
       "de": "Explorer 1 wird gestartet",
-      "en": "Explorer 1 is launched"
+      "en": "Explorer 1 is launched",
+      "fr": "Explorer 1 est lancé",
+      "es": "Se lanza Explorer 1",
+      "it": "Viene lanciato Explorer 1",
+      "pt": "Explorer 1 é lançado",
+      "nl": "Explorer 1 wordt gelanceerd",
+      "pl": "Wystrzelono Explorer 1",
+      "tr": "Explorer 1 fırlatılır",
+      "zh": "探索者1号发射",
+      "ja": "エクスプローラー1号が打ち上げられる",
+      "ko": "익스플로러 1호가 발사되다",
+      "hi": "एक्सप्लोरर 1 प्रक्षेपित हुआ",
+      "ar": "إطلاق إكسبلورر 1"
     },
     "description": {
       "ru": "31 января 1958 года США вывели на орбиту свой первый спутник Explorer 1. Ракету для запуска разработала команда Army Ballistic Missile Agency под руководством Вернера фон Брауна, немецкого инженера, ранее работавшего над ракетами V-2.",
       "de": "Am 31. Januar 1958 brachten die USA ihren ersten Satelliten Explorer 1 in die Erdumlaufbahn. Die Trägerrakete wurde vom Team der Army Ballistic Missile Agency unter Wernher von Braun entwickelt, einem deutschen Ingenieur, der zuvor an den V-2-Raketen gearbeitet hatte.",
-      "en": "On 31 January 1958, the United States placed its first satellite, Explorer 1, into orbit. The launch vehicle was developed by the Army Ballistic Missile Agency team led by Wernher von Braun, a German engineer who had previously worked on the V-2 rockets."
+      "en": "On 31 January 1958, the United States placed its first satellite, Explorer 1, into orbit. The launch vehicle was developed by the Army Ballistic Missile Agency team led by Wernher von Braun, a German engineer who had previously worked on the V-2 rockets.",
+      "fr": "Le 31 janvier 1958, les États-Unis placèrent leur premier satellite, Explorer 1, en orbite. Le lanceur fut développé par l'équipe de l'Army Ballistic Missile Agency dirigée par Wernher von Braun, ingénieur allemand qui avait auparavant travaillé sur les fusées V-2.",
+      "es": "El 31 de enero de 1958, Estados Unidos puso en órbita su primer satélite, Explorer 1. El vehículo de lanzamiento fue desarrollado por el equipo de la Army Ballistic Missile Agency dirigido por Wernher von Braun, ingeniero alemán que antes había trabajado en los cohetes V-2.",
+      "it": "Il 31 gennaio 1958 gli Stati Uniti misero in orbita il loro primo satellite, Explorer 1. Il vettore fu sviluppato dal team dell'Army Ballistic Missile Agency guidato da Wernher von Braun, ingegnere tedesco che aveva lavorato ai razzi V-2.",
+      "pt": "Em 31 de janeiro de 1958, os Estados Unidos colocaram em órbita seu primeiro satélite, Explorer 1. O foguete lançador foi desenvolvido pela equipe da Army Ballistic Missile Agency liderada por Wernher von Braun, engenheiro alemão que havia trabalhado nos foguetes V-2.",
+      "nl": "Op 31 januari 1958 brachten de Verenigde Staten hun eerste satelliet, Explorer 1, in een baan om de aarde. De draagraket werd ontwikkeld door het team van de Army Ballistic Missile Agency onder leiding van Wernher von Braun, een Duitse ingenieur die eerder aan V-2-raketten had gewerkt.",
+      "pl": "31 stycznia 1958 roku Stany Zjednoczone umieściły na orbicie swojego pierwszego satelitę, Explorer 1. Rakietę nośną opracował zespół Army Ballistic Missile Agency pod kierunkiem Wernhera von Brauna, niemieckiego inżyniera wcześniej pracującego nad rakietami V-2.",
+      "tr": "31 Ocak 1958'de ABD ilk uydusu Explorer 1'i yörüngeye yerleştirdi. Fırlatma aracı, daha önce V-2 roketleri üzerinde çalışmış Alman mühendis Wernher von Braun'un yönettiği Army Ballistic Missile Agency ekibi tarafından geliştirildi.",
+      "zh": "1958年1月31日，美国将其第一颗卫星探索者1号送入轨道。运载火箭由陆军弹道导弹局团队研制，负责人是德国工程师沃纳·冯·布劳恩，他此前曾参与V-2火箭工作。",
+      "ja": "1958年1月31日、アメリカは初の人工衛星エクスプローラー1号を軌道に投入した。打ち上げロケットは、かつてV-2ロケットに携わったドイツ人技術者ヴェルナー・フォン・ブラウン率いる陸軍弾道ミサイル局のチームが開発した。",
+      "ko": "1958년 1월 31일 미국은 첫 위성 익스플로러 1호를 궤도에 올렸다. 발사체는 이전에 V-2 로켓 개발에 참여했던 독일 엔지니어 베르너 폰 브라운이 이끈 Army Ballistic Missile Agency 팀이 개발했다.",
+      "hi": "31 जनवरी 1958 को संयुक्त राज्य अमेरिका ने अपना पहला उपग्रह Explorer 1 कक्षा में भेजा। प्रक्षेपण यान Army Ballistic Missile Agency की टीम ने बनाया, जिसका नेतृत्व जर्मन इंजीनियर वर्नर फ़ॉन ब्राउन कर रहे थे, जो पहले V-2 रॉकेटों पर काम कर चुके थे।",
+      "ar": "في 31 يناير 1958 وضعت الولايات المتحدة أول قمر صناعي لها، إكسبلورر 1، في المدار. طوّر مركبة الإطلاق فريق وكالة الصواريخ الباليستية للجيش بقيادة فيرنر فون براون، وهو مهندس ألماني عمل سابقاً على صواريخ V-2."
     },
     "importance": {
       "ru": "Дата показывает сложную связь между немецкой ракетной техникой, наследием Второй мировой войны и началом космической эпохи.",
       "de": "Das Datum zeigt die komplexe Verbindung zwischen deutscher Raketentechnik, dem Erbe des Zweiten Weltkriegs und dem Beginn des Raumfahrtzeitalters.",
-      "en": "The date shows the complex link between German rocketry, the legacy of the Second World War and the beginning of the space age."
+      "en": "The date shows the complex link between German rocketry, the legacy of the Second World War and the beginning of the space age.",
+      "fr": "Cette date montre le lien complexe entre la technique allemande des fusées, l'héritage de la Seconde Guerre mondiale et le début de l'ère spatiale.",
+      "es": "La fecha muestra el vínculo complejo entre la cohetería alemana, el legado de la Segunda Guerra Mundial y el comienzo de la era espacial.",
+      "it": "La data mostra il legame complesso tra la missilistica tedesca, l'eredità della Seconda guerra mondiale e l'inizio dell'era spaziale.",
+      "pt": "A data mostra a ligação complexa entre a tecnologia alemã de foguetes, o legado da Segunda Guerra Mundial e o início da era espacial.",
+      "nl": "De datum toont de complexe band tussen Duitse rakettechniek, de erfenis van de Tweede Wereldoorlog en het begin van het ruimtevaarttijdperk.",
+      "pl": "Ta data pokazuje złożony związek między niemiecką techniką rakietową, dziedzictwem II wojny światowej i początkiem ery kosmicznej.",
+      "tr": "Bu tarih Alman roketçiliği, İkinci Dünya Savaşı mirası ve uzay çağının başlangıcı arasındaki karmaşık bağı gösterir.",
+      "zh": "这个日期显示了德国火箭技术、第二次世界大战遗产和太空时代开端之间的复杂联系。",
+      "ja": "この日付は、ドイツのロケット技術、第二次世界大戦の遺産、宇宙時代の始まりの複雑な結びつきを示している。",
+      "ko": "이 날짜는 독일 로켓 기술, 제2차 세계대전의 유산, 우주 시대의 시작 사이의 복잡한 연결을 보여 준다.",
+      "hi": "यह तारीख जर्मन रॉकेट तकनीक, द्वितीय विश्व युद्ध की विरासत और अंतरिक्ष युग की शुरुआत के जटिल संबंध को दिखाती है।",
+      "ar": "يُظهر هذا التاريخ الصلة المعقدة بين تقنية الصواريخ الألمانية وإرث الحرب العالمية الثانية وبداية عصر الفضاء."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Открытие радиационных поясов",
           "de": "Entdeckung der Strahlungsgürtel",
-          "en": "Discovery of the radiation belts"
+          "en": "Discovery of the radiation belts",
+          "fr": "Découverte des ceintures de radiation",
+          "es": "Descubrimiento de los cinturones de radiación",
+          "it": "Scoperta delle fasce di radiazione",
+          "pt": "Descoberta dos cinturões de radiação",
+          "nl": "Ontdekking van de stralingsgordels",
+          "pl": "Odkrycie pasów radiacyjnych",
+          "tr": "Radyasyon kuşaklarının keşfi",
+          "zh": "辐射带的发现",
+          "ja": "放射線帯の発見",
+          "ko": "방사선대의 발견",
+          "hi": "विकिरण पट्टियों की खोज",
+          "ar": "اكتشاف أحزمة الإشعاع"
         },
         "description": {
           "ru": "Explorer 1 нёс научный прибор Джеймса Ван Аллена. Данные спутника помогли обнаружить радиационные пояса вокруг Земли, которые теперь называют поясами Ван Аллена.",
           "de": "Explorer 1 trug ein wissenschaftliches Instrument von James Van Allen. Die Daten des Satelliten halfen, Strahlungsgürtel um die Erde zu entdecken, die heute Van-Allen-Gürtel heissen.",
-          "en": "Explorer 1 carried a scientific instrument designed by James Van Allen. The satellite's data helped discover radiation belts around Earth, now called the Van Allen belts."
+          "en": "Explorer 1 carried a scientific instrument designed by James Van Allen. The satellite's data helped discover radiation belts around Earth, now called the Van Allen belts.",
+          "fr": "Explorer 1 emportait un instrument scientifique conçu par James Van Allen. Les données du satellite aidèrent à découvrir les ceintures de radiation autour de la Terre, aujourd'hui appelées ceintures de Van Allen.",
+          "es": "Explorer 1 llevaba un instrumento científico diseñado por James Van Allen. Los datos del satélite ayudaron a descubrir cinturones de radiación alrededor de la Tierra, hoy llamados cinturones de Van Allen.",
+          "it": "Explorer 1 portava uno strumento scientifico progettato da James Van Allen. I dati del satellite aiutarono a scoprire fasce di radiazione intorno alla Terra, oggi chiamate fasce di Van Allen.",
+          "pt": "Explorer 1 levava um instrumento científico projetado por James Van Allen. Os dados do satélite ajudaram a descobrir cinturões de radiação ao redor da Terra, hoje chamados cinturões de Van Allen.",
+          "nl": "Explorer 1 droeg een wetenschappelijk instrument van James Van Allen. De gegevens van de satelliet hielpen stralingsgordels rond de aarde te ontdekken, nu de Van Allen-gordels genoemd.",
+          "pl": "Explorer 1 niósł instrument naukowy zaprojektowany przez Jamesa Van Allena. Dane satelity pomogły odkryć pasy radiacyjne wokół Ziemi, dziś nazywane pasami Van Allena.",
+          "tr": "Explorer 1, James Van Allen tarafından tasarlanan bilimsel bir araç taşıyordu. Uydu verileri Dünya çevresindeki radyasyon kuşaklarının keşfine yardım etti; bunlara bugün Van Allen kuşakları denir.",
+          "zh": "探索者1号携带了詹姆斯·范艾伦设计的科学仪器。卫星数据帮助发现了地球周围的辐射带，如今称为范艾伦辐射带。",
+          "ja": "エクスプローラー1号はジェームズ・ヴァン・アレンが設計した科学機器を搭載していた。衛星のデータは、現在ヴァン・アレン帯と呼ばれる地球周囲の放射線帯の発見に役立った。",
+          "ko": "익스플로러 1호는 제임스 밴 앨런이 설계한 과학 장비를 실었다. 위성 자료는 오늘날 밴 앨런대라고 불리는 지구 주변 방사선대 발견에 도움을 주었다.",
+          "hi": "Explorer 1 में जेम्स वैन एलन द्वारा बनाया गया वैज्ञानिक उपकरण था। उपग्रह के डेटा ने पृथ्वी के चारों ओर विकिरण पट्टियों की खोज में मदद की, जिन्हें अब वैन एलन पट्टियाँ कहा जाता है।",
+          "ar": "حمل إكسبلورر 1 أداة علمية صممها جيمس فان ألن. وساعدت بيانات القمر الصناعي في اكتشاف أحزمة إشعاع حول الأرض تُسمى اليوم أحزمة فان ألن."
         },
         "importance": {
           "ru": "Первый спутник США был не только политическим ответом на Sputnik, но и настоящей научной миссией.",
           "de": "Der erste US-Satellit war nicht nur eine politische Antwort auf Sputnik, sondern auch eine echte wissenschaftliche Mission.",
-          "en": "America's first satellite was not only a political answer to Sputnik, but also a real scientific mission."
+          "en": "America's first satellite was not only a political answer to Sputnik, but also a real scientific mission.",
+          "fr": "Le premier satellite américain fut non seulement une réponse politique à Spoutnik, mais aussi une véritable mission scientifique.",
+          "es": "El primer satélite estadounidense no fue solo una respuesta política al Sputnik, sino también una verdadera misión científica.",
+          "it": "Il primo satellite americano non fu solo una risposta politica allo Sputnik, ma anche una vera missione scientifica.",
+          "pt": "O primeiro satélite americano não foi apenas uma resposta política ao Sputnik, mas também uma verdadeira missão científica.",
+          "nl": "De eerste Amerikaanse satelliet was niet alleen een politiek antwoord op Spoetnik, maar ook een echte wetenschappelijke missie.",
+          "pl": "Pierwszy amerykański satelita był nie tylko polityczną odpowiedzią na Sputnika, lecz także prawdziwą misją naukową.",
+          "tr": "Amerika'nın ilk uydusu yalnızca Sputnik'e siyasi bir yanıt değil, gerçek bir bilimsel görevdi.",
+          "zh": "美国第一颗卫星不仅是对“斯普特尼克”的政治回应，也是真正的科学任务。",
+          "ja": "アメリカ初の人工衛星は、スプートニクへの政治的な答えであるだけでなく、本物の科学ミッションでもあった。",
+          "ko": "미국의 첫 위성은 스푸트니크에 대한 정치적 대응일 뿐 아니라 실제 과학 임무이기도 했다.",
+          "hi": "अमेरिका का पहला उपग्रह केवल Sputnik का राजनीतिक उत्तर नहीं था, बल्कि वास्तविक वैज्ञानिक मिशन भी था।",
+          "ar": "لم يكن أول قمر صناعي أمريكي رداً سياسياً على سبوتنيك فقط، بل كان مهمة علمية حقيقية أيضاً."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Сложное наследие фон Брауна",
           "de": "Das schwierige Erbe von Braun",
-          "en": "Von Braun's difficult legacy"
+          "en": "Von Braun's difficult legacy",
+          "fr": "L'héritage difficile de von Braun",
+          "es": "El difícil legado de von Braun",
+          "it": "La difficile eredità di von Braun",
+          "pt": "O difícil legado de von Braun",
+          "nl": "De moeilijke erfenis van Von Braun",
+          "pl": "Trudne dziedzictwo von Brauna",
+          "tr": "Von Braun'un zor mirası",
+          "zh": "冯·布劳恩的复杂遗产",
+          "ja": "フォン・ブラウンの難しい遺産",
+          "ko": "폰 브라운의 어려운 유산",
+          "hi": "फ़ॉन ब्राउन की जटिल विरासत",
+          "ar": "الإرث الصعب لفون براون"
         },
         "description": {
           "ru": "Вернер фон Браун стал знаменитым лицом американской космической программы, но его биография связана и с нацистской военной промышленностью. Поэтому его история требует не восхищения без вопросов, а внимательного разговора о науке и ответственности.",
           "de": "Wernher von Braun wurde zu einem berühmten Gesicht des amerikanischen Raumfahrtprogramms, doch seine Biografie ist auch mit der nationalsozialistischen Rüstungsindustrie verbunden. Seine Geschichte verlangt daher keine unkritische Bewunderung, sondern ein genaues Gespräch über Wissenschaft und Verantwortung.",
-          "en": "Wernher von Braun became a famous face of the American space program, but his biography is also tied to the Nazi armaments industry. His story therefore calls not for uncritical admiration, but for careful discussion of science and responsibility."
+          "en": "Wernher von Braun became a famous face of the American space program, but his biography is also tied to the Nazi armaments industry. His story therefore calls not for uncritical admiration, but for careful discussion of science and responsibility.",
+          "fr": "Wernher von Braun devint un visage célèbre du programme spatial américain, mais sa biographie est aussi liée à l'industrie d'armement nazie. Son histoire demande donc non une admiration sans critique, mais une discussion attentive sur science et responsabilité.",
+          "es": "Wernher von Braun se convirtió en un rostro famoso del programa espacial estadounidense, pero su biografía también está ligada a la industria armamentística nazi. Su historia exige no admiración acrítica, sino una conversación cuidadosa sobre ciencia y responsabilidad.",
+          "it": "Wernher von Braun divenne un volto famoso del programma spaziale americano, ma la sua biografia è legata anche all'industria bellica nazista. La sua storia richiede quindi non ammirazione acritica, ma una discussione attenta su scienza e responsabilità.",
+          "pt": "Wernher von Braun tornou-se um rosto famoso do programa espacial americano, mas sua biografia também está ligada à indústria de armamentos nazista. Sua história pede não admiração acrítica, mas uma conversa cuidadosa sobre ciência e responsabilidade.",
+          "nl": "Wernher von Braun werd een beroemd gezicht van het Amerikaanse ruimteprogramma, maar zijn biografie is ook verbonden met de nazi-wapenindustrie. Zijn verhaal vraagt daarom niet om kritiekloze bewondering, maar om een zorgvuldig gesprek over wetenschap en verantwoordelijkheid.",
+          "pl": "Wernher von Braun stał się słynną twarzą amerykańskiego programu kosmicznego, ale jego biografia wiąże się także z nazistowskim przemysłem zbrojeniowym. Jego historia wymaga więc nie bezkrytycznego podziwu, lecz uważnej rozmowy o nauce i odpowiedzialności.",
+          "tr": "Wernher von Braun Amerikan uzay programının ünlü yüzlerinden biri oldu, ancak biyografisi Nazi silah sanayisiyle de bağlantılıdır. Bu yüzden hikâyesi sorgusuz hayranlık değil, bilim ve sorumluluk üzerine dikkatli bir tartışma gerektirir.",
+          "zh": "沃纳·冯·布劳恩成为美国太空计划的著名人物，但他的生平也与纳粹军工产业相连。因此，他的故事需要的不是无批判的崇拜，而是对科学与责任的认真讨论。",
+          "ja": "ヴェルナー・フォン・ブラウンはアメリカ宇宙計画の有名な顔となったが、その経歴はナチの軍需産業とも結びついている。だから彼の物語には無批判な称賛ではなく、科学と責任についての慎重な議論が必要である。",
+          "ko": "베르너 폰 브라운은 미국 우주 프로그램의 유명한 얼굴이 되었지만, 그의 생애는 나치 군수 산업과도 연결되어 있다. 따라서 그의 이야기는 무비판적 찬사가 아니라 과학과 책임에 대한 신중한 논의를 요구한다.",
+          "hi": "वर्नर फ़ॉन ब्राउन अमेरिकी अंतरिक्ष कार्यक्रम का प्रसिद्ध चेहरा बने, लेकिन उनकी जीवनी नाजी हथियार उद्योग से भी जुड़ी है। इसलिए उनकी कहानी अंधी प्रशंसा नहीं, बल्कि विज्ञान और जिम्मेदारी पर सावधान बातचीत मांगती है।",
+          "ar": "أصبح فيرنر فون براون وجهاً مشهوراً للبرنامج الفضائي الأمريكي، لكن سيرته مرتبطة أيضاً بصناعة السلاح النازية. لذلك لا تتطلب قصته إعجاباً غير نقدي، بل نقاشاً دقيقاً حول العلم والمسؤولية."
         },
         "importance": {
           "ru": "Это один из тех случаев, где технический прогресс нельзя отделить от моральных вопросов истории.",
           "de": "Das ist einer der Fälle, in denen technischer Fortschritt nicht von moralischen Fragen der Geschichte getrennt werden kann.",
-          "en": "It is one of those cases where technical progress cannot be separated from the moral questions of history."
+          "en": "It is one of those cases where technical progress cannot be separated from the moral questions of history.",
+          "fr": "C'est l'un de ces cas où le progrès technique ne peut être séparé des questions morales de l'histoire.",
+          "es": "Es uno de esos casos en los que el progreso técnico no puede separarse de las preguntas morales de la historia.",
+          "it": "È uno di quei casi in cui il progresso tecnico non può essere separato dalle questioni morali della storia.",
+          "pt": "É um desses casos em que o progresso técnico não pode ser separado das questões morais da história.",
+          "nl": "Het is een van die gevallen waarin technische vooruitgang niet los kan worden gezien van morele vragen uit de geschiedenis.",
+          "pl": "To jeden z przypadków, w których postępu technicznego nie da się oddzielić od moralnych pytań historii.",
+          "tr": "Bu, teknik ilerlemenin tarihin ahlaki sorularından ayrılamadığı durumlardan biridir.",
+          "zh": "这是技术进步无法与历史道德问题分开的案例之一。",
+          "ja": "これは、技術的進歩を歴史の道徳的問題から切り離せない場合の一つである。",
+          "ko": "이는 기술 발전을 역사의 도덕적 질문과 분리할 수 없는 사례 중 하나다.",
+          "hi": "यह उन मामलों में से है जहाँ तकनीकी प्रगति को इतिहास के नैतिक प्रश्नों से अलग नहीं किया जा सकता।",
+          "ar": "إنها إحدى الحالات التي لا يمكن فيها فصل التقدم التقني عن الأسئلة الأخلاقية في التاريخ."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Explorer 1 стал ответом США на советский Sputnik и первым американским спутником Земли.",
     "de": "Explorer 1 war die Antwort der USA auf den sowjetischen Sputnik und der erste amerikanische Erdsatellit.",
-    "en": "Explorer 1 was the U.S. answer to the Soviet Sputnik and the first American Earth satellite."
+    "en": "Explorer 1 was the U.S. answer to the Soviet Sputnik and the first American Earth satellite.",
+    "fr": "Explorer 1 fut la réponse américaine au Spoutnik soviétique et le premier satellite terrestre américain.",
+    "es": "Explorer 1 fue la respuesta estadounidense al Sputnik soviético y el primer satélite terrestre estadounidense.",
+    "it": "Explorer 1 fu la risposta degli Stati Uniti allo Sputnik sovietico e il primo satellite terrestre americano.",
+    "pt": "Explorer 1 foi a resposta dos EUA ao Sputnik soviético e o primeiro satélite terrestre americano.",
+    "nl": "Explorer 1 was het Amerikaanse antwoord op de Sovjet-Spoetnik en de eerste Amerikaanse aardesatelliet.",
+    "pl": "Explorer 1 był odpowiedzią USA na radzieckiego Sputnika i pierwszym amerykańskim satelitą Ziemi.",
+    "tr": "Explorer 1, ABD'nin Sovyet Sputnik'ine yanıtı ve ilk Amerikan Dünya uydusuydu.",
+    "zh": "探索者1号是美国对苏联“斯普特尼克”的回应，也是美国第一颗地球卫星。",
+    "ja": "エクスプローラー1号はソ連のスプートニクへのアメリカの答えであり、アメリカ初の地球衛星だった。",
+    "ko": "익스플로러 1호는 소련 스푸트니크에 대한 미국의 응답이자 최초의 미국 지구 위성이었다.",
+    "hi": "Explorer 1 सोवियत Sputnik का अमेरिकी उत्तर और अमेरिका का पहला पृथ्वी उपग्रह था।",
+    "ar": "كان إكسبلورر 1 رد الولايات المتحدة على سبوتنيك السوفيتي وأول قمر صناعي أمريكي للأرض."
   },
   "sources": [
     {

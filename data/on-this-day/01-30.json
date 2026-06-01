@@ -11,17 +11,53 @@
     "title": {
       "ru": "Гитлер назначен рейхсканцлером",
       "de": "Hitler wird Reichskanzler",
-      "en": "Hitler is appointed chancellor"
+      "en": "Hitler is appointed chancellor",
+      "fr": "Hitler est nommé chancelier",
+      "es": "Hitler es nombrado canciller",
+      "it": "Hitler viene nominato cancelliere",
+      "pt": "Hitler é nomeado chanceler",
+      "nl": "Hitler wordt tot rijkskanselier benoemd",
+      "pl": "Hitler zostaje mianowany kanclerzem",
+      "tr": "Hitler şansölye atanır",
+      "zh": "希特勒被任命为总理",
+      "ja": "ヒトラーが首相に任命される",
+      "ko": "히틀러가 총리로 임명되다",
+      "hi": "हिटलर चांसलर नियुक्त हुआ",
+      "ar": "تعيين هتلر مستشاراً"
     },
     "description": {
       "ru": "30 января 1933 года президент Пауль фон Гинденбург назначил Адольфа Гитлера рейхсканцлером. В этот момент Гитлер ещё не был диктатором, но получил власть, которую быстро использовал для разрушения демократии.",
       "de": "Am 30. Januar 1933 ernannte Reichspraesident Paul von Hindenburg Adolf Hitler zum Reichskanzler. Zu diesem Zeitpunkt war Hitler noch kein Diktator, nutzte die Macht aber schnell zur Zerstoerung der Demokratie.",
-      "en": "On 30 January 1933, President Paul von Hindenburg appointed Adolf Hitler chancellor. Hitler was not yet a dictator, but he quickly used power to destroy democracy."
+      "en": "On 30 January 1933, President Paul von Hindenburg appointed Adolf Hitler chancellor. Hitler was not yet a dictator, but he quickly used power to destroy democracy.",
+      "fr": "Le 30 janvier 1933, le président Paul von Hindenburg nomma Adolf Hitler chancelier. Hitler n'était pas encore dictateur, mais il utilisa rapidement le pouvoir pour détruire la démocratie.",
+      "es": "El 30 de enero de 1933, el presidente Paul von Hindenburg nombró canciller a Adolf Hitler. Hitler aún no era dictador, pero usó rápidamente el poder para destruir la democracia.",
+      "it": "Il 30 gennaio 1933 il presidente Paul von Hindenburg nominò Adolf Hitler cancelliere. Hitler non era ancora dittatore, ma usò rapidamente il potere per distruggere la democrazia.",
+      "pt": "Em 30 de janeiro de 1933, o presidente Paul von Hindenburg nomeou Adolf Hitler chanceler. Hitler ainda não era ditador, mas usou rapidamente o poder para destruir a democracia.",
+      "nl": "Op 30 januari 1933 benoemde president Paul von Hindenburg Adolf Hitler tot rijkskanselier. Hitler was nog geen dictator, maar gebruikte de macht snel om de democratie te vernietigen.",
+      "pl": "30 stycznia 1933 roku prezydent Paul von Hindenburg mianował Adolfa Hitlera kanclerzem Rzeszy. Hitler nie był jeszcze dyktatorem, ale szybko użył władzy do zniszczenia demokracji.",
+      "tr": "30 Ocak 1933'te Cumhurbaşkanı Paul von Hindenburg Adolf Hitler'i şansölye atadı. Hitler henüz diktatör değildi, ancak gücü demokrasiyi yok etmek için hızla kullandı.",
+      "zh": "1933年1月30日，总统保罗·冯·兴登堡任命阿道夫·希特勒为总理。希特勒当时还不是独裁者，但很快利用权力摧毁民主。",
+      "ja": "1933年1月30日、パウル・フォン・ヒンデンブルク大統領はアドルフ・ヒトラーを首相に任命した。ヒトラーはまだ独裁者ではなかったが、権力をすぐに民主主義の破壊に使った。",
+      "ko": "1933년 1월 30일 파울 폰 힌덴부르크 대통령은 아돌프 히틀러를 총리로 임명했다. 히틀러는 아직 독재자가 아니었지만 권력을 빠르게 민주주의 파괴에 이용했다.",
+      "hi": "30 जनवरी 1933 को राष्ट्रपति पॉल फ़ॉन हिंडनबुर्ग ने एडोल्फ हिटलर को चांसलर नियुक्त किया। उस समय हिटलर अभी तानाशाह नहीं था, लेकिन उसने सत्ता का उपयोग जल्दी ही लोकतंत्र को नष्ट करने में किया।",
+      "ar": "في 30 يناير 1933 عيّن الرئيس باول فون هيندنبورغ أدولف هتلر مستشاراً. لم يكن هتلر دكتاتوراً بعد، لكنه استخدم السلطة بسرعة لتدمير الديمقراطية."
     },
     "importance": {
       "ru": "Дата показывает, что диктатура может начаться с формального назначения внутри существующей системы.",
       "de": "Das Datum zeigt, dass eine Diktatur mit einer formalen Ernennung innerhalb eines bestehenden Systems beginnen kann.",
-      "en": "The date shows that dictatorship can begin with a formal appointment inside an existing system."
+      "en": "The date shows that dictatorship can begin with a formal appointment inside an existing system.",
+      "fr": "Cette date montre qu'une dictature peut commencer par une nomination formelle dans un système existant.",
+      "es": "La fecha muestra que una dictadura puede comenzar con un nombramiento formal dentro de un sistema existente.",
+      "it": "La data mostra che una dittatura può iniziare con una nomina formale dentro un sistema esistente.",
+      "pt": "A data mostra que uma ditadura pode começar com uma nomeação formal dentro de um sistema existente.",
+      "nl": "De datum laat zien dat een dictatuur kan beginnen met een formele benoeming binnen een bestaand systeem.",
+      "pl": "Ta data pokazuje, że dyktatura może zacząć się od formalnej nominacji w istniejącym systemie.",
+      "tr": "Bu tarih, diktatörlüğün mevcut bir sistem içinde resmî bir atamayla başlayabileceğini gösterir.",
+      "zh": "这个日期显示，独裁可以从现有制度内的一项正式任命开始。",
+      "ja": "この日付は、独裁が既存の制度の中での正式な任命から始まり得ることを示している。",
+      "ko": "이 날짜는 독재가 기존 제도 안의 공식 임명에서 시작될 수 있음을 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि तानाशाही मौजूदा व्यवस्था के भीतर औपचारिक नियुक्ति से भी शुरू हो सकती है।",
+      "ar": "يُظهر هذا التاريخ أن الدكتاتورية قد تبدأ بتعيين رسمي داخل نظام قائم."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Конец Веймарской демократии",
           "de": "Das Ende der Weimarer Demokratie",
-          "en": "The end of Weimar democracy"
+          "en": "The end of Weimar democracy",
+          "fr": "La fin de la démocratie de Weimar",
+          "es": "El fin de la democracia de Weimar",
+          "it": "La fine della democrazia di Weimar",
+          "pt": "O fim da democracia de Weimar",
+          "nl": "Het einde van de Weimardemocratie",
+          "pl": "Koniec demokracji weimarskiej",
+          "tr": "Weimar demokrasisinin sonu",
+          "zh": "魏玛民主的终结",
+          "ja": "ワイマール民主主義の終わり",
+          "ko": "바이마르 민주주의의 끝",
+          "hi": "वाइमर लोकतंत्र का अंत",
+          "ar": "نهاية ديمقراطية فايمار"
         },
         "description": {
           "ru": "После назначения нацисты использовали насилие, пропаганду и законы, чтобы устранить противников. Веймарская республика формально ещё существовала, но её основы быстро рушились.",
           "de": "Nach der Ernennung nutzten die Nationalsozialisten Gewalt, Propaganda und Gesetze, um Gegner auszuschalten. Die Weimarer Republik existierte formal noch, doch ihre Grundlagen zerfielen schnell.",
-          "en": "After the appointment, the Nazis used violence, propaganda and laws to eliminate opponents. The Weimar Republic still existed formally, but its foundations collapsed quickly."
+          "en": "After the appointment, the Nazis used violence, propaganda and laws to eliminate opponents. The Weimar Republic still existed formally, but its foundations collapsed quickly.",
+          "fr": "Après la nomination, les nazis utilisèrent violence, propagande et lois pour éliminer leurs adversaires. La république de Weimar existait encore formellement, mais ses bases s'effondraient rapidement.",
+          "es": "Tras el nombramiento, los nazis usaron violencia, propaganda y leyes para eliminar a sus adversarios. La República de Weimar aún existía formalmente, pero sus bases se derrumbaban rápidamente.",
+          "it": "Dopo la nomina, i nazisti usarono violenza, propaganda e leggi per eliminare gli oppositori. La Repubblica di Weimar esisteva ancora formalmente, ma le sue basi crollavano rapidamente.",
+          "pt": "Após a nomeação, os nazistas usaram violência, propaganda e leis para eliminar adversários. A República de Weimar ainda existia formalmente, mas suas bases ruíam rapidamente.",
+          "nl": "Na de benoeming gebruikten de nazi's geweld, propaganda en wetten om tegenstanders uit te schakelen. De Weimarrepubliek bestond formeel nog, maar haar fundamenten stortten snel in.",
+          "pl": "Po nominacji naziści użyli przemocy, propagandy i prawa, aby wyeliminować przeciwników. Republika Weimarska formalnie jeszcze istniała, ale jej podstawy szybko się rozpadały.",
+          "tr": "Atamadan sonra Naziler muhalifleri ortadan kaldırmak için şiddet, propaganda ve yasaları kullandı. Weimar Cumhuriyeti resmen hâlâ vardı, ancak temelleri hızla çöktü.",
+          "zh": "任命之后，纳粹利用暴力、宣传和法律消除反对者。魏玛共和国形式上仍然存在，但其基础迅速崩塌。",
+          "ja": "任命後、ナチは暴力、宣伝、法律を使って反対者を排除した。ワイマール共和国は形式上はまだ存在していたが、その土台は急速に崩れていった。",
+          "ko": "임명 이후 나치는 폭력, 선전, 법률을 이용해 반대자들을 제거했다. 바이마르 공화국은 형식상 아직 존재했지만 그 기반은 빠르게 무너졌다.",
+          "hi": "नियुक्ति के बाद नाजियों ने विरोधियों को हटाने के लिए हिंसा, प्रचार और कानूनों का उपयोग किया। वाइमर गणराज्य औपचारिक रूप से अभी मौजूद था, लेकिन उसकी नींव तेजी से टूट रही थी।",
+          "ar": "بعد التعيين استخدم النازيون العنف والدعاية والقوانين لإقصاء المعارضين. كانت جمهورية فايمار لا تزال قائمة شكلياً، لكن أسسها انهارت بسرعة."
         },
         "importance": {
           "ru": "Это важный урок о хрупкости демократических институтов.",
           "de": "Das ist eine wichtige Lehre ueber die Zerbrechlichkeit demokratischer Institutionen.",
-          "en": "It is an important lesson about the fragility of democratic institutions."
+          "en": "It is an important lesson about the fragility of democratic institutions.",
+          "fr": "C'est une leçon importante sur la fragilité des institutions démocratiques.",
+          "es": "Es una lección importante sobre la fragilidad de las instituciones democráticas.",
+          "it": "È una lezione importante sulla fragilità delle istituzioni democratiche.",
+          "pt": "É uma lição importante sobre a fragilidade das instituições democráticas.",
+          "nl": "Het is een belangrijke les over de kwetsbaarheid van democratische instellingen.",
+          "pl": "To ważna lekcja o kruchości instytucji demokratycznych.",
+          "tr": "Bu, demokratik kurumların kırılganlığı hakkında önemli bir derstir.",
+          "zh": "这是关于民主制度脆弱性的重要教训。",
+          "ja": "これは民主的制度の脆さについての重要な教訓である。",
+          "ko": "이는 민주주의 제도의 취약성에 관한 중요한 교훈이다.",
+          "hi": "यह लोकतांत्रिक संस्थाओं की नाजुकता पर महत्वपूर्ण सबक है।",
+          "ar": "إنه درس مهم حول هشاشة المؤسسات الديمقراطية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "30 января нацисты позже называли «захватом власти», хотя власть была передана через политические решения элит.",
     "de": "Die Nationalsozialisten nannten den 30. Januar spaeter Machtergreifung, obwohl Macht durch Entscheidungen politischer Eliten uebertragen wurde.",
-    "en": "The Nazis later called 30 January a seizure of power, although power was transferred through decisions by political elites."
+    "en": "The Nazis later called 30 January a seizure of power, although power was transferred through decisions by political elites.",
+    "fr": "Les nazis appelèrent plus tard le 30 janvier une prise de pouvoir, bien que le pouvoir ait été transmis par des décisions d'élites politiques.",
+    "es": "Los nazis llamaron después al 30 de enero una toma del poder, aunque el poder fue transferido por decisiones de élites políticas.",
+    "it": "I nazisti chiamarono poi il 30 gennaio presa del potere, anche se il potere fu trasferito da decisioni delle élite politiche.",
+    "pt": "Os nazistas depois chamaram 30 de janeiro de tomada do poder, embora o poder tenha sido transferido por decisões de elites políticas.",
+    "nl": "De nazi's noemden 30 januari later machtsgreep, hoewel de macht werd overgedragen door besluiten van politieke elites.",
+    "pl": "Naziści później nazwali 30 stycznia przejęciem władzy, choć władza została przekazana decyzjami elit politycznych.",
+    "tr": "Naziler daha sonra 30 Ocak'ı iktidarın ele geçirilmesi diye adlandırdı, oysa güç siyasi elitlerin kararlarıyla devredildi.",
+    "zh": "纳粹后来把1月30日称为夺权，尽管权力是通过政治精英的决定移交的。",
+    "ja": "ナチは後に1月30日を権力掌握と呼んだが、実際には政治エリートの決定によって権力が移された。",
+    "ko": "나치는 훗날 1월 30일을 권력 장악이라고 불렀지만, 실제로 권력은 정치 엘리트들의 결정으로 넘겨졌다.",
+    "hi": "नाजियों ने बाद में 30 जनवरी को सत्ता-हड़पना कहा, जबकि सत्ता राजनीतिक अभिजात वर्ग के निर्णयों से सौंपी गई थी।",
+    "ar": "سمّى النازيون لاحقاً يوم 30 يناير استيلاءً على السلطة، رغم أن السلطة نُقلت عبر قرارات النخب السياسية."
   },
   "sources": [
     {
