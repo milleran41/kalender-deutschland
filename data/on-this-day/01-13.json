@@ -11,17 +11,53 @@
     "title": {
       "ru": "Плебисцит в Сааре",
       "de": "Volksabstimmung im Saargebiet",
-      "en": "Saar plebiscite"
+      "en": "Saar plebiscite",
+      "fr": "Plébiscite en Sarre",
+      "es": "Plebiscito del Sarre",
+      "it": "Plebiscito nella Saar",
+      "pt": "Plebiscito no Sarre",
+      "nl": "Volksstemming in het Saargebied",
+      "pl": "Plebiscyt w Saarze",
+      "tr": "Saar plebisiti",
+      "zh": "萨尔公投",
+      "ja": "ザール住民投票",
+      "ko": "자르 주민투표",
+      "hi": "सार क्षेत्र में जनमत-संग्रह",
+      "ar": "استفتاء سار"
     },
     "description": {
       "ru": "13 января 1935 года жители Саарской области голосовали за будущее территории: сохранение управления Лиги Наций, присоединение к Франции или возвращение к Германии. Большинство высказалось за возвращение в Германию.",
       "de": "Am 13. Januar 1935 stimmten die Menschen im Saargebiet ueber die Zukunft des Territoriums ab: Verwaltung durch den Voelkerbund, Anschluss an Frankreich oder Rueckkehr zu Deutschland. Die Mehrheit sprach sich fuer die Rueckkehr zu Deutschland aus.",
-      "en": "On 13 January 1935, people in the Saar territory voted on its future: continued League of Nations administration, union with France or return to Germany. A majority voted to return to Germany."
+      "en": "On 13 January 1935, people in the Saar territory voted on its future: continued League of Nations administration, union with France or return to Germany. A majority voted to return to Germany.",
+      "fr": "Le 13 janvier 1935, les habitants du territoire de la Sarre votèrent sur son avenir : maintien de l'administration de la Société des Nations, rattachement à la France ou retour à l'Allemagne. La majorité choisit le retour à l'Allemagne.",
+      "es": "El 13 de enero de 1935, los habitantes del territorio del Sarre votaron sobre su futuro: continuar bajo la administración de la Sociedad de Naciones, unirse a Francia o volver a Alemania. La mayoría votó por regresar a Alemania.",
+      "it": "Il 13 gennaio 1935 gli abitanti del territorio della Saar votarono sul suo futuro: mantenere l'amministrazione della Società delle Nazioni, unirsi alla Francia o tornare alla Germania. La maggioranza scelse il ritorno alla Germania.",
+      "pt": "Em 13 de janeiro de 1935, os habitantes do território do Sarre votaram sobre seu futuro: continuar sob administração da Liga das Nações, unir-se à França ou retornar à Alemanha. A maioria votou pelo retorno à Alemanha.",
+      "nl": "Op 13 januari 1935 stemden de inwoners van het Saargebied over de toekomst van het gebied: voortzetting van het bestuur door de Volkenbond, aansluiting bij Frankrijk of terugkeer naar Duitsland. Een meerderheid koos voor terugkeer naar Duitsland.",
+      "pl": "13 stycznia 1935 roku mieszkańcy Saary głosowali nad przyszłością terytorium: dalszą administracją Ligi Narodów, przyłączeniem do Francji albo powrotem do Niemiec. Większość opowiedziała się za powrotem do Niemiec.",
+      "tr": "13 Ocak 1935'te Saar bölgesinin halkı, bölgenin geleceği için oy kullandı: Milletler Cemiyeti yönetiminin sürmesi, Fransa'ya katılma ya da Almanya'ya dönüş. Çoğunluk Almanya'ya dönmekten yana oy verdi.",
+      "zh": "1935年1月13日，萨尔地区居民就该地区的未来投票：继续由国际联盟管理、并入法国，或回归德国。多数人投票支持回归德国。",
+      "ja": "1935年1月13日、ザール地方の住民は、この地域の将来について投票した。選択肢は国際連盟による統治の継続、フランスへの編入、ドイツへの復帰だった。多数はドイツへの復帰を選んだ。",
+      "ko": "1935년 1월 13일 자르 지역 주민들은 영토의 미래를 놓고 투표했다. 선택지는 국제연맹 통치의 지속, 프랑스와의 합병, 독일로의 복귀였다. 다수는 독일 복귀를 선택했다.",
+      "hi": "13 जनवरी 1935 को सार क्षेत्र के लोगों ने अपने क्षेत्र के भविष्य पर मतदान किया: राष्ट्र संघ का प्रशासन जारी रखना, फ्रांस में शामिल होना या जर्मनी में लौटना। बहुमत ने जर्मनी में लौटने के पक्ष में मतदान किया।",
+      "ar": "في 13 يناير 1935 صوّت سكان إقليم سار على مستقبل المنطقة: استمرار إدارة عصبة الأمم، أو الانضمام إلى فرنسا، أو العودة إلى ألمانيا. وصوّتت الأغلبية لصالح العودة إلى ألمانيا."
     },
     "importance": {
       "ru": "Событие важно для истории Саара и показывает, как послевоенные границы решались через международный контроль и голосование.",
       "de": "Das Ereignis ist wichtig fuer die Geschichte des Saarlandes und zeigt, wie Nachkriegsgrenzen durch internationale Kontrolle und Abstimmung entschieden wurden.",
-      "en": "The event is important for Saar history and shows how postwar borders could be decided through international control and voting."
+      "en": "The event is important for Saar history and shows how postwar borders could be decided through international control and voting.",
+      "fr": "L'événement est important pour l'histoire de la Sarre et montre comment des frontières d'après-guerre pouvaient être décidées par contrôle international et vote.",
+      "es": "El acontecimiento es importante para la historia del Sarre y muestra cómo las fronteras de posguerra podían decidirse mediante control internacional y votación.",
+      "it": "L'evento è importante per la storia della Saar e mostra come i confini del dopoguerra potessero essere decisi attraverso controllo internazionale e voto.",
+      "pt": "O acontecimento é importante para a história do Sarre e mostra como fronteiras do pós-guerra podiam ser decididas por controle internacional e votação.",
+      "nl": "De gebeurtenis is belangrijk voor de geschiedenis van Saarland en laat zien hoe naoorlogse grenzen via internationale controle en stemming konden worden beslist.",
+      "pl": "Wydarzenie jest ważne dla historii Saary i pokazuje, jak powojenne granice mogły być rozstrzygane przez międzynarodową kontrolę i głosowanie.",
+      "tr": "Bu olay Saar tarihinin önemli bir parçasıdır ve savaş sonrası sınırların uluslararası denetim ve oylama yoluyla nasıl belirlenebildiğini gösterir.",
+      "zh": "这一事件对萨尔历史很重要，也显示了战后边界如何通过国际监督和投票来决定。",
+      "ja": "この出来事はザールの歴史にとって重要であり、戦後の国境が国際管理と投票によって決められ得たことを示している。",
+      "ko": "이 사건은 자르 역사에서 중요하며, 전후 국경이 국제적 통제와 투표를 통해 결정될 수 있었음을 보여 준다.",
+      "hi": "यह घटना सार के इतिहास के लिए महत्वपूर्ण है और दिखाती है कि युद्ध के बाद की सीमाएँ अंतरराष्ट्रीय नियंत्रण और मतदान से तय हो सकती थीं।",
+      "ar": "يُعد هذا الحدث مهماً في تاريخ سار، ويُظهر كيف كان يمكن حسم حدود ما بعد الحرب من خلال رقابة دولية وتصويت."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Саар под управлением Лиги Наций",
           "de": "Das Saargebiet unter Voelkerbundverwaltung",
-          "en": "The Saar under League of Nations administration"
+          "en": "The Saar under League of Nations administration",
+          "fr": "La Sarre sous administration de la Société des Nations",
+          "es": "El Sarre bajo administración de la Sociedad de Naciones",
+          "it": "La Saar sotto amministrazione della Società delle Nazioni",
+          "pt": "O Sarre sob administração da Liga das Nações",
+          "nl": "Het Saargebied onder bestuur van de Volkenbond",
+          "pl": "Saara pod administracją Ligi Narodów",
+          "tr": "Milletler Cemiyeti yönetimindeki Saar",
+          "zh": "国际联盟管理下的萨尔",
+          "ja": "国際連盟統治下のザール",
+          "ko": "국제연맹 관리 아래의 자르",
+          "hi": "राष्ट्र संघ के प्रशासन में सार",
+          "ar": "سار تحت إدارة عصبة الأمم"
         },
         "description": {
           "ru": "После Первой мировой войны Саарская область была отделена от Германии и передана под управление Лиги Наций. Угольные шахты региона имели большое значение для Франции и послевоенной экономики.",
           "de": "Nach dem Ersten Weltkrieg wurde das Saargebiet von Deutschland getrennt und unter Verwaltung des Voelkerbundes gestellt. Die Kohlegruben der Region waren fuer Frankreich und die Nachkriegswirtschaft wichtig.",
-          "en": "After the First World War, the Saar territory was separated from Germany and placed under League of Nations administration. The region's coal mines were important for France and the postwar economy."
+          "en": "After the First World War, the Saar territory was separated from Germany and placed under League of Nations administration. The region's coal mines were important for France and the postwar economy.",
+          "fr": "Après la Première Guerre mondiale, le territoire de la Sarre fut séparé de l'Allemagne et placé sous administration de la Société des Nations. Les mines de charbon de la région étaient importantes pour la France et pour l'économie d'après-guerre.",
+          "es": "Después de la Primera Guerra Mundial, el territorio del Sarre fue separado de Alemania y puesto bajo administración de la Sociedad de Naciones. Las minas de carbón de la región eran importantes para Francia y para la economía de posguerra.",
+          "it": "Dopo la Prima guerra mondiale, il territorio della Saar fu separato dalla Germania e posto sotto l'amministrazione della Società delle Nazioni. Le miniere di carbone della regione erano importanti per la Francia e per l'economia del dopoguerra.",
+          "pt": "Depois da Primeira Guerra Mundial, o território do Sarre foi separado da Alemanha e colocado sob administração da Liga das Nações. As minas de carvão da região eram importantes para a França e para a economia do pós-guerra.",
+          "nl": "Na de Eerste Wereldoorlog werd het Saargebied van Duitsland gescheiden en onder bestuur van de Volkenbond geplaatst. De kolenmijnen van de regio waren belangrijk voor Frankrijk en de naoorlogse economie.",
+          "pl": "Po I wojnie światowej Saara została oddzielona od Niemiec i przekazana pod administrację Ligi Narodów. Kopalnie węgla w regionie miały duże znaczenie dla Francji i powojennej gospodarki.",
+          "tr": "Birinci Dünya Savaşı'ndan sonra Saar bölgesi Almanya'dan ayrıldı ve Milletler Cemiyeti yönetimine verildi. Bölgenin kömür madenleri Fransa ve savaş sonrası ekonomi için önemliydi.",
+          "zh": "第一次世界大战后，萨尔地区从德国分离出来，置于国际联盟管理之下。该地区的煤矿对法国和战后经济都很重要。",
+          "ja": "第一次世界大戦後、ザール地方はドイツから切り離され、国際連盟の管理下に置かれた。この地域の炭鉱はフランスと戦後経済にとって重要だった。",
+          "ko": "제1차 세계대전 후 자르 지역은 독일에서 분리되어 국제연맹의 관리 아래 놓였다. 이 지역의 탄광은 프랑스와 전후 경제에 중요했다.",
+          "hi": "प्रथम विश्व युद्ध के बाद सार क्षेत्र को जर्मनी से अलग कर राष्ट्र संघ के प्रशासन में रखा गया। इस क्षेत्र की कोयला खदानें फ्रांस और युद्धोत्तर अर्थव्यवस्था के लिए महत्वपूर्ण थीं।",
+          "ar": "بعد الحرب العالمية الأولى فُصل إقليم سار عن ألمانيا ووُضع تحت إدارة عصبة الأمم. وكانت مناجم الفحم في المنطقة مهمة لفرنسا ولاقتصاد ما بعد الحرب."
         },
         "importance": {
           "ru": "Так становится понятнее, почему маленький регион оказался в центре большой европейской политики.",
           "de": "So wird verstaendlicher, warum eine kleine Region im Zentrum grosser europaeischer Politik stand.",
-          "en": "This helps explain why a small region stood at the center of major European politics."
+          "en": "This helps explain why a small region stood at the center of major European politics.",
+          "fr": "Cela aide à comprendre pourquoi une petite région se trouva au centre de la grande politique européenne.",
+          "es": "Esto ayuda a entender por qué una pequeña región quedó en el centro de la gran política europea.",
+          "it": "Questo aiuta a capire perché una piccola regione si trovò al centro della grande politica europea.",
+          "pt": "Isso ajuda a entender por que uma pequena região ficou no centro da grande política europeia.",
+          "nl": "Dit maakt duidelijker waarom een kleine regio in het centrum van grote Europese politiek kwam te staan.",
+          "pl": "To pomaga zrozumieć, dlaczego mały region znalazł się w centrum wielkiej europejskiej polityki.",
+          "tr": "Bu, küçük bir bölgenin neden büyük Avrupa siyasetinin merkezinde yer aldığını açıklamaya yardımcı olur.",
+          "zh": "这有助于解释为什么一个小地区会处在欧洲重大政治的中心。",
+          "ja": "これにより、小さな地域がなぜヨーロッパの大きな政治の中心に置かれたのかが分かりやすくなる。",
+          "ko": "이는 작은 지역이 왜 유럽의 큰 정치적 쟁점의 중심에 섰는지 이해하는 데 도움을 준다.",
+          "hi": "इससे समझना आसान होता है कि एक छोटा क्षेत्र बड़ी यूरोपीय राजनीति के केंद्र में क्यों आ गया।",
+          "ar": "يساعد ذلك على فهم سبب وقوع منطقة صغيرة في قلب السياسة الأوروبية الكبرى."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Три варианта на бюллетене",
           "de": "Drei Optionen auf dem Stimmzettel",
-          "en": "Three options on the ballot"
+          "en": "Three options on the ballot",
+          "fr": "Trois options sur le bulletin",
+          "es": "Tres opciones en la papeleta",
+          "it": "Tre opzioni sulla scheda",
+          "pt": "Três opções na cédula",
+          "nl": "Drie opties op het stembiljet",
+          "pl": "Trzy opcje na karcie do głosowania",
+          "tr": "Oy pusulasında üç seçenek",
+          "zh": "选票上的三个选项",
+          "ja": "投票用紙の三つの選択肢",
+          "ko": "투표용지의 세 가지 선택지",
+          "hi": "मतपत्र पर तीन विकल्प",
+          "ar": "ثلاثة خيارات على بطاقة الاقتراع"
         },
         "description": {
           "ru": "Бюллетень предлагал не простой ответ «да» или «нет», а три разных решения. Поэтому голосование было одновременно местным, международным и пропагандистским событием.",
           "de": "Der Stimmzettel bot nicht nur Ja oder Nein, sondern drei verschiedene Loesungen. Darum war die Abstimmung zugleich ein lokales, internationales und propagandistisches Ereignis.",
-          "en": "The ballot offered not a simple yes or no but three different choices. The vote was therefore local, international and propagandistic at the same time."
+          "en": "The ballot offered not a simple yes or no but three different choices. The vote was therefore local, international and propagandistic at the same time.",
+          "fr": "Le bulletin ne proposait pas un simple oui ou non, mais trois choix différents. Le vote fut donc à la fois un événement local, international et de propagande.",
+          "es": "La papeleta no ofrecía un simple sí o no, sino tres opciones distintas. Por eso la votación fue al mismo tiempo un acontecimiento local, internacional y propagandístico.",
+          "it": "La scheda non offriva un semplice sì o no, ma tre scelte diverse. Il voto fu quindi allo stesso tempo un evento locale, internazionale e propagandistico.",
+          "pt": "A cédula não oferecia um simples sim ou não, mas três escolhas diferentes. Por isso a votação foi ao mesmo tempo um acontecimento local, internacional e propagandístico.",
+          "nl": "Het stembiljet bood niet simpelweg ja of nee, maar drie verschillende keuzes. Daardoor was de stemming tegelijk een lokale, internationale en propagandistische gebeurtenis.",
+          "pl": "Karta do głosowania nie oferowała prostego „tak” albo „nie”, lecz trzy różne rozwiązania. Dlatego głosowanie było jednocześnie wydarzeniem lokalnym, międzynarodowym i propagandowym.",
+          "tr": "Oy pusulası basit bir evet ya da hayır değil, üç farklı seçenek sunuyordu. Bu yüzden oylama aynı anda yerel, uluslararası ve propagandaya açık bir olaydı.",
+          "zh": "选票提供的不是简单的是或否，而是三个不同选择。因此这次投票同时具有地方性、国际性和宣传性。",
+          "ja": "投票用紙は単純な賛成・反対ではなく、三つの異なる選択肢を示していた。そのため、この投票は地域的、国際的、そして宣伝的な出来事でもあった。",
+          "ko": "투표용지는 단순한 찬반이 아니라 세 가지 다른 선택지를 제시했다. 그래서 이 투표는 지역적이면서도 국제적이고 선전적인 사건이었다.",
+          "hi": "मतपत्र में केवल 'हाँ' या 'नहीं' नहीं था, बल्कि तीन अलग-अलग विकल्प थे। इसलिए यह मतदान एक साथ स्थानीय, अंतरराष्ट्रीय और प्रचार से जुड़ी घटना बन गया।",
+          "ar": "لم تعرض بطاقة الاقتراع جواباً بسيطاً بنعم أو لا، بل ثلاثة خيارات مختلفة. لذلك كان التصويت حدثاً محلياً ودولياً ودعائياً في الوقت نفسه."
         },
         "importance": {
           "ru": "Иногда история границ помещается буквально на одном листе бумаги.",
           "de": "Manchmal passt die Geschichte von Grenzen buchstaeblich auf ein Blatt Papier.",
-          "en": "Sometimes the history of borders literally fits on one sheet of paper."
+          "en": "Sometimes the history of borders literally fits on one sheet of paper.",
+          "fr": "Parfois, l'histoire des frontières tient littéralement sur une feuille de papier.",
+          "es": "A veces la historia de las fronteras cabe literalmente en una sola hoja de papel.",
+          "it": "A volte la storia dei confini sta letteralmente su un solo foglio di carta.",
+          "pt": "Às vezes, a história das fronteiras cabe literalmente em uma folha de papel.",
+          "nl": "Soms past de geschiedenis van grenzen letterlijk op één vel papier.",
+          "pl": "Czasem historia granic mieści się dosłownie na jednej kartce papieru.",
+          "tr": "Bazen sınırların tarihi kelimenin tam anlamıyla tek bir kâğıda sığar.",
+          "zh": "有时，边界的历史真的可以装在一张纸上。",
+          "ja": "時には、国境の歴史が文字どおり一枚の紙に収まることがある。",
+          "ko": "때로는 국경의 역사가 말 그대로 종이 한 장에 담긴다.",
+          "hi": "कभी-कभी सीमाओं का इतिहास सचमुच कागज की एक शीट पर समा जाता है।",
+          "ar": "أحياناً يتسع تاريخ الحدود حرفياً في ورقة واحدة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Современная земля Саарланд снова получила особый статус после Второй мировой войны и окончательно вошла в ФРГ в 1957 году.",
     "de": "Das heutige Saarland hatte auch nach dem Zweiten Weltkrieg wieder einen Sonderstatus und trat 1957 endgueltig der Bundesrepublik bei.",
-    "en": "Modern Saarland again had a special status after the Second World War and finally joined the Federal Republic in 1957."
+    "en": "Modern Saarland again had a special status after the Second World War and finally joined the Federal Republic in 1957.",
+    "fr": "La Sarre actuelle eut de nouveau un statut particulier après la Seconde Guerre mondiale et rejoignit définitivement la République fédérale en 1957.",
+    "es": "El Sarre moderno volvió a tener un estatus especial después de la Segunda Guerra Mundial y finalmente se incorporó a la República Federal en 1957.",
+    "it": "L'attuale Saarland ebbe di nuovo uno status speciale dopo la Seconda guerra mondiale ed entrò definitivamente nella Repubblica Federale nel 1957.",
+    "pt": "O atual Sarre voltou a ter um status especial depois da Segunda Guerra Mundial e entrou definitivamente na República Federal em 1957.",
+    "nl": "Het huidige Saarland kreeg na de Tweede Wereldoorlog opnieuw een bijzondere status en trad in 1957 definitief toe tot de Bondsrepubliek.",
+    "pl": "Współczesna Saara po II wojnie światowej ponownie miała szczególny status i ostatecznie weszła do Republiki Federalnej w 1957 roku.",
+    "tr": "Günümüz Saarland'ı İkinci Dünya Savaşı'ndan sonra yeniden özel bir statüye sahip oldu ve 1957'de kesin olarak Federal Cumhuriyet'e katıldı.",
+    "zh": "现代萨尔兰在第二次世界大战后再次拥有特殊地位，并于1957年最终加入德意志联邦共和国。",
+    "ja": "現在のザールラントは第二次世界大戦後にも再び特別な地位を持ち、1957年に最終的にドイツ連邦共和国へ加わった。",
+    "ko": "오늘날의 자를란트는 제2차 세계대전 후 다시 특별한 지위를 가졌고, 1957년에 최종적으로 독일연방共和国에 편입되었다.",
+    "hi": "आधुनिक सारलांड को द्वितीय विश्व युद्ध के बाद फिर से विशेष दर्जा मिला और 1957 में वह अंतिम रूप से संघीय गणराज्य में शामिल हुआ।",
+    "ar": "حصلت سارلاند الحالية مرة أخرى على وضع خاص بعد الحرب العالمية الثانية، وانضمت نهائياً إلى الجمهورية الاتحادية عام 1957."
   },
   "sources": [
     {

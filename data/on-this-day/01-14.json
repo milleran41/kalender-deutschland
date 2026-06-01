@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Альберт Швейцер",
       "de": "Albert Schweitzer wird geboren",
-      "en": "Albert Schweitzer is born"
+      "en": "Albert Schweitzer is born",
+      "fr": "Naissance d'Albert Schweitzer",
+      "es": "Nace Albert Schweitzer",
+      "it": "Nasce Albert Schweitzer",
+      "pt": "Nasce Albert Schweitzer",
+      "nl": "Albert Schweitzer wordt geboren",
+      "pl": "Urodził się Albert Schweitzer",
+      "tr": "Albert Schweitzer doğdu",
+      "zh": "阿尔贝特·施韦泽诞生",
+      "ja": "アルベルト・シュヴァイツァーが生まれる",
+      "ko": "알베르트 슈바이처가 태어나다",
+      "hi": "अल्बर्ट श्वाइट्ज़र का जन्म हुआ",
+      "ar": "ميلاد ألبرت شفايتزر"
     },
     "description": {
       "ru": "14 января 1875 года в Кайзерсберге в Эльзасе родился Альберт Швейцер. Он был врачом, теологом, философом, музыкантом и лауреатом Нобелевской премии мира.",
       "de": "Am 14. Januar 1875 wurde Albert Schweitzer in Kaysersberg im Elsass geboren. Er war Arzt, Theologe, Philosoph, Musiker und Friedensnobelpreistraeger.",
-      "en": "On 14 January 1875, Albert Schweitzer was born in Kaysersberg in Alsace. He was a physician, theologian, philosopher, musician and Nobel Peace Prize laureate."
+      "en": "On 14 January 1875, Albert Schweitzer was born in Kaysersberg in Alsace. He was a physician, theologian, philosopher, musician and Nobel Peace Prize laureate.",
+      "fr": "Le 14 janvier 1875, Albert Schweitzer naquit à Kaysersberg, en Alsace. Il fut médecin, théologien, philosophe, musicien et lauréat du prix Nobel de la paix.",
+      "es": "El 14 de enero de 1875 nació Albert Schweitzer en Kaysersberg, en Alsacia. Fue médico, teólogo, filósofo, músico y laureado con el Premio Nobel de la Paz.",
+      "it": "Il 14 gennaio 1875 Albert Schweitzer nacque a Kaysersberg, in Alsazia. Fu medico, teologo, filosofo, musicista e premio Nobel per la pace.",
+      "pt": "Em 14 de janeiro de 1875, Albert Schweitzer nasceu em Kaysersberg, na Alsácia. Ele foi médico, teólogo, filósofo, músico e vencedor do Prêmio Nobel da Paz.",
+      "nl": "Op 14 januari 1875 werd Albert Schweitzer geboren in Kaysersberg in de Elzas. Hij was arts, theoloog, filosoof, musicus en winnaar van de Nobelprijs voor de Vrede.",
+      "pl": "14 stycznia 1875 roku w Kaysersbergu w Alzacji urodził się Albert Schweitzer. Był lekarzem, teologiem, filozofem, muzykiem i laureatem Pokojowej Nagrody Nobla.",
+      "tr": "14 Ocak 1875'te Albert Schweitzer, Alsace bölgesindeki Kaysersberg'de doğdu. Doktor, ilahiyatçı, filozof, müzisyen ve Nobel Barış Ödülü sahibiydi.",
+      "zh": "1875年1月14日，阿尔贝特·施韦泽出生于阿尔萨斯的凯泽斯贝格。他是医生、神学家、哲学家、音乐家，也是诺贝尔和平奖得主。",
+      "ja": "1875年1月14日、アルベルト・シュヴァイツァーはアルザスのカイゼルスベルクで生まれた。彼は医師、神学者、哲学者、音楽家であり、ノーベル平和賞受賞者でもあった。",
+      "ko": "1875년 1월 14일 알베르트 슈바이처는 알자스의 카이저스베르크에서 태어났다. 그는 의사, 신학자, 철학자, 음악가이자 노벨 평화상 수상자였다.",
+      "hi": "14 जनवरी 1875 को अल्बर्ट श्वाइट्ज़र का जन्म अलसास के काइज़र्सबर्ग में हुआ। वे चिकित्सक, धर्मशास्त्री, दार्शनिक, संगीतकार और नोबेल शांति पुरस्कार विजेता थे।",
+      "ar": "في 14 يناير 1875 وُلد ألبرت شفايتزر في كايزرسبيرغ في الألزاس. كان طبيباً ولاهوتياً وفيلسوفاً وموسيقياً وحائزاً على جائزة نوبل للسلام."
     },
     "importance": {
       "ru": "Швейцер показывает сложную культурную историю Эльзаса, где немецкая и французская традиции переплетались особенно тесно.",
       "de": "Schweitzer zeigt die komplexe Kulturgeschichte des Elsass, in der deutsche und franzoesische Traditionen besonders eng verflochten waren.",
-      "en": "Schweitzer shows the complex cultural history of Alsace, where German and French traditions were especially closely intertwined."
+      "en": "Schweitzer shows the complex cultural history of Alsace, where German and French traditions were especially closely intertwined.",
+      "fr": "Schweitzer montre l'histoire culturelle complexe de l'Alsace, où les traditions allemande et française étaient particulièrement étroitement liées.",
+      "es": "Schweitzer muestra la compleja historia cultural de Alsacia, donde las tradiciones alemana y francesa estuvieron especialmente entrelazadas.",
+      "it": "Schweitzer mostra la complessa storia culturale dell'Alsazia, dove le tradizioni tedesca e francese erano intrecciate in modo particolarmente stretto.",
+      "pt": "Schweitzer mostra a complexa história cultural da Alsácia, onde as tradições alemã e francesa estiveram especialmente entrelaçadas.",
+      "nl": "Schweitzer laat de complexe cultuurgeschiedenis van de Elzas zien, waar Duitse en Franse tradities bijzonder nauw verweven waren.",
+      "pl": "Schweitzer pokazuje złożoną historię kulturową Alzacji, gdzie tradycje niemieckie i francuskie były szczególnie mocno splecione.",
+      "tr": "Schweitzer, Alman ve Fransız geleneklerinin özellikle iç içe geçtiği Alsace'ın karmaşık kültürel tarihini gösterir.",
+      "zh": "施韦泽展现了阿尔萨斯复杂的文化历史，在那里德国和法国传统交织得尤为紧密。",
+      "ja": "シュヴァイツァーは、ドイツとフランスの伝統がとりわけ深く絡み合ったアルザスの複雑な文化史を示している。",
+      "ko": "슈바이처는 독일과 프랑스 전통이 특히 긴밀하게 얽혀 있던 알자스의 복잡한 문화사를 보여 준다.",
+      "hi": "श्वाइट्ज़र अलसास के जटिल सांस्कृतिक इतिहास को दिखाते हैं, जहाँ जर्मन और फ्रांसीसी परंपराएँ विशेष रूप से गहराई से जुड़ी थीं।",
+      "ar": "يُظهر شفايتزر التاريخ الثقافي المعقد للألزاس، حيث تداخلت التقاليد الألمانية والفرنسية بشكل وثيق جداً."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Человек нескольких миров",
           "de": "Ein Mensch mehrerer Welten",
-          "en": "A person of several worlds"
+          "en": "A person of several worlds",
+          "fr": "Un homme de plusieurs mondes",
+          "es": "Una persona de varios mundos",
+          "it": "Una persona di più mondi",
+          "pt": "Uma pessoa de vários mundos",
+          "nl": "Een mens van meerdere werelden",
+          "pl": "Człowiek kilku światów",
+          "tr": "Birkaç dünyanın insanı",
+          "zh": "属于多个世界的人",
+          "ja": "いくつもの世界に生きた人物",
+          "ko": "여러 세계의 사람",
+          "hi": "कई दुनियाओं से जुड़ा व्यक्ति",
+          "ar": "إنسان ينتمي إلى عوالم عدة"
         },
         "description": {
           "ru": "Швейцер писал по-немецки, жил в пограничном культурном пространстве и работал врачом в Ламбарене в Африке. Его биография не помещается в рамки одной национальной истории.",
           "de": "Schweitzer schrieb auf Deutsch, lebte in einem Grenzraum der Kulturen und arbeitete als Arzt in Lambarene in Afrika. Seine Biografie passt nicht in eine einzige nationale Geschichte.",
-          "en": "Schweitzer wrote in German, lived in a borderland of cultures and worked as a doctor in Lambarene in Africa. His biography does not fit into one national history."
+          "en": "Schweitzer wrote in German, lived in a borderland of cultures and worked as a doctor in Lambarene in Africa. His biography does not fit into one national history.",
+          "fr": "Schweitzer écrivait en allemand, vivait dans un espace culturel frontalier et travailla comme médecin à Lambaréné, en Afrique. Sa biographie ne tient pas dans une seule histoire nationale.",
+          "es": "Schweitzer escribía en alemán, vivía en un espacio cultural fronterizo y trabajó como médico en Lambaréné, en África. Su biografía no cabe dentro de una sola historia nacional.",
+          "it": "Schweitzer scriveva in tedesco, viveva in uno spazio culturale di frontiera e lavorò come medico a Lambaréné, in Africa. La sua biografia non entra in una sola storia nazionale.",
+          "pt": "Schweitzer escrevia em alemão, vivia em um espaço cultural de fronteira e trabalhou como médico em Lambaréné, na África. Sua biografia não cabe em uma única história nacional.",
+          "nl": "Schweitzer schreef in het Duits, leefde in een grensgebied van culturen en werkte als arts in Lambaréné in Afrika. Zijn biografie past niet in één nationale geschiedenis.",
+          "pl": "Schweitzer pisał po niemiecku, żył na pograniczu kultur i pracował jako lekarz w Lambaréné w Afryce. Jego biografia nie mieści się w ramach jednej historii narodowej.",
+          "tr": "Schweitzer Almanca yazdı, kültürlerin sınır bölgesinde yaşadı ve Afrika'daki Lambaréné'de doktor olarak çalıştı. Biyografisi tek bir ulusal tarihe sığmaz.",
+          "zh": "施韦泽用德语写作，生活在多种文化交汇的边境地区，并在非洲兰巴雷内行医。他的生平无法被放进单一民族史的框架中。",
+          "ja": "シュヴァイツァーはドイツ語で著作を書き、文化の境界地帯に生き、アフリカのランバレネで医師として働いた。彼の生涯は一つの国民史には収まらない。",
+          "ko": "슈바이처는 독일어로 글을 썼고, 문화가 만나는 접경 지역에서 살았으며, 아프리카 랑바레네에서 의사로 일했다. 그의 삶은 하나의 국민사 안에만 담기지 않는다.",
+          "hi": "श्वाइट्ज़र ने जर्मन में लिखा, संस्कृतियों की सीमा-भूमि में रहे और अफ्रीका के लाम्बारेने में डॉक्टर के रूप में काम किया। उनका जीवन किसी एक राष्ट्रीय इतिहास में नहीं समाता।",
+          "ar": "كتب شفايتزر بالألمانية، وعاش في فضاء ثقافي حدودي، وعمل طبيباً في لامباريني في أفريقيا. ولا يمكن حصر سيرته في تاريخ وطني واحد."
         },
         "importance": {
           "ru": "Это хороший пример того, как биография помогает объяснить переменчивую карту Европы.",
           "de": "Das ist ein gutes Beispiel dafuer, wie eine Biografie die wandelbare Karte Europas erklaeren kann.",
-          "en": "It is a good example of how a biography can help explain Europe's changing map."
+          "en": "It is a good example of how a biography can help explain Europe's changing map.",
+          "fr": "C'est un bon exemple de la manière dont une biographie peut aider à expliquer la carte changeante de l'Europe.",
+          "es": "Es un buen ejemplo de cómo una biografía puede ayudar a explicar el mapa cambiante de Europa.",
+          "it": "È un buon esempio di come una biografia possa aiutare a spiegare la carta mutevole dell'Europa.",
+          "pt": "É um bom exemplo de como uma biografia pode ajudar a explicar o mapa mutável da Europa.",
+          "nl": "Het is een goed voorbeeld van hoe een biografie kan helpen de veranderlijke kaart van Europa te verklaren.",
+          "pl": "To dobry przykład tego, jak biografia może pomóc wyjaśnić zmienną mapę Europy.",
+          "tr": "Bu, bir biyografinin Avrupa'nın değişen haritasını açıklamaya nasıl yardımcı olabileceğine iyi bir örnektir.",
+          "zh": "这是一个很好的例子，说明一段人生经历如何帮助解释欧洲不断变化的地图。",
+          "ja": "これは、伝記がヨーロッパの変化する地図を説明する助けになる好例である。",
+          "ko": "이는 한 사람의 전기가 유럽의 변화하는 지도를 설명하는 데 어떻게 도움이 되는지를 보여 주는 좋은 예다.",
+          "hi": "यह अच्छा उदाहरण है कि कैसे एक जीवनी यूरोप के बदलते नक्शे को समझाने में मदद कर सकती है।",
+          "ar": "إنه مثال جيد على كيف يمكن لسيرة حياة أن تساعد في تفسير خريطة أوروبا المتغيرة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Бах, орган и гуманизм",
           "de": "Bach, Orgel und Humanismus",
-          "en": "Bach, organ and humanism"
+          "en": "Bach, organ and humanism",
+          "fr": "Bach, orgue et humanisme",
+          "es": "Bach, órgano y humanismo",
+          "it": "Bach, organo e umanesimo",
+          "pt": "Bach, órgão e humanismo",
+          "nl": "Bach, orgel en humanisme",
+          "pl": "Bach, organy i humanizm",
+          "tr": "Bach, org ve hümanizm",
+          "zh": "巴赫、管风琴与人文主义",
+          "ja": "バッハ、オルガン、ヒューマニズム",
+          "ko": "바흐, 오르간과 휴머니즘",
+          "hi": "बाख, ऑर्गन और मानवतावाद",
+          "ar": "باخ والأرغن والإنسانية"
         },
         "description": {
           "ru": "Швейцер был известным исследователем Баха и органистом. Его интерес к музыке сочетался с идеей этики «благоговения перед жизнью».",
           "de": "Schweitzer war ein bekannter Bach-Forscher und Organist. Sein Interesse an Musik verband sich mit seiner Ethik der Ehrfurcht vor dem Leben.",
-          "en": "Schweitzer was a noted Bach scholar and organist. His interest in music was connected with his ethic of reverence for life."
+          "en": "Schweitzer was a noted Bach scholar and organist. His interest in music was connected with his ethic of reverence for life.",
+          "fr": "Schweitzer était un spécialiste reconnu de Bach et un organiste. Son intérêt pour la musique était lié à son éthique du « respect de la vie ».",
+          "es": "Schweitzer fue un reconocido estudioso de Bach y organista. Su interés por la música estaba unido a su ética de «reverencia por la vida».",
+          "it": "Schweitzer fu un noto studioso di Bach e organista. Il suo interesse per la musica era legato alla sua etica del «rispetto per la vita».",
+          "pt": "Schweitzer foi um reconhecido estudioso de Bach e organista. Seu interesse pela música estava ligado à sua ética de «reverência pela vida».",
+          "nl": "Schweitzer was een bekend Bach-onderzoeker en organist. Zijn belangstelling voor muziek was verbonden met zijn ethiek van eerbied voor het leven.",
+          "pl": "Schweitzer był znanym badaczem Bacha i organistą. Jego zainteresowanie muzyką łączyło się z etyką „czci dla życia”.",
+          "tr": "Schweitzer tanınmış bir Bach araştırmacısı ve orgcuydu. Müziğe ilgisi, 'yaşama saygı' etiğiyle bağlantılıydı.",
+          "zh": "施韦泽是著名的巴赫研究者和管风琴演奏家。他对音乐的兴趣与“敬畏生命”的伦理思想相连。",
+          "ja": "シュヴァイツァーは著名なバッハ研究者でありオルガニストだった。音楽への関心は、「生命への畏敬」という彼の倫理思想と結びついていた。",
+          "ko": "슈바이처는 잘 알려진 바흐 연구자이자 오르가니스트였다. 음악에 대한 그의 관심은 '생명에 대한 경외'라는 윤리와 연결되어 있었다.",
+          "hi": "श्वाइट्ज़र बाख के प्रसिद्ध अध्येता और ऑर्गन वादक थे। संगीत में उनकी रुचि 'जीवन के प्रति श्रद्धा' की उनकी नैतिक धारणा से जुड़ी थी।",
+          "ar": "كان شفايتزر باحثاً معروفاً في موسيقى باخ وعازف أرغن. وارتبط اهتمامه بالموسيقى بأخلاقيته القائمة على «إجلال الحياة»."
         },
         "importance": {
           "ru": "Так в одной фигуре соединяются немецкая музыкальная традиция, философия и практическая помощь людям.",
           "de": "So verbinden sich in einer Person deutsche Musiktradition, Philosophie und praktische Hilfe fuer Menschen.",
-          "en": "One figure thus connects German musical tradition, philosophy and practical help for people."
+          "en": "One figure thus connects German musical tradition, philosophy and practical help for people.",
+          "fr": "Une seule figure relie ainsi la tradition musicale allemande, la philosophie et l'aide concrète aux êtres humains.",
+          "es": "Así, una sola figura une la tradición musical alemana, la filosofía y la ayuda práctica a las personas.",
+          "it": "Così in una sola figura si uniscono la tradizione musicale tedesca, la filosofia e l'aiuto pratico alle persone.",
+          "pt": "Assim, uma única figura une a tradição musical alemã, a filosofia e a ajuda prática às pessoas.",
+          "nl": "Zo verbindt één persoon de Duitse muzikale traditie, filosofie en praktische hulp aan mensen.",
+          "pl": "W ten sposób jedna postać łączy niemiecką tradycję muzyczną, filozofię i praktyczną pomoc ludziom.",
+          "tr": "Böylece tek bir kişi Alman müzik geleneğini, felsefeyi ve insanlara pratik yardımı birleştirir.",
+          "zh": "这样，一个人物便把德国音乐传统、哲学和对人的实际帮助连接在一起。",
+          "ja": "こうして一人の人物の中で、ドイツ音楽の伝統、哲学、人々への実践的な援助が結びつく。",
+          "ko": "이렇게 한 인물 안에서 독일 음악 전통, 철학, 사람들을 돕는 실제적 활동이 연결된다.",
+          "hi": "इस तरह एक ही व्यक्तित्व में जर्मन संगीत परंपरा, दर्शन और लोगों की व्यावहारिक सहायता जुड़ती है।",
+          "ar": "وهكذا تجتمع في شخصية واحدة تقاليد الموسيقى الألمانية والفلسفة والمساعدة العملية للناس."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Швейцер получил Нобелевскую премию мира за 1952 год.",
     "de": "Schweitzer erhielt den Friedensnobelpreis fuer das Jahr 1952.",
-    "en": "Schweitzer received the Nobel Peace Prize for 1952."
+    "en": "Schweitzer received the Nobel Peace Prize for 1952.",
+    "fr": "Schweitzer reçut le prix Nobel de la paix pour l'année 1952.",
+    "es": "Schweitzer recibió el Premio Nobel de la Paz correspondiente a 1952.",
+    "it": "Schweitzer ricevette il premio Nobel per la pace per il 1952.",
+    "pt": "Schweitzer recebeu o Prêmio Nobel da Paz referente a 1952.",
+    "nl": "Schweitzer ontving de Nobelprijs voor de Vrede voor het jaar 1952.",
+    "pl": "Schweitzer otrzymał Pokojową Nagrodę Nobla za rok 1952.",
+    "tr": "Schweitzer 1952 yılı Nobel Barış Ödülü'nü aldı.",
+    "zh": "施韦泽获得了1952年度诺贝尔和平奖。",
+    "ja": "シュヴァイツァーは1952年のノーベル平和賞を受賞した。",
+    "ko": "슈바이처는 1952년 노벨 평화상을 받았다.",
+    "hi": "श्वाइट्ज़र को 1952 का नोबेल शांति पुरस्कार मिला।",
+    "ar": "حصل شفايتزر على جائزة نوبل للسلام لعام 1952."
   },
   "sources": [
     {
