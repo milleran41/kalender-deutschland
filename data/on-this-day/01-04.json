@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Якоб Гримм",
       "de": "Jacob Grimm wird geboren",
-      "en": "Jacob Grimm is born"
+      "en": "Jacob Grimm is born",
+      "fr": "Naissance de Jacob Grimm",
+      "es": "Nace Jacob Grimm",
+      "it": "Nasce Jacob Grimm",
+      "pt": "Nasce Jacob Grimm",
+      "nl": "Jacob Grimm wordt geboren",
+      "pl": "Urodził się Jacob Grimm",
+      "tr": "Jacob Grimm doğdu",
+      "zh": "雅各布·格林出生",
+      "ja": "ヤーコプ・グリムが生まれる",
+      "ko": "야코프 그림이 태어나다",
+      "hi": "याकॉब ग्रिम का जन्म हुआ",
+      "ar": "وُلد ياكوب غريم"
     },
     "description": {
       "ru": "4 января 1785 года в Ханау родился Якоб Гримм. Вместе с братом Вильгельмом он собирал сказки, изучал язык и стал одной из ключевых фигур немецкой филологии.",
       "de": "Am 4. Januar 1785 wurde Jacob Grimm in Hanau geboren. Zusammen mit seinem Bruder Wilhelm sammelte er Maerchen, erforschte Sprache und wurde zu einer Schluesselfigur der deutschen Philologie.",
-      "en": "On 4 January 1785, Jacob Grimm was born in Hanau. Together with his brother Wilhelm, he collected fairy tales, studied language and became a key figure in German philology."
+      "en": "On 4 January 1785, Jacob Grimm was born in Hanau. Together with his brother Wilhelm, he collected fairy tales, studied language and became a key figure in German philology.",
+      "fr": "Le 4 janvier 1785, Jacob Grimm naquit à Hanau. Avec son frère Wilhelm, il collecta des contes, étudia la langue et devint une figure clé de la philologie allemande.",
+      "es": "El 4 de enero de 1785 nació Jacob Grimm en Hanau. Junto con su hermano Wilhelm, recopiló cuentos, estudió la lengua y se convirtió en una figura clave de la filología alemana.",
+      "it": "Il 4 gennaio 1785 Jacob Grimm nacque a Hanau. Insieme al fratello Wilhelm raccolse fiabe, studiò la lingua e divenne una figura chiave della filologia tedesca.",
+      "pt": "Em 4 de janeiro de 1785, Jacob Grimm nasceu em Hanau. Junto com seu irmão Wilhelm, ele reuniu contos, estudou a língua e tornou-se uma figura central da filologia alemã.",
+      "nl": "Op 4 januari 1785 werd Jacob Grimm in Hanau geboren. Samen met zijn broer Wilhelm verzamelde hij sprookjes, bestudeerde hij taal en werd hij een sleutelfiguur in de Duitse filologie.",
+      "pl": "4 stycznia 1785 roku w Hanau urodził się Jacob Grimm. Wraz z bratem Wilhelmem zbierał baśnie, badał język i stał się jedną z kluczowych postaci niemieckiej filologii.",
+      "tr": "4 Ocak 1785’te Jacob Grimm Hanau’da doğdu. Kardeşi Wilhelm ile birlikte masallar derledi, dili araştırdı ve Alman filolojisinin kilit isimlerinden biri oldu.",
+      "zh": "1785年1月4日，雅各布·格林出生于哈瑙。他与弟弟威廉一起收集童话、研究语言，并成为德国文献学的关键人物之一。",
+      "ja": "1785年1月4日、ヤーコプ・グリムはハーナウで生まれました。弟ヴィルヘルムとともに童話を集め、言語を研究し、ドイツ文献学の重要人物となりました。",
+      "ko": "1785년 1월 4일, 야코프 그림은 하나우에서 태어났다. 그는 동생 빌헬름과 함께 동화를 수집하고 언어를 연구했으며 독일 문헌학의 핵심 인물이 되었다.",
+      "hi": "4 जनवरी 1785 को याकॉब ग्रिम का जन्म हानाउ में हुआ। अपने भाई विल्हेल्म के साथ उन्होंने परीकथाएँ एकत्र कीं, भाषा का अध्ययन किया और जर्मन भाषाविज्ञान की प्रमुख हस्ती बने।",
+      "ar": "في 4 يناير 1785 وُلد ياكوب غريم في هاناو. جمع مع أخيه فيلهلم الحكايات الشعبية ودرس اللغة وأصبح من الشخصيات الرئيسية في فقه اللغة الألمانية."
     },
     "importance": {
       "ru": "Братья Гримм сделали народные сказки частью мировой культуры и одновременно серьёзно изучали историю немецкого языка.",
       "de": "Die Brueder Grimm machten Volksmaerchen zu einem Teil der Weltkultur und erforschten zugleich ernsthaft die Geschichte der deutschen Sprache.",
-      "en": "The Brothers Grimm made folk tales part of world culture while also seriously studying the history of the German language."
+      "en": "The Brothers Grimm made folk tales part of world culture while also seriously studying the history of the German language.",
+      "fr": "Les frères Grimm ont fait des contes populaires une partie de la culture mondiale tout en étudiant sérieusement l’histoire de la langue allemande.",
+      "es": "Los hermanos Grimm hicieron de los cuentos populares parte de la cultura mundial y, al mismo tiempo, estudiaron seriamente la historia de la lengua alemana.",
+      "it": "I fratelli Grimm resero le fiabe popolari parte della cultura mondiale e allo stesso tempo studiarono seriamente la storia della lingua tedesca.",
+      "pt": "Os irmãos Grimm fizeram dos contos populares parte da cultura mundial e, ao mesmo tempo, estudaram seriamente a história da língua alemã.",
+      "nl": "De gebroeders Grimm maakten volkssprookjes tot onderdeel van de wereldcultuur en bestudeerden tegelijk serieus de geschiedenis van de Duitse taal.",
+      "pl": "Bracia Grimm uczynili baśnie ludowe częścią kultury światowej, a jednocześnie poważnie badali historię języka niemieckiego.",
+      "tr": "Grimm Kardeşler halk masallarını dünya kültürünün bir parçası hâline getirirken Alman dilinin tarihini de ciddi biçimde incelediler.",
+      "zh": "格林兄弟使民间故事成为世界文化的一部分，同时也严肃研究了德语的历史。",
+      "ja": "グリム兄弟は民話を世界文化の一部にすると同時に、ドイツ語の歴史を本格的に研究しました。",
+      "ko": "그림 형제는 민담을 세계 문화의 일부로 만들었고 동시에 독일어의 역사를 진지하게 연구했다.",
+      "hi": "ग्रिम बंधुओं ने लोककथाओं को विश्व संस्कृति का हिस्सा बनाया और साथ ही जर्मन भाषा के इतिहास का गंभीर अध्ययन किया।",
+      "ar": "جعل الأخوان غريم الحكايات الشعبية جزءاً من الثقافة العالمية، وفي الوقت نفسه درسا تاريخ اللغة الألمانية بجدية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сказки и словарь",
           "de": "Maerchen und Woerterbuch",
-          "en": "Fairy tales and dictionary"
+          "en": "Fairy tales and dictionary",
+          "fr": "Contes et dictionnaire",
+          "es": "Cuentos y diccionario",
+          "it": "Fiabe e dizionario",
+          "pt": "Contos e dicionário",
+          "nl": "Sprookjes en woordenboek",
+          "pl": "Baśnie i słownik",
+          "tr": "Masallar ve sözlük",
+          "zh": "童话与词典",
+          "ja": "童話と辞書",
+          "ko": "동화와 사전",
+          "hi": "परीकथाएँ और शब्दकोश",
+          "ar": "حكايات وقاموس"
         },
         "description": {
           "ru": "Сборник «Детские и семейные сказки» сделал братьев Гримм знаменитыми. Позднее они начали работу над большим немецким словарём, который продолжали уже после их смерти.",
           "de": "Die Kinder- und Hausmaerchen machten die Brueder Grimm beruehmt. Spaeter begannen sie die Arbeit am grossen Deutschen Woerterbuch, das nach ihrem Tod weitergefuehrt wurde.",
-          "en": "Children's and Household Tales made the Brothers Grimm famous. Later they began work on a large German dictionary that continued after their deaths."
+          "en": "Children's and Household Tales made the Brothers Grimm famous. Later they began work on a large German dictionary that continued after their deaths.",
+          "fr": "Les Contes de l’enfance et du foyer rendirent les frères Grimm célèbres. Plus tard, ils commencèrent un grand dictionnaire allemand qui fut poursuivi après leur mort.",
+          "es": "Los Cuentos de la infancia y del hogar hicieron famosos a los hermanos Grimm. Más tarde comenzaron un gran diccionario alemán que continuó después de su muerte.",
+          "it": "Le Fiabe del focolare resero famosi i fratelli Grimm. Più tardi iniziarono un grande dizionario tedesco che fu continuato dopo la loro morte.",
+          "pt": "Os Contos da infância e do lar tornaram os irmãos Grimm famosos. Mais tarde, eles começaram um grande dicionário alemão que continuou após sua morte.",
+          "nl": "Kinder- und Hausmärchen maakte de gebroeders Grimm beroemd. Later begonnen zij aan een groot Duits woordenboek dat na hun dood werd voortgezet.",
+          "pl": "Baśnie dla dzieci i domu przyniosły braciom Grimm sławę. Później rozpoczęli pracę nad wielkim słownikiem niemieckim, kontynuowanym po ich śmierci.",
+          "tr": "Çocuk ve Ev Masalları Grimm Kardeşler’i ünlü yaptı. Daha sonra ölümlerinden sonra da sürdürülen büyük bir Alman sözlüğü üzerinde çalışmaya başladılar.",
+          "zh": "《儿童与家庭童话》使格林兄弟成名。后来他们开始编写一部大型德语词典，这项工作在他们去世后仍继续进行。",
+          "ja": "『子どもと家庭の童話』によってグリム兄弟は有名になりました。のちに彼らは大規模なドイツ語辞典の作業を始め、その仕事は死後も続けられました。",
+          "ko": "『어린이와 가정을 위한 동화』는 그림 형제를 유명하게 만들었다. 이후 그들은 사후에도 계속된 대형 독일어 사전 작업을 시작했다.",
+          "hi": "“बाल और घरेलू कथाएँ” ने ग्रिम बंधुओं को प्रसिद्ध बनाया। बाद में उन्होंने एक बड़े जर्मन शब्दकोश पर काम शुरू किया, जो उनकी मृत्यु के बाद भी जारी रहा।",
+          "ar": "جعلت مجموعة «حكايات الأطفال والبيت» الأخوين غريم مشهورين. ولاحقاً شرعا في العمل على قاموس ألماني كبير استمر بعد وفاتهما."
         },
         "importance": {
           "ru": "Это показывает, что интерес к сказкам был связан не только с развлечением, но и с языком, памятью и культурой.",
           "de": "Das zeigt, dass das Interesse an Maerchen nicht nur Unterhaltung betraf, sondern auch Sprache, Erinnerung und Kultur.",
-          "en": "It shows that interest in fairy tales was not only entertainment, but also language, memory and culture."
+          "en": "It shows that interest in fairy tales was not only entertainment, but also language, memory and culture.",
+          "fr": "Cela montre que l’intérêt pour les contes ne relevait pas seulement du divertissement, mais aussi de la langue, de la mémoire et de la culture.",
+          "es": "Muestra que el interés por los cuentos no era solo entretenimiento, sino también lengua, memoria y cultura.",
+          "it": "Mostra che l’interesse per le fiabe non riguardava solo l’intrattenimento, ma anche lingua, memoria e cultura.",
+          "pt": "Isso mostra que o interesse pelos contos não era apenas entretenimento, mas também língua, memória e cultura.",
+          "nl": "Het laat zien dat belangstelling voor sprookjes niet alleen om vermaak ging, maar ook om taal, herinnering en cultuur.",
+          "pl": "Pokazuje to, że zainteresowanie baśniami dotyczyło nie tylko rozrywki, lecz także języka, pamięci i kultury.",
+          "tr": "Bu, masallara duyulan ilginin yalnızca eğlenceyle değil, dil, hafıza ve kültürle de ilgili olduğunu gösterir.",
+          "zh": "这说明，人们对童话的兴趣不仅是娱乐，也关系到语言、记忆和文化。",
+          "ja": "これは、童話への関心が単なる娯楽ではなく、言語、記憶、文化にも関わっていたことを示しています。",
+          "ko": "이는 동화에 대한 관심이 단순한 오락뿐 아니라 언어, 기억, 문화와도 관련되어 있었음을 보여 준다.",
+          "hi": "यह दिखाता है कि परीकथाओं में रुचि केवल मनोरंजन से नहीं, बल्कि भाषा, स्मृति और संस्कृति से भी जुड़ी थी।",
+          "ar": "يُظهر ذلك أن الاهتمام بالحكايات لم يكن للترفيه فقط، بل كان مرتبطاً أيضاً باللغة والذاكرة والثقافة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Ханау, место рождения братьев Гримм, сегодня находится на туристическом маршруте Немецкой дороги сказок.",
     "de": "Hanau, der Geburtsort der Brueder Grimm, liegt heute an der Deutschen Maerchenstrasse.",
-    "en": "Hanau, the birthplace of the Brothers Grimm, is now on the German Fairy Tale Route."
+    "en": "Hanau, the birthplace of the Brothers Grimm, is now on the German Fairy Tale Route.",
+    "fr": "Hanau, ville natale des frères Grimm, se trouve aujourd’hui sur la Route allemande des contes.",
+    "es": "Hanau, lugar de nacimiento de los hermanos Grimm, forma parte hoy de la Ruta Alemana de los Cuentos.",
+    "it": "Hanau, città natale dei fratelli Grimm, si trova oggi sulla Strada tedesca delle fiabe.",
+    "pt": "Hanau, cidade natal dos irmãos Grimm, hoje faz parte da Rota Alemã dos Contos de Fadas.",
+    "nl": "Hanau, de geboorteplaats van de gebroeders Grimm, ligt tegenwoordig aan de Duitse Sprookjesroute.",
+    "pl": "Hanau, miejsce urodzenia braci Grimm, leży dziś na Niemieckim Szlaku Baśni.",
+    "tr": "Grimm Kardeşler’in doğum yeri Hanau bugün Alman Masal Yolu üzerindedir.",
+    "zh": "格林兄弟的出生地哈瑙如今位于德国童话之路上。",
+    "ja": "グリム兄弟の生誕地ハーナウは、現在ドイツ・メルヘン街道上にあります。",
+    "ko": "그림 형제의 출생지 하나우는 오늘날 독일 동화 가도에 있다.",
+    "hi": "ग्रिम बंधुओं का जन्मस्थान हानाउ आज जर्मन फेयरी टेल रूट पर स्थित है।",
+    "ar": "تقع هاناو، مسقط رأس الأخوين غريم، اليوم على طريق الحكايات الألماني."
   },
   "sources": [
     {

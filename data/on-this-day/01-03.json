@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Конрад Дуден",
       "de": "Konrad Duden wird geboren",
-      "en": "Konrad Duden is born"
+      "en": "Konrad Duden is born",
+      "fr": "Naissance de Konrad Duden",
+      "es": "Nace Konrad Duden",
+      "it": "Nasce Konrad Duden",
+      "pt": "Nasce Konrad Duden",
+      "nl": "Konrad Duden wordt geboren",
+      "pl": "Urodził się Konrad Duden",
+      "tr": "Konrad Duden doğdu",
+      "zh": "康拉德·杜登出生",
+      "ja": "コンラート・ドゥーデンが生まれる",
+      "ko": "콘라트 두덴이 태어나다",
+      "hi": "कोनराड डूडेन का जन्म हुआ",
+      "ar": "وُلد كونراد دودن"
     },
     "description": {
       "ru": "3 января 1829 года около Везеля родился Конрад Дуден, филолог и педагог. Его имя стало связано с главным справочником немецкого правописания.",
       "de": "Am 3. Januar 1829 wurde Konrad Duden bei Wesel geboren, ein Philologe und Paedagoge. Sein Name wurde mit dem wichtigsten Nachschlagewerk der deutschen Rechtschreibung verbunden.",
-      "en": "On 3 January 1829, Konrad Duden was born near Wesel. A philologist and teacher, his name became linked with the main reference work for German spelling."
+      "en": "On 3 January 1829, Konrad Duden was born near Wesel. A philologist and teacher, his name became linked with the main reference work for German spelling.",
+      "fr": "Le 3 janvier 1829, Konrad Duden naquit près de Wesel. Philologue et enseignant, son nom fut associé au principal ouvrage de référence de l’orthographe allemande.",
+      "es": "El 3 de enero de 1829 nació Konrad Duden cerca de Wesel. Filólogo y docente, su nombre quedó ligado a la principal obra de referencia de la ortografía alemana.",
+      "it": "Il 3 gennaio 1829 nacque Konrad Duden vicino a Wesel. Filologo e insegnante, il suo nome fu legato al principale testo di riferimento per l’ortografia tedesca.",
+      "pt": "Em 3 de janeiro de 1829, Konrad Duden nasceu perto de Wesel. Filólogo e professor, seu nome ficou ligado à principal obra de referência da ortografia alemã.",
+      "nl": "Op 3 januari 1829 werd Konrad Duden bij Wesel geboren. Als filoloog en leraar raakte zijn naam verbonden met het belangrijkste naslagwerk voor de Duitse spelling.",
+      "pl": "3 stycznia 1829 roku w pobliżu Wesel urodził się Konrad Duden. Był filologiem i nauczycielem, a jego nazwisko związało się z głównym poradnikiem niemieckiej pisowni.",
+      "tr": "3 Ocak 1829’da Konrad Duden Wesel yakınlarında doğdu. Filolog ve öğretmen olan Duden’in adı, Alman yazımının başlıca başvuru kaynağıyla özdeşleşti.",
+      "zh": "1829年1月3日，康拉德·杜登出生在韦瑟尔附近。他是一位语言学家和教育家，其名字后来与德语拼写的主要参考书联系在一起。",
+      "ja": "1829年1月3日、コンラート・ドゥーデンはヴェーゼル近郊で生まれました。文献学者で教師だった彼の名は、ドイツ語正書法の主要な参考書と結びつきました。",
+      "ko": "1829년 1월 3일, 콘라트 두덴은 베젤 근처에서 태어났다. 문헌학자이자 교사였던 그의 이름은 독일어 철자법의 주요 참고서와 연결되었다.",
+      "hi": "3 जनवरी 1829 को कोनराड डूडेन का जन्म वेज़ेल के पास हुआ। वे भाषाविद् और शिक्षक थे, और उनका नाम जर्मन वर्तनी के प्रमुख संदर्भ ग्रंथ से जुड़ गया।",
+      "ar": "في 3 يناير 1829 وُلد كونراد دودن قرب فيزل. كان عالماً لغوياً ومعلماً، وارتبط اسمه بأهم مرجع للإملاء الألماني."
     },
     "importance": {
       "ru": "Дуден помог сделать немецкое правописание более единым и понятным для школ, печати и повседневной жизни.",
       "de": "Duden half, die deutsche Rechtschreibung fuer Schulen, Druckwesen und Alltag einheitlicher und verstaendlicher zu machen.",
-      "en": "Duden helped make German spelling more unified and understandable for schools, printing and everyday life."
+      "en": "Duden helped make German spelling more unified and understandable for schools, printing and everyday life.",
+      "fr": "Duden contribua à rendre l’orthographe allemande plus uniforme et plus compréhensible pour les écoles, l’imprimerie et la vie quotidienne.",
+      "es": "Duden ayudó a hacer la ortografía alemana más unificada y comprensible para las escuelas, la imprenta y la vida cotidiana.",
+      "it": "Duden contribuì a rendere l’ortografia tedesca più uniforme e comprensibile per le scuole, la stampa e la vita quotidiana.",
+      "pt": "Duden ajudou a tornar a ortografia alemã mais uniforme e compreensível para as escolas, a impressão e a vida cotidiana.",
+      "nl": "Duden hielp de Duitse spelling uniformer en begrijpelijker te maken voor scholen, drukwerk en het dagelijks leven.",
+      "pl": "Duden pomógł uczynić niemiecką pisownię bardziej jednolitą i zrozumiałą dla szkół, druku i codziennego życia.",
+      "tr": "Duden, Alman yazımını okullar, matbaacılık ve günlük yaşam için daha birlikli ve anlaşılır hâle getirmeye yardımcı oldu.",
+      "zh": "杜登帮助德语拼写在学校、印刷和日常生活中变得更加统一和易懂。",
+      "ja": "ドゥーデンは、学校、印刷、日常生活においてドイツ語の綴りをより統一的で分かりやすいものにする助けとなりました。",
+      "ko": "두덴은 학교, 인쇄, 일상생활에서 독일어 철자를 더 통일되고 이해하기 쉽게 만드는 데 기여했다.",
+      "hi": "डूडेन ने जर्मन वर्तनी को स्कूलों, छपाई और रोज़मर्रा के जीवन के लिए अधिक एकरूप और समझने योग्य बनाने में मदद की।",
+      "ar": "ساعد دودن على جعل الإملاء الألماني أكثر توحيداً ووضوحاً للمدارس والطباعة والحياة اليومية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Отец немецкой орфографии»",
           "de": "Vater der deutschen Rechtschreibung",
-          "en": "Father of German orthography"
+          "en": "Father of German orthography",
+          "fr": "Le père de l’orthographe allemande",
+          "es": "Padre de la ortografía alemana",
+          "it": "Padre dell’ortografia tedesca",
+          "pt": "Pai da ortografia alemã",
+          "nl": "Vader van de Duitse spelling",
+          "pl": "Ojciec niemieckiej ortografii",
+          "tr": "Alman yazımının babası",
+          "zh": "德语正字法之父",
+          "ja": "ドイツ語正書法の父",
+          "ko": "독일어 정서법의 아버지",
+          "hi": "जर्मन वर्तनी के पिता",
+          "ar": "أبو الإملاء الألماني"
         },
         "description": {
           "ru": "Дуден работал учителем и директором гимназии. Его практический школьный опыт помог ему понять, насколько важны общие правила письма.",
           "de": "Duden arbeitete als Lehrer und Gymnasialdirektor. Seine praktische Erfahrung in der Schule half ihm zu erkennen, wie wichtig gemeinsame Schreibregeln waren.",
-          "en": "Duden worked as a teacher and headmaster. His practical school experience helped him understand the importance of common writing rules."
+          "en": "Duden worked as a teacher and headmaster. His practical school experience helped him understand the importance of common writing rules.",
+          "fr": "Duden travailla comme enseignant et directeur de lycée. Son expérience pratique à l’école l’aida à comprendre l’importance de règles communes d’écriture.",
+          "es": "Duden trabajó como maestro y director de instituto. Su experiencia práctica en la escuela le ayudó a comprender la importancia de unas reglas comunes de escritura.",
+          "it": "Duden lavorò come insegnante e preside di ginnasio. La sua esperienza pratica nella scuola lo aiutò a capire quanto fossero importanti regole di scrittura comuni.",
+          "pt": "Duden trabalhou como professor e diretor de ginásio. Sua experiência prática na escola o ajudou a entender a importância de regras comuns de escrita.",
+          "nl": "Duden werkte als leraar en gymnasiumdirecteur. Zijn praktische ervaring op school hielp hem begrijpen hoe belangrijk gemeenschappelijke schrijfregels waren.",
+          "pl": "Duden pracował jako nauczyciel i dyrektor gimnazjum. Praktyczne doświadczenie szkolne pomogło mu zrozumieć, jak ważne są wspólne zasady pisowni.",
+          "tr": "Duden öğretmen ve lise müdürü olarak çalıştı. Okuldaki pratik deneyimi, ortak yazım kurallarının ne kadar önemli olduğunu anlamasına yardımcı oldu.",
+          "zh": "杜登曾任教师和文理中学校长。他在学校的实践经验帮助他认识到共同书写规则的重要性。",
+          "ja": "ドゥーデンは教師およびギムナジウム校長として働きました。学校での実践経験が、共通の表記規則の重要性を理解する助けとなりました。",
+          "ko": "두덴은 교사이자 김나지움 교장으로 일했다. 학교 현장에서의 경험은 공통된 글쓰기 규칙의 중요성을 이해하는 데 도움이 되었다.",
+          "hi": "डूडेन शिक्षक और जिम्नेज़ियम के प्रधानाचार्य के रूप में काम करते थे। स्कूल का उनका व्यावहारिक अनुभव उन्हें यह समझने में मदद करता था कि साझा लेखन नियम कितने महत्वपूर्ण हैं।",
+          "ar": "عمل دودن معلماً ومديراً لمدرسة ثانوية. وساعدته خبرته العملية في المدرسة على فهم أهمية القواعد المشتركة للكتابة."
         },
         "importance": {
           "ru": "Его биография показывает, что языковые реформы часто начинаются с нужд школы.",
           "de": "Seine Biografie zeigt, dass Sprachreformen oft aus den Beduerfnissen der Schule entstehen.",
-          "en": "His biography shows that language reforms often begin with the needs of schools."
+          "en": "His biography shows that language reforms often begin with the needs of schools.",
+          "fr": "Sa biographie montre que les réformes linguistiques naissent souvent des besoins de l’école.",
+          "es": "Su biografía muestra que las reformas lingüísticas suelen comenzar con las necesidades de la escuela.",
+          "it": "La sua biografia mostra che le riforme linguistiche spesso nascono dai bisogni della scuola.",
+          "pt": "Sua biografia mostra que reformas linguísticas muitas vezes começam pelas necessidades da escola.",
+          "nl": "Zijn biografie laat zien dat taalhervormingen vaak beginnen bij de behoeften van scholen.",
+          "pl": "Jego biografia pokazuje, że reformy językowe często zaczynają się od potrzeb szkoły.",
+          "tr": "Onun biyografisi, dil reformlarının çoğu zaman okulların ihtiyaçlarından doğduğunu gösterir.",
+          "zh": "他的生平说明，语言改革常常始于学校的需要。",
+          "ja": "彼の経歴は、言語改革がしばしば学校の必要から始まることを示しています。",
+          "ko": "그의 생애는 언어 개혁이 종종 학교의 필요에서 시작된다는 것을 보여 준다.",
+          "hi": "उनकी जीवनी दिखाती है कि भाषा सुधार अक्सर स्कूलों की ज़रूरतों से शुरू होते हैं।",
+          "ar": "تُظهر سيرته أن إصلاحات اللغة غالباً ما تبدأ من احتياجات المدرسة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Словарь, который стал именем нарицательным",
           "de": "Ein Woerterbuch wird zum Begriff",
-          "en": "A dictionary becomes a household name"
+          "en": "A dictionary becomes a household name",
+          "fr": "Un dictionnaire devenu une référence",
+          "es": "Un diccionario convertido en nombre común",
+          "it": "Un dizionario diventa un nome comune",
+          "pt": "Um dicionário vira referência comum",
+          "nl": "Een woordenboek wordt een begrip",
+          "pl": "Słownik, który stał się pojęciem",
+          "tr": "Bir sözlük herkesçe bilinen bir ad olur",
+          "zh": "一本词典成为家喻户晓的名称",
+          "ja": "辞書が一般名詞のような存在になる",
+          "ko": "사전이 널리 알려진 이름이 되다",
+          "hi": "एक शब्दकोश जो आम नाम बन गया",
+          "ar": "قاموس أصبح اسماً معروفاً"
         },
         "description": {
           "ru": "Словарь Дудена постепенно стал авторитетным ориентиром для немецкого языка. В Германии слово «Duden» до сих пор ассоциируется с правильным написанием.",
           "de": "Das Duden-Woerterbuch wurde nach und nach zu einer massgeblichen Orientierung fuer die deutsche Sprache. In Deutschland verbindet man Duden bis heute mit korrekter Schreibung.",
-          "en": "The Duden dictionary gradually became an authoritative guide for the German language. In Germany, the word Duden is still associated with correct spelling."
+          "en": "The Duden dictionary gradually became an authoritative guide for the German language. In Germany, the word Duden is still associated with correct spelling.",
+          "fr": "Le dictionnaire Duden devint peu à peu une référence d’autorité pour la langue allemande. En Allemagne, le mot Duden reste associé à l’orthographe correcte.",
+          "es": "El diccionario Duden se convirtió poco a poco en una guía autorizada de la lengua alemana. En Alemania, la palabra Duden sigue asociándose con la escritura correcta.",
+          "it": "Il dizionario Duden divenne gradualmente un riferimento autorevole per la lingua tedesca. In Germania la parola Duden è ancora associata alla scrittura corretta.",
+          "pt": "O dicionário Duden tornou-se aos poucos uma referência autorizada para a língua alemã. Na Alemanha, a palavra Duden ainda está associada à escrita correta.",
+          "nl": "Het Duden-woordenboek werd geleidelijk een gezaghebbende gids voor de Duitse taal. In Duitsland wordt het woord Duden nog steeds verbonden met correcte spelling.",
+          "pl": "Słownik Dudena stopniowo stał się autorytatywnym przewodnikiem po języku niemieckim. W Niemczech słowo Duden do dziś kojarzy się z poprawną pisownią.",
+          "tr": "Duden sözlüğü zamanla Alman dili için yetkin bir rehber hâline geldi. Almanya’da Duden sözcüğü hâlâ doğru yazımla ilişkilendirilir.",
+          "zh": "杜登词典逐渐成为德语的权威指南。在德国，“杜登”一词至今仍与正确拼写联系在一起。",
+          "ja": "ドゥーデン辞典は徐々にドイツ語の権威ある手引きとなりました。ドイツでは今でもDudenという語が正しい綴りと結びついています。",
+          "ko": "두덴 사전은 점차 독일어의 권위 있는 지침서가 되었다. 독일에서 두덴이라는 말은 지금도 올바른 철자와 연결된다.",
+          "hi": "डूडेन शब्दकोश धीरे-धीरे जर्मन भाषा का प्रामाणिक मार्गदर्शक बन गया। जर्मनी में आज भी “Duden” शब्द सही वर्तनी से जुड़ा है।",
+          "ar": "أصبح قاموس دودن تدريجياً مرجعاً موثوقاً للغة الألمانية. وفي ألمانيا ما زال اسم دودن مرتبطاً بالكتابة الصحيحة."
         },
         "importance": {
           "ru": "Это редкий случай, когда фамилия человека стала почти символом грамотности.",
           "de": "Das ist ein seltener Fall, in dem ein Familienname fast zum Symbol fuer Sprachrichtigkeit wurde.",
-          "en": "It is a rare case in which a surname became almost a symbol of literacy."
+          "en": "It is a rare case in which a surname became almost a symbol of literacy.",
+          "fr": "C’est un cas rare où un nom de famille est presque devenu un symbole de maîtrise de la langue.",
+          "es": "Es un caso raro en el que un apellido se convirtió casi en símbolo de alfabetización.",
+          "it": "È un caso raro in cui un cognome è diventato quasi un simbolo di competenza linguistica.",
+          "pt": "É um caso raro em que um sobrenome se tornou quase um símbolo de alfabetização.",
+          "nl": "Het is een zeldzaam geval waarin een achternaam bijna een symbool van taalvaardigheid werd.",
+          "pl": "To rzadki przypadek, gdy nazwisko stało się niemal symbolem poprawności językowej.",
+          "tr": "Bu, bir soyadının neredeyse okuryazarlığın simgesine dönüştüğü nadir bir örnektir.",
+          "zh": "这是一个少见的例子：一个姓氏几乎成为识字与规范书写的象征。",
+          "ja": "これは、人の姓がほとんど読み書き能力の象徴になった珍しい例です。",
+          "ko": "이는 한 성씨가 거의 문해력의 상징이 된 드문 사례다.",
+          "hi": "यह दुर्लभ उदाहरण है जिसमें किसी व्यक्ति का उपनाम लगभग साक्षरता का प्रतीक बन गया।",
+          "ar": "إنها حالة نادرة أصبح فيها اسم عائلة تقريباً رمزاً للإلمام الصحيح باللغة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Первый полный орфографический словарь Дудена вышел в 1880 году.",
     "de": "Das erste vollstaendige orthografische Woerterbuch von Duden erschien 1880.",
-    "en": "Duden's first complete orthographic dictionary appeared in 1880."
+    "en": "Duden's first complete orthographic dictionary appeared in 1880.",
+    "fr": "Le premier dictionnaire orthographique complet de Duden parut en 1880.",
+    "es": "El primer diccionario ortográfico completo de Duden apareció en 1880.",
+    "it": "Il primo dizionario ortografico completo di Duden apparve nel 1880.",
+    "pt": "O primeiro dicionário ortográfico completo de Duden apareceu em 1880.",
+    "nl": "Dudens eerste volledige orthografische woordenboek verscheen in 1880.",
+    "pl": "Pierwszy pełny słownik ortograficzny Dudena ukazał się w 1880 roku.",
+    "tr": "Duden’in ilk tam yazım sözlüğü 1880’de yayımlandı.",
+    "zh": "杜登的第一部完整正字法词典出版于1880年。",
+    "ja": "ドゥーデンの最初の完全な正書法辞典は1880年に刊行されました。",
+    "ko": "두덴의 첫 완전한 정서법 사전은 1880년에 출간되었다.",
+    "hi": "डूडेन का पहला पूर्ण वर्तनी शब्दकोश 1880 में प्रकाशित हुआ।",
+    "ar": "صدر أول قاموس إملائي كامل لدودن عام 1880."
   },
   "sources": [
     {
