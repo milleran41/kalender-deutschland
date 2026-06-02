@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия ремилитаризовала Рейнскую область",
       "de": "Deutschland remilitarisiert das Rheinland",
-      "en": "Germany remilitarizes the Rhineland"
+      "en": "Germany remilitarizes the Rhineland",
+      "fr": "L'Allemagne remilitarise la Rhénanie",
+      "es": "Alemania remilitariza Renania",
+      "it": "La Germania rimilitarizza la Renania",
+      "pt": "A Alemanha remilitariza a Renânia",
+      "nl": "Duitsland remilitariseert het Rijnland",
+      "pl": "Niemcy remilitaryzują Nadrenię",
+      "tr": "Almanya Renanya'yı yeniden askerileştirdi",
+      "zh": "德国重新军事化莱茵兰",
+      "ja": "ドイツがラインラントを再軍備化する",
+      "ko": "독일이 라인란트를 재무장하다",
+      "hi": "जर्मनी ने राइनलैंड का पुनः सैन्यीकरण किया",
+      "ar": "ألمانيا تعيد عسكرة راينلاند"
     },
     "description": {
       "ru": "7 марта 1936 года немецкие войска вошли в демилитаризованную Рейнскую область. Это нарушало Версальский договор и Локарнские соглашения.",
       "de": "Am 7. Maerz 1936 rueckten deutsche Truppen in das entmilitarisierte Rheinland ein. Das verletzte den Versailler Vertrag und die Locarno-Vertraege.",
-      "en": "On 7 March 1936, German troops entered the demilitarized Rhineland. This violated the Treaty of Versailles and the Locarno Treaties."
+      "en": "On 7 March 1936, German troops entered the demilitarized Rhineland. This violated the Treaty of Versailles and the Locarno Treaties.",
+      "fr": "Le 7 mars 1936, des troupes allemandes entrèrent dans la Rhénanie démilitarisée. Cela violait le traité de Versailles et les accords de Locarno.",
+      "es": "El 7 de marzo de 1936, tropas alemanas entraron en la Renania desmilitarizada. Esto violaba el Tratado de Versalles y los Tratados de Locarno.",
+      "it": "Il 7 marzo 1936 truppe tedesche entrarono nella Renania smilitarizzata. Ciò violava il Trattato di Versailles e gli accordi di Locarno.",
+      "pt": "Em 7 de março de 1936, tropas alemãs entraram na Renânia desmilitarizada. Isso violava o Tratado de Versalhes e os Tratados de Locarno.",
+      "nl": "Op 7 maart 1936 trokken Duitse troepen het gedemilitariseerde Rijnland binnen. Dit schond het Verdrag van Versailles en de Verdragen van Locarno.",
+      "pl": "7 marca 1936 roku wojska niemieckie wkroczyły do zdemilitaryzowanej Nadrenii. Naruszało to traktat wersalski i układy lokarneńskie.",
+      "tr": "7 Mart 1936'da Alman birlikleri askerden arındırılmış Renanya'ya girdi. Bu, Versay Antlaşması'nı ve Locarno Antlaşmaları'nı ihlal ediyordu.",
+      "zh": "1936年3月7日，德国军队进入非军事化的莱茵兰。这违反了《凡尔赛条约》和《洛迦诺公约》。",
+      "ja": "1936年3月7日、ドイツ軍は非武装地帯であったラインラントへ進駐しました。これはヴェルサイユ条約とロカルノ条約に違反していました。",
+      "ko": "1936년 3월 7일, 독일군이 비무장화된 라인란트에 진입했습니다. 이는 베르사유 조약과 로카르노 조약을 위반한 것이었습니다.",
+      "hi": "7 मार्च 1936 को जर्मन सैनिक असैन्यीकृत राइनलैंड में प्रवेश कर गए। यह वर्साय संधि और लोकार्नो समझौतों का उल्लंघन था।",
+      "ar": "في 7 مارس 1936 دخلت القوات الألمانية راينلاند المنزوعة السلاح. وكان ذلك انتهاكا لمعاهدة فرساي واتفاقيات لوكارنو."
     },
     "importance": {
       "ru": "Событие стало одним из ключевых шагов нацистской внешней политики перед Второй мировой войной.",
       "de": "Das Ereignis wurde zu einem der Schluesselschritte nationalsozialistischer Aussenpolitik vor dem Zweiten Weltkrieg.",
-      "en": "The event became one of the key steps in Nazi foreign policy before the Second World War."
+      "en": "The event became one of the key steps in Nazi foreign policy before the Second World War.",
+      "fr": "L'événement devint l'une des étapes clés de la politique étrangère nazie avant la Seconde Guerre mondiale.",
+      "es": "El acontecimiento se convirtió en uno de los pasos clave de la política exterior nazi antes de la Segunda Guerra Mundial.",
+      "it": "L'evento divenne uno dei passaggi chiave della politica estera nazista prima della Seconda guerra mondiale.",
+      "pt": "O acontecimento tornou-se um dos passos-chave da política externa nazi antes da Segunda Guerra Mundial.",
+      "nl": "De gebeurtenis werd een van de sleutelstappen in de nazi-buitenlandpolitiek vóór de Tweede Wereldoorlog.",
+      "pl": "Wydarzenie stało się jednym z kluczowych kroków nazistowskiej polityki zagranicznej przed drugą wojną światową.",
+      "tr": "Bu olay, İkinci Dünya Savaşı öncesinde Nazi dış politikasının kilit adımlarından biri oldu.",
+      "zh": "这一事件成为第二次世界大战前纳粹外交政策的关键步骤之一。",
+      "ja": "この出来事は、第二次世界大戦前のナチス外交政策における重要な一歩となりました。",
+      "ko": "이 사건은 제2차 세계대전 이전 나치 외교 정책의 핵심 단계 중 하나가 되었습니다.",
+      "hi": "यह घटना द्वितीय विश्व युद्ध से पहले नाजी विदेश नीति के प्रमुख कदमों में से एक बनी।",
+      "ar": "أصبح هذا الحدث إحدى الخطوات الرئيسية في السياسة الخارجية النازية قبل الحرب العالمية الثانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Испытание Версаля и Локарно",
           "de": "Eine Probe fuer Versailles und Locarno",
-          "en": "A test for Versailles and Locarno"
+          "en": "A test for Versailles and Locarno",
+          "fr": "Une épreuve pour Versailles et Locarno",
+          "es": "Una prueba para Versalles y Locarno",
+          "it": "Una prova per Versailles e Locarno",
+          "pt": "Um teste para Versalhes e Locarno",
+          "nl": "Een test voor Versailles en Locarno",
+          "pl": "Próba dla Wersalu i Locarno",
+          "tr": "Versay ve Locarno için bir sınav",
+          "zh": "对凡尔赛和洛迦诺的考验",
+          "ja": "ヴェルサイユとロカルノへの試練",
+          "ko": "베르사유와 로카르노에 대한 시험",
+          "hi": "वर्साय और लोकार्नो की परीक्षा",
+          "ar": "اختبار لفرساي ولوكارنو"
         },
         "description": {
           "ru": "Рейнская область должна была оставаться демилитаризованной зоной у границы с Францией и Бельгией. Ввод войск проверял, готовы ли другие державы защищать послевоенный порядок.",
           "de": "Das Rheinland sollte eine entmilitarisierte Zone an der Grenze zu Frankreich und Belgien bleiben. Der Einmarsch pruefte, ob andere Maechte bereit waren, die Nachkriegsordnung zu verteidigen.",
-          "en": "The Rhineland was supposed to remain a demilitarized zone along the border with France and Belgium. The troop entry tested whether other powers were willing to defend the postwar order."
+          "en": "The Rhineland was supposed to remain a demilitarized zone along the border with France and Belgium. The troop entry tested whether other powers were willing to defend the postwar order.",
+          "fr": "La Rhénanie devait rester une zone démilitarisée le long de la frontière avec la France et la Belgique. L'entrée des troupes testait la volonté des autres puissances de défendre l'ordre d'après-guerre.",
+          "es": "Renania debía seguir siendo una zona desmilitarizada junto a la frontera con Francia y Bélgica. La entrada de tropas puso a prueba si otras potencias estaban dispuestas a defender el orden de posguerra.",
+          "it": "La Renania doveva restare una zona smilitarizzata lungo il confine con Francia e Belgio. L'ingresso delle truppe mise alla prova la disponibilità delle altre potenze a difendere l'ordine del dopoguerra.",
+          "pt": "A Renânia devia permanecer uma zona desmilitarizada junto à fronteira com França e Bélgica. A entrada das tropas testou se outras potências estavam dispostas a defender a ordem do pós-guerra.",
+          "nl": "Het Rijnland moest een gedemilitariseerde zone langs de grens met Frankrijk en België blijven. De intocht van troepen testte of andere mogendheden bereid waren de naoorlogse orde te verdedigen.",
+          "pl": "Nadrenia miała pozostać strefą zdemilitaryzowaną przy granicy z Francją i Belgią. Wkroczenie wojsk sprawdzało, czy inne mocarstwa są gotowe bronić powojennego porządku.",
+          "tr": "Renanya, Fransa ve Belçika sınırı boyunca askerden arındırılmış bir bölge olarak kalmalıydı. Askerlerin girişi, diğer güçlerin savaş sonrası düzeni savunmaya hazır olup olmadığını sınadı.",
+          "zh": "莱茵兰本应继续作为法国和比利时边境附近的非军事区。军队进入是在试探其他大国是否愿意维护战后秩序。",
+          "ja": "ラインラントはフランスとベルギーとの国境沿いの非武装地帯であり続けるはずでした。軍の進駐は、他の大国が戦後秩序を守る意思を持っているかを試すものでした。",
+          "ko": "라인란트는 프랑스와 벨기에 국경을 따라 비무장 지대로 남아 있어야 했습니다. 군대의 진입은 다른 강대국들이 전후 질서를 지킬 의지가 있는지를 시험했습니다.",
+          "hi": "राइनलैंड को फ्रांस और बेल्जियम की सीमा के पास असैन्यीकृत क्षेत्र बने रहना था। सैनिकों का प्रवेश यह परखता था कि क्या अन्य शक्तियाँ युद्धोत्तर व्यवस्था की रक्षा करने को तैयार हैं।",
+          "ar": "كان من المفترض أن تبقى راينلاند منطقة منزوعة السلاح على الحدود مع فرنسا وبلجيكا. وقد اختبر دخول القوات استعداد القوى الأخرى للدفاع عن نظام ما بعد الحرب."
         },
         "importance": {
           "ru": "Реакция оказалась слабой, и это усилило уверенность Гитлера в дальнейших рискованных шагах.",
           "de": "Die Reaktion blieb schwach, was Hitlers Vertrauen in weitere riskante Schritte staerkte.",
-          "en": "The reaction was weak, strengthening Hitler's confidence in further risky moves."
+          "en": "The reaction was weak, strengthening Hitler's confidence in further risky moves.",
+          "fr": "La réaction fut faible, ce qui renforça la confiance d'Hitler dans de nouvelles démarches risquées.",
+          "es": "La reacción fue débil, lo que reforzó la confianza de Hitler para dar nuevos pasos arriesgados.",
+          "it": "La reazione fu debole e rafforzò la fiducia di Hitler in ulteriori mosse rischiose.",
+          "pt": "A reação foi fraca, o que reforçou a confiança de Hitler em novos passos arriscados.",
+          "nl": "De reactie bleef zwak, wat Hitlers vertrouwen in verdere riskante stappen versterkte.",
+          "pl": "Reakcja okazała się słaba, co wzmocniło pewność Hitlera w podejmowaniu kolejnych ryzykownych kroków.",
+          "tr": "Tepki zayıf kaldı ve bu Hitler'in daha riskli adımlar atma güvenini güçlendirdi.",
+          "zh": "反应很弱，这增强了希特勒继续采取冒险步骤的信心。",
+          "ja": "反応は弱く、それがヒトラーにさらなる危険な行動への自信を与えました。",
+          "ko": "반응은 약했고, 이는 히틀러가 더 위험한 조치를 취할 자신감을 강화했습니다.",
+          "hi": "प्रतिक्रिया कमजोर रही, जिससे हिटलर का आगे जोखिम भरे कदम उठाने का आत्मविश्वास बढ़ा।",
+          "ar": "كان الرد ضعيفا، مما عزز ثقة هتلر في اتخاذ خطوات أكثر مخاطرة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Одна зона на карте изменила баланс сил",
           "de": "Eine Zone auf der Karte veraendert das Kraefteverhaeltnis",
-          "en": "One zone on the map changed the balance of power"
+          "en": "One zone on the map changed the balance of power",
+          "fr": "Une zone sur la carte change l'équilibre des forces",
+          "es": "Una zona del mapa cambió el equilibrio de poder",
+          "it": "Una zona sulla carta cambiò l'equilibrio delle forze",
+          "pt": "Uma zona no mapa mudou o equilíbrio de forças",
+          "nl": "Eén zone op de kaart veranderde de machtsverhoudingen",
+          "pl": "Jedna strefa na mapie zmieniła równowagę sił",
+          "tr": "Haritadaki bir bölge güç dengesini değiştirdi",
+          "zh": "地图上的一个区域改变了力量平衡",
+          "ja": "地図上の一つの区域が勢力均衡を変えた",
+          "ko": "지도 위 한 구역이 세력 균형을 바꾸다",
+          "hi": "नक्शे के एक क्षेत्र ने शक्ति संतुलन बदल दिया",
+          "ar": "منطقة واحدة على الخريطة غيّرت ميزان القوى"
         },
         "description": {
           "ru": "Речь шла не о захвате чужой территории, а о нарушении особого режима внутри Германии. Но именно такие правовые детали могут менять безопасность целого континента.",
           "de": "Es ging nicht um die Eroberung fremden Territoriums, sondern um die Verletzung eines Sonderstatus innerhalb Deutschlands. Doch gerade solche rechtlichen Details koennen die Sicherheit eines ganzen Kontinents veraendern.",
-          "en": "This was not the conquest of foreign territory, but the violation of a special status within Germany. Yet such legal details can change the security of an entire continent."
+          "en": "This was not the conquest of foreign territory, but the violation of a special status within Germany. Yet such legal details can change the security of an entire continent.",
+          "fr": "Il ne s'agissait pas de conquérir un territoire étranger, mais de violer un statut particulier à l'intérieur de l'Allemagne. Pourtant, de tels détails juridiques peuvent changer la sécurité de tout un continent.",
+          "es": "No se trataba de conquistar territorio extranjero, sino de violar un estatus especial dentro de Alemania. Pero precisamente esos detalles jurídicos pueden cambiar la seguridad de todo un continente.",
+          "it": "Non si trattava della conquista di territorio straniero, ma della violazione di uno status speciale all'interno della Germania. Eppure proprio tali dettagli giuridici possono cambiare la sicurezza di un intero continente.",
+          "pt": "Não se tratava da conquista de território estrangeiro, mas da violação de um estatuto especial dentro da Alemanha. Contudo, precisamente esses detalhes jurídicos podem mudar a segurança de todo um continente.",
+          "nl": "Het ging niet om de verovering van vreemd grondgebied, maar om de schending van een speciale status binnen Duitsland. Juist zulke juridische details kunnen de veiligheid van een heel continent veranderen.",
+          "pl": "Nie chodziło o zajęcie obcego terytorium, lecz o naruszenie szczególnego statusu wewnątrz Niemiec. Właśnie takie szczegóły prawne mogą jednak zmieniać bezpieczeństwo całego kontynentu.",
+          "tr": "Bu, yabancı toprakların fethi değil, Almanya içindeki özel bir statünün ihlaliydi. Ama tam da böyle hukuki ayrıntılar bütün bir kıtanın güvenliğini değiştirebilir.",
+          "zh": "这并不是征服外国领土，而是违反德国境内的一种特殊地位。然而，正是这样的法律细节可能改变整个大陆的安全。",
+          "ja": "これは外国領土の征服ではなく、ドイツ国内の特別な地位の侵害でした。しかし、まさにそのような法的細部が大陸全体の安全を変えることがあります。",
+          "ko": "이는 외국 영토의 정복이 아니라 독일 내부의 특별 지위를 위반한 것이었습니다. 그러나 바로 그런 법적 세부 사항이 대륙 전체의 안보를 바꿀 수 있습니다.",
+          "hi": "यह किसी विदेशी क्षेत्र पर कब्ज़ा नहीं था, बल्कि जर्मनी के भीतर विशेष दर्जे का उल्लंघन था। फिर भी ऐसे कानूनी विवरण पूरे महाद्वीप की सुरक्षा बदल सकते हैं।",
+          "ar": "لم يكن الأمر غزوا لأرض أجنبية، بل انتهاكا لوضع خاص داخل ألمانيا. ومع ذلك يمكن لمثل هذه التفاصيل القانونية أن تغير أمن قارة كاملة."
         },
         "importance": {
           "ru": "Для календаря с картами это важный пример того, что значение имеет не только граница, но и режим территории.",
           "de": "Fuer einen Kalender mit Karten ist das ein wichtiges Beispiel dafuer, dass nicht nur Grenzen zaehlen, sondern auch der Status eines Gebiets.",
-          "en": "For a calendar with maps, this is an important example showing that not only borders matter, but also a territory's status."
+          "en": "For a calendar with maps, this is an important example showing that not only borders matter, but also a territory's status.",
+          "fr": "Pour un calendrier avec des cartes, c'est un exemple important: les frontières ne comptent pas seules, le statut d'un territoire compte aussi.",
+          "es": "Para un calendario con mapas, es un ejemplo importante de que no solo importan las fronteras, sino también el estatus de un territorio.",
+          "it": "Per un calendario con mappe è un esempio importante: non contano solo i confini, ma anche lo status di un territorio.",
+          "pt": "Para um calendário com mapas, é um exemplo importante de que não contam apenas as fronteiras, mas também o estatuto de um território.",
+          "nl": "Voor een kalender met kaarten is dit een belangrijk voorbeeld dat niet alleen grenzen tellen, maar ook de status van een gebied.",
+          "pl": "Dla kalendarza z mapami to ważny przykład, że liczą się nie tylko granice, lecz także status terytorium.",
+          "tr": "Haritalı bir takvim için bu, yalnızca sınırların değil bir bölgenin statüsünün de önemli olduğunu gösteren önemli bir örnektir.",
+          "zh": "对于带地图的日历来说，这是一个重要例子：重要的不只是边界，还有一个地区的地位。",
+          "ja": "地図付きのカレンダーにとって、これは国境だけでなく領域の地位も重要であることを示す大切な例です。",
+          "ko": "지도가 있는 달력에는 경계뿐 아니라 영토의 지위도 중요하다는 것을 보여 주는 중요한 예입니다.",
+          "hi": "नक्शों वाले कैलेंडर के लिए यह महत्वपूर्ण उदाहरण है कि केवल सीमाएँ ही नहीं, किसी क्षेत्र का दर्जा भी मायने रखता है।",
+          "ar": "بالنسبة إلى تقويم مع خرائط، فهذا مثال مهم على أن الحدود ليست وحدها المهمة، بل وضع الإقليم أيضا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Гитлер объявил ремилитаризацию в тот же день в речи перед рейхстагом.",
     "de": "Hitler verkuendete die Remilitarisierung am selben Tag in einer Rede vor dem Reichstag.",
-    "en": "Hitler announced the remilitarization the same day in a speech before the Reichstag."
+    "en": "Hitler announced the remilitarization the same day in a speech before the Reichstag.",
+    "fr": "Hitler annonça la remilitarisation le même jour dans un discours devant le Reichstag.",
+    "es": "Hitler anunció la remilitarización ese mismo día en un discurso ante el Reichstag.",
+    "it": "Hitler annunciò la rimilitarizzazione lo stesso giorno in un discorso davanti al Reichstag.",
+    "pt": "Hitler anunciou a remilitarização no mesmo dia num discurso perante o Reichstag.",
+    "nl": "Hitler kondigde de remilitarisering dezelfde dag aan in een rede voor de Rijksdag.",
+    "pl": "Hitler ogłosił remilitaryzację tego samego dnia w przemówieniu przed Reichstagiem.",
+    "tr": "Hitler yeniden askerileştirmeyi aynı gün Reichstag önündeki konuşmasında duyurdu.",
+    "zh": "希特勒当天在国会演讲中宣布了重新军事化。",
+    "ja": "ヒトラーは同じ日にライヒ議会での演説で再軍備化を発表しました。",
+    "ko": "히틀러는 같은 날 라이히스탁 연설에서 재무장을 발표했습니다.",
+    "hi": "हिटलर ने उसी दिन राइखस्टाग के सामने भाषण में पुनः सैन्यीकरण की घोषणा की।",
+    "ar": "أعلن هتلر إعادة العسكرة في اليوم نفسه في خطاب أمام الرايخستاغ."
   },
   "sources": [
     {

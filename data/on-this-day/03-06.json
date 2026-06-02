@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Йозеф фон Фраунгофер",
       "de": "Joseph von Fraunhofer wird geboren",
-      "en": "Joseph von Fraunhofer is born"
+      "en": "Joseph von Fraunhofer is born",
+      "fr": "Naissance de Joseph von Fraunhofer",
+      "es": "Nace Joseph von Fraunhofer",
+      "it": "Nasce Joseph von Fraunhofer",
+      "pt": "Nasce Joseph von Fraunhofer",
+      "nl": "Joseph von Fraunhofer wordt geboren",
+      "pl": "Urodził się Joseph von Fraunhofer",
+      "tr": "Joseph von Fraunhofer doğdu",
+      "zh": "约瑟夫·冯·夫琅和费出生",
+      "ja": "ヨーゼフ・フォン・フラウンホーファーが生まれる",
+      "ko": "요제프 폰 프라운호퍼가 태어나다",
+      "hi": "योसेफ फ़ॉन फ्राउनहोफ़र का जन्म हुआ",
+      "ar": "ولادة يوزف فون فراونهوفر"
     },
     "description": {
       "ru": "6 марта 1787 года в Штраубинге родился Йозеф фон Фраунгофер. Он стал одним из важных исследователей оптики и солнечного спектра.",
       "de": "Am 6. Maerz 1787 wurde Joseph von Fraunhofer in Straubing geboren. Er wurde zu einem wichtigen Forscher der Optik und des Sonnenspektrums.",
-      "en": "On 6 March 1787, Joseph von Fraunhofer was born in Straubing. He became an important researcher in optics and the solar spectrum."
+      "en": "On 6 March 1787, Joseph von Fraunhofer was born in Straubing. He became an important researcher in optics and the solar spectrum.",
+      "fr": "Le 6 mars 1787, Joseph von Fraunhofer naquit à Straubing. Il devint un chercheur important dans le domaine de l'optique et du spectre solaire.",
+      "es": "El 6 de marzo de 1787 nació Joseph von Fraunhofer en Straubing. Llegó a ser un investigador importante de la óptica y del espectro solar.",
+      "it": "Il 6 marzo 1787 Joseph von Fraunhofer nacque a Straubing. Divenne un importante studioso dell'ottica e dello spettro solare.",
+      "pt": "Em 6 de março de 1787, Joseph von Fraunhofer nasceu em Straubing. Tornou-se um investigador importante da ótica e do espectro solar.",
+      "nl": "Op 6 maart 1787 werd Joseph von Fraunhofer in Straubing geboren. Hij werd een belangrijke onderzoeker op het gebied van optica en het zonnespectrum.",
+      "pl": "6 marca 1787 roku w Straubingu urodził się Joseph von Fraunhofer. Stał się ważnym badaczem optyki i widma słonecznego.",
+      "tr": "6 Mart 1787'de Joseph von Fraunhofer Straubing'de doğdu. Optik ve güneş tayfı alanında önemli bir araştırmacı oldu.",
+      "zh": "1787年3月6日，约瑟夫·冯·夫琅和费出生于施特劳宾。他成为光学和太阳光谱的重要研究者。",
+      "ja": "1787年3月6日、ヨーゼフ・フォン・フラウンホーファーはシュトラウビングで生まれました。彼は光学と太陽スペクトルの重要な研究者となりました。",
+      "ko": "1787년 3월 6일, 요제프 폰 프라운호퍼가 슈트라우빙에서 태어났습니다. 그는 광학과 태양 스펙트럼의 중요한 연구자가 되었습니다.",
+      "hi": "6 मार्च 1787 को योसेफ फ़ॉन फ्राउनहोफ़र का जन्म श्ट्राउबिंग में हुआ। वे प्रकाशिकी और सौर स्पेक्ट्रम के महत्वपूर्ण शोधकर्ता बने।",
+      "ar": "في 6 مارس 1787 وُلد يوزف فون فراونهوفر في شتراوبينغ. وأصبح باحثا مهما في البصريات والطيف الشمسي."
     },
     "importance": {
       "ru": "Фраунгофер соединяет науку, точное приборостроение и баварскую промышленную традицию.",
       "de": "Fraunhofer verbindet Wissenschaft, praezisen Instrumentenbau und bayerische Industrietradition.",
-      "en": "Fraunhofer connects science, precision instrument making and Bavarian industrial tradition."
+      "en": "Fraunhofer connects science, precision instrument making and Bavarian industrial tradition.",
+      "fr": "Fraunhofer relie la science, la fabrication d'instruments de précision et la tradition industrielle bavaroise.",
+      "es": "Fraunhofer conecta la ciencia, la fabricación de instrumentos de precisión y la tradición industrial bávara.",
+      "it": "Fraunhofer collega scienza, costruzione di strumenti di precisione e tradizione industriale bavarese.",
+      "pt": "Fraunhofer liga ciência, fabrico de instrumentos de precisão e tradição industrial bávara.",
+      "nl": "Fraunhofer verbindt wetenschap, nauwkeurige instrumentenbouw en Beierse industriële traditie.",
+      "pl": "Fraunhofer łączy naukę, precyzyjne wytwarzanie instrumentów i bawarską tradycję przemysłową.",
+      "tr": "Fraunhofer bilimi, hassas alet yapımını ve Bavyera sanayi geleneğini birbirine bağlar.",
+      "zh": "夫琅和费连接了科学、精密仪器制造和巴伐利亚工业传统。",
+      "ja": "フラウンホーファーは、科学、精密機器製造、バイエルンの産業伝統を結びつけています。",
+      "ko": "프라운호퍼는 과학, 정밀 기기 제작, 바이에른 산업 전통을 연결합니다.",
+      "hi": "फ्राउनहोफ़र विज्ञान, सटीक उपकरण निर्माण और बवेरियाई औद्योगिक परंपरा को जोड़ते हैं।",
+      "ar": "يربط فراونهوفر بين العلم وصناعة الأدوات الدقيقة والتقاليد الصناعية البافارية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Линии Фраунгофера",
           "de": "Fraunhoferlinien",
-          "en": "Fraunhofer lines"
+          "en": "Fraunhofer lines",
+          "fr": "Les raies de Fraunhofer",
+          "es": "Las líneas de Fraunhofer",
+          "it": "Le righe di Fraunhofer",
+          "pt": "As linhas de Fraunhofer",
+          "nl": "Fraunhoferlijnen",
+          "pl": "Linie Fraunhofera",
+          "tr": "Fraunhofer çizgileri",
+          "zh": "夫琅和费线",
+          "ja": "フラウンホーファー線",
+          "ko": "프라운호퍼선",
+          "hi": "फ्राउनहोफ़र रेखाएँ",
+          "ar": "خطوط فراونهوفر"
         },
         "description": {
           "ru": "Фраунгофер подробно изучал тёмные линии в солнечном спектре. Позднее такие наблюдения помогли понять состав звёзд и стали важной частью спектроскопии.",
           "de": "Fraunhofer untersuchte die dunklen Linien im Sonnenspektrum genau. Spaeter halfen solche Beobachtungen, die Zusammensetzung von Sternen zu verstehen, und wurden wichtig fuer die Spektroskopie.",
-          "en": "Fraunhofer studied the dark lines in the solar spectrum in detail. Later, such observations helped scientists understand the composition of stars and became central to spectroscopy."
+          "en": "Fraunhofer studied the dark lines in the solar spectrum in detail. Later, such observations helped scientists understand the composition of stars and became central to spectroscopy.",
+          "fr": "Fraunhofer étudia en détail les raies sombres du spectre solaire. Plus tard, de telles observations aidèrent les scientifiques à comprendre la composition des étoiles et devinrent centrales pour la spectroscopie.",
+          "es": "Fraunhofer estudió en detalle las líneas oscuras del espectro solar. Más tarde, esas observaciones ayudaron a los científicos a entender la composición de las estrellas y se volvieron centrales para la espectroscopia.",
+          "it": "Fraunhofer studiò in dettaglio le righe scure dello spettro solare. In seguito, tali osservazioni aiutarono gli scienziati a capire la composizione delle stelle e divennero centrali per la spettroscopia.",
+          "pt": "Fraunhofer estudou em detalhe as linhas escuras do espectro solar. Mais tarde, essas observações ajudaram os cientistas a compreender a composição das estrelas e tornaram-se centrais para a espectroscopia.",
+          "nl": "Fraunhofer bestudeerde de donkere lijnen in het zonnespectrum nauwkeurig. Later hielpen zulke waarnemingen wetenschappers de samenstelling van sterren te begrijpen en werden ze centraal voor spectroscopie.",
+          "pl": "Fraunhofer szczegółowo badał ciemne linie w widmie słonecznym. Później takie obserwacje pomogły naukowcom zrozumieć skład gwiazd i stały się ważną częścią spektroskopii.",
+          "tr": "Fraunhofer güneş tayfındaki koyu çizgileri ayrıntılı biçimde inceledi. Daha sonra bu tür gözlemler bilim insanlarının yıldızların bileşimini anlamasına yardım etti ve spektroskopinin merkezi oldu.",
+          "zh": "夫琅和费详细研究了太阳光谱中的暗线。后来，这类观测帮助科学家理解恒星的组成，并成为光谱学的核心。",
+          "ja": "フラウンホーファーは太陽スペクトルの暗線を詳しく研究しました。後にそのような観測は、科学者が星の組成を理解する助けとなり、分光学の中心となりました。",
+          "ko": "프라운호퍼는 태양 스펙트럼의 어두운 선을 자세히 연구했습니다. 이후 이러한 관측은 과학자들이 별의 구성을 이해하는 데 도움을 주었고 분광학의 핵심이 되었습니다.",
+          "hi": "फ्राउनहोफ़र ने सौर स्पेक्ट्रम की अंधेरी रेखाओं का विस्तार से अध्ययन किया। बाद में ऐसी टिप्पणियों ने वैज्ञानिकों को तारों की संरचना समझने में मदद की और वे स्पेक्ट्रोस्कोपी का मुख्य हिस्सा बनीं।",
+          "ar": "درس فراونهوفر الخطوط الداكنة في الطيف الشمسي بالتفصيل. ولاحقا ساعدت هذه الملاحظات العلماء على فهم تركيب النجوم وأصبحت مركزية في التحليل الطيفي."
         },
         "importance": {
           "ru": "Это пример того, как аккуратное измерение света открыло дорогу к исследованию далёкого космоса.",
           "de": "Das ist ein Beispiel dafuer, wie genaue Messung von Licht den Weg zur Erforschung des fernen Kosmos oeffnete.",
-          "en": "It is an example of careful light measurement opening the way to the study of distant space."
+          "en": "It is an example of careful light measurement opening the way to the study of distant space.",
+          "fr": "C'est un exemple de la façon dont une mesure précise de la lumière a ouvert la voie à l'étude de l'espace lointain.",
+          "es": "Es un ejemplo de cómo la medición cuidadosa de la luz abrió el camino al estudio del espacio lejano.",
+          "it": "È un esempio di come la misurazione accurata della luce abbia aperto la strada allo studio dello spazio lontano.",
+          "pt": "É um exemplo de como a medição cuidadosa da luz abriu caminho ao estudo do espaço distante.",
+          "nl": "Het is een voorbeeld van hoe nauwkeurige meting van licht de weg opende naar het onderzoek van de verre ruimte.",
+          "pl": "To przykład tego, jak dokładny pomiar światła otworzył drogę do badania dalekiego kosmosu.",
+          "tr": "Bu, ışığın dikkatli ölçümünün uzak uzayın incelenmesine nasıl yol açtığının bir örneğidir.",
+          "zh": "这是精确测量光如何为研究遥远宇宙打开道路的例子。",
+          "ja": "これは、光を慎重に測定することが遠い宇宙の研究への道を開いた例です。",
+          "ko": "이는 빛을 정밀하게 측정하는 일이 먼 우주 연구의 길을 연 사례입니다.",
+          "hi": "यह उदाहरण है कि प्रकाश के सावधानीपूर्वक मापन ने दूरस्थ अंतरिक्ष के अध्ययन का रास्ता कैसे खोला।",
+          "ar": "إنه مثال على كيف فتح القياس الدقيق للضوء الطريق لدراسة الفضاء البعيد."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Крупнейшее немецкое общество прикладных исследований носит имя Фраунгофера.",
     "de": "Die groesste deutsche Organisation fuer angewandte Forschung traegt Fraunhofers Namen.",
-    "en": "Germany's largest organization for applied research bears Fraunhofer's name."
+    "en": "Germany's largest organization for applied research bears Fraunhofer's name.",
+    "fr": "La plus grande organisation allemande de recherche appliquée porte le nom de Fraunhofer.",
+    "es": "La mayor organización alemana de investigación aplicada lleva el nombre de Fraunhofer.",
+    "it": "La più grande organizzazione tedesca per la ricerca applicata porta il nome di Fraunhofer.",
+    "pt": "A maior organização alemã de investigação aplicada leva o nome de Fraunhofer.",
+    "nl": "De grootste Duitse organisatie voor toegepast onderzoek draagt de naam Fraunhofer.",
+    "pl": "Największa niemiecka organizacja badań stosowanych nosi imię Fraunhofera.",
+    "tr": "Almanya'nın en büyük uygulamalı araştırma kuruluşu Fraunhofer'in adını taşır.",
+    "zh": "德国最大的应用研究机构以夫琅和费命名。",
+    "ja": "ドイツ最大の応用研究機関はフラウンホーファーの名を冠しています。",
+    "ko": "독일 최대의 응용 연구 기관은 프라운호퍼의 이름을 가지고 있습니다.",
+    "hi": "जर्मनी का सबसे बड़ा अनुप्रयुक्त अनुसंधान संगठन फ्राउनहोफ़र के नाम पर है।",
+    "ar": "تحمل أكبر منظمة ألمانية للبحوث التطبيقية اسم فراونهوفر."
   },
   "sources": [
     {

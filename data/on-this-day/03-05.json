@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Роза Люксембург",
       "de": "Rosa Luxemburg wird geboren",
-      "en": "Rosa Luxemburg is born"
+      "en": "Rosa Luxemburg is born",
+      "fr": "Naissance de Rosa Luxemburg",
+      "es": "Nace Rosa Luxemburg",
+      "it": "Nasce Rosa Luxemburg",
+      "pt": "Nasce Rosa Luxemburgo",
+      "nl": "Rosa Luxemburg wordt geboren",
+      "pl": "Urodziła się Róża Luksemburg",
+      "tr": "Rosa Luxemburg doğdu",
+      "zh": "罗莎·卢森堡出生",
+      "ja": "ローザ・ルクセンブルクが生まれる",
+      "ko": "로자 룩셈부르크가 태어나다",
+      "hi": "रोज़ा लक्ज़मबर्ग का जन्म हुआ",
+      "ar": "ولادة روزا لوكسمبورغ"
     },
     "description": {
       "ru": "5 марта 1871 года в Замосце родилась Роза Люксембург. Позднее она стала одной из самых известных фигур немецкого социалистического движения и соосновательницей Союза Спартака.",
       "de": "Am 5. Maerz 1871 wurde Rosa Luxemburg in Zamosc geboren. Spaeter wurde sie eine der bekanntesten Figuren der deutschen sozialistischen Bewegung und Mitbegruenderin des Spartakusbundes.",
-      "en": "On 5 March 1871, Rosa Luxemburg was born in Zamosc. She later became one of the best-known figures of the German socialist movement and a co-founder of the Spartacus League."
+      "en": "On 5 March 1871, Rosa Luxemburg was born in Zamosc. She later became one of the best-known figures of the German socialist movement and a co-founder of the Spartacus League.",
+      "fr": "Le 5 mars 1871, Rosa Luxemburg naquit à Zamosc. Elle devint plus tard l'une des figures les plus connues du mouvement socialiste allemand et cofondatrice de la Ligue spartakiste.",
+      "es": "El 5 de marzo de 1871 nació Rosa Luxemburg en Zamosc. Más tarde se convirtió en una de las figuras más conocidas del movimiento socialista alemán y cofundadora de la Liga Espartaquista.",
+      "it": "Il 5 marzo 1871 Rosa Luxemburg nacque a Zamosc. In seguito divenne una delle figure più note del movimento socialista tedesco e cofondatrice della Lega di Spartaco.",
+      "pt": "Em 5 de março de 1871, Rosa Luxemburgo nasceu em Zamosc. Mais tarde tornou-se uma das figuras mais conhecidas do movimento socialista alemão e cofundadora da Liga Spartakus.",
+      "nl": "Op 5 maart 1871 werd Rosa Luxemburg in Zamosc geboren. Later werd zij een van de bekendste figuren van de Duitse socialistische beweging en medeoprichter van de Spartakusbund.",
+      "pl": "5 marca 1871 roku w Zamościu urodziła się Róża Luksemburg. Później stała się jedną z najbardziej znanych postaci niemieckiego ruchu socjalistycznego i współzałożycielką Związku Spartakusa.",
+      "tr": "5 Mart 1871'de Rosa Luxemburg Zamosc'ta doğdu. Daha sonra Alman sosyalist hareketinin en tanınmış figürlerinden biri ve Spartaküs Birliği'nin kurucularından oldu.",
+      "zh": "1871年3月5日，罗莎·卢森堡出生于扎莫希奇。后来，她成为德国社会主义运动最著名的人物之一，并共同创立了斯巴达克同盟。",
+      "ja": "1871年3月5日、ローザ・ルクセンブルクはザモシチで生まれました。後に彼女はドイツ社会主義運動の最もよく知られた人物の一人となり、スパルタクス団の共同創設者となりました。",
+      "ko": "1871년 3월 5일, 로자 룩셈부르크가 자모시치에서 태어났습니다. 그는 나중에 독일 사회주의 운동의 가장 잘 알려진 인물 중 한 명이자 스파르타쿠스 동맹의 공동 창립자가 되었습니다.",
+      "hi": "5 मार्च 1871 को रोज़ा लक्ज़मबर्ग का जन्म ज़ामोश्च में हुआ। बाद में वे जर्मन समाजवादी आंदोलन की सबसे प्रसिद्ध हस्तियों में से एक और स्पार्टाकस लीग की सह-संस्थापक बनीं।",
+      "ar": "في 5 مارس 1871 وُلدت روزا لوكسمبورغ في زاموش. وأصبحت لاحقا إحدى أشهر شخصيات الحركة الاشتراكية الألمانية ومؤسسة مشاركة لرابطة سبارتاكوس."
     },
     "importance": {
       "ru": "Её жизнь помогает понять споры о демократии, революции и рабочих движениях в Германской империи и Веймарской республике.",
       "de": "Ihr Leben hilft, Debatten ueber Demokratie, Revolution und Arbeiterbewegungen im Kaiserreich und in der Weimarer Republik zu verstehen.",
-      "en": "Her life helps explain debates about democracy, revolution and labor movements in the German Empire and the Weimar Republic."
+      "en": "Her life helps explain debates about democracy, revolution and labor movements in the German Empire and the Weimar Republic.",
+      "fr": "Sa vie aide à comprendre les débats sur la démocratie, la révolution et les mouvements ouvriers dans l'Empire allemand et la République de Weimar.",
+      "es": "Su vida ayuda a entender los debates sobre democracia, revolución y movimientos obreros en el Imperio alemán y la República de Weimar.",
+      "it": "La sua vita aiuta a capire i dibattiti su democrazia, rivoluzione e movimenti operai nell'Impero tedesco e nella Repubblica di Weimar.",
+      "pt": "A sua vida ajuda a compreender debates sobre democracia, revolução e movimentos operários no Império Alemão e na República de Weimar.",
+      "nl": "Haar leven helpt debatten over democratie, revolutie en arbeidersbewegingen in het Duitse Keizerrijk en de Weimarrepubliek te begrijpen.",
+      "pl": "Jej życie pomaga zrozumieć spory o demokrację, rewolucję i ruchy robotnicze w Cesarstwie Niemieckim i Republice Weimarskiej.",
+      "tr": "Onun yaşamı, Alman İmparatorluğu ve Weimar Cumhuriyeti'nde demokrasi, devrim ve işçi hareketleri üzerine tartışmaları anlamaya yardımcı olur.",
+      "zh": "她的一生有助于理解德意志帝国和魏玛共和国时期关于民主、革命和工人运动的争论。",
+      "ja": "彼女の生涯は、ドイツ帝国とワイマール共和国における民主主義、革命、労働運動をめぐる議論を理解する助けになります。",
+      "ko": "그의 삶은 독일 제국과 바이마르 공화국에서 민주주의, 혁명, 노동운동에 관한 논쟁을 이해하는 데 도움을 줍니다.",
+      "hi": "उनका जीवन जर्मन साम्राज्य और वाइमर गणराज्य में लोकतंत्र, क्रांति और श्रमिक आंदोलनों पर बहसों को समझने में मदद करता है।",
+      "ar": "تساعد حياتها على فهم النقاشات حول الديمقراطية والثورة والحركات العمالية في الإمبراطورية الألمانية وجمهورية فايمار."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Союз Спартака",
           "de": "Der Spartakusbund",
-          "en": "The Spartacus League"
+          "en": "The Spartacus League",
+          "fr": "La Ligue spartakiste",
+          "es": "La Liga Espartaquista",
+          "it": "La Lega di Spartaco",
+          "pt": "A Liga Spartakus",
+          "nl": "De Spartakusbund",
+          "pl": "Związek Spartakusa",
+          "tr": "Spartaküs Birliği",
+          "zh": "斯巴达克同盟",
+          "ja": "スパルタクス団",
+          "ko": "스파르타쿠스 동맹",
+          "hi": "स्पार्टाकस लीग",
+          "ar": "رابطة سبارتاكوس"
         },
         "description": {
           "ru": "Во время революции 1918-1919 годов Люксембург выступала за социалистическое преобразование Германии. Её убийство в январе 1919 года стало одной из болезненных ран ранней Веймарской республики.",
           "de": "Waehrend der Revolution 1918/19 trat Luxemburg fuer eine sozialistische Umgestaltung Deutschlands ein. Ihre Ermordung im Januar 1919 wurde zu einer schmerzhaften Wunde der fruehen Weimarer Republik.",
-          "en": "During the 1918-1919 revolution, Luxemburg argued for a socialist transformation of Germany. Her murder in January 1919 became one of the painful wounds of the early Weimar Republic."
+          "en": "During the 1918-1919 revolution, Luxemburg argued for a socialist transformation of Germany. Her murder in January 1919 became one of the painful wounds of the early Weimar Republic.",
+          "fr": "Pendant la révolution de 1918-1919, Luxemburg défendit une transformation socialiste de l'Allemagne. Son assassinat en janvier 1919 devint l'une des blessures douloureuses de la jeune République de Weimar.",
+          "es": "Durante la revolución de 1918-1919, Luxemburg defendió una transformación socialista de Alemania. Su asesinato en enero de 1919 se convirtió en una de las heridas dolorosas de la primera República de Weimar.",
+          "it": "Durante la rivoluzione del 1918-1919, Luxemburg sostenne una trasformazione socialista della Germania. Il suo assassinio nel gennaio 1919 divenne una delle ferite dolorose della prima Repubblica di Weimar.",
+          "pt": "Durante a revolução de 1918-1919, Luxemburgo defendeu uma transformação socialista da Alemanha. O seu assassinato em janeiro de 1919 tornou-se uma das feridas dolorosas da jovem República de Weimar.",
+          "nl": "Tijdens de revolutie van 1918-1919 pleitte Luxemburg voor een socialistische omvorming van Duitsland. Haar moord in januari 1919 werd een van de pijnlijke wonden van de vroege Weimarrepubliek.",
+          "pl": "Podczas rewolucji 1918-1919 Luksemburg opowiadała się za socjalistyczną przebudową Niemiec. Jej zabójstwo w styczniu 1919 roku stało się jedną z bolesnych ran wczesnej Republiki Weimarskiej.",
+          "tr": "1918-1919 devrimi sırasında Luxemburg, Almanya'nın sosyalist dönüşümünü savundu. Ocak 1919'da öldürülmesi erken Weimar Cumhuriyeti'nin acı yaralarından biri oldu.",
+          "zh": "在1918至1919年革命期间，卢森堡主张对德国进行社会主义改造。她在1919年1月被杀，成为魏玛共和国早期的痛苦创伤之一。",
+          "ja": "1918年から1919年の革命の間、ルクセンブルクはドイツの社会主義的変革を主張しました。1919年1月の彼女の殺害は、初期ワイマール共和国の痛ましい傷の一つとなりました。",
+          "ko": "1918-1919년 혁명 동안 룩셈부르크는 독일의 사회주의적 변화를 주장했습니다. 1919년 1월 그의 살해는 초기 바이마르 공화국의 아픈 상처 중 하나가 되었습니다.",
+          "hi": "1918-1919 की क्रांति के दौरान लक्ज़मबर्ग ने जर्मनी के समाजवादी परिवर्तन की वकालत की। जनवरी 1919 में उनकी हत्या प्रारंभिक वाइमर गणराज्य के दर्दनाक घावों में से एक बनी।",
+          "ar": "خلال ثورة 1918-1919 دافعت لوكسمبورغ عن تحول اشتراكي في ألمانيا. وأصبح اغتيالها في يناير 1919 إحدى الجراح المؤلمة في بدايات جمهورية فايمار."
         },
         "importance": {
           "ru": "Это показывает, насколько напряжённым и насильственным было рождение Веймарской демократии.",
           "de": "Das zeigt, wie gespannt und gewaltsam die Geburt der Weimarer Demokratie war.",
-          "en": "It shows how tense and violent the birth of Weimar democracy was."
+          "en": "It shows how tense and violent the birth of Weimar democracy was.",
+          "fr": "Cela montre à quel point la naissance de la démocratie de Weimar fut tendue et violente.",
+          "es": "Muestra lo tenso y violento que fue el nacimiento de la democracia de Weimar.",
+          "it": "Mostra quanto fu tesa e violenta la nascita della democrazia di Weimar.",
+          "pt": "Mostra como foi tenso e violento o nascimento da democracia de Weimar.",
+          "nl": "Het laat zien hoe gespannen en gewelddadig de geboorte van de Weimardemocratie was.",
+          "pl": "Pokazuje to, jak napięte i gwałtowne były narodziny demokracji weimarskiej.",
+          "tr": "Bu, Weimar demokrasisinin doğuşunun ne kadar gergin ve şiddetli olduğunu gösterir.",
+          "zh": "这显示了魏玛民主诞生时的紧张和暴力程度。",
+          "ja": "これは、ワイマール民主主義の誕生がどれほど緊張し暴力的であったかを示しています。",
+          "ko": "이는 바이마르 민주주의의 탄생이 얼마나 긴장되고 폭력적이었는지를 보여 줍니다.",
+          "hi": "यह दिखाता है कि वाइमर लोकतंत्र का जन्म कितना तनावपूर्ण और हिंसक था।",
+          "ar": "يوضح ذلك مدى التوتر والعنف في ولادة ديمقراطية فايمار."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Роза Люксембург писала политические тексты, письма и экономические работы, а её наследие до сих пор вызывает споры.",
     "de": "Rosa Luxemburg schrieb politische Texte, Briefe und oekonomische Arbeiten; ihr Erbe bleibt bis heute umstritten.",
-    "en": "Rosa Luxemburg wrote political texts, letters and economic works, and her legacy remains debated."
+    "en": "Rosa Luxemburg wrote political texts, letters and economic works, and her legacy remains debated.",
+    "fr": "Rosa Luxemburg écrivit des textes politiques, des lettres et des travaux économiques, et son héritage reste débattu.",
+    "es": "Rosa Luxemburg escribió textos políticos, cartas y trabajos económicos, y su legado sigue siendo debatido.",
+    "it": "Rosa Luxemburg scrisse testi politici, lettere e lavori economici, e la sua eredità resta discussa.",
+    "pt": "Rosa Luxemburgo escreveu textos políticos, cartas e trabalhos económicos, e o seu legado continua a ser debatido.",
+    "nl": "Rosa Luxemburg schreef politieke teksten, brieven en economische werken, en haar nalatenschap blijft omstreden.",
+    "pl": "Róża Luksemburg pisała teksty polityczne, listy i prace ekonomiczne, a jej dziedzictwo do dziś budzi spory.",
+    "tr": "Rosa Luxemburg siyasi metinler, mektuplar ve ekonomik çalışmalar yazdı; mirası hâlâ tartışmalıdır.",
+    "zh": "罗莎·卢森堡撰写政治文本、书信和经济著作，她的遗产至今仍引发争议。",
+    "ja": "ローザ・ルクセンブルクは政治文書、手紙、経済に関する著作を書き、その遺産はいまも議論されています。",
+    "ko": "로자 룩셈부르크는 정치 글, 편지, 경제 저작을 썼고 그의 유산은 오늘날까지 논쟁의 대상입니다.",
+    "hi": "रोज़ा लक्ज़मबर्ग ने राजनीतिक लेख, पत्र और आर्थिक रचनाएँ लिखीं, और उनकी विरासत आज भी बहस का विषय है।",
+    "ar": "كتبت روزا لوكسمبورغ نصوصا سياسية ورسائل وأعمالا اقتصادية، وما زال إرثها محل نقاش."
   },
   "sources": [
     {
