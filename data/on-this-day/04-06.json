@@ -11,17 +11,53 @@
     "title": {
       "ru": "Основана BASF",
       "de": "BASF wird gegruendet",
-      "en": "BASF is founded"
+      "en": "BASF is founded",
+      "fr": "BASF est fondée",
+      "es": "Se funda BASF",
+      "it": "Viene fondata BASF",
+      "pt": "A BASF é fundada",
+      "nl": "BASF wordt opgericht",
+      "pl": "Założono BASF",
+      "tr": "BASF kuruldu",
+      "zh": "巴斯夫成立",
+      "ja": "BASFが創設される",
+      "ko": "BASF가 설립되다",
+      "hi": "BASF की स्थापना हुई",
+      "ar": "تأسيس BASF"
     },
     "description": {
       "ru": "6 апреля 1865 года в Мангейме была основана Badische Anilin- & Sodafabrik, будущая BASF. Компания выросла из химии красителей в один из крупнейших химических концернов мира.",
       "de": "Am 6. April 1865 wurde in Mannheim die Badische Anilin- & Sodafabrik, die spaetere BASF, gegruendet. Aus der Farbstoffchemie entwickelte sich einer der groessten Chemiekonzerne der Welt.",
-      "en": "On 6 April 1865, Badische Anilin- & Sodafabrik, later BASF, was founded in Mannheim. From dye chemistry it grew into one of the world's largest chemical companies."
+      "en": "On 6 April 1865, Badische Anilin- & Sodafabrik, later BASF, was founded in Mannheim. From dye chemistry it grew into one of the world's largest chemical companies.",
+      "fr": "Le 6 avril 1865, la Badische Anilin- & Sodafabrik, future BASF, fut fondée à Mannheim. Partie de la chimie des colorants, elle devint l'un des plus grands groupes chimiques du monde.",
+      "es": "El 6 de abril de 1865 se fundó en Mannheim la Badische Anilin- & Sodafabrik, futura BASF. A partir de la química de colorantes creció hasta convertirse en uno de los mayores grupos químicos del mundo.",
+      "it": "Il 6 aprile 1865 fu fondata a Mannheim la Badische Anilin- & Sodafabrik, futura BASF. Dalla chimica dei coloranti crebbe fino a diventare uno dei maggiori gruppi chimici del mondo.",
+      "pt": "Em 6 de abril de 1865, foi fundada em Mannheim a Badische Anilin- & Sodafabrik, futura BASF. A partir da química dos corantes cresceu até se tornar um dos maiores grupos químicos do mundo.",
+      "nl": "Op 6 april 1865 werd in Mannheim de Badische Anilin- & Sodafabrik opgericht, de latere BASF. Vanuit de kleurstoffenchemie groeide zij uit tot een van de grootste chemieconcerns ter wereld.",
+      "pl": "6 kwietnia 1865 roku w Mannheim założono Badische Anilin- & Sodafabrik, późniejszą BASF. Z chemii barwników rozwinęła się w jeden z największych koncernów chemicznych świata.",
+      "tr": "6 Nisan 1865'te Mannheim'da daha sonra BASF olacak Badische Anilin- & Sodafabrik kuruldu. Boya kimyasından dünyanın en büyük kimya şirketlerinden birine dönüştü.",
+      "zh": "1865年4月6日，后来的巴斯夫 Badische Anilin- & Sodafabrik 在曼海姆成立。它从染料化学发展成为世界最大的化工企业之一。",
+      "ja": "1865年4月6日、後のBASFである Badische Anilin- & Sodafabrik がマンハイムで創設されました。染料化学から成長し、世界最大級の化学企業の一つとなりました。",
+      "ko": "1865년 4월 6일, 훗날 BASF가 되는 Badische Anilin- & Sodafabrik가 만하임에서 설립되었습니다. 염료 화학에서 출발해 세계 최대 화학 기업 중 하나로 성장했습니다.",
+      "hi": "6 अप्रैल 1865 को मैनहाइम में Badische Anilin- & Sodafabrik की स्थापना हुई, जो बाद में BASF बनी। रंगों की रसायन विज्ञान से बढ़कर यह दुनिया की सबसे बड़ी रासायनिक कंपनियों में से एक बनी।",
+      "ar": "في 6 أبريل 1865 تأسست في مانهايم شركة Badische Anilin- & Sodafabrik، التي أصبحت لاحقا BASF. ومن كيمياء الأصباغ نمت لتصبح واحدة من أكبر شركات الكيمياء في العالم."
     },
     "importance": {
       "ru": "Дата показывает роль химической промышленности в развитии немецкой экономики.",
       "de": "Das Datum zeigt die Rolle der chemischen Industrie fuer die deutsche Wirtschaft.",
-      "en": "The date shows the role of the chemical industry in Germany's economic development."
+      "en": "The date shows the role of the chemical industry in Germany's economic development.",
+      "fr": "Cette date montre le rôle de l'industrie chimique dans le développement économique de l'Allemagne.",
+      "es": "La fecha muestra el papel de la industria química en el desarrollo económico de Alemania.",
+      "it": "La data mostra il ruolo dell'industria chimica nello sviluppo economico della Germania.",
+      "pt": "A data mostra o papel da indústria química no desenvolvimento económico da Alemanha.",
+      "nl": "Deze datum laat de rol van de chemische industrie in de economische ontwikkeling van Duitsland zien.",
+      "pl": "Ta data pokazuje rolę przemysłu chemicznego w rozwoju gospodarki Niemiec.",
+      "tr": "Bu tarih, kimya sanayisinin Almanya'nın ekonomik gelişimindeki rolünü gösterir.",
+      "zh": "这个日期显示了化学工业在德国经济发展中的作用。",
+      "ja": "この日付は、ドイツ経済の発展における化学産業の役割を示しています。",
+      "ko": "이 날짜는 독일 경제 발전에서 화학 산업의 역할을 보여 줍니다.",
+      "hi": "यह तारीख जर्मन अर्थव्यवस्था के विकास में रासायनिक उद्योग की भूमिका दिखाती है।",
+      "ar": "يُظهر هذا التاريخ دور الصناعة الكيميائية في تطور الاقتصاد الألماني."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Химия на Рейне",
           "de": "Chemie am Rhein",
-          "en": "Chemistry on the Rhine"
+          "en": "Chemistry on the Rhine",
+          "fr": "La chimie sur le Rhin",
+          "es": "Química en el Rin",
+          "it": "Chimica sul Reno",
+          "pt": "Química no Reno",
+          "nl": "Chemie aan de Rijn",
+          "pl": "Chemia nad Renem",
+          "tr": "Ren kıyısında kimya",
+          "zh": "莱茵河畔的化学",
+          "ja": "ライン川沿いの化学",
+          "ko": "라인강의 화학",
+          "hi": "राइन पर रसायन विज्ञान",
+          "ar": "الكيمياء على نهر الراين"
         },
         "description": {
           "ru": "Рейнские и южногерманские промышленные районы стали важными центрами химии. Красители, удобрения и новые материалы меняли производство и быт.",
           "de": "Die rheinischen und sueddeutschen Industrieregionen wurden wichtige Zentren der Chemie. Farbstoffe, Duengemittel und neue Materialien veraenderten Produktion und Alltag.",
-          "en": "The Rhine and southern German industrial regions became important centers of chemistry. Dyes, fertilizers and new materials changed production and everyday life."
+          "en": "The Rhine and southern German industrial regions became important centers of chemistry. Dyes, fertilizers and new materials changed production and everyday life.",
+          "fr": "Les régions industrielles du Rhin et du sud de l'Allemagne devinrent d'importants centres de la chimie. Les colorants, les engrais et les nouveaux matériaux transformèrent la production et la vie quotidienne.",
+          "es": "Las regiones industriales del Rin y del sur de Alemania se convirtieron en importantes centros de química. Los colorantes, fertilizantes y nuevos materiales cambiaron la producción y la vida cotidiana.",
+          "it": "Le regioni industriali renane e della Germania meridionale divennero importanti centri della chimica. Coloranti, fertilizzanti e nuovi materiali cambiarono produzione e vita quotidiana.",
+          "pt": "As regiões industriais do Reno e do sul da Alemanha tornaram-se importantes centros da química. Corantes, fertilizantes e novos materiais mudaram a produção e a vida quotidiana.",
+          "nl": "De Rijnlandse en Zuid-Duitse industrieregio's werden belangrijke centra van de chemie. Kleurstoffen, meststoffen en nieuwe materialen veranderden productie en dagelijks leven.",
+          "pl": "Reńskie i południowoniemieckie regiony przemysłowe stały się ważnymi ośrodkami chemii. Barwniki, nawozy i nowe materiały zmieniały produkcję i codzienne życie.",
+          "tr": "Ren ve Güney Almanya sanayi bölgeleri kimyanın önemli merkezleri haline geldi. Boyalar, gübreler ve yeni malzemeler üretimi ve gündelik yaşamı değiştirdi.",
+          "zh": "莱茵地区和德国南部工业区成为重要的化学中心。染料、肥料和新材料改变了生产和日常生活。",
+          "ja": "ライン地方と南ドイツの工業地域は、化学の重要な中心地となりました。染料、肥料、新素材が生産と日常生活を変えました。",
+          "ko": "라인 지역과 남독일의 산업 지역은 화학의 중요한 중심지가 되었습니다. 염료, 비료, 새로운 재료가 생산과 일상생활을 바꾸었습니다.",
+          "hi": "राइन और दक्षिणी जर्मनी के औद्योगिक क्षेत्र रसायन विज्ञान के महत्वपूर्ण केंद्र बने। रंग, उर्वरक और नई सामग्री ने उत्पादन और रोज़मर्रा के जीवन को बदल दिया।",
+          "ar": "أصبحت المناطق الصناعية على الراين وفي جنوب ألمانيا مراكز مهمة للكيمياء. وغيّرت الأصباغ والأسمدة والمواد الجديدة الإنتاج والحياة اليومية."
         },
         "importance": {
           "ru": "Индустриализация Германии была не только углём и сталью, но и лабораторией.",
           "de": "Deutschlands Industrialisierung bestand nicht nur aus Kohle und Stahl, sondern auch aus Laboren.",
-          "en": "Germany's industrialization was not only coal and steel but also laboratories."
+          "en": "Germany's industrialization was not only coal and steel but also laboratories.",
+          "fr": "L'industrialisation de l'Allemagne ne fut pas seulement charbon et acier, mais aussi laboratoires.",
+          "es": "La industrialización de Alemania no fue solo carbón y acero, sino también laboratorios.",
+          "it": "L'industrializzazione della Germania non fu solo carbone e acciaio, ma anche laboratori.",
+          "pt": "A industrialização da Alemanha não foi apenas carvão e aço, mas também laboratórios.",
+          "nl": "De industrialisatie van Duitsland bestond niet alleen uit kolen en staal, maar ook uit laboratoria.",
+          "pl": "Industrializacja Niemiec to nie tylko węgiel i stal, lecz także laboratoria.",
+          "tr": "Almanya'nın sanayileşmesi yalnızca kömür ve çelik değil, aynı zamanda laboratuvarlardı.",
+          "zh": "德国工业化不仅是煤炭和钢铁，也包括实验室。",
+          "ja": "ドイツの工業化は石炭と鉄鋼だけでなく、実験室でもありました。",
+          "ko": "독일의 산업화는 석탄과 철강만이 아니라 실험실이기도 했습니다.",
+          "hi": "जर्मनी का औद्योगीकरण केवल कोयला और इस्पात नहीं, बल्कि प्रयोगशालाएँ भी था।",
+          "ar": "لم تكن صناعة ألمانيا الحديثة فحما وفولاذا فقط، بل مختبرات أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Название BASF происходит от первоначального имени Badische Anilin- & Sodafabrik.",
     "de": "Der Name BASF geht auf Badische Anilin- & Sodafabrik zurueck.",
-    "en": "The name BASF comes from Badische Anilin- & Sodafabrik."
+    "en": "The name BASF comes from Badische Anilin- & Sodafabrik.",
+    "fr": "Le nom BASF vient de Badische Anilin- & Sodafabrik.",
+    "es": "El nombre BASF viene de Badische Anilin- & Sodafabrik.",
+    "it": "Il nome BASF deriva da Badische Anilin- & Sodafabrik.",
+    "pt": "O nome BASF vem de Badische Anilin- & Sodafabrik.",
+    "nl": "De naam BASF komt van Badische Anilin- & Sodafabrik.",
+    "pl": "Nazwa BASF pochodzi od Badische Anilin- & Sodafabrik.",
+    "tr": "BASF adı Badische Anilin- & Sodafabrik'ten gelir.",
+    "zh": "BASF这个名称来自 Badische Anilin- & Sodafabrik。",
+    "ja": "BASF という名前は Badische Anilin- & Sodafabrik に由来します。",
+    "ko": "BASF라는 이름은 Badische Anilin- & Sodafabrik에서 왔습니다.",
+    "hi": "BASF नाम Badische Anilin- & Sodafabrik से आया है।",
+    "ar": "يأتي اسم BASF من Badische Anilin- & Sodafabrik."
   },
   "sources": [
     {
