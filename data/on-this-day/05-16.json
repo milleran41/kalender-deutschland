@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Берлине-Лихтерфельде открылась первая электрическая трамвайная линия",
       "de": "In Berlin-Lichterfelde faehrt die erste elektrische Strassenbahn",
-      "en": "The first electric tramway opens in Berlin-Lichterfelde"
+      "en": "The first electric tramway opens in Berlin-Lichterfelde",
+      "fr": "La premiere ligne de tramway electrique ouvre a Berlin-Lichterfelde",
+      "es": "Se inaugura el primer tranvia electrico en Berlin-Lichterfelde",
+      "it": "Apre la prima tranvia elettrica a Berlino-Lichterfelde",
+      "pt": "E inaugurado o primeiro bonde eletrico em Berlim-Lichterfelde",
+      "nl": "De eerste elektrische tramlijn opent in Berlijn-Lichterfelde",
+      "pl": "W Berlinie-Lichterfelde rusza pierwsza elektryczna linia tramwajowa",
+      "tr": "Berlin-Lichterfelde'de ilk elektrikli tramvay hattı acilir",
+      "zh": "柏林-利希特费尔德开通第一条电车线路",
+      "ja": "ベルリン・リヒターフェルデで初の電気路面電車が開業",
+      "ko": "베를린-리히터펠데에서 최초의 전기 트램 노선이 개통되다",
+      "hi": "बर्लिन-लिख्टरफेल्डे में पहली इलेक्ट्रिक ट्राम लाइन खुली",
+      "ar": "افتتاح اول خط ترام كهربائي في برلين-ليخترفيلده"
     },
     "description": {
       "ru": "16 мая 1881 года компания Siemens & Halske открыла электрическую железную дорогу в Лихтерфельде под Берлином. Это был важный шаг в истории городского электрического транспорта.",
       "de": "Am 16. Mai 1881 eroeffnete Siemens & Halske die elektrische Bahn in Lichterfelde bei Berlin. Das war ein wichtiger Schritt in der Geschichte des elektrischen Stadtverkehrs.",
-      "en": "On 16 May 1881, Siemens & Halske opened the electric railway in Lichterfelde near Berlin. It was an important step in the history of electric urban transport."
+      "en": "On 16 May 1881, Siemens & Halske opened the electric railway in Lichterfelde near Berlin. It was an important step in the history of electric urban transport.",
+      "fr": "Le 16 mai 1881, Siemens & Halske ouvrit le chemin de fer electrique de Lichterfelde, pres de Berlin. Ce fut une etape importante dans l'histoire des transports urbains electriques.",
+      "es": "El 16 de mayo de 1881, Siemens & Halske inauguro el ferrocarril electrico en Lichterfelde, cerca de Berlin. Fue un paso importante en la historia del transporte urbano electrico.",
+      "it": "Il 16 maggio 1881 Siemens & Halske apri la ferrovia elettrica a Lichterfelde, vicino a Berlino. Fu un passo importante nella storia del trasporto urbano elettrico.",
+      "pt": "Em 16 de maio de 1881, a Siemens & Halske inaugurou a ferrovia eletrica em Lichterfelde, perto de Berlim. Foi um passo importante na historia do transporte urbano eletrico.",
+      "nl": "Op 16 mei 1881 opende Siemens & Halske de elektrische spoorweg in Lichterfelde bij Berlijn. Het was een belangrijke stap in de geschiedenis van elektrisch stadsvervoer.",
+      "pl": "16 maja 1881 roku Siemens & Halske uruchomila kolej elektryczna w Lichterfelde pod Berlinem. Byl to wazny krok w historii elektrycznego transportu miejskiego.",
+      "tr": "16 Mayis 1881'de Siemens & Halske, Berlin yakinlarindaki Lichterfelde'de elektrikli demiryolunu acti. Bu, elektrikli kent ulasimi tarihinde onemli bir adimdi.",
+      "zh": "1881年5月16日，西门子与哈尔斯克公司在柏林附近的利希特费尔德开通电气铁路。这是城市电力交通史上的重要一步。",
+      "ja": "1881年5月16日、シーメンス・ウント・ハルスケはベルリン近郊リヒターフェルデで電気鉄道を開業しました。これは都市の電気交通史における重要な一歩でした。",
+      "ko": "1881년 5월 16일 지멘스 & 할스케는 베를린 근교 리히터펠데에서 전기 철도를 개통했습니다. 이는 전기 도시 교통 역사에서 중요한 한 걸음이었습니다.",
+      "hi": "16 मई 1881 को Siemens & Halske ने बर्लिन के पास लिख्टरफेल्डे में इलेक्ट्रिक रेलवे खोली। यह विद्युत शहरी परिवहन के इतिहास में महत्वपूर्ण कदम था।",
+      "ar": "في 16 مايو 1881 افتتحت شركة سيمنس وهالسكه السكك الحديدية الكهربائية في ليخترفيلده قرب برلين. وكان ذلك خطوة مهمة في تاريخ النقل الحضري الكهربائي."
     },
     "importance": {
       "ru": "Дата показывает, как немецкая электротехника меняла повседневную мобильность городов.",
       "de": "Das Datum zeigt, wie deutsche Elektrotechnik die alltägliche Mobilitaet der Staedte veraenderte.",
-      "en": "The date shows how German electrical engineering changed everyday urban mobility."
+      "en": "The date shows how German electrical engineering changed everyday urban mobility.",
+      "fr": "Cette date montre comment l'electrotechnique allemande a transforme la mobilite urbaine quotidienne.",
+      "es": "La fecha muestra como la electrotecnia alemana cambio la movilidad urbana cotidiana.",
+      "it": "La data mostra come l'elettrotecnica tedesca cambio la mobilita urbana quotidiana.",
+      "pt": "A data mostra como a engenharia eletrica alema mudou a mobilidade urbana cotidiana.",
+      "nl": "De datum laat zien hoe Duitse elektrotechniek de dagelijkse stedelijke mobiliteit veranderde.",
+      "pl": "Ta data pokazuje, jak niemiecka elektrotechnika zmieniala codzienna mobilnosc miast.",
+      "tr": "Bu tarih, Alman elektrik muhendisliginin kentlerdeki gunluk hareketliligi nasil degistirdigini gosterir.",
+      "zh": "这个日期显示了德国电气工程如何改变城市日常出行。",
+      "ja": "この日は、ドイツの電気工学が都市の日常的な移動をどのように変えたかを示しています。",
+      "ko": "이 날짜는 독일 전기공학이 도시의 일상 이동을 어떻게 바꾸었는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि जर्मन विद्युत अभियांत्रिकी ने शहरों की रोजमर्रा की आवाजाही कैसे बदली।",
+      "ar": "يبين هذا التاريخ كيف غيرت الهندسة الكهربائية الالمانية حركة المدن اليومية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сименс и транспорт будущего",
           "de": "Siemens und der Verkehr der Zukunft",
-          "en": "Siemens and transport of the future"
+          "en": "Siemens and transport of the future",
+          "fr": "Siemens et les transports du futur",
+          "es": "Siemens y el transporte del futuro",
+          "it": "Siemens e il trasporto del futuro",
+          "pt": "Siemens e o transporte do futuro",
+          "nl": "Siemens en het vervoer van de toekomst",
+          "pl": "Siemens i transport przyszlosci",
+          "tr": "Siemens ve gelecegin ulasimi",
+          "zh": "西门子与未来交通",
+          "ja": "シーメンスと未来の交通",
+          "ko": "지멘스와 미래의 교통",
+          "hi": "Siemens और भविष्य का परिवहन",
+          "ar": "سيمنس ونقل المستقبل"
         },
         "description": {
           "ru": "Электрический трамвай казался технической новинкой, но быстро показал практическую пользу. Он стал частью будущего городского транспорта.",
           "de": "Die elektrische Strassenbahn wirkte wie eine technische Neuheit, zeigte aber schnell praktischen Nutzen. Sie wurde Teil der Zukunft des Stadtverkehrs.",
-          "en": "The electric tram seemed like a technical novelty, but quickly proved practical. It became part of the future of urban transport."
+          "en": "The electric tram seemed like a technical novelty, but quickly proved practical. It became part of the future of urban transport.",
+          "fr": "Le tramway electrique ressemblait a une nouveaute technique, mais il prouva vite son utilite pratique. Il devint une partie de l'avenir des transports urbains.",
+          "es": "El tranvia electrico parecia una novedad tecnica, pero pronto demostro su utilidad practica. Se convirtio en parte del futuro del transporte urbano.",
+          "it": "Il tram elettrico sembrava una novita tecnica, ma dimostro presto la sua utilita pratica. Divento parte del futuro del trasporto urbano.",
+          "pt": "O bonde eletrico parecia uma novidade tecnica, mas rapidamente mostrou utilidade pratica. Ele se tornou parte do futuro do transporte urbano.",
+          "nl": "De elektrische tram leek een technische nieuwigheid, maar bewees al snel zijn praktische nut. Hij werd deel van de toekomst van stedelijk vervoer.",
+          "pl": "Elektryczny tramwaj wydawal sie techniczna nowinka, ale szybko pokazal praktyczna wartosc. Stal sie czescia przyszlosci transportu miejskiego.",
+          "tr": "Elektrikli tramvay teknik bir yenilik gibi gorunuyordu, ama hizla pratik yararini kanitladi. Kent ulasiminin geleceginin bir parcasi oldu.",
+          "zh": "电车起初像是一项技术新奇事物，但很快证明了其实用价值。它成为城市交通未来的一部分。",
+          "ja": "電気路面電車は技術的な新発明のように見えましたが、すぐに実用性を示しました。都市交通の未来の一部になったのです。",
+          "ko": "전기 트램은 기술적 신기한 물건처럼 보였지만 곧 실용성을 입증했습니다. 그것은 도시 교통의 미래 일부가 되었습니다.",
+          "hi": "इलेक्ट्रिक ट्राम तकनीकी नई चीज लगती थी, लेकिन जल्दी ही उसने अपनी उपयोगिता साबित कर दी। वह शहरी परिवहन के भविष्य का हिस्सा बन गई।",
+          "ar": "بدا الترام الكهربائي كاختراع تقني جديد، لكنه اثبت بسرعة فائدته العملية. واصبح جزءا من مستقبل النقل الحضري."
         },
         "importance": {
           "ru": "Это хороший пример того, как эксперимент превращается в инфраструктуру.",
           "de": "Das ist ein gutes Beispiel dafuer, wie aus einem Experiment Infrastruktur wird.",
-          "en": "It is a good example of an experiment becoming infrastructure."
+          "en": "It is a good example of an experiment becoming infrastructure.",
+          "fr": "C'est un bon exemple d'une experience qui devient une infrastructure.",
+          "es": "Es un buen ejemplo de como un experimento se convierte en infraestructura.",
+          "it": "E un buon esempio di un esperimento che diventa infrastruttura.",
+          "pt": "E um bom exemplo de um experimento que se transforma em infraestrutura.",
+          "nl": "Het is een goed voorbeeld van een experiment dat infrastructuur wordt.",
+          "pl": "To dobry przyklad eksperymentu, ktory staje sie infrastruktura.",
+          "tr": "Bu, bir deneyin altyapiya donusmesine iyi bir ornektir.",
+          "zh": "这是实验变成基础设施的好例子。",
+          "ja": "これは実験がインフラへ変わる良い例です。",
+          "ko": "이는 실험이 기반 시설로 바뀌는 좋은 예입니다.",
+          "hi": "यह प्रयोग के बुनियादी ढांचे में बदलने का अच्छा उदाहरण है।",
+          "ar": "انه مثال جيد على تحول تجربة الى بنية تحتية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Лихтерфельде позднее стало частью Берлина.",
     "de": "Lichterfelde wurde spaeter ein Teil Berlins.",
-    "en": "Lichterfelde later became part of Berlin."
+    "en": "Lichterfelde later became part of Berlin.",
+    "fr": "Lichterfelde devint plus tard une partie de Berlin.",
+    "es": "Lichterfelde paso mas tarde a formar parte de Berlin.",
+    "it": "Lichterfelde divenne in seguito parte di Berlino.",
+    "pt": "Lichterfelde tornou-se mais tarde parte de Berlim.",
+    "nl": "Lichterfelde werd later een deel van Berlijn.",
+    "pl": "Lichterfelde stalo sie pozniej czescia Berlina.",
+    "tr": "Lichterfelde daha sonra Berlin'in bir parcasi oldu.",
+    "zh": "利希特费尔德后来成为柏林的一部分。",
+    "ja": "リヒターフェルデは後にベルリンの一部になりました。",
+    "ko": "리히터펠데는 나중에 베를린의 일부가 되었습니다.",
+    "hi": "लिख्टरफेल्डे बाद में बर्लिन का हिस्सा बन गया।",
+    "ar": "اصبحت ليخترفيلده لاحقا جزءا من برلين."
   },
   "sources": [
     {

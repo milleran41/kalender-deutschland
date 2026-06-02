@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открылось Франкфуртское национальное собрание",
       "de": "Die Frankfurter Nationalversammlung tritt zusammen",
-      "en": "The Frankfurt National Assembly convenes"
+      "en": "The Frankfurt National Assembly convenes",
+      "fr": "L'Assemblee nationale de Francfort se reunit",
+      "es": "Se reune la Asamblea Nacional de Francfort",
+      "it": "Si riunisce l'Assemblea nazionale di Francoforte",
+      "pt": "Reune-se a Assembleia Nacional de Frankfurt",
+      "nl": "De Nationale Vergadering van Frankfurt komt bijeen",
+      "pl": "Zbiera sie Frankfurckie Zgromadzenie Narodowe",
+      "tr": "Frankfurt Ulusal Meclisi toplanir",
+      "zh": "法兰克福国民议会召开",
+      "ja": "フランクフルト国民議会が開会",
+      "ko": "프랑크푸르트 국민의회가 열리다",
+      "hi": "फ्रैंकफर्ट राष्ट्रीय सभा का उद्घाटन",
+      "ar": "انعقاد الجمعية الوطنية في فرانكفورت"
     },
     "description": {
       "ru": "18 мая 1848 года депутаты первого общегерманского парламента собрались во франкфуртской церкви Святого Павла. Они пытались создать либеральную конституцию и германское национальное государство.",
       "de": "Am 18. Mai 1848 versammelten sich die Abgeordneten des ersten gesamtdeutschen Parlaments in der Frankfurter Paulskirche. Sie wollten eine liberale Verfassung und einen deutschen Nationalstaat schaffen.",
-      "en": "On 18 May 1848, deputies of the first all-German parliament gathered in Frankfurt's St Paul's Church. They sought to create a liberal constitution and a German nation-state."
+      "en": "On 18 May 1848, deputies of the first all-German parliament gathered in Frankfurt's St Paul's Church. They sought to create a liberal constitution and a German nation-state.",
+      "fr": "Le 18 mai 1848, les deputes du premier parlement panallemand se reunirent dans l'eglise Saint-Paul de Francfort. Ils voulaient creer une constitution liberale et un Etat national allemand.",
+      "es": "El 18 de mayo de 1848, los diputados del primer parlamento de toda Alemania se reunieron en la iglesia de San Pablo de Francfort. Buscaban crear una constitucion liberal y un Estado nacional aleman.",
+      "it": "Il 18 maggio 1848 i deputati del primo parlamento di tutta la Germania si riunirono nella chiesa di San Paolo a Francoforte. Volevano creare una costituzione liberale e uno Stato nazionale tedesco.",
+      "pt": "Em 18 de maio de 1848, os deputados do primeiro parlamento de toda a Alemanha reuniram-se na Igreja de Sao Paulo, em Frankfurt. Eles buscavam criar uma constituicao liberal e um Estado nacional alemao.",
+      "nl": "Op 18 mei 1848 kwamen de afgevaardigden van het eerste geheel Duitse parlement bijeen in de Paulskirche in Frankfurt. Zij wilden een liberale grondwet en een Duitse natiestaat tot stand brengen.",
+      "pl": "18 maja 1848 roku poslowie pierwszego ogolnoniemieckiego parlamentu zebrali sie w kosciele sw. Pawla we Frankfurcie. Chcieli stworzyc liberalna konstytucje i niemieckie panstwo narodowe.",
+      "tr": "18 Mayis 1848'de ilk tum Alman parlamentosunun milletvekilleri Frankfurt'taki St. Paul Kilisesi'nde toplandi. Liberal bir anayasa ve Alman ulus devleti kurmak istiyorlardi.",
+      "zh": "1848年5月18日，第一届全德议会的代表聚集在法兰克福圣保罗教堂。他们试图制定自由主义宪法并建立德意志民族国家。",
+      "ja": "1848年5月18日、初の全ドイツ議会の議員たちがフランクフルトの聖パウロ教会に集まりました。彼らは自由主義的な憲法とドイツ国民国家を作ろうとしました。",
+      "ko": "1848년 5월 18일 최초의 전독일 의회 의원들이 프랑크푸르트의 성 바울 교회에 모였습니다. 그들은 자유주의 헌법과 독일 국민국가를 만들고자 했습니다.",
+      "hi": "18 मई 1848 को पहले सर्व-जर्मन संसद के प्रतिनिधि फ्रैंकफर्ट के सेंट पॉल चर्च में जुटे। वे उदार संविधान और जर्मन राष्ट्र-राज्य बनाना चाहते थे।",
+      "ar": "في 18 مايو 1848 اجتمع نواب اول برلمان الماني عام في كنيسة القديس بولس في فرانكفورت. سعوا الى وضع دستور ليبرالي وانشاء دولة قومية المانية."
     },
     "importance": {
       "ru": "Это одна из ключевых дат немецкой парламентской истории.",
       "de": "Das ist eines der Schluesseldaten der deutschen Parlamentsgeschichte.",
-      "en": "It is one of the key dates in German parliamentary history."
+      "en": "It is one of the key dates in German parliamentary history.",
+      "fr": "C'est l'une des dates cles de l'histoire parlementaire allemande.",
+      "es": "Es una de las fechas clave de la historia parlamentaria alemana.",
+      "it": "E una delle date chiave della storia parlamentare tedesca.",
+      "pt": "E uma das datas-chave da historia parlamentar alema.",
+      "nl": "Het is een van de sleuteldatums in de Duitse parlementaire geschiedenis.",
+      "pl": "To jedna z kluczowych dat niemieckiej historii parlamentarnej.",
+      "tr": "Bu, Alman parlamento tarihinin kilit tarihlerinden biridir.",
+      "zh": "这是德国议会史上的关键日期之一。",
+      "ja": "これはドイツ議会史における重要な日付の一つです。",
+      "ko": "이는 독일 의회 역사에서 핵심적인 날짜 중 하나입니다.",
+      "hi": "यह जर्मन संसदीय इतिहास की प्रमुख तारीखों में से एक है।",
+      "ar": "انه احد التواريخ الرئيسية في تاريخ البرلمان الالماني."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Паульскирхе как символ демократии",
           "de": "Die Paulskirche als Symbol der Demokratie",
-          "en": "St Paul's Church as a symbol of democracy"
+          "en": "St Paul's Church as a symbol of democracy",
+          "fr": "L'eglise Saint-Paul comme symbole de la democratie",
+          "es": "La iglesia de San Pablo como simbolo de democracia",
+          "it": "La chiesa di San Paolo come simbolo della democrazia",
+          "pt": "A Igreja de Sao Paulo como simbolo da democracia",
+          "nl": "De Paulskirche als symbool van democratie",
+          "pl": "Kosciol sw. Pawla jako symbol demokracji",
+          "tr": "Demokrasinin simgesi olarak St. Paul Kilisesi",
+          "zh": "圣保罗教堂作为民主象征",
+          "ja": "民主主義の象徴としての聖パウロ教会",
+          "ko": "민주주의의 상징으로서 성 바울 교회",
+          "hi": "लोकतंत्र के प्रतीक के रूप में सेंट पॉल चर्च",
+          "ar": "كنيسة القديس بولس رمزا للديمقراطية"
         },
         "description": {
           "ru": "Франкфуртская Паульскирхе стала символом ранней немецкой демократии. Даже после провала революции память о ней сохранилась.",
           "de": "Die Frankfurter Paulskirche wurde zum Symbol der fruehen deutschen Demokratie. Auch nach dem Scheitern der Revolution blieb die Erinnerung daran erhalten.",
-          "en": "Frankfurt's St Paul's Church became a symbol of early German democracy. Even after the revolution failed, its memory remained."
+          "en": "Frankfurt's St Paul's Church became a symbol of early German democracy. Even after the revolution failed, its memory remained.",
+          "fr": "L'eglise Saint-Paul de Francfort devint un symbole de la premiere democratie allemande. Meme apres l'echec de la revolution, son souvenir demeura.",
+          "es": "La iglesia de San Pablo de Francfort se convirtio en simbolo de la primera democracia alemana. Incluso tras el fracaso de la revolucion, su recuerdo permanecio.",
+          "it": "La chiesa di San Paolo a Francoforte divenne un simbolo della prima democrazia tedesca. Anche dopo il fallimento della rivoluzione, il suo ricordo rimase.",
+          "pt": "A Igreja de Sao Paulo, em Frankfurt, tornou-se simbolo da democracia alema inicial. Mesmo depois do fracasso da revolucao, sua memoria permaneceu.",
+          "nl": "De Paulskirche in Frankfurt werd een symbool van de vroege Duitse democratie. Zelfs nadat de revolutie mislukte, bleef de herinnering eraan bestaan.",
+          "pl": "Frankfurcki kosciol sw. Pawla stal sie symbolem wczesnej niemieckiej demokracji. Nawet po klesce rewolucji pamiec o nim przetrwala.",
+          "tr": "Frankfurt'taki St. Paul Kilisesi erken Alman demokrasisinin simgesi oldu. Devrim basarisiz olduktan sonra bile hatirasi yasadi.",
+          "zh": "法兰克福圣保罗教堂成为早期德国民主的象征。即使革命失败后，人们仍保留着这段记忆。",
+          "ja": "フランクフルトの聖パウロ教会は、初期ドイツ民主主義の象徴となりました。革命が失敗した後も、その記憶は残りました。",
+          "ko": "프랑크푸르트의 성 바울 교회는 초기 독일 민주주의의 상징이 되었습니다. 혁명이 실패한 뒤에도 그 기억은 남았습니다.",
+          "hi": "फ्रैंकफर्ट का सेंट पॉल चर्च प्रारंभिक जर्मन लोकतंत्र का प्रतीक बन गया। क्रांति असफल होने के बाद भी उसकी स्मृति बनी रही।",
+          "ar": "اصبحت كنيسة القديس بولس في فرانكفورت رمزا للديمقراطية الالمانية المبكرة. وحتى بعد فشل الثورة بقيت ذكراها حية."
         },
         "importance": {
           "ru": "Дата помогает увидеть, что демократические традиции Германии старше ФРГ.",
           "de": "Das Datum zeigt, dass demokratische Traditionen in Deutschland aelter sind als die Bundesrepublik.",
-          "en": "The date shows that Germany's democratic traditions are older than the Federal Republic."
+          "en": "The date shows that Germany's democratic traditions are older than the Federal Republic.",
+          "fr": "Cette date montre que les traditions democratiques allemandes sont plus anciennes que la Republique federale.",
+          "es": "La fecha muestra que las tradiciones democraticas de Alemania son mas antiguas que la Republica Federal.",
+          "it": "La data mostra che le tradizioni democratiche della Germania sono piu antiche della Repubblica federale.",
+          "pt": "A data mostra que as tradicoes democraticas da Alemanha sao mais antigas que a Republica Federal.",
+          "nl": "De datum laat zien dat de democratische tradities van Duitsland ouder zijn dan de Bondsrepubliek.",
+          "pl": "Ta data pokazuje, ze demokratyczne tradycje Niemiec sa starsze niz Republika Federalna.",
+          "tr": "Bu tarih, Almanya'nin demokratik geleneklerinin Federal Cumhuriyet'ten daha eski oldugunu gosterir.",
+          "zh": "这个日期说明，德国的民主传统早于联邦共和国。",
+          "ja": "この日は、ドイツの民主主義の伝統が連邦共和国より古いことを示しています。",
+          "ko": "이 날짜는 독일의 민주주의 전통이 연방공화국보다 오래되었음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि जर्मनी की लोकतांत्रिक परंपराएं संघीय गणराज्य से भी पुरानी हैं।",
+          "ar": "يبين هذا التاريخ ان التقاليد الديمقراطية في المانيا اقدم من جمهورية المانيا الاتحادية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Через год Франкфуртский парламент предложил корону прусскому королю, но тот отказался.",
     "de": "Ein Jahr spaeter bot das Frankfurter Parlament dem preussischen Koenig die Krone an, doch er lehnte ab.",
-    "en": "A year later, the Frankfurt Parliament offered the crown to the Prussian king, but he refused."
+    "en": "A year later, the Frankfurt Parliament offered the crown to the Prussian king, but he refused.",
+    "fr": "Un an plus tard, le parlement de Francfort offrit la couronne au roi de Prusse, mais celui-ci refusa.",
+    "es": "Un ano despues, el Parlamento de Francfort ofrecio la corona al rey de Prusia, pero el la rechazo.",
+    "it": "Un anno dopo, il Parlamento di Francoforte offri la corona al re di Prussia, ma lui rifiuto.",
+    "pt": "Um ano depois, o Parlamento de Frankfurt ofereceu a coroa ao rei da Prussia, mas ele recusou.",
+    "nl": "Een jaar later bood het Frankfurter Parlement de kroon aan de Pruisische koning aan, maar hij weigerde.",
+    "pl": "Rok pozniej parlament frankfurcki zaoferowal korone krolowi Prus, lecz ten odmowil.",
+    "tr": "Bir yil sonra Frankfurt Parlamentosu tacı Prusya kralina sundu, ancak kral reddetti.",
+    "zh": "一年后，法兰克福议会把王冠献给普鲁士国王，但他拒绝了。",
+    "ja": "一年後、フランクフルト議会はプロイセン王に王冠を差し出しましたが、王は拒否しました。",
+    "ko": "1년 뒤 프랑크푸르트 의회는 프로이센 왕에게 왕관을 제안했지만 그는 거절했습니다.",
+    "hi": "एक साल बाद फ्रैंकफर्ट संसद ने प्रशिया के राजा को ताज की पेशकश की, लेकिन उसने मना कर दिया।",
+    "ar": "بعد عام عرض برلمان فرانكفورت التاج على ملك بروسيا، لكنه رفض."
   },
   "sources": [
     {
