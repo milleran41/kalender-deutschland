@@ -11,17 +11,53 @@
     "title": {
       "ru": "Лютер предстал перед рейхстагом в Вормсе",
       "de": "Luther erscheint vor dem Reichstag zu Worms",
-      "en": "Luther appears before the Diet of Worms"
+      "en": "Luther appears before the Diet of Worms",
+      "fr": "Luther comparaît devant la Diète de Worms",
+      "es": "Lutero comparece ante la Dieta de Worms",
+      "it": "Lutero compare davanti alla Dieta di Worms",
+      "pt": "Lutero comparece perante a Dieta de Worms",
+      "nl": "Luther verschijnt voor de Rijksdag van Worms",
+      "pl": "Luter staje przed sejmem Rzeszy w Wormacji",
+      "tr": "Luther Worms Diyeti'nin karşısına çıktı",
+      "zh": "路德出席沃尔姆斯帝国议会",
+      "ja": "ルターがヴォルムス帝国議会に出席する",
+      "ko": "루터가 보름스 제국의회에 출석하다",
+      "hi": "लूथर वॉर्म्स की साम्राज्य सभा के सामने उपस्थित हुए",
+      "ar": "لوثر يمثل أمام دايت فورمس"
     },
     "description": {
       "ru": "17 апреля 1521 года Мартин Лютер впервые предстал перед императором Карлом V и рейхстагом в Вормсе. От него требовали отказаться от своих сочинений, но он попросил время на размышление.",
       "de": "Am 17. April 1521 erschien Martin Luther erstmals vor Kaiser Karl V. und dem Reichstag zu Worms. Man forderte ihn auf, seine Schriften zu widerrufen, doch er bat um Bedenkzeit.",
-      "en": "On 17 April 1521, Martin Luther first appeared before Emperor Charles V and the Diet of Worms. He was asked to recant his writings, but requested time to reflect."
+      "en": "On 17 April 1521, Martin Luther first appeared before Emperor Charles V and the Diet of Worms. He was asked to recant his writings, but requested time to reflect.",
+      "fr": "Le 17 avril 1521, Martin Luther comparut pour la première fois devant l'empereur Charles Quint et la Diète de Worms. On lui demanda de renier ses écrits, mais il demanda un délai de réflexion.",
+      "es": "El 17 de abril de 1521, Martín Lutero compareció por primera vez ante el emperador Carlos V y la Dieta de Worms. Se le pidió que se retractara de sus escritos, pero pidió tiempo para reflexionar.",
+      "it": "Il 17 aprile 1521 Martin Lutero comparve per la prima volta davanti all'imperatore Carlo V e alla Dieta di Worms. Gli fu chiesto di ritrattare i suoi scritti, ma chiese tempo per riflettere.",
+      "pt": "Em 17 de abril de 1521, Martinho Lutero compareceu pela primeira vez perante o imperador Carlos V e a Dieta de Worms. Foi-lhe pedido que renegasse os seus escritos, mas ele pediu tempo para refletir.",
+      "nl": "Op 17 april 1521 verscheen Maarten Luther voor het eerst voor keizer Karel V en de Rijksdag van Worms. Men vroeg hem zijn geschriften te herroepen, maar hij vroeg bedenktijd.",
+      "pl": "17 kwietnia 1521 roku Marcin Luter po raz pierwszy stanął przed cesarzem Karolem V i sejmem Rzeszy w Wormacji. Zażądano od niego odwołania pism, lecz poprosił o czas do namysłu.",
+      "tr": "17 Nisan 1521'de Martin Luther ilk kez İmparator V. Karl ve Worms Diyeti'nin karşısına çıktı. Yazılarından vazgeçmesi istendi, fakat düşünmek için süre istedi.",
+      "zh": "1521年4月17日，马丁·路德首次出现在皇帝查理五世和沃尔姆斯帝国议会面前。人们要求他撤回自己的著作，但他请求时间思考。",
+      "ja": "1521年4月17日、マルティン・ルターは皇帝カール5世とヴォルムス帝国議会の前に初めて出席しました。彼は自分の著作を撤回するよう求められましたが、考える時間を求めました。",
+      "ko": "1521년 4월 17일, 마르틴 루터는 황제 카를 5세와 보름스 제국의회 앞에 처음 출석했습니다. 그는 자신의 저술을 철회하라는 요구를 받았지만 숙고할 시간을 요청했습니다.",
+      "hi": "17 अप्रैल 1521 को मार्टिन लूथर पहली बार सम्राट चार्ल्स पंचम और वॉर्म्स की साम्राज्य सभा के सामने उपस्थित हुए। उनसे अपने लेखन वापस लेने को कहा गया, लेकिन उन्होंने सोचने के लिए समय माँगा।",
+      "ar": "في 17 أبريل 1521 مثل مارتن لوثر للمرة الأولى أمام الإمبراطور شارل الخامس ودايت فورمس. طُلب منه التراجع عن كتاباته، لكنه طلب وقتا للتفكير."
     },
     "importance": {
       "ru": "Это одна из ключевых сцен Реформации, после которой религиозная и политическая карта Германии начала меняться особенно быстро.",
       "de": "Dies ist eine der Schluesselszenen der Reformation, nach der sich die religioese und politische Karte Deutschlands besonders schnell zu veraendern begann.",
-      "en": "It is one of the key scenes of the Reformation, after which Germany's religious and political map began to change especially quickly."
+      "en": "It is one of the key scenes of the Reformation, after which Germany's religious and political map began to change especially quickly.",
+      "fr": "C'est l'une des scènes clés de la Réforme, après laquelle la carte religieuse et politique de l'Allemagne commença à changer particulièrement vite.",
+      "es": "Es una de las escenas clave de la Reforma, tras la cual el mapa religioso y político de Alemania empezó a cambiar con especial rapidez.",
+      "it": "È una delle scene chiave della Riforma, dopo la quale la carta religiosa e politica della Germania iniziò a cambiare particolarmente in fretta.",
+      "pt": "É uma das cenas-chave da Reforma, depois da qual o mapa religioso e político da Alemanha começou a mudar com especial rapidez.",
+      "nl": "Het is een van de sleutelmomenten van de Reformatie, waarna de religieuze en politieke kaart van Duitsland bijzonder snel begon te veranderen.",
+      "pl": "To jedna z kluczowych scen reformacji, po której religijna i polityczna mapa Niemiec zaczęła zmieniać się szczególnie szybko.",
+      "tr": "Bu, Reformasyon'un kilit sahnelerinden biridir; ardından Almanya'nın dini ve siyasi haritası özellikle hızlı değişmeye başladı.",
+      "zh": "这是宗教改革的关键场景之一，此后德国的宗教和政治版图开始特别迅速地变化。",
+      "ja": "これは宗教改革の重要な場面の一つであり、その後ドイツの宗教的・政治的地図はとりわけ急速に変わり始めました。",
+      "ko": "이는 종교개혁의 핵심 장면 중 하나이며, 그 뒤 독일의 종교적·정치적 지형은 특히 빠르게 변하기 시작했습니다.",
+      "hi": "यह सुधार आंदोलन के मुख्य दृश्यों में से एक है, जिसके बाद जर्मनी का धार्मिक और राजनीतिक नक्शा बहुत तेजी से बदलने लगा।",
+      "ar": "إنه أحد المشاهد الرئيسية في الإصلاح الديني، وبعده بدأ المشهد الديني والسياسي في ألمانيا يتغير بسرعة خاصة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Реформация перед императором",
           "de": "Reformation vor dem Kaiser",
-          "en": "Reformation before the emperor"
+          "en": "Reformation before the emperor",
+          "fr": "La Réforme devant l'empereur",
+          "es": "La Reforma ante el emperador",
+          "it": "La Riforma davanti all'imperatore",
+          "pt": "A Reforma perante o imperador",
+          "nl": "De Reformatie voor de keizer",
+          "pl": "Reformacja przed cesarzem",
+          "tr": "İmparatorun önünde Reformasyon",
+          "zh": "皇帝面前的宗教改革",
+          "ja": "皇帝の前の宗教改革",
+          "ko": "황제 앞의 종교개혁",
+          "hi": "सम्राट के सामने सुधार आंदोलन",
+          "ar": "الإصلاح أمام الإمبراطور"
         },
         "description": {
           "ru": "Вормс был не университетским спором, а заседанием имперской политики. Поэтому конфликт вокруг богословских текстов сразу стал вопросом власти, закона и единства Священной Римской империи.",
           "de": "Worms war keine Universitaetsdebatte, sondern eine Versammlung der Reichspolitik. Deshalb wurde der Streit um theologische Texte sofort zu einer Frage von Macht, Recht und Einheit des Heiligen Roemischen Reiches.",
-          "en": "Worms was not a university debate, but an assembly of imperial politics. The dispute over theological writings therefore immediately became a question of power, law and the unity of the Holy Roman Empire."
+          "en": "Worms was not a university debate, but an assembly of imperial politics. The dispute over theological writings therefore immediately became a question of power, law and the unity of the Holy Roman Empire.",
+          "fr": "Worms n'était pas un débat universitaire, mais une assemblée de politique impériale. Le conflit autour des textes théologiques devint donc aussitôt une question de pouvoir, de droit et d'unité du Saint-Empire romain germanique.",
+          "es": "Worms no fue un debate universitario, sino una asamblea de política imperial. Por eso la disputa sobre textos teológicos se convirtió de inmediato en una cuestión de poder, ley y unidad del Sacro Imperio Romano Germánico.",
+          "it": "Worms non fu un dibattito universitario, ma un'assemblea della politica imperiale. Perciò la disputa sugli scritti teologici divenne subito una questione di potere, diritto e unità del Sacro Romano Impero.",
+          "pt": "Worms não foi um debate universitário, mas uma assembleia da política imperial. Por isso a disputa sobre textos teológicos tornou-se imediatamente uma questão de poder, lei e unidade do Sacro Império Romano-Germânico.",
+          "nl": "Worms was geen universitair debat, maar een bijeenkomst van rijksbeleid. Daarom werd het conflict rond theologische teksten meteen een kwestie van macht, recht en eenheid van het Heilige Roomse Rijk.",
+          "pl": "Wormacja nie była debatą uniwersytecką, lecz zgromadzeniem polityki cesarskiej. Dlatego spór o pisma teologiczne natychmiast stał się kwestią władzy, prawa i jedności Świętego Cesarstwa Rzymskiego.",
+          "tr": "Worms bir üniversite tartışması değil, imparatorluk siyasetinin bir toplantısıydı. Bu yüzden teolojik yazılar konusundaki anlaşmazlık hemen güç, hukuk ve Kutsal Roma İmparatorluğu'nun birliği meselesine dönüştü.",
+          "zh": "沃尔姆斯并不是大学辩论，而是帝国政治会议。因此，围绕神学著作的争端立即变成了权力、法律和神圣罗马帝国统一的问题。",
+          "ja": "ヴォルムスは大学での討論ではなく、帝国政治の会議でした。そのため、神学文書をめぐる争いはすぐに権力、法、神聖ローマ帝国の統一の問題となりました。",
+          "ko": "보름스는 대학 토론이 아니라 제국 정치의 회의였습니다. 그래서 신학 저술을 둘러싼 논쟁은 곧 권력, 법, 신성 로마 제국의 통일 문제로 바뀌었습니다.",
+          "hi": "वॉर्म्स कोई विश्वविद्यालयी बहस नहीं था, बल्कि साम्राज्य राजनीति की सभा थी। इसलिए धार्मिक लेखों का विवाद तुरंत शक्ति, कानून और पवित्र रोमन साम्राज्य की एकता का प्रश्न बन गया।",
+          "ar": "لم تكن فورمس مناظرة جامعية، بل اجتماعا للسياسة الإمبراطورية. لذلك تحول الخلاف حول النصوص اللاهوتية فورا إلى مسألة سلطة وقانون ووحدة الإمبراطورية الرومانية المقدسة."
         },
         "importance": {
           "ru": "Дата показывает, как религиозная идея может стать политическим событием европейского масштаба.",
           "de": "Das Datum zeigt, wie eine religioese Idee zu einem politischen Ereignis von europaeischem Rang werden kann.",
-          "en": "The date shows how a religious idea can become a political event of European scale."
+          "en": "The date shows how a religious idea can become a political event of European scale.",
+          "fr": "Cette date montre comment une idée religieuse peut devenir un événement politique d'ampleur européenne.",
+          "es": "La fecha muestra cómo una idea religiosa puede convertirse en un acontecimiento político de escala europea.",
+          "it": "La data mostra come un'idea religiosa possa diventare un evento politico di portata europea.",
+          "pt": "A data mostra como uma ideia religiosa pode tornar-se um acontecimento político de escala europeia.",
+          "nl": "Deze datum laat zien hoe een religieus idee een politieke gebeurtenis van Europese omvang kan worden.",
+          "pl": "Ta data pokazuje, jak idea religijna może stać się wydarzeniem politycznym o skali europejskiej.",
+          "tr": "Bu tarih, dini bir fikrin Avrupa ölçeğinde siyasi bir olaya nasıl dönüşebileceğini gösterir.",
+          "zh": "这个日期显示，宗教思想如何成为欧洲范围的政治事件。",
+          "ja": "この日付は、宗教的な思想がヨーロッパ規模の政治的事件になり得ることを示しています。",
+          "ko": "이 날짜는 종교적 사상이 어떻게 유럽 규모의 정치적 사건이 될 수 있는지를 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि धार्मिक विचार यूरोपीय स्तर की राजनीतिक घटना कैसे बन सकता है।",
+          "ar": "يبين هذا التاريخ كيف يمكن لفكرة دينية أن تصبح حدثا سياسيا على مستوى أوروبي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Печатные тексты как сила",
           "de": "Gedruckte Texte als Kraft",
-          "en": "Printed texts as power"
+          "en": "Printed texts as power",
+          "fr": "Les textes imprimés comme force",
+          "es": "Textos impresos como poder",
+          "it": "Testi stampati come forza",
+          "pt": "Textos impressos como força",
+          "nl": "Gedrukte teksten als kracht",
+          "pl": "Drukowane teksty jako siła",
+          "tr": "Güç olarak basılı metinler",
+          "zh": "印刷文本的力量",
+          "ja": "力としての印刷物",
+          "ko": "힘으로서의 인쇄물",
+          "hi": "शक्ति के रूप में मुद्रित लेख",
+          "ar": "النصوص المطبوعة كقوة"
         },
         "description": {
           "ru": "Сочинения Лютера быстро распространялись благодаря печати. Без типографий спор в Вормсе вряд ли стал бы таким заметным для городов, князей и простых читателей.",
           "de": "Luthers Schriften verbreiteten sich durch den Buchdruck schnell. Ohne Druckereien waere der Streit in Worms fuer Staedte, Fuersten und einfache Leser kaum so sichtbar geworden.",
-          "en": "Luther's writings spread quickly thanks to printing. Without print shops, the dispute at Worms would hardly have become so visible to cities, princes and ordinary readers."
+          "en": "Luther's writings spread quickly thanks to printing. Without print shops, the dispute at Worms would hardly have become so visible to cities, princes and ordinary readers.",
+          "fr": "Les écrits de Luther se diffusèrent rapidement grâce à l'imprimerie. Sans ateliers d'impression, le conflit de Worms serait difficilement devenu aussi visible pour les villes, les princes et les lecteurs ordinaires.",
+          "es": "Los escritos de Lutero se difundieron rápidamente gracias a la imprenta. Sin talleres de impresión, la disputa de Worms difícilmente habría sido tan visible para ciudades, príncipes y lectores comunes.",
+          "it": "Gli scritti di Lutero si diffusero rapidamente grazie alla stampa. Senza tipografie, la disputa di Worms difficilmente sarebbe diventata così visibile per città, principi e lettori comuni.",
+          "pt": "Os escritos de Lutero espalharam-se rapidamente graças à imprensa. Sem tipografias, a disputa em Worms dificilmente teria ficado tão visível para cidades, príncipes e leitores comuns.",
+          "nl": "Luthers geschriften verspreidden zich snel dankzij de boekdrukkunst. Zonder drukkerijen zou het conflict in Worms nauwelijks zo zichtbaar zijn geworden voor steden, vorsten en gewone lezers.",
+          "pl": "Pisma Lutra szybko rozprzestrzeniały się dzięki drukowi. Bez drukarni spór w Wormacji z trudem stałby się tak widoczny dla miast, książąt i zwykłych czytelników.",
+          "tr": "Luther'in yazıları matbaa sayesinde hızla yayıldı. Matbaalar olmasaydı Worms'taki anlaşmazlık şehirler, prensler ve sıradan okurlar için bu kadar görünür olmazdı.",
+          "zh": "路德的著作借助印刷迅速传播。没有印刷作坊，沃尔姆斯的争端很难如此显著地进入城市、诸侯和普通读者的视野。",
+          "ja": "ルターの著作は印刷によって急速に広まりました。印刷所がなければ、ヴォルムスでの争いが都市、諸侯、一般読者にこれほど見えるものにはならなかったでしょう。",
+          "ko": "루터의 저술은 인쇄 덕분에 빠르게 퍼졌습니다. 인쇄소가 없었다면 보름스의 논쟁은 도시, 제후, 일반 독자들에게 그렇게 뚜렷하게 보이지 않았을 것입니다.",
+          "hi": "लूथर के लेख मुद्रण के कारण तेजी से फैले। छापाखानों के बिना वॉर्म्स का विवाद शहरों, राजकुमारों और सामान्य पाठकों को शायद इतना दिखाई नहीं देता।",
+          "ar": "انتشرت كتابات لوثر بسرعة بفضل الطباعة. ومن دون المطابع، ما كان النزاع في فورمس ليصبح بهذا الوضوح للمدن والأمراء والقراء العاديين."
         },
         "importance": {
           "ru": "Это ранний пример того, как медиа меняют ход истории.",
           "de": "Das ist ein fruehes Beispiel dafuer, wie Medien den Verlauf der Geschichte veraendern.",
-          "en": "It is an early example of media changing the course of history."
+          "en": "It is an early example of media changing the course of history.",
+          "fr": "C'est un exemple précoce de la manière dont les médias changent le cours de l'histoire.",
+          "es": "Es un ejemplo temprano de cómo los medios cambian el curso de la historia.",
+          "it": "È un primo esempio di come i media cambino il corso della storia.",
+          "pt": "É um exemplo inicial de como os media mudam o curso da história.",
+          "nl": "Het is een vroeg voorbeeld van hoe media de loop van de geschiedenis veranderen.",
+          "pl": "To wczesny przykład tego, jak media zmieniają bieg historii.",
+          "tr": "Bu, medyanın tarihin akışını nasıl değiştirdiğine dair erken bir örnektir.",
+          "zh": "这是媒体改变历史进程的早期例子。",
+          "ja": "これは、メディアが歴史の流れを変えることを示す初期の例です。",
+          "ko": "이는 미디어가 역사의 흐름을 바꾸는 초기 사례입니다.",
+          "hi": "यह मीडिया द्वारा इतिहास की दिशा बदलने का शुरुआती उदाहरण है।",
+          "ar": "إنه مثال مبكر على كيف تغير وسائل الإعلام مسار التاريخ."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Слушания Лютера в Вормсе продолжились 18 апреля 1521 года.",
     "de": "Luthers Verhoer in Worms wurde am 18. April 1521 fortgesetzt.",
-    "en": "Luther's hearing in Worms continued on 18 April 1521."
+    "en": "Luther's hearing in Worms continued on 18 April 1521.",
+    "fr": "L'audition de Luther à Worms se poursuivit le 18 avril 1521.",
+    "es": "La audiencia de Lutero en Worms continuó el 18 de abril de 1521.",
+    "it": "L'udienza di Lutero a Worms proseguì il 18 aprile 1521.",
+    "pt": "A audiência de Lutero em Worms continuou em 18 de abril de 1521.",
+    "nl": "Luthers verhoor in Worms ging verder op 18 april 1521.",
+    "pl": "Przesłuchanie Lutra w Wormacji kontynuowano 18 kwietnia 1521 roku.",
+    "tr": "Luther'in Worms'taki duruşması 18 Nisan 1521'de devam etti.",
+    "zh": "路德在沃尔姆斯的听证于1521年4月18日继续进行。",
+    "ja": "ヴォルムスでのルターの審問は1521年4月18日に続けられました。",
+    "ko": "루터의 보름스 심문은 1521년 4월 18일에도 계속되었습니다.",
+    "hi": "वॉर्म्स में लूथर की सुनवाई 18 अप्रैल 1521 को जारी रही।",
+    "ar": "استمرت جلسة الاستماع إلى لوثر في فورمس في 18 أبريل 1521."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась битва за Берлин",
       "de": "Die Schlacht um Berlin beginnt",
-      "en": "The Battle of Berlin begins"
+      "en": "The Battle of Berlin begins",
+      "fr": "La bataille de Berlin commence",
+      "es": "Comienza la batalla de Berlín",
+      "it": "Inizia la battaglia di Berlino",
+      "pt": "Começa a Batalha de Berlim",
+      "nl": "De Slag om Berlijn begint",
+      "pl": "Rozpoczyna się bitwa o Berlin",
+      "tr": "Berlin Muharebesi başladı",
+      "zh": "柏林战役开始",
+      "ja": "ベルリンの戦いが始まる",
+      "ko": "베를린 전투가 시작되다",
+      "hi": "बर्लिन की लड़ाई शुरू हुई",
+      "ar": "بدء معركة برلين"
     },
     "description": {
       "ru": "16 апреля 1945 года началось советское наступление на Берлин. Это была последняя крупная битва в Европе перед капитуляцией нацистской Германии.",
       "de": "Am 16. April 1945 begann der sowjetische Angriff auf Berlin. Es war die letzte grosse Schlacht in Europa vor der Kapitulation NS-Deutschlands.",
-      "en": "On 16 April 1945, the Soviet assault on Berlin began. It was the last major battle in Europe before Nazi Germany's surrender."
+      "en": "On 16 April 1945, the Soviet assault on Berlin began. It was the last major battle in Europe before Nazi Germany's surrender.",
+      "fr": "Le 16 avril 1945 commença l'assaut soviétique contre Berlin. Ce fut la dernière grande bataille en Europe avant la capitulation de l'Allemagne nazie.",
+      "es": "El 16 de abril de 1945 comenzó el asalto soviético sobre Berlín. Fue la última gran batalla en Europa antes de la rendición de la Alemania nazi.",
+      "it": "Il 16 aprile 1945 iniziò l'assalto sovietico a Berlino. Fu l'ultima grande battaglia in Europa prima della resa della Germania nazista.",
+      "pt": "Em 16 de abril de 1945 começou o assalto soviético a Berlim. Foi a última grande batalha na Europa antes da rendição da Alemanha nazi.",
+      "nl": "Op 16 april 1945 begon de Sovjetaanval op Berlijn. Het was de laatste grote slag in Europa vóór de capitulatie van nazi-Duitsland.",
+      "pl": "16 kwietnia 1945 roku rozpoczął się radziecki szturm na Berlin. Była to ostatnia wielka bitwa w Europie przed kapitulacją nazistowskich Niemiec.",
+      "tr": "16 Nisan 1945'te Berlin'e yönelik Sovyet saldırısı başladı. Bu, Nazi Almanyası'nın teslimiyetinden önce Avrupa'daki son büyük muharebeydi.",
+      "zh": "1945年4月16日，苏军对柏林的进攻开始。这是纳粹德国投降前欧洲最后一场大战役。",
+      "ja": "1945年4月16日、ソ連軍によるベルリン攻撃が始まりました。これはナチス・ドイツ降伏前のヨーロッパ最後の大規模戦闘でした。",
+      "ko": "1945년 4월 16일, 소련군의 베를린 공격이 시작되었습니다. 이는 나치 독일의 항복 전 유럽에서 벌어진 마지막 대규모 전투였습니다.",
+      "hi": "16 अप्रैल 1945 को बर्लिन पर सोवियत हमला शुरू हुआ। यह नाज़ी जर्मनी के आत्मसमर्पण से पहले यूरोप की अंतिम बड़ी लड़ाई थी।",
+      "ar": "في 16 أبريل 1945 بدأ الهجوم السوفيتي على برلين. كانت هذه آخر معركة كبرى في أوروبا قبل استسلام ألمانيا النازية."
     },
     "importance": {
       "ru": "Событие стало началом финального краха Третьего рейха.",
       "de": "Das Ereignis leitete den finalen Zusammenbruch des Dritten Reiches ein.",
-      "en": "The event began the final collapse of the Third Reich."
+      "en": "The event began the final collapse of the Third Reich.",
+      "fr": "Cet événement marqua le début de l'effondrement final du Troisième Reich.",
+      "es": "El acontecimiento inició el derrumbe final del Tercer Reich.",
+      "it": "L'evento segnò l'inizio del crollo finale del Terzo Reich.",
+      "pt": "O acontecimento iniciou o colapso final do Terceiro Reich.",
+      "nl": "De gebeurtenis luidde de definitieve ineenstorting van het Derde Rijk in.",
+      "pl": "Wydarzenie rozpoczęło ostateczny upadek Trzeciej Rzeszy.",
+      "tr": "Bu olay Üçüncü Reich'ın nihai çöküşünü başlattı.",
+      "zh": "这一事件开启了第三帝国的最终崩溃。",
+      "ja": "この出来事は第三帝国の最終的な崩壊の始まりとなりました。",
+      "ko": "이 사건은 제3제국의 최종 붕괴를 시작하게 했습니다.",
+      "hi": "इस घटना ने तीसरे राइख के अंतिम पतन की शुरुआत की।",
+      "ar": "بدأ هذا الحدث الانهيار النهائي للرايخ الثالث."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Город в ловушке войны",
           "de": "Eine Stadt im Kriegschaos",
-          "en": "A city trapped in war"
+          "en": "A city trapped in war",
+          "fr": "Une ville prise au piège de la guerre",
+          "es": "Una ciudad atrapada en la guerra",
+          "it": "Una città intrappolata nella guerra",
+          "pt": "Uma cidade presa na guerra",
+          "nl": "Een stad gevangen in oorlog",
+          "pl": "Miasto uwięzione w wojnie",
+          "tr": "Savaşın tuzağındaki şehir",
+          "zh": "陷入战争的城市",
+          "ja": "戦争に閉じ込められた都市",
+          "ko": "전쟁에 갇힌 도시",
+          "hi": "युद्ध में फँसा शहर",
+          "ar": "مدينة عالقة في الحرب"
         },
         "description": {
           "ru": "В Берлине оставались мирные жители, беженцы, солдаты и подростки из последних мобилизаций. Финальные дни войны стали для города катастрофой.",
           "de": "In Berlin blieben Zivilisten, Fluechtlinge, Soldaten und Jugendliche der letzten Mobilisierungen. Die letzten Kriegstage wurden fuer die Stadt zur Katastrophe.",
-          "en": "Civilians, refugees, soldiers and teenagers from the last mobilizations remained in Berlin. The final days of the war became a catastrophe for the city."
+          "en": "Civilians, refugees, soldiers and teenagers from the last mobilizations remained in Berlin. The final days of the war became a catastrophe for the city.",
+          "fr": "Des civils, des réfugiés, des soldats et des adolescents issus des dernières mobilisations restaient à Berlin. Les derniers jours de la guerre devinrent une catastrophe pour la ville.",
+          "es": "En Berlín quedaban civiles, refugiados, soldados y adolescentes de las últimas movilizaciones. Los últimos días de la guerra se convirtieron en una catástrofe para la ciudad.",
+          "it": "A Berlino rimasero civili, profughi, soldati e adolescenti delle ultime mobilitazioni. Gli ultimi giorni della guerra divennero una catastrofe per la città.",
+          "pt": "Em Berlim permaneciam civis, refugiados, soldados e adolescentes das últimas mobilizações. Os últimos dias da guerra tornaram-se uma catástrofe para a cidade.",
+          "nl": "In Berlijn bleven burgers, vluchtelingen, soldaten en tieners uit de laatste mobilisaties achter. De laatste oorlogsdagen werden een ramp voor de stad.",
+          "pl": "W Berlinie pozostali cywile, uchodźcy, żołnierze i nastolatkowie z ostatnich mobilizacji. Ostatnie dni wojny stały się dla miasta katastrofą.",
+          "tr": "Berlin'de siviller, mülteciler, askerler ve son seferberliklerden gelen gençler kalmıştı. Savaşın son günleri şehir için bir felakete dönüştü.",
+          "zh": "平民、难民、士兵以及最后动员中的青少年仍留在柏林。战争的最后几天成为这座城市的灾难。",
+          "ja": "ベルリンには市民、避難民、兵士、そして最後の動員で集められた十代の若者たちが残っていました。戦争の最後の日々は、この都市にとって大惨事となりました。",
+          "ko": "베를린에는 민간인, 피난민, 병사, 마지막 동원에 끌려온 청소년들이 남아 있었습니다. 전쟁의 마지막 날들은 도시의 재앙이 되었습니다.",
+          "hi": "बर्लिन में नागरिक, शरणार्थी, सैनिक और अंतिम लामबंदी के किशोर रह गए थे। युद्ध के अंतिम दिन शहर के लिए आपदा बन गए।",
+          "ar": "بقي في برلين مدنيون ولاجئون وجنود ومراهقون من آخر عمليات التعبئة. أصبحت الأيام الأخيرة من الحرب كارثة على المدينة."
         },
         "importance": {
           "ru": "Так военная история превращается в историю человеческого выживания.",
           "de": "So wird Kriegsgeschichte zur Geschichte menschlichen Ueberlebens.",
-          "en": "Military history becomes a story of human survival."
+          "en": "Military history becomes a story of human survival.",
+          "fr": "L'histoire militaire devient alors une histoire de survie humaine.",
+          "es": "Así la historia militar se convierte en una historia de supervivencia humana.",
+          "it": "Così la storia militare diventa una storia di sopravvivenza umana.",
+          "pt": "Assim a história militar torna-se uma história de sobrevivência humana.",
+          "nl": "Zo wordt militaire geschiedenis een verhaal van menselijk overleven.",
+          "pl": "Tak historia wojskowa staje się opowieścią o ludzkim przetrwaniu.",
+          "tr": "Böylece askeri tarih insanın hayatta kalma hikayesine dönüşür.",
+          "zh": "军事史由此变成人类求生的故事。",
+          "ja": "こうして軍事史は、人間の生存の物語になります。",
+          "ko": "이렇게 군사사는 인간 생존의 이야기가 됩니다.",
+          "hi": "इस तरह सैन्य इतिहास मानव अस्तित्व की कहानी बन जाता है।",
+          "ar": "هكذا يتحول التاريخ العسكري إلى قصة بقاء إنساني."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Через две недели после начала битвы Гитлер покончил с собой в Берлине.",
     "de": "Zwei Wochen nach Beginn der Schlacht beging Hitler in Berlin Selbstmord.",
-    "en": "Two weeks after the battle began, Hitler died by suicide in Berlin."
+    "en": "Two weeks after the battle began, Hitler died by suicide in Berlin.",
+    "fr": "Deux semaines après le début de la bataille, Hitler se suicida à Berlin.",
+    "es": "Dos semanas después del inicio de la batalla, Hitler se suicidó en Berlín.",
+    "it": "Due settimane dopo l'inizio della battaglia, Hitler si suicidò a Berlino.",
+    "pt": "Duas semanas após o início da batalha, Hitler suicidou-se em Berlim.",
+    "nl": "Twee weken na het begin van de slag pleegde Hitler zelfmoord in Berlijn.",
+    "pl": "Dwa tygodnie po rozpoczęciu bitwy Hitler popełnił samobójstwo w Berlinie.",
+    "tr": "Muharebenin başlamasından iki hafta sonra Hitler Berlin'de intihar etti.",
+    "zh": "战役开始两周后，希特勒在柏林自杀。",
+    "ja": "戦いが始まって2週間後、ヒトラーはベルリンで自殺しました。",
+    "ko": "전투가 시작된 지 2주 뒤 히틀러는 베를린에서 자살했습니다.",
+    "hi": "लड़ाई शुरू होने के दो सप्ताह बाद हिटलर ने बर्लिन में आत्महत्या की।",
+    "ar": "بعد أسبوعين من بدء المعركة انتحر هتلر في برلين."
   },
   "sources": [
     {
