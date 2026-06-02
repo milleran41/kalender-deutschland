@@ -11,17 +11,53 @@
     "title": {
       "ru": "Гитлер покончил с собой в Берлине",
       "de": "Hitler begeht in Berlin Selbstmord",
-      "en": "Hitler dies by suicide in Berlin"
+      "en": "Hitler dies by suicide in Berlin",
+      "fr": "Hitler se suicide à Berlin",
+      "es": "Hitler se suicida en Berlín",
+      "it": "Hitler si suicida a Berlino",
+      "pt": "Hitler suicida-se em Berlim",
+      "nl": "Hitler pleegt zelfmoord in Berlijn",
+      "pl": "Hitler popełnia samobójstwo w Berlinie",
+      "tr": "Hitler Berlin'de intihar etti",
+      "zh": "希特勒在柏林自杀",
+      "ja": "ヒトラーがベルリンで自殺する",
+      "ko": "히틀러가 베를린에서 자살하다",
+      "hi": "हिटलर ने बर्लिन में आत्महत्या की",
+      "ar": "هتلر ينتحر في برلين"
     },
     "description": {
       "ru": "30 апреля 1945 года Адольф Гитлер покончил с собой в бункере рейхсканцелярии. Берлин уже был окружён и разрушался в последние дни войны.",
       "de": "Am 30. April 1945 beging Adolf Hitler im Bunker der Reichskanzlei Selbstmord. Berlin war bereits eingekesselt und wurde in den letzten Kriegstagen zerstoert.",
-      "en": "On 30 April 1945, Adolf Hitler died by suicide in the bunker of the Reich Chancellery. Berlin was already encircled and being destroyed in the final days of the war."
+      "en": "On 30 April 1945, Adolf Hitler died by suicide in the bunker of the Reich Chancellery. Berlin was already encircled and being destroyed in the final days of the war.",
+      "fr": "Le 30 avril 1945, Adolf Hitler se suicida dans le bunker de la chancellerie du Reich. Berlin était déjà encerclée et détruite dans les derniers jours de la guerre.",
+      "es": "El 30 de abril de 1945, Adolf Hitler se suicidó en el búnker de la Cancillería del Reich. Berlín ya estaba rodeada y era destruida en los últimos días de la guerra.",
+      "it": "Il 30 aprile 1945 Adolf Hitler si suicidò nel bunker della Cancelleria del Reich. Berlino era già accerchiata e veniva distrutta negli ultimi giorni della guerra.",
+      "pt": "Em 30 de abril de 1945, Adolf Hitler suicidou-se no bunker da Chancelaria do Reich. Berlim já estava cercada e era destruída nos últimos dias da guerra.",
+      "nl": "Op 30 april 1945 pleegde Adolf Hitler zelfmoord in de bunker van de Rijkskanselarij. Berlijn was al omsingeld en werd in de laatste oorlogsdagen verwoest.",
+      "pl": "30 kwietnia 1945 roku Adolf Hitler popełnił samobójstwo w bunkrze Kancelarii Rzeszy. Berlin był już otoczony i niszczony w ostatnich dniach wojny.",
+      "tr": "30 Nisan 1945'te Adolf Hitler Reich Şansölyeliği sığınağında intihar etti. Berlin savaşın son günlerinde çoktan kuşatılmış ve yıkıma uğramaktaydı.",
+      "zh": "1945年4月30日，阿道夫·希特勒在帝国总理府地堡中自杀。柏林已经被包围，并在战争最后几天遭到摧毁。",
+      "ja": "1945年4月30日、アドルフ・ヒトラーは総統官邸の地下壕で自殺しました。ベルリンはすでに包囲され、戦争の最後の日々に破壊されていました。",
+      "ko": "1945년 4월 30일, 아돌프 히틀러는 제국 총리관저 벙커에서 자살했습니다. 베를린은 이미 포위되었고 전쟁 마지막 날들에 파괴되고 있었습니다.",
+      "hi": "30 अप्रैल 1945 को एडॉल्फ हिटलर ने राइख चांसलरी के बंकर में आत्महत्या की। युद्ध के अंतिम दिनों में बर्लिन पहले ही घिर चुका था और नष्ट हो रहा था।",
+      "ar": "في 30 أبريل 1945 انتحر أدولف هتلر في قبو مستشارية الرايخ. كانت برلين محاصرة بالفعل وتتعرض للدمار في الأيام الأخيرة من الحرب."
     },
     "importance": {
       "ru": "Дата стала одним из последних актов краха нацистской диктатуры.",
       "de": "Das Datum wurde zu einem der letzten Akte des Zusammenbruchs der NS-Diktatur.",
-      "en": "The date became one of the final acts in the collapse of the Nazi dictatorship."
+      "en": "The date became one of the final acts in the collapse of the Nazi dictatorship.",
+      "fr": "Cette date devint l'un des derniers actes de l'effondrement de la dictature nazie.",
+      "es": "La fecha se convirtió en uno de los actos finales del derrumbe de la dictadura nazi.",
+      "it": "La data divenne uno degli ultimi atti del crollo della dittatura nazista.",
+      "pt": "A data tornou-se um dos atos finais do colapso da ditadura nazi.",
+      "nl": "De datum werd een van de laatste handelingen in de ineenstorting van de nazidictatuur.",
+      "pl": "Ta data stała się jednym z ostatnich aktów upadku dyktatury nazistowskiej.",
+      "tr": "Bu tarih, Nazi diktatörlüğünün çöküşündeki son eylemlerden biri oldu.",
+      "zh": "这个日期成为纳粹独裁崩溃的最后事件之一。",
+      "ja": "この日付は、ナチ独裁崩壊の最後の出来事の一つとなりました。",
+      "ko": "이 날짜는 나치 독재 붕괴의 마지막 행위 중 하나가 되었습니다.",
+      "hi": "यह तारीख नाज़ी तानाशाही के पतन के अंतिम कार्यों में से एक बनी।",
+      "ar": "أصبح هذا التاريخ أحد الأفعال الأخيرة في انهيار الدكتاتورية النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Последние дни битвы за Берлин",
           "de": "Die letzten Tage der Schlacht um Berlin",
-          "en": "The final days of the Battle of Berlin"
+          "en": "The final days of the Battle of Berlin",
+          "fr": "Les derniers jours de la bataille de Berlin",
+          "es": "Los últimos días de la batalla de Berlín",
+          "it": "Gli ultimi giorni della battaglia di Berlino",
+          "pt": "Os últimos dias da Batalha de Berlim",
+          "nl": "De laatste dagen van de Slag om Berlijn",
+          "pl": "Ostatnie dni bitwy o Berlin",
+          "tr": "Berlin Muharebesi'nin son günleri",
+          "zh": "柏林战役的最后几天",
+          "ja": "ベルリンの戦いの最後の日々",
+          "ko": "베를린 전투의 마지막 날들",
+          "hi": "बर्लिन की लड़ाई के अंतिम दिन",
+          "ar": "الأيام الأخيرة من معركة برلين"
         },
         "description": {
           "ru": "В конце апреля город был ареной тяжёлых боёв. Через несколько дней Берлин капитулировал, а война в Европе закончилась 8 мая.",
           "de": "Ende April war die Stadt Schauplatz schwerer Kaempfe. Wenige Tage spaeter kapitulierte Berlin, und der Krieg in Europa endete am 8. Mai.",
-          "en": "At the end of April, the city was the scene of heavy fighting. A few days later Berlin capitulated, and the war in Europe ended on 8 May."
+          "en": "At the end of April, the city was the scene of heavy fighting. A few days later Berlin capitulated, and the war in Europe ended on 8 May.",
+          "fr": "À la fin avril, la ville fut le théâtre de combats acharnés. Quelques jours plus tard, Berlin capitula, et la guerre en Europe prit fin le 8 mai.",
+          "es": "A finales de abril, la ciudad fue escenario de duros combates. Unos días después Berlín capituló, y la guerra en Europa terminó el 8 de mayo.",
+          "it": "Alla fine di aprile, la città fu teatro di pesanti combattimenti. Pochi giorni dopo Berlino capitolò, e la guerra in Europa finì l'8 maggio.",
+          "pt": "No fim de abril, a cidade foi palco de combates intensos. Poucos dias depois Berlim capitulou, e a guerra na Europa terminou em 8 de maio.",
+          "nl": "Eind april was de stad het toneel van zware gevechten. Enkele dagen later capituleerde Berlijn, en op 8 mei eindigde de oorlog in Europa.",
+          "pl": "Pod koniec kwietnia miasto było areną ciężkich walk. Kilka dni później Berlin skapitulował, a wojna w Europie zakończyła się 8 maja.",
+          "tr": "Nisan sonunda şehir ağır çatışmaların sahnesiydi. Birkaç gün sonra Berlin teslim oldu ve Avrupa'daki savaş 8 Mayıs'ta sona erdi.",
+          "zh": "4月底，这座城市成为激烈战斗的场所。几天后柏林投降，欧洲战争于5月8日结束。",
+          "ja": "4月末、この都市は激しい戦闘の舞台となりました。数日後にベルリンは降伏し、ヨーロッパでの戦争は5月8日に終わりました。",
+          "ko": "4월 말, 도시는 치열한 전투의 현장이었습니다. 며칠 뒤 베를린은 항복했고, 유럽의 전쟁은 5월 8일에 끝났습니다.",
+          "hi": "अप्रैल के अंत में शहर भीषण लड़ाई का मैदान था। कुछ दिन बाद बर्लिन ने आत्मसमर्पण किया और यूरोप में युद्ध 8 मई को समाप्त हुआ।",
+          "ar": "في نهاية أبريل كانت المدينة مسرحا لقتال عنيف. وبعد أيام قليلة استسلمت برلين، وانتهت الحرب في أوروبا في 8 مايو."
         },
         "importance": {
           "ru": "Это помогает увидеть конец диктатуры не как один момент, а как разрушительный финал войны.",
           "de": "Das hilft, das Ende der Diktatur nicht als einen Moment, sondern als zerstoererisches Kriegsfinale zu sehen.",
-          "en": "It helps show the end of dictatorship not as one moment but as the destructive finale of war."
+          "en": "It helps show the end of dictatorship not as one moment but as the destructive finale of war.",
+          "fr": "Cela aide à voir la fin de la dictature non comme un seul moment, mais comme le final destructeur de la guerre.",
+          "es": "Ayuda a ver el fin de la dictadura no como un solo momento, sino como el final destructivo de la guerra.",
+          "it": "Aiuta a vedere la fine della dittatura non come un solo momento, ma come il finale distruttivo della guerra.",
+          "pt": "Ajuda a ver o fim da ditadura não como um único momento, mas como o final destrutivo da guerra.",
+          "nl": "Het helpt het einde van de dictatuur niet als één moment te zien, maar als de verwoestende finale van de oorlog.",
+          "pl": "Pomaga to zobaczyć koniec dyktatury nie jako jeden moment, lecz jako niszczycielski finał wojny.",
+          "tr": "Bu, diktatörlüğün sonunu tek bir an değil, savaşın yıkıcı finali olarak görmeye yardımcı olur.",
+          "zh": "这有助于把独裁的终结看作战争毁灭性结局的一部分，而不是单一时刻。",
+          "ja": "これは、独裁の終わりを一つの瞬間としてではなく、戦争の破壊的な終幕として見る助けになります。",
+          "ko": "이는 독재의 끝을 한 순간이 아니라 전쟁의 파괴적인 종말로 보게 도와줍니다.",
+          "hi": "यह तानाशाही के अंत को एक क्षण नहीं, बल्कि युद्ध के विनाशकारी अंतिम चरण के रूप में दिखाने में मदद करता है।",
+          "ar": "يساعد ذلك على رؤية نهاية الدكتاتورية لا كلحظة واحدة، بل كخاتمة مدمرة للحرب."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Родился Карл Фридрих Гаусс",
           "de": "Carl Friedrich Gauss wird geboren",
-          "en": "Carl Friedrich Gauss is born"
+          "en": "Carl Friedrich Gauss is born",
+          "fr": "Carl Friedrich Gauss naît",
+          "es": "Nace Carl Friedrich Gauss",
+          "it": "Nasce Carl Friedrich Gauss",
+          "pt": "Nasce Carl Friedrich Gauss",
+          "nl": "Carl Friedrich Gauss wordt geboren",
+          "pl": "Rodzi się Carl Friedrich Gauss",
+          "tr": "Carl Friedrich Gauss doğdu",
+          "zh": "卡尔·弗里德里希·高斯出生",
+          "ja": "カール・フリードリヒ・ガウスが生まれる",
+          "ko": "카를 프리드리히 가우스가 태어나다",
+          "hi": "कार्ल फ़्रीडरिख गाउस का जन्म हुआ",
+          "ar": "ولادة كارل فريدريش غاوس"
         },
         "description": {
           "ru": "30 апреля 1777 года в Брауншвейге родился Карл Фридрих Гаусс. Его часто называют одним из величайших математиков всех времён.",
           "de": "Am 30. April 1777 wurde Carl Friedrich Gauss in Braunschweig geboren. Er gilt als einer der groessten Mathematiker aller Zeiten.",
-          "en": "On 30 April 1777, Carl Friedrich Gauss was born in Brunswick. He is often regarded as one of the greatest mathematicians of all time."
+          "en": "On 30 April 1777, Carl Friedrich Gauss was born in Brunswick. He is often regarded as one of the greatest mathematicians of all time.",
+          "fr": "Le 30 avril 1777, Carl Friedrich Gauss naquit à Brunswick. Il est souvent considéré comme l'un des plus grands mathématiciens de tous les temps.",
+          "es": "El 30 de abril de 1777 nació Carl Friedrich Gauss en Brunswick. A menudo se le considera uno de los mayores matemáticos de todos los tiempos.",
+          "it": "Il 30 aprile 1777 Carl Friedrich Gauss nacque a Brunswick. È spesso considerato uno dei più grandi matematici di tutti i tempi.",
+          "pt": "Em 30 de abril de 1777 nasceu Carl Friedrich Gauss em Brunswick. É frequentemente considerado um dos maiores matemáticos de todos os tempos.",
+          "nl": "Op 30 april 1777 werd Carl Friedrich Gauss geboren in Brunswijk. Hij wordt vaak beschouwd als een van de grootste wiskundigen aller tijden.",
+          "pl": "30 kwietnia 1777 roku w Brunszwiku urodził się Carl Friedrich Gauss. Często uważa się go za jednego z największych matematyków wszech czasów.",
+          "tr": "30 Nisan 1777'de Carl Friedrich Gauss Braunschweig'da doğdu. Çoğu zaman tüm zamanların en büyük matematikçilerinden biri olarak kabul edilir.",
+          "zh": "1777年4月30日，卡尔·弗里德里希·高斯出生于不伦瑞克。他常被认为是有史以来最伟大的数学家之一。",
+          "ja": "1777年4月30日、カール・フリードリヒ・ガウスはブラウンシュヴァイクで生まれました。彼はしばしば史上最も偉大な数学者の一人と見なされています。",
+          "ko": "1777년 4월 30일, 카를 프리드리히 가우스가 브라운슈바이크에서 태어났습니다. 그는 흔히 역사상 가장 위대한 수학자 중 한 명으로 여겨집니다.",
+          "hi": "30 अप्रैल 1777 को कार्ल फ़्रीडरिख गाउस का जन्म ब्राउनश्वाइग में हुआ। उन्हें अक्सर सभी समय के महानतम गणितज्ञों में से एक माना जाता है।",
+          "ar": "في 30 أبريل 1777 وُلد كارل فريدريش غاوس في براونشفايغ. ويُعد غالبا أحد أعظم علماء الرياضيات في كل العصور."
         },
         "importance": {
           "ru": "Гаусс внёс вклад в теорию чисел, астрономию, геодезию, физику и статистику.",
           "de": "Gauss leistete Beitraege zur Zahlentheorie, Astronomie, Geodaesie, Physik und Statistik.",
-          "en": "Gauss contributed to number theory, astronomy, geodesy, physics and statistics."
+          "en": "Gauss contributed to number theory, astronomy, geodesy, physics and statistics.",
+          "fr": "Gauss apporta des contributions à la théorie des nombres, à l'astronomie, à la géodésie, à la physique et aux statistiques.",
+          "es": "Gauss hizo aportaciones a la teoría de números, la astronomía, la geodesia, la física y la estadística.",
+          "it": "Gauss diede contributi alla teoria dei numeri, all'astronomia, alla geodesia, alla fisica e alla statistica.",
+          "pt": "Gauss contribuiu para a teoria dos números, a astronomia, a geodesia, a física e a estatística.",
+          "nl": "Gauss leverde bijdragen aan getaltheorie, astronomie, geodesie, natuurkunde en statistiek.",
+          "pl": "Gauss wniósł wkład w teorię liczb, astronomię, geodezję, fizykę i statystykę.",
+          "tr": "Gauss sayı teorisine, astronomiye, jeodeziye, fiziğe ve istatistiğe katkıda bulundu.",
+          "zh": "高斯对数论、天文学、大地测量学、物理学和统计学都有贡献。",
+          "ja": "ガウスは数論、天文学、測地学、物理学、統計学に貢献しました。",
+          "ko": "가우스는 수론, 천문학, 측지학, 물리학, 통계학에 기여했습니다.",
+          "hi": "गाउस ने संख्या सिद्धांत, खगोल विज्ञान, भूगणित, भौतिकी और सांख्यिकी में योगदान दिया।",
+          "ar": "ساهم غاوس في نظرية الأعداد وعلم الفلك والجيوديسيا والفيزياء والإحصاء."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Бункер находился в центре Берлина, рядом с бывшей рейхсканцелярией.",
     "de": "Der Bunker lag im Zentrum Berlins, nahe der ehemaligen Reichskanzlei.",
-    "en": "The bunker was in central Berlin, near the former Reich Chancellery."
+    "en": "The bunker was in central Berlin, near the former Reich Chancellery.",
+    "fr": "Le bunker se trouvait au centre de Berlin, près de l'ancienne chancellerie du Reich.",
+    "es": "El búnker estaba en el centro de Berlín, cerca de la antigua Cancillería del Reich.",
+    "it": "Il bunker si trovava nel centro di Berlino, vicino all'ex Cancelleria del Reich.",
+    "pt": "O bunker ficava no centro de Berlim, perto da antiga Chancelaria do Reich.",
+    "nl": "De bunker lag in het centrum van Berlijn, bij de voormalige Rijkskanselarij.",
+    "pl": "Bunkier znajdował się w centrum Berlina, niedaleko dawnej Kancelarii Rzeszy.",
+    "tr": "Sığınak Berlin'in merkezinde, eski Reich Şansölyeliği'nin yakınındaydı.",
+    "zh": "地堡位于柏林市中心，靠近原帝国总理府。",
+    "ja": "地下壕はベルリン中心部、旧総統官邸の近くにありました。",
+    "ko": "벙커는 베를린 중심부, 옛 제국 총리관저 근처에 있었습니다.",
+    "hi": "बंकर बर्लिन के केंद्र में, पूर्व राइख चांसलरी के पास था।",
+    "ar": "كان القبو في وسط برلين قرب مستشارية الرايخ السابقة."
   },
   "sources": [
     {

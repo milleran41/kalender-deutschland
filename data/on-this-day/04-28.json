@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Дахау произошло антинацистское восстание",
       "de": "In Dachau kommt es zu einem antinationalsozialistischen Aufstand",
-      "en": "An anti-Nazi uprising takes place in Dachau"
+      "en": "An anti-Nazi uprising takes place in Dachau",
+      "fr": "Un soulèvement antinazi a lieu à Dachau",
+      "es": "Tiene lugar un levantamiento antinazi en Dachau",
+      "it": "A Dachau avviene una rivolta antinazista",
+      "pt": "Ocorre uma revolta antinazi em Dachau",
+      "nl": "In Dachau vindt een anti-nazi-opstand plaats",
+      "pl": "W Dachau wybucha powstanie antynazistowskie",
+      "tr": "Dachau'da Nazi karşıtı bir ayaklanma gerçekleşti",
+      "zh": "达豪发生反纳粹起义",
+      "ja": "ダッハウで反ナチ蜂起が起こる",
+      "ko": "다하우에서 반나치 봉기가 일어나다",
+      "hi": "डाखाउ में नाज़ी-विरोधी विद्रोह हुआ",
+      "ar": "وقوع انتفاضة مناهضة للنازية في داخاو"
     },
     "description": {
       "ru": "28 апреля 1945 года в городе Дахау заключённые, местные жители и дезертиры попытались обезвредить нацистских чиновников, SS и Volkssturm. Восстание было связано с «Свободной акцией Баварии» и произошло за день до освобождения концлагеря Дахау войсками США.",
       "de": "Am 28. April 1945 versuchten in der Stadt Dachau Haeftlinge, Einwohner und Deserteure, nationalsozialistische Funktionaere, SS und Volkssturm zu entmachten. Der Aufstand stand im Zusammenhang mit der Freiheitsaktion Bayern und fand einen Tag vor der Befreiung des Konzentrationslagers Dachau durch US-Truppen statt.",
-      "en": "On 28 April 1945, prisoners, local residents and deserters in the town of Dachau tried to disarm Nazi officials, SS and Volkssturm units. The uprising was connected with the Freedom Action Bavaria and took place one day before U.S. troops liberated Dachau concentration camp."
+      "en": "On 28 April 1945, prisoners, local residents and deserters in the town of Dachau tried to disarm Nazi officials, SS and Volkssturm units. The uprising was connected with the Freedom Action Bavaria and took place one day before U.S. troops liberated Dachau concentration camp.",
+      "fr": "Le 28 avril 1945, dans la ville de Dachau, des prisonniers, des habitants et des déserteurs tentèrent de désarmer des responsables nazis, des SS et des unités du Volkssturm. Le soulèvement était lié à l'Action pour la liberté de Bavière et eut lieu un jour avant la libération du camp de concentration de Dachau par les troupes américaines.",
+      "es": "El 28 de abril de 1945, prisioneros, vecinos y desertores de la ciudad de Dachau intentaron desarmar a funcionarios nazis, SS y unidades del Volkssturm. El levantamiento estuvo relacionado con la Acción Libertad de Baviera y ocurrió un día antes de que tropas estadounidenses liberaran el campo de concentración de Dachau.",
+      "it": "Il 28 aprile 1945, nella città di Dachau, prigionieri, abitanti locali e disertori tentarono di disarmare funzionari nazisti, SS e unità del Volkssturm. La rivolta era collegata all'Azione per la libertà della Baviera e avvenne un giorno prima della liberazione del campo di concentramento di Dachau da parte delle truppe statunitensi.",
+      "pt": "Em 28 de abril de 1945, na cidade de Dachau, prisioneiros, moradores locais e desertores tentaram desarmar funcionários nazis, SS e unidades do Volkssturm. A revolta estava ligada à Ação pela Liberdade da Baviera e ocorreu um dia antes de tropas dos EUA libertarem o campo de concentração de Dachau.",
+      "nl": "Op 28 april 1945 probeerden gevangenen, inwoners en deserteurs in de stad Dachau nazi-functionarissen, SS'ers en Volkssturm-eenheden te ontwapenen. De opstand stond in verband met de Freiheitsaktion Bayern en vond plaats één dag voordat Amerikaanse troepen concentratiekamp Dachau bevrijdden.",
+      "pl": "28 kwietnia 1945 roku w mieście Dachau więźniowie, miejscowi mieszkańcy i dezerterzy próbowali rozbroić nazistowskich funkcjonariuszy, SS i oddziały Volkssturmu. Powstanie było związane z Akcją Wolności Bawarii i miało miejsce dzień przed wyzwoleniem obozu koncentracyjnego Dachau przez wojska USA.",
+      "tr": "28 Nisan 1945'te Dachau kentinde mahkûmlar, yerel halk ve firariler Nazi görevlilerini, SS'i ve Volkssturm birliklerini silahsızlandırmaya çalıştı. Ayaklanma Bavyera Özgürlük Eylemi ile bağlantılıydı ve ABD birliklerinin Dachau toplama kampını kurtarmasından bir gün önce gerçekleşti.",
+      "zh": "1945年4月28日，达豪镇的囚犯、当地居民和逃兵试图解除纳粹官员、党卫队和国民冲锋队的武装。这次起义与“巴伐利亚自由行动”有关，发生在美军解放达豪集中营的前一天。",
+      "ja": "1945年4月28日、ダッハウの町で囚人、地元住民、脱走兵がナチスの役人、SS、国民突撃隊の武装解除を試みました。この蜂起は「バイエルン自由行動」と関係しており、米軍がダッハウ強制収容所を解放する前日に起こりました。",
+      "ko": "1945년 4월 28일, 다하우 시에서 수감자, 지역 주민, 탈영병들이 나치 관리, SS, 국민돌격대 부대를 무장 해제하려 했습니다. 이 봉기는 바이에른 자유 행동과 연결되어 있었고, 미군이 다하우 강제수용소를 해방하기 하루 전에 일어났습니다.",
+      "hi": "28 अप्रैल 1945 को डाखाउ शहर में कैदियों, स्थानीय निवासियों और भगोड़ों ने नाज़ी अधिकारियों, एसएस और Volkssturm इकाइयों को निशस्त्र करने की कोशिश की। यह विद्रोह Freedom Action Bavaria से जुड़ा था और अमेरिकी सैनिकों द्वारा डाखाउ एकाग्रता शिविर मुक्त करने से एक दिन पहले हुआ।",
+      "ar": "في 28 أبريل 1945 حاول سجناء وسكان محليون وفارون من الخدمة في مدينة داخاو نزع سلاح مسؤولين نازيين وقوات SS ووحدات فولكسشتورم. ارتبطت الانتفاضة بحركة حرية بافاريا ووقعت قبل يوم واحد من تحرير القوات الأمريكية لمعسكر اعتقال داخاو."
     },
     "importance": {
       "ru": "Дата показывает, что в последние дни войны сопротивление нацизму возникало даже там, где риск был смертельным.",
       "de": "Das Datum zeigt, dass in den letzten Kriegstagen Widerstand gegen den Nationalsozialismus selbst dort entstand, wo das Risiko toedlich war.",
-      "en": "The date shows that in the final days of the war, resistance to Nazism emerged even where the risk was deadly."
+      "en": "The date shows that in the final days of the war, resistance to Nazism emerged even where the risk was deadly.",
+      "fr": "Cette date montre que, dans les derniers jours de la guerre, la résistance au nazisme apparut même là où le risque était mortel.",
+      "es": "La fecha muestra que en los últimos días de la guerra surgió resistencia al nazismo incluso donde el riesgo era mortal.",
+      "it": "La data mostra che negli ultimi giorni della guerra la resistenza al nazismo emerse anche dove il rischio era mortale.",
+      "pt": "A data mostra que nos últimos dias da guerra a resistência ao nazismo surgiu mesmo onde o risco era mortal.",
+      "nl": "Deze datum laat zien dat in de laatste oorlogsdagen verzet tegen het nazisme ontstond, zelfs waar het risico dodelijk was.",
+      "pl": "Ta data pokazuje, że w ostatnich dniach wojny opór wobec nazizmu pojawiał się nawet tam, gdzie ryzyko było śmiertelne.",
+      "tr": "Bu tarih, savaşın son günlerinde Nazizme karşı direnişin riskin ölümcül olduğu yerlerde bile ortaya çıktığını gösterir.",
+      "zh": "这个日期显示，在战争最后几天，即使风险致命，也有人反抗纳粹主义。",
+      "ja": "この日付は、戦争の最後の日々に、命に関わる危険がある場所でさえナチズムへの抵抗が生まれたことを示しています。",
+      "ko": "이 날짜는 전쟁 마지막 날들에 위험이 치명적인 곳에서도 나치즘에 대한 저항이 나타났음을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि युद्ध के अंतिम दिनों में नाज़ीवाद के विरुद्ध प्रतिरोध वहाँ भी उठा जहाँ जोखिम जानलेवा था।",
+      "ar": "يبين هذا التاريخ أنه في الأيام الأخيرة من الحرب ظهر مقاومون للنازية حتى في أماكن كان الخطر فيها قاتلا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Свободная акция Баварии»",
           "de": "Freiheitsaktion Bayern",
-          "en": "Freedom Action Bavaria"
+          "en": "Freedom Action Bavaria",
+          "fr": "Action pour la liberté de Bavière",
+          "es": "Acción Libertad de Baviera",
+          "it": "Azione per la libertà della Baviera",
+          "pt": "Ação pela Liberdade da Baviera",
+          "nl": "Freiheitsaktion Bayern",
+          "pl": "Akcja Wolności Bawarii",
+          "tr": "Bavyera Özgürlük Eylemi",
+          "zh": "巴伐利亚自由行动",
+          "ja": "バイエルン自由行動",
+          "ko": "바이에른 자유 행동",
+          "hi": "बावेरिया स्वतंत्रता कार्रवाई",
+          "ar": "حركة حرية بافاريا"
         },
         "description": {
           "ru": "В ночь с 27 на 28 апреля группа военных и гражданских противников режима попыталась призвать Баварию к сопротивлению через радио. В разных местах южной Баварии это вызвало локальные выступления против нацистской власти.",
           "de": "In der Nacht vom 27. auf den 28. April versuchte eine Gruppe militaerischer und ziviler Gegner des Regimes, Bayern ueber den Rundfunk zum Widerstand aufzurufen. An verschiedenen Orten Suedbayerns loeste dies lokale Aktionen gegen die NS-Herrschaft aus.",
-          "en": "During the night of 27 to 28 April, a group of military and civilian opponents of the regime tried to call Bavaria to resistance by radio. In several places in southern Bavaria, this triggered local actions against Nazi rule."
+          "en": "During the night of 27 to 28 April, a group of military and civilian opponents of the regime tried to call Bavaria to resistance by radio. In several places in southern Bavaria, this triggered local actions against Nazi rule.",
+          "fr": "Dans la nuit du 27 au 28 avril, un groupe d'opposants militaires et civils au régime tenta d'appeler la Bavière à la résistance par radio. En plusieurs endroits du sud de la Bavière, cela déclencha des actions locales contre le pouvoir nazi.",
+          "es": "Durante la noche del 27 al 28 de abril, un grupo de opositores militares y civiles al régimen intentó llamar a Baviera a la resistencia por radio. En varios lugares del sur de Baviera, esto desencadenó acciones locales contra el dominio nazi.",
+          "it": "Nella notte tra il 27 e il 28 aprile, un gruppo di oppositori militari e civili del regime tentò di chiamare la Baviera alla resistenza via radio. In diversi luoghi della Baviera meridionale ciò provocò azioni locali contro il dominio nazista.",
+          "pt": "Na noite de 27 para 28 de abril, um grupo de opositores militares e civis do regime tentou chamar a Baviera à resistência pelo rádio. Em vários locais do sul da Baviera, isso desencadeou ações locais contra o domínio nazi.",
+          "nl": "In de nacht van 27 op 28 april probeerde een groep militaire en burgerlijke tegenstanders van het regime Beieren via de radio tot verzet op te roepen. Op verschillende plaatsen in Zuid-Beieren leidde dit tot lokale acties tegen de nazi-heerschappij.",
+          "pl": "W nocy z 27 na 28 kwietnia grupa wojskowych i cywilnych przeciwników reżimu próbowała przez radio wezwać Bawarię do oporu. W kilku miejscach południowej Bawarii wywołało to lokalne działania przeciw władzy nazistów.",
+          "tr": "27'yi 28 Nisan'a bağlayan gece, rejimin askeri ve sivil muhaliflerinden oluşan bir grup radyoyla Bavyera'yı direnişe çağırmaya çalıştı. Güney Bavyera'nın çeşitli yerlerinde bu, Nazi yönetimine karşı yerel eylemleri tetikledi.",
+          "zh": "4月27日至28日夜间，一群军人和平民反对者试图通过广播号召巴伐利亚抵抗。在南巴伐利亚的多个地方，这引发了反对纳粹统治的地方行动。",
+          "ja": "4月27日から28日にかけての夜、軍人と民間人の反体制派の一団がラジオでバイエルンに抵抗を呼びかけようとしました。南バイエルンのいくつかの場所で、これはナチ支配に対する地域の行動を引き起こしました。",
+          "ko": "4월 27일에서 28일로 넘어가는 밤, 군인과 민간인 반대자들의 한 집단이 라디오를 통해 바이에른에 저항을 촉구하려 했습니다. 남부 바이에른의 여러 곳에서 이는 나치 지배에 맞선 지역 행동을 촉발했습니다.",
+          "hi": "27 से 28 अप्रैल की रात, शासन के सैन्य और नागरिक विरोधियों के एक समूह ने रेडियो से बावेरिया को प्रतिरोध के लिए बुलाने की कोशिश की। दक्षिणी बावेरिया के कई स्थानों पर इससे नाज़ी शासन के विरुद्ध स्थानीय कार्रवाइयाँ शुरू हुईं।",
+          "ar": "في ليلة 27 إلى 28 أبريل حاولت مجموعة من المعارضين العسكريين والمدنيين للنظام دعوة بافاريا إلى المقاومة عبر الإذاعة. وفي عدة أماكن في جنوب بافاريا أدى ذلك إلى تحركات محلية ضد الحكم النازي."
         },
         "importance": {
           "ru": "Так видно, что конец диктатуры состоял не только из наступления союзников, но и из действий людей внутри Германии.",
           "de": "So wird sichtbar, dass das Ende der Diktatur nicht nur aus dem Vormarsch der Alliierten bestand, sondern auch aus Handlungen von Menschen in Deutschland.",
-          "en": "It shows that the end of the dictatorship consisted not only of the Allied advance, but also of actions by people inside Germany."
+          "en": "It shows that the end of the dictatorship consisted not only of the Allied advance, but also of actions by people inside Germany.",
+          "fr": "Cela montre que la fin de la dictature ne fut pas seulement l'avance des Alliés, mais aussi les actions de personnes à l'intérieur de l'Allemagne.",
+          "es": "Muestra que el final de la dictadura no consistió solo en el avance aliado, sino también en acciones de personas dentro de Alemania.",
+          "it": "Mostra che la fine della dittatura non consistette solo nell'avanzata degli Alleati, ma anche nelle azioni di persone dentro la Germania.",
+          "pt": "Mostra que o fim da ditadura não consistiu apenas no avanço dos Aliados, mas também em ações de pessoas dentro da Alemanha.",
+          "nl": "Het laat zien dat het einde van de dictatuur niet alleen uit de opmars van de geallieerden bestond, maar ook uit acties van mensen binnen Duitsland.",
+          "pl": "Pokazuje to, że koniec dyktatury składał się nie tylko z marszu aliantów, lecz także z działań ludzi wewnątrz Niemiec.",
+          "tr": "Bu, diktatörlüğün sonunun yalnızca Müttefik ilerleyişinden değil, Almanya içindeki insanların eylemlerinden de oluştuğunu gösterir.",
+          "zh": "这表明，独裁的终结不仅来自盟军推进，也来自德国国内人们的行动。",
+          "ja": "これは、独裁の終わりが連合軍の進撃だけでなく、ドイツ国内の人々の行動からも成っていたことを示しています。",
+          "ko": "이는 독재의 끝이 연합군의 진격뿐 아니라 독일 내부 사람들의 행동으로도 이루어졌음을 보여 줍니다.",
+          "hi": "यह दिखाता है कि तानाशाही का अंत केवल मित्र राष्ट्रों की बढ़त से नहीं, बल्कि जर्मनी के भीतर लोगों के कार्यों से भी बना।",
+          "ar": "يُظهر ذلك أن نهاية الدكتاتورية لم تتكون من تقدم الحلفاء فقط، بل أيضا من أفعال أشخاص داخل ألمانيا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "За день до освобождения",
           "de": "Einen Tag vor der Befreiung",
-          "en": "One day before liberation"
+          "en": "One day before liberation",
+          "fr": "Un jour avant la libération",
+          "es": "Un día antes de la liberación",
+          "it": "Un giorno prima della liberazione",
+          "pt": "Um dia antes da libertação",
+          "nl": "Een dag voor de bevrijding",
+          "pl": "Dzień przed wyzwoleniem",
+          "tr": "Kurtuluştan bir gün önce",
+          "zh": "解放前一天",
+          "ja": "解放の前日",
+          "ko": "해방 하루 전",
+          "hi": "मुक्ति से एक दिन पहले",
+          "ar": "قبل التحرير بيوم واحد"
         },
         "description": {
           "ru": "На следующий день, 29 апреля, американские войска освободили концентрационный лагерь Дахау. Поэтому 28 апреля выглядит как напряжённый последний момент перед концом местной нацистской власти.",
           "de": "Am folgenden Tag, dem 29. April, befreiten amerikanische Truppen das Konzentrationslager Dachau. Der 28. April wirkt deshalb wie ein gespannter letzter Moment vor dem Ende der lokalen NS-Herrschaft.",
-          "en": "The next day, 29 April, American troops liberated Dachau concentration camp. This makes 28 April feel like a tense final moment before the end of local Nazi rule."
+          "en": "The next day, 29 April, American troops liberated Dachau concentration camp. This makes 28 April feel like a tense final moment before the end of local Nazi rule.",
+          "fr": "Le lendemain, 29 avril, les troupes américaines libérèrent le camp de concentration de Dachau. Le 28 avril apparaît donc comme un dernier moment tendu avant la fin du pouvoir nazi local.",
+          "es": "Al día siguiente, 29 de abril, tropas estadounidenses liberaron el campo de concentración de Dachau. Por eso el 28 de abril parece un último momento tenso antes del fin del poder nazi local.",
+          "it": "Il giorno seguente, 29 aprile, le truppe americane liberarono il campo di concentramento di Dachau. Per questo il 28 aprile appare come un ultimo momento teso prima della fine del potere nazista locale.",
+          "pt": "No dia seguinte, 29 de abril, tropas americanas libertaram o campo de concentração de Dachau. Por isso, 28 de abril parece um último momento tenso antes do fim do poder nazi local.",
+          "nl": "De volgende dag, 29 april, bevrijdden Amerikaanse troepen concentratiekamp Dachau. Daardoor voelt 28 april als een gespannen laatste moment vóór het einde van de lokale nazi-heerschappij.",
+          "pl": "Następnego dnia, 29 kwietnia, wojska amerykańskie wyzwoliły obóz koncentracyjny Dachau. Dlatego 28 kwietnia wydaje się napiętym ostatnim momentem przed końcem lokalnej władzy nazistów.",
+          "tr": "Ertesi gün, 29 Nisan'da Amerikan birlikleri Dachau toplama kampını kurtardı. Bu nedenle 28 Nisan, yerel Nazi yönetiminin sonundan önceki gergin son an gibi görünür.",
+          "zh": "第二天，4月29日，美军解放了达豪集中营。因此4月28日就像地方纳粹统治结束前紧张的最后时刻。",
+          "ja": "翌日の4月29日、アメリカ軍はダッハウ強制収容所を解放しました。そのため4月28日は、地域のナチ支配が終わる直前の緊迫した最後の瞬間のように見えます。",
+          "ko": "다음 날인 4월 29일, 미군은 다하우 강제수용소를 해방했습니다. 그래서 4월 28일은 지역 나치 지배가 끝나기 전의 긴장된 마지막 순간처럼 느껴집니다.",
+          "hi": "अगले दिन, 29 अप्रैल को, अमेरिकी सैनिकों ने डाखाउ एकाग्रता शिविर को मुक्त किया। इसलिए 28 अप्रैल स्थानीय नाज़ी सत्ता के अंत से पहले का तनावपूर्ण अंतिम क्षण लगता है।",
+          "ar": "في اليوم التالي، 29 أبريل، حررت القوات الأمريكية معسكر اعتقال داخاو. لذلك يبدو 28 أبريل كأنه لحظة أخيرة متوترة قبل نهاية الحكم النازي المحلي."
         },
         "importance": {
           "ru": "Иногда один день в календаре отделяет смертельный риск от освобождения.",
           "de": "Manchmal trennt ein einziger Kalendertag toedliches Risiko von Befreiung.",
-          "en": "Sometimes a single calendar day separates deadly risk from liberation."
+          "en": "Sometimes a single calendar day separates deadly risk from liberation.",
+          "fr": "Parfois, un seul jour de calendrier sépare le risque mortel de la libération.",
+          "es": "A veces un solo día del calendario separa el riesgo mortal de la liberación.",
+          "it": "A volte un solo giorno di calendario separa il rischio mortale dalla liberazione.",
+          "pt": "Às vezes, um único dia do calendário separa o risco mortal da libertação.",
+          "nl": "Soms scheidt één kalenderdag dodelijk risico van bevrijding.",
+          "pl": "Czasem jeden dzień w kalendarzu oddziela śmiertelne ryzyko od wyzwolenia.",
+          "tr": "Bazen tek bir takvim günü ölümcül riski kurtuluştan ayırır.",
+          "zh": "有时，日历上的一天就把致命风险与解放分隔开。",
+          "ja": "時には、たった一日の暦の日付が、命に関わる危険と解放を分けます。",
+          "ko": "때로는 달력의 단 하루가 치명적 위험과 해방을 가릅니다.",
+          "hi": "कभी-कभी कैलेंडर का एक ही दिन जानलेवा जोखिम और मुक्ति को अलग करता है।",
+          "ar": "أحيانا يفصل يوم تقويمي واحد بين خطر قاتل والتحرير."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Дахау находится в Баварии, недалеко от Мюнхена.",
     "de": "Dachau liegt in Bayern, nahe Muenchen.",
-    "en": "Dachau is in Bavaria, near Munich."
+    "en": "Dachau is in Bavaria, near Munich.",
+    "fr": "Dachau se trouve en Bavière, près de Munich.",
+    "es": "Dachau está en Baviera, cerca de Múnich.",
+    "it": "Dachau si trova in Baviera, vicino a Monaco.",
+    "pt": "Dachau fica na Baviera, perto de Munique.",
+    "nl": "Dachau ligt in Beieren, bij München.",
+    "pl": "Dachau leży w Bawarii, niedaleko Monachium.",
+    "tr": "Dachau, Münih yakınlarında Bavyera'dadır.",
+    "zh": "达豪位于巴伐利亚，靠近慕尼黑。",
+    "ja": "ダッハウはミュンヘン近郊のバイエルンにあります。",
+    "ko": "다하우는 뮌헨 근처 바이에른에 있습니다.",
+    "hi": "डाखाउ बावेरिया में, म्यूनिख के पास स्थित है।",
+    "ar": "تقع داخاو في بافاريا قرب ميونيخ."
   },
   "sources": [
     {

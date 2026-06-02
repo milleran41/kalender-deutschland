@@ -11,17 +11,53 @@
     "title": {
       "ru": "Освобождён концлагерь Дахау",
       "de": "Das Konzentrationslager Dachau wird befreit",
-      "en": "Dachau concentration camp is liberated"
+      "en": "Dachau concentration camp is liberated",
+      "fr": "Le camp de concentration de Dachau est libéré",
+      "es": "Es liberado el campo de concentración de Dachau",
+      "it": "Viene liberato il campo di concentramento di Dachau",
+      "pt": "O campo de concentração de Dachau é libertado",
+      "nl": "Concentratiekamp Dachau wordt bevrijd",
+      "pl": "Wyzwolono obóz koncentracyjny Dachau",
+      "tr": "Dachau toplama kampı kurtarıldı",
+      "zh": "达豪集中营获解放",
+      "ja": "ダッハウ強制収容所が解放される",
+      "ko": "다하우 강제수용소가 해방되다",
+      "hi": "डाखाउ एकाग्रता शिविर मुक्त हुआ",
+      "ar": "تحرير معسكر الاعتقال داخاو"
     },
     "description": {
       "ru": "29 апреля 1945 года американские войска освободили концлагерь Дахау близ Мюнхена. Освободители обнаружили десятки тысяч узников и доказательства преступлений нацистской лагерной системы.",
       "de": "Am 29. April 1945 befreiten amerikanische Truppen das Konzentrationslager Dachau bei Muenchen. Die Befreier fanden Zehntausende Haeftlinge und Beweise fuer die Verbrechen des nationalsozialistischen Lagersystems.",
-      "en": "On 29 April 1945, American troops liberated Dachau concentration camp near Munich. The liberators found tens of thousands of prisoners and evidence of the crimes of the Nazi camp system."
+      "en": "On 29 April 1945, American troops liberated Dachau concentration camp near Munich. The liberators found tens of thousands of prisoners and evidence of the crimes of the Nazi camp system.",
+      "fr": "Le 29 avril 1945, les troupes américaines libérèrent le camp de concentration de Dachau près de Munich. Les libérateurs y trouvèrent des dizaines de milliers de prisonniers et des preuves des crimes du système concentrationnaire nazi.",
+      "es": "El 29 de abril de 1945, tropas estadounidenses liberaron el campo de concentración de Dachau, cerca de Múnich. Los liberadores encontraron decenas de miles de prisioneros y pruebas de los crímenes del sistema de campos nazi.",
+      "it": "Il 29 aprile 1945 le truppe americane liberarono il campo di concentramento di Dachau vicino a Monaco. I liberatori trovarono decine di migliaia di prigionieri e prove dei crimini del sistema dei campi nazisti.",
+      "pt": "Em 29 de abril de 1945, tropas americanas libertaram o campo de concentração de Dachau, perto de Munique. Os libertadores encontraram dezenas de milhares de prisioneiros e provas dos crimes do sistema de campos nazi.",
+      "nl": "Op 29 april 1945 bevrijdden Amerikaanse troepen concentratiekamp Dachau bij München. De bevrijders vonden tienduizenden gevangenen en bewijzen van de misdaden van het nazistische kampsysteem.",
+      "pl": "29 kwietnia 1945 roku wojska amerykańskie wyzwoliły obóz koncentracyjny Dachau koło Monachium. Wyzwoliciele znaleźli dziesiątki tysięcy więźniów i dowody zbrodni nazistowskiego systemu obozowego.",
+      "tr": "29 Nisan 1945'te Amerikan birlikleri Münih yakınlarındaki Dachau toplama kampını kurtardı. Kurtarıcılar on binlerce mahkûm ve Nazi kamp sisteminin suçlarına dair kanıtlar buldu.",
+      "zh": "1945年4月29日，美军解放了慕尼黑附近的达豪集中营。解放者发现了数万名囚犯，以及纳粹集中营体系罪行的证据。",
+      "ja": "1945年4月29日、アメリカ軍はミュンヘン近郊のダッハウ強制収容所を解放しました。解放者たちは数万人の囚人と、ナチスの収容所制度の犯罪を示す証拠を発見しました。",
+      "ko": "1945년 4월 29일, 미군은 뮌헨 근처의 다하우 강제수용소를 해방했습니다. 해방군은 수만 명의 수감자와 나치 수용소 체계 범죄의 증거를 발견했습니다.",
+      "hi": "29 अप्रैल 1945 को अमेरिकी सैनिकों ने म्यूनिख के पास डाखाउ एकाग्रता शिविर को मुक्त किया। मुक्त कराने वालों ने दसियों हजार कैदियों और नाज़ी शिविर व्यवस्था के अपराधों के प्रमाण पाए।",
+      "ar": "في 29 أبريل 1945 حررت القوات الأمريكية معسكر اعتقال داخاو قرب ميونيخ. وجد المحررون عشرات الآلاف من السجناء وأدلة على جرائم نظام المعسكرات النازي."
     },
     "importance": {
       "ru": "Дахау был одним из первых концлагерей нацистского режима и стал символом террора, начавшегося уже в 1933 году.",
       "de": "Dachau war eines der ersten Konzentrationslager des NS-Regimes und wurde zum Symbol des Terrors, der bereits 1933 begann.",
-      "en": "Dachau was one of the first concentration camps of the Nazi regime and became a symbol of the terror that began as early as 1933."
+      "en": "Dachau was one of the first concentration camps of the Nazi regime and became a symbol of the terror that began as early as 1933.",
+      "fr": "Dachau fut l'un des premiers camps de concentration du régime nazi et devint un symbole de la terreur commencée dès 1933.",
+      "es": "Dachau fue uno de los primeros campos de concentración del régimen nazi y se convirtió en símbolo del terror que comenzó ya en 1933.",
+      "it": "Dachau fu uno dei primi campi di concentramento del regime nazista e divenne un simbolo del terrore iniziato già nel 1933.",
+      "pt": "Dachau foi um dos primeiros campos de concentração do regime nazi e tornou-se símbolo do terror que começou já em 1933.",
+      "nl": "Dachau was een van de eerste concentratiekampen van het naziregime en werd een symbool van de terreur die al in 1933 begon.",
+      "pl": "Dachau było jednym z pierwszych obozów koncentracyjnych reżimu nazistowskiego i stało się symbolem terroru, który rozpoczął się już w 1933 roku.",
+      "tr": "Dachau, Nazi rejiminin ilk toplama kamplarından biriydi ve 1933 gibi erken bir tarihte başlayan terörün sembolü oldu.",
+      "zh": "达豪是纳粹政权最早的集中营之一，并成为早在1933年就开始的恐怖统治的象征。",
+      "ja": "ダッハウはナチス政権の最初期の強制収容所の一つであり、1933年にはすでに始まっていた恐怖の象徴となりました。",
+      "ko": "다하우는 나치 정권의 최초 강제수용소 중 하나였으며, 이미 1933년에 시작된 테러의 상징이 되었습니다.",
+      "hi": "डाखाउ नाज़ी शासन के पहले एकाग्रता शिविरों में से एक था और 1933 में ही शुरू हुए आतंक का प्रतीक बन गया।",
+      "ar": "كان داخاو أحد أوائل معسكرات الاعتقال في النظام النازي وأصبح رمزا للرعب الذي بدأ منذ عام 1933."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Освобождение и свидетельства",
           "de": "Befreiung und Zeugnisse",
-          "en": "Liberation and evidence"
+          "en": "Liberation and evidence",
+          "fr": "Libération et témoignages",
+          "es": "Liberación y pruebas",
+          "it": "Liberazione e prove",
+          "pt": "Libertação e provas",
+          "nl": "Bevrijding en getuigenissen",
+          "pl": "Wyzwolenie i świadectwa",
+          "tr": "Kurtuluş ve kanıtlar",
+          "zh": "解放与证据",
+          "ja": "解放と証拠",
+          "ko": "해방과 증거",
+          "hi": "मुक्ति और प्रमाण",
+          "ar": "التحرير والأدلة"
         },
         "description": {
           "ru": "Фотографии, отчёты и показания о Дахау помогли миру увидеть реальность нацистских преступлений. Освобождение лагеря не отменяло страданий выживших, но стало концом многолетнего террора для тысяч людей.",
           "de": "Fotos, Berichte und Aussagen aus Dachau halfen der Welt, die Realitaet der NS-Verbrechen zu erkennen. Die Befreiung des Lagers nahm den Ueberlebenden ihr Leid nicht, beendete aber fuer Tausende den jahrelangen Terror.",
-          "en": "Photographs, reports and testimony from Dachau helped the world see the reality of Nazi crimes. The liberation did not erase survivors' suffering, but it ended years of terror for thousands."
+          "en": "Photographs, reports and testimony from Dachau helped the world see the reality of Nazi crimes. The liberation did not erase survivors' suffering, but it ended years of terror for thousands.",
+          "fr": "Les photographies, rapports et témoignages de Dachau aidèrent le monde à voir la réalité des crimes nazis. La libération n'effaça pas les souffrances des survivants, mais elle mit fin à des années de terreur pour des milliers de personnes.",
+          "es": "Fotografías, informes y testimonios de Dachau ayudaron al mundo a ver la realidad de los crímenes nazis. La liberación no borró el sufrimiento de los supervivientes, pero puso fin a años de terror para miles de personas.",
+          "it": "Fotografie, rapporti e testimonianze da Dachau aiutarono il mondo a vedere la realtà dei crimini nazisti. La liberazione non cancellò la sofferenza dei sopravvissuti, ma pose fine ad anni di terrore per migliaia di persone.",
+          "pt": "Fotografias, relatórios e testemunhos de Dachau ajudaram o mundo a ver a realidade dos crimes nazis. A libertação não apagou o sofrimento dos sobreviventes, mas pôs fim a anos de terror para milhares de pessoas.",
+          "nl": "Foto's, rapporten en getuigenissen uit Dachau hielpen de wereld de werkelijkheid van nazi-misdaden te zien. De bevrijding wiste het lijden van overlevenden niet uit, maar maakte voor duizenden een einde aan jaren van terreur.",
+          "pl": "Fotografie, raporty i zeznania z Dachau pomogły światu zobaczyć rzeczywistość zbrodni nazistowskich. Wyzwolenie nie wymazało cierpienia ocalałych, ale zakończyło lata terroru dla tysięcy ludzi.",
+          "tr": "Dachau'dan fotoğraflar, raporlar ve tanıklıklar dünyanın Nazi suçlarının gerçekliğini görmesine yardım etti. Kurtuluş, hayatta kalanların acısını silmedi, ancak binlerce insan için yıllar süren terörü sona erdirdi.",
+          "zh": "来自达豪的照片、报告和证词帮助世界看清纳粹罪行的现实。解放并没有抹去幸存者的痛苦，但结束了数千人多年的恐怖遭遇。",
+          "ja": "ダッハウの写真、報告、証言は、世界がナチスの犯罪の現実を見る助けとなりました。解放は生存者の苦しみを消し去ったわけではありませんが、数千人にとって何年にも及ぶ恐怖を終わらせました。",
+          "ko": "다하우의 사진, 보고서, 증언은 세계가 나치 범죄의 현실을 보게 도왔습니다. 해방이 생존자들의 고통을 지운 것은 아니지만, 수천 명에게 수년간의 공포를 끝냈습니다.",
+          "hi": "डाखाउ की तस्वीरों, रिपोर्टों और गवाहियों ने दुनिया को नाज़ी अपराधों की वास्तविकता देखने में मदद की। मुक्ति ने बचे लोगों के दुख को मिटाया नहीं, लेकिन हजारों लोगों के लिए वर्षों के आतंक को समाप्त किया।",
+          "ar": "ساعدت الصور والتقارير والشهادات من داخاو العالم على رؤية حقيقة الجرائم النازية. لم يمح التحرير معاناة الناجين، لكنه أنهى سنوات من الرعب لآلاف الأشخاص."
         },
         "importance": {
           "ru": "Дата помогает говорить о конце войны через судьбы конкретных людей, а не только через линии фронта.",
           "de": "Das Datum hilft, ueber das Kriegsende anhand konkreter Menschen und nicht nur anhand von Frontlinien zu sprechen.",
-          "en": "The date helps discuss the end of the war through individual human fates, not only through front lines."
+          "en": "The date helps discuss the end of the war through individual human fates, not only through front lines.",
+          "fr": "Cette date aide à parler de la fin de la guerre à travers des destins humains concrets, et pas seulement à travers les lignes de front.",
+          "es": "La fecha ayuda a hablar del final de la guerra a través de destinos humanos concretos, no solo mediante líneas de frente.",
+          "it": "La data aiuta a parlare della fine della guerra attraverso destini umani concreti, non solo attraverso le linee del fronte.",
+          "pt": "A data ajuda a falar do fim da guerra através de destinos humanos concretos, não apenas por linhas de frente.",
+          "nl": "Deze datum helpt om over het einde van de oorlog te spreken via concrete menselijke lotgevallen, niet alleen via frontlinies.",
+          "pl": "Ta data pomaga mówić o końcu wojny przez konkretne ludzkie losy, a nie tylko przez linie frontu.",
+          "tr": "Bu tarih, savaşın sonunu yalnızca cephe hatlarıyla değil, tek tek insanların kaderleri üzerinden konuşmaya yardımcı olur.",
+          "zh": "这个日期有助于通过具体个人的命运，而不仅仅通过战线来谈论战争的结束。",
+          "ja": "この日付は、前線だけでなく、具体的な人々の運命を通じて戦争の終わりを語る助けになります。",
+          "ko": "이 날짜는 전쟁의 끝을 전선뿐 아니라 구체적인 개인의 운명을 통해 이야기하도록 도와줍니다.",
+          "hi": "यह तारीख युद्ध के अंत पर केवल मोर्चों से नहीं, बल्कि ठोस लोगों के भाग्य से बात करने में मदद करती है।",
+          "ar": "يساعد هذا التاريخ على مناقشة نهاية الحرب من خلال مصائر بشرية محددة، لا من خلال خطوط الجبهة فقط."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Первый лагерь освобождали одним из последних",
           "de": "Das erste Lager wurde spaet befreit",
-          "en": "The first camp was liberated late"
+          "en": "The first camp was liberated late",
+          "fr": "Le premier camp fut libéré tard",
+          "es": "El primer campo fue liberado tarde",
+          "it": "Il primo campo fu liberato tardi",
+          "pt": "O primeiro campo foi libertado tarde",
+          "nl": "Het eerste kamp werd laat bevrijd",
+          "pl": "Pierwszy obóz wyzwolono późno",
+          "tr": "İlk kamp geç kurtarıldı",
+          "zh": "第一个集中营解放得很晚",
+          "ja": "最初の収容所は遅く解放された",
+          "ko": "첫 수용소는 늦게 해방되었다",
+          "hi": "पहला शिविर देर से मुक्त हुआ",
+          "ar": "تحرر المعسكر الأول متأخرا"
         },
         "description": {
           "ru": "Дахау открылся ещё в марте 1933 года, почти сразу после прихода нацистов к власти. Но освобождён он был только в последние дни войны в Европе.",
           "de": "Dachau wurde schon im Maerz 1933 eroeffnet, fast unmittelbar nach der Machtuebernahme der Nationalsozialisten. Befreit wurde es aber erst in den letzten Kriegstagen in Europa.",
-          "en": "Dachau opened in March 1933, almost immediately after the Nazis came to power. Yet it was liberated only in the final days of the war in Europe."
+          "en": "Dachau opened in March 1933, almost immediately after the Nazis came to power. Yet it was liberated only in the final days of the war in Europe.",
+          "fr": "Dachau ouvrit en mars 1933, presque immédiatement après l'arrivée des nazis au pouvoir. Pourtant, il ne fut libéré que dans les derniers jours de la guerre en Europe.",
+          "es": "Dachau abrió en marzo de 1933, casi inmediatamente después de que los nazis llegaran al poder. Sin embargo, solo fue liberado en los últimos días de la guerra en Europa.",
+          "it": "Dachau aprì nel marzo 1933, quasi subito dopo l'arrivo dei nazisti al potere. Eppure fu liberato solo negli ultimi giorni della guerra in Europa.",
+          "pt": "Dachau abriu em março de 1933, quase imediatamente depois de os nazis chegarem ao poder. No entanto, só foi libertado nos últimos dias da guerra na Europa.",
+          "nl": "Dachau werd in maart 1933 geopend, bijna direct nadat de nazi's aan de macht kwamen. Toch werd het pas in de laatste oorlogsdagen in Europa bevrijd.",
+          "pl": "Dachau otwarto w marcu 1933 roku, niemal natychmiast po dojściu nazistów do władzy. Wyzwolono je jednak dopiero w ostatnich dniach wojny w Europie.",
+          "tr": "Dachau Mart 1933'te, Nazilerin iktidara gelmesinden neredeyse hemen sonra açıldı. Buna rağmen ancak Avrupa'daki savaşın son günlerinde kurtarıldı.",
+          "zh": "达豪于1933年3月开放，几乎就在纳粹上台后不久。然而，它直到欧洲战争最后几天才获解放。",
+          "ja": "ダッハウは1933年3月、ナチスが権力を握った直後に開設されました。それでも解放されたのは、ヨーロッパでの戦争の最後の日々でした。",
+          "ko": "다하우는 나치가 권력을 잡은 직후인 1933년 3월에 문을 열었습니다. 그러나 유럽 전쟁의 마지막 날들에야 해방되었습니다.",
+          "hi": "डाखाउ मार्च 1933 में, नाज़ियों के सत्ता में आने के लगभग तुरंत बाद खुला। फिर भी यह यूरोप में युद्ध के अंतिम दिनों में ही मुक्त हुआ।",
+          "ar": "افتُتح داخاو في مارس 1933، بعد وصول النازيين إلى السلطة مباشرة تقريبا. ومع ذلك لم يُحرر إلا في الأيام الأخيرة من الحرب في أوروبا."
         },
         "importance": {
           "ru": "Это страшно показывает, как долго существовала система террора.",
           "de": "Das zeigt erschreckend, wie lange das Terrorsystem bestand.",
-          "en": "It starkly shows how long the system of terror existed."
+          "en": "It starkly shows how long the system of terror existed.",
+          "fr": "Cela montre de manière effrayante combien de temps le système de terreur a existé.",
+          "es": "Muestra de forma terrible cuánto tiempo existió el sistema de terror.",
+          "it": "Mostra in modo terribile quanto a lungo sia esistito il sistema del terrore.",
+          "pt": "Mostra de forma assustadora durante quanto tempo existiu o sistema de terror.",
+          "nl": "Het laat scherp zien hoe lang het terreursysteem heeft bestaan.",
+          "pl": "To przerażająco pokazuje, jak długo istniał system terroru.",
+          "tr": "Bu, terör sisteminin ne kadar uzun süre var olduğunu çarpıcı biçimde gösterir.",
+          "zh": "这令人震惊地显示了恐怖体系存在了多么久。",
+          "ja": "これは、恐怖の制度がどれほど長く存在したかを痛切に示しています。",
+          "ko": "이는 공포 체계가 얼마나 오래 존재했는지를 극명하게 보여 줍니다.",
+          "hi": "यह भयावह रूप से दिखाता है कि आतंक की व्यवस्था कितने लंबे समय तक रही।",
+          "ar": "يُظهر ذلك بصورة صادمة كم طال وجود نظام الرعب."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "На территории бывшего лагеря сегодня находится мемориальный комплекс.",
     "de": "Auf dem Gelaende des frueheren Lagers befindet sich heute eine Gedenkstaette.",
-    "en": "A memorial site now stands on the grounds of the former camp."
+    "en": "A memorial site now stands on the grounds of the former camp.",
+    "fr": "Un mémorial se trouve aujourd'hui sur le site de l'ancien camp.",
+    "es": "Hoy hay un memorial en el recinto del antiguo campo.",
+    "it": "Oggi sul terreno dell'ex campo si trova un memoriale.",
+    "pt": "Hoje existe um memorial no terreno do antigo campo.",
+    "nl": "Op het terrein van het voormalige kamp staat nu een gedenkplaats.",
+    "pl": "Na terenie dawnego obozu znajduje się dziś miejsce pamięci.",
+    "tr": "Eski kampın arazisinde bugün bir anma alanı bulunmaktadır.",
+    "zh": "如今，原集中营遗址上设有纪念场所。",
+    "ja": "現在、かつての収容所跡には記念施設があります。",
+    "ko": "현재 옛 수용소 부지에는 기념 시설이 있습니다.",
+    "hi": "पूर्व शिविर के परिसर में आज एक स्मारक स्थल है।",
+    "ar": "يوجد اليوم موقع تذكاري في أرض المعسكر السابق."
   },
   "sources": [
     {
