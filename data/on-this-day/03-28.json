@@ -11,17 +11,53 @@
     "title": {
       "ru": "Дата основания Beiersdorf",
       "de": "Gruendungsdatum von Beiersdorf",
-      "en": "Beiersdorf founding date"
+      "en": "Beiersdorf founding date",
+      "fr": "Date de fondation de Beiersdorf",
+      "es": "Fecha de fundación de Beiersdorf",
+      "it": "Data di fondazione di Beiersdorf",
+      "pt": "Data de fundação da Beiersdorf",
+      "nl": "Oprichtingsdatum van Beiersdorf",
+      "pl": "Data założenia Beiersdorf",
+      "tr": "Beiersdorf'un kuruluş tarihi",
+      "zh": "拜尔斯道夫创立日期",
+      "ja": "バイヤスドルフの創業日",
+      "ko": "바이어스도르프 창립일",
+      "hi": "Beiersdorf की स्थापना तिथि",
+      "ar": "تاريخ تأسيس بايرسدورف"
     },
     "description": {
       "ru": "28 марта 1882 года Пауль Байерсдорф получил патент на производство лечебных пластырей. Эта дата считается днём основания гамбургской компании Beiersdorf.",
       "de": "Am 28. Maerz 1882 erhielt Paul Beiersdorf ein Patent fuer die Herstellung medizinischer Pflaster. Dieses Datum gilt als Gruendungsdatum des Hamburger Unternehmens Beiersdorf.",
-      "en": "On 28 March 1882, Paul Beiersdorf received a patent for manufacturing medical plasters. This date is regarded as the founding date of the Hamburg company Beiersdorf."
+      "en": "On 28 March 1882, Paul Beiersdorf received a patent for manufacturing medical plasters. This date is regarded as the founding date of the Hamburg company Beiersdorf.",
+      "fr": "Le 28 mars 1882, Paul Beiersdorf reçut un brevet pour la fabrication de pansements médicaux. Cette date est considérée comme la date de fondation de l'entreprise hambourgeoise Beiersdorf.",
+      "es": "El 28 de marzo de 1882, Paul Beiersdorf recibió una patente para fabricar apósitos médicos. Esta fecha se considera la fundación de la empresa hamburgesa Beiersdorf.",
+      "it": "Il 28 marzo 1882 Paul Beiersdorf ricevette un brevetto per la produzione di cerotti medicali. Questa data è considerata la fondazione dell'azienda amburghese Beiersdorf.",
+      "pt": "Em 28 de março de 1882, Paul Beiersdorf recebeu uma patente para fabricar pensos médicos. Esta data é considerada a fundação da empresa hamburguense Beiersdorf.",
+      "nl": "Op 28 maart 1882 kreeg Paul Beiersdorf een patent voor de vervaardiging van medische pleisters. Deze datum geldt als de oprichtingsdatum van het Hamburgse bedrijf Beiersdorf.",
+      "pl": "28 marca 1882 roku Paul Beiersdorf otrzymał patent na produkcję plastrów leczniczych. Ta data jest uznawana za dzień założenia hamburskiej firmy Beiersdorf.",
+      "tr": "28 Mart 1882'de Paul Beiersdorf tıbbi plaster üretimi için patent aldı. Bu tarih Hamburg şirketi Beiersdorf'un kuruluş günü kabul edilir.",
+      "zh": "1882年3月28日，保罗·拜尔斯道夫获得了生产医用膏药的专利。这一天被视为汉堡公司Beiersdorf的创立日期。",
+      "ja": "1882年3月28日、パウル・バイヤスドルフは医療用絆創膏の製造に関する特許を取得しました。この日付はハンブルクの企業 Beiersdorf の創業日とされています。",
+      "ko": "1882년 3월 28일, 파울 바이어스도르프는 의료용 반창고 제조 특허를 받았습니다. 이 날짜는 함부르크 기업 Beiersdorf의 창립일로 여겨집니다.",
+      "hi": "28 मार्च 1882 को पॉल बेयर्सडॉर्फ को चिकित्सीय प्लास्टर बनाने का पेटेंट मिला। यह तारीख हैम्बर्ग की कंपनी Beiersdorf की स्थापना तिथि मानी जाती है।",
+      "ar": "في 28 مارس 1882 حصل باول بايرسدورف على براءة اختراع لصناعة اللصقات الطبية. ويُعد هذا التاريخ يوم تأسيس شركة Beiersdorf في هامبورغ."
     },
     "importance": {
       "ru": "Событие связывает немецкую аптечную практику, промышленность и историю повседневных медицинских товаров.",
       "de": "Das Ereignis verbindet deutsche Apothekenpraxis, Industrie und die Geschichte alltaeglicher Medizinprodukte.",
-      "en": "The event links German pharmacy practice, industry and the history of everyday medical products."
+      "en": "The event links German pharmacy practice, industry and the history of everyday medical products.",
+      "fr": "L'événement relie la pratique pharmaceutique allemande, l'industrie et l'histoire des produits médicaux du quotidien.",
+      "es": "El acontecimiento conecta la práctica farmacéutica alemana, la industria y la historia de los productos médicos cotidianos.",
+      "it": "L'evento collega la pratica farmaceutica tedesca, l'industria e la storia dei prodotti medici quotidiani.",
+      "pt": "O acontecimento liga a prática farmacêutica alemã, a indústria e a história dos produtos médicos do dia a dia.",
+      "nl": "De gebeurtenis verbindt Duitse apotheekpraktijk, industrie en de geschiedenis van alledaagse medische producten.",
+      "pl": "Wydarzenie łączy niemiecką praktykę apteczną, przemysł i historię codziennych produktów medycznych.",
+      "tr": "Bu olay Alman eczacılık pratiğini, sanayiyi ve günlük tıbbi ürünlerin tarihini birbirine bağlar.",
+      "zh": "这一事件连接了德国药房实践、工业以及日常医疗用品的历史。",
+      "ja": "この出来事は、ドイツの薬局実務、産業、日常的な医療用品の歴史を結びつけています。",
+      "ko": "이 사건은 독일의 약국 실무, 산업, 일상 의료 제품의 역사를 연결합니다.",
+      "hi": "यह घटना जर्मन औषधालय परंपरा, उद्योग और रोज़मर्रा के चिकित्सीय उत्पादों के इतिहास को जोड़ती है।",
+      "ar": "يربط هذا الحدث بين ممارسة الصيدلة الألمانية والصناعة وتاريخ المنتجات الطبية اليومية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Пластыри как медицинская технология",
           "de": "Pflaster als Medizintechnik",
-          "en": "Plasters as medical technology"
+          "en": "Plasters as medical technology",
+          "fr": "Les pansements comme technologie médicale",
+          "es": "Los apósitos como tecnología médica",
+          "it": "I cerotti come tecnologia medica",
+          "pt": "Pensos como tecnologia médica",
+          "nl": "Pleisters als medische technologie",
+          "pl": "Plastry jako technologia medyczna",
+          "tr": "Tıbbi teknoloji olarak plasterler",
+          "zh": "作为医疗技术的膏药",
+          "ja": "医療技術としての絆創膏",
+          "ko": "의료 기술로서의 반창고",
+          "hi": "चिकित्सीय तकनीक के रूप में प्लास्टर",
+          "ar": "اللصقات كتقنية طبية"
         },
         "description": {
           "ru": "Патент Байерсдорфа касался покрытых пластырей, которые можно было производить более надёжно и удобно. Такая маленькая вещь стала важной частью современной аптечки.",
           "de": "Beiersdorfs Patent betraf gestrichene Pflaster, die sich verlaesslicher und praktischer herstellen liessen. So ein kleines Produkt wurde zu einem wichtigen Teil moderner Hausapotheken.",
-          "en": "Beiersdorf's patent concerned coated plasters that could be produced more reliably and conveniently. Such a small product became an important part of modern first-aid kits."
+          "en": "Beiersdorf's patent concerned coated plasters that could be produced more reliably and conveniently. Such a small product became an important part of modern first-aid kits.",
+          "fr": "Le brevet de Beiersdorf concernait des pansements enduits pouvant être produits de façon plus fiable et pratique. Un si petit produit devint une partie importante des trousses de secours modernes.",
+          "es": "La patente de Beiersdorf trataba de apósitos recubiertos que podían producirse de forma más fiable y práctica. Un producto tan pequeño se convirtió en una parte importante de los botiquines modernos.",
+          "it": "Il brevetto di Beiersdorf riguardava cerotti rivestiti che potevano essere prodotti in modo più affidabile e pratico. Un prodotto così piccolo divenne una parte importante dei moderni kit di pronto soccorso.",
+          "pt": "A patente de Beiersdorf dizia respeito a pensos revestidos que podiam ser produzidos de forma mais fiável e prática. Um produto tão pequeno tornou-se parte importante dos modernos kits de primeiros socorros.",
+          "nl": "Beiersdorfs patent betrof gecoate pleisters die betrouwbaarder en handiger konden worden geproduceerd. Zo'n klein product werd een belangrijk onderdeel van moderne verbanddozen.",
+          "pl": "Patent Beiersdorfa dotyczył powlekanych plastrów, które można było produkować bardziej niezawodnie i wygodnie. Tak mały produkt stał się ważną częścią nowoczesnej apteczki.",
+          "tr": "Beiersdorf'un patenti, daha güvenilir ve pratik üretilebilen kaplamalı plasterlerle ilgiliydi. Böyle küçük bir ürün modern ilk yardım çantalarının önemli bir parçası oldu.",
+          "zh": "拜尔斯道夫的专利涉及涂层膏药，这种产品可以更可靠、更方便地生产。这样一个小东西成为现代急救包的重要组成部分。",
+          "ja": "バイヤスドルフの特許は、より確実で実用的に製造できるコーティングされた絆創膏に関するものでした。このような小さな製品が、現代の救急箱の重要な一部となりました。",
+          "ko": "바이어스도르프의 특허는 더 안정적이고 편리하게 생산할 수 있는 코팅 반창고에 관한 것이었습니다. 이렇게 작은 제품이 현대 구급상자의 중요한 부분이 되었습니다.",
+          "hi": "बेयर्सडॉर्फ का पेटेंट ऐसे लेपित प्लास्टरों से जुड़ा था जिन्हें अधिक भरोसेमंद और सुविधाजनक ढंग से बनाया जा सकता था। इतनी छोटी चीज़ आधुनिक प्राथमिक उपचार किट का महत्वपूर्ण हिस्सा बन गई।",
+          "ar": "تعلقت براءة اختراع بايرسدورف بلصقات مطلية يمكن إنتاجها بشكل أوثق وأكثر عملية. وأصبح هذا المنتج الصغير جزءا مهما من علب الإسعاف الحديثة."
         },
         "importance": {
           "ru": "История техники бывает не только про машины, но и про вещи, которыми люди пользуются дома.",
           "de": "Technikgeschichte handelt nicht nur von Maschinen, sondern auch von Dingen, die Menschen zu Hause benutzen.",
-          "en": "The history of technology is not only about machines, but also about things people use at home."
+          "en": "The history of technology is not only about machines, but also about things people use at home.",
+          "fr": "L'histoire de la technique ne parle pas seulement de machines, mais aussi d'objets que les gens utilisent à la maison.",
+          "es": "La historia de la tecnología no trata solo de máquinas, sino también de cosas que la gente usa en casa.",
+          "it": "La storia della tecnica non riguarda solo le macchine, ma anche le cose che le persone usano a casa.",
+          "pt": "A história da tecnologia não trata apenas de máquinas, mas também de coisas que as pessoas usam em casa.",
+          "nl": "De geschiedenis van techniek gaat niet alleen over machines, maar ook over dingen die mensen thuis gebruiken.",
+          "pl": "Historia techniki dotyczy nie tylko maszyn, lecz także rzeczy, których ludzie używają w domu.",
+          "tr": "Teknoloji tarihi yalnızca makinelerle değil, insanların evde kullandığı şeylerle de ilgilidir.",
+          "zh": "技术史不仅关乎机器，也关乎人们在家中使用的物品。",
+          "ja": "技術の歴史は機械だけでなく、人々が家庭で使う物にも関わっています。",
+          "ko": "기술의 역사는 기계뿐 아니라 사람들이 집에서 사용하는 물건에 관한 것이기도 합니다.",
+          "hi": "तकनीक का इतिहास केवल मशीनों के बारे में नहीं, बल्कि उन चीज़ों के बारे में भी है जिनका लोग घर में उपयोग करते हैं।",
+          "ar": "لا يدور تاريخ التقنية حول الآلات فقط، بل حول الأشياء التي يستخدمها الناس في البيت أيضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Гамбургская промышленная история",
           "de": "Hamburger Industriegeschichte",
-          "en": "Hamburg industrial history"
+          "en": "Hamburg industrial history",
+          "fr": "Histoire industrielle de Hambourg",
+          "es": "Historia industrial de Hamburgo",
+          "it": "Storia industriale di Amburgo",
+          "pt": "História industrial de Hamburgo",
+          "nl": "Hamburgse industriegeschiedenis",
+          "pl": "Hamburska historia przemysłowa",
+          "tr": "Hamburg sanayi tarihi",
+          "zh": "汉堡工业史",
+          "ja": "ハンブルクの産業史",
+          "ko": "함부르크 산업사",
+          "hi": "हैम्बर्ग का औद्योगिक इतिहास",
+          "ar": "تاريخ هامبورغ الصناعي"
         },
         "description": {
           "ru": "Beiersdorf выросла из аптечной и лабораторной среды Гамбурга. Позже компания стала известна марками NIVEA, Eucerin, Hansaplast и Labello.",
           "de": "Beiersdorf entstand aus dem Apotheken- und Laborumfeld Hamburgs. Spaeter wurde das Unternehmen mit Marken wie NIVEA, Eucerin, Hansaplast und Labello bekannt.",
-          "en": "Beiersdorf grew out of Hamburg's pharmacy and laboratory environment. Later the company became known for brands such as NIVEA, Eucerin, Hansaplast and Labello."
+          "en": "Beiersdorf grew out of Hamburg's pharmacy and laboratory environment. Later the company became known for brands such as NIVEA, Eucerin, Hansaplast and Labello.",
+          "fr": "Beiersdorf naquit du milieu pharmaceutique et de laboratoire de Hambourg. Plus tard, l'entreprise devint connue grâce à des marques comme NIVEA, Eucerin, Hansaplast et Labello.",
+          "es": "Beiersdorf surgió del entorno farmacéutico y de laboratorio de Hamburgo. Más tarde la empresa se hizo conocida por marcas como NIVEA, Eucerin, Hansaplast y Labello.",
+          "it": "Beiersdorf nacque dall'ambiente farmaceutico e di laboratorio di Amburgo. In seguito l'azienda divenne nota per marchi come NIVEA, Eucerin, Hansaplast e Labello.",
+          "pt": "A Beiersdorf nasceu do ambiente farmacêutico e laboratorial de Hamburgo. Mais tarde, a empresa tornou-se conhecida por marcas como NIVEA, Eucerin, Hansaplast e Labello.",
+          "nl": "Beiersdorf groeide uit de apotheek- en laboratoriumomgeving van Hamburg. Later werd het bedrijf bekend met merken als NIVEA, Eucerin, Hansaplast en Labello.",
+          "pl": "Beiersdorf wyrósł z hamburskiego środowiska aptecznego i laboratoryjnego. Później firma stała się znana dzięki markom takim jak NIVEA, Eucerin, Hansaplast i Labello.",
+          "tr": "Beiersdorf, Hamburg'un eczane ve laboratuvar ortamından doğdu. Şirket daha sonra NIVEA, Eucerin, Hansaplast ve Labello gibi markalarla tanındı.",
+          "zh": "Beiersdorf源自汉堡的药房和实验室环境。后来，公司因NIVEA、Eucerin、Hansaplast和Labello等品牌而闻名。",
+          "ja": "Beiersdorf はハンブルクの薬局と研究室の環境から生まれました。後に同社は NIVEA、Eucerin、Hansaplast、Labello などのブランドで知られるようになりました。",
+          "ko": "Beiersdorf는 함부르크의 약국과 실험실 환경에서 성장했습니다. 이후 이 회사는 NIVEA, Eucerin, Hansaplast, Labello 같은 브랜드로 알려졌습니다.",
+          "hi": "Beiersdorf हैम्बर्ग के औषधालय और प्रयोगशाला वातावरण से विकसित हुई। बाद में कंपनी NIVEA, Eucerin, Hansaplast और Labello जैसे ब्रांडों से प्रसिद्ध हुई।",
+          "ar": "نشأت Beiersdorf من بيئة الصيدليات والمختبرات في هامبورغ. ولاحقا أصبحت الشركة معروفة بعلامات مثل NIVEA وEucerin وHansaplast وLabello."
         },
         "importance": {
           "ru": "Так в календаре появляется не только большая политика, но и история вещей, стоящих на полке в ванной.",
           "de": "So erscheint im Kalender nicht nur grosse Politik, sondern auch die Geschichte von Dingen im Badezimmerregal.",
-          "en": "This adds not only high politics to the calendar, but also the history of things on a bathroom shelf."
+          "en": "This adds not only high politics to the calendar, but also the history of things on a bathroom shelf.",
+          "fr": "Ainsi, le calendrier ne montre pas seulement la grande politique, mais aussi l'histoire des objets sur une étagère de salle de bain.",
+          "es": "Así el calendario incluye no solo gran política, sino también la historia de cosas que están en una repisa del baño.",
+          "it": "Così nel calendario non compare solo la grande politica, ma anche la storia degli oggetti sul ripiano del bagno.",
+          "pt": "Assim, o calendário mostra não só a grande política, mas também a história de coisas que ficam na prateleira da casa de banho.",
+          "nl": "Zo verschijnt in de kalender niet alleen grote politiek, maar ook de geschiedenis van dingen op een badkamerplank.",
+          "pl": "Dzięki temu w kalendarzu pojawia się nie tylko wielka polityka, lecz także historia rzeczy stojących na półce w łazience.",
+          "tr": "Böylece takvimde yalnızca büyük siyaset değil, banyodaki rafta duran eşyaların tarihi de yer alır.",
+          "zh": "这样，日历中不仅有大政治，也有浴室架子上日常用品的历史。",
+          "ja": "こうしてカレンダーには大きな政治だけでなく、浴室の棚にある物の歴史も現れます。",
+          "ko": "이렇게 달력에는 큰 정치뿐 아니라 욕실 선반 위 물건들의 역사도 등장합니다.",
+          "hi": "इस तरह कैलेंडर में केवल बड़ी राजनीति नहीं, बल्कि बाथरूम की शेल्फ़ पर रखी चीज़ों का इतिहास भी आता है।",
+          "ar": "وهكذا لا يظهر في التقويم تاريخ السياسة الكبرى فقط، بل أيضا تاريخ الأشياء الموجودة على رف الحمام."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Название NIVEA происходит от латинского слова niveus - «белоснежный».",
     "de": "Der Name NIVEA kommt vom lateinischen Wort niveus und bedeutet schneeweiss.",
-    "en": "The name NIVEA comes from the Latin word niveus, meaning snow-white."
+    "en": "The name NIVEA comes from the Latin word niveus, meaning snow-white.",
+    "fr": "Le nom NIVEA vient du mot latin niveus, qui signifie blanc comme neige.",
+    "es": "El nombre NIVEA viene de la palabra latina niveus, que significa blanco como la nieve.",
+    "it": "Il nome NIVEA deriva dalla parola latina niveus, che significa bianco come la neve.",
+    "pt": "O nome NIVEA vem da palavra latina niveus, que significa branco como a neve.",
+    "nl": "De naam NIVEA komt van het Latijnse woord niveus, dat sneeuwwit betekent.",
+    "pl": "Nazwa NIVEA pochodzi od łacińskiego słowa niveus, oznaczającego śnieżnobiały.",
+    "tr": "NIVEA adı, kar beyazı anlamına gelen Latince niveus kelimesinden gelir.",
+    "zh": "NIVEA这个名称来自拉丁词niveus，意思是“雪白”。",
+    "ja": "NIVEA という名前は、雪のように白いという意味のラテン語 niveus に由来します。",
+    "ko": "NIVEA라는 이름은 눈처럼 하얗다는 뜻의 라틴어 niveus에서 왔습니다.",
+    "hi": "NIVEA नाम लैटिन शब्द niveus से आया है, जिसका अर्थ है बर्फ़ जैसा सफेद।",
+    "ar": "يأتي اسم NIVEA من الكلمة اللاتينية niveus التي تعني أبيض كالثلج."
   },
   "sources": [
     {

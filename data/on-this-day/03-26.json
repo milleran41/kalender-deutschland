@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Луиза Отто-Петерс",
       "de": "Louise Otto-Peters wird geboren",
-      "en": "Louise Otto-Peters is born"
+      "en": "Louise Otto-Peters is born",
+      "fr": "Naissance de Louise Otto-Peters",
+      "es": "Nace Louise Otto-Peters",
+      "it": "Nasce Louise Otto-Peters",
+      "pt": "Nasce Louise Otto-Peters",
+      "nl": "Louise Otto-Peters wordt geboren",
+      "pl": "Urodziła się Louise Otto-Peters",
+      "tr": "Louise Otto-Peters doğdu",
+      "zh": "路易丝·奥托-彼得斯出生",
+      "ja": "ルイーゼ・オットー＝ペータースが生まれる",
+      "ko": "루이제 오토-페터스가 태어나다",
+      "hi": "लुईज़े ओटो-पीटर्स का जन्म हुआ",
+      "ar": "ولادة لويزه أوتو-بيترس"
     },
     "description": {
       "ru": "26 марта 1819 года в Майсене родилась писательница и общественная деятельница Луиза Отто-Петерс. Она стала одной из основательниц немецкого женского движения.",
       "de": "Am 26. Maerz 1819 wurde die Schriftstellerin und Aktivistin Louise Otto-Peters in Meissen geboren. Sie wurde eine der Begruenderinnen der deutschen Frauenbewegung.",
-      "en": "On 26 March 1819, writer and activist Louise Otto-Peters was born in Meissen. She became one of the founders of the German women's movement."
+      "en": "On 26 March 1819, writer and activist Louise Otto-Peters was born in Meissen. She became one of the founders of the German women's movement.",
+      "fr": "Le 26 mars 1819, l'écrivaine et militante Louise Otto-Peters naquit à Meissen. Elle devint l'une des fondatrices du mouvement féministe allemand.",
+      "es": "El 26 de marzo de 1819 nació en Meissen la escritora y activista Louise Otto-Peters. Se convirtió en una de las fundadoras del movimiento de mujeres alemán.",
+      "it": "Il 26 marzo 1819 la scrittrice e attivista Louise Otto-Peters nacque a Meissen. Divenne una delle fondatrici del movimento femminile tedesco.",
+      "pt": "Em 26 de março de 1819, a escritora e ativista Louise Otto-Peters nasceu em Meissen. Tornou-se uma das fundadoras do movimento feminino alemão.",
+      "nl": "Op 26 maart 1819 werd schrijfster en activiste Louise Otto-Peters in Meissen geboren. Zij werd een van de grondlegsters van de Duitse vrouwenbeweging.",
+      "pl": "26 marca 1819 roku w Miśni urodziła się pisarka i działaczka Louise Otto-Peters. Stała się jedną z założycielek niemieckiego ruchu kobiecego.",
+      "tr": "26 Mart 1819'da yazar ve aktivist Louise Otto-Peters Meissen'de doğdu. Alman kadın hareketinin kurucularından biri oldu.",
+      "zh": "1819年3月26日，作家和社会活动家路易丝·奥托-彼得斯出生于迈森。她成为德国妇女运动的创始人之一。",
+      "ja": "1819年3月26日、作家で活動家のルイーゼ・オットー＝ペータースはマイセンで生まれました。彼女はドイツ女性運動の創設者の一人となりました。",
+      "ko": "1819년 3월 26일, 작가이자 활동가인 루이제 오토-페터스가 마이센에서 태어났습니다. 그녀는 독일 여성운동의 창립자 중 한 명이 되었습니다.",
+      "hi": "26 मार्च 1819 को लेखिका और सामाजिक कार्यकर्ता लुईज़े ओटो-पीटर्स का जन्म माइसेन में हुआ। वे जर्मन महिला आंदोलन की संस्थापकों में से एक बनीं।",
+      "ar": "في 26 مارس 1819 وُلدت الكاتبة والناشطة لويزه أوتو-بيترس في مايسن. وأصبحت إحدى مؤسسات الحركة النسائية الألمانية."
     },
     "importance": {
       "ru": "Её жизнь связывает литературу, революцию 1848 года и борьбу женщин за образование и участие в обществе.",
       "de": "Ihr Leben verbindet Literatur, die Revolution von 1848 und den Kampf von Frauen um Bildung und gesellschaftliche Teilhabe.",
-      "en": "Her life connects literature, the Revolution of 1848 and women's struggle for education and participation in society."
+      "en": "Her life connects literature, the Revolution of 1848 and women's struggle for education and participation in society.",
+      "fr": "Sa vie relie la littérature, la révolution de 1848 et la lutte des femmes pour l'éducation et la participation à la société.",
+      "es": "Su vida conecta la literatura, la Revolución de 1848 y la lucha de las mujeres por la educación y la participación social.",
+      "it": "La sua vita collega la letteratura, la rivoluzione del 1848 e la lotta delle donne per l'istruzione e la partecipazione alla società.",
+      "pt": "A sua vida liga a literatura, a Revolução de 1848 e a luta das mulheres pela educação e participação na sociedade.",
+      "nl": "Haar leven verbindt literatuur, de Revolutie van 1848 en de strijd van vrouwen voor onderwijs en maatschappelijke deelname.",
+      "pl": "Jej życie łączy literaturę, rewolucję 1848 roku oraz walkę kobiet o edukację i udział w społeczeństwie.",
+      "tr": "Onun hayatı edebiyatı, 1848 Devrimi'ni ve kadınların eğitim ile toplumsal katılım mücadelesini birbirine bağlar.",
+      "zh": "她的一生连接了文学、1848年革命以及女性争取教育和社会参与的斗争。",
+      "ja": "彼女の人生は、文学、1848年革命、そして教育と社会参加を求める女性たちの闘いを結びつけています。",
+      "ko": "그녀의 삶은 문학, 1848년 혁명, 교육과 사회 참여를 위한 여성들의 투쟁을 연결합니다.",
+      "hi": "उनका जीवन साहित्य, 1848 की क्रांति और शिक्षा व सामाजिक भागीदारी के लिए महिलाओं के संघर्ष को जोड़ता है।",
+      "ar": "تربط حياتها بين الأدب وثورة 1848 ونضال النساء من أجل التعليم والمشاركة في المجتمع."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Начало организованного женского движения",
           "de": "Beginn der organisierten Frauenbewegung",
-          "en": "Beginning of the organized women's movement"
+          "en": "Beginning of the organized women's movement",
+          "fr": "Début du mouvement féminin organisé",
+          "es": "Inicio del movimiento femenino organizado",
+          "it": "Inizio del movimento femminile organizzato",
+          "pt": "Início do movimento feminino organizado",
+          "nl": "Begin van de georganiseerde vrouwenbeweging",
+          "pl": "Początek zorganizowanego ruchu kobiecego",
+          "tr": "Örgütlü kadın hareketinin başlangıcı",
+          "zh": "有组织妇女运动的开始",
+          "ja": "組織的な女性運動の始まり",
+          "ko": "조직적 여성운동의 시작",
+          "hi": "संगठित महिला आंदोलन की शुरुआत",
+          "ar": "بداية الحركة النسائية المنظمة"
         },
         "description": {
           "ru": "Отто-Петерс участвовала в создании Общегерманского женского союза. Организация выступала за образование, трудовые права и общественное участие женщин.",
           "de": "Otto-Peters war an der Gruendung des Allgemeinen Deutschen Frauenvereins beteiligt. Der Verein setzte sich fuer Bildung, Arbeitsrechte und gesellschaftliche Teilhabe von Frauen ein.",
-          "en": "Otto-Peters helped found the General German Women's Association. The organization advocated education, labor rights and public participation for women."
+          "en": "Otto-Peters helped found the General German Women's Association. The organization advocated education, labor rights and public participation for women.",
+          "fr": "Otto-Peters participa à la fondation de l'Association générale des femmes allemandes. L'organisation défendait l'éducation, les droits du travail et la participation publique des femmes.",
+          "es": "Otto-Peters participó en la fundación de la Asociación General de Mujeres Alemanas. La organización defendía la educación, los derechos laborales y la participación pública de las mujeres.",
+          "it": "Otto-Peters partecipò alla fondazione dell'Associazione generale delle donne tedesche. L'organizzazione sosteneva l'istruzione, i diritti del lavoro e la partecipazione pubblica delle donne.",
+          "pt": "Otto-Peters participou na fundação da Associação Geral das Mulheres Alemãs. A organização defendia a educação, os direitos laborais e a participação pública das mulheres.",
+          "nl": "Otto-Peters hielp bij de oprichting van de Algemene Duitse Vrouwenvereniging. De organisatie zette zich in voor onderwijs, arbeidsrechten en publieke deelname van vrouwen.",
+          "pl": "Otto-Peters uczestniczyła w założeniu Ogólnoniemieckiego Związku Kobiet. Organizacja występowała na rzecz edukacji, praw pracowniczych i udziału kobiet w życiu publicznym.",
+          "tr": "Otto-Peters, Genel Alman Kadınlar Derneği'nin kurulmasına yardım etti. Örgüt eğitim, çalışma hakları ve kadınların kamusal yaşama katılımı için çalıştı.",
+          "zh": "奥托-彼得斯参与创建了全德妇女协会。该组织主张女性的教育、劳动权利和公共参与。",
+          "ja": "オットー＝ペータースは全ドイツ女性協会の設立に関わりました。この組織は、女性の教育、労働権、社会参加を求めました。",
+          "ko": "오토-페터스는 전독일여성협회 설립에 참여했습니다. 이 단체는 여성의 교육, 노동권, 공적 참여를 옹호했습니다.",
+          "hi": "ओटो-पीटर्स ने ऑल जर्मन विमेन्स एसोसिएशन की स्थापना में मदद की। संगठन ने महिलाओं की शिक्षा, श्रम अधिकार और सार्वजनिक भागीदारी का समर्थन किया।",
+          "ar": "شاركت أوتو-بيترس في تأسيس الجمعية العامة للنساء الألمانيات. دافعت المنظمة عن التعليم وحقوق العمل والمشاركة العامة للنساء."
         },
         "importance": {
           "ru": "Это показывает, что равноправие строилось десятилетиями, через объединения, газеты и публичные выступления.",
           "de": "Das zeigt, dass Gleichberechtigung ueber Jahrzehnte durch Vereine, Zeitungen und oeffentliche Reden aufgebaut wurde.",
-          "en": "It shows that equality was built over decades through associations, newspapers and public speeches."
+          "en": "It shows that equality was built over decades through associations, newspapers and public speeches.",
+          "fr": "Cela montre que l'égalité s'est construite pendant des décennies par des associations, des journaux et des discours publics.",
+          "es": "Esto muestra que la igualdad se construyó durante décadas mediante asociaciones, periódicos y discursos públicos.",
+          "it": "Questo mostra che l'uguaglianza fu costruita per decenni attraverso associazioni, giornali e discorsi pubblici.",
+          "pt": "Isto mostra que a igualdade foi construída ao longo de décadas por associações, jornais e discursos públicos.",
+          "nl": "Dit laat zien dat gelijkberechtiging decennialang werd opgebouwd via verenigingen, kranten en openbare toespraken.",
+          "pl": "Pokazuje to, że równouprawnienie budowano przez dziesięciolecia poprzez stowarzyszenia, gazety i publiczne wystąpienia.",
+          "tr": "Bu, eşitliğin dernekler, gazeteler ve halka açık konuşmalar yoluyla onlarca yıl içinde kurulduğunu gösterir.",
+          "zh": "这表明，平等是通过协会、报纸和公开演讲在数十年中逐步建立起来的。",
+          "ja": "これは、平等が協会、新聞、公開演説を通じて何十年もかけて築かれたことを示しています。",
+          "ko": "이는 평등이 단체, 신문, 공개 연설을 통해 수십 년에 걸쳐 만들어졌음을 보여 줍니다.",
+          "hi": "यह दिखाता है कि समानता दशकों तक संघों, अखबारों और सार्वजनिक भाषणों के माध्यम से बनी।",
+          "ar": "يُظهر ذلك أن المساواة بُنيت عبر عقود من خلال الجمعيات والصحف والخطب العامة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Луиза Отто-Петерс писала под псевдонимом Otto Stern.",
     "de": "Louise Otto-Peters schrieb auch unter dem Pseudonym Otto Stern.",
-    "en": "Louise Otto-Peters also wrote under the pen name Otto Stern."
+    "en": "Louise Otto-Peters also wrote under the pen name Otto Stern.",
+    "fr": "Louise Otto-Peters écrivit aussi sous le pseudonyme Otto Stern.",
+    "es": "Louise Otto-Peters también escribió con el seudónimo Otto Stern.",
+    "it": "Louise Otto-Peters scrisse anche con lo pseudonimo Otto Stern.",
+    "pt": "Louise Otto-Peters também escreveu sob o pseudónimo Otto Stern.",
+    "nl": "Louise Otto-Peters schreef ook onder het pseudoniem Otto Stern.",
+    "pl": "Louise Otto-Peters pisała także pod pseudonimem Otto Stern.",
+    "tr": "Louise Otto-Peters, Otto Stern takma adıyla da yazdı.",
+    "zh": "路易丝·奥托-彼得斯也曾以笔名Otto Stern写作。",
+    "ja": "ルイーゼ・オットー＝ペータースは、Otto Stern という筆名でも執筆しました。",
+    "ko": "루이제 오토-페터스는 Otto Stern이라는 필명으로도 글을 썼습니다.",
+    "hi": "लुईज़े ओटो-पीटर्स ने Otto Stern नाम से भी लिखा।",
+    "ar": "كتبت لويزه أوتو-بيترس أيضا باسم مستعار هو Otto Stern."
   },
   "sources": [
     {

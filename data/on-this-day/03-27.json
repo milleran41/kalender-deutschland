@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Вильгельм Конрад Рентген",
       "de": "Wilhelm Conrad Roentgen wird geboren",
-      "en": "Wilhelm Conrad Roentgen is born"
+      "en": "Wilhelm Conrad Roentgen is born",
+      "fr": "Naissance de Wilhelm Conrad Roentgen",
+      "es": "Nace Wilhelm Conrad Roentgen",
+      "it": "Nasce Wilhelm Conrad Roentgen",
+      "pt": "Nasce Wilhelm Conrad Roentgen",
+      "nl": "Wilhelm Conrad Roentgen wordt geboren",
+      "pl": "Urodził się Wilhelm Conrad Roentgen",
+      "tr": "Wilhelm Conrad Roentgen doğdu",
+      "zh": "威廉·康拉德·伦琴出生",
+      "ja": "ヴィルヘルム・コンラート・レントゲンが生まれる",
+      "ko": "빌헬름 콘라트 뢴트겐이 태어나다",
+      "hi": "विल्हेल्म कॉनराड रॉन्टगेन का जन्म हुआ",
+      "ar": "ولادة فيلهلم كونراد رونتغن"
     },
     "description": {
       "ru": "27 марта 1845 года в Леннепе, ныне части Ремшайда, родился физик Вильгельм Конрад Рентген. Позднее он открыл X-лучи, которые быстро стали важнейшим инструментом медицины.",
       "de": "Am 27. Maerz 1845 wurde der Physiker Wilhelm Conrad Roentgen in Lennep, heute ein Teil von Remscheid, geboren. Spaeter entdeckte er die X-Strahlen, die rasch zu einem wichtigen Werkzeug der Medizin wurden.",
-      "en": "On 27 March 1845, physicist Wilhelm Conrad Roentgen was born in Lennep, now part of Remscheid. He later discovered X-rays, which quickly became a vital tool in medicine."
+      "en": "On 27 March 1845, physicist Wilhelm Conrad Roentgen was born in Lennep, now part of Remscheid. He later discovered X-rays, which quickly became a vital tool in medicine.",
+      "fr": "Le 27 mars 1845, le physicien Wilhelm Conrad Roentgen naquit à Lennep, aujourd'hui partie de Remscheid. Il découvrit plus tard les rayons X, qui devinrent rapidement un outil essentiel de la médecine.",
+      "es": "El 27 de marzo de 1845 nació en Lennep, hoy parte de Remscheid, el físico Wilhelm Conrad Roentgen. Más tarde descubrió los rayos X, que pronto se convirtieron en una herramienta vital de la medicina.",
+      "it": "Il 27 marzo 1845 il fisico Wilhelm Conrad Roentgen nacque a Lennep, oggi parte di Remscheid. In seguito scoprì i raggi X, che divennero rapidamente uno strumento fondamentale della medicina.",
+      "pt": "Em 27 de março de 1845, o físico Wilhelm Conrad Roentgen nasceu em Lennep, hoje parte de Remscheid. Mais tarde descobriu os raios X, que rapidamente se tornaram uma ferramenta vital da medicina.",
+      "nl": "Op 27 maart 1845 werd natuurkundige Wilhelm Conrad Roentgen geboren in Lennep, nu deel van Remscheid. Later ontdekte hij röntgenstralen, die snel een belangrijk hulpmiddel in de geneeskunde werden.",
+      "pl": "27 marca 1845 roku w Lennep, dziś części Remscheid, urodził się fizyk Wilhelm Conrad Roentgen. Później odkrył promienie X, które szybko stały się niezwykle ważnym narzędziem medycyny.",
+      "tr": "27 Mart 1845'te fizikçi Wilhelm Conrad Roentgen, bugün Remscheid'in bir parçası olan Lennep'te doğdu. Daha sonra tıpta hızla hayati bir araç haline gelen X ışınlarını keşfetti.",
+      "zh": "1845年3月27日，物理学家威廉·康拉德·伦琴出生于伦内普，如今那里是雷姆沙伊德的一部分。后来他发现了X射线，迅速成为医学的重要工具。",
+      "ja": "1845年3月27日、物理学者ヴィルヘルム・コンラート・レントゲンは、現在はレムシャイトの一部であるレンネップで生まれました。後に彼はX線を発見し、それはすぐに医学の重要な道具となりました。",
+      "ko": "1845년 3월 27일, 물리학자 빌헬름 콘라트 뢴트겐이 오늘날 렘샤이트의 일부인 렌네프에서 태어났습니다. 그는 나중에 X선을 발견했고, 이는 빠르게 의학의 중요한 도구가 되었습니다.",
+      "hi": "27 मार्च 1845 को भौतिकविद विल्हेल्म कॉनराड रॉन्टगेन का जन्म लेन्नेप में हुआ, जो अब रेमशाइड का हिस्सा है। बाद में उन्होंने एक्स-रे खोजे, जो जल्द ही चिकित्सा का महत्वपूर्ण उपकरण बन गए।",
+      "ar": "في 27 مارس 1845 وُلد الفيزيائي فيلهلم كونراد رونتغن في لينيب، وهي اليوم جزء من ريمشايد. واكتشف لاحقا الأشعة السينية التي أصبحت بسرعة أداة مهمة في الطب."
     },
     "importance": {
       "ru": "Рентген получил первую Нобелевскую премию по физике и показал, как фундаментальное открытие может спасти множество жизней.",
       "de": "Roentgen erhielt den ersten Nobelpreis fuer Physik und zeigte, wie eine Grundlagenentdeckung viele Leben retten kann.",
-      "en": "Roentgen received the first Nobel Prize in Physics and showed how a basic discovery can save many lives."
+      "en": "Roentgen received the first Nobel Prize in Physics and showed how a basic discovery can save many lives.",
+      "fr": "Roentgen reçut le premier prix Nobel de physique et montra comment une découverte fondamentale peut sauver de nombreuses vies.",
+      "es": "Roentgen recibió el primer Premio Nobel de Física y mostró cómo un descubrimiento básico puede salvar muchas vidas.",
+      "it": "Roentgen ricevette il primo Premio Nobel per la fisica e mostrò come una scoperta fondamentale possa salvare molte vite.",
+      "pt": "Roentgen recebeu o primeiro Prémio Nobel da Física e mostrou como uma descoberta básica pode salvar muitas vidas.",
+      "nl": "Roentgen ontving de eerste Nobelprijs voor Natuurkunde en liet zien hoe een fundamentele ontdekking veel levens kan redden.",
+      "pl": "Roentgen otrzymał pierwszą Nagrodę Nobla w dziedzinie fizyki i pokazał, jak odkrycie podstawowe może uratować wiele istnień.",
+      "tr": "Roentgen ilk Nobel Fizik Ödülü'nü aldı ve temel bir keşfin birçok hayatı nasıl kurtarabileceğini gösterdi.",
+      "zh": "伦琴获得了首届诺贝尔物理学奖，并展示了基础发现如何拯救许多生命。",
+      "ja": "レントゲンは最初のノーベル物理学賞を受賞し、基礎的な発見が多くの命を救えることを示しました。",
+      "ko": "뢴트겐은 첫 노벨 물리학상을 받았고, 기초 발견이 얼마나 많은 생명을 구할 수 있는지를 보여 주었습니다.",
+      "hi": "रॉन्टगेन को भौतिकी का पहला नोबेल पुरस्कार मिला और उन्होंने दिखाया कि मूलभूत खोज कई जीवन बचा सकती है।",
+      "ar": "حصل رونتغن على أول جائزة نوبل في الفيزياء وأظهر كيف يمكن لاكتشاف أساسي أن ينقذ حياة كثيرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Открытие X-лучей",
           "de": "Entdeckung der X-Strahlen",
-          "en": "Discovery of X-rays"
+          "en": "Discovery of X-rays",
+          "fr": "Découverte des rayons X",
+          "es": "Descubrimiento de los rayos X",
+          "it": "Scoperta dei raggi X",
+          "pt": "Descoberta dos raios X",
+          "nl": "Ontdekking van röntgenstralen",
+          "pl": "Odkrycie promieni X",
+          "tr": "X ışınlarının keşfi",
+          "zh": "X射线的发现",
+          "ja": "X線の発見",
+          "ko": "X선의 발견",
+          "hi": "एक्स-रे की खोज",
+          "ar": "اكتشاف الأشعة السينية"
         },
         "description": {
           "ru": "В Вюрцбурге Рентген обнаружил неизвестное излучение и назвал его X-лучами. Уже вскоре врачи начали использовать снимки, чтобы видеть кости и инородные предметы внутри тела.",
           "de": "In Wuerzburg entdeckte Roentgen eine unbekannte Strahlung und nannte sie X-Strahlen. Schon bald nutzten Aerzte Aufnahmen, um Knochen und Fremdkoerper im Koerper zu sehen.",
-          "en": "In Wuerzburg, Roentgen discovered unknown radiation and called it X-rays. Doctors soon used images to see bones and foreign objects inside the body."
+          "en": "In Wuerzburg, Roentgen discovered unknown radiation and called it X-rays. Doctors soon used images to see bones and foreign objects inside the body.",
+          "fr": "À Wuerzburg, Roentgen découvrit un rayonnement inconnu et l'appela rayons X. Les médecins utilisèrent bientôt des images pour voir les os et les corps étrangers à l'intérieur du corps.",
+          "es": "En Wuerzburg, Roentgen descubrió una radiación desconocida y la llamó rayos X. Pronto los médicos usaron imágenes para ver huesos y objetos extraños dentro del cuerpo.",
+          "it": "A Wuerzburg, Roentgen scoprì una radiazione sconosciuta e la chiamò raggi X. Ben presto i medici usarono immagini per vedere ossa e corpi estranei all'interno del corpo.",
+          "pt": "Em Wuerzburg, Roentgen descobriu uma radiação desconhecida e chamou-lhe raios X. Em pouco tempo, médicos usaram imagens para ver ossos e corpos estranhos dentro do corpo.",
+          "nl": "In Wuerzburg ontdekte Roentgen onbekende straling en noemde die X-stralen. Artsen gebruikten al snel opnamen om botten en vreemde voorwerpen in het lichaam te zien.",
+          "pl": "W Wuerzburgu Roentgen odkrył nieznane promieniowanie i nazwał je promieniami X. Lekarze wkrótce zaczęli używać zdjęć, aby widzieć kości i ciała obce wewnątrz organizmu.",
+          "tr": "Wuerzburg'da Roentgen bilinmeyen bir ışınım keşfetti ve ona X ışınları adını verdi. Doktorlar kısa süre sonra kemikleri ve vücuttaki yabancı cisimleri görmek için görüntüler kullanmaya başladı.",
+          "zh": "在维尔茨堡，伦琴发现了一种未知辐射，并称之为X射线。医生很快开始用影像观察体内的骨骼和异物。",
+          "ja": "ヴュルツブルクで、レントゲンは未知の放射線を発見し、それをX線と名付けました。医師たちはまもなく、体内の骨や異物を見るために画像を使い始めました。",
+          "ko": "뷔르츠부르크에서 뢴트겐은 알 수 없는 방사선을 발견하고 이를 X선이라고 불렀습니다. 의사들은 곧 몸속의 뼈와 이물질을 보기 위해 영상을 사용하기 시작했습니다.",
+          "hi": "वुर्ज़बुर्ग में रॉन्टगेन ने अज्ञात विकिरण खोजा और उसे एक्स-रे कहा। जल्द ही डॉक्टर शरीर के भीतर हड्डियाँ और बाहरी वस्तुएँ देखने के लिए चित्रों का उपयोग करने लगे।",
+          "ar": "في فورتسبورغ اكتشف رونتغن إشعاعا مجهولا وسماه الأشعة السينية. وسرعان ما استخدم الأطباء الصور لرؤية العظام والأجسام الغريبة داخل الجسم."
         },
         "importance": {
           "ru": "Сегодня рентгеновские снимки кажутся обычными, но в 1895 году это выглядело почти невероятно.",
           "de": "Heute wirken Roentgenbilder alltaeglich, aber 1895 erschien das fast unglaublich.",
-          "en": "X-ray images seem ordinary today, but in 1895 they looked almost unbelievable."
+          "en": "X-ray images seem ordinary today, but in 1895 they looked almost unbelievable.",
+          "fr": "Aujourd'hui, les radiographies semblent ordinaires, mais en 1895 elles paraissaient presque incroyables.",
+          "es": "Hoy las radiografías parecen normales, pero en 1895 parecían casi increíbles.",
+          "it": "Oggi le radiografie sembrano comuni, ma nel 1895 apparivano quasi incredibili.",
+          "pt": "Hoje as radiografias parecem comuns, mas em 1895 pareciam quase incríveis.",
+          "nl": "Röntgenfoto's lijken vandaag gewoon, maar in 1895 leken ze bijna ongelooflijk.",
+          "pl": "Dziś zdjęcia rentgenowskie wydają się zwyczajne, ale w 1895 roku wyglądały niemal niewiarygodnie.",
+          "tr": "Röntgen görüntüleri bugün sıradan görünür, ancak 1895'te neredeyse inanılmazdı.",
+          "zh": "今天X光片看起来很普通，但在1895年几乎令人难以置信。",
+          "ja": "今日ではX線画像は普通に見えますが、1895年にはほとんど信じられないものに見えました。",
+          "ko": "오늘날 X선 사진은 평범해 보이지만, 1895년에는 거의 믿기 어려운 것처럼 보였습니다.",
+          "hi": "आज एक्स-रे चित्र सामान्य लगते हैं, लेकिन 1895 में वे लगभग अविश्वसनीय लगे होंगे।",
+          "ar": "تبدو صور الأشعة السينية اليوم عادية، لكنها في عام 1895 بدت شبه لا تصدق."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Рентген не запатентовал своё открытие, чтобы оно могло свободно использоваться.",
     "de": "Roentgen liess seine Entdeckung nicht patentieren, damit sie frei genutzt werden konnte.",
-    "en": "Roentgen did not patent his discovery so it could be used freely."
+    "en": "Roentgen did not patent his discovery so it could be used freely.",
+    "fr": "Roentgen ne fit pas breveter sa découverte afin qu'elle puisse être utilisée librement.",
+    "es": "Roentgen no patentó su descubrimiento para que pudiera usarse libremente.",
+    "it": "Roentgen non brevettò la sua scoperta perché potesse essere usata liberamente.",
+    "pt": "Roentgen não patenteou a sua descoberta para que pudesse ser usada livremente.",
+    "nl": "Roentgen patenteerde zijn ontdekking niet, zodat zij vrij gebruikt kon worden.",
+    "pl": "Roentgen nie opatentował swojego odkrycia, aby mogło być swobodnie wykorzystywane.",
+    "tr": "Roentgen keşfini patentlemedi, böylece serbestçe kullanılabildi.",
+    "zh": "伦琴没有为自己的发现申请专利，以便它能被自由使用。",
+    "ja": "レントゲンは、自分の発見が自由に使えるように特許を取りませんでした。",
+    "ko": "뢴트겐은 자신의 발견이 자유롭게 사용될 수 있도록 특허를 내지 않았습니다.",
+    "hi": "रॉन्टगेन ने अपनी खोज का पेटेंट नहीं कराया ताकि उसका स्वतंत्र रूप से उपयोग हो सके।",
+    "ar": "لم يسجل رونتغن اكتشافه كبراءة اختراع حتى يمكن استخدامه بحرية."
   },
   "sources": [
     {
