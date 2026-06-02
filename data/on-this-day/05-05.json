@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Карл Маркс",
       "de": "Karl Marx wird geboren",
-      "en": "Karl Marx is born"
+      "en": "Karl Marx is born",
+      "fr": "Karl Marx naît",
+      "es": "Nace Karl Marx",
+      "it": "Nasce Karl Marx",
+      "pt": "Nasce Karl Marx",
+      "nl": "Karl Marx wordt geboren",
+      "pl": "Rodzi się Karol Marks",
+      "tr": "Karl Marx doğdu",
+      "zh": "卡尔·马克思出生",
+      "ja": "カール・マルクスが生まれる",
+      "ko": "카를 마르크스가 태어나다",
+      "hi": "कार्ल मार्क्स का जन्म हुआ",
+      "ar": "ولادة كارل ماركس"
     },
     "description": {
       "ru": "5 мая 1818 года в Трире родился Карл Маркс. Он стал философом, экономистом и политическим мыслителем, чьи идеи сильно повлияли на историю XIX и XX веков.",
       "de": "Am 5. Mai 1818 wurde Karl Marx in Trier geboren. Er wurde Philosoph, Oekonom und politischer Denker, dessen Ideen die Geschichte des 19. und 20. Jahrhunderts stark beeinflussten.",
-      "en": "On 5 May 1818, Karl Marx was born in Trier. He became a philosopher, economist and political thinker whose ideas strongly influenced nineteenth- and twentieth-century history."
+      "en": "On 5 May 1818, Karl Marx was born in Trier. He became a philosopher, economist and political thinker whose ideas strongly influenced nineteenth- and twentieth-century history.",
+      "fr": "Le 5 mai 1818, Karl Marx naquit à Trèves. Il devint philosophe, économiste et penseur politique, et ses idées influencèrent fortement l'histoire des XIXe et XXe siècles.",
+      "es": "El 5 de mayo de 1818 nació Karl Marx en Tréveris. Se convirtió en filósofo, economista y pensador político cuyas ideas influyeron fuertemente en la historia de los siglos XIX y XX.",
+      "it": "Il 5 maggio 1818 Karl Marx nacque a Treviri. Divenne filosofo, economista e pensatore politico, le cui idee influenzarono fortemente la storia del XIX e XX secolo.",
+      "pt": "Em 5 de maio de 1818 nasceu Karl Marx em Trier. Tornou-se filósofo, economista e pensador político, cujas ideias influenciaram fortemente a história dos séculos XIX e XX.",
+      "nl": "Op 5 mei 1818 werd Karl Marx geboren in Trier. Hij werd filosoof, econoom en politiek denker, wiens ideeën de geschiedenis van de negentiende en twintigste eeuw sterk beïnvloedden.",
+      "pl": "5 maja 1818 roku w Trewirze urodził się Karol Marks. Został filozofem, ekonomistą i myślicielem politycznym, którego idee silnie wpłynęły na historię XIX i XX wieku.",
+      "tr": "5 Mayıs 1818'de Karl Marx Trier'de doğdu. Fikirleri 19. ve 20. yüzyıl tarihini güçlü biçimde etkileyen bir filozof, ekonomist ve siyasal düşünür oldu.",
+      "zh": "1818年5月5日，卡尔·马克思出生于特里尔。他成为哲学家、经济学家和政治思想家，其思想深刻影响了19世纪和20世纪的历史。",
+      "ja": "1818年5月5日、カール・マルクスはトリーアで生まれました。彼は哲学者、経済学者、政治思想家となり、その思想は19世紀と20世紀の歴史に大きな影響を与えました。",
+      "ko": "1818년 5월 5일, 카를 마르크스가 트리어에서 태어났습니다. 그는 철학자, 경제학자, 정치 사상가가 되었고 그의 사상은 19세기와 20세기 역사에 큰 영향을 미쳤습니다.",
+      "hi": "5 मई 1818 को कार्ल मार्क्स का जन्म ट्रियर में हुआ। वे दार्शनिक, अर्थशास्त्री और राजनीतिक विचारक बने, जिनके विचारों ने उन्नीसवीं और बीसवीं सदी के इतिहास को गहराई से प्रभावित किया।",
+      "ar": "في 5 مايو 1818 وُلد كارل ماركس في ترير. أصبح فيلسوفا واقتصاديا ومفكرا سياسيا أثرت أفكاره بقوة في تاريخ القرنين التاسع عشر والعشرين."
     },
     "importance": {
       "ru": "Его труды стали основой марксизма и повлияли на рабочее движение, революции и политические споры по всему миру.",
       "de": "Seine Schriften wurden zur Grundlage des Marxismus und beeinflussten Arbeiterbewegungen, Revolutionen und politische Debatten weltweit.",
-      "en": "His writings became the basis of Marxism and influenced labor movements, revolutions and political debates around the world."
+      "en": "His writings became the basis of Marxism and influenced labor movements, revolutions and political debates around the world.",
+      "fr": "Ses écrits devinrent la base du marxisme et influencèrent les mouvements ouvriers, les révolutions et les débats politiques dans le monde entier.",
+      "es": "Sus escritos se convirtieron en la base del marxismo e influyeron en movimientos obreros, revoluciones y debates políticos en todo el mundo.",
+      "it": "I suoi scritti divennero la base del marxismo e influenzarono movimenti operai, rivoluzioni e dibattiti politici in tutto il mondo.",
+      "pt": "Os seus escritos tornaram-se a base do marxismo e influenciaram movimentos operários, revoluções e debates políticos em todo o mundo.",
+      "nl": "Zijn geschriften werden de basis van het marxisme en beïnvloedden arbeidersbewegingen, revoluties en politieke debatten over de hele wereld.",
+      "pl": "Jego pisma stały się podstawą marksizmu i wpłynęły na ruchy robotnicze, rewolucje oraz debaty polityczne na całym świecie.",
+      "tr": "Yazıları Marksizmin temeli oldu ve dünya çapında işçi hareketlerini, devrimleri ve siyasi tartışmaları etkiledi.",
+      "zh": "他的著作成为马克思主义的基础，并影响了世界各地的工人运动、革命和政治辩论。",
+      "ja": "彼の著作はマルクス主義の基礎となり、世界中の労働運動、革命、政治的議論に影響を与えました。",
+      "ko": "그의 저술은 마르크스주의의 기초가 되었고 전 세계의 노동운동, 혁명, 정치 논쟁에 영향을 미쳤습니다.",
+      "hi": "उनकी रचनाएँ मार्क्सवाद का आधार बनीं और दुनिया भर के श्रमिक आंदोलनों, क्रांतियों और राजनीतिक बहसों को प्रभावित किया।",
+      "ar": "أصبحت كتاباته أساس الماركسية وأثرت في الحركات العمالية والثورات والنقاشات السياسية حول العالم."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дом Маркса стал музеем",
           "de": "Das Geburtshaus wurde zum Museum",
-          "en": "His birthplace became a museum"
+          "en": "His birthplace became a museum",
+          "fr": "Sa maison natale est devenue un musée",
+          "es": "Su casa natal se convirtió en museo",
+          "it": "La sua casa natale divenne un museo",
+          "pt": "A sua casa natal tornou-se um museu",
+          "nl": "Zijn geboortehuis werd een museum",
+          "pl": "Jego dom rodzinny stał się muzeum",
+          "tr": "Doğduğu ev müze oldu",
+          "zh": "他的出生地成为博物馆",
+          "ja": "生家が博物館になる",
+          "ko": "그의 생가가 박물관이 되다",
+          "hi": "उनका जन्मस्थान संग्रहालय बन गया",
+          "ar": "تحول منزل ولادته إلى متحف"
         },
         "description": {
           "ru": "Дом в Трире, где родился Маркс, сегодня работает как музей. В нём рассказывают не только о биографии Маркса, но и о мировой истории его идей.",
           "de": "Das Haus in Trier, in dem Marx geboren wurde, ist heute ein Museum. Es erzaehlt nicht nur seine Biografie, sondern auch die weltweite Geschichte seiner Ideen.",
-          "en": "The house in Trier where Marx was born is now a museum. It presents not only his biography but also the global history of his ideas."
+          "en": "The house in Trier where Marx was born is now a museum. It presents not only his biography but also the global history of his ideas.",
+          "fr": "La maison de Trèves où Marx est né est aujourd'hui un musée. Elle présente non seulement sa biographie, mais aussi l'histoire mondiale de ses idées.",
+          "es": "La casa de Tréveris donde nació Marx es hoy un museo. Presenta no solo su biografía, sino también la historia global de sus ideas.",
+          "it": "La casa di Treviri in cui nacque Marx è oggi un museo. Presenta non solo la sua biografia, ma anche la storia mondiale delle sue idee.",
+          "pt": "A casa em Trier onde Marx nasceu é hoje um museu. Apresenta não só a sua biografia, mas também a história global das suas ideias.",
+          "nl": "Het huis in Trier waar Marx werd geboren is nu een museum. Het toont niet alleen zijn biografie, maar ook de wereldwijde geschiedenis van zijn ideeën.",
+          "pl": "Dom w Trewirze, w którym urodził się Marks, jest dziś muzeum. Przedstawia nie tylko jego biografię, lecz także światową historię jego idei.",
+          "tr": "Marx'ın Trier'de doğduğu ev bugün bir müzedir. Yalnızca biyografisini değil, fikirlerinin küresel tarihini de anlatır.",
+          "zh": "马克思在特里尔出生的房子如今是一座博物馆。它不仅展示他的生平，也展示其思想的全球历史。",
+          "ja": "マルクスが生まれたトリーアの家は、現在博物館になっています。そこでは彼の伝記だけでなく、彼の思想の世界的な歴史も紹介されています。",
+          "ko": "마르크스가 태어난 트리어의 집은 현재 박물관입니다. 그곳은 그의 생애뿐 아니라 그의 사상이 세계적으로 이어진 역사도 보여 줍니다.",
+          "hi": "ट्रियर में जहाँ मार्क्स का जन्म हुआ वह घर आज संग्रहालय है। वहाँ केवल उनकी जीवनी नहीं, बल्कि उनके विचारों का वैश्विक इतिहास भी दिखाया जाता है।",
+          "ar": "البيت في ترير الذي وُلد فيه ماركس أصبح اليوم متحفا. وهو يعرض ليس سيرته فقط، بل التاريخ العالمي لأفكاره أيضا."
         },
         "importance": {
           "ru": "Так маленький адрес в городе на Мозеле стал частью большой мировой истории.",
           "de": "So wurde eine kleine Adresse an der Mosel Teil grosser Weltgeschichte.",
-          "en": "A small address on the Moselle became part of world history."
+          "en": "A small address on the Moselle became part of world history.",
+          "fr": "Une petite adresse sur la Moselle devint une partie de la grande histoire mondiale.",
+          "es": "Una pequeña dirección junto al Mosela se convirtió en parte de la gran historia mundial.",
+          "it": "Un piccolo indirizzo sulla Mosella divenne parte della grande storia mondiale.",
+          "pt": "Um pequeno endereço no Mosela tornou-se parte da grande história mundial.",
+          "nl": "Een klein adres aan de Moezel werd deel van de grote wereldgeschiedenis.",
+          "pl": "Mały adres nad Mozelą stał się częścią wielkiej historii świata.",
+          "tr": "Mosel kıyısındaki küçük bir adres dünya tarihinin parçası oldu.",
+          "zh": "摩泽尔河畔的一个小地址成为世界历史的一部分。",
+          "ja": "モーゼル川沿いの小さな住所が、世界史の一部となりました。",
+          "ko": "모젤 강가의 작은 주소가 세계사의 일부가 되었습니다.",
+          "hi": "मोसेल नदी के किनारे एक छोटा पता विश्व इतिहास का हिस्सा बन गया।",
+          "ar": "أصبح عنوان صغير على نهر الموزيل جزءا من التاريخ العالمي."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Трир часто связывают с римской древностью, но для многих туристов он ещё и город Карла Маркса.",
     "de": "Trier wird oft mit der roemischen Antike verbunden, ist fuer viele Besucher aber auch die Stadt von Karl Marx.",
-    "en": "Trier is often associated with Roman antiquity, but for many visitors it is also the city of Karl Marx."
+    "en": "Trier is often associated with Roman antiquity, but for many visitors it is also the city of Karl Marx.",
+    "fr": "Trèves est souvent associée à l'Antiquité romaine, mais pour beaucoup de visiteurs c'est aussi la ville de Karl Marx.",
+    "es": "Tréveris se asocia a menudo con la antigüedad romana, pero para muchos visitantes también es la ciudad de Karl Marx.",
+    "it": "Treviri è spesso associata all'antichità romana, ma per molti visitatori è anche la città di Karl Marx.",
+    "pt": "Trier é muitas vezes associada à Antiguidade romana, mas para muitos visitantes é também a cidade de Karl Marx.",
+    "nl": "Trier wordt vaak verbonden met de Romeinse oudheid, maar voor veel bezoekers is het ook de stad van Karl Marx.",
+    "pl": "Trewir często kojarzy się ze starożytnością rzymską, ale dla wielu odwiedzających jest także miastem Karola Marksa.",
+    "tr": "Trier çoğu zaman Roma antik çağıyla ilişkilendirilir, ancak birçok ziyaretçi için aynı zamanda Karl Marx'ın şehridir.",
+    "zh": "特里尔常与古罗马时期联系在一起，但对许多游客来说，它也是卡尔·马克思之城。",
+    "ja": "トリーアはしばしばローマ古代と結びつけられますが、多くの訪問者にとってはカール・マルクスの町でもあります。",
+    "ko": "트리어는 종종 로마 고대와 연결되지만, 많은 방문객에게는 카를 마르크스의 도시이기도 합니다.",
+    "hi": "ट्रियर को अक्सर रोमन प्राचीनता से जोड़ा जाता है, लेकिन कई पर्यटकों के लिए यह कार्ल मार्क्स का शहर भी है।",
+    "ar": "ترتبط ترير غالبا بالعصور الرومانية القديمة، لكنها بالنسبة إلى كثير من الزوار مدينة كارل ماركس أيضا."
   },
   "sources": [
     {

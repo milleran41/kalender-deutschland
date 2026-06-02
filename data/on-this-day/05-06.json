@@ -11,17 +11,53 @@
     "title": {
       "ru": "ФРГ вступила в НАТО",
       "de": "Die Bundesrepublik tritt der NATO bei",
-      "en": "West Germany joins NATO"
+      "en": "West Germany joins NATO",
+      "fr": "La RFA rejoint l'OTAN",
+      "es": "Alemania Occidental entra en la OTAN",
+      "it": "La Germania Ovest entra nella NATO",
+      "pt": "A Alemanha Ocidental entra na NATO",
+      "nl": "West-Duitsland treedt toe tot de NAVO",
+      "pl": "RFN przystępuje do NATO",
+      "tr": "Batı Almanya NATO'ya katıldı",
+      "zh": "西德加入北约",
+      "ja": "西ドイツがNATOに加盟する",
+      "ko": "서독이 NATO에 가입하다",
+      "hi": "पश्चिम जर्मनी NATO में शामिल हुआ",
+      "ar": "ألمانيا الغربية تنضم إلى الناتو"
     },
     "description": {
       "ru": "6 мая 1955 года Федеративная Республика Германия стала членом НАТО. Это закрепило её место в западной системе безопасности во время холодной войны.",
       "de": "Am 6. Mai 1955 wurde die Bundesrepublik Deutschland Mitglied der NATO. Damit wurde ihr Platz im westlichen Sicherheitssystem des Kalten Krieges gefestigt.",
-      "en": "On 6 May 1955, the Federal Republic of Germany became a member of NATO. This confirmed its place in the Western security system during the Cold War."
+      "en": "On 6 May 1955, the Federal Republic of Germany became a member of NATO. This confirmed its place in the Western security system during the Cold War.",
+      "fr": "Le 6 mai 1955, la République fédérale d'Allemagne devint membre de l'OTAN. Cela confirma sa place dans le système de sécurité occidental pendant la guerre froide.",
+      "es": "El 6 de mayo de 1955, la República Federal de Alemania se convirtió en miembro de la OTAN. Esto confirmó su lugar en el sistema de seguridad occidental durante la Guerra Fría.",
+      "it": "Il 6 maggio 1955 la Repubblica Federale di Germania divenne membro della NATO. Questo confermò il suo posto nel sistema di sicurezza occidentale durante la Guerra fredda.",
+      "pt": "Em 6 de maio de 1955, a República Federal da Alemanha tornou-se membro da NATO. Isso confirmou o seu lugar no sistema de segurança ocidental durante a Guerra Fria.",
+      "nl": "Op 6 mei 1955 werd de Bondsrepubliek Duitsland lid van de NAVO. Daarmee werd haar plaats in het westerse veiligheidssysteem tijdens de Koude Oorlog bevestigd.",
+      "pl": "6 maja 1955 roku Republika Federalna Niemiec została członkiem NATO. Potwierdziło to jej miejsce w zachodnim systemie bezpieczeństwa podczas zimnej wojny.",
+      "tr": "6 Mayıs 1955'te Federal Almanya Cumhuriyeti NATO üyesi oldu. Bu, Soğuk Savaş sırasında Batı güvenlik sistemi içindeki yerini kesinleştirdi.",
+      "zh": "1955年5月6日，德意志联邦共和国成为北约成员。这确认了它在冷战时期西方安全体系中的位置。",
+      "ja": "1955年5月6日、ドイツ連邦共和国はNATOの加盟国となりました。これにより、冷戦期の西側安全保障体制における位置が確定しました。",
+      "ko": "1955년 5월 6일, 독일연방공화국은 NATO 회원국이 되었습니다. 이는 냉전 동안 서방 안보 체제 안에서의 위치를 확정했습니다.",
+      "hi": "6 मई 1955 को संघीय गणराज्य जर्मनी NATO का सदस्य बना। इससे शीत युद्ध के दौरान पश्चिमी सुरक्षा व्यवस्था में उसकी जगह पक्की हुई।",
+      "ar": "في 6 مايو 1955 أصبحت جمهورية ألمانيا الاتحادية عضوا في الناتو. وأكد ذلك مكانها في نظام الأمن الغربي خلال الحرب الباردة."
     },
     "importance": {
       "ru": "Вступление ФРГ в НАТО усилило разделение Европы на два блока.",
       "de": "Der NATO-Beitritt der Bundesrepublik verstaerkte die Teilung Europas in zwei Bloecke.",
-      "en": "West Germany's NATO membership deepened Europe's division into two blocs."
+      "en": "West Germany's NATO membership deepened Europe's division into two blocs.",
+      "fr": "L'adhésion de la RFA à l'OTAN renforça la division de l'Europe en deux blocs.",
+      "es": "La adhesión de Alemania Occidental a la OTAN profundizó la división de Europa en dos bloques.",
+      "it": "L'adesione della Germania Ovest alla NATO approfondì la divisione dell'Europa in due blocchi.",
+      "pt": "A adesão da Alemanha Ocidental à NATO aprofundou a divisão da Europa em dois blocos.",
+      "nl": "Het NAVO-lidmaatschap van West-Duitsland verdiepte de deling van Europa in twee blokken.",
+      "pl": "Członkostwo RFN w NATO pogłębiło podział Europy na dwa bloki.",
+      "tr": "Batı Almanya'nın NATO üyeliği Avrupa'nın iki bloka ayrılmasını derinleştirdi.",
+      "zh": "西德加入北约加深了欧洲分裂为两大阵营的局面。",
+      "ja": "西ドイツのNATO加盟は、ヨーロッパが二つの陣営に分かれる状況を深めました。",
+      "ko": "서독의 NATO 가입은 유럽이 두 블록으로 나뉘는 상황을 더 깊게 만들었습니다.",
+      "hi": "पश्चिम जर्मनी की NATO सदस्यता ने यूरोप के दो गुटों में विभाजन को और गहरा किया।",
+      "ar": "عمّقت عضوية ألمانيا الغربية في الناتو انقسام أوروبا إلى كتلتين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Суверенитет и холодная война",
           "de": "Souveraenitaet und Kalter Krieg",
-          "en": "Sovereignty and the Cold War"
+          "en": "Sovereignty and the Cold War",
+          "fr": "Souveraineté et guerre froide",
+          "es": "Soberanía y Guerra Fría",
+          "it": "Sovranità e Guerra fredda",
+          "pt": "Soberania e Guerra Fria",
+          "nl": "Soevereiniteit en Koude Oorlog",
+          "pl": "Suwerenność i zimna wojna",
+          "tr": "Egemenlik ve Soğuk Savaş",
+          "zh": "主权与冷战",
+          "ja": "主権と冷戦",
+          "ko": "주권과 냉전",
+          "hi": "सार्वभौमिकता और शीत युद्ध",
+          "ar": "السيادة والحرب الباردة"
         },
         "description": {
           "ru": "В тот же период завершался оккупационный статус ФРГ. Но новое положение страны сразу оказалось связано с военными союзами.",
           "de": "In dieser Zeit endete auch der Besatzungsstatus der Bundesrepublik. Die neue Lage des Landes war jedoch sofort mit Buendnissen verbunden.",
-          "en": "Around the same time, West Germany's occupation status ended. But the country's new position was immediately tied to military alliances."
+          "en": "Around the same time, West Germany's occupation status ended. But the country's new position was immediately tied to military alliances.",
+          "fr": "À la même époque, le statut d'occupation de la RFA prit fin. Mais la nouvelle position du pays fut aussitôt liée à des alliances militaires.",
+          "es": "Por la misma época terminó el estatus de ocupación de Alemania Occidental. Pero la nueva posición del país quedó inmediatamente ligada a alianzas militares.",
+          "it": "Nello stesso periodo terminò lo status di occupazione della Germania Ovest. Ma la nuova posizione del paese fu subito legata ad alleanze militari.",
+          "pt": "Na mesma altura terminou o estatuto de ocupação da Alemanha Ocidental. Mas a nova posição do país ficou imediatamente ligada a alianças militares.",
+          "nl": "Rond dezelfde tijd eindigde de bezettingsstatus van West-Duitsland. Maar de nieuwe positie van het land was meteen verbonden met militaire bondgenootschappen.",
+          "pl": "W tym samym czasie kończył się status okupacyjny RFN. Nowa pozycja kraju była jednak natychmiast związana z sojuszami wojskowymi.",
+          "tr": "Aynı dönemde Batı Almanya'nın işgal statüsü sona erdi. Ancak ülkenin yeni konumu hemen askeri ittifaklarla bağlantılı oldu.",
+          "zh": "大约在同一时期，西德的占领状态结束。但该国的新地位立即与军事联盟联系在一起。",
+          "ja": "ほぼ同じ時期に、西ドイツの占領状態は終わりました。しかし国の新しい立場はすぐに軍事同盟と結びつきました。",
+          "ko": "비슷한 시기에 서독의 점령 상태가 끝났습니다. 그러나 국가의 새로운 위치는 곧바로 군사 동맹과 연결되었습니다.",
+          "hi": "लगभग उसी समय पश्चिम जर्मनी की कब्ज़ा स्थिति समाप्त हुई। लेकिन देश की नई स्थिति तुरंत सैन्य गठबंधनों से जुड़ गई।",
+          "ar": "في الوقت نفسه تقريبا انتهى وضع الاحتلال في ألمانيا الغربية. لكن الوضع الجديد للبلاد ارتبط مباشرة بالتحالفات العسكرية."
         },
         "importance": {
           "ru": "Дата показывает, что послевоенное восстановление Германии шло вместе с новой геополитикой.",
           "de": "Das Datum zeigt, dass Deutschlands Nachkriegsordnung eng mit neuer Geopolitik verbunden war.",
-          "en": "The date shows that Germany's postwar order was closely tied to new geopolitics."
+          "en": "The date shows that Germany's postwar order was closely tied to new geopolitics.",
+          "fr": "Cette date montre que l'ordre allemand d'après-guerre était étroitement lié à une nouvelle géopolitique.",
+          "es": "La fecha muestra que el orden de posguerra de Alemania estaba estrechamente ligado a una nueva geopolítica.",
+          "it": "La data mostra che l'ordine tedesco del dopoguerra era strettamente legato a una nuova geopolitica.",
+          "pt": "A data mostra que a ordem alemã do pós-guerra estava estreitamente ligada a uma nova geopolítica.",
+          "nl": "Deze datum laat zien dat de naoorlogse orde van Duitsland nauw verbonden was met nieuwe geopolitiek.",
+          "pl": "Ta data pokazuje, że powojenny porządek Niemiec był ściśle związany z nową geopolityką.",
+          "tr": "Bu tarih, Almanya'nın savaş sonrası düzeninin yeni jeopolitikle yakından bağlantılı olduğunu gösterir.",
+          "zh": "这个日期显示，德国战后秩序与新的地缘政治紧密相连。",
+          "ja": "この日付は、ドイツの戦後秩序が新しい地政学と密接に結びついていたことを示しています。",
+          "ko": "이 날짜는 독일의 전후 질서가 새로운 지정학과 밀접하게 연결되어 있었음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि जर्मनी की युद्धोत्तर व्यवस्था नई भू-राजनीति से गहराई से जुड़ी थी।",
+          "ar": "يبين هذا التاريخ أن نظام ألمانيا بعد الحرب كان مرتبطا ارتباطا وثيقا بجغرافيا سياسية جديدة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "После воссоединения 1990 года вся Германия осталась в НАТО.",
     "de": "Nach der Wiedervereinigung 1990 blieb ganz Deutschland in der NATO.",
-    "en": "After reunification in 1990, all of Germany remained in NATO."
+    "en": "After reunification in 1990, all of Germany remained in NATO.",
+    "fr": "Après la réunification en 1990, toute l'Allemagne resta dans l'OTAN.",
+    "es": "Tras la reunificación en 1990, toda Alemania permaneció en la OTAN.",
+    "it": "Dopo la riunificazione del 1990, tutta la Germania rimase nella NATO.",
+    "pt": "Depois da reunificação em 1990, toda a Alemanha permaneceu na NATO.",
+    "nl": "Na de hereniging in 1990 bleef heel Duitsland in de NAVO.",
+    "pl": "Po zjednoczeniu w 1990 roku całe Niemcy pozostały w NATO.",
+    "tr": "1990'daki birleşmeden sonra tüm Almanya NATO'da kaldı.",
+    "zh": "1990年统一后，整个德国仍留在北约。",
+    "ja": "1990年の再統一後、ドイツ全体がNATOに残りました。",
+    "ko": "1990년 통일 이후 독일 전체가 NATO에 남았습니다.",
+    "hi": "1990 के पुनःएकीकरण के बाद पूरा जर्मनी NATO में बना रहा।",
+    "ar": "بعد إعادة التوحيد عام 1990 بقيت ألمانيا كلها في الناتو."
   },
   "sources": [
     {
