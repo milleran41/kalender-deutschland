@@ -11,17 +11,53 @@
     "title": {
       "ru": "Химмлер объявил о создании лагеря Дахау",
       "de": "Himmler kündigt das Lager Dachau an",
-      "en": "Himmler announces the Dachau camp"
+      "en": "Himmler announces the Dachau camp",
+      "fr": "Himmler annonce la création du camp de Dachau",
+      "es": "Himmler anuncia el campo de Dachau",
+      "it": "Himmler annuncia il campo di Dachau",
+      "pt": "Himmler anuncia o campo de Dachau",
+      "nl": "Himmler kondigt kamp Dachau aan",
+      "pl": "Himmler ogłasza utworzenie obozu Dachau",
+      "tr": "Himmler Dachau kampını duyurdu",
+      "zh": "希姆莱宣布建立达豪集中营",
+      "ja": "ヒムラーがダッハウ収容所を発表",
+      "ko": "히믈러가 다하우 수용소를 발표하다",
+      "hi": "हिम्लर ने डाखाउ शिविर की घोषणा की",
+      "ar": "هيملر يعلن إنشاء معسكر داخاو"
     },
     "description": {
       "ru": "20 марта 1933 года Генрих Химмлер объявил о создании концентрационного лагеря для политических противников близ Дахау. Первые заключённые прибыли туда 22 марта.",
       "de": "Am 20. März 1933 kündigte Heinrich Himmler die Einrichtung eines Konzentrationslagers für politische Gegner bei Dachau an. Die ersten Häftlinge trafen dort am 22. März ein.",
-      "en": "On 20 March 1933, Heinrich Himmler announced the establishment of a concentration camp for political opponents near Dachau. The first prisoners arrived there on 22 March."
+      "en": "On 20 March 1933, Heinrich Himmler announced the establishment of a concentration camp for political opponents near Dachau. The first prisoners arrived there on 22 March.",
+      "fr": "Le 20 mars 1933, Heinrich Himmler annonça la création d'un camp de concentration pour opposants politiques près de Dachau. Les premiers détenus y arrivèrent le 22 mars.",
+      "es": "El 20 de marzo de 1933, Heinrich Himmler anunció la creación de un campo de concentración para opositores políticos cerca de Dachau. Los primeros prisioneros llegaron allí el 22 de marzo.",
+      "it": "Il 20 marzo 1933 Heinrich Himmler annunciò la creazione di un campo di concentramento per oppositori politici vicino a Dachau. I primi prigionieri vi arrivarono il 22 marzo.",
+      "pt": "Em 20 de março de 1933, Heinrich Himmler anunciou a criação de um campo de concentração para opositores políticos perto de Dachau. Os primeiros prisioneiros chegaram ali em 22 de março.",
+      "nl": "Op 20 maart 1933 kondigde Heinrich Himmler de oprichting aan van een concentratiekamp voor politieke tegenstanders bij Dachau. De eerste gevangenen kwamen daar op 22 maart aan.",
+      "pl": "20 marca 1933 roku Heinrich Himmler ogłosił utworzenie obozu koncentracyjnego dla przeciwników politycznych pod Dachau. Pierwsi więźniowie przybyli tam 22 marca.",
+      "tr": "20 Mart 1933'te Heinrich Himmler, Dachau yakınlarında siyasi muhalifler için bir toplama kampı kurulacağını duyurdu. İlk mahkumlar 22 Mart'ta oraya geldi.",
+      "zh": "1933年3月20日，海因里希·希姆莱宣布在达豪附近建立一座关押政治反对者的集中营。第一批囚犯于3月22日抵达那里。",
+      "ja": "1933年3月20日、ハインリヒ・ヒムラーはダッハウ近郊に政治的反対者のための強制収容所を設置すると発表しました。最初の囚人は3月22日に到着しました。",
+      "ko": "1933년 3월 20일, 하인리히 히믈러는 다하우 근처에 정치적 반대자들을 위한 강제수용소를 세우겠다고 발표했습니다. 첫 수감자들은 3월 22일 그곳에 도착했습니다.",
+      "hi": "20 मार्च 1933 को हाइनरिख हिम्लर ने डाखाउ के पास राजनीतिक विरोधियों के लिए एक एकाग्रता शिविर स्थापित करने की घोषणा की। पहले कैदी 22 मार्च को वहाँ पहुँचे।",
+      "ar": "في 20 مارس 1933 أعلن هاينريش هيملر إنشاء معسكر اعتقال للمعارضين السياسيين قرب داخاو. وصل أول السجناء إلى هناك في 22 مارس."
     },
     "importance": {
       "ru": "Дахау стал моделью системы лагерей СС и одним из ранних символов нацистского террора.",
       "de": "Dachau wurde zum Modell des SS-Lagersystems und zu einem frühen Symbol des nationalsozialistischen Terrors.",
-      "en": "Dachau became a model for the SS camp system and an early symbol of Nazi terror."
+      "en": "Dachau became a model for the SS camp system and an early symbol of Nazi terror.",
+      "fr": "Dachau devint un modèle pour le système des camps SS et un symbole précoce de la terreur nazie.",
+      "es": "Dachau se convirtió en modelo del sistema de campos de las SS y en un símbolo temprano del terror nazi.",
+      "it": "Dachau divenne un modello per il sistema dei campi delle SS e un primo simbolo del terrore nazista.",
+      "pt": "Dachau tornou-se um modelo para o sistema de campos da SS e um símbolo inicial do terror nazi.",
+      "nl": "Dachau werd een model voor het SS-kampsysteem en een vroeg symbool van naziterreur.",
+      "pl": "Dachau stało się wzorem dla systemu obozów SS i jednym z wczesnych symboli nazistowskiego terroru.",
+      "tr": "Dachau, SS kamp sisteminin modeli ve Nazi terörünün erken sembollerinden biri oldu.",
+      "zh": "达豪成为党卫队集中营体系的样板，也成为纳粹恐怖的早期象征。",
+      "ja": "ダッハウはSS収容所制度のモデルとなり、ナチスの恐怖政治の初期の象徴となりました。",
+      "ko": "다하우는 SS 수용소 체계의 모델이자 나치 테러의 초기 상징이 되었습니다.",
+      "hi": "डाखाउ एसएस शिविर प्रणाली का मॉडल और नाज़ी आतंक का शुरुआती प्रतीक बन गया।",
+      "ar": "أصبح داخاو نموذجا لنظام معسكرات إس إس ورمزا مبكرا للإرهاب النازي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Террор против противников режима",
           "de": "Terror gegen politische Gegner",
-          "en": "Terror against political opponents"
+          "en": "Terror against political opponents",
+          "fr": "Terreur contre les opposants politiques",
+          "es": "Terror contra los opositores políticos",
+          "it": "Terrore contro gli oppositori politici",
+          "pt": "Terror contra opositores políticos",
+          "nl": "Terreur tegen politieke tegenstanders",
+          "pl": "Terror wobec przeciwników politycznych",
+          "tr": "Siyasi muhaliflere karşı terör",
+          "zh": "针对政治反对者的恐怖",
+          "ja": "政治的反対者へのテロ",
+          "ko": "정치적 반대자에 대한 테러",
+          "hi": "राजनीतिक विरोधियों के खिलाफ आतंक",
+          "ar": "إرهاب ضد المعارضين السياسيين"
         },
         "description": {
           "ru": "Первоначально Дахау предназначался прежде всего для коммунистов, социал-демократов и других противников нацистов. Очень быстро лагерь стал частью более широкой системы насилия, запугивания и уничтожения.",
           "de": "Zunächst war Dachau vor allem für Kommunisten, Sozialdemokraten und andere Gegner der Nationalsozialisten bestimmt. Sehr schnell wurde das Lager Teil eines umfassenderen Systems von Gewalt, Einschüchterung und Vernichtung.",
-          "en": "At first, Dachau was intended mainly for communists, social democrats and other opponents of the Nazis. Very quickly, the camp became part of a broader system of violence, intimidation and destruction."
+          "en": "At first, Dachau was intended mainly for communists, social democrats and other opponents of the Nazis. Very quickly, the camp became part of a broader system of violence, intimidation and destruction.",
+          "fr": "Au début, Dachau était surtout destiné aux communistes, sociaux-démocrates et autres opposants aux nazis. Très vite, le camp devint une partie d'un système plus large de violence, d'intimidation et de destruction.",
+          "es": "Al principio, Dachau estaba destinado sobre todo a comunistas, socialdemócratas y otros opositores de los nazis. Muy pronto, el campo pasó a formar parte de un sistema más amplio de violencia, intimidación y destrucción.",
+          "it": "All'inizio Dachau era destinato soprattutto a comunisti, socialdemocratici e altri oppositori dei nazisti. Molto presto il campo divenne parte di un sistema più ampio di violenza, intimidazione e distruzione.",
+          "pt": "No início, Dachau destinava-se sobretudo a comunistas, sociais-democratas e outros opositores dos nazis. Muito rapidamente, o campo tornou-se parte de um sistema mais amplo de violência, intimidação e destruição.",
+          "nl": "Aanvankelijk was Dachau vooral bedoeld voor communisten, sociaaldemocraten en andere tegenstanders van de nazi's. Al snel werd het kamp deel van een breder systeem van geweld, intimidatie en vernietiging.",
+          "pl": "Początkowo Dachau było przeznaczone głównie dla komunistów, socjaldemokratów i innych przeciwników nazistów. Bardzo szybko obóz stał się częścią szerszego systemu przemocy, zastraszania i niszczenia.",
+          "tr": "Başlangıçta Dachau özellikle komünistler, sosyal demokratlar ve Nazilerin diğer muhalifleri için düşünülmüştü. Kamp çok kısa sürede daha geniş bir şiddet, sindirme ve yok etme sisteminin parçası oldu.",
+          "zh": "最初，达豪主要用于关押共产党人、社会民主党人和其他纳粹反对者。很快，这座集中营成为更大规模的暴力、恐吓和毁灭体系的一部分。",
+          "ja": "当初、ダッハウは主に共産主義者、社会民主主義者、その他のナチス反対者を対象としていました。収容所はすぐに、暴力、威嚇、破壊のより広い制度の一部となりました。",
+          "ko": "처음에 다하우는 주로 공산주의자, 사회민주주의자, 그 밖의 나치 반대자들을 대상으로 했습니다. 매우 빠르게 이 수용소는 폭력, 협박, 파괴의 더 넓은 체계의 일부가 되었습니다.",
+          "hi": "शुरुआत में डाखाउ मुख्य रूप से कम्युनिस्टों, सोशल डेमोक्रेटों और नाज़ियों के अन्य विरोधियों के लिए था। बहुत जल्दी यह शिविर हिंसा, डराने और विनाश की व्यापक प्रणाली का हिस्सा बन गया।",
+          "ar": "في البداية كان داخاو مخصصا أساسا للشيوعيين والاشتراكيين الديمقراطيين وغيرهم من معارضي النازيين. وسرعان ما أصبح المعسكر جزءا من نظام أوسع من العنف والترهيب والتدمير."
         },
         "importance": {
           "ru": "Дата показывает, как быстро после прихода к власти нацисты перешли от политической борьбы к государственному террору.",
           "de": "Das Datum zeigt, wie schnell die Nationalsozialisten nach der Machtübernahme von politischem Kampf zu staatlichem Terror übergingen.",
-          "en": "The date shows how quickly the Nazis moved from political struggle to state terror after taking power."
+          "en": "The date shows how quickly the Nazis moved from political struggle to state terror after taking power.",
+          "fr": "Cette date montre à quelle vitesse les nazis passèrent de la lutte politique à la terreur d'État après leur arrivée au pouvoir.",
+          "es": "La fecha muestra lo rápido que los nazis pasaron de la lucha política al terror de Estado tras llegar al poder.",
+          "it": "La data mostra quanto rapidamente i nazisti passarono dalla lotta politica al terrore di Stato dopo la presa del potere.",
+          "pt": "A data mostra a rapidez com que os nazis passaram da luta política ao terror de Estado depois de chegarem ao poder.",
+          "nl": "Deze datum laat zien hoe snel de nazi's na de machtsovername van politieke strijd naar staatsterreur overgingen.",
+          "pl": "Ta data pokazuje, jak szybko po przejęciu władzy naziści przeszli od walki politycznej do terroru państwowego.",
+          "tr": "Bu tarih, Nazilerin iktidarı aldıktan sonra siyasi mücadeleden devlet terörüne ne kadar hızlı geçtiğini gösterir.",
+          "zh": "这个日期表明，纳粹掌权后多么迅速地从政治斗争转向国家恐怖。",
+          "ja": "この日付は、ナチスが政権掌握後、政治闘争から国家的テロへどれほど早く移ったかを示しています。",
+          "ko": "이 날짜는 나치가 권력을 잡은 뒤 정치 투쟁에서 국가 테러로 얼마나 빨리 넘어갔는지를 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि सत्ता में आने के बाद नाज़ी राजनीतिक संघर्ष से राज्य आतंक की ओर कितनी जल्दी बढ़े।",
+          "ar": "يُظهر هذا التاريخ مدى سرعة انتقال النازيين بعد استلام السلطة من الصراع السياسي إلى إرهاب الدولة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Террор объявили публично",
           "de": "Terror wurde öffentlich angekündigt",
-          "en": "Terror was announced publicly"
+          "en": "Terror was announced publicly",
+          "fr": "La terreur fut annoncée publiquement",
+          "es": "El terror se anunció públicamente",
+          "it": "Il terrore fu annunciato pubblicamente",
+          "pt": "O terror foi anunciado publicamente",
+          "nl": "Terreur werd publiek aangekondigd",
+          "pl": "Terror ogłoszono publicznie",
+          "tr": "Terör kamuya açık duyuruldu",
+          "zh": "恐怖被公开宣布",
+          "ja": "テロは公然と発表された",
+          "ko": "테러가 공개적으로 발표되다",
+          "hi": "आतंक की सार्वजनिक घोषणा हुई",
+          "ar": "أُعلن الإرهاب علنا"
         },
         "description": {
           "ru": "Дахау не возник как полностью скрытый проект: о лагере сообщили в прессе. Это показывает, насколько быстро насилие стало «нормальной» частью новой власти.",
           "de": "Dachau entstand nicht als völlig verborgenes Projekt: Über das Lager wurde in der Presse berichtet. Das zeigt, wie schnell Gewalt zu einem normalen Bestandteil der neuen Macht wurde.",
-          "en": "Dachau did not begin as a completely hidden project: the camp was reported in the press. This shows how quickly violence became a 'normal' part of the new regime."
+          "en": "Dachau did not begin as a completely hidden project: the camp was reported in the press. This shows how quickly violence became a 'normal' part of the new regime.",
+          "fr": "Dachau ne naquit pas comme un projet totalement caché: la presse parla du camp. Cela montre à quelle vitesse la violence devint une partie « normale » du nouveau pouvoir.",
+          "es": "Dachau no empezó como un proyecto totalmente oculto: la prensa informó sobre el campo. Esto muestra lo rápido que la violencia se convirtió en parte «normal» del nuevo poder.",
+          "it": "Dachau non nacque come progetto completamente nascosto: la stampa parlò del campo. Questo mostra quanto rapidamente la violenza divenne una parte «normale» del nuovo potere.",
+          "pt": "Dachau não começou como um projeto totalmente escondido: o campo foi noticiado na imprensa. Isto mostra quão depressa a violência se tornou uma parte «normal» do novo poder.",
+          "nl": "Dachau begon niet als een volledig verborgen project: in de pers werd over het kamp bericht. Dit laat zien hoe snel geweld een 'normaal' onderdeel van de nieuwe macht werd.",
+          "pl": "Dachau nie powstało jako całkowicie ukryty projekt: o obozie informowała prasa. Pokazuje to, jak szybko przemoc stała się «normalną» częścią nowej władzy.",
+          "tr": "Dachau tamamen gizli bir proje olarak başlamadı: kamp basında duyuruldu. Bu, şiddetin yeni iktidarın 'normal' bir parçası haline ne kadar hızlı geldiğini gösterir.",
+          "zh": "达豪并不是一个完全秘密的项目：报纸报道了这座集中营。这表明暴力多么迅速地成为新政权的“正常”组成部分。",
+          "ja": "ダッハウは完全に隠された計画として始まったわけではありません。収容所については新聞で報じられました。これは、暴力が新しい権力の「普通の」一部になるのがどれほど早かったかを示しています。",
+          "ko": "다하우는 완전히 숨겨진 프로젝트로 시작된 것이 아니었습니다. 수용소에 대한 보도가 언론에 나왔습니다. 이는 폭력이 새 권력의 '정상적인' 일부가 되는 속도가 얼마나 빨랐는지를 보여 줍니다.",
+          "hi": "डाखाउ पूरी तरह छिपी परियोजना के रूप में शुरू नहीं हुआ: शिविर के बारे में प्रेस में बताया गया। यह दिखाता है कि हिंसा कितनी जल्दी नई सत्ता का 'सामान्य' हिस्सा बन गई।",
+          "ar": "لم يبدأ داخاو كمشروع مخفي تماما: فقد وردت أخبار عن المعسكر في الصحافة. وهذا يبين مدى سرعة تحول العنف إلى جزء «طبيعي» من السلطة الجديدة."
         },
         "importance": {
           "ru": "Иногда страшно не только то, что скрывают, но и то, что уже не считают нужным скрывать.",
           "de": "Manchmal ist nicht nur erschreckend, was verborgen wird, sondern auch, was man nicht mehr verbergen zu müssen glaubt.",
-          "en": "Sometimes what is frightening is not only what is hidden, but what people no longer feel the need to hide."
+          "en": "Sometimes what is frightening is not only what is hidden, but what people no longer feel the need to hide.",
+          "fr": "Parfois, ce qui effraie n'est pas seulement ce que l'on cache, mais aussi ce que l'on ne juge plus nécessaire de cacher.",
+          "es": "A veces lo aterrador no es solo lo que se oculta, sino también lo que ya no se considera necesario ocultar.",
+          "it": "A volte fa paura non solo ciò che viene nascosto, ma anche ciò che non si ritiene più necessario nascondere.",
+          "pt": "Às vezes, o assustador não é apenas o que se esconde, mas também o que já não se considera necessário esconder.",
+          "nl": "Soms is niet alleen beangstigend wat verborgen wordt, maar ook wat men niet langer denkt te hoeven verbergen.",
+          "pl": "Czasem przeraża nie tylko to, co się ukrywa, lecz także to, czego nie uważa się już za konieczne ukrywać.",
+          "tr": "Bazen korkutucu olan yalnızca saklanan şey değil, artık saklanmasına gerek duyulmayan şeydir.",
+          "zh": "有时可怕的不只是被隐藏的东西，还有人们已经不认为需要隐藏的东西。",
+          "ja": "時に恐ろしいのは、隠されるものだけでなく、もはや隠す必要がないと考えられるものです。",
+          "ko": "때로 무서운 것은 숨겨지는 것뿐 아니라, 더 이상 숨길 필요가 없다고 여겨지는 것입니다.",
+          "hi": "कभी-कभी डरावनी बात केवल वह नहीं होती जो छिपाई जाती है, बल्कि वह भी होती है जिसे छिपाना अब जरूरी नहीं समझा जाता।",
+          "ar": "أحيانا لا يكون المخيف ما يُخفى فقط، بل أيضا ما لم يعد الناس يرون ضرورة لإخفائه."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Дахау действовал почти всё время существования нацистского режима, с 1933 по 1945 год.",
     "de": "Dachau bestand fast während der gesamten NS-Herrschaft, von 1933 bis 1945.",
-    "en": "Dachau operated for almost the entire period of Nazi rule, from 1933 to 1945."
+    "en": "Dachau operated for almost the entire period of Nazi rule, from 1933 to 1945.",
+    "fr": "Dachau fonctionna pendant presque toute la période du régime nazi, de 1933 à 1945.",
+    "es": "Dachau funcionó durante casi todo el periodo del régimen nazi, de 1933 a 1945.",
+    "it": "Dachau funzionò per quasi tutto il periodo del regime nazista, dal 1933 al 1945.",
+    "pt": "Dachau funcionou durante quase todo o período do regime nazi, de 1933 a 1945.",
+    "nl": "Dachau bestond bijna de hele periode van het nazibewind, van 1933 tot 1945.",
+    "pl": "Dachau działało niemal przez cały okres rządów nazistowskich, od 1933 do 1945 roku.",
+    "tr": "Dachau, Nazi yönetiminin neredeyse tamamı boyunca, 1933'ten 1945'e kadar faaliyet gösterdi.",
+    "zh": "达豪几乎贯穿整个纳粹统治时期，从1933年一直运作到1945年。",
+    "ja": "ダッハウは1933年から1945年まで、ナチス支配のほぼ全期間にわたって運営されました。",
+    "ko": "다하우는 1933년부터 1945년까지 나치 지배 기간 거의 내내 운영되었습니다.",
+    "hi": "डाखाउ 1933 से 1945 तक नाज़ी शासन की लगभग पूरी अवधि में चलता रहा।",
+    "ar": "عمل داخاو طوال معظم فترة الحكم النازي تقريبا، من 1933 إلى 1945."
   },
   "sources": [
     {

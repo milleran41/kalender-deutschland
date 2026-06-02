@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Иоганн Себастьян Бах",
       "de": "Johann Sebastian Bach wird geboren",
-      "en": "Johann Sebastian Bach is born"
+      "en": "Johann Sebastian Bach is born",
+      "fr": "Naissance de Johann Sebastian Bach",
+      "es": "Nace Johann Sebastian Bach",
+      "it": "Nasce Johann Sebastian Bach",
+      "pt": "Nasce Johann Sebastian Bach",
+      "nl": "Johann Sebastian Bach wordt geboren",
+      "pl": "Urodził się Johann Sebastian Bach",
+      "tr": "Johann Sebastian Bach doğdu",
+      "zh": "约翰·塞巴斯蒂安·巴赫出生",
+      "ja": "ヨハン・ゼバスティアン・バッハが生まれる",
+      "ko": "요한 제바스티안 바흐가 태어나다",
+      "hi": "योहान सेबास्टियन बाख का जन्म हुआ",
+      "ar": "ولادة يوهان سباستيان باخ"
     },
     "description": {
       "ru": "21 марта 1685 года в Айзенахе родился Иоганн Себастьян Бах. Он стал одним из величайших композиторов европейской музыки.",
       "de": "Am 21. Maerz 1685 wurde Johann Sebastian Bach in Eisenach geboren. Er wurde einer der groessten Komponisten der europaeischen Musik.",
-      "en": "On 21 March 1685, Johann Sebastian Bach was born in Eisenach. He became one of the greatest composers in European music."
+      "en": "On 21 March 1685, Johann Sebastian Bach was born in Eisenach. He became one of the greatest composers in European music.",
+      "fr": "Le 21 mars 1685, Johann Sebastian Bach naquit à Eisenach. Il devint l'un des plus grands compositeurs de la musique européenne.",
+      "es": "El 21 de marzo de 1685 nació Johann Sebastian Bach en Eisenach. Llegó a ser uno de los mayores compositores de la música europea.",
+      "it": "Il 21 marzo 1685 Johann Sebastian Bach nacque a Eisenach. Divenne uno dei più grandi compositori della musica europea.",
+      "pt": "Em 21 de março de 1685, Johann Sebastian Bach nasceu em Eisenach. Tornou-se um dos maiores compositores da música europeia.",
+      "nl": "Op 21 maart 1685 werd Johann Sebastian Bach in Eisenach geboren. Hij werd een van de grootste componisten van de Europese muziek.",
+      "pl": "21 marca 1685 roku w Eisenach urodził się Johann Sebastian Bach. Stał się jednym z największych kompozytorów muzyki europejskiej.",
+      "tr": "21 Mart 1685'te Johann Sebastian Bach Eisenach'ta doğdu. Avrupa müziğinin en büyük bestecilerinden biri oldu.",
+      "zh": "1685年3月21日，约翰·塞巴斯蒂安·巴赫出生于艾森纳赫。他成为欧洲音乐史上最伟大的作曲家之一。",
+      "ja": "1685年3月21日、ヨハン・ゼバスティアン・バッハはアイゼナハで生まれました。彼はヨーロッパ音楽で最も偉大な作曲家の一人となりました。",
+      "ko": "1685년 3월 21일, 요한 제바스티안 바흐가 아이제나흐에서 태어났습니다. 그는 유럽 음악의 가장 위대한 작곡가 중 한 명이 되었습니다.",
+      "hi": "21 मार्च 1685 को योहान सेबास्टियन बाख का जन्म आइज़ेनाख में हुआ। वे यूरोपीय संगीत के महानतम संगीतकारों में से एक बने।",
+      "ar": "في 21 مارس 1685 وُلد يوهان سباستيان باخ في آيزناخ. وأصبح أحد أعظم مؤلفي الموسيقى الأوروبية."
     },
     "importance": {
       "ru": "Дата выходит за основной диапазон, но Бах слишком важен для немецкой культуры, чтобы его пропускать.",
       "de": "Das Datum liegt vor dem Hauptzeitraum, aber Bach ist fuer die deutsche Kultur zu wichtig, um ihn auszulassen.",
-      "en": "The date is before the main range, but Bach is too important for German culture to omit."
+      "en": "The date is before the main range, but Bach is too important for German culture to omit.",
+      "fr": "La date est antérieure à la période principale, mais Bach est trop important pour la culture allemande pour être omis.",
+      "es": "La fecha queda antes del periodo principal, pero Bach es demasiado importante para la cultura alemana como para omitirlo.",
+      "it": "La data è precedente al periodo principale, ma Bach è troppo importante per la cultura tedesca per essere omesso.",
+      "pt": "A data fica antes do período principal, mas Bach é demasiado importante para a cultura alemã para ser omitido.",
+      "nl": "De datum ligt vóór de hoofdperiode, maar Bach is te belangrijk voor de Duitse cultuur om over te slaan.",
+      "pl": "Data wykracza poza główny zakres, ale Bach jest zbyt ważny dla kultury niemieckiej, by go pominąć.",
+      "tr": "Tarih ana aralığın dışındadır, ancak Bach Alman kültürü için atlanamayacak kadar önemlidir.",
+      "zh": "这个日期早于主要时间范围，但巴赫对德国文化太重要，不能省略。",
+      "ja": "この日付は主要な範囲より前ですが、バッハはドイツ文化にとって省くには重要すぎます。",
+      "ko": "이 날짜는 주요 범위보다 앞서지만, 바흐는 독일 문화에서 빼기에는 너무 중요합니다.",
+      "hi": "यह तारीख मुख्य सीमा से पहले की है, लेकिन बाख जर्मन संस्कृति के लिए इतने महत्वपूर्ण हैं कि उन्हें छोड़ा नहीं जा सकता।",
+      "ar": "يقع هذا التاريخ قبل النطاق الرئيسي، لكن باخ مهم جدا للثقافة الألمانية بحيث لا يمكن إغفاله."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "От Айзенаха до Лейпцига",
           "de": "Von Eisenach nach Leipzig",
-          "en": "From Eisenach to Leipzig"
+          "en": "From Eisenach to Leipzig",
+          "fr": "D'Eisenach à Leipzig",
+          "es": "De Eisenach a Leipzig",
+          "it": "Da Eisenach a Lipsia",
+          "pt": "De Eisenach a Leipzig",
+          "nl": "Van Eisenach naar Leipzig",
+          "pl": "Od Eisenach do Lipska",
+          "tr": "Eisenach'tan Leipzig'e",
+          "zh": "从艾森纳赫到莱比锡",
+          "ja": "アイゼナハからライプツィヒへ",
+          "ko": "아이제나흐에서 라이프치히까지",
+          "hi": "आइज़ेनाख से लाइपज़िग तक",
+          "ar": "من آيزناخ إلى لايبزيغ"
         },
         "description": {
           "ru": "Бах родился в Тюрингии, а позднее работал в Лейпциге. Поэтому его биография соединяет несколько важных культурных мест Германии.",
           "de": "Bach wurde in Thueringen geboren und wirkte spaeter in Leipzig. Seine Biografie verbindet mehrere wichtige Kulturorte Deutschlands.",
-          "en": "Bach was born in Thuringia and later worked in Leipzig. His life connects several important cultural places in Germany."
+          "en": "Bach was born in Thuringia and later worked in Leipzig. His life connects several important cultural places in Germany.",
+          "fr": "Bach naquit en Thuringe et travailla plus tard à Leipzig. Sa biographie relie donc plusieurs lieux culturels importants d'Allemagne.",
+          "es": "Bach nació en Turingia y más tarde trabajó en Leipzig. Por eso su biografía conecta varios lugares culturales importantes de Alemania.",
+          "it": "Bach nacque in Turingia e più tardi lavorò a Lipsia. La sua biografia collega quindi diversi luoghi culturali importanti della Germania.",
+          "pt": "Bach nasceu na Turíngia e mais tarde trabalhou em Leipzig. Por isso, a sua biografia liga vários lugares culturais importantes da Alemanha.",
+          "nl": "Bach werd geboren in Thüringen en werkte later in Leipzig. Zijn biografie verbindt daardoor meerdere belangrijke culturele plaatsen in Duitsland.",
+          "pl": "Bach urodził się w Turyngii, a później pracował w Lipsku. Dlatego jego biografia łączy kilka ważnych miejsc kultury w Niemczech.",
+          "tr": "Bach Thüringen'de doğdu ve daha sonra Leipzig'de çalıştı. Bu yüzden biyografisi Almanya'nın birkaç önemli kültür yerini birbirine bağlar.",
+          "zh": "巴赫出生于图林根，后来在莱比锡工作。因此，他的生平连接了德国多个重要文化地点。",
+          "ja": "バッハはテューリンゲンで生まれ、後にライプツィヒで働きました。そのため彼の生涯は、ドイツのいくつかの重要な文化都市を結びつけています。",
+          "ko": "바흐는 튀링겐에서 태어나 나중에 라이프치히에서 활동했습니다. 그래서 그의 생애는 독일의 여러 중요한 문화 장소를 연결합니다.",
+          "hi": "बाख का जन्म थुरिंगिया में हुआ और बाद में उन्होंने लाइपज़िग में काम किया। इसलिए उनका जीवन जर्मनी के कई महत्वपूर्ण सांस्कृतिक स्थानों को जोड़ता है।",
+          "ar": "وُلد باخ في تورينغن وعمل لاحقا في لايبزيغ. لذلك تربط سيرته بين عدة أماكن ثقافية مهمة في ألمانيا."
         },
         "importance": {
           "ru": "Через такие биографии карта Германии становится картой культуры.",
           "de": "Durch solche Biografien wird die Karte Deutschlands auch zu einer Kulturkarte.",
-          "en": "Through lives like his, Germany's map becomes a cultural map."
+          "en": "Through lives like his, Germany's map becomes a cultural map.",
+          "fr": "À travers de telles biographies, la carte de l'Allemagne devient aussi une carte culturelle.",
+          "es": "A través de biografías así, el mapa de Alemania se convierte también en un mapa cultural.",
+          "it": "Attraverso biografie come questa, la carta della Germania diventa anche una carta culturale.",
+          "pt": "Através de biografias assim, o mapa da Alemanha torna-se também um mapa cultural.",
+          "nl": "Door zulke levensverhalen wordt de kaart van Duitsland ook een cultuurkaart.",
+          "pl": "Dzięki takim biografiom mapa Niemiec staje się także mapą kultury.",
+          "tr": "Böyle yaşam öyküleriyle Almanya haritası aynı zamanda bir kültür haritasına dönüşür.",
+          "zh": "通过这样的生平，德国地图也成为一张文化地图。",
+          "ja": "このような生涯を通じて、ドイツの地図は文化の地図にもなります。",
+          "ko": "이런 생애를 통해 독일 지도는 문화 지도이기도 해집니다.",
+          "hi": "ऐसी जीवनियों से जर्मनी का नक्शा संस्कृति का नक्शा भी बन जाता है।",
+          "ar": "من خلال مثل هذه السير تصبح خريطة ألمانيا خريطة ثقافية أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "У Баха была большая музыкальная семья: фамилия Bach в Германии долго ассоциировалась с музыкантами.",
     "de": "Bach stammte aus einer grossen Musikerfamilie: Der Name Bach war in Deutschland lange mit Musikern verbunden.",
-    "en": "Bach came from a large musical family: in Germany, the Bach name was long associated with musicians."
+    "en": "Bach came from a large musical family: in Germany, the Bach name was long associated with musicians.",
+    "fr": "Bach venait d'une grande famille de musiciens: en Allemagne, le nom Bach fut longtemps associé aux musiciens.",
+    "es": "Bach procedía de una gran familia musical: en Alemania, el apellido Bach estuvo durante mucho tiempo asociado con músicos.",
+    "it": "Bach proveniva da una grande famiglia di musicisti: in Germania il nome Bach fu a lungo associato ai musicisti.",
+    "pt": "Bach vinha de uma grande família de músicos: na Alemanha, o nome Bach esteve durante muito tempo associado a músicos.",
+    "nl": "Bach kwam uit een grote muzikale familie: in Duitsland werd de naam Bach lange tijd met musici verbonden.",
+    "pl": "Bach pochodził z dużej rodziny muzycznej: w Niemczech nazwisko Bach długo kojarzono z muzykami.",
+    "tr": "Bach büyük bir müzisyen ailesinden geliyordu: Almanya'da Bach adı uzun süre müzisyenlerle ilişkilendirildi.",
+    "zh": "巴赫来自一个庞大的音乐家族：在德国，Bach这个姓氏长期与音乐家联系在一起。",
+    "ja": "バッハは大きな音楽家の家系に生まれました。ドイツでは、バッハという名は長く音楽家と結びついていました。",
+    "ko": "바흐는 큰 음악가 집안 출신이었습니다. 독일에서 바흐라는 이름은 오랫동안 음악가들과 연결되어 있었습니다.",
+    "hi": "बाख एक बड़े संगीत परिवार से आए थे: जर्मनी में Bach नाम लंबे समय तक संगीतकारों से जुड़ा रहा।",
+    "ar": "جاء باخ من عائلة موسيقية كبيرة: ففي ألمانيا ارتبط اسم باخ طويلا بالموسيقيين."
   },
   "sources": [
     {

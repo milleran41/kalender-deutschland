@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первые заключённые прибыли в Дахау",
       "de": "Die ersten Haeftlinge kommen nach Dachau",
-      "en": "The first prisoners arrive at Dachau"
+      "en": "The first prisoners arrive at Dachau",
+      "fr": "Les premiers détenus arrivent à Dachau",
+      "es": "Los primeros prisioneros llegan a Dachau",
+      "it": "I primi prigionieri arrivano a Dachau",
+      "pt": "Os primeiros prisioneiros chegam a Dachau",
+      "nl": "De eerste gevangenen komen in Dachau aan",
+      "pl": "Pierwsi więźniowie przybywają do Dachau",
+      "tr": "İlk mahkumlar Dachau'ya geldi",
+      "zh": "第一批囚犯抵达达豪",
+      "ja": "最初の囚人がダッハウに到着",
+      "ko": "첫 수감자들이 다하우에 도착하다",
+      "hi": "पहले कैदी डाखाउ पहुँचे",
+      "ar": "وصول أول السجناء إلى داخاو"
     },
     "description": {
       "ru": "22 марта 1933 года первые заключённые прибыли в концентрационный лагерь Дахау близ Мюнхена. Лагерь стал моделью для последующей системы нацистских концлагерей.",
       "de": "Am 22. Maerz 1933 trafen die ersten Haeftlinge im Konzentrationslager Dachau bei Muenchen ein. Das Lager wurde zum Modell fuer das spaetere System nationalsozialistischer Konzentrationslager.",
-      "en": "On 22 March 1933, the first prisoners arrived at Dachau concentration camp near Munich. The camp became a model for the later Nazi concentration camp system."
+      "en": "On 22 March 1933, the first prisoners arrived at Dachau concentration camp near Munich. The camp became a model for the later Nazi concentration camp system.",
+      "fr": "Le 22 mars 1933, les premiers détenus arrivèrent au camp de concentration de Dachau près de Munich. Le camp devint un modèle pour le système ultérieur des camps de concentration nazis.",
+      "es": "El 22 de marzo de 1933, los primeros prisioneros llegaron al campo de concentración de Dachau, cerca de Múnich. El campo se convirtió en modelo para el posterior sistema de campos de concentración nazis.",
+      "it": "Il 22 marzo 1933 i primi prigionieri arrivarono nel campo di concentramento di Dachau, vicino a Monaco. Il campo divenne un modello per il successivo sistema dei campi di concentramento nazisti.",
+      "pt": "Em 22 de março de 1933, os primeiros prisioneiros chegaram ao campo de concentração de Dachau, perto de Munique. O campo tornou-se um modelo para o sistema posterior de campos de concentração nazis.",
+      "nl": "Op 22 maart 1933 kwamen de eerste gevangenen aan in concentratiekamp Dachau bij München. Het kamp werd een model voor het latere systeem van nazi-concentratiekampen.",
+      "pl": "22 marca 1933 roku pierwsi więźniowie przybyli do obozu koncentracyjnego Dachau pod Monachium. Obóz stał się wzorem dla późniejszego systemu nazistowskich obozów koncentracyjnych.",
+      "tr": "22 Mart 1933'te ilk mahkumlar Münih yakınlarındaki Dachau toplama kampına geldi. Kamp, daha sonraki Nazi toplama kampı sistemi için model oldu.",
+      "zh": "1933年3月22日，第一批囚犯抵达慕尼黑附近的达豪集中营。该营成为后来纳粹集中营体系的样板。",
+      "ja": "1933年3月22日、最初の囚人がミュンヘン近郊のダッハウ強制収容所に到着しました。この収容所は後のナチス強制収容所制度のモデルとなりました。",
+      "ko": "1933년 3월 22일, 첫 수감자들이 뮌헨 근처의 다하우 강제수용소에 도착했습니다. 이 수용소는 이후 나치 강제수용소 체계의 모델이 되었습니다.",
+      "hi": "22 मार्च 1933 को पहले कैदी म्यूनिख के पास डाखाउ एकाग्रता शिविर में पहुँचे। यह शिविर बाद की नाज़ी एकाग्रता शिविर प्रणाली का मॉडल बन गया।",
+      "ar": "في 22 مارس 1933 وصل أول السجناء إلى معسكر الاعتقال داخاو قرب ميونخ. وأصبح المعسكر نموذجا لنظام معسكرات الاعتقال النازية اللاحق."
     },
     "importance": {
       "ru": "Дата показывает, как быстро после прихода нацистов к власти началась институциональная система террора.",
       "de": "Das Datum zeigt, wie schnell nach der Machtuebernahme der Nationalsozialisten ein institutionelles Terrorsystem entstand.",
-      "en": "The date shows how quickly an institutional system of terror emerged after the Nazis came to power."
+      "en": "The date shows how quickly an institutional system of terror emerged after the Nazis came to power.",
+      "fr": "Cette date montre à quelle vitesse un système institutionnel de terreur apparut après l'arrivée des nazis au pouvoir.",
+      "es": "La fecha muestra lo rápido que surgió un sistema institucional de terror después de que los nazis llegaran al poder.",
+      "it": "La data mostra quanto rapidamente nacque un sistema istituzionale di terrore dopo l'arrivo dei nazisti al potere.",
+      "pt": "A data mostra a rapidez com que surgiu um sistema institucional de terror depois de os nazis chegarem ao poder.",
+      "nl": "Deze datum laat zien hoe snel na de machtsovername van de nazi's een institutioneel terreursysteem ontstond.",
+      "pl": "Ta data pokazuje, jak szybko po przejęciu władzy przez nazistów powstał instytucjonalny system terroru.",
+      "tr": "Bu tarih, Naziler iktidara geldikten sonra kurumsal bir terör sisteminin ne kadar hızlı ortaya çıktığını gösterir.",
+      "zh": "这个日期显示，纳粹掌权后制度化恐怖体系多么迅速地出现。",
+      "ja": "この日付は、ナチスの政権掌握後、制度化された恐怖の仕組みがどれほど早く生まれたかを示しています。",
+      "ko": "이 날짜는 나치가 권력을 잡은 뒤 제도화된 테러 체계가 얼마나 빨리 등장했는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि नाज़ियों के सत्ता में आने के बाद संस्थागत आतंक की प्रणाली कितनी जल्दी बनी।",
+      "ar": "يُظهر هذا التاريخ مدى سرعة ظهور نظام مؤسسي للإرهاب بعد وصول النازيين إلى السلطة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Место памяти",
           "de": "Ein Ort der Erinnerung",
-          "en": "A place of remembrance"
+          "en": "A place of remembrance",
+          "fr": "Un lieu de mémoire",
+          "es": "Un lugar de memoria",
+          "it": "Un luogo della memoria",
+          "pt": "Um lugar de memória",
+          "nl": "Een plaats van herinnering",
+          "pl": "Miejsce pamięci",
+          "tr": "Bir anma yeri",
+          "zh": "记忆之地",
+          "ja": "記憶の場所",
+          "ko": "기억의 장소",
+          "hi": "स्मृति स्थल",
+          "ar": "مكان للذاكرة"
         },
         "description": {
           "ru": "После войны Дахау стал важным местом памяти и обучения. Сегодня там рассказывают о жертвах, преступниках и механизмах диктатуры.",
           "de": "Nach dem Krieg wurde Dachau ein wichtiger Erinnerungs- und Lernort. Heute wird dort ueber Opfer, Taeter und Mechanismen der Diktatur informiert.",
-          "en": "After the war, Dachau became an important site of remembrance and learning. Today it explains victims, perpetrators and the mechanisms of dictatorship."
+          "en": "After the war, Dachau became an important site of remembrance and learning. Today it explains victims, perpetrators and the mechanisms of dictatorship.",
+          "fr": "Après la guerre, Dachau devint un lieu important de mémoire et d'apprentissage. Aujourd'hui, on y explique les victimes, les auteurs et les mécanismes de la dictature.",
+          "es": "Después de la guerra, Dachau se convirtió en un importante lugar de memoria y aprendizaje. Hoy allí se explica la historia de las víctimas, los perpetradores y los mecanismos de la dictadura.",
+          "it": "Dopo la guerra, Dachau divenne un importante luogo di memoria e apprendimento. Oggi vi si raccontano le vittime, i colpevoli e i meccanismi della dittatura.",
+          "pt": "Depois da guerra, Dachau tornou-se um importante lugar de memória e aprendizagem. Hoje explica as vítimas, os autores dos crimes e os mecanismos da ditadura.",
+          "nl": "Na de oorlog werd Dachau een belangrijke herinnerings- en leerplaats. Vandaag wordt daar verteld over slachtoffers, daders en de mechanismen van dictatuur.",
+          "pl": "Po wojnie Dachau stało się ważnym miejscem pamięci i nauki. Dziś opowiada się tam o ofiarach, sprawcach i mechanizmach dyktatury.",
+          "tr": "Savaştan sonra Dachau önemli bir anma ve öğrenme yeri oldu. Bugün orada kurbanlar, failler ve diktatörlüğün mekanizmaları anlatılır.",
+          "zh": "战后，达豪成为重要的纪念和学习场所。今天那里讲述受害者、加害者以及独裁机制。",
+          "ja": "戦後、ダッハウは重要な記憶と学びの場となりました。現在そこでは、犠牲者、加害者、独裁の仕組みについて伝えられています。",
+          "ko": "전쟁 후 다하우는 중요한 추모와 학습의 장소가 되었습니다. 오늘날 그곳에서는 희생자, 가해자, 독재의 작동 방식에 대해 설명합니다.",
+          "hi": "युद्ध के बाद डाखाउ स्मृति और सीखने का महत्वपूर्ण स्थान बन गया। आज वहाँ पीड़ितों, अपराधियों और तानाशाही के तंत्र के बारे में बताया जाता है।",
+          "ar": "بعد الحرب أصبح داخاو موقعا مهما للذكرى والتعلم. واليوم يشرح هناك تاريخ الضحايا والجناة وآليات الدكتاتورية."
         },
         "importance": {
           "ru": "Такие места помогают не превращать историю в абстракцию.",
           "de": "Solche Orte helfen, Geschichte nicht zur Abstraktion werden zu lassen.",
-          "en": "Such places help prevent history from becoming an abstraction."
+          "en": "Such places help prevent history from becoming an abstraction.",
+          "fr": "De tels lieux aident à empêcher l'histoire de devenir une abstraction.",
+          "es": "Estos lugares ayudan a evitar que la historia se convierta en una abstracción.",
+          "it": "Luoghi così aiutano a non trasformare la storia in un'astrazione.",
+          "pt": "Lugares assim ajudam a impedir que a história se torne uma abstração.",
+          "nl": "Zulke plaatsen helpen voorkomen dat geschiedenis een abstractie wordt.",
+          "pl": "Takie miejsca pomagają nie zamieniać historii w abstrakcję.",
+          "tr": "Böyle yerler tarihin soyut bir şeye dönüşmesini önlemeye yardımcı olur.",
+          "zh": "这样的地方有助于防止历史变成抽象概念。",
+          "ja": "このような場所は、歴史が抽象的なものになるのを防ぐ助けになります。",
+          "ko": "이런 장소들은 역사가 추상적인 것이 되지 않도록 도와줍니다.",
+          "hi": "ऐसे स्थान इतिहास को केवल अमूर्त बात बनने से रोकने में मदद करते हैं।",
+          "ar": "تساعد مثل هذه الأماكن على منع التاريخ من أن يصبح مجرد فكرة مجردة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "В Берлине началось регулярное телевещание",
           "de": "In Berlin beginnt der regelmaessige Fernsehdienst",
-          "en": "Regular television service begins in Berlin"
+          "en": "Regular television service begins in Berlin",
+          "fr": "Le service régulier de télévision commence à Berlin",
+          "es": "Comienza la televisión regular en Berlín",
+          "it": "Inizia il servizio televisivo regolare a Berlino",
+          "pt": "Começa o serviço regular de televisão em Berlim",
+          "nl": "Regelmatige televisiedienst begint in Berlijn",
+          "pl": "W Berlinie rusza regularna telewizja",
+          "tr": "Berlin'de düzenli televizyon yayını başladı",
+          "zh": "柏林开始定期电视播出",
+          "ja": "ベルリンで定期テレビ放送が始まる",
+          "ko": "베를린에서 정규 텔레비전 방송이 시작되다",
+          "hi": "बर्लिन में नियमित टेलीविजन सेवा शुरू हुई",
+          "ar": "بدء خدمة التلفزيون المنتظمة في برلين"
         },
         "description": {
           "ru": "22 марта 1935 года в Берлине началось регулярное телевизионное вещание. Это была ранняя стадия телевидения: экран был ещё редкостью, а аудитория небольшой.",
           "de": "Am 22. Maerz 1935 begann in Berlin ein regelmaessiger Fernsehdienst. Das Fernsehen stand noch am Anfang: Bildschirme waren selten, das Publikum klein.",
-          "en": "On 22 March 1935, regular television service began in Berlin. Television was still in an early stage: screens were rare and the audience was small."
+          "en": "On 22 March 1935, regular television service began in Berlin. Television was still in an early stage: screens were rare and the audience was small.",
+          "fr": "Le 22 mars 1935, un service régulier de télévision commença à Berlin. La télévision en était encore à ses débuts: les écrans étaient rares et le public était petit.",
+          "es": "El 22 de marzo de 1935 comenzó en Berlín un servicio regular de televisión. La televisión aún estaba en una etapa temprana: las pantallas eran raras y el público pequeño.",
+          "it": "Il 22 marzo 1935 iniziò a Berlino un servizio televisivo regolare. La televisione era ancora agli inizi: gli schermi erano rari e il pubblico piccolo.",
+          "pt": "Em 22 de março de 1935 começou em Berlim um serviço regular de televisão. A televisão ainda estava no início: os ecrãs eram raros e o público pequeno.",
+          "nl": "Op 22 maart 1935 begon in Berlijn een regelmatige televisiedienst. Televisie stond nog aan het begin: schermen waren zeldzaam en het publiek was klein.",
+          "pl": "22 marca 1935 roku w Berlinie rozpoczęła się regularna emisja telewizyjna. Telewizja była jeszcze na wczesnym etapie: ekrany były rzadkością, a publiczność niewielka.",
+          "tr": "22 Mart 1935'te Berlin'de düzenli televizyon yayını başladı. Televizyon hâlâ erken bir aşamadaydı: ekranlar nadirdi ve izleyici kitlesi küçüktü.",
+          "zh": "1935年3月22日，柏林开始定期电视播出。当时电视仍处于早期阶段：屏幕很少，观众也不多。",
+          "ja": "1935年3月22日、ベルリンで定期テレビ放送が始まりました。テレビはまだ初期段階で、画面は珍しく、視聴者も少数でした。",
+          "ko": "1935년 3월 22일, 베를린에서 정규 텔레비전 방송이 시작되었습니다. 텔레비전은 아직 초기 단계였고, 화면은 드물었으며 시청자는 적었습니다.",
+          "hi": "22 मार्च 1935 को बर्लिन में नियमित टेलीविजन सेवा शुरू हुई। टेलीविजन अभी शुरुआती दौर में था: स्क्रीन दुर्लभ थीं और दर्शक कम थे।",
+          "ar": "في 22 مارس 1935 بدأت في برلين خدمة تلفزيون منتظمة. كان التلفزيون لا يزال في بداياته: الشاشات نادرة والجمهور صغير."
         },
         "importance": {
           "ru": "Дата показывает, что история медиа в Германии началась задолго до массового телевидения 1950-х годов.",
           "de": "Das Datum zeigt, dass Mediengeschichte in Deutschland lange vor dem Massenfernsehen der 1950er Jahre begann.",
-          "en": "The date shows that German media history began long before mass television in the 1950s."
+          "en": "The date shows that German media history began long before mass television in the 1950s.",
+          "fr": "Cette date montre que l'histoire des médias en Allemagne commença bien avant la télévision de masse des années 1950.",
+          "es": "La fecha muestra que la historia de los medios en Alemania comenzó mucho antes de la televisión de masas de los años 1950.",
+          "it": "La data mostra che la storia dei media in Germania iniziò molto prima della televisione di massa degli anni Cinquanta.",
+          "pt": "A data mostra que a história dos média na Alemanha começou muito antes da televisão de massa dos anos 1950.",
+          "nl": "Deze datum laat zien dat de mediageschiedenis in Duitsland lang vóór massatelevisie in de jaren 1950 begon.",
+          "pl": "Ta data pokazuje, że historia mediów w Niemczech zaczęła się na długo przed masową telewizją lat 50.",
+          "tr": "Bu tarih, Almanya'da medya tarihinin 1950'lerin kitle televizyonundan çok önce başladığını gösterir.",
+          "zh": "这个日期表明，德国媒体史早在20世纪50年代大众电视出现之前就已开始。",
+          "ja": "この日付は、ドイツのメディア史が1950年代の大衆テレビよりずっと前に始まっていたことを示しています。",
+          "ko": "이 날짜는 독일 미디어 역사가 1950년대 대중 텔레비전보다 훨씬 전부터 시작되었음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि जर्मनी में मीडिया का इतिहास 1950 के दशक के जन-टेलीविजन से बहुत पहले शुरू हो गया था।",
+          "ar": "يُظهر هذا التاريخ أن تاريخ الإعلام في ألمانيا بدأ قبل التلفزيون الجماهيري في خمسينيات القرن العشرين بوقت طويل."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Дахау находился в Баварии, недалеко от Мюнхена, где нацистское движение имело ранний центр.",
     "de": "Dachau lag in Bayern, nahe Muenchen, einem fruehen Zentrum der nationalsozialistischen Bewegung.",
-    "en": "Dachau was in Bavaria, near Munich, an early center of the Nazi movement."
+    "en": "Dachau was in Bavaria, near Munich, an early center of the Nazi movement.",
+    "fr": "Dachau se trouvait en Bavière, près de Munich, un centre précoce du mouvement nazi.",
+    "es": "Dachau estaba en Baviera, cerca de Múnich, un centro temprano del movimiento nazi.",
+    "it": "Dachau si trovava in Baviera, vicino a Monaco, un primo centro del movimento nazista.",
+    "pt": "Dachau ficava na Baviera, perto de Munique, um centro inicial do movimento nazi.",
+    "nl": "Dachau lag in Beieren, bij München, een vroeg centrum van de nazibeweging.",
+    "pl": "Dachau leżało w Bawarii, niedaleko Monachium, wczesnego centrum ruchu nazistowskiego.",
+    "tr": "Dachau, Nazi hareketinin erken merkezlerinden biri olan Münih yakınlarında, Bavyera'daydı.",
+    "zh": "达豪位于巴伐利亚，靠近慕尼黑，而慕尼黑是纳粹运动的早期中心。",
+    "ja": "ダッハウはバイエルンにあり、ナチス運動の初期の中心地だったミュンヘンの近くにありました。",
+    "ko": "다하우는 나치 운동의 초기 중심지였던 뮌헨 근처, 바이에른에 있었습니다.",
+    "hi": "डाखाउ बवेरिया में, म्यूनिख के पास था, जो नाज़ी आंदोलन का शुरुआती केंद्र था।",
+    "ar": "كان داخاو في بافاريا قرب ميونخ، وهي مركز مبكر للحركة النازية."
   },
   "sources": [
     {
