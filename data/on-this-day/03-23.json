@@ -11,17 +11,53 @@
     "title": {
       "ru": "Рейхстаг принял Закон о чрезвычайных полномочиях",
       "de": "Der Reichstag beschliesst das Ermaechtigungsgesetz",
-      "en": "The Reichstag passes the Enabling Act"
+      "en": "The Reichstag passes the Enabling Act",
+      "fr": "Le Reichstag adopte la loi des pleins pouvoirs",
+      "es": "El Reichstag aprueba la Ley Habilitante",
+      "it": "Il Reichstag approva la legge dei pieni poteri",
+      "pt": "O Reichstag aprova a Lei de Plenos Poderes",
+      "nl": "De Rijksdag neemt de Machtigingswet aan",
+      "pl": "Reichstag uchwala ustawę o pełnomocnictwach",
+      "tr": "Reichstag Yetki Yasası'nı kabul etti",
+      "zh": "国会通过《授权法》",
+      "ja": "国会が全権委任法を可決",
+      "ko": "라이히스탁이 수권법을 통과시키다",
+      "hi": "राइखस्टाग ने अधिकार प्रदान अधिनियम पारित किया",
+      "ar": "الرايخستاغ يقر قانون التمكين"
     },
     "description": {
       "ru": "23 марта 1933 года рейхстаг дал правительству Гитлера право принимать законы без полноценного парламентского контроля. Это стало решающим шагом к нацистской диктатуре.",
       "de": "Am 23. Maerz 1933 gab der Reichstag Hitlers Regierung das Recht, Gesetze ohne volle parlamentarische Kontrolle zu erlassen. Das war ein entscheidender Schritt zur NS-Diktatur.",
-      "en": "On 23 March 1933, the Reichstag allowed Hitler's government to pass laws without full parliamentary control. It was a decisive step toward Nazi dictatorship."
+      "en": "On 23 March 1933, the Reichstag allowed Hitler's government to pass laws without full parliamentary control. It was a decisive step toward Nazi dictatorship.",
+      "fr": "Le 23 mars 1933, le Reichstag donna au gouvernement d'Hitler le droit d'adopter des lois sans véritable contrôle parlementaire. Ce fut une étape décisive vers la dictature nazie.",
+      "es": "El 23 de marzo de 1933, el Reichstag permitió al gobierno de Hitler aprobar leyes sin pleno control parlamentario. Fue un paso decisivo hacia la dictadura nazi.",
+      "it": "Il 23 marzo 1933 il Reichstag diede al governo di Hitler il diritto di approvare leggi senza pieno controllo parlamentare. Fu un passo decisivo verso la dittatura nazista.",
+      "pt": "Em 23 de março de 1933, o Reichstag deu ao governo de Hitler o direito de aprovar leis sem pleno controlo parlamentar. Foi um passo decisivo para a ditadura nazi.",
+      "nl": "Op 23 maart 1933 gaf de Rijksdag Hitlers regering het recht om wetten aan te nemen zonder volledige parlementaire controle. Het was een beslissende stap naar de nazidictatuur.",
+      "pl": "23 marca 1933 roku Reichstag dał rządowi Hitlera prawo uchwalania ustaw bez pełnej kontroli parlamentarnej. Był to decydujący krok ku dyktaturze nazistowskiej.",
+      "tr": "23 Mart 1933'te Reichstag, Hitler hükümetine tam parlamento denetimi olmadan yasa çıkarma hakkı verdi. Bu, Nazi diktatörlüğüne giden belirleyici bir adımdı.",
+      "zh": "1933年3月23日，国会允许希特勒政府在没有完整议会监督的情况下制定法律。这是走向纳粹独裁的决定性一步。",
+      "ja": "1933年3月23日、国会はヒトラー政府に、十分な議会統制なしで法律を制定する権限を与えました。これはナチス独裁への決定的な一歩でした。",
+      "ko": "1933년 3월 23일, 라이히스탁은 히틀러 정부가 완전한 의회 통제 없이 법률을 제정할 수 있게 했습니다. 이는 나치 독재로 가는 결정적 단계였습니다.",
+      "hi": "23 मार्च 1933 को राइखस्टाग ने हिटलर की सरकार को पूर्ण संसदीय नियंत्रण के बिना कानून बनाने का अधिकार दिया। यह नाज़ी तानाशाही की ओर निर्णायक कदम था।",
+      "ar": "في 23 مارس 1933 منح الرايخستاغ حكومة هتلر حق إصدار القوانين من دون رقابة برلمانية كاملة. كان ذلك خطوة حاسمة نحو الدكتاتورية النازية."
     },
     "importance": {
       "ru": "Событие показывает, как демократические институты могут быть разрушены формально законным путём.",
       "de": "Das Ereignis zeigt, wie demokratische Institutionen formal legal zerstoert werden koennen.",
-      "en": "The event shows how democratic institutions can be destroyed through formally legal means."
+      "en": "The event shows how democratic institutions can be destroyed through formally legal means.",
+      "fr": "L'événement montre comment des institutions démocratiques peuvent être détruites par des moyens formellement légaux.",
+      "es": "El acontecimiento muestra cómo las instituciones democráticas pueden ser destruidas por medios formalmente legales.",
+      "it": "L'evento mostra come le istituzioni democratiche possano essere distrutte con mezzi formalmente legali.",
+      "pt": "O acontecimento mostra como as instituições democráticas podem ser destruídas por meios formalmente legais.",
+      "nl": "De gebeurtenis laat zien hoe democratische instellingen via formeel legale middelen kunnen worden vernietigd.",
+      "pl": "Wydarzenie pokazuje, jak instytucje demokratyczne mogą zostać zniszczone formalnie legalną drogą.",
+      "tr": "Bu olay, demokratik kurumların biçimsel olarak yasal yollarla nasıl yok edilebileceğini gösterir.",
+      "zh": "这一事件显示，民主制度也可能通过形式上合法的手段被摧毁。",
+      "ja": "この出来事は、民主的制度が形式的には合法な手段によって破壊され得ることを示しています。",
+      "ko": "이 사건은 민주 제도가 형식적으로 합법적인 수단으로도 파괴될 수 있음을 보여 줍니다.",
+      "hi": "यह घटना दिखाती है कि लोकतांत्रिक संस्थाएँ औपचारिक रूप से कानूनी तरीकों से भी नष्ट की जा सकती हैं।",
+      "ar": "يُظهر هذا الحدث كيف يمكن تدمير المؤسسات الديمقراطية بوسائل تبدو قانونية شكلا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Родилась Эмми Нётер",
           "de": "Emmy Noether wird geboren",
-          "en": "Emmy Noether is born"
+          "en": "Emmy Noether is born",
+          "fr": "Naissance d'Emmy Noether",
+          "es": "Nace Emmy Noether",
+          "it": "Nasce Emmy Noether",
+          "pt": "Nasce Emmy Noether",
+          "nl": "Emmy Noether wordt geboren",
+          "pl": "Urodziła się Emmy Noether",
+          "tr": "Emmy Noether doğdu",
+          "zh": "埃米·诺特出生",
+          "ja": "エミー・ネーターが生まれる",
+          "ko": "에미 뇌터가 태어나다",
+          "hi": "एमी नोएथर का जन्म हुआ",
+          "ar": "ولادة إيمي نويتر"
         },
         "description": {
           "ru": "23 марта 1882 года в Эрлангене родилась математик Эмми Нётер. Её работы в алгебре и теоретической физике стали фундаментальными для науки XX века.",
           "de": "Am 23. Maerz 1882 wurde die Mathematikerin Emmy Noether in Erlangen geboren. Ihre Arbeiten in Algebra und theoretischer Physik wurden grundlegend fuer die Wissenschaft des 20. Jahrhunderts.",
-          "en": "On 23 March 1882, mathematician Emmy Noether was born in Erlangen. Her work in algebra and theoretical physics became fundamental for 20th-century science."
+          "en": "On 23 March 1882, mathematician Emmy Noether was born in Erlangen. Her work in algebra and theoretical physics became fundamental for 20th-century science.",
+          "fr": "Le 23 mars 1882, la mathématicienne Emmy Noether naquit à Erlangen. Ses travaux en algèbre et en physique théorique devinrent fondamentaux pour la science du XXe siècle.",
+          "es": "El 23 de marzo de 1882 nació en Erlangen la matemática Emmy Noether. Sus trabajos en álgebra y física teórica fueron fundamentales para la ciencia del siglo XX.",
+          "it": "Il 23 marzo 1882 nacque a Erlangen la matematica Emmy Noether. I suoi lavori in algebra e fisica teorica divennero fondamentali per la scienza del XX secolo.",
+          "pt": "Em 23 de março de 1882, a matemática Emmy Noether nasceu em Erlangen. Os seus trabalhos em álgebra e física teórica tornaram-se fundamentais para a ciência do século XX.",
+          "nl": "Op 23 maart 1882 werd wiskundige Emmy Noether in Erlangen geboren. Haar werk in algebra en theoretische natuurkunde werd fundamenteel voor de wetenschap van de twintigste eeuw.",
+          "pl": "23 marca 1882 roku w Erlangen urodziła się matematyczka Emmy Noether. Jej prace z algebry i fizyki teoretycznej stały się fundamentalne dla nauki XX wieku.",
+          "tr": "23 Mart 1882'de matematikçi Emmy Noether Erlangen'de doğdu. Cebir ve teorik fizik alanındaki çalışmaları 20. yüzyıl bilimi için temel hale geldi.",
+          "zh": "1882年3月23日，数学家埃米·诺特出生于埃尔朗根。她在代数和理论物理方面的工作成为20世纪科学的基础。",
+          "ja": "1882年3月23日、数学者エミー・ネーターはエアランゲンで生まれました。代数学と理論物理学における彼女の研究は、20世紀科学の基礎となりました。",
+          "ko": "1882년 3월 23일, 수학자 에미 뇌터가 에를랑겐에서 태어났습니다. 대수학과 이론물리학에서의 그녀의 연구는 20세기 과학의 토대가 되었습니다.",
+          "hi": "23 मार्च 1882 को गणितज्ञ एमी नोएथर का जन्म एर्लांगेन में हुआ। बीजगणित और सैद्धांतिक भौतिकी में उनका काम 20वीं सदी के विज्ञान के लिए आधारभूत बना।",
+          "ar": "في 23 مارس 1882 وُلدت عالمة الرياضيات إيمي نويتر في إرلانغن. أصبحت أعمالها في الجبر والفيزياء النظرية أساسية لعلم القرن العشرين."
         },
         "importance": {
           "ru": "Нётер показывает, как важный вклад в науку может долго оставаться недооценённым из-за предрассудков времени.",
           "de": "Noether zeigt, wie ein wichtiger wissenschaftlicher Beitrag wegen der Vorurteile der Zeit lange unterschaetzt werden kann.",
-          "en": "Noether shows how an important scientific contribution can remain undervalued for a long time because of the prejudices of its era."
+          "en": "Noether shows how an important scientific contribution can remain undervalued for a long time because of the prejudices of its era.",
+          "fr": "Noether montre comment une contribution scientifique importante peut rester longtemps sous-estimée à cause des préjugés de son époque.",
+          "es": "Noether muestra cómo una contribución científica importante puede permanecer infravalorada durante mucho tiempo por los prejuicios de su época.",
+          "it": "Noether mostra come un contributo scientifico importante possa restare a lungo sottovalutato a causa dei pregiudizi del suo tempo.",
+          "pt": "Noether mostra como uma contribuição científica importante pode permanecer subvalorizada durante muito tempo por causa dos preconceitos da época.",
+          "nl": "Noether laat zien hoe een belangrijke wetenschappelijke bijdrage lange tijd ondergewaardeerd kan blijven door de vooroordelen van haar tijd.",
+          "pl": "Noether pokazuje, jak ważny wkład naukowy może długo pozostawać niedoceniony z powodu uprzedzeń epoki.",
+          "tr": "Noether, önemli bir bilimsel katkının dönemin önyargıları nedeniyle uzun süre nasıl yeterince değer görmeyebileceğini gösterir.",
+          "zh": "诺特的经历说明，重要的科学贡献可能因为时代偏见而长期被低估。",
+          "ja": "ネーターは、重要な科学的貢献が時代の偏見のために長く過小評価され得ることを示しています。",
+          "ko": "뇌터는 중요한 과학적 기여가 시대의 편견 때문에 오랫동안 저평가될 수 있음을 보여 줍니다.",
+          "hi": "नोएथर दिखाती हैं कि समय के पूर्वाग्रहों के कारण विज्ञान में महत्वपूर्ण योगदान लंबे समय तक कम आंका जा सकता है।",
+          "ar": "تُظهر نويتر كيف يمكن لمساهمة علمية مهمة أن تبقى مقومة بأقل من قيمتها زمنا طويلا بسبب تحيزات عصرها."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Речь Отто Вельса против закона",
           "de": "Otto Wels spricht gegen das Gesetz",
-          "en": "Otto Wels speaks against the law"
+          "en": "Otto Wels speaks against the law",
+          "fr": "Otto Wels s'oppose à la loi",
+          "es": "Otto Wels habla contra la ley",
+          "it": "Otto Wels parla contro la legge",
+          "pt": "Otto Wels fala contra a lei",
+          "nl": "Otto Wels spreekt tegen de wet",
+          "pl": "Otto Wels przemawia przeciw ustawie",
+          "tr": "Otto Wels yasaya karşı konuştu",
+          "zh": "奥托·韦尔斯反对该法律的演说",
+          "ja": "オットー・ヴェルスが法案に反対して演説",
+          "ko": "오토 벨스가 법에 반대해 연설하다",
+          "hi": "ओटो वेल्स ने कानून के खिलाफ भाषण दिया",
+          "ar": "أوتو فيلس يتحدث ضد القانون"
         },
         "description": {
           "ru": "Социал-демократ Отто Вельс выступил против передачи власти правительству. Его речь стала одним из самых известных актов парламентского сопротивления нацистам.",
           "de": "Der Sozialdemokrat Otto Wels sprach gegen die Uebertragung der Macht an die Regierung. Seine Rede gilt als einer der bekanntesten Akte parlamentarischen Widerstands gegen die Nationalsozialisten.",
-          "en": "Social Democrat Otto Wels spoke against handing power to the government. His speech became one of the best-known acts of parliamentary resistance to the Nazis."
+          "en": "Social Democrat Otto Wels spoke against handing power to the government. His speech became one of the best-known acts of parliamentary resistance to the Nazis.",
+          "fr": "Le social-démocrate Otto Wels s'opposa au transfert du pouvoir au gouvernement. Son discours devint l'un des actes les plus connus de résistance parlementaire aux nazis.",
+          "es": "El socialdemócrata Otto Wels habló contra la entrega de poder al gobierno. Su discurso se convirtió en uno de los actos más conocidos de resistencia parlamentaria a los nazis.",
+          "it": "Il socialdemocratico Otto Wels si pronunciò contro il trasferimento del potere al governo. Il suo discorso divenne uno degli atti più noti di resistenza parlamentare ai nazisti.",
+          "pt": "O social-democrata Otto Wels falou contra a entrega de poder ao governo. O seu discurso tornou-se um dos atos mais conhecidos de resistência parlamentar aos nazis.",
+          "nl": "Sociaaldemocraat Otto Wels sprak zich uit tegen het overdragen van macht aan de regering. Zijn rede werd een van de bekendste daden van parlementair verzet tegen de nazi's.",
+          "pl": "Socjaldemokrata Otto Wels sprzeciwił się przekazaniu władzy rządowi. Jego przemówienie stało się jednym z najbardziej znanych aktów parlamentarnego oporu wobec nazistów.",
+          "tr": "Sosyal Demokrat Otto Wels, yetkinin hükümete devredilmesine karşı konuştu. Konuşması, Nazilere karşı en bilinen parlamenter direniş eylemlerinden biri oldu.",
+          "zh": "社会民主党人奥托·韦尔斯反对把权力交给政府。他的演说成为反抗纳粹最著名的议会行动之一。",
+          "ja": "社会民主党のオットー・ヴェルスは、政府への権力委譲に反対して演説しました。彼の演説は、ナチスに対する議会内抵抗の最もよく知られた行為の一つとなりました。",
+          "ko": "사회민주당의 오토 벨스는 정부에 권력을 넘기는 것에 반대해 발언했습니다. 그의 연설은 나치에 대한 가장 잘 알려진 의회 저항 행위 중 하나가 되었습니다.",
+          "hi": "सोशल डेमोक्रेट ओटो वेल्स ने सरकार को सत्ता सौंपने के खिलाफ भाषण दिया। उनका भाषण नाज़ियों के विरुद्ध संसदीय प्रतिरोध के सबसे प्रसिद्ध कार्यों में से एक बना।",
+          "ar": "تحدث الاشتراكي الديمقراطي أوتو فيلس ضد نقل السلطة إلى الحكومة. وأصبح خطابه أحد أشهر أعمال المقاومة البرلمانية للنازيين."
         },
         "importance": {
           "ru": "Это важный пример политического мужества в момент, когда диктатура уже почти победила.",
           "de": "Es ist ein wichtiges Beispiel politischen Mutes in einem Moment, in dem die Diktatur fast schon gesiegt hatte.",
-          "en": "It is an important example of political courage at a moment when dictatorship had nearly won."
+          "en": "It is an important example of political courage at a moment when dictatorship had nearly won.",
+          "fr": "C'est un exemple important de courage politique au moment où la dictature avait presque déjà gagné.",
+          "es": "Es un ejemplo importante de valentía política en un momento en que la dictadura casi había vencido.",
+          "it": "È un importante esempio di coraggio politico in un momento in cui la dittatura aveva quasi già vinto.",
+          "pt": "É um exemplo importante de coragem política num momento em que a ditadura já quase tinha vencido.",
+          "nl": "Het is een belangrijk voorbeeld van politieke moed op een moment dat de dictatuur bijna had gewonnen.",
+          "pl": "To ważny przykład odwagi politycznej w chwili, gdy dyktatura niemal już zwyciężyła.",
+          "tr": "Bu, diktatörlüğün neredeyse kazandığı bir anda siyasi cesaretin önemli bir örneğidir.",
+          "zh": "这是在独裁几乎已经获胜时展现政治勇气的重要例子。",
+          "ja": "これは、独裁がほぼ勝利していた時点での政治的勇気の重要な例です。",
+          "ko": "이는 독재가 거의 승리한 순간에 보인 정치적 용기의 중요한 예입니다.",
+          "hi": "यह उस क्षण राजनीतिक साहस का महत्वपूर्ण उदाहरण है जब तानाशाही लगभग जीत चुकी थी।",
+          "ar": "إنه مثال مهم على الشجاعة السياسية في لحظة كانت الدكتاتورية قد أوشكت فيها على الانتصار."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Заседание проходило не в обычном здании рейхстага: оно было повреждено пожаром в феврале 1933 года.",
     "de": "Die Sitzung fand nicht im gewohnten Reichstagsgebaeude statt: Es war durch den Brand im Februar 1933 beschaedigt.",
-    "en": "The session did not take place in the usual Reichstag building because it had been damaged by the fire of February 1933."
+    "en": "The session did not take place in the usual Reichstag building because it had been damaged by the fire of February 1933.",
+    "fr": "La séance n'eut pas lieu dans le bâtiment habituel du Reichstag, car il avait été endommagé par l'incendie de février 1933.",
+    "es": "La sesión no tuvo lugar en el edificio habitual del Reichstag, porque había sido dañado por el incendio de febrero de 1933.",
+    "it": "La seduta non si svolse nel consueto edificio del Reichstag, perché era stato danneggiato dall'incendio del febbraio 1933.",
+    "pt": "A sessão não decorreu no edifício habitual do Reichstag, porque este fora danificado pelo incêndio de fevereiro de 1933.",
+    "nl": "De zitting vond niet plaats in het gebruikelijke Rijksdaggebouw, omdat dit door de brand van februari 1933 was beschadigd.",
+    "pl": "Posiedzenie nie odbyło się w zwykłym gmachu Reichstagu, ponieważ został on uszkodzony przez pożar w lutym 1933 roku.",
+    "tr": "Oturum, Şubat 1933 yangınında zarar gördüğü için olağan Reichstag binasında yapılmadı.",
+    "zh": "会议没有在通常的国会大厦举行，因为该建筑在1933年2月的火灾中受损。",
+    "ja": "会議は通常の国会議事堂では行われませんでした。1933年2月の火災で建物が損傷していたためです。",
+    "ko": "회의는 평소의 라이히스탁 건물에서 열리지 않았습니다. 1933년 2월 화재로 그 건물이 손상되었기 때문입니다.",
+    "hi": "बैठक सामान्य राइखस्टाग भवन में नहीं हुई, क्योंकि फरवरी 1933 की आग से वह क्षतिग्रस्त हो चुका था।",
+    "ar": "لم تُعقد الجلسة في مبنى الرايخستاغ المعتاد لأنه تضرر في حريق فبراير 1933."
   },
   "sources": [
     {

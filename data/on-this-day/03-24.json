@@ -11,17 +11,53 @@
     "title": {
       "ru": "Катастрофа рейса Germanwings 9525",
       "de": "Absturz von Germanwings-Flug 9525",
-      "en": "Crash of Germanwings Flight 9525"
+      "en": "Crash of Germanwings Flight 9525",
+      "fr": "Crash du vol Germanwings 9525",
+      "es": "Accidente del vuelo Germanwings 9525",
+      "it": "Disastro del volo Germanwings 9525",
+      "pt": "Queda do voo Germanwings 9525",
+      "nl": "Crash van Germanwings-vlucht 9525",
+      "pl": "Katastrofa lotu Germanwings 9525",
+      "tr": "Germanwings 9525 seferinin düşmesi",
+      "zh": "德国之翼9525航班空难",
+      "ja": "ジャーマンウイングス9525便墜落事故",
+      "ko": "저먼윙스 9525편 추락 사고",
+      "hi": "Germanwings फ़्लाइट 9525 की दुर्घटना",
+      "ar": "تحطم رحلة جيرمان وينغز 9525"
     },
     "description": {
       "ru": "24 марта 2015 года самолёт Germanwings, летевший из Барселоны в Дюссельдорф, разбился во французских Альпах. Погибли все 150 человек на борту.",
       "de": "Am 24. Maerz 2015 stuerzte ein Germanwings-Flug von Barcelona nach Duesseldorf in den franzoesischen Alpen ab. Alle 150 Menschen an Bord kamen ums Leben.",
-      "en": "On 24 March 2015, a Germanwings flight from Barcelona to Duesseldorf crashed in the French Alps. All 150 people on board died."
+      "en": "On 24 March 2015, a Germanwings flight from Barcelona to Duesseldorf crashed in the French Alps. All 150 people on board died.",
+      "fr": "Le 24 mars 2015, un vol Germanwings reliant Barcelone à Düsseldorf s'écrasa dans les Alpes françaises. Les 150 personnes à bord périrent.",
+      "es": "El 24 de marzo de 2015, un vuelo de Germanwings de Barcelona a Düsseldorf se estrelló en los Alpes franceses. Murieron las 150 personas a bordo.",
+      "it": "Il 24 marzo 2015 un volo Germanwings da Barcellona a Düsseldorf precipitò nelle Alpi francesi. Morirono tutte le 150 persone a bordo.",
+      "pt": "Em 24 de março de 2015, um voo da Germanwings de Barcelona para Düsseldorf caiu nos Alpes franceses. Morreram todas as 150 pessoas a bordo.",
+      "nl": "Op 24 maart 2015 stortte een Germanwings-vlucht van Barcelona naar Düsseldorf neer in de Franse Alpen. Alle 150 mensen aan boord kwamen om.",
+      "pl": "24 marca 2015 roku samolot Germanwings lecący z Barcelony do Düsseldorfu rozbił się we francuskich Alpach. Zginęło wszystkich 150 osób na pokładzie.",
+      "tr": "24 Mart 2015'te Barselona'dan Düsseldorf'a giden bir Germanwings uçağı Fransız Alpleri'nde düştü. Uçaktaki 150 kişinin tamamı hayatını kaybetti.",
+      "zh": "2015年3月24日，一架从巴塞罗那飞往杜塞尔多夫的德国之翼航班在法国阿尔卑斯山区坠毁。机上150人全部遇难。",
+      "ja": "2015年3月24日、バルセロナ発デュッセルドルフ行きのジャーマンウイングス便がフランス・アルプスで墜落しました。搭乗していた150人全員が亡くなりました。",
+      "ko": "2015년 3월 24일, 바르셀로나에서 뒤셀도르프로 가던 저먼윙스 항공기가 프랑스 알프스에 추락했습니다. 탑승자 150명 전원이 사망했습니다.",
+      "hi": "24 मार्च 2015 को बार्सिलोना से ड्यूसेलडॉर्फ जा रहा Germanwings विमान फ्रांसीसी आल्प्स में दुर्घटनाग्रस्त हो गया। विमान में सवार सभी 150 लोगों की मृत्यु हो गई।",
+      "ar": "في 24 مارس 2015 تحطمت رحلة جيرمان وينغز من برشلونة إلى دوسلدورف في جبال الألب الفرنسية. توفي جميع الأشخاص الـ150 الذين كانوا على متنها."
     },
     "importance": {
       "ru": "Трагедия привела к новым обсуждениям авиационной безопасности, медицины пилотов и правил доступа в кабину.",
       "de": "Die Tragödie fuehrte zu neuen Diskussionen ueber Flugsicherheit, die medizinische Betreuung von Piloten und Cockpitregeln.",
-      "en": "The tragedy led to new debates about aviation safety, pilot medical screening and cockpit access rules."
+      "en": "The tragedy led to new debates about aviation safety, pilot medical screening and cockpit access rules.",
+      "fr": "La tragédie entraîna de nouveaux débats sur la sécurité aérienne, le suivi médical des pilotes et les règles d'accès au cockpit.",
+      "es": "La tragedia llevó a nuevos debates sobre seguridad aérea, controles médicos de pilotos y reglas de acceso a la cabina.",
+      "it": "La tragedia portò a nuovi dibattiti sulla sicurezza aerea, sui controlli medici dei piloti e sulle regole di accesso alla cabina.",
+      "pt": "A tragédia levou a novos debates sobre segurança aérea, acompanhamento médico dos pilotos e regras de acesso à cabina.",
+      "nl": "De tragedie leidde tot nieuwe debatten over luchtvaartveiligheid, medische controles van piloten en regels voor toegang tot de cockpit.",
+      "pl": "Tragedia doprowadziła do nowych dyskusji o bezpieczeństwie lotniczym, badaniach medycznych pilotów i zasadach dostępu do kokpitu.",
+      "tr": "Trajedi, havacılık güvenliği, pilotların tıbbi denetimi ve kokpite erişim kuralları hakkında yeni tartışmalara yol açtı.",
+      "zh": "这场悲剧引发了关于航空安全、飞行员医疗筛查和驾驶舱进入规则的新讨论。",
+      "ja": "この悲劇は、航空安全、パイロットの医学的検査、操縦室へのアクセス規則について新たな議論を生みました。",
+      "ko": "이 비극은 항공 안전, 조종사 의료 심사, 조종실 출입 규칙에 대한 새로운 논의를 불러왔습니다.",
+      "hi": "इस त्रासदी ने विमानन सुरक्षा, पायलटों की चिकित्सकीय जाँच और कॉकपिट पहुँच नियमों पर नई बहस शुरू की।",
+      "ar": "أدت المأساة إلى نقاشات جديدة حول سلامة الطيران والفحوص الطبية للطيارين وقواعد الدخول إلى قمرة القيادة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Роберт Кох объявил об открытии возбудителя туберкулёза",
           "de": "Robert Koch gibt die Entdeckung des Tuberkulose-Erregers bekannt",
-          "en": "Robert Koch announces the discovery of the tuberculosis bacillus"
+          "en": "Robert Koch announces the discovery of the tuberculosis bacillus",
+          "fr": "Robert Koch annonce la découverte du bacille de la tuberculose",
+          "es": "Robert Koch anuncia el descubrimiento del bacilo de la tuberculosis",
+          "it": "Robert Koch annuncia la scoperta del bacillo della tubercolosi",
+          "pt": "Robert Koch anuncia a descoberta do bacilo da tuberculose",
+          "nl": "Robert Koch maakt de ontdekking van de tuberculosebacil bekend",
+          "pl": "Robert Koch ogłasza odkrycie prątka gruźlicy",
+          "tr": "Robert Koch tüberküloz basilini keşfettiğini açıkladı",
+          "zh": "罗伯特·科赫宣布发现结核杆菌",
+          "ja": "ロベルト・コッホが結核菌の発見を発表",
+          "ko": "로베르트 코흐가 결핵균 발견을 발표하다",
+          "hi": "रॉबर्ट कोख ने तपेदिक जीवाणु की खोज की घोषणा की",
+          "ar": "روبرت كوخ يعلن اكتشاف عصية السل"
         },
         "description": {
           "ru": "24 марта 1882 года Роберт Кох сообщил в Берлине, что обнаружил бактерию, вызывающую туберкулёз. Это стало большим шагом в развитии микробиологии и медицины.",
           "de": "Am 24. Maerz 1882 teilte Robert Koch in Berlin mit, dass er das Bakterium entdeckt hatte, das Tuberkulose verursacht. Das war ein grosser Schritt fuer Mikrobiologie und Medizin.",
-          "en": "On 24 March 1882, Robert Koch announced in Berlin that he had found the bacterium that causes tuberculosis. It was a major step for microbiology and medicine."
+          "en": "On 24 March 1882, Robert Koch announced in Berlin that he had found the bacterium that causes tuberculosis. It was a major step for microbiology and medicine.",
+          "fr": "Le 24 mars 1882, Robert Koch annonça à Berlin qu'il avait découvert la bactérie responsable de la tuberculose. Ce fut un grand pas pour la microbiologie et la médecine.",
+          "es": "El 24 de marzo de 1882, Robert Koch anunció en Berlín que había encontrado la bacteria que causa la tuberculosis. Fue un gran paso para la microbiología y la medicina.",
+          "it": "Il 24 marzo 1882 Robert Koch annunciò a Berlino di aver trovato il batterio che causa la tubercolosi. Fu un grande passo per la microbiologia e la medicina.",
+          "pt": "Em 24 de março de 1882, Robert Koch anunciou em Berlim que tinha encontrado a bactéria que causa a tuberculose. Foi um grande passo para a microbiologia e a medicina.",
+          "nl": "Op 24 maart 1882 maakte Robert Koch in Berlijn bekend dat hij de bacterie had gevonden die tuberculose veroorzaakt. Het was een grote stap voor microbiologie en geneeskunde.",
+          "pl": "24 marca 1882 roku Robert Koch ogłosił w Berlinie, że odkrył bakterię wywołującą gruźlicę. Był to wielki krok w rozwoju mikrobiologii i medycyny.",
+          "tr": "24 Mart 1882'de Robert Koch Berlin'de tüberküloza neden olan bakteriyi bulduğunu açıkladı. Bu, mikrobiyoloji ve tıp için büyük bir adımdı.",
+          "zh": "1882年3月24日，罗伯特·科赫在柏林宣布发现了导致结核病的细菌。这是微生物学和医学的重要一步。",
+          "ja": "1882年3月24日、ロベルト・コッホはベルリンで、結核を引き起こす細菌を発見したと発表しました。これは微生物学と医学にとって大きな一歩でした。",
+          "ko": "1882년 3월 24일, 로베르트 코흐는 베를린에서 결핵을 일으키는 세균을 발견했다고 발표했습니다. 이는 미생물학과 의학의 큰 진전이었습니다.",
+          "hi": "24 मार्च 1882 को रॉबर्ट कोख ने बर्लिन में बताया कि उन्होंने तपेदिक पैदा करने वाला जीवाणु खोज लिया है। यह सूक्ष्मजीवविज्ञान और चिकित्सा के लिए बड़ा कदम था।",
+          "ar": "في 24 مارس 1882 أعلن روبرت كوخ في برلين أنه اكتشف البكتيريا التي تسبب السل. كان ذلك خطوة كبيرة في علم الأحياء الدقيقة والطب."
         },
         "importance": {
           "ru": "Сегодня 24 марта отмечается как Всемирный день борьбы с туберкулёзом.",
           "de": "Heute wird der 24. Maerz als Welttuberkulosetag begangen.",
-          "en": "Today, 24 March is observed as World Tuberculosis Day."
+          "en": "Today, 24 March is observed as World Tuberculosis Day.",
+          "fr": "Aujourd'hui, le 24 mars est la Journée mondiale de lutte contre la tuberculose.",
+          "es": "Hoy, el 24 de marzo se conmemora como el Día Mundial de la Tuberculosis.",
+          "it": "Oggi il 24 marzo si celebra la Giornata mondiale della tubercolosi.",
+          "pt": "Hoje, 24 de março é assinalado como Dia Mundial da Tuberculose.",
+          "nl": "Vandaag wordt 24 maart herdacht als Wereldtuberculosedag.",
+          "pl": "Dziś 24 marca obchodzony jest jako Światowy Dzień Gruźlicy.",
+          "tr": "Bugün 24 Mart Dünya Tüberküloz Günü olarak anılır.",
+          "zh": "今天，3月24日被定为世界防治结核病日。",
+          "ja": "現在、3月24日は世界結核デーとして知られています。",
+          "ko": "오늘날 3월 24일은 세계 결핵의 날로 기념됩니다.",
+          "hi": "आज 24 मार्च को विश्व तपेदिक दिवस के रूप में मनाया जाता है।",
+          "ar": "اليوم يُحتفل بـ24 مارس بوصفه اليوم العالمي للسل."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Город Хальтерн-ам-Зе сильно пострадал",
           "de": "Haltern am See war besonders betroffen",
-          "en": "Haltern am See was especially affected"
+          "en": "Haltern am See was especially affected",
+          "fr": "Haltern am See fut particulièrement touchée",
+          "es": "Haltern am See quedó especialmente afectada",
+          "it": "Haltern am See fu colpita in modo particolare",
+          "pt": "Haltern am See foi especialmente afetada",
+          "nl": "Haltern am See werd bijzonder zwaar getroffen",
+          "pl": "Haltern am See zostało szczególnie dotknięte",
+          "tr": "Haltern am See özellikle etkilendi",
+          "zh": "哈尔滕湖畔市受到特别沉重的打击",
+          "ja": "ハルターン・アム・ゼーは特に大きな影響を受けた",
+          "ko": "할테른 암 제가 특히 큰 영향을 받다",
+          "hi": "हाल्टर्न आम ज़े विशेष रूप से प्रभावित हुआ",
+          "ar": "تأثرت هالترن أم زيه بشكل خاص"
         },
         "description": {
           "ru": "Среди погибших была школьная группа из Хальтерна-ам-Зе в Северном Рейне-Вестфалии. Поэтому трагедия особенно сильно отозвалась в этом небольшом городе.",
           "de": "Unter den Opfern war eine Schuelergruppe aus Haltern am See in Nordrhein-Westfalen. Deshalb traf die Katastrophe diese kleinere Stadt besonders hart.",
-          "en": "Among the victims was a school group from Haltern am See in North Rhine-Westphalia. The disaster therefore hit that smaller town especially hard."
+          "en": "Among the victims was a school group from Haltern am See in North Rhine-Westphalia. The disaster therefore hit that smaller town especially hard.",
+          "fr": "Parmi les victimes se trouvait un groupe scolaire de Haltern am See en Rhénanie-du-Nord-Westphalie. La catastrophe frappa donc particulièrement cette petite ville.",
+          "es": "Entre las víctimas había un grupo escolar de Haltern am See, en Renania del Norte-Westfalia. Por eso la tragedia golpeó con especial dureza a esa ciudad pequeña.",
+          "it": "Tra le vittime c'era un gruppo scolastico di Haltern am See, nel Nord Reno-Westfalia. Per questo la tragedia colpì in modo particolarmente duro quella piccola città.",
+          "pt": "Entre as vítimas estava um grupo escolar de Haltern am See, na Renânia do Norte-Vestefália. Por isso, a tragédia atingiu essa cidade pequena de forma especialmente dura.",
+          "nl": "Onder de slachtoffers was een schoolgroep uit Haltern am See in Noordrijn-Westfalen. Daardoor trof de ramp deze kleinere stad bijzonder hard.",
+          "pl": "Wśród ofiar była grupa szkolna z Haltern am See w Nadrenii Północnej-Westfalii. Dlatego tragedia szczególnie mocno dotknęła to mniejsze miasto.",
+          "tr": "Kurbanlar arasında Kuzey Ren-Vestfalya'daki Haltern am See'den bir okul grubu vardı. Bu yüzden felaket bu küçük kasabayı özellikle derinden etkiledi.",
+          "zh": "遇难者中有来自北莱茵-威斯特法伦州哈尔滕湖畔市的一支学生团体。因此，这场灾难对这座小城打击尤其沉重。",
+          "ja": "犠牲者の中には、ノルトライン＝ヴェストファーレン州ハルターン・アム・ゼーの学校グループがいました。そのため、この悲劇はその小さな町に特に深い打撃を与えました。",
+          "ko": "희생자 중에는 노르트라인베스트팔렌의 할테른 암 제에서 온 학생 단체가 있었습니다. 그래서 이 재난은 그 작은 도시에 특히 큰 상처를 남겼습니다.",
+          "hi": "मृतकों में नॉर्थ राइन-वेस्टफेलिया के हाल्टर्न आम ज़े से एक स्कूल समूह भी था। इसलिए इस त्रासदी ने उस छोटे शहर को विशेष रूप से गहराई से प्रभावित किया।",
+          "ar": "كان من بين الضحايا مجموعة مدرسية من هالترن أم زيه في شمال الراين-وستفاليا. لذلك أصابت الكارثة تلك المدينة الصغيرة بقسوة خاصة."
         },
         "importance": {
           "ru": "Это не забавный случай, а пример того, как большое происшествие становится личной трагедией целого города.",
           "de": "Das ist kein lustiger Fall, sondern ein Beispiel dafuer, wie ein grosses Unglueck zur persoenlichen Tragödie einer ganzen Stadt wird.",
-          "en": "This is not a funny curiosity but an example of how a major incident becomes the personal tragedy of a whole town."
+          "en": "This is not a funny curiosity but an example of how a major incident becomes the personal tragedy of a whole town.",
+          "fr": "Ce n'est pas une anecdote amusante, mais un exemple de la façon dont un grand drame devient la tragédie personnelle de toute une ville.",
+          "es": "No es una curiosidad divertida, sino un ejemplo de cómo un gran suceso se convierte en la tragedia personal de toda una ciudad.",
+          "it": "Non è una curiosità divertente, ma un esempio di come un grande incidente diventi la tragedia personale di un'intera città.",
+          "pt": "Não é uma curiosidade divertida, mas um exemplo de como um grande acidente se torna a tragédia pessoal de uma cidade inteira.",
+          "nl": "Dit is geen grappige curiositeit, maar een voorbeeld van hoe een groot ongeluk de persoonlijke tragedie van een hele stad wordt.",
+          "pl": "To nie jest zabawna ciekawostka, lecz przykład tego, jak wielkie nieszczęście staje się osobistą tragedią całego miasta.",
+          "tr": "Bu komik bir tuhaflık değil, büyük bir olayın bütün bir kasabanın kişisel trajedisine nasıl dönüştüğünün bir örneğidir.",
+          "zh": "这并不是有趣的轶事，而是说明重大事故如何成为整座城市的个人悲剧。",
+          "ja": "これは面白い小話ではなく、大きな事故が町全体の個人的な悲劇になる例です。",
+          "ko": "이는 재미있는 일화가 아니라, 큰 사건이 어떻게 한 도시 전체의 개인적 비극이 되는지를 보여 주는 예입니다.",
+          "hi": "यह कोई मज़ेदार विचित्र घटना नहीं, बल्कि उदाहरण है कि बड़ी दुर्घटना कैसे पूरे शहर की निजी त्रासदी बन जाती है।",
+          "ar": "ليست هذه طرفة طريفة، بل مثال على كيف يصبح حادث كبير مأساة شخصية لمدينة كاملة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Это одна из самых известных авиационных катастроф, связанных с немецкой авиакомпанией, в XXI веке.",
     "de": "Es ist eine der bekanntesten Flugkatastrophen mit Bezug zu einer deutschen Fluggesellschaft im 21. Jahrhundert.",
-    "en": "It is one of the best-known air disasters involving a German airline in the twenty-first century."
+    "en": "It is one of the best-known air disasters involving a German airline in the twenty-first century.",
+    "fr": "C'est l'une des catastrophes aériennes les plus connues liées à une compagnie allemande au XXIe siècle.",
+    "es": "Es una de las catástrofes aéreas más conocidas relacionadas con una aerolínea alemana en el siglo XXI.",
+    "it": "È uno dei disastri aerei più noti legati a una compagnia tedesca nel XXI secolo.",
+    "pt": "É um dos desastres aéreos mais conhecidos envolvendo uma companhia aérea alemã no século XXI.",
+    "nl": "Het is een van de bekendste vliegrampen met een Duitse luchtvaartmaatschappij in de eenentwintigste eeuw.",
+    "pl": "To jedna z najbardziej znanych katastrof lotniczych związanych z niemiecką linią lotniczą w XXI wieku.",
+    "tr": "Bu, 21. yüzyılda bir Alman havayoluyla bağlantılı en bilinen hava felaketlerinden biridir.",
+    "zh": "这是21世纪与德国航空公司有关的最著名空难之一。",
+    "ja": "これは21世紀にドイツの航空会社が関係した最もよく知られた航空事故の一つです。",
+    "ko": "이는 21세기에 독일 항공사와 관련된 가장 잘 알려진 항공 참사 중 하나입니다.",
+    "hi": "यह 21वीं सदी में जर्मन एयरलाइन से जुड़ी सबसे प्रसिद्ध विमान दुर्घटनाओं में से एक है।",
+    "ar": "إنها إحدى أشهر كوارث الطيران المرتبطة بشركة طيران ألمانية في القرن الحادي والعشرين."
   },
   "sources": [
     {

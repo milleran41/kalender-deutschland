@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписаны Римские договоры",
       "de": "Die Roemischen Vertraege werden unterzeichnet",
-      "en": "The Treaties of Rome are signed"
+      "en": "The Treaties of Rome are signed",
+      "fr": "Les traités de Rome sont signés",
+      "es": "Se firman los Tratados de Roma",
+      "it": "Vengono firmati i Trattati di Roma",
+      "pt": "São assinados os Tratados de Roma",
+      "nl": "De Verdragen van Rome worden ondertekend",
+      "pl": "Podpisano traktaty rzymskie",
+      "tr": "Roma Antlaşmaları imzalandı",
+      "zh": "《罗马条约》签署",
+      "ja": "ローマ条約が署名される",
+      "ko": "로마 조약이 서명되다",
+      "hi": "रोम संधियों पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدات روما"
     },
     "description": {
       "ru": "25 марта 1957 года шесть стран, включая Федеративную Республику Германия, подписали Римские договоры. Они создали Европейское экономическое сообщество и Евратом.",
       "de": "Am 25. Maerz 1957 unterzeichneten sechs Staaten, darunter die Bundesrepublik Deutschland, die Roemischen Vertraege. Sie gruendeten die Europaeische Wirtschaftsgemeinschaft und Euratom.",
-      "en": "On 25 March 1957, six countries, including the Federal Republic of Germany, signed the Treaties of Rome. They created the European Economic Community and Euratom."
+      "en": "On 25 March 1957, six countries, including the Federal Republic of Germany, signed the Treaties of Rome. They created the European Economic Community and Euratom.",
+      "fr": "Le 25 mars 1957, six pays, dont la République fédérale d'Allemagne, signèrent les traités de Rome. Ils créèrent la Communauté économique européenne et Euratom.",
+      "es": "El 25 de marzo de 1957, seis países, incluida la República Federal de Alemania, firmaron los Tratados de Roma. Crearon la Comunidad Económica Europea y Euratom.",
+      "it": "Il 25 marzo 1957 sei paesi, tra cui la Repubblica Federale di Germania, firmarono i Trattati di Roma. Crearono la Comunità Economica Europea ed Euratom.",
+      "pt": "Em 25 de março de 1957, seis países, incluindo a República Federal da Alemanha, assinaram os Tratados de Roma. Criaram a Comunidade Económica Europeia e a Euratom.",
+      "nl": "Op 25 maart 1957 ondertekenden zes landen, waaronder de Bondsrepubliek Duitsland, de Verdragen van Rome. Ze richtten de Europese Economische Gemeenschap en Euratom op.",
+      "pl": "25 marca 1957 roku sześć państw, w tym Republika Federalna Niemiec, podpisało traktaty rzymskie. Utworzyły one Europejską Wspólnotę Gospodarczą i Euratom.",
+      "tr": "25 Mart 1957'de Federal Almanya Cumhuriyeti dahil altı ülke Roma Antlaşmaları'nı imzaladı. Avrupa Ekonomik Topluluğu ve Euratom'u kurdular.",
+      "zh": "1957年3月25日，包括德意志联邦共和国在内的六个国家签署了《罗马条约》。这些条约建立了欧洲经济共同体和欧洲原子能共同体。",
+      "ja": "1957年3月25日、ドイツ連邦共和国を含む6か国がローマ条約に署名しました。これにより欧州経済共同体とユーラトムが創設されました。",
+      "ko": "1957년 3월 25일, 독일연방공화국을 포함한 여섯 나라가 로마 조약에 서명했습니다. 이 조약들은 유럽경제공동체와 유라톰을 만들었습니다.",
+      "hi": "25 मार्च 1957 को जर्मनी संघीय गणराज्य सहित छह देशों ने रोम संधियों पर हस्ताक्षर किए। उन्होंने यूरोपीय आर्थिक समुदाय और यूराटॉम की स्थापना की।",
+      "ar": "في 25 مارس 1957 وقعت ست دول، بينها جمهورية ألمانيا الاتحادية، معاهدات روما. وأنشأت هذه المعاهدات الجماعة الاقتصادية الأوروبية ويوراتوم."
     },
     "importance": {
       "ru": "Это один из главных шагов к современной Европейской унии.",
       "de": "Das war einer der wichtigsten Schritte zur heutigen Europaeischen Union.",
-      "en": "It was one of the main steps toward today's European Union."
+      "en": "It was one of the main steps toward today's European Union.",
+      "fr": "Ce fut l'une des principales étapes vers l'Union européenne actuelle.",
+      "es": "Fue uno de los pasos principales hacia la Unión Europea actual.",
+      "it": "Fu uno dei passaggi principali verso l'attuale Unione europea.",
+      "pt": "Foi um dos principais passos rumo à atual União Europeia.",
+      "nl": "Het was een van de belangrijkste stappen naar de huidige Europese Unie.",
+      "pl": "Był to jeden z głównych kroków ku dzisiejszej Unii Europejskiej.",
+      "tr": "Bu, bugünkü Avrupa Birliği'ne giden başlıca adımlardan biriydi.",
+      "zh": "这是通向今天欧洲联盟的主要步骤之一。",
+      "ja": "これは現在の欧州連合へ向かう主要な一歩の一つでした。",
+      "ko": "이는 오늘날 유럽연합으로 가는 주요 단계 중 하나였습니다.",
+      "hi": "यह आज के यूरोपीय संघ की ओर मुख्य कदमों में से एक था।",
+      "ar": "كان ذلك إحدى الخطوات الرئيسية نحو الاتحاد الأوروبي الحالي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Германия как страна-основатель",
           "de": "Deutschland als Gruendungsmitglied",
-          "en": "Germany as a founding member"
+          "en": "Germany as a founding member",
+          "fr": "L'Allemagne comme membre fondateur",
+          "es": "Alemania como miembro fundador",
+          "it": "La Germania come membro fondatore",
+          "pt": "A Alemanha como membro fundador",
+          "nl": "Duitsland als oprichtend lid",
+          "pl": "Niemcy jako członek założyciel",
+          "tr": "Kurucu üye olarak Almanya",
+          "zh": "德国作为创始成员国",
+          "ja": "創設メンバーとしてのドイツ",
+          "ko": "창립 회원국으로서의 독일",
+          "hi": "संस्थापक सदस्य के रूप में जर्मनी",
+          "ar": "ألمانيا كعضو مؤسس"
         },
         "description": {
           "ru": "Для послевоенной ФРГ европейская интеграция была способом вернуться в международное доверие. Экономическое сотрудничество стало частью политики мира.",
           "de": "Fuer die Nachkriegs-Bundesrepublik war die europaeische Integration ein Weg zurueck in internationales Vertrauen. Wirtschaftliche Zusammenarbeit wurde Teil der Friedenspolitik.",
-          "en": "For postwar West Germany, European integration was a way back into international trust. Economic cooperation became part of peace policy."
+          "en": "For postwar West Germany, European integration was a way back into international trust. Economic cooperation became part of peace policy.",
+          "fr": "Pour la RFA d'après-guerre, l'intégration européenne fut un moyen de retrouver la confiance internationale. La coopération économique devint une partie de la politique de paix.",
+          "es": "Para la Alemania Occidental de posguerra, la integración europea fue una forma de recuperar la confianza internacional. La cooperación económica se convirtió en parte de la política de paz.",
+          "it": "Per la Germania Ovest del dopoguerra, l'integrazione europea fu un modo per tornare alla fiducia internazionale. La cooperazione economica divenne parte della politica di pace.",
+          "pt": "Para a Alemanha Ocidental do pós-guerra, a integração europeia foi uma forma de regressar à confiança internacional. A cooperação económica tornou-se parte da política de paz.",
+          "nl": "Voor de naoorlogse Bondsrepubliek was Europese integratie een weg terug naar internationaal vertrouwen. Economische samenwerking werd onderdeel van vredespolitiek.",
+          "pl": "Dla powojennej RFN integracja europejska była drogą powrotu do międzynarodowego zaufania. Współpraca gospodarcza stała się częścią polityki pokoju.",
+          "tr": "Savaş sonrası Batı Almanya için Avrupa entegrasyonu uluslararası güvene dönüş yoluydu. Ekonomik işbirliği barış politikasının parçası oldu.",
+          "zh": "对战后的西德来说，欧洲一体化是重新获得国际信任的道路。经济合作成为和平政策的一部分。",
+          "ja": "戦後の西ドイツにとって、欧州統合は国際的信頼へ戻る道でした。経済協力は平和政策の一部となりました。",
+          "ko": "전후 서독에게 유럽 통합은 국제적 신뢰로 돌아가는 길이었습니다. 경제 협력은 평화 정책의 일부가 되었습니다.",
+          "hi": "युद्धोत्तर पश्चिम जर्मनी के लिए यूरोपीय एकीकरण अंतरराष्ट्रीय विश्वास में लौटने का रास्ता था। आर्थिक सहयोग शांति नीति का हिस्सा बन गया।",
+          "ar": "بالنسبة إلى ألمانيا الغربية بعد الحرب، كان التكامل الأوروبي طريقا للعودة إلى الثقة الدولية. وأصبح التعاون الاقتصادي جزءا من سياسة السلام."
         },
         "importance": {
           "ru": "Дата показывает, как Германия после войны встроилась в новую Европу.",
           "de": "Das Datum zeigt, wie Deutschland nach dem Krieg in ein neues Europa eingebunden wurde.",
-          "en": "The date shows how Germany was embedded in a new Europe after the war."
+          "en": "The date shows how Germany was embedded in a new Europe after the war.",
+          "fr": "Cette date montre comment l'Allemagne fut intégrée dans une nouvelle Europe après la guerre.",
+          "es": "La fecha muestra cómo Alemania quedó integrada en una nueva Europa después de la guerra.",
+          "it": "La data mostra come la Germania fu inserita in una nuova Europa dopo la guerra.",
+          "pt": "A data mostra como a Alemanha foi integrada numa nova Europa depois da guerra.",
+          "nl": "Deze datum laat zien hoe Duitsland na de oorlog in een nieuw Europa werd ingebed.",
+          "pl": "Ta data pokazuje, jak Niemcy po wojnie zostały włączone w nową Europę.",
+          "tr": "Bu tarih, Almanya'nın savaştan sonra yeni bir Avrupa'ya nasıl yerleştiğini gösterir.",
+          "zh": "这个日期显示了战后德国如何融入新的欧洲。",
+          "ja": "この日付は、戦後のドイツが新しいヨーロッパにどのように組み込まれたかを示しています。",
+          "ko": "이 날짜는 전후 독일이 새로운 유럽 속에 어떻게 자리 잡았는지를 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि युद्ध के बाद जर्मनी नई यूरोप व्यवस्था में कैसे शामिल हुआ।",
+          "ar": "يُظهر هذا التاريخ كيف اندمجت ألمانيا بعد الحرب في أوروبا جديدة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Римские договоры вступили в силу 1 января 1958 года.",
     "de": "Die Roemischen Vertraege traten am 1. Januar 1958 in Kraft.",
-    "en": "The Treaties of Rome entered into force on 1 January 1958."
+    "en": "The Treaties of Rome entered into force on 1 January 1958.",
+    "fr": "Les traités de Rome entrèrent en vigueur le 1er janvier 1958.",
+    "es": "Los Tratados de Roma entraron en vigor el 1 de enero de 1958.",
+    "it": "I Trattati di Roma entrarono in vigore il 1º gennaio 1958.",
+    "pt": "Os Tratados de Roma entraram em vigor em 1 de janeiro de 1958.",
+    "nl": "De Verdragen van Rome traden op 1 januari 1958 in werking.",
+    "pl": "Traktaty rzymskie weszły w życie 1 stycznia 1958 roku.",
+    "tr": "Roma Antlaşmaları 1 Ocak 1958'de yürürlüğe girdi.",
+    "zh": "《罗马条约》于1958年1月1日生效。",
+    "ja": "ローマ条約は1958年1月1日に発効しました。",
+    "ko": "로마 조약은 1958년 1월 1일에 발효되었습니다.",
+    "hi": "रोम संधियाँ 1 जनवरी 1958 को लागू हुईं।",
+    "ar": "دخلت معاهدات روما حيز التنفيذ في 1 يناير 1958."
   },
   "sources": [
     {
