@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Гельмут Коль",
       "de": "Helmut Kohl wird geboren",
-      "en": "Helmut Kohl is born"
+      "en": "Helmut Kohl is born",
+      "fr": "Naissance de Helmut Kohl",
+      "es": "Nace Helmut Kohl",
+      "it": "Nasce Helmut Kohl",
+      "pt": "Nasce Helmut Kohl",
+      "nl": "Helmut Kohl wordt geboren",
+      "pl": "Urodził się Helmut Kohl",
+      "tr": "Helmut Kohl doğdu",
+      "zh": "赫尔穆特·科尔出生",
+      "ja": "ヘルムート・コールが生まれる",
+      "ko": "헬무트 콜이 태어나다",
+      "hi": "हेल्मुट कोल का जन्म हुआ",
+      "ar": "ولادة هلموت كول"
     },
     "description": {
       "ru": "3 апреля 1930 года в Людвигсхафене-на-Рейне родился Гельмут Коль. Позже он стал федеральным канцлером и одним из главных политиков немецкого воссоединения.",
       "de": "Am 3. April 1930 wurde Helmut Kohl in Ludwigshafen am Rhein geboren. Spaeter wurde er Bundeskanzler und einer der wichtigsten Politiker der deutschen Wiedervereinigung.",
-      "en": "On 3 April 1930, Helmut Kohl was born in Ludwigshafen am Rhein. He later became federal chancellor and one of the key politicians of German reunification."
+      "en": "On 3 April 1930, Helmut Kohl was born in Ludwigshafen am Rhein. He later became federal chancellor and one of the key politicians of German reunification.",
+      "fr": "Le 3 avril 1930, Helmut Kohl naquit à Ludwigshafen am Rhein. Il devint plus tard chancelier fédéral et l'un des principaux responsables politiques de la réunification allemande.",
+      "es": "El 3 de abril de 1930 nació Helmut Kohl en Ludwigshafen am Rhein. Más tarde fue canciller federal y uno de los políticos clave de la reunificación alemana.",
+      "it": "Il 3 aprile 1930 Helmut Kohl nacque a Ludwigshafen am Rhein. In seguito divenne cancelliere federale e uno dei politici principali della riunificazione tedesca.",
+      "pt": "Em 3 de abril de 1930, Helmut Kohl nasceu em Ludwigshafen am Rhein. Mais tarde tornou-se chanceler federal e um dos principais políticos da reunificação alemã.",
+      "nl": "Op 3 april 1930 werd Helmut Kohl in Ludwigshafen am Rhein geboren. Later werd hij bondskanselier en een van de belangrijkste politici van de Duitse hereniging.",
+      "pl": "3 kwietnia 1930 roku w Ludwigshafen am Rhein urodził się Helmut Kohl. Później został kanclerzem federalnym i jednym z głównych polityków niemieckiego zjednoczenia.",
+      "tr": "3 Nisan 1930'da Helmut Kohl Ludwigshafen am Rhein'de doğdu. Daha sonra federal şansölye ve Alman yeniden birleşmesinin kilit siyasetçilerinden biri oldu.",
+      "zh": "1930年4月3日，赫尔穆特·科尔出生于路德维希港。后来他成为联邦总理，并成为德国统一的关键政治人物之一。",
+      "ja": "1930年4月3日、ヘルムート・コールはルートヴィヒスハーフェン・アム・ラインで生まれました。後に彼は連邦首相となり、ドイツ再統一の主要政治家の一人となりました。",
+      "ko": "1930년 4월 3일, 헬무트 콜이 루트비히스하펜암라인에서 태어났습니다. 그는 나중에 연방총리가 되었고 독일 재통일의 핵심 정치인 중 한 명이 되었습니다.",
+      "hi": "3 अप्रैल 1930 को हेल्मुट कोल का जन्म लुडविग्सहाफेन आम राइन में हुआ। बाद में वे संघीय चांसलर और जर्मन पुनर्एकीकरण के प्रमुख राजनेताओं में से एक बने।",
+      "ar": "في 3 أبريل 1930 وُلد هلموت كول في لودفيغسهافن أم راين. وأصبح لاحقا المستشار الاتحادي وأحد أبرز سياسيي إعادة توحيد ألمانيا."
     },
     "importance": {
       "ru": "Коль связывает историю послевоенной ФРГ, европейской интеграции и объединения Германии.",
       "de": "Kohl verbindet die Geschichte der Nachkriegs-Bundesrepublik, der europaeischen Integration und der deutschen Einheit.",
-      "en": "Kohl connects the history of postwar West Germany, European integration and German unity."
+      "en": "Kohl connects the history of postwar West Germany, European integration and German unity.",
+      "fr": "Kohl relie l'histoire de la RFA d'après-guerre, l'intégration européenne et l'unité allemande.",
+      "es": "Kohl conecta la historia de la Alemania Occidental de posguerra, la integración europea y la unidad alemana.",
+      "it": "Kohl collega la storia della Germania Ovest del dopoguerra, l'integrazione europea e l'unità tedesca.",
+      "pt": "Kohl liga a história da Alemanha Ocidental do pós-guerra, a integração europeia e a unidade alemã.",
+      "nl": "Kohl verbindt de geschiedenis van de naoorlogse Bondsrepubliek, Europese integratie en Duitse eenheid.",
+      "pl": "Kohl łączy historię powojennej RFN, integracji europejskiej i jedności Niemiec.",
+      "tr": "Kohl, savaş sonrası Batı Almanya tarihini, Avrupa entegrasyonunu ve Alman birliğini birbirine bağlar.",
+      "zh": "科尔连接了战后西德、欧洲一体化和德国统一的历史。",
+      "ja": "コールは戦後西ドイツ、欧州統合、ドイツ統一の歴史を結びつけています。",
+      "ko": "콜은 전후 서독, 유럽 통합, 독일 통일의 역사를 연결합니다.",
+      "hi": "कोल युद्धोत्तर पश्चिम जर्मनी, यूरोपीय एकीकरण और जर्मन एकता के इतिहास को जोड़ते हैं।",
+      "ar": "يربط كول بين تاريخ ألمانيا الغربية بعد الحرب والتكامل الأوروبي والوحدة الألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Политик из Рейнланд-Пфальца",
           "de": "Ein Politiker aus Rheinland-Pfalz",
-          "en": "A politician from Rhineland-Palatinate"
+          "en": "A politician from Rhineland-Palatinate",
+          "fr": "Un homme politique de Rhénanie-Palatinat",
+          "es": "Un político de Renania-Palatinado",
+          "it": "Un politico della Renania-Palatinato",
+          "pt": "Um político da Renânia-Palatinado",
+          "nl": "Een politicus uit Rijnland-Palts",
+          "pl": "Polityk z Nadrenii-Palatynatu",
+          "tr": "Rheinland-Pfalz'dan bir siyasetçi",
+          "zh": "来自莱茵兰-普法尔茨的政治家",
+          "ja": "ラインラント＝プファルツ出身の政治家",
+          "ko": "라인란트팔츠 출신 정치인",
+          "hi": "राइनलैंड-पैलेटिनेट के राजनेता",
+          "ar": "سياسي من راينلاند بالاتينات"
         },
         "description": {
           "ru": "Коль начинал политическую карьеру в земле Рейнланд-Пфальц и был её министром-президентом. Позже он перенёс этот опыт земельной политики на федеральный уровень.",
           "de": "Kohl begann seine politische Laufbahn in Rheinland-Pfalz und war dort Ministerpraesident. Spaeter brachte er diese Erfahrung aus der Landespolitik auf die Bundesebene.",
-          "en": "Kohl began his political career in Rhineland-Palatinate and served as the state's minister-president. He later carried that state-level experience into federal politics."
+          "en": "Kohl began his political career in Rhineland-Palatinate and served as the state's minister-president. He later carried that state-level experience into federal politics.",
+          "fr": "Kohl commença sa carrière politique en Rhénanie-Palatinat et y fut ministre-président. Plus tard, il porta cette expérience régionale au niveau fédéral.",
+          "es": "Kohl comenzó su carrera política en Renania-Palatinado y fue ministro-presidente del estado. Más tarde llevó esa experiencia regional a la política federal.",
+          "it": "Kohl iniziò la sua carriera politica in Renania-Palatinato e ne fu ministro-presidente. In seguito portò questa esperienza regionale nella politica federale.",
+          "pt": "Kohl começou a sua carreira política na Renânia-Palatinado e foi ministro-presidente desse estado. Mais tarde levou essa experiência estadual para a política federal.",
+          "nl": "Kohl begon zijn politieke loopbaan in Rijnland-Palts en was daar minister-president. Later bracht hij die ervaring uit de deelstaatpolitiek naar het federale niveau.",
+          "pl": "Kohl zaczynał karierę polityczną w Nadrenii-Palatynacie i był jej premierem. Później przeniósł to doświadczenie landowe na poziom federalny.",
+          "tr": "Kohl siyasi kariyerine Rheinland-Pfalz'da başladı ve bu eyaletin başbakanı oldu. Daha sonra eyalet düzeyindeki bu deneyimi federal siyasete taşıdı.",
+          "zh": "科尔在莱茵兰-普法尔茨开始政治生涯，并曾担任该州州长。后来他把州级政治经验带入联邦政治。",
+          "ja": "コールはラインラント＝プファルツで政治家としての経歴を始め、同州の首相を務めました。後にその州政治の経験を連邦政治へ持ち込みました。",
+          "ko": "콜은 라인란트팔츠에서 정치 경력을 시작했고 그 주의 총리를 지냈습니다. 이후 그는 주 정치 경험을 연방 정치로 가져갔습니다.",
+          "hi": "कोल ने अपनी राजनीतिक यात्रा राइनलैंड-पैलेटिनेट में शुरू की और वहाँ मंत्री-प्रधान रहे। बाद में उन्होंने उस प्रांतीय अनुभव को संघीय राजनीति में लाया।",
+          "ar": "بدأ كول مسيرته السياسية في راينلاند بالاتينات وكان رئيس وزرائها. ولاحقا نقل خبرته في سياسة الولاية إلى المستوى الاتحادي."
         },
         "importance": {
           "ru": "Это хороший пример того, как немецкая федеральная система выращивает политиков через земли.",
           "de": "Das ist ein gutes Beispiel dafuer, wie der deutsche Foederalismus Politiker ueber die Laenderpraxis praegt.",
-          "en": "It is a good example of how German federalism shapes politicians through state-level experience."
+          "en": "It is a good example of how German federalism shapes politicians through state-level experience.",
+          "fr": "C'est un bon exemple de la manière dont le fédéralisme allemand forme des responsables politiques par l'expérience des Länder.",
+          "es": "Es un buen ejemplo de cómo el federalismo alemán forma políticos mediante la experiencia en los estados federados.",
+          "it": "È un buon esempio di come il federalismo tedesco formi i politici attraverso l'esperienza nei Länder.",
+          "pt": "É um bom exemplo de como o federalismo alemão forma políticos através da experiência nos estados federados.",
+          "nl": "Het is een goed voorbeeld van hoe het Duitse federalisme politici vormt via ervaring in de deelstaten.",
+          "pl": "To dobry przykład tego, jak niemiecki federalizm kształtuje polityków poprzez doświadczenie w landach.",
+          "tr": "Bu, Alman federalizminin eyalet düzeyindeki deneyimle siyasetçileri nasıl şekillendirdiğine iyi bir örnektir.",
+          "zh": "这是德国联邦制如何通过州级经验培养政治家的好例子。",
+          "ja": "これは、ドイツの連邦制が州レベルの経験を通じて政治家を育てる良い例です。",
+          "ko": "이는 독일 연방제가 주 차원의 경험을 통해 정치인을 어떻게 형성하는지를 보여 주는 좋은 예입니다.",
+          "hi": "यह अच्छा उदाहरण है कि जर्मन संघीय व्यवस्था राज्यों के अनुभव के माध्यम से राजनेताओं को कैसे गढ़ती है।",
+          "ar": "إنه مثال جيد على كيف يشكل النظام الاتحادي الألماني السياسيين عبر خبرة الولايات."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Канцлер времени объединения",
           "de": "Kanzler der Einheit",
-          "en": "Chancellor of unity"
+          "en": "Chancellor of unity",
+          "fr": "Chancelier de l'unité",
+          "es": "Canciller de la unidad",
+          "it": "Cancelliere dell'unità",
+          "pt": "Chanceler da unidade",
+          "nl": "Kanselier van de eenheid",
+          "pl": "Kanclerz jedności",
+          "tr": "Birliğin şansölyesi",
+          "zh": "统一时期的总理",
+          "ja": "統一の首相",
+          "ko": "통일의 총리",
+          "hi": "एकता के चांसलर",
+          "ar": "مستشار الوحدة"
         },
         "description": {
           "ru": "В 1989-1990 годах правительство Коля вело переговоры о внешних условиях объединения Германии. Важную роль сыграли отношения с США, СССР, Францией, Великобританией и соседями Германии.",
           "de": "In den Jahren 1989-1990 verhandelte Kohls Regierung ueber die aeusseren Bedingungen der deutschen Einheit. Wichtig waren die Beziehungen zu den USA, zur Sowjetunion, zu Frankreich, Grossbritannien und den Nachbarn Deutschlands.",
-          "en": "In 1989-1990, Kohl's government negotiated the external conditions of German unity. Relations with the United States, the Soviet Union, France, Britain and Germany's neighbors were crucial."
+          "en": "In 1989-1990, Kohl's government negotiated the external conditions of German unity. Relations with the United States, the Soviet Union, France, Britain and Germany's neighbors were crucial.",
+          "fr": "En 1989-1990, le gouvernement de Kohl négocia les conditions extérieures de l'unité allemande. Les relations avec les États-Unis, l'Union soviétique, la France, la Grande-Bretagne et les voisins de l'Allemagne furent décisives.",
+          "es": "En 1989-1990, el gobierno de Kohl negoció las condiciones externas de la unidad alemana. Fueron cruciales las relaciones con Estados Unidos, la Unión Soviética, Francia, Gran Bretaña y los vecinos de Alemania.",
+          "it": "Nel 1989-1990 il governo di Kohl negoziò le condizioni esterne dell'unità tedesca. Furono cruciali i rapporti con Stati Uniti, Unione Sovietica, Francia, Gran Bretagna e vicini della Germania.",
+          "pt": "Em 1989-1990, o governo de Kohl negociou as condições externas da unidade alemã. Foram cruciais as relações com os Estados Unidos, a União Soviética, a França, a Grã-Bretanha e os vizinhos da Alemanha.",
+          "nl": "In 1989-1990 onderhandelde Kohls regering over de externe voorwaarden van de Duitse eenheid. De relaties met de Verenigde Staten, de Sovjet-Unie, Frankrijk, Groot-Brittannië en Duitslands buren waren cruciaal.",
+          "pl": "W latach 1989-1990 rząd Kohla negocjował zewnętrzne warunki jedności Niemiec. Kluczowe były relacje z USA, Związkiem Radzieckim, Francją, Wielką Brytanią i sąsiadami Niemiec.",
+          "tr": "1989-1990 yıllarında Kohl hükümeti Alman birliğinin dış koşullarını müzakere etti. ABD, Sovyetler Birliği, Fransa, Britanya ve Almanya'nın komşularıyla ilişkiler belirleyiciydi.",
+          "zh": "1989至1990年，科尔政府就德国统一的外部条件进行谈判。与美国、苏联、法国、英国以及德国邻国的关系至关重要。",
+          "ja": "1989年から1990年にかけて、コール政権はドイツ統一の対外的条件について交渉しました。アメリカ、ソ連、フランス、イギリス、そしてドイツの隣国との関係が重要でした。",
+          "ko": "1989-1990년에 콜 정부는 독일 통일의 외적 조건을 협상했습니다. 미국, 소련, 프랑스, 영국, 독일의 이웃 나라들과의 관계가 중요했습니다.",
+          "hi": "1989-1990 में कोल सरकार ने जर्मन एकता की बाहरी शर्तों पर बातचीत की। अमेरिका, सोवियत संघ, फ्रांस, ब्रिटेन और जर्मनी के पड़ोसियों के साथ संबंध निर्णायक थे।",
+          "ar": "في عامي 1989-1990 تفاوضت حكومة كول حول الشروط الخارجية للوحدة الألمانية. وكانت العلاقات مع الولايات المتحدة والاتحاد السوفيتي وفرنسا وبريطانيا وجيران ألمانيا حاسمة."
         },
         "importance": {
           "ru": "Так воссоединение видно не только как народное движение, но и как сложная дипломатия.",
           "de": "So wird die Wiedervereinigung nicht nur als Volksbewegung, sondern auch als komplexe Diplomatie sichtbar.",
-          "en": "This shows reunification not only as a popular movement but also as complex diplomacy."
+          "en": "This shows reunification not only as a popular movement but also as complex diplomacy.",
+          "fr": "Cela montre la réunification non seulement comme un mouvement populaire, mais aussi comme une diplomatie complexe.",
+          "es": "Esto muestra la reunificación no solo como un movimiento popular, sino también como una diplomacia compleja.",
+          "it": "Questo mostra la riunificazione non solo come movimento popolare, ma anche come diplomazia complessa.",
+          "pt": "Isto mostra a reunificação não só como movimento popular, mas também como diplomacia complexa.",
+          "nl": "Dit laat hereniging niet alleen zien als volksbeweging, maar ook als complexe diplomatie.",
+          "pl": "Pokazuje to zjednoczenie nie tylko jako ruch społeczny, lecz także jako złożoną dyplomację.",
+          "tr": "Bu, yeniden birleşmeyi yalnızca halk hareketi değil, karmaşık diplomasi olarak da gösterir.",
+          "zh": "这表明，统一不仅是民众运动，也是一场复杂的外交。",
+          "ja": "これは、再統一が民衆運動であるだけでなく、複雑な外交でもあったことを示しています。",
+          "ko": "이는 재통일이 대중 운동일 뿐 아니라 복잡한 외교이기도 했음을 보여 줍니다.",
+          "hi": "इससे पुनर्एकीकरण केवल जन आंदोलन नहीं, बल्कि जटिल कूटनीति भी दिखाई देता है।",
+          "ar": "يُظهر ذلك إعادة التوحيد لا كحركة شعبية فقط، بل كدبلوماسية معقدة أيضا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Гельмут Коль занимал пост федерального канцлера с 1982 по 1998 год.",
     "de": "Helmut Kohl war von 1982 bis 1998 Bundeskanzler.",
-    "en": "Helmut Kohl served as federal chancellor from 1982 to 1998."
+    "en": "Helmut Kohl served as federal chancellor from 1982 to 1998.",
+    "fr": "Helmut Kohl fut chancelier fédéral de 1982 à 1998.",
+    "es": "Helmut Kohl fue canciller federal de 1982 a 1998.",
+    "it": "Helmut Kohl fu cancelliere federale dal 1982 al 1998.",
+    "pt": "Helmut Kohl foi chanceler federal de 1982 a 1998.",
+    "nl": "Helmut Kohl was van 1982 tot 1998 bondskanselier.",
+    "pl": "Helmut Kohl był kanclerzem federalnym w latach 1982-1998.",
+    "tr": "Helmut Kohl 1982'den 1998'e kadar federal şansölye olarak görev yaptı.",
+    "zh": "赫尔穆特·科尔于1982年至1998年担任联邦总理。",
+    "ja": "ヘルムート・コールは1982年から1998年まで連邦首相を務めました。",
+    "ko": "헬무트 콜은 1982년부터 1998년까지 연방총리를 지냈습니다.",
+    "hi": "हेल्मुट कोल 1982 से 1998 तक संघीय चांसलर रहे।",
+    "ar": "شغل هلموت كول منصب المستشار الاتحادي من 1982 إلى 1998."
   },
   "sources": [
     {

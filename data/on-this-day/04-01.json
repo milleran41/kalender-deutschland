@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Отто фон Бисмарк",
       "de": "Otto von Bismarck wird geboren",
-      "en": "Otto von Bismarck is born"
+      "en": "Otto von Bismarck is born",
+      "fr": "Naissance d'Otto von Bismarck",
+      "es": "Nace Otto von Bismarck",
+      "it": "Nasce Otto von Bismarck",
+      "pt": "Nasce Otto von Bismarck",
+      "nl": "Otto von Bismarck wordt geboren",
+      "pl": "Urodził się Otto von Bismarck",
+      "tr": "Otto von Bismarck doğdu",
+      "zh": "奥托·冯·俾斯麦出生",
+      "ja": "オットー・フォン・ビスマルクが生まれる",
+      "ko": "오토 폰 비스마르크가 태어나다",
+      "hi": "ओटो फॉन बिस्मार्क का जन्म हुआ",
+      "ar": "ولادة أوتو فون بسمارك"
     },
     "description": {
       "ru": "1 апреля 1815 года в Шёнхаузене родился Отто фон Бисмарк. Позднее он стал прусским министром-президентом и первым рейхсканцлером Германской империи.",
       "de": "Am 1. April 1815 wurde Otto von Bismarck in Schoenhausen geboren. Spaeter wurde er preussischer Ministerpraesident und erster Reichskanzler des Deutschen Kaiserreichs.",
-      "en": "On 1 April 1815, Otto von Bismarck was born in Schoenhausen. He later became Prussian minister-president and the first chancellor of the German Empire."
+      "en": "On 1 April 1815, Otto von Bismarck was born in Schoenhausen. He later became Prussian minister-president and the first chancellor of the German Empire.",
+      "fr": "Le 1er avril 1815, Otto von Bismarck naquit à Schoenhausen. Il devint plus tard ministre-président de Prusse et premier chancelier de l'Empire allemand.",
+      "es": "El 1 de abril de 1815 nació Otto von Bismarck en Schoenhausen. Más tarde fue ministro-presidente de Prusia y primer canciller del Imperio alemán.",
+      "it": "Il 1º aprile 1815 Otto von Bismarck nacque a Schoenhausen. In seguito divenne ministro-presidente prussiano e primo cancelliere dell'Impero tedesco.",
+      "pt": "Em 1 de abril de 1815, Otto von Bismarck nasceu em Schoenhausen. Mais tarde tornou-se ministro-presidente da Prússia e primeiro chanceler do Império Alemão.",
+      "nl": "Op 1 april 1815 werd Otto von Bismarck in Schoenhausen geboren. Later werd hij Pruisisch minister-president en de eerste rijkskanselier van het Duitse Keizerrijk.",
+      "pl": "1 kwietnia 1815 roku w Schoenhausen urodził się Otto von Bismarck. Później został pruskim premierem i pierwszym kanclerzem Rzeszy Niemieckiej.",
+      "tr": "1 Nisan 1815'te Otto von Bismarck Schoenhausen'de doğdu. Daha sonra Prusya başbakanı ve Alman İmparatorluğu'nun ilk şansölyesi oldu.",
+      "zh": "1815年4月1日，奥托·冯·俾斯麦出生于舍恩豪森。后来他成为普鲁士首相和德意志帝国第一任宰相。",
+      "ja": "1815年4月1日、オットー・フォン・ビスマルクはシェーンハウゼンで生まれました。後に彼はプロイセン首相となり、ドイツ帝国の初代宰相となりました。",
+      "ko": "1815년 4월 1일, 오토 폰 비스마르크가 쇤하우젠에서 태어났습니다. 그는 나중에 프로이센 총리이자 독일 제국의 초대 총리가 되었습니다.",
+      "hi": "1 अप्रैल 1815 को ओटो फॉन बिस्मार्क का जन्म शोनहाउज़ेन में हुआ। बाद में वे प्रशिया के मंत्री-प्रधान और जर्मन साम्राज्य के पहले चांसलर बने।",
+      "ar": "في 1 أبريل 1815 وُلد أوتو فون بسمارك في شونهاوزن. وأصبح لاحقا رئيس وزراء بروسيا وأول مستشار للإمبراطورية الألمانية."
     },
     "importance": {
       "ru": "Бисмарк был одной из ключевых фигур объединения Германии в XIX веке.",
       "de": "Bismarck war eine Schluesselfigur der deutschen Einigung im 19. Jahrhundert.",
-      "en": "Bismarck was a key figure in German unification in the nineteenth century."
+      "en": "Bismarck was a key figure in German unification in the nineteenth century.",
+      "fr": "Bismarck fut une figure clé de l'unification allemande au XIXe siècle.",
+      "es": "Bismarck fue una figura clave de la unificación alemana en el siglo XIX.",
+      "it": "Bismarck fu una figura chiave dell'unificazione tedesca nel XIX secolo.",
+      "pt": "Bismarck foi uma figura-chave da unificação alemã no século XIX.",
+      "nl": "Bismarck was een sleutelfiguur in de Duitse eenwording in de negentiende eeuw.",
+      "pl": "Bismarck był kluczową postacią zjednoczenia Niemiec w XIX wieku.",
+      "tr": "Bismarck, 19. yüzyılda Alman birliğinin kilit isimlerinden biriydi.",
+      "zh": "俾斯麦是19世纪德国统一的关键人物之一。",
+      "ja": "ビスマルクは19世紀のドイツ統一における重要人物でした。",
+      "ko": "비스마르크는 19세기 독일 통일의 핵심 인물이었습니다.",
+      "hi": "बिस्मार्क 19वीं सदी में जर्मन एकीकरण की प्रमुख हस्ती थे।",
+      "ar": "كان بسمارك شخصية محورية في توحيد ألمانيا في القرن التاسع عشر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Политика силы и расчёта",
           "de": "Politik von Macht und Kalkuel",
-          "en": "Politics of power and calculation"
+          "en": "Politics of power and calculation",
+          "fr": "Politique de puissance et de calcul",
+          "es": "Política de poder y cálculo",
+          "it": "Politica di potere e calcolo",
+          "pt": "Política de poder e cálculo",
+          "nl": "Politiek van macht en berekening",
+          "pl": "Polityka siły i kalkulacji",
+          "tr": "Güç ve hesap siyaseti",
+          "zh": "力量与算计的政治",
+          "ja": "力と計算の政治",
+          "ko": "힘과 계산의 정치",
+          "hi": "शक्ति और गणना की राजनीति",
+          "ar": "سياسة القوة والحساب"
         },
         "description": {
           "ru": "Бисмарка часто связывают с понятием Realpolitik. Он умел соединять дипломатию, военную силу и внутренние реформы.",
           "de": "Bismarck wird oft mit dem Begriff Realpolitik verbunden. Er verband Diplomatie, militaerische Macht und innere Reformen.",
-          "en": "Bismarck is often associated with Realpolitik. He combined diplomacy, military power and domestic reforms."
+          "en": "Bismarck is often associated with Realpolitik. He combined diplomacy, military power and domestic reforms.",
+          "fr": "Bismarck est souvent associé à la Realpolitik. Il savait combiner diplomatie, puissance militaire et réformes intérieures.",
+          "es": "Bismarck suele asociarse con la Realpolitik. Combinó diplomacia, poder militar y reformas internas.",
+          "it": "Bismarck è spesso associato alla Realpolitik. Unì diplomazia, potere militare e riforme interne.",
+          "pt": "Bismarck é frequentemente associado à Realpolitik. Combinou diplomacia, poder militar e reformas internas.",
+          "nl": "Bismarck wordt vaak met Realpolitik verbonden. Hij combineerde diplomatie, militaire macht en binnenlandse hervormingen.",
+          "pl": "Bismarcka często łączy się z pojęciem Realpolitik. Łączył dyplomację, siłę wojskową i reformy wewnętrzne.",
+          "tr": "Bismarck sık sık Realpolitik kavramıyla ilişkilendirilir. Diplomasiyi, askeri gücü ve iç reformları birleştirdi.",
+          "zh": "俾斯麦常与现实政治这一概念联系在一起。他善于结合外交、军事力量和国内改革。",
+          "ja": "ビスマルクはしばしば Realpolitik と結びつけられます。彼は外交、軍事力、国内改革を結びつけました。",
+          "ko": "비스마르크는 흔히 Realpolitik과 연결됩니다. 그는 외교, 군사력, 국내 개혁을 결합했습니다.",
+          "hi": "बिस्मार्क को अक्सर Realpolitik से जोड़ा जाता है। उन्होंने कूटनीति, सैन्य शक्ति और आंतरिक सुधारों को जोड़ा।",
+          "ar": "غالبا ما يرتبط بسمارك بمفهوم Realpolitik. فقد جمع بين الدبلوماسية والقوة العسكرية والإصلاحات الداخلية."
         },
         "importance": {
           "ru": "Его политика объясняет, почему объединение Германии было таким сложным и противоречивым.",
           "de": "Seine Politik erklaert, warum die deutsche Einigung so komplex und widerspruechlich war.",
-          "en": "His politics helps explain why German unification was so complex and contradictory."
+          "en": "His politics helps explain why German unification was so complex and contradictory.",
+          "fr": "Sa politique aide à comprendre pourquoi l'unification allemande fut si complexe et contradictoire.",
+          "es": "Su política ayuda a explicar por qué la unificación alemana fue tan compleja y contradictoria.",
+          "it": "La sua politica aiuta a spiegare perché l'unificazione tedesca fu così complessa e contraddittoria.",
+          "pt": "A sua política ajuda a explicar por que a unificação alemã foi tão complexa e contraditória.",
+          "nl": "Zijn politiek helpt verklaren waarom de Duitse eenwording zo complex en tegenstrijdig was.",
+          "pl": "Jego polityka pomaga wyjaśnić, dlaczego zjednoczenie Niemiec było tak złożone i sprzeczne.",
+          "tr": "Onun siyaseti, Alman birliğinin neden bu kadar karmaşık ve çelişkili olduğunu açıklamaya yardımcı olur.",
+          "zh": "他的政治实践有助于解释德国统一为何如此复杂且充满矛盾。",
+          "ja": "彼の政治は、ドイツ統一がなぜそれほど複雑で矛盾に満ちていたかを説明する助けになります。",
+          "ko": "그의 정치는 독일 통일이 왜 그렇게 복잡하고 모순적이었는지 설명하는 데 도움이 됩니다.",
+          "hi": "उनकी राजनीति समझाती है कि जर्मन एकीकरण इतना जटिल और विरोधाभासी क्यों था।",
+          "ar": "تساعد سياسته على تفسير سبب تعقيد توحيد ألمانيا وتناقضه."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "В Веймаре основан Баухаус",
           "de": "Das Bauhaus wird in Weimar gegruendet",
-          "en": "The Bauhaus is founded in Weimar"
+          "en": "The Bauhaus is founded in Weimar",
+          "fr": "Le Bauhaus est fondé à Weimar",
+          "es": "Se funda la Bauhaus en Weimar",
+          "it": "Il Bauhaus viene fondato a Weimar",
+          "pt": "A Bauhaus é fundada em Weimar",
+          "nl": "Het Bauhaus wordt in Weimar opgericht",
+          "pl": "Bauhaus zostaje założony w Weimarze",
+          "tr": "Bauhaus Weimar'da kuruldu",
+          "zh": "包豪斯在魏玛成立",
+          "ja": "バウハウスがワイマールで創設される",
+          "ko": "바우하우스가 바이마르에서 설립되다",
+          "hi": "वाइमर में बाउहाउस की स्थापना हुई",
+          "ar": "تأسيس باوهاوس في فايمار"
         },
         "description": {
           "ru": "1 апреля 1919 года в Веймаре был основан Баухаус. Школа объединила искусство, ремесло, дизайн и архитектуру и сильно повлияла на современный визуальный мир.",
           "de": "Am 1. April 1919 wurde in Weimar das Bauhaus gegruendet. Die Schule verband Kunst, Handwerk, Design und Architektur und praegte die moderne visuelle Welt stark.",
-          "en": "On 1 April 1919, the Bauhaus was founded in Weimar. The school united art, craft, design and architecture and strongly influenced the modern visual world."
+          "en": "On 1 April 1919, the Bauhaus was founded in Weimar. The school united art, craft, design and architecture and strongly influenced the modern visual world.",
+          "fr": "Le 1er avril 1919, le Bauhaus fut fondé à Weimar. L'école unit art, artisanat, design et architecture et influença fortement le monde visuel moderne.",
+          "es": "El 1 de abril de 1919 se fundó la Bauhaus en Weimar. La escuela unió arte, artesanía, diseño y arquitectura e influyó mucho en el mundo visual moderno.",
+          "it": "Il 1º aprile 1919 il Bauhaus fu fondato a Weimar. La scuola unì arte, artigianato, design e architettura e influenzò profondamente il mondo visivo moderno.",
+          "pt": "Em 1 de abril de 1919, a Bauhaus foi fundada em Weimar. A escola uniu arte, artesanato, design e arquitetura e influenciou fortemente o mundo visual moderno.",
+          "nl": "Op 1 april 1919 werd in Weimar het Bauhaus opgericht. De school verbond kunst, ambacht, design en architectuur en beïnvloedde de moderne visuele wereld sterk.",
+          "pl": "1 kwietnia 1919 roku w Weimarze założono Bauhaus. Szkoła połączyła sztukę, rzemiosło, design i architekturę oraz silnie wpłynęła na nowoczesny świat wizualny.",
+          "tr": "1 Nisan 1919'da Bauhaus Weimar'da kuruldu. Okul sanatı, zanaatı, tasarımı ve mimarlığı birleştirdi ve modern görsel dünyayı güçlü biçimde etkiledi.",
+          "zh": "1919年4月1日，包豪斯在魏玛成立。这所学校结合了艺术、手工艺、设计和建筑，并深刻影响了现代视觉世界。",
+          "ja": "1919年4月1日、バウハウスはワイマールで創設されました。この学校は芸術、工芸、デザイン、建築を結びつけ、現代の視覚文化に大きな影響を与えました。",
+          "ko": "1919년 4월 1일, 바우하우스가 바이마르에서 설립되었습니다. 이 학교는 예술, 공예, 디자인, 건축을 결합했고 현대 시각 세계에 큰 영향을 주었습니다.",
+          "hi": "1 अप्रैल 1919 को वाइमर में बाउहाउस की स्थापना हुई। इस स्कूल ने कला, शिल्प, डिज़ाइन और वास्तुकला को जोड़ा और आधुनिक दृश्य जगत को गहराई से प्रभावित किया।",
+          "ar": "في 1 أبريل 1919 تأسست باوهاوس في فايمار. جمعت المدرسة بين الفن والحرفة والتصميم والعمارة وأثرت بقوة في العالم البصري الحديث."
         },
         "importance": {
           "ru": "Баухаус сделал Германию одним из центров мирового модернизма.",
           "de": "Das Bauhaus machte Deutschland zu einem Zentrum der weltweiten Moderne.",
-          "en": "The Bauhaus made Germany one of the centers of global modernism."
+          "en": "The Bauhaus made Germany one of the centers of global modernism.",
+          "fr": "Le Bauhaus fit de l'Allemagne l'un des centres du modernisme mondial.",
+          "es": "La Bauhaus convirtió a Alemania en uno de los centros del modernismo mundial.",
+          "it": "Il Bauhaus fece della Germania uno dei centri del modernismo mondiale.",
+          "pt": "A Bauhaus fez da Alemanha um dos centros do modernismo mundial.",
+          "nl": "Het Bauhaus maakte Duitsland tot een van de centra van het wereldwijde modernisme.",
+          "pl": "Bauhaus uczynił Niemcy jednym z centrów światowego modernizmu.",
+          "tr": "Bauhaus, Almanya'yı dünya modernizminin merkezlerinden biri haline getirdi.",
+          "zh": "包豪斯使德国成为世界现代主义的中心之一。",
+          "ja": "バウハウスはドイツを世界的モダニズムの中心の一つにしました。",
+          "ko": "바우하우스는 독일을 세계 모더니즘의 중심지 중 하나로 만들었습니다.",
+          "hi": "बाउहाउस ने जर्मनी को वैश्विक आधुनिकतावाद के केंद्रों में से एक बना दिया।",
+          "ar": "جعلت باوهاوس ألمانيا أحد مراكز الحداثة العالمية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Бисмарка часто называют «железным канцлером», хотя этот образ упрощает его сложную политическую роль.",
     "de": "Bismarck wird oft Eiserner Kanzler genannt, obwohl dieses Bild seine komplexe politische Rolle vereinfacht.",
-    "en": "Bismarck is often called the Iron Chancellor, although the image simplifies his complex political role."
+    "en": "Bismarck is often called the Iron Chancellor, although the image simplifies his complex political role.",
+    "fr": "Bismarck est souvent appelé le « chancelier de fer », bien que cette image simplifie son rôle politique complexe.",
+    "es": "A Bismarck se le llama a menudo el «canciller de hierro», aunque esa imagen simplifica su complejo papel político.",
+    "it": "Bismarck è spesso chiamato il «cancelliere di ferro», anche se questa immagine semplifica il suo complesso ruolo politico.",
+    "pt": "Bismarck é frequentemente chamado de «chanceler de ferro», embora essa imagem simplifique o seu complexo papel político.",
+    "nl": "Bismarck wordt vaak de IJzeren Kanselier genoemd, hoewel dit beeld zijn complexe politieke rol vereenvoudigt.",
+    "pl": "Bismarcka często nazywa się «żelaznym kanclerzem», choć ten obraz upraszcza jego złożoną rolę polityczną.",
+    "tr": "Bismarck sık sık 'Demir Şansölye' olarak anılır, ancak bu imaj onun karmaşık siyasi rolünü basitleştirir.",
+    "zh": "俾斯麦常被称为“铁血宰相”，尽管这一形象简化了他复杂的政治角色。",
+    "ja": "ビスマルクはしばしば「鉄血宰相」と呼ばれますが、このイメージは彼の複雑な政治的役割を単純化しています。",
+    "ko": "비스마르크는 흔히 '철혈 재상'으로 불리지만, 이 이미지는 그의 복잡한 정치적 역할을 단순화합니다.",
+    "hi": "बिस्मार्क को अक्सर 'लौह चांसलर' कहा जाता है, हालांकि यह छवि उनकी जटिल राजनीतिक भूमिका को सरल बना देती है।",
+    "ar": "غالبا ما يُسمى بسمارك «المستشار الحديدي»، مع أن هذه الصورة تبسط دوره السياسي المعقد."
   },
   "sources": [
     {
