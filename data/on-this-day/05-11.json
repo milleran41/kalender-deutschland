@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился барон Мюнхгаузен",
       "de": "Baron Muenchhausen wird geboren",
-      "en": "Baron Munchausen is born"
+      "en": "Baron Munchausen is born",
+      "fr": "Le baron de Münchhausen naît",
+      "es": "Nace el barón de Münchhausen",
+      "it": "Nasce il barone di Münchhausen",
+      "pt": "Nasce o barão de Münchhausen",
+      "nl": "Baron Münchhausen wordt geboren",
+      "pl": "Rodzi się baron Münchhausen",
+      "tr": "Baron Münchhausen doğdu",
+      "zh": "明希豪森男爵出生",
+      "ja": "ミュンヒハウゼン男爵が生まれる",
+      "ko": "뮌히하우젠 남작이 태어나다",
+      "hi": "बैरन म्युंचहाउज़न का जन्म हुआ",
+      "ar": "ولادة البارون مونشهاوزن"
     },
     "description": {
       "ru": "11 мая 1720 года в Боденвердере родился Иероним Карл Фридрих фон Мюнхгаузен. Реальный немецкий дворянин и офицер позже стал героем невероятных литературных историй.",
       "de": "Am 11. Mai 1720 wurde Hieronymus Carl Friedrich von Muenchhausen in Bodenwerder geboren. Der reale deutsche Adlige und Offizier wurde spaeter zur Figur unglaublicher literarischer Geschichten.",
-      "en": "On 11 May 1720, Hieronymus Carl Friedrich von Muenchhausen was born in Bodenwerder. The real German nobleman and officer later became the hero of incredible literary tales."
+      "en": "On 11 May 1720, Hieronymus Carl Friedrich von Muenchhausen was born in Bodenwerder. The real German nobleman and officer later became the hero of incredible literary tales.",
+      "fr": "Le 11 mai 1720, Hieronymus Carl Friedrich von Münchhausen naquit à Bodenwerder. Ce véritable noble et officier allemand devint plus tard le héros d'incroyables récits littéraires.",
+      "es": "El 11 de mayo de 1720 nació Hieronymus Carl Friedrich von Münchhausen en Bodenwerder. El verdadero noble y oficial alemán se convirtió más tarde en héroe de increíbles relatos literarios.",
+      "it": "L'11 maggio 1720 Hieronymus Carl Friedrich von Münchhausen nacque a Bodenwerder. Il vero nobile e ufficiale tedesco divenne poi l'eroe di incredibili racconti letterari.",
+      "pt": "Em 11 de maio de 1720 nasceu Hieronymus Carl Friedrich von Münchhausen em Bodenwerder. O verdadeiro nobre e oficial alemão tornou-se depois herói de incríveis histórias literárias.",
+      "nl": "Op 11 mei 1720 werd Hieronymus Carl Friedrich von Münchhausen geboren in Bodenwerder. De echte Duitse edelman en officier werd later de held van ongelooflijke literaire verhalen.",
+      "pl": "11 maja 1720 roku w Bodenwerder urodził się Hieronymus Carl Friedrich von Münchhausen. Prawdziwy niemiecki szlachcic i oficer stał się później bohaterem niewiarygodnych opowieści literackich.",
+      "tr": "11 Mayıs 1720'de Hieronymus Carl Friedrich von Münchhausen Bodenwerder'de doğdu. Gerçek Alman soylusu ve subayı daha sonra inanılmaz edebi hikayelerin kahramanı oldu.",
+      "zh": "1720年5月11日，希罗尼穆斯·卡尔·弗里德里希·冯·明希豪森出生于博登韦尔德。这位真实的德国贵族和军官后来成为不可思议文学故事的主人公。",
+      "ja": "1720年5月11日、ヒエロニムス・カール・フリードリヒ・フォン・ミュンヒハウゼンはボーデンヴェルダーで生まれました。実在したドイツ貴族で軍人の彼は、後に信じがたい文学物語の主人公となりました。",
+      "ko": "1720년 5월 11일, 히에로니무스 카를 프리드리히 폰 뮌히하우젠이 보덴베르더에서 태어났습니다. 실제 독일 귀족이자 장교였던 그는 훗날 믿기 어려운 문학 이야기의 주인공이 되었습니다.",
+      "hi": "11 मई 1720 को हिएरोनिमस कार्ल फ़्रीडरिख फॉन म्युंचहाउज़न का जन्म बोडेनवेर्डर में हुआ। वास्तविक जर्मन कुलीन और अधिकारी बाद में अविश्वसनीय साहित्यिक कथाओं के नायक बने।",
+      "ar": "في 11 مايو 1720 وُلد هيرونيموس كارل فريدريش فون مونشهاوزن في بودنفيردر. وأصبح النبيل والضابط الألماني الحقيقي لاحقا بطلا لحكايات أدبية لا تُصدق."
     },
     "importance": {
       "ru": "Мюнхгаузен показывает, как реальная биография может превратиться в фольклор, сатиру и мировую литературу.",
       "de": "Muenchhausen zeigt, wie aus einer realen Biografie Folklore, Satire und Weltliteratur werden koennen.",
-      "en": "Munchausen shows how a real biography can turn into folklore, satire and world literature."
+      "en": "Munchausen shows how a real biography can turn into folklore, satire and world literature.",
+      "fr": "Münchhausen montre comment une biographie réelle peut devenir folklore, satire et littérature mondiale.",
+      "es": "Münchhausen muestra cómo una biografía real puede convertirse en folclore, sátira y literatura mundial.",
+      "it": "Münchhausen mostra come una biografia reale possa trasformarsi in folclore, satira e letteratura mondiale.",
+      "pt": "Münchhausen mostra como uma biografia real pode transformar-se em folclore, sátira e literatura mundial.",
+      "nl": "Münchhausen laat zien hoe een echte biografie kan veranderen in folklore, satire en wereldliteratuur.",
+      "pl": "Münchhausen pokazuje, jak prawdziwa biografia może zmienić się w folklor, satyrę i literaturę światową.",
+      "tr": "Münchhausen, gerçek bir biyografinin folklora, hicve ve dünya edebiyatına nasıl dönüşebileceğini gösterir.",
+      "zh": "明希豪森展示了真实传记如何变成民间传说、讽刺和世界文学。",
+      "ja": "ミュンヒハウゼンは、実在の人物の伝記が民間伝承、風刺、世界文学へと変わり得ることを示しています。",
+      "ko": "뮌히하우젠은 실제 전기가 어떻게 민속, 풍자, 세계 문학으로 바뀔 수 있는지를 보여 줍니다.",
+      "hi": "म्युंचहाउज़न दिखाते हैं कि वास्तविक जीवनी लोककथा, व्यंग्य और विश्व साहित्य में कैसे बदल सकती है।",
+      "ar": "يُظهر مونشهاوزن كيف يمكن لسيرة حقيقية أن تتحول إلى فولكلور وسخرية وأدب عالمي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Литературный герой невероятных рассказов",
           "de": "Literarischer Held unglaublicher Geschichten",
-          "en": "Literary hero of unbelievable tales"
+          "en": "Literary hero of unbelievable tales",
+          "fr": "Héros littéraire d'histoires incroyables",
+          "es": "Héroe literario de relatos increíbles",
+          "it": "Eroe letterario di storie incredibili",
+          "pt": "Herói literário de histórias incríveis",
+          "nl": "Literaire held van ongelooflijke verhalen",
+          "pl": "Literacki bohater niewiarygodnych historii",
+          "tr": "İnanılmaz hikayelerin edebi kahramanı",
+          "zh": "不可思议故事中的文学英雄",
+          "ja": "信じがたい物語の文学的英雄",
+          "ko": "믿기 어려운 이야기의 문학적 영웅",
+          "hi": "अविश्वसनीय कहानियों का साहित्यिक नायक",
+          "ar": "بطل أدبي لحكايات لا تُصدق"
         },
         "description": {
           "ru": "Истории о Мюнхгаузене стали популярными благодаря книгам Рудольфа Эриха Распе и Готфрида Августа Бюргера. В них барон летает на ядре, выбирается из болота за волосы и рассказывает невозможное с серьёзным видом.",
           "de": "Die Muenchhausen-Geschichten wurden durch Buecher von Rudolf Erich Raspe und Gottfried August Buerger beruehmt. Darin fliegt der Baron auf einer Kanonenkugel, zieht sich am eigenen Haar aus dem Sumpf und erzaehlt Unmoegliches mit ernster Miene.",
-          "en": "The Munchausen stories became famous through books by Rudolf Erich Raspe and Gottfried August Buerger. In them, the baron rides a cannonball, pulls himself from a swamp by his own hair and tells impossible stories with a serious face."
+          "en": "The Munchausen stories became famous through books by Rudolf Erich Raspe and Gottfried August Buerger. In them, the baron rides a cannonball, pulls himself from a swamp by his own hair and tells impossible stories with a serious face.",
+          "fr": "Les histoires de Münchhausen devinrent célèbres grâce aux livres de Rudolf Erich Raspe et Gottfried August Bürger. Le baron y vole sur un boulet de canon, se tire d'un marais par ses propres cheveux et raconte l'impossible avec un air sérieux.",
+          "es": "Las historias de Münchhausen se hicieron famosas gracias a los libros de Rudolf Erich Raspe y Gottfried August Bürger. En ellas, el barón vuela sobre una bala de cañón, sale de un pantano tirándose del pelo y cuenta historias imposibles con gesto serio.",
+          "it": "Le storie di Münchhausen divennero famose grazie ai libri di Rudolf Erich Raspe e Gottfried August Bürger. In esse il barone vola su una palla di cannone, si tira fuori da una palude per i capelli e racconta l'impossibile con volto serio.",
+          "pt": "As histórias de Münchhausen ficaram famosas graças aos livros de Rudolf Erich Raspe e Gottfried August Bürger. Nelas, o barão voa numa bala de canhão, tira-se de um pântano pelos próprios cabelos e conta histórias impossíveis com ar sério.",
+          "nl": "De Münchhausen-verhalen werden beroemd door boeken van Rudolf Erich Raspe en Gottfried August Bürger. Daarin rijdt de baron op een kanonskogel, trekt hij zichzelf aan zijn eigen haar uit een moeras en vertelt hij onmogelijke verhalen met een serieus gezicht.",
+          "pl": "Historie o Münchhausenie stały się sławne dzięki książkom Rudolfa Ericha Raspego i Gottfrieda Augusta Bürgera. Baron lata w nich na kuli armatniej, wyciąga się z bagna za własne włosy i opowiada niemożliwe rzeczy z poważną miną.",
+          "tr": "Münchhausen hikayeleri Rudolf Erich Raspe ve Gottfried August Bürger'in kitaplarıyla ünlendi. Bu hikayelerde baron top güllesine biner, kendini saçlarından çekerek bataklıktan çıkarır ve imkânsız şeyleri ciddi bir yüzle anlatır.",
+          "zh": "明希豪森故事因鲁道夫·埃里希·拉斯佩和戈特弗里德·奥古斯特·毕尔格的书而闻名。在这些故事中，男爵骑着炮弹飞行，抓着自己的头发从沼泽中把自己拉出来，并一本正经地讲述不可能的事情。",
+          "ja": "ミュンヒハウゼンの物語は、ルドルフ・エーリヒ・ラスペとゴットフリート・アウグスト・ビュルガーの本によって有名になりました。そこでは男爵が砲弾に乗って飛び、自分の髪をつかんで沼から抜け出し、不可能な話を真面目な顔で語ります。",
+          "ko": "뮌히하우젠 이야기는 루돌프 에리히 라스페와 고트프리트 아우구스트 뷔르거의 책을 통해 유명해졌습니다. 그 속에서 남작은 포탄을 타고 날고, 자기 머리카락을 잡아 늪에서 빠져나오며, 불가능한 이야기를 진지한 얼굴로 들려줍니다.",
+          "hi": "म्युंचहाउज़न की कहानियाँ रूडोल्फ एरिख रास्पे और गॉटफ्रीड ऑगस्ट ब्युर्गर की किताबों से प्रसिद्ध हुईं। उनमें बैरन तोप के गोले पर उड़ता है, अपने बाल पकड़कर दलदल से खुद को निकालता है और असंभव बातें गंभीर चेहरे से बताता है।",
+          "ar": "اشتهرت حكايات مونشهاوزن بفضل كتب رودولف إريش راسبه وغوتفريد أوغست بورغر. ففيها يطير البارون على قذيفة مدفع، ويسحب نفسه من المستنقع من شعره، ويروي المستحيل بوجه جاد."
         },
         "importance": {
           "ru": "Это одна из самых узнаваемых немецких фигур юмористической литературы.",
           "de": "Er ist eine der bekanntesten deutschen Figuren der humoristischen Literatur.",
-          "en": "He is one of the best-known German figures in comic literature."
+          "en": "He is one of the best-known German figures in comic literature.",
+          "fr": "Il est l'une des figures allemandes les plus connues de la littérature humoristique.",
+          "es": "Es una de las figuras alemanas más conocidas de la literatura humorística.",
+          "it": "È una delle figure tedesche più note della letteratura umoristica.",
+          "pt": "É uma das figuras alemãs mais conhecidas da literatura humorística.",
+          "nl": "Hij is een van de bekendste Duitse figuren in de humoristische literatuur.",
+          "pl": "To jedna z najbardziej znanych niemieckich postaci literatury humorystycznej.",
+          "tr": "O, mizah edebiyatındaki en bilinen Alman figürlerinden biridir.",
+          "zh": "他是幽默文学中最知名的德国人物之一。",
+          "ja": "彼はユーモア文学で最もよく知られたドイツの人物の一人です。",
+          "ko": "그는 해학 문학에서 가장 잘 알려진 독일 인물 중 하나입니다.",
+          "hi": "वे हास्य साहित्य की सबसे प्रसिद्ध जर्मन हस्तियों में से एक हैं।",
+          "ar": "إنه أحد أشهر الشخصيات الألمانية في الأدب الفكاهي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Город Мюнхгаузена",
           "de": "Die Muenchhausenstadt",
-          "en": "The Munchausen town"
+          "en": "The Munchausen town",
+          "fr": "La ville de Münchhausen",
+          "es": "La ciudad de Münchhausen",
+          "it": "La città di Münchhausen",
+          "pt": "A cidade de Münchhausen",
+          "nl": "De Münchhausenstad",
+          "pl": "Miasto Münchhausena",
+          "tr": "Münchhausen şehri",
+          "zh": "明希豪森之城",
+          "ja": "ミュンヒハウゼンの町",
+          "ko": "뮌히하우젠의 도시",
+          "hi": "म्युंचहाउज़न का शहर",
+          "ar": "مدينة مونشهاوزن"
         },
         "description": {
           "ru": "Боденвердер в Нижней Саксонии до сих пор связывает себя с именем Мюнхгаузена. Для небольшого города литературная легенда стала частью местной идентичности.",
           "de": "Bodenwerder in Niedersachsen verbindet sich bis heute mit dem Namen Muenchhausen. Fuer die kleine Stadt wurde die literarische Legende Teil der lokalen Identitaet.",
-          "en": "Bodenwerder in Lower Saxony is still closely linked with Munchausen's name. For the small town, the literary legend became part of local identity."
+          "en": "Bodenwerder in Lower Saxony is still closely linked with Munchausen's name. For the small town, the literary legend became part of local identity.",
+          "fr": "Bodenwerder en Basse-Saxe reste aujourd'hui étroitement liée au nom de Münchhausen. Pour cette petite ville, la légende littéraire est devenue une partie de l'identité locale.",
+          "es": "Bodenwerder, en Baja Sajonia, sigue estando estrechamente vinculada al nombre de Münchhausen. Para la pequeña ciudad, la leyenda literaria se convirtió en parte de la identidad local.",
+          "it": "Bodenwerder in Bassa Sassonia è ancora oggi strettamente legata al nome di Münchhausen. Per la piccola città, la leggenda letteraria è diventata parte dell'identità locale.",
+          "pt": "Bodenwerder, na Baixa Saxónia, continua intimamente ligada ao nome de Münchhausen. Para a pequena cidade, a lenda literária tornou-se parte da identidade local.",
+          "nl": "Bodenwerder in Nedersaksen is nog altijd nauw verbonden met de naam Münchhausen. Voor de kleine stad werd de literaire legende deel van de lokale identiteit.",
+          "pl": "Bodenwerder w Dolnej Saksonii do dziś jest ściśle związane z nazwiskiem Münchhausena. Dla małego miasta legenda literacka stała się częścią lokalnej tożsamości.",
+          "tr": "Aşağı Saksonya'daki Bodenwerder hâlâ Münchhausen adıyla yakından bağlantılıdır. Küçük şehir için edebi efsane yerel kimliğin parçası oldu.",
+          "zh": "下萨克森的博登韦尔德至今仍与明希豪森的名字紧密相连。对这座小城来说，文学传说成为地方身份的一部分。",
+          "ja": "ニーダーザクセン州のボーデンヴェルダーは、今でもミュンヒハウゼンの名と深く結びついています。この小さな町にとって、文学的伝説は地域のアイデンティティの一部となりました。",
+          "ko": "니더작센의 보덴베르더는 지금도 뮌히하우젠의 이름과 깊이 연결되어 있습니다. 이 작은 도시에게 문학적 전설은 지역 정체성의 일부가 되었습니다.",
+          "hi": "लोअर सैक्सोनी का बोडेनवेर्डर आज भी म्युंचहाउज़न के नाम से गहराई से जुड़ा है। छोटे शहर के लिए साहित्यिक किंवदंती स्थानीय पहचान का हिस्सा बन गई।",
+          "ar": "لا تزال بودنفيردر في ساكسونيا السفلى مرتبطة ارتباطا وثيقا باسم مونشهاوزن. وبالنسبة إلى المدينة الصغيرة أصبحت الأسطورة الأدبية جزءا من الهوية المحلية."
         },
         "importance": {
           "ru": "Иногда одна смешная история делает город известным на века.",
           "de": "Manchmal macht eine komische Geschichte eine Stadt ueber Jahrhunderte bekannt.",
-          "en": "Sometimes one comic story makes a town famous for centuries."
+          "en": "Sometimes one comic story makes a town famous for centuries.",
+          "fr": "Parfois, une seule histoire comique rend une ville célèbre pendant des siècles.",
+          "es": "A veces una sola historia cómica hace famosa a una ciudad durante siglos.",
+          "it": "A volte una sola storia comica rende famosa una città per secoli.",
+          "pt": "Às vezes, uma única história cómica torna uma cidade famosa durante séculos.",
+          "nl": "Soms maakt één komisch verhaal een stad eeuwenlang beroemd.",
+          "pl": "Czasem jedna zabawna historia rozsławia miasto na stulecia.",
+          "tr": "Bazen tek bir komik hikaye bir şehri yüzyıllar boyunca ünlü yapar.",
+          "zh": "有时，一个滑稽故事能让一座城市闻名数百年。",
+          "ja": "時には、一つの滑稽な物語が町を何世紀にもわたって有名にします。",
+          "ko": "때로는 하나의 우스운 이야기가 한 도시를 수 세기 동안 유명하게 만듭니다.",
+          "hi": "कभी-कभी एक हास्य कहानी किसी शहर को सदियों तक प्रसिद्ध बना देती है।",
+          "ar": "أحيانا تجعل قصة هزلية واحدة مدينة مشهورة لقرون."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В русском языке имя Мюнхгаузена тоже стало нарицательным: так называют человека, рассказывающего невероятные истории.",
     "de": "Auch in anderen Sprachen wurde Muenchhausen sprichwoertlich: Der Name steht fuer jemanden, der unglaubliche Geschichten erzaehlt.",
-    "en": "Munchausen's name became proverbial in several languages, meaning someone who tells unbelievable stories."
+    "en": "Munchausen's name became proverbial in several languages, meaning someone who tells unbelievable stories.",
+    "fr": "Le nom de Münchhausen est devenu proverbial dans plusieurs langues et désigne quelqu'un qui raconte des histoires incroyables.",
+    "es": "El nombre de Münchhausen se volvió proverbial en varias lenguas y designa a alguien que cuenta historias increíbles.",
+    "it": "Il nome di Münchhausen è diventato proverbiale in diverse lingue e indica qualcuno che racconta storie incredibili.",
+    "pt": "O nome de Münchhausen tornou-se proverbial em várias línguas, significando alguém que conta histórias incríveis.",
+    "nl": "De naam Münchhausen werd in verschillende talen spreekwoordelijk voor iemand die ongelooflijke verhalen vertelt.",
+    "pl": "Nazwisko Münchhausena stało się przysłowiowe w kilku językach i oznacza kogoś, kto opowiada niewiarygodne historie.",
+    "tr": "Münchhausen adı birçok dilde inanılmaz hikayeler anlatan kişi anlamında deyimleşti.",
+    "zh": "明希豪森的名字在多种语言中成为俗语，指讲述不可思议故事的人。",
+    "ja": "ミュンヒハウゼンの名は複数の言語で、信じがたい話をする人を意味する言葉となりました。",
+    "ko": "뮌히하우젠의 이름은 여러 언어에서 믿기 어려운 이야기를 하는 사람을 뜻하는 말이 되었습니다.",
+    "hi": "म्युंचहाउज़न का नाम कई भाषाओं में अविश्वसनीय कहानियाँ सुनाने वाले व्यक्ति के अर्थ में कहावत बन गया।",
+    "ar": "أصبح اسم مونشهاوزن مثلا في عدة لغات، ويعني شخصا يروي قصصا لا تُصدق."
   },
   "sources": [
     {

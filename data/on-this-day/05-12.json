@@ -11,17 +11,53 @@
     "title": {
       "ru": "Конрад Цузе представил компьютер Z3",
       "de": "Konrad Zuse praesentiert den Z3",
-      "en": "Konrad Zuse presents the Z3 computer"
+      "en": "Konrad Zuse presents the Z3 computer",
+      "fr": "Konrad Zuse présente l'ordinateur Z3",
+      "es": "Konrad Zuse presenta el ordenador Z3",
+      "it": "Konrad Zuse presenta il computer Z3",
+      "pt": "Konrad Zuse apresenta o computador Z3",
+      "nl": "Konrad Zuse presenteert de Z3-computer",
+      "pl": "Konrad Zuse prezentuje komputer Z3",
+      "tr": "Konrad Zuse Z3 bilgisayarını sundu",
+      "zh": "康拉德·楚泽展示Z3计算机",
+      "ja": "コンラート・ツーゼがZ3コンピューターを発表する",
+      "ko": "콘라트 추제가 Z3 컴퓨터를 발표하다",
+      "hi": "कोनराड त्सूज़े ने Z3 कंप्यूटर प्रस्तुत किया",
+      "ar": "كونراد تسوزه يعرض الحاسوب Z3"
     },
     "description": {
       "ru": "12 мая 1941 года немецкий инженер Конрад Цузе представил Z3 в Берлине. Машину часто называют первым работающим программируемым автоматическим цифровым компьютером.",
       "de": "Am 12. Mai 1941 praesentierte der deutsche Ingenieur Konrad Zuse den Z3 in Berlin. Die Maschine gilt oft als erster funktionsfaehiger programmierbarer automatischer Digitalcomputer.",
-      "en": "On 12 May 1941, German engineer Konrad Zuse presented the Z3 in Berlin. The machine is often described as the first working programmable automatic digital computer."
+      "en": "On 12 May 1941, German engineer Konrad Zuse presented the Z3 in Berlin. The machine is often described as the first working programmable automatic digital computer.",
+      "fr": "Le 12 mai 1941, l'ingénieur allemand Konrad Zuse présenta le Z3 à Berlin. La machine est souvent décrite comme le premier ordinateur numérique automatique programmable fonctionnel.",
+      "es": "El 12 de mayo de 1941, el ingeniero alemán Konrad Zuse presentó el Z3 en Berlín. La máquina suele describirse como el primer ordenador digital automático programable en funcionamiento.",
+      "it": "Il 12 maggio 1941 l'ingegnere tedesco Konrad Zuse presentò lo Z3 a Berlino. La macchina è spesso descritta come il primo computer digitale automatico programmabile funzionante.",
+      "pt": "Em 12 de maio de 1941, o engenheiro alemão Konrad Zuse apresentou o Z3 em Berlim. A máquina é frequentemente descrita como o primeiro computador digital automático programável funcional.",
+      "nl": "Op 12 mei 1941 presenteerde de Duitse ingenieur Konrad Zuse de Z3 in Berlijn. De machine wordt vaak omschreven als de eerste werkende programmeerbare automatische digitale computer.",
+      "pl": "12 maja 1941 roku niemiecki inżynier Konrad Zuse zaprezentował Z3 w Berlinie. Maszyna jest często opisywana jako pierwszy działający programowalny automatyczny komputer cyfrowy.",
+      "tr": "12 Mayıs 1941'de Alman mühendis Konrad Zuse Z3'ü Berlin'de tanıttı. Makine çoğu zaman çalışan ilk programlanabilir otomatik dijital bilgisayar olarak tanımlanır.",
+      "zh": "1941年5月12日，德国工程师康拉德·楚泽在柏林展示了Z3。这台机器常被称为第一台可工作的可编程自动数字计算机。",
+      "ja": "1941年5月12日、ドイツの技術者コンラート・ツーゼはベルリンでZ3を発表しました。この機械は、最初に動作したプログラム可能な自動デジタルコンピューターとよく説明されます。",
+      "ko": "1941년 5월 12일, 독일 엔지니어 콘라트 추제가 베를린에서 Z3를 발표했습니다. 이 기계는 작동하는 최초의 프로그램 가능한 자동 디지털 컴퓨터로 자주 설명됩니다.",
+      "hi": "12 मई 1941 को जर्मन इंजीनियर कोनराड त्सूज़े ने बर्लिन में Z3 प्रस्तुत किया। इस मशीन को अक्सर पहला काम करने वाला प्रोग्रामयोग्य स्वचालित डिजिटल कंप्यूटर कहा जाता है।",
+      "ar": "في 12 مايو 1941 عرض المهندس الألماني كونراد تسوزه الحاسوب Z3 في برلين. وغالبا ما توصف الآلة بأنها أول حاسوب رقمي آلي قابل للبرمجة يعمل فعليا."
     },
     "importance": {
       "ru": "Дата показывает, что немецкая инженерная история важна не только для автомобилей и химии, но и для компьютерной техники.",
       "de": "Das Datum zeigt, dass deutsche Technikgeschichte nicht nur Autos und Chemie, sondern auch Computer umfasst.",
-      "en": "The date shows that German engineering history includes computers, not only cars and chemistry."
+      "en": "The date shows that German engineering history includes computers, not only cars and chemistry.",
+      "fr": "Cette date montre que l'histoire technique allemande comprend aussi les ordinateurs, et pas seulement les voitures et la chimie.",
+      "es": "La fecha muestra que la historia de la ingeniería alemana incluye ordenadores, no solo coches y química.",
+      "it": "La data mostra che la storia dell'ingegneria tedesca comprende anche i computer, non solo automobili e chimica.",
+      "pt": "A data mostra que a história da engenharia alemã inclui computadores, não apenas carros e química.",
+      "nl": "Deze datum laat zien dat de Duitse techniekgeschiedenis ook computers omvat, niet alleen auto's en chemie.",
+      "pl": "Ta data pokazuje, że niemiecka historia techniki obejmuje komputery, a nie tylko samochody i chemię.",
+      "tr": "Bu tarih, Alman mühendislik tarihinin yalnızca otomobiller ve kimyadan değil, bilgisayarlardan da oluştuğunu gösterir.",
+      "zh": "这个日期显示，德国工程史不仅包括汽车和化学，也包括计算机。",
+      "ja": "この日付は、ドイツの工学史が自動車や化学だけでなく、コンピューターも含むことを示しています。",
+      "ko": "이 날짜는 독일 공학사가 자동차와 화학뿐 아니라 컴퓨터도 포함한다는 것을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि जर्मन इंजीनियरिंग इतिहास में केवल कारें और रसायन नहीं, कंप्यूटर भी शामिल हैं।",
+      "ar": "يبين هذا التاريخ أن تاريخ الهندسة الألمانية يشمل الحواسيب أيضا، لا السيارات والكيمياء فقط."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Оригинал погиб, но копия сохранила память",
           "de": "Das Original ging verloren, eine Rekonstruktion blieb",
-          "en": "The original was lost, but a replica preserved the memory"
+          "en": "The original was lost, but a replica preserved the memory",
+          "fr": "L'original a disparu, mais une réplique a préservé la mémoire",
+          "es": "El original se perdió, pero una réplica conservó la memoria",
+          "it": "L'originale andò perduto, ma una replica conservò la memoria",
+          "pt": "O original perdeu-se, mas uma réplica preservou a memória",
+          "nl": "Het origineel ging verloren, maar een replica bewaarde de herinnering",
+          "pl": "Oryginał zaginął, ale replika zachowała pamięć",
+          "tr": "Orijinal kayboldu, ama bir kopya hafızayı korudu",
+          "zh": "原件已失，复制品保留了记忆",
+          "ja": "オリジナルは失われたが、複製が記憶を残した",
+          "ko": "원본은 사라졌지만 복제품이 기억을 보존했다",
+          "hi": "मूल मशीन खो गई, पर प्रतिकृति ने स्मृति बचाई",
+          "ar": "ضاع الأصل، لكن نسخة أعادت حفظ الذاكرة"
         },
         "description": {
           "ru": "Оригинальный Z3 был уничтожен во время войны. Позже была создана действующая реконструкция, которую связывают с экспозициями о ранних компьютерах.",
           "de": "Der originale Z3 wurde im Krieg zerstört. Spaeter entstand eine funktionsfaehige Rekonstruktion, die mit Ausstellungen zur fruehen Computergeschichte verbunden ist.",
-          "en": "The original Z3 was destroyed during the war. A working reconstruction was later built and became part of exhibitions on early computing."
+          "en": "The original Z3 was destroyed during the war. A working reconstruction was later built and became part of exhibitions on early computing.",
+          "fr": "Le Z3 original fut détruit pendant la guerre. Une reconstruction fonctionnelle fut construite plus tard et devint partie d'expositions sur les débuts de l'informatique.",
+          "es": "El Z3 original fue destruido durante la guerra. Más tarde se construyó una reconstrucción funcional que pasó a formar parte de exposiciones sobre la informática temprana.",
+          "it": "Lo Z3 originale fu distrutto durante la guerra. In seguito fu costruita una ricostruzione funzionante, entrata in esposizioni sulla prima storia dell'informatica.",
+          "pt": "O Z3 original foi destruído durante a guerra. Mais tarde foi construída uma reconstrução funcional, que passou a integrar exposições sobre os primeiros computadores.",
+          "nl": "De originele Z3 werd tijdens de oorlog vernietigd. Later werd een werkende reconstructie gebouwd, die deel werd van tentoonstellingen over vroege computergeschiedenis.",
+          "pl": "Oryginalny Z3 został zniszczony podczas wojny. Później zbudowano działającą rekonstrukcję, która stała się częścią wystaw o wczesnej historii komputerów.",
+          "tr": "Orijinal Z3 savaş sırasında yok edildi. Daha sonra çalışan bir yeniden yapım inşa edildi ve erken bilgisayar tarihi sergilerinin parçası oldu.",
+          "zh": "原始Z3在战争中被毁。后来人们建造了一台可工作的重建机，并将其用于早期计算机展览。",
+          "ja": "オリジナルのZ3は戦争中に破壊されました。後に動作する復元機が作られ、初期コンピューターに関する展示の一部となりました。",
+          "ko": "원래의 Z3는 전쟁 중 파괴되었습니다. 나중에 작동하는 복원품이 만들어져 초기 컴퓨터 역사 전시의 일부가 되었습니다.",
+          "hi": "मूल Z3 युद्ध के दौरान नष्ट हो गया था। बाद में काम करने वाली पुनर्निर्मित मशीन बनाई गई, जो शुरुआती कंप्यूटरों की प्रदर्शनी का हिस्सा बनी।",
+          "ar": "دُمر الحاسوب Z3 الأصلي أثناء الحرب. وبُنيت لاحقا إعادة تركيب تعمل، وأصبحت جزءا من معارض عن بدايات الحوسبة."
         },
         "importance": {
           "ru": "Иногда историю техники приходится изучать по восстановленным машинам, чертежам и воспоминаниям.",
           "de": "Manchmal muss Technikgeschichte anhand rekonstruierter Maschinen, Plaene und Erinnerungen erforscht werden.",
-          "en": "Sometimes the history of technology has to be studied through reconstructed machines, plans and memories."
+          "en": "Sometimes the history of technology has to be studied through reconstructed machines, plans and memories.",
+          "fr": "Parfois, l'histoire de la technique doit être étudiée à partir de machines reconstruites, de plans et de souvenirs.",
+          "es": "A veces la historia de la tecnología debe estudiarse mediante máquinas reconstruidas, planos y recuerdos.",
+          "it": "A volte la storia della tecnologia deve essere studiata attraverso macchine ricostruite, progetti e ricordi.",
+          "pt": "Às vezes, a história da tecnologia tem de ser estudada através de máquinas reconstruídas, planos e memórias.",
+          "nl": "Soms moet de geschiedenis van techniek worden bestudeerd via gereconstrueerde machines, plannen en herinneringen.",
+          "pl": "Czasem historię techniki trzeba badać poprzez zrekonstruowane maszyny, plany i wspomnienia.",
+          "tr": "Bazen teknoloji tarihi yeniden yapılmış makineler, planlar ve anılar üzerinden incelenmek zorundadır.",
+          "zh": "有时，技术史必须通过重建机器、图纸和记忆来研究。",
+          "ja": "時には、技術の歴史は復元された機械、設計図、記憶を通じて研究されなければなりません。",
+          "ko": "때로는 기술의 역사를 복원된 기계, 설계도, 기억을 통해 연구해야 합니다.",
+          "hi": "कभी-कभी तकनीक के इतिहास को पुनर्निर्मित मशीनों, योजनाओं और यादों के माध्यम से पढ़ना पड़ता है।",
+          "ar": "أحيانا يجب دراسة تاريخ التقنية عبر آلات أُعيد بناؤها ومخططات وذكريات."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Z3 работал не на микросхемах, а на электромеханических реле.",
     "de": "Der Z3 arbeitete nicht mit Mikrochips, sondern mit elektromechanischen Relais.",
-    "en": "The Z3 did not use microchips; it worked with electromechanical relays."
+    "en": "The Z3 did not use microchips; it worked with electromechanical relays.",
+    "fr": "Le Z3 n'utilisait pas de puces électroniques; il fonctionnait avec des relais électromécaniques.",
+    "es": "El Z3 no usaba microchips; funcionaba con relés electromecánicos.",
+    "it": "Lo Z3 non usava microchip; funzionava con relè elettromeccanici.",
+    "pt": "O Z3 não usava microchips; funcionava com relés eletromecânicos.",
+    "nl": "De Z3 gebruikte geen microchips; hij werkte met elektromechanische relais.",
+    "pl": "Z3 nie używał mikrochipów; działał na przekaźnikach elektromechanicznych.",
+    "tr": "Z3 mikroçip kullanmıyordu; elektromekanik rölelerle çalışıyordu.",
+    "zh": "Z3并不使用微芯片，而是依靠机电继电器工作。",
+    "ja": "Z3はマイクロチップを使わず、電気機械式リレーで動作していました。",
+    "ko": "Z3는 마이크로칩을 사용하지 않았고 전기기계식 릴레이로 작동했습니다.",
+    "hi": "Z3 माइक्रोचिपों पर नहीं, बल्कि विद्युत-यांत्रिक रिले पर चलता था।",
+    "ar": "لم يستخدم Z3 رقائق إلكترونية؛ بل عمل بمرحلات كهروميكانيكية."
   },
   "sources": [
     {

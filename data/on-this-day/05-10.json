@@ -11,17 +11,53 @@
     "title": {
       "ru": "Нацистские сожжения книг",
       "de": "Nationalsozialistische Buecherverbrennungen",
-      "en": "Nazi book burnings"
+      "en": "Nazi book burnings",
+      "fr": "Autodafés de livres nazis",
+      "es": "Quema de libros nazi",
+      "it": "Roghi di libri nazisti",
+      "pt": "Queimas de livros nazis",
+      "nl": "Nazi-boekverbrandingen",
+      "pl": "Nazistowskie palenie książek",
+      "tr": "Nazi kitap yakmaları",
+      "zh": "纳粹焚书",
+      "ja": "ナチスの焚書",
+      "ko": "나치의 분서",
+      "hi": "नाज़ी किताब जलाने की घटनाएँ",
+      "ar": "حرق الكتب النازي"
     },
     "description": {
       "ru": "10 мая 1933 года студенты и сторонники нацистов сжигали книги в городах по всей Германии. Под удар попали произведения еврейских, либеральных, левых и других нежелательных авторов.",
       "de": "Am 10. Mai 1933 verbrannten Studenten und NS-Anhaenger in Staedten in ganz Deutschland Buecher. Betroffen waren Werke juedischer, liberaler, linker und anderer unerwuenschter Autoren.",
-      "en": "On 10 May 1933, students and Nazi supporters burned books in towns and cities across Germany. Works by Jewish, liberal, left-wing and other unwanted authors were targeted."
+      "en": "On 10 May 1933, students and Nazi supporters burned books in towns and cities across Germany. Works by Jewish, liberal, left-wing and other unwanted authors were targeted.",
+      "fr": "Le 10 mai 1933, des étudiants et des partisans nazis brûlèrent des livres dans des villes de toute l'Allemagne. Les œuvres d'auteurs juifs, libéraux, de gauche et d'autres auteurs jugés indésirables furent visées.",
+      "es": "El 10 de mayo de 1933, estudiantes y simpatizantes nazis quemaron libros en ciudades de toda Alemania. Fueron atacadas obras de autores judíos, liberales, de izquierda y otros considerados indeseables.",
+      "it": "Il 10 maggio 1933 studenti e sostenitori nazisti bruciarono libri in città di tutta la Germania. Furono colpite opere di autori ebrei, liberali, di sinistra e di altri autori indesiderati.",
+      "pt": "Em 10 de maio de 1933, estudantes e apoiantes nazis queimaram livros em cidades por toda a Alemanha. Foram visadas obras de autores judeus, liberais, de esquerda e de outros autores indesejados.",
+      "nl": "Op 10 mei 1933 verbrandden studenten en nazi-aanhangers boeken in steden in heel Duitsland. Werken van Joodse, liberale, linkse en andere ongewenste auteurs werden doelwit.",
+      "pl": "10 maja 1933 roku studenci i zwolennicy nazistów palili książki w miastach w całych Niemczech. Celem były dzieła autorów żydowskich, liberalnych, lewicowych i innych uznanych za niepożądanych.",
+      "tr": "10 Mayıs 1933'te öğrenciler ve Nazi destekçileri Almanya'nın dört bir yanındaki şehirlerde kitaplar yaktı. Yahudi, liberal, solcu ve diğer istenmeyen yazarların eserleri hedef alındı.",
+      "zh": "1933年5月10日，学生和纳粹支持者在德国各地城镇焚烧书籍。犹太、自由派、左翼以及其他被视为不受欢迎作者的作品成为目标。",
+      "ja": "1933年5月10日、学生やナチス支持者がドイツ各地の都市で本を焼きました。ユダヤ系、自由主義、左派、その他望ましくないとされた著者の作品が標的となりました。",
+      "ko": "1933년 5월 10일, 학생들과 나치 지지자들이 독일 전역의 도시에서 책을 불태웠습니다. 유대인, 자유주의자, 좌파 및 기타 원치 않는 작가들의 작품이 표적이 되었습니다.",
+      "hi": "10 मई 1933 को छात्रों और नाज़ी समर्थकों ने पूरे जर्मनी के शहरों में किताबें जलाईं। यहूदी, उदारवादी, वामपंथी और अन्य अवांछित लेखकों की रचनाएँ निशाना बनीं।",
+      "ar": "في 10 مايو 1933 أحرق طلاب ومؤيدون للنازيين كتبا في مدن وبلدات في أنحاء ألمانيا. واستُهدفت أعمال مؤلفين يهود وليبراليين ويساريين وغيرهم ممن عُدوا غير مرغوب فيهم."
     },
     "importance": {
       "ru": "Это стало символом цензуры, интеллектуального насилия и подчинения культуры диктатуре.",
       "de": "Das wurde zum Symbol fuer Zensur, geistige Gewalt und die Unterwerfung der Kultur unter die Diktatur.",
-      "en": "It became a symbol of censorship, intellectual violence and the subordination of culture to dictatorship."
+      "en": "It became a symbol of censorship, intellectual violence and the subordination of culture to dictatorship.",
+      "fr": "Cela devint un symbole de censure, de violence intellectuelle et de soumission de la culture à la dictature.",
+      "es": "Se convirtió en símbolo de censura, violencia intelectual y subordinación de la cultura a la dictadura.",
+      "it": "Divenne un simbolo di censura, violenza intellettuale e sottomissione della cultura alla dittatura.",
+      "pt": "Tornou-se símbolo de censura, violência intelectual e submissão da cultura à ditadura.",
+      "nl": "Het werd een symbool van censuur, intellectueel geweld en de onderwerping van cultuur aan dictatuur.",
+      "pl": "Stało się to symbolem cenzury, przemocy intelektualnej i podporządkowania kultury dyktaturze.",
+      "tr": "Bu, sansürün, düşünsel şiddetin ve kültürün diktatörlüğe tabi kılınmasının sembolü oldu.",
+      "zh": "它成为审查、思想暴力以及文化屈从于独裁的象征。",
+      "ja": "これは検閲、知的暴力、文化が独裁に従属させられることの象徴となりました。",
+      "ko": "이는 검열, 지적 폭력, 문화가 독재에 종속되는 것의 상징이 되었습니다.",
+      "hi": "यह सेंसरशिप, बौद्धिक हिंसा और संस्कृति को तानाशाही के अधीन करने का प्रतीक बन गया।",
+      "ar": "أصبح ذلك رمزا للرقابة والعنف الفكري وإخضاع الثقافة للدكتاتورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Зловещая фраза Гейне",
           "de": "Heines unheimlicher Satz",
-          "en": "Heine's ominous sentence"
+          "en": "Heine's ominous sentence",
+          "fr": "La phrase inquiétante de Heine",
+          "es": "La frase ominosa de Heine",
+          "it": "La frase inquietante di Heine",
+          "pt": "A frase sinistra de Heine",
+          "nl": "Heines onheilspellende zin",
+          "pl": "Złowieszcze zdanie Heinego",
+          "tr": "Heine'nin uğursuz cümlesi",
+          "zh": "海涅不祥的一句话",
+          "ja": "ハイネの不吉な一文",
+          "ko": "하이네의 불길한 문장",
+          "hi": "हाइन की भयावह पंक्ति",
+          "ar": "جملة هاينه المشؤومة"
         },
         "description": {
           "ru": "После 1933 года часто вспоминали мысль Генриха Гейне о том, что там, где сжигают книги, в конце сжигают и людей. Эта фраза стала страшно точной.",
           "de": "Nach 1933 erinnerte man oft an Heinrich Heines Satz, dass dort, wo man Buecher verbrennt, am Ende auch Menschen verbrannt werden. Der Satz wurde erschreckend treffend.",
-          "en": "After 1933, people often recalled Heinrich Heine's warning that where books are burned, people will eventually be burned too. The sentence became frighteningly accurate."
+          "en": "After 1933, people often recalled Heinrich Heine's warning that where books are burned, people will eventually be burned too. The sentence became frighteningly accurate.",
+          "fr": "Après 1933, on rappela souvent l'avertissement de Heinrich Heine selon lequel là où l'on brûle des livres, on finit aussi par brûler des hommes. Cette phrase devint terriblement juste.",
+          "es": "Después de 1933 se recordó a menudo la advertencia de Heinrich Heine de que donde se queman libros, al final también se queman personas. La frase resultó terriblemente exacta.",
+          "it": "Dopo il 1933 si ricordò spesso l'avvertimento di Heinrich Heine secondo cui dove si bruciano libri, alla fine si bruciano anche persone. La frase divenne terribilmente esatta.",
+          "pt": "Depois de 1933, recordou-se muitas vezes o aviso de Heinrich Heine de que onde se queimam livros, no fim também se queimam pessoas. A frase tornou-se assustadoramente exata.",
+          "nl": "Na 1933 herinnerde men vaak aan Heinrich Heines waarschuwing dat waar men boeken verbrandt, uiteindelijk ook mensen verbrand zullen worden. De zin werd angstaanjagend treffend.",
+          "pl": "Po 1933 roku często przypominano ostrzeżenie Heinricha Heinego, że tam, gdzie pali się książki, na końcu pali się także ludzi. Zdanie to okazało się przerażająco trafne.",
+          "tr": "1933'ten sonra insanlar sık sık Heinrich Heine'nin kitapların yakıldığı yerde sonunda insanların da yakılacağı uyarısını hatırladı. Bu söz korkutucu biçimde doğru çıktı.",
+          "zh": "1933年之后，人们常想起海因里希·海涅的警告：焚烧书籍的地方，最终也会焚烧人。这句话变得令人恐惧地准确。",
+          "ja": "1933年以後、人々は本が焼かれる場所では最後には人間も焼かれるというハインリヒ・ハイネの警告をしばしば思い出しました。この一文は恐ろしいほど正確なものとなりました。",
+          "ko": "1933년 이후 사람들은 책이 불태워지는 곳에서는 결국 사람도 불태워질 것이라는 하인리히 하이네의 경고를 자주 떠올렸습니다. 그 문장은 두려울 만큼 정확해졌습니다.",
+          "hi": "1933 के बाद लोग अक्सर हाइनरिख हाइन की चेतावनी याद करते थे कि जहाँ किताबें जलाई जाती हैं, अंत में लोग भी जलाए जाते हैं। यह पंक्ति भयावह रूप से सच साबित हुई।",
+          "ar": "بعد عام 1933 كثيرا ما استُحضِر تحذير هاينريش هاينه بأن المكان الذي تُحرق فيه الكتب سيُحرق فيه الناس في النهاية أيضا. وأصبحت الجملة دقيقة على نحو مخيف."
         },
         "importance": {
           "ru": "Культура может быть ранним сигналом политической катастрофы.",
           "de": "Kultur kann ein fruehes Warnsignal politischer Katastrophen sein.",
-          "en": "Culture can be an early warning signal of political catastrophe."
+          "en": "Culture can be an early warning signal of political catastrophe.",
+          "fr": "La culture peut être un signal d'alerte précoce d'une catastrophe politique.",
+          "es": "La cultura puede ser una señal temprana de una catástrofe política.",
+          "it": "La cultura può essere un segnale precoce di una catastrofe politica.",
+          "pt": "A cultura pode ser um sinal de alerta precoce de uma catástrofe política.",
+          "nl": "Cultuur kan een vroeg waarschuwingssignaal zijn voor politieke catastrofes.",
+          "pl": "Kultura może być wczesnym sygnałem ostrzegawczym przed katastrofą polityczną.",
+          "tr": "Kültür, siyasi bir felaketin erken uyarı işareti olabilir.",
+          "zh": "文化可以成为政治灾难的早期警报。",
+          "ja": "文化は政治的破局の早期警告となることがあります。",
+          "ko": "문화는 정치적 재앙의 조기 경고 신호가 될 수 있습니다.",
+          "hi": "संस्कृति राजनीतिक विनाश की शुरुआती चेतावनी बन सकती है।",
+          "ar": "يمكن للثقافة أن تكون إشارة إنذار مبكر لكارثة سياسية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Берлине о сожжении книг напоминает подземный мемориал с пустыми книжными полками.",
     "de": "In Berlin erinnert ein unterirdisches Denkmal mit leeren Buecherregalen an die Buecherverbrennung.",
-    "en": "In Berlin, an underground memorial with empty bookshelves recalls the book burning."
+    "en": "In Berlin, an underground memorial with empty bookshelves recalls the book burning.",
+    "fr": "À Berlin, un mémorial souterrain avec des étagères vides rappelle l'autodafé.",
+    "es": "En Berlín, un memorial subterráneo con estanterías vacías recuerda la quema de libros.",
+    "it": "A Berlino, un memoriale sotterraneo con scaffali vuoti ricorda il rogo dei libri.",
+    "pt": "Em Berlim, um memorial subterrâneo com estantes vazias recorda a queima de livros.",
+    "nl": "In Berlijn herinnert een ondergronds monument met lege boekenplanken aan de boekverbranding.",
+    "pl": "W Berlinie podziemny pomnik z pustymi półkami na książki przypomina o paleniu książek.",
+    "tr": "Berlin'de boş kitap rafları olan yeraltı anıtı kitap yakılmasını hatırlatır.",
+    "zh": "在柏林，一座带有空书架的地下纪念碑纪念焚书事件。",
+    "ja": "ベルリンでは、空の本棚を備えた地下の記念碑が焚書を思い起こさせます。",
+    "ko": "베를린에서는 빈 책장이 있는 지하 기념물이 분서를 기억하게 합니다.",
+    "hi": "बर्लिन में खाली किताबों की अलमारियों वाला भूमिगत स्मारक किताब जलाने की घटना की याद दिलाता है।",
+    "ar": "في برلين يذكّر نصب تذكاري تحت الأرض برفوف كتب فارغة بحرق الكتب."
   },
   "sources": [
     {
