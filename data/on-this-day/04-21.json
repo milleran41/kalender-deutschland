@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Фридрих Фрёбель",
       "de": "Friedrich Froebel wird geboren",
-      "en": "Friedrich Froebel is born"
+      "en": "Friedrich Froebel is born",
+      "fr": "Friedrich Fröbel naît",
+      "es": "Nace Friedrich Fröbel",
+      "it": "Nasce Friedrich Fröbel",
+      "pt": "Nasce Friedrich Fröbel",
+      "nl": "Friedrich Fröbel wordt geboren",
+      "pl": "Rodzi się Friedrich Fröbel",
+      "tr": "Friedrich Fröbel doğdu",
+      "zh": "弗里德里希·福禄贝尔出生",
+      "ja": "フリードリヒ・フレーベルが生まれる",
+      "ko": "프리드리히 프뢰벨이 태어나다",
+      "hi": "फ़्रीडरिख फ़्रोबेल का जन्म हुआ",
+      "ar": "ولادة فريدريش فروبل"
     },
     "description": {
       "ru": "21 апреля 1782 года в Обервайсбахе в Тюрингии родился педагог Фридрих Фрёбель. Он стал создателем идеи детского сада.",
       "de": "Am 21. April 1782 wurde der Paedagoge Friedrich Froebel in Oberweissbach in Thueringen geboren. Er wurde zum Begruender der Idee des Kindergartens.",
-      "en": "On 21 April 1782, educator Friedrich Froebel was born in Oberweissbach in Thuringia. He became the founder of the kindergarten idea."
+      "en": "On 21 April 1782, educator Friedrich Froebel was born in Oberweissbach in Thuringia. He became the founder of the kindergarten idea.",
+      "fr": "Le 21 avril 1782, le pédagogue Friedrich Fröbel naquit à Oberweissbach en Thuringe. Il devint le fondateur de l'idée du jardin d'enfants.",
+      "es": "El 21 de abril de 1782 nació el pedagogo Friedrich Fröbel en Oberweissbach, Turingia. Se convirtió en el fundador de la idea del jardín de infancia.",
+      "it": "Il 21 aprile 1782 nacque a Oberweissbach, in Turingia, il pedagogo Friedrich Fröbel. Divenne il fondatore dell'idea del giardino d'infanzia.",
+      "pt": "Em 21 de abril de 1782 nasceu o pedagogo Friedrich Fröbel em Oberweissbach, na Turíngia. Tornou-se o fundador da ideia do jardim de infância.",
+      "nl": "Op 21 april 1782 werd pedagoog Friedrich Fröbel geboren in Oberweissbach in Thüringen. Hij werd de grondlegger van het idee van de kleuterschool.",
+      "pl": "21 kwietnia 1782 roku w Oberweissbach w Turyngii urodził się pedagog Friedrich Fröbel. Stał się twórcą idei przedszkola.",
+      "tr": "21 Nisan 1782'de eğitimci Friedrich Fröbel Thüringen'deki Oberweissbach'ta doğdu. Anaokulu fikrinin kurucusu oldu.",
+      "zh": "1782年4月21日，教育家弗里德里希·福禄贝尔出生于图林根的奥伯魏斯巴赫。他成为幼儿园理念的创始人。",
+      "ja": "1782年4月21日、教育者フリードリヒ・フレーベルはテューリンゲンのオーバーヴァイスバッハで生まれました。彼は幼稚園という理念の創始者となりました。",
+      "ko": "1782년 4월 21일, 교육자 프리드리히 프뢰벨이 튀링겐의 오버바이스바흐에서 태어났습니다. 그는 유치원 사상의 창시자가 되었습니다.",
+      "hi": "21 अप्रैल 1782 को शिक्षाशास्त्री फ़्रीडरिख फ़्रोबेल का जन्म थुरिंगिया के ओबरवाइसबाख में हुआ। वह किंडरगार्टन विचार के संस्थापक बने।",
+      "ar": "في 21 أبريل 1782 وُلد المربي فريدريش فروبل في أوبرفايسباخ بولاية تورينغن. أصبح مؤسس فكرة رياض الأطفال."
     },
     "importance": {
       "ru": "Фрёбель изменил отношение к раннему детству: игра стала частью образования, а не просто развлечением.",
       "de": "Froebel veraenderte den Blick auf die fruehe Kindheit: Spiel wurde Teil der Bildung, nicht nur Unterhaltung.",
-      "en": "Froebel changed views of early childhood: play became part of education, not just entertainment."
+      "en": "Froebel changed views of early childhood: play became part of education, not just entertainment.",
+      "fr": "Fröbel changea le regard sur la petite enfance: le jeu devint une partie de l'éducation, et non un simple divertissement.",
+      "es": "Fröbel cambió la mirada sobre la primera infancia: el juego pasó a formar parte de la educación, no solo del entretenimiento.",
+      "it": "Fröbel cambiò il modo di vedere la prima infanzia: il gioco divenne parte dell'educazione, non solo intrattenimento.",
+      "pt": "Fröbel mudou a visão sobre a primeira infância: a brincadeira tornou-se parte da educação, não apenas entretenimento.",
+      "nl": "Fröbel veranderde de kijk op de vroege kindertijd: spel werd onderdeel van onderwijs, niet alleen vermaak.",
+      "pl": "Fröbel zmienił spojrzenie na wczesne dzieciństwo: zabawa stała się częścią edukacji, a nie tylko rozrywką.",
+      "tr": "Fröbel erken çocukluğa bakışı değiştirdi: oyun yalnızca eğlence değil, eğitimin parçası oldu.",
+      "zh": "福禄贝尔改变了人们对幼儿期的看法：游戏成为教育的一部分，而不只是娱乐。",
+      "ja": "フレーベルは幼児期への見方を変えました。遊びは単なる娯楽ではなく、教育の一部となりました。",
+      "ko": "프뢰벨은 유아기에 대한 관점을 바꾸었습니다. 놀이는 단순한 오락이 아니라 교육의 일부가 되었습니다.",
+      "hi": "फ़्रोबेल ने प्रारंभिक बचपन को देखने का तरीका बदला: खेल शिक्षा का हिस्सा बना, केवल मनोरंजन नहीं।",
+      "ar": "غيّر فروبل النظرة إلى الطفولة المبكرة: أصبح اللعب جزءا من التعليم، لا مجرد تسلية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Идея детского сада",
           "de": "Die Idee des Kindergartens",
-          "en": "The kindergarten idea"
+          "en": "The kindergarten idea",
+          "fr": "L'idée du jardin d'enfants",
+          "es": "La idea del jardín de infancia",
+          "it": "L'idea del giardino d'infanzia",
+          "pt": "A ideia do jardim de infância",
+          "nl": "Het idee van de kleuterschool",
+          "pl": "Idea przedszkola",
+          "tr": "Anaokulu fikri",
+          "zh": "幼儿园理念",
+          "ja": "幼稚園の理念",
+          "ko": "유치원 사상",
+          "hi": "किंडरगार्टन का विचार",
+          "ar": "فكرة رياض الأطفال"
         },
         "description": {
           "ru": "В 1837 году Фрёбель открыл учреждение для маленьких детей, которое позднее назвал Kindergarten. Название буквально означает «детский сад» и стало международным словом.",
           "de": "1837 eroeffnete Froebel eine Einrichtung fuer kleine Kinder, die er spaeter Kindergarten nannte. Der Name wurde zu einem internationalen Wort.",
-          "en": "In 1837, Froebel opened an institution for young children that he later called Kindergarten. The name became an international word."
+          "en": "In 1837, Froebel opened an institution for young children that he later called Kindergarten. The name became an international word.",
+          "fr": "En 1837, Fröbel ouvrit une institution pour jeunes enfants qu'il appela plus tard Kindergarten. Le nom devint un mot international.",
+          "es": "En 1837, Fröbel abrió una institución para niños pequeños que más tarde llamó Kindergarten. El nombre se convirtió en una palabra internacional.",
+          "it": "Nel 1837 Fröbel aprì un'istituzione per bambini piccoli che in seguito chiamò Kindergarten. Il nome divenne una parola internazionale.",
+          "pt": "Em 1837, Fröbel abriu uma instituição para crianças pequenas que mais tarde chamou Kindergarten. O nome tornou-se uma palavra internacional.",
+          "nl": "In 1837 opende Fröbel een instelling voor jonge kinderen die hij later Kindergarten noemde. De naam werd een internationaal woord.",
+          "pl": "W 1837 roku Fröbel otworzył placówkę dla małych dzieci, którą później nazwał Kindergarten. Nazwa stała się słowem międzynarodowym.",
+          "tr": "1837'de Fröbel, küçük çocuklar için daha sonra Kindergarten adını verdiği bir kurum açtı. Bu ad uluslararası bir kelime haline geldi.",
+          "zh": "1837年，福禄贝尔开办了一所面向幼儿的机构，后来称之为 Kindergarten。这个名称成为国际词汇。",
+          "ja": "1837年、フレーベルは幼い子どものための施設を開き、後にそれを Kindergarten と呼びました。この名称は国際的な言葉となりました。",
+          "ko": "1837년 프뢰벨은 어린아이들을 위한 기관을 열었고, 나중에 그것을 Kindergarten이라고 불렀습니다. 이 이름은 국제적인 단어가 되었습니다.",
+          "hi": "1837 में फ़्रोबेल ने छोटे बच्चों के लिए एक संस्था खोली, जिसे बाद में उन्होंने Kindergarten कहा। यह नाम अंतरराष्ट्रीय शब्द बन गया।",
+          "ar": "في عام 1837 افتتح فروبل مؤسسة للأطفال الصغار سماها لاحقا Kindergarten. وأصبح الاسم كلمة دولية."
         },
         "importance": {
           "ru": "Это редкий случай, когда немецкое слово вошло во многие языки почти без перевода.",
           "de": "Das ist ein seltener Fall, in dem ein deutsches Wort fast ohne Uebersetzung in viele Sprachen einging.",
-          "en": "It is a rare case of a German word entering many languages almost untranslated."
+          "en": "It is a rare case of a German word entering many languages almost untranslated.",
+          "fr": "C'est un cas rare d'un mot allemand entré dans de nombreuses langues presque sans traduction.",
+          "es": "Es un caso raro de una palabra alemana que entró en muchos idiomas casi sin traducirse.",
+          "it": "È un caso raro di una parola tedesca entrata in molte lingue quasi senza traduzione.",
+          "pt": "É um caso raro de uma palavra alemã que entrou em muitas línguas quase sem tradução.",
+          "nl": "Het is een zeldzaam geval waarin een Duits woord bijna onvertaald in veel talen terechtkwam.",
+          "pl": "To rzadki przypadek niemieckiego słowa, które weszło do wielu języków prawie bez tłumaczenia.",
+          "tr": "Bu, Almanca bir kelimenin birçok dile neredeyse çevrilmeden girmesinin nadir bir örneğidir.",
+          "zh": "这是德语词几乎未经翻译进入多种语言的少见例子。",
+          "ja": "これは、ドイツ語の単語がほとんど翻訳されずに多くの言語へ入った珍しい例です。",
+          "ko": "이는 독일어 단어가 거의 번역되지 않은 채 여러 언어에 들어간 드문 사례입니다.",
+          "hi": "यह जर्मन शब्द के कई भाषाओं में लगभग बिना अनुवाद प्रवेश करने का दुर्लभ उदाहरण है।",
+          "ar": "هذه حالة نادرة لكلمة ألمانية دخلت لغات كثيرة من دون ترجمة تقريبا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Фрёбель считал, что дети учатся через действие, наблюдение и игру с простыми формами.",
     "de": "Froebel meinte, dass Kinder durch Handeln, Beobachten und Spielen mit einfachen Formen lernen.",
-    "en": "Froebel believed children learn through action, observation and play with simple forms."
+    "en": "Froebel believed children learn through action, observation and play with simple forms.",
+    "fr": "Fröbel pensait que les enfants apprennent par l'action, l'observation et le jeu avec des formes simples.",
+    "es": "Fröbel creía que los niños aprenden mediante la acción, la observación y el juego con formas simples.",
+    "it": "Fröbel credeva che i bambini imparassero attraverso l'azione, l'osservazione e il gioco con forme semplici.",
+    "pt": "Fröbel acreditava que as crianças aprendem através da ação, da observação e da brincadeira com formas simples.",
+    "nl": "Fröbel geloofde dat kinderen leren door handelen, observeren en spelen met eenvoudige vormen.",
+    "pl": "Fröbel uważał, że dzieci uczą się przez działanie, obserwację i zabawę prostymi formami.",
+    "tr": "Fröbel, çocukların eylem, gözlem ve basit biçimlerle oyun yoluyla öğrendiğine inanıyordu.",
+    "zh": "福禄贝尔认为，儿童通过行动、观察以及玩简单形状来学习。",
+    "ja": "フレーベルは、子どもは行動、観察、単純な形での遊びを通じて学ぶと考えていました。",
+    "ko": "프뢰벨은 아이들이 행동, 관찰, 단순한 형태를 가지고 노는 것을 통해 배운다고 믿었습니다.",
+    "hi": "फ़्रोबेल मानते थे कि बच्चे क्रिया, अवलोकन और सरल रूपों से खेलकर सीखते हैं।",
+    "ar": "كان فروبل يعتقد أن الأطفال يتعلمون من خلال الفعل والملاحظة واللعب بأشكال بسيطة."
   },
   "sources": [
     {

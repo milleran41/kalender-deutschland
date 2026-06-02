@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началось восстание в Варшавском гетто",
       "de": "Der Aufstand im Warschauer Ghetto beginnt",
-      "en": "The Warsaw Ghetto Uprising begins"
+      "en": "The Warsaw Ghetto Uprising begins",
+      "fr": "Le soulèvement du ghetto de Varsovie commence",
+      "es": "Comienza el levantamiento del gueto de Varsovia",
+      "it": "Inizia la rivolta del ghetto di Varsavia",
+      "pt": "Começa a revolta do gueto de Varsóvia",
+      "nl": "De opstand in het getto van Warschau begint",
+      "pl": "Rozpoczyna się powstanie w getcie warszawskim",
+      "tr": "Varşova Gettosu Ayaklanması başladı",
+      "zh": "华沙隔都起义开始",
+      "ja": "ワルシャワ・ゲットー蜂起が始まる",
+      "ko": "바르샤바 게토 봉기가 시작되다",
+      "hi": "वारसॉ घेट्टो विद्रोह शुरू हुआ",
+      "ar": "بدء انتفاضة غيتو وارسو"
     },
     "description": {
       "ru": "19 апреля 1943 года в оккупированной немцами Варшаве началось восстание в гетто. Еврейские подпольщики сопротивлялись попытке нацистов окончательно ликвидировать гетто.",
       "de": "Am 19. April 1943 begann im deutsch besetzten Warschau der Aufstand im Ghetto. Juedische Untergrundkaempfer wehrten sich gegen den Versuch der Nationalsozialisten, das Ghetto endgueltig zu liquidieren.",
-      "en": "On 19 April 1943, the uprising in the ghetto of German-occupied Warsaw began. Jewish underground fighters resisted the Nazis' attempt to finally liquidate the ghetto."
+      "en": "On 19 April 1943, the uprising in the ghetto of German-occupied Warsaw began. Jewish underground fighters resisted the Nazis' attempt to finally liquidate the ghetto.",
+      "fr": "Le 19 avril 1943, le soulèvement commença dans le ghetto de Varsovie occupée par l'Allemagne. Des combattants juifs clandestins résistèrent à la tentative des nazis de liquider définitivement le ghetto.",
+      "es": "El 19 de abril de 1943 comenzó el levantamiento en el gueto de Varsovia ocupada por Alemania. Combatientes judíos clandestinos resistieron el intento nazi de liquidar definitivamente el gueto.",
+      "it": "Il 19 aprile 1943 iniziò la rivolta nel ghetto di Varsavia occupata dai tedeschi. Combattenti ebrei clandestini resistettero al tentativo nazista di liquidare definitivamente il ghetto.",
+      "pt": "Em 19 de abril de 1943 começou a revolta no gueto de Varsóvia ocupada pelos alemães. Combatentes judeus clandestinos resistiram à tentativa nazi de liquidar definitivamente o gueto.",
+      "nl": "Op 19 april 1943 begon de opstand in het getto van het door Duitsland bezette Warschau. Joodse ondergrondse strijders verzetten zich tegen de poging van de nazi's om het getto definitief te liquideren.",
+      "pl": "19 kwietnia 1943 roku w getcie okupowanej przez Niemców Warszawy rozpoczęło się powstanie. Żydowscy bojownicy podziemia stawili opór próbie ostatecznej likwidacji getta przez nazistów.",
+      "tr": "19 Nisan 1943'te Alman işgali altındaki Varşova gettosunda ayaklanma başladı. Yahudi yeraltı savaşçıları Nazilerin gettoyu nihai olarak tasfiye etme girişimine direndi.",
+      "zh": "1943年4月19日，德占华沙的隔都起义开始。犹太地下战士抵抗纳粹最终清除隔都的企图。",
+      "ja": "1943年4月19日、ドイツ占領下のワルシャワのゲットーで蜂起が始まりました。ユダヤ人地下戦闘員は、ゲットーを最終的に解体しようとするナチスの試みに抵抗しました。",
+      "ko": "1943년 4월 19일, 독일 점령하의 바르샤바 게토에서 봉기가 시작되었습니다. 유대인 지하 전사들은 게토를 최종적으로 청산하려는 나치의 시도에 저항했습니다.",
+      "hi": "19 अप्रैल 1943 को जर्मन कब्ज़े वाले वारसॉ के घेट्टो में विद्रोह शुरू हुआ। यहूदी भूमिगत लड़ाकों ने नाज़ियों द्वारा घेट्टो को अंतिम रूप से समाप्त करने की कोशिश का विरोध किया।",
+      "ar": "في 19 أبريل 1943 بدأت الانتفاضة في غيتو وارسو الخاضعة للاحتلال الألماني. قاوم مقاتلون يهود في السر محاولة النازيين تصفية الغيتو نهائيا."
     },
     "importance": {
       "ru": "Это одно из самых известных вооружённых сопротивлений против нацистской политики уничтожения.",
       "de": "Es ist einer der bekanntesten bewaffneten Widerstaende gegen die nationalsozialistische Vernichtungspolitik.",
-      "en": "It is one of the best-known armed acts of resistance against Nazi extermination policy."
+      "en": "It is one of the best-known armed acts of resistance against Nazi extermination policy.",
+      "fr": "C'est l'un des actes de résistance armée les plus connus contre la politique nazie d'extermination.",
+      "es": "Es uno de los actos de resistencia armada más conocidos contra la política nazi de exterminio.",
+      "it": "È uno degli atti di resistenza armata più noti contro la politica nazista di sterminio.",
+      "pt": "É um dos atos de resistência armada mais conhecidos contra a política nazi de extermínio.",
+      "nl": "Het is een van de bekendste gewapende verzetsdaden tegen de nazistische vernietigingspolitiek.",
+      "pl": "To jeden z najbardziej znanych aktów zbrojnego oporu przeciw nazistowskiej polityce zagłady.",
+      "tr": "Bu, Nazi imha politikasına karşı en bilinen silahlı direniş eylemlerinden biridir.",
+      "zh": "这是反抗纳粹灭绝政策的最著名武装抵抗之一。",
+      "ja": "これはナチスの絶滅政策に対する最もよく知られた武装抵抗の一つです。",
+      "ko": "이는 나치 절멸 정책에 맞선 가장 잘 알려진 무장 저항 중 하나입니다.",
+      "hi": "यह नाज़ी विनाश नीति के विरुद्ध सबसे प्रसिद्ध सशस्त्र प्रतिरोधों में से एक है।",
+      "ar": "إنها من أشهر أعمال المقاومة المسلحة ضد سياسة الإبادة النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сопротивление в безвыходной ситуации",
           "de": "Widerstand in aussichtsloser Lage",
-          "en": "Resistance in a hopeless situation"
+          "en": "Resistance in a hopeless situation",
+          "fr": "Résistance dans une situation sans issue",
+          "es": "Resistencia en una situación desesperada",
+          "it": "Resistenza in una situazione senza speranza",
+          "pt": "Resistência numa situação sem saída",
+          "nl": "Verzet in een uitzichtloze situatie",
+          "pl": "Opór w sytuacji bez wyjścia",
+          "tr": "Umutsuz bir durumda direniş",
+          "zh": "绝境中的抵抗",
+          "ja": "絶望的な状況での抵抗",
+          "ko": "절망적인 상황 속의 저항",
+          "hi": "निराशाजनक स्थिति में प्रतिरोध",
+          "ar": "مقاومة في وضع ميؤوس منه"
         },
         "description": {
           "ru": "У восставших было мало оружия и почти не было надежды на военную победу. Но их борьба стала символом достоинства и отказа покорно идти на смерть.",
           "de": "Die Aufstaendischen hatten wenige Waffen und kaum Hoffnung auf einen militaerischen Sieg. Doch ihr Kampf wurde zum Symbol von Wuerde und der Weigerung, widerstandslos in den Tod zu gehen.",
-          "en": "The fighters had few weapons and little hope of military victory. Their struggle became a symbol of dignity and refusal to go passively to death."
+          "en": "The fighters had few weapons and little hope of military victory. Their struggle became a symbol of dignity and refusal to go passively to death.",
+          "fr": "Les combattants avaient peu d'armes et presque aucun espoir de victoire militaire. Leur lutte devint un symbole de dignité et du refus d'aller passivement à la mort.",
+          "es": "Los combatientes tenían pocas armas y escasas esperanzas de victoria militar. Su lucha se convirtió en símbolo de dignidad y de rechazo a ir pasivamente hacia la muerte.",
+          "it": "I combattenti avevano poche armi e quasi nessuna speranza di vittoria militare. La loro lotta divenne un simbolo di dignità e del rifiuto di andare passivamente verso la morte.",
+          "pt": "Os combatentes tinham poucas armas e pouca esperança de vitória militar. A sua luta tornou-se um símbolo de dignidade e da recusa de caminhar passivamente para a morte.",
+          "nl": "De strijders hadden weinig wapens en nauwelijks hoop op een militaire overwinning. Hun strijd werd een symbool van waardigheid en weigering om passief de dood in te gaan.",
+          "pl": "Bojownicy mieli niewiele broni i prawie żadnej nadziei na zwycięstwo militarne. Ich walka stała się symbolem godności i odmowy biernego pójścia na śmierć.",
+          "tr": "Savaşçıların az silahı ve askeri zafer için çok az umudu vardı. Mücadeleleri, onurun ve ölüme pasifçe gitmeyi reddetmenin sembolü oldu.",
+          "zh": "战士们武器很少，几乎没有军事胜利的希望。他们的斗争成为尊严和拒绝被动走向死亡的象征。",
+          "ja": "戦闘員たちは武器が少なく、軍事的勝利の望みもほとんどありませんでした。それでも彼らの闘いは、尊厳と、黙って死へ向かわない意思の象徴となりました。",
+          "ko": "전사들에게는 무기가 거의 없었고 군사적 승리에 대한 희망도 거의 없었습니다. 그들의 투쟁은 존엄과 수동적으로 죽음으로 향하기를 거부한 상징이 되었습니다.",
+          "hi": "लड़ाकों के पास बहुत कम हथियार थे और सैन्य जीत की आशा लगभग नहीं थी। उनका संघर्ष गरिमा और चुपचाप मृत्यु की ओर न जाने के इनकार का प्रतीक बना।",
+          "ar": "كان لدى المقاتلين أسلحة قليلة وأمل ضعيف جدا في نصر عسكري. أصبحت مقاومتهم رمزا للكرامة ورفض الذهاب إلى الموت بلا مقاومة."
         },
         "importance": {
           "ru": "Дата помогает говорить о Холокосте не только как о преступлении, но и как об истории сопротивления.",
           "de": "Das Datum hilft, ueber den Holocaust nicht nur als Verbrechen, sondern auch als Geschichte des Widerstands zu sprechen.",
-          "en": "The date helps present the Holocaust not only as a crime, but also as a history of resistance."
+          "en": "The date helps present the Holocaust not only as a crime, but also as a history of resistance.",
+          "fr": "Cette date aide à présenter la Shoah non seulement comme un crime, mais aussi comme une histoire de résistance.",
+          "es": "La fecha ayuda a presentar el Holocausto no solo como un crimen, sino también como una historia de resistencia.",
+          "it": "La data aiuta a presentare l'Olocausto non solo come un crimine, ma anche come una storia di resistenza.",
+          "pt": "A data ajuda a apresentar o Holocausto não só como um crime, mas também como uma história de resistência.",
+          "nl": "Deze datum helpt de Holocaust niet alleen als misdaad te tonen, maar ook als geschiedenis van verzet.",
+          "pl": "Ta data pomaga mówić o Holokauście nie tylko jako o zbrodni, lecz także jako o historii oporu.",
+          "tr": "Bu tarih, Holokost'u yalnızca bir suç olarak değil, aynı zamanda bir direniş tarihi olarak sunmaya yardımcı olur.",
+          "zh": "这个日期有助于把大屠杀不仅呈现为罪行，也呈现为抵抗史。",
+          "ja": "この日付は、ホロコーストを犯罪としてだけでなく、抵抗の歴史としても伝える助けになります。",
+          "ko": "이 날짜는 홀로코스트를 범죄일 뿐 아니라 저항의 역사로도 보여 주는 데 도움이 됩니다.",
+          "hi": "यह तारीख होलोकॉस्ट को केवल अपराध नहीं, बल्कि प्रतिरोध के इतिहास के रूप में भी समझाने में मदद करती है।",
+          "ar": "يساعد هذا التاريخ على عرض الهولوكوست لا كجريمة فقط، بل كتاريخ للمقاومة أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Восстание продолжалось почти месяц, до середины мая 1943 года.",
     "de": "Der Aufstand dauerte fast einen Monat, bis Mitte Mai 1943.",
-    "en": "The uprising lasted almost a month, until mid-May 1943."
+    "en": "The uprising lasted almost a month, until mid-May 1943.",
+    "fr": "Le soulèvement dura presque un mois, jusqu'à la mi-mai 1943.",
+    "es": "El levantamiento duró casi un mes, hasta mediados de mayo de 1943.",
+    "it": "La rivolta durò quasi un mese, fino a metà maggio 1943.",
+    "pt": "A revolta durou quase um mês, até meados de maio de 1943.",
+    "nl": "De opstand duurde bijna een maand, tot half mei 1943.",
+    "pl": "Powstanie trwało prawie miesiąc, do połowy maja 1943 roku.",
+    "tr": "Ayaklanma neredeyse bir ay, 1943 Mayıs ortasına kadar sürdü.",
+    "zh": "起义持续了近一个月，直到1943年5月中旬。",
+    "ja": "蜂起は1943年5月中旬まで、ほぼ1か月続きました。",
+    "ko": "봉기는 1943년 5월 중순까지 거의 한 달 동안 계속되었습니다.",
+    "hi": "विद्रोह लगभग एक महीने तक, मई 1943 के मध्य तक चला।",
+    "ar": "استمرت الانتفاضة قرابة شهر، حتى منتصف مايو 1943."
   },
   "sources": [
     {
