@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Брест-Литовский мир",
       "de": "Der Frieden von Brest-Litowsk wird unterzeichnet",
-      "en": "The Treaty of Brest-Litovsk is signed"
+      "en": "The Treaty of Brest-Litovsk is signed",
+      "fr": "Signature du traité de Brest-Litovsk",
+      "es": "Se firma el Tratado de Brest-Litovsk",
+      "it": "Viene firmato il trattato di Brest-Litovsk",
+      "pt": "É assinado o Tratado de Brest-Litovsk",
+      "nl": "Het Verdrag van Brest-Litovsk wordt ondertekend",
+      "pl": "Podpisano traktat brzeski",
+      "tr": "Brest-Litovsk Antlaşması imzalandı",
+      "zh": "《布列斯特-立托夫斯克条约》签署",
+      "ja": "ブレスト＝リトフスク条約が署名される",
+      "ko": "브레스트-리토프스크 조약이 서명되다",
+      "hi": "ब्रेस्ट-लितोव्स्क संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدة بريست ليتوفسك"
     },
     "description": {
       "ru": "3 марта 1918 года Германия, её союзники и Советская Россия подписали мирный договор в Брест-Литовске. Россия вышла из Первой мировой войны, а Германия получила временное преимущество на Востоке.",
       "de": "Am 3. Maerz 1918 unterzeichneten Deutschland, seine Verbuendeten und Sowjetrussland den Frieden von Brest-Litowsk. Russland schied aus dem Ersten Weltkrieg aus, und Deutschland gewann voruebergehend Vorteile im Osten.",
-      "en": "On 3 March 1918, Germany, its allies and Soviet Russia signed the Treaty of Brest-Litovsk. Russia left the First World War, and Germany gained temporary advantages in the East."
+      "en": "On 3 March 1918, Germany, its allies and Soviet Russia signed the Treaty of Brest-Litovsk. Russia left the First World War, and Germany gained temporary advantages in the East.",
+      "fr": "Le 3 mars 1918, l'Allemagne, ses alliés et la Russie soviétique signèrent le traité de Brest-Litovsk. La Russie quitta la Première Guerre mondiale et l'Allemagne obtint un avantage temporaire à l'Est.",
+      "es": "El 3 de marzo de 1918, Alemania, sus aliados y la Rusia soviética firmaron el Tratado de Brest-Litovsk. Rusia salió de la Primera Guerra Mundial y Alemania obtuvo ventajas temporales en el Este.",
+      "it": "Il 3 marzo 1918 la Germania, i suoi alleati e la Russia sovietica firmarono il trattato di Brest-Litovsk. La Russia uscì dalla Prima guerra mondiale e la Germania ottenne vantaggi temporanei a Est.",
+      "pt": "Em 3 de março de 1918, a Alemanha, os seus aliados e a Rússia Soviética assinaram o Tratado de Brest-Litovsk. A Rússia saiu da Primeira Guerra Mundial e a Alemanha ganhou vantagens temporárias no Leste.",
+      "nl": "Op 3 maart 1918 ondertekenden Duitsland, zijn bondgenoten en Sovjet-Rusland het Verdrag van Brest-Litovsk. Rusland stapte uit de Eerste Wereldoorlog en Duitsland kreeg tijdelijk voordeel in het oosten.",
+      "pl": "3 marca 1918 roku Niemcy, ich sojusznicy i Rosja Radziecka podpisały traktat brzeski. Rosja wyszła z pierwszej wojny światowej, a Niemcy uzyskały tymczasową przewagę na wschodzie.",
+      "tr": "3 Mart 1918'de Almanya, müttefikleri ve Sovyet Rusya Brest-Litovsk Antlaşması'nı imzaladı. Rusya Birinci Dünya Savaşı'ndan çekildi, Almanya ise Doğu'da geçici avantajlar elde etti.",
+      "zh": "1918年3月3日，德国、其盟友和苏维埃俄国签署了《布列斯特-立托夫斯克条约》。俄国退出第一次世界大战，德国在东线获得了暂时优势。",
+      "ja": "1918年3月3日、ドイツ、その同盟国、ソビエト・ロシアはブレスト＝リトフスク条約に署名しました。ロシアは第一次世界大戦から離脱し、ドイツは東部で一時的な優位を得ました。",
+      "ko": "1918년 3월 3일, 독일과 그 동맹국들, 소비에트 러시아가 브레스트-리토프스크 조약에 서명했습니다. 러시아는 제1차 세계대전에서 이탈했고 독일은 동부에서 일시적 이점을 얻었습니다.",
+      "hi": "3 मार्च 1918 को जर्मनी, उसके सहयोगियों और सोवियत रूस ने ब्रेस्ट-लितोव्स्क संधि पर हस्ताक्षर किए। रूस प्रथम विश्व युद्ध से बाहर हो गया और जर्मनी को पूर्व में अस्थायी लाभ मिला।",
+      "ar": "في 3 مارس 1918 وقعت ألمانيا وحلفاؤها وروسيا السوفيتية معاهدة بريست ليتوفسك. خرجت روسيا من الحرب العالمية الأولى وحصلت ألمانيا على مزايا مؤقتة في الشرق."
     },
     "importance": {
       "ru": "Договор показывает, как быстро карта Восточной Европы могла меняться в конце Первой мировой войны.",
       "de": "Der Vertrag zeigt, wie schnell sich die Karte Osteuropas am Ende des Ersten Weltkriegs veraendern konnte.",
-      "en": "The treaty shows how quickly the map of Eastern Europe could change at the end of the First World War."
+      "en": "The treaty shows how quickly the map of Eastern Europe could change at the end of the First World War.",
+      "fr": "Le traité montre à quelle vitesse la carte de l'Europe de l'Est pouvait changer à la fin de la Première Guerre mondiale.",
+      "es": "El tratado muestra lo rápido que podía cambiar el mapa de Europa oriental al final de la Primera Guerra Mundial.",
+      "it": "Il trattato mostra quanto rapidamente potesse cambiare la carta dell'Europa orientale alla fine della Prima guerra mondiale.",
+      "pt": "O tratado mostra quão rapidamente o mapa da Europa de Leste podia mudar no fim da Primeira Guerra Mundial.",
+      "nl": "Het verdrag laat zien hoe snel de kaart van Oost-Europa aan het einde van de Eerste Wereldoorlog kon veranderen.",
+      "pl": "Traktat pokazuje, jak szybko mapa Europy Wschodniej mogła się zmieniać pod koniec pierwszej wojny światowej.",
+      "tr": "Antlaşma, Birinci Dünya Savaşı'nın sonunda Doğu Avrupa haritasının ne kadar hızlı değişebileceğini gösterir.",
+      "zh": "该条约显示，第一次世界大战末期东欧地图可能变化得多么迅速。",
+      "ja": "この条約は、第一次世界大戦末期に東ヨーロッパの地図がどれほど急速に変わり得たかを示しています。",
+      "ko": "이 조약은 제1차 세계대전 말기에 동유럽 지도가 얼마나 빠르게 변할 수 있었는지를 보여 줍니다.",
+      "hi": "यह संधि दिखाती है कि प्रथम विश्व युद्ध के अंत में पूर्वी यूरोप का नक्शा कितनी तेजी से बदल सकता था।",
+      "ar": "تُظهر المعاهدة مدى سرعة تغير خريطة أوروبا الشرقية في نهاية الحرب العالمية الأولى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Краткий успех Германии",
           "de": "Ein kurzer Erfolg Deutschlands",
-          "en": "A short-lived German success"
+          "en": "A short-lived German success",
+          "fr": "Un bref succès allemand",
+          "es": "Un éxito alemán breve",
+          "it": "Un breve successo tedesco",
+          "pt": "Um breve sucesso alemão",
+          "nl": "Een kort Duits succes",
+          "pl": "Krótki sukces Niemiec",
+          "tr": "Kısa süreli bir Alman başarısı",
+          "zh": "德国的短暂成功",
+          "ja": "短期間のドイツの成功",
+          "ko": "짧게 끝난 독일의 성공",
+          "hi": "जर्मनी की अल्पकालिक सफलता",
+          "ar": "نجاح ألماني قصير"
         },
         "description": {
           "ru": "Условия мира были тяжёлыми для России, но германское преимущество оказалось недолгим. Уже осенью 1918 года сама Германия потерпела поражение.",
           "de": "Die Friedensbedingungen waren fuer Russland hart, doch Deutschlands Vorteil hielt nicht lange. Schon im Herbst 1918 verlor Deutschland selbst den Krieg.",
-          "en": "The peace terms were harsh for Russia, but Germany's advantage did not last long. By autumn 1918, Germany itself had lost the war."
+          "en": "The peace terms were harsh for Russia, but Germany's advantage did not last long. By autumn 1918, Germany itself had lost the war.",
+          "fr": "Les conditions de paix étaient dures pour la Russie, mais l'avantage allemand ne dura pas longtemps. Dès l'automne 1918, l'Allemagne elle-même avait perdu la guerre.",
+          "es": "Las condiciones de paz fueron duras para Rusia, pero la ventaja alemana duró poco. Para el otoño de 1918, la propia Alemania había perdido la guerra.",
+          "it": "Le condizioni di pace furono dure per la Russia, ma il vantaggio tedesco durò poco. Già nell'autunno del 1918 la stessa Germania aveva perso la guerra.",
+          "pt": "As condições de paz foram duras para a Rússia, mas a vantagem alemã durou pouco. Já no outono de 1918, a própria Alemanha tinha perdido a guerra.",
+          "nl": "De vredesvoorwaarden waren hard voor Rusland, maar het Duitse voordeel duurde niet lang. Al in de herfst van 1918 had Duitsland zelf de oorlog verloren.",
+          "pl": "Warunki pokoju były dla Rosji ciężkie, ale przewaga Niemiec nie trwała długo. Już jesienią 1918 roku same Niemcy przegrały wojnę.",
+          "tr": "Barış koşulları Rusya için ağırdı, ancak Almanya'nın avantajı uzun sürmedi. 1918 sonbaharında Almanya'nın kendisi savaşı kaybetmişti.",
+          "zh": "和平条件对俄国很严苛，但德国的优势并没有持续多久。到1918年秋天，德国自己已经输掉了战争。",
+          "ja": "講和条件はロシアにとって厳しいものでしたが、ドイツの優位は長く続きませんでした。1918年秋にはドイツ自身が戦争に敗れていました。",
+          "ko": "평화 조건은 러시아에 가혹했지만 독일의 이점은 오래가지 않았습니다. 1918년 가을에는 독일 자신이 전쟁에서 패했습니다.",
+          "hi": "शांति की शर्तें रूस के लिए कठोर थीं, लेकिन जर्मनी का लाभ अधिक समय तक नहीं रहा। 1918 की शरद ऋतु तक जर्मनी स्वयं युद्ध हार चुका था।",
+          "ar": "كانت شروط السلام قاسية على روسيا، لكن ميزة ألمانيا لم تدم طويلا. فبحلول خريف 1918 كانت ألمانيا نفسها قد خسرت الحرب."
         },
         "importance": {
           "ru": "Это пример того, как победа на одном фронте не спасает страну от общего поражения.",
           "de": "Das ist ein Beispiel dafuer, dass ein Sieg an einer Front eine allgemeine Niederlage nicht verhindert.",
-          "en": "It is an example of how victory on one front does not prevent overall defeat."
+          "en": "It is an example of how victory on one front does not prevent overall defeat.",
+          "fr": "C'est un exemple de la manière dont une victoire sur un front n'empêche pas une défaite générale.",
+          "es": "Es un ejemplo de cómo la victoria en un frente no evita una derrota general.",
+          "it": "È un esempio di come una vittoria su un fronte non impedisca una sconfitta complessiva.",
+          "pt": "É um exemplo de como a vitória numa frente não impede uma derrota geral.",
+          "nl": "Het is een voorbeeld van hoe een overwinning aan één front een algemene nederlaag niet voorkomt.",
+          "pl": "To przykład tego, że zwycięstwo na jednym froncie nie chroni kraju przed ogólną klęską.",
+          "tr": "Bu, bir cephedeki zaferin genel yenilgiyi önleyemeyeceğine bir örnektir.",
+          "zh": "这是一个说明单一战线的胜利无法避免整体失败的例子。",
+          "ja": "これは、一つの戦線での勝利が全体的な敗北を防げないことを示す例です。",
+          "ko": "이는 한 전선에서의 승리가 전체 패배를 막지 못한다는 예입니다.",
+          "hi": "यह उदाहरण है कि एक मोर्चे पर जीत देश को समग्र हार से नहीं बचाती।",
+          "ar": "إنه مثال على أن النصر في جبهة واحدة لا يمنع الهزيمة العامة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Брест-Литовск сегодня называется Брест и находится в Беларуси.",
     "de": "Brest-Litowsk heisst heute Brest und liegt in Belarus.",
-    "en": "Brest-Litovsk is now Brest in Belarus."
+    "en": "Brest-Litovsk is now Brest in Belarus.",
+    "fr": "Brest-Litovsk s'appelle aujourd'hui Brest et se trouve en Biélorussie.",
+    "es": "Brest-Litovsk hoy se llama Brest y está en Bielorrusia.",
+    "it": "Brest-Litovsk oggi si chiama Brest e si trova in Bielorussia.",
+    "pt": "Brest-Litovsk chama-se hoje Brest e fica na Bielorrússia.",
+    "nl": "Brest-Litovsk heet tegenwoordig Brest en ligt in Belarus.",
+    "pl": "Brześć Litewski nazywa się dziś Brześć i znajduje się na Białorusi.",
+    "tr": "Brest-Litovsk bugün Brest adını taşır ve Belarus'tadır.",
+    "zh": "布列斯特-立托夫斯克如今称为布列斯特，位于白俄罗斯。",
+    "ja": "ブレスト＝リトフスクは現在ブレストと呼ばれ、ベラルーシにあります。",
+    "ko": "브레스트-리토프스크는 오늘날 브레스트라고 불리며 벨라루스에 있습니다.",
+    "hi": "ब्रेस्ट-लितोव्स्क आज ब्रेस्ट कहलाता है और बेलारूस में स्थित है।",
+    "ar": "تُسمى بريست ليتوفسك اليوم بريست وتقع في بيلاروس."
   },
   "sources": [
     {

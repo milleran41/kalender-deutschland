@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Курт Вайль",
       "de": "Kurt Weill wird geboren",
-      "en": "Kurt Weill is born"
+      "en": "Kurt Weill is born",
+      "fr": "Naissance de Kurt Weill",
+      "es": "Nace Kurt Weill",
+      "it": "Nasce Kurt Weill",
+      "pt": "Nasce Kurt Weill",
+      "nl": "Kurt Weill wordt geboren",
+      "pl": "Urodził się Kurt Weill",
+      "tr": "Kurt Weill doğdu",
+      "zh": "库尔特·魏尔出生",
+      "ja": "クルト・ヴァイルが生まれる",
+      "ko": "쿠르트 바일이 태어나다",
+      "hi": "कुर्ट वाइल का जन्म हुआ",
+      "ar": "ولادة كورت فايل"
     },
     "description": {
       "ru": "2 марта 1900 года в Дессау родился композитор Курт Вайль. Он стал известен музыкой для театра, особенно в сотрудничестве с Бертольтом Брехтом.",
       "de": "Am 2. Maerz 1900 wurde der Komponist Kurt Weill in Dessau geboren. Bekannt wurde er durch Musik fuer das Theater, besonders in Zusammenarbeit mit Bertolt Brecht.",
-      "en": "On 2 March 1900, composer Kurt Weill was born in Dessau. He became known for theatre music, especially through his collaboration with Bertolt Brecht."
+      "en": "On 2 March 1900, composer Kurt Weill was born in Dessau. He became known for theatre music, especially through his collaboration with Bertolt Brecht.",
+      "fr": "Le 2 mars 1900, le compositeur Kurt Weill naquit à Dessau. Il devint connu pour sa musique de théâtre, surtout grâce à sa collaboration avec Bertolt Brecht.",
+      "es": "El 2 de marzo de 1900 nació en Dessau el compositor Kurt Weill. Se hizo conocido por su música para el teatro, especialmente por su colaboración con Bertolt Brecht.",
+      "it": "Il 2 marzo 1900 il compositore Kurt Weill nacque a Dessau. Divenne noto per la musica teatrale, soprattutto grazie alla collaborazione con Bertolt Brecht.",
+      "pt": "Em 2 de março de 1900, o compositor Kurt Weill nasceu em Dessau. Ficou conhecido pela música para teatro, especialmente pela colaboração com Bertolt Brecht.",
+      "nl": "Op 2 maart 1900 werd componist Kurt Weill in Dessau geboren. Hij werd bekend door theatermuziek, vooral door zijn samenwerking met Bertolt Brecht.",
+      "pl": "2 marca 1900 roku w Dessau urodził się kompozytor Kurt Weill. Zasłynął muzyką teatralną, zwłaszcza dzięki współpracy z Bertoltem Brechtem.",
+      "tr": "2 Mart 1900'de besteci Kurt Weill Dessau'da doğdu. Özellikle Bertolt Brecht ile işbirliği sayesinde tiyatro müziğiyle tanındı.",
+      "zh": "1900年3月2日，作曲家库尔特·魏尔出生于德绍。他以戏剧音乐闻名，尤其是与贝托尔特·布莱希特的合作。",
+      "ja": "1900年3月2日、作曲家クルト・ヴァイルはデッサウで生まれました。彼は特にベルトルト・ブレヒトとの協力を通じて、演劇音楽で知られるようになりました。",
+      "ko": "1900년 3월 2일, 작곡가 쿠르트 바일이 데사우에서 태어났습니다. 그는 특히 베르톨트 브레히트와의 협업을 통해 연극 음악으로 알려졌습니다.",
+      "hi": "2 मार्च 1900 को संगीतकार कुर्ट वाइल का जन्म डेसाउ में हुआ। वे थिएटर संगीत के लिए प्रसिद्ध हुए, खासकर बेर्टोल्ट ब्रेख्त के साथ सहयोग से।",
+      "ar": "في 2 مارس 1900 وُلد المؤلف الموسيقي كورت فايل في ديساو. اشتهر بموسيقى المسرح، خاصة من خلال تعاونه مع برتولت بريشت."
     },
     "importance": {
       "ru": "Вайль соединяет немецкую сцену Веймарской эпохи, эмиграцию и американский музыкальный театр.",
       "de": "Weill verbindet die deutsche Buehne der Weimarer Zeit, Exil und amerikanisches Musiktheater.",
-      "en": "Weill connects the German stage of the Weimar era, exile and American musical theatre."
+      "en": "Weill connects the German stage of the Weimar era, exile and American musical theatre.",
+      "fr": "Weill relie la scène allemande de l'époque de Weimar, l'exil et le théâtre musical américain.",
+      "es": "Weill conecta la escena alemana de la época de Weimar, el exilio y el teatro musical estadounidense.",
+      "it": "Weill collega la scena tedesca dell'epoca di Weimar, l'esilio e il teatro musicale americano.",
+      "pt": "Weill liga o palco alemão da época de Weimar, o exílio e o teatro musical americano.",
+      "nl": "Weill verbindt het Duitse toneel van de Weimartijd, ballingschap en Amerikaans muziektheater.",
+      "pl": "Weill łączy niemiecką scenę epoki Weimaru, emigrację i amerykański teatr muzyczny.",
+      "tr": "Weill, Weimar dönemi Alman sahnesini, sürgünü ve Amerikan müzikal tiyatrosunu birbirine bağlar.",
+      "zh": "魏尔连接了魏玛时代的德国舞台、流亡经历和美国音乐剧场。",
+      "ja": "ヴァイルは、ワイマール時代のドイツ舞台、亡命、アメリカの音楽劇を結びつけています。",
+      "ko": "바일은 바이마르 시대의 독일 무대, 망명, 미국 음악극을 연결합니다.",
+      "hi": "वाइल वाइमर युग के जर्मन रंगमंच, निर्वासन और अमेरिकी संगीत थिएटर को जोड़ते हैं।",
+      "ar": "يربط فايل بين المسرح الألماني في عصر فايمار والمنفى والمسرح الموسيقي الأمريكي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Трёхгрошовая опера»",
           "de": "Die Dreigroschenoper",
-          "en": "The Threepenny Opera"
+          "en": "The Threepenny Opera",
+          "fr": "L'Opéra de quat'sous",
+          "es": "La ópera de los tres centavos",
+          "it": "L'opera da tre soldi",
+          "pt": "A Ópera dos Três Vinténs",
+          "nl": "De Driestuiversopera",
+          "pl": "Opera za trzy grosze",
+          "tr": "Üç Kuruşluk Opera",
+          "zh": "《三分钱歌剧》",
+          "ja": "『三文オペラ』",
+          "ko": "서푼짜리 오페라",
+          "hi": "थ्रीपेनी ओपेरा",
+          "ar": "أوبرا الثلاثة قروش"
         },
         "description": {
           "ru": "Музыка Вайля к «Трёхгрошовой опере» стала одним из самых узнаваемых звуков Веймарской культуры. После прихода нацистов к власти Вайль, будучи евреем, покинул Германию.",
           "de": "Weills Musik zur Dreigroschenoper wurde zu einem der bekanntesten Klaenge der Weimarer Kultur. Nach der Machtuebernahme der Nationalsozialisten verliess Weill als Jude Deutschland.",
-          "en": "Weill's music for The Threepenny Opera became one of the most recognizable sounds of Weimar culture. After the Nazis took power, Weill, who was Jewish, left Germany."
+          "en": "Weill's music for The Threepenny Opera became one of the most recognizable sounds of Weimar culture. After the Nazis took power, Weill, who was Jewish, left Germany.",
+          "fr": "La musique de Weill pour L'Opéra de quat'sous devint l'un des sons les plus reconnaissables de la culture de Weimar. Après l'arrivée des nazis au pouvoir, Weill, qui était juif, quitta l'Allemagne.",
+          "es": "La música de Weill para La ópera de los tres centavos se convirtió en uno de los sonidos más reconocibles de la cultura de Weimar. Después de que los nazis llegaron al poder, Weill, que era judío, abandonó Alemania.",
+          "it": "La musica di Weill per L'opera da tre soldi divenne uno dei suoni più riconoscibili della cultura di Weimar. Dopo l'ascesa al potere dei nazisti, Weill, che era ebreo, lasciò la Germania.",
+          "pt": "A música de Weill para A Ópera dos Três Vinténs tornou-se um dos sons mais reconhecíveis da cultura de Weimar. Depois da chegada dos nazis ao poder, Weill, que era judeu, deixou a Alemanha.",
+          "nl": "Weills muziek voor De Driestuiversopera werd een van de herkenbaarste klanken van de Weimarcultuur. Nadat de nazi's aan de macht kwamen, verliet Weill, die Joods was, Duitsland.",
+          "pl": "Muzyka Weilla do Opery za trzy grosze stała się jednym z najbardziej rozpoznawalnych brzmień kultury weimarskiej. Po dojściu nazistów do władzy Weill, jako Żyd, opuścił Niemcy.",
+          "tr": "Weill'in Üç Kuruşluk Opera için yazdığı müzik, Weimar kültürünün en tanınan seslerinden biri oldu. Naziler iktidara geldikten sonra Yahudi olan Weill Almanya'yı terk etti.",
+          "zh": "魏尔为《三分钱歌剧》创作的音乐成为魏玛文化最易辨认的声音之一。纳粹上台后，身为犹太人的魏尔离开了德国。",
+          "ja": "ヴァイルの『三文オペラ』の音楽は、ワイマール文化を代表する最もよく知られた響きの一つとなりました。ナチスが権力を握った後、ユダヤ人であったヴァイルはドイツを去りました。",
+          "ko": "바일이 서푼짜리 오페라를 위해 쓴 음악은 바이마르 문화의 가장 알아보기 쉬운 소리 중 하나가 되었습니다. 나치가 권력을 잡은 뒤 유대인이었던 바일은 독일을 떠났습니다.",
+          "hi": "थ्रीपेनी ओपेरा के लिए वाइल का संगीत वाइमर संस्कृति की सबसे पहचानने योग्य ध्वनियों में से एक बन गया। नाजियों के सत्ता में आने के बाद, यहूदी होने के कारण वाइल ने जर्मनी छोड़ दिया।",
+          "ar": "أصبحت موسيقى فايل لأوبرا الثلاثة قروش أحد أكثر أصوات ثقافة فايمار تميزا. وبعد وصول النازيين إلى السلطة غادر فايل، وكان يهوديا، ألمانيا."
         },
         "importance": {
           "ru": "Это пример того, как искусство Веймара было прервано диктатурой и продолжилось в эмиграции.",
           "de": "Das ist ein Beispiel dafuer, wie Weimarer Kunst durch die Diktatur unterbrochen wurde und im Exil weiterlebte.",
-          "en": "It is an example of Weimar art being interrupted by dictatorship and continuing in exile."
+          "en": "It is an example of Weimar art being interrupted by dictatorship and continuing in exile.",
+          "fr": "C'est un exemple de l'art de Weimar interrompu par la dictature et poursuivi en exil.",
+          "es": "Es un ejemplo de cómo el arte de Weimar fue interrumpido por la dictadura y continuó en el exilio.",
+          "it": "È un esempio di arte di Weimar interrotta dalla dittatura e continuata in esilio.",
+          "pt": "É um exemplo de como a arte de Weimar foi interrompida pela ditadura e continuou no exílio.",
+          "nl": "Het is een voorbeeld van Weimarkunst die door de dictatuur werd onderbroken en in ballingschap verder leefde.",
+          "pl": "To przykład sztuki Weimaru przerwanej przez dyktaturę i kontynuowanej na emigracji.",
+          "tr": "Bu, Weimar sanatının diktatörlük tarafından kesintiye uğratılıp sürgünde devam etmesine bir örnektir.",
+          "zh": "这是魏玛艺术被独裁打断并在流亡中延续的例子。",
+          "ja": "これは、ワイマールの芸術が独裁によって断ち切られ、亡命先で続いた例です。",
+          "ko": "이는 바이마르 예술이 독재로 중단되고 망명지에서 이어진 사례입니다.",
+          "hi": "यह उदाहरण है कि वाइमर कला को तानाशाही ने बाधित किया, लेकिन वह निर्वासन में जारी रही।",
+          "ar": "إنه مثال على كيف قطع الحكم الدكتاتوري فن فايمار، لكنه استمر في المنفى."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Дессау есть Центр Курта Вайля, посвящённый его жизни и музыке.",
     "de": "In Dessau gibt es das Kurt-Weill-Zentrum zu seinem Leben und seiner Musik.",
-    "en": "Dessau has the Kurt Weill Centre dedicated to his life and music."
+    "en": "Dessau has the Kurt Weill Centre dedicated to his life and music.",
+    "fr": "Dessau possède un Centre Kurt Weill consacré à sa vie et à sa musique.",
+    "es": "Dessau cuenta con el Centro Kurt Weill, dedicado a su vida y su música.",
+    "it": "A Dessau c'è il Centro Kurt Weill, dedicato alla sua vita e alla sua musica.",
+    "pt": "Dessau tem o Centro Kurt Weill, dedicado à sua vida e música.",
+    "nl": "Dessau heeft het Kurt Weill Centrum, gewijd aan zijn leven en muziek.",
+    "pl": "W Dessau działa Centrum Kurta Weilla poświęcone jego życiu i muzyce.",
+    "tr": "Dessau'da onun yaşamına ve müziğine adanmış Kurt Weill Merkezi vardır.",
+    "zh": "德绍有一座库尔特·魏尔中心，致力于介绍他的生平和音乐。",
+    "ja": "デッサウには、彼の生涯と音楽に捧げられたクルト・ヴァイル・センターがあります。",
+    "ko": "데사우에는 그의 삶과 음악을 기리는 쿠르트 바일 센터가 있습니다.",
+    "hi": "डेसाउ में उनके जीवन और संगीत को समर्पित कुर्ट वाइल केंद्र है।",
+    "ar": "يوجد في ديساو مركز كورت فايل المخصص لحياته وموسيقاه."
   },
   "sources": [
     {

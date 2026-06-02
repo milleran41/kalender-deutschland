@@ -11,17 +11,53 @@
     "title": {
       "ru": "Погиб художник Франц Марк",
       "de": "Franz Marc faellt im Krieg",
-      "en": "Franz Marc dies in the war"
+      "en": "Franz Marc dies in the war",
+      "fr": "Le peintre Franz Marc meurt à la guerre",
+      "es": "El pintor Franz Marc muere en la guerra",
+      "it": "Il pittore Franz Marc muore in guerra",
+      "pt": "O pintor Franz Marc morre na guerra",
+      "nl": "Franz Marc sneuvelt in de oorlog",
+      "pl": "Malarz Franz Marc ginie na wojnie",
+      "tr": "Ressam Franz Marc savaşta öldü",
+      "zh": "画家弗朗茨·马克在战争中去世",
+      "ja": "画家フランツ・マルクが戦争で死去",
+      "ko": "화가 프란츠 마르크가 전쟁에서 사망하다",
+      "hi": "चित्रकार फ्रांज़ मार्क युद्ध में मारे गए",
+      "ar": "وفاة الرسام فرانتس مارك في الحرب"
     },
     "description": {
       "ru": "4 марта 1916 года у Вердена погиб немецкий художник Франц Марк, один из ключевых представителей экспрессионизма. Он был связан с группой «Синий всадник» и особенно известен картинами с животными.",
       "de": "Am 4. Maerz 1916 fiel der deutsche Maler Franz Marc bei Verdun. Er gehoerte zu den Schluesselfiguren des Expressionismus, war mit dem Blauen Reiter verbunden und wurde besonders durch seine Tierbilder bekannt.",
-      "en": "On 4 March 1916, German painter Franz Marc died near Verdun. He was a key figure of Expressionism, associated with Der Blaue Reiter, and became especially known for his animal paintings."
+      "en": "On 4 March 1916, German painter Franz Marc died near Verdun. He was a key figure of Expressionism, associated with Der Blaue Reiter, and became especially known for his animal paintings.",
+      "fr": "Le 4 mars 1916, le peintre allemand Franz Marc mourut près de Verdun. Figure clé de l'expressionnisme, il était lié au Blaue Reiter et devint surtout connu pour ses peintures d'animaux.",
+      "es": "El 4 de marzo de 1916 murió cerca de Verdún el pintor alemán Franz Marc. Fue una figura clave del expresionismo, asociado con Der Blaue Reiter, y se hizo especialmente conocido por sus pinturas de animales.",
+      "it": "Il 4 marzo 1916 il pittore tedesco Franz Marc morì vicino a Verdun. Fu una figura chiave dell'espressionismo, legata al Blaue Reiter, e divenne noto soprattutto per i suoi dipinti di animali.",
+      "pt": "Em 4 de março de 1916, o pintor alemão Franz Marc morreu perto de Verdun. Foi uma figura central do expressionismo, ligada ao Der Blaue Reiter, e tornou-se especialmente conhecido pelas pinturas de animais.",
+      "nl": "Op 4 maart 1916 sneuvelde de Duitse schilder Franz Marc bij Verdun. Hij was een sleutelfiguur van het expressionisme, verbonden met Der Blaue Reiter, en werd vooral bekend door zijn dierenschilderijen.",
+      "pl": "4 marca 1916 roku pod Verdun zginął niemiecki malarz Franz Marc. Był jedną z kluczowych postaci ekspresjonizmu, związany z grupą Der Blaue Reiter, i zasłynął zwłaszcza obrazami zwierząt.",
+      "tr": "4 Mart 1916'da Alman ressam Franz Marc Verdun yakınlarında öldü. Dışavurumculuğun kilit figürlerinden biriydi, Der Blaue Reiter ile bağlantılıydı ve özellikle hayvan resimleriyle tanındı.",
+      "zh": "1916年3月4日，德国画家弗朗茨·马克在凡尔登附近阵亡。他是表现主义的关键人物之一，与“蓝骑士”团体有关，并尤其以动物画闻名。",
+      "ja": "1916年3月4日、ドイツの画家フランツ・マルクはヴェルダン近郊で亡くなりました。彼は表現主義の重要人物であり、「青騎士」と関係し、特に動物を描いた作品で知られました。",
+      "ko": "1916년 3월 4일, 독일 화가 프란츠 마르크가 베르됭 근처에서 사망했습니다. 그는 표현주의의 핵심 인물이었고 Der Blaue Reiter와 관련이 있었으며 특히 동물 그림으로 유명했습니다.",
+      "hi": "4 मार्च 1916 को जर्मन चित्रकार फ्रांज़ मार्क वर्दाँ के पास मारे गए। वे अभिव्यक्तिवाद की प्रमुख हस्तियों में से एक थे, Der Blaue Reiter से जुड़े थे और विशेष रूप से पशु चित्रों के लिए प्रसिद्ध हुए।",
+      "ar": "في 4 مارس 1916 قُتل الرسام الألماني فرانتس مارك قرب فردان. كان شخصية رئيسية في التعبيرية، وارتبط بجماعة الفارس الأزرق، واشتهر خاصة بلوحاته عن الحيوانات."
     },
     "importance": {
       "ru": "Его смерть показывает, как Первая мировая война оборвала жизни и творческие пути целого поколения европейских художников.",
       "de": "Sein Tod zeigt, wie der Erste Weltkrieg die Lebenswege und kuenstlerischen Entwicklungen einer ganzen europaeischen Generation abbrach.",
-      "en": "His death shows how the First World War cut short the lives and artistic paths of a whole European generation."
+      "en": "His death shows how the First World War cut short the lives and artistic paths of a whole European generation.",
+      "fr": "Sa mort montre comment la Première Guerre mondiale a brisé les vies et les parcours artistiques de toute une génération européenne.",
+      "es": "Su muerte muestra cómo la Primera Guerra Mundial truncó las vidas y los caminos artísticos de toda una generación europea.",
+      "it": "La sua morte mostra come la Prima guerra mondiale abbia spezzato le vite e i percorsi artistici di un'intera generazione europea.",
+      "pt": "A sua morte mostra como a Primeira Guerra Mundial interrompeu vidas e trajetórias artísticas de toda uma geração europeia.",
+      "nl": "Zijn dood laat zien hoe de Eerste Wereldoorlog de levens en artistieke wegen van een hele Europese generatie afbrak.",
+      "pl": "Jego śmierć pokazuje, jak pierwsza wojna światowa przerwała życie i drogi twórcze całego pokolenia europejskich artystów.",
+      "tr": "Onun ölümü, Birinci Dünya Savaşı'nın bütün bir Avrupa sanatçı kuşağının yaşamlarını ve sanatsal yollarını nasıl yarıda kestiğini gösterir.",
+      "zh": "他的去世显示了第一次世界大战如何中断整整一代欧洲艺术家的生命和创作道路。",
+      "ja": "彼の死は、第一次世界大戦がヨーロッパの一世代全体の人生と芸術の道をいかに断ち切ったかを示しています。",
+      "ko": "그의 죽음은 제1차 세계대전이 유럽 예술가 한 세대 전체의 삶과 예술적 길을 어떻게 끊어 놓았는지를 보여 줍니다.",
+      "hi": "उनकी मृत्यु दिखाती है कि प्रथम विश्व युद्ध ने यूरोपीय कलाकारों की पूरी पीढ़ी के जीवन और रचनात्मक रास्तों को कैसे काट दिया।",
+      "ar": "تُظهر وفاته كيف قطعت الحرب العالمية الأولى حياة ومسارات فنية لجيل أوروبي كامل."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Художник «Синего всадника»",
           "de": "Kuenstler des Blauen Reiters",
-          "en": "Artist of Der Blaue Reiter"
+          "en": "Artist of Der Blaue Reiter",
+          "fr": "Artiste du Blaue Reiter",
+          "es": "Artista de Der Blaue Reiter",
+          "it": "Artista del Blaue Reiter",
+          "pt": "Artista do Der Blaue Reiter",
+          "nl": "Kunstenaar van Der Blaue Reiter",
+          "pl": "Artysta Der Blaue Reiter",
+          "tr": "Der Blaue Reiter sanatçısı",
+          "zh": "“蓝骑士”艺术家",
+          "ja": "「青騎士」の画家",
+          "ko": "Der Blaue Reiter의 화가",
+          "hi": "Der Blaue Reiter के कलाकार",
+          "ar": "فنان من جماعة الفارس الأزرق"
         },
         "description": {
           "ru": "Франц Марк вместе с Василием Кандинским стал одной из центральных фигур мюнхенского объединения «Синий всадник». Художники искали новый язык цвета, формы и внутреннего чувства.",
           "de": "Franz Marc wurde zusammen mit Wassily Kandinsky zu einer zentralen Figur der Muenchner Gruppe Der Blaue Reiter. Die Kuenstler suchten eine neue Sprache von Farbe, Form und innerem Ausdruck.",
-          "en": "Together with Wassily Kandinsky, Franz Marc became a central figure of the Munich group Der Blaue Reiter. The artists searched for a new language of color, form and inner expression."
+          "en": "Together with Wassily Kandinsky, Franz Marc became a central figure of the Munich group Der Blaue Reiter. The artists searched for a new language of color, form and inner expression.",
+          "fr": "Avec Vassily Kandinsky, Franz Marc devint une figure centrale du groupe munichois Der Blaue Reiter. Les artistes cherchaient un nouveau langage de la couleur, de la forme et de l'expression intérieure.",
+          "es": "Junto con Vasili Kandinsky, Franz Marc se convirtió en una figura central del grupo muniqués Der Blaue Reiter. Los artistas buscaban un nuevo lenguaje de color, forma y expresión interior.",
+          "it": "Insieme a Wassily Kandinsky, Franz Marc divenne una figura centrale del gruppo monacense Der Blaue Reiter. Gli artisti cercavano un nuovo linguaggio di colore, forma ed espressione interiore.",
+          "pt": "Juntamente com Wassily Kandinsky, Franz Marc tornou-se uma figura central do grupo de Munique Der Blaue Reiter. Os artistas procuravam uma nova linguagem de cor, forma e expressão interior.",
+          "nl": "Samen met Wassily Kandinsky werd Franz Marc een centrale figuur van de Münchense groep Der Blaue Reiter. De kunstenaars zochten naar een nieuwe taal van kleur, vorm en innerlijke expressie.",
+          "pl": "Wraz z Wassilym Kandinskym Franz Marc stał się centralną postacią monachijskiej grupy Der Blaue Reiter. Artyści szukali nowego języka koloru, formy i wewnętrznego wyrazu.",
+          "tr": "Franz Marc, Wassily Kandinsky ile birlikte Münihli Der Blaue Reiter grubunun merkezi figürlerinden biri oldu. Sanatçılar renk, biçim ve içsel ifadenin yeni bir dilini arıyordu.",
+          "zh": "弗朗茨·马克与瓦西里·康定斯基一起成为慕尼黑“蓝骑士”团体的核心人物。艺术家们寻求色彩、形式和内在表达的新语言。",
+          "ja": "フランツ・マルクはワシリー・カンディンスキーとともに、ミュンヘンのグループ「青騎士」の中心人物となりました。芸術家たちは色、形、内面的表現の新しい言語を探していました。",
+          "ko": "프란츠 마르크는 바실리 칸딘스키와 함께 뮌헨 그룹 Der Blaue Reiter의 중심 인물이 되었습니다. 예술가들은 색, 형태, 내면 표현의 새로운 언어를 찾았습니다.",
+          "hi": "वसीली कांडिंस्की के साथ फ्रांज़ मार्क म्यूनिख समूह Der Blaue Reiter की केंद्रीय हस्तियों में से एक बने। कलाकार रंग, रूप और आंतरिक अभिव्यक्ति की नई भाषा खोज रहे थे।",
+          "ar": "أصبح فرانتس مارك، مع فاسيلي كاندينسكي، شخصية مركزية في جماعة الفارس الأزرق في ميونخ. كان الفنانون يبحثون عن لغة جديدة للون والشكل والتعبير الداخلي."
         },
         "importance": {
           "ru": "Через Марка хорошо видно, почему Мюнхен был важным центром модернизма.",
           "de": "An Marc laesst sich gut erkennen, warum Muenchen ein wichtiger Ort der Moderne war.",
-          "en": "Marc helps show why Munich was an important center of modern art."
+          "en": "Marc helps show why Munich was an important center of modern art.",
+          "fr": "Marc aide à comprendre pourquoi Munich fut un centre important de l'art moderne.",
+          "es": "Marc ayuda a mostrar por qué Múnich fue un centro importante del arte moderno.",
+          "it": "Marc aiuta a capire perché Monaco fu un importante centro dell'arte moderna.",
+          "pt": "Marc ajuda a mostrar por que Munique foi um centro importante da arte moderna.",
+          "nl": "Marc laat goed zien waarom München een belangrijk centrum van moderne kunst was.",
+          "pl": "Marc pomaga zrozumieć, dlaczego Monachium było ważnym centrum sztuki nowoczesnej.",
+          "tr": "Marc, Münih'in neden modern sanatın önemli bir merkezi olduğunu göstermeye yardımcı olur.",
+          "zh": "马克有助于说明为什么慕尼黑是现代艺术的重要中心。",
+          "ja": "マルクを通じて、ミュンヘンが近代美術の重要な中心地であった理由がよくわかります。",
+          "ko": "마르크는 뮌헨이 왜 현대 미술의 중요한 중심지였는지 보여 줍니다.",
+          "hi": "मार्क से समझ आता है कि म्यूनिख आधुनिक कला का महत्वपूर्ण केंद्र क्यों था।",
+          "ar": "يساعد مارك على توضيح سبب كون ميونخ مركزا مهما للفن الحديث."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Искусство и война",
           "de": "Kunst und Krieg",
-          "en": "Art and war"
+          "en": "Art and war",
+          "fr": "Art et guerre",
+          "es": "Arte y guerra",
+          "it": "Arte e guerra",
+          "pt": "Arte e guerra",
+          "nl": "Kunst en oorlog",
+          "pl": "Sztuka i wojna",
+          "tr": "Sanat ve savaş",
+          "zh": "艺术与战争",
+          "ja": "芸術と戦争",
+          "ko": "예술과 전쟁",
+          "hi": "कला और युद्ध",
+          "ar": "الفن والحرب"
         },
         "description": {
           "ru": "До войны Марк писал яркие, символические картины, где животные часто выглядели чище и гармоничнее человеческого мира. Война резко оборвала этот художественный поиск.",
           "de": "Vor dem Krieg malte Marc leuchtende, symbolische Bilder, in denen Tiere oft reiner und harmonischer wirkten als die Menschenwelt. Der Krieg beendete diese kuenstlerische Suche abrupt.",
-          "en": "Before the war, Marc painted bright, symbolic works in which animals often seemed purer and more harmonious than the human world. The war abruptly ended that artistic search."
+          "en": "Before the war, Marc painted bright, symbolic works in which animals often seemed purer and more harmonious than the human world. The war abruptly ended that artistic search.",
+          "fr": "Avant la guerre, Marc peignait des œuvres lumineuses et symboliques où les animaux semblaient souvent plus purs et harmonieux que le monde humain. La guerre mit brutalement fin à cette recherche artistique.",
+          "es": "Antes de la guerra, Marc pintaba obras brillantes y simbólicas en las que los animales a menudo parecían más puros y armoniosos que el mundo humano. La guerra interrumpió bruscamente esa búsqueda artística.",
+          "it": "Prima della guerra, Marc dipingeva opere luminose e simboliche in cui gli animali spesso sembravano più puri e armoniosi del mondo umano. La guerra interruppe bruscamente quella ricerca artistica.",
+          "pt": "Antes da guerra, Marc pintava obras luminosas e simbólicas nas quais os animais pareciam muitas vezes mais puros e harmoniosos do que o mundo humano. A guerra interrompeu abruptamente essa busca artística.",
+          "nl": "Voor de oorlog schilderde Marc heldere, symbolische werken waarin dieren vaak zuiverder en harmonieuzer leken dan de mensenwereld. De oorlog beëindigde die artistieke zoektocht abrupt.",
+          "pl": "Przed wojną Marc malował jasne, symboliczne obrazy, w których zwierzęta często wydawały się czystsze i bardziej harmonijne niż świat ludzi. Wojna gwałtownie przerwała te poszukiwania artystyczne.",
+          "tr": "Savaştan önce Marc, hayvanların çoğu zaman insan dünyasından daha saf ve uyumlu göründüğü parlak, sembolik eserler yapıyordu. Savaş bu sanatsal arayışı aniden sona erdirdi.",
+          "zh": "战前，马克创作明亮而象征性的作品，其中动物常显得比人类世界更纯净、更和谐。战争突然终止了这种艺术探索。",
+          "ja": "戦前、マルクは明るく象徴的な作品を描き、そこでは動物が人間の世界よりも純粋で調和しているように見えることが多くありました。戦争はその芸術的探求を突然終わらせました。",
+          "ko": "전쟁 전 마르크는 동물이 인간 세계보다 더 순수하고 조화롭게 보이는 밝고 상징적인 작품을 그렸습니다. 전쟁은 그 예술적 탐구를 갑자기 끝냈습니다.",
+          "hi": "युद्ध से पहले मार्क चमकीली, प्रतीकात्मक रचनाएँ बनाते थे जिनमें पशु अक्सर मानव संसार से अधिक शुद्ध और सामंजस्यपूर्ण दिखते थे। युद्ध ने इस कलात्मक खोज को अचानक समाप्त कर दिया।",
+          "ar": "قبل الحرب رسم مارك أعمالا زاهية ورمزية بدت فيها الحيوانات غالبا أنقى وأكثر انسجاما من عالم البشر. وأنهت الحرب هذا البحث الفني فجأة."
         },
         "importance": {
           "ru": "Это делает его биографию понятной даже школьнику: за красивыми картинами стоит трагедия эпохи.",
           "de": "Das macht seine Biografie auch fuer Schueler gut verstaendlich: Hinter den schoenen Bildern steht die Tragik einer Epoche.",
-          "en": "It makes his biography easy to grasp: behind the beautiful paintings stands the tragedy of an era."
+          "en": "It makes his biography easy to grasp: behind the beautiful paintings stands the tragedy of an era.",
+          "fr": "Cela rend sa biographie facile à comprendre: derrière les beaux tableaux se trouve la tragédie d'une époque.",
+          "es": "Esto hace que su biografía sea fácil de entender: detrás de los cuadros hermosos está la tragedia de una época.",
+          "it": "Questo rende la sua biografia facile da capire: dietro i bei dipinti sta la tragedia di un'epoca.",
+          "pt": "Isto torna a sua biografia fácil de compreender: por trás dos belos quadros está a tragédia de uma época.",
+          "nl": "Dit maakt zijn biografie goed te begrijpen: achter de mooie schilderijen staat de tragedie van een tijdperk.",
+          "pl": "To sprawia, że jego biografia jest zrozumiała nawet dla ucznia: za pięknymi obrazami stoi tragedia epoki.",
+          "tr": "Bu, biyografisini anlaşılır kılar: güzel tabloların arkasında bir çağın trajedisi vardır.",
+          "zh": "这让他的传记容易理解：美丽画作背后站着一个时代的悲剧。",
+          "ja": "そのため彼の伝記は理解しやすくなります。美しい絵画の背後には、一つの時代の悲劇があります。",
+          "ko": "이는 그의 전기를 쉽게 이해하게 합니다. 아름다운 그림 뒤에는 한 시대의 비극이 있습니다.",
+          "hi": "इससे उनकी जीवनी समझना आसान हो जाता है: सुंदर चित्रों के पीछे एक युग की त्रासदी है।",
+          "ar": "يجعل ذلك سيرته سهلة الفهم: فخلف اللوحات الجميلة تقف مأساة عصر كامل."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Франц Марк родился в Мюнхене, а погиб во Франции во время битвы под Верденом.",
     "de": "Franz Marc wurde in Muenchen geboren und fiel in Frankreich waehrend der Schlacht um Verdun.",
-    "en": "Franz Marc was born in Munich and died in France during the Battle of Verdun."
+    "en": "Franz Marc was born in Munich and died in France during the Battle of Verdun.",
+    "fr": "Franz Marc est né à Munich et mourut en France pendant la bataille de Verdun.",
+    "es": "Franz Marc nació en Múnich y murió en Francia durante la batalla de Verdún.",
+    "it": "Franz Marc nacque a Monaco e morì in Francia durante la battaglia di Verdun.",
+    "pt": "Franz Marc nasceu em Munique e morreu em França durante a Batalha de Verdun.",
+    "nl": "Franz Marc werd in München geboren en stierf in Frankrijk tijdens de Slag bij Verdun.",
+    "pl": "Franz Marc urodził się w Monachium, a zginął we Francji podczas bitwy pod Verdun.",
+    "tr": "Franz Marc Münih'te doğdu ve Verdun Muharebesi sırasında Fransa'da öldü.",
+    "zh": "弗朗茨·马克出生于慕尼黑，并在凡尔登战役期间死于法国。",
+    "ja": "フランツ・マルクはミュンヘンで生まれ、ヴェルダンの戦いのさなかにフランスで亡くなりました。",
+    "ko": "프란츠 마르크는 뮌헨에서 태어났고 베르됭 전투 중 프랑스에서 사망했습니다.",
+    "hi": "फ्रांज़ मार्क का जन्म म्यूनिख में हुआ और वे वर्दाँ की लड़ाई के दौरान फ्रांस में मारे गए।",
+    "ar": "وُلد فرانتس مارك في ميونخ وقُتل في فرنسا أثناء معركة فردان."
   },
   "sources": [
     {
