@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Рихард Вагнер",
       "de": "Richard Wagner wird geboren",
-      "en": "Richard Wagner is born"
+      "en": "Richard Wagner is born",
+      "fr": "Naissance de Richard Wagner",
+      "es": "Nace Richard Wagner",
+      "it": "Nasce Richard Wagner",
+      "pt": "Nasce Richard Wagner",
+      "nl": "Richard Wagner wordt geboren",
+      "pl": "Rodzi sie Richard Wagner",
+      "tr": "Richard Wagner dogar",
+      "zh": "理查德·瓦格纳出生",
+      "ja": "リヒャルト・ワーグナーが生まれる",
+      "ko": "리하르트 바그너가 태어나다",
+      "hi": "रिखार्ड वाग्नर का जन्म",
+      "ar": "مولد ريتشارد فاغنر"
     },
     "description": {
       "ru": "22 мая 1813 года в Лейпциге родился композитор Рихард Вагнер. Его оперы и музыкальные идеи сильно повлияли на развитие европейской музыки.",
       "de": "Am 22. Mai 1813 wurde der Komponist Richard Wagner in Leipzig geboren. Seine Opern und musikalischen Ideen beeinflussten die europaeische Musik stark.",
-      "en": "On 22 May 1813, composer Richard Wagner was born in Leipzig. His operas and musical ideas had a strong influence on European music."
+      "en": "On 22 May 1813, composer Richard Wagner was born in Leipzig. His operas and musical ideas had a strong influence on European music.",
+      "fr": "Le 22 mai 1813, le compositeur Richard Wagner naquit a Leipzig. Ses operas et ses idees musicales exercerent une forte influence sur la musique europeenne.",
+      "es": "El 22 de mayo de 1813 nacio en Leipzig el compositor Richard Wagner. Sus operas e ideas musicales influyeron profundamente en la musica europea.",
+      "it": "Il 22 maggio 1813 nacque a Lipsia il compositore Richard Wagner. Le sue opere e le sue idee musicali influenzarono fortemente la musica europea.",
+      "pt": "Em 22 de maio de 1813, o compositor Richard Wagner nasceu em Leipzig. Suas operas e ideias musicais tiveram forte influencia na musica europeia.",
+      "nl": "Op 22 mei 1813 werd componist Richard Wagner in Leipzig geboren. Zijn opera's en muzikale ideeen hadden grote invloed op de Europese muziek.",
+      "pl": "22 maja 1813 roku w Lipsku urodzil sie kompozytor Richard Wagner. Jego opery i idee muzyczne silnie wplynely na muzyke europejska.",
+      "tr": "22 Mayis 1813'te besteci Richard Wagner Leipzig'de dogdu. Operalari ve muzik fikirleri Avrupa muzigi uzerinde guclu bir etki birakti.",
+      "zh": "1813年5月22日，作曲家理查德·瓦格纳出生于莱比锡。他的歌剧和音乐理念对欧洲音乐产生了深远影响。",
+      "ja": "1813年5月22日、作曲家リヒャルト・ワーグナーはライプツィヒで生まれました。彼のオペラと音楽思想はヨーロッパ音楽に大きな影響を与えました。",
+      "ko": "1813년 5월 22일 작곡가 리하르트 바그너가 라이프치히에서 태어났습니다. 그의 오페라와 음악 사상은 유럽 음악에 큰 영향을 주었습니다.",
+      "hi": "22 मई 1813 को संगीतकार रिखार्ड वाग्नर का जन्म लाइपज़िग में हुआ। उनके ओपेरा और संगीत विचारों ने यूरोपीय संगीत पर गहरा प्रभाव डाला।",
+      "ar": "في 22 مايو 1813 ولد المؤلف الموسيقي ريتشارد فاغنر في لايبزيغ. وكان لاوبراته وافكاره الموسيقية تأثير قوي في الموسيقى الاوروبية."
     },
     "importance": {
       "ru": "Вагнер связан с Байройтом, музыкальной драмой и одним из самых спорных наследий немецкой культуры.",
       "de": "Wagner ist mit Bayreuth, dem Musikdrama und einem der umstrittensten Erben deutscher Kultur verbunden.",
-      "en": "Wagner is linked with Bayreuth, music drama and one of the most debated legacies in German culture."
+      "en": "Wagner is linked with Bayreuth, music drama and one of the most debated legacies in German culture.",
+      "fr": "Wagner est associe a Bayreuth, au drame musical et a l'un des heritages les plus discutes de la culture allemande.",
+      "es": "Wagner esta vinculado con Bayreuth, el drama musical y uno de los legados mas discutidos de la cultura alemana.",
+      "it": "Wagner e legato a Bayreuth, al dramma musicale e a una delle eredita piu discusse della cultura tedesca.",
+      "pt": "Wagner esta ligado a Bayreuth, ao drama musical e a um dos legados mais debatidos da cultura alema.",
+      "nl": "Wagner is verbonden met Bayreuth, muziekdrama en een van de meest besproken erfenissen in de Duitse cultuur.",
+      "pl": "Wagner wiaze sie z Bayreuth, dramatem muzycznym i jednym z najbardziej dyskutowanych dziedzictw kultury niemieckiej.",
+      "tr": "Wagner, Bayreuth, muzikli dram ve Alman kulturunun en cok tartisilan miraslarindan biriyle baglantilidir.",
+      "zh": "瓦格纳同拜罗伊特、音乐戏剧以及德国文化中最具争议的遗产之一联系在一起。",
+      "ja": "ワーグナーはバイロイト、楽劇、そしてドイツ文化で最も議論される遺産の一つと結び付いています。",
+      "ko": "바그너는 바이로이트, 음악극, 그리고 독일 문화에서 가장 논쟁적인 유산 중 하나와 연결되어 있습니다.",
+      "hi": "वाग्नर का संबंध बेयरॉयथ, संगीत-नाटक और जर्मन संस्कृति की सबसे विवादित विरासतों में से एक से है।",
+      "ar": "يرتبط فاغنر ببايرويت وبالدراما الموسيقية وبواحد من اكثر الموروثات اثارة للجدل في الثقافة الالمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Байройтский фестиваль",
           "de": "Bayreuther Festspiele",
-          "en": "Bayreuth Festival"
+          "en": "Bayreuth Festival",
+          "fr": "Festival de Bayreuth",
+          "es": "Festival de Bayreuth",
+          "it": "Festival di Bayreuth",
+          "pt": "Festival de Bayreuth",
+          "nl": "Bayreuther Festspiele",
+          "pl": "Festiwal w Bayreuth",
+          "tr": "Bayreuth Festivali",
+          "zh": "拜罗伊特音乐节",
+          "ja": "バイロイト音楽祭",
+          "ko": "바이로이트 축제",
+          "hi": "बेयरॉयथ महोत्सव",
+          "ar": "مهرجان بايرويت"
         },
         "description": {
           "ru": "Вагнер создал в Байройте театр для исполнения своих произведений. Фестиваль до сих пор остаётся важным событием музыкального мира.",
           "de": "Wagner schuf in Bayreuth ein Theater fuer seine Werke. Die Festspiele sind bis heute ein wichtiges Ereignis der Musikwelt.",
-          "en": "Wagner created a theatre in Bayreuth for his works. The festival remains an important event in the musical world."
+          "en": "Wagner created a theatre in Bayreuth for his works. The festival remains an important event in the musical world.",
+          "fr": "Wagner crea a Bayreuth un theatre pour ses oeuvres. Le festival reste aujourd'hui un evenement important du monde musical.",
+          "es": "Wagner creo en Bayreuth un teatro para sus obras. El festival sigue siendo un acontecimiento importante del mundo musical.",
+          "it": "Wagner creo a Bayreuth un teatro per le sue opere. Il festival resta ancora oggi un evento importante del mondo musicale.",
+          "pt": "Wagner criou em Bayreuth um teatro para suas obras. O festival continua sendo um evento importante do mundo musical.",
+          "nl": "Wagner bouwde in Bayreuth een theater voor zijn werken. Het festival blijft tot vandaag een belangrijk evenement in de muziekwereld.",
+          "pl": "Wagner stworzyl w Bayreuth teatr dla swoich dziel. Festiwal do dzis pozostaje waznym wydarzeniem swiata muzyki.",
+          "tr": "Wagner, eserleri icin Bayreuth'ta bir tiyatro kurdu. Festival bugun de muzik dunyasinin onemli bir etkinligi olarak kalir.",
+          "zh": "瓦格纳在拜罗伊特为自己的作品建造了一座剧院。该音乐节至今仍是音乐世界的重要事件。",
+          "ja": "ワーグナーは自作を上演するためにバイロイトに劇場を作りました。この音楽祭は今も音楽界の重要な催しです。",
+          "ko": "바그너는 자신의 작품을 위해 바이로이트에 극장을 만들었습니다. 이 축제는 오늘날에도 음악계의 중요한 행사로 남아 있습니다.",
+          "hi": "वाग्नर ने अपनी रचनाओं के लिए बेयरॉयथ में एक रंगमंच बनाया। यह महोत्सव आज भी संगीत जगत की महत्वपूर्ण घटना है।",
+          "ar": "انشأ فاغنر في بايرويت مسرحا لاعماله. ولا يزال المهرجان حدثا مهما في عالم الموسيقى."
         },
         "importance": {
           "ru": "Это пример того, как один композитор смог изменить не только музыку, но и театр.",
           "de": "Das ist ein Beispiel dafuer, wie ein Komponist nicht nur Musik, sondern auch Theater veraenderte.",
-          "en": "It is an example of one composer changing not only music but theatre."
+          "en": "It is an example of one composer changing not only music but theatre.",
+          "fr": "C'est un exemple d'un compositeur qui a change non seulement la musique, mais aussi le theatre.",
+          "es": "Es un ejemplo de como un compositor pudo cambiar no solo la musica, sino tambien el teatro.",
+          "it": "E un esempio di come un compositore abbia cambiato non solo la musica, ma anche il teatro.",
+          "pt": "E um exemplo de como um compositor mudou nao apenas a musica, mas tambem o teatro.",
+          "nl": "Het is een voorbeeld van hoe een componist niet alleen muziek, maar ook theater veranderde.",
+          "pl": "To przyklad tego, jak jeden kompozytor mogl zmienic nie tylko muzyke, ale i teatr.",
+          "tr": "Bu, bir bestecinin yalnizca muzigi degil tiyatroyu da nasil degistirebildigine ornektir.",
+          "zh": "这是一个作曲家不仅改变音乐，也改变戏剧的例子。",
+          "ja": "これは一人の作曲家が音楽だけでなく劇場も変えた例です。",
+          "ko": "이는 한 작곡가가 음악뿐 아니라 극장까지 바꿀 수 있음을 보여 주는 예입니다.",
+          "hi": "यह उदाहरण है कि एक संगीतकार ने केवल संगीत ही नहीं, रंगमंच को भी बदल दिया।",
+          "ar": "انه مثال على كيف استطاع مؤلف واحد ان يغير ليس الموسيقى فقط بل المسرح ايضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Наследие Вагнера часто обсуждают не только из-за музыки, но и из-за его антисемитских взглядов и позднейшего использования его образа нацистами.",
     "de": "Wagners Erbe wird nicht nur wegen seiner Musik diskutiert, sondern auch wegen seines Antisemitismus und der spaeteren Vereinnahmung durch die Nationalsozialisten.",
-    "en": "Wagner's legacy is debated not only because of his music but also because of his antisemitism and later appropriation by the Nazis."
+    "en": "Wagner's legacy is debated not only because of his music but also because of his antisemitism and later appropriation by the Nazis.",
+    "fr": "L'heritage de Wagner est discute non seulement pour sa musique, mais aussi pour son antisemitisme et sa recuperation ulterieure par les nazis.",
+    "es": "El legado de Wagner se debate no solo por su musica, sino tambien por su antisemitismo y la apropiacion posterior de su figura por los nazis.",
+    "it": "L'eredita di Wagner e discussa non solo per la sua musica, ma anche per il suo antisemitismo e per la successiva appropriazione da parte dei nazisti.",
+    "pt": "O legado de Wagner e debatido nao apenas por sua musica, mas tambem por seu antissemitismo e pela apropriacao posterior pelos nazistas.",
+    "nl": "Wagners erfenis wordt niet alleen vanwege zijn muziek besproken, maar ook vanwege zijn antisemitisme en de latere toe-eigening door de nazi's.",
+    "pl": "Dziedzictwo Wagnera budzi dyskusje nie tylko z powodu muzyki, lecz takze jego antysemityzmu i pozniejszego zawlaszczenia przez nazistow.",
+    "tr": "Wagner'in mirasi yalnizca muzigi nedeniyle degil, antisemitizmi ve daha sonra Naziler tarafindan sahiplenilmesi nedeniyle de tartisilir.",
+    "zh": "瓦格纳的遗产之所以引发争论，不仅因为他的音乐，也因为他的反犹主义以及后来被纳粹利用。",
+    "ja": "ワーグナーの遺産は、音楽だけでなく、彼の反ユダヤ主義や後にナチスに利用されたことでも議論されています。",
+    "ko": "바그너의 유산은 그의 음악뿐 아니라 반유대주의와 훗날 나치가 그 이미지를 이용한 일 때문에도 논쟁됩니다.",
+    "hi": "वाग्नर की विरासत पर चर्चा केवल उनके संगीत के कारण नहीं, बल्कि उनके यहूदी-विरोध और बाद में नाजियों द्वारा उनके उपयोग के कारण भी होती है।",
+    "ar": "يُناقش ارث فاغنر ليس بسبب موسيقاه فقط، بل ايضا بسبب معاداته للسامية واستغلال النازيين اللاحق لصورته."
   },
   "sources": [
     {

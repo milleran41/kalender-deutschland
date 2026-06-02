@@ -11,17 +11,53 @@
     "title": {
       "ru": "Обнародован Основной закон ФРГ",
       "de": "Das Grundgesetz wird verkuendet",
-      "en": "The Basic Law is promulgated"
+      "en": "The Basic Law is promulgated",
+      "fr": "La Loi fondamentale est promulguee",
+      "es": "Se promulga la Ley Fundamental",
+      "it": "Viene promulgata la Legge fondamentale",
+      "pt": "A Lei Fundamental e promulgada",
+      "nl": "De Basiswet wordt afgekondigd",
+      "pl": "Ogloszono Ustawe Zasadnicza",
+      "tr": "Temel Yasa ilan edilir",
+      "zh": "《基本法》公布",
+      "ja": "基本法が公布される",
+      "ko": "기본법이 공포되다",
+      "hi": "मूल विधि की घोषणा",
+      "ar": "اعلان القانون الاساسي"
     },
     "description": {
       "ru": "23 мая 1949 года в Бонне был подписан и обнародован Основной закон Федеративной Республики Германия. Он стал конституционной основой западногерманского государства.",
       "de": "Am 23. Mai 1949 wurde in Bonn das Grundgesetz der Bundesrepublik Deutschland unterzeichnet und verkuendet. Es wurde zur verfassungsrechtlichen Grundlage des westdeutschen Staates.",
-      "en": "On 23 May 1949, the Basic Law of the Federal Republic of Germany was signed and promulgated in Bonn. It became the constitutional foundation of West Germany."
+      "en": "On 23 May 1949, the Basic Law of the Federal Republic of Germany was signed and promulgated in Bonn. It became the constitutional foundation of West Germany.",
+      "fr": "Le 23 mai 1949, la Loi fondamentale de la Republique federale d'Allemagne fut signee et promulguee a Bonn. Elle devint le fondement constitutionnel de l'Allemagne de l'Ouest.",
+      "es": "El 23 de mayo de 1949, la Ley Fundamental de la Republica Federal de Alemania fue firmada y promulgada en Bonn. Se convirtio en la base constitucional de Alemania Occidental.",
+      "it": "Il 23 maggio 1949 la Legge fondamentale della Repubblica Federale di Germania fu firmata e promulgata a Bonn. Divenne il fondamento costituzionale della Germania Ovest.",
+      "pt": "Em 23 de maio de 1949, a Lei Fundamental da Republica Federal da Alemanha foi assinada e promulgada em Bonn. Ela se tornou a base constitucional da Alemanha Ocidental.",
+      "nl": "Op 23 mei 1949 werd de Basiswet van de Bondsrepubliek Duitsland in Bonn ondertekend en afgekondigd. Zij werd de constitutionele grondslag van West-Duitsland.",
+      "pl": "23 maja 1949 roku w Bonn podpisano i ogloszono Ustawe Zasadnicza Republiki Federalnej Niemiec. Stala sie ona konstytucyjna podstawa Niemiec Zachodnich.",
+      "tr": "23 Mayis 1949'da Almanya Federal Cumhuriyeti'nin Temel Yasasi Bonn'da imzalandi ve ilan edildi. Bati Almanya'nin anayasal temeli oldu.",
+      "zh": "1949年5月23日，德意志联邦共和国《基本法》在波恩签署并公布。它成为西德国家的宪法基础。",
+      "ja": "1949年5月23日、ドイツ連邦共和国の基本法がボンで署名され公布されました。これは西ドイツ国家の憲法上の基礎となりました。",
+      "ko": "1949년 5월 23일 독일연방공화국의 기본법이 본에서 서명되고 공포되었습니다. 이 법은 서독 국가의 헌법적 토대가 되었습니다.",
+      "hi": "23 मई 1949 को जर्मनी के संघीय गणराज्य की मूल विधि पर बॉन में हस्ताक्षर हुए और उसे घोषित किया गया। यह पश्चिम जर्मनी की संवैधानिक नींव बनी।",
+      "ar": "في 23 مايو 1949 وُقع القانون الاساسي لجمهورية المانيا الاتحادية واعلن في بون. واصبح الاساس الدستوري لالمانيا الغربية."
     },
     "importance": {
       "ru": "После 1990 года Основной закон стал конституцией объединённой Германии.",
       "de": "Nach 1990 wurde das Grundgesetz zur Verfassung des vereinten Deutschlands.",
-      "en": "After 1990, the Basic Law became the constitution of reunified Germany."
+      "en": "After 1990, the Basic Law became the constitution of reunified Germany.",
+      "fr": "Apres 1990, la Loi fondamentale devint la constitution de l'Allemagne reunifiee.",
+      "es": "Despues de 1990, la Ley Fundamental se convirtio en la constitucion de la Alemania reunificada.",
+      "it": "Dopo il 1990, la Legge fondamentale divenne la costituzione della Germania riunificata.",
+      "pt": "Depois de 1990, a Lei Fundamental tornou-se a constituicao da Alemanha reunificada.",
+      "nl": "Na 1990 werd de Basiswet de grondwet van het herenigde Duitsland.",
+      "pl": "Po 1990 roku Ustawa Zasadnicza stala sie konstytucja zjednoczonych Niemiec.",
+      "tr": "1990'dan sonra Temel Yasa yeniden birlesmis Almanya'nin anayasasi oldu.",
+      "zh": "1990年以后，《基本法》成为统一德国的宪法。",
+      "ja": "1990年以後、基本法は再統一ドイツの憲法となりました。",
+      "ko": "1990년 이후 기본법은 통일 독일의 헌법이 되었습니다.",
+      "hi": "1990 के बाद मूल विधि एकीकृत जर्मनी का संविधान बन गई।",
+      "ar": "بعد عام 1990 اصبح القانون الاساسي دستور المانيا الموحدة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Бонн стал политическим центром ФРГ",
           "de": "Bonn wird politisches Zentrum der Bundesrepublik",
-          "en": "Bonn becomes West Germany's political center"
+          "en": "Bonn becomes West Germany's political center",
+          "fr": "Bonn devient le centre politique de l'Allemagne de l'Ouest",
+          "es": "Bonn se convierte en el centro politico de Alemania Occidental",
+          "it": "Bonn diventa il centro politico della Germania Ovest",
+          "pt": "Bonn torna-se o centro politico da Alemanha Ocidental",
+          "nl": "Bonn wordt het politieke centrum van West-Duitsland",
+          "pl": "Bonn staje sie politycznym centrum RFN",
+          "tr": "Bonn Bati Almanya'nin siyasi merkezi olur",
+          "zh": "波恩成为西德的政治中心",
+          "ja": "ボンが西ドイツの政治中心となる",
+          "ko": "본이 서독의 정치 중심지가 되다",
+          "hi": "बॉन पश्चिम जर्मनी का राजनीतिक केंद्र बना",
+          "ar": "بون تصبح المركز السياسي لالمانيا الغربية"
         },
         "description": {
           "ru": "Новая Федеративная Республика Германия строилась вокруг временной столицы в Бонне. Это подчёркивало, что разделение страны не считалось окончательным.",
           "de": "Die neue Bundesrepublik Deutschland entstand mit Bonn als provisorischem politischem Zentrum. Das zeigte, dass die Teilung des Landes nicht als endgueltig galt.",
-          "en": "The new Federal Republic of Germany was built around Bonn as a provisional political center. This showed that the division of the country was not seen as final."
+          "en": "The new Federal Republic of Germany was built around Bonn as a provisional political center. This showed that the division of the country was not seen as final.",
+          "fr": "La nouvelle Republique federale d'Allemagne se construisit autour de Bonn comme centre politique provisoire. Cela montrait que la division du pays n'etait pas consideree comme definitive.",
+          "es": "La nueva Republica Federal de Alemania se construyo alrededor de Bonn como centro politico provisional. Esto mostraba que la division del pais no se consideraba definitiva.",
+          "it": "La nuova Repubblica Federale di Germania si costrui attorno a Bonn come centro politico provvisorio. Cio mostrava che la divisione del paese non era considerata definitiva.",
+          "pt": "A nova Republica Federal da Alemanha foi construida em torno de Bonn como centro politico provisorio. Isso mostrava que a divisao do pais nao era vista como definitiva.",
+          "nl": "De nieuwe Bondsrepubliek Duitsland werd opgebouwd rond Bonn als voorlopig politiek centrum. Dit liet zien dat de deling van het land niet als definitief werd beschouwd.",
+          "pl": "Nowa Republika Federalna Niemiec powstawala wokol Bonn jako tymczasowego centrum politycznego. Pokazywalo to, ze podzial kraju nie byl uznawany za ostateczny.",
+          "tr": "Yeni Almanya Federal Cumhuriyeti, gecici siyasi merkez olarak Bonn etrafinda kuruldu. Bu, ulkenin bolunmesinin nihai sayilmadigini gosteriyordu.",
+          "zh": "新的德意志联邦共和国以波恩为临时政治中心建立起来。这表明国家分裂并未被视为最终状态。",
+          "ja": "新しいドイツ連邦共和国は、ボンを暫定的な政治中心として形づくられました。これは国の分断が最終的なものとは見なされていなかったことを示しています。",
+          "ko": "새로운 독일연방공화국은 본을 임시 정치 중심으로 삼아 세워졌습니다. 이는 국가 분단이 최종적인 것으로 여겨지지 않았음을 보여 주었습니다.",
+          "hi": "नया जर्मनी संघीय गणराज्य बॉन को अस्थायी राजनीतिक केंद्र बनाकर बना। इससे दिखा कि देश के विभाजन को अंतिम नहीं माना गया था।",
+          "ar": "تأسست جمهورية المانيا الاتحادية الجديدة حول بون كمركز سياسي مؤقت. وكان ذلك يوضح ان تقسيم البلاد لم يُنظر اليه كأمر نهائي."
         },
         "importance": {
           "ru": "История Бонна помогает понять, почему послевоенная Германия долго жила с мыслью о временности разделения.",
           "de": "Die Geschichte Bonns hilft zu verstehen, warum die Nachkriegsordnung lange als provisorisch empfunden wurde.",
-          "en": "Bonn's role helps explain why postwar Germany long treated division as provisional."
+          "en": "Bonn's role helps explain why postwar Germany long treated division as provisional.",
+          "fr": "Le role de Bonn aide a comprendre pourquoi l'Allemagne d'apres-guerre considera longtemps la division comme provisoire.",
+          "es": "El papel de Bonn ayuda a entender por que la Alemania de posguerra trato durante mucho tiempo la division como algo provisional.",
+          "it": "Il ruolo di Bonn aiuta a capire perche la Germania del dopoguerra considero a lungo la divisione come provvisoria.",
+          "pt": "O papel de Bonn ajuda a entender por que a Alemanha do pos-guerra tratou por muito tempo a divisao como provisoria.",
+          "nl": "De rol van Bonn helpt verklaren waarom het naoorlogse Duitsland de deling lang als voorlopig beschouwde.",
+          "pl": "Rola Bonn pomaga zrozumiec, dlaczego powojenne Niemcy dlugo traktowaly podzial jako tymczasowy.",
+          "tr": "Bonn'un rolu, savas sonrasi Almanya'nin bolunmeyi neden uzun sure gecici gordugunu aciklar.",
+          "zh": "波恩的角色有助于解释，为什么战后德国长期把分裂视为暂时状态。",
+          "ja": "ボンの役割は、戦後ドイツが長い間分断を暫定的なものとして扱った理由を説明してくれます。",
+          "ko": "본의 역할은 전후 독일이 왜 오랫동안 분단을 임시적인 것으로 여겼는지 설명해 줍니다.",
+          "hi": "बॉन की भूमिका समझाती है कि युद्धोत्तर जर्मनी ने विभाजन को लंबे समय तक अस्थायी क्यों माना।",
+          "ar": "يساعد دور بون على فهم لماذا تعاملت المانيا بعد الحرب طويلا مع التقسيم بوصفه مؤقتا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Первая статья Основного закона начинается с защиты человеческого достоинства; это прямой ответ на опыт нацистской диктатуры.",
     "de": "Der erste Artikel des Grundgesetzes beginnt mit dem Schutz der Menschenwuerde; das ist eine direkte Antwort auf die Erfahrung der NS-Diktatur.",
-    "en": "The first article of the Basic Law begins with the protection of human dignity, a direct response to the experience of Nazi dictatorship."
+    "en": "The first article of the Basic Law begins with the protection of human dignity, a direct response to the experience of Nazi dictatorship.",
+    "fr": "Le premier article de la Loi fondamentale commence par la protection de la dignite humaine, une reponse directe a l'experience de la dictature nazie.",
+    "es": "El primer articulo de la Ley Fundamental comienza con la proteccion de la dignidad humana, una respuesta directa a la experiencia de la dictadura nazi.",
+    "it": "Il primo articolo della Legge fondamentale inizia con la tutela della dignita umana, una risposta diretta all'esperienza della dittatura nazista.",
+    "pt": "O primeiro artigo da Lei Fundamental comeca com a protecao da dignidade humana, uma resposta direta a experiencia da ditadura nazista.",
+    "nl": "Het eerste artikel van de Basiswet begint met de bescherming van de menselijke waardigheid, een direct antwoord op de ervaring van de nazidictatuur.",
+    "pl": "Pierwszy artykul Ustawy Zasadniczej zaczyna sie od ochrony godnosci czlowieka; byla to bezposrednia odpowiedz na doswiadczenie dyktatury nazistowskiej.",
+    "tr": "Temel Yasa'nin ilk maddesi insan onurunun korunmasiyla baslar; bu, Nazi diktatorlugu deneyimine dogrudan bir yanittir.",
+    "zh": "《基本法》第一条以保护人的尊严开头，这是对纳粹独裁经历的直接回应。",
+    "ja": "基本法の第一条は人間の尊厳の保護から始まり、ナチ独裁の経験への直接の答えとなっています。",
+    "ko": "기본법 제1조는 인간의 존엄 보호로 시작하며, 이는 나치 독재 경험에 대한 직접적인 응답입니다.",
+    "hi": "मूल विधि का पहला अनुच्छेद मानव गरिमा की रक्षा से शुरू होता है; यह नाजी तानाशाही के अनुभव का सीधा उत्तर था।",
+    "ar": "تبدأ المادة الاولى من القانون الاساسي بحماية كرامة الانسان، وهي رد مباشر على تجربة الدكتاتورية النازية."
   },
   "sources": [
     {
