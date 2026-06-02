@@ -11,17 +11,53 @@
     "title": {
       "ru": "Союзники взяли Париж",
       "de": "Die Verbuendeten nehmen Paris ein",
-      "en": "The Allies take Paris"
+      "en": "The Allies take Paris",
+      "fr": "Les Alliés prennent Paris",
+      "es": "Los aliados toman París",
+      "it": "Gli alleati prendono Parigi",
+      "pt": "Os aliados tomam Paris",
+      "nl": "De geallieerden nemen Parijs in",
+      "pl": "Alianci zdobywają Paryż",
+      "tr": "Müttefikler Paris'i aldı",
+      "zh": "盟军攻占巴黎",
+      "ja": "連合軍がパリを占領",
+      "ko": "동맹군이 파리를 점령하다",
+      "hi": "मित्र सेनाओं ने पेरिस लिया",
+      "ar": "الحلفاء يستولون على باريس"
     },
     "description": {
       "ru": "30 марта 1814 года войска антинаполеоновской коалиции сражались за Париж. В составе союзных сил были прусские и другие немецкие контингенты, а падение города ускорило отречение Наполеона.",
       "de": "Am 30. Maerz 1814 kaempften Truppen der antinapoleonischen Koalition um Paris. Zu den alliierten Kraeften gehoerten preussische und andere deutsche Kontingente, und der Fall der Stadt beschleunigte Napoleons Abdankung.",
-      "en": "On 30 March 1814, troops of the anti-Napoleonic coalition fought for Paris. The Allied forces included Prussian and other German contingents, and the fall of the city hastened Napoleon's abdication."
+      "en": "On 30 March 1814, troops of the anti-Napoleonic coalition fought for Paris. The Allied forces included Prussian and other German contingents, and the fall of the city hastened Napoleon's abdication.",
+      "fr": "Le 30 mars 1814, les troupes de la coalition antinapoléonienne combattirent pour Paris. Les forces alliées comprenaient des contingents prussiens et d'autres contingents allemands, et la chute de la ville accéléra l'abdication de Napoléon.",
+      "es": "El 30 de marzo de 1814, tropas de la coalición antinapoleónica combatieron por París. Las fuerzas aliadas incluían contingentes prusianos y otros alemanes, y la caída de la ciudad aceleró la abdicación de Napoleón.",
+      "it": "Il 30 marzo 1814 le truppe della coalizione antinapoleonica combatterono per Parigi. Le forze alleate includevano contingenti prussiani e altri contingenti tedeschi, e la caduta della città accelerò l'abdicazione di Napoleone.",
+      "pt": "Em 30 de março de 1814, tropas da coligação antinapoleónica combateram por Paris. As forças aliadas incluíam contingentes prussianos e outros alemães, e a queda da cidade acelerou a abdicação de Napoleão.",
+      "nl": "Op 30 maart 1814 vochten troepen van de anti-Napoleontische coalitie om Parijs. De geallieerde strijdkrachten omvatten Pruisische en andere Duitse contingenten, en de val van de stad versnelde Napoleons aftreden.",
+      "pl": "30 marca 1814 roku wojska koalicji antynapoleońskiej walczyły o Paryż. W siłach sojuszniczych były kontyngenty pruskie i inne niemieckie, a upadek miasta przyspieszył abdykację Napoleona.",
+      "tr": "30 Mart 1814'te Napolyon karşıtı koalisyon birlikleri Paris için savaştı. Müttefik güçlerde Prusya ve diğer Alman birlikleri de vardı; şehrin düşmesi Napolyon'un tahttan çekilmesini hızlandırdı.",
+      "zh": "1814年3月30日，反拿破仑联盟军为巴黎而战。盟军中包括普鲁士和其他德意志部队，巴黎的陷落加速了拿破仑退位。",
+      "ja": "1814年3月30日、反ナポレオン連合軍がパリをめぐって戦いました。連合軍にはプロイセン軍やその他のドイツ諸部隊が含まれ、都市の陥落はナポレオンの退位を早めました。",
+      "ko": "1814년 3월 30일, 반나폴레옹 연합군이 파리를 두고 싸웠습니다. 연합군에는 프로이센과 다른 독일 부대들이 포함되었고, 도시의 함락은 나폴레옹의 퇴위를 앞당겼습니다.",
+      "hi": "30 मार्च 1814 को नेपोलियन-विरोधी गठबंधन की सेनाओं ने पेरिस के लिए लड़ाई लड़ी। मित्र सेनाओं में प्रशियाई और अन्य जर्मन टुकड़ियाँ शामिल थीं, और शहर के पतन ने नेपोलियन के त्यागपत्र को तेज कर दिया।",
+      "ar": "في 30 مارس 1814 قاتلت قوات التحالف المناهض لنابليون من أجل باريس. وضمت قوات الحلفاء وحدات بروسية وألمانية أخرى، وسرّع سقوط المدينة تنازل نابليون عن العرش."
     },
     "importance": {
       "ru": "Дата важна для немецкой истории, потому что победа над Наполеоном изменила карту Центральной Европы и подготовила Венский конгресс.",
       "de": "Das Datum ist fuer die deutsche Geschichte wichtig, weil der Sieg ueber Napoleon die Karte Mitteleuropas veraenderte und den Wiener Kongress vorbereitete.",
-      "en": "The date matters for German history because victory over Napoleon changed the map of Central Europe and prepared the way for the Congress of Vienna."
+      "en": "The date matters for German history because victory over Napoleon changed the map of Central Europe and prepared the way for the Congress of Vienna.",
+      "fr": "Cette date est importante pour l'histoire allemande, car la victoire sur Napoléon changea la carte de l'Europe centrale et prépara le congrès de Vienne.",
+      "es": "La fecha es importante para la historia alemana porque la victoria sobre Napoleón cambió el mapa de Europa Central y preparó el Congreso de Viena.",
+      "it": "La data è importante per la storia tedesca perché la vittoria su Napoleone cambiò la carta dell'Europa centrale e preparò il Congresso di Vienna.",
+      "pt": "A data é importante para a história alemã porque a vitória sobre Napoleão mudou o mapa da Europa Central e preparou o Congresso de Viena.",
+      "nl": "De datum is belangrijk voor de Duitse geschiedenis omdat de overwinning op Napoleon de kaart van Midden-Europa veranderde en de weg bereidde voor het Congres van Wenen.",
+      "pl": "Ta data jest ważna dla historii Niemiec, ponieważ zwycięstwo nad Napoleonem zmieniło mapę Europy Środkowej i przygotowało kongres wiedeński.",
+      "tr": "Bu tarih Alman tarihi için önemlidir, çünkü Napolyon'a karşı zafer Orta Avrupa haritasını değiştirdi ve Viyana Kongresi'nin yolunu açtı.",
+      "zh": "这个日期对德国历史很重要，因为战胜拿破仑改变了中欧地图，并为维也纳会议铺平道路。",
+      "ja": "この日付はドイツ史にとって重要です。ナポレオンに対する勝利が中央ヨーロッパの地図を変え、ウィーン会議への道を開いたからです。",
+      "ko": "이 날짜는 독일 역사에서 중요합니다. 나폴레옹에 대한 승리가 중앙유럽 지도를 바꾸고 빈 회의의 길을 열었기 때문입니다.",
+      "hi": "यह तारीख जर्मन इतिहास के लिए महत्वपूर्ण है, क्योंकि नेपोलियन पर जीत ने मध्य यूरोप का नक्शा बदला और वियना कांग्रेस का रास्ता तैयार किया।",
+      "ar": "هذا التاريخ مهم للتاريخ الألماني لأن الانتصار على نابليون غيّر خريطة أوروبا الوسطى ومهّد لمؤتمر فيينا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Финал Освободительных войн",
           "de": "Endphase der Befreiungskriege",
-          "en": "Final phase of the Wars of Liberation"
+          "en": "Final phase of the Wars of Liberation",
+          "fr": "Phase finale des guerres de libération",
+          "es": "Fase final de las Guerras de Liberación",
+          "it": "Fase finale delle guerre di liberazione",
+          "pt": "Fase final das Guerras de Libertação",
+          "nl": "Eindfase van de Bevrijdingsoorlogen",
+          "pl": "Końcowa faza wojen wyzwoleńczych",
+          "tr": "Kurtuluş Savaşları'nın son aşaması",
+          "zh": "解放战争的最后阶段",
+          "ja": "解放戦争の最終段階",
+          "ko": "해방전쟁의 마지막 단계",
+          "hi": "मुक्ति युद्धों का अंतिम चरण",
+          "ar": "المرحلة النهائية من حروب التحرير"
         },
         "description": {
           "ru": "Для многих немецких земель война против Наполеона стала опытом совместного сопротивления французскому господству. После 1814 года вопрос о будущем немецких государств оказался в центре европейской дипломатии.",
           "de": "Fuer viele deutsche Laender wurde der Krieg gegen Napoleon zur Erfahrung gemeinsamen Widerstands gegen franzoesische Vorherrschaft. Nach 1814 rueckte die Zukunft der deutschen Staaten ins Zentrum europaeischer Diplomatie.",
-          "en": "For many German lands, the war against Napoleon became an experience of joint resistance to French dominance. After 1814, the future of the German states moved to the center of European diplomacy."
+          "en": "For many German lands, the war against Napoleon became an experience of joint resistance to French dominance. After 1814, the future of the German states moved to the center of European diplomacy.",
+          "fr": "Pour de nombreux territoires allemands, la guerre contre Napoléon devint une expérience de résistance commune à la domination française. Après 1814, l'avenir des États allemands passa au centre de la diplomatie européenne.",
+          "es": "Para muchos territorios alemanes, la guerra contra Napoleón fue una experiencia de resistencia conjunta al dominio francés. Después de 1814, el futuro de los Estados alemanes pasó al centro de la diplomacia europea.",
+          "it": "Per molti territori tedeschi, la guerra contro Napoleone divenne un'esperienza di resistenza comune al dominio francese. Dopo il 1814, il futuro degli Stati tedeschi entrò al centro della diplomazia europea.",
+          "pt": "Para muitas terras alemãs, a guerra contra Napoleão tornou-se uma experiência de resistência conjunta ao domínio francês. Depois de 1814, o futuro dos Estados alemães passou para o centro da diplomacia europeia.",
+          "nl": "Voor veel Duitse landen werd de oorlog tegen Napoleon een ervaring van gezamenlijk verzet tegen Franse overheersing. Na 1814 kwam de toekomst van de Duitse staten centraal te staan in de Europese diplomatie.",
+          "pl": "Dla wielu ziem niemieckich wojna przeciw Napoleonowi stała się doświadczeniem wspólnego oporu wobec francuskiej dominacji. Po 1814 roku przyszłość państw niemieckich znalazła się w centrum europejskiej dyplomacji.",
+          "tr": "Birçok Alman bölgesi için Napolyon'a karşı savaş, Fransız egemenliğine ortak direniş deneyimi oldu. 1814'ten sonra Alman devletlerinin geleceği Avrupa diplomasisinin merkezine taşındı.",
+          "zh": "对许多德意志地区来说，反对拿破仑的战争成为共同抵抗法国支配的经历。1814年后，德意志各邦的未来成为欧洲外交的核心问题。",
+          "ja": "多くのドイツ諸邦にとって、ナポレオンとの戦争はフランス支配への共同抵抗の経験となりました。1814年以後、ドイツ諸国の未来はヨーロッパ外交の中心問題となりました。",
+          "ko": "많은 독일 지역에서 나폴레옹에 맞선 전쟁은 프랑스 지배에 대한 공동 저항의 경험이 되었습니다. 1814년 이후 독일 국가들의 미래는 유럽 외교의 중심으로 옮겨졌습니다.",
+          "hi": "कई जर्मन क्षेत्रों के लिए नेपोलियन के खिलाफ युद्ध फ्रांसीसी प्रभुत्व के विरुद्ध संयुक्त प्रतिरोध का अनुभव बना। 1814 के बाद जर्मन राज्यों का भविष्य यूरोपीय कूटनीति के केंद्र में आ गया।",
+          "ar": "بالنسبة إلى كثير من الأراضي الألمانية، أصبحت الحرب ضد نابليون تجربة مقاومة مشتركة للهيمنة الفرنسية. وبعد عام 1814 أصبح مستقبل الدول الألمانية في مركز الدبلوماسية الأوروبية."
         },
         "importance": {
           "ru": "Так дата связывает карту Германии с большой европейской перестройкой после Наполеона.",
           "de": "So verbindet das Datum die Karte Deutschlands mit der grossen europaeischen Neuordnung nach Napoleon.",
-          "en": "The date connects Germany's map with the major European reordering after Napoleon."
+          "en": "The date connects Germany's map with the major European reordering after Napoleon.",
+          "fr": "Cette date relie la carte de l'Allemagne à la grande réorganisation européenne après Napoléon.",
+          "es": "La fecha conecta el mapa de Alemania con la gran reorganización europea después de Napoleón.",
+          "it": "La data collega la carta della Germania alla grande riorganizzazione europea dopo Napoleone.",
+          "pt": "A data liga o mapa da Alemanha à grande reorganização europeia depois de Napoleão.",
+          "nl": "De datum verbindt de kaart van Duitsland met de grote Europese herordening na Napoleon.",
+          "pl": "Ta data łączy mapę Niemiec z wielką europejską przebudową po Napoleonie.",
+          "tr": "Bu tarih, Almanya haritasını Napolyon sonrası büyük Avrupa düzenlemesiyle birleştirir.",
+          "zh": "这个日期把德国地图与拿破仑之后欧洲的大重组联系起来。",
+          "ja": "この日付は、ドイツの地図をナポレオン後のヨーロッパの大きな再編と結びつけています。",
+          "ko": "이 날짜는 독일 지도를 나폴레옹 이후 유럽의 큰 재편과 연결합니다.",
+          "hi": "यह तारीख जर्मनी के नक्शे को नेपोलियन के बाद यूरोप की बड़ी पुनर्व्यवस्था से जोड़ती है।",
+          "ar": "يربط هذا التاريخ خريطة ألمانيا بإعادة الترتيب الأوروبية الكبرى بعد نابليون."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Немцы ещё без единой Германии",
           "de": "Deutsche noch ohne einheitliches Deutschland",
-          "en": "Germans before a united Germany"
+          "en": "Germans before a united Germany",
+          "fr": "Des Allemands avant une Allemagne unie",
+          "es": "Alemanes antes de una Alemania unida",
+          "it": "Tedeschi prima di una Germania unita",
+          "pt": "Alemães antes de uma Alemanha unida",
+          "nl": "Duitsers vóór een verenigd Duitsland",
+          "pl": "Niemcy przed zjednoczonymi Niemcami",
+          "tr": "Birleşik Almanya'dan önce Almanlar",
+          "zh": "统一德国之前的德意志人",
+          "ja": "統一ドイツ以前のドイツ人",
+          "ko": "통일 독일 이전의 독일인들",
+          "hi": "एकीकृत जर्मनी से पहले जर्मन",
+          "ar": "الألمان قبل ألمانيا موحدة"
         },
         "description": {
           "ru": "В 1814 году единого немецкого государства ещё не существовало. Поэтому на карте войны были Пруссия, Бавария, Вюртемберг и другие государства, а не современная Германия.",
           "de": "1814 gab es noch keinen einheitlichen deutschen Staat. Auf der Kriegskarte standen daher Preussen, Bayern, Wuerttemberg und andere Staaten, nicht das heutige Deutschland.",
-          "en": "In 1814 there was still no unified German state. The war map therefore showed Prussia, Bavaria, Wuerttemberg and other states, not modern Germany."
+          "en": "In 1814 there was still no unified German state. The war map therefore showed Prussia, Bavaria, Wuerttemberg and other states, not modern Germany.",
+          "fr": "En 1814, il n'existait pas encore d'État allemand unifié. La carte de la guerre montrait donc la Prusse, la Bavière, le Wurtemberg et d'autres États, et non l'Allemagne actuelle.",
+          "es": "En 1814 todavía no existía un Estado alemán unificado. Por eso el mapa de la guerra mostraba Prusia, Baviera, Wurtemberg y otros Estados, no la Alemania actual.",
+          "it": "Nel 1814 non esisteva ancora uno Stato tedesco unificato. La carta della guerra mostrava quindi Prussia, Baviera, Württemberg e altri Stati, non la Germania moderna.",
+          "pt": "Em 1814 ainda não existia um Estado alemão unificado. Por isso, o mapa da guerra mostrava a Prússia, a Baviera, Württemberg e outros Estados, não a Alemanha moderna.",
+          "nl": "In 1814 bestond er nog geen verenigde Duitse staat. Op de oorlogskaart stonden daarom Pruisen, Beieren, Württemberg en andere staten, niet het moderne Duitsland.",
+          "pl": "W 1814 roku nie istniało jeszcze jednolite państwo niemieckie. Dlatego na mapie wojny były Prusy, Bawaria, Wirtembergia i inne państwa, a nie współczesne Niemcy.",
+          "tr": "1814'te henüz birleşik bir Alman devleti yoktu. Bu yüzden savaş haritasında modern Almanya değil Prusya, Bavyera, Württemberg ve başka devletler vardı.",
+          "zh": "1814年还没有统一的德意志国家。因此战争地图上显示的是普鲁士、巴伐利亚、符腾堡和其他邦国，而不是现代德国。",
+          "ja": "1814年には、まだ統一されたドイツ国家は存在していませんでした。そのため戦争地図には現代のドイツではなく、プロイセン、バイエルン、ヴュルテンベルクなどの国家が描かれていました。",
+          "ko": "1814년에는 아직 통일된 독일 국가가 없었습니다. 그래서 전쟁 지도에는 현대 독일이 아니라 프로이센, 바이에른, 뷔르템베르크와 다른 국가들이 표시되었습니다.",
+          "hi": "1814 में अभी एकीकृत जर्मन राज्य मौजूद नहीं था। इसलिए युद्ध के नक्शे पर आधुनिक जर्मनी नहीं, बल्कि प्रशिया, बवेरिया, वुर्टेमबर्ग और अन्य राज्य थे।",
+          "ar": "في عام 1814 لم تكن هناك دولة ألمانية موحدة بعد. لذلك أظهرت خريطة الحرب بروسيا وبافاريا وفورتمبيرغ ودولا أخرى، لا ألمانيا الحديثة."
         },
         "importance": {
           "ru": "Это помогает не путать современную карту с исторической.",
           "de": "Das hilft, die heutige Karte nicht mit der historischen zu verwechseln.",
-          "en": "It helps avoid confusing today's map with the historical one."
+          "en": "It helps avoid confusing today's map with the historical one.",
+          "fr": "Cela aide à ne pas confondre la carte actuelle avec la carte historique.",
+          "es": "Esto ayuda a no confundir el mapa actual con el histórico.",
+          "it": "Questo aiuta a non confondere la carta attuale con quella storica.",
+          "pt": "Isto ajuda a não confundir o mapa atual com o histórico.",
+          "nl": "Dit helpt om de huidige kaart niet te verwarren met de historische.",
+          "pl": "Pomaga to nie mylić współczesnej mapy z historyczną.",
+          "tr": "Bu, bugünün haritasını tarihsel haritayla karıştırmamaya yardımcı olur.",
+          "zh": "这有助于避免把今天的地图与历史地图混淆。",
+          "ja": "これは、現在の地図と歴史上の地図を混同しない助けになります。",
+          "ko": "이는 오늘날의 지도와 역사적 지도를 혼동하지 않도록 도와줍니다.",
+          "hi": "यह आज के नक्शे को ऐतिहासिक नक्शे से भ्रमित न करने में मदद करता है।",
+          "ar": "يساعد ذلك على عدم الخلط بين خريطة اليوم والخريطة التاريخية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После взятия Парижа Наполеон вскоре отрёкся от престола и был отправлен на остров Эльба.",
     "de": "Nach der Einnahme von Paris dankte Napoleon bald ab und wurde auf die Insel Elba geschickt.",
-    "en": "After Paris was taken, Napoleon soon abdicated and was sent to the island of Elba."
+    "en": "After Paris was taken, Napoleon soon abdicated and was sent to the island of Elba.",
+    "fr": "Après la prise de Paris, Napoléon abdiqua bientôt et fut envoyé sur l'île d'Elbe.",
+    "es": "Después de la toma de París, Napoleón abdicó pronto y fue enviado a la isla de Elba.",
+    "it": "Dopo la presa di Parigi, Napoleone abdicò presto e fu inviato all'isola d'Elba.",
+    "pt": "Depois da tomada de Paris, Napoleão abdicou pouco depois e foi enviado para a ilha de Elba.",
+    "nl": "Na de inname van Parijs trad Napoleon al snel af en werd hij naar het eiland Elba gestuurd.",
+    "pl": "Po zdobyciu Paryża Napoleon wkrótce abdykował i został zesłany na wyspę Elbę.",
+    "tr": "Paris'in alınmasından sonra Napolyon kısa süre içinde tahttan çekildi ve Elba adasına gönderildi.",
+    "zh": "巴黎被攻占后，拿破仑很快退位，并被送往厄尔巴岛。",
+    "ja": "パリ占領後、ナポレオンはまもなく退位し、エルバ島へ送られました。",
+    "ko": "파리가 점령된 뒤 나폴레옹은 곧 퇴위했고 엘바섬으로 보내졌습니다.",
+    "hi": "पेरिस लिए जाने के बाद नेपोलियन ने जल्द ही पद त्याग दिया और उन्हें एल्बा द्वीप भेजा गया।",
+    "ar": "بعد الاستيلاء على باريس تنازل نابليون بعد وقت قصير وأُرسل إلى جزيرة إلبا."
   },
   "sources": [
     {

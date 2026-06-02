@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Роберт Бунзен",
       "de": "Robert Bunsen wird geboren",
-      "en": "Robert Bunsen is born"
+      "en": "Robert Bunsen is born",
+      "fr": "Naissance de Robert Bunsen",
+      "es": "Nace Robert Bunsen",
+      "it": "Nasce Robert Bunsen",
+      "pt": "Nasce Robert Bunsen",
+      "nl": "Robert Bunsen wordt geboren",
+      "pl": "Urodził się Robert Bunsen",
+      "tr": "Robert Bunsen doğdu",
+      "zh": "罗伯特·本生出生",
+      "ja": "ロベルト・ブンゼンが生まれる",
+      "ko": "로베르트 분젠이 태어나다",
+      "hi": "रॉबर्ट बुनज़ेन का जन्म हुआ",
+      "ar": "ولادة روبرت بنزن"
     },
     "description": {
       "ru": "31 марта 1811 года в Гёттингене родился химик Роберт Бунзен. Его имя часто связывают с лабораторной горелкой, но его вклад в химию был гораздо шире.",
       "de": "Am 31. Maerz 1811 wurde der Chemiker Robert Bunsen in Goettingen geboren. Sein Name wird oft mit dem Laborbrenner verbunden, doch sein Beitrag zur Chemie war viel breiter.",
-      "en": "On 31 March 1811, chemist Robert Bunsen was born in Goettingen. His name is often linked with the laboratory burner, but his contribution to chemistry was much broader."
+      "en": "On 31 March 1811, chemist Robert Bunsen was born in Goettingen. His name is often linked with the laboratory burner, but his contribution to chemistry was much broader.",
+      "fr": "Le 31 mars 1811, le chimiste Robert Bunsen naquit à Goettingen. Son nom est souvent associé au bec de laboratoire, mais sa contribution à la chimie fut beaucoup plus large.",
+      "es": "El 31 de marzo de 1811 nació en Goettingen el químico Robert Bunsen. Su nombre se asocia a menudo con el mechero de laboratorio, pero su contribución a la química fue mucho más amplia.",
+      "it": "Il 31 marzo 1811 il chimico Robert Bunsen nacque a Goettingen. Il suo nome è spesso legato al becco da laboratorio, ma il suo contributo alla chimica fu molto più ampio.",
+      "pt": "Em 31 de março de 1811, o químico Robert Bunsen nasceu em Goettingen. O seu nome é frequentemente ligado ao bico de laboratório, mas a sua contribuição para a química foi muito mais ampla.",
+      "nl": "Op 31 maart 1811 werd chemicus Robert Bunsen in Goettingen geboren. Zijn naam wordt vaak verbonden met de laboratoriumbrander, maar zijn bijdrage aan de chemie was veel breder.",
+      "pl": "31 marca 1811 roku w Goettingen urodził się chemik Robert Bunsen. Jego nazwisko często kojarzy się z palnikiem laboratoryjnym, ale jego wkład w chemię był znacznie szerszy.",
+      "tr": "31 Mart 1811'de kimyager Robert Bunsen Goettingen'de doğdu. Adı çoğu zaman laboratuvar bekiyle ilişkilendirilir, ancak kimyaya katkısı çok daha genişti.",
+      "zh": "1811年3月31日，化学家罗伯特·本生出生于哥廷根。他的名字常与实验室喷灯联系在一起，但他对化学的贡献要广泛得多。",
+      "ja": "1811年3月31日、化学者ロベルト・ブンゼンはゲッティンゲンで生まれました。彼の名前はよく実験用バーナーと結びつけられますが、化学への貢献ははるかに幅広いものでした。",
+      "ko": "1811년 3월 31일, 화학자 로베르트 분젠이 괴팅겐에서 태어났습니다. 그의 이름은 흔히 실험실 버너와 연결되지만, 화학에 대한 그의 기여는 훨씬 더 넓었습니다.",
+      "hi": "31 मार्च 1811 को रसायनज्ञ रॉबर्ट बुनज़ेन का जन्म गोटिंगेन में हुआ। उनका नाम अक्सर प्रयोगशाला बर्नर से जोड़ा जाता है, लेकिन रसायन विज्ञान में उनका योगदान कहीं अधिक व्यापक था।",
+      "ar": "في 31 مارس 1811 وُلد الكيميائي روبرت بنزن في غوتنغن. غالبا ما يرتبط اسمه بموقد المختبر، لكن إسهامه في الكيمياء كان أوسع بكثير."
     },
     "importance": {
       "ru": "Бунзен связан с развитием химического анализа и лабораторной культуры XIX века.",
       "de": "Bunsen ist mit der Entwicklung der chemischen Analyse und der Laborkultur des 19. Jahrhunderts verbunden.",
-      "en": "Bunsen is linked with the development of chemical analysis and 19th-century laboratory culture."
+      "en": "Bunsen is linked with the development of chemical analysis and 19th-century laboratory culture.",
+      "fr": "Bunsen est lié au développement de l'analyse chimique et de la culture de laboratoire du XIXe siècle.",
+      "es": "Bunsen está vinculado al desarrollo del análisis químico y de la cultura de laboratorio del siglo XIX.",
+      "it": "Bunsen è legato allo sviluppo dell'analisi chimica e della cultura di laboratorio del XIX secolo.",
+      "pt": "Bunsen está ligado ao desenvolvimento da análise química e da cultura laboratorial do século XIX.",
+      "nl": "Bunsen is verbonden met de ontwikkeling van chemische analyse en de laboratoriumcultuur van de negentiende eeuw.",
+      "pl": "Bunsen jest związany z rozwojem analizy chemicznej i kultury laboratoryjnej XIX wieku.",
+      "tr": "Bunsen, kimyasal analizin ve 19. yüzyıl laboratuvar kültürünün gelişimiyle bağlantılıdır.",
+      "zh": "本生与化学分析和19世纪实验室文化的发展密切相关。",
+      "ja": "ブンゼンは化学分析と19世紀の実験室文化の発展に結びついています。",
+      "ko": "분젠은 화학 분석과 19세기 실험실 문화의 발전과 연결되어 있습니다.",
+      "hi": "बुनज़ेन रासायनिक विश्लेषण और 19वीं सदी की प्रयोगशाला संस्कृति के विकास से जुड़े हैं।",
+      "ar": "يرتبط بنزن بتطور التحليل الكيميائي وثقافة المختبر في القرن التاسع عشر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Спектроскопия и новые элементы",
           "de": "Spektroskopie und neue Elemente",
-          "en": "Spectroscopy and new elements"
+          "en": "Spectroscopy and new elements",
+          "fr": "Spectroscopie et nouveaux éléments",
+          "es": "Espectroscopía y nuevos elementos",
+          "it": "Spettroscopia e nuovi elementi",
+          "pt": "Espectroscopia e novos elementos",
+          "nl": "Spectroscopie en nieuwe elementen",
+          "pl": "Spektroskopia i nowe pierwiastki",
+          "tr": "Spektroskopi ve yeni elementler",
+          "zh": "光谱学与新元素",
+          "ja": "分光学と新元素",
+          "ko": "분광학과 새로운 원소",
+          "hi": "स्पेक्ट्रोस्कोपी और नए तत्व",
+          "ar": "التحليل الطيفي وعناصر جديدة"
         },
         "description": {
           "ru": "Бунзен вместе с Густавом Кирхгофом развивал спектральный анализ. Этот метод помог обнаруживать химические элементы по их световым линиям.",
           "de": "Bunsen entwickelte zusammen mit Gustav Kirchhoff die Spektralanalyse. Diese Methode half, chemische Elemente anhand ihrer Lichtlinien zu erkennen.",
-          "en": "Together with Gustav Kirchhoff, Bunsen developed spectral analysis. The method helped identify chemical elements by their light lines."
+          "en": "Together with Gustav Kirchhoff, Bunsen developed spectral analysis. The method helped identify chemical elements by their light lines.",
+          "fr": "Avec Gustav Kirchhoff, Bunsen développa l'analyse spectrale. Cette méthode aidait à reconnaître les éléments chimiques grâce à leurs lignes lumineuses.",
+          "es": "Junto con Gustav Kirchhoff, Bunsen desarrolló el análisis espectral. Este método ayudó a identificar elementos químicos por sus líneas de luz.",
+          "it": "Insieme a Gustav Kirchhoff, Bunsen sviluppò l'analisi spettrale. Questo metodo aiutò a identificare gli elementi chimici attraverso le loro linee luminose.",
+          "pt": "Juntamente com Gustav Kirchhoff, Bunsen desenvolveu a análise espectral. Este método ajudou a identificar elementos químicos pelas suas linhas de luz.",
+          "nl": "Samen met Gustav Kirchhoff ontwikkelde Bunsen de spectraalanalyse. Deze methode hielp chemische elementen te herkennen aan hun lichtlijnen.",
+          "pl": "Wraz z Gustavem Kirchhoffem Bunsen rozwijał analizę spektralną. Metoda ta pomagała rozpoznawać pierwiastki chemiczne po ich liniach świetlnych.",
+          "tr": "Bunsen, Gustav Kirchhoff ile birlikte spektral analizi geliştirdi. Bu yöntem kimyasal elementleri ışık çizgilerinden tanımaya yardımcı oldu.",
+          "zh": "本生与古斯塔夫·基尔霍夫共同发展了光谱分析。这种方法帮助人们通过光谱线识别化学元素。",
+          "ja": "ブンゼンはグスタフ・キルヒホフとともに分光分析を発展させました。この方法は、光の線によって化学元素を識別する助けとなりました。",
+          "ko": "분젠은 구스타프 키르히호프와 함께 스펙트럼 분석을 발전시켰습니다. 이 방법은 빛의 선을 통해 화학 원소를 식별하는 데 도움을 주었습니다.",
+          "hi": "गुस्ताव किर्खहॉफ के साथ बुनज़ेन ने वर्णक्रमीय विश्लेषण विकसित किया। इस विधि ने प्रकाश रेखाओं के आधार पर रासायनिक तत्वों की पहचान में मदद की।",
+          "ar": "طور بنزن مع غوستاف كيرشهوف التحليل الطيفي. وساعدت هذه الطريقة على التعرف إلى العناصر الكيميائية من خلال خطوطها الضوئية."
         },
         "importance": {
           "ru": "Так лабораторная химия стала смотреть на вещество через свет.",
           "de": "So begann die Laborchemie, Stoffe durch Licht zu erkennen.",
-          "en": "Laboratory chemistry began to understand substances through light."
+          "en": "Laboratory chemistry began to understand substances through light.",
+          "fr": "La chimie de laboratoire commença ainsi à comprendre les substances par la lumière.",
+          "es": "Así la química de laboratorio comenzó a comprender las sustancias a través de la luz.",
+          "it": "Così la chimica di laboratorio iniziò a comprendere le sostanze attraverso la luce.",
+          "pt": "Assim, a química de laboratório começou a compreender as substâncias através da luz.",
+          "nl": "Zo begon de laboratoriumchemie stoffen via licht te begrijpen.",
+          "pl": "Tak chemia laboratoryjna zaczęła poznawać substancje przez światło.",
+          "tr": "Böylece laboratuvar kimyası maddeleri ışık aracılığıyla anlamaya başladı.",
+          "zh": "于是实验室化学开始通过光来认识物质。",
+          "ja": "こうして実験室化学は、光を通じて物質を理解し始めました。",
+          "ko": "이렇게 실험실 화학은 빛을 통해 물질을 이해하기 시작했습니다.",
+          "hi": "इस तरह प्रयोगशाला रसायन विज्ञान ने प्रकाश के माध्यम से पदार्थों को समझना शुरू किया।",
+          "ar": "وهكذا بدأت كيمياء المختبر تفهم المواد من خلال الضوء."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Горелка с известной фамилией",
           "de": "Ein Brenner mit bekanntem Namen",
-          "en": "A burner with a famous name"
+          "en": "A burner with a famous name",
+          "fr": "Un bec au nom célèbre",
+          "es": "Un mechero con un nombre famoso",
+          "it": "Un becco con un nome famoso",
+          "pt": "Um bico com um nome famoso",
+          "nl": "Een brander met een bekende naam",
+          "pl": "Palnik ze znanym nazwiskiem",
+          "tr": "Ünlü bir ada sahip bek",
+          "zh": "带有著名姓氏的喷灯",
+          "ja": "有名な名前を持つバーナー",
+          "ko": "유명한 이름을 가진 버너",
+          "hi": "प्रसिद्ध नाम वाला बर्नर",
+          "ar": "موقد يحمل اسما مشهورا"
         },
         "description": {
           "ru": "Бунзеновская горелка стала символом школьной и университетской химии. Забавно, что многие сначала узнают фамилию учёного именно через этот простой лабораторный инструмент.",
           "de": "Der Bunsenbrenner wurde zu einem Symbol fuer Schul- und Universitaetschemie. Kurios ist, dass viele den Namen des Forschers zuerst durch dieses einfache Laborgeraet kennenlernen.",
-          "en": "The Bunsen burner became a symbol of school and university chemistry. Curiously, many people first learn the scientist's name through this simple lab tool."
+          "en": "The Bunsen burner became a symbol of school and university chemistry. Curiously, many people first learn the scientist's name through this simple lab tool.",
+          "fr": "Le bec Bunsen devint un symbole de la chimie scolaire et universitaire. Curieusement, beaucoup découvrent d'abord le nom du savant grâce à ce simple outil de laboratoire.",
+          "es": "El mechero Bunsen se convirtió en símbolo de la química escolar y universitaria. Curiosamente, muchas personas conocen primero el apellido del científico por esta sencilla herramienta de laboratorio.",
+          "it": "Il becco Bunsen divenne un simbolo della chimica scolastica e universitaria. Curiosamente, molti conoscono il nome dello scienziato per la prima volta attraverso questo semplice strumento di laboratorio.",
+          "pt": "O bico de Bunsen tornou-se símbolo da química escolar e universitária. Curiosamente, muitas pessoas conhecem primeiro o nome do cientista através deste simples instrumento de laboratório.",
+          "nl": "De bunsenbrander werd een symbool van scheikunde op school en universiteit. Opmerkelijk is dat veel mensen de naam van de onderzoeker eerst leren kennen via dit eenvoudige laboratoriuminstrument.",
+          "pl": "Palnik Bunsena stał się symbolem chemii szkolnej i uniwersyteckiej. Ciekawe, że wiele osób najpierw poznaje nazwisko uczonego właśnie przez to proste narzędzie laboratoryjne.",
+          "tr": "Bunsen beki okul ve üniversite kimyasının sembolü oldu. İlginçtir ki birçok kişi bilim insanının adını ilk kez bu basit laboratuvar aracıyla öğrenir.",
+          "zh": "本生灯成为学校和大学化学的象征。有趣的是，许多人最早正是通过这个简单的实验室工具认识这位科学家的姓氏。",
+          "ja": "ブンゼンバーナーは学校や大学の化学の象徴となりました。興味深いことに、多くの人はこの簡単な実験道具を通じて初めて科学者の名前を知ります。",
+          "ko": "분젠 버너는 학교와 대학 화학의 상징이 되었습니다. 흥미롭게도 많은 사람들은 이 간단한 실험 도구를 통해 과학자의 이름을 처음 알게 됩니다.",
+          "hi": "बुनज़ेन बर्नर स्कूल और विश्वविद्यालय की रसायनशाला का प्रतीक बन गया। रोचक बात है कि कई लोग इस सरल प्रयोगशाला उपकरण के माध्यम से ही पहले वैज्ञानिक का नाम जानते हैं।",
+          "ar": "أصبح موقد بنزن رمزا للكيمياء في المدارس والجامعات. والطريف أن كثيرين يتعرفون أولا إلى اسم العالم من خلال هذه الأداة المختبرية البسيطة."
         },
         "importance": {
           "ru": "Это хороший пример того, как имя учёного входит в повседневный язык.",
           "de": "Das ist ein gutes Beispiel dafuer, wie der Name eines Forschers in die Alltagssprache eingeht.",
-          "en": "It is a good example of a scientist's name entering everyday language."
+          "en": "It is a good example of a scientist's name entering everyday language.",
+          "fr": "C'est un bon exemple de la manière dont le nom d'un savant entre dans la langue quotidienne.",
+          "es": "Es un buen ejemplo de cómo el nombre de un científico entra en el lenguaje cotidiano.",
+          "it": "È un buon esempio di come il nome di uno scienziato entri nel linguaggio quotidiano.",
+          "pt": "É um bom exemplo de como o nome de um cientista entra na linguagem quotidiana.",
+          "nl": "Het is een goed voorbeeld van hoe de naam van een wetenschapper in het dagelijks taalgebruik terechtkomt.",
+          "pl": "To dobry przykład tego, jak nazwisko naukowca wchodzi do języka codziennego.",
+          "tr": "Bu, bir bilim insanının adının günlük dile girmesine iyi bir örnektir.",
+          "zh": "这是科学家的名字进入日常语言的一个好例子。",
+          "ja": "これは科学者の名前が日常語に入る良い例です。",
+          "ko": "이는 과학자의 이름이 일상 언어에 들어가는 좋은 예입니다.",
+          "hi": "यह अच्छा उदाहरण है कि किसी वैज्ञानिक का नाम रोज़मर्रा की भाषा में कैसे प्रवेश करता है।",
+          "ar": "إنه مثال جيد على دخول اسم عالم إلى اللغة اليومية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Бунзен работал в Гейдельберге, одном из старейших университетских городов Германии.",
     "de": "Bunsen arbeitete in Heidelberg, einer der aeltesten Universitaetsstaedte Deutschlands.",
-    "en": "Bunsen worked in Heidelberg, one of Germany's oldest university towns."
+    "en": "Bunsen worked in Heidelberg, one of Germany's oldest university towns.",
+    "fr": "Bunsen travailla à Heidelberg, l'une des plus anciennes villes universitaires d'Allemagne.",
+    "es": "Bunsen trabajó en Heidelberg, una de las ciudades universitarias más antiguas de Alemania.",
+    "it": "Bunsen lavorò a Heidelberg, una delle città universitarie più antiche della Germania.",
+    "pt": "Bunsen trabalhou em Heidelberg, uma das cidades universitárias mais antigas da Alemanha.",
+    "nl": "Bunsen werkte in Heidelberg, een van de oudste universiteitssteden van Duitsland.",
+    "pl": "Bunsen pracował w Heidelbergu, jednym z najstarszych miast uniwersyteckich Niemiec.",
+    "tr": "Bunsen, Almanya'nın en eski üniversite şehirlerinden biri olan Heidelberg'de çalıştı.",
+    "zh": "本生曾在海德堡工作，那里是德国最古老的大学城之一。",
+    "ja": "ブンゼンはドイツ最古級の大学都市の一つであるハイデルベルクで働きました。",
+    "ko": "분젠은 독일에서 가장 오래된 대학 도시 중 하나인 하이델베르크에서 일했습니다.",
+    "hi": "बुनज़ेन ने जर्मनी के सबसे पुराने विश्वविद्यालय नगरों में से एक हाइडेलबर्ग में काम किया।",
+    "ar": "عمل بنزن في هايدلبرغ، وهي من أقدم المدن الجامعية في ألمانيا."
   },
   "sources": [
     {

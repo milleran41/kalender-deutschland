@@ -11,17 +11,53 @@
     "title": {
       "ru": "Генрих Брюнинг назначен рейхсканцлером",
       "de": "Heinrich Bruening wird Reichskanzler",
-      "en": "Heinrich Bruening is appointed chancellor"
+      "en": "Heinrich Bruening is appointed chancellor",
+      "fr": "Heinrich Bruening est nommé chancelier",
+      "es": "Heinrich Bruening es nombrado canciller",
+      "it": "Heinrich Bruening viene nominato cancelliere",
+      "pt": "Heinrich Bruening é nomeado chanceler",
+      "nl": "Heinrich Bruening wordt tot rijkskanselier benoemd",
+      "pl": "Heinrich Bruening zostaje mianowany kanclerzem",
+      "tr": "Heinrich Bruening şansölye atandı",
+      "zh": "海因里希·布吕宁被任命为总理",
+      "ja": "ハインリヒ・ブリューニングが首相に任命される",
+      "ko": "하인리히 브뤼닝이 총리로 임명되다",
+      "hi": "हाइनरिख ब्रूनिंग चांसलर नियुक्त हुए",
+      "ar": "تعيين هاينريش برونينغ مستشارا"
     },
     "description": {
       "ru": "29 марта 1930 года президент Пауль фон Гинденбург назначил Генриха Брюнинга рейхсканцлером. Его правительство стало символом позднего кризиса Веймарской республики.",
       "de": "Am 29. Maerz 1930 ernannte Praesident Paul von Hindenburg Heinrich Bruening zum Reichskanzler. Seine Regierung wurde zu einem Symbol der spaeten Krise der Weimarer Republik.",
-      "en": "On 29 March 1930, President Paul von Hindenburg appointed Heinrich Bruening as chancellor. His government became a symbol of the late crisis of the Weimar Republic."
+      "en": "On 29 March 1930, President Paul von Hindenburg appointed Heinrich Bruening as chancellor. His government became a symbol of the late crisis of the Weimar Republic.",
+      "fr": "Le 29 mars 1930, le président Paul von Hindenburg nomma Heinrich Bruening chancelier du Reich. Son gouvernement devint un symbole de la crise tardive de la République de Weimar.",
+      "es": "El 29 de marzo de 1930, el presidente Paul von Hindenburg nombró a Heinrich Bruening canciller del Reich. Su gobierno se convirtió en símbolo de la crisis final de la República de Weimar.",
+      "it": "Il 29 marzo 1930 il presidente Paul von Hindenburg nominò Heinrich Bruening cancelliere del Reich. Il suo governo divenne un simbolo della crisi finale della Repubblica di Weimar.",
+      "pt": "Em 29 de março de 1930, o presidente Paul von Hindenburg nomeou Heinrich Bruening chanceler do Reich. O seu governo tornou-se símbolo da crise tardia da República de Weimar.",
+      "nl": "Op 29 maart 1930 benoemde president Paul von Hindenburg Heinrich Bruening tot rijkskanselier. Zijn regering werd een symbool van de late crisis van de Weimarrepubliek.",
+      "pl": "29 marca 1930 roku prezydent Paul von Hindenburg mianował Heinricha Brueninga kanclerzem Rzeszy. Jego rząd stał się symbolem późnego kryzysu Republiki Weimarskiej.",
+      "tr": "29 Mart 1930'da Cumhurbaşkanı Paul von Hindenburg, Heinrich Bruening'i Reich şansölyesi olarak atadı. Onun hükümeti Weimar Cumhuriyeti'nin geç dönem krizinin sembolü oldu.",
+      "zh": "1930年3月29日，总统保罗·冯·兴登堡任命海因里希·布吕宁为德国总理。他的政府成为魏玛共和国晚期危机的象征。",
+      "ja": "1930年3月29日、パウル・フォン・ヒンデンブルク大統領はハインリヒ・ブリューニングを首相に任命しました。彼の政府はワイマール共和国末期の危機の象徴となりました。",
+      "ko": "1930년 3월 29일, 파울 폰 힌덴부르크 대통령은 하인리히 브뤼닝을 총리로 임명했습니다. 그의 정부는 바이마르 공화국 말기 위기의 상징이 되었습니다.",
+      "hi": "29 मार्च 1930 को राष्ट्रपति पॉल फॉन हिंडनबुर्ग ने हाइनरिख ब्रूनिंग को राइख्सकान्सलर नियुक्त किया। उनकी सरकार वाइमर गणराज्य के अंतिम संकट का प्रतीक बन गई।",
+      "ar": "في 29 مارس 1930 عيّن الرئيس باول فون هيندنبورغ هاينريش برونينغ مستشارا للرايخ. وأصبحت حكومته رمزا للأزمة المتأخرة في جمهورية فايمار."
     },
     "importance": {
       "ru": "Дата помогает понять, как парламентская демократия Веймара слабела ещё до прихода нацистов к власти.",
       "de": "Das Datum hilft zu verstehen, wie die parlamentarische Demokratie Weimars schon vor der Machtuebernahme der Nationalsozialisten geschwaecht wurde.",
-      "en": "The date helps explain how Weimar parliamentary democracy weakened even before the Nazis came to power."
+      "en": "The date helps explain how Weimar parliamentary democracy weakened even before the Nazis came to power.",
+      "fr": "Cette date aide à comprendre comment la démocratie parlementaire de Weimar s'affaiblit avant même l'arrivée des nazis au pouvoir.",
+      "es": "La fecha ayuda a entender cómo la democracia parlamentaria de Weimar se debilitó incluso antes de la llegada de los nazis al poder.",
+      "it": "La data aiuta a capire come la democrazia parlamentare di Weimar si indebolì già prima dell'arrivo dei nazisti al potere.",
+      "pt": "A data ajuda a compreender como a democracia parlamentar de Weimar enfraqueceu ainda antes da chegada dos nazis ao poder.",
+      "nl": "Deze datum helpt verklaren hoe de parlementaire democratie van Weimar al verzwakte voordat de nazi's aan de macht kwamen.",
+      "pl": "Ta data pomaga zrozumieć, jak demokracja parlamentarna Weimaru słabła jeszcze przed dojściem nazistów do władzy.",
+      "tr": "Bu tarih, Weimar parlamenter demokrasisinin Naziler iktidara gelmeden önce bile nasıl zayıfladığını anlamaya yardımcı olur.",
+      "zh": "这个日期有助于解释魏玛议会民主在纳粹上台前就已如何削弱。",
+      "ja": "この日付は、ナチスが権力を握る前からワイマールの議会制民主主義がどのように弱まっていたかを理解する助けになります。",
+      "ko": "이 날짜는 나치가 집권하기 전부터 바이마르 의회 민주주의가 어떻게 약화되었는지 이해하는 데 도움이 됩니다.",
+      "hi": "यह तारीख समझने में मदद करती है कि नाज़ियों के सत्ता में आने से पहले ही वाइमर की संसदीय लोकतंत्र कैसे कमजोर हो रही थी।",
+      "ar": "يساعد هذا التاريخ على فهم كيف ضعفت الديمقراطية البرلمانية في فايمار حتى قبل وصول النازيين إلى السلطة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Президентские кабинеты",
           "de": "Praesidialkabinette",
-          "en": "Presidential cabinets"
+          "en": "Presidential cabinets",
+          "fr": "Cabinets présidentiels",
+          "es": "Gabinetes presidenciales",
+          "it": "Governi presidenziali",
+          "pt": "Gabinetes presidenciais",
+          "nl": "Presidentiële kabinetten",
+          "pl": "Gabinety prezydenckie",
+          "tr": "Başkanlık kabineleri",
+          "zh": "总统内阁",
+          "ja": "大統領内閣",
+          "ko": "대통령 내각",
+          "hi": "राष्ट्रपति मंत्रिमंडल",
+          "ar": "حكومات رئاسية"
         },
         "description": {
           "ru": "Правительства начала 1930-х всё чаще опирались не на устойчивое большинство в рейхстаге, а на полномочия президента и чрезвычайные указы. Это подрывало доверие к обычной парламентской политике.",
           "de": "Die Regierungen der fruehen 1930er Jahre stuetzten sich immer weniger auf stabile Mehrheiten im Reichstag, sondern auf den Reichspraesidenten und Notverordnungen. Das untergrub das Vertrauen in normale parlamentarische Politik.",
-          "en": "Governments in the early 1930s increasingly relied not on stable Reichstag majorities, but on presidential powers and emergency decrees. This undermined trust in ordinary parliamentary politics."
+          "en": "Governments in the early 1930s increasingly relied not on stable Reichstag majorities, but on presidential powers and emergency decrees. This undermined trust in ordinary parliamentary politics.",
+          "fr": "Au début des années 1930, les gouvernements s'appuyaient de moins en moins sur des majorités stables au Reichstag et de plus en plus sur les pouvoirs du président et les décrets d'urgence. Cela minait la confiance dans la politique parlementaire ordinaire.",
+          "es": "Los gobiernos de comienzos de los años 1930 dependían cada vez menos de mayorías estables en el Reichstag y más de los poderes presidenciales y decretos de emergencia. Esto socavó la confianza en la política parlamentaria normal.",
+          "it": "I governi dei primi anni Trenta si basavano sempre meno su maggioranze stabili nel Reichstag e sempre più sui poteri presidenziali e sui decreti d'emergenza. Questo minò la fiducia nella normale politica parlamentare.",
+          "pt": "Os governos do início dos anos 1930 dependiam cada vez menos de maiorias estáveis no Reichstag e mais dos poderes presidenciais e de decretos de emergência. Isto minou a confiança na política parlamentar normal.",
+          "nl": "Regeringen begin jaren 1930 steunden steeds minder op stabiele meerderheden in de Rijksdag, maar op presidentiële bevoegdheden en noodverordeningen. Dit ondermijnde het vertrouwen in gewone parlementaire politiek.",
+          "pl": "Rządy na początku lat 30. coraz mniej opierały się na stabilnych większościach w Reichstagu, a coraz bardziej na uprawnieniach prezydenta i dekretach nadzwyczajnych. Podważało to zaufanie do zwykłej polityki parlamentarnej.",
+          "tr": "1930'ların başındaki hükümetler giderek daha az istikrarlı Reichstag çoğunluklarına, daha çok başkanlık yetkilerine ve olağanüstü kararnamelere dayanıyordu. Bu durum sıradan parlamenter siyasete güveni aşındırdı.",
+          "zh": "20世纪30年代初的政府越来越少依靠国会中的稳定多数，而更多依靠总统权力和紧急法令。这削弱了人们对普通议会政治的信任。",
+          "ja": "1930年代初めの政府は、国会の安定多数よりも大統領権限と緊急令に頼るようになりました。これは通常の議会政治への信頼を損ないました。",
+          "ko": "1930년대 초 정부들은 점점 더 라이히스탁의 안정적 다수보다 대통령 권한과 긴급명령에 의존했습니다. 이는 일반적인 의회 정치에 대한 신뢰를 약화시켰습니다.",
+          "hi": "1930 के शुरुआती वर्षों की सरकारें राइखस्टाग में स्थिर बहुमत पर नहीं, बल्कि राष्ट्रपति की शक्तियों और आपात आदेशों पर अधिक निर्भर होने लगीं। इससे सामान्य संसदीय राजनीति पर विश्वास कमजोर हुआ।",
+          "ar": "اعتمدت حكومات أوائل الثلاثينيات بشكل متزايد لا على أغلبيات مستقرة في الرايخستاغ، بل على صلاحيات الرئيس ومراسيم الطوارئ. وقد قوض ذلك الثقة بالسياسة البرلمانية العادية."
         },
         "importance": {
           "ru": "Это важный шаг в цепочке событий, которая привела к разрушению демократии.",
           "de": "Das ist ein wichtiger Schritt in der Kette von Ereignissen, die zur Zerstoerung der Demokratie fuehrte.",
-          "en": "It is an important step in the chain of events that led to the destruction of democracy."
+          "en": "It is an important step in the chain of events that led to the destruction of democracy.",
+          "fr": "C'est une étape importante dans la chaîne d'événements qui mena à la destruction de la démocratie.",
+          "es": "Es un paso importante en la cadena de acontecimientos que llevó a la destrucción de la democracia.",
+          "it": "È un passo importante nella catena di eventi che portò alla distruzione della democrazia.",
+          "pt": "É um passo importante na cadeia de acontecimentos que levou à destruição da democracia.",
+          "nl": "Het is een belangrijke stap in de keten van gebeurtenissen die tot de vernietiging van de democratie leidde.",
+          "pl": "To ważny krok w łańcuchu wydarzeń, które doprowadziły do zniszczenia demokracji.",
+          "tr": "Bu, demokrasinin yıkımına giden olaylar zincirinde önemli bir adımdır.",
+          "zh": "这是导致民主被摧毁的一连串事件中的重要一步。",
+          "ja": "これは民主主義の破壊へつながる一連の出来事の中で重要な一歩です。",
+          "ko": "이는 민주주의 파괴로 이어진 사건들의 연쇄에서 중요한 단계입니다.",
+          "hi": "यह लोकतंत्र के विनाश तक ले जाने वाली घटनाओं की श्रृंखला में महत्वपूर्ण कदम है।",
+          "ar": "إنها خطوة مهمة في سلسلة الأحداث التي أدت إلى تدمير الديمقراطية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Брюнинга часто связывают с жёсткой политикой экономии во время Великой депрессии.",
     "de": "Bruening wird oft mit harter Sparpolitik waehrend der Weltwirtschaftskrise verbunden.",
-    "en": "Bruening is often associated with harsh austerity during the Great Depression."
+    "en": "Bruening is often associated with harsh austerity during the Great Depression.",
+    "fr": "Bruening est souvent associé à une politique d'austérité sévère pendant la Grande Dépression.",
+    "es": "Bruening suele asociarse con una dura política de austeridad durante la Gran Depresión.",
+    "it": "Bruening è spesso associato a una dura politica di austerità durante la Grande depressione.",
+    "pt": "Bruening é frequentemente associado a uma política de austeridade dura durante a Grande Depressão.",
+    "nl": "Bruening wordt vaak geassocieerd met harde bezuinigingspolitiek tijdens de Grote Depressie.",
+    "pl": "Bruening jest często kojarzony z surową polityką oszczędności w czasie Wielkiego Kryzysu.",
+    "tr": "Bruening, Büyük Buhran sırasında sert kemer sıkma politikasıyla sıkça ilişkilendirilir.",
+    "zh": "布吕宁常被与大萧条时期严厉的紧缩政策联系在一起。",
+    "ja": "ブリューニングは大恐慌期の厳しい緊縮政策とよく結びつけられます。",
+    "ko": "브뤼닝은 대공황 시기의 강한 긴축 정책과 자주 연결됩니다.",
+    "hi": "ब्रूनिंग को अक्सर महामंदी के दौरान कठोर मितव्ययिता नीति से जोड़ा जाता है।",
+    "ar": "غالبا ما يرتبط برونينغ بسياسة تقشف صارمة خلال الكساد الكبير."
   },
   "sources": [
     {
