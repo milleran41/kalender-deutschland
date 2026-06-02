@@ -11,17 +11,53 @@
     "title": {
       "ru": "Провозглашена вторая Баварская советская республика",
       "de": "Die zweite Bayerische Raeterepublik wird ausgerufen",
-      "en": "The second Bavarian Soviet Republic is proclaimed"
+      "en": "The second Bavarian Soviet Republic is proclaimed",
+      "fr": "La deuxième république soviétique bavaroise est proclamée",
+      "es": "Se proclama la segunda República Soviética de Baviera",
+      "it": "Viene proclamata la seconda Repubblica sovietica bavarese",
+      "pt": "É proclamada a segunda República Soviética da Baviera",
+      "nl": "De tweede Beierse Radenrepubliek wordt uitgeroepen",
+      "pl": "Proklamowano drugą Bawarską Republikę Rad",
+      "tr": "İkinci Bavyera Sovyet Cumhuriyeti ilan edildi",
+      "zh": "第二个巴伐利亚苏维埃共和国宣告成立",
+      "ja": "第二次バイエルン・レーテ共和国が宣言される",
+      "ko": "제2차 바이에른 소비에트 공화국이 선포되다",
+      "hi": "दूसरी बावेरियन सोवियत गणराज्य की घोषणा हुई",
+      "ar": "إعلان الجمهورية السوفيتية البافارية الثانية"
     },
     "description": {
       "ru": "13 апреля 1919 года в Мюнхене была провозглашена коммунистическая Баварская советская республика. Она просуществовала недолго, но стала ярким эпизодом революционного хаоса после Первой мировой войны.",
       "de": "Am 13. April 1919 wurde in Muenchen die kommunistische Bayerische Raeterepublik ausgerufen. Sie bestand nur kurze Zeit, wurde aber zu einer auffaelligen Episode des revolutionaeren Chaos nach dem Ersten Weltkrieg.",
-      "en": "On 13 April 1919, the communist Bavarian Soviet Republic was proclaimed in Munich. It lasted only a short time, but became a striking episode of revolutionary chaos after the First World War."
+      "en": "On 13 April 1919, the communist Bavarian Soviet Republic was proclaimed in Munich. It lasted only a short time, but became a striking episode of revolutionary chaos after the First World War.",
+      "fr": "Le 13 avril 1919, la république soviétique bavaroise communiste fut proclamée à Munich. Elle ne dura que peu de temps, mais devint un épisode marquant du chaos révolutionnaire après la Première Guerre mondiale.",
+      "es": "El 13 de abril de 1919 se proclamó en Múnich la República Soviética de Baviera comunista. Duró poco tiempo, pero se convirtió en un episodio llamativo del caos revolucionario tras la Primera Guerra Mundial.",
+      "it": "Il 13 aprile 1919 fu proclamata a Monaco la Repubblica sovietica bavarese comunista. Durò poco, ma divenne un episodio vistoso del caos rivoluzionario dopo la Prima guerra mondiale.",
+      "pt": "Em 13 de abril de 1919 foi proclamada em Munique a República Soviética da Baviera comunista. Durou pouco tempo, mas tornou-se um episódio marcante do caos revolucionário após a Primeira Guerra Mundial.",
+      "nl": "Op 13 april 1919 werd in München de communistische Beierse Radenrepubliek uitgeroepen. Zij bestond maar kort, maar werd een opvallende episode van revolutionaire chaos na de Eerste Wereldoorlog.",
+      "pl": "13 kwietnia 1919 roku w Monachium proklamowano komunistyczną Bawarską Republikę Rad. Istniała krótko, ale stała się wyrazistym epizodem rewolucyjnego chaosu po pierwszej wojnie światowej.",
+      "tr": "13 Nisan 1919'da Münih'te komünist Bavyera Sovyet Cumhuriyeti ilan edildi. Kısa süre yaşadı, ancak Birinci Dünya Savaşı sonrasındaki devrimci kaosun dikkat çekici bir bölümü oldu.",
+      "zh": "1919年4月13日，共产主义的巴伐利亚苏维埃共和国在慕尼黑宣告成立。它存在时间很短，却成为第一次世界大战后革命混乱中的一个醒目事件。",
+      "ja": "1919年4月13日、ミュンヘンで共産主義のバイエルン・レーテ共和国が宣言されました。存続期間は短かったものの、第一次世界大戦後の革命的混乱を象徴する出来事となりました。",
+      "ko": "1919년 4월 13일, 뮌헨에서 공산주의 바이에른 소비에트 공화국이 선포되었습니다. 오래 지속되지는 않았지만, 제1차 세계대전 이후 혁명적 혼란의 두드러진 사건이 되었습니다.",
+      "hi": "13 अप्रैल 1919 को म्यूनिख में कम्युनिस्ट बावेरियन सोवियत गणराज्य की घोषणा हुई। यह बहुत कम समय तक रहा, लेकिन प्रथम विश्व युद्ध के बाद क्रांतिकारी अराजकता का एक उल्लेखनीय प्रसंग बन गया।",
+      "ar": "في 13 أبريل 1919 أُعلنت في ميونيخ الجمهورية السوفيتية البافارية الشيوعية. لم تدم طويلا، لكنها أصبحت حلقة بارزة من الفوضى الثورية بعد الحرب العالمية الأولى."
     },
     "importance": {
       "ru": "Дата показывает, насколько нестабильной была Германия сразу после войны и падения монархии.",
       "de": "Das Datum zeigt, wie instabil Deutschland direkt nach Krieg und Monarchieende war.",
-      "en": "The date shows how unstable Germany was immediately after the war and the fall of monarchy."
+      "en": "The date shows how unstable Germany was immediately after the war and the fall of monarchy.",
+      "fr": "Cette date montre à quel point l'Allemagne était instable juste après la guerre et la chute de la monarchie.",
+      "es": "La fecha muestra lo inestable que era Alemania inmediatamente después de la guerra y la caída de la monarquía.",
+      "it": "La data mostra quanto fosse instabile la Germania subito dopo la guerra e la caduta della monarchia.",
+      "pt": "A data mostra como a Alemanha estava instável logo após a guerra e a queda da monarquia.",
+      "nl": "Deze datum laat zien hoe instabiel Duitsland direct na de oorlog en de val van de monarchie was.",
+      "pl": "Ta data pokazuje, jak niestabilne były Niemcy tuż po wojnie i upadku monarchii.",
+      "tr": "Bu tarih, savaşın ve monarşinin çöküşünün hemen ardından Almanya'nın ne kadar istikrarsız olduğunu gösterir.",
+      "zh": "这个日期显示，战争结束和君主制倒台后德国有多么不稳定。",
+      "ja": "この日付は、戦争と君主制崩壊の直後にドイツがどれほど不安定だったかを示しています。",
+      "ko": "이 날짜는 전쟁과 군주제 붕괴 직후 독일이 얼마나 불안정했는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि युद्ध और राजतंत्र के पतन के तुरंत बाद जर्मनी कितना अस्थिर था।",
+      "ar": "يبين هذا التاريخ مدى اضطراب ألمانيا مباشرة بعد الحرب وسقوط الملكية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Мюнхен в революции",
           "de": "Muenchen in der Revolution",
-          "en": "Munich in revolution"
+          "en": "Munich in revolution",
+          "fr": "Munich dans la révolution",
+          "es": "Múnich en la revolución",
+          "it": "Monaco nella rivoluzione",
+          "pt": "Munique na revolução",
+          "nl": "München in revolutie",
+          "pl": "Monachium w rewolucji",
+          "tr": "Devrim içindeki Münih",
+          "zh": "革命中的慕尼黑",
+          "ja": "革命の中のミュンヘン",
+          "ko": "혁명 속의 뮌헨",
+          "hi": "क्रांति में म्यूनिख",
+          "ar": "ميونيخ في الثورة"
         },
         "description": {
           "ru": "После убийства Курта Эйснера и борьбы разных левых групп Мюнхен стал ареной острого политического конфликта. Подавление советской республики сопровождалось насилием.",
           "de": "Nach der Ermordung Kurt Eisners und dem Streit verschiedener linker Gruppen wurde Muenchen zum Schauplatz eines scharfen politischen Konflikts. Die Niederschlagung der Raeterepublik war von Gewalt begleitet.",
-          "en": "After Kurt Eisner's murder and conflict among different left-wing groups, Munich became the scene of sharp political conflict. The suppression of the soviet republic was accompanied by violence."
+          "en": "After Kurt Eisner's murder and conflict among different left-wing groups, Munich became the scene of sharp political conflict. The suppression of the soviet republic was accompanied by violence.",
+          "fr": "Après l'assassinat de Kurt Eisner et les conflits entre différents groupes de gauche, Munich devint le théâtre d'un violent conflit politique. L'écrasement de la république soviétique s'accompagna de violences.",
+          "es": "Tras el asesinato de Kurt Eisner y el conflicto entre distintos grupos de izquierda, Múnich se convirtió en escenario de un fuerte conflicto político. La represión de la república soviética estuvo acompañada de violencia.",
+          "it": "Dopo l'assassinio di Kurt Eisner e lo scontro tra diversi gruppi di sinistra, Monaco divenne teatro di un aspro conflitto politico. La repressione della repubblica sovietica fu accompagnata da violenza.",
+          "pt": "Depois do assassinato de Kurt Eisner e do conflito entre diferentes grupos de esquerda, Munique tornou-se palco de um intenso conflito político. A repressão da república soviética foi acompanhada por violência.",
+          "nl": "Na de moord op Kurt Eisner en conflicten tussen verschillende linkse groepen werd München het toneel van scherp politiek conflict. De onderdrukking van de radenrepubliek ging gepaard met geweld.",
+          "pl": "Po zabójstwie Kurta Eisnera i sporach między różnymi grupami lewicowymi Monachium stało się miejscem ostrego konfliktu politycznego. Stłumieniu republiki rad towarzyszyła przemoc.",
+          "tr": "Kurt Eisner'in öldürülmesinden ve farklı sol gruplar arasındaki çatışmalardan sonra Münih keskin bir siyasi çatışmanın sahnesi oldu. Sovyet cumhuriyetinin bastırılması şiddetle birlikte gerçekleşti.",
+          "zh": "库尔特·艾斯纳遇刺以及不同左翼团体发生冲突后，慕尼黑成为激烈政治冲突的舞台。镇压苏维埃共和国伴随着暴力。",
+          "ja": "クルト・アイスナー暗殺と左派諸勢力の対立の後、ミュンヘンは激しい政治対立の舞台となりました。レーテ共和国の鎮圧には暴力が伴いました。",
+          "ko": "쿠르트 아이스너 암살과 여러 좌파 집단 사이의 갈등 이후, 뮌헨은 격렬한 정치 갈등의 무대가 되었습니다. 소비에트 공화국 진압에는 폭력이 뒤따랐습니다.",
+          "hi": "कुर्ट आइज़नर की हत्या और अलग-अलग वामपंथी समूहों के संघर्ष के बाद म्यूनिख तीखे राजनीतिक संघर्ष का केंद्र बन गया। सोवियत गणराज्य के दमन के साथ हिंसा भी हुई।",
+          "ar": "بعد اغتيال كورت آيزنر والصراع بين مجموعات يسارية مختلفة، أصبحت ميونيخ مسرحا لصراع سياسي حاد. ورافق قمع الجمهورية السوفيتية عنف."
         },
         "importance": {
           "ru": "Это помогает понять, почему ранняя Веймарская республика с самого начала была окружена страхами и радикализацией.",
           "de": "Das hilft zu verstehen, warum die fruehe Weimarer Republik von Anfang an von Aengsten und Radikalisierung umgeben war.",
-          "en": "It helps explain why the early Weimar Republic was surrounded from the start by fear and radicalization."
+          "en": "It helps explain why the early Weimar Republic was surrounded from the start by fear and radicalization.",
+          "fr": "Cela aide à comprendre pourquoi la jeune république de Weimar fut entourée dès le début par la peur et la radicalisation.",
+          "es": "Ayuda a explicar por qué la temprana República de Weimar estuvo rodeada desde el principio de miedo y radicalización.",
+          "it": "Aiuta a capire perché la giovane Repubblica di Weimar fu circondata fin dall'inizio da paura e radicalizzazione.",
+          "pt": "Ajuda a explicar por que a jovem República de Weimar esteve cercada desde o início por medo e radicalização.",
+          "nl": "Het helpt verklaren waarom de vroege Weimarrepubliek vanaf het begin werd omgeven door angst en radicalisering.",
+          "pl": "Pomaga to wyjaśnić, dlaczego wczesna Republika Weimarska od początku była otoczona strachem i radykalizacją.",
+          "tr": "Bu, erken Weimar Cumhuriyeti'nin neden baştan itibaren korku ve radikalleşmeyle çevrili olduğunu açıklamaya yardımcı olur.",
+          "zh": "这有助于解释为什么早期魏玛共和国从一开始就被恐惧和激进化包围。",
+          "ja": "これは、初期のワイマール共和国が最初から不安と急進化に囲まれていた理由を理解する助けになります。",
+          "ko": "이는 초기 바이마르 공화국이 처음부터 두려움과 급진화에 둘러싸였던 이유를 설명하는 데 도움이 됩니다.",
+          "hi": "यह समझाने में मदद करता है कि शुरुआती वाइमर गणराज्य शुरू से ही भय और कट्टरता से क्यों घिरा था।",
+          "ar": "يساعد ذلك على فهم سبب إحاطة جمهورية فايمار المبكرة منذ البداية بالخوف والتطرف."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Государство на несколько недель",
           "de": "Ein Staat fuer wenige Wochen",
-          "en": "A state for a few weeks"
+          "en": "A state for a few weeks",
+          "fr": "Un État pour quelques semaines",
+          "es": "Un Estado de unas pocas semanas",
+          "it": "Uno Stato per poche settimane",
+          "pt": "Um Estado por poucas semanas",
+          "nl": "Een staat voor een paar weken",
+          "pl": "Państwo na kilka tygodni",
+          "tr": "Birkaç haftalık bir devlet",
+          "zh": "只存在几周的国家",
+          "ja": "数週間だけの国家",
+          "ko": "몇 주 동안의 국가",
+          "hi": "कुछ हफ्तों का राज्य",
+          "ar": "دولة لبضعة أسابيع"
         },
         "description": {
           "ru": "Баварская советская республика существовала так недолго, что кажется почти невероятной вставкой в историю Мюнхена. Но такие короткие эпизоды иногда сильно влияют на политическую память.",
           "de": "Die Bayerische Raeterepublik bestand so kurz, dass sie fast wie eine unwahrscheinliche Episode der Muenchner Geschichte wirkt. Doch solche kurzen Phasen praegen oft die politische Erinnerung.",
-          "en": "The Bavarian Soviet Republic existed so briefly that it seems almost like an unlikely episode in Munich's history. But such short episodes often strongly shape political memory."
+          "en": "The Bavarian Soviet Republic existed so briefly that it seems almost like an unlikely episode in Munich's history. But such short episodes often strongly shape political memory.",
+          "fr": "La république soviétique bavaroise exista si brièvement qu'elle paraît presque être un épisode improbable de l'histoire de Munich. Mais de tels épisodes courts marquent souvent fortement la mémoire politique.",
+          "es": "La República Soviética de Baviera existió tan poco tiempo que parece casi un episodio improbable de la historia de Múnich. Pero episodios tan breves a menudo moldean con fuerza la memoria política.",
+          "it": "La Repubblica sovietica bavarese esistette così poco che sembra quasi un episodio improbabile della storia di Monaco. Ma episodi così brevi spesso plasmano fortemente la memoria politica.",
+          "pt": "A República Soviética da Baviera existiu por tão pouco tempo que parece quase um episódio improvável da história de Munique. Mas episódios tão breves muitas vezes moldam fortemente a memória política.",
+          "nl": "De Beierse Radenrepubliek bestond zo kort dat zij bijna een onwaarschijnlijke episode in de geschiedenis van München lijkt. Maar zulke korte episodes vormen vaak sterk het politieke geheugen.",
+          "pl": "Bawarska Republika Rad istniała tak krótko, że wydaje się niemal nieprawdopodobnym epizodem w historii Monachium. Ale takie krótkie wydarzenia często silnie kształtują pamięć polityczną.",
+          "tr": "Bavyera Sovyet Cumhuriyeti o kadar kısa yaşadı ki Münih tarihinin neredeyse inanılması güç bir bölümü gibi görünür. Ancak böyle kısa olaylar çoğu zaman siyasi hafızayı güçlü biçimde şekillendirir.",
+          "zh": "巴伐利亚苏维埃共和国存在得如此短暂，几乎像慕尼黑历史中一个难以置信的插曲。但这种短暂事件常常强烈塑造政治记忆。",
+          "ja": "バイエルン・レーテ共和国はあまりに短命だったため、ミュンヘン史の中ではほとんど信じがたい挿話のように見えます。しかし、このような短い出来事が政治的記憶を強く形作ることがあります。",
+          "ko": "바이에른 소비에트 공화국은 너무 짧게 존재해서 뮌헨 역사에서 거의 믿기 어려운 에피소드처럼 보입니다. 그러나 이런 짧은 사건들이 정치적 기억을 강하게 형성하기도 합니다.",
+          "hi": "बावेरियन सोवियत गणराज्य इतना कम समय रहा कि वह म्यूनिख के इतिहास में लगभग अविश्वसनीय प्रसंग जैसा लगता है। लेकिन ऐसे छोटे प्रसंग अक्सर राजनीतिक स्मृति को गहराई से प्रभावित करते हैं।",
+          "ar": "دامت الجمهورية السوفيتية البافارية فترة قصيرة إلى حد أنها تبدو كأنها حلقة غير متوقعة في تاريخ ميونيخ. لكن مثل هذه الحلقات القصيرة غالبا ما تشكل الذاكرة السياسية بقوة."
         },
         "importance": {
           "ru": "Курьёзность срока не отменяет серьёзности последствий.",
           "de": "Die Kuerze der Dauer macht die Folgen nicht weniger ernst.",
-          "en": "The curious shortness of its duration does not make the consequences less serious."
+          "en": "The curious shortness of its duration does not make the consequences less serious.",
+          "fr": "La brièveté étonnante de sa durée ne rend pas ses conséquences moins graves.",
+          "es": "La curiosa brevedad de su duración no hace menos graves sus consecuencias.",
+          "it": "La curiosa brevità della sua durata non rende meno serie le conseguenze.",
+          "pt": "A curiosa brevidade da sua duração não torna as consequências menos sérias.",
+          "nl": "De opvallende kortheid van de duur maakt de gevolgen niet minder ernstig.",
+          "pl": "Zaskakująca krótkość trwania nie czyni skutków mniej poważnymi.",
+          "tr": "Süresinin ilginç derecede kısa olması sonuçları daha az ciddi yapmaz.",
+          "zh": "其存在时间短得令人惊讶，但这并不削弱后果的严重性。",
+          "ja": "その存続期間の短さが奇妙に見えても、結果の深刻さが薄れるわけではありません。",
+          "ko": "그 기간이 놀라울 만큼 짧았다고 해서 결과가 덜 심각해지는 것은 아닙니다.",
+          "hi": "इसके समय की अजीब छोटी अवधि परिणामों को कम गंभीर नहीं बनाती।",
+          "ar": "إن قصر مدتها اللافت لا يجعل عواقبها أقل خطورة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "События 1919 года в Мюнхене позже активно использовались правыми радикалами в политической пропаганде.",
     "de": "Die Ereignisse von 1919 in Muenchen wurden spaeter von rechten Radikalen stark propagandistisch genutzt.",
-    "en": "The events of 1919 in Munich were later heavily used in propaganda by right-wing radicals."
+    "en": "The events of 1919 in Munich were later heavily used in propaganda by right-wing radicals.",
+    "fr": "Les événements de 1919 à Munich furent ensuite largement utilisés dans la propagande des radicaux de droite.",
+    "es": "Los acontecimientos de 1919 en Múnich fueron utilizados más tarde de forma intensa en la propaganda de los radicales de derecha.",
+    "it": "Gli eventi del 1919 a Monaco furono poi ampiamente usati nella propaganda dai radicali di destra.",
+    "pt": "Os acontecimentos de 1919 em Munique foram depois muito usados na propaganda por radicais de direita.",
+    "nl": "De gebeurtenissen van 1919 in München werden later sterk gebruikt in propaganda door rechtse radicalen.",
+    "pl": "Wydarzenia 1919 roku w Monachium były później intensywnie wykorzystywane w propagandzie przez radykałów prawicowych.",
+    "tr": "1919'da Münih'te yaşanan olaylar daha sonra sağcı radikaller tarafından propagandada yoğun biçimde kullanıldı.",
+    "zh": "1919年慕尼黑事件后来被右翼激进分子大量用于政治宣传。",
+    "ja": "1919年のミュンヘンでの出来事は、後に右翼急進派の宣伝で大きく利用されました。",
+    "ko": "1919년 뮌헨의 사건들은 이후 우익 급진 세력의 선전에 많이 이용되었습니다.",
+    "hi": "1919 में म्यूनिख की घटनाओं को बाद में दक्षिणपंथी कट्टरपंथियों ने प्रचार में बहुत इस्तेमाल किया।",
+    "ar": "استُخدمت أحداث عام 1919 في ميونيخ لاحقا بكثافة في دعاية المتطرفين اليمينيين."
   },
   "sources": [
     {
