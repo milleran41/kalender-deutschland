@@ -11,17 +11,53 @@
     "title": {
       "ru": "Пруссия была официально упразднена",
       "de": "Preussen wird offiziell aufgeloest",
-      "en": "Prussia is officially abolished"
+      "en": "Prussia is officially abolished",
+      "fr": "La Prusse est officiellement abolie",
+      "es": "Prusia es abolida oficialmente",
+      "it": "La Prussia viene ufficialmente abolita",
+      "pt": "A Prússia é oficialmente abolida",
+      "nl": "Pruisen wordt officieel afgeschaft",
+      "pl": "Prusy zostają oficjalnie zniesione",
+      "tr": "Prusya resmen kaldırıldı",
+      "zh": "普鲁士被正式废除",
+      "ja": "プロイセンが正式に廃止される",
+      "ko": "프로이센이 공식적으로 폐지되다",
+      "hi": "प्रशिया को आधिकारिक रूप से समाप्त किया गया",
+      "ar": "إلغاء بروسيا رسميا"
     },
     "description": {
       "ru": "25 февраля 1947 года Союзный контрольный совет принял закон N 46 об упразднении Пруссии. Государство, которое веками играло огромную роль в немецкой истории, юридически прекратило существование.",
       "de": "Am 25. Februar 1947 erliess der Alliierte Kontrollrat das Gesetz Nr. 46 zur Aufloesung Preussens. Der Staat, der ueber Jahrhunderte eine enorme Rolle in der deutschen Geschichte gespielt hatte, hoerte rechtlich auf zu bestehen.",
-      "en": "On 25 February 1947, the Allied Control Council issued Law No. 46 abolishing Prussia. The state that had played an enormous role in German history for centuries legally ceased to exist."
+      "en": "On 25 February 1947, the Allied Control Council issued Law No. 46 abolishing Prussia. The state that had played an enormous role in German history for centuries legally ceased to exist.",
+      "fr": "Le 25 février 1947, le Conseil de contrôle allié adopta la loi n° 46 abolissant la Prusse. L'État qui avait joué pendant des siècles un rôle immense dans l'histoire allemande cessa juridiquement d'exister.",
+      "es": "El 25 de febrero de 1947, el Consejo de Control Aliado aprobó la Ley n.º 46 que abolía Prusia. El Estado que durante siglos había desempeñado un papel enorme en la historia alemana dejó de existir jurídicamente.",
+      "it": "Il 25 febbraio 1947 il Consiglio di controllo alleato emanò la legge n. 46 che aboliva la Prussia. Lo Stato che per secoli aveva avuto un ruolo enorme nella storia tedesca cessò giuridicamente di esistere.",
+      "pt": "Em 25 de fevereiro de 1947, o Conselho de Controlo Aliado emitiu a Lei n.º 46 que aboliu a Prússia. O Estado que durante séculos desempenhara um papel enorme na história alemã deixou juridicamente de existir.",
+      "nl": "Op 25 februari 1947 vaardigde de Geallieerde Controleraad Wet nr. 46 uit, waarmee Pruisen werd opgeheven. De staat die eeuwenlang een enorme rol in de Duitse geschiedenis had gespeeld, hield juridisch op te bestaan.",
+      "pl": "25 lutego 1947 roku Sojusznicza Rada Kontroli wydała ustawę nr 46 o zniesieniu Prus. Państwo, które przez stulecia odgrywało ogromną rolę w historii Niemiec, prawnie przestało istnieć.",
+      "tr": "25 Şubat 1947'de Müttefik Kontrol Konseyi, Prusya'yı kaldıran 46 sayılı yasayı çıkardı. Yüzyıllar boyunca Alman tarihinde büyük rol oynayan devlet hukuken varlığını sona erdirdi.",
+      "zh": "1947年2月25日，盟国管制委员会颁布第46号法令，废除普鲁士。这个在德国历史上数百年来发挥巨大作用的国家，在法律上停止存在。",
+      "ja": "1947年2月25日、連合国管理理事会はプロイセン廃止に関する第46号法を公布しました。何世紀にもわたりドイツ史で大きな役割を果たした国家は、法的に存在を終えました。",
+      "ko": "1947년 2월 25일, 연합국 관리위원회는 프로이센을 폐지하는 제46호 법을 발표했습니다. 수세기 동안 독일 역사에서 거대한 역할을 했던 국가는 법적으로 존재를 끝냈습니다.",
+      "hi": "25 फ़रवरी 1947 को मित्र राष्ट्र नियंत्रण परिषद ने प्रशिया को समाप्त करने वाला कानून संख्या 46 जारी किया। सदियों तक जर्मन इतिहास में बहुत बड़ी भूमिका निभाने वाला यह राज्य कानूनी रूप से अस्तित्व में नहीं रहा।",
+      "ar": "في 25 فبراير 1947 أصدر مجلس الرقابة الحلفاء القانون رقم 46 الذي ألغى بروسيا. وبذلك انتهى قانونيا وجود الدولة التي لعبت لقرون دورا هائلا في التاريخ الألماني."
     },
     "importance": {
       "ru": "Это важная дата для понимания послевоенной карты Германии и конца старой прусской государственности.",
       "de": "Das ist ein wichtiges Datum zum Verstaendnis der Nachkriegskarte Deutschlands und des Endes alter preussischer Staatlichkeit.",
-      "en": "It is an important date for understanding Germany's postwar map and the end of old Prussian statehood."
+      "en": "It is an important date for understanding Germany's postwar map and the end of old Prussian statehood.",
+      "fr": "C'est une date importante pour comprendre la carte de l'Allemagne d'après-guerre et la fin de l'ancienne tradition étatique prussienne.",
+      "es": "Es una fecha importante para entender el mapa alemán de posguerra y el final de la antigua estatalidad prusiana.",
+      "it": "È una data importante per comprendere la carta della Germania del dopoguerra e la fine della vecchia statualità prussiana.",
+      "pt": "É uma data importante para compreender o mapa da Alemanha do pós-guerra e o fim da antiga estatalidade prussiana.",
+      "nl": "Het is een belangrijke datum om de naoorlogse kaart van Duitsland en het einde van de oude Pruisische staatsvorm te begrijpen.",
+      "pl": "To ważna data dla zrozumienia powojennej mapy Niemiec i końca dawnej pruskiej państwowości.",
+      "tr": "Bu tarih, Almanya'nın savaş sonrası haritasını ve eski Prusya devlet geleneğinin sonunu anlamak için önemlidir.",
+      "zh": "这是理解战后德国地图以及旧普鲁士国家传统终结的重要日期。",
+      "ja": "これは、戦後ドイツの地図と古いプロイセン国家性の終わりを理解するうえで重要な日付です。",
+      "ko": "이는 전후 독일의 지도와 오래된 프로이센 국가성의 종말을 이해하는 데 중요한 날짜입니다.",
+      "hi": "यह युद्धोत्तर जर्मनी के नक्शे और पुरानी प्रशियाई राज्य व्यवस्था के अंत को समझने की महत्वपूर्ण तारीख है।",
+      "ar": "إنه تاريخ مهم لفهم خريطة ألمانيا بعد الحرب ونهاية الدولة البروسية القديمة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Закон Союзного контрольного совета",
           "de": "Gesetz des Alliierten Kontrollrats",
-          "en": "Allied Control Council law"
+          "en": "Allied Control Council law",
+          "fr": "Loi du Conseil de contrôle allié",
+          "es": "Ley del Consejo de Control Aliado",
+          "it": "Legge del Consiglio di controllo alleato",
+          "pt": "Lei do Conselho de Controlo Aliado",
+          "nl": "Wet van de Geallieerde Controleraad",
+          "pl": "Ustawa Sojuszniczej Rady Kontroli",
+          "tr": "Müttefik Kontrol Konseyi yasası",
+          "zh": "盟国管制委员会法令",
+          "ja": "連合国管理理事会の法律",
+          "ko": "연합국 관리위원회 법",
+          "hi": "मित्र राष्ट्र नियंत्रण परिषद का कानून",
+          "ar": "قانون مجلس الرقابة الحلفاء"
         },
         "description": {
           "ru": "После Второй мировой войны Германия находилась под властью союзников. Закон N 46 прямо связывал Пруссию с милитаризмом и реакцией и распределял её территории между новыми землями.",
           "de": "Nach dem Zweiten Weltkrieg stand Deutschland unter alliierter Kontrolle. Gesetz Nr. 46 verband Preussen ausdruecklich mit Militarismus und Reaktion und verteilte seine Gebiete auf neue Laender.",
-          "en": "After the Second World War, Germany was under Allied control. Law No. 46 explicitly linked Prussia with militarism and reaction and assigned its territories to new states."
+          "en": "After the Second World War, Germany was under Allied control. Law No. 46 explicitly linked Prussia with militarism and reaction and assigned its territories to new states.",
+          "fr": "Après la Seconde Guerre mondiale, l'Allemagne était sous contrôle allié. La loi n° 46 associait explicitement la Prusse au militarisme et à la réaction et répartissait ses territoires entre de nouveaux Länder.",
+          "es": "Después de la Segunda Guerra Mundial, Alemania estaba bajo control aliado. La Ley n.º 46 vinculaba explícitamente a Prusia con el militarismo y la reacción y repartía sus territorios entre nuevos estados federados.",
+          "it": "Dopo la Seconda guerra mondiale, la Germania era sotto controllo alleato. La legge n. 46 collegava esplicitamente la Prussia al militarismo e alla reazione e distribuiva i suoi territori tra nuovi Länder.",
+          "pt": "Depois da Segunda Guerra Mundial, a Alemanha estava sob controlo aliado. A Lei n.º 46 ligava explicitamente a Prússia ao militarismo e à reação e distribuía os seus territórios por novos estados.",
+          "nl": "Na de Tweede Wereldoorlog stond Duitsland onder geallieerd toezicht. Wet nr. 46 verbond Pruisen uitdrukkelijk met militarisme en reactie en verdeelde zijn gebieden over nieuwe deelstaten.",
+          "pl": "Po drugiej wojnie światowej Niemcy znajdowały się pod kontrolą aliantów. Ustawa nr 46 wyraźnie łączyła Prusy z militaryzmem i reakcją oraz rozdzielała ich terytoria między nowe kraje związkowe.",
+          "tr": "İkinci Dünya Savaşı'ndan sonra Almanya Müttefik denetimi altındaydı. 46 sayılı yasa Prusya'yı açıkça militarizm ve gericilikle ilişkilendirdi ve topraklarını yeni eyaletlere dağıttı.",
+          "zh": "第二次世界大战后，德国处于盟国控制之下。第46号法令明确将普鲁士与军国主义和反动联系起来，并把其领土分配给新的州。",
+          "ja": "第二次世界大戦後、ドイツは連合国の管理下にありました。第46号法はプロイセンを軍国主義と反動に明確に結びつけ、その領土を新しい州へ分配しました。",
+          "ko": "제2차 세계대전 이후 독일은 연합국의 통제 아래 있었습니다. 제46호 법은 프로이센을 군국주의와 반동과 명시적으로 연결하고 그 영토를 새로운 주들에 배분했습니다.",
+          "hi": "द्वितीय विश्व युद्ध के बाद जर्मनी मित्र राष्ट्रों के नियंत्रण में था। कानून संख्या 46 ने प्रशिया को स्पष्ट रूप से सैन्यवाद और प्रतिक्रियावाद से जोड़ा और उसके क्षेत्रों को नए राज्यों में बाँट दिया।",
+          "ar": "بعد الحرب العالمية الثانية كانت ألمانيا تحت سيطرة الحلفاء. وربط القانون رقم 46 بروسيا صراحة بالعسكرة والرجعية ووزع أراضيها على ولايات جديدة."
         },
         "importance": {
           "ru": "Так союзники пытались построить новую Германию без старого символа военной мощи.",
           "de": "So versuchten die Alliierten, ein neues Deutschland ohne das alte Symbol militaerischer Macht aufzubauen.",
-          "en": "The Allies thus tried to build a new Germany without the old symbol of military power."
+          "en": "The Allies thus tried to build a new Germany without the old symbol of military power.",
+          "fr": "Les Alliés tentaient ainsi de construire une nouvelle Allemagne sans l'ancien symbole de puissance militaire.",
+          "es": "Así, los aliados intentaban construir una nueva Alemania sin el antiguo símbolo del poder militar.",
+          "it": "In questo modo gli Alleati cercavano di costruire una nuova Germania senza il vecchio simbolo della potenza militare.",
+          "pt": "Assim, os Aliados tentavam construir uma nova Alemanha sem o antigo símbolo do poder militar.",
+          "nl": "Zo probeerden de geallieerden een nieuw Duitsland op te bouwen zonder het oude symbool van militaire macht.",
+          "pl": "W ten sposób alianci próbowali zbudować nowe Niemcy bez dawnego symbolu potęgi militarnej.",
+          "tr": "Müttefikler böylece eski askeri güç simgesi olmadan yeni bir Almanya kurmaya çalıştı.",
+          "zh": "盟国试图以这种方式建设一个没有旧军事力量象征的新德国。",
+          "ja": "連合国はこうして、軍事力の古い象徴を持たない新しいドイツを築こうとしました。",
+          "ko": "연합국은 이렇게 오래된 군사력의 상징 없이 새로운 독일을 세우려 했습니다.",
+          "hi": "इस तरह मित्र राष्ट्र पुराने सैन्य शक्ति प्रतीक के बिना नया जर्मनी बनाना चाहते थे।",
+          "ar": "هكذا حاول الحلفاء بناء ألمانيا جديدة من دون الرمز القديم للقوة العسكرية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Название исчезло с политической карты",
           "de": "Der Name verschwindet von der politischen Karte",
-          "en": "The name disappears from the political map"
+          "en": "The name disappears from the political map",
+          "fr": "Le nom disparaît de la carte politique",
+          "es": "El nombre desaparece del mapa político",
+          "it": "Il nome scompare dalla carta politica",
+          "pt": "O nome desaparece do mapa político",
+          "nl": "De naam verdwijnt van de politieke kaart",
+          "pl": "Nazwa znika z mapy politycznej",
+          "tr": "Ad siyasi haritadan kayboldu",
+          "zh": "这个名称从政治地图上消失",
+          "ja": "その名前が政治地図から消える",
+          "ko": "그 이름이 정치 지도에서 사라지다",
+          "hi": "नाम राजनीतिक नक्शे से गायब हो गया",
+          "ar": "اختفاء الاسم من الخريطة السياسية"
         },
         "description": {
           "ru": "После 1947 года Пруссия осталась в музеях, книгах, памятниках и семейной памяти, но не как действующее государство. Это редкий случай, когда крупное историческое имя исчезает юридическим актом.",
           "de": "Nach 1947 blieb Preussen in Museen, Buechern, Denkmaelern und Familienerinnerungen erhalten, aber nicht als handelnder Staat. Das ist ein seltener Fall, in dem ein grosser historischer Name durch einen Rechtsakt verschwindet.",
-          "en": "After 1947, Prussia remained in museums, books, monuments and family memory, but not as an active state. It is a rare case of a major historical name disappearing through a legal act."
+          "en": "After 1947, Prussia remained in museums, books, monuments and family memory, but not as an active state. It is a rare case of a major historical name disappearing through a legal act.",
+          "fr": "Après 1947, la Prusse resta présente dans les musées, les livres, les monuments et la mémoire familiale, mais plus comme État actif. C'est un cas rare où un grand nom historique disparaît par un acte juridique.",
+          "es": "Después de 1947, Prusia permaneció en museos, libros, monumentos y memoria familiar, pero no como Estado activo. Es un caso raro en el que un gran nombre histórico desaparece mediante un acto jurídico.",
+          "it": "Dopo il 1947, la Prussia rimase nei musei, nei libri, nei monumenti e nella memoria familiare, ma non come Stato attivo. È un caso raro in cui un grande nome storico scompare tramite un atto giuridico.",
+          "pt": "Depois de 1947, a Prússia permaneceu em museus, livros, monumentos e memórias familiares, mas não como Estado ativo. É um caso raro em que um grande nome histórico desaparece por ato jurídico.",
+          "nl": "Na 1947 bleef Pruisen bestaan in musea, boeken, monumenten en familieherinneringen, maar niet als handelende staat. Het is een zeldzaam geval waarin een grote historische naam door een juridische handeling verdwijnt.",
+          "pl": "Po 1947 roku Prusy pozostały w muzeach, książkach, pomnikach i pamięci rodzinnej, ale nie jako działające państwo. To rzadki przypadek, gdy wielka nazwa historyczna znika aktem prawnym.",
+          "tr": "1947'den sonra Prusya müzelerde, kitaplarda, anıtlarda ve aile hafızasında kaldı, ama etkin bir devlet olarak değil. Büyük bir tarihsel adın hukuki bir işlemle kaybolduğu nadir bir örnektir.",
+          "zh": "1947年后，普鲁士仍存在于博物馆、书籍、纪念碑和家庭记忆中，但不再是一个运作中的国家。这是一个重大历史名称通过法律行为消失的罕见案例。",
+          "ja": "1947年以後、プロイセンは博物館、本、記念碑、家族の記憶の中には残りましたが、活動する国家ではありませんでした。大きな歴史的名称が法的行為によって消える珍しい例です。",
+          "ko": "1947년 이후 프로이센은 박물관, 책, 기념물, 가족의 기억 속에 남았지만 더 이상 활동하는 국가는 아니었습니다. 큰 역사적 이름이 법적 행위로 사라진 드문 사례입니다.",
+          "hi": "1947 के बाद प्रशिया संग्रहालयों, किताबों, स्मारकों और पारिवारिक स्मृति में बचा रहा, लेकिन सक्रिय राज्य के रूप में नहीं। यह दुर्लभ मामला है जब बड़ा ऐतिहासिक नाम कानूनी अधिनियम से गायब हो जाता है।",
+          "ar": "بعد عام 1947 بقيت بروسيا في المتاحف والكتب والآثار والذاكرة العائلية، لا كدولة فاعلة. إنها حالة نادرة يختفي فيها اسم تاريخي كبير بفعل قانوني."
         },
         "importance": {
           "ru": "Для календаря с картами это особенно интересно: исчезла не земля на карте, а политическое имя.",
           "de": "Fuer einen Kalender mit Karten ist das besonders interessant: Nicht das Land auf der Karte verschwand, sondern der politische Name.",
-          "en": "For a calendar with maps, this is especially interesting: the land did not disappear from the map, but the political name did."
+          "en": "For a calendar with maps, this is especially interesting: the land did not disappear from the map, but the political name did.",
+          "fr": "Pour un calendrier avec des cartes, c'est particulièrement intéressant: ce n'est pas la terre qui a disparu de la carte, mais le nom politique.",
+          "es": "Para un calendario con mapas, esto es especialmente interesante: no desapareció la tierra del mapa, sino el nombre político.",
+          "it": "Per un calendario con mappe è particolarmente interessante: non scomparve la terra dalla carta, ma il nome politico.",
+          "pt": "Para um calendário com mapas, isto é especialmente interessante: não foi a terra que desapareceu do mapa, mas o nome político.",
+          "nl": "Voor een kalender met kaarten is dit bijzonder interessant: niet het land verdween van de kaart, maar de politieke naam.",
+          "pl": "Dla kalendarza z mapami jest to szczególnie ciekawe: z mapy nie zniknęła ziemia, lecz nazwa polityczna.",
+          "tr": "Haritalı bir takvim için bu özellikle ilginçtir: haritadan kaybolan toprak değil, siyasi addı.",
+          "zh": "对于带地图的日历来说，这尤其有趣：从地图上消失的不是土地，而是政治名称。",
+          "ja": "地図付きのカレンダーにとって、これは特に興味深い点です。地図から消えたのは土地ではなく、政治的名称でした。",
+          "ko": "지도가 있는 달력에는 특히 흥미로운 점입니다. 지도에서 사라진 것은 땅이 아니라 정치적 이름이었습니다.",
+          "hi": "नक्शों वाले कैलेंडर के लिए यह खास दिलचस्प है: नक्शे से जमीन नहीं, राजनीतिक नाम गायब हुआ।",
+          "ar": "بالنسبة إلى تقويم مع خرائط، فهذا مثير للاهتمام خاصة: لم تختف الأرض من الخريطة، بل الاسم السياسي."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Части бывшей Пруссии сегодня находятся в нескольких землях Германии, а также за пределами современной Германии.",
     "de": "Teile des frueheren Preussens liegen heute in mehreren deutschen Laendern und auch ausserhalb des heutigen Deutschlands.",
-    "en": "Parts of former Prussia are now located in several German states and also outside modern Germany."
+    "en": "Parts of former Prussia are now located in several German states and also outside modern Germany.",
+    "fr": "Des parties de l'ancienne Prusse se trouvent aujourd'hui dans plusieurs Länder allemands ainsi qu'en dehors de l'Allemagne actuelle.",
+    "es": "Partes de la antigua Prusia se encuentran hoy en varios estados federados alemanes y también fuera de la Alemania actual.",
+    "it": "Parti dell'antica Prussia si trovano oggi in diversi Länder tedeschi e anche fuori dalla Germania moderna.",
+    "pt": "Partes da antiga Prússia estão hoje em vários estados alemães e também fora da Alemanha atual.",
+    "nl": "Delen van het vroegere Pruisen liggen tegenwoordig in verschillende Duitse deelstaten en ook buiten het huidige Duitsland.",
+    "pl": "Części dawnych Prus znajdują się dziś w kilku krajach związkowych Niemiec, a także poza współczesnymi Niemcami.",
+    "tr": "Eski Prusya'nın bazı bölümleri bugün birkaç Alman eyaletinde ve modern Almanya'nın dışında yer alır.",
+    "zh": "前普鲁士的部分地区如今位于德国多个州，也位于现代德国之外。",
+    "ja": "旧プロイセンの一部は現在、複数のドイツの州にあり、現代ドイツの外にもあります。",
+    "ko": "옛 프로이센의 일부는 오늘날 여러 독일 주와 현대 독일 밖에 위치합니다.",
+    "hi": "पूर्व प्रशिया के हिस्से आज जर्मनी के कई राज्यों में और आधुनिक जर्मनी के बाहर भी स्थित हैं।",
+    "ar": "تقع أجزاء من بروسيا السابقة اليوم في عدة ولايات ألمانية، وكذلك خارج ألمانيا الحديثة."
   },
   "sources": [
     {

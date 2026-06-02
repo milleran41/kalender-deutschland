@@ -11,17 +11,53 @@
     "title": {
       "ru": "Пожар в рейхстаге",
       "de": "Der Reichstagsbrand",
-      "en": "The Reichstag fire"
+      "en": "The Reichstag fire",
+      "fr": "L'incendie du Reichstag",
+      "es": "El incendio del Reichstag",
+      "it": "L'incendio del Reichstag",
+      "pt": "O incêndio do Reichstag",
+      "nl": "De Rijksdagbrand",
+      "pl": "Pożar Reichstagu",
+      "tr": "Reichstag yangını",
+      "zh": "国会大厦纵火案",
+      "ja": "ライヒ議会議事堂火災",
+      "ko": "라이히스탁 화재",
+      "hi": "राइखस्टाग आग",
+      "ar": "حريق الرايخستاغ"
     },
     "description": {
       "ru": "27 февраля 1933 года здание рейхстага в Берлине было сильно повреждено пожаром. Нацисты использовали событие как повод для чрезвычайных мер против политических противников.",
       "de": "Am 27. Februar 1933 wurde das Reichstagsgebaeude in Berlin durch Feuer schwer beschaedigt. Die Nationalsozialisten nutzten das Ereignis als Vorwand fuer Notmassnahmen gegen politische Gegner.",
-      "en": "On 27 February 1933, the Reichstag building in Berlin was badly damaged by fire. The Nazis used the event as a pretext for emergency measures against political opponents."
+      "en": "On 27 February 1933, the Reichstag building in Berlin was badly damaged by fire. The Nazis used the event as a pretext for emergency measures against political opponents.",
+      "fr": "Le 27 février 1933, le bâtiment du Reichstag à Berlin fut gravement endommagé par un incendie. Les nazis utilisèrent l'événement comme prétexte pour prendre des mesures d'urgence contre leurs adversaires politiques.",
+      "es": "El 27 de febrero de 1933, el edificio del Reichstag en Berlín quedó gravemente dañado por un incendio. Los nazis usaron el hecho como pretexto para medidas de emergencia contra opositores políticos.",
+      "it": "Il 27 febbraio 1933 l'edificio del Reichstag a Berlino fu gravemente danneggiato da un incendio. I nazisti usarono l'evento come pretesto per misure d'emergenza contro gli oppositori politici.",
+      "pt": "Em 27 de fevereiro de 1933, o edifício do Reichstag em Berlim foi gravemente danificado por um incêndio. Os nazis usaram o acontecimento como pretexto para medidas de emergência contra adversários políticos.",
+      "nl": "Op 27 februari 1933 werd het Rijksdaggebouw in Berlijn zwaar beschadigd door brand. De nazi's gebruikten de gebeurtenis als voorwendsel voor noodmaatregelen tegen politieke tegenstanders.",
+      "pl": "27 lutego 1933 roku budynek Reichstagu w Berlinie został poważnie uszkodzony przez pożar. Naziści wykorzystali to wydarzenie jako pretekst do nadzwyczajnych działań przeciwko przeciwnikom politycznym.",
+      "tr": "27 Şubat 1933'te Berlin'deki Reichstag binası yangında ağır hasar gördü. Naziler bu olayı siyasi rakiplere karşı olağanüstü önlemler için bahane olarak kullandı.",
+      "zh": "1933年2月27日，柏林国会大厦被大火严重损坏。纳粹利用这一事件作为对政治对手采取紧急措施的借口。",
+      "ja": "1933年2月27日、ベルリンのライヒ議会議事堂は火災で大きな被害を受けました。ナチスはこの出来事を、政治的反対者に対する非常措置の口実として利用しました。",
+      "ko": "1933년 2월 27일, 베를린의 라이히스탁 건물이 화재로 심하게 파손되었습니다. 나치는 이 사건을 정치적 반대자들에 대한 긴급 조치의 구실로 이용했습니다.",
+      "hi": "27 फ़रवरी 1933 को बर्लिन में राइखस्टाग भवन आग से बुरी तरह क्षतिग्रस्त हुआ। नाजियों ने इस घटना को राजनीतिक विरोधियों के खिलाफ आपात उपायों के बहाने के रूप में इस्तेमाल किया।",
+      "ar": "في 27 فبراير 1933 تضرر مبنى الرايخستاغ في برلين بشدة بسبب حريق. واستخدم النازيون الحدث ذريعة لاتخاذ إجراءات طارئة ضد الخصوم السياسيين."
     },
     "importance": {
       "ru": "На следующий день был принят указ, который фактически приостановил важные гражданские свободы.",
       "de": "Am naechsten Tag wurde eine Notverordnung erlassen, die wichtige Grundrechte faktisch ausser Kraft setzte.",
-      "en": "The next day, an emergency decree effectively suspended key civil liberties."
+      "en": "The next day, an emergency decree effectively suspended key civil liberties.",
+      "fr": "Le lendemain, un décret d'urgence suspendit de fait d'importantes libertés civiles.",
+      "es": "Al día siguiente, un decreto de emergencia suspendió de hecho importantes libertades civiles.",
+      "it": "Il giorno successivo, un decreto d'emergenza sospese di fatto importanti libertà civili.",
+      "pt": "No dia seguinte, um decreto de emergência suspendeu na prática importantes liberdades civis.",
+      "nl": "De volgende dag schortte een noodverordening belangrijke burgerlijke vrijheden feitelijk op.",
+      "pl": "Następnego dnia dekret nadzwyczajny faktycznie zawiesił ważne swobody obywatelskie.",
+      "tr": "Ertesi gün çıkarılan olağanüstü kararname temel sivil özgürlükleri fiilen askıya aldı.",
+      "zh": "第二天，一项紧急法令实际上暂停了重要的公民自由。",
+      "ja": "翌日、非常令によって重要な市民的自由が事実上停止されました。",
+      "ko": "다음 날 긴급 명령이 주요 시민 자유를 사실상 정지시켰습니다.",
+      "hi": "अगले दिन एक आपात आदेश ने महत्वपूर्ण नागरिक स्वतंत्रताओं को व्यवहार में निलंबित कर दिया।",
+      "ar": "في اليوم التالي علق مرسوم طارئ فعليا حريات مدنية مهمة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Указ после пожара",
           "de": "Die Verordnung nach dem Brand",
-          "en": "The decree after the fire"
+          "en": "The decree after the fire",
+          "fr": "Le décret après l'incendie",
+          "es": "El decreto después del incendio",
+          "it": "Il decreto dopo l'incendio",
+          "pt": "O decreto após o incêndio",
+          "nl": "De verordening na de brand",
+          "pl": "Dekret po pożarze",
+          "tr": "Yangından sonraki kararname",
+          "zh": "火灾后的法令",
+          "ja": "火災後の命令",
+          "ko": "화재 이후의 명령",
+          "hi": "आग के बाद आदेश",
+          "ar": "المرسوم بعد الحريق"
         },
         "description": {
           "ru": "Указ «О защите народа и государства» стал инструментом преследования оппозиции. Он помог нацистам превращать исключение в постоянную систему власти.",
           "de": "Die Verordnung zum Schutz von Volk und Staat wurde ein Werkzeug zur Verfolgung der Opposition. Sie half den Nationalsozialisten, den Ausnahmezustand zur Herrschaftsform zu machen.",
-          "en": "The Decree for the Protection of People and State became a tool for persecuting opposition. It helped the Nazis turn emergency rule into a system of power."
+          "en": "The Decree for the Protection of People and State became a tool for persecuting opposition. It helped the Nazis turn emergency rule into a system of power.",
+          "fr": "Le décret pour la protection du peuple et de l'État devint un outil de persécution de l'opposition. Il aida les nazis à transformer l'état d'exception en système de pouvoir.",
+          "es": "El Decreto para la Protección del Pueblo y del Estado se convirtió en una herramienta para perseguir a la oposición. Ayudó a los nazis a convertir el estado de excepción en una forma permanente de poder.",
+          "it": "Il decreto per la protezione del popolo e dello Stato divenne uno strumento di persecuzione dell'opposizione. Aiutò i nazisti a trasformare lo stato d'eccezione in un sistema di potere.",
+          "pt": "O Decreto para a Proteção do Povo e do Estado tornou-se uma ferramenta de perseguição da oposição. Ajudou os nazis a transformar o estado de exceção num sistema de poder.",
+          "nl": "De Verordening ter bescherming van volk en staat werd een instrument om de oppositie te vervolgen. Ze hielp de nazi's de noodtoestand tot een machtsvorm te maken.",
+          "pl": "Dekret o ochronie narodu i państwa stał się narzędziem prześladowania opozycji. Pomógł nazistom przekształcić stan wyjątkowy w system władzy.",
+          "tr": "Halkı ve Devleti Koruma Kararnamesi muhalefeti takip etmenin aracı oldu. Nazilerin olağanüstü hali bir iktidar sistemine dönüştürmesine yardım etti.",
+          "zh": "《保护人民和国家法令》成为迫害反对派的工具。它帮助纳粹把紧急状态变成一种权力体系。",
+          "ja": "「国民と国家を保護するための命令」は、反対派を迫害する道具となりました。それはナチスが非常状態を権力の仕組みに変える助けとなりました。",
+          "ko": "국민과 국가 보호를 위한 명령은 반대파를 박해하는 도구가 되었습니다. 이는 나치가 비상통치를 권력 체계로 바꾸는 데 도움을 주었습니다.",
+          "hi": "जनता और राज्य की रक्षा का आदेश विपक्ष को सताने का उपकरण बन गया। इसने नाजियों को आपात स्थिति को सत्ता की व्यवस्था में बदलने में मदद की।",
+          "ar": "أصبح مرسوم حماية الشعب والدولة أداة لملاحقة المعارضة. وساعد النازيين على تحويل حالة الطوارئ إلى نظام حكم."
         },
         "importance": {
           "ru": "Это пример того, как страх и кризис могут быть использованы против прав граждан.",
           "de": "Das ist ein Beispiel dafuer, wie Angst und Krise gegen Buergerrechte genutzt werden koennen.",
-          "en": "It is an example of how fear and crisis can be used against civil rights."
+          "en": "It is an example of how fear and crisis can be used against civil rights.",
+          "fr": "C'est un exemple de la manière dont la peur et la crise peuvent être utilisées contre les droits civiques.",
+          "es": "Es un ejemplo de cómo el miedo y la crisis pueden usarse contra los derechos civiles.",
+          "it": "È un esempio di come paura e crisi possano essere usate contro i diritti civili.",
+          "pt": "É um exemplo de como o medo e a crise podem ser usados contra os direitos civis.",
+          "nl": "Het is een voorbeeld van hoe angst en crisis tegen burgerrechten kunnen worden gebruikt.",
+          "pl": "To przykład tego, jak strach i kryzys mogą zostać użyte przeciwko prawom obywatelskim.",
+          "tr": "Bu, korku ve krizin yurttaş haklarına karşı nasıl kullanılabileceğine bir örnektir.",
+          "zh": "这是恐惧和危机如何被用来对抗公民权利的例子。",
+          "ja": "これは、恐怖と危機が市民の権利に対してどのように利用され得るかを示す例です。",
+          "ko": "이는 공포와 위기가 시민권에 맞서 어떻게 이용될 수 있는지를 보여 주는 사례입니다.",
+          "hi": "यह उदाहरण है कि डर और संकट का उपयोग नागरिक अधिकारों के खिलाफ कैसे किया जा सकता है।",
+          "ar": "إنه مثال على كيف يمكن استخدام الخوف والأزمة ضد الحقوق المدنية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Вопрос о поджигателях долго оставался предметом споров, но политические последствия пожара ясны.",
     "de": "Die Frage nach den Brandstiftern blieb lange umstritten, doch die politischen Folgen des Brandes sind klar.",
-    "en": "The question of who set the fire remained disputed for a long time, but the political consequences are clear."
+    "en": "The question of who set the fire remained disputed for a long time, but the political consequences are clear.",
+    "fr": "La question de savoir qui a allumé l'incendie est restée longtemps controversée, mais ses conséquences politiques sont claires.",
+    "es": "La cuestión de quién provocó el incendio siguió siendo discutida durante mucho tiempo, pero sus consecuencias políticas están claras.",
+    "it": "La questione di chi appiccò l'incendio rimase a lungo controversa, ma le conseguenze politiche sono chiare.",
+    "pt": "A questão de quem ateou o fogo permaneceu controversa durante muito tempo, mas as consequências políticas são claras.",
+    "nl": "De vraag wie de brand stichtte bleef lang omstreden, maar de politieke gevolgen zijn duidelijk.",
+    "pl": "Pytanie o podpalaczy długo pozostawało sporne, ale polityczne skutki pożaru są jasne.",
+    "tr": "Yangını kimin çıkardığı sorusu uzun süre tartışmalı kaldı, ancak siyasi sonuçları açıktır.",
+    "zh": "关于纵火者是谁的问题长期存在争议，但火灾的政治后果十分明确。",
+    "ja": "誰が放火したのかという問題は長く論争の的でしたが、火災の政治的結果は明らかです。",
+    "ko": "누가 불을 질렀는지에 대한 질문은 오랫동안 논쟁적이었지만, 그 정치적 결과는 분명합니다.",
+    "hi": "आग किसने लगाई, यह सवाल लंबे समय तक विवादित रहा, लेकिन उसके राजनीतिक परिणाम स्पष्ट हैं।",
+    "ar": "ظل سؤال من أشعل الحريق محل خلاف طويلا، لكن عواقبه السياسية واضحة."
   },
   "sources": [
     {

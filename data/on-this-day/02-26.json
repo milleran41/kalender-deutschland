@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Ливай Страусс",
       "de": "Levi Strauss wird geboren",
-      "en": "Levi Strauss is born"
+      "en": "Levi Strauss is born",
+      "fr": "Naissance de Levi Strauss",
+      "es": "Nace Levi Strauss",
+      "it": "Nasce Levi Strauss",
+      "pt": "Nasce Levi Strauss",
+      "nl": "Levi Strauss wordt geboren",
+      "pl": "Urodził się Levi Strauss",
+      "tr": "Levi Strauss doğdu",
+      "zh": "利维·施特劳斯出生",
+      "ja": "リーバイ・ストラウスが生まれる",
+      "ko": "리바이 스트라우스가 태어나다",
+      "hi": "लेवी स्ट्रॉस का जन्म हुआ",
+      "ar": "ولادة ليفي شتراوس"
     },
     "description": {
       "ru": "26 февраля 1829 года в баварском Буттенхайме родился Ливай Страусс. Позднее он эмигрировал в США и стал основателем компании, связанной с историей джинсов.",
       "de": "Am 26. Februar 1829 wurde Levi Strauss im bayerischen Buttenheim geboren. Spaeter wanderte er in die USA aus und gruendete ein Unternehmen, das mit der Geschichte der Jeans verbunden ist.",
-      "en": "On 26 February 1829, Levi Strauss was born in Buttenheim, Bavaria. He later emigrated to the United States and founded a company linked with the history of blue jeans."
+      "en": "On 26 February 1829, Levi Strauss was born in Buttenheim, Bavaria. He later emigrated to the United States and founded a company linked with the history of blue jeans.",
+      "fr": "Le 26 février 1829, Levi Strauss naquit à Buttenheim, en Bavière. Il émigra plus tard aux États-Unis et fonda une entreprise liée à l'histoire du jean.",
+      "es": "El 26 de febrero de 1829 nació Levi Strauss en Buttenheim, Baviera. Más tarde emigró a Estados Unidos y fundó una empresa vinculada a la historia de los vaqueros.",
+      "it": "Il 26 febbraio 1829 Levi Strauss nacque a Buttenheim, in Baviera. In seguito emigrò negli Stati Uniti e fondò un'azienda legata alla storia dei jeans.",
+      "pt": "Em 26 de fevereiro de 1829, Levi Strauss nasceu em Buttenheim, na Baviera. Mais tarde emigrou para os Estados Unidos e fundou uma empresa ligada à história dos jeans.",
+      "nl": "Op 26 februari 1829 werd Levi Strauss geboren in Buttenheim, Beieren. Later emigreerde hij naar de Verenigde Staten en richtte een bedrijf op dat verbonden is met de geschiedenis van jeans.",
+      "pl": "26 lutego 1829 roku w bawarskim Buttenheim urodził się Levi Strauss. Później wyemigrował do Stanów Zjednoczonych i założył firmę związaną z historią dżinsów.",
+      "tr": "26 Şubat 1829'da Levi Strauss Bavyera'daki Buttenheim'da doğdu. Daha sonra Amerika Birleşik Devletleri'ne göç etti ve blue jeans tarihiyle bağlantılı bir şirket kurdu.",
+      "zh": "1829年2月26日，利维·施特劳斯出生于巴伐利亚的布滕海姆。后来他移民美国，并创立了一家与牛仔裤历史相关的公司。",
+      "ja": "1829年2月26日、リーバイ・ストラウスはバイエルンのブッテンハイムで生まれました。後にアメリカへ移住し、ジーンズの歴史と結びつく会社を創業しました。",
+      "ko": "1829년 2월 26일, 리바이 스트라우스가 바이에른의 부텐하임에서 태어났습니다. 그는 나중에 미국으로 이주해 청바지 역사와 연결된 회사를 세웠습니다.",
+      "hi": "26 फ़रवरी 1829 को लेवी स्ट्रॉस का जन्म बवेरिया के बुटेनहाइम में हुआ। बाद में वे अमेरिका गए और जीन्स के इतिहास से जुड़ी कंपनी की स्थापना की।",
+      "ar": "في 26 فبراير 1829 وُلد ليفي شتراوس في بوتنهايم البافارية. وهاجر لاحقا إلى الولايات المتحدة وأسس شركة مرتبطة بتاريخ الجينز."
     },
     "importance": {
       "ru": "Его история показывает, как немецкая эмиграция стала частью мировой повседневной культуры.",
       "de": "Seine Geschichte zeigt, wie deutsche Auswanderung Teil der weltweiten Alltagskultur wurde.",
-      "en": "His story shows how German emigration became part of global everyday culture."
+      "en": "His story shows how German emigration became part of global everyday culture.",
+      "fr": "Son histoire montre comment l'émigration allemande est devenue partie de la culture quotidienne mondiale.",
+      "es": "Su historia muestra cómo la emigración alemana se convirtió en parte de la cultura cotidiana mundial.",
+      "it": "La sua storia mostra come l'emigrazione tedesca sia diventata parte della cultura quotidiana mondiale.",
+      "pt": "A sua história mostra como a emigração alemã se tornou parte da cultura quotidiana mundial.",
+      "nl": "Zijn verhaal laat zien hoe Duitse emigratie deel werd van wereldwijde alledaagse cultuur.",
+      "pl": "Jego historia pokazuje, jak niemiecka emigracja stała się częścią światowej kultury codziennej.",
+      "tr": "Onun hikayesi, Alman göçünün küresel gündelik kültürün parçası haline geldiğini gösterir.",
+      "zh": "他的故事显示，德国移民如何成为全球日常文化的一部分。",
+      "ja": "彼の物語は、ドイツ移民が世界の日常文化の一部になったことを示しています。",
+      "ko": "그의 이야기는 독일 이민이 세계 일상 문화의 일부가 되었음을 보여 줍니다.",
+      "hi": "उनकी कहानी दिखाती है कि जर्मन प्रवास विश्व की रोजमर्रा की संस्कृति का हिस्सा कैसे बना।",
+      "ar": "تُظهر قصته كيف أصبحت الهجرة الألمانية جزءا من الثقافة اليومية العالمية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Баварский след в истории джинсов",
           "de": "Bayerische Spur in der Geschichte der Jeans",
-          "en": "A Bavarian trace in the history of jeans"
+          "en": "A Bavarian trace in the history of jeans",
+          "fr": "Une trace bavaroise dans l'histoire du jean",
+          "es": "Una huella bávara en la historia de los vaqueros",
+          "it": "Una traccia bavarese nella storia dei jeans",
+          "pt": "Um traço bávaro na história dos jeans",
+          "nl": "Een Beiers spoor in de geschiedenis van jeans",
+          "pl": "Bawarski ślad w historii dżinsów",
+          "tr": "Jeans tarihinde Bavyera izi",
+          "zh": "牛仔裤历史中的巴伐利亚痕迹",
+          "ja": "ジーンズの歴史に残るバイエルンの足跡",
+          "ko": "청바지 역사 속 바이에른의 흔적",
+          "hi": "जीन्स के इतिहास में बवेरियाई निशान",
+          "ar": "أثر بافاري في تاريخ الجينز"
         },
         "description": {
           "ru": "Джинсы часто воспринимают как американский символ, но один из главных людей в их истории родился в маленьком городке во Франконии. Это забавная связь Баварии с одеждой, которую носят во всём мире.",
           "de": "Jeans gelten oft als amerikanisches Symbol, doch eine der wichtigsten Personen ihrer Geschichte wurde in einem kleinen Ort in Franken geboren. Das ist eine kuriose Verbindung Bayerns mit Kleidung, die weltweit getragen wird.",
-          "en": "Jeans are often seen as an American symbol, yet one of the key people in their history was born in a small Franconian town. It is a curious link between Bavaria and clothing worn worldwide."
+          "en": "Jeans are often seen as an American symbol, yet one of the key people in their history was born in a small Franconian town. It is a curious link between Bavaria and clothing worn worldwide.",
+          "fr": "Le jean est souvent perçu comme un symbole américain, mais l'une des personnes clés de son histoire est née dans une petite ville de Franconie. C'est un lien curieux entre la Bavière et un vêtement porté dans le monde entier.",
+          "es": "Los vaqueros suelen verse como un símbolo estadounidense, pero una de las personas clave de su historia nació en una pequeña localidad de Franconia. Es un vínculo curioso entre Baviera y una prenda que se lleva en todo el mundo.",
+          "it": "I jeans sono spesso considerati un simbolo americano, ma una delle persone principali della loro storia nacque in una piccola città della Franconia. È un curioso legame tra la Baviera e un capo indossato in tutto il mondo.",
+          "pt": "Os jeans são frequentemente vistos como um símbolo americano, mas uma das pessoas centrais da sua história nasceu numa pequena cidade da Francónia. É uma ligação curiosa entre a Baviera e uma peça usada em todo o mundo.",
+          "nl": "Jeans worden vaak gezien als een Amerikaans symbool, maar een van de belangrijkste personen in hun geschiedenis werd geboren in een klein stadje in Franken. Het is een opvallende band tussen Beieren en kleding die wereldwijd wordt gedragen.",
+          "pl": "Dżinsy często uważa się za symbol amerykański, ale jedna z kluczowych osób w ich historii urodziła się w małym miasteczku we Frankonii. To ciekawy związek Bawarii z ubraniem noszonym na całym świecie.",
+          "tr": "Jeans çoğu zaman Amerikan simgesi olarak görülür, ama tarihindeki kilit kişilerden biri Frankonya'daki küçük bir kasabada doğdu. Bu, Bavyera ile tüm dünyada giyilen bir kıyafet arasında ilginç bir bağdır.",
+          "zh": "牛仔裤常被视为美国符号，但其历史中的关键人物之一出生在弗兰肯的一个小镇。这是巴伐利亚与一种全球穿着服装之间有趣的联系。",
+          "ja": "ジーンズはしばしばアメリカの象徴と見なされますが、その歴史の重要人物の一人はフランケン地方の小さな町で生まれました。これは、バイエルンと世界中で着られる衣服との面白い結びつきです。",
+          "ko": "청바지는 흔히 미국의 상징으로 여겨지지만, 그 역사에서 핵심 인물 중 한 명은 프랑켄의 작은 마을에서 태어났습니다. 이는 바이에른과 전 세계에서 입는 옷 사이의 흥미로운 연결입니다.",
+          "hi": "जीन्स को अक्सर अमेरिकी प्रतीक माना जाता है, लेकिन उसके इतिहास की प्रमुख हस्तियों में से एक का जन्म फ्रैंकोनिया के छोटे शहर में हुआ था। यह बवेरिया और दुनिया भर में पहने जाने वाले कपड़े के बीच रोचक संबंध है।",
+          "ar": "غالبا ما يُنظر إلى الجينز كرمز أمريكي، لكن أحد الأشخاص الرئيسيين في تاريخه وُلد في بلدة صغيرة في فرانكونيا. إنها صلة طريفة بين بافاريا ولباس يُرتدى في العالم كله."
         },
         "importance": {
           "ru": "Такой факт делает историю Германии ближе к повседневной жизни.",
           "de": "Ein solcher Fakt bringt deutsche Geschichte naeher an den Alltag.",
-          "en": "This kind of fact brings German history closer to everyday life."
+          "en": "This kind of fact brings German history closer to everyday life.",
+          "fr": "Un tel fait rapproche l'histoire allemande de la vie quotidienne.",
+          "es": "Un dato así acerca la historia alemana a la vida cotidiana.",
+          "it": "Un fatto così avvicina la storia tedesca alla vita quotidiana.",
+          "pt": "Um facto como este aproxima a história alemã da vida quotidiana.",
+          "nl": "Zo'n feit brengt Duitse geschiedenis dichter bij het dagelijks leven.",
+          "pl": "Taki fakt przybliża historię Niemiec do codziennego życia.",
+          "tr": "Böyle bir gerçek Alman tarihini gündelik yaşama yaklaştırır.",
+          "zh": "这样的事实让德国历史更贴近日常生活。",
+          "ja": "このような事実は、ドイツの歴史を日常生活に近づけます。",
+          "ko": "이런 사실은 독일 역사를 일상생활에 더 가깝게 만듭니다.",
+          "hi": "ऐसा तथ्य जर्मन इतिहास को रोजमर्रा की जिंदगी के करीब लाता है।",
+          "ar": "مثل هذه الحقيقة تجعل التاريخ الألماني أقرب إلى الحياة اليومية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Буттенхайме работает музей Ливая Страусса.",
     "de": "In Buttenheim gibt es ein Levi-Strauss-Museum.",
-    "en": "Buttenheim has a Levi Strauss Museum."
+    "en": "Buttenheim has a Levi Strauss Museum.",
+    "fr": "Buttenheim possède un musée Levi Strauss.",
+    "es": "En Buttenheim hay un museo Levi Strauss.",
+    "it": "A Buttenheim c'è un museo Levi Strauss.",
+    "pt": "Em Buttenheim há um Museu Levi Strauss.",
+    "nl": "In Buttenheim is er een Levi Strauss Museum.",
+    "pl": "W Buttenheim działa Muzeum Levi Straussa.",
+    "tr": "Buttenheim'da bir Levi Strauss Müzesi vardır.",
+    "zh": "布滕海姆有一座利维·施特劳斯博物馆。",
+    "ja": "ブッテンハイムにはリーバイ・ストラウス博物館があります。",
+    "ko": "부텐하임에는 리바이 스트라우스 박물관이 있습니다.",
+    "hi": "बुटेनहाइम में लेवी स्ट्रॉस संग्रहालय है।",
+    "ar": "يوجد في بوتنهايم متحف ليفي شتراوس."
   },
   "sources": [
     {
