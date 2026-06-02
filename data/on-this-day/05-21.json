@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Альбрехт Дюрер",
       "de": "Albrecht Duerer wird geboren",
-      "en": "Albrecht Duerer is born"
+      "en": "Albrecht Duerer is born",
+      "fr": "Naissance d'Albrecht Duerer",
+      "es": "Nace Albrecht Duerer",
+      "it": "Nasce Albrecht Duerer",
+      "pt": "Nasce Albrecht Duerer",
+      "nl": "Albrecht Duerer wordt geboren",
+      "pl": "Rodzi sie Albrecht Duerer",
+      "tr": "Albrecht Duerer dogar",
+      "zh": "阿尔布雷希特·丢勒出生",
+      "ja": "アルブレヒト・デューラーが生まれる",
+      "ko": "알브레히트 뒤러가 태어나다",
+      "hi": "अल्ब्रेख्ट ड्यूरर का जन्म",
+      "ar": "مولد ألبرشت دورر"
     },
     "description": {
       "ru": "21 мая 1471 года в Нюрнберге родился Альбрехт Дюрер. Он стал одним из крупнейших художников и графиков немецкого Возрождения.",
       "de": "Am 21. Mai 1471 wurde Albrecht Duerer in Nuernberg geboren. Er wurde einer der bedeutendsten Maler und Grafiker der deutschen Renaissance.",
-      "en": "On 21 May 1471, Albrecht Duerer was born in Nuremberg. He became one of the greatest painters and printmakers of the German Renaissance."
+      "en": "On 21 May 1471, Albrecht Duerer was born in Nuremberg. He became one of the greatest painters and printmakers of the German Renaissance.",
+      "fr": "Le 21 mai 1471, Albrecht Duerer naquit a Nuremberg. Il devint l'un des plus grands peintres et graveurs de la Renaissance allemande.",
+      "es": "El 21 de mayo de 1471 nacio Albrecht Duerer en Nuremberg. Se convirtio en uno de los mayores pintores y grabadores del Renacimiento aleman.",
+      "it": "Il 21 maggio 1471 Albrecht Duerer nacque a Norimberga. Divenne uno dei piu grandi pittori e incisori del Rinascimento tedesco.",
+      "pt": "Em 21 de maio de 1471, Albrecht Duerer nasceu em Nuremberg. Ele se tornou um dos maiores pintores e gravadores do Renascimento alemao.",
+      "nl": "Op 21 mei 1471 werd Albrecht Duerer in Neurenberg geboren. Hij werd een van de grootste schilders en prentmakers van de Duitse renaissance.",
+      "pl": "21 maja 1471 roku Albrecht Duerer urodzil sie w Norymberdze. Stal sie jednym z najwiekszych malarzy i grafikow niemieckiego renesansu.",
+      "tr": "21 Mayis 1471'de Albrecht Duerer Nurnberg'de dogdu. Alman Ronesansi'nin en buyuk ressam ve baski sanatcilarindan biri oldu.",
+      "zh": "1471年5月21日，阿尔布雷希特·丢勒出生于纽伦堡。他成为德国文艺复兴时期最伟大的画家和版画家之一。",
+      "ja": "1471年5月21日、アルブレヒト・デューラーはニュルンベルクで生まれました。彼はドイツ・ルネサンスを代表する偉大な画家、版画家の一人となりました。",
+      "ko": "1471년 5월 21일 알브레히트 뒤러가 뉘른베르크에서 태어났습니다. 그는 독일 르네상스의 가장 위대한 화가이자 판화가 중 한 명이 되었습니다.",
+      "hi": "21 मई 1471 को अल्ब्रेख्ट ड्यूरर का जन्म नूर्नबर्ग में हुआ। वे जर्मन पुनर्जागरण के महानतम चित्रकारों और प्रिंट कलाकारों में से एक बने।",
+      "ar": "في 21 مايو 1471 ولد ألبرشت دورر في نورنبرغ. واصبح واحدا من اعظم رسامي وفناني الحفر في النهضة الالمانية."
     },
     "importance": {
       "ru": "Дюрер сделал немецкое искусство частью общеевропейского Возрождения.",
       "de": "Duerer machte deutsche Kunst zu einem Teil der gesamteuropaeischen Renaissance.",
-      "en": "Duerer made German art part of the wider European Renaissance."
+      "en": "Duerer made German art part of the wider European Renaissance.",
+      "fr": "Duerer fit de l'art allemand une partie de la Renaissance europeenne plus large.",
+      "es": "Duerer hizo que el arte aleman formara parte del Renacimiento europeo mas amplio.",
+      "it": "Duerer rese l'arte tedesca parte del piu ampio Rinascimento europeo.",
+      "pt": "Duerer fez da arte alema parte do Renascimento europeu mais amplo.",
+      "nl": "Duerer maakte Duitse kunst onderdeel van de bredere Europese renaissance.",
+      "pl": "Duerer uczynil sztuke niemiecka czescia szerszego europejskiego renesansu.",
+      "tr": "Duerer, Alman sanatini daha genis Avrupa Ronesansi'nin bir parcasi haline getirdi.",
+      "zh": "丢勒使德国艺术成为更广阔的欧洲文艺复兴的一部分。",
+      "ja": "デューラーはドイツ美術を、より広いヨーロッパ・ルネサンスの一部にしました。",
+      "ko": "뒤러는 독일 미술을 더 넓은 유럽 르네상스의 일부로 만들었습니다.",
+      "hi": "ड्यूरर ने जर्मन कला को व्यापक यूरोपीय पुनर्जागरण का हिस्सा बनाया।",
+      "ar": "جعل دورر الفن الالماني جزءا من النهضة الاوروبية الاوسع."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Мастер гравюры",
           "de": "Meister des Drucks",
-          "en": "Master of printmaking"
+          "en": "Master of printmaking",
+          "fr": "Maitre de la gravure",
+          "es": "Maestro del grabado",
+          "it": "Maestro dell'incisione",
+          "pt": "Mestre da gravura",
+          "nl": "Meester van de prentkunst",
+          "pl": "Mistrz grafiki",
+          "tr": "Baski sanatinin ustasi",
+          "zh": "版画大师",
+          "ja": "版画の巨匠",
+          "ko": "판화의 거장",
+          "hi": "प्रिंट कला के उस्ताद",
+          "ar": "استاذ فن الحفر"
         },
         "description": {
           "ru": "Дюрер прославился не только живописью, но и гравюрами, которые можно было распространять шире, чем уникальные картины. Так искусство стало мобильнее.",
           "de": "Duerer wurde nicht nur durch Malerei, sondern auch durch Druckgrafik beruehmt, die weiter verbreitet werden konnte als einzelne Gemaelde. So wurde Kunst mobiler.",
-          "en": "Duerer became famous not only for painting but also for prints, which could circulate more widely than unique paintings. Art became more mobile."
+          "en": "Duerer became famous not only for painting but also for prints, which could circulate more widely than unique paintings. Art became more mobile.",
+          "fr": "Duerer devint celebre non seulement pour sa peinture, mais aussi pour ses gravures, qui pouvaient circuler plus largement que des tableaux uniques. L'art devint plus mobile.",
+          "es": "Duerer se hizo famoso no solo por la pintura, sino tambien por los grabados, que podian circular mucho mas que las pinturas unicas. El arte se volvio mas movil.",
+          "it": "Duerer divenne famoso non solo per la pittura, ma anche per le stampe, che potevano circolare piu ampiamente dei quadri unici. L'arte divenne piu mobile.",
+          "pt": "Duerer ficou famoso nao apenas pela pintura, mas tambem pelas gravuras, que podiam circular mais amplamente do que pinturas unicas. A arte tornou-se mais movel.",
+          "nl": "Duerer werd niet alleen beroemd door schilderkunst, maar ook door prenten, die zich ruimer konden verspreiden dan unieke schilderijen. Kunst werd mobieler.",
+          "pl": "Duerer zaslynal nie tylko z malarstwa, lecz takze z grafik, ktore mogly krazyc szerzej niz pojedyncze obrazy. Sztuka stala sie bardziej mobilna.",
+          "tr": "Duerer yalnizca resimleriyle degil, tekil tablolardan daha genis dolasabilen baskilariyla da un kazandi. Sanat daha hareketli hale geldi.",
+          "zh": "丢勒不仅因绘画闻名，也因版画闻名，因为版画比独一无二的绘画更容易广泛传播。艺术因此变得更具流动性。",
+          "ja": "デューラーは絵画だけでなく、唯一の絵画より広く流通できる版画でも有名になりました。芸術はより移動しやすいものになったのです。",
+          "ko": "뒤러는 회화뿐 아니라, 하나뿐인 그림보다 더 널리 퍼질 수 있는 판화로도 유명해졌습니다. 예술은 더 이동성이 커졌습니다.",
+          "hi": "ड्यूरर केवल चित्रकला से नहीं, बल्कि उन प्रिंटों से भी प्रसिद्ध हुए जिन्हें एकमात्र चित्रों से अधिक व्यापक रूप से फैलाया जा सकता था। कला अधिक गतिशील हो गई।",
+          "ar": "اشتهر دورر ليس بالرسم فقط، بل بالمطبوعات ايضا، لانها كانت تنتشر على نطاق اوسع من اللوحات الفريدة. وهكذا صار الفن اكثر حركة."
         },
         "importance": {
           "ru": "Это связывает искусство с историей печати и массового распространения образов.",
           "de": "Das verbindet Kunst mit der Geschichte des Drucks und der Verbreitung von Bildern.",
-          "en": "It links art with the history of printing and the spread of images."
+          "en": "It links art with the history of printing and the spread of images.",
+          "fr": "Cela relie l'art a l'histoire de l'imprimerie et de la diffusion des images.",
+          "es": "Esto vincula el arte con la historia de la impresion y la difusion de imagenes.",
+          "it": "Questo collega l'arte alla storia della stampa e della diffusione delle immagini.",
+          "pt": "Isso liga a arte a historia da impressao e da difusao de imagens.",
+          "nl": "Het verbindt kunst met de geschiedenis van drukken en de verspreiding van beelden.",
+          "pl": "Laczy to sztuke z historia druku i rozpowszechniania obrazow.",
+          "tr": "Bu, sanati baski tarihi ve imgelerin yayilmasiyla iliskilendirir.",
+          "zh": "这把艺术同印刷史和图像传播联系起来。",
+          "ja": "これは芸術を印刷の歴史と画像の普及に結び付けています。",
+          "ko": "이는 예술을 인쇄의 역사와 이미지 확산과 연결합니다.",
+          "hi": "यह कला को छपाई के इतिहास और छवियों के प्रसार से जोड़ता है।",
+          "ar": "يربط ذلك الفن بتاريخ الطباعة وانتشار الصور."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Нюрнберг хранит дом-музей Дюрера как одну из городских достопримечательностей.",
     "de": "Nuernberg bewahrt das Duererhaus als eine seiner Sehenswuerdigkeiten.",
-    "en": "Nuremberg preserves Duerer's house as one of the city's landmarks."
+    "en": "Nuremberg preserves Duerer's house as one of the city's landmarks.",
+    "fr": "Nuremberg conserve la maison de Duerer comme l'un des monuments de la ville.",
+    "es": "Nuremberg conserva la casa de Duerer como uno de los lugares destacados de la ciudad.",
+    "it": "Norimberga conserva la casa di Duerer come una delle attrazioni della citta.",
+    "pt": "Nuremberg preserva a casa de Duerer como um dos marcos da cidade.",
+    "nl": "Neurenberg bewaart het Duererhuis als een van de bezienswaardigheden van de stad.",
+    "pl": "Norymberga zachowuje dom Duerera jako jedna z miejskich atrakcji.",
+    "tr": "Nurnberg, Duerer'in evini sehrin onemli gorulecek yerlerinden biri olarak korur.",
+    "zh": "纽伦堡保留着丢勒故居，作为城市名胜之一。",
+    "ja": "ニュルンベルクはデューラーの家を市の名所の一つとして保存しています。",
+    "ko": "뉘른베르크는 뒤러의 집을 도시의 명소 중 하나로 보존하고 있습니다.",
+    "hi": "नूर्नबर्ग ड्यूरर के घर को शहर के प्रमुख स्थलों में से एक के रूप में सुरक्षित रखता है।",
+    "ar": "تحافظ نورنبرغ على بيت دورر بوصفه احد معالم المدينة."
   },
   "sources": [
     {

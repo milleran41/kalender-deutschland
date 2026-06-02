@@ -11,17 +11,53 @@
     "title": {
       "ru": "Разорение Магдебурга",
       "de": "Die Zerstoerung Magdeburgs",
-      "en": "The sack of Magdeburg"
+      "en": "The sack of Magdeburg",
+      "fr": "Le sac de Magdebourg",
+      "es": "El saqueo de Magdeburgo",
+      "it": "Il sacco di Magdeburgo",
+      "pt": "O saque de Magdeburgo",
+      "nl": "De plundering van Maagdenburg",
+      "pl": "Zlupienie Magdeburga",
+      "tr": "Magdeburg'un yagmalanmasi",
+      "zh": "马格德堡之劫",
+      "ja": "マクデブルクの略奪",
+      "ko": "마그데부르크 약탈",
+      "hi": "मैगडेबर्ग की लूट",
+      "ar": "نهب ماغديبورغ"
     },
     "description": {
       "ru": "20 мая 1631 года, во время Тридцатилетней войны, войска Католической лиги и императора захватили протестантский Магдебург. Город был разрушен, а гибель жителей стала одним из самых страшных эпизодов войны.",
       "de": "Am 20. Mai 1631 eroberten Truppen der Katholischen Liga und des Kaisers im Dreissigjaehrigen Krieg das protestantische Magdeburg. Die Stadt wurde verwuestet, und der Tod vieler Einwohner wurde zu einer der schrecklichsten Episoden des Krieges.",
-      "en": "On 20 May 1631, during the Thirty Years' War, troops of the Catholic League and the emperor captured Protestant Magdeburg. The city was devastated, and the deaths of many inhabitants became one of the war's most horrific episodes."
+      "en": "On 20 May 1631, during the Thirty Years' War, troops of the Catholic League and the emperor captured Protestant Magdeburg. The city was devastated, and the deaths of many inhabitants became one of the war's most horrific episodes.",
+      "fr": "Le 20 mai 1631, pendant la guerre de Trente Ans, les troupes de la Ligue catholique et de l'empereur prirent Magdebourg, ville protestante. La ville fut devastee, et la mort de nombreux habitants devint l'un des episodes les plus terribles de la guerre.",
+      "es": "El 20 de mayo de 1631, durante la Guerra de los Treinta Anos, tropas de la Liga Catolica y del emperador tomaron la protestante Magdeburgo. La ciudad fue devastada, y la muerte de muchos habitantes se convirtio en uno de los episodios mas terribles de la guerra.",
+      "it": "Il 20 maggio 1631, durante la Guerra dei Trent'anni, le truppe della Lega cattolica e dell'imperatore conquistarono la protestante Magdeburgo. La citta fu devastata e la morte di molti abitanti divenne uno degli episodi piu terribili della guerra.",
+      "pt": "Em 20 de maio de 1631, durante a Guerra dos Trinta Anos, tropas da Liga Catolica e do imperador capturaram a protestante Magdeburgo. A cidade foi devastada, e a morte de muitos moradores tornou-se um dos episodios mais horriveis da guerra.",
+      "nl": "Op 20 mei 1631, tijdens de Dertigjarige Oorlog, namen troepen van de Katholieke Liga en de keizer het protestantse Maagdenburg in. De stad werd verwoest, en de dood van veel inwoners werd een van de gruwelijkste episodes van de oorlog.",
+      "pl": "20 maja 1631 roku, podczas wojny trzydziestoletniej, wojska Ligi Katolickiej i cesarza zdobyly protestancki Magdeburg. Miasto zostalo zniszczone, a smierc wielu mieszkancow stala sie jednym z najstraszniejszych epizodow wojny.",
+      "tr": "20 Mayis 1631'de, Otuz Yil Savasi sirasinda, Katolik Birligi ve imparatorun birlikleri Protestan Magdeburg'u ele gecirdi. Sehir harap edildi ve cok sayida sakinin olumu savasin en korkunc olaylarindan biri oldu.",
+      "zh": "1631年5月20日，三十年战争期间，天主教联盟和皇帝的军队攻占了新教城市马格德堡。城市遭到毁灭，许多居民死亡，成为这场战争中最可怕的事件之一。",
+      "ja": "1631年5月20日、三十年戦争のさなか、カトリック連盟と皇帝の軍隊がプロテスタント都市マクデブルクを占領しました。街は荒廃し、多くの住民の死は戦争の最も恐ろしい出来事の一つとなりました。",
+      "ko": "1631년 5월 20일, 30년 전쟁 중 가톨릭 동맹과 황제의 군대가 프로테스탄트 도시 마그데부르크를 점령했습니다. 도시는 황폐해졌고 많은 주민의 죽음은 전쟁의 가장 끔찍한 사건 중 하나가 되었습니다.",
+      "hi": "20 मई 1631 को, तीस वर्षीय युद्ध के दौरान, कैथोलिक लीग और सम्राट की सेनाओं ने प्रोटेस्टेंट मैगडेबर्ग पर कब्जा कर लिया। शहर उजड़ गया और अनेक निवासियों की मृत्यु युद्ध की सबसे भयावह घटनाओं में से एक बनी।",
+      "ar": "في 20 مايو 1631، خلال حرب الثلاثين عاما، استولت قوات الرابطة الكاثوليكية والامبراطور على ماغديبورغ البروتستانتية. دُمرت المدينة، واصبح موت كثير من سكانها من افظع فصول الحرب."
     },
     "importance": {
       "ru": "Магдебург стал символом жестокости Тридцатилетней войны и разрушения городов в религиозно-политическом конфликте.",
       "de": "Magdeburg wurde zum Symbol der Grausamkeit des Dreissigjaehrigen Krieges und der Zerstoerung von Staedten in einem religioes-politischen Konflikt.",
-      "en": "Magdeburg became a symbol of the brutality of the Thirty Years' War and the destruction of cities in a religious-political conflict."
+      "en": "Magdeburg became a symbol of the brutality of the Thirty Years' War and the destruction of cities in a religious-political conflict.",
+      "fr": "Magdebourg devint un symbole de la brutalite de la guerre de Trente Ans et de la destruction des villes dans un conflit religieux et politique.",
+      "es": "Magdeburgo se convirtio en simbolo de la brutalidad de la Guerra de los Treinta Anos y de la destruccion de ciudades en un conflicto religioso-politico.",
+      "it": "Magdeburgo divenne un simbolo della brutalita della Guerra dei Trent'anni e della distruzione delle citta in un conflitto religioso-politico.",
+      "pt": "Magdeburgo tornou-se simbolo da brutalidade da Guerra dos Trinta Anos e da destruicao de cidades em um conflito religioso-politico.",
+      "nl": "Maagdenburg werd een symbool van de wreedheid van de Dertigjarige Oorlog en van de vernietiging van steden in een religieus-politiek conflict.",
+      "pl": "Magdeburg stal sie symbolem okrucienstwa wojny trzydziestoletniej i niszczenia miast w konflikcie religijno-politycznym.",
+      "tr": "Magdeburg, Otuz Yil Savasi'nin acimasizliginin ve dini-siyasi bir catismada sehirlerin yok edilmesinin simgesi oldu.",
+      "zh": "马格德堡成为三十年战争残酷性以及宗教政治冲突中城市毁灭的象征。",
+      "ja": "マクデブルクは、三十年戦争の残酷さと、宗教的・政治的対立における都市破壊の象徴となりました。",
+      "ko": "마그데부르크는 30년 전쟁의 잔혹함과 종교·정치 갈등 속 도시 파괴의 상징이 되었습니다.",
+      "hi": "मैगडेबर्ग तीस वर्षीय युद्ध की क्रूरता और धार्मिक-राजनीतिक संघर्ष में शहरों के विनाश का प्रतीक बन गया।",
+      "ar": "اصبحت ماغديبورغ رمزا لوحشية حرب الثلاثين عاما وتدمير المدن في صراع ديني سياسي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Городская катастрофа",
           "de": "Eine staedtische Katastrophe",
-          "en": "An urban catastrophe"
+          "en": "An urban catastrophe",
+          "fr": "Une catastrophe urbaine",
+          "es": "Una catastrofe urbana",
+          "it": "Una catastrofe urbana",
+          "pt": "Uma catastrofe urbana",
+          "nl": "Een stedelijke catastrofe",
+          "pl": "Miejska katastrofa",
+          "tr": "Kentsel bir felaket",
+          "zh": "一场城市灾难",
+          "ja": "都市の大惨事",
+          "ko": "도시의 참사",
+          "hi": "एक शहरी आपदा",
+          "ar": "كارثة حضرية"
         },
         "description": {
           "ru": "Тридцатилетняя война была не только войной армий, но и бедствием для мирного населения. Разорение Магдебурга показало, как осада, пожар, грабёж и паника могли уничтожить один из важных городов империи.",
           "de": "Der Dreissigjaehrige Krieg war nicht nur ein Krieg der Armeen, sondern auch eine Katastrophe fuer die Zivilbevoelkerung. Die Zerstoerung Magdeburgs zeigte, wie Belagerung, Brand, Pluenderung und Panik eine wichtige Reichsstadt vernichten konnten.",
-          "en": "The Thirty Years' War was not only a war of armies, but also a catastrophe for civilians. The sack of Magdeburg showed how siege, fire, looting and panic could destroy an important imperial city."
+          "en": "The Thirty Years' War was not only a war of armies, but also a catastrophe for civilians. The sack of Magdeburg showed how siege, fire, looting and panic could destroy an important imperial city.",
+          "fr": "La guerre de Trente Ans ne fut pas seulement une guerre d'armees, mais aussi une catastrophe pour les civils. Le sac de Magdebourg montra comment siege, incendie, pillage et panique pouvaient detruire une importante ville imperiale.",
+          "es": "La Guerra de los Treinta Anos no fue solo una guerra de ejercitos, sino tambien una catastrofe para la poblacion civil. El saqueo de Magdeburgo mostro como asedio, fuego, pillaje y panico podian destruir una importante ciudad imperial.",
+          "it": "La Guerra dei Trent'anni non fu solo una guerra di eserciti, ma anche una catastrofe per i civili. Il sacco di Magdeburgo mostro come assedio, incendio, saccheggio e panico potessero distruggere un'importante citta imperiale.",
+          "pt": "A Guerra dos Trinta Anos nao foi apenas uma guerra de exercitos, mas tambem uma catastrofe para civis. O saque de Magdeburgo mostrou como cerco, incendio, pilhagem e panico podiam destruir uma importante cidade imperial.",
+          "nl": "De Dertigjarige Oorlog was niet alleen een oorlog van legers, maar ook een catastrofe voor burgers. De plundering van Maagdenburg liet zien hoe belegering, brand, plundering en paniek een belangrijke rijksstad konden vernietigen.",
+          "pl": "Wojna trzydziestoletnia byla nie tylko wojna armii, lecz takze katastrofa dla ludnosci cywilnej. Zlupienie Magdeburga pokazalo, jak oblężenie, pozar, rabunek i panika mogly zniszczyc wazne miasto Rzeszy.",
+          "tr": "Otuz Yil Savasi yalnizca ordularin savasi degil, siviller icin de bir felaketti. Magdeburg'un yagmalanmasi kusatma, yangin, yagma ve panigin onemli bir imparatorluk sehrini nasil yok edebilecegini gosterdi.",
+          "zh": "三十年战争不仅是军队之间的战争，也是平民的灾难。马格德堡之劫显示，围城、火灾、抢掠和恐慌如何摧毁一座重要的帝国城市。",
+          "ja": "三十年戦争は軍隊だけの戦争ではなく、民間人にとっても大惨事でした。マクデブルクの略奪は、包囲、火災、略奪、恐慌が重要な帝国都市をどのように破壊し得るかを示しました。",
+          "ko": "30년 전쟁은 군대만의 전쟁이 아니라 민간인에게도 재앙이었습니다. 마그데부르크 약탈은 포위, 화재, 약탈, 공포가 중요한 제국 도시를 어떻게 파괴할 수 있는지 보여 주었습니다.",
+          "hi": "तीस वर्षीय युद्ध केवल सेनाओं का युद्ध नहीं था, बल्कि नागरिकों के लिए भी आपदा था। मैगडेबर्ग की लूट ने दिखाया कि घेरा, आग, लूट और भय किस तरह एक महत्वपूर्ण साम्राज्यिक शहर को नष्ट कर सकते थे।",
+          "ar": "لم تكن حرب الثلاثين عاما حرب جيوش فقط، بل كارثة على المدنيين ايضا. اظهر نهب ماغديبورغ كيف يمكن للحصار والنار والنهب والذعر ان يدمروا مدينة امبراطورية مهمة."
         },
         "importance": {
           "ru": "Дата помогает понять, почему память о Тридцатилетней войне в Германии была такой тяжёлой.",
           "de": "Das Datum hilft zu verstehen, warum die Erinnerung an den Dreissigjaehrigen Krieg in Deutschland so schwer war.",
-          "en": "The date helps explain why the memory of the Thirty Years' War was so heavy in Germany."
+          "en": "The date helps explain why the memory of the Thirty Years' War was so heavy in Germany.",
+          "fr": "Cette date aide a comprendre pourquoi la memoire de la guerre de Trente Ans fut si lourde en Allemagne.",
+          "es": "La fecha ayuda a entender por que la memoria de la Guerra de los Treinta Anos fue tan pesada en Alemania.",
+          "it": "La data aiuta a capire perche il ricordo della Guerra dei Trent'anni fu cosi pesante in Germania.",
+          "pt": "A data ajuda a entender por que a memoria da Guerra dos Trinta Anos foi tao pesada na Alemanha.",
+          "nl": "De datum helpt verklaren waarom de herinnering aan de Dertigjarige Oorlog in Duitsland zo zwaar was.",
+          "pl": "Ta data pomaga zrozumiec, dlaczego pamiec o wojnie trzydziestoletniej byla w Niemczech tak ciezka.",
+          "tr": "Bu tarih, Almanya'da Otuz Yil Savasi anisinin neden bu kadar agir oldugunu anlamaya yardim eder.",
+          "zh": "这个日期有助于解释为什么三十年战争在德国的记忆如此沉重。",
+          "ja": "この日は、ドイツで三十年戦争の記憶がなぜこれほど重かったのかを理解する助けになります。",
+          "ko": "이 날짜는 독일에서 30년 전쟁의 기억이 왜 그토록 무거웠는지를 설명해 줍니다.",
+          "hi": "यह तारीख समझाती है कि जर्मनी में तीस वर्षीय युद्ध की स्मृति इतनी भारी क्यों रही।",
+          "ar": "يساعد هذا التاريخ على فهم سبب ثقل ذكرى حرب الثلاثين عاما في المانيا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Слово «магдебургизировать»",
           "de": "Das Wort magdeburgisieren",
-          "en": "The word 'Magdeburgize'"
+          "en": "The word 'Magdeburgize'",
+          "fr": "Le mot « magdebourgiser »",
+          "es": "La palabra «magdeburgizar»",
+          "it": "La parola «magdeburgizzare»",
+          "pt": "A palavra \"magdeburgizar\"",
+          "nl": "Het woord 'magdeburgiseren'",
+          "pl": "Slowo „magdeburgizowac”",
+          "tr": "'Magdeburgize' sozu",
+          "zh": "“马格德堡化”一词",
+          "ja": "「マクデブルク化」という言葉",
+          "ko": "'마그데부르크화하다'라는 말",
+          "hi": "'Magdeburgize' शब्द",
+          "ar": "كلمة «ماغديبورغزة»"
         },
         "description": {
           "ru": "После катастрофы название города стало нарицательным: выражение «магдебургизировать» означало полностью разрушить город. Так одно место вошло даже в язык войны.",
           "de": "Nach der Katastrophe wurde der Stadtname sprichwoertlich: Magdeburgisieren bedeutete, eine Stadt voellig zu zerstoeren. So ging ein Ort sogar in die Sprache des Krieges ein.",
-          "en": "After the catastrophe, the city's name became proverbial: to 'Magdeburgize' meant to destroy a city completely. A place thus entered the language of war."
+          "en": "After the catastrophe, the city's name became proverbial: to 'Magdeburgize' meant to destroy a city completely. A place thus entered the language of war.",
+          "fr": "Apres la catastrophe, le nom de la ville devint proverbial : « magdebourgiser » signifiait detruire completement une ville. Ainsi, un lieu entra meme dans le langage de la guerre.",
+          "es": "Tras la catastrofe, el nombre de la ciudad se volvio proverbial: «magdeburgizar» significaba destruir una ciudad por completo. Asi, un lugar entro incluso en el lenguaje de la guerra.",
+          "it": "Dopo la catastrofe, il nome della citta divenne proverbiale: «magdeburgizzare» significava distruggere completamente una citta. Cosi un luogo entro persino nel linguaggio della guerra.",
+          "pt": "Depois da catastrofe, o nome da cidade tornou-se proverbial: \"magdeburgizar\" significava destruir completamente uma cidade. Assim, um lugar entrou ate na linguagem da guerra.",
+          "nl": "Na de catastrofe werd de stadsnaam spreekwoordelijk: 'magdeburgiseren' betekende een stad volledig vernietigen. Zo kwam een plaats zelfs in de taal van de oorlog terecht.",
+          "pl": "Po katastrofie nazwa miasta stala sie przyslowiowa: „magdeburgizowac” znaczylo calkowicie zniszczyc miasto. W ten sposob miejsce weszlo nawet do jezyka wojny.",
+          "tr": "Felaketten sonra sehrin adi deyim haline geldi: 'Magdeburgize' bir sehri tamamen yok etmek anlamina geliyordu. Boylece bir yer savasin diline bile girdi.",
+          "zh": "灾难之后，这座城市的名字成了俗语：“马格德堡化”意味着彻底毁灭一座城市。一个地名就这样进入了战争语言。",
+          "ja": "惨事の後、この都市名はことわざのように使われるようになりました。「マクデブルク化する」とは、都市を完全に破壊することを意味しました。こうして一つの地名が戦争の言葉に入りました。",
+          "ko": "참사 이후 도시의 이름은 속담처럼 쓰이게 되었습니다. '마그데부르크화하다'는 도시를 완전히 파괴한다는 뜻이었습니다. 이렇게 한 장소가 전쟁의 언어에까지 들어갔습니다.",
+          "hi": "इस आपदा के बाद शहर का नाम कहावत बन गया: 'Magdeburgize' का अर्थ किसी शहर को पूरी तरह नष्ट करना था। इस तरह एक जगह युद्ध की भाषा में भी शामिल हो गई।",
+          "ar": "بعد الكارثة صار اسم المدينة مثلا سائرا: ففعل «ماغديبورغزة» كان يعني تدمير مدينة تماما. وهكذا دخل مكان حتى لغة الحرب."
         },
         "importance": {
           "ru": "Это страшная, но запоминающаяся деталь о силе исторической памяти.",
           "de": "Das ist ein schreckliches, aber einpraegsames Detail ueber die Kraft historischer Erinnerung.",
-          "en": "It is a grim but memorable detail about the power of historical memory."
+          "en": "It is a grim but memorable detail about the power of historical memory.",
+          "fr": "C'est un detail sombre mais marquant sur la force de la memoire historique.",
+          "es": "Es un detalle sombrio pero memorable sobre la fuerza de la memoria historica.",
+          "it": "E un dettaglio cupo ma memorabile sulla forza della memoria storica.",
+          "pt": "E um detalhe sombrio, mas marcante, sobre a forca da memoria historica.",
+          "nl": "Het is een grimmig maar gedenkwaardig detail over de kracht van historisch geheugen.",
+          "pl": "To ponury, ale zapadajacy w pamiec szczegol o sile pamieci historycznej.",
+          "tr": "Bu, tarihsel hafizanin gucu hakkinda karanlik ama akilda kalici bir ayrintidir.",
+          "zh": "这是关于历史记忆力量的一个沉重却难忘的细节。",
+          "ja": "これは、歴史の記憶の力を示す暗いながらも印象的な細部です。",
+          "ko": "이는 역사적 기억의 힘을 보여 주는 어둡지만 기억에 남는 세부입니다.",
+          "hi": "यह ऐतिहासिक स्मृति की ताकत के बारे में भयावह, लेकिन याद रह जाने वाली बात है।",
+          "ar": "انه تفصيل قاتم لكنه لا يُنسى عن قوة الذاكرة التاريخية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Событие также известно как «Магдебургская свадьба» — горькое и саркастическое название катастрофы.",
     "de": "Das Ereignis ist auch als Magdeburger Hochzeit bekannt, eine bittere und sarkastische Bezeichnung fuer die Katastrophe.",
-    "en": "The event is also known as the 'Magdeburg Wedding', a bitter and sarcastic name for the catastrophe."
+    "en": "The event is also known as the 'Magdeburg Wedding', a bitter and sarcastic name for the catastrophe.",
+    "fr": "L'evenement est aussi connu sous le nom de « noces de Magdebourg », une appellation amere et sarcastique de la catastrophe.",
+    "es": "El acontecimiento tambien se conoce como la «Boda de Magdeburgo», un nombre amargo y sarcastico para la catastrofe.",
+    "it": "L'evento e noto anche come «Nozze di Magdeburgo», un nome amaro e sarcastico per la catastrofe.",
+    "pt": "O evento tambem e conhecido como \"Casamento de Magdeburgo\", um nome amargo e sarcastico para a catastrofe.",
+    "nl": "De gebeurtenis staat ook bekend als de 'Maagdenburgse bruiloft', een bittere en sarcastische naam voor de catastrofe.",
+    "pl": "Wydarzenie znane jest takze jako „wesele magdeburskie”, gorzka i sarkastyczna nazwa katastrofy.",
+    "tr": "Olay 'Magdeburg Dugunu' olarak da bilinir; bu, felaket icin aci ve alayci bir addir.",
+    "zh": "这一事件也被称为“马格德堡婚礼”，这是对灾难的苦涩而讽刺的称呼。",
+    "ja": "この出来事は「マクデブルクの婚礼」としても知られています。惨事に対する苦く皮肉な呼び名です。",
+    "ko": "이 사건은 '마그데부르크의 결혼식'으로도 알려져 있습니다. 참사를 가리키는 쓰라리고 냉소적인 이름입니다.",
+    "hi": "यह घटना 'मैगडेबर्ग वेडिंग' के नाम से भी जानी जाती है, जो इस आपदा का कड़वा और व्यंग्यपूर्ण नाम है।",
+    "ar": "يعرف الحدث ايضا باسم «عرس ماغديبورغ»، وهو اسم مرير وساخر للكارثة."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открыт первый участок рейхсавтобана",
       "de": "Der erste Abschnitt der Reichsautobahn wird eroeffnet",
-      "en": "The first Reichsautobahn section opens"
+      "en": "The first Reichsautobahn section opens",
+      "fr": "Le premier troncon de la Reichsautobahn est ouvert",
+      "es": "Se inaugura el primer tramo de la Reichsautobahn",
+      "it": "Si apre il primo tratto della Reichsautobahn",
+      "pt": "E inaugurado o primeiro trecho da Reichsautobahn",
+      "nl": "Het eerste deel van de Reichsautobahn wordt geopend",
+      "pl": "Otwarto pierwszy odcinek Reichsautobahn",
+      "tr": "Ilk Reichsautobahn kesimi acilir",
+      "zh": "第一段帝国高速公路开通",
+      "ja": "最初のライヒスアウトバーン区間が開通",
+      "ko": "첫 라이히스아우토반 구간이 개통되다",
+      "hi": "पहला Reichsautobahn खंड खुला",
+      "ar": "افتتاح اول مقطع من رايخس اوتوبان"
     },
     "description": {
       "ru": "19 мая 1935 года был открыт участок автобана между Франкфуртом и Дармштадтом. Нацистская пропаганда представляла автобаны как собственное достижение режима, хотя идеи скоростных дорог появились раньше.",
       "de": "Am 19. Mai 1935 wurde der Autobahnabschnitt zwischen Frankfurt und Darmstadt eroeffnet. Die NS-Propaganda stellte Autobahnen als eigene Leistung des Regimes dar, obwohl Ideen fuer Schnellstrassen aelter waren.",
-      "en": "On 19 May 1935, the autobahn section between Frankfurt and Darmstadt opened. Nazi propaganda presented autobahns as the regime's own achievement, although ideas for high-speed roads were older."
+      "en": "On 19 May 1935, the autobahn section between Frankfurt and Darmstadt opened. Nazi propaganda presented autobahns as the regime's own achievement, although ideas for high-speed roads were older.",
+      "fr": "Le 19 mai 1935, le troncon d'autoroute entre Francfort et Darmstadt fut ouvert. La propagande nazie presenta les autoroutes comme une realisation propre du regime, meme si les idees de routes rapides etaient plus anciennes.",
+      "es": "El 19 de mayo de 1935 se inauguro el tramo de autopista entre Francfort y Darmstadt. La propaganda nazi presento las autopistas como un logro propio del regimen, aunque las ideas de carreteras rapidas eran anteriores.",
+      "it": "Il 19 maggio 1935 fu aperto il tratto autostradale tra Francoforte e Darmstadt. La propaganda nazista presento le autostrade come un risultato proprio del regime, anche se le idee di strade veloci erano piu antiche.",
+      "pt": "Em 19 de maio de 1935, foi inaugurado o trecho de autoestrada entre Frankfurt e Darmstadt. A propaganda nazista apresentou as autobahns como conquista propria do regime, embora as ideias de estradas rapidas fossem mais antigas.",
+      "nl": "Op 19 mei 1935 werd het autosnelwegdeel tussen Frankfurt en Darmstadt geopend. Nazi-propaganda stelde de autobahnen voor als een eigen prestatie van het regime, hoewel ideeen voor snelle wegen ouder waren.",
+      "pl": "19 maja 1935 roku otwarto odcinek autostrady miedzy Frankfurtem a Darmstadt. Propaganda nazistowska przedstawiala autostrady jako wlasne osiagniecie reżimu, choc pomysly szybkich drog byly starsze.",
+      "tr": "19 Mayis 1935'te Frankfurt ile Darmstadt arasindaki otoyol kesimi acildi. Nazi propagandasi otoyollari rejimin kendi basarisi gibi sundu, oysa hizli yol fikirleri daha eskiydi.",
+      "zh": "1935年5月19日，法兰克福至达姆施塔特之间的高速公路路段开通。纳粹宣传把高速公路说成政权自己的成就，尽管高速道路的构想更早就已出现。",
+      "ja": "1935年5月19日、フランクフルトとダルムシュタットを結ぶアウトバーン区間が開通しました。ナチスの宣伝はアウトバーンを体制独自の成果として示しましたが、高速道路の構想はそれ以前から存在していました。",
+      "ko": "1935년 5월 19일 프랑크푸르트와 다름슈타트 사이의 아우토반 구간이 개통되었습니다. 나치 선전은 아우토반을 정권 자체의 업적으로 내세웠지만, 고속도로 구상은 그보다 오래되었습니다.",
+      "hi": "19 मई 1935 को फ्रैंकफर्ट और डार्मश्टाट के बीच ऑटोबान खंड खोला गया। नाजी प्रचार ने ऑटोबानों को शासन की अपनी उपलब्धि बताया, जबकि तेज सड़कों के विचार इससे पहले मौजूद थे।",
+      "ar": "في 19 مايو 1935 افتتح مقطع الاوتوبان بين فرانكفورت ودارمشتات. قدمت الدعاية النازية الاوتوبانات كانها انجاز خاص للنظام، رغم ان افكار الطرق السريعة كانت اقدم."
     },
     "importance": {
       "ru": "Дата помогает отличать историю техники от политической пропаганды, которая присваивала себе эту технику.",
       "de": "Das Datum hilft, Technikgeschichte von politischer Propaganda zu unterscheiden, die diese Technik fuer sich beanspruchte.",
-      "en": "The date helps distinguish technological history from political propaganda that claimed the technology for itself."
+      "en": "The date helps distinguish technological history from political propaganda that claimed the technology for itself.",
+      "fr": "Cette date aide a distinguer l'histoire technique de la propagande politique qui s'appropriait cette technique.",
+      "es": "La fecha ayuda a distinguir la historia tecnica de la propaganda politica que se apropio de esa tecnologia.",
+      "it": "La data aiuta a distinguere la storia della tecnica dalla propaganda politica che si approprio di quella tecnologia.",
+      "pt": "A data ajuda a distinguir a historia tecnica da propaganda politica que reivindicou essa tecnologia para si.",
+      "nl": "De datum helpt technische geschiedenis te onderscheiden van politieke propaganda die de techniek voor zichzelf opeiste.",
+      "pl": "Ta data pomaga odroznic historie techniki od propagandy politycznej, ktora przypisywala sobie te technologie.",
+      "tr": "Bu tarih, teknik tarihi bu teknolojiyi kendine mal eden siyasi propagandadan ayirmaya yardim eder.",
+      "zh": "这个日期有助于把技术史同把技术据为己有的政治宣传区分开来。",
+      "ja": "この日は、技術の歴史と、その技術を自分たちのものだと主張した政治宣伝を区別する助けになります。",
+      "ko": "이 날짜는 기술의 역사와 그 기술을 자기 업적으로 주장한 정치 선전을 구분하는 데 도움이 됩니다.",
+      "hi": "यह तारीख तकनीकी इतिहास और उस तकनीक को अपना बताने वाले राजनीतिक प्रचार में फर्क समझने में मदद करती है।",
+      "ar": "يساعد هذا التاريخ على التمييز بين تاريخ التقنية والدعاية السياسية التي نسبت التقنية الى نفسها."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дороги, автомобили и режим",
           "de": "Strassen, Autos und Regime",
-          "en": "Roads, cars and regime"
+          "en": "Roads, cars and regime",
+          "fr": "Routes, voitures et regime",
+          "es": "Carreteras, autos y regimen",
+          "it": "Strade, automobili e regime",
+          "pt": "Estradas, carros e regime",
+          "nl": "Wegen, auto's en regime",
+          "pl": "Drogi, samochody i rezim",
+          "tr": "Yollar, otomobiller ve rejim",
+          "zh": "道路、汽车与政权",
+          "ja": "道路、自動車、体制",
+          "ko": "도로, 자동차와 정권",
+          "hi": "सड़कें, कारें और शासन",
+          "ar": "الطرق والسيارات والنظام"
         },
         "description": {
           "ru": "Автобаны стали важной частью немецкой транспортной истории, но их образ был сильно политизирован. До этого уже существовала дорога Кёльн-Бонн, открытая в 1932 году.",
           "de": "Autobahnen wurden zu einem wichtigen Teil deutscher Verkehrsgeschichte, doch ihr Bild war stark politisiert. Bereits 1932 gab es die Strecke Koeln-Bonn.",
-          "en": "Autobahns became an important part of German transport history, but their image was heavily politicized. The Cologne-Bonn road had already opened in 1932."
+          "en": "Autobahns became an important part of German transport history, but their image was heavily politicized. The Cologne-Bonn road had already opened in 1932.",
+          "fr": "Les autoroutes devinrent une partie importante de l'histoire allemande des transports, mais leur image fut fortement politisee. La route Cologne-Bonn avait deja ouvert en 1932.",
+          "es": "Las autopistas se convirtieron en una parte importante de la historia del transporte aleman, pero su imagen fue muy politizada. La carretera Colonia-Bonn ya se habia abierto en 1932.",
+          "it": "Le autostrade divennero una parte importante della storia dei trasporti tedeschi, ma la loro immagine fu fortemente politicizzata. La strada Colonia-Bonn era gia stata aperta nel 1932.",
+          "pt": "As autobahns tornaram-se parte importante da historia dos transportes alemaes, mas sua imagem foi fortemente politizada. A estrada Colonia-Bonn ja havia sido aberta em 1932.",
+          "nl": "Autobahnen werden een belangrijk deel van de Duitse vervoersgeschiedenis, maar hun beeld werd sterk gepolitiseerd. De weg Keulen-Bonn was al in 1932 geopend.",
+          "pl": "Autostrady staly sie wazna czescia niemieckiej historii transportu, lecz ich obraz byl silnie upolityczniony. Droga Kolonia-Bonn zostala otwarta juz w 1932 roku.",
+          "tr": "Otoyollar Alman ulasim tarihinin onemli bir parcasi oldu, ancak imajlari yogun bicimde siyasallastirildi. Koln-Bonn yolu 1932'de zaten acilmisti.",
+          "zh": "高速公路成为德国交通史的重要部分，但其形象被高度政治化。科隆至波恩的道路早在1932年就已开通。",
+          "ja": "アウトバーンはドイツ交通史の重要な一部となりましたが、そのイメージは強く政治化されました。ケルン・ボン道路はすでに1932年に開通していました。",
+          "ko": "아우토반은 독일 교통사의 중요한 부분이 되었지만, 그 이미지는 강하게 정치화되었습니다. 쾰른-본 도로는 이미 1932년에 개통되었습니다.",
+          "hi": "ऑटोबान जर्मन परिवहन इतिहास का महत्वपूर्ण हिस्सा बने, लेकिन उनकी छवि बहुत राजनीतिक बना दी गई। कोलोन-बॉन सड़क 1932 में ही खुल चुकी थी।",
+          "ar": "اصبحت الاوتوبانات جزءا مهما من تاريخ النقل الالماني، لكن صورتها سُيست بشدة. وكان طريق كولونيا-بون قد افتتح بالفعل عام 1932."
         },
         "importance": {
           "ru": "Так можно показать, что технологии имеют не только инженерную, но и политическую биографию.",
           "de": "So laesst sich zeigen, dass Technik nicht nur eine technische, sondern auch eine politische Biografie hat.",
-          "en": "This shows that technologies have not only technical but also political biographies."
+          "en": "This shows that technologies have not only technical but also political biographies.",
+          "fr": "Cela montre que les technologies ont une biographie non seulement technique, mais aussi politique.",
+          "es": "Esto muestra que las tecnologias tienen biografias no solo tecnicas, sino tambien politicas.",
+          "it": "Questo mostra che le tecnologie hanno biografie non solo tecniche, ma anche politiche.",
+          "pt": "Isso mostra que as tecnologias tem biografias nao apenas tecnicas, mas tambem politicas.",
+          "nl": "Dit laat zien dat technologieen niet alleen technische, maar ook politieke biografieen hebben.",
+          "pl": "Pokazuje to, ze technologie maja nie tylko techniczne, lecz takze polityczne biografie.",
+          "tr": "Bu, teknolojilerin yalnizca teknik degil, siyasi biyografileri de oldugunu gosterir.",
+          "zh": "这表明，技术不仅有工程史，也有政治史。",
+          "ja": "これは、技術には技術的な経歴だけでなく政治的な経歴もあることを示しています。",
+          "ko": "이는 기술에 기술적 이력뿐 아니라 정치적 이력도 있음을 보여 줍니다.",
+          "hi": "यह दिखाता है कि तकनीक की केवल तकनीकी नहीं, राजनीतिक जीवनी भी होती है।",
+          "ar": "يوضح ذلك ان للتقنيات سيرة سياسية ايضا، لا سيرة تقنية فقط."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Участок Франкфурт-Дармштадт стал частью мифа об автобанах, который режим активно использовал в пропаганде.",
     "de": "Der Abschnitt Frankfurt-Darmstadt wurde Teil des Autobahn-Mythos, den das Regime intensiv propagandistisch nutzte.",
-    "en": "The Frankfurt-Darmstadt section became part of the autobahn myth that the regime used heavily in propaganda."
+    "en": "The Frankfurt-Darmstadt section became part of the autobahn myth that the regime used heavily in propaganda.",
+    "fr": "Le troncon Francfort-Darmstadt devint une partie du mythe de l'autoroute que le regime utilisa intensement dans sa propagande.",
+    "es": "El tramo Francfort-Darmstadt se convirtio en parte del mito de las autopistas que el regimen uso intensamente en su propaganda.",
+    "it": "Il tratto Francoforte-Darmstadt divenne parte del mito delle autostrade che il regime uso ampiamente nella propaganda.",
+    "pt": "O trecho Frankfurt-Darmstadt tornou-se parte do mito das autobahns que o regime usou intensamente na propaganda.",
+    "nl": "Het deel Frankfurt-Darmstadt werd onderdeel van de autobahnmythe die het regime intensief in propaganda gebruikte.",
+    "pl": "Odcinek Frankfurt-Darmstadt stal sie czescia mitu autostrad, ktory rezim intensywnie wykorzystywal w propagandzie.",
+    "tr": "Frankfurt-Darmstadt kesimi, rejimin propagandada yogun bicimde kullandigi otoyol mitinin bir parcasi oldu.",
+    "zh": "法兰克福至达姆施塔特路段成为政权在宣传中大量利用的高速公路神话的一部分。",
+    "ja": "フランクフルト・ダルムシュタット区間は、体制が宣伝で大いに利用したアウトバーン神話の一部となりました。",
+    "ko": "프랑크푸르트-다름슈타트 구간은 정권이 선전에 적극 활용한 아우토반 신화의 일부가 되었습니다.",
+    "hi": "फ्रैंकफर्ट-डार्मश्टाट खंड उस ऑटोबान मिथक का हिस्सा बन गया जिसे शासन ने प्रचार में खूब इस्तेमाल किया।",
+    "ar": "اصبح مقطع فرانكفورت-دارمشتات جزءا من اسطورة الاوتوبان التي استخدمها النظام بكثافة في الدعاية."
   },
   "sources": [
     {
