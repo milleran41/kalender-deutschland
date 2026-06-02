@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Готлиб Даймлер",
       "de": "Gottlieb Daimler wird geboren",
-      "en": "Gottlieb Daimler is born"
+      "en": "Gottlieb Daimler is born",
+      "fr": "Naissance de Gottlieb Daimler",
+      "es": "Nace Gottlieb Daimler",
+      "it": "Nasce Gottlieb Daimler",
+      "pt": "Nasce Gottlieb Daimler",
+      "nl": "Gottlieb Daimler wordt geboren",
+      "pl": "Urodził się Gottlieb Daimler",
+      "tr": "Gottlieb Daimler doğdu",
+      "zh": "戈特利布·戴姆勒出生",
+      "ja": "ゴットリープ・ダイムラーが生まれる",
+      "ko": "고틀리프 다임러가 태어나다",
+      "hi": "गॉटलीब डाइमलर का जन्म हुआ",
+      "ar": "ولادة غوتليب دايملر"
     },
     "description": {
       "ru": "17 марта 1834 года в Шорндорфе родился инженер Готлиб Даймлер. Вместе с Вильгельмом Майбахом он стал одной из ключевых фигур ранней автомобильной техники.",
       "de": "Am 17. Maerz 1834 wurde der Ingenieur Gottlieb Daimler in Schorndorf geboren. Zusammen mit Wilhelm Maybach wurde er zu einer Schluesselfigur der fruehen Automobiltechnik.",
-      "en": "On 17 March 1834, engineer Gottlieb Daimler was born in Schorndorf. Together with Wilhelm Maybach, he became a key figure in early automotive technology."
+      "en": "On 17 March 1834, engineer Gottlieb Daimler was born in Schorndorf. Together with Wilhelm Maybach, he became a key figure in early automotive technology.",
+      "fr": "Le 17 mars 1834, l'ingénieur Gottlieb Daimler naquit à Schorndorf. Avec Wilhelm Maybach, il devint l'une des figures clés des débuts de la technique automobile.",
+      "es": "El 17 de marzo de 1834 nació en Schorndorf el ingeniero Gottlieb Daimler. Junto con Wilhelm Maybach, se convirtió en una figura clave de la primera tecnología automovilística.",
+      "it": "Il 17 marzo 1834 l'ingegnere Gottlieb Daimler nacque a Schorndorf. Insieme a Wilhelm Maybach divenne una figura chiave della prima tecnica automobilistica.",
+      "pt": "Em 17 de março de 1834, o engenheiro Gottlieb Daimler nasceu em Schorndorf. Juntamente com Wilhelm Maybach, tornou-se uma figura-chave da primeira tecnologia automóvel.",
+      "nl": "Op 17 maart 1834 werd ingenieur Gottlieb Daimler in Schorndorf geboren. Samen met Wilhelm Maybach werd hij een sleutelfiguur in de vroege autotechniek.",
+      "pl": "17 marca 1834 roku w Schorndorfie urodził się inżynier Gottlieb Daimler. Wraz z Wilhelmem Maybachem stał się jedną z kluczowych postaci wczesnej techniki samochodowej.",
+      "tr": "17 Mart 1834'te mühendis Gottlieb Daimler Schorndorf'ta doğdu. Wilhelm Maybach ile birlikte erken otomotiv teknolojisinin kilit isimlerinden biri oldu.",
+      "zh": "1834年3月17日，工程师戈特利布·戴姆勒出生于绍恩多夫。他与威廉·迈巴赫一起成为早期汽车技术的关键人物之一。",
+      "ja": "1834年3月17日、技術者ゴットリープ・ダイムラーはショルンドルフで生まれました。ヴィルヘルム・マイバッハとともに、初期の自動車技術の重要人物となりました。",
+      "ko": "1834년 3월 17일, 엔지니어 고틀리프 다임러가 쇼른도르프에서 태어났습니다. 그는 빌헬름 마이바흐와 함께 초기 자동차 기술의 핵심 인물이 되었습니다.",
+      "hi": "17 मार्च 1834 को इंजीनियर गॉटलीब डाइमलर का जन्म शोरनडॉर्फ में हुआ। विल्हेल्म मायबाख के साथ वे शुरुआती मोटर वाहन तकनीक की प्रमुख हस्ती बने।",
+      "ar": "في 17 مارس 1834 وُلد المهندس غوتليب دايملر في شورندورف. ومع فيلهلم مايباخ أصبح أحد الشخصيات الرئيسية في بدايات تقنية السيارات."
     },
     "importance": {
       "ru": "Даймлер важен для истории Баден-Вюртемберга как одного из центров немецкой автомобильной промышленности.",
       "de": "Daimler ist wichtig fuer die Geschichte Baden-Wuerttembergs als eines Zentrums der deutschen Automobilindustrie.",
-      "en": "Daimler is important for the history of Baden-Wuerttemberg as a center of Germany's automobile industry."
+      "en": "Daimler is important for the history of Baden-Wuerttemberg as a center of Germany's automobile industry.",
+      "fr": "Daimler est important pour l'histoire du Bade-Wurtemberg comme l'un des centres de l'industrie automobile allemande.",
+      "es": "Daimler es importante para la historia de Baden-Wurtemberg como centro de la industria automovilística alemana.",
+      "it": "Daimler è importante per la storia del Baden-Württemberg come uno dei centri dell'industria automobilistica tedesca.",
+      "pt": "Daimler é importante para a história de Baden-Württemberg como um dos centros da indústria automóvel alemã.",
+      "nl": "Daimler is belangrijk voor de geschiedenis van Baden-Württemberg als centrum van de Duitse auto-industrie.",
+      "pl": "Daimler jest ważny dla historii Badenii-Wirtembergii jako jednego z centrów niemieckiego przemysłu samochodowego.",
+      "tr": "Daimler, Alman otomobil sanayisinin merkezlerinden biri olan Baden-Württemberg tarihi için önemlidir.",
+      "zh": "戴姆勒对巴登-符腾堡作为德国汽车工业中心之一的历史非常重要。",
+      "ja": "ダイムラーは、ドイツ自動車産業の中心地の一つとしてのバーデン・ヴュルテンベルクの歴史に重要です。",
+      "ko": "다임러는 독일 자동차 산업의 중심지 중 하나인 바덴뷔르템베르크의 역사에서 중요합니다.",
+      "hi": "डाइमलर जर्मन मोटर वाहन उद्योग के केंद्रों में से एक बाडेन-वुर्टेमबर्ग के इतिहास के लिए महत्वपूर्ण हैं।",
+      "ar": "يُعد دايملر مهما لتاريخ بادن فورتمبيرغ بوصفها أحد مراكز صناعة السيارات الألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Лёгкий высокооборотный двигатель",
           "de": "Ein leichter schnelllaufender Motor",
-          "en": "A light high-speed engine"
+          "en": "A light high-speed engine",
+          "fr": "Un moteur léger à haut régime",
+          "es": "Un motor ligero de alta velocidad",
+          "it": "Un motore leggero ad alto regime",
+          "pt": "Um motor leve de alta rotação",
+          "nl": "Een lichte snellopende motor",
+          "pl": "Lekki silnik wysokoobrotowy",
+          "tr": "Hafif yüksek devirli motor",
+          "zh": "轻型高速发动机",
+          "ja": "軽量高速エンジン",
+          "ko": "가벼운 고속 엔진",
+          "hi": "हल्का तेज़ गति वाला इंजन",
+          "ar": "محرك خفيف عالي السرعة"
         },
         "description": {
           "ru": "Даймлер и Майбах стремились создать компактный двигатель, который можно было устанавливать на разные виды транспорта. Эта идея стала важной для развития автомобиля, мотоцикла и моторной лодки.",
           "de": "Daimler und Maybach wollten einen kompakten Motor schaffen, der in verschiedene Fahrzeuge eingebaut werden konnte. Diese Idee wurde wichtig fuer Auto, Motorrad und Motorboot.",
-          "en": "Daimler and Maybach aimed to create a compact engine that could be installed in different vehicles. This idea became important for the car, motorcycle and motorboat."
+          "en": "Daimler and Maybach aimed to create a compact engine that could be installed in different vehicles. This idea became important for the car, motorcycle and motorboat.",
+          "fr": "Daimler et Maybach voulaient créer un moteur compact pouvant être installé dans différents véhicules. Cette idée devint importante pour l'automobile, la moto et le bateau à moteur.",
+          "es": "Daimler y Maybach querían crear un motor compacto que pudiera instalarse en distintos vehículos. Esta idea fue importante para el automóvil, la motocicleta y la lancha motora.",
+          "it": "Daimler e Maybach volevano creare un motore compatto che potesse essere montato su diversi veicoli. Questa idea divenne importante per l'automobile, la motocicletta e la barca a motore.",
+          "pt": "Daimler e Maybach queriam criar um motor compacto que pudesse ser instalado em diferentes veículos. Esta ideia tornou-se importante para o automóvel, a motocicleta e o barco a motor.",
+          "nl": "Daimler en Maybach wilden een compacte motor maken die in verschillende voertuigen kon worden ingebouwd. Dit idee werd belangrijk voor de auto, motorfiets en motorboot.",
+          "pl": "Daimler i Maybach chcieli stworzyć kompaktowy silnik, który można było montować w różnych pojazdach. Pomysł ten stał się ważny dla rozwoju samochodu, motocykla i łodzi motorowej.",
+          "tr": "Daimler ve Maybach, farklı araçlara takılabilecek kompakt bir motor yaratmayı amaçladı. Bu fikir otomobil, motosiklet ve motorlu tekne için önemli oldu.",
+          "zh": "戴姆勒和迈巴赫希望制造一种可安装在不同交通工具上的紧凑发动机。这个想法对汽车、摩托车和机动船的发展都很重要。",
+          "ja": "ダイムラーとマイバッハは、さまざまな乗り物に搭載できる小型エンジンを作ろうとしました。この考えは自動車、オートバイ、モーターボートの発展に重要でした。",
+          "ko": "다임러와 마이바흐는 여러 운송수단에 장착할 수 있는 소형 엔진을 만들고자 했습니다. 이 생각은 자동차, 오토바이, 모터보트 발전에 중요했습니다.",
+          "hi": "डाइमलर और मायबाख ऐसा छोटा इंजन बनाना चाहते थे जिसे अलग-अलग वाहनों में लगाया जा सके। यह विचार कार, मोटरसाइकिल और मोटरबोट के विकास के लिए महत्वपूर्ण बना।",
+          "ar": "سعى دايملر ومايباخ إلى صنع محرك مدمج يمكن تركيبه في وسائل نقل مختلفة. وأصبحت هذه الفكرة مهمة لتطور السيارة والدراجة النارية والقارب ذي المحرك."
         },
         "importance": {
           "ru": "История Даймлера показывает, что автомобиль вырос из серии технических экспериментов, а не из одного готового решения.",
           "de": "Daimlers Geschichte zeigt, dass das Auto aus einer Reihe technischer Experimente entstand, nicht aus einer einzigen fertigen Loesung.",
-          "en": "Daimler's story shows that the automobile grew from a series of technical experiments, not from one finished solution."
+          "en": "Daimler's story shows that the automobile grew from a series of technical experiments, not from one finished solution.",
+          "fr": "L'histoire de Daimler montre que l'automobile est née d'une série d'expériences techniques, et non d'une seule solution déjà prête.",
+          "es": "La historia de Daimler muestra que el automóvil surgió de una serie de experimentos técnicos, no de una única solución terminada.",
+          "it": "La storia di Daimler mostra che l'automobile nacque da una serie di esperimenti tecnici, non da una sola soluzione già pronta.",
+          "pt": "A história de Daimler mostra que o automóvel nasceu de uma série de experiências técnicas, não de uma única solução pronta.",
+          "nl": "Daimlers verhaal laat zien dat de auto ontstond uit een reeks technische experimenten, niet uit één kant-en-klare oplossing.",
+          "pl": "Historia Daimlera pokazuje, że samochód wyrósł z serii eksperymentów technicznych, a nie z jednego gotowego rozwiązania.",
+          "tr": "Daimler'in hikayesi, otomobilin tek bir hazır çözümden değil, bir dizi teknik deneyden doğduğunu gösterir.",
+          "zh": "戴姆勒的故事表明，汽车是从一系列技术实验中发展出来的，而不是来自一个现成方案。",
+          "ja": "ダイムラーの物語は、自動車が一つの完成した解決策ではなく、一連の技術実験から生まれたことを示しています。",
+          "ko": "다임러의 이야기는 자동차가 하나의 완성된 해답이 아니라 여러 기술 실험에서 성장했음을 보여 줍니다.",
+          "hi": "डाइमलर की कहानी दिखाती है कि कार एक तैयार समाधान से नहीं, बल्कि कई तकनीकी प्रयोगों से विकसित हुई।",
+          "ar": "تُظهر قصة دايملر أن السيارة نشأت من سلسلة تجارب تقنية، لا من حل جاهز واحد."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Дом, где родился Даймлер в Шорндорфе, сегодня является памятным местом Mercedes-Benz.",
     "de": "Daimlers Geburtshaus in Schorndorf ist heute eine Gedenkstaette von Mercedes-Benz.",
-    "en": "Daimler's birthplace in Schorndorf is now a Mercedes-Benz memorial site."
+    "en": "Daimler's birthplace in Schorndorf is now a Mercedes-Benz memorial site.",
+    "fr": "La maison natale de Daimler à Schorndorf est aujourd'hui un lieu de mémoire de Mercedes-Benz.",
+    "es": "La casa natal de Daimler en Schorndorf es hoy un lugar conmemorativo de Mercedes-Benz.",
+    "it": "La casa natale di Daimler a Schorndorf è oggi un luogo commemorativo di Mercedes-Benz.",
+    "pt": "A casa natal de Daimler em Schorndorf é hoje um local memorial da Mercedes-Benz.",
+    "nl": "Daimlers geboortehuis in Schorndorf is nu een gedenkplaats van Mercedes-Benz.",
+    "pl": "Dom narodzin Daimlera w Schorndorfie jest dziś miejscem pamięci Mercedes-Benz.",
+    "tr": "Daimler'in Schorndorf'taki doğduğu ev bugün Mercedes-Benz'in anı mekanıdır.",
+    "zh": "戴姆勒在绍恩多夫的出生地如今是梅赛德斯-奔驰纪念地。",
+    "ja": "ショルンドルフにあるダイムラーの生家は、現在メルセデス・ベンツの記念施設です。",
+    "ko": "쇼른도르프에 있는 다임러의 생가는 현재 메르세데스-벤츠 기념 장소입니다.",
+    "hi": "शोरनडॉर्फ में डाइमलर का जन्मस्थान आज Mercedes-Benz का स्मृति स्थल है।",
+    "ar": "أصبح منزل ولادة دايملر في شورندورف اليوم موقعا تذكاريا لمرسيدس-بنز."
   },
   "sources": [
     {

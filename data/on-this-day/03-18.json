@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начались мартовские бои в Берлине",
       "de": "Die Maerzkaempfe in Berlin beginnen",
-      "en": "The March fighting in Berlin begins"
+      "en": "The March fighting in Berlin begins",
+      "fr": "Les combats de mars commencent à Berlin",
+      "es": "Comienzan los combates de marzo en Berlín",
+      "it": "Iniziano i combattimenti di marzo a Berlino",
+      "pt": "Começam os combates de março em Berlim",
+      "nl": "De maartgevechten in Berlijn beginnen",
+      "pl": "Rozpoczynają się walki marcowe w Berlinie",
+      "tr": "Berlin'deki Mart çatışmaları başladı",
+      "zh": "柏林三月战斗开始",
+      "ja": "ベルリンで三月闘争が始まる",
+      "ko": "베를린의 3월 전투가 시작되다",
+      "hi": "बर्लिन में मार्च की लड़ाइयाँ शुरू हुईं",
+      "ar": "بدء معارك مارس في برلين"
     },
     "description": {
       "ru": "18 марта 1848 года в Берлине начались столкновения между гражданами и войсками. Событие стало одним из главных эпизодов революции 1848 года в германских землях.",
       "de": "Am 18. Maerz 1848 kam es in Berlin zu Zusammenstoessen zwischen Buergern und Truppen. Das Ereignis wurde zu einem wichtigen Abschnitt der Revolution von 1848 in den deutschen Laendern.",
-      "en": "On 18 March 1848, clashes broke out in Berlin between citizens and troops. The event became one of the central episodes of the 1848 revolution in the German lands."
+      "en": "On 18 March 1848, clashes broke out in Berlin between citizens and troops. The event became one of the central episodes of the 1848 revolution in the German lands.",
+      "fr": "Le 18 mars 1848, des affrontements éclatèrent à Berlin entre citoyens et troupes. L'événement devint l'un des épisodes centraux de la révolution de 1848 dans les terres allemandes.",
+      "es": "El 18 de marzo de 1848 estallaron enfrentamientos en Berlín entre ciudadanos y tropas. El acontecimiento se convirtió en uno de los episodios centrales de la revolución de 1848 en las tierras alemanas.",
+      "it": "Il 18 marzo 1848 a Berlino scoppiarono scontri tra cittadini e truppe. L'evento divenne uno degli episodi centrali della rivoluzione del 1848 nelle terre tedesche.",
+      "pt": "Em 18 de março de 1848, eclodiram confrontos em Berlim entre cidadãos e tropas. O acontecimento tornou-se um dos episódios centrais da revolução de 1848 nas terras alemãs.",
+      "nl": "Op 18 maart 1848 braken in Berlijn botsingen uit tussen burgers en troepen. De gebeurtenis werd een van de centrale episodes van de revolutie van 1848 in de Duitse landen.",
+      "pl": "18 marca 1848 roku w Berlinie wybuchły starcia między obywatelami a wojskiem. Wydarzenie stało się jednym z głównych epizodów rewolucji 1848 roku na ziemiach niemieckich.",
+      "tr": "18 Mart 1848'de Berlin'de vatandaşlar ile askerler arasında çatışmalar çıktı. Bu olay, Alman topraklarındaki 1848 devriminin başlıca bölümlerinden biri oldu.",
+      "zh": "1848年3月18日，柏林爆发市民与军队之间的冲突。该事件成为德意志地区1848年革命的核心篇章之一。",
+      "ja": "1848年3月18日、ベルリンで市民と軍隊の衝突が起こりました。この出来事はドイツ諸邦における1848年革命の中心的な場面の一つとなりました。",
+      "ko": "1848년 3월 18일, 베를린에서 시민과 군대 사이에 충돌이 일어났습니다. 이 사건은 독일 지역 1848년 혁명의 중심적인 장면 중 하나가 되었습니다.",
+      "hi": "18 मार्च 1848 को बर्लिन में नागरिकों और सैनिकों के बीच झड़पें शुरू हुईं। यह घटना जर्मन क्षेत्रों में 1848 की क्रांति के प्रमुख प्रसंगों में से एक बनी।",
+      "ar": "في 18 مارس 1848 اندلعت في برلين اشتباكات بين المواطنين والقوات. وأصبح الحدث أحد الفصول المركزية في ثورة 1848 في الأراضي الألمانية."
     },
     "importance": {
       "ru": "Эта дата напоминает, что путь Германии к демократии был трудным и часто насильственным.",
       "de": "Dieses Datum erinnert daran, dass Deutschlands Weg zur Demokratie schwierig und oft gewaltsam war.",
-      "en": "The date is a reminder that Germany's path toward democracy was difficult and often violent."
+      "en": "The date is a reminder that Germany's path toward democracy was difficult and often violent.",
+      "fr": "Cette date rappelle que le chemin de l'Allemagne vers la démocratie fut difficile et souvent violent.",
+      "es": "La fecha recuerda que el camino de Alemania hacia la democracia fue difícil y a menudo violento.",
+      "it": "La data ricorda che il cammino della Germania verso la democrazia fu difficile e spesso violento.",
+      "pt": "A data lembra que o caminho da Alemanha para a democracia foi difícil e muitas vezes violento.",
+      "nl": "Deze datum herinnert eraan dat Duitslands weg naar democratie moeilijk en vaak gewelddadig was.",
+      "pl": "Ta data przypomina, że droga Niemiec do demokracji była trudna i często gwałtowna.",
+      "tr": "Bu tarih, Almanya'nın demokrasiye giden yolunun zor ve çoğu zaman şiddetli olduğunu hatırlatır.",
+      "zh": "这个日期提醒人们，德国通向民主的道路艰难且常常伴随暴力。",
+      "ja": "この日付は、ドイツの民主主義への道が困難で、しばしば暴力を伴ったことを思い出させます。",
+      "ko": "이 날짜는 독일이 민주주의로 가는 길이 어렵고 종종 폭력적이었다는 것을 상기시킵니다.",
+      "hi": "यह तारीख याद दिलाती है कि जर्मनी का लोकतंत्र की ओर रास्ता कठिन और अक्सर हिंसक था।",
+      "ar": "يذكّر هذا التاريخ بأن طريق ألمانيا نحو الديمقراطية كان صعبا وغالبا عنيفا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Первые свободные выборы в Народную палату ГДР",
           "de": "Erste freie Volkskammerwahl in der DDR",
-          "en": "First free Volkskammer election in East Germany"
+          "en": "First free Volkskammer election in East Germany",
+          "fr": "Première élection libre de la Volkskammer en RDA",
+          "es": "Primeras elecciones libres a la Volkskammer en la RDA",
+          "it": "Prime elezioni libere della Volkskammer nella RDT",
+          "pt": "Primeiras eleições livres para a Volkskammer na RDA",
+          "nl": "Eerste vrije Volkskammerverkiezing in de DDR",
+          "pl": "Pierwsze wolne wybory do Izby Ludowej NRD",
+          "tr": "Doğu Almanya'da ilk özgür Volkskammer seçimi",
+          "zh": "东德人民议院首次自由选举",
+          "ja": "東ドイツ初の自由な人民議会選挙",
+          "ko": "동독 최초의 자유 Volkskammer 선거",
+          "hi": "पूर्वी जर्मनी में पहली स्वतंत्र वोल्क्सकामर चुनाव",
+          "ar": "أول انتخابات حرة لمجلس الشعب في ألمانيا الشرقية"
         },
         "description": {
           "ru": "18 марта 1990 года жители ГДР впервые свободно избрали парламент. Итог выборов ускорил путь к воссоединению Германии.",
           "de": "Am 18. Maerz 1990 waehlten die Menschen in der DDR erstmals frei ihr Parlament. Das Ergebnis beschleunigte den Weg zur deutschen Einheit.",
-          "en": "On 18 March 1990, East Germans freely elected their parliament for the first time. The result accelerated the path toward German unity."
+          "en": "On 18 March 1990, East Germans freely elected their parliament for the first time. The result accelerated the path toward German unity.",
+          "fr": "Le 18 mars 1990, les habitants de la RDA élurent librement leur parlement pour la première fois. Le résultat accéléra le chemin vers l'unité allemande.",
+          "es": "El 18 de marzo de 1990, los habitantes de la RDA eligieron libremente su parlamento por primera vez. El resultado aceleró el camino hacia la unidad alemana.",
+          "it": "Il 18 marzo 1990 gli abitanti della RDT elessero liberamente il loro parlamento per la prima volta. Il risultato accelerò il percorso verso l'unità tedesca.",
+          "pt": "Em 18 de março de 1990, os habitantes da RDA elegeram livremente o seu parlamento pela primeira vez. O resultado acelerou o caminho para a unidade alemã.",
+          "nl": "Op 18 maart 1990 kozen de mensen in de DDR voor het eerst vrij hun parlement. De uitslag versnelde de weg naar de Duitse eenheid.",
+          "pl": "18 marca 1990 roku mieszkańcy NRD po raz pierwszy swobodnie wybrali parlament. Wynik wyborów przyspieszył drogę do zjednoczenia Niemiec.",
+          "tr": "18 Mart 1990'da Doğu Almanlar ilk kez parlamentolarını özgürce seçti. Sonuç, Almanya'nın birliğine giden yolu hızlandırdı.",
+          "zh": "1990年3月18日，东德居民首次自由选举自己的议会。选举结果加快了德国统一的进程。",
+          "ja": "1990年3月18日、東ドイツの人々は初めて自由に議会を選びました。その結果はドイツ統一への道を早めました。",
+          "ko": "1990년 3월 18일, 동독 주민들은 처음으로 의회를 자유롭게 선출했습니다. 그 결과는 독일 통일로 가는 길을 앞당겼습니다.",
+          "hi": "18 मार्च 1990 को पूर्वी जर्मनी के लोगों ने पहली बार स्वतंत्र रूप से अपनी संसद चुनी। परिणाम ने जर्मन एकता की राह तेज कर दी।",
+          "ar": "في 18 مارس 1990 انتخب سكان ألمانيا الشرقية برلمانهم بحرية للمرة الأولى. وسرّعت النتيجة الطريق نحو الوحدة الألمانية."
         },
         "importance": {
           "ru": "На одной дате встретились революция 1848 года и демократический перелом 1990 года.",
           "de": "An einem Datum begegnen sich die Revolution von 1848 und der demokratische Umbruch von 1990.",
-          "en": "One date links the 1848 revolution with the democratic turning point of 1990."
+          "en": "One date links the 1848 revolution with the democratic turning point of 1990.",
+          "fr": "Une même date relie la révolution de 1848 au tournant démocratique de 1990.",
+          "es": "Una misma fecha une la revolución de 1848 con el giro democrático de 1990.",
+          "it": "Una sola data collega la rivoluzione del 1848 con la svolta democratica del 1990.",
+          "pt": "Uma só data liga a revolução de 1848 à viragem democrática de 1990.",
+          "nl": "Eén datum verbindt de revolutie van 1848 met de democratische ommekeer van 1990.",
+          "pl": "Jedna data łączy rewolucję 1848 roku z demokratycznym przełomem 1990 roku.",
+          "tr": "Tek bir tarih, 1848 devrimini 1990'daki demokratik dönüm noktasıyla birleştirir.",
+          "zh": "同一个日期把1848年革命与1990年的民主转折联系在一起。",
+          "ja": "一つの日付が1848年革命と1990年の民主的転換点を結びつけています。",
+          "ko": "하나의 날짜가 1848년 혁명과 1990년의 민주적 전환점을 연결합니다.",
+          "hi": "एक ही तारीख 1848 की क्रांति और 1990 के लोकतांत्रिक मोड़ को जोड़ती है।",
+          "ar": "يربط تاريخ واحد بين ثورة 1848 والتحول الديمقراطي عام 1990."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "18 марта в немецкой памяти связано сразу с двумя попытками добиться свободы: революционной в 1848 году и мирной демократической в 1990 году.",
     "de": "Der 18. Maerz steht in der deutschen Erinnerung fuer zwei Wege zur Freiheit: den revolutionaeren von 1848 und den friedlich-demokratischen von 1990.",
-    "en": "In German memory, 18 March is tied to two paths toward freedom: the revolutionary one in 1848 and the peaceful democratic one in 1990."
+    "en": "In German memory, 18 March is tied to two paths toward freedom: the revolutionary one in 1848 and the peaceful democratic one in 1990.",
+    "fr": "Dans la mémoire allemande, le 18 mars est lié à deux chemins vers la liberté: le chemin révolutionnaire de 1848 et le chemin pacifique et démocratique de 1990.",
+    "es": "En la memoria alemana, el 18 de marzo está ligado a dos caminos hacia la libertad: el revolucionario de 1848 y el pacífico y democrático de 1990.",
+    "it": "Nella memoria tedesca, il 18 marzo è legato a due vie verso la libertà: quella rivoluzionaria del 1848 e quella pacifica e democratica del 1990.",
+    "pt": "Na memória alemã, 18 de março está ligado a dois caminhos para a liberdade: o revolucionário de 1848 e o pacífico e democrático de 1990.",
+    "nl": "In de Duitse herinnering is 18 maart verbonden met twee wegen naar vrijheid: de revolutionaire van 1848 en de vreedzaam-democratische van 1990.",
+    "pl": "W niemieckiej pamięci 18 marca łączy się z dwiema drogami do wolności: rewolucyjną z 1848 roku i pokojowo-demokratyczną z 1990 roku.",
+    "tr": "Alman hafızasında 18 Mart, özgürlüğe giden iki yolla bağlantılıdır: 1848'in devrimci yolu ve 1990'ın barışçıl demokratik yolu.",
+    "zh": "在德国记忆中，3月18日联系着两条通向自由的道路：1848年的革命道路和1990年的和平民主道路。",
+    "ja": "ドイツの記憶の中で、3月18日は自由への二つの道、1848年の革命的な道と1990年の平和的で民主的な道に結びついています。",
+    "ko": "독일의 기억 속에서 3월 18일은 자유를 향한 두 길, 1848년의 혁명적 길과 1990년의 평화적 민주적 길과 연결되어 있습니다.",
+    "hi": "जर्मन स्मृति में 18 मार्च स्वतंत्रता की दो राहों से जुड़ा है: 1848 की क्रांतिकारी राह और 1990 की शांतिपूर्ण लोकतांत्रिक राह।",
+    "ar": "في الذاكرة الألمانية يرتبط 18 مارس بطريقين نحو الحرية: الطريق الثوري عام 1848 والطريق السلمي الديمقراطي عام 1990."
   },
   "sources": [
     {

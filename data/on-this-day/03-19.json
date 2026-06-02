@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первый Международный женский день в Германии",
       "de": "Erster Internationaler Frauentag in Deutschland",
-      "en": "First International Women's Day in Germany"
+      "en": "First International Women's Day in Germany",
+      "fr": "Première Journée internationale des femmes en Allemagne",
+      "es": "Primer Día Internacional de la Mujer en Alemania",
+      "it": "Prima Giornata internazionale della donna in Germania",
+      "pt": "Primeiro Dia Internacional da Mulher na Alemanha",
+      "nl": "Eerste Internationale Vrouwendag in Duitsland",
+      "pl": "Pierwszy Międzynarodowy Dzień Kobiet w Niemczech",
+      "tr": "Almanya'da ilk Dünya Kadınlar Günü",
+      "zh": "德国第一个国际妇女节",
+      "ja": "ドイツ初の国際女性デー",
+      "ko": "독일 최초의 국제 여성의 날",
+      "hi": "जर्मनी में पहला अंतरराष्ट्रीय महिला दिवस",
+      "ar": "أول يوم عالمي للمرأة في ألمانيا"
     },
     "description": {
       "ru": "19 марта 1911 года Международный женский день впервые широко отметили в Германии и нескольких других странах. Главным требованием было избирательное право для женщин.",
       "de": "Am 19. Maerz 1911 wurde der Internationale Frauentag erstmals in Deutschland und einigen anderen Laendern breit begangen. Eine zentrale Forderung war das Frauenwahlrecht.",
-      "en": "On 19 March 1911, International Women's Day was widely marked for the first time in Germany and several other countries. A central demand was women's suffrage."
+      "en": "On 19 March 1911, International Women's Day was widely marked for the first time in Germany and several other countries. A central demand was women's suffrage.",
+      "fr": "Le 19 mars 1911, la Journée internationale des femmes fut largement célébrée pour la première fois en Allemagne et dans plusieurs autres pays. La revendication centrale était le droit de vote des femmes.",
+      "es": "El 19 de marzo de 1911, el Día Internacional de la Mujer se celebró ampliamente por primera vez en Alemania y en varios otros países. Una demanda central era el sufragio femenino.",
+      "it": "Il 19 marzo 1911 la Giornata internazionale della donna fu celebrata ampiamente per la prima volta in Germania e in diversi altri paesi. La richiesta centrale era il diritto di voto alle donne.",
+      "pt": "Em 19 de março de 1911, o Dia Internacional da Mulher foi amplamente assinalado pela primeira vez na Alemanha e em vários outros países. Uma reivindicação central era o direito de voto das mulheres.",
+      "nl": "Op 19 maart 1911 werd Internationale Vrouwendag voor het eerst breed gevierd in Duitsland en enkele andere landen. Een centrale eis was vrouwenkiesrecht.",
+      "pl": "19 marca 1911 roku Międzynarodowy Dzień Kobiet po raz pierwszy szeroko obchodzono w Niemczech i kilku innych krajach. Głównym żądaniem było prawo wyborcze dla kobiet.",
+      "tr": "19 Mart 1911'de Dünya Kadınlar Günü ilk kez Almanya'da ve birkaç başka ülkede geniş biçimde kutlandı. Temel taleplerden biri kadınlara oy hakkıydı.",
+      "zh": "1911年3月19日，国际妇女节首次在德国和其他几个国家被广泛纪念。核心诉求是妇女选举权。",
+      "ja": "1911年3月19日、国際女性デーはドイツといくつかの国で初めて広く祝われました。中心的な要求は女性参政権でした。",
+      "ko": "1911년 3월 19일, 국제 여성의 날이 독일과 몇몇 다른 나라에서 처음으로 널리 기념되었습니다. 핵심 요구는 여성 참정권이었습니다.",
+      "hi": "19 मार्च 1911 को अंतरराष्ट्रीय महिला दिवस पहली बार जर्मनी और कई अन्य देशों में व्यापक रूप से मनाया गया। मुख्य मांग महिलाओं को मतदान अधिकार देना था।",
+      "ar": "في 19 مارس 1911 جرى إحياء اليوم العالمي للمرأة على نطاق واسع للمرة الأولى في ألمانيا وعدة بلدان أخرى. وكان المطلب الرئيسي حق النساء في التصويت."
     },
     "importance": {
       "ru": "Дата показывает, что права женщин стали результатом долгой общественной борьбы.",
       "de": "Das Datum zeigt, dass Frauenrechte Ergebnis langer gesellschaftlicher Kaempfe waren.",
-      "en": "The date shows that women's rights were the result of long social struggles."
+      "en": "The date shows that women's rights were the result of long social struggles.",
+      "fr": "Cette date montre que les droits des femmes furent le résultat de longues luttes sociales.",
+      "es": "La fecha muestra que los derechos de las mujeres fueron el resultado de largas luchas sociales.",
+      "it": "La data mostra che i diritti delle donne furono il risultato di lunghe lotte sociali.",
+      "pt": "A data mostra que os direitos das mulheres foram resultado de longas lutas sociais.",
+      "nl": "Deze datum laat zien dat vrouwenrechten het resultaat waren van lange maatschappelijke strijd.",
+      "pl": "Ta data pokazuje, że prawa kobiet były wynikiem długich walk społecznych.",
+      "tr": "Bu tarih, kadın haklarının uzun toplumsal mücadelelerin sonucu olduğunu gösterir.",
+      "zh": "这个日期表明，妇女权利是长期社会斗争的结果。",
+      "ja": "この日付は、女性の権利が長い社会的闘いの結果であったことを示しています。",
+      "ko": "이 날짜는 여성의 권리가 오랜 사회적 투쟁의 결과였음을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि महिलाओं के अधिकार लंबे सामाजिक संघर्षों का परिणाम थे।",
+      "ar": "يُظهر هذا التاريخ أن حقوق المرأة كانت نتيجة نضالات اجتماعية طويلة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "До избирательного права оставалось семь лет",
           "de": "Sieben Jahre bis zum Wahlrecht",
-          "en": "Seven years before suffrage"
+          "en": "Seven years before suffrage",
+          "fr": "Sept ans avant le droit de vote",
+          "es": "Siete años antes del sufragio",
+          "it": "Sette anni prima del diritto di voto",
+          "pt": "Sete anos antes do direito de voto",
+          "nl": "Zeven jaar tot het kiesrecht",
+          "pl": "Siedem lat do praw wyborczych",
+          "tr": "Oy hakkına yedi yıl kala",
+          "zh": "距离选举权还有七年",
+          "ja": "参政権まであと7年",
+          "ko": "참정권까지 7년",
+          "hi": "मताधिकार से सात साल पहले",
+          "ar": "سبع سنوات قبل حق التصويت"
         },
         "description": {
           "ru": "Женщины в Германии получили избирательное право только в 1918 году. Поэтому 1911 год был важной ступенью, но не финалом борьбы.",
           "de": "Frauen erhielten in Deutschland erst 1918 das Wahlrecht. Das Jahr 1911 war daher ein wichtiger Schritt, aber nicht das Ende des Kampfes.",
-          "en": "Women in Germany gained the right to vote only in 1918. The year 1911 was an important step but not the end of the struggle."
+          "en": "Women in Germany gained the right to vote only in 1918. The year 1911 was an important step but not the end of the struggle.",
+          "fr": "Les femmes en Allemagne n'obtinrent le droit de vote qu'en 1918. L'année 1911 fut donc une étape importante, mais pas la fin du combat.",
+          "es": "Las mujeres en Alemania obtuvieron el derecho al voto solo en 1918. Por eso 1911 fue un paso importante, pero no el final de la lucha.",
+          "it": "Le donne in Germania ottennero il diritto di voto solo nel 1918. Perciò il 1911 fu un passo importante, ma non la fine della lotta.",
+          "pt": "As mulheres na Alemanha só obtiveram o direito de voto em 1918. Por isso, 1911 foi um passo importante, mas não o fim da luta.",
+          "nl": "Vrouwen in Duitsland kregen pas in 1918 kiesrecht. Daarom was 1911 een belangrijke stap, maar niet het einde van de strijd.",
+          "pl": "Kobiety w Niemczech uzyskały prawo wyborcze dopiero w 1918 roku. Dlatego rok 1911 był ważnym krokiem, ale nie końcem walki.",
+          "tr": "Almanya'da kadınlar oy hakkını ancak 1918'de kazandı. Bu nedenle 1911 önemli bir adımdı, ama mücadelenin sonu değildi.",
+          "zh": "德国妇女直到1918年才获得投票权。因此1911年是重要一步，但并不是斗争的终点。",
+          "ja": "ドイツの女性が選挙権を得たのは1918年になってからでした。そのため1911年は重要な一歩でしたが、闘いの終わりではありませんでした。",
+          "ko": "독일 여성들은 1918년에야 선거권을 얻었습니다. 그래서 1911년은 중요한 단계였지만 투쟁의 끝은 아니었습니다.",
+          "hi": "जर्मनी में महिलाओं को मतदान अधिकार केवल 1918 में मिला। इसलिए 1911 एक महत्वपूर्ण कदम था, लेकिन संघर्ष का अंत नहीं।",
+          "ar": "لم تحصل النساء في ألمانيا على حق التصويت إلا عام 1918. لذلك كان عام 1911 خطوة مهمة، لكنه لم يكن نهاية النضال."
         },
         "importance": {
           "ru": "Это хорошее напоминание, что демократические права редко появляются сами собой.",
           "de": "Das erinnert daran, dass demokratische Rechte selten von selbst entstehen.",
-          "en": "It is a good reminder that democratic rights rarely appear by themselves."
+          "en": "It is a good reminder that democratic rights rarely appear by themselves.",
+          "fr": "C'est un bon rappel que les droits démocratiques apparaissent rarement d'eux-mêmes.",
+          "es": "Es un buen recordatorio de que los derechos democráticos rara vez aparecen por sí solos.",
+          "it": "È un buon promemoria del fatto che i diritti democratici raramente nascono da soli.",
+          "pt": "É um bom lembrete de que os direitos democráticos raramente surgem por si mesmos.",
+          "nl": "Het is een goede herinnering dat democratische rechten zelden vanzelf ontstaan.",
+          "pl": "To dobre przypomnienie, że prawa demokratyczne rzadko pojawiają się same.",
+          "tr": "Bu, demokratik hakların nadiren kendiliğinden ortaya çıktığını hatırlatan iyi bir örnektir.",
+          "zh": "这很好地提醒我们，民主权利很少会自行出现。",
+          "ja": "これは、民主的権利が自然に現れることはめったにないという良い注意喚起です。",
+          "ko": "이는 민주적 권리가 저절로 생기는 경우가 드물다는 좋은 상기입니다.",
+          "hi": "यह अच्छा स्मरण है कि लोकतांत्रिक अधिकार शायद ही अपने आप मिलते हैं।",
+          "ar": "إنه تذكير جيد بأن الحقوق الديمقراطية نادرا ما تظهر من تلقاء نفسها."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Современный Международный женский день отмечается 8 марта, но первый массовый день в Германии прошёл 19 марта.",
     "de": "Heute ist der Internationale Frauentag am 8. Maerz, doch der erste grosse Frauentag in Deutschland fand am 19. Maerz statt.",
-    "en": "International Women's Day is now observed on 8 March, but the first major Women's Day in Germany took place on 19 March."
+    "en": "International Women's Day is now observed on 8 March, but the first major Women's Day in Germany took place on 19 March.",
+    "fr": "La Journée internationale des femmes est aujourd'hui célébrée le 8 mars, mais la première grande journée des femmes en Allemagne eut lieu le 19 mars.",
+    "es": "El Día Internacional de la Mujer se celebra hoy el 8 de marzo, pero el primer gran Día de la Mujer en Alemania tuvo lugar el 19 de marzo.",
+    "it": "Oggi la Giornata internazionale della donna si celebra l'8 marzo, ma la prima grande giornata delle donne in Germania si svolse il 19 marzo.",
+    "pt": "Hoje o Dia Internacional da Mulher é assinalado a 8 de março, mas o primeiro grande Dia da Mulher na Alemanha ocorreu a 19 de março.",
+    "nl": "Internationale Vrouwendag wordt nu op 8 maart gevierd, maar de eerste grote Vrouwendag in Duitsland vond plaats op 19 maart.",
+    "pl": "Współcześnie Międzynarodowy Dzień Kobiet obchodzi się 8 marca, ale pierwszy duży Dzień Kobiet w Niemczech odbył się 19 marca.",
+    "tr": "Günümüzde Dünya Kadınlar Günü 8 Mart'ta kutlanır, ancak Almanya'daki ilk büyük Kadınlar Günü 19 Mart'ta yapıldı.",
+    "zh": "如今国际妇女节在3月8日举行，但德国第一次大规模妇女节是在3月19日。",
+    "ja": "現在、国際女性デーは3月8日に行われますが、ドイツで最初の大規模な女性デーは3月19日に開かれました。",
+    "ko": "오늘날 국제 여성의 날은 3월 8일에 기념되지만, 독일의 첫 대규모 여성의 날은 3월 19일에 열렸습니다.",
+    "hi": "आज अंतरराष्ट्रीय महिला दिवस 8 मार्च को मनाया जाता है, लेकिन जर्मनी में पहला बड़ा महिला दिवस 19 मार्च को हुआ था।",
+    "ar": "يُحتفل اليوم باليوم العالمي للمرأة في 8 مارس، لكن أول يوم كبير للمرأة في ألمانيا جرى في 19 مارس."
   },
   "sources": [
     {
