@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Макс Планк",
       "de": "Max Planck wird geboren",
-      "en": "Max Planck is born"
+      "en": "Max Planck is born",
+      "fr": "Max Planck naît",
+      "es": "Nace Max Planck",
+      "it": "Nasce Max Planck",
+      "pt": "Nasce Max Planck",
+      "nl": "Max Planck wordt geboren",
+      "pl": "Rodzi się Max Planck",
+      "tr": "Max Planck doğdu",
+      "zh": "马克斯·普朗克出生",
+      "ja": "マックス・プランクが生まれる",
+      "ko": "막스 플랑크가 태어나다",
+      "hi": "मैक्स प्लांक का जन्म हुआ",
+      "ar": "ولادة ماكس بلانك"
     },
     "description": {
       "ru": "23 апреля 1858 года в Киле родился физик Макс Планк. Его работы стали одним из истоков квантовой физики.",
       "de": "Am 23. April 1858 wurde der Physiker Max Planck in Kiel geboren. Seine Arbeiten wurden zu einem Ursprung der Quantenphysik.",
-      "en": "On 23 April 1858, physicist Max Planck was born in Kiel. His work became one of the origins of quantum physics."
+      "en": "On 23 April 1858, physicist Max Planck was born in Kiel. His work became one of the origins of quantum physics.",
+      "fr": "Le 23 avril 1858, le physicien Max Planck naquit à Kiel. Ses travaux devinrent l'une des origines de la physique quantique.",
+      "es": "El 23 de abril de 1858 nació en Kiel el físico Max Planck. Su trabajo se convirtió en uno de los orígenes de la física cuántica.",
+      "it": "Il 23 aprile 1858 nacque a Kiel il fisico Max Planck. Il suo lavoro divenne una delle origini della fisica quantistica.",
+      "pt": "Em 23 de abril de 1858 nasceu em Kiel o físico Max Planck. O seu trabalho tornou-se uma das origens da física quântica.",
+      "nl": "Op 23 april 1858 werd natuurkundige Max Planck geboren in Kiel. Zijn werk werd een van de oorsprongen van de kwantumfysica.",
+      "pl": "23 kwietnia 1858 roku w Kilonii urodził się fizyk Max Planck. Jego prace stały się jednym z początków fizyki kwantowej.",
+      "tr": "23 Nisan 1858'de fizikçi Max Planck Kiel'de doğdu. Çalışmaları kuantum fiziğinin kökenlerinden biri oldu.",
+      "zh": "1858年4月23日，物理学家马克斯·普朗克出生于基尔。他的工作成为量子物理学的源头之一。",
+      "ja": "1858年4月23日、物理学者マックス・プランクはキールで生まれました。彼の研究は量子物理学の起点の一つとなりました。",
+      "ko": "1858년 4월 23일, 물리학자 막스 플랑크가 킬에서 태어났습니다. 그의 연구는 양자물리학의 기원 중 하나가 되었습니다.",
+      "hi": "23 अप्रैल 1858 को भौतिक विज्ञानी मैक्स प्लांक का जन्म कील में हुआ। उनका काम क्वांटम भौतिकी की शुरुआतों में से एक बना।",
+      "ar": "في 23 أبريل 1858 وُلد الفيزيائي ماكس بلانك في كيل. أصبحت أعماله أحد أصول الفيزياء الكمية."
     },
     "importance": {
       "ru": "Планк помог открыть новую эпоху в науке, где привычные представления о материи и энергии пришлось пересмотреть.",
       "de": "Planck half, eine neue Epoche der Wissenschaft zu eroeffnen, in der alte Vorstellungen von Materie und Energie neu gedacht werden mussten.",
-      "en": "Planck helped open a new era of science in which old ideas about matter and energy had to be rethought."
+      "en": "Planck helped open a new era of science in which old ideas about matter and energy had to be rethought.",
+      "fr": "Planck contribua à ouvrir une nouvelle ère scientifique où les anciennes idées sur la matière et l'énergie durent être repensées.",
+      "es": "Planck ayudó a abrir una nueva era de la ciencia en la que hubo que repensar las viejas ideas sobre la materia y la energía.",
+      "it": "Planck contribuì ad aprire una nuova epoca della scienza, in cui le vecchie idee su materia ed energia dovettero essere ripensate.",
+      "pt": "Planck ajudou a abrir uma nova era da ciência, na qual antigas ideias sobre matéria e energia tiveram de ser repensadas.",
+      "nl": "Planck hielp een nieuw tijdperk in de wetenschap te openen waarin oude ideeën over materie en energie opnieuw moesten worden doordacht.",
+      "pl": "Planck pomógł otworzyć nową epokę w nauce, w której dawne wyobrażenia o materii i energii trzeba było przemyśleć na nowo.",
+      "tr": "Planck, madde ve enerji hakkındaki eski fikirlerin yeniden düşünülmesi gereken yeni bir bilim çağının açılmasına yardım etti.",
+      "zh": "普朗克帮助开启了科学新时代，在这个时代，人们不得不重新思考关于物质和能量的旧观念。",
+      "ja": "プランクは、物質とエネルギーに関する古い考えを見直さなければならない科学の新時代を開く手助けをしました。",
+      "ko": "플랑크는 물질과 에너지에 대한 낡은 생각을 다시 생각해야 하는 과학의 새 시대를 여는 데 기여했습니다.",
+      "hi": "प्लांक ने विज्ञान का नया युग खोलने में मदद की, जिसमें पदार्थ और ऊर्जा के पुराने विचारों पर फिर से सोचना पड़ा।",
+      "ar": "ساعد بلانك في فتح عصر جديد من العلم كان لا بد فيه من إعادة التفكير في الأفكار القديمة عن المادة والطاقة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Нобелевская премия по физике",
           "de": "Nobelpreis fuer Physik",
-          "en": "Nobel Prize in Physics"
+          "en": "Nobel Prize in Physics",
+          "fr": "Prix Nobel de physique",
+          "es": "Premio Nobel de Física",
+          "it": "Premio Nobel per la fisica",
+          "pt": "Prémio Nobel da Física",
+          "nl": "Nobelprijs voor Natuurkunde",
+          "pl": "Nagroda Nobla z fizyki",
+          "tr": "Nobel Fizik Ödülü",
+          "zh": "诺贝尔物理学奖",
+          "ja": "ノーベル物理学賞",
+          "ko": "노벨 물리학상",
+          "hi": "भौतिकी का नोबेल पुरस्कार",
+          "ar": "جائزة نوبل في الفيزياء"
         },
         "description": {
           "ru": "Планк получил Нобелевскую премию по физике за вклад в развитие квантовой теории. Его имя сегодня носит одно из крупнейших научных обществ Германии.",
           "de": "Planck erhielt den Nobelpreis fuer Physik fuer seinen Beitrag zur Quantentheorie. Heute traegt eine der groessten deutschen Wissenschaftsorganisationen seinen Namen.",
-          "en": "Planck received the Nobel Prize in Physics for his contribution to quantum theory. One of Germany's largest scientific organizations now bears his name."
+          "en": "Planck received the Nobel Prize in Physics for his contribution to quantum theory. One of Germany's largest scientific organizations now bears his name.",
+          "fr": "Planck reçut le prix Nobel de physique pour sa contribution à la théorie quantique. L'une des plus grandes organisations scientifiques d'Allemagne porte aujourd'hui son nom.",
+          "es": "Planck recibió el Premio Nobel de Física por su contribución a la teoría cuántica. Una de las mayores organizaciones científicas de Alemania lleva hoy su nombre.",
+          "it": "Planck ricevette il Premio Nobel per la fisica per il suo contributo alla teoria quantistica. Una delle maggiori organizzazioni scientifiche tedesche porta oggi il suo nome.",
+          "pt": "Planck recebeu o Prémio Nobel da Física pela sua contribuição para a teoria quântica. Uma das maiores organizações científicas da Alemanha leva hoje o seu nome.",
+          "nl": "Planck ontving de Nobelprijs voor Natuurkunde voor zijn bijdrage aan de kwantumtheorie. Een van Duitslands grootste wetenschappelijke organisaties draagt nu zijn naam.",
+          "pl": "Planck otrzymał Nagrodę Nobla z fizyki za wkład w rozwój teorii kwantowej. Jedna z największych niemieckich organizacji naukowych nosi dziś jego imię.",
+          "tr": "Planck kuantum teorisine katkısından dolayı Nobel Fizik Ödülü'nü aldı. Almanya'nın en büyük bilim kuruluşlarından biri bugün onun adını taşır.",
+          "zh": "普朗克因对量子理论的贡献获得诺贝尔物理学奖。德国最大的科学组织之一如今以他的名字命名。",
+          "ja": "プランクは量子論への貢献によりノーベル物理学賞を受賞しました。現在、ドイツ最大級の科学組織の一つが彼の名を冠しています。",
+          "ko": "플랑크는 양자이론에 기여한 공로로 노벨 물리학상을 받았습니다. 오늘날 독일 최대 과학 기관 중 하나가 그의 이름을 지니고 있습니다.",
+          "hi": "प्लांक को क्वांटम सिद्धांत में योगदान के लिए भौतिकी का नोबेल पुरस्कार मिला। जर्मनी के सबसे बड़े वैज्ञानिक संगठनों में से एक आज उनका नाम रखता है।",
+          "ar": "حصل بلانك على جائزة نوبل في الفيزياء لمساهمته في نظرية الكم. وتحمل اليوم إحدى أكبر المنظمات العلمية في ألمانيا اسمه."
         },
         "importance": {
           "ru": "Это показывает долгую связь Германии с фундаментальной наукой.",
           "de": "Das zeigt Deutschlands lange Verbindung zur Grundlagenforschung.",
-          "en": "It shows Germany's long connection with fundamental research."
+          "en": "It shows Germany's long connection with fundamental research.",
+          "fr": "Cela montre le lien ancien de l'Allemagne avec la recherche fondamentale.",
+          "es": "Muestra la larga relación de Alemania con la investigación fundamental.",
+          "it": "Mostra il lungo legame della Germania con la ricerca fondamentale.",
+          "pt": "Mostra a longa ligação da Alemanha à investigação fundamental.",
+          "nl": "Het toont Duitslands lange band met fundamenteel onderzoek.",
+          "pl": "Pokazuje to długi związek Niemiec z badaniami podstawowymi.",
+          "tr": "Bu, Almanya'nın temel araştırmalarla uzun bağını gösterir.",
+          "zh": "这显示了德国与基础研究的长期联系。",
+          "ja": "これは、ドイツと基礎研究の長い結びつきを示しています。",
+          "ko": "이는 독일이 기초 연구와 오랫동안 이어 온 관계를 보여 줍니다.",
+          "hi": "यह जर्मनी का मूलभूत अनुसंधान से लंबा संबंध दिखाता है।",
+          "ar": "يُظهر ذلك ارتباط ألمانيا الطويل بالبحث الأساسي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Баварский закон о чистоте пива",
           "de": "Das bayerische Reinheitsgebot",
-          "en": "The Bavarian Beer Purity Law"
+          "en": "The Bavarian Beer Purity Law",
+          "fr": "La loi bavaroise sur la pureté de la bière",
+          "es": "La Ley bávara de pureza de la cerveza",
+          "it": "La legge bavarese sulla purezza della birra",
+          "pt": "A Lei Bávara da Pureza da Cerveja",
+          "nl": "Het Beierse Reinheitsgebot",
+          "pl": "Bawarskie prawo czystości piwa",
+          "tr": "Bavyera Bira Saflık Yasası",
+          "zh": "巴伐利亚啤酒纯净法",
+          "ja": "バイエルンのビール純粋令",
+          "ko": "바이에른 맥주 순수령",
+          "hi": "बावेरिया का बीयर शुद्धता कानून",
+          "ar": "قانون نقاء البيرة البافاري"
         },
         "description": {
           "ru": "23 апреля 1516 года в Баварии был принят знаменитый закон о составе пива. Его часто называют Reinheitsgebot, или законом о чистоте пива.",
           "de": "Am 23. April 1516 wurde in Bayern die beruehmte Regel zum Bierbrauen erlassen. Sie ist als Reinheitsgebot bekannt.",
-          "en": "On 23 April 1516, Bavaria issued the famous rule on beer brewing. It is known as the Reinheitsgebot, or Beer Purity Law."
+          "en": "On 23 April 1516, Bavaria issued the famous rule on beer brewing. It is known as the Reinheitsgebot, or Beer Purity Law.",
+          "fr": "Le 23 avril 1516, la Bavière édicta la célèbre règle sur le brassage de la bière. Elle est connue sous le nom de Reinheitsgebot, ou loi de pureté de la bière.",
+          "es": "El 23 de abril de 1516, Baviera promulgó la famosa regla sobre la elaboración de cerveza. Se conoce como Reinheitsgebot, o Ley de pureza de la cerveza.",
+          "it": "Il 23 aprile 1516 la Baviera emanò la famosa regola sulla produzione della birra. È nota come Reinheitsgebot, o legge sulla purezza della birra.",
+          "pt": "Em 23 de abril de 1516, a Baviera emitiu a famosa regra sobre a produção de cerveja. É conhecida como Reinheitsgebot, ou Lei da Pureza da Cerveja.",
+          "nl": "Op 23 april 1516 vaardigde Beieren de beroemde regel voor het brouwen van bier uit. Die staat bekend als het Reinheitsgebot, of de bierzuiverheidswet.",
+          "pl": "23 kwietnia 1516 roku w Bawarii wydano słynną regułę dotyczącą warzenia piwa. Jest znana jako Reinheitsgebot, czyli prawo czystości piwa.",
+          "tr": "23 Nisan 1516'da Bavyera bira üretimiyle ilgili ünlü kuralı yayımladı. Bu kural Reinheitsgebot, yani Bira Saflık Yasası olarak bilinir.",
+          "zh": "1516年4月23日，巴伐利亚颁布了著名的啤酒酿造规定。它被称为 Reinheitsgebot，即啤酒纯净法。",
+          "ja": "1516年4月23日、バイエルンはビール醸造に関する有名な規則を発布しました。これは Reinheitsgebot、つまりビール純粋令として知られています。",
+          "ko": "1516년 4월 23일, 바이에른은 맥주 양조에 관한 유명한 규칙을 발표했습니다. 이는 Reinheitsgebot, 즉 맥주 순수령으로 알려져 있습니다.",
+          "hi": "23 अप्रैल 1516 को बावेरिया ने बीयर बनाने पर प्रसिद्ध नियम जारी किया। इसे Reinheitsgebot, यानी बीयर शुद्धता कानून कहा जाता है।",
+          "ar": "في 23 أبريل 1516 أصدرت بافاريا القاعدة الشهيرة الخاصة بتخمير البيرة. وتُعرف باسم Reinheitsgebot، أي قانون نقاء البيرة."
         },
         "importance": {
           "ru": "Для Германии это не только история напитка, но и часть ремесла, торговли и региональной культуры.",
           "de": "Fuer Deutschland ist das nicht nur Getraenkegeschichte, sondern auch Handwerk, Handel und regionale Kultur.",
-          "en": "For Germany, this is not only beverage history but also craft, trade and regional culture."
+          "en": "For Germany, this is not only beverage history but also craft, trade and regional culture.",
+          "fr": "Pour l'Allemagne, ce n'est pas seulement l'histoire d'une boisson, mais aussi celle de l'artisanat, du commerce et de la culture régionale.",
+          "es": "Para Alemania, esto no es solo historia de una bebida, sino también artesanía, comercio y cultura regional.",
+          "it": "Per la Germania non è solo storia di una bevanda, ma anche artigianato, commercio e cultura regionale.",
+          "pt": "Para a Alemanha, isto não é apenas história de uma bebida, mas também artesanato, comércio e cultura regional.",
+          "nl": "Voor Duitsland is dit niet alleen drankgeschiedenis, maar ook ambacht, handel en regionale cultuur.",
+          "pl": "Dla Niemiec to nie tylko historia napoju, lecz także rzemiosło, handel i kultura regionalna.",
+          "tr": "Almanya için bu yalnızca içecek tarihi değil, aynı zamanda zanaat, ticaret ve bölgesel kültürdür.",
+          "zh": "对德国来说，这不仅是饮品史，也是手工业、贸易和地区文化的一部分。",
+          "ja": "ドイツにとってこれは飲み物の歴史だけでなく、職人技、交易、地域文化の歴史でもあります。",
+          "ko": "독일에게 이것은 음료의 역사만이 아니라 장인 기술, 무역, 지역 문화이기도 합니다.",
+          "hi": "जर्मनी के लिए यह केवल पेय का इतिहास नहीं, बल्कि शिल्प, व्यापार और क्षेत्रीय संस्कृति भी है।",
+          "ar": "بالنسبة إلى ألمانيا، ليس هذا تاريخ مشروب فقط، بل هو أيضا حرفة وتجارة وثقافة إقليمية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Киль, родной город Планка, чаще вспоминают как морской город, но он связан и с историей физики.",
     "de": "Kiel, Plancks Geburtsstadt, gilt oft als maritime Stadt, ist aber auch mit Physikgeschichte verbunden.",
-    "en": "Kiel, Planck's birthplace, is often seen as a maritime city, but it is also linked with the history of physics."
+    "en": "Kiel, Planck's birthplace, is often seen as a maritime city, but it is also linked with the history of physics.",
+    "fr": "Kiel, la ville natale de Planck, est souvent vue comme une ville maritime, mais elle est aussi liée à l'histoire de la physique.",
+    "es": "Kiel, ciudad natal de Planck, suele verse como una ciudad marítima, pero también está vinculada con la historia de la física.",
+    "it": "Kiel, città natale di Planck, è spesso vista come una città marittima, ma è anche legata alla storia della fisica.",
+    "pt": "Kiel, cidade natal de Planck, é muitas vezes vista como uma cidade marítima, mas também está ligada à história da física.",
+    "nl": "Kiel, Plancks geboorteplaats, wordt vaak gezien als een maritieme stad, maar is ook verbonden met de geschiedenis van de natuurkunde.",
+    "pl": "Kilonia, rodzinne miasto Plancka, często kojarzy się z morzem, ale jest też związana z historią fizyki.",
+    "tr": "Planck'ın doğum yeri Kiel çoğu zaman denizci bir şehir olarak görülür, ancak fizik tarihiyle de bağlantılıdır.",
+    "zh": "普朗克的出生地基尔常被视为海港城市，但它也与物理学史相关。",
+    "ja": "プランクの生地キールは海の町として見られがちですが、物理学の歴史とも結びついています。",
+    "ko": "플랑크의 출생지 킬은 흔히 해양 도시로 여겨지지만, 물리학의 역사와도 연결되어 있습니다.",
+    "hi": "प्लांक का जन्मस्थान कील अक्सर समुद्री शहर माना जाता है, लेकिन वह भौतिकी के इतिहास से भी जुड़ा है।",
+    "ar": "غالبا ما تُعد كيل، مسقط رأس بلانك، مدينة بحرية، لكنها مرتبطة أيضا بتاريخ الفيزياء."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Представлен опыт Франка-Герца",
       "de": "Der Franck-Hertz-Versuch wird vorgestellt",
-      "en": "The Franck-Hertz experiment is presented"
+      "en": "The Franck-Hertz experiment is presented",
+      "fr": "L'expérience de Franck-Hertz est présentée",
+      "es": "Se presenta el experimento de Franck-Hertz",
+      "it": "Viene presentato l'esperimento di Franck-Hertz",
+      "pt": "É apresentada a experiência de Franck-Hertz",
+      "nl": "Het Franck-Hertz-experiment wordt gepresenteerd",
+      "pl": "Przedstawiono doświadczenie Francka-Hertza",
+      "tr": "Franck-Hertz deneyi sunuldu",
+      "zh": "弗兰克-赫兹实验被发表",
+      "ja": "フランク＝ヘルツ実験が発表される",
+      "ko": "프랑크-헤르츠 실험이 발표되다",
+      "hi": "फ्रांक-हर्ट्ज़ प्रयोग प्रस्तुत किया गया",
+      "ar": "عرض تجربة فرانك-هرتز"
     },
     "description": {
       "ru": "24 апреля 1914 года Джеймс Франк и Густав Герц представили Немецкому физическому обществу результаты опыта, который подтвердил дискретные энергетические состояния атомов. Позже эта работа стала одной из опор квантовой механики.",
       "de": "Am 24. April 1914 stellten James Franck und Gustav Hertz der Deutschen Physikalischen Gesellschaft Ergebnisse eines Experiments vor, das diskrete Energiezustaende in Atomen bestaetigte. Spaeter wurde diese Arbeit zu einer Saeule der Quantenmechanik.",
-      "en": "On 24 April 1914, James Franck and Gustav Hertz presented results to the German Physical Society from an experiment that confirmed discrete energy states in atoms. The work later became one of the pillars of quantum mechanics."
+      "en": "On 24 April 1914, James Franck and Gustav Hertz presented results to the German Physical Society from an experiment that confirmed discrete energy states in atoms. The work later became one of the pillars of quantum mechanics.",
+      "fr": "Le 24 avril 1914, James Franck et Gustav Hertz présentèrent à la Société allemande de physique les résultats d'une expérience qui confirmait des états d'énergie discrets dans les atomes. Ce travail devint plus tard l'un des piliers de la mécanique quantique.",
+      "es": "El 24 de abril de 1914, James Franck y Gustav Hertz presentaron a la Sociedad Física Alemana los resultados de un experimento que confirmó estados de energía discretos en los átomos. El trabajo se convirtió más tarde en uno de los pilares de la mecánica cuántica.",
+      "it": "Il 24 aprile 1914 James Franck e Gustav Hertz presentarono alla Società tedesca di fisica i risultati di un esperimento che confermava stati energetici discreti negli atomi. In seguito il lavoro divenne uno dei pilastri della meccanica quantistica.",
+      "pt": "Em 24 de abril de 1914, James Franck e Gustav Hertz apresentaram à Sociedade Alemã de Física resultados de uma experiência que confirmou estados de energia discretos nos átomos. O trabalho tornou-se depois um dos pilares da mecânica quântica.",
+      "nl": "Op 24 april 1914 presenteerden James Franck en Gustav Hertz aan de Duitse Natuurkundige Vereniging resultaten van een experiment dat discrete energietoestanden in atomen bevestigde. Het werk werd later een van de pijlers van de kwantummechanica.",
+      "pl": "24 kwietnia 1914 roku James Franck i Gustav Hertz przedstawili Niemieckiemu Towarzystwu Fizycznemu wyniki doświadczenia, które potwierdziło dyskretne stany energetyczne atomów. Praca ta stała się później jednym z filarów mechaniki kwantowej.",
+      "tr": "24 Nisan 1914'te James Franck ve Gustav Hertz, atomlarda kesikli enerji durumlarını doğrulayan bir deneyin sonuçlarını Alman Fizik Derneği'ne sundu. Bu çalışma daha sonra kuantum mekaniğinin sütunlarından biri oldu.",
+      "zh": "1914年4月24日，詹姆斯·弗兰克和古斯塔夫·赫兹向德国物理学会介绍了一项实验证明原子中存在离散能级的结果。这项工作后来成为量子力学的支柱之一。",
+      "ja": "1914年4月24日、ジェームズ・フランクとグスタフ・ヘルツは、原子に離散的なエネルギー状態があることを確認した実験結果をドイツ物理学会で発表しました。この研究は後に量子力学の柱の一つとなりました。",
+      "ko": "1914년 4월 24일, 제임스 프랑크와 구스타프 헤르츠는 원자 안의 불연속 에너지 상태를 확인한 실험 결과를 독일물리학회에 발표했습니다. 이 연구는 훗날 양자역학의 기둥 중 하나가 되었습니다.",
+      "hi": "24 अप्रैल 1914 को जेम्स फ्रांक और गुस्ताव हर्ट्ज़ ने जर्मन फिजिकल सोसाइटी के सामने ऐसे प्रयोग के परिणाम प्रस्तुत किए जिसने परमाणुओं में अलग-अलग ऊर्जा अवस्थाओं की पुष्टि की। बाद में यह काम क्वांटम यांत्रिकी के आधारों में से एक बना।",
+      "ar": "في 24 أبريل 1914 عرض جيمس فرانك وغوستاف هرتز على الجمعية الفيزيائية الألمانية نتائج تجربة أكدت وجود حالات طاقة منفصلة في الذرات. وأصبح هذا العمل لاحقا أحد أعمدة ميكانيكا الكم."
     },
     "importance": {
       "ru": "Дата показывает, как немецкая экспериментальная физика помогла изменить представления о строении материи.",
       "de": "Das Datum zeigt, wie deutsche Experimentalphysik das Bild vom Aufbau der Materie veraenderte.",
-      "en": "The date shows how German experimental physics helped change ideas about the structure of matter."
+      "en": "The date shows how German experimental physics helped change ideas about the structure of matter.",
+      "fr": "Cette date montre comment la physique expérimentale allemande contribua à changer les idées sur la structure de la matière.",
+      "es": "La fecha muestra cómo la física experimental alemana ayudó a cambiar las ideas sobre la estructura de la materia.",
+      "it": "La data mostra come la fisica sperimentale tedesca contribuì a cambiare le idee sulla struttura della materia.",
+      "pt": "A data mostra como a física experimental alemã ajudou a mudar as ideias sobre a estrutura da matéria.",
+      "nl": "Deze datum laat zien hoe Duitse experimentele natuurkunde hielp de ideeën over de opbouw van materie te veranderen.",
+      "pl": "Ta data pokazuje, jak niemiecka fizyka eksperymentalna pomogła zmienić wyobrażenia o budowie materii.",
+      "tr": "Bu tarih, Alman deneysel fiziğinin maddenin yapısı hakkındaki fikirleri değiştirmeye nasıl yardımcı olduğunu gösterir.",
+      "zh": "这个日期显示德国实验物理如何帮助改变人们对物质结构的认识。",
+      "ja": "この日付は、ドイツの実験物理学が物質の構造についての考えを変える助けとなったことを示しています。",
+      "ko": "이 날짜는 독일 실험물리학이 물질 구조에 대한 생각을 바꾸는 데 어떻게 기여했는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि जर्मन प्रयोगात्मक भौतिकी ने पदार्थ की संरचना के बारे में विचार बदलने में कैसे मदद की।",
+      "ar": "يبين هذا التاريخ كيف ساعدت الفيزياء التجريبية الألمانية في تغيير الأفكار عن بنية المادة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Квантовые ступеньки атома",
           "de": "Quantenstufen des Atoms",
-          "en": "Quantum steps in the atom"
+          "en": "Quantum steps in the atom",
+          "fr": "Les marches quantiques de l'atome",
+          "es": "Escalones cuánticos del átomo",
+          "it": "Gradini quantistici dell'atomo",
+          "pt": "Degraus quânticos do átomo",
+          "nl": "Kwantumstappen in het atoom",
+          "pl": "Kwantowe stopnie atomu",
+          "tr": "Atomdaki kuantum basamakları",
+          "zh": "原子中的量子阶梯",
+          "ja": "原子の量子の段階",
+          "ko": "원자 속 양자 계단",
+          "hi": "परमाणु की क्वांटम सीढ़ियाँ",
+          "ar": "درجات الكم في الذرة"
         },
         "description": {
           "ru": "В опыте электроны сталкивались с атомами ртути и теряли энергию не плавно, а порциями. Это стало сильным доказательством того, что атомы могут принимать энергию только определёнными «ступеньками».",
           "de": "Im Versuch stiessen Elektronen mit Quecksilberatomen zusammen und verloren Energie nicht stetig, sondern in Portionen. Das war ein starkes Indiz dafuer, dass Atome Energie nur in bestimmten Stufen aufnehmen koennen.",
-          "en": "In the experiment, electrons collided with mercury atoms and lost energy not continuously, but in portions. This strongly indicated that atoms can absorb energy only in specific steps."
+          "en": "In the experiment, electrons collided with mercury atoms and lost energy not continuously, but in portions. This strongly indicated that atoms can absorb energy only in specific steps.",
+          "fr": "Dans l'expérience, des électrons entraient en collision avec des atomes de mercure et perdaient de l'énergie non pas de façon continue, mais par portions. Cela indiquait fortement que les atomes ne peuvent absorber l'énergie que par étapes précises.",
+          "es": "En el experimento, los electrones chocaban con átomos de mercurio y perdían energía no de forma continua, sino por porciones. Esto indicaba con fuerza que los átomos solo pueden absorber energía en pasos determinados.",
+          "it": "Nell'esperimento, gli elettroni collidevano con atomi di mercurio e perdevano energia non in modo continuo, ma a porzioni. Questo indicava fortemente che gli atomi possono assorbire energia solo in gradini specifici.",
+          "pt": "Na experiência, eletrões colidiam com átomos de mercúrio e perdiam energia não de forma contínua, mas em porções. Isto indicava fortemente que os átomos só podem absorver energia em passos específicos.",
+          "nl": "In het experiment botsten elektronen met kwikatomen en verloren zij energie niet geleidelijk, maar in porties. Dit wees er sterk op dat atomen energie alleen in bepaalde stappen kunnen opnemen.",
+          "pl": "W doświadczeniu elektrony zderzały się z atomami rtęci i traciły energię nie płynnie, lecz porcjami. Był to mocny dowód, że atomy mogą pochłaniać energię tylko w określonych stopniach.",
+          "tr": "Deneyde elektronlar cıva atomlarıyla çarpışıyor ve enerjiyi sürekli değil, parçalar halinde kaybediyordu. Bu, atomların enerjiyi yalnızca belirli basamaklarda soğurabileceğini güçlü biçimde gösterdi.",
+          "zh": "在实验中，电子与汞原子碰撞，能量不是连续损失，而是一份一份地损失。这强烈表明，原子只能按特定阶梯吸收能量。",
+          "ja": "実験では、電子が水銀原子と衝突し、エネルギーを連続的にではなく一定のまとまりで失いました。これは、原子が特定の段階でしかエネルギーを吸収できないことを強く示しました。",
+          "ko": "실험에서 전자는 수은 원자와 충돌하며 에너지를 연속적으로가 아니라 일정한 덩어리로 잃었습니다. 이는 원자가 특정 단계에서만 에너지를 흡수할 수 있음을 강하게 보여 주었습니다.",
+          "hi": "प्रयोग में इलेक्ट्रॉन पारे के परमाणुओं से टकराते थे और ऊर्जा लगातार नहीं, बल्कि हिस्सों में खोते थे। इससे मजबूत संकेत मिला कि परमाणु ऊर्जा केवल निश्चित सीढ़ियों में ही ग्रहण कर सकते हैं।",
+          "ar": "في التجربة اصطدمت الإلكترونات بذرات الزئبق وفقدت الطاقة لا بشكل متصل، بل على دفعات. وكان ذلك دليلا قويا على أن الذرات لا تستطيع امتصاص الطاقة إلا بدرجات محددة."
         },
         "importance": {
           "ru": "Так школьнику проще представить, почему квантовая физика отличается от привычной механики.",
           "de": "So laesst sich leichter verstehen, warum Quantenphysik anders ist als gewohnte Mechanik.",
-          "en": "This makes it easier to understand why quantum physics differs from ordinary mechanics."
+          "en": "This makes it easier to understand why quantum physics differs from ordinary mechanics.",
+          "fr": "Cela aide à comprendre pourquoi la physique quantique diffère de la mécanique habituelle.",
+          "es": "Esto facilita entender por qué la física cuántica difiere de la mecánica habitual.",
+          "it": "Questo rende più facile capire perché la fisica quantistica differisce dalla meccanica abituale.",
+          "pt": "Isto torna mais fácil compreender por que a física quântica difere da mecânica comum.",
+          "nl": "Dit maakt het gemakkelijker te begrijpen waarom kwantumfysica verschilt van gewone mechanica.",
+          "pl": "Dzięki temu łatwiej zrozumieć, dlaczego fizyka kwantowa różni się od zwykłej mechaniki.",
+          "tr": "Bu, kuantum fiziğinin alışılmış mekanikten neden farklı olduğunu anlamayı kolaylaştırır.",
+          "zh": "这让人更容易理解为什么量子物理不同于普通力学。",
+          "ja": "これにより、量子物理学が通常の力学と異なる理由を理解しやすくなります。",
+          "ko": "이는 양자물리학이 일반 역학과 왜 다른지 이해하기 쉽게 해 줍니다.",
+          "hi": "इससे समझना आसान होता है कि क्वांटम भौतिकी सामान्य यांत्रिकी से क्यों अलग है।",
+          "ar": "يسهل ذلك فهم سبب اختلاف فيزياء الكم عن الميكانيكا المعتادة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Нобелевская премия за столкновения",
           "de": "Nobelpreis fuer Stossprozesse",
-          "en": "A Nobel Prize for collisions"
+          "en": "A Nobel Prize for collisions",
+          "fr": "Un prix Nobel pour les collisions",
+          "es": "Un Nobel por las colisiones",
+          "it": "Un Nobel per le collisioni",
+          "pt": "Um Nobel pelas colisões",
+          "nl": "Een Nobelprijs voor botsingen",
+          "pl": "Nobel za zderzenia",
+          "tr": "Çarpışmalar için Nobel",
+          "zh": "因碰撞而获诺贝尔奖",
+          "ja": "衝突に対するノーベル賞",
+          "ko": "충돌에 대한 노벨상",
+          "hi": "टक्करों के लिए नोबेल पुरस्कार",
+          "ar": "نوبل من أجل التصادمات"
         },
         "description": {
           "ru": "Франк и Герц получили Нобелевскую премию по физике за 1925 год за открытие законов столкновения электронов с атомами. За сухой формулировкой стоял прорыв в понимании микромира.",
           "de": "Franck und Hertz erhielten den Physiknobelpreis fuer 1925 fuer die Entdeckung der Gesetze beim Zusammenstoss von Elektronen mit Atomen. Hinter der trockenen Formulierung stand ein Durchbruch im Verstaendnis der Mikrowelt.",
-          "en": "Franck and Hertz received the 1925 Nobel Prize in Physics for discovering the laws governing electron impacts on atoms. Behind the dry wording was a breakthrough in understanding the microworld."
+          "en": "Franck and Hertz received the 1925 Nobel Prize in Physics for discovering the laws governing electron impacts on atoms. Behind the dry wording was a breakthrough in understanding the microworld.",
+          "fr": "Franck et Hertz reçurent le prix Nobel de physique de 1925 pour la découverte des lois des collisions entre électrons et atomes. Derrière cette formule sèche se trouvait une percée dans la compréhension du micromonde.",
+          "es": "Franck y Hertz recibieron el Premio Nobel de Física de 1925 por descubrir las leyes que rigen los impactos de electrones sobre átomos. Detrás de la formulación seca había un avance en la comprensión del micromundo.",
+          "it": "Franck e Hertz ricevettero il Premio Nobel per la fisica del 1925 per la scoperta delle leggi degli urti degli elettroni con gli atomi. Dietro la formula asciutta c'era una svolta nella comprensione del micromondo.",
+          "pt": "Franck e Hertz receberam o Prémio Nobel da Física de 1925 pela descoberta das leis que regem os choques de eletrões com átomos. Por trás da formulação seca estava um avanço na compreensão do micromundo.",
+          "nl": "Franck en Hertz ontvingen de Nobelprijs voor Natuurkunde van 1925 voor de ontdekking van de wetten van elektronenbotsingen met atomen. Achter de droge formulering zat een doorbraak in het begrip van de microwereld.",
+          "pl": "Franck i Hertz otrzymali Nagrodę Nobla z fizyki za 1925 rok za odkrycie praw rządzących zderzeniami elektronów z atomami. Za suchym sformułowaniem krył się przełom w rozumieniu mikroświata.",
+          "tr": "Franck ve Hertz, elektronların atomlarla çarpışmasını yöneten yasaları keşfettikleri için 1925 Nobel Fizik Ödülü'nü aldı. Kuru ifadenin arkasında mikro dünyayı anlamada bir atılım vardı.",
+          "zh": "弗兰克和赫兹因发现电子撞击原子的规律而获得1925年诺贝尔物理学奖。干巴巴的表述背后，是理解微观世界的一次突破。",
+          "ja": "フランクとヘルツは、電子が原子に衝突する際の法則を発見したことで1925年のノーベル物理学賞を受賞しました。そっけない表現の背後には、ミクロの世界を理解する大きな突破がありました。",
+          "ko": "프랑크와 헤르츠는 전자가 원자와 충돌할 때의 법칙을 발견한 공로로 1925년 노벨 물리학상을 받았습니다. 건조한 표현 뒤에는 미시 세계 이해의 돌파구가 있었습니다.",
+          "hi": "फ्रांक और हर्ट्ज़ को इलेक्ट्रॉनों के परमाणुओं से टकराने के नियमों की खोज के लिए 1925 का भौतिकी नोबेल पुरस्कार मिला। सूखे शब्दों के पीछे सूक्ष्म जगत को समझने में बड़ी सफलता थी।",
+          "ar": "حصل فرانك وهرتز على جائزة نوبل في الفيزياء لعام 1925 لاكتشافهما القوانين التي تحكم اصطدام الإلكترونات بالذرات. وخلف الصياغة الجافة كان هناك اختراق في فهم العالم المجهري."
         },
         "importance": {
           "ru": "Это хороший пример того, как точный лабораторный опыт меняет большую картину науки.",
           "de": "Das ist ein gutes Beispiel dafuer, wie ein genaues Laborexperiment das grosse Bild der Wissenschaft veraendert.",
-          "en": "It is a good example of how a precise laboratory experiment can change the big picture of science."
+          "en": "It is a good example of how a precise laboratory experiment can change the big picture of science.",
+          "fr": "C'est un bon exemple de la manière dont une expérience de laboratoire précise peut changer la grande image de la science.",
+          "es": "Es un buen ejemplo de cómo un experimento de laboratorio preciso puede cambiar el panorama general de la ciencia.",
+          "it": "È un buon esempio di come un preciso esperimento di laboratorio possa cambiare il quadro generale della scienza.",
+          "pt": "É um bom exemplo de como uma experiência laboratorial precisa pode mudar a grande imagem da ciência.",
+          "nl": "Het is een goed voorbeeld van hoe een nauwkeurig laboratoriumexperiment het grote beeld van de wetenschap kan veranderen.",
+          "pl": "To dobry przykład tego, jak precyzyjne doświadczenie laboratoryjne może zmienić wielki obraz nauki.",
+          "tr": "Bu, hassas bir laboratuvar deneyinin bilimin büyük resmini nasıl değiştirebileceğine iyi bir örnektir.",
+          "zh": "这是一个很好的例子，说明精确的实验室实验如何改变科学的大图景。",
+          "ja": "これは、精密な実験室での実験が科学の大きな見方を変え得ることを示す良い例です。",
+          "ko": "이는 정밀한 실험실 실험이 과학의 큰 그림을 어떻게 바꿀 수 있는지를 보여 주는 좋은 예입니다.",
+          "hi": "यह अच्छा उदाहरण है कि सटीक प्रयोगशाला प्रयोग विज्ञान की बड़ी तस्वीर को कैसे बदल सकता है।",
+          "ar": "إنه مثال جيد على كيف يمكن لتجربة مخبرية دقيقة أن تغير الصورة الكبرى للعلم."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Густав Герц был племянником Генриха Герца, в честь которого названа единица частоты герц.",
     "de": "Gustav Hertz war ein Neffe von Heinrich Hertz, nach dem die Einheit Hertz benannt ist.",
-    "en": "Gustav Hertz was a nephew of Heinrich Hertz, after whom the unit hertz is named."
+    "en": "Gustav Hertz was a nephew of Heinrich Hertz, after whom the unit hertz is named.",
+    "fr": "Gustav Hertz était le neveu de Heinrich Hertz, qui a donné son nom à l'unité hertz.",
+    "es": "Gustav Hertz era sobrino de Heinrich Hertz, por quien se nombró la unidad hercio.",
+    "it": "Gustav Hertz era nipote di Heinrich Hertz, da cui prende il nome l'unità hertz.",
+    "pt": "Gustav Hertz era sobrinho de Heinrich Hertz, que deu nome à unidade hertz.",
+    "nl": "Gustav Hertz was een neef van Heinrich Hertz, naar wie de eenheid hertz is genoemd.",
+    "pl": "Gustav Hertz był bratankiem Heinricha Hertza, od którego nazwiska pochodzi jednostka herc.",
+    "tr": "Gustav Hertz, hertz birimine adını veren Heinrich Hertz'in yeğeniydi.",
+    "zh": "古斯塔夫·赫兹是海因里希·赫兹的侄子，频率单位赫兹正是以海因里希命名的。",
+    "ja": "グスタフ・ヘルツは、周波数の単位ヘルツの名の由来となったハインリヒ・ヘルツの甥でした。",
+    "ko": "구스타프 헤르츠는 주파수 단위 헤르츠의 이름이 된 하인리히 헤르츠의 조카였습니다.",
+    "hi": "गुस्ताव हर्ट्ज़ हाइनरिख हर्ट्ज़ के भतीजे थे, जिनके नाम पर आवृत्ति की इकाई हर्ट्ज़ रखी गई है।",
+    "ar": "كان غوستاف هرتز ابن أخ هاينريش هرتز، الذي سُميت وحدة الهرتز باسمه."
   },
   "sources": [
     {

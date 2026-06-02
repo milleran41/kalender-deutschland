@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Иммануил Кант",
       "de": "Immanuel Kant wird geboren",
-      "en": "Immanuel Kant is born"
+      "en": "Immanuel Kant is born",
+      "fr": "Immanuel Kant naît",
+      "es": "Nace Immanuel Kant",
+      "it": "Nasce Immanuel Kant",
+      "pt": "Nasce Immanuel Kant",
+      "nl": "Immanuel Kant wordt geboren",
+      "pl": "Rodzi się Immanuel Kant",
+      "tr": "Immanuel Kant doğdu",
+      "zh": "伊曼努尔·康德出生",
+      "ja": "イマヌエル・カントが生まれる",
+      "ko": "이마누엘 칸트가 태어나다",
+      "hi": "इमानुएल कांट का जन्म हुआ",
+      "ar": "ولادة إيمانويل كانط"
     },
     "description": {
       "ru": "22 апреля 1724 года в Кёнигсберге родился философ Иммануил Кант. Его труды о познании, морали и разуме стали одной из основ европейской философии Нового времени.",
       "de": "Am 22. April 1724 wurde der Philosoph Immanuel Kant in Koenigsberg geboren. Seine Werke ueber Erkenntnis, Moral und Vernunft wurden zu einer Grundlage der neuzeitlichen europaeischen Philosophie.",
-      "en": "On 22 April 1724, philosopher Immanuel Kant was born in Koenigsberg. His works on knowledge, morality and reason became a foundation of modern European philosophy."
+      "en": "On 22 April 1724, philosopher Immanuel Kant was born in Koenigsberg. His works on knowledge, morality and reason became a foundation of modern European philosophy.",
+      "fr": "Le 22 avril 1724, le philosophe Immanuel Kant naquit à Koenigsberg. Ses travaux sur la connaissance, la morale et la raison devinrent l'un des fondements de la philosophie européenne moderne.",
+      "es": "El 22 de abril de 1724 nació en Koenigsberg el filósofo Immanuel Kant. Sus obras sobre el conocimiento, la moral y la razón se convirtieron en una base de la filosofía europea moderna.",
+      "it": "Il 22 aprile 1724 nacque a Koenigsberg il filosofo Immanuel Kant. Le sue opere sulla conoscenza, la morale e la ragione divennero una base della filosofia europea moderna.",
+      "pt": "Em 22 de abril de 1724 nasceu em Koenigsberg o filósofo Immanuel Kant. As suas obras sobre conhecimento, moral e razão tornaram-se uma base da filosofia europeia moderna.",
+      "nl": "Op 22 april 1724 werd filosoof Immanuel Kant geboren in Koenigsberg. Zijn werken over kennis, moraal en rede werden een fundament van de moderne Europese filosofie.",
+      "pl": "22 kwietnia 1724 roku w Koenigsbergu urodził się filozof Immanuel Kant. Jego prace o poznaniu, moralności i rozumie stały się jedną z podstaw nowoczesnej filozofii europejskiej.",
+      "tr": "22 Nisan 1724'te filozof Immanuel Kant Koenigsberg'de doğdu. Bilgi, ahlak ve akıl üzerine eserleri modern Avrupa felsefesinin temellerinden biri oldu.",
+      "zh": "1724年4月22日，哲学家伊曼努尔·康德出生于柯尼斯堡。他关于知识、道德和理性的著作成为现代欧洲哲学的基础之一。",
+      "ja": "1724年4月22日、哲学者イマヌエル・カントはケーニヒスベルクで生まれました。認識、道徳、理性に関する彼の著作は、近代ヨーロッパ哲学の基礎の一つとなりました。",
+      "ko": "1724년 4월 22일, 철학자 이마누엘 칸트가 쾨니히스베르크에서 태어났습니다. 지식, 도덕, 이성에 관한 그의 저작은 근대 유럽 철학의 기초가 되었습니다.",
+      "hi": "22 अप्रैल 1724 को दार्शनिक इमानुएल कांट का जन्म कोनिग्सबर्ग में हुआ। ज्ञान, नैतिकता और तर्क पर उनकी रचनाएँ आधुनिक यूरोपीय दर्शन की नींवों में से एक बनीं।",
+      "ar": "في 22 أبريل 1724 وُلد الفيلسوف إيمانويل كانط في كونيغسبرغ. أصبحت أعماله عن المعرفة والأخلاق والعقل أحد أسس الفلسفة الأوروبية الحديثة."
     },
     "importance": {
       "ru": "Кант показывает интеллектуальную сторону немецкого Просвещения и влияние Пруссии на европейскую мысль.",
       "de": "Kant zeigt die intellektuelle Seite der deutschen Aufklaerung und den Einfluss Preussens auf das europaeische Denken.",
-      "en": "Kant shows the intellectual side of the German Enlightenment and Prussia's influence on European thought."
+      "en": "Kant shows the intellectual side of the German Enlightenment and Prussia's influence on European thought.",
+      "fr": "Kant montre le côté intellectuel des Lumières allemandes et l'influence de la Prusse sur la pensée européenne.",
+      "es": "Kant muestra el lado intelectual de la Ilustración alemana y la influencia de Prusia en el pensamiento europeo.",
+      "it": "Kant mostra il lato intellettuale dell'Illuminismo tedesco e l'influenza della Prussia sul pensiero europeo.",
+      "pt": "Kant mostra o lado intelectual do Iluminismo alemão e a influência da Prússia no pensamento europeu.",
+      "nl": "Kant toont de intellectuele kant van de Duitse Verlichting en de invloed van Pruisen op het Europese denken.",
+      "pl": "Kant pokazuje intelektualną stronę niemieckiego oświecenia i wpływ Prus na myśl europejską.",
+      "tr": "Kant, Alman Aydınlanması'nın entelektüel yönünü ve Prusya'nın Avrupa düşüncesi üzerindeki etkisini gösterir.",
+      "zh": "康德展现了德国启蒙运动的思想层面，以及普鲁士对欧洲思想的影响。",
+      "ja": "カントはドイツ啓蒙主義の知的側面と、プロイセンがヨーロッパ思想に与えた影響を示しています。",
+      "ko": "칸트는 독일 계몽주의의 지적 측면과 프로이센이 유럽 사상에 미친 영향을 보여 줍니다.",
+      "hi": "कांट जर्मन प्रबोधन के बौद्धिक पक्ष और यूरोपीय विचार पर प्रशिया के प्रभाव को दिखाते हैं।",
+      "ar": "يُظهر كانط الجانب الفكري من التنوير الألماني وتأثير بروسيا في الفكر الأوروبي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Критика чистого разума»",
           "de": "Kritik der reinen Vernunft",
-          "en": "Critique of Pure Reason"
+          "en": "Critique of Pure Reason",
+          "fr": "Critique de la raison pure",
+          "es": "Crítica de la razón pura",
+          "it": "Critica della ragion pura",
+          "pt": "Crítica da Razão Pura",
+          "nl": "Kritiek van de zuivere rede",
+          "pl": "Krytyka czystego rozumu",
+          "tr": "Saf Aklın Eleştirisi",
+          "zh": "《纯粹理性批判》",
+          "ja": "『純粋理性批判』",
+          "ko": "순수이성비판",
+          "hi": "शुद्ध बुद्धि की समीक्षा",
+          "ar": "نقد العقل الخالص"
         },
         "description": {
           "ru": "В 1781 году вышла «Критика чистого разума». Книга трудная, но её главный вопрос понятен: что человек вообще может знать и где границы разума?",
           "de": "1781 erschien die Kritik der reinen Vernunft. Das Buch ist schwierig, doch seine Hauptfrage ist verstaendlich: Was kann der Mensch ueberhaupt wissen und wo liegen die Grenzen der Vernunft?",
-          "en": "In 1781, Critique of Pure Reason was published. The book is difficult, but its central question is clear: what can humans know, and where are the limits of reason?"
+          "en": "In 1781, Critique of Pure Reason was published. The book is difficult, but its central question is clear: what can humans know, and where are the limits of reason?",
+          "fr": "En 1781 parut la Critique de la raison pure. Le livre est difficile, mais sa question centrale est claire: que peut savoir l'être humain, et où sont les limites de la raison?",
+          "es": "En 1781 se publicó Crítica de la razón pura. El libro es difícil, pero su pregunta central es clara: ¿qué puede saber el ser humano y dónde están los límites de la razón?",
+          "it": "Nel 1781 uscì la Critica della ragion pura. Il libro è difficile, ma la sua domanda centrale è chiara: che cosa può conoscere l'essere umano e dove sono i limiti della ragione?",
+          "pt": "Em 1781 foi publicada a Crítica da Razão Pura. O livro é difícil, mas a sua pergunta central é clara: o que o ser humano pode saber e onde estão os limites da razão?",
+          "nl": "In 1781 verscheen Kritiek van de zuivere rede. Het boek is moeilijk, maar de hoofdvraag is duidelijk: wat kan de mens weten en waar liggen de grenzen van de rede?",
+          "pl": "W 1781 roku ukazała się Krytyka czystego rozumu. Książka jest trudna, ale jej główne pytanie jest jasne: co człowiek może wiedzieć i gdzie leżą granice rozumu?",
+          "tr": "1781'de Saf Aklın Eleştirisi yayımlandı. Kitap zordur, ama temel sorusu açıktır: insan neyi bilebilir ve aklın sınırları nerededir?",
+          "zh": "1781年，《纯粹理性批判》出版。这本书很难，但核心问题很清楚：人究竟能知道什么，理性的边界在哪里？",
+          "ja": "1781年、『純粋理性批判』が出版されました。この本は難解ですが、中心となる問いは明快です。人間は何を知ることができ、理性の限界はどこにあるのか。",
+          "ko": "1781년에 순수이성비판이 출간되었습니다. 이 책은 어렵지만 핵심 질문은 분명합니다. 인간은 무엇을 알 수 있으며 이성의 한계는 어디인가?",
+          "hi": "1781 में शुद्ध बुद्धि की समीक्षा प्रकाशित हुई। पुस्तक कठिन है, लेकिन उसका मुख्य प्रश्न स्पष्ट है: मनुष्य क्या जान सकता है और तर्क की सीमाएँ कहाँ हैं?",
+          "ar": "في عام 1781 نُشر كتاب نقد العقل الخالص. الكتاب صعب، لكن سؤاله المركزي واضح: ماذا يستطيع الإنسان أن يعرف، وأين حدود العقل؟"
         },
         "importance": {
           "ru": "Эта книга стала одним из самых обсуждаемых философских текстов Европы.",
           "de": "Dieses Buch wurde zu einem der meistdiskutierten philosophischen Texte Europas.",
-          "en": "The book became one of Europe's most discussed philosophical texts."
+          "en": "The book became one of Europe's most discussed philosophical texts.",
+          "fr": "Ce livre devint l'un des textes philosophiques les plus discutés d'Europe.",
+          "es": "El libro se convirtió en uno de los textos filosóficos más debatidos de Europa.",
+          "it": "Il libro divenne uno dei testi filosofici più discussi d'Europa.",
+          "pt": "O livro tornou-se um dos textos filosóficos mais discutidos da Europa.",
+          "nl": "Het boek werd een van Europa's meest besproken filosofische teksten.",
+          "pl": "Książka stała się jednym z najczęściej dyskutowanych tekstów filozoficznych Europy.",
+          "tr": "Kitap Avrupa'nın en çok tartışılan felsefi metinlerinden biri oldu.",
+          "zh": "这本书成为欧洲最受讨论的哲学文本之一。",
+          "ja": "この本はヨーロッパで最も議論された哲学書の一つとなりました。",
+          "ko": "이 책은 유럽에서 가장 많이 논의된 철학 텍스트 중 하나가 되었습니다.",
+          "hi": "यह पुस्तक यूरोप के सबसे अधिक चर्चित दार्शनिक ग्रंथों में से एक बनी।",
+          "ar": "أصبح هذا الكتاب من أكثر النصوص الفلسفية نقاشا في أوروبا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Кант почти всю жизнь прожил в Кёнигсберге и редко покидал окрестности города.",
     "de": "Kant lebte fast sein ganzes Leben in Koenigsberg und verliess die Umgebung der Stadt nur selten.",
-    "en": "Kant lived almost his entire life in Koenigsberg and rarely left the city's surroundings."
+    "en": "Kant lived almost his entire life in Koenigsberg and rarely left the city's surroundings.",
+    "fr": "Kant vécut presque toute sa vie à Koenigsberg et quitta rarement les environs de la ville.",
+    "es": "Kant vivió casi toda su vida en Koenigsberg y rara vez salió de los alrededores de la ciudad.",
+    "it": "Kant visse quasi tutta la sua vita a Koenigsberg e lasciò raramente i dintorni della città.",
+    "pt": "Kant viveu quase toda a sua vida em Koenigsberg e raramente deixou os arredores da cidade.",
+    "nl": "Kant woonde bijna zijn hele leven in Koenigsberg en verliet zelden de omgeving van de stad.",
+    "pl": "Kant spędził prawie całe życie w Koenigsbergu i rzadko opuszczał okolice miasta.",
+    "tr": "Kant neredeyse tüm yaşamını Koenigsberg'de geçirdi ve şehrin çevresinden nadiren ayrıldı.",
+    "zh": "康德几乎一生都生活在柯尼斯堡，很少离开城市周边。",
+    "ja": "カントはほぼ生涯をケーニヒスベルクで過ごし、町の周辺を離れることはまれでした。",
+    "ko": "칸트는 거의 평생을 쾨니히스베르크에서 살았고, 도시 주변을 거의 떠나지 않았습니다.",
+    "hi": "कांट ने लगभग पूरी जिंदगी कोनिग्सबर्ग में बिताई और शहर के आसपास से बहुत कम बाहर गए।",
+    "ar": "عاش كانط معظم حياته تقريبا في كونيغسبرغ ونادرا ما غادر محيط المدينة."
   },
   "sources": [
     {
