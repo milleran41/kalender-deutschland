@@ -11,17 +11,53 @@
     "title": {
       "ru": "Капитуляция нацистской Германии вступила в силу",
       "de": "Die Kapitulation NS-Deutschlands tritt in Kraft",
-      "en": "Nazi Germany's surrender takes effect"
+      "en": "Nazi Germany's surrender takes effect",
+      "fr": "La capitulation de l'Allemagne nazie entre en vigueur",
+      "es": "Entra en vigor la capitulación de la Alemania nazi",
+      "it": "Entra in vigore la capitolazione della Germania nazista",
+      "pt": "Entra em vigor a capitulação da Alemanha nazi",
+      "nl": "De capitulatie van nazi-Duitsland treedt in werking",
+      "pl": "Wchodzi w życie kapitulacja nazistowskich Niemiec",
+      "tr": "Nazi Almanyası'nın teslimiyeti yürürlüğe girdi",
+      "zh": "纳粹德国投降生效",
+      "ja": "ナチス・ドイツの降伏が発効する",
+      "ko": "나치 독일의 항복이 발효되다",
+      "hi": "नाज़ी जर्मनी का आत्मसमर्पण प्रभावी हुआ",
+      "ar": "دخول استسلام ألمانيا النازية حيز التنفيذ"
     },
     "description": {
       "ru": "8 мая 1945 года вступила в силу безоговорочная капитуляция германских вооружённых сил. В Европе закончилась Вторая мировая война.",
       "de": "Am 8. Mai 1945 trat die bedingungslose Kapitulation der deutschen Wehrmacht in Kraft. In Europa endete der Zweite Weltkrieg.",
-      "en": "On 8 May 1945, the unconditional surrender of the German armed forces took effect. The Second World War ended in Europe."
+      "en": "On 8 May 1945, the unconditional surrender of the German armed forces took effect. The Second World War ended in Europe.",
+      "fr": "Le 8 mai 1945, la capitulation sans condition des forces armées allemandes entra en vigueur. La Seconde Guerre mondiale prit fin en Europe.",
+      "es": "El 8 de mayo de 1945 entró en vigor la rendición incondicional de las fuerzas armadas alemanas. La Segunda Guerra Mundial terminó en Europa.",
+      "it": "L'8 maggio 1945 entrò in vigore la resa incondizionata delle forze armate tedesche. La Seconda guerra mondiale finì in Europa.",
+      "pt": "Em 8 de maio de 1945 entrou em vigor a rendição incondicional das forças armadas alemãs. A Segunda Guerra Mundial terminou na Europa.",
+      "nl": "Op 8 mei 1945 trad de onvoorwaardelijke capitulatie van de Duitse strijdkrachten in werking. De Tweede Wereldoorlog eindigde in Europa.",
+      "pl": "8 maja 1945 roku weszła w życie bezwarunkowa kapitulacja niemieckich sił zbrojnych. W Europie zakończyła się druga wojna światowa.",
+      "tr": "8 Mayıs 1945'te Alman silahlı kuvvetlerinin koşulsuz teslimiyeti yürürlüğe girdi. Avrupa'da İkinci Dünya Savaşı sona erdi.",
+      "zh": "1945年5月8日，德国武装部队无条件投降正式生效。第二次世界大战在欧洲结束。",
+      "ja": "1945年5月8日、ドイツ軍の無条件降伏が発効しました。ヨーロッパでの第二次世界大戦は終わりました。",
+      "ko": "1945년 5월 8일, 독일군의 무조건 항복이 발효되었습니다. 유럽에서 제2차 세계대전이 끝났습니다.",
+      "hi": "8 मई 1945 को जर्मन सशस्त्र बलों का बिना शर्त आत्मसमर्पण प्रभावी हुआ। यूरोप में द्वितीय विश्व युद्ध समाप्त हुआ।",
+      "ar": "في 8 مايو 1945 دخل الاستسلام غير المشروط للقوات المسلحة الألمانية حيز التنفيذ. وانتهت الحرب العالمية الثانية في أوروبا."
     },
     "importance": {
       "ru": "В Германии эта дата стала днём памяти о конце войны, освобождении от нацизма и ответственности за преступления режима.",
       "de": "In Deutschland wurde dieses Datum ein Tag der Erinnerung an Kriegsende, Befreiung vom Nationalsozialismus und Verantwortung fuer die Verbrechen des Regimes.",
-      "en": "In Germany, the date became a day of remembrance for the war's end, liberation from Nazism and responsibility for the regime's crimes."
+      "en": "In Germany, the date became a day of remembrance for the war's end, liberation from Nazism and responsibility for the regime's crimes.",
+      "fr": "En Allemagne, cette date devint un jour de mémoire pour la fin de la guerre, la libération du nazisme et la responsabilité des crimes du régime.",
+      "es": "En Alemania, la fecha se convirtió en un día de memoria por el fin de la guerra, la liberación del nazismo y la responsabilidad por los crímenes del régimen.",
+      "it": "In Germania, la data divenne un giorno di memoria per la fine della guerra, la liberazione dal nazismo e la responsabilità per i crimini del regime.",
+      "pt": "Na Alemanha, a data tornou-se um dia de memória pelo fim da guerra, a libertação do nazismo e a responsabilidade pelos crimes do regime.",
+      "nl": "In Duitsland werd deze datum een dag van herinnering aan het einde van de oorlog, de bevrijding van het nazisme en de verantwoordelijkheid voor de misdaden van het regime.",
+      "pl": "W Niemczech data ta stała się dniem pamięci o końcu wojny, wyzwoleniu od nazizmu i odpowiedzialności za zbrodnie reżimu.",
+      "tr": "Almanya'da bu tarih savaşın sonu, Nazizmden kurtuluş ve rejimin suçları için sorumluluk günü olarak anılmaya başlandı.",
+      "zh": "在德国，这个日期成为纪念战争结束、摆脱纳粹主义以及承担政权罪行责任的日子。",
+      "ja": "ドイツでは、この日は戦争の終結、ナチズムからの解放、そして政権の犯罪への責任を記憶する日となりました。",
+      "ko": "독일에서 이 날짜는 전쟁의 종식, 나치즘으로부터의 해방, 정권 범죄에 대한 책임을 기억하는 날이 되었습니다.",
+      "hi": "जर्मनी में यह तारीख युद्ध के अंत, नाज़ीवाद से मुक्ति और शासन के अपराधों की जिम्मेदारी की स्मृति का दिन बनी।",
+      "ar": "في ألمانيا أصبح هذا التاريخ يوما لذكرى نهاية الحرب والتحرر من النازية والمسؤولية عن جرائم النظام."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Подписание в Берлине-Карлсхорсте",
           "de": "Unterzeichnung in Berlin-Karlshorst",
-          "en": "Signing in Berlin-Karlshorst"
+          "en": "Signing in Berlin-Karlshorst",
+          "fr": "Signature à Berlin-Karlshorst",
+          "es": "Firma en Berlín-Karlshorst",
+          "it": "Firma a Berlino-Karlshorst",
+          "pt": "Assinatura em Berlim-Karlshorst",
+          "nl": "Ondertekening in Berlin-Karlshorst",
+          "pl": "Podpisanie w Berlinie-Karlshorst",
+          "tr": "Berlin-Karlshorst'ta imza",
+          "zh": "在柏林-卡尔斯霍斯特签署",
+          "ja": "ベルリン＝カールスホルストでの署名",
+          "ko": "베를린-카를스호르스트에서의 서명",
+          "hi": "बर्लिन-कार्ल्सहोर्स्ट में हस्ताक्षर",
+          "ar": "التوقيع في برلين-كارلسهورست"
         },
         "description": {
           "ru": "Окончательный акт капитуляции был подписан в Берлине-Карлсхорсте поздно вечером 8 мая. По московскому времени это уже было 9 мая.",
           "de": "Die endgueltige Kapitulationsurkunde wurde am spaeten Abend des 8. Mai in Berlin-Karlshorst unterzeichnet. Nach Moskauer Zeit war es bereits der 9. Mai.",
-          "en": "The final surrender document was signed late on 8 May in Berlin-Karlshorst. In Moscow time it was already 9 May."
+          "en": "The final surrender document was signed late on 8 May in Berlin-Karlshorst. In Moscow time it was already 9 May.",
+          "fr": "L'acte final de capitulation fut signé tard le 8 mai à Berlin-Karlshorst. À l'heure de Moscou, c'était déjà le 9 mai.",
+          "es": "El documento final de capitulación se firmó tarde el 8 de mayo en Berlín-Karlshorst. Según la hora de Moscú ya era 9 de mayo.",
+          "it": "L'atto finale di capitolazione fu firmato la sera tardi dell'8 maggio a Berlino-Karlshorst. Secondo l'ora di Mosca era già il 9 maggio.",
+          "pt": "O documento final de capitulação foi assinado tarde em 8 de maio em Berlim-Karlshorst. Pela hora de Moscovo já era 9 de maio.",
+          "nl": "De definitieve capitulatieakte werd laat op 8 mei in Berlin-Karlshorst ondertekend. Volgens Moskouse tijd was het al 9 mei.",
+          "pl": "Ostateczny akt kapitulacji podpisano późnym wieczorem 8 maja w Berlinie-Karlshorst. Według czasu moskiewskiego był to już 9 maja.",
+          "tr": "Nihai teslimiyet belgesi 8 Mayıs gecesi Berlin-Karlshorst'ta imzalandı. Moskova saatine göre tarih artık 9 Mayıs'tı.",
+          "zh": "最终投降文件于5月8日晚在柏林-卡尔斯霍斯特签署。按莫斯科时间，已经是5月9日。",
+          "ja": "最終的な降伏文書は5月8日遅く、ベルリン＝カールスホルストで署名されました。モスクワ時間ではすでに5月9日でした。",
+          "ko": "최종 항복 문서는 5월 8일 늦은 밤 베를린-카를스호르스트에서 서명되었습니다. 모스크바 시간으로는 이미 5월 9일이었습니다.",
+          "hi": "अंतिम आत्मसमर्पण दस्तावेज़ 8 मई की देर शाम बर्लिन-कार्ल्सहोर्स्ट में हस्ताक्षरित हुआ। मॉस्को समय के अनुसार तब पहले ही 9 मई हो चुका था।",
+          "ar": "وُقعت وثيقة الاستسلام النهائية في وقت متأخر من 8 مايو في برلين-كارلسهورست. وبحسب توقيت موسكو كان التاريخ قد أصبح 9 مايو."
         },
         "importance": {
           "ru": "Так объясняется, почему окончание войны в Европе вспоминают 8 и 9 мая.",
           "de": "So erklaert sich, warum das Kriegsende in Europa am 8. und am 9. Mai erinnert wird.",
-          "en": "This explains why the end of the war in Europe is remembered on both 8 and 9 May."
+          "en": "This explains why the end of the war in Europe is remembered on both 8 and 9 May.",
+          "fr": "Cela explique pourquoi la fin de la guerre en Europe est commémorée à la fois les 8 et 9 mai.",
+          "es": "Esto explica por qué el final de la guerra en Europa se recuerda tanto el 8 como el 9 de mayo.",
+          "it": "Questo spiega perché la fine della guerra in Europa viene ricordata sia l'8 sia il 9 maggio.",
+          "pt": "Isto explica por que o fim da guerra na Europa é recordado tanto em 8 como em 9 de maio.",
+          "nl": "Dit verklaart waarom het einde van de oorlog in Europa op zowel 8 als 9 mei wordt herdacht.",
+          "pl": "To wyjaśnia, dlaczego koniec wojny w Europie wspomina się zarówno 8, jak i 9 maja.",
+          "tr": "Bu, Avrupa'da savaşın sonunun neden hem 8 hem de 9 Mayıs'ta anıldığını açıklar.",
+          "zh": "这解释了为什么欧洲战争结束会在5月8日和5月9日都被纪念。",
+          "ja": "これにより、ヨーロッパでの戦争終結が5月8日と9日の両方で記憶される理由が分かります。",
+          "ko": "이는 유럽에서 전쟁의 끝이 왜 5월 8일과 9일 모두에 기억되는지를 설명합니다.",
+          "hi": "इससे समझ आता है कि यूरोप में युद्ध का अंत 8 और 9 मई दोनों दिन क्यों याद किया जाता है।",
+          "ar": "يوضح ذلك لماذا تُذكر نهاية الحرب في أوروبا في 8 و9 مايو معا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В немецкой политической культуре 8 мая всё чаще называют не только днём поражения, но и днём освобождения от нацистской диктатуры.",
     "de": "In der deutschen politischen Kultur wird der 8. Mai zunehmend nicht nur als Tag der Niederlage, sondern als Tag der Befreiung von der NS-Diktatur verstanden.",
-    "en": "In German political culture, 8 May is increasingly understood not only as a day of defeat but as a day of liberation from Nazi dictatorship."
+    "en": "In German political culture, 8 May is increasingly understood not only as a day of defeat but as a day of liberation from Nazi dictatorship.",
+    "fr": "Dans la culture politique allemande, le 8 mai est de plus en plus compris non seulement comme un jour de défaite, mais comme un jour de libération de la dictature nazie.",
+    "es": "En la cultura política alemana, el 8 de mayo se entiende cada vez más no solo como un día de derrota, sino como un día de liberación de la dictadura nazi.",
+    "it": "Nella cultura politica tedesca, l'8 maggio è sempre più inteso non solo come giorno della sconfitta, ma come giorno della liberazione dalla dittatura nazista.",
+    "pt": "Na cultura política alemã, 8 de maio é cada vez mais entendido não só como dia da derrota, mas como dia da libertação da ditadura nazi.",
+    "nl": "In de Duitse politieke cultuur wordt 8 mei steeds vaker niet alleen als dag van nederlaag, maar als dag van bevrijding van de nazidictatuur begrepen.",
+    "pl": "W niemieckiej kulturze politycznej 8 maja coraz częściej rozumie się nie tylko jako dzień klęski, lecz także jako dzień wyzwolenia od dyktatury nazistowskiej.",
+    "tr": "Alman siyasi kültüründe 8 Mayıs giderek yalnızca yenilgi günü değil, Nazi diktatörlüğünden kurtuluş günü olarak da anlaşılmaktadır.",
+    "zh": "在德国政治文化中，5月8日越来越不只被理解为失败之日，也被理解为摆脱纳粹独裁的解放之日。",
+    "ja": "ドイツの政治文化では、5月8日は敗北の日としてだけでなく、ナチ独裁からの解放の日としてますます理解されるようになっています。",
+    "ko": "독일 정치 문화에서 5월 8일은 점점 더 패배의 날일 뿐 아니라 나치 독재로부터의 해방의 날로 이해되고 있습니다.",
+    "hi": "जर्मन राजनीतिक संस्कृति में 8 मई को अब केवल पराजय का दिन नहीं, बल्कि नाज़ी तानाशाही से मुक्ति का दिन भी माना जाने लगा है।",
+    "ar": "في الثقافة السياسية الألمانية يُفهم 8 مايو بشكل متزايد ليس كيوم هزيمة فقط، بل كيوم تحرر من الدكتاتورية النازية."
   },
   "sources": [
     {

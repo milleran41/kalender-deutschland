@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Софи Шолль",
       "de": "Sophie Scholl wird geboren",
-      "en": "Sophie Scholl is born"
+      "en": "Sophie Scholl is born",
+      "fr": "Sophie Scholl naît",
+      "es": "Nace Sophie Scholl",
+      "it": "Nasce Sophie Scholl",
+      "pt": "Nasce Sophie Scholl",
+      "nl": "Sophie Scholl wordt geboren",
+      "pl": "Rodzi się Sophie Scholl",
+      "tr": "Sophie Scholl doğdu",
+      "zh": "索菲·朔尔出生",
+      "ja": "ゾフィー・ショルが生まれる",
+      "ko": "조피 숄이 태어나다",
+      "hi": "सोफी शोल का जन्म हुआ",
+      "ar": "ولادة صوفي شول"
     },
     "description": {
       "ru": "9 мая 1921 года в Форхтенберге родилась Софи Шолль. Она стала участницей студенческой группы сопротивления «Белая роза».",
       "de": "Am 9. Mai 1921 wurde Sophie Scholl in Forchtenberg geboren. Sie wurde Mitglied der studentischen Widerstandsgruppe Weisse Rose.",
-      "en": "On 9 May 1921, Sophie Scholl was born in Forchtenberg. She became a member of the student resistance group White Rose."
+      "en": "On 9 May 1921, Sophie Scholl was born in Forchtenberg. She became a member of the student resistance group White Rose.",
+      "fr": "Le 9 mai 1921, Sophie Scholl naquit à Forchtenberg. Elle devint membre du groupe étudiant de résistance La Rose blanche.",
+      "es": "El 9 de mayo de 1921 nació Sophie Scholl en Forchtenberg. Se convirtió en miembro del grupo estudiantil de resistencia Rosa Blanca.",
+      "it": "Il 9 maggio 1921 Sophie Scholl nacque a Forchtenberg. Divenne membro del gruppo studentesco di resistenza Rosa Bianca.",
+      "pt": "Em 9 de maio de 1921 nasceu Sophie Scholl em Forchtenberg. Tornou-se membro do grupo estudantil de resistência Rosa Branca.",
+      "nl": "Op 9 mei 1921 werd Sophie Scholl geboren in Forchtenberg. Zij werd lid van de studentische verzetsgroep Witte Roos.",
+      "pl": "9 maja 1921 roku w Forchtenbergu urodziła się Sophie Scholl. Została członkinią studenckiej grupy oporu Biała Róża.",
+      "tr": "9 Mayıs 1921'de Sophie Scholl Forchtenberg'de doğdu. Beyaz Gül adlı öğrenci direniş grubunun üyesi oldu.",
+      "zh": "1921年5月9日，索菲·朔尔出生于福希滕贝格。她后来成为学生抵抗组织“白玫瑰”的成员。",
+      "ja": "1921年5月9日、ゾフィー・ショルはフォルヒテンベルクで生まれました。彼女は学生抵抗グループ「白いバラ」の一員となりました。",
+      "ko": "1921년 5월 9일, 조피 숄은 포르히텐베르크에서 태어났습니다. 그는 학생 저항 단체 백장미의 일원이 되었습니다.",
+      "hi": "9 मई 1921 को सोफी शोल का जन्म फोर्खटेनबर्ग में हुआ। वे छात्र प्रतिरोध समूह व्हाइट रोज़ की सदस्य बनीं।",
+      "ar": "في 9 مايو 1921 وُلدت صوفي شول في فورشتنبرغ. أصبحت عضوا في مجموعة المقاومة الطلابية الوردة البيضاء."
     },
     "importance": {
       "ru": "Её история показывает, что сопротивление диктатуре могло быть делом очень молодых людей.",
       "de": "Ihre Geschichte zeigt, dass Widerstand gegen die Diktatur auch Sache sehr junger Menschen sein konnte.",
-      "en": "Her story shows that resistance to dictatorship could be the work of very young people."
+      "en": "Her story shows that resistance to dictatorship could be the work of very young people.",
+      "fr": "Son histoire montre que la résistance à la dictature pouvait être l'œuvre de très jeunes personnes.",
+      "es": "Su historia muestra que la resistencia a la dictadura podía ser obra de personas muy jóvenes.",
+      "it": "La sua storia mostra che la resistenza alla dittatura poteva essere opera di persone molto giovani.",
+      "pt": "A sua história mostra que a resistência à ditadura podia ser obra de pessoas muito jovens.",
+      "nl": "Haar verhaal laat zien dat verzet tegen dictatuur ook het werk van zeer jonge mensen kon zijn.",
+      "pl": "Jej historia pokazuje, że opór wobec dyktatury mógł być dziełem bardzo młodych ludzi.",
+      "tr": "Onun hikayesi, diktatörlüğe karşı direnişin çok genç insanların işi olabileceğini gösterir.",
+      "zh": "她的故事表明，反抗独裁也可能由非常年轻的人来承担。",
+      "ja": "彼女の物語は、独裁への抵抗がとても若い人々によって担われることもあったと示しています。",
+      "ko": "그의 이야기는 독재에 대한 저항이 매우 젊은 사람들의 일이 될 수도 있었음을 보여 줍니다.",
+      "hi": "उनकी कहानी दिखाती है कि तानाशाही के विरुद्ध प्रतिरोध बहुत युवा लोगों का काम भी हो सकता था।",
+      "ar": "تُظهر قصتها أن مقاومة الدكتاتورية يمكن أن تكون عملا يقوم به شباب صغار جدا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Листовки «Белой розы»",
           "de": "Die Flugblatter der Weissen Rose",
-          "en": "The White Rose leaflets"
+          "en": "The White Rose leaflets",
+          "fr": "Les tracts de la Rose blanche",
+          "es": "Los panfletos de la Rosa Blanca",
+          "it": "I volantini della Rosa Bianca",
+          "pt": "Os panfletos da Rosa Branca",
+          "nl": "De pamfletten van de Witte Roos",
+          "pl": "Ulotki Białej Róży",
+          "tr": "Beyaz Gül bildirileri",
+          "zh": "“白玫瑰”传单",
+          "ja": "「白いバラ」のビラ",
+          "ko": "백장미 전단",
+          "hi": "व्हाइट रोज़ के पर्चे",
+          "ar": "منشورات الوردة البيضاء"
         },
         "description": {
           "ru": "Группа «Белая роза» распространяла листовки против нацистского режима. Софи и Ганс Шолль были арестованы после акции в Мюнхенском университете.",
           "de": "Die Gruppe Weisse Rose verbreitete Flugblatter gegen das NS-Regime. Sophie und Hans Scholl wurden nach einer Aktion an der Universitaet Muenchen verhaftet.",
-          "en": "The White Rose group distributed leaflets against the Nazi regime. Sophie and Hans Scholl were arrested after an action at the University of Munich."
+          "en": "The White Rose group distributed leaflets against the Nazi regime. Sophie and Hans Scholl were arrested after an action at the University of Munich.",
+          "fr": "Le groupe de la Rose blanche distribuait des tracts contre le régime nazi. Sophie et Hans Scholl furent arrêtés après une action à l'université de Munich.",
+          "es": "El grupo Rosa Blanca distribuía panfletos contra el régimen nazi. Sophie y Hans Scholl fueron arrestados después de una acción en la Universidad de Múnich.",
+          "it": "Il gruppo Rosa Bianca distribuiva volantini contro il regime nazista. Sophie e Hans Scholl furono arrestati dopo un'azione all'Università di Monaco.",
+          "pt": "O grupo Rosa Branca distribuía panfletos contra o regime nazi. Sophie e Hans Scholl foram presos depois de uma ação na Universidade de Munique.",
+          "nl": "De groep Witte Roos verspreidde pamfletten tegen het naziregime. Sophie en Hans Scholl werden na een actie aan de Universiteit van München gearresteerd.",
+          "pl": "Grupa Biała Róża rozpowszechniała ulotki przeciw reżimowi nazistowskiemu. Sophie i Hans Scholl zostali aresztowani po akcji na Uniwersytecie Monachijskim.",
+          "tr": "Beyaz Gül grubu Nazi rejimine karşı bildiriler dağıtıyordu. Sophie ve Hans Scholl, Münih Üniversitesi'ndeki bir eylemden sonra tutuklandı.",
+          "zh": "“白玫瑰”小组散发反对纳粹政权的传单。索菲和汉斯·朔尔在慕尼黑大学的一次行动后被逮捕。",
+          "ja": "「白いバラ」グループはナチス政権に反対するビラを配布しました。ゾフィーとハンス・ショルはミュンヘン大学での行動の後に逮捕されました。",
+          "ko": "백장미 그룹은 나치 정권에 반대하는 전단을 배포했습니다. 조피와 한스 숄은 뮌헨 대학교에서의 행동 이후 체포되었습니다.",
+          "hi": "व्हाइट रोज़ समूह ने नाज़ी शासन के विरुद्ध पर्चे बाँटे। म्यूनिख विश्वविद्यालय में एक कार्रवाई के बाद सोफी और हांस शोल गिरफ्तार किए गए।",
+          "ar": "وزعت مجموعة الوردة البيضاء منشورات ضد النظام النازي. واعتُقلت صوفي وهانس شول بعد عمل احتجاجي في جامعة ميونيخ."
         },
         "importance": {
           "ru": "Это один из самых известных примеров гражданского мужества в нацистской Германии.",
           "de": "Das ist eines der bekanntesten Beispiele fuer Zivilcourage im nationalsozialistischen Deutschland.",
-          "en": "It is one of the best-known examples of civil courage in Nazi Germany."
+          "en": "It is one of the best-known examples of civil courage in Nazi Germany.",
+          "fr": "C'est l'un des exemples les plus connus de courage civique dans l'Allemagne nazie.",
+          "es": "Es uno de los ejemplos más conocidos de coraje civil en la Alemania nazi.",
+          "it": "È uno degli esempi più noti di coraggio civile nella Germania nazista.",
+          "pt": "É um dos exemplos mais conhecidos de coragem cívica na Alemanha nazi.",
+          "nl": "Het is een van de bekendste voorbeelden van burgerlijke moed in nazi-Duitsland.",
+          "pl": "To jeden z najbardziej znanych przykładów odwagi cywilnej w nazistowskich Niemczech.",
+          "tr": "Bu, Nazi Almanyası'ndaki sivil cesaretin en bilinen örneklerinden biridir.",
+          "zh": "这是纳粹德国公民勇气最著名的例子之一。",
+          "ja": "これはナチス・ドイツにおける市民的勇気の最もよく知られた例の一つです。",
+          "ko": "이는 나치 독일에서 시민적 용기를 보여 주는 가장 잘 알려진 사례 중 하나입니다.",
+          "hi": "यह नाज़ी जर्मनी में नागरिक साहस के सबसे प्रसिद्ध उदाहरणों में से एक है।",
+          "ar": "إنه أحد أشهر أمثلة الشجاعة المدنية في ألمانيا النازية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Память о «Белой розе» особенно связана с Мюнхенским университетом.",
     "de": "Die Erinnerung an die Weisse Rose ist besonders mit der Universitaet Muenchen verbunden.",
-    "en": "The memory of the White Rose is especially connected with the University of Munich."
+    "en": "The memory of the White Rose is especially connected with the University of Munich.",
+    "fr": "La mémoire de la Rose blanche est particulièrement liée à l'université de Munich.",
+    "es": "La memoria de la Rosa Blanca está especialmente vinculada con la Universidad de Múnich.",
+    "it": "La memoria della Rosa Bianca è particolarmente legata all'Università di Monaco.",
+    "pt": "A memória da Rosa Branca está especialmente ligada à Universidade de Munique.",
+    "nl": "De herinnering aan de Witte Roos is vooral verbonden met de Universiteit van München.",
+    "pl": "Pamięć o Białej Róży jest szczególnie związana z Uniwersytetem Monachijskim.",
+    "tr": "Beyaz Gül'ün hatırası özellikle Münih Üniversitesi ile bağlantılıdır.",
+    "zh": "对白玫瑰的记忆尤其与慕尼黑大学相连。",
+    "ja": "「白いバラ」の記憶は、とくにミュンヘン大学と結びついています。",
+    "ko": "백장미에 대한 기억은 특히 뮌헨 대학교와 연결되어 있습니다.",
+    "hi": "व्हाइट रोज़ की स्मृति विशेष रूप से म्यूनिख विश्वविद्यालय से जुड़ी है।",
+    "ar": "ترتبط ذكرى الوردة البيضاء خصوصا بجامعة ميونيخ."
   },
   "sources": [
     {
