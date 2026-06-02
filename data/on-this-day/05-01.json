@@ -11,17 +11,53 @@
     "title": {
       "ru": "Нацисты объявили 1 мая «Днём национального труда»",
       "de": "Die Nationalsozialisten machen den 1. Mai zum Tag der nationalen Arbeit",
-      "en": "The Nazis make 1 May the Day of National Labour"
+      "en": "The Nazis make 1 May the Day of National Labour",
+      "fr": "Les nazis font du 1er mai la Journée nationale du travail",
+      "es": "Los nazis convierten el 1 de mayo en el Día Nacional del Trabajo",
+      "it": "I nazisti fanno del 1º maggio la Giornata nazionale del lavoro",
+      "pt": "Os nazis fazem do 1 de maio o Dia Nacional do Trabalho",
+      "nl": "De nazi's maken van 1 mei de Dag van de Nationale Arbeid",
+      "pl": "Naziści czynią 1 maja Dniem Pracy Narodowej",
+      "tr": "Naziler 1 Mayıs'ı Ulusal Emek Günü yaptı",
+      "zh": "纳粹将5月1日定为“民族劳动日”",
+      "ja": "ナチスが5月1日を「国民労働の日」にする",
+      "ko": "나치가 5월 1일을 국민 노동의 날로 만들다",
+      "hi": "नाज़ियों ने 1 मई को राष्ट्रीय श्रम दिवस बनाया",
+      "ar": "النازيون يجعلون الأول من مايو يوم العمل الوطني"
     },
     "description": {
       "ru": "1 мая 1933 года нацистский режим устроил массовые празднования «Дня национального труда». Уже на следующий день независимые профсоюзы были разгромлены и подчинены режиму.",
       "de": "Am 1. Mai 1933 inszenierte das NS-Regime grosse Feiern zum Tag der nationalen Arbeit. Schon am naechsten Tag wurden die freien Gewerkschaften zerschlagen und dem Regime unterworfen.",
-      "en": "On 1 May 1933, the Nazi regime staged mass celebrations for the Day of National Labour. The very next day, independent trade unions were destroyed and brought under the regime's control."
+      "en": "On 1 May 1933, the Nazi regime staged mass celebrations for the Day of National Labour. The very next day, independent trade unions were destroyed and brought under the regime's control.",
+      "fr": "Le 1er mai 1933, le régime nazi organisa de grandes célébrations pour la Journée nationale du travail. Dès le lendemain, les syndicats indépendants furent détruits et placés sous le contrôle du régime.",
+      "es": "El 1 de mayo de 1933, el régimen nazi organizó celebraciones masivas por el Día Nacional del Trabajo. Al día siguiente, los sindicatos independientes fueron destruidos y sometidos al control del régimen.",
+      "it": "Il 1º maggio 1933 il regime nazista organizzò grandi celebrazioni per la Giornata nazionale del lavoro. Già il giorno dopo, i sindacati indipendenti furono distrutti e posti sotto il controllo del regime.",
+      "pt": "Em 1 de maio de 1933, o regime nazi encenou grandes celebrações pelo Dia Nacional do Trabalho. Logo no dia seguinte, os sindicatos independentes foram destruídos e colocados sob o controlo do regime.",
+      "nl": "Op 1 mei 1933 organiseerde het naziregime massale vieringen voor de Dag van de Nationale Arbeid. Al de volgende dag werden onafhankelijke vakbonden vernietigd en onder controle van het regime gebracht.",
+      "pl": "1 maja 1933 roku reżim nazistowski zorganizował masowe obchody Dnia Pracy Narodowej. Już następnego dnia niezależne związki zawodowe zostały rozbite i podporządkowane reżimowi.",
+      "tr": "1 Mayıs 1933'te Nazi rejimi Ulusal Emek Günü için kitlesel kutlamalar düzenledi. Hemen ertesi gün bağımsız sendikalar yok edildi ve rejimin kontrolü altına alındı.",
+      "zh": "1933年5月1日，纳粹政权为“民族劳动日”举行大规模庆祝。就在第二天，独立工会被摧毁并置于政权控制之下。",
+      "ja": "1933年5月1日、ナチス政権は「国民労働の日」の大規模な祝典を演出しました。その翌日には、独立した労働組合が破壊され、政権の管理下に置かれました。",
+      "ko": "1933년 5월 1일, 나치 정권은 국민 노동의 날을 위한 대규모 기념행사를 연출했습니다. 바로 다음 날 독립 노동조합은 파괴되어 정권의 통제 아래 놓였습니다.",
+      "hi": "1 मई 1933 को नाज़ी शासन ने राष्ट्रीय श्रम दिवस के लिए बड़े पैमाने पर समारोह आयोजित किए। अगले ही दिन स्वतंत्र ट्रेड यूनियनों को नष्ट कर शासन के नियंत्रण में ला दिया गया।",
+      "ar": "في 1 مايو 1933 نظم النظام النازي احتفالات جماهيرية بيوم العمل الوطني. وفي اليوم التالي مباشرة دُمرت النقابات المستقلة ووُضعت تحت سيطرة النظام."
     },
     "importance": {
       "ru": "Дата показывает, как диктатура могла присвоить популярный рабочий праздник, а затем уничтожить реальные рабочие организации.",
       "de": "Das Datum zeigt, wie eine Diktatur einen populaeren Feiertag der Arbeiterbewegung vereinnahmen und dann echte Arbeiterorganisationen zerschlagen konnte.",
-      "en": "The date shows how a dictatorship could appropriate a popular workers' holiday and then destroy real workers' organizations."
+      "en": "The date shows how a dictatorship could appropriate a popular workers' holiday and then destroy real workers' organizations.",
+      "fr": "Cette date montre comment une dictature pouvait s'approprier une fête ouvrière populaire puis détruire les véritables organisations de travailleurs.",
+      "es": "La fecha muestra cómo una dictadura podía apropiarse de una fiesta obrera popular y luego destruir las verdaderas organizaciones de trabajadores.",
+      "it": "La data mostra come una dittatura potesse appropriarsi di una popolare festa dei lavoratori e poi distruggere le vere organizzazioni operaie.",
+      "pt": "A data mostra como uma ditadura podia apropriar-se de uma festa popular dos trabalhadores e depois destruir as organizações reais dos trabalhadores.",
+      "nl": "Deze datum laat zien hoe een dictatuur een populaire arbeidersfeestdag kon toe-eigenen en daarna echte arbeidersorganisaties vernietigen.",
+      "pl": "Ta data pokazuje, jak dyktatura mogła zawłaszczyć popularne święto robotnicze, a następnie zniszczyć prawdziwe organizacje pracownicze.",
+      "tr": "Bu tarih, bir diktatörlüğün popüler bir işçi bayramını nasıl sahiplendiğini ve ardından gerçek işçi örgütlerini yok ettiğini gösterir.",
+      "zh": "这个日期显示，独裁政权如何挪用受欢迎的工人节日，然后摧毁真正的工人组织。",
+      "ja": "この日付は、独裁政権が人気のある労働者の祝日を取り込み、その後本物の労働者組織を破壊し得ることを示しています。",
+      "ko": "이 날짜는 독재 정권이 대중적인 노동자 명절을 차용한 뒤 실제 노동자 조직을 어떻게 파괴할 수 있었는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि तानाशाही कैसे लोकप्रिय श्रमिक अवकाश को अपना सकती थी और फिर वास्तविक श्रमिक संगठनों को नष्ट कर सकती थी।",
+      "ar": "يبين هذا التاريخ كيف استطاعت دكتاتورية أن تستولي على عيد عمالي شعبي ثم تدمر المنظمات العمالية الحقيقية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Праздник как пропаганда",
           "de": "Feiertag als Propaganda",
-          "en": "A holiday as propaganda"
+          "en": "A holiday as propaganda",
+          "fr": "Une fête comme propagande",
+          "es": "Una fiesta como propaganda",
+          "it": "Una festa come propaganda",
+          "pt": "Um feriado como propaganda",
+          "nl": "Een feestdag als propaganda",
+          "pl": "Święto jako propaganda",
+          "tr": "Propaganda olarak bayram",
+          "zh": "作为宣传的节日",
+          "ja": "宣伝としての祝日",
+          "ko": "선전으로서의 휴일",
+          "hi": "प्रचार के रूप में अवकाश",
+          "ar": "عيد كدعاية"
         },
         "description": {
           "ru": "Нацисты превратили 1 мая в спектакль о «народном единстве» и труде. Но за красивыми лозунгами стояло уничтожение независимой политики и свободных объединений.",
           "de": "Die Nationalsozialisten machten den 1. Mai zu einer Inszenierung von Volksgemeinschaft und Arbeit. Hinter den schoenen Parolen stand jedoch die Zerstoerung unabhaengiger Politik und freier Organisationen.",
-          "en": "The Nazis turned 1 May into a spectacle about national unity and labor. Behind the fine slogans stood the destruction of independent politics and free organizations."
+          "en": "The Nazis turned 1 May into a spectacle about national unity and labor. Behind the fine slogans stood the destruction of independent politics and free organizations.",
+          "fr": "Les nazis transformèrent le 1er mai en spectacle sur l'unité nationale et le travail. Derrière les beaux slogans se trouvait la destruction de la politique indépendante et des organisations libres.",
+          "es": "Los nazis convirtieron el 1 de mayo en un espectáculo sobre unidad nacional y trabajo. Detrás de los bellos lemas estaba la destrucción de la política independiente y de las organizaciones libres.",
+          "it": "I nazisti trasformarono il 1º maggio in uno spettacolo sull'unità nazionale e sul lavoro. Dietro i bei slogan c'era la distruzione della politica indipendente e delle organizzazioni libere.",
+          "pt": "Os nazis transformaram o 1 de maio num espetáculo sobre unidade nacional e trabalho. Por trás dos belos slogans estava a destruição da política independente e das organizações livres.",
+          "nl": "De nazi's maakten van 1 mei een spektakel over nationale eenheid en arbeid. Achter de mooie leuzen stond de vernietiging van onafhankelijke politiek en vrije organisaties.",
+          "pl": "Naziści zamienili 1 maja w spektakl o wspólnocie narodowej i pracy. Za pięknymi hasłami stało niszczenie niezależnej polityki i wolnych organizacji.",
+          "tr": "Naziler 1 Mayıs'ı ulusal birlik ve emek üzerine bir gösteriye dönüştürdü. Güzel sloganların arkasında bağımsız siyasetin ve özgür örgütlerin yok edilmesi vardı.",
+          "zh": "纳粹把5月1日变成关于民族团结和劳动的表演。漂亮口号背后，是对独立政治和自由组织的摧毁。",
+          "ja": "ナチスは5月1日を国民的統一と労働についての見世物に変えました。美しい標語の背後には、独立した政治と自由な組織の破壊がありました。",
+          "ko": "나치는 5월 1일을 국민 통합과 노동에 관한 쇼로 바꾸었습니다. 그럴듯한 구호 뒤에는 독립 정치와 자유 조직의 파괴가 있었습니다.",
+          "hi": "नाज़ियों ने 1 मई को राष्ट्रीय एकता और श्रम के तमाशे में बदल दिया। सुंदर नारों के पीछे स्वतंत्र राजनीति और मुक्त संगठनों का विनाश था।",
+          "ar": "حوّل النازيون الأول من مايو إلى عرض عن الوحدة الوطنية والعمل. وخلف الشعارات الجميلة كان تدمير السياسة المستقلة والمنظمات الحرة."
         },
         "importance": {
           "ru": "Так можно объяснить школьнику, что форма праздника не всегда совпадает с его настоящим смыслом.",
           "de": "So laesst sich erklaeren, dass die Form eines Feiertags nicht immer mit seinem wirklichen Sinn uebereinstimmt.",
-          "en": "This helps explain that the form of a holiday does not always match its real meaning."
+          "en": "This helps explain that the form of a holiday does not always match its real meaning.",
+          "fr": "Cela aide à expliquer que la forme d'une fête ne correspond pas toujours à son véritable sens.",
+          "es": "Esto ayuda a explicar que la forma de una fiesta no siempre coincide con su verdadero significado.",
+          "it": "Questo aiuta a spiegare che la forma di una festa non coincide sempre con il suo vero significato.",
+          "pt": "Isto ajuda a explicar que a forma de um feriado nem sempre coincide com o seu verdadeiro sentido.",
+          "nl": "Dit helpt uit te leggen dat de vorm van een feestdag niet altijd overeenkomt met zijn werkelijke betekenis.",
+          "pl": "Pomaga to wyjaśnić, że forma święta nie zawsze zgadza się z jego prawdziwym sensem.",
+          "tr": "Bu, bir bayramın biçiminin gerçek anlamıyla her zaman örtüşmediğini açıklamaya yardımcı olur.",
+          "zh": "这有助于解释，节日的形式并不总是与其真实意义一致。",
+          "ja": "これは、祝日の形が必ずしも本当の意味と一致しないことを説明する助けになります。",
+          "ko": "이는 휴일의 형식이 항상 실제 의미와 일치하지는 않는다는 점을 설명하는 데 도움이 됩니다.",
+          "hi": "यह समझाने में मदद करता है कि अवकाश का रूप हमेशा उसके वास्तविक अर्थ से मेल नहीं खाता।",
+          "ar": "يساعد ذلك على توضيح أن شكل العيد لا يطابق دائما معناه الحقيقي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Парад сегодня, разгром завтра",
           "de": "Heute Parade, morgen Zerschlagung",
-          "en": "Parade today, destruction tomorrow"
+          "en": "Parade today, destruction tomorrow",
+          "fr": "Défilé aujourd'hui, destruction demain",
+          "es": "Desfile hoy, destrucción mañana",
+          "it": "Parata oggi, distruzione domani",
+          "pt": "Desfile hoje, destruição amanhã",
+          "nl": "Vandaag parade, morgen vernietiging",
+          "pl": "Dziś parada, jutro rozbicie",
+          "tr": "Bugün geçit töreni, yarın yıkım",
+          "zh": "今天游行，明天摧毁",
+          "ja": "今日は行進、明日は破壊",
+          "ko": "오늘은 행진, 내일은 파괴",
+          "hi": "आज परेड, कल विनाश",
+          "ar": "استعراض اليوم، تدمير غدا"
         },
         "description": {
           "ru": "Контраст особенно резкий: 1 мая режим демонстрировал уважение к труду, а 2 мая занял здания профсоюзов и арестовал многих активистов. Поэтому эти два дня часто рассматривают вместе.",
           "de": "Der Gegensatz ist besonders scharf: Am 1. Mai zeigte das Regime angebliche Achtung vor der Arbeit, am 2. Mai besetzte es Gewerkschaftshaeuser und verhaftete viele Aktive. Darum werden diese beiden Tage oft zusammen betrachtet.",
-          "en": "The contrast is especially sharp: on 1 May the regime displayed supposed respect for labor, and on 2 May it occupied union offices and arrested many activists. The two days are therefore often viewed together."
+          "en": "The contrast is especially sharp: on 1 May the regime displayed supposed respect for labor, and on 2 May it occupied union offices and arrested many activists. The two days are therefore often viewed together.",
+          "fr": "Le contraste est particulièrement fort: le 1er mai, le régime affichait un prétendu respect du travail, et le 2 mai il occupait les locaux syndicaux et arrêtait de nombreux militants. C'est pourquoi ces deux jours sont souvent étudiés ensemble.",
+          "es": "El contraste es especialmente fuerte: el 1 de mayo el régimen mostraba un supuesto respeto por el trabajo, y el 2 de mayo ocupaba sedes sindicales y arrestaba a muchos activistas. Por eso estos dos días suelen verse juntos.",
+          "it": "Il contrasto è particolarmente netto: il 1º maggio il regime mostrava un presunto rispetto per il lavoro, e il 2 maggio occupava le sedi sindacali e arrestava molti attivisti. Per questo i due giorni sono spesso considerati insieme.",
+          "pt": "O contraste é especialmente forte: em 1 de maio o regime mostrava um suposto respeito pelo trabalho, e em 2 de maio ocupava sedes sindicais e prendia muitos ativistas. Por isso, estes dois dias são muitas vezes vistos em conjunto.",
+          "nl": "Het contrast is bijzonder scherp: op 1 mei toonde het regime vermeend respect voor arbeid, en op 2 mei bezette het vakbondskantoren en arresteerde veel activisten. Daarom worden deze twee dagen vaak samen bekeken.",
+          "pl": "Kontrast jest szczególnie ostry: 1 maja reżim okazywał rzekomy szacunek dla pracy, a 2 maja zajmował siedziby związków i aresztował wielu działaczy. Dlatego te dwa dni często rozpatruje się razem.",
+          "tr": "Karşıtlık özellikle keskindir: 1 Mayıs'ta rejim emeğe sözde saygı gösterdi, 2 Mayıs'ta ise sendika binalarını işgal edip birçok aktivisti tutukladı. Bu yüzden iki gün çoğu zaman birlikte değerlendirilir.",
+          "zh": "这种对比格外鲜明：5月1日，政权展示所谓对劳动的尊重；5月2日，它占领工会办公场所并逮捕许多活动人士。因此这两天常被放在一起看。",
+          "ja": "対照はとくに鮮明です。5月1日、政権は労働への見せかけの敬意を示し、5月2日には組合事務所を占拠し、多くの活動家を逮捕しました。そのため、この二日間はしばしば一緒に見られます。",
+          "ko": "대조는 특히 뚜렷합니다. 5월 1일 정권은 노동에 대한 가짜 존중을 보여 주었고, 5월 2일에는 노동조합 사무실을 점거하고 많은 활동가를 체포했습니다. 그래서 이틀은 자주 함께 다루어집니다.",
+          "hi": "विरोधाभास बहुत तीखा है: 1 मई को शासन ने श्रम के प्रति कथित सम्मान दिखाया, और 2 मई को यूनियन कार्यालयों पर कब्ज़ा कर कई कार्यकर्ताओं को गिरफ्तार किया। इसलिए इन दो दिनों को अक्सर साथ देखा जाता है।",
+          "ar": "التناقض حاد جدا: في 1 مايو أظهر النظام احتراما مزعوما للعمل، وفي 2 مايو احتل مكاتب النقابات واعتقل كثيرا من الناشطين. لذلك غالبا ما يُنظر إلى اليومين معا."
         },
         "importance": {
           "ru": "Иногда главный смысл события раскрывается только если посмотреть на следующий день.",
           "de": "Manchmal wird die Bedeutung eines Ereignisses erst sichtbar, wenn man auf den naechsten Tag schaut.",
-          "en": "Sometimes the meaning of an event becomes clear only by looking at the next day."
+          "en": "Sometimes the meaning of an event becomes clear only by looking at the next day.",
+          "fr": "Parfois, le sens d'un événement ne devient clair qu'en regardant le lendemain.",
+          "es": "A veces el significado de un acontecimiento solo queda claro al mirar el día siguiente.",
+          "it": "A volte il significato di un evento diventa chiaro solo guardando al giorno successivo.",
+          "pt": "Às vezes, o significado de um acontecimento só fica claro ao olhar para o dia seguinte.",
+          "nl": "Soms wordt de betekenis van een gebeurtenis pas duidelijk als men naar de volgende dag kijkt.",
+          "pl": "Czasem sens wydarzenia staje się jasny dopiero wtedy, gdy spojrzy się na następny dzień.",
+          "tr": "Bazen bir olayın anlamı ancak ertesi güne bakınca anlaşılır.",
+          "zh": "有时，只有看第二天，事件的意义才会变得清楚。",
+          "ja": "時には、出来事の意味は翌日を見て初めて明らかになります。",
+          "ko": "때로는 다음 날을 보아야 사건의 의미가 분명해집니다.",
+          "hi": "कभी-कभी किसी घटना का अर्थ अगले दिन को देखकर ही स्पष्ट होता है।",
+          "ar": "أحيانا لا يتضح معنى الحدث إلا عند النظر إلى اليوم التالي."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В 1919 году 1 мая уже был законным праздником в Германии, но тогда только на один год.",
     "de": "Schon 1919 war der 1. Mai in Deutschland gesetzlicher Feiertag, damals jedoch nur fuer ein Jahr.",
-    "en": "In 1919, 1 May had already been a legal holiday in Germany, but only for that year."
+    "en": "In 1919, 1 May had already been a legal holiday in Germany, but only for that year.",
+    "fr": "En 1919, le 1er mai avait déjà été un jour férié légal en Allemagne, mais seulement pour cette année-là.",
+    "es": "En 1919, el 1 de mayo ya había sido festivo legal en Alemania, pero solo durante ese año.",
+    "it": "Nel 1919 il 1º maggio era già stato festa legale in Germania, ma solo per quell'anno.",
+    "pt": "Em 1919, o 1 de maio já tinha sido feriado legal na Alemanha, mas apenas nesse ano.",
+    "nl": "In 1919 was 1 mei in Duitsland al een wettelijke feestdag geweest, maar alleen voor dat jaar.",
+    "pl": "W 1919 roku 1 maja był już w Niemczech świętem ustawowym, ale tylko na ten jeden rok.",
+    "tr": "1919'da 1 Mayıs Almanya'da zaten yasal tatildi, ancak yalnızca o yıl için.",
+    "zh": "1919年，5月1日已经在德国成为法定假日，但只限那一年。",
+    "ja": "1919年、5月1日はすでにドイツで法定祝日となっていましたが、その年限りでした。",
+    "ko": "1919년에 5월 1일은 이미 독일의 법정 공휴일이었지만, 그해에만 해당했습니다.",
+    "hi": "1919 में 1 मई जर्मनी में पहले ही कानूनी अवकाश था, लेकिन केवल उसी वर्ष के लिए।",
+    "ar": "في عام 1919 كان الأول من مايو قد أصبح بالفعل عطلة قانونية في ألمانيا، لكن لذلك العام فقط."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Нацисты разгромили свободные профсоюзы",
       "de": "Die Nationalsozialisten zerschlagen die freien Gewerkschaften",
-      "en": "The Nazis destroy the free trade unions"
+      "en": "The Nazis destroy the free trade unions",
+      "fr": "Les nazis détruisent les syndicats libres",
+      "es": "Los nazis destruyen los sindicatos libres",
+      "it": "I nazisti distruggono i sindacati liberi",
+      "pt": "Os nazis destroem os sindicatos livres",
+      "nl": "De nazi's vernietigen de vrije vakbonden",
+      "pl": "Naziści niszczą wolne związki zawodowe",
+      "tr": "Naziler özgür sendikaları yok etti",
+      "zh": "纳粹摧毁自由工会",
+      "ja": "ナチスが自由労働組合を破壊する",
+      "ko": "나치가 자유 노동조합을 파괴하다",
+      "hi": "नाज़ियों ने स्वतंत्र ट्रेड यूनियनों को नष्ट किया",
+      "ar": "النازيون يدمرون النقابات الحرة"
     },
     "description": {
       "ru": "2 мая 1933 года нацисты заняли здания свободных профсоюзов, арестовали многих руководителей и конфисковали имущество. Независимое рабочее движение было уничтожено.",
       "de": "Am 2. Mai 1933 besetzten Nationalsozialisten die Haeuser der freien Gewerkschaften, verhafteten viele Funktionaere und beschlagnahmten Vermoegen. Die unabhaengige Arbeiterbewegung wurde zerstoert.",
-      "en": "On 2 May 1933, the Nazis occupied free trade union offices, arrested many leaders and confiscated assets. The independent labor movement was destroyed."
+      "en": "On 2 May 1933, the Nazis occupied free trade union offices, arrested many leaders and confiscated assets. The independent labor movement was destroyed.",
+      "fr": "Le 2 mai 1933, les nazis occupèrent les locaux des syndicats libres, arrêtèrent de nombreux dirigeants et confisquèrent les biens. Le mouvement ouvrier indépendant fut détruit.",
+      "es": "El 2 de mayo de 1933, los nazis ocuparon las sedes de los sindicatos libres, arrestaron a muchos dirigentes y confiscaron bienes. El movimiento obrero independiente fue destruido.",
+      "it": "Il 2 maggio 1933 i nazisti occuparono le sedi dei sindacati liberi, arrestarono molti dirigenti e confiscarono beni. Il movimento operaio indipendente fu distrutto.",
+      "pt": "Em 2 de maio de 1933, os nazis ocuparam as sedes dos sindicatos livres, prenderam muitos dirigentes e confiscaram bens. O movimento operário independente foi destruído.",
+      "nl": "Op 2 mei 1933 bezetten de nazi's kantoren van vrije vakbonden, arresteerden veel leiders en confisqueerden bezittingen. De onafhankelijke arbeidersbeweging werd vernietigd.",
+      "pl": "2 maja 1933 roku naziści zajęli siedziby wolnych związków zawodowych, aresztowali wielu przywódców i skonfiskowali majątek. Niezależny ruch robotniczy został zniszczony.",
+      "tr": "2 Mayıs 1933'te Naziler özgür sendika bürolarını işgal etti, birçok lideri tutukladı ve varlıklara el koydu. Bağımsız işçi hareketi yok edildi.",
+      "zh": "1933年5月2日，纳粹占领自由工会办公场所，逮捕许多领导人并没收财产。独立工人运动被摧毁。",
+      "ja": "1933年5月2日、ナチスは自由労働組合の事務所を占拠し、多くの指導者を逮捕し、資産を没収しました。独立した労働運動は破壊されました。",
+      "ko": "1933년 5월 2일, 나치는 자유 노동조합 사무실을 점거하고 많은 지도자를 체포했으며 자산을 몰수했습니다. 독립 노동운동은 파괴되었습니다.",
+      "hi": "2 मई 1933 को नाज़ियों ने स्वतंत्र ट्रेड यूनियन कार्यालयों पर कब्ज़ा किया, कई नेताओं को गिरफ्तार किया और संपत्ति जब्त की। स्वतंत्र श्रमिक आंदोलन नष्ट कर दिया गया।",
+      "ar": "في 2 مايو 1933 احتل النازيون مكاتب النقابات الحرة واعتقلوا كثيرا من القادة وصادروا الممتلكات. دُمرت الحركة العمالية المستقلة."
     },
     "importance": {
       "ru": "Это был важный шаг к полному контролю общества диктатурой.",
       "de": "Das war ein wichtiger Schritt zur vollstaendigen Kontrolle der Gesellschaft durch die Diktatur.",
-      "en": "It was an important step toward the dictatorship's full control of society."
+      "en": "It was an important step toward the dictatorship's full control of society.",
+      "fr": "Ce fut une étape importante vers le contrôle total de la société par la dictature.",
+      "es": "Fue un paso importante hacia el control total de la sociedad por la dictadura.",
+      "it": "Fu un passo importante verso il controllo totale della società da parte della dittatura.",
+      "pt": "Foi um passo importante para o controlo total da sociedade pela ditadura.",
+      "nl": "Het was een belangrijke stap naar de volledige controle van de samenleving door de dictatuur.",
+      "pl": "Był to ważny krok ku pełnej kontroli społeczeństwa przez dyktaturę.",
+      "tr": "Bu, diktatörlüğün toplumu tamamen kontrol etmesine doğru önemli bir adımdı.",
+      "zh": "这是独裁政权全面控制社会的重要一步。",
+      "ja": "これは、独裁政権が社会を完全に支配するための重要な一歩でした。",
+      "ko": "이는 독재 정권이 사회를 완전히 통제하는 방향으로 나아간 중요한 단계였습니다.",
+      "hi": "यह समाज पर तानाशाही के पूर्ण नियंत्रण की दिशा में महत्वपूर्ण कदम था।",
+      "ar": "كان ذلك خطوة مهمة نحو السيطرة الكاملة للدكتاتورية على المجتمع."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Вместо профсоюзов — Германский трудовой фронт",
           "de": "Statt Gewerkschaften die Deutsche Arbeitsfront",
-          "en": "The German Labor Front replaces unions"
+          "en": "The German Labor Front replaces unions",
+          "fr": "Le Front allemand du travail remplace les syndicats",
+          "es": "El Frente Alemán del Trabajo reemplaza a los sindicatos",
+          "it": "Il Fronte tedesco del lavoro sostituisce i sindacati",
+          "pt": "A Frente Alemã do Trabalho substitui os sindicatos",
+          "nl": "Het Duitse Arbeidsfront vervangt de vakbonden",
+          "pl": "Niemiecki Front Pracy zastępuje związki",
+          "tr": "Alman Emek Cephesi sendikaların yerini aldı",
+          "zh": "德国劳工阵线取代工会",
+          "ja": "ドイツ労働戦線が労働組合に取って代わる",
+          "ko": "독일 노동전선이 노동조합을 대체하다",
+          "hi": "जर्मन लेबर फ्रंट ने यूनियनों की जगह ली",
+          "ar": "جبهة العمل الألمانية تحل محل النقابات"
         },
         "description": {
           "ru": "После разгрома профсоюзов работников включали в контролируемые нацистами структуры. Право на независимую защиту интересов исчезло.",
           "de": "Nach der Zerschlagung der Gewerkschaften wurden Arbeitnehmer in NS-kontrollierte Strukturen eingegliedert. Das Recht auf unabhaengige Interessenvertretung verschwand.",
-          "en": "After the unions were destroyed, workers were absorbed into Nazi-controlled structures. The right to independent representation disappeared."
+          "en": "After the unions were destroyed, workers were absorbed into Nazi-controlled structures. The right to independent representation disappeared.",
+          "fr": "Après la destruction des syndicats, les travailleurs furent intégrés dans des structures contrôlées par les nazis. Le droit à une représentation indépendante disparut.",
+          "es": "Después de la destrucción de los sindicatos, los trabajadores fueron absorbidos por estructuras controladas por los nazis. Desapareció el derecho a una representación independiente.",
+          "it": "Dopo la distruzione dei sindacati, i lavoratori furono assorbiti in strutture controllate dai nazisti. Il diritto a una rappresentanza indipendente scomparve.",
+          "pt": "Depois da destruição dos sindicatos, os trabalhadores foram absorvidos por estruturas controladas pelos nazis. O direito a representação independente desapareceu.",
+          "nl": "Nadat de vakbonden waren vernietigd, werden werknemers opgenomen in door nazi's gecontroleerde structuren. Het recht op onafhankelijke vertegenwoordiging verdween.",
+          "pl": "Po rozbiciu związków zawodowych pracowników włączono do struktur kontrolowanych przez nazistów. Prawo do niezależnej reprezentacji zniknęło.",
+          "tr": "Sendikalar yok edildikten sonra işçiler Nazi kontrolündeki yapılara dahil edildi. Bağımsız temsil hakkı ortadan kalktı.",
+          "zh": "工会被摧毁后，工人被纳入纳粹控制的组织结构。独立代表权消失了。",
+          "ja": "労働組合が破壊された後、労働者はナチスが管理する組織に組み込まれました。独立した代表権は消えました。",
+          "ko": "노동조합이 파괴된 뒤 노동자들은 나치가 통제하는 구조에 편입되었습니다. 독립적 대표권은 사라졌습니다.",
+          "hi": "यूनियनों के नष्ट होने के बाद श्रमिकों को नाज़ी-नियंत्रित संरचनाओं में शामिल कर लिया गया। स्वतंत्र प्रतिनिधित्व का अधिकार गायब हो गया।",
+          "ar": "بعد تدمير النقابات أُدخل العمال في هياكل يسيطر عليها النازيون. واختفى الحق في التمثيل المستقل."
         },
         "importance": {
           "ru": "Дата показывает, что диктатура забирает не только выборы, но и повседневные способы защиты людей.",
           "de": "Das Datum zeigt, dass Diktatur nicht nur Wahlen nimmt, sondern auch alltaegliche Schutzmoeglichkeiten.",
-          "en": "The date shows that dictatorship takes not only elections but also everyday forms of protection."
+          "en": "The date shows that dictatorship takes not only elections but also everyday forms of protection.",
+          "fr": "Cette date montre qu'une dictature ne prend pas seulement les élections, mais aussi les moyens quotidiens de protection.",
+          "es": "La fecha muestra que la dictadura no solo arrebata las elecciones, sino también formas cotidianas de protección.",
+          "it": "La data mostra che la dittatura toglie non solo le elezioni, ma anche le forme quotidiane di protezione.",
+          "pt": "A data mostra que a ditadura tira não só as eleições, mas também formas quotidianas de proteção.",
+          "nl": "Deze datum laat zien dat een dictatuur niet alleen verkiezingen wegneemt, maar ook alledaagse vormen van bescherming.",
+          "pl": "Ta data pokazuje, że dyktatura odbiera nie tylko wybory, lecz także codzienne sposoby ochrony ludzi.",
+          "tr": "Bu tarih, diktatörlüğün yalnızca seçimleri değil, günlük korunma yollarını da aldığını gösterir.",
+          "zh": "这个日期显示，独裁不仅夺走选举，也夺走日常保护人们的方式。",
+          "ja": "この日付は、独裁が選挙だけでなく、人々を日常的に守る仕組みも奪うことを示しています。",
+          "ko": "이 날짜는 독재가 선거뿐 아니라 사람들을 일상적으로 보호하는 방식도 빼앗는다는 것을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि तानाशाही केवल चुनाव नहीं, बल्कि लोगों की रोजमर्रा की सुरक्षा के तरीके भी छीनती है।",
+          "ar": "يبين هذا التاريخ أن الدكتاتورية لا تسلب الانتخابات فقط، بل أيضا أشكال الحماية اليومية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Разгром профсоюзов произошёл сразу после нацистских первомайских торжеств.",
     "de": "Die Zerschlagung der Gewerkschaften geschah direkt nach den nationalsozialistischen Feiern zum 1. Mai.",
-    "en": "The destruction of unions happened immediately after the Nazi celebrations of 1 May."
+    "en": "The destruction of unions happened immediately after the Nazi celebrations of 1 May.",
+    "fr": "La destruction des syndicats eut lieu immédiatement après les célébrations nazies du 1er mai.",
+    "es": "La destrucción de los sindicatos ocurrió inmediatamente después de las celebraciones nazis del 1 de mayo.",
+    "it": "La distruzione dei sindacati avvenne subito dopo le celebrazioni naziste del 1º maggio.",
+    "pt": "A destruição dos sindicatos aconteceu imediatamente após as celebrações nazis do 1 de maio.",
+    "nl": "De vernietiging van de vakbonden gebeurde direct na de nazi-vieringen van 1 mei.",
+    "pl": "Rozbicie związków zawodowych nastąpiło bezpośrednio po nazistowskich obchodach 1 maja.",
+    "tr": "Sendikaların yok edilmesi Nazi 1 Mayıs kutlamalarından hemen sonra gerçekleşti.",
+    "zh": "工会的摧毁发生在纳粹5月1日庆祝活动之后不久。",
+    "ja": "労働組合の破壊は、ナチスの5月1日祝典の直後に起こりました。",
+    "ko": "노동조합의 파괴는 나치의 5월 1일 기념행사 직후에 일어났습니다.",
+    "hi": "यूनियनों का विनाश नाज़ी 1 मई समारोहों के तुरंत बाद हुआ।",
+    "ar": "حدث تدمير النقابات مباشرة بعد احتفالات النازيين بالأول من مايو."
   },
   "sources": [
     {
