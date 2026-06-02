@@ -11,17 +11,53 @@
     "title": {
       "ru": "Нацисты приняли закон о чистке госслужбы",
       "de": "Das NS-Regime beschliesst das Berufsbeamtengesetz",
-      "en": "The Nazi regime passes the Civil Service Law"
+      "en": "The Nazi regime passes the Civil Service Law",
+      "fr": "Le régime nazi adopte la loi sur la fonction publique",
+      "es": "El régimen nazi aprueba la ley de la función pública",
+      "it": "Il regime nazista approva la legge sul pubblico impiego",
+      "pt": "O regime nazi aprova a lei da função pública",
+      "nl": "Het naziregime neemt de ambtenarenwet aan",
+      "pl": "Reżim nazistowski uchwala ustawę o służbie cywilnej",
+      "tr": "Nazi rejimi Kamu Hizmeti Yasası'nı kabul etti",
+      "zh": "纳粹政权通过公务员法",
+      "ja": "ナチス政権が公務員法を可決",
+      "ko": "나치 정권이 공무원법을 통과시키다",
+      "hi": "नाज़ी शासन ने सिविल सेवा कानून पारित किया",
+      "ar": "النظام النازي يقر قانون الخدمة المدنية"
     },
     "description": {
       "ru": "7 апреля 1933 года в Германии был принят закон о «восстановлении профессионального чиновничества». Он позволял увольнять политически неугодных служащих и людей еврейского происхождения из государственной службы.",
       "de": "Am 7. April 1933 wurde in Deutschland das Gesetz zur Wiederherstellung des Berufsbeamtentums beschlossen. Es ermoeglichte die Entlassung politisch missliebiger Beamter und von Menschen juedischer Herkunft aus dem Staatsdienst.",
-      "en": "On 7 April 1933, Germany passed the Law for the Restoration of the Professional Civil Service. It allowed the dismissal of politically undesirable civil servants and people of Jewish descent from public service."
+      "en": "On 7 April 1933, Germany passed the Law for the Restoration of the Professional Civil Service. It allowed the dismissal of politically undesirable civil servants and people of Jewish descent from public service.",
+      "fr": "Le 7 avril 1933, l'Allemagne adopta la loi sur la restauration de la fonction publique professionnelle. Elle permettait de renvoyer des fonctionnaires politiquement indésirables et des personnes d'origine juive de la fonction publique.",
+      "es": "El 7 de abril de 1933, Alemania aprobó la Ley para la Restauración de la Función Pública Profesional. Permitía despedir del servicio público a funcionarios políticamente indeseables y a personas de origen judío.",
+      "it": "Il 7 aprile 1933 in Germania fu approvata la legge per la restaurazione del pubblico impiego professionale. Permetteva di licenziare dal servizio statale funzionari politicamente sgraditi e persone di origine ebraica.",
+      "pt": "Em 7 de abril de 1933, a Alemanha aprovou a Lei para a Restauração da Função Pública Profissional. Ela permitia demitir do serviço público funcionários politicamente indesejáveis e pessoas de origem judaica.",
+      "nl": "Op 7 april 1933 nam Duitsland de Wet tot Herstel van het Beroepsambtenarendom aan. Die maakte het mogelijk politiek ongewenste ambtenaren en mensen van Joodse afkomst uit de staatsdienst te ontslaan.",
+      "pl": "7 kwietnia 1933 roku w Niemczech uchwalono ustawę o przywróceniu zawodowej służby cywilnej. Pozwalała ona zwalniać ze służby państwowej politycznie niewygodnych urzędników oraz osoby pochodzenia żydowskiego.",
+      "tr": "7 Nisan 1933'te Almanya, Profesyonel Kamu Hizmetinin Yeniden Düzenlenmesi Yasası'nı kabul etti. Yasa, siyasi açıdan istenmeyen memurların ve Yahudi kökenli kişilerin devlet hizmetinden çıkarılmasına izin verdi.",
+      "zh": "1933年4月7日，德国通过了《恢复职业公务员制度法》。它允许将政治上不受欢迎的公务员和犹太血统人士从公职中解雇。",
+      "ja": "1933年4月7日、ドイツで「職業官吏制度再建法」が成立しました。この法律は、政治的に望ましくない公務員やユダヤ系の人々を公職から解雇することを可能にしました。",
+      "ko": "1933년 4월 7일, 독일은 직업공무원제 회복법을 통과시켰습니다. 이 법은 정치적으로 달갑지 않은 공무원과 유대계 사람들을 공직에서 해임할 수 있게 했습니다.",
+      "hi": "7 अप्रैल 1933 को जर्मनी ने पेशेवर सिविल सेवा की बहाली का कानून पारित किया। इससे राजनीतिक रूप से अवांछित कर्मचारियों और यहूदी मूल के लोगों को सरकारी सेवा से हटाया जा सकता था।",
+      "ar": "في 7 أبريل 1933 أقرت ألمانيا قانون إعادة تنظيم الخدمة المدنية المهنية. وسمح القانون بفصل الموظفين غير المرغوب فيهم سياسيا والأشخاص من أصل يهودي من الخدمة العامة."
     },
     "importance": {
       "ru": "Это был один из первых крупных шагов к превращению государства в инструмент нацистской диктатуры и дискриминации.",
       "de": "Dies war einer der ersten grossen Schritte, den Staat zu einem Werkzeug der NS-Diktatur und Diskriminierung zu machen.",
-      "en": "It was one of the first major steps in turning the state into an instrument of Nazi dictatorship and discrimination."
+      "en": "It was one of the first major steps in turning the state into an instrument of Nazi dictatorship and discrimination.",
+      "fr": "Ce fut l'un des premiers grands pas pour transformer l'État en instrument de la dictature nazie et de la discrimination.",
+      "es": "Fue uno de los primeros grandes pasos para convertir el Estado en instrumento de la dictadura nazi y la discriminación.",
+      "it": "Fu uno dei primi grandi passi per trasformare lo Stato in uno strumento della dittatura nazista e della discriminazione.",
+      "pt": "Foi um dos primeiros grandes passos para transformar o Estado em instrumento da ditadura nazi e da discriminação.",
+      "nl": "Het was een van de eerste grote stappen om de staat tot een instrument van nazidictatuur en discriminatie te maken.",
+      "pl": "Był to jeden z pierwszych dużych kroków w przekształcaniu państwa w narzędzie nazistowskiej dyktatury i dyskryminacji.",
+      "tr": "Bu, devleti Nazi diktatörlüğünün ve ayrımcılığın aracı haline getiren ilk büyük adımlardan biriydi.",
+      "zh": "这是把国家变成纳粹独裁和歧视工具的最早重大步骤之一。",
+      "ja": "これは国家をナチス独裁と差別の道具に変える最初の大きな一歩の一つでした。",
+      "ko": "이는 국가를 나치 독재와 차별의 도구로 바꾸는 첫 큰 단계 중 하나였습니다.",
+      "hi": "यह राज्य को नाज़ी तानाशाही और भेदभाव के उपकरण में बदलने की पहली बड़ी कार्रवाइयों में से एक था।",
+      "ar": "كان ذلك من أوائل الخطوات الكبرى لتحويل الدولة إلى أداة للدكتاتورية النازية والتمييز."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Гляйхшальтунг на практике",
           "de": "Gleichschaltung in der Praxis",
-          "en": "Gleichschaltung in practice"
+          "en": "Gleichschaltung in practice",
+          "fr": "La Gleichschaltung en pratique",
+          "es": "La Gleichschaltung en la práctica",
+          "it": "La Gleichschaltung in pratica",
+          "pt": "A Gleichschaltung na prática",
+          "nl": "Gleichschaltung in de praktijk",
+          "pl": "Gleichschaltung w praktyce",
+          "tr": "Uygulamada Gleichschaltung",
+          "zh": "“一体化”在实践中",
+          "ja": "実践におけるグライヒシャルトゥング",
+          "ko": "실제 Gleichschaltung",
+          "hi": "व्यवहार में Gleichschaltung",
+          "ar": "غلايش شالتونغ في التطبيق"
         },
         "description": {
           "ru": "После прихода Гитлера к власти нацисты быстро подчиняли себе учреждения, суды, школы и университеты. Закон 7 апреля стал юридическим инструментом этой перестройки.",
           "de": "Nach Hitlers Machtuebernahme unterwarfen die Nationalsozialisten rasch Behoerden, Gerichte, Schulen und Universitaeten. Das Gesetz vom 7. April wurde zu einem juristischen Werkzeug dieser Umformung.",
-          "en": "After Hitler came to power, the Nazis quickly brought institutions, courts, schools and universities under their control. The law of 7 April became a legal tool for this transformation."
+          "en": "After Hitler came to power, the Nazis quickly brought institutions, courts, schools and universities under their control. The law of 7 April became a legal tool for this transformation.",
+          "fr": "Après l'arrivée d'Hitler au pouvoir, les nazis soumirent rapidement administrations, tribunaux, écoles et universités. La loi du 7 avril devint un outil juridique de cette transformation.",
+          "es": "Tras la llegada de Hitler al poder, los nazis sometieron rápidamente instituciones, tribunales, escuelas y universidades. La ley del 7 de abril se convirtió en una herramienta jurídica de esa transformación.",
+          "it": "Dopo l'arrivo di Hitler al potere, i nazisti sottomisero rapidamente uffici, tribunali, scuole e università. La legge del 7 aprile divenne uno strumento giuridico di questa trasformazione.",
+          "pt": "Depois da chegada de Hitler ao poder, os nazis submeteram rapidamente instituições, tribunais, escolas e universidades. A lei de 7 de abril tornou-se um instrumento jurídico dessa transformação.",
+          "nl": "Na Hitlers machtsovername brachten de nazi's instellingen, rechtbanken, scholen en universiteiten snel onder hun controle. De wet van 7 april werd een juridisch instrument voor deze omvorming.",
+          "pl": "Po dojściu Hitlera do władzy naziści szybko podporządkowywali sobie urzędy, sądy, szkoły i uniwersytety. Ustawa z 7 kwietnia stała się prawnym narzędziem tej przebudowy.",
+          "tr": "Hitler iktidara geldikten sonra Naziler kurumları, mahkemeleri, okulları ve üniversiteleri hızla denetimleri altına aldı. 7 Nisan yasası bu dönüşümün hukuki aracı oldu.",
+          "zh": "希特勒掌权后，纳粹迅速控制机构、法院、学校和大学。4月7日的法律成为这种改造的法律工具。",
+          "ja": "ヒトラーが権力を握った後、ナチスは官庁、裁判所、学校、大学を急速に支配下に置きました。4月7日の法律は、この改造の法的道具となりました。",
+          "ko": "히틀러가 권력을 잡은 뒤 나치는 기관, 법원, 학교, 대학을 빠르게 통제 아래 두었습니다. 4월 7일의 법은 이 개편의 법적 도구가 되었습니다.",
+          "hi": "हिटलर के सत्ता में आने के बाद नाज़ियों ने संस्थानों, अदालतों, स्कूलों और विश्वविद्यालयों को जल्दी अपने नियंत्रण में कर लिया। 7 अप्रैल का कानून इस बदलाव का कानूनी उपकरण बना।",
+          "ar": "بعد وصول هتلر إلى السلطة أخضع النازيون بسرعة المؤسسات والمحاكم والمدارس والجامعات لسيطرتهم. وأصبح قانون 7 أبريل أداة قانونية لهذا التحول."
         },
         "importance": {
           "ru": "Так видно, что диктатура создаётся не только насилием на улицах, но и законами, приказами и увольнениями.",
           "de": "So wird sichtbar, dass eine Diktatur nicht nur durch Gewalt auf der Strasse entsteht, sondern auch durch Gesetze, Befehle und Entlassungen.",
-          "en": "This shows that dictatorship is built not only through street violence, but also through laws, orders and dismissals."
+          "en": "This shows that dictatorship is built not only through street violence, but also through laws, orders and dismissals.",
+          "fr": "Cela montre qu'une dictature se construit non seulement par la violence dans la rue, mais aussi par des lois, des ordres et des licenciements.",
+          "es": "Esto muestra que una dictadura se construye no solo con violencia en las calles, sino también con leyes, órdenes y despidos.",
+          "it": "Questo mostra che una dittatura si costruisce non solo con la violenza nelle strade, ma anche con leggi, ordini e licenziamenti.",
+          "pt": "Isto mostra que uma ditadura é construída não só pela violência nas ruas, mas também por leis, ordens e demissões.",
+          "nl": "Dit laat zien dat een dictatuur niet alleen door straatgeweld ontstaat, maar ook door wetten, bevelen en ontslagen.",
+          "pl": "Widać tu, że dyktatura powstaje nie tylko przez przemoc na ulicach, lecz także przez ustawy, rozkazy i zwolnienia.",
+          "tr": "Bu, diktatörlüğün yalnızca sokak şiddetiyle değil, yasalar, emirler ve işten çıkarmalarla da kurulduğunu gösterir.",
+          "zh": "这表明，独裁不仅通过街头暴力建立，也通过法律、命令和解雇建立。",
+          "ja": "これは、独裁が街頭の暴力だけでなく、法律、命令、解雇によっても作られることを示しています。",
+          "ko": "이는 독재가 거리의 폭력뿐 아니라 법, 명령, 해고를 통해서도 만들어진다는 것을 보여 줍니다.",
+          "hi": "यह दिखाता है कि तानाशाही केवल सड़क की हिंसा से नहीं, बल्कि कानूनों, आदेशों और बर्खास्तगियों से भी बनती है।",
+          "ar": "يُظهر ذلك أن الدكتاتورية لا تُبنى بعنف الشوارع فقط، بل بالقوانين والأوامر والفصل من العمل أيضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Удар по науке и культуре",
           "de": "Schlag gegen Wissenschaft und Kultur",
-          "en": "A blow to science and culture"
+          "en": "A blow to science and culture",
+          "fr": "Un coup porté à la science et à la culture",
+          "es": "Un golpe a la ciencia y la cultura",
+          "it": "Un colpo alla scienza e alla cultura",
+          "pt": "Um golpe contra a ciência e a cultura",
+          "nl": "Een klap voor wetenschap en cultuur",
+          "pl": "Cios w naukę i kulturę",
+          "tr": "Bilime ve kültüre darbe",
+          "zh": "对科学和文化的打击",
+          "ja": "科学と文化への打撃",
+          "ko": "과학과 문화에 대한 타격",
+          "hi": "विज्ञान और संस्कृति पर प्रहार",
+          "ar": "ضربة للعلم والثقافة"
         },
         "description": {
           "ru": "Закон затронул преподавателей, судей, врачей, чиновников и работников культурной сферы. Многие талантливые люди были вытеснены из профессии или вынуждены эмигрировать.",
           "de": "Das Gesetz traf Lehrende, Richter, Aerzte, Beamte und Menschen aus dem Kulturbereich. Viele begabte Menschen wurden aus ihrem Beruf gedraengt oder zur Emigration gezwungen.",
-          "en": "The law affected teachers, judges, doctors, officials and people in cultural life. Many talented people were forced out of their professions or into exile."
+          "en": "The law affected teachers, judges, doctors, officials and people in cultural life. Many talented people were forced out of their professions or into exile.",
+          "fr": "La loi toucha enseignants, juges, médecins, fonctionnaires et personnes du monde culturel. Beaucoup de personnes talentueuses furent chassées de leur profession ou contraintes à l'exil.",
+          "es": "La ley afectó a profesores, jueces, médicos, funcionarios y personas del ámbito cultural. Muchas personas talentosas fueron expulsadas de sus profesiones o forzadas al exilio.",
+          "it": "La legge colpì insegnanti, giudici, medici, funzionari e persone del mondo culturale. Molte persone di talento furono spinte fuori dalla professione o costrette all'emigrazione.",
+          "pt": "A lei afetou professores, juízes, médicos, funcionários e pessoas do meio cultural. Muitas pessoas talentosas foram afastadas das suas profissões ou forçadas ao exílio.",
+          "nl": "De wet trof docenten, rechters, artsen, ambtenaren en mensen uit de cultuursector. Veel getalenteerde mensen werden uit hun beroep gedrukt of tot emigratie gedwongen.",
+          "pl": "Ustawa dotknęła nauczycieli, sędziów, lekarzy, urzędników i ludzi kultury. Wielu utalentowanych ludzi wypchnięto z zawodu albo zmuszono do emigracji.",
+          "tr": "Yasa öğretmenleri, yargıçları, doktorları, memurları ve kültür alanındaki insanları etkiledi. Birçok yetenekli insan mesleğinden uzaklaştırıldı veya göçe zorlandı.",
+          "zh": "该法律影响了教师、法官、医生、公务员和文化界人士。许多有才华的人被迫离开职业岗位或流亡海外。",
+          "ja": "この法律は教師、裁判官、医師、公務員、文化分野の人々に影響しました。多くの才能ある人々が職業から追い出されるか、亡命を余儀なくされました。",
+          "ko": "이 법은 교사, 판사, 의사, 공무원, 문화계 사람들에게 영향을 미쳤습니다. 많은 재능 있는 사람들이 직업에서 밀려나거나 망명을 강요받았습니다.",
+          "hi": "इस कानून ने शिक्षकों, न्यायाधीशों, डॉक्टरों, अधिकारियों और सांस्कृतिक क्षेत्र के लोगों को प्रभावित किया। अनेक प्रतिभाशाली लोग पेशे से बाहर कर दिए गए या निर्वासन के लिए मजबूर हुए।",
+          "ar": "مسّ القانون المعلمين والقضاة والأطباء والموظفين وأشخاصا من المجال الثقافي. ودُفع كثير من الموهوبين إلى ترك مهنتهم أو أُجبروا على الهجرة."
         },
         "importance": {
           "ru": "Германия потеряла огромную часть интеллектуального и культурного потенциала.",
           "de": "Deutschland verlor einen grossen Teil seines intellektuellen und kulturellen Potenzials.",
-          "en": "Germany lost a large part of its intellectual and cultural potential."
+          "en": "Germany lost a large part of its intellectual and cultural potential.",
+          "fr": "L'Allemagne perdit une grande partie de son potentiel intellectuel et culturel.",
+          "es": "Alemania perdió una gran parte de su potencial intelectual y cultural.",
+          "it": "La Germania perse una grande parte del suo potenziale intellettuale e culturale.",
+          "pt": "A Alemanha perdeu uma grande parte do seu potencial intelectual e cultural.",
+          "nl": "Duitsland verloor een groot deel van zijn intellectuele en culturele potentieel.",
+          "pl": "Niemcy straciły ogromną część swojego potencjału intelektualnego i kulturalnego.",
+          "tr": "Almanya entelektüel ve kültürel potansiyelinin büyük bir bölümünü kaybetti.",
+          "zh": "德国失去了很大一部分智力和文化潜力。",
+          "ja": "ドイツは知的・文化的な潜在力の大きな部分を失いました。",
+          "ko": "독일은 지적, 문화적 잠재력의 큰 부분을 잃었습니다.",
+          "hi": "जर्मनी ने अपनी बौद्धिक और सांस्कृतिक क्षमता का बड़ा हिस्सा खो दिया।",
+          "ar": "فقدت ألمانيا جزءا كبيرا من إمكاناتها الفكرية والثقافية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Закон был принят меньше чем через три месяца после назначения Гитлера рейхсканцлером.",
     "de": "Das Gesetz wurde weniger als drei Monate nach Hitlers Ernennung zum Reichskanzler beschlossen.",
-    "en": "The law was passed less than three months after Hitler was appointed Chancellor."
+    "en": "The law was passed less than three months after Hitler was appointed Chancellor.",
+    "fr": "La loi fut adoptée moins de trois mois après la nomination d'Hitler comme chancelier.",
+    "es": "La ley fue aprobada menos de tres meses después del nombramiento de Hitler como canciller.",
+    "it": "La legge fu approvata meno di tre mesi dopo la nomina di Hitler a cancelliere.",
+    "pt": "A lei foi aprovada menos de três meses depois da nomeação de Hitler como chanceler.",
+    "nl": "De wet werd minder dan drie maanden na Hitlers benoeming tot kanselier aangenomen.",
+    "pl": "Ustawa została przyjęta niecałe trzy miesiące po mianowaniu Hitlera kanclerzem.",
+    "tr": "Yasa, Hitler'in şansölye atanmasından üç aydan kısa süre sonra kabul edildi.",
+    "zh": "该法律在希特勒被任命为总理后不到三个月就通过了。",
+    "ja": "この法律は、ヒトラーが首相に任命されてから3か月もたたないうちに成立しました。",
+    "ko": "이 법은 히틀러가 총리로 임명된 지 석 달도 되지 않아 통과되었습니다.",
+    "hi": "यह कानून हिटलर के चांसलर नियुक्त होने के तीन महीने से भी कम समय बाद पारित हुआ।",
+    "ar": "أُقر القانون بعد أقل من ثلاثة أشهر من تعيين هتلر مستشارا."
   },
   "sources": [
     {

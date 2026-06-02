@@ -11,17 +11,53 @@
     "title": {
       "ru": "Операция «Везерюбунг»",
       "de": "Operation Weseruebung",
-      "en": "Operation Weseruebung"
+      "en": "Operation Weseruebung",
+      "fr": "Opération Weseruebung",
+      "es": "Operación Weseruebung",
+      "it": "Operazione Weseruebung",
+      "pt": "Operação Weseruebung",
+      "nl": "Operatie Weseruebung",
+      "pl": "Operacja Weseruebung",
+      "tr": "Weseruebung Operasyonu",
+      "zh": "“威悉演习”行动",
+      "ja": "ヴェーザー演習作戦",
+      "ko": "베저위붕 작전",
+      "hi": "ऑपरेशन Weseruebung",
+      "ar": "عملية فيزر أوبونغ"
     },
     "description": {
       "ru": "9 апреля 1940 года нацистская Германия начала вторжение в Данию и Норвегию. Операция получила кодовое название «Везерюбунг».",
       "de": "Am 9. April 1940 begann das nationalsozialistische Deutschland mit dem Angriff auf Daenemark und Norwegen. Die Operation trug den Decknamen Weseruebung.",
-      "en": "On 9 April 1940, Nazi Germany began its invasion of Denmark and Norway. The operation was code-named Weseruebung."
+      "en": "On 9 April 1940, Nazi Germany began its invasion of Denmark and Norway. The operation was code-named Weseruebung.",
+      "fr": "Le 9 avril 1940, l'Allemagne nazie commença son invasion du Danemark et de la Norvège. L'opération portait le nom de code Weseruebung.",
+      "es": "El 9 de abril de 1940, la Alemania nazi inició la invasión de Dinamarca y Noruega. La operación recibió el nombre en clave Weseruebung.",
+      "it": "Il 9 aprile 1940 la Germania nazista iniziò l'invasione della Danimarca e della Norvegia. L'operazione ebbe il nome in codice Weseruebung.",
+      "pt": "Em 9 de abril de 1940, a Alemanha nazi iniciou a invasão da Dinamarca e da Noruega. A operação recebeu o nome de código Weseruebung.",
+      "nl": "Op 9 april 1940 begon nazi-Duitsland de invasie van Denemarken en Noorwegen. De operatie kreeg de codenaam Weseruebung.",
+      "pl": "9 kwietnia 1940 roku nazistowskie Niemcy rozpoczęły inwazję na Danię i Norwegię. Operacja otrzymała kryptonim Weseruebung.",
+      "tr": "9 Nisan 1940'ta Nazi Almanyası Danimarka ve Norveç'i işgal etmeye başladı. Operasyonun kod adı Weseruebung idi.",
+      "zh": "1940年4月9日，纳粹德国开始入侵丹麦和挪威。该行动代号为“威悉演习”。",
+      "ja": "1940年4月9日、ナチス・ドイツはデンマークとノルウェーへの侵攻を開始しました。この作戦の暗号名はヴェーザー演習でした。",
+      "ko": "1940년 4월 9일, 나치 독일은 덴마크와 노르웨이 침공을 시작했습니다. 이 작전의 암호명은 베저위붕이었습니다.",
+      "hi": "9 अप्रैल 1940 को नाज़ी जर्मनी ने डेनमार्क और नॉर्वे पर आक्रमण शुरू किया। इस अभियान का कोड नाम Weseruebung था।",
+      "ar": "في 9 أبريل 1940 بدأت ألمانيا النازية غزو الدنمارك والنرويج. وحملت العملية الاسم الرمزي فيزر أوبونغ."
     },
     "importance": {
       "ru": "Север Европы стал важной частью Второй мировой войны, а контроль над морскими путями и сырьём приобрёл огромное значение.",
       "de": "Nordeuropa wurde zu einem wichtigen Teil des Zweiten Weltkriegs, und die Kontrolle ueber Seewege und Rohstoffe gewann enorme Bedeutung.",
-      "en": "Northern Europe became an important theater of the Second World War, and control of sea routes and raw materials gained enormous importance."
+      "en": "Northern Europe became an important theater of the Second World War, and control of sea routes and raw materials gained enormous importance.",
+      "fr": "L'Europe du Nord devint un théâtre important de la Seconde Guerre mondiale, et le contrôle des routes maritimes et des matières premières prit une importance énorme.",
+      "es": "El norte de Europa se convirtió en un escenario importante de la Segunda Guerra Mundial, y el control de las rutas marítimas y las materias primas adquirió enorme importancia.",
+      "it": "Il Nord Europa divenne un teatro importante della Seconda guerra mondiale, e il controllo delle rotte marittime e delle materie prime assunse enorme importanza.",
+      "pt": "O norte da Europa tornou-se um teatro importante da Segunda Guerra Mundial, e o controlo das rotas marítimas e das matérias-primas ganhou enorme importância.",
+      "nl": "Noord-Europa werd een belangrijk strijdtoneel van de Tweede Wereldoorlog, en controle over zeeroutes en grondstoffen kreeg enorme betekenis.",
+      "pl": "Północna Europa stała się ważnym teatrem drugiej wojny światowej, a kontrola nad szlakami morskimi i surowcami nabrała ogromnego znaczenia.",
+      "tr": "Kuzey Avrupa İkinci Dünya Savaşı'nın önemli bir cephesi oldu; deniz yolları ve hammaddeler üzerindeki kontrol büyük önem kazandı.",
+      "zh": "北欧成为第二次世界大战的重要战场，控制海上航线和原材料具有巨大意义。",
+      "ja": "北ヨーロッパは第二次世界大戦の重要な戦域となり、海上交通路と資源の支配が非常に大きな意味を持ちました。",
+      "ko": "북유럽은 제2차 세계대전의 중요한 전장이 되었고, 해상로와 원자재 통제는 엄청난 중요성을 갖게 되었습니다.",
+      "hi": "उत्तरी यूरोप द्वितीय विश्व युद्ध का महत्वपूर्ण क्षेत्र बन गया, और समुद्री मार्गों व कच्चे माल पर नियंत्रण बहुत महत्वपूर्ण हो गया।",
+      "ar": "أصبحت شمال أوروبا مسرحا مهما في الحرب العالمية الثانية، واكتسبت السيطرة على الطرق البحرية والمواد الخام أهمية هائلة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Нападение на нейтральные страны",
           "de": "Angriff auf neutrale Staaten",
-          "en": "Attack on neutral states"
+          "en": "Attack on neutral states",
+          "fr": "Attaque contre des États neutres",
+          "es": "Ataque a Estados neutrales",
+          "it": "Attacco a Stati neutrali",
+          "pt": "Ataque a Estados neutros",
+          "nl": "Aanval op neutrale staten",
+          "pl": "Atak na państwa neutralne",
+          "tr": "Tarafsız devletlere saldırı",
+          "zh": "攻击中立国家",
+          "ja": "中立国への攻撃",
+          "ko": "중립국에 대한 공격",
+          "hi": "तटस्थ देशों पर हमला",
+          "ar": "هجوم على دول محايدة"
         },
         "description": {
           "ru": "Дания и Норвегия были нейтральными, но их положение было стратегически важным. Для Германии были важны датские аэродромы, норвежские порты и путь к шведской железной руде.",
           "de": "Daenemark und Norwegen waren neutral, doch ihre Lage war strategisch wichtig. Fuer Deutschland zaehlten daenische Flugplaetze, norwegische Haefen und der Weg zum schwedischen Eisenerz.",
-          "en": "Denmark and Norway were neutral, but their location was strategically important. Germany valued Danish airfields, Norwegian ports and the route to Swedish iron ore."
+          "en": "Denmark and Norway were neutral, but their location was strategically important. Germany valued Danish airfields, Norwegian ports and the route to Swedish iron ore.",
+          "fr": "Le Danemark et la Norvège étaient neutres, mais leur position était stratégiquement importante. Pour l'Allemagne, les aérodromes danois, les ports norvégiens et la route vers le minerai de fer suédois comptaient beaucoup.",
+          "es": "Dinamarca y Noruega eran neutrales, pero su ubicación era estratégicamente importante. Para Alemania eran importantes los aeródromos daneses, los puertos noruegos y la ruta hacia el mineral de hierro sueco.",
+          "it": "Danimarca e Norvegia erano neutrali, ma la loro posizione era strategicamente importante. Per la Germania contavano gli aeroporti danesi, i porti norvegesi e la via verso il minerale di ferro svedese.",
+          "pt": "A Dinamarca e a Noruega eram neutras, mas a sua posição era estrategicamente importante. Para a Alemanha contavam os aeródromos dinamarqueses, os portos noruegueses e a rota para o minério de ferro sueco.",
+          "nl": "Denemarken en Noorwegen waren neutraal, maar hun ligging was strategisch belangrijk. Voor Duitsland telden Deense vliegvelden, Noorse havens en de route naar Zweeds ijzererts.",
+          "pl": "Dania i Norwegia były neutralne, ale ich położenie było strategicznie ważne. Dla Niemiec liczyły się duńskie lotniska, norweskie porty i droga do szwedzkiej rudy żelaza.",
+          "tr": "Danimarka ve Norveç tarafsızdı, ancak konumları stratejik açıdan önemliydi. Almanya için Danimarka havaalanları, Norveç limanları ve İsveç demir cevherine giden yol önemliydi.",
+          "zh": "丹麦和挪威是中立国家，但其地理位置具有战略意义。德国重视丹麦机场、挪威港口以及通往瑞典铁矿石的路线。",
+          "ja": "デンマークとノルウェーは中立でしたが、その位置は戦略的に重要でした。ドイツにとって、デンマークの飛行場、ノルウェーの港、スウェーデン鉄鉱石への道が重要でした。",
+          "ko": "덴마크와 노르웨이는 중립국이었지만, 그 위치는 전략적으로 중요했습니다. 독일에게는 덴마크 비행장, 노르웨이 항구, 스웨덴 철광석으로 가는 길이 중요했습니다.",
+          "hi": "डेनमार्क और नॉर्वे तटस्थ थे, लेकिन उनकी स्थिति रणनीतिक रूप से महत्वपूर्ण थी। जर्मनी के लिए डेनमार्क के हवाई अड्डे, नॉर्वे के बंदरगाह और स्वीडिश लौह अयस्क का रास्ता महत्वपूर्ण थे।",
+          "ar": "كانت الدنمارك والنرويج محايدتين، لكن موقعهما كان مهما استراتيجيا. وكانت المطارات الدنماركية والموانئ النرويجية والطريق إلى خام الحديد السويدي مهمة لألمانيا."
         },
         "importance": {
           "ru": "Эта дата показывает, что карта войны часто определялась портами, проливами и поставками сырья.",
           "de": "Das Datum zeigt, dass die Kriegskarte oft von Haefen, Meerengen und Rohstoffwegen bestimmt wurde.",
-          "en": "The date shows that the map of war was often shaped by ports, straits and supply routes."
+          "en": "The date shows that the map of war was often shaped by ports, straits and supply routes.",
+          "fr": "Cette date montre que la carte de la guerre était souvent déterminée par les ports, les détroits et les routes d'approvisionnement.",
+          "es": "La fecha muestra que el mapa de la guerra a menudo estaba determinado por puertos, estrechos y rutas de suministro.",
+          "it": "La data mostra che la mappa della guerra era spesso determinata da porti, stretti e vie di rifornimento.",
+          "pt": "A data mostra que o mapa da guerra era muitas vezes determinado por portos, estreitos e rotas de abastecimento.",
+          "nl": "Deze datum laat zien dat de oorlogskaart vaak werd bepaald door havens, zeestraten en aanvoerroutes.",
+          "pl": "Ta data pokazuje, że mapa wojny często była kształtowana przez porty, cieśniny i szlaki zaopatrzenia.",
+          "tr": "Bu tarih, savaş haritasının çoğu zaman limanlar, boğazlar ve ikmal yolları tarafından şekillendirildiğini gösterir.",
+          "zh": "这个日期表明，战争地图常常由港口、海峡和补给路线决定。",
+          "ja": "この日付は、戦争の地図が港、海峡、補給路によってしばしば形作られたことを示しています。",
+          "ko": "이 날짜는 전쟁의 지도가 항구, 해협, 보급로에 의해 자주 결정되었음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि युद्ध का नक्शा अक्सर बंदरगाहों, जलडमरूमध्यों और आपूर्ति मार्गों से तय होता था।",
+          "ar": "يُظهر هذا التاريخ أن خريطة الحرب كانت كثيرا ما تتحدد بالموانئ والمضائق وطرق الإمداد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Одна из самых коротких кампаний войны",
           "de": "Eine der kuerzesten Kampagnen des Krieges",
-          "en": "One of the shortest campaigns of the war"
+          "en": "One of the shortest campaigns of the war",
+          "fr": "L'une des campagnes les plus courtes de la guerre",
+          "es": "Una de las campañas más cortas de la guerra",
+          "it": "Una delle campagne più brevi della guerra",
+          "pt": "Uma das campanhas mais curtas da guerra",
+          "nl": "Een van de kortste campagnes van de oorlog",
+          "pl": "Jedna z najkrótszych kampanii wojny",
+          "tr": "Savaşın en kısa harekatlarından biri",
+          "zh": "战争中最短的战役之一",
+          "ja": "戦争中最も短い作戦の一つ",
+          "ko": "전쟁에서 가장 짧은 작전 중 하나",
+          "hi": "युद्ध की सबसे छोटी मुहिमों में से एक",
+          "ar": "إحدى أقصر حملات الحرب"
         },
         "description": {
           "ru": "Дания капитулировала в день нападения, чтобы избежать разрушений и больших потерь. Норвежская кампания продолжалась значительно дольше.",
           "de": "Daenemark kapitulierte am Tag des Angriffs, um Zerstoerungen und grosse Verluste zu vermeiden. Der Feldzug in Norwegen dauerte deutlich laenger.",
-          "en": "Denmark surrendered on the day of the attack to avoid destruction and heavy losses. The Norwegian campaign lasted much longer."
+          "en": "Denmark surrendered on the day of the attack to avoid destruction and heavy losses. The Norwegian campaign lasted much longer.",
+          "fr": "Le Danemark capitula le jour de l'attaque afin d'éviter destructions et lourdes pertes. La campagne de Norvège dura beaucoup plus longtemps.",
+          "es": "Dinamarca capituló el día del ataque para evitar destrucción y grandes pérdidas. La campaña noruega duró mucho más.",
+          "it": "La Danimarca capitolò il giorno dell'attacco per evitare distruzioni e gravi perdite. La campagna norvegese durò molto più a lungo.",
+          "pt": "A Dinamarca capitulou no dia do ataque para evitar destruição e grandes perdas. A campanha norueguesa durou muito mais tempo.",
+          "nl": "Denemarken capituleerde op de dag van de aanval om verwoestingen en grote verliezen te vermijden. De Noorse campagne duurde veel langer.",
+          "pl": "Dania skapitulowała w dniu ataku, aby uniknąć zniszczeń i dużych strat. Kampania norweska trwała znacznie dłużej.",
+          "tr": "Danimarka yıkım ve ağır kayıplardan kaçınmak için saldırı günü teslim oldu. Norveç harekatı çok daha uzun sürdü.",
+          "zh": "丹麦在遭到攻击当天投降，以避免破坏和重大损失。挪威战役持续了更长时间。",
+          "ja": "デンマークは破壊と大きな損失を避けるため、攻撃当日に降伏しました。ノルウェーでの作戦ははるかに長く続きました。",
+          "ko": "덴마크는 파괴와 큰 손실을 피하기 위해 공격 당일 항복했습니다. 노르웨이 작전은 훨씬 더 오래 지속되었습니다.",
+          "hi": "डेनमार्क ने विनाश और भारी हानि से बचने के लिए हमले के दिन ही आत्मसमर्पण कर दिया। नॉर्वे की मुहिम काफी अधिक समय तक चली।",
+          "ar": "استسلمت الدنمارك في يوم الهجوم لتجنب الدمار والخسائر الكبيرة. واستمرت الحملة في النرويج مدة أطول بكثير."
         },
         "importance": {
           "ru": "Один день может скрывать две очень разные военные истории.",
           "de": "Ein einziger Tag kann zwei sehr unterschiedliche Kriegsgeschichten enthalten.",
-          "en": "A single day can contain two very different wartime stories."
+          "en": "A single day can contain two very different wartime stories.",
+          "fr": "Un seul jour peut contenir deux histoires de guerre très différentes.",
+          "es": "Un solo día puede contener dos historias de guerra muy diferentes.",
+          "it": "Un solo giorno può contenere due storie di guerra molto diverse.",
+          "pt": "Um único dia pode conter duas histórias de guerra muito diferentes.",
+          "nl": "Eén dag kan twee heel verschillende oorlogsverhalen bevatten.",
+          "pl": "Jeden dzień może kryć dwie bardzo różne historie wojenne.",
+          "tr": "Tek bir gün iki çok farklı savaş hikayesi barındırabilir.",
+          "zh": "同一天可能包含两个非常不同的战争故事。",
+          "ja": "一日だけで、二つの非常に異なる戦争の物語を含むことがあります。",
+          "ko": "하루 안에 매우 다른 두 전쟁 이야기가 담길 수 있습니다.",
+          "hi": "एक ही दिन दो बहुत अलग युद्ध कथाएँ छिपा सकता है।",
+          "ar": "يمكن ليوم واحد أن يحمل قصتين حربيتين مختلفتين جدا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Название «Weseruebung» буквально отсылает к реке Везер; в немецких военных кодовых названиях часто использовались географические слова.",
     "de": "Der Name Weseruebung verweist auf die Weser; in deutschen militaerischen Decknamen wurden haeufig geografische Begriffe verwendet.",
-    "en": "The name Weseruebung refers to the Weser River; German military code names often used geographical terms."
+    "en": "The name Weseruebung refers to the Weser River; German military code names often used geographical terms.",
+    "fr": "Le nom Weseruebung renvoie à la rivière Weser; les noms de code militaires allemands utilisaient souvent des termes géographiques.",
+    "es": "El nombre Weseruebung alude al río Weser; los nombres en clave militares alemanes usaban a menudo términos geográficos.",
+    "it": "Il nome Weseruebung rimanda al fiume Weser; nei nomi in codice militari tedeschi si usavano spesso termini geografici.",
+    "pt": "O nome Weseruebung remete para o rio Weser; os nomes de código militares alemães usavam frequentemente termos geográficos.",
+    "nl": "De naam Weseruebung verwijst naar de rivier de Wezer; Duitse militaire codenamen gebruikten vaak geografische begrippen.",
+    "pl": "Nazwa Weseruebung odnosi się do rzeki Wezery; w niemieckich kryptonimach wojskowych często używano pojęć geograficznych.",
+    "tr": "Weseruebung adı Weser Nehri'ne gönderme yapar; Alman askeri kod adlarında sık sık coğrafi terimler kullanılırdı.",
+    "zh": "Weseruebung 这个名称指向威悉河；德国军事代号中常使用地理词汇。",
+    "ja": "Weseruebung という名前はヴェーザー川を指しています。ドイツの軍事暗号名では地理的な言葉がよく使われました。",
+    "ko": "Weseruebung이라는 이름은 베저강을 가리킵니다. 독일 군사 암호명에는 지리 용어가 자주 사용되었습니다.",
+    "hi": "Weseruebung नाम वेसर नदी की ओर संकेत करता है; जर्मन सैन्य कोड नामों में अक्सर भौगोलिक शब्दों का उपयोग होता था।",
+    "ar": "يشير اسم Weseruebung إلى نهر فيزر؛ وكثيرا ما استخدمت الأسماء الرمزية العسكرية الألمانية مصطلحات جغرافية."
   },
   "sources": [
     {
