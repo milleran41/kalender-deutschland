@@ -11,17 +11,53 @@
     "title": {
       "ru": "Авария в Чернобыле затронула Германию",
       "de": "Der Reaktorunfall von Tschernobyl betrifft Deutschland",
-      "en": "The Chernobyl accident affects Germany"
+      "en": "The Chernobyl accident affects Germany",
+      "fr": "L'accident de Tchernobyl touche l'Allemagne",
+      "es": "El accidente de Chernóbil afecta a Alemania",
+      "it": "L'incidente di Chernobyl colpisce la Germania",
+      "pt": "O acidente de Chernobyl afeta a Alemanha",
+      "nl": "Het ongeluk in Tsjernobyl raakt Duitsland",
+      "pl": "Awaria w Czarnobylu dotyka Niemiec",
+      "tr": "Çernobil kazası Almanya'yı etkiledi",
+      "zh": "切尔诺贝利事故影响德国",
+      "ja": "チェルノブイリ事故がドイツに影響を及ぼす",
+      "ko": "체르노빌 사고가 독일에 영향을 미치다",
+      "hi": "चेरनोबिल दुर्घटना ने जर्मनी को प्रभावित किया",
+      "ar": "حادث تشيرنوبل يؤثر في ألمانيا"
     },
     "description": {
       "ru": "26 апреля 1986 года произошла авария на Чернобыльской АЭС. Радиоактивные выпадения достигли многих регионов Европы, включая Германию.",
       "de": "Am 26. April 1986 kam es zum Reaktorunfall von Tschernobyl. Radioaktiver Niederschlag erreichte viele Regionen Europas, auch Deutschland.",
-      "en": "On 26 April 1986, the Chernobyl nuclear accident occurred. Radioactive fallout reached many parts of Europe, including Germany."
+      "en": "On 26 April 1986, the Chernobyl nuclear accident occurred. Radioactive fallout reached many parts of Europe, including Germany.",
+      "fr": "Le 26 avril 1986 eut lieu l'accident nucléaire de Tchernobyl. Des retombées radioactives atteignirent de nombreuses régions d'Europe, y compris l'Allemagne.",
+      "es": "El 26 de abril de 1986 ocurrió el accidente nuclear de Chernóbil. La lluvia radiactiva alcanzó muchas partes de Europa, incluida Alemania.",
+      "it": "Il 26 aprile 1986 avvenne l'incidente nucleare di Chernobyl. La ricaduta radioattiva raggiunse molte parti d'Europa, compresa la Germania.",
+      "pt": "Em 26 de abril de 1986 ocorreu o acidente nuclear de Chernobyl. A precipitação radioativa atingiu muitas partes da Europa, incluindo a Alemanha.",
+      "nl": "Op 26 april 1986 vond de kernramp van Tsjernobyl plaats. Radioactieve neerslag bereikte veel delen van Europa, ook Duitsland.",
+      "pl": "26 kwietnia 1986 roku doszło do awarii jądrowej w Czarnobylu. Opad radioaktywny dotarł do wielu części Europy, w tym do Niemiec.",
+      "tr": "26 Nisan 1986'da Çernobil nükleer kazası meydana geldi. Radyoaktif serpinti Almanya dahil Avrupa'nın birçok bölgesine ulaştı.",
+      "zh": "1986年4月26日，切尔诺贝利核事故发生。放射性沉降到达欧洲许多地区，包括德国。",
+      "ja": "1986年4月26日、チェルノブイリ原発事故が起こりました。放射性降下物はドイツを含むヨーロッパの多くの地域に到達しました。",
+      "ko": "1986년 4월 26일, 체르노빌 원전 사고가 발생했습니다. 방사성 낙진은 독일을 포함한 유럽 여러 지역에 도달했습니다.",
+      "hi": "26 अप्रैल 1986 को चेरनोबिल परमाणु दुर्घटना हुई। रेडियोधर्मी गिरावट जर्मनी सहित यूरोप के कई हिस्सों तक पहुँची।",
+      "ar": "في 26 أبريل 1986 وقع حادث تشيرنوبل النووي. ووصلت الترسبات الإشعاعية إلى مناطق كثيرة من أوروبا، بما فيها ألمانيا."
     },
     "importance": {
       "ru": "Событие сильно повлияло на отношение немцев к атомной энергетике, экологии и безопасности.",
       "de": "Das Ereignis praegte die deutsche Debatte ueber Kernenergie, Umwelt und Sicherheit stark.",
-      "en": "The event strongly shaped German debates about nuclear power, environment and safety."
+      "en": "The event strongly shaped German debates about nuclear power, environment and safety.",
+      "fr": "L'événement marqua fortement les débats allemands sur l'énergie nucléaire, l'environnement et la sécurité.",
+      "es": "El acontecimiento marcó profundamente los debates alemanes sobre energía nuclear, medio ambiente y seguridad.",
+      "it": "L'evento segnò profondamente i dibattiti tedeschi su energia nucleare, ambiente e sicurezza.",
+      "pt": "O acontecimento marcou fortemente os debates alemães sobre energia nuclear, ambiente e segurança.",
+      "nl": "De gebeurtenis bepaalde sterk het Duitse debat over kernenergie, milieu en veiligheid.",
+      "pl": "Wydarzenie silnie ukształtowało niemieckie debaty o energii jądrowej, środowisku i bezpieczeństwie.",
+      "tr": "Bu olay Almanya'daki nükleer enerji, çevre ve güvenlik tartışmalarını güçlü biçimde şekillendirdi.",
+      "zh": "这一事件深刻影响了德国关于核能、环境和安全的讨论。",
+      "ja": "この出来事は、原子力、環境、安全をめぐるドイツの議論に大きな影響を与えました。",
+      "ko": "이 사건은 독일의 원자력, 환경, 안전에 대한 논쟁을 강하게 형성했습니다.",
+      "hi": "इस घटना ने जर्मनी में परमाणु ऊर्जा, पर्यावरण और सुरक्षा पर बहसों को गहराई से प्रभावित किया।",
+      "ar": "شكّل هذا الحدث بقوة النقاشات الألمانية حول الطاقة النووية والبيئة والسلامة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Опасность пришла с дождём и пылью",
           "de": "Gefahr kam mit Regen und Staub",
-          "en": "Danger came with rain and dust"
+          "en": "Danger came with rain and dust",
+          "fr": "Le danger vint avec la pluie et la poussière",
+          "es": "El peligro llegó con la lluvia y el polvo",
+          "it": "Il pericolo arrivò con pioggia e polvere",
+          "pt": "O perigo veio com a chuva e o pó",
+          "nl": "Het gevaar kwam met regen en stof",
+          "pl": "Zagrożenie przyszło z deszczem i pyłem",
+          "tr": "Tehlike yağmur ve tozla geldi",
+          "zh": "危险随雨水和尘埃而来",
+          "ja": "危険は雨とほこりとともに来た",
+          "ko": "위험은 비와 먼지와 함께 왔다",
+          "hi": "खतरा बारिश और धूल के साथ आया",
+          "ar": "جاء الخطر مع المطر والغبار"
         },
         "description": {
           "ru": "Уровень загрязнения зависел от ветра и дождей. В некоторых местах долго проверяли грибы, дичь, молоко и продукты питания.",
           "de": "Die Belastung hing von Wind und Regen ab. In manchen Regionen wurden Pilze, Wild, Milch und Lebensmittel lange kontrolliert.",
-          "en": "Contamination depended on wind and rain. In some regions, mushrooms, game, milk and food were checked for a long time."
+          "en": "Contamination depended on wind and rain. In some regions, mushrooms, game, milk and food were checked for a long time.",
+          "fr": "La contamination dépendait du vent et de la pluie. Dans certaines régions, les champignons, le gibier, le lait et les aliments furent contrôlés pendant longtemps.",
+          "es": "La contaminación dependía del viento y la lluvia. En algunas regiones se controlaron durante mucho tiempo setas, caza, leche y alimentos.",
+          "it": "La contaminazione dipendeva dal vento e dalla pioggia. In alcune regioni funghi, selvaggina, latte e alimenti furono controllati a lungo.",
+          "pt": "A contaminação dependia do vento e da chuva. Em algumas regiões, cogumelos, caça, leite e alimentos foram controlados durante muito tempo.",
+          "nl": "De besmetting hing af van wind en regen. In sommige regio's werden paddenstoelen, wild, melk en voedsel lange tijd gecontroleerd.",
+          "pl": "Skażenie zależało od wiatru i deszczu. W niektórych regionach długo sprawdzano grzyby, dziczyznę, mleko i żywność.",
+          "tr": "Kirlilik rüzgâra ve yağmura bağlıydı. Bazı bölgelerde mantarlar, av eti, süt ve yiyecekler uzun süre kontrol edildi.",
+          "zh": "污染程度取决于风和降雨。在一些地区，蘑菇、野味、牛奶和食品长期接受检测。",
+          "ja": "汚染は風と雨に左右されました。一部の地域では、きのこ、野生動物の肉、牛乳、食品が長い間検査されました。",
+          "ko": "오염은 바람과 비에 따라 달라졌습니다. 일부 지역에서는 버섯, 야생동물 고기, 우유, 식품을 오랫동안 검사했습니다.",
+          "hi": "प्रदूषण हवा और बारिश पर निर्भर था। कुछ क्षेत्रों में मशरूम, शिकार का मांस, दूध और खाद्य पदार्थों की लंबे समय तक जाँच हुई।",
+          "ar": "اعتمد التلوث على الرياح والأمطار. وفي بعض المناطق خضعت الفطر ولحوم الصيد والحليب والأطعمة للفحص لفترة طويلة."
         },
         "importance": {
           "ru": "Это пример того, как техногенная авария превращается в природную и бытовую проблему.",
           "de": "Das ist ein Beispiel dafuer, wie ein technischer Unfall zu einem Natur- und Alltagsproblem wird.",
-          "en": "It is an example of how a technical accident becomes an environmental and everyday problem."
+          "en": "It is an example of how a technical accident becomes an environmental and everyday problem.",
+          "fr": "C'est un exemple de la manière dont un accident technique devient un problème environnemental et quotidien.",
+          "es": "Es un ejemplo de cómo un accidente técnico se convierte en un problema ambiental y cotidiano.",
+          "it": "È un esempio di come un incidente tecnico diventi un problema ambientale e quotidiano.",
+          "pt": "É um exemplo de como um acidente técnico se torna um problema ambiental e quotidiano.",
+          "nl": "Het is een voorbeeld van hoe een technisch ongeluk een milieu- en alledaags probleem wordt.",
+          "pl": "To przykład tego, jak awaria techniczna staje się problemem środowiskowym i codziennym.",
+          "tr": "Bu, teknik bir kazanın çevresel ve gündelik bir soruna nasıl dönüştüğünün örneğidir.",
+          "zh": "这是技术事故如何变成环境和日常生活问题的例子。",
+          "ja": "これは、技術的な事故が環境問題や日常生活の問題になる例です。",
+          "ko": "이는 기술 사고가 환경과 일상의 문제가 되는 방식을 보여 주는 예입니다.",
+          "hi": "यह उदाहरण है कि तकनीकी दुर्घटना पर्यावरण और रोजमर्रा की समस्या कैसे बन जाती है।",
+          "ar": "إنه مثال على كيف يتحول حادث تقني إلى مشكلة بيئية ويومية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Трагедия в гимназии Гутенберга в Эрфурте",
           "de": "Amoklauf am Gutenberg-Gymnasium in Erfurt",
-          "en": "Gutenberg Gymnasium shooting in Erfurt"
+          "en": "Gutenberg Gymnasium shooting in Erfurt",
+          "fr": "Fusillade au lycée Gutenberg d'Erfurt",
+          "es": "Tiroteo en el gimnasio Gutenberg de Erfurt",
+          "it": "Sparatoria al ginnasio Gutenberg di Erfurt",
+          "pt": "Tiroteio no ginásio Gutenberg em Erfurt",
+          "nl": "Schietpartij op het Gutenberg-Gymnasium in Erfurt",
+          "pl": "Strzelanina w gimnazjum Gutenberga w Erfurcie",
+          "tr": "Erfurt Gutenberg Lisesi saldırısı",
+          "zh": "埃尔福特古滕贝格中学枪击案",
+          "ja": "エアフルトのグーテンベルク・ギムナジウム銃撃事件",
+          "ko": "에르푸르트 구텐베르크 김나지움 총격 사건",
+          "hi": "एरफुर्ट के गुटेनबर्ग जिम्नाजियम में गोलीबारी",
+          "ar": "إطلاق النار في مدرسة غوتنبرغ الثانوية في إرفورت"
         },
         "description": {
           "ru": "26 апреля 2002 года в Эрфурте бывший ученик гимназии Гутенберга убил 16 человек и затем себя. Трагедия вызвала широкие споры о школьной безопасности, оружии и психологической помощи.",
           "de": "Am 26. April 2002 erschoss ein ehemaliger Schueler am Gutenberg-Gymnasium in Erfurt 16 Menschen und danach sich selbst. Die Tat fuehrte zu breiten Debatten ueber Schulsicherheit, Waffen und psychologische Hilfe.",
-          "en": "On 26 April 2002, a former student at Gutenberg Gymnasium in Erfurt killed 16 people and then himself. The tragedy led to broad debates about school safety, weapons and psychological support."
+          "en": "On 26 April 2002, a former student at Gutenberg Gymnasium in Erfurt killed 16 people and then himself. The tragedy led to broad debates about school safety, weapons and psychological support.",
+          "fr": "Le 26 avril 2002, un ancien élève du lycée Gutenberg d'Erfurt tua 16 personnes puis se donna la mort. La tragédie entraîna de larges débats sur la sécurité scolaire, les armes et l'aide psychologique.",
+          "es": "El 26 de abril de 2002, un exalumno del gimnasio Gutenberg de Erfurt mató a 16 personas y luego se suicidó. La tragedia provocó amplios debates sobre seguridad escolar, armas y apoyo psicológico.",
+          "it": "Il 26 aprile 2002 un ex studente del ginnasio Gutenberg di Erfurt uccise 16 persone e poi se stesso. La tragedia portò a vasti dibattiti su sicurezza scolastica, armi e sostegno psicologico.",
+          "pt": "Em 26 de abril de 2002, um antigo aluno do ginásio Gutenberg em Erfurt matou 16 pessoas e depois suicidou-se. A tragédia levou a amplos debates sobre segurança escolar, armas e apoio psicológico.",
+          "nl": "Op 26 april 2002 doodde een voormalige leerling van het Gutenberg-Gymnasium in Erfurt 16 mensen en daarna zichzelf. De tragedie leidde tot brede debatten over schoolveiligheid, wapens en psychologische hulp.",
+          "pl": "26 kwietnia 2002 roku były uczeń gimnazjum Gutenberga w Erfurcie zabił 16 osób, a następnie siebie. Tragedia wywołała szerokie debaty o bezpieczeństwie w szkołach, broni i pomocy psychologicznej.",
+          "tr": "26 Nisan 2002'de Erfurt'taki Gutenberg Lisesi'nin eski bir öğrencisi 16 kişiyi ve ardından kendisini öldürdü. Trajedi okul güvenliği, silahlar ve psikolojik destek konusunda geniş tartışmalara yol açtı.",
+          "zh": "2002年4月26日，埃尔福特古滕贝格中学一名前学生杀害16人后自杀。这场悲剧引发了关于校园安全、武器和心理支持的广泛讨论。",
+          "ja": "2002年4月26日、エアフルトのグーテンベルク・ギムナジウムの元生徒が16人を殺害し、その後自殺しました。この悲劇は学校の安全、武器、心理的支援をめぐる広い議論を引き起こしました。",
+          "ko": "2002년 4월 26일, 에르푸르트 구텐베르크 김나지움의 전 학생이 16명을 살해한 뒤 스스로 목숨을 끊었습니다. 이 비극은 학교 안전, 무기, 심리적 지원에 대한 폭넓은 논쟁을 불러왔습니다.",
+          "hi": "26 अप्रैल 2002 को एरफुर्ट के गुटेनबर्ग जिम्नाजियम के एक पूर्व छात्र ने 16 लोगों की हत्या की और फिर स्वयं को मार लिया। इस त्रासदी ने स्कूल सुरक्षा, हथियारों और मनोवैज्ञानिक सहायता पर व्यापक बहस छेड़ी।",
+          "ar": "في 26 أبريل 2002 قتل طالب سابق في مدرسة غوتنبرغ الثانوية في إرفورت 16 شخصا ثم قتل نفسه. أدت المأساة إلى نقاشات واسعة حول سلامة المدارس والأسلحة والدعم النفسي."
         },
         "importance": {
           "ru": "Это одна из самых тяжёлых школьных трагедий в современной Германии.",
           "de": "Es ist eine der schwersten Schultragödien im modernen Deutschland.",
-          "en": "It is one of the worst school tragedies in modern Germany."
+          "en": "It is one of the worst school tragedies in modern Germany.",
+          "fr": "C'est l'une des pires tragédies scolaires de l'Allemagne moderne.",
+          "es": "Es una de las peores tragedias escolares de la Alemania moderna.",
+          "it": "È una delle peggiori tragedie scolastiche della Germania moderna.",
+          "pt": "É uma das piores tragédias escolares da Alemanha moderna.",
+          "nl": "Het is een van de zwaarste schooltragedies in het moderne Duitsland.",
+          "pl": "To jedna z najcięższych tragedii szkolnych we współczesnych Niemczech.",
+          "tr": "Bu, modern Almanya'nın en ağır okul trajedilerinden biridir.",
+          "zh": "这是现代德国最严重的校园悲剧之一。",
+          "ja": "これは現代ドイツで最も深刻な学校での悲劇の一つです。",
+          "ko": "이는 현대 독일에서 가장 참혹한 학교 비극 중 하나입니다.",
+          "hi": "यह आधुनिक जर्मनी की सबसे गंभीर स्कूल त्रासदियों में से एक है।",
+          "ar": "إنها إحدى أسوأ المآسي المدرسية في ألمانيا الحديثة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В Германии после Чернобыля усилилось антиядерное движение.",
     "de": "In Deutschland wurde nach Tschernobyl die Anti-Atom-Bewegung staerker.",
-    "en": "In Germany, the anti-nuclear movement grew stronger after Chernobyl."
+    "en": "In Germany, the anti-nuclear movement grew stronger after Chernobyl.",
+    "fr": "En Allemagne, le mouvement antinucléaire se renforça après Tchernobyl.",
+    "es": "En Alemania, el movimiento antinuclear se fortaleció después de Chernóbil.",
+    "it": "In Germania, il movimento antinucleare si rafforzò dopo Chernobyl.",
+    "pt": "Na Alemanha, o movimento antinuclear tornou-se mais forte depois de Chernobyl.",
+    "nl": "In Duitsland werd de anti-kernenergiebeweging sterker na Tsjernobyl.",
+    "pl": "W Niemczech po Czarnobylu wzmocnił się ruch antyatomowy.",
+    "tr": "Almanya'da Çernobil'den sonra nükleer karşıtı hareket güçlendi.",
+    "zh": "切尔诺贝利之后，德国的反核运动更加强大。",
+    "ja": "ドイツでは、チェルノブイリ後に反原発運動が強まりました。",
+    "ko": "독일에서는 체르노빌 이후 반핵 운동이 더 강해졌습니다.",
+    "hi": "चेरनोबिल के बाद जर्मनी में परमाणु-विरोधी आंदोलन और मजबूत हुआ।",
+    "ar": "في ألمانيا ازدادت قوة الحركة المناهضة للطاقة النووية بعد تشيرنوبل."
   },
   "sources": [
     {

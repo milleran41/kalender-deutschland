@@ -11,17 +11,53 @@
     "title": {
       "ru": "Бремен капитулировал перед британскими войсками",
       "de": "Bremen kapituliert vor britischen Truppen",
-      "en": "Bremen surrenders to British troops"
+      "en": "Bremen surrenders to British troops",
+      "fr": "Brême capitule devant les troupes britanniques",
+      "es": "Bremen se rinde ante las tropas británicas",
+      "it": "Brema si arrende alle truppe britanniche",
+      "pt": "Bremen rende-se às tropas britânicas",
+      "nl": "Bremen geeft zich over aan Britse troepen",
+      "pl": "Brema kapituluje przed wojskami brytyjskimi",
+      "tr": "Bremen İngiliz birliklerine teslim oldu",
+      "zh": "不来梅向英军投降",
+      "ja": "ブレーメンがイギリス軍に降伏する",
+      "ko": "브레멘이 영국군에 항복하다",
+      "hi": "ब्रेमेन ने ब्रिटिश सैनिकों के सामने आत्मसमर्पण किया",
+      "ar": "استسلام بريمن للقوات البريطانية"
     },
     "description": {
       "ru": "27 апреля 1945 года оставшиеся немецкие войска в Бремене капитулировали перед британскими силами. Для города Вторая мировая война фактически закончилась раньше общей капитуляции Германии.",
       "de": "Am 27. April 1945 kapitulierten die verbliebenen deutschen Truppen in Bremen vor britischen Kraeften. Fuer die Stadt endete der Zweite Weltkrieg damit faktisch vor der Gesamtkapitulation Deutschlands.",
-      "en": "On 27 April 1945, the remaining German troops in Bremen surrendered to British forces. For the city, the Second World War effectively ended before Germany's general surrender."
+      "en": "On 27 April 1945, the remaining German troops in Bremen surrendered to British forces. For the city, the Second World War effectively ended before Germany's general surrender.",
+      "fr": "Le 27 avril 1945, les troupes allemandes restantes à Brême capitulèrent devant les forces britanniques. Pour la ville, la Seconde Guerre mondiale prit fin de fait avant la capitulation générale de l'Allemagne.",
+      "es": "El 27 de abril de 1945, las tropas alemanas restantes en Bremen se rindieron ante las fuerzas británicas. Para la ciudad, la Segunda Guerra Mundial terminó de hecho antes de la rendición general de Alemania.",
+      "it": "Il 27 aprile 1945 le truppe tedesche rimaste a Brema si arresero alle forze britanniche. Per la città, la Seconda guerra mondiale finì di fatto prima della capitolazione generale della Germania.",
+      "pt": "Em 27 de abril de 1945, as tropas alemãs restantes em Bremen renderam-se às forças britânicas. Para a cidade, a Segunda Guerra Mundial terminou na prática antes da capitulação geral da Alemanha.",
+      "nl": "Op 27 april 1945 gaven de overgebleven Duitse troepen in Bremen zich over aan Britse troepen. Voor de stad eindigde de Tweede Wereldoorlog daarmee feitelijk vóór de algemene capitulatie van Duitsland.",
+      "pl": "27 kwietnia 1945 roku pozostałe oddziały niemieckie w Bremie skapitulowały przed siłami brytyjskimi. Dla miasta druga wojna światowa faktycznie skończyła się przed ogólną kapitulacją Niemiec.",
+      "tr": "27 Nisan 1945'te Bremen'de kalan Alman birlikleri İngiliz kuvvetlerine teslim oldu. Şehir için İkinci Dünya Savaşı, Almanya'nın genel teslimiyetinden önce fiilen sona erdi.",
+      "zh": "1945年4月27日，不来梅剩余的德国军队向英军投降。对这座城市来说，第二次世界大战实际上在德国总投降之前就结束了。",
+      "ja": "1945年4月27日、ブレーメンに残っていたドイツ軍はイギリス軍に降伏しました。この都市にとって第二次世界大戦は、ドイツ全体の降伏より前に事実上終わりました。",
+      "ko": "1945년 4월 27일, 브레멘에 남아 있던 독일군은 영국군에 항복했습니다. 이 도시에게 제2차 세계대전은 독일의 전체 항복보다 앞서 사실상 끝났습니다.",
+      "hi": "27 अप्रैल 1945 को ब्रेमेन में बचे जर्मन सैनिकों ने ब्रिटिश बलों के सामने आत्मसमर्पण किया। शहर के लिए द्वितीय विश्व युद्ध जर्मनी के सामान्य आत्मसमर्पण से पहले ही व्यावहारिक रूप से समाप्त हो गया।",
+      "ar": "في 27 أبريل 1945 استسلمت القوات الألمانية المتبقية في بريمن للقوات البريطانية. وبالنسبة إلى المدينة انتهت الحرب العالمية الثانية فعليا قبل الاستسلام العام لألمانيا."
     },
     "importance": {
       "ru": "Дата показывает конец войны через судьбу конкретного города, а не только через большие государственные акты.",
       "de": "Das Datum zeigt das Kriegsende am Schicksal einer konkreten Stadt, nicht nur durch grosse staatliche Akte.",
-      "en": "The date shows the end of the war through the fate of a specific city, not only through major state acts."
+      "en": "The date shows the end of the war through the fate of a specific city, not only through major state acts.",
+      "fr": "Cette date montre la fin de la guerre à travers le destin d'une ville précise, et pas seulement à travers de grands actes d'État.",
+      "es": "La fecha muestra el fin de la guerra a través del destino de una ciudad concreta, no solo mediante grandes actos estatales.",
+      "it": "La data mostra la fine della guerra attraverso il destino di una città concreta, non solo tramite grandi atti statali.",
+      "pt": "A data mostra o fim da guerra através do destino de uma cidade concreta, não apenas por grandes atos de Estado.",
+      "nl": "Deze datum laat het einde van de oorlog zien via het lot van een concrete stad, niet alleen via grote staatsakten.",
+      "pl": "Ta data pokazuje koniec wojny przez los konkretnego miasta, a nie tylko przez wielkie akty państwowe.",
+      "tr": "Bu tarih, savaşın sonunu yalnızca büyük devlet işlemleriyle değil, belirli bir şehrin kaderi üzerinden gösterir.",
+      "zh": "这个日期通过一座具体城市的命运展示战争的结束，而不仅仅通过重大的国家行为。",
+      "ja": "この日付は、大きな国家的行為だけでなく、特定の都市の運命を通じて戦争の終わりを示しています。",
+      "ko": "이 날짜는 전쟁의 끝을 큰 국가적 행위만이 아니라 특정 도시의 운명을 통해 보여 줍니다.",
+      "hi": "यह तारीख युद्ध के अंत को केवल बड़े सरकारी कार्यों से नहीं, बल्कि एक ठोस शहर के भाग्य से दिखाती है।",
+      "ar": "يبين هذا التاريخ نهاية الحرب من خلال مصير مدينة محددة، لا من خلال الأفعال الكبرى للدولة فقط."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Конец войны в портовом городе",
           "de": "Kriegsende in der Hafenstadt",
-          "en": "War's end in a port city"
+          "en": "War's end in a port city",
+          "fr": "Fin de la guerre dans une ville portuaire",
+          "es": "El final de la guerra en una ciudad portuaria",
+          "it": "La fine della guerra in una città portuale",
+          "pt": "O fim da guerra numa cidade portuária",
+          "nl": "Oorlogseinde in een havenstad",
+          "pl": "Koniec wojny w mieście portowym",
+          "tr": "Bir liman şehrinde savaşın sonu",
+          "zh": "港口城市中的战争结束",
+          "ja": "港町での戦争の終わり",
+          "ko": "항구 도시에서의 전쟁 종식",
+          "hi": "बंदरगाह शहर में युद्ध का अंत",
+          "ar": "نهاية الحرب في مدينة ميناء"
         },
         "description": {
           "ru": "Бремен был сильно связан с портом, торговлей и военной промышленностью, поэтому город тяжело пережил войну и бомбардировки. Капитуляция открыла путь к оккупации и послевоенному восстановлению.",
           "de": "Bremen war eng mit Hafen, Handel und Ruestungsindustrie verbunden und litt deshalb schwer unter Krieg und Bombardierungen. Die Kapitulation oeffnete den Weg zu Besatzung und Wiederaufbau.",
-          "en": "Bremen was closely tied to its port, trade and armaments industry, and suffered heavily from war and bombing. The surrender opened the way to occupation and postwar reconstruction."
+          "en": "Bremen was closely tied to its port, trade and armaments industry, and suffered heavily from war and bombing. The surrender opened the way to occupation and postwar reconstruction.",
+          "fr": "Brême était étroitement liée à son port, au commerce et à l'industrie d'armement, et souffrit fortement de la guerre et des bombardements. La capitulation ouvrit la voie à l'occupation et à la reconstruction d'après-guerre.",
+          "es": "Bremen estaba estrechamente vinculada a su puerto, al comercio y a la industria armamentística, y sufrió mucho por la guerra y los bombardeos. La rendición abrió el camino a la ocupación y la reconstrucción de posguerra.",
+          "it": "Brema era strettamente legata al porto, al commercio e all'industria degli armamenti, e soffrì gravemente per la guerra e i bombardamenti. La resa aprì la strada all'occupazione e alla ricostruzione del dopoguerra.",
+          "pt": "Bremen estava estreitamente ligada ao seu porto, ao comércio e à indústria de armamento, e sofreu muito com a guerra e os bombardeamentos. A rendição abriu caminho à ocupação e à reconstrução do pós-guerra.",
+          "nl": "Bremen was nauw verbonden met zijn haven, handel en wapenindustrie en leed zwaar onder oorlog en bombardementen. De overgave opende de weg naar bezetting en naoorlogse wederopbouw.",
+          "pl": "Brema była ściśle związana z portem, handlem i przemysłem zbrojeniowym, dlatego ciężko ucierpiała wskutek wojny i bombardowań. Kapitulacja otworzyła drogę do okupacji i powojennej odbudowy.",
+          "tr": "Bremen limanı, ticareti ve silah sanayisiyle yakından bağlantılıydı ve savaş ile bombardımanlardan ağır zarar gördü. Teslimiyet işgale ve savaş sonrası yeniden inşaya giden yolu açtı.",
+          "zh": "不来梅与港口、贸易和军工紧密相连，因此在战争和轰炸中遭受重创。投降为占领和战后重建打开了道路。",
+          "ja": "ブレーメンは港、貿易、軍需産業と密接に結びついており、戦争と爆撃で大きな被害を受けました。降伏は占領と戦後復興への道を開きました。",
+          "ko": "브레멘은 항구, 무역, 군수 산업과 밀접하게 연결되어 있었고 전쟁과 폭격으로 큰 피해를 입었습니다. 항복은 점령과 전후 재건으로 가는 길을 열었습니다.",
+          "hi": "ब्रेमेन अपने बंदरगाह, व्यापार और हथियार उद्योग से निकट रूप से जुड़ा था और युद्ध व बमबारी से भारी पीड़ित हुआ। आत्मसमर्पण ने कब्ज़े और युद्धोत्तर पुनर्निर्माण का रास्ता खोला।",
+          "ar": "كانت بريمن مرتبطة ارتباطا وثيقا بمينائها وتجارتها وصناعة التسليح، ولذلك عانت بشدة من الحرب والقصف. فتح الاستسلام الطريق إلى الاحتلال وإعادة الإعمار بعد الحرب."
         },
         "importance": {
           "ru": "Такие городские истории делают май 1945 года более понятным и человеческим.",
           "de": "Solche Stadtgeschichten machen den Mai 1945 verstaendlicher und menschlicher.",
-          "en": "Such urban stories make May 1945 more understandable and human."
+          "en": "Such urban stories make May 1945 more understandable and human.",
+          "fr": "De telles histoires urbaines rendent mai 1945 plus compréhensible et plus humain.",
+          "es": "Estas historias urbanas hacen que mayo de 1945 sea más comprensible y humano.",
+          "it": "Queste storie cittadine rendono il maggio 1945 più comprensibile e umano.",
+          "pt": "Estas histórias urbanas tornam maio de 1945 mais compreensível e humano.",
+          "nl": "Zulke stedelijke verhalen maken mei 1945 begrijpelijker en menselijker.",
+          "pl": "Takie miejskie historie czynią maj 1945 roku bardziej zrozumiałym i ludzkim.",
+          "tr": "Bu tür şehir hikayeleri Mayıs 1945'i daha anlaşılır ve insani kılar.",
+          "zh": "这样的城市故事让1945年5月更容易理解，也更有人情味。",
+          "ja": "こうした都市の物語は、1945年5月をより理解しやすく、人間的なものにします。",
+          "ko": "이런 도시의 이야기는 1945년 5월을 더 이해하기 쉽고 인간적으로 만들어 줍니다.",
+          "hi": "ऐसी शहरी कहानियाँ मई 1945 को अधिक समझने योग्य और मानवीय बनाती हैं।",
+          "ar": "تجعل مثل هذه القصص الحضرية مايو 1945 أكثر فهما وإنسانية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "После войны Бремен стал частью американской зоны снабжения, несмотря на то что город заняли британские войска.",
     "de": "Nach dem Krieg gehoerte Bremen zur amerikanischen Versorgungszone, obwohl britische Truppen die Stadt eingenommen hatten.",
-    "en": "After the war, Bremen became part of the American supply zone, although British troops had taken the city."
+    "en": "After the war, Bremen became part of the American supply zone, although British troops had taken the city.",
+    "fr": "Après la guerre, Brême fit partie de la zone d'approvisionnement américaine, bien que des troupes britanniques aient pris la ville.",
+    "es": "Después de la guerra, Bremen pasó a formar parte de la zona de abastecimiento estadounidense, aunque tropas británicas habían tomado la ciudad.",
+    "it": "Dopo la guerra, Brema divenne parte della zona di rifornimento americana, anche se la città era stata presa dalle truppe britanniche.",
+    "pt": "Depois da guerra, Bremen tornou-se parte da zona de abastecimento americana, embora tropas britânicas tivessem tomado a cidade.",
+    "nl": "Na de oorlog werd Bremen deel van de Amerikaanse bevoorradingszone, hoewel Britse troepen de stad hadden ingenomen.",
+    "pl": "Po wojnie Brema stała się częścią amerykańskiej strefy zaopatrzeniowej, choć miasto zajęły wojska brytyjskie.",
+    "tr": "Savaştan sonra Bremen, şehri İngiliz birlikleri almış olmasına rağmen Amerikan ikmal bölgesinin parçası oldu.",
+    "zh": "战后，不来梅成为美国补给区的一部分，尽管占领这座城市的是英国军队。",
+    "ja": "戦後、ブレーメンはイギリス軍が占領したにもかかわらず、アメリカの補給区域の一部となりました。",
+    "ko": "전쟁 후 브레멘은 영국군이 도시를 점령했음에도 미국 보급 구역의 일부가 되었습니다.",
+    "hi": "युद्ध के बाद ब्रेमेन अमेरिकी आपूर्ति क्षेत्र का हिस्सा बना, हालांकि शहर पर ब्रिटिश सैनिकों ने कब्ज़ा किया था।",
+    "ar": "بعد الحرب أصبحت بريمن جزءا من منطقة الإمداد الأمريكية، رغم أن القوات البريطانية كانت قد استولت على المدينة."
   },
   "sources": [
     {

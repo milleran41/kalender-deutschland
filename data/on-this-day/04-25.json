@@ -11,17 +11,53 @@
     "title": {
       "ru": "Porsche зарегистрирована в Штутгарте",
       "de": "Porsche wird in Stuttgart eingetragen",
-      "en": "Porsche is registered in Stuttgart"
+      "en": "Porsche is registered in Stuttgart",
+      "fr": "Porsche est enregistrée à Stuttgart",
+      "es": "Porsche se registra en Stuttgart",
+      "it": "Porsche viene registrata a Stoccarda",
+      "pt": "A Porsche é registada em Estugarda",
+      "nl": "Porsche wordt in Stuttgart geregistreerd",
+      "pl": "Porsche zostaje zarejestrowane w Stuttgarcie",
+      "tr": "Porsche Stuttgart'ta tescil edildi",
+      "zh": "保时捷在斯图加特注册",
+      "ja": "ポルシェがシュトゥットガルトで登録される",
+      "ko": "포르쉐가 슈투트가르트에서 등록되다",
+      "hi": "पोर्शे स्टुटगार्ट में पंजीकृत हुई",
+      "ar": "تسجيل بورشه في شتوتغارت"
     },
     "description": {
       "ru": "25 апреля 1931 года фирма Porsche была внесена в торговый реестр Штутгарта как конструкторское бюро для двигателей и транспортных средств. Сначала это была не фабрика спорткаров, а инженерная компания.",
       "de": "Am 25. April 1931 wurde Porsche als Konstruktionsbuero fuer Motoren und Fahrzeuge in das Handelsregister Stuttgart eingetragen. Zunaechst war es keine Sportwagenfabrik, sondern ein Ingenieurunternehmen.",
-      "en": "On 25 April 1931, Porsche was entered in Stuttgart's commercial register as a design office for engines and vehicles. At first it was not a sports car factory but an engineering company."
+      "en": "On 25 April 1931, Porsche was entered in Stuttgart's commercial register as a design office for engines and vehicles. At first it was not a sports car factory but an engineering company.",
+      "fr": "Le 25 avril 1931, Porsche fut inscrite au registre du commerce de Stuttgart comme bureau d'études pour moteurs et véhicules. Au début, ce n'était pas une usine de voitures de sport, mais une entreprise d'ingénierie.",
+      "es": "El 25 de abril de 1931, Porsche fue inscrita en el registro mercantil de Stuttgart como oficina de diseño para motores y vehículos. Al principio no era una fábrica de deportivos, sino una empresa de ingeniería.",
+      "it": "Il 25 aprile 1931 Porsche fu iscritta nel registro commerciale di Stoccarda come ufficio di progettazione per motori e veicoli. All'inizio non era una fabbrica di auto sportive, ma una società di ingegneria.",
+      "pt": "Em 25 de abril de 1931, a Porsche foi inscrita no registo comercial de Estugarda como gabinete de projeto para motores e veículos. No início não era uma fábrica de carros desportivos, mas uma empresa de engenharia.",
+      "nl": "Op 25 april 1931 werd Porsche in het handelsregister van Stuttgart ingeschreven als ontwerpbureau voor motoren en voertuigen. Aanvankelijk was het geen sportwagenfabriek, maar een ingenieursbedrijf.",
+      "pl": "25 kwietnia 1931 roku Porsche wpisano do rejestru handlowego w Stuttgarcie jako biuro konstrukcyjne silników i pojazdów. Początkowo nie była to fabryka samochodów sportowych, lecz firma inżynieryjna.",
+      "tr": "25 Nisan 1931'de Porsche, motorlar ve araçlar için bir tasarım bürosu olarak Stuttgart ticaret siciline kaydedildi. Başlangıçta bir spor otomobil fabrikası değil, bir mühendislik şirketiydi.",
+      "zh": "1931年4月25日，保时捷作为发动机和车辆设计事务所被列入斯图加特商业登记册。起初它并不是跑车工厂，而是一家工程公司。",
+      "ja": "1931年4月25日、ポルシェはエンジンと車両の設計事務所としてシュトゥットガルトの商業登記簿に登録されました。最初はスポーツカー工場ではなく、エンジニアリング会社でした。",
+      "ko": "1931년 4월 25일, 포르쉐는 엔진과 차량을 위한 설계 사무소로 슈투트가르트 상업 등기부에 등록되었습니다. 처음에는 스포츠카 공장이 아니라 엔지니어링 회사였습니다.",
+      "hi": "25 अप्रैल 1931 को पोर्शे को स्टुटगार्ट के व्यापार रजिस्टर में इंजन और वाहनों के डिजाइन कार्यालय के रूप में दर्ज किया गया। शुरुआत में यह स्पोर्ट्स कार फैक्टरी नहीं, बल्कि इंजीनियरिंग कंपनी थी।",
+      "ar": "في 25 أبريل 1931 أُدرجت بورشه في السجل التجاري في شتوتغارت كمكتب تصميم للمحركات والمركبات. في البداية لم تكن مصنعا للسيارات الرياضية، بل شركة هندسية."
     },
     "importance": {
       "ru": "Дата важна для истории автомобильной земли Баден-Вюртемберг и немецкой инженерной культуры.",
       "de": "Das Datum ist wichtig fuer die Geschichte des Autolandes Baden-Wuerttemberg und deutscher Ingenieurkultur.",
-      "en": "The date is important for the history of automotive Baden-Wuerttemberg and German engineering culture."
+      "en": "The date is important for the history of automotive Baden-Wuerttemberg and German engineering culture.",
+      "fr": "Cette date est importante pour l'histoire automobile du Bade-Wurtemberg et pour la culture allemande de l'ingénierie.",
+      "es": "La fecha es importante para la historia automovilística de Baden-Wurtemberg y la cultura alemana de la ingeniería.",
+      "it": "La data è importante per la storia automobilistica del Baden-Württemberg e per la cultura ingegneristica tedesca.",
+      "pt": "A data é importante para a história automóvel de Baden-Württemberg e para a cultura alemã de engenharia.",
+      "nl": "Deze datum is belangrijk voor de geschiedenis van autoland Baden-Württemberg en de Duitse ingenieurscultuur.",
+      "pl": "Ta data jest ważna dla historii motoryzacyjnej Badenii-Wirtembergii i niemieckiej kultury inżynieryjnej.",
+      "tr": "Bu tarih, otomotiv Baden-Württemberg'inin ve Alman mühendislik kültürünün tarihi için önemlidir.",
+      "zh": "这个日期对汽车之州巴登-符腾堡和德国工程文化的历史很重要。",
+      "ja": "この日付は、自動車の地バーデン＝ヴュルテンベルクとドイツの工学文化の歴史にとって重要です。",
+      "ko": "이 날짜는 자동차의 고장 바덴뷔르템베르크와 독일 공학 문화의 역사에서 중요합니다.",
+      "hi": "यह तारीख ऑटोमोबाइल प्रदेश बाडेन-वुर्टेमबर्ग और जर्मन इंजीनियरिंग संस्कृति के इतिहास के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لتاريخ بادن-فورتمبيرغ كأرض للسيارات ولثقافة الهندسة الألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сначала проектирование, потом марка автомобилей",
           "de": "Erst Konstruktion, dann Automarke",
-          "en": "Design first, car brand later"
+          "en": "Design first, car brand later",
+          "fr": "D'abord la conception, puis la marque automobile",
+          "es": "Primero el diseño, después la marca de coches",
+          "it": "Prima la progettazione, poi il marchio automobilistico",
+          "pt": "Primeiro o projeto, depois a marca automóvel",
+          "nl": "Eerst ontwerp, later automerk",
+          "pl": "Najpierw projektowanie, potem marka samochodów",
+          "tr": "Önce tasarım, sonra otomobil markası",
+          "zh": "先有设计，后有汽车品牌",
+          "ja": "まず設計、車ブランドはその後",
+          "ko": "먼저 설계, 자동차 브랜드는 나중에",
+          "hi": "पहले डिजाइन, बाद में कार ब्रांड",
+          "ar": "التصميم أولا، ثم علامة السيارات"
         },
         "description": {
           "ru": "Ранний Porsche занимался инженерными разработками для других заказчиков. Это напоминает, что многие известные автомобильные марки выросли из конструкторских задач, а не сразу из готовых серийных машин.",
           "de": "Das fruehe Porsche-Buero arbeitete an technischen Entwicklungen fuer andere Auftraggeber. Das erinnert daran, dass viele bekannte Automarken aus Konstruktionsaufgaben entstanden und nicht sofort aus fertigen Serienautos.",
-          "en": "The early Porsche office worked on technical developments for other clients. It is a reminder that many famous car brands grew from design work rather than immediately from finished production cars."
+          "en": "The early Porsche office worked on technical developments for other clients. It is a reminder that many famous car brands grew from design work rather than immediately from finished production cars.",
+          "fr": "Le premier bureau Porsche travaillait sur des développements techniques pour d'autres clients. Cela rappelle que beaucoup de marques automobiles célèbres sont nées du travail de conception, et non immédiatement de voitures de série terminées.",
+          "es": "La primera oficina Porsche trabajaba en desarrollos técnicos para otros clientes. Esto recuerda que muchas marcas famosas de coches crecieron a partir del trabajo de diseño, y no directamente de coches de producción terminados.",
+          "it": "Il primo ufficio Porsche lavorava a sviluppi tecnici per altri clienti. Ricorda che molti marchi automobilistici famosi nacquero da lavori di progettazione, non subito da auto di serie finite.",
+          "pt": "O primeiro gabinete Porsche trabalhava em desenvolvimentos técnicos para outros clientes. Isto lembra que muitas marcas automóveis famosas cresceram a partir do trabalho de projeto, e não imediatamente de carros de produção acabados.",
+          "nl": "Het vroege Porsche-bureau werkte aan technische ontwikkelingen voor andere opdrachtgevers. Het herinnert eraan dat veel beroemde automerken uit ontwerpwerk groeiden, en niet meteen uit afgewerkte productieauto's.",
+          "pl": "Wczesne biuro Porsche pracowało nad rozwiązaniami technicznymi dla innych klientów. Przypomina to, że wiele słynnych marek samochodowych wyrosło z prac konstrukcyjnych, a nie od razu z gotowych samochodów seryjnych.",
+          "tr": "İlk Porsche ofisi başka müşteriler için teknik geliştirmeler üzerinde çalışıyordu. Bu, birçok ünlü otomobil markasının hemen hazır seri otomobillerden değil, tasarım çalışmalarından doğduğunu hatırlatır.",
+          "zh": "早期的保时捷事务所为其他客户进行技术开发。这提醒人们，许多著名汽车品牌并不是一开始就来自成品量产车，而是从设计工作中成长起来的。",
+          "ja": "初期のポルシェ事務所は、他の顧客のために技術開発を行っていました。これは、多くの有名な自動車ブランドが完成した量産車からではなく、設計の仕事から成長したことを思い出させます。",
+          "ko": "초기 포르쉐 사무소는 다른 고객을 위한 기술 개발을 했습니다. 이는 많은 유명 자동차 브랜드가 완성된 양산차에서 곧바로 나온 것이 아니라 설계 작업에서 성장했음을 상기시킵니다.",
+          "hi": "शुरुआती पोर्शे कार्यालय दूसरे ग्राहकों के लिए तकनीकी विकास पर काम करता था। यह याद दिलाता है कि कई प्रसिद्ध कार ब्रांड तैयार उत्पादन कारों से तुरंत नहीं, बल्कि डिजाइन कार्य से विकसित हुए।",
+          "ar": "عمل مكتب بورشه المبكر على تطويرات تقنية لعملاء آخرين. وهذا يذكّر بأن كثيرا من علامات السيارات الشهيرة نشأت من أعمال التصميم، لا مباشرة من سيارات إنتاج جاهزة."
         },
         "importance": {
           "ru": "Так видно, как немецкое автомобилестроение опиралось на сеть инженеров, поставщиков и заказчиков.",
           "de": "So wird sichtbar, wie der deutsche Automobilbau auf ein Netz von Ingenieuren, Zulieferern und Auftraggebern aufbaute.",
-          "en": "This shows how German carmaking relied on a network of engineers, suppliers and clients."
+          "en": "This shows how German carmaking relied on a network of engineers, suppliers and clients.",
+          "fr": "Cela montre comment l'automobile allemande reposait sur un réseau d'ingénieurs, de fournisseurs et de clients.",
+          "es": "Esto muestra cómo la fabricación alemana de automóviles dependía de una red de ingenieros, proveedores y clientes.",
+          "it": "Questo mostra come l'automobilismo tedesco si basasse su una rete di ingegneri, fornitori e clienti.",
+          "pt": "Isto mostra como a indústria automóvel alemã dependia de uma rede de engenheiros, fornecedores e clientes.",
+          "nl": "Dit laat zien hoe de Duitse autobouw steunde op een netwerk van ingenieurs, leveranciers en opdrachtgevers.",
+          "pl": "Pokazuje to, jak niemiecka motoryzacja opierała się na sieci inżynierów, dostawców i klientów.",
+          "tr": "Bu, Alman otomobil üretiminin mühendisler, tedarikçiler ve müşteriler ağina nasıl dayandığını gösterir.",
+          "zh": "这显示了德国汽车制造如何依赖工程师、供应商和客户组成的网络。",
+          "ja": "これは、ドイツの自動車づくりが技術者、供給業者、顧客のネットワークに支えられていたことを示しています。",
+          "ko": "이는 독일 자동차 제조가 엔지니어, 공급업체, 고객의 네트워크에 의존했음을 보여 줍니다.",
+          "hi": "यह दिखाता है कि जर्मन कार निर्माण इंजीनियरों, आपूर्तिकर्ताओं और ग्राहकों के नेटवर्क पर कैसे निर्भर था।",
+          "ar": "يُظهر ذلك كيف اعتمدت صناعة السيارات الألمانية على شبكة من المهندسين والموردين والعملاء."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Фердинанд Порше",
           "de": "Ferdinand Porsche",
-          "en": "Ferdinand Porsche"
+          "en": "Ferdinand Porsche",
+          "fr": "Ferdinand Porsche",
+          "es": "Ferdinand Porsche",
+          "it": "Ferdinand Porsche",
+          "pt": "Ferdinand Porsche",
+          "nl": "Ferdinand Porsche",
+          "pl": "Ferdinand Porsche",
+          "tr": "Ferdinand Porsche",
+          "zh": "费迪南德·保时捷",
+          "ja": "フェルディナント・ポルシェ",
+          "ko": "페르디난트 포르쉐",
+          "hi": "फर्डिनांड पोर्शे",
+          "ar": "فرديناند بورشه"
         },
         "description": {
           "ru": "Фердинанд Порше был инженером, связанным с разными автомобильными проектами ещё до основания собственной фирмы. Его имя стало одним из самых узнаваемых в истории немецкого автопрома.",
           "de": "Ferdinand Porsche war ein Ingenieur, der schon vor der Gruendung seiner eigenen Firma mit verschiedenen Automobilprojekten verbunden war. Sein Name wurde einer der bekanntesten in der Geschichte des deutschen Autobaus.",
-          "en": "Ferdinand Porsche was an engineer connected with various automotive projects even before founding his own firm. His name became one of the best known in the history of German carmaking."
+          "en": "Ferdinand Porsche was an engineer connected with various automotive projects even before founding his own firm. His name became one of the best known in the history of German carmaking.",
+          "fr": "Ferdinand Porsche était un ingénieur lié à différents projets automobiles avant même de fonder sa propre entreprise. Son nom devint l'un des plus connus de l'histoire de l'automobile allemande.",
+          "es": "Ferdinand Porsche fue un ingeniero vinculado a diversos proyectos automovilísticos incluso antes de fundar su propia empresa. Su nombre se convirtió en uno de los más conocidos de la historia del automóvil alemán.",
+          "it": "Ferdinand Porsche fu un ingegnere legato a diversi progetti automobilistici già prima di fondare la propria azienda. Il suo nome divenne uno dei più noti nella storia dell'automobilismo tedesco.",
+          "pt": "Ferdinand Porsche foi um engenheiro ligado a vários projetos automóveis mesmo antes de fundar a sua própria empresa. O seu nome tornou-se um dos mais conhecidos na história da indústria automóvel alemã.",
+          "nl": "Ferdinand Porsche was een ingenieur die al vóór de oprichting van zijn eigen firma met verschillende autoprojecten verbonden was. Zijn naam werd een van de bekendste in de geschiedenis van de Duitse autobouw.",
+          "pl": "Ferdinand Porsche był inżynierem związanym z różnymi projektami motoryzacyjnymi jeszcze przed założeniem własnej firmy. Jego nazwisko stało się jednym z najbardziej znanych w historii niemieckiej motoryzacji.",
+          "tr": "Ferdinand Porsche, kendi firmasını kurmadan önce de çeşitli otomobil projeleriyle bağlantılı bir mühendisti. Adı Alman otomobil tarihinin en tanınmışlarından biri oldu.",
+          "zh": "费迪南德·保时捷在创办自己的公司之前，就已经是一位参与多种汽车项目的工程师。他的名字成为德国汽车制造史上最知名的名字之一。",
+          "ja": "フェルディナント・ポルシェは、自分の会社を設立する前からさまざまな自動車プロジェクトに関わっていた技術者でした。彼の名はドイツ自動車史で最もよく知られたものの一つとなりました。",
+          "ko": "페르디난트 포르쉐는 자신의 회사를 세우기 전부터 여러 자동차 프로젝트와 연결된 엔지니어였습니다. 그의 이름은 독일 자동차 제조 역사에서 가장 잘 알려진 이름 중 하나가 되었습니다.",
+          "hi": "फर्डिनांड पोर्शे अपनी कंपनी स्थापित करने से पहले ही कई ऑटोमोबाइल परियोजनाओं से जुड़े इंजीनियर थे। उनका नाम जर्मन कार उद्योग के इतिहास में सबसे प्रसिद्ध नामों में से एक बना।",
+          "ar": "كان فرديناند بورشه مهندسا مرتبطا بمشروعات سيارات مختلفة حتى قبل تأسيس شركته الخاصة. وأصبح اسمه من أشهر الأسماء في تاريخ صناعة السيارات الألمانية."
         },
         "importance": {
           "ru": "Через его биографию видна связь изобретательства, дизайна и промышленности.",
           "de": "An seiner Biografie wird die Verbindung von Erfindung, Design und Industrie sichtbar.",
-          "en": "His biography shows the connection between invention, design and industry."
+          "en": "His biography shows the connection between invention, design and industry.",
+          "fr": "Sa biographie montre le lien entre invention, design et industrie.",
+          "es": "Su biografía muestra la conexión entre invención, diseño e industria.",
+          "it": "La sua biografia mostra il legame tra invenzione, design e industria.",
+          "pt": "A sua biografia mostra a ligação entre invenção, design e indústria.",
+          "nl": "Zijn biografie toont de verbinding tussen uitvinding, ontwerp en industrie.",
+          "pl": "Jego biografia pokazuje związek między wynalazczością, projektowaniem i przemysłem.",
+          "tr": "Biyografisi icat, tasarım ve sanayi arasındaki bağlantıyı gösterir.",
+          "zh": "他的传记展现了发明、设计和工业之间的联系。",
+          "ja": "彼の伝記は、発明、デザイン、産業のつながりを示しています。",
+          "ko": "그의 전기는 발명, 디자인, 산업 사이의 연결을 보여 줍니다.",
+          "hi": "उनकी जीवनी आविष्कार, डिजाइन और उद्योग के संबंध को दिखाती है।",
+          "ar": "تُظهر سيرته الصلة بين الاختراع والتصميم والصناعة."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Начало на Kronenstrasse",
           "de": "Anfang in der Kronenstrasse",
-          "en": "Beginning on Kronenstrasse"
+          "en": "Beginning on Kronenstrasse",
+          "fr": "Début dans la Kronenstrasse",
+          "es": "Comienzo en la Kronenstrasse",
+          "it": "Inizio nella Kronenstrasse",
+          "pt": "Início na Kronenstrasse",
+          "nl": "Begin aan de Kronenstrasse",
+          "pl": "Początek przy Kronenstrasse",
+          "tr": "Kronenstrasse'de başlangıç",
+          "zh": "从克罗嫩大街开始",
+          "ja": "クローネン通りでの始まり",
+          "ko": "크로넨슈트라세에서의 시작",
+          "hi": "Kronenstrasse पर शुरुआत",
+          "ar": "البداية في كروننشتراسه"
         },
         "description": {
           "ru": "Первая штаб-квартира фирмы находилась в Штутгарте на Kronenstrasse 24. Сегодня трудно представить, что такая всемирно известная марка начиналась как сравнительно небольшое бюро.",
           "de": "Der erste Sitz der Firma lag in Stuttgart in der Kronenstrasse 24. Heute ist kaum vorstellbar, dass eine so weltbekannte Marke als vergleichsweise kleines Buero begann.",
-          "en": "The firm's first office was at Kronenstrasse 24 in Stuttgart. Today it is hard to imagine such a globally known brand beginning as a comparatively small office."
+          "en": "The firm's first office was at Kronenstrasse 24 in Stuttgart. Today it is hard to imagine such a globally known brand beginning as a comparatively small office.",
+          "fr": "Le premier siège de l'entreprise se trouvait au 24 Kronenstrasse à Stuttgart. Aujourd'hui, il est difficile d'imaginer qu'une marque mondialement connue ait commencé comme un bureau relativement petit.",
+          "es": "La primera oficina de la firma estaba en Kronenstrasse 24, en Stuttgart. Hoy cuesta imaginar que una marca conocida en todo el mundo empezara como una oficina relativamente pequeña.",
+          "it": "La prima sede dell'azienda si trovava in Kronenstrasse 24 a Stoccarda. Oggi è difficile immaginare che un marchio noto in tutto il mondo sia nato come ufficio relativamente piccolo.",
+          "pt": "O primeiro escritório da empresa ficava na Kronenstrasse 24, em Estugarda. Hoje é difícil imaginar uma marca mundialmente conhecida a começar como um gabinete relativamente pequeno.",
+          "nl": "Het eerste kantoor van de firma lag aan de Kronenstrasse 24 in Stuttgart. Vandaag is het moeilijk voor te stellen dat zo'n wereldwijd bekend merk begon als een betrekkelijk klein bureau.",
+          "pl": "Pierwsze biuro firmy mieściło się przy Kronenstrasse 24 w Stuttgarcie. Dziś trudno sobie wyobrazić, że tak znana na świecie marka zaczynała jako stosunkowo niewielkie biuro.",
+          "tr": "Firmanın ilk ofisi Stuttgart'ta Kronenstrasse 24 adresindeydi. Bugün dünya çapında bilinen böyle bir markanın nispeten küçük bir ofis olarak başladığını hayal etmek zordur.",
+          "zh": "公司的第一个办公室位于斯图加特克罗嫩大街24号。今天很难想象这样一个全球知名品牌最初只是一个相对较小的事务所。",
+          "ja": "会社の最初の事務所はシュトゥットガルトのクローネン通り24番地にありました。今日では、これほど世界的に知られたブランドが比較的小さな事務所から始まったとは想像しにくいものです。",
+          "ko": "회사의 첫 사무실은 슈투트가르트 크로넨슈트라세 24번지에 있었습니다. 오늘날 이렇게 세계적으로 알려진 브랜드가 비교적 작은 사무실로 시작했다는 것을 상상하기는 어렵습니다.",
+          "hi": "कंपनी का पहला कार्यालय स्टुटगार्ट में Kronenstrasse 24 पर था। आज यह कल्पना करना कठिन है कि इतना विश्व प्रसिद्ध ब्रांड अपेक्षाकृत छोटे कार्यालय से शुरू हुआ था।",
+          "ar": "كان أول مكتب للشركة في كروننشتراسه 24 في شتوتغارت. واليوم يصعب تخيل أن علامة عالمية الشهرة كهذه بدأت كمكتب صغير نسبيا."
         },
         "importance": {
           "ru": "Большие бренды часто начинаются с очень конкретного адреса на карте.",
           "de": "Grosse Marken beginnen oft mit einer ganz konkreten Adresse auf der Karte.",
-          "en": "Big brands often begin with a very specific address on the map."
+          "en": "Big brands often begin with a very specific address on the map.",
+          "fr": "Les grandes marques commencent souvent par une adresse très précise sur la carte.",
+          "es": "Las grandes marcas suelen empezar con una dirección muy concreta en el mapa.",
+          "it": "I grandi marchi spesso iniziano con un indirizzo molto preciso sulla carta.",
+          "pt": "As grandes marcas muitas vezes começam com um endereço muito concreto no mapa.",
+          "nl": "Grote merken beginnen vaak met een heel concreet adres op de kaart.",
+          "pl": "Wielkie marki często zaczynają się od bardzo konkretnego adresu na mapie.",
+          "tr": "Büyük markalar çoğu zaman haritadaki çok belirli bir adresle başlar.",
+          "zh": "大品牌常常从地图上一个非常具体的地址开始。",
+          "ja": "大きなブランドは、地図上のとても具体的な住所から始まることがよくあります。",
+          "ko": "큰 브랜드는 지도 위의 아주 구체적인 주소에서 시작하는 경우가 많습니다.",
+          "hi": "बड़े ब्रांड अक्सर नक्शे पर एक बहुत ठोस पते से शुरू होते हैं।",
+          "ar": "غالبا ما تبدأ العلامات الكبيرة بعنوان محدد جدا على الخريطة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Название Porsche долго было связано не только с собственными машинами, но и с инженерными разработками для других компаний.",
     "de": "Der Name Porsche war lange nicht nur mit eigenen Autos, sondern auch mit Entwicklungsarbeit fuer andere Unternehmen verbunden.",
-    "en": "For a long time, the Porsche name was linked not only with its own cars but also with engineering work for other companies."
+    "en": "For a long time, the Porsche name was linked not only with its own cars but also with engineering work for other companies.",
+    "fr": "Pendant longtemps, le nom Porsche fut lié non seulement à ses propres voitures, mais aussi au travail d'ingénierie pour d'autres entreprises.",
+    "es": "Durante mucho tiempo, el nombre Porsche estuvo vinculado no solo a sus propios coches, sino también al trabajo de ingeniería para otras empresas.",
+    "it": "Per molto tempo il nome Porsche fu legato non solo alle proprie auto, ma anche a lavori di ingegneria per altre aziende.",
+    "pt": "Durante muito tempo, o nome Porsche esteve ligado não só aos seus próprios carros, mas também a trabalhos de engenharia para outras empresas.",
+    "nl": "Lange tijd was de naam Porsche niet alleen verbonden met eigen auto's, maar ook met ontwikkelingswerk voor andere bedrijven.",
+    "pl": "Przez długi czas nazwa Porsche wiązała się nie tylko z własnymi samochodami, lecz także z pracami inżynieryjnymi dla innych firm.",
+    "tr": "Porsche adı uzun süre yalnızca kendi otomobilleriyle değil, başka şirketler için yapılan mühendislik çalışmalarıyla da bağlantılıydı.",
+    "zh": "很长一段时间里，保时捷这个名字不仅与自家汽车有关，也与为其他公司进行的工程开发有关。",
+    "ja": "長い間、ポルシェの名は自社の車だけでなく、他社のためのエンジニアリング業務とも結びついていました。",
+    "ko": "오랫동안 포르쉐라는 이름은 자체 자동차뿐 아니라 다른 회사를 위한 엔지니어링 작업과도 연결되어 있었습니다.",
+    "hi": "लंबे समय तक पोर्शे नाम केवल अपनी कारों से नहीं, बल्कि दूसरी कंपनियों के लिए इंजीनियरिंग कार्य से भी जुड़ा रहा।",
+    "ar": "ارتبط اسم بورشه لفترة طويلة ليس بسياراتها الخاصة فقط، بل أيضا بأعمال هندسية لشركات أخرى."
   },
   "sources": [
     {
