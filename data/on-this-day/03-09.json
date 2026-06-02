@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия объявила войну Португалии",
       "de": "Deutschland erklaert Portugal den Krieg",
-      "en": "Germany declares war on Portugal"
+      "en": "Germany declares war on Portugal",
+      "fr": "L'Allemagne déclare la guerre au Portugal",
+      "es": "Alemania declara la guerra a Portugal",
+      "it": "La Germania dichiara guerra al Portogallo",
+      "pt": "A Alemanha declara guerra a Portugal",
+      "nl": "Duitsland verklaart Portugal de oorlog",
+      "pl": "Niemcy wypowiadają wojnę Portugalii",
+      "tr": "Almanya Portekiz'e savaş ilan etti",
+      "zh": "德国向葡萄牙宣战",
+      "ja": "ドイツがポルトガルに宣戦布告する",
+      "ko": "독일이 포르투갈에 선전포고하다",
+      "hi": "जर्मनी ने पुर्तगाल पर युद्ध की घोषणा की",
+      "ar": "ألمانيا تعلن الحرب على البرتغال"
     },
     "description": {
       "ru": "9 марта 1916 года Германская империя объявила войну Португалии. Поводом стало изъятие немецких судов, находившихся в португальских портах.",
       "de": "Am 9. Maerz 1916 erklaerte das Deutsche Reich Portugal den Krieg. Anlass war die Beschlagnahme deutscher Schiffe in portugiesischen Haefen.",
-      "en": "On 9 March 1916, the German Empire declared war on Portugal. The trigger was the seizure of German ships in Portuguese ports."
+      "en": "On 9 March 1916, the German Empire declared war on Portugal. The trigger was the seizure of German ships in Portuguese ports.",
+      "fr": "Le 9 mars 1916, l'Empire allemand déclara la guerre au Portugal. Le déclencheur fut la saisie de navires allemands dans des ports portugais.",
+      "es": "El 9 de marzo de 1916, el Imperio alemán declaró la guerra a Portugal. El detonante fue la incautación de barcos alemanes en puertos portugueses.",
+      "it": "Il 9 marzo 1916 l'Impero tedesco dichiarò guerra al Portogallo. Il motivo fu il sequestro di navi tedesche nei porti portoghesi.",
+      "pt": "Em 9 de março de 1916, o Império Alemão declarou guerra a Portugal. O motivo foi a apreensão de navios alemães em portos portugueses.",
+      "nl": "Op 9 maart 1916 verklaarde het Duitse Keizerrijk Portugal de oorlog. De aanleiding was de inbeslagname van Duitse schepen in Portugese havens.",
+      "pl": "9 marca 1916 roku Cesarstwo Niemieckie wypowiedziało wojnę Portugalii. Powodem było zajęcie niemieckich statków w portugalskich portach.",
+      "tr": "9 Mart 1916'da Alman İmparatorluğu Portekiz'e savaş ilan etti. Gerekçe, Portekiz limanlarındaki Alman gemilerine el konulmasıydı.",
+      "zh": "1916年3月9日，德意志帝国向葡萄牙宣战。导火索是葡萄牙港口扣押德国船只。",
+      "ja": "1916年3月9日、ドイツ帝国はポルトガルに宣戦布告しました。きっかけは、ポルトガルの港にあったドイツ船の差し押さえでした。",
+      "ko": "1916년 3월 9일, 독일 제국은 포르투갈에 선전포고했습니다. 계기는 포르투갈 항구에 있던 독일 선박의 압류였습니다.",
+      "hi": "9 मार्च 1916 को जर्मन साम्राज्य ने पुर्तगाल पर युद्ध की घोषणा की। कारण पुर्तगाली बंदरगाहों में मौजूद जर्मन जहाजों की जब्ती था।",
+      "ar": "في 9 مارس 1916 أعلنت الإمبراطورية الألمانية الحرب على البرتغال. وكان السبب المباشر مصادرة سفن ألمانية في موانئ برتغالية."
     },
     "importance": {
       "ru": "Событие показывает, как мировая война втягивала в конфликт всё новые страны из-за морской торговли, колоний и союзов.",
       "de": "Das Ereignis zeigt, wie der Weltkrieg durch Seehandel, Kolonien und Buendnisse immer weitere Staaten in den Konflikt hineinzog.",
-      "en": "The event shows how the world war drew more countries into conflict through sea trade, colonies and alliances."
+      "en": "The event shows how the world war drew more countries into conflict through sea trade, colonies and alliances.",
+      "fr": "L'événement montre comment la guerre mondiale entraînait toujours plus de pays dans le conflit à travers le commerce maritime, les colonies et les alliances.",
+      "es": "El acontecimiento muestra cómo la guerra mundial arrastraba a más países al conflicto a través del comercio marítimo, las colonias y las alianzas.",
+      "it": "L'evento mostra come la guerra mondiale trascinasse sempre più paesi nel conflitto attraverso commercio marittimo, colonie e alleanze.",
+      "pt": "O acontecimento mostra como a guerra mundial arrastava cada vez mais países para o conflito através do comércio marítimo, das colónias e das alianças.",
+      "nl": "De gebeurtenis laat zien hoe de wereldoorlog via zeehandel, koloniën en bondgenootschappen steeds meer landen in het conflict trok.",
+      "pl": "Wydarzenie pokazuje, jak wojna światowa wciągała w konflikt kolejne państwa poprzez handel morski, kolonie i sojusze.",
+      "tr": "Bu olay, dünya savaşının deniz ticareti, koloniler ve ittifaklar yoluyla giderek daha fazla ülkeyi çatışmaya çektiğini gösterir.",
+      "zh": "这一事件显示，世界大战如何通过海上贸易、殖民地和联盟把越来越多国家卷入冲突。",
+      "ja": "この出来事は、世界大戦が海上貿易、植民地、同盟を通じてさらに多くの国を紛争に巻き込んでいったことを示しています。",
+      "ko": "이 사건은 세계대전이 해상 무역, 식민지, 동맹을 통해 더 많은 나라를 분쟁으로 끌어들였음을 보여 줍니다.",
+      "hi": "यह घटना दिखाती है कि समुद्री व्यापार, उपनिवेशों और गठबंधनों के कारण विश्व युद्ध कैसे और देशों को संघर्ष में खींचता गया।",
+      "ar": "يُظهر هذا الحدث كيف جذبت الحرب العالمية دولا جديدة إلى الصراع عبر التجارة البحرية والمستعمرات والتحالفات."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Португалия входит в войну",
           "de": "Portugal tritt in den Krieg ein",
-          "en": "Portugal enters the war"
+          "en": "Portugal enters the war",
+          "fr": "Le Portugal entre en guerre",
+          "es": "Portugal entra en la guerra",
+          "it": "Il Portogallo entra in guerra",
+          "pt": "Portugal entra na guerra",
+          "nl": "Portugal treedt toe tot de oorlog",
+          "pl": "Portugalia wchodzi do wojny",
+          "tr": "Portekiz savaşa giriyor",
+          "zh": "葡萄牙参战",
+          "ja": "ポルトガルが参戦する",
+          "ko": "포르투갈이 전쟁에 참전하다",
+          "hi": "पुर्तगाल युद्ध में शामिल हुआ",
+          "ar": "البرتغال تدخل الحرب"
         },
         "description": {
           "ru": "Португалия уже была связана с Великобританией союзом и имела колонии в Африке, где напряжение с Германией существовало с 1914 года. После объявления войны конфликт стал официальным и в Европе.",
           "de": "Portugal war bereits mit Grossbritannien verbuendet und besass Kolonien in Afrika, wo seit 1914 Spannungen mit Deutschland bestanden. Nach der Kriegserklaerung wurde der Konflikt auch in Europa offiziell.",
-          "en": "Portugal was already allied with Britain and had colonies in Africa, where tensions with Germany had existed since 1914. After the declaration of war, the conflict became official in Europe as well."
+          "en": "Portugal was already allied with Britain and had colonies in Africa, where tensions with Germany had existed since 1914. After the declaration of war, the conflict became official in Europe as well.",
+          "fr": "Le Portugal était déjà allié à la Grande-Bretagne et possédait des colonies en Afrique, où des tensions avec l'Allemagne existaient depuis 1914. Après la déclaration de guerre, le conflit devint officiel aussi en Europe.",
+          "es": "Portugal ya estaba aliado con Gran Bretaña y tenía colonias en África, donde existían tensiones con Alemania desde 1914. Tras la declaración de guerra, el conflicto se hizo oficial también en Europa.",
+          "it": "Il Portogallo era già alleato della Gran Bretagna e possedeva colonie in Africa, dove dal 1914 esistevano tensioni con la Germania. Dopo la dichiarazione di guerra, il conflitto divenne ufficiale anche in Europa.",
+          "pt": "Portugal já era aliado da Grã-Bretanha e tinha colónias em África, onde existiam tensões com a Alemanha desde 1914. Depois da declaração de guerra, o conflito tornou-se oficial também na Europa.",
+          "nl": "Portugal was al verbonden met Groot-Brittannië en had koloniën in Afrika, waar sinds 1914 spanningen met Duitsland bestonden. Na de oorlogsverklaring werd het conflict ook in Europa officieel.",
+          "pl": "Portugalia była już związana sojuszem z Wielką Brytanią i miała kolonie w Afryce, gdzie od 1914 roku istniały napięcia z Niemcami. Po wypowiedzeniu wojny konflikt stał się oficjalny także w Europie.",
+          "tr": "Portekiz zaten Britanya ile müttefikti ve Afrika'da kolonileri vardı; Almanya ile gerginlikler 1914'ten beri orada mevcuttu. Savaş ilanından sonra çatışma Avrupa'da da resmi hale geldi.",
+          "zh": "葡萄牙已经与英国结盟，并在非洲拥有殖民地，那里自1914年以来就与德国存在紧张关系。宣战后，冲突在欧洲也正式化。",
+          "ja": "ポルトガルはすでにイギリスと同盟関係にあり、アフリカに植民地を持っていました。そこでは1914年からドイツとの緊張がありました。宣戦布告後、その紛争はヨーロッパでも公式なものとなりました。",
+          "ko": "포르투갈은 이미 영국과 동맹 관계였고 아프리카에 식민지를 가지고 있었으며, 그곳에서는 1914년부터 독일과의 긴장이 있었습니다. 선전포고 이후 갈등은 유럽에서도 공식화되었습니다.",
+          "hi": "पुर्तगाल पहले से ब्रिटेन का सहयोगी था और अफ्रीका में उसके उपनिवेश थे, जहाँ 1914 से जर्मनी के साथ तनाव मौजूद था। युद्ध घोषणा के बाद संघर्ष यूरोप में भी आधिकारिक हो गया।",
+          "ar": "كانت البرتغال متحالفة بالفعل مع بريطانيا ولديها مستعمرات في إفريقيا حيث وُجد توتر مع ألمانيا منذ عام 1914. وبعد إعلان الحرب أصبح الصراع رسميا في أوروبا أيضا."
         },
         "importance": {
           "ru": "Так видно, что Первая мировая война была действительно глобальной, а не только европейской.",
           "de": "So wird sichtbar, dass der Erste Weltkrieg wirklich global war und nicht nur europaeisch.",
-          "en": "This shows that the First World War was truly global, not only European."
+          "en": "This shows that the First World War was truly global, not only European.",
+          "fr": "Cela montre que la Première Guerre mondiale était vraiment mondiale, et pas seulement européenne.",
+          "es": "Esto muestra que la Primera Guerra Mundial fue verdaderamente global, no solo europea.",
+          "it": "Questo mostra che la Prima guerra mondiale fu davvero globale, non solo europea.",
+          "pt": "Isto mostra que a Primeira Guerra Mundial foi verdadeiramente global, não apenas europeia.",
+          "nl": "Dit laat zien dat de Eerste Wereldoorlog werkelijk mondiaal was en niet alleen Europees.",
+          "pl": "Pokazuje to, że pierwsza wojna światowa była naprawdę globalna, a nie tylko europejska.",
+          "tr": "Bu, Birinci Dünya Savaşı'nın yalnızca Avrupa'ya ait değil, gerçekten küresel olduğunu gösterir.",
+          "zh": "这表明第一次世界大战确实是全球性的，而不仅仅是欧洲战争。",
+          "ja": "これは、第一次世界大戦がヨーロッパだけでなく本当に世界的な戦争であったことを示しています。",
+          "ko": "이는 제1차 세계대전이 유럽만의 전쟁이 아니라 진정한 세계 전쟁이었음을 보여 줍니다.",
+          "hi": "इससे दिखता है कि प्रथम विश्व युद्ध सचमुच वैश्विक था, केवल यूरोपीय नहीं।",
+          "ar": "يوضح ذلك أن الحرب العالمية الأولى كانت عالمية حقا، لا أوروبية فقط."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Война из-за кораблей",
           "de": "Krieg wegen Schiffen",
-          "en": "War over ships"
+          "en": "War over ships",
+          "fr": "Une guerre à cause de navires",
+          "es": "Guerra por barcos",
+          "it": "Guerra per le navi",
+          "pt": "Guerra por causa de navios",
+          "nl": "Oorlog om schepen",
+          "pl": "Wojna z powodu statków",
+          "tr": "Gemiler yüzünden savaş",
+          "zh": "因船只而起的战争",
+          "ja": "船をめぐる戦争",
+          "ko": "선박을 둘러싼 전쟁",
+          "hi": "जहाजों को लेकर युद्ध",
+          "ar": "حرب بسبب السفن"
         },
         "description": {
           "ru": "Причиной резкого обострения стали не сражения на фронте, а торговые суда, стоявшие в портах. В большой войне даже корабли у причала могли стать политическим оружием.",
           "de": "Der unmittelbare Ausloeser waren keine Frontkaempfe, sondern Handelsschiffe in Haefen. In einem grossen Krieg konnten selbst Schiffe am Kai zu politischen Waffen werden.",
-          "en": "The immediate trigger was not a battle at the front, but merchant ships in ports. In a great war, even ships at the quay could become political weapons."
+          "en": "The immediate trigger was not a battle at the front, but merchant ships in ports. In a great war, even ships at the quay could become political weapons.",
+          "fr": "Le déclencheur immédiat ne fut pas une bataille au front, mais des navires marchands dans les ports. Dans une grande guerre, même des navires à quai pouvaient devenir des armes politiques.",
+          "es": "El detonante inmediato no fue una batalla en el frente, sino barcos mercantes en los puertos. En una gran guerra, incluso los barcos amarrados podían convertirse en armas políticas.",
+          "it": "Il fattore immediato non furono battaglie al fronte, ma navi mercantili nei porti. In una grande guerra, anche le navi alla banchina potevano diventare armi politiche.",
+          "pt": "O motivo imediato não foram batalhas na frente, mas navios mercantes nos portos. Numa grande guerra, até navios no cais podiam tornar-se armas políticas.",
+          "nl": "De directe aanleiding waren geen gevechten aan het front, maar handelsschepen in havens. In een grote oorlog konden zelfs schepen aan de kade politieke wapens worden.",
+          "pl": "Bezpośrednią przyczyną nie były walki na froncie, lecz statki handlowe w portach. W wielkiej wojnie nawet statki przy nabrzeżu mogły stać się bronią polityczną.",
+          "tr": "Doğrudan tetikleyici cephedeki bir savaş değil, limanlardaki ticaret gemileriydi. Büyük bir savaşta rıhtımdaki gemiler bile siyasi silaha dönüşebilirdi.",
+          "zh": "直接导火索不是前线战斗，而是港口中的商船。在大战中，即使停靠码头的船只也可能成为政治武器。",
+          "ja": "直接のきっかけは前線での戦闘ではなく、港にあった商船でした。大きな戦争では、埠頭の船でさえ政治的な武器になり得ました。",
+          "ko": "직접적인 계기는 전선의 전투가 아니라 항구에 있던 상선이었습니다. 큰 전쟁에서는 부두에 정박한 배조차 정치적 무기가 될 수 있었습니다.",
+          "hi": "तत्काल कारण मोर्चे की लड़ाई नहीं, बल्कि बंदरगाहों में खड़े व्यापारिक जहाज थे। बड़े युद्ध में घाट पर खड़े जहाज भी राजनीतिक हथियार बन सकते थे।",
+          "ar": "لم يكن السبب المباشر معركة على الجبهة، بل سفنا تجارية في الموانئ. ففي حرب كبرى يمكن حتى للسفن الراسية عند الرصيف أن تصبح أسلحة سياسية."
         },
         "importance": {
           "ru": "Это необычная деталь, которая помогает понять экономическую сторону войны.",
           "de": "Dieses ungewoehnliche Detail hilft, die wirtschaftliche Seite des Krieges zu verstehen.",
-          "en": "This unusual detail helps explain the economic side of the war."
+          "en": "This unusual detail helps explain the economic side of the war.",
+          "fr": "Ce détail inhabituel aide à comprendre le côté économique de la guerre.",
+          "es": "Este detalle inusual ayuda a entender el lado económico de la guerra.",
+          "it": "Questo dettaglio insolito aiuta a capire il lato economico della guerra.",
+          "pt": "Este detalhe invulgar ajuda a compreender o lado económico da guerra.",
+          "nl": "Dit ongebruikelijke detail helpt de economische kant van de oorlog te begrijpen.",
+          "pl": "Ten niezwykły szczegół pomaga zrozumieć gospodarczą stronę wojny.",
+          "tr": "Bu sıra dışı ayrıntı savaşın ekonomik yönünü anlamaya yardımcı olur.",
+          "zh": "这个不同寻常的细节有助于理解战争的经济面。",
+          "ja": "この珍しい細部は、戦争の経済的側面を理解する助けになります。",
+          "ko": "이 독특한 세부 사항은 전쟁의 경제적 측면을 이해하는 데 도움이 됩니다.",
+          "hi": "यह असामान्य विवरण युद्ध के आर्थिक पक्ष को समझने में मदद करता है।",
+          "ar": "يساعد هذا التفصيل غير المعتاد على فهم الجانب الاقتصادي من الحرب."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Национальные архивы Великобритании также связывают объявление войны с изъятием немецких судов в Португалии.",
     "de": "Auch die britischen National Archives verbinden die Kriegserklaerung mit der Beschlagnahme deutscher Schiffe in Portugal.",
-    "en": "The UK National Archives also link the declaration of war to the seizure of German ships in Portugal."
+    "en": "The UK National Archives also link the declaration of war to the seizure of German ships in Portugal.",
+    "fr": "Les National Archives britanniques relient aussi la déclaration de guerre à la saisie de navires allemands au Portugal.",
+    "es": "Los Archivos Nacionales del Reino Unido también relacionan la declaración de guerra con la incautación de barcos alemanes en Portugal.",
+    "it": "I National Archives britannici collegano anche la dichiarazione di guerra al sequestro di navi tedesche in Portogallo.",
+    "pt": "Os National Archives do Reino Unido também ligam a declaração de guerra à apreensão de navios alemães em Portugal.",
+    "nl": "De Britse National Archives verbinden de oorlogsverklaring ook met de inbeslagname van Duitse schepen in Portugal.",
+    "pl": "Brytyjskie National Archives również łączą wypowiedzenie wojny z zajęciem niemieckich statków w Portugalii.",
+    "tr": "Birleşik Krallık Ulusal Arşivleri de savaş ilanını Portekiz'deki Alman gemilerine el konulmasıyla ilişkilendirir.",
+    "zh": "英国国家档案馆也将宣战与葡萄牙扣押德国船只联系起来。",
+    "ja": "イギリス国立公文書館も、宣戦布告をポルトガルでのドイツ船差し押さえと結びつけています。",
+    "ko": "영국 국립문서보관소도 선전포고를 포르투갈 내 독일 선박 압류와 연결합니다.",
+    "hi": "ब्रिटेन के राष्ट्रीय अभिलेखागार भी युद्ध घोषणा को पुर्तगाल में जर्मन जहाजों की जब्ती से जोड़ते हैं।",
+    "ar": "تربط الأرشيفات الوطنية البريطانية أيضا إعلان الحرب بمصادرة السفن الألمانية في البرتغال."
   },
   "sources": [
     {

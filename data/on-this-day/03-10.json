@@ -11,17 +11,53 @@
     "title": {
       "ru": "Deutsche Bank получила банковскую лицензию",
       "de": "Die Deutsche Bank erhaelt ihre Banklizenz",
-      "en": "Deutsche Bank receives its banking license"
+      "en": "Deutsche Bank receives its banking license",
+      "fr": "Deutsche Bank reçoit sa licence bancaire",
+      "es": "Deutsche Bank recibe su licencia bancaria",
+      "it": "Deutsche Bank riceve la licenza bancaria",
+      "pt": "O Deutsche Bank recebe a sua licença bancária",
+      "nl": "Deutsche Bank krijgt haar bankvergunning",
+      "pl": "Deutsche Bank otrzymuje licencję bankową",
+      "tr": "Deutsche Bank bankacılık lisansını aldı",
+      "zh": "德意志银行获得银行牌照",
+      "ja": "ドイツ銀行が銀行免許を受ける",
+      "ko": "도이체방크가 은행 면허를 받다",
+      "hi": "Deutsche Bank को बैंकिंग लाइसेंस मिला",
+      "ar": "دويتشه بنك يحصل على رخصته المصرفية"
     },
     "description": {
       "ru": "10 марта 1870 года прусское правительство выдало лицензию Deutsche Bank. Банк был создан для поддержки внешней торговли и немецкого экспорта.",
       "de": "Am 10. Maerz 1870 erteilte die preussische Regierung der Deutschen Bank die Banklizenz. Die Bank wurde zur Foerderung des Aussenhandels und deutscher Exporte gegruendet.",
-      "en": "On 10 March 1870, the Prussian government granted Deutsche Bank its banking license. The bank was founded to support foreign trade and German exports."
+      "en": "On 10 March 1870, the Prussian government granted Deutsche Bank its banking license. The bank was founded to support foreign trade and German exports.",
+      "fr": "Le 10 mars 1870, le gouvernement prussien accorda à Deutsche Bank sa licence bancaire. La banque fut créée pour soutenir le commerce extérieur et les exportations allemandes.",
+      "es": "El 10 de marzo de 1870, el gobierno prusiano concedió a Deutsche Bank su licencia bancaria. El banco fue creado para apoyar el comercio exterior y las exportaciones alemanas.",
+      "it": "Il 10 marzo 1870 il governo prussiano concesse a Deutsche Bank la licenza bancaria. La banca fu fondata per sostenere il commercio estero e le esportazioni tedesche.",
+      "pt": "Em 10 de março de 1870, o governo prussiano concedeu ao Deutsche Bank a sua licença bancária. O banco foi criado para apoiar o comércio externo e as exportações alemãs.",
+      "nl": "Op 10 maart 1870 verleende de Pruisische regering Deutsche Bank haar bankvergunning. De bank werd opgericht om buitenlandse handel en Duitse export te ondersteunen.",
+      "pl": "10 marca 1870 roku rząd pruski udzielił Deutsche Bank licencji bankowej. Bank powstał, aby wspierać handel zagraniczny i niemiecki eksport.",
+      "tr": "10 Mart 1870'te Prusya hükümeti Deutsche Bank'a bankacılık lisansı verdi. Bank dış ticareti ve Alman ihracatını desteklemek için kuruldu.",
+      "zh": "1870年3月10日，普鲁士政府向德意志银行颁发银行牌照。该银行成立的目的是支持对外贸易和德国出口。",
+      "ja": "1870年3月10日、プロイセン政府はドイツ銀行に銀行免許を与えました。この銀行は対外貿易とドイツの輸出を支援するために設立されました。",
+      "ko": "1870년 3월 10일, 프로이센 정부는 도이체방크에 은행 면허를 부여했습니다. 이 은행은 대외 무역과 독일 수출을 지원하기 위해 설립되었습니다.",
+      "hi": "10 मार्च 1870 को प्रशियाई सरकार ने Deutsche Bank को बैंकिंग लाइसेंस दिया। बैंक की स्थापना विदेशी व्यापार और जर्मन निर्यात को समर्थन देने के लिए हुई थी।",
+      "ar": "في 10 مارس 1870 منحت الحكومة البروسية دويتشه بنك رخصته المصرفية. أُسس البنك لدعم التجارة الخارجية والصادرات الألمانية."
     },
     "importance": {
       "ru": "Дата показывает, как финансовые институты сопровождали экономический подъём Германии XIX века.",
       "de": "Das Datum zeigt, wie Finanzinstitutionen den wirtschaftlichen Aufstieg Deutschlands im 19. Jahrhundert begleiteten.",
-      "en": "The date shows how financial institutions accompanied Germany's economic rise in the nineteenth century."
+      "en": "The date shows how financial institutions accompanied Germany's economic rise in the nineteenth century.",
+      "fr": "Cette date montre comment les institutions financières ont accompagné l'essor économique de l'Allemagne au XIXe siècle.",
+      "es": "La fecha muestra cómo las instituciones financieras acompañaron el ascenso económico de Alemania en el siglo XIX.",
+      "it": "La data mostra come le istituzioni finanziarie accompagnarono l'ascesa economica della Germania nel XIX secolo.",
+      "pt": "A data mostra como as instituições financeiras acompanharam a ascensão económica da Alemanha no século XIX.",
+      "nl": "Deze datum laat zien hoe financiële instellingen de economische opkomst van Duitsland in de negentiende eeuw begeleidden.",
+      "pl": "Ta data pokazuje, jak instytucje finansowe towarzyszyły gospodarczemu wzrostowi Niemiec w XIX wieku.",
+      "tr": "Bu tarih, finans kurumlarının 19. yüzyılda Almanya'nın ekonomik yükselişine nasıl eşlik ettiğini gösterir.",
+      "zh": "这个日期显示了金融机构如何伴随19世纪德国经济崛起。",
+      "ja": "この日付は、金融機関が19世紀ドイツの経済的台頭にどのように伴ったかを示しています。",
+      "ko": "이 날짜는 금융 기관들이 19세기 독일의 경제적 부상과 어떻게 함께했는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि वित्तीय संस्थान उन्नीसवीं सदी में जर्मनी के आर्थिक उभार के साथ कैसे जुड़े थे।",
+      "ar": "يبين هذا التاريخ كيف رافقت المؤسسات المالية صعود ألمانيا الاقتصادي في القرن التاسع عشر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Банк для мировой торговли",
           "de": "Eine Bank fuer den Welthandel",
-          "en": "A bank for world trade"
+          "en": "A bank for world trade",
+          "fr": "Une banque pour le commerce mondial",
+          "es": "Un banco para el comercio mundial",
+          "it": "Una banca per il commercio mondiale",
+          "pt": "Um banco para o comércio mundial",
+          "nl": "Een bank voor wereldhandel",
+          "pl": "Bank dla handlu światowego",
+          "tr": "Dünya ticareti için bir banka",
+          "zh": "面向世界贸易的银行",
+          "ja": "世界貿易のための銀行",
+          "ko": "세계 무역을 위한 은행",
+          "hi": "विश्व व्यापार के लिए बैंक",
+          "ar": "بنك للتجارة العالمية"
         },
         "description": {
           "ru": "Немецким компаниям нужны были финансовые связи за границей. Deutsche Bank стала частью этой новой инфраструктуры промышленной экономики.",
           "de": "Deutsche Unternehmen brauchten Finanzverbindungen ins Ausland. Die Deutsche Bank wurde Teil dieser neuen Infrastruktur der Industriewirtschaft.",
-          "en": "German companies needed financial links abroad. Deutsche Bank became part of the new infrastructure of the industrial economy."
+          "en": "German companies needed financial links abroad. Deutsche Bank became part of the new infrastructure of the industrial economy.",
+          "fr": "Les entreprises allemandes avaient besoin de liens financiers à l'étranger. Deutsche Bank devint une partie de cette nouvelle infrastructure de l'économie industrielle.",
+          "es": "Las empresas alemanas necesitaban vínculos financieros en el extranjero. Deutsche Bank se convirtió en parte de esta nueva infraestructura de la economía industrial.",
+          "it": "Le aziende tedesche avevano bisogno di collegamenti finanziari all'estero. Deutsche Bank divenne parte di questa nuova infrastruttura dell'economia industriale.",
+          "pt": "As empresas alemãs precisavam de ligações financeiras no estrangeiro. O Deutsche Bank tornou-se parte desta nova infraestrutura da economia industrial.",
+          "nl": "Duitse bedrijven hadden financiële verbindingen met het buitenland nodig. Deutsche Bank werd deel van deze nieuwe infrastructuur van de industriële economie.",
+          "pl": "Niemieckie firmy potrzebowały powiązań finansowych za granicą. Deutsche Bank stał się częścią nowej infrastruktury gospodarki przemysłowej.",
+          "tr": "Alman şirketlerinin yurtdışında finansal bağlantılara ihtiyacı vardı. Deutsche Bank, sanayi ekonomisinin bu yeni altyapısının parçası oldu.",
+          "zh": "德国企业需要海外金融联系。德意志银行成为工业经济新基础设施的一部分。",
+          "ja": "ドイツ企業には国外との金融的なつながりが必要でした。ドイツ銀行は産業経済の新しいインフラの一部となりました。",
+          "ko": "독일 기업들은 해외 금융 연결이 필요했습니다. 도이체방크는 산업 경제의 새로운 기반 시설의 일부가 되었습니다.",
+          "hi": "जर्मन कंपनियों को विदेशों में वित्तीय संबंधों की आवश्यकता थी। Deutsche Bank औद्योगिक अर्थव्यवस्था की इस नई संरचना का हिस्सा बन गया।",
+          "ar": "احتاجت الشركات الألمانية إلى روابط مالية في الخارج. وأصبح دويتشه بنك جزءا من هذه البنية التحتية الجديدة للاقتصاد الصناعي."
         },
         "importance": {
           "ru": "Экономическая история здесь напрямую связана с политическим объединением и экспортом.",
           "de": "Wirtschaftsgeschichte ist hier direkt mit politischer Einigung und Export verbunden.",
-          "en": "Economic history here is directly linked with political unification and exports."
+          "en": "Economic history here is directly linked with political unification and exports.",
+          "fr": "L'histoire économique est ici directement liée à l'unification politique et aux exportations.",
+          "es": "La historia económica aquí está directamente vinculada con la unificación política y las exportaciones.",
+          "it": "La storia economica qui è direttamente collegata all'unificazione politica e alle esportazioni.",
+          "pt": "A história económica está aqui diretamente ligada à unificação política e às exportações.",
+          "nl": "Economische geschiedenis is hier rechtstreeks verbonden met politieke eenwording en export.",
+          "pl": "Historia gospodarcza jest tu bezpośrednio związana ze zjednoczeniem politycznym i eksportem.",
+          "tr": "Ekonomik tarih burada siyasi birleşme ve ihracatla doğrudan bağlantılıdır.",
+          "zh": "这里的经济史与政治统一和出口直接相关。",
+          "ja": "ここでの経済史は、政治的統一と輸出に直接結びついています。",
+          "ko": "여기서 경제사는 정치적 통일과 수출과 직접 연결되어 있습니다.",
+          "hi": "यहाँ आर्थिक इतिहास राजनीतिक एकीकरण और निर्यात से सीधे जुड़ा है।",
+          "ar": "يرتبط التاريخ الاقتصادي هنا مباشرة بالوحدة السياسية والصادرات."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Deutsche Bank была основана в Берлине, а с 1957 года её штаб-квартира находится во Франкфурте-на-Майне.",
     "de": "Die Deutsche Bank wurde in Berlin gegruendet; seit 1957 befindet sich ihr Sitz in Frankfurt am Main.",
-    "en": "Deutsche Bank was founded in Berlin; since 1957 its headquarters have been in Frankfurt am Main."
+    "en": "Deutsche Bank was founded in Berlin; since 1957 its headquarters have been in Frankfurt am Main.",
+    "fr": "Deutsche Bank fut fondée à Berlin; depuis 1957, son siège se trouve à Francfort-sur-le-Main.",
+    "es": "Deutsche Bank fue fundada en Berlín; desde 1957 su sede está en Fráncfort del Meno.",
+    "it": "Deutsche Bank fu fondata a Berlino; dal 1957 la sua sede si trova a Francoforte sul Meno.",
+    "pt": "O Deutsche Bank foi fundado em Berlim; desde 1957 a sua sede fica em Frankfurt am Main.",
+    "nl": "Deutsche Bank werd opgericht in Berlijn; sinds 1957 bevindt het hoofdkantoor zich in Frankfurt am Main.",
+    "pl": "Deutsche Bank został założony w Berlinie; od 1957 roku jego siedziba znajduje się we Frankfurcie nad Menem.",
+    "tr": "Deutsche Bank Berlin'de kuruldu; 1957'den beri merkezi Frankfurt am Main'dedir.",
+    "zh": "德意志银行创立于柏林；自1957年以来，总部设在法兰克福。",
+    "ja": "ドイツ銀行はベルリンで設立され、1957年以降、本社はフランクフルト・アム・マインにあります。",
+    "ko": "도이체방크는 베를린에서 설립되었고, 1957년부터 본사는 프랑크푸르트암마인에 있습니다.",
+    "hi": "Deutsche Bank की स्थापना बर्लिन में हुई थी; 1957 से इसका मुख्यालय फ्रैंकफर्ट अम माइन में है।",
+    "ar": "تأسس دويتشه بنك في برلين؛ ومنذ عام 1957 يقع مقره الرئيسي في فرانكفورت أم ماين."
   },
   "sources": [
     {

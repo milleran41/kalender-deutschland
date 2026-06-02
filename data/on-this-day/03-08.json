@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Отто Ган",
       "de": "Otto Hahn wird geboren",
-      "en": "Otto Hahn is born"
+      "en": "Otto Hahn is born",
+      "fr": "Naissance d'Otto Hahn",
+      "es": "Nace Otto Hahn",
+      "it": "Nasce Otto Hahn",
+      "pt": "Nasce Otto Hahn",
+      "nl": "Otto Hahn wordt geboren",
+      "pl": "Urodził się Otto Hahn",
+      "tr": "Otto Hahn doğdu",
+      "zh": "奥托·哈恩出生",
+      "ja": "オットー・ハーンが生まれる",
+      "ko": "오토 한이 태어나다",
+      "hi": "ओटो हान का जन्म हुआ",
+      "ar": "ولادة أوتو هان"
     },
     "description": {
       "ru": "8 марта 1879 года во Франкфурте-на-Майне родился химик Отто Ган. Он получил Нобелевскую премию по химии и связан с открытием ядерного деления.",
       "de": "Am 8. Maerz 1879 wurde der Chemiker Otto Hahn in Frankfurt am Main geboren. Er erhielt den Nobelpreis fuer Chemie und ist mit der Entdeckung der Kernspaltung verbunden.",
-      "en": "On 8 March 1879, chemist Otto Hahn was born in Frankfurt am Main. He received the Nobel Prize in Chemistry and is linked with the discovery of nuclear fission."
+      "en": "On 8 March 1879, chemist Otto Hahn was born in Frankfurt am Main. He received the Nobel Prize in Chemistry and is linked with the discovery of nuclear fission.",
+      "fr": "Le 8 mars 1879, le chimiste Otto Hahn naquit à Francfort-sur-le-Main. Il reçut le prix Nobel de chimie et est lié à la découverte de la fission nucléaire.",
+      "es": "El 8 de marzo de 1879 nació en Fráncfort del Meno el químico Otto Hahn. Recibió el Premio Nobel de Química y está vinculado con el descubrimiento de la fisión nuclear.",
+      "it": "L'8 marzo 1879 il chimico Otto Hahn nacque a Francoforte sul Meno. Ricevette il premio Nobel per la chimica ed è legato alla scoperta della fissione nucleare.",
+      "pt": "Em 8 de março de 1879, o químico Otto Hahn nasceu em Frankfurt am Main. Recebeu o Prémio Nobel da Química e está ligado à descoberta da fissão nuclear.",
+      "nl": "Op 8 maart 1879 werd chemicus Otto Hahn geboren in Frankfurt am Main. Hij ontving de Nobelprijs voor Scheikunde en is verbonden met de ontdekking van kernsplijting.",
+      "pl": "8 marca 1879 roku we Frankfurcie nad Menem urodził się chemik Otto Hahn. Otrzymał Nagrodę Nobla w dziedzinie chemii i jest związany z odkryciem rozszczepienia jądra atomowego.",
+      "tr": "8 Mart 1879'da kimyager Otto Hahn Frankfurt am Main'de doğdu. Kimya dalında Nobel Ödülü aldı ve nükleer fisyonun keşfiyle bağlantılıdır.",
+      "zh": "1879年3月8日，化学家奥托·哈恩出生于法兰克福。他获得了诺贝尔化学奖，并与核裂变的发现有关。",
+      "ja": "1879年3月8日、化学者オットー・ハーンはフランクフルト・アム・マインで生まれました。彼はノーベル化学賞を受賞し、核分裂の発見と結びついています。",
+      "ko": "1879년 3월 8일, 화학자 오토 한이 프랑크푸르트암마인에서 태어났습니다. 그는 노벨 화학상을 받았고 핵분열의 발견과 연결되어 있습니다.",
+      "hi": "8 मार्च 1879 को रसायनशास्त्री ओटो हान का जन्म फ्रैंकफर्ट अम माइन में हुआ। उन्हें रसायन विज्ञान का नोबेल पुरस्कार मिला और वे परमाणु विखंडन की खोज से जुड़े हैं।",
+      "ar": "في 8 مارس 1879 وُلد الكيميائي أوتو هان في فرانكفورت أم ماين. حصل على جائزة نوبل في الكيمياء ويرتبط باكتشاف الانشطار النووي."
     },
     "importance": {
       "ru": "Его история показывает силу науки и одновременно ответственность за её последствия.",
       "de": "Seine Geschichte zeigt die Kraft der Wissenschaft und zugleich die Verantwortung fuer ihre Folgen.",
-      "en": "His story shows the power of science and also responsibility for its consequences."
+      "en": "His story shows the power of science and also responsibility for its consequences.",
+      "fr": "Son histoire montre la puissance de la science, mais aussi la responsabilité face à ses conséquences.",
+      "es": "Su historia muestra la fuerza de la ciencia y también la responsabilidad por sus consecuencias.",
+      "it": "La sua storia mostra la forza della scienza e insieme la responsabilità per le sue conseguenze.",
+      "pt": "A sua história mostra o poder da ciência e também a responsabilidade pelas suas consequências.",
+      "nl": "Zijn verhaal laat de kracht van wetenschap zien en tegelijk de verantwoordelijkheid voor de gevolgen ervan.",
+      "pl": "Jego historia pokazuje siłę nauki, a jednocześnie odpowiedzialność za jej skutki.",
+      "tr": "Onun hikayesi bilimin gücünü ve aynı zamanda sonuçlarına karşı sorumluluğu gösterir.",
+      "zh": "他的故事展示了科学的力量，同时也展示了对其后果的责任。",
+      "ja": "彼の物語は科学の力と、その結果に対する責任を同時に示しています。",
+      "ko": "그의 이야기는 과학의 힘과 그 결과에 대한 책임을 함께 보여 줍니다.",
+      "hi": "उनकी कहानी विज्ञान की शक्ति और उसके परिणामों की जिम्मेदारी दोनों दिखाती है।",
+      "ar": "تُظهر قصته قوة العلم وفي الوقت نفسه المسؤولية عن عواقبه."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Открытие ядерного деления",
           "de": "Entdeckung der Kernspaltung",
-          "en": "Discovery of nuclear fission"
+          "en": "Discovery of nuclear fission",
+          "fr": "Découverte de la fission nucléaire",
+          "es": "Descubrimiento de la fisión nuclear",
+          "it": "Scoperta della fissione nucleare",
+          "pt": "Descoberta da fissão nuclear",
+          "nl": "Ontdekking van kernsplijting",
+          "pl": "Odkrycie rozszczepienia jądra atomowego",
+          "tr": "Nükleer fisyonun keşfi",
+          "zh": "核裂变的发现",
+          "ja": "核分裂の発見",
+          "ko": "핵분열의 발견",
+          "hi": "परमाणु विखंडन की खोज",
+          "ar": "اكتشاف الانشطار النووي"
         },
         "description": {
           "ru": "В конце 1938 года эксперименты Гана и Фрица Штрассмана привели к открытию деления атомного ядра. Лиза Мейтнер и Отто Фриш вскоре дали физическое объяснение этому результату.",
           "de": "Ende 1938 fuehrten Experimente von Hahn und Fritz Strassmann zur Entdeckung der Kernspaltung. Lise Meitner und Otto Frisch lieferten kurz darauf die physikalische Deutung.",
-          "en": "In late 1938, experiments by Hahn and Fritz Strassmann led to the discovery of nuclear fission. Lise Meitner and Otto Frisch soon provided the physical explanation."
+          "en": "In late 1938, experiments by Hahn and Fritz Strassmann led to the discovery of nuclear fission. Lise Meitner and Otto Frisch soon provided the physical explanation.",
+          "fr": "À la fin de 1938, les expériences de Hahn et Fritz Strassmann menèrent à la découverte de la fission nucléaire. Lise Meitner et Otto Frisch en donnèrent bientôt l'explication physique.",
+          "es": "A finales de 1938, los experimentos de Hahn y Fritz Strassmann llevaron al descubrimiento de la fisión nuclear. Lise Meitner y Otto Frisch dieron poco después la explicación física.",
+          "it": "Alla fine del 1938, gli esperimenti di Hahn e Fritz Strassmann portarono alla scoperta della fissione nucleare. Lise Meitner e Otto Frisch ne fornirono poco dopo la spiegazione fisica.",
+          "pt": "No fim de 1938, experiências de Hahn e Fritz Strassmann levaram à descoberta da fissão nuclear. Lise Meitner e Otto Frisch forneceram pouco depois a explicação física.",
+          "nl": "Eind 1938 leidden experimenten van Hahn en Fritz Strassmann tot de ontdekking van kernsplijting. Lise Meitner en Otto Frisch gaven kort daarna de natuurkundige verklaring.",
+          "pl": "Pod koniec 1938 roku eksperymenty Hahna i Fritza Strassmanna doprowadziły do odkrycia rozszczepienia jądra atomowego. Lise Meitner i Otto Frisch wkrótce podali fizyczne wyjaśnienie tego wyniku.",
+          "tr": "1938'in sonunda Hahn ve Fritz Strassmann'ın deneyleri nükleer fisyonun keşfine yol açtı. Lise Meitner ve Otto Frisch kısa süre sonra bunun fiziksel açıklamasını yaptı.",
+          "zh": "1938年底，哈恩和弗里茨·施特拉斯曼的实验导致了核裂变的发现。莉泽·迈特纳和奥托·弗里施很快给出了物理解释。",
+          "ja": "1938年末、ハーンとフリッツ・シュトラスマンの実験は核分裂の発見につながりました。リーゼ・マイトナーとオットー・フリッシュはまもなくその物理的説明を示しました。",
+          "ko": "1938년 말, 한과 프리츠 슈트라스만의 실험은 핵분열의 발견으로 이어졌습니다. 리제 마이트너와 오토 프리슈가 곧 그 물리적 설명을 제시했습니다.",
+          "hi": "1938 के अंत में हान और फ़्रिट्ज़ श्ट्रासमान के प्रयोगों से परमाणु विखंडन की खोज हुई। लीज़े माइटनर और ओटो फ्रिश ने जल्द ही इसका भौतिक स्पष्टीकरण दिया।",
+          "ar": "في أواخر عام 1938 أدت تجارب هان وفريتس شتراسمان إلى اكتشاف الانشطار النووي. وقدمت ليزه مايتنر وأوتو فريش بعد ذلك بقليل التفسير الفيزيائي."
         },
         "importance": {
           "ru": "Это открытие изменило энергетику, физику и историю XX века.",
           "de": "Diese Entdeckung veraenderte Energie, Physik und die Geschichte des 20. Jahrhunderts.",
-          "en": "This discovery changed energy, physics and the history of the 20th century."
+          "en": "This discovery changed energy, physics and the history of the 20th century.",
+          "fr": "Cette découverte a changé l'énergie, la physique et l'histoire du XXe siècle.",
+          "es": "Este descubrimiento cambió la energía, la física y la historia del siglo XX.",
+          "it": "Questa scoperta cambiò l'energia, la fisica e la storia del XX secolo.",
+          "pt": "Esta descoberta mudou a energia, a física e a história do século XX.",
+          "nl": "Deze ontdekking veranderde energie, natuurkunde en de geschiedenis van de twintigste eeuw.",
+          "pl": "To odkrycie zmieniło energetykę, fizykę i historię XX wieku.",
+          "tr": "Bu keşif enerjiyi, fiziği ve 20. yüzyıl tarihini değiştirdi.",
+          "zh": "这一发现改变了能源、物理学和20世纪历史。",
+          "ja": "この発見はエネルギー、物理学、20世紀の歴史を変えました。",
+          "ko": "이 발견은 에너지, 물리학, 20세기 역사를 바꾸었습니다.",
+          "hi": "इस खोज ने ऊर्जा, भौतिकी और बीसवीं सदी के इतिहास को बदल दिया।",
+          "ar": "غيّر هذا الاكتشاف الطاقة والفيزياء وتاريخ القرن العشرين."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Отто Ган после войны выступал за ответственное отношение к ядерной науке.",
     "de": "Otto Hahn setzte sich nach dem Krieg fuer einen verantwortlichen Umgang mit der Kernwissenschaft ein.",
-    "en": "After the war, Otto Hahn advocated responsible handling of nuclear science."
+    "en": "After the war, Otto Hahn advocated responsible handling of nuclear science.",
+    "fr": "Après la guerre, Otto Hahn défendit une utilisation responsable de la science nucléaire.",
+    "es": "Después de la guerra, Otto Hahn defendió un manejo responsable de la ciencia nuclear.",
+    "it": "Dopo la guerra, Otto Hahn sostenne un uso responsabile della scienza nucleare.",
+    "pt": "Depois da guerra, Otto Hahn defendeu uma abordagem responsável da ciência nuclear.",
+    "nl": "Na de oorlog pleitte Otto Hahn voor verantwoord omgaan met kernwetenschap.",
+    "pl": "Po wojnie Otto Hahn opowiadał się za odpowiedzialnym podejściem do nauki jądrowej.",
+    "tr": "Savaştan sonra Otto Hahn nükleer bilime sorumlu yaklaşımı savundu.",
+    "zh": "战后，奥托·哈恩主张以负责任的态度对待核科学。",
+    "ja": "戦後、オットー・ハーンは核科学に対する責任ある扱いを訴えました。",
+    "ko": "전후 오토 한은 핵과학을 책임 있게 다루어야 한다고 주장했습니다.",
+    "hi": "युद्ध के बाद ओटो हान ने परमाणु विज्ञान के जिम्मेदार उपयोग की वकालत की।",
+    "ar": "بعد الحرب دعا أوتو هان إلى التعامل المسؤول مع العلم النووي."
   },
   "sources": [
     {
