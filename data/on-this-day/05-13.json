@@ -11,17 +11,53 @@
     "title": {
       "ru": "«Чёрная пятница» на Берлинской бирже",
       "de": "Schwarzer Freitag an der Berliner Boerse",
-      "en": "Black Friday on the Berlin Stock Exchange"
+      "en": "Black Friday on the Berlin Stock Exchange",
+      "fr": "Vendredi noir a la Bourse de Berlin",
+      "es": "Viernes Negro en la Bolsa de Berlin",
+      "it": "Venerdi nero alla Borsa di Berlino",
+      "pt": "Sexta-feira Negra na Bolsa de Berlim",
+      "nl": "Zwarte Vrijdag op de Berlijnse beurs",
+      "pl": "Czarny piatek na gieldzie berlinskiej",
+      "tr": "Berlin Borsasi'nda Kara Cuma",
+      "zh": "柏林证券交易所的黑色星期五",
+      "ja": "ベルリン証券取引所の黒い金曜日",
+      "ko": "베를린 증권거래소의 검은 금요일",
+      "hi": "बर्लिन स्टॉक एक्सचेंज का ब्लैक फ्राइडे",
+      "ar": "الجمعة السوداء في بورصة برلين"
     },
     "description": {
       "ru": "13 мая 1927 года Берлинская биржа пережила резкое падение курсов. День вошёл в историю Веймарской республики как «чёрная пятница».",
       "de": "Am 13. Mai 1927 erlebte die Berliner Boerse einen starken Kurseinbruch. Der Tag ging als Schwarzer Freitag in die Geschichte der Weimarer Republik ein.",
-      "en": "On 13 May 1927, the Berlin Stock Exchange experienced a sharp fall in share prices. The day entered Weimar Republic history as Black Friday."
+      "en": "On 13 May 1927, the Berlin Stock Exchange experienced a sharp fall in share prices. The day entered Weimar Republic history as Black Friday.",
+      "fr": "Le 13 mai 1927, la Bourse de Berlin connut une forte chute des cours. Ce jour entra dans l'histoire de la republique de Weimar comme un vendredi noir.",
+      "es": "El 13 de mayo de 1927, la Bolsa de Berlin sufrio una fuerte caida de las cotizaciones. El dia paso a la historia de la Republica de Weimar como Viernes Negro.",
+      "it": "Il 13 maggio 1927 la Borsa di Berlino subi un brusco crollo dei prezzi delle azioni. Quel giorno entro nella storia della Repubblica di Weimar come Venerdi nero.",
+      "pt": "Em 13 de maio de 1927, a Bolsa de Berlim sofreu uma forte queda das cotacoes. O dia entrou na historia da Republica de Weimar como Sexta-feira Negra.",
+      "nl": "Op 13 mei 1927 kreeg de Berlijnse beurs te maken met een scherpe daling van de aandelenkoersen. De dag ging de geschiedenis van de Weimarrepubliek in als Zwarte Vrijdag.",
+      "pl": "13 maja 1927 roku gielda berlinska przezyla gwaltowny spadek kursow. Dzien przeszedl do historii Republiki Weimarskiej jako Czarny Piatek.",
+      "tr": "13 Mayis 1927'de Berlin Borsasi'nda hisse fiyatlari sert bicimde dustu. Bu gun Weimar Cumhuriyeti tarihine Kara Cuma olarak girdi.",
+      "zh": "1927年5月13日，柏林证券交易所股价急剧下跌。这一天以“黑色星期五”进入魏玛共和国的历史。",
+      "ja": "1927年5月13日、ベルリン証券取引所で株価が急落しました。この日はワイマール共和国の歴史で黒い金曜日として記憶されました。",
+      "ko": "1927년 5월 13일 베를린 증권거래소에서 주가가 급락했습니다. 이 날은 바이마르 공화국 역사에서 검은 금요일로 남았습니다.",
+      "hi": "13 मई 1927 को बर्लिन स्टॉक एक्सचेंज में शेयर मूल्यों में तेज गिरावट आई। यह दिन वाइमर गणराज्य के इतिहास में ब्लैक फ्राइडे के रूप में दर्ज हुआ।",
+      "ar": "في 13 مايو 1927 شهدت بورصة برلين هبوطا حادا في اسعار الاسهم. ودخل ذلك اليوم تاريخ جمهورية فايمار باسم الجمعة السوداء."
     },
     "importance": {
       "ru": "Крах показал, насколько хрупким было восстановление немецкой экономики после гиперинфляции.",
       "de": "Der Einbruch zeigte, wie fragil die Erholung der deutschen Wirtschaft nach der Hyperinflation war.",
-      "en": "The crash showed how fragile Germany's economic recovery after hyperinflation remained."
+      "en": "The crash showed how fragile Germany's economic recovery after hyperinflation remained.",
+      "fr": "Le krach montra combien la reprise economique allemande restait fragile apres l'hyperinflation.",
+      "es": "El desplome mostro lo fragil que seguia siendo la recuperacion economica alemana tras la hiperinflacion.",
+      "it": "Il crollo mostro quanto fosse ancora fragile la ripresa economica tedesca dopo l'iperinflazione.",
+      "pt": "A quebra mostrou como a recuperacao economica da Alemanha apos a hiperinflacao ainda era fragil.",
+      "nl": "De crash liet zien hoe kwetsbaar het Duitse economische herstel na de hyperinflatie nog was.",
+      "pl": "Krach pokazal, jak kruche pozostawalo ozywienie gospodarcze Niemiec po hiperinflacji.",
+      "tr": "Cokus, Almanya'nin hiperenflasyondan sonraki ekonomik toparlanmasinin ne kadar kirilgan kaldigini gosterdi.",
+      "zh": "这次崩盘表明，德国在恶性通货膨胀后的经济复苏仍然十分脆弱。",
+      "ja": "この暴落は、ハイパーインフレ後のドイツ経済の回復がなお脆弱だったことを示しました。",
+      "ko": "이 폭락은 초인플레이션 이후 독일 경제 회복이 여전히 얼마나 취약했는지를 보여 주었습니다.",
+      "hi": "इस गिरावट ने दिखाया कि अति-मुद्रास्फीति के बाद जर्मनी की आर्थिक वापसी अभी भी कितनी नाजुक थी।",
+      "ar": "اظهر الانهيار مدى هشاشة تعافي الاقتصاد الالماني بعد التضخم المفرط."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Финансовая нервозность Веймара",
           "de": "Finanzielle Nervositaet der Weimarer Zeit",
-          "en": "Financial nervousness in Weimar Germany"
+          "en": "Financial nervousness in Weimar Germany",
+          "fr": "Nervosite financiere dans l'Allemagne de Weimar",
+          "es": "Nerviosismo financiero en la Alemania de Weimar",
+          "it": "Nervosismo finanziario nella Germania di Weimar",
+          "pt": "Nervosismo financeiro na Alemanha de Weimar",
+          "nl": "Financiele nervositeit in Weimar-Duitsland",
+          "pl": "Nerwowosc finansowa w Niemczech weimarskich",
+          "tr": "Weimar Almanyasi'nda mali tedirginlik",
+          "zh": "魏玛德国的金融紧张",
+          "ja": "ワイマール期ドイツの金融不安",
+          "ko": "바이마르 독일의 금융 불안",
+          "hi": "वाइमर जर्मनी में वित्तीय घबराहट",
+          "ar": "توتر مالي في المانيا فايمار"
         },
         "description": {
           "ru": "После стабилизации валюты Германия всё ещё зависела от кредитов, ожиданий инвесторов и международных денег. Поэтому ограничения спекуляций могли вызвать сильную панику.",
           "de": "Nach der Waehrungsstabilisierung hing Deutschland weiterhin von Krediten, Anlegererwartungen und internationalem Kapital ab. Deshalb konnten Einschraenkungen der Spekulation starke Panik ausloesen.",
-          "en": "After currency stabilization, Germany still depended on credit, investor expectations and international capital. Restrictions on speculation could therefore trigger strong panic."
+          "en": "After currency stabilization, Germany still depended on credit, investor expectations and international capital. Restrictions on speculation could therefore trigger strong panic.",
+          "fr": "Apres la stabilisation de la monnaie, l'Allemagne dependait encore du credit, des attentes des investisseurs et des capitaux internationaux. Des limites imposees a la speculation pouvaient donc provoquer une forte panique.",
+          "es": "Tras la estabilizacion de la moneda, Alemania seguia dependiendo del credito, de las expectativas de los inversores y del capital internacional. Por eso las restricciones a la especulacion podian provocar un fuerte panico.",
+          "it": "Dopo la stabilizzazione della moneta, la Germania dipendeva ancora dal credito, dalle aspettative degli investitori e dai capitali internazionali. Per questo i limiti alla speculazione potevano scatenare un forte panico.",
+          "pt": "Depois da estabilizacao da moeda, a Alemanha ainda dependia do credito, das expectativas dos investidores e do capital internacional. Por isso, restricoes a especulacao podiam provocar forte panico.",
+          "nl": "Na de stabilisatie van de munt bleef Duitsland afhankelijk van krediet, verwachtingen van beleggers en internationaal kapitaal. Beperkingen op speculatie konden daarom sterke paniek veroorzaken.",
+          "pl": "Po ustabilizowaniu waluty Niemcy nadal zalezaly od kredytu, oczekiwan inwestorow i kapitalu miedzynarodowego. Dlatego ograniczenia spekulacji mogly wywolac silna panike.",
+          "tr": "Para biriminin istikrara kavusmasindan sonra Almanya hala krediye, yatirimci beklentilerine ve uluslararasi sermayeye bagimliydi. Bu yuzden spekulasyon sinirlamalari buyuk panige yol acabiliyordu.",
+          "zh": "货币稳定后，德国仍依赖信贷、投资者预期和国际资本。因此，限制投机可能引发强烈恐慌。",
+          "ja": "通貨が安定した後も、ドイツは信用、投資家の期待、国際資本に依存していました。そのため投機の制限は大きなパニックを引き起こし得ました。",
+          "ko": "통화가 안정된 뒤에도 독일은 신용, 투자자 기대, 국제 자본에 의존했습니다. 그래서 투기 제한은 큰 공황을 불러올 수 있었습니다.",
+          "hi": "मुद्रा स्थिर होने के बाद भी जर्मनी ऋण, निवेशकों की उम्मीदों और अंतरराष्ट्रीय पूंजी पर निर्भर था। इसलिए सट्टेबाजी पर रोक से गहरी घबराहट फैल सकती थी।",
+          "ar": "بعد استقرار العملة بقيت المانيا تعتمد على الائتمان وتوقعات المستثمرين ورؤوس الاموال الدولية. لذلك كان تقييد المضاربة قادرا على اثارة ذعر شديد."
         },
         "importance": {
           "ru": "Экономическая история Веймара была не только про 1923 год, но и про тревожные годы после стабилизации.",
           "de": "Die Wirtschaftsgeschichte Weimars handelt nicht nur von 1923, sondern auch von den nervoesen Jahren nach der Stabilisierung.",
-          "en": "Weimar economic history is not only about 1923, but also about the nervous years after stabilization."
+          "en": "Weimar economic history is not only about 1923, but also about the nervous years after stabilization.",
+          "fr": "L'histoire economique de Weimar ne concerne pas seulement 1923, mais aussi les annees nerveuses qui suivirent la stabilisation.",
+          "es": "La historia economica de Weimar no trata solo de 1923, sino tambien de los anos nerviosos posteriores a la estabilizacion.",
+          "it": "La storia economica di Weimar non riguarda solo il 1923, ma anche gli anni inquieti dopo la stabilizzazione.",
+          "pt": "A historia economica de Weimar nao trata apenas de 1923, mas tambem dos anos tensos apos a estabilizacao.",
+          "nl": "De economische geschiedenis van Weimar gaat niet alleen over 1923, maar ook over de nerveuze jaren na de stabilisatie.",
+          "pl": "Historia gospodarcza Weimaru to nie tylko rok 1923, lecz takze nerwowe lata po stabilizacji.",
+          "tr": "Weimar'in ekonomi tarihi yalnizca 1923'ten degil, istikrardan sonraki tedirgin yillardan da olusur.",
+          "zh": "魏玛的经济史不只关乎1923年，也关乎稳定之后那些紧张的年份。",
+          "ja": "ワイマールの経済史は1923年だけでなく、安定化後の不安な年月にも関わっています。",
+          "ko": "바이마르 경제사는 1923년만이 아니라 안정 이후의 불안한 해들도 포함합니다.",
+          "hi": "वाइमर की आर्थिक कहानी केवल 1923 की नहीं, बल्कि स्थिरता के बाद के बेचैन वर्षों की भी है।",
+          "ar": "لا يقتصر التاريخ الاقتصادي لفايمار على عام 1923، بل يشمل ايضا السنوات القلقة بعد الاستقرار."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Пятница, 13-е",
           "de": "Freitag, der 13.",
-          "en": "Friday the 13th"
+          "en": "Friday the 13th",
+          "fr": "Vendredi 13",
+          "es": "Viernes 13",
+          "it": "Venerdi 13",
+          "pt": "Sexta-feira 13",
+          "nl": "Vrijdag de dertiende",
+          "pl": "Piatek trzynastego",
+          "tr": "13. Cuma",
+          "zh": "13号星期五",
+          "ja": "13日の金曜日",
+          "ko": "13일의 금요일",
+          "hi": "शुक्रवार, 13 तारीख",
+          "ar": "الجمعة الثالث عشر"
         },
         "description": {
           "ru": "Крах произошёл именно в пятницу, 13 мая. Конечно, причиной были не суеверия, а кредитная политика и перегретый рынок, но совпадение сделало дату особенно запоминающейся.",
           "de": "Der Crash geschah ausgerechnet an einem Freitag, dem 13. Ursache waren natuerlich nicht Aberglaube, sondern Kreditpolitik und ein ueberhitzter Markt, doch der Zufall machte das Datum besonders einpraegsam.",
-          "en": "The crash happened on Friday, 13 May. The cause was not superstition, of course, but credit policy and an overheated market, yet the coincidence made the date especially memorable."
+          "en": "The crash happened on Friday, 13 May. The cause was not superstition, of course, but credit policy and an overheated market, yet the coincidence made the date especially memorable.",
+          "fr": "Le krach eut lieu un vendredi 13 mai. La cause n'etait bien sur pas la superstition, mais la politique du credit et un marche surchauffe; pourtant la coincidence rendit la date tres memorable.",
+          "es": "El desplome ocurrio un viernes 13 de mayo. La causa no fue la supersticion, claro, sino la politica crediticia y un mercado recalentado, pero la coincidencia hizo que la fecha fuera especialmente recordada.",
+          "it": "Il crollo avvenne venerdi 13 maggio. La causa non fu certo la superstizione, ma la politica del credito e un mercato surriscaldato; tuttavia la coincidenza rese la data particolarmente memorabile.",
+          "pt": "A quebra aconteceu numa sexta-feira, 13 de maio. A causa nao foi supersticao, claro, mas a politica de credito e um mercado superaquecido; ainda assim, a coincidencia tornou a data marcante.",
+          "nl": "De crash gebeurde op vrijdag 13 mei. De oorzaak was natuurlijk geen bijgeloof, maar kredietbeleid en een oververhitte markt; toch maakte het toeval de datum extra memorabel.",
+          "pl": "Krach wydarzył sie w piatek, 13 maja. Przyczyna nie byly oczywiscie przesady, lecz polityka kredytowa i przegrzany rynek, ale zbieg okolicznosci sprawil, ze data szczegolnie zapadla w pamiec.",
+          "tr": "Cokus 13 Mayis Cuma gunu yasandi. Nedeni elbette batil inanclar degil, kredi politikasi ve asiri isinmis bir piyasaydi; yine de bu rastlanti tarihi daha akilda kalici yapti.",
+          "zh": "崩盘正好发生在5月13日星期五。当然，原因不是迷信，而是信贷政策和过热的市场，但这个巧合让日期格外容易被记住。",
+          "ja": "暴落は5月13日の金曜日に起きました。原因はもちろん迷信ではなく、信用政策と過熱した市場でしたが、この偶然が日付を特に印象的にしました。",
+          "ko": "폭락은 5월 13일 금요일에 일어났습니다. 원인은 물론 미신이 아니라 신용 정책과 과열된 시장이었지만, 그 우연 때문에 날짜가 특히 기억에 남게 되었습니다.",
+          "hi": "गिरावट शुक्रवार, 13 मई को हुई। कारण अंधविश्वास नहीं, बल्कि ऋण नीति और गरमाया हुआ बाजार था, फिर भी यह संयोग तारीख को खास यादगार बना गया।",
+          "ar": "وقع الانهيار يوم الجمعة 13 مايو. لم يكن السبب طبعا الخرافة، بل سياسة الائتمان والسوق المحموم، لكن المصادفة جعلت التاريخ عالقا في الذاكرة."
         },
         "importance": {
           "ru": "Иногда случайная дата помогает событию закрепиться в памяти.",
           "de": "Manchmal hilft ein zufaelliges Datum, ein Ereignis im Gedaechtnis zu verankern.",
-          "en": "Sometimes a coincidental date helps an event stick in memory."
+          "en": "Sometimes a coincidental date helps an event stick in memory.",
+          "fr": "Parfois, une date fortuite aide un evenement a rester dans les memoires.",
+          "es": "A veces una fecha casual ayuda a que un acontecimiento quede en la memoria.",
+          "it": "A volte una data casuale aiuta un evento a restare nella memoria.",
+          "pt": "As vezes uma data coincidencial ajuda um acontecimento a ficar na memoria.",
+          "nl": "Soms helpt een toevallige datum een gebeurtenis in het geheugen te blijven.",
+          "pl": "Czasem przypadkowa data pomaga wydarzeniu utrwalic sie w pamieci.",
+          "tr": "Bazen rastlantisal bir tarih, bir olayin hafizada kalmasina yardim eder.",
+          "zh": "有时，一个偶然的日期会帮助事件留在人们记忆中。",
+          "ja": "偶然の日付が、出来事を記憶に残しやすくすることがあります。",
+          "ko": "때로는 우연한 날짜가 사건을 기억에 남게 합니다.",
+          "hi": "कभी-कभी संयोग वाली तारीख किसी घटना को यादगार बना देती है।",
+          "ar": "احيانا يساعد تاريخ عابر على تثبيت حدث في الذاكرة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Берлинская биржа связывает этот день с кредитной политикой, проблемами платёжного баланса и чрезмерной спекуляцией.",
     "de": "Die Berliner Boerse verbindet diesen Tag mit Kreditpolitik, Zahlungsbilanzproblemen und uebermaessiger Spekulation.",
-    "en": "The Berlin Stock Exchange links the day to credit policy, balance-of-payments problems and excessive speculation."
+    "en": "The Berlin Stock Exchange links the day to credit policy, balance-of-payments problems and excessive speculation.",
+    "fr": "La Bourse de Berlin associe cette journee a la politique du credit, aux problemes de balance des paiements et a une speculation excessive.",
+    "es": "La Bolsa de Berlin relaciona ese dia con la politica crediticia, los problemas de balanza de pagos y la especulacion excesiva.",
+    "it": "La Borsa di Berlino collega quel giorno alla politica del credito, ai problemi della bilancia dei pagamenti e alla speculazione eccessiva.",
+    "pt": "A Bolsa de Berlim liga esse dia a politica de credito, a problemas na balanca de pagamentos e a especulacao excessiva.",
+    "nl": "De Berlijnse beurs verbindt deze dag met kredietbeleid, betalingsbalansproblemen en buitensporige speculatie.",
+    "pl": "Gielda berliska wiaze ten dzien z polityka kredytowa, problemami bilansu platniczego i nadmierna spekulacja.",
+    "tr": "Berlin Borsasi bu gunu kredi politikasi, odemeler dengesi sorunlari ve asiri spekulasyonla iliskilendirir.",
+    "zh": "柏林证券交易所将这一天与信贷政策、国际收支问题和过度投机联系在一起。",
+    "ja": "ベルリン証券取引所はこの日を信用政策、国際収支問題、過度な投機と結び付けています。",
+    "ko": "베를린 증권거래소는 이 날을 신용 정책, 국제수지 문제, 과도한 투기와 연결합니다.",
+    "hi": "बर्लिन स्टॉक एक्सचेंज इस दिन को ऋण नीति, भुगतान संतुलन की समस्याओं और अत्यधिक सट्टेबाजी से जोड़ता है।",
+    "ar": "تربط بورصة برلين هذا اليوم بسياسة الائتمان ومشكلات ميزان المدفوعات والمضاربة المفرطة."
   },
   "sources": [
     {

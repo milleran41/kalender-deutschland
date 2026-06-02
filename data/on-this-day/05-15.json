@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Австрийский государственный договор",
       "de": "Der Oesterreichische Staatsvertrag wird unterzeichnet",
-      "en": "The Austrian State Treaty is signed"
+      "en": "The Austrian State Treaty is signed",
+      "fr": "Le traite d'Etat autrichien est signe",
+      "es": "Se firma el Tratado de Estado austriaco",
+      "it": "Viene firmato il Trattato di Stato austriaco",
+      "pt": "E assinado o Tratado de Estado Austriaco",
+      "nl": "Het Oostenrijks Staatsverdrag wordt ondertekend",
+      "pl": "Podpisano austriacki traktat panstwowy",
+      "tr": "Avusturya Devlet Antlasmasi imzalanir",
+      "zh": "奥地利国家条约签署",
+      "ja": "オーストリア国家条約が調印される",
+      "ko": "오스트리아 국가 조약이 서명되다",
+      "hi": "ऑस्ट्रियाई राज्य संधि पर हस्ताक्षर",
+      "ar": "توقيع معاهدة الدولة النمساوية"
     },
     "description": {
       "ru": "15 мая 1955 года в венском дворце Бельведер был подписан Австрийский государственный договор. Он восстановил Австрию как независимое и демократическое государство после союзной оккупации.",
       "de": "Am 15. Mai 1955 wurde im Wiener Schloss Belvedere der Oesterreichische Staatsvertrag unterzeichnet. Er stellte Oesterreich nach der alliierten Besatzung als unabhaengigen und demokratischen Staat wieder her.",
-      "en": "On 15 May 1955, the Austrian State Treaty was signed at Belvedere Palace in Vienna. It restored Austria as an independent and democratic state after Allied occupation."
+      "en": "On 15 May 1955, the Austrian State Treaty was signed at Belvedere Palace in Vienna. It restored Austria as an independent and democratic state after Allied occupation.",
+      "fr": "Le 15 mai 1955, le traite d'Etat autrichien fut signe au palais du Belvedere a Vienne. Il retablit l'Autriche comme Etat independant et democratique apres l'occupation alliee.",
+      "es": "El 15 de mayo de 1955 se firmo el Tratado de Estado austriaco en el palacio Belvedere de Viena. Restablecio a Austria como Estado independiente y democratico tras la ocupacion aliada.",
+      "it": "Il 15 maggio 1955 il Trattato di Stato austriaco fu firmato nel palazzo del Belvedere a Vienna. Restitui all'Austria lo status di Stato indipendente e democratico dopo l'occupazione alleata.",
+      "pt": "Em 15 de maio de 1955, o Tratado de Estado Austriaco foi assinado no Palacio Belvedere, em Viena. Ele restaurou a Austria como Estado independente e democratico apos a ocupacao aliada.",
+      "nl": "Op 15 mei 1955 werd het Oostenrijks Staatsverdrag ondertekend in paleis Belvedere in Wenen. Het herstelde Oostenrijk na de geallieerde bezetting als onafhankelijke en democratische staat.",
+      "pl": "15 maja 1955 roku w palacu Belvedere w Wiedniu podpisano austriacki traktat panstwowy. Przywracal on Austrie jako niezalezne i demokratyczne panstwo po okupacji aliantow.",
+      "tr": "15 Mayis 1955'te Avusturya Devlet Antlasmasi Viyana'daki Belvedere Sarayi'nda imzalandi. Antlasma, Muttefik isgalinden sonra Avusturya'yi bagimsiz ve demokratik bir devlet olarak yeniden kurdu.",
+      "zh": "1955年5月15日，奥地利国家条约在维也纳美景宫签署。它在盟军占领之后恢复了奥地利独立、民主国家的地位。",
+      "ja": "1955年5月15日、オーストリア国家条約がウィーンのベルヴェデーレ宮殿で調印されました。これにより連合国占領後のオーストリアは独立した民主国家として回復しました。",
+      "ko": "1955년 5월 15일 오스트리아 국가 조약이 빈의 벨베데레 궁전에서 서명되었습니다. 이 조약은 연합국 점령 이후 오스트리아를 독립적이고 민주적인 국가로 회복시켰습니다.",
+      "hi": "15 मई 1955 को वियना के बेलवेदेरे महल में ऑस्ट्रियाई राज्य संधि पर हस्ताक्षर हुए। इसने मित्र राष्ट्रों के कब्जे के बाद ऑस्ट्रिया को स्वतंत्र और लोकतांत्रिक राज्य के रूप में बहाल किया।",
+      "ar": "في 15 مايو 1955 وُقعت معاهدة الدولة النمساوية في قصر بلفيدير في فيينا. واعادت النمسا دولة مستقلة وديمقراطية بعد احتلال الحلفاء."
     },
     "importance": {
       "ru": "Для немецкой истории договор важен тем, что запрещал новый аншлюс и окончательно отделял путь Австрии от послевоенного раздела Германии.",
       "de": "Fuer die deutsche Geschichte ist der Vertrag wichtig, weil er einen neuen Anschluss verbot und Oesterreichs Weg endgueltig vom geteilten Nachkriegsdeutschland trennte.",
-      "en": "For German history, the treaty matters because it banned a new Anschluss and definitively separated Austria's path from divided postwar Germany."
+      "en": "For German history, the treaty matters because it banned a new Anschluss and definitively separated Austria's path from divided postwar Germany.",
+      "fr": "Pour l'histoire allemande, le traite est important car il interdisait un nouvel Anschluss et separait definitivement la voie autrichienne de celle de l'Allemagne divisee d'apres-guerre.",
+      "es": "Para la historia alemana, el tratado es importante porque prohibio un nuevo Anschluss y separo definitivamente el camino de Austria del de la Alemania dividida de posguerra.",
+      "it": "Per la storia tedesca, il trattato e importante perche vieto un nuovo Anschluss e separo definitivamente il percorso dell'Austria da quello della Germania divisa del dopoguerra.",
+      "pt": "Para a historia alema, o tratado e importante porque proibiu um novo Anschluss e separou definitivamente o caminho da Austria da Alemanha dividida do pos-guerra.",
+      "nl": "Voor de Duitse geschiedenis is het verdrag belangrijk omdat het een nieuwe Anschluss verbood en de weg van Oostenrijk definitief scheidde van het verdeelde naoorlogse Duitsland.",
+      "pl": "Dla historii Niemiec traktat jest wazny, poniewaz zakazywal nowego Anschlussu i ostatecznie oddzielal droge Austrii od podzielonych powojennych Niemiec.",
+      "tr": "Alman tarihi icin antlasma onemlidir; cunku yeni bir Anschluss'u yasakladi ve Avusturya'nin yolunu savas sonrasi bolunmus Almanya'dan kesin olarak ayirdi.",
+      "zh": "对德国历史而言，这项条约很重要，因为它禁止新的德奥合并，并最终把奥地利的道路同战后分裂的德国区分开来。",
+      "ja": "ドイツ史にとってこの条約が重要なのは、新たなアンシュルスを禁じ、オーストリアの道を戦後分断されたドイツから決定的に切り離したからです。",
+      "ko": "독일사에서 이 조약이 중요한 이유는 새로운 안슐루스를 금지하고 오스트리아의 길을 전후 분단 독일과 확실히 갈라놓았기 때문입니다.",
+      "hi": "जर्मन इतिहास के लिए यह संधि इसलिए महत्वपूर्ण है क्योंकि इसने नए Anschluss पर रोक लगाई और ऑस्ट्रिया का रास्ता युद्धोत्तर विभाजित जर्मनी से अलग कर दिया।",
+      "ar": "تكتسب المعاهدة اهمية في التاريخ الالماني لانها حظرت انشلوسا جديدا وفصلت نهائيا مسار النمسا عن المانيا المقسمة بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Австрийский путь после войны",
           "de": "Der oesterreichische Weg nach dem Krieg",
-          "en": "Austria's postwar path"
+          "en": "Austria's postwar path",
+          "fr": "Le chemin autrichien apres la guerre",
+          "es": "El camino austriaco tras la guerra",
+          "it": "Il percorso dell'Austria dopo la guerra",
+          "pt": "O caminho da Austria depois da guerra",
+          "nl": "Oostenrijks naoorlogse weg",
+          "pl": "Powojenna droga Austrii",
+          "tr": "Avusturya'nin savas sonrasi yolu",
+          "zh": "奥地利的战后道路",
+          "ja": "戦後オーストリアの道",
+          "ko": "오스트리아의 전후 길",
+          "hi": "युद्ध के बाद ऑस्ट्रिया का रास्ता",
+          "ar": "طريق النمسا بعد الحرب"
         },
         "description": {
           "ru": "В отличие от Германии, Австрия не была разделена на два государства. После вывода оккупационных войск она закрепила нейтралитет и стала особым примером холодной войны в Центральной Европе.",
           "de": "Anders als Deutschland wurde Oesterreich nicht in zwei Staaten geteilt. Nach dem Abzug der Besatzungstruppen verankerte es die Neutralitaet und wurde zu einem besonderen Beispiel des Kalten Krieges in Mitteleuropa.",
-          "en": "Unlike Germany, Austria was not divided into two states. After the occupation troops withdrew, it anchored neutrality and became a special Cold War example in Central Europe."
+          "en": "Unlike Germany, Austria was not divided into two states. After the occupation troops withdrew, it anchored neutrality and became a special Cold War example in Central Europe.",
+          "fr": "Contrairement a l'Allemagne, l'Autriche ne fut pas divisee en deux Etats. Apres le retrait des troupes d'occupation, elle inscrivit sa neutralite et devint un exemple particulier de la guerre froide en Europe centrale.",
+          "es": "A diferencia de Alemania, Austria no fue dividida en dos Estados. Tras la retirada de las tropas de ocupacion, afianzo su neutralidad y se convirtio en un caso especial de la Guerra Fria en Europa Central.",
+          "it": "A differenza della Germania, l'Austria non fu divisa in due Stati. Dopo il ritiro delle truppe di occupazione, fisso la neutralita e divenne un esempio particolare della Guerra fredda nell'Europa centrale.",
+          "pt": "Ao contrario da Alemanha, a Austria nao foi dividida em dois Estados. Depois da retirada das tropas de ocupacao, consolidou a neutralidade e tornou-se um exemplo especial da Guerra Fria na Europa Central.",
+          "nl": "In tegenstelling tot Duitsland werd Oostenrijk niet in twee staten verdeeld. Nadat de bezettingstroepen waren vertrokken, verankerde het zijn neutraliteit en werd het een bijzonder voorbeeld van de Koude Oorlog in Centraal-Europa.",
+          "pl": "W przeciwienstwie do Niemiec Austria nie zostala podzielona na dwa panstwa. Po wycofaniu wojsk okupacyjnych utrwalila neutralnosc i stala sie szczegolnym przykladem zimnej wojny w Europie Srodkowej.",
+          "tr": "Almanya'dan farkli olarak Avusturya iki devlete bolunmedi. Isgal birlikleri cekildikten sonra tarafsizligini pekistirdi ve Orta Avrupa'da Soguk Savas'in ozel bir ornegi oldu.",
+          "zh": "与德国不同，奥地利没有被分成两个国家。占领军撤出后，它确立了中立地位，成为中欧冷战中的一个特殊例子。",
+          "ja": "ドイツとは異なり、オーストリアは二つの国家に分割されませんでした。占領軍の撤退後、中立を定め、中央ヨーロッパにおける冷戦の特別な例となりました。",
+          "ko": "독일과 달리 오스트리아는 두 국가로 나뉘지 않았습니다. 점령군이 철수한 뒤 중립을 확립했고, 중앙유럽 냉전의 특별한 사례가 되었습니다.",
+          "hi": "जर्मनी के विपरीत ऑस्ट्रिया दो राज्यों में विभाजित नहीं हुआ। कब्जे वाली सेनाओं के हटने के बाद उसने तटस्थता स्थापित की और मध्य यूरोप में शीत युद्ध का खास उदाहरण बना।",
+          "ar": "على خلاف المانيا، لم تُقسم النمسا الى دولتين. وبعد انسحاب قوات الاحتلال ثبتت حيادها واصبحت مثالا خاصا للحرب الباردة في اوروبا الوسطى."
         },
         "importance": {
           "ru": "Сравнение с Германией помогает понять, что после 1945 года у соседних стран могли быть очень разные судьбы.",
           "de": "Der Vergleich mit Deutschland hilft zu verstehen, dass Nachbarlaender nach 1945 sehr unterschiedliche Schicksale haben konnten.",
-          "en": "The comparison with Germany helps show that neighboring countries could have very different fates after 1945."
+          "en": "The comparison with Germany helps show that neighboring countries could have very different fates after 1945.",
+          "fr": "La comparaison avec l'Allemagne montre que des pays voisins pouvaient connaitre des destins tres differents apres 1945.",
+          "es": "La comparacion con Alemania ayuda a ver que paises vecinos pudieron tener destinos muy distintos despues de 1945.",
+          "it": "Il confronto con la Germania aiuta a capire che paesi vicini potevano avere destini molto diversi dopo il 1945.",
+          "pt": "A comparacao com a Alemanha ajuda a mostrar que paises vizinhos podiam ter destinos muito diferentes depois de 1945.",
+          "nl": "De vergelijking met Duitsland laat zien dat buurlanden na 1945 heel verschillende lotgevallen konden hebben.",
+          "pl": "Porownanie z Niemcami pokazuje, ze sasiednie kraje po 1945 roku mogly miec bardzo rozne losy.",
+          "tr": "Almanya ile karsilastirma, komsu ulkelerin 1945'ten sonra cok farkli kaderlere sahip olabilecegini gosterir.",
+          "zh": "同德国相比可以看出，邻近国家在1945年后可能走向非常不同的命运。",
+          "ja": "ドイツとの比較は、隣国同士でも1945年後に非常に異なる運命をたどり得たことを示しています。",
+          "ko": "독일과 비교하면 1945년 이후 이웃 나라들이 매우 다른 운명을 맞을 수 있었음을 알 수 있습니다.",
+          "hi": "जर्मनी से तुलना बताती है कि 1945 के बाद पड़ोसी देशों की किस्मत बहुत अलग हो सकती थी।",
+          "ar": "توضح المقارنة مع المانيا ان الدول المتجاورة كان يمكن ان تكون لها مصائر مختلفة جدا بعد عام 1945."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "«Австрия свободна!»",
           "de": "Oesterreich ist frei!",
-          "en": "Austria is free!"
+          "en": "Austria is free!",
+          "fr": "L'Autriche est libre !",
+          "es": "Austria es libre!",
+          "it": "L'Austria e libera!",
+          "pt": "A Austria esta livre!",
+          "nl": "Oostenrijk is vrij!",
+          "pl": "Austria jest wolna!",
+          "tr": "Avusturya ozgur!",
+          "zh": "奥地利自由了！",
+          "ja": "オーストリアは自由だ！",
+          "ko": "오스트리아는 자유다!",
+          "hi": "ऑस्ट्रिया स्वतंत्र है!",
+          "ar": "النمسا حرة!"
         },
         "description": {
           "ru": "Фраза Леопольда Фигля «Австрия свободна!» после подписания договора стала частью австрийской памяти. Сцена на балконе Бельведера до сих пор часто используется как образ возвращения суверенитета.",
           "de": "Leopold Figls Satz Oesterreich ist frei! nach der Unterzeichnung wurde Teil der oesterreichischen Erinnerung. Die Szene auf dem Balkon des Belvedere gilt bis heute als Bild der Rueckkehr der Souveraenitaet.",
-          "en": "Leopold Figl's phrase 'Austria is free!' after the signing became part of Austrian memory. The scene on the Belvedere balcony is still used as an image of restored sovereignty."
+          "en": "Leopold Figl's phrase 'Austria is free!' after the signing became part of Austrian memory. The scene on the Belvedere balcony is still used as an image of restored sovereignty.",
+          "fr": "La phrase de Leopold Figl, « L'Autriche est libre ! », prononcee apres la signature, est entree dans la memoire autrichienne. La scene sur le balcon du Belvedere reste une image du retour de la souverainete.",
+          "es": "La frase de Leopold Figl, «Austria es libre!», pronunciada tras la firma, paso a formar parte de la memoria austriaca. La escena en el balcon del Belvedere sigue usandose como imagen de la soberania recuperada.",
+          "it": "La frase di Leopold Figl, «L'Austria e libera!», dopo la firma entro nella memoria austriaca. La scena sul balcone del Belvedere e ancora usata come immagine della sovranita ritrovata.",
+          "pt": "A frase de Leopold Figl, \"A Austria esta livre!\", depois da assinatura tornou-se parte da memoria austriaca. A cena na varanda do Belvedere ainda e usada como imagem da soberania recuperada.",
+          "nl": "De uitspraak van Leopold Figl, 'Oostenrijk is vrij!', na de ondertekening werd deel van het Oostenrijkse geheugen. De scene op het balkon van het Belvedere geldt nog altijd als beeld van herwonnen soevereiniteit.",
+          "pl": "Slowa Leopolda Figla „Austria jest wolna!” po podpisaniu traktatu staly sie czescia austriackiej pamieci. Scena na balkonie Belvedere do dzis symbolizuje odzyskanie suwerennosci.",
+          "tr": "Leopold Figl'in imzadan sonra soyledigi 'Avusturya ozgur!' sozu Avusturya hafizasinin parcasi oldu. Belvedere balkonundaki sahne hala egemenligin geri donusunun simgesi olarak kullanilir.",
+          "zh": "利奥波德·菲格尔在签署后说出的“奥地利自由了！”成为奥地利记忆的一部分。美景宫阳台上的场景至今仍被用作主权恢复的象征。",
+          "ja": "調印後にレオポルト・フィグルが述べた「オーストリアは自由だ！」という言葉は、オーストリアの記憶の一部となりました。ベルヴェデーレ宮殿のバルコニーの場面は、今も主権回復の象徴として使われています。",
+          "ko": "서명 뒤 레오폴트 피글이 말한 '오스트리아는 자유다!'라는 문구는 오스트리아의 기억 일부가 되었습니다. 벨베데레 궁전 발코니 장면은 지금도 주권 회복의 이미지로 쓰입니다.",
+          "hi": "हस्ताक्षर के बाद लियोपोल्ड फिग्ल का वाक्य 'ऑस्ट्रिया स्वतंत्र है!' ऑस्ट्रियाई स्मृति का हिस्सा बन गया। बेलवेदेरे की बालकनी वाला दृश्य आज भी संप्रभुता की वापसी का प्रतीक माना जाता है।",
+          "ar": "اصبحت عبارة ليوبولد فيغل «النمسا حرة!» بعد التوقيع جزءا من الذاكرة النمساوية. ولا يزال مشهد شرفة بلفيدير يستخدم صورة لعودة السيادة."
         },
         "importance": {
           "ru": "Иногда одна короткая фраза становится знаком целой эпохи.",
           "de": "Manchmal wird ein kurzer Satz zum Zeichen einer ganzen Epoche.",
-          "en": "Sometimes one short phrase becomes the sign of an entire era."
+          "en": "Sometimes one short phrase becomes the sign of an entire era.",
+          "fr": "Parfois, une courte phrase devient le symbole de toute une epoque.",
+          "es": "A veces una frase breve se convierte en simbolo de toda una epoca.",
+          "it": "A volte una breve frase diventa il segno di un'intera epoca.",
+          "pt": "As vezes uma frase curta se torna o simbolo de uma epoca inteira.",
+          "nl": "Soms wordt een korte zin het teken van een heel tijdperk.",
+          "pl": "Czasem jedno krotkie zdanie staje sie znakiem calej epoki.",
+          "tr": "Bazen kisa bir soz butun bir donemin isareti olur.",
+          "zh": "有时，一句简短的话会成为整个时代的标志。",
+          "ja": "短い一言が、時代全体のしるしになることがあります。",
+          "ko": "때로는 짧은 한마디가 한 시대 전체의 상징이 됩니다.",
+          "hi": "कभी-कभी एक छोटा वाक्य पूरे युग का प्रतीक बन जाता है।",
+          "ar": "احيانا تصبح عبارة قصيرة علامة عصر كامل."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Позднее, 26 октября 1955 года, Австрия закрепила постоянный нейтралитет.",
     "de": "Spaeter, am 26. Oktober 1955, verankerte Oesterreich seine immerwaehrende Neutralitaet.",
-    "en": "Later, on 26 October 1955, Austria anchored its permanent neutrality."
+    "en": "Later, on 26 October 1955, Austria anchored its permanent neutrality.",
+    "fr": "Plus tard, le 26 octobre 1955, l'Autriche inscrivit sa neutralite permanente.",
+    "es": "Mas tarde, el 26 de octubre de 1955, Austria consagro su neutralidad permanente.",
+    "it": "Piu tardi, il 26 ottobre 1955, l'Austria sancì la sua neutralita permanente.",
+    "pt": "Mais tarde, em 26 de outubro de 1955, a Austria consagrou sua neutralidade permanente.",
+    "nl": "Later, op 26 oktober 1955, legde Oostenrijk zijn blijvende neutraliteit vast.",
+    "pl": "Pozniej, 26 pazdziernika 1955 roku, Austria utrwalila swoja stala neutralnosc.",
+    "tr": "Daha sonra, 26 Ekim 1955'te Avusturya kalici tarafsizligini guvence altina aldi.",
+    "zh": "后来，1955年10月26日，奥地利确立了永久中立。",
+    "ja": "その後、1955年10月26日、オーストリアは永世中立を定めました。",
+    "ko": "이후 1955년 10월 26일 오스트리아는 영구 중립을 확립했습니다.",
+    "hi": "बाद में, 26 अक्टूबर 1955 को ऑस्ट्रिया ने अपनी स्थायी तटस्थता स्थापित की।",
+    "ar": "لاحقا، في 26 اكتوبر 1955، ثبتت النمسا حيادها الدائم."
   },
   "sources": [
     {

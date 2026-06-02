@@ -11,17 +11,53 @@
     "title": {
       "ru": "Создан Варшавский договор",
       "de": "Der Warschauer Pakt wird gegruendet",
-      "en": "The Warsaw Pact is founded"
+      "en": "The Warsaw Pact is founded",
+      "fr": "Le pacte de Varsovie est fonde",
+      "es": "Se funda el Pacto de Varsovia",
+      "it": "Viene fondato il Patto di Varsavia",
+      "pt": "E fundado o Pacto de Varsovia",
+      "nl": "Het Warschaupact wordt opgericht",
+      "pl": "Powstaje Uklad Warszawski",
+      "tr": "Varsova Pakti kurulur",
+      "zh": "华沙条约组织成立",
+      "ja": "ワルシャワ条約機構が設立される",
+      "ko": "바르샤바 조약 기구가 창설되다",
+      "hi": "वारसॉ संधि की स्थापना",
+      "ar": "تأسيس حلف وارسو"
     },
     "description": {
       "ru": "14 мая 1955 года СССР и страны Восточного блока подписали в Варшаве договор о военном союзе. В него вошла и ГДР, а создание пакта стало ответом на вступление ФРГ в НАТО.",
       "de": "Am 14. Mai 1955 unterzeichneten die Sowjetunion und Staaten des Ostblocks in Warschau ein militaerisches Buendnis. Auch die DDR gehoerte dazu; die Gruendung war eine Reaktion auf den NATO-Beitritt der Bundesrepublik.",
-      "en": "On 14 May 1955, the Soviet Union and Eastern Bloc states signed a military alliance in Warsaw. East Germany joined it, and the pact was a response to West Germany's entry into NATO."
+      "en": "On 14 May 1955, the Soviet Union and Eastern Bloc states signed a military alliance in Warsaw. East Germany joined it, and the pact was a response to West Germany's entry into NATO.",
+      "fr": "Le 14 mai 1955, l'Union sovietique et les Etats du bloc de l'Est signerent a Varsovie une alliance militaire. La RDA en fit partie, et le pacte fut une reponse a l'entree de la RFA dans l'OTAN.",
+      "es": "El 14 de mayo de 1955, la Union Sovietica y los paises del bloque oriental firmaron en Varsovia una alianza militar. La RDA se integro en ella, y el pacto fue una respuesta a la entrada de la RFA en la OTAN.",
+      "it": "Il 14 maggio 1955 l'Unione Sovietica e gli Stati del blocco orientale firmarono a Varsavia un'alleanza militare. Anche la DDR ne fece parte, e il patto fu una risposta all'ingresso della Germania Ovest nella NATO.",
+      "pt": "Em 14 de maio de 1955, a Uniao Sovietica e os paises do bloco oriental assinaram em Varsovia uma alianca militar. A Alemanha Oriental tambem participou, e o pacto foi uma resposta a entrada da Alemanha Ocidental na OTAN.",
+      "nl": "Op 14 mei 1955 ondertekenden de Sovjet-Unie en staten van het Oostblok in Warschau een militair bondgenootschap. Ook de DDR sloot zich aan; het pact was een reactie op de toetreding van West-Duitsland tot de NAVO.",
+      "pl": "14 maja 1955 roku Zwiazek Radziecki i panstwa bloku wschodniego podpisaly w Warszawie sojusz wojskowy. Nalezala do niego takze NRD, a pakt byl odpowiedzia na wejscie RFN do NATO.",
+      "tr": "14 Mayis 1955'te Sovyetler Birligi ve Dogu Bloku devletleri Varsova'da askeri bir ittifak imzaladi. Dogu Almanya da bu ittifaka katildi; pakt, Bati Almanya'nin NATO'ya girmesine bir yanitti.",
+      "zh": "1955年5月14日，苏联和东欧集团国家在华沙签署军事同盟。东德也加入其中，该条约是对西德加入北约的回应。",
+      "ja": "1955年5月14日、ソ連と東側諸国はワルシャワで軍事同盟を結びました。東ドイツも参加し、この条約は西ドイツのNATO加盟への対応でした。",
+      "ko": "1955년 5월 14일 소련과 동구권 국가들은 바르샤바에서 군사 동맹을 체결했습니다. 동독도 여기에 참여했으며, 이 조약은 서독의 NATO 가입에 대한 대응이었습니다.",
+      "hi": "14 मई 1955 को सोवियत संघ और पूर्वी ब्लॉक के देशों ने वारसॉ में सैन्य गठबंधन पर हस्ताक्षर किए। पूर्वी जर्मनी भी इसमें शामिल हुआ, और यह संधि पश्चिम जर्मनी के NATO में प्रवेश का जवाब थी।",
+      "ar": "في 14 مايو 1955 وقع الاتحاد السوفيتي ودول الكتلة الشرقية في وارسو تحالفا عسكريا. انضمت اليه المانيا الشرقية، وكان الحلف ردا على دخول المانيا الغربية في الناتو."
     },
     "importance": {
       "ru": "Германия стала одной из главных линий раздела между двумя военными блоками Холодной войны.",
       "de": "Deutschland wurde zu einer der wichtigsten Trennlinien zwischen den beiden Militaerbloecken des Kalten Krieges.",
-      "en": "Germany became one of the main dividing lines between the two military blocs of the Cold War."
+      "en": "Germany became one of the main dividing lines between the two military blocs of the Cold War.",
+      "fr": "L'Allemagne devint l'une des principales lignes de separation entre les deux blocs militaires de la guerre froide.",
+      "es": "Alemania se convirtio en una de las principales lineas divisorias entre los dos bloques militares de la Guerra Fria.",
+      "it": "La Germania divenne una delle principali linee di divisione tra i due blocchi militari della Guerra fredda.",
+      "pt": "A Alemanha tornou-se uma das principais linhas de divisao entre os dois blocos militares da Guerra Fria.",
+      "nl": "Duitsland werd een van de belangrijkste scheidslijnen tussen de twee militaire blokken van de Koude Oorlog.",
+      "pl": "Niemcy staly sie jedna z glownych linii podzialu miedzy dwoma blokami wojskowymi zimnej wojny.",
+      "tr": "Almanya, Soguk Savas'in iki askeri blogu arasindaki baslica ayrim cizgilerinden biri haline geldi.",
+      "zh": "德国成为冷战两大军事集团之间最主要的分界线之一。",
+      "ja": "ドイツは冷戦期の二つの軍事ブロックを分ける主要な線の一つとなりました。",
+      "ko": "독일은 냉전의 두 군사 블록을 가르는 주요 경계선 가운데 하나가 되었습니다.",
+      "hi": "जर्मनी शीत युद्ध के दो सैन्य गुटों के बीच मुख्य विभाजन रेखाओं में से एक बन गया।",
+      "ar": "اصبحت المانيا احدى خطوط الفصل الرئيسية بين الكتلتين العسكريتين في الحرب الباردة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Две Германии в двух блоках",
           "de": "Zwei deutsche Staaten in zwei Bloecken",
-          "en": "Two German states in two blocs"
+          "en": "Two German states in two blocs",
+          "fr": "Deux Etats allemands dans deux blocs",
+          "es": "Dos estados alemanes en dos bloques",
+          "it": "Due Stati tedeschi in due blocchi",
+          "pt": "Dois Estados alemaes em dois blocos",
+          "nl": "Twee Duitse staten in twee blokken",
+          "pl": "Dwa panstwa niemieckie w dwoch blokach",
+          "tr": "Iki Alman devleti iki blokta",
+          "zh": "两个德国国家处在两个集团中",
+          "ja": "二つのドイツ国家と二つの陣営",
+          "ko": "두 독일 국가, 두 블록",
+          "hi": "दो जर्मन राज्य, दो गुट",
+          "ar": "دولتان ألمانيتان في كتلتين"
         },
         "description": {
           "ru": "ФРГ вступила в НАТО в мае 1955 года, а ГДР оказалась в военной системе Восточного блока. Так немецкое разделение стало частью глобального противостояния.",
           "de": "Die Bundesrepublik trat im Mai 1955 der NATO bei, waehrend die DDR Teil des militaerischen Systems des Ostblocks wurde. So wurde die deutsche Teilung Teil des globalen Gegensatzes.",
-          "en": "West Germany joined NATO in May 1955, while East Germany became part of the Eastern Bloc's military system. German division thus became part of a global confrontation."
+          "en": "West Germany joined NATO in May 1955, while East Germany became part of the Eastern Bloc's military system. German division thus became part of a global confrontation.",
+          "fr": "La RFA entra dans l'OTAN en mai 1955, tandis que la RDA devint partie du systeme militaire du bloc de l'Est. La division allemande s'inscrivit ainsi dans un affrontement mondial.",
+          "es": "La RFA entro en la OTAN en mayo de 1955, mientras la RDA paso a formar parte del sistema militar del bloque oriental. Asi, la division alemana se convirtio en parte de una confrontacion global.",
+          "it": "La Germania Ovest entro nella NATO nel maggio 1955, mentre la Germania Est divenne parte del sistema militare del blocco orientale. Cosi la divisione tedesca entro in uno scontro globale.",
+          "pt": "A Alemanha Ocidental entrou na OTAN em maio de 1955, enquanto a Alemanha Oriental passou a fazer parte do sistema militar do bloco oriental. Assim, a divisao alema tornou-se parte de uma confrontacao global.",
+          "nl": "West-Duitsland trad in mei 1955 toe tot de NAVO, terwijl Oost-Duitsland deel werd van het militaire systeem van het Oostblok. Zo werd de Duitse deling onderdeel van een wereldwijde confrontatie.",
+          "pl": "RFN przystapila do NATO w maju 1955 roku, a NRD stala sie czescia systemu wojskowego bloku wschodniego. W ten sposob podzial Niemiec stal sie czescia globalnej konfrontacji.",
+          "tr": "Bati Almanya Mayis 1955'te NATO'ya katilirken, Dogu Almanya Dogu Bloku'nun askeri sisteminin parcasi oldu. Boylece Almanya'nin bolunmesi kuresel bir catismaya dahil oldu.",
+          "zh": "西德于1955年5月加入北约，而东德则成为东欧集团军事体系的一部分。德国分裂因此成为全球对抗的一部分。",
+          "ja": "西ドイツは1955年5月にNATOへ加盟し、東ドイツは東側陣営の軍事体制に組み込まれました。こうしてドイツの分断は世界的対立の一部となりました。",
+          "ko": "서독은 1955년 5월 NATO에 가입했고, 동독은 동구권 군사 체제의 일부가 되었습니다. 이로써 독일 분단은 세계적 대립의 일부가 되었습니다.",
+          "hi": "पश्चिम जर्मनी मई 1955 में NATO में शामिल हुआ, जबकि पूर्वी जर्मनी पूर्वी ब्लॉक की सैन्य व्यवस्था का हिस्सा बना। इस तरह जर्मनी का विभाजन वैश्विक टकराव का हिस्सा बन गया।",
+          "ar": "انضمت المانيا الغربية الى الناتو في مايو 1955، بينما اصبحت المانيا الشرقية جزءا من النظام العسكري للكتلة الشرقية. وهكذا صار انقسام المانيا جزءا من مواجهة عالمية."
         },
         "importance": {
           "ru": "Это помогает понять, почему немецкая карта Холодной войны была одновременно европейской и мировой.",
           "de": "Das hilft zu verstehen, warum die deutsche Karte des Kalten Krieges zugleich europaeisch und global war.",
-          "en": "This helps explain why Germany's Cold War map was both European and global."
+          "en": "This helps explain why Germany's Cold War map was both European and global.",
+          "fr": "Cela aide a comprendre pourquoi la carte allemande de la guerre froide etait a la fois europeenne et mondiale.",
+          "es": "Esto ayuda a entender por que el mapa aleman de la Guerra Fria era a la vez europeo y mundial.",
+          "it": "Questo aiuta a capire perche la mappa tedesca della Guerra fredda fosse insieme europea e globale.",
+          "pt": "Isso ajuda a entender por que o mapa alemao da Guerra Fria era ao mesmo tempo europeu e global.",
+          "nl": "Dit helpt verklaren waarom de Duitse kaart van de Koude Oorlog tegelijk Europees en mondiaal was.",
+          "pl": "To pomaga zrozumiec, dlaczego niemiecka mapa zimnej wojny byla zarazem europejska i globalna.",
+          "tr": "Bu, Almanya'nin Soguk Savas haritasinin neden hem Avrupa'ya hem de dunyaya ait oldugunu aciklar.",
+          "zh": "这有助于理解为什么冷战中的德国地图既是欧洲性的，也是全球性的。",
+          "ja": "これにより、冷戦期のドイツ地図がヨーロッパ的であると同時に世界的でもあった理由が分かります。",
+          "ko": "이는 냉전기의 독일 지도가 왜 유럽적이면서 동시에 세계적이었는지를 설명해 줍니다.",
+          "hi": "इससे समझ आता है कि शीत युद्ध में जर्मनी का नक्शा यूरोपीय भी था और वैश्विक भी।",
+          "ar": "يساعد ذلك على فهم لماذا كانت خريطة المانيا في الحرب الباردة اوروبية وعالمية في الوقت نفسه."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Две недели, два блока",
           "de": "Zwei Wochen, zwei Bloecke",
-          "en": "Two weeks, two blocs"
+          "en": "Two weeks, two blocs",
+          "fr": "Deux semaines, deux blocs",
+          "es": "Dos semanas, dos bloques",
+          "it": "Due settimane, due blocchi",
+          "pt": "Duas semanas, dois blocos",
+          "nl": "Twee weken, twee blokken",
+          "pl": "Dwa tygodnie, dwa bloki",
+          "tr": "Iki hafta, iki blok",
+          "zh": "两周，两个集团",
+          "ja": "二週間、二つの陣営",
+          "ko": "두 주, 두 블록",
+          "hi": "दो सप्ताह, दो गुट",
+          "ar": "اسبوعان وكتلتان"
         },
         "description": {
           "ru": "Между вступлением ФРГ в НАТО и созданием Варшавского договора прошло совсем немного времени. Для обычного человека это выглядело как быстрое затвердевание границы между Востоком и Западом.",
           "de": "Zwischen dem NATO-Beitritt der Bundesrepublik und der Gruendung des Warschauer Pakts lag nur kurze Zeit. Fuer viele Menschen wirkte das wie ein rasches Verhaerten der Grenze zwischen Ost und West.",
-          "en": "Only a short time passed between West Germany joining NATO and the creation of the Warsaw Pact. For many people, it looked like the East-West border was hardening very quickly."
+          "en": "Only a short time passed between West Germany joining NATO and the creation of the Warsaw Pact. For many people, it looked like the East-West border was hardening very quickly.",
+          "fr": "Tres peu de temps separa l'entree de la RFA dans l'OTAN et la creation du pacte de Varsovie. Pour beaucoup de gens, la frontiere entre Est et Ouest semblait se durcir tres vite.",
+          "es": "Paso muy poco tiempo entre la entrada de la RFA en la OTAN y la creacion del Pacto de Varsovia. Para muchas personas, parecia que la frontera entre Este y Oeste se endurecia muy rapido.",
+          "it": "Passo pochissimo tempo tra l'ingresso della Germania Ovest nella NATO e la creazione del Patto di Varsavia. Per molte persone, il confine tra Est e Ovest sembrava irrigidirsi molto rapidamente.",
+          "pt": "Passou muito pouco tempo entre a entrada da Alemanha Ocidental na OTAN e a criacao do Pacto de Varsovia. Para muitas pessoas, parecia que a fronteira entre Leste e Oeste estava endurecendo rapidamente.",
+          "nl": "Er zat maar weinig tijd tussen de toetreding van West-Duitsland tot de NAVO en de oprichting van het Warschaupact. Voor veel mensen leek de grens tussen Oost en West heel snel harder te worden.",
+          "pl": "Miedzy przystapieniem RFN do NATO a utworzeniem Ukladu Warszawskiego minelo bardzo niewiele czasu. Dla wielu ludzi wygladalo to tak, jakby granica miedzy Wschodem a Zachodem szybko twardniala.",
+          "tr": "Bati Almanya'nin NATO'ya katilmasi ile Varsova Pakti'nin kurulmasi arasinda cok az zaman vardi. Birçok kisi icin Dogu-Bati siniri cok hizli sertlesiyor gibi gorunuyordu.",
+          "zh": "从西德加入北约到华沙条约组织成立，中间只隔了很短时间。对许多人来说，东西方边界似乎正在迅速变硬。",
+          "ja": "西ドイツのNATO加盟からワルシャワ条約機構の設立までは、ほんの短い時間しかありませんでした。多くの人には、東西の境界が急速に固まっていくように見えました。",
+          "ko": "서독의 NATO 가입과 바르샤바 조약 기구 창설 사이에는 짧은 시간밖에 없었습니다. 많은 사람들에게 동서의 경계가 매우 빠르게 굳어지는 것처럼 보였습니다.",
+          "hi": "पश्चिम जर्मनी के NATO में शामिल होने और वारसॉ संधि बनने के बीच बहुत कम समय बीता। आम लोगों को लगा कि पूर्व और पश्चिम की सीमा तेजी से कठोर हो रही है।",
+          "ar": "لم يمر وقت طويل بين انضمام المانيا الغربية الى الناتو وتأسيس حلف وارسو. وبدا لكثيرين ان الحدود بين الشرق والغرب تتصلب بسرعة كبيرة."
         },
         "importance": {
           "ru": "Иногда большие исторические блоки складываются почти на глазах.",
           "de": "Manchmal entstehen grosse historische Bloecke fast vor den Augen der Menschen.",
-          "en": "Sometimes major historical blocs form almost before people's eyes."
+          "en": "Sometimes major historical blocs form almost before people's eyes.",
+          "fr": "Parfois, de grands blocs historiques se forment presque sous les yeux des gens.",
+          "es": "A veces los grandes bloques historicos se forman casi ante los ojos de la gente.",
+          "it": "A volte grandi blocchi storici si formano quasi sotto gli occhi delle persone.",
+          "pt": "As vezes grandes blocos historicos se formam quase diante dos olhos das pessoas.",
+          "nl": "Soms ontstaan grote historische blokken bijna voor de ogen van mensen.",
+          "pl": "Czasem wielkie bloki historyczne powstaja niemal na oczach ludzi.",
+          "tr": "Bazen buyuk tarihsel bloklar insanlarin gozleri onunde olusur.",
+          "zh": "有时，重大的历史集团几乎就在众人眼前形成。",
+          "ja": "大きな歴史的ブロックが、人々の目の前で形づくられることがあります。",
+          "ko": "때로는 거대한 역사적 블록이 사람들 눈앞에서 형성됩니다.",
+          "hi": "कभी-कभी बड़े ऐतिहासिक गुट लोगों की आंखों के सामने ही बनते हैं।",
+          "ar": "احيانا تتشكل كتل تاريخية كبرى تقريبا امام اعين الناس."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Варшавский договор был распущен в 1991 году, уже после падения Берлинской стены и перед распадом СССР.",
     "de": "Der Warschauer Pakt wurde 1991 aufgeloest, nach dem Fall der Berliner Mauer und kurz vor dem Ende der Sowjetunion.",
-    "en": "The Warsaw Pact was dissolved in 1991, after the fall of the Berlin Wall and shortly before the end of the Soviet Union."
+    "en": "The Warsaw Pact was dissolved in 1991, after the fall of the Berlin Wall and shortly before the end of the Soviet Union.",
+    "fr": "Le pacte de Varsovie fut dissous en 1991, apres la chute du mur de Berlin et peu avant la fin de l'Union sovietique.",
+    "es": "El Pacto de Varsovia se disolvio en 1991, despues de la caida del Muro de Berlin y poco antes del fin de la Union Sovietica.",
+    "it": "Il Patto di Varsavia fu sciolto nel 1991, dopo la caduta del Muro di Berlino e poco prima della fine dell'Unione Sovietica.",
+    "pt": "O Pacto de Varsovia foi dissolvido em 1991, depois da queda do Muro de Berlim e pouco antes do fim da Uniao Sovietica.",
+    "nl": "Het Warschaupact werd in 1991 ontbonden, na de val van de Berlijnse Muur en kort voor het einde van de Sovjet-Unie.",
+    "pl": "Uklad Warszawski rozwiazano w 1991 roku, po upadku muru berlinskiego i krotko przed koncem Zwiazku Radzieckiego.",
+    "tr": "Varsova Pakti, Berlin Duvari'nin yikilmasindan sonra ve Sovyetler Birligi'nin sona ermesinden kisa sure once, 1991'de dagitildi.",
+    "zh": "华沙条约组织于1991年解散，当时柏林墙已经倒塌，苏联也即将终结。",
+    "ja": "ワルシャワ条約機構は、ベルリンの壁崩壊後、ソ連終焉の少し前の1991年に解散しました。",
+    "ko": "바르샤바 조약 기구는 베를린 장벽 붕괴 이후, 소련 해체 직전인 1991년에 해체되었습니다.",
+    "hi": "वारसॉ संधि 1991 में, बर्लिन दीवार गिरने के बाद और सोवियत संघ के अंत से कुछ ही समय पहले, भंग कर दी गई।",
+    "ar": "حُل حلف وارسو عام 1991 بعد سقوط جدار برلين وقبل نهاية الاتحاد السوفيتي بقليل."
   },
   "sources": [
     {
