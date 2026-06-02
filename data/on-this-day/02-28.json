@@ -11,17 +11,53 @@
     "title": {
       "ru": "Издан указ после пожара Рейхстага",
       "de": "Die Reichstagsbrandverordnung wird erlassen",
-      "en": "The Reichstag Fire Decree is issued"
+      "en": "The Reichstag Fire Decree is issued",
+      "fr": "Le décret de l'incendie du Reichstag est promulgué",
+      "es": "Se emite el Decreto del Incendio del Reichstag",
+      "it": "Viene emanato il decreto dell'incendio del Reichstag",
+      "pt": "É emitido o Decreto do Incêndio do Reichstag",
+      "nl": "De Rijksdagbrandverordening wordt uitgevaardigd",
+      "pl": "Wydano dekret po pożarze Reichstagu",
+      "tr": "Reichstag Yangını Kararnamesi çıkarıldı",
+      "zh": "《国会纵火法令》颁布",
+      "ja": "ライヒ議会議事堂火災令が出される",
+      "ko": "라이히스탁 화재령이 발령되다",
+      "hi": "राइखस्टाग आग के बाद आदेश जारी हुआ",
+      "ar": "إصدار مرسوم حريق الرايخستاغ"
     },
     "description": {
       "ru": "28 февраля 1933 года, на следующий день после пожара Рейхстага, президент Гинденбург подписал чрезвычайный указ «О защите народа и государства». Он фактически отменял важные гражданские права.",
       "de": "Am 28. Februar 1933, einen Tag nach dem Reichstagsbrand, unterzeichnete Praesident Hindenburg die Notverordnung zum Schutz von Volk und Staat. Sie setzte wichtige Grundrechte faktisch ausser Kraft.",
-      "en": "On 28 February 1933, the day after the Reichstag fire, President Hindenburg signed the emergency Decree for the Protection of People and State. It effectively suspended key civil rights."
+      "en": "On 28 February 1933, the day after the Reichstag fire, President Hindenburg signed the emergency Decree for the Protection of People and State. It effectively suspended key civil rights.",
+      "fr": "Le 28 février 1933, au lendemain de l'incendie du Reichstag, le président Hindenburg signa le décret d'urgence pour la protection du peuple et de l'État. Il suspendait de fait d'importants droits civiques.",
+      "es": "El 28 de febrero de 1933, al día siguiente del incendio del Reichstag, el presidente Hindenburg firmó el decreto de emergencia para la protección del pueblo y del Estado. En la práctica suspendía importantes derechos civiles.",
+      "it": "Il 28 febbraio 1933, il giorno dopo l'incendio del Reichstag, il presidente Hindenburg firmò il decreto d'emergenza per la protezione del popolo e dello Stato. Di fatto sospendeva importanti diritti civili.",
+      "pt": "Em 28 de fevereiro de 1933, no dia seguinte ao incêndio do Reichstag, o presidente Hindenburg assinou o decreto de emergência para a proteção do povo e do Estado. Na prática, suspendia importantes direitos civis.",
+      "nl": "Op 28 februari 1933, de dag na de Rijksdagbrand, ondertekende president Hindenburg de noodverordening ter bescherming van volk en staat. Die schortte belangrijke burgerrechten feitelijk op.",
+      "pl": "28 lutego 1933 roku, dzień po pożarze Reichstagu, prezydent Hindenburg podpisał nadzwyczajny dekret o ochronie narodu i państwa. Faktycznie zawieszał on ważne prawa obywatelskie.",
+      "tr": "28 Şubat 1933'te, Reichstag yangınından bir gün sonra, Başkan Hindenburg Halkı ve Devleti Koruma olağanüstü kararnamesini imzaladı. Bu kararname temel sivil hakları fiilen askıya aldı.",
+      "zh": "1933年2月28日，国会大厦火灾后的第二天，兴登堡总统签署了《保护人民和国家紧急法令》。它实际上暂停了重要的公民权利。",
+      "ja": "1933年2月28日、ライヒ議会議事堂火災の翌日、ヒンデンブルク大統領は「国民と国家を保護するための非常令」に署名しました。これは重要な市民的権利を事実上停止しました。",
+      "ko": "1933년 2월 28일, 라이히스탁 화재 다음 날 힌덴부르크 대통령은 국민과 국가 보호를 위한 긴급 명령에 서명했습니다. 이는 주요 시민권을 사실상 정지시켰습니다.",
+      "hi": "28 फ़रवरी 1933 को, राइखस्टाग आग के अगले दिन, राष्ट्रपति हिंडनबुर्ग ने जनता और राज्य की रक्षा के लिए आपात आदेश पर हस्ताक्षर किए। इसने महत्वपूर्ण नागरिक अधिकारों को व्यवहार में निलंबित कर दिया।",
+      "ar": "في 28 فبراير 1933، في اليوم التالي لحريق الرايخستاغ، وقع الرئيس هيندنبورغ مرسوم الطوارئ لحماية الشعب والدولة. وقد علق فعليا حقوقا مدنية مهمة."
     },
     "importance": {
       "ru": "Это был решающий шаг на пути к нацистской диктатуре.",
       "de": "Das war ein entscheidender Schritt auf dem Weg zur nationalsozialistischen Diktatur.",
-      "en": "It was a decisive step on the road to Nazi dictatorship."
+      "en": "It was a decisive step on the road to Nazi dictatorship.",
+      "fr": "Ce fut une étape décisive sur la voie de la dictature nazie.",
+      "es": "Fue un paso decisivo en el camino hacia la dictadura nazi.",
+      "it": "Fu un passo decisivo sulla strada verso la dittatura nazista.",
+      "pt": "Foi um passo decisivo no caminho para a ditadura nazi.",
+      "nl": "Het was een beslissende stap op weg naar de nazidictatuur.",
+      "pl": "Był to decydujący krok na drodze do dyktatury nazistowskiej.",
+      "tr": "Bu, Nazi diktatörlüğüne giden yolda belirleyici bir adımdı.",
+      "zh": "这是通往纳粹独裁道路上的决定性一步。",
+      "ja": "それはナチ独裁へ向かう決定的な一歩でした。",
+      "ko": "이는 나치 독재로 가는 길에서 결정적인 단계였습니다.",
+      "hi": "यह नाजी तानाशाही की राह में निर्णायक कदम था।",
+      "ar": "كان ذلك خطوة حاسمة على طريق الدكتاتورية النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Права исчезают через чрезвычайный указ",
           "de": "Rechte verschwinden durch Notverordnung",
-          "en": "Rights disappear through emergency decree"
+          "en": "Rights disappear through emergency decree",
+          "fr": "Les droits disparaissent par décret d'urgence",
+          "es": "Los derechos desaparecen mediante decreto de emergencia",
+          "it": "I diritti scompaiono con un decreto d'emergenza",
+          "pt": "Direitos desaparecem por decreto de emergência",
+          "nl": "Rechten verdwijnen door een noodverordening",
+          "pl": "Prawa znikają przez dekret nadzwyczajny",
+          "tr": "Haklar olağanüstü kararnameyle kayboldu",
+          "zh": "权利通过紧急法令消失",
+          "ja": "非常令によって権利が消える",
+          "ko": "긴급 명령으로 권리가 사라지다",
+          "hi": "आपात आदेश से अधिकार गायब हुए",
+          "ar": "اختفاء الحقوق عبر مرسوم طارئ"
         },
         "description": {
           "ru": "Указ позволил массовые аресты политических противников и резко ограничил свободу слова, печати и собраний. Диктатура строилась не только насилием, но и юридическими инструментами.",
           "de": "Die Verordnung ermoeglichte Massenverhaftungen politischer Gegner und schraenkte Rede-, Presse- und Versammlungsfreiheit stark ein. Die Diktatur entstand nicht nur durch Gewalt, sondern auch durch juristische Mittel.",
-          "en": "The decree enabled mass arrests of political opponents and sharply restricted freedom of speech, press and assembly. Dictatorship was built not only through violence but also through legal tools."
+          "en": "The decree enabled mass arrests of political opponents and sharply restricted freedom of speech, press and assembly. Dictatorship was built not only through violence but also through legal tools.",
+          "fr": "Le décret permit des arrestations massives d'opposants politiques et limita fortement la liberté d'expression, de la presse et de réunion. La dictature se construisit non seulement par la violence, mais aussi par des instruments juridiques.",
+          "es": "El decreto permitió arrestos masivos de opositores políticos y restringió duramente la libertad de expresión, prensa y reunión. La dictadura se construyó no solo mediante violencia, sino también mediante instrumentos jurídicos.",
+          "it": "Il decreto rese possibili arresti di massa degli oppositori politici e limitò fortemente la libertà di parola, stampa e riunione. La dittatura fu costruita non solo con la violenza, ma anche con strumenti giuridici.",
+          "pt": "O decreto permitiu prisões em massa de opositores políticos e restringiu fortemente a liberdade de expressão, imprensa e reunião. A ditadura foi construída não só pela violência, mas também por instrumentos jurídicos.",
+          "nl": "De verordening maakte massale arrestaties van politieke tegenstanders mogelijk en beperkte de vrijheid van meningsuiting, pers en vergadering sterk. De dictatuur werd niet alleen met geweld opgebouwd, maar ook met juridische middelen.",
+          "pl": "Dekret umożliwił masowe aresztowania przeciwników politycznych i ostro ograniczył wolność słowa, prasy i zgromadzeń. Dyktaturę budowano nie tylko przemocą, lecz także narzędziami prawnymi.",
+          "tr": "Kararname siyasi muhaliflerin kitlesel tutuklanmasına izin verdi ve söz, basın ve toplanma özgürlüğünü sert biçimde sınırladı. Diktatörlük yalnızca şiddetle değil, hukuki araçlarla da kuruldu.",
+          "zh": "该法令允许大规模逮捕政治反对者，并严厉限制言论、出版和集会自由。独裁不仅靠暴力建立，也靠法律工具建立。",
+          "ja": "この命令は政治的反対者の大量逮捕を可能にし、言論、出版、集会の自由を大きく制限しました。独裁は暴力だけでなく、法的手段によっても築かれました。",
+          "ko": "이 명령은 정치적 반대자들의 대규모 체포를 가능하게 했고, 언론, 출판, 집회의 자유를 심하게 제한했습니다. 독재는 폭력뿐 아니라 법적 도구로도 세워졌습니다.",
+          "hi": "इस आदेश ने राजनीतिक विरोधियों की सामूहिक गिरफ्तारियों की अनुमति दी और बोलने, प्रेस और सभा की स्वतंत्रता को कड़ाई से सीमित किया। तानाशाही केवल हिंसा से नहीं, कानूनी साधनों से भी बनी।",
+          "ar": "سمح المرسوم باعتقالات جماعية للمعارضين السياسيين وقيّد بشدة حرية التعبير والصحافة والتجمع. لم تُبن الدكتاتورية بالعنف فقط، بل أيضا بأدوات قانونية."
         },
         "importance": {
           "ru": "Дата помогает понять, почему защита основных прав стала центральной идеей послевоенного Основного закона.",
           "de": "Das Datum hilft zu verstehen, warum der Schutz der Grundrechte nach 1945 zum Kern des Grundgesetzes wurde.",
-          "en": "The date helps explain why protecting basic rights became central to the postwar Basic Law."
+          "en": "The date helps explain why protecting basic rights became central to the postwar Basic Law.",
+          "fr": "Cette date aide à comprendre pourquoi la protection des droits fondamentaux est devenue centrale dans la Loi fondamentale d'après-guerre.",
+          "es": "La fecha ayuda a entender por qué la protección de los derechos fundamentales se volvió central en la Ley Fundamental de posguerra.",
+          "it": "La data aiuta a capire perché la protezione dei diritti fondamentali divenne centrale nella Legge fondamentale del dopoguerra.",
+          "pt": "A data ajuda a compreender por que a proteção dos direitos fundamentais se tornou central na Lei Fundamental do pós-guerra.",
+          "nl": "Deze datum helpt te begrijpen waarom de bescherming van grondrechten na 1945 centraal werd in de Grondwet.",
+          "pl": "Ta data pomaga zrozumieć, dlaczego ochrona praw podstawowych stała się po 1945 roku centrum Ustawy Zasadniczej.",
+          "tr": "Bu tarih, temel hakların korunmasının savaş sonrası Temel Yasa'nın neden merkezinde yer aldığını anlamaya yardımcı olur.",
+          "zh": "这个日期有助于解释为什么保护基本权利成为战后《基本法》的核心。",
+          "ja": "この日付は、基本権の保護が戦後の基本法の中心となった理由を理解する助けになります。",
+          "ko": "이 날짜는 기본권 보호가 전후 기본법의 핵심이 된 이유를 설명해 줍니다.",
+          "hi": "यह तारीख समझने में मदद करती है कि 1945 के बाद मूल अधिकारों की रक्षा मूल कानून का केंद्र क्यों बनी।",
+          "ar": "يساعد هذا التاريخ على فهم سبب جعل حماية الحقوق الأساسية جوهر القانون الأساسي بعد الحرب."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Указ оставался формальной основой нацистских репрессий до конца режима.",
     "de": "Die Verordnung blieb bis zum Ende des Regimes eine formale Grundlage nationalsozialistischer Repression.",
-    "en": "The decree remained a formal basis for Nazi repression until the regime's end."
+    "en": "The decree remained a formal basis for Nazi repression until the regime's end.",
+    "fr": "Le décret resta une base formelle de la répression nazie jusqu'à la fin du régime.",
+    "es": "El decreto siguió siendo una base formal de la represión nazi hasta el final del régimen.",
+    "it": "Il decreto rimase una base formale della repressione nazista fino alla fine del regime.",
+    "pt": "O decreto permaneceu uma base formal da repressão nazi até ao fim do regime.",
+    "nl": "De verordening bleef tot het einde van het regime een formele basis voor nazirepressie.",
+    "pl": "Dekret pozostał formalną podstawą represji nazistowskich aż do końca reżimu.",
+    "tr": "Kararname, rejimin sonuna kadar Nazi baskısının resmi dayanağı olarak kaldı.",
+    "zh": "该法令直到纳粹政权结束前一直是纳粹镇压的正式依据。",
+    "ja": "この命令は、体制の終わりまでナチスの弾圧の正式な根拠であり続けました。",
+    "ko": "이 명령은 정권이 끝날 때까지 나치 탄압의 공식적 근거로 남았습니다.",
+    "hi": "यह आदेश शासन के अंत तक नाजी दमन का औपचारिक आधार बना रहा।",
+    "ar": "ظل المرسوم أساسا رسميا للقمع النازي حتى نهاية النظام."
   },
   "sources": [
     {

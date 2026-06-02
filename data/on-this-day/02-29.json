@@ -11,17 +11,53 @@
     "title": {
       "ru": "Колумб использовал предсказание лунного затмения",
       "de": "Kolumbus nutzt die Vorhersage einer Mondfinsternis",
-      "en": "Columbus uses a lunar eclipse prediction"
+      "en": "Columbus uses a lunar eclipse prediction",
+      "fr": "Colomb utilise une prédiction d'éclipse lunaire",
+      "es": "Colón usa una predicción de eclipse lunar",
+      "it": "Colombo usa una previsione di eclissi lunare",
+      "pt": "Colombo usa uma previsão de eclipse lunar",
+      "nl": "Columbus gebruikt een voorspelling van een maansverduistering",
+      "pl": "Kolumb wykorzystuje przewidywanie zaćmienia Księżyca",
+      "tr": "Kolomb ay tutulması tahminini kullandı",
+      "zh": "哥伦布利用月食预报",
+      "ja": "コロンブスが月食予報を利用する",
+      "ko": "콜럼버스가 월식 예측을 이용하다",
+      "hi": "कोलंबस ने चंद्र ग्रहण की भविष्यवाणी का उपयोग किया",
+      "ar": "كولومبوس يستخدم توقع خسوف القمر"
     },
     "description": {
       "ru": "29 февраля 1504 года, находясь на Ямайке, Христофор Колумб использовал знание о лунном затмении, чтобы добиться помощи для своей команды. Историю часто связывают с астрономическими таблицами немецкого математика и астронома Регiomontanus.",
       "de": "Am 29. Februar 1504 nutzte Christoph Kolumbus auf Jamaika sein Wissen ueber eine Mondfinsternis, um Hilfe fuer seine Mannschaft zu erhalten. Die Geschichte wird haeufig mit den astronomischen Tafeln des deutschen Mathematikers und Astronomen Regiomontanus verbunden.",
-      "en": "On 29 February 1504, while in Jamaica, Christopher Columbus used knowledge of a lunar eclipse to secure help for his crew. The story is often linked to the astronomical tables of the German mathematician and astronomer Regiomontanus."
+      "en": "On 29 February 1504, while in Jamaica, Christopher Columbus used knowledge of a lunar eclipse to secure help for his crew. The story is often linked to the astronomical tables of the German mathematician and astronomer Regiomontanus.",
+      "fr": "Le 29 février 1504, alors qu'il se trouvait en Jamaïque, Christophe Colomb utilisa sa connaissance d'une éclipse lunaire pour obtenir de l'aide pour son équipage. L'histoire est souvent liée aux tables astronomiques du mathématicien et astronome allemand Regiomontanus.",
+      "es": "El 29 de febrero de 1504, estando en Jamaica, Cristóbal Colón usó su conocimiento de un eclipse lunar para conseguir ayuda para su tripulación. La historia suele relacionarse con las tablas astronómicas del matemático y astrónomo alemán Regiomontanus.",
+      "it": "Il 29 febbraio 1504, mentre si trovava in Giamaica, Cristoforo Colombo usò la conoscenza di un'eclissi lunare per ottenere aiuto per il suo equipaggio. La storia è spesso collegata alle tavole astronomiche del matematico e astronomo tedesco Regiomontanus.",
+      "pt": "Em 29 de fevereiro de 1504, estando na Jamaica, Cristóvão Colombo usou o conhecimento de um eclipse lunar para obter ajuda para a sua tripulação. A história é frequentemente ligada às tabelas astronómicas do matemático e astrónomo alemão Regiomontanus.",
+      "nl": "Op 29 februari 1504 gebruikte Christoffel Columbus, terwijl hij op Jamaica was, kennis van een maansverduistering om hulp voor zijn bemanning te krijgen. Het verhaal wordt vaak verbonden met de astronomische tabellen van de Duitse wiskundige en astronoom Regiomontanus.",
+      "pl": "29 lutego 1504 roku, przebywając na Jamajce, Krzysztof Kolumb wykorzystał wiedzę o zaćmieniu Księżyca, aby uzyskać pomoc dla swojej załogi. Historię tę często łączy się z tablicami astronomicznymi niemieckiego matematyka i astronoma Regiomontanusa.",
+      "tr": "29 Şubat 1504'te Jamaika'da bulunan Kristof Kolomb, mürettebatı için yardım sağlamak amacıyla ay tutulması bilgisini kullandı. Bu hikaye sık sık Alman matematikçi ve astronom Regiomontanus'un astronomik tablolarıyla ilişkilendirilir.",
+      "zh": "1504年2月29日，克里斯托弗·哥伦布在牙买加利用自己对月食的知识，为船员争取帮助。这个故事常与德国数学家和天文学家Regiomontanus的天文表联系在一起。",
+      "ja": "1504年2月29日、ジャマイカにいたクリストファー・コロンブスは、月食の知識を使って乗組員への支援を得ようとしました。この話は、ドイツの数学者・天文学者レギオモンタヌスの天文表とよく結びつけられます。",
+      "ko": "1504년 2월 29일, 자메이카에 있던 크리스토퍼 콜럼버스는 월식에 대한 지식을 이용해 선원들을 위한 도움을 얻었습니다. 이 이야기는 독일 수학자이자 천문학자인 레기오몬타누스의 천문표와 자주 연결됩니다.",
+      "hi": "29 फ़रवरी 1504 को जमैका में रहते हुए क्रिस्टोफर कोलंबस ने अपनी टीम के लिए सहायता पाने हेतु चंद्र ग्रहण के ज्ञान का उपयोग किया। यह कहानी अक्सर जर्मन गणितज्ञ और खगोलशास्त्री Regiomontanus की खगोलीय तालिकाओं से जोड़ी जाती है।",
+      "ar": "في 29 فبراير 1504، وأثناء وجوده في جامايكا، استخدم كريستوفر كولومبوس معرفته بخسوف القمر للحصول على مساعدة لطاقمه. وغالبا ما تُربط القصة بالجداول الفلكية للعالم الرياضي والفلكي الألماني ريغيومونتانوس."
     },
     "importance": {
       "ru": "Дата показывает, как немецкая астрономия позднего Средневековья неожиданно оказалась связана с мореплаванием и мировой историей.",
       "de": "Das Datum zeigt, wie deutsche Astronomie des spaeten Mittelalters unerwartet mit Seefahrt und Weltgeschichte verbunden war.",
-      "en": "The date shows how late medieval German astronomy became unexpectedly connected with seafaring and world history."
+      "en": "The date shows how late medieval German astronomy became unexpectedly connected with seafaring and world history.",
+      "fr": "Cette date montre comment l'astronomie allemande de la fin du Moyen Âge fut liée de manière inattendue à la navigation et à l'histoire mondiale.",
+      "es": "La fecha muestra cómo la astronomía alemana de finales de la Edad Media quedó inesperadamente conectada con la navegación y la historia mundial.",
+      "it": "La data mostra come l'astronomia tedesca del tardo Medioevo si collegò in modo inatteso alla navigazione e alla storia mondiale.",
+      "pt": "A data mostra como a astronomia alemã do fim da Idade Média ficou inesperadamente ligada à navegação e à história mundial.",
+      "nl": "Deze datum laat zien hoe laatmiddeleeuwse Duitse astronomie onverwacht verbonden raakte met zeevaart en wereldgeschiedenis.",
+      "pl": "Ta data pokazuje, jak późnośredniowieczna niemiecka astronomia niespodziewanie połączyła się z żeglugą i historią świata.",
+      "tr": "Bu tarih, geç Orta Çağ Alman astronomisinin denizcilik ve dünya tarihiyle beklenmedik biçimde nasıl bağlantı kurduğunu gösterir.",
+      "zh": "这个日期显示，晚期中世纪德国天文学如何意外地与航海和世界历史联系起来。",
+      "ja": "この日付は、中世末期のドイツ天文学が航海と世界史に思いがけず結びついたことを示しています。",
+      "ko": "이 날짜는 후기 중세 독일 천문학이 항해와 세계사와 뜻밖에 연결되었음을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि देर मध्ययुगीन जर्मन खगोलशास्त्र अप्रत्याशित रूप से समुद्री यात्रा और विश्व इतिहास से कैसे जुड़ा।",
+      "ar": "يبين هذا التاريخ كيف ارتبط علم الفلك الألماني في أواخر العصور الوسطى بشكل غير متوقع بالملاحة والتاريخ العالمي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Таблицы Регiomontanus",
           "de": "Die Tafeln des Regiomontanus",
-          "en": "The tables of Regiomontanus"
+          "en": "The tables of Regiomontanus",
+          "fr": "Les tables de Regiomontanus",
+          "es": "Las tablas de Regiomontanus",
+          "it": "Le tavole di Regiomontanus",
+          "pt": "As tabelas de Regiomontanus",
+          "nl": "De tabellen van Regiomontanus",
+          "pl": "Tablice Regiomontanusa",
+          "tr": "Regiomontanus'un tabloları",
+          "zh": "Regiomontanus的天文表",
+          "ja": "レギオモンタヌスの表",
+          "ko": "레기오몬타누스의 표",
+          "hi": "Regiomontanus की तालिकाएँ",
+          "ar": "جداول ريغيومونتانوس"
         },
         "description": {
           "ru": "Регiomontanus, уроженец Франконии, был одним из ведущих европейских астрономов XV века. Его эфемериды помогали вычислять положения небесных тел и использовались мореплавателями.",
           "de": "Regiomontanus, der aus Franken stammte, war einer der fuehrenden europaeischen Astronomen des 15. Jahrhunderts. Seine Ephemeriden halfen, die Positionen von Himmelskoerpern zu berechnen, und wurden von Seefahrern genutzt.",
-          "en": "Regiomontanus, from Franconia, was one of Europe's leading fifteenth-century astronomers. His ephemerides helped calculate the positions of celestial bodies and were used by navigators."
+          "en": "Regiomontanus, from Franconia, was one of Europe's leading fifteenth-century astronomers. His ephemerides helped calculate the positions of celestial bodies and were used by navigators.",
+          "fr": "Regiomontanus, originaire de Franconie, fut l'un des principaux astronomes européens du XVe siècle. Ses éphémérides aidaient à calculer les positions des corps célestes et furent utilisées par des navigateurs.",
+          "es": "Regiomontanus, originario de Franconia, fue uno de los principales astrónomos europeos del siglo XV. Sus efemérides ayudaban a calcular las posiciones de los cuerpos celestes y fueron usadas por navegantes.",
+          "it": "Regiomontanus, originario della Franconia, fu uno dei principali astronomi europei del XV secolo. Le sue effemeridi aiutavano a calcolare le posizioni dei corpi celesti e furono usate dai navigatori.",
+          "pt": "Regiomontanus, natural da Francónia, foi um dos principais astrónomos europeus do século XV. As suas efemérides ajudavam a calcular as posições dos corpos celestes e foram usadas por navegadores.",
+          "nl": "Regiomontanus, afkomstig uit Franken, was een van Europa's belangrijkste astronomen van de vijftiende eeuw. Zijn efemeriden hielpen de posities van hemellichamen te berekenen en werden door zeevaarders gebruikt.",
+          "pl": "Regiomontanus, pochodzący z Frankonii, był jednym z czołowych europejskich astronomów XV wieku. Jego efemerydy pomagały obliczać położenia ciał niebieskich i były używane przez żeglarzy.",
+          "tr": "Frankonya kökenli Regiomontanus, 15. yüzyıl Avrupa'sının önde gelen astronomlarından biriydi. Efemerisleri gök cisimlerinin konumlarını hesaplamaya yardım ediyor ve denizciler tarafından kullanılıyordu.",
+          "zh": "来自弗兰肯的Regiomontanus是15世纪欧洲领先的天文学家之一。他的星历表有助于计算天体位置，并被航海者使用。",
+          "ja": "フランケン出身のレギオモンタヌスは、15世紀ヨーロッパを代表する天文学者の一人でした。彼の暦表は天体の位置計算に役立ち、航海者にも使われました。",
+          "ko": "프랑켄 출신의 레기오몬타누스는 15세기 유럽의 주요 천문학자 중 한 명이었습니다. 그의 천문력은 천체의 위치를 계산하는 데 도움을 주었고 항해자들이 사용했습니다.",
+          "hi": "फ्रैंकोनिया के Regiomontanus पंद्रहवीं सदी के यूरोप के प्रमुख खगोलशास्त्रियों में से एक थे। उनकी एफेमेरिडीज़ खगोलीय पिंडों की स्थिति निकालने में मदद करती थीं और नाविकों द्वारा उपयोग की जाती थीं।",
+          "ar": "كان ريغيومونتانوس، القادم من فرانكونيا، أحد أبرز فلكيي أوروبا في القرن الخامس عشر. ساعدت جداوله الفلكية في حساب مواقع الأجرام السماوية واستخدمها الملاحون."
         },
         "importance": {
           "ru": "Это хороший пример того, как печатные научные таблицы могли менять практические решения далеко от Европы.",
           "de": "Das ist ein gutes Beispiel dafuer, wie gedruckte wissenschaftliche Tafeln praktische Entscheidungen weit entfernt von Europa beeinflussen konnten.",
-          "en": "It is a good example of how printed scientific tables could shape practical decisions far from Europe."
+          "en": "It is a good example of how printed scientific tables could shape practical decisions far from Europe.",
+          "fr": "C'est un bon exemple de la façon dont des tables scientifiques imprimées pouvaient influencer des décisions pratiques loin de l'Europe.",
+          "es": "Es un buen ejemplo de cómo las tablas científicas impresas podían influir en decisiones prácticas lejos de Europa.",
+          "it": "È un buon esempio di come tavole scientifiche stampate potessero influenzare decisioni pratiche lontano dall'Europa.",
+          "pt": "É um bom exemplo de como tabelas científicas impressas podiam influenciar decisões práticas longe da Europa.",
+          "nl": "Het is een goed voorbeeld van hoe gedrukte wetenschappelijke tabellen praktische beslissingen ver van Europa konden beïnvloeden.",
+          "pl": "To dobry przykład tego, jak drukowane tablice naukowe mogły wpływać na praktyczne decyzje daleko od Europy.",
+          "tr": "Bu, basılı bilimsel tabloların Avrupa'dan uzakta pratik kararları nasıl etkileyebildiğine iyi bir örnektir.",
+          "zh": "这是印刷科学表格如何影响远离欧洲的实际决策的好例子。",
+          "ja": "これは、印刷された科学表がヨーロッパから遠く離れた場所で実際の判断に影響を与え得たことを示すよい例です。",
+          "ko": "이는 인쇄된 과학 표가 유럽에서 멀리 떨어진 곳의 실제 결정에 어떻게 영향을 줄 수 있었는지 보여 주는 좋은 예입니다.",
+          "hi": "यह अच्छा उदाहरण है कि मुद्रित वैज्ञानिक तालिकाएँ यूरोप से दूर व्यावहारिक निर्णयों को कैसे प्रभावित कर सकती थीं।",
+          "ar": "إنه مثال جيد على كيف استطاعت الجداول العلمية المطبوعة التأثير في قرارات عملية بعيدا عن أوروبا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Событие для високосного дня",
           "de": "Ein Ereignis fuer den Schalttag",
-          "en": "An event for leap day"
+          "en": "An event for leap day",
+          "fr": "Un événement pour le jour bissextile",
+          "es": "Un acontecimiento para el día bisiesto",
+          "it": "Un evento per il giorno bisestile",
+          "pt": "Um acontecimento para o dia bissexto",
+          "nl": "Een gebeurtenis voor schrikkeldag",
+          "pl": "Wydarzenie na dzień przestępny",
+          "tr": "Artık gün için bir olay",
+          "zh": "闰日事件",
+          "ja": "うるう日の出来事",
+          "ko": "윤일을 위한 사건",
+          "hi": "लीप डे की घटना",
+          "ar": "حدث ليوم كبيس"
         },
         "description": {
           "ru": "29 февраля появляется в календаре только раз в четыре года. Поэтому эта дата особенно удобна для необычной истории о времени, небе и календарных вычислениях.",
           "de": "Der 29. Februar erscheint nur alle vier Jahre im Kalender. Deshalb passt zu diesem Datum besonders gut eine ungewoehnliche Geschichte ueber Zeit, Himmel und Kalenderrechnung.",
-          "en": "29 February appears in the calendar only every four years. That makes it a fitting date for an unusual story about time, the sky and calendar calculation."
+          "en": "29 February appears in the calendar only every four years. That makes it a fitting date for an unusual story about time, the sky and calendar calculation.",
+          "fr": "Le 29 février n'apparaît dans le calendrier qu'une fois tous les quatre ans. Cette date convient donc particulièrement bien à une histoire inhabituelle sur le temps, le ciel et les calculs calendaires.",
+          "es": "El 29 de febrero aparece en el calendario solo cada cuatro años. Por eso esta fecha encaja especialmente bien con una historia inusual sobre el tiempo, el cielo y los cálculos del calendario.",
+          "it": "Il 29 febbraio compare nel calendario solo ogni quattro anni. Per questo la data si adatta particolarmente bene a una storia insolita sul tempo, il cielo e i calcoli del calendario.",
+          "pt": "O dia 29 de fevereiro aparece no calendário apenas de quatro em quatro anos. Por isso, esta data combina especialmente bem com uma história invulgar sobre o tempo, o céu e os cálculos do calendário.",
+          "nl": "29 februari verschijnt slechts eens in de vier jaar op de kalender. Daarom past bij deze datum bijzonder goed een ongewoon verhaal over tijd, hemel en kalenderberekening.",
+          "pl": "29 lutego pojawia się w kalendarzu tylko raz na cztery lata. Dlatego ta data szczególnie pasuje do niezwykłej historii o czasie, niebie i obliczeniach kalendarzowych.",
+          "tr": "29 Şubat takvimde yalnızca dört yılda bir görünür. Bu yüzden zaman, gökyüzü ve takvim hesaplarıyla ilgili sıra dışı bir hikaye için özellikle uygun bir tarihtir.",
+          "zh": "2月29日每四年才出现在日历中一次。因此，这个日期特别适合关于时间、天空和历法计算的不同寻常故事。",
+          "ja": "2月29日は4年に一度だけカレンダーに現れます。そのため、時間、空、暦の計算に関する珍しい物語に特によく合う日付です。",
+          "ko": "2월 29일은 달력에 4년에 한 번만 나타납니다. 그래서 시간, 하늘, 달력 계산에 관한 독특한 이야기에 특히 잘 어울리는 날짜입니다.",
+          "hi": "29 फ़रवरी कैलेंडर में केवल चार साल में एक बार आता है। इसलिए यह तारीख समय, आकाश और कैलेंडर गणना की असामान्य कहानी के लिए खास तौर पर उपयुक्त है।",
+          "ar": "يظهر 29 فبراير في التقويم مرة واحدة كل أربع سنوات فقط. لذلك يناسب هذا التاريخ قصة غير مألوفة عن الوقت والسماء وحسابات التقويم."
         },
         "importance": {
           "ru": "Это добавляет в календарь редкую и запоминающуюся научную историю.",
           "de": "Das gibt dem Kalender eine seltene und einpraegsame Wissenschaftsgeschichte.",
-          "en": "It adds a rare and memorable science story to the calendar."
+          "en": "It adds a rare and memorable science story to the calendar.",
+          "fr": "Cela ajoute au calendrier une histoire scientifique rare et mémorable.",
+          "es": "Añade al calendario una historia científica rara y memorable.",
+          "it": "Aggiunge al calendario una storia scientifica rara e memorabile.",
+          "pt": "Acrescenta ao calendário uma história científica rara e memorável.",
+          "nl": "Het voegt een zeldzaam en memorabel wetenschapsverhaal toe aan de kalender.",
+          "pl": "Dodaje to do kalendarza rzadką i zapadającą w pamięć historię naukową.",
+          "tr": "Takvime nadir ve akılda kalıcı bir bilim hikayesi ekler.",
+          "zh": "这为日历增添了一个罕见而难忘的科学故事。",
+          "ja": "これはカレンダーに、珍しく記憶に残る科学の物語を加えます。",
+          "ko": "이는 달력에 드물고 기억에 남는 과학 이야기를 더합니다.",
+          "hi": "यह कैलेंडर में दुर्लभ और यादगार वैज्ञानिक कहानी जोड़ता है।",
+          "ar": "يضيف ذلك إلى التقويم قصة علمية نادرة وسهلة التذكر."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Регiomontanus — латинизированное имя Иоганна Мюллера из Кёнигсберга во Франконии.",
     "de": "Regiomontanus ist der latinisierte Name von Johannes Mueller aus Koenigsberg in Franken.",
-    "en": "Regiomontanus is the Latinized name of Johannes Mueller from Koenigsberg in Franconia."
+    "en": "Regiomontanus is the Latinized name of Johannes Mueller from Koenigsberg in Franconia.",
+    "fr": "Regiomontanus est le nom latinisé de Johannes Mueller de Koenigsberg en Franconie.",
+    "es": "Regiomontanus es el nombre latinizado de Johannes Mueller de Koenigsberg, en Franconia.",
+    "it": "Regiomontanus è il nome latinizzato di Johannes Mueller di Koenigsberg in Franconia.",
+    "pt": "Regiomontanus é o nome latinizado de Johannes Mueller de Koenigsberg, na Francónia.",
+    "nl": "Regiomontanus is de gelatiniseerde naam van Johannes Mueller uit Koenigsberg in Franken.",
+    "pl": "Regiomontanus to zlatynizowane imię Johannesa Muellera z Koenigsbergu we Frankonii.",
+    "tr": "Regiomontanus, Frankonya'daki Koenigsbergli Johannes Mueller'in Latinceleştirilmiş adıdır.",
+    "zh": "Regiomontanus是来自弗兰肯Koenigsberg的Johannes Mueller的拉丁化名字。",
+    "ja": "Regiomontanusは、フランケン地方Koenigsberg出身のJohannes Muellerのラテン語化された名前です。",
+    "ko": "Regiomontanus는 프랑켄 Koenigsberg 출신 Johannes Mueller의 라틴어식 이름입니다.",
+    "hi": "Regiomontanus फ्रैंकोनिया के Koenigsberg निवासी Johannes Mueller का लैटिनीकृत नाम है।",
+    "ar": "ريغيومونتانوس هو الاسم اللاتيني ليوهانس مولر من كوينيغسبرغ في فرانكونيا."
   },
   "sources": [
     {
