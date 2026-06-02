@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германские войска вошли в Австрию",
       "de": "Deutsche Truppen marschieren in Oesterreich ein",
-      "en": "German troops enter Austria"
+      "en": "German troops enter Austria",
+      "fr": "Les troupes allemandes entrent en Autriche",
+      "es": "Las tropas alemanas entran en Austria",
+      "it": "Le truppe tedesche entrano in Austria",
+      "pt": "Tropas alemãs entram na Áustria",
+      "nl": "Duitse troepen trekken Oostenrijk binnen",
+      "pl": "Wojska niemieckie wkraczają do Austrii",
+      "tr": "Alman birlikleri Avusturya'ya girdi",
+      "zh": "德军进入奥地利",
+      "ja": "ドイツ軍がオーストリアに入る",
+      "ko": "독일군이 오스트리아에 진입하다",
+      "hi": "जर्मन सैनिक ऑस्ट्रिया में दाखिल हुए",
+      "ar": "القوات الألمانية تدخل النمسا"
     },
     "description": {
       "ru": "12 марта 1938 года войска нацистской Германии вошли в Австрию. Это стало началом аншлюса, то есть включения Австрии в состав Германского рейха.",
       "de": "Am 12. Maerz 1938 marschierten Truppen des nationalsozialistischen Deutschlands in Oesterreich ein. Damit begann der Anschluss, also die Eingliederung Oesterreichs in das Deutsche Reich.",
-      "en": "On 12 March 1938, troops of Nazi Germany entered Austria. This marked the beginning of the Anschluss, the incorporation of Austria into the German Reich."
+      "en": "On 12 March 1938, troops of Nazi Germany entered Austria. This marked the beginning of the Anschluss, the incorporation of Austria into the German Reich.",
+      "fr": "Le 12 mars 1938, les troupes de l'Allemagne nazie entrèrent en Autriche. Ce fut le début de l'Anschluss, l'intégration de l'Autriche au Reich allemand.",
+      "es": "El 12 de marzo de 1938, tropas de la Alemania nazi entraron en Austria. Esto marcó el comienzo del Anschluss, la incorporación de Austria al Reich alemán.",
+      "it": "Il 12 marzo 1938 le truppe della Germania nazista entrarono in Austria. Fu l'inizio dell'Anschluss, cioè l'incorporazione dell'Austria nel Reich tedesco.",
+      "pt": "Em 12 de março de 1938, tropas da Alemanha nazi entraram na Áustria. Isto marcou o início do Anschluss, a incorporação da Áustria no Reich alemão.",
+      "nl": "Op 12 maart 1938 trokken troepen van nazi-Duitsland Oostenrijk binnen. Dit was het begin van de Anschluss, de opname van Oostenrijk in het Duitse Rijk.",
+      "pl": "12 marca 1938 roku wojska nazistowskich Niemiec wkroczyły do Austrii. Oznaczało to początek Anschlussu, czyli włączenia Austrii do Rzeszy Niemieckiej.",
+      "tr": "12 Mart 1938'de Nazi Almanyası'nın birlikleri Avusturya'ya girdi. Bu, Avusturya'nın Alman Reich'ına katılması anlamına gelen Anschluss'un başlangıcıydı.",
+      "zh": "1938年3月12日，纳粹德国军队进入奥地利。这标志着德奥合并的开始，即奥地利被并入德意志帝国。",
+      "ja": "1938年3月12日、ナチス・ドイツの軍隊がオーストリアに入りました。これは、オーストリアをドイツ Reich に組み込むアンシュルスの始まりでした。",
+      "ko": "1938년 3월 12일, 나치 독일의 군대가 오스트리아에 진입했습니다. 이는 오스트리아를 독일 제국에 편입하는 안슐루스의 시작이었습니다.",
+      "hi": "12 मार्च 1938 को नाज़ी जर्मनी की सेनाएँ ऑस्ट्रिया में दाखिल हुईं। यह Anschluss की शुरुआत थी, यानी ऑस्ट्रिया को जर्मन राइख में शामिल करना।",
+      "ar": "في 12 مارس 1938 دخلت قوات ألمانيا النازية النمسا. وكان ذلك بداية الأنشلوس، أي ضم النمسا إلى الرايخ الألماني."
     },
     "importance": {
       "ru": "Аншлюс был первым крупным территориальным успехом гитлеровской экспансии в Европе.",
       "de": "Der Anschluss war der erste grosse territoriale Erfolg der hitlerschen Expansion in Europa.",
-      "en": "The Anschluss was the first major territorial success of Hitler's expansion in Europe."
+      "en": "The Anschluss was the first major territorial success of Hitler's expansion in Europe.",
+      "fr": "L'Anschluss fut le premier grand succès territorial de l'expansion hitlérienne en Europe.",
+      "es": "El Anschluss fue el primer gran éxito territorial de la expansión de Hitler en Europa.",
+      "it": "L'Anschluss fu il primo grande successo territoriale dell'espansione hitleriana in Europa.",
+      "pt": "O Anschluss foi o primeiro grande sucesso territorial da expansão de Hitler na Europa.",
+      "nl": "De Anschluss was het eerste grote territoriale succes van Hitlers expansie in Europa.",
+      "pl": "Anschluss był pierwszym dużym sukcesem terytorialnym ekspansji Hitlera w Europie.",
+      "tr": "Anschluss, Hitler'in Avrupa'daki yayılmasının ilk büyük toprak başarısıydı.",
+      "zh": "德奥合并是希特勒在欧洲扩张取得的第一个重大领土成果。",
+      "ja": "アンシュルスは、ヒトラーのヨーロッパ拡張における最初の大きな領土的成功でした。",
+      "ko": "안슐루스는 히틀러의 유럽 팽창에서 첫 번째 큰 영토적 성공이었습니다.",
+      "hi": "Anschluss यूरोप में हिटलर के विस्तार की पहली बड़ी क्षेत्रीय सफलता थी।",
+      "ar": "كان الأنشلوس أول نجاح إقليمي كبير لتوسع هتلر في أوروبا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Шаг к большой войне",
           "de": "Ein Schritt zum grossen Krieg",
-          "en": "A step toward a larger war"
+          "en": "A step toward a larger war",
+          "fr": "Un pas vers une grande guerre",
+          "es": "Un paso hacia una guerra mayor",
+          "it": "Un passo verso una guerra più grande",
+          "pt": "Um passo para uma guerra maior",
+          "nl": "Een stap naar een grotere oorlog",
+          "pl": "Krok ku większej wojnie",
+          "tr": "Daha büyük bir savaşa doğru bir adım",
+          "zh": "迈向更大战争的一步",
+          "ja": "より大きな戦争への一歩",
+          "ko": "더 큰 전쟁을 향한 한 걸음",
+          "hi": "बड़े युद्ध की ओर एक कदम",
+          "ar": "خطوة نحو حرب أكبر"
         },
         "description": {
           "ru": "До начала Второй мировой войны Германия постепенно разрушала европейский порядок, созданный после 1918 года. Аншлюс показал, что угрозы и военное давление могут изменить карту без немедленной войны.",
           "de": "Vor Beginn des Zweiten Weltkriegs zerstoerte Deutschland schrittweise die europaeische Ordnung nach 1918. Der Anschluss zeigte, dass Drohungen und militaerischer Druck die Karte ohne sofortigen Krieg veraendern konnten.",
-          "en": "Before the Second World War began, Germany gradually destroyed the European order created after 1918. The Anschluss showed that threats and military pressure could change the map without immediate war."
+          "en": "Before the Second World War began, Germany gradually destroyed the European order created after 1918. The Anschluss showed that threats and military pressure could change the map without immediate war.",
+          "fr": "Avant le début de la Seconde Guerre mondiale, l'Allemagne détruisait peu à peu l'ordre européen créé après 1918. L'Anschluss montra que les menaces et la pression militaire pouvaient changer la carte sans guerre immédiate.",
+          "es": "Antes de que comenzara la Segunda Guerra Mundial, Alemania destruyó gradualmente el orden europeo creado después de 1918. El Anschluss mostró que las amenazas y la presión militar podían cambiar el mapa sin una guerra inmediata.",
+          "it": "Prima dell'inizio della Seconda guerra mondiale, la Germania distrusse gradualmente l'ordine europeo creato dopo il 1918. L'Anschluss mostrò che minacce e pressione militare potevano cambiare la carta senza una guerra immediata.",
+          "pt": "Antes do início da Segunda Guerra Mundial, a Alemanha destruiu gradualmente a ordem europeia criada depois de 1918. O Anschluss mostrou que ameaças e pressão militar podiam mudar o mapa sem guerra imediata.",
+          "nl": "Voordat de Tweede Wereldoorlog begon, brak Duitsland stap voor stap de Europese orde af die na 1918 was ontstaan. De Anschluss liet zien dat dreiging en militaire druk de kaart konden veranderen zonder onmiddellijke oorlog.",
+          "pl": "Przed wybuchem drugiej wojny światowej Niemcy stopniowo niszczyły europejski porządek stworzony po 1918 roku. Anschluss pokazał, że groźby i presja wojskowa mogą zmienić mapę bez natychmiastowej wojny.",
+          "tr": "İkinci Dünya Savaşı başlamadan önce Almanya, 1918'den sonra kurulan Avrupa düzenini adım adım yıktı. Anschluss, tehditlerin ve askeri baskının haritayı hemen savaş çıkmadan değiştirebileceğini gösterdi.",
+          "zh": "第二次世界大战爆发前，德国逐步破坏了1918年后形成的欧洲秩序。德奥合并表明，威胁和军事压力可以在没有立即开战的情况下改变地图。",
+          "ja": "第二次世界大戦が始まる前、ドイツは1918年後に作られたヨーロッパ秩序を少しずつ破壊していました。アンシュルスは、脅迫と軍事的圧力が即時の戦争なしに地図を変え得ることを示しました。",
+          "ko": "제2차 세계대전이 시작되기 전, 독일은 1918년 이후 만들어진 유럽 질서를 점차 무너뜨렸습니다. 안슐루스는 위협과 군사적 압력이 즉각적인 전쟁 없이도 지도를 바꿀 수 있음을 보여 주었습니다.",
+          "hi": "द्वितीय विश्व युद्ध शुरू होने से पहले जर्मनी ने 1918 के बाद बने यूरोपीय क्रम को धीरे-धीरे तोड़ा। Anschluss ने दिखाया कि धमकियाँ और सैन्य दबाव तुरंत युद्ध के बिना भी नक्शा बदल सकते हैं।",
+          "ar": "قبل بدء الحرب العالمية الثانية كانت ألمانيا تدمر تدريجيا النظام الأوروبي الذي نشأ بعد عام 1918. وأظهر الأنشلوس أن التهديدات والضغط العسكري يمكن أن يغيرا الخريطة من دون حرب فورية."
         },
         "importance": {
           "ru": "Так становится понятнее, почему политика уступок Гитлеру в 1938 году оказалась опасной.",
           "de": "So wird verstaendlicher, warum die Politik der Zugestaendnisse an Hitler 1938 gefaehrlich war.",
-          "en": "This helps explain why making concessions to Hitler in 1938 proved dangerous."
+          "en": "This helps explain why making concessions to Hitler in 1938 proved dangerous.",
+          "fr": "Cela aide à comprendre pourquoi la politique de concessions à Hitler en 1938 s'avéra dangereuse.",
+          "es": "Esto ayuda a entender por qué hacer concesiones a Hitler en 1938 resultó peligroso.",
+          "it": "Questo aiuta a capire perché la politica di concessioni a Hitler nel 1938 si rivelò pericolosa.",
+          "pt": "Isto ajuda a perceber por que a política de concessões a Hitler em 1938 se revelou perigosa.",
+          "nl": "Dit helpt verklaren waarom concessies aan Hitler in 1938 gevaarlijk bleken.",
+          "pl": "Pomaga to zrozumieć, dlaczego polityka ustępstw wobec Hitlera w 1938 roku okazała się niebezpieczna.",
+          "tr": "Bu, 1938'de Hitler'e taviz vermenin neden tehlikeli olduğunu açıklamaya yardımcı olur.",
+          "zh": "这有助于解释为什么1938年对希特勒让步被证明是危险的。",
+          "ja": "これは、1938年にヒトラーへ譲歩する政策がなぜ危険だったのかを理解する助けになります。",
+          "ko": "이는 1938년에 히틀러에게 양보하는 정책이 왜 위험했는지 설명하는 데 도움이 됩니다.",
+          "hi": "इससे समझ आता है कि 1938 में हिटलर को रियायत देना खतरनाक क्यों साबित हुआ।",
+          "ar": "يساعد ذلك على فهم سبب خطورة سياسة تقديم التنازلات لهتلر عام 1938."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Голосование после факта",
           "de": "Abstimmung nach vollendeten Tatsachen",
-          "en": "A vote after the fact"
+          "en": "A vote after the fact",
+          "fr": "Un vote après coup",
+          "es": "Una votación después de los hechos",
+          "it": "Un voto a fatto compiuto",
+          "pt": "Uma votação depois do facto",
+          "nl": "Een stemming na de feiten",
+          "pl": "Głosowanie po fakcie",
+          "tr": "Oldubittiden sonra oylama",
+          "zh": "事后投票",
+          "ja": "既成事実の後の投票",
+          "ko": "사후에 치른 투표",
+          "hi": "घटना के बाद मतदान",
+          "ar": "تصويت بعد وقوع الأمر"
         },
         "description": {
           "ru": "Позднее нацисты провели плебисцит, который должен был показать массовую поддержку аншлюса. Но голосование проходило уже после ввода войск, арестов и мощной пропаганды.",
           "de": "Spaeter organisierten die Nationalsozialisten eine Volksabstimmung, die breite Zustimmung zum Anschluss zeigen sollte. Sie fand jedoch nach dem Einmarsch, nach Verhaftungen und unter massiver Propaganda statt.",
-          "en": "The Nazis later held a plebiscite meant to show broad support for the Anschluss. But it took place after the troop entry, arrests and massive propaganda."
+          "en": "The Nazis later held a plebiscite meant to show broad support for the Anschluss. But it took place after the troop entry, arrests and massive propaganda.",
+          "fr": "Les nazis organisèrent plus tard un plébiscite censé montrer un large soutien à l'Anschluss. Mais il eut lieu après l'entrée des troupes, les arrestations et une propagande massive.",
+          "es": "Los nazis celebraron más tarde un plebiscito destinado a mostrar un amplio apoyo al Anschluss. Pero tuvo lugar después de la entrada de tropas, arrestos y una propaganda masiva.",
+          "it": "I nazisti organizzarono più tardi un plebiscito per mostrare un ampio sostegno all'Anschluss. Ma si svolse dopo l'ingresso delle truppe, gli arresti e una propaganda massiccia.",
+          "pt": "Mais tarde, os nazis organizaram um plebiscito destinado a mostrar amplo apoio ao Anschluss. Mas ele ocorreu depois da entrada das tropas, das prisões e de propaganda maciça.",
+          "nl": "De nazi's hielden later een plebisciet dat brede steun voor de Anschluss moest tonen. Maar het vond plaats na de inval, arrestaties en massale propaganda.",
+          "pl": "Naziści przeprowadzili później plebiscyt, który miał pokazać szerokie poparcie dla Anschlussu. Odbył się jednak już po wkroczeniu wojsk, aresztowaniach i silnej propagandzie.",
+          "tr": "Naziler daha sonra Anschluss'a geniş destek varmış gibi göstermek için bir halk oylaması düzenledi. Ancak bu oylama birliklerin girişinden, tutuklamalardan ve yoğun propagandadan sonra yapıldı.",
+          "zh": "纳粹后来举行公民投票，意在显示对德奥合并的广泛支持。但投票是在军队进入、逮捕和大规模宣传之后进行的。",
+          "ja": "ナチスは後に、アンシュルスへの広い支持を示すための国民投票を行いました。しかしそれは、軍の進入、逮捕、大規模な宣伝の後に実施されました。",
+          "ko": "나치는 나중에 안슐루스에 대한 폭넓은 지지를 보여 주기 위한 국민투표를 실시했습니다. 하지만 그것은 군대 진입, 체포, 대규모 선전 이후에 이루어졌습니다.",
+          "hi": "नाज़ियों ने बाद में Anschluss के लिए व्यापक समर्थन दिखाने वाला जनमत-संग्रह कराया। लेकिन यह सैनिकों के प्रवेश, गिरफ्तारियों और भारी प्रचार के बाद हुआ।",
+          "ar": "نظم النازيون لاحقا استفتاء كان يفترض أن يظهر تأييدا واسعا للأنشلوس. لكنه جرى بعد دخول القوات والاعتقالات والدعاية الكثيفة."
         },
         "importance": {
           "ru": "Это напоминает, что цифры голосования без свободных условий могут вводить в заблуждение.",
           "de": "Das erinnert daran, dass Abstimmungszahlen ohne freie Bedingungen in die Irre fuehren koennen.",
-          "en": "It is a reminder that voting figures can mislead when conditions are not free."
+          "en": "It is a reminder that voting figures can mislead when conditions are not free.",
+          "fr": "Cela rappelle que les chiffres d'un vote peuvent tromper lorsque les conditions ne sont pas libres.",
+          "es": "Recuerda que las cifras de una votación pueden engañar cuando las condiciones no son libres.",
+          "it": "Ricorda che i numeri di una votazione possono ingannare quando le condizioni non sono libere.",
+          "pt": "Isto lembra que os números de uma votação podem enganar quando as condições não são livres.",
+          "nl": "Het herinnert eraan dat stemcijfers kunnen misleiden wanneer de omstandigheden niet vrij zijn.",
+          "pl": "Przypomina to, że wyniki głosowania mogą mylić, gdy warunki nie są wolne.",
+          "tr": "Bu, koşullar özgür olmadığında oy sonuçlarının yanıltıcı olabileceğini hatırlatır.",
+          "zh": "这提醒人们，在不自由的条件下，投票数字可能会误导人。",
+          "ja": "これは、自由な条件がないとき投票の数字は人を誤解させ得る、ということを思い出させます。",
+          "ko": "이는 자유로운 조건이 아닐 때 투표 수치가 사람들을 오도할 수 있음을 상기시킵니다.",
+          "hi": "यह याद दिलाता है कि स्वतंत्र परिस्थितियों के बिना मतदान के आँकड़े भ्रमित कर सकते हैं।",
+          "ar": "يذكّر ذلك بأن أرقام التصويت قد تكون مضللة عندما لا تكون الظروف حرة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "13 марта 1938 года был принят закон о «воссоединении» Австрии с Германским рейхом.",
     "de": "Am 13. Maerz 1938 wurde das Gesetz ueber die Wiedervereinigung Oesterreichs mit dem Deutschen Reich beschlossen.",
-    "en": "On 13 March 1938, the law on the 'reunification' of Austria with the German Reich was passed."
+    "en": "On 13 March 1938, the law on the 'reunification' of Austria with the German Reich was passed.",
+    "fr": "Le 13 mars 1938, la loi sur la « réunification » de l'Autriche avec le Reich allemand fut adoptée.",
+    "es": "El 13 de marzo de 1938 se aprobó la ley sobre la «reunificación» de Austria con el Reich alemán.",
+    "it": "Il 13 marzo 1938 fu approvata la legge sulla «riunificazione» dell'Austria con il Reich tedesco.",
+    "pt": "Em 13 de março de 1938 foi aprovada a lei sobre a «reunificação» da Áustria com o Reich alemão.",
+    "nl": "Op 13 maart 1938 werd de wet over de 'hereniging' van Oostenrijk met het Duitse Rijk aangenomen.",
+    "pl": "13 marca 1938 roku uchwalono ustawę o «zjednoczeniu» Austrii z Rzeszą Niemiecką.",
+    "tr": "13 Mart 1938'de Avusturya'nın Alman Reich'ı ile 'yeniden birleşmesi' hakkındaki yasa kabul edildi.",
+    "zh": "1938年3月13日，关于奥地利与德意志帝国“重新统一”的法律获得通过。",
+    "ja": "1938年3月13日、オーストリアとドイツ Reich の「再統一」に関する法律が成立しました。",
+    "ko": "1938년 3월 13일, 오스트리아와 독일 제국의 '재통일'에 관한 법률이 통과되었습니다.",
+    "hi": "13 मार्च 1938 को ऑस्ट्रिया को जर्मन राइख से 'पुनः एकीकरण' करने का कानून पारित हुआ।",
+    "ar": "في 13 مارس 1938 صدر قانون «إعادة توحيد» النمسا مع الرايخ الألماني."
   },
   "sources": [
     {

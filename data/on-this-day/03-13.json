@@ -11,17 +11,53 @@
     "title": {
       "ru": "Меттерних ушёл в отставку",
       "de": "Metternich tritt zurueck",
-      "en": "Metternich resigns"
+      "en": "Metternich resigns",
+      "fr": "Metternich démissionne",
+      "es": "Metternich dimite",
+      "it": "Metternich si dimette",
+      "pt": "Metternich demite-se",
+      "nl": "Metternich treedt af",
+      "pl": "Metternich ustępuje",
+      "tr": "Metternich istifa etti",
+      "zh": "梅特涅辞职",
+      "ja": "メッテルニヒが辞任",
+      "ko": "메테르니히가 사임하다",
+      "hi": "मेटरनिख ने इस्तीफा दिया",
+      "ar": "مترنيخ يستقيل"
     },
     "description": {
       "ru": "13 марта 1848 года в Вене начались революционные волнения, и князь Клеменс фон Меттерних был вынужден уйти в отставку. Для немецких земель это стало сильным сигналом начала революционной эпохи.",
       "de": "Am 13. Maerz 1848 begannen in Wien revolutionaere Unruhen, und Fuerst Klemens von Metternich musste zuruecktreten. Fuer die deutschen Laender war das ein starkes Signal des Beginns der Revolutionszeit.",
-      "en": "On 13 March 1848, revolutionary unrest began in Vienna, and Prince Klemens von Metternich was forced to resign. For the German lands, this was a strong signal that a revolutionary era had begun."
+      "en": "On 13 March 1848, revolutionary unrest began in Vienna, and Prince Klemens von Metternich was forced to resign. For the German lands, this was a strong signal that a revolutionary era had begun.",
+      "fr": "Le 13 mars 1848, des troubles révolutionnaires commencèrent à Vienne, et le prince Klemens von Metternich fut contraint de démissionner. Pour les terres allemandes, ce fut un signal fort du début d'une époque révolutionnaire.",
+      "es": "El 13 de marzo de 1848 comenzaron disturbios revolucionarios en Viena, y el príncipe Klemens von Metternich se vio obligado a dimitir. Para las tierras alemanas, fue una señal clara del comienzo de una época revolucionaria.",
+      "it": "Il 13 marzo 1848 iniziarono tumulti rivoluzionari a Vienna e il principe Klemens von Metternich fu costretto a dimettersi. Per le terre tedesche fu un forte segnale dell'inizio dell'epoca rivoluzionaria.",
+      "pt": "Em 13 de março de 1848 começaram tumultos revolucionários em Viena, e o príncipe Klemens von Metternich foi obrigado a demitir-se. Para as terras alemãs, isto foi um forte sinal do início de uma época revolucionária.",
+      "nl": "Op 13 maart 1848 begonnen in Wenen revolutionaire onrusten, en prins Klemens von Metternich moest aftreden. Voor de Duitse landen was dit een duidelijk signaal dat een revolutionair tijdperk begon.",
+      "pl": "13 marca 1848 roku w Wiedniu rozpoczęły się wystąpienia rewolucyjne, a książę Klemens von Metternich został zmuszony do ustąpienia. Dla ziem niemieckich był to silny znak początku epoki rewolucyjnej.",
+      "tr": "13 Mart 1848'de Viyana'da devrimci karışıklıklar başladı ve Prens Klemens von Metternich istifa etmek zorunda kaldı. Alman toprakları için bu, devrimci dönemin başladığına dair güçlü bir işaretti.",
+      "zh": "1848年3月13日，维也纳爆发革命动荡，克莱门斯·冯·梅特涅亲王被迫辞职。对德意志各邦来说，这是革命时代开始的强烈信号。",
+      "ja": "1848年3月13日、ウィーンで革命的な騒乱が始まり、クレメンス・フォン・メッテルニヒ公は辞任を余儀なくされました。ドイツ諸邦にとって、これは革命の時代が始まったことを示す強い合図でした。",
+      "ko": "1848년 3월 13일, 빈에서 혁명적 소요가 시작되었고 클레멘스 폰 메테르니히 공은 사임할 수밖에 없었습니다. 독일 지역들에게 이는 혁명의 시대가 시작되었다는 강한 신호였습니다.",
+      "hi": "13 मार्च 1848 को वियना में क्रांतिकारी अशांति शुरू हुई और राजकुमार क्लेमेंस फॉन मेटरनिख को इस्तीफा देना पड़ा। जर्मन क्षेत्रों के लिए यह क्रांतिकारी युग की शुरुआत का मजबूत संकेत था।",
+      "ar": "في 13 مارس 1848 بدأت اضطرابات ثورية في فيينا، واضطر الأمير كليمنس فون مترنيخ إلى الاستقالة. وبالنسبة إلى الأراضي الألمانية كان ذلك إشارة قوية إلى بداية عصر ثوري."
     },
     "importance": {
       "ru": "Меттерних считался символом консервативного порядка после Наполеона, поэтому его падение выглядело как трещина в старой системе.",
       "de": "Metternich galt als Symbol der konservativen Ordnung nach Napoleon, daher wirkte sein Sturz wie ein Riss im alten System.",
-      "en": "Metternich was seen as a symbol of the conservative order after Napoleon, so his fall looked like a crack in the old system."
+      "en": "Metternich was seen as a symbol of the conservative order after Napoleon, so his fall looked like a crack in the old system.",
+      "fr": "Metternich était considéré comme un symbole de l'ordre conservateur après Napoléon; sa chute ressemblait donc à une fissure dans l'ancien système.",
+      "es": "Metternich era visto como símbolo del orden conservador posterior a Napoleón, por eso su caída pareció una grieta en el viejo sistema.",
+      "it": "Metternich era considerato un simbolo dell'ordine conservatore dopo Napoleone, quindi la sua caduta sembrò una crepa nel vecchio sistema.",
+      "pt": "Metternich era visto como símbolo da ordem conservadora após Napoleão, por isso a sua queda pareceu uma fissura no velho sistema.",
+      "nl": "Metternich gold als symbool van de conservatieve orde na Napoleon, daarom leek zijn val op een scheur in het oude systeem.",
+      "pl": "Metternich uchodził za symbol konserwatywnego porządku po Napoleonie, dlatego jego upadek wyglądał jak pęknięcie w starym systemie.",
+      "tr": "Metternich, Napolyon sonrasındaki muhafazakar düzenin sembolü sayılıyordu; bu yüzden düşüşü eski sistemde bir çatlak gibi göründü.",
+      "zh": "梅特涅被视为拿破仑之后保守秩序的象征，因此他的倒台像是旧制度中的一道裂缝。",
+      "ja": "メッテルニヒはナポレオン後の保守秩序の象徴と見なされていたため、彼の失脚は古い体制に入った亀裂のように見えました。",
+      "ko": "메테르니히는 나폴레옹 이후 보수 질서의 상징으로 여겨졌기 때문에, 그의 몰락은 낡은 체제의 균열처럼 보였습니다.",
+      "hi": "मेटरनिख को नेपोलियन के बाद के रूढ़िवादी व्यवस्था का प्रतीक माना जाता था, इसलिए उनका पतन पुरानी प्रणाली में दरार जैसा लगा।",
+      "ar": "كان مترنيخ يُعد رمزا للنظام المحافظ بعد نابليون، لذلك بدا سقوطه كأنه شرخ في النظام القديم."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Мартовская революция",
           "de": "Maerzrevolution",
-          "en": "March Revolution"
+          "en": "March Revolution",
+          "fr": "Révolution de mars",
+          "es": "Revolución de Marzo",
+          "it": "Rivoluzione di marzo",
+          "pt": "Revolução de Março",
+          "nl": "Maartrevolutie",
+          "pl": "Rewolucja marcowa",
+          "tr": "Mart Devrimi",
+          "zh": "三月革命",
+          "ja": "三月革命",
+          "ko": "3월 혁명",
+          "hi": "मार्च क्रांति",
+          "ar": "ثورة مارس"
         },
         "description": {
           "ru": "В 1848 году волнения быстро распространились по Германскому союзу. Люди требовали свободной прессы, конституций, гражданских прав и национального парламента.",
           "de": "1848 breiteten sich die Unruhen schnell im Deutschen Bund aus. Menschen forderten Pressefreiheit, Verfassungen, Buergerrechte und ein nationales Parlament.",
-          "en": "In 1848, unrest spread quickly through the German Confederation. People demanded freedom of the press, constitutions, civil rights and a national parliament."
+          "en": "In 1848, unrest spread quickly through the German Confederation. People demanded freedom of the press, constitutions, civil rights and a national parliament.",
+          "fr": "En 1848, les troubles se propagèrent rapidement dans la Confédération germanique. Les gens réclamaient la liberté de la presse, des constitutions, des droits civiques et un parlement national.",
+          "es": "En 1848, los disturbios se extendieron rápidamente por la Confederación Germánica. La gente exigía libertad de prensa, constituciones, derechos civiles y un parlamento nacional.",
+          "it": "Nel 1848 i disordini si diffusero rapidamente nella Confederazione germanica. Le persone chiedevano libertà di stampa, costituzioni, diritti civili e un parlamento nazionale.",
+          "pt": "Em 1848, os tumultos espalharam-se rapidamente pela Confederação Germânica. As pessoas exigiam liberdade de imprensa, constituições, direitos civis e um parlamento nacional.",
+          "nl": "In 1848 verspreidde de onrust zich snel door de Duitse Bond. Mensen eisten persvrijheid, grondwetten, burgerrechten en een nationaal parlement.",
+          "pl": "W 1848 roku niepokoje szybko rozprzestrzeniły się w Związku Niemieckim. Ludzie domagali się wolności prasy, konstytucji, praw obywatelskich i parlamentu narodowego.",
+          "tr": "1848'de karışıklıklar Alman Konfederasyonu boyunca hızla yayıldı. İnsanlar basın özgürlüğü, anayasalar, yurttaş hakları ve ulusal bir parlamento istiyordu.",
+          "zh": "1848年，动荡迅速蔓延到德意志邦联。人们要求新闻自由、宪法、公民权利和全国议会。",
+          "ja": "1848年、騒乱はドイツ連邦全体へ急速に広がりました。人々は報道の自由、憲法、市民権、国民議会を求めました。",
+          "ko": "1848년, 소요는 독일 연방 전역으로 빠르게 퍼졌습니다. 사람들은 언론의 자유, 헌법, 시민권, 국민 의회를 요구했습니다.",
+          "hi": "1848 में अशांति जर्मन परिसंघ में तेजी से फैल गई। लोग प्रेस की स्वतंत्रता, संविधान, नागरिक अधिकार और राष्ट्रीय संसद की मांग कर रहे थे।",
+          "ar": "في عام 1848 انتشرت الاضطرابات بسرعة في الاتحاد الألماني. طالب الناس بحرية الصحافة والدساتير والحقوق المدنية وبرلمان وطني."
         },
         "importance": {
           "ru": "Это прямой фон к Франкфуртскому национальному собранию 18 мая 1848 года.",
           "de": "Das ist der direkte Hintergrund zur Frankfurter Nationalversammlung vom 18. Mai 1848.",
-          "en": "This is the direct background to the Frankfurt National Assembly of 18 May 1848."
+          "en": "This is the direct background to the Frankfurt National Assembly of 18 May 1848.",
+          "fr": "C'est le contexte direct de l'Assemblée nationale de Francfort du 18 mai 1848.",
+          "es": "Es el trasfondo directo de la Asamblea Nacional de Fráncfort del 18 de mayo de 1848.",
+          "it": "Questo è il contesto diretto dell'Assemblea nazionale di Francoforte del 18 maggio 1848.",
+          "pt": "Este é o contexto direto da Assembleia Nacional de Frankfurt de 18 de maio de 1848.",
+          "nl": "Dit is de directe achtergrond van de Nationale Vergadering van Frankfurt van 18 mei 1848.",
+          "pl": "To bezpośrednie tło dla Frankfurckiego Zgromadzenia Narodowego z 18 maja 1848 roku.",
+          "tr": "Bu, 18 Mayıs 1848'deki Frankfurt Ulusal Meclisi'nin doğrudan arka planıdır.",
+          "zh": "这是1848年5月18日法兰克福国民议会的直接背景。",
+          "ja": "これは1848年5月18日のフランクフルト国民議会へ直接つながる背景です。",
+          "ko": "이는 1848년 5월 18일 프랑크푸르트 국민의회의 직접적인 배경입니다.",
+          "hi": "यह 18 मई 1848 की फ्रैंकफर्ट राष्ट्रीय सभा की सीधी पृष्ठभूमि है।",
+          "ar": "هذه هي الخلفية المباشرة للجمعية الوطنية في فرانكفورت في 18 مايو 1848."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Меттерних бежал в изгнание в Англию, но позже вернулся в Австрию.",
     "de": "Metternich floh ins Exil nach England, kehrte spaeter aber nach Oesterreich zurueck.",
-    "en": "Metternich fled into exile in England, but later returned to Austria."
+    "en": "Metternich fled into exile in England, but later returned to Austria.",
+    "fr": "Metternich s'exila en Angleterre, mais revint plus tard en Autriche.",
+    "es": "Metternich huyó al exilio en Inglaterra, pero más tarde regresó a Austria.",
+    "it": "Metternich fuggì in esilio in Inghilterra, ma in seguito tornò in Austria.",
+    "pt": "Metternich fugiu para o exílio em Inglaterra, mas mais tarde regressou à Áustria.",
+    "nl": "Metternich vluchtte in ballingschap naar Engeland, maar keerde later terug naar Oostenrijk.",
+    "pl": "Metternich uciekł na emigrację do Anglii, ale później wrócił do Austrii.",
+    "tr": "Metternich İngiltere'ye sürgüne kaçtı, ancak daha sonra Avusturya'ya döndü.",
+    "zh": "梅特涅流亡到英国，但后来回到奥地利。",
+    "ja": "メッテルニヒはイングランドへ亡命しましたが、後にオーストリアへ戻りました。",
+    "ko": "메테르니히는 영국으로 망명했지만, 나중에 오스트리아로 돌아왔습니다.",
+    "hi": "मेटरनिख इंग्लैंड में निर्वासन के लिए भागे, लेकिन बाद में ऑस्ट्रिया लौट आए।",
+    "ar": "فر مترنيخ إلى المنفى في إنجلترا، لكنه عاد لاحقا إلى النمسا."
   },
   "sources": [
     {
