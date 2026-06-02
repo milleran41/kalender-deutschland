@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начался процесс над Адольфом Эйхманом",
       "de": "Der Prozess gegen Adolf Eichmann beginnt",
-      "en": "The trial of Adolf Eichmann begins"
+      "en": "The trial of Adolf Eichmann begins",
+      "fr": "Le procès d'Adolf Eichmann commence",
+      "es": "Comienza el juicio contra Adolf Eichmann",
+      "it": "Inizia il processo contro Adolf Eichmann",
+      "pt": "Começa o julgamento de Adolf Eichmann",
+      "nl": "Het proces tegen Adolf Eichmann begint",
+      "pl": "Rozpoczyna się proces Adolfa Eichmanna",
+      "tr": "Adolf Eichmann davası başladı",
+      "zh": "阿道夫·艾希曼审判开始",
+      "ja": "アドルフ・アイヒマン裁判が始まる",
+      "ko": "아돌프 아이히만 재판이 시작되다",
+      "hi": "एडॉल्फ आइख़मान का मुकदमा शुरू हुआ",
+      "ar": "بدء محاكمة أدولف آيخمان"
     },
     "description": {
       "ru": "11 апреля 1961 года в Иерусалиме начался процесс над Адольфом Эйхманом. Эйхман был одним из организаторов депортации евреев в системе нацистского уничтожения.",
       "de": "Am 11. April 1961 begann in Jerusalem der Prozess gegen Adolf Eichmann. Eichmann war einer der Organisatoren der Deportation von Juden im System der nationalsozialistischen Vernichtung.",
-      "en": "On 11 April 1961, the trial of Adolf Eichmann began in Jerusalem. Eichmann was one of the organizers of the deportation of Jews within the Nazi system of extermination."
+      "en": "On 11 April 1961, the trial of Adolf Eichmann began in Jerusalem. Eichmann was one of the organizers of the deportation of Jews within the Nazi system of extermination.",
+      "fr": "Le 11 avril 1961, le procès d'Adolf Eichmann commença à Jérusalem. Eichmann fut l'un des organisateurs de la déportation des Juifs dans le système nazi d'extermination.",
+      "es": "El 11 de abril de 1961 comenzó en Jerusalén el juicio contra Adolf Eichmann. Eichmann fue uno de los organizadores de la deportación de judíos dentro del sistema nazi de exterminio.",
+      "it": "L'11 aprile 1961 iniziò a Gerusalemme il processo contro Adolf Eichmann. Eichmann fu uno degli organizzatori della deportazione degli ebrei nel sistema nazista di sterminio.",
+      "pt": "Em 11 de abril de 1961 começou em Jerusalém o julgamento de Adolf Eichmann. Eichmann foi um dos organizadores da deportação de judeus no sistema nazi de extermínio.",
+      "nl": "Op 11 april 1961 begon in Jeruzalem het proces tegen Adolf Eichmann. Eichmann was een van de organisatoren van de deportatie van Joden binnen het nazistische vernietigingssysteem.",
+      "pl": "11 kwietnia 1961 roku w Jerozolimie rozpoczął się proces Adolfa Eichmanna. Eichmann był jednym z organizatorów deportacji Żydów w nazistowskim systemie zagłady.",
+      "tr": "11 Nisan 1961'de Kudüs'te Adolf Eichmann'ın davası başladı. Eichmann, Nazi imha sistemi içinde Yahudilerin sürgün edilmesini örgütleyenlerden biriydi.",
+      "zh": "1961年4月11日，阿道夫·艾希曼审判在耶路撒冷开始。艾希曼是纳粹灭绝体系中组织驱逐犹太人的人物之一。",
+      "ja": "1961年4月11日、エルサレムでアドルフ・アイヒマンの裁判が始まりました。アイヒマンは、ナチスの絶滅体制におけるユダヤ人移送の組織者の一人でした。",
+      "ko": "1961년 4월 11일, 예루살렘에서 아돌프 아이히만 재판이 시작되었습니다. 아이히만은 나치 절멸 체계 안에서 유대인 강제 이송을 조직한 인물 중 하나였습니다.",
+      "hi": "11 अप्रैल 1961 को यरूशलम में एडॉल्फ आइख़मान का मुकदमा शुरू हुआ। आइख़मान नाज़ी विनाश व्यवस्था में यहूदियों के निर्वासन के आयोजकों में से एक था।",
+      "ar": "في 11 أبريل 1961 بدأت في القدس محاكمة أدولف آيخمان. كان آيخمان أحد منظمي ترحيل اليهود ضمن نظام الإبادة النازي."
     },
     "importance": {
       "ru": "Процесс сделал свидетельства выживших центральной частью общественной памяти о Холокосте.",
       "de": "Der Prozess machte die Aussagen von Ueberlebenden zu einem zentralen Teil der oeffentlichen Erinnerung an den Holocaust.",
-      "en": "The trial made survivor testimony a central part of public memory of the Holocaust."
+      "en": "The trial made survivor testimony a central part of public memory of the Holocaust.",
+      "fr": "Le procès fit des témoignages de survivants une partie centrale de la mémoire publique de la Shoah.",
+      "es": "El juicio convirtió los testimonios de los supervivientes en una parte central de la memoria pública del Holocausto.",
+      "it": "Il processo rese le testimonianze dei sopravvissuti una parte centrale della memoria pubblica dell'Olocausto.",
+      "pt": "O julgamento tornou os testemunhos dos sobreviventes uma parte central da memória pública do Holocausto.",
+      "nl": "Het proces maakte getuigenissen van overlevenden tot een centraal deel van de publieke herinnering aan de Holocaust.",
+      "pl": "Proces uczynił świadectwa ocalałych centralną częścią publicznej pamięci o Holokauście.",
+      "tr": "Dava, hayatta kalanların tanıklıklarını Holokost'un kamusal hafızasının merkezi bir parçası haline getirdi.",
+      "zh": "这场审判使幸存者证词成为大屠杀公共记忆的核心部分。",
+      "ja": "この裁判は、生存者の証言をホロコーストの公的記憶の中心的な部分にしました。",
+      "ko": "이 재판은 생존자 증언을 홀로코스트에 대한 공적 기억의 중심 부분으로 만들었습니다.",
+      "hi": "इस मुकदमे ने बचे हुए लोगों की गवाही को होलोकॉस्ट की सार्वजनिक स्मृति का केंद्रीय हिस्सा बना दिया।",
+      "ar": "جعلت المحاكمة شهادات الناجين جزءا مركزيا من الذاكرة العامة للهولوكوست."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Суд и память",
           "de": "Gericht und Erinnerung",
-          "en": "Trial and memory"
+          "en": "Trial and memory",
+          "fr": "Justice et mémoire",
+          "es": "Juicio y memoria",
+          "it": "Processo e memoria",
+          "pt": "Julgamento e memória",
+          "nl": "Proces en herinnering",
+          "pl": "Proces i pamięć",
+          "tr": "Dava ve hafıza",
+          "zh": "审判与记忆",
+          "ja": "裁判と記憶",
+          "ko": "재판과 기억",
+          "hi": "मुकदमा और स्मृति",
+          "ar": "المحاكمة والذاكرة"
         },
         "description": {
           "ru": "На процессе подробно звучали рассказы свидетелей о депортациях, гетто и лагерях. Это было важно не только для приговора, но и для понимания масштаба преступлений.",
           "de": "Im Prozess wurden Zeugenaussagen ueber Deportationen, Ghettos und Lager ausfuehrlich gehoert. Das war nicht nur fuer das Urteil wichtig, sondern auch fuer das Verstaendnis des Ausmasses der Verbrechen.",
-          "en": "The trial heard detailed witness accounts of deportations, ghettos and camps. This mattered not only for the verdict but also for understanding the scale of the crimes."
+          "en": "The trial heard detailed witness accounts of deportations, ghettos and camps. This mattered not only for the verdict but also for understanding the scale of the crimes.",
+          "fr": "Le procès entendit des récits détaillés de témoins sur les déportations, les ghettos et les camps. Cela comptait non seulement pour le verdict, mais aussi pour comprendre l'ampleur des crimes.",
+          "es": "En el juicio se escucharon relatos detallados de testigos sobre deportaciones, guetos y campos. Esto fue importante no solo para el veredicto, sino también para comprender la escala de los crímenes.",
+          "it": "Nel processo furono ascoltate testimonianze dettagliate su deportazioni, ghetti e campi. Questo fu importante non solo per il verdetto, ma anche per comprendere la portata dei crimini.",
+          "pt": "No julgamento foram ouvidos relatos detalhados de testemunhas sobre deportações, guetos e campos. Isto foi importante não só para o veredicto, mas também para compreender a escala dos crimes.",
+          "nl": "Tijdens het proces werden gedetailleerde getuigenverklaringen over deportaties, getto's en kampen gehoord. Dit was niet alleen belangrijk voor het vonnis, maar ook voor het begrijpen van de omvang van de misdaden.",
+          "pl": "Podczas procesu wysłuchano szczegółowych relacji świadków o deportacjach, gettach i obozach. Było to ważne nie tylko dla wyroku, lecz także dla zrozumienia skali zbrodni.",
+          "tr": "Davada sürgünler, gettolar ve kamplar hakkında ayrıntılı tanık anlatımları dinlendi. Bu yalnızca karar için değil, suçların ölçeğini anlamak için de önemliydi.",
+          "zh": "审判听取了关于驱逐、隔都和集中营的详细证人叙述。这不仅对判决重要，也有助于理解罪行的规模。",
+          "ja": "裁判では、移送、ゲットー、収容所についての詳細な証言が聞かれました。これは判決だけでなく、犯罪の規模を理解するためにも重要でした。",
+          "ko": "재판에서는 강제 이송, 게토, 수용소에 대한 자세한 증언이 들렸습니다. 이는 판결뿐 아니라 범죄의 규모를 이해하는 데도 중요했습니다.",
+          "hi": "मुकदमे में निर्वासन, घेट्टो और शिविरों पर गवाहों की विस्तृत बातें सुनी गईं। यह केवल फैसले के लिए नहीं, बल्कि अपराधों के पैमाने को समझने के लिए भी महत्वपूर्ण था।",
+          "ar": "استمعت المحكمة إلى شهادات مفصلة عن الترحيلات والغيتوهات والمعسكرات. كان ذلك مهما ليس فقط للحكم، بل أيضا لفهم حجم الجرائم."
         },
         "importance": {
           "ru": "Дата показывает, как послевоенное правосудие стало частью исторического знания.",
           "de": "Das Datum zeigt, wie Nachkriegsjustiz Teil historischen Wissens wurde.",
-          "en": "The date shows how postwar justice became part of historical knowledge."
+          "en": "The date shows how postwar justice became part of historical knowledge.",
+          "fr": "Cette date montre comment la justice d'après-guerre devint une partie du savoir historique.",
+          "es": "La fecha muestra cómo la justicia de posguerra se convirtió en parte del conocimiento histórico.",
+          "it": "La data mostra come la giustizia del dopoguerra divenne parte della conoscenza storica.",
+          "pt": "A data mostra como a justiça do pós-guerra se tornou parte do conhecimento histórico.",
+          "nl": "Deze datum laat zien hoe naoorlogse rechtspraak deel werd van historische kennis.",
+          "pl": "Ta data pokazuje, jak powojenna sprawiedliwość stała się częścią wiedzy historycznej.",
+          "tr": "Bu tarih, savaş sonrası adaletin tarihsel bilginin parçası haline nasıl geldiğini gösterir.",
+          "zh": "这个日期显示，战后司法如何成为历史知识的一部分。",
+          "ja": "この日付は、戦後の司法が歴史的知識の一部になったことを示しています。",
+          "ko": "이 날짜는 전후 정의가 역사 지식의 일부가 된 과정을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि युद्धोत्तर न्याय ऐतिहासिक ज्ञान का हिस्सा कैसे बना।",
+          "ar": "يبين هذا التاريخ كيف أصبحت عدالة ما بعد الحرب جزءا من المعرفة التاريخية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Эйхман был захвачен израильскими агентами в Аргентине в 1960 году и доставлен в Израиль для суда.",
     "de": "Eichmann wurde 1960 von israelischen Agenten in Argentinien gefasst und nach Israel gebracht.",
-    "en": "Eichmann was captured by Israeli agents in Argentina in 1960 and brought to Israel for trial."
+    "en": "Eichmann was captured by Israeli agents in Argentina in 1960 and brought to Israel for trial.",
+    "fr": "Eichmann fut capturé par des agents israéliens en Argentine en 1960 et conduit en Israël pour y être jugé.",
+    "es": "Eichmann fue capturado por agentes israelíes en Argentina en 1960 y llevado a Israel para ser juzgado.",
+    "it": "Eichmann fu catturato da agenti israeliani in Argentina nel 1960 e portato in Israele per il processo.",
+    "pt": "Eichmann foi capturado por agentes israelitas na Argentina em 1960 e levado para Israel para julgamento.",
+    "nl": "Eichmann werd in 1960 door Israëlische agenten in Argentinië gevangengenomen en naar Israël gebracht voor berechting.",
+    "pl": "Eichmann został schwytany przez izraelskich agentów w Argentynie w 1960 roku i przewieziony do Izraela na proces.",
+    "tr": "Eichmann 1960'ta Arjantin'de İsrailli ajanlar tarafından yakalandı ve yargılanmak üzere İsrail'e götürüldü.",
+    "zh": "艾希曼于1960年在阿根廷被以色列特工抓获，并被带到以色列受审。",
+    "ja": "アイヒマンは1960年にアルゼンチンでイスラエルの工作員に捕らえられ、裁判のためイスラエルへ連行されました。",
+    "ko": "아이히만은 1960년 아르헨티나에서 이스라엘 요원들에게 체포되어 재판을 받기 위해 이스라엘로 이송되었습니다.",
+    "hi": "आइख़मान को 1960 में अर्जेंटीना में इज़राइली एजेंटों ने पकड़ लिया और मुकदमे के लिए इज़राइल ले जाया गया।",
+    "ar": "قبض عملاء إسرائيليون على آيخمان في الأرجنتين عام 1960 ونُقل إلى إسرائيل لمحاكمته."
   },
   "sources": [
     {
