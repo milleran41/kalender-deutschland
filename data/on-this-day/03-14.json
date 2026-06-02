@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Альберт Эйнштейн",
       "de": "Albert Einstein wird geboren",
-      "en": "Albert Einstein is born"
+      "en": "Albert Einstein is born",
+      "fr": "Naissance d'Albert Einstein",
+      "es": "Nace Albert Einstein",
+      "it": "Nasce Albert Einstein",
+      "pt": "Nasce Albert Einstein",
+      "nl": "Albert Einstein wordt geboren",
+      "pl": "Urodził się Albert Einstein",
+      "tr": "Albert Einstein doğdu",
+      "zh": "阿尔伯特·爱因斯坦出生",
+      "ja": "アルベルト・アインシュタインが生まれる",
+      "ko": "알베르트 아인슈타인이 태어나다",
+      "hi": "अल्बर्ट आइंस्टीन का जन्म हुआ",
+      "ar": "ولادة ألبرت أينشتاين"
     },
     "description": {
       "ru": "14 марта 1879 года в Ульме родился Альберт Эйнштейн. Он стал одним из самых известных физиков в истории и получил Нобелевскую премию по физике.",
       "de": "Am 14. Maerz 1879 wurde Albert Einstein in Ulm geboren. Er wurde einer der bekanntesten Physiker der Geschichte und erhielt den Nobelpreis fuer Physik.",
-      "en": "On 14 March 1879, Albert Einstein was born in Ulm. He became one of the most famous physicists in history and received the Nobel Prize in Physics."
+      "en": "On 14 March 1879, Albert Einstein was born in Ulm. He became one of the most famous physicists in history and received the Nobel Prize in Physics.",
+      "fr": "Le 14 mars 1879, Albert Einstein naquit à Ulm. Il devint l'un des physiciens les plus célèbres de l'histoire et reçut le prix Nobel de physique.",
+      "es": "El 14 de marzo de 1879 nació Albert Einstein en Ulm. Llegó a ser uno de los físicos más famosos de la historia y recibió el Premio Nobel de Física.",
+      "it": "Il 14 marzo 1879 Albert Einstein nacque a Ulm. Divenne uno dei fisici più famosi della storia e ricevette il Premio Nobel per la fisica.",
+      "pt": "Em 14 de março de 1879, Albert Einstein nasceu em Ulm. Tornou-se um dos físicos mais famosos da história e recebeu o Prémio Nobel da Física.",
+      "nl": "Op 14 maart 1879 werd Albert Einstein in Ulm geboren. Hij werd een van de beroemdste natuurkundigen in de geschiedenis en ontving de Nobelprijs voor Natuurkunde.",
+      "pl": "14 marca 1879 roku w Ulm urodził się Albert Einstein. Stał się jednym z najsłynniejszych fizyków w historii i otrzymał Nagrodę Nobla w dziedzinie fizyki.",
+      "tr": "14 Mart 1879'da Albert Einstein Ulm'da doğdu. Tarihin en ünlü fizikçilerinden biri oldu ve Nobel Fizik Ödülü'nü aldı.",
+      "zh": "1879年3月14日，阿尔伯特·爱因斯坦出生于乌尔姆。他成为历史上最著名的物理学家之一，并获得诺贝尔物理学奖。",
+      "ja": "1879年3月14日、アルベルト・アインシュタインはウルムで生まれました。彼は歴史上最も有名な物理学者の一人となり、ノーベル物理学賞を受賞しました。",
+      "ko": "1879년 3월 14일, 알베르트 아인슈타인이 울름에서 태어났습니다. 그는 역사상 가장 유명한 물리학자 중 한 명이 되었고 노벨 물리학상을 받았습니다.",
+      "hi": "14 मार्च 1879 को अल्बर्ट आइंस्टीन का जन्म उल्म में हुआ। वे इतिहास के सबसे प्रसिद्ध भौतिकविदों में से एक बने और उन्हें भौतिकी का नोबेल पुरस्कार मिला।",
+      "ar": "في 14 مارس 1879 وُلد ألبرت أينشتاين في أولم. أصبح أحد أشهر الفيزيائيين في التاريخ وحصل على جائزة نوبل في الفيزياء."
     },
     "importance": {
       "ru": "Его работы изменили понимание пространства, времени, света и энергии.",
       "de": "Seine Arbeiten veraenderten das Verstaendnis von Raum, Zeit, Licht und Energie.",
-      "en": "His work changed the understanding of space, time, light and energy."
+      "en": "His work changed the understanding of space, time, light and energy.",
+      "fr": "Ses travaux ont changé la compréhension de l'espace, du temps, de la lumière et de l'énergie.",
+      "es": "Sus trabajos cambiaron la comprensión del espacio, el tiempo, la luz y la energía.",
+      "it": "I suoi lavori cambiarono la comprensione dello spazio, del tempo, della luce e dell'energia.",
+      "pt": "Os seus trabalhos mudaram a compreensão do espaço, do tempo, da luz e da energia.",
+      "nl": "Zijn werk veranderde het begrip van ruimte, tijd, licht en energie.",
+      "pl": "Jego prace zmieniły rozumienie przestrzeni, czasu, światła i energii.",
+      "tr": "Çalışmaları uzay, zaman, ışık ve enerji anlayışını değiştirdi.",
+      "zh": "他的工作改变了人们对空间、时间、光和能量的理解。",
+      "ja": "彼の研究は、空間、時間、光、エネルギーの理解を変えました。",
+      "ko": "그의 연구는 공간, 시간, 빛, 에너지에 대한 이해를 바꾸었습니다.",
+      "hi": "उनके काम ने स्थान, समय, प्रकाश और ऊर्जा की समझ बदल दी।",
+      "ar": "غيّرت أعماله فهم الفضاء والزمن والضوء والطاقة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Нобелевская премия за фотоэффект",
           "de": "Nobelpreis fuer den photoelektrischen Effekt",
-          "en": "Nobel Prize for the photoelectric effect"
+          "en": "Nobel Prize for the photoelectric effect",
+          "fr": "Prix Nobel pour l'effet photoélectrique",
+          "es": "Premio Nobel por el efecto fotoeléctrico",
+          "it": "Premio Nobel per l'effetto fotoelettrico",
+          "pt": "Prémio Nobel pelo efeito fotoelétrico",
+          "nl": "Nobelprijs voor het foto-elektrisch effect",
+          "pl": "Nagroda Nobla za efekt fotoelektryczny",
+          "tr": "Fotoelektrik etki için Nobel Ödülü",
+          "zh": "因光电效应获得诺贝尔奖",
+          "ja": "光電効果によるノーベル賞",
+          "ko": "광전 효과로 받은 노벨상",
+          "hi": "प्रकाश-विद्युत प्रभाव के लिए नोबेल पुरस्कार",
+          "ar": "جائزة نوبل عن التأثير الكهروضوئي"
         },
         "description": {
           "ru": "Эйнштейн получил премию не прямо за теорию относительности, а за объяснение фотоэлектрического эффекта. Это открытие стало важным шагом к квантовой физике.",
           "de": "Einstein erhielt den Preis nicht direkt fuer die Relativitaetstheorie, sondern fuer die Erklaerung des photoelektrischen Effekts. Diese Arbeit war ein wichtiger Schritt zur Quantenphysik.",
-          "en": "Einstein received the prize not directly for relativity but for explaining the photoelectric effect. That work was an important step toward quantum physics."
+          "en": "Einstein received the prize not directly for relativity but for explaining the photoelectric effect. That work was an important step toward quantum physics.",
+          "fr": "Einstein reçut le prix non pas directement pour la relativité, mais pour l'explication de l'effet photoélectrique. Ce travail fut une étape importante vers la physique quantique.",
+          "es": "Einstein recibió el premio no directamente por la relatividad, sino por explicar el efecto fotoeléctrico. Ese trabajo fue un paso importante hacia la física cuántica.",
+          "it": "Einstein ricevette il premio non direttamente per la relatività, ma per la spiegazione dell'effetto fotoelettrico. Quel lavoro fu un passo importante verso la fisica quantistica.",
+          "pt": "Einstein recebeu o prémio não diretamente pela relatividade, mas pela explicação do efeito fotoelétrico. Esse trabalho foi um passo importante para a física quântica.",
+          "nl": "Einstein kreeg de prijs niet rechtstreeks voor de relativiteit, maar voor zijn verklaring van het foto-elektrisch effect. Dat werk was een belangrijke stap naar de kwantumfysica.",
+          "pl": "Einstein otrzymał nagrodę nie bezpośrednio za teorię względności, lecz za wyjaśnienie efektu fotoelektrycznego. Ta praca była ważnym krokiem ku fizyce kwantowej.",
+          "tr": "Einstein ödülü doğrudan görelilik için değil, fotoelektrik etkiyi açıklaması için aldı. Bu çalışma kuantum fiziğine doğru önemli bir adımdı.",
+          "zh": "爱因斯坦获奖并不是直接因为相对论，而是因为解释了光电效应。这项工作是通向量子物理的重要一步。",
+          "ja": "アインシュタインは相対性理論そのものではなく、光電効果の説明によって受賞しました。この研究は量子物理学への重要な一歩でした。",
+          "ko": "아인슈타인은 상대성이론이 아니라 광전 효과를 설명한 공로로 상을 받았습니다. 그 연구는 양자물리학으로 나아가는 중요한 단계였습니다.",
+          "hi": "आइंस्टीन को पुरस्कार सीधे सापेक्षता के लिए नहीं, बल्कि प्रकाश-विद्युत प्रभाव की व्याख्या के लिए मिला। यह काम क्वांटम भौतिकी की ओर एक महत्वपूर्ण कदम था।",
+          "ar": "حصل أينشتاين على الجائزة لا بسبب النسبية مباشرة، بل لتفسيره التأثير الكهروضوئي. وكان هذا العمل خطوة مهمة نحو فيزياء الكم."
         },
         "importance": {
           "ru": "Интересно, что самый знаменитый физик получил Нобеля за работу, которую многие школьники сначала даже не связывают с ним.",
           "de": "Interessant ist, dass der beruehmteste Physiker den Nobelpreis fuer eine Arbeit erhielt, die viele Schueler zunaechst gar nicht mit ihm verbinden.",
-          "en": "It is interesting that the most famous physicist won the Nobel Prize for work many students do not first associate with him."
+          "en": "It is interesting that the most famous physicist won the Nobel Prize for work many students do not first associate with him.",
+          "fr": "Il est intéressant que le physicien le plus célèbre ait reçu le Nobel pour un travail que beaucoup d'élèves ne lui associent pas d'abord.",
+          "es": "Es interesante que el físico más famoso ganara el Nobel por un trabajo que muchos estudiantes no asocian primero con él.",
+          "it": "È interessante che il fisico più famoso abbia vinto il Nobel per un lavoro che molti studenti all'inizio non collegano a lui.",
+          "pt": "É interessante que o físico mais famoso tenha recebido o Nobel por um trabalho que muitos alunos não associam primeiro a ele.",
+          "nl": "Het is interessant dat de beroemdste natuurkundige de Nobelprijs kreeg voor werk dat veel leerlingen niet meteen met hem verbinden.",
+          "pl": "To ciekawe, że najsłynniejszy fizyk dostał Nobla za pracę, której wielu uczniów początkowo z nim nie kojarzy.",
+          "tr": "En ünlü fizikçinin Nobel'i, birçok öğrencinin ilk anda onunla ilişkilendirmediği bir çalışma için alması ilginçtir.",
+          "zh": "有趣的是，这位最著名的物理学家获得诺贝尔奖，是因为许多学生一开始并不会把它与他联系起来的工作。",
+          "ja": "最も有名な物理学者が、多くの生徒が最初は彼と結びつけない研究でノーベル賞を受けたのは興味深いことです。",
+          "ko": "가장 유명한 물리학자가 많은 학생들이 처음에는 그와 연결하지 않는 연구로 노벨상을 받은 점이 흥미롭습니다.",
+          "hi": "यह रोचक है कि सबसे प्रसिद्ध भौतिकविद को उस काम के लिए नोबेल मिला जिसे कई विद्यार्थी शुरुआत में उनसे जोड़ते भी नहीं।",
+          "ar": "من المثير أن أشهر فيزيائي حصل على نوبل عن عمل لا يربطه به كثير من الطلاب في البداية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Дата рождения Эйнштейна, 14 марта, в записи 3/14 похожа на число пи, поэтому её часто связывают с Днём числа пи.",
     "de": "Einsteins Geburtstag, der 14. Maerz, sieht in der Schreibweise 3/14 wie die Zahl Pi aus und wird deshalb oft mit dem Pi-Tag verbunden.",
-    "en": "Einstein's birthday, March 14, is written as 3/14 in some countries, which resembles pi and links the date with Pi Day."
+    "en": "Einstein's birthday, March 14, is written as 3/14 in some countries, which resembles pi and links the date with Pi Day.",
+    "fr": "L'anniversaire d'Einstein, le 14 mars, s'écrit 3/14 dans certains pays, ce qui ressemble au nombre pi et relie cette date au jour de Pi.",
+    "es": "El cumpleaños de Einstein, el 14 de marzo, se escribe 3/14 en algunos países, lo que se parece al número pi y vincula la fecha con el Día de Pi.",
+    "it": "Il compleanno di Einstein, il 14 marzo, in alcuni paesi si scrive 3/14, una forma che ricorda il numero pi e collega la data al Pi Day.",
+    "pt": "O aniversário de Einstein, 14 de março, escreve-se 3/14 em alguns países, o que lembra o número pi e liga a data ao Dia do Pi.",
+    "nl": "Einsteins verjaardag, 14 maart, wordt in sommige landen geschreven als 3/14, wat op pi lijkt en de datum met Pi-dag verbindt.",
+    "pl": "Urodziny Einsteina, 14 marca, w niektórych krajach zapisuje się jako 3/14, co przypomina liczbę pi i łączy tę datę z Dniem Pi.",
+    "tr": "Einstein'ın doğum günü olan 14 Mart, bazı ülkelerde 3/14 diye yazılır; bu pi sayısını andırır ve tarihi Pi Günü ile ilişkilendirir.",
+    "zh": "爱因斯坦的生日3月14日在一些国家写作3/14，看起来像圆周率，因此常与圆周率日联系在一起。",
+    "ja": "アインシュタインの誕生日である3月14日は、一部の国では3/14と書かれ、円周率に似ているため円周率の日と結びつけられます。",
+    "ko": "아인슈타인의 생일인 3월 14일은 일부 나라에서 3/14로 쓰이며, 이는 원주율 파이와 비슷해 파이 데이와 연결됩니다.",
+    "hi": "आइंस्टीन का जन्मदिन 14 मार्च कुछ देशों में 3/14 लिखा जाता है, जो पाई संख्या जैसा दिखता है और इस तारीख को पाई दिवस से जोड़ता है।",
+    "ar": "يُكتب عيد ميلاد أينشتاين، 14 مارس، في بعض البلدان على شكل 3/14، وهو ما يشبه عدد باي ويربط التاريخ بيوم باي."
   },
   "sources": [
     {

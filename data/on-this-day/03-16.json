@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия восстановила воинскую повинность",
       "de": "Deutschland fuehrt die Wehrpflicht wieder ein",
-      "en": "Germany reintroduces conscription"
+      "en": "Germany reintroduces conscription",
+      "fr": "L'Allemagne rétablit la conscription",
+      "es": "Alemania restablece el servicio militar obligatorio",
+      "it": "La Germania reintroduce la coscrizione",
+      "pt": "A Alemanha restabelece o serviço militar obrigatório",
+      "nl": "Duitsland voert de dienstplicht weer in",
+      "pl": "Niemcy przywracają pobór do wojska",
+      "tr": "Almanya zorunlu askerliği yeniden başlattı",
+      "zh": "德国恢复征兵制",
+      "ja": "ドイツが徴兵制を復活させる",
+      "ko": "독일이 징병제를 재도입하다",
+      "hi": "जर्मनी ने अनिवार्य सैन्य सेवा फिर शुरू की",
+      "ar": "ألمانيا تعيد فرض التجنيد الإجباري"
     },
     "description": {
       "ru": "16 марта 1935 года нацистский режим объявил о введении всеобщей воинской повинности и расширении армии. Это было открытым нарушением военных ограничений Версальского договора.",
       "de": "Am 16. Maerz 1935 verkuendete das NS-Regime die Wiedereinfuehrung der allgemeinen Wehrpflicht und den Ausbau der Armee. Das war ein offener Verstoss gegen die militaerischen Beschraenkungen des Versailler Vertrags.",
-      "en": "On 16 March 1935, the Nazi regime announced the reintroduction of general conscription and the expansion of the army. This openly violated the military restrictions of the Treaty of Versailles."
+      "en": "On 16 March 1935, the Nazi regime announced the reintroduction of general conscription and the expansion of the army. This openly violated the military restrictions of the Treaty of Versailles.",
+      "fr": "Le 16 mars 1935, le régime nazi annonça le rétablissement de la conscription générale et l'expansion de l'armée. C'était une violation ouverte des restrictions militaires du traité de Versailles.",
+      "es": "El 16 de marzo de 1935, el régimen nazi anunció el restablecimiento del servicio militar obligatorio general y la expansión del ejército. Esto violaba abiertamente las restricciones militares del Tratado de Versalles.",
+      "it": "Il 16 marzo 1935 il regime nazista annunciò la reintroduzione della coscrizione generale e l'espansione dell'esercito. Era una violazione aperta delle restrizioni militari del trattato di Versailles.",
+      "pt": "Em 16 de março de 1935, o regime nazi anunciou o restabelecimento do serviço militar obrigatório geral e a expansão do exército. Isto violava abertamente as restrições militares do Tratado de Versalhes.",
+      "nl": "Op 16 maart 1935 kondigde het naziregime de herinvoering van de algemene dienstplicht en de uitbreiding van het leger aan. Dit was een openlijke schending van de militaire beperkingen van het Verdrag van Versailles.",
+      "pl": "16 marca 1935 roku reżim nazistowski ogłosił przywrócenie powszechnego poboru i rozbudowę armii. Było to jawne naruszenie wojskowych ograniczeń traktatu wersalskiego.",
+      "tr": "16 Mart 1935'te Nazi rejimi genel zorunlu askerliği yeniden başlattığını ve orduyu genişleteceğini ilan etti. Bu, Versay Antlaşması'nın askeri sınırlamalarının açık ihlaliydi.",
+      "zh": "1935年3月16日，纳粹政权宣布恢复普遍征兵制并扩充军队。这公开违反了《凡尔赛条约》的军事限制。",
+      "ja": "1935年3月16日、ナチス政権は一般徴兵制の復活と軍の拡大を発表しました。これはヴェルサイユ条約の軍事的制限への公然たる違反でした。",
+      "ko": "1935년 3월 16일, 나치 정권은 일반 징병제 재도입과 군대 확대를 발표했습니다. 이는 베르사유 조약의 군사적 제한을 공개적으로 위반한 것이었습니다.",
+      "hi": "16 मार्च 1935 को नाज़ी शासन ने सामान्य अनिवार्य सैन्य सेवा और सेना के विस्तार की घोषणा की। यह वर्साय संधि की सैन्य सीमाओं का खुला उल्लंघन था।",
+      "ar": "في 16 مارس 1935 أعلن النظام النازي إعادة فرض التجنيد الإجباري العام وتوسيع الجيش. وكان ذلك انتهاكا علنيا للقيود العسكرية في معاهدة فرساي."
     },
     "importance": {
       "ru": "Дата стала одним из ключевых шагов к милитаризации Германии и разрушению послевоенного порядка в Европе.",
       "de": "Das Datum wurde zu einem Schluesselschritt der Militarisierung Deutschlands und der Zerstoerung der Nachkriegsordnung in Europa.",
-      "en": "The date became a key step in Germany's militarization and in the destruction of the postwar order in Europe."
+      "en": "The date became a key step in Germany's militarization and in the destruction of the postwar order in Europe.",
+      "fr": "Cette date devint une étape clé de la militarisation de l'Allemagne et de la destruction de l'ordre d'après-guerre en Europe.",
+      "es": "La fecha se convirtió en un paso clave de la militarización de Alemania y de la destrucción del orden de posguerra en Europa.",
+      "it": "La data divenne un passaggio chiave nella militarizzazione della Germania e nella distruzione dell'ordine europeo del dopoguerra.",
+      "pt": "A data tornou-se um passo-chave na militarização da Alemanha e na destruição da ordem do pós-guerra na Europa.",
+      "nl": "De datum werd een sleutelstap in de militarisering van Duitsland en de afbraak van de naoorlogse orde in Europa.",
+      "pl": "Ta data stała się kluczowym krokiem w militaryzacji Niemiec i niszczeniu powojennego porządku w Europie.",
+      "tr": "Bu tarih, Almanya'nın askerileşmesinde ve Avrupa'daki savaş sonrası düzenin yıkılmasında kilit bir adım oldu.",
+      "zh": "这一日期成为德国军事化和破坏欧洲战后秩序的关键一步。",
+      "ja": "この日付は、ドイツの軍事化とヨーロッパの戦後秩序の破壊における重要な一歩となりました。",
+      "ko": "이 날짜는 독일의 군사화와 유럽 전후 질서 파괴에서 핵심적인 단계가 되었습니다.",
+      "hi": "यह तारीख जर्मनी के सैन्यीकरण और यूरोप की युद्धोत्तर व्यवस्था को तोड़ने की प्रमुख कड़ी बनी।",
+      "ar": "أصبح هذا التاريخ خطوة محورية في عسكرة ألمانيا وتدمير نظام ما بعد الحرب في أوروبا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Открытый разрыв с Версалем",
           "de": "Offener Bruch mit Versailles",
-          "en": "Open break with Versailles"
+          "en": "Open break with Versailles",
+          "fr": "Rupture ouverte avec Versailles",
+          "es": "Ruptura abierta con Versalles",
+          "it": "Rottura aperta con Versailles",
+          "pt": "Rutura aberta com Versalhes",
+          "nl": "Openlijke breuk met Versailles",
+          "pl": "Otwarte zerwanie z Wersalem",
+          "tr": "Versay ile açık kopuş",
+          "zh": "公开撕毁凡尔赛限制",
+          "ja": "ヴェルサイユとの公然たる決別",
+          "ko": "베르사유와의 공개적 단절",
+          "hi": "वर्साय से खुला टूटना",
+          "ar": "قطيعة علنية مع فرساي"
         },
         "description": {
           "ru": "Версальский договор ограничивал немецкую армию и запрещал всеобщую воинскую повинность. В 1935 году эти ограничения были демонстративно отброшены.",
           "de": "Der Versailler Vertrag begrenzte die deutsche Armee und verbot die allgemeine Wehrpflicht. 1935 wurden diese Beschraenkungen demonstrativ beiseitegeschoben.",
-          "en": "The Treaty of Versailles limited the German army and banned general conscription. In 1935, these restrictions were demonstratively cast aside."
+          "en": "The Treaty of Versailles limited the German army and banned general conscription. In 1935, these restrictions were demonstratively cast aside.",
+          "fr": "Le traité de Versailles limitait l'armée allemande et interdisait la conscription générale. En 1935, ces restrictions furent ostensiblement écartées.",
+          "es": "El Tratado de Versalles limitaba el ejército alemán y prohibía el servicio militar obligatorio general. En 1935, esas restricciones fueron apartadas de forma demostrativa.",
+          "it": "Il trattato di Versailles limitava l'esercito tedesco e vietava la coscrizione generale. Nel 1935 queste restrizioni furono messe da parte in modo dimostrativo.",
+          "pt": "O Tratado de Versalhes limitava o exército alemão e proibia o serviço militar obrigatório geral. Em 1935, estas restrições foram afastadas de forma demonstrativa.",
+          "nl": "Het Verdrag van Versailles beperkte het Duitse leger en verbood de algemene dienstplicht. In 1935 werden deze beperkingen demonstratief terzijde geschoven.",
+          "pl": "Traktat wersalski ograniczał armię niemiecką i zakazywał powszechnego poboru. W 1935 roku te ograniczenia demonstracyjnie odrzucono.",
+          "tr": "Versay Antlaşması Alman ordusunu sınırlıyor ve genel zorunlu askerliği yasaklıyordu. 1935'te bu sınırlamalar gösterişli biçimde bir kenara atıldı.",
+          "zh": "《凡尔赛条约》限制德国军队并禁止普遍征兵。1935年，这些限制被公开地抛在一边。",
+          "ja": "ヴェルサイユ条約はドイツ軍を制限し、一般徴兵制を禁じていました。1935年、これらの制限は見せつけるように退けられました。",
+          "ko": "베르사유 조약은 독일군을 제한하고 일반 징병제를 금지했습니다. 1935년에 이 제한들은 과시적으로 무시되었습니다.",
+          "hi": "वर्साय संधि ने जर्मन सेना को सीमित किया था और सामान्य अनिवार्य सैन्य सेवा पर रोक लगाई थी। 1935 में इन सीमाओं को खुले तौर पर किनारे कर दिया गया।",
+          "ar": "حدّت معاهدة فرساي الجيش الألماني وحظرت التجنيد الإجباري العام. وفي عام 1935 أُزيحت هذه القيود بصورة استعراضية."
         },
         "importance": {
           "ru": "Так школьнику легче увидеть цепочку: реваншистская политика, перевооружение, рост угрозы войны.",
           "de": "So wird die Kette leichter sichtbar: Revisionspolitik, Aufruestung, wachsende Kriegsgefahr.",
-          "en": "It makes the chain clearer: revisionist policy, rearmament and the growing danger of war."
+          "en": "It makes the chain clearer: revisionist policy, rearmament and the growing danger of war.",
+          "fr": "Cela rend la chaîne plus claire: politique révisionniste, réarmement et danger croissant de guerre.",
+          "es": "Así se ve más clara la cadena: política revisionista, rearme y creciente peligro de guerra.",
+          "it": "Rende più chiara la catena: politica revisionista, riarmo e crescente pericolo di guerra.",
+          "pt": "Isto torna a cadeia mais clara: política revisionista, rearmamento e perigo crescente de guerra.",
+          "nl": "Zo wordt de keten duidelijker: revisionistische politiek, herbewapening en groeiend oorlogsgevaar.",
+          "pl": "Dzięki temu łańcuch jest wyraźniejszy: polityka rewizjonistyczna, zbrojenia i rosnące zagrożenie wojną.",
+          "tr": "Bu zinciri daha açık gösterir: revizyonist politika, yeniden silahlanma ve artan savaş tehlikesi.",
+          "zh": "这让链条更清楚：修正主义政策、重新武装和日益增长的战争危险。",
+          "ja": "これにより、修正主義政策、再軍備、戦争危険の拡大という流れがより明確になります。",
+          "ko": "이렇게 보면 흐름이 더 분명해집니다: 수정주의 정책, 재무장, 커지는 전쟁 위험.",
+          "hi": "इससे क्रम साफ दिखता है: संशोधनवादी नीति, फिर से हथियारबंदी और युद्ध का बढ़ता खतरा।",
+          "ar": "يجعل ذلك السلسلة أوضح: سياسة مراجعة، إعادة تسلح، وخطر حرب متزايد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Армия как политический сигнал",
           "de": "Die Armee als politisches Signal",
-          "en": "The army as a political signal"
+          "en": "The army as a political signal",
+          "fr": "L'armée comme signal politique",
+          "es": "El ejército como señal política",
+          "it": "L'esercito come segnale politico",
+          "pt": "O exército como sinal político",
+          "nl": "Het leger als politiek signaal",
+          "pl": "Armia jako sygnał polityczny",
+          "tr": "Siyasi bir işaret olarak ordu",
+          "zh": "军队作为政治信号",
+          "ja": "政治的シグナルとしての軍隊",
+          "ko": "정치적 신호로서의 군대",
+          "hi": "राजनीतिक संकेत के रूप में सेना",
+          "ar": "الجيش كإشارة سياسية"
         },
         "description": {
           "ru": "Объявление было не только военной мерой, но и громким внешнеполитическим жестом. Германия показывала соседям, что больше не считает себя связанной прежними правилами.",
           "de": "Die Ankuendigung war nicht nur eine militaerische Massnahme, sondern auch ein lautes aussenpolitisches Signal. Deutschland zeigte seinen Nachbarn, dass es sich nicht mehr an die alten Regeln gebunden fuehlte.",
-          "en": "The announcement was not only a military measure, but also a loud foreign-policy signal. Germany showed its neighbors that it no longer felt bound by the old rules."
+          "en": "The announcement was not only a military measure, but also a loud foreign-policy signal. Germany showed its neighbors that it no longer felt bound by the old rules.",
+          "fr": "L'annonce n'était pas seulement une mesure militaire, mais aussi un signal fort de politique étrangère. L'Allemagne montrait à ses voisins qu'elle ne se sentait plus liée par les anciennes règles.",
+          "es": "El anuncio no fue solo una medida militar, sino también una fuerte señal de política exterior. Alemania mostraba a sus vecinos que ya no se sentía ligada por las antiguas reglas.",
+          "it": "L'annuncio non fu solo una misura militare, ma anche un forte segnale di politica estera. La Germania mostrava ai vicini di non sentirsi più vincolata dalle vecchie regole.",
+          "pt": "O anúncio não foi apenas uma medida militar, mas também um forte sinal de política externa. A Alemanha mostrava aos vizinhos que já não se sentia vinculada às antigas regras.",
+          "nl": "De aankondiging was niet alleen een militaire maatregel, maar ook een luid buitenlands-politiek signaal. Duitsland liet zijn buren zien dat het zich niet langer aan de oude regels gebonden voelde.",
+          "pl": "Ogłoszenie było nie tylko środkiem wojskowym, lecz także mocnym sygnałem w polityce zagranicznej. Niemcy pokazywały sąsiadom, że nie czują się już związane dawnymi zasadami.",
+          "tr": "Duyuru yalnızca askeri bir önlem değil, aynı zamanda güçlü bir dış politika mesajıydı. Almanya komşularına artık eski kurallarla bağlı hissetmediğini gösteriyordu.",
+          "zh": "这一宣布不仅是军事措施，也是响亮的外交政策信号。德国向邻国表明，它不再认为自己受旧规则约束。",
+          "ja": "この発表は軍事的措置であるだけでなく、強い外交上のシグナルでもありました。ドイツは近隣諸国に、もはや古いルールに縛られていないと示しました。",
+          "ko": "이 발표는 군사 조치일 뿐 아니라 강한 외교적 신호이기도 했습니다. 독일은 이웃 나라들에게 더 이상 옛 규칙에 묶여 있다고 느끼지 않는다는 것을 보여 주었습니다.",
+          "hi": "यह घोषणा केवल सैन्य कदम नहीं थी, बल्कि जोरदार विदेश-नीति संकेत भी थी। जर्मनी ने पड़ोसियों को दिखाया कि वह अब पुराने नियमों से बंधा नहीं मानता।",
+          "ar": "لم يكن الإعلان إجراء عسكريا فقط، بل كان أيضا إشارة قوية في السياسة الخارجية. فقد أظهرت ألمانيا لجيرانها أنها لم تعد تشعر بأنها مقيدة بالقواعد القديمة."
         },
         "importance": {
           "ru": "Иногда политическое значение закона важнее сухой юридической формулировки.",
           "de": "Manchmal ist die politische Bedeutung eines Gesetzes wichtiger als seine trockene juristische Formulierung.",
-          "en": "Sometimes the political meaning of a law matters more than its dry legal wording."
+          "en": "Sometimes the political meaning of a law matters more than its dry legal wording.",
+          "fr": "Parfois, le sens politique d'une loi compte plus que sa formulation juridique sèche.",
+          "es": "A veces el significado político de una ley importa más que su seca formulación jurídica.",
+          "it": "A volte il significato politico di una legge conta più della sua arida formulazione giuridica.",
+          "pt": "Às vezes, o significado político de uma lei importa mais do que a sua formulação jurídica seca.",
+          "nl": "Soms is de politieke betekenis van een wet belangrijker dan de droge juridische formulering.",
+          "pl": "Czasem polityczne znaczenie ustawy jest ważniejsze niż jej sucha formuła prawna.",
+          "tr": "Bazen bir yasanın siyasi anlamı, kuru hukuki ifadesinden daha önemlidir.",
+          "zh": "有时，一项法律的政治意义比枯燥的法律措辞更重要。",
+          "ja": "時には、法律の政治的意味が、乾いた法的文言よりも重要になります。",
+          "ko": "때로는 법의 정치적 의미가 건조한 법률 문구보다 더 중요합니다.",
+          "hi": "कभी-कभी किसी कानून का राजनीतिक अर्थ उसकी सूखी कानूनी भाषा से अधिक महत्वपूर्ण होता है।",
+          "ar": "أحيانا يكون المعنى السياسي للقانون أهم من صيغته القانونية الجافة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Версальский договор ограничивал немецкую армию 100 000 человек и запрещал призыв.",
     "de": "Der Versailler Vertrag begrenzte das deutsche Heer auf 100.000 Mann und verbot die Wehrpflicht.",
-    "en": "The Treaty of Versailles limited the German army to 100,000 men and banned conscription."
+    "en": "The Treaty of Versailles limited the German army to 100,000 men and banned conscription.",
+    "fr": "Le traité de Versailles limitait l'armée allemande à 100 000 hommes et interdisait la conscription.",
+    "es": "El Tratado de Versalles limitaba el ejército alemán a 100 000 hombres y prohibía el servicio militar obligatorio.",
+    "it": "Il trattato di Versailles limitava l'esercito tedesco a 100.000 uomini e vietava la coscrizione.",
+    "pt": "O Tratado de Versalhes limitava o exército alemão a 100 000 homens e proibia o serviço militar obrigatório.",
+    "nl": "Het Verdrag van Versailles beperkte het Duitse leger tot 100.000 man en verbood de dienstplicht.",
+    "pl": "Traktat wersalski ograniczał armię niemiecką do 100 000 ludzi i zakazywał poboru.",
+    "tr": "Versay Antlaşması Alman ordusunu 100.000 kişiyle sınırlıyor ve zorunlu askerliği yasaklıyordu.",
+    "zh": "《凡尔赛条约》将德国军队限制在10万人，并禁止征兵。",
+    "ja": "ヴェルサイユ条約はドイツ軍を10万人に制限し、徴兵制を禁じていました。",
+    "ko": "베르사유 조약은 독일군을 10만 명으로 제한하고 징병제를 금지했습니다.",
+    "hi": "वर्साय संधि ने जर्मन सेना को 100,000 सैनिकों तक सीमित किया और भर्ती पर रोक लगाई।",
+    "ar": "حدّت معاهدة فرساي الجيش الألماني بمئة ألف رجل وحظرت التجنيد الإجباري."
   },
   "sources": [
     {

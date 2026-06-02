@@ -11,17 +11,53 @@
     "title": {
       "ru": "Ушёл в отставку Альфред фон Тирпиц",
       "de": "Alfred von Tirpitz tritt zurueck",
-      "en": "Alfred von Tirpitz resigns"
+      "en": "Alfred von Tirpitz resigns",
+      "fr": "Alfred von Tirpitz démissionne",
+      "es": "Alfred von Tirpitz dimite",
+      "it": "Alfred von Tirpitz si dimette",
+      "pt": "Alfred von Tirpitz demite-se",
+      "nl": "Alfred von Tirpitz treedt af",
+      "pl": "Alfred von Tirpitz ustępuje",
+      "tr": "Alfred von Tirpitz istifa etti",
+      "zh": "阿尔弗雷德·冯·提尔皮茨辞职",
+      "ja": "アルフレート・フォン・ティルピッツが辞任",
+      "ko": "알프레트 폰 티르피츠가 사임하다",
+      "hi": "अल्फ्रेड फॉन तिरपिट्ज़ ने इस्तीफा दिया",
+      "ar": "ألفرد فون تيربيتس يستقيل"
     },
     "description": {
       "ru": "15 марта 1916 года Альфред фон Тирпиц ушёл с поста статс-секретаря Имперского морского ведомства. Он был главным архитектором германского флота кайзеровской эпохи.",
       "de": "Am 15. Maerz 1916 trat Alfred von Tirpitz als Staatssekretaer des Reichsmarineamts zurueck. Er war der wichtigste Architekt der deutschen Flotte der Kaiserzeit.",
-      "en": "On 15 March 1916, Alfred von Tirpitz resigned as State Secretary of the Imperial Naval Office. He had been the chief architect of the German fleet in the imperial era."
+      "en": "On 15 March 1916, Alfred von Tirpitz resigned as State Secretary of the Imperial Naval Office. He had been the chief architect of the German fleet in the imperial era.",
+      "fr": "Le 15 mars 1916, Alfred von Tirpitz démissionna de son poste de secrétaire d'État à l'Office impérial de la Marine. Il avait été le principal architecte de la flotte allemande de l'époque impériale.",
+      "es": "El 15 de marzo de 1916, Alfred von Tirpitz dimitió como secretario de Estado de la Oficina Naval Imperial. Había sido el principal arquitecto de la flota alemana de la época imperial.",
+      "it": "Il 15 marzo 1916 Alfred von Tirpitz si dimise da segretario di Stato dell'Ufficio imperiale della marina. Era stato il principale architetto della flotta tedesca dell'epoca imperiale.",
+      "pt": "Em 15 de março de 1916, Alfred von Tirpitz demitiu-se do cargo de secretário de Estado do Gabinete Naval Imperial. Ele fora o principal arquiteto da frota alemã da época imperial.",
+      "nl": "Op 15 maart 1916 trad Alfred von Tirpitz af als staatssecretaris van het Rijksmarineambt. Hij was de belangrijkste architect van de Duitse vloot in de keizertijd.",
+      "pl": "15 marca 1916 roku Alfred von Tirpitz ustąpił ze stanowiska sekretarza stanu Cesarskiego Urzędu Marynarki. Był głównym twórcą niemieckiej floty epoki cesarskiej.",
+      "tr": "15 Mart 1916'da Alfred von Tirpitz, İmparatorluk Denizcilik Dairesi devlet sekreterliği görevinden istifa etti. İmparatorluk dönemindeki Alman filosunun baş mimarıydı.",
+      "zh": "1916年3月15日，阿尔弗雷德·冯·提尔皮茨辞去帝国海军部国务秘书职务。他曾是德意志帝国时期德国舰队的主要设计者。",
+      "ja": "1916年3月15日、アルフレート・フォン・ティルピッツは帝国海軍省の国務長官を辞任しました。彼は帝政期ドイツ艦隊の中心的な設計者でした。",
+      "ko": "1916년 3월 15일, 알프레트 폰 티르피츠는 제국 해군청 국무장관직에서 물러났습니다. 그는 제국 시대 독일 함대의 핵심 설계자였습니다.",
+      "hi": "15 मार्च 1916 को अल्फ्रेड फॉन तिरपिट्ज़ ने इंपीरियल नेवल ऑफिस के राज्य सचिव पद से इस्तीफा दिया। वे काइज़र काल की जर्मन नौसेना के मुख्य निर्माता थे।",
+      "ar": "في 15 مارس 1916 استقال ألفرد فون تيربيتس من منصب وزير الدولة في مكتب البحرية الإمبراطوري. وكان المهندس الرئيسي للأسطول الألماني في العصر القيصري."
     },
     "importance": {
       "ru": "Отставка показала, насколько спорным стал вопрос морской войны и подводных лодок в середине Первой мировой.",
       "de": "Der Ruecktritt zeigte, wie umstritten die Frage des Seekriegs und der U-Boote mitten im Ersten Weltkrieg geworden war.",
-      "en": "The resignation showed how controversial naval warfare and submarines had become in the middle of the First World War."
+      "en": "The resignation showed how controversial naval warfare and submarines had become in the middle of the First World War.",
+      "fr": "Sa démission montra à quel point la guerre navale et les sous-marins étaient devenus controversés au milieu de la Première Guerre mondiale.",
+      "es": "La dimisión mostró lo polémicas que se habían vuelto la guerra naval y los submarinos en plena Primera Guerra Mundial.",
+      "it": "Le dimissioni mostrarono quanto fossero diventate controverse la guerra navale e i sottomarini nel mezzo della Prima guerra mondiale.",
+      "pt": "A demissão mostrou como a guerra naval e os submarinos se tinham tornado controversos a meio da Primeira Guerra Mundial.",
+      "nl": "Het aftreden liet zien hoe omstreden zeeoorlog en onderzeeërs midden in de Eerste Wereldoorlog waren geworden.",
+      "pl": "Dymisja pokazała, jak sporna stała się kwestia wojny morskiej i okrętów podwodnych w połowie pierwszej wojny światowej.",
+      "tr": "İstifa, Birinci Dünya Savaşı'nın ortasında deniz savaşı ve denizaltıların ne kadar tartışmalı hale geldiğini gösterdi.",
+      "zh": "这次辞职显示，第一次世界大战中期海战和潜艇问题已经变得多么有争议。",
+      "ja": "この辞任は、第一次世界大戦のさなかに海上戦と潜水艦がどれほど論争的な問題になっていたかを示しました。",
+      "ko": "이 사임은 제1차 세계대전 중반에 해전과 잠수함 문제가 얼마나 논란이 되었는지를 보여 주었습니다.",
+      "hi": "इस इस्तीफे ने दिखाया कि प्रथम विश्व युद्ध के बीच नौसैनिक युद्ध और पनडुब्बियों का प्रश्न कितना विवादास्पद हो गया था।",
+      "ar": "أظهرت الاستقالة مدى الجدل الذي أصبح يحيط بالحرب البحرية والغواصات في منتصف الحرب العالمية الأولى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Создатель флота кайзера",
           "de": "Flottenbauer des Kaisers",
-          "en": "The Kaiser's fleet builder"
+          "en": "The Kaiser's fleet builder",
+          "fr": "Le bâtisseur de la flotte du Kaiser",
+          "es": "El constructor de la flota del káiser",
+          "it": "Il costruttore della flotta del Kaiser",
+          "pt": "O construtor da frota do Kaiser",
+          "nl": "De vlootbouwer van de keizer",
+          "pl": "Budowniczy floty kajzera",
+          "tr": "Kayzer'in filo kurucusu",
+          "zh": "皇帝舰队的建设者",
+          "ja": "皇帝の艦隊を築いた人物",
+          "ko": "카이저 함대의 건설자",
+          "hi": "काइज़र के बेड़े के निर्माता",
+          "ar": "باني أسطول القيصر"
         },
         "description": {
           "ru": "Тирпиц много лет продвигал строительство сильного германского военно-морского флота. Его программа усилила соперничество с Великобританией ещё до 1914 года.",
           "de": "Tirpitz trieb viele Jahre den Aufbau einer starken deutschen Kriegsflotte voran. Sein Programm verschaerfte bereits vor 1914 die Rivalitaet mit Grossbritannien.",
-          "en": "For many years Tirpitz promoted the building of a strong German battle fleet. His program intensified rivalry with Britain even before 1914."
+          "en": "For many years Tirpitz promoted the building of a strong German battle fleet. His program intensified rivalry with Britain even before 1914.",
+          "fr": "Pendant de nombreuses années, Tirpitz encouragea la construction d'une puissante flotte de guerre allemande. Son programme renforça la rivalité avec la Grande-Bretagne avant même 1914.",
+          "es": "Durante muchos años, Tirpitz impulsó la construcción de una fuerte flota de guerra alemana. Su programa intensificó la rivalidad con Gran Bretaña incluso antes de 1914.",
+          "it": "Per molti anni Tirpitz promosse la costruzione di una potente flotta da guerra tedesca. Il suo programma intensificò la rivalità con la Gran Bretagna già prima del 1914.",
+          "pt": "Durante muitos anos, Tirpitz promoveu a construção de uma forte frota de guerra alemã. O seu programa intensificou a rivalidade com a Grã-Bretanha ainda antes de 1914.",
+          "nl": "Jarenlang stimuleerde Tirpitz de bouw van een sterke Duitse oorlogsvloot. Zijn programma verscherpte de rivaliteit met Groot-Brittannië al vóór 1914.",
+          "pl": "Przez wiele lat Tirpitz forsował budowę silnej niemieckiej floty wojennej. Jego program zaostrzył rywalizację z Wielką Brytanią jeszcze przed 1914 rokiem.",
+          "tr": "Tirpitz uzun yıllar güçlü bir Alman savaş filosunun inşasını destekledi. Programı, 1914'ten önce bile Britanya ile rekabeti keskinleştirdi.",
+          "zh": "多年来，提尔皮茨推动建设强大的德国战列舰队。他的计划在1914年前就加剧了与英国的竞争。",
+          "ja": "ティルピッツは長年、強力なドイツ戦闘艦隊の建設を推進しました。彼の計画は1914年以前からイギリスとの対立を強めました。",
+          "ko": "티르피츠는 여러 해 동안 강력한 독일 전투 함대 건설을 추진했습니다. 그의 계획은 1914년 이전부터 영국과의 경쟁을 심화시켰습니다.",
+          "hi": "तिरपिट्ज़ ने कई वर्षों तक मजबूत जर्मन युद्ध बेड़े के निर्माण को बढ़ावा दिया। उनके कार्यक्रम ने 1914 से पहले ही ब्रिटेन के साथ प्रतिस्पर्धा बढ़ा दी थी।",
+          "ar": "دفع تيربيتس لسنوات طويلة نحو بناء أسطول حربي ألماني قوي. وزاد برنامجه التنافس مع بريطانيا حتى قبل عام 1914."
         },
         "importance": {
           "ru": "Через его карьеру видно, как техника, армия и политика могут менять международные отношения.",
           "de": "An seiner Karriere erkennt man, wie Technik, Militaer und Politik internationale Beziehungen veraendern koennen.",
-          "en": "His career shows how technology, the military and politics can reshape international relations."
+          "en": "His career shows how technology, the military and politics can reshape international relations.",
+          "fr": "Sa carrière montre comment la technique, l'armée et la politique peuvent transformer les relations internationales.",
+          "es": "Su carrera muestra cómo la técnica, el ejército y la política pueden cambiar las relaciones internacionales.",
+          "it": "La sua carriera mostra come tecnica, esercito e politica possano cambiare le relazioni internazionali.",
+          "pt": "A sua carreira mostra como a técnica, as forças armadas e a política podem mudar as relações internacionais.",
+          "nl": "Zijn loopbaan laat zien hoe techniek, leger en politiek internationale verhoudingen kunnen veranderen.",
+          "pl": "Jego kariera pokazuje, jak technika, wojsko i polityka mogą zmieniać stosunki międzynarodowe.",
+          "tr": "Onun kariyeri, teknoloji, ordu ve siyasetin uluslararası ilişkileri nasıl değiştirebildiğini gösterir.",
+          "zh": "他的职业生涯显示，技术、军队和政治如何改变国际关系。",
+          "ja": "彼の経歴は、技術、軍事、政治が国際関係をどのように変え得るかを示しています。",
+          "ko": "그의 경력은 기술, 군대, 정치가 국제 관계를 어떻게 바꿀 수 있는지를 보여 줍니다.",
+          "hi": "उनका जीवन दिखाता है कि तकनीक, सेना और राजनीति अंतरराष्ट्रीय संबंधों को कैसे बदल सकती हैं।",
+          "ar": "تُظهر مسيرته كيف يمكن للتقنية والجيش والسياسة أن تغير العلاقات الدولية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Подводные лодки и риск",
           "de": "U-Boote und Risiko",
-          "en": "Submarines and risk"
+          "en": "Submarines and risk",
+          "fr": "Sous-marins et risque",
+          "es": "Submarinos y riesgo",
+          "it": "Sottomarini e rischio",
+          "pt": "Submarinos e risco",
+          "nl": "Onderzeeërs en risico",
+          "pl": "Okręty podwodne i ryzyko",
+          "tr": "Denizaltılar ve risk",
+          "zh": "潜艇与风险",
+          "ja": "潜水艦とリスク",
+          "ko": "잠수함과 위험",
+          "hi": "पनडुब्बियाँ और जोखिम",
+          "ar": "الغواصات والمخاطر"
         },
         "description": {
           "ru": "В Германии спорили, насколько далеко можно заходить в подводной войне против торгового судоходства. С военной точки зрения подлодки казались мощным средством, но политически они могли подтолкнуть США к вступлению в войну.",
           "de": "In Deutschland wurde gestritten, wie weit der U-Boot-Krieg gegen die Handelsschifffahrt gehen duerfe. Militaerisch schienen U-Boote stark, politisch konnten sie aber die USA in den Krieg treiben.",
-          "en": "Germany debated how far submarine warfare against merchant shipping should go. Militarily, submarines seemed powerful, but politically they could push the United States toward entering the war."
+          "en": "Germany debated how far submarine warfare against merchant shipping should go. Militarily, submarines seemed powerful, but politically they could push the United States toward entering the war.",
+          "fr": "En Allemagne, on débattait jusqu'où pouvait aller la guerre sous-marine contre la navigation marchande. Militairement, les sous-marins semblaient puissants, mais politiquement ils pouvaient pousser les États-Unis à entrer en guerre.",
+          "es": "En Alemania se debatía hasta dónde debía llegar la guerra submarina contra la navegación mercante. Militarmente, los submarinos parecían poderosos, pero políticamente podían empujar a Estados Unidos a entrar en la guerra.",
+          "it": "In Germania si discuteva fin dove potesse spingersi la guerra sottomarina contro la navigazione mercantile. Militarmente i sottomarini sembravano potenti, ma politicamente potevano spingere gli Stati Uniti a entrare in guerra.",
+          "pt": "Na Alemanha discutia-se até onde deveria ir a guerra submarina contra a navegação mercante. Militarmente, os submarinos pareciam poderosos, mas politicamente podiam empurrar os Estados Unidos para a guerra.",
+          "nl": "In Duitsland werd gediscussieerd over hoe ver de onderzeebootoorlog tegen koopvaardijschepen mocht gaan. Militair leken onderzeeërs sterk, maar politiek konden ze de Verenigde Staten richting oorlog duwen.",
+          "pl": "W Niemczech spierano się, jak daleko można posunąć wojnę podwodną przeciw żegludze handlowej. Militarnie okręty podwodne wydawały się potężne, ale politycznie mogły popchnąć USA do udziału w wojnie.",
+          "tr": "Almanya'da ticaret gemilerine karşı denizaltı savaşının ne kadar ileri gidebileceği tartışılıyordu. Askeri açıdan denizaltılar güçlü görünüyordu, ancak siyasi açıdan ABD'yi savaşa girmeye itebilirdi.",
+          "zh": "德国国内争论对商船的潜艇战应推进到何种程度。从军事上看潜艇很强大，但在政治上它们可能促使美国参战。",
+          "ja": "ドイツでは、商船に対する潜水艦戦をどこまで進めるべきかが議論されていました。軍事的には潜水艦は強力に見えましたが、政治的にはアメリカを参戦へ押しやる危険がありました。",
+          "ko": "독일에서는 상선에 대한 잠수함전을 어디까지 확대해야 하는지 논쟁이 있었습니다. 군사적으로 잠수함은 강력해 보였지만, 정치적으로는 미국을 전쟁에 끌어들일 수 있었습니다.",
+          "hi": "जर्मनी में बहस थी कि व्यापारिक जहाजों के खिलाफ पनडुब्बी युद्ध कितनी दूर तक जाना चाहिए। सैन्य दृष्टि से पनडुब्बियाँ शक्तिशाली लगती थीं, लेकिन राजनीतिक रूप से वे अमेरिका को युद्ध में धकेल सकती थीं।",
+          "ar": "دار جدل في ألمانيا حول مدى الذهاب في حرب الغواصات ضد الملاحة التجارية. عسكريا بدت الغواصات قوية، لكنها سياسيا كان يمكن أن تدفع الولايات المتحدة إلى دخول الحرب."
         },
         "importance": {
           "ru": "Это пример того, как техническое оружие создаёт не только возможности, но и большие политические риски.",
           "de": "Das ist ein Beispiel dafuer, wie technische Waffen nicht nur Chancen, sondern auch grosse politische Risiken schaffen.",
-          "en": "It is an example of how technological weapons create not only opportunities, but also major political risks."
+          "en": "It is an example of how technological weapons create not only opportunities, but also major political risks.",
+          "fr": "C'est un exemple de la manière dont les armes techniques créent non seulement des possibilités, mais aussi de grands risques politiques.",
+          "es": "Es un ejemplo de cómo las armas tecnológicas crean no solo oportunidades, sino también grandes riesgos políticos.",
+          "it": "È un esempio di come le armi tecnologiche creino non solo opportunità, ma anche grandi rischi politici.",
+          "pt": "É um exemplo de como as armas tecnológicas criam não só oportunidades, mas também grandes riscos políticos.",
+          "nl": "Het is een voorbeeld van hoe technische wapens niet alleen kansen, maar ook grote politieke risico's scheppen.",
+          "pl": "To przykład, jak broń techniczna tworzy nie tylko możliwości, lecz także duże ryzyko polityczne.",
+          "tr": "Bu, teknolojik silahların yalnızca fırsatlar değil, büyük siyasi riskler de yarattığının bir örneğidir.",
+          "zh": "这是技术性武器不仅带来机会，也带来巨大政治风险的例子。",
+          "ja": "これは、技術的な兵器が機会だけでなく大きな政治的リスクも生み出す例です。",
+          "ko": "이는 기술 무기가 기회뿐 아니라 큰 정치적 위험도 만들어 낸다는 예입니다.",
+          "hi": "यह उदाहरण है कि तकनीकी हथियार केवल अवसर ही नहीं, बड़े राजनीतिक जोखिम भी पैदा करते हैं।",
+          "ar": "إنه مثال على أن الأسلحة التقنية لا تخلق فرصا فقط، بل مخاطر سياسية كبيرة أيضا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После Тирпица Имперское морское ведомство возглавил адмирал Эдуард фон Капелле.",
     "de": "Nach Tirpitz uebernahm Admiral Eduard von Capelle das Reichsmarineamt.",
-    "en": "After Tirpitz, Admiral Eduard von Capelle took over the Imperial Naval Office."
+    "en": "After Tirpitz, Admiral Eduard von Capelle took over the Imperial Naval Office.",
+    "fr": "Après Tirpitz, l'amiral Eduard von Capelle prit la tête de l'Office impérial de la Marine.",
+    "es": "Después de Tirpitz, el almirante Eduard von Capelle asumió la dirección de la Oficina Naval Imperial.",
+    "it": "Dopo Tirpitz, l'ammiraglio Eduard von Capelle assunse la guida dell'Ufficio imperiale della marina.",
+    "pt": "Depois de Tirpitz, o almirante Eduard von Capelle assumiu o Gabinete Naval Imperial.",
+    "nl": "Na Tirpitz nam admiraal Eduard von Capelle het Rijksmarineambt over.",
+    "pl": "Po Tirpitzu Cesarski Urząd Marynarki objął admirał Eduard von Capelle.",
+    "tr": "Tirpitz'ten sonra İmparatorluk Denizcilik Dairesi'nin başına Amiral Eduard von Capelle geçti.",
+    "zh": "提尔皮茨之后，爱德华·冯·卡佩勒海军上将接掌帝国海军部。",
+    "ja": "ティルピッツの後、エドゥアルト・フォン・カペレ提督が帝国海軍省を引き継ぎました。",
+    "ko": "티르피츠 이후 에두아르트 폰 카펠레 제독이 제국 해군청을 맡았습니다.",
+    "hi": "तिरपिट्ज़ के बाद एडमिरल एडुआर्ड फॉन कापेले ने इंपीरियल नेवल ऑफिस संभाला।",
+    "ar": "بعد تيربيتس تولى الأدميرال إدوارد فون كابيله مكتب البحرية الإمبراطوري."
   },
   "sources": [
     {
