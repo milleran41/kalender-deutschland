@@ -11,17 +11,53 @@
     "title": {
       "ru": "Восстание моряков в Киле",
       "de": "Matrosenaufstand in Kiel",
-      "en": "Sailors' mutiny in Kiel"
+      "en": "Sailors' mutiny in Kiel",
+      "fr": "Mutinerie des marins a Kiel",
+      "es": "Motin de marineros en Kiel",
+      "it": "Ammutinamento dei marinai a Kiel",
+      "pt": "Motim dos marinheiros em Kiel",
+      "nl": "Matrozenopstand in Kiel",
+      "pl": "Bunt marynarzy w Kilonii",
+      "tr": "Kiel'de denizciler ayaklanmasi",
+      "zh": "基尔水兵起义",
+      "ja": "キールの水兵反乱",
+      "ko": "킬 수병 반란",
+      "hi": "कील में नाविकों का विद्रोह",
+      "ar": "تمرد البحارة في كيل"
     },
     "description": {
       "ru": "3 ноября 1918 года протесты моряков в Киле переросли в открытое выступление против войны и имперской власти. Восстание стало началом Ноябрьской революции.",
       "de": "Am 3. November 1918 wurden Proteste von Matrosen in Kiel zu einem offenen Aufstand gegen Krieg und kaiserliche Macht. Der Aufstand wurde zum Beginn der Novemberrevolution.",
-      "en": "On 3 November 1918, sailors' protests in Kiel grew into an open revolt against the war and imperial rule. The mutiny became the beginning of the November Revolution."
+      "en": "On 3 November 1918, sailors' protests in Kiel grew into an open revolt against the war and imperial rule. The mutiny became the beginning of the November Revolution.",
+      "fr": "Le 3 novembre 1918, les protestations de marins a Kiel se transformerent en revolte ouverte contre la guerre et le pouvoir imperial. La mutinerie devint le debut de la revolution de novembre.",
+      "es": "El 3 de noviembre de 1918, las protestas de marineros en Kiel se convirtieron en una revuelta abierta contra la guerra y el poder imperial. El motin fue el comienzo de la Revolucion de Noviembre.",
+      "it": "Il 3 novembre 1918, le proteste dei marinai a Kiel divennero una rivolta aperta contro la guerra e il potere imperiale. L'ammutinamento segno l'inizio della Rivoluzione di novembre.",
+      "pt": "Em 3 de novembro de 1918, protestos de marinheiros em Kiel se transformaram em revolta aberta contra a guerra e o poder imperial. O motim tornou-se o inicio da Revolucao de Novembro.",
+      "nl": "Op 3 november 1918 groeiden protesten van matrozen in Kiel uit tot een open opstand tegen de oorlog en de keizerlijke macht. De muiterij werd het begin van de Novemberrevolutie.",
+      "pl": "3 listopada 1918 roku protesty marynarzy w Kilonii przerodzily sie w otwarte wystapienie przeciw wojnie i wladzy cesarskiej. Bunt stal sie poczatkiem rewolucji listopadowej.",
+      "tr": "3 Kasim 1918'de Kiel'deki denizci protestolari savasa ve imparatorluk yonetimine karsi acik bir ayaklanmaya donustu. Bu isyan Kasim Devrimi'nin baslangici oldu.",
+      "zh": "1918年11月3日，基尔水兵的抗议发展成反对战争和帝国统治的公开起义。这次兵变成为十一月革命的开端。",
+      "ja": "1918年11月3日、キールの水兵たちの抗議は、戦争と帝国支配に反対する公然たる反乱へ発展しました。この反乱は十一月革命の始まりとなりました。",
+      "ko": "1918년 11월 3일 킬의 수병 시위는 전쟁과 제국 통치에 반대하는 공개 반란으로 커졌다. 이 반란은 11월 혁명의 시작이 되었다.",
+      "hi": "3 नवंबर 1918 को कील में नाविकों का विरोध युद्ध और साम्राज्यवादी सत्ता के खिलाफ खुले विद्रोह में बदल गया। यह विद्रोह नवंबर क्रांति की शुरुआत बना।",
+      "ar": "في 3 نوفمبر 1918 تحولت احتجاجات البحارة في كيل الى تمرد مفتوح ضد الحرب والسلطة الامبراطورية. واصبح التمرد بداية ثورة نوفمبر."
     },
     "importance": {
       "ru": "От Киля революция быстро распространилась по Германии и привела к падению монархии.",
       "de": "Von Kiel breitete sich die Revolution schnell in Deutschland aus und fuehrte zum Ende der Monarchie.",
-      "en": "From Kiel, the revolution quickly spread across Germany and led to the fall of the monarchy."
+      "en": "From Kiel, the revolution quickly spread across Germany and led to the fall of the monarchy.",
+      "fr": "Depuis Kiel, la revolution se repandit rapidement en Allemagne et mena a la chute de la monarchie.",
+      "es": "Desde Kiel, la revolucion se extendio rapidamente por Alemania y llevo a la caida de la monarquia.",
+      "it": "Da Kiel, la rivoluzione si diffuse rapidamente in Germania e porto alla caduta della monarchia.",
+      "pt": "A partir de Kiel, a revolucao se espalhou rapidamente pela Alemanha e levou a queda da monarquia.",
+      "nl": "Vanuit Kiel verspreidde de revolutie zich snel door Duitsland en leidde tot de val van de monarchie.",
+      "pl": "Z Kilonii rewolucja szybko rozprzestrzenila sie po Niemczech i doprowadzila do upadku monarchii.",
+      "tr": "Devrim Kiel'den hizla Almanya'ya yayildi ve monarsinin dususune yol acti.",
+      "zh": "革命从基尔迅速扩展到德国各地，并导致君主制垮台。",
+      "ja": "革命はキールからドイツ全土へ急速に広がり、君主制の崩壊につながりました。",
+      "ko": "혁명은 킬에서 독일 전역으로 빠르게 퍼졌고 군주제의 몰락으로 이어졌다.",
+      "hi": "कील से क्रांति तेजी से पूरे जर्मनी में फैल गई और राजतंत्र के पतन तक पहुंची।",
+      "ar": "انتشرت الثورة من كيل بسرعة في انحاء المانيا وادت الى سقوط الملكية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "До 9 ноября был Киль",
           "de": "Vor dem 9. November kam Kiel",
-          "en": "Before 9 November came Kiel"
+          "en": "Before 9 November came Kiel",
+          "fr": "Avant le 9 novembre, il y eut Kiel",
+          "es": "Antes del 9 de noviembre estuvo Kiel",
+          "it": "Prima del 9 novembre venne Kiel",
+          "pt": "Antes de 9 de novembro veio Kiel",
+          "nl": "Voor 9 november kwam Kiel",
+          "pl": "Przed 9 listopada byla Kilonia",
+          "tr": "9 Kasim'dan once Kiel vardi",
+          "zh": "11月9日之前先有基尔",
+          "ja": "11月9日の前にキールがあった",
+          "ko": "11월 9일 이전에 킬이 있었다",
+          "hi": "9 नवंबर से पहले कील था",
+          "ar": "قبل 9 نوفمبر كانت كيل"
         },
         "description": {
           "ru": "Республику обычно вспоминают через Берлин 9 ноября, но импульс пришёл с севера. Моряки и рабочие показали, что война потеряла поддержку.",
           "de": "Die Republik wird oft mit Berlin am 9. November verbunden, doch der Impuls kam aus dem Norden. Matrosen und Arbeiter zeigten, dass der Krieg seine Unterstuetzung verloren hatte.",
-          "en": "The republic is often associated with Berlin on 9 November, but the impulse came from the north. Sailors and workers showed that the war had lost support."
+          "en": "The republic is often associated with Berlin on 9 November, but the impulse came from the north. Sailors and workers showed that the war had lost support.",
+          "fr": "La republique est souvent associee a Berlin le 9 novembre, mais l'impulsion vint du nord. Marins et ouvriers montrerent que la guerre avait perdu son soutien.",
+          "es": "La republica suele asociarse con Berlin el 9 de noviembre, pero el impulso vino del norte. Marineros y obreros mostraron que la guerra habia perdido apoyo.",
+          "it": "La repubblica viene spesso associata a Berlino il 9 novembre, ma l'impulso venne dal nord. Marinai e operai mostrarono che la guerra aveva perso sostegno.",
+          "pt": "A republica e muitas vezes associada a Berlim em 9 de novembro, mas o impulso veio do norte. Marinheiros e operarios mostraram que a guerra havia perdido apoio.",
+          "nl": "De republiek wordt vaak verbonden met Berlijn op 9 november, maar de impuls kwam uit het noorden. Matrozen en arbeiders lieten zien dat de oorlog zijn steun had verloren.",
+          "pl": "Republike czesto kojarzy sie z Berlinem 9 listopada, ale impuls przyszedl z polnocy. Marynarze i robotnicy pokazali, ze wojna stracila poparcie.",
+          "tr": "Cumhuriyet genellikle 9 Kasim'da Berlin ile iliskilendirilir, fakat itki kuzeyden geldi. Denizciler ve isciler savasin destegini kaybettigini gosterdi.",
+          "zh": "共和国常与11月9日的柏林联系在一起，但推动力来自北方。水兵和工人表明，战争已经失去支持。",
+          "ja": "共和国はしばしば11月9日のベルリンと結びつけられますが、きっかけは北から来ました。水兵と労働者は、戦争が支持を失ったことを示しました。",
+          "ko": "공화국은 흔히 11월 9일의 베를린과 연결되지만, 충격은 북쪽에서 왔다. 수병과 노동자들은 전쟁이 지지를 잃었음을 보여 주었다.",
+          "hi": "गणराज्य को अक्सर 9 नवंबर के बर्लिन से जोड़ा जाता है, लेकिन प्रेरणा उत्तर से आई। नाविकों और मजदूरों ने दिखाया कि युद्ध का समर्थन खत्म हो चुका था।",
+          "ar": "غالبا ما ترتبط الجمهورية ببرلين في 9 نوفمبر، لكن الدافع جاء من الشمال. اظهر البحارة والعمال ان الحرب فقدت التأييد."
         },
         "importance": {
           "ru": "Это помогает не сводить историю Германии только к столице.",
           "de": "Das hilft, deutsche Geschichte nicht nur auf die Hauptstadt zu reduzieren.",
-          "en": "It helps avoid reducing German history only to the capital."
+          "en": "It helps avoid reducing German history only to the capital.",
+          "fr": "Cela aide a ne pas reduire l'histoire allemande a la seule capitale.",
+          "es": "Ayuda a no reducir la historia alemana solo a la capital.",
+          "it": "Aiuta a non ridurre la storia tedesca solo alla capitale.",
+          "pt": "Isso ajuda a nao reduzir a historia alema apenas a capital.",
+          "nl": "Het helpt voorkomen dat Duitse geschiedenis alleen tot de hoofdstad wordt herleid.",
+          "pl": "Pomaga to nie sprowadzac historii Niemiec tylko do stolicy.",
+          "tr": "Bu, Alman tarihini yalnizca baskente indirgememeye yardim eder.",
+          "zh": "这有助于避免把德国历史只简化为首都的历史。",
+          "ja": "これは、ドイツ史を首都だけに縮小して考えない助けになります。",
+          "ko": "이는 독일사를 수도의 역사로만 축소하지 않게 해 준다.",
+          "hi": "इससे जर्मन इतिहास को केवल राजधानी तक सीमित करके देखने से बचने में मदद मिलती है।",
+          "ar": "يساعد ذلك على عدم اختزال تاريخ المانيا في العاصمة فقط."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Кильское восстание связывает морскую историю Шлезвиг-Гольштейна с рождением Веймарской республики.",
     "de": "Der Kieler Aufstand verbindet die maritime Geschichte Schleswig-Holsteins mit der Geburt der Weimarer Republik.",
-    "en": "The Kiel uprising links Schleswig-Holstein's maritime history with the birth of the Weimar Republic."
+    "en": "The Kiel uprising links Schleswig-Holstein's maritime history with the birth of the Weimar Republic.",
+    "fr": "Le soulevement de Kiel relie l'histoire maritime du Schleswig-Holstein a la naissance de la republique de Weimar.",
+    "es": "El levantamiento de Kiel une la historia maritima de Schleswig-Holstein con el nacimiento de la Republica de Weimar.",
+    "it": "La rivolta di Kiel collega la storia marittima dello Schleswig-Holstein alla nascita della Repubblica di Weimar.",
+    "pt": "O levante de Kiel liga a historia maritima de Schleswig-Holstein ao nascimento da Republica de Weimar.",
+    "nl": "De opstand in Kiel verbindt de maritieme geschiedenis van Sleeswijk-Holstein met de geboorte van de Weimarrepubliek.",
+    "pl": "Powstanie w Kilonii laczy morska historie Szlezwika-Holsztynu z narodzinami Republiki Weimarskiej.",
+    "tr": "Kiel ayaklanmasi, Schleswig-Holstein'in denizcilik tarihini Weimar Cumhuriyeti'nin dogusuyla baglar.",
+    "zh": "基尔起义把石勒苏益格-荷尔斯泰因的海洋历史与魏玛共和国的诞生联系起来。",
+    "ja": "キール蜂起は、シュレースヴィヒ＝ホルシュタインの海の歴史とワイマール共和国の誕生を結びつけています。",
+    "ko": "킬 봉기는 슐레스비히홀슈타인의 해양 역사와 바이마르 공화국의 탄생을 연결한다.",
+    "hi": "कील विद्रोह श्लेसविग-होल्स्टाइन के समुद्री इतिहास को वाइमर गणराज्य के जन्म से जोड़ता है।",
+    "ar": "يربط تمرد كيل التاريخ البحري لشليسفيغ هولشتاين بولادة جمهورية فايمار."
   },
   "sources": [
     {

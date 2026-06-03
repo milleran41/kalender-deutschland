@@ -11,17 +11,53 @@
     "title": {
       "ru": "Состоялось совещание, известное по протоколу Хоссбаха",
       "de": "Die Besprechung zum Hossbach-Protokoll findet statt",
-      "en": "The meeting recorded in the Hossbach Memorandum takes place"
+      "en": "The meeting recorded in the Hossbach Memorandum takes place",
+      "fr": "La reunion consignee dans le memorandum Hossbach a lieu",
+      "es": "Tiene lugar la reunion registrada en el Memorando Hossbach",
+      "it": "Si svolge la riunione registrata nel Memorandum Hossbach",
+      "pt": "Ocorre a reuniao registrada no Memorando Hossbach",
+      "nl": "De vergadering uit het Hossbach-memorandum vindt plaats",
+      "pl": "Odbywa sie narada zapisana w memorandum Hossbacha",
+      "tr": "Hossbach Muhtirasi'na gecen toplanti yapildi",
+      "zh": "《霍斯巴赫备忘录》记录的会议举行",
+      "ja": "ホスバッハ覚書に記録された会議が行われる",
+      "ko": "호스바흐 비망록에 기록된 회의가 열리다",
+      "hi": "होसबाख ज्ञापन में दर्ज बैठक हुई",
+      "ar": "انعقاد الاجتماع المسجل في مذكرة هوسباخ"
     },
     "description": {
       "ru": "5 ноября 1937 года Гитлер собрал в рейхсканцелярии военное и внешнеполитическое руководство. В записи адъютанта Фридриха Хоссбаха были изложены агрессивные планы расширения нацистской Германии.",
       "de": "Am 5. November 1937 versammelte Hitler in der Reichskanzlei die militaerische und aussenpolitische Fuehrung. In der Aufzeichnung seines Adjutanten Friedrich Hossbach wurden aggressive Expansionsplaene des NS-Staates festgehalten.",
-      "en": "On 5 November 1937, Hitler gathered military and foreign-policy leaders in the Reich Chancellery. In the record by his adjutant Friedrich Hossbach, aggressive expansion plans of Nazi Germany were set down."
+      "en": "On 5 November 1937, Hitler gathered military and foreign-policy leaders in the Reich Chancellery. In the record by his adjutant Friedrich Hossbach, aggressive expansion plans of Nazi Germany were set down.",
+      "fr": "Le 5 novembre 1937, Hitler reunit a la chancellerie du Reich les chefs militaires et de la politique etrangere. Dans la note de son adjudant Friedrich Hossbach furent consignes les plans d'expansion agressifs de l'Allemagne nazie.",
+      "es": "El 5 de noviembre de 1937, Hitler reunio en la Cancilleria del Reich a los dirigentes militares y de politica exterior. En el registro de su ayudante Friedrich Hossbach quedaron anotados los planes agresivos de expansion de la Alemania nazi.",
+      "it": "Il 5 novembre 1937, Hitler riuni nella Cancelleria del Reich i vertici militari e della politica estera. Nel resoconto del suo aiutante Friedrich Hossbach furono fissati i piani aggressivi di espansione della Germania nazista.",
+      "pt": "Em 5 de novembro de 1937, Hitler reuniu na Chancelaria do Reich lideres militares e de politica externa. No registro de seu ajudante Friedrich Hossbach ficaram anotados os planos agressivos de expansao da Alemanha nazista.",
+      "nl": "Op 5 november 1937 bracht Hitler in de Rijkskanselarij de militaire en buitenlandse-politieke leiding bijeen. In het verslag van zijn adjudant Friedrich Hossbach werden agressieve uitbreidingsplannen van nazi-Duitsland vastgelegd.",
+      "pl": "5 listopada 1937 roku Hitler zebral w Kancelarii Rzeszy kierownictwo wojskowe i zagraniczno-polityczne. W zapisie jego adiutanta Friedricha Hossbacha utrwalono agresywne plany ekspansji nazistowskich Niemiec.",
+      "tr": "5 Kasim 1937'de Hitler, Reich Sansolyesi'nde askeri ve dis politika liderlerini topladi. Yaveri Friedrich Hossbach'in kaydinda Nazi Almanyasi'nin saldirgan genisleme planlari yer aldi.",
+      "zh": "1937年11月5日，希特勒在帝国总理府召集军事和外交政策领导人。他的副官弗里德里希·霍斯巴赫的记录中写下了纳粹德国的侵略性扩张计划。",
+      "ja": "1937年11月5日、ヒトラーは帝国首相官邸に軍と外交政策の指導者を集めました。副官フリードリヒ・ホスバッハの記録には、ナチス・ドイツの攻撃的な拡張計画が記されました。",
+      "ko": "1937년 11월 5일 히틀러는 제국 수상관저에 군사 및 외교 정책 지도자들을 모았다. 그의 부관 프리드리히 호스바흐의 기록에는 나치 독일의 공격적 팽창 계획이 적혔다.",
+      "hi": "5 नवंबर 1937 को हिटलर ने राइख चांसलरी में सैन्य और विदेश नीति नेतृत्व को इकट्ठा किया। उसके सहायक फ्रिडरिख होसबाख की रिकॉर्डिंग में नाज़ी जर्मनी की आक्रामक विस्तार योजनाएं दर्ज की गईं।",
+      "ar": "في 5 نوفمبر 1937 جمع هتلر القيادة العسكرية وقيادة السياسة الخارجية في مستشارية الرايخ. وفي سجل مساعده فريدريش هوسباخ دُونت خطط التوسع العدوانية لالمانيا النازية."
     },
     "importance": {
       "ru": "Протокол Хоссбаха важен для понимания пути нацистской Германии к войне.",
       "de": "Das Hossbach-Protokoll ist wichtig fuer das Verstaendnis des Weges des NS-Staates in den Krieg.",
-      "en": "The Hossbach Memorandum is important for understanding Nazi Germany's road to war."
+      "en": "The Hossbach Memorandum is important for understanding Nazi Germany's road to war.",
+      "fr": "Le memorandum Hossbach est important pour comprendre le chemin de l'Allemagne nazie vers la guerre.",
+      "es": "El Memorando Hossbach es importante para entender el camino de la Alemania nazi hacia la guerra.",
+      "it": "Il Memorandum Hossbach e importante per capire il percorso della Germania nazista verso la guerra.",
+      "pt": "O Memorando Hossbach e importante para entender o caminho da Alemanha nazista rumo a guerra.",
+      "nl": "Het Hossbach-memorandum is belangrijk om de weg van nazi-Duitsland naar de oorlog te begrijpen.",
+      "pl": "Memorandum Hossbacha jest wazne dla zrozumienia drogi nazistowskich Niemiec ku wojnie.",
+      "tr": "Hossbach Muhtirasi, Nazi Almanyasi'nin savasa giden yolunu anlamak icin onemlidir.",
+      "zh": "《霍斯巴赫备忘录》对于理解纳粹德国走向战争的道路很重要。",
+      "ja": "ホスバッハ覚書は、ナチス・ドイツが戦争へ向かった道を理解するうえで重要です。",
+      "ko": "호스바흐 비망록은 나치 독일이 전쟁으로 향한 길을 이해하는 데 중요하다.",
+      "hi": "होसबाख ज्ञापन नाज़ी जर्मनी के युद्ध की ओर बढ़ने को समझने के लिए महत्वपूर्ण है।",
+      "ar": "تعد مذكرة هوسباخ مهمة لفهم طريق المانيا النازية الى الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Планирование агрессии",
           "de": "Planung der Aggression",
-          "en": "Planning aggression"
+          "en": "Planning aggression",
+          "fr": "Planification de l'agression",
+          "es": "Planificacion de la agresion",
+          "it": "Pianificazione dell'aggressione",
+          "pt": "Planejamento da agressao",
+          "nl": "Planning van agressie",
+          "pl": "Planowanie agresji",
+          "tr": "Saldirganligin planlanmasi",
+          "zh": "策划侵略",
+          "ja": "侵略の計画",
+          "ko": "침략 계획",
+          "hi": "आक्रामकता की योजना",
+          "ar": "التخطيط للعدوان"
         },
         "description": {
           "ru": "Документ не был публичной речью: это был внутренний разговор власти о будущей экспансии. Именно такие источники помогают историкам видеть, как решения войны готовились заранее.",
           "de": "Das Dokument war keine oeffentliche Rede, sondern ein internes Gespraech der Macht ueber kuenftige Expansion. Solche Quellen helfen Historikern zu erkennen, wie Kriegsentscheidungen vorbereitet wurden.",
-          "en": "The document was not a public speech, but an internal conversation of power about future expansion. Such sources help historians see how decisions for war were prepared."
+          "en": "The document was not a public speech, but an internal conversation of power about future expansion. Such sources help historians see how decisions for war were prepared.",
+          "fr": "Le document n'etait pas un discours public, mais une conversation interne du pouvoir sur une expansion future. De telles sources aident les historiens a voir comment les decisions de guerre furent preparees.",
+          "es": "El documento no fue un discurso publico, sino una conversacion interna del poder sobre la expansion futura. Fuentes asi ayudan a los historiadores a ver como se prepararon las decisiones de guerra.",
+          "it": "Il documento non era un discorso pubblico, ma una conversazione interna del potere sulla futura espansione. Fonti simili aiutano gli storici a vedere come furono preparate le decisioni di guerra.",
+          "pt": "O documento nao foi um discurso publico, mas uma conversa interna do poder sobre expansao futura. Fontes assim ajudam historiadores a ver como decisoes de guerra foram preparadas.",
+          "nl": "Het document was geen openbare toespraak, maar een intern machtsgesprek over toekomstige uitbreiding. Zulke bronnen helpen historici te zien hoe oorlogsbesluiten werden voorbereid.",
+          "pl": "Dokument nie byl publicznym przemowieniem, lecz wewnetrzna rozmowa wladzy o przyszlej ekspansji. Takie zrodla pomagaja historykom zobaczyc, jak przygotowywano decyzje o wojnie.",
+          "tr": "Belge kamuya acik bir konusma degil, gelecekteki genisleme hakkinda iktidarin ic gorusmesiydi. Bu tur kaynaklar tarihcilere savas kararlarinin nasil hazirlandigini gosterir.",
+          "zh": "这份文件不是公开演讲，而是权力内部关于未来扩张的谈话。这样的资料帮助历史学家看到战争决定是如何提前准备的。",
+          "ja": "この文書は公開演説ではなく、将来の拡張についての権力内部の会話でした。このような史料は、戦争の決定がどのように準備されたかを歴史家が見る助けになります。",
+          "ko": "이 문서는 공개 연설이 아니라 미래의 팽창에 관한 권력 내부의 대화였다. 이런 자료는 역사가들이 전쟁 결정이 어떻게 준비되었는지 보는 데 도움을 준다.",
+          "hi": "यह दस्तावेज सार्वजनिक भाषण नहीं था, बल्कि भविष्य के विस्तार पर सत्ता की आंतरिक बातचीत थी। ऐसे स्रोत इतिहासकारों को दिखाते हैं कि युद्ध के निर्णय कैसे तैयार किए गए।",
+          "ar": "لم تكن الوثيقة خطابا عاما، بل حديثا داخليا للسلطة عن التوسع المستقبلي. وتساعد مثل هذه المصادر المؤرخين على رؤية كيف جرى التحضير لقرارات الحرب."
         },
         "importance": {
           "ru": "Это делает дату важной не как зрелищное событие, а как момент опасного политического планирования.",
           "de": "Das macht das Datum wichtig nicht als sichtbares Ereignis, sondern als Moment gefaehrlicher politischer Planung.",
-          "en": "This makes the date important not as a visible event, but as a moment of dangerous political planning."
+          "en": "This makes the date important not as a visible event, but as a moment of dangerous political planning.",
+          "fr": "Cela rend la date importante non comme evenement visible, mais comme moment de planification politique dangereuse.",
+          "es": "Esto hace que la fecha sea importante no como acontecimiento visible, sino como momento de peligrosa planificacion politica.",
+          "it": "Questo rende la data importante non come evento visibile, ma come momento di pericolosa pianificazione politica.",
+          "pt": "Isso torna a data importante nao como evento visivel, mas como momento de perigoso planejamento politico.",
+          "nl": "Dit maakt de datum belangrijk, niet als zichtbaar evenement, maar als moment van gevaarlijke politieke planning.",
+          "pl": "To czyni te date wazna nie jako widoczne wydarzenie, lecz jako moment niebezpiecznego planowania politycznego.",
+          "tr": "Bu, tarihi gorunur bir olay olarak degil, tehlikeli siyasi planlamanin ani olarak onemli kilar.",
+          "zh": "这使这个日期重要的原因不是它是可见的大事件，而是它是危险政治策划的时刻。",
+          "ja": "この日付が重要なのは、目に見える出来事としてではなく、危険な政治計画の瞬間としてです。",
+          "ko": "이 날짜는 눈에 보이는 사건이 아니라 위험한 정치적 계획의 순간으로서 중요하다.",
+          "hi": "इससे यह तारीख किसी दिखाई देने वाली घटना के रूप में नहीं, बल्कि खतरनाक राजनीतिक योजना के क्षण के रूप में महत्वपूर्ण बनती है।",
+          "ar": "يجعل ذلك التاريخ مهما لا كحدث مرئي، بل كلحظة تخطيط سياسي خطير."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Запись была составлена Хоссбахом 10 ноября 1937 года по памяти после совещания.",
     "de": "Die Aufzeichnung wurde von Hossbach am 10. November 1937 nach der Besprechung aus dem Gedaechtnis erstellt.",
-    "en": "The memorandum was written by Hossbach on 10 November 1937 from memory after the meeting."
+    "en": "The memorandum was written by Hossbach on 10 November 1937 from memory after the meeting.",
+    "fr": "Le memorandum fut redige par Hossbach le 10 novembre 1937, de memoire apres la reunion.",
+    "es": "El memorando fue escrito por Hossbach el 10 de noviembre de 1937, de memoria despues de la reunion.",
+    "it": "Il memorandum fu scritto da Hossbach il 10 novembre 1937, a memoria dopo la riunione.",
+    "pt": "O memorando foi escrito por Hossbach em 10 de novembro de 1937, de memoria apos a reuniao.",
+    "nl": "Het memorandum werd door Hossbach op 10 november 1937 uit het geheugen na de vergadering opgesteld.",
+    "pl": "Memorandum zostalo spisane przez Hossbacha 10 listopada 1937 roku z pamieci po naradzie.",
+    "tr": "Muhtira Hossbach tarafindan toplantidan sonra, 10 Kasim 1937'de hafizadan yazildi.",
+    "zh": "该备忘录由霍斯巴赫在会后凭记忆于1937年11月10日写成。",
+    "ja": "この覚書は、会議後の1937年11月10日にホスバッハが記憶に基づいて作成しました。",
+    "ko": "이 비망록은 회의 뒤 1937년 11월 10일 호스바흐가 기억을 바탕으로 작성했다.",
+    "hi": "यह ज्ञापन होसबाख ने बैठक के बाद स्मृति से 10 नवंबर 1937 को लिखा था।",
+    "ar": "كتب هوسباخ المذكرة في 10 نوفمبر 1937 من الذاكرة بعد الاجتماع."
   },
   "sources": [
     {
