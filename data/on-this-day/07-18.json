@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вышел первый том «Mein Kampf»",
       "de": "Der erste Band von Mein Kampf erscheint",
-      "en": "The first volume of Mein Kampf is published"
+      "en": "The first volume of Mein Kampf is published",
+      "fr": "Le premier volume de Mein Kampf est publié",
+      "es": "Se publica el primer volumen de Mein Kampf",
+      "it": "Viene pubblicato il primo volume di Mein Kampf",
+      "pt": "É publicado o primeiro volume de Mein Kampf",
+      "nl": "Het eerste deel van Mein Kampf verschijnt",
+      "pl": "Ukazuje się pierwszy tom Mein Kampf",
+      "tr": "Mein Kampf'ın ilk cildi yayımlanır",
+      "zh": "《我的奋斗》第一卷出版",
+      "ja": "『Mein Kampf』第1巻が出版される",
+      "ko": "Mein Kampf 제1권이 출간되다",
+      "hi": "Mein Kampf का पहला खंड प्रकाशित हुआ",
+      "ar": "نشر المجلد الأول من Mein Kampf"
     },
     "description": {
       "ru": "18 июля 1925 года был опубликован первый том книги Адольфа Гитлера «Mein Kampf». Текст изложил многие идеи нацистской идеологии и позже стал одним из инструментов пропаганды.",
       "de": "Am 18. Juli 1925 erschien der erste Band von Adolf Hitlers Mein Kampf. Der Text formulierte viele Grundideen der nationalsozialistischen Ideologie und wurde spaeter zu einem Propagandainstrument.",
-      "en": "On 18 July 1925, the first volume of Adolf Hitler's Mein Kampf was published. The text set out many ideas of Nazi ideology and later became a propaganda tool."
+      "en": "On 18 July 1925, the first volume of Adolf Hitler's Mein Kampf was published. The text set out many ideas of Nazi ideology and later became a propaganda tool.",
+      "fr": "Le 18 juillet 1925, le premier volume de Mein Kampf d'Adolf Hitler fut publié. Le texte exposait de nombreuses idées de l'idéologie nazie et devint plus tard un outil de propagande.",
+      "es": "El 18 de julio de 1925 se publicó el primer volumen de Mein Kampf de Adolf Hitler. El texto expuso muchas ideas de la ideología nazi y más tarde se convirtió en una herramienta de propaganda.",
+      "it": "Il 18 luglio 1925 fu pubblicato il primo volume del Mein Kampf di Adolf Hitler. Il testo espose molte idee dell'ideologia nazista e in seguito divenne uno strumento di propaganda.",
+      "pt": "Em 18 de julho de 1925, foi publicado o primeiro volume de Mein Kampf, de Adolf Hitler. O texto apresentou muitas ideias da ideologia nazista e mais tarde tornou-se uma ferramenta de propaganda.",
+      "nl": "Op 18 juli 1925 verscheen het eerste deel van Adolf Hitlers Mein Kampf. De tekst zette veel ideeën van de nazistische ideologie uiteen en werd later een propagandamiddel.",
+      "pl": "18 lipca 1925 roku ukazał się pierwszy tom Mein Kampf Adolfa Hitlera. Tekst przedstawiał wiele idei ideologii nazistowskiej i później stał się narzędziem propagandy.",
+      "tr": "18 Temmuz 1925'te Adolf Hitler'in Mein Kampf adlı kitabının ilk cildi yayımlandı. Metin Nazi ideolojisinin birçok fikrini ortaya koydu ve daha sonra bir propaganda aracına dönüştü.",
+      "zh": "1925年7月18日，阿道夫·希特勒的《我的奋斗》第一卷出版。该文本阐述了纳粹意识形态的许多思想，后来成为宣传工具。",
+      "ja": "1925年7月18日、アドルフ・ヒトラーの『Mein Kampf』第1巻が出版された。このテキストはナチ思想の多くの考えを示し、後に宣伝の道具となった。",
+      "ko": "1925년 7월 18일, 아돌프 히틀러의 Mein Kampf 제1권이 출간되었다. 이 텍스트는 나치 이데올로기의 많은 사상을 제시했고 나중에 선전 도구가 되었다.",
+      "hi": "18 जुलाई 1925 को अडोल्फ हिटलर की Mein Kampf का पहला खंड प्रकाशित हुआ। इस पाठ में नाजी विचारधारा के कई विचार रखे गए और बाद में यह प्रचार का साधन बन गया।",
+      "ar": "في 18 يوليو 1925 نُشر المجلد الأول من كتاب Mein Kampf لأدولف هتلر. عرض النص كثيرا من أفكار الأيديولوجية النازية، وأصبح لاحقا أداة للدعاية."
     },
     "importance": {
       "ru": "Дата важна не из-за самой книги, а потому что показывает, как экстремистские идеи могут распространяться через печать и политику.",
       "de": "Das Datum ist nicht wegen des Buches selbst wichtig, sondern weil es zeigt, wie extremistische Ideen durch Druck und Politik verbreitet werden koennen.",
-      "en": "The date matters not because of the book itself, but because it shows how extremist ideas can spread through print and politics."
+      "en": "The date matters not because of the book itself, but because it shows how extremist ideas can spread through print and politics.",
+      "fr": "Cette date compte non pas à cause du livre lui-même, mais parce qu'elle montre comment des idées extrémistes peuvent se diffuser par l'imprimé et la politique.",
+      "es": "La fecha importa no por el libro en sí, sino porque muestra cómo las ideas extremistas pueden difundirse mediante la imprenta y la política.",
+      "it": "La data è importante non per il libro in sé, ma perché mostra come idee estremiste possano diffondersi attraverso la stampa e la politica.",
+      "pt": "A data importa não pelo livro em si, mas porque mostra como ideias extremistas podem se espalhar pela impressão e pela política.",
+      "nl": "De datum is niet belangrijk vanwege het boek zelf, maar omdat hij laat zien hoe extremistische ideeën zich via drukwerk en politiek kunnen verspreiden.",
+      "pl": "Ta data jest ważna nie z powodu samej książki, lecz dlatego, że pokazuje, jak idee ekstremistyczne mogą rozprzestrzeniać się przez druk i politykę.",
+      "tr": "Bu tarih kitabın kendisinden dolayı değil, aşırıcı fikirlerin basın ve siyaset yoluyla nasıl yayılabildiğini göstermesi bakımından önemlidir.",
+      "zh": "这个日期的重要性不在于这本书本身，而在于它说明极端主义思想如何通过出版和政治传播。",
+      "ja": "この日が重要なのは本そのもののためではなく、過激な思想が印刷物と政治を通じて広がりうることを示しているからである。",
+      "ko": "이 날짜가 중요한 것은 책 자체 때문이 아니라, 극단주의 사상이 인쇄물과 정치를 통해 어떻게 퍼질 수 있는지를 보여 주기 때문이다.",
+      "hi": "यह तारीख किताब के कारण नहीं, बल्कि इसलिए महत्वपूर्ण है कि यह दिखाती है कि अतिवादी विचार छपाई और राजनीति के माध्यम से कैसे फैल सकते हैं।",
+      "ar": "لا تكمن أهمية هذا التاريخ في الكتاب نفسه، بل في أنه يوضح كيف يمكن للأفكار المتطرفة أن تنتشر عبر الطباعة والسياسة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "От тюремной рукописи к пропаганде",
           "de": "Vom Gefaengnistext zur Propaganda",
-          "en": "From prison manuscript to propaganda"
+          "en": "From prison manuscript to propaganda",
+          "fr": "Du manuscrit de prison à la propagande",
+          "es": "De manuscrito carcelario a propaganda",
+          "it": "Da manoscritto di prigione a propaganda",
+          "pt": "De manuscrito prisional a propaganda",
+          "nl": "Van gevangenistekst tot propaganda",
+          "pl": "Od więziennego rękopisu do propagandy",
+          "tr": "Hapishane metninden propagandaya",
+          "zh": "从狱中手稿到宣传",
+          "ja": "獄中原稿から宣伝へ",
+          "ko": "감옥 원고에서 선전으로",
+          "hi": "जेल की पांडुलिपि से प्रचार तक",
+          "ar": "من مخطوط السجن إلى الدعاية"
         },
         "description": {
           "ru": "Гитлер начал диктовать книгу после провала «пивного путча» и заключения в Ландсберге. В дальнейшем нацистское государство активно распространяло этот текст.",
           "de": "Hitler begann das Buch nach dem gescheiterten Hitlerputsch und seiner Haft in Landsberg zu diktieren. Spaeter verbreitete der NS-Staat den Text aktiv.",
-          "en": "Hitler began dictating the book after the failed Beer Hall Putsch and his imprisonment in Landsberg. Later, the Nazi state actively distributed the text."
+          "en": "Hitler began dictating the book after the failed Beer Hall Putsch and his imprisonment in Landsberg. Later, the Nazi state actively distributed the text.",
+          "fr": "Hitler commença à dicter le livre après l'échec du putsch de la Brasserie et son emprisonnement à Landsberg. Plus tard, l'État nazi diffusa activement le texte.",
+          "es": "Hitler comenzó a dictar el libro tras el fracaso del Putsch de la Cervecería y su encarcelamiento en Landsberg. Más tarde, el Estado nazi distribuyó activamente el texto.",
+          "it": "Hitler iniziò a dettare il libro dopo il fallito putsch della birreria e la sua detenzione a Landsberg. In seguito, lo Stato nazista diffuse attivamente il testo.",
+          "pt": "Hitler começou a ditar o livro após o fracassado Putsch da Cervejaria e sua prisão em Landsberg. Mais tarde, o Estado nazista distribuiu ativamente o texto.",
+          "nl": "Hitler begon het boek te dicteren na de mislukte Bierkellerputsch en zijn gevangenschap in Landsberg. Later verspreidde de nazistaat de tekst actief.",
+          "pl": "Hitler zaczął dyktować książkę po nieudanym puczu monachijskim i uwięzieniu w Landsbergu. Później państwo nazistowskie aktywnie rozpowszechniało ten tekst.",
+          "tr": "Hitler kitabı, başarısız Birahane Darbesi ve Landsberg'deki hapis döneminden sonra dikte etmeye başladı. Daha sonra Nazi devleti metni etkin biçimde dağıttı.",
+          "zh": "啤酒馆政变失败并被囚禁在兰茨贝格之后，希特勒开始口述这本书。后来，纳粹国家积极传播该文本。",
+          "ja": "ヒトラーは失敗したミュンヘン一揆とランツベルクでの投獄の後、この本を口述し始めた。後にナチ国家はこのテキストを積極的に配布した。",
+          "ko": "히틀러는 실패한 맥주홀 폭동과 란츠베르크 수감 이후 이 책을 구술하기 시작했다. 나중에 나치 국가는 이 텍스트를 적극적으로 배포했다.",
+          "hi": "असफल बीयर हॉल पुट्श और लांड्सबर्ग में कैद के बाद हिटलर ने यह किताब बोलकर लिखवानी शुरू की। बाद में नाजी राज्य ने इस पाठ को सक्रिय रूप से फैलाया।",
+          "ar": "بدأ هتلر إملاء الكتاب بعد فشل انقلاب قاعة البيرة وسجنه في لاندسبيرغ. ولاحقا نشرت الدولة النازية النص بنشاط."
         },
         "importance": {
           "ru": "История книги помогает понять, почему пропаганду важно изучать критически.",
           "de": "Die Geschichte des Buches hilft zu verstehen, warum Propaganda kritisch untersucht werden muss.",
-          "en": "The book's history helps explain why propaganda must be studied critically."
+          "en": "The book's history helps explain why propaganda must be studied critically.",
+          "fr": "L'histoire du livre aide à comprendre pourquoi la propagande doit être étudiée de manière critique.",
+          "es": "La historia del libro ayuda a explicar por qué la propaganda debe estudiarse de forma crítica.",
+          "it": "La storia del libro aiuta a capire perché la propaganda deve essere studiata criticamente.",
+          "pt": "A história do livro ajuda a explicar por que a propaganda deve ser estudada criticamente.",
+          "nl": "De geschiedenis van het boek helpt verklaren waarom propaganda kritisch moet worden onderzocht.",
+          "pl": "Historia książki pomaga zrozumieć, dlaczego propagandę trzeba badać krytycznie.",
+          "tr": "Kitabın tarihi, propagandanın neden eleştirel biçimde incelenmesi gerektiğini açıklamaya yardımcı olur.",
+          "zh": "这本书的历史有助于解释为什么必须批判性地研究宣传。",
+          "ja": "この本の歴史は、宣伝を批判的に研究しなければならない理由を説明する助けになる。",
+          "ko": "이 책의 역사는 선전을 왜 비판적으로 연구해야 하는지 설명하는 데 도움이 된다.",
+          "hi": "इस किताब का इतिहास समझाता है कि प्रचार का आलोचनात्मक अध्ययन क्यों जरूरी है।",
+          "ar": "يساعد تاريخ الكتاب على فهم سبب ضرورة دراسة الدعاية دراسة نقدية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Спорное переиздание с комментариями",
           "de": "Umstrittene kommentierte Neuausgabe",
-          "en": "Controversial annotated edition"
+          "en": "Controversial annotated edition",
+          "fr": "Édition commentée controversée",
+          "es": "Edición comentada controvertida",
+          "it": "Edizione commentata controversa",
+          "pt": "Edição comentada controversa",
+          "nl": "Omstreden geannoteerde uitgave",
+          "pl": "Kontrowersyjne wydanie z komentarzami",
+          "tr": "Tartışmalı açıklamalı baskı",
+          "zh": "有争议的注释版",
+          "ja": "論争を呼んだ注釈版",
+          "ko": "논란이 된 주석판",
+          "hi": "विवादास्पद टिप्पणी-सहित संस्करण",
+          "ar": "طبعة مشروحة مثيرة للجدل"
         },
         "description": {
           "ru": "После истечения авторских прав в Германии книгу издали в научной комментированной версии. Идея была в том, чтобы не распространять текст без объяснений, а разобрать его ложь и пропагандистские приёмы.",
           "de": "Nach Ablauf des Urheberrechts wurde das Buch in Deutschland in einer wissenschaftlich kommentierten Ausgabe veroeffentlicht. Ziel war es, den Text nicht unkommentiert zu verbreiten, sondern seine Luegen und Propagandatechniken zu erklaeren.",
-          "en": "After the copyright expired, Germany saw a scholarly annotated edition. The aim was not to circulate the text without context, but to explain its lies and propaganda techniques."
+          "en": "After the copyright expired, Germany saw a scholarly annotated edition. The aim was not to circulate the text without context, but to explain its lies and propaganda techniques.",
+          "fr": "Après l'expiration du droit d'auteur, une édition scientifique commentée parut en Allemagne. Le but n'était pas de diffuser le texte sans contexte, mais d'expliquer ses mensonges et ses techniques de propagande.",
+          "es": "Tras expirar los derechos de autor, en Alemania apareció una edición académica comentada. El objetivo no era difundir el texto sin contexto, sino explicar sus mentiras y técnicas de propaganda.",
+          "it": "Dopo la scadenza del diritto d'autore, in Germania uscì un'edizione scientifica commentata. L'obiettivo non era diffondere il testo senza contesto, ma spiegare le sue menzogne e tecniche propagandistiche.",
+          "pt": "Após o fim dos direitos autorais, surgiu na Alemanha uma edição acadêmica comentada. O objetivo não era circular o texto sem contexto, mas explicar suas mentiras e técnicas de propaganda.",
+          "nl": "Nadat het auteursrecht was verlopen, verscheen in Duitsland een wetenschappelijk geannoteerde uitgave. Het doel was niet om de tekst zonder context te verspreiden, maar om zijn leugens en propagandatechnieken uit te leggen.",
+          "pl": "Po wygaśnięciu praw autorskich w Niemczech ukazało się naukowe wydanie z komentarzami. Celem nie było rozpowszechnianie tekstu bez kontekstu, lecz wyjaśnienie jego kłamstw i technik propagandowych.",
+          "tr": "Telif hakkı süresi dolduktan sonra Almanya'da bilimsel açıklamalı bir baskı yayımlandı. Amaç metni bağlamsız dolaşıma sokmak değil, yalanlarını ve propaganda tekniklerini açıklamaktı.",
+          "zh": "版权到期后，德国出版了学术注释版。目的不是在没有背景说明的情况下传播文本，而是解释其中的谎言和宣传手法。",
+          "ja": "著作権が切れた後、ドイツでは学術的な注釈版が出版された。目的は文脈なしにテキストを流通させることではなく、その嘘と宣伝手法を説明することだった。",
+          "ko": "저작권이 만료된 뒤 독일에서는 학술 주석판이 나왔다. 목적은 맥락 없이 텍스트를 유통시키는 것이 아니라 그 거짓과 선전 기법을 설명하는 것이었다.",
+          "hi": "कॉपीराइट समाप्त होने के बाद जर्मनी में एक शैक्षिक टिप्पणी-सहित संस्करण आया। उद्देश्य पाठ को बिना संदर्भ फैलाना नहीं, बल्कि उसके झूठ और प्रचार तकनीकों को समझाना था।",
+          "ar": "بعد انتهاء حقوق النشر ظهرت في ألمانيا طبعة علمية مشروحة. ولم يكن الهدف نشر النص بلا سياق، بل شرح أكاذيبه وتقنيات الدعاية فيه."
         },
         "importance": {
           "ru": "Это хороший пример того, как общество может работать с опасными историческими текстами.",
           "de": "Das ist ein gutes Beispiel dafuer, wie eine Gesellschaft mit gefaehrlichen historischen Texten umgehen kann.",
-          "en": "It is a useful example of how a society can deal with dangerous historical texts."
+          "en": "It is a useful example of how a society can deal with dangerous historical texts.",
+          "fr": "C'est un exemple utile de la manière dont une société peut traiter des textes historiques dangereux.",
+          "es": "Es un ejemplo útil de cómo una sociedad puede tratar textos históricos peligrosos.",
+          "it": "È un esempio utile di come una società possa affrontare testi storici pericolosi.",
+          "pt": "É um exemplo útil de como uma sociedade pode lidar com textos históricos perigosos.",
+          "nl": "Het is een nuttig voorbeeld van hoe een samenleving met gevaarlijke historische teksten kan omgaan.",
+          "pl": "To użyteczny przykład tego, jak społeczeństwo może obchodzić się z niebezpiecznymi tekstami historycznymi.",
+          "tr": "Bu, bir toplumun tehlikeli tarihsel metinlerle nasıl başa çıkabileceğine yararlı bir örnektir.",
+          "zh": "这是社会如何处理危险历史文本的有益例子。",
+          "ja": "社会が危険な歴史的テキストにどう向き合えるかを示す有用な例である。",
+          "ko": "이는 사회가 위험한 역사 텍스트를 어떻게 다룰 수 있는지 보여 주는 유용한 사례이다.",
+          "hi": "यह उपयोगी उदाहरण है कि समाज खतरनाक ऐतिहासिक पाठों से कैसे निपट सकता है।",
+          "ar": "إنه مثال مفيد على كيفية تعامل المجتمع مع نصوص تاريخية خطيرة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "К 1945 году «Mein Kampf» распространили миллионными тиражами, в том числе как «подарочные» экземпляры в нацистской Германии.",
     "de": "Bis 1945 wurde Mein Kampf millionenfach verbreitet, auch als Geschenkausgabe im nationalsozialistischen Deutschland.",
-    "en": "By 1945, Mein Kampf had been distributed in millions of copies, including as gift editions in Nazi Germany."
+    "en": "By 1945, Mein Kampf had been distributed in millions of copies, including as gift editions in Nazi Germany.",
+    "fr": "En 1945, Mein Kampf avait été diffusé à des millions d'exemplaires, notamment sous forme d'exemplaires offerts dans l'Allemagne nazie.",
+    "es": "Para 1945, Mein Kampf se había distribuido en millones de ejemplares, incluso como ediciones de regalo en la Alemania nazi.",
+    "it": "Entro il 1945, Mein Kampf era stato diffuso in milioni di copie, anche come edizioni regalo nella Germania nazista.",
+    "pt": "Até 1945, Mein Kampf havia sido distribuído em milhões de exemplares, inclusive como edições de presente na Alemanha nazista.",
+    "nl": "Tegen 1945 was Mein Kampf in miljoenen exemplaren verspreid, ook als geschenkuitgaven in nazi-Duitsland.",
+    "pl": "Do 1945 roku Mein Kampf rozpowszechniono w milionach egzemplarzy, także jako wydania prezentowe w nazistowskich Niemczech.",
+    "tr": "1945'e gelindiğinde Mein Kampf, Nazi Almanyası'nda hediye baskılar da dahil olmak üzere milyonlarca kopya dağıtılmıştı.",
+    "zh": "到1945年，《我的奋斗》已发行数百万册，其中包括纳粹德国的“赠送”版本。",
+    "ja": "1945年までに『Mein Kampf』は、ナチス・ドイツでの贈呈版を含め、数百万部配布されていた。",
+    "ko": "1945년까지 Mein Kampf는 나치 독일의 선물용 판본을 포함해 수백만 부가 배포되었다.",
+    "hi": "1945 तक Mein Kampf की लाखों प्रतियां वितरित की जा चुकी थीं, जिनमें नाजी जर्मनी में 'उपहार' संस्करण भी शामिल थे।",
+    "ar": "بحلول عام 1945 كان Mein Kampf قد وُزع بملايين النسخ، بما في ذلك طبعات هدايا في ألمانيا النازية."
   },
   "sources": [
     {

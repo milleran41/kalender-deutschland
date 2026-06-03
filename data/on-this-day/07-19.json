@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась франко-прусская война",
       "de": "Der Deutsch-Franzoesische Krieg beginnt",
-      "en": "The Franco-Prussian War begins"
+      "en": "The Franco-Prussian War begins",
+      "fr": "La guerre franco-prussienne commence",
+      "es": "Comienza la guerra franco-prusiana",
+      "it": "Inizia la guerra franco-prussiana",
+      "pt": "Começa a Guerra Franco-Prussiana",
+      "nl": "De Frans-Duitse Oorlog begint",
+      "pl": "Rozpoczyna się wojna francusko-pruska",
+      "tr": "Fransa-Prusya Savaşı başlar",
+      "zh": "普法战争开始",
+      "ja": "普仏戦争が始まる",
+      "ko": "프랑스-프로이센 전쟁이 시작되다",
+      "hi": "फ्रांको-प्रशियन युद्ध शुरू हुआ",
+      "ar": "بدء الحرب الفرنسية البروسية"
     },
     "description": {
       "ru": "19 июля 1870 года Франция объявила войну Пруссии. Конфликт быстро превратился в войну Франции против союза немецких государств во главе с Пруссией.",
       "de": "Am 19. Juli 1870 erklaerte Frankreich Preussen den Krieg. Der Konflikt wurde schnell zu einem Krieg Frankreichs gegen ein Buendnis deutscher Staaten unter preussischer Fuehrung.",
-      "en": "On 19 July 1870, France declared war on Prussia. The conflict quickly became a war between France and an alliance of German states led by Prussia."
+      "en": "On 19 July 1870, France declared war on Prussia. The conflict quickly became a war between France and an alliance of German states led by Prussia.",
+      "fr": "Le 19 juillet 1870, la France déclara la guerre à la Prusse. Le conflit devint rapidement une guerre entre la France et une alliance d'États allemands menée par la Prusse.",
+      "es": "El 19 de julio de 1870, Francia declaró la guerra a Prusia. El conflicto se convirtió rápidamente en una guerra entre Francia y una alianza de estados alemanes liderada por Prusia.",
+      "it": "Il 19 luglio 1870 la Francia dichiarò guerra alla Prussia. Il conflitto divenne rapidamente una guerra tra la Francia e un'alleanza di stati tedeschi guidata dalla Prussia.",
+      "pt": "Em 19 de julho de 1870, a França declarou guerra à Prússia. O conflito rapidamente se transformou numa guerra entre a França e uma aliança de estados alemães liderada pela Prússia.",
+      "nl": "Op 19 juli 1870 verklaarde Frankrijk de oorlog aan Pruisen. Het conflict werd snel een oorlog tussen Frankrijk en een bondgenootschap van Duitse staten onder leiding van Pruisen.",
+      "pl": "19 lipca 1870 roku Francja wypowiedziała wojnę Prusom. Konflikt szybko stał się wojną Francji z sojuszem państw niemieckich pod przewodnictwem Prus.",
+      "tr": "19 Temmuz 1870'te Fransa Prusya'ya savaş ilan etti. Çatışma kısa sürede Fransa ile Prusya önderliğindeki Alman devletleri ittifakı arasında bir savaşa dönüştü.",
+      "zh": "1870年7月19日，法国向普鲁士宣战。冲突很快变成法国与普鲁士领导的德意志国家联盟之间的战争。",
+      "ja": "1870年7月19日、フランスはプロイセンに宣戦布告した。この対立はすぐに、フランスとプロイセン率いるドイツ諸邦同盟との戦争になった。",
+      "ko": "1870년 7월 19일, 프랑스는 프로이센에 선전포고했다. 이 갈등은 곧 프랑스와 프로이센이 이끄는 독일 국가들의 동맹 사이의 전쟁으로 바뀌었다.",
+      "hi": "19 जुलाई 1870 को फ्रांस ने प्रशिया पर युद्ध की घोषणा की। संघर्ष जल्दी ही फ्रांस और प्रशिया के नेतृत्व वाले जर्मन राज्यों के गठबंधन के बीच युद्ध बन गया।",
+      "ar": "في 19 يوليو 1870 أعلنت فرنسا الحرب على بروسيا. وسرعان ما تحول النزاع إلى حرب بين فرنسا وتحالف من الدول الألمانية بقيادة بروسيا."
     },
     "importance": {
       "ru": "Победа Пруссии открыла путь к провозглашению Германской империи в 1871 году.",
       "de": "Der preussische Sieg oeffnete den Weg zur Ausrufung des Deutschen Kaiserreichs 1871.",
-      "en": "Prussia's victory opened the way to the proclamation of the German Empire in 1871."
+      "en": "Prussia's victory opened the way to the proclamation of the German Empire in 1871.",
+      "fr": "La victoire prussienne ouvrit la voie à la proclamation de l'Empire allemand en 1871.",
+      "es": "La victoria prusiana abrió el camino a la proclamación del Imperio alemán en 1871.",
+      "it": "La vittoria prussiana aprì la strada alla proclamazione dell'Impero tedesco nel 1871.",
+      "pt": "A vitória prussiana abriu caminho para a proclamação do Império Alemão em 1871.",
+      "nl": "De Pruisische overwinning opende de weg naar de uitroeping van het Duitse Keizerrijk in 1871.",
+      "pl": "Zwycięstwo Prus otworzyło drogę do proklamowania Cesarstwa Niemieckiego w 1871 roku.",
+      "tr": "Prusya'nın zaferi 1871'de Alman İmparatorluğu'nun ilanına giden yolu açtı.",
+      "zh": "普鲁士的胜利为1871年德意志帝国的宣告铺平了道路。",
+      "ja": "プロイセンの勝利は、1871年のドイツ帝国宣言への道を開いた。",
+      "ko": "프로이센의 승리는 1871년 독일 제국 선포로 가는 길을 열었다.",
+      "hi": "प्रशिया की जीत ने 1871 में जर्मन साम्राज्य की घोषणा का रास्ता खोला।",
+      "ar": "فتح انتصار بروسيا الطريق لإعلان الإمبراطورية الألمانية عام 1871."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Немецкие государства выступили вместе",
           "de": "Deutsche Staaten treten gemeinsam auf",
-          "en": "German states act together"
+          "en": "German states act together",
+          "fr": "Les États allemands agissent ensemble",
+          "es": "Los estados alemanes actúan juntos",
+          "it": "Gli stati tedeschi agiscono insieme",
+          "pt": "Os estados alemães agem juntos",
+          "nl": "Duitse staten treden samen op",
+          "pl": "Państwa niemieckie działają razem",
+          "tr": "Alman devletleri birlikte hareket eder",
+          "zh": "德意志各邦共同行动",
+          "ja": "ドイツ諸邦が共に行動する",
+          "ko": "독일 국가들이 함께 행동하다",
+          "hi": "जर्मन राज्य साथ आए",
+          "ar": "الدول الألمانية تتحرك معا"
         },
         "description": {
           "ru": "Южногерманские государства поддержали Пруссию, хотя ещё не входили в единую Германию. Война усилила чувство общего политического будущего.",
           "de": "Die sueddeutschen Staaten unterstuetzten Preussen, obwohl sie noch nicht zu einem einheitlichen Deutschland gehoerten. Der Krieg staerkte das Gefuehl einer gemeinsamen politischen Zukunft.",
-          "en": "The southern German states supported Prussia even though they were not yet part of a unified Germany. The war strengthened the sense of a shared political future."
+          "en": "The southern German states supported Prussia even though they were not yet part of a unified Germany. The war strengthened the sense of a shared political future.",
+          "fr": "Les États du sud de l'Allemagne soutinrent la Prusse, même s'ils ne faisaient pas encore partie d'une Allemagne unifiée. La guerre renforça le sentiment d'un avenir politique commun.",
+          "es": "Los estados del sur de Alemania apoyaron a Prusia, aunque aún no formaban parte de una Alemania unificada. La guerra fortaleció la sensación de un futuro político compartido.",
+          "it": "Gli stati della Germania meridionale sostennero la Prussia, anche se non facevano ancora parte di una Germania unificata. La guerra rafforzò il senso di un futuro politico comune.",
+          "pt": "Os estados do sul da Alemanha apoiaram a Prússia, embora ainda não fizessem parte de uma Alemanha unificada. A guerra fortaleceu a sensação de um futuro político comum.",
+          "nl": "De Zuid-Duitse staten steunden Pruisen, hoewel zij nog geen deel uitmaakten van een verenigd Duitsland. De oorlog versterkte het gevoel van een gedeelde politieke toekomst.",
+          "pl": "Państwa południowoniemieckie poparły Prusy, choć nie należały jeszcze do zjednoczonych Niemiec. Wojna wzmocniła poczucie wspólnej przyszłości politycznej.",
+          "tr": "Güney Alman devletleri, henüz birleşik bir Almanya'nın parçası olmamalarına rağmen Prusya'yı destekledi. Savaş ortak bir siyasi gelecek duygusunu güçlendirdi.",
+          "zh": "南德意志各邦支持普鲁士，尽管它们当时还不是统一德国的一部分。这场战争增强了共同政治未来的感觉。",
+          "ja": "南ドイツ諸邦は、まだ統一ドイツの一部ではなかったにもかかわらず、プロイセンを支持した。戦争は共有された政治的未来への感覚を強めた。",
+          "ko": "남부 독일 국가들은 아직 통일 독일의 일부가 아니었음에도 프로이센을 지지했다. 전쟁은 공동의 정치적 미래에 대한 의식을 강화했다.",
+          "hi": "दक्षिणी जर्मन राज्यों ने प्रशिया का समर्थन किया, हालांकि वे अभी एकीकृत जर्मनी का हिस्सा नहीं थे। युद्ध ने साझा राजनीतिक भविष्य की भावना को मजबूत किया।",
+          "ar": "دعمت دول جنوب ألمانيا بروسيا رغم أنها لم تكن بعد جزءا من ألمانيا موحدة. وعززت الحرب الإحساس بمستقبل سياسي مشترك."
         },
         "importance": {
           "ru": "Это важный шаг от карты отдельных государств к карте единой империи.",
           "de": "Das war ein wichtiger Schritt von der Karte einzelner Staaten zur Karte eines geeinten Reiches.",
-          "en": "It was an important step from a map of separate states to a map of a unified empire."
+          "en": "It was an important step from a map of separate states to a map of a unified empire.",
+          "fr": "Ce fut une étape importante entre une carte d'États séparés et la carte d'un empire unifié.",
+          "es": "Fue un paso importante desde un mapa de estados separados hacia un mapa de un imperio unificado.",
+          "it": "Fu un passo importante da una carta di stati separati alla carta di un impero unificato.",
+          "pt": "Foi um passo importante de um mapa de estados separados para um mapa de um império unificado.",
+          "nl": "Het was een belangrijke stap van een kaart met afzonderlijke staten naar een kaart van een verenigd rijk.",
+          "pl": "Był to ważny krok od mapy osobnych państw do mapy zjednoczonego cesarstwa.",
+          "tr": "Bu, ayrı devletlerin haritasından birleşik bir imparatorluğun haritasına doğru önemli bir adımdı.",
+          "zh": "这是从分散国家地图走向统一帝国地图的重要一步。",
+          "ja": "それは、別々の国家の地図から統一帝国の地図へ向かう重要な一歩だった。",
+          "ko": "이는 분리된 국가들의 지도에서 통일된 제국의 지도로 나아가는 중요한 한 걸음이었다.",
+          "hi": "यह अलग-अलग राज्यों के नक्शे से एकीकृत साम्राज्य के नक्शे तक का महत्वपूर्ण कदम था।",
+          "ar": "كانت خطوة مهمة من خريطة دول منفصلة إلى خريطة إمبراطورية موحدة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Бисмарк и дипломатический кризис",
           "de": "Bismarck und die diplomatische Krise",
-          "en": "Bismarck and the diplomatic crisis"
+          "en": "Bismarck and the diplomatic crisis",
+          "fr": "Bismarck et la crise diplomatique",
+          "es": "Bismarck y la crisis diplomática",
+          "it": "Bismarck e la crisi diplomatica",
+          "pt": "Bismarck e a crise diplomática",
+          "nl": "Bismarck en de diplomatieke crisis",
+          "pl": "Bismarck i kryzys dyplomatyczny",
+          "tr": "Bismarck ve diplomatik kriz",
+          "zh": "俾斯麦与外交危机",
+          "ja": "ビスマルクと外交危機",
+          "ko": "비스마르크와 외교 위기",
+          "hi": "बिस्मार्क और कूटनीतिक संकट",
+          "ar": "بيسمارك والأزمة الدبلوماسية"
         },
         "description": {
           "ru": "Бисмарк сумел использовать дипломатический конфликт вокруг испанского престола и Эмсской депеши. В итоге Франция выглядела нападающей стороной, что помогло Пруссии собрать союзников.",
           "de": "Bismarck nutzte den diplomatischen Konflikt um den spanischen Thron und die Emser Depesche. Am Ende erschien Frankreich als Angreifer, was Preussen half, Verbuendete zu sammeln.",
-          "en": "Bismarck used the diplomatic crisis around the Spanish throne and the Ems Dispatch. France ended up appearing as the aggressor, which helped Prussia gather allies."
+          "en": "Bismarck used the diplomatic crisis around the Spanish throne and the Ems Dispatch. France ended up appearing as the aggressor, which helped Prussia gather allies.",
+          "fr": "Bismarck utilisa la crise diplomatique autour du trône espagnol et de la dépêche d'Ems. La France finit par apparaître comme l'agresseur, ce qui aida la Prusse à rassembler des alliés.",
+          "es": "Bismarck utilizó la crisis diplomática en torno al trono español y el despacho de Ems. Francia terminó apareciendo como la parte agresora, lo que ayudó a Prusia a reunir aliados.",
+          "it": "Bismarck sfruttò la crisi diplomatica intorno al trono spagnolo e al dispaccio di Ems. La Francia finì per apparire come l'aggressore, il che aiutò la Prussia a raccogliere alleati.",
+          "pt": "Bismarck usou a crise diplomática em torno do trono espanhol e o Despacho de Ems. A França acabou parecendo a parte agressora, o que ajudou a Prússia a reunir aliados.",
+          "nl": "Bismarck gebruikte de diplomatieke crisis rond de Spaanse troon en de Emser Depesche. Frankrijk kwam uiteindelijk over als de aanvaller, wat Pruisen hielp bondgenoten te verzamelen.",
+          "pl": "Bismarck wykorzystał kryzys dyplomatyczny wokół tronu hiszpańskiego i depeszę emską. Francja ostatecznie wyglądała na stronę atakującą, co pomogło Prusom zebrać sojuszników.",
+          "tr": "Bismarck, İspanya tahtı ve Ems Telgrafı çevresindeki diplomatik krizi kullandı. Sonunda Fransa saldırgan taraf gibi göründü ve bu Prusya'nın müttefik toplamasına yardım etti.",
+          "zh": "俾斯麦利用了围绕西班牙王位和埃姆斯电报的外交危机。法国最终显得像是进攻方，这帮助普鲁士聚集盟友。",
+          "ja": "ビスマルクはスペイン王位とエムス電報をめぐる外交危機を利用した。結果としてフランスが攻撃側に見える形となり、プロイセンが同盟国を集める助けとなった。",
+          "ko": "비스마르크는 스페인 왕위와 엠스 전보를 둘러싼 외교 위기를 이용했다. 결국 프랑스가 공격자처럼 보이게 되었고, 이는 프로이센이 동맹을 모으는 데 도움이 되었다.",
+          "hi": "बिस्मार्क ने स्पेनिश सिंहासन और एम्स डिस्पैच के आसपास के कूटनीतिक संकट का उपयोग किया। अंत में फ्रांस आक्रामक पक्ष जैसा दिखा, जिससे प्रशिया को सहयोगी जुटाने में मदद मिली।",
+          "ar": "استغل بيسمارك الأزمة الدبلوماسية حول العرش الإسباني وبرقية إمس. وفي النهاية بدت فرنسا كأنها الطرف المعتدي، مما ساعد بروسيا على جمع الحلفاء."
         },
         "importance": {
           "ru": "Так дипломатия и пресса стали частью дороги к объединению Германии.",
           "de": "So wurden Diplomatie und Presse Teil des Weges zur deutschen Einigung.",
-          "en": "Diplomacy and the press thus became part of the road to German unification."
+          "en": "Diplomacy and the press thus became part of the road to German unification.",
+          "fr": "La diplomatie et la presse devinrent ainsi une partie du chemin vers l'unification allemande.",
+          "es": "Así, la diplomacia y la prensa se convirtieron en parte del camino hacia la unificación alemana.",
+          "it": "Così diplomazia e stampa divennero parte della strada verso l'unificazione tedesca.",
+          "pt": "Assim, diplomacia e imprensa tornaram-se parte do caminho para a unificação alemã.",
+          "nl": "Zo werden diplomatie en pers onderdeel van de weg naar Duitse eenwording.",
+          "pl": "W ten sposób dyplomacja i prasa stały się częścią drogi do zjednoczenia Niemiec.",
+          "tr": "Böylece diplomasi ve basın Alman birleşmesine giden yolun parçası oldu.",
+          "zh": "因此，外交和新闻媒体成为德国统一道路的一部分。",
+          "ja": "こうして外交と報道はドイツ統一への道の一部となった。",
+          "ko": "이렇게 외교와 언론은 독일 통일로 가는 길의 일부가 되었다.",
+          "hi": "इस तरह कूटनीति और प्रेस जर्मन एकीकरण के मार्ग का हिस्सा बने।",
+          "ar": "وهكذا أصبحت الدبلوماسية والصحافة جزءا من الطريق إلى توحيد ألمانيا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Германская империя была провозглашена в Версале 18 января 1871 года, ещё до окончательного мирного договора.",
     "de": "Das Deutsche Kaiserreich wurde am 18. Januar 1871 in Versailles ausgerufen, noch vor dem endgueltigen Friedensvertrag.",
-    "en": "The German Empire was proclaimed at Versailles on 18 January 1871, before the final peace treaty."
+    "en": "The German Empire was proclaimed at Versailles on 18 January 1871, before the final peace treaty.",
+    "fr": "L'Empire allemand fut proclamé à Versailles le 18 janvier 1871, avant le traité de paix définitif.",
+    "es": "El Imperio alemán fue proclamado en Versalles el 18 de enero de 1871, antes del tratado de paz definitivo.",
+    "it": "L'Impero tedesco fu proclamato a Versailles il 18 gennaio 1871, prima del trattato di pace definitivo.",
+    "pt": "O Império Alemão foi proclamado em Versalhes em 18 de janeiro de 1871, antes do tratado de paz final.",
+    "nl": "Het Duitse Keizerrijk werd op 18 januari 1871 in Versailles uitgeroepen, nog vóór het definitieve vredesverdrag.",
+    "pl": "Cesarstwo Niemieckie proklamowano w Wersalu 18 stycznia 1871 roku, jeszcze przed ostatecznym traktatem pokojowym.",
+    "tr": "Alman İmparatorluğu, nihai barış antlaşmasından önce, 18 Ocak 1871'de Versailles'da ilan edildi.",
+    "zh": "德意志帝国于1871年1月18日在凡尔赛宣告成立，当时最终和平条约尚未签署。",
+    "ja": "ドイツ帝国は最終的な講和条約の前、1871年1月18日にヴェルサイユで宣言された。",
+    "ko": "독일 제국은 최종 평화 조약이 체결되기 전인 1871년 1월 18일 베르사유에서 선포되었다.",
+    "hi": "जर्मन साम्राज्य की घोषणा अंतिम शांति संधि से पहले, 18 जनवरी 1871 को वर्साय में की गई थी।",
+    "ar": "أُعلنت الإمبراطورية الألمانية في فرساي في 18 يناير 1871، قبل معاهدة السلام النهائية."
   },
   "sources": [
     {

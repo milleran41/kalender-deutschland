@@ -11,17 +11,53 @@
     "title": {
       "ru": "Покушение на Гитлера 20 июля",
       "de": "Attentat auf Hitler am 20. Juli",
-      "en": "The 20 July plot against Hitler"
+      "en": "The 20 July plot against Hitler",
+      "fr": "L'attentat du 20 juillet contre Hitler",
+      "es": "El atentado del 20 de julio contra Hitler",
+      "it": "L'attentato del 20 luglio contro Hitler",
+      "pt": "O atentado de 20 de julho contra Hitler",
+      "nl": "De aanslag van 20 juli op Hitler",
+      "pl": "Zamach 20 lipca na Hitlera",
+      "tr": "Hitler'e karşı 20 Temmuz suikast girişimi",
+      "zh": "7月20日刺杀希特勒计划",
+      "ja": "ヒトラーに対する7月20日事件",
+      "ko": "히틀러에 대한 7월 20일 음모",
+      "hi": "हिटलर के खिलाफ 20 जुलाई की साजिश",
+      "ar": "مؤامرة 20 يوليو ضد هتلر"
     },
     "description": {
       "ru": "20 июля 1944 года группа немецких офицеров и гражданских противников режима попыталась убить Гитлера и свергнуть нацистскую власть. Бомбу в ставку «Волчье логово» доставил Клаус Шенк граф фон Штауффенберг.",
       "de": "Am 20. Juli 1944 versuchten deutsche Offiziere und zivile Gegner des Regimes, Hitler zu toeteten und die NS-Herrschaft zu stuerzen. Claus Schenk Graf von Stauffenberg brachte die Bombe in die Wolfsschanze.",
-      "en": "On 20 July 1944, German officers and civilian opponents of the regime tried to kill Hitler and overthrow Nazi rule. Claus Schenk Graf von Stauffenberg carried the bomb into the Wolf's Lair."
+      "en": "On 20 July 1944, German officers and civilian opponents of the regime tried to kill Hitler and overthrow Nazi rule. Claus Schenk Graf von Stauffenberg carried the bomb into the Wolf's Lair.",
+      "fr": "Le 20 juillet 1944, des officiers allemands et des opposants civils au régime tentèrent de tuer Hitler et de renverser le pouvoir nazi. Claus Schenk Graf von Stauffenberg apporta la bombe dans la Wolfsschanze.",
+      "es": "El 20 de julio de 1944, oficiales alemanes y opositores civiles del régimen intentaron matar a Hitler y derrocar el poder nazi. Claus Schenk Graf von Stauffenberg llevó la bomba a la Guarida del Lobo.",
+      "it": "Il 20 luglio 1944 ufficiali tedeschi e oppositori civili del regime tentarono di uccidere Hitler e rovesciare il dominio nazista. Claus Schenk Graf von Stauffenberg portò la bomba nella Tana del Lupo.",
+      "pt": "Em 20 de julho de 1944, oficiais alemães e opositores civis do regime tentaram matar Hitler e derrubar o domínio nazista. Claus Schenk Graf von Stauffenberg levou a bomba para a Toca do Lobo.",
+      "nl": "Op 20 juli 1944 probeerden Duitse officieren en burgerlijke tegenstanders van het regime Hitler te doden en de nazistische heerschappij omver te werpen. Claus Schenk Graf von Stauffenberg bracht de bom naar de Wolfsschanze.",
+      "pl": "20 lipca 1944 roku niemieccy oficerowie i cywilni przeciwnicy reżimu próbowali zabić Hitlera i obalić władzę nazistowską. Claus Schenk Graf von Stauffenberg wniósł bombę do Wilczego Szańca.",
+      "tr": "20 Temmuz 1944'te Alman subaylar ve rejimin sivil muhalifleri Hitler'i öldürmeye ve Nazi yönetimini devirmeye çalıştı. Claus Schenk Graf von Stauffenberg bombayı Kurt İni'ne taşıdı.",
+      "zh": "1944年7月20日，德国军官和反对该政权的平民试图杀死希特勒并推翻纳粹统治。克劳斯·申克·冯·施陶芬贝格把炸弹带进了“狼穴”。",
+      "ja": "1944年7月20日、ドイツの将校と政権に反対する民間人たちはヒトラーを殺害し、ナチ支配を倒そうとした。クラウス・シェンク・グラーフ・フォン・シュタウフェンベルクが爆弾を「狼の巣」に持ち込んだ。",
+      "ko": "1944년 7월 20일, 독일 장교들과 정권에 반대하는 민간인들은 히틀러를 죽이고 나치 지배를 전복하려 했다. 클라우스 솅크 그라프 폰 슈타우펜베르크가 폭탄을 늑대소굴로 가져갔다.",
+      "hi": "20 जुलाई 1944 को जर्मन अधिकारियों और शासन के नागरिक विरोधियों ने हिटलर को मारने और नाजी शासन को गिराने की कोशिश की। क्लाउस शेंक ग्राफ फॉन श्टाउफेनबर्ग बम को वुल्फ्स लेयर में ले गए।",
+      "ar": "في 20 يوليو 1944 حاول ضباط ألمان ومعارضون مدنيون للنظام قتل هتلر وإسقاط الحكم النازي. حمل كلاوس شنك غراف فون شتاوفنبرغ القنبلة إلى وكر الذئب."
     },
     "importance": {
       "ru": "Провал заговора привёл к жестоким репрессиям, но стал важным символом немецкого сопротивления нацизму.",
       "de": "Das Scheitern fuehrte zu brutaler Verfolgung, wurde aber zu einem wichtigen Symbol des deutschen Widerstands gegen den Nationalsozialismus.",
-      "en": "The failure led to brutal reprisals, but the plot became an important symbol of German resistance to Nazism."
+      "en": "The failure led to brutal reprisals, but the plot became an important symbol of German resistance to Nazism.",
+      "fr": "L'échec entraîna de brutales représailles, mais le complot devint un symbole important de la résistance allemande au nazisme.",
+      "es": "El fracaso llevó a represalias brutales, pero la conspiración se convirtió en un símbolo importante de la resistencia alemana al nazismo.",
+      "it": "Il fallimento portò a brutali rappresaglie, ma il complotto divenne un importante simbolo della resistenza tedesca al nazismo.",
+      "pt": "O fracasso levou a represálias brutais, mas a conspiração tornou-se um importante símbolo da resistência alemã ao nazismo.",
+      "nl": "De mislukking leidde tot wrede represailles, maar het complot werd een belangrijk symbool van Duits verzet tegen het nazisme.",
+      "pl": "Niepowodzenie doprowadziło do brutalnych represji, ale spisek stał się ważnym symbolem niemieckiego oporu wobec nazizmu.",
+      "tr": "Başarısızlık acımasız misillemelere yol açtı, ancak girişim Nazizme karşı Alman direnişinin önemli bir sembolü oldu.",
+      "zh": "失败导致残酷报复，但这场密谋成为德国抵抗纳粹主义的重要象征。",
+      "ja": "失敗は残酷な報復を招いたが、この計画はナチズムに対するドイツの抵抗の重要な象徴となった。",
+      "ko": "실패는 잔혹한 보복으로 이어졌지만, 이 음모는 나치즘에 대한 독일 저항의 중요한 상징이 되었다.",
+      "hi": "असफलता के बाद क्रूर दमन हुआ, लेकिन यह साजिश नाजीवाद के खिलाफ जर्मन प्रतिरोध का महत्वपूर्ण प्रतीक बनी।",
+      "ar": "أدى الفشل إلى أعمال انتقامية وحشية، لكن المؤامرة أصبحت رمزا مهما للمقاومة الألمانية للنازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Клаус фон Штауффенберг",
           "de": "Claus von Stauffenberg",
-          "en": "Claus von Stauffenberg"
+          "en": "Claus von Stauffenberg",
+          "fr": "Claus von Stauffenberg",
+          "es": "Claus von Stauffenberg",
+          "it": "Claus von Stauffenberg",
+          "pt": "Claus von Stauffenberg",
+          "nl": "Claus von Stauffenberg",
+          "pl": "Claus von Stauffenberg",
+          "tr": "Claus von Stauffenberg",
+          "zh": "克劳斯·冯·施陶芬贝格",
+          "ja": "クラウス・フォン・シュタウフェンベルク",
+          "ko": "클라우스 폰 슈타우펜베르크",
+          "hi": "क्लाउस फॉन श्टाउफेनबर्ग",
+          "ar": "كلاوس فون شتاوفنبرغ"
         },
         "description": {
           "ru": "Штауффенберг был офицером вермахта и одним из центральных участников заговора. После провала операции его расстреляли в ночь на 21 июля.",
           "de": "Stauffenberg war Offizier der Wehrmacht und eine zentrale Figur des Umsturzversuchs. Nach dem Scheitern wurde er in der Nacht zum 21. Juli erschossen.",
-          "en": "Stauffenberg was a Wehrmacht officer and a central figure in the attempted coup. After it failed, he was shot during the night of 20-21 July."
+          "en": "Stauffenberg was a Wehrmacht officer and a central figure in the attempted coup. After it failed, he was shot during the night of 20-21 July.",
+          "fr": "Stauffenberg était officier de la Wehrmacht et une figure centrale de la tentative de coup d'État. Après l'échec, il fut fusillé dans la nuit du 20 au 21 juillet.",
+          "es": "Stauffenberg era oficial de la Wehrmacht y una figura central del intento de golpe. Tras el fracaso, fue fusilado durante la noche del 20 al 21 de julio.",
+          "it": "Stauffenberg era un ufficiale della Wehrmacht e una figura centrale del tentativo di colpo di Stato. Dopo il fallimento, fu fucilato nella notte tra il 20 e il 21 luglio.",
+          "pt": "Stauffenberg era oficial da Wehrmacht e uma figura central da tentativa de golpe. Após o fracasso, foi fuzilado na noite de 20 para 21 de julho.",
+          "nl": "Stauffenberg was officier van de Wehrmacht en een centrale figuur in de couppoging. Na het mislukken werd hij in de nacht van 20 op 21 juli doodgeschoten.",
+          "pl": "Stauffenberg był oficerem Wehrmachtu i jedną z centralnych postaci próby przewrotu. Po jej niepowodzeniu został rozstrzelany w nocy z 20 na 21 lipca.",
+          "tr": "Stauffenberg bir Wehrmacht subayı ve darbe girişiminin merkezî figürlerinden biriydi. Girişim başarısız olduktan sonra 20-21 Temmuz gecesi kurşuna dizildi.",
+          "zh": "施陶芬贝格是国防军军官，也是政变尝试的核心人物。行动失败后，他在7月20日至21日夜间被枪决。",
+          "ja": "シュタウフェンベルクは国防軍将校で、クーデター未遂の中心人物だった。失敗後、彼は7月20日から21日にかけての夜に銃殺された。",
+          "ko": "슈타우펜베르크는 독일 국방군 장교였고 쿠데타 시도의 중심 인물이었다. 실패 후 그는 7월 20일에서 21일로 넘어가는 밤에 총살되었다.",
+          "hi": "श्टाउफेनबर्ग वेहरमाख्ट अधिकारी और तख्तापलट के प्रयास के केंद्रीय व्यक्तियों में से एक थे। असफलता के बाद उन्हें 20-21 जुलाई की रात गोली मार दी गई।",
+          "ar": "كان شتاوفنبرغ ضابطا في الفيرماخت وشخصية مركزية في محاولة الانقلاب. وبعد فشلها أُعدم رميا بالرصاص في ليلة 20 إلى 21 يوليو."
         },
         "importance": {
           "ru": "Его имя стало одним из самых известных символов сопротивления внутри Германии.",
           "de": "Sein Name wurde zu einem der bekanntesten Symbole des Widerstands innerhalb Deutschlands.",
-          "en": "His name became one of the best-known symbols of resistance inside Germany."
+          "en": "His name became one of the best-known symbols of resistance inside Germany.",
+          "fr": "Son nom devint l'un des symboles les plus connus de la résistance à l'intérieur de l'Allemagne.",
+          "es": "Su nombre se convirtió en uno de los símbolos más conocidos de la resistencia dentro de Alemania.",
+          "it": "Il suo nome divenne uno dei simboli più noti della resistenza all'interno della Germania.",
+          "pt": "Seu nome tornou-se um dos símbolos mais conhecidos da resistência dentro da Alemanha.",
+          "nl": "Zijn naam werd een van de bekendste symbolen van verzet binnen Duitsland.",
+          "pl": "Jego nazwisko stało się jednym z najbardziej znanych symboli oporu wewnątrz Niemiec.",
+          "tr": "Adı, Almanya içindeki direnişin en bilinen sembollerinden biri oldu.",
+          "zh": "他的名字成为德国国内抵抗运动最著名的象征之一。",
+          "ja": "彼の名前は、ドイツ国内の抵抗を示す最もよく知られた象徴の一つとなった。",
+          "ko": "그의 이름은 독일 내부 저항의 가장 잘 알려진 상징 중 하나가 되었다.",
+          "hi": "उनका नाम जर्मनी के भीतर प्रतिरोध के सबसे प्रसिद्ध प्रतीकों में से एक बन गया।",
+          "ar": "أصبح اسمه أحد أشهر رموز المقاومة داخل ألمانيا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Операция получила название «Валькирия»: заговорщики хотели использовать план подавления внутренних беспорядков против самого нацистского режима.",
     "de": "Die Operation hiess Walkuere: Die Verschwoerer wollten einen Plan zur Niederschlagung innerer Unruhen gegen das NS-Regime selbst wenden.",
-    "en": "The operation was called Valkyrie: the conspirators hoped to turn an internal security plan against the Nazi regime itself."
+    "en": "The operation was called Valkyrie: the conspirators hoped to turn an internal security plan against the Nazi regime itself.",
+    "fr": "L'opération s'appelait Walkyrie: les conspirateurs espéraient retourner un plan de sécurité intérieure contre le régime nazi lui-même.",
+    "es": "La operación se llamaba Valquiria: los conspiradores esperaban convertir un plan de seguridad interna contra el propio régimen nazi.",
+    "it": "L'operazione si chiamava Valchiria: i cospiratori speravano di rivolgere un piano di sicurezza interna contro lo stesso regime nazista.",
+    "pt": "A operação chamava-se Valquíria: os conspiradores esperavam usar um plano de segurança interna contra o próprio regime nazista.",
+    "nl": "De operatie heette Walküre: de samenzweerders hoopten een plan voor binnenlandse veiligheid tegen het naziregime zelf te keren.",
+    "pl": "Operacja nosiła nazwę Walkiria: spiskowcy chcieli obrócić plan tłumienia wewnętrznych niepokojów przeciw samemu reżimowi nazistowskiemu.",
+    "tr": "Operasyonun adı Valkyrie idi: komplocular bir iç güvenlik planını Nazi rejiminin kendisine karşı çevirmeyi umuyordu.",
+    "zh": "行动代号为“女武神”：密谋者希望把一项内部安全计划转而用于反对纳粹政权本身。",
+    "ja": "作戦名は「ワルキューレ」だった。陰謀者たちは国内治安計画をナチ体制そのものに対して転用しようとした。",
+    "ko": "작전명은 발키리였다. 공모자들은 내부 치안 계획을 나치 정권 자체에 맞서 사용하려 했다.",
+    "hi": "ऑपरेशन का नाम Valkyrie था: षड्यंत्रकारियों ने आंतरिक सुरक्षा योजना को नाजी शासन के खिलाफ ही मोड़ने की आशा की।",
+    "ar": "حملت العملية اسم فالكيري: فقد أمل المتآمرون في تحويل خطة للأمن الداخلي ضد النظام النازي نفسه."
   },
   "sources": [
     {
