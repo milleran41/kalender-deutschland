@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия напала на Польшу",
       "de": "Deutschland greift Polen an",
-      "en": "Germany invades Poland"
+      "en": "Germany invades Poland",
+      "fr": "L'Allemagne envahit la Pologne",
+      "es": "Alemania invade Polonia",
+      "it": "La Germania invade la Polonia",
+      "pt": "A Alemanha invade a Polônia",
+      "nl": "Duitsland valt Polen binnen",
+      "pl": "Niemcy zaatakowały Polskę",
+      "tr": "Almanya Polonya'yı işgal etti",
+      "zh": "德国入侵波兰",
+      "ja": "ドイツがポーランドに侵攻する",
+      "ko": "독일이 폴란드를 침공하다",
+      "hi": "जर्मनी ने पोलैंड पर आक्रमण किया",
+      "ar": "ألمانيا تغزو بولندا"
     },
     "description": {
       "ru": "1 сентября 1939 года нацистская Германия начала вторжение в Польшу. Это стало началом Второй мировой войны в Европе.",
       "de": "Am 1. September 1939 begann das nationalsozialistische Deutschland den Ueberfall auf Polen. Damit begann der Zweite Weltkrieg in Europa.",
-      "en": "On 1 September 1939, Nazi Germany began its invasion of Poland. This marked the beginning of the Second World War in Europe."
+      "en": "On 1 September 1939, Nazi Germany began its invasion of Poland. This marked the beginning of the Second World War in Europe.",
+      "fr": "Le 1er septembre 1939, l'Allemagne nazie lança son invasion de la Pologne. Cela marqua le début de la Seconde Guerre mondiale en Europe.",
+      "es": "El 1 de septiembre de 1939, la Alemania nazi comenzó la invasión de Polonia. Esto marcó el inicio de la Segunda Guerra Mundial en Europa.",
+      "it": "Il 1º settembre 1939 la Germania nazista iniziò l'invasione della Polonia. Questo segnò l'inizio della Seconda guerra mondiale in Europa.",
+      "pt": "Em 1 de setembro de 1939, a Alemanha nazista iniciou a invasão da Polônia. Isso marcou o início da Segunda Guerra Mundial na Europa.",
+      "nl": "Op 1 september 1939 begon nazi-Duitsland de invasie van Polen. Dit markeerde het begin van de Tweede Wereldoorlog in Europa.",
+      "pl": "1 września 1939 roku nazistowskie Niemcy rozpoczęły inwazję na Polskę. Oznaczało to początek II wojny światowej w Europie.",
+      "tr": "1 Eylül 1939'da Nazi Almanyası Polonya'yı işgal etmeye başladı. Bu, Avrupa'da İkinci Dünya Savaşı'nın başlangıcı oldu.",
+      "zh": "1939年9月1日，纳粹德国开始入侵波兰。这标志着欧洲第二次世界大战的开始。",
+      "ja": "1939年9月1日、ナチス・ドイツはポーランド侵攻を開始しました。これはヨーロッパにおける第二次世界大戦の始まりとなりました。",
+      "ko": "1939년 9월 1일 나치 독일은 폴란드 침공을 시작했습니다. 이는 유럽에서 제2차 세계대전의 시작을 알렸습니다.",
+      "hi": "1 सितंबर 1939 को नाजी जर्मनी ने पोलैंड पर आक्रमण शुरू किया। यह यूरोप में द्वितीय विश्व युद्ध की शुरुआत थी।",
+      "ar": "في 1 سبتمبر 1939 بدأت ألمانيا النازية غزو بولندا. وكان ذلك بداية الحرب العالمية الثانية في أوروبا."
     },
     "importance": {
       "ru": "Дата стала одним из самых трагических рубежей европейской истории XX века.",
       "de": "Das Datum wurde zu einer der tragischsten Zäsuren der europaeischen Geschichte des 20. Jahrhunderts.",
-      "en": "The date became one of the most tragic turning points in twentieth-century European history."
+      "en": "The date became one of the most tragic turning points in twentieth-century European history.",
+      "fr": "Cette date devint l'un des tournants les plus tragiques de l'histoire européenne du XXe siècle.",
+      "es": "La fecha se convirtió en uno de los puntos de inflexión más trágicos de la historia europea del siglo XX.",
+      "it": "La data divenne uno dei passaggi più tragici della storia europea del XX secolo.",
+      "pt": "A data tornou-se um dos marcos mais trágicos da história europeia do século XX.",
+      "nl": "De datum werd een van de meest tragische keerpunten in de Europese geschiedenis van de twintigste eeuw.",
+      "pl": "Data stała się jedną z najbardziej tragicznych cezur w europejskiej historii XX wieku.",
+      "tr": "Bu tarih, 20. yüzyıl Avrupa tarihinin en trajik dönüm noktalarından biri oldu.",
+      "zh": "这一日期成为20世纪欧洲历史上最悲惨的转折点之一。",
+      "ja": "この日は、20世紀ヨーロッパ史で最も悲劇的な転換点の一つとなりました。",
+      "ko": "이 날짜는 20세기 유럽 역사에서 가장 비극적인 전환점 중 하나가 되었습니다.",
+      "hi": "यह तारीख 20वीं सदी के यूरोपीय इतिहास की सबसे दुखद सीमाओं में से एक बन गई।",
+      "ar": "أصبح هذا التاريخ أحد أكثر المنعطفات مأساوية في تاريخ أوروبا في القرن العشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Вестерплатте стало символом начала войны",
           "de": "Westerplatte wird zum Symbol des Kriegsbeginns",
-          "en": "Westerplatte becomes a symbol of the war's beginning"
+          "en": "Westerplatte becomes a symbol of the war's beginning",
+          "fr": "Westerplatte devient un symbole du début de la guerre",
+          "es": "Westerplatte se convierte en símbolo del inicio de la guerra",
+          "it": "Westerplatte diventa un simbolo dell'inizio della guerra",
+          "pt": "Westerplatte torna-se símbolo do início da guerra",
+          "nl": "Westerplatte wordt een symbool van het begin van de oorlog",
+          "pl": "Westerplatte stało się symbolem początku wojny",
+          "tr": "Westerplatte savaşın başlangıcının sembolü oldu",
+          "zh": "维斯特普拉特成为战争开始的象征",
+          "ja": "ヴェステルプラッテが開戦の象徴となる",
+          "ko": "베스테르플라테가 전쟁 시작의 상징이 되다",
+          "hi": "वेस्टरप्लाटे युद्ध की शुरुआत का प्रतीक बना",
+          "ar": "فيستربلاته تصبح رمزاً لبداية الحرب"
         },
         "description": {
           "ru": "Одним из первых объектов атаки стал польский гарнизон на Вестерплатте у Данцига. Его оборона стала важным символом польского сопротивления.",
           "de": "Eines der ersten Angriffsziele war die polnische Stellung auf der Westerplatte bei Danzig. Ihre Verteidigung wurde zu einem wichtigen Symbol polnischen Widerstands.",
-          "en": "One of the first targets was the Polish position at Westerplatte near Danzig. Its defense became an important symbol of Polish resistance."
+          "en": "One of the first targets was the Polish position at Westerplatte near Danzig. Its defense became an important symbol of Polish resistance.",
+          "fr": "L'une des premières cibles fut la position polonaise de Westerplatte près de Dantzig. Sa défense devint un symbole important de la résistance polonaise.",
+          "es": "Uno de los primeros objetivos fue la posición polaca en Westerplatte, cerca de Danzig. Su defensa se convirtió en un importante símbolo de la resistencia polaca.",
+          "it": "Uno dei primi obiettivi fu la posizione polacca a Westerplatte, vicino a Danzica. La sua difesa divenne un importante simbolo della resistenza polacca.",
+          "pt": "Um dos primeiros alvos foi a posição polonesa em Westerplatte, perto de Danzig. Sua defesa tornou-se um importante símbolo da resistência polonesa.",
+          "nl": "Een van de eerste doelen was de Poolse stelling op Westerplatte bij Danzig. De verdediging ervan werd een belangrijk symbool van Pools verzet.",
+          "pl": "Jednym z pierwszych celów była polska placówka na Westerplatte koło Gdańska. Jej obrona stała się ważnym symbolem polskiego oporu.",
+          "tr": "İlk hedeflerden biri Danzig yakınındaki Westerplatte'deki Polonya mevzisiydi. Savunması Polonya direnişinin önemli bir sembolü oldu.",
+          "zh": "最早的攻击目标之一是但泽附近维斯特普拉特的波兰阵地。它的防御成为波兰抵抗的重要象征。",
+          "ja": "最初の攻撃目標の一つは、ダンツィヒ近郊ヴェステルプラッテのポーランド陣地でした。その防衛はポーランド抵抗の重要な象徴となりました。",
+          "ko": "첫 공격 목표 중 하나는 단치히 근처 베스테르플라테의 폴란드 진지였습니다. 그 방어는 폴란드 저항의 중요한 상징이 되었습니다.",
+          "hi": "पहले लक्ष्यों में से एक डानциग के पास वेस्टरप्लाटे की पोलिश चौकी थी। उसकी रक्षा पोलिश प्रतिरोध का महत्वपूर्ण प्रतीक बनी।",
+          "ar": "كان أحد الأهداف الأولى الموقع البولندي في فيستربلاته قرب دانتسيغ. وأصبح دفاعه رمزاً مهماً للمقاومة البولندية."
         },
         "importance": {
           "ru": "Событие связывает историю Германии, Польши и города Данцига, нынешнего Гданьска.",
           "de": "Das Ereignis verbindet die Geschichte Deutschlands, Polens und der Stadt Danzig, heute Gdansk.",
-          "en": "The event connects the histories of Germany, Poland and Danzig, today's Gdansk."
+          "en": "The event connects the histories of Germany, Poland and Danzig, today's Gdansk.",
+          "fr": "L'événement relie les histoires de l'Allemagne, de la Pologne et de Dantzig, l'actuelle Gdańsk.",
+          "es": "El hecho conecta las historias de Alemania, Polonia y Danzig, la actual Gdansk.",
+          "it": "L'evento collega le storie della Germania, della Polonia e di Danzica, l'attuale Gdańsk.",
+          "pt": "O evento conecta as histórias da Alemanha, da Polônia e de Danzig, hoje Gdansk.",
+          "nl": "De gebeurtenis verbindt de geschiedenissen van Duitsland, Polen en Danzig, het huidige Gdansk.",
+          "pl": "Wydarzenie łączy historię Niemiec, Polski i miasta Gdańska, dawnego Danziga.",
+          "tr": "Olay Almanya'nın, Polonya'nın ve bugünkü Gdansk olan Danzig şehrinin tarihlerini birbirine bağlar.",
+          "zh": "这一事件把德国、波兰和今天的格但斯克，即但泽的历史联系在一起。",
+          "ja": "この出来事は、ドイツ、ポーランド、そして現在のグダニスクであるダンツィヒの歴史を結びつけています。",
+          "ko": "이 사건은 독일, 폴란드, 오늘날의 그단스크인 단치히의 역사를 연결합니다.",
+          "hi": "यह घटना जर्मनी, पोलैंड और आज के ग्दांस्क यानी डानциग के इतिहास को जोड़ती है।",
+          "ar": "يربط هذا الحدث تاريخ ألمانيا وبولندا ومدينة دانتسيغ، وهي غدانسك اليوم."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Немецкая пропаганда пыталась представить нападение как ответную акцию, но это была заранее подготовленная агрессия.",
     "de": "Die deutsche Propaganda versuchte, den Angriff als Gegenwehr darzustellen, doch es war eine vorbereitete Aggression.",
-    "en": "German propaganda tried to present the attack as retaliation, but it was a planned act of aggression."
+    "en": "German propaganda tried to present the attack as retaliation, but it was a planned act of aggression.",
+    "fr": "La propagande allemande tenta de présenter l'attaque comme une riposte, mais c'était une agression préparée à l'avance.",
+    "es": "La propaganda alemana intentó presentar el ataque como represalia, pero fue una agresión preparada de antemano.",
+    "it": "La propaganda tedesca cercò di presentare l'attacco come una risposta, ma fu un'aggressione preparata in anticipo.",
+    "pt": "A propaganda alemã tentou apresentar o ataque como retaliação, mas foi uma agressão planejada com antecedência.",
+    "nl": "Duitse propaganda probeerde de aanval als vergelding voor te stellen, maar het was een vooraf geplande agressie.",
+    "pl": "Niemiecka propaganda próbowała przedstawić atak jako odwet, lecz była to wcześniej przygotowana agresja.",
+    "tr": "Alman propagandası saldırıyı bir karşılık gibi göstermeye çalıştı, ancak bu önceden hazırlanmış bir saldırganlıktı.",
+    "zh": "德国宣传试图把进攻说成报复行动，但这是一场预先准备好的侵略。",
+    "ja": "ドイツの宣伝は攻撃を報復として見せようとしましたが、それは事前に準備された侵略でした。",
+    "ko": "독일 선전은 공격을 보복처럼 보이게 하려 했지만, 그것은 미리 준비된 침략이었습니다.",
+    "hi": "जर्मन प्रचार ने हमले को जवाबी कार्रवाई बताने की कोशिश की, लेकिन यह पहले से तैयार आक्रामकता थी।",
+    "ar": "حاولت الدعاية الألمانية تصوير الهجوم كعمل انتقامي، لكنه كان عدواناً مُعداً مسبقاً."
   },
   "sources": [
     {

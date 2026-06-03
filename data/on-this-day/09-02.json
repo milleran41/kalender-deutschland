@@ -11,17 +11,53 @@
     "title": {
       "ru": "Капитуляция Наполеона III при Седане",
       "de": "Kapitulation Napoleons III. bei Sedan",
-      "en": "Napoleon III surrenders at Sedan"
+      "en": "Napoleon III surrenders at Sedan",
+      "fr": "Napoléon III capitule à Sedan",
+      "es": "Napoleón III se rinde en Sedán",
+      "it": "Napoleone III si arrende a Sedan",
+      "pt": "Napoleão III se rende em Sedan",
+      "nl": "Napoleon III geeft zich over bij Sedan",
+      "pl": "Napoleon III kapituluje pod Sedanem",
+      "tr": "III. Napolyon Sedan'da teslim oldu",
+      "zh": "拿破仑三世在色当投降",
+      "ja": "ナポレオン3世がセダンで降伏する",
+      "ko": "나폴레옹 3세가 세당에서 항복하다",
+      "hi": "नेपोलियन तृतीय ने सेडान में आत्मसमर्पण किया",
+      "ar": "استسلام نابليون الثالث في سيدان"
     },
     "description": {
       "ru": "2 сентября 1870 года после поражения при Седане французский император Наполеон III сдался прусскому королю Вильгельму I. Победа стала важным шагом на пути к созданию Германской империи.",
       "de": "Am 2. September 1870 kapitulierte der franzoesische Kaiser Napoleon III. nach der Niederlage bei Sedan vor dem preussischen Koenig Wilhelm I. Der Sieg wurde zu einem wichtigen Schritt auf dem Weg zum Deutschen Kaiserreich.",
-      "en": "On 2 September 1870, after the defeat at Sedan, French emperor Napoleon III surrendered to Prussian king Wilhelm I. The victory became an important step toward the creation of the German Empire."
+      "en": "On 2 September 1870, after the defeat at Sedan, French emperor Napoleon III surrendered to Prussian king Wilhelm I. The victory became an important step toward the creation of the German Empire.",
+      "fr": "Le 2 septembre 1870, après la défaite de Sedan, l'empereur français Napoléon III se rendit au roi de Prusse Guillaume Ier. La victoire devint une étape importante vers la création de l'Empire allemand.",
+      "es": "El 2 de septiembre de 1870, tras la derrota en Sedán, el emperador francés Napoleón III se rindió ante el rey prusiano Guillermo I. La victoria fue un paso importante hacia la creación del Imperio alemán.",
+      "it": "Il 2 settembre 1870, dopo la sconfitta a Sedan, l'imperatore francese Napoleone III si arrese al re prussiano Guglielmo I. La vittoria divenne un passo importante verso la creazione dell'Impero tedesco.",
+      "pt": "Em 2 de setembro de 1870, após a derrota em Sedan, o imperador francês Napoleão III rendeu-se ao rei prussiano Guilherme I. A vitória tornou-se um passo importante rumo à criação do Império Alemão.",
+      "nl": "Op 2 september 1870 gaf de Franse keizer Napoleon III zich na de nederlaag bij Sedan over aan de Pruisische koning Wilhelm I. De overwinning werd een belangrijke stap naar de oprichting van het Duitse Keizerrijk.",
+      "pl": "2 września 1870 roku, po klęsce pod Sedanem, francuski cesarz Napoleon III poddał się pruskiemu królowi Wilhelmowi I. Zwycięstwo stało się ważnym krokiem ku powstaniu Cesarstwa Niemieckiego.",
+      "tr": "2 Eylül 1870'te Sedan yenilgisinden sonra Fransız imparatoru III. Napolyon, Prusya kralı I. Wilhelm'e teslim oldu. Zafer, Alman İmparatorluğu'nun kurulmasına giden yolda önemli bir adım oldu.",
+      "zh": "1870年9月2日，法国皇帝拿破仑三世在色当战败后向普鲁士国王威廉一世投降。这场胜利成为建立德意志帝国的重要一步。",
+      "ja": "1870年9月2日、セダンでの敗北後、フランス皇帝ナポレオン3世はプロイセン王ヴィルヘルム1世に降伏しました。この勝利はドイツ帝国成立への重要な一歩となりました。",
+      "ko": "1870년 9월 2일 세당에서 패배한 뒤 프랑스 황제 나폴레옹 3세는 프로이센 왕 빌헬름 1세에게 항복했습니다. 이 승리는 독일 제국 창설로 가는 중요한 단계가 되었습니다.",
+      "hi": "2 सितंबर 1870 को सेडान में पराजय के बाद फ्रांसीसी सम्राट नेपोलियन तृतीय ने प्रशिया के राजा विल्हेल्म प्रथम के सामने आत्मसमर्पण किया। यह विजय जर्मन साम्राज्य के निर्माण की दिशा में महत्वपूर्ण कदम बनी।",
+      "ar": "في 2 سبتمبر 1870، وبعد الهزيمة في سيدان، استسلم الإمبراطور الفرنسي نابليون الثالث للملك البروسي فيلهلم الأول. وأصبح هذا النصر خطوة مهمة نحو إنشاء الإمبراطورية الألمانية."
     },
     "importance": {
       "ru": "Дата стала символом прусско-германской победы и долго использовалась для укрепления имперского национального мифа.",
       "de": "Das Datum wurde zum Symbol des preussisch-deutschen Sieges und wurde lange genutzt, um den nationalen Mythos des Kaiserreichs zu staerken.",
-      "en": "The date became a symbol of Prussian-German victory and was long used to strengthen the national myth of the empire."
+      "en": "The date became a symbol of Prussian-German victory and was long used to strengthen the national myth of the empire.",
+      "fr": "La date devint un symbole de la victoire prusso-allemande et fut longtemps utilisée pour renforcer le mythe national de l'Empire.",
+      "es": "La fecha se convirtió en símbolo de la victoria prusiano-alemana y se usó durante mucho tiempo para reforzar el mito nacional del imperio.",
+      "it": "La data divenne simbolo della vittoria prussiano-tedesca e fu usata a lungo per rafforzare il mito nazionale dell'impero.",
+      "pt": "A data tornou-se símbolo da vitória prussiano-alemã e foi usada por muito tempo para fortalecer o mito nacional do império.",
+      "nl": "De datum werd een symbool van Pruisisch-Duitse overwinning en werd lang gebruikt om de nationale mythe van het keizerrijk te versterken.",
+      "pl": "Data stała się symbolem prusko-niemieckiego zwycięstwa i długo służyła wzmacnianiu narodowego mitu cesarstwa.",
+      "tr": "Bu tarih Prusya-Alman zaferinin sembolü oldu ve imparatorluğun ulusal mitini güçlendirmek için uzun süre kullanıldı.",
+      "zh": "这一日期成为普德胜利的象征，并长期被用来强化帝国的民族神话。",
+      "ja": "この日はプロイセン・ドイツの勝利の象徴となり、帝国の国民的神話を強めるために長く利用されました。",
+      "ko": "이 날짜는 프로이센-독일 승리의 상징이 되었고, 제국의 민족적 신화를 강화하는 데 오랫동안 사용되었습니다.",
+      "hi": "यह तारीख प्रशियाई-जर्मन विजय का प्रतीक बनी और लंबे समय तक साम्राज्य के राष्ट्रीय मिथक को मजबूत करने के लिए उपयोग हुई।",
+      "ar": "أصبح هذا التاريخ رمزاً للنصر البروسي الألماني، واستُخدم طويلاً لتعزيز الأسطورة الوطنية للإمبراطورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Sedantag в Германской империи",
           "de": "Sedantag im Deutschen Kaiserreich",
-          "en": "Sedan Day in the German Empire"
+          "en": "Sedan Day in the German Empire",
+          "fr": "Le Sedantag dans l'Empire allemand",
+          "es": "El Sedantag en el Imperio alemán",
+          "it": "Il Sedantag nell'Impero tedesco",
+          "pt": "O Sedantag no Império Alemão",
+          "nl": "Sedandag in het Duitse Keizerrijk",
+          "pl": "Sedantag w Cesarstwie Niemieckim",
+          "tr": "Alman İmparatorluğu'nda Sedantag",
+          "zh": "德意志帝国的色当日",
+          "ja": "ドイツ帝国のセダンの日",
+          "ko": "독일 제국의 세당의 날",
+          "hi": "जर्मन साम्राज्य में सेडान दिवस",
+          "ar": "يوم سيدان في الإمبراطورية الألمانية"
         },
         "description": {
           "ru": "После объединения Германии 2 сентября отмечали как день памяти победы при Седане. В городах проходили речи, шествия и школьные праздники.",
           "de": "Nach der deutschen Einigung wurde der 2. September als Erinnerung an den Sieg bei Sedan begangen. In den Staedten gab es Reden, Umzuege und Schulfeiern.",
-          "en": "After German unification, 2 September was observed as a commemoration of the victory at Sedan. Cities held speeches, parades and school celebrations."
+          "en": "After German unification, 2 September was observed as a commemoration of the victory at Sedan. Cities held speeches, parades and school celebrations.",
+          "fr": "Après l'unification allemande, le 2 septembre fut commémoré comme le jour de la victoire de Sedan. Dans les villes, il y avait des discours, des défilés et des fêtes scolaires.",
+          "es": "Tras la unificación alemana, el 2 de septiembre se conmemoraba la victoria de Sedán. En las ciudades había discursos, desfiles y fiestas escolares.",
+          "it": "Dopo l'unificazione tedesca, il 2 settembre fu celebrato come ricordo della vittoria di Sedan. Nelle città si tenevano discorsi, cortei e feste scolastiche.",
+          "pt": "Após a unificação alemã, 2 de setembro era celebrado como lembrança da vitória em Sedan. Nas cidades havia discursos, desfiles e festas escolares.",
+          "nl": "Na de Duitse eenwording werd 2 september herdacht als herinnering aan de overwinning bij Sedan. In steden waren er toespraken, optochten en schoolfeesten.",
+          "pl": "Po zjednoczeniu Niemiec 2 września obchodzono jako dzień pamięci zwycięstwa pod Sedanem. W miastach odbywały się przemówienia, pochody i szkolne uroczystości.",
+          "tr": "Almanya'nın birleşmesinden sonra 2 Eylül, Sedan zaferini anma günü olarak kutlandı. Şehirlerde konuşmalar, yürüyüşler ve okul törenleri yapıldı.",
+          "zh": "德国统一后，9月2日被作为纪念色当胜利的日子。各城市举行演讲、游行和学校庆祝活动。",
+          "ja": "ドイツ統一後、9月2日はセダンでの勝利を記念する日として祝われました。都市では演説、行進、学校の祝祭が行われました。",
+          "ko": "독일 통일 뒤 9월 2일은 세당 승리를 기념하는 날로 지켜졌습니다. 도시에서는 연설, 행진, 학교 축제가 열렸습니다.",
+          "hi": "जर्मन एकीकरण के बाद 2 सितंबर को सेडान की विजय की स्मृति दिवस के रूप में मनाया गया। शहरों में भाषण, जुलूस और स्कूल समारोह होते थे।",
+          "ar": "بعد توحيد ألمانيا، كان 2 سبتمبر يُحتفل به تذكاراً للنصر في سيدان. وكانت المدن تشهد خطباً ومسيرات واحتفالات مدرسية."
         },
         "importance": {
           "ru": "Так военная победа превратилась в ежегодный ритуал молодой империи.",
           "de": "So wurde aus einem militaerischen Sieg ein jaehrliches Ritual des jungen Kaiserreichs.",
-          "en": "A military victory thus became an annual ritual of the young empire."
+          "en": "A military victory thus became an annual ritual of the young empire.",
+          "fr": "Une victoire militaire devint ainsi un rituel annuel du jeune empire.",
+          "es": "Así, una victoria militar se convirtió en un ritual anual del joven imperio.",
+          "it": "Così una vittoria militare divenne un rituale annuale del giovane impero.",
+          "pt": "Assim, uma vitória militar tornou-se um ritual anual do jovem império.",
+          "nl": "Zo werd een militaire overwinning een jaarlijks ritueel van het jonge keizerrijk.",
+          "pl": "Tak zwycięstwo wojskowe stało się corocznym rytuałem młodego cesarstwa.",
+          "tr": "Böylece askeri bir zafer genç imparatorluğun yıllık ritüeline dönüştü.",
+          "zh": "于是，一场军事胜利变成了年轻帝国的年度仪式。",
+          "ja": "こうして軍事的勝利は、若い帝国の年中行事となりました。",
+          "ko": "이렇게 군사적 승리는 젊은 제국의 해마다 반복되는 의식이 되었습니다.",
+          "hi": "इस तरह एक सैन्य विजय युवा साम्राज्य का वार्षिक अनुष्ठान बन गई।",
+          "ar": "وهكذا تحول نصر عسكري إلى طقس سنوي للإمبراطورية الفتية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Праздник исчез вместе с империей",
           "de": "Der Feiertag verschwand mit dem Kaiserreich",
-          "en": "The holiday disappeared with the empire"
+          "en": "The holiday disappeared with the empire",
+          "fr": "La fête disparut avec l'Empire",
+          "es": "La fiesta desapareció con el imperio",
+          "it": "La festa scomparve con l'impero",
+          "pt": "O feriado desapareceu com o império",
+          "nl": "De feestdag verdween met het keizerrijk",
+          "pl": "Święto zniknęło wraz z cesarstwem",
+          "tr": "Bayram imparatorlukla birlikte kayboldu",
+          "zh": "这个节日随帝国一起消失",
+          "ja": "祝日は帝国とともに消えた",
+          "ko": "그 기념일은 제국과 함께 사라졌다",
+          "hi": "यह पर्व साम्राज्य के साथ गायब हो गया",
+          "ar": "اختفى العيد مع الإمبراطورية"
         },
         "description": {
           "ru": "После 1918 года Sedantag потерял значение: новая республика не хотела строить общую память вокруг имперского военного триумфа. Сегодня эта дата важна скорее как пример политической культуры XIX века.",
           "de": "Nach 1918 verlor der Sedantag seine Bedeutung: Die neue Republik wollte ihre Erinnerung nicht um einen kaiserlichen Militaertriumph bauen. Heute ist das Datum eher ein Beispiel politischer Kultur des 19. Jahrhunderts.",
-          "en": "After 1918, Sedan Day lost its importance: the new republic did not want to build public memory around an imperial military triumph. Today the date is more an example of 19th-century political culture."
+          "en": "After 1918, Sedan Day lost its importance: the new republic did not want to build public memory around an imperial military triumph. Today the date is more an example of 19th-century political culture.",
+          "fr": "Après 1918, le Sedantag perdit son importance : la nouvelle république ne voulait pas construire la mémoire publique autour d'un triomphe militaire impérial. Aujourd'hui, cette date est plutôt un exemple de culture politique du XIXe siècle.",
+          "es": "Después de 1918, el Sedantag perdió importancia: la nueva república no quería construir la memoria pública en torno a un triunfo militar imperial. Hoy la fecha es más bien un ejemplo de cultura política del siglo XIX.",
+          "it": "Dopo il 1918 il Sedantag perse importanza: la nuova repubblica non voleva costruire la memoria pubblica attorno a un trionfo militare imperiale. Oggi la data è piuttosto un esempio di cultura politica del XIX secolo.",
+          "pt": "Depois de 1918, o Sedantag perdeu importância: a nova república não queria construir a memória pública em torno de um triunfo militar imperial. Hoje a data é mais um exemplo da cultura política do século XIX.",
+          "nl": "Na 1918 verloor Sedandag zijn betekenis: de nieuwe republiek wilde de publieke herinnering niet bouwen rond een keizerlijke militaire triomf. Vandaag is de datum vooral een voorbeeld van politieke cultuur uit de 19e eeuw.",
+          "pl": "Po 1918 roku Sedantag stracił znaczenie: nowa republika nie chciała budować wspólnej pamięci wokół imperialnego triumfu wojskowego. Dziś ta data jest raczej przykładem kultury politycznej XIX wieku.",
+          "tr": "1918'den sonra Sedantag önemini yitirdi: yeni cumhuriyet ortak hafızayı imparatorluk askeri zaferi etrafında kurmak istemiyordu. Bugün bu tarih daha çok 19. yüzyıl siyasi kültürünün bir örneğidir.",
+          "zh": "1918年后，色当日失去意义：新共和国不愿围绕帝国军事胜利来塑造公共记忆。今天，这一日期更像是19世纪政治文化的例子。",
+          "ja": "1918年以降、セダンの日は重要性を失いました。新しい共和国は、帝国の軍事的勝利を中心に公共の記憶を築きたくなかったからです。今日この日は、むしろ19世紀の政治文化の例です。",
+          "ko": "1918년 이후 세당의 날은 의미를 잃었습니다. 새 공화국은 제국의 군사적 승리를 중심으로 공적 기억을 만들고 싶어 하지 않았습니다. 오늘날 이 날짜는 19세기 정치 문화의 사례에 가깝습니다.",
+          "hi": "1918 के बाद सेडान दिवस का महत्व घट गया: नई गणराज्य साम्राज्यवादी सैन्य विजय के इर्द-गिर्द सार्वजनिक स्मृति बनाना नहीं चाहती थी। आज यह तारीख 19वीं सदी की राजनीतिक संस्कृति का उदाहरण अधिक है।",
+          "ar": "بعد عام 1918 فقد يوم سيدان أهميته، إذ لم ترغب الجمهورية الجديدة في بناء الذاكرة العامة حول انتصار عسكري إمبراطوري. واليوم يُعد هذا التاريخ مثالاً على الثقافة السياسية في القرن التاسع عشر."
         },
         "importance": {
           "ru": "Иногда исчезнувший праздник рассказывает о стране не меньше, чем действующий.",
           "de": "Manchmal erzaehlt ein verschwundener Feiertag ebenso viel ueber ein Land wie ein bestehender.",
-          "en": "Sometimes a vanished holiday tells as much about a country as a current one."
+          "en": "Sometimes a vanished holiday tells as much about a country as a current one.",
+          "fr": "Parfois, une fête disparue en dit autant sur un pays qu'une fête encore célébrée.",
+          "es": "A veces una fiesta desaparecida cuenta tanto sobre un país como una fiesta vigente.",
+          "it": "A volte una festa scomparsa racconta di un paese quanto una festa ancora esistente.",
+          "pt": "Às vezes um feriado desaparecido diz tanto sobre um país quanto um feriado atual.",
+          "nl": "Soms vertelt een verdwenen feestdag net zoveel over een land als een bestaande.",
+          "pl": "Czasem zniknięte święto mówi o kraju nie mniej niż święto nadal obchodzone.",
+          "tr": "Bazen kaybolmuş bir bayram bir ülke hakkında mevcut bir bayram kadar çok şey anlatır.",
+          "zh": "有时，一个已经消失的节日和现存节日一样能说明一个国家。",
+          "ja": "消えた祝日が、現在の祝日と同じくらい国について語ることがあります。",
+          "ko": "때로는 사라진 기념일이 현재의 기념일만큼 한 나라에 대해 많은 것을 말해 줍니다.",
+          "hi": "कभी-कभी गायब हो चुका पर्व भी देश के बारे में वर्तमान पर्व जितना ही बताता है।",
+          "ar": "أحياناً يخبرنا عيد اختفى عن بلد ما بقدر ما يخبرنا عيد قائم."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Во Франции поражение при Седане привело к падению Второй империи и провозглашению республики 4 сентября 1870 года.",
     "de": "In Frankreich fuehrte die Niederlage von Sedan zum Sturz des Zweiten Kaiserreichs und zur Ausrufung der Republik am 4. September 1870.",
-    "en": "In France, the defeat at Sedan led to the fall of the Second Empire and the proclamation of a republic on 4 September 1870."
+    "en": "In France, the defeat at Sedan led to the fall of the Second Empire and the proclamation of a republic on 4 September 1870.",
+    "fr": "En France, la défaite de Sedan entraîna la chute du Second Empire et la proclamation de la République le 4 septembre 1870.",
+    "es": "En Francia, la derrota de Sedán llevó a la caída del Segundo Imperio y a la proclamación de la república el 4 de septiembre de 1870.",
+    "it": "In Francia, la sconfitta di Sedan portò alla caduta del Secondo Impero e alla proclamazione della repubblica il 4 settembre 1870.",
+    "pt": "Na França, a derrota em Sedan levou à queda do Segundo Império e à proclamação da república em 4 de setembro de 1870.",
+    "nl": "In Frankrijk leidde de nederlaag bij Sedan tot de val van het Tweede Keizerrijk en de uitroeping van de republiek op 4 september 1870.",
+    "pl": "We Francji klęska pod Sedanem doprowadziła do upadku Drugiego Cesarstwa i proklamowania republiki 4 września 1870 roku.",
+    "tr": "Fransa'da Sedan yenilgisi İkinci İmparatorluk'un çöküşüne ve 4 Eylül 1870'te cumhuriyetin ilanına yol açtı.",
+    "zh": "在法国，色当战败导致第二帝国垮台，并于1870年9月4日宣布成立共和国。",
+    "ja": "フランスでは、セダンでの敗北が第二帝政の崩壊と1870年9月4日の共和国宣言につながりました。",
+    "ko": "프랑스에서 세당 패배는 제2제정의 몰락과 1870년 9월 4일 공화국 선포로 이어졌습니다.",
+    "hi": "फ्रांस में सेडान की हार से द्वितीय साम्राज्य का पतन हुआ और 4 सितंबर 1870 को गणराज्य की घोषणा हुई।",
+    "ar": "في فرنسا أدت الهزيمة في سيدان إلى سقوط الإمبراطورية الثانية وإعلان الجمهورية في 4 سبتمبر 1870."
   },
   "sources": [
     {

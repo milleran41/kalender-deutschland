@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Фердинанд Порше",
       "de": "Ferdinand Porsche wird geboren",
-      "en": "Ferdinand Porsche is born"
+      "en": "Ferdinand Porsche is born",
+      "fr": "Ferdinand Porsche naît",
+      "es": "Nace Ferdinand Porsche",
+      "it": "Nasce Ferdinand Porsche",
+      "pt": "Nasce Ferdinand Porsche",
+      "nl": "Ferdinand Porsche wordt geboren",
+      "pl": "Urodził się Ferdinand Porsche",
+      "tr": "Ferdinand Porsche doğdu",
+      "zh": "费迪南德·保时捷诞生",
+      "ja": "フェルディナント・ポルシェが生まれる",
+      "ko": "페르디난트 포르셰가 태어나다",
+      "hi": "फर्डिनांड पोर्शे का जन्म हुआ",
+      "ar": "ولادة فرديناند بورشه"
     },
     "description": {
       "ru": "3 сентября 1875 года родился инженер Фердинанд Порше. Он работал над автомобильными конструкциями, связанными с Volkswagen и маркой Porsche.",
       "de": "Am 3. September 1875 wurde der Ingenieur Ferdinand Porsche geboren. Er arbeitete an Automobilkonstruktionen, die mit Volkswagen und der Marke Porsche verbunden sind.",
-      "en": "On 3 September 1875, engineer Ferdinand Porsche was born. He worked on automobile designs linked with Volkswagen and the Porsche brand."
+      "en": "On 3 September 1875, engineer Ferdinand Porsche was born. He worked on automobile designs linked with Volkswagen and the Porsche brand.",
+      "fr": "Le 3 septembre 1875 naquit l'ingénieur Ferdinand Porsche. Il travailla sur des conceptions automobiles liées à Volkswagen et à la marque Porsche.",
+      "es": "El 3 de septiembre de 1875 nació el ingeniero Ferdinand Porsche. Trabajó en diseños de automóviles relacionados con Volkswagen y la marca Porsche.",
+      "it": "Il 3 settembre 1875 nacque l'ingegnere Ferdinand Porsche. Lavorò a progetti automobilistici legati a Volkswagen e al marchio Porsche.",
+      "pt": "Em 3 de setembro de 1875 nasceu o engenheiro Ferdinand Porsche. Ele trabalhou em projetos de automóveis ligados à Volkswagen e à marca Porsche.",
+      "nl": "Op 3 september 1875 werd ingenieur Ferdinand Porsche geboren. Hij werkte aan auto-ontwerpen die verbonden zijn met Volkswagen en het merk Porsche.",
+      "pl": "3 września 1875 roku urodził się inżynier Ferdinand Porsche. Pracował nad konstrukcjami samochodowymi związanymi z Volkswagenem i marką Porsche.",
+      "tr": "3 Eylül 1875'te mühendis Ferdinand Porsche doğdu. Volkswagen ve Porsche markasıyla bağlantılı otomobil tasarımları üzerinde çalıştı.",
+      "zh": "1875年9月3日，工程师费迪南德·保时捷出生。他参与了与大众汽车和保时捷品牌相关的汽车设计。",
+      "ja": "1875年9月3日、技術者フェルディナント・ポルシェが生まれました。彼はフォルクスワーゲンやポルシェ・ブランドに関わる自動車設計に取り組みました。",
+      "ko": "1875년 9월 3일 엔지니어 페르디난트 포르셰가 태어났습니다. 그는 폭스바겐과 포르셰 브랜드와 연결된 자동차 설계에 참여했습니다.",
+      "hi": "3 सितंबर 1875 को इंजीनियर फर्डिनांड पोर्शे का जन्म हुआ। उन्होंने Volkswagen और Porsche ब्रांड से जुड़े ऑटोमोबाइल डिज़ाइन पर काम किया।",
+      "ar": "في 3 سبتمبر 1875 وُلد المهندس فرديناند بورشه. عمل على تصاميم سيارات مرتبطة بفولكسفاغن وعلامة بورشه."
     },
     "importance": {
       "ru": "Его биография показывает, как автомобильная техника стала частью немецкой промышленной идентичности, но также связана с политически сложным XX веком.",
       "de": "Seine Biografie zeigt, wie Automobiltechnik Teil deutscher Industrieidentitaet wurde, aber auch mit einem politisch schwierigen 20. Jahrhundert verbunden ist.",
-      "en": "His biography shows how automotive engineering became part of Germany's industrial identity, while also being tied to the politically difficult twentieth century."
+      "en": "His biography shows how automotive engineering became part of Germany's industrial identity, while also being tied to the politically difficult twentieth century.",
+      "fr": "Sa biographie montre comment la technique automobile devint une partie de l'identité industrielle allemande, tout en restant liée au XXe siècle politiquement difficile.",
+      "es": "Su biografía muestra cómo la ingeniería automotriz se convirtió en parte de la identidad industrial alemana, pero también quedó ligada al difícil siglo XX político.",
+      "it": "La sua biografia mostra come la tecnica automobilistica sia diventata parte dell'identità industriale tedesca, ma anche legata al difficile XX secolo politico.",
+      "pt": "Sua biografia mostra como a engenharia automotiva tornou-se parte da identidade industrial alemã, mas também ficou ligada ao politicamente difícil século XX.",
+      "nl": "Zijn biografie laat zien hoe autotechniek deel werd van de Duitse industriële identiteit, maar ook verbonden is met de politiek moeilijke twintigste eeuw.",
+      "pl": "Jego biografia pokazuje, jak technika samochodowa stała się częścią niemieckiej tożsamości przemysłowej, ale także wiąże się z politycznie trudnym XX wiekiem.",
+      "tr": "Biyografisi, otomotiv mühendisliğinin Alman sanayi kimliğinin bir parçası hâline geldiğini, ama aynı zamanda siyasi açıdan zor 20. yüzyılla bağlantılı olduğunu gösterir.",
+      "zh": "他的生平说明汽车工程如何成为德国工业身份的一部分，同时也与政治复杂的20世纪相连。",
+      "ja": "彼の伝記は、自動車技術がドイツの産業的アイデンティティの一部になった一方で、政治的に難しい20世紀とも結びついていることを示しています。",
+      "ko": "그의 전기는 자동차 공학이 독일 산업 정체성의 일부가 되었지만, 정치적으로 어려운 20세기와도 연결되어 있음을 보여 줍니다.",
+      "hi": "उनकी जीवनी दिखाती है कि ऑटोमोबाइल तकनीक जर्मन औद्योगिक पहचान का हिस्सा कैसे बनी, लेकिन साथ ही राजनीतिक रूप से कठिन 20वीं सदी से भी जुड़ी रही।",
+      "ar": "تُظهر سيرته كيف أصبحت هندسة السيارات جزءاً من الهوية الصناعية الألمانية، لكنها ارتبطت أيضاً بالقرن العشرين الصعب سياسياً."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Инженерная школа автомобиля",
           "de": "Ingenieurkunst des Automobils",
-          "en": "Automotive engineering"
+          "en": "Automotive engineering",
+          "fr": "Ingénierie automobile",
+          "es": "Ingeniería automotriz",
+          "it": "Ingegneria automobilistica",
+          "pt": "Engenharia automotiva",
+          "nl": "Autotechniek",
+          "pl": "Inżynieria samochodowa",
+          "tr": "Otomotiv mühendisliği",
+          "zh": "汽车工程",
+          "ja": "自動車工学",
+          "ko": "자동차 공학",
+          "hi": "ऑटोमोबाइल इंजीनियरिंग",
+          "ar": "هندسة السيارات"
         },
         "description": {
           "ru": "Порше работал с электрическими, гибридными и бензиновыми автомобильными идеями. Его карьера показывает, что автомобиль развивался через множество технических экспериментов.",
           "de": "Porsche arbeitete mit elektrischen, hybriden und benzinbetriebenen Fahrzeugideen. Seine Karriere zeigt, dass das Automobil durch viele technische Experimente entstand.",
-          "en": "Porsche worked with electric, hybrid and gasoline-powered vehicle ideas. His career shows that the automobile developed through many technical experiments."
+          "en": "Porsche worked with electric, hybrid and gasoline-powered vehicle ideas. His career shows that the automobile developed through many technical experiments.",
+          "fr": "Porsche travailla sur des idées de véhicules électriques, hybrides et à essence. Sa carrière montre que l'automobile s'est développée grâce à de nombreuses expériences techniques.",
+          "es": "Porsche trabajó con ideas de vehículos eléctricos, híbridos y de gasolina. Su carrera muestra que el automóvil se desarrolló mediante muchos experimentos técnicos.",
+          "it": "Porsche lavorò con idee di veicoli elettrici, ibridi e a benzina. La sua carriera mostra che l'automobile si sviluppò attraverso molti esperimenti tecnici.",
+          "pt": "Porsche trabalhou com ideias de veículos elétricos, híbridos e movidos a gasolina. Sua carreira mostra que o automóvel se desenvolveu por meio de muitos experimentos técnicos.",
+          "nl": "Porsche werkte met ideeën voor elektrische, hybride en benzine-aangedreven voertuigen. Zijn loopbaan laat zien dat de auto zich ontwikkelde via veel technische experimenten.",
+          "pl": "Porsche pracował nad pomysłami pojazdów elektrycznych, hybrydowych i benzynowych. Jego kariera pokazuje, że samochód rozwijał się przez wiele eksperymentów technicznych.",
+          "tr": "Porsche elektrikli, hibrit ve benzinli araç fikirleri üzerinde çalıştı. Kariyeri, otomobilin birçok teknik deney yoluyla geliştiğini gösterir.",
+          "zh": "保时捷研究过电动、混合动力和汽油动力车辆的构想。他的职业生涯说明汽车是在许多技术实验中发展起来的。",
+          "ja": "ポルシェは電気、ハイブリッド、ガソリン動力の車両構想に取り組みました。彼の経歴は、自動車が多くの技術的実験を通じて発展したことを示しています。",
+          "ko": "포르셰는 전기, 하이브리드, 휘발유 동력 차량 아이디어를 다루었습니다. 그의 경력은 자동차가 많은 기술적 실험을 통해 발전했음을 보여 줍니다.",
+          "hi": "पोर्शे ने विद्युत, हाइब्रिड और पेट्रोल चालित वाहनों के विचारों पर काम किया। उनका करियर दिखाता है कि ऑटोमोबाइल कई तकनीकी प्रयोगों से विकसित हुआ।",
+          "ar": "عمل بورشه على أفكار مركبات كهربائية وهجينة وتعمل بالبنزين. وتُظهر مسيرته أن السيارة تطورت عبر كثير من التجارب التقنية."
         },
         "importance": {
           "ru": "Дата хорошо дополняет Бенца, Берту Бенц и Daimler-Benz.",
           "de": "Das Datum ergaenzt Benz, Bertha Benz und Daimler-Benz gut.",
-          "en": "The date complements Benz, Bertha Benz and Daimler-Benz well."
+          "en": "The date complements Benz, Bertha Benz and Daimler-Benz well.",
+          "fr": "Cette date complète bien Benz, Bertha Benz et Daimler-Benz.",
+          "es": "La fecha complementa bien a Benz, Bertha Benz y Daimler-Benz.",
+          "it": "La data completa bene Benz, Bertha Benz e Daimler-Benz.",
+          "pt": "A data complementa bem Benz, Bertha Benz e Daimler-Benz.",
+          "nl": "De datum sluit goed aan bij Benz, Bertha Benz en Daimler-Benz.",
+          "pl": "Data dobrze uzupełnia Benza, Berthę Benz i Daimler-Benz.",
+          "tr": "Bu tarih Benz, Bertha Benz ve Daimler-Benz'i iyi tamamlar.",
+          "zh": "这个日期很好地补充了本茨、贝尔塔·本茨和戴姆勒-奔驰的故事。",
+          "ja": "この日は、ベンツ、ベルタ・ベンツ、ダイムラー・ベンツの話をよく補います。",
+          "ko": "이 날짜는 벤츠, 베르타 벤츠, 다임러-벤츠 이야기를 잘 보완합니다.",
+          "hi": "यह तारीख बेंज़, बेरथा बेंज़ और Daimler-Benz की कहानी को अच्छी तरह पूरा करती है।",
+          "ar": "يكمل هذا التاريخ قصة بنز وبرتا بنز ودايملر-بنز جيداً."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Фердинанд Порше родился в Богемии, а умер в Штутгарте.",
     "de": "Ferdinand Porsche wurde in Boehmen geboren und starb in Stuttgart.",
-    "en": "Ferdinand Porsche was born in Bohemia and died in Stuttgart."
+    "en": "Ferdinand Porsche was born in Bohemia and died in Stuttgart.",
+    "fr": "Ferdinand Porsche naquit en Bohême et mourut à Stuttgart.",
+    "es": "Ferdinand Porsche nació en Bohemia y murió en Stuttgart.",
+    "it": "Ferdinand Porsche nacque in Boemia e morì a Stoccarda.",
+    "pt": "Ferdinand Porsche nasceu na Boêmia e morreu em Stuttgart.",
+    "nl": "Ferdinand Porsche werd geboren in Bohemen en stierf in Stuttgart.",
+    "pl": "Ferdinand Porsche urodził się w Czechach, a zmarł w Stuttgarcie.",
+    "tr": "Ferdinand Porsche Bohemya'da doğdu ve Stuttgart'ta öldü.",
+    "zh": "费迪南德·保时捷出生于波希米亚，逝世于斯图加特。",
+    "ja": "フェルディナント・ポルシェはボヘミアで生まれ、シュトゥットガルトで亡くなりました。",
+    "ko": "페르디난트 포르셰는 보헤미아에서 태어나 슈투트가르트에서 사망했습니다.",
+    "hi": "फर्डिनांड पोर्शे का जन्म बोहेमिया में हुआ और उनका निधन स्टुटगार्ट में हुआ।",
+    "ar": "وُلد فرديناند بورشه في بوهيميا وتوفي في شتوتغارت."
   },
   "sources": [
     {
