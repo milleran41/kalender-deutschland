@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Германии открылся чемпионат мира по футболу 2006 года",
       "de": "Die Fussball-Weltmeisterschaft 2006 in Deutschland beginnt",
-      "en": "The 2006 FIFA World Cup opens in Germany"
+      "en": "The 2006 FIFA World Cup opens in Germany",
+      "fr": "La Coupe du monde 2006 s'ouvre en Allemagne",
+      "es": "Se inaugura en Alemania el Mundial de Futbol de 2006",
+      "it": "Si apre in Germania la Coppa del Mondo FIFA 2006",
+      "pt": "A Copa do Mundo de 2006 comeca na Alemanha",
+      "nl": "Het WK voetbal 2006 begint in Duitsland",
+      "pl": "Mistrzostwa Swiata 2006 rozpoczynaja sie w Niemczech",
+      "tr": "2006 FIFA Dunya Kupasi Almanya'da baslar",
+      "zh": "2006年世界杯在德国开幕",
+      "ja": "2006年FIFAワールドカップがドイツで開幕",
+      "ko": "2006 FIFA 월드컵이 독일에서 개막하다",
+      "hi": "2006 फीफा विश्व कप जर्मनी में शुरू हुआ",
+      "ar": "افتتاح كأس العالم 2006 في المانيا"
     },
     "description": {
       "ru": "9 июня 2006 года в Мюнхене начался чемпионат мира по футболу в Германии. В первом матче Германия победила Коста-Рику со счётом 4:2.",
       "de": "Am 9. Juni 2006 begann in Muenchen die Fussball-Weltmeisterschaft in Deutschland. Im Auftaktspiel besiegte Deutschland Costa Rica mit 4:2.",
-      "en": "On 9 June 2006, the FIFA World Cup in Germany opened in Munich. In the opening match, Germany defeated Costa Rica 4-2."
+      "en": "On 9 June 2006, the FIFA World Cup in Germany opened in Munich. In the opening match, Germany defeated Costa Rica 4-2.",
+      "fr": "Le 9 juin 2006, la Coupe du monde de football en Allemagne s'ouvrit a Munich. Dans le match d'ouverture, l'Allemagne battit le Costa Rica 4-2.",
+      "es": "El 9 de junio de 2006, el Mundial de Futbol en Alemania se inauguro en Munich. En el partido inaugural, Alemania derroto a Costa Rica por 4-2.",
+      "it": "Il 9 giugno 2006 la Coppa del Mondo di calcio in Germania si apri a Monaco. Nella partita inaugurale, la Germania sconfisse la Costa Rica 4-2.",
+      "pt": "Em 9 de junho de 2006, a Copa do Mundo de futebol na Alemanha foi aberta em Munique. Na partida de abertura, a Alemanha venceu a Costa Rica por 4 a 2.",
+      "nl": "Op 9 juni 2006 begon het WK voetbal in Duitsland in Muenchen. In de openingswedstrijd versloeg Duitsland Costa Rica met 4-2.",
+      "pl": "9 czerwca 2006 roku w Monachium rozpoczęły sie pilkarskie mistrzostwa swiata w Niemczech. W meczu otwarcia Niemcy pokonaly Kostaryke 4:2.",
+      "tr": "9 Haziran 2006'da Almanya'daki FIFA Dunya Kupasi Munih'te basladi. Acilis macinda Almanya Kosta Rika'yi 4-2 yendi.",
+      "zh": "2006年6月9日，德国世界杯在慕尼黑开幕。揭幕战中，德国队以4比2战胜哥斯达黎加。",
+      "ja": "2006年6月9日、ドイツでのFIFAワールドカップがミュンヘンで開幕しました。開幕戦でドイツはコスタリカに4対2で勝利しました。",
+      "ko": "2006년 6월 9일 독일 월드컵이 뮌헨에서 개막했습니다. 개막전에서 독일은 코스타리카를 4-2로 이겼습니다.",
+      "hi": "9 जून 2006 को जर्मनी में फीफा विश्व कप म्यूनिख में शुरू हुआ। उद्घाटन मैच में जर्मनी ने कोस्टा रिका को 4-2 से हराया।",
+      "ar": "في 9 يونيو 2006 افتتحت كأس العالم لكرة القدم في المانيا بمدينة ميونخ. وفي مباراة الافتتاح فازت المانيا على كوستاريكا 4-2."
     },
     "importance": {
       "ru": "Турнир стал для объединённой Германии большим праздником и частью нового, более открытого образа страны.",
       "de": "Das Turnier wurde fuer das vereinte Deutschland zu einem grossen Fest und Teil eines neuen, offeneren Landesbildes.",
-      "en": "The tournament became a major celebration for reunified Germany and part of a new, more open image of the country."
+      "en": "The tournament became a major celebration for reunified Germany and part of a new, more open image of the country.",
+      "fr": "Le tournoi devint une grande fete pour l'Allemagne reunifiee et une partie d'une image nouvelle, plus ouverte, du pays.",
+      "es": "El torneo se convirtio en una gran fiesta para la Alemania reunificada y en parte de una imagen nueva y mas abierta del pais.",
+      "it": "Il torneo divenne una grande festa per la Germania riunificata e parte di una nuova immagine piu aperta del paese.",
+      "pt": "O torneio tornou-se uma grande celebracao para a Alemanha reunificada e parte de uma imagem nova e mais aberta do pais.",
+      "nl": "Het toernooi werd een groot feest voor het herenigde Duitsland en deel van een nieuw, opener beeld van het land.",
+      "pl": "Turniej stal sie wielkim swietem zjednoczonych Niemiec i czescia nowego, bardziej otwartego obrazu kraju.",
+      "tr": "Turnuva, birlesmis Almanya icin buyuk bir kutlamaya ve ulkenin daha acik yeni imajinin bir parcasina donustu.",
+      "zh": "这届赛事成为统一后德国的一次盛大庆典，也成为德国更加开放的新形象的一部分。",
+      "ja": "この大会は、再統一後のドイツにとって大きな祝祭となり、より開かれた新しい国のイメージの一部となりました。",
+      "ko": "이 대회는 통일 독일의 큰 축제가 되었고, 더 개방적인 새로운 국가 이미지의 일부가 되었습니다.",
+      "hi": "यह टूर्नामेंट एकीकृत जर्मनी के लिए बड़ा उत्सव बना और देश की नई, अधिक खुली छवि का हिस्सा बना।",
+      "ar": "اصبحت البطولة احتفالا كبيرا لالمانيا الموحدة وجزءا من صورة جديدة اكثر انفتاحا للبلاد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Летняя сказка»",
           "de": "Das Sommermaerchen",
-          "en": "The summer fairytale"
+          "en": "The summer fairytale",
+          "fr": "Le conte d'ete",
+          "es": "El cuento de verano",
+          "it": "La favola d'estate",
+          "pt": "O conto de verao",
+          "nl": "Het zomersprookje",
+          "pl": "Letnia bajka",
+          "tr": "Yaz masali",
+          "zh": "夏日童话",
+          "ja": "夏の童話",
+          "ko": "여름 동화",
+          "hi": "गर्मी की परीकथा",
+          "ar": "حكاية الصيف"
         },
         "description": {
           "ru": "Чемпионат 2006 года в Германии часто называют «летней сказкой». Улицы, фан-зоны и флаги сделали спорт частью городской культуры и общего настроения.",
           "de": "Die Weltmeisterschaft 2006 in Deutschland wird oft Sommermaerchen genannt. Strassen, Fanmeilen und Flaggen machten den Sport zu einem Teil von Stadtkultur und gemeinsamer Stimmung.",
-          "en": "The 2006 World Cup in Germany is often called the summer fairytale. Streets, fan zones and flags made sport part of urban culture and shared mood."
+          "en": "The 2006 World Cup in Germany is often called the summer fairytale. Streets, fan zones and flags made sport part of urban culture and shared mood.",
+          "fr": "La Coupe du monde 2006 en Allemagne est souvent appelee le conte d'ete. Les rues, les zones de supporters et les drapeaux firent du sport une partie de la culture urbaine et de l'ambiance commune.",
+          "es": "El Mundial de 2006 en Alemania suele llamarse el cuento de verano. Calles, zonas de aficionados y banderas hicieron del deporte parte de la cultura urbana y del ambiente compartido.",
+          "it": "La Coppa del Mondo 2006 in Germania e spesso chiamata favola d'estate. Strade, fan zone e bandiere resero lo sport parte della cultura urbana e dell'umore comune.",
+          "pt": "A Copa do Mundo de 2006 na Alemanha e muitas vezes chamada de conto de verao. Ruas, zonas de torcedores e bandeiras fizeram do esporte parte da cultura urbana e do clima coletivo.",
+          "nl": "Het WK 2006 in Duitsland wordt vaak het zomersprookje genoemd. Straten, fanzones en vlaggen maakten sport deel van stadscultuur en gedeelde stemming.",
+          "pl": "Mistrzostwa swiata 2006 w Niemczech czesto nazywa sie letnia bajka. Ulice, strefy kibica i flagi sprawily, ze sport stal sie czescia kultury miejskiej i wspolnego nastroju.",
+          "tr": "Almanya'daki 2006 Dunya Kupasi sikca yaz masali diye anilir. Sokaklar, taraftar alanlari ve bayraklar sporu kent kulturunun ve ortak havanin parcasi yapti.",
+          "zh": "2006年德国世界杯常被称为“夏日童话”。街道、球迷区和旗帜让体育成为城市文化和共同情绪的一部分。",
+          "ja": "2006年ドイツ大会はしばしば「夏の童話」と呼ばれます。通り、ファンゾーン、旗が、スポーツを都市文化と共有された雰囲気の一部にしました。",
+          "ko": "2006년 독일 월드컵은 흔히 여름 동화라고 불립니다. 거리, 팬존, 깃발은 스포츠를 도시 문화와 공동의 분위기의 일부로 만들었습니다.",
+          "hi": "जर्मनी में 2006 का विश्व कप अक्सर गर्मी की परीकथा कहा जाता है। सड़कों, फैन जोन और झंडों ने खेल को शहरी संस्कृति और साझा माहौल का हिस्सा बना दिया।",
+          "ar": "غالبا ما تسمى كأس العالم 2006 في المانيا حكاية الصيف. فقد جعلت الشوارع ومناطق المشجعين والاعلام الرياضة جزءا من ثقافة المدن والمزاج المشترك."
         },
         "importance": {
           "ru": "Это более лёгкая дата о том, как спорт меняет атмосферу страны.",
           "de": "Das ist ein leichteres Datum darueber, wie Sport die Stimmung eines Landes veraendert.",
-          "en": "It is a lighter date about how sport changes a country's atmosphere."
+          "en": "It is a lighter date about how sport changes a country's atmosphere.",
+          "fr": "C'est une date plus legere sur la facon dont le sport change l'atmosphere d'un pays.",
+          "es": "Es una fecha mas ligera sobre como el deporte cambia el ambiente de un pais.",
+          "it": "E una data piu leggera su come lo sport cambia l'atmosfera di un paese.",
+          "pt": "E uma data mais leve sobre como o esporte muda a atmosfera de um pais.",
+          "nl": "Het is een lichtere datum over hoe sport de sfeer van een land verandert.",
+          "pl": "To lzejsza data o tym, jak sport zmienia atmosfere kraju.",
+          "tr": "Bu, sporun bir ulkenin atmosferini nasil degistirdigine dair daha hafif bir tarihtir.",
+          "zh": "这是一个较轻松的日期，讲述体育如何改变一个国家的氛围。",
+          "ja": "これは、スポーツが国の雰囲気をどのように変えるかを示す、少し軽やかな日付です。",
+          "ko": "이는 스포츠가 한 나라의 분위기를 어떻게 바꾸는지 보여 주는 비교적 가벼운 날짜입니다.",
+          "hi": "यह इस बारे में हल्की-फुल्की तारीख है कि खेल किसी देश का माहौल कैसे बदलता है।",
+          "ar": "انه تاريخ اخف عن كيفية تغيير الرياضة لاجواء بلد ما."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Девиз турнира звучал по-английски: «A time to make friends».",
     "de": "Das Motto des Turniers lautete auf Englisch: A time to make friends.",
-    "en": "The tournament motto was: A time to make friends."
+    "en": "The tournament motto was: A time to make friends.",
+    "fr": "La devise du tournoi etait: A time to make friends.",
+    "es": "El lema del torneo fue: A time to make friends.",
+    "it": "Il motto del torneo era: A time to make friends.",
+    "pt": "O lema do torneio era: A time to make friends.",
+    "nl": "Het motto van het toernooi was: A time to make friends.",
+    "pl": "Haslo turnieju brzmialo: A time to make friends.",
+    "tr": "Turnuvanin slogani suydu: A time to make friends.",
+    "zh": "本届赛事的口号是：A time to make friends。",
+    "ja": "大会のモットーは「A time to make friends」でした。",
+    "ko": "대회 표어는 'A time to make friends'였습니다.",
+    "hi": "टूर्नामेंट का नारा था: A time to make friends.",
+    "ar": "كان شعار البطولة: A time to make friends."
   },
   "sources": [
     {

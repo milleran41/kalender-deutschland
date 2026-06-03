@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Рихард Штраус",
       "de": "Richard Strauss wird geboren",
-      "en": "Richard Strauss is born"
+      "en": "Richard Strauss is born",
+      "fr": "Naissance de Richard Strauss",
+      "es": "Nace Richard Strauss",
+      "it": "Nasce Richard Strauss",
+      "pt": "Nasce Richard Strauss",
+      "nl": "Richard Strauss wordt geboren",
+      "pl": "Rodzi sie Richard Strauss",
+      "tr": "Richard Strauss dogar",
+      "zh": "理查德·施特劳斯出生",
+      "ja": "リヒャルト・シュトラウスが生まれる",
+      "ko": "리하르트 슈트라우스가 태어나다",
+      "hi": "रिखार्ड श्ट्राउस का जन्म",
+      "ar": "ولادة ريتشارد شتراوس"
     },
     "description": {
       "ru": "11 июня 1864 года в Мюнхене родился композитор и дирижёр Рихард Штраус. Он стал одной из крупнейших фигур немецкой музыки конца XIX и первой половины XX века.",
       "de": "Am 11. Juni 1864 wurde der Komponist und Dirigent Richard Strauss in Muenchen geboren. Er wurde zu einer der grossen Figuren der deutschen Musik vom spaeten 19. bis zur ersten Haelfte des 20. Jahrhunderts.",
-      "en": "On 11 June 1864, composer and conductor Richard Strauss was born in Munich. He became one of the major figures of German music from the late 19th to the first half of the 20th century."
+      "en": "On 11 June 1864, composer and conductor Richard Strauss was born in Munich. He became one of the major figures of German music from the late 19th to the first half of the 20th century.",
+      "fr": "Le 11 juin 1864, le compositeur et chef d'orchestre Richard Strauss naquit a Munich. Il devint l'une des grandes figures de la musique allemande de la fin du XIXe siecle a la premiere moitie du XXe siecle.",
+      "es": "El 11 de junio de 1864 nacio en Munich el compositor y director de orquesta Richard Strauss. Se convirtio en una de las grandes figuras de la musica alemana de finales del siglo XIX y la primera mitad del XX.",
+      "it": "L'11 giugno 1864 nacque a Monaco il compositore e direttore d'orchestra Richard Strauss. Divenne una delle grandi figure della musica tedesca dalla fine dell'Ottocento alla prima meta del Novecento.",
+      "pt": "Em 11 de junho de 1864, o compositor e maestro Richard Strauss nasceu em Munique. Ele se tornou uma das grandes figuras da musica alema do fim do seculo XIX a primeira metade do seculo XX.",
+      "nl": "Op 11 juni 1864 werd componist en dirigent Richard Strauss in Muenchen geboren. Hij werd een van de grote figuren van de Duitse muziek van de late negentiende tot de eerste helft van de twintigste eeuw.",
+      "pl": "11 czerwca 1864 roku w Monachium urodzil sie kompozytor i dyrygent Richard Strauss. Stal sie jedna z wielkich postaci muzyki niemieckiej od konca XIX do pierwszej polowy XX wieku.",
+      "tr": "11 Haziran 1864'te besteci ve orkestra sefi Richard Strauss Munih'te dogdu. 19. yuzyilin sonundan 20. yuzyilin ilk yarisina kadar Alman muziginin buyuk isimlerinden biri oldu.",
+      "zh": "1864年6月11日，作曲家兼指挥家理查德·施特劳斯出生于慕尼黑。他成为19世纪末至20世纪上半叶德国音乐的重要人物之一。",
+      "ja": "1864年6月11日、作曲家で指揮者のリヒャルト・シュトラウスがミュンヘンで生まれました。彼は19世紀後半から20世紀前半にかけてのドイツ音楽を代表する人物の一人となりました。",
+      "ko": "1864년 6월 11일 작곡가이자 지휘자인 리하르트 슈트라우스가 뮌헨에서 태어났습니다. 그는 19세기 말부터 20세기 전반까지 독일 음악의 주요 인물 중 하나가 되었습니다.",
+      "hi": "11 जून 1864 को संगीतकार और संचालक रिखार्ड श्ट्राउस का जन्म म्यूनिख में हुआ। वे उन्नीसवीं सदी के अंत से बीसवीं सदी के पहले आधे तक जर्मन संगीत की बड़ी हस्तियों में से एक बने।",
+      "ar": "في 11 يونيو 1864 ولد المؤلف الموسيقي وقائد الاوركسترا ريتشارد شتراوس في ميونخ. اصبح من ابرز شخصيات الموسيقى الالمانية من اواخر القرن التاسع عشر الى النصف الاول من القرن العشرين."
     },
     "importance": {
       "ru": "Штраус связывает Баварию с историей оперы, симфонической музыки и европейского модерна.",
       "de": "Strauss verbindet Bayern mit der Geschichte von Oper, sinfonischer Musik und europaeischer Moderne.",
-      "en": "Strauss connects Bavaria with the history of opera, symphonic music and European modernism."
+      "en": "Strauss connects Bavaria with the history of opera, symphonic music and European modernism.",
+      "fr": "Strauss relie la Baviere a l'histoire de l'opera, de la musique symphonique et de la modernite europeenne.",
+      "es": "Strauss une Baviera con la historia de la opera, la musica sinfonica y el modernismo europeo.",
+      "it": "Strauss collega la Baviera alla storia dell'opera, della musica sinfonica e della modernita europea.",
+      "pt": "Strauss liga a Baviera a historia da opera, da musica sinfonica e do modernismo europeu.",
+      "nl": "Strauss verbindt Beieren met de geschiedenis van opera, symfonische muziek en Europese moderniteit.",
+      "pl": "Strauss laczy Bawarie z historia opery, muzyki symfonicznej i europejskiego modernizmu.",
+      "tr": "Strauss Bavyera'yi opera, senfonik muzik ve Avrupa modernizmi tarihiyle baglar.",
+      "zh": "施特劳斯把巴伐利亚与歌剧、交响音乐和欧洲现代主义的历史联系在一起。",
+      "ja": "シュトラウスは、バイエルンをオペラ、交響音楽、ヨーロッパ近代の歴史と結びつけています。",
+      "ko": "슈트라우스는 바이에른을 오페라, 교향악, 유럽 모더니즘의 역사와 연결합니다.",
+      "hi": "श्ट्राउस बवेरिया को ओपेरा, सिम्फोनिक संगीत और यूरोपीय आधुनिकता के इतिहास से जोड़ते हैं।",
+      "ar": "يربط شتراوس بافاريا بتاريخ الاوبرا والموسيقى السمفونية والحداثة الاوروبية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Симфонические поэмы и оперы",
           "de": "Tondichtungen und Opern",
-          "en": "Tone poems and operas"
+          "en": "Tone poems and operas",
+          "fr": "Poemes symphoniques et operas",
+          "es": "Poemas sinfonicos y operas",
+          "it": "Poemi sinfonici e opere",
+          "pt": "Poemas sinfonicos e operas",
+          "nl": "Toongedichten en opera's",
+          "pl": "Poematy symfoniczne i opery",
+          "tr": "Senfonik siirler ve operalar",
+          "zh": "交响诗与歌剧",
+          "ja": "交響詩とオペラ",
+          "ko": "교향시와 오페라",
+          "hi": "सिम्फोनिक कविताएं और ओपेरा",
+          "ar": "قصائد سمفونية واوبرات"
         },
         "description": {
           "ru": "Штраус прославился симфоническими поэмами и операми, включая «Так говорил Заратустра», «Саломе» и «Кавалера розы». Его музыка часто звучит ярко, театрально и очень образно.",
           "de": "Strauss wurde durch Tondichtungen und Opern wie Also sprach Zarathustra, Salome und Der Rosenkavalier beruehmt. Seine Musik wirkt oft farbig, theatralisch und sehr bildhaft.",
-          "en": "Strauss became famous for tone poems and operas such as Also sprach Zarathustra, Salome and Der Rosenkavalier. His music often sounds vivid, theatrical and highly pictorial."
+          "en": "Strauss became famous for tone poems and operas such as Also sprach Zarathustra, Salome and Der Rosenkavalier. His music often sounds vivid, theatrical and highly pictorial.",
+          "fr": "Strauss devint celebre grace a des poemes symphoniques et des operas comme Ainsi parlait Zarathoustra, Salome et Le Chevalier a la rose. Sa musique sonne souvent vive, theatrale et tres imagee.",
+          "es": "Strauss se hizo famoso por poemas sinfonicos y operas como Asi hablo Zaratustra, Salome y El caballero de la rosa. Su musica suele sonar viva, teatral y muy visual.",
+          "it": "Strauss divenne famoso per poemi sinfonici e opere come Cosi parlo Zarathustra, Salome e Il cavaliere della rosa. La sua musica suona spesso vivida, teatrale e molto figurativa.",
+          "pt": "Strauss ficou famoso por poemas sinfonicos e operas como Assim Falou Zaratustra, Salome e O Cavaleiro da Rosa. Sua musica muitas vezes soa viva, teatral e muito imagetica.",
+          "nl": "Strauss werd beroemd door toongedichten en opera's zoals Also sprach Zarathustra, Salome en Der Rosenkavalier. Zijn muziek klinkt vaak kleurrijk, theatraal en zeer beeldend.",
+          "pl": "Strauss zaslynal poematami symfonicznymi i operami, takimi jak Tako rzecze Zaratustra, Salome i Kawaler srebrnej rozy. Jego muzyka czesto brzmi barwnie, teatralnie i bardzo obrazowo.",
+          "tr": "Strauss, Boyle Buyurdu Zerdust, Salome ve Der Rosenkavalier gibi senfonik siirler ve operalarla unlendi. Muzigi sikca canli, teatral ve cok imgeli duyulur.",
+          "zh": "施特劳斯因《查拉图斯特拉如是说》、《莎乐美》和《玫瑰骑士》等交响诗和歌剧而闻名。他的音乐常常鲜明、戏剧化并富有画面感。",
+          "ja": "シュトラウスは『ツァラトゥストラはかく語りき』『サロメ』『ばらの騎士』などの交響詩やオペラで有名になりました。彼の音楽はしばしば鮮やかで劇的、そして非常に絵画的に響きます。",
+          "ko": "슈트라우스는 차라투스트라는 이렇게 말했다, 살로메, 장미의 기사 같은 교향시와 오페라로 유명해졌습니다. 그의 음악은 종종 생생하고 극적이며 매우 회화적으로 들립니다.",
+          "hi": "श्ट्राउस 'इस प्रकार बोले ज़रथुस्त्र', 'सालोमे' और 'द रोज़नकावालियर' जैसी सिम्फोनिक कविताओं और ओपेराओं से प्रसिद्ध हुए। उनका संगीत अक्सर रंगीन, नाटकीय और बहुत चित्रात्मक लगता है।",
+          "ar": "اشتهر شتراوس بالقصائد السمفونية والاوبرات مثل هكذا تكلم زرادشت وسالومي وفارس الوردة. غالبا ما تبدو موسيقاه زاهية ومسرحية وغنية بالصور."
         },
         "importance": {
           "ru": "Он показывает, как немецкая музыка перешла от романтизма к более современному звучанию.",
           "de": "Er zeigt, wie deutsche Musik vom Romantischen zu moderneren Klangwelten ueberging.",
-          "en": "He shows how German music moved from Romanticism toward more modern sound worlds."
+          "en": "He shows how German music moved from Romanticism toward more modern sound worlds.",
+          "fr": "Il montre comment la musique allemande passa du romantisme vers des univers sonores plus modernes.",
+          "es": "Muestra como la musica alemana paso del romanticismo hacia mundos sonoros mas modernos.",
+          "it": "Mostra come la musica tedesca passo dal Romanticismo verso mondi sonori piu moderni.",
+          "pt": "Ele mostra como a musica alema passou do romantismo para mundos sonoros mais modernos.",
+          "nl": "Hij laat zien hoe Duitse muziek van de romantiek naar modernere klankwerelden bewoog.",
+          "pl": "Pokazuje, jak muzyka niemiecka przechodzila od romantyzmu ku bardziej nowoczesnym swiatom dzwiekowym.",
+          "tr": "Alman muziginin romantizmden daha modern ses dunyalarina nasil gectigini gosterir.",
+          "zh": "他展示了德国音乐如何从浪漫主义走向更现代的声音世界。",
+          "ja": "彼は、ドイツ音楽がロマン主義からより現代的な響きの世界へ移っていく様子を示しています。",
+          "ko": "그는 독일 음악이 낭만주의에서 더 현대적인 음향 세계로 이동한 방식을 보여 줍니다.",
+          "hi": "वे दिखाते हैं कि जर्मन संगीत रोमांटिकता से अधिक आधुनिक ध्वनि संसारों की ओर कैसे बढ़ा।",
+          "ar": "يوضح كيف انتقلت الموسيقى الالمانية من الرومانسية الى عوالم صوتية اكثر حداثة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Мюнхенская музыкальная среда",
           "de": "Muenchner Musikumfeld",
-          "en": "Munich musical environment"
+          "en": "Munich musical environment",
+          "fr": "Le milieu musical munichois",
+          "es": "El ambiente musical de Munich",
+          "it": "L'ambiente musicale di Monaco",
+          "pt": "O ambiente musical de Munique",
+          "nl": "Muzikale omgeving van Muenchen",
+          "pl": "Monachijskie srodowisko muzyczne",
+          "tr": "Munih muzik ortami",
+          "zh": "慕尼黑的音乐环境",
+          "ja": "ミュンヘンの音楽環境",
+          "ko": "뮌헨의 음악 환경",
+          "hi": "म्यूनिख का संगीत वातावरण",
+          "ar": "البيئة الموسيقية في ميونخ"
         },
         "description": {
           "ru": "Штраус вырос в музыкальной семье: его отец был валторнистом придворного оркестра в Мюнхене. Такая среда рано ввела будущего композитора в мир профессиональной музыки.",
           "de": "Strauss wuchs in einer Musikerfamilie auf: Sein Vater war Hornist im Muenchner Hoforchester. Dieses Umfeld brachte den spaeteren Komponisten frueh mit professioneller Musik in Beruehrung.",
-          "en": "Strauss grew up in a musical family: his father was a horn player in the Munich court orchestra. This environment introduced the future composer early to professional music."
+          "en": "Strauss grew up in a musical family: his father was a horn player in the Munich court orchestra. This environment introduced the future composer early to professional music.",
+          "fr": "Strauss grandit dans une famille de musiciens: son pere etait corniste dans l'orchestre de la cour de Munich. Ce milieu mit tres tot le futur compositeur en contact avec la musique professionnelle.",
+          "es": "Strauss crecio en una familia musical: su padre era trompista en la orquesta de la corte de Munich. Ese ambiente acerco pronto al futuro compositor a la musica profesional.",
+          "it": "Strauss crebbe in una famiglia di musicisti: suo padre era cornista nell'orchestra di corte di Monaco. Questo ambiente mise presto il futuro compositore a contatto con la musica professionale.",
+          "pt": "Strauss cresceu em uma familia musical: seu pai era trompista na orquestra da corte de Munique. Esse ambiente aproximou cedo o futuro compositor da musica profissional.",
+          "nl": "Strauss groeide op in een muzikale familie: zijn vader was hoornist in het hoforkest van Muenchen. Deze omgeving bracht de latere componist al vroeg in contact met professionele muziek.",
+          "pl": "Strauss dorastal w rodzinie muzycznej: jego ojciec byl waltornista w monachijskiej orkiestrze dworskiej. To srodowisko wczesnie wprowadzilo przyszlego kompozytora w swiat muzyki zawodowej.",
+          "tr": "Strauss muzikci bir ailede buyudu: babasi Munih saray orkestrasinda korno caliyordu. Bu ortam gelecekteki besteciyi erken yasta profesyonel muzikle tanistirdi.",
+          "zh": "施特劳斯成长于音乐家庭：他的父亲是慕尼黑宫廷乐团的圆号手。这样的环境让这位未来作曲家很早就接触到职业音乐。",
+          "ja": "シュトラウスは音楽一家に育ちました。父はミュンヘン宮廷管弦楽団のホルン奏者でした。この環境が、後の作曲家を早くからプロの音楽の世界へ導きました。",
+          "ko": "슈트라우스는 음악가 집안에서 자랐습니다. 그의 아버지는 뮌헨 궁정 오케스트라의 호른 연주자였습니다. 이런 환경은 훗날 작곡가가 될 그를 일찍부터 전문 음악의 세계로 이끌었습니다.",
+          "hi": "श्ट्राउस एक संगीत परिवार में पले-बढ़े: उनके पिता म्यूनिख दरबारी ऑर्केस्ट्रा में हॉर्न वादक थे। इस वातावरण ने भावी संगीतकार को जल्दी ही पेशेवर संगीत की दुनिया से परिचित करा दिया।",
+          "ar": "نشأ شتراوس في عائلة موسيقية: كان والده عازف هورن في اوركسترا البلاط في ميونخ. ادخلت هذه البيئة المؤلف المستقبلي مبكرا الى عالم الموسيقى الاحترافية."
         },
         "importance": {
           "ru": "Биография Штрауса хорошо показывает роль дворов, театров и оркестров в культурной жизни немецких земель.",
           "de": "Strauss' Biografie zeigt gut die Rolle von Hoefen, Theatern und Orchestern im kulturellen Leben der deutschen Laender.",
-          "en": "Strauss's biography shows the role of courts, theaters and orchestras in the cultural life of the German lands."
+          "en": "Strauss's biography shows the role of courts, theaters and orchestras in the cultural life of the German lands.",
+          "fr": "La biographie de Strauss montre bien le role des cours, des theatres et des orchestres dans la vie culturelle des terres allemandes.",
+          "es": "La biografia de Strauss muestra bien el papel de las cortes, los teatros y las orquestas en la vida cultural de las tierras alemanas.",
+          "it": "La biografia di Strauss mostra bene il ruolo di corti, teatri e orchestre nella vita culturale delle terre tedesche.",
+          "pt": "A biografia de Strauss mostra bem o papel das cortes, dos teatros e das orquestras na vida cultural das terras alemas.",
+          "nl": "Strauss' biografie laat goed de rol zien van hoven, theaters en orkesten in het culturele leven van de Duitse landen.",
+          "pl": "Biografia Straussa dobrze pokazuje role dworow, teatrow i orkiestr w zyciu kulturalnym ziem niemieckich.",
+          "tr": "Strauss'un biyografisi, Alman topraklarinin kulturel yasaminda saraylarin, tiyatrolarin ve orkestralarin rolunu iyi gosterir.",
+          "zh": "施特劳斯的传记很好地展示了宫廷、剧院和乐团在德国各地文化生活中的作用。",
+          "ja": "シュトラウスの伝記は、ドイツ各地の文化生活における宮廷、劇場、オーケストラの役割をよく示しています。",
+          "ko": "슈트라우스의 전기는 독일 지역의 문화 생활에서 궁정, 극장, 오케스트라가 맡은 역할을 잘 보여 줍니다.",
+          "hi": "श्ट्राउस की जीवनी जर्मन क्षेत्रों के सांस्कृतिक जीवन में दरबारों, थिएटरों और ऑर्केस्ट्रा की भूमिका अच्छी तरह दिखाती है।",
+          "ar": "تظهر سيرة شتراوس جيدا دور البلاطات والمسارح والاوركسترات في الحياة الثقافية للاراضي الالمانية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Вступление к «Так говорил Заратустра» стало всемирно известным после фильма «2001: Космическая одиссея».",
     "de": "Der Beginn von Also sprach Zarathustra wurde durch den Film 2001: Odyssee im Weltraum weltweit bekannt.",
-    "en": "The opening of Also sprach Zarathustra became world-famous through the film 2001: A Space Odyssey."
+    "en": "The opening of Also sprach Zarathustra became world-famous through the film 2001: A Space Odyssey.",
+    "fr": "L'ouverture d'Ainsi parlait Zarathoustra devint mondialement celebre grace au film 2001: l'Odyssee de l'espace.",
+    "es": "El comienzo de Asi hablo Zaratustra se hizo mundialmente famoso gracias a la pelicula 2001: Una odisea del espacio.",
+    "it": "L'inizio di Cosi parlo Zarathustra divenne famoso in tutto il mondo grazie al film 2001: Odissea nello spazio.",
+    "pt": "A abertura de Assim Falou Zaratustra tornou-se mundialmente famosa por meio do filme 2001: Uma Odisseia no Espaco.",
+    "nl": "De opening van Also sprach Zarathustra werd wereldberoemd door de film 2001: A Space Odyssey.",
+    "pl": "Poczatek Tako rzecze Zaratustra stal sie znany na calym swiecie dzieki filmowi 2001: Odyseja kosmiczna.",
+    "tr": "Boyle Buyurdu Zerdust'un girisi, 2001: Bir Uzay Destani filmi sayesinde dunya capinda unlu oldu.",
+    "zh": "《查拉图斯特拉如是说》的开头因电影《2001太空漫游》而举世闻名。",
+    "ja": "『ツァラトゥストラはかく語りき』の冒頭は、映画『2001年宇宙の旅』によって世界的に有名になりました。",
+    "ko": "차라투스트라는 이렇게 말했다의 도입부는 영화 2001: 스페이스 오디세이를 통해 세계적으로 유명해졌습니다.",
+    "hi": "'इस प्रकार बोले ज़रथुस्त्र' की शुरुआत फिल्म '2001: ए स्पेस ओडिसी' के कारण विश्व प्रसिद्ध हो गई।",
+    "ar": "اصبحت مقدمة هكذا تكلم زرادشت مشهورة عالميا بفضل فيلم 2001: اوديسة الفضاء."
   },
   "sources": [
     {
