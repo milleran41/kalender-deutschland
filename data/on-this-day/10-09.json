@@ -11,17 +11,53 @@
     "title": {
       "ru": "Большая демонстрация в Лейпциге",
       "de": "Grosse Montagsdemonstration in Leipzig",
-      "en": "Large Monday demonstration in Leipzig"
+      "en": "Large Monday demonstration in Leipzig",
+      "fr": "Grande manifestation du lundi à Leipzig",
+      "es": "Gran manifestacion de lunes en Leipzig",
+      "it": "Grande manifestazione del lunedi a Lipsia",
+      "pt": "Grande manifestacao de segunda-feira em Leipzig",
+      "nl": "Grote maandagdemonstratie in Leipzig",
+      "pl": "Wielka demonstracja poniedzialkowa w Lipsku",
+      "tr": "Leipzig'de buyuk Pazartesi gosterisi",
+      "zh": "莱比锡大型星期一示威",
+      "ja": "ライプツィヒの大規模な月曜デモ",
+      "ko": "라이프치히의 대규모 월요 시위",
+      "hi": "लाइपज़िग में बड़ा सोमवार प्रदर्शन",
+      "ar": "مظاهرة اثنين كبيرة في لايبزيغ"
     },
     "description": {
       "ru": "9 октября 1989 года около 70 000 человек вышли на улицы Лейпцига с лозунгом «Мы - народ». Власти ГДР стянули силы безопасности, но массового насилия удалось избежать.",
       "de": "Am 9. Oktober 1989 gingen in Leipzig etwa 70.000 Menschen mit dem Ruf \"Wir sind das Volk\" auf die Strasse. Die DDR-Fuehrung hatte Sicherheitskraefte bereitgestellt, doch eine gewaltsame Eskalation blieb aus.",
-      "en": "On 9 October 1989, about 70,000 people marched through Leipzig chanting \"We are the people\". East German authorities had deployed security forces, but large-scale violence was avoided."
+      "en": "On 9 October 1989, about 70,000 people marched through Leipzig chanting \"We are the people\". East German authorities had deployed security forces, but large-scale violence was avoided.",
+      "fr": "Le 9 octobre 1989, environ 70 000 personnes defilerent dans Leipzig en scandant «Nous sommes le peuple». Les autorites de la RDA avaient deploye des forces de securite, mais la violence de masse fut evitee.",
+      "es": "El 9 de octubre de 1989, unas 70 000 personas marcharon por Leipzig con el lema «Somos el pueblo». Las autoridades de la RDA habian desplegado fuerzas de seguridad, pero se evito la violencia masiva.",
+      "it": "Il 9 ottobre 1989 circa 70.000 persone marciarono per Lipsia gridando «Noi siamo il popolo». Le autorita della DDR avevano schierato forze di sicurezza, ma si evito una violenza di massa.",
+      "pt": "Em 9 de outubro de 1989, cerca de 70.000 pessoas marcharam por Leipzig gritando «Nos somos o povo». As autoridades da RDA haviam mobilizado forcas de seguranca, mas a violencia em massa foi evitada.",
+      "nl": "Op 9 oktober 1989 trokken ongeveer 70.000 mensen door Leipzig met de leus 'Wij zijn het volk'. De DDR-autoriteiten hadden veiligheidstroepen ingezet, maar grootschalig geweld werd vermeden.",
+      "pl": "9 pazdziernika 1989 roku okolo 70 000 ludzi wyszlo na ulice Lipska z haslem „My jestesmy narodem”. Wladze NRD sciagnely sily bezpieczenstwa, ale udalo sie uniknac masowej przemocy.",
+      "tr": "9 Ekim 1989'da yaklasik 70.000 kisi Leipzig sokaklarinda \"Biz halkiz\" sloganini atarak yurudu. Dogu Alman yetkililer guvenlik guclerini konuslandirmisti, ancak buyuk capli siddet onlendi.",
+      "zh": "1989年10月9日，约7万人走上莱比锡街头，高喊“我们是人民”。东德当局已部署安全部队，但大规模暴力得以避免。",
+      "ja": "1989年10月9日、約7万人が「我々が人民だ」と叫びながらライプツィヒを行進しました。東ドイツ当局は治安部隊を配置していましたが、大規模な暴力は避けられました。",
+      "ko": "1989년 10월 9일, 약 7만 명이 \"우리가 국민이다\"라는 구호를 외치며 라이프치히 거리를 행진했다. 동독 당국은 보안 병력을 배치했지만 대규모 폭력은 피할 수 있었다.",
+      "hi": "9 अक्टूबर 1989 को लगभग 70,000 लोग «हम ही जनता हैं» के नारे के साथ लाइपज़िग की सड़कों पर निकले। पूर्वी जर्मन अधिकारियों ने सुरक्षा बल तैनात किए थे, लेकिन बड़े पैमाने की हिंसा टल गई।",
+      "ar": "في 9 اكتوبر 1989 سار نحو 70 الف شخص في شوارع لايبزيغ وهم يهتفون «نحن الشعب». وكانت سلطات المانيا الشرقية قد نشرت قوات الامن، لكن تم تجنب العنف الواسع."
     },
     "importance": {
       "ru": "Этот вечер стал переломным моментом Мирной революции и показал, что страх перед режимом начал отступать.",
       "de": "Dieser Abend wurde zu einem Wendepunkt der Friedlichen Revolution und zeigte, dass die Angst vor dem Regime schwand.",
-      "en": "The evening became a turning point of the Peaceful Revolution and showed that fear of the regime was fading."
+      "en": "The evening became a turning point of the Peaceful Revolution and showed that fear of the regime was fading.",
+      "fr": "Cette soiree devint un tournant de la revolution pacifique et montra que la peur du regime commencait à reculer.",
+      "es": "Esa noche se convirtio en un punto de inflexion de la Revolucion Pacifica y mostro que el miedo al regimen empezaba a retroceder.",
+      "it": "Quella sera divenne un punto di svolta della Rivoluzione pacifica e mostro che la paura del regime stava svanendo.",
+      "pt": "Aquela noite tornou-se um ponto de virada da Revolucao Pacifica e mostrou que o medo do regime estava diminuindo.",
+      "nl": "Die avond werd een keerpunt van de Vreedzame Revolutie en liet zien dat de angst voor het regime afnam.",
+      "pl": "Ten wieczor stal sie punktem zwrotnym Pokojowej Rewolucji i pokazal, ze strach przed rezimem zaczal ustepowac.",
+      "tr": "O aksam Bariscil Devrim'in donum noktasi oldu ve rejime duyulan korkunun azalmaya basladigini gosterdi.",
+      "zh": "这个夜晚成为和平革命的转折点，并显示人们对政权的恐惧开始退去。",
+      "ja": "この夜は平和革命の転機となり、体制への恐怖が薄れ始めていることを示しました。",
+      "ko": "그 저녁은 평화혁명의 전환점이 되었고 정권에 대한 두려움이 사라지기 시작했음을 보여주었다.",
+      "hi": "यह शाम शांतिपूर्ण क्रांति का मोड़ बनी और दिखाया कि शासन का डर कम होने लगा था।",
+      "ar": "اصبحت تلك الليلة نقطة تحول في الثورة السلمية واظهرت ان الخوف من النظام بدأ يتراجع."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Молитвы за мир у церкви Святого Николая",
           "de": "Friedensgebete an der Nikolaikirche",
-          "en": "Prayers for peace at St Nicholas Church"
+          "en": "Prayers for peace at St Nicholas Church",
+          "fr": "Prieres pour la paix à l'eglise Saint-Nicolas",
+          "es": "Oraciones por la paz en la iglesia de San Nicolas",
+          "it": "Preghiere per la pace alla chiesa di San Nicola",
+          "pt": "Oracoes pela paz na Igreja de Sao Nicolau",
+          "nl": "Vredesgebeden bij de Nikolaikirche",
+          "pl": "Modlitwy o pokoj przy kosciele sw. Mikolaja",
+          "tr": "Aziz Nikola Kilisesi'nde baris dualari",
+          "zh": "圣尼古拉教堂的和平祈祷",
+          "ja": "聖ニコライ教会での平和祈祷",
+          "ko": "성 니콜라이 교회의 평화 기도",
+          "hi": "सेंट निकोलस चर्च में शांति प्रार्थनाएं",
+          "ar": "صلوات السلام في كنيسة القديس نيكولاس"
         },
         "description": {
           "ru": "Перед демонстрациями в Лейпциге важным местом встречи стала церковь Святого Николая. После молитв люди выходили на улицы, и движение постепенно стало массовым.",
           "de": "Vor den Demonstrationen wurde die Nikolaikirche in Leipzig zu einem wichtigen Treffpunkt. Nach den Friedensgebeten gingen Menschen auf die Strasse, und die Bewegung wurde immer groesser.",
-          "en": "Before the demonstrations, St Nicholas Church in Leipzig became an important meeting place. After prayers for peace, people went into the streets and the movement grew."
+          "en": "Before the demonstrations, St Nicholas Church in Leipzig became an important meeting place. After prayers for peace, people went into the streets and the movement grew.",
+          "fr": "Avant les manifestations, l'eglise Saint-Nicolas de Leipzig devint un lieu de rencontre important. Apres les prieres pour la paix, les gens descendaient dans la rue et le mouvement grandissait.",
+          "es": "Antes de las manifestaciones, la iglesia de San Nicolas en Leipzig se convirtio en un importante lugar de encuentro. Tras las oraciones por la paz, la gente salia a la calle y el movimiento crecia.",
+          "it": "Prima delle manifestazioni, la chiesa di San Nicola a Lipsia divenne un importante luogo di incontro. Dopo le preghiere per la pace, le persone uscivano in strada e il movimento cresceva.",
+          "pt": "Antes das manifestacoes, a Igreja de Sao Nicolau em Leipzig tornou-se um importante ponto de encontro. Depois das oracoes pela paz, as pessoas iam as ruas e o movimento crescia.",
+          "nl": "Voor de demonstraties werd de Nikolaikirche in Leipzig een belangrijke ontmoetingsplaats. Na de vredesgebeden gingen mensen de straat op en de beweging groeide.",
+          "pl": "Przed demonstracjami kosciol sw. Mikolaja w Lipsku stal sie waznym miejscem spotkan. Po modlitwach o pokoj ludzie wychodzili na ulice, a ruch stopniowo rosl.",
+          "tr": "Gosterilerden once Leipzig'deki Aziz Nikola Kilisesi onemli bir bulusma yeri oldu. Baris dualarindan sonra insanlar sokaklara cikti ve hareket buyudu.",
+          "zh": "示威之前，莱比锡圣尼古拉教堂成为重要聚会地点。和平祈祷之后，人们走上街头，运动逐渐壮大。",
+          "ja": "デモの前、ライプツィヒの聖ニコライ教会は重要な集合場所になりました。平和祈祷の後、人々は街頭に出て、運動は拡大していきました。",
+          "ko": "시위 이전에 라이프치히의 성 니콜라이 교회는 중요한 만남의 장소가 되었다. 평화 기도 후 사람들은 거리로 나갔고 운동은 점차 커졌다.",
+          "hi": "प्रदर्शनों से पहले लाइपज़िग का सेंट निकोलस चर्च महत्वपूर्ण मिलन स्थल बन गया। शांति प्रार्थनाओं के बाद लोग सड़कों पर निकलते थे और आंदोलन बढ़ता गया।",
+          "ar": "قبل المظاهرات اصبحت كنيسة القديس نيكولاس في لايبزيغ مكان لقاء مهما. وبعد صلوات السلام كان الناس يخرجون الى الشوارع، وتنامت الحركة تدريجيا."
         },
         "importance": {
           "ru": "Это показывает, как гражданское сопротивление росло не только из политики, но и из местных общин.",
           "de": "Das zeigt, dass ziviler Widerstand nicht nur aus Politik, sondern auch aus lokalen Gemeinschaften wuchs.",
-          "en": "It shows how civil resistance grew not only from politics but also from local communities."
+          "en": "It shows how civil resistance grew not only from politics but also from local communities.",
+          "fr": "Cela montre comment la resistance civile est nee non seulement de la politique, mais aussi des communautes locales.",
+          "es": "Muestra como la resistencia civil crecio no solo desde la politica, sino tambien desde comunidades locales.",
+          "it": "Mostra come la resistenza civile crebbe non solo dalla politica, ma anche dalle comunita locali.",
+          "pt": "Mostra como a resistencia civil cresceu nao apenas da politica, mas tambem das comunidades locais.",
+          "nl": "Het laat zien hoe burgerlijk verzet niet alleen uit politiek groeide, maar ook uit lokale gemeenschappen.",
+          "pl": "Pokazuje to, jak opor obywatelski wyrastal nie tylko z polityki, lecz takze z lokalnych wspolnot.",
+          "tr": "Bu, sivil direnisinin yalnizca siyasetten degil, yerel topluluklardan da buyudugunu gosterir.",
+          "zh": "这显示了公民抵抗不仅来自政治，也来自地方共同体。",
+          "ja": "市民の抵抗が政治だけでなく、地域共同体からも育ったことを示しています。",
+          "ko": "이는 시민 저항이 정치뿐 아니라 지역 공동체에서도 성장했음을 보여준다.",
+          "hi": "यह दिखाता है कि नागरिक प्रतिरोध केवल राजनीति से नहीं, स्थानीय समुदायों से भी बढ़ा।",
+          "ar": "يوضح ذلك كيف نما المقاومة المدنية ليس من السياسة فقط، بل من المجتمعات المحلية ايضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "«Чудо Лейпцига»",
           "de": "Das Wunder von Leipzig",
-          "en": "The miracle of Leipzig"
+          "en": "The miracle of Leipzig",
+          "fr": "Le miracle de Leipzig",
+          "es": "El milagro de Leipzig",
+          "it": "Il miracolo di Lipsia",
+          "pt": "O milagre de Leipzig",
+          "nl": "Het wonder van Leipzig",
+          "pl": "Cud Lipska",
+          "tr": "Leipzig mucizesi",
+          "zh": "莱比锡奇迹",
+          "ja": "ライプツィヒの奇跡",
+          "ko": "라이프치히의 기적",
+          "hi": "लाइपज़िग का चमत्कार",
+          "ar": "معجزة لايبزيغ"
         },
         "description": {
           "ru": "Многие участники боялись повторения китайского сценария на площади Тяньаньмэнь. То, что огромная демонстрация закончилась без кровопролития, позже часто называли «чудом Лейпцига».",
           "de": "Viele Teilnehmende fuerchteten eine Entwicklung wie kurz zuvor auf dem Tiananmen-Platz in China. Dass die riesige Demonstration ohne Blutvergiessen endete, wurde spaeter oft als Wunder von Leipzig bezeichnet.",
-          "en": "Many participants feared a crackdown like the one recently seen in China's Tiananmen Square. The fact that the huge demonstration ended without bloodshed was later often called the miracle of Leipzig."
+          "en": "Many participants feared a crackdown like the one recently seen in China's Tiananmen Square. The fact that the huge demonstration ended without bloodshed was later often called the miracle of Leipzig.",
+          "fr": "Beaucoup de participants craignaient une repression comme celle qui venait d'avoir lieu sur la place Tiananmen en Chine. Le fait que l'immense manifestation se soit terminee sans effusion de sang fut souvent appele plus tard le miracle de Leipzig.",
+          "es": "Muchos participantes temian una represion como la vista poco antes en la plaza de Tiananmen en China. Que la enorme manifestacion terminara sin derramamiento de sangre fue llamado despues a menudo el milagro de Leipzig.",
+          "it": "Molti partecipanti temevano una repressione come quella avvenuta poco prima in piazza Tiananmen in Cina. Il fatto che l'enorme manifestazione finisse senza spargimento di sangue fu poi spesso chiamato il miracolo di Lipsia.",
+          "pt": "Muitos participantes temiam uma repressao como a ocorrida pouco antes na Praca Tiananmen, na China. O fato de a enorme manifestacao terminar sem derramamento de sangue foi depois frequentemente chamado de milagre de Leipzig.",
+          "nl": "Veel deelnemers vreesden een hard optreden zoals kort daarvoor op het Tiananmenplein in China. Dat de enorme demonstratie zonder bloedvergieten eindigde, werd later vaak het wonder van Leipzig genoemd.",
+          "pl": "Wielu uczestnikow obawialo sie scenariusza podobnego do niedawnych wydarzen na placu Tiananmen w Chinach. To, ze ogromna demonstracja zakonczyla sie bez rozlewu krwi, pozniej czesto nazywano cudem Lipska.",
+          "tr": "Birçok katilimci, kisa sure once Çin'deki Tiananmen Meydani'nda gorulen gibi bir bastirmadan korkuyordu. Buyuk gosterinin kan dokulmeden sona ermesi daha sonra sikca Leipzig mucizesi olarak adlandirildi.",
+          "zh": "许多参与者担心会出现不久前中国天安门广场那样的镇压。如此巨大的示威最终没有流血，后来常被称为“莱比锡奇迹”。",
+          "ja": "多くの参加者は、少し前に中国の天安門広場で起きたような弾圧を恐れていました。巨大なデモが流血なしに終わったことは、後にしばしば「ライプツィヒの奇跡」と呼ばれました。",
+          "ko": "많은 참가자들은 얼마 전 중국 톈안먼 광장에서 벌어진 것과 같은 진압을 두려워했다. 거대한 시위가 유혈 없이 끝난 일은 훗날 라이프치히의 기적으로 자주 불렸다.",
+          "hi": "कई प्रतिभागियों को चीन के तियानआनमेन चौक जैसी हाल की कार्रवाई दोहराए जाने का डर था। इतनी बड़ी रैली का बिना रक्तपात खत्म होना बाद में अक्सर लाइपज़िग का चमत्कार कहा गया।",
+          "ar": "خاف كثير من المشاركين من قمع يشبه ما حدث قبل وقت قصير في ميدان تيانانمن في الصين. وحقيقة ان المظاهرة الضخمة انتهت من دون اراقة دماء سميت لاحقا كثيرا بمعجزة لايبزيغ."
         },
         "importance": {
           "ru": "Такой поворот сделал событие особенно сильным символом ненасильственного протеста.",
           "de": "Dadurch wurde das Ereignis zu einem besonders starken Symbol gewaltfreien Protests.",
-          "en": "That made the event a powerful symbol of non-violent protest."
+          "en": "That made the event a powerful symbol of non-violent protest.",
+          "fr": "Cela fit de l'evenement un symbole particulierement fort de la protestation non violente.",
+          "es": "Eso hizo del acontecimiento un simbolo especialmente fuerte de la protesta no violenta.",
+          "it": "Questo rese l'evento un simbolo particolarmente forte della protesta non violenta.",
+          "pt": "Isso tornou o evento um simbolo especialmente forte de protesto nao violento.",
+          "nl": "Daardoor werd de gebeurtenis een bijzonder sterk symbool van geweldloos protest.",
+          "pl": "To uczynilo wydarzenie szczegolnie silnym symbolem protestu bez przemocy.",
+          "tr": "Bu, olayi siddetsiz protestonun guclu bir sembolu haline getirdi.",
+          "zh": "这使该事件成为非暴力抗议的强有力象征。",
+          "ja": "そのため、この出来事は非暴力抗議の特に強い象徴となりました。",
+          "ko": "그로 인해 이 사건은 비폭력 시위의 강력한 상징이 되었다.",
+          "hi": "इससे यह घटना अहिंसक विरोध का बहुत मजबूत प्रतीक बन गई।",
+          "ar": "جعل ذلك الحدث رمزا قويا للاحتجاج اللاعنفي."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Лейпцигская фраза «Wir sind das Volk» позже сменилась на «Wir sind ein Volk», когда главным требованием стало объединение Германии.",
     "de": "Aus dem Leipziger Ruf \"Wir sind das Volk\" wurde spaeter \"Wir sind ein Volk\", als die deutsche Einheit in den Mittelpunkt rueckte.",
-    "en": "The Leipzig slogan \"We are the people\" later shifted to \"We are one people\" as German unity moved to the center of the movement."
+    "en": "The Leipzig slogan \"We are the people\" later shifted to \"We are one people\" as German unity moved to the center of the movement.",
+    "fr": "Le slogan de Leipzig «Nous sommes le peuple» devint plus tard «Nous sommes un seul peuple», lorsque l'unite allemande passa au centre du mouvement.",
+    "es": "El lema de Leipzig «Somos el pueblo» cambio mas tarde a «Somos un solo pueblo», cuando la unidad alemana paso al centro del movimiento.",
+    "it": "Lo slogan di Lipsia «Noi siamo il popolo» divenne piu tardi «Noi siamo un solo popolo», quando l'unita tedesca passo al centro del movimento.",
+    "pt": "O slogan de Leipzig «Nos somos o povo» depois mudou para «Nos somos um povo», quando a unidade alema passou ao centro do movimento.",
+    "nl": "De Leipziger leus 'Wij zijn het volk' veranderde later in 'Wij zijn een volk', toen de Duitse eenheid centraal kwam te staan.",
+    "pl": "Lipskie haslo „My jestesmy narodem” pozniej zmienilo sie w „Jestesmy jednym narodem”, gdy jednosc Niemiec znalazla sie w centrum ruchu.",
+    "tr": "Leipzig slogani \"Biz halkiz\" daha sonra Alman birligi hareketin merkezine gectiginde \"Biz tek halkiz\" sozune donustu.",
+    "zh": "莱比锡口号“我们是人民”后来变为“我们是一个民族”，因为德国统一成为运动的中心诉求。",
+    "ja": "ライプツィヒのスローガン「我々が人民だ」は、ドイツ統一が運動の中心になると、後に「我々は一つの民族だ」へと変わりました。",
+    "ko": "라이프치히의 구호 \"우리가 국민이다\"는 독일 통일이 운동의 중심이 되면서 나중에 \"우리는 하나의 국민이다\"로 바뀌었다.",
+    "hi": "लाइपज़िग का नारा «हम ही जनता हैं» बाद में «हम एक जनता हैं» में बदल गया, जब जर्मन एकता आंदोलन का मुख्य मुद्दा बन गई।",
+    "ar": "تحول شعار لايبزيغ «نحن الشعب» لاحقا الى «نحن شعب واحد» عندما اصبحت الوحدة الالمانية في مركز الحركة."
   },
   "sources": [
     {

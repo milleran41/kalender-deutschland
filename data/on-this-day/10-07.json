@@ -11,17 +11,53 @@
     "title": {
       "ru": "Основана Германская Демократическая Республика",
       "de": "Die Deutsche Demokratische Republik wird gegruendet",
-      "en": "The German Democratic Republic is founded"
+      "en": "The German Democratic Republic is founded",
+      "fr": "La Republique democratique allemande est fondee",
+      "es": "Se funda la Republica Democratica Alemana",
+      "it": "Nasce la Repubblica Democratica Tedesca",
+      "pt": "E fundada a Republica Democratica Alema",
+      "nl": "De Duitse Democratische Republiek wordt opgericht",
+      "pl": "Powstaje Niemiecka Republika Demokratyczna",
+      "tr": "Alman Demokratik Cumhuriyeti kuruldu",
+      "zh": "德意志民主共和国成立",
+      "ja": "ドイツ民主共和国が成立",
+      "ko": "독일민주공화국이 수립되다",
+      "hi": "जर्मन लोकतांत्रिक गणराज्य की स्थापना हुई",
+      "ar": "تأسيس جمهورية المانيا الديمقراطية"
     },
     "description": {
       "ru": "7 октября 1949 года в советской оккупационной зоне была провозглашена Германская Демократическая Республика. Так разделение Германии получило вторую государственную форму после создания ФРГ.",
       "de": "Am 7. Oktober 1949 wurde in der sowjetischen Besatzungszone die Deutsche Demokratische Republik gegruendet. Damit erhielt die deutsche Teilung nach der Gruendung der Bundesrepublik ihre zweite staatliche Form.",
-      "en": "On 7 October 1949, the German Democratic Republic was founded in the Soviet occupation zone. German division took its second state form after the creation of West Germany."
+      "en": "On 7 October 1949, the German Democratic Republic was founded in the Soviet occupation zone. German division took its second state form after the creation of West Germany.",
+      "fr": "Le 7 octobre 1949, la Republique democratique allemande fut proclamee dans la zone d'occupation sovietique. La division allemande prit ainsi une deuxieme forme etatique apres la creation de la RFA.",
+      "es": "El 7 de octubre de 1949 se proclamo la Republica Democratica Alemana en la zona de ocupacion sovietica. Asi, la division de Alemania recibio su segunda forma estatal tras la creacion de la RFA.",
+      "it": "Il 7 ottobre 1949 fu proclamata la Repubblica Democratica Tedesca nella zona di occupazione sovietica. Cosi la divisione tedesca assunse una seconda forma statale dopo la creazione della Germania Ovest.",
+      "pt": "Em 7 de outubro de 1949, a Republica Democratica Alema foi proclamada na zona de ocupacao sovietica. Assim, a divisao da Alemanha ganhou uma segunda forma estatal apos a criacao da Alemanha Ocidental.",
+      "nl": "Op 7 oktober 1949 werd in de Sovjetbezettingszone de Duitse Democratische Republiek opgericht. Daarmee kreeg de Duitse deling na de oprichting van West-Duitsland haar tweede staatsvorm.",
+      "pl": "7 pazdziernika 1949 roku w radzieckiej strefie okupacyjnej proklamowano Niemiecka Republike Demokratyczna. W ten sposob podzial Niemiec otrzymal druga forme panstwowa po utworzeniu RFN.",
+      "tr": "7 Ekim 1949'da Sovyet isgal bolgesinde Alman Demokratik Cumhuriyeti ilan edildi. Boylece Almanya'nin bolunmesi, Bati Almanya'nin kurulmasindan sonra ikinci devlet bicimini aldi.",
+      "zh": "1949年10月7日，德意志民主共和国在苏联占领区宣告成立。继西德成立之后，德国分裂由此获得了第二种国家形式。",
+      "ja": "1949年10月7日、ソ連占領地区でドイツ民主共和国が成立しました。西ドイツの成立に続き、ドイツ分断は第二の国家形態を持つことになりました。",
+      "ko": "1949년 10월 7일, 소련 점령 지역에서 독일민주공화국이 선포되었다. 서독 수립 이후 독일 분단은 두 번째 국가 형태를 갖게 되었다.",
+      "hi": "7 अक्टूबर 1949 को सोवियत कब्जा क्षेत्र में जर्मन लोकतांत्रिक गणराज्य की घोषणा की गई। पश्चिम जर्मनी की स्थापना के बाद जर्मनी के विभाजन को दूसरी राज्य-रूप मिला।",
+      "ar": "في 7 اكتوبر 1949 اعلنت جمهورية المانيا الديمقراطية في منطقة الاحتلال السوفيتية. وهكذا اتخذ انقسام المانيا شكله الدولتي الثاني بعد قيام المانيا الغربية."
     },
     "importance": {
       "ru": "Дата стала началом сорокалетней истории восточногерманского государства.",
       "de": "Das Datum markierte den Beginn der vierzigjaehrigen Geschichte des ostdeutschen Staates.",
-      "en": "The date marked the beginning of the forty-year history of the East German state."
+      "en": "The date marked the beginning of the forty-year history of the East German state.",
+      "fr": "Cette date marqua le debut des quarante ans d'histoire de l'Etat est-allemand.",
+      "es": "La fecha marco el comienzo de la historia de cuarenta anos del Estado de Alemania Oriental.",
+      "it": "La data segno l'inizio della storia quarantennale dello Stato tedesco-orientale.",
+      "pt": "A data marcou o inicio da historia de quarenta anos do Estado da Alemanha Oriental.",
+      "nl": "De datum markeerde het begin van de veertigjarige geschiedenis van de Oost-Duitse staat.",
+      "pl": "Ta data oznaczala poczatek czterdziestoletniej historii panstwa wschodnioniemieckiego.",
+      "tr": "Bu tarih, Dogu Alman devletinin kirk yillik tarihinin baslangici oldu.",
+      "zh": "这一日期标志着东德国家四十年历史的开始。",
+      "ja": "この日は、東ドイツ国家の40年にわたる歴史の始まりとなりました。",
+      "ko": "이 날짜는 동독 국가 40년 역사의 시작을 알렸다.",
+      "hi": "यह तारीख पूर्वी जर्मन राज्य के चालीस वर्षीय इतिहास की शुरुआत बनी।",
+      "ar": "شكل هذا التاريخ بداية تاريخ الدولة الالمانية الشرقية الذي استمر اربعين عاما."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Народная палата и власть СЕПГ",
           "de": "Volkskammer und SED-Herrschaft",
-          "en": "Volkskammer and SED rule"
+          "en": "Volkskammer and SED rule",
+          "fr": "Volkskammer et pouvoir du SED",
+          "es": "Volkskammer y dominio del SED",
+          "it": "Volkskammer e potere della SED",
+          "pt": "Volkskammer e dominio do SED",
+          "nl": "Volkskammer en SED-heerschappij",
+          "pl": "Izba Ludowa i wladza SED",
+          "tr": "Volkskammer ve SED iktidari",
+          "zh": "人民议会与统一社会党的统治",
+          "ja": "人民議会とSED支配",
+          "ko": "인민의회와 SED 지배",
+          "hi": "जनसभा और एसईडी शासन",
+          "ar": "مجلس الشعب وحكم حزب الوحدة الاشتراكي"
         },
         "description": {
           "ru": "ГДР имела парламентские формы, но реальная власть принадлежала СЕПГ. Это отличало её от демократического парламентаризма.",
           "de": "Die DDR hatte parlamentarische Formen, doch die wirkliche Macht lag bei der SED. Das unterschied sie von demokratischem Parlamentarismus.",
-          "en": "The GDR had parliamentary forms, but real power belonged to the SED. This distinguished it from democratic parliamentarism."
+          "en": "The GDR had parliamentary forms, but real power belonged to the SED. This distinguished it from democratic parliamentarism.",
+          "fr": "La RDA possedait des formes parlementaires, mais le pouvoir reel appartenait au SED. Cela la distinguait du parlementarisme democratique.",
+          "es": "La RDA tenia formas parlamentarias, pero el poder real pertenecia al SED. Eso la diferenciaba del parlamentarismo democratico.",
+          "it": "La DDR aveva forme parlamentari, ma il potere reale apparteneva alla SED. Questo la distingueva dal parlamentarismo democratico.",
+          "pt": "A RDA tinha formas parlamentares, mas o poder real pertencia ao SED. Isso a distinguia do parlamentarismo democratico.",
+          "nl": "De DDR had parlementaire vormen, maar de werkelijke macht lag bij de SED. Dat onderscheidde haar van democratisch parlementarisme.",
+          "pl": "NRD miala formy parlamentarne, ale rzeczywista wladza nalezala do SED. Odroznialo ja to od demokratycznego parlamentaryzmu.",
+          "tr": "DDR parlamenter bicimlere sahipti, ancak gercek iktidar SED'in elindeydi. Bu, onu demokratik parlamentarizmden ayiriyordu.",
+          "zh": "东德拥有议会形式，但真正权力属于统一社会党。这使它不同于民主议会制度。",
+          "ja": "東ドイツには議会の形式がありましたが、実際の権力はSEDにありました。これは民主的議会主義とは異なる点でした。",
+          "ko": "동독에는 의회적 형식이 있었지만 실제 권력은 SED에 있었다. 이는 민주적 의회주의와 구별되는 점이었다.",
+          "hi": "जीडीआर में संसदीय रूप थे, लेकिन वास्तविक सत्ता एसईडी के पास थी। यही उसे लोकतांत्रिक संसदीय व्यवस्था से अलग करता था।",
+          "ar": "كانت في المانيا الشرقية اشكال برلمانية، لكن السلطة الحقيقية كانت بيد حزب الوحدة الاشتراكي. وهذا ما ميزها عن البرلمانية الديمقراطية."
         },
         "importance": {
           "ru": "Это помогает понять, почему одно слово «демократическая» в названии ещё не делает государство демократией.",
           "de": "Das hilft zu verstehen, warum das Wort demokratisch im Namen noch keine Demokratie schafft.",
-          "en": "It helps explain why the word democratic in a name does not make a state democratic."
+          "en": "It helps explain why the word democratic in a name does not make a state democratic.",
+          "fr": "Cela aide à comprendre pourquoi le mot democratique dans un nom ne suffit pas à faire d'un Etat une democratie.",
+          "es": "Ayuda a entender por que la palabra democratica en un nombre no convierte a un Estado en democracia.",
+          "it": "Aiuta a capire perche la parola democratica nel nome non rende automaticamente uno Stato una democrazia.",
+          "pt": "Ajuda a entender por que a palavra democratica no nome nao torna um Estado uma democracia.",
+          "nl": "Het helpt verklaren waarom het woord democratisch in een naam een staat nog niet democratisch maakt.",
+          "pl": "Pomaga to zrozumiec, dlaczego samo slowo demokratyczna w nazwie nie czyni panstwa demokracja.",
+          "tr": "Bu, bir isimdeki demokratik kelimesinin bir devleti demokrasi yapmaya yetmedigini aciklar.",
+          "zh": "这有助于理解，名称中的“民主”一词并不会自动使一个国家成为民主国家。",
+          "ja": "名称に民主的という言葉があっても、その国家が民主主義になるわけではないことを理解する助けになります。",
+          "ko": "이는 이름에 민주라는 말이 있다고 해서 국가가 민주주의가 되는 것은 아님을 설명해 준다.",
+          "hi": "यह समझने में मदद करता है कि नाम में लोकतांत्रिक शब्द होने से कोई राज्य लोकतंत्र नहीं बन जाता।",
+          "ar": "يساعد ذلك على فهم ان وجود كلمة ديمقراطية في الاسم لا يجعل الدولة ديمقراطية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "ГДР просуществовала с 1949 года до воссоединения Германии 3 октября 1990 года.",
     "de": "Die DDR bestand von 1949 bis zur deutschen Wiedervereinigung am 3. Oktober 1990.",
-    "en": "The GDR existed from 1949 until German reunification on 3 October 1990."
+    "en": "The GDR existed from 1949 until German reunification on 3 October 1990.",
+    "fr": "La RDA exista de 1949 jusqu'a la reunification allemande du 3 octobre 1990.",
+    "es": "La RDA existio desde 1949 hasta la reunificacion alemana del 3 de octubre de 1990.",
+    "it": "La DDR esistette dal 1949 fino alla riunificazione tedesca del 3 ottobre 1990.",
+    "pt": "A RDA existiu de 1949 ate a reunificacao alema em 3 de outubro de 1990.",
+    "nl": "De DDR bestond van 1949 tot de Duitse hereniging op 3 oktober 1990.",
+    "pl": "NRD istniala od 1949 roku do zjednoczenia Niemiec 3 pazdziernika 1990 roku.",
+    "tr": "DDR, 1949'dan 3 Ekim 1990'daki Alman yeniden birlesmesine kadar var oldu.",
+    "zh": "东德从1949年存在到1990年10月3日德国统一。",
+    "ja": "東ドイツは1949年から1990年10月3日のドイツ再統一まで存在しました。",
+    "ko": "동독은 1949년부터 1990년 10월 3일 독일 재통일까지 존재했다.",
+    "hi": "जीडीआर 1949 से 3 अक्टूबर 1990 को जर्मन पुनर्एकीकरण तक अस्तित्व में रहा।",
+    "ar": "استمرت المانيا الشرقية من عام 1949 حتى اعادة توحيد المانيا في 3 اكتوبر 1990."
   },
   "sources": [
     {
