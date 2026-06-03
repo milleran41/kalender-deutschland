@@ -11,17 +11,53 @@
     "title": {
       "ru": "Принят закон о страховании от несчастных случаев",
       "de": "Das Unfallversicherungsgesetz wird beschlossen",
-      "en": "The accident insurance law is passed"
+      "en": "The accident insurance law is passed",
+      "fr": "La loi sur l'assurance accidents est adoptée",
+      "es": "Se aprueba la ley de seguro de accidentes",
+      "it": "Viene approvata la legge sull'assicurazione contro gli infortuni",
+      "pt": "É aprovada a lei do seguro contra acidentes",
+      "nl": "De wet op de ongevallenverzekering wordt aangenomen",
+      "pl": "Uchwalono ustawę o ubezpieczeniu od wypadków",
+      "tr": "Kaza sigortası yasası kabul edilir",
+      "zh": "事故保险法通过",
+      "ja": "災害保険法が成立",
+      "ko": "산재보험법이 통과되다",
+      "hi": "दुर्घटना बीमा कानून पारित हुआ",
+      "ar": "إقرار قانون التأمين ضد الحوادث"
     },
     "description": {
       "ru": "6 июля 1884 года в Германской империи был принят закон о страховании рабочих от несчастных случаев. Он стал ещё одним важным элементом раннего социального страхования.",
       "de": "Am 6. Juli 1884 wurde im Deutschen Reich das Unfallversicherungsgesetz fuer Arbeiter beschlossen. Es wurde ein weiterer wichtiger Baustein der fruehen Sozialversicherung.",
-      "en": "On 6 July 1884, the German Empire passed the accident insurance law for workers. It became another important building block of early social insurance."
+      "en": "On 6 July 1884, the German Empire passed the accident insurance law for workers. It became another important building block of early social insurance.",
+      "fr": "Le 6 juillet 1884, l'Empire allemand adopta la loi sur l'assurance accidents pour les ouvriers. Elle devint un autre élément important des premières assurances sociales.",
+      "es": "El 6 de julio de 1884, el Imperio alemán aprobó la ley de seguro de accidentes para los trabajadores. Se convirtió en otro elemento importante del temprano seguro social.",
+      "it": "Il 6 luglio 1884 l'Impero tedesco approvò la legge sull'assicurazione contro gli infortuni per i lavoratori. Divenne un altro importante elemento delle prime assicurazioni sociali.",
+      "pt": "Em 6 de julho de 1884, o Império Alemão aprovou a lei de seguro contra acidentes para trabalhadores. Ela se tornou outro elemento importante do início do seguro social.",
+      "nl": "Op 6 juli 1884 nam het Duitse Keizerrijk de wet op de ongevallenverzekering voor arbeiders aan. Zij werd een andere belangrijke bouwsteen van de vroege sociale verzekering.",
+      "pl": "6 lipca 1884 roku Cesarstwo Niemieckie uchwaliło ustawę o ubezpieczeniu robotników od wypadków. Stała się ona kolejnym ważnym elementem wczesnych ubezpieczeń społecznych.",
+      "tr": "6 Temmuz 1884'te Alman İmparatorluğu işçiler için kaza sigortası yasasını kabul etti. Bu yasa erken sosyal sigortanın önemli yapı taşlarından biri oldu.",
+      "zh": "1884年7月6日，德意志帝国通过了工人事故保险法。它成为早期社会保险的又一个重要组成部分。",
+      "ja": "1884年7月6日、ドイツ帝国は労働者のための災害保険法を可決した。これは初期の社会保険制度のもう一つの重要な柱となった。",
+      "ko": "1884년 7월 6일, 독일 제국은 노동자를 위한 사고보험법을 통과시켰다. 이는 초기 사회보험의 또 다른 중요한 토대가 되었다.",
+      "hi": "6 जुलाई 1884 को जर्मन साम्राज्य ने मजदूरों के लिए दुर्घटना बीमा कानून पारित किया। यह शुरुआती सामाजिक बीमा का एक और महत्वपूर्ण आधार बना।",
+      "ar": "في 6 يوليو 1884 أقرّت الإمبراطورية الألمانية قانون التأمين ضد الحوادث للعمال. وأصبح ذلك لبنة مهمة أخرى في بدايات التأمين الاجتماعي."
     },
     "importance": {
       "ru": "Система страхования от несчастных случаев стала образцом, который изучали и за пределами Германии.",
       "de": "Das System der Unfallversicherung wurde zu einem Modell, das auch ausserhalb Deutschlands beachtet wurde.",
-      "en": "The accident insurance system became a model studied beyond Germany."
+      "en": "The accident insurance system became a model studied beyond Germany.",
+      "fr": "Le système d'assurance accidents devint un modèle étudié au-delà de l'Allemagne.",
+      "es": "El sistema de seguro de accidentes se convirtió en un modelo estudiado fuera de Alemania.",
+      "it": "Il sistema di assicurazione contro gli infortuni divenne un modello studiato anche fuori dalla Germania.",
+      "pt": "O sistema de seguro contra acidentes tornou-se um modelo estudado além da Alemanha.",
+      "nl": "Het systeem van ongevallenverzekering werd een model dat ook buiten Duitsland werd bestudeerd.",
+      "pl": "System ubezpieczenia od wypadków stał się wzorem badanym także poza Niemcami.",
+      "tr": "Kaza sigortası sistemi Almanya dışında da incelenen bir model haline geldi.",
+      "zh": "事故保险制度成为德国以外也被研究的范例。",
+      "ja": "災害保険制度は、ドイツ国外でも研究されるモデルとなった。",
+      "ko": "사고보험 제도는 독일 밖에서도 연구되는 모델이 되었다.",
+      "hi": "दुर्घटना बीमा व्यवस्था जर्मनी से बाहर भी अध्ययन किया जाने वाला मॉडल बन गई।",
+      "ar": "أصبح نظام التأمين ضد الحوادث نموذجا دُرس خارج ألمانيا أيضا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Индустриальный риск",
           "de": "Industrielles Risiko",
-          "en": "Industrial risk"
+          "en": "Industrial risk",
+          "fr": "Risque industriel",
+          "es": "Riesgo industrial",
+          "it": "Rischio industriale",
+          "pt": "Risco industrial",
+          "nl": "Industrieel risico",
+          "pl": "Ryzyko przemysłowe",
+          "tr": "Endüstriyel risk",
+          "zh": "工业风险",
+          "ja": "産業上のリスク",
+          "ko": "산업 위험",
+          "hi": "औद्योगिक जोखिम",
+          "ar": "الخطر الصناعي"
         },
         "description": {
           "ru": "Фабрики, шахты и железные дороги создавали новые опасности для работников. Закон отвечал на вопрос, кто несёт ответственность за травмы на производстве.",
           "de": "Fabriken, Bergwerke und Eisenbahnen brachten neue Gefahren fuer Arbeiter. Das Gesetz beantwortete die Frage, wer fuer Arbeitsunfaelle Verantwortung traegt.",
-          "en": "Factories, mines and railways created new dangers for workers. The law addressed who bears responsibility for workplace injuries."
+          "en": "Factories, mines and railways created new dangers for workers. The law addressed who bears responsibility for workplace injuries.",
+          "fr": "Les usines, les mines et les chemins de fer créaient de nouveaux dangers pour les travailleurs. La loi répondait à la question de savoir qui portait la responsabilité des blessures au travail.",
+          "es": "Las fábricas, minas y ferrocarriles creaban nuevos peligros para los trabajadores. La ley abordaba quién asumía la responsabilidad por las lesiones en el trabajo.",
+          "it": "Fabbriche, miniere e ferrovie crearono nuovi pericoli per i lavoratori. La legge affrontava la questione di chi fosse responsabile degli infortuni sul lavoro.",
+          "pt": "Fábricas, minas e ferrovias criavam novos perigos para os trabalhadores. A lei tratava de quem assumia a responsabilidade pelos ferimentos no trabalho.",
+          "nl": "Fabrieken, mijnen en spoorwegen brachten nieuwe gevaren voor arbeiders mee. De wet behandelde de vraag wie verantwoordelijkheid draagt voor letsel op het werk.",
+          "pl": "Fabryki, kopalnie i koleje tworzyły nowe zagrożenia dla pracowników. Ustawa odpowiadała na pytanie, kto ponosi odpowiedzialność za urazy w pracy.",
+          "tr": "Fabrikalar, madenler ve demiryolları işçiler için yeni tehlikeler yarattı. Yasa, işyerindeki yaralanmalardan kimin sorumlu olduğunu ele aldı.",
+          "zh": "工厂、矿山和铁路给工人带来了新的危险。这部法律回应了谁应对工作场所伤害负责的问题。",
+          "ja": "工場、鉱山、鉄道は労働者に新しい危険をもたらした。この法律は、職場での負傷に誰が責任を負うのかという問題に答えるものだった。",
+          "ko": "공장, 광산, 철도는 노동자들에게 새로운 위험을 만들었다. 이 법은 직장 내 부상에 대한 책임을 누가 지는지 다루었다.",
+          "hi": "कारखानों, खानों और रेलमार्गों ने मजदूरों के लिए नए खतरे पैदा किए। कानून ने यह सवाल उठाया कि कार्यस्थल की चोटों की जिम्मेदारी कौन उठाएगा।",
+          "ar": "خلقت المصانع والمناجم والسكك الحديدية أخطارا جديدة على العمال. وتناول القانون مسألة من يتحمل المسؤولية عن إصابات العمل."
         },
         "importance": {
           "ru": "Социальная история здесь напрямую связана с промышленной картой Германии.",
           "de": "Sozialgeschichte ist hier direkt mit der industriellen Karte Deutschlands verbunden.",
-          "en": "Social history here is directly linked with Germany's industrial map."
+          "en": "Social history here is directly linked with Germany's industrial map.",
+          "fr": "Ici, l'histoire sociale est directement liée à la carte industrielle de l'Allemagne.",
+          "es": "Aquí la historia social está directamente vinculada con el mapa industrial de Alemania.",
+          "it": "Qui la storia sociale è direttamente legata alla mappa industriale della Germania.",
+          "pt": "Aqui a história social está diretamente ligada ao mapa industrial da Alemanha.",
+          "nl": "De sociale geschiedenis is hier direct verbonden met de industriële kaart van Duitsland.",
+          "pl": "Historia społeczna jest tu bezpośrednio związana z przemysłową mapą Niemiec.",
+          "tr": "Burada sosyal tarih, Almanya'nın sanayi haritasıyla doğrudan bağlantılıdır.",
+          "zh": "这里的社会史与德国的工业版图直接相连。",
+          "ja": "ここでは社会史がドイツの産業地図と直接結びついている。",
+          "ko": "여기서 사회사는 독일의 산업 지도와 직접 연결되어 있다.",
+          "hi": "यहां सामाजिक इतिहास सीधे जर्मनी के औद्योगिक मानचित्र से जुड़ा है।",
+          "ar": "يرتبط التاريخ الاجتماعي هنا مباشرة بالخريطة الصناعية لألمانيا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Немецкое обязательное страхование от несчастных случаев продолжает существовать в современной форме.",
     "de": "Die gesetzliche Unfallversicherung besteht in moderner Form bis heute.",
-    "en": "German statutory accident insurance continues to exist in a modern form today."
+    "en": "German statutory accident insurance continues to exist in a modern form today.",
+    "fr": "L'assurance accidents légale allemande continue d'exister aujourd'hui sous une forme moderne.",
+    "es": "El seguro legal alemán de accidentes sigue existiendo hoy en una forma moderna.",
+    "it": "L'assicurazione obbligatoria tedesca contro gli infortuni continua a esistere oggi in forma moderna.",
+    "pt": "O seguro legal alemão contra acidentes continua a existir hoje em forma moderna.",
+    "nl": "De Duitse wettelijke ongevallenverzekering bestaat vandaag nog steeds in moderne vorm.",
+    "pl": "Niemieckie obowiązkowe ubezpieczenie od wypadków istnieje do dziś w nowoczesnej formie.",
+    "tr": "Alman yasal kaza sigortası bugün modern bir biçimde varlığını sürdürmektedir.",
+    "zh": "德国法定事故保险至今仍以现代形式存在。",
+    "ja": "ドイツの法定災害保険は、今日も現代的な形で存続している。",
+    "ko": "독일의 법정 사고보험은 오늘날에도 현대적인 형태로 계속 존재한다.",
+    "hi": "जर्मनी का वैधानिक दुर्घटना बीमा आज भी आधुनिक रूप में मौजूद है।",
+    "ar": "ما زال التأمين القانوني الألماني ضد الحوادث قائما اليوم بصيغة حديثة."
   },
   "sources": [
     {

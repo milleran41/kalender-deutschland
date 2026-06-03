@@ -11,17 +11,53 @@
     "title": {
       "ru": "ФРГ выиграла чемпионат мира по футболу",
       "de": "Die Bundesrepublik gewinnt die Fussball-WM",
-      "en": "West Germany wins the FIFA World Cup"
+      "en": "West Germany wins the FIFA World Cup",
+      "fr": "La RFA remporte la Coupe du monde de football",
+      "es": "Alemania Occidental gana la Copa Mundial de fútbol",
+      "it": "La Germania Ovest vince la Coppa del Mondo di calcio",
+      "pt": "A Alemanha Ocidental vence a Copa do Mundo de futebol",
+      "nl": "West-Duitsland wint het wereldkampioenschap voetbal",
+      "pl": "RFN wygrywa piłkarskie mistrzostwa świata",
+      "tr": "Batı Almanya FIFA Dünya Kupası'nı kazanır",
+      "zh": "西德赢得世界杯足球赛",
+      "ja": "西ドイツがFIFAワールドカップで優勝",
+      "ko": "서독이 FIFA 월드컵에서 우승하다",
+      "hi": "पश्चिम जर्मनी ने फीफा विश्व कप जीता",
+      "ar": "ألمانيا الغربية تفوز بكأس العالم لكرة القدم"
     },
     "description": {
       "ru": "7 июля 1974 года сборная ФРГ победила Нидерланды 2:1 в финале чемпионата мира в Мюнхене. Турнир проходил в Западной Германии.",
       "de": "Am 7. Juli 1974 besiegte die Bundesrepublik die Niederlande im WM-Finale in Muenchen mit 2:1. Das Turnier fand in Westdeutschland statt.",
-      "en": "On 7 July 1974, West Germany beat the Netherlands 2-1 in the World Cup final in Munich. The tournament was hosted by West Germany."
+      "en": "On 7 July 1974, West Germany beat the Netherlands 2-1 in the World Cup final in Munich. The tournament was hosted by West Germany.",
+      "fr": "Le 7 juillet 1974, la RFA battit les Pays-Bas 2-1 en finale de la Coupe du monde à Munich. Le tournoi était organisé en Allemagne de l'Ouest.",
+      "es": "El 7 de julio de 1974, Alemania Occidental venció a los Países Bajos 2-1 en la final de la Copa Mundial en Múnich. El torneo fue organizado por Alemania Occidental.",
+      "it": "Il 7 luglio 1974 la Germania Ovest batté i Paesi Bassi 2-1 nella finale della Coppa del Mondo a Monaco. Il torneo si svolse in Germania Ovest.",
+      "pt": "Em 7 de julho de 1974, a Alemanha Ocidental venceu os Países Baixos por 2 a 1 na final da Copa do Mundo em Munique. O torneio foi sediado pela Alemanha Ocidental.",
+      "nl": "Op 7 juli 1974 versloeg West-Duitsland Nederland met 2-1 in de WK-finale in München. Het toernooi werd door West-Duitsland georganiseerd.",
+      "pl": "7 lipca 1974 roku RFN pokonała Holandię 2:1 w finale mistrzostw świata w Monachium. Turniej odbywał się w Niemczech Zachodnich.",
+      "tr": "7 Temmuz 1974'te Batı Almanya, Münih'teki Dünya Kupası finalinde Hollanda'yı 2-1 yendi. Turnuvaya Batı Almanya ev sahipliği yaptı.",
+      "zh": "1974年7月7日，西德在慕尼黑的世界杯决赛中以2比1击败荷兰。本届赛事由西德主办。",
+      "ja": "1974年7月7日、西ドイツはミュンヘンで行われたワールドカップ決勝でオランダを2対1で破った。大会は西ドイツで開催された。",
+      "ko": "1974년 7월 7일, 서독은 뮌헨에서 열린 월드컵 결승에서 네덜란드를 2대 1로 이겼다. 이 대회는 서독이 개최했다.",
+      "hi": "7 जुलाई 1974 को पश्चिम जर्मनी ने म्यूनिख में विश्व कप फाइनल में नीदरलैंड को 2-1 से हराया। टूर्नामेंट की मेजबानी पश्चिम जर्मनी ने की थी।",
+      "ar": "في 7 يوليو 1974 فازت ألمانيا الغربية على هولندا 2-1 في نهائي كأس العالم في ميونخ. واستضافت ألمانيا الغربية البطولة."
     },
     "importance": {
       "ru": "Это была вторая победа Германии на чемпионате мира после «чуда в Берне» 1954 года.",
       "de": "Es war Deutschlands zweiter WM-Titel nach dem Wunder von Bern 1954.",
-      "en": "It was Germany's second World Cup title after the Miracle of Bern in 1954."
+      "en": "It was Germany's second World Cup title after the Miracle of Bern in 1954.",
+      "fr": "C'était le deuxième titre mondial de l'Allemagne après le Miracle de Berne en 1954.",
+      "es": "Fue el segundo título mundial de Alemania después del Milagro de Berna en 1954.",
+      "it": "Fu il secondo titolo mondiale della Germania dopo il Miracolo di Berna del 1954.",
+      "pt": "Foi o segundo título mundial da Alemanha depois do Milagre de Berna em 1954.",
+      "nl": "Het was de tweede wereldtitel van Duitsland na het Wonder van Bern in 1954.",
+      "pl": "Był to drugi tytuł mistrza świata dla Niemiec po Cudzie w Bernie w 1954 roku.",
+      "tr": "Bu, 1954'teki Bern Mucizesi'nden sonra Almanya'nın ikinci Dünya Kupası şampiyonluğuydu.",
+      "zh": "这是德国继1954年“伯尔尼奇迹”之后的第二个世界杯冠军。",
+      "ja": "これは1954年のベルンの奇跡に続く、ドイツ2度目のワールドカップ優勝だった。",
+      "ko": "이는 1954년 베른의 기적 이후 독일의 두 번째 월드컵 우승이었다.",
+      "hi": "यह 1954 के बर्न के चमत्कार के बाद जर्मनी का दूसरा विश्व कप खिताब था।",
+      "ar": "كان هذا اللقب العالمي الثاني لألمانيا بعد معجزة برن عام 1954."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Победа над «тотальным футболом»",
           "de": "Sieg gegen den totalen Fussball",
-          "en": "Victory over total football"
+          "en": "Victory over total football",
+          "fr": "Victoire contre le football total",
+          "es": "Victoria sobre el fútbol total",
+          "it": "Vittoria contro il calcio totale",
+          "pt": "Vitória sobre o futebol total",
+          "nl": "Overwinning op totaalvoetbal",
+          "pl": "Zwycięstwo nad futbolem totalnym",
+          "tr": "Total futbola karşı zafer",
+          "zh": "战胜全攻全守足球",
+          "ja": "トータルフットボールに対する勝利",
+          "ko": "토털 풋볼을 이긴 승리",
+          "hi": "टोटल फुटबॉल पर जीत",
+          "ar": "فوز على الكرة الشاملة"
         },
         "description": {
           "ru": "Команда Нидерландов с Йоханом Кройфом считалась символом нового, яркого футбола. Поэтому победа ФРГ стала большим спортивным сюжетом.",
           "de": "Die Niederlande mit Johan Cruyff galten als Symbol eines neuen, spektakulaeren Fussballs. Deshalb wurde der Sieg der Bundesrepublik zu einer grossen Sportgeschichte.",
-          "en": "The Netherlands team with Johan Cruyff symbolized a new, exciting style of football. West Germany's victory therefore became a major sports story."
+          "en": "The Netherlands team with Johan Cruyff symbolized a new, exciting style of football. West Germany's victory therefore became a major sports story.",
+          "fr": "L'équipe des Pays-Bas avec Johan Cruyff symbolisait un football nouveau et spectaculaire. La victoire de la RFA devint donc une grande histoire sportive.",
+          "es": "La selección de los Países Bajos con Johan Cruyff simbolizaba un estilo de fútbol nuevo y emocionante. Por eso la victoria de Alemania Occidental se convirtió en una gran historia deportiva.",
+          "it": "La squadra dei Paesi Bassi con Johan Cruyff simboleggiava un calcio nuovo e spettacolare. Perciò la vittoria della Germania Ovest divenne una grande storia sportiva.",
+          "pt": "A seleção dos Países Baixos com Johan Cruyff simbolizava um estilo novo e empolgante de futebol. Por isso a vitória da Alemanha Ocidental tornou-se uma grande história esportiva.",
+          "nl": "Het Nederlands elftal met Johan Cruijff stond symbool voor een nieuwe, spannende voetbalstijl. Daarom werd de West-Duitse overwinning een groot sportverhaal.",
+          "pl": "Reprezentacja Holandii z Johanem Cruyffem symbolizowała nowy, efektowny styl futbolu. Dlatego zwycięstwo RFN stało się wielką historią sportową.",
+          "tr": "Johan Cruyff'lu Hollanda takımı yeni ve heyecan verici bir futbol tarzını simgeliyordu. Bu yüzden Batı Almanya'nın zaferi büyük bir spor hikayesine dönüştü.",
+          "zh": "拥有约翰·克鲁伊夫的荷兰队象征着一种新颖而精彩的足球风格。因此西德的胜利成为重大体育故事。",
+          "ja": "ヨハン・クライフを擁するオランダ代表は、新しく魅力的なサッカーの象徴だった。そのため西ドイツの勝利は大きなスポーツ物語となった。",
+          "ko": "요한 크루이프가 이끄는 네덜란드 팀은 새롭고 흥미로운 축구 스타일을 상징했다. 그래서 서독의 승리는 큰 스포츠 이야기로 남았다.",
+          "hi": "योहान क्रॉयफ़ वाली नीदरलैंड टीम नए और रोमांचक फुटबॉल की प्रतीक मानी जाती थी। इसलिए पश्चिम जर्मनी की जीत बड़ी खेल कहानी बन गई।",
+          "ar": "كان منتخب هولندا مع يوهان كرويف رمزا لأسلوب جديد ومثير في كرة القدم. لذلك أصبح فوز ألمانيا الغربية قصة رياضية كبيرة."
         },
         "importance": {
           "ru": "Футбол снова стал частью немецкой коллективной памяти.",
           "de": "Fussball wurde erneut Teil der deutschen kollektiven Erinnerung.",
-          "en": "Football once again became part of German collective memory."
+          "en": "Football once again became part of German collective memory.",
+          "fr": "Le football devint de nouveau une partie de la mémoire collective allemande.",
+          "es": "El fútbol volvió a formar parte de la memoria colectiva alemana.",
+          "it": "Il calcio divenne di nuovo parte della memoria collettiva tedesca.",
+          "pt": "O futebol voltou a fazer parte da memória coletiva alemã.",
+          "nl": "Voetbal werd opnieuw deel van het Duitse collectieve geheugen.",
+          "pl": "Piłka nożna ponownie stała się częścią niemieckiej pamięci zbiorowej.",
+          "tr": "Futbol bir kez daha Alman kolektif hafızasının parçası oldu.",
+          "zh": "足球再次成为德国集体记忆的一部分。",
+          "ja": "サッカーは再びドイツの集団的記憶の一部となった。",
+          "ko": "축구는 다시 독일의 집단 기억의 일부가 되었다.",
+          "hi": "फुटबॉल फिर से जर्मन सामूहिक स्मृति का हिस्सा बन गया।",
+          "ar": "أصبحت كرة القدم مرة أخرى جزءا من الذاكرة الجماعية الألمانية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Финал 1974 года проходил на Олимпийском стадионе в Мюнхене.",
     "de": "Das Finale 1974 fand im Olympiastadion Muenchen statt.",
-    "en": "The 1974 final took place at Munich's Olympic Stadium."
+    "en": "The 1974 final took place at Munich's Olympic Stadium.",
+    "fr": "La finale de 1974 eut lieu au stade olympique de Munich.",
+    "es": "La final de 1974 se disputó en el Estadio Olímpico de Múnich.",
+    "it": "La finale del 1974 si svolse allo Stadio Olimpico di Monaco.",
+    "pt": "A final de 1974 aconteceu no Estádio Olímpico de Munique.",
+    "nl": "De finale van 1974 vond plaats in het Olympisch Stadion van München.",
+    "pl": "Finał z 1974 roku odbył się na Stadionie Olimpijskim w Monachium.",
+    "tr": "1974 finali Münih Olimpiyat Stadı'nda oynandı.",
+    "zh": "1974年决赛在慕尼黑奥林匹克体育场举行。",
+    "ja": "1974年の決勝はミュンヘンのオリンピックスタジアムで行われた。",
+    "ko": "1974년 결승전은 뮌헨 올림픽 경기장에서 열렸다.",
+    "hi": "1974 का फाइनल म्यूनिख के ओलंपिक स्टेडियम में हुआ।",
+    "ar": "أقيم نهائي عام 1974 في الملعب الأولمبي في ميونخ."
   },
   "sources": [
     {
