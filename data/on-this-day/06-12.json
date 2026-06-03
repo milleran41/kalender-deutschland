@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Анна Франк",
       "de": "Anne Frank wird geboren",
-      "en": "Anne Frank is born"
+      "en": "Anne Frank is born",
+      "fr": "Naissance d'Anne Frank",
+      "es": "Nace Ana Frank",
+      "it": "Nasce Anne Frank",
+      "pt": "Nasce Anne Frank",
+      "nl": "Anne Frank wordt geboren",
+      "pl": "Rodzi sie Anne Frank",
+      "tr": "Anne Frank dogar",
+      "zh": "安妮·弗兰克出生",
+      "ja": "アンネ・フランクが生まれる",
+      "ko": "안네 프랑크가 태어나다",
+      "hi": "ऐन फ्रैंक का जन्म",
+      "ar": "ولادة آن فرانك"
     },
     "description": {
       "ru": "12 июня 1929 года во Франкфурте-на-Майне родилась Анна Франк. Её дневник стал одним из самых известных свидетельств о жизни еврейской семьи во время нацистских преследований.",
       "de": "Am 12. Juni 1929 wurde Anne Frank in Frankfurt am Main geboren. Ihr Tagebuch wurde zu einem der bekanntesten Zeugnisse vom Leben einer juedischen Familie unter nationalsozialistischer Verfolgung.",
-      "en": "On 12 June 1929, Anne Frank was born in Frankfurt am Main. Her diary became one of the best-known testimonies of a Jewish family's life under Nazi persecution."
+      "en": "On 12 June 1929, Anne Frank was born in Frankfurt am Main. Her diary became one of the best-known testimonies of a Jewish family's life under Nazi persecution.",
+      "fr": "Le 12 juin 1929, Anne Frank naquit a Francfort-sur-le-Main. Son journal devint l'un des temoignages les plus connus sur la vie d'une famille juive sous la persecution nazie.",
+      "es": "El 12 de junio de 1929, Ana Frank nacio en Frankfurt am Main. Su diario se convirtio en uno de los testimonios mas conocidos de la vida de una familia judia bajo la persecucion nazi.",
+      "it": "Il 12 giugno 1929 Anne Frank nacque a Francoforte sul Meno. Il suo diario divenne una delle testimonianze piu note della vita di una famiglia ebrea sotto la persecuzione nazista.",
+      "pt": "Em 12 de junho de 1929, Anne Frank nasceu em Frankfurt am Main. Seu diario tornou-se um dos testemunhos mais conhecidos da vida de uma familia judaica sob a perseguicao nazista.",
+      "nl": "Op 12 juni 1929 werd Anne Frank in Frankfurt am Main geboren. Haar dagboek werd een van de bekendste getuigenissen over het leven van een Joods gezin onder nazi-vervolging.",
+      "pl": "12 czerwca 1929 roku Anne Frank urodzila sie we Frankfurcie nad Menem. Jej dziennik stal sie jednym z najbardziej znanych swiadectw zycia zydowskiej rodziny pod nazistowskimi przesladowaniami.",
+      "tr": "12 Haziran 1929'da Anne Frank Frankfurt am Main'da dogdu. Gunlugu, Nazi zulmu altinda yasayan Yahudi bir ailenin hayatina dair en bilinen tanikliklardan biri oldu.",
+      "zh": "1929年6月12日，安妮·弗兰克出生于法兰克福。她的日记成为关于纳粹迫害下一个犹太家庭生活的最著名见证之一。",
+      "ja": "1929年6月12日、アンネ・フランクはフランクフルト・アム・マインで生まれました。彼女の日記は、ナチスの迫害下にあったユダヤ人家族の生活を伝える最も有名な証言の一つとなりました。",
+      "ko": "1929년 6월 12일 안네 프랑크가 프랑크푸르트암마인에서 태어났습니다. 그녀의 일기는 나치 박해 아래 유대인 가족의 삶을 보여 주는 가장 잘 알려진 증언 중 하나가 되었습니다.",
+      "hi": "12 जून 1929 को ऐन फ्रैंक का जन्म फ्रैंकफर्ट आम माइन में हुआ। उनकी डायरी नाजी उत्पीड़न के दौरान एक यहूदी परिवार के जीवन की सबसे प्रसिद्ध गवाहियों में से एक बनी।",
+      "ar": "في 12 يونيو 1929 ولدت آن فرانك في فرانكفورت ام ماين. اصبح يومياتها من اشهر الشهادات عن حياة عائلة يهودية تحت الاضطهاد النازي."
     },
     "importance": {
       "ru": "Её история помогает школьникам понять Холокост через судьбу конкретного человека.",
       "de": "Ihre Geschichte hilft Schuelern, den Holocaust anhand eines konkreten Menschen zu verstehen.",
-      "en": "Her story helps students understand the Holocaust through the fate of one person."
+      "en": "Her story helps students understand the Holocaust through the fate of one person.",
+      "fr": "Son histoire aide les eleves a comprendre la Shoah a travers le destin d'une personne concrete.",
+      "es": "Su historia ayuda a los estudiantes a entender el Holocausto a traves del destino de una persona concreta.",
+      "it": "La sua storia aiuta gli studenti a capire l'Olocausto attraverso il destino di una persona concreta.",
+      "pt": "Sua historia ajuda estudantes a entender o Holocausto por meio do destino de uma pessoa concreta.",
+      "nl": "Haar verhaal helpt leerlingen de Holocaust te begrijpen via het lot van een concreet persoon.",
+      "pl": "Jej historia pomaga uczniom zrozumiec Holokaust poprzez los konkretnej osoby.",
+      "tr": "Onun hikayesi, ogrencilerin Holokost'u tek bir insanin kaderi uzerinden anlamasina yardim eder.",
+      "zh": "她的故事帮助学生通过一个具体人物的命运理解大屠杀。",
+      "ja": "彼女の物語は、生徒たちが一人の人間の運命を通してホロコーストを理解する助けになります。",
+      "ko": "그녀의 이야기는 학생들이 한 사람의 운명을 통해 홀로코스트를 이해하는 데 도움이 됩니다.",
+      "hi": "उनकी कहानी विद्यार्थियों को एक व्यक्ति के जीवन के माध्यम से होलोकॉस्ट समझने में मदद करती है।",
+      "ar": "تساعد قصتها الطلاب على فهم الهولوكوست من خلال مصير شخص واحد محدد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дневник, который прочитал мир",
           "de": "Ein Tagebuch, das die Welt las",
-          "en": "A diary read by the world"
+          "en": "A diary read by the world",
+          "fr": "Un journal lu par le monde",
+          "es": "Un diario leido por el mundo",
+          "it": "Un diario letto dal mondo",
+          "pt": "Um diario lido pelo mundo",
+          "nl": "Een dagboek dat de wereld las",
+          "pl": "Dziennik czytany przez swiat",
+          "tr": "Dunyanin okudugu gunluk",
+          "zh": "被世界阅读的日记",
+          "ja": "世界に読まれた日記",
+          "ko": "세계가 읽은 일기",
+          "hi": "दुनिया द्वारा पढ़ी गई डायरी",
+          "ar": "يوميات قرأها العالم"
         },
         "description": {
           "ru": "После войны дневник Анны Франк был опубликован и переведён на многие языки. Он стал важной книгой памяти.",
           "de": "Nach dem Krieg wurde Anne Franks Tagebuch veroeffentlicht und in viele Sprachen uebersetzt. Es wurde zu einem wichtigen Buch der Erinnerung.",
-          "en": "After the war, Anne Frank's diary was published and translated into many languages. It became an important book of remembrance."
+          "en": "After the war, Anne Frank's diary was published and translated into many languages. It became an important book of remembrance.",
+          "fr": "Apres la guerre, le journal d'Anne Frank fut publie et traduit dans de nombreuses langues. Il devint un livre important de memoire.",
+          "es": "Despues de la guerra, el diario de Ana Frank fue publicado y traducido a muchos idiomas. Se convirtio en un importante libro de memoria.",
+          "it": "Dopo la guerra, il diario di Anne Frank fu pubblicato e tradotto in molte lingue. Divenne un importante libro della memoria.",
+          "pt": "Depois da guerra, o diario de Anne Frank foi publicado e traduzido para muitas linguas. Tornou-se um importante livro de memoria.",
+          "nl": "Na de oorlog werd Anne Franks dagboek gepubliceerd en in veel talen vertaald. Het werd een belangrijk boek van herinnering.",
+          "pl": "Po wojnie dziennik Anne Frank opublikowano i przetlumaczono na wiele jezykow. Stal sie wazna ksiazka pamieci.",
+          "tr": "Savastan sonra Anne Frank'in gunlugu yayimlandi ve bircok dile cevrildi. Onemli bir hafiza kitabi haline geldi.",
+          "zh": "战后，安妮·弗兰克的日记出版并被翻译成多种语言，成为重要的记忆之书。",
+          "ja": "戦後、アンネ・フランクの日記は出版され、多くの言語に翻訳されました。それは記憶のための重要な本となりました。",
+          "ko": "전쟁 후 안네 프랑크의 일기는 출간되어 여러 언어로 번역되었습니다. 그것은 중요한 기억의 책이 되었습니다.",
+          "hi": "युद्ध के बाद ऐन फ्रैंक की डायरी प्रकाशित हुई और कई भाषाओं में अनुवादित की गई। यह स्मृति की महत्वपूर्ण पुस्तक बन गई।",
+          "ar": "بعد الحرب نُشرت يوميات آن فرانك وتُرجمت الى لغات كثيرة. واصبحت كتابا مهما للذاكرة."
         },
         "importance": {
           "ru": "Иногда маленький личный текст оказывается сильнее сухой статистики.",
           "de": "Manchmal ist ein kleiner persoenlicher Text staerker als trockene Statistik.",
-          "en": "Sometimes a small personal text is stronger than dry statistics."
+          "en": "Sometimes a small personal text is stronger than dry statistics.",
+          "fr": "Parfois, un petit texte personnel est plus fort que des statistiques seches.",
+          "es": "A veces un pequeno texto personal es mas fuerte que las estadisticas secas.",
+          "it": "A volte un piccolo testo personale e piu forte delle fredde statistiche.",
+          "pt": "As vezes um pequeno texto pessoal e mais forte do que estatisticas secas.",
+          "nl": "Soms is een kleine persoonlijke tekst sterker dan droge statistiek.",
+          "pl": "Czasem maly osobisty tekst jest silniejszy niz suche statystyki.",
+          "tr": "Bazen kucuk bir kisisel metin kuru istatistiklerden daha gucludur.",
+          "zh": "有时，一段小小的个人文字比冷冰冰的统计更有力量。",
+          "ja": "時には、小さな個人的な文章が、乾いた統計よりも強い力を持ちます。",
+          "ko": "때로는 작은 개인의 글이 건조한 통계보다 더 강합니다.",
+          "hi": "कभी-कभी छोटा निजी पाठ सूखे आंकड़ों से अधिक प्रभावशाली होता है।",
+          "ar": "احيانا يكون نص شخصي صغير اقوى من الاحصاءات الجافة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Семья Франк покинула Германию после прихода нацистов к власти и переехала в Амстердам.",
     "de": "Die Familie Frank verliess Deutschland nach der Machtuebernahme der Nationalsozialisten und zog nach Amsterdam.",
-    "en": "The Frank family left Germany after the Nazis came to power and moved to Amsterdam."
+    "en": "The Frank family left Germany after the Nazis came to power and moved to Amsterdam.",
+    "fr": "La famille Frank quitta l'Allemagne apres l'arrivee des nazis au pouvoir et s'installa a Amsterdam.",
+    "es": "La familia Frank salio de Alemania despues de la llegada de los nazis al poder y se traslado a Amsterdam.",
+    "it": "La famiglia Frank lascio la Germania dopo l'arrivo al potere dei nazisti e si trasferi ad Amsterdam.",
+    "pt": "A familia Frank deixou a Alemanha depois que os nazistas chegaram ao poder e mudou-se para Amsterdam.",
+    "nl": "De familie Frank verliet Duitsland nadat de nazi's aan de macht kwamen en verhuisde naar Amsterdam.",
+    "pl": "Rodzina Frankow opuscila Niemcy po dojsciu nazistow do wladzy i przeniosla sie do Amsterdamu.",
+    "tr": "Frank ailesi Naziler iktidara geldikten sonra Almanya'dan ayrilip Amsterdam'a tasindi.",
+    "zh": "纳粹上台后，弗兰克一家离开德国，搬到阿姆斯特丹。",
+    "ja": "フランク一家はナチスが権力を握った後にドイツを離れ、アムステルダムへ移りました。",
+    "ko": "프랑크 가족은 나치가 집권한 뒤 독일을 떠나 암스테르담으로 이주했습니다.",
+    "hi": "नाजियों के सत्ता में आने के बाद फ्रैंक परिवार जर्मनी छोड़कर एम्स्टर्डम चला गया।",
+    "ar": "غادرت عائلة فرانك المانيا بعد وصول النازيين الى السلطة وانتقلت الى امستردام."
   },
   "sources": [
     {

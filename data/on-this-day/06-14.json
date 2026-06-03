@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первое упоминание Мюнхена",
       "de": "Erste Nennung Muenchens",
-      "en": "First mention of Munich"
+      "en": "First mention of Munich",
+      "fr": "Premiere mention de Munich",
+      "es": "Primera mencion de Munich",
+      "it": "Prima menzione di Monaco",
+      "pt": "Primeira mencao de Munique",
+      "nl": "Eerste vermelding van Muenchen",
+      "pl": "Pierwsza wzmianka o Monachium",
+      "tr": "Munih'in ilk anilisi",
+      "zh": "慕尼黑首次被提及",
+      "ja": "ミュンヘンの最初の記録",
+      "ko": "뮌헨의 첫 언급",
+      "hi": "म्यूनिख का पहला उल्लेख",
+      "ar": "اول ذكر لميونخ"
     },
     "description": {
       "ru": "14 июня 1158 года считается официальным днём основания Мюнхена: император подтвердил создание рынка у монахов на Изаре. Из этого торгового пункта выросла столица Баварии.",
       "de": "Der 14. Juni 1158 gilt als offizieller Gruendungstag Muenchens: Der Kaiser bestaetigte die Marktschaffung bei den Moenchen an der Isar. Aus diesem Handelsplatz wuchs die Hauptstadt Bayerns.",
-      "en": "14 June 1158 is considered Munich's official founding day: the emperor confirmed the creation of a market near the monks on the Isar. Bavaria's capital grew from this trading place."
+      "en": "14 June 1158 is considered Munich's official founding day: the emperor confirmed the creation of a market near the monks on the Isar. Bavaria's capital grew from this trading place.",
+      "fr": "Le 14 juin 1158 est considere comme le jour officiel de fondation de Munich: l'empereur confirma la creation d'un marche pres des moines sur l'Isar. La capitale de la Baviere naquit de ce lieu de commerce.",
+      "es": "El 14 de junio de 1158 se considera el dia oficial de fundacion de Munich: el emperador confirmo la creacion de un mercado junto a los monjes del Isar. De este punto comercial crecio la capital de Baviera.",
+      "it": "Il 14 giugno 1158 e considerato il giorno ufficiale di fondazione di Monaco: l'imperatore confermo la creazione di un mercato presso i monaci sull'Isar. Da questo luogo di commercio crebbe la capitale della Baviera.",
+      "pt": "14 de junho de 1158 e considerado o dia oficial de fundacao de Munique: o imperador confirmou a criacao de um mercado perto dos monges no Isar. A capital da Baviera cresceu a partir desse ponto comercial.",
+      "nl": "14 juni 1158 geldt als de officiele stichtingsdag van Muenchen: de keizer bevestigde de oprichting van een markt bij de monniken aan de Isar. Uit deze handelsplaats groeide de hoofdstad van Beieren.",
+      "pl": "14 czerwca 1158 roku uwaza sie za oficjalny dzien zalozenia Monachium: cesarz potwierdzil utworzenie targu przy mnichach nad Izara. Z tego miejsca handlu wyrosla stolica Bawarii.",
+      "tr": "14 Haziran 1158 Munih'in resmi kurulus gunu kabul edilir: imparator Isar kiyisindaki rahiplerin yaninda bir pazar kurulmasini onayladi. Bavyera'nin baskenti bu ticaret noktasindan buyudu.",
+      "zh": "1158年6月14日被视为慕尼黑的正式建城日：皇帝确认在伊萨尔河畔修士附近建立市场。巴伐利亚首府正是从这个贸易点发展起来的。",
+      "ja": "1158年6月14日は、ミュンヘンの公式な創設日とされています。皇帝がイーザル川沿いの修道士たちの近くに市場を設けることを確認しました。この交易地からバイエルンの首都が発展しました。",
+      "ko": "1158년 6월 14일은 뮌헨의 공식 창립일로 여겨집니다. 황제가 이자르 강가의 수도사들 근처에 시장을 세우는 것을 확인했습니다. 바이에른의 수도는 이 교역지에서 성장했습니다.",
+      "hi": "14 जून 1158 को म्यूनिख की आधिकारिक स्थापना का दिन माना जाता है: सम्राट ने इसार नदी के किनारे भिक्षुओं के पास बाजार की स्थापना की पुष्टि की। इसी व्यापारिक स्थान से बवेरिया की राजधानी विकसित हुई।",
+      "ar": "يعد 14 يونيو 1158 يوم التأسيس الرسمي لميونخ: فقد اكد الامبراطور انشاء سوق قرب الرهبان على نهر ايزار. ومن هذا المكان التجاري نشأت عاصمة بافاريا."
     },
     "importance": {
       "ru": "Мюнхен начался как средневековый торговый узел, а стал одним из самых известных городов Германии.",
       "de": "Muenchen begann als mittelalterlicher Handelsplatz und wurde zu einer der bekanntesten Staedte Deutschlands.",
-      "en": "Munich began as a medieval trading point and became one of Germany's best-known cities."
+      "en": "Munich began as a medieval trading point and became one of Germany's best-known cities.",
+      "fr": "Munich commenca comme un centre commercial medieval et devint l'une des villes les plus connues d'Allemagne.",
+      "es": "Munich comenzo como un punto comercial medieval y se convirtio en una de las ciudades mas conocidas de Alemania.",
+      "it": "Monaco nacque come luogo di commercio medievale e divenne una delle citta piu note della Germania.",
+      "pt": "Munique comecou como um ponto comercial medieval e tornou-se uma das cidades mais conhecidas da Alemanha.",
+      "nl": "Muenchen begon als een middeleeuwse handelsplaats en werd een van de bekendste steden van Duitsland.",
+      "pl": "Monachium zaczelo sie jako sredniowieczny punkt handlowy i stalo sie jednym z najbardziej znanych miast Niemiec.",
+      "tr": "Munih orta cagda bir ticaret noktasi olarak basladi ve Almanya'nin en taninmis kentlerinden biri oldu.",
+      "zh": "慕尼黑始于一个中世纪贸易点，后来成为德国最著名的城市之一。",
+      "ja": "ミュンヘンは中世の交易拠点として始まり、ドイツで最も有名な都市の一つとなりました。",
+      "ko": "뮌헨은 중세의 교역 지점으로 시작해 독일에서 가장 잘 알려진 도시 중 하나가 되었습니다.",
+      "hi": "म्यूनिख मध्ययुगीन व्यापारिक केंद्र के रूप में शुरू हुआ और जर्मनी के सबसे प्रसिद्ध शहरों में से एक बन गया।",
+      "ar": "بدأت ميونخ كنقطة تجارية في العصور الوسطى واصبحت من اشهر مدن المانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Рынок у Изара",
           "de": "Markt an der Isar",
-          "en": "A market on the Isar"
+          "en": "A market on the Isar",
+          "fr": "Un marche sur l'Isar",
+          "es": "Un mercado junto al Isar",
+          "it": "Un mercato sull'Isar",
+          "pt": "Um mercado no Isar",
+          "nl": "Een markt aan de Isar",
+          "pl": "Targ nad Izara",
+          "tr": "Isar kiyisinda bir pazar",
+          "zh": "伊萨尔河畔的市场",
+          "ja": "イーザル川沿いの市場",
+          "ko": "이자르 강가의 시장",
+          "hi": "इसार नदी के किनारे बाजार",
+          "ar": "سوق على نهر ايزار"
         },
         "description": {
           "ru": "Название München связано с монахами, а ранняя история города связана с мостом, рынком и борьбой за торговые доходы. Это хороший пример того, как в Средневековье рождались города.",
           "de": "Der Name Muenchen haengt mit Moenchen zusammen, und die fruehe Stadtgeschichte ist mit Bruecke, Markt und dem Streit um Handelseinnahmen verbunden. Das zeigt gut, wie Staedte im Mittelalter entstanden.",
-          "en": "The name Munich is linked with monks, and the city's early history involved a bridge, a market and disputes over trade income. It is a good example of how medieval towns emerged."
+          "en": "The name Munich is linked with monks, and the city's early history involved a bridge, a market and disputes over trade income. It is a good example of how medieval towns emerged.",
+          "fr": "Le nom Munich est lie aux moines, et les debuts de la ville concernent un pont, un marche et des conflits autour des revenus du commerce. C'est un bon exemple de la naissance des villes medievales.",
+          "es": "El nombre Munich esta relacionado con los monjes, y la historia temprana de la ciudad implico un puente, un mercado y disputas por ingresos comerciales. Es un buen ejemplo de como surgian las ciudades medievales.",
+          "it": "Il nome Monaco e legato ai monaci, e la prima storia della citta riguarda un ponte, un mercato e dispute sui proventi del commercio. E un buon esempio di come nascevano le citta medievali.",
+          "pt": "O nome Munique esta ligado aos monges, e a historia inicial da cidade envolveu uma ponte, um mercado e disputas por renda comercial. E um bom exemplo de como surgiam cidades medievais.",
+          "nl": "De naam Muenchen hangt samen met monniken, en de vroege stadsgeschiedenis draaide om een brug, een markt en conflicten over handelsinkomsten. Het is een goed voorbeeld van hoe middeleeuwse steden ontstonden.",
+          "pl": "Nazwa Monachium wiaze sie z mnichami, a wczesna historia miasta dotyczyla mostu, targu i sporow o dochody z handlu. To dobry przyklad tego, jak powstawaly sredniowieczne miasta.",
+          "tr": "Munih adi rahiplerle baglantilidir; kentin erken tarihi bir kopru, pazar ve ticaret gelirleri uzerindeki cekismelerle ilgilidir. Bu, orta cag kentlerinin nasil dogduguna iyi bir ornektir.",
+          "zh": "慕尼黑的名称与修士有关，这座城市的早期历史也与桥梁、市场和贸易收入之争有关。这是中世纪城市如何形成的一个好例子。",
+          "ja": "ミュンヘンという名は修道士と関係があり、都市の初期史には橋、市場、交易収入をめぐる争いが関わっていました。中世の都市がどのように生まれたかを示すよい例です。",
+          "ko": "뮌헨이라는 이름은 수도사들과 연결되어 있으며, 도시의 초기 역사는 다리, 시장, 무역 수입을 둘러싼 다툼과 관련이 있었습니다. 이는 중세 도시가 어떻게 생겨났는지를 보여 주는 좋은 예입니다.",
+          "hi": "म्यूनिख नाम भिक्षुओं से जुड़ा है, और शहर का प्रारंभिक इतिहास पुल, बाजार और व्यापारिक आय के विवादों से जुड़ा था। यह मध्ययुगीन नगरों के जन्म का अच्छा उदाहरण है।",
+          "ar": "يرتبط اسم ميونخ بالرهبان، وكانت بدايات تاريخ المدينة مرتبطة بجسر وسوق ونزاع على عائدات التجارة. وهذا مثال جيد على كيفية نشوء مدن العصور الوسطى."
         },
         "importance": {
           "ru": "Городская история здесь начинается не с дворца, а с торговли и дороги.",
           "de": "Stadtgeschichte beginnt hier nicht mit einem Palast, sondern mit Handel und Weg.",
-          "en": "Urban history here begins not with a palace, but with trade and a route."
+          "en": "Urban history here begins not with a palace, but with trade and a route.",
+          "fr": "Ici, l'histoire urbaine ne commence pas par un palais, mais par le commerce et une route.",
+          "es": "Aqui la historia urbana no empieza con un palacio, sino con el comercio y una ruta.",
+          "it": "Qui la storia urbana non comincia con un palazzo, ma con il commercio e una via.",
+          "pt": "Aqui a historia urbana nao comeca com um palacio, mas com comercio e uma rota.",
+          "nl": "Stadsgeschiedenis begint hier niet met een paleis, maar met handel en een route.",
+          "pl": "Historia miasta zaczyna sie tu nie od palacu, lecz od handlu i drogi.",
+          "tr": "Burada kent tarihi bir sarayla degil, ticaret ve bir yol ile baslar.",
+          "zh": "这里的城市历史不是从宫殿开始，而是从贸易和道路开始。",
+          "ja": "ここでの都市史は宮殿ではなく、交易と道から始まります。",
+          "ko": "이곳의 도시 역사는 궁전이 아니라 무역과 길에서 시작됩니다.",
+          "hi": "यहां शहरी इतिहास महल से नहीं, बल्कि व्यापार और रास्ते से शुरू होता है।",
+          "ar": "هنا لا يبدأ تاريخ المدينة بقصر، بل بالتجارة والطريق."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "На гербе Мюнхена изображён Münchner Kindl, фигура, связанная с монашеским происхождением названия города.",
     "de": "Auf dem Muenchner Wappen erscheint das Muenchner Kindl, eine Figur, die mit dem monastischen Ursprung des Stadtnamens verbunden ist.",
-    "en": "Munich's coat of arms shows the Muenchner Kindl, a figure linked with the monastic origin of the city's name."
+    "en": "Munich's coat of arms shows the Muenchner Kindl, a figure linked with the monastic origin of the city's name.",
+    "fr": "Les armoiries de Munich montrent le Muenchner Kindl, une figure liee a l'origine monastique du nom de la ville.",
+    "es": "El escudo de Munich muestra al Muenchner Kindl, una figura relacionada con el origen monastico del nombre de la ciudad.",
+    "it": "Lo stemma di Monaco mostra il Muenchner Kindl, una figura legata all'origine monastica del nome della citta.",
+    "pt": "O brasao de Munique mostra o Muenchner Kindl, uma figura ligada a origem monastica do nome da cidade.",
+    "nl": "Het wapen van Muenchen toont het Muenchner Kindl, een figuur die verbonden is met de monastieke oorsprong van de stadsnaam.",
+    "pl": "Herb Monachium przedstawia Muenchner Kindl, postac zwiazana z klasztornym pochodzeniem nazwy miasta.",
+    "tr": "Munih armasinda, kentin adinin manastir kokeniyle baglantili bir figur olan Muenchner Kindl yer alir.",
+    "zh": "慕尼黑市徽上有“Muenchner Kindl”，这一形象与城市名称的修道院起源有关。",
+    "ja": "ミュンヘンの紋章には、都市名の修道院的起源と結びついた人物「Muenchner Kindl」が描かれています。",
+    "ko": "뮌헨의 문장에는 도시 이름의 수도원적 기원과 연결된 인물인 Muenchner Kindl이 나타납니다.",
+    "hi": "म्यूनिख के राजचिह्न में Muenchner Kindl दिखता है, जो शहर के नाम की मठवासी उत्पत्ति से जुड़ी आकृति है।",
+    "ar": "يظهر في شعار ميونخ Muenchner Kindl، وهي شخصية مرتبطة بالاصل الرهباني لاسم المدينة."
   },
   "sources": [
     {

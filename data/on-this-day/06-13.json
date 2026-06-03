@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умер Людвиг II Баварский",
       "de": "Ludwig II. von Bayern stirbt",
-      "en": "Ludwig II of Bavaria dies"
+      "en": "Ludwig II of Bavaria dies",
+      "fr": "Mort de Louis II de Baviere",
+      "es": "Muere Luis II de Baviera",
+      "it": "Muore Ludovico II di Baviera",
+      "pt": "Morre Luis II da Baviera",
+      "nl": "Lodewijk II van Beieren overlijdt",
+      "pl": "Umiera Ludwik II Bawarski",
+      "tr": "Bavyera Kralı II. Ludwig olur",
+      "zh": "巴伐利亚路德维希二世去世",
+      "ja": "バイエルン王ルートヴィヒ2世が死去",
+      "ko": "바이에른의 루트비히 2세가 사망하다",
+      "hi": "बवेरिया के लुडविग द्वितीय की मृत्यु",
+      "ar": "وفاة لودفيغ الثاني ملك بافاريا"
     },
     "description": {
       "ru": "13 июня 1886 года Людвиг II Баварский погиб при загадочных обстоятельствах в Штарнбергском озере. Он известен как покровитель Рихарда Вагнера и строитель сказочных замков.",
       "de": "Am 13. Juni 1886 starb Ludwig II. von Bayern unter raetselhaften Umstaenden im Starnberger See. Er ist als Foerderer Richard Wagners und als Bauherr maerchenhafter Schloesser bekannt.",
-      "en": "On 13 June 1886, Ludwig II of Bavaria died under mysterious circumstances in Lake Starnberg. He is known as Richard Wagner's patron and as the builder of fairytale castles."
+      "en": "On 13 June 1886, Ludwig II of Bavaria died under mysterious circumstances in Lake Starnberg. He is known as Richard Wagner's patron and as the builder of fairytale castles.",
+      "fr": "Le 13 juin 1886, Louis II de Baviere mourut dans des circonstances mysterieuses dans le lac de Starnberg. Il est connu comme protecteur de Richard Wagner et comme constructeur de chateaux de conte de fees.",
+      "es": "El 13 de junio de 1886, Luis II de Baviera murio en circunstancias misteriosas en el lago Starnberg. Es conocido como mecenas de Richard Wagner y constructor de castillos de cuento.",
+      "it": "Il 13 giugno 1886 Ludovico II di Baviera mori in circostanze misteriose nel lago di Starnberg. E noto come mecenate di Richard Wagner e costruttore di castelli fiabeschi.",
+      "pt": "Em 13 de junho de 1886, Luis II da Baviera morreu em circunstancias misteriosas no lago Starnberg. Ele e conhecido como patrono de Richard Wagner e construtor de castelos de conto de fadas.",
+      "nl": "Op 13 juni 1886 overleed Lodewijk II van Beieren onder raadselachtige omstandigheden in de Starnberger See. Hij staat bekend als beschermheer van Richard Wagner en bouwer van sprookjesachtige kastelen.",
+      "pl": "13 czerwca 1886 roku Ludwik II Bawarski zginal w tajemniczych okolicznosciach w jeziorze Starnberg. Jest znany jako mecenas Richarda Wagnera i budowniczy bajkowych zamkow.",
+      "tr": "13 Haziran 1886'da Bavyera Kralı II. Ludwig, Starnberg Golu'nde gizemli kosullarda oldu. Richard Wagner'in koruyucusu ve masalsi satolarin yaptiricisi olarak bilinir.",
+      "zh": "1886年6月13日，巴伐利亚路德维希二世在施塔恩贝格湖中神秘死亡。他以资助理查德·瓦格纳和建造童话城堡而闻名。",
+      "ja": "1886年6月13日、バイエルン王ルートヴィヒ2世はシュタルンベルク湖で謎めいた状況のもと死亡しました。彼はリヒャルト・ワーグナーの庇護者であり、童話のような城の建設者として知られています。",
+      "ko": "1886년 6월 13일 바이에른의 루트비히 2세는 슈타른베르크 호수에서 의문스러운 상황 속에 사망했습니다. 그는 리하르트 바그너의 후원자이자 동화 같은 성들의 건축주로 알려져 있습니다.",
+      "hi": "13 जून 1886 को बवेरिया के लुडविग द्वितीय की श्टार्नबर्ग झील में रहस्यमय परिस्थितियों में मृत्यु हो गई। वे रिखार्ड वैगनर के संरक्षक और परीकथा जैसे महलों के निर्माता के रूप में जाने जाते हैं।",
+      "ar": "في 13 يونيو 1886 توفي لودفيغ الثاني ملك بافاريا في ظروف غامضة في بحيرة شتارنبرغ. وهو معروف بانه راعي ريتشارد فاغنر وباني قلاع تبدو كالحكايات."
     },
     "importance": {
       "ru": "Людвиг II соединяет политику Баварии, романтическую культуру и туристический образ Германии.",
       "de": "Ludwig II. verbindet bayerische Politik, romantische Kultur und das touristische Bild Deutschlands.",
-      "en": "Ludwig II connects Bavarian politics, Romantic culture and Germany's tourist image."
+      "en": "Ludwig II connects Bavarian politics, Romantic culture and Germany's tourist image.",
+      "fr": "Louis II relie la politique bavaroise, la culture romantique et l'image touristique de l'Allemagne.",
+      "es": "Luis II une la politica bavara, la cultura romantica y la imagen turistica de Alemania.",
+      "it": "Ludovico II collega la politica bavarese, la cultura romantica e l'immagine turistica della Germania.",
+      "pt": "Luis II liga a politica bavara, a cultura romantica e a imagem turistica da Alemanha.",
+      "nl": "Lodewijk II verbindt Beierse politiek, romantische cultuur en het toeristische beeld van Duitsland.",
+      "pl": "Ludwik II laczy polityke Bawarii, kulture romantyczna i turystyczny obraz Niemiec.",
+      "tr": "II. Ludwig Bavyera siyasetini, romantik kulturu ve Almanya'nin turistik imajini birlestirir.",
+      "zh": "路德维希二世把巴伐利亚政治、浪漫主义文化和德国旅游形象联系在一起。",
+      "ja": "ルートヴィヒ2世は、バイエルン政治、ロマン主義文化、ドイツの観光イメージを結びつけています。",
+      "ko": "루트비히 2세는 바이에른 정치, 낭만주의 문화, 독일의 관광 이미지를 연결합니다.",
+      "hi": "लुडविग द्वितीय बवेरियाई राजनीति, रोमांटिक संस्कृति और जर्मनी की पर्यटन छवि को जोड़ते हैं।",
+      "ar": "يربط لودفيغ الثاني بين سياسة بافاريا والثقافة الرومانسية والصورة السياحية لالمانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Замки и кризис власти",
           "de": "Schloesser und Machtkrise",
-          "en": "Castles and a crisis of power"
+          "en": "Castles and a crisis of power",
+          "fr": "Chateaux et crise du pouvoir",
+          "es": "Castillos y crisis de poder",
+          "it": "Castelli e crisi del potere",
+          "pt": "Castelos e crise de poder",
+          "nl": "Kastelen en machtscrisis",
+          "pl": "Zamki i kryzys wladzy",
+          "tr": "Satolar ve iktidar krizi",
+          "zh": "城堡与权力危机",
+          "ja": "城と権力危機",
+          "ko": "성들과 권력 위기",
+          "hi": "महल और सत्ता संकट",
+          "ar": "القلاع وازمة السلطة"
         },
         "description": {
           "ru": "За образом «сказочного короля» скрывалась политическая драма: короля объявили неспособным править, а вскоре он погиб. Поэтому история Людвига II одновременно красива и тревожна.",
           "de": "Hinter dem Bild des Maerchenkoenigs stand ein politisches Drama: Der Koenig wurde fuer regierungsunfaehig erklaert und starb kurz darauf. Deshalb ist Ludwigs Geschichte zugleich schoen und beunruhigend.",
-          "en": "Behind the image of the fairytale king stood a political drama: he was declared unfit to rule and died soon afterward. Ludwig's story is therefore both beautiful and unsettling."
+          "en": "Behind the image of the fairytale king stood a political drama: he was declared unfit to rule and died soon afterward. Ludwig's story is therefore both beautiful and unsettling.",
+          "fr": "Derriere l'image du roi de conte de fees se cachait un drame politique: le roi fut declare incapable de regner et mourut peu apres. L'histoire de Louis II est donc a la fois belle et inquietante.",
+          "es": "Detras de la imagen del rey de cuento habia un drama politico: fue declarado incapaz de gobernar y murio poco despues. Por eso la historia de Luis II es a la vez hermosa e inquietante.",
+          "it": "Dietro l'immagine del re fiabesco c'era un dramma politico: il re fu dichiarato incapace di governare e mori poco dopo. La storia di Ludovico II e quindi insieme bella e inquietante.",
+          "pt": "Por tras da imagem do rei de conto de fadas havia um drama politico: o rei foi declarado incapaz de governar e morreu pouco depois. Por isso, a historia de Luis II e ao mesmo tempo bela e inquietante.",
+          "nl": "Achter het beeld van de sprookjeskoning stond een politiek drama: de koning werd onbekwaam verklaard om te regeren en stierf kort daarna. Daarom is Ludwigs verhaal tegelijk mooi en verontrustend.",
+          "pl": "Za obrazem bajkowego krola kryl sie dramat polityczny: krola uznano za niezdolnego do rzadzenia, a wkrotce potem zginal. Dlatego historia Ludwika II jest jednoczesnie piekna i niepokojaca.",
+          "tr": "Masal krali imajinin arkasinda siyasi bir dram vardi: kral yonetmeye uygun degil ilan edildi ve kisa sure sonra oldu. Bu yuzden II. Ludwig'in hikayesi hem guzel hem de huzursuz edicidir.",
+          "zh": "“童话国王”的形象背后是一场政治悲剧：他被宣布不适合统治，不久后便死亡。因此，路德维希二世的故事既美丽又令人不安。",
+          "ja": "「童話の王」というイメージの背後には政治的なドラマがありました。王は統治不能と宣告され、その直後に死亡しました。そのためルートヴィヒ2世の物語は、美しくも不穏です。",
+          "ko": "동화 속 왕이라는 이미지 뒤에는 정치적 드라마가 있었습니다. 그는 통치 부적격으로 선언되었고 곧 사망했습니다. 그래서 루트비히 2세의 이야기는 아름답지만 불안한 느낌도 줍니다.",
+          "hi": "परीकथा वाले राजा की छवि के पीछे राजनीतिक नाटक था: उन्हें शासन के अयोग्य घोषित किया गया और कुछ ही समय बाद उनकी मृत्यु हो गई। इसलिए लुडविग द्वितीय की कहानी सुंदर भी है और बेचैन करने वाली भी।",
+          "ar": "خلف صورة الملك الاسطوري كان هناك دراما سياسية: اعلن الملك غير قادر على الحكم ثم مات بعد ذلك بوقت قصير. لذلك تبدو قصة لودفيغ الثاني جميلة ومقلقة في الوقت نفسه."
         },
         "importance": {
           "ru": "Это помогает не видеть в замках только открытку, а помнить исторический контекст.",
           "de": "Das hilft, in den Schloessern nicht nur Postkartenmotive zu sehen, sondern ihren historischen Kontext.",
-          "en": "It helps us see the castles not only as postcard images, but in their historical context."
+          "en": "It helps us see the castles not only as postcard images, but in their historical context.",
+          "fr": "Cela aide a voir les chateaux non seulement comme des cartes postales, mais aussi dans leur contexte historique.",
+          "es": "Ayuda a ver los castillos no solo como postales, sino dentro de su contexto historico.",
+          "it": "Aiuta a vedere i castelli non solo come immagini da cartolina, ma nel loro contesto storico.",
+          "pt": "Isso ajuda a ver os castelos nao apenas como imagens de cartao-postal, mas em seu contexto historico.",
+          "nl": "Het helpt de kastelen niet alleen als ansichtkaartbeelden te zien, maar in hun historische context.",
+          "pl": "Pomaga to widziec zamki nie tylko jako pocztowkowe obrazki, lecz takze w ich kontekscie historycznym.",
+          "tr": "Bu, satolari yalnizca kartpostal goruntuleri olarak degil, tarihsel baglamlari icinde gormeye yardim eder.",
+          "zh": "这有助于人们不只把城堡看作明信片图像，而是放在历史背景中理解。",
+          "ja": "これは、城を単なる絵葉書の風景としてだけでなく、その歴史的文脈の中で見る助けになります。",
+          "ko": "이는 성들을 단순한 엽서 이미지가 아니라 역사적 맥락 속에서 보도록 도와줍니다.",
+          "hi": "यह महलों को सिर्फ पोस्टकार्ड जैसी तस्वीर नहीं, बल्कि उनके ऐतिहासिक संदर्भ में देखने में मदद करता है।",
+          "ar": "يساعد ذلك على رؤية القلاع ليس كصور بطاقات بريدية فقط، بل في سياقها التاريخي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Замок, похожий на сказку",
           "de": "Ein Schloss wie aus dem Maerchen",
-          "en": "A castle like a fairy tale"
+          "en": "A castle like a fairy tale",
+          "fr": "Un chateau comme dans un conte",
+          "es": "Un castillo como de cuento",
+          "it": "Un castello da fiaba",
+          "pt": "Um castelo como em um conto de fadas",
+          "nl": "Een kasteel als uit een sprookje",
+          "pl": "Zamek jak z bajki",
+          "tr": "Masaldan cikmis gibi bir sato",
+          "zh": "像童话一样的城堡",
+          "ja": "童話のような城",
+          "ko": "동화 같은 성",
+          "hi": "परीकथा जैसा महल",
+          "ar": "قلعة كأنها من حكاية"
         },
         "description": {
           "ru": "Нойшванштайн стал одним из самых узнаваемых замков Европы. Забавно, что при жизни Людвига он не был завершён и не был рассчитан на толпы туристов.",
           "de": "Neuschwanstein wurde zu einem der bekanntesten Schloesser Europas. Kurios ist, dass es zu Ludwigs Lebzeiten nicht fertig war und nicht fuer Touristenmassen geplant wurde.",
-          "en": "Neuschwanstein became one of Europe's best-known castles. Curiously, it was unfinished during Ludwig's lifetime and was not designed for crowds of tourists."
+          "en": "Neuschwanstein became one of Europe's best-known castles. Curiously, it was unfinished during Ludwig's lifetime and was not designed for crowds of tourists.",
+          "fr": "Neuschwanstein devint l'un des chateaux les plus connus d'Europe. Fait curieux, il n'etait pas acheve du vivant de Louis et n'avait pas ete concu pour des foules de touristes.",
+          "es": "Neuschwanstein se convirtio en uno de los castillos mas reconocibles de Europa. Lo curioso es que no estaba terminado en vida de Luis y no fue pensado para multitudes de turistas.",
+          "it": "Neuschwanstein divenne uno dei castelli piu riconoscibili d'Europa. Curiosamente, durante la vita di Ludovico non era finito e non era pensato per folle di turisti.",
+          "pt": "Neuschwanstein tornou-se um dos castelos mais reconheciveis da Europa. Curiosamente, nao estava concluido durante a vida de Luis e nao foi planejado para multidoes de turistas.",
+          "nl": "Neuschwanstein werd een van de bekendste kastelen van Europa. Opmerkelijk genoeg was het tijdens Ludwigs leven niet voltooid en niet ontworpen voor massa's toeristen.",
+          "pl": "Neuschwanstein stal sie jednym z najbardziej rozpoznawalnych zamkow Europy. Ciekawe jest to, ze za zycia Ludwika nie byl ukonczony i nie byl projektowany dla tlumow turystow.",
+          "tr": "Neuschwanstein Avrupa'nin en taninan satolarindan biri oldu. Ilginctir ki Ludwig hayattayken tamamlanmamis ve turist kalabaliklari icin tasarlanmamisti.",
+          "zh": "新天鹅堡成为欧洲最知名的城堡之一。有趣的是，在路德维希生前它尚未完工，也并非为大批游客而设计。",
+          "ja": "ノイシュヴァンシュタイン城はヨーロッパで最もよく知られた城の一つとなりました。興味深いことに、ルートヴィヒの生前には未完成で、観光客の群れのために設計されたものでもありませんでした。",
+          "ko": "노이슈반슈타인은 유럽에서 가장 잘 알려진 성 중 하나가 되었습니다. 흥미롭게도 루트비히 생전에는 완성되지 않았고 관광객 무리를 위해 설계된 것도 아니었습니다.",
+          "hi": "नॉयश्वानश्टाइन यूरोप के सबसे पहचानने योग्य महलों में से एक बन गया। रोचक बात यह है कि लुडविग के जीवनकाल में यह पूरा नहीं हुआ था और इसे पर्यटकों की भीड़ के लिए नहीं बनाया गया था।",
+          "ar": "اصبحت نويشفانشتاين من اشهر قلاع اوروبا. ومن اللافت انها لم تكن مكتملة في حياة لودفيغ ولم تصمم لحشود السياح."
         },
         "importance": {
           "ru": "Так личная фантазия короля превратилась в мировой символ Баварии.",
           "de": "So wurde die persoenliche Fantasie eines Koenigs zu einem weltweiten Symbol Bayerns.",
-          "en": "A king's personal fantasy became a worldwide symbol of Bavaria."
+          "en": "A king's personal fantasy became a worldwide symbol of Bavaria.",
+          "fr": "Ainsi, la fantaisie personnelle d'un roi devint un symbole mondial de la Baviere.",
+          "es": "Asi, la fantasia personal de un rey se convirtio en simbolo mundial de Baviera.",
+          "it": "Cosi la fantasia personale di un re divenne un simbolo mondiale della Baviera.",
+          "pt": "Assim, a fantasia pessoal de um rei tornou-se um simbolo mundial da Baviera.",
+          "nl": "Zo werd de persoonlijke fantasie van een koning een wereldwijd symbool van Beieren.",
+          "pl": "Tak osobista fantazja krola stala sie swiatowym symbolem Bawarii.",
+          "tr": "Boylece bir kralin kisisel hayali Bavyera'nin dunya capinda simgesi oldu.",
+          "zh": "就这样，一位国王的个人幻想变成了巴伐利亚的世界象征。",
+          "ja": "こうして、一人の王の個人的な幻想がバイエルンの世界的な象徴となりました。",
+          "ko": "이렇게 한 왕의 개인적 환상이 바이에른의 세계적 상징이 되었습니다.",
+          "hi": "इस तरह एक राजा की निजी कल्पना बवेरिया का विश्वव्यापी प्रतीक बन गई।",
+          "ar": "هكذا تحولت خيالات ملك شخصية الى رمز عالمي لبافاريا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Обстоятельства смерти Людвига II до сих пор вызывают споры и версии.",
     "de": "Die Umstaende von Ludwigs Tod sorgen bis heute fuer Diskussionen und Theorien.",
-    "en": "The circumstances of Ludwig's death still provoke debate and theories."
+    "en": "The circumstances of Ludwig's death still provoke debate and theories.",
+    "fr": "Les circonstances de la mort de Louis II suscitent encore des debats et des theories.",
+    "es": "Las circunstancias de la muerte de Luis II todavia provocan debates y teorias.",
+    "it": "Le circostanze della morte di Ludovico II suscitano ancora discussioni e teorie.",
+    "pt": "As circunstancias da morte de Luis II ainda provocam debates e teorias.",
+    "nl": "De omstandigheden van Ludwigs dood roepen nog altijd discussie en theorieen op.",
+    "pl": "Okolicznosci smierci Ludwika II do dzis wywoluja dyskusje i teorie.",
+    "tr": "II. Ludwig'in olum kosullari hala tartismalara ve teorilere yol aciyor.",
+    "zh": "路德维希二世的死亡情况至今仍引发争论和各种说法。",
+    "ja": "ルートヴィヒ2世の死の状況は、今も議論やさまざまな説を呼んでいます。",
+    "ko": "루트비히 2세의 사망 경위는 지금도 논쟁과 여러 이론을 불러일으킵니다.",
+    "hi": "लुडविग द्वितीय की मृत्यु की परिस्थितियां आज भी बहस और कई सिद्धांतों को जन्म देती हैं।",
+    "ar": "ما زالت ظروف وفاة لودفيغ الثاني تثير الجدل والنظريات حتى اليوم."
   },
   "sources": [
     {
