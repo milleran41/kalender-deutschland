@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умерла Хильдегарда Бингенская",
       "de": "Hildegard von Bingen stirbt",
-      "en": "Hildegard of Bingen dies"
+      "en": "Hildegard of Bingen dies",
+      "fr": "Hildegarde de Bingen meurt",
+      "es": "Muere Hildegarda de Bingen",
+      "it": "Muore Ildegarda di Bingen",
+      "pt": "Morre Hildegarda de Bingen",
+      "nl": "Hildegard van Bingen sterft",
+      "pl": "Zmarła Hildegarda z Bingen",
+      "tr": "Bingenli Hildegard öldü",
+      "zh": "宾根的希尔德加德逝世",
+      "ja": "ビンゲンのヒルデガルトが亡くなる",
+      "ko": "빙겐의 힐데가르트가 사망하다",
+      "hi": "बिंगेन की हिल्डेगार्ड का निधन हुआ",
+      "ar": "وفاة هيلدغارد من بينغن"
     },
     "description": {
       "ru": "17 сентября 1179 года на Рупертсберге близ Бингена умерла Хильдегарда Бингенская. Она была аббатисой, писательницей, композитором, мыслительницей и автором трудов о природе.",
       "de": "Am 17. September 1179 starb Hildegard von Bingen auf dem Rupertsberg bei Bingen. Sie war Aebtissin, Schriftstellerin, Komponistin, Denkerin und Autorin von Schriften ueber die Natur.",
-      "en": "On 17 September 1179, Hildegard of Bingen died at Rupertsberg near Bingen. She was an abbess, writer, composer, thinker and author of works on nature."
+      "en": "On 17 September 1179, Hildegard of Bingen died at Rupertsberg near Bingen. She was an abbess, writer, composer, thinker and author of works on nature.",
+      "fr": "Le 17 septembre 1179, Hildegarde de Bingen mourut au Rupertsberg près de Bingen. Elle fut abbesse, écrivaine, compositrice, penseuse et auteure d'ouvrages sur la nature.",
+      "es": "El 17 de septiembre de 1179 murió Hildegarda de Bingen en Rupertsberg, cerca de Bingen. Fue abadesa, escritora, compositora, pensadora y autora de obras sobre la naturaleza.",
+      "it": "Il 17 settembre 1179 Ildegarda di Bingen morì sul Rupertsberg, vicino a Bingen. Fu badessa, scrittrice, compositrice, pensatrice e autrice di opere sulla natura.",
+      "pt": "Em 17 de setembro de 1179, Hildegarda de Bingen morreu em Rupertsberg, perto de Bingen. Ela foi abadessa, escritora, compositora, pensadora e autora de obras sobre a natureza.",
+      "nl": "Op 17 september 1179 stierf Hildegard van Bingen op de Rupertsberg bij Bingen. Zij was abdis, schrijfster, componiste, denker en auteur van werken over de natuur.",
+      "pl": "17 września 1179 roku Hildegarda z Bingen zmarła na Rupertsbergu koło Bingen. Była ksienią, pisarką, kompozytorką, myślicielką i autorką dzieł o naturze.",
+      "tr": "17 Eylül 1179'da Bingenli Hildegard, Bingen yakınlarındaki Rupertsberg'de öldü. Başrahibe, yazar, besteci, düşünür ve doğa üzerine eserlerin yazarıydı.",
+      "zh": "1179年9月17日，宾根的希尔德加德在宾根附近的鲁佩茨贝格去世。她是女修道院院长、作家、作曲家、思想家，也是自然著作的作者。",
+      "ja": "1179年9月17日、ビンゲンのヒルデガルトはビンゲン近郊のルーペルツベルクで亡くなりました。彼女は女子修道院長、作家、作曲家、思想家であり、自然に関する著作の作者でもありました。",
+      "ko": "1179년 9월 17일 빙겐의 힐데가르트는 빙겐 근처 루페르츠베르크에서 세상을 떠났습니다. 그녀는 수녀원장, 작가, 작곡가, 사상가이자 자연에 관한 저술가였습니다.",
+      "hi": "17 सितंबर 1179 को बिंगेन की हिल्डेगार्ड का निधन बिंगेन के पास रुपर्ट्सबर्ग में हुआ। वे अब्बेस, लेखिका, संगीतकार, विचारक और प्रकृति पर लिखने वाली विदुषी थीं।",
+      "ar": "في 17 سبتمبر 1179 توفيت هيلدغارد من بينغن في روبرتسبرغ قرب بينغن. كانت رئيسة دير وكاتبة وملحنة ومفكرة ومؤلفة أعمال عن الطبيعة."
     },
     "importance": {
       "ru": "Хильдегарда показывает, что средневековая Германия была не только миром рыцарей и императоров, но и миром знаний, музыки и рукописей.",
       "de": "Hildegard zeigt, dass das mittelalterliche Deutschland nicht nur aus Rittern und Kaisern bestand, sondern auch aus Wissen, Musik und Handschriften.",
-      "en": "Hildegard shows that medieval Germany was not only a world of knights and emperors, but also of knowledge, music and manuscripts."
+      "en": "Hildegard shows that medieval Germany was not only a world of knights and emperors, but also of knowledge, music and manuscripts.",
+      "fr": "Hildegarde montre que l'Allemagne médiévale n'était pas seulement un monde de chevaliers et d'empereurs, mais aussi de savoir, de musique et de manuscrits.",
+      "es": "Hildegarda muestra que la Alemania medieval no era solo un mundo de caballeros y emperadores, sino también de saber, música y manuscritos.",
+      "it": "Ildegarda mostra che la Germania medievale non era solo un mondo di cavalieri e imperatori, ma anche di sapere, musica e manoscritti.",
+      "pt": "Hildegarda mostra que a Alemanha medieval não era apenas um mundo de cavaleiros e imperadores, mas também de conhecimento, música e manuscritos.",
+      "nl": "Hildegard laat zien dat middeleeuws Duitsland niet alleen een wereld van ridders en keizers was, maar ook van kennis, muziek en handschriften.",
+      "pl": "Hildegarda pokazuje, że średniowieczne Niemcy były nie tylko światem rycerzy i cesarzy, lecz także wiedzy, muzyki i rękopisów.",
+      "tr": "Hildegard, Orta Çağ Almanyası'nın yalnızca şövalyeler ve imparatorlardan değil, bilgi, müzik ve el yazmalarından da oluştuğunu gösterir.",
+      "zh": "希尔德加德说明，中世纪德国不仅是骑士和皇帝的世界，也是知识、音乐和手稿的世界。",
+      "ja": "ヒルデガルトは、中世ドイツが騎士や皇帝の世界だけでなく、知識、音楽、写本の世界でもあったことを示しています。",
+      "ko": "힐데가르트는 중세 독일이 기사와 황제의 세계일 뿐 아니라 지식, 음악, 필사본의 세계였음을 보여 줍니다.",
+      "hi": "हिल्डेगार्ड दिखाती हैं कि मध्ययुगीन जर्मनी केवल शूरवीरों और सम्राटों की दुनिया नहीं था, बल्कि ज्ञान, संगीत और पांडुलिपियों की दुनिया भी था।",
+      "ar": "تُظهر هيلدغارد أن ألمانيا في العصور الوسطى لم تكن عالم فرسان وأباطرة فقط، بل عالم معرفة وموسيقى ومخطوطات أيضاً."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Музыка, видения и книги",
           "de": "Musik, Visionen und Buecher",
-          "en": "Music, visions and books"
+          "en": "Music, visions and books",
+          "fr": "Musique, visions et livres",
+          "es": "Música, visiones y libros",
+          "it": "Musica, visioni e libri",
+          "pt": "Música, visões e livros",
+          "nl": "Muziek, visioenen en boeken",
+          "pl": "Muzyka, wizje i księgi",
+          "tr": "Müzik, görümler ve kitaplar",
+          "zh": "音乐、异象与书籍",
+          "ja": "音楽、幻視、本",
+          "ko": "음악, 환시, 책",
+          "hi": "संगीत, दर्शन और पुस्तकें",
+          "ar": "موسيقى ورؤى وكتب"
         },
         "description": {
           "ru": "Хильдегарда оставила духовные песнопения, богословские тексты и сочинения о человеке и природе. Для XII века это был необычайно широкий круг занятий.",
           "de": "Hildegard hinterliess geistliche Gesaenge, theologische Texte und Schriften ueber Mensch und Natur. Fuer das 12. Jahrhundert war das ein ungewoehnlich breites Feld.",
-          "en": "Hildegard left sacred songs, theological texts and writings on humanity and nature. For the 12th century, that was an unusually wide range."
+          "en": "Hildegard left sacred songs, theological texts and writings on humanity and nature. For the 12th century, that was an unusually wide range.",
+          "fr": "Hildegarde laissa des chants sacrés, des textes théologiques et des écrits sur l'être humain et la nature. Pour le XIIe siècle, c'était un champ exceptionnellement large.",
+          "es": "Hildegarda dejó cantos sagrados, textos teológicos y escritos sobre el ser humano y la naturaleza. Para el siglo XII, era un campo inusualmente amplio.",
+          "it": "Ildegarda lasciò canti sacri, testi teologici e scritti sull'uomo e sulla natura. Per il XII secolo era un campo insolitamente ampio.",
+          "pt": "Hildegarda deixou cânticos sagrados, textos teológicos e escritos sobre o ser humano e a natureza. Para o século XII, era um campo incomumente amplo.",
+          "nl": "Hildegard liet geestelijke liederen, theologische teksten en geschriften over mens en natuur na. Voor de 12e eeuw was dat een ongewoon breed terrein.",
+          "pl": "Hildegarda pozostawiła pieśni religijne, teksty teologiczne oraz pisma o człowieku i naturze. Jak na XII wiek był to niezwykle szeroki zakres.",
+          "tr": "Hildegard dinsel ilahiler, teolojik metinler ve insan ile doğa üzerine yazılar bıraktı. 12. yüzyıl için bu olağanüstü geniş bir alandı.",
+          "zh": "希尔德加德留下了宗教圣歌、神学文本以及关于人和自然的著作。对12世纪来说，这一范围异常宽广。",
+          "ja": "ヒルデガルトは聖歌、神学的著作、人間と自然に関する文章を残しました。12世紀としては、これは非常に幅広い活動でした。",
+          "ko": "힐데가르트는 성가, 신학 문헌, 인간과 자연에 관한 글을 남겼습니다. 12세기로서는 매우 넓은 활동 범위였습니다.",
+          "hi": "हिल्डेगार्ड ने धार्मिक गीत, धर्मशास्त्रीय ग्रंथ और मनुष्य तथा प्रकृति पर लेखन छोड़ा। 12वीं सदी के लिए यह असाधारण रूप से व्यापक क्षेत्र था।",
+          "ar": "تركت هيلدغارد تراتيل روحية ونصوصاً لاهوتية وكتابات عن الإنسان والطبيعة. وبالنسبة إلى القرن الثاني عشر كان ذلك مجالاً واسعاً على نحو غير عادي."
         },
         "importance": {
           "ru": "Её имя помогает увидеть роль женщин в культуре Средневековья.",
           "de": "Ihr Name hilft, die Rolle von Frauen in der Kultur des Mittelalters zu erkennen.",
-          "en": "Her name helps reveal the role of women in medieval culture."
+          "en": "Her name helps reveal the role of women in medieval culture.",
+          "fr": "Son nom aide à voir le rôle des femmes dans la culture médiévale.",
+          "es": "Su nombre ayuda a ver el papel de las mujeres en la cultura medieval.",
+          "it": "Il suo nome aiuta a vedere il ruolo delle donne nella cultura medievale.",
+          "pt": "Seu nome ajuda a revelar o papel das mulheres na cultura medieval.",
+          "nl": "Haar naam helpt de rol van vrouwen in de middeleeuwse cultuur zichtbaar te maken.",
+          "pl": "Jej imię pomaga dostrzec rolę kobiet w kulturze średniowiecza.",
+          "tr": "Onun adı, Orta Çağ kültüründe kadınların rolünü görmeye yardımcı olur.",
+          "zh": "她的名字有助于揭示女性在中世纪文化中的作用。",
+          "ja": "彼女の名前は、中世文化における女性の役割を見えるようにしてくれます。",
+          "ko": "그녀의 이름은 중세 문화에서 여성의 역할을 드러내는 데 도움을 줍니다.",
+          "hi": "उनका नाम मध्ययुगीन संस्कृति में महिलाओं की भूमिका को समझने में मदद करता है।",
+          "ar": "يساعد اسمها على إظهار دور النساء في ثقافة العصور الوسطى."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Бингене и Рюдесхайме память о Хильдегарде до сих пор связана с музеями, монастырской традицией и рейнским пейзажем.",
     "de": "In Bingen und Ruedesheim ist die Erinnerung an Hildegard bis heute mit Museen, Klostertradition und Rheinlandschaft verbunden.",
-    "en": "In Bingen and Ruedesheim, Hildegard's memory is still linked with museums, monastic tradition and the Rhine landscape."
+    "en": "In Bingen and Ruedesheim, Hildegard's memory is still linked with museums, monastic tradition and the Rhine landscape.",
+    "fr": "À Bingen et Rüdesheim, la mémoire de Hildegarde reste liée aux musées, à la tradition monastique et au paysage rhénan.",
+    "es": "En Bingen y Rüdesheim, la memoria de Hildegarda sigue ligada a museos, tradición monástica y paisaje del Rin.",
+    "it": "A Bingen e Rüdesheim la memoria di Ildegarda è ancora legata a musei, tradizione monastica e paesaggio renano.",
+    "pt": "Em Bingen e Rüdesheim, a memória de Hildegarda ainda está ligada a museus, tradição monástica e paisagem do Reno.",
+    "nl": "In Bingen en Rüdesheim is de herinnering aan Hildegard nog steeds verbonden met musea, kloostertraditie en het Rijnlandschap.",
+    "pl": "W Bingen i Rüdesheim pamięć o Hildegardzie wciąż łączy się z muzeami, tradycją klasztorną i krajobrazem Renu.",
+    "tr": "Bingen ve Rüdesheim'da Hildegard'ın hatırası hâlâ müzeler, manastır geleneği ve Ren manzarasıyla bağlantılıdır.",
+    "zh": "在宾根和吕德斯海姆，希尔德加德的记忆至今仍与博物馆、修道院传统和莱茵河景观相连。",
+    "ja": "ビンゲンとリューデスハイムでは、ヒルデガルトの記憶はいまも博物館、修道院の伝統、ライン川の風景と結びついています。",
+    "ko": "빙겐과 뤼데스하임에서 힐데가르트의 기억은 지금도 박물관, 수도원 전통, 라인강 풍경과 연결되어 있습니다.",
+    "hi": "बिंगेन और र्यूडेसहाइम में हिल्डेगार्ड की स्मृति आज भी संग्रहालयों, मठ परंपरा और राइन परिदृश्य से जुड़ी है।",
+    "ar": "في بينغن ورودسهايم ما زالت ذكرى هيلدغارد مرتبطة بالمتاحف والتقاليد الرهبانية ومنظر الراين."
   },
   "sources": [
     {
