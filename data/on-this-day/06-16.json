@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начались протесты рабочих в Восточном Берлине",
       "de": "Arbeiterproteste in Ost-Berlin beginnen",
-      "en": "Workers' protests begin in East Berlin"
+      "en": "Workers' protests begin in East Berlin",
+      "fr": "Les protestations ouvrieres commencent a Berlin-Est",
+      "es": "Comienzan las protestas obreras en Berlin Oriental",
+      "it": "Iniziano le proteste operaie a Berlino Est",
+      "pt": "Comecam os protestos de trabalhadores em Berlim Oriental",
+      "nl": "Arbeidersprotesten beginnen in Oost-Berlijn",
+      "pl": "Rozpoczynaja sie protesty robotnikow w Berlinie Wschodnim",
+      "tr": "Dogu Berlin'de isci protestolari baslar",
+      "zh": "东柏林工人抗议开始",
+      "ja": "東ベルリンで労働者の抗議が始まる",
+      "ko": "동베를린에서 노동자 시위가 시작되다",
+      "hi": "पूर्वी बर्लिन में मजदूरों के विरोध शुरू हुए",
+      "ar": "بدء احتجاجات العمال في برلين الشرقية"
     },
     "description": {
       "ru": "16 июня 1953 года строители в Восточном Берлине начали забастовку против повышения норм выработки. На следующий день протесты переросли в широкое восстание в ГДР.",
       "de": "Am 16. Juni 1953 begannen Bauarbeiter in Ost-Berlin einen Streik gegen erhoehte Arbeitsnormen. Am naechsten Tag wuchsen die Proteste zu einem breiten Aufstand in der DDR an.",
-      "en": "On 16 June 1953, construction workers in East Berlin began a strike against increased work quotas. The next day, the protests grew into a broad uprising in East Germany."
+      "en": "On 16 June 1953, construction workers in East Berlin began a strike against increased work quotas. The next day, the protests grew into a broad uprising in East Germany.",
+      "fr": "Le 16 juin 1953, des ouvriers du batiment a Berlin-Est commencerent une greve contre l'augmentation des normes de travail. Le lendemain, les protestations devinrent un large soulevement en RDA.",
+      "es": "El 16 de junio de 1953, trabajadores de la construccion en Berlin Oriental iniciaron una huelga contra el aumento de las normas de trabajo. Al dia siguiente, las protestas se convirtieron en un amplio levantamiento en la RDA.",
+      "it": "Il 16 giugno 1953, operai edili a Berlino Est iniziarono uno sciopero contro l'aumento delle quote di lavoro. Il giorno dopo, le proteste si trasformarono in una vasta rivolta nella DDR.",
+      "pt": "Em 16 de junho de 1953, operarios da construcao em Berlim Oriental iniciaram uma greve contra o aumento das metas de trabalho. No dia seguinte, os protestos cresceram para uma ampla revolta na RDA.",
+      "nl": "Op 16 juni 1953 begonnen bouwarbeiders in Oost-Berlijn een staking tegen verhoogde arbeidsnormen. De volgende dag groeiden de protesten uit tot een brede opstand in de DDR.",
+      "pl": "16 czerwca 1953 roku robotnicy budowlani w Berlinie Wschodnim rozpoczeli strajk przeciw podwyzszonym normom pracy. Nastepnego dnia protesty przerodzily sie w szerokie powstanie w NRD.",
+      "tr": "16 Haziran 1953'te Dogu Berlin'deki insaat iscileri artirilan calisma kotalarina karsi greve basladi. Ertesi gun protestolar Dogu Almanya genelinde buyuk bir ayaklanmaya donustu.",
+      "zh": "1953年6月16日，东柏林建筑工人开始罢工，反对提高劳动定额。第二天，抗议发展为东德范围内的大规模起义。",
+      "ja": "1953年6月16日、東ベルリンの建設労働者が労働ノルマの引き上げに反対してストライキを始めました。翌日、抗議は東ドイツ全体に広がる大規模な蜂起へ発展しました。",
+      "ko": "1953년 6월 16일 동베를린의 건설 노동자들은 높아진 작업 할당량에 반대해 파업을 시작했습니다. 다음 날 시위는 동독 전역의 대규모 봉기로 확대되었습니다.",
+      "hi": "16 जून 1953 को पूर्वी बर्लिन के निर्माण मजदूरों ने बढ़े हुए कार्य मानकों के खिलाफ हड़ताल शुरू की। अगले दिन ये विरोध पूर्वी जर्मनी में व्यापक विद्रोह में बदल गए।",
+      "ar": "في 16 يونيو 1953 بدأ عمال البناء في برلين الشرقية اضرابا ضد زيادة حصص العمل. وفي اليوم التالي تحولت الاحتجاجات الى انتفاضة واسعة في المانيا الشرقية."
     },
     "importance": {
       "ru": "Дата показывает, как социальный протест может быстро стать политическим вызовом режиму.",
       "de": "Das Datum zeigt, wie sozialer Protest schnell zu einer politischen Herausforderung fuer ein Regime werden kann.",
-      "en": "The date shows how social protest can quickly become a political challenge to a regime."
+      "en": "The date shows how social protest can quickly become a political challenge to a regime.",
+      "fr": "Cette date montre comment une protestation sociale peut rapidement devenir un defi politique pour un regime.",
+      "es": "La fecha muestra como una protesta social puede convertirse rapidamente en un desafio politico para un regimen.",
+      "it": "La data mostra come una protesta sociale possa diventare rapidamente una sfida politica per un regime.",
+      "pt": "A data mostra como um protesto social pode rapidamente se tornar um desafio politico a um regime.",
+      "nl": "De datum laat zien hoe sociaal protest snel een politieke uitdaging voor een regime kan worden.",
+      "pl": "Ta data pokazuje, jak protest spoleczny moze szybko stac sie politycznym wyzwaniem dla rezimu.",
+      "tr": "Bu tarih, sosyal protestonun bir rejim icin nasil hizla siyasi bir meydan okumaya donusebilecegini gosterir.",
+      "zh": "这个日期显示了社会抗议如何迅速变成对政权的政治挑战。",
+      "ja": "この日は、社会的抗議がいかに早く体制への政治的挑戦へ変わり得るかを示しています。",
+      "ko": "이 날짜는 사회적 항의가 얼마나 빨리 정권에 대한 정치적 도전으로 바뀔 수 있는지를 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि सामाजिक विरोध कितनी जल्दी किसी शासन के लिए राजनीतिक चुनौती बन सकता है।",
+      "ar": "يوضح هذا التاريخ كيف يمكن للاحتجاج الاجتماعي ان يتحول بسرعة الى تحد سياسي للنظام."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Строители на Сталин-аллее",
           "de": "Bauarbeiter an der Stalinallee",
-          "en": "Construction workers on Stalinallee"
+          "en": "Construction workers on Stalinallee",
+          "fr": "Les ouvriers du batiment de la Stalinallee",
+          "es": "Trabajadores de la construccion en la Stalinallee",
+          "it": "Operai edili sulla Stalinallee",
+          "pt": "Operarios da construcao na Stalinallee",
+          "nl": "Bouwarbeiders aan de Stalinallee",
+          "pl": "Robotnicy budowlani na Stalinallee",
+          "tr": "Stalinallee'deki insaat iscileri",
+          "zh": "斯大林大街上的建筑工人",
+          "ja": "スターリンアレーの建設労働者",
+          "ko": "슈탈린알레의 건설 노동자들",
+          "hi": "स्टालिनallee के निर्माण मजदूर",
+          "ar": "عمال البناء في شارع ستالينالي"
         },
         "description": {
           "ru": "Протест начался среди рабочих, строивших престижную Сталин-аллею в Восточном Берлине. Их требование отменить повышение норм быстро поддержали другие жители.",
           "de": "Der Protest begann unter Arbeitern, die an der prestigetraechtigen Stalinallee in Ost-Berlin bauten. Ihre Forderung nach Ruecknahme der Normerhoehungen fand schnell Unterstuetzung bei anderen Menschen.",
-          "en": "The protest began among workers building the prestigious Stalinallee in East Berlin. Their demand to reverse the increased quotas quickly gained support from others."
+          "en": "The protest began among workers building the prestigious Stalinallee in East Berlin. Their demand to reverse the increased quotas quickly gained support from others.",
+          "fr": "La protestation commenca parmi les ouvriers qui construisaient la prestigieuse Stalinallee a Berlin-Est. Leur demande d'annuler l'augmentation des normes trouva rapidement le soutien d'autres habitants.",
+          "es": "La protesta comenzo entre los trabajadores que construian la prestigiosa Stalinallee en Berlin Oriental. Su exigencia de retirar el aumento de las normas obtuvo rapidamente el apoyo de otros habitantes.",
+          "it": "La protesta comincio tra gli operai che costruivano la prestigiosa Stalinallee a Berlino Est. La loro richiesta di ritirare l'aumento delle quote trovo rapidamente sostegno tra altri abitanti.",
+          "pt": "O protesto comecou entre operarios que construíam a prestigiosa Stalinallee em Berlim Oriental. A exigencia de cancelar o aumento das metas rapidamente recebeu apoio de outros moradores.",
+          "nl": "Het protest begon onder arbeiders die de prestigieuze Stalinallee in Oost-Berlijn bouwden. Hun eis om de verhoogde normen terug te draaien kreeg snel steun van anderen.",
+          "pl": "Protest zaczal sie wsrod robotnikow budujacych prestizowa Stalinallee w Berlinie Wschodnim. Ich zadanie cofniecia podwyzszonych norm szybko zyskalo poparcie innych mieszkancow.",
+          "tr": "Protesto, Dogu Berlin'deki prestijli Stalinallee'yi insa eden isciler arasinda basladi. Artirilan kotalarin geri alinmasi talebi hizla diger insanlarin destegini kazandi.",
+          "zh": "抗议最初发生在东柏林修建著名斯大林大街的工人中。他们要求撤销提高劳动定额的决定，很快得到其他居民支持。",
+          "ja": "抗議は、東ベルリンの威信をかけたスターリンアレーを建設していた労働者の間で始まりました。ノルマ引き上げの撤回を求める彼らの要求は、すぐに他の住民の支持を得ました。",
+          "ko": "시위는 동베를린의 상징적 거리인 슈탈린알레를 짓던 노동자들 사이에서 시작되었습니다. 높아진 할당량을 철회하라는 그들의 요구는 빠르게 다른 주민들의 지지를 얻었습니다.",
+          "hi": "विरोध पूर्वी बर्लिन की प्रतिष्ठित स्टालिनallee बना रहे मजदूरों के बीच शुरू हुआ। बढ़े हुए मानकों को वापस लेने की उनकी मांग को जल्दी ही दूसरे लोगों का समर्थन मिला।",
+          "ar": "بدأ الاحتجاج بين العمال الذين كانوا يبنون شارع ستالينالي المرموق في برلين الشرقية. وسرعان ما حظي مطلبهم بالغاء زيادة الحصص بدعم اشخاص اخرين."
         },
         "importance": {
           "ru": "Так один трудовой спор стал началом общегосударственного кризиса.",
           "de": "So wurde aus einem Arbeitskonflikt der Beginn einer landesweiten Krise.",
-          "en": "A labor dispute thus became the start of a nationwide crisis."
+          "en": "A labor dispute thus became the start of a nationwide crisis.",
+          "fr": "Ainsi, un conflit du travail devint le debut d'une crise nationale.",
+          "es": "Asi, un conflicto laboral se convirtio en el inicio de una crisis nacional.",
+          "it": "Cosi un conflitto di lavoro divenne l'inizio di una crisi nazionale.",
+          "pt": "Assim, um conflito trabalhista tornou-se o inicio de uma crise nacional.",
+          "nl": "Zo werd een arbeidsconflict het begin van een landelijke crisis.",
+          "pl": "Tak jeden spor pracowniczy stal sie poczatkiem kryzysu ogolnokrajowego.",
+          "tr": "Boylece bir is anlasmazligi ulke capinda bir krizin baslangici oldu.",
+          "zh": "于是，一场劳动纠纷成为全国性危机的开端。",
+          "ja": "こうして一つの労働争議が全国的危機の始まりとなりました。",
+          "ko": "이렇게 하나의 노동 분쟁이 전국적 위기의 시작이 되었습니다.",
+          "hi": "इस तरह एक श्रम विवाद पूरे देश के संकट की शुरुआत बन गया।",
+          "ar": "وهكذا اصبح نزاع عمالي بداية ازمة على مستوى البلاد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Новость быстро разнеслась по радио",
           "de": "Die Nachricht verbreitete sich schnell ueber das Radio",
-          "en": "The news spread quickly by radio"
+          "en": "The news spread quickly by radio",
+          "fr": "La nouvelle se repand rapidement par la radio",
+          "es": "La noticia se difundio rapidamente por la radio",
+          "it": "La notizia si diffuse rapidamente via radio",
+          "pt": "A noticia se espalhou rapidamente pelo radio",
+          "nl": "Het nieuws verspreidde zich snel via de radio",
+          "pl": "Wiadomosc szybko rozeszla sie przez radio",
+          "tr": "Haber radyo ile hizla yayilir",
+          "zh": "消息通过广播迅速传播",
+          "ja": "ニュースはラジオで急速に広がる",
+          "ko": "소식이 라디오를 통해 빠르게 퍼지다",
+          "hi": "खबर रेडियो से तेजी से फैली",
+          "ar": "انتشار الخبر بسرعة عبر الراديو"
         },
         "description": {
           "ru": "О протестах рассказывала западноберлинская радиостанция RIAS, которую слушали и в ГДР. Радио помогло превратить локальный конфликт в событие, о котором узнали далеко за пределами Берлина.",
           "de": "Der West-Berliner Sender RIAS berichtete ueber die Proteste und wurde auch in der DDR gehoert. Das Radio half, aus einem lokalen Konflikt ein Ereignis zu machen, das weit ueber Berlin hinaus bekannt wurde.",
-          "en": "The West Berlin broadcaster RIAS reported on the protests and was also heard in East Germany. Radio helped turn a local conflict into an event known far beyond Berlin."
+          "en": "The West Berlin broadcaster RIAS reported on the protests and was also heard in East Germany. Radio helped turn a local conflict into an event known far beyond Berlin.",
+          "fr": "La station ouest-berlinoise RIAS parla des protestations et etait aussi ecoutee en RDA. La radio contribua a transformer un conflit local en evenement connu bien au-dela de Berlin.",
+          "es": "La emisora de Berlin Occidental RIAS informo sobre las protestas y tambien se escuchaba en la RDA. La radio ayudo a convertir un conflicto local en un acontecimiento conocido mucho mas alla de Berlin.",
+          "it": "L'emittente di Berlino Ovest RIAS racconto le proteste ed era ascoltata anche nella DDR. La radio aiuto a trasformare un conflitto locale in un evento noto ben oltre Berlino.",
+          "pt": "A emissora de Berlim Ocidental RIAS relatou os protestos e tambem era ouvida na RDA. O radio ajudou a transformar um conflito local em um acontecimento conhecido muito alem de Berlim.",
+          "nl": "De West-Berlijnse zender RIAS berichtte over de protesten en werd ook in de DDR beluisterd. Radio hielp een lokaal conflict te veranderen in een gebeurtenis die ver buiten Berlijn bekend werd.",
+          "pl": "Zachodnioberlinska rozglosnia RIAS informowala o protestach i byla sluchana takze w NRD. Radio pomoglo zmienic lokalny konflikt w wydarzenie znane daleko poza Berlinem.",
+          "tr": "Bati Berlin yayin kurumu RIAS protestolari haber yapti ve Dogu Almanya'da da dinleniyordu. Radyo, yerel bir catismayi Berlin'in cok otesinde bilinen bir olaya donusturmeye yardim etti.",
+          "zh": "西柏林电台RIAS报道了抗议，在东德也有人收听。广播帮助把一场地方冲突变成了远超柏林范围的事件。",
+          "ja": "西ベルリンの放送局RIASは抗議を報道し、東ドイツでも聞かれていました。ラジオは、地域的な対立をベルリンを越えて知られる出来事へ変える助けとなりました。",
+          "ko": "서베를린 방송국 RIAS는 시위를 보도했고 동독에서도 청취되었습니다. 라디오는 지역 갈등을 베를린을 넘어 널리 알려진 사건으로 바꾸는 데 도움을 주었습니다.",
+          "hi": "पश्चिम बर्लिन के प्रसारक RIAS ने विरोधों की खबर दी और उसे जीडीआर में भी सुना जाता था। रेडियो ने स्थानीय संघर्ष को बर्लिन से बहुत दूर तक पहचाने जाने वाली घटना में बदलने में मदद की।",
+          "ar": "افادت اذاعة RIAS في برلين الغربية عن الاحتجاجات وكانت تُسمع ايضا في المانيا الشرقية. ساعد الراديو على تحويل نزاع محلي الى حدث عُرف بعيدا خارج برلين."
         },
         "importance": {
           "ru": "Это ранний пример того, как медиа могли резко ускорить распространение протеста.",
           "de": "Das ist ein fruehes Beispiel dafuer, wie Medien die Ausbreitung von Protest stark beschleunigen konnten.",
-          "en": "It is an early example of how media could rapidly accelerate the spread of protest."
+          "en": "It is an early example of how media could rapidly accelerate the spread of protest.",
+          "fr": "C'est un exemple precoce de la facon dont les medias pouvaient accelerer fortement la diffusion d'une protestation.",
+          "es": "Es un ejemplo temprano de como los medios podian acelerar mucho la propagacion de una protesta.",
+          "it": "E un esempio precoce di come i media potessero accelerare molto la diffusione della protesta.",
+          "pt": "E um exemplo inicial de como a midia podia acelerar rapidamente a propagacao de um protesto.",
+          "nl": "Het is een vroeg voorbeeld van hoe media de verspreiding van protest sterk konden versnellen.",
+          "pl": "To wczesny przyklad tego, jak media mogly szybko przyspieszyc rozprzestrzenianie sie protestu.",
+          "tr": "Bu, medyanin protestonun yayilmasini nasil hizla hizlandirabildigine dair erken bir ornektir.",
+          "zh": "这是媒体如何迅速加快抗议扩散的早期例子。",
+          "ja": "これは、メディアが抗議の広がりを急速に加速させ得ることを示す初期の例です。",
+          "ko": "이는 미디어가 시위의 확산을 얼마나 빠르게 가속할 수 있었는지를 보여 주는 초기 사례입니다.",
+          "hi": "यह इस बात का शुरुआती उदाहरण है कि मीडिया विरोध के फैलाव को कितनी तेजी से बढ़ा सकता था।",
+          "ar": "انه مثال مبكر على كيف استطاعت وسائل الاعلام تسريع انتشار الاحتجاج بقوة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "До 1990 года 17 июня был в ФРГ Днём немецкого единства в память о восстании 1953 года.",
     "de": "Bis 1990 war der 17. Juni in der Bundesrepublik der Tag der deutschen Einheit zur Erinnerung an den Aufstand von 1953.",
-    "en": "Until 1990, 17 June was West Germany's Day of German Unity in memory of the 1953 uprising."
+    "en": "Until 1990, 17 June was West Germany's Day of German Unity in memory of the 1953 uprising.",
+    "fr": "Jusqu'en 1990, le 17 juin etait en RFA le Jour de l'unite allemande en memoire du soulevement de 1953.",
+    "es": "Hasta 1990, el 17 de junio fue en la RFA el Dia de la Unidad Alemana en memoria del levantamiento de 1953.",
+    "it": "Fino al 1990, il 17 giugno fu nella Germania Ovest il Giorno dell'unita tedesca in memoria della rivolta del 1953.",
+    "pt": "Ate 1990, 17 de junho foi na Alemanha Ocidental o Dia da Unidade Alema em memoria da revolta de 1953.",
+    "nl": "Tot 1990 was 17 juni in de Bondsrepubliek de Dag van de Duitse Eenheid ter herinnering aan de opstand van 1953.",
+    "pl": "Do 1990 roku 17 czerwca byl w RFN Dniem Jednosci Niemiec na pamiatke powstania z 1953 roku.",
+    "tr": "1990'a kadar 17 Haziran, 1953 ayaklanmasi anisina Bati Almanya'da Alman Birligi Gunu idi.",
+    "zh": "直到1990年，6月17日都是西德纪念1953年起义的德国统一日。",
+    "ja": "1990年まで、6月17日は1953年の蜂起を記念する西ドイツの「ドイツ統一の日」でした。",
+    "ko": "1990년까지 6월 17일은 1953년 봉기를 기념하는 서독의 독일 통일의 날이었습니다.",
+    "hi": "1990 तक 17 जून पश्चिम जर्मनी में 1953 के विद्रोह की स्मृति में जर्मन एकता दिवस था।",
+    "ar": "حتى عام 1990 كان 17 يونيو في المانيا الغربية يوم الوحدة الالمانية تخليدا لانتفاضة 1953."
   },
   "sources": [
     {

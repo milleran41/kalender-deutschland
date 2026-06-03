@@ -11,17 +11,53 @@
     "title": {
       "ru": "Принят закон о медицинском страховании рабочих",
       "de": "Das Krankenversicherungsgesetz fuer Arbeiter wird beschlossen",
-      "en": "The workers' health insurance law is passed"
+      "en": "The workers' health insurance law is passed",
+      "fr": "La loi sur l'assurance maladie des ouvriers est adoptee",
+      "es": "Se aprueba la ley de seguro medico para trabajadores",
+      "it": "Viene approvata la legge sull'assicurazione sanitaria dei lavoratori",
+      "pt": "E aprovada a lei de seguro de saude dos trabalhadores",
+      "nl": "De wet op de ziekteverzekering voor arbeiders wordt aangenomen",
+      "pl": "Przyjeto ustawe o ubezpieczeniu zdrowotnym robotnikow",
+      "tr": "Isciler icin saglik sigortasi yasasi kabul edilir",
+      "zh": "工人医疗保险法通过",
+      "ja": "労働者疾病保険法が可決される",
+      "ko": "노동자 건강보험법이 통과되다",
+      "hi": "कामगार स्वास्थ्य बीमा कानून पारित हुआ",
+      "ar": "اقرار قانون التأمين الصحي للعمال"
     },
     "description": {
       "ru": "15 июня 1883 года Германская империя приняла закон о медицинском страховании рабочих. Он стал первой важной частью бисмарковской системы социального страхования.",
       "de": "Am 15. Juni 1883 beschloss das Deutsche Reich das Krankenversicherungsgesetz fuer Arbeiter. Es wurde der erste wichtige Teil der Sozialversicherung Bismarcks.",
-      "en": "On 15 June 1883, the German Empire passed the workers' health insurance law. It became the first major part of Bismarck's social insurance system."
+      "en": "On 15 June 1883, the German Empire passed the workers' health insurance law. It became the first major part of Bismarck's social insurance system.",
+      "fr": "Le 15 juin 1883, l'Empire allemand adopta la loi sur l'assurance maladie des ouvriers. Elle devint la premiere grande partie du systeme d'assurance sociale de Bismarck.",
+      "es": "El 15 de junio de 1883, el Imperio aleman aprobo la ley de seguro medico para trabajadores. Se convirtio en la primera parte importante del sistema de seguros sociales de Bismarck.",
+      "it": "Il 15 giugno 1883 l'Impero tedesco approvo la legge sull'assicurazione sanitaria dei lavoratori. Divenne la prima parte importante del sistema di assicurazione sociale di Bismarck.",
+      "pt": "Em 15 de junho de 1883, o Imperio Alemao aprovou a lei de seguro de saude dos trabalhadores. Ela se tornou a primeira parte importante do sistema de seguro social de Bismarck.",
+      "nl": "Op 15 juni 1883 nam het Duitse Keizerrijk de wet op de ziekteverzekering voor arbeiders aan. Die werd het eerste belangrijke deel van Bismarcks sociale verzekeringsstelsel.",
+      "pl": "15 czerwca 1883 roku Cesarstwo Niemieckie przyjelo ustawe o ubezpieczeniu zdrowotnym robotnikow. Stala sie ona pierwsza wazna czescia systemu ubezpieczen spolecznych Bismarcka.",
+      "tr": "15 Haziran 1883'te Alman Imparatorlugu isciler icin saglik sigortasi yasasini kabul etti. Bu, Bismarck'in sosyal sigorta sisteminin ilk buyuk parcasi oldu.",
+      "zh": "1883年6月15日，德意志帝国通过工人医疗保险法。它成为俾斯麦社会保险制度的第一个重要组成部分。",
+      "ja": "1883年6月15日、ドイツ帝国は労働者のための疾病保険法を可決しました。これはビスマルクの社会保険制度の最初の重要な部分となりました。",
+      "ko": "1883년 6월 15일 독일 제국은 노동자 건강보험법을 통과시켰습니다. 이는 비스마르크 사회보험 제도의 첫 중요한 부분이 되었습니다.",
+      "hi": "15 जून 1883 को जर्मन साम्राज्य ने कामगारों के स्वास्थ्य बीमा का कानून पारित किया। यह बिस्मार्क की सामाजिक बीमा प्रणाली का पहला बड़ा हिस्सा बना।",
+      "ar": "في 15 يونيو 1883 اقر الامبراطورية الالمانية قانون التأمين الصحي للعمال. واصبح اول جزء مهم من نظام التأمين الاجتماعي لبسمارك."
     },
     "importance": {
       "ru": "Это один из истоков современного социального государства.",
       "de": "Das ist einer der Urspruenge des modernen Sozialstaats.",
-      "en": "It is one of the origins of the modern welfare state."
+      "en": "It is one of the origins of the modern welfare state.",
+      "fr": "C'est l'une des origines de l'Etat social moderne.",
+      "es": "Es uno de los origenes del moderno Estado social.",
+      "it": "E una delle origini del moderno Stato sociale.",
+      "pt": "E uma das origens do moderno Estado social.",
+      "nl": "Het is een van de oorsprongen van de moderne verzorgingsstaat.",
+      "pl": "To jedno ze zrodel nowoczesnego panstwa opiekunczego.",
+      "tr": "Modern sosyal devletin kokenlerinden biridir.",
+      "zh": "这是现代福利国家的起源之一。",
+      "ja": "これは現代福祉国家の起源の一つです。",
+      "ko": "이는 현대 복지국가의 기원 중 하나입니다.",
+      "hi": "यह आधुनिक कल्याणकारी राज्य की शुरुआतों में से एक है।",
+      "ar": "انه احد اصول دولة الرفاه الحديثة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Социальная политика Бисмарка",
           "de": "Bismarcks Sozialpolitik",
-          "en": "Bismarck's social policy"
+          "en": "Bismarck's social policy",
+          "fr": "La politique sociale de Bismarck",
+          "es": "La politica social de Bismarck",
+          "it": "La politica sociale di Bismarck",
+          "pt": "A politica social de Bismarck",
+          "nl": "Bismarcks sociale politiek",
+          "pl": "Polityka spoleczna Bismarcka",
+          "tr": "Bismarck'in sosyal politikasi",
+          "zh": "俾斯麦的社会政策",
+          "ja": "ビスマルクの社会政策",
+          "ko": "비스마르크의 사회정책",
+          "hi": "बिस्मार्क की सामाजिक नीति",
+          "ar": "السياسة الاجتماعية لبسمارك"
         },
         "description": {
           "ru": "Бисмарк вводил социальные законы не только из заботы о рабочих, но и чтобы ослабить влияние социал-демократов. Политический расчёт и социальная защита здесь шли вместе.",
           "de": "Bismarck fuehrte Sozialgesetze nicht nur aus Sorge um Arbeiter ein, sondern auch, um den Einfluss der Sozialdemokraten zu schwaechen. Politisches Kalkuel und sozialer Schutz gingen zusammen.",
-          "en": "Bismarck introduced social laws not only out of concern for workers but also to weaken the Social Democrats. Political calculation and social protection went together."
+          "en": "Bismarck introduced social laws not only out of concern for workers but also to weaken the Social Democrats. Political calculation and social protection went together.",
+          "fr": "Bismarck introduisit des lois sociales non seulement par souci des ouvriers, mais aussi pour affaiblir l'influence des sociaux-democrates. Calcul politique et protection sociale allaient ici ensemble.",
+          "es": "Bismarck introdujo leyes sociales no solo por preocupacion por los trabajadores, sino tambien para debilitar la influencia de los socialdemocratas. El calculo politico y la proteccion social fueron de la mano.",
+          "it": "Bismarck introdusse leggi sociali non solo per preoccupazione verso i lavoratori, ma anche per indebolire l'influenza dei socialdemocratici. Calcolo politico e protezione sociale andarono insieme.",
+          "pt": "Bismarck introduziu leis sociais nao apenas por preocupacao com os trabalhadores, mas tambem para enfraquecer a influencia dos social-democratas. Calculo politico e protecao social caminharam juntos.",
+          "nl": "Bismarck voerde sociale wetten niet alleen in uit zorg voor arbeiders, maar ook om de invloed van de sociaaldemocraten te verzwakken. Politieke berekening en sociale bescherming gingen hier samen.",
+          "pl": "Bismarck wprowadzal ustawy socjalne nie tylko z troski o robotnikow, lecz takze po to, by oslabic wplyw socjaldemokratow. Kalkulacja polityczna i ochrona spoleczna szly tu razem.",
+          "tr": "Bismarck sosyal yasalari yalnizca iscileri dusundugu icin degil, Sosyal Demokratlarin etkisini zayiflatmak icin de getirdi. Siyasi hesap ve sosyal koruma burada birlikte ilerledi.",
+          "zh": "俾斯麦推行社会法不仅是出于对工人的关心，也是为了削弱社会民主党的影响。政治计算和社会保护在这里并行。",
+          "ja": "ビスマルクは労働者への配慮だけでなく、社会民主主義者の影響を弱めるためにも社会法を導入しました。ここでは政治的計算と社会的保護が結びついていました。",
+          "ko": "비스마르크는 노동자를 걱정해서뿐 아니라 사회민주당의 영향력을 약화시키기 위해서도 사회법을 도입했습니다. 정치적 계산과 사회적 보호가 함께 갔습니다.",
+          "hi": "बिस्मार्क ने सामाजिक कानून सिर्फ कामगारों की चिंता से नहीं, बल्कि सोशल डेमोक्रेटों के प्रभाव को कम करने के लिए भी लागू किए। यहां राजनीतिक गणना और सामाजिक सुरक्षा साथ-साथ चलीं।",
+          "ar": "ادخل بسمارك القوانين الاجتماعية ليس فقط اهتماما بالعمال، بل ايضا لاضعاف نفوذ الاشتراكيين الديمقراطيين. هنا سار الحساب السياسي والحماية الاجتماعية معا."
         },
         "importance": {
           "ru": "Дата показывает, что реформы могут иметь смешанные мотивы, но долгие последствия.",
           "de": "Das Datum zeigt, dass Reformen gemischte Motive, aber lange Folgen haben koennen.",
-          "en": "The date shows that reforms can have mixed motives but long-lasting consequences."
+          "en": "The date shows that reforms can have mixed motives but long-lasting consequences.",
+          "fr": "Cette date montre que les reformes peuvent avoir des motifs melanges, mais des consequences durables.",
+          "es": "La fecha muestra que las reformas pueden tener motivos mezclados, pero consecuencias duraderas.",
+          "it": "La data mostra che le riforme possono avere motivi misti, ma conseguenze durature.",
+          "pt": "A data mostra que reformas podem ter motivos mistos, mas consequencias duradouras.",
+          "nl": "De datum laat zien dat hervormingen gemengde motieven kunnen hebben, maar langdurige gevolgen.",
+          "pl": "Ta data pokazuje, ze reformy moga miec mieszane motywy, ale dlugotrwale skutki.",
+          "tr": "Bu tarih, reformlarin karisik gerekceleri ama uzun sureli sonuclari olabilecegini gosterir.",
+          "zh": "这个日期表明，改革可能有复杂动机，却会产生长期影响。",
+          "ja": "この日は、改革には複数の動機があり得る一方で、長く続く影響をもたらすことを示しています。",
+          "ko": "이 날짜는 개혁이 복합적인 동기를 가질 수 있지만 오래 지속되는 결과를 낳을 수 있음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि सुधारों के मिले-जुले कारण हो सकते हैं, लेकिन उनके परिणाम लंबे समय तक रहते हैं।",
+          "ar": "يوضح هذا التاريخ ان الاصلاحات قد تكون لها دوافع مختلطة، لكنها تترك اثارا طويلة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Позднее к системе добавились страхование от несчастных случаев и пенсионное страхование.",
     "de": "Spaeter kamen Unfallversicherung und Rentenversicherung hinzu.",
-    "en": "Accident insurance and pension insurance were added later."
+    "en": "Accident insurance and pension insurance were added later.",
+    "fr": "L'assurance accidents et l'assurance retraite furent ajoutees plus tard.",
+    "es": "Mas tarde se anadieron el seguro de accidentes y el seguro de pensiones.",
+    "it": "In seguito si aggiunsero l'assicurazione contro gli infortuni e quella pensionistica.",
+    "pt": "Mais tarde foram acrescentados o seguro contra acidentes e o seguro de pensao.",
+    "nl": "Later kwamen daar ongevallenverzekering en pensioenverzekering bij.",
+    "pl": "Pozniej dodano ubezpieczenie wypadkowe i emerytalne.",
+    "tr": "Daha sonra kaza sigortasi ve emeklilik sigortasi eklendi.",
+    "zh": "后来又加入了事故保险和养老保险。",
+    "ja": "その後、災害保険と年金保険が加わりました。",
+    "ko": "나중에 산재보험과 연금보험이 추가되었습니다.",
+    "hi": "बाद में दुर्घटना बीमा और पेंशन बीमा भी जोड़े गए।",
+    "ar": "اضيف لاحقا تأمين الحوادث وتأمين التقاعد."
   },
   "sources": [
     {

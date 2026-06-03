@@ -11,17 +11,53 @@
     "title": {
       "ru": "Народное восстание в ГДР",
       "de": "Volksaufstand in der DDR",
-      "en": "Popular uprising in East Germany"
+      "en": "Popular uprising in East Germany",
+      "fr": "Soulevement populaire en RDA",
+      "es": "Levantamiento popular en la RDA",
+      "it": "Rivolta popolare nella DDR",
+      "pt": "Levante popular na RDA",
+      "nl": "Volksopstand in de DDR",
+      "pl": "Powstanie ludowe w NRD",
+      "tr": "Dogu Almanya'da halk ayaklanmasi",
+      "zh": "东德人民起义",
+      "ja": "東ドイツの民衆蜂起",
+      "ko": "동독 민중 봉기",
+      "hi": "पूर्वी जर्मनी में जनविद्रोह",
+      "ar": "انتفاضة شعبية في المانيا الشرقية"
     },
     "description": {
       "ru": "17 июня 1953 года протесты рабочих в Восточном Берлине переросли в массовое восстание по всей ГДР. Советские войска и власти СЕПГ подавили выступления.",
       "de": "Am 17. Juni 1953 wurden Arbeiterproteste in Ost-Berlin zu einem Massenaufstand in der ganzen DDR. Sowjetische Truppen und die SED-Fuehrung schlugen die Proteste nieder.",
-      "en": "On 17 June 1953, workers' protests in East Berlin grew into a mass uprising across East Germany. Soviet troops and the SED leadership suppressed the protests."
+      "en": "On 17 June 1953, workers' protests in East Berlin grew into a mass uprising across East Germany. Soviet troops and the SED leadership suppressed the protests.",
+      "fr": "Le 17 juin 1953, les protestations ouvrieres a Berlin-Est devinrent un soulevement de masse dans toute la RDA. Les troupes sovietiques et la direction du SED reprimerent les protestations.",
+      "es": "El 17 de junio de 1953, las protestas obreras en Berlin Oriental se convirtieron en un levantamiento masivo en toda la RDA. Las tropas sovieticas y la direccion del SED reprimieron las protestas.",
+      "it": "Il 17 giugno 1953, le proteste operaie a Berlino Est si trasformarono in una rivolta di massa in tutta la DDR. Le truppe sovietiche e la dirigenza della SED repressero le proteste.",
+      "pt": "Em 17 de junho de 1953, os protestos de trabalhadores em Berlim Oriental se transformaram em uma revolta em massa por toda a RDA. Tropas sovieticas e a lideranca do SED reprimiram os protestos.",
+      "nl": "Op 17 juni 1953 groeiden arbeidersprotesten in Oost-Berlijn uit tot een massale opstand in de hele DDR. Sovjettroepen en de SED-leiding sloegen de protesten neer.",
+      "pl": "17 czerwca 1953 roku protesty robotnikow w Berlinie Wschodnim przerodzily sie w masowe powstanie w calej NRD. Wojska radzieckie i kierownictwo SED stlumily protesty.",
+      "tr": "17 Haziran 1953'te Dogu Berlin'deki isci protestolari Dogu Almanya genelinde kitlesel bir ayaklanmaya donustu. Sovyet birlikleri ve SED yonetimi protestolari bastirdi.",
+      "zh": "1953年6月17日，东柏林工人抗议发展为东德全境的大规模起义。苏联军队和德国统一社会党领导层镇压了抗议。",
+      "ja": "1953年6月17日、東ベルリンの労働者抗議は東ドイツ全土の大規模な蜂起へ発展しました。ソ連軍とSED指導部が抗議を鎮圧しました。",
+      "ko": "1953년 6월 17일 동베를린의 노동자 시위는 동독 전역의 대규모 봉기로 커졌습니다. 소련군과 SED 지도부가 시위를 진압했습니다.",
+      "hi": "17 जून 1953 को पूर्वी बर्लिन में मजदूरों के विरोध पूरे पूर्वी जर्मनी में जनविद्रोह में बदल गए। सोवियत सैनिकों और SED नेतृत्व ने विरोधों को दबा दिया।",
+      "ar": "في 17 يونيو 1953 تحولت احتجاجات العمال في برلين الشرقية الى انتفاضة جماهيرية في كل المانيا الشرقية. قمعت القوات السوفيتية وقيادة حزب SED الاحتجاجات."
     },
     "importance": {
       "ru": "Это был первый крупный массовый протест против коммунистической диктатуры в Восточной Европе после войны.",
       "de": "Es war der erste grosse Massenprotest gegen eine kommunistische Diktatur in Osteuropa nach dem Krieg.",
-      "en": "It was the first major mass protest against a communist dictatorship in postwar Eastern Europe."
+      "en": "It was the first major mass protest against a communist dictatorship in postwar Eastern Europe.",
+      "fr": "Ce fut la premiere grande protestation de masse contre une dictature communiste en Europe de l'Est apres la guerre.",
+      "es": "Fue la primera gran protesta masiva contra una dictadura comunista en la Europa Oriental de posguerra.",
+      "it": "Fu la prima grande protesta di massa contro una dittatura comunista nell'Europa orientale del dopoguerra.",
+      "pt": "Foi o primeiro grande protesto em massa contra uma ditadura comunista na Europa Oriental do pos-guerra.",
+      "nl": "Het was het eerste grote massaprotest tegen een communistische dictatuur in naoorlogs Oost-Europa.",
+      "pl": "Byl to pierwszy wielki masowy protest przeciw dyktaturze komunistycznej w powojennej Europie Wschodniej.",
+      "tr": "Savas sonrasi Dogu Avrupa'da komunist bir diktatorluge karsi ilk buyuk kitlesel protestoydu.",
+      "zh": "这是战后东欧第一次反对共产主义独裁的大规模群众抗议。",
+      "ja": "これは戦後東ヨーロッパで共産主義独裁に対する最初の大規模な民衆抗議でした。",
+      "ko": "이는 전후 동유럽에서 공산주의 독재에 맞선 첫 대규모 대중 시위였습니다.",
+      "hi": "यह युद्धोत्तर पूर्वी यूरोप में कम्युनिस्ट तानाशाही के खिलाफ पहला बड़ा जनविरोध था।",
+      "ar": "كانت اول احتجاج جماهيري كبير ضد دكتاتورية شيوعية في اوروبا الشرقية بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "17 июня был праздником единства в ФРГ",
           "de": "Der 17. Juni wurde Feiertag der Einheit",
-          "en": "17 June became a unity holiday"
+          "en": "17 June became a unity holiday",
+          "fr": "Le 17 juin devient une fete de l'unite",
+          "es": "El 17 de junio se convirtio en fiesta de la unidad",
+          "it": "Il 17 giugno diventa festa dell'unita",
+          "pt": "17 de junho tornou-se feriado da unidade",
+          "nl": "17 juni werd een feestdag van eenheid",
+          "pl": "17 czerwca stal sie swietem jednosci",
+          "tr": "17 Haziran birlik bayrami olur",
+          "zh": "6月17日成为统一纪念日",
+          "ja": "6月17日が統一の祝日となる",
+          "ko": "6월 17일이 통일 기념일이 되다",
+          "hi": "17 जून एकता दिवस बना",
+          "ar": "اصبح 17 يونيو عيدا للوحدة"
         },
         "description": {
           "ru": "В Западной Германии 17 июня долгие годы был Днём немецкого единства. После воссоединения национальным праздником стало 3 октября.",
           "de": "In Westdeutschland war der 17. Juni viele Jahre der Tag der deutschen Einheit. Nach der Wiedervereinigung wurde der 3. Oktober Nationalfeiertag.",
-          "en": "In West Germany, 17 June was German Unity Day for many years. After reunification, the national holiday moved to 3 October."
+          "en": "In West Germany, 17 June was German Unity Day for many years. After reunification, the national holiday moved to 3 October.",
+          "fr": "En Allemagne de l'Ouest, le 17 juin fut pendant de nombreuses annees le Jour de l'unite allemande. Apres la reunification, la fete nationale passa au 3 octobre.",
+          "es": "En Alemania Occidental, el 17 de junio fue durante muchos anos el Dia de la Unidad Alemana. Tras la reunificacion, la fiesta nacional paso al 3 de octubre.",
+          "it": "In Germania Ovest, il 17 giugno fu per molti anni il Giorno dell'unita tedesca. Dopo la riunificazione, la festa nazionale passo al 3 ottobre.",
+          "pt": "Na Alemanha Ocidental, 17 de junho foi por muitos anos o Dia da Unidade Alema. Depois da reunificacao, o feriado nacional passou para 3 de outubro.",
+          "nl": "In West-Duitsland was 17 juni jarenlang de Dag van de Duitse Eenheid. Na de hereniging werd 3 oktober de nationale feestdag.",
+          "pl": "W Niemczech Zachodnich 17 czerwca przez wiele lat byl Dniem Jednosci Niemiec. Po zjednoczeniu swietem narodowym zostal 3 pazdziernika.",
+          "tr": "Bati Almanya'da 17 Haziran uzun yillar Alman Birligi Gunu idi. Yeniden birlesmeden sonra ulusal bayram 3 Ekim oldu.",
+          "zh": "在西德，6月17日多年间是德国统一日。重新统一后，国庆日改为10月3日。",
+          "ja": "西ドイツでは、6月17日が長年「ドイツ統一の日」でした。再統一後、国民の祝日は10月3日になりました。",
+          "ko": "서독에서 6월 17일은 여러 해 동안 독일 통일의 날이었습니다. 재통일 이후 국경일은 10월 3일로 바뀌었습니다.",
+          "hi": "पश्चिम जर्मनी में 17 जून कई वर्षों तक जर्मन एकता दिवस था। पुनर्एकीकरण के बाद राष्ट्रीय अवकाश 3 अक्टूबर हो गया।",
+          "ar": "في المانيا الغربية كان 17 يونيو لسنوات طويلة يوم الوحدة الالمانية. وبعد اعادة التوحيد اصبح 3 اكتوبر العيد الوطني."
         },
         "importance": {
           "ru": "Так память о восстании стала частью политической культуры ФРГ.",
           "de": "So wurde die Erinnerung an den Aufstand Teil der politischen Kultur der Bundesrepublik.",
-          "en": "The memory of the uprising became part of West Germany's political culture."
+          "en": "The memory of the uprising became part of West Germany's political culture.",
+          "fr": "La memoire du soulevement devint ainsi une partie de la culture politique de la RFA.",
+          "es": "Asi, la memoria del levantamiento se convirtio en parte de la cultura politica de la RFA.",
+          "it": "Cosi la memoria della rivolta divenne parte della cultura politica della Germania Ovest.",
+          "pt": "Assim, a memoria da revolta tornou-se parte da cultura politica da Alemanha Ocidental.",
+          "nl": "Zo werd de herinnering aan de opstand deel van de politieke cultuur van de Bondsrepubliek.",
+          "pl": "Tak pamiec o powstaniu stala sie czescia kultury politycznej RFN.",
+          "tr": "Boylece ayaklanmanin hatirasi Bati Almanya'nin siyasi kulturunun parcasi oldu.",
+          "zh": "这样，对起义的记忆成为西德政治文化的一部分。",
+          "ja": "こうして蜂起の記憶は、西ドイツの政治文化の一部となりました。",
+          "ko": "이렇게 봉기에 대한 기억은 서독 정치 문화의 일부가 되었습니다.",
+          "hi": "इस तरह विद्रोह की स्मृति पश्चिम जर्मनी की राजनीतिक संस्कृति का हिस्सा बन गई।",
+          "ar": "وهكذا اصبحت ذكرى الانتفاضة جزءا من الثقافة السياسية في المانيا الغربية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Восстание началось из-за рабочих норм, но быстро превратилось в протест за свободу, честные выборы и конец диктатуры.",
     "de": "Der Aufstand begann wegen Arbeitsnormen, wurde aber schnell zu einem Protest fuer Freiheit, freie Wahlen und ein Ende der Diktatur.",
-    "en": "The uprising began over work quotas but quickly became a protest for freedom, free elections and an end to dictatorship."
+    "en": "The uprising began over work quotas but quickly became a protest for freedom, free elections and an end to dictatorship.",
+    "fr": "Le soulevement commenca a cause des normes de travail, mais devint vite une protestation pour la liberte, des elections libres et la fin de la dictature.",
+    "es": "El levantamiento comenzo por las normas de trabajo, pero rapidamente se convirtio en una protesta por la libertad, elecciones libres y el fin de la dictadura.",
+    "it": "La rivolta comincio per le quote di lavoro, ma divenne presto una protesta per la liberta, elezioni libere e la fine della dittatura.",
+    "pt": "A revolta comecou por causa das metas de trabalho, mas rapidamente se tornou um protesto por liberdade, eleicoes livres e fim da ditadura.",
+    "nl": "De opstand begon om arbeidsnormen, maar werd snel een protest voor vrijheid, vrije verkiezingen en een einde aan de dictatuur.",
+    "pl": "Powstanie zaczelo sie od norm pracy, ale szybko stalo sie protestem o wolnosc, wolne wybory i koniec dyktatury.",
+    "tr": "Ayaklanma calisma kotalari yuzunden basladi, ama hizla ozgurluk, serbest secimler ve diktatorlugun sonu icin bir protestoya donustu.",
+    "zh": "起义始于劳动定额问题，但很快变成了争取自由、自由选举和结束独裁的抗议。",
+    "ja": "蜂起は労働ノルマをめぐって始まりましたが、すぐに自由、自由選挙、独裁の終結を求める抗議へ変わりました。",
+    "ko": "봉기는 작업 할당량 문제에서 시작되었지만 곧 자유, 자유 선거, 독재 종식을 요구하는 시위가 되었습니다.",
+    "hi": "विद्रोह कार्य मानकों से शुरू हुआ, लेकिन जल्दी ही स्वतंत्रता, निष्पक्ष चुनाव और तानाशाही के अंत की मांग वाले विरोध में बदल गया।",
+    "ar": "بدأت الانتفاضة بسبب حصص العمل، لكنها تحولت بسرعة الى احتجاج من اجل الحرية والانتخابات الحرة وانهاء الدكتاتورية."
   },
   "sources": [
     {
