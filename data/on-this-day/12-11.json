@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Роберт Кох",
       "de": "Robert Koch wird geboren",
-      "en": "Robert Koch is born"
+      "en": "Robert Koch is born",
+      "fr": "Naissance de Robert Koch",
+      "es": "Nace Robert Koch",
+      "it": "Nasce Robert Koch",
+      "pt": "Nasce Robert Koch",
+      "nl": "Robert Koch wordt geboren",
+      "pl": "Rodzi sie Robert Koch",
+      "tr": "Robert Koch doguyor",
+      "zh": "罗伯特·科赫出生",
+      "ja": "ロベルト・コッホが生まれる",
+      "ko": "로베르트 코흐가 태어나다",
+      "hi": "रॉबर्ट कोख का जन्म हुआ",
+      "ar": "ولادة روبرت كوخ"
     },
     "description": {
       "ru": "11 декабря 1843 года в Клаустале, ныне Клаусталь-Целлерфельд, родился Роберт Кох. Он стал одним из основателей бактериологии.",
       "de": "Am 11. Dezember 1843 wurde Robert Koch in Clausthal, heute Clausthal-Zellerfeld, geboren. Er wurde einer der Begruender der Bakteriologie.",
-      "en": "On 11 December 1843, Robert Koch was born in Clausthal, now Clausthal-Zellerfeld. He became one of the founders of bacteriology."
+      "en": "On 11 December 1843, Robert Koch was born in Clausthal, now Clausthal-Zellerfeld. He became one of the founders of bacteriology.",
+      "fr": "Le 11 decembre 1843, Robert Koch naquit a Clausthal, aujourd'hui Clausthal-Zellerfeld. Il devint l'un des fondateurs de la bacteriologie.",
+      "es": "El 11 de diciembre de 1843 nacio Robert Koch en Clausthal, hoy Clausthal-Zellerfeld. Se convirtio en uno de los fundadores de la bacteriologia.",
+      "it": "L'11 dicembre 1843 Robert Koch nacque a Clausthal, oggi Clausthal-Zellerfeld. Divenne uno dei fondatori della batteriologia.",
+      "pt": "Em 11 de dezembro de 1843 nasceu Robert Koch em Clausthal, hoje Clausthal-Zellerfeld. Ele tornou-se um dos fundadores da bacteriologia.",
+      "nl": "Op 11 december 1843 werd Robert Koch geboren in Clausthal, nu Clausthal-Zellerfeld. Hij werd een van de grondleggers van de bacteriologie.",
+      "pl": "11 grudnia 1843 roku Robert Koch urodzil sie w Clausthal, dzisiejszym Clausthal-Zellerfeld. Stal sie jednym z tworcow bakteriologii.",
+      "tr": "11 Aralik 1843'te Robert Koch, bugunku Clausthal-Zellerfeld olan Clausthal'da dogdu. Bakteriyolojinin kurucularindan biri oldu.",
+      "zh": "1843年12月11日，罗伯特·科赫出生于克劳斯塔尔，即今天的克劳斯塔尔-采勒费尔德。他成为细菌学的奠基人之一。",
+      "ja": "1843年12月11日、ロベルト・コッホは現在のクラウスタール＝ツェラーフェルトにあたるクラウスタールで生まれました。彼は細菌学の創始者の一人となりました。",
+      "ko": "1843년 12월 11일 로베르트 코흐가 오늘날 클라우스탈-첼러펠트인 클라우스탈에서 태어났다. 그는 세균학의 창시자 중 한 명이 되었다.",
+      "hi": "11 दिसंबर 1843 को रॉबर्ट कोख का जन्म क्लाउसथाल, आज के क्लाउसथाल-त्सेलरफेल्ड, में हुआ। वे जीवाणु-विज्ञान के संस्थापकों में से एक बने।",
+      "ar": "في 11 ديسمبر 1843 وُلد روبرت كوخ في كلاوستال، وهي اليوم كلاوستال-تسيلرفلد. وأصبح أحد مؤسسي علم البكتيريا."
     },
     "importance": {
       "ru": "Кох изменил медицину, показав, что конкретные микроорганизмы вызывают конкретные болезни.",
       "de": "Koch veraenderte die Medizin, indem er zeigte, dass bestimmte Mikroorganismen bestimmte Krankheiten verursachen.",
-      "en": "Koch changed medicine by showing that specific microorganisms cause specific diseases."
+      "en": "Koch changed medicine by showing that specific microorganisms cause specific diseases.",
+      "fr": "Koch transforma la medecine en montrant que des micro-organismes precis provoquent des maladies precises.",
+      "es": "Koch cambio la medicina al mostrar que microorganismos concretos causan enfermedades concretas.",
+      "it": "Koch cambio la medicina mostrando che microrganismi specifici causano malattie specifiche.",
+      "pt": "Koch mudou a medicina ao mostrar que microorganismos especificos causam doencas especificas.",
+      "nl": "Koch veranderde de geneeskunde door te laten zien dat bepaalde micro-organismen bepaalde ziekten veroorzaken.",
+      "pl": "Koch zmienil medycyne, pokazujac, ze konkretne mikroorganizmy powoduja konkretne choroby.",
+      "tr": "Koch, belirli mikroorganizmalarin belirli hastaliklara yol actigini gostererek tibbi degistirdi.",
+      "zh": "科赫通过证明特定微生物会引起特定疾病，改变了医学。",
+      "ja": "コッホは、特定の微生物が特定の病気を引き起こすことを示し、医学を変えました。",
+      "ko": "코흐는 특정 미생물이 특정 질병을 일으킨다는 것을 보여 주어 의학을 바꾸었다.",
+      "hi": "कोख ने यह दिखाकर चिकित्सा को बदल दिया कि विशेष सूक्ष्मजीव विशेष रोग पैदा करते हैं।",
+      "ar": "غير كوخ الطب عندما أظهر أن كائنات دقيقة محددة تسبب أمراضا محددة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Нобелевская премия за исследования туберкулёза",
           "de": "Nobelpreis fuer Tuberkuloseforschung",
-          "en": "Nobel Prize for tuberculosis research"
+          "en": "Nobel Prize for tuberculosis research",
+          "fr": "Prix Nobel pour la recherche sur la tuberculose",
+          "es": "Premio Nobel por la investigacion de la tuberculosis",
+          "it": "Premio Nobel per la ricerca sulla tubercolosi",
+          "pt": "Premio Nobel pela pesquisa sobre tuberculose",
+          "nl": "Nobelprijs voor onderzoek naar tuberculose",
+          "pl": "Nagroda Nobla za badania nad gruzlica",
+          "tr": "Tuberkuloz arastirmalari icin Nobel Odulu",
+          "zh": "因结核病研究获得诺贝尔奖",
+          "ja": "結核研究によるノーベル賞",
+          "ko": "결핵 연구로 받은 노벨상",
+          "hi": "तपेदिक अनुसंधान के लिए नोबेल पुरस्कार",
+          "ar": "جائزة نوبل لأبحاث السل"
         },
         "description": {
           "ru": "В 1905 году Кох получил Нобелевскую премию по физиологии или медицине. Его открытие возбудителя туберкулёза стало одной из важнейших вех микробиологии.",
           "de": "1905 erhielt Koch den Nobelpreis fuer Physiologie oder Medizin. Seine Entdeckung des Tuberkulose-Erregers wurde zu einem Meilenstein der Mikrobiologie.",
-          "en": "In 1905, Koch received the Nobel Prize in Physiology or Medicine. His discovery of the tuberculosis bacillus became a milestone in microbiology."
+          "en": "In 1905, Koch received the Nobel Prize in Physiology or Medicine. His discovery of the tuberculosis bacillus became a milestone in microbiology.",
+          "fr": "En 1905, Koch recut le prix Nobel de physiologie ou medecine. Sa decouverte du bacille de la tuberculose devint une etape majeure de la microbiologie.",
+          "es": "En 1905, Koch recibio el Premio Nobel de Fisiologia o Medicina. Su descubrimiento del bacilo de la tuberculosis se convirtio en un hito de la microbiologia.",
+          "it": "Nel 1905 Koch ricevette il Premio Nobel per la fisiologia o la medicina. La sua scoperta del bacillo della tubercolosi divenne una pietra miliare della microbiologia.",
+          "pt": "Em 1905, Koch recebeu o Premio Nobel de Fisiologia ou Medicina. Sua descoberta do bacilo da tuberculose tornou-se um marco da microbiologia.",
+          "nl": "In 1905 ontving Koch de Nobelprijs voor Fysiologie of Geneeskunde. Zijn ontdekking van de tuberkelbacil werd een mijlpaal in de microbiologie.",
+          "pl": "W 1905 roku Koch otrzymal Nagrode Nobla w dziedzinie fizjologii lub medycyny. Jego odkrycie pratka gruzlicy stalo sie kamieniem milowym mikrobiologii.",
+          "tr": "1905'te Koch Fizyoloji veya Tip Nobel Odulu'nu aldi. Tuberkuloz basilini kesfetmesi mikrobiyolojide bir donum noktasi oldu.",
+          "zh": "1905年，科赫获得诺贝尔生理学或医学奖。他发现结核杆菌，成为微生物学的重要里程碑。",
+          "ja": "1905年、コッホはノーベル生理学・医学賞を受賞しました。結核菌の発見は微生物学の大きな節目となりました。",
+          "ko": "1905년 코흐는 노벨 생리의학상을 받았다. 그의 결핵균 발견은 미생물학의 이정표가 되었다.",
+          "hi": "1905 में कोख को शरीर क्रिया विज्ञान या चिकित्सा का नोबेल पुरस्कार मिला। तपेदिक जीवाणु की उनकी खोज सूक्ष्मजीव-विज्ञान की बड़ी उपलब्धि बनी।",
+          "ar": "في عام 1905 حصل كوخ على جائزة نوبل في علم وظائف الأعضاء أو الطب. وأصبح اكتشافه لعصية السل علامة مهمة في علم الأحياء الدقيقة."
         },
         "importance": {
           "ru": "Это одна из причин, почему немецкая медицина XIX века стала известна во всём мире.",
           "de": "Das ist einer der Gruende, warum die deutsche Medizin des 19. Jahrhunderts weltweit bekannt wurde.",
-          "en": "It is one reason why nineteenth-century German medicine became known worldwide."
+          "en": "It is one reason why nineteenth-century German medicine became known worldwide.",
+          "fr": "C'est l'une des raisons pour lesquelles la medecine allemande du XIXe siecle devint connue dans le monde entier.",
+          "es": "Es una de las razones por las que la medicina alemana del siglo XIX se hizo conocida en todo el mundo.",
+          "it": "E una delle ragioni per cui la medicina tedesca del XIX secolo divenne nota in tutto il mondo.",
+          "pt": "E uma das razoes pelas quais a medicina alema do seculo XIX ficou conhecida no mundo inteiro.",
+          "nl": "Het is een reden waarom de Duitse geneeskunde van de negentiende eeuw wereldwijd bekend werd.",
+          "pl": "To jeden z powodow, dla ktorych niemiecka medycyna XIX wieku stala sie znana na calym swiecie.",
+          "tr": "Bu, 19. yuzyil Alman tibbinin dunyada taninmasinin nedenlerinden biridir.",
+          "zh": "这是19世纪德国医学闻名世界的原因之一。",
+          "ja": "これは、19世紀のドイツ医学が世界的に知られるようになった理由の一つです。",
+          "ko": "이는 19세기 독일 의학이 전 세계에 알려진 이유 중 하나이다.",
+          "hi": "यह उन कारणों में से एक है जिनसे उन्नीसवीं सदी की जर्मन चिकित्सा दुनिया भर में प्रसिद्ध हुई।",
+          "ar": "هذا أحد الأسباب التي جعلت الطب الألماني في القرن التاسع عشر معروفا في العالم كله."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Институт Роберта Коха в Берлине сегодня является важным федеральным институтом общественного здравоохранения.",
     "de": "Das Robert Koch-Institut in Berlin ist heute ein wichtiges Bundesinstitut fuer oeffentliche Gesundheit.",
-    "en": "The Robert Koch Institute in Berlin is now an important federal public health institute."
+    "en": "The Robert Koch Institute in Berlin is now an important federal public health institute.",
+    "fr": "L'Institut Robert Koch a Berlin est aujourd'hui un important institut federal de sante publique.",
+    "es": "El Instituto Robert Koch de Berlin es hoy un importante instituto federal de salud publica.",
+    "it": "L'Istituto Robert Koch di Berlino e oggi un importante istituto federale di sanita pubblica.",
+    "pt": "O Instituto Robert Koch em Berlim e hoje um importante instituto federal de saude publica.",
+    "nl": "Het Robert Koch-Instituut in Berlijn is tegenwoordig een belangrijk federaal instituut voor volksgezondheid.",
+    "pl": "Instytut Roberta Kocha w Berlinie jest dzis waznym federalnym instytutem zdrowia publicznego.",
+    "tr": "Berlin'deki Robert Koch Enstitusu bugun onemli bir federal halk sagligi enstitusudur.",
+    "zh": "柏林的罗伯特·科赫研究所如今是重要的联邦公共卫生机构。",
+    "ja": "ベルリンのロベルト・コッホ研究所は、現在、重要な連邦公衆衛生機関です。",
+    "ko": "베를린의 로베르트 코흐 연구소는 오늘날 중요한 연방 공중보건 기관이다.",
+    "hi": "बर्लिन का रॉबर्ट कोख संस्थान आज सार्वजनिक स्वास्थ्य का महत्वपूर्ण संघीय संस्थान है।",
+    "ar": "يعد معهد روبرت كوخ في برلين اليوم معهدا اتحاديا مهما للصحة العامة."
   },
   "sources": [
     {

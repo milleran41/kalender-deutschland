@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Фриц Габер",
       "de": "Fritz Haber wird geboren",
-      "en": "Fritz Haber is born"
+      "en": "Fritz Haber is born",
+      "fr": "Naissance de Fritz Haber",
+      "es": "Nace Fritz Haber",
+      "it": "Nasce Fritz Haber",
+      "pt": "Nasce Fritz Haber",
+      "nl": "Fritz Haber wordt geboren",
+      "pl": "Rodzi sie Fritz Haber",
+      "tr": "Fritz Haber doguyor",
+      "zh": "弗里茨·哈伯出生",
+      "ja": "フリッツ・ハーバーが生まれる",
+      "ko": "프리츠 하버가 태어나다",
+      "hi": "फ्रिट्ज हाबर का जन्म हुआ",
+      "ar": "ولادة فريتز هابر"
     },
     "description": {
       "ru": "9 декабря 1868 года в Бреслау родился химик Фриц Габер. Он получил Нобелевскую премию за синтез аммиака из азота и водорода.",
       "de": "Am 9. Dezember 1868 wurde der Chemiker Fritz Haber in Breslau geboren. Er erhielt den Nobelpreis fuer die Synthese von Ammoniak aus Stickstoff und Wasserstoff.",
-      "en": "On 9 December 1868, chemist Fritz Haber was born in Breslau. He received the Nobel Prize for synthesizing ammonia from nitrogen and hydrogen."
+      "en": "On 9 December 1868, chemist Fritz Haber was born in Breslau. He received the Nobel Prize for synthesizing ammonia from nitrogen and hydrogen.",
+      "fr": "Le 9 decembre 1868, le chimiste Fritz Haber naquit a Breslau. Il recut le prix Nobel pour la synthese de l'ammoniac a partir d'azote et d'hydrogene.",
+      "es": "El 9 de diciembre de 1868 nacio en Breslau el quimico Fritz Haber. Recibio el Premio Nobel por sintetizar amoniaco a partir de nitrogeno e hidrogeno.",
+      "it": "Il 9 dicembre 1868 nacque a Breslavia il chimico Fritz Haber. Ricevette il Premio Nobel per la sintesi dell'ammoniaca da azoto e idrogeno.",
+      "pt": "Em 9 de dezembro de 1868 nasceu em Breslau o quimico Fritz Haber. Ele recebeu o Premio Nobel pela sintese de amonia a partir de nitrogenio e hidrogenio.",
+      "nl": "Op 9 december 1868 werd chemicus Fritz Haber geboren in Breslau. Hij ontving de Nobelprijs voor de synthese van ammoniak uit stikstof en waterstof.",
+      "pl": "9 grudnia 1868 roku we Wroclawiu, wowczas Breslau, urodzil sie chemik Fritz Haber. Otrzymal Nagrode Nobla za synteze amoniaku z azotu i wodoru.",
+      "tr": "9 Aralik 1868'de kimyager Fritz Haber Breslau'da dogdu. Azot ve hidrojenden amonyak sentezledigi icin Nobel Odulu aldi.",
+      "zh": "1868年12月9日，化学家弗里茨·哈伯出生于布雷斯劳。他因从氮和氢合成氨而获得诺贝尔奖。",
+      "ja": "1868年12月9日、化学者フリッツ・ハーバーがブレスラウで生まれました。彼は窒素と水素からアンモニアを合成した功績でノーベル賞を受賞しました。",
+      "ko": "1868년 12월 9일 화학자 프리츠 하버가 브레슬라우에서 태어났다. 그는 질소와 수소로 암모니아를 합성한 공로로 노벨상을 받았다.",
+      "hi": "9 दिसंबर 1868 को रसायनशास्त्री फ्रिट्ज हाबर का जन्म ब्रेसलाउ में हुआ। उन्हें नाइट्रोजन और हाइड्रोजन से अमोनिया बनाने के लिए नोबेल पुरस्कार मिला।",
+      "ar": "في 9 ديسمبر 1868 وُلد الكيميائي فريتز هابر في بريسلاو. وحصل على جائزة نوبل لتخليق الأمونيا من النيتروجين والهيدروجين."
     },
     "importance": {
       "ru": "Процесс Габера-Боша изменил сельское хозяйство, потому что позволил массово производить удобрения.",
       "de": "Das Haber-Bosch-Verfahren veraenderte die Landwirtschaft, weil es die Massenproduktion von Duengemitteln ermoeglichte.",
-      "en": "The Haber-Bosch process changed agriculture by enabling mass production of fertilizers."
+      "en": "The Haber-Bosch process changed agriculture by enabling mass production of fertilizers.",
+      "fr": "Le procede Haber-Bosch transforma l'agriculture en rendant possible la production massive d'engrais.",
+      "es": "El proceso Haber-Bosch cambio la agricultura al permitir la produccion masiva de fertilizantes.",
+      "it": "Il processo Haber-Bosch cambio l'agricoltura rendendo possibile la produzione di massa di fertilizzanti.",
+      "pt": "O processo Haber-Bosch mudou a agricultura ao permitir a producao em massa de fertilizantes.",
+      "nl": "Het Haber-Boschproces veranderde de landbouw doordat massaproductie van kunstmest mogelijk werd.",
+      "pl": "Proces Habera-Boscha zmienil rolnictwo, poniewaz umozliwil masowa produkcje nawozow.",
+      "tr": "Haber-Bosch sureci, gubrelerin kitlesel uretimini mumkun kilarak tarimi degistirdi.",
+      "zh": "哈伯-博施工艺使化肥能够大规模生产，从而改变了农业。",
+      "ja": "ハーバー・ボッシュ法は肥料の大量生産を可能にし、農業を変えました。",
+      "ko": "하버-보슈 공정은 비료의 대량 생산을 가능하게 하여 농업을 바꾸었다.",
+      "hi": "हाबर-बॉश प्रक्रिया ने उर्वरकों के बड़े पैमाने पर उत्पादन को संभव बनाकर खेती बदल दी।",
+      "ar": "غيرت عملية هابر-بوش الزراعة لأنها جعلت الإنتاج الواسع للأسمدة ممكنا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сложное наследие",
           "de": "Ein schwieriges Erbe",
-          "en": "A difficult legacy"
+          "en": "A difficult legacy",
+          "fr": "Un heritage difficile",
+          "es": "Un legado dificil",
+          "it": "Un'eredita difficile",
+          "pt": "Um legado dificil",
+          "nl": "Een moeilijke erfenis",
+          "pl": "Trudne dziedzictwo",
+          "tr": "Zor bir miras",
+          "zh": "复杂的遗产",
+          "ja": "難しい遺産",
+          "ko": "어려운 유산",
+          "hi": "एक कठिन विरासत",
+          "ar": "إرث صعب"
         },
         "description": {
           "ru": "Габера помнят не только за удобрения, но и за роль в развитии химического оружия в Первую мировую войну. Поэтому его биография часто вызывает споры.",
           "de": "Haber wird nicht nur wegen der Duengemittel erinnert, sondern auch wegen seiner Rolle bei chemischen Waffen im Ersten Weltkrieg. Deshalb ist seine Biografie umstritten.",
-          "en": "Haber is remembered not only for fertilizers but also for his role in chemical weapons during the First World War. His biography is therefore controversial."
+          "en": "Haber is remembered not only for fertilizers but also for his role in chemical weapons during the First World War. His biography is therefore controversial.",
+          "fr": "On se souvient de Haber non seulement pour les engrais, mais aussi pour son role dans les armes chimiques pendant la Premiere Guerre mondiale. Sa biographie reste donc controversee.",
+          "es": "A Haber se le recuerda no solo por los fertilizantes, sino tambien por su papel en las armas quimicas durante la Primera Guerra Mundial. Por eso su biografia es controvertida.",
+          "it": "Haber e ricordato non solo per i fertilizzanti, ma anche per il suo ruolo nelle armi chimiche durante la Prima guerra mondiale. Per questo la sua biografia e controversa.",
+          "pt": "Haber e lembrado nao so pelos fertilizantes, mas tambem por seu papel nas armas quimicas durante a Primeira Guerra Mundial. Por isso sua biografia e controversa.",
+          "nl": "Haber wordt niet alleen herinnerd om kunstmest, maar ook om zijn rol bij chemische wapens in de Eerste Wereldoorlog. Daarom is zijn biografie omstreden.",
+          "pl": "Habera pamieta sie nie tylko za nawozy, lecz takze za role w rozwoju broni chemicznej podczas pierwszej wojny swiatowej. Dlatego jego biografia budzi spory.",
+          "tr": "Haber yalnizca gubrelerle degil, Birinci Dunya Savasi'ndaki kimyasal silahlarla ilgili roluyle de hatirlanir. Bu yuzden biyografisi tartismalidir.",
+          "zh": "人们记住哈伯不仅因为化肥，也因为他在第一次世界大战化学武器中的作用。因此，他的生平常有争议。",
+          "ja": "ハーバーは肥料だけでなく、第一次世界大戦中の化学兵器への関与でも記憶されています。そのため彼の伝記はしばしば論争を呼びます。",
+          "ko": "하버는 비료뿐 아니라 제1차 세계대전 중 화학무기에서 한 역할로도 기억된다. 그래서 그의 생애는 논쟁적이다.",
+          "hi": "हाबर को केवल उर्वरकों के लिए नहीं, बल्कि प्रथम विश्व युद्ध में रासायनिक हथियारों से जुड़ी भूमिका के लिए भी याद किया जाता है। इसलिए उनकी जीवनी विवादास्पद है।",
+          "ar": "لا يُذكر هابر بسبب الأسمدة فقط، بل أيضا بسبب دوره في الأسلحة الكيميائية خلال الحرب العالمية الأولى. لذلك تبقى سيرته مثيرة للجدل."
         },
         "importance": {
           "ru": "Это показывает, что научные открытия могут иметь одновременно полезные и страшные последствия.",
           "de": "Das zeigt, dass wissenschaftliche Entdeckungen zugleich nuetzliche und gefaehrliche Folgen haben koennen.",
-          "en": "It shows that scientific discoveries can have both useful and frightening consequences."
+          "en": "It shows that scientific discoveries can have both useful and frightening consequences.",
+          "fr": "Cela montre que les decouvertes scientifiques peuvent avoir a la fois des consequences utiles et effrayantes.",
+          "es": "Muestra que los descubrimientos cientificos pueden tener consecuencias utiles y tambien terribles.",
+          "it": "Mostra che le scoperte scientifiche possono avere conseguenze utili ma anche spaventose.",
+          "pt": "Mostra que descobertas cientificas podem ter consequencias uteis e tambem assustadoras.",
+          "nl": "Het laat zien dat wetenschappelijke ontdekkingen zowel nuttige als angstaanjagende gevolgen kunnen hebben.",
+          "pl": "To pokazuje, ze odkrycia naukowe moga miec jednoczesnie pozyteczne i grozne skutki.",
+          "tr": "Bu, bilimsel kesiflerin hem yararli hem de korkutucu sonuclari olabilecegini gosterir.",
+          "zh": "这说明科学发现可能同时带来有益和可怕的后果。",
+          "ja": "科学的発見には有益な結果と恐ろしい結果の両方があり得ることを示しています。",
+          "ko": "과학적 발견이 유용한 결과와 두려운 결과를 동시에 낳을 수 있음을 보여 준다.",
+          "hi": "यह दिखाता है कि वैज्ञानिक खोजों के उपयोगी और भयावह दोनों परिणाम हो सकते हैं।",
+          "ar": "يوضح ذلك أن الاكتشافات العلمية قد تكون لها نتائج مفيدة ومخيفة في الوقت نفسه."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Бреслау, где родился Габер, сегодня называется Вроцлав и находится в Польше.",
     "de": "Breslau, Habers Geburtsstadt, heisst heute Wroclaw und liegt in Polen.",
-    "en": "Breslau, Haber's birthplace, is now Wroclaw in Poland."
+    "en": "Breslau, Haber's birthplace, is now Wroclaw in Poland.",
+    "fr": "Breslau, la ville natale de Haber, s'appelle aujourd'hui Wroclaw et se trouve en Pologne.",
+    "es": "Breslau, la ciudad natal de Haber, hoy se llama Wroclaw y esta en Polonia.",
+    "it": "Breslavia, la citta natale di Haber, oggi si chiama Wroclaw e si trova in Polonia.",
+    "pt": "Breslau, cidade natal de Haber, hoje se chama Wroclaw e fica na Polonia.",
+    "nl": "Breslau, de geboorteplaats van Haber, heet nu Wroclaw en ligt in Polen.",
+    "pl": "Breslau, miejsce urodzenia Habera, to dzisiejszy Wroclaw w Polsce.",
+    "tr": "Haber'in dogdugu Breslau bugun Wroclaw adini tasir ve Polonya'dadir.",
+    "zh": "哈伯的出生地布雷斯劳如今名为弗罗茨瓦夫，位于波兰。",
+    "ja": "ハーバーの出生地ブレスラウは、現在はポーランドのヴロツワフです。",
+    "ko": "하버의 출생지 브레슬라우는 오늘날 폴란드의 브로츠와프이다.",
+    "hi": "हाबर का जन्मस्थान ब्रेसलाउ आज पोलैंड का व्रोकलाव कहलाता है।",
+    "ar": "بريسلاو، مسقط رأس هابر، تُعرف اليوم باسم فروتسواف وتقع في بولندا."
   },
   "sources": [
     {

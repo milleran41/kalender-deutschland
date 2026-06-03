@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Нелли Закс",
       "de": "Nelly Sachs wird geboren",
-      "en": "Nelly Sachs is born"
+      "en": "Nelly Sachs is born",
+      "fr": "Naissance de Nelly Sachs",
+      "es": "Nace Nelly Sachs",
+      "it": "Nasce Nelly Sachs",
+      "pt": "Nasce Nelly Sachs",
+      "nl": "Nelly Sachs wordt geboren",
+      "pl": "Rodzi sie Nelly Sachs",
+      "tr": "Nelly Sachs doguyor",
+      "zh": "内莉·萨克斯出生",
+      "ja": "ネリー・ザックスが生まれる",
+      "ko": "넬리 작스가 태어나다",
+      "hi": "नेली जाक्स का जन्म हुआ",
+      "ar": "ولادة نيلي زاكس"
     },
     "description": {
       "ru": "10 декабря 1891 года в Берлине родилась поэтесса Нелли Закс. Позднее она эмигрировала в Швецию и получила Нобелевскую премию по литературе.",
       "de": "Am 10. Dezember 1891 wurde die Dichterin Nelly Sachs in Berlin geboren. Spaeter emigrierte sie nach Schweden und erhielt den Nobelpreis fuer Literatur.",
-      "en": "On 10 December 1891, poet Nelly Sachs was born in Berlin. She later emigrated to Sweden and received the Nobel Prize in Literature."
+      "en": "On 10 December 1891, poet Nelly Sachs was born in Berlin. She later emigrated to Sweden and received the Nobel Prize in Literature.",
+      "fr": "Le 10 decembre 1891, la poete Nelly Sachs naquit a Berlin. Elle emigra plus tard en Suede et recut le prix Nobel de litterature.",
+      "es": "El 10 de diciembre de 1891 nacio en Berlin la poeta Nelly Sachs. Mas tarde emigro a Suecia y recibio el Premio Nobel de Literatura.",
+      "it": "Il 10 dicembre 1891 nacque a Berlino la poetessa Nelly Sachs. In seguito emigro in Svezia e ricevette il Premio Nobel per la letteratura.",
+      "pt": "Em 10 de dezembro de 1891 nasceu em Berlim a poeta Nelly Sachs. Mais tarde emigrou para a Suecia e recebeu o Premio Nobel de Literatura.",
+      "nl": "Op 10 december 1891 werd dichteres Nelly Sachs in Berlijn geboren. Later emigreerde zij naar Zweden en ontving zij de Nobelprijs voor Literatuur.",
+      "pl": "10 grudnia 1891 roku w Berlinie urodzila sie poetka Nelly Sachs. Pozniej wyemigrowala do Szwecji i otrzymala Literacka Nagrode Nobla.",
+      "tr": "10 Aralik 1891'de sair Nelly Sachs Berlin'de dogdu. Daha sonra Isvec'e goc etti ve Nobel Edebiyat Odulu'nu aldi.",
+      "zh": "1891年12月10日，诗人内莉·萨克斯出生于柏林。她后来移居瑞典，并获得诺贝尔文学奖。",
+      "ja": "1891年12月10日、詩人ネリー・ザックスがベルリンで生まれました。彼女は後にスウェーデンへ亡命し、ノーベル文学賞を受賞しました。",
+      "ko": "1891년 12월 10일 시인 넬리 작스가 베를린에서 태어났다. 그녀는 나중에 스웨덴으로 망명했고 노벨 문학상을 받았다.",
+      "hi": "10 दिसंबर 1891 को कवयित्री नेली जाक्स का जन्म बर्लिन में हुआ। बाद में वे स्वीडन चली गईं और उन्हें साहित्य का नोबेल पुरस्कार मिला।",
+      "ar": "في 10 ديسمبر 1891 وُلدت الشاعرة نيلي زاكس في برلين. وهاجرت لاحقا إلى السويد وحصلت على جائزة نوبل في الأدب."
     },
     "importance": {
       "ru": "Её творчество связано с памятью о преследовании евреев и катастрофе Холокоста.",
       "de": "Ihr Werk ist mit der Erinnerung an die Verfolgung der Juden und die Katastrophe des Holocaust verbunden.",
-      "en": "Her work is tied to the memory of Jewish persecution and the catastrophe of the Holocaust."
+      "en": "Her work is tied to the memory of Jewish persecution and the catastrophe of the Holocaust.",
+      "fr": "Son oeuvre est liee a la memoire de la persecution des Juifs et a la catastrophe de la Shoah.",
+      "es": "Su obra esta unida a la memoria de la persecucion de los judios y a la catastrofe del Holocausto.",
+      "it": "La sua opera e legata alla memoria della persecuzione degli ebrei e alla catastrofe dell'Olocausto.",
+      "pt": "Sua obra esta ligada a memoria da perseguicao dos judeus e a catastrofe do Holocausto.",
+      "nl": "Haar werk is verbonden met de herinnering aan Joodse vervolging en de catastrofe van de Holocaust.",
+      "pl": "Jej tworczosc laczy sie z pamiecia o przesladowaniu Zydow i katastrofie Holokaustu.",
+      "tr": "Eseri, Yahudilere yonelik zulmun ve Holokost felaketinin hafizasiyla baglantilidir.",
+      "zh": "她的作品与犹太人受迫害的记忆和大屠杀灾难相连。",
+      "ja": "彼女の作品は、ユダヤ人迫害の記憶とホロコーストの悲劇に結びついています。",
+      "ko": "그녀의 작품은 유대인 박해의 기억과 홀로코스트의 참사와 연결되어 있다.",
+      "hi": "उनकी रचनाएं यहूदियों के उत्पीड़न और होलोकॉस्ट की त्रासदी की स्मृति से जुड़ी हैं।",
+      "ar": "يرتبط عملها بذكرى اضطهاد اليهود وبكارثة الهولوكوست."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Поэзия изгнания и памяти",
           "de": "Dichtung von Exil und Erinnerung",
-          "en": "Poetry of exile and memory"
+          "en": "Poetry of exile and memory",
+          "fr": "Poesie de l'exil et de la memoire",
+          "es": "Poesia del exilio y la memoria",
+          "it": "Poesia dell'esilio e della memoria",
+          "pt": "Poesia do exilio e da memoria",
+          "nl": "Poezie van ballingschap en herinnering",
+          "pl": "Poezja wygnania i pamieci",
+          "tr": "Surgun ve hafiza siiri",
+          "zh": "流亡与记忆的诗歌",
+          "ja": "亡命と記憶の詩",
+          "ko": "망명과 기억의 시",
+          "hi": "निर्वासन और स्मृति की कविता",
+          "ar": "شعر المنفى والذاكرة"
         },
         "description": {
           "ru": "Нелли Закс писала о боли, утрате и надежде после катастрофы. Её поэзия стала важной частью немецко-еврейской культуры памяти.",
           "de": "Nelly Sachs schrieb ueber Schmerz, Verlust und Hoffnung nach der Katastrophe. Ihre Dichtung wurde ein wichtiger Teil deutsch-juedischer Erinnerungskultur.",
-          "en": "Nelly Sachs wrote about pain, loss and hope after catastrophe. Her poetry became an important part of German-Jewish memory culture."
+          "en": "Nelly Sachs wrote about pain, loss and hope after catastrophe. Her poetry became an important part of German-Jewish memory culture.",
+          "fr": "Nelly Sachs ecrivit sur la douleur, la perte et l'espoir apres la catastrophe. Sa poesie devint une part importante de la culture de memoire germano-juive.",
+          "es": "Nelly Sachs escribio sobre dolor, perdida y esperanza despues de la catastrofe. Su poesia se convirtio en una parte importante de la cultura germano-judia de la memoria.",
+          "it": "Nelly Sachs scrisse di dolore, perdita e speranza dopo la catastrofe. La sua poesia divenne una parte importante della cultura della memoria tedesco-ebraica.",
+          "pt": "Nelly Sachs escreveu sobre dor, perda e esperanca depois da catastrofe. Sua poesia tornou-se parte importante da cultura de memoria judaico-alema.",
+          "nl": "Nelly Sachs schreef over pijn, verlies en hoop na de catastrofe. Haar poezie werd een belangrijk deel van de Duits-Joodse herinneringscultuur.",
+          "pl": "Nelly Sachs pisala o bolu, stracie i nadziei po katastrofie. Jej poezja stala sie wazna czescia niemiecko-zydowskiej kultury pamieci.",
+          "tr": "Nelly Sachs felaketten sonra aci, kayip ve umut uzerine yazdi. Siiri Alman-Yahudi hafiza kulturunun onemli bir parcasi oldu.",
+          "zh": "内莉·萨克斯书写灾难之后的痛苦、失去和希望。她的诗成为德意志犹太记忆文化的重要部分。",
+          "ja": "ネリー・ザックスは、大惨事の後の痛み、喪失、希望について書きました。彼女の詩はドイツ・ユダヤ記憶文化の重要な一部となりました。",
+          "ko": "넬리 작스는 참사 이후의 고통, 상실, 희망을 썼다. 그녀의 시는 독일-유대 기억 문화의 중요한 일부가 되었다.",
+          "hi": "नेली जाक्स ने त्रासदी के बाद दर्द, क्षति और आशा के बारे में लिखा। उनकी कविता जर्मन-यहूदी स्मृति संस्कृति का महत्वपूर्ण हिस्सा बनी।",
+          "ar": "كتبت نيلي زاكس عن الألم والفقدان والأمل بعد الكارثة. وأصبح شعرها جزءا مهما من ثقافة الذاكرة الألمانية اليهودية."
         },
         "importance": {
           "ru": "Она показывает, что немецкая культура после 1945 года невозможна без голоса изгнанных.",
           "de": "Sie zeigt, dass deutsche Kultur nach 1945 ohne die Stimmen der Vertriebenen nicht denkbar ist.",
-          "en": "She shows that German culture after 1945 cannot be imagined without the voices of the exiled."
+          "en": "She shows that German culture after 1945 cannot be imagined without the voices of the exiled.",
+          "fr": "Elle montre que la culture allemande apres 1945 ne peut etre imaginee sans les voix des exiles.",
+          "es": "Muestra que la cultura alemana despues de 1945 no puede imaginarse sin las voces de los exiliados.",
+          "it": "Mostra che la cultura tedesca dopo il 1945 non puo essere immaginata senza le voci degli esiliati.",
+          "pt": "Ela mostra que a cultura alema depois de 1945 nao pode ser imaginada sem as vozes dos exilados.",
+          "nl": "Zij laat zien dat Duitse cultuur na 1945 niet denkbaar is zonder de stemmen van de ballingen.",
+          "pl": "Pokazuje, ze niemieckiej kultury po 1945 roku nie da sie wyobrazic bez glosow wygnanych.",
+          "tr": "1945 sonrasi Alman kulturunun surgunlerin sesleri olmadan dusunulemeyecegini gosterir.",
+          "zh": "她表明，1945年后的德国文化无法离开流亡者的声音来想象。",
+          "ja": "彼女は、1945年以後のドイツ文化が亡命者の声なしには考えられないことを示しています。",
+          "ko": "그녀는 1945년 이후 독일 문화를 망명자들의 목소리 없이 상상할 수 없음을 보여 준다.",
+          "hi": "वे दिखाती हैं कि 1945 के बाद की जर्मन संस्कृति निर्वासितों की आवाजों के बिना सोची नहीं जा सकती।",
+          "ar": "توضح أن الثقافة الألمانية بعد 1945 لا يمكن تصورها من دون أصوات المنفيين."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "10 декабря также день вручения Нобелевских премий, поэтому дата особенно символична для нобелевского лауреата.",
     "de": "Der 10. Dezember ist auch der Tag der Nobelpreisverleihung, daher ist das Datum fuer eine Nobelpreistraegerin besonders symbolisch.",
-    "en": "10 December is also Nobel Prize award day, making the date especially symbolic for a Nobel laureate."
+    "en": "10 December is also Nobel Prize award day, making the date especially symbolic for a Nobel laureate.",
+    "fr": "Le 10 decembre est aussi le jour de remise des prix Nobel, ce qui rend cette date particulierement symbolique pour une laureate du Nobel.",
+    "es": "El 10 de diciembre es tambien el dia de entrega de los Premios Nobel, por lo que la fecha es especialmente simbolica para una laureada.",
+    "it": "Il 10 dicembre e anche il giorno della consegna dei Premi Nobel, percio la data e particolarmente simbolica per una laureata.",
+    "pt": "10 de dezembro tambem e o dia da entrega dos Premios Nobel, tornando a data especialmente simbolica para uma laureada.",
+    "nl": "10 december is ook de dag waarop de Nobelprijzen worden uitgereikt, waardoor de datum voor een Nobelprijswinnares extra symbolisch is.",
+    "pl": "10 grudnia to takze dzien wreczenia Nagrod Nobla, dlatego data jest szczegolnie symboliczna dla noblistki.",
+    "tr": "10 Aralik ayni zamanda Nobel Odullerinin verildigi gundur; bu nedenle tarih bir Nobel odullusu icin ozellikle simgeseldir.",
+    "zh": "12月10日也是诺贝尔奖颁奖日，因此这个日期对一位诺贝尔奖得主尤其具有象征意义。",
+    "ja": "12月10日はノーベル賞授賞式の日でもあるため、ノーベル賞受賞者にとって特に象徴的な日です。",
+    "ko": "12월 10일은 노벨상 시상일이기도 해서, 노벨상 수상자에게 특히 상징적인 날짜이다.",
+    "hi": "10 दिसंबर नोबेल पुरस्कार प्रदान करने का दिन भी है, इसलिए यह तारीख नोबेल विजेता के लिए विशेष रूप से प्रतीकात्मक है।",
+    "ar": "10 ديسمبر هو أيضا يوم تسليم جوائز نوبل، ولذلك يحمل التاريخ رمزية خاصة لحائزة على نوبل."
   },
   "sources": [
     {
