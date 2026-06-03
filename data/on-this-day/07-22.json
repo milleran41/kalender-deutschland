@@ -11,17 +11,53 @@
     "title": {
       "ru": "Битва при Борнхёведе",
       "de": "Die Schlacht bei Bornhoeved",
-      "en": "The Battle of Bornhoeved"
+      "en": "The Battle of Bornhoeved",
+      "fr": "La bataille de Bornhoeved",
+      "es": "La batalla de Bornhoeved",
+      "it": "La battaglia di Bornhoeved",
+      "pt": "A Batalha de Bornhoeved",
+      "nl": "De Slag bij Bornhoeved",
+      "pl": "Bitwa pod Bornhoeved",
+      "tr": "Bornhoeved Muharebesi",
+      "zh": "博恩赫韦德战役",
+      "ja": "ボルンヘーフェトの戦い",
+      "ko": "보른회베트 전투",
+      "hi": "बोर्नहोएवेद की लड़ाई",
+      "ar": "معركة بورنهوفيد"
     },
     "description": {
       "ru": "22 июля 1227 года у Борнхёведа в Гольштейне коалиция северонемецких князей и городов победила датского короля Вальдемара II. Сражение остановило датское господство на южном побережье Балтики.",
       "de": "Am 22. Juli 1227 besiegte bei Bornhoeved in Holstein eine Koalition norddeutscher Fuersten und Staedte den daenischen Koenig Waldemar II. Die Schlacht beendete die daenische Vorherrschaft an der suedlichen Ostseekueste.",
-      "en": "On 22 July 1227, near Bornhoeved in Holstein, a coalition of north German princes and towns defeated Danish King Valdemar II. The battle ended Danish dominance on the southern Baltic coast."
+      "en": "On 22 July 1227, near Bornhoeved in Holstein, a coalition of north German princes and towns defeated Danish King Valdemar II. The battle ended Danish dominance on the southern Baltic coast.",
+      "fr": "Le 22 juillet 1227, près de Bornhoeved en Holstein, une coalition de princes et de villes d'Allemagne du Nord vainquit le roi danois Valdemar II. La bataille mit fin à la domination danoise sur la côte sud de la Baltique.",
+      "es": "El 22 de julio de 1227, cerca de Bornhoeved en Holstein, una coalición de príncipes y ciudades del norte de Alemania derrotó al rey danés Valdemar II. La batalla puso fin al dominio danés en la costa meridional del Báltico.",
+      "it": "Il 22 luglio 1227, vicino a Bornhoeved nell'Holstein, una coalizione di principi e città della Germania settentrionale sconfisse il re danese Valdemar II. La battaglia pose fine al dominio danese sulla costa meridionale del Baltico.",
+      "pt": "Em 22 de julho de 1227, perto de Bornhoeved em Holstein, uma coalizão de príncipes e cidades do norte da Alemanha derrotou o rei dinamarquês Valdemar II. A batalha encerrou o domínio dinamarquês na costa sul do Báltico.",
+      "nl": "Op 22 juli 1227 versloeg bij Bornhoeved in Holstein een coalitie van Noord-Duitse vorsten en steden de Deense koning Valdemar II. De slag beëindigde de Deense overheersing aan de zuidelijke Oostzeekust.",
+      "pl": "22 lipca 1227 roku pod Bornhoeved w Holsztynie koalicja północnoniemieckich książąt i miast pokonała duńskiego króla Waldemara II. Bitwa zakończyła duńską dominację na południowym wybrzeżu Bałtyku.",
+      "tr": "22 Temmuz 1227'de Holstein'daki Bornhoeved yakınında kuzey Alman prensleri ve şehirlerinden oluşan bir koalisyon Danimarka Kralı II. Valdemar'ı yendi. Savaş, güney Baltık kıyısındaki Danimarka üstünlüğünü sona erdirdi.",
+      "zh": "1227年7月22日，在荷尔斯泰因的博恩赫韦德附近，北德诸侯和城市组成的联盟击败了丹麦国王瓦尔德马二世。这场战役结束了丹麦在波罗的海南岸的支配地位。",
+      "ja": "1227年7月22日、ホルシュタインのボルンヘーフェト近郊で、北ドイツの諸侯と都市の連合軍がデンマーク王ヴァルデマー2世を破った。この戦いはバルト海南岸におけるデンマークの支配を終わらせた。",
+      "ko": "1227년 7월 22일, 홀슈타인의 보른회베트 근처에서 북독일 제후들과 도시들의 연합이 덴마크 왕 발데마르 2세를 물리쳤다. 이 전투는 발트해 남부 해안에서 덴마크의 지배를 끝냈다.",
+      "hi": "22 जुलाई 1227 को होल्स्टाइन के बोर्नहोएवेद के पास उत्तरी जर्मन राजकुमारों और नगरों के गठबंधन ने डेनमार्क के राजा वाल्डेमार द्वितीय को हराया। इस लड़ाई ने बाल्टिक के दक्षिणी तट पर डेनिश प्रभुत्व समाप्त किया।",
+      "ar": "في 22 يوليو 1227، قرب بورنهوفيد في هولشتاين، هزم تحالف من أمراء ومدن شمال ألمانيا الملك الدنماركي فالديمار الثاني. وأنهت المعركة الهيمنة الدنماركية على الساحل الجنوبي للبلطيق."
     },
     "importance": {
       "ru": "Дата важна для карты северной Германии: она усилила позиции Гольштейна, Любека и других сил Балтийского региона.",
       "de": "Das Datum ist wichtig fuer die Karte Norddeutschlands: Es staerkte Holstein, Luebeck und andere Kraefte des Ostseeraums.",
-      "en": "The date matters for the map of northern Germany: it strengthened Holstein, Luebeck and other powers of the Baltic region."
+      "en": "The date matters for the map of northern Germany: it strengthened Holstein, Luebeck and other powers of the Baltic region.",
+      "fr": "Cette date compte pour la carte de l'Allemagne du Nord: elle renforça Holstein, Luebeck et d'autres puissances de la région baltique.",
+      "es": "La fecha importa para el mapa del norte de Alemania: fortaleció a Holstein, Luebeck y otras fuerzas de la región báltica.",
+      "it": "La data è importante per la carta della Germania settentrionale: rafforzò Holstein, Luebeck e altre potenze dell'area baltica.",
+      "pt": "A data é importante para o mapa do norte da Alemanha: fortaleceu Holstein, Luebeck e outras potências da região báltica.",
+      "nl": "De datum is belangrijk voor de kaart van Noord-Duitsland: hij versterkte Holstein, Luebeck en andere machten in het Oostzeegebied.",
+      "pl": "Ta data jest ważna dla mapy północnych Niemiec: wzmocniła Holsztyn, Luebeck i inne siły regionu bałtyckiego.",
+      "tr": "Bu tarih kuzey Almanya haritası için önemlidir: Holstein'ı, Luebeck'i ve Baltık bölgesindeki diğer güçleri kuvvetlendirdi.",
+      "zh": "这个日期对北德地图很重要：它加强了荷尔斯泰因、吕贝克和波罗的海地区其他力量的地位。",
+      "ja": "この日は北ドイツの地図にとって重要である。ホルシュタイン、リューベック、その他のバルト海地域の勢力を強めたからである。",
+      "ko": "이 날짜는 북독일 지도에서 중요하다. 홀슈타인, 뤼베크, 그리고 발트 지역의 다른 세력들을 강화했기 때문이다.",
+      "hi": "यह तारीख उत्तरी जर्मनी के नक्शे के लिए महत्वपूर्ण है: इसने होल्स्टाइन, ल्यूबेक और बाल्टिक क्षेत्र की अन्य शक्तियों को मजबूत किया।",
+      "ar": "هذا التاريخ مهم لخريطة شمال ألمانيا: فقد عزز هولشتاين ولوبيك وقوى أخرى في منطقة البلطيق."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Перелом на Балтике",
           "de": "Wende an der Ostsee",
-          "en": "Turning point on the Baltic"
+          "en": "Turning point on the Baltic",
+          "fr": "Tournant sur la Baltique",
+          "es": "Punto de inflexión en el Báltico",
+          "it": "Svolta sul Baltico",
+          "pt": "Virada no Báltico",
+          "nl": "Keerpunt aan de Oostzee",
+          "pl": "Punkt zwrotny nad Bałtykiem",
+          "tr": "Baltık'ta dönüm noktası",
+          "zh": "波罗的海的转折点",
+          "ja": "バルト海での転換点",
+          "ko": "발트해의 전환점",
+          "hi": "बाल्टिक क्षेत्र में मोड़",
+          "ar": "نقطة تحول على البلطيق"
         },
         "description": {
           "ru": "В XIII веке Балтика была пространством борьбы датской короны, немецких князей, городов и торговых интересов. Борнхёвед изменил баланс сил и помог северонемецким городам развиваться свободнее.",
           "de": "Im 13. Jahrhundert war die Ostsee ein Raum des Ringens zwischen der daenischen Krone, deutschen Fuersten, Staedten und Handelsinteressen. Bornhoeved veraenderte das Kraefteverhaeltnis und gab norddeutschen Staedten mehr Spielraum.",
-          "en": "In the thirteenth century, the Baltic was a space of struggle between the Danish crown, German princes, towns and trading interests. Bornhoeved changed the balance of power and gave north German towns more room to develop."
+          "en": "In the thirteenth century, the Baltic was a space of struggle between the Danish crown, German princes, towns and trading interests. Bornhoeved changed the balance of power and gave north German towns more room to develop.",
+          "fr": "Au XIIIe siècle, la Baltique était un espace de lutte entre la couronne danoise, les princes allemands, les villes et les intérêts commerciaux. Bornhoeved modifia l'équilibre des forces et donna plus de marge de développement aux villes du nord de l'Allemagne.",
+          "es": "En el siglo XIII, el Báltico era un espacio de lucha entre la corona danesa, los príncipes alemanes, las ciudades y los intereses comerciales. Bornhoeved cambió el equilibrio de poder y dio más margen de desarrollo a las ciudades del norte de Alemania.",
+          "it": "Nel XIII secolo, il Baltico era uno spazio di lotta tra la corona danese, i principi tedeschi, le città e gli interessi commerciali. Bornhoeved cambiò l'equilibrio di potere e diede alle città della Germania settentrionale più spazio per svilupparsi.",
+          "pt": "No século XIII, o Báltico era um espaço de disputa entre a coroa dinamarquesa, príncipes alemães, cidades e interesses comerciais. Bornhoeved mudou o equilíbrio de poder e deu às cidades do norte da Alemanha mais espaço para se desenvolver.",
+          "nl": "In de dertiende eeuw was de Oostzee een strijdtoneel tussen de Deense kroon, Duitse vorsten, steden en handelsbelangen. Bornhoeved veranderde de machtsbalans en gaf Noord-Duitse steden meer ruimte om zich te ontwikkelen.",
+          "pl": "W XIII wieku Bałtyk był przestrzenią rywalizacji duńskiej korony, niemieckich książąt, miast i interesów handlowych. Bornhoeved zmienił układ sił i dał północnoniemieckim miastom większą swobodę rozwoju.",
+          "tr": "13. yüzyılda Baltık, Danimarka tacı, Alman prensleri, şehirler ve ticaret çıkarları arasında bir mücadele alanıydı. Bornhoeved güç dengesini değiştirdi ve kuzey Alman şehirlerine gelişmek için daha fazla alan verdi.",
+          "zh": "13世纪的波罗的海是丹麦王权、德意志诸侯、城市和贸易利益之间的斗争空间。博恩赫韦德改变了力量平衡，使北德城市获得更大发展空间。",
+          "ja": "13世紀、バルト海はデンマーク王権、ドイツ諸侯、都市、交易利害が争う場だった。ボルンヘーフェトは勢力均衡を変え、北ドイツの都市に発展の余地を与えた。",
+          "ko": "13세기에 발트해는 덴마크 왕권, 독일 제후들, 도시들, 무역 이해관계가 다투는 공간이었다. 보른회베트는 세력 균형을 바꾸고 북독일 도시들이 발전할 여지를 더 주었다.",
+          "hi": "तेरहवीं सदी में बाल्टिक क्षेत्र डेनमार्क के राजमुकुट, जर्मन राजकुमारों, नगरों और व्यापारिक हितों के बीच संघर्ष का क्षेत्र था। बोर्नहोएवेद ने शक्ति संतुलन बदला और उत्तरी जर्मन नगरों को विकास की अधिक गुंजाइश दी।",
+          "ar": "في القرن الثالث عشر كان البلطيق مجال صراع بين التاج الدنماركي والأمراء الألمان والمدن والمصالح التجارية. غيّرت بورنهوفيد ميزان القوى ومنحت مدن شمال ألمانيا مساحة أكبر للتطور."
         },
         "importance": {
           "ru": "Так видно, что история Германии складывалась не только на Рейне или в Берлине, но и у Балтийского моря.",
           "de": "So wird sichtbar, dass deutsche Geschichte nicht nur am Rhein oder in Berlin entstand, sondern auch an der Ostsee.",
-          "en": "It shows that German history developed not only on the Rhine or in Berlin, but also on the Baltic Sea."
+          "en": "It shows that German history developed not only on the Rhine or in Berlin, but also on the Baltic Sea.",
+          "fr": "Cela montre que l'histoire allemande ne s'est pas développée seulement sur le Rhin ou à Berlin, mais aussi sur la mer Baltique.",
+          "es": "Muestra que la historia alemana se desarrolló no solo en el Rin o en Berlín, sino también en el mar Báltico.",
+          "it": "Mostra che la storia tedesca si sviluppò non solo sul Reno o a Berlino, ma anche sul Mar Baltico.",
+          "pt": "Mostra que a história alemã se desenvolveu não apenas no Reno ou em Berlim, mas também no Mar Báltico.",
+          "nl": "Het laat zien dat Duitse geschiedenis niet alleen aan de Rijn of in Berlijn ontstond, maar ook aan de Oostzee.",
+          "pl": "Pokazuje to, że historia Niemiec rozwijała się nie tylko nad Renem czy w Berlinie, lecz także nad Morzem Bałtyckim.",
+          "tr": "Bu, Alman tarihinin yalnızca Ren kıyısında ya da Berlin'de değil, Baltık Denizi'nde de geliştiğini gösterir.",
+          "zh": "它说明德国历史不仅在莱茵河或柏林发展，也在波罗的海发展。",
+          "ja": "ドイツ史がライン川やベルリンだけでなく、バルト海でも展開したことを示している。",
+          "ko": "독일 역사가 라인강이나 베를린에서만이 아니라 발트해에서도 전개되었음을 보여 준다.",
+          "hi": "यह दिखाता है कि जर्मन इतिहास केवल राइन या बर्लिन में ही नहीं, बल्कि बाल्टिक सागर पर भी विकसित हुआ।",
+          "ar": "يوضح ذلك أن التاريخ الألماني لم يتطور على الراين أو في برلين فقط، بل على بحر البلطيق أيضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Города как военная сила",
           "de": "Staedte als militaerische Kraft",
-          "en": "Cities as military power"
+          "en": "Cities as military power",
+          "fr": "Les villes comme puissance militaire",
+          "es": "Las ciudades como fuerza militar",
+          "it": "Le città come forza militare",
+          "pt": "Cidades como força militar",
+          "nl": "Steden als militaire macht",
+          "pl": "Miasta jako siła wojskowa",
+          "tr": "Askeri güç olarak şehirler",
+          "zh": "城市作为军事力量",
+          "ja": "軍事力としての都市",
+          "ko": "군사력으로서의 도시",
+          "hi": "सैन्य शक्ति के रूप में नगर",
+          "ar": "المدن قوة عسكرية"
         },
         "description": {
           "ru": "В битве участвовали не только князья, но и города, включая Любек и Гамбург. Это напоминает, что средневековые города могли быть самостоятельными политическими игроками.",
           "de": "An der Schlacht beteiligten sich nicht nur Fuersten, sondern auch Staedte, darunter Luebeck und Hamburg. Das erinnert daran, dass mittelalterliche Staedte eigenstaendige politische Akteure sein konnten.",
-          "en": "The battle involved not only princes, but also towns, including Luebeck and Hamburg. It is a reminder that medieval towns could be independent political actors."
+          "en": "The battle involved not only princes, but also towns, including Luebeck and Hamburg. It is a reminder that medieval towns could be independent political actors.",
+          "fr": "La bataille impliqua non seulement des princes, mais aussi des villes, dont Luebeck et Hambourg. Cela rappelle que les villes médiévales pouvaient être des acteurs politiques indépendants.",
+          "es": "En la batalla participaron no solo príncipes, sino también ciudades, incluidas Luebeck y Hamburgo. Recuerda que las ciudades medievales podían ser actores políticos independientes.",
+          "it": "Alla battaglia parteciparono non solo principi, ma anche città, tra cui Luebeck e Amburgo. Ricorda che le città medievali potevano essere attori politici indipendenti.",
+          "pt": "A batalha envolveu não apenas príncipes, mas também cidades, incluindo Luebeck e Hamburgo. Isso lembra que cidades medievais podiam ser atores políticos independentes.",
+          "nl": "Bij de slag waren niet alleen vorsten betrokken, maar ook steden, waaronder Luebeck en Hamburg. Het herinnert eraan dat middeleeuwse steden zelfstandige politieke spelers konden zijn.",
+          "pl": "W bitwie uczestniczyli nie tylko książęta, lecz także miasta, w tym Luebeck i Hamburg. Przypomina to, że średniowieczne miasta mogły być samodzielnymi aktorami politycznymi.",
+          "tr": "Savaşa yalnızca prensler değil, Luebeck ve Hamburg dahil şehirler de katıldı. Bu, ortaçağ şehirlerinin bağımsız siyasi aktörler olabileceğini hatırlatır.",
+          "zh": "参战的不仅有诸侯，还有吕贝克和汉堡等城市。这提醒我们，中世纪城市也可能是独立的政治参与者。",
+          "ja": "この戦いには諸侯だけでなく、リューベックやハンブルクを含む都市も参加した。中世都市が独立した政治的主体になりえたことを思い出させる。",
+          "ko": "이 전투에는 제후들뿐 아니라 뤼베크와 함부르크를 포함한 도시들도 참여했다. 이는 중세 도시들이 독립적인 정치 행위자가 될 수 있었음을 상기시킨다.",
+          "hi": "इस लड़ाई में केवल राजकुमार ही नहीं, बल्कि ल्यूबेक और हैम्बर्ग जैसे नगर भी शामिल थे। यह याद दिलाता है कि मध्ययुगीन नगर स्वतंत्र राजनीतिक खिलाड़ी हो सकते थे।",
+          "ar": "لم يشارك في المعركة الأمراء فقط، بل شاركت مدن أيضا، منها لوبيك وهامبورغ. وهذا يذكر بأن مدن العصور الوسطى كان يمكن أن تكون فاعلين سياسيين مستقلين."
         },
         "importance": {
           "ru": "Для будущей истории Ганзы это очень важный фон.",
           "de": "Fuer die spaetere Geschichte der Hanse ist das ein sehr wichtiger Hintergrund.",
-          "en": "This is important background for the later history of the Hanseatic League."
+          "en": "This is important background for the later history of the Hanseatic League.",
+          "fr": "C'est un contexte très important pour l'histoire ultérieure de la Hanse.",
+          "es": "Es un antecedente importante para la historia posterior de la Liga Hanseática.",
+          "it": "È uno sfondo importante per la storia successiva della Lega Anseatica.",
+          "pt": "É um contexto importante para a história posterior da Liga Hanseática.",
+          "nl": "Dit is een belangrijke achtergrond voor de latere geschiedenis van de Hanze.",
+          "pl": "To ważne tło dla późniejszej historii Hanzy.",
+          "tr": "Bu, Hansa Birliği'nin sonraki tarihi için önemli bir arka plandır.",
+          "zh": "这是后来汉萨同盟历史的重要背景。",
+          "ja": "これは後のハンザ同盟の歴史にとって重要な背景である。",
+          "ko": "이는 이후 한자 동맹 역사에서 중요한 배경이다.",
+          "hi": "यह आगे चलकर हैंसियाटिक लीग के इतिहास के लिए महत्वपूर्ण पृष्ठभूमि है।",
+          "ar": "هذا خلفية مهمة للتاريخ اللاحق للرابطة الهانزية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Борнхёвед находится в современной земле Шлезвиг-Гольштейн.",
     "de": "Bornhoeved liegt im heutigen Schleswig-Holstein.",
-    "en": "Bornhoeved is in today's Schleswig-Holstein."
+    "en": "Bornhoeved is in today's Schleswig-Holstein.",
+    "fr": "Bornhoeved se trouve dans l'actuel Schleswig-Holstein.",
+    "es": "Bornhoeved se encuentra en el actual Schleswig-Holstein.",
+    "it": "Bornhoeved si trova nell'attuale Schleswig-Holstein.",
+    "pt": "Bornhoeved fica no atual Schleswig-Holstein.",
+    "nl": "Bornhoeved ligt in het huidige Sleeswijk-Holstein.",
+    "pl": "Bornhoeved leży w dzisiejszym Szlezwiku-Holsztynie.",
+    "tr": "Bornhoeved bugünkü Schleswig-Holstein'dadır.",
+    "zh": "博恩赫韦德位于今天的石勒苏益格-荷尔斯泰因州。",
+    "ja": "ボルンヘーフェトは現在のシュレスヴィヒ＝ホルシュタイン州にある。",
+    "ko": "보른회베트는 오늘날 슐레스비히홀슈타인에 있다.",
+    "hi": "बोर्नहोएवेद आज के श्लेसविग-होल्स्टाइन में है।",
+    "ar": "تقع بورنهوفيد في شليسفيغ-هولشتاين الحالية."
   },
   "sources": [
     {

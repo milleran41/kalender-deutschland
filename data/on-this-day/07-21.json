@@ -11,17 +11,53 @@
     "title": {
       "ru": "Немцы смотрели первые шаги человека на Луне",
       "de": "Deutschland sieht die ersten Schritte auf dem Mond",
-      "en": "Germany watches the first steps on the Moon"
+      "en": "Germany watches the first steps on the Moon",
+      "fr": "L'Allemagne regarde les premiers pas sur la Lune",
+      "es": "Alemania ve los primeros pasos en la Luna",
+      "it": "La Germania guarda i primi passi sulla Luna",
+      "pt": "A Alemanha assiste aos primeiros passos na Lua",
+      "nl": "Duitsland kijkt naar de eerste stappen op de maan",
+      "pl": "Niemcy oglądają pierwsze kroki na Księżycu",
+      "tr": "Almanya Ay'daki ilk adımları izler",
+      "zh": "德国观看人类在月球上的第一步",
+      "ja": "ドイツが月面での最初の一歩を見る",
+      "ko": "독일이 달 위의 첫걸음을 지켜보다",
+      "hi": "जर्मनी ने चांद पर पहले कदम देखे",
+      "ar": "ألمانيا تشاهد الخطوات الأولى على القمر"
     },
     "description": {
       "ru": "21 июля 1969 года по европейскому времени Нил Армстронг ступил на Луну, и миллионы зрителей в Германии смотрели трансляцию ночью. Событие стало общим медийным переживанием научной эпохи.",
       "de": "Am 21. Juli 1969 europaeischer Zeit betrat Neil Armstrong den Mond, und Millionen Zuschauer in Deutschland sahen die Uebertragung in der Nacht. Das Ereignis wurde zu einem gemeinsamen Medienerlebnis des Wissenschaftszeitalters.",
-      "en": "On 21 July 1969 in European time, Neil Armstrong stepped onto the Moon, and millions of viewers in Germany watched the broadcast at night. The event became a shared media experience of the scientific age."
+      "en": "On 21 July 1969 in European time, Neil Armstrong stepped onto the Moon, and millions of viewers in Germany watched the broadcast at night. The event became a shared media experience of the scientific age.",
+      "fr": "Le 21 juillet 1969, selon l'heure européenne, Neil Armstrong posa le pied sur la Lune, et des millions de téléspectateurs en Allemagne regardèrent la retransmission pendant la nuit. L'événement devint une expérience médiatique partagée de l'âge scientifique.",
+      "es": "El 21 de julio de 1969, según la hora europea, Neil Armstrong pisó la Luna, y millones de espectadores en Alemania vieron la transmisión de noche. El acontecimiento se convirtió en una experiencia mediática compartida de la era científica.",
+      "it": "Il 21 luglio 1969, secondo l'ora europea, Neil Armstrong mise piede sulla Luna e milioni di spettatori in Germania seguirono la trasmissione di notte. L'evento divenne un'esperienza mediatica condivisa dell'era scientifica.",
+      "pt": "Em 21 de julho de 1969, no horário europeu, Neil Armstrong pisou na Lua, e milhões de espectadores na Alemanha assistiram à transmissão durante a noite. O acontecimento tornou-se uma experiência midiática compartilhada da era científica.",
+      "nl": "Op 21 juli 1969, Europese tijd, zette Neil Armstrong voet op de maan en keken miljoenen kijkers in Duitsland 's nachts naar de uitzending. De gebeurtenis werd een gedeelde media-ervaring van het wetenschappelijke tijdperk.",
+      "pl": "21 lipca 1969 roku według czasu europejskiego Neil Armstrong stanął na Księżycu, a miliony widzów w Niemczech oglądały nocną transmisję. Wydarzenie stało się wspólnym doświadczeniem medialnym epoki nauki.",
+      "tr": "Avrupa saatine göre 21 Temmuz 1969'da Neil Armstrong Ay'a ayak bastı ve Almanya'da milyonlarca izleyici yayını gece izledi. Olay, bilim çağının ortak bir medya deneyimi haline geldi.",
+      "zh": "按欧洲时间，1969年7月21日尼尔·阿姆斯特朗踏上月球，德国数百万观众在夜间观看了直播。这个事件成为科学时代共同的媒体体验。",
+      "ja": "ヨーロッパ時間の1969年7月21日、ニール・アームストロングが月面に足を踏み入れ、ドイツの何百万人もの視聴者が夜に中継を見た。この出来事は科学時代の共有されたメディア体験となった。",
+      "ko": "유럽 시간으로 1969년 7월 21일, 닐 암스트롱이 달에 발을 디뎠고 독일의 수백만 시청자가 밤에 방송을 지켜보았다. 이 사건은 과학 시대의 공동 미디어 경험이 되었다.",
+      "hi": "यूरोपीय समय के अनुसार 21 जुलाई 1969 को नील आर्मस्ट्रांग ने चांद पर कदम रखा, और जर्मनी में लाखों दर्शकों ने रात में प्रसारण देखा। यह घटना वैज्ञानिक युग का साझा मीडिया अनुभव बन गई।",
+      "ar": "في 21 يوليو 1969 حسب التوقيت الأوروبي، خطا نيل أرمسترونغ على سطح القمر، وشاهد ملايين المشاهدين في ألمانيا البث ليلا. وأصبح الحدث تجربة إعلامية مشتركة لعصر العلم."
     },
     "importance": {
       "ru": "Хотя полёт был американским, он показал, как телевидение и наука создают мировые события, переживаемые одновременно в разных странах.",
       "de": "Obwohl der Flug amerikanisch war, zeigte er, wie Fernsehen und Wissenschaft Weltereignisse schaffen, die in vielen Laendern gleichzeitig erlebt werden.",
-      "en": "Although the flight was American, it showed how television and science create world events experienced simultaneously in many countries."
+      "en": "Although the flight was American, it showed how television and science create world events experienced simultaneously in many countries.",
+      "fr": "Même si le vol était américain, il montra comment la télévision et la science créent des événements mondiaux vécus simultanément dans de nombreux pays.",
+      "es": "Aunque el vuelo era estadounidense, mostró cómo la televisión y la ciencia crean acontecimientos mundiales vividos simultáneamente en muchos países.",
+      "it": "Sebbene il volo fosse americano, mostrò come televisione e scienza creino eventi mondiali vissuti contemporaneamente in molti paesi.",
+      "pt": "Embora o voo fosse americano, ele mostrou como televisão e ciência criam eventos mundiais vividos simultaneamente em muitos países.",
+      "nl": "Hoewel de vlucht Amerikaans was, liet hij zien hoe televisie en wetenschap wereldgebeurtenissen creëren die in veel landen tegelijk worden beleefd.",
+      "pl": "Choć lot był amerykański, pokazał, jak telewizja i nauka tworzą wydarzenia światowe przeżywane jednocześnie w wielu krajach.",
+      "tr": "Uçuş Amerikan olsa da televizyonun ve bilimin birçok ülkede aynı anda yaşanan dünya olayları nasıl yarattığını gösterdi.",
+      "zh": "尽管这次飞行是美国的，但它展示了电视和科学如何创造被许多国家同时经历的世界事件。",
+      "ja": "飛行はアメリカのものだったが、テレビと科学が多くの国で同時に体験される世界的出来事を生み出すことを示した。",
+      "ko": "비록 미국의 비행이었지만, 텔레비전과 과학이 여러 나라에서 동시에 경험되는 세계적 사건을 어떻게 만들어 내는지 보여 주었다.",
+      "hi": "हालांकि उड़ान अमेरिकी थी, लेकिन उसने दिखाया कि टेलीविजन और विज्ञान कैसे अनेक देशों में एक साथ अनुभव किए जाने वाले विश्व-घटनाक्रम बनाते हैं।",
+      "ar": "مع أن الرحلة كانت أمريكية، فقد أظهرت كيف يخلق التلفزيون والعلم أحداثا عالمية تُعاش في وقت واحد في بلدان كثيرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Ночь науки и телевидения",
           "de": "Eine Nacht von Wissenschaft und Fernsehen",
-          "en": "A night of science and television"
+          "en": "A night of science and television",
+          "fr": "Une nuit de science et de télévision",
+          "es": "Una noche de ciencia y televisión",
+          "it": "Una notte di scienza e televisione",
+          "pt": "Uma noite de ciência e televisão",
+          "nl": "Een nacht van wetenschap en televisie",
+          "pl": "Noc nauki i telewizji",
+          "tr": "Bilim ve televizyon gecesi",
+          "zh": "科学与电视之夜",
+          "ja": "科学とテレビの夜",
+          "ko": "과학과 텔레비전의 밤",
+          "hi": "विज्ञान और टेलीविजन की रात",
+          "ar": "ليلة العلم والتلفزيون"
         },
         "description": {
           "ru": "В Германии зрители следили за посадкой и первыми шагами через специальные телепередачи. Для многих это было первое космическое событие, увиденное почти в прямом эфире.",
           "de": "In Deutschland verfolgten Zuschauer Landung und erste Schritte ueber Sondersendungen. Fuer viele war es das erste Weltraumereignis, das sie fast live erlebten.",
-          "en": "In Germany, viewers followed the landing and first steps through special broadcasts. For many, it was the first space event they experienced almost live."
+          "en": "In Germany, viewers followed the landing and first steps through special broadcasts. For many, it was the first space event they experienced almost live.",
+          "fr": "En Allemagne, les téléspectateurs suivirent l'alunissage et les premiers pas grâce à des émissions spéciales. Pour beaucoup, ce fut le premier événement spatial vécu presque en direct.",
+          "es": "En Alemania, los espectadores siguieron el alunizaje y los primeros pasos mediante programas especiales. Para muchos fue el primer acontecimiento espacial vivido casi en directo.",
+          "it": "In Germania, gli spettatori seguirono l'allunaggio e i primi passi attraverso trasmissioni speciali. Per molti fu il primo evento spaziale vissuto quasi in diretta.",
+          "pt": "Na Alemanha, os espectadores acompanharam o pouso e os primeiros passos por transmissões especiais. Para muitos, foi o primeiro evento espacial vivido quase ao vivo.",
+          "nl": "In Duitsland volgden kijkers de landing en de eerste stappen via speciale uitzendingen. Voor velen was het de eerste ruimtevaartgebeurtenis die zij bijna live meemaakten.",
+          "pl": "W Niemczech widzowie śledzili lądowanie i pierwsze kroki dzięki specjalnym transmisjom. Dla wielu było to pierwsze wydarzenie kosmiczne przeżywane niemal na żywo.",
+          "tr": "Almanya'da izleyiciler inişi ve ilk adımları özel yayınlarla takip etti. Birçok kişi için bu, neredeyse canlı yaşadıkları ilk uzay olayıydı.",
+          "zh": "在德国，观众通过特别节目关注登月和最初的脚步。对许多人来说，这是他们几乎实时经历的第一次太空事件。",
+          "ja": "ドイツでは、視聴者が特別番組を通じて着陸と最初の一歩を追った。多くの人にとって、それはほぼ生中継で体験した最初の宇宙出来事だった。",
+          "ko": "독일에서 시청자들은 특별 방송을 통해 착륙과 첫걸음을 지켜보았다. 많은 사람에게 이는 거의 생중계로 경험한 첫 우주 사건이었다.",
+          "hi": "जर्मनी में दर्शकों ने विशेष प्रसारणों के माध्यम से उतरने और पहले कदमों को देखा। कई लोगों के लिए यह लगभग सीधे प्रसारण में अनुभव की गई पहली अंतरिक्ष घटना थी।",
+          "ar": "في ألمانيا تابع المشاهدون الهبوط والخطوات الأولى عبر برامج خاصة. وبالنسبة إلى كثيرين كان ذلك أول حدث فضائي عاشوه شبه مباشر."
         },
         "importance": {
           "ru": "Это хорошая дата для связи истории техники, медиа и повседневной памяти.",
           "de": "Das ist ein gutes Datum, um Technikgeschichte, Medien und Alltagsgedaechtnis zu verbinden.",
-          "en": "It is a good date for connecting technology, media and everyday memory."
+          "en": "It is a good date for connecting technology, media and everyday memory.",
+          "fr": "C'est une bonne date pour relier l'histoire de la technique, les médias et la mémoire quotidienne.",
+          "es": "Es una buena fecha para conectar la historia de la tecnología, los medios y la memoria cotidiana.",
+          "it": "È una buona data per collegare storia della tecnica, media e memoria quotidiana.",
+          "pt": "É uma boa data para conectar história da tecnologia, mídia e memória cotidiana.",
+          "nl": "Het is een goede datum om techniekgeschiedenis, media en alledaagse herinnering te verbinden.",
+          "pl": "To dobra data do połączenia historii techniki, mediów i codziennej pamięci.",
+          "tr": "Bu, teknoloji tarihini, medyayı ve gündelik hafızayı birbirine bağlamak için iyi bir tarihtir.",
+          "zh": "这是连接技术史、媒体和日常记忆的好日期。",
+          "ja": "技術史、メディア、日常の記憶を結びつけるのに良い日付である。",
+          "ko": "기술사, 미디어, 일상의 기억을 연결하기에 좋은 날짜이다.",
+          "hi": "यह तकनीक के इतिहास, मीडिया और रोजमर्रा की स्मृति को जोड़ने के लिए अच्छी तारीख है।",
+          "ar": "إنه تاريخ مناسب لربط تاريخ التقنية ووسائل الإعلام والذاكرة اليومية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Германии это была глубокая ночь: первые шаги на Луне произошли около 3:56 по центральноевропейскому времени.",
     "de": "In Deutschland war es tiefe Nacht: Die ersten Schritte auf dem Mond geschahen gegen 3:56 Uhr mitteleuropaeischer Zeit.",
-    "en": "In Germany it was deep night: the first steps on the Moon occurred around 3:56 a.m. Central European Time."
+    "en": "In Germany it was deep night: the first steps on the Moon occurred around 3:56 a.m. Central European Time.",
+    "fr": "En Allemagne, c'était la pleine nuit: les premiers pas sur la Lune eurent lieu vers 3 h 56, heure d'Europe centrale.",
+    "es": "En Alemania era plena noche: los primeros pasos en la Luna ocurrieron alrededor de las 3:56 de la madrugada, hora de Europa Central.",
+    "it": "In Germania era notte fonda: i primi passi sulla Luna avvennero verso le 3:56 del mattino, ora dell'Europa centrale.",
+    "pt": "Na Alemanha era madrugada profunda: os primeiros passos na Lua ocorreram por volta das 3h56, horário da Europa Central.",
+    "nl": "In Duitsland was het diep in de nacht: de eerste stappen op de maan vonden plaats rond 3:56 uur Midden-Europese Tijd.",
+    "pl": "W Niemczech była głęboka noc: pierwsze kroki na Księżycu nastąpiły około 3:56 czasu środkowoeuropejskiego.",
+    "tr": "Almanya'da gece yarısını çoktan geçmişti: Ay'daki ilk adımlar Orta Avrupa Saati ile yaklaşık 03.56'da gerçekleşti.",
+    "zh": "在德国那是深夜：月球上的第一步发生在中欧时间凌晨约3点56分。",
+    "ja": "ドイツでは深夜だった。月面での最初の一歩は中央ヨーロッパ時間の午前3時56分ごろに行われた。",
+    "ko": "독일에서는 깊은 밤이었다. 달 위의 첫걸음은 중앙유럽시간으로 새벽 3시 56분쯤 이루어졌다.",
+    "hi": "जर्मनी में उस समय गहरी रात थी: चांद पर पहले कदम मध्य यूरोपीय समय के अनुसार लगभग सुबह 3:56 बजे पड़े।",
+    "ar": "في ألمانيا كان الوقت ليلا عميقا: حدثت الخطوات الأولى على القمر حوالي الساعة 3:56 صباحا بتوقيت وسط أوروبا."
   },
   "sources": [
     {
