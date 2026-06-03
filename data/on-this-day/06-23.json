@@ -11,17 +11,53 @@
     "title": {
       "ru": "В советской зоне началась своя валютная реформа",
       "de": "In der Sowjetischen Besatzungszone beginnt eine eigene Waehrungsreform",
-      "en": "The Soviet occupation zone begins its own currency reform"
+      "en": "The Soviet occupation zone begins its own currency reform",
+      "fr": "La zone d'occupation sovietique lance sa propre reforme monetaire",
+      "es": "La zona de ocupacion sovietica inicia su propia reforma monetaria",
+      "it": "La zona di occupazione sovietica avvia la propria riforma monetaria",
+      "pt": "A zona de ocupacao sovietica inicia sua propria reforma monetaria",
+      "nl": "De Sovjet-bezettingszone begint haar eigen munthervorming",
+      "pl": "Radziecka strefa okupacyjna rozpoczyna wlasna reforme walutowa",
+      "tr": "Sovyet isgal bolgesi kendi para reformunu baslatir",
+      "zh": "苏联占领区开始自己的货币改革",
+      "ja": "ソ連占領地区が独自の通貨改革を始める",
+      "ko": "소련 점령구역이 자체 통화 개혁을 시작하다",
+      "hi": "सोवियत कब्जा क्षेत्र ने अपना मुद्रा सुधार शुरू किया",
+      "ar": "منطقة الاحتلال السوفيتية تبدأ اصلاحها النقدي الخاص"
     },
     "description": {
       "ru": "23 июня 1948 года в советской оккупационной зоне Германии началась собственная валютная реформа. Старые банкноты временно снабжали специальными купонами, пока готовились новые деньги.",
       "de": "Am 23. Juni 1948 begann in der Sowjetischen Besatzungszone Deutschlands eine eigene Waehrungsreform. Alte Banknoten wurden voruebergehend mit Spezialkupons versehen, bis neues Geld bereitstand.",
-      "en": "On 23 June 1948, the Soviet occupation zone of Germany began its own currency reform. Old banknotes were temporarily marked with special coupons while new money was being prepared."
+      "en": "On 23 June 1948, the Soviet occupation zone of Germany began its own currency reform. Old banknotes were temporarily marked with special coupons while new money was being prepared.",
+      "fr": "Le 23 juin 1948, la zone d'occupation sovietique en Allemagne commenca sa propre reforme monetaire. Les anciens billets furent temporairement marques avec des coupons speciaux pendant que la nouvelle monnaie etait preparee.",
+      "es": "El 23 de junio de 1948, la zona de ocupacion sovietica de Alemania inicio su propia reforma monetaria. Los billetes antiguos fueron marcados temporalmente con cupones especiales mientras se preparaba el nuevo dinero.",
+      "it": "Il 23 giugno 1948 nella zona di occupazione sovietica della Germania inizio una propria riforma monetaria. Le vecchie banconote furono temporaneamente contrassegnate con buoni speciali mentre si preparava il nuovo denaro.",
+      "pt": "Em 23 de junho de 1948, a zona de ocupacao sovietica da Alemanha iniciou sua propria reforma monetaria. Cedulas antigas foram temporariamente marcadas com cupons especiais enquanto o novo dinheiro era preparado.",
+      "nl": "Op 23 juni 1948 begon in de Sovjet-bezettingszone van Duitsland een eigen munthervorming. Oude bankbiljetten werden tijdelijk voorzien van speciale coupons terwijl nieuw geld werd voorbereid.",
+      "pl": "23 czerwca 1948 roku w radzieckiej strefie okupacyjnej Niemiec rozpoczela sie wlasna reforma walutowa. Stare banknoty tymczasowo oznaczano specjalnymi kuponami, podczas gdy przygotowywano nowe pieniadze.",
+      "tr": "23 Haziran 1948'de Almanya'nin Sovyet isgal bolgesinde kendi para reformu basladi. Yeni para hazirlanirken eski banknotlar gecici olarak ozel kuponlarla isaretlendi.",
+      "zh": "1948年6月23日，德国苏联占领区开始自己的货币改革。在新货币准备好之前，旧纸币临时贴上特殊票券标记。",
+      "ja": "1948年6月23日、ドイツのソ連占領地区で独自の通貨改革が始まりました。新しいお金が準備されるまで、旧紙幣には一時的に特別なクーポンが付けられました。",
+      "ko": "1948년 6월 23일 독일의 소련 점령구역에서 자체 통화 개혁이 시작되었습니다. 새 돈이 준비되는 동안 오래된 지폐에는 임시로 특별 쿠폰이 붙었습니다.",
+      "hi": "23 जून 1948 को जर्मनी के सोवियत कब्जा क्षेत्र में अपना मुद्रा सुधार शुरू हुआ। नए पैसे तैयार होने तक पुराने नोटों पर अस्थायी रूप से विशेष कूपन लगाए गए।",
+      "ar": "في 23 يونيو 1948 بدأت منطقة الاحتلال السوفيتية في المانيا اصلاحها النقدي الخاص. ووضعت على الاوراق النقدية القديمة مؤقتا قسائم خاصة ريثما تُعد النقود الجديدة."
     },
     "importance": {
       "ru": "Это был прямой ответ на западную валютную реформу и важный шаг к экономическому разделению Германии.",
       "de": "Dies war eine direkte Antwort auf die westliche Waehrungsreform und ein wichtiger Schritt zur wirtschaftlichen Teilung Deutschlands.",
-      "en": "It was a direct response to the western currency reform and an important step toward Germany's economic division."
+      "en": "It was a direct response to the western currency reform and an important step toward Germany's economic division.",
+      "fr": "Ce fut une reponse directe a la reforme monetaire occidentale et une etape importante vers la division economique de l'Allemagne.",
+      "es": "Fue una respuesta directa a la reforma monetaria occidental y un paso importante hacia la division economica de Alemania.",
+      "it": "Fu una risposta diretta alla riforma monetaria occidentale e un passo importante verso la divisione economica della Germania.",
+      "pt": "Foi uma resposta direta a reforma monetaria ocidental e um passo importante rumo a divisao economica da Alemanha.",
+      "nl": "Het was een directe reactie op de westelijke munthervorming en een belangrijke stap naar de economische deling van Duitsland.",
+      "pl": "Byla to bezposrednia odpowiedz na zachodnia reforme walutowa i wazny krok ku gospodarczemu podzialowi Niemiec.",
+      "tr": "Bu, bati para reformuna dogrudan bir yanit ve Almanya'nin ekonomik bolunmesine dogru onemli bir adimdi.",
+      "zh": "这是对西部货币改革的直接回应，也是德国经济分裂的重要一步。",
+      "ja": "これは西側の通貨改革への直接の対応であり、ドイツの経済的分断へ向かう重要な一歩でした。",
+      "ko": "이는 서부 통화 개혁에 대한 직접적인 대응이자 독일의 경제적 분단을 향한 중요한 단계였습니다.",
+      "hi": "यह पश्चिमी मुद्रा सुधार का सीधा उत्तर था और जर्मनी के आर्थिक विभाजन की दिशा में महत्वपूर्ण कदम था।",
+      "ar": "كان ذلك ردا مباشرا على الاصلاح النقدي الغربي وخطوة مهمة نحو التقسيم الاقتصادي لالمانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Деньги и разделение страны",
           "de": "Geld und Teilung des Landes",
-          "en": "Money and the division of the country"
+          "en": "Money and the division of the country",
+          "fr": "L'argent et la division du pays",
+          "es": "Dinero y division del pais",
+          "it": "Denaro e divisione del paese",
+          "pt": "Dinheiro e divisao do pais",
+          "nl": "Geld en de deling van het land",
+          "pl": "Pieniadze i podzial kraju",
+          "tr": "Para ve ulkenin bolunmesi",
+          "zh": "货币与国家分裂",
+          "ja": "お金と国の分断",
+          "ko": "돈과 나라의 분단",
+          "hi": "पैसा और देश का विभाजन",
+          "ar": "النقود وتقسيم البلاد"
         },
         "description": {
           "ru": "Разные денежные реформы в западных зонах и советской зоне усилили раскол послевоенной Германии. Вскоре валютный конфликт стал частью Берлинского кризиса и блокады Западного Берлина.",
           "de": "Unterschiedliche Waehrungsreformen in den Westzonen und in der Sowjetischen Besatzungszone vertieften die Spaltung Nachkriegsdeutschlands. Bald wurde der Waehrungskonflikt Teil der Berlin-Krise und der Blockade West-Berlins.",
-          "en": "Different currency reforms in the western zones and the Soviet occupation zone deepened postwar Germany's division. The currency conflict soon became part of the Berlin Crisis and the blockade of West Berlin."
+          "en": "Different currency reforms in the western zones and the Soviet occupation zone deepened postwar Germany's division. The currency conflict soon became part of the Berlin Crisis and the blockade of West Berlin.",
+          "fr": "Les reformes monetaires differentes dans les zones occidentales et dans la zone d'occupation sovietique approfondirent la division de l'Allemagne d'apres-guerre. Le conflit monetaire devint bientot une partie de la crise de Berlin et du blocus de Berlin-Ouest.",
+          "es": "Las distintas reformas monetarias en las zonas occidentales y en la zona de ocupacion sovietica profundizaron la division de la Alemania de posguerra. El conflicto monetario pronto paso a formar parte de la crisis de Berlin y del bloqueo de Berlin Occidental.",
+          "it": "Le diverse riforme monetarie nelle zone occidentali e nella zona di occupazione sovietica approfondirono la divisione della Germania del dopoguerra. Il conflitto valutario divenne presto parte della crisi di Berlino e del blocco di Berlino Ovest.",
+          "pt": "Diferentes reformas monetarias nas zonas ocidentais e na zona de ocupacao sovietica aprofundaram a divisao da Alemanha do pos-guerra. O conflito monetario logo se tornou parte da Crise de Berlim e do bloqueio de Berlim Ocidental.",
+          "nl": "Verschillende munthervormingen in de westelijke zones en in de Sovjet-bezettingszone verdiepten de deling van naoorlogs Duitsland. Het valutaconflict werd al snel onderdeel van de Berlijnse crisis en de blokkade van West-Berlijn.",
+          "pl": "Rozne reformy walutowe w strefach zachodnich i w radzieckiej strefie okupacyjnej poglebily podzial powojennych Niemiec. Konflikt walutowy wkrotce stal sie czescia kryzysu berlinskiego i blokady Berlina Zachodniego.",
+          "tr": "Bati bolgelerinde ve Sovyet isgal bolgesinde yapilan farkli para reformlari savas sonrasi Almanya'nin bolunmesini derinlestirdi. Para catismasi kisa surede Berlin Krizi'nin ve Bati Berlin ablukasinin parcasi oldu.",
+          "zh": "西部占领区和苏联占领区不同的货币改革加深了战后德国的分裂。货币冲突很快成为柏林危机和西柏林封锁的一部分。",
+          "ja": "西側占領地区とソ連占領地区で異なる通貨改革が行われ、戦後ドイツの分断は深まりました。通貨をめぐる対立はまもなくベルリン危機と西ベルリン封鎖の一部となりました。",
+          "ko": "서부 점령구역과 소련 점령구역의 서로 다른 통화 개혁은 전후 독일의 분단을 심화시켰습니다. 통화 갈등은 곧 베를린 위기와 서베를린 봉쇄의 일부가 되었습니다.",
+          "hi": "पश्चिमी क्षेत्रों और सोवियत कब्जा क्षेत्र में अलग-अलग मुद्रा सुधारों ने युद्धोत्तर जर्मनी के विभाजन को गहरा किया। मुद्रा संघर्ष जल्द ही बर्लिन संकट और पश्चिम बर्लिन की नाकाबंदी का हिस्सा बन गया।",
+          "ar": "عمقت الاصلاحات النقدية المختلفة في المناطق الغربية ومنطقة الاحتلال السوفيتية انقسام المانيا بعد الحرب. وسرعان ما اصبح الصراع النقدي جزءا من ازمة برلين وحصار برلين الغربية."
         },
         "importance": {
           "ru": "Дата показывает, как вопрос денег может быстро стать вопросом границ, власти и будущего государства.",
           "de": "Das Datum zeigt, wie eine Geldfrage schnell zu einer Frage von Grenzen, Macht und staatlicher Zukunft werden kann.",
-          "en": "The date shows how a question of money can quickly become a question of borders, power and the future of the state."
+          "en": "The date shows how a question of money can quickly become a question of borders, power and the future of the state.",
+          "fr": "Cette date montre comment une question d'argent peut rapidement devenir une question de frontieres, de pouvoir et d'avenir de l'Etat.",
+          "es": "La fecha muestra como una cuestion de dinero puede convertirse rapidamente en una cuestion de fronteras, poder y futuro del Estado.",
+          "it": "La data mostra come una questione di denaro possa diventare rapidamente una questione di confini, potere e futuro dello Stato.",
+          "pt": "A data mostra como uma questao de dinheiro pode rapidamente se tornar uma questao de fronteiras, poder e futuro do Estado.",
+          "nl": "De datum laat zien hoe een geldkwestie snel een kwestie van grenzen, macht en de toekomst van de staat kan worden.",
+          "pl": "Ta data pokazuje, jak kwestia pieniedzy moze szybko stac sie kwestia granic, wladzy i przyszlosci panstwa.",
+          "tr": "Bu tarih, para meselesinin nasil hizla sinirlar, iktidar ve devletin gelecegi meselesine donusebilecegini gosterir.",
+          "zh": "这个日期显示了金钱问题如何迅速变成边界、权力和国家未来的问题。",
+          "ja": "この日は、お金の問題がいかに早く国境、権力、国家の未来の問題へ変わり得るかを示しています。",
+          "ko": "이 날짜는 돈 문제가 얼마나 빨리 국경, 권력, 국가의 미래 문제로 바뀔 수 있는지를 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि पैसे का सवाल कितनी जल्दी सीमाओं, सत्ता और राज्य के भविष्य का सवाल बन सकता है।",
+          "ar": "يوضح هذا التاريخ كيف يمكن لمسألة نقدية ان تتحول بسرعة الى مسألة حدود وسلطة ومستقبل الدولة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Деньги с наклейками",
           "de": "Geld mit Aufklebern",
-          "en": "Money with stickers"
+          "en": "Money with stickers",
+          "fr": "De l'argent avec des autocollants",
+          "es": "Dinero con pegatinas",
+          "it": "Denaro con adesivi",
+          "pt": "Dinheiro com adesivos",
+          "nl": "Geld met stickers",
+          "pl": "Pieniadze z naklejkami",
+          "tr": "Etiketli para",
+          "zh": "贴着标签的钱",
+          "ja": "シール付きのお金",
+          "ko": "스티커가 붙은 돈",
+          "hi": "स्टिकर वाले पैसे",
+          "ar": "نقود بملصقات"
         },
         "description": {
           "ru": "Поскольку новые банкноты не были готовы, часть старых денег просто пометили специальными купонами. Для обычных людей это выглядело странно: вчерашняя купюра оставалась той же, но только с новым знаком власти.",
           "de": "Weil neue Banknoten noch nicht bereitstanden, wurden Teile des alten Geldes einfach mit Spezialkupons markiert. Fuer viele Menschen wirkte das merkwuerdig: Der gestrige Geldschein blieb derselbe, trug aber ein neues Zeichen der Macht.",
-          "en": "Because new banknotes were not yet ready, some old money was simply marked with special coupons. To many people it looked strange: yesterday's note remained the same, but carried a new sign of authority."
+          "en": "Because new banknotes were not yet ready, some old money was simply marked with special coupons. To many people it looked strange: yesterday's note remained the same, but carried a new sign of authority.",
+          "fr": "Comme les nouveaux billets n'etaient pas encore prets, une partie de l'ancien argent fut simplement marquee avec des coupons speciaux. Pour beaucoup, cela paraissait etrange: le billet d'hier restait le meme, mais portait un nouveau signe d'autorite.",
+          "es": "Como los nuevos billetes aun no estaban listos, parte del dinero antiguo se marco simplemente con cupones especiales. Para mucha gente parecia extrano: el billete de ayer seguia siendo el mismo, pero llevaba un nuevo signo de autoridad.",
+          "it": "Poiche le nuove banconote non erano ancora pronte, parte del vecchio denaro fu semplicemente contrassegnata con buoni speciali. A molti sembrava strano: la banconota di ieri restava la stessa, ma portava un nuovo segno di autorita.",
+          "pt": "Como as novas cedulas ainda nao estavam prontas, parte do dinheiro antigo foi simplesmente marcada com cupons especiais. Para muita gente isso parecia estranho: a nota de ontem continuava a mesma, mas trazia um novo sinal de autoridade.",
+          "nl": "Omdat nieuwe bankbiljetten nog niet klaar waren, werd een deel van het oude geld simpelweg met speciale coupons gemarkeerd. Voor veel mensen leek dat vreemd: het biljet van gisteren bleef hetzelfde, maar droeg een nieuw teken van gezag.",
+          "pl": "Poniewaz nowe banknoty nie byly jeszcze gotowe, czesc starych pieniedzy po prostu oznaczono specjalnymi kuponami. Dla wielu ludzi wygladalo to dziwnie: wczorajszy banknot pozostal ten sam, ale nosil nowy znak wladzy.",
+          "tr": "Yeni banknotlar henuz hazir olmadigi icin eski paranin bir kismi sadece ozel kuponlarla isaretlendi. Birçok insan icin bu garip gorunuyordu: dünkü banknot ayni kalmisti, ama yeni bir otorite isareti tasiyordu.",
+          "zh": "由于新纸币尚未准备好，一部分旧钱只是贴上特殊票券。对许多人来说这很奇怪：昨天的纸币还是同一张，却带上了新的权力标志。",
+          "ja": "新しい紙幣がまだ用意できていなかったため、古いお金の一部には単に特別なクーポンが付けられました。多くの人には奇妙に見えました。昨日の紙幣は同じままなのに、新しい権力の印を帯びていたからです。",
+          "ko": "새 지폐가 아직 준비되지 않았기 때문에 일부 오래된 돈에는 단순히 특별 쿠폰이 표시되었습니다. 많은 사람들에게는 이상하게 보였습니다. 어제의 지폐는 그대로였지만 새로운 권위의 표시를 달고 있었기 때문입니다.",
+          "hi": "क्योंकि नए नोट अभी तैयार नहीं थे, पुराने पैसों के कुछ हिस्सों पर बस विशेष कूपन लगा दिए गए। आम लोगों को यह अजीब लगा: कल का नोट वही था, लेकिन उस पर सत्ता का नया निशान था।",
+          "ar": "لان الاوراق النقدية الجديدة لم تكن جاهزة بعد، وُسم جزء من النقود القديمة ببساطة بقسائم خاصة. بدا الامر غريبا لكثير من الناس: ورقة الامس بقيت كما هي، لكنها حملت علامة سلطة جديدة."
         },
         "importance": {
           "ru": "Это наглядная бытовая деталь большой политики разделения.",
           "de": "Das ist ein anschauliches Alltagsdetail der grossen Politik der Teilung.",
-          "en": "It is a vivid everyday detail of the larger politics of division."
+          "en": "It is a vivid everyday detail of the larger politics of division.",
+          "fr": "C'est un detail quotidien tres parlant de la grande politique de division.",
+          "es": "Es un detalle cotidiano muy visible de la gran politica de division.",
+          "it": "E un dettaglio quotidiano molto concreto della grande politica della divisione.",
+          "pt": "E um detalhe cotidiano muito claro da grande politica de divisao.",
+          "nl": "Het is een sprekend alledaags detail van de grote politiek van deling.",
+          "pl": "To wyrazisty codzienny szczegol wielkiej polityki podzialu.",
+          "tr": "Bu, buyuk bolunme politikasinin canli bir gundelik ayrintisidir.",
+          "zh": "这是宏大分裂政治在日常生活中的一个生动细节。",
+          "ja": "これは、大きな分断政治を日常生活の中で示す鮮やかな細部です。",
+          "ko": "이는 더 큰 분단 정치의 생생한 일상적 세부 사항입니다.",
+          "hi": "यह विभाजन की बड़ी राजनीति का स्पष्ट रोजमर्रा का विवरण है।",
+          "ar": "انه تفصيل يومي واضح للسياسة الكبرى الخاصة بالتقسيم."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Валютные реформы июня 1948 года стали одной из причин усиления Берлинского кризиса.",
     "de": "Die Waehrungsreformen vom Juni 1948 gehoerten zu den Gruenden fuer die Zuspitzung der Berlin-Krise.",
-    "en": "The currency reforms of June 1948 were among the reasons the Berlin Crisis escalated."
+    "en": "The currency reforms of June 1948 were among the reasons the Berlin Crisis escalated.",
+    "fr": "Les reformes monetaires de juin 1948 firent partie des raisons de l'aggravation de la crise de Berlin.",
+    "es": "Las reformas monetarias de junio de 1948 estuvieron entre las razones por las que se agravo la crisis de Berlin.",
+    "it": "Le riforme monetarie del giugno 1948 furono tra le ragioni dell'aggravarsi della crisi di Berlino.",
+    "pt": "As reformas monetarias de junho de 1948 estiveram entre as razoes para a escalada da Crise de Berlim.",
+    "nl": "De munthervormingen van juni 1948 behoorden tot de redenen waarom de Berlijnse crisis escaleerde.",
+    "pl": "Reformy walutowe z czerwca 1948 roku nalezaly do przyczyn zaostrzenia kryzysu berlinskiego.",
+    "tr": "Haziran 1948 para reformlari Berlin Krizi'nin tirmanma nedenleri arasindaydi.",
+    "zh": "1948年6月的货币改革是柏林危机升级的原因之一。",
+    "ja": "1948年6月の通貨改革は、ベルリン危機が激化した理由の一つでした。",
+    "ko": "1948년 6월의 통화 개혁은 베를린 위기가 고조된 이유 중 하나였습니다.",
+    "hi": "जून 1948 के मुद्रा सुधार बर्लिन संकट के तेज होने के कारणों में से थे।",
+    "ar": "كانت الاصلاحات النقدية في يونيو 1948 من اسباب تصاعد ازمة برلين."
   },
   "sources": [
     {

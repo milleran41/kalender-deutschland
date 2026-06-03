@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия напала на Советский Союз",
       "de": "Deutschland greift die Sowjetunion an",
-      "en": "Germany invades the Soviet Union"
+      "en": "Germany invades the Soviet Union",
+      "fr": "L'Allemagne envahit l'Union sovietique",
+      "es": "Alemania invade la Union Sovietica",
+      "it": "La Germania invade l'Unione Sovietica",
+      "pt": "A Alemanha invade a Uniao Sovietica",
+      "nl": "Duitsland valt de Sovjet-Unie binnen",
+      "pl": "Niemcy napadaja na Zwiazek Radziecki",
+      "tr": "Almanya Sovyetler Birligi'ne saldirir",
+      "zh": "德国入侵苏联",
+      "ja": "ドイツがソ連に侵攻",
+      "ko": "독일이 소련을 침공하다",
+      "hi": "जर्मनी ने सोवियत संघ पर आक्रमण किया",
+      "ar": "المانيا تغزو الاتحاد السوفيتي"
     },
     "description": {
       "ru": "22 июня 1941 года нацистская Германия начала операцию «Барбаросса» против Советского Союза. Это открыло самый кровопролитный фронт Второй мировой войны.",
       "de": "Am 22. Juni 1941 begann NS-Deutschland mit dem Unternehmen Barbarossa den Angriff auf die Sowjetunion. Damit begann die blutigste Front des Zweiten Weltkriegs.",
-      "en": "On 22 June 1941, Nazi Germany launched Operation Barbarossa against the Soviet Union. This opened the bloodiest front of the Second World War."
+      "en": "On 22 June 1941, Nazi Germany launched Operation Barbarossa against the Soviet Union. This opened the bloodiest front of the Second World War.",
+      "fr": "Le 22 juin 1941, l'Allemagne nazie lanca l'operation Barbarossa contre l'Union sovietique. Cela ouvrit le front le plus sanglant de la Seconde Guerre mondiale.",
+      "es": "El 22 de junio de 1941, la Alemania nazi lanzo la Operacion Barbarroja contra la Union Sovietica. Esto abrio el frente mas sangriento de la Segunda Guerra Mundial.",
+      "it": "Il 22 giugno 1941 la Germania nazista lancio l'Operazione Barbarossa contro l'Unione Sovietica. Si apri cosi il fronte piu sanguinoso della Seconda guerra mondiale.",
+      "pt": "Em 22 de junho de 1941, a Alemanha nazista lancou a Operacao Barbarossa contra a Uniao Sovietica. Isso abriu a frente mais sangrenta da Segunda Guerra Mundial.",
+      "nl": "Op 22 juni 1941 begon nazi-Duitsland Operatie Barbarossa tegen de Sovjet-Unie. Daarmee opende het bloedigste front van de Tweede Wereldoorlog.",
+      "pl": "22 czerwca 1941 roku nazistowskie Niemcy rozpoczely operacje Barbarossa przeciw Zwiazkowi Radzieckiemu. Otworzylo to najkrwawszy front drugiej wojny swiatowej.",
+      "tr": "22 Haziran 1941'de Nazi Almanyasi Sovyetler Birligi'ne karsi Barbarossa Harekati'ni baslatti. Bu, Ikinci Dunya Savasi'nin en kanli cephesini acti.",
+      "zh": "1941年6月22日，纳粹德国对苏联发动“巴巴罗萨行动”。这开启了第二次世界大战中最血腥的战线。",
+      "ja": "1941年6月22日、ナチス・ドイツはソ連に対してバルバロッサ作戦を開始しました。これにより第二次世界大戦で最も血なまぐさい戦線が開かれました。",
+      "ko": "1941년 6월 22일 나치 독일은 소련을 상대로 바르바로사 작전을 시작했습니다. 이는 제2차 세계대전에서 가장 피비린내 나는 전선을 열었습니다.",
+      "hi": "22 जून 1941 को नाजी जर्मनी ने सोवियत संघ के विरुद्ध ऑपरेशन बारबारोसा शुरू किया। इससे द्वितीय विश्व युद्ध का सबसे रक्तरंजित मोर्चा खुला।",
+      "ar": "في 22 يونيو 1941 اطلقت المانيا النازية عملية بارباروسا ضد الاتحاد السوفيتي. وفتح ذلك اكثر جبهات الحرب العالمية الثانية دموية."
     },
     "importance": {
       "ru": "Война на Востоке стала войной уничтожения с огромными жертвами среди военных и гражданских.",
       "de": "Der Krieg im Osten wurde ein Vernichtungskrieg mit enormen Opfern unter Soldaten und Zivilisten.",
-      "en": "The war in the East became a war of annihilation with enormous military and civilian losses."
+      "en": "The war in the East became a war of annihilation with enormous military and civilian losses.",
+      "fr": "La guerre a l'Est devint une guerre d'aneantissement avec d'immenses pertes militaires et civiles.",
+      "es": "La guerra en el Este se convirtio en una guerra de aniquilacion con enormes perdidas militares y civiles.",
+      "it": "La guerra a Est divenne una guerra di annientamento con enormi perdite militari e civili.",
+      "pt": "A guerra no Leste tornou-se uma guerra de aniquilacao com enormes perdas militares e civis.",
+      "nl": "De oorlog in het Oosten werd een vernietigingsoorlog met enorme militaire en burgerlijke verliezen.",
+      "pl": "Wojna na Wschodzie stala sie wojna na wyniszczenie z ogromnymi stratami wojskowymi i cywilnymi.",
+      "tr": "Dogudaki savas, askerler ve siviller arasinda muazzam kayiplarin yasandigi bir imha savasina donustu.",
+      "zh": "东方战争成为一场毁灭性战争，造成巨大的军人和平民伤亡。",
+      "ja": "東部での戦争は、軍人と民間人に甚大な犠牲をもたらす絶滅戦争となりました。",
+      "ko": "동부 전쟁은 군인과 민간인에게 막대한 희생을 낳은 절멸 전쟁이 되었습니다.",
+      "hi": "पूर्व में युद्ध विनाश के युद्ध में बदल गया, जिसमें सैनिकों और नागरिकों की भारी हानि हुई।",
+      "ar": "اصبحت الحرب في الشرق حرب ابادة مع خسائر هائلة بين العسكريين والمدنيين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Война на уничтожение",
           "de": "Vernichtungskrieg",
-          "en": "War of annihilation"
+          "en": "War of annihilation",
+          "fr": "Guerre d'aneantissement",
+          "es": "Guerra de aniquilacion",
+          "it": "Guerra di annientamento",
+          "pt": "Guerra de aniquilacao",
+          "nl": "Vernietigingsoorlog",
+          "pl": "Wojna na wyniszczenie",
+          "tr": "Imha savasi",
+          "zh": "毁灭战争",
+          "ja": "絶滅戦争",
+          "ko": "절멸 전쟁",
+          "hi": "विनाश का युद्ध",
+          "ar": "حرب ابادة"
         },
         "description": {
           "ru": "Операция была связана не только с военными целями, но и с расистской идеологией нацистов. На оккупированных территориях последовали массовые убийства, голод и террор.",
           "de": "Die Operation war nicht nur mit militaerischen Zielen, sondern auch mit der rassistischen Ideologie der Nationalsozialisten verbunden. In den besetzten Gebieten folgten Massenmorde, Hunger und Terror.",
-          "en": "The operation was tied not only to military aims but also to Nazi racist ideology. Mass murder, starvation and terror followed in the occupied territories."
+          "en": "The operation was tied not only to military aims but also to Nazi racist ideology. Mass murder, starvation and terror followed in the occupied territories.",
+          "fr": "L'operation etait liee non seulement a des objectifs militaires, mais aussi a l'ideologie raciste nazie. Dans les territoires occupes suivirent meurtres de masse, famine et terreur.",
+          "es": "La operacion estuvo ligada no solo a objetivos militares, sino tambien a la ideologia racista nazi. En los territorios ocupados siguieron asesinatos masivos, hambre y terror.",
+          "it": "L'operazione era legata non solo a obiettivi militari, ma anche all'ideologia razzista nazista. Nei territori occupati seguirono omicidi di massa, fame e terrore.",
+          "pt": "A operacao estava ligada nao apenas a objetivos militares, mas tambem a ideologia racista nazista. Nos territorios ocupados seguiram-se assassinatos em massa, fome e terror.",
+          "nl": "De operatie was niet alleen verbonden met militaire doelen, maar ook met de racistische ideologie van de nazi's. In de bezette gebieden volgden massamoord, honger en terreur.",
+          "pl": "Operacja byla zwiazana nie tylko z celami wojskowymi, lecz takze z rasistowska ideologia nazistow. Na okupowanych terenach nastapily masowe mordy, glod i terror.",
+          "tr": "Harekat yalnizca askeri hedeflerle degil, Nazi irkci ideolojisiyle de baglantiliydi. Isgal edilen topraklarda toplu katliamlar, aclik ve teror izledi.",
+          "zh": "这次行动不仅与军事目标有关，也与纳粹种族主义意识形态相关。占领区随后发生大规模屠杀、饥荒和恐怖统治。",
+          "ja": "この作戦は軍事目標だけでなく、ナチスの人種主義的イデオロギーとも結びついていました。占領地では大量殺害、飢餓、テロが続きました。",
+          "ko": "이 작전은 군사적 목표뿐 아니라 나치의 인종주의 이념과도 연결되어 있었습니다. 점령지에서는 대량 학살, 기아, 공포 정치가 이어졌습니다.",
+          "hi": "यह अभियान केवल सैन्य लक्ष्यों से नहीं, बल्कि नाजी नस्लवादी विचारधारा से भी जुड़ा था। कब्जे वाले क्षेत्रों में सामूहिक हत्याएं, भूख और आतंक फैलाए गए।",
+          "ar": "ارتبطت العملية ليس بالاهداف العسكرية فقط، بل ايضا بالايديولوجية العنصرية النازية. وفي الاراضي المحتلة تلتها جرائم قتل جماعي وجوع وارهاب."
         },
         "importance": {
           "ru": "Дата является одной из самых трагичных в истории отношений Германии и Восточной Европы.",
           "de": "Das Datum gehoert zu den tragischsten in der Geschichte der Beziehungen Deutschlands zu Osteuropa.",
-          "en": "The date is one of the most tragic in the history of Germany's relations with Eastern Europe."
+          "en": "The date is one of the most tragic in the history of Germany's relations with Eastern Europe.",
+          "fr": "Cette date est l'une des plus tragiques de l'histoire des relations entre l'Allemagne et l'Europe de l'Est.",
+          "es": "La fecha es una de las mas tragicas en la historia de las relaciones de Alemania con Europa Oriental.",
+          "it": "La data e una delle piu tragiche nella storia dei rapporti tra Germania ed Europa orientale.",
+          "pt": "A data e uma das mais tragicas na historia das relacoes da Alemanha com a Europa Oriental.",
+          "nl": "De datum behoort tot de meest tragische in de geschiedenis van Duitslands relaties met Oost-Europa.",
+          "pl": "Ta data nalezy do najtragiczniejszych w historii stosunkow Niemiec z Europa Wschodnia.",
+          "tr": "Bu tarih, Almanya'nin Dogu Avrupa ile iliskileri tarihinde en trajik tarihlerden biridir.",
+          "zh": "这个日期是德国与东欧关系史上最悲惨的日期之一。",
+          "ja": "この日は、ドイツと東ヨーロッパの関係史の中で最も悲劇的な日の一つです。",
+          "ko": "이 날짜는 독일과 동유럽 관계사에서 가장 비극적인 날 중 하나입니다.",
+          "hi": "यह तारीख जर्मनी और पूर्वी यूरोप के संबंधों के इतिहास की सबसे दुखद तारीखों में से एक है।",
+          "ar": "يعد هذا التاريخ من اكثر التواريخ مأساوية في تاريخ علاقات المانيا مع اوروبا الشرقية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Название «Барбаросса» отсылало к средневековому императору Фридриху I Барбароссе.",
     "de": "Der Name Barbarossa bezog sich auf den mittelalterlichen Kaiser Friedrich I. Barbarossa.",
-    "en": "The name Barbarossa referred to the medieval emperor Frederick I Barbarossa."
+    "en": "The name Barbarossa referred to the medieval emperor Frederick I Barbarossa.",
+    "fr": "Le nom Barbarossa renvoyait a l'empereur medieval Frederic Ier Barberousse.",
+    "es": "El nombre Barbarroja hacia referencia al emperador medieval Federico I Barbarroja.",
+    "it": "Il nome Barbarossa rimandava all'imperatore medievale Federico I Barbarossa.",
+    "pt": "O nome Barbarossa fazia referencia ao imperador medieval Frederico I Barbarossa.",
+    "nl": "De naam Barbarossa verwees naar de middeleeuwse keizer Frederik I Barbarossa.",
+    "pl": "Nazwa Barbarossa nawiazywala do sredniowiecznego cesarza Fryderyka I Barbarossy.",
+    "tr": "Barbarossa adi, orta cag imparatoru I. Friedrich Barbarossa'ya atif yapiyordu.",
+    "zh": "“巴巴罗萨”这个名称指的是中世纪皇帝腓特烈一世·巴巴罗萨。",
+    "ja": "「バルバロッサ」という名前は、中世の皇帝フリードリヒ1世バルバロッサに由来していました。",
+    "ko": "바르바로사라는 이름은 중세 황제 프리드리히 1세 바르바로사를 가리켰습니다.",
+    "hi": "बारबारोसा नाम मध्ययुगीन सम्राट फ्रेडरिक प्रथम बारबारोसा की ओर संकेत करता था।",
+    "ar": "اشار اسم بارباروسا الى الامبراطور القروسطي فريدريش الاول بارباروسا."
   },
   "sources": [
     {
