@@ -11,17 +11,53 @@
     "title": {
       "ru": "Немецкие войска заняли Киев",
       "de": "Deutsche Truppen besetzen Kiew",
-      "en": "German troops occupy Kyiv"
+      "en": "German troops occupy Kyiv",
+      "fr": "Les troupes allemandes occupent Kiev",
+      "es": "Las tropas alemanas ocupan Kiev",
+      "it": "Le truppe tedesche occupano Kiev",
+      "pt": "Tropas alemas ocupam Kiev",
+      "nl": "Duitse troepen bezetten Kyiv",
+      "pl": "Wojska niemieckie zajmuja Kijow",
+      "tr": "Alman birlikleri Kiev'i isgal etti",
+      "zh": "德军占领基辅",
+      "ja": "ドイツ軍がキーウを占領",
+      "ko": "독일군이 키이우를 점령하다",
+      "hi": "जर्मन सैनिकों ने कीव पर कब्जा किया",
+      "ar": "القوات الالمانية تحتل كييف"
     },
     "description": {
       "ru": "19 сентября 1941 года немецкие войска заняли Киев после крупного окружения советских сил. Вскоре после этого оккупация привела к массовым преступлениям, включая расстрелы в Бабьем Яру.",
       "de": "Am 19. September 1941 besetzten deutsche Truppen Kiew nach einer grossen Einkesselung sowjetischer Kraefte. Kurz darauf fuehrte die Besatzung zu Massenverbrechen, darunter die Erschiessungen in Babyn Jar.",
-      "en": "On 19 September 1941, German troops occupied Kyiv after a major encirclement of Soviet forces. Soon afterward, the occupation led to mass crimes, including the shootings at Babyn Yar."
+      "en": "On 19 September 1941, German troops occupied Kyiv after a major encirclement of Soviet forces. Soon afterward, the occupation led to mass crimes, including the shootings at Babyn Yar.",
+      "fr": "Le 19 septembre 1941, les troupes allemandes occupèrent Kiev après un vaste encerclement des forces soviétiques. Peu après, l'occupation entraîna des crimes de masse, dont les fusillades de Babi Yar.",
+      "es": "El 19 de septiembre de 1941, las tropas alemanas ocuparon Kiev tras un gran cerco de fuerzas sovieticas. Poco despues, la ocupacion condujo a crimenes masivos, incluidas las matanzas de Babi Yar.",
+      "it": "Il 19 settembre 1941 le truppe tedesche occuparono Kiev dopo un grande accerchiamento delle forze sovietiche. Poco dopo, l'occupazione porto a crimini di massa, tra cui le fucilazioni di Babyn Yar.",
+      "pt": "Em 19 de setembro de 1941, tropas alemas ocuparam Kiev apos um grande cerco das forcas sovieticas. Pouco depois, a ocupacao levou a crimes em massa, incluindo os fuzilamentos em Babyn Yar.",
+      "nl": "Op 19 september 1941 bezetten Duitse troepen Kyiv na een grote omsingeling van Sovjettroepen. Kort daarna leidde de bezetting tot massamisdrijven, waaronder de schietpartijen bij Babyn Yar.",
+      "pl": "19 wrzesnia 1941 roku wojska niemieckie zajely Kijow po wielkim okrazeniu sil radzieckich. Niedlugo potem okupacja doprowadzila do zbrodni masowych, w tym egzekucji w Babim Jarze.",
+      "tr": "19 Eylul 1941'de Alman birlikleri, Sovyet guclerinin buyuk bir kusatmasindan sonra Kiev'i isgal etti. Kisa sure sonra isgal, Babi Yar'daki infazlar da dahil olmak uzere kitlesel suclara yol acti.",
+      "zh": "1941年9月19日，德军在大规模包围苏军之后占领基辅。不久后，占领导致了大规模罪行，包括巴比亚尔枪杀事件。",
+      "ja": "1941年9月19日、ドイツ軍はソ連軍を大規模に包囲した後、キーウを占領しました。その後まもなく、占領はバビ・ヤールでの銃殺を含む大量犯罪につながりました。",
+      "ko": "1941년 9월 19일, 독일군은 소련군을 대규모로 포위한 뒤 키이우를 점령했다. 얼마 지나지 않아 점령은 바비 야르 총살을 포함한 대량 범죄로 이어졌다.",
+      "hi": "19 सितंबर 1941 को जर्मन सैनिकों ने सोवियत सेनाओं की एक बड़ी घेराबंदी के बाद कीव पर कब्जा किया। इसके कुछ ही समय बाद कब्जे ने बाबिन यार में गोलीबारी सहित बड़े पैमाने के अपराधों को जन्म दिया।",
+      "ar": "في 19 سبتمبر 1941 احتلت القوات الالمانية كييف بعد تطويق كبير للقوات السوفيتية. وبعد ذلك بوقت قصير ادت فترة الاحتلال الى جرائم جماعية، منها عمليات القتل رميا بالرصاص في بابي يار."
     },
     "importance": {
       "ru": "Дата важна для понимания войны на Востоке как войны завоевания, оккупации и массового насилия.",
       "de": "Das Datum ist wichtig fuer das Verstaendnis des Krieges im Osten als Eroberungs-, Besatzungs- und Vernichtungskrieg.",
-      "en": "The date is important for understanding the war in the East as a war of conquest, occupation and mass violence."
+      "en": "The date is important for understanding the war in the East as a war of conquest, occupation and mass violence.",
+      "fr": "Cette date aide à comprendre la guerre à l'Est comme une guerre de conquête, d'occupation et de violence de masse.",
+      "es": "La fecha es importante para entender la guerra en el Este como una guerra de conquista, ocupacion y violencia masiva.",
+      "it": "La data e importante per capire la guerra a est come guerra di conquista, occupazione e violenza di massa.",
+      "pt": "A data e importante para entender a guerra no Leste como uma guerra de conquista, ocupacao e violencia em massa.",
+      "nl": "De datum is belangrijk om de oorlog in het oosten te begrijpen als een oorlog van verovering, bezetting en massaal geweld.",
+      "pl": "Ta data jest wazna dla zrozumienia wojny na Wschodzie jako wojny podboju, okupacji i masowej przemocy.",
+      "tr": "Bu tarih, Dogu'daki savasi fetih, isgal ve kitlesel siddet savasi olarak anlamak icin onemlidir.",
+      "zh": "这一日期有助于理解东线战争是一场征服、占领和大规模暴力的战争。",
+      "ja": "この日は、東部戦線の戦争を征服、占領、大量暴力の戦争として理解するうえで重要です。",
+      "ko": "이 날짜는 동부 전쟁을 정복, 점령, 대규모 폭력의 전쟁으로 이해하는 데 중요하다.",
+      "hi": "यह तारीख पूर्वी मोर्चे के युद्ध को विजय, कब्जे और सामूहिक हिंसा के युद्ध के रूप में समझने के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لفهم الحرب في الشرق بوصفها حرب غزو واحتلال وعنف جماعي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Крупное окружение 1941 года",
           "de": "Eine grosse Einkesselung von 1941",
-          "en": "A major encirclement in 1941"
+          "en": "A major encirclement in 1941",
+          "fr": "Un vaste encerclement en 1941",
+          "es": "Un gran cerco en 1941",
+          "it": "Un grande accerchiamento nel 1941",
+          "pt": "Um grande cerco em 1941",
+          "nl": "Een grote omsingeling in 1941",
+          "pl": "Wielkie okrazenie w 1941 roku",
+          "tr": "1941'de buyuk bir kusatma",
+          "zh": "1941年的大规模包围",
+          "ja": "1941年の大包囲",
+          "ko": "1941년의 대규모 포위",
+          "hi": "1941 की एक बड़ी घेराबंदी",
+          "ar": "تطويق كبير عام 1941"
         },
         "description": {
           "ru": "Битва за Киев стала одной из крупнейших операций начального этапа германо-советской войны. Для Красной армии поражение было тяжёлым, а для немецкого командования казалось подтверждением успеха блицкрига.",
           "de": "Die Schlacht um Kiew gehoerte zu den groessten Operationen der Anfangsphase des deutsch-sowjetischen Krieges. Fuer die Rote Armee war die Niederlage schwer, waehrend die deutsche Fuehrung darin eine Bestaetigung des Blitzkriegs sah.",
-          "en": "The Battle of Kyiv was one of the largest operations in the early phase of the German-Soviet war. For the Red Army it was a severe defeat, while the German command saw it as confirmation of blitzkrieg success."
+          "en": "The Battle of Kyiv was one of the largest operations in the early phase of the German-Soviet war. For the Red Army it was a severe defeat, while the German command saw it as confirmation of blitzkrieg success.",
+          "fr": "La bataille de Kiev fut l'une des plus grandes operations du debut de la guerre germano-sovietique. Pour l'Armee rouge, ce fut une lourde defaite, tandis que le commandement allemand y vit une confirmation du succes de la guerre eclair.",
+          "es": "La batalla de Kiev fue una de las mayores operaciones de la primera fase de la guerra germano-sovietica. Para el Ejercito Rojo fue una derrota grave, mientras que el mando aleman la vio como confirmacion del exito de la blitzkrieg.",
+          "it": "La battaglia di Kiev fu una delle piu grandi operazioni della fase iniziale della guerra tedesco-sovietica. Per l'Armata Rossa fu una dura sconfitta, mentre il comando tedesco la considero una conferma del successo della guerra lampo.",
+          "pt": "A Batalha de Kiev foi uma das maiores operacoes da fase inicial da guerra germano-sovietica. Para o Exercito Vermelho foi uma derrota severa, enquanto o comando alemao a viu como confirmacao do sucesso da blitzkrieg.",
+          "nl": "De Slag om Kyiv was een van de grootste operaties in de beginfase van de Duits-Sovjetoorlog. Voor het Rode Leger was het een zware nederlaag, terwijl de Duitse legerleiding het zag als bevestiging van het succes van de blitzkrieg.",
+          "pl": "Bitwa o Kijow byla jedna z najwiekszych operacji poczatkowej fazy wojny niemiecko-radzieckiej. Dla Armii Czerwonej byla to ciezka porazka, a niemieckie dowodztwo widzialo w niej potwierdzenie sukcesu blitzkriegu.",
+          "tr": "Kiev Muharebesi, Alman-Sovyet savasinin ilk donemindeki en buyuk harekatlardan biriydi. Kizil Ordu icin agir bir yenilgiydi; Alman komutasi ise bunu blitzkrieg basarisinin kaniti olarak gordu.",
+          "zh": "基辅战役是德苏战争初期规模最大的行动之一。对红军来说，这是一次严重失败；德国指挥部则把它看作闪电战成功的证明。",
+          "ja": "キーウの戦いは、独ソ戦初期の最大級の作戦の一つでした。赤軍にとっては大敗であり、ドイツ軍司令部はそれを電撃戦成功の証拠と見なしました。",
+          "ko": "키이우 전투는 독소전 초기의 가장 큰 작전 가운데 하나였다. 붉은 군대에는 큰 패배였고, 독일 지휘부는 이를 전격전 성공의 확인으로 보았다.",
+          "hi": "कीव की लड़ाई जर्मन-सोवियत युद्ध के शुरुआती चरण की सबसे बड़ी कार्रवाइयों में से एक थी। लाल सेना के लिए यह भारी हार थी, जबकि जर्मन कमान ने इसे ब्लिट्जक्रिग की सफलता की पुष्टि माना।",
+          "ar": "كانت معركة كييف واحدة من اكبر العمليات في المرحلة الاولى من الحرب الالمانية السوفيتية. وكانت هزيمة قاسية للجيش الاحمر، بينما رأت القيادة الالمانية فيها دليلا على نجاح الحرب الخاطفة."
         },
         "importance": {
           "ru": "Так видно, как военные победы 1941 года скрывали будущую катастрофу немецкой стратегии на Востоке.",
           "de": "So wird sichtbar, wie die militaerischen Siege von 1941 die spaetere Katastrophe der deutschen Oststrategie verdeckten.",
-          "en": "It shows how the military victories of 1941 concealed the later catastrophe of Germany's eastern strategy."
+          "en": "It shows how the military victories of 1941 concealed the later catastrophe of Germany's eastern strategy.",
+          "fr": "Cela montre comment les victoires militaires de 1941 cachaient la future catastrophe de la strategie allemande à l'Est.",
+          "es": "Muestra como las victorias militares de 1941 ocultaban la futura catastrofe de la estrategia alemana en el Este.",
+          "it": "Mostra come le vittorie militari del 1941 nascondessero la futura catastrofe della strategia tedesca a est.",
+          "pt": "Mostra como as vitorias militares de 1941 esconderam a futura catastrofe da estrategia alema no Leste.",
+          "nl": "Het laat zien hoe de militaire overwinningen van 1941 de latere ramp van de Duitse strategie in het oosten verhulden.",
+          "pl": "Pokazuje to, jak zwyciestwa militarne 1941 roku przeslanialy pozniejsza katastrofe niemieckiej strategii na Wschodzie.",
+          "tr": "Bu, 1941'deki askeri zaferlerin Almanya'nin Dogu stratejisinin sonraki felaketini nasil gizledigini gosterir.",
+          "zh": "它显示了1941年的军事胜利如何掩盖德国东方战略后来的灾难。",
+          "ja": "1941年の軍事的勝利が、後のドイツ東方戦略の破綻をどのように覆い隠していたかが分かります。",
+          "ko": "이는 1941년의 군사적 승리가 독일 동부 전략의 뒤이은 재앙을 어떻게 가렸는지를 보여준다.",
+          "hi": "यह दिखाता है कि 1941 की सैन्य जीतों ने पूर्व में जर्मन रणनीति की बाद की तबाही को कैसे छिपा दिया।",
+          "ar": "يوضح ذلك كيف اخفت الانتصارات العسكرية عام 1941 الكارثة اللاحقة للاستراتيجية الالمانية في الشرق."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Карта и память",
           "de": "Karte und Erinnerung",
-          "en": "Map and memory"
+          "en": "Map and memory",
+          "fr": "Carte et memoire",
+          "es": "Mapa y memoria",
+          "it": "Mappa e memoria",
+          "pt": "Mapa e memoria",
+          "nl": "Kaart en herinnering",
+          "pl": "Mapa i pamiec",
+          "tr": "Harita ve hafiza",
+          "zh": "地图与记忆",
+          "ja": "地図と記憶",
+          "ko": "지도와 기억",
+          "hi": "नक्शा और स्मृति",
+          "ar": "الخريطة والذاكرة"
         },
         "description": {
           "ru": "На военных картах Киев был важной точкой наступления, но для жителей города это означало начало жестокой оккупации. Одно и то же место на карте может выглядеть как военная цель и как человеческая трагедия.",
           "de": "Auf militaerischen Karten war Kiew ein wichtiges Angriffsziel, fuer die Bewohner der Stadt bedeutete es jedoch den Beginn einer brutalen Besatzung. Derselbe Ort auf der Karte kann als militaerisches Ziel und als menschliche Tragödie erscheinen.",
-          "en": "On military maps Kyiv was an important objective, but for the city's residents it meant the beginning of brutal occupation. The same place on a map can appear as a military target and as a human tragedy."
+          "en": "On military maps Kyiv was an important objective, but for the city's residents it meant the beginning of brutal occupation. The same place on a map can appear as a military target and as a human tragedy.",
+          "fr": "Sur les cartes militaires, Kiev etait un objectif important, mais pour les habitants de la ville cela signifiait le debut d'une occupation brutale. Le meme lieu peut apparaitre sur une carte comme une cible militaire et comme une tragedie humaine.",
+          "es": "En los mapas militares, Kiev era un objetivo importante, pero para los habitantes de la ciudad significo el comienzo de una ocupacion brutal. Un mismo lugar en un mapa puede parecer un objetivo militar y una tragedia humana.",
+          "it": "Sulle mappe militari Kiev era un obiettivo importante, ma per gli abitanti della citta significo l'inizio di una brutale occupazione. Lo stesso luogo su una mappa puo apparire come obiettivo militare e come tragedia umana.",
+          "pt": "Nos mapas militares, Kiev era um objetivo importante, mas para os moradores da cidade significou o inicio de uma ocupacao brutal. O mesmo lugar no mapa pode parecer um alvo militar e uma tragedia humana.",
+          "nl": "Op militaire kaarten was Kyiv een belangrijk doel, maar voor de inwoners van de stad betekende het het begin van een wrede bezetting. Dezelfde plek op een kaart kan eruitzien als een militair doel en als een menselijke tragedie.",
+          "pl": "Na mapach wojskowych Kijow byl waznym celem natarcia, ale dla mieszkancow miasta oznaczalo to poczatek brutalnej okupacji. To samo miejsce na mapie moze wygladac jak cel wojskowy i jak ludzka tragedia.",
+          "tr": "Askeri haritalarda Kiev onemli bir hedefti, ancak sehir sakinleri icin bu acimasiz bir isgalin baslangici anlamina geliyordu. Haritadaki ayni yer hem askeri hedef hem de insani trajedi olarak gorunebilir.",
+          "zh": "在军事地图上，基辅是一个重要目标，但对城市居民来说，这意味着残酷占领的开始。地图上的同一个地点既可能像军事目标，也可能是一场人类悲剧。",
+          "ja": "軍事地図ではキーウは重要な目標でしたが、市民にとっては残酷な占領の始まりを意味しました。地図上の同じ場所が、軍事目標にも人間の悲劇にも見えることがあります。",
+          "ko": "군사 지도에서 키이우는 중요한 목표였지만, 도시 주민들에게는 잔혹한 점령의 시작을 뜻했다. 지도 위의 같은 장소가 군사 목표이자 인간의 비극으로 보일 수 있다.",
+          "hi": "सैन्य नक्शों पर कीव एक महत्वपूर्ण लक्ष्य था, लेकिन शहर के निवासियों के लिए इसका अर्थ क्रूर कब्जे की शुरुआत था। नक्शे पर वही स्थान सैन्य लक्ष्य भी दिख सकता है और मानवीय त्रासदी भी।",
+          "ar": "على الخرائط العسكرية كانت كييف هدفا مهما، لكن ذلك كان يعني لسكان المدينة بداية احتلال قاس. ويمكن للمكان نفسه على الخريطة ان يبدو هدفا عسكريا ومأساة انسانية في الوقت نفسه."
         },
         "importance": {
           "ru": "Это важно для нашего календаря с картами: за линиями фронта всегда стоят люди.",
           "de": "Das ist fuer unseren Kalender mit Karten wichtig: Hinter Frontlinien stehen immer Menschen.",
-          "en": "This matters for our calendar with maps: behind front lines there are always people."
+          "en": "This matters for our calendar with maps: behind front lines there are always people.",
+          "fr": "C'est important pour notre calendrier avec cartes: derriere les lignes de front, il y a toujours des personnes.",
+          "es": "Esto importa para nuestro calendario con mapas: detras de las lineas del frente siempre hay personas.",
+          "it": "Questo conta per il nostro calendario con mappe: dietro le linee del fronte ci sono sempre persone.",
+          "pt": "Isso e importante para nosso calendario com mapas: atras das linhas de frente sempre ha pessoas.",
+          "nl": "Dit is belangrijk voor onze kalender met kaarten: achter frontlinies staan altijd mensen.",
+          "pl": "To wazne dla naszego kalendarza z mapami: za liniami frontu zawsze stoja ludzie.",
+          "tr": "Bu, haritali takvimimiz icin onemlidir: cephe hatlarinin arkasinda her zaman insanlar vardir.",
+          "zh": "这对我们的地图日历很重要：前线背后永远是人。",
+          "ja": "地図付きカレンダーにとって重要な点です。前線の背後には常に人々がいます。",
+          "ko": "지도와 함께 보는 우리 달력에서 중요한 점이다. 전선 뒤에는 언제나 사람들이 있다.",
+          "hi": "यह हमारे नक्शों वाले कैलेंडर के लिए महत्वपूर्ण है: मोर्चे की रेखाओं के पीछे हमेशा लोग होते हैं।",
+          "ar": "هذا مهم لتقويمنا المزود بالخرائط: خلف خطوط الجبهة يوجد دائما بشر."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Массовые расстрелы в Бабьем Яру начались 29 сентября 1941 года, через десять дней после занятия Киева.",
     "de": "Die Massenerschiessungen in Babyn Jar begannen am 29. September 1941, zehn Tage nach der Besetzung Kiews.",
-    "en": "The mass shootings at Babyn Yar began on 29 September 1941, ten days after the occupation of Kyiv."
+    "en": "The mass shootings at Babyn Yar began on 29 September 1941, ten days after the occupation of Kyiv.",
+    "fr": "Les fusillades de masse à Babi Yar commencèrent le 29 septembre 1941, dix jours après l'occupation de Kiev.",
+    "es": "Las matanzas de Babi Yar comenzaron el 29 de septiembre de 1941, diez dias despues de la ocupacion de Kiev.",
+    "it": "Le fucilazioni di massa a Babyn Yar iniziarono il 29 settembre 1941, dieci giorni dopo l'occupazione di Kiev.",
+    "pt": "Os fuzilamentos em massa em Babyn Yar comecaram em 29 de setembro de 1941, dez dias apos a ocupacao de Kiev.",
+    "nl": "De massaschietpartijen bij Babyn Yar begonnen op 29 september 1941, tien dagen na de bezetting van Kyiv.",
+    "pl": "Masowe egzekucje w Babim Jarze rozpoczely sie 29 wrzesnia 1941 roku, dziesiec dni po zajeciu Kijowa.",
+    "tr": "Babi Yar'daki kitlesel infazlar, Kiev'in isgalinden on gun sonra, 29 Eylul 1941'de basladi.",
+    "zh": "巴比亚尔的大规模枪杀始于1941年9月29日，即基辅被占领十天后。",
+    "ja": "バビ・ヤールでの大量銃殺は、キーウ占領の10日後、1941年9月29日に始まりました。",
+    "ko": "바비 야르의 대량 총살은 키이우 점령 열흘 뒤인 1941년 9월 29일 시작되었다.",
+    "hi": "बाबिन यार में सामूहिक गोलीबारी 29 सितंबर 1941 को शुरू हुई, कीव पर कब्जे के दस दिन बाद।",
+    "ar": "بدأت عمليات القتل الجماعي رميا بالرصاص في بابي يار في 29 سبتمبر 1941، بعد عشرة ايام من احتلال كييف."
   },
   "sources": [
     {

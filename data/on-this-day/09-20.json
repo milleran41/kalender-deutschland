@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начало работы первого правительства ФРГ",
       "de": "Beginn der ersten Bundesregierung",
-      "en": "The first West German government begins work"
+      "en": "The first West German government begins work",
+      "fr": "Le premier gouvernement ouest-allemand commence son travail",
+      "es": "Comienza a trabajar el primer gobierno de Alemania Occidental",
+      "it": "Inizia il lavoro del primo governo della Germania Ovest",
+      "pt": "O primeiro governo da Alemanha Ocidental comeca a trabalhar",
+      "nl": "De eerste West-Duitse regering begint te werken",
+      "pl": "Pierwszy rzad RFN rozpoczyna prace",
+      "tr": "Ilk Bati Alman hukumeti goreve basladi",
+      "zh": "首届西德政府开始工作",
+      "ja": "初代西ドイツ政府が始動",
+      "ko": "첫 서독 정부가 업무를 시작하다",
+      "hi": "पहली पश्चिम जर्मन सरकार ने काम शुरू किया",
+      "ar": "اول حكومة لالمانيا الغربية تبدأ عملها"
     },
     "description": {
       "ru": "20 сентября 1949 года первое правительство Федеративной Республики Германии во главе с Конрадом Аденауэром начало работу. В тот же день Аденауэр выступил с первой правительственной декларацией в Бундестаге.",
       "de": "Am 20. September 1949 nahm die erste Bundesregierung unter Konrad Adenauer ihre Arbeit auf. Am selben Tag gab Adenauer im Bundestag seine erste Regierungserklaerung ab.",
-      "en": "On 20 September 1949, the first government of the Federal Republic of Germany under Konrad Adenauer began work. On the same day, Adenauer delivered his first government declaration in the Bundestag."
+      "en": "On 20 September 1949, the first government of the Federal Republic of Germany under Konrad Adenauer began work. On the same day, Adenauer delivered his first government declaration in the Bundestag.",
+      "fr": "Le 20 septembre 1949, le premier gouvernement de la Republique federale d'Allemagne, dirige par Konrad Adenauer, entra en fonction. Le meme jour, Adenauer prononca sa premiere declaration gouvernementale au Bundestag.",
+      "es": "El 20 de septiembre de 1949 comenzo a trabajar el primer gobierno de la Republica Federal de Alemania, encabezado por Konrad Adenauer. Ese mismo dia, Adenauer pronuncio su primera declaracion de gobierno en el Bundestag.",
+      "it": "Il 20 settembre 1949 entro in funzione il primo governo della Repubblica Federale di Germania guidato da Konrad Adenauer. Lo stesso giorno Adenauer pronuncio al Bundestag la sua prima dichiarazione di governo.",
+      "pt": "Em 20 de setembro de 1949, o primeiro governo da Republica Federal da Alemanha, liderado por Konrad Adenauer, iniciou seus trabalhos. No mesmo dia, Adenauer fez sua primeira declaracao de governo no Bundestag.",
+      "nl": "Op 20 september 1949 begon de eerste regering van de Bondsrepubliek Duitsland onder Konrad Adenauer haar werk. Op dezelfde dag hield Adenauer zijn eerste regeringsverklaring in de Bondsdag.",
+      "pl": "20 wrzesnia 1949 roku pierwszy rzad Republiki Federalnej Niemiec pod kierownictwem Konrada Adenauera rozpoczal prace. Tego samego dnia Adenauer wyglosil w Bundestagu pierwsze oswiadczenie rzadowe.",
+      "tr": "20 Eylul 1949'da Konrad Adenauer liderligindeki Almanya Federal Cumhuriyeti'nin ilk hukumeti calismaya basladi. Ayni gun Adenauer Bundestag'da ilk hukumet bildirisini sundu.",
+      "zh": "1949年9月20日，由康拉德·阿登纳领导的德意志联邦共和国第一届政府开始工作。同一天，阿登纳在联邦议院发表了首次政府声明。",
+      "ja": "1949年9月20日、コンラート・アデナウアー率いるドイツ連邦共和国初の政府が活動を始めました。同じ日、アデナウアーは連邦議会で初の政府声明を行いました。",
+      "ko": "1949년 9월 20일, 콘라트 아데나워가 이끄는 독일연방공화국의 첫 정부가 업무를 시작했다. 같은 날 아데나워는 연방의회에서 첫 정부 성명을 발표했다.",
+      "hi": "20 सितंबर 1949 को कोनराड एडेनाउअर के नेतृत्व में जर्मनी के संघीय गणराज्य की पहली सरकार ने काम शुरू किया। उसी दिन एडेनाउअर ने बुंडेस्टाग में अपना पहला सरकारी वक्तव्य दिया।",
+      "ar": "في 20 سبتمبر 1949 بدأت اول حكومة لجمهورية المانيا الاتحادية برئاسة كونراد اديناور عملها. وفي اليوم نفسه قدم اديناور اول بيان حكومي له في البوندستاغ."
     },
     "importance": {
       "ru": "Эта дата показывает, как западногерманское государство переходило от послевоенного устройства к собственной демократической политике.",
       "de": "Dieses Datum zeigt, wie der westdeutsche Staat vom Nachkriegsprovisorium zu eigener demokratischer Politik ueberging.",
-      "en": "The date shows how the West German state moved from the postwar settlement toward its own democratic politics."
+      "en": "The date shows how the West German state moved from the postwar settlement toward its own democratic politics.",
+      "fr": "Cette date montre comment l'Etat ouest-allemand passa de l'ordre d'apres-guerre à une politique democratique propre.",
+      "es": "La fecha muestra como el Estado de Alemania Occidental paso del orden de posguerra a una politica democratica propia.",
+      "it": "La data mostra come lo Stato della Germania Ovest passo dall'assetto del dopoguerra a una propria politica democratica.",
+      "pt": "A data mostra como o Estado da Alemanha Ocidental passou do arranjo do pos-guerra para sua propria politica democratica.",
+      "nl": "De datum laat zien hoe de West-Duitse staat van de naoorlogse regeling naar eigen democratische politiek overging.",
+      "pl": "Ta data pokazuje, jak panstwo zachodnioniemieckie przechodzilo od powojennego ukladu do wlasnej polityki demokratycznej.",
+      "tr": "Bu tarih, Bati Alman devletinin savas sonrasi duzenden kendi demokratik siyasetine nasil gectigini gosterir.",
+      "zh": "这一日期显示了西德国家如何从战后安排走向自己的民主政治。",
+      "ja": "この日は、西ドイツ国家が戦後体制から独自の民主政治へ移行していく様子を示しています。",
+      "ko": "이 날짜는 서독 국가가 전후 체제에서 자체 민주 정치로 넘어가는 과정을 보여준다.",
+      "hi": "यह तारीख दिखाती है कि पश्चिम जर्मन राज्य युद्धोत्तर व्यवस्था से अपनी लोकतांत्रिक राजनीति की ओर कैसे बढ़ा।",
+      "ar": "يبين هذا التاريخ كيف انتقلت الدولة الالمانية الغربية من ترتيبات ما بعد الحرب الى سياسة ديمقراطية خاصة بها."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Рождение Боннской республики",
           "de": "Geburt der Bonner Republik",
-          "en": "Birth of the Bonn Republic"
+          "en": "Birth of the Bonn Republic",
+          "fr": "Naissance de la Republique de Bonn",
+          "es": "Nacimiento de la Republica de Bonn",
+          "it": "Nascita della Repubblica di Bonn",
+          "pt": "Nascimento da Republica de Bonn",
+          "nl": "Geboorte van de Bonnse Republiek",
+          "pl": "Narodziny Republiki Bonnskiej",
+          "tr": "Bonn Cumhuriyeti'nin dogusu",
+          "zh": "波恩共和国的诞生",
+          "ja": "ボン共和国の誕生",
+          "ko": "본 공화국의 탄생",
+          "hi": "बॉन गणराज्य का जन्म",
+          "ar": "ولادة جمهورية بون"
         },
         "description": {
           "ru": "ФРГ была основана в мае 1949 года, но именно формирование правительства сделало новую систему повседневно работающей. Бонн стал временной столицей, которая задержалась почти на полвека.",
           "de": "Die Bundesrepublik wurde im Mai 1949 gegruendet, doch erst die Regierungsbildung machte das neue System im Alltag handlungsfaehig. Bonn wurde zur provisorischen Hauptstadt, die fast ein halbes Jahrhundert blieb.",
-          "en": "The Federal Republic was founded in May 1949, but forming a government made the new system work in everyday politics. Bonn became the provisional capital and remained so for nearly half a century."
+          "en": "The Federal Republic was founded in May 1949, but forming a government made the new system work in everyday politics. Bonn became the provisional capital and remained so for nearly half a century.",
+          "fr": "La Republique federale fut fondee en mai 1949, mais la formation du gouvernement rendit le nouveau systeme vraiment operationnel au quotidien. Bonn devint la capitale provisoire et le resta presque un demi-siecle.",
+          "es": "La Republica Federal se fundo en mayo de 1949, pero la formacion del gobierno hizo que el nuevo sistema funcionara en la politica diaria. Bonn se convirtio en capital provisional y lo siguio siendo durante casi medio siglo.",
+          "it": "La Repubblica Federale fu fondata nel maggio 1949, ma la formazione del governo rese il nuovo sistema operativo nella politica quotidiana. Bonn divenne la capitale provvisoria e rimase tale per quasi mezzo secolo.",
+          "pt": "A Republica Federal foi fundada em maio de 1949, mas a formacao do governo fez o novo sistema funcionar na politica diaria. Bonn tornou-se a capital provisoria e permaneceu assim por quase meio seculo.",
+          "nl": "De Bondsrepubliek werd in mei 1949 opgericht, maar pas de regeringsvorming maakte het nieuwe systeem in de dagelijkse politiek werkbaar. Bonn werd de voorlopige hoofdstad en bleef dat bijna een halve eeuw.",
+          "pl": "Republika Federalna zostala utworzona w maju 1949 roku, ale dopiero powolanie rzadu sprawilo, ze nowy system zaczal dzialac w codziennej polityce. Bonn zostalo tymczasowa stolica i pozostalo nia przez prawie pol wieku.",
+          "tr": "Federal Cumhuriyet Mayis 1949'da kuruldu, ancak hukumetin olusmasi yeni sistemi gunluk siyasette isler hale getirdi. Bonn gecici baskent oldu ve neredeyse yarim yuzyil oyle kaldi.",
+          "zh": "联邦共和国成立于1949年5月，但组建政府才使新制度在日常政治中真正运转。波恩成为临时首都，并持续了近半个世纪。",
+          "ja": "連邦共和国は1949年5月に成立しましたが、政府の発足によって新しい制度が日常政治の中で実際に動き始めました。ボンは暫定首都となり、ほぼ半世紀その地位にとどまりました。",
+          "ko": "연방공화국은 1949년 5월에 수립되었지만, 정부 구성이 새 체제를 일상 정치에서 작동하게 만들었다. 본은 임시 수도가 되었고 거의 반세기 동안 그 지위를 유지했다.",
+          "hi": "संघीय गणराज्य मई 1949 में स्थापित हुआ, लेकिन सरकार बनने से ही नई व्यवस्था रोजमर्रा की राजनीति में काम करने लगी। बॉन अस्थायी राजधानी बना और लगभग आधी सदी तक वैसा ही रहा।",
+          "ar": "تأسست الجمهورية الاتحادية في مايو 1949، لكن تشكيل الحكومة هو ما جعل النظام الجديد يعمل في السياسة اليومية. واصبحت بون عاصمة مؤقتة وبقيت كذلك قرابة نصف قرن."
         },
         "importance": {
           "ru": "Так становится понятнее, как после катастрофы войны Германия заново строила государственные институты.",
           "de": "So wird verstaendlicher, wie Deutschland nach der Katastrophe des Krieges staatliche Institutionen neu aufbaute.",
-          "en": "It helps explain how Germany rebuilt state institutions after the catastrophe of war."
+          "en": "It helps explain how Germany rebuilt state institutions after the catastrophe of war.",
+          "fr": "Cela aide à comprendre comment l'Allemagne reconstruisit ses institutions apres la catastrophe de la guerre.",
+          "es": "Ayuda a entender como Alemania reconstruyo sus instituciones estatales tras la catastrofe de la guerra.",
+          "it": "Aiuta a capire come la Germania ricostrui le istituzioni statali dopo la catastrofe della guerra.",
+          "pt": "Ajuda a explicar como a Alemanha reconstruiu instituicoes estatais apos a catastrofe da guerra.",
+          "nl": "Het helpt verklaren hoe Duitsland na de ramp van de oorlog staatsinstellingen opnieuw opbouwde.",
+          "pl": "Pomaga to zrozumiec, jak Niemcy odbudowywaly instytucje panstwowe po katastrofie wojny.",
+          "tr": "Bu, Almanya'nin savas felaketinden sonra devlet kurumlarini nasil yeniden kurdugunu aciklar.",
+          "zh": "这有助于理解德国在战争灾难后如何重建国家机构。",
+          "ja": "戦争の惨禍の後、ドイツが国家制度をどのように再建したかを理解する助けになります。",
+          "ko": "전쟁의 참화 이후 독일이 국가 제도를 어떻게 재건했는지 설명해 준다.",
+          "hi": "यह समझने में मदद करता है कि युद्ध की तबाही के बाद जर्मनी ने राज्य संस्थाओं को कैसे फिर से बनाया।",
+          "ar": "يساعد ذلك على فهم كيف اعادت المانيا بناء مؤسسات الدولة بعد كارثة الحرب."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Конрад Аденауэр",
           "de": "Konrad Adenauer",
-          "en": "Konrad Adenauer"
+          "en": "Konrad Adenauer",
+          "fr": "Konrad Adenauer",
+          "es": "Konrad Adenauer",
+          "it": "Konrad Adenauer",
+          "pt": "Konrad Adenauer",
+          "nl": "Konrad Adenauer",
+          "pl": "Konrad Adenauer",
+          "tr": "Konrad Adenauer",
+          "zh": "康拉德·阿登纳",
+          "ja": "コンラート・アデナウアー",
+          "ko": "콘라트 아데나워",
+          "hi": "कोनराड एडेनाउअर",
+          "ar": "كونراد اديناور"
         },
         "description": {
           "ru": "Аденауэр стал первым федеральным канцлером ФРГ и определил курс на западную интеграцию. Его политика сильно повлияла на место Западной Германии в Европе и НАТО.",
           "de": "Adenauer wurde der erste Bundeskanzler der Bundesrepublik und bestimmte den Kurs der Westintegration. Seine Politik praegte die Stellung Westdeutschlands in Europa und der NATO.",
-          "en": "Adenauer became the first Federal Chancellor and set the course for Western integration. His policy strongly shaped West Germany's place in Europe and NATO."
+          "en": "Adenauer became the first Federal Chancellor and set the course for Western integration. His policy strongly shaped West Germany's place in Europe and NATO.",
+          "fr": "Adenauer devint le premier chancelier federal et fixa le cap de l'integration occidentale. Sa politique marqua fortement la place de l'Allemagne de l'Ouest en Europe et dans l'OTAN.",
+          "es": "Adenauer se convirtio en el primer canciller federal y marco el rumbo de la integracion occidental. Su politica influyo mucho en el lugar de Alemania Occidental en Europa y la OTAN.",
+          "it": "Adenauer divenne il primo cancelliere federale e fisso la rotta dell'integrazione occidentale. La sua politica influenzo fortemente il posto della Germania Ovest in Europa e nella NATO.",
+          "pt": "Adenauer tornou-se o primeiro chanceler federal e definiu o rumo da integracao ocidental. Sua politica moldou fortemente o lugar da Alemanha Ocidental na Europa e na OTAN.",
+          "nl": "Adenauer werd de eerste bondskanselier en bepaalde de koers van westerse integratie. Zijn beleid vormde sterk de plaats van West-Duitsland in Europa en de NAVO.",
+          "pl": "Adenauer zostal pierwszym kanclerzem federalnym RFN i wyznaczyl kurs na integracje z Zachodem. Jego polityka silnie uksztaltowala miejsce Niemiec Zachodnich w Europie i NATO.",
+          "tr": "Adenauer ilk federal sansolye oldu ve Bati ile butunlesme yolunu belirledi. Politikasi Bati Almanya'nin Avrupa ve NATO'daki yerini guclu bicimde sekillendirdi.",
+          "zh": "阿登纳成为首任联邦总理，并确立了融入西方的路线。他的政策深刻塑造了西德在欧洲和北约中的位置。",
+          "ja": "アデナウアーは初代連邦首相となり、西側統合の方針を定めました。彼の政策は、西ドイツの欧州とNATOにおける位置を大きく形づくりました。",
+          "ko": "아데나워는 초대 연방총리가 되어 서방 통합 노선을 정했다. 그의 정책은 유럽과 NATO에서 서독의 위치를 크게 형성했다.",
+          "hi": "एडेनाउअर पहले संघीय चांसलर बने और पश्चिमी एकीकरण की दिशा तय की। उनकी नीति ने यूरोप और नाटो में पश्चिम जर्मनी की जगह को गहराई से प्रभावित किया।",
+          "ar": "اصبح اديناور اول مستشار اتحادي وحدد مسار الاندماج مع الغرب. وقد شكلت سياسته بقوة مكانة المانيا الغربية في اوروبا وحلف الناتو."
         },
         "importance": {
           "ru": "Через его карьеру видна целая эпоха: от послевоенной слабости к стабильной демократии.",
           "de": "An seiner Laufbahn wird eine ganze Epoche sichtbar: von der Nachkriegsschwaeche zur stabilen Demokratie.",
-          "en": "His career reveals an entire era: from postwar weakness to stable democracy."
+          "en": "His career reveals an entire era: from postwar weakness to stable democracy.",
+          "fr": "Sa carriere rend visible toute une epoque: de la faiblesse d'apres-guerre à une democratie stable.",
+          "es": "Su carrera muestra toda una epoca: de la debilidad de posguerra a una democracia estable.",
+          "it": "La sua carriera mostra un'intera epoca: dalla debolezza del dopoguerra a una democrazia stabile.",
+          "pt": "Sua carreira revela uma epoca inteira: da fraqueza do pos-guerra a uma democracia estavel.",
+          "nl": "Zijn loopbaan laat een heel tijdperk zien: van naoorlogse zwakte naar stabiele democratie.",
+          "pl": "Jego kariera ukazuje cala epoke: od powojennej slabosci do stabilnej demokracji.",
+          "tr": "Onun kariyeri butun bir donemi gosterir: savas sonrasi zayifliktan istikrarli demokrasiye.",
+          "zh": "他的职业生涯展现了一个时代：从战后虚弱走向稳定民主。",
+          "ja": "彼の経歴には、戦後の弱さから安定した民主主義へ向かう一つの時代が表れています。",
+          "ko": "그의 경력은 전후의 약함에서 안정된 민주주의로 이어지는 한 시대를 보여준다.",
+          "hi": "उनका करियर एक पूरे युग को दिखाता है: युद्धोत्तर कमजोरी से स्थिर लोकतंत्र तक।",
+          "ar": "تكشف مسيرته عصرا كاملا: من ضعف ما بعد الحرب الى ديمقراطية مستقرة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Аденауэр был избран канцлером 15 сентября 1949 года, а его первое правительство начало работу 20 сентября.",
     "de": "Adenauer wurde am 15. September 1949 zum Kanzler gewaehlt; seine erste Regierung nahm am 20. September die Arbeit auf.",
-    "en": "Adenauer was elected Chancellor on 15 September 1949; his first government began work on 20 September."
+    "en": "Adenauer was elected Chancellor on 15 September 1949; his first government began work on 20 September.",
+    "fr": "Adenauer fut elu chancelier le 15 septembre 1949; son premier gouvernement commenca son travail le 20 septembre.",
+    "es": "Adenauer fue elegido canciller el 15 de septiembre de 1949; su primer gobierno comenzo a trabajar el 20 de septiembre.",
+    "it": "Adenauer fu eletto cancelliere il 15 settembre 1949; il suo primo governo inizio a lavorare il 20 settembre.",
+    "pt": "Adenauer foi eleito chanceler em 15 de setembro de 1949; seu primeiro governo comecou a trabalhar em 20 de setembro.",
+    "nl": "Adenauer werd op 15 september 1949 tot kanselier gekozen; zijn eerste regering begon op 20 september te werken.",
+    "pl": "Adenauer zostal wybrany kanclerzem 15 wrzesnia 1949 roku; jego pierwszy rzad rozpoczal prace 20 wrzesnia.",
+    "tr": "Adenauer 15 Eylul 1949'da sansolye secildi; ilk hukumeti 20 Eylul'de calismaya basladi.",
+    "zh": "阿登纳于1949年9月15日当选总理；他的首届政府于9月20日开始工作。",
+    "ja": "アデナウアーは1949年9月15日に首相に選出され、彼の初代政府は9月20日に活動を始めました。",
+    "ko": "아데나워는 1949년 9월 15일 총리로 선출되었고, 그의 첫 정부는 9월 20일 업무를 시작했다.",
+    "hi": "एडेनाउअर 15 सितंबर 1949 को चांसलर चुने गए; उनकी पहली सरकार ने 20 सितंबर को काम शुरू किया।",
+    "ar": "انتخب اديناور مستشارا في 15 سبتمبر 1949؛ وبدأت حكومته الاولى العمل في 20 سبتمبر."
   },
   "sources": [
     {
