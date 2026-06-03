@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началось Ютландское сражение",
       "de": "Die Skagerrakschlacht beginnt",
-      "en": "The Battle of Jutland begins"
+      "en": "The Battle of Jutland begins",
+      "fr": "La bataille du Jutland commence",
+      "es": "Comienza la batalla de Jutlandia",
+      "it": "Inizia la battaglia dello Jutland",
+      "pt": "Comeca a Batalha da Jutlandia",
+      "nl": "De Slag bij Jutland begint",
+      "pl": "Rozpoczyna sie bitwa jutlandzka",
+      "tr": "Jutland Muharebesi baslar",
+      "zh": "日德兰海战开始",
+      "ja": "ユトランド沖海戦が始まる",
+      "ko": "유틀란트 해전이 시작되다",
+      "hi": "जटलैंड की लड़ाई शुरू हुई",
+      "ar": "بداية معركة يوتلاند"
     },
     "description": {
       "ru": "31 мая 1916 года британский Гранд-флит и германский Флот открытого моря столкнулись у берегов Ютландии. Это стало крупнейшим морским сражением Первой мировой войны.",
       "de": "Am 31. Mai 1916 trafen die britische Grand Fleet und die deutsche Hochseeflotte vor Jütland aufeinander. Es wurde die größte Seeschlacht des Ersten Weltkriegs.",
-      "en": "On 31 May 1916, Britain's Grand Fleet and Germany's High Seas Fleet clashed off Jutland. It became the largest naval battle of the First World War."
+      "en": "On 31 May 1916, Britain's Grand Fleet and Germany's High Seas Fleet clashed off Jutland. It became the largest naval battle of the First World War.",
+      "fr": "Le 31 mai 1916, la Grand Fleet britannique et la Hochseeflotte allemande s'affronterent au large du Jutland. Ce fut la plus grande bataille navale de la Premiere Guerre mondiale.",
+      "es": "El 31 de mayo de 1916, la Grand Fleet britanica y la Flota de Alta Mar alemana chocaron frente a Jutlandia. Fue la mayor batalla naval de la Primera Guerra Mundial.",
+      "it": "Il 31 maggio 1916 la Grand Fleet britannica e la Hochseeflotte tedesca si scontrarono al largo dello Jutland. Divenne la piu grande battaglia navale della Prima guerra mondiale.",
+      "pt": "Em 31 de maio de 1916, a Grand Fleet britanica e a Frota de Alto-Mar alema se enfrentaram ao largo da Jutlandia. Foi a maior batalha naval da Primeira Guerra Mundial.",
+      "nl": "Op 31 mei 1916 botsten de Britse Grand Fleet en de Duitse Hochseeflotte voor de kust van Jutland. Het werd de grootste zeeslag van de Eerste Wereldoorlog.",
+      "pl": "31 maja 1916 roku brytyjska Grand Fleet i niemiecka Hochseeflotte starły sie u wybrzezy Jutlandii. Byla to najwieksza bitwa morska pierwszej wojny swiatowej.",
+      "tr": "31 Mayis 1916'da Britanya Grand Fleet'i ile Almanya'nin Acik Deniz Filosu Jutland aciklarinda carpisti. Bu, Birinci Dunya Savasi'nin en buyuk deniz muharebesi oldu.",
+      "zh": "1916年5月31日，英国大舰队与德国公海舰队在日德兰附近交战。这成为第一次世界大战中规模最大的海战。",
+      "ja": "1916年5月31日、イギリスのグランド・フリートとドイツの大洋艦隊がユトランド沖で衝突しました。これは第一次世界大戦最大の海戦となりました。",
+      "ko": "1916년 5월 31일 영국 대함대와 독일 공해함대가 유틀란트 앞바다에서 충돌했습니다. 이는 제1차 세계대전 최대의 해전이 되었습니다.",
+      "hi": "31 मई 1916 को ब्रिटेन की ग्रैंड फ्लीट और जर्मनी की हाई सीज़ फ्लीट जटलैंड के पास भिड़ीं। यह प्रथम विश्व युद्ध की सबसे बड़ी नौसैनिक लड़ाई बनी।",
+      "ar": "في 31 مايو 1916 اصطدم الاسطول الكبير البريطاني باسطول اعالي البحار الالماني قرب يوتلاند. واصبحت اكبر معركة بحرية في الحرب العالمية الاولى."
     },
     "importance": {
       "ru": "Сражение не принесло Германии решающего перелома и показало пределы её надводного флота.",
       "de": "Die Schlacht brachte Deutschland keinen entscheidenden Durchbruch und zeigte die Grenzen seiner Hochseeflotte.",
-      "en": "The battle did not give Germany a decisive breakthrough and showed the limits of its surface fleet."
+      "en": "The battle did not give Germany a decisive breakthrough and showed the limits of its surface fleet.",
+      "fr": "La bataille n'apporta pas a l'Allemagne de percee decisive et montra les limites de sa flotte de surface.",
+      "es": "La batalla no dio a Alemania un avance decisivo y mostro los limites de su flota de superficie.",
+      "it": "La battaglia non diede alla Germania una svolta decisiva e mostro i limiti della sua flotta di superficie.",
+      "pt": "A batalha nao deu a Alemanha uma virada decisiva e mostrou os limites de sua frota de superficie.",
+      "nl": "De slag bracht Duitsland geen beslissende doorbraak en liet de grenzen van zijn oppervlaktevloot zien.",
+      "pl": "Bitwa nie przyniosla Niemcom decydujacego przelomu i pokazala ograniczenia ich floty nawodnej.",
+      "tr": "Muharebe Almanya'ya belirleyici bir atilim saglamadi ve yuzey filosunun sinirlarini gosterdi.",
+      "zh": "这场战役没有给德国带来决定性突破，也显示了其水面舰队的局限。",
+      "ja": "この戦いはドイツに決定的な突破をもたらさず、水上艦隊の限界を示しました。",
+      "ko": "이 전투는 독일에 결정적 돌파구를 주지 못했고 수상함대의 한계를 보여 주었습니다.",
+      "hi": "इस लड़ाई ने जर्मनी को निर्णायक सफलता नहीं दी और उसके सतही बेड़े की सीमाएँ दिखाईं।",
+      "ar": "لم تمنح المعركة المانيا اختراقا حاسما، واظهرت حدود اسطولها السطحي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Франкфуртский парламент покинул Франкфурт",
           "de": "Die Frankfurter Nationalversammlung verlässt Frankfurt",
-          "en": "The Frankfurt Parliament leaves Frankfurt"
+          "en": "The Frankfurt Parliament leaves Frankfurt",
+          "fr": "Le Parlement de Francfort quitte Francfort",
+          "es": "El Parlamento de Francfort abandona Francfort",
+          "it": "Il Parlamento di Francoforte lascia Francoforte",
+          "pt": "O Parlamento de Frankfurt deixa Frankfurt",
+          "nl": "Het Frankfurter Parlement verlaat Frankfurt",
+          "pl": "Parlament frankfurcki opuszcza Frankfurt",
+          "tr": "Frankfurt Parlamentosu Frankfurt'tan ayrilir",
+          "zh": "法兰克福议会离开法兰克福",
+          "ja": "フランクフルト議会がフランクフルトを去る",
+          "ko": "프랑크푸르트 의회가 프랑크푸르트를 떠나다",
+          "hi": "फ्रैंकफर्ट संसद ने फ्रैंकफर्ट छोड़ा",
+          "ar": "برلمان فرانكفورت يغادر فرانكفورت"
         },
         "description": {
           "ru": "Оставшиеся депутаты первого общегерманского парламента решили перенести работу в Штутгарт. Это был один из последних эпизодов революции 1848–1849 годов.",
           "de": "Die verbliebenen Abgeordneten des ersten gesamtdeutschen Parlaments verlegten ihre Arbeit nach Stuttgart. Es war eine der letzten Phasen der Revolution von 1848/49.",
-          "en": "The remaining deputies of the first all-German parliament moved their work to Stuttgart. It was one of the final episodes of the 1848–1849 revolution."
+          "en": "The remaining deputies of the first all-German parliament moved their work to Stuttgart. It was one of the final episodes of the 1848–1849 revolution.",
+          "fr": "Les deputes restants du premier parlement panallemand transfererent leurs travaux a Stuttgart. Ce fut l'un des derniers episodes de la revolution de 1848-1849.",
+          "es": "Los diputados restantes del primer parlamento de toda Alemania trasladaron su trabajo a Stuttgart. Fue uno de los episodios finales de la revolucion de 1848-1849.",
+          "it": "I deputati rimasti del primo parlamento di tutta la Germania trasferirono i lavori a Stoccarda. Fu uno degli ultimi episodi della rivoluzione del 1848-1849.",
+          "pt": "Os deputados restantes do primeiro parlamento de toda a Alemanha transferiram seus trabalhos para Stuttgart. Foi um dos episodios finais da revolucao de 1848-1849.",
+          "nl": "De overgebleven afgevaardigden van het eerste geheel Duitse parlement verplaatsten hun werk naar Stuttgart. Het was een van de laatste episodes van de revolutie van 1848-1849.",
+          "pl": "Pozostali poslowie pierwszego ogolnoniemieckiego parlamentu przeniesli prace do Stuttgartu. Byl to jeden z ostatnich epizodow rewolucji 1848-1849.",
+          "tr": "Ilk tum Alman parlamentosunun kalan milletvekilleri calismalarini Stuttgart'a tasidi. Bu, 1848-1849 devriminin son bolumlerinden biriydi.",
+          "zh": "第一届全德议会剩余的代表把工作转移到斯图加特。这是1848-1849年革命的最后阶段之一。",
+          "ja": "初の全ドイツ議会に残った議員たちは、活動の場をシュトゥットガルトへ移しました。これは1848-1849年革命の最終局面の一つでした。",
+          "ko": "첫 전독일 의회의 남은 의원들은 활동을 슈투트가르트로 옮겼습니다. 이는 1848-1849년 혁명의 마지막 장면 중 하나였습니다.",
+          "hi": "पहली सर्व-जर्मन संसद के बचे हुए प्रतिनिधियों ने अपना काम स्टुटगार्ट ले जाया। यह 1848-1849 की क्रांति के अंतिम प्रसंगों में से एक था।",
+          "ar": "نقل النواب الباقون من اول برلمان الماني عام عملهم الى شتوتغارت. وكان ذلك من آخر فصول ثورة 1848-1849."
         },
         "importance": {
           "ru": "Событие показывает, как близко Германия подошла к парламентскому объединению ещё до 1871 года.",
           "de": "Das Ereignis zeigt, wie nahe Deutschland schon vor 1871 an einer parlamentarischen Einigung war.",
-          "en": "It shows how close Germany came to parliamentary unification before 1871."
+          "en": "It shows how close Germany came to parliamentary unification before 1871.",
+          "fr": "Cela montre a quel point l'Allemagne fut proche d'une unification parlementaire avant 1871.",
+          "es": "Muestra lo cerca que estuvo Alemania de una unificacion parlamentaria antes de 1871.",
+          "it": "Mostra quanto la Germania fosse vicina a un'unificazione parlamentare prima del 1871.",
+          "pt": "Isso mostra quao perto a Alemanha chegou de uma unificacao parlamentar antes de 1871.",
+          "nl": "Het laat zien hoe dicht Duitsland voor 1871 bij parlementaire eenwording kwam.",
+          "pl": "Pokazuje to, jak blisko Niemcy byly parlamentarnego zjednoczenia przed 1871 rokiem.",
+          "tr": "Bu, Almanya'nin 1871'den once parlamenter birlige ne kadar yaklastigini gosterir.",
+          "zh": "这说明德国在1871年之前曾多么接近议会式统一。",
+          "ja": "これは、ドイツが1871年以前に議会による統一へどれほど近づいていたかを示しています。",
+          "ko": "이는 독일이 1871년 이전에 의회적 통일에 얼마나 가까이 갔는지를 보여 줍니다.",
+          "hi": "यह दिखाता है कि 1871 से पहले जर्मनी संसदीय एकीकरण के कितने करीब पहुँच गया था।",
+          "ar": "يوضح ذلك مدى اقتراب المانيا من توحيد برلماني قبل عام 1871."
         }
       },
       {
@@ -51,17 +123,53 @@
         "title": {
           "ru": "Битва флотов в Северном море",
           "de": "Flottenschlacht in der Nordsee",
-          "en": "Fleet battle in the North Sea"
+          "en": "Fleet battle in the North Sea",
+          "fr": "Bataille de flottes en mer du Nord",
+          "es": "Batalla de flotas en el mar del Norte",
+          "it": "Battaglia di flotte nel Mare del Nord",
+          "pt": "Batalha de frotas no Mar do Norte",
+          "nl": "Vlootslag in de Noordzee",
+          "pl": "Bitwa flot na Morzu Polnocnym",
+          "tr": "Kuzey Denizi'nde filo savasi",
+          "zh": "北海舰队之战",
+          "ja": "北海の艦隊戦",
+          "ko": "북해의 함대전",
+          "hi": "उत्तरी सागर में बेड़ों की लड़ाई",
+          "ar": "معركة اساطيل في بحر الشمال"
         },
         "description": {
           "ru": "Ютландское сражение продолжалось с 31 мая по 1 июня. В нём участвовали главные силы британского и германского флотов.",
           "de": "Die Skagerrakschlacht dauerte vom 31. Mai bis 1. Juni. Beteiligt waren die Hauptkräfte der britischen und deutschen Flotten.",
-          "en": "The Battle of Jutland lasted from 31 May to 1 June. The main British and German battle fleets took part."
+          "en": "The Battle of Jutland lasted from 31 May to 1 June. The main British and German battle fleets took part.",
+          "fr": "La bataille du Jutland dura du 31 mai au 1er juin. Les principales flottes de combat britannique et allemande y participerent.",
+          "es": "La batalla de Jutlandia duro del 31 de mayo al 1 de junio. Participaron las principales flotas de combate britanica y alemana.",
+          "it": "La battaglia dello Jutland duro dal 31 maggio al 1 giugno. Vi parteciparono le principali flotte da battaglia britannica e tedesca.",
+          "pt": "A Batalha da Jutlandia durou de 31 de maio a 1 de junho. Participaram as principais frotas de batalha britanica e alema.",
+          "nl": "De Slag bij Jutland duurde van 31 mei tot 1 juni. De belangrijkste Britse en Duitse slagvloten namen eraan deel.",
+          "pl": "Bitwa jutlandzka trwala od 31 maja do 1 czerwca. Wziely w niej udzial glowne floty bojowe Wielkiej Brytanii i Niemiec.",
+          "tr": "Jutland Muharebesi 31 Mayis'tan 1 Haziran'a kadar surdu. Britanya ve Almanya'nin ana savas filolari katildi.",
+          "zh": "日德兰海战从5月31日持续到6月1日。英国和德国的主力战斗舰队参战。",
+          "ja": "ユトランド沖海戦は5月31日から6月1日まで続きました。イギリスとドイツの主力戦闘艦隊が参加しました。",
+          "ko": "유틀란트 해전은 5월 31일부터 6월 1일까지 이어졌습니다. 영국과 독일의 주력 전투 함대가 참가했습니다.",
+          "hi": "जटलैंड की लड़ाई 31 मई से 1 जून तक चली। इसमें ब्रिटिश और जर्मन मुख्य युद्ध बेड़े शामिल थे।",
+          "ar": "استمرت معركة يوتلاند من 31 مايو الى 1 يونيو. وشاركت فيها القوى الرئيسية للاسطولين البريطاني والالماني."
         },
         "importance": {
           "ru": "После него германский надводный флот уже не смог изменить баланс сил на море.",
           "de": "Danach konnte die deutsche Hochseeflotte das Kräfteverhältnis zur See nicht mehr wenden.",
-          "en": "Afterward, Germany's surface fleet could no longer change the balance at sea."
+          "en": "Afterward, Germany's surface fleet could no longer change the balance at sea.",
+          "fr": "Par la suite, la flotte de surface allemande ne put plus modifier l'equilibre des forces en mer.",
+          "es": "Despues, la flota de superficie alemana ya no pudo cambiar el equilibrio de fuerzas en el mar.",
+          "it": "In seguito, la flotta di superficie tedesca non riusci piu a cambiare l'equilibrio in mare.",
+          "pt": "Depois disso, a frota de superficie alema ja nao conseguiu mudar o equilibrio no mar.",
+          "nl": "Daarna kon de Duitse oppervlaktevloot de machtsverhoudingen op zee niet meer veranderen.",
+          "pl": "Potem niemiecka flota nawodna nie mogla juz zmienic ukladu sil na morzu.",
+          "tr": "Bundan sonra Almanya'nin yuzey filosu denizdeki guc dengesini artik degistiremedi.",
+          "zh": "此后，德国水面舰队再也无法改变海上力量平衡。",
+          "ja": "その後、ドイツの水上艦隊は海上の勢力バランスを変えることができなくなりました。",
+          "ko": "그 뒤 독일 수상함대는 더 이상 바다의 세력 균형을 바꿀 수 없었습니다.",
+          "hi": "इसके बाद जर्मनी का सतही बेड़ा समुद्र में शक्ति संतुलन नहीं बदल सका।",
+          "ar": "بعد ذلك لم يعد الاسطول السطحي الالماني قادرا على تغيير ميزان القوى في البحر."
         }
       }
     ],
@@ -72,17 +180,53 @@
         "title": {
           "ru": "Родился Юлиус Рихард Петри",
           "de": "Julius Richard Petri wird geboren",
-          "en": "Julius Richard Petri is born"
+          "en": "Julius Richard Petri is born",
+          "fr": "Naissance de Julius Richard Petri",
+          "es": "Nace Julius Richard Petri",
+          "it": "Nasce Julius Richard Petri",
+          "pt": "Nasce Julius Richard Petri",
+          "nl": "Julius Richard Petri wordt geboren",
+          "pl": "Rodzi sie Julius Richard Petri",
+          "tr": "Julius Richard Petri dogar",
+          "zh": "尤利乌斯·理查德·佩特里出生",
+          "ja": "ユリウス・リヒャルト・ペトリが生まれる",
+          "ko": "율리우스 리하르트 페트리가 태어나다",
+          "hi": "यूलियस रिखार्ड पेट्री का जन्म",
+          "ar": "مولد يوليوس ريشارد بتري"
         },
         "description": {
           "ru": "Немецкий микробиолог родился в Бармене, сегодня это часть Вупперталя. Его имя носит чашка Петри, один из самых узнаваемых предметов лаборатории.",
           "de": "Der deutsche Mikrobiologe wurde in Barmen geboren, heute ein Stadtteil von Wuppertal. Nach ihm ist die Petrischale benannt, eines der bekanntesten Laborgeräte.",
-          "en": "The German microbiologist was born in Barmen, now part of Wuppertal. The Petri dish, one of the best-known laboratory tools, is named after him."
+          "en": "The German microbiologist was born in Barmen, now part of Wuppertal. The Petri dish, one of the best-known laboratory tools, is named after him.",
+          "fr": "Le microbiologiste allemand naquit a Barmen, aujourd'hui partie de Wuppertal. La boite de Petri, l'un des instruments de laboratoire les plus connus, porte son nom.",
+          "es": "El microbiologo aleman nacio en Barmen, hoy parte de Wuppertal. La placa de Petri, una de las herramientas de laboratorio mas conocidas, lleva su nombre.",
+          "it": "Il microbiologo tedesco nacque a Barmen, oggi parte di Wuppertal. La piastra di Petri, uno degli strumenti da laboratorio piu noti, porta il suo nome.",
+          "pt": "O microbiologista alemao nasceu em Barmen, hoje parte de Wuppertal. A placa de Petri, uma das ferramentas de laboratorio mais conhecidas, leva seu nome.",
+          "nl": "De Duitse microbioloog werd geboren in Barmen, nu deel van Wuppertal. De petrischaal, een van de bekendste laboratoriuminstrumenten, is naar hem genoemd.",
+          "pl": "Niemiecki mikrobiolog urodzil sie w Barmen, dzis czesci Wuppertalu. Szalka Petriego, jedno z najbardziej znanych narzedzi laboratoryjnych, nosi jego nazwisko.",
+          "tr": "Alman mikrobiyolog Barmen'de dogdu; burasi bugun Wuppertal'in bir parcasidir. En taninmis laboratuvar araclarindan biri olan Petri kabi onun adini tasir.",
+          "zh": "这位德国微生物学家出生于巴门，如今那里是伍珀塔尔的一部分。最著名的实验室工具之一培养皿以他的名字命名。",
+          "ja": "このドイツ人微生物学者は、現在はヴッパータールの一部であるバルメンで生まれました。最もよく知られた実験器具の一つであるペトリ皿は、彼にちなんで名付けられました。",
+          "ko": "이 독일 미생물학자는 오늘날 부퍼탈의 일부인 바르멘에서 태어났습니다. 가장 잘 알려진 실험실 도구 중 하나인 페트리 접시는 그의 이름을 따랐습니다.",
+          "hi": "जर्मन सूक्ष्मजीवविज्ञानी का जन्म बार्मेन में हुआ, जो आज वुप्पर्टाल का हिस्सा है। प्रयोगशाला के सबसे पहचाने जाने वाले उपकरणों में से एक पेट्री डिश का नाम उन्हीं पर है।",
+          "ar": "وُلد عالم الاحياء الدقيقة الالماني في بارمن، وهي اليوم جزء من فوبرتال. وتحمل طبق بتري، وهو من اشهر ادوات المختبر، اسمه."
         },
         "importance": {
           "ru": "Без таких простых лабораторных инструментов трудно представить современную микробиологию.",
           "de": "Ohne solche einfachen Laborgeräte ist moderne Mikrobiologie kaum vorstellbar.",
-          "en": "Modern microbiology is hard to imagine without such simple laboratory tools."
+          "en": "Modern microbiology is hard to imagine without such simple laboratory tools.",
+          "fr": "Il est difficile d'imaginer la microbiologie moderne sans de tels outils de laboratoire simples.",
+          "es": "Es dificil imaginar la microbiologia moderna sin herramientas de laboratorio tan simples.",
+          "it": "E difficile immaginare la microbiologia moderna senza strumenti di laboratorio cosi semplici.",
+          "pt": "E dificil imaginar a microbiologia moderna sem ferramentas de laboratorio tao simples.",
+          "nl": "Moderne microbiologie is moeilijk voor te stellen zonder zulke eenvoudige laboratoriuminstrumenten.",
+          "pl": "Trudno wyobrazic sobie wspolczesna mikrobiologie bez tak prostych narzedzi laboratoryjnych.",
+          "tr": "Modern mikrobiyolojiyi boyle basit laboratuvar araclari olmadan hayal etmek zordur.",
+          "zh": "没有这样简单的实验室工具，很难想象现代微生物学。",
+          "ja": "このような単純な実験器具なしに、現代の微生物学を想像するのは難しいです。",
+          "ko": "이런 단순한 실험실 도구 없이 현대 미생물학을 상상하기는 어렵습니다.",
+          "hi": "ऐसे सरल प्रयोगशाला उपकरणों के बिना आधुनिक सूक्ष्मजीवविज्ञान की कल्पना कठिन है।",
+          "ar": "يصعب تخيل علم الاحياء الدقيقة الحديث من دون ادوات مختبرية بسيطة كهذه."
         }
       },
       {
@@ -91,17 +235,53 @@
         "title": {
           "ru": "Родился Райнер Вернер Фассбиндер",
           "de": "Rainer Werner Fassbinder wird geboren",
-          "en": "Rainer Werner Fassbinder is born"
+          "en": "Rainer Werner Fassbinder is born",
+          "fr": "Naissance de Rainer Werner Fassbinder",
+          "es": "Nace Rainer Werner Fassbinder",
+          "it": "Nasce Rainer Werner Fassbinder",
+          "pt": "Nasce Rainer Werner Fassbinder",
+          "nl": "Rainer Werner Fassbinder wordt geboren",
+          "pl": "Rodzi sie Rainer Werner Fassbinder",
+          "tr": "Rainer Werner Fassbinder dogar",
+          "zh": "赖纳·维尔纳·法斯宾德出生",
+          "ja": "ライナー・ヴェルナー・ファスビンダーが生まれる",
+          "ko": "라이너 베르너 파스빈더가 태어나다",
+          "hi": "राइनर वर्नर फासबिंदर का जन्म",
+          "ar": "مولد راينر فيرنر فاسبيندر"
         },
         "description": {
           "ru": "Будущий режиссёр, актёр и драматург родился в Бад-Вёрисхофене в Баварии. Он стал одной из ключевых фигур Нового немецкого кино.",
           "de": "Der spätere Regisseur, Schauspieler und Dramatiker wurde in Bad Wörishofen in Bayern geboren. Er wurde zu einer Schlüsselfigur des Neuen Deutschen Films.",
-          "en": "The future director, actor and playwright was born in Bad Wörishofen, Bavaria. He became a key figure of New German Cinema."
+          "en": "The future director, actor and playwright was born in Bad Wörishofen, Bavaria. He became a key figure of New German Cinema.",
+          "fr": "Le futur realisateur, acteur et dramaturge naquit a Bad Woerishofen, en Baviere. Il devint une figure majeure du Nouveau cinema allemand.",
+          "es": "El futuro director, actor y dramaturgo nacio en Bad Woerishofen, Baviera. Se convirtio en una figura clave del Nuevo Cine Aleman.",
+          "it": "Il futuro regista, attore e drammaturgo nacque a Bad Woerishofen, in Baviera. Divenne una figura chiave del Nuovo cinema tedesco.",
+          "pt": "O futuro diretor, ator e dramaturgo nasceu em Bad Woerishofen, na Baviera. Tornou-se uma figura-chave do Novo Cinema Alemao.",
+          "nl": "De latere regisseur, acteur en toneelschrijver werd geboren in Bad Woerishofen in Beieren. Hij werd een sleutelfiguur van de Nieuwe Duitse Film.",
+          "pl": "Przyszly rezyser, aktor i dramaturg urodzil sie w Bad Woerishofen w Bawarii. Stal sie kluczowa postacia Nowego Kina Niemieckiego.",
+          "tr": "Gelecegin yonetmeni, oyuncusu ve oyun yazari Bavyera'daki Bad Woerishofen'de dogdu. Yeni Alman Sinemasi'nin kilit isimlerinden biri oldu.",
+          "zh": "这位后来的导演、演员和剧作家出生于巴伐利亚的巴特沃里斯霍芬。他成为新德国电影的关键人物之一。",
+          "ja": "後の映画監督、俳優、劇作家はバイエルン州バート・ヴェリスホーフェンで生まれました。彼はニュー・ジャーマン・シネマの中心人物となりました。",
+          "ko": "훗날 감독, 배우, 극작가가 된 그는 바이에른의 바트 뵈리스호펜에서 태어났습니다. 그는 뉴 저먼 시네마의 핵심 인물이 되었습니다.",
+          "hi": "भविष्य के निर्देशक, अभिनेता और नाटककार का जन्म बवेरिया के Bad Woerishofen में हुआ। वे न्यू जर्मन सिनेमा की प्रमुख हस्ती बने।",
+          "ar": "وُلد المخرج والممثل والكاتب المسرحي المستقبلي في باد فوريسهوفن في بافاريا. واصبح شخصية محورية في السينما الالمانية الجديدة."
         },
         "importance": {
           "ru": "Фассбиндер сделал немецкое кино заметным далеко за пределами Германии.",
           "de": "Fassbinder machte das deutsche Kino weit über Deutschland hinaus sichtbar.",
-          "en": "Fassbinder made German cinema visible far beyond Germany."
+          "en": "Fassbinder made German cinema visible far beyond Germany.",
+          "fr": "Fassbinder rendit le cinema allemand visible bien au-dela de l'Allemagne.",
+          "es": "Fassbinder hizo visible el cine aleman mucho mas alla de Alemania.",
+          "it": "Fassbinder rese il cinema tedesco visibile ben oltre la Germania.",
+          "pt": "Fassbinder tornou o cinema alemao visivel muito alem da Alemanha.",
+          "nl": "Fassbinder maakte de Duitse cinema zichtbaar tot ver buiten Duitsland.",
+          "pl": "Fassbinder sprawil, ze kino niemieckie stalo sie widoczne daleko poza Niemcami.",
+          "tr": "Fassbinder Alman sinemasini Almanya'nin cok otesinde gorunur kiladi.",
+          "zh": "法斯宾德让德国电影在德国之外也广为人知。",
+          "ja": "ファスビンダーはドイツ映画をドイツ国外でも広く知られるものにしました。",
+          "ko": "파스빈더는 독일 영화를 독일 밖에서도 눈에 띄게 만들었습니다.",
+          "hi": "फासबिंदर ने जर्मन सिनेमा को जर्मनी से बहुत दूर तक पहचान दिलाई।",
+          "ar": "جعل فاسبيندر السينما الالمانية مرئية بعيدا خارج المانيا."
         }
       }
     ],
@@ -112,17 +292,53 @@
         "title": {
           "ru": "Первый финал чемпионата Германии по футболу",
           "de": "Erstes Endspiel um die deutsche Fußballmeisterschaft",
-          "en": "First German football championship final"
+          "en": "First German football championship final",
+          "fr": "Premiere finale du championnat allemand de football",
+          "es": "Primera final del campeonato aleman de futbol",
+          "it": "Prima finale del campionato tedesco di calcio",
+          "pt": "Primeira final do campeonato alemao de futebol",
+          "nl": "Eerste finale om het Duitse voetbalkampioenschap",
+          "pl": "Pierwszy final pilkarskich mistrzostw Niemiec",
+          "tr": "Ilk Alman futbol sampiyonasi finali",
+          "zh": "首届德国足球锦标赛决赛",
+          "ja": "初のドイツ・サッカー選手権決勝",
+          "ko": "첫 독일 축구 선수권 결승",
+          "hi": "पहला जर्मन फुटबॉल चैंपियनशिप फाइनल",
+          "ar": "اول نهائي لبطولة المانيا لكرة القدم"
         },
         "description": {
           "ru": "В Альтоне VfB Leipzig победил DFC Prag со счётом 7:2. Так появился первый официальный чемпион Германии по футболу.",
           "de": "In Altona besiegte der VfB Leipzig den DFC Prag mit 7:2. Damit gab es den ersten offiziellen deutschen Fußballmeister.",
-          "en": "In Altona, VfB Leipzig defeated DFC Prag 7–2. Germany had its first official national football champion."
+          "en": "In Altona, VfB Leipzig defeated DFC Prag 7–2. Germany had its first official national football champion.",
+          "fr": "A Altona, le VfB Leipzig battit le DFC Prag 7-2. L'Allemagne eut ainsi son premier champion national officiel de football.",
+          "es": "En Altona, el VfB Leipzig vencio al DFC Prag por 7-2. Alemania tuvo asi su primer campeon nacional oficial de futbol.",
+          "it": "Ad Altona, il VfB Leipzig sconfisse il DFC Prag 7-2. La Germania ebbe cosi il suo primo campione nazionale ufficiale di calcio.",
+          "pt": "Em Altona, o VfB Leipzig derrotou o DFC Prag por 7-2. A Alemanha teve seu primeiro campeao nacional oficial de futebol.",
+          "nl": "In Altona versloeg VfB Leipzig DFC Prag met 7-2. Duitsland had daarmee zijn eerste officiele nationale voetbalkampioen.",
+          "pl": "W Altonie VfB Leipzig pokonal DFC Prag 7-2. Niemcy mialy pierwszego oficjalnego mistrza kraju w pilce noznej.",
+          "tr": "Altona'da VfB Leipzig, DFC Prag'i 7-2 yendi. Almanya ilk resmi ulusal futbol sampiyonuna kavustu.",
+          "zh": "在阿尔托纳，VfB莱比锡以7比2击败DFC布拉格。德国由此产生了第一位官方全国足球冠军。",
+          "ja": "アルトナでVfBライプツィヒがDFCプラハを7-2で破りました。これによりドイツ初の公式全国サッカー王者が誕生しました。",
+          "ko": "알토나에서 VfB 라이프치히가 DFC 프라그를 7-2로 이겼습니다. 독일에는 첫 공식 전국 축구 챔피언이 생겼습니다.",
+          "hi": "अल्टोना में VfB Leipzig ने DFC Prag को 7-2 से हराया। जर्मनी को पहला आधिकारिक राष्ट्रीय फुटबॉल चैंपियन मिला।",
+          "ar": "في التونا هزم VfB Leipzig فريق DFC Prag بنتيجة 7-2. وهكذا حصلت المانيا على اول بطل وطني رسمي في كرة القدم."
         },
         "importance": {
           "ru": "Это отправная точка истории немецких футбольных чемпионатов.",
           "de": "Das ist der Ausgangspunkt der deutschen Fußballmeisterschaften.",
-          "en": "It marks the starting point of German national football championships."
+          "en": "It marks the starting point of German national football championships.",
+          "fr": "Cela marque le point de depart des championnats nationaux allemands de football.",
+          "es": "Marca el punto de partida de los campeonatos nacionales alemanes de futbol.",
+          "it": "Segna il punto di partenza dei campionati nazionali tedeschi di calcio.",
+          "pt": "Isso marca o ponto de partida dos campeonatos nacionais alemaes de futebol.",
+          "nl": "Het markeert het beginpunt van de Duitse nationale voetbalkampioenschappen.",
+          "pl": "To punkt wyjscia historii niemieckich mistrzostw kraju w pilce noznej.",
+          "tr": "Bu, Alman ulusal futbol sampiyonalarinin baslangic noktasidir.",
+          "zh": "这标志着德国全国足球锦标赛历史的起点。",
+          "ja": "これはドイツ全国サッカー選手権の出発点を示しています。",
+          "ko": "이는 독일 전국 축구 선수권의 출발점을 표시합니다.",
+          "hi": "यह जर्मन राष्ट्रीय फुटबॉल चैंपियनशिप की शुरुआत का बिंदु है।",
+          "ar": "يمثل ذلك نقطة انطلاق بطولات المانيا الوطنية لكرة القدم."
         }
       }
     ],
@@ -133,17 +349,53 @@
         "title": {
           "ru": "В первом немецком финале играл клуб из Праги",
           "de": "Im ersten deutschen Finale spielte ein Klub aus Prag",
-          "en": "A Prague club played in the first German final"
+          "en": "A Prague club played in the first German final",
+          "fr": "Un club de Prague joua la premiere finale allemande",
+          "es": "Un club de Praga jugo la primera final alemana",
+          "it": "Un club di Praga gioco nella prima finale tedesca",
+          "pt": "Um clube de Praga jogou a primeira final alema",
+          "nl": "Een club uit Praag speelde in de eerste Duitse finale",
+          "pl": "Klub z Pragi zagral w pierwszym niemieckim finale",
+          "tr": "Ilk Alman finalinde Prag'dan bir kulup oynadi",
+          "zh": "布拉格俱乐部参加了首场德国决赛",
+          "ja": "初のドイツ決勝にプラハのクラブが出場",
+          "ko": "프라하 클럽이 첫 독일 결승에 출전하다",
+          "hi": "पहले जर्मन फाइनल में प्राग का क्लब खेला",
+          "ar": "ناد من براغ لعب في اول نهائي الماني"
         },
         "description": {
           "ru": "Соперником VfB Leipzig был DFC Prag. В раннем футболе границы турниров ещё выглядели непривычно для современного зрителя.",
           "de": "Gegner des VfB Leipzig war der DFC Prag. Im frühen Fußball wirkten Turniergrenzen noch anders als heute.",
-          "en": "VfB Leipzig's opponent was DFC Prag. Early football tournaments had borders that look unusual today."
+          "en": "VfB Leipzig's opponent was DFC Prag. Early football tournaments had borders that look unusual today.",
+          "fr": "L'adversaire du VfB Leipzig etait le DFC Prag. Les premiers tournois de football avaient des frontieres qui paraissent aujourd'hui inhabituelles.",
+          "es": "El rival del VfB Leipzig fue el DFC Prag. Los primeros torneos de futbol tenian fronteras que hoy parecen inusuales.",
+          "it": "L'avversario del VfB Leipzig era il DFC Prag. I primi tornei di calcio avevano confini che oggi sembrano insoliti.",
+          "pt": "O adversario do VfB Leipzig foi o DFC Prag. Os primeiros torneios de futebol tinham fronteiras que hoje parecem incomuns.",
+          "nl": "De tegenstander van VfB Leipzig was DFC Prag. Vroege voetbaltoernooien hadden grenzen die vandaag ongewoon lijken.",
+          "pl": "Rywalem VfB Leipzig byl DFC Prag. Wczesne turnieje pilkarskie mialy granice, ktore dzis wygladaja nietypowo.",
+          "tr": "VfB Leipzig'in rakibi DFC Prag'di. Erken futbol turnuvalarinin sinirlari bugun alisilmadik gorunur.",
+          "zh": "VfB莱比锡的对手是DFC布拉格。早期足球赛事的边界在今天看来很不寻常。",
+          "ja": "VfBライプツィヒの相手はDFCプラハでした。初期のサッカー大会の境界は、今日の目には珍しく見えます。",
+          "ko": "VfB 라이프치히의 상대는 DFC 프라그였습니다. 초기 축구 대회의 경계는 오늘날 보기에는 낯설어 보입니다.",
+          "hi": "VfB Leipzig का प्रतिद्वंद्वी DFC Prag था। शुरुआती फुटबॉल टूर्नामेंटों की सीमाएँ आज अजीब लगती हैं।",
+          "ar": "كان خصم VfB Leipzig هو DFC Prag. وكانت حدود بطولات كرة القدم المبكرة تبدو غير مألوفة اليوم."
         },
         "importance": {
           "ru": "Хорошее напоминание, что немецкий футбол начинался в очень пёстрой спортивной среде.",
           "de": "Es erinnert daran, dass der deutsche Fußball in einem sehr vielfältigen Umfeld begann.",
-          "en": "It is a reminder that German football began in a very mixed sporting environment."
+          "en": "It is a reminder that German football began in a very mixed sporting environment.",
+          "fr": "C'est un rappel que le football allemand commenca dans un milieu sportif tres varie.",
+          "es": "Es un recordatorio de que el futbol aleman comenzo en un entorno deportivo muy variado.",
+          "it": "Ricorda che il calcio tedesco nacque in un ambiente sportivo molto vario.",
+          "pt": "E um lembrete de que o futebol alemao comecou em um ambiente esportivo muito variado.",
+          "nl": "Het herinnert eraan dat Duits voetbal begon in een zeer gemengde sportomgeving.",
+          "pl": "To przypomnienie, ze niemiecka pilka nozna zaczynala w bardzo roznorodnym srodowisku sportowym.",
+          "tr": "Bu, Alman futbolunun cok cesitli bir spor ortaminda basladigini hatirlatir.",
+          "zh": "这提醒人们，德国足球起步于一个非常多元的体育环境。",
+          "ja": "これは、ドイツサッカーが非常に多様なスポーツ環境の中で始まったことを思い出させます。",
+          "ko": "이는 독일 축구가 매우 다양한 스포츠 환경에서 시작되었음을 상기시킵니다.",
+          "hi": "यह याद दिलाता है कि जर्मन फुटबॉल बहुत विविध खेल वातावरण में शुरू हुआ था।",
+          "ar": "انه تذكير بان كرة القدم الالمانية بدأت في بيئة رياضية شديدة التنوع."
         }
       }
     ]
@@ -151,7 +403,19 @@
   "fact": {
     "ru": "31 мая хорошо показывает разные стороны Германии: революционный парламент, морская война, лабораторная наука, авторское кино и ранний футбол.",
     "de": "Der 31. Mai zeigt viele Seiten Deutschlands: Revolutionsparlament, Seekrieg, Laborwissenschaft, Autorenkino und frühen Fußball.",
-    "en": "31 May shows many sides of Germany: revolutionary parliament, naval war, laboratory science, auteur cinema and early football."
+    "en": "31 May shows many sides of Germany: revolutionary parliament, naval war, laboratory science, auteur cinema and early football.",
+    "fr": "Le 31 mai montre de nombreuses facettes de l'Allemagne : parlement revolutionnaire, guerre navale, science de laboratoire, cinema d'auteur et debuts du football.",
+    "es": "El 31 de mayo muestra muchas caras de Alemania: parlamento revolucionario, guerra naval, ciencia de laboratorio, cine de autor y futbol temprano.",
+    "it": "Il 31 maggio mostra molti lati della Germania: parlamento rivoluzionario, guerra navale, scienza di laboratorio, cinema d'autore e primo calcio.",
+    "pt": "31 de maio mostra muitos lados da Alemanha: parlamento revolucionario, guerra naval, ciencia de laboratorio, cinema de autor e futebol inicial.",
+    "nl": "31 mei toont veel kanten van Duitsland: revolutionair parlement, zeeoorlog, laboratoriumwetenschap, auteurscinema en vroeg voetbal.",
+    "pl": "31 maja pokazuje wiele stron Niemiec: parlament rewolucyjny, wojne morska, nauke laboratoryjna, kino autorskie i wczesna pilke nozna.",
+    "tr": "31 Mayis Almanya'nin pek cok yuzunu gosterir: devrimci parlamento, deniz savasi, laboratuvar bilimi, auteur sinemasi ve erken futbol.",
+    "zh": "5月31日展现了德国的许多侧面：革命议会、海战、实验室科学、作者电影和早期足球。",
+    "ja": "5月31日は、革命議会、海戦、実験科学、作家主義映画、初期サッカーなど、ドイツの多くの側面を示しています。",
+    "ko": "5월 31일은 혁명 의회, 해전, 실험실 과학, 작가주의 영화, 초기 축구 등 독일의 여러 면을 보여 줍니다.",
+    "hi": "31 मई जर्मनी के कई रूप दिखाता है: क्रांतिकारी संसद, नौसैनिक युद्ध, प्रयोगशाला विज्ञान, लेखक-प्रधान सिनेमा और शुरुआती फुटबॉल।",
+    "ar": "يظهر 31 مايو جوانب كثيرة من المانيا: برلمان ثوري، حرب بحرية، علم المختبرات، سينما المؤلف وبدايات كرة القدم."
   },
   "sources": [
     {

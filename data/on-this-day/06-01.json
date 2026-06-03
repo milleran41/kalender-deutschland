@@ -11,17 +11,53 @@
     "title": {
       "ru": "Создан Европейский центральный банк",
       "de": "Die Europaeische Zentralbank wird gegruendet",
-      "en": "The European Central Bank is established"
+      "en": "The European Central Bank is established",
+      "fr": "La Banque centrale europeenne est creee",
+      "es": "Se crea el Banco Central Europeo",
+      "it": "Viene istituita la Banca centrale europea",
+      "pt": "E criado o Banco Central Europeu",
+      "nl": "De Europese Centrale Bank wordt opgericht",
+      "pl": "Powstaje Europejski Bank Centralny",
+      "tr": "Avrupa Merkez Bankasi kurulur",
+      "zh": "欧洲中央银行成立",
+      "ja": "欧州中央銀行が設立される",
+      "ko": "유럽중앙은행이 설립되다",
+      "hi": "यूरोपीय केंद्रीय बैंक की स्थापना",
+      "ar": "تأسيس البنك المركزي الاوروبي"
     },
     "description": {
       "ru": "1 июня 1998 года был создан Европейский центральный банк. Его штаб-квартира находится во Франкфурте-на-Майне.",
       "de": "Am 1. Juni 1998 wurde die Europaeische Zentralbank gegruendet. Ihr Sitz befindet sich in Frankfurt am Main.",
-      "en": "On 1 June 1998, the European Central Bank was established. Its headquarters are in Frankfurt am Main."
+      "en": "On 1 June 1998, the European Central Bank was established. Its headquarters are in Frankfurt am Main.",
+      "fr": "Le 1er juin 1998, la Banque centrale europeenne fut creee. Son siege se trouve a Francfort-sur-le-Main.",
+      "es": "El 1 de junio de 1998 se creo el Banco Central Europeo. Su sede esta en Francfort del Meno.",
+      "it": "Il 1 giugno 1998 fu istituita la Banca centrale europea. La sua sede si trova a Francoforte sul Meno.",
+      "pt": "Em 1 de junho de 1998, foi criado o Banco Central Europeu. Sua sede fica em Frankfurt am Main.",
+      "nl": "Op 1 juni 1998 werd de Europese Centrale Bank opgericht. Het hoofdkantoor staat in Frankfurt am Main.",
+      "pl": "1 czerwca 1998 roku powstal Europejski Bank Centralny. Jego siedziba znajduje sie we Frankfurcie nad Menem.",
+      "tr": "1 Haziran 1998'de Avrupa Merkez Bankasi kuruldu. Merkezi Frankfurt am Main'dedir.",
+      "zh": "1998年6月1日，欧洲中央银行成立。其总部位于美因河畔法兰克福。",
+      "ja": "1998年6月1日、欧州中央銀行が設立されました。本部はフランクフルト・アム・マインにあります。",
+      "ko": "1998년 6월 1일 유럽중앙은행이 설립되었습니다. 본부는 프랑크푸르트암마인에 있습니다.",
+      "hi": "1 जून 1998 को यूरोपीय केंद्रीय बैंक की स्थापना हुई। इसका मुख्यालय फ्रैंकफर्ट आम माइन में है।",
+      "ar": "في 1 يونيو 1998 تأسس البنك المركزي الاوروبي. ويقع مقره في فرانكفورت ام ماين."
     },
     "importance": {
       "ru": "Франкфурт стал одним из главных финансовых центров Европы эпохи евро.",
       "de": "Frankfurt wurde zu einem der wichtigsten Finanzzentren Europas im Euro-Zeitalter.",
-      "en": "Frankfurt became one of Europe's key financial centers in the age of the euro."
+      "en": "Frankfurt became one of Europe's key financial centers in the age of the euro.",
+      "fr": "Francfort devint l'un des principaux centres financiers d'Europe a l'epoque de l'euro.",
+      "es": "Francfort se convirtio en uno de los principales centros financieros de Europa en la era del euro.",
+      "it": "Francoforte divenne uno dei principali centri finanziari d'Europa nell'era dell'euro.",
+      "pt": "Frankfurt tornou-se um dos principais centros financeiros da Europa na era do euro.",
+      "nl": "Frankfurt werd een van Europa's belangrijkste financiele centra in het tijdperk van de euro.",
+      "pl": "Frankfurt stal sie jednym z najwazniejszych centrow finansowych Europy w epoce euro.",
+      "tr": "Frankfurt, euro caginda Avrupa'nin kilit finans merkezlerinden biri oldu.",
+      "zh": "法兰克福成为欧元时代欧洲最重要的金融中心之一。",
+      "ja": "フランクフルトはユーロ時代のヨーロッパを代表する金融中心地の一つとなりました。",
+      "ko": "프랑크푸르트는 유로 시대 유럽의 핵심 금융 중심지 중 하나가 되었습니다.",
+      "hi": "यूरो युग में फ्रैंकफर्ट यूरोप के प्रमुख वित्तीय केंद्रों में से एक बन गया।",
+      "ar": "اصبحت فرانكفورت احد المراكز المالية الرئيسية في اوروبا في عصر اليورو."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Подготовка к евро",
           "de": "Vorbereitung auf den Euro",
-          "en": "Preparing for the euro"
+          "en": "Preparing for the euro",
+          "fr": "Preparation de l'euro",
+          "es": "Preparacion para el euro",
+          "it": "Preparazione all'euro",
+          "pt": "Preparacao para o euro",
+          "nl": "Voorbereiding op de euro",
+          "pl": "Przygotowania do euro",
+          "tr": "Euroya hazirlik",
+          "zh": "为欧元做准备",
+          "ja": "ユーロへの準備",
+          "ko": "유로 준비",
+          "hi": "यूरो की तैयारी",
+          "ar": "الاستعداد لليورو"
         },
         "description": {
           "ru": "ЕЦБ должен был подготовить запуск единой валюты и отвечать за денежную политику еврозоны. Это был технически сложный и политически важный проект.",
           "de": "Die EZB sollte die Einfuehrung der gemeinsamen Waehrung vorbereiten und die Geldpolitik des Euroraums verantworten. Das war technisch anspruchsvoll und politisch wichtig.",
-          "en": "The ECB was to prepare the launch of the common currency and take charge of euro-area monetary policy. It was technically complex and politically important."
+          "en": "The ECB was to prepare the launch of the common currency and take charge of euro-area monetary policy. It was technically complex and politically important.",
+          "fr": "La BCE devait preparer le lancement de la monnaie commune et prendre en charge la politique monetaire de la zone euro. C'etait un projet techniquement complexe et politiquement important.",
+          "es": "El BCE debia preparar el lanzamiento de la moneda comun y encargarse de la politica monetaria de la zona euro. Fue un proyecto tecnicamente complejo y politicamente importante.",
+          "it": "La BCE doveva preparare il lancio della moneta comune e assumere la responsabilita della politica monetaria dell'area euro. Era un progetto tecnicamente complesso e politicamente importante.",
+          "pt": "O BCE deveria preparar o lancamento da moeda comum e assumir a politica monetaria da zona do euro. Era um projeto tecnicamente complexo e politicamente importante.",
+          "nl": "De ECB moest de invoering van de gemeenschappelijke munt voorbereiden en verantwoordelijk worden voor het monetaire beleid van de eurozone. Dat was technisch complex en politiek belangrijk.",
+          "pl": "EBC mial przygotowac wprowadzenie wspolnej waluty i odpowiadac za polityke pieniezna strefy euro. Byl to projekt technicznie zlozony i politycznie wazny.",
+          "tr": "AMB ortak para biriminin baslatilmasini hazirlayacak ve euro bolgesi para politikasindan sorumlu olacaktı. Bu teknik olarak karmasik ve siyasi olarak onemli bir projeydi.",
+          "zh": "欧洲央行要准备共同货币的启动，并负责欧元区货币政策。这是一个技术复杂且政治上重要的项目。",
+          "ja": "ECBは共通通貨の導入を準備し、ユーロ圏の金融政策を担うことになっていました。それは技術的に複雑で、政治的にも重要な計画でした。",
+          "ko": "ECB는 공동 통화의 출범을 준비하고 유로 지역 통화정책을 맡아야 했습니다. 이는 기술적으로 복잡하고 정치적으로 중요한 프로젝트였습니다.",
+          "hi": "ECB को साझा मुद्रा शुरू करने की तैयारी करनी थी और यूरो क्षेत्र की मौद्रिक नीति संभालनी थी। यह तकनीकी रूप से जटिल और राजनीतिक रूप से महत्वपूर्ण परियोजना थी।",
+          "ar": "كان على البنك المركزي الاوروبي ان يجهز اطلاق العملة المشتركة ويتولى السياسة النقدية لمنطقة اليورو. وكان ذلك مشروعا معقدا تقنيا ومهما سياسيا."
         },
         "importance": {
           "ru": "Дата связывает Германию с экономической архитектурой современной Европы.",
           "de": "Das Datum verbindet Deutschland mit der wirtschaftlichen Architektur des heutigen Europa.",
-          "en": "The date links Germany with the economic architecture of modern Europe."
+          "en": "The date links Germany with the economic architecture of modern Europe.",
+          "fr": "Cette date relie l'Allemagne a l'architecture economique de l'Europe moderne.",
+          "es": "La fecha vincula a Alemania con la arquitectura economica de la Europa moderna.",
+          "it": "La data collega la Germania all'architettura economica dell'Europa moderna.",
+          "pt": "A data liga a Alemanha a arquitetura economica da Europa moderna.",
+          "nl": "De datum verbindt Duitsland met de economische architectuur van het moderne Europa.",
+          "pl": "Ta data laczy Niemcy z gospodarcza architektura wspolczesnej Europy.",
+          "tr": "Bu tarih Almanya'yi modern Avrupa'nin ekonomik mimarisiyle iliskilendirir.",
+          "zh": "这个日期把德国同现代欧洲的经济架构联系起来。",
+          "ja": "この日は、ドイツを現代ヨーロッパの経済的構造と結び付けています。",
+          "ko": "이 날짜는 독일을 현대 유럽의 경제 구조와 연결합니다.",
+          "hi": "यह तारीख जर्मनी को आधुनिक यूरोप की आर्थिक संरचना से जोड़ती है।",
+          "ar": "يربط هذا التاريخ المانيا بالهندسة الاقتصادية لاوروبا الحديثة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Евро в безналичной форме стартовал 1 января 1999 года, а наличные появились 1 января 2002 года.",
     "de": "Der Euro startete bargeldlos am 1. Januar 1999, Bargeld folgte am 1. Januar 2002.",
-    "en": "The euro began in non-cash form on 1 January 1999; cash followed on 1 January 2002."
+    "en": "The euro began in non-cash form on 1 January 1999; cash followed on 1 January 2002.",
+    "fr": "L'euro debuta sous forme scripturale le 1er janvier 1999; les especes suivirent le 1er janvier 2002.",
+    "es": "El euro comenzo en forma no fisica el 1 de enero de 1999; el efectivo llego el 1 de enero de 2002.",
+    "it": "L'euro parti in forma non contante il 1 gennaio 1999; il contante arrivo il 1 gennaio 2002.",
+    "pt": "O euro comecou em forma nao monetaria em 1 de janeiro de 1999; o dinheiro em especie veio em 1 de janeiro de 2002.",
+    "nl": "De euro begon giraal op 1 januari 1999; contant geld volgde op 1 januari 2002.",
+    "pl": "Euro ruszylo w formie bezgotowkowej 1 stycznia 1999 roku, a gotowka pojawila sie 1 stycznia 2002 roku.",
+    "tr": "Euro nakitsiz bicimde 1 Ocak 1999'da basladi; nakit para 1 Ocak 2002'de geldi.",
+    "zh": "欧元于1999年1月1日以非现金形式启动；现金于2002年1月1日开始流通。",
+    "ja": "ユーロは1999年1月1日に非現金形態で始まり、現金は2002年1月1日に導入されました。",
+    "ko": "유로는 1999년 1월 1일 비현금 형태로 시작되었고, 현금은 2002년 1월 1일 뒤따랐습니다.",
+    "hi": "यूरो 1 जनवरी 1999 को गैर-नकद रूप में शुरू हुआ; नकद मुद्रा 1 जनवरी 2002 को आई।",
+    "ar": "بدأ اليورو بشكل غير نقدي في 1 يناير 1999، ثم تبعته النقود الورقية والمعدنية في 1 يناير 2002."
   },
   "sources": [
     {
