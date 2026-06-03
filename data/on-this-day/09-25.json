@@ -11,17 +11,53 @@
     "title": {
       "ru": "Аугсбургский религиозный мир",
       "de": "Der Augsburger Religionsfrieden",
-      "en": "The Peace of Augsburg"
+      "en": "The Peace of Augsburg",
+      "fr": "La paix d'Augsbourg",
+      "es": "La Paz de Augsburgo",
+      "it": "La pace di Augusta",
+      "pt": "A Paz de Augsburgo",
+      "nl": "De Godsdienstvrede van Augsburg",
+      "pl": "Pokoj augsburski",
+      "tr": "Augsburg Barisi",
+      "zh": "奥格斯堡宗教和约",
+      "ja": "アウクスブルクの宗教和議",
+      "ko": "아우크스부르크 화의",
+      "hi": "ऑग्सबुर्ग की धार्मिक शांति",
+      "ar": "صلح اوغسبورغ الديني"
     },
     "description": {
       "ru": "25 сентября 1555 года рейхстаг Священной Римской империи в Аугсбурге утвердил религиозный мир. Он создал правовую основу сосуществования католицизма и лютеранства в немецких землях.",
       "de": "Am 25. September 1555 beschloss der Reichstag des Heiligen Roemischen Reiches in Augsburg den Religionsfrieden. Er schuf eine rechtliche Grundlage fuer das Nebeneinander von Katholizismus und Luthertum in den deutschen Laendern.",
-      "en": "On 25 September 1555, the Diet of the Holy Roman Empire at Augsburg promulgated the religious peace. It created a legal basis for the coexistence of Catholicism and Lutheranism in the German lands."
+      "en": "On 25 September 1555, the Diet of the Holy Roman Empire at Augsburg promulgated the religious peace. It created a legal basis for the coexistence of Catholicism and Lutheranism in the German lands.",
+      "fr": "Le 25 septembre 1555, la diete du Saint-Empire romain germanique reunie à Augsbourg adopta la paix religieuse. Elle crea une base juridique pour la coexistence du catholicisme et du lutheranisme dans les terres allemandes.",
+      "es": "El 25 de septiembre de 1555, la Dieta del Sacro Imperio Romano en Augsburgo aprobo la paz religiosa. Creo una base legal para la convivencia del catolicismo y el luteranismo en los territorios alemanes.",
+      "it": "Il 25 settembre 1555 la Dieta del Sacro Romano Impero ad Augusta approvo la pace religiosa. Essa creo una base giuridica per la convivenza di cattolicesimo e luteranesimo nelle terre tedesche.",
+      "pt": "Em 25 de setembro de 1555, a Dieta do Sacro Imperio Romano em Augsburgo aprovou a paz religiosa. Ela criou uma base juridica para a convivencia entre catolicismo e luteranismo nas terras alemas.",
+      "nl": "Op 25 september 1555 stelde de Rijksdag van het Heilige Roomse Rijk in Augsburg de godsdienstvrede vast. Die schiep een juridische basis voor het naast elkaar bestaan van katholicisme en lutheranisme in de Duitse landen.",
+      "pl": "25 wrzesnia 1555 roku sejm Rzeszy Swietego Cesarstwa Rzymskiego w Augsburgu zatwierdzil pokoj religijny. Stworzyl on prawna podstawe wspolistnienia katolicyzmu i luteranizmu w ziemiach niemieckich.",
+      "tr": "25 Eylul 1555'te Kutsal Roma Imparatorlugu'nun Augsburg'daki imparatorluk meclisi dinsel barisi onayladi. Bu, Alman topraklarinda Katoliklik ile Lutheryenligin birlikte var olmasi icin hukuki bir temel olusturdu.",
+      "zh": "1555年9月25日，神圣罗马帝国在奥格斯堡的帝国议会颁布宗教和约。它为德意志地区天主教与路德宗的共存建立了法律基础。",
+      "ja": "1555年9月25日、アウクスブルクの神聖ローマ帝国議会は宗教和議を定めました。これはドイツ諸領邦でカトリックとルター派が共存するための法的基盤を作りました。",
+      "ko": "1555년 9월 25일, 아우크스부르크에서 열린 신성 로마 제국 의회가 종교 화의를 승인했다. 이는 독일 지역에서 가톨릭과 루터교가 공존할 법적 기반을 마련했다.",
+      "hi": "25 सितंबर 1555 को ऑग्सबुर्ग में पवित्र रोमन साम्राज्य की डाइट ने धार्मिक शांति को मंजूरी दी। इसने जर्मन क्षेत्रों में कैथोलिक धर्म और लूथरन धर्म के सह-अस्तित्व के लिए कानूनी आधार बनाया।",
+      "ar": "في 25 سبتمبر 1555 اقر مجلس الرايخ في الامبراطورية الرومانية المقدسة في اوغسبورغ الصلح الديني. وخلق ذلك اساسا قانونيا لتعايش الكاثوليكية واللوثرية في الاراضي الالمانية."
     },
     "importance": {
       "ru": "Это был важный шаг после конфликтов Реформации, хотя он не решил все религиозные противоречия.",
       "de": "Das war ein wichtiger Schritt nach den Konflikten der Reformation, auch wenn er nicht alle religioesen Gegensaetze loeste.",
-      "en": "It was an important step after the conflicts of the Reformation, even though it did not solve all religious tensions."
+      "en": "It was an important step after the conflicts of the Reformation, even though it did not solve all religious tensions.",
+      "fr": "Ce fut une etape importante apres les conflits de la Reforme, meme si elle ne resolut pas toutes les tensions religieuses.",
+      "es": "Fue un paso importante tras los conflictos de la Reforma, aunque no resolvio todas las tensiones religiosas.",
+      "it": "Fu un passo importante dopo i conflitti della Riforma, anche se non risolse tutte le tensioni religiose.",
+      "pt": "Foi um passo importante apos os conflitos da Reforma, embora nao tenha resolvido todas as tensoes religiosas.",
+      "nl": "Het was een belangrijke stap na de conflicten van de Reformatie, ook al loste het niet alle religieuze spanningen op.",
+      "pl": "Byl to wazny krok po konfliktach reformacji, choc nie rozwiazal wszystkich napiec religijnych.",
+      "tr": "Reformasyon catismalarindan sonra onemli bir adimdi, ancak tum dinsel gerilimleri cozmedi.",
+      "zh": "这是宗教改革冲突之后的重要一步，尽管它并未解决所有宗教矛盾。",
+      "ja": "宗教改革の対立の後の重要な一歩でしたが、すべての宗教的緊張を解決したわけではありません。",
+      "ko": "종교개혁 갈등 이후의 중요한 조치였지만, 모든 종교적 긴장을 해결하지는 못했다.",
+      "hi": "यह सुधार आंदोलन के संघर्षों के बाद एक महत्वपूर्ण कदम था, हालांकि इससे सभी धार्मिक तनाव हल नहीं हुए।",
+      "ar": "كان ذلك خطوة مهمة بعد صراعات الاصلاح الديني، رغم انه لم يحل كل التوترات الدينية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Чья власть, того и вера",
           "de": "Wessen Gebiet, dessen Religion",
-          "en": "Whose realm, his religion"
+          "en": "Whose realm, his religion",
+          "fr": "A chaque prince, sa religion",
+          "es": "De quien es el territorio, su religion",
+          "it": "Di chi e il territorio, sua e la religione",
+          "pt": "De quem e o territorio, sua e a religiao",
+          "nl": "Wiens gebied, diens godsdienst",
+          "pl": "Czyja wladza, tego religia",
+          "tr": "Kimin ulkesi, onun dini",
+          "zh": "谁的领地，谁的宗教",
+          "ja": "領主の宗教が領地の宗教",
+          "ko": "영주의 땅에는 영주의 종교",
+          "hi": "जिसकी सत्ता, उसका धर्म",
+          "ar": "من يملك الارض يحدد الدين"
         },
         "description": {
           "ru": "Главный принцип мира часто передают латинской формулой cuius regio, eius religio. Правитель территории выбирал конфессию, а подданные должны были принять её или переселиться.",
           "de": "Der Grundsatz des Friedens wird oft mit der lateinischen Formel cuius regio, eius religio zusammengefasst. Der Landesherr bestimmte die Konfession, die Untertanen mussten sie annehmen oder auswandern.",
-          "en": "The principle of the peace is often summarized by the Latin phrase cuius regio, eius religio. The ruler chose the confession of the territory, and subjects had to accept it or move away."
+          "en": "The principle of the peace is often summarized by the Latin phrase cuius regio, eius religio. The ruler chose the confession of the territory, and subjects had to accept it or move away.",
+          "fr": "Le principe de cette paix est souvent resume par la formule latine cuius regio, eius religio. Le souverain choisissait la confession du territoire, et les sujets devaient l'accepter ou partir.",
+          "es": "El principio de la paz suele resumirse con la formula latina cuius regio, eius religio. El gobernante elegia la confesion del territorio, y los subditos debian aceptarla o marcharse.",
+          "it": "Il principio della pace e spesso riassunto dalla formula latina cuius regio, eius religio. Il sovrano sceglieva la confessione del territorio, e i sudditi dovevano accettarla o trasferirsi.",
+          "pt": "O principio da paz costuma ser resumido pela formula latina cuius regio, eius religio. O governante escolhia a confissao do territorio, e os suditos tinham de aceita-la ou mudar-se.",
+          "nl": "Het beginsel van de vrede wordt vaak samengevat met de Latijnse formule cuius regio, eius religio. De landsheer koos de confessie van het gebied, en onderdanen moesten die aanvaarden of vertrekken.",
+          "pl": "Zasade pokoju czesto streszcza lacinska formula cuius regio, eius religio. Wladca terytorium wybieral wyznanie, a poddani musieli je przyjac albo wyemigrowac.",
+          "tr": "Barisin ilkesi cogu kez Latince cuius regio, eius religio sozuyle ozetlenir. Bolgenin hukumdari mezhebi secer, tebaa da bunu kabul etmek ya da goc etmek zorunda kalirdi.",
+          "zh": "这一和约的原则常用拉丁语cuius regio, eius religio来概括。领地统治者选择该地的信仰，臣民必须接受或迁走。",
+          "ja": "この和議の原則は、しばしばラテン語のcuius regio, eius religioで要約されます。領主が領地の宗派を選び、住民はそれを受け入れるか移住しなければなりませんでした。",
+          "ko": "이 화의의 원칙은 흔히 라틴어 cuius regio, eius religio로 요약된다. 영토의 지배자가 종파를 정했고, 신민은 이를 받아들이거나 떠나야 했다.",
+          "hi": "इस शांति का मुख्य सिद्धांत अक्सर लैटिन सूत्र cuius regio, eius religio से बताया जाता है। क्षेत्र का शासक संप्रदाय चुनता था, और प्रजा को उसे स्वीकार करना या स्थान छोड़ना पड़ता था।",
+          "ar": "غالبا ما يلخص مبدأ هذا الصلح بالعبارة اللاتينية cuius regio, eius religio. فحاكم الاقليم كان يختار المذهب، وعلى الرعايا قبوله او الرحيل."
         },
         "importance": {
           "ru": "Формула показывает, насколько тесно в XVI веке были связаны карта, власть и религия.",
           "de": "Die Formel zeigt, wie eng Karte, Herrschaft und Religion im 16. Jahrhundert verbunden waren.",
-          "en": "The phrase shows how closely map, rule and religion were connected in the 16th century."
+          "en": "The phrase shows how closely map, rule and religion were connected in the 16th century.",
+          "fr": "La formule montre combien carte, pouvoir et religion etaient etroitement lies au XVIe siecle.",
+          "es": "La formula muestra lo estrechamente que estaban unidos mapa, poder y religion en el siglo XVI.",
+          "it": "La formula mostra quanto fossero strettamente legati mappa, potere e religione nel XVI secolo.",
+          "pt": "A formula mostra como mapa, poder e religiao estavam intimamente ligados no seculo XVI.",
+          "nl": "De formule laat zien hoe nauw kaart, heerschappij en godsdienst in de 16e eeuw verbonden waren.",
+          "pl": "Formula pokazuje, jak scisle w XVI wieku byly powiazane mapa, wladza i religia.",
+          "tr": "Bu ifade, 16. yuzyilda harita, iktidar ve dinin ne kadar yakindan bagli oldugunu gosterir.",
+          "zh": "这句话显示了16世纪地图、统治与宗教之间的紧密联系。",
+          "ja": "この言葉は、16世紀に地図、支配、宗教がいかに密接に結びついていたかを示しています。",
+          "ko": "이 표현은 16세기에 지도, 지배, 종교가 얼마나 밀접하게 연결되어 있었는지를 보여준다.",
+          "hi": "यह सूत्र दिखाता है कि 16वीं सदी में नक्शा, सत्ता और धर्म कितने गहरे जुड़े थे।",
+          "ar": "تظهر هذه العبارة مدى ارتباط الخريطة والسلطة والدين في القرن السادس عشر."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Мир был не для всех",
           "de": "Der Frieden galt nicht fuer alle",
-          "en": "The peace did not cover everyone"
+          "en": "The peace did not cover everyone",
+          "fr": "La paix ne concernait pas tout le monde",
+          "es": "La paz no incluia a todos",
+          "it": "La pace non valeva per tutti",
+          "pt": "A paz nao valia para todos",
+          "nl": "De vrede gold niet voor iedereen",
+          "pl": "Pokoj nie obejmowal wszystkich",
+          "tr": "Baris herkesi kapsamadı",
+          "zh": "和约并未覆盖所有人",
+          "ja": "和議はすべての人に及んだわけではない",
+          "ko": "화의가 모두에게 적용된 것은 아니었다",
+          "hi": "यह शांति सबके लिए नहीं थी",
+          "ar": "لم يشمل الصلح الجميع"
         },
         "description": {
           "ru": "Аугсбургский мир признавал католиков и лютеран, но не давал таких же прав кальвинистам и другим группам. Это стало одной из причин будущих напряжений.",
           "de": "Der Augsburger Frieden erkannte Katholiken und Lutheraner an, gab aber Calvinisten und anderen Gruppen nicht dieselben Rechte. Das wurde zu einer Ursache spaeterer Spannungen.",
-          "en": "The Peace of Augsburg recognized Catholics and Lutherans but did not grant the same rights to Calvinists and other groups. This became one cause of later tensions."
+          "en": "The Peace of Augsburg recognized Catholics and Lutherans but did not grant the same rights to Calvinists and other groups. This became one cause of later tensions.",
+          "fr": "La paix d'Augsbourg reconnaissait les catholiques et les lutheriens, mais n'accordait pas les memes droits aux calvinistes et à d'autres groupes. Cela devint l'une des causes de tensions ulterieures.",
+          "es": "La Paz de Augsburgo reconocia a catolicos y luteranos, pero no concedia los mismos derechos a calvinistas y otros grupos. Esto se convirtio en una causa de tensiones posteriores.",
+          "it": "La pace di Augusta riconosceva cattolici e luterani, ma non concedeva gli stessi diritti ai calvinisti e ad altri gruppi. Questo divenne una causa di tensioni successive.",
+          "pt": "A Paz de Augsburgo reconhecia catolicos e luteranos, mas nao dava os mesmos direitos a calvinistas e outros grupos. Isso se tornou uma causa de tensoes posteriores.",
+          "nl": "De Vrede van Augsburg erkende katholieken en lutheranen, maar gaf calvinisten en andere groepen niet dezelfde rechten. Dat werd een oorzaak van latere spanningen.",
+          "pl": "Pokoj augsburski uznawal katolikow i luteran, ale nie dawal takich samych praw kalwinistom i innym grupom. Stalo sie to jedna z przyczyn pozniejszych napiec.",
+          "tr": "Augsburg Barisi Katolikleri ve Lutheryenleri tanidi, ancak Kalvencilere ve diger gruplara ayni haklari vermedi. Bu, sonraki gerilimlerin nedenlerinden biri oldu.",
+          "zh": "奥格斯堡和约承认天主教徒和路德宗信徒，但没有给予加尔文派和其他群体同等权利。这成为后来紧张局势的原因之一。",
+          "ja": "アウクスブルクの和議はカトリックとルター派を認めましたが、カルヴァン派や他の集団には同じ権利を与えませんでした。これが後の緊張の一因となりました。",
+          "ko": "아우크스부르크 화의는 가톨릭과 루터교를 인정했지만, 칼뱅파와 다른 집단에는 같은 권리를 주지 않았다. 이는 이후 긴장의 한 원인이 되었다.",
+          "hi": "ऑग्सबुर्ग की शांति ने कैथोलिकों और लूथरनों को मान्यता दी, लेकिन काल्विनवादियों और अन्य समूहों को वही अधिकार नहीं दिए। यह बाद के तनावों का एक कारण बना।",
+          "ar": "اعترف صلح اوغسبورغ بالكاثوليك واللوثريين، لكنه لم يمنح الكالفينيين ومجموعات اخرى الحقوق نفسها. واصبح ذلك احد اسباب التوترات اللاحقة."
         },
         "importance": {
           "ru": "Компромисс может остановить один конфликт и одновременно оставить семена другого.",
           "de": "Ein Kompromiss kann einen Konflikt beenden und zugleich die Keime eines neuen hinterlassen.",
-          "en": "A compromise can end one conflict while leaving the seeds of another."
+          "en": "A compromise can end one conflict while leaving the seeds of another.",
+          "fr": "Un compromis peut mettre fin à un conflit tout en laissant les graines d'un autre.",
+          "es": "Un compromiso puede terminar un conflicto y dejar al mismo tiempo las semillas de otro.",
+          "it": "Un compromesso puo chiudere un conflitto lasciando allo stesso tempo i semi di un altro.",
+          "pt": "Um compromisso pode encerrar um conflito e ao mesmo tempo deixar as sementes de outro.",
+          "nl": "Een compromis kan een conflict beeindigen en tegelijk de kiemen van een ander achterlaten.",
+          "pl": "Kompromis moze zakonczyc jeden konflikt, a jednoczesnie zostawic ziarna kolejnego.",
+          "tr": "Bir uzlasma bir catismayi bitirirken baska birinin tohumlarini birakabilir.",
+          "zh": "妥协可以结束一场冲突，同时留下另一场冲突的种子。",
+          "ja": "妥協は一つの対立を終わらせる一方で、別の対立の種を残すことがあります。",
+          "ko": "타협은 하나의 갈등을 끝내면서도 또 다른 갈등의 씨앗을 남길 수 있다.",
+          "hi": "समझौता एक संघर्ष को रोक सकता है और साथ ही दूसरे के बीज छोड़ सकता है।",
+          "ar": "قد ينهي الحل الوسط صراعا واحدا ويترك في الوقت نفسه بذور صراع اخر."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Аугсбургский религиозный мир действовал до начала Тридцатилетней войны, но не смог предотвратить новый крупный религиозно-политический конфликт.",
     "de": "Der Augsburger Religionsfrieden galt bis zum Beginn des Dreissigjaehrigen Krieges, konnte aber einen neuen grossen religioes-politischen Konflikt nicht verhindern.",
-    "en": "The Peace of Augsburg remained in force until the start of the Thirty Years' War, but it could not prevent a new major religious-political conflict."
+    "en": "The Peace of Augsburg remained in force until the start of the Thirty Years' War, but it could not prevent a new major religious-political conflict.",
+    "fr": "La paix d'Augsbourg resta en vigueur jusqu'au debut de la guerre de Trente Ans, mais elle ne put empecher un nouveau grand conflit religieux et politique.",
+    "es": "La Paz de Augsburgo siguio vigente hasta el comienzo de la Guerra de los Treinta Anos, pero no pudo impedir un nuevo gran conflicto religioso y politico.",
+    "it": "La pace di Augusta rimase in vigore fino all'inizio della Guerra dei Trent'anni, ma non riusci a impedire un nuovo grande conflitto religioso-politico.",
+    "pt": "A Paz de Augsburgo permaneceu em vigor ate o inicio da Guerra dos Trinta Anos, mas nao conseguiu impedir um novo grande conflito religioso-politico.",
+    "nl": "De Vrede van Augsburg bleef van kracht tot het begin van de Dertigjarige Oorlog, maar kon een nieuw groot religieus-politiek conflict niet voorkomen.",
+    "pl": "Pokoj augsburski obowiazywal do poczatku wojny trzydziestoletniej, ale nie zdolal zapobiec nowemu wielkiemu konfliktowi religijno-politycznemu.",
+    "tr": "Augsburg Barisi Otuz Yil Savaslari'nin basina kadar yururlukte kaldi, ancak yeni ve buyuk bir dinsel-siyasal catismayi engelleyemedi.",
+    "zh": "奥格斯堡和约一直有效到三十年战争开始，但未能阻止新的重大宗教政治冲突。",
+    "ja": "アウクスブルクの宗教和議は三十年戦争の始まりまで効力を保ちましたが、新たな大きな宗教・政治対立を防ぐことはできませんでした。",
+    "ko": "아우크스부르크 화의는 30년 전쟁이 시작될 때까지 유지되었지만, 새로운 대규모 종교-정치 갈등을 막지는 못했다.",
+    "hi": "ऑग्सबुर्ग की धार्मिक शांति तीस वर्षीय युद्ध की शुरुआत तक प्रभावी रही, लेकिन एक नए बड़े धार्मिक-राजनीतिक संघर्ष को रोक नहीं सकी।",
+    "ar": "ظل صلح اوغسبورغ الديني ساريا حتى بداية حرب الثلاثين عاما، لكنه لم يستطع منع صراع ديني سياسي كبير جديد."
   },
   "sources": [
     {

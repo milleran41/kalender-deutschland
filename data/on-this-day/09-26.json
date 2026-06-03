@@ -11,17 +11,53 @@
     "title": {
       "ru": "Теракт на Октоберфесте",
       "de": "Das Oktoberfestattentat",
-      "en": "The Oktoberfest bombing"
+      "en": "The Oktoberfest bombing",
+      "fr": "L'attentat de l'Oktoberfest",
+      "es": "El atentado del Oktoberfest",
+      "it": "L'attentato all'Oktoberfest",
+      "pt": "O atentado da Oktoberfest",
+      "nl": "De aanslag op het Oktoberfest",
+      "pl": "Zamach na Oktoberfest",
+      "tr": "Oktoberfest saldirisi",
+      "zh": "慕尼黑啤酒节爆炸案",
+      "ja": "オクトーバーフェスト爆弾事件",
+      "ko": "옥토버페스트 폭탄 테러",
+      "hi": "ऑक्टोबरफेस्ट बम हमला",
+      "ar": "تفجير مهرجان اكتوبرفست"
     },
     "description": {
       "ru": "26 сентября 1980 года у входа на Октоберфест в Мюнхене взорвалась бомба. Погибли 13 человек, включая преступника, более 200 были ранены.",
       "de": "Am 26. September 1980 explodierte am Eingang zum Oktoberfest in Muenchen eine Bombe. 13 Menschen starben, darunter der Taeter, mehr als 200 wurden verletzt.",
-      "en": "On 26 September 1980, a bomb exploded at the entrance to Oktoberfest in Munich. Thirteen people died, including the perpetrator, and more than 200 were injured."
+      "en": "On 26 September 1980, a bomb exploded at the entrance to Oktoberfest in Munich. Thirteen people died, including the perpetrator, and more than 200 were injured.",
+      "fr": "Le 26 septembre 1980, une bombe explosa à l'entree de l'Oktoberfest à Munich. Treize personnes moururent, dont l'auteur de l'attentat, et plus de 200 furent blessees.",
+      "es": "El 26 de septiembre de 1980 exploto una bomba en la entrada del Oktoberfest de Munich. Murieron 13 personas, incluido el autor del atentado, y mas de 200 resultaron heridas.",
+      "it": "Il 26 settembre 1980 una bomba esplose all'ingresso dell'Oktoberfest di Monaco. Morirono 13 persone, compreso l'attentatore, e piu di 200 furono ferite.",
+      "pt": "Em 26 de setembro de 1980, uma bomba explodiu na entrada da Oktoberfest em Munique. Treze pessoas morreram, incluindo o autor do atentado, e mais de 200 ficaram feridas.",
+      "nl": "Op 26 september 1980 ontplofte een bom bij de ingang van het Oktoberfest in München. Dertien mensen kwamen om, onder wie de dader, en meer dan 200 raakten gewond.",
+      "pl": "26 wrzesnia 1980 roku przy wejsciu na Oktoberfest w Monachium wybuchla bomba. Zginelo 13 osob, w tym sprawca, a ponad 200 zostalo rannych.",
+      "tr": "26 Eylul 1980'de Munih'teki Oktoberfest girisinde bir bomba patladi. Saldirgani da dahil olmak uzere 13 kisi oldu, 200'den fazla kisi yaralandi.",
+      "zh": "1980年9月26日，慕尼黑啤酒节入口处发生爆炸。包括犯罪者在内的13人死亡，200多人受伤。",
+      "ja": "1980年9月26日、ミュンヘンのオクトーバーフェスト入口で爆弾が爆発しました。実行犯を含む13人が死亡し、200人以上が負傷しました。",
+      "ko": "1980년 9월 26일, 뮌헨 옥토버페스트 입구에서 폭탄이 폭발했다. 범인을 포함해 13명이 사망했고 200명 이상이 다쳤다.",
+      "hi": "26 सितंबर 1980 को म्यूनिख के ऑक्टोबरफेस्ट के प्रवेश द्वार पर बम विस्फोट हुआ। अपराधी सहित 13 लोगों की मौत हुई और 200 से अधिक घायल हुए।",
+      "ar": "في 26 سبتمبر 1980 انفجرت قنبلة عند مدخل مهرجان اكتوبرفست في ميونخ. قتل 13 شخصا، بينهم منفذ الهجوم، واصيب اكثر من 200."
     },
     "importance": {
       "ru": "Это один из самых тяжёлых праворадикальных терактов в истории ФРГ.",
       "de": "Es ist einer der schwersten rechtsextremen Anschlaege in der Geschichte der Bundesrepublik.",
-      "en": "It is one of the deadliest right-wing extremist attacks in the history of the Federal Republic."
+      "en": "It is one of the deadliest right-wing extremist attacks in the history of the Federal Republic.",
+      "fr": "C'est l'un des attentats d'extreme droite les plus meurtriers de l'histoire de la Republique federale.",
+      "es": "Es uno de los atentados de extrema derecha mas mortales en la historia de la Republica Federal.",
+      "it": "E uno degli attentati di estrema destra piu gravi nella storia della Repubblica Federale.",
+      "pt": "E um dos ataques extremistas de direita mais mortais da historia da Republica Federal.",
+      "nl": "Het is een van de dodelijkste extreemrechtse aanslagen in de geschiedenis van de Bondsrepubliek.",
+      "pl": "To jeden z najtragiczniejszych skrajnie prawicowych zamachow w historii Republiki Federalnej.",
+      "tr": "Federal Cumhuriyet tarihindeki en olumcul asiri sagci saldirilardan biridir.",
+      "zh": "这是联邦德国历史上最严重的右翼极端主义袭击之一。",
+      "ja": "これは連邦共和国史上、最も深刻な右翼過激派による攻撃の一つです。",
+      "ko": "이는 독일연방공화국 역사상 가장 치명적인 극우 테러 중 하나다.",
+      "hi": "यह संघीय गणराज्य के इतिहास में सबसे घातक दक्षिणपंथी उग्रवादी हमलों में से एक है।",
+      "ar": "يعد ذلك من اعنف الهجمات اليمينية المتطرفة في تاريخ جمهورية المانيا الاتحادية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Память рядом с праздником",
           "de": "Gedenken neben dem Fest",
-          "en": "Remembrance beside the festival"
+          "en": "Remembrance beside the festival",
+          "fr": "La memoire à cote de la fete",
+          "es": "Memoria junto a la fiesta",
+          "it": "Memoria accanto alla festa",
+          "pt": "Memoria ao lado da festa",
+          "nl": "Herinnering naast het feest",
+          "pl": "Pamiec obok swieta",
+          "tr": "Festivalin yaninda anma",
+          "zh": "节庆旁的记忆",
+          "ja": "祭りのそばの追悼",
+          "ko": "축제 곁의 기억",
+          "hi": "उत्सव के पास स्मृति",
+          "ar": "الذاكرة بجانب الاحتفال"
         },
         "description": {
           "ru": "Октоберфест обычно ассоциируется с весельем, но эта дата напоминает о другой стороне общественной безопасности. В Мюнхене есть место памяти жертв.",
           "de": "Das Oktoberfest wird meist mit Freude verbunden, doch dieses Datum erinnert an eine andere Seite oeffentlicher Sicherheit. In Muenchen gibt es einen Erinnerungsort fuer die Opfer.",
-          "en": "Oktoberfest is usually associated with celebration, but this date recalls another side of public safety. Munich has a memorial for the victims."
+          "en": "Oktoberfest is usually associated with celebration, but this date recalls another side of public safety. Munich has a memorial for the victims.",
+          "fr": "L'Oktoberfest est habituellement associee à la fete, mais cette date rappelle une autre face de la securite publique. Munich possede un lieu de memoire pour les victimes.",
+          "es": "El Oktoberfest suele asociarse con la celebracion, pero esta fecha recuerda otra cara de la seguridad publica. Munich tiene un memorial para las victimas.",
+          "it": "L'Oktoberfest e di solito associato alla festa, ma questa data ricorda un altro lato della sicurezza pubblica. A Monaco c'e un luogo di memoria per le vittime.",
+          "pt": "A Oktoberfest costuma ser associada a celebracao, mas esta data lembra outro lado da seguranca publica. Munique tem um memorial para as vitimas.",
+          "nl": "Het Oktoberfest wordt meestal met feest verbonden, maar deze datum herinnert aan een andere kant van openbare veiligheid. München heeft een gedenkplaats voor de slachtoffers.",
+          "pl": "Oktoberfest zwykle kojarzy sie z zabawa, ale ta data przypomina o innej stronie bezpieczenstwa publicznego. W Monachium znajduje sie miejsce pamieci ofiar.",
+          "tr": "Oktoberfest genellikle kutlamayla anilir, ancak bu tarih kamu guvenliginin baska bir yonunu hatirlatir. Munih'te kurbanlar icin bir anma yeri vardir.",
+          "zh": "慕尼黑啤酒节通常与欢乐相连，但这一日期提醒人们公共安全的另一面。慕尼黑有一处遇难者纪念地。",
+          "ja": "オクトーバーフェストは通常、祝いの場として知られますが、この日は公共の安全の別の側面を思い起こさせます。ミュンヘンには犠牲者のための記念場所があります。",
+          "ko": "옥토버페스트는 보통 즐거움과 연결되지만, 이 날짜는 공공 안전의 다른 면을 떠올리게 한다. 뮌헨에는 희생자를 위한 추모 장소가 있다.",
+          "hi": "ऑक्टोबरफेस्ट आमतौर पर उत्सव से जुड़ा है, लेकिन यह तारीख सार्वजनिक सुरक्षा के दूसरे पहलू की याद दिलाती है। म्यूनिख में पीड़ितों के लिए स्मृति स्थल है।",
+          "ar": "يرتبط مهرجان اكتوبرفست عادة بالاحتفال، لكن هذا التاريخ يذكر بجانب اخر من الامن العام. وفي ميونخ يوجد موقع تذكاري للضحايا."
         },
         "importance": {
           "ru": "Так календарь не превращает культуру только в открытку.",
           "de": "So wird Kultur im Kalender nicht nur zur Postkarte.",
-          "en": "This keeps culture in the calendar from becoming only a postcard."
+          "en": "This keeps culture in the calendar from becoming only a postcard.",
+          "fr": "Ainsi, la culture dans le calendrier ne devient pas seulement une carte postale.",
+          "es": "Asi la cultura del calendario no se convierte solo en una postal.",
+          "it": "Cosi la cultura nel calendario non diventa solo una cartolina.",
+          "pt": "Assim, a cultura no calendario nao vira apenas um cartao-postal.",
+          "nl": "Zo wordt cultuur in de kalender niet alleen een ansichtkaart.",
+          "pl": "Dzieki temu kultura w kalendarzu nie staje sie tylko pocztowka.",
+          "tr": "Boylece takvimde kultur yalnizca bir kartpostala donusmez.",
+          "zh": "这样，日历中的文化就不只是明信片式的风景。",
+          "ja": "こうしてカレンダーの中の文化は、単なる絵はがきにはなりません。",
+          "ko": "이렇게 달력 속 문화는 단순한 엽서 같은 이미지에 머물지 않는다.",
+          "hi": "इससे कैलेंडर में संस्कृति केवल पोस्टकार्ड जैसी तस्वीर नहीं बनती।",
+          "ar": "هكذا لا تتحول الثقافة في التقويم الى بطاقة بريدية فقط."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Расследование и общественные споры вокруг теракта продолжались десятилетиями.",
     "de": "Ermittlungen und oeffentliche Debatten zum Anschlag dauerten Jahrzehnte.",
-    "en": "Investigations and public debate about the attack continued for decades."
+    "en": "Investigations and public debate about the attack continued for decades.",
+    "fr": "Les enquetes et les debats publics autour de l'attentat se poursuivirent pendant des decennies.",
+    "es": "Las investigaciones y el debate publico sobre el atentado continuaron durante decadas.",
+    "it": "Le indagini e il dibattito pubblico sull'attentato continuarono per decenni.",
+    "pt": "As investigacoes e o debate publico sobre o atentado continuaram por decadas.",
+    "nl": "Onderzoeken en publiek debat over de aanslag gingen decennialang door.",
+    "pl": "Sledztwa i publiczne spory wokol zamachu trwaly przez dziesieciolecia.",
+    "tr": "Saldiriya iliskin sorusturmalar ve kamusal tartismalar onlarca yil surdu.",
+    "zh": "围绕这次袭击的调查和公共争论持续了数十年。",
+    "ja": "この攻撃をめぐる捜査と社会的議論は何十年も続きました。",
+    "ko": "이 공격에 대한 수사와 공개 논쟁은 수십 년 동안 이어졌다.",
+    "hi": "हमले की जांच और सार्वजनिक बहस दशकों तक चलती रही।",
+    "ar": "استمرت التحقيقات والنقاشات العامة حول الهجوم لعقود."
   },
   "sources": [
     {
