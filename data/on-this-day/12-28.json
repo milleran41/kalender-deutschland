@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умер композитор Пауль Хиндемит",
       "de": "Der Komponist Paul Hindemith stirbt",
-      "en": "Composer Paul Hindemith dies"
+      "en": "Composer Paul Hindemith dies",
+      "fr": "Mort du compositeur Paul Hindemith",
+      "es": "Muere el compositor Paul Hindemith",
+      "it": "Muore il compositore Paul Hindemith",
+      "pt": "Morre o compositor Paul Hindemith",
+      "nl": "Componist Paul Hindemith overlijdt",
+      "pl": "Umiera kompozytor Paul Hindemith",
+      "tr": "Besteci Paul Hindemith hayatini kaybediyor",
+      "zh": "作曲家保罗·欣德米特去世",
+      "ja": "作曲家パウル・ヒンデミットが死去する",
+      "ko": "작곡가 파울 힌데미트가 사망하다",
+      "hi": "संगीतकार पॉल हिंडेमिथ का निधन हुआ",
+      "ar": "وفاة المؤلف الموسيقي بول هندميث"
     },
     "description": {
       "ru": "28 декабря 1963 года во Франкфурте-на-Майне умер Пауль Хиндемит, один из важнейших немецких композиторов XX века. Его музыка, педагогика и эмиграция из нацистской Германии сделали его заметной фигурой европейской культуры.",
       "de": "Am 28. Dezember 1963 starb Paul Hindemith in Frankfurt am Main, einer der wichtigsten deutschen Komponisten des 20. Jahrhunderts. Seine Musik, seine Paedagogik und seine Emigration aus dem nationalsozialistischen Deutschland machten ihn zu einer bedeutenden Figur der europaeischen Kultur.",
-      "en": "On 28 December 1963, Paul Hindemith died in Frankfurt am Main. He was one of the most important German composers of the twentieth century, and his music, teaching and emigration from Nazi Germany made him a major figure in European culture."
+      "en": "On 28 December 1963, Paul Hindemith died in Frankfurt am Main. He was one of the most important German composers of the twentieth century, and his music, teaching and emigration from Nazi Germany made him a major figure in European culture.",
+      "fr": "Le 28 decembre 1963, Paul Hindemith mourut a Francfort-sur-le-Main. Il fut l'un des compositeurs allemands les plus importants du XXe siecle; sa musique, son enseignement et son emigration depuis l'Allemagne nazie firent de lui une grande figure de la culture europeenne.",
+      "es": "El 28 de diciembre de 1963 murio Paul Hindemith en Francfort del Meno. Fue uno de los compositores alemanes mas importantes del siglo XX, y su musica, ensenanza y emigracion desde la Alemania nazi lo convirtieron en una figura destacada de la cultura europea.",
+      "it": "Il 28 dicembre 1963 Paul Hindemith mori a Francoforte sul Meno. Fu uno dei piu importanti compositori tedeschi del XX secolo, e la sua musica, il suo insegnamento e l'emigrazione dalla Germania nazista lo resero una figura importante della cultura europea.",
+      "pt": "Em 28 de dezembro de 1963, Paul Hindemith morreu em Frankfurt am Main. Foi um dos compositores alemaes mais importantes do seculo XX, e sua musica, ensino e emigracao da Alemanha nazista fizeram dele uma figura importante da cultura europeia.",
+      "nl": "Op 28 december 1963 overleed Paul Hindemith in Frankfurt am Main. Hij was een van de belangrijkste Duitse componisten van de twintigste eeuw, en zijn muziek, onderwijs en emigratie uit nazi-Duitsland maakten hem tot een belangrijke figuur in de Europese cultuur.",
+      "pl": "28 grudnia 1963 roku we Frankfurcie nad Menem zmarl Paul Hindemith. Byl jednym z najwazniejszych niemieckich kompozytorow XX wieku, a jego muzyka, pedagogika i emigracja z nazistowskich Niemiec uczynily go wazna postacia kultury europejskiej.",
+      "tr": "28 Aralik 1963'te Paul Hindemith Frankfurt am Main'da hayatini kaybetti. 20. yuzyilin en onemli Alman bestecilerinden biriydi; muzigi, ogretmenligi ve Nazi Almanyasi'ndan gocu onu Avrupa kulturunde onemli bir figur yapti.",
+      "zh": "1963年12月28日，保罗·欣德米特在美因河畔法兰克福去世。他是20世纪最重要的德国作曲家之一，他的音乐、教学以及从纳粹德国流亡的经历使他成为欧洲文化的重要人物。",
+      "ja": "1963年12月28日、パウル・ヒンデミットはフランクフルト・アム・マインで亡くなりました。彼は20世紀の最も重要なドイツ作曲家の一人であり、音楽、教育、ナチス・ドイツからの亡命によってヨーロッパ文化の重要人物となりました。",
+      "ko": "1963년 12월 28일 파울 힌데미트가 프랑크푸르트암마인에서 사망했다. 그는 20세기의 가장 중요한 독일 작곡가 중 한 명이었고, 그의 음악과 교육, 나치 독일로부터의 이주는 그를 유럽 문화의 주요 인물로 만들었다.",
+      "hi": "28 दिसंबर 1963 को पॉल हिंडेमिथ का निधन फ्रैंकफर्ट आम माइन में हुआ। वे बीसवीं सदी के सबसे महत्वपूर्ण जर्मन संगीतकारों में से एक थे, और उनका संगीत, शिक्षण तथा नाजी जर्मनी से प्रवास उन्हें यूरोपीय संस्कृति की प्रमुख हस्ती बनाते हैं।",
+      "ar": "في 28 ديسمبر 1963 توفي بول هندميث في فرانكفورت أم ماين. كان أحد أهم المؤلفين الموسيقيين الألمان في القرن العشرين، وجعلته موسيقاه وتعليمه وهجرته من ألمانيا النازية شخصية بارزة في الثقافة الأوروبية."
     },
     "importance": {
       "ru": "Дата добавляет в календарь музыку XX века и историю художника, чья жизнь была затронута диктатурой.",
       "de": "Das Datum bringt die Musik des 20. Jahrhunderts und die Geschichte eines Kuenstlers in den Kalender, dessen Leben von der Diktatur beruehrt wurde.",
-      "en": "The date adds twentieth-century music and the story of an artist whose life was affected by dictatorship to the calendar."
+      "en": "The date adds twentieth-century music and the story of an artist whose life was affected by dictatorship to the calendar.",
+      "fr": "Cette date ajoute au calendrier la musique du XXe siecle et l'histoire d'un artiste dont la vie fut touchee par la dictature.",
+      "es": "La fecha anade al calendario la musica del siglo XX y la historia de un artista cuya vida fue afectada por la dictadura.",
+      "it": "La data aggiunge al calendario la musica del XX secolo e la storia di un artista la cui vita fu toccata dalla dittatura.",
+      "pt": "A data acrescenta ao calendario a musica do seculo XX e a historia de um artista cuja vida foi afetada pela ditadura.",
+      "nl": "De datum voegt twintigste-eeuwse muziek en het verhaal van een kunstenaar wiens leven door dictatuur werd geraakt aan de kalender toe.",
+      "pl": "Ta data dodaje do kalendarza muzyke XX wieku i historie artysty, ktorego zycie zostalo dotkniete przez dyktature.",
+      "tr": "Bu tarih takvime 20. yuzyil muzigi ile yasami diktatorlukten etkilenen bir sanatcinin hikayesini ekler.",
+      "zh": "这个日期把20世纪音乐和一位生活受独裁影响的艺术家的故事加入日历。",
+      "ja": "この日は、20世紀音楽と、独裁に人生を左右された芸術家の物語をカレンダーに加えます。",
+      "ko": "이 날짜는 20세기 음악과 독재의 영향을 받은 예술가의 이야기를 달력에 더한다.",
+      "hi": "यह तारीख कैलेंडर में बीसवीं सदी का संगीत और तानाशाही से प्रभावित कलाकार की कहानी जोड़ती है।",
+      "ar": "يضيف هذا التاريخ إلى التقويم موسيقى القرن العشرين وقصة فنان تأثرت حياته بالدكتاتورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Немецкая музыка модерна",
           "de": "Deutsche Musik der Moderne",
-          "en": "German modern music"
+          "en": "German modern music",
+          "fr": "Musique moderne allemande",
+          "es": "Musica moderna alemana",
+          "it": "Musica moderna tedesca",
+          "pt": "Musica moderna alema",
+          "nl": "Duitse moderne muziek",
+          "pl": "Niemiecka muzyka nowoczesna",
+          "tr": "Alman modern muzigi",
+          "zh": "德国现代音乐",
+          "ja": "ドイツ近代音楽",
+          "ko": "독일 현대 음악",
+          "hi": "जर्मन आधुनिक संगीत",
+          "ar": "الموسيقى الألمانية الحديثة"
         },
         "description": {
           "ru": "Хиндемит писал оперы, камерную музыку, симфонические произведения и учебные тексты. Он был не только композитором, но и теоретиком, педагогом и исполнителем.",
           "de": "Hindemith schrieb Opern, Kammermusik, Orchesterwerke und Lehrtexte. Er war nicht nur Komponist, sondern auch Theoretiker, Paedagoge und Musiker.",
-          "en": "Hindemith wrote operas, chamber music, orchestral works and teaching texts. He was not only a composer, but also a theorist, teacher and performer."
+          "en": "Hindemith wrote operas, chamber music, orchestral works and teaching texts. He was not only a composer, but also a theorist, teacher and performer.",
+          "fr": "Hindemith ecrivit des operas, de la musique de chambre, des oeuvres orchestrales et des textes pedagogiques. Il ne fut pas seulement compositeur, mais aussi theoricien, enseignant et interprete.",
+          "es": "Hindemith escribio operas, musica de camara, obras orquestales y textos didacticos. No fue solo compositor, sino tambien teorico, docente e interprete.",
+          "it": "Hindemith scrisse opere, musica da camera, lavori orchestrali e testi didattici. Non fu solo compositore, ma anche teorico, insegnante ed esecutore.",
+          "pt": "Hindemith escreveu operas, musica de camara, obras orquestrais e textos didaticos. Nao foi apenas compositor, mas tambem teorico, professor e interprete.",
+          "nl": "Hindemith schreef opera's, kamermuziek, orkestwerken en onderwijsteksten. Hij was niet alleen componist, maar ook theoreticus, docent en uitvoerend musicus.",
+          "pl": "Hindemith pisal opery, muzyke kameralna, utwory orkiestrowe i teksty dydaktyczne. Byl nie tylko kompozytorem, lecz takze teoretykiem, pedagogiem i wykonawca.",
+          "tr": "Hindemith operalar, oda muzigi, orkestra eserleri ve ogretici metinler yazdi. Yalnizca besteci degil, kuramci, ogretmen ve icraciydi.",
+          "zh": "欣德米特创作歌剧、室内乐、管弦乐作品和教学文本。他不仅是作曲家，也是理论家、教师和演奏者。",
+          "ja": "ヒンデミットはオペラ、室内楽、管弦楽作品、教育用の文章を書きました。彼は作曲家であるだけでなく、理論家、教師、演奏家でもありました。",
+          "ko": "힌데미트는 오페라, 실내악, 관현악 작품, 교육용 글을 썼다. 그는 작곡가일 뿐 아니라 이론가, 교사, 연주자이기도 했다.",
+          "hi": "हिंडेमिथ ने ओपेरा, कक्ष संगीत, ऑर्केस्ट्रा रचनाएं और शिक्षण ग्रंथ लिखे। वे केवल संगीतकार नहीं, बल्कि सिद्धांतकार, शिक्षक और कलाकार भी थे।",
+          "ar": "كتب هندميث أوبرات وموسيقى حجرية وأعمالا أوركسترالية ونصوصا تعليمية. لم يكن مؤلفا موسيقيا فقط، بل كان منظرا ومعلما وعازفا أيضا."
         },
         "importance": {
           "ru": "Он показывает, что немецкая культурная история XX века не сводится только к литературе и кино.",
           "de": "Er zeigt, dass deutsche Kulturgeschichte des 20. Jahrhunderts nicht nur aus Literatur und Film besteht.",
-          "en": "He shows that twentieth-century German cultural history is not limited to literature and film."
+          "en": "He shows that twentieth-century German cultural history is not limited to literature and film.",
+          "fr": "Il montre que l'histoire culturelle allemande du XXe siecle ne se limite pas a la litterature et au cinema.",
+          "es": "Muestra que la historia cultural alemana del siglo XX no se limita a la literatura y el cine.",
+          "it": "Mostra che la storia culturale tedesca del XX secolo non si limita alla letteratura e al cinema.",
+          "pt": "Ele mostra que a historia cultural alema do seculo XX nao se limita a literatura e ao cinema.",
+          "nl": "Hij laat zien dat Duitse cultuurgeschiedenis van de twintigste eeuw niet beperkt is tot literatuur en film.",
+          "pl": "Pokazuje, ze niemiecka historia kultury XX wieku nie ogranicza sie do literatury i filmu.",
+          "tr": "20. yuzyil Alman kultur tarihinin edebiyat ve sinemayla sinirli olmadigini gosterir.",
+          "zh": "他说明20世纪德国文化史并不只限于文学和电影。",
+          "ja": "彼は、20世紀のドイツ文化史が文学と映画だけに限られないことを示しています。",
+          "ko": "그는 20세기 독일 문화사가 문학과 영화에만 한정되지 않음을 보여 준다.",
+          "hi": "वे दिखाते हैं कि बीसवीं सदी का जर्मन सांस्कृतिक इतिहास केवल साहित्य और सिनेमा तक सीमित नहीं है।",
+          "ar": "يوضح أن التاريخ الثقافي الألماني في القرن العشرين لا يقتصر على الأدب والسينما."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Художник под давлением режима",
           "de": "Ein Kuenstler unter Druck des Regimes",
-          "en": "An artist under pressure from the regime"
+          "en": "An artist under pressure from the regime",
+          "fr": "Un artiste sous la pression du regime",
+          "es": "Un artista bajo presion del regimen",
+          "it": "Un artista sotto pressione del regime",
+          "pt": "Um artista sob pressao do regime",
+          "nl": "Een kunstenaar onder druk van het regime",
+          "pl": "Artysta pod presja rezimu",
+          "tr": "Rejimin baskisi altinda bir sanatci",
+          "zh": "受政权压力的艺术家",
+          "ja": "体制の圧力下にあった芸術家",
+          "ko": "정권의 압박을 받은 예술가",
+          "hi": "शासन के दबाव में कलाकार",
+          "ar": "فنان تحت ضغط النظام"
         },
         "description": {
           "ru": "Нацистские власти критиковали и ограничивали Хиндемита, а его музыка попадала под идеологические атаки. В итоге он покинул Германию и работал за границей.",
           "de": "Die nationalsozialistischen Behoerden kritisierten und behinderten Hindemith, seine Musik wurde ideologisch angegriffen. Schliesslich verliess er Deutschland und arbeitete im Ausland.",
-          "en": "Nazi authorities criticized and restricted Hindemith, and his music came under ideological attack. Eventually he left Germany and worked abroad."
+          "en": "Nazi authorities criticized and restricted Hindemith, and his music came under ideological attack. Eventually he left Germany and worked abroad.",
+          "fr": "Les autorites nazies critiquerent et limiterent Hindemith, et sa musique subit des attaques ideologiques. Finalement, il quitta l'Allemagne et travailla a l'etranger.",
+          "es": "Las autoridades nazis criticaron y limitaron a Hindemith, y su musica fue atacada ideologicamente. Finalmente dejo Alemania y trabajo en el extranjero.",
+          "it": "Le autorita naziste criticarono e limitarono Hindemith, e la sua musica subi attacchi ideologici. Alla fine lascio la Germania e lavoro all'estero.",
+          "pt": "As autoridades nazistas criticaram e limitaram Hindemith, e sua musica sofreu ataques ideologicos. Por fim ele deixou a Alemanha e trabalhou no exterior.",
+          "nl": "De nazi-autoriteiten bekritiseerden en beperkten Hindemith, en zijn muziek kwam onder ideologische aanval. Uiteindelijk verliet hij Duitsland en werkte hij in het buitenland.",
+          "pl": "Wladze nazistowskie krytykowaly i ograniczaly Hindemitha, a jego muzyka stala sie celem atakow ideologicznych. Ostatecznie opuscil Niemcy i pracowal za granica.",
+          "tr": "Nazi yetkilileri Hindemith'i elestirdi ve kisitladi; muzigi ideolojik saldirilara ugradi. Sonunda Almanya'dan ayrildi ve yurt disinda calisti.",
+          "zh": "纳粹当局批评并限制欣德米特，他的音乐也受到意识形态攻击。最终他离开德国，在国外工作。",
+          "ja": "ナチ当局はヒンデミットを批判し制限し、彼の音楽はイデオロギー的攻撃を受けました。最終的に彼はドイツを離れ、国外で活動しました。",
+          "ko": "나치 당국은 힌데미트를 비판하고 제한했으며 그의 음악은 이념적 공격을 받았다. 결국 그는 독일을 떠나 해외에서 활동했다.",
+          "hi": "नाजी अधिकारियों ने हिंडेमिथ की आलोचना की और उन्हें सीमित किया, तथा उनका संगीत वैचारिक हमलों का निशाना बना। अंततः वे जर्मनी छोड़कर विदेश में काम करने लगे।",
+          "ar": "انتقدت السلطات النازية هندميث وضيقت عليه، وتعرضت موسيقاه لهجمات أيديولوجية. وفي النهاية غادر ألمانيا وعمل في الخارج."
         },
         "importance": {
           "ru": "Так видно, как диктатура вмешивалась даже в музыку и художественный выбор.",
           "de": "So wird sichtbar, wie eine Diktatur sogar in Musik und kuenstlerische Entscheidungen eingriff.",
-          "en": "It shows how a dictatorship interfered even in music and artistic choices."
+          "en": "It shows how a dictatorship interfered even in music and artistic choices.",
+          "fr": "Cela montre comment une dictature intervenait meme dans la musique et les choix artistiques.",
+          "es": "Muestra como una dictadura intervenia incluso en la musica y las decisiones artisticas.",
+          "it": "Mostra come una dittatura intervenisse persino nella musica e nelle scelte artistiche.",
+          "pt": "Mostra como uma ditadura interferia ate na musica e nas escolhas artisticas.",
+          "nl": "Het laat zien hoe een dictatuur zelfs in muziek en artistieke keuzes ingreep.",
+          "pl": "To pokazuje, jak dyktatura ingerowala nawet w muzyke i wybory artystyczne.",
+          "tr": "Bir diktatorlugun muzik ve sanatsal tercihlere bile nasil karistigini gosterir.",
+          "zh": "这说明独裁如何甚至干预音乐和艺术选择。",
+          "ja": "独裁が音楽や芸術的選択にまで介入したことを示しています。",
+          "ko": "독재가 음악과 예술적 선택에까지 어떻게 간섭했는지 보여 준다.",
+          "hi": "यह दिखाता है कि तानाशाही संगीत और कलात्मक चुनावों में भी कैसे हस्तक्षेप करती थी।",
+          "ar": "يوضح ذلك كيف تدخلت الدكتاتورية حتى في الموسيقى والاختيارات الفنية."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Франкфуртская точка на карте музыки",
           "de": "Frankfurt als Punkt auf der Musikkarte",
-          "en": "Frankfurt on the map of music"
+          "en": "Frankfurt on the map of music",
+          "fr": "Francfort sur la carte de la musique",
+          "es": "Francfort en el mapa de la musica",
+          "it": "Francoforte sulla mappa della musica",
+          "pt": "Frankfurt no mapa da musica",
+          "nl": "Frankfurt op de muziekkaart",
+          "pl": "Frankfurt na mapie muzyki",
+          "tr": "Muzik haritasinda Frankfurt",
+          "zh": "音乐地图上的法兰克福",
+          "ja": "音楽地図上のフランクフルト",
+          "ko": "음악 지도 위의 프랑크푸르트",
+          "hi": "संगीत के नक्शे पर फ्रैंकफर्ट",
+          "ar": "فرانكفورت على خريطة الموسيقى"
         },
         "description": {
           "ru": "Хиндемит умер во Франкфурте-на-Майне, городе, который чаще вспоминают как финансовый центр. Но у города есть и важная культурная история.",
           "de": "Hindemith starb in Frankfurt am Main, einer Stadt, die man oft als Finanzzentrum kennt. Doch die Stadt besitzt auch eine wichtige Kulturgeschichte.",
-          "en": "Hindemith died in Frankfurt am Main, a city often known as a financial center. But the city also has an important cultural history."
+          "en": "Hindemith died in Frankfurt am Main, a city often known as a financial center. But the city also has an important cultural history.",
+          "fr": "Hindemith mourut a Francfort-sur-le-Main, une ville souvent connue comme centre financier. Mais la ville possede aussi une importante histoire culturelle.",
+          "es": "Hindemith murio en Francfort del Meno, una ciudad a menudo conocida como centro financiero. Pero la ciudad tambien tiene una importante historia cultural.",
+          "it": "Hindemith mori a Francoforte sul Meno, una citta spesso nota come centro finanziario. Ma la citta possiede anche una importante storia culturale.",
+          "pt": "Hindemith morreu em Frankfurt am Main, cidade muitas vezes conhecida como centro financeiro. Mas a cidade tambem tem uma importante historia cultural.",
+          "nl": "Hindemith stierf in Frankfurt am Main, een stad die vaak als financieel centrum bekendstaat. Maar de stad heeft ook een belangrijke cultuurgeschiedenis.",
+          "pl": "Hindemith zmarl we Frankfurcie nad Menem, miescie czesto znanym jako centrum finansowe. Miasto ma jednak takze wazna historie kulturalna.",
+          "tr": "Hindemith sikca finans merkezi olarak bilinen Frankfurt am Main'da oldu. Ama kentin onemli bir kultur tarihi de vardir.",
+          "zh": "欣德米特在美因河畔法兰克福去世，这座城市常被视为金融中心。但这座城市也有重要的文化史。",
+          "ja": "ヒンデミットは、金融中心地としてよく知られるフランクフルト・アム・マインで亡くなりました。しかしこの都市には重要な文化史もあります。",
+          "ko": "힌데미트는 금융 중심지로 자주 알려진 프랑크푸르트암마인에서 사망했다. 그러나 이 도시에는 중요한 문화사도 있다.",
+          "hi": "हिंडेमिथ का निधन फ्रैंकफर्ट आम माइन में हुआ, जिसे अक्सर वित्तीय केंद्र के रूप में जाना जाता है। लेकिन शहर का महत्वपूर्ण सांस्कृतिक इतिहास भी है।",
+          "ar": "توفي هندميث في فرانكفورت أم ماين، وهي مدينة تُعرف كثيرا كمركز مالي. لكن للمدينة أيضا تاريخا ثقافيا مهما."
         },
         "importance": {
           "ru": "Иногда карта культуры помогает увидеть известный город с другой стороны.",
           "de": "Manchmal hilft eine Kulturkarte, eine bekannte Stadt von einer anderen Seite zu sehen.",
-          "en": "Sometimes a cultural map helps reveal a familiar city from another angle."
+          "en": "Sometimes a cultural map helps reveal a familiar city from another angle.",
+          "fr": "Parfois, une carte culturelle aide a voir une ville connue sous un autre angle.",
+          "es": "A veces un mapa cultural ayuda a ver una ciudad conocida desde otro angulo.",
+          "it": "A volte una mappa culturale aiuta a vedere una citta nota da un'altra prospettiva.",
+          "pt": "As vezes, um mapa cultural ajuda a ver uma cidade conhecida por outro angulo.",
+          "nl": "Soms helpt een cultuurkaart om een bekende stad vanuit een andere hoek te zien.",
+          "pl": "Czasem mapa kultury pomaga zobaczyc znane miasto z innej strony.",
+          "tr": "Bazen bir kultur haritasi, tanidik bir kenti baska bir acidan gormeye yardim eder.",
+          "zh": "有时，文化地图能帮助人们从另一个角度看熟悉的城市。",
+          "ja": "時には文化地図が、よく知られた都市を別の角度から見せてくれます。",
+          "ko": "때로는 문화 지도가 익숙한 도시를 다른 각도에서 보여 준다.",
+          "hi": "कभी-कभी सांस्कृतिक नक्शा परिचित शहर को दूसरे कोण से दिखाने में मदद करता है।",
+          "ar": "أحيانا تساعد الخريطة الثقافية على رؤية مدينة مألوفة من زاوية أخرى."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Хиндемит родился в Ханау, недалеко от Франкфурта-на-Майне.",
     "de": "Hindemith wurde in Hanau nahe Frankfurt am Main geboren.",
-    "en": "Hindemith was born in Hanau, near Frankfurt am Main."
+    "en": "Hindemith was born in Hanau, near Frankfurt am Main.",
+    "fr": "Hindemith naquit a Hanau, pres de Francfort-sur-le-Main.",
+    "es": "Hindemith nacio en Hanau, cerca de Francfort del Meno.",
+    "it": "Hindemith nacque a Hanau, vicino a Francoforte sul Meno.",
+    "pt": "Hindemith nasceu em Hanau, perto de Frankfurt am Main.",
+    "nl": "Hindemith werd geboren in Hanau, bij Frankfurt am Main.",
+    "pl": "Hindemith urodzil sie w Hanau, niedaleko Frankfurtu nad Menem.",
+    "tr": "Hindemith Frankfurt am Main yakinlarindaki Hanau'da dogdu.",
+    "zh": "欣德米特出生于美因河畔法兰克福附近的哈瑙。",
+    "ja": "ヒンデミットはフランクフルト・アム・マイン近郊のハーナウで生まれました。",
+    "ko": "힌데미트는 프랑크푸르트암마인 근처 하나우에서 태어났다.",
+    "hi": "हिंडेमिथ का जन्म फ्रैंकफर्ट आम माइन के पास हानाउ में हुआ था।",
+    "ar": "وُلد هندميث في هاناو قرب فرانكفورت أم ماين."
   },
   "sources": [
     {
