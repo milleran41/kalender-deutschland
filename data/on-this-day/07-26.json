@@ -11,17 +11,53 @@
     "title": {
       "ru": "Принят закон о Deutsche Bundesbank",
       "de": "Das Bundesbankgesetz wird verabschiedet",
-      "en": "The Bundesbank Act is passed"
+      "en": "The Bundesbank Act is passed",
+      "fr": "La loi sur la Deutsche Bundesbank est adoptée",
+      "es": "Se aprueba la ley de la Deutsche Bundesbank",
+      "it": "Viene approvata la legge sulla Deutsche Bundesbank",
+      "pt": "É aprovada a lei sobre a Deutsche Bundesbank",
+      "nl": "De Bundesbankwet wordt aangenomen",
+      "pl": "Uchwalono ustawę o Deutsche Bundesbank",
+      "tr": "Bundesbank Yasası kabul edilir",
+      "zh": "德意志联邦银行法通过",
+      "ja": "ドイツ連邦銀行法が成立",
+      "ko": "분데스방크법이 통과되다",
+      "hi": "Deutsche Bundesbank कानून पारित हुआ",
+      "ar": "إقرار قانون Deutsche Bundesbank"
     },
     "description": {
       "ru": "26 июля 1957 года был принят закон о Deutsche Bundesbank. Он создал единый центральный банк ФРГ, который вскоре стал символом денежной стабильности.",
       "de": "Am 26. Juli 1957 wurde das Gesetz ueber die Deutsche Bundesbank beschlossen. Es schuf die einheitliche Zentralbank der Bundesrepublik, die bald zum Symbol fuer Geldwertstabilitaet wurde.",
-      "en": "On 26 July 1957, the Bundesbank Act was passed. It created West Germany's unified central bank, which soon became a symbol of monetary stability."
+      "en": "On 26 July 1957, the Bundesbank Act was passed. It created West Germany's unified central bank, which soon became a symbol of monetary stability.",
+      "fr": "Le 26 juillet 1957, la loi sur la Deutsche Bundesbank fut adoptée. Elle créa la banque centrale unifiée de la RFA, qui devint bientôt un symbole de stabilité monétaire.",
+      "es": "El 26 de julio de 1957 se aprobó la ley de la Deutsche Bundesbank. Creó el banco central unificado de Alemania Occidental, que pronto se convirtió en símbolo de estabilidad monetaria.",
+      "it": "Il 26 luglio 1957 fu approvata la legge sulla Deutsche Bundesbank. Essa creò la banca centrale unificata della Germania Ovest, che presto divenne un simbolo di stabilità monetaria.",
+      "pt": "Em 26 de julho de 1957, foi aprovada a lei sobre a Deutsche Bundesbank. Ela criou o banco central unificado da Alemanha Ocidental, que logo se tornou símbolo de estabilidade monetária.",
+      "nl": "Op 26 juli 1957 werd de Bundesbankwet aangenomen. Zij schiep de verenigde centrale bank van West-Duitsland, die al snel symbool werd voor monetaire stabiliteit.",
+      "pl": "26 lipca 1957 roku uchwalono ustawę o Deutsche Bundesbank. Utworzyła ona jednolity bank centralny RFN, który wkrótce stał się symbolem stabilności pieniądza.",
+      "tr": "26 Temmuz 1957'de Bundesbank Yasası kabul edildi. Bu yasa Batı Almanya'nın birleşik merkez bankasını kurdu; banka kısa süre sonra parasal istikrarın sembolü oldu.",
+      "zh": "1957年7月26日，德意志联邦银行法通过。它建立了西德统一的中央银行，该银行很快成为货币稳定的象征。",
+      "ja": "1957年7月26日、ドイツ連邦銀行法が可決された。これは西ドイツの統一中央銀行を創設し、まもなく通貨安定の象徴となった。",
+      "ko": "1957년 7월 26일, 분데스방크법이 통과되었다. 이 법은 서독의 통합 중앙은행을 만들었고, 이 은행은 곧 통화 안정의 상징이 되었다.",
+      "hi": "26 जुलाई 1957 को Deutsche Bundesbank कानून पारित हुआ। इसने पश्चिम जर्मनी का एकीकृत केंद्रीय बैंक बनाया, जो जल्द ही मुद्रा स्थिरता का प्रतीक बन गया।",
+      "ar": "في 26 يوليو 1957 أُقر قانون Deutsche Bundesbank. وأنشأ البنك المركزي الموحد لألمانيا الغربية، الذي سرعان ما أصبح رمزا للاستقرار النقدي."
     },
     "importance": {
       "ru": "Bundesbank сыграла ключевую роль в истории немецкой марки и европейской денежной политики.",
       "de": "Die Bundesbank spielte eine Schluesselrolle in der Geschichte der D-Mark und der europaeischen Geldpolitik.",
-      "en": "The Bundesbank played a key role in the history of the Deutsche Mark and European monetary policy."
+      "en": "The Bundesbank played a key role in the history of the Deutsche Mark and European monetary policy.",
+      "fr": "La Bundesbank joua un rôle clé dans l'histoire du Deutsche Mark et de la politique monétaire européenne.",
+      "es": "La Bundesbank desempeñó un papel clave en la historia del marco alemán y de la política monetaria europea.",
+      "it": "La Bundesbank svolse un ruolo chiave nella storia del marco tedesco e della politica monetaria europea.",
+      "pt": "A Bundesbank desempenhou um papel central na história do marco alemão e da política monetária europeia.",
+      "nl": "De Bundesbank speelde een sleutelrol in de geschiedenis van de Duitse mark en het Europese monetaire beleid.",
+      "pl": "Bundesbank odegrał kluczową rolę w historii marki niemieckiej i europejskiej polityki pieniężnej.",
+      "tr": "Bundesbank, Alman markının ve Avrupa para politikasının tarihinde kilit rol oynadı.",
+      "zh": "德意志联邦银行在德国马克和欧洲货币政策史上发挥了关键作用。",
+      "ja": "ドイツ連邦銀行はドイツマルクと欧州金融政策の歴史で重要な役割を果たした。",
+      "ko": "분데스방크는 독일 마르크와 유럽 통화 정책의 역사에서 핵심 역할을 했다.",
+      "hi": "Bundesbank ने Deutsche Mark और यूरोपीय मौद्रिक नीति के इतिहास में महत्वपूर्ण भूमिका निभाई।",
+      "ar": "أدى Bundesbank دورا رئيسيا في تاريخ المارك الألماني والسياسة النقدية الأوروبية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Независимый центральный банк",
           "de": "Eine unabhaengige Zentralbank",
-          "en": "An independent central bank"
+          "en": "An independent central bank",
+          "fr": "Une banque centrale indépendante",
+          "es": "Un banco central independiente",
+          "it": "Una banca centrale indipendente",
+          "pt": "Um banco central independente",
+          "nl": "Een onafhankelijke centrale bank",
+          "pl": "Niezależny bank centralny",
+          "tr": "Bağımsız bir merkez bankası",
+          "zh": "独立中央银行",
+          "ja": "独立した中央銀行",
+          "ko": "독립 중앙은행",
+          "hi": "स्वतंत्र केंद्रीय बैंक",
+          "ar": "بنك مركزي مستقل"
         },
         "description": {
           "ru": "Bundesbank была независима от прямых указаний правительства. Эта идея сильно повлияла на будущую архитектуру Европейского центрального банка.",
           "de": "Die Bundesbank war von direkten Weisungen der Bundesregierung unabhaengig. Diese Idee beeinflusste spaeter die Architektur der Europaeischen Zentralbank.",
-          "en": "The Bundesbank was independent from direct government instructions. This idea later influenced the architecture of the European Central Bank."
+          "en": "The Bundesbank was independent from direct government instructions. This idea later influenced the architecture of the European Central Bank.",
+          "fr": "La Bundesbank était indépendante des instructions directes du gouvernement. Cette idée influença plus tard l'architecture de la Banque centrale européenne.",
+          "es": "La Bundesbank era independiente de las instrucciones directas del gobierno. Esta idea influyó más tarde en la arquitectura del Banco Central Europeo.",
+          "it": "La Bundesbank era indipendente dalle istruzioni dirette del governo. Questa idea influenzò in seguito l'architettura della Banca centrale europea.",
+          "pt": "A Bundesbank era independente de instruções diretas do governo. Essa ideia influenciou mais tarde a arquitetura do Banco Central Europeu.",
+          "nl": "De Bundesbank was onafhankelijk van directe aanwijzingen van de regering. Dit idee beïnvloedde later de architectuur van de Europese Centrale Bank.",
+          "pl": "Bundesbank był niezależny od bezpośrednich poleceń rządu. Ta idea wpłynęła później na architekturę Europejskiego Banku Centralnego.",
+          "tr": "Bundesbank doğrudan hükümet talimatlarından bağımsızdı. Bu fikir daha sonra Avrupa Merkez Bankası'nın yapısını etkiledi.",
+          "zh": "德意志联邦银行不受政府直接指令约束。这个理念后来影响了欧洲中央银行的架构。",
+          "ja": "ドイツ連邦銀行は政府の直接指示から独立していた。この考えは後に欧州中央銀行の構造に影響を与えた。",
+          "ko": "분데스방크는 정부의 직접 지시로부터 독립되어 있었다. 이 생각은 나중에 유럽중앙은행의 구조에 영향을 주었다.",
+          "hi": "Bundesbank सरकार के सीधे निर्देशों से स्वतंत्र था। इस विचार ने बाद में यूरोपीय केंद्रीय बैंक की संरचना को प्रभावित किया।",
+          "ar": "كان Bundesbank مستقلا عن التعليمات الحكومية المباشرة. وأثرت هذه الفكرة لاحقا في بنية البنك المركزي الأوروبي."
         },
         "importance": {
           "ru": "Финансовая история Германии здесь напрямую связана с историей евро.",
           "de": "Deutschlands Finanzgeschichte ist hier direkt mit der Geschichte des Euro verbunden.",
-          "en": "Germany's financial history here is directly linked with the history of the euro."
+          "en": "Germany's financial history here is directly linked with the history of the euro.",
+          "fr": "L'histoire financière de l'Allemagne est ici directement liée à l'histoire de l'euro.",
+          "es": "La historia financiera de Alemania está aquí directamente vinculada con la historia del euro.",
+          "it": "La storia finanziaria della Germania è qui direttamente legata alla storia dell'euro.",
+          "pt": "A história financeira da Alemanha aqui está diretamente ligada à história do euro.",
+          "nl": "De financiële geschiedenis van Duitsland is hier direct verbonden met de geschiedenis van de euro.",
+          "pl": "Historia finansowa Niemiec jest tu bezpośrednio związana z historią euro.",
+          "tr": "Almanya'nın finans tarihi burada doğrudan avronun tarihiyle bağlantılıdır.",
+          "zh": "德国金融史在这里与欧元史直接相连。",
+          "ja": "ここでドイツの金融史はユーロの歴史と直接結びついている。",
+          "ko": "여기서 독일의 금융사는 유로의 역사와 직접 연결된다.",
+          "hi": "यहां जर्मनी का वित्तीय इतिहास सीधे यूरो के इतिहास से जुड़ा है।",
+          "ar": "يرتبط التاريخ المالي لألمانيا هنا مباشرة بتاريخ اليورو."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Закон вступил в силу 1 августа 1957 года.",
     "de": "Das Gesetz trat am 1. August 1957 in Kraft.",
-    "en": "The law entered into force on 1 August 1957."
+    "en": "The law entered into force on 1 August 1957.",
+    "fr": "La loi entra en vigueur le 1er août 1957.",
+    "es": "La ley entró en vigor el 1 de agosto de 1957.",
+    "it": "La legge entrò in vigore il 1 agosto 1957.",
+    "pt": "A lei entrou em vigor em 1 de agosto de 1957.",
+    "nl": "De wet trad op 1 augustus 1957 in werking.",
+    "pl": "Ustawa weszła w życie 1 sierpnia 1957 roku.",
+    "tr": "Yasa 1 Ağustos 1957'de yürürlüğe girdi.",
+    "zh": "该法于1957年8月1日生效。",
+    "ja": "この法律は1957年8月1日に施行された。",
+    "ko": "이 법은 1957년 8월 1일 발효되었다.",
+    "hi": "यह कानून 1 अगस्त 1957 को लागू हुआ।",
+    "ar": "دخل القانون حيز التنفيذ في 1 أغسطس 1957."
   },
   "sources": [
     {

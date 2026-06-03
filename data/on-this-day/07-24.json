@@ -11,17 +11,53 @@
     "title": {
       "ru": "Трагедия на Love Parade в Дуйсбурге",
       "de": "Die Loveparade-Katastrophe in Duisburg",
-      "en": "The Love Parade disaster in Duisburg"
+      "en": "The Love Parade disaster in Duisburg",
+      "fr": "La catastrophe de la Love Parade à Duisbourg",
+      "es": "La tragedia de la Love Parade en Duisburgo",
+      "it": "La tragedia della Love Parade a Duisburg",
+      "pt": "A tragédia da Love Parade em Duisburg",
+      "nl": "De ramp bij de Love Parade in Duisburg",
+      "pl": "Tragedia na Love Parade w Duisburgu",
+      "tr": "Duisburg'daki Love Parade felaketi",
+      "zh": "杜伊斯堡Love Parade灾难",
+      "ja": "デュースブルクのLove Parade惨事",
+      "ko": "뒤스부르크 Love Parade 참사",
+      "hi": "डुइसबर्ग में Love Parade त्रासदी",
+      "ar": "كارثة Love Parade في دويسبورغ"
     },
     "description": {
       "ru": "24 июля 2010 года на музыкальном фестивале Love Parade в Дуйсбурге произошла давка. Погиб 21 человек, сотни были ранены.",
       "de": "Am 24. Juli 2010 kam es bei der Loveparade in Duisburg zu einer Massenkatastrophe. 21 Menschen starben, Hunderte wurden verletzt.",
-      "en": "On 24 July 2010, a crowd disaster occurred at the Love Parade music festival in Duisburg. Twenty-one people died and hundreds were injured."
+      "en": "On 24 July 2010, a crowd disaster occurred at the Love Parade music festival in Duisburg. Twenty-one people died and hundreds were injured.",
+      "fr": "Le 24 juillet 2010, une catastrophe de foule se produisit lors du festival musical Love Parade à Duisbourg. Vingt et une personnes moururent et des centaines furent blessées.",
+      "es": "El 24 de julio de 2010 se produjo una avalancha humana en el festival musical Love Parade de Duisburgo. Murieron 21 personas y cientos resultaron heridas.",
+      "it": "Il 24 luglio 2010, al festival musicale Love Parade di Duisburg, si verificò una tragedia causata dalla folla. Morirono 21 persone e centinaia rimasero ferite.",
+      "pt": "Em 24 de julho de 2010, ocorreu uma tragédia com multidão no festival de música Love Parade em Duisburg. Vinte e uma pessoas morreram e centenas ficaram feridas.",
+      "nl": "Op 24 juli 2010 vond bij het muziekfestival Love Parade in Duisburg een massaramp plaats. Eenentwintig mensen kwamen om en honderden raakten gewond.",
+      "pl": "24 lipca 2010 roku podczas festiwalu muzycznego Love Parade w Duisburgu doszło do tragedii w tłumie. Zginęło 21 osób, a setki zostały ranne.",
+      "tr": "24 Temmuz 2010'da Duisburg'daki Love Parade müzik festivalinde kalabalık felaketi yaşandı. Yirmi bir kişi öldü, yüzlerce kişi yaralandı.",
+      "zh": "2010年7月24日，杜伊斯堡Love Parade音乐节发生人群踩踏灾难。21人死亡，数百人受伤。",
+      "ja": "2010年7月24日、デュースブルクの音楽フェスティバルLove Paradeで群衆事故が起きた。21人が死亡し、数百人が負傷した。",
+      "ko": "2010년 7월 24일, 뒤스부르크의 Love Parade 음악 축제에서 군중 참사가 발생했다. 21명이 사망하고 수백 명이 다쳤다.",
+      "hi": "24 जुलाई 2010 को डुइसबर्ग में Love Parade संगीत उत्सव में भीड़ की त्रासदी हुई। 21 लोगों की मृत्यु हुई और सैकड़ों घायल हुए।",
+      "ar": "في 24 يوليو 2010 وقعت كارثة حشود في مهرجان Love Parade الموسيقي في دويسبورغ. مات واحد وعشرون شخصا وأصيب المئات."
     },
     "importance": {
       "ru": "Событие стало важным уроком о безопасности массовых мероприятий.",
       "de": "Das Ereignis wurde zu einer wichtigen Lehre fuer die Sicherheit von Grossveranstaltungen.",
-      "en": "The event became an important lesson in the safety of large public events."
+      "en": "The event became an important lesson in the safety of large public events.",
+      "fr": "L'événement devint une leçon importante sur la sécurité des grands rassemblements publics.",
+      "es": "El suceso se convirtió en una importante lección sobre la seguridad de los grandes eventos públicos.",
+      "it": "L'evento divenne una lezione importante sulla sicurezza dei grandi eventi pubblici.",
+      "pt": "O acontecimento tornou-se uma lição importante sobre a segurança de grandes eventos públicos.",
+      "nl": "De gebeurtenis werd een belangrijke les over de veiligheid van grote publieke evenementen.",
+      "pl": "Wydarzenie stało się ważną lekcją dotyczącą bezpieczeństwa dużych imprez masowych.",
+      "tr": "Olay, büyük halka açık etkinliklerin güvenliği konusunda önemli bir ders oldu.",
+      "zh": "这一事件成为大型公共活动安全的重要教训。",
+      "ja": "この出来事は大規模な公共イベントの安全に関する重要な教訓となった。",
+      "ko": "이 사건은 대규모 공개 행사의 안전에 관한 중요한 교훈이 되었다.",
+      "hi": "यह घटना बड़े सार्वजनिक आयोजनों की सुरक्षा पर महत्वपूर्ण सबक बन गई।",
+      "ar": "أصبح الحدث درسا مهما في سلامة الفعاليات العامة الكبرى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "После трагедии фестиваль прекратили",
           "de": "Nach der Katastrophe endete das Festival",
-          "en": "The festival ended after the disaster"
+          "en": "The festival ended after the disaster",
+          "fr": "Le festival prit fin après la catastrophe",
+          "es": "El festival terminó después de la tragedia",
+          "it": "Il festival terminò dopo la tragedia",
+          "pt": "O festival terminou após a tragédia",
+          "nl": "Het festival eindigde na de ramp",
+          "pl": "Po tragedii festiwal zakończono",
+          "tr": "Felaketten sonra festival sona erdi",
+          "zh": "灾难后该音乐节停办",
+          "ja": "惨事の後、フェスティバルは終了した",
+          "ko": "참사 이후 축제는 중단되었다",
+          "hi": "त्रासदी के बाद उत्सव बंद कर दिया गया",
+          "ar": "انتهى المهرجان بعد الكارثة"
         },
         "description": {
           "ru": "Love Parade когда-то был символом танцевальной культуры и свободы большого города. После Дуйсбурга формат больше не продолжали.",
           "de": "Die Loveparade war einst ein Symbol fuer Tanzkultur und urbane Freiheit. Nach Duisburg wurde das Format nicht fortgesetzt.",
-          "en": "The Love Parade had once symbolized dance culture and urban freedom. After Duisburg, the format was not continued."
+          "en": "The Love Parade had once symbolized dance culture and urban freedom. After Duisburg, the format was not continued.",
+          "fr": "La Love Parade avait autrefois symbolisé la culture dance et la liberté urbaine. Après Duisbourg, ce format ne fut plus poursuivi.",
+          "es": "La Love Parade había simbolizado la cultura de baile y la libertad urbana. Después de Duisburgo, el formato no continuó.",
+          "it": "La Love Parade era stata un simbolo della cultura dance e della libertà urbana. Dopo Duisburg, il formato non fu più continuato.",
+          "pt": "A Love Parade já tinha simbolizado a cultura da dança e a liberdade urbana. Depois de Duisburg, o formato não continuou.",
+          "nl": "De Love Parade had ooit symbool gestaan voor danscultuur en stedelijke vrijheid. Na Duisburg werd het format niet voortgezet.",
+          "pl": "Love Parade była kiedyś symbolem kultury tanecznej i miejskiej wolności. Po Duisburgu tego formatu już nie kontynuowano.",
+          "tr": "Love Parade bir zamanlar dans kültürünün ve kentsel özgürlüğün sembolüydü. Duisburg'dan sonra bu format sürdürülmedi.",
+          "zh": "Love Parade曾经象征舞蹈文化和城市自由。杜伊斯堡事件之后，这一形式没有再继续。",
+          "ja": "Love Paradeはかつてダンス文化と都市の自由の象徴だった。デュースブルクの後、この形式は継続されなかった。",
+          "ko": "Love Parade는 한때 댄스 문화와 도시의 자유를 상징했다. 뒤스부르크 이후 이 형식은 계속되지 않았다.",
+          "hi": "Love Parade कभी नृत्य संस्कृति और शहरी स्वतंत्रता का प्रतीक था। डुइसबर्ग के बाद यह स्वरूप जारी नहीं रखा गया।",
+          "ar": "كانت Love Parade في يوم ما رمزا لثقافة الرقص والحرية الحضرية. وبعد دويسبورغ لم يستمر هذا الشكل."
         },
         "importance": {
           "ru": "Это показывает, как одна ошибка в организации может закончить целую культурную эпоху.",
           "de": "Das zeigt, wie organisatorische Fehler eine ganze Kulturepoche beenden koennen.",
-          "en": "It shows how organizational failures can end an entire cultural era."
+          "en": "It shows how organizational failures can end an entire cultural era.",
+          "fr": "Cela montre comment des erreurs d'organisation peuvent mettre fin à toute une époque culturelle.",
+          "es": "Muestra cómo fallos organizativos pueden poner fin a toda una época cultural.",
+          "it": "Mostra come errori organizzativi possano porre fine a un'intera epoca culturale.",
+          "pt": "Mostra como falhas organizacionais podem encerrar toda uma era cultural.",
+          "nl": "Het laat zien hoe organisatorische fouten een heel cultureel tijdperk kunnen beëindigen.",
+          "pl": "Pokazuje to, jak błędy organizacyjne mogą zakończyć całą epokę kulturową.",
+          "tr": "Bu, örgütsel hataların bütün bir kültürel dönemi nasıl sona erdirebileceğini gösterir.",
+          "zh": "它说明组织失误如何终结整个文化时代。",
+          "ja": "運営上の失敗が一つの文化的時代全体を終わらせうることを示している。",
+          "ko": "조직상의 실패가 하나의 문화 시대 전체를 끝낼 수 있음을 보여 준다.",
+          "hi": "यह दिखाता है कि संगठनात्मक विफलताएं पूरी सांस्कृतिक अवधि को कैसे समाप्त कर सकती हैं।",
+          "ar": "يوضح ذلك كيف يمكن لإخفاقات تنظيمية أن تنهي عصرا ثقافيا كاملا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "У места трагедии в Дуйсбурге есть мемориал, посвящённый погибшим 24 июля 2010 года.",
     "de": "Am Ort der Katastrophe in Duisburg gibt es eine Gedenkstaette fuer die Opfer des 24. Juli 2010.",
-    "en": "There is a memorial in Duisburg for the victims of 24 July 2010."
+    "en": "There is a memorial in Duisburg for the victims of 24 July 2010.",
+    "fr": "Il existe à Duisbourg un mémorial dédié aux victimes du 24 juillet 2010.",
+    "es": "En Duisburgo hay un memorial dedicado a las víctimas del 24 de julio de 2010.",
+    "it": "A Duisburg c'è un memoriale dedicato alle vittime del 24 luglio 2010.",
+    "pt": "Há um memorial em Duisburg dedicado às vítimas de 24 de julho de 2010.",
+    "nl": "In Duisburg is er een gedenkplaats voor de slachtoffers van 24 juli 2010.",
+    "pl": "W Duisburgu znajduje się memoriał poświęcony ofiarom z 24 lipca 2010 roku.",
+    "tr": "Duisburg'da 24 Temmuz 2010 kurbanlarına adanmış bir anıt vardır.",
+    "zh": "杜伊斯堡有一处纪念2010年7月24日遇难者的纪念地。",
+    "ja": "デュースブルクには2010年7月24日の犠牲者を追悼する記念場所がある。",
+    "ko": "뒤스부르크에는 2010년 7월 24일 희생자들을 위한 추모 장소가 있다.",
+    "hi": "डुइसबर्ग में 24 जुलाई 2010 के पीड़ितों को समर्पित एक स्मारक है।",
+    "ar": "يوجد في دويسبورغ نصب تذكاري لضحايا 24 يوليو 2010."
   },
   "sources": [
     {
