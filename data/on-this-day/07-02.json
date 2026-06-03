@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Герман Гессе",
       "de": "Hermann Hesse wird geboren",
-      "en": "Hermann Hesse is born"
+      "en": "Hermann Hesse is born",
+      "fr": "Hermann Hesse naît",
+      "es": "Nace Hermann Hesse",
+      "it": "Nasce Hermann Hesse",
+      "pt": "Nasce Hermann Hesse",
+      "nl": "Hermann Hesse wordt geboren",
+      "pl": "Rodzi się Hermann Hesse",
+      "tr": "Hermann Hesse doğar",
+      "zh": "赫尔曼·黑塞出生",
+      "ja": "ヘルマン・ヘッセが生まれる",
+      "ko": "헤르만 헤세가 태어나다",
+      "hi": "हर्मन हेसे का जन्म हुआ",
+      "ar": "ولادة هرمان هسه"
     },
     "description": {
       "ru": "2 июля 1877 года в Кальве в Вюртемберге родился писатель Герман Гессе. Его романы о взрослении, поиске себя и духовном пути стали известны далеко за пределами Германии.",
       "de": "Am 2. Juli 1877 wurde der Schriftsteller Hermann Hesse in Calw in Wuerttemberg geboren. Seine Romane ueber Erwachsenwerden, Selbstsuche und geistige Wege wurden weit ueber Deutschland hinaus bekannt.",
-      "en": "On 2 July 1877, writer Hermann Hesse was born in Calw, Wuerttemberg. His novels about growing up, self-discovery and spiritual searching became known far beyond Germany."
+      "en": "On 2 July 1877, writer Hermann Hesse was born in Calw, Wuerttemberg. His novels about growing up, self-discovery and spiritual searching became known far beyond Germany.",
+      "fr": "Le 2 juillet 1877, l'écrivain Hermann Hesse naquit à Calw, dans le Wurtemberg. Ses romans sur le passage à l'âge adulte, la recherche de soi et le chemin spirituel devinrent connus bien au-delà de l'Allemagne.",
+      "es": "El 2 de julio de 1877 nació el escritor Hermann Hesse en Calw, Wurtemberg. Sus novelas sobre el crecimiento, la búsqueda de uno mismo y el camino espiritual se hicieron conocidas mucho más allá de Alemania.",
+      "it": "Il 2 luglio 1877 lo scrittore Hermann Hesse nacque a Calw, nel Württemberg. I suoi romanzi sulla crescita, la ricerca di sé e il cammino spirituale divennero noti ben oltre la Germania.",
+      "pt": "Em 2 de julho de 1877, o escritor Hermann Hesse nasceu em Calw, em Württemberg. Seus romances sobre amadurecimento, busca de si mesmo e caminho espiritual tornaram-se conhecidos muito além da Alemanha.",
+      "nl": "Op 2 juli 1877 werd schrijver Hermann Hesse geboren in Calw, Württemberg. Zijn romans over volwassen worden, zelfontdekking en geestelijke zoektocht werden tot ver buiten Duitsland bekend.",
+      "pl": "2 lipca 1877 roku w Calw w Wirtembergii urodził się pisarz Hermann Hesse. Jego powieści o dorastaniu, poszukiwaniu siebie i duchowej drodze stały się znane daleko poza Niemcami.",
+      "tr": "2 Temmuz 1877'de yazar Hermann Hesse, Württemberg'deki Calw kentinde doğdu. Büyüme, kendini arama ve ruhsal yolculuk üzerine romanları Almanya'nın çok ötesinde tanındı.",
+      "zh": "1877年7月2日，作家赫尔曼·黑塞出生于符腾堡的卡尔夫。他关于成长、自我寻找和精神道路的小说在德国以外也广为人知。",
+      "ja": "1877年7月2日、作家ヘルマン・ヘッセはヴュルテンベルクのカルフで生まれた。成長、自分探し、精神的な旅を描いた彼の小説は、ドイツを越えて広く知られるようになった。",
+      "ko": "1877년 7월 2일, 작가 헤르만 헤세가 뷔르템베르크의 칼프에서 태어났다. 성장, 자기 발견, 영적 탐구를 다룬 그의 소설들은 독일 밖에서도 널리 알려졌다.",
+      "hi": "2 जुलाई 1877 को लेखक हर्मन हेसे का जन्म वुर्टेमबर्ग के काल्व में हुआ। बड़े होने, स्वयं की खोज और आध्यात्मिक यात्रा पर उनके उपन्यास जर्मनी से बहुत दूर तक प्रसिद्ध हुए।",
+      "ar": "في 2 يوليو 1877 ولد الكاتب هرمان هسه في كالف في فورتمبيرغ. وأصبحت رواياته عن النضج والبحث عن الذات والطريق الروحي معروفة بعيدا خارج ألمانيا."
     },
     "importance": {
       "ru": "Гессе получил Нобелевскую премию по литературе и стал одним из самых читаемых немецкоязычных авторов XX века.",
       "de": "Hesse erhielt den Nobelpreis fuer Literatur und wurde einer der meistgelesenen deutschsprachigen Autoren des 20. Jahrhunderts.",
-      "en": "Hesse received the Nobel Prize in Literature and became one of the most widely read German-language authors of the 20th century."
+      "en": "Hesse received the Nobel Prize in Literature and became one of the most widely read German-language authors of the 20th century.",
+      "fr": "Hesse reçut le prix Nobel de littérature et devint l'un des auteurs de langue allemande les plus lus du XXe siècle.",
+      "es": "Hesse recibió el Premio Nobel de Literatura y se convirtió en uno de los autores en lengua alemana más leídos del siglo XX.",
+      "it": "Hesse ricevette il Premio Nobel per la letteratura e divenne uno degli autori di lingua tedesca più letti del XX secolo.",
+      "pt": "Hesse recebeu o Prêmio Nobel de Literatura e tornou-se um dos autores de língua alemã mais lidos do século XX.",
+      "nl": "Hesse ontving de Nobelprijs voor Literatuur en werd een van de meest gelezen Duitstalige auteurs van de twintigste eeuw.",
+      "pl": "Hesse otrzymał Literacką Nagrodę Nobla i stał się jednym z najczęściej czytanych niemieckojęzycznych autorów XX wieku.",
+      "tr": "Hesse Nobel Edebiyat Ödülü'nü aldı ve 20. yüzyılın en çok okunan Almanca yazan yazarlarından biri oldu.",
+      "zh": "黑塞获得诺贝尔文学奖，并成为20世纪最受阅读的德语作家之一。",
+      "ja": "ヘッセはノーベル文学賞を受賞し、20世紀で最も広く読まれたドイツ語作家の一人となった。",
+      "ko": "헤세는 노벨 문학상을 받았고 20세기에 가장 널리 읽힌 독일어권 작가 중 한 사람이 되었다.",
+      "hi": "हेसे को साहित्य का नोबेल पुरस्कार मिला और वे 20वीं सदी के सबसे अधिक पढ़े जाने वाले जर्मन-भाषी लेखकों में से एक बने।",
+      "ar": "حصل هسه على جائزة نوبل في الأدب وأصبح أحد أكثر الكتاب باللغة الألمانية قراءة في القرن العشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Нобелевская премия по литературе",
           "de": "Nobelpreis fuer Literatur",
-          "en": "Nobel Prize in Literature"
+          "en": "Nobel Prize in Literature",
+          "fr": "Prix Nobel de littérature",
+          "es": "Premio Nobel de Literatura",
+          "it": "Premio Nobel per la letteratura",
+          "pt": "Prêmio Nobel de Literatura",
+          "nl": "Nobelprijs voor Literatuur",
+          "pl": "Literacka Nagroda Nobla",
+          "tr": "Nobel Edebiyat Ödülü",
+          "zh": "诺贝尔文学奖",
+          "ja": "ノーベル文学賞",
+          "ko": "노벨 문학상",
+          "hi": "साहित्य का नोबेल पुरस्कार",
+          "ar": "جائزة نوبل في الأدب"
         },
         "description": {
           "ru": "В 1946 году Гессе получил Нобелевскую премию по литературе. После катастрофы войны его книги читали как разговор о внутренней свободе и личной ответственности.",
           "de": "1946 erhielt Hesse den Nobelpreis fuer Literatur. Nach der Katastrophe des Krieges wurden seine Buecher als Gespraech ueber innere Freiheit und persoenliche Verantwortung gelesen.",
-          "en": "In 1946, Hesse received the Nobel Prize in Literature. After the catastrophe of war, his books were read as a conversation about inner freedom and personal responsibility."
+          "en": "In 1946, Hesse received the Nobel Prize in Literature. After the catastrophe of war, his books were read as a conversation about inner freedom and personal responsibility.",
+          "fr": "En 1946, Hesse reçut le prix Nobel de littérature. Après la catastrophe de la guerre, ses livres furent lus comme une réflexion sur la liberté intérieure et la responsabilité personnelle.",
+          "es": "En 1946, Hesse recibió el Premio Nobel de Literatura. Tras la catástrofe de la guerra, sus libros se leyeron como una conversación sobre la libertad interior y la responsabilidad personal.",
+          "it": "Nel 1946 Hesse ricevette il Premio Nobel per la letteratura. Dopo la catastrofe della guerra, i suoi libri furono letti come un dialogo sulla libertà interiore e la responsabilità personale.",
+          "pt": "Em 1946, Hesse recebeu o Prêmio Nobel de Literatura. Após a catástrofe da guerra, seus livros foram lidos como uma conversa sobre liberdade interior e responsabilidade pessoal.",
+          "nl": "In 1946 ontving Hesse de Nobelprijs voor Literatuur. Na de ramp van de oorlog werden zijn boeken gelezen als een gesprek over innerlijke vrijheid en persoonlijke verantwoordelijkheid.",
+          "pl": "W 1946 roku Hesse otrzymał Literacką Nagrodę Nobla. Po katastrofie wojny jego książki czytano jako rozmowę o wewnętrznej wolności i osobistej odpowiedzialności.",
+          "tr": "Hesse 1946'da Nobel Edebiyat Ödülü'nü aldı. Savaş felaketinden sonra kitapları iç özgürlük ve kişisel sorumluluk üzerine bir konuşma gibi okundu.",
+          "zh": "1946年，黑塞获得诺贝尔文学奖。战争灾难之后，人们把他的书读作关于内在自由和个人责任的对话。",
+          "ja": "1946年、ヘッセはノーベル文学賞を受賞した。戦争の惨禍の後、彼の本は内面の自由と個人の責任についての対話として読まれた。",
+          "ko": "1946년 헤세는 노벨 문학상을 받았다. 전쟁의 참사 이후 그의 책들은 내면의 자유와 개인의 책임에 관한 대화처럼 읽혔다.",
+          "hi": "1946 में हेसे को साहित्य का नोबेल पुरस्कार मिला। युद्ध की त्रासदी के बाद उनकी किताबें आंतरिक स्वतंत्रता और व्यक्तिगत जिम्मेदारी पर बातचीत की तरह पढ़ी गईं।",
+          "ar": "في عام 1946 حصل هسه على جائزة نوبل في الأدب. وبعد كارثة الحرب قرئت كتبه كحديث عن الحرية الداخلية والمسؤولية الشخصية."
         },
         "importance": {
           "ru": "Его творчество помогает увидеть Германию не только через события, но и через внутренний мир человека.",
           "de": "Sein Werk hilft, Deutschland nicht nur durch Ereignisse, sondern auch durch die innere Welt des Menschen zu sehen.",
-          "en": "His work helps show Germany not only through events, but also through the inner life of the individual."
+          "en": "His work helps show Germany not only through events, but also through the inner life of the individual.",
+          "fr": "Son œuvre aide à voir l'Allemagne non seulement à travers les événements, mais aussi à travers le monde intérieur de l'être humain.",
+          "es": "Su obra ayuda a ver Alemania no solo a través de los acontecimientos, sino también a través del mundo interior de la persona.",
+          "it": "La sua opera aiuta a vedere la Germania non solo attraverso gli eventi, ma anche attraverso il mondo interiore dell'individuo.",
+          "pt": "Sua obra ajuda a ver a Alemanha não apenas por meio dos acontecimentos, mas também pelo mundo interior da pessoa.",
+          "nl": "Zijn werk helpt Duitsland niet alleen via gebeurtenissen te zien, maar ook via de innerlijke wereld van de mens.",
+          "pl": "Jego twórczość pomaga zobaczyć Niemcy nie tylko przez wydarzenia, lecz także przez wewnętrzny świat człowieka.",
+          "tr": "Eserleri Almanya'yı yalnızca olaylar üzerinden değil, insanın iç dünyası üzerinden de görmeye yardım eder.",
+          "zh": "他的作品帮助人们不仅通过事件，也通过个人的内心世界来看德国。",
+          "ja": "彼の作品は、出来事だけでなく人間の内面を通してドイツを見る助けになる。",
+          "ko": "그의 작품은 독일을 사건만이 아니라 개인의 내면 세계를 통해서도 보게 해 준다.",
+          "hi": "उनकी रचनाएं जर्मनी को केवल घटनाओं से नहीं, बल्कि मनुष्य की आंतरिक दुनिया से भी देखने में मदद करती हैं।",
+          "ar": "يساعد عمله على رؤية ألمانيا ليس عبر الأحداث فقط، بل أيضا عبر العالم الداخلي للإنسان."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Гессе родился в Шварцвальде, но большую часть взрослой жизни провёл в Швейцарии.",
     "de": "Hesse wurde im Schwarzwald geboren, verbrachte aber einen grossen Teil seines Erwachsenenlebens in der Schweiz.",
-    "en": "Hesse was born in the Black Forest region but spent much of his adult life in Switzerland."
+    "en": "Hesse was born in the Black Forest region but spent much of his adult life in Switzerland.",
+    "fr": "Hesse naquit dans la région de la Forêt-Noire, mais passa une grande partie de sa vie adulte en Suisse.",
+    "es": "Hesse nació en la región de la Selva Negra, pero pasó gran parte de su vida adulta en Suiza.",
+    "it": "Hesse nacque nella regione della Foresta Nera, ma trascorse gran parte della vita adulta in Svizzera.",
+    "pt": "Hesse nasceu na região da Floresta Negra, mas passou grande parte da vida adulta na Suíça.",
+    "nl": "Hesse werd geboren in het Zwarte Woud, maar bracht een groot deel van zijn volwassen leven in Zwitserland door.",
+    "pl": "Hesse urodził się w regionie Schwarzwaldu, ale dużą część dorosłego życia spędził w Szwajcarii.",
+    "tr": "Hesse Kara Orman bölgesinde doğdu, ancak yetişkin yaşamının büyük bölümünü İsviçre'de geçirdi.",
+    "zh": "黑塞出生在黑森林地区，但成年后的大部分时间在瑞士度过。",
+    "ja": "ヘッセは黒い森地方で生まれたが、成人後の人生の多くをスイスで過ごした。",
+    "ko": "헤세는 검은숲 지역에서 태어났지만 성인기의 대부분을 스위스에서 보냈다.",
+    "hi": "हेसे का जन्म ब्लैक फॉरेस्ट क्षेत्र में हुआ, लेकिन वयस्क जीवन का बड़ा हिस्सा उन्होंने स्विट्जरलैंड में बिताया।",
+    "ar": "ولد هسه في منطقة الغابة السوداء، لكنه قضى جزءا كبيرا من حياته البالغة في سويسرا."
   },
   "sources": [
     {
