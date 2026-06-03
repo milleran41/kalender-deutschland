@@ -11,17 +11,53 @@
     "title": {
       "ru": "Берлинская версия рождения карривурста",
       "de": "Berliner Version der Currywurst-Erfindung",
-      "en": "Berlin's version of the invention of currywurst"
+      "en": "Berlin's version of the invention of currywurst",
+      "fr": "La version berlinoise de l'invention de la currywurst",
+      "es": "La versión berlinesa del nacimiento de la currywurst",
+      "it": "La versione berlinese dell'invenzione della currywurst",
+      "pt": "A versão berlinense da invenção da currywurst",
+      "nl": "De Berlijnse versie van de uitvinding van currywurst",
+      "pl": "Berlińska wersja narodzin currywursta",
+      "tr": "Currywurst'un icadı hakkında Berlin versiyonu",
+      "zh": "柏林版咖喱香肠诞生故事",
+      "ja": "カリーヴルスト誕生のベルリン版",
+      "ko": "커리부어스트 탄생에 관한 베를린식 이야기",
+      "hi": "करीवुर्स्ट के जन्म की बर्लिन वाली कहानी",
+      "ar": "الرواية البرلينية لاختراع الكاري فورست"
     },
     "description": {
       "ru": "По берлинской версии, 4 сентября 1949 года Герта Хойвер придумала соус для карривурста в своём киоске в Шарлоттенбурге. История происхождения блюда спорная, но берлинская версия стала самой известной.",
       "de": "Nach Berliner Darstellung erfand Herta Heuwer am 4. September 1949 in ihrem Imbiss in Charlottenburg die Sauce fuer die Currywurst. Die Herkunftsgeschichte ist umstritten, doch die Berliner Version ist die bekannteste.",
-      "en": "According to Berlin's version, on 4 September 1949 Herta Heuwer invented the sauce for currywurst at her snack stand in Charlottenburg. The origin story is disputed, but the Berlin version is the best known."
+      "en": "According to Berlin's version, on 4 September 1949 Herta Heuwer invented the sauce for currywurst at her snack stand in Charlottenburg. The origin story is disputed, but the Berlin version is the best known.",
+      "fr": "Selon la version berlinoise, le 4 septembre 1949, Herta Heuwer inventa la sauce de la currywurst dans son kiosque de Charlottenburg. L'origine du plat est discutée, mais la version berlinoise est la plus connue.",
+      "es": "Según la versión berlinesa, el 4 de septiembre de 1949 Herta Heuwer inventó la salsa para la currywurst en su puesto de Charlottenburg. El origen del plato es discutido, pero la versión de Berlín es la más conocida.",
+      "it": "Secondo la versione berlinese, il 4 settembre 1949 Herta Heuwer inventò la salsa per la currywurst nel suo chiosco a Charlottenburg. L'origine del piatto è discussa, ma la versione berlinese è la più nota.",
+      "pt": "Segundo a versão de Berlim, em 4 de setembro de 1949 Herta Heuwer inventou o molho da currywurst em seu quiosque em Charlottenburg. A origem do prato é discutida, mas a versão berlinense é a mais conhecida.",
+      "nl": "Volgens de Berlijnse versie bedacht Herta Heuwer op 4 september 1949 de saus voor currywurst in haar snackkraam in Charlottenburg. Het oorsprongsverhaal is omstreden, maar de Berlijnse versie is het bekendst.",
+      "pl": "Według berlińskiej wersji 4 września 1949 roku Herta Heuwer wymyśliła sos do currywursta w swoim kiosku w Charlottenburgu. Historia pochodzenia potrawy jest sporna, ale berlińska wersja jest najbardziej znana.",
+      "tr": "Berlin anlatısına göre Herta Heuwer, 4 Eylül 1949'da Charlottenburg'daki büfesinde currywurst sosunu icat etti. Yemeğin kökeni tartışmalıdır, ancak Berlin versiyonu en çok bilinenidir.",
+      "zh": "按照柏林的说法，1949年9月4日，赫塔·霍伊韦尔在夏洛滕堡的小吃摊发明了咖喱香肠酱。这道菜的起源存在争议，但柏林版本最为有名。",
+      "ja": "ベルリン版の話では、1949年9月4日、ヘルタ・ホイヴァーがシャルロッテンブルクの軽食スタンドでカリーヴルストのソースを考案しました。この料理の起源には議論がありますが、ベルリン版が最もよく知られています。",
+      "ko": "베를린식 설명에 따르면 1949년 9월 4일 헤르타 호이버가 샤를로텐부르크의 간식 가판대에서 커리부어스트 소스를 만들었습니다. 이 음식의 기원은 논쟁적이지만 베를린 버전이 가장 잘 알려져 있습니다.",
+      "hi": "बर्लिन वाली कहानी के अनुसार, 4 सितंबर 1949 को हर्टा होयवर ने शार्लोटेनबुर्ग में अपने खाने के स्टॉल पर करीवुर्स्ट की चटनी बनाई। इस व्यंजन की उत्पत्ति विवादित है, लेकिन बर्लिन वाली कहानी सबसे प्रसिद्ध है।",
+      "ar": "بحسب الرواية البرلينية، ابتكرت هيرتا هوير في 4 سبتمبر 1949 صلصة الكاري فورست في كشكها في شارلوتنبورغ. قصة أصل الطبق محل خلاف، لكن الرواية البرلينية هي الأشهر."
     },
     "importance": {
       "ru": "Это лёгкая, но очень узнаваемая часть послевоенной городской культуры Германии.",
       "de": "Das ist ein leichter, aber sehr wiedererkennbarer Teil der deutschen Nachkriegskultur.",
-      "en": "It is a light but very recognizable part of Germany's postwar urban culture."
+      "en": "It is a light but very recognizable part of Germany's postwar urban culture.",
+      "fr": "C'est une partie légère, mais très reconnaissable, de la culture urbaine allemande d'après-guerre.",
+      "es": "Es una parte ligera, pero muy reconocible, de la cultura urbana alemana de posguerra.",
+      "it": "È una parte leggera, ma molto riconoscibile, della cultura urbana tedesca del dopoguerra.",
+      "pt": "É uma parte leve, mas muito reconhecível, da cultura urbana alemã do pós-guerra.",
+      "nl": "Het is een licht, maar zeer herkenbaar onderdeel van de Duitse naoorlogse stadscultuur.",
+      "pl": "To lekka, ale bardzo rozpoznawalna część powojennej kultury miejskiej Niemiec.",
+      "tr": "Bu, Almanya'nın savaş sonrası kent kültürünün hafif ama çok tanınan bir parçasıdır.",
+      "zh": "这是德国战后城市文化中轻松但非常有辨识度的一部分。",
+      "ja": "これは、戦後ドイツの都市文化の中で軽やかでありながら非常によく知られた部分です。",
+      "ko": "이는 독일 전후 도시 문화에서 가볍지만 매우 알아보기 쉬운 부분입니다.",
+      "hi": "यह युद्धोत्तर जर्मनी की शहरी संस्कृति का हल्का, लेकिन बहुत पहचानने योग्य हिस्सा है।",
+      "ar": "إنها جزء خفيف لكنه معروف جداً من الثقافة الحضرية الألمانية بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Городская легенда с соусом",
           "de": "Eine Stadtlegende mit Sauce",
-          "en": "An urban legend with sauce"
+          "en": "An urban legend with sauce",
+          "fr": "Une légende urbaine avec de la sauce",
+          "es": "Una leyenda urbana con salsa",
+          "it": "Una leggenda urbana con salsa",
+          "pt": "Uma lenda urbana com molho",
+          "nl": "Een stadslegende met saus",
+          "pl": "Miejska legenda z sosem",
+          "tr": "Soslu bir şehir efsanesi",
+          "zh": "带着酱汁的城市传说",
+          "ja": "ソース付きの都市伝説",
+          "ko": "소스가 있는 도시 전설",
+          "hi": "चटनी वाली शहरी किंवदंती",
+          "ar": "أسطورة حضرية مع صلصة"
         },
         "description": {
           "ru": "На изобретение карривурста претендуют разные места, включая Берлин и Гамбург. Именно поэтому эта история хорошо показывает, как еда превращается в городскую идентичность.",
           "de": "Verschiedene Orte, darunter Berlin und Hamburg, beanspruchen die Erfindung der Currywurst. Genau deshalb zeigt die Geschichte, wie Essen zur staedtischen Identitaet wird.",
-          "en": "Different places, including Berlin and Hamburg, claim the invention of currywurst. That is why the story shows how food becomes part of urban identity."
+          "en": "Different places, including Berlin and Hamburg, claim the invention of currywurst. That is why the story shows how food becomes part of urban identity.",
+          "fr": "Différents lieux, dont Berlin et Hambourg, revendiquent l'invention de la currywurst. C'est justement pourquoi cette histoire montre comment la nourriture devient une partie de l'identité urbaine.",
+          "es": "Distintos lugares, incluidos Berlín y Hamburgo, reclaman la invención de la currywurst. Por eso esta historia muestra cómo la comida se convierte en parte de la identidad urbana.",
+          "it": "Diversi luoghi, tra cui Berlino e Amburgo, rivendicano l'invenzione della currywurst. Proprio per questo la storia mostra come il cibo diventi parte dell'identità urbana.",
+          "pt": "Diferentes lugares, incluindo Berlim e Hamburgo, reivindicam a invenção da currywurst. Por isso a história mostra como a comida se torna parte da identidade urbana.",
+          "nl": "Verschillende plaatsen, waaronder Berlijn en Hamburg, claimen de uitvinding van currywurst. Juist daarom laat dit verhaal zien hoe eten deel wordt van stedelijke identiteit.",
+          "pl": "Różne miejsca, w tym Berlin i Hamburg, roszczą sobie prawo do wynalezienia currywursta. Właśnie dlatego ta historia pokazuje, jak jedzenie staje się częścią miejskiej tożsamości.",
+          "tr": "Berlin ve Hamburg dahil farklı yerler currywurst'u kendilerinin icat ettiğini iddia eder. Bu yüzden hikâye, yemeğin kentsel kimliğin parçasına nasıl dönüştüğünü iyi gösterir.",
+          "zh": "包括柏林和汉堡在内的不同地方都声称发明了咖喱香肠。正因如此，这个故事很好地说明了食物如何成为城市身份的一部分。",
+          "ja": "ベルリンやハンブルクを含むさまざまな場所が、カリーヴルストの発明を主張しています。だからこそこの話は、食べ物が都市のアイデンティティの一部になる様子をよく示しています。",
+          "ko": "베를린과 함부르크를 포함한 여러 곳이 커리부어스트의 발명을 주장합니다. 그래서 이 이야기는 음식이 도시 정체성의 일부가 되는 과정을 잘 보여 줍니다.",
+          "hi": "बर्लिन और हैम्बर्ग सहित कई जगहें करीवुर्स्ट के आविष्कार का दावा करती हैं। इसलिए यह कहानी दिखाती है कि भोजन कैसे शहरी पहचान का हिस्सा बन जाता है।",
+          "ar": "تدعي أماكن مختلفة، منها برلين وهامبورغ، أنها اخترعت الكاري فورست. ولهذا تُظهر القصة كيف يصبح الطعام جزءاً من الهوية الحضرية."
         },
         "importance": {
           "ru": "Не все исторические сюжеты обязаны быть монументальными; иногда людям запоминается киоск и тарелка с соусом.",
           "de": "Nicht jede Geschichte muss monumental sein; manchmal erinnert man sich an einen Imbiss und eine Schale Sauce.",
-          "en": "Not every historical story has to be monumental; sometimes people remember a snack stand and a dish of sauce."
+          "en": "Not every historical story has to be monumental; sometimes people remember a snack stand and a dish of sauce.",
+          "fr": "Toutes les histoires historiques ne doivent pas être monumentales ; parfois, les gens se souviennent d'un kiosque et d'une assiette de sauce.",
+          "es": "No todos los relatos históricos tienen que ser monumentales; a veces la gente recuerda un puesto de comida y un plato con salsa.",
+          "it": "Non tutte le storie storiche devono essere monumentali; a volte le persone ricordano un chiosco e un piatto con salsa.",
+          "pt": "Nem toda história do passado precisa ser monumental; às vezes as pessoas lembram de um quiosque e de um prato com molho.",
+          "nl": "Niet elk historisch verhaal hoeft monumentaal te zijn; soms herinneren mensen zich een snackkraam en een bord met saus.",
+          "pl": "Nie każda opowieść historyczna musi być monumentalna; czasem ludzie zapamiętują kiosk i talerz z sosem.",
+          "tr": "Her tarihsel hikâyenin anıtsal olması gerekmez; bazen insanlar bir büfeyi ve soslu bir tabağı hatırlar.",
+          "zh": "并不是所有历史故事都必须宏大；有时候人们记住的是一个小吃摊和一盘酱汁。",
+          "ja": "歴史の話がすべて壮大である必要はありません。人々が覚えているのは、軽食スタンドとソースの皿であることもあります。",
+          "ko": "모든 역사 이야기가 거대할 필요는 없습니다. 때로 사람들은 간식 가판대와 소스가 담긴 접시를 기억합니다.",
+          "hi": "हर ऐतिहासिक कहानी भव्य हो, यह ज़रूरी नहीं; कभी-कभी लोग एक खाने का स्टॉल और चटनी वाली प्लेट याद रखते हैं।",
+          "ar": "ليست كل قصة تاريخية مضطرة لأن تكون ضخمة؛ أحياناً يتذكر الناس كشكاً وطبقاً من الصلصة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Берлине на Кантштрассе установлена памятная табличка, связанная с Гертой Хойвер.",
     "de": "In Berlin an der Kantstrasse erinnert eine Gedenktafel an Herta Heuwer.",
-    "en": "A plaque on Kantstrasse in Berlin commemorates Herta Heuwer."
+    "en": "A plaque on Kantstrasse in Berlin commemorates Herta Heuwer.",
+    "fr": "Une plaque sur la Kantstrasse à Berlin rappelle Herta Heuwer.",
+    "es": "Una placa en Kantstrasse, en Berlín, recuerda a Herta Heuwer.",
+    "it": "Una targa sulla Kantstrasse a Berlino ricorda Herta Heuwer.",
+    "pt": "Uma placa na Kantstrasse, em Berlim, homenageia Herta Heuwer.",
+    "nl": "Een gedenkplaat aan de Kantstrasse in Berlijn herinnert aan Herta Heuwer.",
+    "pl": "Tablica pamiątkowa przy Kantstrasse w Berlinie upamiętnia Hertę Heuwer.",
+    "tr": "Berlin'deki Kantstrasse'de Herta Heuwer'i anan bir plaket vardır.",
+    "zh": "柏林康德大街上有一块纪念赫塔·霍伊韦尔的牌匾。",
+    "ja": "ベルリンのカント通りには、ヘルタ・ホイヴァーを記念する銘板があります。",
+    "ko": "베를린 Kantstrasse에는 헤르타 호이버를 기리는 기념판이 있습니다.",
+    "hi": "बर्लिन की Kantstrasse पर हर्टा होयवर की स्मृति में एक पट्टिका लगी है।",
+    "ar": "توجد لوحة تذكارية في شارع كانتشتراسه في برلين تخلد هيرتا هوير."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Теракт на Олимпиаде в Мюнхене",
       "de": "Das Attentat bei den Olympischen Spielen in Muenchen",
-      "en": "The attack at the Munich Olympic Games"
+      "en": "The attack at the Munich Olympic Games",
+      "fr": "L'attentat aux Jeux olympiques de Munich",
+      "es": "El atentado en los Juegos Olímpicos de Múnich",
+      "it": "L'attentato ai Giochi olimpici di Monaco",
+      "pt": "O atentado nos Jogos Olímpicos de Munique",
+      "nl": "De aanslag tijdens de Olympische Spelen in München",
+      "pl": "Zamach podczas igrzysk olimpijskich w Monachium",
+      "tr": "Münih Olimpiyat Oyunları'ndaki saldırı",
+      "zh": "慕尼黑奥运会袭击事件",
+      "ja": "ミュンヘン・オリンピックでの襲撃事件",
+      "ko": "뮌헨 올림픽 테러 공격",
+      "hi": "म्यूनिख ओलंपिक खेलों में आतंकी हमला",
+      "ar": "الهجوم في الألعاب الأولمبية في ميونيخ"
     },
     "description": {
       "ru": "5 сентября 1972 года палестинская группа «Чёрный сентябрь» захватила израильских спортсменов в Олимпийской деревне. В результате погибли 11 членов израильской команды и немецкий полицейский.",
       "de": "Am 5. September 1972 nahm die palaestinensische Gruppe Schwarzer September israelische Sportler im Olympischen Dorf als Geiseln. Am Ende starben elf Mitglieder der israelischen Mannschaft und ein deutscher Polizist.",
-      "en": "On 5 September 1972, the Palestinian group Black September took Israeli athletes hostage in the Olympic Village. Eleven members of the Israeli team and a German police officer were killed."
+      "en": "On 5 September 1972, the Palestinian group Black September took Israeli athletes hostage in the Olympic Village. Eleven members of the Israeli team and a German police officer were killed.",
+      "fr": "Le 5 septembre 1972, le groupe palestinien Septembre noir prit des sportifs israéliens en otage dans le village olympique. Onze membres de l'équipe israélienne et un policier allemand furent tués.",
+      "es": "El 5 de septiembre de 1972, el grupo palestino Septiembre Negro tomó como rehenes a atletas israelíes en la Villa Olímpica. Murieron once miembros del equipo israelí y un policía alemán.",
+      "it": "Il 5 settembre 1972 il gruppo palestinese Settembre Nero prese in ostaggio atleti israeliani nel Villaggio olimpico. Morirono undici membri della squadra israeliana e un poliziotto tedesco.",
+      "pt": "Em 5 de setembro de 1972, o grupo palestino Setembro Negro fez atletas israelenses reféns na Vila Olímpica. Onze membros da equipe israelense e um policial alemão foram mortos.",
+      "nl": "Op 5 september 1972 nam de Palestijnse groep Zwarte September Israëlische sporters in gijzeling in het Olympisch Dorp. Elf leden van de Israëlische ploeg en een Duitse politieagent kwamen om.",
+      "pl": "5 września 1972 roku palestyńska grupa Czarny Wrzesień wzięła izraelskich sportowców jako zakładników w wiosce olimpijskiej. Zginęło jedenastu członków izraelskiej drużyny i niemiecki policjant.",
+      "tr": "5 Eylül 1972'de Filistinli Kara Eylül grubu, Olimpiyat Köyü'nde İsrailli sporcuları rehin aldı. İsrail takımından on bir kişi ve bir Alman polisi öldürüldü.",
+      "zh": "1972年9月5日，巴勒斯坦组织“黑色九月”在奥运村劫持了以色列运动员。以色列队11名成员和一名德国警察遇害。",
+      "ja": "1972年9月5日、パレスチナの組織「黒い九月」がオリンピック村でイスラエル選手を人質に取りました。イスラエル選手団の11人とドイツ人警察官1人が殺害されました。",
+      "ko": "1972년 9월 5일 팔레스타인 단체 검은 9월단이 올림픽 선수촌에서 이스라엘 선수들을 인질로 잡았습니다. 이스라엘 선수단 11명과 독일 경찰관 1명이 사망했습니다.",
+      "hi": "5 सितंबर 1972 को फिलिस्तीनी समूह ब्लैक सितंबर ने ओलंपिक विलेज में इज़राइली खिलाड़ियों को बंधक बना लिया। इज़राइली टीम के 11 सदस्य और एक जर्मन पुलिसकर्मी मारे गए।",
+      "ar": "في 5 سبتمبر 1972 أخذت جماعة أيلول الأسود الفلسطينية رياضيين إسرائيليين رهائن في القرية الأولمبية. وقُتل أحد عشر عضواً من الفريق الإسرائيلي وشرطي ألماني."
     },
     "importance": {
       "ru": "Событие навсегда изменило представления о безопасности крупных спортивных мероприятий.",
       "de": "Das Ereignis veraenderte dauerhaft die Sicherheitsvorstellungen fuer grosse Sportveranstaltungen.",
-      "en": "The event permanently changed ideas about security at major sporting events."
+      "en": "The event permanently changed ideas about security at major sporting events.",
+      "fr": "L'événement changea durablement les idées sur la sécurité des grands événements sportifs.",
+      "es": "El suceso cambió para siempre las ideas sobre la seguridad en grandes eventos deportivos.",
+      "it": "L'evento cambiò in modo duraturo le idee sulla sicurezza dei grandi eventi sportivi.",
+      "pt": "O acontecimento mudou permanentemente as ideias sobre segurança em grandes eventos esportivos.",
+      "nl": "De gebeurtenis veranderde blijvend het denken over veiligheid bij grote sportevenementen.",
+      "pl": "Wydarzenie na zawsze zmieniło wyobrażenia o bezpieczeństwie wielkich imprez sportowych.",
+      "tr": "Olay, büyük spor etkinliklerinde güvenlik anlayışını kalıcı olarak değiştirdi.",
+      "zh": "这一事件永久改变了人们对大型体育赛事安全的看法。",
+      "ja": "この出来事は、大規模スポーツ大会の安全に対する考え方を永久に変えました。",
+      "ko": "이 사건은 대형 스포츠 행사에서의 안전에 대한 생각을 영구적으로 바꾸었습니다.",
+      "hi": "इस घटना ने बड़े खेल आयोजनों की सुरक्षा के बारे में धारणाओं को हमेशा के लिए बदल दिया।",
+      "ar": "غيّر هذا الحدث بصورة دائمة التصورات حول أمن الفعاليات الرياضية الكبرى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Родился Каспар Давид Фридрих",
           "de": "Caspar David Friedrich wird geboren",
-          "en": "Caspar David Friedrich is born"
+          "en": "Caspar David Friedrich is born",
+          "fr": "Caspar David Friedrich naît",
+          "es": "Nace Caspar David Friedrich",
+          "it": "Nasce Caspar David Friedrich",
+          "pt": "Nasce Caspar David Friedrich",
+          "nl": "Caspar David Friedrich wordt geboren",
+          "pl": "Urodził się Caspar David Friedrich",
+          "tr": "Caspar David Friedrich doğdu",
+          "zh": "卡斯帕·大卫·弗里德里希诞生",
+          "ja": "カスパー・ダーヴィト・フリードリヒが生まれる",
+          "ko": "카스파르 다비트 프리드리히가 태어나다",
+          "hi": "कास्पर डेविड फ्रेडरिक का जन्म हुआ",
+          "ar": "ولادة كاسبار دافيد فريدريش"
         },
         "description": {
           "ru": "5 сентября 1774 года в Грайфсвальде родился художник Каспар Давид Фридрих. Он стал одной из главных фигур немецкого романтического пейзажа.",
           "de": "Am 5. September 1774 wurde der Maler Caspar David Friedrich in Greifswald geboren. Er wurde zu einer der wichtigsten Figuren der deutschen romantischen Landschaftsmalerei.",
-          "en": "On 5 September 1774, painter Caspar David Friedrich was born in Greifswald. He became one of the central figures of German Romantic landscape painting."
+          "en": "On 5 September 1774, painter Caspar David Friedrich was born in Greifswald. He became one of the central figures of German Romantic landscape painting.",
+          "fr": "Le 5 septembre 1774, le peintre Caspar David Friedrich naquit à Greifswald. Il devint l'une des figures centrales du paysage romantique allemand.",
+          "es": "El 5 de septiembre de 1774 nació en Greifswald el pintor Caspar David Friedrich. Se convirtió en una de las figuras centrales del paisaje romántico alemán.",
+          "it": "Il 5 settembre 1774 nacque a Greifswald il pittore Caspar David Friedrich. Divenne una delle figure centrali del paesaggio romantico tedesco.",
+          "pt": "Em 5 de setembro de 1774 nasceu em Greifswald o pintor Caspar David Friedrich. Ele se tornou uma das figuras centrais da pintura de paisagem romântica alemã.",
+          "nl": "Op 5 september 1774 werd schilder Caspar David Friedrich in Greifswald geboren. Hij werd een van de centrale figuren van de Duitse romantische landschapschilderkunst.",
+          "pl": "5 września 1774 roku w Greifswaldzie urodził się malarz Caspar David Friedrich. Stał się jedną z najważniejszych postaci niemieckiego pejzażu romantycznego.",
+          "tr": "5 Eylül 1774'te ressam Caspar David Friedrich Greifswald'da doğdu. Alman romantik manzara resminin başlıca figürlerinden biri oldu.",
+          "zh": "1774年9月5日，画家卡斯帕·大卫·弗里德里希出生于格赖夫斯瓦尔德。他成为德国浪漫主义风景画的核心人物之一。",
+          "ja": "1774年9月5日、画家カスパー・ダーヴィト・フリードリヒがグライフスヴァルトで生まれました。彼はドイツ・ロマン主義風景画の中心的人物の一人となりました。",
+          "ko": "1774년 9월 5일 화가 카스파르 다비트 프리드리히가 그라이프스발트에서 태어났습니다. 그는 독일 낭만주의 풍경화의 중심 인물 중 한 명이 되었습니다.",
+          "hi": "5 सितंबर 1774 को चित्रकार कास्पर डेविड फ्रेडरिक का जन्म ग्राइफ्सवाल्ड में हुआ। वे जर्मन रोमांटिक परिदृश्य चित्रकला की प्रमुख हस्तियों में से एक बने।",
+          "ar": "في 5 سبتمبر 1774 وُلد الرسام كاسبار دافيد فريدريش في غرايفسفالد. وأصبح من الشخصيات الرئيسية في رسم المناظر الطبيعية الرومانسية الألمانية."
         },
         "importance": {
           "ru": "Его картины сделали северные пейзажи, туман, руины и одиночные фигуры частью образа немецкого романтизма.",
           "de": "Seine Bilder machten nordische Landschaften, Nebel, Ruinen und einsame Figuren zu einem Teil des Bildes der deutschen Romantik.",
-          "en": "His paintings made northern landscapes, mist, ruins and solitary figures part of the image of German Romanticism."
+          "en": "His paintings made northern landscapes, mist, ruins and solitary figures part of the image of German Romanticism.",
+          "fr": "Ses tableaux firent des paysages du Nord, du brouillard, des ruines et des figures solitaires une partie de l'image du romantisme allemand.",
+          "es": "Sus cuadros hicieron que los paisajes del norte, la niebla, las ruinas y las figuras solitarias formaran parte de la imagen del Romanticismo alemán.",
+          "it": "I suoi quadri resero paesaggi nordici, nebbia, rovine e figure solitarie parte dell'immagine del Romanticismo tedesco.",
+          "pt": "Suas pinturas fizeram das paisagens do norte, da névoa, das ruínas e das figuras solitárias parte da imagem do Romantismo alemão.",
+          "nl": "Zijn schilderijen maakten noordelijke landschappen, mist, ruïnes en eenzame figuren tot onderdeel van het beeld van de Duitse romantiek.",
+          "pl": "Jego obrazy uczyniły północne pejzaże, mgłę, ruiny i samotne postacie częścią obrazu niemieckiego romantyzmu.",
+          "tr": "Resimleri kuzey manzaralarını, sisi, harabeleri ve yalnız figürleri Alman romantizminin imgesinin parçası yaptı.",
+          "zh": "他的画作使北方风景、雾、废墟和孤独人物成为德国浪漫主义形象的一部分。",
+          "ja": "彼の絵画は、北方の風景、霧、廃墟、孤独な人物をドイツ・ロマン主義のイメージの一部にしました。",
+          "ko": "그의 그림은 북쪽 풍경, 안개, 폐허, 고독한 인물을 독일 낭만주의 이미지의 일부로 만들었습니다.",
+          "hi": "उनकी चित्रकृतियों ने उत्तरी परिदृश्यों, धुंध, खंडहरों और अकेली आकृतियों को जर्मन रोमांटिसिज़्म की छवि का हिस्सा बना दिया।",
+          "ar": "جعلت لوحاته المناظر الشمالية والضباب والآثار والشخصيات الوحيدة جزءاً من صورة الرومانسية الألمانية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Тень над «весёлыми играми»",
           "de": "Ein Schatten ueber den heiteren Spielen",
-          "en": "A shadow over the cheerful Games"
+          "en": "A shadow over the cheerful Games",
+          "fr": "Une ombre sur les « Jeux joyeux »",
+          "es": "Una sombra sobre los «Juegos alegres»",
+          "it": "Un'ombra sui «Giochi allegri»",
+          "pt": "Uma sombra sobre os «Jogos alegres»",
+          "nl": "Een schaduw over de vrolijke Spelen",
+          "pl": "Cień nad „radosnymi igrzyskami”",
+          "tr": "Neşeli Oyunların üzerine düşen gölge",
+          "zh": "“欢乐奥运”上的阴影",
+          "ja": "「明るい大会」に落ちた影",
+          "ko": "즐거운 올림픽 위의 그림자",
+          "hi": "“हर्षित खेलों” पर छाया",
+          "ar": "ظل فوق «الألعاب المبهجة»"
         },
         "description": {
           "ru": "Организаторы хотели создать открытую и дружелюбную атмосферу. После теракта этот образ был разрушен.",
           "de": "Die Organisatoren wollten eine offene und freundliche Atmosphaere schaffen. Nach dem Attentat war dieses Bild zerstoert.",
-          "en": "The organizers wanted an open and friendly atmosphere. After the attack, that image was shattered."
+          "en": "The organizers wanted an open and friendly atmosphere. After the attack, that image was shattered.",
+          "fr": "Les organisateurs voulaient créer une atmosphère ouverte et amicale. Après l'attentat, cette image fut détruite.",
+          "es": "Los organizadores querían crear una atmósfera abierta y amistosa. Después del atentado, esa imagen quedó destruida.",
+          "it": "Gli organizzatori volevano creare un'atmosfera aperta e amichevole. Dopo l'attentato, quell'immagine fu distrutta.",
+          "pt": "Os organizadores queriam criar uma atmosfera aberta e amigável. Depois do atentado, essa imagem foi destruída.",
+          "nl": "De organisatoren wilden een open en vriendelijke sfeer creëren. Na de aanslag was dat beeld verbrijzeld.",
+          "pl": "Organizatorzy chcieli stworzyć otwartą i przyjazną atmosferę. Po zamachu ten obraz został zniszczony.",
+          "tr": "Organizatörler açık ve dostça bir atmosfer yaratmak istiyordu. Saldırıdan sonra bu imaj yıkıldı.",
+          "zh": "组织者希望营造开放友好的氛围。袭击发生后，这一形象被粉碎。",
+          "ja": "主催者は開かれた友好的な雰囲気を作ろうとしていました。襲撃の後、そのイメージは壊されました。",
+          "ko": "주최 측은 개방적이고 우호적인 분위기를 만들고자 했습니다. 공격 이후 그 이미지는 무너졌습니다.",
+          "hi": "आयोजक खुला और मित्रतापूर्ण वातावरण बनाना चाहते थे। हमले के बाद यह छवि टूट गई।",
+          "ar": "أراد المنظمون خلق أجواء منفتحة وودية. وبعد الهجوم تحطمت هذه الصورة."
         },
         "importance": {
           "ru": "Дата показывает, как спорт может стать частью мировой политики и насилия.",
           "de": "Das Datum zeigt, wie Sport Teil von Weltpolitik und Gewalt werden kann.",
-          "en": "The date shows how sport can become part of world politics and violence."
+          "en": "The date shows how sport can become part of world politics and violence.",
+          "fr": "Cette date montre comment le sport peut devenir une partie de la politique mondiale et de la violence.",
+          "es": "La fecha muestra cómo el deporte puede convertirse en parte de la política mundial y de la violencia.",
+          "it": "La data mostra come lo sport possa diventare parte della politica mondiale e della violenza.",
+          "pt": "A data mostra como o esporte pode se tornar parte da política mundial e da violência.",
+          "nl": "De datum laat zien hoe sport deel kan worden van wereldpolitiek en geweld.",
+          "pl": "Data pokazuje, jak sport może stać się częścią światowej polityki i przemocy.",
+          "tr": "Bu tarih, sporun dünya siyaseti ve şiddetin parçası hâline gelebileceğini gösterir.",
+          "zh": "这个日期说明体育如何可能成为世界政治和暴力的一部分。",
+          "ja": "この日は、スポーツが世界政治や暴力の一部になりうることを示しています。",
+          "ko": "이 날짜는 스포츠가 세계 정치와 폭력의 일부가 될 수 있음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि खेल कैसे विश्व राजनीति और हिंसा का हिस्सा बन सकता है।",
+          "ar": "يوضح هذا التاريخ كيف يمكن للرياضة أن تصبح جزءاً من السياسة العالمية والعنف."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В Мюнхенском Олимпийском парке сегодня есть место памяти жертв теракта.",
     "de": "Im Muenchner Olympiapark gibt es heute einen Erinnerungsort fuer die Opfer des Attentats.",
-    "en": "Munich Olympic Park now includes a memorial site for the victims of the attack."
+    "en": "Munich Olympic Park now includes a memorial site for the victims of the attack.",
+    "fr": "Le parc olympique de Munich comprend aujourd'hui un lieu de mémoire pour les victimes de l'attentat.",
+    "es": "El Parque Olímpico de Múnich incluye hoy un lugar de memoria para las víctimas del atentado.",
+    "it": "Il Parco Olimpico di Monaco oggi include un luogo della memoria per le vittime dell'attentato.",
+    "pt": "O Parque Olímpico de Munique hoje inclui um memorial para as vítimas do atentado.",
+    "nl": "Het Olympisch Park in München heeft nu een herdenkingsplaats voor de slachtoffers van de aanslag.",
+    "pl": "W monachijskim Parku Olimpijskim znajduje się dziś miejsce pamięci ofiar zamachu.",
+    "tr": "Münih Olimpiyat Parkı'nda bugün saldırının kurbanları için bir anma yeri vardır.",
+    "zh": "慕尼黑奥林匹克公园如今设有纪念袭击遇难者的场所。",
+    "ja": "ミュンヘンのオリンピック公園には現在、襲撃の犠牲者を追悼する場所があります。",
+    "ko": "뮌헨 올림픽 공원에는 현재 공격 희생자를 위한 추모 장소가 있습니다.",
+    "hi": "म्यूनिख ओलंपिक पार्क में आज हमले के पीड़ितों की स्मृति का स्थान है।",
+    "ar": "يضم المنتزه الأولمبي في ميونيخ اليوم موقعاً تذكارياً لضحايا الهجوم."
   },
   "sources": [
     {

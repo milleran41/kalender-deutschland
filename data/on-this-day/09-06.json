@@ -11,17 +11,53 @@
     "title": {
       "ru": "Трагедия на Олимпиаде в Мюнхене",
       "de": "Die Tragödie bei den Olympischen Spielen in Muenchen",
-      "en": "The tragedy at the Munich Olympics"
+      "en": "The tragedy at the Munich Olympics",
+      "fr": "La tragédie aux Jeux olympiques de Munich",
+      "es": "La tragedia en los Juegos Olímpicos de Múnich",
+      "it": "La tragedia alle Olimpiadi di Monaco",
+      "pt": "A tragédia nas Olimpíadas de Munique",
+      "nl": "De tragedie bij de Olympische Spelen in München",
+      "pl": "Tragedia na igrzyskach olimpijskich w Monachium",
+      "tr": "Münih Olimpiyatları'ndaki trajedi",
+      "zh": "慕尼黑奥运会悲剧",
+      "ja": "ミュンヘン・オリンピックの悲劇",
+      "ko": "뮌헨 올림픽의 비극",
+      "hi": "म्यूनिख ओलंपिक की त्रासदी",
+      "ar": "المأساة في أولمبياد ميونيخ"
     },
     "description": {
       "ru": "6 сентября 1972 года стало ясно, что захват израильских спортсменов на Олимпиаде в Мюнхене закончился гибелью всех заложников. Теракт потряс ФРГ и весь олимпийский мир.",
       "de": "Am 6. September 1972 wurde klar, dass die Geiselnahme israelischer Sportler bei den Olympischen Spielen in Muenchen mit dem Tod aller Geiseln endete. Der Anschlag erschuetterte die Bundesrepublik und die olympische Welt.",
-      "en": "On 6 September 1972, it became clear that the hostage-taking of Israeli athletes at the Munich Olympics had ended with the death of all hostages. The attack shocked West Germany and the Olympic world."
+      "en": "On 6 September 1972, it became clear that the hostage-taking of Israeli athletes at the Munich Olympics had ended with the death of all hostages. The attack shocked West Germany and the Olympic world.",
+      "fr": "Le 6 septembre 1972, il devint clair que la prise d'otages de sportifs israéliens aux Jeux olympiques de Munich s'était terminée par la mort de tous les otages. L'attentat bouleversa la RFA et le monde olympique.",
+      "es": "El 6 de septiembre de 1972 quedó claro que la toma de rehenes de atletas israelíes en los Juegos Olímpicos de Múnich había terminado con la muerte de todos los rehenes. El atentado conmocionó a la RFA y al mundo olímpico.",
+      "it": "Il 6 settembre 1972 divenne chiaro che il sequestro degli atleti israeliani alle Olimpiadi di Monaco si era concluso con la morte di tutti gli ostaggi. L'attentato sconvolse la Germania Ovest e il mondo olimpico.",
+      "pt": "Em 6 de setembro de 1972 ficou claro que a tomada de reféns de atletas israelenses nas Olimpíadas de Munique terminou com a morte de todos os reféns. O atentado chocou a Alemanha Ocidental e o mundo olímpico.",
+      "nl": "Op 6 september 1972 werd duidelijk dat de gijzeling van Israëlische sporters tijdens de Olympische Spelen in München was geëindigd met de dood van alle gijzelaars. De aanslag schokte West-Duitsland en de olympische wereld.",
+      "pl": "6 września 1972 roku stało się jasne, że wzięcie izraelskich sportowców za zakładników podczas igrzysk w Monachium zakończyło się śmiercią wszystkich zakładników. Zamach wstrząsnął RFN i światem olimpijskim.",
+      "tr": "6 Eylül 1972'de Münih Olimpiyatları'nda İsrailli sporcuların rehin alınmasının tüm rehinelerin ölümüyle sonuçlandığı anlaşıldı. Saldırı Batı Almanya'yı ve olimpiyat dünyasını sarstı.",
+      "zh": "1972年9月6日，人们确认慕尼黑奥运会上以色列运动员被劫持事件以所有人质死亡告终。这次袭击震动了西德和整个奥林匹克世界。",
+      "ja": "1972年9月6日、ミュンヘン・オリンピックでのイスラエル選手人質事件が、全ての人質の死亡で終わったことが明らかになりました。この襲撃は西ドイツとオリンピック界に衝撃を与えました。",
+      "ko": "1972년 9월 6일 뮌헨 올림픽에서 이스라엘 선수들이 인질로 잡힌 사건이 모든 인질의 사망으로 끝났음이 분명해졌습니다. 이 공격은 서독과 올림픽 세계를 충격에 빠뜨렸습니다.",
+      "hi": "6 सितंबर 1972 को स्पष्ट हो गया कि म्यूनिख ओलंपिक में इज़राइली खिलाड़ियों को बंधक बनाने की घटना सभी बंधकों की मौत के साथ समाप्त हुई। इस हमले ने पश्चिम जर्मनी और पूरे ओलंपिक जगत को झकझोर दिया।",
+      "ar": "في 6 سبتمبر 1972 اتضح أن احتجاز الرياضيين الإسرائيليين رهائن في أولمبياد ميونيخ انتهى بمقتل جميع الرهائن. هز الهجوم ألمانيا الغربية والعالم الأولمبي."
     },
     "importance": {
       "ru": "Событие стало поворотным моментом в немецкой и международной дискуссии о безопасности крупных мероприятий.",
       "de": "Das Ereignis wurde zu einem Wendepunkt in der deutschen und internationalen Debatte ueber die Sicherheit grosser Veranstaltungen.",
-      "en": "The event became a turning point in German and international debates about security at major events."
+      "en": "The event became a turning point in German and international debates about security at major events.",
+      "fr": "L'événement devint un tournant dans le débat allemand et international sur la sécurité des grands événements.",
+      "es": "El suceso se convirtió en un punto de inflexión en el debate alemán e internacional sobre la seguridad de grandes eventos.",
+      "it": "L'evento divenne un punto di svolta nel dibattito tedesco e internazionale sulla sicurezza dei grandi eventi.",
+      "pt": "O acontecimento tornou-se um ponto de virada no debate alemão e internacional sobre a segurança de grandes eventos.",
+      "nl": "De gebeurtenis werd een keerpunt in het Duitse en internationale debat over veiligheid bij grote evenementen.",
+      "pl": "Wydarzenie stało się punktem zwrotnym w niemieckiej i międzynarodowej dyskusji o bezpieczeństwie wielkich imprez.",
+      "tr": "Olay, büyük etkinliklerin güvenliği üzerine Alman ve uluslararası tartışmalarda bir dönüm noktası oldu.",
+      "zh": "这一事件成为德国和国际社会讨论大型活动安全问题的转折点。",
+      "ja": "この出来事は、大規模イベントの安全をめぐるドイツおよび国際的議論の転換点となりました。",
+      "ko": "이 사건은 대형 행사 안전에 관한 독일과 국제적 논의의 전환점이 되었습니다.",
+      "hi": "यह घटना बड़े आयोजनों की सुरक्षा पर जर्मन और अंतरराष्ट्रीय बहस में मोड़ बन गई।",
+      "ar": "أصبح الحدث نقطة تحول في النقاش الألماني والدولي حول أمن الفعاليات الكبرى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Весёлые игры» и тяжёлая память",
           "de": "Heitere Spiele und schwere Erinnerung",
-          "en": "Cheerful Games and heavy memory"
+          "en": "Cheerful Games and heavy memory",
+          "fr": "Des Jeux joyeux et une mémoire lourde",
+          "es": "Juegos alegres y memoria dolorosa",
+          "it": "Giochi allegri e memoria pesante",
+          "pt": "Jogos alegres e memória pesada",
+          "nl": "Vrolijke Spelen en zware herinnering",
+          "pl": "Radosne igrzyska i ciężka pamięć",
+          "tr": "Neşeli Oyunlar ve ağır hafıza",
+          "zh": "欢乐奥运与沉重记忆",
+          "ja": "明るい大会と重い記憶",
+          "ko": "즐거운 올림픽과 무거운 기억",
+          "hi": "“हर्षित खेल” और भारी स्मृति",
+          "ar": "ألعاب مبهجة وذاكرة ثقيلة"
         },
         "description": {
           "ru": "Мюнхенская Олимпиада должна была показать другую, мирную и открытую Германию после нацистской Олимпиады 1936 года. Теракт разрушил этот образ и оставил глубокую травму.",
           "de": "Die Olympischen Spiele in Muenchen sollten nach den NS-Spielen von 1936 ein anderes, friedliches und offenes Deutschland zeigen. Der Anschlag zerstoerte dieses Bild und hinterliess eine tiefe Wunde.",
-          "en": "The Munich Olympics were meant to show a different, peaceful and open Germany after the Nazi Olympics of 1936. The attack shattered that image and left a deep wound."
+          "en": "The Munich Olympics were meant to show a different, peaceful and open Germany after the Nazi Olympics of 1936. The attack shattered that image and left a deep wound.",
+          "fr": "Les Jeux olympiques de Munich devaient montrer une Allemagne différente, pacifique et ouverte après les Jeux nazis de 1936. L'attentat brisa cette image et laissa une blessure profonde.",
+          "es": "Los Juegos Olímpicos de Múnich debían mostrar una Alemania distinta, pacífica y abierta tras los Juegos nazis de 1936. El atentado destruyó esa imagen y dejó una herida profunda.",
+          "it": "Le Olimpiadi di Monaco dovevano mostrare una Germania diversa, pacifica e aperta dopo i Giochi nazisti del 1936. L'attentato distrusse quell'immagine e lasciò una ferita profonda.",
+          "pt": "As Olimpíadas de Munique deveriam mostrar uma Alemanha diferente, pacífica e aberta depois dos Jogos nazistas de 1936. O atentado destruiu essa imagem e deixou uma ferida profunda.",
+          "nl": "De Olympische Spelen in München moesten na de nazi-Spelen van 1936 een ander, vreedzaam en open Duitsland tonen. De aanslag verbrijzelde dat beeld en liet een diepe wond achter.",
+          "pl": "Igrzyska w Monachium miały pokazać inne, pokojowe i otwarte Niemcy po nazistowskich igrzyskach z 1936 roku. Zamach zniszczył ten obraz i pozostawił głęboką ranę.",
+          "tr": "Münih Olimpiyatları, 1936'daki Nazi Olimpiyatları'ndan sonra farklı, barışçıl ve açık bir Almanya göstermeyi amaçlıyordu. Saldırı bu imajı yıktı ve derin bir yara bıraktı.",
+          "zh": "慕尼黑奥运会本应在1936年纳粹奥运会之后展示一个不同的、和平开放的德国。袭击粉碎了这一形象，并留下深深创伤。",
+          "ja": "ミュンヘン・オリンピックは、1936年のナチス・オリンピックの後、平和で開かれた別のドイツを示すはずでした。襲撃はそのイメージを壊し、深い傷を残しました。",
+          "ko": "뮌헨 올림픽은 1936년 나치 올림픽 이후 평화롭고 열린 다른 독일을 보여 주려 했습니다. 공격은 그 이미지를 깨뜨리고 깊은 상처를 남겼습니다.",
+          "hi": "म्यूनिख ओलंपिक का उद्देश्य 1936 के नाजी ओलंपिक के बाद एक अलग, शांतिपूर्ण और खुला जर्मनी दिखाना था। हमले ने यह छवि तोड़ दी और गहरी चोट छोड़ी।",
+          "ar": "كان من المفترض أن تُظهر أولمبياد ميونيخ ألمانيا مختلفة وسلمية ومنفتحة بعد أولمبياد النازية عام 1936. حطم الهجوم هذه الصورة وترك جرحاً عميقاً."
         },
         "importance": {
           "ru": "Дата показывает, как международный спорт может оказаться связан с политикой, памятью и безопасностью.",
           "de": "Das Datum zeigt, wie internationaler Sport mit Politik, Erinnerung und Sicherheit verbunden sein kann.",
-          "en": "The date shows how international sport can become tied to politics, memory and security."
+          "en": "The date shows how international sport can become tied to politics, memory and security.",
+          "fr": "Cette date montre comment le sport international peut être lié à la politique, à la mémoire et à la sécurité.",
+          "es": "La fecha muestra cómo el deporte internacional puede quedar ligado a la política, la memoria y la seguridad.",
+          "it": "La data mostra come lo sport internazionale possa legarsi alla politica, alla memoria e alla sicurezza.",
+          "pt": "A data mostra como o esporte internacional pode se ligar à política, à memória e à segurança.",
+          "nl": "De datum laat zien hoe internationale sport verbonden kan raken met politiek, herinnering en veiligheid.",
+          "pl": "Data pokazuje, jak sport międzynarodowy może wiązać się z polityką, pamięcią i bezpieczeństwem.",
+          "tr": "Bu tarih, uluslararası sporun siyaset, hafıza ve güvenlikle nasıl bağlantılı olabileceğini gösterir.",
+          "zh": "这个日期说明国际体育如何可能与政治、记忆和安全联系在一起。",
+          "ja": "この日は、国際スポーツが政治、記憶、安全と結びつきうることを示しています。",
+          "ko": "이 날짜는 국제 스포츠가 정치, 기억, 안전과 어떻게 연결될 수 있는지 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि अंतरराष्ट्रीय खेल राजनीति, स्मृति और सुरक्षा से कैसे जुड़ सकते हैं।",
+          "ar": "يوضح هذا التاريخ كيف يمكن للرياضة الدولية أن ترتبط بالسياسة والذاكرة والأمن."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Олимпийские игры были прерваны",
           "de": "Die Olympischen Spiele wurden unterbrochen",
-          "en": "The Olympic Games were interrupted"
+          "en": "The Olympic Games were interrupted",
+          "fr": "Les Jeux olympiques furent interrompus",
+          "es": "Los Juegos Olímpicos fueron interrumpidos",
+          "it": "I Giochi olimpici furono interrotti",
+          "pt": "Os Jogos Olímpicos foram interrompidos",
+          "nl": "De Olympische Spelen werden onderbroken",
+          "pl": "Igrzyska olimpijskie zostały przerwane",
+          "tr": "Olimpiyat Oyunları kesintiye uğradı",
+          "zh": "奥运会被中断",
+          "ja": "オリンピックは中断された",
+          "ko": "올림픽 경기가 중단되다",
+          "hi": "ओलंपिक खेल रोक दिए गए",
+          "ar": "توقفت الألعاب الأولمبية"
         },
         "description": {
           "ru": "После нападения соревнования временно остановили, а затем продолжили. Решение продолжать Игры стало предметом долгих споров.",
           "de": "Nach dem Anschlag wurden die Wettbewerbe voruebergehend unterbrochen und spaeter fortgesetzt. Die Entscheidung, die Spiele fortzufuehren, blieb lange umstritten.",
-          "en": "After the attack, competitions were temporarily suspended and later resumed. The decision to continue the Games remained controversial."
+          "en": "After the attack, competitions were temporarily suspended and later resumed. The decision to continue the Games remained controversial.",
+          "fr": "Après l'attentat, les compétitions furent temporairement suspendues puis reprises. La décision de poursuivre les Jeux resta longtemps controversée.",
+          "es": "Después del atentado, las competiciones se suspendieron temporalmente y luego se reanudaron. La decisión de continuar los Juegos siguió siendo controvertida durante mucho tiempo.",
+          "it": "Dopo l'attentato, le gare furono temporaneamente sospese e poi riprese. La decisione di continuare i Giochi rimase a lungo controversa.",
+          "pt": "Depois do atentado, as competições foram temporariamente suspensas e depois retomadas. A decisão de continuar os Jogos permaneceu controversa por muito tempo.",
+          "nl": "Na de aanslag werden de wedstrijden tijdelijk onderbroken en later hervat. De beslissing om de Spelen voort te zetten bleef lang omstreden.",
+          "pl": "Po ataku zawody czasowo wstrzymano, a później wznowiono. Decyzja o kontynuowaniu igrzysk długo pozostawała przedmiotem sporów.",
+          "tr": "Saldırıdan sonra yarışmalar geçici olarak durduruldu ve daha sonra yeniden başladı. Oyunları sürdürme kararı uzun süre tartışmalı kaldı.",
+          "zh": "袭击发生后，比赛暂时暂停，随后又继续进行。继续举办奥运会的决定长期存在争议。",
+          "ja": "襲撃の後、競技は一時中断され、その後再開されました。大会を続けるという決定は長く議論を呼びました。",
+          "ko": "공격 이후 경기는 일시 중단되었다가 나중에 재개되었습니다. 올림픽을 계속하기로 한 결정은 오랫동안 논란이 되었습니다.",
+          "hi": "हमले के बाद प्रतियोगिताएँ अस्थायी रूप से रोक दी गईं और बाद में फिर शुरू हुईं। खेल जारी रखने का निर्णय लंबे समय तक विवादित रहा।",
+          "ar": "بعد الهجوم توقفت المنافسات مؤقتاً ثم استؤنفت لاحقاً. وبقي قرار مواصلة الألعاب مثيراً للجدل لفترة طويلة."
         },
         "importance": {
           "ru": "Это один из самых болезненных моментов в истории олимпийского движения.",
           "de": "Das ist einer der schmerzhaftesten Momente in der Geschichte der olympischen Bewegung.",
-          "en": "It is one of the most painful moments in the history of the Olympic movement."
+          "en": "It is one of the most painful moments in the history of the Olympic movement.",
+          "fr": "C'est l'un des moments les plus douloureux de l'histoire du mouvement olympique.",
+          "es": "Es uno de los momentos más dolorosos en la historia del movimiento olímpico.",
+          "it": "È uno dei momenti più dolorosi nella storia del movimento olimpico.",
+          "pt": "É um dos momentos mais dolorosos da história do movimento olímpico.",
+          "nl": "Het is een van de pijnlijkste momenten in de geschiedenis van de olympische beweging.",
+          "pl": "To jeden z najbardziej bolesnych momentów w historii ruchu olimpijskiego.",
+          "tr": "Bu, olimpiyat hareketi tarihinin en acı anlarından biridir.",
+          "zh": "这是奥林匹克运动史上最痛苦的时刻之一。",
+          "ja": "これはオリンピック運動の歴史で最も痛ましい瞬間の一つです。",
+          "ko": "이는 올림픽 운동 역사에서 가장 고통스러운 순간 중 하나입니다.",
+          "hi": "यह ओलंपिक आंदोलन के इतिहास के सबसे पीड़ादायक क्षणों में से एक है।",
+          "ar": "إنها واحدة من أكثر اللحظات إيلاماً في تاريخ الحركة الأولمبية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После трагедии в Мюнхене ФРГ создала специальное антитеррористическое подразделение GSG 9.",
     "de": "Nach der Tragödie von Muenchen gruendete die Bundesrepublik die Spezialeinheit GSG 9.",
-    "en": "After the Munich tragedy, West Germany created the GSG 9 counterterrorism unit."
+    "en": "After the Munich tragedy, West Germany created the GSG 9 counterterrorism unit.",
+    "fr": "Après la tragédie de Munich, la RFA créa l'unité antiterroriste spéciale GSG 9.",
+    "es": "Después de la tragedia de Múnich, la RFA creó la unidad antiterrorista especial GSG 9.",
+    "it": "Dopo la tragedia di Monaco, la Germania Ovest creò l'unità antiterrorismo speciale GSG 9.",
+    "pt": "Depois da tragédia de Munique, a Alemanha Ocidental criou a unidade antiterrorista especial GSG 9.",
+    "nl": "Na de tragedie in München richtte West-Duitsland de speciale antiterreureenheid GSG 9 op.",
+    "pl": "Po tragedii w Monachium RFN utworzyła specjalną jednostkę antyterrorystyczną GSG 9.",
+    "tr": "Münih trajedisinden sonra Batı Almanya özel terörle mücadele birimi GSG 9'u kurdu.",
+    "zh": "慕尼黑悲剧之后，西德成立了GSG 9特别反恐部队。",
+    "ja": "ミュンヘンの悲劇の後、西ドイツは特殊対テロ部隊GSG 9を創設しました。",
+    "ko": "뮌헨 비극 이후 서독은 특수 대테러 부대 GSG 9을 창설했습니다.",
+    "hi": "म्यूनिख त्रासदी के बाद पश्चिम जर्मनी ने विशेष आतंकवाद-रोधी इकाई GSG 9 बनाई।",
+    "ar": "بعد مأساة ميونيخ أنشأت ألمانيا الغربية وحدة مكافحة الإرهاب الخاصة GSG 9."
   },
   "sources": [
     {
