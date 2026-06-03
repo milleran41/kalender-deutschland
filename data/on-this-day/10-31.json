@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начало Реформации",
       "de": "Beginn der Reformation",
-      "en": "Beginning of the Reformation"
+      "en": "Beginning of the Reformation",
+      "fr": "Debut de la Reforme",
+      "es": "Comienzo de la Reforma",
+      "it": "Inizio della Riforma",
+      "pt": "Inicio da Reforma",
+      "nl": "Begin van de Reformatie",
+      "pl": "Poczatek reformacji",
+      "tr": "Reform'un baslangici",
+      "zh": "宗教改革开始",
+      "ja": "宗教改革の始まり",
+      "ko": "종교개혁의 시작",
+      "hi": "धर्मसुधार की शुरुआत",
+      "ar": "بداية الاصلاح الديني"
     },
     "description": {
       "ru": "По традиционной версии, 31 октября 1517 года Мартин Лютер обнародовал 95 тезисов в Виттенберге. Этот текст стал началом движения, изменившего религиозную и политическую карту Европы.",
       "de": "Nach der traditionellen Darstellung veroeffentlichte Martin Luther am 31. Oktober 1517 seine 95 Thesen in Wittenberg. Der Text wurde zum Ausgangspunkt einer Bewegung, die Europas religioese und politische Landkarte veraenderte.",
-      "en": "According to the traditional account, Martin Luther made his 95 Theses public in Wittenberg on 31 October 1517. The text became the starting point of a movement that changed Europe's religious and political map."
+      "en": "According to the traditional account, Martin Luther made his 95 Theses public in Wittenberg on 31 October 1517. The text became the starting point of a movement that changed Europe's religious and political map.",
+      "fr": "Selon le recit traditionnel, Martin Luther rendit publiques ses 95 theses a Wittenberg le 31 octobre 1517. Ce texte devint le point de depart d'un mouvement qui changea la carte religieuse et politique de l'Europe.",
+      "es": "Segun la version tradicional, Martin Lutero hizo publicas sus 95 tesis en Wittenberg el 31 de octubre de 1517. El texto se convirtio en el punto de partida de un movimiento que cambio el mapa religioso y politico de Europa.",
+      "it": "Secondo il racconto tradizionale, il 31 ottobre 1517 Martin Lutero rese pubbliche le sue 95 tesi a Wittenberg. Il testo divenne il punto di partenza di un movimento che cambio la carta religiosa e politica dell'Europa.",
+      "pt": "Segundo a versao tradicional, em 31 de outubro de 1517 Martinho Lutero tornou publicas suas 95 teses em Wittenberg. O texto tornou-se o ponto de partida de um movimento que mudou o mapa religioso e politico da Europa.",
+      "nl": "Volgens de traditionele versie maakte Maarten Luther op 31 oktober 1517 zijn 95 stellingen in Wittenberg openbaar. De tekst werd het beginpunt van een beweging die de religieuze en politieke kaart van Europa veranderde.",
+      "pl": "Wedlug tradycyjnego przekazu 31 pazdziernika 1517 roku Marcin Luter oglosil w Wittenberdze swoje 95 tez. Tekst stal sie punktem wyjscia ruchu, ktory zmienil religijna i polityczna mape Europy.",
+      "tr": "Geleneksel anlatima gore Martin Luther, 31 Ekim 1517'de Wittenberg'de 95 Tez'ini kamuya acikladi. Bu metin, Avrupa'nin dini ve siyasi haritasini degistiren bir hareketin baslangici oldu.",
+      "zh": "按照传统说法，1517年10月31日，马丁·路德在维滕贝格公布了《九十五条论纲》。这篇文本成为改变欧洲宗教和政治地图的运动起点。",
+      "ja": "伝統的な説明によれば、1517年10月31日、マルティン・ルターはヴィッテンベルクで95か条の論題を公にしました。この文書は、ヨーロッパの宗教的・政治的地図を変える運動の出発点となりました。",
+      "ko": "전통적인 설명에 따르면 1517년 10월 31일 마르틴 루터는 비텐베르크에서 95개조 논제를 공개했다. 이 글은 유럽의 종교적, 정치적 지도를 바꾼 운동의 출발점이 되었다.",
+      "hi": "परंपरागत कथन के अनुसार, 31 अक्टूबर 1517 को मार्टिन लूथर ने विटेनबर्ग में अपने 95 सूत्र सार्वजनिक किए। यह पाठ उस आंदोलन की शुरुआत बना जिसने यूरोप का धार्मिक और राजनीतिक नक्शा बदल दिया।",
+      "ar": "بحسب الرواية التقليدية، اعلن مارتن لوثر اطروحاته الخمس والتسعين في فيتنبرغ في 31 أكتوبر 1517. واصبح هذا النص نقطة انطلاق حركة غيرت الخريطة الدينية والسياسية لاوروبا."
     },
     "importance": {
       "ru": "Хотя дата раньше основного диапазона, для истории Германии она слишком важна, чтобы её пропускать.",
       "de": "Obwohl das Datum vor dem Hauptzeitraum liegt, ist es fuer die deutsche Geschichte zu wichtig, um es auszulassen.",
-      "en": "Although the date is before the main range, it is too important for German history to omit."
+      "en": "Although the date is before the main range, it is too important for German history to omit.",
+      "fr": "Bien que la date soit anterieure a la periode principale, elle est trop importante pour l'histoire allemande pour etre omise.",
+      "es": "Aunque la fecha es anterior al periodo principal, es demasiado importante para la historia alemana como para omitirla.",
+      "it": "Anche se la data precede il periodo principale, e troppo importante per la storia tedesca per essere omessa.",
+      "pt": "Embora a data seja anterior ao periodo principal, ela e importante demais para a historia alema para ser omitida.",
+      "nl": "Hoewel de datum voor de hoofdperiode ligt, is hij te belangrijk voor de Duitse geschiedenis om over te slaan.",
+      "pl": "Chociaz data wykracza poza glowny zakres, jest zbyt wazna dla historii Niemiec, by ja pominac.",
+      "tr": "Tarih ana araliktan once olsa da Alman tarihi icin atlanamayacak kadar onemlidir.",
+      "zh": "虽然这个日期早于主要时间范围，但它对德国历史太重要，不能省略。",
+      "ja": "この日付は主要な範囲より前ですが、ドイツ史にとって重要すぎるため省くことはできません。",
+      "ko": "이 날짜는 주요 범위보다 앞서지만 독일사에서 빠뜨리기에는 너무 중요하다.",
+      "hi": "हालांकि यह तारीख मुख्य काल-सीमा से पहले की है, जर्मन इतिहास के लिए यह इतनी महत्वपूर्ण है कि इसे छोड़ा नहीं जा सकता।",
+      "ar": "رغم ان التاريخ يسبق النطاق الرئيسي، فانه مهم جدا لتاريخ المانيا ولا يمكن تجاهله."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Печатное слово ускорило спор",
           "de": "Der Buchdruck beschleunigt den Streit",
-          "en": "Printing accelerates the dispute"
+          "en": "Printing accelerates the dispute",
+          "fr": "L'imprimerie accelere le debat",
+          "es": "La imprenta acelera la disputa",
+          "it": "La stampa accelera la disputa",
+          "pt": "A impressao acelera a disputa",
+          "nl": "De drukpers versnelt het debat",
+          "pl": "Druk przyspiesza spor",
+          "tr": "Matbaa tartismayi hizlandirdi",
+          "zh": "印刷术加速争论",
+          "ja": "印刷が論争を加速させる",
+          "ko": "인쇄술이 논쟁을 빠르게 퍼뜨리다",
+          "hi": "मुद्रण ने विवाद को तेज किया",
+          "ar": "الطباعة تسرّع الجدل"
         },
         "description": {
           "ru": "Идеи Реформации быстро распространялись благодаря печати. Немецкие города стали важными центрами религиозных текстов, листовок и полемики.",
           "de": "Die Ideen der Reformation verbreiteten sich rasch durch den Buchdruck. Deutsche Staedte wurden wichtige Zentren religioeser Texte, Flugschriften und Debatten.",
-          "en": "Reformation ideas spread quickly through printing. German cities became important centers of religious texts, pamphlets and debate."
+          "en": "Reformation ideas spread quickly through printing. German cities became important centers of religious texts, pamphlets and debate.",
+          "fr": "Les idees de la Reforme se diffuserent rapidement grace a l'imprimerie. Les villes allemandes devinrent des centres importants de textes religieux, de brochures et de debats.",
+          "es": "Las ideas de la Reforma se difundieron rapidamente gracias a la imprenta. Las ciudades alemanas se convirtieron en centros importantes de textos religiosos, folletos y debates.",
+          "it": "Le idee della Riforma si diffusero rapidamente grazie alla stampa. Le citta tedesche divennero centri importanti di testi religiosi, opuscoli e dibattiti.",
+          "pt": "As ideias da Reforma se espalharam rapidamente pela impressao. Cidades alemas tornaram-se centros importantes de textos religiosos, panfletos e debates.",
+          "nl": "De ideeen van de Reformatie verspreidden zich snel door de boekdrukkunst. Duitse steden werden belangrijke centra van religieuze teksten, pamfletten en debat.",
+          "pl": "Idee reformacji szybko rozprzestrzenialy sie dzieki drukowi. Niemieckie miasta staly sie waznymi osrodkami tekstow religijnych, ulotek i polemik.",
+          "tr": "Reform fikirleri matbaa sayesinde hizla yayildi. Alman sehirleri dini metinlerin, brosurlerin ve tartismalarin onemli merkezleri haline geldi.",
+          "zh": "宗教改革思想借助印刷术迅速传播。德国城市成为宗教文本、小册子和辩论的重要中心。",
+          "ja": "宗教改革の考えは印刷によって急速に広まりました。ドイツの都市は宗教文書、パンフレット、討論の重要な中心地となりました。",
+          "ko": "종교개혁의 사상은 인쇄술을 통해 빠르게 퍼졌다. 독일 도시들은 종교 문서, 팸플릿, 논쟁의 중요한 중심지가 되었다.",
+          "hi": "धर्मसुधार के विचार मुद्रण के कारण तेजी से फैले। जर्मन शहर धार्मिक ग्रंथों, पर्चों और बहसों के महत्वपूर्ण केंद्र बने।",
+          "ar": "انتشرت افكار الاصلاح بسرعة بفضل الطباعة. واصبحت المدن الالمانية مراكز مهمة للنصوص الدينية والمنشورات والجدل."
         },
         "importance": {
           "ru": "Это хороший пример того, как технология меняет культуру и политику.",
           "de": "Das ist ein gutes Beispiel dafuer, wie Technik Kultur und Politik veraendert.",
-          "en": "It is a strong example of how technology can change culture and politics."
+          "en": "It is a strong example of how technology can change culture and politics.",
+          "fr": "C'est un bon exemple de la facon dont la technologie peut changer la culture et la politique.",
+          "es": "Es un buen ejemplo de como la tecnologia puede cambiar la cultura y la politica.",
+          "it": "E un forte esempio di come la tecnologia possa cambiare cultura e politica.",
+          "pt": "E um bom exemplo de como a tecnologia pode mudar cultura e politica.",
+          "nl": "Het is een sterk voorbeeld van hoe technologie cultuur en politiek kan veranderen.",
+          "pl": "To dobry przyklad tego, jak technologia moze zmieniac kulture i polityke.",
+          "tr": "Bu, teknolojinin kulturu ve siyaseti nasil degistirebilecegine guclu bir ornektir.",
+          "zh": "这是技术如何改变文化和政治的有力例子。",
+          "ja": "技術が文化と政治をどのように変えうるかを示す強い例です。",
+          "ko": "이는 기술이 문화와 정치를 어떻게 바꿀 수 있는지를 보여 주는 좋은 예이다.",
+          "hi": "यह अच्छा उदाहरण है कि तकनीक संस्कृति और राजनीति को कैसे बदल सकती है।",
+          "ar": "انه مثال قوي على كيف يمكن للتكنولوجيا ان تغير الثقافة والسياسة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "31 октября в нескольких землях Германии является праздничным Днём Реформации.",
     "de": "Der 31. Oktober ist in mehreren deutschen Bundeslaendern als Reformationstag ein Feiertag.",
-    "en": "31 October is Reformation Day and a public holiday in several German states."
+    "en": "31 October is Reformation Day and a public holiday in several German states.",
+    "fr": "Le 31 octobre est le jour de la Reforme et un jour ferie dans plusieurs Laender allemands.",
+    "es": "El 31 de octubre es el Dia de la Reforma y festivo en varios estados alemanes.",
+    "it": "Il 31 ottobre e il Giorno della Riforma ed e festivo in diversi Laender tedeschi.",
+    "pt": "31 de outubro e o Dia da Reforma e feriado em varios estados alemaes.",
+    "nl": "31 oktober is Hervormingsdag en een feestdag in meerdere Duitse deelstaten.",
+    "pl": "31 pazdziernika to Dzien Reformacji i swieto w kilku niemieckich krajach zwiazkowych.",
+    "tr": "31 Ekim, Almanya'nin birkac eyaletinde Reform Gunu ve resmi tatildir.",
+    "zh": "10月31日是宗教改革日，也是德国多个州的公共假日。",
+    "ja": "10月31日は宗教改革記念日で、ドイツのいくつかの州では祝日です。",
+    "ko": "10월 31일은 종교개혁일이며 독일 여러 주에서 공휴일이다.",
+    "hi": "31 अक्टूबर जर्मनी के कई राज्यों में धर्मसुधार दिवस और सार्वजनिक अवकाश है।",
+    "ar": "31 أكتوبر هو يوم الاصلاح الديني وعطلة رسمية في عدة ولايات المانية."
   },
   "sources": [
     {

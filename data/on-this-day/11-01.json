@@ -11,17 +11,53 @@
     "title": {
       "ru": "Маастрихтский договор вступил в силу",
       "de": "Der Vertrag von Maastricht tritt in Kraft",
-      "en": "The Maastricht Treaty enters into force"
+      "en": "The Maastricht Treaty enters into force",
+      "fr": "Le traite de Maastricht entre en vigueur",
+      "es": "Entra en vigor el Tratado de Maastricht",
+      "it": "Entra in vigore il Trattato di Maastricht",
+      "pt": "O Tratado de Maastricht entra em vigor",
+      "nl": "Het Verdrag van Maastricht treedt in werking",
+      "pl": "Traktat z Maastricht wchodzi w zycie",
+      "tr": "Maastricht Antlasmasi yururluge girdi",
+      "zh": "《马斯特里赫特条约》生效",
+      "ja": "マーストリヒト条約が発効",
+      "ko": "마스트리흐트 조약이 발효되다",
+      "hi": "मास्ट्रिख्ट संधि लागू हुई",
+      "ar": "دخول معاهدة ماستريخت حيز التنفيذ"
     },
     "description": {
       "ru": "1 ноября 1993 года вступил в силу Маастрихтский договор, создавший Европейский союз. Германия стала одной из ключевых стран нового этапа европейской интеграции.",
       "de": "Am 1. November 1993 trat der Vertrag von Maastricht in Kraft und begruendete die Europaeische Union. Deutschland wurde zu einem Schluesselland dieser neuen Phase der europaeischen Integration.",
-      "en": "On 1 November 1993, the Maastricht Treaty entered into force, creating the European Union. Germany became one of the key countries in this new stage of European integration."
+      "en": "On 1 November 1993, the Maastricht Treaty entered into force, creating the European Union. Germany became one of the key countries in this new stage of European integration.",
+      "fr": "Le 1er novembre 1993, le traite de Maastricht entra en vigueur et crea l'Union europeenne. L'Allemagne devint l'un des pays cles de cette nouvelle etape de l'integration europeenne.",
+      "es": "El 1 de noviembre de 1993 entro en vigor el Tratado de Maastricht, que creo la Union Europea. Alemania se convirtio en uno de los paises clave de esta nueva etapa de integracion europea.",
+      "it": "Il 1 novembre 1993 entro in vigore il Trattato di Maastricht, che creo l'Unione europea. La Germania divenne uno dei paesi chiave di questa nuova fase dell'integrazione europea.",
+      "pt": "Em 1 de novembro de 1993, o Tratado de Maastricht entrou em vigor, criando a Uniao Europeia. A Alemanha tornou-se um dos paises-chave dessa nova etapa da integracao europeia.",
+      "nl": "Op 1 november 1993 trad het Verdrag van Maastricht in werking en ontstond de Europese Unie. Duitsland werd een van de sleutellanden in deze nieuwe fase van Europese integratie.",
+      "pl": "1 listopada 1993 roku wszedl w zycie traktat z Maastricht, tworzac Unie Europejska. Niemcy staly sie jednym z kluczowych krajow nowego etapu integracji europejskiej.",
+      "tr": "1 Kasim 1993'te Maastricht Antlasmasi yururluge girerek Avrupa Birligi'ni kurdu. Almanya, Avrupa butunlesmesinin bu yeni asamasinda kilit ulkelerden biri oldu.",
+      "zh": "1993年11月1日，《马斯特里赫特条约》生效，欧洲联盟由此诞生。德国成为欧洲一体化新阶段的关键国家之一。",
+      "ja": "1993年11月1日、マーストリヒト条約が発効し、欧州連合が誕生しました。ドイツは欧州統合の新しい段階における重要な国の一つとなりました。",
+      "ko": "1993년 11월 1일 마스트리흐트 조약이 발효되어 유럽연합이 만들어졌다. 독일은 유럽 통합의 새로운 단계에서 핵심 국가 중 하나가 되었다.",
+      "hi": "1 नवंबर 1993 को मास्ट्रिख्ट संधि लागू हुई और यूरोपीय संघ बना। जर्मनी यूरोपीय एकीकरण के इस नए चरण के प्रमुख देशों में से एक बना।",
+      "ar": "في 1 نوفمبر 1993 دخلت معاهدة ماستريخت حيز التنفيذ وانشأت الاتحاد الاوروبي. واصبحت المانيا احدى الدول الرئيسية في هذه المرحلة الجديدة من التكامل الاوروبي."
     },
     "importance": {
       "ru": "Договор подготовил путь к евро, общей политике и новой форме европейского сотрудничества.",
       "de": "Der Vertrag bereitete den Weg fuer den Euro, gemeinsame Politik und eine neue Form europaeischer Zusammenarbeit.",
-      "en": "The treaty paved the way for the euro, common policies and a new form of European cooperation."
+      "en": "The treaty paved the way for the euro, common policies and a new form of European cooperation.",
+      "fr": "Le traite ouvrit la voie a l'euro, aux politiques communes et a une nouvelle forme de cooperation europeenne.",
+      "es": "El tratado preparo el camino para el euro, las politicas comunes y una nueva forma de cooperacion europea.",
+      "it": "Il trattato apri la strada all'euro, alle politiche comuni e a una nuova forma di cooperazione europea.",
+      "pt": "O tratado abriu caminho para o euro, politicas comuns e uma nova forma de cooperacao europeia.",
+      "nl": "Het verdrag maakte de weg vrij voor de euro, gemeenschappelijk beleid en een nieuwe vorm van Europese samenwerking.",
+      "pl": "Traktat utorowal droge do euro, wspolnych polityk i nowej formy wspolpracy europejskiej.",
+      "tr": "Antlasma euroya, ortak politikalara ve Avrupa isbirliginin yeni bir bicimine giden yolu acti.",
+      "zh": "该条约为欧元、共同政策和新的欧洲合作形式铺平了道路。",
+      "ja": "この条約は、ユーロ、共通政策、そして新しい形のヨーロッパ協力への道を開きました。",
+      "ko": "이 조약은 유로, 공동 정책, 새로운 형태의 유럽 협력으로 가는 길을 열었다.",
+      "hi": "इस संधि ने यूरो, साझा नीतियों और यूरोपीय सहयोग के नए रूप का रास्ता खोला।",
+      "ar": "مهدت المعاهدة الطريق لليورو والسياسات المشتركة وشكل جديد من التعاون الاوروبي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Объединённая Германия в Европе",
           "de": "Das vereinte Deutschland in Europa",
-          "en": "United Germany in Europe"
+          "en": "United Germany in Europe",
+          "fr": "L'Allemagne reunifiee en Europe",
+          "es": "La Alemania unificada en Europa",
+          "it": "La Germania unita in Europa",
+          "pt": "A Alemanha reunificada na Europa",
+          "nl": "Verenigd Duitsland in Europa",
+          "pl": "Zjednoczone Niemcy w Europie",
+          "tr": "Birlesik Almanya Avrupa'da",
+          "zh": "统一后的德国在欧洲",
+          "ja": "ヨーロッパの中の統一ドイツ",
+          "ko": "유럽 속의 통일 독일",
+          "hi": "यूरोप में एकीकृत जर्मनी",
+          "ar": "المانيا الموحدة في اوروبا"
         },
         "description": {
           "ru": "После воссоединения Германия особенно активно связывала своё будущее с Европейским союзом. Это помогало соседям воспринимать немецкое единство как часть общей Европы.",
           "de": "Nach der Wiedervereinigung band Deutschland seine Zukunft besonders stark an die Europaeische Union. Das half Nachbarn, die deutsche Einheit als Teil eines gemeinsamen Europas zu sehen.",
-          "en": "After reunification, Germany tied its future strongly to the European Union. This helped neighbors see German unity as part of a shared Europe."
+          "en": "After reunification, Germany tied its future strongly to the European Union. This helped neighbors see German unity as part of a shared Europe.",
+          "fr": "Apres la reunification, l'Allemagne lia fortement son avenir a l'Union europeenne. Cela aida ses voisins a voir l'unite allemande comme une partie d'une Europe commune.",
+          "es": "Tras la reunificacion, Alemania vinculo fuertemente su futuro a la Union Europea. Esto ayudo a sus vecinos a ver la unidad alemana como parte de una Europa compartida.",
+          "it": "Dopo la riunificazione, la Germania lego fortemente il proprio futuro all'Unione europea. Questo aiuto i vicini a vedere l'unita tedesca come parte di un'Europa comune.",
+          "pt": "Depois da reunificacao, a Alemanha vinculou fortemente seu futuro a Uniao Europeia. Isso ajudou os vizinhos a ver a unidade alema como parte de uma Europa compartilhada.",
+          "nl": "Na de hereniging verbond Duitsland zijn toekomst sterk met de Europese Unie. Dit hielp buurlanden de Duitse eenheid te zien als deel van een gedeeld Europa.",
+          "pl": "Po zjednoczeniu Niemcy mocno zwiazaly swoja przyszlosc z Unia Europejska. Pomoglo to sasiadom postrzegac niemiecka jednosc jako czesc wspolnej Europy.",
+          "tr": "Yeniden birlesmeden sonra Almanya gelecegini guclu bicimde Avrupa Birligi'ne bagladi. Bu, komsularin Alman birligini ortak Avrupa'nin bir parcasi olarak gormesine yardim etti.",
+          "zh": "统一后，德国把自己的未来与欧洲联盟紧密相连。这帮助邻国把德国统一看作共同欧洲的一部分。",
+          "ja": "再統一後、ドイツは自国の将来を欧州連合と強く結びつけました。これにより近隣諸国は、ドイツ統一を共有されたヨーロッパの一部として見るようになりました。",
+          "ko": "재통일 이후 독일은 자신의 미래를 유럽연합과 강하게 연결했다. 이는 이웃 나라들이 독일 통일을 공동의 유럽 일부로 보도록 도왔다.",
+          "hi": "पुनर्एकीकरण के बाद जर्मनी ने अपना भविष्य यूरोपीय संघ से मजबूती से जोड़ा। इससे पड़ोसी देशों को जर्मन एकता को साझा यूरोप का हिस्सा मानने में मदद मिली।",
+          "ar": "بعد اعادة التوحيد ربطت المانيا مستقبلها بقوة بالاتحاد الاوروبي. وساعد ذلك الجيران على رؤية الوحدة الالمانية كجزء من اوروبا مشتركة."
         },
         "importance": {
           "ru": "Дата показывает, что история современной Германии неотделима от истории ЕС.",
           "de": "Das Datum zeigt, dass die Geschichte des heutigen Deutschlands untrennbar mit der EU verbunden ist.",
-          "en": "The date shows that modern German history is inseparable from EU history."
+          "en": "The date shows that modern German history is inseparable from EU history.",
+          "fr": "Cette date montre que l'histoire de l'Allemagne moderne est inseparable de l'histoire de l'UE.",
+          "es": "La fecha muestra que la historia alemana moderna es inseparable de la historia de la UE.",
+          "it": "La data mostra che la storia della Germania moderna e inseparabile dalla storia dell'UE.",
+          "pt": "A data mostra que a historia da Alemanha moderna e inseparavel da historia da UE.",
+          "nl": "De datum laat zien dat de moderne Duitse geschiedenis onlosmakelijk verbonden is met de geschiedenis van de EU.",
+          "pl": "Ta data pokazuje, ze historia wspolczesnych Niemiec jest nierozerwalna z historia UE.",
+          "tr": "Bu tarih, modern Alman tarihinin AB tarihinden ayrilamaz oldugunu gosterir.",
+          "zh": "这个日期说明，现代德国历史与欧盟历史密不可分。",
+          "ja": "この日付は、現代ドイツ史がEUの歴史と切り離せないことを示しています。",
+          "ko": "이 날짜는 현대 독일사가 EU 역사와 떼어낼 수 없음을 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि आधुनिक जर्मन इतिहास यूरोपीय संघ के इतिहास से अलग नहीं है।",
+          "ar": "يبين هذا التاريخ ان تاريخ المانيا الحديثة لا ينفصل عن تاريخ الاتحاد الاوروبي."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Маастрихтский договор был подписан 7 февраля 1992 года, но вступил в силу 1 ноября 1993 года.",
     "de": "Der Vertrag von Maastricht wurde am 7. Februar 1992 unterzeichnet, trat aber am 1. November 1993 in Kraft.",
-    "en": "The Maastricht Treaty was signed on 7 February 1992 but entered into force on 1 November 1993."
+    "en": "The Maastricht Treaty was signed on 7 February 1992 but entered into force on 1 November 1993.",
+    "fr": "Le traite de Maastricht fut signe le 7 fevrier 1992, mais entra en vigueur le 1er novembre 1993.",
+    "es": "El Tratado de Maastricht se firmo el 7 de febrero de 1992, pero entro en vigor el 1 de noviembre de 1993.",
+    "it": "Il Trattato di Maastricht fu firmato il 7 febbraio 1992, ma entro in vigore il 1 novembre 1993.",
+    "pt": "O Tratado de Maastricht foi assinado em 7 de fevereiro de 1992, mas entrou em vigor em 1 de novembro de 1993.",
+    "nl": "Het Verdrag van Maastricht werd op 7 februari 1992 ondertekend, maar trad op 1 november 1993 in werking.",
+    "pl": "Traktat z Maastricht podpisano 7 lutego 1992 roku, ale wszedl w zycie 1 listopada 1993 roku.",
+    "tr": "Maastricht Antlasmasi 7 Subat 1992'de imzalandi, ancak 1 Kasim 1993'te yururluge girdi.",
+    "zh": "《马斯特里赫特条约》于1992年2月7日签署，但在1993年11月1日生效。",
+    "ja": "マーストリヒト条約は1992年2月7日に署名されましたが、1993年11月1日に発効しました。",
+    "ko": "마스트리흐트 조약은 1992년 2월 7일 서명되었지만 1993년 11월 1일 발효되었다.",
+    "hi": "मास्ट्रिख्ट संधि 7 फरवरी 1992 को हस्ताक्षरित हुई, लेकिन 1 नवंबर 1993 को लागू हुई।",
+    "ar": "وقعت معاهدة ماستريخت في 7 فبراير 1992، لكنها دخلت حيز التنفيذ في 1 نوفمبر 1993."
   },
   "sources": [
     {

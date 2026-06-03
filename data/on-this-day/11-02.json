@@ -11,17 +11,53 @@
     "title": {
       "ru": "BBC начала регулярное телевещание",
       "de": "Die BBC beginnt mit regelmaessigem Fernsehen",
-      "en": "The BBC begins regular television broadcasting"
+      "en": "The BBC begins regular television broadcasting",
+      "fr": "La BBC commence la television reguliere",
+      "es": "La BBC inicia la television regular",
+      "it": "La BBC avvia le trasmissioni televisive regolari",
+      "pt": "A BBC inicia transmissao regular de televisao",
+      "nl": "De BBC begint met regelmatige televisie-uitzendingen",
+      "pl": "BBC rozpoczyna regularne nadawanie telewizji",
+      "tr": "BBC duzenli televizyon yayinciligina basladi",
+      "zh": "BBC开始定期电视播出",
+      "ja": "BBCが定期テレビ放送を開始",
+      "ko": "BBC가 정규 텔레비전 방송을 시작하다",
+      "hi": "BBC ने नियमित टेलीविजन प्रसारण शुरू किया",
+      "ar": "بي بي سي تبدأ البث التلفزيوني المنتظم"
     },
     "description": {
       "ru": "2 ноября 1936 года BBC начала регулярное телевизионное вещание в Лондоне. Для Германии эта дата интересна как часть ранней европейской гонки телевидения, в которой Берлин уже проводил свои опыты и трансляции.",
       "de": "Am 2. November 1936 begann die BBC in London mit regelmaessigem Fernsehbetrieb. Fuer Deutschland ist dieses Datum interessant als Teil des fruehen europaeischen Fernsehwettlaufs, in dem Berlin bereits eigene Versuche und Sendungen durchfuehrte.",
-      "en": "On 2 November 1936, the BBC began regular television broadcasting in London. For Germany, the date is interesting as part of the early European race for television, in which Berlin was already conducting experiments and broadcasts."
+      "en": "On 2 November 1936, the BBC began regular television broadcasting in London. For Germany, the date is interesting as part of the early European race for television, in which Berlin was already conducting experiments and broadcasts.",
+      "fr": "Le 2 novembre 1936, la BBC commenca la television reguliere a Londres. Pour l'Allemagne, cette date est interessante comme partie de la premiere course europeenne a la television, dans laquelle Berlin menait deja ses propres essais et emissions.",
+      "es": "El 2 de noviembre de 1936, la BBC inicio la television regular en Londres. Para Alemania, la fecha es interesante como parte de la temprana carrera europea por la television, en la que Berlin ya realizaba experimentos y emisiones propias.",
+      "it": "Il 2 novembre 1936 la BBC inizio le trasmissioni televisive regolari a Londra. Per la Germania, la data e interessante come parte della prima corsa europea alla televisione, in cui Berlino conduceva gia esperimenti e trasmissioni proprie.",
+      "pt": "Em 2 de novembro de 1936, a BBC iniciou transmissao regular de televisao em Londres. Para a Alemanha, a data e interessante como parte da primeira corrida europeia pela televisao, na qual Berlim ja realizava experimentos e transmissoes.",
+      "nl": "Op 2 november 1936 begon de BBC in Londen met regelmatige televisie-uitzendingen. Voor Duitsland is deze datum interessant als deel van de vroege Europese televisiewedloop, waarin Berlijn al eigen proeven en uitzendingen deed.",
+      "pl": "2 listopada 1936 roku BBC rozpoczela w Londynie regularne nadawanie telewizji. Dla Niemiec ta data jest ciekawa jako czesc wczesnego europejskiego wyscigu telewizyjnego, w ktorym Berlin prowadzil juz wlasne proby i transmisje.",
+      "tr": "2 Kasim 1936'da BBC Londra'da duzenli televizyon yayinciligina basladi. Almanya icin bu tarih, Berlin'in zaten kendi deneylerini ve yayinlarini yaptigi erken Avrupa televizyon yarisinin bir parcasi olarak ilginctir.",
+      "zh": "1936年11月2日，BBC在伦敦开始定期电视播出。对德国来说，这个日期很有意思，因为它属于早期欧洲电视竞赛的一部分，而柏林当时已经在进行自己的实验和播出。",
+      "ja": "1936年11月2日、BBCはロンドンで定期テレビ放送を開始しました。ドイツにとってこの日付は、ベルリンがすでに独自の実験と放送を行っていた初期ヨーロッパのテレビ競争の一部として興味深いものです。",
+      "ko": "1936년 11월 2일 BBC는 런던에서 정규 텔레비전 방송을 시작했다. 독일에는 이 날짜가 초기 유럽 텔레비전 경쟁의 일부로 흥미롭다. 당시 베를린도 이미 자체 실험과 방송을 하고 있었다.",
+      "hi": "2 नवंबर 1936 को BBC ने लंदन में नियमित टेलीविजन प्रसारण शुरू किया। जर्मनी के लिए यह तारीख प्रारंभिक यूरोपीय टेलीविजन दौड़ का हिस्सा होने के कारण रोचक है, जिसमें बर्लिन पहले से अपने प्रयोग और प्रसारण कर रहा था।",
+      "ar": "في 2 نوفمبر 1936 بدأت بي بي سي البث التلفزيوني المنتظم في لندن. وبالنسبة لالمانيا يعد هذا التاريخ مثيرا للاهتمام كجزء من السباق الاوروبي المبكر نحو التلفزيون، حيث كانت برلين تجري بالفعل تجاربها وبثها الخاص."
     },
     "importance": {
       "ru": "Дата помогает увидеть, что телевидение развивалось не в одной стране, а как общеевропейская техническая и культурная конкуренция.",
       "de": "Das Datum zeigt, dass Fernsehen nicht in einem einzigen Land entstand, sondern als europaweiter technischer und kultureller Wettbewerb.",
-      "en": "The date shows that television did not develop in one country alone, but as a Europe-wide technical and cultural competition."
+      "en": "The date shows that television did not develop in one country alone, but as a Europe-wide technical and cultural competition.",
+      "fr": "Cette date montre que la television ne s'est pas developpee dans un seul pays, mais comme une competition technique et culturelle a l'echelle europeenne.",
+      "es": "La fecha muestra que la television no se desarrollo en un solo pais, sino como una competencia tecnica y cultural a escala europea.",
+      "it": "La data mostra che la televisione non si sviluppo in un solo paese, ma come una competizione tecnica e culturale a livello europeo.",
+      "pt": "A data mostra que a televisao nao se desenvolveu em um unico pais, mas como uma competicao tecnica e cultural em toda a Europa.",
+      "nl": "De datum laat zien dat televisie niet in een enkel land ontstond, maar als een Europese technische en culturele competitie.",
+      "pl": "Ta data pokazuje, ze telewizja nie rozwijala sie w jednym kraju, lecz jako ogolnoeuropejska rywalizacja techniczna i kulturowa.",
+      "tr": "Bu tarih, televizyonun tek bir ulkede degil, Avrupa capinda teknik ve kulturel bir rekabet olarak gelistigini gosterir.",
+      "zh": "这个日期说明，电视并不是在一个国家单独发展起来的，而是一场全欧洲的技术和文化竞争。",
+      "ja": "この日付は、テレビが一国だけで発展したのではなく、ヨーロッパ全体の技術的・文化的競争として発展したことを示しています。",
+      "ko": "이 날짜는 텔레비전이 한 나라에서만 발전한 것이 아니라 유럽 전역의 기술적, 문화적 경쟁 속에서 발전했음을 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि टेलीविजन केवल एक देश में नहीं, बल्कि पूरे यूरोप की तकनीकी और सांस्कृतिक प्रतिस्पर्धा के रूप में विकसित हुआ।",
+      "ar": "يبين هذا التاريخ ان التلفزيون لم يتطور في بلد واحد فقط، بل ضمن منافسة تقنية وثقافية على مستوى اوروبا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Раннее телевидение",
           "de": "Fruehes Fernsehen",
-          "en": "Early television"
+          "en": "Early television",
+          "fr": "La television des debuts",
+          "es": "La television temprana",
+          "it": "La prima televisione",
+          "pt": "Televisao inicial",
+          "nl": "Vroege televisie",
+          "pl": "Wczesna telewizja",
+          "tr": "Erken televizyon",
+          "zh": "早期电视",
+          "ja": "初期のテレビ",
+          "ko": "초기 텔레비전",
+          "hi": "प्रारंभिक टेलीविजन",
+          "ar": "التلفزيون المبكر"
         },
         "description": {
           "ru": "Телевидение 1930-х годов было дорогим, технически сложным и доступным немногим. Но именно тогда появились форматы, студии и представление о прямой передаче изображения.",
           "de": "Fernsehen der 1930er Jahre war teuer, technisch schwierig und nur wenigen Menschen zugaenglich. Doch damals entstanden Formate, Studios und die Vorstellung einer Live-Uebertragung von Bildern.",
-          "en": "Television in the 1930s was expensive, technically difficult and available to few people. Yet that period created formats, studios and the idea of live image transmission."
+          "en": "Television in the 1930s was expensive, technically difficult and available to few people. Yet that period created formats, studios and the idea of live image transmission.",
+          "fr": "La television des annees 1930 etait chere, techniquement difficile et accessible a peu de gens. Pourtant, cette periode crea des formats, des studios et l'idee de la transmission d'images en direct.",
+          "es": "La television de los anos 1930 era cara, tecnicamente dificil y accesible para pocas personas. Pero en ese periodo surgieron formatos, estudios y la idea de transmitir imagenes en directo.",
+          "it": "La televisione degli anni 1930 era costosa, tecnicamente difficile e accessibile a pochi. Eppure in quel periodo nacquero formati, studi e l'idea della trasmissione in diretta delle immagini.",
+          "pt": "A televisao dos anos 1930 era cara, tecnicamente dificil e acessivel a poucas pessoas. Mesmo assim, esse periodo criou formatos, estudios e a ideia de transmissao ao vivo de imagens.",
+          "nl": "Televisie in de jaren 1930 was duur, technisch moeilijk en voor weinig mensen beschikbaar. Toch ontstonden toen formats, studio's en het idee van live beeldoverdracht.",
+          "pl": "Telewizja lat 30. byla droga, technicznie trudna i dostepna niewielu ludziom. Jednak wtedy powstaly formaty, studia i idea transmisji obrazu na zywo.",
+          "tr": "1930'larin televizyonu pahali, teknik olarak zordu ve az sayida insan icin erisilebilirdi. Yine de o donem formatlari, studyolari ve canli goruntu aktarimi fikrini ortaya cikardi.",
+          "zh": "20世纪30年代的电视昂贵、技术复杂，只有少数人能够接触。但正是在那个时期，节目形式、演播室和实时图像传输的观念出现了。",
+          "ja": "1930年代のテレビは高価で技術的に難しく、利用できる人は少数でした。それでもその時期に、番組形式、スタジオ、ライブ映像伝送という考えが生まれました。",
+          "ko": "1930년대의 텔레비전은 비싸고 기술적으로 어려웠으며 소수만 이용할 수 있었다. 그러나 그 시기에 형식, 스튜디오, 실시간 영상 전송이라는 생각이 생겨났다.",
+          "hi": "1930 के दशक का टेलीविजन महंगा, तकनीकी रूप से कठिन और बहुत कम लोगों के लिए उपलब्ध था। फिर भी उसी समय प्रारूप, स्टूडियो और सीधी छवि-प्रसारण की कल्पना बनी।",
+          "ar": "كان تلفزيون ثلاثينيات القرن العشرين مكلفا وصعبا تقنيا ومتاحا لقلة من الناس. ومع ذلك ظهرت في تلك الفترة الصيغ والاستوديوهات وفكرة نقل الصور مباشرة."
         },
         "importance": {
           "ru": "Это показывает, как медиа, которые сегодня кажутся обычными, когда-то были экспериментальной техникой.",
           "de": "Das zeigt, wie Medien, die heute alltaeglich wirken, einst experimentelle Technik waren.",
-          "en": "It shows how media that seem ordinary today were once experimental technology."
+          "en": "It shows how media that seem ordinary today were once experimental technology.",
+          "fr": "Cela montre que des medias qui semblent aujourd'hui ordinaires furent autrefois des techniques experimentales.",
+          "es": "Muestra como medios que hoy parecen normales fueron alguna vez tecnologia experimental.",
+          "it": "Mostra come media che oggi sembrano normali un tempo fossero tecnologia sperimentale.",
+          "pt": "Mostra como midias que hoje parecem comuns ja foram tecnologia experimental.",
+          "nl": "Het laat zien hoe media die vandaag gewoon lijken ooit experimentele techniek waren.",
+          "pl": "Pokazuje to, ze media dzis uznawane za zwyczajne byly kiedys technika eksperymentalna.",
+          "tr": "Bugun siradan gorunen medyanin bir zamanlar deneysel teknoloji oldugunu gosterir.",
+          "zh": "这说明今天看似普通的媒体曾经也是实验性技术。",
+          "ja": "今日では普通に見えるメディアが、かつては実験的な技術だったことを示しています。",
+          "ko": "오늘날 평범해 보이는 미디어가 한때는 실험적 기술이었음을 보여 준다.",
+          "hi": "यह दिखाता है कि जो मीडिया आज सामान्य लगता है, वह कभी प्रयोगात्मक तकनीक था।",
+          "ar": "يبين ذلك كيف كانت وسائل الاعلام التي تبدو اليوم عادية تقنية تجريبية في الماضي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Берлин и олимпийские телепередачи",
           "de": "Berlin und olympische Fernsehbilder",
-          "en": "Berlin and Olympic television"
+          "en": "Berlin and Olympic television",
+          "fr": "Berlin et la television olympique",
+          "es": "Berlin y la television olimpica",
+          "it": "Berlino e la televisione olimpica",
+          "pt": "Berlim e a televisao olimpica",
+          "nl": "Berlijn en olympische televisie",
+          "pl": "Berlin i telewizja olimpijska",
+          "tr": "Berlin ve olimpik televizyon",
+          "zh": "柏林与奥运电视",
+          "ja": "ベルリンとオリンピックのテレビ放送",
+          "ko": "베를린과 올림픽 텔레비전",
+          "hi": "बर्लिन और ओलंपिक टेलीविजन",
+          "ar": "برلين والتلفزيون الاولمبي"
         },
         "description": {
           "ru": "В 1936 году в Берлине телепоказы Олимпийских игр демонстрировали возможности новой техники. Технологический интерес здесь соседствовал с пропагандистскими целями нацистского режима.",
           "de": "1936 zeigten Fernsehuebertragungen der Olympischen Spiele in Berlin die Moeglichkeiten der neuen Technik. Technisches Interesse stand dabei neben propagandistischen Zielen des NS-Regimes.",
-          "en": "In 1936, television coverage of the Olympic Games in Berlin demonstrated the possibilities of the new technology. Technical interest stood alongside the propaganda aims of the Nazi regime."
+          "en": "In 1936, television coverage of the Olympic Games in Berlin demonstrated the possibilities of the new technology. Technical interest stood alongside the propaganda aims of the Nazi regime.",
+          "fr": "En 1936, les diffusions televisees des Jeux olympiques a Berlin montrerent les possibilites de la nouvelle technique. L'interet technique y cotoyait les objectifs de propagande du regime nazi.",
+          "es": "En 1936, las transmisiones televisivas de los Juegos Olimpicos de Berlin mostraron las posibilidades de la nueva tecnologia. El interes tecnico convivio con los objetivos propagandisticos del regimen nazi.",
+          "it": "Nel 1936, le trasmissioni televisive dei Giochi olimpici di Berlino mostrarono le possibilita della nuova tecnica. L'interesse tecnico si affianco agli obiettivi propagandistici del regime nazista.",
+          "pt": "Em 1936, as transmissoes televisivas dos Jogos Olimpicos em Berlim demonstraram as possibilidades da nova tecnologia. O interesse tecnico ficou ao lado dos objetivos de propaganda do regime nazista.",
+          "nl": "In 1936 lieten televisie-uitzendingen van de Olympische Spelen in Berlijn de mogelijkheden van de nieuwe techniek zien. Technische belangstelling stond naast de propagandadoelen van het naziregime.",
+          "pl": "W 1936 roku transmisje telewizyjne igrzysk olimpijskich w Berlinie pokazywaly mozliwosci nowej techniki. Zainteresowanie techniczne szlo tu w parze z propagandowymi celami rezimu nazistowskiego.",
+          "tr": "1936'da Berlin Olimpiyat Oyunlari'nin televizyon yayinlari yeni teknolojinin olanaklarini gosterdi. Teknik ilgi, Nazi rejiminin propaganda hedefleriyle yan yana duruyordu.",
+          "zh": "1936年，柏林奥运会的电视转播展示了新技术的可能性。技术兴趣与纳粹政权的宣传目的并存。",
+          "ja": "1936年、ベルリン・オリンピックのテレビ中継は新技術の可能性を示しました。技術的関心は、ナチ政権の宣伝目的と並んで存在していました。",
+          "ko": "1936년 베를린 올림픽의 텔레비전 중계는 새로운 기술의 가능성을 보여 주었다. 기술적 관심은 나치 정권의 선전 목적과 나란히 있었다.",
+          "hi": "1936 में बर्लिन ओलंपिक खेलों के टेलीविजन प्रसारण ने नई तकनीक की संभावनाएं दिखाईं। तकनीकी रुचि नाज़ी शासन के प्रचार उद्देश्यों के साथ-साथ चल रही थी।",
+          "ar": "في عام 1936 اظهرت التغطية التلفزيونية للالعاب الاولمبية في برلين امكانات التقنية الجديدة. وكان الاهتمام التقني قائما الى جانب اهداف الدعاية للنظام النازي."
         },
         "importance": {
           "ru": "Так ранняя история телевидения связывается не только с изобретениями, но и с политикой изображения.",
           "de": "So verbindet sich fruehe Fernsehgeschichte nicht nur mit Erfindungen, sondern auch mit der Politik der Bilder.",
-          "en": "Early television history is thus linked not only with inventions, but also with the politics of images."
+          "en": "Early television history is thus linked not only with inventions, but also with the politics of images.",
+          "fr": "Ainsi, l'histoire des debuts de la television est liee non seulement aux inventions, mais aussi a la politique des images.",
+          "es": "Asi, la historia temprana de la television se vincula no solo con los inventos, sino tambien con la politica de las imagenes.",
+          "it": "Cosi la storia iniziale della televisione e legata non solo alle invenzioni, ma anche alla politica delle immagini.",
+          "pt": "Assim, a historia inicial da televisao esta ligada nao apenas a invencoes, mas tambem a politica das imagens.",
+          "nl": "Zo is de vroege televisiegeschiedenis niet alleen verbonden met uitvindingen, maar ook met de politiek van beelden.",
+          "pl": "Tak wczesna historia telewizji laczy sie nie tylko z wynalazkami, lecz takze z polityka obrazow.",
+          "tr": "Boylece erken televizyon tarihi yalnizca icatlarla degil, goruntulerin siyasetiyle de baglantilidir.",
+          "zh": "因此，早期电视史不仅与发明有关，也与影像政治有关。",
+          "ja": "こうして初期テレビ史は、発明だけでなく映像の政治とも結びついています。",
+          "ko": "따라서 초기 텔레비전 역사는 발명뿐 아니라 이미지의 정치와도 연결된다.",
+          "hi": "इस तरह प्रारंभिक टेलीविजन इतिहास केवल आविष्कारों से नहीं, बल्कि छवियों की राजनीति से भी जुड़ता है।",
+          "ar": "وهكذا يرتبط تاريخ التلفزيون المبكر ليس بالاختراعات فقط، بل ايضا بسياسة الصور."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В Берлине во время Олимпиады 1936 года работали специальные телевизионные залы для зрителей.",
     "de": "In Berlin gab es waehrend der Olympischen Spiele 1936 besondere Fernsehstuben fuer Zuschauer.",
-    "en": "During the 1936 Olympics, Berlin had special television rooms for viewers."
+    "en": "During the 1936 Olympics, Berlin had special television rooms for viewers.",
+    "fr": "Pendant les Jeux olympiques de 1936, Berlin possedait des salles de television speciales pour les spectateurs.",
+    "es": "Durante los Juegos Olimpicos de 1936, Berlin tuvo salas especiales de television para espectadores.",
+    "it": "Durante le Olimpiadi del 1936, Berlino ebbe speciali sale televisive per gli spettatori.",
+    "pt": "Durante as Olimpiadas de 1936, Berlim tinha salas especiais de televisao para espectadores.",
+    "nl": "Tijdens de Olympische Spelen van 1936 had Berlijn speciale televisiekamers voor kijkers.",
+    "pl": "Podczas igrzysk olimpijskich w 1936 roku w Berlinie dzialaly specjalne sale telewizyjne dla widzow.",
+    "tr": "1936 Olimpiyatlari sirasinda Berlin'de izleyiciler icin ozel televizyon salonlari vardi.",
+    "zh": "1936年奥运会期间，柏林设有供观众观看的专门电视室。",
+    "ja": "1936年のオリンピック期間中、ベルリンには視聴者のための特別なテレビ室がありました。",
+    "ko": "1936년 올림픽 동안 베를린에는 시청자를 위한 특별 텔레비전실이 있었다.",
+    "hi": "1936 ओलंपिक के दौरान बर्लिन में दर्शकों के लिए विशेष टेलीविजन कक्ष थे।",
+    "ar": "خلال اولمبياد 1936 كانت في برلين قاعات تلفزيونية خاصة للمشاهدين."
   },
   "sources": [
     {
