@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Александр фон Гумбольдт",
       "de": "Alexander von Humboldt wird geboren",
-      "en": "Alexander von Humboldt is born"
+      "en": "Alexander von Humboldt is born",
+      "fr": "Alexander von Humboldt naît",
+      "es": "Nace Alexander von Humboldt",
+      "it": "Nasce Alexander von Humboldt",
+      "pt": "Nasce Alexander von Humboldt",
+      "nl": "Alexander von Humboldt wordt geboren",
+      "pl": "Urodził się Alexander von Humboldt",
+      "tr": "Alexander von Humboldt doğdu",
+      "zh": "亚历山大·冯·洪堡诞生",
+      "ja": "アレクサンダー・フォン・フンボルトが生まれる",
+      "ko": "알렉산더 폰 훔볼트가 태어나다",
+      "hi": "अलेक्ज़ेंडर फॉन हम्बोल्ट का जन्म हुआ",
+      "ar": "ولادة ألكسندر فون هومبولت"
     },
     "description": {
       "ru": "14 сентября 1769 года в Берлине родился Александр фон Гумбольдт. Он стал естествоиспытателем, географом и путешественником мирового масштаба.",
       "de": "Am 14. September 1769 wurde Alexander von Humboldt in Berlin geboren. Er wurde ein Naturforscher, Geograf und Reisender von Weltrang.",
-      "en": "On 14 September 1769, Alexander von Humboldt was born in Berlin. He became a naturalist, geographer and explorer of global importance."
+      "en": "On 14 September 1769, Alexander von Humboldt was born in Berlin. He became a naturalist, geographer and explorer of global importance.",
+      "fr": "Le 14 septembre 1769, Alexander von Humboldt naquit à Berlin. Il devint un naturaliste, géographe et explorateur d'importance mondiale.",
+      "es": "El 14 de septiembre de 1769 nació Alexander von Humboldt en Berlín. Se convirtió en naturalista, geógrafo y explorador de importancia mundial.",
+      "it": "Il 14 settembre 1769 Alexander von Humboldt nacque a Berlino. Divenne un naturalista, geografo ed esploratore di importanza mondiale.",
+      "pt": "Em 14 de setembro de 1769, Alexander von Humboldt nasceu em Berlim. Ele se tornou naturalista, geógrafo e explorador de importância mundial.",
+      "nl": "Op 14 september 1769 werd Alexander von Humboldt in Berlijn geboren. Hij werd een natuuronderzoeker, geograaf en ontdekkingsreiziger van wereldbelang.",
+      "pl": "14 września 1769 roku w Berlinie urodził się Alexander von Humboldt. Stał się przyrodnikiem, geografem i podróżnikiem o światowym znaczeniu.",
+      "tr": "14 Eylül 1769'da Alexander von Humboldt Berlin'de doğdu. Dünya çapında öneme sahip bir doğa bilimci, coğrafyacı ve kâşif oldu.",
+      "zh": "1769年9月14日，亚历山大·冯·洪堡出生于柏林。他成为具有世界影响力的自然学家、地理学家和探险家。",
+      "ja": "1769年9月14日、アレクサンダー・フォン・フンボルトがベルリンで生まれました。彼は世界的に重要な自然研究者、地理学者、探検家となりました。",
+      "ko": "1769년 9월 14일 알렉산더 폰 훔볼트가 베를린에서 태어났습니다. 그는 세계적으로 중요한 자연학자, 지리학자, 탐험가가 되었습니다.",
+      "hi": "14 सितंबर 1769 को अलेक्ज़ेंडर फॉन हम्बोल्ट का जन्म बर्लिन में हुआ। वे विश्व-स्तर के प्रकृतिवेत्ता, भूगोलवेत्ता और अन्वेषक बने।",
+      "ar": "في 14 سبتمبر 1769 وُلد ألكسندر فون هومبولت في برلين. أصبح عالماً طبيعياً وجغرافياً ومستكشفاً ذا أهمية عالمية."
     },
     "importance": {
       "ru": "Гумбольдт помог увидеть природу как связанную систему, а не набор отдельных явлений.",
       "de": "Humboldt half, Natur als verbundenes System zu verstehen, nicht als Sammlung einzelner Erscheinungen.",
-      "en": "Humboldt helped people understand nature as a connected system, not a collection of separate phenomena."
+      "en": "Humboldt helped people understand nature as a connected system, not a collection of separate phenomena.",
+      "fr": "Humboldt aida à comprendre la nature comme un système lié, et non comme une collection de phénomènes séparés.",
+      "es": "Humboldt ayudó a entender la naturaleza como un sistema conectado, no como una colección de fenómenos separados.",
+      "it": "Humboldt aiutò a comprendere la natura come un sistema collegato, non come una raccolta di fenomeni separati.",
+      "pt": "Humboldt ajudou a entender a natureza como um sistema conectado, não como um conjunto de fenômenos separados.",
+      "nl": "Humboldt hielp mensen de natuur te begrijpen als een verbonden systeem, niet als een verzameling losse verschijnselen.",
+      "pl": "Humboldt pomógł rozumieć przyrodę jako połączony system, a nie zbiór oddzielnych zjawisk.",
+      "tr": "Humboldt, doğanın ayrı olgular toplamı değil, bağlantılı bir sistem olarak anlaşılmasına yardım etti.",
+      "zh": "洪堡帮助人们把自然理解为相互联系的系统，而不是孤立现象的集合。",
+      "ja": "フンボルトは、自然を個別の現象の集まりではなく、つながった体系として理解する助けとなりました。",
+      "ko": "훔볼트는 자연을 분리된 현상의 모음이 아니라 연결된 체계로 이해하도록 도왔습니다.",
+      "hi": "हम्बोल्ट ने प्रकृति को अलग-अलग घटनाओं के संग्रह के बजाय जुड़े हुए तंत्र के रूप में समझने में मदद की।",
+      "ar": "ساعد هومبولت الناس على فهم الطبيعة كنظام مترابط، لا كمجموعة من ظواهر منفصلة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Наука как путешествие",
           "de": "Wissenschaft als Reise",
-          "en": "Science as travel"
+          "en": "Science as travel",
+          "fr": "La science comme voyage",
+          "es": "La ciencia como viaje",
+          "it": "La scienza come viaggio",
+          "pt": "A ciência como viagem",
+          "nl": "Wetenschap als reis",
+          "pl": "Nauka jako podróż",
+          "tr": "Yolculuk olarak bilim",
+          "zh": "作为旅行的科学",
+          "ja": "旅としての科学",
+          "ko": "여행으로서의 과학",
+          "hi": "यात्रा के रूप में विज्ञान",
+          "ar": "العلم كرحلة"
         },
         "description": {
           "ru": "Гумбольдт исследовал Латинскую Америку, климат, растения, горы и карты. Его имя носит множество мест, учреждений и видов.",
           "de": "Humboldt erforschte Lateinamerika, Klima, Pflanzen, Berge und Karten. Viele Orte, Einrichtungen und Arten tragen seinen Namen.",
-          "en": "Humboldt studied Latin America, climate, plants, mountains and maps. Many places, institutions and species bear his name."
+          "en": "Humboldt studied Latin America, climate, plants, mountains and maps. Many places, institutions and species bear his name.",
+          "fr": "Humboldt étudia l'Amérique latine, le climat, les plantes, les montagnes et les cartes. De nombreux lieux, institutions et espèces portent son nom.",
+          "es": "Humboldt estudió América Latina, el clima, las plantas, las montañas y los mapas. Muchos lugares, instituciones y especies llevan su nombre.",
+          "it": "Humboldt studiò l'America Latina, il clima, le piante, le montagne e le mappe. Molti luoghi, istituzioni e specie portano il suo nome.",
+          "pt": "Humboldt estudou a América Latina, o clima, as plantas, as montanhas e os mapas. Muitos lugares, instituições e espécies levam seu nome.",
+          "nl": "Humboldt bestudeerde Latijns-Amerika, klimaat, planten, bergen en kaarten. Veel plaatsen, instellingen en soorten dragen zijn naam.",
+          "pl": "Humboldt badał Amerykę Łacińską, klimat, rośliny, góry i mapy. Wiele miejsc, instytucji i gatunków nosi jego imię.",
+          "tr": "Humboldt Latin Amerika'yı, iklimi, bitkileri, dağları ve haritaları inceledi. Birçok yer, kurum ve tür onun adını taşır.",
+          "zh": "洪堡研究拉丁美洲、气候、植物、山脉和地图。许多地方、机构和物种都以他的名字命名。",
+          "ja": "フンボルトはラテンアメリカ、気候、植物、山々、地図を研究しました。多くの場所、機関、生物種が彼の名を冠しています。",
+          "ko": "훔볼트는 라틴아메리카, 기후, 식물, 산, 지도를 연구했습니다. 많은 장소, 기관, 종이 그의 이름을 지니고 있습니다.",
+          "hi": "हम्बोल्ट ने लैटिन अमेरिका, जलवायु, पौधों, पर्वतों और नक्शों का अध्ययन किया। अनेक स्थान, संस्थान और प्रजातियाँ उनका नाम रखती हैं।",
+          "ar": "درس هومبولت أمريكا اللاتينية والمناخ والنباتات والجبال والخرائط. وتحمل أماكن ومؤسسات وأنواع كثيرة اسمه."
         },
         "importance": {
           "ru": "Он показывает Германию как часть мировой истории науки и исследований.",
           "de": "Er zeigt Deutschland als Teil der Weltgeschichte von Wissenschaft und Forschung.",
-          "en": "He shows Germany as part of the global history of science and exploration."
+          "en": "He shows Germany as part of the global history of science and exploration.",
+          "fr": "Il montre l'Allemagne comme une partie de l'histoire mondiale de la science et de l'exploration.",
+          "es": "Muestra a Alemania como parte de la historia mundial de la ciencia y la exploración.",
+          "it": "Mostra la Germania come parte della storia mondiale della scienza e dell'esplorazione.",
+          "pt": "Ele mostra a Alemanha como parte da história mundial da ciência e da exploração.",
+          "nl": "Hij toont Duitsland als deel van de wereldgeschiedenis van wetenschap en onderzoek.",
+          "pl": "Pokazuje Niemcy jako część światowej historii nauki i badań.",
+          "tr": "Almanya'yı bilim ve keşiflerin dünya tarihinin bir parçası olarak gösterir.",
+          "zh": "他展示了德国作为世界科学与探索史的一部分。",
+          "ja": "彼は、ドイツが科学と探検の世界史の一部であることを示しています。",
+          "ko": "그는 독일이 과학과 탐사의 세계사의 일부임을 보여 줍니다.",
+          "hi": "वे जर्मनी को विज्ञान और अन्वेषण के वैश्विक इतिहास का हिस्सा दिखाते हैं।",
+          "ar": "يُظهر ألمانيا كجزء من التاريخ العالمي للعلم والاستكشاف."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Берлинский университет имени Гумбольдта назван в честь братьев Вильгельма и Александра фон Гумбольдтов.",
     "de": "Die Berliner Humboldt-Universitaet ist nach den Bruedern Wilhelm und Alexander von Humboldt benannt.",
-    "en": "Berlin's Humboldt University is named after the brothers Wilhelm and Alexander von Humboldt."
+    "en": "Berlin's Humboldt University is named after the brothers Wilhelm and Alexander von Humboldt.",
+    "fr": "L'université Humboldt de Berlin porte le nom des frères Wilhelm et Alexander von Humboldt.",
+    "es": "La Universidad Humboldt de Berlín lleva el nombre de los hermanos Wilhelm y Alexander von Humboldt.",
+    "it": "L'Università Humboldt di Berlino prende il nome dai fratelli Wilhelm e Alexander von Humboldt.",
+    "pt": "A Universidade Humboldt de Berlim recebeu o nome dos irmãos Wilhelm e Alexander von Humboldt.",
+    "nl": "De Humboldt-universiteit van Berlijn is genoemd naar de broers Wilhelm en Alexander von Humboldt.",
+    "pl": "Berliński Uniwersytet Humboldtów nosi imię braci Wilhelma i Alexandra von Humboldtów.",
+    "tr": "Berlin'deki Humboldt Üniversitesi, Wilhelm ve Alexander von Humboldt kardeşlerin adını taşır.",
+    "zh": "柏林洪堡大学以威廉和亚历山大·冯·洪堡兄弟命名。",
+    "ja": "ベルリンのフンボルト大学は、ヴィルヘルムとアレクサンダー・フォン・フンボルト兄弟にちなんで名付けられました。",
+    "ko": "베를린 훔볼트 대학교는 빌헬름과 알렉산더 폰 훔볼트 형제의 이름을 따서 지어졌습니다.",
+    "hi": "बर्लिन का हम्बोल्ट विश्वविद्यालय भाइयों विल्हेल्म और अलेक्ज़ेंडर फॉन हम्बोल्ट के नाम पर है।",
+    "ar": "سُميت جامعة هومبولت في برلين باسم الأخوين فيلهلم وألكسندر فون هومبولت."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Клара Шуман",
       "de": "Clara Schumann wird geboren",
-      "en": "Clara Schumann is born"
+      "en": "Clara Schumann is born",
+      "fr": "Clara Schumann naît",
+      "es": "Nace Clara Schumann",
+      "it": "Nasce Clara Schumann",
+      "pt": "Nasce Clara Schumann",
+      "nl": "Clara Schumann wordt geboren",
+      "pl": "Urodziła się Clara Schumann",
+      "tr": "Clara Schumann doğdu",
+      "zh": "克拉拉·舒曼诞生",
+      "ja": "クララ・シューマンが生まれる",
+      "ko": "클라라 슈만이 태어나다",
+      "hi": "क्लारा शुमान का जन्म हुआ",
+      "ar": "ولادة كلارا شومان"
     },
     "description": {
       "ru": "13 сентября 1819 года в Лейпциге родилась Клара Вик, позднее Клара Шуман. Она стала выдающейся пианисткой, композитором и музыкальным педагогом.",
       "de": "Am 13. September 1819 wurde Clara Wieck, spaeter Clara Schumann, in Leipzig geboren. Sie wurde eine herausragende Pianistin, Komponistin und Musikpaedagogin.",
-      "en": "On 13 September 1819, Clara Wieck, later Clara Schumann, was born in Leipzig. She became an outstanding pianist, composer and music teacher."
+      "en": "On 13 September 1819, Clara Wieck, later Clara Schumann, was born in Leipzig. She became an outstanding pianist, composer and music teacher.",
+      "fr": "Le 13 septembre 1819, Clara Wieck, plus tard Clara Schumann, naquit à Leipzig. Elle devint une pianiste, compositrice et professeure de musique exceptionnelle.",
+      "es": "El 13 de septiembre de 1819 nació en Leipzig Clara Wieck, más tarde Clara Schumann. Se convirtió en una destacada pianista, compositora y profesora de música.",
+      "it": "Il 13 settembre 1819 nacque a Lipsia Clara Wieck, poi Clara Schumann. Divenne una pianista, compositrice e insegnante di musica eccezionale.",
+      "pt": "Em 13 de setembro de 1819, Clara Wieck, depois Clara Schumann, nasceu em Leipzig. Ela se tornou uma pianista, compositora e professora de música excepcional.",
+      "nl": "Op 13 september 1819 werd Clara Wieck, later Clara Schumann, in Leipzig geboren. Zij werd een uitzonderlijke pianiste, componiste en muziekpedagoge.",
+      "pl": "13 września 1819 roku w Lipsku urodziła się Clara Wieck, później Clara Schumann. Stała się wybitną pianistką, kompozytorką i nauczycielką muzyki.",
+      "tr": "13 Eylül 1819'da, daha sonra Clara Schumann adını alacak Clara Wieck Leipzig'de doğdu. Olağanüstü bir piyanist, besteci ve müzik öğretmeni oldu.",
+      "zh": "1819年9月13日，克拉拉·维克，后来的克拉拉·舒曼，出生于莱比锡。她成为杰出的钢琴家、作曲家和音乐教育家。",
+      "ja": "1819年9月13日、後にクララ・シューマンとなるクララ・ヴィークがライプツィヒで生まれました。彼女は卓越したピアニスト、作曲家、音楽教師となりました。",
+      "ko": "1819년 9월 13일, 훗날 클라라 슈만이 되는 클라라 비크가 라이프치히에서 태어났습니다. 그녀는 뛰어난 피아니스트, 작곡가, 음악 교사가 되었습니다.",
+      "hi": "13 सितंबर 1819 को क्लारा वीक, बाद में क्लारा शुमान, का जन्म लाइपज़िग में हुआ। वे उत्कृष्ट पियानोवादक, संगीतकार और संगीत शिक्षिका बनीं।",
+      "ar": "في 13 سبتمبر 1819 وُلدت كلارا فيك، التي عُرفت لاحقاً باسم كلارا شومان، في لايبزيغ. أصبحت عازفة بيانو وملحنة ومعلمة موسيقى بارزة."
     },
     "importance": {
       "ru": "Её жизнь показывает, что история немецкой музыки состоит не только из мужских имён.",
       "de": "Ihr Leben zeigt, dass die Geschichte der deutschen Musik nicht nur aus Maennernamen besteht.",
-      "en": "Her life shows that the history of German music is not made only of men's names."
+      "en": "Her life shows that the history of German music is not made only of men's names.",
+      "fr": "Sa vie montre que l'histoire de la musique allemande n'est pas faite seulement de noms masculins.",
+      "es": "Su vida muestra que la historia de la música alemana no está hecha solo de nombres masculinos.",
+      "it": "La sua vita mostra che la storia della musica tedesca non è fatta solo di nomi maschili.",
+      "pt": "Sua vida mostra que a história da música alemã não é feita apenas de nomes masculinos.",
+      "nl": "Haar leven laat zien dat de geschiedenis van de Duitse muziek niet alleen uit mannennamen bestaat.",
+      "pl": "Jej życie pokazuje, że historia muzyki niemieckiej nie składa się wyłącznie z męskich nazwisk.",
+      "tr": "Onun yaşamı, Alman müzik tarihinin yalnızca erkek isimlerinden oluşmadığını gösterir.",
+      "zh": "她的一生说明，德国音乐史并不只由男性名字构成。",
+      "ja": "彼女の人生は、ドイツ音楽史が男性の名前だけでできているわけではないことを示しています。",
+      "ko": "그녀의 삶은 독일 음악사가 남성 이름들로만 이루어진 것이 아님을 보여 줍니다.",
+      "hi": "उनका जीवन दिखाता है कि जर्मन संगीत का इतिहास केवल पुरुष नामों से नहीं बना है।",
+      "ar": "تُظهر حياتها أن تاريخ الموسيقى الألمانية لا يتكون من أسماء الرجال فقط."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Звезда европейской сцены",
           "de": "Ein Star der europaeischen Buehnen",
-          "en": "A star of European stages"
+          "en": "A star of European stages",
+          "fr": "Une étoile des scènes européennes",
+          "es": "Una estrella de los escenarios europeos",
+          "it": "Una stella dei palcoscenici europei",
+          "pt": "Uma estrela dos palcos europeus",
+          "nl": "Een ster van Europese podia",
+          "pl": "Gwiazda europejskich scen",
+          "tr": "Avrupa sahnelerinin yıldızı",
+          "zh": "欧洲舞台之星",
+          "ja": "ヨーロッパの舞台のスター",
+          "ko": "유럽 무대의 스타",
+          "hi": "यूरोपीय मंचों की सितारा",
+          "ar": "نجمة المسارح الأوروبية"
         },
         "description": {
           "ru": "Клара Шуман много выступала и была одной из самых известных пианисток своего времени. Она также поддерживала музыку Роберта Шумана и Иоганнеса Брамса.",
           "de": "Clara Schumann trat viel auf und war eine der bekanntesten Pianistinnen ihrer Zeit. Sie foerderte auch die Musik von Robert Schumann und Johannes Brahms.",
-          "en": "Clara Schumann performed widely and was one of the best-known pianists of her time. She also supported the music of Robert Schumann and Johannes Brahms."
+          "en": "Clara Schumann performed widely and was one of the best-known pianists of her time. She also supported the music of Robert Schumann and Johannes Brahms.",
+          "fr": "Clara Schumann donna de nombreux concerts et fut l'une des pianistes les plus connues de son temps. Elle soutint aussi la musique de Robert Schumann et de Johannes Brahms.",
+          "es": "Clara Schumann actuó mucho y fue una de las pianistas más conocidas de su tiempo. También apoyó la música de Robert Schumann y Johannes Brahms.",
+          "it": "Clara Schumann si esibì molto e fu una delle pianiste più note del suo tempo. Sostenne anche la musica di Robert Schumann e Johannes Brahms.",
+          "pt": "Clara Schumann se apresentou amplamente e foi uma das pianistas mais conhecidas de seu tempo. Ela também apoiou a música de Robert Schumann e Johannes Brahms.",
+          "nl": "Clara Schumann trad veel op en was een van de bekendste pianistes van haar tijd. Ze ondersteunde ook de muziek van Robert Schumann en Johannes Brahms.",
+          "pl": "Clara Schumann dużo występowała i była jedną z najbardziej znanych pianistek swoich czasów. Wspierała też muzykę Roberta Schumanna i Johannesa Brahmsa.",
+          "tr": "Clara Schumann çok sayıda konser verdi ve döneminin en tanınmış piyanistlerinden biriydi. Robert Schumann ve Johannes Brahms'ın müziğini de destekledi.",
+          "zh": "克拉拉·舒曼广泛演出，是她那个时代最著名的钢琴家之一。她也支持罗伯特·舒曼和约翰内斯·勃拉姆斯的音乐。",
+          "ja": "クララ・シューマンは広く演奏活動を行い、当時最も有名なピアニストの一人でした。彼女はロベルト・シューマンやヨハネス・ブラームスの音楽も支えました。",
+          "ko": "클라라 슈만은 폭넓게 연주했고 당대 가장 유명한 피아니스트 중 한 명이었습니다. 그녀는 로베르트 슈만과 요하네스 브람스의 음악도 지원했습니다.",
+          "hi": "क्लारा शुमान ने बहुत प्रदर्शन किए और अपने समय की सबसे प्रसिद्ध पियानोवादकों में से एक थीं। उन्होंने रोबर्ट शुमान और योहानेस ब्राह्म्स के संगीत को भी समर्थन दिया।",
+          "ar": "قدمت كلارا شومان عروضاً كثيرة وكانت من أشهر عازفات البيانو في عصرها. كما دعمت موسيقى روبرت شومان ويوهانس برامز."
         },
         "importance": {
           "ru": "Она была не только «женой композитора», а самостоятельной фигурой музыкальной Европы.",
           "de": "Sie war nicht nur die Frau eines Komponisten, sondern eine eigenstaendige Figur des europaeischen Musiklebens.",
-          "en": "She was not only a composer's wife but an independent figure in European musical life."
+          "en": "She was not only a composer's wife but an independent figure in European musical life.",
+          "fr": "Elle n'était pas seulement l'épouse d'un compositeur, mais une figure indépendante de la vie musicale européenne.",
+          "es": "No fue solo la esposa de un compositor, sino una figura independiente de la vida musical europea.",
+          "it": "Non fu solo la moglie di un compositore, ma una figura autonoma della vita musicale europea.",
+          "pt": "Ela não foi apenas a esposa de um compositor, mas uma figura independente da vida musical europeia.",
+          "nl": "Ze was niet alleen de vrouw van een componist, maar een zelfstandige figuur in het Europese muziekleven.",
+          "pl": "Nie była tylko żoną kompozytora, lecz samodzielną postacią europejskiego życia muzycznego.",
+          "tr": "O yalnızca bir bestecinin eşi değil, Avrupa müzik yaşamının bağımsız bir figürüydü.",
+          "zh": "她不仅是作曲家的妻子，也是欧洲音乐生活中的独立人物。",
+          "ja": "彼女は作曲家の妻であるだけでなく、ヨーロッパ音楽界の独立した人物でした。",
+          "ko": "그녀는 단지 작곡가의 아내가 아니라 유럽 음악 생활의 독립적인 인물이었습니다.",
+          "hi": "वे केवल किसी संगीतकार की पत्नी नहीं थीं, बल्कि यूरोपीय संगीत जीवन की स्वतंत्र हस्ती थीं।",
+          "ar": "لم تكن زوجة ملحن فقط، بل شخصية مستقلة في الحياة الموسيقية الأوروبية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Лейпциг хранит память о Кларе Шуман как о части своей богатой музыкальной истории.",
     "de": "Leipzig bewahrt die Erinnerung an Clara Schumann als Teil seiner reichen Musikgeschichte.",
-    "en": "Leipzig preserves Clara Schumann's memory as part of its rich musical history."
+    "en": "Leipzig preserves Clara Schumann's memory as part of its rich musical history.",
+    "fr": "Leipzig conserve la mémoire de Clara Schumann comme partie de sa riche histoire musicale.",
+    "es": "Leipzig conserva la memoria de Clara Schumann como parte de su rica historia musical.",
+    "it": "Lipsia conserva la memoria di Clara Schumann come parte della sua ricca storia musicale.",
+    "pt": "Leipzig preserva a memória de Clara Schumann como parte de sua rica história musical.",
+    "nl": "Leipzig bewaart de herinnering aan Clara Schumann als deel van zijn rijke muziekgeschiedenis.",
+    "pl": "Lipsk zachowuje pamięć o Clarze Schumann jako części swojej bogatej historii muzycznej.",
+    "tr": "Leipzig, Clara Schumann'ın anısını zengin müzik tarihinin bir parçası olarak korur.",
+    "zh": "莱比锡把克拉拉·舒曼的记忆作为其丰富音乐史的一部分保存下来。",
+    "ja": "ライプツィヒは、豊かな音楽史の一部としてクララ・シューマンの記憶を守っています。",
+    "ko": "라이프치히는 풍부한 음악사의 일부로 클라라 슈만의 기억을 보존하고 있습니다.",
+    "hi": "लाइपज़िग क्लारा शुमान की स्मृति को अपने समृद्ध संगीत इतिहास के हिस्से के रूप में सँजोता है।",
+    "ar": "تحافظ لايبزيغ على ذكرى كلارا شومان كجزء من تاريخها الموسيقي الغني."
   },
   "sources": [
     {

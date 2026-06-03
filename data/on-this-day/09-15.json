@@ -11,17 +11,53 @@
     "title": {
       "ru": "Приняты Нюрнбергские законы",
       "de": "Die Nuernberger Gesetze werden verabschiedet",
-      "en": "The Nuremberg Laws are passed"
+      "en": "The Nuremberg Laws are passed",
+      "fr": "Les lois de Nuremberg sont adoptées",
+      "es": "Se aprueban las Leyes de Núremberg",
+      "it": "Vengono approvate le Leggi di Norimberga",
+      "pt": "As Leis de Nuremberg são aprovadas",
+      "nl": "De Neurenberger wetten worden aangenomen",
+      "pl": "Uchwalono ustawy norymberskie",
+      "tr": "Nürnberg Yasaları kabul edildi",
+      "zh": "纽伦堡法案通过",
+      "ja": "ニュルンベルク法が制定される",
+      "ko": "뉘른베르크 법이 통과되다",
+      "hi": "न्यूर्नबर्ग कानून पारित हुए",
+      "ar": "إقرار قوانين نورمبرغ"
     },
     "description": {
       "ru": "15 сентября 1935 года нацистская Германия приняла Нюрнбергские расовые законы. Они лишали евреев гражданских прав и закрепляли расистскую политику государства.",
       "de": "Am 15. September 1935 verabschiedete NS-Deutschland die Nuernberger Rassengesetze. Sie entzogen Juden Buergerrechte und verankerten die rassistische Politik des Staates.",
-      "en": "On 15 September 1935, Nazi Germany passed the Nuremberg racial laws. They stripped Jews of civil rights and anchored the state's racist policies."
+      "en": "On 15 September 1935, Nazi Germany passed the Nuremberg racial laws. They stripped Jews of civil rights and anchored the state's racist policies.",
+      "fr": "Le 15 septembre 1935, l'Allemagne nazie adopta les lois raciales de Nuremberg. Elles privèrent les Juifs de droits civiques et ancrèrent la politique raciste de l'État.",
+      "es": "El 15 de septiembre de 1935, la Alemania nazi aprobó las leyes raciales de Núremberg. Privaron a los judíos de derechos civiles y consolidaron la política racista del Estado.",
+      "it": "Il 15 settembre 1935 la Germania nazista approvò le leggi razziali di Norimberga. Esse privarono gli ebrei dei diritti civili e fissarono la politica razzista dello Stato.",
+      "pt": "Em 15 de setembro de 1935, a Alemanha nazista aprovou as leis raciais de Nuremberg. Elas retiraram direitos civis dos judeus e consolidaram a política racista do Estado.",
+      "nl": "Op 15 september 1935 nam nazi-Duitsland de Neurenberger rassenwetten aan. Ze ontnamen Joden burgerrechten en verankerden het racistische beleid van de staat.",
+      "pl": "15 września 1935 roku nazistowskie Niemcy uchwaliły norymberskie ustawy rasowe. Pozbawiały one Żydów praw obywatelskich i utrwalały rasistowską politykę państwa.",
+      "tr": "15 Eylül 1935'te Nazi Almanyası Nürnberg ırk yasalarını kabul etti. Bu yasalar Yahudileri yurttaşlık haklarından mahrum bıraktı ve devletin ırkçı politikasını yerleştirdi.",
+      "zh": "1935年9月15日，纳粹德国通过纽伦堡种族法。它们剥夺犹太人的公民权，并把国家的种族主义政策固定下来。",
+      "ja": "1935年9月15日、ナチス・ドイツはニュルンベルク人種法を制定しました。これらはユダヤ人から市民権を奪い、国家の人種差別政策を固定しました。",
+      "ko": "1935년 9월 15일 나치 독일은 뉘른베르크 인종법을 통과시켰습니다. 이 법들은 유대인들의 시민권을 빼앗고 국가의 인종주의 정책을 제도화했습니다.",
+      "hi": "15 सितंबर 1935 को नाजी जर्मनी ने न्यूर्नबर्ग नस्ली कानून पारित किए। उन्होंने यहूदियों से नागरिक अधिकार छीन लिए और राज्य की नस्लवादी नीति को स्थिर कर दिया।",
+      "ar": "في 15 سبتمبر 1935 أقرت ألمانيا النازية قوانين نورمبرغ العنصرية. جرّدت هذه القوانين اليهود من الحقوق المدنية ورسخت سياسة الدولة العنصرية."
     },
     "importance": {
       "ru": "Это был ключевой шаг от дискриминации к систематическому преследованию.",
       "de": "Das war ein zentraler Schritt von Diskriminierung zu systematischer Verfolgung.",
-      "en": "It was a key step from discrimination to systematic persecution."
+      "en": "It was a key step from discrimination to systematic persecution.",
+      "fr": "Ce fut une étape clé du passage de la discrimination à la persécution systématique.",
+      "es": "Fue un paso clave de la discriminación a la persecución sistemática.",
+      "it": "Fu un passaggio chiave dalla discriminazione alla persecuzione sistematica.",
+      "pt": "Foi um passo decisivo da discriminação para a perseguição sistemática.",
+      "nl": "Het was een sleutelstap van discriminatie naar systematische vervolging.",
+      "pl": "Był to kluczowy krok od dyskryminacji do systematycznego prześladowania.",
+      "tr": "Bu, ayrımcılıktan sistematik zulme giden yolda temel bir adımdı.",
+      "zh": "这是从歧视走向系统性迫害的关键一步。",
+      "ja": "これは差別から組織的迫害へ向かう重要な一歩でした。",
+      "ko": "이는 차별에서 체계적 박해로 가는 핵심 단계였습니다.",
+      "hi": "यह भेदभाव से व्यवस्थित उत्पीड़न की ओर एक निर्णायक कदम था।",
+      "ar": "كانت خطوة أساسية من التمييز إلى الاضطهاد المنهجي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Гражданство стало инструментом исключения",
           "de": "Staatsbuergerschaft als Werkzeug des Ausschlusses",
-          "en": "Citizenship as a tool of exclusion"
+          "en": "Citizenship as a tool of exclusion",
+          "fr": "La citoyenneté comme outil d'exclusion",
+          "es": "La ciudadanía como herramienta de exclusión",
+          "it": "La cittadinanza come strumento di esclusione",
+          "pt": "A cidadania como ferramenta de exclusão",
+          "nl": "Burgerschap als instrument van uitsluiting",
+          "pl": "Obywatelstwo jako narzędzie wykluczenia",
+          "tr": "Dışlama aracı olarak vatandaşlık",
+          "zh": "作为排斥工具的公民身份",
+          "ja": "排除の道具としての市民権",
+          "ko": "배제의 도구가 된 시민권",
+          "hi": "बहिष्कार के उपकरण के रूप में नागरिकता",
+          "ar": "المواطنة كأداة للإقصاء"
         },
         "description": {
           "ru": "Один из законов определял, кто считался гражданином рейха. Право стало механизмом разделения людей на «своих» и «чужих».",
           "de": "Eines der Gesetze bestimmte, wer als Reichsbuerger galt. Recht wurde zu einem Mechanismus, Menschen in Zugehoerige und Ausgeschlossene zu teilen.",
-          "en": "One law defined who counted as a Reich citizen. Law became a mechanism for dividing people into insiders and outsiders."
+          "en": "One law defined who counted as a Reich citizen. Law became a mechanism for dividing people into insiders and outsiders.",
+          "fr": "L'une des lois définissait qui comptait comme citoyen du Reich. Le droit devint un mécanisme pour diviser les personnes entre inclus et exclus.",
+          "es": "Una de las leyes definía quién contaba como ciudadano del Reich. El derecho se convirtió en un mecanismo para dividir a las personas entre incluidos y excluidos.",
+          "it": "Una delle leggi definiva chi fosse considerato cittadino del Reich. Il diritto divenne un meccanismo per dividere le persone tra inclusi ed esclusi.",
+          "pt": "Uma das leis definia quem era considerado cidadão do Reich. O direito tornou-se um mecanismo para dividir pessoas entre incluídos e excluídos.",
+          "nl": "Een van de wetten bepaalde wie als Rijksburger gold. Recht werd een mechanisme om mensen te verdelen in wie erbij hoorde en wie werd uitgesloten.",
+          "pl": "Jedna z ustaw określała, kto był uznawany za obywatela Rzeszy. Prawo stało się mechanizmem dzielenia ludzi na „swoich” i wykluczonych.",
+          "tr": "Yasalardan biri kimin Reich vatandaşı sayılacağını belirliyordu. Hukuk, insanları içeridekiler ve dışlananlar olarak ayıran bir mekanizmaya dönüştü.",
+          "zh": "其中一项法律规定谁被视为帝国公民。法律变成了把人分为“内部者”和“外部者”的机制。",
+          "ja": "一つの法律は、誰がライヒ市民と見なされるかを定めました。法は人々を内側の者と排除される者に分ける仕組みとなりました。",
+          "ko": "한 법은 누가 라이히 시민으로 인정되는지를 정했습니다. 법은 사람들을 내부자와 배제된 사람으로 나누는 장치가 되었습니다.",
+          "hi": "एक कानून ने तय किया कि कौन राइख नागरिक माना जाएगा। कानून लोगों को “अपने” और “बाहर” वालों में बाँटने का तंत्र बन गया।",
+          "ar": "حدد أحد القوانين من يُعد مواطناً في الرايخ. وأصبح القانون آلية لتقسيم الناس إلى منتمين ومستبعدين."
         },
         "importance": {
           "ru": "Дата показывает, как бюрократический язык может обслуживать преступную политику.",
           "de": "Das Datum zeigt, wie buerokratische Sprache verbrecherischer Politik dienen kann.",
-          "en": "The date shows how bureaucratic language can serve criminal policy."
+          "en": "The date shows how bureaucratic language can serve criminal policy.",
+          "fr": "Cette date montre comment le langage bureaucratique peut servir une politique criminelle.",
+          "es": "La fecha muestra cómo el lenguaje burocrático puede servir a una política criminal.",
+          "it": "La data mostra come il linguaggio burocratico possa servire una politica criminale.",
+          "pt": "A data mostra como a linguagem burocrática pode servir a uma política criminosa.",
+          "nl": "De datum laat zien hoe bureaucratische taal crimineel beleid kan dienen.",
+          "pl": "Data pokazuje, jak język biurokratyczny może służyć zbrodniczej polityce.",
+          "tr": "Bu tarih, bürokratik dilin suç politikalarına nasıl hizmet edebileceğini gösterir.",
+          "zh": "这个日期说明官僚语言如何服务于犯罪政策。",
+          "ja": "この日は、官僚的な言葉が犯罪的政策に奉仕しうることを示しています。",
+          "ko": "이 날짜는 관료적 언어가 범죄적 정책에 어떻게 봉사할 수 있는지 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि नौकरशाही भाषा अपराधी नीति की सेवा कैसे कर सकती है।",
+          "ar": "يوضح هذا التاريخ كيف يمكن للغة البيروقراطية أن تخدم سياسة إجرامية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Законы были объявлены в Нюрнберге во время съезда нацистской партии.",
     "de": "Die Gesetze wurden in Nuernberg waehrend des Reichsparteitags verkuendet.",
-    "en": "The laws were announced in Nuremberg during the Nazi Party rally."
+    "en": "The laws were announced in Nuremberg during the Nazi Party rally.",
+    "fr": "Les lois furent annoncées à Nuremberg pendant le congrès du parti nazi.",
+    "es": "Las leyes fueron anunciadas en Núremberg durante el congreso del partido nazi.",
+    "it": "Le leggi furono annunciate a Norimberga durante il congresso del partito nazista.",
+    "pt": "As leis foram anunciadas em Nuremberg durante o congresso do Partido Nazista.",
+    "nl": "De wetten werden in Neurenberg aangekondigd tijdens de partijdag van de nazi's.",
+    "pl": "Ustawy ogłoszono w Norymberdze podczas zjazdu partii nazistowskiej.",
+    "tr": "Yasalar, Nazi Partisi kongresi sırasında Nürnberg'de ilan edildi.",
+    "zh": "这些法律是在纳粹党大会期间于纽伦堡宣布的。",
+    "ja": "これらの法律は、ナチ党大会中にニュルンベルクで発表されました。",
+    "ko": "이 법들은 나치당 전당대회 기간에 뉘른베르크에서 발표되었습니다.",
+    "hi": "ये कानून नाजी पार्टी के अधिवेशन के दौरान न्यूर्नबर्ग में घोषित किए गए थे।",
+    "ar": "أُعلنت القوانين في نورمبرغ أثناء مؤتمر الحزب النازي."
   },
   "sources": [
     {
