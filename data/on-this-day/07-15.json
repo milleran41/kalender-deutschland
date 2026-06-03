@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первые заключённые прибыли в Бухенвальд",
       "de": "Die ersten Haeftlinge kommen nach Buchenwald",
-      "en": "The first prisoners arrive at Buchenwald"
+      "en": "The first prisoners arrive at Buchenwald",
+      "fr": "Les premiers prisonniers arrivent à Buchenwald",
+      "es": "Los primeros prisioneros llegan a Buchenwald",
+      "it": "I primi prigionieri arrivano a Buchenwald",
+      "pt": "Os primeiros prisioneiros chegam a Buchenwald",
+      "nl": "De eerste gevangenen komen aan in Buchenwald",
+      "pl": "Pierwsi więźniowie przybywają do Buchenwaldu",
+      "tr": "İlk mahkumlar Buchenwald'a gelir",
+      "zh": "第一批囚犯抵达布痕瓦尔德",
+      "ja": "最初の囚人がブーヘンヴァルトに到着",
+      "ko": "첫 수감자들이 부헨발트에 도착하다",
+      "hi": "पहले कैदी बुख़ेनवाल्ड पहुंचे",
+      "ar": "وصول أول السجناء إلى بوخنفالد"
     },
     "description": {
       "ru": "15 июля 1937 года первые заключённые прибыли в концентрационный лагерь Бухенвальд возле Веймара. Лагерь стал одним из крупнейших концентрационных лагерей на территории нацистской Германии.",
       "de": "Am 15. Juli 1937 kamen die ersten Haeftlinge in das Konzentrationslager Buchenwald bei Weimar. Das Lager wurde eines der groessten Konzentrationslager auf dem Gebiet des nationalsozialistischen Deutschlands.",
-      "en": "On 15 July 1937, the first prisoners arrived at the Buchenwald concentration camp near Weimar. The camp became one of the largest concentration camps on the territory of Nazi Germany."
+      "en": "On 15 July 1937, the first prisoners arrived at the Buchenwald concentration camp near Weimar. The camp became one of the largest concentration camps on the territory of Nazi Germany.",
+      "fr": "Le 15 juillet 1937, les premiers prisonniers arrivèrent au camp de concentration de Buchenwald près de Weimar. Le camp devint l'un des plus grands camps de concentration sur le territoire de l'Allemagne nazie.",
+      "es": "El 15 de julio de 1937, los primeros prisioneros llegaron al campo de concentración de Buchenwald, cerca de Weimar. El campo se convirtió en uno de los mayores campos de concentración del territorio de la Alemania nazi.",
+      "it": "Il 15 luglio 1937 i primi prigionieri arrivarono nel campo di concentramento di Buchenwald, vicino a Weimar. Il campo divenne uno dei più grandi campi di concentramento sul territorio della Germania nazista.",
+      "pt": "Em 15 de julho de 1937, os primeiros prisioneiros chegaram ao campo de concentração de Buchenwald, perto de Weimar. O campo tornou-se um dos maiores campos de concentração no território da Alemanha nazista.",
+      "nl": "Op 15 juli 1937 kwamen de eerste gevangenen aan in het concentratiekamp Buchenwald bij Weimar. Het kamp werd een van de grootste concentratiekampen op het grondgebied van nazi-Duitsland.",
+      "pl": "15 lipca 1937 roku pierwsi więźniowie przybyli do obozu koncentracyjnego Buchenwald koło Weimaru. Obóz stał się jednym z największych obozów koncentracyjnych na terytorium nazistowskich Niemiec.",
+      "tr": "15 Temmuz 1937'de ilk mahkumlar Weimar yakınlarındaki Buchenwald toplama kampına ulaştı. Kamp, Nazi Almanyası topraklarındaki en büyük toplama kamplarından biri oldu.",
+      "zh": "1937年7月15日，第一批囚犯抵达魏玛附近的布痕瓦尔德集中营。该营成为纳粹德国境内最大的集中营之一。",
+      "ja": "1937年7月15日、最初の囚人たちがワイマール近郊のブーヘンヴァルト強制収容所に到着した。この収容所はナチス・ドイツ領内で最大級の強制収容所の一つとなった。",
+      "ko": "1937년 7월 15일, 첫 수감자들이 바이마르 근처의 부헨발트 강제수용소에 도착했다. 이 수용소는 나치 독일 영토에서 가장 큰 강제수용소 중 하나가 되었다.",
+      "hi": "15 जुलाई 1937 को पहले कैदी वाइमर के पास बुख़ेनवाल्ड एकाग्रता शिविर में पहुंचे। यह शिविर नाजी जर्मनी के क्षेत्र में सबसे बड़े एकाग्रता शिविरों में से एक बन गया।",
+      "ar": "في 15 يوليو 1937 وصل أول السجناء إلى معسكر اعتقال بوخنفالد قرب فايمار. وأصبح المعسكر أحد أكبر معسكرات الاعتقال على أراضي ألمانيا النازية."
     },
     "importance": {
       "ru": "Дата важна как напоминание о том, что террор нацистского режима разворачивался внутри самой Германии.",
       "de": "Das Datum ist wichtig als Erinnerung daran, dass der Terror des NS-Regimes im Inneren Deutschlands aufgebaut wurde.",
-      "en": "The date is important as a reminder that the terror of the Nazi regime was built inside Germany itself."
+      "en": "The date is important as a reminder that the terror of the Nazi regime was built inside Germany itself.",
+      "fr": "Cette date est importante car elle rappelle que la terreur du régime nazi fut construite à l'intérieur même de l'Allemagne.",
+      "es": "La fecha es importante porque recuerda que el terror del régimen nazi se construyó dentro de la propia Alemania.",
+      "it": "La data è importante perché ricorda che il terrore del regime nazista fu costruito all'interno della stessa Germania.",
+      "pt": "A data é importante como lembrança de que o terror do regime nazista foi construído dentro da própria Alemanha.",
+      "nl": "De datum is belangrijk als herinnering dat de terreur van het naziregime in Duitsland zelf werd opgebouwd.",
+      "pl": "Ta data jest ważnym przypomnieniem, że terror reżimu nazistowskiego rozwijał się w samych Niemczech.",
+      "tr": "Bu tarih, Nazi rejiminin terörünün Almanya'nın içinde kurulduğunu hatırlatması bakımından önemlidir.",
+      "zh": "这个日期提醒人们，纳粹政权的恐怖是在德国本土内部建立起来的。",
+      "ja": "この日は、ナチ体制の恐怖がドイツ内部で築かれたことを思い出させる重要な日である。",
+      "ko": "이 날짜는 나치 정권의 공포가 독일 내부에서 구축되었음을 상기시키는 중요한 날이다.",
+      "hi": "यह तारीख याद दिलाती है कि नाजी शासन का आतंक जर्मनी के भीतर ही बनाया गया था।",
+      "ar": "هذا التاريخ مهم لأنه يذكر بأن إرهاب النظام النازي بُني داخل ألمانيا نفسها."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Лагерь рядом с Веймаром",
           "de": "Ein Lager bei Weimar",
-          "en": "A camp near Weimar"
+          "en": "A camp near Weimar",
+          "fr": "Un camp près de Weimar",
+          "es": "Un campo cerca de Weimar",
+          "it": "Un campo vicino a Weimar",
+          "pt": "Um campo perto de Weimar",
+          "nl": "Een kamp bij Weimar",
+          "pl": "Obóz koło Weimaru",
+          "tr": "Weimar yakınında bir kamp",
+          "zh": "魏玛附近的营地",
+          "ja": "ワイマール近郊の収容所",
+          "ko": "바이마르 근처의 수용소",
+          "hi": "वाइमर के पास एक शिविर",
+          "ar": "معسكر قرب فايمار"
         },
         "description": {
           "ru": "Бухенвальд находился на Эттерсберге, недалеко от города, связанного с Гёте, Шиллером и немецкой классикой. Это соседство культуры и насилия стало особенно горьким символом немецкой истории.",
           "de": "Buchenwald lag auf dem Ettersberg, nahe einer Stadt, die mit Goethe, Schiller und der deutschen Klassik verbunden ist. Diese Nachbarschaft von Kultur und Gewalt wurde zu einem besonders bitteren Symbol deutscher Geschichte.",
-          "en": "Buchenwald stood on the Ettersberg, near a city associated with Goethe, Schiller and German classicism. This closeness of culture and violence became a particularly bitter symbol of German history."
+          "en": "Buchenwald stood on the Ettersberg, near a city associated with Goethe, Schiller and German classicism. This closeness of culture and violence became a particularly bitter symbol of German history.",
+          "fr": "Buchenwald se trouvait sur l'Ettersberg, près d'une ville associée à Goethe, Schiller et au classicisme allemand. Cette proximité entre culture et violence devint un symbole particulièrement amer de l'histoire allemande.",
+          "es": "Buchenwald estaba en el Ettersberg, cerca de una ciudad asociada con Goethe, Schiller y el clasicismo alemán. Esta cercanía entre cultura y violencia se convirtió en un símbolo especialmente amargo de la historia alemana.",
+          "it": "Buchenwald sorgeva sull'Ettersberg, vicino a una città associata a Goethe, Schiller e al classicismo tedesco. Questa vicinanza tra cultura e violenza divenne un simbolo particolarmente amaro della storia tedesca.",
+          "pt": "Buchenwald ficava no Ettersberg, perto de uma cidade associada a Goethe, Schiller e ao classicismo alemão. Essa proximidade entre cultura e violência tornou-se um símbolo especialmente amargo da história alemã.",
+          "nl": "Buchenwald lag op de Ettersberg, bij een stad die met Goethe, Schiller en het Duitse classicisme verbonden is. Deze nabijheid van cultuur en geweld werd een bijzonder bitter symbool van de Duitse geschiedenis.",
+          "pl": "Buchenwald znajdował się na Ettersbergu, niedaleko miasta kojarzonego z Goethem, Schillerem i niemieckim klasycyzmem. To sąsiedztwo kultury i przemocy stało się szczególnie gorzkim symbolem niemieckiej historii.",
+          "tr": "Buchenwald, Goethe, Schiller ve Alman klasisizmiyle ilişkilendirilen bir kentin yakınındaki Ettersberg'de bulunuyordu. Kültür ile şiddetin bu yakınlığı Alman tarihinin özellikle acı bir sembolü oldu.",
+          "zh": "布痕瓦尔德位于埃特斯山，靠近一座与歌德、席勒和德国古典主义相关的城市。文化与暴力如此相邻，成为德国历史中格外苦涩的象征。",
+          "ja": "ブーヘンヴァルトは、ゲーテ、シラー、ドイツ古典主義と結びつく都市の近く、エッタースベルクにあった。文化と暴力のこの近さは、ドイツ史のとりわけ苦い象徴となった。",
+          "ko": "부헨발트는 괴테, 실러, 독일 고전주의와 연결된 도시 근처의 에터스베르크에 있었다. 문화와 폭력의 이 가까움은 독일 역사에서 특히 쓰라린 상징이 되었다.",
+          "hi": "बुख़ेनवाल्ड एटर्सबर्ग पर था, उस शहर के पास जो गोएथे, शिलर और जर्मन क्लासिसिज़्म से जुड़ा है। संस्कृति और हिंसा की यह निकटता जर्मन इतिहास का विशेष रूप से कड़वा प्रतीक बन गई।",
+          "ar": "كان بوخنفالد يقع على إترسبيرغ، قرب مدينة مرتبطة بغوته وشيلر والكلاسيكية الألمانية. وأصبح هذا القرب بين الثقافة والعنف رمزا مريرا على نحو خاص في التاريخ الألماني."
         },
         "importance": {
           "ru": "Так видно, что высокая культура сама по себе не защищает общество от диктатуры и преступлений.",
           "de": "So wird sichtbar, dass hohe Kultur allein eine Gesellschaft nicht vor Diktatur und Verbrechen schuetzt.",
-          "en": "It shows that high culture alone does not protect a society from dictatorship and crimes."
+          "en": "It shows that high culture alone does not protect a society from dictatorship and crimes.",
+          "fr": "Cela montre que la haute culture ne protège pas à elle seule une société de la dictature et des crimes.",
+          "es": "Muestra que la alta cultura por sí sola no protege a una sociedad de la dictadura y los crímenes.",
+          "it": "Mostra che l'alta cultura da sola non protegge una società dalla dittatura e dai crimini.",
+          "pt": "Mostra que a alta cultura sozinha não protege uma sociedade da ditadura e dos crimes.",
+          "nl": "Het laat zien dat hoge cultuur alleen een samenleving niet beschermt tegen dictatuur en misdaden.",
+          "pl": "Pokazuje to, że wysoka kultura sama nie chroni społeczeństwa przed dyktaturą i zbrodniami.",
+          "tr": "Bu, yüksek kültürün tek başına bir toplumu diktatörlükten ve suçlardan korumadığını gösterir.",
+          "zh": "这说明高级文化本身并不能保护社会免受独裁和罪行侵害。",
+          "ja": "高度な文化だけでは社会を独裁や犯罪から守れないことを示している。",
+          "ko": "이는 고급 문화만으로는 사회를 독재와 범죄로부터 보호할 수 없음을 보여 준다.",
+          "hi": "यह दिखाता है कि उच्च संस्कृति अकेले समाज को तानाशाही और अपराधों से नहीं बचाती।",
+          "ar": "يوضح ذلك أن الثقافة الرفيعة وحدها لا تحمي المجتمع من الدكتاتورية والجرائم."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Заключённые разных групп",
           "de": "Haeftlinge aus vielen Gruppen",
-          "en": "Prisoners from many groups"
+          "en": "Prisoners from many groups",
+          "fr": "Des prisonniers de nombreux groupes",
+          "es": "Prisioneros de muchos grupos",
+          "it": "Prigionieri di molti gruppi",
+          "pt": "Prisioneiros de muitos grupos",
+          "nl": "Gevangenen uit veel groepen",
+          "pl": "Więźniowie z wielu grup",
+          "tr": "Birçok gruptan mahkumlar",
+          "zh": "来自许多群体的囚犯",
+          "ja": "さまざまな集団の囚人",
+          "ko": "여러 집단 출신 수감자들",
+          "hi": "कई समूहों के कैदी",
+          "ar": "سجناء من جماعات كثيرة"
         },
         "description": {
           "ru": "В Бухенвальд отправляли политических противников, евреев, синти и рома, свидетелей Иеговы, людей, которых нацисты называли «асоциальными», и многих других. За сухими категориями стояли реальные семьи и судьбы.",
           "de": "Nach Buchenwald wurden politische Gegner, Juden, Sinti und Roma, Zeugen Jehovas, von den Nationalsozialisten als asozial verfolgte Menschen und viele andere verschleppt. Hinter den Kategorien standen echte Familien und Lebenswege.",
-          "en": "Political opponents, Jews, Sinti and Roma, Jehovah's Witnesses, people persecuted by the Nazis as asocial, and many others were sent to Buchenwald. Behind the categories stood real families and lives."
+          "en": "Political opponents, Jews, Sinti and Roma, Jehovah's Witnesses, people persecuted by the Nazis as asocial, and many others were sent to Buchenwald. Behind the categories stood real families and lives.",
+          "fr": "Des opposants politiques, des Juifs, des Sinti et des Roms, des Témoins de Jéhovah, des personnes persécutées par les nazis comme « asociales » et beaucoup d'autres furent envoyés à Buchenwald. Derrière les catégories se trouvaient de vraies familles et de vraies vies.",
+          "es": "A Buchenwald fueron enviados opositores políticos, judíos, sinti y romaníes, testigos de Jehová, personas perseguidas por los nazis como «asociales» y muchas otras. Detrás de las categorías había familias y vidas reales.",
+          "it": "A Buchenwald furono mandati oppositori politici, ebrei, sinti e rom, testimoni di Geova, persone perseguitate dai nazisti come «asociali» e molti altri. Dietro le categorie c'erano famiglie e vite reali.",
+          "pt": "Foram enviados a Buchenwald opositores políticos, judeus, sinti e roma, Testemunhas de Jeová, pessoas perseguidas pelos nazistas como «associais» e muitos outros. Por trás das categorias havia famílias e vidas reais.",
+          "nl": "Politieke tegenstanders, Joden, Sinti en Roma, Jehovah's Getuigen, mensen die door de nazi's als asociaal werden vervolgd en vele anderen werden naar Buchenwald gestuurd. Achter de categorieën stonden echte families en levens.",
+          "pl": "Do Buchenwaldu wysyłano przeciwników politycznych, Żydów, Sinti i Romów, Świadków Jehowy, osoby prześladowane przez nazistów jako „aspołeczne” i wielu innych. Za kategoriami stały prawdziwe rodziny i losy.",
+          "tr": "Siyasi muhalifler, Yahudiler, Sinti ve Romanlar, Yehova'nın Şahitleri, Naziler tarafından 'asosyal' diye takip edilen insanlar ve daha birçok kişi Buchenwald'a gönderildi. Kategorilerin arkasında gerçek aileler ve hayatlar vardı.",
+          "zh": "政治反对者、犹太人、辛提人与罗姆人、耶和华见证人、被纳粹称为“反社会者”的人以及许多其他人被送往布痕瓦尔德。那些类别背后是真实的家庭和人生。",
+          "ja": "政治的反対者、ユダヤ人、シンティとロマ、エホバの証人、ナチに「反社会的」として迫害された人々、その他多くの人々がブーヘンヴァルトに送られた。分類の背後には実際の家族と人生があった。",
+          "ko": "정치적 반대자, 유대인, 신티와 로마, 여호와의 증인, 나치가 '반사회적'이라고 박해한 사람들, 그리고 많은 이들이 부헨발트로 보내졌다. 그 범주 뒤에는 실제 가족과 삶이 있었다.",
+          "hi": "राजनीतिक विरोधियों, यहूदियों, सिंती और रोमा, यहोवा के साक्षियों, नाजियों द्वारा 'असामाजिक' कहकर सताए गए लोगों और अनेक अन्य लोगों को बुख़ेनवाल्ड भेजा गया। इन श्रेणियों के पीछे वास्तविक परिवार और जीवन थे।",
+          "ar": "أُرسل إلى بوخنفالد معارضون سياسيون ويهود وسينتي وروما وشهود يهوه وأشخاص اضطهدهم النازيون بوصفهم «لا اجتماعيين» وكثيرون غيرهم. وخلف هذه الفئات كانت هناك عائلات وحيوات حقيقية."
         },
         "importance": {
           "ru": "Это помогает говорить о памяти не абстрактно, а через людей.",
           "de": "Das hilft, Erinnerung nicht abstrakt, sondern ueber Menschen zu verstehen.",
-          "en": "It helps make remembrance about people rather than abstractions."
+          "en": "It helps make remembrance about people rather than abstractions.",
+          "fr": "Cela aide à comprendre la mémoire à travers les personnes plutôt qu'à travers des abstractions.",
+          "es": "Ayuda a entender la memoria a través de personas, no de abstracciones.",
+          "it": "Aiuta a capire la memoria attraverso le persone, non attraverso astrazioni.",
+          "pt": "Isso ajuda a entender a memória por meio das pessoas, não de abstrações.",
+          "nl": "Het helpt herinnering te begrijpen via mensen en niet via abstracties.",
+          "pl": "Pomaga to mówić o pamięci przez ludzi, a nie przez abstrakcje.",
+          "tr": "Bu, anmayı soyut kavramlar yerine insanlar üzerinden anlamaya yardımcı olur.",
+          "zh": "这有助于让纪念不再抽象，而是通过人来理解。",
+          "ja": "記憶を抽象ではなく人々を通して理解する助けになる。",
+          "ko": "이는 기억을 추상이 아니라 사람들을 통해 이해하게 해 준다.",
+          "hi": "यह स्मृति को अमूर्त बातों के बजाय लोगों के माध्यम से समझने में मदद करता है।",
+          "ar": "يساعد ذلك على فهم الذاكرة عبر الناس لا عبر التجريدات."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Название с мирным звучанием",
           "de": "Ein Name mit friedlichem Klang",
-          "en": "A name with a peaceful sound"
+          "en": "A name with a peaceful sound",
+          "fr": "Un nom au son paisible",
+          "es": "Un nombre de sonido pacífico",
+          "it": "Un nome dal suono pacifico",
+          "pt": "Um nome com som pacífico",
+          "nl": "Een naam met een vreedzame klank",
+          "pl": "Nazwa o spokojnym brzmieniu",
+          "tr": "Barışçıl tınısı olan bir ad",
+          "zh": "听起来平静的名字",
+          "ja": "穏やかに響く名前",
+          "ko": "평화롭게 들리는 이름",
+          "hi": "शांत लगने वाला नाम",
+          "ar": "اسم ذو وقع هادئ"
         },
         "description": {
           "ru": "Слово Buchenwald буквально означает «буковый лес». Контраст между спокойным названием и реальностью лагеря делает это место особенно страшным в памяти.",
           "de": "Das Wort Buchenwald bedeutet woertlich Buchenwald. Der Gegensatz zwischen dem ruhigen Namen und der Wirklichkeit des Lagers macht diesen Ort in der Erinnerung besonders erschuetternd.",
-          "en": "The word Buchenwald literally means beech forest. The contrast between the peaceful name and the reality of the camp makes the place especially disturbing in memory."
+          "en": "The word Buchenwald literally means beech forest. The contrast between the peaceful name and the reality of the camp makes the place especially disturbing in memory.",
+          "fr": "Le mot Buchenwald signifie littéralement forêt de hêtres. Le contraste entre ce nom paisible et la réalité du camp rend ce lieu particulièrement bouleversant dans la mémoire.",
+          "es": "La palabra Buchenwald significa literalmente bosque de hayas. El contraste entre el nombre pacífico y la realidad del campo hace que el lugar sea especialmente inquietante en la memoria.",
+          "it": "La parola Buchenwald significa letteralmente bosco di faggi. Il contrasto tra il nome pacifico e la realtà del campo rende il luogo particolarmente sconvolgente nella memoria.",
+          "pt": "A palavra Buchenwald significa literalmente floresta de faias. O contraste entre o nome pacífico e a realidade do campo torna o lugar especialmente perturbador na memória.",
+          "nl": "Het woord Buchenwald betekent letterlijk beukenbos. Het contrast tussen de vredige naam en de werkelijkheid van het kamp maakt de plek in de herinnering bijzonder schokkend.",
+          "pl": "Słowo Buchenwald dosłownie znaczy bukowy las. Kontrast między spokojną nazwą a rzeczywistością obozu czyni to miejsce szczególnie wstrząsającym w pamięci.",
+          "tr": "Buchenwald sözcüğü kelimenin tam anlamıyla kayın ormanı demektir. Huzurlu ad ile kampın gerçeği arasındaki karşıtlık, bu yeri hafızada özellikle sarsıcı kılar.",
+          "zh": "Buchenwald这个词字面意思是“山毛榉林”。平静的名称与集中营现实之间的反差，使这个地点在记忆中格外令人不安。",
+          "ja": "Buchenwaldという言葉は直訳すれば「ブナの森」を意味する。穏やかな名前と収容所の現実との対照が、この場所を記憶の中で特に衝撃的なものにしている。",
+          "ko": "Buchenwald라는 말은 문자 그대로 너도밤나무 숲을 뜻한다. 평화로운 이름과 수용소의 현실 사이의 대비가 이 장소를 기억 속에서 특히 충격적으로 만든다.",
+          "hi": "Buchenwald शब्द का शाब्दिक अर्थ है 'बीच वृक्षों का जंगल'। शांत नाम और शिविर की वास्तविकता के बीच का विरोध इस स्थान को स्मृति में विशेष रूप से विचलित कर देता है।",
+          "ar": "تعني كلمة Buchenwald حرفيا غابة الزان. والتباين بين الاسم الهادئ وواقع المعسكر يجعل المكان مقلقا على نحو خاص في الذاكرة."
         },
         "importance": {
           "ru": "Иногда само название места показывает, как обычный язык может скрывать ужас.",
           "de": "Manchmal zeigt schon ein Ortsname, wie gewoehnliche Sprache Schrecken verdecken kann.",
-          "en": "Sometimes a place name itself shows how ordinary language can hide horror."
+          "en": "Sometimes a place name itself shows how ordinary language can hide horror.",
+          "fr": "Parfois, le nom même d'un lieu montre comment le langage ordinaire peut cacher l'horreur.",
+          "es": "A veces el propio nombre de un lugar muestra cómo el lenguaje común puede ocultar el horror.",
+          "it": "A volte il nome stesso di un luogo mostra come il linguaggio ordinario possa nascondere l'orrore.",
+          "pt": "Às vezes o próprio nome de um lugar mostra como a linguagem comum pode esconder o horror.",
+          "nl": "Soms laat een plaatsnaam zelf zien hoe gewone taal verschrikking kan verbergen.",
+          "pl": "Czasem sama nazwa miejsca pokazuje, jak zwykły język może ukrywać grozę.",
+          "tr": "Bazen bir yer adı bile sıradan dilin dehşeti nasıl gizleyebildiğini gösterir.",
+          "zh": "有时，地名本身就显示出普通语言如何掩盖恐怖。",
+          "ja": "時には地名そのものが、普通の言葉が恐怖を隠しうることを示している。",
+          "ko": "때로는 지명 자체가 평범한 언어가 공포를 어떻게 숨길 수 있는지 보여 준다.",
+          "hi": "कभी-कभी किसी स्थान का नाम ही दिखाता है कि साधारण भाषा भयावहता को कैसे छिपा सकती है।",
+          "ar": "أحيانا يبين اسم المكان نفسه كيف يمكن للغة العادية أن تخفي الرعب."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Мемориал Бухенвальд сегодня находится недалеко от Веймара в земле Тюрингия.",
     "de": "Die Gedenkstaette Buchenwald liegt heute nahe Weimar in Thueringen.",
-    "en": "The Buchenwald Memorial is today located near Weimar in Thuringia."
+    "en": "The Buchenwald Memorial is today located near Weimar in Thuringia.",
+    "fr": "Le mémorial de Buchenwald se trouve aujourd'hui près de Weimar, en Thuringe.",
+    "es": "El Memorial de Buchenwald se encuentra hoy cerca de Weimar, en Turingia.",
+    "it": "Il memoriale di Buchenwald si trova oggi vicino a Weimar, in Turingia.",
+    "pt": "O Memorial de Buchenwald fica hoje perto de Weimar, na Turíngia.",
+    "nl": "Het Buchenwaldmonument ligt tegenwoordig bij Weimar in Thüringen.",
+    "pl": "Miejsce pamięci Buchenwald znajduje się dziś niedaleko Weimaru w Turyngii.",
+    "tr": "Buchenwald Anıtı bugün Thüringen'de, Weimar yakınında bulunur.",
+    "zh": "布痕瓦尔德纪念馆今天位于图林根州魏玛附近。",
+    "ja": "ブーヘンヴァルト記念館は現在、テューリンゲン州のワイマール近郊にある。",
+    "ko": "부헨발트 기념관은 오늘날 튀링겐의 바이마르 근처에 있다.",
+    "hi": "बुख़ेनवाल्ड स्मारक आज थ्यूरिंगिया में वाइमर के पास स्थित है।",
+    "ar": "يقع نصب بوخنفالد التذكاري اليوم قرب فايمار في تورينغن."
   },
   "sources": [
     {

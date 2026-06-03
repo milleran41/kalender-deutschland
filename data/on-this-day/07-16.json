@@ -11,17 +11,53 @@
     "title": {
       "ru": "Испытание Trinity открыло атомную эпоху",
       "de": "Der Trinity-Test eroeffnet das Atomzeitalter",
-      "en": "The Trinity test opens the atomic age"
+      "en": "The Trinity test opens the atomic age",
+      "fr": "L'essai Trinity ouvre l'âge atomique",
+      "es": "La prueba Trinity abre la era atómica",
+      "it": "Il test Trinity apre l'era atomica",
+      "pt": "O teste Trinity abre a era atômica",
+      "nl": "De Trinity-test opent het atoomtijdperk",
+      "pl": "Test Trinity otwiera epokę atomową",
+      "tr": "Trinity testi atom çağını başlatır",
+      "zh": "三位一体试验开启原子时代",
+      "ja": "トリニティ実験が原子力時代を開く",
+      "ko": "트리니티 실험이 원자 시대를 열다",
+      "hi": "Trinity परीक्षण ने परमाणु युग शुरू किया",
+      "ar": "اختبار ترينيتي يفتح العصر الذري"
     },
     "description": {
       "ru": "16 июля 1945 года в Нью-Мексико США провели первое в истории испытание ядерного оружия. Для немецкой истории дата важна через предысторию ядерной физики: деление ядра было открыто Отто Ганом и Фрицем Штрассманом в Берлине.",
       "de": "Am 16. Juli 1945 fuehrten die USA in New Mexico den ersten Test einer Atomwaffe durch. Fuer die deutsche Geschichte ist das Datum durch die Vorgeschichte der Kernphysik wichtig: Die Kernspaltung wurde von Otto Hahn und Fritz Strassmann in Berlin entdeckt.",
-      "en": "On 16 July 1945, the United States conducted the first test of a nuclear weapon in New Mexico. For German history, the date matters through the prehistory of nuclear physics: nuclear fission was discovered by Otto Hahn and Fritz Strassmann in Berlin."
+      "en": "On 16 July 1945, the United States conducted the first test of a nuclear weapon in New Mexico. For German history, the date matters through the prehistory of nuclear physics: nuclear fission was discovered by Otto Hahn and Fritz Strassmann in Berlin.",
+      "fr": "Le 16 juillet 1945, les États-Unis réalisèrent au Nouveau-Mexique le premier essai d'une arme nucléaire. Pour l'histoire allemande, cette date compte par la préhistoire de la physique nucléaire: la fission nucléaire fut découverte à Berlin par Otto Hahn et Fritz Strassmann.",
+      "es": "El 16 de julio de 1945, Estados Unidos realizó en Nuevo México la primera prueba de un arma nuclear. Para la historia alemana, la fecha importa por la prehistoria de la física nuclear: la fisión nuclear fue descubierta por Otto Hahn y Fritz Strassmann en Berlín.",
+      "it": "Il 16 luglio 1945 gli Stati Uniti condussero nel Nuovo Messico il primo test di un'arma nucleare. Per la storia tedesca, la data è importante attraverso la preistoria della fisica nucleare: la fissione nucleare fu scoperta da Otto Hahn e Fritz Strassmann a Berlino.",
+      "pt": "Em 16 de julho de 1945, os Estados Unidos realizaram no Novo México o primeiro teste de uma arma nuclear. Para a história alemã, a data importa pela pré-história da física nuclear: a fissão nuclear foi descoberta por Otto Hahn e Fritz Strassmann em Berlim.",
+      "nl": "Op 16 juli 1945 voerden de Verenigde Staten in New Mexico de eerste test van een kernwapen uit. Voor de Duitse geschiedenis is de datum belangrijk via de voorgeschiedenis van de kernfysica: kernsplijting werd in Berlijn ontdekt door Otto Hahn en Fritz Strassmann.",
+      "pl": "16 lipca 1945 roku Stany Zjednoczone przeprowadziły w Nowym Meksyku pierwszy test broni jądrowej. Dla historii Niemiec data ta jest ważna przez prehistorię fizyki jądrowej: rozszczepienie jądra odkryli w Berlinie Otto Hahn i Fritz Strassmann.",
+      "tr": "16 Temmuz 1945'te Amerika Birleşik Devletleri New Mexico'da tarihteki ilk nükleer silah denemesini yaptı. Alman tarihi için bu tarih nükleer fiziğin ön tarihiyle önemlidir: nükleer fisyon Berlin'de Otto Hahn ve Fritz Strassmann tarafından keşfedildi.",
+      "zh": "1945年7月16日，美国在新墨西哥进行了历史上第一次核武器试验。对德国历史来说，这个日期通过核物理的前史而重要：核裂变是在柏林由奥托·哈恩和弗里茨·施特拉斯曼发现的。",
+      "ja": "1945年7月16日、アメリカ合衆国はニューメキシコで史上初の核兵器実験を行った。ドイツ史にとってこの日は、核物理学の前史を通じて重要である。核分裂はベルリンでオットー・ハーンとフリッツ・シュトラスマンによって発見された。",
+      "ko": "1945년 7월 16일, 미국은 뉴멕시코에서 역사상 첫 핵무기 실험을 실시했다. 독일 역사에서 이 날짜는 핵물리학의 전사와 관련해 중요하다. 핵분열은 베를린에서 오토 한과 프리츠 슈트라스만이 발견했다.",
+      "hi": "16 जुलाई 1945 को संयुक्त राज्य अमेरिका ने न्यू मेक्सिको में इतिहास का पहला परमाणु हथियार परीक्षण किया। जर्मन इतिहास के लिए यह तारीख परमाणु भौतिकी की पूर्वकथा से जुड़ी है: परमाणु विखंडन की खोज बर्लिन में ओटो हान और फ्रिट्ज़ श्ट्रासमान ने की थी।",
+      "ar": "في 16 يوليو 1945 أجرت الولايات المتحدة في نيومكسيكو أول اختبار لسلاح نووي في التاريخ. وبالنسبة إلى التاريخ الألماني يهم هذا التاريخ من خلال ما سبق الفيزياء النووية: فقد اكتشف أوتو هان وفريتس شتراسمان الانشطار النووي في برلين."
     },
     "importance": {
       "ru": "Дата связывает немецкую науку, эмиграцию учёных, Вторую мировую войну и начало ядерного века.",
       "de": "Das Datum verbindet deutsche Wissenschaft, die Emigration von Forschern, den Zweiten Weltkrieg und den Beginn des Atomzeitalters.",
-      "en": "The date connects German science, the emigration of scholars, the Second World War and the beginning of the nuclear age."
+      "en": "The date connects German science, the emigration of scholars, the Second World War and the beginning of the nuclear age.",
+      "fr": "Cette date relie la science allemande, l'émigration des chercheurs, la Seconde Guerre mondiale et le début de l'âge nucléaire.",
+      "es": "La fecha conecta la ciencia alemana, la emigración de científicos, la Segunda Guerra Mundial y el comienzo de la era nuclear.",
+      "it": "La data collega la scienza tedesca, l'emigrazione degli studiosi, la Seconda guerra mondiale e l'inizio dell'era nucleare.",
+      "pt": "A data conecta a ciência alemã, a emigração de pesquisadores, a Segunda Guerra Mundial e o início da era nuclear.",
+      "nl": "De datum verbindt Duitse wetenschap, de emigratie van onderzoekers, de Tweede Wereldoorlog en het begin van het atoomtijdperk.",
+      "pl": "Ta data łączy niemiecką naukę, emigrację uczonych, II wojnę światową i początek epoki nuklearnej.",
+      "tr": "Bu tarih Alman bilimini, bilim insanlarının göçünü, İkinci Dünya Savaşı'nı ve nükleer çağın başlangıcını birbirine bağlar.",
+      "zh": "这个日期把德国科学、学者流亡、第二次世界大战和核时代的开始联系起来。",
+      "ja": "この日は、ドイツの科学、研究者の亡命、第二次世界大戦、核時代の始まりを結びつけている。",
+      "ko": "이 날짜는 독일 과학, 학자들의 망명, 제2차 세계대전, 핵 시대의 시작을 연결한다.",
+      "hi": "यह तारीख जर्मन विज्ञान, वैज्ञानिकों के प्रवासन, द्वितीय विश्व युद्ध और परमाणु युग की शुरुआत को जोड़ती है।",
+      "ar": "يربط هذا التاريخ بين العلم الألماني وهجرة العلماء والحرب العالمية الثانية وبداية العصر النووي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "От Берлина к Манхэттенскому проекту",
           "de": "Von Berlin zum Manhattan-Projekt",
-          "en": "From Berlin to the Manhattan Project"
+          "en": "From Berlin to the Manhattan Project",
+          "fr": "De Berlin au projet Manhattan",
+          "es": "De Berlín al Proyecto Manhattan",
+          "it": "Da Berlino al Progetto Manhattan",
+          "pt": "De Berlim ao Projeto Manhattan",
+          "nl": "Van Berlijn naar het Manhattanproject",
+          "pl": "Od Berlina do Projektu Manhattan",
+          "tr": "Berlin'den Manhattan Projesi'ne",
+          "zh": "从柏林到曼哈顿计划",
+          "ja": "ベルリンからマンハッタン計画へ",
+          "ko": "베를린에서 맨해튼 프로젝트로",
+          "hi": "बर्लिन से मैनहैटन परियोजना तक",
+          "ar": "من برلين إلى مشروع مانهاتن"
         },
         "description": {
           "ru": "Открытие деления ядра в 1938 году быстро стало частью мировой научной и военной гонки. Многие учёные, изгнанные из Европы нацизмом, внесли вклад в исследования союзников.",
           "de": "Die Entdeckung der Kernspaltung 1938 wurde rasch Teil eines weltweiten wissenschaftlichen und militaerischen Wettlaufs. Viele durch den Nationalsozialismus aus Europa vertriebene Wissenschaftler trugen zur Forschung der Alliierten bei.",
-          "en": "The discovery of nuclear fission in 1938 quickly became part of a global scientific and military race. Many scientists driven out of Europe by Nazism contributed to Allied research."
+          "en": "The discovery of nuclear fission in 1938 quickly became part of a global scientific and military race. Many scientists driven out of Europe by Nazism contributed to Allied research.",
+          "fr": "La découverte de la fission nucléaire en 1938 devint rapidement une partie d'une course scientifique et militaire mondiale. De nombreux scientifiques chassés d'Europe par le nazisme contribuèrent aux recherches alliées.",
+          "es": "El descubrimiento de la fisión nuclear en 1938 se convirtió rápidamente en parte de una carrera científica y militar mundial. Muchos científicos expulsados de Europa por el nazismo contribuyeron a la investigación aliada.",
+          "it": "La scoperta della fissione nucleare nel 1938 divenne rapidamente parte di una corsa scientifica e militare mondiale. Molti scienziati cacciati dall'Europa dal nazismo contribuirono alla ricerca alleata.",
+          "pt": "A descoberta da fissão nuclear em 1938 tornou-se rapidamente parte de uma corrida científica e militar global. Muitos cientistas expulsos da Europa pelo nazismo contribuíram para a pesquisa dos Aliados.",
+          "nl": "De ontdekking van kernsplijting in 1938 werd snel onderdeel van een wereldwijde wetenschappelijke en militaire wedloop. Veel wetenschappers die door het nazisme uit Europa waren verdreven, droegen bij aan geallieerd onderzoek.",
+          "pl": "Odkrycie rozszczepienia jądra w 1938 roku szybko stało się częścią światowego wyścigu naukowego i wojskowego. Wielu naukowców wypędzonych z Europy przez nazizm wniosło wkład w badania aliantów.",
+          "tr": "1938'de nükleer fisyonun keşfi hızla küresel bir bilimsel ve askeri yarışın parçası oldu. Nazizm tarafından Avrupa'dan sürülen birçok bilim insanı Müttefik araştırmalarına katkıda bulundu.",
+          "zh": "1938年核裂变的发现很快成为全球科学和军事竞赛的一部分。许多被纳粹主义逐出欧洲的科学家为盟国研究作出了贡献。",
+          "ja": "1938年の核分裂の発見は、すぐに世界的な科学・軍事競争の一部となった。ナチズムによってヨーロッパを追われた多くの科学者が、連合国の研究に貢献した。",
+          "ko": "1938년 핵분열의 발견은 빠르게 세계적인 과학 및 군사 경쟁의 일부가 되었다. 나치즘에 의해 유럽에서 쫓겨난 많은 과학자들이 연합국 연구에 기여했다.",
+          "hi": "1938 में परमाणु विखंडन की खोज जल्दी ही वैश्विक वैज्ञानिक और सैन्य दौड़ का हिस्सा बन गई। नाजीवाद के कारण यूरोप से निकाले गए कई वैज्ञानिकों ने मित्र राष्ट्रों के शोध में योगदान दिया।",
+          "ar": "سرعان ما أصبح اكتشاف الانشطار النووي عام 1938 جزءا من سباق علمي وعسكري عالمي. وأسهم كثير من العلماء الذين طردهم النازيون من أوروبا في أبحاث الحلفاء."
         },
         "importance": {
           "ru": "Так видно, как политическое насилие может изменить карту науки.",
           "de": "So wird sichtbar, wie politische Gewalt die Karte der Wissenschaft veraendern kann.",
-          "en": "It shows how political violence can change the map of science."
+          "en": "It shows how political violence can change the map of science.",
+          "fr": "Cela montre comment la violence politique peut changer la carte de la science.",
+          "es": "Muestra cómo la violencia política puede cambiar el mapa de la ciencia.",
+          "it": "Mostra come la violenza politica possa cambiare la mappa della scienza.",
+          "pt": "Mostra como a violência política pode mudar o mapa da ciência.",
+          "nl": "Het laat zien hoe politiek geweld de kaart van de wetenschap kan veranderen.",
+          "pl": "Pokazuje to, jak przemoc polityczna może zmienić mapę nauki.",
+          "tr": "Bu, siyasi şiddetin bilim haritasını nasıl değiştirebileceğini gösterir.",
+          "zh": "这说明政治暴力如何改变科学版图。",
+          "ja": "政治的暴力が科学の地図を変えうることを示している。",
+          "ko": "이는 정치적 폭력이 과학의 지도를 어떻게 바꿀 수 있는지 보여 준다.",
+          "hi": "यह दिखाता है कि राजनीतिक हिंसा विज्ञान के मानचित्र को कैसे बदल सकती है।",
+          "ar": "يوضح ذلك كيف يمكن للعنف السياسي أن يغير خريطة العلم."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Уран и немецкая химия",
           "de": "Uran und deutsche Chemie",
-          "en": "Uranium and German chemistry"
+          "en": "Uranium and German chemistry",
+          "fr": "L'uranium et la chimie allemande",
+          "es": "El uranio y la química alemana",
+          "it": "L'uranio e la chimica tedesca",
+          "pt": "Urânio e química alemã",
+          "nl": "Uranium en Duitse chemie",
+          "pl": "Uran i niemiecka chemia",
+          "tr": "Uranyum ve Alman kimyası",
+          "zh": "铀与德国化学",
+          "ja": "ウランとドイツ化学",
+          "ko": "우라늄과 독일 화학",
+          "hi": "यूरेनियम और जर्मन रसायन विज्ञान",
+          "ar": "اليورانيوم والكيمياء الألمانية"
         },
         "description": {
           "ru": "Элемент уран был открыт немецким химиком Мартином Клапротом ещё в XVIII веке. Спустя полтора столетия исследования атомного ядра привели к технологиям с огромной разрушительной силой.",
           "de": "Das Element Uran wurde bereits im 18. Jahrhundert vom deutschen Chemiker Martin Klaproth entdeckt. Eineinhalb Jahrhunderte spaeter fuehrte die Forschung am Atomkern zu Technologien mit ungeheurer Zerstoerungskraft.",
-          "en": "The element uranium was discovered by German chemist Martin Klaproth in the eighteenth century. A century and a half later, research into the atomic nucleus led to technologies of enormous destructive power."
+          "en": "The element uranium was discovered by German chemist Martin Klaproth in the eighteenth century. A century and a half later, research into the atomic nucleus led to technologies of enormous destructive power.",
+          "fr": "L'élément uranium fut découvert par le chimiste allemand Martin Klaproth au XVIIIe siècle. Un siècle et demi plus tard, les recherches sur le noyau atomique menèrent à des technologies d'une énorme puissance destructrice.",
+          "es": "El elemento uranio fue descubierto por el químico alemán Martin Klaproth en el siglo XVIII. Un siglo y medio después, la investigación del núcleo atómico llevó a tecnologías de enorme poder destructivo.",
+          "it": "L'elemento uranio fu scoperto dal chimico tedesco Martin Klaproth nel XVIII secolo. Un secolo e mezzo dopo, la ricerca sul nucleo atomico portò a tecnologie di enorme potenza distruttiva.",
+          "pt": "O elemento urânio foi descoberto pelo químico alemão Martin Klaproth no século XVIII. Um século e meio depois, a pesquisa sobre o núcleo atômico levou a tecnologias de enorme poder destrutivo.",
+          "nl": "Het element uranium werd in de achttiende eeuw ontdekt door de Duitse chemicus Martin Klaproth. Anderhalve eeuw later leidde onderzoek naar de atoomkern tot technologieën met enorme vernietigingskracht.",
+          "pl": "Pierwiastek uran został odkryty przez niemieckiego chemika Martina Klaprotha w XVIII wieku. Półtora wieku później badania jądra atomowego doprowadziły do technologii o ogromnej sile niszczenia.",
+          "tr": "Uranyum elementi 18. yüzyılda Alman kimyager Martin Klaproth tarafından keşfedildi. Bir buçuk yüzyıl sonra atom çekirdeği üzerine araştırmalar çok büyük yıkıcı güce sahip teknolojilere yol açtı.",
+          "zh": "铀元素由德国化学家马丁·克拉普罗特于18世纪发现。一个半世纪后，对原子核的研究导致了具有巨大破坏力的技术。",
+          "ja": "元素ウランは18世紀にドイツの化学者マルティン・クラプロートによって発見された。1世紀半後、原子核の研究は巨大な破壊力を持つ技術へとつながった。",
+          "ko": "우라늄 원소는 18세기에 독일 화학자 마르틴 클라프로트가 발견했다. 한 세기 반 뒤 원자핵 연구는 엄청난 파괴력을 지닌 기술로 이어졌다.",
+          "hi": "यूरेनियम तत्व की खोज अठारहवीं सदी में जर्मन रसायनशास्त्री मार्टिन क्लाप्रोथ ने की थी। डेढ़ सदी बाद परमाणु नाभिक पर शोध अत्यंत विनाशकारी शक्ति वाली तकनीकों तक पहुंचा।",
+          "ar": "اكتشف الكيميائي الألماني مارتن كلابروت عنصر اليورانيوم في القرن الثامن عشر. وبعد قرن ونصف قاد البحث في نواة الذرة إلى تقنيات ذات قوة تدميرية هائلة."
         },
         "importance": {
           "ru": "Это напоминает, что научное открытие может иметь последствия, которых его первооткрыватель не мог представить.",
           "de": "Das erinnert daran, dass eine wissenschaftliche Entdeckung Folgen haben kann, die ihr Entdecker nicht ahnen konnte.",
-          "en": "It is a reminder that a scientific discovery can have consequences its discoverer could not have imagined."
+          "en": "It is a reminder that a scientific discovery can have consequences its discoverer could not have imagined.",
+          "fr": "Cela rappelle qu'une découverte scientifique peut avoir des conséquences que son découvreur ne pouvait pas imaginer.",
+          "es": "Recuerda que un descubrimiento científico puede tener consecuencias que su descubridor no podía imaginar.",
+          "it": "Ricorda che una scoperta scientifica può avere conseguenze che il suo scopritore non poteva immaginare.",
+          "pt": "Isso lembra que uma descoberta científica pode ter consequências que seu descobridor não poderia imaginar.",
+          "nl": "Het herinnert eraan dat een wetenschappelijke ontdekking gevolgen kan hebben die de ontdekker niet kon vermoeden.",
+          "pl": "Przypomina to, że odkrycie naukowe może mieć skutki, których odkrywca nie mógł sobie wyobrazić.",
+          "tr": "Bu, bilimsel bir keşfin keşfeden kişinin hayal bile edemeyeceği sonuçlar doğurabileceğini hatırlatır.",
+          "zh": "这提醒我们，科学发现可能产生发现者无法想象的后果。",
+          "ja": "科学的発見が、その発見者には想像できなかった結果をもたらすことがあるということを思い出させる。",
+          "ko": "이는 과학적 발견이 발견자가 상상하지 못한 결과를 낳을 수 있음을 상기시킨다.",
+          "hi": "यह याद दिलाता है कि वैज्ञानिक खोज के ऐसे परिणाम हो सकते हैं जिनकी कल्पना खोजकर्ता ने नहीं की होगी।",
+          "ar": "يذكر ذلك بأن الاكتشاف العلمي قد تكون له عواقب لم يكن مكتشفه قادرا على تخيلها."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Через несколько недель после Trinity США сбросили атомные бомбы на Хиросиму и Нагасаки.",
     "de": "Wenige Wochen nach Trinity warfen die USA Atombomben auf Hiroshima und Nagasaki ab.",
-    "en": "A few weeks after Trinity, the United States dropped atomic bombs on Hiroshima and Nagasaki."
+    "en": "A few weeks after Trinity, the United States dropped atomic bombs on Hiroshima and Nagasaki.",
+    "fr": "Quelques semaines après Trinity, les États-Unis larguèrent des bombes atomiques sur Hiroshima et Nagasaki.",
+    "es": "Unas semanas después de Trinity, Estados Unidos lanzó bombas atómicas sobre Hiroshima y Nagasaki.",
+    "it": "Poche settimane dopo Trinity, gli Stati Uniti sganciarono bombe atomiche su Hiroshima e Nagasaki.",
+    "pt": "Algumas semanas depois de Trinity, os Estados Unidos lançaram bombas atômicas sobre Hiroshima e Nagasaki.",
+    "nl": "Enkele weken na Trinity wierpen de Verenigde Staten atoombommen op Hiroshima en Nagasaki.",
+    "pl": "Kilka tygodni po Trinity Stany Zjednoczone zrzuciły bomby atomowe na Hiroszimę i Nagasaki.",
+    "tr": "Trinity'den birkaç hafta sonra Amerika Birleşik Devletleri Hiroşima ve Nagazaki'ye atom bombaları attı.",
+    "zh": "三位一体试验几周后，美国向广岛和长崎投下原子弹。",
+    "ja": "トリニティ実験の数週間後、アメリカは広島と長崎に原子爆弾を投下した。",
+    "ko": "트리니티 실험 몇 주 뒤 미국은 히로시마와 나가사키에 원자폭탄을 투하했다.",
+    "hi": "Trinity के कुछ सप्ताह बाद अमेरिका ने हिरोशिमा और नागासाकी पर परमाणु बम गिराए।",
+    "ar": "بعد أسابيع قليلة من ترينيتي ألقت الولايات المتحدة قنبلتين ذريتين على هيروشيما وناغاساكي."
   },
   "sources": [
     {

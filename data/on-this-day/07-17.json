@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась Потсдамская конференция",
       "de": "Die Potsdamer Konferenz beginnt",
-      "en": "The Potsdam Conference begins"
+      "en": "The Potsdam Conference begins",
+      "fr": "La conférence de Potsdam commence",
+      "es": "Comienza la Conferencia de Potsdam",
+      "it": "Inizia la Conferenza di Potsdam",
+      "pt": "Começa a Conferência de Potsdam",
+      "nl": "De Conferentie van Potsdam begint",
+      "pl": "Rozpoczyna się konferencja poczdamska",
+      "tr": "Potsdam Konferansı başlar",
+      "zh": "波茨坦会议开始",
+      "ja": "ポツダム会談が始まる",
+      "ko": "포츠담 회담이 시작되다",
+      "hi": "पोट्सडैम सम्मेलन शुरू हुआ",
+      "ar": "بدء مؤتمر بوتسدام"
     },
     "description": {
       "ru": "17 июля 1945 года лидеры СССР, США и Великобритании собрались в Потсдаме. Они обсуждали послевоенное устройство Германии и Европы.",
       "de": "Am 17. Juli 1945 trafen sich die Fuehrer der Sowjetunion, der USA und Grossbritanniens in Potsdam. Sie berieten ueber die Nachkriegsordnung Deutschlands und Europas.",
-      "en": "On 17 July 1945, the leaders of the Soviet Union, the United States and Britain met in Potsdam. They discussed the postwar order of Germany and Europe."
+      "en": "On 17 July 1945, the leaders of the Soviet Union, the United States and Britain met in Potsdam. They discussed the postwar order of Germany and Europe.",
+      "fr": "Le 17 juillet 1945, les dirigeants de l'Union soviétique, des États-Unis et de la Grande-Bretagne se réunirent à Potsdam. Ils discutèrent de l'ordre d'après-guerre en Allemagne et en Europe.",
+      "es": "El 17 de julio de 1945, los líderes de la Unión Soviética, Estados Unidos y Gran Bretaña se reunieron en Potsdam. Debatieron el orden de posguerra de Alemania y Europa.",
+      "it": "Il 17 luglio 1945 i leader dell'Unione Sovietica, degli Stati Uniti e della Gran Bretagna si incontrarono a Potsdam. Discussero l'ordine del dopoguerra in Germania e in Europa.",
+      "pt": "Em 17 de julho de 1945, os líderes da União Soviética, dos Estados Unidos e da Grã-Bretanha reuniram-se em Potsdam. Eles discutiram a ordem do pós-guerra na Alemanha e na Europa.",
+      "nl": "Op 17 juli 1945 kwamen de leiders van de Sovjet-Unie, de Verenigde Staten en Groot-Brittannië bijeen in Potsdam. Zij bespraken de naoorlogse orde van Duitsland en Europa.",
+      "pl": "17 lipca 1945 roku przywódcy Związku Radzieckiego, Stanów Zjednoczonych i Wielkiej Brytanii spotkali się w Poczdamie. Omawiali powojenny porządek Niemiec i Europy.",
+      "tr": "17 Temmuz 1945'te Sovyetler Birliği, Amerika Birleşik Devletleri ve Britanya liderleri Potsdam'da bir araya geldi. Almanya ve Avrupa'nın savaş sonrası düzenini görüştüler.",
+      "zh": "1945年7月17日，苏联、美国和英国领导人在波茨坦会面。他们讨论了德国和欧洲的战后秩序。",
+      "ja": "1945年7月17日、ソ連、アメリカ、イギリスの指導者たちがポツダムに集まった。彼らはドイツとヨーロッパの戦後秩序について協議した。",
+      "ko": "1945년 7월 17일, 소련, 미국, 영국의 지도자들이 포츠담에서 만났다. 그들은 독일과 유럽의 전후 질서를 논의했다.",
+      "hi": "17 जुलाई 1945 को सोवियत संघ, संयुक्त राज्य अमेरिका और ब्रिटेन के नेता पोट्सडैम में मिले। उन्होंने जर्मनी और यूरोप की युद्धोत्तर व्यवस्था पर चर्चा की।",
+      "ar": "في 17 يوليو 1945 اجتمع قادة الاتحاد السوفيتي والولايات المتحدة وبريطانيا في بوتسدام. وناقشوا نظام ما بعد الحرب في ألمانيا وأوروبا."
     },
     "importance": {
       "ru": "Решения конференции повлияли на оккупацию, границы и дальнейшее разделение Германии.",
       "de": "Die Beschluesse beeinflussten Besatzung, Grenzen und die spaetere Teilung Deutschlands.",
-      "en": "The conference decisions shaped occupation, borders and Germany's later division."
+      "en": "The conference decisions shaped occupation, borders and Germany's later division.",
+      "fr": "Les décisions de la conférence influencèrent l'occupation, les frontières et la division ultérieure de l'Allemagne.",
+      "es": "Las decisiones de la conferencia influyeron en la ocupación, las fronteras y la posterior división de Alemania.",
+      "it": "Le decisioni della conferenza influenzarono l'occupazione, i confini e la successiva divisione della Germania.",
+      "pt": "As decisões da conferência moldaram a ocupação, as fronteiras e a posterior divisão da Alemanha.",
+      "nl": "De besluiten van de conferentie bepaalden bezetting, grenzen en de latere deling van Duitsland.",
+      "pl": "Decyzje konferencji wpłynęły na okupację, granice i późniejszy podział Niemiec.",
+      "tr": "Konferans kararları işgali, sınırları ve Almanya'nın daha sonraki bölünmesini şekillendirdi.",
+      "zh": "会议决定塑造了占领、边界以及德国后来的分裂。",
+      "ja": "会談の決定は占領、国境、そして後のドイツ分断を形作った。",
+      "ko": "회의의 결정은 점령, 국경, 그리고 이후 독일의 분단을 형성했다.",
+      "hi": "सम्मेलन के निर्णयों ने कब्जे, सीमाओं और जर्मनी के बाद के विभाजन को आकार दिया।",
+      "ar": "شكلت قرارات المؤتمر الاحتلال والحدود والانقسام اللاحق لألمانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дворец Цецилиенхоф",
           "de": "Schloss Cecilienhof",
-          "en": "Cecilienhof Palace"
+          "en": "Cecilienhof Palace",
+          "fr": "Le palais Cecilienhof",
+          "es": "Palacio Cecilienhof",
+          "it": "Palazzo Cecilienhof",
+          "pt": "Palácio Cecilienhof",
+          "nl": "Slot Cecilienhof",
+          "pl": "Pałac Cecilienhof",
+          "tr": "Cecilienhof Sarayı",
+          "zh": "塞西林霍夫宫",
+          "ja": "ツェツィーリエンホーフ宮殿",
+          "ko": "체칠리엔호프 궁전",
+          "hi": "सेसिलिएनहोफ महल",
+          "ar": "قصر سيسيلينهوف"
         },
         "description": {
           "ru": "Конференция проходила во дворце Цецилиенхоф в Потсдаме. Сегодня это одно из важных мест памяти о послевоенной Европе.",
           "de": "Die Konferenz fand im Schloss Cecilienhof in Potsdam statt. Heute ist es ein wichtiger Erinnerungsort der Nachkriegsordnung Europas.",
-          "en": "The conference took place at Cecilienhof Palace in Potsdam. Today it is an important site of memory for postwar Europe."
+          "en": "The conference took place at Cecilienhof Palace in Potsdam. Today it is an important site of memory for postwar Europe.",
+          "fr": "La conférence eut lieu au palais Cecilienhof à Potsdam. Aujourd'hui, c'est un important lieu de mémoire de l'Europe d'après-guerre.",
+          "es": "La conferencia tuvo lugar en el Palacio Cecilienhof de Potsdam. Hoy es un importante lugar de memoria de la Europa de posguerra.",
+          "it": "La conferenza si svolse nel Palazzo Cecilienhof a Potsdam. Oggi è un importante luogo della memoria dell'Europa del dopoguerra.",
+          "pt": "A conferência ocorreu no Palácio Cecilienhof, em Potsdam. Hoje é um importante lugar de memória da Europa do pós-guerra.",
+          "nl": "De conferentie vond plaats in Slot Cecilienhof in Potsdam. Vandaag is het een belangrijke herinneringsplaats voor het naoorlogse Europa.",
+          "pl": "Konferencja odbyła się w pałacu Cecilienhof w Poczdamie. Dziś jest to ważne miejsce pamięci o powojennej Europie.",
+          "tr": "Konferans Potsdam'daki Cecilienhof Sarayı'nda yapıldı. Bugün burası savaş sonrası Avrupa için önemli bir hafıza yeridir.",
+          "zh": "会议在波茨坦的塞西林霍夫宫举行。今天，它是战后欧洲的重要记忆场所。",
+          "ja": "会談はポツダムのツェツィーリエンホーフ宮殿で行われた。今日そこは、戦後ヨーロッパの重要な記憶の場所である。",
+          "ko": "회의는 포츠담의 체칠리엔호프 궁전에서 열렸다. 오늘날 이곳은 전후 유럽을 기억하는 중요한 장소이다.",
+          "hi": "सम्मेलन पोट्सडैम के सेसिलिएनहोफ महल में हुआ। आज यह युद्धोत्तर यूरोप की स्मृति का महत्वपूर्ण स्थल है।",
+          "ar": "عُقد المؤتمر في قصر سيسيلينهوف في بوتسدام. واليوم يعد موقعا مهما لذاكرة أوروبا بعد الحرب."
         },
         "importance": {
           "ru": "Карта Германии после 1945 года во многом начинается именно здесь.",
           "de": "Die Karte Deutschlands nach 1945 beginnt in vielem genau hier.",
-          "en": "In many ways, the map of Germany after 1945 begins here."
+          "en": "In many ways, the map of Germany after 1945 begins here.",
+          "fr": "À bien des égards, la carte de l'Allemagne après 1945 commence ici.",
+          "es": "En muchos sentidos, el mapa de Alemania después de 1945 comienza aquí.",
+          "it": "Per molti aspetti, la mappa della Germania dopo il 1945 comincia qui.",
+          "pt": "De muitas maneiras, o mapa da Alemanha após 1945 começa aqui.",
+          "nl": "In veel opzichten begint de kaart van Duitsland na 1945 hier.",
+          "pl": "Pod wieloma względami mapa Niemiec po 1945 roku zaczyna się właśnie tutaj.",
+          "tr": "Birçok bakımdan 1945 sonrası Almanya haritası burada başlar.",
+          "zh": "在许多方面，1945年后的德国地图从这里开始。",
+          "ja": "多くの意味で、1945年以後のドイツ地図はここから始まる。",
+          "ko": "여러 면에서 1945년 이후 독일의 지도는 바로 여기서 시작된다.",
+          "hi": "कई अर्थों में 1945 के बाद जर्मनी का नक्शा यहीं से शुरू होता है।",
+          "ar": "من نواح كثيرة تبدأ خريطة ألمانيا بعد عام 1945 من هنا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Потсдам сегодня находится в земле Бранденбург, рядом с Берлином.",
     "de": "Potsdam liegt heute im Bundesland Brandenburg, nahe Berlin.",
-    "en": "Potsdam is now in the state of Brandenburg, near Berlin."
+    "en": "Potsdam is now in the state of Brandenburg, near Berlin.",
+    "fr": "Potsdam se trouve aujourd'hui dans le Land de Brandebourg, près de Berlin.",
+    "es": "Potsdam se encuentra hoy en el estado de Brandeburgo, cerca de Berlín.",
+    "it": "Potsdam si trova oggi nel Land del Brandeburgo, vicino a Berlino.",
+    "pt": "Potsdam fica hoje no estado de Brandemburgo, perto de Berlim.",
+    "nl": "Potsdam ligt tegenwoordig in de deelstaat Brandenburg, vlak bij Berlijn.",
+    "pl": "Poczdam znajduje się dziś w kraju związkowym Brandenburgia, niedaleko Berlina.",
+    "tr": "Potsdam bugün Berlin yakınında, Brandenburg eyaletinde yer alır.",
+    "zh": "波茨坦如今位于柏林附近的勃兰登堡州。",
+    "ja": "ポツダムは現在、ベルリン近郊のブランデンブルク州にある。",
+    "ko": "포츠담은 오늘날 베를린 근처의 브란덴부르크 주에 있다.",
+    "hi": "पोट्सडैम आज बर्लिन के पास ब्रांडेनबुर्ग राज्य में है।",
+    "ar": "تقع بوتسدام اليوم في ولاية براندنبورغ قرب برلين."
   },
   "sources": [
     {
