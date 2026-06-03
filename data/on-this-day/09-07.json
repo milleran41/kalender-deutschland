@@ -11,17 +11,53 @@
     "title": {
       "ru": "Собрался первый Бундестаг",
       "de": "Der erste Bundestag tritt zusammen",
-      "en": "The first Bundestag convenes"
+      "en": "The first Bundestag convenes",
+      "fr": "Le premier Bundestag se réunit",
+      "es": "Se reúne el primer Bundestag",
+      "it": "Si riunisce il primo Bundestag",
+      "pt": "O primeiro Bundestag se reúne",
+      "nl": "De eerste Bondsdag komt bijeen",
+      "pl": "Zebrał się pierwszy Bundestag",
+      "tr": "İlk Bundestag toplandı",
+      "zh": "第一届联邦议院召开",
+      "ja": "最初の連邦議会が開かれる",
+      "ko": "첫 연방의회가 소집되다",
+      "hi": "पहला बुंडेस्टाग एकत्र हुआ",
+      "ar": "انعقاد أول بوندستاغ"
     },
     "description": {
       "ru": "7 сентября 1949 года в Бонне впервые собрался Бундестаг Федеративной Республики Германия. Это был важный шаг в становлении западногерманской демократии.",
       "de": "Am 7. September 1949 trat in Bonn erstmals der Bundestag der Bundesrepublik Deutschland zusammen. Das war ein wichtiger Schritt beim Aufbau der westdeutschen Demokratie.",
-      "en": "On 7 September 1949, the Bundestag of the Federal Republic of Germany met for the first time in Bonn. It was an important step in building West German democracy."
+      "en": "On 7 September 1949, the Bundestag of the Federal Republic of Germany met for the first time in Bonn. It was an important step in building West German democracy.",
+      "fr": "Le 7 septembre 1949, le Bundestag de la République fédérale d'Allemagne se réunit pour la première fois à Bonn. Ce fut une étape importante dans la construction de la démocratie ouest-allemande.",
+      "es": "El 7 de septiembre de 1949, el Bundestag de la República Federal de Alemania se reunió por primera vez en Bonn. Fue un paso importante en la construcción de la democracia de Alemania Occidental.",
+      "it": "Il 7 settembre 1949 il Bundestag della Repubblica Federale Tedesca si riunì per la prima volta a Bonn. Fu un passo importante nella costruzione della democrazia della Germania Ovest.",
+      "pt": "Em 7 de setembro de 1949, o Bundestag da República Federal da Alemanha reuniu-se pela primeira vez em Bonn. Foi um passo importante na construção da democracia da Alemanha Ocidental.",
+      "nl": "Op 7 september 1949 kwam de Bondsdag van de Bondsrepubliek Duitsland voor het eerst bijeen in Bonn. Het was een belangrijke stap in de opbouw van de West-Duitse democratie.",
+      "pl": "7 września 1949 roku w Bonn po raz pierwszy zebrał się Bundestag Republiki Federalnej Niemiec. Był to ważny krok w budowie demokracji zachodnioniemieckiej.",
+      "tr": "7 Eylül 1949'da Federal Almanya Cumhuriyeti'nin Bundestag'ı ilk kez Bonn'da toplandı. Bu, Batı Alman demokrasisinin inşasında önemli bir adımdı.",
+      "zh": "1949年9月7日，德意志联邦共和国联邦议院首次在波恩召开。这是建设西德民主的重要一步。",
+      "ja": "1949年9月7日、ドイツ連邦共和国の連邦議会がボンで初めて開かれました。これは西ドイツ民主主義の構築における重要な一歩でした。",
+      "ko": "1949년 9월 7일 독일연방공화국의 연방의회가 본에서 처음 열렸습니다. 이는 서독 민주주의 건설의 중요한 단계였습니다.",
+      "hi": "7 सितंबर 1949 को जर्मनी संघीय गणराज्य का बुंडेस्टाग पहली बार बॉन में एकत्र हुआ। यह पश्चिम जर्मन लोकतंत्र के निर्माण में महत्वपूर्ण कदम था।",
+      "ar": "في 7 سبتمبر 1949 اجتمع بوندستاغ جمهورية ألمانيا الاتحادية لأول مرة في بون. كان ذلك خطوة مهمة في بناء الديمقراطية الألمانية الغربية."
     },
     "importance": {
       "ru": "Новый парламент стал центральным институтом ФРГ.",
       "de": "Das neue Parlament wurde zur zentralen Institution der Bundesrepublik.",
-      "en": "The new parliament became the central institution of the Federal Republic."
+      "en": "The new parliament became the central institution of the Federal Republic.",
+      "fr": "Le nouveau parlement devint l'institution centrale de la République fédérale.",
+      "es": "El nuevo parlamento se convirtió en la institución central de la República Federal.",
+      "it": "Il nuovo parlamento divenne l'istituzione centrale della Repubblica Federale.",
+      "pt": "O novo parlamento tornou-se a instituição central da República Federal.",
+      "nl": "Het nieuwe parlement werd de centrale instelling van de Bondsrepubliek.",
+      "pl": "Nowy parlament stał się centralną instytucją RFN.",
+      "tr": "Yeni parlamento Federal Cumhuriyet'in merkezi kurumu oldu.",
+      "zh": "新议会成为联邦共和国的核心机构。",
+      "ja": "新しい議会は連邦共和国の中心的機関となりました。",
+      "ko": "새 의회는 연방공화국의 중심 기관이 되었습니다.",
+      "hi": "नया संसद संघीय गणराज्य की केंद्रीय संस्था बन गया।",
+      "ar": "أصبح البرلمان الجديد المؤسسة المركزية للجمهورية الاتحادية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Бонн как парламентский город",
           "de": "Bonn als Parlamentsstadt",
-          "en": "Bonn as a parliamentary city"
+          "en": "Bonn as a parliamentary city",
+          "fr": "Bonn comme ville parlementaire",
+          "es": "Bonn como ciudad parlamentaria",
+          "it": "Bonn come città parlamentare",
+          "pt": "Bonn como cidade parlamentar",
+          "nl": "Bonn als parlementaire stad",
+          "pl": "Bonn jako miasto parlamentarne",
+          "tr": "Parlamento şehri olarak Bonn",
+          "zh": "作为议会城市的波恩",
+          "ja": "議会都市としてのボン",
+          "ko": "의회 도시로서의 본",
+          "hi": "संसदीय शहर के रूप में बॉन",
+          "ar": "بون كمدينة برلمانية"
         },
         "description": {
           "ru": "После войны Бонн стал временным политическим центром ФРГ. Это подчёркивало, что разделение Германии не считалось окончательным.",
           "de": "Nach dem Krieg wurde Bonn zum provisorischen politischen Zentrum der Bundesrepublik. Das zeigte, dass die deutsche Teilung nicht als endgueltig galt.",
-          "en": "After the war, Bonn became the provisional political center of West Germany. This showed that German division was not considered final."
+          "en": "After the war, Bonn became the provisional political center of West Germany. This showed that German division was not considered final.",
+          "fr": "Après la guerre, Bonn devint le centre politique provisoire de la RFA. Cela montrait que la division allemande n'était pas considérée comme définitive.",
+          "es": "Después de la guerra, Bonn se convirtió en el centro político provisional de la RFA. Esto mostraba que la división alemana no se consideraba definitiva.",
+          "it": "Dopo la guerra, Bonn divenne il centro politico provvisorio della Germania Ovest. Questo mostrava che la divisione tedesca non era considerata definitiva.",
+          "pt": "Depois da guerra, Bonn tornou-se o centro político provisório da Alemanha Ocidental. Isso mostrava que a divisão alemã não era considerada definitiva.",
+          "nl": "Na de oorlog werd Bonn het voorlopige politieke centrum van West-Duitsland. Dit liet zien dat de Duitse deling niet als definitief werd gezien.",
+          "pl": "Po wojnie Bonn stało się tymczasowym centrum politycznym RFN. Podkreślało to, że podział Niemiec nie był uznawany za ostateczny.",
+          "tr": "Savaştan sonra Bonn, Batı Almanya'nın geçici siyasi merkezi oldu. Bu, Almanya'nın bölünmesinin kesin kabul edilmediğini gösteriyordu.",
+          "zh": "战后，波恩成为西德的临时政治中心。这表明德国分裂并不被视为最终状态。",
+          "ja": "戦後、ボンは西ドイツの暫定的な政治中心となりました。これはドイツ分断が最終的なものとは考えられていなかったことを示していました。",
+          "ko": "전쟁 뒤 본은 서독의 임시 정치 중심지가 되었습니다. 이는 독일 분단이 최종적인 것으로 여겨지지 않았음을 보여 주었습니다.",
+          "hi": "युद्ध के बाद बॉन पश्चिम जर्मनी का अस्थायी राजनीतिक केंद्र बना। इससे पता चलता था कि जर्मनी का विभाजन अंतिम नहीं माना गया था।",
+          "ar": "بعد الحرب أصبحت بون المركز السياسي المؤقت لألمانيا الغربية. وكان ذلك يوضح أن تقسيم ألمانيا لم يُعد نهائياً."
         },
         "importance": {
           "ru": "Дата хорошо дополняет 23 мая, когда был обнародован Основной закон.",
           "de": "Das Datum ergaenzt den 23. Mai, an dem das Grundgesetz verkuendet wurde.",
-          "en": "The date pairs well with 23 May, when the Basic Law was promulgated."
+          "en": "The date pairs well with 23 May, when the Basic Law was promulgated.",
+          "fr": "Cette date complète bien le 23 mai, jour de la promulgation de la Loi fondamentale.",
+          "es": "La fecha complementa bien el 23 de mayo, cuando se promulgó la Ley Fundamental.",
+          "it": "La data si collega bene al 23 maggio, quando fu promulgata la Legge fondamentale.",
+          "pt": "A data complementa bem 23 de maio, quando a Lei Fundamental foi promulgada.",
+          "nl": "De datum past goed bij 23 mei, toen de Basiswet werd afgekondigd.",
+          "pl": "Data dobrze uzupełnia 23 maja, kiedy ogłoszono Ustawę Zasadniczą.",
+          "tr": "Bu tarih, Temel Yasa'nın ilan edildiği 23 Mayıs'ı iyi tamamlar.",
+          "zh": "这个日期很好地补充了5月23日《基本法》公布的事件。",
+          "ja": "この日は、基本法が公布された5月23日とよく対応しています。",
+          "ko": "이 날짜는 기본법이 공포된 5월 23일과 잘 이어집니다.",
+          "hi": "यह तारीख 23 मई को अच्छी तरह पूरा करती है, जब मूल कानून घोषित किया गया था।",
+          "ar": "يكمل هذا التاريخ يوم 23 مايو، حين أُعلن القانون الأساسي."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Бундестаг вернулся из Бонна в Берлин после воссоединения, но многие федеральные учреждения остались в Бонне.",
     "de": "Der Bundestag zog nach der Wiedervereinigung von Bonn nach Berlin, doch viele Bundesbehoerden blieben in Bonn.",
-    "en": "After reunification, the Bundestag moved from Bonn to Berlin, but many federal institutions remained in Bonn."
+    "en": "After reunification, the Bundestag moved from Bonn to Berlin, but many federal institutions remained in Bonn.",
+    "fr": "Après la réunification, le Bundestag déménagea de Bonn à Berlin, mais de nombreuses institutions fédérales restèrent à Bonn.",
+    "es": "Tras la reunificación, el Bundestag se trasladó de Bonn a Berlín, pero muchas instituciones federales permanecieron en Bonn.",
+    "it": "Dopo la riunificazione, il Bundestag si trasferì da Bonn a Berlino, ma molte istituzioni federali rimasero a Bonn.",
+    "pt": "Após a reunificação, o Bundestag mudou-se de Bonn para Berlim, mas muitas instituições federais permaneceram em Bonn.",
+    "nl": "Na de hereniging verhuisde de Bondsdag van Bonn naar Berlijn, maar veel federale instellingen bleven in Bonn.",
+    "pl": "Po zjednoczeniu Bundestag przeniósł się z Bonn do Berlina, ale wiele instytucji federalnych pozostało w Bonn.",
+    "tr": "Yeniden birleşmeden sonra Bundestag Bonn'dan Berlin'e taşındı, ancak birçok federal kurum Bonn'da kaldı.",
+    "zh": "统一后，联邦议院从波恩迁往柏林，但许多联邦机构仍留在波恩。",
+    "ja": "再統一後、連邦議会はボンからベルリンへ移りましたが、多くの連邦機関はボンに残りました。",
+    "ko": "재통일 뒤 연방의회는 본에서 베를린으로 옮겼지만 많은 연방 기관은 본에 남았습니다.",
+    "hi": "पुनर्एकीकरण के बाद बुंडेस्टाग बॉन से बर्लिन चला गया, लेकिन कई संघीय संस्थाएँ बॉन में ही रहीं।",
+    "ar": "بعد إعادة التوحيد انتقل البوندستاغ من بون إلى برلين، لكن كثيراً من المؤسسات الاتحادية بقيت في بون."
   },
   "sources": [
     {

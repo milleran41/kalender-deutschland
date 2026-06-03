@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия вступила в Лигу Наций",
       "de": "Deutschland tritt dem Voelkerbund bei",
-      "en": "Germany joins the League of Nations"
+      "en": "Germany joins the League of Nations",
+      "fr": "L'Allemagne rejoint la Société des Nations",
+      "es": "Alemania ingresa en la Sociedad de Naciones",
+      "it": "La Germania entra nella Società delle Nazioni",
+      "pt": "A Alemanha entra na Liga das Nações",
+      "nl": "Duitsland treedt toe tot de Volkenbond",
+      "pl": "Niemcy wstąpiły do Ligi Narodów",
+      "tr": "Almanya Milletler Cemiyeti'ne katıldı",
+      "zh": "德国加入国际联盟",
+      "ja": "ドイツが国際連盟に加盟する",
+      "ko": "독일이 국제연맹에 가입하다",
+      "hi": "जर्मनी राष्ट्र संघ में शामिल हुआ",
+      "ar": "ألمانيا تنضم إلى عصبة الأمم"
     },
     "description": {
       "ru": "8 сентября 1926 года Германия была принята в Лигу Наций. Для Веймарской республики это стало важным шагом возвращения в международную политику после Первой мировой войны.",
       "de": "Am 8. September 1926 wurde Deutschland in den Voelkerbund aufgenommen. Fuer die Weimarer Republik war das ein wichtiger Schritt zur Rueckkehr in die internationale Politik nach dem Ersten Weltkrieg.",
-      "en": "On 8 September 1926, Germany was admitted to the League of Nations. For the Weimar Republic, this was an important step back into international politics after the First World War."
+      "en": "On 8 September 1926, Germany was admitted to the League of Nations. For the Weimar Republic, this was an important step back into international politics after the First World War.",
+      "fr": "Le 8 septembre 1926, l'Allemagne fut admise à la Société des Nations. Pour la République de Weimar, ce fut une étape importante du retour à la politique internationale après la Première Guerre mondiale.",
+      "es": "El 8 de septiembre de 1926, Alemania fue admitida en la Sociedad de Naciones. Para la República de Weimar fue un paso importante de regreso a la política internacional tras la Primera Guerra Mundial.",
+      "it": "L'8 settembre 1926 la Germania fu ammessa nella Società delle Nazioni. Per la Repubblica di Weimar fu un passo importante per tornare nella politica internazionale dopo la Prima guerra mondiale.",
+      "pt": "Em 8 de setembro de 1926, a Alemanha foi admitida na Liga das Nações. Para a República de Weimar, foi um passo importante de retorno à política internacional após a Primeira Guerra Mundial.",
+      "nl": "Op 8 september 1926 werd Duitsland toegelaten tot de Volkenbond. Voor de Weimarrepubliek was dit een belangrijke stap terug in de internationale politiek na de Eerste Wereldoorlog.",
+      "pl": "8 września 1926 roku Niemcy zostały przyjęte do Ligi Narodów. Dla Republiki Weimarskiej był to ważny krok powrotu do polityki międzynarodowej po I wojnie światowej.",
+      "tr": "8 Eylül 1926'da Almanya Milletler Cemiyeti'ne kabul edildi. Weimar Cumhuriyeti için bu, Birinci Dünya Savaşı'ndan sonra uluslararası siyasete dönüşte önemli bir adımdı.",
+      "zh": "1926年9月8日，德国被接纳加入国际联盟。对魏玛共和国来说，这是第一次世界大战后重返国际政治的重要一步。",
+      "ja": "1926年9月8日、ドイツは国際連盟に加盟しました。ワイマール共和国にとって、これは第一次世界大戦後に国際政治へ戻る重要な一歩でした。",
+      "ko": "1926년 9월 8일 독일은 국제연맹에 가입했습니다. 바이마르 공화국에게 이는 제1차 세계대전 이후 국제 정치로 돌아가는 중요한 단계였습니다.",
+      "hi": "8 सितंबर 1926 को जर्मनी को राष्ट्र संघ में स्वीकार किया गया। वाइमर गणराज्य के लिए यह प्रथम विश्व युद्ध के बाद अंतरराष्ट्रीय राजनीति में लौटने का महत्वपूर्ण कदम था।",
+      "ar": "في 8 سبتمبر 1926 قُبلت ألمانيا في عصبة الأمم. وبالنسبة إلى جمهورية فايمار كان ذلك خطوة مهمة للعودة إلى السياسة الدولية بعد الحرب العالمية الأولى."
     },
     "importance": {
       "ru": "Событие показало, что послевоенная изоляция Германии могла смениться дипломатическим сотрудничеством.",
       "de": "Das Ereignis zeigte, dass die Nachkriegsisolation Deutschlands durch diplomatische Zusammenarbeit abgeloest werden konnte.",
-      "en": "The event showed that Germany's postwar isolation could be replaced by diplomatic cooperation."
+      "en": "The event showed that Germany's postwar isolation could be replaced by diplomatic cooperation.",
+      "fr": "L'événement montra que l'isolement de l'Allemagne après la guerre pouvait être remplacé par la coopération diplomatique.",
+      "es": "El hecho mostró que el aislamiento de Alemania tras la guerra podía sustituirse por cooperación diplomática.",
+      "it": "L'evento mostrò che l'isolamento postbellico della Germania poteva essere sostituito dalla cooperazione diplomatica.",
+      "pt": "O acontecimento mostrou que o isolamento alemão do pós-guerra podia ser substituído por cooperação diplomática.",
+      "nl": "De gebeurtenis liet zien dat Duitslands naoorlogse isolement kon worden vervangen door diplomatieke samenwerking.",
+      "pl": "Wydarzenie pokazało, że powojenna izolacja Niemiec mogła zostać zastąpiona współpracą dyplomatyczną.",
+      "tr": "Olay, Almanya'nın savaş sonrası izolasyonunun diplomatik iş birliğiyle değişebileceğini gösterdi.",
+      "zh": "这一事件表明，德国战后的孤立可以被外交合作取代。",
+      "ja": "この出来事は、戦後ドイツの孤立が外交協力に置き換わりうることを示しました。",
+      "ko": "이 사건은 독일의 전후 고립이 외교 협력으로 대체될 수 있음을 보여 주었습니다.",
+      "hi": "इस घटना ने दिखाया कि युद्धोत्तर जर्मनी की अलगाव स्थिति कूटनीतिक सहयोग से बदल सकती थी।",
+      "ar": "أظهر الحدث أن عزلة ألمانيا بعد الحرب كان يمكن أن تُستبدل بتعاون دبلوماسي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Политика Густава Штреземана",
           "de": "Die Politik Gustav Stresemanns",
-          "en": "Gustav Stresemann's policy"
+          "en": "Gustav Stresemann's policy",
+          "fr": "La politique de Gustav Stresemann",
+          "es": "La política de Gustav Stresemann",
+          "it": "La politica di Gustav Stresemann",
+          "pt": "A política de Gustav Stresemann",
+          "nl": "Het beleid van Gustav Stresemann",
+          "pl": "Polityka Gustava Stresemanna",
+          "tr": "Gustav Stresemann'ın politikası",
+          "zh": "古斯塔夫·施特雷泽曼的政策",
+          "ja": "グスタフ・シュトレーゼマンの政策",
+          "ko": "구스타프 슈트레제만의 정책",
+          "hi": "गुस्ताव श्ट्रेज़ेमान की नीति",
+          "ar": "سياسة غوستاف شتريزمان"
         },
         "description": {
           "ru": "Министр иностранных дел Густав Штреземан добивался для Германии признания через переговоры, а не через новую конфронтацию. Вступление в Лигу Наций стало продолжением Локарнских соглашений.",
           "de": "Aussenminister Gustav Stresemann wollte Deutschland durch Verhandlungen, nicht durch neue Konfrontation anerkennen lassen. Der Eintritt in den Voelkerbund setzte die Politik von Locarno fort.",
-          "en": "Foreign minister Gustav Stresemann sought recognition for Germany through negotiation, not renewed confrontation. Joining the League continued the policy of Locarno."
+          "en": "Foreign minister Gustav Stresemann sought recognition for Germany through negotiation, not renewed confrontation. Joining the League continued the policy of Locarno.",
+          "fr": "Le ministre des Affaires étrangères Gustav Stresemann cherchait la reconnaissance de l'Allemagne par la négociation, et non par une nouvelle confrontation. L'entrée dans la Société des Nations prolongea la politique de Locarno.",
+          "es": "El ministro de Exteriores Gustav Stresemann buscaba el reconocimiento de Alemania mediante negociaciones, no mediante una nueva confrontación. El ingreso en la Sociedad de Naciones continuó la política de Locarno.",
+          "it": "Il ministro degli Esteri Gustav Stresemann cercava il riconoscimento della Germania attraverso negoziati, non con una nuova contrapposizione. L'ingresso nella Società delle Nazioni proseguì la politica di Locarno.",
+          "pt": "O ministro das Relações Exteriores Gustav Stresemann buscava reconhecimento para a Alemanha por meio de negociações, não de nova confrontação. A entrada na Liga das Nações continuou a política de Locarno.",
+          "nl": "Minister van Buitenlandse Zaken Gustav Stresemann zocht erkenning voor Duitsland via onderhandelingen, niet via nieuwe confrontatie. Toetreding tot de Volkenbond zette het beleid van Locarno voort.",
+          "pl": "Minister spraw zagranicznych Gustav Stresemann zabiegał o uznanie Niemiec poprzez negocjacje, a nie przez nową konfrontację. Wstąpienie do Ligi Narodów było kontynuacją polityki Locarno.",
+          "tr": "Dışişleri Bakanı Gustav Stresemann, Almanya için tanınmayı yeni bir çatışma yoluyla değil, müzakerelerle sağlamaya çalıştı. Milletler Cemiyeti'ne katılım Locarno politikasının devamıydı.",
+          "zh": "外交部长古斯塔夫·施特雷泽曼希望通过谈判，而不是新的对抗，为德国争取承认。加入国际联盟延续了洛迦诺政策。",
+          "ja": "外相グスタフ・シュトレーゼマンは、新たな対立ではなく交渉によってドイツの承認を得ようとしました。国際連盟加盟はロカルノ政策の継続でした。",
+          "ko": "외무장관 구스타프 슈트레제만은 새로운 대립이 아니라 협상을 통해 독일의 인정을 얻고자 했습니다. 국제연맹 가입은 로카르노 정책의 연장이었습니다.",
+          "hi": "विदेश मंत्री गुस्ताव श्ट्रेज़ेमान जर्मनी के लिए मान्यता नई टकराव से नहीं, बातचीत से पाना चाहते थे। राष्ट्र संघ में प्रवेश लोकार्नो नीति की निरंतरता था।",
+          "ar": "سعى وزير الخارجية غوستاف شتريزمان إلى نيل الاعتراف بألمانيا عبر المفاوضات لا عبر مواجهة جديدة. وكان الانضمام إلى عصبة الأمم استمراراً لسياسة لوكارنو."
         },
         "importance": {
           "ru": "Это один из самых заметных успехов немецкой дипломатии Веймарской эпохи.",
           "de": "Das war einer der sichtbarsten Erfolge deutscher Diplomatie in der Weimarer Zeit.",
-          "en": "It was one of the most visible successes of German diplomacy during the Weimar era."
+          "en": "It was one of the most visible successes of German diplomacy during the Weimar era.",
+          "fr": "Ce fut l'un des succès les plus visibles de la diplomatie allemande de l'époque de Weimar.",
+          "es": "Fue uno de los éxitos más visibles de la diplomacia alemana durante la época de Weimar.",
+          "it": "Fu uno dei successi più visibili della diplomazia tedesca nell'epoca di Weimar.",
+          "pt": "Foi um dos sucessos mais visíveis da diplomacia alemã na era de Weimar.",
+          "nl": "Het was een van de meest zichtbare successen van de Duitse diplomatie in de Weimartijd.",
+          "pl": "Był to jeden z najbardziej widocznych sukcesów niemieckiej dyplomacji epoki weimarskiej.",
+          "tr": "Bu, Weimar döneminde Alman diplomasisinin en görünür başarılarından biriydi.",
+          "zh": "这是魏玛时期德国外交最显著的成功之一。",
+          "ja": "これはワイマール時代のドイツ外交で最も目に見える成功の一つでした。",
+          "ko": "이는 바이마르 시대 독일 외교의 가장 눈에 띄는 성공 중 하나였습니다.",
+          "hi": "यह वाइमर युग की जर्मन कूटनीति की सबसे स्पष्ट सफलताओं में से एक थी।",
+          "ar": "كان ذلك أحد أبرز نجاحات الدبلوماسية الألمانية في عهد فايمار."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Густав Штреземан",
           "de": "Gustav Stresemann",
-          "en": "Gustav Stresemann"
+          "en": "Gustav Stresemann",
+          "fr": "Gustav Stresemann",
+          "es": "Gustav Stresemann",
+          "it": "Gustav Stresemann",
+          "pt": "Gustav Stresemann",
+          "nl": "Gustav Stresemann",
+          "pl": "Gustav Stresemann",
+          "tr": "Gustav Stresemann",
+          "zh": "古斯塔夫·施特雷泽曼",
+          "ja": "グスタフ・シュトレーゼマン",
+          "ko": "구스타프 슈트레제만",
+          "hi": "गुस्ताव श्ट्रेज़ेमान",
+          "ar": "غوستاف شتريزمان"
         },
         "description": {
           "ru": "Штреземан был канцлером, а затем министром иностранных дел Веймарской республики. За политику примирения он получил Нобелевскую премию мира вместе с Аристидом Брианом.",
           "de": "Stresemann war Reichskanzler und danach Aussenminister der Weimarer Republik. Fuer seine Versoehnungspolitik erhielt er zusammen mit Aristide Briand den Friedensnobelpreis.",
-          "en": "Stresemann served as chancellor and then foreign minister of the Weimar Republic. For his policy of reconciliation, he received the Nobel Peace Prize together with Aristide Briand."
+          "en": "Stresemann served as chancellor and then foreign minister of the Weimar Republic. For his policy of reconciliation, he received the Nobel Peace Prize together with Aristide Briand.",
+          "fr": "Stresemann fut chancelier puis ministre des Affaires étrangères de la République de Weimar. Pour sa politique de réconciliation, il reçut le prix Nobel de la paix avec Aristide Briand.",
+          "es": "Stresemann fue canciller y después ministro de Exteriores de la República de Weimar. Por su política de reconciliación recibió el Premio Nobel de la Paz junto con Aristide Briand.",
+          "it": "Stresemann fu cancelliere e poi ministro degli Esteri della Repubblica di Weimar. Per la sua politica di riconciliazione ricevette il Premio Nobel per la pace insieme ad Aristide Briand.",
+          "pt": "Stresemann foi chanceler e depois ministro das Relações Exteriores da República de Weimar. Por sua política de reconciliação, recebeu o Prêmio Nobel da Paz junto com Aristide Briand.",
+          "nl": "Stresemann was rijkskanselier en daarna minister van Buitenlandse Zaken van de Weimarrepubliek. Voor zijn verzoeningspolitiek ontving hij samen met Aristide Briand de Nobelprijs voor de Vrede.",
+          "pl": "Stresemann był kanclerzem, a następnie ministrem spraw zagranicznych Republiki Weimarskiej. Za politykę pojednania otrzymał Pokojową Nagrodę Nobla razem z Aristide'em Briandem.",
+          "tr": "Stresemann, Weimar Cumhuriyeti'nde şansölye ve ardından dışişleri bakanı olarak görev yaptı. Uzlaşma politikası nedeniyle Aristide Briand ile birlikte Nobel Barış Ödülü'nü aldı.",
+          "zh": "施特雷泽曼曾任魏玛共和国总理，后来担任外交部长。由于推行和解政策，他与阿里斯蒂德·白里安共同获得诺贝尔和平奖。",
+          "ja": "シュトレーゼマンはワイマール共和国の首相を務め、その後外相となりました。和解政策により、アリスティード・ブリアンとともにノーベル平和賞を受賞しました。",
+          "ko": "슈트레제만은 바이마르 공화국의 총리를 지낸 뒤 외무장관이 되었습니다. 화해 정책으로 그는 아리스티드 브리앙과 함께 노벨 평화상을 받았습니다.",
+          "hi": "श्ट्रेज़ेमान वाइमर गणराज्य के चांसलर और फिर विदेश मंत्री रहे। मेल-मिलाप की नीति के लिए उन्हें अरिस्तीद ब्रियां के साथ नोबेल शांति पुरस्कार मिला।",
+          "ar": "كان شتريزمان مستشاراً ثم وزيراً للخارجية في جمهورية فايمار. وبسبب سياسة المصالحة حصل على جائزة نوبل للسلام مع أريستيد بريان."
         },
         "importance": {
           "ru": "Его биография показывает, что история Веймара состояла не только из кризисов, но и из попыток мирной политики.",
           "de": "Seine Biografie zeigt, dass Weimar nicht nur aus Krisen bestand, sondern auch aus Versuchen friedlicher Politik.",
-          "en": "His biography shows that Weimar was not only a story of crises but also of attempts at peaceful politics."
+          "en": "His biography shows that Weimar was not only a story of crises but also of attempts at peaceful politics.",
+          "fr": "Sa biographie montre que Weimar ne fut pas seulement une histoire de crises, mais aussi de tentatives de politique pacifique.",
+          "es": "Su biografía muestra que Weimar no fue solo una historia de crisis, sino también de intentos de política pacífica.",
+          "it": "La sua biografia mostra che Weimar non fu solo una storia di crisi, ma anche di tentativi di politica pacifica.",
+          "pt": "Sua biografia mostra que Weimar não foi apenas uma história de crises, mas também de tentativas de política pacífica.",
+          "nl": "Zijn biografie laat zien dat Weimar niet alleen uit crises bestond, maar ook uit pogingen tot vreedzame politiek.",
+          "pl": "Jego biografia pokazuje, że historia Weimaru składała się nie tylko z kryzysów, lecz także z prób pokojowej polityki.",
+          "tr": "Biyografisi, Weimar'ın yalnızca krizlerden değil, barışçıl siyaset denemelerinden de oluştuğunu gösterir.",
+          "zh": "他的传记表明，魏玛历史不仅由危机构成，也包括和平政治的尝试。",
+          "ja": "彼の伝記は、ワイマールが危機だけでなく平和的政治への試みからも成っていたことを示しています。",
+          "ko": "그의 전기는 바이마르가 위기만의 이야기가 아니라 평화적 정치 시도들의 이야기이기도 했음을 보여 줍니다.",
+          "hi": "उनकी जीवनी दिखाती है कि वाइमर केवल संकटों की कहानी नहीं था, बल्कि शांतिपूर्ण राजनीति के प्रयासों की भी कहानी था।",
+          "ar": "تُظهر سيرته أن فايمار لم تكن قصة أزمات فقط، بل أيضاً محاولات لسياسة سلمية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Германия вышла из Лиги Наций в 1933 году, уже после прихода нацистов к власти.",
     "de": "Deutschland trat 1933, nach der Machtuebernahme der Nationalsozialisten, wieder aus dem Voelkerbund aus.",
-    "en": "Germany left the League of Nations in 1933, after the Nazis came to power."
+    "en": "Germany left the League of Nations in 1933, after the Nazis came to power.",
+    "fr": "L'Allemagne quitta la Société des Nations en 1933, après l'arrivée des nazis au pouvoir.",
+    "es": "Alemania salió de la Sociedad de Naciones en 1933, después de la llegada de los nazis al poder.",
+    "it": "La Germania uscì dalla Società delle Nazioni nel 1933, dopo l'arrivo dei nazisti al potere.",
+    "pt": "A Alemanha saiu da Liga das Nações em 1933, depois que os nazistas chegaram ao poder.",
+    "nl": "Duitsland verliet de Volkenbond in 1933, nadat de nazi's aan de macht waren gekomen.",
+    "pl": "Niemcy wystąpiły z Ligi Narodów w 1933 roku, już po dojściu nazistów do władzy.",
+    "tr": "Almanya, Nazilerin iktidara gelmesinden sonra 1933'te Milletler Cemiyeti'nden ayrıldı.",
+    "zh": "德国在纳粹上台后的1933年退出国际联盟。",
+    "ja": "ドイツはナチスが権力を握った後の1933年に国際連盟を脱退しました。",
+    "ko": "독일은 나치가 집권한 뒤인 1933년에 국제연맹을 탈퇴했습니다.",
+    "hi": "नाजियों के सत्ता में आने के बाद, 1933 में जर्मनी राष्ट्र संघ से बाहर निकल गया।",
+    "ar": "غادرت ألمانيا عصبة الأمم عام 1933 بعد وصول النازيين إلى السلطة."
   },
   "sources": [
     {
