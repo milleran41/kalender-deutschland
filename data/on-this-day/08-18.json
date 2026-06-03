@@ -11,17 +11,53 @@
     "title": {
       "ru": "adidas внесена в торговый реестр",
       "de": "adidas wird ins Handelsregister eingetragen",
-      "en": "adidas is entered in the commercial register"
+      "en": "adidas is entered in the commercial register",
+      "fr": "adidas est inscrite au registre du commerce",
+      "es": "adidas se inscribe en el registro mercantil",
+      "it": "adidas viene iscritta nel registro commerciale",
+      "pt": "adidas é inscrita no registro comercial",
+      "nl": "adidas wordt ingeschreven in het handelsregister",
+      "pl": "adidas zostaje wpisany do rejestru handlowego",
+      "tr": "adidas ticaret siciline kaydedilir",
+      "zh": "adidas被登记入商业注册簿",
+      "ja": "adidasが商業登記簿に登録される",
+      "ko": "adidas가 상업 등기부에 등록되다",
+      "hi": "adidas व्यापार रजिस्टर में दर्ज हुई",
+      "ar": "تسجيل adidas في السجل التجاري"
     },
     "description": {
       "ru": "18 августа 1949 года Адольф «Ади» Дасслер официально зарегистрировал компанию adidas в Херцогенаурахе. Фирма начиналась с небольшой команды и спортивной обуви.",
       "de": "Am 18. August 1949 liess Adolf \"Adi\" Dassler die Firma adidas in Herzogenaurach offiziell ins Handelsregister eintragen. Das Unternehmen begann mit einem kleinen Team und Sportschuhen.",
-      "en": "On 18 August 1949, Adolf \"Adi\" Dassler officially registered adidas in Herzogenaurach. The company began with a small team and sports shoes."
+      "en": "On 18 August 1949, Adolf \"Adi\" Dassler officially registered adidas in Herzogenaurach. The company began with a small team and sports shoes.",
+      "fr": "Le 18 août 1949, Adolf « Adi » Dassler fit officiellement inscrire adidas au registre du commerce à Herzogenaurach. L'entreprise commença avec une petite équipe et des chaussures de sport.",
+      "es": "El 18 de agosto de 1949, Adolf «Adi» Dassler registró oficialmente adidas en Herzogenaurach. La empresa comenzó con un equipo pequeño y calzado deportivo.",
+      "it": "Il 18 agosto 1949 Adolf \"Adi\" Dassler registrò ufficialmente adidas a Herzogenaurach. L'azienda iniziò con un piccolo team e scarpe sportive.",
+      "pt": "Em 18 de agosto de 1949, Adolf \"Adi\" Dassler registrou oficialmente a adidas em Herzogenaurach. A empresa começou com uma pequena equipe e calçados esportivos.",
+      "nl": "Op 18 augustus 1949 liet Adolf \"Adi\" Dassler adidas officieel in Herzogenaurach inschrijven. Het bedrijf begon met een klein team en sportschoenen.",
+      "pl": "18 sierpnia 1949 roku Adolf „Adi” Dassler oficjalnie zarejestrował firmę adidas w Herzogenaurach. Firma zaczynała od małego zespołu i butów sportowych.",
+      "tr": "18 Ağustos 1949'da Adolf \"Adi\" Dassler adidas şirketini Herzogenaurach'ta resmen tescil ettirdi. Şirket küçük bir ekip ve spor ayakkabılarla başladı.",
+      "zh": "1949年8月18日，阿道夫“阿迪”·达斯勒在黑措根奥拉赫正式注册adidas。公司最初由一个小团队和运动鞋起步。",
+      "ja": "1949年8月18日、アドルフ「アディ」ダスラーはヘルツォーゲンアウラハでadidasを正式に登録した。会社は小さなチームとスポーツシューズから始まった。",
+      "ko": "1949년 8월 18일, 아돌프 \"아디\" 다슬러는 헤르초게나우라흐에서 adidas를 공식 등록했다. 회사는 작은 팀과 스포츠 신발로 시작했다.",
+      "hi": "18 अगस्त 1949 को एडोल्फ \"आदि\" डास्लर ने हर्ज़ोगेनाउराख में adidas को आधिकारिक रूप से पंजीकृत कराया। कंपनी एक छोटी टीम और खेल जूतों से शुरू हुई।",
+      "ar": "في 18 أغسطس 1949 سجل أدولف \"أدي\" داسلر شركة adidas رسميا في هرتسوغن آوراخ. بدأت الشركة بفريق صغير وأحذية رياضية."
     },
     "importance": {
       "ru": "adidas стала частью немецкой спортивной, промышленной и поп-культурной истории.",
       "de": "adidas wurde Teil deutscher Sport-, Industrie- und Popkulturgeschichte.",
-      "en": "adidas became part of German sports, industrial and pop-cultural history."
+      "en": "adidas became part of German sports, industrial and pop-cultural history.",
+      "fr": "adidas devint une partie de l'histoire allemande du sport, de l'industrie et de la culture populaire.",
+      "es": "adidas se convirtió en parte de la historia alemana del deporte, la industria y la cultura pop.",
+      "it": "adidas divenne parte della storia tedesca dello sport, dell'industria e della cultura pop.",
+      "pt": "adidas tornou-se parte da história alemã do esporte, da indústria e da cultura pop.",
+      "nl": "adidas werd deel van de Duitse sport-, industrie- en popcultuurgeschiedenis.",
+      "pl": "adidas stał się częścią niemieckiej historii sportu, przemysłu i popkultury.",
+      "tr": "adidas Alman spor, sanayi ve popüler kültür tarihinin parçası oldu.",
+      "zh": "adidas成为德国体育、工业和流行文化历史的一部分。",
+      "ja": "adidasはドイツのスポーツ、産業、ポップカルチャー史の一部となった。",
+      "ko": "adidas는 독일 스포츠, 산업, 대중문화 역사의 일부가 되었다.",
+      "hi": "adidas जर्मन खेल, उद्योग और पॉप-संस्कृति इतिहास का हिस्सा बन गई।",
+      "ar": "أصبحت adidas جزءا من تاريخ الرياضة والصناعة والثقافة الشعبية الألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Спортивная обувь из Франконии",
           "de": "Sportschuhe aus Franken",
-          "en": "Sports shoes from Franconia"
+          "en": "Sports shoes from Franconia",
+          "fr": "Chaussures de sport de Franconie",
+          "es": "Calzado deportivo de Franconia",
+          "it": "Scarpe sportive dalla Franconia",
+          "pt": "Calçados esportivos da Francônia",
+          "nl": "Sportschoenen uit Franken",
+          "pl": "Buty sportowe z Frankonii",
+          "tr": "Frankonya'dan spor ayakkabılar",
+          "zh": "来自弗兰肯的运动鞋",
+          "ja": "フランケン地方のスポーツシューズ",
+          "ko": "프랑코니아의 스포츠 신발",
+          "hi": "फ्रैंकोनिया के खेल जूते",
+          "ar": "أحذية رياضية من فرانكونيا"
         },
         "description": {
           "ru": "Дасслер делал обувь с мыслью о конкретных видах спорта и потребностях спортсменов. Такой подход помог маленькой мастерской вырасти в международный бренд.",
           "de": "Dassler entwickelte Schuhe mit Blick auf einzelne Sportarten und die Beduerfnisse von Athleten. Dieser Ansatz half einer kleinen Werkstatt, zu einer internationalen Marke zu wachsen.",
-          "en": "Dassler designed shoes with specific sports and athletes' needs in mind. This approach helped a small workshop grow into an international brand."
+          "en": "Dassler designed shoes with specific sports and athletes' needs in mind. This approach helped a small workshop grow into an international brand.",
+          "fr": "Dassler conçut des chaussures en pensant à des sports précis et aux besoins des athlètes. Cette approche aida un petit atelier à devenir une marque internationale.",
+          "es": "Dassler diseñaba calzado pensando en deportes concretos y en las necesidades de los atletas. Este enfoque ayudó a un pequeño taller a convertirse en una marca internacional.",
+          "it": "Dassler progettava scarpe pensando a sport specifici e alle esigenze degli atleti. Questo approccio aiutò una piccola officina a diventare un marchio internazionale.",
+          "pt": "Dassler desenvolvia calçados pensando em esportes específicos e nas necessidades dos atletas. Essa abordagem ajudou uma pequena oficina a crescer e virar uma marca internacional.",
+          "nl": "Dassler ontwierp schoenen met specifieke sporten en de behoeften van atleten in gedachten. Deze aanpak hielp een kleine werkplaats uitgroeien tot een internationaal merk.",
+          "pl": "Dassler projektował buty z myślą o konkretnych dyscyplinach sportu i potrzebach zawodników. Takie podejście pomogło małemu warsztatowi urosnąć do międzynarodowej marki.",
+          "tr": "Dassler ayakkabıları belirli spor dallarını ve sporcuların ihtiyaçlarını düşünerek tasarlıyordu. Bu yaklaşım küçük bir atölyenin uluslararası bir markaya dönüşmesine yardım etti.",
+          "zh": "达斯勒设计鞋子时会考虑具体运动项目和运动员需求。这种做法帮助一个小作坊成长为国际品牌。",
+          "ja": "ダスラーは特定のスポーツと選手の必要を考えて靴を設計した。この考え方が小さな工房を国際ブランドへ成長させた。",
+          "ko": "다슬러는 특정 스포츠와 선수들의 필요를 염두에 두고 신발을 설계했다. 이런 접근은 작은 작업장이 국제 브랜드로 성장하는 데 도움이 되었다.",
+          "hi": "डास्लर खास खेलों और खिलाड़ियों की जरूरतों को ध्यान में रखकर जूते बनाते थे। इस तरीके ने छोटी कार्यशाला को अंतरराष्ट्रीय ब्रांड बनने में मदद की।",
+          "ar": "صمم داسلر الأحذية مع مراعاة رياضات محددة واحتياجات الرياضيين. وساعد هذا النهج ورشة صغيرة على النمو لتصبح علامة دولية."
         },
         "importance": {
           "ru": "История показывает, как спорт, ремесло и дизайн могут соединиться в одном продукте.",
           "de": "Die Geschichte zeigt, wie Sport, Handwerk und Design in einem Produkt zusammenkommen koennen.",
-          "en": "The story shows how sport, craft and design can come together in one product."
+          "en": "The story shows how sport, craft and design can come together in one product.",
+          "fr": "Cette histoire montre comment sport, artisanat et design peuvent se rejoindre dans un même produit.",
+          "es": "La historia muestra cómo deporte, oficio y diseño pueden unirse en un solo producto.",
+          "it": "La storia mostra come sport, artigianato e design possano unirsi in un unico prodotto.",
+          "pt": "A história mostra como esporte, artesanato e design podem se unir em um só produto.",
+          "nl": "Het verhaal laat zien hoe sport, vakmanschap en design in één product kunnen samenkomen.",
+          "pl": "Ta historia pokazuje, jak sport, rzemiosło i design mogą połączyć się w jednym produkcie.",
+          "tr": "Bu hikaye spor, zanaat ve tasarımın tek bir üründe nasıl birleşebileceğini gösterir.",
+          "zh": "这个故事展示了体育、工艺和设计如何在一个产品中结合。",
+          "ja": "この物語は、スポーツ、職人技、デザインが一つの製品でどのように結びつくかを示している。",
+          "ko": "이 이야기는 스포츠, 장인기술, 디자인이 하나의 제품에서 어떻게 만날 수 있는지를 보여 준다.",
+          "hi": "यह कहानी दिखाती है कि खेल, शिल्प और डिजाइन एक ही उत्पाद में कैसे मिल सकते हैं।",
+          "ar": "تُظهر القصة كيف يمكن للرياضة والحرفة والتصميم أن تجتمع في منتج واحد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Город двух спортивных брендов",
           "de": "Stadt zweier Sportmarken",
-          "en": "Town of two sports brands"
+          "en": "Town of two sports brands",
+          "fr": "La ville de deux marques de sport",
+          "es": "La ciudad de dos marcas deportivas",
+          "it": "La città di due marchi sportivi",
+          "pt": "A cidade de duas marcas esportivas",
+          "nl": "Stad van twee sportmerken",
+          "pl": "Miasto dwóch marek sportowych",
+          "tr": "İki spor markasının şehri",
+          "zh": "两大运动品牌之城",
+          "ja": "二つのスポーツブランドの町",
+          "ko": "두 스포츠 브랜드의 도시",
+          "hi": "दो खेल ब्रांडों का शहर",
+          "ar": "مدينة علامتين رياضيتين"
         },
         "description": {
           "ru": "Херцогенаурах известен не только adidas, но и Puma: две компании выросли из истории семьи Дасслер. Для небольшого города это необычная концентрация мировой спортивной индустрии.",
           "de": "Herzogenaurach ist nicht nur fuer adidas, sondern auch fuer Puma bekannt: Beide Unternehmen gingen aus der Geschichte der Familie Dassler hervor. Fuer eine kleine Stadt ist das eine ungewoehnliche Konzentration weltweiter Sportindustrie.",
-          "en": "Herzogenaurach is known not only for adidas but also for Puma: both companies grew out of the Dassler family story. For a small town, this is an unusual concentration of global sports industry."
+          "en": "Herzogenaurach is known not only for adidas but also for Puma: both companies grew out of the Dassler family story. For a small town, this is an unusual concentration of global sports industry.",
+          "fr": "Herzogenaurach est connue non seulement pour adidas, mais aussi pour Puma : les deux entreprises sont issues de l'histoire de la famille Dassler. Pour une petite ville, c'est une concentration inhabituelle d'industrie sportive mondiale.",
+          "es": "Herzogenaurach es conocida no solo por adidas, sino también por Puma: ambas empresas surgieron de la historia de la familia Dassler. Para una ciudad pequeña, es una concentración inusual de industria deportiva mundial.",
+          "it": "Herzogenaurach è nota non solo per adidas, ma anche per Puma: entrambe le aziende nacquero dalla storia della famiglia Dassler. Per una piccola città è una concentrazione insolita di industria sportiva mondiale.",
+          "pt": "Herzogenaurach é conhecida não apenas pela adidas, mas também pela Puma: as duas empresas cresceram a partir da história da família Dassler. Para uma cidade pequena, é uma concentração incomum da indústria esportiva mundial.",
+          "nl": "Herzogenaurach is niet alleen bekend om adidas, maar ook om Puma: beide bedrijven groeiden uit de geschiedenis van de familie Dassler. Voor een kleine stad is dat een ongebruikelijke concentratie van wereldwijde sportindustrie.",
+          "pl": "Herzogenaurach jest znane nie tylko z adidas, ale także z Pumy: obie firmy wyrosły z historii rodziny Dasslerów. Jak na małe miasto to niezwykłe skupienie światowego przemysłu sportowego.",
+          "tr": "Herzogenaurach yalnızca adidas ile değil, Puma ile de tanınır: iki şirket de Dassler ailesinin hikayesinden doğdu. Küçük bir şehir için bu, küresel spor endüstrisinin alışılmadık bir yoğunluğudur.",
+          "zh": "黑措根奥拉赫不仅因adidas而闻名，也因Puma而闻名：两家公司都源自达斯勒家族的故事。对一个小城来说，这是全球体育产业罕见的集中。",
+          "ja": "ヘルツォーゲンアウラハはadidasだけでなくPumaでも知られる。両社はダスラー家の歴史から生まれた。小さな町としては、世界的スポーツ産業が珍しく集中している。",
+          "ko": "헤르초게나우라흐는 adidas뿐 아니라 Puma로도 알려져 있다. 두 회사 모두 다슬러 가족의 이야기에서 나왔다. 작은 도시로서는 세계 스포츠 산업이 이례적으로 집중된 곳이다.",
+          "hi": "हर्ज़ोगेनाउराख केवल adidas ही नहीं, Puma के लिए भी जाना जाता है: दोनों कंपनियां डास्लर परिवार की कहानी से निकलीं। छोटे शहर के लिए यह वैश्विक खेल उद्योग का असामान्य संकेंद्रण है।",
+          "ar": "تشتهر هرتسوغن آوراخ ليس فقط بـ adidas بل أيضا بـ Puma: فقد نشأت الشركتان من قصة عائلة داسلر. وبالنسبة إلى مدينة صغيرة، فهذا تركّز غير عادي لصناعة الرياضة العالمية."
         },
         "importance": {
           "ru": "Иногда мировая конкуренция начинается почти по соседству.",
           "de": "Manchmal beginnt weltweite Konkurrenz fast nebenan.",
-          "en": "Sometimes global competition begins almost next door."
+          "en": "Sometimes global competition begins almost next door.",
+          "fr": "Parfois, la concurrence mondiale commence presque porte à porte.",
+          "es": "A veces la competencia mundial empieza casi al lado.",
+          "it": "A volte la concorrenza mondiale comincia quasi nella porta accanto.",
+          "pt": "Às vezes a concorrência mundial começa quase ao lado.",
+          "nl": "Soms begint wereldwijde concurrentie bijna naast de deur.",
+          "pl": "Czasem światowa konkurencja zaczyna się niemal po sąsiedzku.",
+          "tr": "Bazen küresel rekabet neredeyse kapı komşusunda başlar.",
+          "zh": "有时全球竞争几乎始于隔壁。",
+          "ja": "世界的な競争は、時にほとんど隣同士から始まる。",
+          "ko": "때로 세계적 경쟁은 거의 이웃에서 시작된다.",
+          "hi": "कभी-कभी वैश्विक प्रतिस्पर्धा लगभग पड़ोस से ही शुरू होती है।",
+          "ar": "أحيانا تبدأ المنافسة العالمية من الجوار تقريبا."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Техника в спортивной обуви",
           "de": "Technik im Sportschuh",
-          "en": "Technology in sports shoes"
+          "en": "Technology in sports shoes",
+          "fr": "La technique dans les chaussures de sport",
+          "es": "Tecnología en el calzado deportivo",
+          "it": "Tecnologia nelle scarpe sportive",
+          "pt": "Tecnologia nos calçados esportivos",
+          "nl": "Techniek in sportschoenen",
+          "pl": "Technika w obuwiu sportowym",
+          "tr": "Spor ayakkabılarda teknoloji",
+          "zh": "运动鞋中的技术",
+          "ja": "スポーツシューズの技術",
+          "ko": "스포츠 신발의 기술",
+          "hi": "खेल जूतों में तकनीक",
+          "ar": "التقنية في الأحذية الرياضية"
         },
         "description": {
           "ru": "Спортивная обувь стала областью постоянных экспериментов с материалами, подошвами и формой. В таких вещах инженерия встречается с телом спортсмена.",
           "de": "Sportschuhe wurden zu einem Feld staendiger Experimente mit Materialien, Sohlen und Formen. In solchen Dingen trifft Ingenieurarbeit auf den Koerper des Sportlers.",
-          "en": "Sports shoes became a field of constant experiments with materials, soles and shape. In such objects, engineering meets the athlete's body."
+          "en": "Sports shoes became a field of constant experiments with materials, soles and shape. In such objects, engineering meets the athlete's body.",
+          "fr": "Les chaussures de sport devinrent un domaine d'expérimentation constante avec les matériaux, les semelles et les formes. Dans ces objets, l'ingénierie rencontre le corps de l'athlète.",
+          "es": "El calzado deportivo se convirtió en un campo de experimentación constante con materiales, suelas y formas. En estos objetos, la ingeniería se encuentra con el cuerpo del deportista.",
+          "it": "Le scarpe sportive divennero un campo di sperimentazione continua con materiali, suole e forme. In questi oggetti l'ingegneria incontra il corpo dell'atleta.",
+          "pt": "Os calçados esportivos tornaram-se um campo de experimentos constantes com materiais, solas e formas. Nesses objetos, a engenharia encontra o corpo do atleta.",
+          "nl": "Sportschoenen werden een terrein van voortdurende experimenten met materialen, zolen en vormen. In zulke voorwerpen ontmoet techniek het lichaam van de sporter.",
+          "pl": "Obuwie sportowe stało się polem stałych eksperymentów z materiałami, podeszwami i kształtem. W takich przedmiotach inżynieria spotyka się z ciałem sportowca.",
+          "tr": "Spor ayakkabılar malzemeler, tabanlar ve biçimlerle sürekli deney yapılan bir alan oldu. Böyle nesnelerde mühendislik sporcunun bedeniyle buluşur.",
+          "zh": "运动鞋成为材料、鞋底和形状不断实验的领域。在这样的物品中，工程技术与运动员的身体相遇。",
+          "ja": "スポーツシューズは、素材、靴底、形状を絶えず試す分野となった。こうしたものでは、工学が選手の身体と出会う。",
+          "ko": "스포츠 신발은 소재, 밑창, 형태를 끊임없이 실험하는 분야가 되었다. 이런 물건에서 공학은 선수의 몸과 만난다.",
+          "hi": "खेल जूते सामग्री, तलवों और आकार के लगातार प्रयोगों का क्षेत्र बन गए। ऐसी चीजों में इंजीनियरिंग खिलाड़ी के शरीर से मिलती है।",
+          "ar": "أصبحت الأحذية الرياضية مجالا للتجارب المستمرة بالمواد والنعال والأشكال. ففي هذه الأشياء تلتقي الهندسة بجسد الرياضي."
         },
         "importance": {
           "ru": "Это хороший пример повседневной техники, которую люди буквально носят на себе.",
           "de": "Das ist ein gutes Beispiel fuer Alltagstechnik, die Menschen buchstaeblich am Koerper tragen.",
-          "en": "It is a good example of everyday technology that people literally wear."
+          "en": "It is a good example of everyday technology that people literally wear.",
+          "fr": "C'est un bon exemple de technique quotidienne que les gens portent littéralement sur eux.",
+          "es": "Es un buen ejemplo de tecnología cotidiana que las personas literalmente llevan puesta.",
+          "it": "È un buon esempio di tecnologia quotidiana che le persone indossano letteralmente.",
+          "pt": "É um bom exemplo de tecnologia cotidiana que as pessoas literalmente vestem.",
+          "nl": "Het is een goed voorbeeld van alledaagse technologie die mensen letterlijk dragen.",
+          "pl": "To dobry przykład codziennej techniki, którą ludzie dosłownie noszą na sobie.",
+          "tr": "Bu, insanların kelimenin tam anlamıyla üzerlerinde taşıdığı gündelik teknolojiye iyi bir örnektir.",
+          "zh": "这是人们真正穿在身上的日常技术的好例子。",
+          "ja": "これは、人々が文字どおり身につける日常技術のよい例である。",
+          "ko": "이는 사람들이 말 그대로 몸에 착용하는 일상 기술의 좋은 예이다.",
+          "hi": "यह रोजमर्रा की तकनीक का अच्छा उदाहरण है जिसे लोग सचमुच अपने शरीर पर पहनते हैं।",
+          "ar": "إنه مثال جيد على تقنية يومية يرتديها الناس حرفيا على أجسادهم."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Название adidas образовано из имени Adi Dassler.",
     "de": "Der Name adidas entstand aus Adi Dassler.",
-    "en": "The name adidas was formed from Adi Dassler."
+    "en": "The name adidas was formed from Adi Dassler.",
+    "fr": "Le nom adidas vient de Adi Dassler.",
+    "es": "El nombre adidas se formó a partir de Adi Dassler.",
+    "it": "Il nome adidas deriva da Adi Dassler.",
+    "pt": "O nome adidas foi formado a partir de Adi Dassler.",
+    "nl": "De naam adidas is gevormd uit Adi Dassler.",
+    "pl": "Nazwa adidas powstała od imienia Adi Dassler.",
+    "tr": "adidas adı Adi Dassler'dan oluşturuldu.",
+    "zh": "adidas这个名字由Adi Dassler组成。",
+    "ja": "adidasという名前はAdi Dasslerから作られた。",
+    "ko": "adidas라는 이름은 Adi Dassler에서 만들어졌다.",
+    "hi": "adidas नाम Adi Dassler से बना है।",
+    "ar": "تكوّن اسم adidas من Adi Dassler."
   },
   "sources": [
     {

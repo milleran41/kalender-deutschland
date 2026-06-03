@@ -11,17 +11,53 @@
     "title": {
       "ru": "У Берлинской стены погиб Петер Фехтер",
       "de": "Peter Fechter stirbt an der Berliner Mauer",
-      "en": "Peter Fechter dies at the Berlin Wall"
+      "en": "Peter Fechter dies at the Berlin Wall",
+      "fr": "Peter Fechter meurt au mur de Berlin",
+      "es": "Peter Fechter muere junto al Muro de Berlín",
+      "it": "Peter Fechter muore presso il Muro di Berlino",
+      "pt": "Peter Fechter morre junto ao Muro de Berlim",
+      "nl": "Peter Fechter sterft bij de Berlijnse Muur",
+      "pl": "Peter Fechter ginie przy Murze Berlińskim",
+      "tr": "Peter Fechter Berlin Duvarı'nda ölür",
+      "zh": "彼得·费希特死于柏林墙旁",
+      "ja": "ペーター・フェヒターがベルリンの壁で死亡",
+      "ko": "페터 페히터가 베를린 장벽에서 사망하다",
+      "hi": "पीटर फेख्टर बर्लिन दीवार के पास मारे गए",
+      "ar": "وفاة بيتر فيشتر عند جدار برلين"
     },
     "description": {
       "ru": "17 августа 1962 года 18-летний Петер Фехтер был смертельно ранен при попытке бежать из Восточного Берлина. Он стал одной из самых известных жертв Берлинской стены.",
       "de": "Am 17. August 1962 wurde der 18-jaehrige Peter Fechter bei einem Fluchtversuch aus Ost-Berlin tödlich verletzt. Er wurde zu einem der bekanntesten Opfer der Berliner Mauer.",
-      "en": "On 17 August 1962, 18-year-old Peter Fechter was fatally wounded while trying to escape from East Berlin. He became one of the best-known victims of the Berlin Wall."
+      "en": "On 17 August 1962, 18-year-old Peter Fechter was fatally wounded while trying to escape from East Berlin. He became one of the best-known victims of the Berlin Wall.",
+      "fr": "Le 17 août 1962, Peter Fechter, âgé de 18 ans, fut mortellement blessé en tentant de fuir Berlin-Est. Il devint l'une des victimes les plus connues du mur de Berlin.",
+      "es": "El 17 de agosto de 1962, Peter Fechter, de 18 años, fue herido mortalmente al intentar escapar de Berlín Oriental. Se convirtió en una de las víctimas más conocidas del Muro de Berlín.",
+      "it": "Il 17 agosto 1962 il diciottenne Peter Fechter fu ferito mortalmente mentre tentava di fuggire da Berlino Est. Divenne una delle vittime più note del Muro di Berlino.",
+      "pt": "Em 17 de agosto de 1962, Peter Fechter, de 18 anos, foi mortalmente ferido ao tentar fugir de Berlim Oriental. Ele se tornou uma das vítimas mais conhecidas do Muro de Berlim.",
+      "nl": "Op 17 augustus 1962 raakte de 18-jarige Peter Fechter dodelijk gewond toen hij uit Oost-Berlijn probeerde te vluchten. Hij werd een van de bekendste slachtoffers van de Berlijnse Muur.",
+      "pl": "17 sierpnia 1962 roku 18-letni Peter Fechter został śmiertelnie ranny podczas próby ucieczki z Berlina Wschodniego. Stał się jedną z najbardziej znanych ofiar Muru Berlińskiego.",
+      "tr": "17 Ağustos 1962'de 18 yaşındaki Peter Fechter Doğu Berlin'den kaçmaya çalışırken ölümcül şekilde yaralandı. Berlin Duvarı'nın en bilinen kurbanlarından biri oldu.",
+      "zh": "1962年8月17日，18岁的彼得·费希特在试图逃离东柏林时受到致命枪伤。他成为柏林墙最著名的遇难者之一。",
+      "ja": "1962年8月17日、18歳のペーター・フェヒターは東ベルリンから逃れようとして致命傷を負った。彼はベルリンの壁の最もよく知られた犠牲者の一人となった。",
+      "ko": "1962년 8월 17일, 18세의 페터 페히터는 동베를린에서 탈출하려다 치명상을 입었다. 그는 베를린 장벽의 가장 잘 알려진 희생자 중 한 명이 되었다.",
+      "hi": "17 अगस्त 1962 को 18 वर्षीय पीटर फेख्टर पूर्वी बर्लिन से भागने की कोशिश करते समय घातक रूप से घायल हुए। वे बर्लिन दीवार के सबसे प्रसिद्ध पीड़ितों में से एक बन गए।",
+      "ar": "في 17 أغسطس 1962 أُصيب بيتر فيشتر البالغ 18 عاما إصابة قاتلة أثناء محاولته الهرب من برلين الشرقية. وأصبح أحد أشهر ضحايا جدار برلين."
     },
     "importance": {
       "ru": "Его смерть показала миру человеческую цену разделения Германии.",
       "de": "Sein Tod zeigte der Welt den menschlichen Preis der deutschen Teilung.",
-      "en": "His death showed the world the human cost of German division."
+      "en": "His death showed the world the human cost of German division.",
+      "fr": "Sa mort montra au monde le prix humain de la division allemande.",
+      "es": "Su muerte mostró al mundo el coste humano de la división alemana.",
+      "it": "La sua morte mostrò al mondo il prezzo umano della divisione tedesca.",
+      "pt": "Sua morte mostrou ao mundo o custo humano da divisão alemã.",
+      "nl": "Zijn dood liet de wereld de menselijke prijs van de Duitse deling zien.",
+      "pl": "Jego śmierć pokazała światu ludzką cenę podziału Niemiec.",
+      "tr": "Onun ölümü dünyaya Almanya'nın bölünmesinin insani bedelini gösterdi.",
+      "zh": "他的死亡向世界展示了德国分裂的人类代价。",
+      "ja": "彼の死は、ドイツ分断の人間的代償を世界に示した。",
+      "ko": "그의 죽음은 독일 분단의 인간적 대가를 세계에 보여 주었다.",
+      "hi": "उनकी मृत्यु ने दुनिया को जर्मनी के विभाजन की मानवीय कीमत दिखाई।",
+      "ar": "أظهر موته للعالم الثمن الإنساني لتقسيم ألمانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Жертвы стены",
           "de": "Opfer der Mauer",
-          "en": "Victims of the Wall"
+          "en": "Victims of the Wall",
+          "fr": "Victimes du Mur",
+          "es": "Víctimas del Muro",
+          "it": "Vittime del Muro",
+          "pt": "Vítimas do Muro",
+          "nl": "Slachtoffers van de Muur",
+          "pl": "Ofiary muru",
+          "tr": "Duvarın kurbanları",
+          "zh": "柏林墙的遇难者",
+          "ja": "壁の犠牲者",
+          "ko": "장벽의 희생자들",
+          "hi": "दीवार के पीड़ित",
+          "ar": "ضحايا الجدار"
         },
         "description": {
           "ru": "Берлинская стена была не только бетонной границей, но и системой запретов, охраны и риска смерти. Истории отдельных людей делают это особенно ясно.",
           "de": "Die Berliner Mauer war nicht nur eine Betongrenze, sondern ein System von Verboten, Bewachung und Todesgefahr. Einzelne Biografien machen das besonders deutlich.",
-          "en": "The Berlin Wall was not only a concrete border but a system of bans, guards and deadly risk. Individual stories make that especially clear."
+          "en": "The Berlin Wall was not only a concrete border but a system of bans, guards and deadly risk. Individual stories make that especially clear.",
+          "fr": "Le mur de Berlin n'était pas seulement une frontière de béton, mais un système d'interdictions, de surveillance et de danger mortel. Les histoires individuelles le rendent particulièrement clair.",
+          "es": "El Muro de Berlín no era solo una frontera de hormigón, sino un sistema de prohibiciones, vigilancia y riesgo de muerte. Las historias individuales lo muestran con especial claridad.",
+          "it": "Il Muro di Berlino non era solo un confine di cemento, ma un sistema di divieti, sorveglianza e rischio di morte. Le storie individuali lo rendono particolarmente chiaro.",
+          "pt": "O Muro de Berlim não era apenas uma fronteira de concreto, mas um sistema de proibições, vigilância e risco de morte. Histórias individuais deixam isso especialmente claro.",
+          "nl": "De Berlijnse Muur was niet alleen een betonnen grens, maar een systeem van verboden, bewaking en dodelijk risico. Individuele verhalen maken dat bijzonder duidelijk.",
+          "pl": "Mur Berliński był nie tylko betonową granicą, lecz także systemem zakazów, straży i śmiertelnego ryzyka. Historie pojedynczych ludzi pokazują to szczególnie wyraźnie.",
+          "tr": "Berlin Duvarı yalnızca beton bir sınır değil, yasaklar, gözetim ve ölüm riski sistemiydi. Tek tek insanların hikayeleri bunu özellikle açık gösterir.",
+          "zh": "柏林墙不仅是一道混凝土边界，也是禁令、守卫和死亡风险构成的系统。个体故事让这一点格外清楚。",
+          "ja": "ベルリンの壁は単なるコンクリートの境界ではなく、禁止、監視、死の危険からなるシステムだった。個人の物語はそのことを特にはっきり示している。",
+          "ko": "베를린 장벽은 단순한 콘크리트 경계가 아니라 금지, 감시, 죽음의 위험으로 이루어진 체계였다. 개인들의 이야기는 이를 특히 분명하게 보여 준다.",
+          "hi": "बर्लिन दीवार केवल कंक्रीट की सीमा नहीं थी, बल्कि प्रतिबंधों, पहरे और मृत्यु-जोखिम की व्यवस्था थी। अलग-अलग लोगों की कहानियां इसे विशेष रूप से स्पष्ट करती हैं।",
+          "ar": "لم يكن جدار برلين حدودا خرسانية فقط، بل كان نظاما من الحظر والحراسة وخطر الموت. وتجعل قصص الأفراد ذلك واضحا بشكل خاص."
         },
         "importance": {
           "ru": "История Фехтера помогает понять, почему падение стены в 1989 году воспринималось так эмоционально.",
           "de": "Fechters Geschichte hilft zu verstehen, warum der Mauerfall 1989 so emotional erlebt wurde.",
-          "en": "Fechter's story helps explain why the fall of the Wall in 1989 was felt so emotionally."
+          "en": "Fechter's story helps explain why the fall of the Wall in 1989 was felt so emotionally.",
+          "fr": "L'histoire de Fechter aide à comprendre pourquoi la chute du Mur en 1989 fut vécue avec tant d'émotion.",
+          "es": "La historia de Fechter ayuda a entender por qué la caída del Muro en 1989 se vivió con tanta emoción.",
+          "it": "La storia di Fechter aiuta a capire perché la caduta del Muro nel 1989 fu vissuta con tanta emozione.",
+          "pt": "A história de Fechter ajuda a entender por que a queda do Muro em 1989 foi sentida com tanta emoção.",
+          "nl": "Fechters verhaal helpt verklaren waarom de val van de Muur in 1989 zo emotioneel werd beleefd.",
+          "pl": "Historia Fechtera pomaga zrozumieć, dlaczego upadek muru w 1989 roku przeżywano tak emocjonalnie.",
+          "tr": "Fechter'in hikayesi, Duvar'ın 1989'da yıkılışının neden bu kadar duygusal yaşandığını anlamaya yardımcı olur.",
+          "zh": "费希特的故事有助于解释为什么1989年柏林墙倒塌会带来如此强烈的情感。",
+          "ja": "フェヒターの物語は、1989年の壁崩壊がなぜあれほど感情的に受け止められたのかを理解する助けになる。",
+          "ko": "페히터의 이야기는 1989년 장벽 붕괴가 왜 그렇게 감정적으로 받아들여졌는지 설명하는 데 도움이 된다.",
+          "hi": "फेख्टर की कहानी समझने में मदद करती है कि 1989 में दीवार गिरने को लोग इतनी भावनात्मक तरह से क्यों महसूस करते थे।",
+          "ar": "تساعد قصة فيشتر على فهم سبب الإحساس العاطفي الشديد بسقوط الجدار عام 1989."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Петер Фехтер умер у стены на глазах у людей по обе стороны границы.",
     "de": "Peter Fechter starb an der Mauer vor den Augen von Menschen auf beiden Seiten der Grenze.",
-    "en": "Peter Fechter died at the Wall in view of people on both sides of the border."
+    "en": "Peter Fechter died at the Wall in view of people on both sides of the border.",
+    "fr": "Peter Fechter mourut au Mur sous les yeux de personnes des deux côtés de la frontière.",
+    "es": "Peter Fechter murió junto al Muro ante la mirada de personas a ambos lados de la frontera.",
+    "it": "Peter Fechter morì presso il Muro sotto gli occhi di persone su entrambi i lati del confine.",
+    "pt": "Peter Fechter morreu junto ao Muro diante de pessoas dos dois lados da fronteira.",
+    "nl": "Peter Fechter stierf bij de Muur voor de ogen van mensen aan beide kanten van de grens.",
+    "pl": "Peter Fechter zmarł przy murze na oczach ludzi po obu stronach granicy.",
+    "tr": "Peter Fechter sınırın iki tarafındaki insanların gözleri önünde Duvar'da öldü.",
+    "zh": "彼得·费希特死在墙边，边界两侧的人都看到了这一幕。",
+    "ja": "ペーター・フェヒターは国境の両側の人々が見守る中、壁のそばで亡くなった。",
+    "ko": "페터 페히터는 국경 양쪽 사람들의 눈앞에서 장벽 곁에서 죽었다.",
+    "hi": "पीटर फेख्टर सीमा के दोनों ओर खड़े लोगों की आंखों के सामने दीवार के पास मरे।",
+    "ar": "مات بيتر فيشتر عند الجدار أمام أعين الناس على جانبي الحدود."
   },
   "sources": [
     {
