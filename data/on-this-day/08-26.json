@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открылись Олимпийские игры в Мюнхене",
       "de": "Die Olympischen Spiele in Muenchen werden eroeffnet",
-      "en": "The Munich Olympic Games open"
+      "en": "The Munich Olympic Games open",
+      "fr": "Les Jeux olympiques de Munich s'ouvrent",
+      "es": "Se inauguran los Juegos Olímpicos de Múnich",
+      "it": "Si aprono i Giochi olimpici di Monaco",
+      "pt": "Os Jogos Olímpicos de Munique são abertos",
+      "nl": "De Olympische Spelen in München worden geopend",
+      "pl": "Otwarto igrzyska olimpijskie w Monachium",
+      "tr": "Münih Olimpiyat Oyunları açıldı",
+      "zh": "慕尼黑奥运会开幕",
+      "ja": "ミュンヘン・オリンピックが開幕する",
+      "ko": "뮌헨 올림픽이 개막하다",
+      "hi": "म्यूनिख ओलंपिक खेल शुरू हुए",
+      "ar": "افتتاح الألعاب الأولمبية في ميونيخ"
     },
     "description": {
       "ru": "26 августа 1972 года в Мюнхене открылись летние Олимпийские игры. ФРГ хотела показать миру современную, мирную и демократическую Германию.",
       "de": "Am 26. August 1972 wurden in Muenchen die Olympischen Sommerspiele eroeffnet. Die Bundesrepublik wollte der Welt ein modernes, friedliches und demokratisches Deutschland zeigen.",
-      "en": "On 26 August 1972, the Summer Olympic Games opened in Munich. West Germany wanted to show the world a modern, peaceful and democratic Germany."
+      "en": "On 26 August 1972, the Summer Olympic Games opened in Munich. West Germany wanted to show the world a modern, peaceful and democratic Germany.",
+      "fr": "Le 26 août 1972, les Jeux olympiques d'été s'ouvrirent à Munich. La République fédérale voulait montrer au monde une Allemagne moderne, pacifique et démocratique.",
+      "es": "El 26 de agosto de 1972 se inauguraron en Múnich los Juegos Olímpicos de verano. La República Federal quería mostrar al mundo una Alemania moderna, pacífica y democrática.",
+      "it": "Il 26 agosto 1972 si aprirono a Monaco i Giochi olimpici estivi. La Germania Ovest voleva mostrare al mondo una Germania moderna, pacifica e democratica.",
+      "pt": "Em 26 de agosto de 1972, os Jogos Olímpicos de Verão foram abertos em Munique. A Alemanha Ocidental queria mostrar ao mundo uma Alemanha moderna, pacífica e democrática.",
+      "nl": "Op 26 augustus 1972 werden in München de Olympische Zomerspelen geopend. West-Duitsland wilde de wereld een modern, vreedzaam en democratisch Duitsland laten zien.",
+      "pl": "26 sierpnia 1972 roku w Monachium otwarto letnie igrzyska olimpijskie. RFN chciała pokazać światu nowoczesne, pokojowe i demokratyczne Niemcy.",
+      "tr": "26 Ağustos 1972'de Münih'te Yaz Olimpiyat Oyunları açıldı. Batı Almanya dünyaya modern, barışçıl ve demokratik bir Almanya göstermek istiyordu.",
+      "zh": "1972年8月26日，夏季奥运会在慕尼黑开幕。西德希望向世界展示一个现代、和平、民主的德国。",
+      "ja": "1972年8月26日、ミュンヘンで夏季オリンピックが開幕しました。西ドイツは、近代的で平和的、民主的なドイツを世界に示そうとしました。",
+      "ko": "1972년 8월 26일 뮌헨에서 하계 올림픽이 개막했습니다. 서독은 현대적이고 평화적이며 민주적인 독일을 세계에 보여 주고자 했습니다.",
+      "hi": "26 अगस्त 1972 को म्यूनिख में ग्रीष्मकालीन ओलंपिक खेल शुरू हुए। पश्चिम जर्मनी दुनिया को आधुनिक, शांतिपूर्ण और लोकतांत्रिक जर्मनी दिखाना चाहता था।",
+      "ar": "في 26 أغسطس 1972 افتُتحت الألعاب الأولمبية الصيفية في ميونيخ. أرادت ألمانيا الغربية أن تُظهر للعالم ألمانيا حديثة وسلمية وديمقراطية."
     },
     "importance": {
       "ru": "Игры стали важным моментом послевоенного образа Германии, но позже были омрачены терактом 5 сентября.",
       "de": "Die Spiele waren ein wichtiger Moment fuer das Nachkriegsbild Deutschlands, wurden aber spaeter durch das Attentat vom 5. September ueberschattet.",
-      "en": "The Games were an important moment in Germany's postwar image, but were later overshadowed by the attack of 5 September."
+      "en": "The Games were an important moment in Germany's postwar image, but were later overshadowed by the attack of 5 September.",
+      "fr": "Les Jeux furent un moment important pour l'image de l'Allemagne d'après-guerre, mais ils furent ensuite assombris par l'attentat du 5 septembre.",
+      "es": "Los Juegos fueron un momento importante para la imagen de la Alemania de posguerra, pero después quedaron ensombrecidos por el atentado del 5 de septiembre.",
+      "it": "I Giochi furono un momento importante per l'immagine della Germania del dopoguerra, ma furono poi oscurati dall'attentato del 5 settembre.",
+      "pt": "Os Jogos foram um momento importante para a imagem da Alemanha do pós-guerra, mas depois foram ofuscados pelo ataque de 5 de setembro.",
+      "nl": "De Spelen waren een belangrijk moment voor het naoorlogse beeld van Duitsland, maar werden later overschaduwd door de aanslag van 5 september.",
+      "pl": "Igrzyska były ważnym momentem dla powojennego wizerunku Niemiec, lecz później zostały przyćmione przez zamach z 5 września.",
+      "tr": "Oyunlar, Almanya'nın savaş sonrası imajı için önemli bir andı; ancak daha sonra 5 Eylül saldırısının gölgesinde kaldı.",
+      "zh": "这届奥运会是德国战后形象的重要时刻，但后来被9月5日的袭击事件所笼罩。",
+      "ja": "大会は戦後ドイツのイメージにとって重要な瞬間でしたが、後に9月5日の襲撃事件によって影を落とされました。",
+      "ko": "이 올림픽은 전후 독일의 이미지에 중요한 순간이었지만, 이후 9월 5일의 공격으로 그 빛이 가려졌습니다.",
+      "hi": "ये खेल युद्धोत्तर जर्मनी की छवि के लिए महत्वपूर्ण क्षण थे, लेकिन बाद में 5 सितंबर के हमले से उन पर छाया पड़ गई।",
+      "ar": "كانت الألعاب لحظة مهمة لصورة ألمانيا بعد الحرب، لكنها طغت عليها لاحقاً عملية 5 سبتمبر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Олимпийский парк",
           "de": "Olympiapark",
-          "en": "Olympic Park"
+          "en": "Olympic Park",
+          "fr": "Parc olympique",
+          "es": "Parque Olímpico",
+          "it": "Parco Olimpico",
+          "pt": "Parque Olímpico",
+          "nl": "Olympisch Park",
+          "pl": "Park Olimpijski",
+          "tr": "Olimpiyat Parkı",
+          "zh": "奥林匹克公园",
+          "ja": "オリンピック公園",
+          "ko": "올림픽 공원",
+          "hi": "ओलंपिक पार्क",
+          "ar": "الحديقة الأولمبية"
         },
         "description": {
           "ru": "Олимпийский парк и стадион стали заметной частью архитектуры Мюнхена. Их лёгкие конструкции должны были отличаться от тяжёлой символики прошлого.",
           "de": "Olympiapark und Stadion wurden zu markanten Teilen der Muenchner Architektur. Ihre leichten Formen sollten sich von schwerer Symbolik der Vergangenheit unterscheiden.",
-          "en": "The Olympic Park and stadium became striking parts of Munich's architecture. Their light forms were meant to contrast with the heavy symbolism of the past."
+          "en": "The Olympic Park and stadium became striking parts of Munich's architecture. Their light forms were meant to contrast with the heavy symbolism of the past.",
+          "fr": "Le parc olympique et le stade devinrent des éléments marquants de l'architecture munichoise. Leurs formes légères devaient contraster avec la lourde symbolique du passé.",
+          "es": "El Parque Olímpico y el estadio se convirtieron en partes destacadas de la arquitectura de Múnich. Sus formas ligeras debían contrastar con la pesada simbología del pasado.",
+          "it": "Il Parco Olimpico e lo stadio divennero elementi notevoli dell'architettura di Monaco. Le loro forme leggere dovevano contrastare con la pesante simbologia del passato.",
+          "pt": "O Parque Olímpico e o estádio tornaram-se partes marcantes da arquitetura de Munique. Suas formas leves deveriam contrastar com a simbologia pesada do passado.",
+          "nl": "Het Olympisch Park en het stadion werden opvallende onderdelen van de architectuur van München. Hun lichte vormen moesten contrasteren met de zware symboliek van het verleden.",
+          "pl": "Park Olimpijski i stadion stały się wyrazistą częścią architektury Monachium. Ich lekkie formy miały odróżniać się od ciężkiej symboliki przeszłości.",
+          "tr": "Olimpiyat Parkı ve stadyum Münih mimarisinin dikkat çekici parçaları oldu. Hafif formları, geçmişin ağır sembolizminden ayrılmak için tasarlanmıştı.",
+          "zh": "奥林匹克公园和体育场成为慕尼黑建筑中醒目的组成部分。它们轻盈的形式意在与过去沉重的象征形成对比。",
+          "ja": "オリンピック公園とスタジアムは、ミュンヘン建築の目立つ一部となりました。その軽やかな形は、過去の重い象徴性と対照をなすことを意図していました。",
+          "ko": "올림픽 공원과 경기장은 뮌헨 건축의 눈에 띄는 일부가 되었습니다. 가벼운 형태는 과거의 무거운 상징성과 대비되도록 의도되었습니다.",
+          "hi": "ओलंपिक पार्क और स्टेडियम म्यूनिख की वास्तुकला का प्रमुख हिस्सा बन गए। उनकी हल्की बनावट अतीत की भारी प्रतीकात्मकता से अलग दिखाने के लिए बनाई गई थी।",
+          "ar": "أصبح المنتزه الأولمبي والملعب جزءين بارزين من عمارة ميونيخ. وكان المقصود من أشكالهما الخفيفة أن تتباين مع رمزية الماضي الثقيلة."
         },
         "importance": {
           "ru": "Спорт здесь связан с дизайном, политикой памяти и образом страны.",
           "de": "Sport verbindet sich hier mit Design, Erinnerungspolitik und dem Bild des Landes.",
-          "en": "Here sport is connected with design, memory politics and the country's image."
+          "en": "Here sport is connected with design, memory politics and the country's image.",
+          "fr": "Ici, le sport est lié au design, à la politique de mémoire et à l'image du pays.",
+          "es": "Aquí el deporte se conecta con el diseño, la política de la memoria y la imagen del país.",
+          "it": "Qui lo sport si collega al design, alla politica della memoria e all'immagine del paese.",
+          "pt": "Aqui o esporte se liga ao design, à política da memória e à imagem do país.",
+          "nl": "Hier is sport verbonden met ontwerp, herinneringspolitiek en het beeld van het land.",
+          "pl": "Sport łączy się tu z designem, polityką pamięci i wizerunkiem kraju.",
+          "tr": "Burada spor tasarımla, hafıza politikasıyla ve ülkenin imajıyla bağlantılıdır.",
+          "zh": "在这里，体育与设计、记忆政治和国家形象联系在一起。",
+          "ja": "ここではスポーツがデザイン、記憶の政治、国のイメージと結びついています。",
+          "ko": "여기서 스포츠는 디자인, 기억 정치, 국가 이미지와 연결됩니다.",
+          "hi": "यहाँ खेल डिज़ाइन, स्मृति-राजनीति और देश की छवि से जुड़ता है।",
+          "ar": "هنا ترتبط الرياضة بالتصميم وسياسة الذاكرة وصورة البلد."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Мюнхенский Олимпийский парк до сих пор используется для концертов, спорта и городских событий.",
     "de": "Der Muenchner Olympiapark wird bis heute fuer Konzerte, Sport und Stadtveranstaltungen genutzt.",
-    "en": "Munich's Olympic Park is still used for concerts, sports and city events."
+    "en": "Munich's Olympic Park is still used for concerts, sports and city events.",
+    "fr": "Le parc olympique de Munich est encore utilisé pour des concerts, du sport et des événements urbains.",
+    "es": "El Parque Olímpico de Múnich todavía se utiliza para conciertos, deportes y eventos de la ciudad.",
+    "it": "Il Parco Olimpico di Monaco è ancora usato per concerti, sport ed eventi cittadini.",
+    "pt": "O Parque Olímpico de Munique ainda é usado para concertos, esportes e eventos da cidade.",
+    "nl": "Het Olympisch Park van München wordt nog steeds gebruikt voor concerten, sport en stadsevenementen.",
+    "pl": "Monachijski Park Olimpijski nadal służy koncertom, sportowi i wydarzeniom miejskim.",
+    "tr": "Münih Olimpiyat Parkı bugün hâlâ konserler, spor ve şehir etkinlikleri için kullanılıyor.",
+    "zh": "慕尼黑奥林匹克公园至今仍用于音乐会、体育和城市活动。",
+    "ja": "ミュンヘンのオリンピック公園は、現在もコンサート、スポーツ、都市イベントに使われています。",
+    "ko": "뮌헨 올림픽 공원은 지금도 콘서트, 스포츠, 도시 행사에 사용됩니다.",
+    "hi": "म्यूनिख का ओलंपिक पार्क आज भी संगीत कार्यक्रमों, खेल और शहर के आयोजनों के लिए उपयोग होता है।",
+    "ar": "ما زال المنتزه الأولمبي في ميونيخ يُستخدم للحفلات والرياضة وفعاليات المدينة."
   },
   "sources": [
     {

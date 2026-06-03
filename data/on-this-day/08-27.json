@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Георг Вильгельм Фридрих Гегель",
       "de": "Georg Wilhelm Friedrich Hegel wird geboren",
-      "en": "Georg Wilhelm Friedrich Hegel is born"
+      "en": "Georg Wilhelm Friedrich Hegel is born",
+      "fr": "Georg Wilhelm Friedrich Hegel naît",
+      "es": "Nace Georg Wilhelm Friedrich Hegel",
+      "it": "Nasce Georg Wilhelm Friedrich Hegel",
+      "pt": "Nasce Georg Wilhelm Friedrich Hegel",
+      "nl": "Georg Wilhelm Friedrich Hegel wordt geboren",
+      "pl": "Urodził się Georg Wilhelm Friedrich Hegel",
+      "tr": "Georg Wilhelm Friedrich Hegel doğdu",
+      "zh": "格奥尔格·威廉·弗里德里希·黑格尔诞生",
+      "ja": "ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲルが生まれる",
+      "ko": "게오르크 빌헬름 프리드리히 헤겔이 태어나다",
+      "hi": "जॉर्ज विल्हेल्म फ्रेडरिक हेगेल का जन्म हुआ",
+      "ar": "ولادة جورج فيلهلم فريدريش هيغل"
     },
     "description": {
       "ru": "27 августа 1770 года в Штутгарте родился философ Георг Вильгельм Фридрих Гегель. Он стал одной из крупнейших фигур немецкой классической философии.",
       "de": "Am 27. August 1770 wurde der Philosoph Georg Wilhelm Friedrich Hegel in Stuttgart geboren. Er wurde zu einer der wichtigsten Figuren der klassischen deutschen Philosophie.",
-      "en": "On 27 August 1770, philosopher Georg Wilhelm Friedrich Hegel was born in Stuttgart. He became one of the major figures of classical German philosophy."
+      "en": "On 27 August 1770, philosopher Georg Wilhelm Friedrich Hegel was born in Stuttgart. He became one of the major figures of classical German philosophy.",
+      "fr": "Le 27 août 1770, le philosophe Georg Wilhelm Friedrich Hegel naquit à Stuttgart. Il devint l'une des grandes figures de la philosophie classique allemande.",
+      "es": "El 27 de agosto de 1770 nació en Stuttgart el filósofo Georg Wilhelm Friedrich Hegel. Se convirtió en una de las grandes figuras de la filosofía clásica alemana.",
+      "it": "Il 27 agosto 1770 nacque a Stoccarda il filosofo Georg Wilhelm Friedrich Hegel. Divenne una delle figure principali della filosofia classica tedesca.",
+      "pt": "Em 27 de agosto de 1770, o filósofo Georg Wilhelm Friedrich Hegel nasceu em Stuttgart. Ele se tornou uma das grandes figuras da filosofia clássica alemã.",
+      "nl": "Op 27 augustus 1770 werd filosoof Georg Wilhelm Friedrich Hegel in Stuttgart geboren. Hij werd een van de belangrijkste figuren van de klassieke Duitse filosofie.",
+      "pl": "27 sierpnia 1770 roku w Stuttgarcie urodził się filozof Georg Wilhelm Friedrich Hegel. Stał się jedną z najważniejszych postaci niemieckiej filozofii klasycznej.",
+      "tr": "27 Ağustos 1770'te filozof Georg Wilhelm Friedrich Hegel Stuttgart'ta doğdu. Alman klasik felsefesinin en büyük isimlerinden biri oldu.",
+      "zh": "1770年8月27日，哲学家格奥尔格·威廉·弗里德里希·黑格尔出生于斯图加特。他成为德国古典哲学的重要人物之一。",
+      "ja": "1770年8月27日、哲学者ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲルがシュトゥットガルトで生まれました。彼はドイツ古典哲学の主要人物の一人となりました。",
+      "ko": "1770년 8월 27일 철학자 게오르크 빌헬름 프리드리히 헤겔이 슈투트가르트에서 태어났습니다. 그는 독일 고전 철학의 주요 인물 중 한 명이 되었습니다.",
+      "hi": "27 अगस्त 1770 को दार्शनिक जॉर्ज विल्हेल्म फ्रेडरिक हेगेल का जन्म स्टुटगार्ट में हुआ। वे जर्मन शास्त्रीय दर्शन की प्रमुख हस्तियों में से एक बने।",
+      "ar": "في 27 أغسطس 1770 وُلد الفيلسوف جورج فيلهلم فريدريش هيغل في شتوتغارت. وأصبح من أهم شخصيات الفلسفة الألمانية الكلاسيكية."
     },
     "importance": {
       "ru": "Идеи Гегеля сильно повлияли на философию, историю, политику и гуманитарные науки XIX и XX веков.",
       "de": "Hegels Ideen beeinflussten Philosophie, Geschichte, Politik und Geisteswissenschaften des 19. und 20. Jahrhunderts stark.",
-      "en": "Hegel's ideas strongly influenced philosophy, history, politics and the humanities in the 19th and 20th centuries."
+      "en": "Hegel's ideas strongly influenced philosophy, history, politics and the humanities in the 19th and 20th centuries.",
+      "fr": "Les idées de Hegel influencèrent fortement la philosophie, l'histoire, la politique et les sciences humaines aux XIXe et XXe siècles.",
+      "es": "Las ideas de Hegel influyeron mucho en la filosofía, la historia, la política y las humanidades de los siglos XIX y XX.",
+      "it": "Le idee di Hegel influenzarono profondamente filosofia, storia, politica e scienze umane nei secoli XIX e XX.",
+      "pt": "As ideias de Hegel influenciaram fortemente a filosofia, a história, a política e as humanidades nos séculos XIX e XX.",
+      "nl": "Hegels ideeën hadden grote invloed op filosofie, geschiedenis, politiek en geesteswetenschappen in de 19e en 20e eeuw.",
+      "pl": "Idee Hegla silnie wpłynęły na filozofię, historię, politykę i nauki humanistyczne XIX i XX wieku.",
+      "tr": "Hegel'in fikirleri 19. ve 20. yüzyıllarda felsefeyi, tarihi, siyaseti ve beşeri bilimleri güçlü biçimde etkiledi.",
+      "zh": "黑格尔的思想深刻影响了19世纪和20世纪的哲学、历史、政治与人文学科。",
+      "ja": "ヘーゲルの思想は、19世紀と20世紀の哲学、歴史、政治、人文学に大きな影響を与えました。",
+      "ko": "헤겔의 사상은 19세기와 20세기의 철학, 역사, 정치, 인문학에 큰 영향을 주었습니다.",
+      "hi": "हेगेल के विचारों ने 19वीं और 20वीं सदी के दर्शन, इतिहास, राजनीति और मानविकी पर गहरा प्रभाव डाला।",
+      "ar": "أثرت أفكار هيغل بقوة في الفلسفة والتاريخ والسياسة والعلوم الإنسانية في القرنين التاسع عشر والعشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Философ из Штутгарта",
           "de": "Philosoph aus Stuttgart",
-          "en": "Philosopher from Stuttgart"
+          "en": "Philosopher from Stuttgart",
+          "fr": "Un philosophe de Stuttgart",
+          "es": "Filósofo de Stuttgart",
+          "it": "Filosofo di Stoccarda",
+          "pt": "Filósofo de Stuttgart",
+          "nl": "Filosoof uit Stuttgart",
+          "pl": "Filozof ze Stuttgartu",
+          "tr": "Stuttgartlı filozof",
+          "zh": "来自斯图加特的哲学家",
+          "ja": "シュトゥットガルト出身の哲学者",
+          "ko": "슈투트가르트 출신 철학자",
+          "hi": "स्टुटगार्ट के दार्शनिक",
+          "ar": "فيلسوف من شتوتغارت"
         },
         "description": {
           "ru": "Гегель вырос в Вюртемберге, учился в Тюбингене и позже работал в нескольких немецких городах. Его путь показывает роль университетов и княжеских столиц в интеллектуальной жизни Германии.",
           "de": "Hegel wuchs in Wuerttemberg auf, studierte in Tuebingen und arbeitete spaeter in mehreren deutschen Staedten. Sein Weg zeigt die Rolle von Universitaeten und Residenzstaedten im geistigen Leben Deutschlands.",
-          "en": "Hegel grew up in Wuerttemberg, studied in Tuebingen and later worked in several German cities. His path shows the role of universities and princely capitals in Germany's intellectual life."
+          "en": "Hegel grew up in Wuerttemberg, studied in Tuebingen and later worked in several German cities. His path shows the role of universities and princely capitals in Germany's intellectual life.",
+          "fr": "Hegel grandit dans le Wurtemberg, étudia à Tübingen et travailla plus tard dans plusieurs villes allemandes. Son parcours montre le rôle des universités et des capitales princières dans la vie intellectuelle allemande.",
+          "es": "Hegel creció en Wurtemberg, estudió en Tubinga y más tarde trabajó en varias ciudades alemanas. Su trayectoria muestra el papel de las universidades y las capitales principescas en la vida intelectual de Alemania.",
+          "it": "Hegel crebbe nel Württemberg, studiò a Tubinga e in seguito lavorò in diverse città tedesche. Il suo percorso mostra il ruolo delle università e delle capitali principesche nella vita intellettuale della Germania.",
+          "pt": "Hegel cresceu em Württemberg, estudou em Tübingen e depois trabalhou em várias cidades alemãs. Seu percurso mostra o papel das universidades e das capitais principescas na vida intelectual da Alemanha.",
+          "nl": "Hegel groeide op in Württemberg, studeerde in Tübingen en werkte later in meerdere Duitse steden. Zijn levensweg toont de rol van universiteiten en vorstelijke hoofdsteden in het intellectuele leven van Duitsland.",
+          "pl": "Hegel dorastał w Wirtembergii, studiował w Tybindze, a później pracował w kilku niemieckich miastach. Jego droga pokazuje rolę uniwersytetów i książęcych stolic w życiu intelektualnym Niemiec.",
+          "tr": "Hegel Württemberg'de büyüdü, Tübingen'de okudu ve daha sonra birkaç Alman şehrinde çalıştı. Yaşam yolu, Almanya'nın entelektüel hayatında üniversitelerin ve prenslik başkentlerinin rolünü gösterir.",
+          "zh": "黑格尔在符腾堡长大，在图宾根学习，后来在几座德国城市工作。他的人生道路显示了大学和诸侯都城在德国思想生活中的作用。",
+          "ja": "ヘーゲルはヴュルテンベルクで育ち、テュービンゲンで学び、その後いくつかのドイツ都市で働きました。彼の歩みは、大学と領邦首都がドイツの知的生活で果たした役割を示しています。",
+          "ko": "헤겔은 뷔르템베르크에서 자랐고 튀빙겐에서 공부했으며, 이후 여러 독일 도시에서 일했습니다. 그의 길은 독일 지적 생활에서 대학과 제후 도시의 역할을 보여 줍니다.",
+          "hi": "हेगेल वुर्टेम्बर्ग में पले, ट्यूबिंगन में पढ़े और बाद में कई जर्मन शहरों में काम किया। उनका जीवन जर्मनी के बौद्धिक जीवन में विश्वविद्यालयों और राजकीय राजधानियों की भूमिका दिखाता है।",
+          "ar": "نشأ هيغل في فورتمبيرغ ودرس في توبنغن، ثم عمل لاحقاً في عدة مدن ألمانية. يوضح مساره دور الجامعات والعواصم الأميرية في الحياة الفكرية الألمانية."
         },
         "importance": {
           "ru": "Через его биографию видно, что немецкая культура складывалась не только в Берлине.",
           "de": "An seiner Biografie sieht man, dass deutsche Kultur nicht nur in Berlin entstand.",
-          "en": "His biography shows that German culture was not shaped only in Berlin."
+          "en": "His biography shows that German culture was not shaped only in Berlin.",
+          "fr": "Sa biographie montre que la culture allemande ne s'est pas formée seulement à Berlin.",
+          "es": "Su biografía muestra que la cultura alemana no se formó solo en Berlín.",
+          "it": "La sua biografia mostra che la cultura tedesca non si formò solo a Berlino.",
+          "pt": "Sua biografia mostra que a cultura alemã não se formou apenas em Berlim.",
+          "nl": "Zijn biografie laat zien dat de Duitse cultuur niet alleen in Berlijn werd gevormd.",
+          "pl": "Jego biografia pokazuje, że kultura niemiecka kształtowała się nie tylko w Berlinie.",
+          "tr": "Biyografisi, Alman kültürünün yalnızca Berlin'de şekillenmediğini gösterir.",
+          "zh": "他的传记说明，德国文化并不只是在柏林形成的。",
+          "ja": "彼の伝記は、ドイツ文化がベルリンだけで形成されたわけではないことを示しています。",
+          "ko": "그의 전기는 독일 문화가 베를린에서만 형성된 것이 아님을 보여 줍니다.",
+          "hi": "उनकी जीवनी दिखाती है कि जर्मन संस्कृति केवल बर्लिन में ही नहीं बनी।",
+          "ar": "تُظهر سيرته أن الثقافة الألمانية لم تتشكل في برلين وحدها."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "История как движение идей",
           "de": "Geschichte als Bewegung von Ideen",
-          "en": "History as the movement of ideas"
+          "en": "History as the movement of ideas",
+          "fr": "L'histoire comme mouvement des idées",
+          "es": "La historia como movimiento de ideas",
+          "it": "La storia come movimento delle idee",
+          "pt": "A história como movimento de ideias",
+          "nl": "Geschiedenis als beweging van ideeën",
+          "pl": "Historia jako ruch idei",
+          "tr": "Fikirlerin hareketi olarak tarih",
+          "zh": "作为观念运动的历史",
+          "ja": "理念の運動としての歴史",
+          "ko": "사상의 움직임으로서의 역사",
+          "hi": "विचारों की गति के रूप में इतिहास",
+          "ar": "التاريخ كحركة للأفكار"
         },
         "description": {
           "ru": "Гегель пытался объяснить развитие истории и мышления как сложный процесс противоречий и изменений. Его тексты трудные, но они сильно повлияли на то, как люди говорят о развитии общества.",
           "de": "Hegel versuchte, die Entwicklung von Geschichte und Denken als komplexen Prozess von Widerspruechen und Veraenderungen zu erklaeren. Seine Texte sind schwierig, praegten aber stark, wie Menschen ueber gesellschaftliche Entwicklung sprechen.",
-          "en": "Hegel tried to explain the development of history and thought as a complex process of contradictions and change. His texts are difficult, but they strongly shaped how people speak about social development."
+          "en": "Hegel tried to explain the development of history and thought as a complex process of contradictions and change. His texts are difficult, but they strongly shaped how people speak about social development.",
+          "fr": "Hegel tenta d'expliquer le développement de l'histoire et de la pensée comme un processus complexe de contradictions et de changements. Ses textes sont difficiles, mais ils ont fortement marqué la manière de parler du développement de la société.",
+          "es": "Hegel intentó explicar el desarrollo de la historia y del pensamiento como un proceso complejo de contradicciones y cambios. Sus textos son difíciles, pero influyeron mucho en la forma de hablar del desarrollo social.",
+          "it": "Hegel cercò di spiegare lo sviluppo della storia e del pensiero come un processo complesso di contraddizioni e cambiamenti. I suoi testi sono difficili, ma hanno influenzato molto il modo in cui si parla dello sviluppo della società.",
+          "pt": "Hegel tentou explicar o desenvolvimento da história e do pensamento como um processo complexo de contradições e mudanças. Seus textos são difíceis, mas influenciaram muito a forma como se fala do desenvolvimento da sociedade.",
+          "nl": "Hegel probeerde de ontwikkeling van geschiedenis en denken te verklaren als een complex proces van tegenstellingen en veranderingen. Zijn teksten zijn moeilijk, maar ze hebben sterk beïnvloed hoe mensen over maatschappelijke ontwikkeling spreken.",
+          "pl": "Hegel próbował wyjaśnić rozwój historii i myślenia jako złożony proces sprzeczności i zmian. Jego teksty są trudne, ale mocno wpłynęły na to, jak mówi się o rozwoju społeczeństwa.",
+          "tr": "Hegel, tarihin ve düşüncenin gelişimini çelişkiler ve değişimlerden oluşan karmaşık bir süreç olarak açıklamaya çalıştı. Metinleri zordur, ancak insanların toplumun gelişimi hakkında konuşma biçimini güçlü şekilde etkiledi.",
+          "zh": "黑格尔试图把历史和思想的发展解释为矛盾与变化交织的复杂过程。他的文本很难读，但深刻影响了人们谈论社会发展的方式。",
+          "ja": "ヘーゲルは、歴史と思考の発展を矛盾と変化からなる複雑な過程として説明しようとしました。彼の文章は難解ですが、社会の発展について語る方法に大きな影響を与えました。",
+          "ko": "헤겔은 역사와 사고의 발전을 모순과 변화의 복잡한 과정으로 설명하려 했습니다. 그의 글은 어렵지만, 사람들이 사회 발전을 말하는 방식에 큰 영향을 주었습니다.",
+          "hi": "हेगेल ने इतिहास और विचार के विकास को विरोधाभासों और बदलावों की जटिल प्रक्रिया के रूप में समझाने की कोशिश की। उनके पाठ कठिन हैं, लेकिन समाज के विकास पर लोगों की भाषा को उन्होंने बहुत प्रभावित किया।",
+          "ar": "حاول هيغل تفسير تطور التاريخ والفكر بوصفه عملية معقدة من التناقضات والتغيرات. نصوصه صعبة، لكنها أثرت بقوة في طريقة الحديث عن تطور المجتمع."
         },
         "importance": {
           "ru": "Это пример того, как философия может влиять далеко за пределами университетов.",
           "de": "Das ist ein Beispiel dafuer, wie Philosophie weit ueber Universitaeten hinaus wirken kann.",
-          "en": "It is an example of how philosophy can have an impact far beyond universities."
+          "en": "It is an example of how philosophy can have an impact far beyond universities.",
+          "fr": "C'est un exemple de la manière dont la philosophie peut agir bien au-delà des universités.",
+          "es": "Es un ejemplo de cómo la filosofía puede influir mucho más allá de las universidades.",
+          "it": "È un esempio di come la filosofia possa influire ben oltre le università.",
+          "pt": "É um exemplo de como a filosofia pode ter impacto muito além das universidades.",
+          "nl": "Het is een voorbeeld van hoe filosofie ver buiten universiteiten invloed kan hebben.",
+          "pl": "To przykład tego, jak filozofia może oddziaływać daleko poza uniwersytetami.",
+          "tr": "Bu, felsefenin üniversitelerin çok ötesinde etkili olabileceğine bir örnektir.",
+          "zh": "这是哲学能够远远超出大学范围产生影响的例子。",
+          "ja": "これは、哲学が大学の外にも広く影響を及ぼしうる例です。",
+          "ko": "이는 철학이 대학을 훨씬 넘어 영향을 미칠 수 있음을 보여 주는 예입니다.",
+          "hi": "यह उदाहरण है कि दर्शन विश्वविद्यालयों से बहुत आगे तक प्रभाव डाल सकता है।",
+          "ar": "هذا مثال على أن الفلسفة يمكن أن تؤثر بعيداً خارج الجامعات."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В Штутгарте сохранился дом-музей Гегеля, связанный с местом его рождения.",
     "de": "In Stuttgart gibt es ein Hegel-Haus, das mit seinem Geburtsort verbunden ist.",
-    "en": "Stuttgart has a Hegel House museum connected with his birthplace."
+    "en": "Stuttgart has a Hegel House museum connected with his birthplace.",
+    "fr": "Stuttgart possède une maison-musée Hegel liée à son lieu de naissance.",
+    "es": "Stuttgart tiene una casa-museo de Hegel vinculada con su lugar de nacimiento.",
+    "it": "A Stoccarda c'è una casa-museo di Hegel collegata al suo luogo di nascita.",
+    "pt": "Stuttgart tem uma casa-museu de Hegel ligada ao seu local de nascimento.",
+    "nl": "Stuttgart heeft een Hegel-Huis, een museum dat met zijn geboorteplaats is verbonden.",
+    "pl": "W Stuttgarcie znajduje się dom-muzeum Hegla związany z miejscem jego urodzenia.",
+    "tr": "Stuttgart'ta Hegel'in doğum yeriyle bağlantılı bir Hegel Evi müzesi vardır.",
+    "zh": "斯图加特有一座与黑格尔出生地相关的黑格尔故居博物馆。",
+    "ja": "シュトゥットガルトには、ヘーゲルの生誕地に関わるヘーゲル・ハウス博物館があります。",
+    "ko": "슈투트가르트에는 그의 출생지와 관련된 헤겔 하우스 박물관이 있습니다.",
+    "hi": "स्टुटगार्ट में हेगेल हाउस संग्रहालय है, जो उनके जन्मस्थान से जुड़ा है।",
+    "ar": "في شتوتغارت يوجد متحف بيت هيغل المرتبط بمكان ولادته."
   },
   "sources": [
     {

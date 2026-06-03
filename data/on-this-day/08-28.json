@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Иоганн Вольфганг Гёте",
       "de": "Johann Wolfgang von Goethe wird geboren",
-      "en": "Johann Wolfgang von Goethe is born"
+      "en": "Johann Wolfgang von Goethe is born",
+      "fr": "Johann Wolfgang von Goethe naît",
+      "es": "Nace Johann Wolfgang von Goethe",
+      "it": "Nasce Johann Wolfgang von Goethe",
+      "pt": "Nasce Johann Wolfgang von Goethe",
+      "nl": "Johann Wolfgang von Goethe wordt geboren",
+      "pl": "Urodził się Johann Wolfgang von Goethe",
+      "tr": "Johann Wolfgang von Goethe doğdu",
+      "zh": "约翰·沃尔夫冈·冯·歌德诞生",
+      "ja": "ヨハン・ヴォルフガング・フォン・ゲーテが生まれる",
+      "ko": "요한 볼프강 폰 괴테가 태어나다",
+      "hi": "योहान वोल्फगांग फॉन गोएथे का जन्म हुआ",
+      "ar": "ولادة يوهان فولفغانغ فون غوته"
     },
     "description": {
       "ru": "28 августа 1749 года во Франкфурте-на-Майне родился Иоганн Вольфганг Гёте. Он стал одним из главных писателей немецкой литературы.",
       "de": "Am 28. August 1749 wurde Johann Wolfgang von Goethe in Frankfurt am Main geboren. Er wurde einer der wichtigsten Schriftsteller der deutschen Literatur.",
-      "en": "On 28 August 1749, Johann Wolfgang von Goethe was born in Frankfurt am Main. He became one of the most important writers in German literature."
+      "en": "On 28 August 1749, Johann Wolfgang von Goethe was born in Frankfurt am Main. He became one of the most important writers in German literature.",
+      "fr": "Le 28 août 1749, Johann Wolfgang von Goethe naquit à Francfort-sur-le-Main. Il devint l'un des écrivains les plus importants de la littérature allemande.",
+      "es": "El 28 de agosto de 1749 nació Johann Wolfgang von Goethe en Fráncfort del Meno. Se convirtió en uno de los escritores más importantes de la literatura alemana.",
+      "it": "Il 28 agosto 1749 Johann Wolfgang von Goethe nacque a Francoforte sul Meno. Divenne uno degli scrittori più importanti della letteratura tedesca.",
+      "pt": "Em 28 de agosto de 1749, Johann Wolfgang von Goethe nasceu em Frankfurt am Main. Ele se tornou um dos escritores mais importantes da literatura alemã.",
+      "nl": "Op 28 augustus 1749 werd Johann Wolfgang von Goethe in Frankfurt am Main geboren. Hij werd een van de belangrijkste schrijvers van de Duitse literatuur.",
+      "pl": "28 sierpnia 1749 roku we Frankfurcie nad Menem urodził się Johann Wolfgang von Goethe. Stał się jednym z najważniejszych pisarzy literatury niemieckiej.",
+      "tr": "28 Ağustos 1749'da Johann Wolfgang von Goethe Frankfurt am Main'da doğdu. Alman edebiyatının en önemli yazarlarından biri oldu.",
+      "zh": "1749年8月28日，约翰·沃尔夫冈·冯·歌德出生于法兰克福。他成为德国文学最重要的作家之一。",
+      "ja": "1749年8月28日、ヨハン・ヴォルフガング・フォン・ゲーテがフランクフルト・アム・マインで生まれました。彼はドイツ文学で最も重要な作家の一人となりました。",
+      "ko": "1749년 8월 28일 요한 볼프강 폰 괴테가 프랑크푸르트 암 마인에서 태어났습니다. 그는 독일 문학에서 가장 중요한 작가 중 한 명이 되었습니다.",
+      "hi": "28 अगस्त 1749 को योहान वोल्फगांग फॉन गोएथे का जन्म फ्रैंकफर्ट आम माइन में हुआ। वे जर्मन साहित्य के सबसे महत्वपूर्ण लेखकों में से एक बने।",
+      "ar": "في 28 أغسطس 1749 وُلد يوهان فولفغانغ فون غوته في فرانكفورت أم ماين. وأصبح من أهم كتاب الأدب الألماني."
     },
     "importance": {
       "ru": "Без Гёте трудно представить немецкую культуру, школьную литературу и образ Веймара как культурного центра.",
       "de": "Ohne Goethe sind deutsche Kultur, Schullektuere und Weimar als Kulturort kaum vorstellbar.",
-      "en": "German culture, school literature and Weimar's image as a cultural center are hard to imagine without Goethe."
+      "en": "German culture, school literature and Weimar's image as a cultural center are hard to imagine without Goethe.",
+      "fr": "Sans Goethe, la culture allemande, la littérature scolaire et l'image de Weimar comme centre culturel sont difficiles à imaginer.",
+      "es": "Sin Goethe, cuesta imaginar la cultura alemana, la literatura escolar y la imagen de Weimar como centro cultural.",
+      "it": "Senza Goethe è difficile immaginare la cultura tedesca, la letteratura scolastica e l'immagine di Weimar come centro culturale.",
+      "pt": "Sem Goethe, é difícil imaginar a cultura alemã, a literatura escolar e a imagem de Weimar como centro cultural.",
+      "nl": "Zonder Goethe zijn de Duitse cultuur, schoolliteratuur en Weimars beeld als cultuurcentrum moeilijk voorstelbaar.",
+      "pl": "Bez Goethego trudno wyobrazić sobie kulturę niemiecką, lektury szkolne i obraz Weimaru jako centrum kultury.",
+      "tr": "Goethe olmadan Alman kültürünü, okul edebiyatını ve Weimar'ın kültür merkezi imajını hayal etmek zordur.",
+      "zh": "没有歌德，很难想象德国文化、学校文学教育以及魏玛作为文化中心的形象。",
+      "ja": "ゲーテなしに、ドイツ文化、学校で読む文学、文化都市としてのワイマールのイメージを想像することは難しいです。",
+      "ko": "괴테 없이는 독일 문화, 학교 문학, 문화 중심지로서의 바이마르 이미지를 상상하기 어렵습니다.",
+      "hi": "गोएथे के बिना जर्मन संस्कृति, स्कूल की साहित्यिक पढ़ाई और सांस्कृतिक केंद्र के रूप में वाइमर की छवि की कल्पना कठिन है।",
+      "ar": "من دون غوته يصعب تخيل الثقافة الألمانية والأدب المدرسي وصورة فايمار كمركز ثقافي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Фауст» стал литературным символом",
           "de": "Faust wird zum literarischen Symbol",
-          "en": "Faust becomes a literary symbol"
+          "en": "Faust becomes a literary symbol",
+          "fr": "« Faust » devient un symbole littéraire",
+          "es": "Fausto se convierte en símbolo literario",
+          "it": "Faust diventa un simbolo letterario",
+          "pt": "Fausto torna-se um símbolo literário",
+          "nl": "Faust wordt een literair symbool",
+          "pl": "Faust stał się symbolem literackim",
+          "tr": "Faust edebi bir sembol oldu",
+          "zh": "《浮士德》成为文学象征",
+          "ja": "『ファウスト』が文学的象徴となる",
+          "ko": "파우스트가 문학적 상징이 되다",
+          "hi": "फाउस्ट साहित्यिक प्रतीक बना",
+          "ar": "فاوست يصبح رمزاً أدبياً"
         },
         "description": {
           "ru": "Главное произведение Гёте, «Фауст», создавалось много лет. Оно стало одним из самых известных текстов немецкой литературы.",
           "de": "Goethes Hauptwerk Faust entstand ueber viele Jahre. Es wurde zu einem der bekanntesten Texte der deutschen Literatur.",
-          "en": "Goethe's major work Faust was written over many years. It became one of the best-known texts in German literature."
+          "en": "Goethe's major work Faust was written over many years. It became one of the best-known texts in German literature.",
+          "fr": "L'œuvre majeure de Goethe, Faust, fut écrite pendant de nombreuses années. Elle devint l'un des textes les plus connus de la littérature allemande.",
+          "es": "La gran obra de Goethe, Fausto, fue escrita durante muchos años. Se convirtió en uno de los textos más conocidos de la literatura alemana.",
+          "it": "L'opera principale di Goethe, Faust, fu scritta nel corso di molti anni. Divenne uno dei testi più noti della letteratura tedesca.",
+          "pt": "A grande obra de Goethe, Fausto, foi escrita ao longo de muitos anos. Tornou-se um dos textos mais conhecidos da literatura alemã.",
+          "nl": "Goethes hoofdwerk Faust werd over vele jaren geschreven. Het werd een van de bekendste teksten uit de Duitse literatuur.",
+          "pl": "Główne dzieło Goethego, Faust, powstawało przez wiele lat. Stało się jednym z najbardziej znanych tekstów literatury niemieckiej.",
+          "tr": "Goethe'nin başyapıtı Faust uzun yıllar boyunca yazıldı. Alman edebiyatının en bilinen metinlerinden biri oldu.",
+          "zh": "歌德的代表作《浮士德》创作了多年。它成为德国文学中最著名的文本之一。",
+          "ja": "ゲーテの代表作『ファウスト』は長い年月をかけて書かれました。これはドイツ文学で最もよく知られた作品の一つとなりました。",
+          "ko": "괴테의 대표작 파우스트는 여러 해에 걸쳐 쓰였습니다. 독일 문학에서 가장 잘 알려진 작품 중 하나가 되었습니다.",
+          "hi": "गोएथे की प्रमुख कृति फाउस्ट कई वर्षों में लिखी गई। यह जर्मन साहित्य के सबसे प्रसिद्ध ग्रंथों में से एक बनी।",
+          "ar": "كُتب عمل غوته الرئيسي، فاوست، على مدى سنوات طويلة. وأصبح من أشهر نصوص الأدب الألماني."
         },
         "importance": {
           "ru": "Через Гёте немецкий язык получил автора мирового масштаба.",
           "de": "Mit Goethe erhielt die deutsche Sprache einen Autor von Weltrang.",
-          "en": "Through Goethe, the German language gained an author of world stature."
+          "en": "Through Goethe, the German language gained an author of world stature.",
+          "fr": "Avec Goethe, la langue allemande reçut un auteur de rang mondial.",
+          "es": "Con Goethe, la lengua alemana obtuvo un autor de talla mundial.",
+          "it": "Con Goethe, la lingua tedesca ebbe un autore di statura mondiale.",
+          "pt": "Com Goethe, a língua alemã ganhou um autor de estatura mundial.",
+          "nl": "Met Goethe kreeg de Duitse taal een auteur van wereldformaat.",
+          "pl": "Dzięki Goethemu język niemiecki zyskał autora światowej rangi.",
+          "tr": "Goethe sayesinde Alman dili dünya çapında bir yazara kavuştu.",
+          "zh": "通过歌德，德语拥有了一位世界级作家。",
+          "ja": "ゲーテによって、ドイツ語は世界的な作家を得ました。",
+          "ko": "괴테를 통해 독일어는 세계적 위상의 작가를 얻었습니다.",
+          "hi": "गोएथे के माध्यम से जर्मन भाषा को विश्व-स्तर का लेखक मिला।",
+          "ar": "بفضل غوته حصلت اللغة الألمانية على كاتب ذي مكانة عالمية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Гёте был не только писателем: он занимался естествознанием, театром, управлением и коллекционированием.",
     "de": "Goethe war nicht nur Schriftsteller: Er beschaeftigte sich mit Naturwissenschaft, Theater, Verwaltung und Sammlungen.",
-    "en": "Goethe was not only a writer: he worked on natural science, theatre, administration and collections."
+    "en": "Goethe was not only a writer: he worked on natural science, theatre, administration and collections.",
+    "fr": "Goethe n'était pas seulement écrivain : il s'occupa aussi de sciences naturelles, de théâtre, d'administration et de collections.",
+    "es": "Goethe no fue solo escritor: también se ocupó de ciencias naturales, teatro, administración y colecciones.",
+    "it": "Goethe non fu solo scrittore: si occupò anche di scienze naturali, teatro, amministrazione e collezionismo.",
+    "pt": "Goethe não foi apenas escritor: trabalhou com ciências naturais, teatro, administração e coleções.",
+    "nl": "Goethe was niet alleen schrijver: hij hield zich ook bezig met natuurwetenschap, theater, bestuur en verzamelingen.",
+    "pl": "Goethe był nie tylko pisarzem: zajmował się także naukami przyrodniczymi, teatrem, administracją i kolekcjonowaniem.",
+    "tr": "Goethe yalnızca yazar değildi: doğa bilimleri, tiyatro, yönetim ve koleksiyonlarla da ilgilendi.",
+    "zh": "歌德不仅是作家，他还研究自然科学，参与戏剧、行政管理和收藏。",
+    "ja": "ゲーテは作家だけではありませんでした。自然科学、演劇、行政、収集にも取り組みました。",
+    "ko": "괴테는 작가일 뿐만 아니라 자연과학, 연극, 행정, 수집에도 관여했습니다.",
+    "hi": "गोएथे केवल लेखक नहीं थे: वे प्राकृतिक विज्ञान, रंगमंच, प्रशासन और संग्रहों से भी जुड़े थे।",
+    "ar": "لم يكن غوته كاتباً فقط، بل اهتم أيضاً بالعلوم الطبيعية والمسرح والإدارة والمجموعات."
   },
   "sources": [
     {
