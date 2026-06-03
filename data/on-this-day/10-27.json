@@ -11,17 +11,53 @@
     "title": {
       "ru": "Танки США и СССР сошлись у Checkpoint Charlie",
       "de": "US- und Sowjetpanzer stehen am Checkpoint Charlie einander gegenueber",
-      "en": "US and Soviet tanks face off at Checkpoint Charlie"
+      "en": "US and Soviet tanks face off at Checkpoint Charlie",
+      "fr": "Chars americains et sovietiques face a face a Checkpoint Charlie",
+      "es": "Tanques estadounidenses y sovieticos frente a frente en Checkpoint Charlie",
+      "it": "Carri armati statunitensi e sovietici faccia a faccia a Checkpoint Charlie",
+      "pt": "Tanques dos EUA e sovieticos frente a frente no Checkpoint Charlie",
+      "nl": "Amerikaanse en Sovjettanks staan tegenover elkaar bij Checkpoint Charlie",
+      "pl": "Czolgi USA i ZSRR staja naprzeciw siebie przy Checkpoint Charlie",
+      "tr": "ABD ve Sovyet tanklari Checkpoint Charlie'de karsi karsiya geldi",
+      "zh": "美苏坦克在查理检查站对峙",
+      "ja": "米ソの戦車がチェックポイント・チャーリーで対峙",
+      "ko": "미국과 소련 전차가 체크포인트 찰리에서 대치하다",
+      "hi": "अमेरिकी और सोवियत टैंक चेकपॉइंट चार्ली पर आमने-सामने आए",
+      "ar": "دبابات امريكية وسوفيتية تتواجه عند تشيكبوينت تشارلي"
     },
     "description": {
       "ru": "27 октября 1961 года у Checkpoint Charlie в Берлине американские и советские танки оказались друг напротив друга. Несколько часов кризис выглядел как опасный момент прямого столкновения сверхдержав.",
       "de": "Am 27. Oktober 1961 standen sich am Checkpoint Charlie in Berlin amerikanische und sowjetische Panzer gegenueber. Fuer Stunden wirkte die Krise wie ein gefaehrlicher Moment direkter Konfrontation der Supermaechte.",
-      "en": "On 27 October 1961, American and Soviet tanks faced each other at Checkpoint Charlie in Berlin. For several hours, the crisis looked like a dangerous moment of direct superpower confrontation."
+      "en": "On 27 October 1961, American and Soviet tanks faced each other at Checkpoint Charlie in Berlin. For several hours, the crisis looked like a dangerous moment of direct superpower confrontation.",
+      "fr": "Le 27 octobre 1961, des chars americains et sovietiques se firent face a Checkpoint Charlie, a Berlin. Pendant plusieurs heures, la crise sembla etre un moment dangereux de confrontation directe entre superpuissances.",
+      "es": "El 27 de octubre de 1961, tanques estadounidenses y sovieticos se enfrentaron en Checkpoint Charlie, en Berlin. Durante varias horas, la crisis parecio un momento peligroso de confrontacion directa entre superpotencias.",
+      "it": "Il 27 ottobre 1961, carri armati statunitensi e sovietici si fronteggiarono a Checkpoint Charlie, a Berlino. Per diverse ore, la crisi sembro un momento pericoloso di confronto diretto tra superpotenze.",
+      "pt": "Em 27 de outubro de 1961, tanques americanos e sovieticos ficaram frente a frente no Checkpoint Charlie, em Berlim. Por varias horas, a crise pareceu um momento perigoso de confronto direto entre superpotencias.",
+      "nl": "Op 27 oktober 1961 stonden Amerikaanse en Sovjettanks tegenover elkaar bij Checkpoint Charlie in Berlijn. Enkele uren lang leek de crisis op een gevaarlijk moment van directe confrontatie tussen supermachten.",
+      "pl": "27 pazdziernika 1961 roku amerykanskie i radzieckie czolgi stanely naprzeciw siebie przy Checkpoint Charlie w Berlinie. Przez kilka godzin kryzys wygladal jak niebezpieczny moment bezposredniej konfrontacji supermocarstw.",
+      "tr": "27 Ekim 1961'de Berlin'deki Checkpoint Charlie'de Amerikan ve Sovyet tanklari karsi karsiya geldi. Birkac saat boyunca kriz, super gucler arasinda dogrudan bir catismaya tehlikeli bicimde yaklasmis gibi gorundu.",
+      "zh": "1961年10月27日，美国和苏联坦克在柏林查理检查站相互对峙。几个小时内，这场危机看起来像是超级大国直接冲突的危险时刻。",
+      "ja": "1961年10月27日、ベルリンのチェックポイント・チャーリーでアメリカ軍とソ連軍の戦車が向かい合いました。数時間、危機は超大国同士の直接対決という危険な瞬間のように見えました。",
+      "ko": "1961년 10월 27일 베를린의 체크포인트 찰리에서 미국과 소련 전차가 서로 마주 섰다. 몇 시간 동안 이 위기는 초강대국 간 직접 대결의 위험한 순간처럼 보였다.",
+      "hi": "27 अक्टूबर 1961 को बर्लिन के चेकपॉइंट चार्ली पर अमेरिकी और सोवियत टैंक आमने-सामने आ गए। कई घंटों तक यह संकट महाशक्तियों के सीधे टकराव का खतरनाक क्षण लगता रहा।",
+      "ar": "في 27 أكتوبر 1961 واجهت دبابات امريكية وسوفيتية بعضها بعضا عند تشيكبوينت تشارلي في برلين. ولساعات بدا الازمة كلحظة خطيرة من المواجهة المباشرة بين القوتين العظميين."
     },
     "importance": {
       "ru": "Дата показывает, насколько острым был Берлинский кризис вскоре после строительства стены.",
       "de": "Das Datum zeigt, wie scharf die Berlin-Krise kurz nach dem Mauerbau war.",
-      "en": "The date shows how tense the Berlin Crisis was shortly after the Wall was built."
+      "en": "The date shows how tense the Berlin Crisis was shortly after the Wall was built.",
+      "fr": "Cette date montre a quel point la crise de Berlin etait tendue peu apres la construction du Mur.",
+      "es": "La fecha muestra lo tensa que era la crisis de Berlin poco despues de la construccion del Muro.",
+      "it": "La data mostra quanto fosse tesa la crisi di Berlino poco dopo la costruzione del Muro.",
+      "pt": "A data mostra como a crise de Berlim estava tensa pouco depois da construcao do Muro.",
+      "nl": "De datum laat zien hoe gespannen de Berlijnse crisis kort na de bouw van de Muur was.",
+      "pl": "Ta data pokazuje, jak napiety byl kryzys berlinski krotko po budowie Muru.",
+      "tr": "Bu tarih, Duvar'in insasindan kisa sure sonra Berlin Krizi'nin ne kadar gergin oldugunu gosterir.",
+      "zh": "这个日期显示了柏林墙建成后不久柏林危机有多么紧张。",
+      "ja": "この日付は、壁建設直後のベルリン危機がいかに緊迫していたかを示しています。",
+      "ko": "이 날짜는 장벽 건설 직후 베를린 위기가 얼마나 긴장된 상태였는지 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि दीवार बनने के तुरंत बाद बर्लिन संकट कितना तनावपूर्ण था।",
+      "ar": "يبين هذا التاريخ مدى توتر ازمة برلين بعد وقت قصير من بناء الجدار."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Символ холодной войны",
           "de": "Symbol des Kalten Krieges",
-          "en": "Symbol of the Cold War"
+          "en": "Symbol of the Cold War",
+          "fr": "Symbole de la guerre froide",
+          "es": "Simbolo de la Guerra Fria",
+          "it": "Simbolo della Guerra fredda",
+          "pt": "Simbolo da Guerra Fria",
+          "nl": "Symbool van de Koude Oorlog",
+          "pl": "Symbol zimnej wojny",
+          "tr": "Soguk Savas'in sembolu",
+          "zh": "冷战的象征",
+          "ja": "冷戦の象徴",
+          "ko": "냉전의 상징",
+          "hi": "शीत युद्ध का प्रतीक",
+          "ar": "رمز الحرب الباردة"
         },
         "description": {
           "ru": "Checkpoint Charlie был одним из самых известных переходов между Восточным и Западным Берлином. Противостояние танков сделало его символом разделённого города и мировой напряжённости.",
           "de": "Checkpoint Charlie war einer der bekanntesten Uebergaenge zwischen Ost- und West-Berlin. Die Panzerkonfrontation machte ihn zum Symbol der geteilten Stadt und der weltweiten Spannung.",
-          "en": "Checkpoint Charlie was one of the best-known crossings between East and West Berlin. The tank standoff made it a symbol of the divided city and global tension."
+          "en": "Checkpoint Charlie was one of the best-known crossings between East and West Berlin. The tank standoff made it a symbol of the divided city and global tension.",
+          "fr": "Checkpoint Charlie etait l'un des passages les plus connus entre Berlin-Est et Berlin-Ouest. Le face-a-face des chars en fit un symbole de la ville divisee et de la tension mondiale.",
+          "es": "Checkpoint Charlie era uno de los pasos mas conocidos entre Berlin Oriental y Berlin Occidental. El enfrentamiento de tanques lo convirtio en simbolo de la ciudad dividida y de la tension mundial.",
+          "it": "Checkpoint Charlie era uno dei passaggi piu noti tra Berlino Est e Berlino Ovest. Il confronto tra carri armati ne fece un simbolo della citta divisa e della tensione globale.",
+          "pt": "Checkpoint Charlie era uma das passagens mais conhecidas entre Berlim Oriental e Ocidental. O confronto dos tanques fez dele um simbolo da cidade dividida e da tensao mundial.",
+          "nl": "Checkpoint Charlie was een van de bekendste overgangen tussen Oost- en West-Berlijn. De tankconfrontatie maakte het tot symbool van de verdeelde stad en de wereldwijde spanning.",
+          "pl": "Checkpoint Charlie byl jednym z najbardziej znanych przejsc miedzy Berlinem Wschodnim i Zachodnim. Konfrontacja czolgow uczynila z niego symbol podzielonego miasta i swiatowego napiecia.",
+          "tr": "Checkpoint Charlie, Dogu ve Bati Berlin arasindaki en bilinen gecislerden biriydi. Tank karsilasmasi onu bolunmus sehrin ve kuresel gerilimin sembolu haline getirdi.",
+          "zh": "查理检查站是东柏林和西柏林之间最著名的通道之一。坦克对峙使它成为分裂城市和全球紧张局势的象征。",
+          "ja": "チェックポイント・チャーリーは東ベルリンと西ベルリンの間で最も有名な通過地点の一つでした。戦車の対峙により、そこは分断された都市と世界的緊張の象徴となりました。",
+          "ko": "체크포인트 찰리는 동베를린과 서베를린 사이의 가장 유명한 검문소 중 하나였다. 전차 대치는 이곳을 분단 도시와 세계적 긴장의 상징으로 만들었다.",
+          "hi": "चेकपॉइंट चार्ली पूर्वी और पश्चिमी बर्लिन के बीच सबसे प्रसिद्ध मार्गों में से एक था। टैंकों की आमने-सामने स्थिति ने इसे विभाजित शहर और वैश्विक तनाव का प्रतीक बना दिया।",
+          "ar": "كان تشيكبوينت تشارلي احد اشهر المعابر بين برلين الشرقية وبرلين الغربية. وجعلته مواجهة الدبابات رمزا للمدينة المقسمة وللتوتر العالمي."
         },
         "importance": {
           "ru": "Это помогает понять, почему Берлин был не просто городом, а нервным центром холодной войны.",
           "de": "Das hilft zu verstehen, warum Berlin nicht nur eine Stadt, sondern ein Nervenzentrum des Kalten Krieges war.",
-          "en": "It helps explain why Berlin was not just a city, but a nerve center of the Cold War."
+          "en": "It helps explain why Berlin was not just a city, but a nerve center of the Cold War.",
+          "fr": "Cela aide a comprendre pourquoi Berlin n'etait pas seulement une ville, mais un centre nerveux de la guerre froide.",
+          "es": "Ayuda a explicar por que Berlin no era solo una ciudad, sino un centro nervioso de la Guerra Fria.",
+          "it": "Aiuta a capire perche Berlino non era solo una citta, ma un centro nevralgico della Guerra fredda.",
+          "pt": "Isso ajuda a explicar por que Berlim nao era apenas uma cidade, mas um centro nervoso da Guerra Fria.",
+          "nl": "Het helpt verklaren waarom Berlijn niet alleen een stad was, maar een zenuwcentrum van de Koude Oorlog.",
+          "pl": "Pomaga to wyjasnic, dlaczego Berlin byl nie tylko miastem, lecz nerwowym centrum zimnej wojny.",
+          "tr": "Bu, Berlin'in neden sadece bir sehir degil, Soguk Savas'in sinir merkezi oldugunu aciklar.",
+          "zh": "这有助于解释为什么柏林不只是一座城市，而是冷战的神经中枢。",
+          "ja": "これは、ベルリンが単なる都市ではなく、冷戦の神経中枢だった理由を説明する助けになります。",
+          "ko": "이는 베를린이 단순한 도시가 아니라 냉전의 신경 중심지였던 이유를 설명해 준다.",
+          "hi": "इससे समझ आता है कि बर्लिन केवल एक शहर नहीं, बल्कि शीत युद्ध का तंत्रिका-केंद्र क्यों था।",
+          "ar": "يساعد ذلك على فهم لماذا لم تكن برلين مجرد مدينة، بل مركزا عصبيا للحرب الباردة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Танки стояли примерно в 100 метрах друг от друга, но стороны постепенно отвели их, и прямого боя не произошло.",
     "de": "Die Panzer standen etwa 100 Meter voneinander entfernt, wurden aber schrittweise abgezogen; zu einem direkten Kampf kam es nicht.",
-    "en": "The tanks stood about 100 meters apart, but both sides gradually withdrew them and no direct battle occurred."
+    "en": "The tanks stood about 100 meters apart, but both sides gradually withdrew them and no direct battle occurred.",
+    "fr": "Les chars se trouvaient a environ 100 metres les uns des autres, mais les deux camps les retirerent progressivement et aucun combat direct n'eut lieu.",
+    "es": "Los tanques estaban a unos 100 metros de distancia, pero ambos lados los retiraron gradualmente y no hubo combate directo.",
+    "it": "I carri armati si trovavano a circa 100 metri l'uno dall'altro, ma entrambe le parti li ritirarono gradualmente e non ci fu uno scontro diretto.",
+    "pt": "Os tanques ficaram a cerca de 100 metros de distancia, mas os dois lados os retiraram gradualmente e nao houve combate direto.",
+    "nl": "De tanks stonden ongeveer 100 meter uit elkaar, maar beide partijen trokken ze geleidelijk terug en er kwam geen direct gevecht.",
+    "pl": "Czolgi staly w odleglosci okolo 100 metrow od siebie, ale obie strony stopniowo je wycofaly i nie doszlo do bezposredniej walki.",
+    "tr": "Tanklar birbirinden yaklasik 100 metre uzaktaydi, ancak iki taraf da onlari kademeli olarak geri cekti ve dogrudan catisma yasanmadi.",
+    "zh": "坦克相距约100米，但双方逐步撤回坦克，并未发生直接战斗。",
+    "ja": "戦車は約100メートル離れて向かい合っていましたが、双方は徐々に撤退させ、直接戦闘は起こりませんでした。",
+    "ko": "전차들은 약 100미터 떨어져 있었지만, 양측은 점차 철수시켰고 직접 전투는 일어나지 않았다.",
+    "hi": "टैंक लगभग 100 मीटर की दूरी पर खड़े थे, लेकिन दोनों पक्षों ने उन्हें धीरे-धीरे हटा लिया और सीधा युद्ध नहीं हुआ।",
+    "ar": "كانت الدبابات تقف على بعد نحو 100 متر من بعضها، لكن الطرفين سحباها تدريجيا ولم يحدث قتال مباشر."
   },
   "sources": [
     {

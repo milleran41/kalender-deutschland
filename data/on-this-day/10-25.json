@@ -11,17 +11,53 @@
     "title": {
       "ru": "Людендорф попросил об отставке",
       "de": "Ludendorff bittet um seine Entlassung",
-      "en": "Ludendorff asks to be dismissed"
+      "en": "Ludendorff asks to be dismissed",
+      "fr": "Ludendorff demande a etre releve de ses fonctions",
+      "es": "Ludendorff pide ser destituido",
+      "it": "Ludendorff chiede di essere congedato",
+      "pt": "Ludendorff pede para ser dispensado",
+      "nl": "Ludendorff vraagt om ontslag",
+      "pl": "Ludendorff prosi o zwolnienie ze stanowiska",
+      "tr": "Ludendorff gorevden alinmayi istedi",
+      "zh": "鲁登道夫请求免职",
+      "ja": "ルーデンドルフが解任を求める",
+      "ko": "루덴도르프가 해임을 요청하다",
+      "hi": "लुडेनडॉर्फ ने पदमुक्त करने का अनुरोध किया",
+      "ar": "لودندورف يطلب اعفاءه من منصبه"
     },
     "description": {
       "ru": "25 октября 1918 года генерал Эрих Людендорф попросил кайзера Вильгельма II освободить его от должности. Это произошло в последние недели Первой мировой войны, когда военное и политическое руководство Германии уже понимало тяжесть поражения.",
       "de": "Am 25. Oktober 1918 bat General Erich Ludendorff Kaiser Wilhelm II. um seine Entlassung. Das geschah in den letzten Wochen des Ersten Weltkriegs, als die militaerische und politische Fuehrung Deutschlands die Schwere der Niederlage bereits erkannte.",
-      "en": "On 25 October 1918, General Erich Ludendorff asked Kaiser Wilhelm II to dismiss him. It happened in the final weeks of the First World War, when Germany's military and political leadership already understood the scale of defeat."
+      "en": "On 25 October 1918, General Erich Ludendorff asked Kaiser Wilhelm II to dismiss him. It happened in the final weeks of the First World War, when Germany's military and political leadership already understood the scale of defeat.",
+      "fr": "Le 25 octobre 1918, le general Erich Ludendorff demanda a l'empereur Guillaume II de le relever de ses fonctions. Cela se produisit dans les dernieres semaines de la Premiere Guerre mondiale, alors que les dirigeants militaires et politiques allemands comprenaient deja l'ampleur de la defaite.",
+      "es": "El 25 de octubre de 1918, el general Erich Ludendorff pidio al kaiser Guillermo II que lo destituyera. Ocurrio en las ultimas semanas de la Primera Guerra Mundial, cuando el liderazgo militar y politico aleman ya comprendia la magnitud de la derrota.",
+      "it": "Il 25 ottobre 1918 il generale Erich Ludendorff chiese al Kaiser Guglielmo II di congedarlo. Accadde nelle ultime settimane della Prima guerra mondiale, quando la dirigenza militare e politica tedesca aveva gia compreso la portata della sconfitta.",
+      "pt": "Em 25 de outubro de 1918, o general Erich Ludendorff pediu ao kaiser Guilherme II que o dispensasse. Isso aconteceu nas ultimas semanas da Primeira Guerra Mundial, quando a lideranca militar e politica da Alemanha ja entendia a dimensao da derrota.",
+      "nl": "Op 25 oktober 1918 vroeg generaal Erich Ludendorff keizer Wilhelm II hem te ontslaan. Dat gebeurde in de laatste weken van de Eerste Wereldoorlog, toen de Duitse militaire en politieke leiding de omvang van de nederlaag al begreep.",
+      "pl": "25 pazdziernika 1918 roku general Erich Ludendorff poprosil cesarza Wilhelma II o zwolnienie go ze stanowiska. Stalo sie to w ostatnich tygodniach I wojny swiatowej, gdy wojskowe i polityczne kierownictwo Niemiec rozumialo juz skale porazki.",
+      "tr": "25 Ekim 1918'de General Erich Ludendorff, Kayzer II. Wilhelm'den kendisini gorevden almasini istedi. Bu, Birinci Dunya Savasi'nin son haftalarinda, Almanya'nin askeri ve siyasi liderligi yenilginin boyutunu artik anlarken oldu.",
+      "zh": "1918年10月25日，埃里希·鲁登道夫将军请求威廉二世皇帝解除他的职务。这发生在第一次世界大战最后几周，当时德国军政领导层已经明白失败的严重程度。",
+      "ja": "1918年10月25日、エーリヒ・ルーデンドルフ将軍は皇帝ヴィルヘルム2世に自分の解任を求めました。これは第一次世界大戦の最後の数週間、ドイツの軍事・政治指導部が敗北の大きさをすでに理解していた時期の出来事でした。",
+      "ko": "1918년 10월 25일 에리히 루덴도르프 장군은 빌헬름 2세 황제에게 자신을 해임해 달라고 요청했다. 이는 제1차 세계대전 마지막 몇 주, 독일의 군사 및 정치 지도부가 패배의 규모를 이미 이해하고 있던 때였다.",
+      "hi": "25 अक्टूबर 1918 को जनरल एरिख लुडेनडॉर्फ ने कैसर विल्हेल्म द्वितीय से उन्हें पद से मुक्त करने का अनुरोध किया। यह प्रथम विश्व युद्ध के अंतिम हफ्तों में हुआ, जब जर्मनी का सैन्य और राजनीतिक नेतृत्व पराजय की गंभीरता समझ चुका था।",
+      "ar": "في 25 أكتوبر 1918 طلب الجنرال اريش لودندورف من القيصر فيلهلم الثاني اعفاءه من منصبه. حدث ذلك في الاسابيع الاخيرة من الحرب العالمية الاولى، عندما كانت القيادة العسكرية والسياسية الالمانية قد ادركت بالفعل حجم الهزيمة."
     },
     "importance": {
       "ru": "Дата показывает, как рушилась военная власть, которая фактически управляла Германской империей в конце войны.",
       "de": "Das Datum zeigt, wie die militaerische Macht zerfiel, die das Deutsche Reich am Ende des Krieges faktisch beherrscht hatte.",
-      "en": "The date shows the collapse of the military power that had effectively dominated the German Empire at the end of the war."
+      "en": "The date shows the collapse of the military power that had effectively dominated the German Empire at the end of the war.",
+      "fr": "Cette date montre l'effondrement du pouvoir militaire qui avait domine de fait l'Empire allemand a la fin de la guerre.",
+      "es": "La fecha muestra el derrumbe del poder militar que habia dominado de hecho el Imperio aleman al final de la guerra.",
+      "it": "La data mostra il crollo del potere militare che aveva di fatto dominato l'Impero tedesco alla fine della guerra.",
+      "pt": "A data mostra o colapso do poder militar que havia dominado de fato o Imperio Alemao no fim da guerra.",
+      "nl": "De datum toont de instorting van de militaire macht die het Duitse Keizerrijk aan het einde van de oorlog feitelijk had gedomineerd.",
+      "pl": "Ta data pokazuje upadek wladzy wojskowej, ktora pod koniec wojny faktycznie dominowala w Cesarstwie Niemieckim.",
+      "tr": "Bu tarih, savasin sonunda Alman Imparatorlugu'na fiilen hakim olan askeri gucun cokusu gosterir.",
+      "zh": "这个日期显示了在战争末期实际主导德意志帝国的军事权力的崩溃。",
+      "ja": "この日付は、戦争末期にドイツ帝国を事実上支配していた軍事権力の崩壊を示しています。",
+      "ko": "이 날짜는 전쟁 말기에 독일 제국을 사실상 지배했던 군사 권력의 붕괴를 보여 준다.",
+      "hi": "यह तारीख उस सैन्य सत्ता के पतन को दिखाती है जिसने युद्ध के अंत में जर्मन साम्राज्य पर वास्तविक नियंत्रण रखा था।",
+      "ar": "يبين هذا التاريخ انهيار القوة العسكرية التي هيمنت فعليا على الامبراطورية الالمانية في نهاية الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Конец военной диктовки",
           "de": "Ende der militaerischen Dominanz",
-          "en": "End of military dominance"
+          "en": "End of military dominance",
+          "fr": "Fin de la domination militaire",
+          "es": "Fin del dominio militar",
+          "it": "Fine del dominio militare",
+          "pt": "Fim do dominio militar",
+          "nl": "Einde van militaire dominantie",
+          "pl": "Koniec dominacji wojskowej",
+          "tr": "Askeri egemenligin sonu",
+          "zh": "军事主导的终结",
+          "ja": "軍事支配の終わり",
+          "ko": "군사 지배의 끝",
+          "hi": "सैन्य प्रभुत्व का अंत",
+          "ar": "نهاية الهيمنة العسكرية"
         },
         "description": {
           "ru": "В последние годы войны Людендорф и Гинденбург имели огромное влияние на политику империи. Отставка Людендорфа стала знаком того, что прежний механизм власти больше не работает.",
           "de": "In den letzten Kriegsjahren hatten Ludendorff und Hindenburg enormen Einfluss auf die Politik des Reiches. Ludendorffs Entlassung wurde zum Zeichen, dass der alte Machtmechanismus nicht mehr funktionierte.",
-          "en": "In the final years of the war, Ludendorff and Hindenburg had enormous influence over imperial policy. Ludendorff's dismissal became a sign that the old power mechanism no longer worked."
+          "en": "In the final years of the war, Ludendorff and Hindenburg had enormous influence over imperial policy. Ludendorff's dismissal became a sign that the old power mechanism no longer worked.",
+          "fr": "Dans les dernieres annees de la guerre, Ludendorff et Hindenburg eurent une influence immense sur la politique de l'Empire. Le depart de Ludendorff devint le signe que l'ancien mecanisme du pouvoir ne fonctionnait plus.",
+          "es": "En los ultimos anos de la guerra, Ludendorff y Hindenburg tuvieron una enorme influencia sobre la politica imperial. La destitucion de Ludendorff fue una senal de que el viejo mecanismo de poder ya no funcionaba.",
+          "it": "Negli ultimi anni della guerra, Ludendorff e Hindenburg ebbero un'enorme influenza sulla politica imperiale. Il congedo di Ludendorff divenne il segno che il vecchio meccanismo di potere non funzionava piu.",
+          "pt": "Nos ultimos anos da guerra, Ludendorff e Hindenburg tiveram enorme influencia sobre a politica imperial. A saida de Ludendorff tornou-se sinal de que o antigo mecanismo de poder ja nao funcionava.",
+          "nl": "In de laatste oorlogsjaren hadden Ludendorff en Hindenburg enorme invloed op de politiek van het keizerrijk. Ludendorffs ontslag werd een teken dat het oude machtsmechanisme niet meer werkte.",
+          "pl": "W ostatnich latach wojny Ludendorff i Hindenburg mieli ogromny wplyw na polityke cesarstwa. Odejscie Ludendorffa stalo sie znakiem, ze dawny mechanizm wladzy juz nie dziala.",
+          "tr": "Savasin son yillarinda Ludendorff ve Hindenburg imparatorluk siyaseti uzerinde cok buyuk etkiye sahipti. Ludendorff'un gorevden ayrilmasi eski iktidar mekanizmasinin artik islemediginin isareti oldu.",
+          "zh": "战争最后几年，鲁登道夫和兴登堡对帝国政策拥有巨大影响。鲁登道夫的离职成为旧权力机制不再运转的标志。",
+          "ja": "戦争末期の数年間、ルーデンドルフとヒンデンブルクは帝国の政策に大きな影響力を持っていました。ルーデンドルフの解任は、古い権力の仕組みがもはや機能していないことのしるしとなりました。",
+          "ko": "전쟁 말기 몇 년 동안 루덴도르프와 힌덴부르크는 제국 정책에 막대한 영향력을 행사했다. 루덴도르프의 해임은 낡은 권력 장치가 더 이상 작동하지 않는다는 신호가 되었다.",
+          "hi": "युद्ध के अंतिम वर्षों में लुडेनडॉर्फ और हिंडनबर्ग का साम्राज्य की नीति पर बहुत बड़ा प्रभाव था। लुडेनडॉर्फ की विदाई इस बात का संकेत बनी कि पुराना सत्ता-तंत्र अब काम नहीं कर रहा था।",
+          "ar": "في السنوات الاخيرة من الحرب كان للودندورف وهيندنبورغ نفوذ هائل على سياسة الامبراطورية. واصبح اعفاء لودندورف علامة على ان آلية السلطة القديمة لم تعد تعمل."
         },
         "importance": {
           "ru": "Так легче понять, почему в ноябре 1918 года Германия так быстро перешла к революции и республике.",
           "de": "So laesst sich besser verstehen, warum Deutschland im November 1918 so rasch in Revolution und Republik ueberging.",
-          "en": "This helps explain why Germany moved so quickly into revolution and republic in November 1918."
+          "en": "This helps explain why Germany moved so quickly into revolution and republic in November 1918.",
+          "fr": "Cela aide a comprendre pourquoi l'Allemagne passa si vite a la revolution et a la republique en novembre 1918.",
+          "es": "Esto ayuda a entender por que Alemania paso tan rapido a la revolucion y a la republica en noviembre de 1918.",
+          "it": "Questo aiuta a capire perche la Germania passo cosi rapidamente alla rivoluzione e alla repubblica nel novembre 1918.",
+          "pt": "Isso ajuda a explicar por que a Alemanha passou tao rapidamente para a revolucao e a republica em novembro de 1918.",
+          "nl": "Dit helpt verklaren waarom Duitsland in november 1918 zo snel naar revolutie en republiek overging.",
+          "pl": "Pomaga to zrozumiec, dlaczego Niemcy w listopadzie 1918 roku tak szybko przeszly do rewolucji i republiki.",
+          "tr": "Bu, Almanya'nin Kasim 1918'de neden bu kadar hizla devrime ve cumhuriyete gectigini aciklamaya yardim eder.",
+          "zh": "这有助于解释为什么德国在1918年11月如此迅速地走向革命和共和国。",
+          "ja": "これは、1918年11月にドイツがなぜこれほど急速に革命と共和国へ進んだのかを理解する助けになります。",
+          "ko": "이는 독일이 1918년 11월 왜 그렇게 빠르게 혁명과 공화국으로 나아갔는지 설명하는 데 도움이 된다.",
+          "hi": "इससे समझ आता है कि नवंबर 1918 में जर्मनी इतनी जल्दी क्रांति और गणराज्य की ओर क्यों बढ़ा।",
+          "ar": "يساعد ذلك على فهم سبب انتقال المانيا بهذه السرعة الى الثورة والجمهورية في نوفمبر 1918."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Эрих Людендорф",
           "de": "Erich Ludendorff",
-          "en": "Erich Ludendorff"
+          "en": "Erich Ludendorff",
+          "fr": "Erich Ludendorff",
+          "es": "Erich Ludendorff",
+          "it": "Erich Ludendorff",
+          "pt": "Erich Ludendorff",
+          "nl": "Erich Ludendorff",
+          "pl": "Erich Ludendorff",
+          "tr": "Erich Ludendorff",
+          "zh": "埃里希·鲁登道夫",
+          "ja": "エーリヒ・ルーデンドルフ",
+          "ko": "에리히 루덴도르프",
+          "hi": "एरिख लुडेनडॉर्फ",
+          "ar": "اريش لودندورف"
         },
         "description": {
           "ru": "Людендорф был одним из самых влиятельных немецких военных руководителей Первой мировой войны. После поражения он сыграл опасную роль в распространении мифов о причинах краха Германии.",
           "de": "Ludendorff war einer der einflussreichsten deutschen Militaerfuehrer des Ersten Weltkriegs. Nach der Niederlage spielte er eine gefaehrliche Rolle bei der Verbreitung von Mythen ueber die Ursachen des deutschen Zusammenbruchs.",
-          "en": "Ludendorff was one of Germany's most influential military leaders in the First World War. After defeat, he played a dangerous role in spreading myths about the causes of Germany's collapse."
+          "en": "Ludendorff was one of Germany's most influential military leaders in the First World War. After defeat, he played a dangerous role in spreading myths about the causes of Germany's collapse.",
+          "fr": "Ludendorff fut l'un des chefs militaires allemands les plus influents de la Premiere Guerre mondiale. Apres la defaite, il joua un role dangereux dans la diffusion de mythes sur les causes de l'effondrement allemand.",
+          "es": "Ludendorff fue uno de los lideres militares alemanes mas influyentes de la Primera Guerra Mundial. Tras la derrota, desempeno un papel peligroso al difundir mitos sobre las causas del derrumbe de Alemania.",
+          "it": "Ludendorff fu uno dei capi militari tedeschi piu influenti della Prima guerra mondiale. Dopo la sconfitta, ebbe un ruolo pericoloso nella diffusione di miti sulle cause del crollo della Germania.",
+          "pt": "Ludendorff foi um dos lideres militares alemaes mais influentes da Primeira Guerra Mundial. Depois da derrota, desempenhou um papel perigoso na difusao de mitos sobre as causas do colapso da Alemanha.",
+          "nl": "Ludendorff was een van Duitslands invloedrijkste militaire leiders in de Eerste Wereldoorlog. Na de nederlaag speelde hij een gevaarlijke rol in het verspreiden van mythen over de oorzaken van Duitslands instorting.",
+          "pl": "Ludendorff byl jednym z najbardziej wplywowych niemieckich dowodcow wojskowych I wojny swiatowej. Po porazce odegral niebezpieczna role w szerzeniu mitow o przyczynach upadku Niemiec.",
+          "tr": "Ludendorff, Birinci Dunya Savasi'nda Almanya'nin en etkili askeri liderlerinden biriydi. Yenilgiden sonra Almanya'nin cokusu hakkindaki mitlerin yayilmasinda tehlikeli bir rol oynadi.",
+          "zh": "鲁登道夫是第一次世界大战中德国最有影响力的军事领导人之一。战败后，他在传播关于德国崩溃原因的神话中扮演了危险角色。",
+          "ja": "ルーデンドルフは第一次世界大戦におけるドイツで最も影響力のある軍事指導者の一人でした。敗北後、彼はドイツ崩壊の原因に関する神話を広める危険な役割を果たしました。",
+          "ko": "루덴도르프는 제1차 세계대전에서 독일의 가장 영향력 있는 군사 지도자 중 한 명이었다. 패배 뒤 그는 독일 붕괴의 원인에 대한 신화를 퍼뜨리는 데 위험한 역할을 했다.",
+          "hi": "लुडेनडॉर्फ प्रथम विश्व युद्ध में जर्मनी के सबसे प्रभावशाली सैन्य नेताओं में से एक थे। पराजय के बाद उन्होंने जर्मनी के पतन के कारणों पर मिथक फैलाने में खतरनाक भूमिका निभाई।",
+          "ar": "كان لودندورف احد اكثر القادة العسكريين الالمان نفوذا في الحرب العالمية الاولى. وبعد الهزيمة لعب دورا خطيرا في نشر اساطير حول اسباب انهيار المانيا."
         },
         "importance": {
           "ru": "Его биография связывает военную историю империи с политическим кризисом Веймарской республики.",
           "de": "Seine Biografie verbindet die Militärgeschichte des Kaiserreichs mit der politischen Krise der Weimarer Republik.",
-          "en": "His biography links the military history of the empire with the political crisis of the Weimar Republic."
+          "en": "His biography links the military history of the empire with the political crisis of the Weimar Republic.",
+          "fr": "Sa biographie relie l'histoire militaire de l'Empire a la crise politique de la republique de Weimar.",
+          "es": "Su biografia conecta la historia militar del imperio con la crisis politica de la Republica de Weimar.",
+          "it": "La sua biografia collega la storia militare dell'impero alla crisi politica della Repubblica di Weimar.",
+          "pt": "Sua biografia liga a historia militar do imperio a crise politica da Republica de Weimar.",
+          "nl": "Zijn biografie verbindt de militaire geschiedenis van het keizerrijk met de politieke crisis van de Weimarrepubliek.",
+          "pl": "Jego biografia laczy wojskowa historie cesarstwa z kryzysem politycznym Republiki Weimarskiej.",
+          "tr": "Biyografisi, imparatorlugun askeri tarihini Weimar Cumhuriyeti'nin siyasi kriziyle birlestirir.",
+          "zh": "他的生平把帝国军事史与魏玛共和国的政治危机联系起来。",
+          "ja": "彼の生涯は、帝国の軍事史とワイマール共和国の政治危機を結びつけています。",
+          "ko": "그의 생애는 제국의 군사사와 바이마르 공화국의 정치 위기를 연결한다.",
+          "hi": "उनकी जीवनी साम्राज्य के सैन्य इतिहास को वाइमर गणराज्य के राजनीतिक संकट से जोड़ती है।",
+          "ar": "تربط سيرته التاريخ العسكري للامبراطورية بالازمة السياسية لجمهورية فايمار."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Отставка перед революцией",
           "de": "Ruecktritt vor der Revolution",
-          "en": "Resignation before revolution"
+          "en": "Resignation before revolution",
+          "fr": "Demission avant la revolution",
+          "es": "Dimision antes de la revolucion",
+          "it": "Dimissioni prima della rivoluzione",
+          "pt": "Renuncia antes da revolucao",
+          "nl": "Ontslag voor de revolutie",
+          "pl": "Dymisja przed rewolucja",
+          "tr": "Devrimden once istifa",
+          "zh": "革命前的辞职",
+          "ja": "革命前の辞任",
+          "ko": "혁명 전의 사임",
+          "hi": "क्रांति से पहले इस्तीफा",
+          "ar": "استقالة قبل الثورة"
         },
         "description": {
           "ru": "До провозглашения республики оставалось всего две недели. Поэтому отставка Людендорфа выглядит как один из последних ударов по старому порядку.",
           "de": "Bis zur Ausrufung der Republik blieben nur noch zwei Wochen. Ludendorffs Entlassung wirkt deshalb wie einer der letzten Schlaege gegen die alte Ordnung.",
-          "en": "Only two weeks remained before the republic was proclaimed. Ludendorff's dismissal therefore looks like one of the final blows to the old order."
+          "en": "Only two weeks remained before the republic was proclaimed. Ludendorff's dismissal therefore looks like one of the final blows to the old order.",
+          "fr": "Il ne restait que deux semaines avant la proclamation de la republique. Le depart de Ludendorff apparait donc comme l'un des derniers coups portes a l'ancien ordre.",
+          "es": "Solo quedaban dos semanas para la proclamacion de la republica. Por eso la destitucion de Ludendorff parece uno de los ultimos golpes al viejo orden.",
+          "it": "Mancavano solo due settimane alla proclamazione della repubblica. Il congedo di Ludendorff appare quindi come uno degli ultimi colpi al vecchio ordine.",
+          "pt": "Faltavam apenas duas semanas para a proclamacao da republica. Por isso a saida de Ludendorff parece um dos ultimos golpes contra a velha ordem.",
+          "nl": "Er bleven nog maar twee weken over voordat de republiek werd uitgeroepen. Ludendorffs ontslag lijkt daarom een van de laatste slagen tegen de oude orde.",
+          "pl": "Do proklamowania republiki zostaly tylko dwa tygodnie. Dlatego odejscie Ludendorffa wyglada jak jeden z ostatnich ciosow w stary porzadek.",
+          "tr": "Cumhuriyetin ilanina sadece iki hafta kalmisti. Bu nedenle Ludendorff'un gorevden alinmasi eski duzene vurulan son darbelerden biri gibi gorunur.",
+          "zh": "距离共和国宣告成立只剩两周。因此，鲁登道夫的解任看起来像是对旧秩序的最后打击之一。",
+          "ja": "共和国の宣言まで残りわずか2週間でした。そのためルーデンドルフの解任は、古い秩序への最後の打撃の一つのように見えます。",
+          "ko": "공화국 선포까지는 겨우 2주가 남아 있었다. 그래서 루덴도르프의 해임은 낡은 질서에 가해진 마지막 타격 중 하나처럼 보인다.",
+          "hi": "गणराज्य की घोषणा में केवल दो सप्ताह बाकी थे। इसलिए लुडेनडॉर्फ की विदाई पुराने ढांचे पर अंतिम प्रहारों में से एक लगती है।",
+          "ar": "لم يبق على اعلان الجمهورية سوى اسبوعين. لذلك يبدو اعفاء لودندورف كاحد الضربات الاخيرة للنظام القديم."
         },
         "importance": {
           "ru": "Иногда большие перемены начинаются не с торжественных заявлений, а с кадровых решений в момент кризиса.",
           "de": "Manchmal beginnen grosse Umbrueche nicht mit feierlichen Erklaerungen, sondern mit Personalentscheidungen in einer Krise.",
-          "en": "Sometimes great upheavals begin not with grand declarations, but with personnel decisions during a crisis."
+          "en": "Sometimes great upheavals begin not with grand declarations, but with personnel decisions during a crisis.",
+          "fr": "Parfois, les grands bouleversements ne commencent pas par de grandes declarations, mais par des decisions de personnel en pleine crise.",
+          "es": "A veces los grandes cambios no empiezan con declaraciones solemnes, sino con decisiones de personal en una crisis.",
+          "it": "A volte i grandi sconvolgimenti non iniziano con solenni dichiarazioni, ma con decisioni sul personale durante una crisi.",
+          "pt": "As vezes grandes rupturas nao comecam com declaracoes solenes, mas com decisoes de pessoal em meio a uma crise.",
+          "nl": "Soms beginnen grote omwentelingen niet met plechtige verklaringen, maar met personeelsbesluiten tijdens een crisis.",
+          "pl": "Czasem wielkie przemiany zaczynaja sie nie od uroczystych deklaracji, lecz od decyzji personalnych w chwili kryzysu.",
+          "tr": "Bazen buyuk donusumler gorkemli aciklamalarla degil, kriz anindaki kadro kararlariyla baslar.",
+          "zh": "有时，巨大的变革并不是从庄严宣言开始，而是从危机中的人事决定开始。",
+          "ja": "大きな変化は、時に壮大な宣言ではなく、危機の中での人事決定から始まります。",
+          "ko": "때로 큰 격변은 거창한 선언이 아니라 위기 속 인사 결정에서 시작된다.",
+          "hi": "कभी-कभी बड़े बदलाव भव्य घोषणाओं से नहीं, बल्कि संकट के समय लिए गए कर्मी-निर्णयों से शुरू होते हैं।",
+          "ar": "احيانا لا تبدأ التحولات الكبرى بتصريحات كبرى، بل بقرارات تتعلق بالاشخاص في لحظة ازمة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "На следующий день, 26 октября 1918 года, Людендорф был фактически отстранён от должности.",
     "de": "Am folgenden Tag, dem 26. Oktober 1918, wurde Ludendorff faktisch entlassen.",
-    "en": "The next day, 26 October 1918, Ludendorff was effectively dismissed."
+    "en": "The next day, 26 October 1918, Ludendorff was effectively dismissed.",
+    "fr": "Le lendemain, le 26 octobre 1918, Ludendorff fut effectivement releve de ses fonctions.",
+    "es": "Al dia siguiente, el 26 de octubre de 1918, Ludendorff fue efectivamente destituido.",
+    "it": "Il giorno dopo, il 26 ottobre 1918, Ludendorff fu di fatto congedato.",
+    "pt": "No dia seguinte, 26 de outubro de 1918, Ludendorff foi efetivamente dispensado.",
+    "nl": "De volgende dag, 26 oktober 1918, werd Ludendorff feitelijk ontslagen.",
+    "pl": "Nastepnego dnia, 26 pazdziernika 1918 roku, Ludendorff zostal faktycznie zwolniony.",
+    "tr": "Ertesi gun, 26 Ekim 1918'de Ludendorff fiilen gorevden alindi.",
+    "zh": "第二天，1918年10月26日，鲁登道夫实际上被免职。",
+    "ja": "翌日の1918年10月26日、ルーデンドルフは事実上解任されました。",
+    "ko": "다음 날인 1918년 10월 26일 루덴도르프는 사실상 해임되었다.",
+    "hi": "अगले दिन, 26 अक्टूबर 1918 को लुडेनडॉर्फ को वास्तव में पद से हटा दिया गया।",
+    "ar": "في اليوم التالي، 26 أكتوبر 1918، تم اعفاء لودندورف فعليا من منصبه."
   },
   "sources": [
     {

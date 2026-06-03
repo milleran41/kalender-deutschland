@@ -11,17 +11,53 @@
     "title": {
       "ru": "Людендорф был отстранён от командования",
       "de": "Ludendorff wird entlassen",
-      "en": "Ludendorff is dismissed"
+      "en": "Ludendorff is dismissed",
+      "fr": "Ludendorff est releve de ses fonctions",
+      "es": "Ludendorff es destituido",
+      "it": "Ludendorff viene congedato",
+      "pt": "Ludendorff e dispensado",
+      "nl": "Ludendorff wordt ontslagen",
+      "pl": "Ludendorff zostaje zwolniony",
+      "tr": "Ludendorff gorevden alindi",
+      "zh": "鲁登道夫被免职",
+      "ja": "ルーデンドルフが解任される",
+      "ko": "루덴도르프가 해임되다",
+      "hi": "लुडेनडॉर्फ को पद से हटाया गया",
+      "ar": "اعفاء لودندورف من منصبه"
     },
     "description": {
       "ru": "26 октября 1918 года генерал Эрих Людендорф был фактически отстранён от высшего военного руководства Германии. Это произошло на фоне поражения в Первой мировой войне и споров о перемирии.",
       "de": "Am 26. Oktober 1918 wurde General Erich Ludendorff faktisch aus der hoechsten militaerischen Fuehrung Deutschlands entlassen. Dies geschah vor dem Hintergrund der Niederlage im Ersten Weltkrieg und der Auseinandersetzungen ueber einen Waffenstillstand.",
-      "en": "On 26 October 1918, General Erich Ludendorff was effectively removed from Germany's highest military leadership. This happened amid defeat in the First World War and disputes over an armistice."
+      "en": "On 26 October 1918, General Erich Ludendorff was effectively removed from Germany's highest military leadership. This happened amid defeat in the First World War and disputes over an armistice.",
+      "fr": "Le 26 octobre 1918, le general Erich Ludendorff fut effectivement ecarte de la plus haute direction militaire allemande. Cela se produisit dans le contexte de la defaite de la Premiere Guerre mondiale et des disputes sur l'armistice.",
+      "es": "El 26 de octubre de 1918, el general Erich Ludendorff fue apartado de hecho del maximo liderazgo militar de Alemania. Ocurrio en medio de la derrota en la Primera Guerra Mundial y de disputas sobre el armisticio.",
+      "it": "Il 26 ottobre 1918 il generale Erich Ludendorff fu di fatto rimosso dalla massima direzione militare tedesca. Accadde sullo sfondo della sconfitta nella Prima guerra mondiale e delle dispute sull'armistizio.",
+      "pt": "Em 26 de outubro de 1918, o general Erich Ludendorff foi efetivamente afastado da mais alta lideranca militar da Alemanha. Isso aconteceu em meio a derrota na Primeira Guerra Mundial e a disputas sobre um armisticio.",
+      "nl": "Op 26 oktober 1918 werd generaal Erich Ludendorff feitelijk verwijderd uit de hoogste militaire leiding van Duitsland. Dat gebeurde tijdens de nederlaag in de Eerste Wereldoorlog en ruzies over een wapenstilstand.",
+      "pl": "26 pazdziernika 1918 roku general Erich Ludendorff zostal faktycznie usuniety z najwyzszego kierownictwa wojskowego Niemiec. Stalo sie to w czasie porazki w I wojnie swiatowej i sporow o zawieszenie broni.",
+      "tr": "26 Ekim 1918'de General Erich Ludendorff, Almanya'nin en ust askeri liderliginden fiilen uzaklastirildi. Bu, Birinci Dunya Savasi'ndaki yenilgi ve ateskes tartismalari sirasinda oldu.",
+      "zh": "1918年10月26日，埃里希·鲁登道夫将军实际上被排除出德国最高军事领导层。这发生在第一次世界大战战败和停战争论之中。",
+      "ja": "1918年10月26日、エーリヒ・ルーデンドルフ将軍はドイツ最高軍事指導部から事実上外されました。これは第一次世界大戦の敗北と休戦をめぐる対立の中で起こりました。",
+      "ko": "1918년 10월 26일 에리히 루덴도르프 장군은 독일 최고 군사 지도부에서 사실상 물러났다. 이는 제1차 세계대전 패배와 휴전 협상을 둘러싼 갈등 속에서 일어났다.",
+      "hi": "26 अक्टूबर 1918 को जनरल एरिख लुडेनडॉर्फ को जर्मनी के सर्वोच्च सैन्य नेतृत्व से वास्तविक रूप से हटा दिया गया। यह प्रथम विश्व युद्ध की हार और युद्धविराम पर विवादों के बीच हुआ।",
+      "ar": "في 26 أكتوبر 1918 ابعد الجنرال اريش لودندورف فعليا عن اعلى قيادة عسكرية في المانيا. حدث ذلك وسط الهزيمة في الحرب العالمية الاولى والخلافات حول الهدنة."
     },
     "importance": {
       "ru": "Отставка одного из главных военных лидеров стала знаком скорого краха империи.",
       "de": "Die Entlassung eines der wichtigsten Militaerfuehrer wurde zum Zeichen des nahenden Zusammenbruchs des Kaiserreichs.",
-      "en": "The dismissal of one of the chief military leaders became a sign of the empire's approaching collapse."
+      "en": "The dismissal of one of the chief military leaders became a sign of the empire's approaching collapse.",
+      "fr": "Le renvoi de l'un des principaux chefs militaires devint un signe de l'effondrement proche de l'Empire.",
+      "es": "La destitucion de uno de los principales lideres militares se convirtio en una senal del proximo colapso del imperio.",
+      "it": "Il congedo di uno dei principali capi militari divenne un segno del vicino crollo dell'impero.",
+      "pt": "A dispensa de um dos principais lideres militares tornou-se um sinal do colapso iminente do imperio.",
+      "nl": "Het ontslag van een van de belangrijkste militaire leiders werd een teken van de naderende instorting van het keizerrijk.",
+      "pl": "Zwolnienie jednego z glownych dowodcow wojskowych stalo sie znakiem zblizajacego sie upadku cesarstwa.",
+      "tr": "Baslica askeri liderlerden birinin gorevden alinmasi, imparatorlugun yaklasan cokusunun isareti oldu.",
+      "zh": "一位主要军事领导人的免职成为帝国即将崩溃的标志。",
+      "ja": "主要な軍事指導者の一人の解任は、帝国崩壊が近いことのしるしとなりました。",
+      "ko": "주요 군사 지도자 중 한 명의 해임은 제국 붕괴가 다가왔다는 신호가 되었다.",
+      "hi": "मुख्य सैन्य नेताओं में से एक की विदाई साम्राज्य के निकट पतन का संकेत बनी।",
+      "ar": "اصبح اعفاء احد كبار القادة العسكريين علامة على اقتراب انهيار الامبراطورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Спор о перемирии",
           "de": "Streit um den Waffenstillstand",
-          "en": "Dispute over the armistice"
+          "en": "Dispute over the armistice",
+          "fr": "Dispute sur l'armistice",
+          "es": "Disputa sobre el armisticio",
+          "it": "Disputa sull'armistizio",
+          "pt": "Disputa sobre o armisticio",
+          "nl": "Twist over de wapenstilstand",
+          "pl": "Spor o zawieszenie broni",
+          "tr": "Ateskes tartismasi",
+          "zh": "关于停战的争论",
+          "ja": "休戦をめぐる争い",
+          "ko": "휴전을 둘러싼 논쟁",
+          "hi": "युद्धविराम पर विवाद",
+          "ar": "الخلاف حول الهدنة"
         },
         "description": {
           "ru": "Немецкое руководство искало путь к прекращению войны, но внутри власти шли споры о том, как вести переговоры и кто должен нести ответственность. Уход Людендорфа показал глубину кризиса.",
           "de": "Die deutsche Fuehrung suchte einen Weg zur Beendigung des Krieges, doch innerhalb der Machtspitze wurde ueber Verhandlungen und Verantwortung gestritten. Ludendorffs Abgang zeigte die Tiefe der Krise.",
-          "en": "German leaders were looking for a way to end the war, but disputes raged inside the leadership over negotiations and responsibility. Ludendorff's departure showed the depth of the crisis."
+          "en": "German leaders were looking for a way to end the war, but disputes raged inside the leadership over negotiations and responsibility. Ludendorff's departure showed the depth of the crisis.",
+          "fr": "Les dirigeants allemands cherchaient un moyen de mettre fin a la guerre, mais des disputes agitaient le sommet du pouvoir au sujet des negociations et des responsabilites. Le depart de Ludendorff montra la profondeur de la crise.",
+          "es": "Los dirigentes alemanes buscaban una forma de terminar la guerra, pero dentro de la cupula habia fuertes disputas sobre las negociaciones y la responsabilidad. La salida de Ludendorff mostro la profundidad de la crisis.",
+          "it": "I dirigenti tedeschi cercavano un modo per porre fine alla guerra, ma al vertice del potere infuriavano dispute su negoziati e responsabilita. L'uscita di Ludendorff mostro la profondita della crisi.",
+          "pt": "Os lideres alemaes buscavam uma forma de terminar a guerra, mas havia disputas dentro da cupula sobre negociacoes e responsabilidade. A saida de Ludendorff mostrou a profundidade da crise.",
+          "nl": "De Duitse leiders zochten een manier om de oorlog te beeindigen, maar binnen de top woedden ruzies over onderhandelingen en verantwoordelijkheid. Ludendorffs vertrek toonde de diepte van de crisis.",
+          "pl": "Niemieckie kierownictwo szukalo drogi do zakonczenia wojny, ale wewnatrz wladzy trwaly spory o negocjacje i odpowiedzialnosc. Odejscie Ludendorffa pokazalo glebokosc kryzysu.",
+          "tr": "Alman liderleri savasi bitirmenin bir yolunu ariyordu, ancak yonetimin icinde muzakereler ve sorumluluk konusunda sert tartismalar vardi. Ludendorff'un ayrilisi krizin derinligini gosterdi.",
+          "zh": "德国领导层正在寻找结束战争的办法，但高层内部围绕谈判和责任激烈争执。鲁登道夫的离开显示了危机的深度。",
+          "ja": "ドイツ指導部は戦争を終わらせる道を探していましたが、交渉と責任をめぐって権力中枢では対立が激しくなっていました。ルーデンドルフの退場は危機の深さを示しました。",
+          "ko": "독일 지도부는 전쟁을 끝낼 길을 찾고 있었지만, 지도부 내부에서는 협상과 책임을 둘러싼 논쟁이 거세졌다. 루덴도르프의 퇴장은 위기의 깊이를 보여 주었다.",
+          "hi": "जर्मन नेतृत्व युद्ध समाप्त करने का रास्ता खोज रहा था, लेकिन सत्ता के भीतर वार्ता और जिम्मेदारी को लेकर विवाद तेज था। लुडेनडॉर्फ की विदाई ने संकट की गहराई दिखा दी।",
+          "ar": "كان القادة الالمان يبحثون عن طريق لانهاء الحرب، لكن الخلافات داخل القيادة كانت محتدمة حول المفاوضات والمسؤولية. واظهر رحيل لودندورف عمق الازمة."
         },
         "importance": {
           "ru": "Так видно, как военное поражение быстро превращалось в политический обвал.",
           "de": "So wird sichtbar, wie eine militaerische Niederlage rasch zu einem politischen Zusammenbruch wurde.",
-          "en": "It shows how military defeat quickly turned into political collapse."
+          "en": "It shows how military defeat quickly turned into political collapse.",
+          "fr": "Cela montre comment une defaite militaire se transforma rapidement en effondrement politique.",
+          "es": "Muestra como una derrota militar se transformo rapidamente en derrumbe politico.",
+          "it": "Mostra come una sconfitta militare si trasformo rapidamente in crollo politico.",
+          "pt": "Mostra como a derrota militar rapidamente se transformou em colapso politico.",
+          "nl": "Het laat zien hoe een militaire nederlaag snel in politieke instorting veranderde.",
+          "pl": "Pokazuje to, jak porazka wojskowa szybko zamienila sie w zalamanie polityczne.",
+          "tr": "Bu, askeri yenilginin nasil hizla siyasi cokuse donustugunu gosterir.",
+          "zh": "这显示了军事失败如何迅速转变为政治崩溃。",
+          "ja": "軍事的敗北がいかに急速に政治的崩壊へ変わったかを示しています。",
+          "ko": "이는 군사적 패배가 얼마나 빠르게 정치적 붕괴로 바뀌었는지 보여 준다.",
+          "hi": "यह दिखाता है कि सैन्य पराजय कैसे जल्दी ही राजनीतिक पतन में बदल गई।",
+          "ar": "يبين ذلك كيف تحولت الهزيمة العسكرية بسرعة الى انهيار سياسي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Гинденбург остался",
           "de": "Hindenburg bleibt",
-          "en": "Hindenburg remains"
+          "en": "Hindenburg remains",
+          "fr": "Hindenburg reste",
+          "es": "Hindenburg permanece",
+          "it": "Hindenburg resta",
+          "pt": "Hindenburg permanece",
+          "nl": "Hindenburg blijft",
+          "pl": "Hindenburg zostaje",
+          "tr": "Hindenburg kaldi",
+          "zh": "兴登堡留下",
+          "ja": "ヒンデンブルクは残る",
+          "ko": "힌덴부르크는 남다",
+          "hi": "हिंडनबर्ग बने रहे",
+          "ar": "هيندنبورغ يبقى"
         },
         "description": {
           "ru": "Пауль фон Гинденбург сохранил пост, а Людендорф ушёл. Это важно, потому что Гинденбург позже стал президентом Веймарской республики и сыграл ключевую роль в назначении Гитлера канцлером.",
           "de": "Paul von Hindenburg blieb im Amt, Ludendorff ging. Das ist wichtig, weil Hindenburg spaeter Reichspraesident der Weimarer Republik wurde und eine Schluesselrolle bei der Ernennung Hitlers zum Reichskanzler spielte.",
-          "en": "Paul von Hindenburg stayed in office while Ludendorff left. This matters because Hindenburg later became president of the Weimar Republic and played a key role in appointing Hitler chancellor."
+          "en": "Paul von Hindenburg stayed in office while Ludendorff left. This matters because Hindenburg later became president of the Weimar Republic and played a key role in appointing Hitler chancellor.",
+          "fr": "Paul von Hindenburg resta en fonction tandis que Ludendorff partit. C'est important, car Hindenburg devint plus tard president de la republique de Weimar et joua un role cle dans la nomination de Hitler comme chancelier.",
+          "es": "Paul von Hindenburg permanecio en el cargo mientras Ludendorff se marchaba. Esto importa porque Hindenburg fue luego presidente de la Republica de Weimar y desempeno un papel clave al nombrar a Hitler canciller.",
+          "it": "Paul von Hindenburg rimase in carica mentre Ludendorff se ne ando. Questo e importante perche Hindenburg divenne poi presidente della Repubblica di Weimar e svolse un ruolo chiave nella nomina di Hitler a cancelliere.",
+          "pt": "Paul von Hindenburg permaneceu no cargo enquanto Ludendorff saiu. Isso importa porque Hindenburg depois se tornou presidente da Republica de Weimar e teve papel-chave na nomeacao de Hitler como chanceler.",
+          "nl": "Paul von Hindenburg bleef in functie terwijl Ludendorff vertrok. Dat is belangrijk, omdat Hindenburg later president van de Weimarrepubliek werd en een sleutelrol speelde bij de benoeming van Hitler tot kanselier.",
+          "pl": "Paul von Hindenburg pozostal na stanowisku, podczas gdy Ludendorff odszedl. To wazne, bo Hindenburg pozniej zostal prezydentem Republiki Weimarskiej i odegral kluczowa role w mianowaniu Hitlera kanclerzem.",
+          "tr": "Paul von Hindenburg gorevde kaldi, Ludendorff ise ayrildi. Bu onemlidir, cunku Hindenburg daha sonra Weimar Cumhuriyeti'nin baskani oldu ve Hitler'in sansolye atanmasinda kilit rol oynadi.",
+          "zh": "保罗·冯·兴登堡留任，而鲁登道夫离开。这很重要，因为兴登堡后来成为魏玛共和国总统，并在任命希特勒为总理时发挥了关键作用。",
+          "ja": "パウル・フォン・ヒンデンブルクは職にとどまり、ルーデンドルフは去りました。これは重要です。ヒンデンブルクは後にワイマール共和国大統領となり、ヒトラーを首相に任命する際に重要な役割を果たしたからです。",
+          "ko": "파울 폰 힌덴부르크는 자리를 지켰고 루덴도르프는 떠났다. 이는 중요하다. 힌덴부르크는 나중에 바이마르 공화국 대통령이 되었고 히틀러를 총리로 임명하는 데 핵심 역할을 했기 때문이다.",
+          "hi": "पॉल फॉन हिंडनबर्ग पद पर बने रहे, जबकि लुडेनडॉर्फ चले गए। यह महत्वपूर्ण है, क्योंकि हिंडनबर्ग बाद में वाइमर गणराज्य के राष्ट्रपति बने और हिटलर को चांसलर नियुक्त करने में मुख्य भूमिका निभाई।",
+          "ar": "بقي باول فون هيندنبورغ في منصبه بينما رحل لودندورف. وهذا مهم لان هيندنبورغ اصبح لاحقا رئيس جمهورية فايمار ولعب دورا محوريا في تعيين هتلر مستشارا."
         },
         "importance": {
           "ru": "Иногда кадровые решения одного года отзываются в политике спустя десятилетие.",
           "de": "Manchmal wirken Personalentscheidungen eines Jahres noch ein Jahrzehnt spaeter in der Politik nach.",
-          "en": "Sometimes personnel decisions in one year echo in politics a decade later."
+          "en": "Sometimes personnel decisions in one year echo in politics a decade later.",
+          "fr": "Parfois, des decisions de personnel prises une annee resonnent encore dans la politique dix ans plus tard.",
+          "es": "A veces las decisiones de personal de un ano resuenan en la politica una decada despues.",
+          "it": "A volte le decisioni sul personale di un anno risuonano nella politica un decennio dopo.",
+          "pt": "As vezes decisoes de pessoal de um ano ecoam na politica uma decada depois.",
+          "nl": "Soms klinken personeelsbesluiten uit een bepaald jaar tien jaar later nog door in de politiek.",
+          "pl": "Czasem decyzje personalne jednego roku odbijaja sie w polityce jeszcze dekade pozniej.",
+          "tr": "Bazen bir yildaki kadro kararlari siyasette on yil sonra bile yankilanir.",
+          "zh": "有时，一年的人事决定会在十年后的政治中回响。",
+          "ja": "ある年の人事決定が、10年後の政治に響くことがあります。",
+          "ko": "때로는 어느 해의 인사 결정이 10년 뒤 정치에까지 영향을 남긴다.",
+          "hi": "कभी-कभी एक वर्ष के कर्मी-निर्णय एक दशक बाद की राजनीति में गूंजते हैं।",
+          "ar": "احيانا يتردد صدى قرارات الاشخاص في عام معين في السياسة بعد عقد كامل."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "На следующий день после просьбы",
           "de": "Einen Tag nach der Bitte",
-          "en": "One day after the request"
+          "en": "One day after the request",
+          "fr": "Un jour apres la demande",
+          "es": "Un dia despues de la solicitud",
+          "it": "Un giorno dopo la richiesta",
+          "pt": "Um dia depois do pedido",
+          "nl": "Een dag na het verzoek",
+          "pl": "Dzien po prosbie",
+          "tr": "Talepten bir gun sonra",
+          "zh": "请求后的第二天",
+          "ja": "要求の翌日",
+          "ko": "요청 하루 뒤",
+          "hi": "अनुरोध के अगले दिन",
+          "ar": "بعد يوم واحد من الطلب"
         },
         "description": {
           "ru": "Накануне Людендорф сам попросил об отставке, а 26 октября решение стало реальностью. Два соседних дня хорошо показывают, как быстро развивался кризис конца империи.",
           "de": "Am Vortag hatte Ludendorff selbst um Entlassung gebeten, am 26. Oktober wurde die Entscheidung Wirklichkeit. Zwei benachbarte Tage zeigen gut, wie schnell sich die Krise am Ende des Kaiserreichs entwickelte.",
-          "en": "The previous day Ludendorff had asked to be dismissed, and on 26 October the decision became reality. Two neighboring dates show how quickly the crisis at the end of the empire developed."
+          "en": "The previous day Ludendorff had asked to be dismissed, and on 26 October the decision became reality. Two neighboring dates show how quickly the crisis at the end of the empire developed.",
+          "fr": "La veille, Ludendorff avait lui-meme demande a etre releve de ses fonctions, et le 26 octobre la decision devint realite. Deux dates voisines montrent bien la rapidite de la crise a la fin de l'Empire.",
+          "es": "El dia anterior Ludendorff habia pedido ser destituido, y el 26 de octubre la decision se hizo realidad. Dos fechas vecinas muestran bien la rapidez con que se desarrollo la crisis al final del imperio.",
+          "it": "Il giorno prima Ludendorff aveva chiesto di essere congedato, e il 26 ottobre la decisione divenne realta. Due date vicine mostrano bene quanto rapidamente si sviluppo la crisi alla fine dell'impero.",
+          "pt": "No dia anterior Ludendorff havia pedido para ser dispensado, e em 26 de outubro a decisao virou realidade. Duas datas vizinhas mostram como a crise no fim do imperio se desenvolveu rapidamente.",
+          "nl": "De dag ervoor had Ludendorff zelf om ontslag gevraagd, en op 26 oktober werd de beslissing werkelijkheid. Twee naburige data laten goed zien hoe snel de crisis aan het einde van het keizerrijk zich ontwikkelde.",
+          "pl": "Dzien wczesniej Ludendorff sam poprosil o zwolnienie, a 26 pazdziernika decyzja stala sie rzeczywistoscia. Dwie sasiednie daty dobrze pokazuja, jak szybko rozwijal sie kryzys konca cesarstwa.",
+          "tr": "Bir onceki gun Ludendorff gorevden alinmayi kendisi istemisti; 26 Ekim'de karar gercege donustu. Yanyana iki tarih, imparatorlugun sonundaki krizin ne kadar hizli gelistigini gosterir.",
+          "zh": "前一天，鲁登道夫本人请求免职；10月26日，这一决定成为现实。相邻的两天很好地显示了帝国末期危机发展的速度。",
+          "ja": "前日、ルーデンドルフは自ら解任を求め、10月26日にその決定が現実となりました。隣り合う二つの日付は、帝国末期の危機がいかに急速に進んだかをよく示しています。",
+          "ko": "전날 루덴도르프는 직접 해임을 요청했고, 10월 26일 그 결정은 현실이 되었다. 이웃한 두 날짜는 제국 말기의 위기가 얼마나 빠르게 전개되었는지 잘 보여 준다.",
+          "hi": "पिछले दिन लुडेनडॉर्फ ने खुद पदमुक्त करने का अनुरोध किया था, और 26 अक्टूबर को निर्णय वास्तविकता बन गया। दो पास-पास की तारीखें दिखाती हैं कि साम्राज्य के अंत का संकट कितनी तेजी से बढ़ा।",
+          "ar": "في اليوم السابق كان لودندورف قد طلب بنفسه اعفاءه، وفي 26 أكتوبر اصبح القرار واقعا. يظهر يومان متجاوران مدى سرعة تطور الازمة في نهاية الامبراطورية."
         },
         "importance": {
           "ru": "Календарь позволяет увидеть историю почти по дням.",
           "de": "Der Kalender laesst Geschichte fast taggenau sichtbar werden.",
-          "en": "The calendar lets history become visible almost day by day."
+          "en": "The calendar lets history become visible almost day by day.",
+          "fr": "Le calendrier rend l'histoire visible presque jour apres jour.",
+          "es": "El calendario permite ver la historia casi dia a dia.",
+          "it": "Il calendario rende la storia visibile quasi giorno per giorno.",
+          "pt": "O calendario permite ver a historia quase dia a dia.",
+          "nl": "De kalender maakt geschiedenis bijna van dag tot dag zichtbaar.",
+          "pl": "Kalendarz pozwala zobaczyc historie niemal dzien po dniu.",
+          "tr": "Takvim tarihi neredeyse gun gun gorunur kilar.",
+          "zh": "日历让历史几乎按天变得可见。",
+          "ja": "カレンダーは歴史をほぼ一日ごとに見えるものにします。",
+          "ko": "달력은 역사를 거의 하루하루 보이게 해 준다.",
+          "hi": "कैलेंडर इतिहास को लगभग दिन-प्रतिदिन दिखाई देने देता है।",
+          "ar": "يجعل التقويم التاريخ مرئيا يوما بعد يوم تقريبا."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Через две недели после отставки Людендорфа в Германии была провозглашена республика.",
     "de": "Zwei Wochen nach Ludendorffs Entlassung wurde in Deutschland die Republik ausgerufen.",
-    "en": "Two weeks after Ludendorff's dismissal, the republic was proclaimed in Germany."
+    "en": "Two weeks after Ludendorff's dismissal, the republic was proclaimed in Germany.",
+    "fr": "Deux semaines apres le renvoi de Ludendorff, la republique fut proclamee en Allemagne.",
+    "es": "Dos semanas despues de la destitucion de Ludendorff, se proclamo la republica en Alemania.",
+    "it": "Due settimane dopo il congedo di Ludendorff, in Germania fu proclamata la repubblica.",
+    "pt": "Duas semanas depois da saida de Ludendorff, a republica foi proclamada na Alemanha.",
+    "nl": "Twee weken na Ludendorffs ontslag werd in Duitsland de republiek uitgeroepen.",
+    "pl": "Dwa tygodnie po zwolnieniu Ludendorffa w Niemczech proklamowano republike.",
+    "tr": "Ludendorff'un gorevden alinmasindan iki hafta sonra Almanya'da cumhuriyet ilan edildi.",
+    "zh": "鲁登道夫被免职两周后，德国宣告成立共和国。",
+    "ja": "ルーデンドルフ解任の2週間後、ドイツで共和国が宣言されました。",
+    "ko": "루덴도르프 해임 2주 뒤 독일에서는 공화국이 선포되었다.",
+    "hi": "लुडेनडॉर्फ की विदाई के दो सप्ताह बाद जर्मनी में गणराज्य की घोषणा हुई।",
+    "ar": "بعد اسبوعين من اعفاء لودندورف اعلنت الجمهورية في المانيا."
   },
   "sources": [
     {
