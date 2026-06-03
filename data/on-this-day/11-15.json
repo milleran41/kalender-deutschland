@@ -11,17 +11,53 @@
     "title": {
       "ru": "Введена рентная марка",
       "de": "Die Rentenmark wird eingefuehrt",
-      "en": "The Rentenmark is introduced"
+      "en": "The Rentenmark is introduced",
+      "fr": "Le Rentenmark est introduit",
+      "es": "Se introduce el Rentenmark",
+      "it": "Viene introdotto il Rentenmark",
+      "pt": "O Rentenmark e introduzido",
+      "nl": "De Rentenmark wordt ingevoerd",
+      "pl": "Wprowadzono rentenmarke",
+      "tr": "Rentenmark kullanima giriyor",
+      "zh": "地租马克开始发行",
+      "ja": "レンテンマルクが導入される",
+      "ko": "렌텐마르크가 도입되다",
+      "hi": "रेंटेनमार्क जारी किया गया",
+      "ar": "إدخال عملة الرنتنمارك"
     },
     "description": {
       "ru": "15 ноября 1923 года в Германии начали выдавать новую валюту - Rentenmark. Она помогла остановить гиперинфляцию, из-за которой бумажная марка почти потеряла ценность.",
       "de": "Am 15. November 1923 wurde in Deutschland die neue Waehrung Rentenmark ausgegeben. Sie half, die Hyperinflation zu stoppen, durch die die Papiermark fast wertlos geworden war.",
-      "en": "On 15 November 1923, Germany began issuing the new Rentenmark currency. It helped stop the hyperinflation that had made the paper mark almost worthless."
+      "en": "On 15 November 1923, Germany began issuing the new Rentenmark currency. It helped stop the hyperinflation that had made the paper mark almost worthless.",
+      "fr": "Le 15 novembre 1923, l'Allemagne commenca a emettre la nouvelle monnaie Rentenmark. Elle aida a arreter l'hyperinflation qui avait presque rendu le mark papier sans valeur.",
+      "es": "El 15 de noviembre de 1923, Alemania empezo a emitir la nueva moneda Rentenmark. Ayudo a frenar la hiperinflacion que habia dejado casi sin valor al marco de papel.",
+      "it": "Il 15 novembre 1923 la Germania inizio a emettere la nuova valuta Rentenmark. Aiuto a fermare l'iperinflazione che aveva reso quasi senza valore il marco cartaceo.",
+      "pt": "Em 15 de novembro de 1923, a Alemanha comecou a emitir a nova moeda Rentenmark. Ela ajudou a travar a hiperinflacao que quase tornou sem valor o marco de papel.",
+      "nl": "Op 15 november 1923 begon Duitsland de nieuwe munt Rentenmark uit te geven. Die hielp de hyperinflatie te stoppen waardoor de papieren mark bijna waardeloos was geworden.",
+      "pl": "15 listopada 1923 roku Niemcy zaczely emitowac nowa walute, rentenmarke. Pomogla ona zatrzymac hiperinflacje, przez ktora papierowa marka prawie stracila wartosc.",
+      "tr": "15 Kasim 1923'te Almanya yeni para birimi Rentenmark'i cikarmaya basladi. Kagit marki neredeyse degersiz yapan hiperenflasyonu durdurmaya yardim etti.",
+      "zh": "1923年11月15日，德国开始发行新货币地租马克。它帮助遏制了使纸马克几乎失去价值的恶性通货膨胀。",
+      "ja": "1923年11月15日、ドイツは新しい通貨レンテンマルクの発行を始めました。紙のマルクをほとんど無価値にしたハイパーインフレを止める助けになりました。",
+      "ko": "1923년 11월 15일 독일은 새 화폐 렌텐마르크를 발행하기 시작했다. 종이 마르크를 거의 무가치하게 만든 초인플레이션을 멈추는 데 도움이 되었다.",
+      "hi": "15 नवंबर 1923 को जर्मनी ने नई मुद्रा रेंटेनमार्क जारी करनी शुरू की। इसने उस अति-मुद्रास्फीति को रोकने में मदद की जिसने कागजी मार्क को लगभग बेकार कर दिया था।",
+      "ar": "في 15 نوفمبر 1923 بدأت ألمانيا إصدار العملة الجديدة، الرنتنمارك. وساعدت على وقف التضخم المفرط الذي جعل المارك الورقي شبه بلا قيمة."
     },
     "importance": {
       "ru": "Это был ключевой шаг к стабилизации Веймарской республики после тяжёлого кризиса 1923 года.",
       "de": "Das war ein Schluesselschritt zur Stabilisierung der Weimarer Republik nach der schweren Krise von 1923.",
-      "en": "It was a key step toward stabilizing the Weimar Republic after the severe crisis of 1923."
+      "en": "It was a key step toward stabilizing the Weimar Republic after the severe crisis of 1923.",
+      "fr": "Ce fut une etape essentielle pour stabiliser la Republique de Weimar apres la grave crise de 1923.",
+      "es": "Fue un paso clave para estabilizar la Republica de Weimar tras la grave crisis de 1923.",
+      "it": "Fu un passo decisivo per stabilizzare la Repubblica di Weimar dopo la grave crisi del 1923.",
+      "pt": "Foi um passo decisivo para estabilizar a Republica de Weimar depois da grave crise de 1923.",
+      "nl": "Het was een belangrijke stap om de Weimarrepubliek na de zware crisis van 1923 te stabiliseren.",
+      "pl": "Byl to kluczowy krok do stabilizacji Republiki Weimarskiej po ciezkim kryzysie 1923 roku.",
+      "tr": "Bu, 1923'teki agir krizden sonra Weimar Cumhuriyeti'ni istikrara kavusturmak icin kilit bir adimdi.",
+      "zh": "这是1923年严重危机后稳定魏玛共和国的关键一步。",
+      "ja": "これは1923年の深刻な危機の後、ワイマール共和国を安定させる重要な一歩でした。",
+      "ko": "이는 1923년의 심각한 위기 뒤 바이마르 공화국을 안정시키는 핵심 조치였다.",
+      "hi": "यह 1923 के गंभीर संकट के बाद वाइमर गणराज्य को स्थिर करने की दिशा में एक महत्वपूर्ण कदम था।",
+      "ar": "كانت خطوة رئيسية نحو تثبيت جمهورية فايمار بعد أزمة عام 1923 الشديدة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Гиперинфляция в повседневной жизни",
           "de": "Hyperinflation im Alltag",
-          "en": "Hyperinflation in everyday life"
+          "en": "Hyperinflation in everyday life",
+          "fr": "L'hyperinflation au quotidien",
+          "es": "La hiperinflacion en la vida diaria",
+          "it": "L'iperinflazione nella vita quotidiana",
+          "pt": "A hiperinflacao no dia a dia",
+          "nl": "Hyperinflatie in het dagelijks leven",
+          "pl": "Hiperinflacja w codziennym zyciu",
+          "tr": "Gunluk hayatta hiperenflasyon",
+          "zh": "日常生活中的恶性通货膨胀",
+          "ja": "日常生活の中のハイパーインフレ",
+          "ko": "일상 속의 초인플레이션",
+          "hi": "रोजमर्रा की जिंदगी में अति-मुद्रास्फीति",
+          "ar": "التضخم المفرط في الحياة اليومية"
         },
         "description": {
           "ru": "Цены росли так быстро, что зарплаты могли терять ценность за несколько часов. Люди спешили потратить деньги сразу, пока они ещё что-то стоили.",
           "de": "Die Preise stiegen so schnell, dass Loehne schon nach wenigen Stunden an Wert verlieren konnten. Viele Menschen gaben Geld sofort aus, solange es noch etwas wert war.",
-          "en": "Prices rose so fast that wages could lose value within hours. People rushed to spend money immediately while it was still worth something."
+          "en": "Prices rose so fast that wages could lose value within hours. People rushed to spend money immediately while it was still worth something.",
+          "fr": "Les prix montaient si vite que les salaires pouvaient perdre leur valeur en quelques heures. Les gens se depechaient de depenser l'argent tant qu'il valait encore quelque chose.",
+          "es": "Los precios subian tan rapido que los salarios podian perder valor en pocas horas. La gente se apresuraba a gastar el dinero mientras aun valia algo.",
+          "it": "I prezzi salivano cosi in fretta che i salari potevano perdere valore in poche ore. Le persone correvano a spendere il denaro finche valeva ancora qualcosa.",
+          "pt": "Os precos subiam tao depressa que os salarios podiam perder valor em poucas horas. As pessoas corriam para gastar o dinheiro enquanto ele ainda valia alguma coisa.",
+          "nl": "De prijzen stegen zo snel dat lonen al binnen enkele uren waarde konden verliezen. Mensen haastten zich om geld meteen uit te geven zolang het nog iets waard was.",
+          "pl": "Ceny rosly tak szybko, ze pensje mogly tracic wartosc w ciagu kilku godzin. Ludzie spieszyli sie wydawac pieniadze od razu, poki jeszcze cos znaczyly.",
+          "tr": "Fiyatlar o kadar hizli artiyordu ki maaslar birkac saat icinde deger kaybedebiliyordu. Insanlar para hala bir seye yararken hemen harcamaya calisiyordu.",
+          "zh": "物价上涨得如此之快，工资可能在几小时内就失去价值。人们赶紧把钱花掉，趁它还值点什么。",
+          "ja": "物価はあまりに速く上がり、賃金は数時間で価値を失うこともありました。人々はお金にまだ価値があるうちに急いで使おうとしました。",
+          "ko": "물가는 너무 빠르게 올라 임금이 몇 시간 만에 가치를 잃을 수도 있었다. 사람들은 돈이 아직 가치가 있을 때 서둘러 써 버리려 했다.",
+          "hi": "कीमतें इतनी तेजी से बढ़ती थीं कि मजदूरी कुछ ही घंटों में अपनी कीमत खो सकती थी। लोग पैसा तुरंत खर्च करने की जल्दी करते थे, जब तक उसकी कुछ कीमत बची थी।",
+          "ar": "كانت الأسعار ترتفع بسرعة كبيرة حتى إن الأجور قد تفقد قيمتها خلال ساعات. وكان الناس يسارعون إلى إنفاق المال فورا ما دام ما زال يساوي شيئا."
         },
         "importance": {
           "ru": "Так экономический кризис становится понятным не как график, а как ежедневная тревога людей.",
           "de": "So wird eine Wirtschaftskrise nicht als Diagramm, sondern als taegliche Sorge der Menschen verstaendlich.",
-          "en": "This makes an economic crisis understandable not as a chart but as people's daily anxiety."
+          "en": "This makes an economic crisis understandable not as a chart but as people's daily anxiety.",
+          "fr": "Ainsi, une crise economique se comprend non comme un graphique, mais comme une inquietude quotidienne.",
+          "es": "Asi una crisis economica se entiende no como un grafico, sino como una preocupacion diaria de la gente.",
+          "it": "Cosi una crisi economica diventa comprensibile non come un grafico, ma come un'ansia quotidiana delle persone.",
+          "pt": "Assim, uma crise economica e entendida nao como um grafico, mas como uma preocupacao diaria das pessoas.",
+          "nl": "Zo wordt een economische crisis begrijpelijk, niet als grafiek maar als dagelijkse zorg van mensen.",
+          "pl": "Dzieki temu kryzys gospodarczy widac nie jako wykres, lecz jako codzienny niepokoj ludzi.",
+          "tr": "Boylece ekonomik kriz bir grafik degil, insanlarin gunluk kaygisi olarak anlasilir.",
+          "zh": "这样，经济危机不再只是图表，而是人们每天的焦虑。",
+          "ja": "こうして経済危機はグラフではなく、人々の日々の不安として理解できます。",
+          "ko": "이렇게 보면 경제 위기는 도표가 아니라 사람들의 매일의 불안으로 이해된다.",
+          "hi": "इससे आर्थिक संकट किसी ग्राफ की तरह नहीं, बल्कि लोगों की रोज की चिंता की तरह समझ आता है।",
+          "ar": "هكذا تصبح الأزمة الاقتصادية مفهومة لا كرسم بياني، بل كقلق يومي للناس."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Финансовая техника стабилизации",
           "de": "Finanztechnik der Stabilisierung",
-          "en": "Financial engineering of stabilization"
+          "en": "Financial engineering of stabilization",
+          "fr": "La technique financiere de la stabilisation",
+          "es": "La tecnica financiera de la estabilizacion",
+          "it": "La tecnica finanziaria della stabilizzazione",
+          "pt": "A engenharia financeira da estabilizacao",
+          "nl": "Financiele techniek van stabilisatie",
+          "pl": "Finansowa technika stabilizacji",
+          "tr": "Istikrarin finansal teknigi",
+          "zh": "稳定货币的金融办法",
+          "ja": "安定化のための金融技術",
+          "ko": "안정을 위한 금융 기법",
+          "hi": "स्थिरीकरण की वित्तीय तकनीक",
+          "ar": "الهندسة المالية للاستقرار"
         },
         "description": {
           "ru": "Rentenmark была обеспечена не золотом, а залоговой стоимостью земли и промышленности. Важнее всего оказалось доверие к ограниченному выпуску новой валюты.",
           "de": "Die Rentenmark war nicht durch Gold, sondern durch Grund- und Industriewerte gedeckt. Entscheidend war vor allem das Vertrauen in die begrenzte Ausgabe der neuen Waehrung.",
-          "en": "The Rentenmark was backed not by gold but by the value of land and industry. Most important was trust in the limited issue of the new currency."
+          "en": "The Rentenmark was backed not by gold but by the value of land and industry. Most important was trust in the limited issue of the new currency.",
+          "fr": "Le Rentenmark n'etait pas garanti par l'or, mais par la valeur des terres et de l'industrie. Le plus important fut la confiance dans une emission limitee de la nouvelle monnaie.",
+          "es": "El Rentenmark no estaba respaldado por oro, sino por el valor de la tierra y la industria. Lo mas importante fue la confianza en la emision limitada de la nueva moneda.",
+          "it": "Il Rentenmark non era garantito dall'oro, ma dal valore della terra e dell'industria. La cosa piu importante fu la fiducia nell'emissione limitata della nuova valuta.",
+          "pt": "O Rentenmark nao era garantido por ouro, mas pelo valor da terra e da industria. O mais importante foi a confianca na emissao limitada da nova moeda.",
+          "nl": "De Rentenmark was niet door goud gedekt, maar door de waarde van grond en industrie. Het belangrijkste was vertrouwen in de beperkte uitgifte van de nieuwe munt.",
+          "pl": "Rentenmarka nie byla zabezpieczona zlotem, lecz wartoscia ziemi i przemyslu. Najwazniejsze okazalo sie zaufanie do ograniczonej emisji nowej waluty.",
+          "tr": "Rentenmark altinla degil, toprak ve sanayi degeriyle destekleniyordu. En onemlisi yeni paranin sinirli basimina duyulan guvendi.",
+          "zh": "地租马克的担保不是黄金，而是土地和工业的价值。最重要的是人们相信新货币会被限制发行。",
+          "ja": "レンテンマルクは金ではなく、土地と産業の価値を裏付けとしていました。何より重要だったのは、新通貨の発行が制限されるという信頼でした。",
+          "ko": "렌텐마르크는 금이 아니라 토지와 산업의 가치로 뒷받침되었다. 가장 중요했던 것은 새 화폐가 제한적으로 발행된다는 신뢰였다.",
+          "hi": "रेंटेनमार्क सोने से नहीं, बल्कि भूमि और उद्योग के मूल्य से समर्थित था। सबसे महत्वपूर्ण बात नई मुद्रा के सीमित जारी होने पर भरोसा था।",
+          "ar": "لم تكن الرنتنمارك مضمونة بالذهب، بل بقيمة الأراضي والصناعة. وكان الأهم هو الثقة في الإصدار المحدود للعملة الجديدة."
         },
         "importance": {
           "ru": "Это хороший пример того, как деньги зависят не только от бумаги, но и от доверия.",
           "de": "Das ist ein gutes Beispiel dafuer, dass Geld nicht nur von Papier, sondern auch von Vertrauen abhaengt.",
-          "en": "It is a good example of how money depends not only on paper but also on trust."
+          "en": "It is a good example of how money depends not only on paper but also on trust.",
+          "fr": "C'est un bon exemple du fait que l'argent depend non seulement du papier, mais aussi de la confiance.",
+          "es": "Es un buen ejemplo de que el dinero depende no solo del papel, sino tambien de la confianza.",
+          "it": "E un buon esempio di come il denaro dipenda non solo dalla carta, ma anche dalla fiducia.",
+          "pt": "E um bom exemplo de como o dinheiro depende nao so do papel, mas tambem da confianca.",
+          "nl": "Het is een goed voorbeeld dat geld niet alleen van papier afhangt, maar ook van vertrouwen.",
+          "pl": "To dobry przyklad tego, ze pieniadze zaleza nie tylko od papieru, ale takze od zaufania.",
+          "tr": "Bu, paranin yalnizca kagida degil guvene de bagli olduguna iyi bir ornektir.",
+          "zh": "这是一个很好的例子，说明货币不仅取决于纸张，也取决于信任。",
+          "ja": "お金は紙だけでなく信頼にも支えられていることを示すよい例です。",
+          "ko": "돈이 종이뿐 아니라 신뢰에도 달려 있음을 보여 주는 좋은 예이다.",
+          "hi": "यह इस बात का अच्छा उदाहरण है कि पैसा केवल कागज पर नहीं, भरोसे पर भी निर्भर करता है।",
+          "ar": "إنه مثال جيد على أن المال لا يعتمد على الورق فقط، بل على الثقة أيضا."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Триллионы старых марок",
           "de": "Billionen alter Mark",
-          "en": "Trillions of old marks"
+          "en": "Trillions of old marks",
+          "fr": "Des billions d'anciens marks",
+          "es": "Billones de marcos antiguos",
+          "it": "Bilioni di vecchi marchi",
+          "pt": "Trilioes de marcos antigos",
+          "nl": "Biljoenen oude marken",
+          "pl": "Biliony starych marek",
+          "tr": "Trilyonlarca eski mark",
+          "zh": "数万亿旧马克",
+          "ja": "何兆もの旧マルク",
+          "ko": "수조 개의 옛 마르크",
+          "hi": "पुराने मार्कों की खरबों राशि",
+          "ar": "تريليونات من الماركات القديمة"
         },
         "description": {
           "ru": "Курс обмена закрепил огромную разницу между старой и новой валютой: одна Rentenmark соответствовала триллиону бумажных марок. Такая цифра хорошо показывает масштаб кризиса.",
           "de": "Der Umrechnungskurs zeigte den riesigen Abstand zwischen alter und neuer Waehrung: Eine Rentenmark entsprach einer Billion Papiermark. Diese Zahl macht das Ausmass der Krise anschaulich.",
-          "en": "The exchange rate showed the huge gap between old and new currency: one Rentenmark equaled one trillion paper marks. That number makes the scale of the crisis vivid."
+          "en": "The exchange rate showed the huge gap between old and new currency: one Rentenmark equaled one trillion paper marks. That number makes the scale of the crisis vivid.",
+          "fr": "Le taux de change montrait l'enorme ecart entre l'ancienne et la nouvelle monnaie: un Rentenmark valait mille milliards de marks papier. Ce chiffre rend l'ampleur de la crise tres concrete.",
+          "es": "El tipo de cambio mostraba la enorme distancia entre la moneda antigua y la nueva: un Rentenmark equivalia a un billon de marcos de papel. Esa cifra muestra claramente la escala de la crisis.",
+          "it": "Il cambio mostrava l'enorme distanza tra vecchia e nuova moneta: un Rentenmark equivaleva a un bilione di marchi cartacei. Quel numero rende evidente la scala della crisi.",
+          "pt": "A taxa de conversao mostrava a enorme distancia entre a moeda antiga e a nova: um Rentenmark equivalia a um trilhao de marcos de papel. Esse numero mostra bem a escala da crise.",
+          "nl": "De wisselkoers liet de enorme afstand tussen oude en nieuwe munt zien: een Rentenmark was gelijk aan een biljoen papieren marken. Dat getal maakt de omvang van de crisis duidelijk.",
+          "pl": "Kurs wymiany pokazal ogromna roznice miedzy stara i nowa waluta: jedna rentenmarka odpowiadala bilionowi papierowych marek. Ta liczba dobrze pokazuje skale kryzysu.",
+          "tr": "Degisim kuru eski ve yeni para arasindaki dev farki gosterdi: bir Rentenmark bir trilyon kagit marka esitti. Bu sayi krizin boyutunu cok acik gosterir.",
+          "zh": "兑换率显示了旧货币和新货币之间的巨大差距：1地租马克等于1万亿纸马克。这个数字很直观地说明了危机的规模。",
+          "ja": "交換比率は旧通貨と新通貨の大きな差を示しました。1レンテンマルクは1兆紙マルクに相当しました。この数字は危機の大きさをよく伝えます。",
+          "ko": "환율은 옛 화폐와 새 화폐 사이의 거대한 차이를 보여 주었다. 1렌텐마르크는 종이 마르크 1조 개와 같았다. 이 숫자는 위기의 규모를 생생하게 보여 준다.",
+          "hi": "विनिमय दर ने पुरानी और नई मुद्रा के बीच विशाल अंतर दिखाया: एक रेंटेनमार्क एक ट्रिलियन कागजी मार्क के बराबर था। यह संख्या संकट का पैमाना साफ दिखाती है।",
+          "ar": "أظهر سعر التحويل الفارق الهائل بين العملة القديمة والجديدة: كانت رنتنمارك واحدة تساوي تريليون مارك ورقي. وهذا الرقم يوضح حجم الأزمة بوضوح."
         },
         "importance": {
           "ru": "Иногда одна денежная цифра объясняет эпоху лучше длинной лекции.",
           "de": "Manchmal erklaert eine Geldzahl eine Epoche besser als eine lange Vorlesung.",
-          "en": "Sometimes one monetary number explains an era better than a long lecture."
+          "en": "Sometimes one monetary number explains an era better than a long lecture.",
+          "fr": "Parfois, un seul chiffre monetaire explique une epoque mieux qu'un long cours.",
+          "es": "A veces una sola cifra monetaria explica una epoca mejor que una larga leccion.",
+          "it": "A volte un solo numero monetario spiega un'epoca meglio di una lunga lezione.",
+          "pt": "As vezes, um unico numero monetario explica uma epoca melhor do que uma longa aula.",
+          "nl": "Soms verklaart een geldbedrag een tijdperk beter dan een lange les.",
+          "pl": "Czasem jedna liczba pieniezna wyjasnia epoke lepiej niz dlugi wyklad.",
+          "tr": "Bazen tek bir para rakami bir donemi uzun bir dersten daha iyi anlatir.",
+          "zh": "有时，一个货币数字比长篇讲课更能说明一个时代。",
+          "ja": "時には一つのお金の数字が、長い講義よりも時代をよく説明します。",
+          "ko": "때로는 하나의 화폐 숫자가 긴 강의보다 한 시대를 더 잘 설명한다.",
+          "hi": "कभी-कभी पैसे की एक संख्या किसी युग को लंबी व्याख्यान से बेहतर समझा देती है।",
+          "ar": "أحيانا يشرح رقم مالي واحد عصرا كاملا أفضل من محاضرة طويلة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Rentenmark часто называют «чудом рентной марки», потому что инфляция остановилась очень быстро.",
     "de": "Die Rentenmark wird oft als Wunder der Rentenmark bezeichnet, weil die Inflation sehr schnell zum Stillstand kam.",
-    "en": "The Rentenmark is often called the miracle of the Rentenmark because inflation stopped very quickly."
+    "en": "The Rentenmark is often called the miracle of the Rentenmark because inflation stopped very quickly.",
+    "fr": "Le Rentenmark est souvent appele le miracle du Rentenmark, car l'inflation s'est arretee tres vite.",
+    "es": "El Rentenmark se llama a menudo el milagro del Rentenmark porque la inflacion se detuvo muy rapido.",
+    "it": "Il Rentenmark e spesso chiamato il miracolo del Rentenmark, perche l'inflazione si fermo molto rapidamente.",
+    "pt": "O Rentenmark e muitas vezes chamado de milagre do Rentenmark, porque a inflacao parou muito rapidamente.",
+    "nl": "De Rentenmark wordt vaak het wonder van de Rentenmark genoemd, omdat de inflatie heel snel stopte.",
+    "pl": "Rentenmarke czesto nazywa sie cudem rentenmarki, bo inflacja zatrzymala sie bardzo szybko.",
+    "tr": "Rentenmark sik sik Rentenmark mucizesi diye anilir, cunku enflasyon cok hizli durdu.",
+    "zh": "地租马克常被称为“地租马克奇迹”，因为通货膨胀很快就停止了。",
+    "ja": "レンテンマルクは、インフレが非常に早く止まったため「レンテンマルクの奇跡」と呼ばれることがあります。",
+    "ko": "렌텐마르크는 인플레이션이 매우 빠르게 멈췄기 때문에 흔히 '렌텐마르크의 기적'이라고 불린다.",
+    "hi": "रेंटेनमार्क को अक्सर 'रेंटेनमार्क का चमत्कार' कहा जाता है, क्योंकि मुद्रास्फीति बहुत तेजी से रुक गई थी।",
+    "ar": "غالبا ما تسمى الرنتنمارك بمعجزة الرنتنمارك، لأن التضخم توقف بسرعة كبيرة."
   },
   "sources": [
     {

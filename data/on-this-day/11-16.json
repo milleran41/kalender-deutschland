@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписана конституция UNESCO",
       "de": "Die Verfassung der UNESCO wird unterzeichnet",
-      "en": "UNESCO's constitution is signed"
+      "en": "UNESCO's constitution is signed",
+      "fr": "La constitution de l'UNESCO est signee",
+      "es": "Se firma la constitucion de la UNESCO",
+      "it": "Viene firmata la costituzione dell'UNESCO",
+      "pt": "A constituicao da UNESCO e assinada",
+      "nl": "De grondwet van UNESCO wordt ondertekend",
+      "pl": "Podpisano konstytucje UNESCO",
+      "tr": "UNESCO anayasasi imzalaniyor",
+      "zh": "联合国教科文组织章程签署",
+      "ja": "UNESCO憲章が署名される",
+      "ko": "유네스코 헌장이 서명되다",
+      "hi": "UNESCO का संविधान हस्ताक्षरित हुआ",
+      "ar": "توقيع دستور اليونسكو"
     },
     "description": {
       "ru": "16 ноября 1945 года в Лондоне была подписана конституция UNESCO. Организация возникла после Второй мировой войны как попытка укреплять мир через образование, науку и культуру.",
       "de": "Am 16. November 1945 wurde in London die Verfassung der UNESCO unterzeichnet. Die Organisation entstand nach dem Zweiten Weltkrieg mit dem Ziel, Frieden durch Bildung, Wissenschaft und Kultur zu staerken.",
-      "en": "On 16 November 1945, UNESCO's constitution was signed in London. The organization emerged after the Second World War as an effort to strengthen peace through education, science and culture."
+      "en": "On 16 November 1945, UNESCO's constitution was signed in London. The organization emerged after the Second World War as an effort to strengthen peace through education, science and culture.",
+      "fr": "Le 16 novembre 1945, la constitution de l'UNESCO fut signee a Londres. L'organisation naquit apres la Seconde Guerre mondiale pour renforcer la paix par l'education, la science et la culture.",
+      "es": "El 16 de noviembre de 1945 se firmo en Londres la constitucion de la UNESCO. La organizacion surgio despues de la Segunda Guerra Mundial como intento de fortalecer la paz mediante la educacion, la ciencia y la cultura.",
+      "it": "Il 16 novembre 1945 fu firmata a Londra la costituzione dell'UNESCO. L'organizzazione nacque dopo la Seconda guerra mondiale per rafforzare la pace attraverso istruzione, scienza e cultura.",
+      "pt": "Em 16 de novembro de 1945, a constituicao da UNESCO foi assinada em Londres. A organizacao surgiu depois da Segunda Guerra Mundial para fortalecer a paz por meio da educacao, da ciencia e da cultura.",
+      "nl": "Op 16 november 1945 werd in Londen de grondwet van UNESCO ondertekend. De organisatie ontstond na de Tweede Wereldoorlog om vrede te versterken via onderwijs, wetenschap en cultuur.",
+      "pl": "16 listopada 1945 roku w Londynie podpisano konstytucje UNESCO. Organizacja powstala po drugiej wojnie swiatowej jako proba wzmacniania pokoju przez edukacje, nauke i kulture.",
+      "tr": "16 Kasim 1945'te UNESCO anayasasi Londra'da imzalandi. Kurulus, Ikinci Dunya Savasi'ndan sonra barisi egitim, bilim ve kultur yoluyla guclendirme cabasi olarak ortaya cikti.",
+      "zh": "1945年11月16日，联合国教科文组织章程在伦敦签署。这个组织在第二次世界大战后成立，目标是通过教育、科学和文化加强和平。",
+      "ja": "1945年11月16日、UNESCO憲章がロンドンで署名されました。この組織は第二次世界大戦後、教育・科学・文化を通じて平和を強めるために生まれました。",
+      "ko": "1945년 11월 16일 유네스코 헌장이 런던에서 서명되었다. 이 기구는 제2차 세계대전 뒤 교육, 과학, 문화를 통해 평화를 강화하려는 노력으로 생겨났다.",
+      "hi": "16 नवंबर 1945 को लंदन में UNESCO के संविधान पर हस्ताक्षर हुए। यह संगठन द्वितीय विश्व युद्ध के बाद शिक्षा, विज्ञान और संस्कृति के माध्यम से शांति मजबूत करने के प्रयास के रूप में बना।",
+      "ar": "في 16 نوفمبر 1945 وُقع دستور اليونسكو في لندن. نشأت المنظمة بعد الحرب العالمية الثانية كمحاولة لتعزيز السلام عبر التعليم والعلم والثقافة."
     },
     "importance": {
       "ru": "Для Германии эта дата связана с послевоенным восстановлением культуры, науки и международного доверия.",
       "de": "Fuer Deutschland ist dieses Datum mit dem Wiederaufbau von Kultur, Wissenschaft und internationalem Vertrauen nach dem Krieg verbunden.",
-      "en": "For Germany, the date is connected with the postwar rebuilding of culture, science and international trust."
+      "en": "For Germany, the date is connected with the postwar rebuilding of culture, science and international trust.",
+      "fr": "Pour l'Allemagne, cette date est liee a la reconstruction d'apres-guerre de la culture, de la science et de la confiance internationale.",
+      "es": "Para Alemania, esta fecha esta vinculada con la reconstruccion de posguerra de la cultura, la ciencia y la confianza internacional.",
+      "it": "Per la Germania, questa data e legata alla ricostruzione postbellica della cultura, della scienza e della fiducia internazionale.",
+      "pt": "Para a Alemanha, esta data esta ligada a reconstrucao pos-guerra da cultura, da ciencia e da confianca internacional.",
+      "nl": "Voor Duitsland is deze datum verbonden met de wederopbouw na de oorlog van cultuur, wetenschap en internationaal vertrouwen.",
+      "pl": "Dla Niemiec ta data laczy sie z powojenna odbudowa kultury, nauki i miedzynarodowego zaufania.",
+      "tr": "Almanya icin bu tarih, savas sonrasi kulturun, bilimin ve uluslararasi guvenin yeniden kurulmasiyla baglantilidir.",
+      "zh": "对德国来说，这一天与战后文化、科学和国际信任的重建相联系。",
+      "ja": "ドイツにとってこの日は、戦後の文化、科学、国際的信頼の再建と結びついています。",
+      "ko": "독일에게 이 날짜는 전후 문화, 과학, 국제적 신뢰의 재건과 연결된다.",
+      "hi": "जर्मनी के लिए यह तारीख युद्ध के बाद संस्कृति, विज्ञान और अंतरराष्ट्रीय भरोसे के पुनर्निर्माण से जुड़ी है।",
+      "ar": "بالنسبة إلى ألمانيا يرتبط هذا التاريخ بإعادة بناء الثقافة والعلم والثقة الدولية بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Культура после разрушений",
           "de": "Kultur nach den Zerstoerungen",
-          "en": "Culture after destruction"
+          "en": "Culture after destruction",
+          "fr": "La culture apres les destructions",
+          "es": "La cultura tras la destruccion",
+          "it": "La cultura dopo le distruzioni",
+          "pt": "A cultura depois da destruicao",
+          "nl": "Cultuur na verwoesting",
+          "pl": "Kultura po zniszczeniach",
+          "tr": "Yikimdan sonra kultur",
+          "zh": "废墟之后的文化",
+          "ja": "破壊の後の文化",
+          "ko": "파괴 이후의 문화",
+          "hi": "विनाश के बाद संस्कृति",
+          "ar": "الثقافة بعد الدمار"
         },
         "description": {
           "ru": "После войны Европа лежала в руинах, а музеи, школы, библиотеки и памятники нуждались в восстановлении. UNESCO стала одной из организаций, которые помогали говорить о культуре как о деле всего мира.",
           "de": "Nach dem Krieg lag Europa in Truemmern, und Museen, Schulen, Bibliotheken und Denkmaeler mussten wiederaufgebaut werden. Die UNESCO wurde zu einer Organisation, die Kultur als Aufgabe der ganzen Welt verstand.",
-          "en": "After the war, Europe lay in ruins, and museums, schools, libraries and monuments needed rebuilding. UNESCO became one organization that treated culture as a responsibility shared by the world."
+          "en": "After the war, Europe lay in ruins, and museums, schools, libraries and monuments needed rebuilding. UNESCO became one organization that treated culture as a responsibility shared by the world.",
+          "fr": "Apres la guerre, l'Europe etait en ruines, et les musees, ecoles, bibliotheques et monuments devaient etre reconstruits. L'UNESCO devint l'une des organisations qui voyaient la culture comme une responsabilite du monde entier.",
+          "es": "Despues de la guerra, Europa estaba en ruinas, y museos, escuelas, bibliotecas y monumentos necesitaban reconstruccion. La UNESCO se convirtio en una organizacion que entendia la cultura como una tarea de todo el mundo.",
+          "it": "Dopo la guerra, l'Europa era in rovine, e musei, scuole, biblioteche e monumenti dovevano essere ricostruiti. L'UNESCO divenne una delle organizzazioni che consideravano la cultura una responsabilita di tutto il mondo.",
+          "pt": "Depois da guerra, a Europa estava em ruinas, e museus, escolas, bibliotecas e monumentos precisavam ser reconstruidos. A UNESCO tornou-se uma organizacao que via a cultura como responsabilidade de todo o mundo.",
+          "nl": "Na de oorlog lag Europa in puin, en musea, scholen, bibliotheken en monumenten moesten worden herbouwd. UNESCO werd een organisatie die cultuur zag als een taak van de hele wereld.",
+          "pl": "Po wojnie Europa lezala w ruinach, a muzea, szkoly, biblioteki i zabytki wymagaly odbudowy. UNESCO stala sie jedna z organizacji, ktore traktowaly kulture jako sprawe calego swiata.",
+          "tr": "Savastan sonra Avrupa harabe halindeydi; muzeler, okullar, kutuphaneler ve anitlar yeniden kurulmaya muhtacti. UNESCO, kulturu tum dunyanin sorumlulugu olarak goren kuruluslardan biri oldu.",
+          "zh": "战争结束后，欧洲满目疮痍，博物馆、学校、图书馆和纪念建筑都需要重建。UNESCO成为把文化看作全世界共同责任的组织之一。",
+          "ja": "戦後のヨーロッパは廃墟となり、博物館、学校、図書館、記念建造物は再建を必要としていました。UNESCOは文化を世界全体の責任と考える組織の一つになりました。",
+          "ko": "전쟁 뒤 유럽은 폐허가 되었고 박물관, 학교, 도서관, 기념물은 재건이 필요했다. 유네스코는 문화를 전 세계가 함께 책임져야 할 일로 본 조직 중 하나가 되었다.",
+          "hi": "युद्ध के बाद यूरोप खंडहरों में था, और संग्रहालयों, स्कूलों, पुस्तकालयों तथा स्मारकों को फिर से बनाने की जरूरत थी। UNESCO उन संगठनों में से एक बना जिसने संस्कृति को पूरी दुनिया की जिम्मेदारी माना।",
+          "ar": "بعد الحرب كانت أوروبا في حالة خراب، وكانت المتاحف والمدارس والمكتبات والآثار بحاجة إلى إعادة بناء. وأصبحت اليونسكو إحدى المنظمات التي رأت الثقافة مسؤولية مشتركة للعالم كله."
         },
         "importance": {
           "ru": "Это напоминает, что восстановление страны состоит не только из домов и дорог, но и из образования и памяти.",
           "de": "Das erinnert daran, dass der Wiederaufbau eines Landes nicht nur aus Haeusern und Strassen besteht, sondern auch aus Bildung und Erinnerung.",
-          "en": "It is a reminder that rebuilding a country involves not only houses and roads, but also education and memory."
+          "en": "It is a reminder that rebuilding a country involves not only houses and roads, but also education and memory.",
+          "fr": "Cela rappelle que reconstruire un pays ne concerne pas seulement les maisons et les routes, mais aussi l'education et la memoire.",
+          "es": "Recuerda que reconstruir un pais no consiste solo en casas y carreteras, sino tambien en educacion y memoria.",
+          "it": "Ricorda che ricostruire un paese non significa solo case e strade, ma anche istruzione e memoria.",
+          "pt": "Isso lembra que reconstruir um pais nao envolve apenas casas e estradas, mas tambem educacao e memoria.",
+          "nl": "Het herinnert eraan dat de wederopbouw van een land niet alleen uit huizen en wegen bestaat, maar ook uit onderwijs en herinnering.",
+          "pl": "To przypomina, ze odbudowa kraju to nie tylko domy i drogi, ale takze edukacja i pamiec.",
+          "tr": "Bu, bir ulkeyi yeniden kurmanin yalnizca evler ve yollardan degil, egitim ve hafizadan da olustugunu hatirlatir.",
+          "zh": "这提醒人们，重建一个国家不仅包括房屋和道路，也包括教育和记忆。",
+          "ja": "国の再建は家や道路だけでなく、教育と記憶にも関わることを思い出させます。",
+          "ko": "한 나라의 재건은 집과 도로뿐 아니라 교육과 기억도 포함한다는 점을 일깨운다.",
+          "hi": "यह याद दिलाता है कि किसी देश का पुनर्निर्माण केवल घरों और सड़कों से नहीं, बल्कि शिक्षा और स्मृति से भी होता है।",
+          "ar": "وهذا يذكر بأن إعادة بناء بلد لا تعني البيوت والطرق فقط، بل التعليم والذاكرة أيضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Наука как язык сотрудничества",
           "de": "Wissenschaft als Sprache der Zusammenarbeit",
-          "en": "Science as a language of cooperation"
+          "en": "Science as a language of cooperation",
+          "fr": "La science comme langage de cooperation",
+          "es": "La ciencia como lenguaje de cooperacion",
+          "it": "La scienza come linguaggio della cooperazione",
+          "pt": "A ciencia como linguagem da cooperacao",
+          "nl": "Wetenschap als taal van samenwerking",
+          "pl": "Nauka jako jezyk wspolpracy",
+          "tr": "Isbirliginin dili olarak bilim",
+          "zh": "科学作为合作的语言",
+          "ja": "協力の言語としての科学",
+          "ko": "협력의 언어로서의 과학",
+          "hi": "सहयोग की भाषा के रूप में विज्ञान",
+          "ar": "العلم كلغة للتعاون"
         },
         "description": {
           "ru": "UNESCO включила науку в свою миссию рядом с образованием и культурой. После опыта войны это было важным сигналом: знания должны помогать сотрудничеству, а не только военной силе.",
           "de": "Die UNESCO stellte Wissenschaft neben Bildung und Kultur in den Mittelpunkt ihrer Aufgabe. Nach den Kriegserfahrungen war das ein wichtiges Signal: Wissen sollte Zusammenarbeit foerdern, nicht nur militaerische Macht.",
-          "en": "UNESCO placed science alongside education and culture in its mission. After the experience of war, this was an important signal: knowledge should support cooperation, not only military power."
+          "en": "UNESCO placed science alongside education and culture in its mission. After the experience of war, this was an important signal: knowledge should support cooperation, not only military power.",
+          "fr": "L'UNESCO placa la science, avec l'education et la culture, au coeur de sa mission. Apres l'experience de la guerre, c'etait un signal important: le savoir devait servir la cooperation, pas seulement la puissance militaire.",
+          "es": "La UNESCO puso la ciencia, junto con la educacion y la cultura, en el centro de su mision. Tras la experiencia de la guerra, fue una senal importante: el conocimiento debia apoyar la cooperacion, no solo el poder militar.",
+          "it": "L'UNESCO mise la scienza, insieme a istruzione e cultura, al centro della sua missione. Dopo l'esperienza della guerra, fu un segnale importante: la conoscenza doveva favorire la cooperazione, non solo la forza militare.",
+          "pt": "A UNESCO colocou a ciencia, junto da educacao e da cultura, no centro da sua missao. Depois da experiencia da guerra, foi um sinal importante: o conhecimento deveria apoiar a cooperacao, nao apenas o poder militar.",
+          "nl": "UNESCO plaatste wetenschap naast onderwijs en cultuur in haar missie. Na de oorlogservaring was dat een belangrijk signaal: kennis moest samenwerking steunen, niet alleen militaire macht.",
+          "pl": "UNESCO wlaczyla nauke do swojej misji obok edukacji i kultury. Po doswiadczeniu wojny byl to wazny sygnal: wiedza miala wspierac wspolprace, a nie tylko sile wojskowa.",
+          "tr": "UNESCO, bilimi egitim ve kulturle birlikte gorevinin merkezine koydu. Savas deneyiminden sonra bu onemli bir isaretti: bilgi yalnizca askeri guce degil, isbirligine hizmet etmeliydi.",
+          "zh": "UNESCO把科学与教育、文化一起列入自己的使命。经历战争之后，这传递了重要信号：知识应当帮助合作，而不只是服务军事力量。",
+          "ja": "UNESCOは教育と文化に加えて科学を使命の中心に置きました。戦争の経験の後、知識は軍事力だけでなく協力を支えるべきだという重要な合図でした。",
+          "ko": "유네스코는 교육과 문화와 함께 과학을 사명의 중심에 두었다. 전쟁의 경험 뒤 이것은 중요한 신호였다. 지식은 군사력뿐 아니라 협력을 도와야 했다.",
+          "hi": "UNESCO ने शिक्षा और संस्कृति के साथ विज्ञान को भी अपने मिशन में रखा। युद्ध के अनुभव के बाद यह महत्वपूर्ण संकेत था कि ज्ञान को केवल सैन्य शक्ति नहीं, बल्कि सहयोग की मदद करनी चाहिए।",
+          "ar": "وضعت اليونسكو العلم إلى جانب التعليم والثقافة في صميم مهمتها. وبعد تجربة الحرب كان ذلك إشارة مهمة: يجب أن تخدم المعرفة التعاون، لا القوة العسكرية فقط."
         },
         "importance": {
           "ru": "Для страны с сильной научной традицией, такой как Германия, это имело особый смысл после 1945 года.",
           "de": "Fuer ein Land mit starker wissenschaftlicher Tradition wie Deutschland hatte das nach 1945 besondere Bedeutung.",
-          "en": "For a country with a strong scientific tradition such as Germany, this had special meaning after 1945."
+          "en": "For a country with a strong scientific tradition such as Germany, this had special meaning after 1945.",
+          "fr": "Pour un pays a forte tradition scientifique comme l'Allemagne, cela avait un sens particulier apres 1945.",
+          "es": "Para un pais con una fuerte tradicion cientifica como Alemania, esto tuvo un significado especial despues de 1945.",
+          "it": "Per un paese con una forte tradizione scientifica come la Germania, cio ebbe un significato speciale dopo il 1945.",
+          "pt": "Para um pais com forte tradicao cientifica como a Alemanha, isso teve um significado especial depois de 1945.",
+          "nl": "Voor een land met een sterke wetenschappelijke traditie zoals Duitsland had dit na 1945 een bijzondere betekenis.",
+          "pl": "Dla kraju o silnej tradycji naukowej, takiego jak Niemcy, mialo to po 1945 roku szczegolne znaczenie.",
+          "tr": "Almanya gibi guclu bir bilim gelenegine sahip bir ulke icin bunun 1945'ten sonra ozel bir anlami vardi.",
+          "zh": "对于德国这样拥有强大科学传统的国家来说，这在1945年后具有特殊意义。",
+          "ja": "ドイツのように強い科学の伝統を持つ国にとって、これは1945年以後、特別な意味を持ちました。",
+          "ko": "독일처럼 강한 과학 전통을 가진 나라에게 이는 1945년 이후 특별한 의미가 있었다.",
+          "hi": "जर्मनी जैसे मजबूत वैज्ञानिक परंपरा वाले देश के लिए 1945 के बाद इसका विशेष अर्थ था।",
+          "ar": "بالنسبة إلى بلد ذي تقليد علمي قوي مثل ألمانيا، كان لذلك معنى خاص بعد عام 1945."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Германия присоединилась позже",
           "de": "Deutschland kam spaeter dazu",
-          "en": "Germany joined later"
+          "en": "Germany joined later",
+          "fr": "L'Allemagne a rejoint plus tard",
+          "es": "Alemania se unio mas tarde",
+          "it": "La Germania entro piu tardi",
+          "pt": "A Alemanha aderiu mais tarde",
+          "nl": "Duitsland sloot zich later aan",
+          "pl": "Niemcy dolaczyly pozniej",
+          "tr": "Almanya daha sonra katildi",
+          "zh": "德国后来才加入",
+          "ja": "ドイツは後から加盟した",
+          "ko": "독일은 나중에 가입했다",
+          "hi": "जर्मनी बाद में शामिल हुआ",
+          "ar": "انضمت ألمانيا لاحقا"
         },
         "description": {
           "ru": "Германия не была среди первых подписантов в 1945 году. Федеративная Республика Германия вступила в UNESCO позже, в 1951 году, уже в процессе послевоенного возвращения в международное сообщество.",
           "de": "Deutschland gehoerte 1945 nicht zu den ersten Unterzeichnern. Die Bundesrepublik Deutschland trat der UNESCO spaeter, 1951, im Zuge ihrer Rueckkehr in die internationale Gemeinschaft bei.",
-          "en": "Germany was not among the first signatories in 1945. The Federal Republic of Germany joined UNESCO later, in 1951, as part of its postwar return to the international community."
+          "en": "Germany was not among the first signatories in 1945. The Federal Republic of Germany joined UNESCO later, in 1951, as part of its postwar return to the international community.",
+          "fr": "L'Allemagne ne faisait pas partie des premiers signataires en 1945. La Republique federale d'Allemagne entra plus tard a l'UNESCO, en 1951, dans le cadre de son retour d'apres-guerre dans la communaute internationale.",
+          "es": "Alemania no estuvo entre los primeros firmantes en 1945. La Republica Federal de Alemania entro en la UNESCO mas tarde, en 1951, como parte de su regreso de posguerra a la comunidad internacional.",
+          "it": "La Germania non era tra i primi firmatari nel 1945. La Repubblica Federale di Germania entro nell'UNESCO piu tardi, nel 1951, nel quadro del suo ritorno postbellico nella comunita internazionale.",
+          "pt": "A Alemanha nao esteve entre os primeiros signatarios em 1945. A Republica Federal da Alemanha entrou na UNESCO mais tarde, em 1951, como parte do seu retorno pos-guerra a comunidade internacional.",
+          "nl": "Duitsland hoorde in 1945 niet bij de eerste ondertekenaars. De Bondsrepubliek Duitsland trad later, in 1951, toe tot UNESCO als onderdeel van haar naoorlogse terugkeer in de internationale gemeenschap.",
+          "pl": "Niemcy nie byly wsrod pierwszych sygnatariuszy w 1945 roku. Republika Federalna Niemiec przystapila do UNESCO pozniej, w 1951 roku, w ramach powojennego powrotu do wspolnoty miedzynarodowej.",
+          "tr": "Almanya 1945'te ilk imzacilar arasinda degildi. Federal Almanya Cumhuriyeti UNESCO'ya daha sonra, 1951'de, savas sonrasi uluslararasi topluluga donus surecinde katildi.",
+          "zh": "德国并不是1945年的首批签署国之一。德意志联邦共和国后来于1951年加入UNESCO，这是其战后重返国际社会的一部分。",
+          "ja": "ドイツは1945年の最初の署名国には含まれていませんでした。ドイツ連邦共和国は戦後、国際社会へ戻る過程で、1951年にUNESCOへ加盟しました。",
+          "ko": "독일은 1945년 최초 서명국에 포함되지 않았다. 독일연방공화국은 전후 국제사회로 돌아가는 과정에서 1951년에 유네스코에 가입했다.",
+          "hi": "1945 में जर्मनी पहले हस्ताक्षरकर्ताओं में शामिल नहीं था। संघीय जर्मन गणराज्य बाद में, 1951 में, युद्ध के बाद अंतरराष्ट्रीय समुदाय में लौटने की प्रक्रिया में UNESCO से जुड़ा।",
+          "ar": "لم تكن ألمانيا بين الموقعين الأوائل عام 1945. وانضمت جمهورية ألمانيا الاتحادية إلى اليونسكو لاحقا، عام 1951، ضمن عودتها بعد الحرب إلى المجتمع الدولي."
         },
         "importance": {
           "ru": "Эта деталь хорошо показывает, что после войны доверие возвращалось постепенно.",
           "de": "Dieses Detail zeigt gut, dass Vertrauen nach dem Krieg nur schrittweise zurueckkehrte.",
-          "en": "This detail shows well that trust returned only gradually after the war."
+          "en": "This detail shows well that trust returned only gradually after the war.",
+          "fr": "Ce detail montre bien que la confiance est revenue seulement peu a peu apres la guerre.",
+          "es": "Este detalle muestra bien que la confianza regreso solo poco a poco despues de la guerra.",
+          "it": "Questo dettaglio mostra bene che la fiducia torno solo gradualmente dopo la guerra.",
+          "pt": "Esse detalhe mostra bem que a confianca voltou apenas gradualmente depois da guerra.",
+          "nl": "Dit detail laat goed zien dat vertrouwen na de oorlog slechts geleidelijk terugkeerde.",
+          "pl": "Ten szczegol dobrze pokazuje, ze zaufanie po wojnie wracalo stopniowo.",
+          "tr": "Bu ayrinti, savastan sonra guvenin ancak yavas yavas geri dondugunu iyi gosterir.",
+          "zh": "这个细节很好地说明，战后信任是逐步恢复的。",
+          "ja": "この点は、戦後に信頼が少しずつ戻ってきたことをよく示しています。",
+          "ko": "이 세부 사항은 전쟁 뒤 신뢰가 서서히 돌아왔음을 잘 보여 준다.",
+          "hi": "यह बात अच्छी तरह दिखाती है कि युद्ध के बाद भरोसा धीरे-धीरे ही लौटा।",
+          "ar": "توضح هذه التفاصيل جيدا أن الثقة بعد الحرب عادت تدريجيا فقط."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Аббревиатура UNESCO означает Организацию Объединённых Наций по вопросам образования, науки и культуры.",
     "de": "Die Abkuerzung UNESCO steht fuer Organisation der Vereinten Nationen fuer Bildung, Wissenschaft und Kultur.",
-    "en": "UNESCO stands for the United Nations Educational, Scientific and Cultural Organization."
+    "en": "UNESCO stands for the United Nations Educational, Scientific and Cultural Organization.",
+    "fr": "UNESCO signifie Organisation des Nations Unies pour l'education, la science et la culture.",
+    "es": "UNESCO significa Organizacion de las Naciones Unidas para la Educacion, la Ciencia y la Cultura.",
+    "it": "UNESCO significa Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura.",
+    "pt": "UNESCO significa Organizacao das Nacoes Unidas para a Educacao, a Ciencia e a Cultura.",
+    "nl": "UNESCO staat voor United Nations Educational, Scientific and Cultural Organization.",
+    "pl": "UNESCO oznacza Organizacje Narodow Zjednoczonych do spraw Oswiaty, Nauki i Kultury.",
+    "tr": "UNESCO, Birlesmis Milletler Egitim, Bilim ve Kultur Orgutu anlamina gelir.",
+    "zh": "UNESCO是联合国教育、科学及文化组织的缩写。",
+    "ja": "UNESCOは国際連合教育科学文化機関を意味します。",
+    "ko": "UNESCO는 유엔 교육 과학 문화 기구를 뜻한다.",
+    "hi": "UNESCO का अर्थ संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन है।",
+    "ar": "تعني UNESCO منظمة الأمم المتحدة للتربية والعلم والثقافة."
   },
   "sources": [
     {

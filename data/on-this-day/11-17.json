@@ -11,17 +11,53 @@
     "title": {
       "ru": "Имперское послание о социальной политике",
       "de": "Die Kaiserliche Botschaft zur Sozialpolitik",
-      "en": "The Imperial Message on social policy"
+      "en": "The Imperial Message on social policy",
+      "fr": "Le message imperial sur la politique sociale",
+      "es": "El mensaje imperial sobre politica social",
+      "it": "Il messaggio imperiale sulla politica sociale",
+      "pt": "A mensagem imperial sobre politica social",
+      "nl": "De keizerlijke boodschap over sociaal beleid",
+      "pl": "Cesarskie oredzie o polityce spolecznej",
+      "tr": "Sosyal politika uzerine imparatorluk mesaji",
+      "zh": "关于社会政策的帝国诏书",
+      "ja": "社会政策に関する皇帝のメッセージ",
+      "ko": "사회 정책에 관한 황제의 메시지",
+      "hi": "सामाजिक नीति पर शाही संदेश",
+      "ar": "الرسالة الإمبراطورية حول السياسة الاجتماعية"
     },
     "description": {
       "ru": "17 ноября 1881 года Бисмарк зачитал в рейхстаге послание кайзера Вильгельма I о государственной социальной политике. Оно стало отправной точкой для немецкого социального страхования.",
       "de": "Am 17. November 1881 verlas Bismarck im Reichstag die Botschaft Kaiser Wilhelms I. zur staatlichen Sozialpolitik. Sie wurde zum Ausgangspunkt der deutschen Sozialversicherung.",
-      "en": "On 17 November 1881, Bismarck read Kaiser Wilhelm I's message on state social policy to the Reichstag. It became the starting point for German social insurance."
+      "en": "On 17 November 1881, Bismarck read Kaiser Wilhelm I's message on state social policy to the Reichstag. It became the starting point for German social insurance.",
+      "fr": "Le 17 novembre 1881, Bismarck lut au Reichstag le message du Kaiser Guillaume I sur la politique sociale de l'Etat. Il devint le point de depart de l'assurance sociale allemande.",
+      "es": "El 17 de noviembre de 1881, Bismarck leyo en el Reichstag el mensaje del kaiser Guillermo I sobre la politica social del Estado. Fue el punto de partida del seguro social aleman.",
+      "it": "Il 17 novembre 1881 Bismarck lesse al Reichstag il messaggio del Kaiser Guglielmo I sulla politica sociale dello Stato. Divenne il punto di partenza dell'assicurazione sociale tedesca.",
+      "pt": "Em 17 de novembro de 1881, Bismarck leu no Reichstag a mensagem do kaiser Guilherme I sobre a politica social do Estado. Ela tornou-se o ponto de partida do seguro social alemao.",
+      "nl": "Op 17 november 1881 las Bismarck in de Reichstag de boodschap van keizer Wilhelm I over staats sociaal beleid voor. Die werd het startpunt van de Duitse sociale verzekering.",
+      "pl": "17 listopada 1881 roku Bismarck odczytal w Reichstagu oredzie cesarza Wilhelma I o panstwowej polityce spolecznej. Stalo sie ono punktem wyjscia niemieckich ubezpieczen spolecznych.",
+      "tr": "17 Kasim 1881'de Bismarck, Reichstag'da Kayzer I. Wilhelm'in devlet sosyal politikasi hakkindaki mesajini okudu. Bu, Alman sosyal sigortasinin baslangic noktasi oldu.",
+      "zh": "1881年11月17日，俾斯麦在帝国议会宣读了威廉一世皇帝关于国家社会政策的诏书。它成为德国社会保险制度的起点。",
+      "ja": "1881年11月17日、ビスマルクは帝国議会で、国家の社会政策に関する皇帝ヴィルヘルム1世のメッセージを読み上げました。これはドイツの社会保険の出発点となりました。",
+      "ko": "1881년 11월 17일 비스마르크는 제국의회에서 국가 사회 정책에 관한 카이저 빌헬름 1세의 메시지를 낭독했다. 이는 독일 사회보험의 출발점이 되었다.",
+      "hi": "17 नवंबर 1881 को बिस्मार्क ने राइखस्टाग में कैसर विल्हेल्म प्रथम का राज्य सामाजिक नीति पर संदेश पढ़ा। यह जर्मन सामाजिक बीमा की शुरुआत बन गया।",
+      "ar": "في 17 نوفمبر 1881 قرأ بسمارك في الرايخستاغ رسالة القيصر فيلهلم الأول حول السياسة الاجتماعية للدولة. وأصبحت نقطة البداية للتأمين الاجتماعي الألماني."
     },
     "importance": {
       "ru": "Дата важна потому, что Германия стала одной из первых стран с современной системой социального страхования.",
       "de": "Das Datum ist wichtig, weil Deutschland zu den ersten Laendern mit einem modernen System der Sozialversicherung wurde.",
-      "en": "The date matters because Germany became one of the first countries with a modern system of social insurance."
+      "en": "The date matters because Germany became one of the first countries with a modern system of social insurance.",
+      "fr": "Cette date est importante parce que l'Allemagne devint l'un des premiers pays dotes d'un systeme moderne d'assurance sociale.",
+      "es": "La fecha importa porque Alemania se convirtio en uno de los primeros paises con un sistema moderno de seguro social.",
+      "it": "La data e importante perche la Germania divenne uno dei primi paesi con un sistema moderno di assicurazione sociale.",
+      "pt": "A data e importante porque a Alemanha se tornou um dos primeiros paises com um sistema moderno de seguro social.",
+      "nl": "De datum is belangrijk omdat Duitsland een van de eerste landen werd met een modern stelsel van sociale verzekering.",
+      "pl": "Ta data jest wazna, bo Niemcy staly sie jednym z pierwszych krajow z nowoczesnym systemem ubezpieczen spolecznych.",
+      "tr": "Bu tarih onemlidir, cunku Almanya modern bir sosyal sigorta sistemine sahip ilk ulkelerden biri oldu.",
+      "zh": "这个日期很重要，因为德国成为最早拥有现代社会保险制度的国家之一。",
+      "ja": "この日は、ドイツが近代的な社会保険制度を持つ最初期の国の一つになったため重要です。",
+      "ko": "이 날짜가 중요한 이유는 독일이 현대적 사회보험 제도를 갖춘 최초의 나라들 중 하나가 되었기 때문이다.",
+      "hi": "यह तारीख इसलिए महत्वपूर्ण है क्योंकि जर्मनी आधुनिक सामाजिक बीमा प्रणाली वाले पहले देशों में से एक बना।",
+      "ar": "هذا التاريخ مهم لأن ألمانيا أصبحت من أوائل البلدان التي امتلكت نظاما حديثا للتأمين الاجتماعي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Начало социального государства",
           "de": "Beginn des Sozialstaats",
-          "en": "Beginning of the social state"
+          "en": "Beginning of the social state",
+          "fr": "Le debut de l'Etat social",
+          "es": "El comienzo del Estado social",
+          "it": "L'inizio dello Stato sociale",
+          "pt": "O inicio do Estado social",
+          "nl": "Begin van de sociale staat",
+          "pl": "Poczatek panstwa socjalnego",
+          "tr": "Sosyal devletin baslangici",
+          "zh": "社会国家的开端",
+          "ja": "社会国家の始まり",
+          "ko": "사회국가의 시작",
+          "hi": "सामाजिक राज्य की शुरुआत",
+          "ar": "بداية الدولة الاجتماعية"
         },
         "description": {
           "ru": "Программа привела к законам о страховании на случай болезни, несчастных случаев, инвалидности и старости. Бисмарк хотел одновременно помогать рабочим и ослаблять влияние социал-демократов.",
           "de": "Das Programm fuehrte zu Gesetzen ueber Kranken-, Unfall-, Invaliditaets- und Altersversicherung. Bismarck wollte damit Arbeitern helfen und zugleich den Einfluss der Sozialdemokratie schwaechen.",
-          "en": "The program led to laws on sickness, accident, disability and old-age insurance. Bismarck wanted both to help workers and to weaken the influence of social democracy."
+          "en": "The program led to laws on sickness, accident, disability and old-age insurance. Bismarck wanted both to help workers and to weaken the influence of social democracy.",
+          "fr": "Le programme mena a des lois sur l'assurance maladie, accident, invalidite et vieillesse. Bismarck voulait a la fois aider les ouvriers et affaiblir l'influence des sociaux-democrates.",
+          "es": "El programa llevo a leyes sobre seguro de enfermedad, accidentes, invalidez y vejez. Bismarck queria ayudar a los trabajadores y al mismo tiempo debilitar la influencia de los socialdemocratas.",
+          "it": "Il programma porto a leggi sull'assicurazione contro malattia, incidenti, invalidita e vecchiaia. Bismarck voleva sia aiutare gli operai sia indebolire l'influenza dei socialdemocratici.",
+          "pt": "O programa levou a leis sobre seguro de doenca, acidentes, invalidez e velhice. Bismarck queria ao mesmo tempo ajudar os trabalhadores e enfraquecer a influencia dos social-democratas.",
+          "nl": "Het programma leidde tot wetten over ziekte-, ongevals-, invaliditeits- en ouderdomsverzekering. Bismarck wilde arbeiders helpen en tegelijk de invloed van de sociaaldemocraten verzwakken.",
+          "pl": "Program doprowadzil do ustaw o ubezpieczeniu chorobowym, wypadkowym, inwalidzkim i emerytalnym. Bismarck chcial jednoczesnie pomagac robotnikom i oslabiac wplywy socjaldemokratow.",
+          "tr": "Program hastalik, kaza, malulluk ve yaslilik sigortasi yasalarina yol acti. Bismarck hem iscileri desteklemek hem de sosyal demokratlarin etkisini zayiflatmak istiyordu.",
+          "zh": "这一计划促成了疾病、事故、残疾和养老保险方面的法律。俾斯麦既想帮助工人，也想削弱社会民主党的影响。",
+          "ja": "この計画は、病気、事故、障害、老後に備える保険法へとつながりました。ビスマルクは労働者を助けると同時に、社会民主主義勢力の影響を弱めようとしました。",
+          "ko": "이 계획은 질병, 사고, 장애, 노령 보험에 관한 법으로 이어졌다. 비스마르크는 노동자를 돕는 동시에 사회민주주의 세력의 영향력을 약화시키려 했다.",
+          "hi": "इस कार्यक्रम से बीमारी, दुर्घटना, विकलांगता और बुढ़ापे के बीमा से जुड़े कानून बने। बिस्मार्क मजदूरों की मदद भी करना चाहते थे और साथ ही सोशल डेमोक्रेटों का प्रभाव कमजोर करना चाहते थे।",
+          "ar": "أدى البرنامج إلى قوانين للتأمين ضد المرض والحوادث والعجز والشيخوخة. أراد بسمارك مساعدة العمال وفي الوقت نفسه إضعاف نفوذ الاشتراكيين الديمقراطيين."
         },
         "importance": {
           "ru": "Так видно, что социальные реформы могут иметь одновременно гуманную и политически расчётливую сторону.",
           "de": "So wird sichtbar, dass Sozialreformen zugleich humane und politisch berechnende Seiten haben koennen.",
-          "en": "It shows that social reforms can have both humane and politically calculated sides."
+          "en": "It shows that social reforms can have both humane and politically calculated sides.",
+          "fr": "Cela montre que les reformes sociales peuvent avoir a la fois un cote humain et un cote politiquement calcule.",
+          "es": "Muestra que las reformas sociales pueden tener a la vez un lado humano y un lado politicamente calculado.",
+          "it": "Mostra che le riforme sociali possono avere insieme un lato umano e uno politicamente calcolato.",
+          "pt": "Isso mostra que reformas sociais podem ter ao mesmo tempo um lado humano e um lado politicamente calculado.",
+          "nl": "Het laat zien dat sociale hervormingen tegelijk menselijk en politiek berekend kunnen zijn.",
+          "pl": "To pokazuje, ze reformy spoleczne moga miec zarazem ludzka i politycznie wyrachowana strone.",
+          "tr": "Bu, sosyal reformlarin hem insani hem de siyasi olarak hesapli yanlari olabilecegini gosterir.",
+          "zh": "这说明社会改革既可能有人道的一面，也可能有政治计算的一面。",
+          "ja": "社会改革には、人道的な面と政治的に計算された面が同時にあり得ることを示しています。",
+          "ko": "이는 사회 개혁이 인간적인 면과 정치적으로 계산된 면을 동시에 가질 수 있음을 보여 준다.",
+          "hi": "यह दिखाता है कि सामाजिक सुधारों में मानवीय पक्ष भी हो सकता है और राजनीतिक गणना भी।",
+          "ar": "يوضح ذلك أن الإصلاحات الاجتماعية قد تحمل جانبا إنسانيا وجانبا محسوبا سياسيا في الوقت نفسه."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Страховка как новшество",
           "de": "Versicherung als Neuerung",
-          "en": "Insurance as an innovation"
+          "en": "Insurance as an innovation",
+          "fr": "L'assurance comme innovation",
+          "es": "El seguro como innovacion",
+          "it": "L'assicurazione come innovazione",
+          "pt": "O seguro como inovacao",
+          "nl": "Verzekering als vernieuwing",
+          "pl": "Ubezpieczenie jako nowosc",
+          "tr": "Yenilik olarak sigorta",
+          "zh": "作为创新的保险",
+          "ja": "革新としての保険",
+          "ko": "혁신으로서의 보험",
+          "hi": "नवाचार के रूप में बीमा",
+          "ar": "التأمين بوصفه ابتكارا"
         },
         "description": {
           "ru": "Сегодня больничное страхование кажется обычной частью жизни, но в XIX веке идея государственной защиты рабочих от болезни и старости была новаторской. Германия стала важной лабораторией такой политики.",
           "de": "Heute wirkt Krankenversicherung wie ein normaler Teil des Lebens, doch im 19. Jahrhundert war die Idee staatlicher Sicherung gegen Krankheit und Alter neuartig. Deutschland wurde zu einem wichtigen Labor dieser Politik.",
-          "en": "Today health insurance seems like an ordinary part of life, but in the nineteenth century the idea of state protection against sickness and old age was innovative. Germany became an important laboratory for this policy."
+          "en": "Today health insurance seems like an ordinary part of life, but in the nineteenth century the idea of state protection against sickness and old age was innovative. Germany became an important laboratory for this policy.",
+          "fr": "Aujourd'hui, l'assurance maladie semble faire partie de la vie normale, mais au XIXe siecle l'idee d'une protection de l'Etat contre la maladie et la vieillesse etait novatrice. L'Allemagne devint un laboratoire important de cette politique.",
+          "es": "Hoy el seguro medico parece una parte normal de la vida, pero en el siglo XIX la idea de proteccion estatal contra la enfermedad y la vejez era innovadora. Alemania se convirtio en un importante laboratorio de esa politica.",
+          "it": "Oggi l'assicurazione sanitaria sembra una parte normale della vita, ma nel XIX secolo l'idea di una protezione statale contro malattia e vecchiaia era innovativa. La Germania divenne un importante laboratorio di questa politica.",
+          "pt": "Hoje o seguro de saude parece uma parte normal da vida, mas no seculo XIX a ideia de protecao estatal contra doenca e velhice era inovadora. A Alemanha tornou-se um importante laboratorio dessa politica.",
+          "nl": "Vandaag lijkt zorgverzekering een gewoon deel van het leven, maar in de negentiende eeuw was het idee van staatsbescherming tegen ziekte en ouderdom vernieuwend. Duitsland werd een belangrijk laboratorium voor dit beleid.",
+          "pl": "Dzis ubezpieczenie zdrowotne wydaje sie zwykla czescia zycia, ale w XIX wieku idea panstwowej ochrony robotnikow przed choroba i staroscia byla nowatorska. Niemcy staly sie waznym laboratorium takiej polityki.",
+          "tr": "Bugun saglik sigortasi hayatin normal bir parcasi gibi gorunur, ama 19. yuzyilda devletin iscileri hastaliga ve yasliliga karsi korumasi yenilikci bir fikirdi. Almanya bu politikanin onemli bir laboratuvari oldu.",
+          "zh": "今天，医疗保险似乎是生活中普通的一部分，但在19世纪，由国家保护工人免受疾病和老年风险影响的想法很新。德国成为这种政策的重要试验场。",
+          "ja": "今日、健康保険は生活の普通の一部に見えますが、19世紀には病気や老後から労働者を国家が守るという考えは革新的でした。ドイツはこの政策の重要な実験の場になりました。",
+          "ko": "오늘날 건강보험은 생활의 평범한 일부처럼 보이지만, 19세기에 국가가 노동자를 질병과 노령으로부터 보호한다는 생각은 혁신적이었다. 독일은 이런 정책의 중요한 실험장이 되었다.",
+          "hi": "आज स्वास्थ्य बीमा जीवन का सामान्य हिस्सा लगता है, लेकिन उन्नीसवीं सदी में बीमारी और बुढ़ापे से मजदूरों की राज्य द्वारा सुरक्षा का विचार नया था। जर्मनी ऐसी नीति की महत्वपूर्ण प्रयोगशाला बना।",
+          "ar": "اليوم يبدو التأمين الصحي جزءا عاديا من الحياة، لكن في القرن التاسع عشر كانت فكرة حماية الدولة للعمال من المرض والشيخوخة فكرة جديدة. وأصبحت ألمانيا مختبرا مهما لهذه السياسة."
         },
         "importance": {
           "ru": "Это напоминает, что привычные права когда-то были смелыми экспериментами.",
           "de": "Das erinnert daran, dass vertraute Rechte einst mutige Experimente waren.",
-          "en": "It is a reminder that familiar rights were once bold experiments."
+          "en": "It is a reminder that familiar rights were once bold experiments.",
+          "fr": "Cela rappelle que des droits aujourd'hui familiers furent autrefois des experiences audacieuses.",
+          "es": "Recuerda que derechos hoy familiares fueron alguna vez experimentos audaces.",
+          "it": "Ricorda che diritti oggi familiari furono un tempo esperimenti coraggiosi.",
+          "pt": "Isso lembra que direitos hoje familiares ja foram experiencias ousadas.",
+          "nl": "Het herinnert eraan dat vertrouwde rechten ooit moedige experimenten waren.",
+          "pl": "To przypomina, ze znane dzis prawa byly kiedys smialymi eksperymentami.",
+          "tr": "Bu, bugun alisik oldugumuz haklarin bir zamanlar cesur deneyler oldugunu hatirlatir.",
+          "zh": "这提醒人们，如今熟悉的权利曾经也是大胆的实验。",
+          "ja": "今では当たり前の権利も、かつては大胆な実験だったことを思い出させます。",
+          "ko": "오늘날 익숙한 권리들이 한때는 대담한 실험이었다는 점을 일깨운다.",
+          "hi": "यह याद दिलाता है कि आज परिचित लगने वाले अधिकार कभी साहसी प्रयोग थे।",
+          "ar": "إنه يذكر بأن الحقوق المألوفة اليوم كانت في يوم ما تجارب جريئة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Первым крупным законом стала система медицинского страхования рабочих 1883 года.",
     "de": "Das erste grosse Gesetz war die Krankenversicherung der Arbeiter von 1883.",
-    "en": "The first major law was the workers' health insurance system of 1883."
+    "en": "The first major law was the workers' health insurance system of 1883.",
+    "fr": "La premiere grande loi fut le systeme d'assurance maladie des ouvriers de 1883.",
+    "es": "La primera gran ley fue el sistema de seguro de enfermedad para trabajadores de 1883.",
+    "it": "La prima grande legge fu il sistema di assicurazione sanitaria dei lavoratori del 1883.",
+    "pt": "A primeira grande lei foi o sistema de seguro de saude dos trabalhadores de 1883.",
+    "nl": "De eerste grote wet was het systeem van ziektekostenverzekering voor arbeiders uit 1883.",
+    "pl": "Pierwsza duza ustawa byl system ubezpieczenia zdrowotnego robotnikow z 1883 roku.",
+    "tr": "Ilk buyuk yasa, 1883 tarihli isciler icin saglik sigortasi sistemiydi.",
+    "zh": "第一部重要法律是1883年的工人医疗保险制度。",
+    "ja": "最初の大きな法律は、1883年の労働者健康保険制度でした。",
+    "ko": "첫 번째 주요 법은 1883년의 노동자 건강보험 제도였다.",
+    "hi": "पहला बड़ा कानून 1883 की मजदूरों की स्वास्थ्य बीमा प्रणाली था।",
+    "ar": "كان أول قانون كبير هو نظام التأمين الصحي للعمال عام 1883."
   },
   "sources": [
     {
