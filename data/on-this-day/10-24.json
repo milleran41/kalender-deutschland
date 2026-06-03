@@ -11,17 +11,53 @@
     "title": {
       "ru": "Заключён Вестфальский мир",
       "de": "Der Westfaelische Frieden wird geschlossen",
-      "en": "The Peace of Westphalia is concluded"
+      "en": "The Peace of Westphalia is concluded",
+      "fr": "La paix de Westphalie est conclue",
+      "es": "Se firma la Paz de Westfalia",
+      "it": "Si conclude la Pace di Vestfalia",
+      "pt": "E concluida a Paz de Vestfalia",
+      "nl": "De Vrede van Westfalen wordt gesloten",
+      "pl": "Zawarto pokoj westfalski",
+      "tr": "Vestfalya Barisi imzalandi",
+      "zh": "威斯特伐利亚和约缔结",
+      "ja": "ウェストファリア条約が結ばれる",
+      "ko": "베스트팔렌 조약이 체결되다",
+      "hi": "वेस्टफेलिया की संधि संपन्न हुई",
+      "ar": "عقد صلح وستفاليا"
     },
     "description": {
       "ru": "24 октября 1648 года были заключены договоры, завершившие Тридцатилетнюю войну. Мирные соглашения изменили политическую карту Священной Римской империи и Европы.",
       "de": "Am 24. Oktober 1648 wurden die Vertraege geschlossen, die den Dreissigjaehrigen Krieg beendeten. Die Friedensschluesse veraenderten die politische Karte des Heiligen Roemischen Reiches und Europas.",
-      "en": "On 24 October 1648, the treaties ending the Thirty Years' War were concluded. The peace settlements changed the political map of the Holy Roman Empire and Europe."
+      "en": "On 24 October 1648, the treaties ending the Thirty Years' War were concluded. The peace settlements changed the political map of the Holy Roman Empire and Europe.",
+      "fr": "Le 24 octobre 1648 furent conclus les traites qui mirent fin a la guerre de Trente Ans. Les accords de paix modifierent la carte politique du Saint-Empire romain germanique et de l'Europe.",
+      "es": "El 24 de octubre de 1648 se concluyeron los tratados que pusieron fin a la Guerra de los Treinta Anos. Los acuerdos de paz cambiaron el mapa politico del Sacro Imperio Romano Germanico y de Europa.",
+      "it": "Il 24 ottobre 1648 furono conclusi i trattati che posero fine alla Guerra dei Trent'anni. Gli accordi di pace cambiarono la carta politica del Sacro Romano Impero e dell'Europa.",
+      "pt": "Em 24 de outubro de 1648 foram concluidos os tratados que encerraram a Guerra dos Trinta Anos. Os acordos de paz mudaram o mapa politico do Sacro Imperio Romano-Germanico e da Europa.",
+      "nl": "Op 24 oktober 1648 werden de verdragen gesloten die de Dertigjarige Oorlog beeindigden. De vredesregelingen veranderden de politieke kaart van het Heilige Roomse Rijk en Europa.",
+      "pl": "24 pazdziernika 1648 roku zawarto traktaty konczace wojne trzydziestoletnia. Uklady pokojowe zmienily polityczna mape Swietego Cesarstwa Rzymskiego i Europy.",
+      "tr": "24 Ekim 1648'de Otuz Yil Savasi'ni sona erdiren antlasmalar imzalandi. Baris duzenlemeleri Kutsal Roma Imparatorlugu'nun ve Avrupa'nin siyasi haritasini degistirdi.",
+      "zh": "1648年10月24日，结束三十年战争的条约缔结。这些和平协议改变了神圣罗马帝国和欧洲的政治地图。",
+      "ja": "1648年10月24日、三十年戦争を終結させる条約が結ばれました。和平協定は神聖ローマ帝国とヨーロッパの政治地図を変えました。",
+      "ko": "1648년 10월 24일 30년 전쟁을 끝내는 조약들이 체결되었다. 이 평화 합의는 신성 로마 제국과 유럽의 정치 지도를 바꾸었다.",
+      "hi": "24 अक्टूबर 1648 को तीस वर्षीय युद्ध समाप्त करने वाली संधियां संपन्न हुईं। इन शांति समझौतों ने पवित्र रोमन साम्राज्य और यूरोप का राजनीतिक नक्शा बदल दिया।",
+      "ar": "في 24 أكتوبر 1648 ابرمت المعاهدات التي انهت حرب الثلاثين عاما. وغيرت اتفاقات السلام الخريطة السياسية للامبراطورية الرومانية المقدسة واوروبا."
     },
     "importance": {
       "ru": "Хотя дата раньше основного диапазона, она ключевая для понимания раздробленной истории немецких земель.",
       "de": "Obwohl das Datum vor dem Hauptzeitraum liegt, ist es entscheidend fuer das Verstaendnis der zersplitterten Geschichte der deutschen Laender.",
-      "en": "Although the date is before the main range, it is crucial for understanding the fragmented history of the German lands."
+      "en": "Although the date is before the main range, it is crucial for understanding the fragmented history of the German lands.",
+      "fr": "Bien que la date soit anterieure a la periode principale, elle est essentielle pour comprendre l'histoire morcelee des terres allemandes.",
+      "es": "Aunque la fecha es anterior al periodo principal, es clave para entender la historia fragmentada de las tierras alemanas.",
+      "it": "Anche se la data precede il periodo principale, e fondamentale per capire la storia frammentata delle terre tedesche.",
+      "pt": "Embora a data seja anterior ao periodo principal, ela e essencial para entender a historia fragmentada das terras alemas.",
+      "nl": "Hoewel de datum voor de hoofdperiode ligt, is hij cruciaal om de versnipperde geschiedenis van de Duitse gebieden te begrijpen.",
+      "pl": "Chociaz data wykracza poza glowny zakres, jest kluczowa dla zrozumienia rozdrobnionej historii ziem niemieckich.",
+      "tr": "Tarih ana araliktan once olsa da Alman topraklarinin parcali tarihini anlamak icin cok onemlidir.",
+      "zh": "虽然这个日期早于主要时间范围，但它对于理解德意志地区分裂的历史至关重要。",
+      "ja": "この日付は主要な範囲より前ですが、ドイツ諸邦の分裂した歴史を理解するうえで重要です。",
+      "ko": "이 날짜는 주요 범위보다 앞서지만, 독일 지역의 분열된 역사를 이해하는 데 매우 중요하다.",
+      "hi": "हालांकि यह तारीख मुख्य काल-सीमा से पहले की है, फिर भी जर्मन क्षेत्रों के बिखरे इतिहास को समझने के लिए यह महत्वपूर्ण है।",
+      "ar": "رغم ان التاريخ يسبق النطاق الرئيسي، فانه اساسي لفهم التاريخ المجزأ للاراضي الالمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Мюнстер и Оснабрюк",
           "de": "Muenster und Osnabrueck",
-          "en": "Muenster and Osnabrueck"
+          "en": "Muenster and Osnabrueck",
+          "fr": "Muenster et Osnabrueck",
+          "es": "Muenster y Osnabrueck",
+          "it": "Muenster e Osnabrueck",
+          "pt": "Muenster e Osnabrueck",
+          "nl": "Muenster en Osnabrueck",
+          "pl": "Muenster i Osnabrueck",
+          "tr": "Muenster ve Osnabrueck",
+          "zh": "明斯特和奥斯纳布吕克",
+          "ja": "ミュンスターとオスナブリュック",
+          "ko": "뮌스터와 오스나브뤼크",
+          "hi": "म्यूंस्टर और ओस्नाब्रुक",
+          "ar": "مونستر واوسنابروك"
         },
         "description": {
           "ru": "Переговоры шли в двух вестфальских городах, Мюнстере и Оснабрюке. Поэтому мир получил название Вестфальского.",
           "de": "Die Verhandlungen fanden in den westfaelischen Staedten Muenster und Osnabrueck statt. Daher erhielt der Frieden seinen Namen.",
-          "en": "Negotiations took place in the Westphalian cities of Muenster and Osnabrueck. That is why the peace took its name."
+          "en": "Negotiations took place in the Westphalian cities of Muenster and Osnabrueck. That is why the peace took its name.",
+          "fr": "Les negociations eurent lieu dans les villes westphaliennes de Muenster et d'Osnabrueck. C'est pourquoi la paix recut ce nom.",
+          "es": "Las negociaciones se celebraron en las ciudades westfalianas de Muenster y Osnabrueck. Por eso la paz recibio ese nombre.",
+          "it": "I negoziati si svolsero nelle citta westfaliche di Muenster e Osnabrueck. Per questo la pace prese il suo nome.",
+          "pt": "As negociacoes ocorreram nas cidades westfalianas de Muenster e Osnabrueck. Por isso a paz recebeu esse nome.",
+          "nl": "De onderhandelingen vonden plaats in de Westfaalse steden Muenster en Osnabrueck. Daarom kreeg de vrede die naam.",
+          "pl": "Negocjacje toczyly sie w westfalskich miastach Muenster i Osnabrueck. Dlatego pokoj otrzymal taka nazwe.",
+          "tr": "Gorusmeler Vestfalya sehirleri Muenster ve Osnabrueck'te yapildi. Bu nedenle baris adini buradan aldi.",
+          "zh": "谈判在威斯特伐利亚的明斯特和奥斯纳布吕克两座城市进行。因此，和平协议得名为威斯特伐利亚和平。",
+          "ja": "交渉はウェストファリア地方のミュンスターとオスナブリュックで行われました。そのため、この講和はその名で呼ばれます。",
+          "ko": "협상은 베스트팔렌의 도시 뮌스터와 오스나브뤼크에서 이루어졌다. 그래서 이 평화 조약은 그 이름을 얻게 되었다.",
+          "hi": "वार्ताएं वेस्टफेलिया के शहरों म्यूंस्टर और ओस्नाब्रुक में हुईं। इसलिए इस शांति को यह नाम मिला।",
+          "ar": "جرت المفاوضات في مدينتي مونستر واوسنابروك الويستفاليتين. ولذلك اخذ السلام اسمه."
         },
         "importance": {
           "ru": "Это пример того, как конкретные города становятся частью большой европейской дипломатии.",
           "de": "Das ist ein Beispiel dafuer, wie konkrete Staedte Teil grosser europaeischer Diplomatie werden.",
-          "en": "It is an example of specific cities becoming part of major European diplomacy."
+          "en": "It is an example of specific cities becoming part of major European diplomacy.",
+          "fr": "C'est un exemple de villes precises devenant partie de la grande diplomatie europeenne.",
+          "es": "Es un ejemplo de como ciudades concretas se convierten en parte de la gran diplomacia europea.",
+          "it": "E un esempio di citta concrete che diventano parte della grande diplomazia europea.",
+          "pt": "E um exemplo de cidades concretas se tornando parte da grande diplomacia europeia.",
+          "nl": "Het is een voorbeeld van hoe specifieke steden deel worden van grote Europese diplomatie.",
+          "pl": "To przyklad tego, jak konkretne miasta staja sie czescia wielkiej dyplomacji europejskiej.",
+          "tr": "Bu, belirli sehirlerin buyuk Avrupa diplomasisinin parcasi haline gelmesine bir ornektir.",
+          "zh": "这是具体城市成为欧洲大外交一部分的例子。",
+          "ja": "特定の都市がヨーロッパの大きな外交の一部になる例です。",
+          "ko": "이는 특정 도시들이 큰 유럽 외교의 일부가 되는 사례이다.",
+          "hi": "यह उदाहरण है कि कैसे विशेष शहर बड़ी यूरोपीय कूटनीति का हिस्सा बन जाते हैं।",
+          "ar": "انه مثال على كيف تصبح مدن محددة جزءا من الدبلوماسية الاوروبية الكبرى."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Тридцатилетняя война особенно тяжело затронула многие немецкие территории.",
     "de": "Der Dreissigjaehrige Krieg traf viele deutsche Gebiete besonders schwer.",
-    "en": "The Thirty Years' War hit many German territories especially hard."
+    "en": "The Thirty Years' War hit many German territories especially hard.",
+    "fr": "La guerre de Trente Ans frappa particulierement durement de nombreux territoires allemands.",
+    "es": "La Guerra de los Treinta Anos golpeo con especial dureza a muchos territorios alemanes.",
+    "it": "La Guerra dei Trent'anni colpi particolarmente duramente molti territori tedeschi.",
+    "pt": "A Guerra dos Trinta Anos atingiu muitos territorios alemaes de forma especialmente dura.",
+    "nl": "De Dertigjarige Oorlog trof veel Duitse gebieden bijzonder zwaar.",
+    "pl": "Wojna trzydziestoletnia szczegolnie dotknela wiele terytoriow niemieckich.",
+    "tr": "Otuz Yil Savasi bircok Alman bolgesini ozellikle agir etkiledi.",
+    "zh": "三十年战争尤其沉重地打击了许多德意志地区。",
+    "ja": "三十年戦争は多くのドイツ地域にとくに大きな被害を与えました。",
+    "ko": "30년 전쟁은 많은 독일 지역에 특히 큰 피해를 주었다.",
+    "hi": "तीस वर्षीय युद्ध ने कई जर्मन क्षेत्रों को विशेष रूप से गहराई से प्रभावित किया।",
+    "ar": "اصابت حرب الثلاثين عاما كثيرا من المناطق الالمانية بضرر شديد خاص."
   },
   "sources": [
     {

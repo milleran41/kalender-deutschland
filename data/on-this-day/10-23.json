@@ -11,17 +11,53 @@
     "title": {
       "ru": "Референдум в Сааре",
       "de": "Volksabstimmung im Saarland",
-      "en": "Saar referendum"
+      "en": "Saar referendum",
+      "fr": "Referendum en Sarre",
+      "es": "Referendum en el Sarre",
+      "it": "Referendum nel Saarland",
+      "pt": "Referendo no Sarre",
+      "nl": "Referendum in Saarland",
+      "pl": "Referendum w Saarze",
+      "tr": "Saar referandumu",
+      "zh": "萨尔公投",
+      "ja": "ザール住民投票",
+      "ko": "자르 주민투표",
+      "hi": "सार जनमत-संग्रह",
+      "ar": "استفتاء السار"
     },
     "description": {
       "ru": "23 октября 1955 года жители Саара голосовали по Саарскому статуту. Большинство отвергло предложенный европейский статус, что открыло путь к присоединению Саара к ФРГ.",
       "de": "Am 23. Oktober 1955 stimmten die Menschen an der Saar ueber das Saarstatut ab. Die Mehrheit lehnte den vorgeschlagenen europaeischen Status ab und machte damit den Weg zum Beitritt zur Bundesrepublik frei.",
-      "en": "On 23 October 1955, people in the Saar voted on the Saar Statute. A majority rejected the proposed European status, opening the way for the Saar to join West Germany."
+      "en": "On 23 October 1955, people in the Saar voted on the Saar Statute. A majority rejected the proposed European status, opening the way for the Saar to join West Germany.",
+      "fr": "Le 23 octobre 1955, les habitants de la Sarre voterent sur le statut de la Sarre. La majorite rejeta le statut europeen propose, ouvrant la voie au rattachement de la Sarre a la RFA.",
+      "es": "El 23 de octubre de 1955, los habitantes del Sarre votaron sobre el Estatuto del Sarre. La mayoria rechazo el estatus europeo propuesto, abriendo el camino para que el Sarre se uniera a la RFA.",
+      "it": "Il 23 ottobre 1955, gli abitanti del Saar votarono sullo Statuto della Saar. La maggioranza respinse lo status europeo proposto, aprendo la strada all'ingresso del Saarland nella Germania Ovest.",
+      "pt": "Em 23 de outubro de 1955, os habitantes do Sarre votaram sobre o Estatuto do Sarre. A maioria rejeitou o status europeu proposto, abrindo caminho para a entrada do Sarre na Alemanha Ocidental.",
+      "nl": "Op 23 oktober 1955 stemden de mensen in de Saar over het Saarstatuut. Een meerderheid wees de voorgestelde Europese status af, waardoor de weg vrijkwam voor aansluiting bij West-Duitsland.",
+      "pl": "23 pazdziernika 1955 roku mieszkancy Saary glosowali nad statutem Saary. Wiekszosc odrzucila proponowany status europejski, otwierajac droge do przylaczenia Saary do RFN.",
+      "tr": "23 Ekim 1955'te Saar halki Saar Statutu icin oy kullandi. Cogunluk onerilen Avrupa statusunu reddetti ve Saar'in Bati Almanya'ya katilmasinin yolu acildi.",
+      "zh": "1955年10月23日，萨尔居民就《萨尔章程》投票。多数人拒绝拟议的欧洲地位，从而为萨尔加入西德打开了道路。",
+      "ja": "1955年10月23日、ザールの人々はザール規約について投票しました。多数が提案されたヨーロッパ的地位を拒否し、ザールが西ドイツに加わる道が開かれました。",
+      "ko": "1955년 10월 23일 자르 주민들은 자르 지위안에 대해 투표했다. 다수는 제안된 유럽적 지위를 거부했고, 자르가 서독에 편입되는 길이 열렸다.",
+      "hi": "23 अक्टूबर 1955 को सार के लोगों ने सार विधान पर मतदान किया। बहुमत ने प्रस्तावित यूरोपीय दर्जे को अस्वीकार किया, जिससे सार के पश्चिम जर्मनी में शामिल होने का रास्ता खुला।",
+      "ar": "في 23 أكتوبر 1955 صوت سكان السار على نظام السار. رفضت الاغلبية الوضع الاوروبي المقترح، مما فتح الطريق لانضمام السار الى المانيا الغربية."
     },
     "importance": {
       "ru": "Дата показывает, что послевоенные границы и принадлежность регионов решались не сразу и не только в Берлине.",
       "de": "Das Datum zeigt, dass Nachkriegsgrenzen und regionale Zugehoerigkeit nicht sofort und nicht nur in Berlin entschieden wurden.",
-      "en": "The date shows that postwar borders and regional affiliation were not settled immediately and not only in Berlin."
+      "en": "The date shows that postwar borders and regional affiliation were not settled immediately and not only in Berlin.",
+      "fr": "Cette date montre que les frontieres d'apres-guerre et l'appartenance regionale ne furent pas reglees tout de suite ni seulement a Berlin.",
+      "es": "La fecha muestra que las fronteras de posguerra y la pertenencia regional no se resolvieron de inmediato ni solo en Berlin.",
+      "it": "La data mostra che i confini del dopoguerra e l'appartenenza regionale non furono decisi subito e non solo a Berlino.",
+      "pt": "A data mostra que as fronteiras do pos-guerra e a vinculacao regional nao foram resolvidas imediatamente nem apenas em Berlim.",
+      "nl": "De datum laat zien dat naoorlogse grenzen en regionale verbondenheid niet meteen en niet alleen in Berlijn werden beslist.",
+      "pl": "Ta data pokazuje, ze powojenne granice i przynaleznosc regionow nie zostaly rozstrzygniete od razu ani tylko w Berlinie.",
+      "tr": "Bu tarih, savas sonrasi sinirlarin ve bolgesel aidiyetin hemen ve yalnizca Berlin'de belirlenmedigini gosterir.",
+      "zh": "这个日期说明，战后边界和地区归属并不是立刻确定的，也不只是在柏林决定的。",
+      "ja": "この日付は、戦後の国境や地域の帰属がすぐに、そしてベルリンだけで決まったわけではないことを示しています。",
+      "ko": "이 날짜는 전후 국경과 지역의 소속이 즉시, 또 베를린에서만 결정된 것이 아님을 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि युद्धोत्तर सीमाएं और क्षेत्रीय संबद्धता तुरंत और केवल बर्लिन में तय नहीं हुई थीं।",
+      "ar": "يبين هذا التاريخ ان حدود ما بعد الحرب وانتماء المناطق لم يحسما فورا ولا في برلين وحدها."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Малое воссоединение»",
           "de": "Die kleine Wiedervereinigung",
-          "en": "The small reunification"
+          "en": "The small reunification",
+          "fr": "La petite reunification",
+          "es": "La pequena reunificacion",
+          "it": "La piccola riunificazione",
+          "pt": "A pequena reunificacao",
+          "nl": "De kleine hereniging",
+          "pl": "Male zjednoczenie",
+          "tr": "Kucuk yeniden birlesme",
+          "zh": "小统一",
+          "ja": "小さな再統一",
+          "ko": "작은 재통일",
+          "hi": "छोटा पुनर्एकीकरण",
+          "ar": "الوحدة الصغيرة"
         },
         "description": {
           "ru": "1 января 1957 года Саар стал землёй Федеративной Республики Германия. Иногда это называют «малым воссоединением» задолго до объединения 1990 года.",
           "de": "Am 1. Januar 1957 wurde das Saarland ein Land der Bundesrepublik Deutschland. Manchmal wird das als kleine Wiedervereinigung bezeichnet, lange vor der Einheit von 1990.",
-          "en": "On 1 January 1957, Saarland became a state of the Federal Republic of Germany. It is sometimes called a small reunification long before the unity of 1990."
+          "en": "On 1 January 1957, Saarland became a state of the Federal Republic of Germany. It is sometimes called a small reunification long before the unity of 1990.",
+          "fr": "Le 1er janvier 1957, la Sarre devint un Land de la Republique federale d'Allemagne. On parle parfois d'une petite reunification, bien avant l'unite de 1990.",
+          "es": "El 1 de enero de 1957, el Sarre se convirtio en un estado de la Republica Federal de Alemania. A veces se llama una pequena reunificacion, mucho antes de la unidad de 1990.",
+          "it": "Il 1 gennaio 1957 il Saarland divenne un Land della Repubblica Federale di Germania. A volte viene chiamata piccola riunificazione, molto prima dell'unita del 1990.",
+          "pt": "Em 1 de janeiro de 1957, o Sarre tornou-se um estado da Republica Federal da Alemanha. As vezes isso e chamado de pequena reunificacao, muito antes da unidade de 1990.",
+          "nl": "Op 1 januari 1957 werd Saarland een deelstaat van de Bondsrepubliek Duitsland. Soms wordt dit een kleine hereniging genoemd, lang voor de eenheid van 1990.",
+          "pl": "1 stycznia 1957 roku Saara stala sie krajem zwiazkowym Republiki Federalnej Niemiec. Czasem nazywa sie to malym zjednoczeniem, dlugo przed jednoscia z 1990 roku.",
+          "tr": "1 Ocak 1957'de Saarland, Federal Almanya Cumhuriyeti'nin bir eyaleti oldu. Bu bazen 1990 birliginden cok onceki kucuk yeniden birlesme olarak adlandirilir.",
+          "zh": "1957年1月1日，萨尔兰成为德意志联邦共和国的一个州。这有时被称为早于1990年统一很久的“小统一”。",
+          "ja": "1957年1月1日、ザールラントはドイツ連邦共和国の州となりました。これは1990年の統一よりずっと前の「小さな再統一」と呼ばれることがあります。",
+          "ko": "1957년 1월 1일 자를란트는 독일연방공화국의 주가 되었다. 이는 1990년 통일보다 훨씬 앞선 작은 재통일로 불리기도 한다.",
+          "hi": "1 जनवरी 1957 को सारलैंड जर्मनी के संघीय गणराज्य का एक राज्य बना। इसे कभी-कभी 1990 के एकीकरण से बहुत पहले का छोटा पुनर्एकीकरण कहा जाता है।",
+          "ar": "في 1 يناير 1957 اصبح السار ولاية في جمهورية المانيا الاتحادية. ويسمى ذلك احيانا وحدة صغيرة قبل وحدة عام 1990 بوقت طويل."
         },
         "importance": {
           "ru": "История Саара помогает понять особую роль границы между Германией и Францией.",
           "de": "Die Geschichte des Saarlandes hilft, die besondere Rolle der deutsch-franzoesischen Grenze zu verstehen.",
-          "en": "The Saar's history helps explain the special role of the German-French border."
+          "en": "The Saar's history helps explain the special role of the German-French border.",
+          "fr": "L'histoire de la Sarre aide a comprendre le role particulier de la frontiere franco-allemande.",
+          "es": "La historia del Sarre ayuda a entender el papel especial de la frontera franco-alemana.",
+          "it": "La storia della Saar aiuta a capire il ruolo speciale del confine franco-tedesco.",
+          "pt": "A historia do Sarre ajuda a explicar o papel especial da fronteira franco-alema.",
+          "nl": "De geschiedenis van de Saar helpt de bijzondere rol van de Duits-Franse grens te begrijpen.",
+          "pl": "Historia Saary pomaga zrozumiec szczegolna role granicy niemiecko-francuskiej.",
+          "tr": "Saar'in tarihi, Alman-Fransiz sinirinin ozel rolunu anlamaya yardim eder.",
+          "zh": "萨尔的历史有助于解释德法边境的特殊作用。",
+          "ja": "ザールの歴史は、独仏国境の特別な役割を理解する助けになります。",
+          "ko": "자르의 역사는 독일-프랑스 국경의 특별한 역할을 이해하는 데 도움이 된다.",
+          "hi": "सार का इतिहास जर्मन-फ्रांसीसी सीमा की विशेष भूमिका समझाने में मदद करता है।",
+          "ar": "يساعد تاريخ السار على فهم الدور الخاص للحدود الالمانية الفرنسية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Саар выступал отдельно",
           "de": "Das Saarland trat eigenstaendig an",
-          "en": "The Saar competed separately"
+          "en": "The Saar competed separately",
+          "fr": "La Sarre concourait separement",
+          "es": "El Sarre competia por separado",
+          "it": "La Saar gareggiava separatamente",
+          "pt": "O Sarre competia separadamente",
+          "nl": "De Saar deed apart mee",
+          "pl": "Saara startowala osobno",
+          "tr": "Saar ayri yaristi",
+          "zh": "萨尔曾单独参赛",
+          "ja": "ザールは別チームで出場した",
+          "ko": "자르는 따로 출전했다",
+          "hi": "सार अलग से खेलता था",
+          "ar": "شارك السار بشكل منفصل"
         },
         "description": {
           "ru": "В начале 1950-х Саар имел отдельные спортивные команды и даже участвовал в отборе к чемпионату мира по футболу отдельно от ФРГ. Для маленького региона это необычная страница истории.",
           "de": "Anfang der 1950er Jahre hatte das Saarland eigene Sportmannschaften und trat sogar in der WM-Qualifikation getrennt von der Bundesrepublik an. Fuer eine kleine Region ist das eine ungewoehnliche Geschichte.",
-          "en": "In the early 1950s, the Saar had its own sports teams and even competed in World Cup qualification separately from West Germany. For a small region, that is an unusual historical episode."
+          "en": "In the early 1950s, the Saar had its own sports teams and even competed in World Cup qualification separately from West Germany. For a small region, that is an unusual historical episode.",
+          "fr": "Au debut des annees 1950, la Sarre avait ses propres equipes sportives et participa meme aux qualifications de la Coupe du monde separement de la RFA. Pour une petite region, c'est un episode historique inhabituel.",
+          "es": "A comienzos de la decada de 1950, el Sarre tenia sus propios equipos deportivos e incluso compitio en la clasificacion para el Mundial separado de la RFA. Para una region pequena, es un episodio historico inusual.",
+          "it": "All'inizio degli anni 1950, la Saar aveva proprie squadre sportive e partecipo persino alle qualificazioni mondiali separatamente dalla Germania Ovest. Per una piccola regione e un episodio storico insolito.",
+          "pt": "No inicio dos anos 1950, o Sarre tinha suas proprias equipes esportivas e chegou a disputar a classificacao para a Copa do Mundo separadamente da Alemanha Ocidental. Para uma pequena regiao, isso e um episodio historico incomum.",
+          "nl": "Begin jaren 1950 had de Saar eigen sportteams en deed zelfs los van West-Duitsland mee aan de WK-kwalificatie. Voor een kleine regio is dat een ongewoon historisch hoofdstuk.",
+          "pl": "Na poczatku lat 50. Saara miala wlasne druzyny sportowe i wystepowala nawet w kwalifikacjach do mistrzostw swiata oddzielnie od RFN. Dla malego regionu to niezwykly epizod historyczny.",
+          "tr": "1950'lerin basinda Saar'in kendi spor takimlari vardi ve hatta Dunya Kupasi elemelerine Bati Almanya'dan ayri katildi. Kucuk bir bolge icin bu olagan disi bir tarih sayfasidir.",
+          "zh": "20世纪50年代初，萨尔拥有自己的运动队，甚至在世界杯预选赛中与西德分开参赛。对一个小地区来说，这是很不寻常的历史片段。",
+          "ja": "1950年代初め、ザールには独自のスポーツチームがあり、ワールドカップ予選にも西ドイツとは別に参加しました。小さな地域としては珍しい歴史の一幕です。",
+          "ko": "1950년대 초 자르는 자체 스포츠팀을 가지고 있었고, 월드컵 예선에도 서독과 별도로 참가했다. 작은 지역으로서는 특이한 역사적 장면이다.",
+          "hi": "1950 के दशक की शुरुआत में सार की अपनी खेल टीमें थीं और वह विश्व कप क्वालीफिकेशन में पश्चिम जर्मनी से अलग भी खेला। छोटे क्षेत्र के लिए यह असामान्य ऐतिहासिक प्रसंग है।",
+          "ar": "في اوائل خمسينيات القرن العشرين كان للسار فرقه الرياضية الخاصة وشارك حتى في تصفيات كأس العالم منفصلا عن المانيا الغربية. وبالنسبة لمنطقة صغيرة فهذه صفحة تاريخية غير مألوفة."
         },
         "importance": {
           "ru": "Такой факт делает сложную послевоенную политику немного нагляднее.",
           "de": "Ein solcher Fakt macht die komplizierte Nachkriegspolitik anschaulicher.",
-          "en": "This fact makes complicated postwar politics easier to picture."
+          "en": "This fact makes complicated postwar politics easier to picture.",
+          "fr": "Ce fait rend la politique compliquee d'apres-guerre plus facile a imaginer.",
+          "es": "Este hecho hace mas facil imaginar la complicada politica de posguerra.",
+          "it": "Questo fatto rende piu facile immaginare la complessa politica del dopoguerra.",
+          "pt": "Esse fato torna mais facil visualizar a politica complicada do pos-guerra.",
+          "nl": "Dit feit maakt de ingewikkelde naoorlogse politiek beter voorstelbaar.",
+          "pl": "Ten fakt sprawia, ze skomplikowana polityka powojenna staje sie bardziej obrazowa.",
+          "tr": "Bu bilgi, karmasik savas sonrasi siyaseti gozde canlandirmayi kolaylastirir.",
+          "zh": "这个事实让复杂的战后政治更容易想象。",
+          "ja": "この事実は、複雑な戦後政治を少しイメージしやすくします。",
+          "ko": "이 사실은 복잡한 전후 정치를 더 쉽게 떠올리게 해 준다.",
+          "hi": "यह तथ्य जटिल युद्धोत्तर राजनीति को कल्पना में समझना आसान बनाता है।",
+          "ar": "يجعل هذا الامر السياسة المعقدة بعد الحرب اسهل تخيلا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "По данным bpb, против Саарского статута проголосовали 67,7 процента участников голосования.",
     "de": "Nach Angaben der bpb stimmten 67,7 Prozent der Waehler gegen das Saarstatut.",
-    "en": "According to bpb, 67.7 percent of voters rejected the Saar Statute."
+    "en": "According to bpb, 67.7 percent of voters rejected the Saar Statute.",
+    "fr": "Selon la bpb, 67,7 pour cent des votants rejetterent le statut de la Sarre.",
+    "es": "Segun la bpb, el 67,7 por ciento de los votantes rechazo el Estatuto del Sarre.",
+    "it": "Secondo la bpb, il 67,7 per cento degli elettori respinse lo Statuto della Saar.",
+    "pt": "Segundo a bpb, 67,7 por cento dos eleitores rejeitaram o Estatuto do Sarre.",
+    "nl": "Volgens de bpb wees 67,7 procent van de kiezers het Saarstatuut af.",
+    "pl": "Wedlug bpb 67,7 procent glosujacych odrzucilo statut Saary.",
+    "tr": "bpb'ye gore secmenlerin yuzde 67,7'si Saar Statutu'nu reddetti.",
+    "zh": "据bpb称，67.7%的投票者拒绝了《萨尔章程》。",
+    "ja": "bpbによれば、投票者の67.7パーセントがザール規約を拒否しました。",
+    "ko": "bpb에 따르면 투표자의 67.7퍼센트가 자르 지위안을 거부했다.",
+    "hi": "bpb के अनुसार 67.7 प्रतिशत मतदाताओं ने सार विधान को अस्वीकार किया।",
+    "ar": "وفقا لـ bpb رفض 67.7 في المئة من الناخبين نظام السار."
   },
   "sources": [
     {
