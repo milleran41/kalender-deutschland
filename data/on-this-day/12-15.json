@@ -11,17 +11,53 @@
     "title": {
       "ru": "Адольф Эйхман был приговорён к смерти",
       "de": "Adolf Eichmann wird zum Tod verurteilt",
-      "en": "Adolf Eichmann is sentenced to death"
+      "en": "Adolf Eichmann is sentenced to death",
+      "fr": "Adolf Eichmann est condamne a mort",
+      "es": "Adolf Eichmann es condenado a muerte",
+      "it": "Adolf Eichmann e condannato a morte",
+      "pt": "Adolf Eichmann e condenado a morte",
+      "nl": "Adolf Eichmann wordt ter dood veroordeeld",
+      "pl": "Adolf Eichmann zostaje skazany na smierc",
+      "tr": "Adolf Eichmann olum cezasina carptiriliyor",
+      "zh": "阿道夫·艾希曼被判处死刑",
+      "ja": "アドルフ・アイヒマンに死刑判決",
+      "ko": "아돌프 아이히만이 사형을 선고받다",
+      "hi": "एडॉल्फ आइखमान को मौत की सजा सुनाई गई",
+      "ar": "الحكم على أدولف آيخمان بالإعدام"
     },
     "description": {
       "ru": "15 декабря 1961 года суд в Иерусалиме приговорил Адольфа Эйхмана к смерти за его роль в Холокосте. Процесс стал одним из самых важных судебных разбирательств о преступлениях нацистской Германии.",
       "de": "Am 15. Dezember 1961 verurteilte ein Gericht in Jerusalem Adolf Eichmann wegen seiner Rolle im Holocaust zum Tod. Der Prozess wurde zu einem der wichtigsten Gerichtsverfahren ueber die Verbrechen des nationalsozialistischen Deutschlands.",
-      "en": "On 15 December 1961, a court in Jerusalem sentenced Adolf Eichmann to death for his role in the Holocaust. The trial became one of the most important legal proceedings about the crimes of Nazi Germany."
+      "en": "On 15 December 1961, a court in Jerusalem sentenced Adolf Eichmann to death for his role in the Holocaust. The trial became one of the most important legal proceedings about the crimes of Nazi Germany.",
+      "fr": "Le 15 decembre 1961, un tribunal de Jerusalem condamna Adolf Eichmann a mort pour son role dans la Shoah. Le proces devint l'une des procedures judiciaires les plus importantes sur les crimes de l'Allemagne nazie.",
+      "es": "El 15 de diciembre de 1961, un tribunal de Jerusalen condeno a muerte a Adolf Eichmann por su papel en el Holocausto. El proceso se convirtio en uno de los juicios mas importantes sobre los crimenes de la Alemania nazi.",
+      "it": "Il 15 dicembre 1961 un tribunale di Gerusalemme condanno a morte Adolf Eichmann per il suo ruolo nell'Olocausto. Il processo divenne uno dei procedimenti piu importanti sui crimini della Germania nazista.",
+      "pt": "Em 15 de dezembro de 1961, um tribunal em Jerusalem condenou Adolf Eichmann a morte por seu papel no Holocausto. O julgamento tornou-se um dos processos legais mais importantes sobre os crimes da Alemanha nazista.",
+      "nl": "Op 15 december 1961 veroordeelde een rechtbank in Jeruzalem Adolf Eichmann ter dood voor zijn rol in de Holocaust. Het proces werd een van de belangrijkste rechtszaken over de misdaden van nazi-Duitsland.",
+      "pl": "15 grudnia 1961 roku sad w Jerozolimie skazal Adolfa Eichmanna na smierc za jego role w Holokauscie. Proces stal sie jednym z najwazniejszych postepowan sadowych dotyczacych zbrodni nazistowskich Niemiec.",
+      "tr": "15 Aralik 1961'de Kudus'teki bir mahkeme, Holokost'taki rolu nedeniyle Adolf Eichmann'i olum cezasina carptirdi. Dava, Nazi Almanyasi'nin suclari hakkindaki en onemli yargi sureclerinden biri oldu.",
+      "zh": "1961年12月15日，耶路撒冷一家法院因阿道夫·艾希曼在大屠杀中的作用判处他死刑。这场审判成为关于纳粹德国罪行最重要的司法程序之一。",
+      "ja": "1961年12月15日、エルサレムの裁判所はホロコーストでの役割によりアドルフ・アイヒマンに死刑を宣告しました。この裁判は、ナチス・ドイツの犯罪を扱う最も重要な法的手続きの一つとなりました。",
+      "ko": "1961년 12월 15일 예루살렘의 법원은 홀로코스트에서 한 역할 때문에 아돌프 아이히만에게 사형을 선고했다. 이 재판은 나치 독일의 범죄에 관한 가장 중요한 법적 절차 중 하나가 되었다.",
+      "hi": "15 दिसंबर 1961 को यरूशलेम की अदालत ने होलोकॉस्ट में भूमिका के लिए एडॉल्फ आइखमान को मौत की सजा सुनाई। यह मुकदमा नाजी जर्मनी के अपराधों पर सबसे महत्वपूर्ण कानूनी कार्यवाहियों में से एक बन गया।",
+      "ar": "في 15 ديسمبر 1961 حكمت محكمة في القدس على أدولف آيخمان بالإعدام بسبب دوره في الهولوكوست. وأصبحت المحاكمة من أهم الإجراءات القانونية المتعلقة بجرائم ألمانيا النازية."
     },
     "importance": {
       "ru": "Дата важна, потому что процесс Эйхмана сделал свидетельства выживших частью мировой памяти о Холокосте.",
       "de": "Das Datum ist wichtig, weil der Eichmann-Prozess die Aussagen von Ueberlebenden zu einem Teil der weltweiten Erinnerung an den Holocaust machte.",
-      "en": "The date matters because the Eichmann trial made survivors' testimony part of global memory of the Holocaust."
+      "en": "The date matters because the Eichmann trial made survivors' testimony part of global memory of the Holocaust.",
+      "fr": "Cette date est importante parce que le proces Eichmann fit des temoignages des survivants une part de la memoire mondiale de la Shoah.",
+      "es": "La fecha importa porque el juicio de Eichmann hizo que el testimonio de los supervivientes formara parte de la memoria mundial del Holocausto.",
+      "it": "La data e importante perche il processo Eichmann rese le testimonianze dei sopravvissuti parte della memoria mondiale dell'Olocausto.",
+      "pt": "A data e importante porque o julgamento de Eichmann tornou os testemunhos dos sobreviventes parte da memoria mundial do Holocausto.",
+      "nl": "De datum is belangrijk omdat het Eichmann-proces de getuigenissen van overlevenden deel maakte van de wereldwijde herinnering aan de Holocaust.",
+      "pl": "Ta data jest wazna, bo proces Eichmanna uczynil swiadectwa ocalalych czescia swiatowej pamieci o Holokauscie.",
+      "tr": "Bu tarih onemlidir, cunku Eichmann davasi hayatta kalanlarin tanikliklarini Holokost'un kuresel hafizasinin parcasi haline getirdi.",
+      "zh": "这个日期重要，因为艾希曼审判使幸存者证词成为全球大屠杀记忆的一部分。",
+      "ja": "この日が重要なのは、アイヒマン裁判が生存者の証言をホロコーストの世界的記憶の一部にしたからです。",
+      "ko": "이 날짜가 중요한 것은 아이히만 재판이 생존자들의 증언을 홀로코스트에 대한 세계적 기억의 일부로 만들었기 때문이다.",
+      "hi": "यह तारीख महत्वपूर्ण है क्योंकि आइखमान मुकदमे ने जीवित बचे लोगों की गवाही को होलोकॉस्ट की वैश्विक स्मृति का हिस्सा बना दिया।",
+      "ar": "هذا التاريخ مهم لأن محاكمة آيخمان جعلت شهادات الناجين جزءا من الذاكرة العالمية للهولوكوست."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Суд в Иерусалиме",
           "de": "Der Prozess in Jerusalem",
-          "en": "The trial in Jerusalem"
+          "en": "The trial in Jerusalem",
+          "fr": "Le proces a Jerusalem",
+          "es": "El juicio en Jerusalen",
+          "it": "Il processo a Gerusalemme",
+          "pt": "O julgamento em Jerusalem",
+          "nl": "Het proces in Jeruzalem",
+          "pl": "Proces w Jerozolimie",
+          "tr": "Kudus'teki dava",
+          "zh": "耶路撒冷审判",
+          "ja": "エルサレムでの裁判",
+          "ko": "예루살렘의 재판",
+          "hi": "यरूशलेम का मुकदमा",
+          "ar": "المحاكمة في القدس"
         },
         "description": {
           "ru": "Эйхман был одним из организаторов депортации европейских евреев. Суд подробно рассматривал бюрократический механизм массового убийства, а не только действия одного человека.",
           "de": "Eichmann war einer der Organisatoren der Deportation europaeischer Juden. Das Gericht untersuchte den buerokratischen Mechanismus des Massenmords und nicht nur die Taten eines Einzelnen.",
-          "en": "Eichmann was one of the organizers of the deportation of European Jews. The court examined the bureaucratic mechanism of mass murder, not only the actions of one man."
+          "en": "Eichmann was one of the organizers of the deportation of European Jews. The court examined the bureaucratic mechanism of mass murder, not only the actions of one man.",
+          "fr": "Eichmann fut l'un des organisateurs de la deportation des Juifs d'Europe. Le tribunal examina le mecanisme bureaucratique du meurtre de masse, et pas seulement les actes d'un seul homme.",
+          "es": "Eichmann fue uno de los organizadores de la deportacion de los judios europeos. El tribunal examino el mecanismo burocratico del asesinato masivo, no solo las acciones de un hombre.",
+          "it": "Eichmann fu uno degli organizzatori della deportazione degli ebrei europei. Il tribunale esamino il meccanismo burocratico dell'omicidio di massa, non solo le azioni di un uomo.",
+          "pt": "Eichmann foi um dos organizadores da deportacao dos judeus europeus. O tribunal examinou o mecanismo burocratico do assassinato em massa, nao apenas as acoes de um homem.",
+          "nl": "Eichmann was een van de organisatoren van de deportatie van Europese Joden. De rechtbank onderzocht het bureaucratische mechanisme van massamoord, niet alleen de daden van een man.",
+          "pl": "Eichmann byl jednym z organizatorow deportacji europejskich Zydow. Sad badal biurokratyczny mechanizm masowego mordu, a nie tylko dzialania jednego czlowieka.",
+          "tr": "Eichmann, Avrupa Yahudilerinin surgun edilmesini orgutleyenlerden biriydi. Mahkeme yalnizca bir kisinin eylemlerini degil, kitlesel cinayetin burokratik mekanizmasini inceledi.",
+          "zh": "艾希曼是组织驱逐欧洲犹太人的人员之一。法院审查的不只是一个人的行为，也包括大规模杀戮的官僚机制。",
+          "ja": "アイヒマンはヨーロッパのユダヤ人追放の組織者の一人でした。裁判所は一人の行為だけでなく、大量殺害の官僚的な仕組みを検討しました。",
+          "ko": "아이히만은 유럽 유대인 추방을 조직한 인물 중 하나였다. 법원은 한 사람의 행동뿐 아니라 대량학살의 관료적 메커니즘을 살폈다.",
+          "hi": "आइखमान यूरोपीय यहूदियों के निर्वासन के आयोजकों में से एक था। अदालत ने केवल एक व्यक्ति के काम नहीं, बल्कि सामूहिक हत्या की नौकरशाही व्यवस्था की जांच की।",
+          "ar": "كان آيخمان أحد منظمي ترحيل يهود أوروبا. وفحصت المحكمة الآلية البيروقراطية للقتل الجماعي، لا أفعال رجل واحد فقط."
         },
         "importance": {
           "ru": "Так видно, что преступления диктатуры часто совершаются через приказы, списки, поезда и канцелярии.",
           "de": "So wird sichtbar, dass Verbrechen einer Diktatur oft durch Befehle, Listen, Zuege und Bueros begangen werden.",
-          "en": "It shows that the crimes of a dictatorship are often carried out through orders, lists, trains and offices."
+          "en": "It shows that the crimes of a dictatorship are often carried out through orders, lists, trains and offices.",
+          "fr": "Cela montre que les crimes d'une dictature sont souvent accomplis par des ordres, des listes, des trains et des bureaux.",
+          "es": "Muestra que los crimenes de una dictadura a menudo se realizan mediante ordenes, listas, trenes y oficinas.",
+          "it": "Mostra che i crimini di una dittatura sono spesso compiuti attraverso ordini, liste, treni e uffici.",
+          "pt": "Mostra que os crimes de uma ditadura muitas vezes sao executados por ordens, listas, trens e escritorios.",
+          "nl": "Het laat zien dat de misdaden van een dictatuur vaak worden uitgevoerd via bevelen, lijsten, treinen en kantoren.",
+          "pl": "To pokazuje, ze zbrodnie dyktatury czesto dokonuja sie przez rozkazy, listy, pociagi i biura.",
+          "tr": "Bu, bir diktatorlugun suclarinin cogu zaman emirler, listeler, trenler ve burolar araciligiyla isledigini gosterir.",
+          "zh": "这说明独裁政权的罪行常常通过命令、名单、火车和办公室来执行。",
+          "ja": "独裁体制の犯罪が、命令、名簿、列車、事務所を通じて実行されることが多いと示しています。",
+          "ko": "독재의 범죄가 명령, 명단, 기차, 사무실을 통해 수행되는 경우가 많음을 보여 준다.",
+          "hi": "यह दिखाता है कि तानाशाही के अपराध अक्सर आदेशों, सूचियों, रेलगाड़ियों और दफ्तरों के जरिए किए जाते हैं।",
+          "ar": "يوضح ذلك أن جرائم الدكتاتورية كثيرا ما تنفذ عبر الأوامر والقوائم والقطارات والمكاتب."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Голоса выживших",
           "de": "Stimmen der Ueberlebenden",
-          "en": "Voices of survivors"
+          "en": "Voices of survivors",
+          "fr": "Voix des survivants",
+          "es": "Voces de los supervivientes",
+          "it": "Voci dei sopravvissuti",
+          "pt": "Vozes dos sobreviventes",
+          "nl": "Stemmen van overlevenden",
+          "pl": "Glosy ocalalych",
+          "tr": "Hayatta kalanlarin sesleri",
+          "zh": "幸存者的声音",
+          "ja": "生存者たちの声",
+          "ko": "생존자들의 목소리",
+          "hi": "जीवित बचे लोगों की आवाजें",
+          "ar": "أصوات الناجين"
         },
         "description": {
           "ru": "На процессе выступали многие свидетели, пережившие преследования и лагеря. Их рассказы помогли обществу услышать человеческую сторону истории, которую нельзя свести к документам.",
           "de": "Im Prozess sagten viele Zeuginnen und Zeugen aus, die Verfolgung und Lager ueberlebt hatten. Ihre Berichte halfen der Gesellschaft, die menschliche Seite der Geschichte zu hoeren, die sich nicht auf Akten reduzieren laesst.",
-          "en": "Many witnesses who had survived persecution and camps testified at the trial. Their accounts helped society hear the human side of history, which cannot be reduced to documents."
+          "en": "Many witnesses who had survived persecution and camps testified at the trial. Their accounts helped society hear the human side of history, which cannot be reduced to documents.",
+          "fr": "De nombreux temoins ayant survecu aux persecutions et aux camps deposerent au proces. Leurs recits aiderent la societe a entendre le cote humain de l'histoire, qui ne peut pas etre reduit aux documents.",
+          "es": "Muchos testigos que habian sobrevivido a la persecucion y a los campos declararon en el juicio. Sus relatos ayudaron a la sociedad a escuchar el lado humano de la historia, que no puede reducirse a documentos.",
+          "it": "Molti testimoni sopravvissuti alle persecuzioni e ai campi deposero al processo. I loro racconti aiutarono la societa ad ascoltare il lato umano della storia, che non puo essere ridotto ai documenti.",
+          "pt": "Muitas testemunhas que sobreviveram a perseguicao e aos campos depuseram no julgamento. Seus relatos ajudaram a sociedade a ouvir o lado humano da historia, que nao pode ser reduzido a documentos.",
+          "nl": "Veel getuigen die vervolging en kampen hadden overleefd, getuigden tijdens het proces. Hun verhalen hielpen de samenleving de menselijke kant van de geschiedenis te horen, die niet tot documenten kan worden gereduceerd.",
+          "pl": "Podczas procesu zeznawalo wielu swiadkow, ktorzy przezyli przesladowania i obozy. Ich relacje pomogly spoleczenstwu uslyszec ludzka strone historii, ktorej nie da sie sprowadzic do dokumentow.",
+          "tr": "Zulmu ve kamplari atlatan bircok tanik davada ifade verdi. Anlatilari, toplumun tarihin belgelere indirgenemeyen insani yonunu duymasina yardim etti.",
+          "zh": "许多经历迫害和集中营后幸存的证人在审判中作证。他们的叙述帮助社会听见历史中无法被简化为文件的人性一面。",
+          "ja": "迫害と収容所を生き延びた多くの証人が裁判で証言しました。彼らの証言は、文書だけには還元できない歴史の人間的側面を社会に伝えました。",
+          "ko": "박해와 수용소에서 살아남은 많은 증인들이 재판에서 증언했다. 그들의 이야기는 문서로만 축소될 수 없는 역사의 인간적 측면을 사회가 듣게 했다.",
+          "hi": "उत्पीड़न और शिविरों से बचे कई गवाहों ने मुकदमे में गवाही दी। उनकी बातों ने समाज को इतिहास का मानवीय पक्ष सुनने में मदद की, जिसे दस्तावेजों तक सीमित नहीं किया जा सकता।",
+          "ar": "شهد في المحاكمة كثير من الشهود الذين نجوا من الاضطهاد والمعسكرات. وساعدت رواياتهم المجتمع على سماع الجانب الإنساني من التاريخ، الذي لا يمكن اختزاله في الوثائق."
         },
         "importance": {
           "ru": "Это одна из причин, почему процесс стал событием мировой памяти.",
           "de": "Das ist einer der Gruende, warum der Prozess zu einem Ereignis der Welt-Erinnerung wurde.",
-          "en": "This is one reason the trial became an event in world memory."
+          "en": "This is one reason the trial became an event in world memory.",
+          "fr": "C'est l'une des raisons pour lesquelles le proces devint un evenement de la memoire mondiale.",
+          "es": "Esta es una de las razones por las que el juicio se convirtio en un acontecimiento de la memoria mundial.",
+          "it": "Questo e uno dei motivi per cui il processo divenne un evento della memoria mondiale.",
+          "pt": "Essa e uma das razoes pelas quais o julgamento se tornou um acontecimento da memoria mundial.",
+          "nl": "Dit is een reden waarom het proces een gebeurtenis in het wereldgeheugen werd.",
+          "pl": "To jeden z powodow, dla ktorych proces stal sie wydarzeniem pamieci swiatowej.",
+          "tr": "Bu, davanin dunya hafizasinda bir olay haline gelmesinin nedenlerinden biridir.",
+          "zh": "这是审判成为世界记忆事件的原因之一。",
+          "ja": "これが、この裁判が世界的記憶の出来事となった理由の一つです。",
+          "ko": "이것은 그 재판이 세계적 기억의 사건이 된 이유 중 하나이다.",
+          "hi": "यह उन कारणों में से एक है जिनसे मुकदमा विश्व स्मृति की घटना बन गया।",
+          "ar": "هذا أحد الأسباب التي جعلت المحاكمة حدثا في الذاكرة العالمية."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Стеклянная кабина",
           "de": "Die Glaskabine",
-          "en": "The glass booth"
+          "en": "The glass booth",
+          "fr": "La cabine de verre",
+          "es": "La cabina de cristal",
+          "it": "La cabina di vetro",
+          "pt": "A cabine de vidro",
+          "nl": "De glazen cabine",
+          "pl": "Szklana kabina",
+          "tr": "Cam kabin",
+          "zh": "玻璃隔间",
+          "ja": "ガラスのブース",
+          "ko": "유리 부스",
+          "hi": "कांच का कक्ष",
+          "ar": "القفص الزجاجي"
         },
         "description": {
           "ru": "Эйхман сидел в зале суда в защищённой стеклянной кабине. Этот образ стал одним из самых узнаваемых визуальных символов процесса.",
           "de": "Eichmann sass im Gerichtssaal in einer geschuetzten Glaskabine. Dieses Bild wurde zu einem der bekanntesten visuellen Symbole des Prozesses.",
-          "en": "Eichmann sat in the courtroom inside a protected glass booth. This image became one of the most recognizable visual symbols of the trial."
+          "en": "Eichmann sat in the courtroom inside a protected glass booth. This image became one of the most recognizable visual symbols of the trial.",
+          "fr": "Eichmann etait assis dans la salle d'audience dans une cabine de verre protegee. Cette image devint l'un des symboles visuels les plus reconnaissables du proces.",
+          "es": "Eichmann se sento en la sala del tribunal dentro de una cabina de cristal protegida. Esa imagen se convirtio en uno de los simbolos visuales mas reconocibles del juicio.",
+          "it": "Eichmann sedeva nell'aula del tribunale dentro una cabina di vetro protetta. Questa immagine divenne uno dei simboli visivi piu riconoscibili del processo.",
+          "pt": "Eichmann ficou sentado no tribunal dentro de uma cabine de vidro protegida. Essa imagem tornou-se um dos simbolos visuais mais reconheciveis do julgamento.",
+          "nl": "Eichmann zat in de rechtszaal in een beschermde glazen cabine. Dit beeld werd een van de meest herkenbare visuele symbolen van het proces.",
+          "pl": "Eichmann siedzial na sali sadowej w chronionej szklanej kabinie. Ten obraz stal sie jednym z najbardziej rozpoznawalnych wizualnych symboli procesu.",
+          "tr": "Eichmann mahkeme salonunda korumali bir cam kabinin icinde oturdu. Bu goruntu, davanin en taninan gorsel simgelerinden biri oldu.",
+          "zh": "艾希曼坐在法庭上一间受保护的玻璃隔间内。这个画面成为审判最容易被识别的视觉象征之一。",
+          "ja": "アイヒマンは法廷で保護されたガラスのブースの中に座っていました。この光景は裁判を象徴する最もよく知られた視覚的イメージの一つとなりました。",
+          "ko": "아이히만은 법정에서 보호용 유리 부스 안에 앉아 있었다. 이 이미지는 재판의 가장 알아보기 쉬운 시각적 상징 중 하나가 되었다.",
+          "hi": "आइखमान अदालत कक्ष में सुरक्षित कांच के कक्ष के भीतर बैठा था। यह दृश्य मुकदमे के सबसे पहचाने जाने वाले दृश्य प्रतीकों में से एक बन गया।",
+          "ar": "جلس آيخمان في قاعة المحكمة داخل قفص زجاجي محمي. وأصبحت هذه الصورة من أكثر الرموز البصرية شهرة للمحاكمة."
         },
         "importance": {
           "ru": "Иногда одна деталь зала суда становится историческим образом.",
           "de": "Manchmal wird ein Detail im Gerichtssaal zu einem historischen Bild.",
-          "en": "Sometimes one detail in a courtroom becomes a historical image."
+          "en": "Sometimes one detail in a courtroom becomes a historical image.",
+          "fr": "Parfois, un detail d'une salle d'audience devient une image historique.",
+          "es": "A veces un detalle de una sala de tribunal se convierte en una imagen historica.",
+          "it": "A volte un dettaglio dell'aula di tribunale diventa un'immagine storica.",
+          "pt": "As vezes, um detalhe de uma sala de tribunal se torna uma imagem historica.",
+          "nl": "Soms wordt een detail in een rechtszaal een historisch beeld.",
+          "pl": "Czasem jeden szczegol sali sadowej staje sie obrazem historycznym.",
+          "tr": "Bazen bir mahkeme salonundaki tek bir ayrinti tarihsel bir imgeye donusur.",
+          "zh": "有时法庭中的一个细节会成为历史画面。",
+          "ja": "時には法廷の一つの細部が歴史的イメージになります。",
+          "ko": "때로는 법정의 한 세부가 역사적 이미지가 된다.",
+          "hi": "कभी-कभी अदालत कक्ष का एक विवरण ऐतिहासिक छवि बन जाता है।",
+          "ar": "أحيانا يتحول تفصيل واحد في قاعة المحكمة إلى صورة تاريخية."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Эйхман был казнён в 1962 году; это остаётся единственной гражданской казнью в истории Израиля.",
     "de": "Eichmann wurde 1962 hingerichtet; dies bleibt die einzige zivile Hinrichtung in der Geschichte Israels.",
-    "en": "Eichmann was executed in 1962; it remains the only civil execution in Israel's history."
+    "en": "Eichmann was executed in 1962; it remains the only civil execution in Israel's history.",
+    "fr": "Eichmann fut execute en 1962; cela reste la seule execution civile de l'histoire d'Israel.",
+    "es": "Eichmann fue ejecutado en 1962; sigue siendo la unica ejecucion civil en la historia de Israel.",
+    "it": "Eichmann fu giustiziato nel 1962; resta l'unica esecuzione civile nella storia di Israele.",
+    "pt": "Eichmann foi executado em 1962; continua sendo a unica execucao civil na historia de Israel.",
+    "nl": "Eichmann werd in 1962 geexecuteerd; het blijft de enige civiele executie in de geschiedenis van Israel.",
+    "pl": "Eichmann zostal stracony w 1962 roku; pozostaje to jedyna cywilna egzekucja w historii Izraela.",
+    "tr": "Eichmann 1962'de idam edildi; bu, Israil tarihinde tek sivil idam olarak kalmistir.",
+    "zh": "艾希曼于1962年被处决；这仍是以色列历史上唯一一次民事处决。",
+    "ja": "アイヒマンは1962年に処刑されました。これはイスラエル史上唯一の民間人に対する処刑とされています。",
+    "ko": "아이히만은 1962년에 처형되었고, 이는 이스라엘 역사에서 유일한 민간 사형 집행으로 남아 있다.",
+    "hi": "आइखमान को 1962 में फांसी दी गई; यह इजराइल के इतिहास में एकमात्र नागरिक फांसी बनी हुई है।",
+    "ar": "أُعدم آيخمان عام 1962؛ وما زال ذلك الإعدام المدني الوحيد في تاريخ إسرائيل."
   },
   "sources": [
     {

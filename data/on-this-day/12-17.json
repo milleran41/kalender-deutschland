@@ -11,17 +11,53 @@
     "title": {
       "ru": "Крещён Людвиг ван Бетховен",
       "de": "Ludwig van Beethoven wird getauft",
-      "en": "Ludwig van Beethoven is baptized"
+      "en": "Ludwig van Beethoven is baptized",
+      "fr": "Ludwig van Beethoven est baptise",
+      "es": "Ludwig van Beethoven es bautizado",
+      "it": "Ludwig van Beethoven viene battezzato",
+      "pt": "Ludwig van Beethoven e batizado",
+      "nl": "Ludwig van Beethoven wordt gedoopt",
+      "pl": "Ludwig van Beethoven zostaje ochrzczony",
+      "tr": "Ludwig van Beethoven vaftiz ediliyor",
+      "zh": "路德维希·范·贝多芬受洗",
+      "ja": "ルートヴィヒ・ヴァン・ベートーヴェンが洗礼を受ける",
+      "ko": "루트비히 판 베토벤이 세례를 받다",
+      "hi": "लुडविग वान बीथोवेन का बपतिस्मा हुआ",
+      "ar": "تعميد لودفيغ فان بيتهوفن"
     },
     "description": {
       "ru": "17 декабря 1770 года в Бонне был крещён Людвиг ван Бетховен. Точная дата рождения неизвестна, но обычно считают, что он родился незадолго до крещения.",
       "de": "Am 17. Dezember 1770 wurde Ludwig van Beethoven in Bonn getauft. Sein genaues Geburtsdatum ist unbekannt, doch meist wird angenommen, dass er kurz vor der Taufe geboren wurde.",
-      "en": "On 17 December 1770, Ludwig van Beethoven was baptized in Bonn. His exact birth date is unknown, but he is usually thought to have been born shortly before the baptism."
+      "en": "On 17 December 1770, Ludwig van Beethoven was baptized in Bonn. His exact birth date is unknown, but he is usually thought to have been born shortly before the baptism.",
+      "fr": "Le 17 decembre 1770, Ludwig van Beethoven fut baptise a Bonn. Sa date exacte de naissance est inconnue, mais on pense generalement qu'il est ne peu avant le bapteme.",
+      "es": "El 17 de diciembre de 1770, Ludwig van Beethoven fue bautizado en Bonn. Su fecha exacta de nacimiento se desconoce, pero normalmente se cree que nacio poco antes del bautismo.",
+      "it": "Il 17 dicembre 1770 Ludwig van Beethoven fu battezzato a Bonn. La sua data esatta di nascita e sconosciuta, ma di solito si pensa che sia nato poco prima del battesimo.",
+      "pt": "Em 17 de dezembro de 1770, Ludwig van Beethoven foi batizado em Bonn. Sua data exata de nascimento e desconhecida, mas geralmente se acredita que nasceu pouco antes do batismo.",
+      "nl": "Op 17 december 1770 werd Ludwig van Beethoven in Bonn gedoopt. Zijn exacte geboortedatum is onbekend, maar meestal wordt aangenomen dat hij kort voor de doop werd geboren.",
+      "pl": "17 grudnia 1770 roku Ludwig van Beethoven zostal ochrzczony w Bonn. Dokladna data jego urodzenia nie jest znana, ale zwykle przyjmuje sie, ze urodzil sie krotko przed chrztem.",
+      "tr": "17 Aralik 1770'te Ludwig van Beethoven Bonn'da vaftiz edildi. Kesin dogum tarihi bilinmiyor, ancak genellikle vaftizden kisa sure once dogdugu dusunulur.",
+      "zh": "1770年12月17日，路德维希·范·贝多芬在波恩受洗。他的确切出生日期未知，但通常认为他在受洗前不久出生。",
+      "ja": "1770年12月17日、ルートヴィヒ・ヴァン・ベートーヴェンはボンで洗礼を受けました。正確な生年月日は不明ですが、通常は洗礼の少し前に生まれたと考えられています。",
+      "ko": "1770년 12월 17일 루트비히 판 베토벤은 본에서 세례를 받았다. 정확한 생일은 알려져 있지 않지만, 보통 세례 직전에 태어난 것으로 여겨진다.",
+      "hi": "17 दिसंबर 1770 को लुडविग वान बीथोवेन का बॉन में बपतिस्मा हुआ। उनकी सही जन्मतिथि अज्ञात है, लेकिन आम तौर पर माना जाता है कि वे बपतिस्मा से कुछ समय पहले पैदा हुए थे।",
+      "ar": "في 17 ديسمبر 1770 عُمّد لودفيغ فان بيتهوفن في بون. تاريخ ميلاده الدقيق غير معروف، لكن يُعتقد عادة أنه وُلد قبل التعميد بقليل."
     },
     "importance": {
       "ru": "Бетховен стал одним из величайших композиторов Европы и навсегда связал Бонн с мировой музыкой.",
       "de": "Beethoven wurde einer der groessten Komponisten Europas und verband Bonn dauerhaft mit der Weltmusik.",
-      "en": "Beethoven became one of Europe's greatest composers and permanently linked Bonn with world music."
+      "en": "Beethoven became one of Europe's greatest composers and permanently linked Bonn with world music.",
+      "fr": "Beethoven devint l'un des plus grands compositeurs d'Europe et lia durablement Bonn a la musique mondiale.",
+      "es": "Beethoven se convirtio en uno de los mayores compositores de Europa y vinculo para siempre a Bonn con la musica mundial.",
+      "it": "Beethoven divenne uno dei piu grandi compositori d'Europa e lego per sempre Bonn alla musica mondiale.",
+      "pt": "Beethoven tornou-se um dos maiores compositores da Europa e ligou Bonn permanentemente a musica mundial.",
+      "nl": "Beethoven werd een van Europa's grootste componisten en verbond Bonn blijvend met de wereldmuziek.",
+      "pl": "Beethoven stal sie jednym z najwiekszych kompozytorow Europy i trwale polaczyl Bonn z muzyka swiatowa.",
+      "tr": "Beethoven Avrupa'nin en buyuk bestecilerinden biri oldu ve Bonn'u kalici olarak dunya muzigiyle bagladi.",
+      "zh": "贝多芬成为欧洲最伟大的作曲家之一，并把波恩永久地与世界音乐联系起来。",
+      "ja": "ベートーヴェンはヨーロッパ最大の作曲家の一人となり、ボンを世界音楽と永続的に結びつけました。",
+      "ko": "베토벤은 유럽의 가장 위대한 작곡가 중 한 명이 되었고 본을 세계 음악과 영구히 연결했다.",
+      "hi": "बीथोवेन यूरोप के महानतम संगीतकारों में से एक बने और बॉन को विश्व संगीत से स्थायी रूप से जोड़ दिया।",
+      "ar": "أصبح بيتهوفن أحد أعظم مؤلفي أوروبا وربط بون بالموسيقى العالمية بصورة دائمة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Бонн хранит память о композиторе",
           "de": "Bonn bewahrt die Erinnerung an den Komponisten",
-          "en": "Bonn preserves the composer's memory"
+          "en": "Bonn preserves the composer's memory",
+          "fr": "Bonn conserve la memoire du compositeur",
+          "es": "Bonn conserva la memoria del compositor",
+          "it": "Bonn conserva la memoria del compositore",
+          "pt": "Bonn preserva a memoria do compositor",
+          "nl": "Bonn bewaart de herinnering aan de componist",
+          "pl": "Bonn zachowuje pamiec o kompozytorze",
+          "tr": "Bonn bestecinin anisini koruyor",
+          "zh": "波恩保存着这位作曲家的记忆",
+          "ja": "ボンは作曲家の記憶を守る",
+          "ko": "본은 작곡가의 기억을 보존한다",
+          "hi": "बॉन संगीतकार की स्मृति संजोता है",
+          "ar": "بون تحفظ ذكرى المؤلف الموسيقي"
         },
         "description": {
           "ru": "Дом Бетховена в Бонне сегодня является музеем. Это одно из самых известных музыкальных мест Германии.",
           "de": "Das Beethoven-Haus in Bonn ist heute ein Museum. Es gehoert zu den bekanntesten Musikorten Deutschlands.",
-          "en": "The Beethoven House in Bonn is now a museum. It is one of Germany's best-known musical sites."
+          "en": "The Beethoven House in Bonn is now a museum. It is one of Germany's best-known musical sites.",
+          "fr": "La Beethoven-Haus de Bonn est aujourd'hui un musee. C'est l'un des lieux musicaux les plus connus d'Allemagne.",
+          "es": "La Casa Beethoven en Bonn es hoy un museo. Es uno de los lugares musicales mas conocidos de Alemania.",
+          "it": "La Beethoven-Haus di Bonn e oggi un museo. E uno dei luoghi musicali piu noti della Germania.",
+          "pt": "A Casa Beethoven em Bonn hoje e um museu. E um dos locais musicais mais conhecidos da Alemanha.",
+          "nl": "Het Beethoven-Haus in Bonn is tegenwoordig een museum. Het is een van de bekendste muzikale plaatsen van Duitsland.",
+          "pl": "Dom Beethovena w Bonn jest dzis muzeum. To jedno z najbardziej znanych miejsc muzycznych Niemiec.",
+          "tr": "Bonn'daki Beethoven Evi bugun bir muzedir. Almanya'nin en taninmis muzik mekanlarindan biridir.",
+          "zh": "波恩的贝多芬故居如今是一座博物馆。它是德国最著名的音乐地点之一。",
+          "ja": "ボンのベートーヴェン・ハウスは現在、博物館です。ドイツで最もよく知られた音楽ゆかりの場所の一つです。",
+          "ko": "본의 베토벤 하우스는 현재 박물관이다. 독일에서 가장 잘 알려진 음악 관련 장소 중 하나이다.",
+          "hi": "बॉन का Beethoven House आज संग्रहालय है। यह जर्मनी के सबसे प्रसिद्ध संगीत स्थलों में से एक है।",
+          "ar": "بيت بيتهوفن في بون هو اليوم متحف. وهو من أشهر المواقع الموسيقية في ألمانيا."
         },
         "importance": {
           "ru": "Так город на Рейне стал частью культурной карты всего мира.",
           "de": "So wurde die Stadt am Rhein Teil der kulturellen Weltkarte.",
-          "en": "The city on the Rhine became part of the world's cultural map."
+          "en": "The city on the Rhine became part of the world's cultural map.",
+          "fr": "La ville sur le Rhin devint une partie de la carte culturelle du monde.",
+          "es": "La ciudad del Rin se convirtio en parte del mapa cultural del mundo.",
+          "it": "La citta sul Reno divenne parte della mappa culturale del mondo.",
+          "pt": "A cidade no Reno tornou-se parte do mapa cultural do mundo.",
+          "nl": "De stad aan de Rijn werd deel van de culturele wereldkaart.",
+          "pl": "Miasto nad Renem stalo sie czescia kulturalnej mapy swiata.",
+          "tr": "Ren kiyisindaki kent, dunyanin kulturel haritasinin bir parcasi oldu.",
+          "zh": "这座莱茵河畔城市成为世界文化地图的一部分。",
+          "ja": "ライン川沿いのこの町は、世界の文化地図の一部となりました。",
+          "ko": "라인 강가의 도시는 세계 문화 지도의 일부가 되었다.",
+          "hi": "राइन नदी किनारे का शहर दुनिया के सांस्कृतिक नक्शे का हिस्सा बन गया।",
+          "ar": "أصبحت المدينة الواقعة على الراين جزءا من الخريطة الثقافية للعالم."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Бетховен долго думал, что родился в 1772 году; документы о крещении помогли уточнить дату.",
     "de": "Beethoven glaubte lange, er sei 1772 geboren; Taufdokumente halfen, das Datum zu klaeren.",
-    "en": "Beethoven long believed he had been born in 1772; baptism records helped clarify the date."
+    "en": "Beethoven long believed he had been born in 1772; baptism records helped clarify the date.",
+    "fr": "Beethoven crut longtemps etre ne en 1772; les documents de bapteme aiderent a clarifier la date.",
+    "es": "Beethoven creyo durante mucho tiempo que habia nacido en 1772; los registros de bautismo ayudaron a aclarar la fecha.",
+    "it": "Beethoven credette a lungo di essere nato nel 1772; i documenti di battesimo aiutarono a chiarire la data.",
+    "pt": "Beethoven acreditou por muito tempo ter nascido em 1772; os registros de batismo ajudaram a esclarecer a data.",
+    "nl": "Beethoven geloofde lange tijd dat hij in 1772 was geboren; doopregisters hielpen de datum te verduidelijken.",
+    "pl": "Beethoven dlugo sadzil, ze urodzil sie w 1772 roku; dokumenty chrztu pomogly wyjasnic date.",
+    "tr": "Beethoven uzun sure 1772'de dogduguna inandi; vaftiz kayitlari tarihi netlestirmeye yardim etti.",
+    "zh": "贝多芬长期以为自己出生于1772年；受洗记录帮助澄清了日期。",
+    "ja": "ベートーヴェンは長い間、自分が1772年生まれだと考えていました。洗礼記録が日付を明らかにする助けとなりました。",
+    "ko": "베토벤은 오랫동안 자신이 1772년에 태어났다고 믿었다. 세례 기록이 날짜를 밝히는 데 도움이 되었다.",
+    "hi": "बीथोवेन लंबे समय तक मानते रहे कि उनका जन्म 1772 में हुआ था; बपतिस्मा अभिलेखों ने तारीख स्पष्ट करने में मदद की।",
+    "ar": "اعتقد بيتهوفن طويلا أنه وُلد عام 1772؛ وساعدت سجلات التعميد على توضيح التاريخ."
   },
   "sources": [
     {
