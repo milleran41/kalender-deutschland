@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вартбургский фестиваль",
       "de": "Wartburgfest",
-      "en": "Wartburg Festival"
+      "en": "Wartburg Festival",
+      "fr": "Fete de la Wartburg",
+      "es": "Festival de Wartburg",
+      "it": "Festival di Wartburg",
+      "pt": "Festival de Wartburg",
+      "nl": "Wartburgfeest",
+      "pl": "Festiwal w Wartburgu",
+      "tr": "Wartburg Festivali",
+      "zh": "瓦尔特堡节",
+      "ja": "ヴァルトブルク祭",
+      "ko": "바르트부르크 축제",
+      "hi": "वार्टबर्ग उत्सव",
+      "ar": "مهرجان فارتبورغ"
     },
     "description": {
       "ru": "18 октября 1817 года студенты и либеральные участники собрались у замка Вартбург в Тюрингии. Они выступали за свободы, реформы и немецкое национальное единство.",
       "de": "Am 18. Oktober 1817 versammelten sich Studenten und liberale Teilnehmer auf der Wartburg in Thueringen. Sie forderten Freiheiten, Reformen und deutsche nationale Einheit.",
-      "en": "On 18 October 1817, students and liberal participants gathered at Wartburg Castle in Thuringia. They called for freedoms, reforms and German national unity."
+      "en": "On 18 October 1817, students and liberal participants gathered at Wartburg Castle in Thuringia. They called for freedoms, reforms and German national unity.",
+      "fr": "Le 18 octobre 1817, des etudiants et des liberaux se reunirent au chateau de la Wartburg en Thuringe. Ils reclamaient des libertes, des reformes et l'unite nationale allemande.",
+      "es": "El 18 de octubre de 1817, estudiantes y liberales se reunieron en el castillo de Wartburg, en Turingia. Reclamaban libertades, reformas y unidad nacional alemana.",
+      "it": "Il 18 ottobre 1817, studenti e partecipanti liberali si riunirono al castello di Wartburg in Turingia. Chiesero liberta, riforme e unita nazionale tedesca.",
+      "pt": "Em 18 de outubro de 1817, estudantes e liberais se reuniram no castelo de Wartburg, na Turingia. Eles pediam liberdades, reformas e unidade nacional alema.",
+      "nl": "Op 18 oktober 1817 kwamen studenten en liberale deelnemers bijeen bij de Wartburg in Thüringen. Zij vroegen om vrijheden, hervormingen en Duitse nationale eenheid.",
+      "pl": "18 pazdziernika 1817 roku studenci i liberalni uczestnicy zebrali sie przy zamku Wartburg w Turyngii. Domagali sie wolnosci, reform i niemieckiej jednosci narodowej.",
+      "tr": "18 Ekim 1817'de ogrenciler ve liberal katilimcilar Thuringen'deki Wartburg Satosu'nda toplandi. Ozgurlukler, reformlar ve Alman ulusal birligi talep ettiler.",
+      "zh": "1817年10月18日，学生和自由派人士聚集在图林根的瓦尔特堡城堡。他们呼吁自由、改革和德国民族统一。",
+      "ja": "1817年10月18日、学生や自由主義者たちがテューリンゲンのヴァルトブルク城に集まりました。彼らは自由、改革、ドイツの国民的統一を求めました。",
+      "ko": "1817년 10월 18일 학생들과 자유주의자들이 튀링겐의 바르트부르크 성에 모였다. 그들은 자유, 개혁, 독일의 국민적 통일을 요구했다.",
+      "hi": "18 अक्टूबर 1817 को छात्र और उदारवादी प्रतिभागी थुरिंगिया के वार्टबर्ग किले में इकट्ठे हुए। उन्होंने स्वतंत्रताओं, सुधारों और जर्मन राष्ट्रीय एकता की मांग की।",
+      "ar": "في 18 أكتوبر 1817 اجتمع طلاب ومشاركون ليبراليون في قلعة فارتبورغ في تورينغن. طالبوا بالحريات والاصلاحات والوحدة الوطنية الالمانية."
     },
     "importance": {
       "ru": "Это одно из ранних событий немецкого национального и либерального движения.",
       "de": "Das ist eines der fruehen Ereignisse der deutschen nationalen und liberalen Bewegung.",
-      "en": "It is one of the early events of the German national and liberal movement."
+      "en": "It is one of the early events of the German national and liberal movement.",
+      "fr": "C'est l'un des premiers evenements du mouvement national et liberal allemand.",
+      "es": "Es uno de los primeros acontecimientos del movimiento nacional y liberal aleman.",
+      "it": "E uno dei primi eventi del movimento nazionale e liberale tedesco.",
+      "pt": "E um dos primeiros acontecimentos do movimento nacional e liberal alemao.",
+      "nl": "Het is een van de vroege gebeurtenissen van de Duitse nationale en liberale beweging.",
+      "pl": "To jedno z wczesnych wydarzen niemieckiego ruchu narodowego i liberalnego.",
+      "tr": "Bu, Alman ulusal ve liberal hareketinin erken olaylarindan biridir.",
+      "zh": "这是德国民族和自由主义运动的早期事件之一。",
+      "ja": "これはドイツの国民運動と自由主義運動の初期の出来事の一つです。",
+      "ko": "이는 독일 민족 운동과 자유주의 운동의 초기 사건 중 하나이다.",
+      "hi": "यह जर्मन राष्ट्रीय और उदारवादी आंदोलन की शुरुआती घटनाओं में से एक है।",
+      "ar": "انه احد الاحداث المبكرة في الحركة الوطنية والليبرالية الالمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Замок как политический символ",
           "de": "Die Burg als politisches Symbol",
-          "en": "The castle as a political symbol"
+          "en": "The castle as a political symbol",
+          "fr": "Le chateau comme symbole politique",
+          "es": "El castillo como simbolo politico",
+          "it": "Il castello come simbolo politico",
+          "pt": "O castelo como simbolo politico",
+          "nl": "Het kasteel als politiek symbool",
+          "pl": "Zamek jako symbol polityczny",
+          "tr": "Siyasi sembol olarak sato",
+          "zh": "作为政治象征的城堡",
+          "ja": "政治的象徴としての城",
+          "ko": "정치적 상징으로서의 성",
+          "hi": "राजनीतिक प्रतीक के रूप में किला",
+          "ar": "القلعة كرمز سياسي"
         },
         "description": {
           "ru": "Вартбург уже был связан с памятью о Мартине Лютере. Поэтому место хорошо подходило для события, где история, религия и политика переплетались.",
           "de": "Die Wartburg war bereits mit der Erinnerung an Martin Luther verbunden. Deshalb passte der Ort zu einem Ereignis, in dem Geschichte, Religion und Politik zusammenkamen.",
-          "en": "Wartburg Castle was already linked with the memory of Martin Luther. That made it a powerful setting for an event where history, religion and politics met."
+          "en": "Wartburg Castle was already linked with the memory of Martin Luther. That made it a powerful setting for an event where history, religion and politics met.",
+          "fr": "La Wartburg etait deja liee au souvenir de Martin Luther. Le lieu convenait donc a un evenement ou histoire, religion et politique se rencontraient.",
+          "es": "Wartburg ya estaba vinculado al recuerdo de Martin Lutero. Por eso era un lugar adecuado para un acto donde se unian historia, religion y politica.",
+          "it": "Wartburg era gia legata alla memoria di Martin Lutero. Per questo era un luogo adatto a un evento in cui storia, religione e politica si intrecciavano.",
+          "pt": "Wartburg ja estava ligada a memoria de Martinho Lutero. Por isso o lugar combinava com um evento em que historia, religiao e politica se encontravam.",
+          "nl": "De Wartburg was al verbonden met de herinnering aan Maarten Luther. Daardoor paste de plek bij een gebeurtenis waarin geschiedenis, religie en politiek samenkwamen.",
+          "pl": "Wartburg byl juz zwiazany z pamiecia o Marcinie Lutrze. Dlatego miejsce pasowalo do wydarzenia, w ktorym splataly sie historia, religia i polityka.",
+          "tr": "Wartburg zaten Martin Luther'in anisiyla baglantiliydi. Bu nedenle tarih, din ve siyasetin bir araya geldigi bir etkinlik icin guclu bir mekandi.",
+          "zh": "瓦尔特堡城堡早已与马丁·路德的记忆联系在一起。因此，这里很适合举办一个让历史、宗教和政治交汇的事件。",
+          "ja": "ヴァルトブルク城はすでにマルティン・ルターの記憶と結びついていました。そのため、歴史、宗教、政治が交わる出来事の舞台にふさわしい場所でした。",
+          "ko": "바르트부르크 성은 이미 마르틴 루터의 기억과 연결되어 있었다. 그래서 역사, 종교, 정치가 만나는 사건의 무대로 잘 어울렸다.",
+          "hi": "वार्टबर्ग किला पहले से मार्टिन लूथर की स्मृति से जुड़ा था। इसलिए यह इतिहास, धर्म और राजनीति के मिलन वाले आयोजन के लिए उपयुक्त स्थान था।",
+          "ar": "كانت قلعة فارتبورغ مرتبطة بالفعل بذكرى مارتن لوثر. لذلك كان المكان مناسبا لحدث تلاقت فيه التاريخ والدين والسياسة."
         },
         "importance": {
           "ru": "Так география Германии превращается в карту символов.",
           "de": "So wird Deutschlands Geografie zu einer Karte von Symbolen.",
-          "en": "Germany's geography becomes a map of symbols."
+          "en": "Germany's geography becomes a map of symbols.",
+          "fr": "Ainsi, la geographie de l'Allemagne devient une carte de symboles.",
+          "es": "Asi, la geografia de Alemania se convierte en un mapa de simbolos.",
+          "it": "Cosi la geografia della Germania diventa una mappa di simboli.",
+          "pt": "Assim, a geografia da Alemanha se transforma em um mapa de simbolos.",
+          "nl": "Zo wordt de geografie van Duitsland een kaart van symbolen.",
+          "pl": "W ten sposob geografia Niemiec staje sie mapa symboli.",
+          "tr": "Boylece Almanya'nin cografyasi bir semboller haritasina donusur.",
+          "zh": "这样，德国的地理也变成了一张象征地图。",
+          "ja": "こうしてドイツの地理は象徴の地図になります。",
+          "ko": "이렇게 독일의 지리는 상징의 지도가 된다.",
+          "hi": "इस तरह जर्मनी का भूगोल प्रतीकों का नक्शा बन जाता है।",
+          "ar": "هكذا تتحول جغرافيا المانيا الى خريطة من الرموز."
         }
       },
       {
@@ -51,17 +123,53 @@
         "title": {
           "ru": "Основан Гейдельбергский университет",
           "de": "Die Universitaet Heidelberg wird gegruendet",
-          "en": "Heidelberg University is founded"
+          "en": "Heidelberg University is founded",
+          "fr": "Fondation de l'universite de Heidelberg",
+          "es": "Se funda la Universidad de Heidelberg",
+          "it": "Nasce l'Universita di Heidelberg",
+          "pt": "Fundacao da Universidade de Heidelberg",
+          "nl": "De Universiteit van Heidelberg wordt opgericht",
+          "pl": "Powstaje Uniwersytet w Heidelbergu",
+          "tr": "Heidelberg Universitesi kuruldu",
+          "zh": "海德堡大学成立",
+          "ja": "ハイデルベルク大学が創立される",
+          "ko": "하이델베르크 대학교 설립",
+          "hi": "हाइडेलबर्ग विश्वविद्यालय की स्थापना",
+          "ar": "تأسيس جامعة هايدلبرغ"
         },
         "description": {
           "ru": "18 октября 1386 года в Гейдельберге состоялась церемония основания университета. Сегодня он считается старейшим университетом Германии.",
           "de": "Am 18. Oktober 1386 fand in Heidelberg die Gruendungszeremonie der Universitaet statt. Heute gilt sie als aelteste Universitaet Deutschlands.",
-          "en": "On 18 October 1386, the founding ceremony of Heidelberg University took place. It is now regarded as Germany's oldest university."
+          "en": "On 18 October 1386, the founding ceremony of Heidelberg University took place. It is now regarded as Germany's oldest university.",
+          "fr": "Le 18 octobre 1386 eut lieu a Heidelberg la ceremonie de fondation de l'universite. Elle est aujourd'hui consideree comme la plus ancienne universite d'Allemagne.",
+          "es": "El 18 de octubre de 1386 se celebro en Heidelberg la ceremonia de fundacion de la universidad. Hoy se considera la universidad mas antigua de Alemania.",
+          "it": "Il 18 ottobre 1386 si svolse a Heidelberg la cerimonia di fondazione dell'universita. Oggi e considerata la piu antica universita della Germania.",
+          "pt": "Em 18 de outubro de 1386 ocorreu em Heidelberg a cerimonia de fundacao da universidade. Hoje ela e considerada a universidade mais antiga da Alemanha.",
+          "nl": "Op 18 oktober 1386 vond in Heidelberg de oprichtingsceremonie van de universiteit plaats. Tegenwoordig geldt zij als de oudste universiteit van Duitsland.",
+          "pl": "18 pazdziernika 1386 roku w Heidelbergu odbyla sie ceremonia zalozenia uniwersytetu. Dzis uchodzi on za najstarszy uniwersytet w Niemczech.",
+          "tr": "18 Ekim 1386'da Heidelberg'de universitenin kurulus toreni yapildi. Bugun Almanya'nin en eski universitesi kabul edilir.",
+          "zh": "1386年10月18日，海德堡大学举行了创立仪式。如今它被认为是德国最古老的大学。",
+          "ja": "1386年10月18日、ハイデルベルクで大学創立の式典が行われました。現在、それはドイツ最古の大学とされています。",
+          "ko": "1386년 10월 18일 하이델베르크에서 대학 설립식이 열렸다. 오늘날 이 대학은 독일에서 가장 오래된 대학으로 여겨진다.",
+          "hi": "18 अक्टूबर 1386 को हाइडेलबर्ग में विश्वविद्यालय की स्थापना समारोह हुआ। आज इसे जर्मनी का सबसे पुराना विश्वविद्यालय माना जाता है।",
+          "ar": "في 18 أكتوبر 1386 اقيم في هايدلبرغ حفل تأسيس الجامعة. وتعد اليوم اقدم جامعة في المانيا."
         },
         "importance": {
           "ru": "Дата показывает глубину немецкой университетской традиции.",
           "de": "Das Datum zeigt die Tiefe der deutschen Universitaetstradition.",
-          "en": "The date shows the depth of Germany's university tradition."
+          "en": "The date shows the depth of Germany's university tradition.",
+          "fr": "Cette date montre la profondeur de la tradition universitaire allemande.",
+          "es": "La fecha muestra la profundidad de la tradicion universitaria alemana.",
+          "it": "La data mostra la profondita della tradizione universitaria tedesca.",
+          "pt": "A data mostra a profundidade da tradicao universitaria alema.",
+          "nl": "De datum laat zien hoe diep de Duitse universitaire traditie gaat.",
+          "pl": "Ta data pokazuje glebokosc niemieckiej tradycji uniwersyteckiej.",
+          "tr": "Bu tarih, Alman universite geleneginin derinligini gosterir.",
+          "zh": "这个日期显示了德国大学传统的深厚。",
+          "ja": "この日付は、ドイツの大学伝統の深さを示しています。",
+          "ko": "이 날짜는 독일 대학 전통의 깊이를 보여 준다.",
+          "hi": "यह तारीख जर्मन विश्वविद्यालय परंपरा की गहराई दिखाती है।",
+          "ar": "يبين هذا التاريخ عمق التقاليد الجامعية الالمانية."
         }
       }
     ]
@@ -69,7 +177,19 @@
   "fact": {
     "ru": "Чёрно-красно-золотые цвета позднее стали важным символом демократического и национального движения.",
     "de": "Schwarz-Rot-Gold wurde spaeter zu einem wichtigen Symbol der demokratischen und nationalen Bewegung.",
-    "en": "Black, red and gold later became an important symbol of the democratic and national movement."
+    "en": "Black, red and gold later became an important symbol of the democratic and national movement.",
+    "fr": "Le noir, le rouge et l'or devinrent plus tard un symbole important du mouvement democratique et national.",
+    "es": "El negro, rojo y dorado se convirtieron despues en un simbolo importante del movimiento democratico y nacional.",
+    "it": "Il nero, rosso e oro divennero poi un simbolo importante del movimento democratico e nazionale.",
+    "pt": "O preto, vermelho e dourado depois se tornaram um simbolo importante do movimento democratico e nacional.",
+    "nl": "Zwart, rood en goud werden later een belangrijk symbool van de democratische en nationale beweging.",
+    "pl": "Czern, czerwien i zloto staly sie pozniej waznym symbolem ruchu demokratycznego i narodowego.",
+    "tr": "Siyah, kirmizi ve altin renkleri daha sonra demokratik ve ulusal hareketin onemli bir sembolu oldu.",
+    "zh": "黑、红、金三色后来成为民主和民族运动的重要象征。",
+    "ja": "黒・赤・金の三色は、のちに民主主義運動と国民運動の重要な象徴となりました。",
+    "ko": "검정, 빨강, 금색은 나중에 민주주의와 민족 운동의 중요한 상징이 되었다.",
+    "hi": "काला, लाल और सुनहरा रंग बाद में लोकतांत्रिक और राष्ट्रीय आंदोलन का महत्वपूर्ण प्रतीक बन गए।",
+    "ar": "اصبحت الالوان الاسود والاحمر والذهبي لاحقا رمزا مهما للحركة الديمقراطية والوطنية."
   },
   "sources": [
     {

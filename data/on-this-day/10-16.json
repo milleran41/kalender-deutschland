@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Гюнтер Грасс",
       "de": "Guenter Grass wird geboren",
-      "en": "Guenter Grass is born"
+      "en": "Guenter Grass is born",
+      "fr": "Naissance de Guenter Grass",
+      "es": "Nace Guenter Grass",
+      "it": "Nasce Guenter Grass",
+      "pt": "Nasce Guenter Grass",
+      "nl": "Guenter Grass wordt geboren",
+      "pl": "Urodzil sie Guenter Grass",
+      "tr": "Guenter Grass dogdu",
+      "zh": "君特·格拉斯出生",
+      "ja": "ギュンター・グラスが生まれる",
+      "ko": "귄터 그라스 출생",
+      "hi": "ग्युंटर ग्रास का जन्म",
+      "ar": "ولادة غونتر غراس"
     },
     "description": {
       "ru": "16 октября 1927 года в Данциге родился писатель Гюнтер Грасс. Он стал лауреатом Нобелевской премии по литературе и одним из важных голосов послевоенной Германии.",
       "de": "Am 16. Oktober 1927 wurde der Schriftsteller Guenter Grass in Danzig geboren. Er wurde Nobelpreistraeger fuer Literatur und eine wichtige Stimme der Nachkriegszeit.",
-      "en": "On 16 October 1927, writer Guenter Grass was born in Danzig. He became a Nobel Prize laureate in literature and an important voice of postwar Germany."
+      "en": "On 16 October 1927, writer Guenter Grass was born in Danzig. He became a Nobel Prize laureate in literature and an important voice of postwar Germany.",
+      "fr": "Le 16 octobre 1927, l'ecrivain Guenter Grass naquit a Dantzig. Il devint prix Nobel de litterature et l'une des voix importantes de l'Allemagne d'apres-guerre.",
+      "es": "El 16 de octubre de 1927 nacio en Danzig el escritor Guenter Grass. Fue premio Nobel de Literatura y una voz importante de la Alemania de posguerra.",
+      "it": "Il 16 ottobre 1927 nacque a Danzica lo scrittore Guenter Grass. Divenne premio Nobel per la letteratura e una voce importante della Germania del dopoguerra.",
+      "pt": "Em 16 de outubro de 1927, nasceu em Danzig o escritor Guenter Grass. Ele recebeu o Premio Nobel de Literatura e foi uma voz importante da Alemanha do pos-guerra.",
+      "nl": "Op 16 oktober 1927 werd schrijver Guenter Grass in Danzig geboren. Hij kreeg de Nobelprijs voor Literatuur en werd een belangrijke stem van het naoorlogse Duitsland.",
+      "pl": "16 pazdziernika 1927 roku w Gdansku urodzil sie pisarz Guenter Grass. Zostal laureatem Nagrody Nobla w dziedzinie literatury i waznym glosem powojennych Niemiec.",
+      "tr": "16 Ekim 1927'de yazar Guenter Grass Danzig'de dogdu. Nobel Edebiyat Odulu'nu kazandi ve savas sonrasi Almanya'nin onemli seslerinden biri oldu.",
+      "zh": "1927年10月16日，作家君特·格拉斯出生于但泽。他后来获得诺贝尔文学奖，并成为战后德国的重要声音之一。",
+      "ja": "1927年10月16日、作家ギュンター・グラスがダンツィヒで生まれました。彼はノーベル文学賞を受賞し、戦後ドイツの重要な声の一つとなりました。",
+      "ko": "1927년 10월 16일 작가 귄터 그라스가 단치히에서 태어났다. 그는 노벨 문학상을 받았고 전후 독일의 중요한 목소리 중 하나가 되었다.",
+      "hi": "16 अक्टूबर 1927 को लेखक ग्युंटर ग्रास का जन्म डांजिग में हुआ। वे साहित्य के नोबेल पुरस्कार विजेता बने और युद्धोत्तर जर्मनी की महत्वपूर्ण आवाजों में से एक रहे।",
+      "ar": "في 16 أكتوبر 1927 ولد الكاتب غونتر غراس في دانتسيغ. حصل لاحقا على جائزة نوبل في الادب واصبح احد الاصوات المهمة في المانيا بعد الحرب."
     },
     "importance": {
       "ru": "Его творчество помогало Германии говорить о вине, памяти и травмах XX века.",
       "de": "Sein Werk half Deutschland, ueber Schuld, Erinnerung und die Verletzungen des 20. Jahrhunderts zu sprechen.",
-      "en": "His work helped Germany talk about guilt, memory and the wounds of the twentieth century."
+      "en": "His work helped Germany talk about guilt, memory and the wounds of the twentieth century.",
+      "fr": "Son oeuvre a aide l'Allemagne a parler de culpabilite, de memoire et des blessures du XXe siecle.",
+      "es": "Su obra ayudo a Alemania a hablar de culpa, memoria y heridas del siglo XX.",
+      "it": "La sua opera aiuto la Germania a parlare di colpa, memoria e ferite del Novecento.",
+      "pt": "A sua obra ajudou a Alemanha a falar de culpa, memoria e feridas do seculo XX.",
+      "nl": "Zijn werk hielp Duitsland te spreken over schuld, herinnering en de wonden van de twintigste eeuw.",
+      "pl": "Jego tworczosc pomagala Niemcom mowic o winie, pamieci i ranach XX wieku.",
+      "tr": "Eserleri Almanya'nin suc, hafiza ve 20. yuzyilin yaralari hakkinda konusmasina yardim etti.",
+      "zh": "他的作品帮助德国谈论罪责、记忆和二十世纪的创伤。",
+      "ja": "彼の作品は、ドイツが罪、記憶、そして20世紀の傷について語る助けとなりました。",
+      "ko": "그의 작품은 독일이 죄책감, 기억, 20세기의 상처를 이야기하는 데 도움을 주었다.",
+      "hi": "उनकी रचनाओं ने जर्मनी को अपराधबोध, स्मृति और बीसवीं सदी के घावों पर बात करने में मदद की।",
+      "ar": "ساعدت اعماله المانيا على الحديث عن الذنب والذاكرة وجراح القرن العشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Жестяной барабан»",
           "de": "Die Blechtrommel",
-          "en": "The Tin Drum"
+          "en": "The Tin Drum",
+          "fr": "Le Tambour",
+          "es": "El tambor de hojalata",
+          "it": "Il tamburo di latta",
+          "pt": "O Tambor",
+          "nl": "De blikken trommel",
+          "pl": "Blaszany bebenek",
+          "tr": "Teneke Trampet",
+          "zh": "《铁皮鼓》",
+          "ja": "『ブリキの太鼓』",
+          "ko": "양철북",
+          "hi": "द टिन ड्रम",
+          "ar": "طبل الصفيح"
         },
         "description": {
           "ru": "Роман «Жестяной барабан» сделал Грасса знаменитым. В нём история Данцига и Германии показана через гротескный и необычный взгляд.",
           "de": "Der Roman Die Blechtrommel machte Grass beruehmt. Darin wird die Geschichte Danzigs und Deutschlands aus einer grotesken und ungewoehnlichen Perspektive erzaehlt.",
-          "en": "The novel The Tin Drum made Grass famous. It tells the history of Danzig and Germany through a grotesque and unusual perspective."
+          "en": "The novel The Tin Drum made Grass famous. It tells the history of Danzig and Germany through a grotesque and unusual perspective.",
+          "fr": "Le roman Le Tambour rendit Grass celebre. Il raconte l'histoire de Dantzig et de l'Allemagne sous un angle grotesque et inhabituel.",
+          "es": "La novela El tambor de hojalata hizo famoso a Grass. Cuenta la historia de Danzig y Alemania desde una mirada grotesca e inusual.",
+          "it": "Il romanzo Il tamburo di latta rese famoso Grass. Racconta la storia di Danzica e della Germania da una prospettiva grottesca e insolita.",
+          "pt": "O romance O Tambor tornou Grass famoso. Ele conta a historia de Danzig e da Alemanha por uma perspectiva grotesca e incomum.",
+          "nl": "De roman De blikken trommel maakte Grass beroemd. Het verhaal toont de geschiedenis van Danzig en Duitsland vanuit een grotesk en ongewoon perspectief.",
+          "pl": "Powieść Blaszany bebenek przyniosla Grassowi slawe. Pokazuje historie Gdanska i Niemiec z groteskowej i niezwyklej perspektywy.",
+          "tr": "Teneke Trampet romani Grass'i unlu yapti. Romanda Danzig ve Almanya tarihi grotesk ve alisilmadik bir bakisla anlatilir.",
+          "zh": "小说《铁皮鼓》使格拉斯成名。它以怪诞而独特的视角讲述但泽和德国的历史。",
+          "ja": "小説『ブリキの太鼓』によってグラスは有名になりました。そこではダンツィヒとドイツの歴史が、グロテスクで独特な視点から描かれています。",
+          "ko": "소설 양철북은 그라스를 유명하게 만들었다. 이 작품은 단치히와 독일의 역사를 기괴하고 독특한 시각으로 들려준다.",
+          "hi": "उपन्यास द टिन ड्रम ने ग्रास को प्रसिद्ध बना दिया। इसमें डांजिग और जर्मनी का इतिहास एक विचित्र और असामान्य दृष्टि से दिखाया गया है।",
+          "ar": "جعلت رواية طبل الصفيح غراس مشهورا. فهي تعرض تاريخ دانتسيغ والمانيا من منظور غريب وغير مألوف."
         },
         "importance": {
           "ru": "Это пример литературы, которая не даёт прошлому стать удобной легендой.",
           "de": "Das ist Literatur, die verhindert, dass Vergangenheit zu einer bequemen Legende wird.",
-          "en": "It is literature that prevents the past from becoming a comfortable legend."
+          "en": "It is literature that prevents the past from becoming a comfortable legend.",
+          "fr": "C'est une litterature qui empeche le passe de devenir une legende confortable.",
+          "es": "Es una literatura que impide que el pasado se convierta en una leyenda comoda.",
+          "it": "E una letteratura che impedisce al passato di diventare una leggenda comoda.",
+          "pt": "E uma literatura que impede o passado de virar uma lenda confortavel.",
+          "nl": "Het is literatuur die voorkomt dat het verleden een gemakkelijke legende wordt.",
+          "pl": "To przyklad literatury, ktora nie pozwala przeszlosci stac sie wygodna legenda.",
+          "tr": "Bu, gecmisin rahat bir efsaneye donusmesini engelleyen bir edebiyat ornegidir.",
+          "zh": "这是一种不让过去变成舒适传说的文学。",
+          "ja": "それは過去が都合のよい伝説になることを防ぐ文学です。",
+          "ko": "이는 과거가 편안한 전설로 바뀌지 않게 하는 문학의 예이다.",
+          "hi": "यह ऐसा साहित्य है जो अतीत को सुविधाजनक किंवदंती बनने से रोकता है।",
+          "ar": "انه مثال على ادب يمنع الماضي من التحول الى اسطورة مريحة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Данциг, где родился Грасс, сегодня называется Гданьск и находится в Польше.",
     "de": "Danzig, Grass' Geburtsstadt, heisst heute Gdansk und liegt in Polen.",
-    "en": "Danzig, Grass's birthplace, is now Gdansk in Poland."
+    "en": "Danzig, Grass's birthplace, is now Gdansk in Poland.",
+    "fr": "Dantzig, la ville natale de Grass, s'appelle aujourd'hui Gdansk et se trouve en Pologne.",
+    "es": "Danzig, la ciudad natal de Grass, hoy se llama Gdansk y esta en Polonia.",
+    "it": "Danzica, la citta natale di Grass, oggi si chiama Gdansk e si trova in Polonia.",
+    "pt": "Danzig, cidade natal de Grass, hoje se chama Gdansk e fica na Polonia.",
+    "nl": "Danzig, de geboorteplaats van Grass, heet nu Gdansk en ligt in Polen.",
+    "pl": "Danzig, rodzinne miasto Grassa, dzis nazywa sie Gdansk i lezy w Polsce.",
+    "tr": "Grass'in dogdugu Danzig bugun Gdansk adini tasir ve Polonya'dadir.",
+    "zh": "格拉斯的出生地但泽如今叫格但斯克，位于波兰。",
+    "ja": "グラスの出生地ダンツィヒは、現在はグダニスクと呼ばれ、ポーランドにあります。",
+    "ko": "그라스가 태어난 단치히는 오늘날 그단스크라고 불리며 폴란드에 있다.",
+    "hi": "ग्रास का जन्मस्थान डांजिग आज ग्दांस्क कहलाता है और पोलैंड में है।",
+    "ar": "دانتسيغ، مسقط رأس غراس، تسمى اليوم غدانسك وتقع في بولندا."
   },
   "sources": [
     {
