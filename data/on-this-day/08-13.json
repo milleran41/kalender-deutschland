@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началось строительство Берлинской стены",
       "de": "Der Bau der Berliner Mauer beginnt",
-      "en": "Construction of the Berlin Wall begins"
+      "en": "Construction of the Berlin Wall begins",
+      "fr": "La construction du mur de Berlin commence",
+      "es": "Comienza la construcción del Muro de Berlín",
+      "it": "Inizia la costruzione del Muro di Berlino",
+      "pt": "Começa a construção do Muro de Berlim",
+      "nl": "De bouw van de Berlijnse Muur begint",
+      "pl": "Rozpoczyna się budowa Muru Berlińskiego",
+      "tr": "Berlin Duvarı'nın inşası başlar",
+      "zh": "柏林墙开始修建",
+      "ja": "ベルリンの壁の建設が始まる",
+      "ko": "베를린 장벽 건설이 시작되다",
+      "hi": "बर्लिन दीवार का निर्माण शुरू हुआ",
+      "ar": "بدء بناء جدار برلين"
     },
     "description": {
       "ru": "13 августа 1961 года власти ГДР закрыли границу между Восточным и Западным Берлином. Вскоре временные заграждения превратились в Берлинскую стену.",
       "de": "Am 13. August 1961 sperrten die DDR-Behörden die Grenze zwischen Ost- und West-Berlin. Aus den provisorischen Sperren wurde bald die Berliner Mauer.",
-      "en": "On 13 August 1961, East German authorities sealed the border between East and West Berlin. Temporary barriers soon became the Berlin Wall."
+      "en": "On 13 August 1961, East German authorities sealed the border between East and West Berlin. Temporary barriers soon became the Berlin Wall.",
+      "fr": "Le 13 août 1961, les autorités de la RDA fermèrent la frontière entre Berlin-Est et Berlin-Ouest. Les barrières provisoires devinrent bientôt le mur de Berlin.",
+      "es": "El 13 de agosto de 1961, las autoridades de la RDA cerraron la frontera entre Berlín Oriental y Berlín Occidental. Las barreras temporales pronto se convirtieron en el Muro de Berlín.",
+      "it": "Il 13 agosto 1961 le autorità della DDR chiusero il confine tra Berlino Est e Berlino Ovest. Le barriere provvisorie divennero presto il Muro di Berlino.",
+      "pt": "Em 13 de agosto de 1961, as autoridades da RDA fecharam a fronteira entre Berlim Oriental e Berlim Ocidental. Barreiras provisórias logo se transformaram no Muro de Berlim.",
+      "nl": "Op 13 augustus 1961 sloten de Oost-Duitse autoriteiten de grens tussen Oost- en West-Berlijn af. Tijdelijke versperringen werden al snel de Berlijnse Muur.",
+      "pl": "13 sierpnia 1961 roku władze NRD zamknęły granicę między Berlinem Wschodnim a Zachodnim. Tymczasowe zapory wkrótce przekształciły się w Mur Berliński.",
+      "tr": "13 Ağustos 1961'de Doğu Almanya yetkilileri Doğu ve Batı Berlin arasındaki sınırı kapattı. Geçici engeller kısa süre sonra Berlin Duvarı'na dönüştü.",
+      "zh": "1961年8月13日，东德当局封锁了东柏林和西柏林之间的边界。临时障碍很快变成了柏林墙。",
+      "ja": "1961年8月13日、東ドイツ当局は東ベルリンと西ベルリンの境界を封鎖した。仮設の障害物はまもなくベルリンの壁となった。",
+      "ko": "1961년 8월 13일, 동독 당국은 동베를린과 서베를린 사이의 경계를 봉쇄했다. 임시 장벽들은 곧 베를린 장벽이 되었다.",
+      "hi": "13 अगस्त 1961 को जीडीआर अधिकारियों ने पूर्वी और पश्चिमी बर्लिन के बीच सीमा बंद कर दी। अस्थायी अवरोध जल्द ही बर्लिन दीवार में बदल गए।",
+      "ar": "في 13 أغسطس 1961 أغلقت سلطات ألمانيا الشرقية الحدود بين برلين الشرقية وبرلين الغربية. وسرعان ما تحولت الحواجز المؤقتة إلى جدار برلين."
     },
     "importance": {
       "ru": "Стена стала главным символом разделённой Германии и холодной войны.",
       "de": "Die Mauer wurde zum wichtigsten Symbol des geteilten Deutschlands und des Kalten Krieges.",
-      "en": "The Wall became the main symbol of divided Germany and the Cold War."
+      "en": "The Wall became the main symbol of divided Germany and the Cold War.",
+      "fr": "Le mur devint le principal symbole de l'Allemagne divisée et de la guerre froide.",
+      "es": "El Muro se convirtió en el principal símbolo de la Alemania dividida y de la Guerra Fría.",
+      "it": "Il Muro divenne il principale simbolo della Germania divisa e della Guerra fredda.",
+      "pt": "O Muro tornou-se o principal símbolo da Alemanha dividida e da Guerra Fria.",
+      "nl": "De Muur werd het belangrijkste symbool van het verdeelde Duitsland en de Koude Oorlog.",
+      "pl": "Mur stał się głównym symbolem podzielonych Niemiec i zimnej wojny.",
+      "tr": "Duvar, bölünmüş Almanya'nın ve Soğuk Savaş'ın başlıca sembolü oldu.",
+      "zh": "这堵墙成为德国分裂和冷战的主要象征。",
+      "ja": "壁は分断されたドイツと冷戦の主要な象徴となった。",
+      "ko": "장벽은 분단된 독일과 냉전의 주요 상징이 되었다.",
+      "hi": "दीवार विभाजित जर्मनी और शीत युद्ध का मुख्य प्रतीक बन गई।",
+      "ar": "أصبح الجدار الرمز الرئيسي لألمانيا المقسمة والحرب الباردة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Границу закрыли в воскресенье",
           "de": "Die Grenze wurde an einem Sonntag geschlossen",
-          "en": "The border was closed on a Sunday"
+          "en": "The border was closed on a Sunday",
+          "fr": "La frontière fut fermée un dimanche",
+          "es": "La frontera se cerró un domingo",
+          "it": "Il confine fu chiuso di domenica",
+          "pt": "A fronteira foi fechada em um domingo",
+          "nl": "De grens werd op een zondag gesloten",
+          "pl": "Granicę zamknięto w niedzielę",
+          "tr": "Sınır bir pazar günü kapatıldı",
+          "zh": "边界在一个星期日被关闭",
+          "ja": "国境は日曜日に閉鎖された",
+          "ko": "국경은 일요일에 폐쇄되었다",
+          "hi": "सीमा रविवार को बंद की गई",
+          "ar": "أُغلقت الحدود يوم أحد"
         },
         "description": {
           "ru": "Операция началась в ночь на воскресенье, когда город был менее активен. Многие берлинцы утром обнаружили, что привычные пути внезапно исчезли.",
           "de": "Die Aktion begann in der Nacht zu einem Sonntag, als die Stadt ruhiger war. Viele Berliner merkten am Morgen, dass gewohnte Wege ploetzlich verschwunden waren.",
-          "en": "The operation began during the night before Sunday, when the city was quieter. Many Berliners woke up to find familiar routes suddenly gone."
+          "en": "The operation began during the night before Sunday, when the city was quieter. Many Berliners woke up to find familiar routes suddenly gone.",
+          "fr": "L'opération commença dans la nuit précédant un dimanche, lorsque la ville était plus calme. Beaucoup de Berlinois découvrirent le matin que des chemins familiers avaient soudain disparu.",
+          "es": "La operación comenzó en la noche previa a un domingo, cuando la ciudad estaba más tranquila. Muchos berlineses descubrieron por la mañana que rutas habituales habían desaparecido de repente.",
+          "it": "L'operazione iniziò nella notte prima di una domenica, quando la città era più tranquilla. Molti berlinesi al mattino scoprirono che percorsi abituali erano improvvisamente scomparsi.",
+          "pt": "A operação começou na noite antes de um domingo, quando a cidade estava mais calma. Muitos berlinenses acordaram e descobriram que caminhos familiares haviam desaparecido de repente.",
+          "nl": "De operatie begon in de nacht voor een zondag, toen de stad rustiger was. Veel Berlijners merkten 's ochtends dat vertrouwde routes plotseling verdwenen waren.",
+          "pl": "Operacja zaczęła się w nocy przed niedzielą, gdy miasto było spokojniejsze. Wielu berlińczyków rano odkryło, że znane drogi nagle zniknęły.",
+          "tr": "Operasyon, şehrin daha sakin olduğu pazar gününe bağlanan gece başladı. Birçok Berlinli sabah uyandığında alıştıkları yolların aniden kaybolduğunu gördü.",
+          "zh": "行动在星期日前夜开始，当时城市较为安静。许多柏林人早晨醒来时发现熟悉的道路突然消失了。",
+          "ja": "作戦は、街が比較的静かな日曜日の前夜に始まった。多くのベルリン市民は朝、慣れ親しんだ道が突然消えていることに気づいた。",
+          "ko": "작전은 도시가 더 조용했던 일요일 전날 밤에 시작되었다. 많은 베를린 시민들은 아침에 익숙한 길들이 갑자기 사라졌음을 알게 되었다.",
+          "hi": "कार्रवाई रविवार से पहले की रात शुरू हुई, जब शहर अपेक्षाकृत शांत था। सुबह कई बर्लिनवासियों ने पाया कि परिचित रास्ते अचानक गायब हो गए हैं।",
+          "ar": "بدأت العملية في الليلة السابقة ليوم الأحد، عندما كانت المدينة أهدأ. وفي الصباح اكتشف كثير من سكان برلين أن الطرق المألوفة اختفت فجأة."
         },
         "importance": {
           "ru": "Эта деталь делает событие особенно понятным: большая история вошла прямо в повседневную жизнь людей.",
           "de": "Dieses Detail macht das Ereignis besonders greifbar: Grosse Geschichte griff direkt in den Alltag ein.",
-          "en": "The detail makes the event vivid: big history entered people's everyday lives overnight."
+          "en": "The detail makes the event vivid: big history entered people's everyday lives overnight.",
+          "fr": "Ce détail rend l'événement particulièrement concret : la grande histoire entra directement dans la vie quotidienne des gens.",
+          "es": "Este detalle hace que el acontecimiento sea especialmente comprensible: la gran historia entró directamente en la vida cotidiana de las personas.",
+          "it": "Questo dettaglio rende l'evento particolarmente concreto: la grande storia entrò direttamente nella vita quotidiana delle persone.",
+          "pt": "Esse detalhe torna o acontecimento especialmente claro: a grande história entrou diretamente na vida cotidiana das pessoas.",
+          "nl": "Dit detail maakt de gebeurtenis bijzonder tastbaar: grote geschiedenis greep rechtstreeks in het dagelijks leven van mensen in.",
+          "pl": "Ten szczegół sprawia, że wydarzenie staje się szczególnie zrozumiałe: wielka historia weszła prosto w codzienne życie ludzi.",
+          "tr": "Bu ayrıntı olayı özellikle anlaşılır kılar: büyük tarih doğrudan insanların gündelik hayatına girdi.",
+          "zh": "这个细节让事件格外具体：大历史一夜之间直接进入了人们的日常生活。",
+          "ja": "この細部は出来事を特に実感しやすくする。大きな歴史が人々の日常生活に直接入り込んだのである。",
+          "ko": "이 세부 사항은 사건을 특히 생생하게 만든다. 큰 역사가 사람들의 일상생활 속으로 직접 들어온 것이다.",
+          "hi": "यह विवरण घटना को विशेष रूप से समझने योग्य बनाता है: इतिहास की बड़ी घटनाएं सीधे लोगों के रोजमर्रा जीवन में प्रवेश कर गईं।",
+          "ar": "يجعل هذا التفصيل الحدث ملموسا بشكل خاص: فقد دخل التاريخ الكبير مباشرة في الحياة اليومية للناس."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Сначала это были проволока и блокпосты; бетонная система стены формировалась постепенно.",
     "de": "Zuerst waren es Drahtsperren und Kontrollpunkte; das Betonsystem der Mauer entstand schrittweise.",
-    "en": "At first there were wire barriers and checkpoints; the concrete wall system developed gradually."
+    "en": "At first there were wire barriers and checkpoints; the concrete wall system developed gradually.",
+    "fr": "Au début, il s'agissait de barrières de fil de fer et de postes de contrôle; le système en béton du mur se forma progressivement.",
+    "es": "Al principio eran alambradas y puestos de control; el sistema de hormigón del Muro se formó gradualmente.",
+    "it": "All'inizio c'erano barriere di filo spinato e posti di controllo; il sistema in cemento del Muro si formò gradualmente.",
+    "pt": "No início havia barreiras de arame e postos de controle; o sistema de concreto do Muro formou-se gradualmente.",
+    "nl": "Eerst waren er draadversperringen en controleposten; het betonnen systeem van de Muur ontstond geleidelijk.",
+    "pl": "Na początku były to zapory z drutu i punkty kontrolne; betonowy system muru powstawał stopniowo.",
+    "tr": "Başta tel engeller ve kontrol noktaları vardı; Duvar'ın beton sistemi zamanla oluştu.",
+    "zh": "最初只是铁丝障碍和检查站；混凝土墙体系统是逐步形成的。",
+    "ja": "最初は鉄条網と検問所だった。コンクリートの壁のシステムは段階的に形成された。",
+    "ko": "처음에는 철조망 장벽과 검문소가 있었고, 콘크리트 장벽 체계는 점차 형성되었다.",
+    "hi": "शुरुआत में तार की बाधाएं और चौकियां थीं; दीवार की कंक्रीट प्रणाली धीरे-धीरे बनी।",
+    "ar": "في البداية كانت هناك حواجز سلكية ونقاط تفتيش؛ ثم تطور نظام الجدار الخرساني تدريجيا."
   },
   "sources": [
     {

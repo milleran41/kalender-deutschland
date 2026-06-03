@@ -11,17 +11,53 @@
     "title": {
       "ru": "«Песнь немцев» стала гимном",
       "de": "Das Lied der Deutschen wird Nationalhymne",
-      "en": "The Song of the Germans becomes the anthem"
+      "en": "The Song of the Germans becomes the anthem",
+      "fr": "Le Chant des Allemands devient l'hymne",
+      "es": "La Canción de los alemanes se convierte en himno",
+      "it": "Il Canto dei tedeschi diventa l'inno",
+      "pt": "A Canção dos Alemães torna-se o hino",
+      "nl": "Het Lied der Duitsers wordt het volkslied",
+      "pl": "Pieśń Niemców zostaje hymnem",
+      "tr": "Almanların Şarkısı milli marş olur",
+      "zh": "《德意志人之歌》成为国歌",
+      "ja": "「ドイツ人の歌」が国歌になる",
+      "ko": "독일인의 노래가 국가가 되다",
+      "hi": "जर्मनों का गीत राष्ट्रगान बना",
+      "ar": "أغنية الألمان تصبح النشيد الوطني"
     },
     "description": {
       "ru": "11 августа 1922 года в Веймарской республике «Песнь немцев» получила официальный статус национального гимна. Позднее смысл и использование гимна менялись вместе с историей страны.",
       "de": "Am 11. August 1922 erhielt das Lied der Deutschen in der Weimarer Republik offiziellen Status als Nationalhymne. Spaeter veraenderten sich Bedeutung und Gebrauch der Hymne mit der Geschichte des Landes.",
-      "en": "On 11 August 1922, the Song of the Germans gained official status as the national anthem in the Weimar Republic. Its meaning and use later changed with the country's history."
+      "en": "On 11 August 1922, the Song of the Germans gained official status as the national anthem in the Weimar Republic. Its meaning and use later changed with the country's history.",
+      "fr": "Le 11 août 1922, Le Chant des Allemands reçut dans la République de Weimar le statut officiel d'hymne national. Son sens et son usage changèrent ensuite avec l'histoire du pays.",
+      "es": "El 11 de agosto de 1922, en la República de Weimar, La Canción de los alemanes recibió estatus oficial como himno nacional. Más tarde, su significado y uso cambiaron junto con la historia del país.",
+      "it": "L'11 agosto 1922, nella Repubblica di Weimar, Il Canto dei tedeschi ottenne lo status ufficiale di inno nazionale. In seguito il suo significato e il suo uso cambiarono insieme alla storia del paese.",
+      "pt": "Em 11 de agosto de 1922, na República de Weimar, A Canção dos Alemães recebeu status oficial de hino nacional. Mais tarde, seu significado e uso mudaram com a história do país.",
+      "nl": "Op 11 augustus 1922 kreeg het Lied der Duitsers in de Weimarrepubliek officiële status als volkslied. De betekenis en het gebruik ervan veranderden later met de geschiedenis van het land.",
+      "pl": "11 sierpnia 1922 roku w Republice Weimarskiej Pieśń Niemców otrzymała oficjalny status hymnu narodowego. Później jej znaczenie i użycie zmieniały się wraz z historią kraju.",
+      "tr": "11 Ağustos 1922'de Weimar Cumhuriyeti'nde Almanların Şarkısı milli marş olarak resmi statü kazandı. Marşın anlamı ve kullanımı daha sonra ülkenin tarihiyle birlikte değişti.",
+      "zh": "1922年8月11日，在魏玛共和国，《德意志人之歌》获得国歌的官方地位。后来，它的含义和使用方式随着国家历史而变化。",
+      "ja": "1922年8月11日、ワイマール共和国で「ドイツ人の歌」は国歌として公式の地位を得た。その意味と使われ方は、その後国の歴史とともに変化した。",
+      "ko": "1922년 8월 11일, 바이마르 공화국에서 독일인의 노래가 국가로서 공식 지위를 얻었다. 그 의미와 사용은 이후 나라의 역사와 함께 바뀌었다.",
+      "hi": "11 अगस्त 1922 को वाइमर गणराज्य में जर्मनों का गीत राष्ट्रीय गान के रूप में आधिकारिक दर्जा प्राप्त कर गया। बाद में देश के इतिहास के साथ इसका अर्थ और उपयोग बदलता गया।",
+      "ar": "في 11 أغسطس 1922 حصلت أغنية الألمان في جمهورية فايمار على صفة رسمية كنشيد وطني. ولاحقا تغير معناها واستخدامها مع تاريخ البلاد."
     },
     "importance": {
       "ru": "Сегодня официально используется третья строфа, связанная с единством, правом и свободой.",
       "de": "Heute wird offiziell die dritte Strophe verwendet, die mit Einigkeit, Recht und Freiheit verbunden ist.",
-      "en": "Today, the third stanza is used officially, associated with unity, justice and freedom."
+      "en": "Today, the third stanza is used officially, associated with unity, justice and freedom.",
+      "fr": "Aujourd'hui, la troisième strophe est officiellement utilisée; elle est liée à l'unité, au droit et à la liberté.",
+      "es": "Hoy se usa oficialmente la tercera estrofa, asociada con la unidad, el derecho y la libertad.",
+      "it": "Oggi viene usata ufficialmente la terza strofa, legata a unità, diritto e libertà.",
+      "pt": "Hoje é usada oficialmente a terceira estrofe, associada à unidade, ao direito e à liberdade.",
+      "nl": "Vandaag wordt officieel de derde strofe gebruikt, verbonden met eenheid, recht en vrijheid.",
+      "pl": "Dziś oficjalnie używa się trzeciej zwrotki, związanej z jednością, prawem i wolnością.",
+      "tr": "Bugün resmi olarak birlik, hukuk ve özgürlükle ilişkilendirilen üçüncü kıta kullanılır.",
+      "zh": "今天官方使用的是第三段，它与统一、法治和自由相关。",
+      "ja": "現在、公式には統一、法、自由と結びついた第3節が使われている。",
+      "ko": "오늘날 공식적으로는 통일, 법, 자유와 연결된 세 번째 절이 사용된다.",
+      "hi": "आज आधिकारिक रूप से तीसरा पद प्रयोग होता है, जो एकता, कानून और स्वतंत्रता से जुड़ा है।",
+      "ar": "اليوم تُستخدم رسميا المقطوعة الثالثة، المرتبطة بالوحدة والقانون والحرية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Сложная история символа",
           "de": "Die schwierige Geschichte eines Symbols",
-          "en": "The difficult history of a symbol"
+          "en": "The difficult history of a symbol",
+          "fr": "L'histoire difficile d'un symbole",
+          "es": "La historia difícil de un símbolo",
+          "it": "La storia difficile di un simbolo",
+          "pt": "A história difícil de um símbolo",
+          "nl": "De moeilijke geschiedenis van een symbool",
+          "pl": "Trudna historia symbolu",
+          "tr": "Bir sembolün zor tarihi",
+          "zh": "一个象征的复杂历史",
+          "ja": "ある象徴の難しい歴史",
+          "ko": "상징의 복잡한 역사",
+          "hi": "एक प्रतीक का कठिन इतिहास",
+          "ar": "التاريخ الصعب لرمز"
         },
         "description": {
           "ru": "Один и тот же гимн звучал в разных политических режимах, поэтому его история непростая. После войны Германия долго переосмысляла государственные символы.",
           "de": "Dieselbe Hymne erklang in verschiedenen politischen Systemen, deshalb ist ihre Geschichte nicht einfach. Nach dem Krieg musste Deutschland seine Staatssymbole neu deuten.",
-          "en": "The same anthem was used under different political systems, making its history complicated. After the war, Germany had to reinterpret its state symbols."
+          "en": "The same anthem was used under different political systems, making its history complicated. After the war, Germany had to reinterpret its state symbols.",
+          "fr": "Le même hymne fut utilisé sous différents systèmes politiques, ce qui rend son histoire compliquée. Après la guerre, l'Allemagne dut réinterpréter ses symboles d'État.",
+          "es": "El mismo himno sonó en distintos sistemas políticos, por eso su historia es compleja. Después de la guerra, Alemania tuvo que reinterpretar sus símbolos estatales.",
+          "it": "Lo stesso inno risuonò in diversi sistemi politici, quindi la sua storia è complessa. Dopo la guerra, la Germania dovette reinterpretare i propri simboli statali.",
+          "pt": "O mesmo hino foi usado em diferentes sistemas políticos, por isso sua história é complexa. Depois da guerra, a Alemanha teve de reinterpretar seus símbolos de Estado.",
+          "nl": "Hetzelfde volkslied klonk in verschillende politieke systemen, waardoor zijn geschiedenis ingewikkeld is. Na de oorlog moest Duitsland zijn staatssymbolen opnieuw duiden.",
+          "pl": "Ten sam hymn rozbrzmiewał w różnych systemach politycznych, dlatego jego historia jest nieprosta. Po wojnie Niemcy długo na nowo interpretowały symbole państwowe.",
+          "tr": "Aynı marş farklı siyasi sistemlerde kullanıldı, bu yüzden tarihi karmaşıktır. Savaştan sonra Almanya devlet sembollerini yeniden yorumlamak zorunda kaldı.",
+          "zh": "同一首国歌曾在不同政治制度下使用，因此它的历史并不简单。战后，德国不得不重新解释国家象征。",
+          "ja": "同じ国歌が異なる政治体制の下で使われたため、その歴史は複雑である。戦後、ドイツは国家の象徴を改めて解釈しなければならなかった。",
+          "ko": "같은 국가가 여러 정치 체제에서 사용되었기 때문에 그 역사는 복잡하다. 전후 독일은 국가 상징들을 새롭게 해석해야 했다.",
+          "hi": "वही राष्ट्रगान अलग-अलग राजनीतिक व्यवस्थाओं में बजा, इसलिए उसका इतिहास सरल नहीं है। युद्ध के बाद जर्मनी को अपने राज्य प्रतीकों का नया अर्थ निकालना पड़ा।",
+          "ar": "استُخدم النشيد نفسه في أنظمة سياسية مختلفة، لذلك فإن تاريخه معقد. وبعد الحرب كان على ألمانيا أن تعيد تفسير رموزها الرسمية."
         },
         "importance": {
           "ru": "Это показывает, что символы не живут отдельно от истории.",
           "de": "Das zeigt, dass Symbole nicht getrennt von Geschichte leben.",
-          "en": "It shows that symbols do not live apart from history."
+          "en": "It shows that symbols do not live apart from history.",
+          "fr": "Cela montre que les symboles ne vivent pas séparés de l'histoire.",
+          "es": "Muestra que los símbolos no viven separados de la historia.",
+          "it": "Mostra che i simboli non vivono separati dalla storia.",
+          "pt": "Mostra que símbolos não vivem separados da história.",
+          "nl": "Het laat zien dat symbolen niet los van de geschiedenis leven.",
+          "pl": "Pokazuje to, że symbole nie żyją oddzielnie od historii.",
+          "tr": "Bu, sembollerin tarihten ayrı yaşamadığını gösterir.",
+          "zh": "它说明象征并不是脱离历史而存在的。",
+          "ja": "象徴は歴史から切り離されて存在するものではないことを示している。",
+          "ko": "이는 상징이 역사와 따로 존재하지 않음을 보여 준다.",
+          "hi": "यह दिखाता है कि प्रतीक इतिहास से अलग होकर नहीं जीते।",
+          "ar": "يوضح ذلك أن الرموز لا تعيش منفصلة عن التاريخ."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Мелодия гимна восходит к Йозефу Гайдну, а текст написал Август Генрих Гофман фон Фаллерслебен.",
     "de": "Die Melodie geht auf Joseph Haydn zurueck, den Text schrieb August Heinrich Hoffmann von Fallersleben.",
-    "en": "The melody goes back to Joseph Haydn, while the words were written by August Heinrich Hoffmann von Fallersleben."
+    "en": "The melody goes back to Joseph Haydn, while the words were written by August Heinrich Hoffmann von Fallersleben.",
+    "fr": "La mélodie remonte à Joseph Haydn, tandis que les paroles furent écrites par August Heinrich Hoffmann von Fallersleben.",
+    "es": "La melodía se remonta a Joseph Haydn, mientras que la letra fue escrita por August Heinrich Hoffmann von Fallersleben.",
+    "it": "La melodia risale a Joseph Haydn, mentre il testo fu scritto da August Heinrich Hoffmann von Fallersleben.",
+    "pt": "A melodia remonta a Joseph Haydn, enquanto o texto foi escrito por August Heinrich Hoffmann von Fallersleben.",
+    "nl": "De melodie gaat terug op Joseph Haydn, terwijl de tekst werd geschreven door August Heinrich Hoffmann von Fallersleben.",
+    "pl": "Melodia sięga Josepha Haydna, a tekst napisał August Heinrich Hoffmann von Fallersleben.",
+    "tr": "Melodi Joseph Haydn'a dayanır; sözleri ise August Heinrich Hoffmann von Fallersleben yazmıştır.",
+    "zh": "这首国歌的旋律可追溯到约瑟夫·海顿，歌词由奥古斯特·海因里希·霍夫曼·冯·法勒斯莱本创作。",
+    "ja": "旋律はヨーゼフ・ハイドンに由来し、歌詞はアウグスト・ハインリヒ・ホフマン・フォン・ファラースレーベンが書いた。",
+    "ko": "선율은 요제프 하이든에게서 유래했고, 가사는 아우구스트 하인리히 호프만 폰 팔러슬레벤이 썼다.",
+    "hi": "धुन जोसेफ हाइडन से जुड़ी है, जबकि शब्द ऑगस्ट हाइनरिख होफमान फॉन फालर्सलेबेन ने लिखे थे।",
+    "ar": "تعود اللحن إلى يوزف هايدن، أما الكلمات فكتبها أوغست هاينريش هوفمان فون فالرسليبن."
   },
   "sources": [
     {

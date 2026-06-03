@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Московский договор",
       "de": "Der Moskauer Vertrag wird unterzeichnet",
-      "en": "The Treaty of Moscow is signed"
+      "en": "The Treaty of Moscow is signed",
+      "fr": "Le traité de Moscou est signé",
+      "es": "Se firma el Tratado de Moscú",
+      "it": "Viene firmato il Trattato di Mosca",
+      "pt": "O Tratado de Moscou é assinado",
+      "nl": "Het Verdrag van Moskou wordt ondertekend",
+      "pl": "Podpisano traktat moskiewski",
+      "tr": "Moskova Antlaşması imzalanır",
+      "zh": "莫斯科条约签署",
+      "ja": "モスクワ条約が調印される",
+      "ko": "모스크바 조약이 서명되다",
+      "hi": "मॉस्को संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدة موسكو"
     },
     "description": {
       "ru": "12 августа 1970 года ФРГ и СССР подписали Московский договор. Стороны отказались от применения силы и признали неприкосновенность существующих европейских границ.",
       "de": "Am 12. August 1970 unterzeichneten die Bundesrepublik Deutschland und die Sowjetunion den Moskauer Vertrag. Beide Seiten verzichteten auf Gewalt und erkannten die Unverletzlichkeit der bestehenden europaeischen Grenzen an.",
-      "en": "On 12 August 1970, West Germany and the Soviet Union signed the Treaty of Moscow. Both sides renounced the use of force and recognized the inviolability of existing European borders."
+      "en": "On 12 August 1970, West Germany and the Soviet Union signed the Treaty of Moscow. Both sides renounced the use of force and recognized the inviolability of existing European borders.",
+      "fr": "Le 12 août 1970, la RFA et l'Union soviétique signèrent le traité de Moscou. Les deux parties renoncèrent à l'usage de la force et reconnurent l'inviolabilité des frontières européennes existantes.",
+      "es": "El 12 de agosto de 1970, la RFA y la Unión Soviética firmaron el Tratado de Moscú. Ambas partes renunciaron al uso de la fuerza y reconocieron la inviolabilidad de las fronteras europeas existentes.",
+      "it": "Il 12 agosto 1970 la Germania Ovest e l'Unione Sovietica firmarono il Trattato di Mosca. Entrambe le parti rinunciarono all'uso della forza e riconobbero l'inviolabilità dei confini europei esistenti.",
+      "pt": "Em 12 de agosto de 1970, a Alemanha Ocidental e a União Soviética assinaram o Tratado de Moscou. As duas partes renunciaram ao uso da força e reconheceram a inviolabilidade das fronteiras europeias existentes.",
+      "nl": "Op 12 augustus 1970 ondertekenden West-Duitsland en de Sovjet-Unie het Verdrag van Moskou. Beide partijen zagen af van geweld en erkenden de onschendbaarheid van de bestaande Europese grenzen.",
+      "pl": "12 sierpnia 1970 roku RFN i Związek Radziecki podpisały traktat moskiewski. Obie strony wyrzekły się użycia siły i uznały nienaruszalność istniejących granic europejskich.",
+      "tr": "12 Ağustos 1970'te Batı Almanya ve Sovyetler Birliği Moskova Antlaşması'nı imzaladı. Taraflar güç kullanmaktan vazgeçti ve mevcut Avrupa sınırlarının dokunulmazlığını tanıdı.",
+      "zh": "1970年8月12日，联邦德国和苏联签署《莫斯科条约》。双方放弃使用武力，并承认现有欧洲边界不可侵犯。",
+      "ja": "1970年8月12日、西ドイツとソビエト連邦はモスクワ条約に調印した。双方は武力行使を放棄し、既存のヨーロッパ国境の不可侵を認めた。",
+      "ko": "1970년 8월 12일, 서독과 소련은 모스크바 조약에 서명했다. 양측은 무력 사용을 포기하고 기존 유럽 국경의 불가침성을 인정했다.",
+      "hi": "12 अगस्त 1970 को पश्चिम जर्मनी और सोवियत संघ ने मॉस्को संधि पर हस्ताक्षर किए। दोनों पक्षों ने बल प्रयोग से इंकार किया और मौजूदा यूरोपीय सीमाओं की अविच्छेद्यता को स्वीकार किया।",
+      "ar": "في 12 أغسطس 1970 وقعت ألمانيا الغربية والاتحاد السوفيتي معاهدة موسكو. وتخلى الطرفان عن استخدام القوة واعترفا بحرمة الحدود الأوروبية القائمة."
     },
     "importance": {
       "ru": "Это был один из центральных шагов Ostpolitik Вилли Брандта и важная основа разрядки в Европе.",
       "de": "Dies war ein zentraler Schritt der Ostpolitik Willy Brandts und eine wichtige Grundlage der Entspannung in Europa.",
-      "en": "It was a central step in Willy Brandt's Ostpolitik and an important basis for détente in Europe."
+      "en": "It was a central step in Willy Brandt's Ostpolitik and an important basis for détente in Europe.",
+      "fr": "Ce fut une étape centrale de l'Ostpolitik de Willy Brandt et une base importante de la détente en Europe.",
+      "es": "Fue un paso central de la Ostpolitik de Willy Brandt y una base importante para la distensión en Europa.",
+      "it": "Fu un passo centrale dell'Ostpolitik di Willy Brandt e una base importante per la distensione in Europa.",
+      "pt": "Foi um passo central da Ostpolitik de Willy Brandt e uma base importante para a distensão na Europa.",
+      "nl": "Het was een centrale stap in Willy Brandts Ostpolitik en een belangrijke basis voor ontspanning in Europa.",
+      "pl": "Był to centralny krok Ostpolitik Willy'ego Brandta i ważna podstawa odprężenia w Europie.",
+      "tr": "Bu, Willy Brandt'ın Ostpolitik politikasında merkezi bir adım ve Avrupa'da yumuşama için önemli bir temel oldu.",
+      "zh": "这是维利·勃兰特东方政策的核心步骤之一，也是欧洲缓和的重要基础。",
+      "ja": "これはヴィリー・ブラントの東方政策の中心的な一歩であり、ヨーロッパの緊張緩和の重要な基盤となった。",
+      "ko": "이는 빌리 브란트의 동방정책에서 핵심적인 단계였고, 유럽 긴장 완화의 중요한 기반이었다.",
+      "hi": "यह विली ब्रांट की Ostpolitik का केंद्रीय कदम और यूरोप में तनाव कम करने की महत्वपूर्ण आधारशिला था।",
+      "ar": "كان ذلك خطوة مركزية في سياسة أوستبوليتك لفيلي برانت وأساسا مهما للانفراج في أوروبا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Диалог с Востоком",
           "de": "Dialog mit dem Osten",
-          "en": "Dialogue with the East"
+          "en": "Dialogue with the East",
+          "fr": "Dialogue avec l'Est",
+          "es": "Diálogo con el Este",
+          "it": "Dialogo con l'Est",
+          "pt": "Diálogo com o Leste",
+          "nl": "Dialoog met het Oosten",
+          "pl": "Dialog ze Wschodem",
+          "tr": "Doğu ile diyalog",
+          "zh": "与东方对话",
+          "ja": "東側との対話",
+          "ko": "동방과의 대화",
+          "hi": "पूर्व से संवाद",
+          "ar": "حوار مع الشرق"
         },
         "description": {
           "ru": "После десятилетий холодной войны ФРГ начала искать договорные отношения с СССР и восточноевропейскими странами. Это не отменяло раздел Германии, но снижало напряжение и открывало новые контакты.",
           "de": "Nach Jahrzehnten des Kalten Krieges suchte die Bundesrepublik vertragliche Beziehungen zur Sowjetunion und zu osteuropaeischen Staaten. Das hob die Teilung Deutschlands nicht auf, verringerte aber Spannungen und oeffnete neue Kontakte.",
-          "en": "After decades of Cold War, West Germany sought treaty-based relations with the Soviet Union and Eastern European states. This did not end Germany's division, but it reduced tension and opened new contacts."
+          "en": "After decades of Cold War, West Germany sought treaty-based relations with the Soviet Union and Eastern European states. This did not end Germany's division, but it reduced tension and opened new contacts.",
+          "fr": "Après des décennies de guerre froide, la RFA chercha des relations fondées sur des traités avec l'Union soviétique et les pays d'Europe orientale. Cela ne mit pas fin à la division de l'Allemagne, mais réduisit les tensions et ouvrit de nouveaux contacts.",
+          "es": "Tras décadas de Guerra Fría, la RFA buscó relaciones basadas en tratados con la Unión Soviética y los países de Europa Oriental. Esto no puso fin a la división de Alemania, pero redujo tensiones y abrió nuevos contactos.",
+          "it": "Dopo decenni di Guerra fredda, la Germania Ovest cercò relazioni basate su trattati con l'Unione Sovietica e gli stati dell'Europa orientale. Ciò non pose fine alla divisione della Germania, ma ridusse le tensioni e aprì nuovi contatti.",
+          "pt": "Após décadas de Guerra Fria, a Alemanha Ocidental buscou relações baseadas em tratados com a União Soviética e os países do Leste Europeu. Isso não acabou com a divisão da Alemanha, mas reduziu tensões e abriu novos contatos.",
+          "nl": "Na decennia van Koude Oorlog zocht West-Duitsland verdragsrelaties met de Sovjet-Unie en Oost-Europese staten. Dat maakte geen einde aan de Duitse deling, maar verminderde spanningen en opende nieuwe contacten.",
+          "pl": "Po dekadach zimnej wojny RFN zaczęła szukać stosunków traktatowych ze Związkiem Radzieckim i państwami Europy Wschodniej. Nie znosiło to podziału Niemiec, ale zmniejszało napięcie i otwierało nowe kontakty.",
+          "tr": "On yıllar süren Soğuk Savaş'tan sonra Batı Almanya, Sovyetler Birliği ve Doğu Avrupa ülkeleriyle antlaşmalara dayalı ilişkiler aradı. Bu Almanya'nın bölünmesini sona erdirmedi, ancak gerilimi azalttı ve yeni temaslar açtı.",
+          "zh": "经过几十年的冷战，联邦德国开始寻求与苏联和东欧国家建立条约关系。这并没有结束德国分裂，但降低了紧张并开启了新的接触。",
+          "ja": "冷戦の数十年を経て、西ドイツはソ連や東欧諸国との条約に基づく関係を模索した。これはドイツ分断を終わらせるものではなかったが、緊張を和らげ、新たな接触を開いた。",
+          "ko": "수십 년의 냉전 이후 서독은 소련 및 동유럽 국가들과 조약에 기반한 관계를 모색했다. 이것이 독일의 분단을 끝내지는 않았지만 긴장을 낮추고 새로운 접촉을 열었다.",
+          "hi": "शीत युद्ध के दशकों के बाद पश्चिम जर्मनी ने सोवियत संघ और पूर्वी यूरोपीय देशों से संधि-आधारित संबंध खोजने शुरू किए। इससे जर्मनी का विभाजन खत्म नहीं हुआ, लेकिन तनाव कम हुआ और नए संपर्क खुले।",
+          "ar": "بعد عقود من الحرب الباردة سعت ألمانيا الغربية إلى علاقات قائمة على المعاهدات مع الاتحاد السوفيتي ودول أوروبا الشرقية. لم ينه ذلك تقسيم ألمانيا، لكنه خفف التوتر وفتح اتصالات جديدة."
         },
         "importance": {
           "ru": "Дата показывает, как дипломатия постепенно готовила почву для более поздних перемен в Европе.",
           "de": "Das Datum zeigt, wie Diplomatie allmaehlich den Boden fuer spaetere Veraenderungen in Europa bereitete.",
-          "en": "The date shows how diplomacy gradually prepared the ground for later changes in Europe."
+          "en": "The date shows how diplomacy gradually prepared the ground for later changes in Europe.",
+          "fr": "Cette date montre comment la diplomatie préparait peu à peu le terrain pour des changements ultérieurs en Europe.",
+          "es": "La fecha muestra cómo la diplomacia preparó poco a poco el terreno para cambios posteriores en Europa.",
+          "it": "La data mostra come la diplomazia preparò gradualmente il terreno per cambiamenti successivi in Europa.",
+          "pt": "A data mostra como a diplomacia preparou gradualmente o terreno para mudanças posteriores na Europa.",
+          "nl": "De datum laat zien hoe diplomatie geleidelijk de bodem voorbereidde voor latere veranderingen in Europa.",
+          "pl": "Ta data pokazuje, jak dyplomacja stopniowo przygotowywała grunt pod późniejsze zmiany w Europie.",
+          "tr": "Bu tarih, diplomasinin Avrupa'daki daha sonraki değişimler için zemini nasıl yavaş yavaş hazırladığını gösterir.",
+          "zh": "这个日期显示外交如何逐步为欧洲后来的变化铺路。",
+          "ja": "この日は、外交がヨーロッパの後の変化に向けて少しずつ土台を整えていったことを示している。",
+          "ko": "이 날짜는 외교가 유럽의 이후 변화들을 위해 어떻게 점차 토대를 마련했는지를 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि कूटनीति ने यूरोप में बाद के बदलावों के लिए धीरे-धीरे जमीन कैसे तैयार की।",
+          "ar": "يبين هذا التاريخ كيف مهدت الدبلوماسية تدريجيا الطريق لتغيرات لاحقة في أوروبا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Брандт и Шеель в Москве",
           "de": "Brandt und Scheel in Moskau",
-          "en": "Brandt and Scheel in Moscow"
+          "en": "Brandt and Scheel in Moscow",
+          "fr": "Brandt et Scheel à Moscou",
+          "es": "Brandt y Scheel en Moscú",
+          "it": "Brandt e Scheel a Mosca",
+          "pt": "Brandt e Scheel em Moscou",
+          "nl": "Brandt en Scheel in Moskou",
+          "pl": "Brandt i Scheel w Moskwie",
+          "tr": "Brandt ve Scheel Moskova'da",
+          "zh": "勃兰特和谢尔在莫斯科",
+          "ja": "モスクワのブラントとシェール",
+          "ko": "모스크바의 브란트와 셸",
+          "hi": "ब्रांट और शील मॉस्को में",
+          "ar": "برانت وشيل في موسكو"
         },
         "description": {
           "ru": "Договор подписали канцлер Вилли Брандт и министр иностранных дел Вальтер Шеель. Их политика вызвала острые споры в ФРГ, но стала одной из самых известных страниц западногерманской дипломатии.",
           "de": "Der Vertrag wurde von Bundeskanzler Willy Brandt und Aussenminister Walter Scheel unterzeichnet. Ihre Politik loeste in der Bundesrepublik heftige Debatten aus, wurde aber zu einem der bekanntesten Kapitel westdeutscher Diplomatie.",
-          "en": "The treaty was signed by Chancellor Willy Brandt and Foreign Minister Walter Scheel. Their policy triggered fierce debates in West Germany, but became one of the best-known chapters of West German diplomacy."
+          "en": "The treaty was signed by Chancellor Willy Brandt and Foreign Minister Walter Scheel. Their policy triggered fierce debates in West Germany, but became one of the best-known chapters of West German diplomacy.",
+          "fr": "Le traité fut signé par le chancelier Willy Brandt et le ministre des Affaires étrangères Walter Scheel. Leur politique provoqua de vifs débats en RFA, mais devint l'un des chapitres les plus connus de la diplomatie ouest-allemande.",
+          "es": "El tratado fue firmado por el canciller Willy Brandt y el ministro de Asuntos Exteriores Walter Scheel. Su política provocó duros debates en la RFA, pero se convirtió en uno de los capítulos más conocidos de la diplomacia germano-occidental.",
+          "it": "Il trattato fu firmato dal cancelliere Willy Brandt e dal ministro degli Esteri Walter Scheel. La loro politica provocò accesi dibattiti nella Germania Ovest, ma divenne uno dei capitoli più noti della diplomazia occidentale tedesca.",
+          "pt": "O tratado foi assinado pelo chanceler Willy Brandt e pelo ministro das Relações Exteriores Walter Scheel. Sua política provocou debates intensos na Alemanha Ocidental, mas tornou-se um dos capítulos mais conhecidos da diplomacia alemã ocidental.",
+          "nl": "Het verdrag werd ondertekend door bondskanselier Willy Brandt en minister van Buitenlandse Zaken Walter Scheel. Hun beleid leidde in West-Duitsland tot felle debatten, maar werd een van de bekendste hoofdstukken van de West-Duitse diplomatie.",
+          "pl": "Traktat podpisali kanclerz Willy Brandt i minister spraw zagranicznych Walter Scheel. Ich polityka wywołała ostre spory w RFN, ale stała się jednym z najbardziej znanych rozdziałów zachodnioniemieckiej dyplomacji.",
+          "tr": "Antlaşma Şansölye Willy Brandt ve Dışişleri Bakanı Walter Scheel tarafından imzalandı. Politikaları Batı Almanya'da sert tartışmalara yol açtı, ancak Batı Alman diplomasisinin en bilinen sayfalarından biri oldu.",
+          "zh": "该条约由总理维利·勃兰特和外交部长瓦尔特·谢尔签署。他们的政策在联邦德国引发激烈争论，但成为西德外交史上最著名的篇章之一。",
+          "ja": "この条約はヴィリー・ブラント首相とヴァルター・シェール外相によって署名された。彼らの政策は西ドイツで激しい議論を呼んだが、西ドイツ外交の最もよく知られた章の一つとなった。",
+          "ko": "이 조약은 빌리 브란트 총리와 발터 셸 외무장관이 서명했다. 그들의 정책은 서독에서 격렬한 논쟁을 불러일으켰지만, 서독 외교의 가장 잘 알려진 장면 중 하나가 되었다.",
+          "hi": "इस संधि पर चांसलर विली ब्रांट और विदेश मंत्री वाल्टर शील ने हस्ताक्षर किए। उनकी नीति ने पश्चिम जर्मनी में तीखी बहसें पैदा कीं, लेकिन पश्चिम जर्मन कूटनीति के सबसे प्रसिद्ध अध्यायों में से एक बन गई।",
+          "ar": "وقّع المعاهدة المستشار فيلي برانت ووزير الخارجية فالتر شيل. أثارت سياستهما نقاشات حادة في ألمانيا الغربية، لكنها أصبحت من أشهر فصول الدبلوماسية الألمانية الغربية."
         },
         "importance": {
           "ru": "Это пример политического решения, которое выглядело рискованным, но стало частью долгой дороги к сближению.",
           "de": "Das ist ein Beispiel fuer eine politische Entscheidung, die riskant wirkte, aber Teil eines langen Weges zur Annaeherung wurde.",
-          "en": "It is an example of a political decision that seemed risky but became part of a long road toward rapprochement."
+          "en": "It is an example of a political decision that seemed risky but became part of a long road toward rapprochement.",
+          "fr": "C'est un exemple de décision politique qui paraissait risquée, mais qui devint une partie d'un long chemin vers le rapprochement.",
+          "es": "Es un ejemplo de una decisión política que parecía arriesgada, pero se convirtió en parte de un largo camino hacia el acercamiento.",
+          "it": "È un esempio di decisione politica che sembrava rischiosa, ma divenne parte di un lungo percorso verso il riavvicinamento.",
+          "pt": "É um exemplo de decisão política que parecia arriscada, mas tornou-se parte de um longo caminho rumo à aproximação.",
+          "nl": "Het is een voorbeeld van een politieke beslissing die riskant leek, maar deel werd van een lange weg naar toenadering.",
+          "pl": "To przykład decyzji politycznej, która wydawała się ryzykowna, ale stała się częścią długiej drogi do zbliżenia.",
+          "tr": "Bu, riskli görünen ama yakınlaşmaya giden uzun yolun parçası haline gelen siyasi bir karara örnektir.",
+          "zh": "这是一个政治决定的例子：它看似冒险，却成为走向和解的漫长道路的一部分。",
+          "ja": "これは、危険に見えた政治的決定が、接近へ向かう長い道の一部となった例である。",
+          "ko": "이는 위험해 보였지만 화해로 가는 긴 길의 일부가 된 정치적 결정의 사례이다.",
+          "hi": "यह ऐसे राजनीतिक निर्णय का उदाहरण है जो जोखिमभरा लगा, लेकिन मेल-मिलाप की लंबी राह का हिस्सा बन गया।",
+          "ar": "إنه مثال على قرار سياسي بدا محفوفا بالمخاطر، لكنه أصبح جزءا من طريق طويل نحو التقارب."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Московский договор был ратифицирован Бундестагом в мае 1972 года вместе с Варшавским договором.",
     "de": "Der Moskauer Vertrag wurde im Mai 1972 zusammen mit dem Warschauer Vertrag vom Bundestag ratifiziert.",
-    "en": "The Treaty of Moscow was ratified by the Bundestag in May 1972 together with the Treaty of Warsaw."
+    "en": "The Treaty of Moscow was ratified by the Bundestag in May 1972 together with the Treaty of Warsaw.",
+    "fr": "Le traité de Moscou fut ratifié par le Bundestag en mai 1972 avec le traité de Varsovie.",
+    "es": "El Tratado de Moscú fue ratificado por el Bundestag en mayo de 1972 junto con el Tratado de Varsovia.",
+    "it": "Il Trattato di Mosca fu ratificato dal Bundestag nel maggio 1972 insieme al Trattato di Varsavia.",
+    "pt": "O Tratado de Moscou foi ratificado pelo Bundestag em maio de 1972 junto com o Tratado de Varsóvia.",
+    "nl": "Het Verdrag van Moskou werd in mei 1972 samen met het Verdrag van Warschau door de Bondsdag geratificeerd.",
+    "pl": "Traktat moskiewski został ratyfikowany przez Bundestag w maju 1972 roku razem z traktatem warszawskim.",
+    "tr": "Moskova Antlaşması, Varşova Antlaşması ile birlikte Mayıs 1972'de Bundestag tarafından onaylandı.",
+    "zh": "莫斯科条约于1972年5月与华沙条约一起由联邦议院批准。",
+    "ja": "モスクワ条約は1972年5月、ワルシャワ条約とともに連邦議会で批准された。",
+    "ko": "모스크바 조약은 1972년 5월 바르샤바 조약과 함께 연방의회에서 비준되었다.",
+    "hi": "मॉस्को संधि को मई 1972 में वारसॉ संधि के साथ बुंडेस्टाग ने अनुमोदित किया।",
+    "ar": "صادق البوندستاغ على معاهدة موسكو في مايو 1972 مع معاهدة وارسو."
   },
   "sources": [
     {
