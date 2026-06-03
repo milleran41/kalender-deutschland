@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Берлине начался учредительный съезд КПГ",
       "de": "In Berlin beginnt der Gruendungsparteitag der KPD",
-      "en": "The founding congress of the KPD begins in Berlin"
+      "en": "The founding congress of the KPD begins in Berlin",
+      "fr": "Le congres fondateur du KPD commence a Berlin",
+      "es": "Comienza en Berlin el congreso fundador del KPD",
+      "it": "A Berlino inizia il congresso fondativo del KPD",
+      "pt": "Comeca em Berlim o congresso fundador do KPD",
+      "nl": "Het oprichtingscongres van de KPD begint in Berlijn",
+      "pl": "W Berlinie rozpoczyna sie zjazd zalozycielski KPD",
+      "tr": "KPD'nin kurulus kongresi Berlin'de basliyor",
+      "zh": "德国共产党成立大会在柏林开始",
+      "ja": "KPD創設大会がベルリンで始まる",
+      "ko": "KPD 창립 대회가 베를린에서 시작되다",
+      "hi": "KPD का संस्थापक सम्मेलन बर्लिन में शुरू हुआ",
+      "ar": "بدء المؤتمر التأسيسي للحزب الشيوعي الألماني في برلين"
     },
     "description": {
       "ru": "30 декабря 1918 года в Берлине начался учредительный съезд Коммунистической партии Германии. Партия возникла из Спартакистского союза и левых радикальных групп на фоне Ноябрьской революции.",
       "de": "Am 30. Dezember 1918 begann in Berlin der Gruendungsparteitag der Kommunistischen Partei Deutschlands. Die Partei entstand aus dem Spartakusbund und linksradikalen Gruppen vor dem Hintergrund der Novemberrevolution.",
-      "en": "On 30 December 1918, the founding congress of the Communist Party of Germany began in Berlin. The party emerged from the Spartacus League and left-radical groups amid the November Revolution."
+      "en": "On 30 December 1918, the founding congress of the Communist Party of Germany began in Berlin. The party emerged from the Spartacus League and left-radical groups amid the November Revolution.",
+      "fr": "Le 30 decembre 1918, le congres fondateur du Parti communiste d'Allemagne commenca a Berlin. Le parti naquit de la Ligue spartakiste et de groupes radicaux de gauche dans le contexte de la revolution de Novembre.",
+      "es": "El 30 de diciembre de 1918 comenzo en Berlin el congreso fundador del Partido Comunista de Alemania. El partido surgio de la Liga Espartaquista y de grupos radicales de izquierda en medio de la Revolucion de Noviembre.",
+      "it": "Il 30 dicembre 1918 inizio a Berlino il congresso fondativo del Partito Comunista di Germania. Il partito nacque dalla Lega Spartachista e da gruppi radicali di sinistra nel contesto della Rivoluzione di novembre.",
+      "pt": "Em 30 de dezembro de 1918 comecou em Berlim o congresso fundador do Partido Comunista da Alemanha. O partido surgiu da Liga Espartaquista e de grupos radicais de esquerda em meio a Revolucao de Novembro.",
+      "nl": "Op 30 december 1918 begon in Berlijn het oprichtingscongres van de Communistische Partij van Duitsland. De partij kwam voort uit de Spartacusbond en links-radicale groepen tijdens de Novemberrevolutie.",
+      "pl": "30 grudnia 1918 roku w Berlinie rozpoczal sie zjazd zalozycielski Komunistycznej Partii Niemiec. Partia powstala ze Zwiazku Spartakusa i lewicowo-radykalnych grup na tle rewolucji listopadowej.",
+      "tr": "30 Aralik 1918'de Almanya Komunist Partisi'nin kurulus kongresi Berlin'de basladi. Parti, Kasim Devrimi ortaminda Spartakus Birligi'nden ve sol radikal gruplardan dogdu.",
+      "zh": "1918年12月30日，德国共产党成立大会在柏林开始。该党在十一月革命背景下由斯巴达克同盟和左翼激进团体发展而来。",
+      "ja": "1918年12月30日、ドイツ共産党の創設大会がベルリンで始まりました。この党は十一月革命の中でスパルタクス団と左派急進派グループから生まれました。",
+      "ko": "1918년 12월 30일 독일 공산당 창립 대회가 베를린에서 시작되었다. 이 정당은 11월 혁명 속에서 스파르타쿠스 동맹과 좌파 급진 그룹들로부터 생겨났다.",
+      "hi": "30 दिसंबर 1918 को जर्मनी की कम्युनिस्ट पार्टी का संस्थापक सम्मेलन बर्लिन में शुरू हुआ। यह पार्टी नवंबर क्रांति की पृष्ठभूमि में स्पार्टाकस लीग और वामपंथी कट्टर समूहों से निकली।",
+      "ar": "في 30 ديسمبر 1918 بدأ في برلين المؤتمر التأسيسي للحزب الشيوعي الألماني. نشأ الحزب من رابطة سبارتاكوس وجماعات يسارية راديكالية في ظل ثورة نوفمبر."
     },
     "importance": {
       "ru": "Дата важна для понимания политической поляризации ранней Веймарской республики.",
       "de": "Das Datum ist wichtig fuer das Verstaendnis der politischen Polarisierung der fruehen Weimarer Republik.",
-      "en": "The date is important for understanding the political polarization of the early Weimar Republic."
+      "en": "The date is important for understanding the political polarization of the early Weimar Republic.",
+      "fr": "Cette date est importante pour comprendre la polarisation politique du debut de la republique de Weimar.",
+      "es": "La fecha es importante para entender la polarizacion politica de la temprana Republica de Weimar.",
+      "it": "La data e importante per capire la polarizzazione politica della prima Repubblica di Weimar.",
+      "pt": "A data e importante para entender a polarizacao politica da jovem Republica de Weimar.",
+      "nl": "De datum is belangrijk om de politieke polarisatie van de vroege Weimarrepubliek te begrijpen.",
+      "pl": "Ta data jest wazna dla zrozumienia polaryzacji politycznej wczesnej Republiki Weimarskiej.",
+      "tr": "Bu tarih erken Weimar Cumhuriyeti'nin siyasi kutuplasmasini anlamak icin onemlidir.",
+      "zh": "这个日期对理解早期魏玛共和国的政治两极化很重要。",
+      "ja": "この日は、初期ワイマール共和国の政治的分極化を理解する上で重要です。",
+      "ko": "이 날짜는 초기 바이마르 공화국의 정치적 양극화를 이해하는 데 중요하다.",
+      "hi": "यह तारीख प्रारंभिक वाइमर गणराज्य के राजनीतिक ध्रुवीकरण को समझने के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لفهم الاستقطاب السياسي في بداية جمهورية فايمار."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Раскол левых сил",
           "de": "Spaltung der Linken",
-          "en": "Split on the left"
+          "en": "Split on the left",
+          "fr": "Scission de la gauche",
+          "es": "Division de la izquierda",
+          "it": "Scissione della sinistra",
+          "pt": "Divisao da esquerda",
+          "nl": "Splitsing aan de linkerzijde",
+          "pl": "Rozlam na lewicy",
+          "tr": "Solda bolunme",
+          "zh": "左翼分裂",
+          "ja": "左派の分裂",
+          "ko": "좌파의 분열",
+          "hi": "वामपंथ में विभाजन",
+          "ar": "انقسام اليسار"
         },
         "description": {
           "ru": "Создание КПГ показало глубокий конфликт между социал-демократами, независимыми социал-демократами и революционными коммунистами. Эти противоречия сильно повлияли на первые годы республики.",
           "de": "Die Gruendung der KPD zeigte den tiefen Konflikt zwischen Sozialdemokraten, Unabhaengigen Sozialdemokraten und revolutionaeren Kommunisten. Diese Gegensaetze praegten die ersten Jahre der Republik stark.",
-          "en": "The founding of the KPD revealed deep conflict between Social Democrats, Independent Social Democrats and revolutionary communists. These tensions strongly shaped the republic's first years."
+          "en": "The founding of the KPD revealed deep conflict between Social Democrats, Independent Social Democrats and revolutionary communists. These tensions strongly shaped the republic's first years.",
+          "fr": "La fondation du KPD revela un profond conflit entre sociaux-democrates, sociaux-democrates independants et communistes revolutionnaires. Ces tensions marquerent fortement les premieres annees de la republique.",
+          "es": "La fundacion del KPD revelo un profundo conflicto entre socialdemocratas, socialdemocratas independientes y comunistas revolucionarios. Estas tensiones marcaron fuertemente los primeros anos de la republica.",
+          "it": "La fondazione del KPD rivelo un profondo conflitto tra socialdemocratici, socialdemocratici indipendenti e comunisti rivoluzionari. Queste tensioni segnarono fortemente i primi anni della repubblica.",
+          "pt": "A fundacao do KPD revelou um conflito profundo entre social-democratas, social-democratas independentes e comunistas revolucionarios. Essas tensoes marcaram fortemente os primeiros anos da republica.",
+          "nl": "De oprichting van de KPD onthulde een diep conflict tussen sociaaldemocraten, onafhankelijke sociaaldemocraten en revolutionaire communisten. Deze spanningen bepaalden sterk de eerste jaren van de republiek.",
+          "pl": "Powstanie KPD ujawnilo gleboki konflikt miedzy socjaldemokratami, niezaleznymi socjaldemokratami i rewolucyjnymi komunistami. Te napiecia silnie uksztaltowaly pierwsze lata republiki.",
+          "tr": "KPD'nin kurulusu sosyal demokratlar, bagimsiz sosyal demokratlar ve devrimci komunistler arasindaki derin catismayi ortaya koydu. Bu gerilimler cumhuriyetin ilk yillarini guclu bicimde sekillendirdi.",
+          "zh": "KPD的成立显示了社会民主党人、独立社会民主党人和革命共产主义者之间的深刻冲突。这些紧张关系强烈塑造了共和国最初几年。",
+          "ja": "KPDの創設は、社会民主主義者、独立社会民主主義者、革命的共産主義者の深い対立を示しました。この緊張は共和国初期を強く形づくりました。",
+          "ko": "KPD 창당은 사회민주주의자, 독립 사회민주주의자, 혁명적 공산주의자 사이의 깊은 갈등을 드러냈다. 이러한 긴장은 공화국 초기 몇 년을 강하게 형성했다.",
+          "hi": "KPD की स्थापना ने सोशल डेमोक्रेटों, स्वतंत्र सोशल डेमोक्रेटों और क्रांतिकारी कम्युनिस्टों के बीच गहरे संघर्ष को दिखाया। इन तनावों ने गणराज्य के शुरुआती वर्षों को गहराई से आकार दिया।",
+          "ar": "كشف تأسيس KPD عن صراع عميق بين الاشتراكيين الديمقراطيين والاشتراكيين الديمقراطيين المستقلين والشيوعيين الثوريين. وشكلت هذه التوترات بقوة السنوات الأولى للجمهورية."
         },
         "importance": {
           "ru": "Так видно, что демократия Веймара родилась в очень напряжённой политической среде.",
           "de": "So wird sichtbar, dass die Weimarer Demokratie in einem sehr angespannten politischen Umfeld entstand.",
-          "en": "It shows that Weimar democracy was born in a very tense political environment."
+          "en": "It shows that Weimar democracy was born in a very tense political environment.",
+          "fr": "Cela montre que la democratie de Weimar naquit dans un environnement politique tres tendu.",
+          "es": "Muestra que la democracia de Weimar nacio en un entorno politico muy tenso.",
+          "it": "Mostra che la democrazia di Weimar nacque in un ambiente politico molto teso.",
+          "pt": "Mostra que a democracia de Weimar nasceu em um ambiente politico muito tenso.",
+          "nl": "Het laat zien dat de Weimardemocratie in een zeer gespannen politieke omgeving werd geboren.",
+          "pl": "To pokazuje, ze demokracja weimarska narodzila sie w bardzo napietym srodowisku politycznym.",
+          "tr": "Weimar demokrasisinin cok gergin bir siyasi ortamda dogdugunu gosterir.",
+          "zh": "这说明魏玛民主诞生在非常紧张的政治环境中。",
+          "ja": "ワイマール民主主義が非常に緊張した政治環境の中で生まれたことを示しています。",
+          "ko": "바이마르 민주주의가 매우 긴장된 정치 환경에서 태어났음을 보여 준다.",
+          "hi": "यह दिखाता है कि वाइमर लोकतंत्र बहुत तनावपूर्ण राजनीतिक वातावरण में जन्मा।",
+          "ar": "يوضح ذلك أن ديمقراطية فايمار وُلدت في بيئة سياسية شديدة التوتر."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Роза Люксембург и Карл Либкнехт",
           "de": "Rosa Luxemburg und Karl Liebknecht",
-          "en": "Rosa Luxemburg and Karl Liebknecht"
+          "en": "Rosa Luxemburg and Karl Liebknecht",
+          "fr": "Rosa Luxemburg et Karl Liebknecht",
+          "es": "Rosa Luxemburg y Karl Liebknecht",
+          "it": "Rosa Luxemburg e Karl Liebknecht",
+          "pt": "Rosa Luxemburg e Karl Liebknecht",
+          "nl": "Rosa Luxemburg en Karl Liebknecht",
+          "pl": "Rosa Luxemburg i Karl Liebknecht",
+          "tr": "Rosa Luxemburg ve Karl Liebknecht",
+          "zh": "罗莎·卢森堡和卡尔·李卜克内西",
+          "ja": "ローザ・ルクセンブルクとカール・リープクネヒト",
+          "ko": "로자 룩셈부르크와 카를 리프크네히트",
+          "hi": "रोजा लक्जमबर्ग और कार्ल लीबक्नेख्ट",
+          "ar": "روزا لوكسمبورغ وكارل ليبكنخت"
         },
         "description": {
           "ru": "Люксембург и Либкнехт были главными фигурами Спартакистского союза и участвовали в создании КПГ. Уже в январе 1919 года оба были убиты после подавления восстания в Берлине.",
           "de": "Luxemburg und Liebknecht waren zentrale Figuren des Spartakusbundes und an der Gruendung der KPD beteiligt. Bereits im Januar 1919 wurden beide nach der Niederschlagung des Aufstands in Berlin ermordet.",
-          "en": "Luxemburg and Liebknecht were central figures of the Spartacus League and took part in founding the KPD. In January 1919, both were murdered after the suppression of the uprising in Berlin."
+          "en": "Luxemburg and Liebknecht were central figures of the Spartacus League and took part in founding the KPD. In January 1919, both were murdered after the suppression of the uprising in Berlin.",
+          "fr": "Luxemburg et Liebknecht etaient des figures centrales de la Ligue spartakiste et participerent a la fondation du KPD. En janvier 1919, tous deux furent assassines apres la repression du soulevement a Berlin.",
+          "es": "Luxemburg y Liebknecht fueron figuras centrales de la Liga Espartaquista y participaron en la fundacion del KPD. En enero de 1919, ambos fueron asesinados despues de la represion del levantamiento en Berlin.",
+          "it": "Luxemburg e Liebknecht furono figure centrali della Lega Spartachista e parteciparono alla fondazione del KPD. Nel gennaio 1919 entrambi furono assassinati dopo la repressione della rivolta a Berlino.",
+          "pt": "Luxemburg e Liebknecht foram figuras centrais da Liga Espartaquista e participaram da fundacao do KPD. Em janeiro de 1919, ambos foram assassinados depois da repressao do levante em Berlim.",
+          "nl": "Luxemburg en Liebknecht waren centrale figuren van de Spartacusbond en namen deel aan de oprichting van de KPD. In januari 1919 werden beiden vermoord na de onderdrukking van de opstand in Berlijn.",
+          "pl": "Luxemburg i Liebknecht byli centralnymi postaciami Zwiazku Spartakusa i uczestniczyli w tworzeniu KPD. W styczniu 1919 roku oboje zostali zamordowani po stlumieniu powstania w Berlinie.",
+          "tr": "Luxemburg ve Liebknecht Spartakus Birligi'nin merkezi figurleriydi ve KPD'nin kurulmasina katildilar. Ocak 1919'da Berlin'deki ayaklanmanin bastirilmasindan sonra ikisi de olduruldu.",
+          "zh": "卢森堡和李卜克内西是斯巴达克同盟的核心人物，并参与成立KPD。1919年1月，柏林起义被镇压后，两人都遭到杀害。",
+          "ja": "ルクセンブルクとリープクネヒトはスパルタクス団の中心人物で、KPD創設に参加しました。1919年1月、ベルリンでの蜂起鎮圧後、二人は殺害されました。",
+          "ko": "룩셈부르크와 리프크네히트는 스파르타쿠스 동맹의 중심 인물이었고 KPD 창립에 참여했다. 1919년 1월 베를린 봉기가 진압된 뒤 두 사람은 살해되었다.",
+          "hi": "लक्जमबर्ग और लीबक्नेख्ट स्पार्टाकस लीग की केंद्रीय हस्तियां थे और KPD की स्थापना में शामिल हुए। जनवरी 1919 में बर्लिन विद्रोह के दमन के बाद दोनों की हत्या कर दी गई।",
+          "ar": "كانت لوكسمبورغ وليبكنخت شخصيتين مركزيتين في رابطة سبارتاكوس وشاركا في تأسيس KPD. في يناير 1919 قُتل الاثنان بعد قمع الانتفاضة في برلين."
         },
         "importance": {
           "ru": "Их судьба стала одним из самых драматичных эпизодов начала Веймарской республики.",
           "de": "Ihr Schicksal wurde zu einer der dramatischsten Episoden am Beginn der Weimarer Republik.",
-          "en": "Their fate became one of the most dramatic episodes at the beginning of the Weimar Republic."
+          "en": "Their fate became one of the most dramatic episodes at the beginning of the Weimar Republic.",
+          "fr": "Leur destin devint l'un des episodes les plus dramatiques du debut de la republique de Weimar.",
+          "es": "Su destino se convirtio en uno de los episodios mas dramaticos del comienzo de la Republica de Weimar.",
+          "it": "Il loro destino divenne uno degli episodi piu drammatici dell'inizio della Repubblica di Weimar.",
+          "pt": "O destino deles tornou-se um dos episodios mais dramaticos do inicio da Republica de Weimar.",
+          "nl": "Hun lot werd een van de meest dramatische episodes aan het begin van de Weimarrepubliek.",
+          "pl": "Ich los stal sie jednym z najbardziej dramatycznych epizodow poczatku Republiki Weimarskiej.",
+          "tr": "Onlarin kaderi Weimar Cumhuriyeti'nin baslangicindaki en dramatik bolumlerden biri oldu.",
+          "zh": "他们的命运成为魏玛共和国开端最戏剧性的事件之一。",
+          "ja": "彼らの運命は、ワイマール共和国初期の最も劇的な出来事の一つとなりました。",
+          "ko": "그들의 운명은 바이마르 공화국 초기에 가장 극적인 사건 중 하나가 되었다.",
+          "hi": "उनकी नियति वाइमर गणराज्य की शुरुआत के सबसे नाटकीय प्रसंगों में से एक बनी।",
+          "ar": "أصبح مصيرهما من أكثر حلقات بداية جمهورية فايمار درامية."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Съезд на стыке годов",
           "de": "Ein Parteitag zwischen den Jahren",
-          "en": "A congress between years"
+          "en": "A congress between years",
+          "fr": "Un congres entre deux annees",
+          "es": "Un congreso entre dos anos",
+          "it": "Un congresso tra due anni",
+          "pt": "Um congresso entre anos",
+          "nl": "Een congres tussen de jaren",
+          "pl": "Zjazd na przelomie lat",
+          "tr": "Yillar arasinda bir kongre",
+          "zh": "跨年大会",
+          "ja": "年をまたぐ大会",
+          "ko": "해를 넘기는 대회",
+          "hi": "दो वर्षों के बीच सम्मेलन",
+          "ar": "مؤتمر بين عامين"
         },
         "description": {
           "ru": "Учредительный съезд проходил с 30 декабря 1918 года по 1 января 1919 года. Поэтому история партии буквально началась на границе старого и нового года.",
           "de": "Der Gruendungsparteitag dauerte vom 30. Dezember 1918 bis zum 1. Januar 1919. Die Parteigeschichte begann also buchstaeblich zwischen altem und neuem Jahr.",
-          "en": "The founding congress lasted from 30 December 1918 to 1 January 1919. The party's history therefore literally began between the old year and the new."
+          "en": "The founding congress lasted from 30 December 1918 to 1 January 1919. The party's history therefore literally began between the old year and the new.",
+          "fr": "Le congres fondateur dura du 30 decembre 1918 au 1er janvier 1919. L'histoire du parti commenca donc litteralement entre l'ancienne et la nouvelle annee.",
+          "es": "El congreso fundador duro del 30 de diciembre de 1918 al 1 de enero de 1919. Por eso la historia del partido comenzo literalmente entre el ano viejo y el nuevo.",
+          "it": "Il congresso fondativo duro dal 30 dicembre 1918 al 1 gennaio 1919. La storia del partito comincio quindi letteralmente tra l'anno vecchio e quello nuovo.",
+          "pt": "O congresso fundador durou de 30 de dezembro de 1918 a 1 de janeiro de 1919. Assim, a historia do partido comecou literalmente entre o ano velho e o novo.",
+          "nl": "Het oprichtingscongres duurde van 30 december 1918 tot 1 januari 1919. De partijgeschiedenis begon dus letterlijk tussen het oude en het nieuwe jaar.",
+          "pl": "Zjazd zalozycielski trwal od 30 grudnia 1918 roku do 1 stycznia 1919 roku. Historia partii zaczela sie wiec doslownie na granicy starego i nowego roku.",
+          "tr": "Kurulus kongresi 30 Aralik 1918'den 1 Ocak 1919'a kadar surdu. Bu yuzden partinin tarihi kelimenin tam anlamiyla eski yil ile yeni yil arasinda basladi.",
+          "zh": "成立大会从1918年12月30日持续到1919年1月1日。因此，这个党的历史几乎字面意义上开始于旧年与新年之间。",
+          "ja": "創設大会は1918年12月30日から1919年1月1日まで続きました。そのため党の歴史は文字どおり旧年と新年の間に始まりました。",
+          "ko": "창립 대회는 1918년 12월 30일부터 1919년 1월 1일까지 이어졌다. 따라서 당의 역사는 문자 그대로 묵은해와 새해 사이에서 시작되었다.",
+          "hi": "संस्थापक सम्मेलन 30 दिसंबर 1918 से 1 जनवरी 1919 तक चला। इसलिए पार्टी का इतिहास सचमुच पुराने और नए वर्ष की सीमा पर शुरू हुआ।",
+          "ar": "استمر المؤتمر التأسيسي من 30 ديسمبر 1918 إلى 1 يناير 1919. لذلك بدأ تاريخ الحزب حرفيا بين العام القديم والجديد."
         },
         "importance": {
           "ru": "Это маленькая календарная деталь, но она хорошо подходит для нашего формата.",
           "de": "Das ist ein kleines Kalenderdetail, passt aber gut zu unserem Format.",
-          "en": "It is a small calendar detail, but it fits our format well."
+          "en": "It is a small calendar detail, but it fits our format well.",
+          "fr": "C'est un petit detail de calendrier, mais il convient bien a notre format.",
+          "es": "Es un pequeno detalle de calendario, pero encaja bien con nuestro formato.",
+          "it": "E un piccolo dettaglio di calendario, ma si adatta bene al nostro formato.",
+          "pt": "E um pequeno detalhe de calendario, mas combina bem com nosso formato.",
+          "nl": "Het is een klein kalenderdetail, maar het past goed bij ons format.",
+          "pl": "To drobny szczegol kalendarzowy, ale dobrze pasuje do naszego formatu.",
+          "tr": "Bu kucuk bir takvim ayrintisidir, ama formatimiza iyi uyar.",
+          "zh": "这是一个小小的日历细节，但很适合我们的形式。",
+          "ja": "小さな暦上の細部ですが、私たちの形式にはよく合います。",
+          "ko": "작은 달력상의 세부이지만 우리 형식에 잘 맞는다.",
+          "hi": "यह छोटा कैलेंडर विवरण है, लेकिन हमारे प्रारूप में अच्छी तरह फिट बैठता है।",
+          "ar": "إنها تفصيلة تقويمية صغيرة، لكنها تناسب شكلنا جيدا."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "КПГ была запрещена в ФРГ в 1956 году Федеральным конституционным судом.",
     "de": "Die KPD wurde 1956 in der Bundesrepublik vom Bundesverfassungsgericht verboten.",
-    "en": "The KPD was banned in West Germany in 1956 by the Federal Constitutional Court."
+    "en": "The KPD was banned in West Germany in 1956 by the Federal Constitutional Court.",
+    "fr": "Le KPD fut interdit en RFA en 1956 par la Cour constitutionnelle federale.",
+    "es": "El KPD fue prohibido en Alemania Occidental en 1956 por el Tribunal Constitucional Federal.",
+    "it": "Il KPD fu vietato nella Germania Ovest nel 1956 dalla Corte costituzionale federale.",
+    "pt": "O KPD foi proibido na Alemanha Ocidental em 1956 pelo Tribunal Constitucional Federal.",
+    "nl": "De KPD werd in 1956 in West-Duitsland verboden door het Federale Constitutionele Hof.",
+    "pl": "KPD zostala zakazana w RFN w 1956 roku przez Federalny Trybunal Konstytucyjny.",
+    "tr": "KPD, 1956'da Bati Almanya'da Federal Anayasa Mahkemesi tarafindan yasaklandi.",
+    "zh": "1956年，KPD在西德被联邦宪法法院禁止。",
+    "ja": "KPDは1956年、西ドイツで連邦憲法裁判所により禁止されました。",
+    "ko": "KPD는 1956년 서독에서 연방헌법재판소에 의해 금지되었다.",
+    "hi": "KPD को 1956 में पश्चिम जर्मनी में संघीय संवैधानिक न्यायालय ने प्रतिबंधित कर दिया था।",
+    "ar": "حُظر KPD في ألمانيا الغربية عام 1956 بقرار من المحكمة الدستورية الاتحادية."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась операция «Северный ветер»",
       "de": "Unternehmen Nordwind beginnt",
-      "en": "Operation Nordwind begins"
+      "en": "Operation Nordwind begins",
+      "fr": "L'operation Nordwind commence",
+      "es": "Comienza la operacion Nordwind",
+      "it": "Inizia l'operazione Nordwind",
+      "pt": "Comeca a operacao Nordwind",
+      "nl": "Operatie Nordwind begint",
+      "pl": "Rozpoczyna sie operacja Nordwind",
+      "tr": "Nordwind Harekati basliyor",
+      "zh": "北风行动开始",
+      "ja": "ノルトヴィント作戦が始まる",
+      "ko": "노르트빈트 작전이 시작되다",
+      "hi": "ऑपरेशन नॉर्डविंड शुरू हुआ",
+      "ar": "بدء عملية نوردفيند"
     },
     "description": {
       "ru": "31 декабря 1944 года немецкие войска начали операцию «Северный ветер» в Эльзасе и Лотарингии. Это была последняя крупная немецкая наступательная операция на Западном фронте.",
       "de": "Am 31. Dezember 1944 begannen deutsche Truppen das Unternehmen Nordwind im Elsass und in Lothringen. Es war die letzte grosse deutsche Offensive an der Westfront.",
-      "en": "On 31 December 1944, German forces began Operation Nordwind in Alsace and Lorraine. It was the last major German offensive on the Western Front."
+      "en": "On 31 December 1944, German forces began Operation Nordwind in Alsace and Lorraine. It was the last major German offensive on the Western Front.",
+      "fr": "Le 31 decembre 1944, les forces allemandes lancerent l'operation Nordwind en Alsace et en Lorraine. Ce fut la derniere grande offensive allemande sur le front occidental.",
+      "es": "El 31 de diciembre de 1944, las fuerzas alemanas iniciaron la operacion Nordwind en Alsacia y Lorena. Fue la ultima gran ofensiva alemana en el Frente Occidental.",
+      "it": "Il 31 dicembre 1944 le forze tedesche iniziarono l'operazione Nordwind in Alsazia e Lorena. Fu l'ultima grande offensiva tedesca sul fronte occidentale.",
+      "pt": "Em 31 de dezembro de 1944, forcas alemas iniciaram a operacao Nordwind na Alsacia e Lorena. Foi a ultima grande ofensiva alema na Frente Ocidental.",
+      "nl": "Op 31 december 1944 begonnen Duitse troepen Operatie Nordwind in de Elzas en Lotharingen. Het was het laatste grote Duitse offensief aan het westfront.",
+      "pl": "31 grudnia 1944 roku wojska niemieckie rozpoczely operacje Nordwind w Alzacji i Lotaryngii. Byla to ostatnia duza niemiecka ofensywa na froncie zachodnim.",
+      "tr": "31 Aralik 1944'te Alman kuvvetleri Alsace ve Lorraine'de Nordwind Harekati'ni baslatti. Bu, Bati Cephesi'ndeki son buyuk Alman taarruzuydu.",
+      "zh": "1944年12月31日，德国军队在阿尔萨斯和洛林发动北风行动。这是德国在西线的最后一次重大攻势。",
+      "ja": "1944年12月31日、ドイツ軍はアルザスとロレーヌでノルトヴィント作戦を開始しました。これは西部戦線における最後の大規模なドイツ攻勢でした。",
+      "ko": "1944년 12월 31일 독일군은 알자스와 로렌에서 노르트빈트 작전을 시작했다. 이는 서부전선에서 독일의 마지막 대규모 공세였다.",
+      "hi": "31 दिसंबर 1944 को जर्मन सेनाओं ने अलसास और लोरेन में ऑपरेशन नॉर्डविंड शुरू किया। यह पश्चिमी मोर्चे पर जर्मनी का अंतिम बड़ा आक्रमण था।",
+      "ar": "في 31 ديسمبر 1944 بدأت القوات الألمانية عملية نوردفيند في الألزاس واللورين. وكانت آخر هجوم ألماني كبير على الجبهة الغربية."
     },
     "importance": {
       "ru": "Дата показывает, что даже в конце 1944 года нацистская Германия ещё пыталась переломить ход войны на Западе.",
       "de": "Das Datum zeigt, dass das nationalsozialistische Deutschland noch Ende 1944 versuchte, den Krieg im Westen zu wenden.",
-      "en": "The date shows that even at the end of 1944, Nazi Germany was still trying to turn the war in the West."
+      "en": "The date shows that even at the end of 1944, Nazi Germany was still trying to turn the war in the West.",
+      "fr": "Cette date montre que meme a la fin de 1944, l'Allemagne nazie essayait encore d'inverser le cours de la guerre a l'Ouest.",
+      "es": "La fecha muestra que incluso a finales de 1944 la Alemania nazi aun intentaba cambiar el curso de la guerra en el Oeste.",
+      "it": "La data mostra che anche alla fine del 1944 la Germania nazista cercava ancora di rovesciare la guerra a ovest.",
+      "pt": "A data mostra que mesmo no fim de 1944 a Alemanha nazista ainda tentava virar a guerra no Oeste.",
+      "nl": "De datum laat zien dat nazi-Duitsland zelfs eind 1944 nog probeerde de oorlog in het Westen te keren.",
+      "pl": "Ta data pokazuje, ze nawet pod koniec 1944 roku nazistowskie Niemcy wciaz probowaly odwrocic bieg wojny na Zachodzie.",
+      "tr": "Bu tarih, Nazi Almanyasi'nin 1944 sonunda bile Bati'daki savasin gidisini degistirmeye calistigini gosterir.",
+      "zh": "这个日期显示，即使到1944年底，纳粹德国仍试图扭转西线战局。",
+      "ja": "この日は、1944年末になってもナチス・ドイツが西方で戦局を変えようとしていたことを示しています。",
+      "ko": "이 날짜는 1944년 말에도 나치 독일이 서부 전쟁의 흐름을 바꾸려 했음을 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि 1944 के अंत में भी नाजी जर्मनी पश्चिम में युद्ध की दिशा बदलने की कोशिश कर रहा था।",
+      "ar": "يوضح هذا التاريخ أن ألمانيا النازية كانت حتى نهاية 1944 تحاول تغيير مسار الحرب في الغرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "После Арденнского наступления",
           "de": "Nach der Ardennenoffensive",
-          "en": "After the Battle of the Bulge"
+          "en": "After the Battle of the Bulge",
+          "fr": "Apres la bataille des Ardennes",
+          "es": "Despues de la batalla de las Ardenas",
+          "it": "Dopo la battaglia delle Ardenne",
+          "pt": "Depois da Batalha das Ardenas",
+          "nl": "Na het Ardennenoffensief",
+          "pl": "Po ofensywie w Ardenach",
+          "tr": "Ardenler Taarruzu'ndan sonra",
+          "zh": "阿登战役之后",
+          "ja": "バルジの戦いの後",
+          "ko": "벌지 전투 이후",
+          "hi": "बैटल ऑफ द बुल्ज के बाद",
+          "ar": "بعد معركة الأردين"
         },
         "description": {
           "ru": "Операция началась, когда Арденнское наступление уже теряло силу. Немецкое командование надеялось ударить южнее и связать силы США и Франции.",
           "de": "Die Operation begann, als die Ardennenoffensive bereits an Kraft verlor. Die deutsche Fuehrung hoffte, weiter suedlich anzugreifen und amerikanische sowie franzoesische Kraefte zu binden.",
-          "en": "The operation began as the Battle of the Bulge was already losing momentum. German commanders hoped to strike farther south and tie down American and French forces."
+          "en": "The operation began as the Battle of the Bulge was already losing momentum. German commanders hoped to strike farther south and tie down American and French forces.",
+          "fr": "L'operation commenca alors que la bataille des Ardennes perdait deja de son elan. Le commandement allemand esperait frapper plus au sud et immobiliser des forces americaines et francaises.",
+          "es": "La operacion comenzo cuando la batalla de las Ardenas ya perdia impulso. Los mandos alemanes esperaban atacar mas al sur y fijar fuerzas estadounidenses y francesas.",
+          "it": "L'operazione inizio quando la battaglia delle Ardenne stava gia perdendo slancio. I comandanti tedeschi speravano di colpire piu a sud e bloccare forze americane e francesi.",
+          "pt": "A operacao comecou quando a Batalha das Ardenas ja perdia impulso. Os comandantes alemaes esperavam atacar mais ao sul e prender forcas americanas e francesas.",
+          "nl": "De operatie begon toen het Ardennenoffensief al aan kracht verloor. Duitse commandanten hoopten verder naar het zuiden toe te slaan en Amerikaanse en Franse troepen te binden.",
+          "pl": "Operacja rozpoczela sie, gdy ofensywa w Ardenach tracila juz impet. Niemieckie dowodztwo liczylo na uderzenie dalej na poludnie i zwiazanie sil amerykanskich oraz francuskich.",
+          "tr": "Harekat, Ardenler Taarruzu zaten hiz kaybederken basladi. Alman komutanlar daha guneyde vurmayi ve Amerikan ile Fransiz kuvvetlerini baglamayi umuyordu.",
+          "zh": "该行动开始时，阿登战役已在失去势头。德国指挥官希望向更南方打击，并牵制美国和法国部队。",
+          "ja": "この作戦は、バルジの戦いがすでに勢いを失いつつある時に始まりました。ドイツ軍指揮官はさらに南を攻撃し、米仏軍を拘束しようと考えていました。",
+          "ko": "이 작전은 벌지 전투가 이미 추진력을 잃고 있을 때 시작되었다. 독일 지휘관들은 더 남쪽을 공격해 미군과 프랑스군을 묶어 두려 했다.",
+          "hi": "यह अभियान तब शुरू हुआ जब बैटल ऑफ द बुल्ज पहले ही गति खो रहा था। जर्मन कमांडरों को उम्मीद थी कि वे और दक्षिण में हमला कर अमेरिकी और फ्रांसीसी सेनाओं को बांध देंगे।",
+          "ar": "بدأت العملية عندما كانت معركة الأردين تفقد زخمها بالفعل. أمل القادة الألمان في الضرب جنوبا أكثر وتقييد القوات الأمريكية والفرنسية."
         },
         "importance": {
           "ru": "Так видно, как последние наступления Германии были связаны между собой, но уже не могли изменить общий исход войны.",
           "de": "So wird sichtbar, wie die letzten deutschen Offensiven miteinander verbunden waren, den Ausgang des Krieges aber nicht mehr aendern konnten.",
-          "en": "It shows how Germany's last offensives were connected, yet could no longer change the war's overall outcome."
+          "en": "It shows how Germany's last offensives were connected, yet could no longer change the war's overall outcome.",
+          "fr": "Cela montre comment les dernieres offensives allemandes etaient liees entre elles, sans pouvoir changer l'issue generale de la guerre.",
+          "es": "Muestra como las ultimas ofensivas alemanas estaban conectadas, aunque ya no podian cambiar el resultado general de la guerra.",
+          "it": "Mostra come le ultime offensive tedesche fossero collegate, ma non potessero piu cambiare l'esito generale della guerra.",
+          "pt": "Mostra como as ultimas ofensivas alemas estavam ligadas, mas ja nao podiam mudar o resultado geral da guerra.",
+          "nl": "Het laat zien hoe de laatste Duitse offensieven met elkaar verbonden waren, maar de algemene afloop van de oorlog niet meer konden veranderen.",
+          "pl": "To pokazuje, jak ostatnie niemieckie ofensywy byly ze soba powiazane, ale nie mogly juz zmienic ogolnego wyniku wojny.",
+          "tr": "Almanya'nin son taarruzlarinin nasil baglantili oldugunu, ancak savasin genel sonucunu artik degistiremedigini gosterir.",
+          "zh": "这说明德国最后几次攻势如何相互关联，但已无法改变战争总体结局。",
+          "ja": "ドイツ最後の攻勢が互いに結びついていたものの、もはや戦争全体の結果を変えられなかったことを示しています。",
+          "ko": "독일의 마지막 공세들이 서로 연결되어 있었지만 더 이상 전쟁의 전체 결과를 바꿀 수 없었음을 보여 준다.",
+          "hi": "यह दिखाता है कि जर्मनी के अंतिम आक्रमण आपस में जुड़े थे, फिर भी वे युद्ध के कुल परिणाम को बदल नहीं सकते थे।",
+          "ar": "يوضح ذلك كيف كانت الهجمات الألمانية الأخيرة مترابطة، لكنها لم تعد قادرة على تغيير النتيجة العامة للحرب."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Новогоднее наступление",
           "de": "Eine Offensive zum Jahreswechsel",
-          "en": "A New Year's offensive"
+          "en": "A New Year's offensive",
+          "fr": "Une offensive du Nouvel An",
+          "es": "Una ofensiva de Ano Nuevo",
+          "it": "Un'offensiva di Capodanno",
+          "pt": "Uma ofensiva de Ano Novo",
+          "nl": "Een nieuwjaarsoffensief",
+          "pl": "Noworoczna ofensywa",
+          "tr": "Yeni yil taarruzu",
+          "zh": "新年攻势",
+          "ja": "年越しの攻勢",
+          "ko": "새해 공세",
+          "hi": "नए साल का आक्रमण",
+          "ar": "هجوم رأس السنة"
         },
         "description": {
           "ru": "Наступление началось в последние часы 1944 года и продолжилось в январе 1945-го. Контраст между новогодней датой и реальностью боёв делает событие особенно мрачным.",
           "de": "Die Offensive begann in den letzten Stunden des Jahres 1944 und dauerte bis in den Januar 1945. Der Gegensatz zwischen Jahreswechsel und Kampfrealitaet macht das Ereignis besonders duester.",
-          "en": "The offensive began in the final hours of 1944 and continued into January 1945. The contrast between New Year's timing and the reality of battle makes the event especially grim."
+          "en": "The offensive began in the final hours of 1944 and continued into January 1945. The contrast between New Year's timing and the reality of battle makes the event especially grim.",
+          "fr": "L'offensive commenca dans les dernieres heures de 1944 et se poursuivit en janvier 1945. Le contraste entre le moment du Nouvel An et la realite des combats rend l'evenement particulierement sombre.",
+          "es": "La ofensiva comenzo en las ultimas horas de 1944 y continuo en enero de 1945. El contraste entre el momento de Ano Nuevo y la realidad de los combates hace que el acontecimiento sea especialmente sombrio.",
+          "it": "L'offensiva inizio nelle ultime ore del 1944 e continuo nel gennaio 1945. Il contrasto tra il momento del Capodanno e la realta dei combattimenti rende l'evento particolarmente cupo.",
+          "pt": "A ofensiva comecou nas ultimas horas de 1944 e continuou em janeiro de 1945. O contraste entre o momento de Ano Novo e a realidade dos combates torna o evento especialmente sombrio.",
+          "nl": "Het offensief begon in de laatste uren van 1944 en duurde voort tot in januari 1945. Het contrast tussen de jaarwisseling en de werkelijkheid van de gevechten maakt de gebeurtenis bijzonder somber.",
+          "pl": "Ofensywa zaczela sie w ostatnich godzinach 1944 roku i trwala w styczniu 1945 roku. Kontrast miedzy data noworoczna a rzeczywistoscia walk czyni wydarzenie szczegolnie ponurym.",
+          "tr": "Taarruz 1944'un son saatlerinde basladi ve Ocak 1945'e kadar surdu. Yeni yil zamani ile savasin gercekligi arasindaki zitlik olayi ozellikle kasvetli kilar.",
+          "zh": "攻势在1944年的最后几个小时开始，并持续到1945年1月。新年时间与战斗现实之间的反差使这一事件格外阴郁。",
+          "ja": "攻勢は1944年最後の数時間に始まり、1945年1月まで続きました。年越しの時期と戦闘の現実の対比が、この出来事を特に陰鬱なものにしています。",
+          "ko": "공세는 1944년의 마지막 시간에 시작되어 1945년 1월까지 이어졌다. 새해라는 시점과 전투 현실의 대비가 이 사건을 특히 암울하게 만든다.",
+          "hi": "आक्रमण 1944 के अंतिम घंटों में शुरू हुआ और जनवरी 1945 तक जारी रहा। नए साल के समय और युद्ध की वास्तविकता का विरोध इस घटना को विशेष रूप से गंभीर बनाता है।",
+          "ar": "بدأ الهجوم في الساعات الأخيرة من عام 1944 واستمر في يناير 1945. ويجعل التباين بين توقيت رأس السنة وواقع القتال الحدث قاتما على نحو خاص."
         },
         "importance": {
           "ru": "Иногда календарная дата усиливает ощущение исторической трагедии.",
           "de": "Manchmal verstaerkt ein Kalenderdatum das Gefuehl historischer Tragik.",
-          "en": "Sometimes a calendar date intensifies the feeling of historical tragedy."
+          "en": "Sometimes a calendar date intensifies the feeling of historical tragedy.",
+          "fr": "Parfois, une date du calendrier renforce le sentiment de tragedie historique.",
+          "es": "A veces una fecha del calendario intensifica la sensacion de tragedia historica.",
+          "it": "A volte una data del calendario intensifica il senso della tragedia storica.",
+          "pt": "As vezes, uma data do calendario intensifica a sensacao de tragedia historica.",
+          "nl": "Soms versterkt een kalenderdatum het gevoel van historische tragiek.",
+          "pl": "Czasem data w kalendarzu wzmacnia poczucie historycznej tragedii.",
+          "tr": "Bazen bir takvim tarihi tarihsel trajedi duygusunu guclendirir.",
+          "zh": "有时，日历日期会增强历史悲剧感。",
+          "ja": "時には暦の日付が歴史的悲劇の感覚を強めます。",
+          "ko": "때로는 달력의 날짜가 역사적 비극의 느낌을 더 강하게 만든다.",
+          "hi": "कभी-कभी कैलेंडर की तारीख ऐतिहासिक त्रासदी की अनुभूति को और गहरा कर देती है।",
+          "ar": "أحيانا يعزز تاريخ في التقويم الإحساس بالمأساة التاريخية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Операция «Северный ветер» продолжалась до конца января 1945 года и не достигла главных целей.",
     "de": "Unternehmen Nordwind dauerte bis Ende Januar 1945 und erreichte seine Hauptziele nicht.",
-    "en": "Operation Nordwind lasted until late January 1945 and failed to achieve its main objectives."
+    "en": "Operation Nordwind lasted until late January 1945 and failed to achieve its main objectives.",
+    "fr": "L'operation Nordwind dura jusqu'a la fin janvier 1945 et n'atteignit pas ses objectifs principaux.",
+    "es": "La operacion Nordwind duro hasta finales de enero de 1945 y no alcanzo sus objetivos principales.",
+    "it": "L'operazione Nordwind duro fino alla fine di gennaio 1945 e non raggiunse i suoi obiettivi principali.",
+    "pt": "A operacao Nordwind durou ate o fim de janeiro de 1945 e nao alcancou seus principais objetivos.",
+    "nl": "Operatie Nordwind duurde tot eind januari 1945 en bereikte haar hoofddoelen niet.",
+    "pl": "Operacja Nordwind trwala do konca stycznia 1945 roku i nie osiagnela glownych celow.",
+    "tr": "Nordwind Harekati Ocak 1945 sonuna kadar surdu ve ana hedeflerine ulasamadi.",
+    "zh": "北风行动持续到1945年1月底，但未能实现主要目标。",
+    "ja": "ノルトヴィント作戦は1945年1月下旬まで続きましたが、主要目標を達成できませんでした。",
+    "ko": "노르트빈트 작전은 1945년 1월 말까지 지속되었고 주요 목표를 달성하지 못했다.",
+    "hi": "ऑपरेशन नॉर्डविंड जनवरी 1945 के अंत तक चला और अपने मुख्य लक्ष्यों को हासिल नहीं कर पाया।",
+    "ar": "استمرت عملية نوردفيند حتى أواخر يناير 1945 ولم تحقق أهدافها الرئيسية."
   },
   "sources": [
     {
