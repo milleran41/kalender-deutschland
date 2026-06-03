@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия объявила войну Франции",
       "de": "Deutschland erklaert Frankreich den Krieg",
-      "en": "Germany declares war on France"
+      "en": "Germany declares war on France",
+      "fr": "L'Allemagne déclare la guerre à la France",
+      "es": "Alemania declara la guerra a Francia",
+      "it": "La Germania dichiara guerra alla Francia",
+      "pt": "A Alemanha declara guerra à França",
+      "nl": "Duitsland verklaart Frankrijk de oorlog",
+      "pl": "Niemcy wypowiadają wojnę Francji",
+      "tr": "Almanya Fransa'ya savaş ilan eder",
+      "zh": "德国向法国宣战",
+      "ja": "ドイツがフランスに宣戦布告する",
+      "ko": "독일이 프랑스에 선전포고하다",
+      "hi": "जर्मनी ने फ्रांस के खिलाफ युद्ध की घोषणा की",
+      "ar": "ألمانيا تعلن الحرب على فرنسا"
     },
     "description": {
       "ru": "3 августа 1914 года Германия объявила войну Франции. На следующий день германские войска вторглись в Бельгию, и в войну вступила Великобритания.",
       "de": "Am 3. August 1914 erklaerte Deutschland Frankreich den Krieg. Am naechsten Tag marschierten deutsche Truppen in Belgien ein, und Grossbritannien trat in den Krieg ein.",
-      "en": "On 3 August 1914, Germany declared war on France. The next day German troops invaded Belgium, and Britain entered the war."
+      "en": "On 3 August 1914, Germany declared war on France. The next day German troops invaded Belgium, and Britain entered the war.",
+      "fr": "Le 3 août 1914, l'Allemagne déclara la guerre à la France. Le lendemain, les troupes allemandes envahirent la Belgique, et la Grande-Bretagne entra en guerre.",
+      "es": "El 3 de agosto de 1914, Alemania declaró la guerra a Francia. Al día siguiente, tropas alemanas invadieron Bélgica, y Gran Bretaña entró en la guerra.",
+      "it": "Il 3 agosto 1914 la Germania dichiarò guerra alla Francia. Il giorno seguente le truppe tedesche invasero il Belgio, e la Gran Bretagna entrò in guerra.",
+      "pt": "Em 3 de agosto de 1914, a Alemanha declarou guerra à França. No dia seguinte, tropas alemãs invadiram a Bélgica, e a Grã-Bretanha entrou na guerra.",
+      "nl": "Op 3 augustus 1914 verklaarde Duitsland Frankrijk de oorlog. De volgende dag vielen Duitse troepen België binnen, en Groot-Brittannië trad toe tot de oorlog.",
+      "pl": "3 sierpnia 1914 roku Niemcy wypowiedziały wojnę Francji. Następnego dnia wojska niemieckie wkroczyły do Belgii, a Wielka Brytania przystąpiła do wojny.",
+      "tr": "3 Ağustos 1914'te Almanya Fransa'ya savaş ilan etti. Ertesi gün Alman birlikleri Belçika'yı işgal etti ve Britanya savaşa girdi.",
+      "zh": "1914年8月3日，德国向法国宣战。第二天，德国军队入侵比利时，英国也参战。",
+      "ja": "1914年8月3日、ドイツはフランスに宣戦布告した。翌日、ドイツ軍はベルギーに侵攻し、イギリスも参戦した。",
+      "ko": "1914년 8월 3일, 독일은 프랑스에 선전포고했다. 다음 날 독일군은 벨기에를 침공했고, 영국도 전쟁에 참전했다.",
+      "hi": "3 अगस्त 1914 को जर्मनी ने फ्रांस के खिलाफ युद्ध की घोषणा की। अगले दिन जर्मन सैनिकों ने बेल्जियम पर आक्रमण किया और ब्रिटेन युद्ध में शामिल हो गया।",
+      "ar": "في 3 أغسطس 1914 أعلنت ألمانيا الحرب على فرنسا. وفي اليوم التالي غزت القوات الألمانية بلجيكا، ودخلت بريطانيا الحرب."
     },
     "importance": {
       "ru": "Так июльский кризис превратился в большую войну на западном фронте.",
       "de": "So wurde aus der Julikrise ein grosser Krieg an der Westfront.",
-      "en": "The July Crisis thus became a major war on the Western Front."
+      "en": "The July Crisis thus became a major war on the Western Front.",
+      "fr": "La crise de juillet devint ainsi une grande guerre sur le front occidental.",
+      "es": "Así, la crisis de julio se convirtió en una gran guerra en el frente occidental.",
+      "it": "Così la crisi di luglio divenne una grande guerra sul fronte occidentale.",
+      "pt": "Assim, a crise de julho transformou-se numa grande guerra na Frente Ocidental.",
+      "nl": "Zo werd de Julicrisis een grote oorlog aan het westfront.",
+      "pl": "Tak kryzys lipcowy zmienił się w wielką wojnę na froncie zachodnim.",
+      "tr": "Böylece Temmuz Krizi Batı Cephesi'nde büyük bir savaşa dönüştü.",
+      "zh": "七月危机由此变成西线的一场大战。",
+      "ja": "こうして七月危機は西部戦線での大戦へと変わった。",
+      "ko": "이렇게 7월 위기는 서부 전선의 큰 전쟁으로 바뀌었다.",
+      "hi": "इस तरह जुलाई संकट पश्चिमी मोर्चे पर बड़े युद्ध में बदल गया।",
+      "ar": "وهكذا تحولت أزمة يوليو إلى حرب كبيرة على الجبهة الغربية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "План войны на два фронта",
           "de": "Kriegsplan fuer zwei Fronten",
-          "en": "War plan for two fronts"
+          "en": "War plan for two fronts",
+          "fr": "Plan de guerre sur deux fronts",
+          "es": "Plan de guerra en dos frentes",
+          "it": "Piano di guerra su due fronti",
+          "pt": "Plano de guerra em duas frentes",
+          "nl": "Oorlogsplan voor twee fronten",
+          "pl": "Plan wojny na dwa fronty",
+          "tr": "İki cepheli savaş planı",
+          "zh": "两线作战计划",
+          "ja": "二正面戦争の計画",
+          "ko": "양면 전쟁 계획",
+          "hi": "दो मोर्चों के युद्ध की योजना",
+          "ar": "خطة حرب على جبهتين"
         },
         "description": {
           "ru": "Германское командование рассчитывало быстро ударить по Франции, пока Россия медленнее проводит мобилизацию. Эта логика толкала Германию к наступлению на западе.",
           "de": "Die deutsche Fuehrung rechnete damit, Frankreich schnell zu schlagen, waehrend Russland langsamer mobilisierte. Diese Logik draengte Deutschland zum Angriff im Westen.",
-          "en": "Germany's leadership expected to strike France quickly while Russia mobilized more slowly. This logic pushed Germany toward an offensive in the west."
+          "en": "Germany's leadership expected to strike France quickly while Russia mobilized more slowly. This logic pushed Germany toward an offensive in the west.",
+          "fr": "Le commandement allemand comptait frapper rapidement la France pendant que la Russie mobilisait plus lentement. Cette logique poussait l'Allemagne vers une offensive à l'ouest.",
+          "es": "El mando alemán esperaba golpear rápidamente a Francia mientras Rusia movilizaba más despacio. Esta lógica empujó a Alemania hacia una ofensiva en el oeste.",
+          "it": "Il comando tedesco contava di colpire rapidamente la Francia mentre la Russia mobilitava più lentamente. Questa logica spinse la Germania verso un'offensiva a ovest.",
+          "pt": "O comando alemão esperava atacar rapidamente a França enquanto a Rússia se mobilizava mais devagar. Essa lógica empurrou a Alemanha para uma ofensiva no oeste.",
+          "nl": "De Duitse leiding verwachtte Frankrijk snel te treffen terwijl Rusland langzamer mobiliseerde. Deze logica duwde Duitsland naar een offensief in het westen.",
+          "pl": "Niemieckie dowództwo liczyło na szybkie uderzenie we Francję, podczas gdy Rosja mobilizowała się wolniej. Ta logika pchała Niemcy do ofensywy na zachodzie.",
+          "tr": "Alman komutanlığı, Rusya daha yavaş seferber olurken Fransa'ya hızla darbe vurmayı bekliyordu. Bu mantık Almanya'yı batıda taarruza itti.",
+          "zh": "德国领导层希望在俄罗斯动员较慢时迅速打击法国。这种逻辑推动德国在西线发动进攻。",
+          "ja": "ドイツ指導部は、ロシアの動員が遅い間にフランスを素早く攻撃できると考えていた。この論理がドイツを西方での攻勢へ押し出した。",
+          "ko": "독일 지도부는 러시아가 더 느리게 동원되는 동안 프랑스를 빠르게 공격할 수 있다고 보았다. 이 논리는 독일을 서쪽 공세로 밀어붙였다.",
+          "hi": "जर्मन नेतृत्व को उम्मीद थी कि रूस की धीमी लामबंदी के दौरान वह फ्रांस पर जल्दी हमला कर सकेगा। इसी सोच ने जर्मनी को पश्चिम में आक्रमण की ओर धकेला।",
+          "ar": "كانت القيادة الألمانية تتوقع ضرب فرنسا بسرعة بينما تعبئ روسيا قواتها ببطء أكبر. ودفع هذا المنطق ألمانيا إلى الهجوم في الغرب."
         },
         "importance": {
           "ru": "Дата показывает, как военные планы могут ускорить политический кризис.",
           "de": "Das Datum zeigt, wie militaerische Plaene eine politische Krise beschleunigen koennen.",
-          "en": "The date shows how military plans can accelerate a political crisis."
+          "en": "The date shows how military plans can accelerate a political crisis.",
+          "fr": "Cette date montre comment des plans militaires peuvent accélérer une crise politique.",
+          "es": "La fecha muestra cómo los planes militares pueden acelerar una crisis política.",
+          "it": "La data mostra come i piani militari possano accelerare una crisi politica.",
+          "pt": "A data mostra como planos militares podem acelerar uma crise política.",
+          "nl": "De datum laat zien hoe militaire plannen een politieke crisis kunnen versnellen.",
+          "pl": "Ta data pokazuje, jak plany wojskowe mogą przyspieszyć kryzys polityczny.",
+          "tr": "Bu tarih, askeri planların siyasi bir krizi nasıl hızlandırabileceğini gösterir.",
+          "zh": "这个日期显示军事计划如何加速政治危机。",
+          "ja": "この日は、軍事計画が政治危機を加速させうることを示している。",
+          "ko": "이 날짜는 군사 계획이 정치 위기를 어떻게 가속할 수 있는지를 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि सैन्य योजनाएं राजनीतिक संकट को कैसे तेज कर सकती हैं।",
+          "ar": "يبين هذا التاريخ كيف يمكن للخطط العسكرية أن تسرع أزمة سياسية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Война входила в Европу по дням",
           "de": "Der Krieg kam Tag fuer Tag nach Europa",
-          "en": "War entered Europe day by day"
+          "en": "War entered Europe day by day",
+          "fr": "La guerre entra en Europe jour après jour",
+          "es": "La guerra entró en Europa día a día",
+          "it": "La guerra entrò in Europa giorno dopo giorno",
+          "pt": "A guerra entrou na Europa dia após dia",
+          "nl": "De oorlog kwam dag na dag Europa binnen",
+          "pl": "Wojna wchodziła do Europy dzień po dniu",
+          "tr": "Savaş Avrupa'ya gün gün girdi",
+          "zh": "战争一天天进入欧洲",
+          "ja": "戦争は日ごとにヨーロッパへ広がった",
+          "ko": "전쟁은 날마다 유럽으로 들어왔다",
+          "hi": "युद्ध दिन-ब-दिन यूरोप में फैलता गया",
+          "ar": "دخلت الحرب أوروبا يوما بعد يوم"
         },
         "description": {
           "ru": "Первая мировая война не началась для всех стран в один момент. В конце июля и начале августа 1914 года объявления войны следовали одно за другим.",
           "de": "Der Erste Weltkrieg begann nicht fuer alle Staaten im selben Moment. Ende Juli und Anfang August 1914 folgte Kriegserklaerung auf Kriegserklaerung.",
-          "en": "The First World War did not begin for all countries at the same moment. In late July and early August 1914, declarations of war followed one after another."
+          "en": "The First World War did not begin for all countries at the same moment. In late July and early August 1914, declarations of war followed one after another.",
+          "fr": "La Première Guerre mondiale ne commença pas au même moment pour tous les pays. Fin juillet et début août 1914, les déclarations de guerre se succédèrent.",
+          "es": "La Primera Guerra Mundial no comenzó para todos los países en el mismo momento. A finales de julio y comienzos de agosto de 1914, las declaraciones de guerra se sucedieron una tras otra.",
+          "it": "La Prima guerra mondiale non iniziò per tutti i paesi nello stesso momento. Tra la fine di luglio e l'inizio di agosto 1914, le dichiarazioni di guerra si susseguirono.",
+          "pt": "A Primeira Guerra Mundial não começou para todos os países no mesmo momento. No fim de julho e início de agosto de 1914, declarações de guerra vieram uma após outra.",
+          "nl": "De Eerste Wereldoorlog begon niet voor alle landen op hetzelfde moment. Eind juli en begin augustus 1914 volgden oorlogsverklaringen elkaar op.",
+          "pl": "Pierwsza wojna światowa nie zaczęła się dla wszystkich państw w tym samym momencie. Pod koniec lipca i na początku sierpnia 1914 roku deklaracje wojny następowały jedna po drugiej.",
+          "tr": "Birinci Dünya Savaşı tüm ülkeler için aynı anda başlamadı. 1914 Temmuzunun sonunda ve Ağustos başında savaş ilanları peş peşe geldi.",
+          "zh": "第一次世界大战并不是对所有国家同时开始的。1914年7月底和8月初，宣战一个接一个地发生。",
+          "ja": "第一次世界大戦はすべての国で同時に始まったわけではない。1914年7月末から8月初めにかけて、宣戦布告が次々と続いた。",
+          "ko": "제1차 세계대전은 모든 나라에 동시에 시작된 것이 아니었다. 1914년 7월 말과 8월 초, 선전포고가 잇따랐다.",
+          "hi": "प्रथम विश्व युद्ध सभी देशों के लिए एक ही क्षण में शुरू नहीं हुआ। जुलाई के अंत और अगस्त 1914 की शुरुआत में युद्ध घोषणाएं एक के बाद एक आईं।",
+          "ar": "لم تبدأ الحرب العالمية الأولى لكل الدول في اللحظة نفسها. ففي أواخر يوليو وبداية أغسطس 1914 توالت إعلانات الحرب واحدا بعد آخر."
         },
         "importance": {
           "ru": "По календарю хорошо видно, как быстро локальный кризис стал европейской катастрофой.",
           "de": "Am Kalender laesst sich gut erkennen, wie schnell aus einer lokalen Krise eine europaeische Katastrophe wurde.",
-          "en": "A calendar makes it clear how quickly a local crisis became a European catastrophe."
+          "en": "A calendar makes it clear how quickly a local crisis became a European catastrophe.",
+          "fr": "Le calendrier montre bien à quelle vitesse une crise locale devint une catastrophe européenne.",
+          "es": "El calendario muestra claramente lo rápido que una crisis local se convirtió en una catástrofe europea.",
+          "it": "Il calendario mostra chiaramente quanto rapidamente una crisi locale diventò una catastrofe europea.",
+          "pt": "O calendário mostra claramente como uma crise local se tornou rapidamente uma catástrofe europeia.",
+          "nl": "Aan de kalender is goed te zien hoe snel een lokale crisis een Europese catastrofe werd.",
+          "pl": "Kalendarz dobrze pokazuje, jak szybko lokalny kryzys stał się europejską katastrofą.",
+          "tr": "Takvim, yerel bir krizin ne kadar hızlı Avrupa felaketine dönüştüğünü açıkça gösterir.",
+          "zh": "日历清楚显示，一个地方性危机多么迅速地变成欧洲灾难。",
+          "ja": "カレンダーを見ると、地域的な危機がどれほど速くヨーロッパの大惨事になったかがよくわかる。",
+          "ko": "달력을 보면 지역적 위기가 얼마나 빠르게 유럽의 재앙이 되었는지 잘 알 수 있다.",
+          "hi": "कैलेंडर से साफ दिखता है कि एक स्थानीय संकट कितनी तेजी से यूरोपीय आपदा बन गया।",
+          "ar": "يوضح التقويم جيدا كيف تحولت أزمة محلية بسرعة إلى كارثة أوروبية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Германия объявила войну России 1 августа, Франции 3 августа, а Бельгии война пришла 4 августа через вторжение.",
     "de": "Deutschland erklaerte Russland am 1. August und Frankreich am 3. August den Krieg; Belgien wurde am 4. August durch den Einmarsch in den Krieg hineingezogen.",
-    "en": "Germany declared war on Russia on 1 August and on France on 3 August; Belgium was drawn into the war by the invasion on 4 August."
+    "en": "Germany declared war on Russia on 1 August and on France on 3 August; Belgium was drawn into the war by the invasion on 4 August.",
+    "fr": "L'Allemagne déclara la guerre à la Russie le 1er août et à la France le 3 août; la Belgique fut entraînée dans la guerre par l'invasion du 4 août.",
+    "es": "Alemania declaró la guerra a Rusia el 1 de agosto y a Francia el 3 de agosto; Bélgica fue arrastrada a la guerra por la invasión del 4 de agosto.",
+    "it": "La Germania dichiarò guerra alla Russia il 1º agosto e alla Francia il 3 agosto; il Belgio fu trascinato in guerra dall'invasione del 4 agosto.",
+    "pt": "A Alemanha declarou guerra à Rússia em 1º de agosto e à França em 3 de agosto; a Bélgica foi arrastada para a guerra pela invasão de 4 de agosto.",
+    "nl": "Duitsland verklaarde Rusland op 1 augustus en Frankrijk op 3 augustus de oorlog; België werd op 4 augustus door de invasie de oorlog in getrokken.",
+    "pl": "Niemcy wypowiedziały wojnę Rosji 1 sierpnia, a Francji 3 sierpnia; Belgia została wciągnięta do wojny przez inwazję 4 sierpnia.",
+    "tr": "Almanya 1 Ağustos'ta Rusya'ya, 3 Ağustos'ta Fransa'ya savaş ilan etti; Belçika ise 4 Ağustos'taki işgalle savaşa çekildi.",
+    "zh": "德国于8月1日向俄罗斯宣战，8月3日向法国宣战；比利时则因8月4日的入侵被卷入战争。",
+    "ja": "ドイツは8月1日にロシアへ、8月3日にフランスへ宣戦布告した。ベルギーは8月4日の侵攻によって戦争に巻き込まれた。",
+    "ko": "독일은 8월 1일 러시아에, 8월 3일 프랑스에 선전포고했다. 벨기에는 8월 4일 침공으로 전쟁에 휘말렸다.",
+    "hi": "जर्मनी ने 1 अगस्त को रूस और 3 अगस्त को फ्रांस के खिलाफ युद्ध की घोषणा की; बेल्जियम 4 अगस्त के आक्रमण से युद्ध में खिंच गया।",
+    "ar": "أعلنت ألمانيا الحرب على روسيا في 1 أغسطس وعلى فرنسا في 3 أغسطس؛ أما بلجيكا فدخلت الحرب بسبب الغزو في 4 أغسطس."
   },
   "sources": [
     {

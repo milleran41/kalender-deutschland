@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия вторглась в Бельгию",
       "de": "Deutschland marschiert in Belgien ein",
-      "en": "Germany invades Belgium"
+      "en": "Germany invades Belgium",
+      "fr": "L'Allemagne envahit la Belgique",
+      "es": "Alemania invade Bélgica",
+      "it": "La Germania invade il Belgio",
+      "pt": "A Alemanha invade a Bélgica",
+      "nl": "Duitsland valt België binnen",
+      "pl": "Niemcy najeżdżają Belgię",
+      "tr": "Almanya Belçika'yı işgal eder",
+      "zh": "德国入侵比利时",
+      "ja": "ドイツがベルギーに侵攻する",
+      "ko": "독일이 벨기에를 침공하다",
+      "hi": "जर्मनी ने बेल्जियम पर आक्रमण किया",
+      "ar": "ألمانيا تغزو بلجيكا"
     },
     "description": {
       "ru": "4 августа 1914 года германские войска перешли границу нейтральной Бельгии. В тот же день Великобритания объявила войну Германии.",
       "de": "Am 4. August 1914 ueberschritten deutsche Truppen die Grenze des neutralen Belgien. Am selben Tag erklaerte Grossbritannien Deutschland den Krieg.",
-      "en": "On 4 August 1914, German troops crossed the border into neutral Belgium. On the same day, Britain declared war on Germany."
+      "en": "On 4 August 1914, German troops crossed the border into neutral Belgium. On the same day, Britain declared war on Germany.",
+      "fr": "Le 4 août 1914, les troupes allemandes franchirent la frontière de la Belgique neutre. Le même jour, la Grande-Bretagne déclara la guerre à l'Allemagne.",
+      "es": "El 4 de agosto de 1914, tropas alemanas cruzaron la frontera de la neutral Bélgica. Ese mismo día, Gran Bretaña declaró la guerra a Alemania.",
+      "it": "Il 4 agosto 1914 le truppe tedesche attraversarono il confine del Belgio neutrale. Lo stesso giorno la Gran Bretagna dichiarò guerra alla Germania.",
+      "pt": "Em 4 de agosto de 1914, tropas alemãs cruzaram a fronteira da Bélgica neutra. No mesmo dia, a Grã-Bretanha declarou guerra à Alemanha.",
+      "nl": "Op 4 augustus 1914 overschreden Duitse troepen de grens van het neutrale België. Op dezelfde dag verklaarde Groot-Brittannië Duitsland de oorlog.",
+      "pl": "4 sierpnia 1914 roku wojska niemieckie przekroczyły granicę neutralnej Belgii. Tego samego dnia Wielka Brytania wypowiedziała wojnę Niemcom.",
+      "tr": "4 Ağustos 1914'te Alman birlikleri tarafsız Belçika'nın sınırını geçti. Aynı gün Britanya Almanya'ya savaş ilan etti.",
+      "zh": "1914年8月4日，德国军队越过中立国比利时边境。同一天，英国向德国宣战。",
+      "ja": "1914年8月4日、ドイツ軍は中立国ベルギーの国境を越えた。同日、イギリスはドイツに宣戦布告した。",
+      "ko": "1914년 8월 4일, 독일군은 중립국 벨기에의 국경을 넘었다. 같은 날 영국은 독일에 선전포고했다.",
+      "hi": "4 अगस्त 1914 को जर्मन सैनिकों ने तटस्थ बेल्जियम की सीमा पार की। उसी दिन ब्रिटेन ने जर्मनी के खिलाफ युद्ध की घोषणा की।",
+      "ar": "في 4 أغسطس 1914 عبرت القوات الألمانية حدود بلجيكا المحايدة. وفي اليوم نفسه أعلنت بريطانيا الحرب على ألمانيا."
     },
     "importance": {
       "ru": "Война быстро превратилась из европейского кризиса в огромный международный конфликт.",
       "de": "Der Krieg wurde damit aus einer europaeischen Krise sehr schnell zu einem grossen internationalen Konflikt.",
-      "en": "The war quickly turned from a European crisis into a major international conflict."
+      "en": "The war quickly turned from a European crisis into a major international conflict.",
+      "fr": "La guerre passa rapidement d'une crise européenne à un grand conflit international.",
+      "es": "La guerra pasó rápidamente de una crisis europea a un gran conflicto internacional.",
+      "it": "La guerra si trasformò rapidamente da crisi europea in grande conflitto internazionale.",
+      "pt": "A guerra passou rapidamente de crise europeia a grande conflito internacional.",
+      "nl": "De oorlog veranderde snel van een Europese crisis in een groot internationaal conflict.",
+      "pl": "Wojna szybko zmieniła się z kryzysu europejskiego w wielki konflikt międzynarodowy.",
+      "tr": "Savaş hızla bir Avrupa krizinden büyük bir uluslararası çatışmaya dönüştü.",
+      "zh": "战争迅速从欧洲危机变成重大的国际冲突。",
+      "ja": "戦争はヨーロッパの危機から大きな国際紛争へと急速に変わった。",
+      "ko": "전쟁은 유럽의 위기에서 거대한 국제 분쟁으로 빠르게 바뀌었다.",
+      "hi": "युद्ध जल्दी ही यूरोपीय संकट से बड़े अंतरराष्ट्रीय संघर्ष में बदल गया।",
+      "ar": "تحولت الحرب بسرعة من أزمة أوروبية إلى صراع دولي كبير."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Нарушение нейтралитета Бельгии",
           "de": "Verletzung der belgischen Neutralitaet",
-          "en": "Violation of Belgian neutrality"
+          "en": "Violation of Belgian neutrality",
+          "fr": "Violation de la neutralité belge",
+          "es": "Violación de la neutralidad belga",
+          "it": "Violazione della neutralità belga",
+          "pt": "Violação da neutralidade belga",
+          "nl": "Schending van de Belgische neutraliteit",
+          "pl": "Naruszenie neutralności Belgii",
+          "tr": "Belçika tarafsızlığının ihlali",
+          "zh": "侵犯比利时中立",
+          "ja": "ベルギー中立の侵害",
+          "ko": "벨기에 중립의 침해",
+          "hi": "बेल्जियम की तटस्थता का उल्लंघन",
+          "ar": "انتهاك حياد بلجيكا"
         },
         "description": {
           "ru": "Германский план войны с Францией предполагал проход через Бельгию. Но Бельгия была нейтральной страной, и вторжение вызвало резкую реакцию в Европе.",
           "de": "Der deutsche Kriegsplan gegen Frankreich sah den Durchmarsch durch Belgien vor. Belgien war jedoch neutral, und der Einmarsch loeste in Europa scharfe Reaktionen aus.",
-          "en": "Germany's plan for war against France involved moving through Belgium. Belgium was neutral, and the invasion caused a strong reaction across Europe."
+          "en": "Germany's plan for war against France involved moving through Belgium. Belgium was neutral, and the invasion caused a strong reaction across Europe.",
+          "fr": "Le plan allemand de guerre contre la France prévoyait un passage par la Belgique. Mais la Belgique était un pays neutre, et l'invasion provoqua une forte réaction en Europe.",
+          "es": "El plan alemán de guerra contra Francia preveía pasar por Bélgica. Pero Bélgica era un país neutral, y la invasión provocó una fuerte reacción en Europa.",
+          "it": "Il piano tedesco per la guerra contro la Francia prevedeva il passaggio attraverso il Belgio. Ma il Belgio era un paese neutrale, e l'invasione provocò una forte reazione in Europa.",
+          "pt": "O plano alemão para a guerra contra a França previa a passagem pela Bélgica. Mas a Bélgica era um país neutro, e a invasão provocou forte reação na Europa.",
+          "nl": "Het Duitse oorlogsplan tegen Frankrijk voorzag een doortocht door België. Maar België was neutraal, en de invasie veroorzaakte een scherpe reactie in Europa.",
+          "pl": "Niemiecki plan wojny z Francją zakładał przejście przez Belgię. Belgia była jednak państwem neutralnym, a inwazja wywołała ostrą reakcję w Europie.",
+          "tr": "Almanya'nın Fransa'ya karşı savaş planı Belçika üzerinden geçmeyi öngörüyordu. Ancak Belçika tarafsız bir ülkeydi ve işgal Avrupa'da sert tepki doğurdu.",
+          "zh": "德国对法作战计划包括穿越比利时。但比利时是中立国家，入侵在欧洲引发强烈反应。",
+          "ja": "ドイツの対フランス戦争計画は、ベルギーを通過することを想定していた。しかしベルギーは中立国であり、侵攻はヨーロッパで強い反発を招いた。",
+          "ko": "독일의 대프랑스 전쟁 계획은 벨기에를 통과하는 것을 포함했다. 그러나 벨기에는 중립국이었고, 침공은 유럽 전역에서 강한 반응을 불러일으켰다.",
+          "hi": "फ्रांस के खिलाफ जर्मन युद्ध योजना में बेल्जियम से होकर गुजरना शामिल था। लेकिन बेल्जियम तटस्थ देश था, और आक्रमण से यूरोप में तीखी प्रतिक्रिया हुई।",
+          "ar": "كانت خطة ألمانيا للحرب ضد فرنسا تتضمن المرور عبر بلجيكا. لكن بلجيكا كانت دولة محايدة، وأثار الغزو رد فعل قويا في أوروبا."
         },
         "importance": {
           "ru": "Этот день помогает понять, почему география маленькой страны изменила ход всей войны.",
           "de": "Der Tag zeigt, wie die Geografie eines kleinen Landes den Verlauf des ganzen Krieges beeinflusste.",
-          "en": "The day shows how the geography of a small country influenced the course of the whole war."
+          "en": "The day shows how the geography of a small country influenced the course of the whole war.",
+          "fr": "Cette journée montre comment la géographie d'un petit pays influença le cours de toute la guerre.",
+          "es": "Este día ayuda a entender cómo la geografía de un país pequeño influyó en el curso de toda la guerra.",
+          "it": "Questo giorno aiuta a capire come la geografia di un piccolo paese influenzò il corso dell'intera guerra.",
+          "pt": "Esse dia ajuda a entender como a geografia de um pequeno país influenciou o curso de toda a guerra.",
+          "nl": "Deze dag laat zien hoe de geografie van een klein land het verloop van de hele oorlog beïnvloedde.",
+          "pl": "Ten dzień pomaga zrozumieć, jak geografia małego kraju wpłynęła na przebieg całej wojny.",
+          "tr": "Bu gün, küçük bir ülkenin coğrafyasının tüm savaşın gidişini nasıl etkilediğini anlamaya yardımcı olur.",
+          "zh": "这一天有助于理解一个小国的地理位置如何影响整场战争的进程。",
+          "ja": "この日は、小国の地理が戦争全体の展開にどのように影響したかを理解する助けになる。",
+          "ko": "이 날은 작은 나라의 지리가 전쟁 전체의 흐름에 어떻게 영향을 주었는지 이해하게 해 준다.",
+          "hi": "यह दिन समझने में मदद करता है कि एक छोटे देश की भौगोलिक स्थिति ने पूरे युद्ध की दिशा कैसे बदली।",
+          "ar": "يساعد هذا اليوم على فهم كيف أثرت جغرافيا بلد صغير في مسار الحرب كلها."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "«Клочок бумаги»",
           "de": "Ein Fetzen Papier",
-          "en": "A scrap of paper"
+          "en": "A scrap of paper",
+          "fr": "Un bout de papier",
+          "es": "Un trozo de papel",
+          "it": "Un pezzo di carta",
+          "pt": "Um pedaço de papel",
+          "nl": "Een vodje papier",
+          "pl": "Świstek papieru",
+          "tr": "Bir kağıt parçası",
+          "zh": "一张废纸",
+          "ja": "一片の紙切れ",
+          "ko": "종이 한 조각",
+          "hi": "कागज का एक टुकड़ा",
+          "ar": "قصاصة ورق"
         },
         "description": {
           "ru": "Выражение о договоре как о «клочке бумаги» стало символом того, как опасно недооценивать международные обязательства. В британской пропаганде эта фраза быстро стала очень известной.",
           "de": "Die Formulierung vom Vertrag als Fetzen Papier wurde zum Symbol dafuer, wie gefaehrlich es ist, internationale Verpflichtungen zu unterschaetzen. In der britischen Propaganda wurde der Satz schnell beruehmt.",
-          "en": "The phrase about a treaty as a scrap of paper became a symbol of the danger of underestimating international obligations. British propaganda quickly made it famous."
+          "en": "The phrase about a treaty as a scrap of paper became a symbol of the danger of underestimating international obligations. British propaganda quickly made it famous.",
+          "fr": "L'expression présentant un traité comme un bout de papier devint le symbole du danger qu'il y a à sous-estimer les obligations internationales. La propagande britannique la rendit rapidement célèbre.",
+          "es": "La frase sobre un tratado como un trozo de papel se convirtió en símbolo del peligro de subestimar las obligaciones internacionales. La propaganda británica la hizo famosa rápidamente.",
+          "it": "La frase sul trattato come un pezzo di carta divenne simbolo del pericolo di sottovalutare gli obblighi internazionali. La propaganda britannica la rese rapidamente famosa.",
+          "pt": "A frase sobre um tratado como um pedaço de papel tornou-se símbolo do perigo de subestimar obrigações internacionais. A propaganda britânica logo a tornou famosa.",
+          "nl": "De uitdrukking over een verdrag als een vodje papier werd een symbool van het gevaar van het onderschatten van internationale verplichtingen. Britse propaganda maakte de zin snel beroemd.",
+          "pl": "Określenie traktatu jako świstka papieru stało się symbolem niebezpieczeństwa lekceważenia zobowiązań międzynarodowych. Brytyjska propaganda szybko rozsławiła tę frazę.",
+          "tr": "Bir antlaşmayı kağıt parçası olarak gören ifade, uluslararası yükümlülükleri küçümsemenin tehlikesinin sembolü oldu. İngiliz propagandası bu sözü hızla ünlü hale getirdi.",
+          "zh": "把条约称作一张废纸的说法，成为低估国际义务危险性的象征。英国宣传很快使这句话广为人知。",
+          "ja": "条約を紙切れとする表現は、国際的義務を軽視する危険の象徴となった。イギリスのプロパガンダによって、この言葉はすぐに有名になった。",
+          "ko": "조약을 종이 한 조각으로 보는 표현은 국제적 의무를 과소평가하는 위험의 상징이 되었다. 영국의 선전은 이 말을 빠르게 유명하게 만들었다.",
+          "hi": "संधि को कागज का टुकड़ा बताने वाला वाक्य अंतरराष्ट्रीय दायित्वों को कम आंकने के खतरे का प्रतीक बन गया। ब्रिटिश प्रचार ने इसे जल्दी ही प्रसिद्ध कर दिया।",
+          "ar": "أصبحت العبارة التي تصف المعاهدة بأنها قصاصة ورق رمزا لخطر التقليل من شأن الالتزامات الدولية. وجعلتها الدعاية البريطانية مشهورة بسرعة."
         },
         "importance": {
           "ru": "Одна фраза иногда запоминается сильнее, чем длинные дипломатические документы.",
           "de": "Manchmal bleibt ein einzelner Satz staerker im Gedaechtnis als lange diplomatische Dokumente.",
-          "en": "Sometimes a single phrase is remembered more strongly than long diplomatic documents."
+          "en": "Sometimes a single phrase is remembered more strongly than long diplomatic documents.",
+          "fr": "Parfois, une seule phrase reste plus fortement en mémoire que de longs documents diplomatiques.",
+          "es": "A veces una sola frase se recuerda más que largos documentos diplomáticos.",
+          "it": "A volte una sola frase resta più impressa di lunghi documenti diplomatici.",
+          "pt": "Às vezes uma única frase é lembrada com mais força do que longos documentos diplomáticos.",
+          "nl": "Soms blijft één zin sterker hangen dan lange diplomatieke documenten.",
+          "pl": "Czasem jedno zdanie zapada w pamięć mocniej niż długie dokumenty dyplomatyczne.",
+          "tr": "Bazen tek bir cümle, uzun diplomatik belgelerden daha güçlü hatırlanır.",
+          "zh": "有时一句话比冗长的外交文件更令人难忘。",
+          "ja": "長い外交文書より、一つの言葉のほうが強く記憶に残ることがある。",
+          "ko": "때로는 긴 외교 문서보다 한 문장이 더 강하게 기억된다.",
+          "hi": "कभी-कभी एक वाक्य लंबे कूटनीतिक दस्तावेजों से भी अधिक याद रह जाता है।",
+          "ar": "أحيانا تبقى عبارة واحدة في الذاكرة أقوى من وثائق دبلوماسية طويلة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Бельгийское сопротивление у Льежа задержало немецкое наступление и стало важным сюжетом первых недель войны.",
     "de": "Der belgische Widerstand bei Luettich verzoegerte den deutschen Vormarsch und wurde zu einem wichtigen Thema der ersten Kriegswochen.",
-    "en": "Belgian resistance at Liege delayed the German advance and became an important story of the war's first weeks."
+    "en": "Belgian resistance at Liege delayed the German advance and became an important story of the war's first weeks.",
+    "fr": "La résistance belge à Liège retarda l'avance allemande et devint un sujet important des premières semaines de la guerre.",
+    "es": "La resistencia belga en Lieja retrasó el avance alemán y se convirtió en un tema importante de las primeras semanas de la guerra.",
+    "it": "La resistenza belga a Liegi ritardò l'avanzata tedesca e divenne un tema importante delle prime settimane di guerra.",
+    "pt": "A resistência belga em Liège atrasou o avanço alemão e tornou-se um tema importante das primeiras semanas da guerra.",
+    "nl": "Het Belgische verzet bij Luik vertraagde de Duitse opmars en werd een belangrijk verhaal in de eerste weken van de oorlog.",
+    "pl": "Belgijski opór pod Liège opóźnił niemieckie natarcie i stał się ważnym tematem pierwszych tygodni wojny.",
+    "tr": "Liege'deki Belçika direnişi Alman ilerleyişini geciktirdi ve savaşın ilk haftalarının önemli konularından biri oldu.",
+    "zh": "比利时在列日的抵抗延缓了德军推进，并成为战争最初几周的重要事件。",
+    "ja": "リエージュでのベルギーの抵抗はドイツ軍の進撃を遅らせ、戦争初期数週間の重要な出来事となった。",
+    "ko": "리에주에서의 벨기에 저항은 독일군의 진격을 지연시켰고 전쟁 첫 주들의 중요한 이야기로 떠올랐다.",
+    "hi": "लीज में बेल्जियम के प्रतिरोध ने जर्मन आगे बढ़ने की गति रोक दी और युद्ध के शुरुआती हफ्तों की महत्वपूर्ण घटना बन गया।",
+    "ar": "أخرت المقاومة البلجيكية في لييج التقدم الألماني وأصبحت قصة مهمة في الأسابيع الأولى من الحرب."
   },
   "sources": [
     {
