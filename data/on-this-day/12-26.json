@@ -11,17 +11,53 @@
     "title": {
       "ru": "Впервые вышла Tagesschau",
       "de": "Die Tagesschau wird erstmals gesendet",
-      "en": "Tagesschau is broadcast for the first time"
+      "en": "Tagesschau is broadcast for the first time",
+      "fr": "Tagesschau est diffusee pour la premiere fois",
+      "es": "Tagesschau se emite por primera vez",
+      "it": "Tagesschau va in onda per la prima volta",
+      "pt": "Tagesschau e transmitido pela primeira vez",
+      "nl": "Tagesschau wordt voor het eerst uitgezonden",
+      "pl": "Tagesschau zostaje nadana po raz pierwszy",
+      "tr": "Tagesschau ilk kez yayinlaniyor",
+      "zh": "Tagesschau首次播出",
+      "ja": "Tagesschauが初めて放送される",
+      "ko": "Tagesschau가 처음 방송되다",
+      "hi": "Tagesschau पहली बार प्रसारित हुआ",
+      "ar": "بث Tagesschau للمرة الأولى"
     },
     "description": {
       "ru": "26 декабря 1952 года в ФРГ впервые вышла телевизионная новостная программа Tagesschau. Она стала одним из самых узнаваемых форматов немецкого телевидения.",
       "de": "Am 26. Dezember 1952 wurde in der Bundesrepublik erstmals die Fernsehnachrichtensendung Tagesschau ausgestrahlt. Sie wurde zu einem der bekanntesten Formate des deutschen Fernsehens.",
-      "en": "On 26 December 1952, the television news program Tagesschau was broadcast for the first time in West Germany. It became one of the most recognizable formats on German television."
+      "en": "On 26 December 1952, the television news program Tagesschau was broadcast for the first time in West Germany. It became one of the most recognizable formats on German television.",
+      "fr": "Le 26 decembre 1952, le journal televise Tagesschau fut diffuse pour la premiere fois en RFA. Il devint l'un des formats les plus reconnaissables de la television allemande.",
+      "es": "El 26 de diciembre de 1952, el programa televisivo de noticias Tagesschau se emitio por primera vez en Alemania Occidental. Se convirtio en uno de los formatos mas reconocibles de la television alemana.",
+      "it": "Il 26 dicembre 1952 il telegiornale Tagesschau fu trasmesso per la prima volta nella Germania Ovest. Divenne uno dei formati piu riconoscibili della televisione tedesca.",
+      "pt": "Em 26 de dezembro de 1952, o telejornal Tagesschau foi transmitido pela primeira vez na Alemanha Ocidental. Tornou-se um dos formatos mais reconheciveis da televisao alema.",
+      "nl": "Op 26 december 1952 werd het televisienieuwsprogramma Tagesschau voor het eerst in West-Duitsland uitgezonden. Het werd een van de herkenbaarste formats op de Duitse televisie.",
+      "pl": "26 grudnia 1952 roku w RFN po raz pierwszy nadano telewizyjny program informacyjny Tagesschau. Stal sie on jednym z najbardziej rozpoznawalnych formatow niemieckiej telewizji.",
+      "tr": "26 Aralik 1952'de televizyon haber programi Tagesschau Bati Almanya'da ilk kez yayinlandi. Alman televizyonunun en taninan formatlarindan biri oldu.",
+      "zh": "1952年12月26日，电视新闻节目Tagesschau在西德首次播出。它成为德国电视最容易识别的节目形式之一。",
+      "ja": "1952年12月26日、テレビニュース番組Tagesschauが西ドイツで初めて放送されました。それはドイツのテレビで最もよく知られた形式の一つとなりました。",
+      "ko": "1952년 12월 26일 텔레비전 뉴스 프로그램 Tagesschau가 서독에서 처음 방송되었다. 이 프로그램은 독일 텔레비전에서 가장 알아보기 쉬운 형식 중 하나가 되었다.",
+      "hi": "26 दिसंबर 1952 को पश्चिम जर्मनी में टेलीविजन समाचार कार्यक्रम Tagesschau पहली बार प्रसारित हुआ। यह जर्मन टेलीविजन के सबसे पहचाने जाने वाले प्रारूपों में से एक बन गया।",
+      "ar": "في 26 ديسمبر 1952 بُث برنامج الأخبار التلفزيوني Tagesschau للمرة الأولى في ألمانيا الغربية. وأصبح من أكثر صيغ التلفزيون الألماني شهرة."
     },
     "importance": {
       "ru": "Дата показывает, как телевидение стало частью повседневной политической культуры.",
       "de": "Das Datum zeigt, wie Fernsehen Teil der politischen Alltagskultur wurde.",
-      "en": "The date shows how television became part of everyday political culture."
+      "en": "The date shows how television became part of everyday political culture.",
+      "fr": "Cette date montre comment la television est devenue une part de la culture politique quotidienne.",
+      "es": "La fecha muestra como la television se convirtio en parte de la cultura politica cotidiana.",
+      "it": "La data mostra come la televisione divenne parte della cultura politica quotidiana.",
+      "pt": "A data mostra como a televisao se tornou parte da cultura politica cotidiana.",
+      "nl": "De datum laat zien hoe televisie deel werd van de dagelijkse politieke cultuur.",
+      "pl": "Ta data pokazuje, jak telewizja stala sie czescia codziennej kultury politycznej.",
+      "tr": "Bu tarih, televizyonun gunluk siyasi kulturun bir parcasi haline nasil geldigini gosterir.",
+      "zh": "这个日期显示电视如何成为日常政治文化的一部分。",
+      "ja": "この日は、テレビが日常的な政治文化の一部になったことを示しています。",
+      "ko": "이 날짜는 텔레비전이 일상적 정치 문화의 일부가 되었음을 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि टेलीविजन रोजमर्रा की राजनीतिक संस्कृति का हिस्सा कैसे बना।",
+      "ar": "يوضح هذا التاريخ كيف أصبح التلفزيون جزءا من الثقافة السياسية اليومية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Новостной ритуал",
           "de": "Ein Nachrichtenritual",
-          "en": "A news ritual"
+          "en": "A news ritual",
+          "fr": "Un rituel d'information",
+          "es": "Un ritual informativo",
+          "it": "Un rito delle notizie",
+          "pt": "Um ritual de noticias",
+          "nl": "Een nieuwsritueel",
+          "pl": "Rytual informacyjny",
+          "tr": "Bir haber ritueli",
+          "zh": "新闻仪式",
+          "ja": "ニュースの儀式",
+          "ko": "뉴스 의식",
+          "hi": "समाचार का रोजमर्रा का रिवाज",
+          "ar": "طقس إخباري"
         },
         "description": {
           "ru": "Для многих зрителей вечерняя Tagesschau стала привычным способом узнавать новости. Её заставка и стиль узнаются поколениями.",
           "de": "Fuer viele Zuschauer wurde die abendliche Tagesschau zur gewohnten Art, Nachrichten zu erfahren. Vorspann und Stil sind ueber Generationen wiedererkennbar.",
-          "en": "For many viewers, the evening Tagesschau became a familiar way to get the news. Its opening and style are recognized across generations."
+          "en": "For many viewers, the evening Tagesschau became a familiar way to get the news. Its opening and style are recognized across generations.",
+          "fr": "Pour de nombreux telespectateurs, la Tagesschau du soir devint une maniere familiere de s'informer. Son generique et son style sont reconnus par plusieurs generations.",
+          "es": "Para muchos espectadores, la Tagesschau de la tarde se convirtio en una forma habitual de informarse. Su apertura y estilo son reconocidos por generaciones.",
+          "it": "Per molti spettatori, la Tagesschau serale divenne un modo familiare per ricevere le notizie. La sua sigla e il suo stile sono riconosciuti da generazioni.",
+          "pt": "Para muitos espectadores, a Tagesschau da noite tornou-se uma forma familiar de acompanhar as noticias. Sua abertura e estilo sao reconhecidos por geracoes.",
+          "nl": "Voor veel kijkers werd de avondlijke Tagesschau een vertrouwde manier om het nieuws te volgen. De opening en stijl zijn over generaties heen herkenbaar.",
+          "pl": "Dla wielu widzow wieczorna Tagesschau stala sie znanym sposobem poznawania wiadomosci. Jej czolowka i styl sa rozpoznawalne przez pokolenia.",
+          "tr": "Bircok izleyici icin aksam Tagesschau'su haberleri ogrenmenin alisilmis yolu oldu. Acilisi ve tarzi kusaklar boyunca taninir.",
+          "zh": "对许多观众来说，晚间Tagesschau成为获取新闻的熟悉方式。它的片头和风格被几代人认出。",
+          "ja": "多くの視聴者にとって、夜のTagesschauはニュースを知る身近な方法になりました。そのオープニングとスタイルは世代を超えて知られています。",
+          "ko": "많은 시청자에게 저녁 Tagesschau는 뉴스를 접하는 익숙한 방식이 되었다. 그 오프닝과 스타일은 여러 세대에 걸쳐 알아볼 수 있다.",
+          "hi": "कई दर्शकों के लिए शाम की Tagesschau समाचार जानने का परिचित तरीका बन गई। उसकी शुरुआत और शैली पीढ़ियों तक पहचानी जाती है।",
+          "ar": "بالنسبة إلى كثير من المشاهدين أصبحت Tagesschau المسائية طريقة مألوفة لمعرفة الأخبار. وتعرف أجيال متعددة مقدمتها وأسلوبها."
         },
         "importance": {
           "ru": "История медиа тоже часть истории Германии.",
           "de": "Mediengeschichte ist auch Teil der deutschen Geschichte.",
-          "en": "Media history is also part of German history."
+          "en": "Media history is also part of German history.",
+          "fr": "L'histoire des medias fait aussi partie de l'histoire allemande.",
+          "es": "La historia de los medios tambien forma parte de la historia alemana.",
+          "it": "La storia dei media e anche parte della storia tedesca.",
+          "pt": "A historia da midia tambem faz parte da historia alema.",
+          "nl": "Mediageschiedenis is ook deel van de Duitse geschiedenis.",
+          "pl": "Historia mediow jest takze czescia historii Niemiec.",
+          "tr": "Medya tarihi de Alman tarihinin bir parcasidir.",
+          "zh": "媒体史也是德国历史的一部分。",
+          "ja": "メディア史もドイツ史の一部です。",
+          "ko": "미디어 역사도 독일 역사의 일부이다.",
+          "hi": "मीडिया का इतिहास भी जर्मन इतिहास का हिस्सा है।",
+          "ar": "تاريخ الإعلام جزء من التاريخ الألماني أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Tagesschau выходит до сих пор и остаётся одним из важных немецких новостных брендов.",
     "de": "Die Tagesschau wird bis heute gesendet und bleibt eine wichtige deutsche Nachrichtenmarke.",
-    "en": "Tagesschau is still broadcast and remains an important German news brand."
+    "en": "Tagesschau is still broadcast and remains an important German news brand.",
+    "fr": "Tagesschau est encore diffusee aujourd'hui et reste une importante marque allemande d'information.",
+    "es": "Tagesschau sigue emitiendose y sigue siendo una importante marca alemana de noticias.",
+    "it": "Tagesschau va ancora in onda e resta un importante marchio tedesco dell'informazione.",
+    "pt": "Tagesschau ainda e transmitido e continua sendo uma importante marca alema de noticias.",
+    "nl": "Tagesschau wordt nog steeds uitgezonden en blijft een belangrijk Duits nieuwsmerk.",
+    "pl": "Tagesschau nadal jest nadawana i pozostaje wazna niemiecka marka informacyjna.",
+    "tr": "Tagesschau hala yayinlanir ve onemli bir Alman haber markasi olmaya devam eder.",
+    "zh": "Tagesschau至今仍在播出，并仍是德国重要的新闻品牌。",
+    "ja": "Tagesschauは現在も放送されており、ドイツの重要なニュースブランドであり続けています。",
+    "ko": "Tagesschau는 지금도 방송되며 중요한 독일 뉴스 브랜드로 남아 있다.",
+    "hi": "Tagesschau आज भी प्रसारित होता है और एक महत्वपूर्ण जर्मन समाचार ब्रांड बना हुआ है।",
+    "ar": "ما زال Tagesschau يبث حتى اليوم ويبقى علامة إخبارية ألمانية مهمة."
   },
   "sources": [
     {

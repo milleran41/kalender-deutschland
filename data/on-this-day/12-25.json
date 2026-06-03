@@ -11,17 +11,53 @@
     "title": {
       "ru": "Карл Великий был коронован императором",
       "de": "Karl der Grosse wird zum Kaiser gekroent",
-      "en": "Charlemagne is crowned emperor"
+      "en": "Charlemagne is crowned emperor",
+      "fr": "Charlemagne est couronne empereur",
+      "es": "Carlomagno es coronado emperador",
+      "it": "Carlo Magno viene incoronato imperatore",
+      "pt": "Carlos Magno e coroado imperador",
+      "nl": "Karel de Grote wordt tot keizer gekroond",
+      "pl": "Karol Wielki zostaje koronowany na cesarza",
+      "tr": "Sarlman imparator olarak tac giyiyor",
+      "zh": "查理曼被加冕为皇帝",
+      "ja": "カール大帝が皇帝に戴冠する",
+      "ko": "샤를마뉴가 황제로 대관되다",
+      "hi": "शार्लमेन को सम्राट का ताज पहनाया गया",
+      "ar": "تتويج شارلمان إمبراطورا"
     },
     "description": {
       "ru": "25 декабря 800 года папа Лев III короновал Карла Великого императором в Риме. Это событие стало важной вехой для средневековой Европы и будущей истории Священной Римской империи.",
       "de": "Am 25. Dezember 800 kroente Papst Leo III. Karl den Grossen in Rom zum Kaiser. Dieses Ereignis wurde zu einem wichtigen Wendepunkt fuer das mittelalterliche Europa und die spaetere Geschichte des Heiligen Roemischen Reiches.",
-      "en": "On 25 December 800, Pope Leo III crowned Charlemagne emperor in Rome. The event became a major landmark for medieval Europe and the later history of the Holy Roman Empire."
+      "en": "On 25 December 800, Pope Leo III crowned Charlemagne emperor in Rome. The event became a major landmark for medieval Europe and the later history of the Holy Roman Empire.",
+      "fr": "Le 25 decembre 800, le pape Leon III couronna Charlemagne empereur a Rome. L'evenement devint un repere majeur pour l'Europe medievale et pour l'histoire ulterieure du Saint-Empire romain.",
+      "es": "El 25 de diciembre del ano 800, el papa Leon III corono emperador a Carlomagno en Roma. El acontecimiento se convirtio en un hito importante para la Europa medieval y la historia posterior del Sacro Imperio Romano.",
+      "it": "Il 25 dicembre 800 papa Leone III incorono Carlo Magno imperatore a Roma. L'evento divenne una tappa fondamentale per l'Europa medievale e per la storia successiva del Sacro Romano Impero.",
+      "pt": "Em 25 de dezembro de 800, o papa Leao III coroou Carlos Magno imperador em Roma. O acontecimento tornou-se um marco importante para a Europa medieval e para a historia posterior do Sacro Imperio Romano.",
+      "nl": "Op 25 december 800 kroonde paus Leo III Karel de Grote in Rome tot keizer. De gebeurtenis werd een belangrijk ijkpunt voor middeleeuws Europa en de latere geschiedenis van het Heilige Roomse Rijk.",
+      "pl": "25 grudnia 800 roku papiez Leon III koronowal Karola Wielkiego w Rzymie na cesarza. Wydarzenie stalo sie waznym punktem dla sredniowiecznej Europy i pozniejszej historii Swietego Cesarstwa Rzymskiego.",
+      "tr": "25 Aralik 800'de Papa III. Leo, Sarlman'i Roma'da imparator olarak taclandirdi. Bu olay Orta Cag Avrupasi ve sonraki Kutsal Roma Imparatorlugu tarihi icin onemli bir donum noktasi oldu.",
+      "zh": "800年12月25日，教皇利奥三世在罗马为查理曼加冕为皇帝。该事件成为中世纪欧洲和后来神圣罗马帝国历史的重要里程碑。",
+      "ja": "800年12月25日、教皇レオ3世はローマでカール大帝を皇帝に戴冠しました。この出来事は中世ヨーロッパと後の神聖ローマ帝国の歴史にとって大きな節目となりました。",
+      "ko": "800년 12월 25일 교황 레오 3세는 로마에서 샤를마뉴를 황제로 대관했다. 이 사건은 중세 유럽과 이후 신성 로마 제국 역사에서 중요한 이정표가 되었다.",
+      "hi": "25 दिसंबर 800 को पोप लियो तृतीय ने रोम में शार्लमेन को सम्राट का ताज पहनाया। यह घटना मध्ययुगीन यूरोप और बाद के पवित्र रोमन साम्राज्य के इतिहास के लिए बड़ा मोड़ बनी।",
+      "ar": "في 25 ديسمبر عام 800 توج البابا ليو الثالث شارلمان إمبراطورا في روما. وأصبح الحدث معلما كبيرا لأوروبا في العصور الوسطى وللتاريخ اللاحق للإمبراطورية الرومانية المقدسة."
     },
     "importance": {
       "ru": "Коронация связала наследие Рима, власть франков и будущую политическую традицию германских земель.",
       "de": "Die Kroenung verband das Erbe Roms, die Macht der Franken und die spaetere politische Tradition der deutschen Laender.",
-      "en": "The coronation linked the legacy of Rome, Frankish power and the later political tradition of the German lands."
+      "en": "The coronation linked the legacy of Rome, Frankish power and the later political tradition of the German lands.",
+      "fr": "Le couronnement lia l'heritage de Rome, la puissance franque et la tradition politique ulterieure des terres allemandes.",
+      "es": "La coronacion unio el legado de Roma, el poder franco y la tradicion politica posterior de las tierras alemanas.",
+      "it": "L'incoronazione collego l'eredita di Roma, il potere franco e la successiva tradizione politica delle terre tedesche.",
+      "pt": "A coroacao ligou o legado de Roma, o poder franco e a tradicao politica posterior das terras alemas.",
+      "nl": "De kroning verbond de erfenis van Rome, Frankische macht en de latere politieke traditie van de Duitse landen.",
+      "pl": "Koronacja polaczyla dziedzictwo Rzymu, potege Frankow i pozniejsza tradycje polityczna ziem niemieckich.",
+      "tr": "Tac giyme, Roma mirasini, Frank gucunu ve Alman topraklarinin sonraki siyasi gelenegini birbirine bagladi.",
+      "zh": "这次加冕把罗马遗产、法兰克权力和德意志地区后来的政治传统联系起来。",
+      "ja": "この戴冠は、ローマの遺産、フランクの権力、そして後のドイツ諸地域の政治的伝統を結びつけました。",
+      "ko": "이 대관은 로마의 유산, 프랑크의 권력, 그리고 이후 독일 지역의 정치 전통을 연결했다.",
+      "hi": "इस राज्याभिषेक ने रोम की विरासत, फ्रैंकों की शक्ति और जर्मन क्षेत्रों की बाद की राजनीतिक परंपरा को जोड़ा।",
+      "ar": "ربط التتويج بين إرث روما وقوة الفرنجة والتقليد السياسي اللاحق للأراضي الألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Один из истоков Священной Римской империи",
           "de": "Eine Wurzel des Heiligen Roemischen Reiches",
-          "en": "One root of the Holy Roman Empire"
+          "en": "One root of the Holy Roman Empire",
+          "fr": "Une racine du Saint-Empire romain",
+          "es": "Una raiz del Sacro Imperio Romano",
+          "it": "Una radice del Sacro Romano Impero",
+          "pt": "Uma raiz do Sacro Imperio Romano",
+          "nl": "Een wortel van het Heilige Roomse Rijk",
+          "pl": "Jeden z korzeni Swietego Cesarstwa Rzymskiego",
+          "tr": "Kutsal Roma Imparatorlugu'nun koklerinden biri",
+          "zh": "神圣罗马帝国的一个根源",
+          "ja": "神聖ローマ帝国の一つの根",
+          "ko": "신성 로마 제국의 한 뿌리",
+          "hi": "पवित्र रोमन साम्राज्य की एक जड़",
+          "ar": "أحد جذور الإمبراطورية الرومانية المقدسة"
         },
         "description": {
           "ru": "Империя Карла Великого не была современной Германией, но её наследие стало важным для правителей Восточно-Франкского королевства и будущей имперской традиции. Поэтому дату часто связывают с ранней историей Центральной Европы.",
           "de": "Das Reich Karls des Grossen war kein modernes Deutschland, doch sein Erbe wurde wichtig fuer die Herrscher des Ostfraenkischen Reiches und die spaetere Kaisertradition. Deshalb wird das Datum oft mit der fruehen Geschichte Mitteleuropas verbunden.",
-          "en": "Charlemagne's empire was not modern Germany, but its legacy became important for the rulers of East Francia and the later imperial tradition. That is why the date is often linked to the early history of Central Europe."
+          "en": "Charlemagne's empire was not modern Germany, but its legacy became important for the rulers of East Francia and the later imperial tradition. That is why the date is often linked to the early history of Central Europe.",
+          "fr": "L'empire de Charlemagne n'etait pas l'Allemagne moderne, mais son heritage devint important pour les souverains de Francie orientale et pour la tradition imperiale ulterieure. C'est pourquoi cette date est souvent liee aux debuts de l'histoire de l'Europe centrale.",
+          "es": "El imperio de Carlomagno no era la Alemania moderna, pero su legado fue importante para los gobernantes de Francia Oriental y la tradicion imperial posterior. Por eso la fecha suele vincularse con la historia temprana de Europa Central.",
+          "it": "L'impero di Carlo Magno non era la Germania moderna, ma la sua eredita divenne importante per i sovrani della Francia orientale e per la successiva tradizione imperiale. Per questo la data e spesso collegata alla prima storia dell'Europa centrale.",
+          "pt": "O imperio de Carlos Magno nao era a Alemanha moderna, mas seu legado tornou-se importante para os governantes da Franca Oriental e para a tradicao imperial posterior. Por isso a data e frequentemente ligada a historia inicial da Europa Central.",
+          "nl": "Het rijk van Karel de Grote was geen modern Duitsland, maar zijn erfenis werd belangrijk voor de heersers van Oost-Francie en de latere keizerlijke traditie. Daarom wordt de datum vaak verbonden met de vroege geschiedenis van Midden-Europa.",
+          "pl": "Imperium Karola Wielkiego nie bylo wspolczesnymi Niemcami, ale jego dziedzictwo stalo sie wazne dla wladcow Francji Wschodniej i pozniejszej tradycji cesarskiej. Dlatego date czesto laczy sie z wczesna historia Europy Srodkowej.",
+          "tr": "Sarlman'in imparatorlugu modern Almanya degildi, ancak mirasi Dogu Frank krallari ve sonraki imparatorluk gelenegi icin onemli oldu. Bu yuzden tarih sikca Orta Avrupa'nin erken tarihiyle iliskilendirilir.",
+          "zh": "查理曼的帝国并不是现代德国，但它的遗产对东法兰克统治者和后来的帝国传统很重要。因此，这个日期常与中欧早期历史相联系。",
+          "ja": "カール大帝の帝国は現代のドイツではありませんでしたが、その遺産は東フランク王国の支配者と後の帝国伝統にとって重要になりました。そのため、この日付は中央ヨーロッパの初期史とよく結びつけられます。",
+          "ko": "샤를마뉴의 제국은 현대 독일이 아니었지만, 그 유산은 동프랑크 왕국의 통치자들과 이후 제국 전통에 중요해졌다. 그래서 이 날짜는 중부 유럽의 초기 역사와 자주 연결된다.",
+          "hi": "शार्लमेन का साम्राज्य आधुनिक जर्मनी नहीं था, लेकिन उसकी विरासत पूर्वी फ्रैंसिया के शासकों और बाद की साम्राज्य परंपरा के लिए महत्वपूर्ण बनी। इसलिए यह तारीख अक्सर मध्य यूरोप के आरंभिक इतिहास से जुड़ी जाती है।",
+          "ar": "لم تكن إمبراطورية شارلمان ألمانيا الحديثة، لكن إرثها أصبح مهما لحكام فرنسا الشرقية وللتقليد الإمبراطوري اللاحق. لذلك يرتبط هذا التاريخ غالبا بالتاريخ المبكر لأوروبا الوسطى."
         },
         "importance": {
           "ru": "Так понятнее, почему средневековая история Германии начинается задолго до появления немецкого национального государства.",
           "de": "So wird verstaendlicher, warum die mittelalterliche Geschichte Deutschlands lange vor dem modernen Nationalstaat beginnt.",
-          "en": "This makes it clearer why medieval German history begins long before the modern nation-state."
+          "en": "This makes it clearer why medieval German history begins long before the modern nation-state.",
+          "fr": "Cela aide a comprendre pourquoi l'histoire medievale allemande commence bien avant l'Etat-nation moderne.",
+          "es": "Esto aclara por que la historia medieval alemana comienza mucho antes del Estado nacional moderno.",
+          "it": "Questo rende piu chiaro perche la storia medievale tedesca inizi molto prima dello Stato nazionale moderno.",
+          "pt": "Isso deixa mais claro por que a historia medieval alema comeca muito antes do Estado nacional moderno.",
+          "nl": "Dit maakt duidelijker waarom de middeleeuwse Duitse geschiedenis lang voor de moderne natiestaat begint.",
+          "pl": "To wyjasnia, dlaczego sredniowieczna historia Niemiec zaczyna sie dlugo przed nowoczesnym panstwem narodowym.",
+          "tr": "Bu, Orta Cag Alman tarihinin modern ulus devletten cok once neden basladigini daha anlasilir kilar.",
+          "zh": "这使人更清楚，为什么德国中世纪史早在现代民族国家出现之前就已开始。",
+          "ja": "これにより、中世ドイツ史が近代国民国家よりずっと前に始まる理由がより分かりやすくなります。",
+          "ko": "이는 중세 독일사가 현대 국민국가보다 훨씬 이전에 시작되는 이유를 더 분명하게 해 준다.",
+          "hi": "इससे स्पष्ट होता है कि मध्ययुगीन जर्मन इतिहास आधुनिक राष्ट्र-राज्य से बहुत पहले क्यों शुरू होता है।",
+          "ar": "يوضح ذلك لماذا يبدأ تاريخ ألمانيا في العصور الوسطى قبل الدولة القومية الحديثة بزمن طويل."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Каролингское возрождение",
           "de": "Karolingische Renaissance",
-          "en": "Carolingian Renaissance"
+          "en": "Carolingian Renaissance",
+          "fr": "Renaissance carolingienne",
+          "es": "Renacimiento carolingio",
+          "it": "Rinascenza carolingia",
+          "pt": "Renascimento carolingio",
+          "nl": "Karolingische renaissance",
+          "pl": "Renesans karolinski",
+          "tr": "Karolenj Ronesansi",
+          "zh": "加洛林文艺复兴",
+          "ja": "カロリング・ルネサンス",
+          "ko": "카롤링거 르네상스",
+          "hi": "कैरोलिंजियन पुनर्जागरण",
+          "ar": "النهضة الكارولنجية"
         },
         "description": {
           "ru": "При Карле Великом развивались школы, переписывание рукописей и единая письменная культура. Это помогло сохранить и передать многие античные и христианские тексты.",
           "de": "Unter Karl dem Grossen entwickelten sich Schulen, Handschriftenproduktion und eine einheitlichere Schriftkultur. Das half, viele antike und christliche Texte zu bewahren und weiterzugeben.",
-          "en": "Under Charlemagne, schools, manuscript copying and a more unified written culture developed. This helped preserve and transmit many classical and Christian texts."
+          "en": "Under Charlemagne, schools, manuscript copying and a more unified written culture developed. This helped preserve and transmit many classical and Christian texts.",
+          "fr": "Sous Charlemagne se developperent les ecoles, la copie de manuscrits et une culture ecrite plus unifiee. Cela aida a conserver et transmettre de nombreux textes antiques et chretiens.",
+          "es": "Bajo Carlomagno se desarrollaron escuelas, copia de manuscritos y una cultura escrita mas unificada. Esto ayudo a conservar y transmitir muchos textos clasicos y cristianos.",
+          "it": "Sotto Carlo Magno si svilupparono scuole, copiatura di manoscritti e una cultura scritta piu uniforme. Questo aiuto a conservare e trasmettere molti testi classici e cristiani.",
+          "pt": "Sob Carlos Magno desenvolveram-se escolas, copia de manuscritos e uma cultura escrita mais unificada. Isso ajudou a preservar e transmitir muitos textos classicos e cristaos.",
+          "nl": "Onder Karel de Grote ontwikkelden zich scholen, handschriftenproductie en een meer uniforme schrijfcultuur. Dit hielp veel klassieke en christelijke teksten te bewaren en door te geven.",
+          "pl": "Za Karola Wielkiego rozwijaly sie szkoly, przepisywanie rekopisow i bardziej jednolita kultura pisma. Pomoglo to zachowac i przekazac wiele tekstow antycznych i chrzescijanskich.",
+          "tr": "Sarlman doneminde okullar, el yazmasi kopyalama ve daha birlikli bir yazili kultur gelisti. Bu, bircok klasik ve Hristiyan metnin korunmasina ve aktarilmasina yardim etti.",
+          "zh": "在查理曼统治下，学校、手稿抄写和更统一的书写文化得到发展。这帮助保存并传承了许多古典和基督教文本。",
+          "ja": "カール大帝のもとで、学校、写本の書写、より統一された文字文化が発展しました。これにより、多くの古典文献とキリスト教文献が保存され伝えられました。",
+          "ko": "샤를마뉴 시대에는 학교, 필사본 복사, 더 통일된 문자 문화가 발전했다. 이는 많은 고전 및 기독교 문헌을 보존하고 전하는 데 도움이 되었다.",
+          "hi": "शार्लमेन के समय स्कूल, पांडुलिपि नकल और अधिक एकीकृत लिखित संस्कृति विकसित हुई। इससे कई प्राचीन और ईसाई ग्रंथों को सुरक्षित रखने और आगे पहुंचाने में मदद मिली।",
+          "ar": "في عهد شارلمان تطورت المدارس ونسخ المخطوطات وثقافة كتابية أكثر توحدا. وساعد ذلك على حفظ ونقل كثير من النصوص الكلاسيكية والمسيحية."
         },
         "importance": {
           "ru": "Событие важно не только политически: оно связано и с историей образования в Европе.",
           "de": "Das Ereignis ist nicht nur politisch wichtig, sondern auch mit der Bildungsgeschichte Europas verbunden.",
-          "en": "The event matters not only politically, but also for the history of education in Europe."
+          "en": "The event matters not only politically, but also for the history of education in Europe.",
+          "fr": "L'evenement est important non seulement politiquement, mais aussi pour l'histoire de l'education en Europe.",
+          "es": "El acontecimiento importa no solo politicamente, sino tambien para la historia de la educacion en Europa.",
+          "it": "L'evento e importante non solo politicamente, ma anche per la storia dell'istruzione in Europa.",
+          "pt": "O acontecimento e importante nao apenas politicamente, mas tambem para a historia da educacao na Europa.",
+          "nl": "De gebeurtenis is niet alleen politiek belangrijk, maar ook voor de geschiedenis van onderwijs in Europa.",
+          "pl": "Wydarzenie jest wazne nie tylko politycznie, ale takze dla historii edukacji w Europie.",
+          "tr": "Olay yalnizca siyasi acidan degil, Avrupa'da egitim tarihi acisindan da onemlidir.",
+          "zh": "这个事件不仅在政治上重要，也与欧洲教育史有关。",
+          "ja": "この出来事は政治的に重要なだけでなく、ヨーロッパの教育史にも関わっています。",
+          "ko": "이 사건은 정치적으로만이 아니라 유럽 교육사에서도 중요하다.",
+          "hi": "यह घटना केवल राजनीतिक रूप से नहीं, बल्कि यूरोप में शिक्षा के इतिहास के लिए भी महत्वपूर्ण है।",
+          "ar": "لا يهم الحدث سياسيا فقط، بل يرتبط أيضا بتاريخ التعليم في أوروبا."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Императорская коронация на Рождество",
           "de": "Kaiserliche Kroenung an Weihnachten",
-          "en": "An imperial coronation on Christmas Day"
+          "en": "An imperial coronation on Christmas Day",
+          "fr": "Un couronnement imperial le jour de Noel",
+          "es": "Una coronacion imperial en Navidad",
+          "it": "Un'incoronazione imperiale a Natale",
+          "pt": "Uma coroacao imperial no Natal",
+          "nl": "Een keizerlijke kroning op Kerstdag",
+          "pl": "Cesarska koronacja w Boze Narodzenie",
+          "tr": "Noel gununde imparatorluk tac giyme toreni",
+          "zh": "圣诞节的皇帝加冕",
+          "ja": "クリスマスの日の皇帝戴冠",
+          "ko": "크리스마스의 황제 대관식",
+          "hi": "क्रिसमस पर साम्राज्यिक राज्याभिषेक",
+          "ar": "تتويج إمبراطوري في يوم عيد الميلاد"
         },
         "description": {
           "ru": "Дата коронации была выбрана не случайно: Рождество подчёркивало религиозный смысл церемонии. В Средние века календарь и политика часто были тесно связаны.",
           "de": "Das Datum der Kroenung war nicht zufaellig gewaehlt: Weihnachten betonte die religioese Bedeutung der Zeremonie. Im Mittelalter waren Kalender und Politik oft eng miteinander verbunden.",
-          "en": "The coronation date was not chosen by chance: Christmas emphasized the religious meaning of the ceremony. In the Middle Ages, calendars and politics were often closely connected."
+          "en": "The coronation date was not chosen by chance: Christmas emphasized the religious meaning of the ceremony. In the Middle Ages, calendars and politics were often closely connected.",
+          "fr": "La date du couronnement ne fut pas choisie par hasard: Noel soulignait le sens religieux de la ceremonie. Au Moyen Age, calendrier et politique etaient souvent etroitement lies.",
+          "es": "La fecha de la coronacion no fue elegida al azar: la Navidad subrayaba el sentido religioso de la ceremonia. En la Edad Media, calendario y politica estaban a menudo estrechamente unidos.",
+          "it": "La data dell'incoronazione non fu scelta per caso: il Natale sottolineava il significato religioso della cerimonia. Nel Medioevo calendario e politica erano spesso strettamente collegati.",
+          "pt": "A data da coroacao nao foi escolhida por acaso: o Natal enfatizava o sentido religioso da cerimonia. Na Idade Media, calendario e politica eram frequentemente ligados.",
+          "nl": "De datum van de kroning was niet toevallig gekozen: Kerstmis benadrukte de religieuze betekenis van de ceremonie. In de middeleeuwen waren kalender en politiek vaak nauw verbonden.",
+          "pl": "Data koronacji nie zostala wybrana przypadkowo: Boze Narodzenie podkreslalo religijny sens ceremonii. W sredniowieczu kalendarz i polityka czesto byly scisle powiazane.",
+          "tr": "Tac giyme tarihi tesadufen secilmemisti: Noel, torenin dini anlamini vurguluyordu. Orta Cag'da takvim ve siyaset sikca yakindan baglantiliydi.",
+          "zh": "加冕日期并非偶然选择：圣诞节强调了仪式的宗教意义。在中世纪，日历和政治常常紧密相连。",
+          "ja": "戴冠の日付は偶然に選ばれたものではありません。クリスマスが儀式の宗教的意味を強調したのです。中世には、暦と政治はしばしば密接に結びついていました。",
+          "ko": "대관 날짜는 우연히 선택된 것이 아니었다. 크리스마스가 의식의 종교적 의미를 강조했기 때문이다. 중세에는 달력과 정치가 자주 긴밀히 연결되어 있었다.",
+          "hi": "राज्याभिषेक की तारीख संयोग से नहीं चुनी गई थी: क्रिसमस ने समारोह के धार्मिक अर्थ को जोर दिया। मध्य युग में कैलेंडर और राजनीति अक्सर गहराई से जुड़े थे।",
+          "ar": "لم يُختر تاريخ التتويج صدفة: فقد أكد عيد الميلاد المعنى الديني للمراسم. في العصور الوسطى كان التقويم والسياسة غالبا مرتبطين ارتباطا وثيقا."
         },
         "importance": {
           "ru": "Это необычный пример того, как праздник становился сценой для большой политики.",
           "de": "Das ist ein ungewoehnliches Beispiel dafuer, wie ein Feiertag zur Buehne grosser Politik wurde.",
-          "en": "It is an unusual example of a holiday becoming a stage for major politics."
+          "en": "It is an unusual example of a holiday becoming a stage for major politics.",
+          "fr": "C'est un exemple inhabituel d'une fete devenant la scene de la grande politique.",
+          "es": "Es un ejemplo inusual de una fiesta convertida en escenario de la gran politica.",
+          "it": "E un esempio insolito di una festa che diventa palcoscenico della grande politica.",
+          "pt": "E um exemplo incomum de um feriado tornando-se palco da grande politica.",
+          "nl": "Het is een ongewoon voorbeeld van een feestdag die een podium voor grote politiek werd.",
+          "pl": "To niezwykly przyklad swieta, ktore stalo sie scena wielkiej polityki.",
+          "tr": "Bu, bir bayramin buyuk siyaset icin sahneye donusmesine alisilmadik bir ornektir.",
+          "zh": "这是节日成为重大政治舞台的一个不寻常例子。",
+          "ja": "祝日が大きな政治の舞台となった珍しい例です。",
+          "ko": "휴일이 큰 정치의 무대가 된 특이한 예이다.",
+          "hi": "यह असामान्य उदाहरण है कि त्योहार बड़ी राजनीति का मंच बन गया।",
+          "ar": "إنه مثال غير مألوف على تحول عيد إلى مسرح للسياسة الكبرى."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Карл Великий часто связан и с французской, и с немецкой исторической памятью, потому что его держава предшествовала разделению на будущие Францию и Германию.",
     "de": "Karl der Grosse gehoert sowohl zur franzoesischen als auch zur deutschen Erinnerung, weil sein Reich der spaeteren Trennung in Frankreich und Deutschland vorausging.",
-    "en": "Charlemagne belongs to both French and German historical memory because his empire preceded the later division into France and Germany."
+    "en": "Charlemagne belongs to both French and German historical memory because his empire preceded the later division into France and Germany.",
+    "fr": "Charlemagne appartient a la fois a la memoire historique francaise et allemande, car son empire preceda la division ulterieure entre France et Allemagne.",
+    "es": "Carlomagno pertenece tanto a la memoria historica francesa como alemana, porque su imperio precedio la division posterior entre Francia y Alemania.",
+    "it": "Carlo Magno appartiene sia alla memoria storica francese sia a quella tedesca, perche il suo impero precedette la successiva divisione tra Francia e Germania.",
+    "pt": "Carlos Magno pertence tanto a memoria historica francesa quanto a alema, porque seu imperio precedeu a divisao posterior entre Franca e Alemanha.",
+    "nl": "Karel de Grote behoort tot zowel de Franse als de Duitse historische herinnering, omdat zijn rijk voorafging aan de latere scheiding in Frankrijk en Duitsland.",
+    "pl": "Karol Wielki nalezy zarowno do francuskiej, jak i niemieckiej pamieci historycznej, poniewaz jego panstwo poprzedzalo pozniejszy podzial na Francje i Niemcy.",
+    "tr": "Sarlman hem Frans hem de Alman tarihsel hafizasina aittir, cunku imparatorlugu daha sonraki Fransa ve Almanya ayrimindan once vardi.",
+    "zh": "查理曼同时属于法国和德国的历史记忆，因为他的帝国早于后来法国和德国的分离。",
+    "ja": "カール大帝は、後にフランスとドイツに分かれる以前の帝国を支配していたため、フランスとドイツ双方の歴史記憶に属しています。",
+    "ko": "샤를마뉴는 그의 제국이 이후 프랑스와 독일로 나뉘기 전의 것이었기 때문에 프랑스와 독일 역사 기억 모두에 속한다.",
+    "hi": "शार्लमेन फ्रांसीसी और जर्मन दोनों ऐतिहासिक स्मृतियों से जुड़े हैं, क्योंकि उनका साम्राज्य बाद में फ्रांस और जर्मनी में विभाजन से पहले था।",
+    "ar": "ينتمي شارلمان إلى الذاكرة التاريخية الفرنسية والألمانية معا، لأن إمبراطوريته سبقت الانقسام اللاحق إلى فرنسا وألمانيا."
   },
   "sources": [
     {

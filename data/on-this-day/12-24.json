@@ -11,17 +11,53 @@
     "title": {
       "ru": "Рождественское наводнение на Северном море",
       "de": "Die Weihnachtsflut an der Nordsee",
-      "en": "The Christmas flood on the North Sea"
+      "en": "The Christmas flood on the North Sea",
+      "fr": "La crue de Noel sur la mer du Nord",
+      "es": "La inundacion de Navidad en el mar del Norte",
+      "it": "L'alluvione di Natale sul Mare del Nord",
+      "pt": "A inundacao de Natal no Mar do Norte",
+      "nl": "De kerstvloed aan de Noordzee",
+      "pl": "Powodz bozonarodzeniowa nad Morzem Polnocnym",
+      "tr": "Kuzey Denizi'nde Noel seli",
+      "zh": "北海圣诞洪水",
+      "ja": "北海のクリスマス洪水",
+      "ko": "북해의 크리스마스 홍수",
+      "hi": "उत्तरी सागर का क्रिसमस बाढ़",
+      "ar": "فيضان عيد الميلاد على بحر الشمال"
     },
     "description": {
       "ru": "В ночь с 24 на 25 декабря 1717 года сильный штормовой нагон затопил побережья Нидерландов, немецких земель и Скандинавии. Это было одно из самых разрушительных наводнений в истории Северного моря.",
       "de": "In der Nacht vom 24. auf den 25. Dezember 1717 ueberflutete eine schwere Sturmflut die Kuesten der Niederlande, der deutschen Laender und Skandinaviens. Sie war eine der verheerendsten Fluten der Nordseegeschichte.",
-      "en": "On the night of 24-25 December 1717, a severe storm surge flooded the coasts of the Netherlands, the German lands and Scandinavia. It was one of the most devastating floods in North Sea history."
+      "en": "On the night of 24-25 December 1717, a severe storm surge flooded the coasts of the Netherlands, the German lands and Scandinavia. It was one of the most devastating floods in North Sea history.",
+      "fr": "Dans la nuit du 24 au 25 decembre 1717, une violente maree de tempete inonda les cotes des Pays-Bas, des terres allemandes et de la Scandinavie. Ce fut l'une des crues les plus devastatrices de l'histoire de la mer du Nord.",
+      "es": "En la noche del 24 al 25 de diciembre de 1717, una fuerte marejada ciclonica inundo las costas de los Paises Bajos, las tierras alemanas y Escandinavia. Fue una de las inundaciones mas devastadoras de la historia del mar del Norte.",
+      "it": "Nella notte tra il 24 e il 25 dicembre 1717, una grave mareggiata inondo le coste dei Paesi Bassi, delle terre tedesche e della Scandinavia. Fu una delle alluvioni piu devastanti nella storia del Mare del Nord.",
+      "pt": "Na noite de 24 para 25 de dezembro de 1717, uma forte mare de tempestade inundou as costas dos Paises Baixos, das terras alemas e da Escandinavia. Foi uma das inundacoes mais devastadoras da historia do Mar do Norte.",
+      "nl": "In de nacht van 24 op 25 december 1717 overstroomde een zware stormvloed de kusten van Nederland, de Duitse landen en Scandinavie. Het was een van de verwoestendste overstromingen in de geschiedenis van de Noordzee.",
+      "pl": "W nocy z 24 na 25 grudnia 1717 roku silna fala sztormowa zalala wybrzeza Niderlandow, ziem niemieckich i Skandynawii. Byla to jedna z najbardziej niszczycielskich powodzi w historii Morza Polnocnego.",
+      "tr": "24-25 Aralik 1717 gecesi siddetli bir firtina kabarmasi Hollanda, Alman topraklari ve Iskandinavya kiyilarini sular altinda birakti. Bu, Kuzey Denizi tarihinin en yikici sellerinden biriydi.",
+      "zh": "1717年12月24日至25日夜间，一场严重风暴潮淹没了尼德兰、德意志地区和斯堪的纳维亚的海岸。这是北海历史上最具破坏性的洪水之一。",
+      "ja": "1717年12月24日から25日にかけての夜、激しい高潮がネーデルラント、ドイツ諸地域、スカンディナヴィアの海岸を浸水させました。これは北海史上最も破壊的な洪水の一つでした。",
+      "ko": "1717년 12월 24일에서 25일로 넘어가는 밤, 심한 폭풍 해일이 네덜란드, 독일 지역, 스칸디나비아 해안을 침수시켰다. 이는 북해 역사상 가장 파괴적인 홍수 중 하나였다.",
+      "hi": "24 से 25 दिसंबर 1717 की रात एक भयंकर तूफानी ज्वार ने नीदरलैंड, जर्मन क्षेत्रों और स्कैंडिनेविया के तटों को डुबो दिया। यह उत्तरी सागर के इतिहास की सबसे विनाशकारी बाढ़ों में से एक थी।",
+      "ar": "في ليلة 24 إلى 25 ديسمبر 1717 غمرت عاصفة مدية شديدة سواحل هولندا والأراضي الألمانية وإسكندنافيا. وكان ذلك من أكثر الفيضانات تدميرا في تاريخ بحر الشمال."
     },
     "importance": {
       "ru": "Дата напоминает, что история Германии связана не только с государствами и войнами, но и с борьбой побережий против моря.",
       "de": "Das Datum erinnert daran, dass deutsche Geschichte nicht nur mit Staaten und Kriegen, sondern auch mit dem Kampf der Kuesten gegen das Meer verbunden ist.",
-      "en": "The date is a reminder that German history is linked not only to states and wars but also to coastal struggles against the sea."
+      "en": "The date is a reminder that German history is linked not only to states and wars but also to coastal struggles against the sea.",
+      "fr": "Cette date rappelle que l'histoire allemande n'est pas seulement liee aux Etats et aux guerres, mais aussi a la lutte des cotes contre la mer.",
+      "es": "La fecha recuerda que la historia alemana no esta ligada solo a Estados y guerras, sino tambien a la lucha de las costas contra el mar.",
+      "it": "La data ricorda che la storia tedesca e legata non solo a Stati e guerre, ma anche alla lotta delle coste contro il mare.",
+      "pt": "A data lembra que a historia alema esta ligada nao apenas a Estados e guerras, mas tambem a luta das costas contra o mar.",
+      "nl": "De datum herinnert eraan dat Duitse geschiedenis niet alleen verbonden is met staten en oorlogen, maar ook met de strijd van kusten tegen de zee.",
+      "pl": "Ta data przypomina, ze historia Niemiec laczy sie nie tylko z panstwami i wojnami, lecz takze z walka wybrzezy z morzem.",
+      "tr": "Bu tarih, Alman tarihinin yalnizca devletler ve savaslarla degil, kiyilarin denize karsi mucadelesiyle de baglantili oldugunu hatirlatir.",
+      "zh": "这个日期提醒人们，德国历史不仅与国家和战争相连，也与海岸同大海的斗争相连。",
+      "ja": "この日は、ドイツ史が国家や戦争だけでなく、海岸が海と戦ってきた歴史にも結びついていることを思い出させます。",
+      "ko": "이 날짜는 독일 역사가 국가와 전쟁뿐 아니라 해안이 바다와 벌인 싸움과도 연결되어 있음을 상기시킨다.",
+      "hi": "यह तारीख याद दिलाती है कि जर्मन इतिहास केवल राज्यों और युद्धों से नहीं, बल्कि समुद्र से तटों की लड़ाई से भी जुड़ा है।",
+      "ar": "يذكر هذا التاريخ بأن التاريخ الألماني لا يرتبط بالدول والحروب فقط، بل أيضا بصراع السواحل مع البحر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Штормовой нагон",
           "de": "Sturmflut",
-          "en": "Storm surge"
+          "en": "Storm surge",
+          "fr": "Maree de tempete",
+          "es": "Marejada ciclonica",
+          "it": "Mareggiata",
+          "pt": "Mare de tempestade",
+          "nl": "Stormvloed",
+          "pl": "Fala sztormowa",
+          "tr": "Firtina kabarmasi",
+          "zh": "风暴潮",
+          "ja": "高潮",
+          "ko": "폭풍 해일",
+          "hi": "तूफानी ज्वार",
+          "ar": "عاصفة مدية"
         },
         "description": {
           "ru": "Сильный северо-западный шторм погнал воду к низким берегам Северного моря. Дамбы не выдерживали, и вода проходила далеко вглубь прибрежных районов.",
           "de": "Ein starker Nordweststurm drueckte das Wasser gegen die niedrigen Kuesten der Nordsee. Deiche hielten nicht stand, und das Wasser drang weit in die Kuestengebiete ein.",
-          "en": "A strong northwesterly storm pushed water toward the low North Sea coasts. Dikes failed, and the water penetrated far into coastal areas."
+          "en": "A strong northwesterly storm pushed water toward the low North Sea coasts. Dikes failed, and the water penetrated far into coastal areas.",
+          "fr": "Une forte tempete de nord-ouest poussa l'eau vers les basses cotes de la mer du Nord. Les digues cederent et l'eau penetra loin dans les zones cotieres.",
+          "es": "Una fuerte tormenta del noroeste empujo el agua hacia las costas bajas del mar del Norte. Los diques fallaron y el agua penetro muy adentro en las zonas costeras.",
+          "it": "Una forte tempesta da nord-ovest spinse l'acqua verso le basse coste del Mare del Nord. Le dighe cedettero e l'acqua penetro lontano nelle zone costiere.",
+          "pt": "Uma forte tempestade de noroeste empurrou a agua para as costas baixas do Mar do Norte. Diques falharam, e a agua entrou longe nas areas costeiras.",
+          "nl": "Een sterke noordwesterstorm duwde het water naar de lage kusten van de Noordzee. Dijken begaven het en het water drong ver de kustgebieden binnen.",
+          "pl": "Silny polnocno-zachodni sztorm pchnal wode ku niskim wybrzezom Morza Polnocnego. Waly nie wytrzymaly, a woda wdarla sie daleko w obszary nadbrzezne.",
+          "tr": "Guclu bir kuzeybati firtinasi suyu alcak Kuzey Denizi kiyilarina dogru itti. Setler dayanmadi ve su kiyi bolgelerinin iclerine kadar ilerledi.",
+          "zh": "强烈的西北风暴把海水推向低洼的北海海岸。堤坝失守，海水深入沿海地区。",
+          "ja": "強い北西の嵐が水を低い北海沿岸へ押し寄せました。堤防は崩れ、水は沿岸地域の奥深くまで入り込みました。",
+          "ko": "강한 북서풍 폭풍이 물을 낮은 북해 해안으로 밀어냈다. 제방은 무너졌고 물은 해안 지역 깊숙이 들어갔다.",
+          "hi": "तेज उत्तर-पश्चिमी तूफान ने पानी को उत्तरी सागर के निचले तटों की ओर धकेला। बांध टूट गए और पानी तटीय क्षेत्रों के भीतर दूर तक चला गया।",
+          "ar": "دفعت عاصفة شمالية غربية قوية المياه نحو سواحل بحر الشمال المنخفضة. ولم تصمد السدود، فتوغلت المياه بعيدا داخل المناطق الساحلية."
         },
         "importance": {
           "ru": "Такие события объясняют, почему дамбы, каналы и защита берегов так важны для северной Германии.",
           "de": "Solche Ereignisse erklaeren, warum Deiche, Kanaele und Kuestenschutz fuer Norddeutschland so wichtig sind.",
-          "en": "Events like this explain why dikes, canals and coastal protection are so important for northern Germany."
+          "en": "Events like this explain why dikes, canals and coastal protection are so important for northern Germany.",
+          "fr": "De tels evenements expliquent pourquoi les digues, les canaux et la protection des cotes sont si importants pour le nord de l'Allemagne.",
+          "es": "Acontecimientos como este explican por que los diques, canales y la proteccion costera son tan importantes para el norte de Alemania.",
+          "it": "Eventi come questo spiegano perche dighe, canali e protezione delle coste sono cosi importanti per la Germania settentrionale.",
+          "pt": "Eventos assim explicam por que diques, canais e protecao costeira sao tao importantes para o norte da Alemanha.",
+          "nl": "Gebeurtenissen als deze verklaren waarom dijken, kanalen en kustbescherming zo belangrijk zijn voor Noord-Duitsland.",
+          "pl": "Takie wydarzenia wyjasniaja, dlaczego waly, kanaly i ochrona wybrzeza sa tak wazne dla polnocnych Niemiec.",
+          "tr": "Bu tur olaylar, setlerin, kanallarin ve kiyi korumasinin kuzey Almanya icin neden bu kadar onemli oldugunu aciklar.",
+          "zh": "这样的事件解释了为什么堤坝、运河和海岸防护对德国北部如此重要。",
+          "ja": "このような出来事は、堤防、運河、海岸防護が北ドイツにとってなぜ重要なのかを説明しています。",
+          "ko": "이런 사건은 제방, 운하, 해안 보호가 북독일에 왜 그렇게 중요한지 설명해 준다.",
+          "hi": "ऐसी घटनाएं समझाती हैं कि उत्तरी जर्मनी के लिए बांध, नहरें और तटीय सुरक्षा इतनी महत्वपूर्ण क्यों हैं।",
+          "ar": "تفسر مثل هذه الأحداث لماذا تعد السدود والقنوات وحماية السواحل مهمة جدا لشمال ألمانيا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Память северных побережий",
           "de": "Erinnerung der Nordseekueste",
-          "en": "Memory of the North Sea coast"
+          "en": "Memory of the North Sea coast",
+          "fr": "Memoire de la cote de la mer du Nord",
+          "es": "Memoria de la costa del mar del Norte",
+          "it": "Memoria della costa del Mare del Nord",
+          "pt": "Memoria da costa do Mar do Norte",
+          "nl": "Herinnering van de Noordzeekust",
+          "pl": "Pamiec wybrzeza Morza Polnocnego",
+          "tr": "Kuzey Denizi kiyisinin hafizasi",
+          "zh": "北海海岸的记忆",
+          "ja": "北海沿岸の記憶",
+          "ko": "북해 해안의 기억",
+          "hi": "उत्तरी सागर तट की स्मृति",
+          "ar": "ذاكرة ساحل بحر الشمال"
         },
         "description": {
           "ru": "Рождественское наводнение осталось в хрониках, картах и изображениях. Для прибрежных общин такие катастрофы становились частью коллективной памяти.",
           "de": "Die Weihnachtsflut blieb in Chroniken, Karten und Bildern erhalten. Fuer Kuestengemeinden wurden solche Katastrophen Teil des gemeinsamen Gedaechtnisses.",
-          "en": "The Christmas flood remained in chronicles, maps and images. For coastal communities, such disasters became part of collective memory."
+          "en": "The Christmas flood remained in chronicles, maps and images. For coastal communities, such disasters became part of collective memory.",
+          "fr": "La crue de Noel resta presente dans les chroniques, les cartes et les images. Pour les communautes cotieres, de telles catastrophes devinrent une part de la memoire collective.",
+          "es": "La inundacion de Navidad quedo en cronicas, mapas e imagenes. Para las comunidades costeras, tales desastres se convirtieron en parte de la memoria colectiva.",
+          "it": "L'alluvione di Natale rimase nelle cronache, nelle mappe e nelle immagini. Per le comunita costiere, simili catastrofi divennero parte della memoria collettiva.",
+          "pt": "A inundacao de Natal permaneceu em cronicas, mapas e imagens. Para comunidades costeiras, tais desastres tornaram-se parte da memoria coletiva.",
+          "nl": "De kerstvloed bleef bewaard in kronieken, kaarten en afbeeldingen. Voor kustgemeenschappen werden zulke rampen deel van het collectieve geheugen.",
+          "pl": "Powodz bozonarodzeniowa pozostala w kronikach, mapach i obrazach. Dla spolecznosci nadbrzeznych takie katastrofy stawaly sie czescia pamieci zbiorowej.",
+          "tr": "Noel seli kroniklerde, haritalarda ve goruntulerde yasamaya devam etti. Kiyi topluluklari icin boyle felaketler ortak hafizanin parcasi oldu.",
+          "zh": "圣诞洪水留存在编年史、地图和图像中。对沿海共同体来说，这类灾难成为集体记忆的一部分。",
+          "ja": "クリスマス洪水は年代記、地図、絵に残りました。沿岸の共同体にとって、このような災害は集団記憶の一部となりました。",
+          "ko": "크리스마스 홍수는 연대기, 지도, 그림 속에 남았다. 해안 공동체에게 이런 재난은 집단 기억의 일부가 되었다.",
+          "hi": "क्रिसमस बाढ़ इतिहास-लेखों, नक्शों और चित्रों में बनी रही। तटीय समुदायों के लिए ऐसी आपदाएं सामूहिक स्मृति का हिस्सा बन गईं।",
+          "ar": "بقي فيضان عيد الميلاد في السجلات والخرائط والصور. وبالنسبة إلى المجتمعات الساحلية أصبحت مثل هذه الكوارث جزءا من الذاكرة الجماعية."
         },
         "importance": {
           "ru": "Это хороший пример того, как природа тоже меняет историческую карту.",
           "de": "Das ist ein gutes Beispiel dafuer, wie auch Natur die historische Karte veraendert.",
-          "en": "It is a good example of how nature also changes the historical map."
+          "en": "It is a good example of how nature also changes the historical map.",
+          "fr": "C'est un bon exemple de la maniere dont la nature change aussi la carte historique.",
+          "es": "Es un buen ejemplo de como la naturaleza tambien cambia el mapa historico.",
+          "it": "E un buon esempio di come anche la natura cambi la mappa storica.",
+          "pt": "E um bom exemplo de como a natureza tambem muda o mapa historico.",
+          "nl": "Het is een goed voorbeeld van hoe ook de natuur de historische kaart verandert.",
+          "pl": "To dobry przyklad tego, jak natura rowniez zmienia historyczna mape.",
+          "tr": "Bu, doganin da tarihsel haritayi nasil degistirdigine iyi bir ornektir.",
+          "zh": "这是自然也会改变历史地图的好例子。",
+          "ja": "自然も歴史地図を変えることを示すよい例です。",
+          "ko": "자연도 역사적 지도를 바꾼다는 좋은 예이다.",
+          "hi": "यह अच्छा उदाहरण है कि प्रकृति भी ऐतिहासिक नक्शे को कैसे बदलती है।",
+          "ar": "إنه مثال جيد على أن الطبيعة تغير الخريطة التاريخية أيضا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Наводнение произошло в период, который часто связывают с «малым ледниковым периодом», когда суровая погода сильнее влияла на жизнь людей.",
     "de": "Die Flut fiel in eine Zeit, die oft mit der Kleinen Eiszeit verbunden wird, als extremes Wetter das Leben der Menschen stark beeinflusste.",
-    "en": "The flood occurred during a period often associated with the Little Ice Age, when harsh weather strongly affected people's lives."
+    "en": "The flood occurred during a period often associated with the Little Ice Age, when harsh weather strongly affected people's lives.",
+    "fr": "La crue eut lieu pendant une periode souvent associee au Petit Age glaciaire, lorsque le temps rude influencait fortement la vie des gens.",
+    "es": "La inundacion ocurrio durante un periodo a menudo asociado con la Pequena Edad de Hielo, cuando el clima duro afectaba mucho la vida de las personas.",
+    "it": "L'alluvione avvenne in un periodo spesso associato alla Piccola era glaciale, quando il tempo rigido influenzava molto la vita delle persone.",
+    "pt": "A inundacao ocorreu em um periodo frequentemente associado a Pequena Idade do Gelo, quando o clima severo afetava fortemente a vida das pessoas.",
+    "nl": "De overstroming vond plaats in een periode die vaak met de Kleine IJstijd wordt verbonden, toen streng weer het leven van mensen sterk beinvloedde.",
+    "pl": "Powodz nastapila w okresie czesto laczonym z mala epoka lodowa, gdy surowa pogoda silnie wplywala na zycie ludzi.",
+    "tr": "Sel, sert havanin insanlarin yasamini guclu bicimde etkiledigi Kucuk Buzul Cagi ile sikca iliskilendirilen bir donemde meydana geldi.",
+    "zh": "这场洪水发生在常与小冰期相联系的时期，当时严酷天气强烈影响人们的生活。",
+    "ja": "この洪水は、厳しい天候が人々の生活に強く影響した小氷期としばしば結びつけられる時期に起こりました。",
+    "ko": "이 홍수는 혹독한 날씨가 사람들의 삶에 강하게 영향을 주던 소빙기와 자주 연결되는 시기에 일어났다.",
+    "hi": "यह बाढ़ उस अवधि में आई जिसे अक्सर लघु हिमयुग से जोड़ा जाता है, जब कठोर मौसम लोगों के जीवन को बहुत प्रभावित करता था।",
+    "ar": "حدث الفيضان في فترة ترتبط غالبا بالعصر الجليدي الصغير، حين كان الطقس القاسي يؤثر بقوة في حياة الناس."
   },
   "sources": [
     {
