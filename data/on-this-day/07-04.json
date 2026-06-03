@@ -11,17 +11,53 @@
     "title": {
       "ru": "«Чудо в Берне»",
       "de": "Das Wunder von Bern",
-      "en": "The Miracle of Bern"
+      "en": "The Miracle of Bern",
+      "fr": "Le Miracle de Berne",
+      "es": "El Milagro de Berna",
+      "it": "Il Miracolo di Berna",
+      "pt": "O Milagre de Berna",
+      "nl": "Het Wonder van Bern",
+      "pl": "Cud w Bernie",
+      "tr": "Bern Mucizesi",
+      "zh": "伯尔尼奇迹",
+      "ja": "ベルンの奇跡",
+      "ko": "베른의 기적",
+      "hi": "बर्न का चमत्कार",
+      "ar": "معجزة برن"
     },
     "description": {
       "ru": "4 июля 1954 года сборная ФРГ победила Венгрию 3:2 в финале чемпионата мира по футболу. Победа стала неожиданной и получила название «Чудо в Берне».",
       "de": "Am 4. Juli 1954 besiegte die deutsche Mannschaft Ungarn im WM-Finale mit 3:2. Der ueberraschende Sieg wurde als Wunder von Bern bekannt.",
-      "en": "On 4 July 1954, West Germany beat Hungary 3-2 in the FIFA World Cup final. The unexpected victory became known as the Miracle of Bern."
+      "en": "On 4 July 1954, West Germany beat Hungary 3-2 in the FIFA World Cup final. The unexpected victory became known as the Miracle of Bern.",
+      "fr": "Le 4 juillet 1954, l'équipe de RFA battit la Hongrie 3-2 en finale de la Coupe du monde de football. Cette victoire inattendue devint connue sous le nom de Miracle de Berne.",
+      "es": "El 4 de julio de 1954, Alemania Occidental venció a Hungría 3-2 en la final de la Copa Mundial de fútbol. La victoria inesperada pasó a conocerse como el Milagro de Berna.",
+      "it": "Il 4 luglio 1954 la Germania Ovest batté l'Ungheria 3-2 nella finale della Coppa del Mondo di calcio. La vittoria inattesa divenne nota come il Miracolo di Berna.",
+      "pt": "Em 4 de julho de 1954, a Alemanha Ocidental venceu a Hungria por 3 a 2 na final da Copa do Mundo de futebol. A vitória inesperada ficou conhecida como o Milagre de Berna.",
+      "nl": "Op 4 juli 1954 versloeg West-Duitsland Hongarije met 3-2 in de finale van het wereldkampioenschap voetbal. De onverwachte overwinning werd bekend als het Wonder van Bern.",
+      "pl": "4 lipca 1954 roku RFN pokonała Węgry 3:2 w finale piłkarskich mistrzostw świata. Nieoczekiwane zwycięstwo przeszło do historii jako Cud w Bernie.",
+      "tr": "4 Temmuz 1954'te Batı Almanya, FIFA Dünya Kupası finalinde Macaristan'ı 3-2 yendi. Beklenmedik zafer Bern Mucizesi olarak anıldı.",
+      "zh": "1954年7月4日，西德在世界杯足球赛决赛中以3比2击败匈牙利。这场出人意料的胜利被称为“伯尔尼奇迹”。",
+      "ja": "1954年7月4日、西ドイツはサッカーワールドカップ決勝でハンガリーを3対2で破った。この予想外の勝利は「ベルンの奇跡」として知られるようになった。",
+      "ko": "1954년 7월 4일, 서독은 FIFA 월드컵 결승에서 헝가리를 3대 2로 이겼다. 이 뜻밖의 승리는 베른의 기적으로 알려졌다.",
+      "hi": "4 जुलाई 1954 को पश्चिम जर्मनी ने फुटबॉल विश्व कप फाइनल में हंगरी को 3-2 से हराया। यह अप्रत्याशित जीत 'बर्न का चमत्कार' कहलाने लगी।",
+      "ar": "في 4 يوليو 1954 فازت ألمانيا الغربية على المجر 3-2 في نهائي كأس العالم لكرة القدم. وأصبح هذا الفوز غير المتوقع معروفا باسم معجزة برن."
     },
     "importance": {
       "ru": "Для послевоенной ФРГ эта победа стала важным эмоциональным событием и частью национальной памяти.",
       "de": "Fuer die Nachkriegs-Bundesrepublik wurde dieser Sieg zu einem wichtigen emotionalen Ereignis und Teil der nationalen Erinnerung.",
-      "en": "For postwar West Germany, the victory became an important emotional event and part of national memory."
+      "en": "For postwar West Germany, the victory became an important emotional event and part of national memory.",
+      "fr": "Pour la RFA d'après-guerre, cette victoire devint un événement émotionnel important et une partie de la mémoire nationale.",
+      "es": "Para la Alemania Occidental de posguerra, la victoria se convirtió en un importante acontecimiento emocional y parte de la memoria nacional.",
+      "it": "Per la Germania Ovest del dopoguerra, la vittoria divenne un importante evento emotivo e parte della memoria nazionale.",
+      "pt": "Para a Alemanha Ocidental do pós-guerra, a vitória tornou-se um importante acontecimento emocional e parte da memória nacional.",
+      "nl": "Voor het naoorlogse West-Duitsland werd de overwinning een belangrijke emotionele gebeurtenis en deel van het nationale geheugen.",
+      "pl": "Dla powojennej RFN zwycięstwo stało się ważnym wydarzeniem emocjonalnym i częścią pamięci narodowej.",
+      "tr": "Savaş sonrası Batı Almanya için bu zafer önemli bir duygusal olay ve ulusal hafızanın parçası oldu.",
+      "zh": "对战后西德来说，这场胜利成为重要的情感事件和国家记忆的一部分。",
+      "ja": "戦後の西ドイツにとって、この勝利は重要な感情的出来事となり、国民的記憶の一部となった。",
+      "ko": "전후 서독에게 이 승리는 중요한 감정적 사건이자 국민적 기억의 일부가 되었다.",
+      "hi": "युद्धोत्तर पश्चिम जर्मनी के लिए यह जीत एक महत्वपूर्ण भावनात्मक घटना और राष्ट्रीय स्मृति का हिस्सा बनी।",
+      "ar": "بالنسبة إلى ألمانيا الغربية بعد الحرب أصبح هذا الفوز حدثا عاطفيا مهما وجزءا من الذاكرة الوطنية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Победа над фаворитом",
           "de": "Sieg gegen den Favoriten",
-          "en": "Victory over the favorite"
+          "en": "Victory over the favorite",
+          "fr": "Victoire contre le favori",
+          "es": "Victoria sobre el favorito",
+          "it": "Vittoria contro la favorita",
+          "pt": "Vitória sobre o favorito",
+          "nl": "Overwinning op de favoriet",
+          "pl": "Zwycięstwo nad faworytem",
+          "tr": "Favoriye karşı zafer",
+          "zh": "战胜夺冠热门",
+          "ja": "本命を破る勝利",
+          "ko": "우승 후보를 이긴 승리",
+          "hi": "प्रबल दावेदार पर जीत",
+          "ar": "فوز على المرشح الأوفر حظا"
         },
         "description": {
           "ru": "Венгерская команда считалась одной из сильнейших в мире. Поэтому немецкая победа выглядела почти невероятной.",
           "de": "Die ungarische Mannschaft galt als eine der staerksten der Welt. Deshalb wirkte der deutsche Sieg fast unglaublich.",
-          "en": "The Hungarian team was regarded as one of the strongest in the world. That made the German victory seem almost unbelievable."
+          "en": "The Hungarian team was regarded as one of the strongest in the world. That made the German victory seem almost unbelievable.",
+          "fr": "L'équipe hongroise était considérée comme l'une des plus fortes du monde. Cela rendit la victoire allemande presque incroyable.",
+          "es": "La selección húngara era considerada una de las más fuertes del mundo. Por eso la victoria alemana pareció casi increíble.",
+          "it": "La squadra ungherese era considerata una delle più forti del mondo. Per questo la vittoria tedesca sembrò quasi incredibile.",
+          "pt": "A seleção húngara era considerada uma das mais fortes do mundo. Por isso a vitória alemã pareceu quase inacreditável.",
+          "nl": "Het Hongaarse team gold als een van de sterkste ter wereld. Daardoor leek de Duitse overwinning bijna ongelooflijk.",
+          "pl": "Reprezentacja Węgier uchodziła za jedną z najsilniejszych na świecie. Dlatego niemieckie zwycięstwo wydawało się niemal niewiarygodne.",
+          "tr": "Macar takımı dünyanın en güçlülerinden biri sayılıyordu. Bu yüzden Alman zaferi neredeyse inanılmaz görünüyordu.",
+          "zh": "匈牙利队被认为是世界上最强的球队之一。因此德国队的胜利显得几乎不可思议。",
+          "ja": "ハンガリー代表は世界最強級のチームと見なされていた。そのためドイツの勝利はほとんど信じられないものに見えた。",
+          "ko": "헝가리 팀은 세계 최강팀 중 하나로 여겨졌다. 그래서 독일의 승리는 거의 믿기 어려워 보였다.",
+          "hi": "हंगरी की टीम दुनिया की सबसे मजबूत टीमों में मानी जाती थी। इसलिए जर्मन जीत लगभग अविश्वसनीय लगी।",
+          "ar": "كان المنتخب المجري يعد من أقوى المنتخبات في العالم. لذلك بدا الفوز الألماني شبه غير معقول."
         },
         "importance": {
           "ru": "Так спортивный матч стал событием, которое обсуждают далеко за пределами футбола.",
           "de": "So wurde ein Fussballspiel zu einem Ereignis, das weit ueber den Sport hinaus erinnert wird.",
-          "en": "A football match became an event remembered far beyond sport."
+          "en": "A football match became an event remembered far beyond sport.",
+          "fr": "Un match de football devint un événement dont on se souvient bien au-delà du sport.",
+          "es": "Un partido de fútbol se convirtió en un acontecimiento recordado mucho más allá del deporte.",
+          "it": "Una partita di calcio divenne un evento ricordato ben oltre lo sport.",
+          "pt": "Uma partida de futebol tornou-se um acontecimento lembrado muito além do esporte.",
+          "nl": "Een voetbalwedstrijd werd een gebeurtenis die ver buiten de sport wordt herinnerd.",
+          "pl": "Mecz piłkarski stał się wydarzeniem pamiętanym daleko poza sportem.",
+          "tr": "Bir futbol maçı, sporun çok ötesinde hatırlanan bir olaya dönüştü.",
+          "zh": "一场足球比赛成为超越体育范围被记住的事件。",
+          "ja": "一つのサッカーの試合が、スポーツをはるかに越えて記憶される出来事となった。",
+          "ko": "한 축구 경기가 스포츠를 훨씬 넘어 기억되는 사건이 되었다.",
+          "hi": "एक फुटबॉल मैच खेल से बहुत आगे तक याद की जाने वाली घटना बन गया।",
+          "ar": "تحولت مباراة كرة قدم إلى حدث يتذكره الناس أبعد بكثير من الرياضة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Финал проходил не в Германии, а в швейцарском Берне.",
     "de": "Das Finale fand nicht in Deutschland statt, sondern im schweizerischen Bern.",
-    "en": "The final was not played in Germany but in Bern, Switzerland."
+    "en": "The final was not played in Germany but in Bern, Switzerland.",
+    "fr": "La finale ne se joua pas en Allemagne, mais à Berne, en Suisse.",
+    "es": "La final no se jugó en Alemania, sino en Berna, Suiza.",
+    "it": "La finale non si giocò in Germania, ma a Berna, in Svizzera.",
+    "pt": "A final não foi disputada na Alemanha, mas em Berna, na Suíça.",
+    "nl": "De finale werd niet in Duitsland gespeeld, maar in Bern, Zwitserland.",
+    "pl": "Finał nie odbył się w Niemczech, lecz w szwajcarskim Bernie.",
+    "tr": "Final Almanya'da değil, İsviçre'nin Bern kentinde oynandı.",
+    "zh": "决赛不是在德国举行，而是在瑞士伯尔尼举行。",
+    "ja": "決勝はドイツではなく、スイスのベルンで行われた。",
+    "ko": "결승전은 독일이 아니라 스위스 베른에서 열렸다.",
+    "hi": "फाइनल जर्मनी में नहीं, बल्कि स्विट्जरलैंड के बर्न में खेला गया।",
+    "ar": "لم تقم المباراة النهائية في ألمانيا، بل في برن بسويسرا."
   },
   "sources": [
     {

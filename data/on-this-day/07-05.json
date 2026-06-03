@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия дала Австро-Венгрии «бланковый чек»",
       "de": "Deutschland gibt Oesterreich-Ungarn den Blankoscheck",
-      "en": "Germany gives Austria-Hungary the blank cheque"
+      "en": "Germany gives Austria-Hungary the blank cheque",
+      "fr": "L'Allemagne donne un « chèque en blanc » à l'Autriche-Hongrie",
+      "es": "Alemania da a Austria-Hungría el «cheque en blanco»",
+      "it": "La Germania dà all'Austria-Ungheria l'assegno in bianco",
+      "pt": "A Alemanha dá à Áustria-Hungria o cheque em branco",
+      "nl": "Duitsland geeft Oostenrijk-Hongarije de blanco cheque",
+      "pl": "Niemcy dają Austro-Węgrom blankietowy czek",
+      "tr": "Almanya Avusturya-Macaristan'a açık çek verir",
+      "zh": "德国给奥匈帝国开出“空白支票”",
+      "ja": "ドイツがオーストリア＝ハンガリーに白紙委任を与える",
+      "ko": "독일이 오스트리아-헝가리에 백지수표를 주다",
+      "hi": "जर्मनी ने ऑस्ट्रिया-हंगरी को 'ब्लैंक चेक' दिया",
+      "ar": "ألمانيا تمنح النمسا-المجر شيكا على بياض"
     },
     "description": {
       "ru": "5 июля 1914 года в Берлине германское руководство заверило Австро-Венгрию в поддержке после убийства эрцгерцога Франца Фердинанда. Эта поддержка вошла в историю как «бланковый чек».",
       "de": "Am 5. Juli 1914 sicherte die deutsche Fuehrung in Berlin Oesterreich-Ungarn nach der Ermordung Erzherzog Franz Ferdinands Unterstuetzung zu. Diese Zusage ging als Blankoscheck in die Geschichte ein.",
-      "en": "On 5 July 1914, Germany's leadership in Berlin assured Austria-Hungary of support after the assassination of Archduke Franz Ferdinand. This assurance entered history as the 'blank cheque'."
+      "en": "On 5 July 1914, Germany's leadership in Berlin assured Austria-Hungary of support after the assassination of Archduke Franz Ferdinand. This assurance entered history as the 'blank cheque'.",
+      "fr": "Le 5 juillet 1914, la direction allemande à Berlin assura l'Autriche-Hongrie de son soutien après l'assassinat de l'archiduc François-Ferdinand. Cette garantie entra dans l'histoire sous le nom de « chèque en blanc ».",
+      "es": "El 5 de julio de 1914, la dirección alemana en Berlín aseguró a Austria-Hungría su apoyo tras el asesinato del archiduque Francisco Fernando. Esta garantía pasó a la historia como el «cheque en blanco».",
+      "it": "Il 5 luglio 1914 la leadership tedesca a Berlino assicurò all'Austria-Ungheria il proprio sostegno dopo l'assassinio dell'arciduca Francesco Ferdinando. Questa promessa entrò nella storia come l'assegno in bianco.",
+      "pt": "Em 5 de julho de 1914, a liderança alemã em Berlim garantiu apoio à Áustria-Hungria após o assassinato do arquiduque Francisco Ferdinando. Essa garantia entrou para a história como o cheque em branco.",
+      "nl": "Op 5 juli 1914 verzekerde de Duitse leiding in Berlijn Oostenrijk-Hongarije van steun na de moord op aartshertog Franz Ferdinand. Deze toezegging ging de geschiedenis in als de blanco cheque.",
+      "pl": "5 lipca 1914 roku niemieckie kierownictwo w Berlinie zapewniło Austro-Węgry o wsparciu po zabójstwie arcyksięcia Franciszka Ferdynanda. Ta obietnica przeszła do historii jako blankietowy czek.",
+      "tr": "5 Temmuz 1914'te Berlin'deki Alman yönetimi, Arşidük Franz Ferdinand'ın öldürülmesinden sonra Avusturya-Macaristan'a destek güvencesi verdi. Bu güvence tarihe 'açık çek' olarak geçti.",
+      "zh": "1914年7月5日，柏林的德国领导层在弗朗茨·斐迪南大公遇刺后向奥匈帝国保证支持。这一保证以“空白支票”之名进入历史。",
+      "ja": "1914年7月5日、ベルリンのドイツ指導部は、フランツ・フェルディナント大公暗殺後、オーストリア＝ハンガリーへの支持を保証した。この保証は「白紙委任」として歴史に残った。",
+      "ko": "1914년 7월 5일, 베를린의 독일 지도부는 프란츠 페르디난트 대공 암살 이후 오스트리아-헝가리에 지원을 보장했다. 이 보장은 '백지수표'로 역사에 남았다.",
+      "hi": "5 जुलाई 1914 को बर्लिन में जर्मन नेतृत्व ने आर्चड्यूक फ्रांज़ फर्डिनांड की हत्या के बाद ऑस्ट्रिया-हंगरी को समर्थन का आश्वासन दिया। यह आश्वासन इतिहास में 'ब्लैंक चेक' के रूप में दर्ज हुआ।",
+      "ar": "في 5 يوليو 1914 أكد قادة ألمانيا في برلين للنمسا-المجر دعمهم بعد اغتيال الأرشيدوق فرانتس فرديناند. ودخل هذا التعهد التاريخ باسم الشيك على بياض."
     },
     "importance": {
       "ru": "Это был один из ключевых моментов Июльского кризиса, который вскоре привёл Европу к Первой мировой войне.",
       "de": "Dies war einer der Schluesselmomente der Julikrise, die Europa bald in den Ersten Weltkrieg fuehrte.",
-      "en": "It was one of the key moments of the July Crisis, which soon led Europe into the First World War."
+      "en": "It was one of the key moments of the July Crisis, which soon led Europe into the First World War.",
+      "fr": "Ce fut l'un des moments clés de la crise de juillet, qui mena bientôt l'Europe à la Première Guerre mondiale.",
+      "es": "Fue uno de los momentos clave de la Crisis de Julio, que pronto llevó a Europa a la Primera Guerra Mundial.",
+      "it": "Fu uno dei momenti chiave della crisi di luglio, che presto portò l'Europa alla Prima guerra mondiale.",
+      "pt": "Foi um dos momentos-chave da Crise de Julho, que logo levou a Europa à Primeira Guerra Mundial.",
+      "nl": "Het was een van de sleutelmomenten van de Julicrisis, die Europa al snel de Eerste Wereldoorlog in leidde.",
+      "pl": "Był to jeden z kluczowych momentów kryzysu lipcowego, który wkrótce doprowadził Europę do I wojny światowej.",
+      "tr": "Bu, Avrupa'yı kısa süre sonra Birinci Dünya Savaşı'na götüren Temmuz Krizi'nin kilit anlarından biriydi.",
+      "zh": "这是七月危机的关键时刻之一，而这场危机很快把欧洲带入第一次世界大战。",
+      "ja": "これは、まもなくヨーロッパを第一次世界大戦へ導く七月危機の重要な局面の一つだった。",
+      "ko": "이는 곧 유럽을 제1차 세계대전으로 이끈 7월 위기의 핵심 순간 중 하나였다.",
+      "hi": "यह जुलाई संकट के प्रमुख क्षणों में से एक था, जिसने जल्द ही यूरोप को प्रथम विश्व युद्ध की ओर धकेल दिया।",
+      "ar": "كان ذلك أحد اللحظات الرئيسية في أزمة يوليو، التي قادت أوروبا بعد وقت قصير إلى الحرب العالمية الأولى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Июльский кризис",
           "de": "Die Julikrise",
-          "en": "The July Crisis"
+          "en": "The July Crisis",
+          "fr": "La crise de juillet",
+          "es": "La Crisis de Julio",
+          "it": "La crisi di luglio",
+          "pt": "A Crise de Julho",
+          "nl": "De Julicrisis",
+          "pl": "Kryzys lipcowy",
+          "tr": "Temmuz Krizi",
+          "zh": "七月危机",
+          "ja": "七月危機",
+          "ko": "7월 위기",
+          "hi": "जुलाई संकट",
+          "ar": "أزمة يوليو"
         },
         "description": {
           "ru": "После Сараевского убийства европейские державы принимали решения под давлением союзов, страха и военных планов. Поддержка Берлина сделала позицию Вены жёстче в конфликте с Сербией.",
           "de": "Nach dem Attentat von Sarajevo entschieden die europaeischen Maechte unter dem Druck von Buendnissen, Angst und Kriegsplaenen. Die Unterstuetzung Berlins machte Wiens Haltung im Konflikt mit Serbien haerter.",
-          "en": "After the Sarajevo assassination, European powers made decisions under the pressure of alliances, fear and military plans. Berlin's support hardened Vienna's position in its conflict with Serbia."
+          "en": "After the Sarajevo assassination, European powers made decisions under the pressure of alliances, fear and military plans. Berlin's support hardened Vienna's position in its conflict with Serbia.",
+          "fr": "Après l'attentat de Sarajevo, les puissances européennes prirent leurs décisions sous la pression des alliances, de la peur et des plans militaires. Le soutien de Berlin durcit la position de Vienne dans son conflit avec la Serbie.",
+          "es": "Tras el asesinato de Sarajevo, las potencias europeas tomaron decisiones bajo la presión de alianzas, miedos y planes militares. El apoyo de Berlín endureció la postura de Viena en su conflicto con Serbia.",
+          "it": "Dopo l'attentato di Sarajevo, le potenze europee presero decisioni sotto la pressione di alleanze, paure e piani militari. Il sostegno di Berlino irrigidì la posizione di Vienna nel conflitto con la Serbia.",
+          "pt": "Após o assassinato de Sarajevo, as potências europeias tomaram decisões sob a pressão de alianças, medo e planos militares. O apoio de Berlim endureceu a posição de Viena no conflito com a Sérvia.",
+          "nl": "Na de moord in Sarajevo namen de Europese mogendheden beslissingen onder druk van bondgenootschappen, angst en militaire plannen. De steun van Berlijn maakte de positie van Wenen in het conflict met Servië harder.",
+          "pl": "Po zamachu w Sarajewie europejskie mocarstwa podejmowały decyzje pod presją sojuszy, strachu i planów wojennych. Wsparcie Berlina usztywniło stanowisko Wiednia w konflikcie z Serbią.",
+          "tr": "Saraybosna suikastından sonra Avrupa güçleri ittifakların, korkunun ve askeri planların baskısı altında kararlar aldı. Berlin'in desteği, Sırbistan'la çatışmasında Viyana'nın tutumunu sertleştirdi.",
+          "zh": "萨拉热窝刺杀事件后，欧洲列强在同盟、恐惧和军事计划的压力下作出决定。柏林的支持使维也纳在与塞尔维亚的冲突中立场更加强硬。",
+          "ja": "サラエボでの暗殺後、ヨーロッパの列強は同盟、恐怖、軍事計画の圧力の下で決定を下した。ベルリンの支持は、セルビアとの対立におけるウィーンの姿勢をより強硬にした。",
+          "ko": "사라예보 암살 이후 유럽 열강은 동맹, 두려움, 군사 계획의 압박 속에서 결정을 내렸다. 베를린의 지원은 세르비아와의 갈등에서 빈의 입장을 더 강경하게 만들었다.",
+          "hi": "सारायेवो हत्या के बाद यूरोपीय शक्तियों ने गठबंधनों, भय और सैन्य योजनाओं के दबाव में निर्णय लिए। बर्लिन के समर्थन ने सर्बिया के साथ संघर्ष में वियना की स्थिति को और कठोर बना दिया।",
+          "ar": "بعد اغتيال سراييفو اتخذت القوى الأوروبية قراراتها تحت ضغط التحالفات والخوف والخطط العسكرية. وجعل دعم برلين موقف فيينا في نزاعها مع صربيا أكثر تشددا."
         },
         "importance": {
           "ru": "Дата показывает, как дипломатические обещания могут запустить цепочку событий с огромными последствиями.",
           "de": "Das Datum zeigt, wie diplomatische Zusagen eine Kette von Ereignissen mit riesigen Folgen ausloesen koennen.",
-          "en": "The date shows how diplomatic promises can set off a chain of events with enormous consequences."
+          "en": "The date shows how diplomatic promises can set off a chain of events with enormous consequences.",
+          "fr": "Cette date montre comment des promesses diplomatiques peuvent déclencher une chaîne d'événements aux conséquences énormes.",
+          "es": "La fecha muestra cómo las promesas diplomáticas pueden desencadenar una cadena de acontecimientos con enormes consecuencias.",
+          "it": "La data mostra come le promesse diplomatiche possano avviare una catena di eventi con conseguenze enormi.",
+          "pt": "A data mostra como promessas diplomáticas podem desencadear uma cadeia de acontecimentos com enormes consequências.",
+          "nl": "De datum laat zien hoe diplomatieke beloften een keten van gebeurtenissen met enorme gevolgen kunnen losmaken.",
+          "pl": "Ta data pokazuje, jak dyplomatyczne obietnice mogą uruchomić łańcuch wydarzeń o ogromnych konsekwencjach.",
+          "tr": "Bu tarih, diplomatik vaatlerin nasıl çok büyük sonuçları olan bir olaylar zincirini başlatabileceğini gösterir.",
+          "zh": "这个日期说明外交承诺如何引发后果巨大的事件链。",
+          "ja": "この日は、外交上の約束がいかに巨大な結果を伴う出来事の連鎖を引き起こしうるかを示している。",
+          "ko": "이 날짜는 외교적 약속이 어떻게 엄청난 결과를 낳는 사건의 연쇄를 촉발할 수 있는지 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि कूटनीतिक वादे कैसे बहुत बड़े परिणामों वाली घटनाओं की श्रृंखला शुरू कर सकते हैं।",
+          "ar": "يبين هذا التاريخ كيف يمكن للوعود الدبلوماسية أن تطلق سلسلة أحداث ذات عواقب هائلة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Почему «чек»?",
           "de": "Warum ein Scheck?",
-          "en": "Why a cheque?"
+          "en": "Why a cheque?",
+          "fr": "Pourquoi un chèque ?",
+          "es": "¿Por qué un cheque?",
+          "it": "Perché un assegno?",
+          "pt": "Por que um cheque?",
+          "nl": "Waarom een cheque?",
+          "pl": "Dlaczego czek?",
+          "tr": "Neden çek?",
+          "zh": "为什么是“支票”？",
+          "ja": "なぜ「小切手」なのか",
+          "ko": "왜 수표인가?",
+          "hi": "चेक क्यों?",
+          "ar": "لماذا شيك؟"
         },
         "description": {
           "ru": "Речь шла не о настоящем банковском чеке, а о метафоре: Австро-Венгрия получила ощущение, что Германия поддержит её почти при любом развитии событий. Поэтому выражение стало таким запоминающимся.",
           "de": "Gemeint war kein echter Bankscheck, sondern eine Metapher: Oesterreich-Ungarn gewann den Eindruck, dass Deutschland es fast bei jeder Entwicklung unterstuetzen wuerde. Darum blieb der Ausdruck so einpraegsam.",
-          "en": "It was not a real bank cheque, but a metaphor: Austria-Hungary gained the impression that Germany would support it in almost any development. That is why the expression became so memorable."
+          "en": "It was not a real bank cheque, but a metaphor: Austria-Hungary gained the impression that Germany would support it in almost any development. That is why the expression became so memorable.",
+          "fr": "Il ne s'agissait pas d'un vrai chèque bancaire, mais d'une métaphore: l'Autriche-Hongrie eut l'impression que l'Allemagne la soutiendrait dans presque toute évolution. C'est pourquoi l'expression resta si marquante.",
+          "es": "No era un cheque bancario real, sino una metáfora: Austria-Hungría tuvo la impresión de que Alemania la apoyaría en casi cualquier desarrollo. Por eso la expresión se volvió tan memorable.",
+          "it": "Non si trattava di un vero assegno bancario, ma di una metafora: l'Austria-Ungheria ebbe l'impressione che la Germania l'avrebbe sostenuta quasi in ogni sviluppo. Per questo l'espressione rimase così memorabile.",
+          "pt": "Não era um cheque bancário real, mas uma metáfora: a Áustria-Hungria ficou com a impressão de que a Alemanha a apoiaria em quase qualquer desenvolvimento. Por isso a expressão se tornou tão memorável.",
+          "nl": "Het ging niet om een echte bankcheque, maar om een metafoor: Oostenrijk-Hongarije kreeg de indruk dat Duitsland het bij bijna elke ontwikkeling zou steunen. Daarom bleef de uitdrukking zo herkenbaar.",
+          "pl": "Nie chodziło o prawdziwy czek bankowy, lecz o metaforę: Austro-Węgry odniosły wrażenie, że Niemcy poprą je niemal przy każdym rozwoju wydarzeń. Dlatego wyrażenie stało się tak zapamiętywane.",
+          "tr": "Bu gerçek bir banka çeki değil, bir mecazdı: Avusturya-Macaristan, Almanya'nın neredeyse her gelişmede kendisini destekleyeceği izlenimini edindi. Bu yüzden ifade bu kadar akılda kalıcı oldu.",
+          "zh": "这并不是真正的银行支票，而是一个比喻：奥匈帝国觉得德国几乎会在任何情况下支持它。因此这个说法如此令人难忘。",
+          "ja": "それは本物の銀行小切手ではなく比喩だった。オーストリア＝ハンガリーは、ほぼどのような展開でもドイツが支援してくれるという印象を得た。そのため、この表現は非常に記憶に残るものとなった。",
+          "ko": "그것은 실제 은행 수표가 아니라 비유였다. 오스트리아-헝가리는 거의 어떤 상황에서도 독일이 자신을 지원할 것이라는 인상을 받았다. 그래서 이 표현은 오래 기억되게 되었다.",
+          "hi": "यह असली बैंक चेक नहीं था, बल्कि एक रूपक था: ऑस्ट्रिया-हंगरी को लगा कि जर्मनी लगभग किसी भी स्थिति में उसका समर्थन करेगा। इसलिए यह अभिव्यक्ति इतनी यादगार बन गई।",
+          "ar": "لم يكن شيكا مصرفيا حقيقيا، بل استعارة: إذ شعرت النمسا-المجر بأن ألمانيا ستدعمها في أي تطور تقريبا. ولهذا أصبح التعبير شديد الرسوخ في الذاكرة."
         },
         "importance": {
           "ru": "Иногда простая метафора помогает понять сложный дипломатический кризис.",
           "de": "Manchmal hilft eine einfache Metapher, eine komplizierte diplomatische Krise zu verstehen.",
-          "en": "Sometimes a simple metaphor helps explain a complicated diplomatic crisis."
+          "en": "Sometimes a simple metaphor helps explain a complicated diplomatic crisis.",
+          "fr": "Parfois, une simple métaphore aide à comprendre une crise diplomatique compliquée.",
+          "es": "A veces una metáfora sencilla ayuda a entender una crisis diplomática complicada.",
+          "it": "A volte una semplice metafora aiuta a capire una crisi diplomatica complicata.",
+          "pt": "Às vezes uma metáfora simples ajuda a entender uma crise diplomática complicada.",
+          "nl": "Soms helpt een eenvoudige metafoor om een ingewikkelde diplomatieke crisis te begrijpen.",
+          "pl": "Czasem prosta metafora pomaga zrozumieć skomplikowany kryzys dyplomatyczny.",
+          "tr": "Bazen basit bir mecaz, karmaşık bir diplomatik krizi anlamaya yardımcı olur.",
+          "zh": "有时，一个简单的比喻能帮助理解复杂的外交危机。",
+          "ja": "時には単純な比喩が、複雑な外交危機を理解する助けになる。",
+          "ko": "때로는 단순한 비유가 복잡한 외교 위기를 이해하는 데 도움이 된다.",
+          "hi": "कभी-कभी सरल रूपक जटिल कूटनीतिक संकट को समझने में मदद करता है।",
+          "ar": "أحيانا تساعد استعارة بسيطة على فهم أزمة دبلوماسية معقدة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Через несколько недель после «бланкового чека» локальный конфликт на Балканах превратился в общеевропейскую войну.",
     "de": "Nur wenige Wochen nach dem Blankoscheck wurde aus einem lokalen Konflikt auf dem Balkan ein europaeischer Krieg.",
-    "en": "Only weeks after the blank cheque, a local conflict in the Balkans turned into a European war."
+    "en": "Only weeks after the blank cheque, a local conflict in the Balkans turned into a European war.",
+    "fr": "Quelques semaines seulement après le chèque en blanc, un conflit local dans les Balkans se transforma en guerre européenne.",
+    "es": "Solo unas semanas después del cheque en blanco, un conflicto local en los Balcanes se convirtió en una guerra europea.",
+    "it": "Solo poche settimane dopo l'assegno in bianco, un conflitto locale nei Balcani si trasformò in una guerra europea.",
+    "pt": "Apenas algumas semanas após o cheque em branco, um conflito local nos Bálcãs transformou-se numa guerra europeia.",
+    "nl": "Slechts enkele weken na de blanco cheque veranderde een lokaal conflict op de Balkan in een Europese oorlog.",
+    "pl": "Zaledwie kilka tygodni po blankietowym czeku lokalny konflikt na Bałkanach zmienił się w wojnę europejską.",
+    "tr": "Açık çekten sadece birkaç hafta sonra Balkanlar'daki yerel bir çatışma Avrupa savaşına dönüştü.",
+    "zh": "“空白支票”之后仅仅数周，巴尔干的一场局部冲突就变成了欧洲战争。",
+    "ja": "白紙委任からわずか数週間後、バルカン半島の局地的な対立はヨーロッパの戦争へと変わった。",
+    "ko": "백지수표가 나온 지 불과 몇 주 뒤, 발칸의 지역 분쟁은 유럽 전쟁으로 바뀌었다.",
+    "hi": "ब्लैंक चेक के कुछ ही हफ्तों बाद बाल्कन का स्थानीय संघर्ष यूरोपीय युद्ध में बदल गया।",
+    "ar": "بعد أسابيع قليلة فقط من الشيك على بياض تحول نزاع محلي في البلقان إلى حرب أوروبية."
   },
   "sources": [
     {

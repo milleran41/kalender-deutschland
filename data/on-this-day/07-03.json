@@ -11,17 +11,53 @@
     "title": {
       "ru": "Karl Benz показал свой Motorwagen публике",
       "de": "Karl Benz zeigt seinen Motorwagen oeffentlich",
-      "en": "Karl Benz shows his Motorwagen in public"
+      "en": "Karl Benz shows his Motorwagen in public",
+      "fr": "Karl Benz présente son Motorwagen au public",
+      "es": "Karl Benz muestra su Motorwagen al público",
+      "it": "Karl Benz mostra il suo Motorwagen al pubblico",
+      "pt": "Karl Benz mostra seu Motorwagen ao público",
+      "nl": "Karl Benz toont zijn Motorwagen aan het publiek",
+      "pl": "Karl Benz pokazuje publicznie swój Motorwagen",
+      "tr": "Karl Benz Motorwagen'ini halka gösterir",
+      "zh": "卡尔·本茨向公众展示他的Motorwagen",
+      "ja": "カール・ベンツがMotorwagenを公開する",
+      "ko": "카를 벤츠가 Motorwagen을 대중에게 선보이다",
+      "hi": "कार्ल बेंज़ ने अपना Motorwagen जनता को दिखाया",
+      "ar": "كارل بنز يعرض سيارته Motorwagen أمام الجمهور"
     },
     "description": {
       "ru": "3 июля 1886 года Карл Бенц впервые публично проехал на своём Patent-Motorwagen в Мангейме. Трёхколёсная машина с бензиновым двигателем стала одним из символов рождения автомобиля.",
       "de": "Am 3. Juli 1886 fuhr Karl Benz in Mannheim erstmals oeffentlich mit seinem Patent-Motorwagen. Das dreiraedrige Fahrzeug mit Benzinmotor wurde zu einem Symbol fuer die Geburt des Automobils.",
-      "en": "On 3 July 1886, Karl Benz publicly drove his Patent-Motorwagen in Mannheim for the first time. The three-wheeled vehicle with a gasoline engine became a symbol of the birth of the automobile."
+      "en": "On 3 July 1886, Karl Benz publicly drove his Patent-Motorwagen in Mannheim for the first time. The three-wheeled vehicle with a gasoline engine became a symbol of the birth of the automobile.",
+      "fr": "Le 3 juillet 1886, Karl Benz conduisit pour la première fois publiquement son Patent-Motorwagen à Mannheim. Le véhicule à trois roues équipé d'un moteur à essence devint un symbole de la naissance de l'automobile.",
+      "es": "El 3 de julio de 1886, Karl Benz condujo por primera vez en público su Patent-Motorwagen en Mannheim. El vehículo de tres ruedas con motor de gasolina se convirtió en un símbolo del nacimiento del automóvil.",
+      "it": "Il 3 luglio 1886 Karl Benz guidò per la prima volta in pubblico il suo Patent-Motorwagen a Mannheim. Il veicolo a tre ruote con motore a benzina divenne un simbolo della nascita dell'automobile.",
+      "pt": "Em 3 de julho de 1886, Karl Benz dirigiu publicamente pela primeira vez seu Patent-Motorwagen em Mannheim. O veículo de três rodas com motor a gasolina tornou-se um símbolo do nascimento do automóvel.",
+      "nl": "Op 3 juli 1886 reed Karl Benz in Mannheim voor het eerst publiekelijk met zijn Patent-Motorwagen. Het driewielige voertuig met benzinemotor werd een symbool van de geboorte van de auto.",
+      "pl": "3 lipca 1886 roku Karl Benz po raz pierwszy publicznie przejechał swoim Patent-Motorwagen w Mannheim. Trójkołowy pojazd z silnikiem benzynowym stał się symbolem narodzin samochodu.",
+      "tr": "3 Temmuz 1886'da Karl Benz, Mannheim'da Patent-Motorwagen'i ilk kez halka açık şekilde sürdü. Benzinli motora sahip üç tekerlekli araç, otomobilin doğuşunun sembollerinden biri oldu.",
+      "zh": "1886年7月3日，卡尔·本茨首次在曼海姆公开驾驶他的Patent-Motorwagen。这辆装有汽油发动机的三轮车成为汽车诞生的象征之一。",
+      "ja": "1886年7月3日、カール・ベンツはマンハイムで初めてPatent-Motorwagenを公道で公開走行させた。ガソリンエンジンを備えた三輪車は、自動車誕生の象徴となった。",
+      "ko": "1886년 7월 3일, 카를 벤츠는 만하임에서 자신의 Patent-Motorwagen을 처음으로 공개 주행했다. 가솔린 엔진을 단 세 바퀴 차량은 자동차 탄생의 상징이 되었다.",
+      "hi": "3 जुलाई 1886 को कार्ल बेंज़ ने मैनहाइम में पहली बार सार्वजनिक रूप से अपना Patent-Motorwagen चलाया। पेट्रोल इंजन वाली तीन पहियों की यह गाड़ी ऑटोमोबाइल के जन्म का प्रतीक बनी।",
+      "ar": "في 3 يوليو 1886 قاد كارل بنز علنا سيارته Patent-Motorwagen في مانهايم للمرة الأولى. وأصبحت المركبة ذات العجلات الثلاث ومحرك البنزين رمزا لميلاد السيارة."
     },
     "importance": {
       "ru": "Это событие связывает Германию, Баден-Вюртемберг и мировую историю транспорта.",
       "de": "Das Ereignis verbindet Deutschland, Baden-Wuerttemberg und die Weltgeschichte des Verkehrs.",
-      "en": "The event links Germany, Baden-Wuerttemberg and the global history of transport."
+      "en": "The event links Germany, Baden-Wuerttemberg and the global history of transport.",
+      "fr": "Cet événement relie l'Allemagne, le Bade-Wurtemberg et l'histoire mondiale des transports.",
+      "es": "El hecho conecta a Alemania, Baden-Wurtemberg y la historia mundial del transporte.",
+      "it": "L'evento collega la Germania, il Baden-Württemberg e la storia mondiale dei trasporti.",
+      "pt": "O acontecimento liga a Alemanha, Baden-Württemberg e a história mundial dos transportes.",
+      "nl": "De gebeurtenis verbindt Duitsland, Baden-Württemberg en de wereldgeschiedenis van het vervoer.",
+      "pl": "Wydarzenie łączy Niemcy, Badenię-Wirtembergię i światową historię transportu.",
+      "tr": "Bu olay Almanya'yı, Baden-Württemberg'i ve ulaşımın dünya tarihini birbirine bağlar.",
+      "zh": "这一事件把德国、巴登-符腾堡和世界交通史联系在一起。",
+      "ja": "この出来事は、ドイツ、バーデン＝ヴュルテンベルク、そして世界の交通史を結びつけている。",
+      "ko": "이 사건은 독일, 바덴뷔르템베르크, 세계 교통사를 연결한다.",
+      "hi": "यह घटना जर्मनी, बाडेन-वुर्टेमबर्ग और परिवहन के विश्व इतिहास को जोड़ती है।",
+      "ar": "يربط هذا الحدث ألمانيا وبادن-فورتمبيرغ بتاريخ النقل العالمي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Первый практичный автомобиль с бензиновым двигателем",
           "de": "Das erste praktische Auto mit Benzinmotor",
-          "en": "The first practical gasoline automobile"
+          "en": "The first practical gasoline automobile",
+          "fr": "La première automobile pratique à essence",
+          "es": "El primer automóvil práctico de gasolina",
+          "it": "La prima automobile pratica a benzina",
+          "pt": "O primeiro automóvel prático a gasolina",
+          "nl": "De eerste praktische benzineauto",
+          "pl": "Pierwszy praktyczny samochód benzynowy",
+          "tr": "İlk pratik benzinli otomobil",
+          "zh": "第一辆实用汽油汽车",
+          "ja": "最初の実用的なガソリン自動車",
+          "ko": "최초의 실용적인 가솔린 자동차",
+          "hi": "पहली व्यावहारिक पेट्रोल कार",
+          "ar": "أول سيارة عملية تعمل بالبنزين"
         },
         "description": {
           "ru": "Benz Patent-Motorwagen не был похож на современные машины: у него было три колеса, простая рама и маленький двигатель. Но он показал, что самодвижущееся дорожное транспортное средство может работать в реальной жизни.",
           "de": "Der Benz Patent-Motorwagen sah modernen Autos kaum aehnlich: Er hatte drei Raeder, einen einfachen Rahmen und einen kleinen Motor. Doch er zeigte, dass ein selbstfahrendes Strassenfahrzeug praktisch funktionieren konnte.",
-          "en": "The Benz Patent-Motorwagen hardly resembled modern cars: it had three wheels, a simple frame and a small engine. But it showed that a self-propelled road vehicle could work in practice."
+          "en": "The Benz Patent-Motorwagen hardly resembled modern cars: it had three wheels, a simple frame and a small engine. But it showed that a self-propelled road vehicle could work in practice.",
+          "fr": "Le Benz Patent-Motorwagen ressemblait peu aux voitures modernes: il avait trois roues, un châssis simple et un petit moteur. Mais il montra qu'un véhicule routier automoteur pouvait fonctionner en pratique.",
+          "es": "El Benz Patent-Motorwagen apenas se parecía a los coches modernos: tenía tres ruedas, un bastidor sencillo y un motor pequeño. Pero demostró que un vehículo de carretera autopropulsado podía funcionar en la práctica.",
+          "it": "Il Benz Patent-Motorwagen somigliava poco alle auto moderne: aveva tre ruote, un telaio semplice e un piccolo motore. Ma dimostrò che un veicolo stradale semovente poteva funzionare davvero.",
+          "pt": "O Benz Patent-Motorwagen pouco se parecia com os carros modernos: tinha três rodas, uma estrutura simples e um motor pequeno. Mas mostrou que um veículo rodoviário autopropulsado podia funcionar na prática.",
+          "nl": "De Benz Patent-Motorwagen leek nauwelijks op moderne auto's: hij had drie wielen, een eenvoudig frame en een kleine motor. Maar hij liet zien dat een zelfrijdend wegvoertuig in de praktijk kon werken.",
+          "pl": "Benz Patent-Motorwagen prawie nie przypominał współczesnych samochodów: miał trzy koła, prostą ramę i mały silnik. Pokazał jednak, że samobieżny pojazd drogowy może działać w praktyce.",
+          "tr": "Benz Patent-Motorwagen modern arabalara pek benzemiyordu: üç tekerleği, basit bir şasisi ve küçük bir motoru vardı. Ama kendi kendine hareket eden bir karayolu aracının pratikte çalışabileceğini gösterdi.",
+          "zh": "本茨Patent-Motorwagen几乎不像现代汽车：它有三个轮子、简单车架和小型发动机。但它证明了自推进道路车辆可以在现实中运行。",
+          "ja": "ベンツPatent-Motorwagenは現代の車とはほとんど似ていなかった。三つの車輪、単純なフレーム、小さなエンジンを持っていた。しかし、自走式の道路車両が実用的に機能しうることを示した。",
+          "ko": "벤츠 Patent-Motorwagen은 현대 자동차와 거의 닮지 않았다. 세 바퀴, 단순한 프레임, 작은 엔진을 갖고 있었다. 그러나 스스로 움직이는 도로 차량이 실제로 작동할 수 있음을 보여 주었다.",
+          "hi": "Benz Patent-Motorwagen आधुनिक कारों जैसा बहुत कम दिखता था: उसमें तीन पहिए, साधारण फ्रेम और छोटा इंजन था। लेकिन उसने दिखाया कि स्वयं चलने वाला सड़क वाहन व्यवहार में काम कर सकता है।",
+          "ar": "لم يكن Benz Patent-Motorwagen يشبه السيارات الحديثة كثيرا: كانت له ثلاث عجلات وهيكل بسيط ومحرك صغير. لكنه أظهر أن مركبة طريق ذاتية الحركة يمكن أن تعمل عمليا."
         },
         "importance": {
           "ru": "С этой машины начинается длинная история немецкого автомобилестроения.",
           "de": "Mit diesem Fahrzeug beginnt ein langer Teil der deutschen Automobilgeschichte.",
-          "en": "This vehicle marks the beginning of a long chapter in German automotive history."
+          "en": "This vehicle marks the beginning of a long chapter in German automotive history.",
+          "fr": "Ce véhicule marque le début d'un long chapitre de l'histoire automobile allemande.",
+          "es": "Este vehículo marca el comienzo de un largo capítulo en la historia automovilística alemana.",
+          "it": "Questo veicolo segna l'inizio di un lungo capitolo della storia automobilistica tedesca.",
+          "pt": "Este veículo marca o início de um longo capítulo da história automobilística alemã.",
+          "nl": "Dit voertuig markeert het begin van een lang hoofdstuk in de Duitse autogeschiedenis.",
+          "pl": "Ten pojazd wyznacza początek długiego rozdziału w historii niemieckiej motoryzacji.",
+          "tr": "Bu araç Alman otomotiv tarihinde uzun bir bölümün başlangıcını işaret eder.",
+          "zh": "这辆车标志着德国汽车史上漫长篇章的开始。",
+          "ja": "この車両はドイツ自動車史の長い一章の始まりを示している。",
+          "ko": "이 차량은 독일 자동차 역사에서 긴 장의 시작을 알린다.",
+          "hi": "यह वाहन जर्मन ऑटोमोबाइल इतिहास के लंबे अध्याय की शुरुआत दर्शाता है।",
+          "ar": "تمثل هذه المركبة بداية فصل طويل في تاريخ صناعة السيارات الألمانية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Публика увидела машину на обычной улице",
           "de": "Das Publikum sah das Auto auf einer normalen Strasse",
-          "en": "The public saw the car on an ordinary street"
+          "en": "The public saw the car on an ordinary street",
+          "fr": "Le public vit la voiture dans une rue ordinaire",
+          "es": "El público vio el coche en una calle normal",
+          "it": "Il pubblico vide l'auto su una strada normale",
+          "pt": "O público viu o carro numa rua comum",
+          "nl": "Het publiek zag de auto op een gewone straat",
+          "pl": "Publiczność zobaczyła samochód na zwykłej ulicy",
+          "tr": "Halk arabayı sıradan bir sokakta gördü",
+          "zh": "公众在普通街道上看到了汽车",
+          "ja": "人々は普通の道路で車を見た",
+          "ko": "대중은 평범한 거리에서 자동차를 보았다",
+          "hi": "लोगों ने कार को साधारण सड़क पर देखा",
+          "ar": "رأى الجمهور السيارة في شارع عادي"
         },
         "description": {
           "ru": "Бенц показывал автомобиль не в фантастическом романе и не на закрытом заводе, а на дороге в Мангейме. Для людей XIX века такая машина выглядела почти невероятной.",
           "de": "Benz zeigte das Auto nicht in einem Zukunftsroman und nicht nur in einer Fabrik, sondern auf einer Strasse in Mannheim. Fuer Menschen des 19. Jahrhunderts wirkte so ein Fahrzeug fast unglaublich.",
-          "en": "Benz showed the car not in a science-fiction story and not only inside a factory, but on a road in Mannheim. For people of the 19th century, such a vehicle must have seemed almost unbelievable."
+          "en": "Benz showed the car not in a science-fiction story and not only inside a factory, but on a road in Mannheim. For people of the 19th century, such a vehicle must have seemed almost unbelievable.",
+          "fr": "Benz montra la voiture non pas dans un roman de science-fiction ni seulement dans une usine, mais sur une route de Mannheim. Pour les gens du XIXe siècle, un tel véhicule devait sembler presque incroyable.",
+          "es": "Benz mostró el coche no en una historia de ciencia ficción ni solo dentro de una fábrica, sino en una carretera de Mannheim. Para la gente del siglo XIX, un vehículo así debió de parecer casi increíble.",
+          "it": "Benz mostrò l'auto non in un racconto di fantascienza e non solo dentro una fabbrica, ma su una strada di Mannheim. Per le persone del XIX secolo, un veicolo del genere doveva sembrare quasi incredibile.",
+          "pt": "Benz mostrou o carro não numa história de ficção científica nem apenas dentro de uma fábrica, mas numa estrada em Mannheim. Para as pessoas do século XIX, tal veículo deve ter parecido quase inacreditável.",
+          "nl": "Benz toonde de auto niet in een sciencefictionverhaal en niet alleen in een fabriek, maar op een weg in Mannheim. Voor mensen uit de negentiende eeuw moet zo'n voertuig bijna ongelooflijk hebben geleken.",
+          "pl": "Benz pokazał samochód nie w powieści fantastycznej i nie tylko w fabryce, lecz na drodze w Mannheim. Dla ludzi XIX wieku taki pojazd musiał wydawać się niemal niewiarygodny.",
+          "tr": "Benz arabayı bir bilimkurgu hikayesinde ya da sadece bir fabrikanın içinde değil, Mannheim'daki bir yolda gösterdi. 19. yüzyıl insanları için böyle bir araç neredeyse inanılmaz görünmüş olmalı.",
+          "zh": "本茨不是在科幻故事里，也不只是工厂内部展示这辆车，而是在曼海姆的道路上展示。对19世纪的人来说，这样的车辆一定近乎不可思议。",
+          "ja": "ベンツはその車をSF小説の中でも工場の中だけでもなく、マンハイムの道路で見せた。19世紀の人々にとって、そのような乗り物はほとんど信じられないものに見えたはずだ。",
+          "ko": "벤츠는 자동차를 공상과학 이야기 속이나 공장 안에서만 보여 준 것이 아니라 만하임의 도로 위에서 보여 주었다. 19세기 사람들에게 그런 차량은 거의 믿기 어려워 보였을 것이다.",
+          "hi": "बेंज़ ने कार को किसी विज्ञान-कथा में या सिर्फ कारखाने के अंदर नहीं, बल्कि मैनहाइम की सड़क पर दिखाया। उन्नीसवीं सदी के लोगों को ऐसी गाड़ी लगभग अविश्वसनीय लगी होगी।",
+          "ar": "لم يعرض بنز السيارة في قصة خيال علمي ولا داخل مصنع فقط، بل على طريق في مانهايم. وبالنسبة إلى ناس القرن التاسع عشر لا بد أن مركبة كهذه بدت شبه غير معقولة."
         },
         "importance": {
           "ru": "Это хороший пример того, как техническая новинка сначала выглядит странно, а потом меняет весь мир.",
           "de": "Das ist ein gutes Beispiel dafuer, wie eine technische Neuheit zuerst seltsam wirkt und spaeter die Welt veraendert.",
-          "en": "It is a good example of how a technical novelty first looks strange and later changes the world."
+          "en": "It is a good example of how a technical novelty first looks strange and later changes the world.",
+          "fr": "C'est un bon exemple de la manière dont une nouveauté technique paraît d'abord étrange, puis change le monde.",
+          "es": "Es un buen ejemplo de cómo una novedad técnica primero parece extraña y luego cambia el mundo.",
+          "it": "È un buon esempio di come una novità tecnica sembri prima strana e poi cambi il mondo.",
+          "pt": "É um bom exemplo de como uma novidade técnica primeiro parece estranha e depois muda o mundo.",
+          "nl": "Het is een goed voorbeeld van hoe een technische nieuwigheid eerst vreemd lijkt en later de wereld verandert.",
+          "pl": "To dobry przykład tego, jak techniczna nowość najpierw wygląda dziwnie, a później zmienia świat.",
+          "tr": "Bu, teknik bir yeniliğin önce garip görünüp sonra dünyayı nasıl değiştirdiğine iyi bir örnektir.",
+          "zh": "这是技术新事物最初显得奇怪、后来改变世界的好例子。",
+          "ja": "技術的な新しさが最初は奇妙に見え、後に世界を変えることを示す好例である。",
+          "ko": "기술적 새로움이 처음에는 낯설어 보이다가 나중에 세상을 바꾸는 좋은 사례이다.",
+          "hi": "यह अच्छा उदाहरण है कि तकनीकी नई चीज पहले अजीब लगती है और बाद में दुनिया बदल देती है।",
+          "ar": "إنه مثال جيد على أن الابتكار التقني يبدو غريبا أولا ثم يغير العالم لاحقا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Через два года Берта Бенц совершила знаменитую дальнюю поездку из Мангейма в Пфорцхайм и доказала, что автомобиль полезен не только для коротких показов.",
     "de": "Zwei Jahre spaeter unternahm Bertha Benz ihre beruehmte Fernfahrt von Mannheim nach Pforzheim und bewies, dass das Auto mehr konnte als kurze Vorfuehrungen.",
-    "en": "Two years later, Bertha Benz made her famous long-distance drive from Mannheim to Pforzheim and proved that the automobile was useful beyond short demonstrations."
+    "en": "Two years later, Bertha Benz made her famous long-distance drive from Mannheim to Pforzheim and proved that the automobile was useful beyond short demonstrations.",
+    "fr": "Deux ans plus tard, Bertha Benz effectua son célèbre trajet longue distance de Mannheim à Pforzheim et prouva que l'automobile servait à plus que de courtes démonstrations.",
+    "es": "Dos años después, Bertha Benz realizó su famoso viaje de larga distancia de Mannheim a Pforzheim y demostró que el automóvil era útil más allá de las breves demostraciones.",
+    "it": "Due anni dopo, Bertha Benz compì il suo famoso viaggio a lunga distanza da Mannheim a Pforzheim e dimostrò che l'automobile era utile oltre le brevi dimostrazioni.",
+    "pt": "Dois anos depois, Bertha Benz fez sua famosa viagem de longa distância de Mannheim a Pforzheim e provou que o automóvel era útil além de breves demonstrações.",
+    "nl": "Twee jaar later maakte Bertha Benz haar beroemde lange rit van Mannheim naar Pforzheim en bewees zij dat de auto meer waard was dan korte demonstraties.",
+    "pl": "Dwa lata później Bertha Benz odbyła swoją słynną daleką podróż z Mannheim do Pforzheim i udowodniła, że samochód przydaje się nie tylko do krótkich pokazów.",
+    "tr": "İki yıl sonra Bertha Benz, Mannheim'dan Pforzheim'a yaptığı ünlü uzun yolculukla otomobilin kısa gösterilerden daha fazlasına yararlı olduğunu kanıtladı.",
+    "zh": "两年后，贝尔塔·本茨完成了从曼海姆到普福尔茨海姆的著名长途驾驶，证明汽车不只适合短暂展示。",
+    "ja": "2年後、ベルタ・ベンツはマンハイムからプフォルツハイムまでの有名な長距離走行を行い、自動車が短い実演以上に役立つことを証明した。",
+    "ko": "2년 뒤 베르타 벤츠는 만하임에서 포르츠하임까지 유명한 장거리 주행을 하며 자동차가 짧은 시연 이상의 쓸모가 있음을 증명했다.",
+    "hi": "दो साल बाद बर्था बेंज़ ने मैनहाइम से प्फ़ोर्ज़हाइम तक अपनी प्रसिद्ध लंबी यात्रा की और साबित किया कि ऑटोमोबाइल छोटी प्रदर्शनी से कहीं अधिक उपयोगी है।",
+    "ar": "بعد عامين قامت بيرتا بنز برحلتها الطويلة الشهيرة من مانهايم إلى بفورتسهايم وأثبتت أن السيارة مفيدة لأكثر من عروض قصيرة."
   },
   "sources": [
     {
