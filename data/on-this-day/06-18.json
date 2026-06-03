@@ -11,17 +11,53 @@
     "title": {
       "ru": "Битва при Ватерлоо",
       "de": "Die Schlacht bei Waterloo",
-      "en": "The Battle of Waterloo"
+      "en": "The Battle of Waterloo",
+      "fr": "La bataille de Waterloo",
+      "es": "La batalla de Waterloo",
+      "it": "La battaglia di Waterloo",
+      "pt": "A Batalha de Waterloo",
+      "nl": "De Slag bij Waterloo",
+      "pl": "Bitwa pod Waterloo",
+      "tr": "Waterloo Muharebesi",
+      "zh": "滑铁卢战役",
+      "ja": "ワーテルローの戦い",
+      "ko": "워털루 전투",
+      "hi": "वाटरलू की लड़ाई",
+      "ar": "معركة واترلو"
     },
     "description": {
       "ru": "18 июня 1815 года армия Наполеона была окончательно разбита у Ватерлоо. Важную роль в победе коалиции сыграли прусские войска под командованием Гебхарда Леберехта фон Блюхера.",
       "de": "Am 18. Juni 1815 wurde Napoleons Armee bei Waterloo endgueltig geschlagen. Eine wichtige Rolle beim Sieg der Koalition spielten preussische Truppen unter Gebhard Leberecht von Bluecher.",
-      "en": "On 18 June 1815, Napoleon's army was decisively defeated at Waterloo. Prussian troops under Gebhard Leberecht von Bluecher played an important role in the coalition victory."
+      "en": "On 18 June 1815, Napoleon's army was decisively defeated at Waterloo. Prussian troops under Gebhard Leberecht von Bluecher played an important role in the coalition victory.",
+      "fr": "Le 18 juin 1815, l'armee de Napoleon fut definitivement vaincue a Waterloo. Les troupes prussiennes commandees par Gebhard Leberecht von Bluecher jouerent un role important dans la victoire de la coalition.",
+      "es": "El 18 de junio de 1815, el ejercito de Napoleon fue derrotado decisivamente en Waterloo. Las tropas prusianas bajo el mando de Gebhard Leberecht von Bluecher desempenaron un papel importante en la victoria de la coalicion.",
+      "it": "Il 18 giugno 1815 l'esercito di Napoleone fu sconfitto definitivamente a Waterloo. Le truppe prussiane guidate da Gebhard Leberecht von Bluecher ebbero un ruolo importante nella vittoria della coalizione.",
+      "pt": "Em 18 de junho de 1815, o exercito de Napoleao foi derrotado decisivamente em Waterloo. Tropas prussianas sob Gebhard Leberecht von Bluecher tiveram papel importante na vitoria da coalicao.",
+      "nl": "Op 18 juni 1815 werd Napoleons leger bij Waterloo beslissend verslagen. Pruisische troepen onder Gebhard Leberecht von Bluecher speelden een belangrijke rol in de coalitieoverwinning.",
+      "pl": "18 czerwca 1815 roku armia Napoleona zostala ostatecznie pokonana pod Waterloo. Wojska pruskie pod dowodztwem Gebharda Leberechta von Bluechera odegraly wazna role w zwyciestwie koalicji.",
+      "tr": "18 Haziran 1815'te Napolyon'un ordusu Waterloo'da kesin olarak yenildi. Gebhard Leberecht von Bluecher komutasindaki Prusya birlikleri koalisyon zaferinde onemli rol oynadi.",
+      "zh": "1815年6月18日，拿破仑的军队在滑铁卢被决定性击败。格布哈德·勒贝雷希特·冯·布吕歇尔指挥的普鲁士军队在联军胜利中发挥了重要作用。",
+      "ja": "1815年6月18日、ナポレオン軍はワーテルローで決定的に敗れました。ゲプハルト・レーベレヒト・フォン・ブリュッヒャー率いるプロイセン軍は、連合軍の勝利に重要な役割を果たしました。",
+      "ko": "1815년 6월 18일 나폴레옹의 군대는 워털루에서 결정적으로 패배했습니다. 게프하르트 레베레히트 폰 블뤼허가 지휘한 프로이센군은 연합군 승리에 중요한 역할을 했습니다.",
+      "hi": "18 जून 1815 को नेपोलियन की सेना वाटरलू में निर्णायक रूप से पराजित हुई। गेबहार्ड लेबेरेख्ट फॉन ब्ल्यूशर के नेतृत्व वाली प्रशियाई सेनाओं ने गठबंधन की जीत में महत्वपूर्ण भूमिका निभाई।",
+      "ar": "في 18 يونيو 1815 هُزم جيش نابليون هزيمة حاسمة في واترلو. ولعبت القوات البروسية بقيادة غبهارد ليبرخت فون بلوخر دورا مهما في انتصار التحالف."
     },
     "importance": {
       "ru": "Ватерлоо завершило эпоху Наполеоновских войн и изменило политическую карту Европы.",
       "de": "Waterloo beendete die Epoche der Napoleonischen Kriege und veraenderte die politische Karte Europas.",
-      "en": "Waterloo ended the era of the Napoleonic Wars and changed Europe's political map."
+      "en": "Waterloo ended the era of the Napoleonic Wars and changed Europe's political map.",
+      "fr": "Waterloo mit fin a l'epoque des guerres napoleoniennes et changea la carte politique de l'Europe.",
+      "es": "Waterloo puso fin a la epoca de las guerras napoleonicas y cambio el mapa politico de Europa.",
+      "it": "Waterloo pose fine all'epoca delle guerre napoleoniche e cambio la carta politica dell'Europa.",
+      "pt": "Waterloo encerrou a era das Guerras Napoleonicas e mudou o mapa politico da Europa.",
+      "nl": "Waterloo beeindigde het tijdperk van de Napoleontische oorlogen en veranderde de politieke kaart van Europa.",
+      "pl": "Waterloo zakonczylo epoke wojen napoleonskich i zmienilo polityczna mape Europy.",
+      "tr": "Waterloo Napolyon Savaslari donemini sona erdirdi ve Avrupa'nin siyasi haritasini degistirdi.",
+      "zh": "滑铁卢结束了拿破仑战争时代，并改变了欧洲政治版图。",
+      "ja": "ワーテルローはナポレオン戦争の時代を終わらせ、ヨーロッパの政治地図を変えました。",
+      "ko": "워털루는 나폴레옹 전쟁의 시대를 끝내고 유럽의 정치 지도를 바꾸었습니다.",
+      "hi": "वाटरलू ने नेपोलियन युद्धों के युग का अंत किया और यूरोप का राजनीतिक नक्शा बदल दिया।",
+      "ar": "انهت واترلو عصر الحروب النابليونية وغيرت الخريطة السياسية لاوروبا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Пруссаки пришли на поле боя",
           "de": "Die Preussen erreichen das Schlachtfeld",
-          "en": "The Prussians reach the battlefield"
+          "en": "The Prussians reach the battlefield",
+          "fr": "Les Prussiens arrivent sur le champ de bataille",
+          "es": "Los prusianos llegan al campo de batalla",
+          "it": "I prussiani raggiungono il campo di battaglia",
+          "pt": "Os prussianos chegam ao campo de batalha",
+          "nl": "De Pruisen bereiken het slagveld",
+          "pl": "Prusacy docieraja na pole bitwy",
+          "tr": "Prusyalilar savas alanina ulasir",
+          "zh": "普鲁士人抵达战场",
+          "ja": "プロイセン軍が戦場に到着する",
+          "ko": "프로이센군이 전장에 도착하다",
+          "hi": "प्रशियाई सैनिक युद्धक्षेत्र पहुंचे",
+          "ar": "وصول البروسيين الى ساحة المعركة"
         },
         "description": {
           "ru": "Веллингтон удерживал позиции против французской армии, пока прусские части шли к полю боя. Их прибытие усилило давление на Наполеона и помогло решить исход сражения.",
           "de": "Wellington hielt seine Stellung gegen die franzoesische Armee, waehrend preussische Einheiten zum Schlachtfeld marschierten. Ihr Eintreffen erhoehte den Druck auf Napoleon und half, die Schlacht zu entscheiden.",
-          "en": "Wellington held his position against the French army while Prussian units marched toward the battlefield. Their arrival increased the pressure on Napoleon and helped decide the battle."
+          "en": "Wellington held his position against the French army while Prussian units marched toward the battlefield. Their arrival increased the pressure on Napoleon and helped decide the battle.",
+          "fr": "Wellington tint sa position face a l'armee francaise pendant que les unites prussiennes marchaient vers le champ de bataille. Leur arrivee accrut la pression sur Napoleon et contribua a decider l'issue du combat.",
+          "es": "Wellington mantuvo su posicion frente al ejercito frances mientras las unidades prusianas marchaban hacia el campo de batalla. Su llegada aumento la presion sobre Napoleon y ayudo a decidir la batalla.",
+          "it": "Wellington mantenne la posizione contro l'esercito francese mentre le unita prussiane marciavano verso il campo di battaglia. Il loro arrivo aumento la pressione su Napoleone e aiuto a decidere la battaglia.",
+          "pt": "Wellington manteve sua posicao contra o exercito frances enquanto unidades prussianas marchavam para o campo de batalha. A chegada delas aumentou a pressao sobre Napoleao e ajudou a decidir a batalha.",
+          "nl": "Wellington hield zijn positie tegen het Franse leger terwijl Pruisische eenheden naar het slagveld marcheerden. Hun aankomst verhoogde de druk op Napoleon en hielp de strijd beslissen.",
+          "pl": "Wellington utrzymywal pozycje przeciw armii francuskiej, podczas gdy oddzialy pruskie maszerowaly ku polu bitwy. Ich przybycie zwiekszylo nacisk na Napoleona i pomoglo rozstrzygnac bitwe.",
+          "tr": "Wellington Fransiz ordusuna karsi mevzisini korurken Prusya birlikleri savas alanina dogru yurudu. Gelisleri Napolyon uzerindeki baskiyi artirdi ve savasin sonucunu belirlemeye yardim etti.",
+          "zh": "惠灵顿在对抗法军时守住阵地，而普鲁士部队正向战场推进。他们的到来加大了对拿破仑的压力，并帮助决定了战役结局。",
+          "ja": "ウェリントンはフランス軍に対して陣地を守り、その間にプロイセン部隊が戦場へ進軍しました。彼らの到着はナポレオンへの圧力を高め、戦いの決着を助けました。",
+          "ko": "웰링턴은 프랑스군에 맞서 진지를 지키는 동안 프로이센 부대가 전장으로 행군했습니다. 그들의 도착은 나폴레옹에 대한 압박을 높였고 전투의 결과를 결정하는 데 도움을 주었습니다.",
+          "hi": "वेलिंग्टन ने फ्रांसीसी सेना के सामने अपनी स्थिति बनाए रखी, जबकि प्रशियाई टुकड़ियां युद्धक्षेत्र की ओर बढ़ रही थीं। उनके पहुंचने से नेपोलियन पर दबाव बढ़ा और लड़ाई का परिणाम तय करने में मदद मिली।",
+          "ar": "حافظ ويلنغتون على مواقعه ضد الجيش الفرنسي بينما كانت الوحدات البروسية تتقدم نحو ساحة المعركة. زاد وصولها الضغط على نابليون وساعد في حسم المعركة."
         },
         "importance": {
           "ru": "Событие хорошо показывает, что Ватерлоо было не только британской, но и прусско-европейской победой.",
           "de": "Das Ereignis zeigt gut, dass Waterloo nicht nur ein britischer, sondern auch ein preussisch-europaeischer Sieg war.",
-          "en": "The event shows that Waterloo was not only a British victory but also a Prussian and European one."
+          "en": "The event shows that Waterloo was not only a British victory but also a Prussian and European one.",
+          "fr": "L'evenement montre bien que Waterloo ne fut pas seulement une victoire britannique, mais aussi prussienne et europeenne.",
+          "es": "El acontecimiento muestra que Waterloo no fue solo una victoria britanica, sino tambien prusiana y europea.",
+          "it": "L'evento mostra che Waterloo non fu solo una vittoria britannica, ma anche prussiana ed europea.",
+          "pt": "O acontecimento mostra que Waterloo nao foi apenas uma vitoria britanica, mas tambem prussiana e europeia.",
+          "nl": "De gebeurtenis laat zien dat Waterloo niet alleen een Britse overwinning was, maar ook een Pruisische en Europese.",
+          "pl": "Wydarzenie pokazuje, ze Waterloo bylo nie tylko zwyciestwem brytyjskim, lecz takze pruskim i europejskim.",
+          "tr": "Olay, Waterloo'nun yalnizca Britanya degil, ayni zamanda Prusya ve Avrupa zaferi oldugunu gosterir.",
+          "zh": "这一事件表明，滑铁卢不仅是英国的胜利，也是普鲁士和欧洲的胜利。",
+          "ja": "この出来事は、ワーテルローが英国だけでなく、プロイセンとヨーロッパの勝利でもあったことをよく示しています。",
+          "ko": "이 사건은 워털루가 영국만의 승리가 아니라 프로이센과 유럽의 승리이기도 했음을 보여 줍니다.",
+          "hi": "यह घटना दिखाती है कि वाटरलू केवल ब्रिटिश जीत नहीं, बल्कि प्रशियाई और यूरोपीय जीत भी थी।",
+          "ar": "يوضح الحدث ان واترلو لم تكن نصرا بريطانيا فقط، بل نصرا بروسيا واوروبيا ايضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Гебхард Леберехт фон Блюхер",
           "de": "Gebhard Leberecht von Bluecher",
-          "en": "Gebhard Leberecht von Bluecher"
+          "en": "Gebhard Leberecht von Bluecher",
+          "fr": "Gebhard Leberecht von Bluecher",
+          "es": "Gebhard Leberecht von Bluecher",
+          "it": "Gebhard Leberecht von Bluecher",
+          "pt": "Gebhard Leberecht von Bluecher",
+          "nl": "Gebhard Leberecht von Bluecher",
+          "pl": "Gebhard Leberecht von Bluecher",
+          "tr": "Gebhard Leberecht von Bluecher",
+          "zh": "格布哈德·勒贝雷希特·冯·布吕歇尔",
+          "ja": "ゲプハルト・レーベレヒト・フォン・ブリュッヒャー",
+          "ko": "게프하르트 레베레히트 폰 블뤼허",
+          "hi": "गेबहार्ड लेबेरेख्ट फॉन ब्ल्यूशर",
+          "ar": "غبهارد ليبرخت فون بلوخر"
         },
         "description": {
           "ru": "Блюхер был прусским фельдмаршалом и одним из главных противников Наполеона в кампании 1815 года. Его настойчивость после поражения при Линьи стала важной для победы при Ватерлоо.",
           "de": "Bluecher war preussischer Feldmarschall und einer der wichtigsten Gegner Napoleons im Feldzug von 1815. Seine Beharrlichkeit nach der Niederlage bei Ligny wurde fuer den Sieg bei Waterloo wichtig.",
-          "en": "Bluecher was a Prussian field marshal and one of Napoleon's main opponents in the 1815 campaign. His persistence after the defeat at Ligny became important for victory at Waterloo."
+          "en": "Bluecher was a Prussian field marshal and one of Napoleon's main opponents in the 1815 campaign. His persistence after the defeat at Ligny became important for victory at Waterloo.",
+          "fr": "Bluecher etait un feld-marechal prussien et l'un des principaux adversaires de Napoleon dans la campagne de 1815. Sa tenacite apres la defaite de Ligny devint importante pour la victoire a Waterloo.",
+          "es": "Bluecher fue un mariscal de campo prusiano y uno de los principales adversarios de Napoleon en la campana de 1815. Su perseverancia tras la derrota de Ligny fue importante para la victoria en Waterloo.",
+          "it": "Bluecher fu un feldmaresciallo prussiano e uno dei principali avversari di Napoleone nella campagna del 1815. La sua tenacia dopo la sconfitta di Ligny fu importante per la vittoria a Waterloo.",
+          "pt": "Bluecher foi um marechal de campo prussiano e um dos principais adversarios de Napoleao na campanha de 1815. Sua persistencia apos a derrota em Ligny foi importante para a vitoria em Waterloo.",
+          "nl": "Bluecher was een Pruisische veldmaarschalk en een van Napoleons belangrijkste tegenstanders in de veldtocht van 1815. Zijn volharding na de nederlaag bij Ligny werd belangrijk voor de overwinning bij Waterloo.",
+          "pl": "Bluecher byl pruskim feldmarszalkiem i jednym z glownych przeciwnikow Napoleona w kampanii 1815 roku. Jego wytrwalosc po porazce pod Ligny byla wazna dla zwyciestwa pod Waterloo.",
+          "tr": "Bluecher Prusyali bir maresal ve 1815 seferinde Napolyon'un baslica rakiplerinden biriydi. Ligny yenilgisinden sonraki israri Waterloo zaferi icin onemli oldu.",
+          "zh": "布吕歇尔是普鲁士陆军元帅，也是1815年战役中拿破仑的主要对手之一。他在利尼战败后的坚持对滑铁卢胜利至关重要。",
+          "ja": "ブリュッヒャーはプロイセンの元帥で、1815年戦役におけるナポレオンの主要な敵の一人でした。リニーでの敗北後の粘り強さが、ワーテルローでの勝利に重要となりました。",
+          "ko": "블뤼허는 프로이센 야전원수였고 1815년 전역에서 나폴레옹의 주요 상대 중 한 명이었습니다. 리니 전투 패배 이후 그의 끈기는 워털루 승리에 중요했습니다.",
+          "hi": "ब्ल्यूशर प्रशियाई फील्ड मार्शल थे और 1815 के अभियान में नेपोलियन के प्रमुख विरोधियों में से एक थे। लिनी में हार के बाद उनकी दृढ़ता वाटरलू की जीत के लिए महत्वपूर्ण बनी।",
+          "ar": "كان بلوخر مشيرا بروسيا واحد ابرز خصوم نابليون في حملة 1815. واصبحت مثابرته بعد الهزيمة في ليني مهمة للنصر في واترلو."
         },
         "importance": {
           "ru": "Через Блюхера видно, какую роль Пруссия играла в конце наполеоновской эпохи.",
           "de": "An Bluecher laesst sich erkennen, welche Rolle Preussen am Ende der Napoleonischen Zeit spielte.",
-          "en": "Bluecher shows the role Prussia played at the end of the Napoleonic era."
+          "en": "Bluecher shows the role Prussia played at the end of the Napoleonic era.",
+          "fr": "Bluecher montre le role joue par la Prusse a la fin de l'epoque napoleonienne.",
+          "es": "Bluecher muestra el papel que desempeno Prusia al final de la epoca napoleonica.",
+          "it": "Bluecher mostra il ruolo svolto dalla Prussia alla fine dell'eta napoleonica.",
+          "pt": "Bluecher mostra o papel que a Prussia desempenhou no fim da era napoleonica.",
+          "nl": "Bluecher laat zien welke rol Pruisen speelde aan het einde van de Napoleontische tijd.",
+          "pl": "Bluecher pokazuje role, jaka Prusy odegraly u kresu epoki napoleonskiej.",
+          "tr": "Bluecher, Napolyon doneminin sonunda Prusya'nin oynadigi rolu gosterir.",
+          "zh": "布吕歇尔体现了普鲁士在拿破仑时代末期所扮演的角色。",
+          "ja": "ブリュッヒャーは、ナポレオン時代の終わりにプロイセンが果たした役割を示しています。",
+          "ko": "블뤼허는 나폴레옹 시대 말기에 프로이센이 맡은 역할을 보여 줍니다.",
+          "hi": "ब्ल्यूशर से पता चलता है कि नेपोलियन युग के अंत में प्रशिया ने कैसी भूमिका निभाई।",
+          "ar": "يظهر بلوخر الدور الذي لعبته بروسيا في نهاية العصر النابليوني."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Встреча Веллингтона и Блюхера после боя стала символом союзной победы над Наполеоном.",
     "de": "Das Treffen von Wellington und Bluecher nach der Schlacht wurde zu einem Symbol des gemeinsamen Sieges ueber Napoleon.",
-    "en": "The meeting of Wellington and Bluecher after the battle became a symbol of the joint victory over Napoleon."
+    "en": "The meeting of Wellington and Bluecher after the battle became a symbol of the joint victory over Napoleon.",
+    "fr": "La rencontre de Wellington et de Bluecher apres la bataille devint un symbole de la victoire commune sur Napoleon.",
+    "es": "El encuentro de Wellington y Bluecher tras la batalla se convirtio en simbolo de la victoria conjunta sobre Napoleon.",
+    "it": "L'incontro tra Wellington e Bluecher dopo la battaglia divenne simbolo della vittoria comune su Napoleone.",
+    "pt": "O encontro de Wellington e Bluecher apos a batalha tornou-se simbolo da vitoria conjunta sobre Napoleao.",
+    "nl": "De ontmoeting van Wellington en Bluecher na de slag werd een symbool van de gezamenlijke overwinning op Napoleon.",
+    "pl": "Spotkanie Wellingtona i Bluechera po bitwie stalo sie symbolem wspolnego zwyciestwa nad Napoleonem.",
+    "tr": "Savas sonrasi Wellington ile Bluecher'in bulusmasi Napolyon'a karsi ortak zaferin simgesi oldu.",
+    "zh": "战后惠灵顿与布吕歇尔的会面成为共同战胜拿破仑的象征。",
+    "ja": "戦いの後のウェリントンとブリュッヒャーの会見は、ナポレオンに対する共同勝利の象徴となりました。",
+    "ko": "전투 후 웰링턴과 블뤼허의 만남은 나폴레옹에 대한 공동 승리의 상징이 되었습니다.",
+    "hi": "लड़ाई के बाद वेलिंग्टन और ब्ल्यूशर की मुलाकात नेपोलियन पर संयुक्त विजय का प्रतीक बन गई।",
+    "ar": "اصبح لقاء ويلنغتون وبلوخر بعد المعركة رمزا للنصر المشترك على نابليون."
   },
   "sources": [
     {

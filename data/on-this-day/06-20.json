@@ -11,17 +11,53 @@
     "title": {
       "ru": "Бундестаг решил перенести парламент и правительство в Берлин",
       "de": "Der Bundestag entscheidet sich fuer Berlin",
-      "en": "The Bundestag decides in favor of Berlin"
+      "en": "The Bundestag decides in favor of Berlin",
+      "fr": "Le Bundestag choisit Berlin",
+      "es": "El Bundestag se decide por Berlin",
+      "it": "Il Bundestag sceglie Berlino",
+      "pt": "O Bundestag decide a favor de Berlim",
+      "nl": "De Bondsdag kiest voor Berlijn",
+      "pl": "Bundestag wybiera Berlin",
+      "tr": "Bundestag Berlin lehine karar verir",
+      "zh": "联邦议院决定迁往柏林",
+      "ja": "連邦議会がベルリンを選ぶ",
+      "ko": "연방의회가 베를린을 선택하다",
+      "hi": "बुंडेस्टाग ने बर्लिन के पक्ष में फैसला किया",
+      "ar": "البوندستاغ يقرر لصالح برلين"
     },
     "description": {
       "ru": "20 июня 1991 года Бундестаг после долгих дебатов решил перенести парламент и часть федерального правительства из Бонна в Берлин. Решение стало одним из символов объединённой Германии.",
       "de": "Am 20. Juni 1991 entschied der Bundestag nach langer Debatte, Parlament und Teile der Bundesregierung von Bonn nach Berlin zu verlegen. Die Entscheidung wurde zu einem Symbol des vereinten Deutschlands.",
-      "en": "On 20 June 1991, after a long debate, the Bundestag decided to move parliament and parts of the federal government from Bonn to Berlin. The decision became a symbol of united Germany."
+      "en": "On 20 June 1991, after a long debate, the Bundestag decided to move parliament and parts of the federal government from Bonn to Berlin. The decision became a symbol of united Germany.",
+      "fr": "Le 20 juin 1991, apres un long debat, le Bundestag decida de transferer le parlement et une partie du gouvernement federal de Bonn a Berlin. La decision devint un symbole de l'Allemagne reunifiee.",
+      "es": "El 20 de junio de 1991, tras un largo debate, el Bundestag decidio trasladar el parlamento y parte del gobierno federal de Bonn a Berlin. La decision se convirtio en simbolo de la Alemania unida.",
+      "it": "Il 20 giugno 1991, dopo un lungo dibattito, il Bundestag decise di trasferire il parlamento e parte del governo federale da Bonn a Berlino. La decisione divenne un simbolo della Germania unita.",
+      "pt": "Em 20 de junho de 1991, apos um longo debate, o Bundestag decidiu transferir o parlamento e partes do governo federal de Bonn para Berlim. A decisao tornou-se simbolo da Alemanha unificada.",
+      "nl": "Op 20 juni 1991 besloot de Bondsdag na een lang debat om het parlement en delen van de federale regering van Bonn naar Berlijn te verplaatsen. Het besluit werd een symbool van het verenigde Duitsland.",
+      "pl": "20 czerwca 1991 roku, po dlugiej debacie, Bundestag zdecydowal o przeniesieniu parlamentu i czesci rzadu federalnego z Bonn do Berlina. Decyzja stala sie symbolem zjednoczonych Niemiec.",
+      "tr": "20 Haziran 1991'de Bundestag uzun bir tartismanin ardindan parlamentoyu ve federal hukumetin bir kismini Bonn'dan Berlin'e tasimaya karar verdi. Karar, birlesmis Almanya'nin simgelerinden biri oldu.",
+      "zh": "1991年6月20日，经过长时间辩论，联邦议院决定将议会和部分联邦政府从波恩迁往柏林。这一决定成为统一德国的象征之一。",
+      "ja": "1991年6月20日、長い議論の末、連邦議会は議会と連邦政府の一部をボンからベルリンへ移すことを決定しました。この決定は統一ドイツの象徴の一つとなりました。",
+      "ko": "1991년 6월 20일 긴 논쟁 끝에 연방의회는 의회와 연방정부 일부를 본에서 베를린으로 옮기기로 결정했습니다. 이 결정은 통일 독일의 상징 중 하나가 되었습니다.",
+      "hi": "20 जून 1991 को लंबे बहस के बाद बुंडेस्टाग ने संसद और संघीय सरकार के कुछ हिस्सों को बॉन से बर्लिन ले जाने का निर्णय लिया। यह निर्णय एकीकृत जर्मनी का प्रतीक बन गया।",
+      "ar": "في 20 يونيو 1991، وبعد نقاش طويل، قرر البوندستاغ نقل البرلمان واجزاء من الحكومة الاتحادية من بون الى برلين. واصبح القرار رمزا لالمانيا الموحدة."
     },
     "importance": {
       "ru": "Дата показывает, что воссоединение меняло не только границы, но и политическую географию страны.",
       "de": "Das Datum zeigt, dass die Wiedervereinigung nicht nur Grenzen, sondern auch die politische Geografie des Landes veraenderte.",
-      "en": "The date shows that reunification changed not only borders but the country's political geography."
+      "en": "The date shows that reunification changed not only borders but the country's political geography.",
+      "fr": "Cette date montre que la reunification ne changea pas seulement les frontieres, mais aussi la geographie politique du pays.",
+      "es": "La fecha muestra que la reunificacion no cambio solo las fronteras, sino tambien la geografia politica del pais.",
+      "it": "La data mostra che la riunificazione cambio non solo i confini, ma anche la geografia politica del paese.",
+      "pt": "A data mostra que a reunificacao mudou nao apenas fronteiras, mas tambem a geografia politica do pais.",
+      "nl": "De datum laat zien dat de hereniging niet alleen grenzen veranderde, maar ook de politieke geografie van het land.",
+      "pl": "Ta data pokazuje, ze zjednoczenie zmienilo nie tylko granice, lecz takze geografie polityczna kraju.",
+      "tr": "Bu tarih, yeniden birlesmenin yalnizca sinirlari degil, ulkenin siyasi cografyasini da degistirdigini gosterir.",
+      "zh": "这个日期表明，重新统一改变的不只是边界，也改变了国家的政治地理。",
+      "ja": "この日は、再統一が国境だけでなく、国の政治地理も変えたことを示しています。",
+      "ko": "이 날짜는 재통일이 국경뿐 아니라 나라의 정치 지리도 바꾸었음을 보여 줍니다.",
+      "hi": "यह तारीख दिखाती है कि पुनर्एकीकरण ने सिर्फ सीमाएं नहीं, बल्कि देश की राजनीतिक भूगोल भी बदली।",
+      "ar": "يوضح هذا التاريخ ان اعادة التوحيد لم تغير الحدود فقط، بل غيرت الجغرافيا السياسية للبلاد ايضا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Компромисс Бонн-Берлин",
           "de": "Der Bonn-Berlin-Kompromiss",
-          "en": "The Bonn-Berlin compromise"
+          "en": "The Bonn-Berlin compromise",
+          "fr": "Le compromis Bonn-Berlin",
+          "es": "El compromiso Bonn-Berlin",
+          "it": "Il compromesso Bonn-Berlino",
+          "pt": "O compromisso Bonn-Berlim",
+          "nl": "Het Bonn-Berlijn-compromis",
+          "pl": "Kompromis Bonn-Berlin",
+          "tr": "Bonn-Berlin uzlasisi",
+          "zh": "波恩-柏林妥协",
+          "ja": "ボン・ベルリン妥協",
+          "ko": "본-베를린 타협",
+          "hi": "बॉन-बर्लिन समझौता",
+          "ar": "تسوية بون-برلين"
         },
         "description": {
           "ru": "Решение не означало полного ухода из Бонна: многие федеральные структуры остались там. Германия фактически сохранила две важные административные точки.",
           "de": "Die Entscheidung bedeutete keinen vollstaendigen Abschied von Bonn: Viele Bundesstrukturen blieben dort. Deutschland behielt faktisch zwei wichtige Verwaltungsorte.",
-          "en": "The decision did not mean a complete departure from Bonn: many federal structures remained there. Germany effectively kept two important administrative centers."
+          "en": "The decision did not mean a complete departure from Bonn: many federal structures remained there. Germany effectively kept two important administrative centers.",
+          "fr": "La decision ne signifiait pas un depart complet de Bonn: de nombreuses structures federales y resterent. L'Allemagne conserva en pratique deux centres administratifs importants.",
+          "es": "La decision no significo una salida completa de Bonn: muchas estructuras federales permanecieron alli. Alemania mantuvo en la practica dos centros administrativos importantes.",
+          "it": "La decisione non significo un addio completo a Bonn: molte strutture federali rimasero li. La Germania mantenne di fatto due importanti centri amministrativi.",
+          "pt": "A decisao nao significou uma saida completa de Bonn: muitas estruturas federais permaneceram la. A Alemanha manteve, na pratica, dois centros administrativos importantes.",
+          "nl": "Het besluit betekende geen volledig afscheid van Bonn: veel federale structuren bleven daar. Duitsland behield feitelijk twee belangrijke administratieve centra.",
+          "pl": "Decyzja nie oznaczala calkowitego odejscia z Bonn: wiele struktur federalnych pozostalo tam. Niemcy faktycznie zachowaly dwa wazne osrodki administracyjne.",
+          "tr": "Karar Bonn'dan tamamen ayrilmak anlamina gelmedi: bircok federal yapi orada kaldi. Almanya fiilen iki onemli idari merkezi korudu.",
+          "zh": "这一决定并不意味着完全离开波恩：许多联邦机构仍留在那里。德国实际上保留了两个重要行政中心。",
+          "ja": "この決定はボンから完全に離れることを意味しませんでした。多くの連邦機関はそこに残りました。ドイツは事実上、二つの重要な行政拠点を維持しました。",
+          "ko": "이 결정은 본을 완전히 떠난다는 뜻은 아니었습니다. 많은 연방 기관이 그곳에 남았습니다. 독일은 사실상 두 개의 중요한 행정 중심지를 유지했습니다.",
+          "hi": "इस निर्णय का अर्थ बॉन से पूरी तरह विदा लेना नहीं था: कई संघीय संस्थाएं वहीं रहीं। जर्मनी ने वास्तव में दो महत्वपूर्ण प्रशासनिक केंद्र बनाए रखे।",
+          "ar": "لم يكن القرار يعني مغادرة بون بالكامل: فقد بقيت هناك هياكل اتحادية كثيرة. واحتفظت المانيا فعليا بمركزين اداريين مهمين."
         },
         "importance": {
           "ru": "Так политика памяти, федерализм и практические расходы встретились в одном решении.",
           "de": "So trafen Erinnerungspolitik, Foederalismus und praktische Kosten in einer Entscheidung zusammen.",
-          "en": "Memory politics, federalism and practical costs met in one decision."
+          "en": "Memory politics, federalism and practical costs met in one decision.",
+          "fr": "Politique de memoire, federalisme et couts pratiques se rencontrerent ainsi dans une seule decision.",
+          "es": "Politica de memoria, federalismo y costes practicos se encontraron asi en una sola decision.",
+          "it": "Politica della memoria, federalismo e costi pratici si incontrarono cosi in un'unica decisione.",
+          "pt": "Politica da memoria, federalismo e custos praticos se encontraram assim em uma unica decisao.",
+          "nl": "Herinneringspolitiek, federalisme en praktische kosten kwamen zo samen in een besluit.",
+          "pl": "Polityka pamieci, federalizm i praktyczne koszty spotkaly sie w jednej decyzji.",
+          "tr": "Hafiza politikasi, federalizm ve pratik maliyetler boylece tek bir kararda bulustu.",
+          "zh": "记忆政治、联邦制和实际成本就这样汇聚在一个决定中。",
+          "ja": "記憶の政治、連邦制、実際の費用が、この一つの決定の中で交わりました。",
+          "ko": "기억 정치, 연방주의, 실제 비용이 이렇게 하나의 결정 안에서 만났습니다.",
+          "hi": "इस तरह स्मृति राजनीति, संघवाद और व्यावहारिक खर्च एक ही निर्णय में मिले।",
+          "ar": "هكذا التقت سياسة الذاكرة والفدرالية والتكاليف العملية في قرار واحد."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Решение было принято с небольшим перевесом голосов.",
     "de": "Die Entscheidung fiel mit knapper Mehrheit.",
-    "en": "The decision was made by a narrow majority."
+    "en": "The decision was made by a narrow majority.",
+    "fr": "La decision fut prise a une courte majorite.",
+    "es": "La decision se tomo por una estrecha mayoria.",
+    "it": "La decisione fu presa con una maggioranza risicata.",
+    "pt": "A decisao foi tomada por uma pequena maioria.",
+    "nl": "Het besluit werd met een krappe meerderheid genomen.",
+    "pl": "Decyzje podjeto niewielka wiekszoscia glosow.",
+    "tr": "Karar dar bir cogunlukla alindi.",
+    "zh": "这一决定以微弱多数通过。",
+    "ja": "この決定は僅差の多数で下されました。",
+    "ko": "이 결정은 근소한 다수로 이루어졌습니다.",
+    "hi": "यह निर्णय मामूली बहुमत से लिया गया।",
+    "ar": "اتخذ القرار باغلبية ضئيلة."
   },
   "sources": [
     {

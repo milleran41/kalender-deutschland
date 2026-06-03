@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Договор о патентной кооперации",
       "de": "Der Patentzusammenarbeitsvertrag wird unterzeichnet",
-      "en": "The Patent Cooperation Treaty is signed"
+      "en": "The Patent Cooperation Treaty is signed",
+      "fr": "Le Traite de cooperation en matiere de brevets est signe",
+      "es": "Se firma el Tratado de Cooperacion en materia de Patentes",
+      "it": "Viene firmato il Trattato di cooperazione in materia di brevetti",
+      "pt": "E assinado o Tratado de Cooperacao em Materia de Patentes",
+      "nl": "Het Patent Cooperation Treaty wordt ondertekend",
+      "pl": "Podpisano Uklad o wspolpracy patentowej",
+      "tr": "Patent Isbirligi Antlasmasi imzalanir",
+      "zh": "《专利合作条约》签署",
+      "ja": "特許協力条約が署名される",
+      "ko": "특허협력조약이 서명되다",
+      "hi": "पेटेंट सहयोग संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدة التعاون بشان البراءات"
     },
     "description": {
       "ru": "19 июня 1970 года в Вашингтоне был открыт для подписания Договор о патентной кооперации. Среди участников конференции была и Федеративная Республика Германия.",
       "de": "Am 19. Juni 1970 wurde in Washington der Patentzusammenarbeitsvertrag zur Unterzeichnung aufgelegt. Zu den Teilnehmern der Konferenz gehoerte auch die Bundesrepublik Deutschland.",
-      "en": "On 19 June 1970, the Patent Cooperation Treaty was opened for signature in Washington. The Federal Republic of Germany was among the participants in the conference."
+      "en": "On 19 June 1970, the Patent Cooperation Treaty was opened for signature in Washington. The Federal Republic of Germany was among the participants in the conference.",
+      "fr": "Le 19 juin 1970, le Traite de cooperation en matiere de brevets fut ouvert a la signature a Washington. La Republique federale d'Allemagne figurait parmi les participants a la conference.",
+      "es": "El 19 de junio de 1970, el Tratado de Cooperacion en materia de Patentes se abrio a la firma en Washington. La Republica Federal de Alemania estuvo entre los participantes de la conferencia.",
+      "it": "Il 19 giugno 1970 il Trattato di cooperazione in materia di brevetti fu aperto alla firma a Washington. La Repubblica Federale di Germania era tra i partecipanti alla conferenza.",
+      "pt": "Em 19 de junho de 1970, o Tratado de Cooperacao em Materia de Patentes foi aberto para assinatura em Washington. A Republica Federal da Alemanha estava entre os participantes da conferencia.",
+      "nl": "Op 19 juni 1970 werd het Patent Cooperation Treaty in Washington opengesteld voor ondertekening. De Bondsrepubliek Duitsland behoorde tot de deelnemers aan de conferentie.",
+      "pl": "19 czerwca 1970 roku w Waszyngtonie otwarto do podpisu Uklad o wspolpracy patentowej. Republika Federalna Niemiec nalezala do uczestnikow konferencji.",
+      "tr": "19 Haziran 1970'te Patent Isbirligi Antlasmasi Washington'da imzaya acildi. Federal Almanya Cumhuriyeti konferansin katilimcilari arasindaydi.",
+      "zh": "1970年6月19日，《专利合作条约》在华盛顿开放签署。德意志联邦共和国也是会议参与方之一。",
+      "ja": "1970年6月19日、特許協力条約がワシントンで署名のために開放されました。ドイツ連邦共和国も会議の参加国の一つでした。",
+      "ko": "1970년 6월 19일 특허협력조약이 워싱턴에서 서명을 위해 개방되었습니다. 독일연방공화국도 회의 참가국 중 하나였습니다.",
+      "hi": "19 जून 1970 को वाशिंगटन में पेटेंट सहयोग संधि हस्ताक्षर के लिए खोली गई। संघीय गणराज्य जर्मनी भी सम्मेलन के प्रतिभागियों में था।",
+      "ar": "في 19 يونيو 1970 فُتحت معاهدة التعاون بشان البراءات للتوقيع في واشنطن. وكانت جمهورية المانيا الاتحادية من بين المشاركين في المؤتمر."
     },
     "importance": {
       "ru": "Договор упростил международную охрану изобретений и стал важной частью современной системы патентов, особенно для технически сильных стран вроде Германии.",
       "de": "Der Vertrag vereinfachte den internationalen Schutz von Erfindungen und wurde zu einem wichtigen Teil des modernen Patentsystems, besonders fuer technisch starke Laender wie Deutschland.",
-      "en": "The treaty simplified international protection for inventions and became an important part of the modern patent system, especially for technically strong countries such as Germany."
+      "en": "The treaty simplified international protection for inventions and became an important part of the modern patent system, especially for technically strong countries such as Germany.",
+      "fr": "Le traite simplifia la protection internationale des inventions et devint une partie importante du systeme moderne des brevets, surtout pour des pays techniquement forts comme l'Allemagne.",
+      "es": "El tratado simplifico la proteccion internacional de las invenciones y se convirtio en una parte importante del sistema moderno de patentes, especialmente para paises tecnicamente fuertes como Alemania.",
+      "it": "Il trattato semplifico la protezione internazionale delle invenzioni e divenne una parte importante del moderno sistema dei brevetti, soprattutto per paesi tecnicamente forti come la Germania.",
+      "pt": "O tratado simplificou a protecao internacional das invencoes e tornou-se parte importante do sistema moderno de patentes, especialmente para paises tecnicamente fortes como a Alemanha.",
+      "nl": "Het verdrag vereenvoudigde de internationale bescherming van uitvindingen en werd een belangrijk deel van het moderne patentsysteem, vooral voor technisch sterke landen zoals Duitsland.",
+      "pl": "Uklad uproscil miedzynarodowa ochrone wynalazkow i stal sie wazna czescia nowoczesnego systemu patentowego, zwlaszcza dla technicznie silnych krajow takich jak Niemcy.",
+      "tr": "Antlasma buluslarin uluslararasi korunmasini kolaylastirdi ve ozellikle Almanya gibi teknik acidan guclu ulkeler icin modern patent sisteminin onemli bir parcasi oldu.",
+      "zh": "该条约简化了发明的国际保护，并成为现代专利制度的重要组成部分，尤其对德国这样的技术强国很重要。",
+      "ja": "この条約は発明の国際的保護を簡素化し、特にドイツのような技術力の高い国にとって、現代特許制度の重要な一部となりました。",
+      "ko": "이 조약은 발명의 국제적 보호를 간소화했고, 독일처럼 기술적으로 강한 나라들에게 특히 현대 특허 제도의 중요한 일부가 되었습니다.",
+      "hi": "इस संधि ने आविष्कारों की अंतरराष्ट्रीय सुरक्षा को सरल बनाया और आधुनिक पेटेंट प्रणाली का महत्वपूर्ण हिस्सा बनी, खासकर जर्मनी जैसे तकनीकी रूप से मजबूत देशों के लिए।",
+      "ar": "بسّطت المعاهدة الحماية الدولية للاختراعات واصبحت جزءا مهما من نظام البراءات الحديث، خصوصا للدول القوية تقنيا مثل المانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Изобретения без границ",
           "de": "Erfindungen ohne Grenzen",
-          "en": "Inventions across borders"
+          "en": "Inventions across borders",
+          "fr": "Des inventions sans frontieres",
+          "es": "Invenciones sin fronteras",
+          "it": "Invenzioni senza confini",
+          "pt": "Invencoes sem fronteiras",
+          "nl": "Uitvindingen over grenzen heen",
+          "pl": "Wynalazki bez granic",
+          "tr": "Sinirlari asan buluslar",
+          "zh": "跨越国界的发明",
+          "ja": "国境を越える発明",
+          "ko": "국경을 넘는 발명",
+          "hi": "सीमाओं से परे आविष्कार",
+          "ar": "اختراعات بلا حدود"
         },
         "description": {
           "ru": "Патенты защищают идеи, устройства и технические решения. Для немецкой инженерии, химии, медицины и машиностроения международные правила стали особенно важны.",
           "de": "Patente schuetzen Ideen, Geraete und technische Loesungen. Fuer deutsche Ingenieurkunst, Chemie, Medizin und Maschinenbau wurden internationale Regeln besonders wichtig.",
-          "en": "Patents protect ideas, devices and technical solutions. For German engineering, chemistry, medicine and mechanical industry, international rules became especially important."
+          "en": "Patents protect ideas, devices and technical solutions. For German engineering, chemistry, medicine and mechanical industry, international rules became especially important.",
+          "fr": "Les brevets protegent les idees, les appareils et les solutions techniques. Pour l'ingenierie, la chimie, la medecine et la construction mecanique allemandes, les regles internationales devinrent particulierement importantes.",
+          "es": "Las patentes protegen ideas, dispositivos y soluciones tecnicas. Para la ingenieria, la quimica, la medicina y la industria mecanica alemanas, las reglas internacionales se volvieron especialmente importantes.",
+          "it": "I brevetti proteggono idee, dispositivi e soluzioni tecniche. Per l'ingegneria, la chimica, la medicina e la meccanica tedesche, le regole internazionali divennero particolarmente importanti.",
+          "pt": "Patentes protegem ideias, dispositivos e solucoes tecnicas. Para a engenharia, a quimica, a medicina e a industria mecanica alemas, regras internacionais tornaram-se especialmente importantes.",
+          "nl": "Patenten beschermen ideeen, apparaten en technische oplossingen. Voor Duitse techniek, chemie, geneeskunde en machinebouw werden internationale regels bijzonder belangrijk.",
+          "pl": "Patenty chronia idee, urzadzenia i rozwiazania techniczne. Dla niemieckiej inzynierii, chemii, medycyny i przemyslu maszynowego zasady miedzynarodowe staly sie szczegolnie wazne.",
+          "tr": "Patentler fikirleri, cihazlari ve teknik cozumleri korur. Alman muhendisligi, kimyasi, tibbi ve makine sanayisi icin uluslararasi kurallar ozellikle onemli hale geldi.",
+          "zh": "专利保护创意、设备和技术方案。对德国工程、化学、医学和机械工业来说，国际规则变得格外重要。",
+          "ja": "特許はアイデア、装置、技術的解決策を保護します。ドイツの工学、化学、医学、機械産業にとって、国際的なルールは特に重要になりました。",
+          "ko": "특허는 아이디어, 장치, 기술적 해결책을 보호합니다. 독일의 공학, 화학, 의학, 기계 산업에는 국제 규칙이 특히 중요해졌습니다.",
+          "hi": "पेटेंट विचारों, उपकरणों और तकनीकी समाधानों की रक्षा करते हैं। जर्मन इंजीनियरिंग, रसायन, चिकित्सा और मशीन उद्योग के लिए अंतरराष्ट्रीय नियम विशेष रूप से महत्वपूर्ण हो गए।",
+          "ar": "تحمي البراءات الافكار والاجهزة والحلول التقنية. واصبحت القواعد الدولية مهمة خصوصا للهندسة والكيمياء والطب وصناعة الالات الالمانية."
         },
         "importance": {
           "ru": "Это показывает, что наука и техника зависят не только от лабораторий, но и от права.",
           "de": "Das zeigt, dass Wissenschaft und Technik nicht nur von Laboren, sondern auch vom Recht abhaengen.",
-          "en": "It shows that science and technology depend not only on laboratories, but also on law."
+          "en": "It shows that science and technology depend not only on laboratories, but also on law.",
+          "fr": "Cela montre que la science et la technique dependent non seulement des laboratoires, mais aussi du droit.",
+          "es": "Muestra que la ciencia y la tecnologia dependen no solo de laboratorios, sino tambien del derecho.",
+          "it": "Mostra che scienza e tecnologia dipendono non solo dai laboratori, ma anche dal diritto.",
+          "pt": "Isso mostra que ciencia e tecnologia dependem nao apenas de laboratorios, mas tambem do direito.",
+          "nl": "Het laat zien dat wetenschap en techniek niet alleen van laboratoria afhangen, maar ook van recht.",
+          "pl": "Pokazuje to, ze nauka i technika zaleza nie tylko od laboratoriow, lecz takze od prawa.",
+          "tr": "Bu, bilim ve teknolojinin yalnizca laboratuvarlara degil, hukuka da bagli oldugunu gosterir.",
+          "zh": "这表明科学和技术不仅依赖实验室，也依赖法律。",
+          "ja": "これは、科学と技術が実験室だけでなく法律にも依存していることを示しています。",
+          "ko": "이는 과학과 기술이 실험실뿐 아니라 법에도 의존한다는 것을 보여 줍니다.",
+          "hi": "यह दिखाता है कि विज्ञान और तकनीक सिर्फ प्रयोगशालाओं पर नहीं, कानून पर भी निर्भर करते हैं।",
+          "ar": "يوضح ذلك ان العلم والتقنية لا يعتمدان على المختبرات فقط، بل على القانون ايضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Одна заявка для многих стран",
           "de": "Eine Anmeldung fuer viele Laender",
-          "en": "One application for many countries"
+          "en": "One application for many countries",
+          "fr": "Une demande pour de nombreux pays",
+          "es": "Una solicitud para muchos paises",
+          "it": "Una domanda per molti paesi",
+          "pt": "Um pedido para muitos paises",
+          "nl": "Een aanvraag voor veel landen",
+          "pl": "Jedno zgloszenie dla wielu krajow",
+          "tr": "Bir basvuru, bircok ulke",
+          "zh": "一份申请面向多个国家",
+          "ja": "多くの国への一つの出願",
+          "ko": "여러 나라를 위한 하나의 출원",
+          "hi": "कई देशों के लिए एक आवेदन",
+          "ar": "طلب واحد لبلدان كثيرة"
         },
         "description": {
           "ru": "Главная идея PCT проста: изобретатель может начать международную патентную процедуру одной заявкой. Это не заменяет национальные патенты полностью, но делает первый шаг гораздо удобнее.",
           "de": "Die Grundidee des PCT ist einfach: Ein Erfinder kann ein internationales Patentverfahren mit einer einzigen Anmeldung beginnen. Das ersetzt nationale Patente nicht vollstaendig, macht den ersten Schritt aber viel einfacher.",
-          "en": "The basic idea of the PCT is simple: an inventor can begin an international patent procedure with one application. It does not fully replace national patents, but it makes the first step much easier."
+          "en": "The basic idea of the PCT is simple: an inventor can begin an international patent procedure with one application. It does not fully replace national patents, but it makes the first step much easier.",
+          "fr": "L'idee de base du PCT est simple: un inventeur peut commencer une procedure internationale de brevet avec une seule demande. Cela ne remplace pas completement les brevets nationaux, mais rend le premier pas beaucoup plus simple.",
+          "es": "La idea basica del PCT es sencilla: un inventor puede iniciar un procedimiento internacional de patente con una sola solicitud. No sustituye por completo a las patentes nacionales, pero facilita mucho el primer paso.",
+          "it": "L'idea di base del PCT e semplice: un inventore puo avviare una procedura internazionale di brevetto con una sola domanda. Non sostituisce del tutto i brevetti nazionali, ma rende il primo passo molto piu semplice.",
+          "pt": "A ideia basica do PCT e simples: um inventor pode iniciar um procedimento internacional de patente com um unico pedido. Isso nao substitui totalmente as patentes nacionais, mas torna o primeiro passo muito mais facil.",
+          "nl": "Het basisidee van het PCT is eenvoudig: een uitvinder kan een internationale patentprocedure beginnen met een enkele aanvraag. Het vervangt nationale patenten niet volledig, maar maakt de eerste stap veel eenvoudiger.",
+          "pl": "Podstawowa idea PCT jest prosta: wynalazca moze rozpoczac miedzynarodowa procedure patentowa jednym zgloszeniem. Nie zastepuje to calkowicie patentow krajowych, ale znacznie ulatwia pierwszy krok.",
+          "tr": "PCT'nin temel fikri basittir: bir mucit uluslararasi patent surecini tek bir basvuruyla baslatabilir. Bu ulusal patentlerin yerini tamamen almaz, ama ilk adimi cok daha kolay hale getirir.",
+          "zh": "PCT的基本想法很简单：发明人可以用一份申请启动国际专利程序。它并不完全取代各国专利，但让第一步方便得多。",
+          "ja": "PCTの基本的な考え方は単純です。発明者は一つの出願で国際的な特許手続きを始められます。国内特許を完全に置き換えるものではありませんが、最初の一歩をずっと簡単にします。",
+          "ko": "PCT의 기본 아이디어는 간단합니다. 발명가는 하나의 출원으로 국제 특허 절차를 시작할 수 있습니다. 그것이 국가별 특허를 완전히 대체하지는 않지만 첫 단계를 훨씬 쉽게 만듭니다.",
+          "hi": "PCT का मूल विचार सरल है: आविष्कारक एक आवेदन से अंतरराष्ट्रीय पेटेंट प्रक्रिया शुरू कर सकता है। यह राष्ट्रीय पेटेंटों को पूरी तरह नहीं बदलता, लेकिन पहला कदम बहुत आसान बनाता है।",
+          "ar": "الفكرة الاساسية لمعاهدة PCT بسيطة: يستطيع المخترع بدء اجراء براءة دولي بطلب واحد. هذا لا يستبدل البراءات الوطنية بالكامل، لكنه يجعل الخطوة الاولى اسهل بكثير."
         },
         "importance": {
           "ru": "Даже бюрократическая реформа может сильно ускорить путь идеи из мастерской на мировой рынок.",
           "de": "Auch eine buerokratische Reform kann den Weg einer Idee aus der Werkstatt auf den Weltmarkt stark beschleunigen.",
-          "en": "Even a bureaucratic reform can greatly speed an idea's path from workshop to world market."
+          "en": "Even a bureaucratic reform can greatly speed an idea's path from workshop to world market.",
+          "fr": "Meme une reforme bureaucratique peut beaucoup accelerer le chemin d'une idee de l'atelier vers le marche mondial.",
+          "es": "Incluso una reforma burocratica puede acelerar mucho el camino de una idea desde el taller hasta el mercado mundial.",
+          "it": "Anche una riforma burocratica puo accelerare molto il percorso di un'idea dall'officina al mercato mondiale.",
+          "pt": "Mesmo uma reforma burocratica pode acelerar muito o caminho de uma ideia da oficina ao mercado mundial.",
+          "nl": "Zelfs een bureaucratische hervorming kan de weg van een idee van werkplaats naar wereldmarkt sterk versnellen.",
+          "pl": "Nawet reforma biurokratyczna moze znacznie przyspieszyc droge pomyslu z warsztatu na rynek swiatowy.",
+          "tr": "Burokratik bir reform bile bir fikrin atolyeden dunya pazarina giden yolunu buyuk olcude hizlandirabilir.",
+          "zh": "即使是官僚程序改革，也能大大加快一个想法从工作室走向世界市场的道路。",
+          "ja": "官僚的な改革であっても、工房から世界市場へ向かうアイデアの道のりを大きく速めることがあります。",
+          "ko": "관료적 개혁조차도 아이디어가 작업장에서 세계 시장으로 가는 길을 크게 앞당길 수 있습니다.",
+          "hi": "ब्यूरोक्रेटिक सुधार भी किसी विचार के कार्यशाला से विश्व बाजार तक पहुंचने के रास्ते को बहुत तेज कर सकता है।",
+          "ar": "حتى الاصلاح البيروقراطي يمكن ان يسرع كثيرا طريق الفكرة من الورشة الى السوق العالمية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Договор вступил в силу в 1978 году и сегодня действует для большинства стран мира.",
     "de": "Der Vertrag trat 1978 in Kraft und gilt heute fuer die meisten Staaten der Welt.",
-    "en": "The treaty entered into force in 1978 and now applies to most countries in the world."
+    "en": "The treaty entered into force in 1978 and now applies to most countries in the world.",
+    "fr": "Le traite entra en vigueur en 1978 et s'applique aujourd'hui a la plupart des pays du monde.",
+    "es": "El tratado entro en vigor en 1978 y hoy se aplica a la mayoria de los paises del mundo.",
+    "it": "Il trattato entro in vigore nel 1978 e oggi si applica alla maggior parte dei paesi del mondo.",
+    "pt": "O tratado entrou em vigor em 1978 e hoje se aplica a maioria dos paises do mundo.",
+    "nl": "Het verdrag trad in 1978 in werking en geldt nu voor de meeste landen ter wereld.",
+    "pl": "Uklad wszedl w zycie w 1978 roku i dzis obowiazuje w wiekszosci krajow swiata.",
+    "tr": "Antlasma 1978'de yururluge girdi ve bugun dunyadaki ulkelerin cogunda gecerlidir.",
+    "zh": "该条约于1978年生效，如今适用于世界上大多数国家。",
+    "ja": "この条約は1978年に発効し、現在では世界の大多数の国に適用されています。",
+    "ko": "이 조약은 1978년에 발효되었고 현재 세계 대부분의 나라에 적용됩니다.",
+    "hi": "यह संधि 1978 में लागू हुई और आज दुनिया के अधिकांश देशों पर लागू होती है।",
+    "ar": "دخلت المعاهدة حيز التنفيذ عام 1978 وتطبق اليوم في معظم دول العالم."
   },
   "sources": [
     {
