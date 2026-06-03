@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Генрих Гейне",
       "de": "Heinrich Heine wird geboren",
-      "en": "Heinrich Heine is born"
+      "en": "Heinrich Heine is born",
+      "fr": "Naissance de Heinrich Heine",
+      "es": "Nace Heinrich Heine",
+      "it": "Nasce Heinrich Heine",
+      "pt": "Nasce Heinrich Heine",
+      "nl": "Heinrich Heine wordt geboren",
+      "pl": "Rodzi sie Heinrich Heine",
+      "tr": "Heinrich Heine doguyor",
+      "zh": "海因里希·海涅出生",
+      "ja": "ハインリヒ・ハイネが生まれる",
+      "ko": "하인리히 하이네가 태어나다",
+      "hi": "हाइनरिख हाइने का जन्म हुआ",
+      "ar": "ولادة هاينريش هاينه"
     },
     "description": {
       "ru": "13 декабря 1797 года в Дюссельдорфе родился Генрих Гейне. Он стал одним из самых известных немецких поэтов и острым политическим публицистом.",
       "de": "Am 13. Dezember 1797 wurde Heinrich Heine in Duesseldorf geboren. Er wurde einer der bekanntesten deutschen Dichter und ein scharfer politischer Publizist.",
-      "en": "On 13 December 1797, Heinrich Heine was born in Duesseldorf. He became one of Germany's best-known poets and a sharp political writer."
+      "en": "On 13 December 1797, Heinrich Heine was born in Duesseldorf. He became one of Germany's best-known poets and a sharp political writer.",
+      "fr": "Le 13 decembre 1797, Heinrich Heine naquit a Duesseldorf. Il devint l'un des poetes allemands les plus connus et un publiciste politique mordant.",
+      "es": "El 13 de diciembre de 1797 nacio Heinrich Heine en Duesseldorf. Se convirtio en uno de los poetas alemanes mas conocidos y en un agudo escritor politico.",
+      "it": "Il 13 dicembre 1797 Heinrich Heine nacque a Duesseldorf. Divenne uno dei poeti tedeschi piu noti e un acuto scrittore politico.",
+      "pt": "Em 13 de dezembro de 1797 nasceu Heinrich Heine em Duesseldorf. Ele tornou-se um dos poetas alemaes mais conhecidos e um escritor politico afiado.",
+      "nl": "Op 13 december 1797 werd Heinrich Heine geboren in Duesseldorf. Hij werd een van Duitslands bekendste dichters en een scherpe politieke schrijver.",
+      "pl": "13 grudnia 1797 roku w Duesseldorfie urodzil sie Heinrich Heine. Stal sie jednym z najbardziej znanych niemieckich poetow i ostrym publicysta politycznym.",
+      "tr": "13 Aralik 1797'de Heinrich Heine Duesseldorf'ta dogdu. Almanya'nin en taninmis sairlerinden biri ve keskin bir siyasi yazar oldu.",
+      "zh": "1797年12月13日，海因里希·海涅出生于杜塞尔多夫。他成为德国最著名的诗人之一，也是一位尖锐的政治作家。",
+      "ja": "1797年12月13日、ハインリヒ・ハイネがデュッセルドルフで生まれました。彼はドイツで最も有名な詩人の一人となり、鋭い政治的文章も書きました。",
+      "ko": "1797년 12월 13일 하인리히 하이네가 뒤셀도르프에서 태어났다. 그는 독일의 가장 유명한 시인 중 한 명이자 날카로운 정치 작가가 되었다.",
+      "hi": "13 दिसंबर 1797 को हाइनरिख हाइने का जन्म ड्यूसलडॉर्फ में हुआ। वे जर्मनी के सबसे प्रसिद्ध कवियों में से एक और तीखे राजनीतिक लेखक बने।",
+      "ar": "في 13 ديسمبر 1797 وُلد هاينريش هاينه في دوسلدورف. وأصبح أحد أشهر شعراء ألمانيا وكاتبا سياسيا حادا."
     },
     "importance": {
       "ru": "Гейне соединял лирику, сатиру и политическое мышление, поэтому его трудно свести к одному жанру.",
       "de": "Heine verband Lyrik, Satire und politisches Denken, deshalb laesst er sich kaum auf ein Genre reduzieren.",
-      "en": "Heine combined lyric poetry, satire and political thought, making him hard to reduce to one genre."
+      "en": "Heine combined lyric poetry, satire and political thought, making him hard to reduce to one genre.",
+      "fr": "Heine associa poesie lyrique, satire et pensee politique, ce qui rend difficile de le reduire a un seul genre.",
+      "es": "Heine unio lirica, satira y pensamiento politico, por eso es dificil reducirlo a un solo genero.",
+      "it": "Heine uni lirica, satira e pensiero politico, percio e difficile ridurlo a un solo genere.",
+      "pt": "Heine uniu poesia lirica, satira e pensamento politico, por isso e dificil reduzi-lo a um unico genero.",
+      "nl": "Heine combineerde lyriek, satire en politiek denken, waardoor hij moeilijk tot een genre te herleiden is.",
+      "pl": "Heine laczyl liryke, satyre i myslenie polityczne, dlatego trudno sprowadzic go do jednego gatunku.",
+      "tr": "Heine lirik siiri, hicvi ve siyasi dusunceyi birlestirdi; bu yuzden onu tek bir ture indirgemek zordur.",
+      "zh": "海涅把抒情诗、讽刺和政治思考结合起来，因此很难把他归入单一体裁。",
+      "ja": "ハイネは叙情詩、風刺、政治的思考を結びつけたため、一つのジャンルだけに収めることは難しい人物です。",
+      "ko": "하이네는 서정시, 풍자, 정치적 사유를 결합했기 때문에 한 장르로만 설명하기 어렵다.",
+      "hi": "हाइने ने गीतात्मक कविता, व्यंग्य और राजनीतिक विचार को जोड़ा, इसलिए उन्हें एक ही विधा तक सीमित करना कठिन है।",
+      "ar": "جمع هاينه بين الشعر الغنائي والسخرية والفكر السياسي، ولذلك يصعب اختزاله في نوع أدبي واحد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Между Дюссельдорфом и Парижем",
           "de": "Zwischen Duesseldorf und Paris",
-          "en": "Between Duesseldorf and Paris"
+          "en": "Between Duesseldorf and Paris",
+          "fr": "Entre Duesseldorf et Paris",
+          "es": "Entre Duesseldorf y Paris",
+          "it": "Tra Duesseldorf e Parigi",
+          "pt": "Entre Duesseldorf e Paris",
+          "nl": "Tussen Duesseldorf en Parijs",
+          "pl": "Miedzy Duesseldorfem a Paryzem",
+          "tr": "Duesseldorf ile Paris arasinda",
+          "zh": "在杜塞尔多夫与巴黎之间",
+          "ja": "デュッセルドルフとパリの間で",
+          "ko": "뒤셀도르프와 파리 사이에서",
+          "hi": "ड्यूसलडॉर्फ और पेरिस के बीच",
+          "ar": "بين دوسلدورف وباريس"
         },
         "description": {
           "ru": "Гейне долго жил во Франции и писал о Германии с дистанции. Поэтому его тексты часто звучат одновременно любовно и критически.",
           "de": "Heine lebte lange in Frankreich und schrieb aus der Distanz ueber Deutschland. Deshalb klingen seine Texte oft zugleich liebevoll und kritisch.",
-          "en": "Heine lived for a long time in France and wrote about Germany from a distance. His texts often sound both affectionate and critical."
+          "en": "Heine lived for a long time in France and wrote about Germany from a distance. His texts often sound both affectionate and critical.",
+          "fr": "Heine vecut longtemps en France et ecrivit sur l'Allemagne avec distance. Ses textes sonnent souvent a la fois tendres et critiques.",
+          "es": "Heine vivio mucho tiempo en Francia y escribio sobre Alemania desde la distancia. Sus textos suelen sonar a la vez afectuosos y criticos.",
+          "it": "Heine visse a lungo in Francia e scrisse della Germania da lontano. I suoi testi suonano spesso insieme affettuosi e critici.",
+          "pt": "Heine viveu muito tempo na Franca e escreveu sobre a Alemanha a distancia. Seus textos muitas vezes soam ao mesmo tempo afetuosos e criticos.",
+          "nl": "Heine woonde lang in Frankrijk en schreef op afstand over Duitsland. Zijn teksten klinken vaak tegelijk liefdevol en kritisch.",
+          "pl": "Heine dlugo mieszkal we Francji i pisal o Niemczech z dystansu. Jego teksty czesto brzmia jednoczesnie czule i krytycznie.",
+          "tr": "Heine uzun sure Fransa'da yasadi ve Almanya hakkinda uzaktan yazdi. Metinleri cogu zaman hem sevgi dolu hem de elestirel duyulur.",
+          "zh": "海涅长期生活在法国，并从距离之外书写德国。他的文字常常既充满感情，又带有批判。",
+          "ja": "ハイネは長くフランスに住み、距離を置いてドイツについて書きました。彼の文章はしばしば愛情深く、同時に批判的に響きます。",
+          "ko": "하이네는 오랫동안 프랑스에서 살며 거리를 두고 독일에 대해 썼다. 그의 글은 종종 애정과 비판을 동시에 담고 있다.",
+          "hi": "हाइने लंबे समय तक फ्रांस में रहे और दूरी से जर्मनी के बारे में लिखते रहे। उनके लेखन में अक्सर प्रेम और आलोचना दोनों साथ सुनाई देते हैं।",
+          "ar": "عاش هاينه فترة طويلة في فرنسا وكتب عن ألمانيا من مسافة. وغالبا ما تبدو نصوصه محبة وناقدة في الوقت نفسه."
         },
         "importance": {
           "ru": "Он важен для понимания Германии как части европейского культурного пространства.",
           "de": "Er ist wichtig, um Deutschland als Teil eines europaeischen Kulturraums zu verstehen.",
-          "en": "He is important for understanding Germany as part of a European cultural space."
+          "en": "He is important for understanding Germany as part of a European cultural space.",
+          "fr": "Il est important pour comprendre l'Allemagne comme partie d'un espace culturel europeen.",
+          "es": "Es importante para entender Alemania como parte de un espacio cultural europeo.",
+          "it": "E importante per capire la Germania come parte di uno spazio culturale europeo.",
+          "pt": "Ele e importante para entender a Alemanha como parte de um espaco cultural europeu.",
+          "nl": "Hij is belangrijk om Duitsland te begrijpen als deel van een Europese culturele ruimte.",
+          "pl": "Jest wazny dla zrozumienia Niemiec jako czesci europejskiej przestrzeni kulturowej.",
+          "tr": "Almanya'yi Avrupa kulturel alaninin bir parcasi olarak anlamak icin onemlidir.",
+          "zh": "他对理解德国作为欧洲文化空间的一部分很重要。",
+          "ja": "彼は、ドイツをヨーロッパ文化圏の一部として理解するために重要です。",
+          "ko": "그는 독일을 유럽 문화 공간의 일부로 이해하는 데 중요하다.",
+          "hi": "वे जर्मनी को यूरोपीय सांस्कृतिक क्षेत्र के हिस्से के रूप में समझने के लिए महत्वपूर्ण हैं।",
+          "ar": "إنه مهم لفهم ألمانيا بوصفها جزءا من فضاء ثقافي أوروبي."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Университет Дюссельдорфа сегодня носит имя Генриха Гейне.",
     "de": "Die Universitaet Duesseldorf traegt heute den Namen Heinrich Heines.",
-    "en": "The University of Duesseldorf is now named after Heinrich Heine."
+    "en": "The University of Duesseldorf is now named after Heinrich Heine.",
+    "fr": "L'universite de Duesseldorf porte aujourd'hui le nom de Heinrich Heine.",
+    "es": "La Universidad de Duesseldorf lleva hoy el nombre de Heinrich Heine.",
+    "it": "L'Universita di Duesseldorf porta oggi il nome di Heinrich Heine.",
+    "pt": "A Universidade de Duesseldorf hoje leva o nome de Heinrich Heine.",
+    "nl": "De Universiteit van Duesseldorf is tegenwoordig naar Heinrich Heine genoemd.",
+    "pl": "Uniwersytet w Duesseldorfie nosi dzis imie Heinricha Heinego.",
+    "tr": "Duesseldorf Universitesi bugun Heinrich Heine'nin adini tasir.",
+    "zh": "杜塞尔多夫大学如今以海因里希·海涅命名。",
+    "ja": "デュッセルドルフ大学は現在、ハインリヒ・ハイネの名を冠しています。",
+    "ko": "뒤셀도르프 대학교는 오늘날 하인리히 하이네의 이름을 따르고 있다.",
+    "hi": "ड्यूसलडॉर्फ विश्वविद्यालय आज हाइनरिख हाइने के नाम पर है।",
+    "ar": "تحمل جامعة دوسلدورف اليوم اسم هاينريش هاينه."
   },
   "sources": [
     {
