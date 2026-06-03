@@ -11,17 +11,53 @@
     "title": {
       "ru": "Результаты затмения подтвердили теорию Эйнштейна",
       "de": "Eklipsergebnisse bestaetigen Einsteins Theorie",
-      "en": "Eclipse results confirm Einstein's theory"
+      "en": "Eclipse results confirm Einstein's theory",
+      "fr": "Les resultats de l'eclipse confirment la theorie d'Einstein",
+      "es": "Los resultados del eclipse confirman la teoria de Einstein",
+      "it": "I risultati dell'eclissi confermano la teoria di Einstein",
+      "pt": "Resultados do eclipse confirmam a teoria de Einstein",
+      "nl": "Eclipsresultaten bevestigen Einsteins theorie",
+      "pl": "Wyniki zacmienia potwierdzaja teorie Einsteina",
+      "tr": "Tutulma sonuclari Einstein'in teorisini dogruladi",
+      "zh": "日食观测结果证实爱因斯坦理论",
+      "ja": "日食観測の結果がアインシュタインの理論を確認",
+      "ko": "일식 결과가 아인슈타인의 이론을 확인하다",
+      "hi": "ग्रहण के परिणामों ने आइंस्टाइन के सिद्धांत की पुष्टि की",
+      "ar": "نتائج الكسوف تؤكد نظرية اينشتاين"
     },
     "description": {
       "ru": "6 ноября 1919 года в Лондоне были представлены результаты наблюдений солнечного затмения, согласующиеся с общей теорией относительности Альберта Эйнштейна. После этого имя Эйнштейна стало известно широкой публике.",
       "de": "Am 6. November 1919 wurden in London Ergebnisse von Sonnenfinsternis-Beobachtungen vorgestellt, die mit Albert Einsteins allgemeiner Relativitaetstheorie uebereinstimmten. Danach wurde Einsteins Name einer breiten Oeffentlichkeit bekannt.",
-      "en": "On 6 November 1919, results from solar eclipse observations were presented in London and agreed with Albert Einstein's general theory of relativity. After this, Einstein's name became known to the wider public."
+      "en": "On 6 November 1919, results from solar eclipse observations were presented in London and agreed with Albert Einstein's general theory of relativity. After this, Einstein's name became known to the wider public.",
+      "fr": "Le 6 novembre 1919, les resultats d'observations d'une eclipse solaire furent presentes a Londres et correspondaient a la theorie de la relativite generale d'Albert Einstein. Apres cela, le nom d'Einstein devint connu du grand public.",
+      "es": "El 6 de noviembre de 1919 se presentaron en Londres resultados de observaciones de un eclipse solar que concordaban con la teoria general de la relatividad de Albert Einstein. Despues de esto, el nombre de Einstein se hizo conocido para el gran publico.",
+      "it": "Il 6 novembre 1919 furono presentati a Londra i risultati delle osservazioni di un'eclissi solare, in accordo con la teoria generale della relativita di Albert Einstein. Dopo questo, il nome di Einstein divenne noto al grande pubblico.",
+      "pt": "Em 6 de novembro de 1919, resultados de observacoes de um eclipse solar foram apresentados em Londres e concordavam com a teoria geral da relatividade de Albert Einstein. Depois disso, o nome de Einstein ficou conhecido do grande publico.",
+      "nl": "Op 6 november 1919 werden in Londen resultaten van waarnemingen van een zonsverduistering gepresenteerd die overeenkwamen met Albert Einsteins algemene relativiteitstheorie. Daarna werd Einsteins naam bekend bij een breed publiek.",
+      "pl": "6 listopada 1919 roku w Londynie przedstawiono wyniki obserwacji zacmienia Slonca, zgodne z ogolna teoria wzglednosci Alberta Einsteina. Po tym nazwisko Einsteina stalo sie znane szerokiej publicznosci.",
+      "tr": "6 Kasim 1919'da Londra'da gunes tutulmasi gozlemlerinin sonuclari sunuldu ve Albert Einstein'in genel gorelilik teorisiyle uyumlu oldugu goruldu. Bundan sonra Einstein'in adi genis kamuoyu tarafindan tanindi.",
+      "zh": "1919年11月6日，伦敦公布了太阳日食观测结果，这些结果与阿尔伯特·爱因斯坦的广义相对论相符。此后，爱因斯坦的名字为大众所知。",
+      "ja": "1919年11月6日、ロンドンで日食観測の結果が発表され、アルベルト・アインシュタインの一般相対性理論と一致しました。その後、アインシュタインの名前は広く知られるようになりました。",
+      "ko": "1919년 11월 6일 런던에서 일식 관측 결과가 발표되었고, 이는 알베르트 아인슈타인의 일반 상대성 이론과 일치했다. 이후 아인슈타인의 이름은 널리 알려졌다.",
+      "hi": "6 नवंबर 1919 को लंदन में सूर्य ग्रहण के अवलोकनों के परिणाम प्रस्तुत किए गए, जो अल्बर्ट आइंस्टाइन के सामान्य सापेक्षता सिद्धांत से मेल खाते थे। इसके बाद आइंस्टाइन का नाम आम जनता में प्रसिद्ध हो गया।",
+      "ar": "في 6 نوفمبر 1919 عُرضت في لندن نتائج رصد كسوف شمسي، وكانت متفقة مع نظرية النسبية العامة لالبرت اينشتاين. بعد ذلك اصبح اسم اينشتاين معروفا لدى جمهور واسع."
     },
     "importance": {
       "ru": "Дата показывает, как немецкая теоретическая физика стала мировой новостью.",
       "de": "Das Datum zeigt, wie deutsche theoretische Physik zur Weltnachricht wurde.",
-      "en": "The date shows how German theoretical physics became world news."
+      "en": "The date shows how German theoretical physics became world news.",
+      "fr": "Cette date montre comment la physique theorique allemande devint une nouvelle mondiale.",
+      "es": "La fecha muestra como la fisica teorica alemana se convirtio en noticia mundial.",
+      "it": "La data mostra come la fisica teorica tedesca divenne una notizia mondiale.",
+      "pt": "A data mostra como a fisica teorica alema se tornou noticia mundial.",
+      "nl": "De datum laat zien hoe Duitse theoretische natuurkunde wereldnieuws werd.",
+      "pl": "Ta data pokazuje, jak niemiecka fizyka teoretyczna stala sie wiadomoscia swiatowa.",
+      "tr": "Bu tarih, Alman teorik fiziginin nasil dunya haberi haline geldigini gosterir.",
+      "zh": "这个日期显示德国理论物理如何成为世界新闻。",
+      "ja": "この日付は、ドイツの理論物理学がどのように世界的ニュースになったかを示しています。",
+      "ko": "이 날짜는 독일 이론물리학이 어떻게 세계적 뉴스가 되었는지 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि जर्मन सैद्धांतिक भौतिकी कैसे विश्व समाचार बनी।",
+      "ar": "يبين هذا التاريخ كيف اصبحت الفيزياء النظرية الالمانية خبرا عالميا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Свет изгибается у Солнца",
           "de": "Licht wird an der Sonne abgelenkt",
-          "en": "Light bends near the Sun"
+          "en": "Light bends near the Sun",
+          "fr": "La lumiere se courbe pres du Soleil",
+          "es": "La luz se curva cerca del Sol",
+          "it": "La luce si piega vicino al Sole",
+          "pt": "A luz se curva perto do Sol",
+          "nl": "Licht buigt bij de zon",
+          "pl": "Swiatlo ugina sie przy Sloncu",
+          "tr": "Isik Gunes yakininda bukulur",
+          "zh": "光在太阳附近弯曲",
+          "ja": "光は太陽の近くで曲がる",
+          "ko": "빛은 태양 근처에서 휘어진다",
+          "hi": "प्रकाश सूर्य के पास मुड़ता है",
+          "ar": "ينحني الضوء قرب الشمس"
         },
         "description": {
           "ru": "Экспедиции наблюдали звёзды рядом с затемнённым Солнцем и искали малое смещение их видимого положения. Такой эффект был важной проверкой новой картины гравитации.",
           "de": "Die Expeditionen beobachteten Sterne nahe der verfinsterten Sonne und suchten nach einer kleinen Verschiebung ihrer scheinbaren Position. Dieser Effekt war ein wichtiger Test des neuen Gravitationsbildes.",
-          "en": "The expeditions observed stars near the eclipsed Sun and looked for a small shift in their apparent positions. The effect was an important test of a new picture of gravity."
+          "en": "The expeditions observed stars near the eclipsed Sun and looked for a small shift in their apparent positions. The effect was an important test of a new picture of gravity.",
+          "fr": "Les expeditions observerent des etoiles pres du Soleil eclipse et chercherent un petit deplacement de leur position apparente. Cet effet etait un test important d'une nouvelle image de la gravitation.",
+          "es": "Las expediciones observaron estrellas cerca del Sol eclipsado y buscaron un pequeno desplazamiento en sus posiciones aparentes. Ese efecto era una prueba importante de una nueva imagen de la gravedad.",
+          "it": "Le spedizioni osservarono stelle vicino al Sole eclissato e cercarono un piccolo spostamento delle loro posizioni apparenti. Questo effetto era una prova importante di una nuova visione della gravita.",
+          "pt": "As expedicoes observaram estrelas perto do Sol eclipsado e procuraram uma pequena mudanca em suas posicoes aparentes. Esse efeito era um teste importante de uma nova visao da gravidade.",
+          "nl": "De expedities observeerden sterren dicht bij de verduisterde zon en zochten naar een kleine verschuiving in hun schijnbare posities. Dit effect was een belangrijke test van een nieuw beeld van zwaartekracht.",
+          "pl": "Ekspedycje obserwowaly gwiazdy blisko zacmionego Slonca i szukaly niewielkiego przesuniecia ich pozornego polozenia. Ten efekt byl waznym testem nowego obrazu grawitacji.",
+          "tr": "Seferler, tutulmus Gunes'in yakinindaki yildizlari gozlemledi ve gorunen konumlarinda kucuk bir kayma aradi. Bu etki, yeni bir yercekimi anlayisinin onemli bir testiydi.",
+          "zh": "考察队观测被遮蔽太阳附近的恒星，并寻找其视位置的微小偏移。这个效应是检验新的引力图景的重要测试。",
+          "ja": "観測隊は、食の起きた太陽の近くの星を観測し、その見かけの位置の小さなずれを探しました。この効果は、新しい重力像の重要な検証でした。",
+          "ko": "탐사대는 가려진 태양 근처의 별들을 관측하고 겉보기 위치의 작은 이동을 찾았다. 이 효과는 새로운 중력 이론을 검증하는 중요한 시험이었다.",
+          "hi": "अभियानों ने ग्रहण लगे सूर्य के पास तारों को देखा और उनकी दिखाई देने वाली स्थिति में छोटे बदलाव की खोज की। यह प्रभाव गुरुत्वाकर्षण की नई तस्वीर की महत्वपूर्ण परीक्षा था।",
+          "ar": "راقبت البعثات نجوما قرب الشمس المكسوفة وبحثت عن انزياح صغير في مواقعها الظاهرية. وكان هذا الاثر اختبارا مهما لصورة جديدة عن الجاذبية."
         },
         "importance": {
           "ru": "Так астрономические наблюдения помогли проверить очень абстрактную физическую теорию.",
           "de": "So halfen astronomische Beobachtungen, eine sehr abstrakte physikalische Theorie zu pruefen.",
-          "en": "Astronomical observations helped test a very abstract physical theory."
+          "en": "Astronomical observations helped test a very abstract physical theory.",
+          "fr": "Les observations astronomiques aiderent a verifier une theorie physique tres abstraite.",
+          "es": "Las observaciones astronomicas ayudaron a comprobar una teoria fisica muy abstracta.",
+          "it": "Le osservazioni astronomiche aiutarono a verificare una teoria fisica molto astratta.",
+          "pt": "Observacoes astronomicas ajudaram a testar uma teoria fisica muito abstrata.",
+          "nl": "Astronomische waarnemingen hielpen een zeer abstracte natuurkundige theorie te testen.",
+          "pl": "Obserwacje astronomiczne pomogly sprawdzic bardzo abstrakcyjna teorie fizyczna.",
+          "tr": "Astronomik gozlemler cok soyut bir fizik teorisini test etmeye yardim etti.",
+          "zh": "天文观测帮助检验了一种非常抽象的物理理论。",
+          "ja": "天文観測は、非常に抽象的な物理理論を検証する助けとなりました。",
+          "ko": "천문 관측은 매우 추상적인 물리 이론을 시험하는 데 도움을 주었다.",
+          "hi": "खगोलीय अवलोकनों ने बहुत अमूर्त भौतिक सिद्धांत की जांच में मदद की।",
+          "ar": "ساعدت الملاحظات الفلكية على اختبار نظرية فيزيائية مجردة جدا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "На следующий день, 7 ноября 1919 года, британская пресса сделала Эйнштейна мировой знаменитостью.",
     "de": "Am naechsten Tag, dem 7. November 1919, machte die britische Presse Einstein weltberuehmt.",
-    "en": "The next day, 7 November 1919, the British press made Einstein world-famous."
+    "en": "The next day, 7 November 1919, the British press made Einstein world-famous.",
+    "fr": "Le lendemain, le 7 novembre 1919, la presse britannique rendit Einstein celebre dans le monde entier.",
+    "es": "Al dia siguiente, el 7 de noviembre de 1919, la prensa britanica hizo a Einstein famoso en todo el mundo.",
+    "it": "Il giorno dopo, il 7 novembre 1919, la stampa britannica rese Einstein famoso in tutto il mondo.",
+    "pt": "No dia seguinte, 7 de novembro de 1919, a imprensa britanica tornou Einstein mundialmente famoso.",
+    "nl": "De volgende dag, 7 november 1919, maakte de Britse pers Einstein wereldberoemd.",
+    "pl": "Nastepnego dnia, 7 listopada 1919 roku, brytyjska prasa uczynila Einsteina swiatowa slawa.",
+    "tr": "Ertesi gun, 7 Kasim 1919'da Ingiliz basini Einstein'i dunya capinda unlu yapti.",
+    "zh": "第二天，1919年11月7日，英国媒体使爱因斯坦成为世界名人。",
+    "ja": "翌日の1919年11月7日、英国の新聞はアインシュタインを世界的有名人にしました。",
+    "ko": "다음 날인 1919년 11월 7일 영국 언론은 아인슈타인을 세계적 유명 인물로 만들었다.",
+    "hi": "अगले दिन, 7 नवंबर 1919 को ब्रिटिश प्रेस ने आइंस्टाइन को विश्व प्रसिद्ध बना दिया।",
+    "ar": "في اليوم التالي، 7 نوفمبر 1919، جعلت الصحافة البريطانية اينشتاين مشهورا عالميا."
   },
   "sources": [
     {

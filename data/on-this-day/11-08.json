@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вильгельм Рентген открыл X-лучи",
       "de": "Wilhelm Roentgen entdeckt die X-Strahlen",
-      "en": "Wilhelm Roentgen discovers X-rays"
+      "en": "Wilhelm Roentgen discovers X-rays",
+      "fr": "Wilhelm Roentgen decouvre les rayons X",
+      "es": "Wilhelm Roentgen descubre los rayos X",
+      "it": "Wilhelm Roentgen scopre i raggi X",
+      "pt": "Wilhelm Roentgen descobre os raios X",
+      "nl": "Wilhelm Roentgen ontdekt rontgenstralen",
+      "pl": "Wilhelm Roentgen odkrywa promienie X",
+      "tr": "Wilhelm Roentgen X isinlarini kesfetti",
+      "zh": "威廉·伦琴发现X射线",
+      "ja": "ヴィルヘルム・レントゲンがX線を発見",
+      "ko": "빌헬름 뢴트겐이 X선을 발견하다",
+      "hi": "विल्हेल्म रॉन्टगन ने X-किरणों की खोज की",
+      "ar": "فيلهلم رونتغن يكتشف الاشعة السينية"
     },
     "description": {
       "ru": "8 ноября 1895 года физик Вильгельм Конрад Рентген в Вюрцбурге наблюдал неизвестное излучение. Позднее оно стало известно как рентгеновские лучи.",
       "de": "Am 8. November 1895 beobachtete der Physiker Wilhelm Conrad Roentgen in Wuerzburg eine unbekannte Strahlung. Spaeter wurde sie als Roentgenstrahlung bekannt.",
-      "en": "On 8 November 1895, physicist Wilhelm Conrad Roentgen observed an unknown form of radiation in Wuerzburg. It later became known as X-rays."
+      "en": "On 8 November 1895, physicist Wilhelm Conrad Roentgen observed an unknown form of radiation in Wuerzburg. It later became known as X-rays.",
+      "fr": "Le 8 novembre 1895, le physicien Wilhelm Conrad Roentgen observa a Wuerzburg une forme inconnue de rayonnement. Elle fut plus tard connue sous le nom de rayons X.",
+      "es": "El 8 de noviembre de 1895, el fisico Wilhelm Conrad Roentgen observo en Wuerzburg una forma desconocida de radiacion. Mas tarde se conocio como rayos X.",
+      "it": "L'8 novembre 1895, il fisico Wilhelm Conrad Roentgen osservo a Wuerzburg una forma sconosciuta di radiazione. In seguito divenne nota come raggi X.",
+      "pt": "Em 8 de novembro de 1895, o fisico Wilhelm Conrad Roentgen observou em Wuerzburg uma forma desconhecida de radiacao. Mais tarde ela ficou conhecida como raios X.",
+      "nl": "Op 8 november 1895 observeerde natuurkundige Wilhelm Conrad Roentgen in Wuerzburg een onbekende vorm van straling. Later werd die bekend als rontgenstraling.",
+      "pl": "8 listopada 1895 roku fizyk Wilhelm Conrad Roentgen zaobserwowal w Wuerzburgu nieznany rodzaj promieniowania. Pozniej stalo sie ono znane jako promienie X.",
+      "tr": "8 Kasim 1895'te fizikci Wilhelm Conrad Roentgen Wuerzburg'da bilinmeyen bir isinim turu gozlemledi. Daha sonra bu X isinlari olarak tanindi.",
+      "zh": "1895年11月8日，物理学家威廉·康拉德·伦琴在维尔茨堡观察到一种未知辐射。后来它被称为X射线。",
+      "ja": "1895年11月8日、物理学者ヴィルヘルム・コンラート・レントゲンはヴュルツブルクで未知の放射線を観察しました。それは後にX線として知られるようになりました。",
+      "ko": "1895년 11월 8일 물리학자 빌헬름 콘라트 뢴트겐은 뷔르츠부르크에서 알려지지 않은 형태의 방사선을 관찰했다. 그것은 나중에 X선으로 알려졌다.",
+      "hi": "8 नवंबर 1895 को भौतिक विज्ञानी विल्हेल्म कोनराड रॉन्टगन ने वुर्ज़बर्ग में अज्ञात प्रकार का विकिरण देखा। बाद में वह X-किरणों के नाम से जाना गया।",
+      "ar": "في 8 نوفمبر 1895 لاحظ الفيزيائي فيلهلم كونراد رونتغن في فورتسبورغ شكلا مجهولا من الاشعاع. وعرف لاحقا باسم الاشعة السينية."
     },
     "importance": {
       "ru": "Открытие быстро изменило медицину: врачи получили возможность видеть кости и внутренние структуры без операции.",
       "de": "Die Entdeckung veraenderte die Medizin schnell: Aerzte konnten Knochen und innere Strukturen ohne Operation sichtbar machen.",
-      "en": "The discovery quickly changed medicine: doctors could see bones and internal structures without surgery."
+      "en": "The discovery quickly changed medicine: doctors could see bones and internal structures without surgery.",
+      "fr": "La decouverte transforma rapidement la medecine: les medecins pouvaient voir les os et les structures internes sans operation.",
+      "es": "El descubrimiento cambio rapidamente la medicina: los medicos pudieron ver huesos y estructuras internas sin operar.",
+      "it": "La scoperta cambio rapidamente la medicina: i medici potevano vedere ossa e strutture interne senza intervento chirurgico.",
+      "pt": "A descoberta mudou rapidamente a medicina: medicos podiam ver ossos e estruturas internas sem cirurgia.",
+      "nl": "De ontdekking veranderde de geneeskunde snel: artsen konden botten en interne structuren zien zonder operatie.",
+      "pl": "Odkrycie szybko zmienilo medycyne: lekarze mogli widziec kosci i struktury wewnetrzne bez operacji.",
+      "tr": "Kesif tibbi hizla degistirdi: doktorlar kemikleri ve ic yapilari ameliyatsiz gorebildi.",
+      "zh": "这一发现迅速改变了医学：医生能够在不手术的情况下看到骨骼和内部结构。",
+      "ja": "この発見は医学を急速に変えました。医師は手術なしで骨や内部構造を見ることができるようになりました。",
+      "ko": "이 발견은 의학을 빠르게 바꾸었다. 의사들은 수술 없이 뼈와 내부 구조를 볼 수 있게 되었다.",
+      "hi": "इस खोज ने चिकित्सा को जल्दी बदल दिया: डॉक्टर बिना ऑपरेशन के हड्डियां और आंतरिक संरचनाएं देख सकते थे।",
+      "ar": "غير الاكتشاف الطب بسرعة: فقد استطاع الاطباء رؤية العظام والبنى الداخلية من دون جراحة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Первый Нобель по физике",
           "de": "Der erste Physik-Nobelpreis",
-          "en": "The first Nobel Prize in Physics"
+          "en": "The first Nobel Prize in Physics",
+          "fr": "Le premier prix Nobel de physique",
+          "es": "El primer Premio Nobel de Fisica",
+          "it": "Il primo Nobel per la fisica",
+          "pt": "O primeiro Nobel de Fisica",
+          "nl": "De eerste Nobelprijs voor Natuurkunde",
+          "pl": "Pierwsza Nagroda Nobla z fizyki",
+          "tr": "Ilk Nobel Fizik Odulu",
+          "zh": "首届诺贝尔物理学奖",
+          "ja": "最初のノーベル物理学賞",
+          "ko": "첫 노벨 물리학상",
+          "hi": "पहला नोबेल भौतिकी पुरस्कार",
+          "ar": "اول جائزة نوبل في الفيزياء"
         },
         "description": {
           "ru": "Рентген получил первую Нобелевскую премию по физике. Он не стремился запатентовать открытие, и технология быстро распространилась.",
           "de": "Roentgen erhielt den ersten Nobelpreis fuer Physik. Er versuchte nicht, seine Entdeckung zu patentieren, und die Technik verbreitete sich schnell.",
-          "en": "Roentgen received the first Nobel Prize in Physics. He did not try to patent his discovery, and the technology spread quickly."
+          "en": "Roentgen received the first Nobel Prize in Physics. He did not try to patent his discovery, and the technology spread quickly.",
+          "fr": "Roentgen recut le premier prix Nobel de physique. Il ne chercha pas a breveter sa decouverte, et la technique se diffusa rapidement.",
+          "es": "Roentgen recibio el primer Premio Nobel de Fisica. No intento patentar su descubrimiento, y la tecnologia se difundio rapidamente.",
+          "it": "Roentgen ricevette il primo premio Nobel per la fisica. Non tento di brevettare la sua scoperta e la tecnologia si diffuse rapidamente.",
+          "pt": "Roentgen recebeu o primeiro Premio Nobel de Fisica. Ele nao tentou patentear sua descoberta, e a tecnologia se espalhou rapidamente.",
+          "nl": "Roentgen ontving de eerste Nobelprijs voor Natuurkunde. Hij probeerde zijn ontdekking niet te patenteren, en de techniek verspreidde zich snel.",
+          "pl": "Roentgen otrzymal pierwsza Nagrode Nobla z fizyki. Nie probowal opatentowac swojego odkrycia, a technologia szybko sie rozpowszechnila.",
+          "tr": "Roentgen ilk Nobel Fizik Odulu'nu aldi. Kesfini patentlemeye calismadi ve teknoloji hizla yayildi.",
+          "zh": "伦琴获得了首届诺贝尔物理学奖。他没有试图为自己的发现申请专利，这项技术很快传播开来。",
+          "ja": "レントゲンは最初のノーベル物理学賞を受賞しました。彼は発見を特許にしようとせず、その技術は急速に広まりました。",
+          "ko": "뢴트겐은 첫 노벨 물리학상을 받았다. 그는 자신의 발견을 특허로 보호하려 하지 않았고, 기술은 빠르게 퍼졌다.",
+          "hi": "रॉन्टगन को पहला नोबेल भौतिकी पुरस्कार मिला। उन्होंने अपनी खोज का पेटेंट कराने की कोशिश नहीं की, और तकनीक तेजी से फैल गई।",
+          "ar": "حصل رونتغن على اول جائزة نوبل في الفيزياء. لم يحاول تسجيل اكتشافه كبراءة اختراع، وانتشرت التقنية بسرعة."
         },
         "importance": {
           "ru": "Это редкий пример открытия, которое почти сразу стало полезным для миллионов людей.",
           "de": "Das ist ein seltenes Beispiel fuer eine Entdeckung, die fast sofort Millionen Menschen nutzte.",
-          "en": "It is a rare example of a discovery that became useful to millions almost immediately."
+          "en": "It is a rare example of a discovery that became useful to millions almost immediately.",
+          "fr": "C'est un rare exemple de decouverte devenue utile a des millions de personnes presque immediatement.",
+          "es": "Es un raro ejemplo de un descubrimiento que se volvio util para millones de personas casi de inmediato.",
+          "it": "E un raro esempio di scoperta diventata utile a milioni di persone quasi subito.",
+          "pt": "E um raro exemplo de descoberta que se tornou util para milhoes de pessoas quase imediatamente.",
+          "nl": "Het is een zeldzaam voorbeeld van een ontdekking die bijna meteen nuttig werd voor miljoenen mensen.",
+          "pl": "To rzadki przyklad odkrycia, ktore niemal od razu stalo sie przydatne dla milionow ludzi.",
+          "tr": "Bu, neredeyse hemen milyonlarca insana faydali hale gelen nadir bir kesif ornegidir.",
+          "zh": "这是一个罕见例子：一项发现几乎立刻就对数百万人有用。",
+          "ja": "これは、ほとんどすぐに何百万人もの人々に役立つようになった発見の珍しい例です。",
+          "ko": "이는 거의 즉시 수백만 명에게 유용해진 발견의 드문 사례이다.",
+          "hi": "यह ऐसे खोज का दुर्लभ उदाहरण है जो लगभग तुरंत लाखों लोगों के लिए उपयोगी बन गई।",
+          "ar": "انه مثال نادر على اكتشاف اصبح مفيدا لملايين الناس على الفور تقريبا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Буква X в названии означала неизвестное: Рентген сначала не знал природу обнаруженных лучей.",
     "de": "Das X im Namen stand fuer das Unbekannte: Roentgen kannte die Natur der Strahlen zunaechst nicht.",
-    "en": "The X in the name meant unknown: Roentgen did not initially know the nature of the rays."
+    "en": "The X in the name meant unknown: Roentgen did not initially know the nature of the rays.",
+    "fr": "Le X du nom signifiait inconnu: Roentgen ne connaissait pas d'abord la nature des rayons.",
+    "es": "La X del nombre significaba desconocido: Roentgen al principio no conocia la naturaleza de los rayos.",
+    "it": "La X nel nome indicava l'ignoto: all'inizio Roentgen non conosceva la natura dei raggi.",
+    "pt": "O X no nome significava desconhecido: Roentgen inicialmente nao conhecia a natureza dos raios.",
+    "nl": "De X in de naam stond voor onbekend: Roentgen kende aanvankelijk de aard van de stralen niet.",
+    "pl": "Litera X w nazwie oznaczala niewiadoma: Roentgen poczatkowo nie znal natury odkrytych promieni.",
+    "tr": "Adindaki X bilinmeyeni ifade ediyordu: Roentgen ilk basta buldugu isinlarin dogasini bilmiyordu.",
+    "zh": "名称中的X表示未知：伦琴起初并不知道这些射线的性质。",
+    "ja": "名前のXは未知を意味しました。レントゲンは当初、発見した線の性質を知りませんでした。",
+    "ko": "이름의 X는 미지의 것을 뜻했다. 뢴트겐은 처음에는 발견한 광선의 성질을 알지 못했다.",
+    "hi": "नाम में X का अर्थ अज्ञात था: रॉन्टगन शुरू में खोजी गई किरणों की प्रकृति नहीं जानते थे।",
+    "ar": "كان حرف X في الاسم يعني المجهول: فقد لم يعرف رونتغن في البداية طبيعة الاشعة التي اكتشفها."
   },
   "sources": [
     {

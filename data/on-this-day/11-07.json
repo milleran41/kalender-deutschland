@@ -11,17 +11,53 @@
     "title": {
       "ru": "Провозглашён Свободный штат Бавария",
       "de": "Der Freistaat Bayern wird ausgerufen",
-      "en": "The Free State of Bavaria is proclaimed"
+      "en": "The Free State of Bavaria is proclaimed",
+      "fr": "L'Etat libre de Baviere est proclame",
+      "es": "Se proclama el Estado Libre de Baviera",
+      "it": "Viene proclamato lo Stato libero di Baviera",
+      "pt": "E proclamado o Estado Livre da Baviera",
+      "nl": "De Vrijstaat Beieren wordt uitgeroepen",
+      "pl": "Proklamowano Wolne Panstwo Bawaria",
+      "tr": "Bavyera Ozgur Devleti ilan edildi",
+      "zh": "巴伐利亚自由邦宣告成立",
+      "ja": "バイエルン自由州が宣言される",
+      "ko": "바이에른 자유주가 선포되다",
+      "hi": "बवेरिया मुक्त राज्य घोषित हुआ",
+      "ar": "اعلان ولاية بافاريا الحرة"
     },
     "description": {
       "ru": "7 ноября 1918 года в Мюнхене революционеры во главе с Куртом Эйснером свергли власть баварского короля Людвига III. В ночь на 8 ноября была провозглашена Баварская республика.",
       "de": "Am 7. November 1918 stuerzten Revolutionaere um Kurt Eisner in Muenchen die Herrschaft des bayerischen Koenigs Ludwig III. In der Nacht zum 8. November wurde die bayerische Republik ausgerufen.",
-      "en": "On 7 November 1918, revolutionaries around Kurt Eisner overthrew the rule of Bavaria's King Ludwig III in Munich. During the night of 7-8 November, the Bavarian republic was proclaimed."
+      "en": "On 7 November 1918, revolutionaries around Kurt Eisner overthrew the rule of Bavaria's King Ludwig III in Munich. During the night of 7-8 November, the Bavarian republic was proclaimed.",
+      "fr": "Le 7 novembre 1918, des revolutionnaires autour de Kurt Eisner renverserent a Munich le pouvoir du roi Louis III de Baviere. Dans la nuit du 7 au 8 novembre, la republique bavaroise fut proclamee.",
+      "es": "El 7 de noviembre de 1918, revolucionarios en torno a Kurt Eisner derrocaron en Munich el poder del rey bavaro Luis III. Durante la noche del 7 al 8 de noviembre se proclamo la republica bavara.",
+      "it": "Il 7 novembre 1918, i rivoluzionari intorno a Kurt Eisner rovesciarono a Monaco il potere del re bavarese Ludovico III. Nella notte tra il 7 e l'8 novembre fu proclamata la repubblica bavarese.",
+      "pt": "Em 7 de novembro de 1918, revolucionarios em torno de Kurt Eisner derrubaram em Munique o governo do rei bavaro Luis III. Na noite de 7 para 8 de novembro, a republica bavara foi proclamada.",
+      "nl": "Op 7 november 1918 wierpen revolutionairen rond Kurt Eisner in München het bewind van de Beierse koning Ludwig III omver. In de nacht van 7 op 8 november werd de Beierse republiek uitgeroepen.",
+      "pl": "7 listopada 1918 roku rewolucjonisci skupieni wokol Kurta Eisnera obalili w Monachium wladze bawarskiego krola Ludwika III. W nocy z 7 na 8 listopada proklamowano republike bawarska.",
+      "tr": "7 Kasim 1918'de Kurt Eisner etrafindaki devrimciler, Munih'te Bavyera Krali III. Ludwig'in yonetimini devirdi. 7-8 Kasim gecesi Bavyera cumhuriyeti ilan edildi.",
+      "zh": "1918年11月7日，库尔特·艾斯纳周围的革命者在慕尼黑推翻了巴伐利亚国王路德维希三世的统治。11月7日至8日夜间，巴伐利亚共和国宣告成立。",
+      "ja": "1918年11月7日、クルト・アイスナーを中心とする革命派がミュンヘンでバイエルン王ルートヴィヒ3世の支配を倒しました。11月7日から8日にかけての夜、バイエルン共和国が宣言されました。",
+      "ko": "1918년 11월 7일 쿠르트 아이스너를 중심으로 한 혁명가들이 뮌헨에서 바이에른 국왕 루트비히 3세의 통치를 무너뜨렸다. 11월 7일에서 8일로 넘어가는 밤, 바이에른 공화국이 선포되었다.",
+      "hi": "7 नवंबर 1918 को कुर्ट आइसनर के आसपास के क्रांतिकारियों ने म्यूनिख में बवेरिया के राजा लुडविग तृतीय की सत्ता गिरा दी। 7-8 नवंबर की रात बवेरियन गणराज्य घोषित किया गया।",
+      "ar": "في 7 نوفمبر 1918 اطاح ثوار حول كورت ايسنر في ميونخ بحكم ملك بافاريا لودفيغ الثالث. وفي ليلة 7-8 نوفمبر اعلنت الجمهورية البافارية."
     },
     "importance": {
       "ru": "Бавария стала одним из первых мест, где рухнула монархия в конце Первой мировой войны.",
       "de": "Bayern wurde zu einem der ersten Orte, an denen am Ende des Ersten Weltkriegs die Monarchie zusammenbrach.",
-      "en": "Bavaria became one of the first places where monarchy collapsed at the end of the First World War."
+      "en": "Bavaria became one of the first places where monarchy collapsed at the end of the First World War.",
+      "fr": "La Baviere devint l'un des premiers lieux ou la monarchie s'effondra a la fin de la Premiere Guerre mondiale.",
+      "es": "Baviera fue uno de los primeros lugares donde la monarquia se derrumbo al final de la Primera Guerra Mundial.",
+      "it": "La Baviera divenne uno dei primi luoghi in cui la monarchia crollo alla fine della Prima guerra mondiale.",
+      "pt": "A Baviera tornou-se um dos primeiros lugares onde a monarquia desabou no fim da Primeira Guerra Mundial.",
+      "nl": "Beieren werd een van de eerste plaatsen waar de monarchie aan het einde van de Eerste Wereldoorlog instortte.",
+      "pl": "Bawaria stala sie jednym z pierwszych miejsc, gdzie pod koniec I wojny swiatowej upadla monarchia.",
+      "tr": "Bavyera, Birinci Dunya Savasi'nin sonunda monarsinin coktugu ilk yerlerden biri oldu.",
+      "zh": "巴伐利亚成为第一次世界大战结束时君主制最早崩溃的地区之一。",
+      "ja": "バイエルンは、第一次世界大戦末期に君主制が崩壊した最初の地域の一つとなりました。",
+      "ko": "바이에른은 제1차 세계대전 말 군주제가 무너진 첫 지역 중 하나가 되었다.",
+      "hi": "बवेरिया प्रथम विश्व युद्ध के अंत में राजतंत्र टूटने वाले शुरुआती स्थानों में से एक बना।",
+      "ar": "اصبحت بافاريا من اوائل الاماكن التي انهارت فيها الملكية في نهاية الحرب العالمية الاولى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Король Людвиг III покинул Мюнхен",
           "de": "Koenig Ludwig III. verlaesst Muenchen",
-          "en": "King Ludwig III leaves Munich"
+          "en": "King Ludwig III leaves Munich",
+          "fr": "Le roi Louis III quitte Munich",
+          "es": "El rey Luis III abandona Munich",
+          "it": "Re Ludovico III lascia Monaco",
+          "pt": "O rei Luis III deixa Munique",
+          "nl": "Koning Ludwig III verlaat München",
+          "pl": "Krol Ludwik III opuszcza Monachium",
+          "tr": "Kral III. Ludwig Munih'ten ayrildi",
+          "zh": "国王路德维希三世离开慕尼黑",
+          "ja": "ルートヴィヒ3世がミュンヘンを去る",
+          "ko": "루트비히 3세가 뮌헨을 떠나다",
+          "hi": "राजा लुडविग तृतीय ने म्यूनिख छोड़ा",
+          "ar": "الملك لودفيغ الثالث يغادر ميونخ"
         },
         "description": {
           "ru": "На фоне массовых протестов Людвиг III покинул город. Это фактически положило конец правлению династии Виттельсбахов в Баварии.",
           "de": "Angesichts massiver Proteste verliess Ludwig III. die Stadt. Damit endete faktisch die Herrschaft der Wittelsbacher in Bayern.",
-          "en": "Amid mass protests, Ludwig III left the city. This effectively ended Wittelsbach rule in Bavaria."
+          "en": "Amid mass protests, Ludwig III left the city. This effectively ended Wittelsbach rule in Bavaria.",
+          "fr": "Face aux protestations massives, Louis III quitta la ville. Cela mit de fait fin au pouvoir des Wittelsbach en Baviere.",
+          "es": "En medio de protestas masivas, Luis III abandono la ciudad. Esto puso fin de hecho al gobierno de los Wittelsbach en Baviera.",
+          "it": "Di fronte alle proteste di massa, Ludovico III lascio la citta. Questo pose di fatto fine al dominio dei Wittelsbach in Baviera.",
+          "pt": "Diante de protestos em massa, Luis III deixou a cidade. Isso encerrou de fato o governo dos Wittelsbach na Baviera.",
+          "nl": "Te midden van massale protesten verliet Ludwig III de stad. Daarmee eindigde feitelijk de heerschappij van de Wittelsbachs in Beieren.",
+          "pl": "W obliczu masowych protestow Ludwik III opuscil miasto. To faktycznie zakonczylo rzady Wittelsbachow w Bawarii.",
+          "tr": "Kitlesel protestolar sirasinda III. Ludwig sehri terk etti. Bu, Bavyera'daki Wittelsbach yonetimini fiilen sona erdirdi.",
+          "zh": "在大规模抗议中，路德维希三世离开了这座城市。这实际上结束了维特尔斯巴赫家族在巴伐利亚的统治。",
+          "ja": "大規模な抗議の中で、ルートヴィヒ3世は都市を去りました。これにより、バイエルンにおけるヴィッテルスバッハ家の支配は事実上終わりました。",
+          "ko": "대규모 시위 속에서 루트비히 3세는 도시를 떠났다. 이는 바이에른에서 비텔스바흐 가문의 통치를 사실상 끝냈다.",
+          "hi": "बड़े विरोध प्रदर्शनों के बीच लुडविग तृतीय ने शहर छोड़ दिया। इससे बवेरिया में विटेल्सबाख शासन का वास्तविक अंत हो गया।",
+          "ar": "وسط احتجاجات واسعة غادر لودفيغ الثالث المدينة. وبذلك انتهى فعليا حكم عائلة فيتلسباخ في بافاريا."
         },
         "importance": {
           "ru": "Событие показывает, как быстро в ноябре 1918 года распадалась старая имперская система.",
           "de": "Das Ereignis zeigt, wie schnell im November 1918 die alte kaiserliche Ordnung zerfiel.",
-          "en": "The event shows how quickly the old imperial order disintegrated in November 1918."
+          "en": "The event shows how quickly the old imperial order disintegrated in November 1918.",
+          "fr": "L'evenement montre a quelle vitesse l'ancien ordre imperial se desintegra en novembre 1918.",
+          "es": "El acontecimiento muestra lo rapido que se desintegro el viejo orden imperial en noviembre de 1918.",
+          "it": "L'evento mostra quanto rapidamente il vecchio ordine imperiale si disgrego nel novembre 1918.",
+          "pt": "O acontecimento mostra como a velha ordem imperial se desintegrou rapidamente em novembro de 1918.",
+          "nl": "De gebeurtenis laat zien hoe snel de oude keizerlijke orde in november 1918 uiteenviel.",
+          "pl": "Wydarzenie pokazuje, jak szybko w listopadzie 1918 roku rozpadal sie stary porzadek cesarski.",
+          "tr": "Bu olay, Kasim 1918'de eski imparatorluk duzeninin ne kadar hizla dagildigini gosterir.",
+          "zh": "这一事件显示了1918年11月旧帝国秩序瓦解得多么迅速。",
+          "ja": "この出来事は、1918年11月に古い帝国秩序がいかに急速に崩れたかを示しています。",
+          "ko": "이 사건은 1918년 11월 낡은 제국 질서가 얼마나 빠르게 무너졌는지 보여 준다.",
+          "hi": "यह घटना दिखाती है कि नवंबर 1918 में पुरानी साम्राज्य व्यवस्था कितनी तेजी से टूट रही थी।",
+          "ar": "يبين الحدث مدى سرعة تفكك النظام الامبراطوري القديم في نوفمبر 1918."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Курт Эйснер",
           "de": "Kurt Eisner",
-          "en": "Kurt Eisner"
+          "en": "Kurt Eisner",
+          "fr": "Kurt Eisner",
+          "es": "Kurt Eisner",
+          "it": "Kurt Eisner",
+          "pt": "Kurt Eisner",
+          "nl": "Kurt Eisner",
+          "pl": "Kurt Eisner",
+          "tr": "Kurt Eisner",
+          "zh": "库尔特·艾斯纳",
+          "ja": "クルト・アイスナー",
+          "ko": "쿠르트 아이스너",
+          "hi": "कुर्ट आइसनर",
+          "ar": "كورت ايسنر"
         },
         "description": {
           "ru": "Журналист и политик Курт Эйснер стал первым министром-президентом новой Баварской республики. Его правительство просуществовало недолго, но оставило заметный след в истории земли.",
           "de": "Der Journalist und Politiker Kurt Eisner wurde erster Ministerpraesident der neuen bayerischen Republik. Seine Regierung bestand nur kurz, praegte aber die Geschichte des Landes.",
-          "en": "Journalist and politician Kurt Eisner became the first minister-president of the new Bavarian republic. His government was short-lived but left a strong mark on the state's history."
+          "en": "Journalist and politician Kurt Eisner became the first minister-president of the new Bavarian republic. His government was short-lived but left a strong mark on the state's history.",
+          "fr": "Le journaliste et homme politique Kurt Eisner devint le premier ministre-president de la nouvelle republique bavaroise. Son gouvernement fut bref, mais il laissa une forte trace dans l'histoire du Land.",
+          "es": "El periodista y politico Kurt Eisner se convirtio en el primer ministro-presidente de la nueva republica bavara. Su gobierno duro poco, pero dejo una huella importante en la historia del estado.",
+          "it": "Il giornalista e politico Kurt Eisner divenne il primo ministro-presidente della nuova repubblica bavarese. Il suo governo duro poco, ma lascio un segno forte nella storia del Land.",
+          "pt": "O jornalista e politico Kurt Eisner tornou-se o primeiro ministro-presidente da nova republica bavara. Seu governo durou pouco, mas deixou uma marca forte na historia do estado.",
+          "nl": "Journalist en politicus Kurt Eisner werd de eerste minister-president van de nieuwe Beierse republiek. Zijn regering bestond maar kort, maar liet een sterke indruk achter in de geschiedenis van de deelstaat.",
+          "pl": "Dziennikarz i polityk Kurt Eisner zostal pierwszym premierem nowej republiki bawarskiej. Jego rzad istnial krotko, ale pozostawil wyrazny slad w historii kraju zwiazkowego.",
+          "tr": "Gazeteci ve siyasetci Kurt Eisner, yeni Bavyera cumhuriyetinin ilk basbakani oldu. Hukumeti kisa surdu, ancak eyalet tarihine guclu bir iz birakti.",
+          "zh": "记者和政治家库尔特·艾斯纳成为新巴伐利亚共和国的首任部长主席。他的政府存在时间很短，但在该州历史上留下了明显印记。",
+          "ja": "ジャーナリストで政治家のクルト・アイスナーは、新しいバイエルン共和国の初代首相となりました。彼の政府は短命でしたが、州の歴史に大きな足跡を残しました。",
+          "ko": "언론인이자 정치가인 쿠르트 아이스너는 새로운 바이에른 공화국의 첫 총리가 되었다. 그의 정부는 오래가지 않았지만 주의 역사에 강한 흔적을 남겼다.",
+          "hi": "पत्रकार और राजनीतिज्ञ कुर्ट आइसनर नए बवेरियन गणराज्य के पहले मंत्री-राष्ट्रपति बने। उनकी सरकार थोड़े समय रही, लेकिन राज्य के इतिहास पर गहरी छाप छोड़ गई।",
+          "ar": "اصبح الصحفي والسياسي كورت ايسنر اول رئيس وزراء للجمهورية البافارية الجديدة. لم تدم حكومته طويلا، لكنها تركت اثرا واضحا في تاريخ الولاية."
         },
         "importance": {
           "ru": "Эйснер связан с рождением современного политического названия «Свободный штат Бавария».",
           "de": "Eisner ist eng mit der Entstehung des modernen politischen Namens Freistaat Bayern verbunden.",
-          "en": "Eisner is closely linked to the modern political name Free State of Bavaria."
+          "en": "Eisner is closely linked to the modern political name Free State of Bavaria.",
+          "fr": "Eisner est etroitement lie au nom politique moderne d'Etat libre de Baviere.",
+          "es": "Eisner esta estrechamente vinculado al nombre politico moderno Estado Libre de Baviera.",
+          "it": "Eisner e strettamente legato al nome politico moderno Stato libero di Baviera.",
+          "pt": "Eisner esta intimamente ligado ao nome politico moderno Estado Livre da Baviera.",
+          "nl": "Eisner is nauw verbonden met de moderne politieke naam Vrijstaat Beieren.",
+          "pl": "Eisner jest scisle zwiazany ze wspolczesna nazwa polityczna Wolne Panstwo Bawaria.",
+          "tr": "Eisner, modern siyasi ad olan Bavyera Ozgur Devleti ile yakindan baglantilidir.",
+          "zh": "艾斯纳与现代政治名称“巴伐利亚自由邦”密切相关。",
+          "ja": "アイスナーは、現代の政治名称である「バイエルン自由州」と深く結びついています。",
+          "ko": "아이스너는 현대 정치 명칭인 바이에른 자유주와 밀접하게 연결되어 있다.",
+          "hi": "आइसनर आधुनिक राजनीतिक नाम 'बवेरिया मुक्त राज्य' से निकटता से जुड़े हैं।",
+          "ar": "يرتبط ايسنر ارتباطا وثيقا بالاسم السياسي الحديث ولاية بافاريا الحرة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Слово «Freistaat» по смыслу означает республику, а не отдельное независимое государство.",
     "de": "Das Wort Freistaat bedeutet dem Sinn nach Republik, nicht einen unabhaengigen Einzelstaat.",
-    "en": "The word Freistaat means republic in this context, not a separate independent state."
+    "en": "The word Freistaat means republic in this context, not a separate independent state.",
+    "fr": "Le mot Freistaat signifie ici republique, et non un Etat independant separe.",
+    "es": "La palabra Freistaat significa aqui republica, no un estado independiente separado.",
+    "it": "La parola Freistaat in questo contesto significa repubblica, non uno stato indipendente separato.",
+    "pt": "A palavra Freistaat significa aqui republica, nao um estado independente separado.",
+    "nl": "Het woord Freistaat betekent hier republiek, niet een aparte onafhankelijke staat.",
+    "pl": "Slowo Freistaat oznacza tu republike, a nie oddzielne niezalezne panstwo.",
+    "tr": "Freistaat kelimesi bu baglamda ayri bagimsiz devlet degil, cumhuriyet anlamina gelir.",
+    "zh": "Freistaat一词在这里意为共和国，而不是单独的独立国家。",
+    "ja": "Freistaatという言葉は、この文脈では共和国を意味し、別個の独立国家を意味するわけではありません。",
+    "ko": "Freistaat라는 말은 여기서 별도의 독립국이 아니라 공화국을 뜻한다.",
+    "hi": "Freistaat शब्द का अर्थ यहां गणराज्य है, अलग स्वतंत्र राज्य नहीं।",
+    "ar": "تعني كلمة Freistaat في هذا السياق جمهورية، لا دولة مستقلة منفصلة."
   },
   "sources": [
     {
