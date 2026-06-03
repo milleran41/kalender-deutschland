@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписано Мюнхенское соглашение",
       "de": "Das Muenchner Abkommen wird unterzeichnet",
-      "en": "The Munich Agreement is signed"
+      "en": "The Munich Agreement is signed",
+      "fr": "L'accord de Munich est signe",
+      "es": "Se firma el Acuerdo de Munich",
+      "it": "Viene firmato l'accordo di Monaco",
+      "pt": "O Acordo de Munique e assinado",
+      "nl": "Het Akkoord van München wordt ondertekend",
+      "pl": "Podpisano uklad monachijski",
+      "tr": "Munih Anlasmasi imzalandi",
+      "zh": "《慕尼黑协定》签署",
+      "ja": "ミュンヘン協定が署名される",
+      "ko": "뮌헨 협정이 서명되다",
+      "hi": "म्यूनिख समझौते पर हस्ताक्षर हुए",
+      "ar": "توقيع اتفاق ميونخ"
     },
     "description": {
       "ru": "30 сентября 1938 года Германия, Великобритания, Франция и Италия подписали Мюнхенское соглашение. Оно позволило нацистской Германии присоединить Судетскую область Чехословакии.",
       "de": "Am 30. September 1938 unterzeichneten Deutschland, Grossbritannien, Frankreich und Italien das Muenchner Abkommen. Es erlaubte NS-Deutschland die Eingliederung des Sudetenlandes der Tschechoslowakei.",
-      "en": "On 30 September 1938, Germany, Britain, France and Italy signed the Munich Agreement. It allowed Nazi Germany to annex the Sudetenland of Czechoslovakia."
+      "en": "On 30 September 1938, Germany, Britain, France and Italy signed the Munich Agreement. It allowed Nazi Germany to annex the Sudetenland of Czechoslovakia.",
+      "fr": "Le 30 septembre 1938, l'Allemagne, la Grande-Bretagne, la France et l'Italie signerent l'accord de Munich. Il permit à l'Allemagne nazie d'annexer les Sudetes de la Tchecoslovaquie.",
+      "es": "El 30 de septiembre de 1938, Alemania, Gran Bretana, Francia e Italia firmaron el Acuerdo de Munich. Permitio a la Alemania nazi anexarse los Sudetes de Checoslovaquia.",
+      "it": "Il 30 settembre 1938 Germania, Gran Bretagna, Francia e Italia firmarono l'accordo di Monaco. Esso permise alla Germania nazista di annettere i Sudeti della Cecoslovacchia.",
+      "pt": "Em 30 de setembro de 1938, Alemanha, Gra-Bretanha, Franca e Italia assinaram o Acordo de Munique. Ele permitiu a Alemanha nazista anexar os Sudetos da Tchecoslovaquia.",
+      "nl": "Op 30 september 1938 ondertekenden Duitsland, Groot-Brittannie, Frankrijk en Italie het Akkoord van München. Het stond nazi-Duitsland toe het Sudetenland van Tsjechoslowakije te annexeren.",
+      "pl": "30 wrzesnia 1938 roku Niemcy, Wielka Brytania, Francja i Wlochy podpisaly uklad monachijski. Pozwolil on nazistowskim Niemcom przylaczyc Sudety Czechoslowacji.",
+      "tr": "30 Eylul 1938'de Almanya, Britanya, Fransa ve Italya Munih Anlasmasi'ni imzaladi. Bu, Nazi Almanyasi'nin Cekoslovakya'nin Sudet bolgesini ilhak etmesine izin verdi.",
+      "zh": "1938年9月30日，德国、英国、法国和意大利签署《慕尼黑协定》。它允许纳粹德国吞并捷克斯洛伐克的苏台德地区。",
+      "ja": "1938年9月30日、ドイツ、イギリス、フランス、イタリアはミュンヘン協定に署名しました。これによりナチス・ドイツはチェコスロヴァキアのズデーテン地方を併合できるようになりました。",
+      "ko": "1938년 9월 30일, 독일, 영국, 프랑스, 이탈리아가 뮌헨 협정에 서명했다. 이 협정은 나치 독일이 체코슬로바키아의 주데텐란트를 병합하도록 허용했다.",
+      "hi": "30 सितंबर 1938 को जर्मनी, ब्रिटेन, फ्रांस और इटली ने म्यूनिख समझौते पर हस्ताक्षर किए। इसने नाजी जर्मनी को चेकोस्लोवाकिया के सूडेटेनलैंड को मिलाने की अनुमति दी।",
+      "ar": "في 30 سبتمبر 1938 وقعت المانيا وبريطانيا وفرنسا وايطاليا اتفاق ميونخ. وسمح ذلك لالمانيا النازية بضم اقليم السوديت من تشيكوسلوفاكيا."
     },
     "importance": {
       "ru": "Соглашение стало символом провала политики умиротворения Гитлера.",
       "de": "Das Abkommen wurde zum Symbol des Scheiterns der Beschwichtigungspolitik gegenueber Hitler.",
-      "en": "The agreement became a symbol of the failure of appeasement toward Hitler."
+      "en": "The agreement became a symbol of the failure of appeasement toward Hitler.",
+      "fr": "L'accord devint le symbole de l'echec de la politique d'apaisement envers Hitler.",
+      "es": "El acuerdo se convirtio en simbolo del fracaso del apaciguamiento frente a Hitler.",
+      "it": "L'accordo divenne simbolo del fallimento della politica di appeasement verso Hitler.",
+      "pt": "O acordo tornou-se simbolo do fracasso da politica de apaziguamento diante de Hitler.",
+      "nl": "Het akkoord werd een symbool van het falen van appeasement tegenover Hitler.",
+      "pl": "Uklad stal sie symbolem porazki polityki ustepstw wobec Hitlera.",
+      "tr": "Anlasma, Hitler'e yonelik yatistirma politikasinin basarisizliginin sembolu oldu.",
+      "zh": "该协定成为对希特勒绥靖政策失败的象征。",
+      "ja": "この協定は、ヒトラーに対する宥和政策の失敗の象徴となりました。",
+      "ko": "이 협정은 히틀러에 대한 유화 정책 실패의 상징이 되었다.",
+      "hi": "यह समझौता हिटलर के प्रति तुष्टीकरण नीति की विफलता का प्रतीक बन गया।",
+      "ar": "اصبح الاتفاق رمزا لفشل سياسة استرضاء هتلر."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Решение без Чехословакии",
           "de": "Eine Entscheidung ohne die Tschechoslowakei",
-          "en": "A decision without Czechoslovakia"
+          "en": "A decision without Czechoslovakia",
+          "fr": "Une decision sans la Tchecoslovaquie",
+          "es": "Una decision sin Checoslovaquia",
+          "it": "Una decisione senza la Cecoslovacchia",
+          "pt": "Uma decisao sem a Tchecoslovaquia",
+          "nl": "Een beslissing zonder Tsjechoslowakije",
+          "pl": "Decyzja bez Czechoslowacji",
+          "tr": "Cekoslovakya olmadan alinan karar",
+          "zh": "没有捷克斯洛伐克的决定",
+          "ja": "チェコスロヴァキア抜きの決定",
+          "ko": "체코슬로바키아 없는 결정",
+          "hi": "चेकोस्लोवाकिया के बिना फैसला",
+          "ar": "قرار من دون تشيكوسلوفاكيا"
         },
         "description": {
           "ru": "Судьбу территории решали без полноценного участия самой Чехословакии. Это сделало соглашение особенно болезненным и несправедливым.",
           "de": "Ueber das Gebiet wurde ohne volle Beteiligung der Tschechoslowakei entschieden. Das machte das Abkommen besonders schmerzhaft und ungerecht.",
-          "en": "The fate of the territory was decided without full participation by Czechoslovakia itself. This made the agreement especially painful and unjust."
+          "en": "The fate of the territory was decided without full participation by Czechoslovakia itself. This made the agreement especially painful and unjust.",
+          "fr": "Le destin du territoire fut decide sans participation complete de la Tchecoslovaquie elle-meme. Cela rendit l'accord particulierement douloureux et injuste.",
+          "es": "El destino del territorio se decidio sin plena participacion de la propia Checoslovaquia. Esto hizo que el acuerdo fuera especialmente doloroso e injusto.",
+          "it": "Il destino del territorio fu deciso senza la piena partecipazione della Cecoslovacchia stessa. Questo rese l'accordo particolarmente doloroso e ingiusto.",
+          "pt": "O destino do territorio foi decidido sem a plena participacao da propria Tchecoslovaquia. Isso tornou o acordo especialmente doloroso e injusto.",
+          "nl": "Het lot van het gebied werd beslist zonder volledige deelname van Tsjechoslowakije zelf. Dat maakte het akkoord bijzonder pijnlijk en onrechtvaardig.",
+          "pl": "Los terytorium rozstrzygano bez pelnego udzialu samej Czechoslowacji. Sprawilo to, ze uklad byl szczegolnie bolesny i niesprawiedliwy.",
+          "tr": "Bolgenin kaderi, Cekoslovakya'nin tam katilimi olmadan belirlendi. Bu, anlasmayi ozellikle aci verici ve adaletsiz kildi.",
+          "zh": "该地区的命运是在捷克斯洛伐克本身没有充分参与的情况下决定的。这使该协定尤其痛苦和不公。",
+          "ja": "その地域の運命は、チェコスロヴァキア自身の十分な参加なしに決められました。そのため、この協定は特に苦痛で不公正なものになりました。",
+          "ko": "그 영토의 운명은 체코슬로바키아 자체의 충분한 참여 없이 결정되었다. 이 때문에 협정은 특히 고통스럽고 부당한 것이 되었다.",
+          "hi": "क्षेत्र का भविष्य स्वयं चेकोस्लोवाकिया की पूर्ण भागीदारी के बिना तय किया गया। इससे समझौता विशेष रूप से पीड़ादायक और अन्यायपूर्ण बन गया।",
+          "ar": "تقرر مصير الاقليم من دون مشاركة كاملة من تشيكوسلوفاكيا نفسها. وجعل ذلك الاتفاق مؤلما وغير عادل بشكل خاص."
         },
         "importance": {
           "ru": "Дата показывает, чем опасна дипломатия, которая жертвует одним государством ради временного спокойствия других.",
           "de": "Das Datum zeigt die Gefahr einer Diplomatie, die einen Staat opfert, um anderen voruebergehend Ruhe zu verschaffen.",
-          "en": "The date shows the danger of diplomacy that sacrifices one state for the temporary calm of others."
+          "en": "The date shows the danger of diplomacy that sacrifices one state for the temporary calm of others.",
+          "fr": "Cette date montre le danger d'une diplomatie qui sacrifie un Etat pour donner à d'autres un calme temporaire.",
+          "es": "La fecha muestra el peligro de una diplomacia que sacrifica a un Estado para dar tranquilidad temporal a otros.",
+          "it": "La data mostra il pericolo di una diplomazia che sacrifica uno Stato per dare ad altri una calma temporanea.",
+          "pt": "A data mostra o perigo de uma diplomacia que sacrifica um Estado para dar tranquilidade temporaria a outros.",
+          "nl": "De datum toont het gevaar van diplomatie die een staat opoffert voor tijdelijke rust van anderen.",
+          "pl": "Ta data pokazuje niebezpieczenstwo dyplomacji, ktora poswieca jedno panstwo dla tymczasowego spokoju innych.",
+          "tr": "Bu tarih, baskalarina gecici sakinlik saglamak icin bir devleti feda eden diplomasinin tehlikesini gosterir.",
+          "zh": "这一日期显示了为其他国家的暂时平静而牺牲一个国家的外交有多危险。",
+          "ja": "この日は、他国の一時的な平穏のために一つの国家を犠牲にする外交の危険を示しています。",
+          "ko": "이 날짜는 다른 나라들의 일시적 안정을 위해 한 국가를 희생시키는 외교의 위험을 보여준다.",
+          "hi": "यह तारीख दिखाती है कि दूसरों की अस्थायी शांति के लिए एक राज्य की बलि देने वाली कूटनीति कितनी खतरनाक होती है।",
+          "ar": "يبين هذا التاريخ خطورة دبلوماسية تضحي بدولة واحدة من اجل هدوء مؤقت لدول اخرى."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Мюнхенское соглашение не предотвратило войну: менее чем через год Германия напала на Польшу.",
     "de": "Das Muenchner Abkommen verhinderte den Krieg nicht: Weniger als ein Jahr spaeter griff Deutschland Polen an.",
-    "en": "The Munich Agreement did not prevent war: less than a year later Germany invaded Poland."
+    "en": "The Munich Agreement did not prevent war: less than a year later Germany invaded Poland.",
+    "fr": "L'accord de Munich n'empecha pas la guerre: moins d'un an plus tard, l'Allemagne envahit la Pologne.",
+    "es": "El Acuerdo de Munich no evito la guerra: menos de un ano despues, Alemania invadio Polonia.",
+    "it": "L'accordo di Monaco non impedi la guerra: meno di un anno dopo, la Germania invase la Polonia.",
+    "pt": "O Acordo de Munique nao impediu a guerra: menos de um ano depois, a Alemanha invadiu a Polonia.",
+    "nl": "Het Akkoord van München voorkwam de oorlog niet: minder dan een jaar later viel Duitsland Polen binnen.",
+    "pl": "Uklad monachijski nie zapobiegl wojnie: niecaly rok pozniej Niemcy zaatakowaly Polske.",
+    "tr": "Munih Anlasmasi savasi engellemedi: bir yildan kisa sure sonra Almanya Polonya'yi isgal etti.",
+    "zh": "《慕尼黑协定》没有阻止战争：不到一年后，德国入侵波兰。",
+    "ja": "ミュンヘン協定は戦争を防げませんでした。一年も経たないうちにドイツはポーランドへ侵攻しました。",
+    "ko": "뮌헨 협정은 전쟁을 막지 못했다. 1년도 지나지 않아 독일은 폴란드를 침공했다.",
+    "hi": "म्यूनिख समझौता युद्ध को नहीं रोक सका: एक साल से भी कम समय बाद जर्मनी ने पोलैंड पर हमला किया।",
+    "ar": "لم يمنع اتفاق ميونخ الحرب: فبعد اقل من عام غزت المانيا بولندا."
   },
   "sources": [
     {

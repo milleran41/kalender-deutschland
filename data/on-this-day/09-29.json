@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась Мюнхенская конференция",
       "de": "Die Muenchner Konferenz beginnt",
-      "en": "The Munich Conference begins"
+      "en": "The Munich Conference begins",
+      "fr": "La conference de Munich commence",
+      "es": "Comienza la Conferencia de Munich",
+      "it": "Inizia la Conferenza di Monaco",
+      "pt": "Comeca a Conferencia de Munique",
+      "nl": "De Conferentie van München begint",
+      "pl": "Rozpoczyna sie konferencja monachijska",
+      "tr": "Munih Konferansi basladi",
+      "zh": "慕尼黑会议开始",
+      "ja": "ミュンヘン会談が始まる",
+      "ko": "뮌헨 회담이 시작되다",
+      "hi": "म्यूनिख सम्मेलन शुरू हुआ",
+      "ar": "بدء مؤتمر ميونخ"
     },
     "description": {
       "ru": "29 сентября 1938 года в Мюнхене началась конференция лидеров Германии, Италии, Великобритании и Франции. Итоговое соглашение позволило нацистской Германии занять Судетскую область Чехословакии.",
       "de": "Am 29. September 1938 begann in Muenchen die Konferenz der Staats- und Regierungschefs Deutschlands, Italiens, Grossbritanniens und Frankreichs. Das anschliessende Abkommen erlaubte dem nationalsozialistischen Deutschland die Besetzung des Sudetenlandes.",
-      "en": "On 29 September 1938, a conference of the leaders of Germany, Italy, Britain and France began in Munich. The agreement that followed allowed Nazi Germany to occupy the Sudetenland of Czechoslovakia."
+      "en": "On 29 September 1938, a conference of the leaders of Germany, Italy, Britain and France began in Munich. The agreement that followed allowed Nazi Germany to occupy the Sudetenland of Czechoslovakia.",
+      "fr": "Le 29 septembre 1938, une conference des dirigeants de l'Allemagne, de l'Italie, de la Grande-Bretagne et de la France commenca à Munich. L'accord qui suivit permit à l'Allemagne nazie d'occuper les Sudetes en Tchecoslovaquie.",
+      "es": "El 29 de septiembre de 1938 comenzo en Munich una conferencia de los lideres de Alemania, Italia, Gran Bretana y Francia. El acuerdo posterior permitio a la Alemania nazi ocupar los Sudetes de Checoslovaquia.",
+      "it": "Il 29 settembre 1938 inizio a Monaco una conferenza dei leader di Germania, Italia, Gran Bretagna e Francia. L'accordo successivo permise alla Germania nazista di occupare i Sudeti della Cecoslovacchia.",
+      "pt": "Em 29 de setembro de 1938, comecou em Munique uma conferencia dos lideres da Alemanha, Italia, Gra-Bretanha e Franca. O acordo que se seguiu permitiu a Alemanha nazista ocupar os Sudetos da Tchecoslovaquia.",
+      "nl": "Op 29 september 1938 begon in München een conferentie van de leiders van Duitsland, Italie, Groot-Brittannie en Frankrijk. Het daaropvolgende akkoord stond nazi-Duitsland toe het Sudetenland van Tsjechoslowakije te bezetten.",
+      "pl": "29 wrzesnia 1938 roku w Monachium rozpoczela sie konferencja przywodcow Niemiec, Wloch, Wielkiej Brytanii i Francji. Pozniejsze porozumienie pozwolilo nazistowskim Niemcom zajac Sudety w Czechoslowacji.",
+      "tr": "29 Eylul 1938'de Munih'te Almanya, Italya, Britanya ve Fransa liderlerinin konferansi basladi. Ardindan gelen anlasma, Nazi Almanyasi'nin Cekoslovakya'nin Sudet bolgesini isgal etmesine izin verdi.",
+      "zh": "1938年9月29日，德国、意大利、英国和法国领导人在慕尼黑开始会议。随后达成的协议允许纳粹德国占领捷克斯洛伐克的苏台德地区。",
+      "ja": "1938年9月29日、ドイツ、イタリア、イギリス、フランスの指導者による会談がミュンヘンで始まりました。その後の協定により、ナチス・ドイツはチェコスロヴァキアのズデーテン地方を占領できるようになりました。",
+      "ko": "1938년 9월 29일, 독일, 이탈리아, 영국, 프랑스 지도자들의 회담이 뮌헨에서 시작되었다. 뒤이어 맺어진 협정은 나치 독일이 체코슬로바키아의 주데텐란트를 점령하도록 허용했다.",
+      "hi": "29 सितंबर 1938 को म्यूनिख में जर्मनी, इटली, ब्रिटेन और फ्रांस के नेताओं का सम्मेलन शुरू हुआ। बाद के समझौते ने नाजी जर्मनी को चेकोस्लोवाकिया के सूडेटेनलैंड पर कब्जा करने की अनुमति दी।",
+      "ar": "في 29 سبتمبر 1938 بدأ في ميونخ مؤتمر لقادة المانيا وايطاليا وبريطانيا وفرنسا. وسمح الاتفاق الذي تلاه لالمانيا النازية باحتلال اقليم السوديت في تشيكوسلوفاكيا."
     },
     "importance": {
       "ru": "Мюнхенское соглашение стало символом политики умиротворения агрессора и шагом к Второй мировой войне.",
       "de": "Das Muenchner Abkommen wurde zum Symbol der Appeasement-Politik gegenueber einem Aggressor und zu einem Schritt in Richtung Zweiter Weltkrieg.",
-      "en": "The Munich Agreement became a symbol of appeasement toward an aggressor and a step toward the Second World War."
+      "en": "The Munich Agreement became a symbol of appeasement toward an aggressor and a step toward the Second World War.",
+      "fr": "L'accord de Munich devint le symbole de la politique d'apaisement envers un agresseur et une etape vers la Seconde Guerre mondiale.",
+      "es": "El Acuerdo de Munich se convirtio en simbolo de la politica de apaciguamiento frente a un agresor y en un paso hacia la Segunda Guerra Mundial.",
+      "it": "L'accordo di Monaco divenne simbolo della politica di appeasement verso un aggressore e un passo verso la Seconda guerra mondiale.",
+      "pt": "O Acordo de Munique tornou-se simbolo da politica de apaziguamento diante de um agressor e um passo rumo a Segunda Guerra Mundial.",
+      "nl": "Het Akkoord van München werd een symbool van appeasement tegenover een agressor en een stap richting de Tweede Wereldoorlog.",
+      "pl": "Uklad monachijski stal sie symbolem polityki ustepstw wobec agresora i krokiem ku II wojnie swiatowej.",
+      "tr": "Munih Anlasmasi, bir saldirgana karsi yatistirma politikasinin sembolu ve Ikinci Dunya Savasi'na giden yolda bir adim oldu.",
+      "zh": "《慕尼黑协定》成为对侵略者绥靖政策的象征，也是走向第二次世界大战的一步。",
+      "ja": "ミュンヘン協定は、侵略者に対する宥和政策の象徴となり、第二次世界大戦へ向かう一歩となりました。",
+      "ko": "뮌헨 협정은 침략자에 대한 유화 정책의 상징이자 제2차 세계대전으로 향하는 한 걸음이 되었다.",
+      "hi": "म्यूनिख समझौता आक्रामक शक्ति के प्रति तुष्टीकरण नीति का प्रतीक और द्वितीय विश्व युद्ध की ओर एक कदम बन गया।",
+      "ar": "اصبح اتفاق ميونخ رمزا لسياسة استرضاء المعتدي وخطوة نحو الحرب العالمية الثانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Судетская область без Чехословакии за столом",
           "de": "Das Sudetenland ohne die Tschechoslowakei am Tisch",
-          "en": "The Sudetenland without Czechoslovakia at the table"
+          "en": "The Sudetenland without Czechoslovakia at the table",
+          "fr": "Les Sudetes sans la Tchecoslovaquie à la table",
+          "es": "Los Sudetes sin Checoslovaquia en la mesa",
+          "it": "I Sudeti senza la Cecoslovacchia al tavolo",
+          "pt": "Os Sudetos sem a Tchecoslovaquia a mesa",
+          "nl": "Het Sudetenland zonder Tsjechoslowakije aan tafel",
+          "pl": "Sudety bez Czechoslowacji przy stole",
+          "tr": "Masada Cekoslovakya olmadan Sudetler",
+          "zh": "没有捷克斯洛伐克参与的苏台德问题",
+          "ja": "チェコスロヴァキア抜きで決められたズデーテン地方",
+          "ko": "체코슬로바키아 없이 논의된 주데텐란트",
+          "hi": "चेकोस्लोवाकिया के बिना सूडेटेनलैंड का फैसला",
+          "ar": "اقليم السوديت من دون تشيكوسلوفاكيا على الطاولة"
         },
         "description": {
           "ru": "Чехословакия не участвовала в главных переговорах, хотя решалась судьба её территории. Это стало одной из причин, почему соглашение воспринимают как пример несправедливой дипломатии.",
           "de": "Die Tschechoslowakei nahm an den entscheidenden Verhandlungen nicht teil, obwohl ueber ihr Gebiet entschieden wurde. Deshalb gilt das Abkommen als Beispiel ungerechter Diplomatie.",
-          "en": "Czechoslovakia did not take part in the decisive talks, although its territory was being decided. That is one reason the agreement is seen as an example of unjust diplomacy."
+          "en": "Czechoslovakia did not take part in the decisive talks, although its territory was being decided. That is one reason the agreement is seen as an example of unjust diplomacy.",
+          "fr": "La Tchecoslovaquie ne participa pas aux negociations decisives, alors que son territoire etait en jeu. C'est l'une des raisons pour lesquelles l'accord est vu comme un exemple de diplomatie injuste.",
+          "es": "Checoslovaquia no participo en las conversaciones decisivas, aunque se decidia sobre su territorio. Esa es una razon por la que el acuerdo se ve como ejemplo de diplomacia injusta.",
+          "it": "La Cecoslovacchia non partecipo ai colloqui decisivi, anche se si decideva del suo territorio. Questo e uno dei motivi per cui l'accordo e visto come esempio di diplomazia ingiusta.",
+          "pt": "A Tchecoslovaquia nao participou das conversas decisivas, embora seu territorio estivesse sendo decidido. Essa e uma razao pela qual o acordo e visto como exemplo de diplomacia injusta.",
+          "nl": "Tsjechoslowakije nam niet deel aan de beslissende gesprekken, hoewel over zijn grondgebied werd beslist. Dat is een reden waarom het akkoord wordt gezien als voorbeeld van onrechtvaardige diplomatie.",
+          "pl": "Czechoslowacja nie uczestniczyla w decydujacych rozmowach, choc rozstrzygano los jej terytorium. To jeden z powodow, dla ktorych uklad uznaje sie za przyklad niesprawiedliwej dyplomacji.",
+          "tr": "Cekoslovakya, kendi topraklarinin kaderi belirlenirken belirleyici gorusmelere katilmadi. Bu, anlasmanin adaletsiz diplomasinin bir ornegi olarak gorulmesinin nedenlerinden biridir.",
+          "zh": "捷克斯洛伐克没有参加决定性谈判，尽管被决定的是它的领土。这也是该协定被视为不公正外交例子的原因之一。",
+          "ja": "チェコスロヴァキアは、自国領土の運命が決められていたにもかかわらず、決定的な交渉に参加しませんでした。そのため、この協定は不公正な外交の例と見なされています。",
+          "ko": "체코슬로바키아는 자국 영토의 운명이 결정되는 자리였지만 결정적 협상에 참여하지 못했다. 그래서 이 협정은 부당한 외교의 사례로 여겨진다.",
+          "hi": "चेकोस्लोवाकिया निर्णायक वार्ताओं में शामिल नहीं था, जबकि फैसला उसके क्षेत्र के बारे में हो रहा था। यही कारण है कि इस समझौते को अन्यायपूर्ण कूटनीति का उदाहरण माना जाता है।",
+          "ar": "لم تشارك تشيكوسلوفاكيا في المفاوضات الحاسمة، رغم ان القرار كان يتعلق باراضيها. وهذا احد اسباب اعتبار الاتفاق مثالا على دبلوماسية غير عادلة."
         },
         "importance": {
           "ru": "Так видно, почему решения о границах без участия затронутой страны почти всегда опасны.",
           "de": "So wird deutlich, warum Entscheidungen ueber Grenzen ohne das betroffene Land fast immer gefaehrlich sind.",
-          "en": "It shows why decisions about borders made without the affected country are almost always dangerous."
+          "en": "It shows why decisions about borders made without the affected country are almost always dangerous.",
+          "fr": "Cela montre pourquoi les decisions sur les frontieres prises sans le pays concerne sont presque toujours dangereuses.",
+          "es": "Muestra por que las decisiones sobre fronteras tomadas sin el pais afectado casi siempre son peligrosas.",
+          "it": "Mostra perche le decisioni sui confini prese senza il paese coinvolto sono quasi sempre pericolose.",
+          "pt": "Mostra por que decisoes sobre fronteiras tomadas sem o pais afetado quase sempre sao perigosas.",
+          "nl": "Het laat zien waarom beslissingen over grenzen zonder het betrokken land bijna altijd gevaarlijk zijn.",
+          "pl": "Pokazuje to, dlaczego decyzje o granicach podejmowane bez udzialu zainteresowanego panstwa prawie zawsze sa niebezpieczne.",
+          "tr": "Bu, etkilenen ulke olmadan sinirlar hakkinda alinan kararlarin neden neredeyse her zaman tehlikeli oldugunu gosterir.",
+          "zh": "它说明了为什么在没有受影响国家参与的情况下决定边界几乎总是危险的。",
+          "ja": "当事国を抜きにして国境を決めることが、ほとんど常に危険である理由を示しています。",
+          "ko": "이는 당사국 없이 국경에 대해 내리는 결정이 거의 항상 위험한 이유를 보여준다.",
+          "hi": "यह दिखाता है कि प्रभावित देश की भागीदारी के बिना सीमाओं पर फैसले लगभग हमेशा खतरनाक क्यों होते हैं।",
+          "ar": "يوضح ذلك لماذا تكون القرارات المتعلقة بالحدود من دون البلد المعني خطيرة في معظم الاحيان."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "«Мир для нашего времени»",
           "de": "Frieden fuer unsere Zeit",
-          "en": "Peace for our time"
+          "en": "Peace for our time",
+          "fr": "La paix pour notre temps",
+          "es": "Paz para nuestro tiempo",
+          "it": "Pace per il nostro tempo",
+          "pt": "Paz para o nosso tempo",
+          "nl": "Vrede voor onze tijd",
+          "pl": "Pokoj dla naszych czasow",
+          "tr": "Zamanimiz icin baris",
+          "zh": "我们时代的和平",
+          "ja": "我々の時代の平和",
+          "ko": "우리 시대의 평화",
+          "hi": "हमारे समय के लिए शांति",
+          "ar": "السلام في زماننا"
         },
         "description": {
           "ru": "После Мюнхена британский премьер Невилл Чемберлен говорил о мире, но уже через год началась Вторая мировая война. Поэтому фраза стала историческим предупреждением о цене самообмана.",
           "de": "Nach Muenchen sprach der britische Premierminister Neville Chamberlain vom Frieden, doch schon ein Jahr spaeter begann der Zweite Weltkrieg. Der Satz wurde deshalb zu einer historischen Warnung vor Selbsttaeuschung.",
-          "en": "After Munich, British Prime Minister Neville Chamberlain spoke of peace, but the Second World War began only a year later. The phrase therefore became a historical warning about self-deception."
+          "en": "After Munich, British Prime Minister Neville Chamberlain spoke of peace, but the Second World War began only a year later. The phrase therefore became a historical warning about self-deception.",
+          "fr": "Apres Munich, le Premier ministre britannique Neville Chamberlain parla de paix, mais la Seconde Guerre mondiale commenca seulement un an plus tard. La formule devint donc un avertissement historique sur le prix de l'illusion.",
+          "es": "Despues de Munich, el primer ministro britanico Neville Chamberlain hablo de paz, pero la Segunda Guerra Mundial comenzo solo un ano despues. Por eso la frase se convirtio en una advertencia historica sobre el autoengano.",
+          "it": "Dopo Monaco, il primo ministro britannico Neville Chamberlain parlo di pace, ma la Seconda guerra mondiale inizio appena un anno dopo. La frase divenne quindi un avvertimento storico sul prezzo dell'autoillusione.",
+          "pt": "Depois de Munique, o primeiro-ministro britanico Neville Chamberlain falou em paz, mas a Segunda Guerra Mundial comecou apenas um ano depois. Por isso, a frase tornou-se um aviso historico sobre o autoengano.",
+          "nl": "Na München sprak de Britse premier Neville Chamberlain over vrede, maar slechts een jaar later begon de Tweede Wereldoorlog. De uitspraak werd daarom een historische waarschuwing voor zelfbedrog.",
+          "pl": "Po Monachium brytyjski premier Neville Chamberlain mowil o pokoju, lecz juz rok pozniej wybuchla II wojna swiatowa. Dlatego zdanie stalo sie historycznym ostrzezeniem przed samooszukiwaniem.",
+          "tr": "Munih'ten sonra Britanya Basbakani Neville Chamberlain baristan soz etti, ancak sadece bir yil sonra Ikinci Dunya Savasi basladi. Bu soz, kendini kandirmanin bedeline dair tarihsel bir uyariya donustu.",
+          "zh": "慕尼黑会议后，英国首相内维尔·张伯伦谈到和平，但仅一年后第二次世界大战就爆发了。因此，这句话成为关于自我欺骗代价的历史警示。",
+          "ja": "ミュンヘンの後、イギリス首相ネヴィル・チェンバレンは平和について語りましたが、わずか一年後に第二次世界大戦が始まりました。そのため、この言葉は自己欺瞞の代償を示す歴史的警告となりました。",
+          "ko": "뮌헨 이후 영국 총리 네빌 체임벌린은 평화를 말했지만, 불과 1년 뒤 제2차 세계대전이 시작되었다. 그래서 이 말은 자기기만의 대가에 대한 역사적 경고가 되었다.",
+          "hi": "म्यूनिख के बाद ब्रिटिश प्रधानमंत्री नेविल चेम्बरलेन ने शांति की बात की, लेकिन केवल एक साल बाद द्वितीय विश्व युद्ध शुरू हो गया। इसलिए यह वाक्य आत्म-छल की कीमत पर ऐतिहासिक चेतावनी बन गया।",
+          "ar": "بعد ميونخ تحدث رئيس الوزراء البريطاني نيفيل تشامبرلين عن السلام، لكن الحرب العالمية الثانية بدأت بعد عام واحد فقط. لذلك اصبحت العبارة تحذيرا تاريخيا من ثمن خداع الذات."
         },
         "importance": {
           "ru": "Иногда самая известная фраза эпохи становится известной именно потому, что оказалась ошибочной.",
           "de": "Manchmal wird der bekannteste Satz einer Epoche gerade deshalb beruehmt, weil er sich als falsch erwies.",
-          "en": "Sometimes the most famous phrase of an era becomes famous precisely because it turned out to be wrong."
+          "en": "Sometimes the most famous phrase of an era becomes famous precisely because it turned out to be wrong.",
+          "fr": "Parfois, la phrase la plus celebre d'une epoque devient celebre justement parce qu'elle s'est revelee fausse.",
+          "es": "A veces la frase mas famosa de una epoca se vuelve famosa precisamente porque resulto ser equivocada.",
+          "it": "A volte la frase piu famosa di un'epoca diventa famosa proprio perche si rivelo sbagliata.",
+          "pt": "As vezes, a frase mais famosa de uma epoca fica famosa justamente porque se mostrou errada.",
+          "nl": "Soms wordt de beroemdste zin van een tijdperk juist beroemd omdat hij verkeerd bleek te zijn.",
+          "pl": "Czasem najslynniejsze zdanie epoki staje sie slawne wlasnie dlatego, ze okazalo sie bledne.",
+          "tr": "Bazen bir donemin en unlu sozu, tam da yanlis ciktigi icin unlu olur.",
+          "zh": "有时，一个时代最著名的话正是因为被证明是错误的才变得著名。",
+          "ja": "時代で最も有名な言葉は、まさにそれが誤りだったために有名になることがあります。",
+          "ko": "때로 한 시대의 가장 유명한 말은 그것이 틀렸기 때문에 유명해진다.",
+          "hi": "कभी-कभी किसी युग का सबसे प्रसिद्ध वाक्य इसलिए प्रसिद्ध होता है क्योंकि वह गलत साबित हुआ।",
+          "ar": "احيانا تصبح اشهر عبارة في عصر ما مشهورة بالضبط لانها اتضح انها خاطئة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Соглашение было подписано ночью с 29 на 30 сентября 1938 года.",
     "de": "Das Abkommen wurde in der Nacht vom 29. auf den 30. September 1938 unterzeichnet.",
-    "en": "The agreement was signed during the night of 29 to 30 September 1938."
+    "en": "The agreement was signed during the night of 29 to 30 September 1938.",
+    "fr": "L'accord fut signe dans la nuit du 29 au 30 septembre 1938.",
+    "es": "El acuerdo fue firmado durante la noche del 29 al 30 de septiembre de 1938.",
+    "it": "L'accordo fu firmato nella notte tra il 29 e il 30 settembre 1938.",
+    "pt": "O acordo foi assinado durante a noite de 29 para 30 de setembro de 1938.",
+    "nl": "Het akkoord werd ondertekend in de nacht van 29 op 30 september 1938.",
+    "pl": "Porozumienie podpisano w nocy z 29 na 30 wrzesnia 1938 roku.",
+    "tr": "Anlasma 29'u 30 Eylul 1938'e baglayan gece imzalandi.",
+    "zh": "该协定于1938年9月29日至30日夜间签署。",
+    "ja": "協定は1938年9月29日から30日にかけての夜に署名されました。",
+    "ko": "이 협정은 1938년 9월 29일에서 30일로 넘어가는 밤에 서명되었다.",
+    "hi": "समझौते पर 29 से 30 सितंबर 1938 की रात हस्ताक्षर हुए।",
+    "ar": "وقع الاتفاق في ليلة 29 الى 30 سبتمبر 1938."
   },
   "sources": [
     {

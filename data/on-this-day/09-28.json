@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открылся Федеральный конституционный суд",
       "de": "Das Bundesverfassungsgericht wird eroeffnet",
-      "en": "The Federal Constitutional Court opens"
+      "en": "The Federal Constitutional Court opens",
+      "fr": "La Cour constitutionnelle federale ouvre",
+      "es": "Abre el Tribunal Constitucional Federal",
+      "it": "Apre la Corte costituzionale federale",
+      "pt": "O Tribunal Constitucional Federal e inaugurado",
+      "nl": "Het Federaal Constitutioneel Hof opent",
+      "pl": "Otwarto Federalny Trybunal Konstytucyjny",
+      "tr": "Federal Anayasa Mahkemesi acildi",
+      "zh": "联邦宪法法院成立",
+      "ja": "連邦憲法裁判所が開設される",
+      "ko": "연방헌법재판소가 문을 열다",
+      "hi": "संघीय संवैधानिक न्यायालय खुला",
+      "ar": "افتتاح المحكمة الدستورية الاتحادية"
     },
     "description": {
       "ru": "28 сентября 1951 года в Карлсруэ официально начал работу Федеральный конституционный суд. Он стал главным судом ФРГ по вопросам Основного закона.",
       "de": "Am 28. September 1951 nahm das Bundesverfassungsgericht in Karlsruhe offiziell seine Arbeit auf. Es wurde zum obersten Gericht der Bundesrepublik fuer Fragen des Grundgesetzes.",
-      "en": "On 28 September 1951, the Federal Constitutional Court officially began its work in Karlsruhe. It became West Germany's highest court for questions concerning the Basic Law."
+      "en": "On 28 September 1951, the Federal Constitutional Court officially began its work in Karlsruhe. It became West Germany's highest court for questions concerning the Basic Law.",
+      "fr": "Le 28 septembre 1951, la Cour constitutionnelle federale commenca officiellement son travail à Karlsruhe. Elle devint la plus haute juridiction de la RFA pour les questions concernant la Loi fondamentale.",
+      "es": "El 28 de septiembre de 1951, el Tribunal Constitucional Federal comenzo oficialmente su trabajo en Karlsruhe. Se convirtio en el tribunal supremo de la RFA para cuestiones relacionadas con la Ley Fundamental.",
+      "it": "Il 28 settembre 1951 la Corte costituzionale federale inizio ufficialmente il suo lavoro a Karlsruhe. Divenne il massimo tribunale della Germania Ovest per le questioni relative alla Legge fondamentale.",
+      "pt": "Em 28 de setembro de 1951, o Tribunal Constitucional Federal iniciou oficialmente seu trabalho em Karlsruhe. Tornou-se o mais alto tribunal da Alemanha Ocidental para questoes relativas a Lei Fundamental.",
+      "nl": "Op 28 september 1951 begon het Federaal Constitutioneel Hof officieel zijn werk in Karlsruhe. Het werd de hoogste rechtbank van West-Duitsland voor vragen over de Basiswet.",
+      "pl": "28 wrzesnia 1951 roku Federalny Trybunal Konstytucyjny oficjalnie rozpoczal prace w Karlsruhe. Stal sie najwyzszym sadem RFN w sprawach dotyczacych Ustawy Zasadniczej.",
+      "tr": "28 Eylul 1951'de Federal Anayasa Mahkemesi Karlsruhe'de resmen calismaya basladi. Temel Yasa ile ilgili konularda Bati Almanya'nin en yuksek mahkemesi oldu.",
+      "zh": "1951年9月28日，联邦宪法法院在卡尔斯鲁厄正式开始工作。它成为西德处理《基本法》问题的最高法院。",
+      "ja": "1951年9月28日、連邦憲法裁判所はカールスルーエで正式に業務を開始しました。基本法に関する問題を扱う西ドイツ最高の裁判所となりました。",
+      "ko": "1951년 9월 28일, 연방헌법재판소가 카를스루에에서 공식적으로 업무를 시작했다. 이 재판소는 기본법 문제에 관한 서독의 최고 법원이 되었다.",
+      "hi": "28 सितंबर 1951 को कार्लस्रूए में संघीय संवैधानिक न्यायालय ने आधिकारिक रूप से काम शुरू किया। यह मूल कानून से जुड़े प्रश्नों पर पश्चिम जर्मनी का सर्वोच्च न्यायालय बना।",
+      "ar": "في 28 سبتمبر 1951 بدأت المحكمة الدستورية الاتحادية عملها رسميا في كارلسروه. واصبحت اعلى محكمة في المانيا الغربية في المسائل المتعلقة بالقانون الاساسي."
     },
     "importance": {
       "ru": "Суд стал одним из ключевых институтов послевоенной немецкой демократии.",
       "de": "Das Gericht wurde zu einer der Schluesselinstitutionen der deutschen Nachkriegsdemokratie.",
-      "en": "The court became one of the key institutions of postwar German democracy."
+      "en": "The court became one of the key institutions of postwar German democracy.",
+      "fr": "La cour devint l'une des institutions cles de la democratie allemande d'apres-guerre.",
+      "es": "El tribunal se convirtio en una de las instituciones clave de la democracia alemana de posguerra.",
+      "it": "La corte divenne una delle istituzioni chiave della democrazia tedesca del dopoguerra.",
+      "pt": "O tribunal tornou-se uma das instituicoes-chave da democracia alema do pos-guerra.",
+      "nl": "Het hof werd een van de sleutelinstellingen van de naoorlogse Duitse democratie.",
+      "pl": "Trybunal stal sie jedna z kluczowych instytucji powojennej niemieckiej demokracji.",
+      "tr": "Mahkeme, savas sonrasi Alman demokrasisinin kilit kurumlarindan biri oldu.",
+      "zh": "该法院成为战后德国民主的关键机构之一。",
+      "ja": "この裁判所は、戦後ドイツ民主主義の重要な制度の一つになりました。",
+      "ko": "이 재판소는 전후 독일 민주주의의 핵심 기관 중 하나가 되었다.",
+      "hi": "यह न्यायालय युद्धोत्तर जर्मन लोकतंत्र की प्रमुख संस्थाओं में से एक बन गया।",
+      "ar": "اصبحت المحكمة احدى المؤسسات الرئيسية للديمقراطية الالمانية بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Карлсруэ как город права",
           "de": "Karlsruhe als Stadt des Rechts",
-          "en": "Karlsruhe as a city of law"
+          "en": "Karlsruhe as a city of law",
+          "fr": "Karlsruhe, ville du droit",
+          "es": "Karlsruhe como ciudad del derecho",
+          "it": "Karlsruhe come citta del diritto",
+          "pt": "Karlsruhe como cidade do direito",
+          "nl": "Karlsruhe als stad van het recht",
+          "pl": "Karlsruhe jako miasto prawa",
+          "tr": "Hukuk sehri Karlsruhe",
+          "zh": "作为法律之城的卡尔斯鲁厄",
+          "ja": "法の都市カールスルーエ",
+          "ko": "법의 도시 카를스루에",
+          "hi": "कानून के शहर के रूप में कार्लस्रूए",
+          "ar": "كارلسروه كمدينة للقانون"
         },
         "description": {
           "ru": "Место суда выбрали не в Бонне и не в Берлине, а в Карлсруэ. Это помогло отделить конституционный контроль от ежедневной партийной политики.",
           "de": "Der Sitz des Gerichts wurde nicht Bonn oder Berlin, sondern Karlsruhe. Das half, die Verfassungskontrolle von der taeglichen Parteipolitik zu trennen.",
-          "en": "The court's seat was not Bonn or Berlin, but Karlsruhe. This helped separate constitutional review from day-to-day party politics."
+          "en": "The court's seat was not Bonn or Berlin, but Karlsruhe. This helped separate constitutional review from day-to-day party politics.",
+          "fr": "Le siege de la cour ne fut pas installe à Bonn ni à Berlin, mais à Karlsruhe. Cela aida à separer le controle constitutionnel de la politique partisane quotidienne.",
+          "es": "La sede del tribunal no se eligio en Bonn ni en Berlin, sino en Karlsruhe. Esto ayudo a separar el control constitucional de la politica partidista diaria.",
+          "it": "La sede della corte non fu scelta a Bonn o Berlino, ma a Karlsruhe. Questo aiuto a separare il controllo costituzionale dalla politica di partito quotidiana.",
+          "pt": "A sede do tribunal nao foi escolhida em Bonn nem em Berlim, mas em Karlsruhe. Isso ajudou a separar o controle constitucional da politica partidaria diaria.",
+          "nl": "De zetel van het hof werd niet Bonn of Berlijn, maar Karlsruhe. Dat hielp om constitutionele toetsing te scheiden van dagelijkse partijpolitiek.",
+          "pl": "Siedziba trybunalu nie zostala Bonn ani Berlin, lecz Karlsruhe. Pomoglo to oddzielic kontrole konstytucyjna od codziennej polityki partyjnej.",
+          "tr": "Mahkemenin merkezi Bonn ya da Berlin degil, Karlsruhe oldu. Bu, anayasal denetimi gunluk parti siyasetinden ayirmaya yardim etti.",
+          "zh": "法院所在地不是波恩或柏林，而是卡尔斯鲁厄。这有助于把宪法审查与日常党派政治分开。",
+          "ja": "裁判所の所在地はボンでもベルリンでもなく、カールスルーエになりました。これにより、憲法審査を日々の政党政治から切り離すことができました。",
+          "ko": "재판소의 소재지는 본이나 베를린이 아니라 카를스루에가 되었다. 이는 헌법 심사를 일상적인 정당 정치와 분리하는 데 도움이 되었다.",
+          "hi": "न्यायालय का स्थान बॉन या बर्लिन नहीं, बल्कि कार्लस्रूए चुना गया। इससे संवैधानिक समीक्षा को रोजमर्रा की दलगत राजनीति से अलग रखने में मदद मिली।",
+          "ar": "لم يكن مقر المحكمة في بون او برلين، بل في كارلسروه. وقد ساعد ذلك على فصل الرقابة الدستورية عن السياسة الحزبية اليومية."
         },
         "importance": {
           "ru": "На карте ФРГ появился особый центр защиты конституции.",
           "de": "Auf der Karte der Bundesrepublik entstand ein besonderer Ort des Verfassungsschutzes.",
-          "en": "A special center for protecting the constitution appeared on the map of the Federal Republic."
+          "en": "A special center for protecting the constitution appeared on the map of the Federal Republic.",
+          "fr": "Un centre particulier de protection de la constitution apparut sur la carte de la Republique federale.",
+          "es": "En el mapa de la Republica Federal aparecio un centro especial de proteccion de la constitucion.",
+          "it": "Sulla mappa della Repubblica Federale apparve un centro speciale per la protezione della costituzione.",
+          "pt": "No mapa da Republica Federal surgiu um centro especial de protecao da constituicao.",
+          "nl": "Op de kaart van de Bondsrepubliek verscheen een bijzonder centrum voor de bescherming van de grondwet.",
+          "pl": "Na mapie Republiki Federalnej pojawil sie szczegolny osrodek ochrony konstytucji.",
+          "tr": "Federal Cumhuriyet haritasinda anayasayi korumaya adanmis ozel bir merkez ortaya cikti.",
+          "zh": "联邦共和国地图上出现了一个保护宪法的特殊中心。",
+          "ja": "連邦共和国の地図上に、憲法を守る特別な中心地が現れました。",
+          "ko": "연방공화국의 지도 위에 헌법 보호를 위한 특별한 중심지가 생겼다.",
+          "hi": "संघीय गणराज्य के नक्शे पर संविधान की रक्षा का एक विशेष केंद्र उभरा।",
+          "ar": "ظهر على خريطة الجمهورية الاتحادية مركز خاص لحماية الدستور."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Красные мантии",
           "de": "Rote Roben",
-          "en": "Red robes"
+          "en": "Red robes",
+          "fr": "Les robes rouges",
+          "es": "Togas rojas",
+          "it": "Toghe rosse",
+          "pt": "Togas vermelhas",
+          "nl": "Rode toga's",
+          "pl": "Czerwone togi",
+          "tr": "Kirmizi cubbeler",
+          "zh": "红色法袍",
+          "ja": "赤い法服",
+          "ko": "붉은 법복",
+          "hi": "लाल न्यायिक वस्त्र",
+          "ar": "الاردية الحمراء"
         },
         "description": {
           "ru": "Судьи Федерального конституционного суда известны своими красными мантиями. Для многих немцев этот образ стал визуальным символом высшего судебного контроля.",
           "de": "Die Richterinnen und Richter des Bundesverfassungsgerichts sind fuer ihre roten Roben bekannt. Fuer viele Deutsche wurde dieses Bild zum visuellen Symbol hoechster richterlicher Kontrolle.",
-          "en": "The judges of the Federal Constitutional Court are known for their red robes. For many Germans, this image became a visual symbol of the highest judicial review."
+          "en": "The judges of the Federal Constitutional Court are known for their red robes. For many Germans, this image became a visual symbol of the highest judicial review.",
+          "fr": "Les juges de la Cour constitutionnelle federale sont connus pour leurs robes rouges. Pour de nombreux Allemands, cette image est devenue un symbole visuel du plus haut controle juridictionnel.",
+          "es": "Los jueces del Tribunal Constitucional Federal son conocidos por sus togas rojas. Para muchos alemanes, esta imagen se convirtio en simbolo visual del maximo control judicial.",
+          "it": "I giudici della Corte costituzionale federale sono noti per le loro toghe rosse. Per molti tedeschi questa immagine divenne un simbolo visivo del massimo controllo giudiziario.",
+          "pt": "Os juizes do Tribunal Constitucional Federal sao conhecidos por suas togas vermelhas. Para muitos alemaes, essa imagem tornou-se um simbolo visual do mais alto controle judicial.",
+          "nl": "De rechters van het Federaal Constitutioneel Hof staan bekend om hun rode toga's. Voor veel Duitsers werd dit beeld een visueel symbool van de hoogste rechterlijke toetsing.",
+          "pl": "Sedziowie Federalnego Trybunalu Konstytucyjnego sa znani z czerwonych tog. Dla wielu Niemcow ten obraz stal sie wizualnym symbolem najwyzszej kontroli sadowej.",
+          "tr": "Federal Anayasa Mahkemesi yargiclari kirmizi cubbeleriyle taninir. Birçok Alman icin bu goruntu, en yuksek yargisal denetimin gorsel sembolu oldu.",
+          "zh": "联邦宪法法院的法官以红色法袍闻名。对许多德国人来说，这一形象成为最高司法审查的视觉象征。",
+          "ja": "連邦憲法裁判所の裁判官は赤い法服で知られています。多くのドイツ人にとって、この姿は最高の司法審査を示す視覚的象徴となりました。",
+          "ko": "연방헌법재판소의 재판관들은 붉은 법복으로 잘 알려져 있다. 많은 독일인에게 이 모습은 최고 수준의 사법 심사를 상징하는 시각적 이미지가 되었다.",
+          "hi": "संघीय संवैधानिक न्यायालय के न्यायाधीश अपने लाल वस्त्रों के लिए जाने जाते हैं। कई जर्मनों के लिए यह छवि सर्वोच्च न्यायिक समीक्षा का दृश्य प्रतीक बन गई।",
+          "ar": "يعرف قضاة المحكمة الدستورية الاتحادية باردية حمراء. وبالنسبة لكثير من الالمان اصبحت هذه الصورة رمزا بصريا لاعلى رقابة قضائية."
         },
         "importance": {
           "ru": "Иногда институт запоминается не только решениями, но и сильным визуальным образом.",
           "de": "Manchmal bleibt eine Institution nicht nur durch Entscheidungen, sondern auch durch ein starkes Bild im Gedaechtnis.",
-          "en": "Sometimes an institution is remembered not only through decisions but also through a strong visual image."
+          "en": "Sometimes an institution is remembered not only through decisions but also through a strong visual image.",
+          "fr": "Parfois, une institution reste en memoire non seulement par ses decisions, mais aussi par une image forte.",
+          "es": "A veces una institucion se recuerda no solo por sus decisiones, sino tambien por una imagen visual fuerte.",
+          "it": "A volte un'istituzione resta nella memoria non solo per le decisioni, ma anche per una forte immagine visiva.",
+          "pt": "As vezes, uma instituicao e lembrada nao apenas por suas decisoes, mas tambem por uma imagem visual forte.",
+          "nl": "Soms wordt een instelling niet alleen door beslissingen herinnerd, maar ook door een sterk beeld.",
+          "pl": "Czasem instytucja zapada w pamiec nie tylko przez decyzje, lecz takze przez silny obraz.",
+          "tr": "Bazen bir kurum yalnizca kararlarla degil, guclu bir gorsel imgeyle de hatirlanir.",
+          "zh": "有时，一个机构不仅因判决被记住，也会因强烈的视觉形象被记住。",
+          "ja": "制度は時に、決定だけでなく強い視覚的イメージによっても記憶されます。",
+          "ko": "때로 기관은 결정뿐 아니라 강한 시각적 이미지로도 기억된다.",
+          "hi": "कभी-कभी कोई संस्था केवल निर्णयों से नहीं, बल्कि मजबूत दृश्य छवि से भी याद रहती है।",
+          "ar": "احيانا تبقى المؤسسة في الذاكرة ليس بقراراتها فقط، بل ايضا بصورة بصرية قوية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Федеральный конституционный суд может отменять законы, если они противоречат Основному закону.",
     "de": "Das Bundesverfassungsgericht kann Gesetze aufheben, wenn sie dem Grundgesetz widersprechen.",
-    "en": "The Federal Constitutional Court can strike down laws if they contradict the Basic Law."
+    "en": "The Federal Constitutional Court can strike down laws if they contradict the Basic Law.",
+    "fr": "La Cour constitutionnelle federale peut annuler des lois si elles contredisent la Loi fondamentale.",
+    "es": "El Tribunal Constitucional Federal puede anular leyes si contradicen la Ley Fundamental.",
+    "it": "La Corte costituzionale federale puo annullare leggi se contraddicono la Legge fondamentale.",
+    "pt": "O Tribunal Constitucional Federal pode anular leis se elas contradizem a Lei Fundamental.",
+    "nl": "Het Federaal Constitutioneel Hof kan wetten nietig verklaren als ze in strijd zijn met de Basiswet.",
+    "pl": "Federalny Trybunal Konstytucyjny moze uchylac ustawy, jesli sa sprzeczne z Ustawa Zasadnicza.",
+    "tr": "Federal Anayasa Mahkemesi, Temel Yasa'ya aykiri olan yasalari iptal edebilir.",
+    "zh": "如果法律违反《基本法》，联邦宪法法院可以将其撤销。",
+    "ja": "連邦憲法裁判所は、基本法に反する法律を無効にすることができます。",
+    "ko": "연방헌법재판소는 기본법에 어긋나는 법률을 무효화할 수 있다.",
+    "hi": "यदि कानून मूल कानून के विरुद्ध हों, तो संघीय संवैधानिक न्यायालय उन्हें रद्द कर सकता है।",
+    "ar": "يمكن للمحكمة الدستورية الاتحادية الغاء القوانين اذا خالفت القانون الاساسي."
   },
   "sources": [
     {
