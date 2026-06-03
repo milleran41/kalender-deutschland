@@ -11,17 +11,53 @@
     "title": {
       "ru": "Завершено строительство Кёльнского собора",
       "de": "Der Koelner Dom wird vollendet",
-      "en": "Cologne Cathedral is completed"
+      "en": "Cologne Cathedral is completed",
+      "fr": "La cathedrale de Cologne est achevee",
+      "es": "Se completa la catedral de Colonia",
+      "it": "Viene completata la cattedrale di Colonia",
+      "pt": "A Catedral de Colonia e concluida",
+      "nl": "De Dom van Keulen wordt voltooid",
+      "pl": "Ukonczono katedre w Kolonii",
+      "tr": "Koln Katedrali tamamlandi",
+      "zh": "科隆大教堂竣工",
+      "ja": "ケルン大聖堂が完成",
+      "ko": "쾰른 대성당이 완공되다",
+      "hi": "कोलोन कैथेड्रल पूरा हुआ",
+      "ar": "اكتمال كاتدرائية كولونيا"
     },
     "description": {
       "ru": "15 октября 1880 года торжественно отметили завершение Кёльнского собора. Строительство началось ещё в 1248 году и длилось с большими перерывами более шести столетий.",
       "de": "Am 15. Oktober 1880 wurde die Vollendung des Koelner Doms gefeiert. Der Bau hatte 1248 begonnen und dauerte mit grossen Unterbrechungen mehr als sechs Jahrhunderte.",
-      "en": "On 15 October 1880, the completion of Cologne Cathedral was celebrated. Construction had begun in 1248 and, with long interruptions, lasted more than six centuries."
+      "en": "On 15 October 1880, the completion of Cologne Cathedral was celebrated. Construction had begun in 1248 and, with long interruptions, lasted more than six centuries.",
+      "fr": "Le 15 octobre 1880, l'achevement de la cathedrale de Cologne fut celebre. La construction avait commence en 1248 et, avec de longues interruptions, dura plus de six siecles.",
+      "es": "El 15 de octubre de 1880 se celebro la finalizacion de la catedral de Colonia. La construccion habia comenzado en 1248 y, con largas interrupciones, duro mas de seis siglos.",
+      "it": "Il 15 ottobre 1880 fu celebrato il completamento della cattedrale di Colonia. La costruzione era iniziata nel 1248 e, con lunghe interruzioni, duro piu di sei secoli.",
+      "pt": "Em 15 de outubro de 1880, celebrou-se a conclusao da Catedral de Colonia. A construcao havia comecado em 1248 e, com longas interrupcoes, durou mais de seis seculos.",
+      "nl": "Op 15 oktober 1880 werd de voltooiing van de Dom van Keulen gevierd. De bouw was in 1248 begonnen en duurde, met lange onderbrekingen, meer dan zes eeuwen.",
+      "pl": "15 pazdziernika 1880 roku uroczyście swietowano ukonczenie katedry w Kolonii. Budowa rozpoczela sie juz w 1248 roku i z dlugimi przerwami trwala ponad szesc stuleci.",
+      "tr": "15 Ekim 1880'de Koln Katedrali'nin tamamlanisi torenle kutlandi. Insaat 1248'de baslamis ve uzun aralarla alti yuzyildan fazla surmustu.",
+      "zh": "1880年10月15日，人们隆重庆祝科隆大教堂竣工。工程早在1248年就已开始，并在多次长时间中断后持续了六个多世纪。",
+      "ja": "1880年10月15日、ケルン大聖堂の完成が祝われました。建設は1248年に始まり、長い中断を挟みながら6世紀以上続きました。",
+      "ko": "1880년 10월 15일, 쾰른 대성당 완공이 기념되었다. 건설은 1248년에 시작되어 긴 중단을 거치며 6세기 이상 이어졌다.",
+      "hi": "15 अक्टूबर 1880 को कोलोन कैथेड्रल के पूर्ण होने का उत्सव मनाया गया। निर्माण 1248 में शुरू हुआ था और लंबे विरामों के साथ छह सदियों से अधिक चला।",
+      "ar": "في 15 اكتوبر 1880 تم الاحتفال باكتمال كاتدرائية كولونيا. كان البناء قد بدأ عام 1248 واستمر، مع فترات توقف طويلة، اكثر من ستة قرون."
     },
     "importance": {
       "ru": "Собор стал не только религиозным памятником, но и национальным символом эпохи Германской империи.",
       "de": "Der Dom wurde nicht nur ein religioeses Denkmal, sondern auch ein nationales Symbol der Kaiserzeit.",
-      "en": "The cathedral became not only a religious monument but also a national symbol of the imperial era."
+      "en": "The cathedral became not only a religious monument but also a national symbol of the imperial era.",
+      "fr": "La cathedrale devint non seulement un monument religieux, mais aussi un symbole national de l'epoque imperiale.",
+      "es": "La catedral se convirtio no solo en monumento religioso, sino tambien en simbolo nacional de la epoca imperial.",
+      "it": "La cattedrale divenne non solo un monumento religioso, ma anche un simbolo nazionale dell'epoca imperiale.",
+      "pt": "A catedral tornou-se nao apenas um monumento religioso, mas tambem um simbolo nacional da era imperial.",
+      "nl": "De kathedraal werd niet alleen een religieus monument, maar ook een nationaal symbool van het keizerrijk.",
+      "pl": "Katedra stala sie nie tylko zabytkiem religijnym, lecz takze narodowym symbolem epoki cesarstwa.",
+      "tr": "Katedral yalnizca dini bir anit degil, imparatorluk doneminin ulusal sembolu de oldu.",
+      "zh": "这座大教堂不仅成为宗教纪念建筑，也成为德意志帝国时代的民族象征。",
+      "ja": "この大聖堂は宗教的記念碑であるだけでなく、帝政時代の国民的象徴にもなりました。",
+      "ko": "이 대성당은 종교적 기념물일 뿐 아니라 제국 시대의 국가적 상징이 되었다.",
+      "hi": "यह कैथेड्रल केवल धार्मिक स्मारक ही नहीं, बल्कि जर्मन साम्राज्य युग का राष्ट्रीय प्रतीक भी बन गया।",
+      "ar": "اصبحت الكاتدرائية ليست معلما دينيا فقط، بل رمزا وطنيا لعصر الامبراطورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Готика и национальная идея",
           "de": "Gotik und nationale Idee",
-          "en": "Gothic style and national idea"
+          "en": "Gothic style and national idea",
+          "fr": "Style gothique et idee nationale",
+          "es": "Estilo gotico e idea nacional",
+          "it": "Gotico e idea nazionale",
+          "pt": "Estilo gotico e ideia nacional",
+          "nl": "Gotiek en nationale idee",
+          "pl": "Gotyk i idea narodowa",
+          "tr": "Gotik uslup ve ulusal fikir",
+          "zh": "哥特式风格与民族理念",
+          "ja": "ゴシック様式と国民的理念",
+          "ko": "고딕 양식과 국가적 이념",
+          "hi": "गोथिक शैली और राष्ट्रीय विचार",
+          "ar": "الطراز القوطي والفكرة الوطنية"
         },
         "description": {
           "ru": "В XIX веке завершение средневекового собора воспринимали как культурный проект объединённой Германии. Архитектура стала частью политики символов.",
           "de": "Im 19. Jahrhundert wurde die Vollendung des mittelalterlichen Doms als Kulturprojekt des geeinten Deutschlands verstanden. Architektur wurde Teil der Symbolpolitik.",
-          "en": "In the nineteenth century, completing the medieval cathedral was seen as a cultural project of united Germany. Architecture became part of symbolic politics."
+          "en": "In the nineteenth century, completing the medieval cathedral was seen as a cultural project of united Germany. Architecture became part of symbolic politics.",
+          "fr": "Au XIXe siecle, l'achevement de la cathedrale medievale fut compris comme un projet culturel de l'Allemagne unie. L'architecture devint une partie de la politique des symboles.",
+          "es": "En el siglo XIX, completar la catedral medieval se entendio como un proyecto cultural de la Alemania unida. La arquitectura se convirtio en parte de la politica de simbolos.",
+          "it": "Nel XIX secolo, completare la cattedrale medievale fu visto come un progetto culturale della Germania unita. L'architettura divenne parte della politica dei simboli.",
+          "pt": "No seculo XIX, concluir a catedral medieval foi visto como um projeto cultural da Alemanha unificada. A arquitetura tornou-se parte da politica dos simbolos.",
+          "nl": "In de negentiende eeuw werd de voltooiing van de middeleeuwse kathedraal gezien als een cultureel project van verenigd Duitsland. Architectuur werd deel van symbolische politiek.",
+          "pl": "W XIX wieku ukonczenie sredniowiecznej katedry postrzegano jako projekt kulturowy zjednoczonych Niemiec. Architektura stala sie czescia polityki symboli.",
+          "tr": "19. yuzyilda orta cag katedralinin tamamlanmasi, birlesik Almanya'nin kulturel projesi olarak goruldu. Mimari sembol siyasetinin parcasi oldu.",
+          "zh": "在19世纪，完成这座中世纪大教堂被视为统一德国的文化工程。建筑成为象征政治的一部分。",
+          "ja": "19世紀には、中世の大聖堂を完成させることは統一ドイツの文化的事業と見なされました。建築は象徴政治の一部となりました。",
+          "ko": "19세기에 중세 대성당의 완공은 통일 독일의 문화 프로젝트로 이해되었다. 건축은 상징 정치의 일부가 되었다.",
+          "hi": "19वीं सदी में मध्ययुगीन कैथेड्रल को पूरा करना एकीकृत जर्मनी की सांस्कृतिक परियोजना माना गया। वास्तुकला प्रतीक राजनीति का हिस्सा बन गई।",
+          "ar": "في القرن التاسع عشر عُد اكمال الكاتدرائية القروسطية مشروعا ثقافيا لالمانيا الموحدة. واصبحت العمارة جزءا من سياسة الرموز."
         },
         "importance": {
           "ru": "Это хороший пример того, как здание может стать историческим аргументом.",
           "de": "Das ist ein gutes Beispiel dafuer, wie ein Gebaeude zu einem historischen Argument werden kann.",
-          "en": "It is a good example of a building becoming a historical argument."
+          "en": "It is a good example of a building becoming a historical argument.",
+          "fr": "C'est un bon exemple de la facon dont un batiment peut devenir un argument historique.",
+          "es": "Es un buen ejemplo de como un edificio puede convertirse en argumento historico.",
+          "it": "E un buon esempio di come un edificio possa diventare un argomento storico.",
+          "pt": "E um bom exemplo de como um edificio pode se tornar um argumento historico.",
+          "nl": "Het is een goed voorbeeld van hoe een gebouw een historisch argument kan worden.",
+          "pl": "To dobry przyklad tego, jak budynek moze stac sie argumentem historycznym.",
+          "tr": "Bu, bir yapinin nasil tarihsel bir argumana donusebilecegine iyi bir ornektir.",
+          "zh": "这是建筑如何成为历史论证的好例子。",
+          "ja": "建物が歴史的な主張になり得ることを示す良い例です。",
+          "ko": "건물이 역사적 논거가 될 수 있음을 보여주는 좋은 예다.",
+          "hi": "यह अच्छा उदाहरण है कि कोई इमारत ऐतिहासिक तर्क कैसे बन सकती है।",
+          "ar": "انه مثال جيد على كيف يمكن لمبنى ان يصبح حجة تاريخية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Кёльнский собор включён в список Всемирного наследия ЮНЕСКО.",
     "de": "Der Koelner Dom gehoert zum UNESCO-Welterbe.",
-    "en": "Cologne Cathedral is a UNESCO World Heritage Site."
+    "en": "Cologne Cathedral is a UNESCO World Heritage Site.",
+    "fr": "La cathedrale de Cologne est inscrite au patrimoine mondial de l'UNESCO.",
+    "es": "La catedral de Colonia es Patrimonio Mundial de la UNESCO.",
+    "it": "La cattedrale di Colonia e Patrimonio mondiale dell'UNESCO.",
+    "pt": "A Catedral de Colonia e Patrimonio Mundial da UNESCO.",
+    "nl": "De Dom van Keulen staat op de werelderfgoedlijst van UNESCO.",
+    "pl": "Katedra w Kolonii znajduje sie na liscie swiatowego dziedzictwa UNESCO.",
+    "tr": "Koln Katedrali UNESCO Dunya Mirasi listesindedir.",
+    "zh": "科隆大教堂被列入联合国教科文组织世界遗产名录。",
+    "ja": "ケルン大聖堂はユネスコ世界遺産に登録されています。",
+    "ko": "쾰른 대성당은 유네스코 세계유산이다.",
+    "hi": "कोलोन कैथेड्रल यूनेस्को विश्व धरोहर स्थल है।",
+    "ar": "كاتدرائية كولونيا مدرجة في قائمة التراث العالمي لليونسكو."
   },
   "sources": [
     {

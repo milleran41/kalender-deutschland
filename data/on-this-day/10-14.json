@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родилась Ханна Арендт",
       "de": "Hannah Arendt wird geboren",
-      "en": "Hannah Arendt is born"
+      "en": "Hannah Arendt is born",
+      "fr": "Hannah Arendt nait",
+      "es": "Nace Hannah Arendt",
+      "it": "Nasce Hannah Arendt",
+      "pt": "Nasce Hannah Arendt",
+      "nl": "Hannah Arendt wordt geboren",
+      "pl": "Rodzi sie Hannah Arendt",
+      "tr": "Hannah Arendt dogdu",
+      "zh": "汉娜·阿伦特出生",
+      "ja": "ハンナ・アーレントが生まれる",
+      "ko": "한나 아렌트가 태어나다",
+      "hi": "हन्ना आरेंट का जन्म हुआ",
+      "ar": "ولادة حنة ارندت"
     },
     "description": {
       "ru": "14 октября 1906 года в Ганновере родилась Ханна Арендт. Она стала одной из самых известных политических мыслительниц XX века.",
       "de": "Am 14. Oktober 1906 wurde Hannah Arendt in Hannover geboren. Sie wurde eine der bekanntesten politischen Denkerinnen des 20. Jahrhunderts.",
-      "en": "On 14 October 1906, Hannah Arendt was born in Hanover. She became one of the best-known political thinkers of the twentieth century."
+      "en": "On 14 October 1906, Hannah Arendt was born in Hanover. She became one of the best-known political thinkers of the twentieth century.",
+      "fr": "Le 14 octobre 1906, Hannah Arendt naquit à Hanovre. Elle devint l'une des penseuses politiques les plus connues du XXe siecle.",
+      "es": "El 14 de octubre de 1906, Hannah Arendt nacio en Hannover. Se convirtio en una de las pensadoras politicas mas conocidas del siglo XX.",
+      "it": "Il 14 ottobre 1906 Hannah Arendt nacque ad Hannover. Divenne una delle piu note pensatrici politiche del XX secolo.",
+      "pt": "Em 14 de outubro de 1906, Hannah Arendt nasceu em Hanover. Ela se tornou uma das pensadoras politicas mais conhecidas do seculo XX.",
+      "nl": "Op 14 oktober 1906 werd Hannah Arendt in Hannover geboren. Zij werd een van de bekendste politieke denkers van de twintigste eeuw.",
+      "pl": "14 pazdziernika 1906 roku w Hanowerze urodzila sie Hannah Arendt. Zostala jedna z najbardziej znanych myslicielek politycznych XX wieku.",
+      "tr": "14 Ekim 1906'da Hannah Arendt Hannover'de dogdu. 20. yuzyilin en taninmis siyasi dusunurlerinden biri oldu.",
+      "zh": "1906年10月14日，汉娜·阿伦特出生于汉诺威。她成为20世纪最著名的政治思想家之一。",
+      "ja": "1906年10月14日、ハンナ・アーレントはハノーファーで生まれました。彼女は20世紀で最もよく知られた政治思想家の一人となりました。",
+      "ko": "1906년 10월 14일, 한나 아렌트가 하노버에서 태어났다. 그녀는 20세기의 가장 잘 알려진 정치 사상가 중 한 명이 되었다.",
+      "hi": "14 अक्टूबर 1906 को हन्ना आरेंट का जन्म हनोवर में हुआ। वे बीसवीं सदी की सबसे प्रसिद्ध राजनीतिक विचारकों में से एक बनीं।",
+      "ar": "في 14 اكتوبر 1906 ولدت حنة ارندت في هانوفر. واصبحت واحدة من اشهر المفكرات السياسيات في القرن العشرين."
     },
     "importance": {
       "ru": "Её работы о тоталитаризме помогают понимать диктатуры, ответственность и политическую свободу.",
       "de": "Ihre Arbeiten ueber Totalitarismus helfen, Diktaturen, Verantwortung und politische Freiheit zu verstehen.",
-      "en": "Her work on totalitarianism helps explain dictatorships, responsibility and political freedom."
+      "en": "Her work on totalitarianism helps explain dictatorships, responsibility and political freedom.",
+      "fr": "Ses travaux sur le totalitarisme aident à comprendre les dictatures, la responsabilite et la liberte politique.",
+      "es": "Sus trabajos sobre el totalitarismo ayudan a entender las dictaduras, la responsabilidad y la libertad politica.",
+      "it": "I suoi lavori sul totalitarismo aiutano a comprendere dittature, responsabilita e liberta politica.",
+      "pt": "Seus trabalhos sobre o totalitarismo ajudam a entender ditaduras, responsabilidade e liberdade politica.",
+      "nl": "Haar werk over totalitarisme helpt dictaturen, verantwoordelijkheid en politieke vrijheid te begrijpen.",
+      "pl": "Jej prace o totalitaryzmie pomagaja rozumiec dyktatury, odpowiedzialnosc i wolnosc polityczna.",
+      "tr": "Totalitarizm uzerine calismalari diktatorlukleri, sorumlulugu ve siyasi ozgurlugu anlamaya yardim eder.",
+      "zh": "她关于极权主义的著作有助于理解独裁、责任和政治自由。",
+      "ja": "全体主義に関する彼女の著作は、独裁、責任、政治的自由を理解する助けになります。",
+      "ko": "전체주의에 관한 그녀의 작업은 독재, 책임, 정치적 자유를 이해하는 데 도움을 준다.",
+      "hi": "सर्वसत्तावाद पर उनके कार्य तानाशाही, जिम्मेदारी और राजनीतिक स्वतंत्रता को समझने में मदद करते हैं।",
+      "ar": "تساعد اعمالها عن الشمولية على فهم الدكتاتوريات والمسؤولية والحرية السياسية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Из Германии в эмиграцию",
           "de": "Aus Deutschland ins Exil",
-          "en": "From Germany into exile"
+          "en": "From Germany into exile",
+          "fr": "De l'Allemagne à l'exil",
+          "es": "De Alemania al exilio",
+          "it": "Dalla Germania all'esilio",
+          "pt": "Da Alemanha para o exilio",
+          "nl": "Van Duitsland naar ballingschap",
+          "pl": "Z Niemiec na emigracje",
+          "tr": "Almanya'dan surgune",
+          "zh": "从德国走向流亡",
+          "ja": "ドイツから亡命へ",
+          "ko": "독일에서 망명으로",
+          "hi": "जर्मनी से निर्वासन में",
+          "ar": "من المانيا الى المنفى"
         },
         "description": {
           "ru": "После прихода нацистов к власти Арендт, будучи еврейкой, покинула Германию. Позднее она жила во Франции и США.",
           "de": "Nach der Machtuebernahme der Nationalsozialisten verliess Arendt als Juedin Deutschland. Spaeter lebte sie in Frankreich und den USA.",
-          "en": "After the Nazis took power, Arendt, who was Jewish, left Germany. She later lived in France and the United States."
+          "en": "After the Nazis took power, Arendt, who was Jewish, left Germany. She later lived in France and the United States.",
+          "fr": "Apres l'arrivee des nazis au pouvoir, Arendt, qui etait juive, quitta l'Allemagne. Elle vecut plus tard en France et aux Etats-Unis.",
+          "es": "Tras la llegada de los nazis al poder, Arendt, que era judia, abandono Alemania. Mas tarde vivio en Francia y Estados Unidos.",
+          "it": "Dopo l'arrivo al potere dei nazisti, Arendt, che era ebrea, lascio la Germania. In seguito visse in Francia e negli Stati Uniti.",
+          "pt": "Depois que os nazistas chegaram ao poder, Arendt, que era judia, deixou a Alemanha. Mais tarde viveu na Franca e nos Estados Unidos.",
+          "nl": "Nadat de nazi's aan de macht kwamen, verliet Arendt, die Joods was, Duitsland. Later woonde zij in Frankrijk en de Verenigde Staten.",
+          "pl": "Po dojściu nazistow do wladzy Arendt, jako Zydowka, opuscila Niemcy. Pozniej mieszkala we Francji i w Stanach Zjednoczonych.",
+          "tr": "Naziler iktidara geldikten sonra Yahudi olan Arendt Almanya'yi terk etti. Daha sonra Fransa ve Amerika Birlesik Devletleri'nde yasadi.",
+          "zh": "纳粹上台后，身为犹太人的阿伦特离开德国。后来她生活在法国和美国。",
+          "ja": "ナチスが権力を握った後、ユダヤ人であったアーレントはドイツを離れました。後に彼女はフランスとアメリカで暮らしました。",
+          "ko": "나치가 권력을 잡은 뒤 유대인이었던 아렌트는 독일을 떠났다. 이후 그녀는 프랑스와 미국에서 살았다.",
+          "hi": "नाजियों के सत्ता में आने के बाद यहूदी होने के कारण आरेंट ने जर्मनी छोड़ दिया। बाद में वे फ्रांस और अमेरिका में रहीं।",
+          "ar": "بعد وصول النازيين الى السلطة غادرت ارندت، بوصفها يهودية، المانيا. وعاشت لاحقا في فرنسا والولايات المتحدة."
         },
         "importance": {
           "ru": "Её биография напрямую связана с катастрофами немецкой истории XX века.",
           "de": "Ihre Biografie ist direkt mit den Katastrophen der deutschen Geschichte des 20. Jahrhunderts verbunden.",
-          "en": "Her biography is directly tied to the catastrophes of twentieth-century German history."
+          "en": "Her biography is directly tied to the catastrophes of twentieth-century German history.",
+          "fr": "Sa biographie est directement liee aux catastrophes de l'histoire allemande du XXe siecle.",
+          "es": "Su biografia esta directamente ligada a las catastrofes de la historia alemana del siglo XX.",
+          "it": "La sua biografia e direttamente legata alle catastrofi della storia tedesca del XX secolo.",
+          "pt": "Sua biografia esta diretamente ligada as catastrofes da historia alema do seculo XX.",
+          "nl": "Haar biografie is direct verbonden met de rampen van de Duitse geschiedenis van de twintigste eeuw.",
+          "pl": "Jej biografia jest bezposrednio zwiazana z katastrofami niemieckiej historii XX wieku.",
+          "tr": "Biyografisi 20. yuzyil Alman tarihinin felaketleriyle dogrudan baglantilidir.",
+          "zh": "她的生平与20世纪德国历史的灾难直接相连。",
+          "ja": "彼女の経歴は、20世紀ドイツ史の破局と直接結びついています。",
+          "ko": "그녀의 생애는 20세기 독일사의 재앙들과 직접 연결되어 있다.",
+          "hi": "उनकी जीवनी बीसवीं सदी के जर्मन इतिहास की त्रासदियों से सीधे जुड़ी है।",
+          "ar": "ترتبط سيرتها مباشرة بكوارث التاريخ الالماني في القرن العشرين."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Арендт часто называют философом, хотя сама она предпочитала говорить о себе как о политическом теоретике.",
     "de": "Arendt wird oft Philosophin genannt, obwohl sie sich selbst lieber als politische Theoretikerin verstand.",
-    "en": "Arendt is often called a philosopher, although she preferred to describe herself as a political theorist."
+    "en": "Arendt is often called a philosopher, although she preferred to describe herself as a political theorist.",
+    "fr": "Arendt est souvent appelee philosophe, bien qu'elle preferait se definir comme theoricienne politique.",
+    "es": "A Arendt se la llama a menudo filosofa, aunque ella preferia describirse como teorica politica.",
+    "it": "Arendt e spesso chiamata filosofa, anche se preferiva definirsi teorica politica.",
+    "pt": "Arendt e frequentemente chamada de filosofa, embora preferisse se descrever como teorica politica.",
+    "nl": "Arendt wordt vaak filosofe genoemd, hoewel zij zichzelf liever als politiek theoreticus beschreef.",
+    "pl": "Arendt czesto nazywa sie filozofka, choc sama wolala okreslac sie jako teoretyczka polityki.",
+    "tr": "Arendt sikca filozof olarak anilir, ancak kendisini siyasi teorisyen olarak tanimlamayi tercih ederdi.",
+    "zh": "阿伦特常被称为哲学家，尽管她更愿意把自己称为政治理论家。",
+    "ja": "アーレントはしばしば哲学者と呼ばれますが、本人は政治理論家と自称することを好みました。",
+    "ko": "아렌트는 흔히 철학자로 불리지만, 그녀 자신은 정치 이론가라고 설명하기를 선호했다.",
+    "hi": "आरेंट को अक्सर दार्शनिक कहा जाता है, हालांकि वे स्वयं को राजनीतिक सिद्धांतकार कहना पसंद करती थीं।",
+    "ar": "غالبا ما تسمى ارندت فيلسوفة، رغم انها فضلت وصف نفسها بمنظرة سياسية."
   },
   "sources": [
     {
