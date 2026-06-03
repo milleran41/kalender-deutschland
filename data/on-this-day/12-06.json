@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умер Вернер фон Сименс",
       "de": "Werner von Siemens stirbt",
-      "en": "Werner von Siemens dies"
+      "en": "Werner von Siemens dies",
+      "fr": "Werner von Siemens meurt",
+      "es": "Muere Werner von Siemens",
+      "it": "Muore Werner von Siemens",
+      "pt": "Werner von Siemens morre",
+      "nl": "Werner von Siemens overlijdt",
+      "pl": "Umiera Werner von Siemens",
+      "tr": "Werner von Siemens hayatini kaybediyor",
+      "zh": "维尔纳·冯·西门子去世",
+      "ja": "ヴェルナー・フォン・ジーメンスが死去する",
+      "ko": "베르너 폰 지멘스가 사망하다",
+      "hi": "वर्नर फॉन सीमेंस का निधन हुआ",
+      "ar": "وفاة فيرنر فون سيمنس"
     },
     "description": {
       "ru": "6 декабря 1892 года в Берлине умер Вернер фон Сименс, немецкий инженер, изобретатель и промышленник. Его имя связано с телеграфией, электротехникой и компанией Siemens.",
       "de": "Am 6. Dezember 1892 starb Werner von Siemens in Berlin, ein deutscher Ingenieur, Erfinder und Unternehmer. Sein Name ist mit Telegrafie, Elektrotechnik und dem Unternehmen Siemens verbunden.",
-      "en": "On 6 December 1892, Werner von Siemens died in Berlin. He was a German engineer, inventor and industrialist whose name is linked to telegraphy, electrical engineering and the Siemens company."
+      "en": "On 6 December 1892, Werner von Siemens died in Berlin. He was a German engineer, inventor and industrialist whose name is linked to telegraphy, electrical engineering and the Siemens company.",
+      "fr": "Le 6 decembre 1892, Werner von Siemens mourut a Berlin. Ingenieur, inventeur et industriel allemand, son nom est lie a la telegraphie, a l'electrotechnique et a l'entreprise Siemens.",
+      "es": "El 6 de diciembre de 1892 murio Werner von Siemens en Berlin. Fue ingeniero, inventor e industrial aleman, y su nombre esta vinculado con la telegrafia, la electrotecnica y la empresa Siemens.",
+      "it": "Il 6 dicembre 1892 Werner von Siemens mori a Berlino. Fu ingegnere, inventore e industriale tedesco, e il suo nome e legato alla telegrafia, all'elettrotecnica e all'azienda Siemens.",
+      "pt": "Em 6 de dezembro de 1892, Werner von Siemens morreu em Berlim. Ele foi engenheiro, inventor e industrial alemao, e seu nome esta ligado a telegrafia, a eletrotecnica e a empresa Siemens.",
+      "nl": "Op 6 december 1892 overleed Werner von Siemens in Berlijn. Hij was een Duitse ingenieur, uitvinder en industrieel, en zijn naam is verbonden met telegrafie, elektrotechniek en het bedrijf Siemens.",
+      "pl": "6 grudnia 1892 roku w Berlinie zmarl Werner von Siemens. Byl niemieckim inzynierem, wynalazca i przemyslowcem, a jego nazwisko laczy sie z telegrafia, elektrotechnika i firma Siemens.",
+      "tr": "6 Aralik 1892'de Werner von Siemens Berlin'de hayatini kaybetti. Alman muhendis, mucit ve sanayiciydi; adi telgraf, elektrik muhendisligi ve Siemens sirketiyle baglantilidir.",
+      "zh": "1892年12月6日，维尔纳·冯·西门子在柏林去世。他是德国工程师、发明家和工业家，其名字与电报、电气工程和西门子公司相联系。",
+      "ja": "1892年12月6日、ヴェルナー・フォン・ジーメンスがベルリンで亡くなりました。彼はドイツの技術者、発明家、実業家で、その名は電信、電気工学、Siemens社と結びついています。",
+      "ko": "1892년 12월 6일 베르너 폰 지멘스가 베를린에서 사망했다. 그는 독일의 엔지니어, 발명가, 산업가였고 그의 이름은 전신, 전기공학, Siemens 회사와 연결되어 있다.",
+      "hi": "6 दिसंबर 1892 को वर्नर फॉन सीमेंस का बर्लिन में निधन हुआ। वे जर्मन इंजीनियर, आविष्कारक और उद्योगपति थे, जिनका नाम टेलीग्राफी, विद्युत अभियांत्रिकी और Siemens कंपनी से जुड़ा है।",
+      "ar": "في 6 ديسمبر 1892 توفي فيرنر فون سيمنس في برلين. كان مهندسا ومخترعا وصناعيا ألمانيا، ويرتبط اسمه بالتلغراف والهندسة الكهربائية وشركة Siemens."
     },
     "importance": {
       "ru": "Сименс стал одной из ключевых фигур немецкой индустриализации и электротехнической эпохи.",
       "de": "Siemens wurde zu einer Schluesselfigur der deutschen Industrialisierung und des elektrotechnischen Zeitalters.",
-      "en": "Siemens became a key figure in German industrialization and the age of electrical engineering."
+      "en": "Siemens became a key figure in German industrialization and the age of electrical engineering.",
+      "fr": "Siemens devint une figure cle de l'industrialisation allemande et de l'ere de l'electrotechnique.",
+      "es": "Siemens se convirtio en una figura clave de la industrializacion alemana y de la era de la electrotecnica.",
+      "it": "Siemens divenne una figura chiave dell'industrializzazione tedesca e dell'eta dell'elettrotecnica.",
+      "pt": "Siemens tornou-se uma figura-chave da industrializacao alema e da era da eletrotecnica.",
+      "nl": "Siemens werd een sleutelfiguur in de Duitse industrialisatie en het tijdperk van de elektrotechniek.",
+      "pl": "Siemens stal sie jedna z kluczowych postaci niemieckiej industrializacji i epoki elektrotechniki.",
+      "tr": "Siemens, Alman sanayilesmesinin ve elektrik muhendisligi caginin kilit isimlerinden biri oldu.",
+      "zh": "西门子成为德国工业化和电气工程时代的关键人物之一。",
+      "ja": "ジーメンスは、ドイツの工業化と電気工学時代の重要人物の一人となりました。",
+      "ko": "지멘스는 독일 산업화와 전기공학 시대의 핵심 인물 중 한 명이 되었다.",
+      "hi": "सीमेंस जर्मन औद्योगिकीकरण और विद्युत अभियांत्रिकी युग की प्रमुख हस्तियों में से एक बने।",
+      "ar": "أصبح سيمنس شخصية رئيسية في التصنيع الألماني وفي عصر الهندسة الكهربائية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Динамо-электрический принцип",
           "de": "Das dynamoelektrische Prinzip",
-          "en": "The dynamo-electric principle"
+          "en": "The dynamo-electric principle",
+          "fr": "Le principe dynamo-electrique",
+          "es": "El principio dinamo-electrico",
+          "it": "Il principio dinamo-elettrico",
+          "pt": "O principio dinamo-eletrico",
+          "nl": "Het dynamo-elektrische principe",
+          "pl": "Zasada dynamoelektryczna",
+          "tr": "Dinamo-elektrik ilkesi",
+          "zh": "自励发电机原理",
+          "ja": "ダイナモ電気原理",
+          "ko": "다이너모 전기 원리",
+          "hi": "डायनमो-विद्युत सिद्धांत",
+          "ar": "المبدأ الدينامو-كهربائي"
         },
         "description": {
           "ru": "Сименс внёс важный вклад в развитие генераторов электричества. Это помогло сделать электрическую энергию практичной для промышленности и городов.",
           "de": "Siemens leistete einen wichtigen Beitrag zur Entwicklung elektrischer Generatoren. Das half, elektrische Energie fuer Industrie und Staedte praktisch nutzbar zu machen.",
-          "en": "Siemens made an important contribution to the development of electric generators. This helped make electrical power practical for industry and cities."
+          "en": "Siemens made an important contribution to the development of electric generators. This helped make electrical power practical for industry and cities.",
+          "fr": "Siemens apporta une contribution importante au developpement des generateurs electriques. Cela aida a rendre l'energie electrique utilisable en pratique pour l'industrie et les villes.",
+          "es": "Siemens hizo una contribucion importante al desarrollo de generadores electricos. Esto ayudo a hacer practica la energia electrica para la industria y las ciudades.",
+          "it": "Siemens diede un contributo importante allo sviluppo dei generatori elettrici. Questo aiuto a rendere l'energia elettrica pratica per l'industria e le citta.",
+          "pt": "Siemens deu uma contribuicao importante ao desenvolvimento de geradores eletricos. Isso ajudou a tornar a energia eletrica pratica para a industria e as cidades.",
+          "nl": "Siemens leverde een belangrijke bijdrage aan de ontwikkeling van elektrische generatoren. Dat hielp elektrische energie praktisch bruikbaar te maken voor industrie en steden.",
+          "pl": "Siemens wniosl wazny wklad w rozwoj generatorow elektrycznych. Pomoglo to uczynic energie elektryczna praktyczna dla przemyslu i miast.",
+          "tr": "Siemens elektrik jeneratorlerinin gelisimine onemli katkida bulundu. Bu, elektrik enerjisinin sanayi ve kentler icin kullanisli hale gelmesine yardim etti.",
+          "zh": "西门子对发电机的发展作出了重要贡献。这帮助电能成为工业和城市可实际使用的能源。",
+          "ja": "ジーメンスは発電機の発展に重要な貢献をしました。これにより電力は産業と都市で実用的に使えるものになりました。",
+          "ko": "지멘스는 전기 발전기 발전에 중요한 기여를 했다. 이는 전력을 산업과 도시에서 실제로 사용할 수 있게 하는 데 도움이 되었다.",
+          "hi": "सीमेंस ने विद्युत जनरेटरों के विकास में महत्वपूर्ण योगदान दिया। इससे विद्युत ऊर्जा उद्योग और शहरों के लिए व्यावहारिक बन सकी।",
+          "ar": "قدم سيمنس مساهمة مهمة في تطوير المولدات الكهربائية. وساعد ذلك على جعل الطاقة الكهربائية عملية للصناعة والمدن."
         },
         "importance": {
           "ru": "Без таких изобретений электрический город XIX и XX века выглядел бы совсем иначе.",
           "de": "Ohne solche Erfindungen haette die elektrische Stadt des 19. und 20. Jahrhunderts ganz anders ausgesehen.",
-          "en": "Without such inventions, the electric city of the 19th and 20th centuries would have looked very different."
+          "en": "Without such inventions, the electric city of the 19th and 20th centuries would have looked very different.",
+          "fr": "Sans de telles inventions, la ville electrique des XIXe et XXe siecles aurait eu un tout autre visage.",
+          "es": "Sin tales inventos, la ciudad electrica de los siglos XIX y XX habria tenido un aspecto muy distinto.",
+          "it": "Senza tali invenzioni, la citta elettrica del XIX e XX secolo avrebbe avuto un aspetto molto diverso.",
+          "pt": "Sem tais invencoes, a cidade eletrica dos seculos XIX e XX teria parecido muito diferente.",
+          "nl": "Zonder zulke uitvindingen zou de elektrische stad van de negentiende en twintigste eeuw er heel anders hebben uitgezien.",
+          "pl": "Bez takich wynalazkow elektryczne miasto XIX i XX wieku wygladaloby zupelnie inaczej.",
+          "tr": "Bu tur icatlar olmasaydi, 19. ve 20. yuzyilin elektrikli kenti cok farkli gorunurdu.",
+          "zh": "没有这样的发明，19世纪和20世纪的电气化城市会完全不同。",
+          "ja": "このような発明がなければ、19世紀と20世紀の電気都市はまったく違って見えたでしょう。",
+          "ko": "이런 발명들이 없었다면 19세기와 20세기의 전기 도시는 전혀 다르게 보였을 것이다.",
+          "hi": "ऐसे आविष्कारों के बिना उन्नीसवीं और बीसवीं सदी का विद्युत शहर बिल्कुल अलग दिखता।",
+          "ar": "من دون مثل هذه الاختراعات كانت المدينة الكهربائية في القرنين التاسع عشر والعشرين ستبدو مختلفة تماما."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Инженер и предприниматель",
           "de": "Ingenieur und Unternehmer",
-          "en": "Engineer and entrepreneur"
+          "en": "Engineer and entrepreneur",
+          "fr": "Ingenieur et entrepreneur",
+          "es": "Ingeniero y empresario",
+          "it": "Ingegnere e imprenditore",
+          "pt": "Engenheiro e empreendedor",
+          "nl": "Ingenieur en ondernemer",
+          "pl": "Inzynier i przedsiebiorca",
+          "tr": "Muhendis ve girisimci",
+          "zh": "工程师和企业家",
+          "ja": "技術者で起業家",
+          "ko": "엔지니어이자 기업가",
+          "hi": "इंजीनियर और उद्यमी",
+          "ar": "مهندس ورائد أعمال"
         },
         "description": {
           "ru": "Сименс не только изобретал, но и строил промышленную компанию. Его работа показывает, как в XIX веке наука, техника и бизнес стали тесно связаны.",
           "de": "Siemens erfand nicht nur, sondern baute auch ein Industrieunternehmen auf. Seine Arbeit zeigt, wie eng Wissenschaft, Technik und Wirtschaft im 19. Jahrhundert zusammenrueckten.",
-          "en": "Siemens did not only invent; he also built an industrial company. His work shows how closely science, technology and business became connected in the 19th century."
+          "en": "Siemens did not only invent; he also built an industrial company. His work shows how closely science, technology and business became connected in the 19th century.",
+          "fr": "Siemens n'inventa pas seulement; il construisit aussi une entreprise industrielle. Son travail montre combien science, technique et economie se rapprocherent au XIXe siecle.",
+          "es": "Siemens no solo invento; tambien construyo una empresa industrial. Su trabajo muestra cuan estrechamente se unieron ciencia, tecnica y negocios en el siglo XIX.",
+          "it": "Siemens non solo invento; costrui anche un'azienda industriale. Il suo lavoro mostra quanto scienza, tecnica ed economia si avvicinarono nel XIX secolo.",
+          "pt": "Siemens nao apenas inventou; tambem construiu uma empresa industrial. Seu trabalho mostra como ciencia, tecnica e negocios se aproximaram no seculo XIX.",
+          "nl": "Siemens vond niet alleen uit; hij bouwde ook een industrieel bedrijf op. Zijn werk laat zien hoe nauw wetenschap, techniek en economie in de negentiende eeuw verbonden raakten.",
+          "pl": "Siemens nie tylko wynajdowal; budowal tez przedsiebiorstwo przemyslowe. Jego praca pokazuje, jak blisko w XIX wieku polaczyly sie nauka, technika i biznes.",
+          "tr": "Siemens yalnizca icat yapmadi; ayni zamanda bir sanayi sirketi kurdu. Calismasi, 19. yuzyilda bilim, teknoloji ve is dunyasinin ne kadar yakindan baglandigini gosterir.",
+          "zh": "西门子不仅发明，也建立了一家工业公司。他的工作显示了19世纪科学、技术和商业之间联系变得多么紧密。",
+          "ja": "ジーメンスは発明しただけでなく、工業会社も築きました。彼の仕事は、19世紀に科学、技術、ビジネスがどれほど密接につながったかを示しています。",
+          "ko": "지멘스는 발명만 한 것이 아니라 산업 회사를 세웠다. 그의 작업은 19세기에 과학, 기술, 사업이 얼마나 밀접하게 연결되었는지 보여 준다.",
+          "hi": "सीमेंस ने केवल आविष्कार ही नहीं किए, बल्कि एक औद्योगिक कंपनी भी बनाई। उनका काम दिखाता है कि उन्नीसवीं सदी में विज्ञान, तकनीक और व्यापार कितनी निकटता से जुड़ गए।",
+          "ar": "لم يكن سيمنس مخترعا فقط، بل بنى أيضا شركة صناعية. ويظهر عمله كيف اقترب العلم والتقنية والأعمال من بعضها في القرن التاسع عشر."
         },
         "importance": {
           "ru": "Это хороший пример немецкой инженерной культуры в эпоху промышленного роста.",
           "de": "Das ist ein gutes Beispiel deutscher Ingenieurkultur in einer Zeit industriellen Wachstums.",
-          "en": "It is a good example of German engineering culture during an era of industrial growth."
+          "en": "It is a good example of German engineering culture during an era of industrial growth.",
+          "fr": "C'est un bon exemple de la culture d'ingenierie allemande a l'epoque de la croissance industrielle.",
+          "es": "Es un buen ejemplo de la cultura de ingenieria alemana en una epoca de crecimiento industrial.",
+          "it": "E un buon esempio della cultura ingegneristica tedesca in un'epoca di crescita industriale.",
+          "pt": "E um bom exemplo da cultura de engenharia alema numa epoca de crescimento industrial.",
+          "nl": "Het is een goed voorbeeld van Duitse ingenieurscultuur in een tijd van industriele groei.",
+          "pl": "To dobry przyklad niemieckiej kultury inzynieryjnej w epoce wzrostu przemyslowego.",
+          "tr": "Bu, endustriyel buyume caginda Alman muhendislik kulturune iyi bir ornektir.",
+          "zh": "这是工业增长时代德国工程文化的一个好例子。",
+          "ja": "これは工業成長の時代におけるドイツ工学文化のよい例です。",
+          "ko": "이는 산업 성장 시대 독일 공학 문화의 좋은 예이다.",
+          "hi": "यह औद्योगिक विकास के युग में जर्मन इंजीनियरिंग संस्कृति का अच्छा उदाहरण है।",
+          "ar": "إنه مثال جيد على ثقافة الهندسة الألمانية في عصر النمو الصناعي."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Werner von Siemens родился 13 декабря 1816 года в Ленте, недалеко от Ганновера.",
     "de": "Werner von Siemens wurde am 13. Dezember 1816 in Lenthe bei Hannover geboren.",
-    "en": "Werner von Siemens was born on 13 December 1816 in Lenthe near Hanover."
+    "en": "Werner von Siemens was born on 13 December 1816 in Lenthe near Hanover.",
+    "fr": "Werner von Siemens naquit le 13 decembre 1816 a Lenthe, pres de Hanovre.",
+    "es": "Werner von Siemens nacio el 13 de diciembre de 1816 en Lenthe, cerca de Hannover.",
+    "it": "Werner von Siemens nacque il 13 dicembre 1816 a Lenthe, vicino ad Hannover.",
+    "pt": "Werner von Siemens nasceu em 13 de dezembro de 1816 em Lenthe, perto de Hannover.",
+    "nl": "Werner von Siemens werd op 13 december 1816 geboren in Lenthe bij Hannover.",
+    "pl": "Werner von Siemens urodzil sie 13 grudnia 1816 roku w Lenthe pod Hanowerem.",
+    "tr": "Werner von Siemens 13 Aralik 1816'da Hannover yakinlarindaki Lenthe'de dogdu.",
+    "zh": "维尔纳·冯·西门子于1816年12月13日出生在汉诺威附近的Lenthe。",
+    "ja": "ヴェルナー・フォン・ジーメンスは1816年12月13日、ハノーファー近郊のLentheで生まれました。",
+    "ko": "베르너 폰 지멘스는 1816년 12월 13일 하노버 근처 렌테에서 태어났다.",
+    "hi": "वर्नर फॉन सीमेंस का जन्म 13 दिसंबर 1816 को हनोवर के पास Lenthe में हुआ था।",
+    "ar": "وُلد فيرنر فون سيمنس في 13 ديسمبر 1816 في Lenthe قرب هانوفر."
   },
   "sources": [
     {

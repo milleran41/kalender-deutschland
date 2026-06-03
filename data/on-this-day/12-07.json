@@ -11,17 +11,53 @@
     "title": {
       "ru": "Варшавский договор и жест Вилли Брандта",
       "de": "Warschauer Vertrag und Brandts Kniefall",
-      "en": "Treaty of Warsaw and Brandt's kneeling"
+      "en": "Treaty of Warsaw and Brandt's kneeling",
+      "fr": "Traite de Varsovie et agenouillement de Brandt",
+      "es": "Tratado de Varsovia y genuflexion de Brandt",
+      "it": "Trattato di Varsavia e inginocchiamento di Brandt",
+      "pt": "Tratado de Varsovia e ajoelhamento de Brandt",
+      "nl": "Verdrag van Warschau en Brandts knieval",
+      "pl": "Uklad warszawski i klekniecie Brandta",
+      "tr": "Varsova Antlasmasi ve Brandt'in diz cokusu",
+      "zh": "华沙条约和勃兰特下跪",
+      "ja": "ワルシャワ条約とブラントの跪き",
+      "ko": "바르샤바 조약과 브란트의 무릎 꿇기",
+      "hi": "वारसॉ संधि और ब्रांट का घुटने टेकना",
+      "ar": "معاهدة وارسو وركوع برانت"
     },
     "description": {
       "ru": "7 декабря 1970 года ФРГ и Польша подписали Варшавский договор. В тот же день канцлер Вилли Брандт встал на колени у памятника героям Варшавского гетто.",
       "de": "Am 7. Dezember 1970 unterzeichneten die Bundesrepublik und Polen den Warschauer Vertrag. Am selben Tag kniete Bundeskanzler Willy Brandt am Denkmal fuer die Helden des Warschauer Ghettos nieder.",
-      "en": "On 7 December 1970, West Germany and Poland signed the Treaty of Warsaw. On the same day, Chancellor Willy Brandt knelt at the monument to the heroes of the Warsaw Ghetto."
+      "en": "On 7 December 1970, West Germany and Poland signed the Treaty of Warsaw. On the same day, Chancellor Willy Brandt knelt at the monument to the heroes of the Warsaw Ghetto.",
+      "fr": "Le 7 decembre 1970, la RFA et la Pologne signerent le traite de Varsovie. Le meme jour, le chancelier Willy Brandt s'agenouilla devant le monument aux heros du ghetto de Varsovie.",
+      "es": "El 7 de diciembre de 1970, la RFA y Polonia firmaron el Tratado de Varsovia. Ese mismo dia, el canciller Willy Brandt se arrodillo ante el monumento a los heroes del gueto de Varsovia.",
+      "it": "Il 7 dicembre 1970 la Repubblica Federale e la Polonia firmarono il Trattato di Varsavia. Lo stesso giorno il cancelliere Willy Brandt si inginocchio davanti al monumento agli eroi del ghetto di Varsavia.",
+      "pt": "Em 7 de dezembro de 1970, a Alemanha Ocidental e a Polonia assinaram o Tratado de Varsovia. No mesmo dia, o chanceler Willy Brandt ajoelhou-se diante do monumento aos herois do gueto de Varsovia.",
+      "nl": "Op 7 december 1970 ondertekenden West-Duitsland en Polen het Verdrag van Warschau. Op dezelfde dag knielde bondskanselier Willy Brandt bij het monument voor de helden van het getto van Warschau.",
+      "pl": "7 grudnia 1970 roku RFN i Polska podpisaly Uklad warszawski. Tego samego dnia kanclerz Willy Brandt uklakl przed pomnikiem Bohaterow Getta Warszawskiego.",
+      "tr": "7 Aralik 1970'te Bati Almanya ve Polonya Varsova Antlasmasi'ni imzaladi. Ayni gun sansolye Willy Brandt Varsova Gettosu Kahramanlari Aniti onunde diz coktu.",
+      "zh": "1970年12月7日，西德和波兰签署了《华沙条约》。同一天，总理维利·勃兰特在华沙犹太隔都英雄纪念碑前跪下。",
+      "ja": "1970年12月7日、西ドイツとポーランドはワルシャワ条約に署名しました。同じ日、ヴィリー・ブラント首相はワルシャワ・ゲットー英雄記念碑の前で跪きました。",
+      "ko": "1970년 12월 7일 서독과 폴란드는 바르샤바 조약에 서명했다. 같은 날 빌리 브란트 총리는 바르샤바 게토 영웅 기념비 앞에서 무릎을 꿇었다.",
+      "hi": "7 दिसंबर 1970 को पश्चिम जर्मनी और पोलैंड ने वारसॉ संधि पर हस्ताक्षर किए। उसी दिन चांसलर विली ब्रांट वारसॉ गेटो के नायकों के स्मारक के सामने घुटनों पर बैठ गए।",
+      "ar": "في 7 ديسمبر 1970 وقعت ألمانيا الغربية وبولندا معاهدة وارسو. وفي اليوم نفسه ركع المستشار فيلي برانت عند نصب أبطال غيتو وارسو."
     },
     "importance": {
       "ru": "Дата стала символом новой восточной политики, признания границ и памяти о преступлениях.",
       "de": "Das Datum wurde zum Symbol der Neuen Ostpolitik, der Anerkennung von Grenzen und der Erinnerung an Verbrechen.",
-      "en": "The date became a symbol of the new Ostpolitik, recognition of borders and remembrance of crimes."
+      "en": "The date became a symbol of the new Ostpolitik, recognition of borders and remembrance of crimes.",
+      "fr": "Cette date devint un symbole de la nouvelle Ostpolitik, de la reconnaissance des frontieres et de la memoire des crimes.",
+      "es": "La fecha se convirtio en simbolo de la nueva Ostpolitik, del reconocimiento de fronteras y de la memoria de los crimenes.",
+      "it": "La data divenne un simbolo della nuova Ostpolitik, del riconoscimento dei confini e della memoria dei crimini.",
+      "pt": "A data tornou-se simbolo da nova Ostpolitik, do reconhecimento de fronteiras e da memoria dos crimes.",
+      "nl": "De datum werd een symbool van de nieuwe Ostpolitik, de erkenning van grenzen en de herinnering aan misdaden.",
+      "pl": "Ta data stala sie symbolem nowej Ostpolitik, uznania granic i pamieci o zbrodniach.",
+      "tr": "Bu tarih yeni Ostpolitik'in, sinirlarin taninmasinin ve suclarin hatirlanmasinin simgesi oldu.",
+      "zh": "这个日期成为新东方政策、承认边界和铭记罪行的象征。",
+      "ja": "この日は、新しい東方政策、国境承認、犯罪の記憶の象徴となりました。",
+      "ko": "이 날짜는 새로운 동방정책, 국경 인정, 범죄 기억의 상징이 되었다.",
+      "hi": "यह तारीख नई पूर्वी नीति, सीमाओं की मान्यता और अपराधों की स्मृति का प्रतीक बन गई।",
+      "ar": "أصبح هذا التاريخ رمزا للسياسة الشرقية الجديدة والاعتراف بالحدود وتذكر الجرائم."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Один жест вместо длинной речи",
           "de": "Eine Geste statt einer langen Rede",
-          "en": "One gesture instead of a long speech"
+          "en": "One gesture instead of a long speech",
+          "fr": "Un geste au lieu d'un long discours",
+          "es": "Un gesto en lugar de un largo discurso",
+          "it": "Un gesto invece di un lungo discorso",
+          "pt": "Um gesto em vez de um longo discurso",
+          "nl": "Een gebaar in plaats van een lange toespraak",
+          "pl": "Jeden gest zamiast dlugiej mowy",
+          "tr": "Uzun bir konusma yerine tek bir jest",
+          "zh": "一个动作代替长篇演说",
+          "ja": "長い演説の代わりの一つの身振り",
+          "ko": "긴 연설 대신 하나의 몸짓",
+          "hi": "लंबे भाषण के बजाय एक इशारा",
+          "ar": "إيماءة واحدة بدلا من خطاب طويل"
         },
         "description": {
           "ru": "Брандт не планировал заранее этот жест. Именно поэтому он был воспринят как особенно сильный знак покаяния.",
           "de": "Brandt hatte diese Geste nicht genau geplant. Gerade deshalb wurde sie als besonders starkes Zeichen der Reue wahrgenommen.",
-          "en": "Brandt had not precisely planned the gesture. That made it seem especially powerful as a sign of remorse."
+          "en": "Brandt had not precisely planned the gesture. That made it seem especially powerful as a sign of remorse.",
+          "fr": "Brandt n'avait pas precisement planifie ce geste. C'est justement pourquoi il fut percu comme un signe de repentir particulierement fort.",
+          "es": "Brandt no habia planeado con precision ese gesto. Precisamente por eso fue percibido como una senal especialmente fuerte de arrepentimiento.",
+          "it": "Brandt non aveva pianificato con precisione quel gesto. Proprio per questo fu percepito come un segno particolarmente forte di pentimento.",
+          "pt": "Brandt nao havia planejado exatamente esse gesto. Justamente por isso ele foi percebido como um sinal especialmente forte de arrependimento.",
+          "nl": "Brandt had dit gebaar niet precies gepland. Juist daarom werd het gezien als een bijzonder sterk teken van berouw.",
+          "pl": "Brandt nie zaplanowal dokladnie tego gestu. Wlasnie dlatego odebrano go jako szczegolnie silny znak skruchy.",
+          "tr": "Brandt bu jesti tam olarak planlamamisti. Bu nedenle jest, pismanligin ozellikle guclu bir isareti olarak algilandi.",
+          "zh": "勃兰特并没有精确计划这个动作。正因为如此，它被视为特别有力的忏悔象征。",
+          "ja": "ブラントはこの身振りを正確に計画していたわけではありません。そのため、それは特に強い悔恨の印として受け止められました。",
+          "ko": "브란트는 이 행동을 정확히 계획하지 않았다. 바로 그래서 그것은 특히 강한 참회의 표시로 받아들여졌다.",
+          "hi": "ब्रांट ने इस इशारे की पहले से ठीक-ठीक योजना नहीं बनाई थी। इसी कारण इसे पश्चाताप का विशेष रूप से शक्तिशाली संकेत माना गया।",
+          "ar": "لم يكن برانت قد خطط لهذه الإيماءة بدقة. ولذلك بالذات عُدت علامة قوية جدا على الندم."
         },
         "importance": {
           "ru": "Иногда история запоминает не документ, а движение человека.",
           "de": "Manchmal erinnert Geschichte nicht nur ein Dokument, sondern die Bewegung eines Menschen.",
-          "en": "Sometimes history remembers not only a document but a human movement."
+          "en": "Sometimes history remembers not only a document but a human movement.",
+          "fr": "Parfois, l'histoire retient non seulement un document, mais le mouvement d'une personne.",
+          "es": "A veces la historia recuerda no solo un documento, sino el movimiento de una persona.",
+          "it": "A volte la storia ricorda non solo un documento, ma il movimento di una persona.",
+          "pt": "As vezes, a historia lembra nao apenas um documento, mas o movimento de uma pessoa.",
+          "nl": "Soms herinnert de geschiedenis zich niet alleen een document, maar de beweging van een mens.",
+          "pl": "Czasem historia zapamietuje nie tylko dokument, lecz ruch czlowieka.",
+          "tr": "Bazen tarih yalnizca bir belgeyi degil, bir insanin hareketini hatirlar.",
+          "zh": "有时，历史记住的不只是文件，而是一个人的动作。",
+          "ja": "時には歴史は文書だけでなく、人の動きも記憶します。",
+          "ko": "때로 역사는 문서뿐 아니라 한 사람의 움직임도 기억한다.",
+          "hi": "कभी-कभी इतिहास केवल दस्तावेज नहीं, बल्कि किसी मनुष्य की हरकत को याद रखता है।",
+          "ar": "أحيانا لا يتذكر التاريخ وثيقة فقط، بل حركة إنسان."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Открыта первая немецкая железная дорога",
           "de": "Die erste deutsche Eisenbahn wird eroeffnet",
-          "en": "The first German railway opens"
+          "en": "The first German railway opens",
+          "fr": "Le premier chemin de fer allemand ouvre",
+          "es": "Se inaugura el primer ferrocarril aleman",
+          "it": "Si apre la prima ferrovia tedesca",
+          "pt": "E inaugurada a primeira ferrovia alema",
+          "nl": "De eerste Duitse spoorlijn wordt geopend",
+          "pl": "Otwarta zostaje pierwsza niemiecka kolej",
+          "tr": "Ilk Alman demiryolu aciliyor",
+          "zh": "德国第一条铁路开通",
+          "ja": "ドイツ初の鉄道が開通する",
+          "ko": "독일 첫 철도가 개통되다",
+          "hi": "पहली जर्मन रेलवे खुली",
+          "ar": "افتتاح أول سكة حديد ألمانية"
         },
         "description": {
           "ru": "7 декабря 1835 года открылась железная дорога между Нюрнбергом и Фюртом. Паровоз «Адлер» стал символом начала железнодорожной эпохи в Германии.",
           "de": "Am 7. Dezember 1835 wurde die Eisenbahn zwischen Nuernberg und Fuerth eroeffnet. Die Lokomotive Adler wurde zum Symbol des Beginns des Eisenbahnzeitalters in Deutschland.",
-          "en": "On 7 December 1835, the railway between Nuremberg and Fuerth opened. The locomotive Adler became a symbol of the railway age in Germany."
+          "en": "On 7 December 1835, the railway between Nuremberg and Fuerth opened. The locomotive Adler became a symbol of the railway age in Germany.",
+          "fr": "Le 7 decembre 1835, le chemin de fer entre Nuremberg et Fuerth fut inaugure. La locomotive Adler devint le symbole du debut de l'age ferroviaire en Allemagne.",
+          "es": "El 7 de diciembre de 1835 se abrio el ferrocarril entre Nuremberg y Fuerth. La locomotora Adler se convirtio en simbolo del comienzo de la era ferroviaria en Alemania.",
+          "it": "Il 7 dicembre 1835 fu aperta la ferrovia tra Norimberga e Fuerth. La locomotiva Adler divenne il simbolo dell'inizio dell'eta ferroviaria in Germania.",
+          "pt": "Em 7 de dezembro de 1835 foi inaugurada a ferrovia entre Nuremberg e Fuerth. A locomotiva Adler tornou-se simbolo do inicio da era ferroviaria na Alemanha.",
+          "nl": "Op 7 december 1835 werd de spoorlijn tussen Neurenberg en Fuerth geopend. De locomotief Adler werd het symbool van het begin van het spoorwegtijdperk in Duitsland.",
+          "pl": "7 grudnia 1835 roku otwarto kolej miedzy Norymberga a Fuerth. Lokomotywa Adler stala sie symbolem poczatku epoki kolei w Niemczech.",
+          "tr": "7 Aralik 1835'te Nurnberg ile Fuerth arasindaki demiryolu acildi. Adler lokomotifi Almanya'da demiryolu caginin baslangicinin simgesi oldu.",
+          "zh": "1835年12月7日，纽伦堡和菲尔特之间的铁路开通。蒸汽机车“鹰”成为德国铁路时代开始的象征。",
+          "ja": "1835年12月7日、ニュルンベルクとフュルトの間の鉄道が開通しました。機関車Adlerはドイツ鉄道時代の始まりの象徴となりました。",
+          "ko": "1835년 12월 7일 뉘른베르크와 퓌르트 사이의 철도가 개통되었다. 기관차 Adler는 독일 철도 시대 시작의 상징이 되었다.",
+          "hi": "7 दिसंबर 1835 को नूर्नबर्ग और फ्यूर्थ के बीच रेलवे खुली। इंजन 'Adler' जर्मनी में रेलवे युग की शुरुआत का प्रतीक बना।",
+          "ar": "في 7 ديسمبر 1835 افتتحت السكة الحديدية بين نورمبرغ وفويرت. وأصبحت القاطرة Adler رمزا لبداية عصر السكك الحديدية في ألمانيا."
         },
         "importance": {
           "ru": "Железные дороги изменили экономику, путешествия и карту связей между городами.",
           "de": "Eisenbahnen veraenderten Wirtschaft, Reisen und die Verbindungskarte zwischen Staedten.",
-          "en": "Railways changed the economy, travel and the map of connections between cities."
+          "en": "Railways changed the economy, travel and the map of connections between cities.",
+          "fr": "Les chemins de fer changerent l'economie, les voyages et la carte des liaisons entre les villes.",
+          "es": "Los ferrocarriles cambiaron la economia, los viajes y el mapa de conexiones entre ciudades.",
+          "it": "Le ferrovie cambiarono l'economia, i viaggi e la mappa dei collegamenti tra le citta.",
+          "pt": "As ferrovias mudaram a economia, as viagens e o mapa das ligacoes entre cidades.",
+          "nl": "Spoorwegen veranderden de economie, het reizen en de kaart van verbindingen tussen steden.",
+          "pl": "Koleje zmienily gospodarke, podroze i mape polaczen miedzy miastami.",
+          "tr": "Demiryollari ekonomiyi, seyahati ve kentler arasindaki baglanti haritasini degistirdi.",
+          "zh": "铁路改变了经济、旅行以及城市之间联系的地图。",
+          "ja": "鉄道は経済、旅行、都市間のつながりの地図を変えました。",
+          "ko": "철도는 경제, 여행, 도시 간 연결 지도를 바꾸었다.",
+          "hi": "रेलवे ने अर्थव्यवस्था, यात्रा और शहरों के बीच संबंधों के नक्शे को बदल दिया।",
+          "ar": "غيرت السكك الحديدية الاقتصاد والسفر وخريطة الروابط بين المدن."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Вилли Брандт получил Нобелевскую премию мира в 1971 году.",
     "de": "Willy Brandt erhielt 1971 den Friedensnobelpreis.",
-    "en": "Willy Brandt received the Nobel Peace Prize in 1971."
+    "en": "Willy Brandt received the Nobel Peace Prize in 1971.",
+    "fr": "Willy Brandt recut le prix Nobel de la paix en 1971.",
+    "es": "Willy Brandt recibio el Premio Nobel de la Paz en 1971.",
+    "it": "Willy Brandt ricevette il Premio Nobel per la pace nel 1971.",
+    "pt": "Willy Brandt recebeu o Premio Nobel da Paz em 1971.",
+    "nl": "Willy Brandt ontving in 1971 de Nobelprijs voor de Vrede.",
+    "pl": "Willy Brandt otrzymal Pokojowa Nagrode Nobla w 1971 roku.",
+    "tr": "Willy Brandt 1971'de Nobel Baris Odulu'nu aldi.",
+    "zh": "维利·勃兰特于1971年获得诺贝尔和平奖。",
+    "ja": "ヴィリー・ブラントは1971年にノーベル平和賞を受賞しました。",
+    "ko": "빌리 브란트는 1971년에 노벨 평화상을 받았다.",
+    "hi": "विली ब्रांट को 1971 में नोबेल शांति पुरस्कार मिला।",
+    "ar": "حصل فيلي برانت على جائزة نوبل للسلام عام 1971."
   },
   "sources": [
     {
