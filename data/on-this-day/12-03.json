@@ -11,17 +11,53 @@
     "title": {
       "ru": "Курт фон Шлейхер стал рейхсканцлером",
       "de": "Kurt von Schleicher wird Reichskanzler",
-      "en": "Kurt von Schleicher becomes Reich Chancellor"
+      "en": "Kurt von Schleicher becomes Reich Chancellor",
+      "fr": "Kurt von Schleicher devient chancelier du Reich",
+      "es": "Kurt von Schleicher se convierte en canciller del Reich",
+      "it": "Kurt von Schleicher diventa cancelliere del Reich",
+      "pt": "Kurt von Schleicher torna-se chanceler do Reich",
+      "nl": "Kurt von Schleicher wordt rijkskanselier",
+      "pl": "Kurt von Schleicher zostaje kanclerzem Rzeszy",
+      "tr": "Kurt von Schleicher Reich sansolyesi oluyor",
+      "zh": "库尔特·冯·施莱歇尔成为帝国总理",
+      "ja": "クルト・フォン・シュライヒャーが Reich Chancellor になる",
+      "ko": "쿠르트 폰 슐라이허가 국가총리가 되다",
+      "hi": "कुर्ट फॉन श्लाइखर राइख चांसलर बने",
+      "ar": "كورت فون شلايشر يصبح مستشار الرايخ"
     },
     "description": {
       "ru": "3 декабря 1932 года президент Пауль фон Гинденбург назначил генерала Курта фон Шлейхера рейхсканцлером. Его кабинет стал последним правительством Веймарской республики перед назначением Гитлера.",
       "de": "Am 3. Dezember 1932 ernannte Praesident Paul von Hindenburg General Kurt von Schleicher zum Reichskanzler. Sein Kabinett wurde die letzte Regierung der Weimarer Republik vor Hitlers Ernennung.",
-      "en": "On 3 December 1932, President Paul von Hindenburg appointed General Kurt von Schleicher Reich Chancellor. His cabinet became the last government of the Weimar Republic before Hitler's appointment."
+      "en": "On 3 December 1932, President Paul von Hindenburg appointed General Kurt von Schleicher Reich Chancellor. His cabinet became the last government of the Weimar Republic before Hitler's appointment.",
+      "fr": "Le 3 decembre 1932, le president Paul von Hindenburg nomma le general Kurt von Schleicher chancelier du Reich. Son cabinet devint le dernier gouvernement de la Republique de Weimar avant la nomination de Hitler.",
+      "es": "El 3 de diciembre de 1932, el presidente Paul von Hindenburg nombro al general Kurt von Schleicher canciller del Reich. Su gabinete fue el ultimo gobierno de la Republica de Weimar antes del nombramiento de Hitler.",
+      "it": "Il 3 dicembre 1932 il presidente Paul von Hindenburg nomino il generale Kurt von Schleicher cancelliere del Reich. Il suo gabinetto divenne l'ultimo governo della Repubblica di Weimar prima della nomina di Hitler.",
+      "pt": "Em 3 de dezembro de 1932, o presidente Paul von Hindenburg nomeou o general Kurt von Schleicher chanceler do Reich. Seu gabinete tornou-se o ultimo governo da Republica de Weimar antes da nomeacao de Hitler.",
+      "nl": "Op 3 december 1932 benoemde president Paul von Hindenburg generaal Kurt von Schleicher tot rijkskanselier. Zijn kabinet werd de laatste regering van de Weimarrepubliek voor Hitlers benoeming.",
+      "pl": "3 grudnia 1932 roku prezydent Paul von Hindenburg mianowal generala Kurta von Schleichera kanclerzem Rzeszy. Jego gabinet stal sie ostatnim rzadem Republiki Weimarskiej przed mianowaniem Hitlera.",
+      "tr": "3 Aralik 1932'de Cumhurbaskani Paul von Hindenburg, General Kurt von Schleicher'i Reich sansolyesi olarak atadi. Kabinesi, Hitler'in atanmasindan once Weimar Cumhuriyeti'nin son hukumeti oldu.",
+      "zh": "1932年12月3日，总统保罗·冯·兴登堡任命库尔特·冯·施莱歇尔将军为帝国总理。他的内阁成为希特勒被任命前魏玛共和国的最后一届政府。",
+      "ja": "1932年12月3日、パウル・フォン・ヒンデンブルク大統領はクルト・フォン・シュライヒャー将軍をライヒ首相に任命しました。彼の内閣は、ヒトラー任命前のワイマール共和国最後の政府となりました。",
+      "ko": "1932년 12월 3일 파울 폰 힌덴부르크 대통령은 쿠르트 폰 슐라이허 장군을 국가총리로 임명했다. 그의 내각은 히틀러 임명 전 바이마르 공화국의 마지막 정부가 되었다.",
+      "hi": "3 दिसंबर 1932 को राष्ट्रपति पॉल फॉन हिंडनबर्ग ने जनरल कुर्ट फॉन श्लाइखर को राइख चांसलर नियुक्त किया। उनका मंत्रिमंडल हिटलर की नियुक्ति से पहले वाइमर गणराज्य की अंतिम सरकार बना।",
+      "ar": "في 3 ديسمبر 1932 عين الرئيس باول فون هيندنبورغ الجنرال كورت فون شلايشر مستشارا للرايخ. وأصبحت حكومته آخر حكومة لجمهورية فايمار قبل تعيين هتلر."
     },
     "importance": {
       "ru": "Дата показывает последний кризис Веймара: парламентская демократия уже была почти парализована, а элиты искали выход через президентские кабинеты.",
       "de": "Das Datum zeigt die letzte Krise Weimars: Die parlamentarische Demokratie war fast gelaehmt, und Eliten suchten den Ausweg ueber Praesidialkabinette.",
-      "en": "The date shows Weimar's final crisis: parliamentary democracy was almost paralyzed, and elites sought a way out through presidential cabinets."
+      "en": "The date shows Weimar's final crisis: parliamentary democracy was almost paralyzed, and elites sought a way out through presidential cabinets.",
+      "fr": "Cette date montre la derniere crise de Weimar: la democratie parlementaire etait presque paralysee, et les elites cherchaient une issue par des cabinets presidentiels.",
+      "es": "La fecha muestra la crisis final de Weimar: la democracia parlamentaria estaba casi paralizada y las elites buscaban una salida mediante gabinetes presidenciales.",
+      "it": "La data mostra l'ultima crisi di Weimar: la democrazia parlamentare era quasi paralizzata e le elite cercavano una via d'uscita tramite gabinetti presidenziali.",
+      "pt": "A data mostra a crise final de Weimar: a democracia parlamentar estava quase paralisada, e as elites buscavam uma saida por meio de gabinetes presidenciais.",
+      "nl": "De datum toont de laatste crisis van Weimar: de parlementaire democratie was bijna verlamd en elites zochten een uitweg via presidentiele kabinetten.",
+      "pl": "Ta data pokazuje ostatni kryzys Weimaru: demokracja parlamentarna byla juz prawie sparalizowana, a elity szukaly wyjscia przez gabinety prezydenckie.",
+      "tr": "Bu tarih Weimar'in son krizini gosterir: parlamenter demokrasi neredeyse felc olmus, elitler de cikisi baskanlik kabinelerinde ariyordu.",
+      "zh": "这个日期显示了魏玛的最后危机：议会民主几乎瘫痪，精英们试图通过总统内阁寻找出路。",
+      "ja": "この日はワイマール最後の危機を示しています。議会制民主主義はほぼ麻痺し、エリートたちは大統領内閣による出口を探していました。",
+      "ko": "이 날짜는 바이마르의 마지막 위기를 보여 준다. 의회 민주주의는 거의 마비되었고 엘리트들은 대통령 내각을 통해 출구를 찾으려 했다.",
+      "hi": "यह तारीख वाइमर के अंतिम संकट को दिखाती है: संसदीय लोकतंत्र लगभग ठप था और अभिजात वर्ग राष्ट्रपति मंत्रिमंडलों के रास्ते समाधान खोज रहा था।",
+      "ar": "يوضح هذا التاريخ أزمة فايمار الأخيرة: كانت الديمقراطية البرلمانية شبه مشلولة، وكانت النخب تبحث عن مخرج عبر الحكومات الرئاسية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Последний кабинет перед Гитлером",
           "de": "Das letzte Kabinett vor Hitler",
-          "en": "The last cabinet before Hitler"
+          "en": "The last cabinet before Hitler",
+          "fr": "Le dernier cabinet avant Hitler",
+          "es": "El ultimo gabinete antes de Hitler",
+          "it": "L'ultimo gabinetto prima di Hitler",
+          "pt": "O ultimo gabinete antes de Hitler",
+          "nl": "Het laatste kabinet voor Hitler",
+          "pl": "Ostatni gabinet przed Hitlerem",
+          "tr": "Hitler'den onceki son kabine",
+          "zh": "希特勒之前的最后一届内阁",
+          "ja": "ヒトラー前の最後の内閣",
+          "ko": "히틀러 이전 마지막 내각",
+          "hi": "हिटलर से पहले अंतिम मंत्रिमंडल",
+          "ar": "آخر حكومة قبل هتلر"
         },
         "description": {
           "ru": "Шлейхер пытался расколоть НСДАП и найти опору для правительства без устойчивого парламентского большинства. Его манёвр провалился, а уже 30 января 1933 года канцлером стал Гитлер.",
           "de": "Schleicher versuchte, die NSDAP zu spalten und eine Grundlage fuer eine Regierung ohne stabile parlamentarische Mehrheit zu finden. Sein Manoever scheiterte, und schon am 30. Januar 1933 wurde Hitler Kanzler.",
-          "en": "Schleicher tried to split the Nazi Party and find a basis for government without a stable parliamentary majority. His maneuver failed, and on 30 January 1933 Hitler became Chancellor."
+          "en": "Schleicher tried to split the Nazi Party and find a basis for government without a stable parliamentary majority. His maneuver failed, and on 30 January 1933 Hitler became Chancellor.",
+          "fr": "Schleicher tenta de diviser le NSDAP et de trouver une base pour un gouvernement sans majorite parlementaire stable. Sa manoeuvre echoua, et des le 30 janvier 1933 Hitler devint chancelier.",
+          "es": "Schleicher intento dividir al NSDAP y encontrar una base para un gobierno sin mayoria parlamentaria estable. Su maniobra fracaso y el 30 de enero de 1933 Hitler se convirtio en canciller.",
+          "it": "Schleicher tento di dividere il NSDAP e di trovare una base per un governo senza una maggioranza parlamentare stabile. La sua manovra falli e il 30 gennaio 1933 Hitler divenne cancelliere.",
+          "pt": "Schleicher tentou dividir o NSDAP e encontrar uma base para um governo sem maioria parlamentar estavel. Sua manobra fracassou, e em 30 de janeiro de 1933 Hitler tornou-se chanceler.",
+          "nl": "Schleicher probeerde de NSDAP te splitsen en een basis te vinden voor een regering zonder stabiele parlementaire meerderheid. Zijn manoeuvre mislukte en op 30 januari 1933 werd Hitler kanselier.",
+          "pl": "Schleicher probowal rozbic NSDAP i znalezc oparcie dla rzadu bez stabilnej wiekszosci parlamentarnej. Jego manewr sie nie udal, a juz 30 stycznia 1933 roku kanclerzem zostal Hitler.",
+          "tr": "Schleicher NSDAP'yi bolmeye ve istikrarli bir parlamento cogunlugu olmadan hukumet icin dayanak bulmaya calisti. Hamlesi basarisiz oldu ve 30 Ocak 1933'te Hitler sansolye oldu.",
+          "zh": "施莱歇尔试图分裂纳粹党，并为一个没有稳定议会多数的政府寻找基础。他的策略失败了，1933年1月30日希特勒成为总理。",
+          "ja": "シュライヒャーはNSDAPを分裂させ、安定した議会多数なしに政府の基盤を見つけようとしました。彼の策は失敗し、1933年1月30日にはヒトラーが首相になりました。",
+          "ko": "슐라이허는 NSDAP를 분열시키고 안정적인 의회 다수 없이 정부 기반을 찾으려 했다. 그의 책략은 실패했고 1933년 1월 30일 히틀러가 총리가 되었다.",
+          "hi": "श्लाइखर ने NSDAP को विभाजित करने और स्थिर संसदीय बहुमत के बिना सरकार का आधार खोजने की कोशिश की। उनकी चाल विफल रही और 30 जनवरी 1933 को हिटलर चांसलर बन गया।",
+          "ar": "حاول شلايشر شق NSDAP وإيجاد قاعدة لحكومة من دون أغلبية برلمانية مستقرة. فشلت مناورته، وفي 30 يناير 1933 أصبح هتلر مستشارا."
         },
         "importance": {
           "ru": "Это помогает понять, что конец демократии часто выглядит как череда процедурных решений, а не как один внезапный обвал.",
           "de": "Das hilft zu verstehen, dass das Ende einer Demokratie oft wie eine Reihe formaler Entscheidungen aussieht, nicht wie ein einziger ploetzlicher Einsturz.",
-          "en": "It helps explain that the end of a democracy often looks like a sequence of formal decisions, not one sudden collapse."
+          "en": "It helps explain that the end of a democracy often looks like a sequence of formal decisions, not one sudden collapse.",
+          "fr": "Cela aide a comprendre que la fin d'une democratie ressemble souvent a une suite de decisions formelles, et non a un effondrement soudain.",
+          "es": "Ayuda a entender que el final de una democracia a menudo parece una serie de decisiones formales, no un unico derrumbe repentino.",
+          "it": "Aiuta a capire che la fine di una democrazia spesso sembra una serie di decisioni formali, non un unico crollo improvviso.",
+          "pt": "Ajuda a entender que o fim de uma democracia muitas vezes parece uma sequencia de decisoes formais, nao um unico colapso repentino.",
+          "nl": "Het helpt te begrijpen dat het einde van een democratie vaak lijkt op een reeks formele beslissingen, niet op een plotselinge instorting.",
+          "pl": "Pomaga to zrozumiec, ze koniec demokracji czesto wyglada jak ciag formalnych decyzji, a nie jeden nagly upadek.",
+          "tr": "Bu, demokrasinin sonunun cogu zaman tek bir ani cokus degil, resmi kararlar dizisi gibi gorundugunu anlamaya yardim eder.",
+          "zh": "这有助于理解，民主的终结常常看起来像一连串程序性决定，而不是一次突然崩塌。",
+          "ja": "民主主義の終わりは、突然の崩壊ではなく、一連の形式的決定のように見えることが多いと理解する助けになります。",
+          "ko": "이는 민주주의의 끝이 하나의 갑작스러운 붕괴가 아니라 일련의 형식적 결정처럼 보이는 경우가 많다는 점을 설명한다.",
+          "hi": "यह समझने में मदद करता है कि लोकतंत्र का अंत अक्सर एक अचानक पतन जैसा नहीं, बल्कि औपचारिक निर्णयों की श्रृंखला जैसा दिखता है।",
+          "ar": "يساعد ذلك على فهم أن نهاية الديمقراطية تبدو غالبا كسلسلة من قرارات شكلية، لا كانهيار مفاجئ واحد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Генерал в политике",
           "de": "Ein General in der Politik",
-          "en": "A general in politics"
+          "en": "A general in politics",
+          "fr": "Un general en politique",
+          "es": "Un general en politica",
+          "it": "Un generale in politica",
+          "pt": "Um general na politica",
+          "nl": "Een generaal in de politiek",
+          "pl": "General w polityce",
+          "tr": "Siyasette bir general",
+          "zh": "政治中的将军",
+          "ja": "政治の中の将軍",
+          "ko": "정치 속의 장군",
+          "hi": "राजनीति में एक जनरल",
+          "ar": "جنرال في السياسة"
         },
         "description": {
           "ru": "Шлейхер был военным и политическим интриганом, связанным с рейхсвером и окружением Гинденбурга. Его карьера показывает, насколько сильно армейские круги влияли на политику поздней Веймарской республики.",
           "de": "Schleicher war Militaer und politischer Intrigant, verbunden mit Reichswehr und Hindenburgs Umfeld. Seine Karriere zeigt, wie stark militaerische Kreise die Politik der spaeten Weimarer Republik beeinflussten.",
-          "en": "Schleicher was a soldier and political intriguer connected with the Reichswehr and Hindenburg's circle. His career shows how strongly military circles influenced late Weimar politics."
+          "en": "Schleicher was a soldier and political intriguer connected with the Reichswehr and Hindenburg's circle. His career shows how strongly military circles influenced late Weimar politics.",
+          "fr": "Schleicher etait un militaire et un intrigant politique lie a la Reichswehr et a l'entourage de Hindenburg. Sa carriere montre combien les milieux militaires influencerent la politique de la fin de Weimar.",
+          "es": "Schleicher era militar e intrigante politico, vinculado a la Reichswehr y al entorno de Hindenburg. Su carrera muestra cuanto influyeron los circulos militares en la politica tardia de Weimar.",
+          "it": "Schleicher era un militare e un intrigante politico legato alla Reichswehr e all'ambiente di Hindenburg. La sua carriera mostra quanto i circoli militari influenzassero la politica della tarda Weimar.",
+          "pt": "Schleicher era militar e intrigante politico, ligado ao Reichswehr e ao circulo de Hindenburg. Sua carreira mostra o quanto os meios militares influenciaram a politica do fim de Weimar.",
+          "nl": "Schleicher was militair en politiek intrigant, verbonden met de Reichswehr en de kring rond Hindenburg. Zijn loopbaan laat zien hoe sterk militaire kringen de late Weimarpolitiek beinvloedden.",
+          "pl": "Schleicher byl wojskowym i politycznym intrygantem zwiazanym z Reichswehra i otoczeniem Hindenburga. Jego kariera pokazuje, jak silnie kregi wojskowe wplywaly na polityke poznej Republiki Weimarskiej.",
+          "tr": "Schleicher Reichswehr ve Hindenburg'un cevresiyle baglantili bir asker ve siyasi entrikaciydi. Kariyeri, askeri cevrelerin gec Weimar siyasetini ne kadar guclu etkiledigini gosterir.",
+          "zh": "施莱歇尔既是军人，也是政治阴谋家，与国防军和兴登堡圈子有联系。他的经历显示了军方圈子对魏玛共和国晚期政治的强烈影响。",
+          "ja": "シュライヒャーは軍人であり、ライヒスヴェーアやヒンデンブルク周辺と結びついた政治的策士でもありました。彼の経歴は、軍部がワイマール後期政治にどれほど強く影響したかを示しています。",
+          "ko": "슐라이허는 군인이자 정치적 책략가였으며 라이히스베어와 힌덴부르크 주변 인물들과 연결되어 있었다. 그의 경력은 군부가 후기 바이마르 정치에 얼마나 강하게 영향을 미쳤는지 보여 준다.",
+          "hi": "श्लाइखर सैनिक और राजनीतिक साजिशकर्ता थे, जिनका संबंध राइख्सवेहर और हिंडनबर्ग के घेरे से था। उनका करियर दिखाता है कि देर वाइमर राजनीति पर सैन्य हलकों का कितना गहरा प्रभाव था।",
+          "ar": "كان شلايشر عسكريا ومناورا سياسيا مرتبطا بالرايخسفير ودائرة هيندنبورغ. وتظهر مسيرته مدى تأثير الأوساط العسكرية في سياسة فايمار المتأخرة."
         },
         "importance": {
           "ru": "Так школьнику легче увидеть, почему слабая демократия опасна, когда ключевые решения уходят за кулисы.",
           "de": "So wird leichter sichtbar, warum eine schwache Demokratie gefaehrlich ist, wenn wichtige Entscheidungen hinter die Kulissen wandern.",
-          "en": "This makes it easier to see why a weak democracy is dangerous when key decisions move behind the scenes."
+          "en": "This makes it easier to see why a weak democracy is dangerous when key decisions move behind the scenes.",
+          "fr": "Cela permet de voir plus facilement pourquoi une democratie faible est dangereuse quand les decisions essentielles passent en coulisses.",
+          "es": "Asi es mas facil ver por que una democracia debil es peligrosa cuando las decisiones clave pasan entre bastidores.",
+          "it": "Cosi e piu facile vedere perche una democrazia debole e pericolosa quando le decisioni chiave si spostano dietro le quinte.",
+          "pt": "Assim fica mais facil ver por que uma democracia fraca e perigosa quando decisoes essenciais passam para os bastidores.",
+          "nl": "Zo wordt duidelijker waarom een zwakke democratie gevaarlijk is wanneer belangrijke beslissingen achter de schermen verdwijnen.",
+          "pl": "Tak latwiej zobaczyc, dlaczego slaba demokracja jest niebezpieczna, gdy kluczowe decyzje przechodza za kulisy.",
+          "tr": "Boylece, kilit kararlar perde arkasina tasindiginda zayif bir demokrasinin neden tehlikeli oldugunu gormek kolaylasir.",
+          "zh": "这样更容易看出，当关键决定转入幕后时，脆弱的民主为什么危险。",
+          "ja": "重要な決定が舞台裏へ移るとき、弱い民主主義がなぜ危険なのかが見えやすくなります。",
+          "ko": "핵심 결정이 막후로 넘어갈 때 약한 민주주의가 왜 위험한지 더 쉽게 볼 수 있다.",
+          "hi": "इससे यह समझना आसान होता है कि जब मुख्य फैसले पर्दे के पीछे चले जाते हैं तो कमजोर लोकतंत्र क्यों खतरनाक होता है।",
+          "ar": "يسهل ذلك رؤية سبب خطورة الديمقراطية الضعيفة عندما تنتقل القرارات الأساسية إلى الكواليس."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Шлейхер оставался канцлером меньше двух месяцев.",
     "de": "Schleicher blieb weniger als zwei Monate Reichskanzler.",
-    "en": "Schleicher remained Chancellor for less than two months."
+    "en": "Schleicher remained Chancellor for less than two months.",
+    "fr": "Schleicher resta chancelier moins de deux mois.",
+    "es": "Schleicher permanecio como canciller menos de dos meses.",
+    "it": "Schleicher rimase cancelliere per meno di due mesi.",
+    "pt": "Schleicher permaneceu chanceler por menos de dois meses.",
+    "nl": "Schleicher bleef minder dan twee maanden kanselier.",
+    "pl": "Schleicher pozostawal kanclerzem mniej niz dwa miesiace.",
+    "tr": "Schleicher iki aydan daha az sure sansolye kaldi.",
+    "zh": "施莱歇尔担任总理不到两个月。",
+    "ja": "シュライヒャーが首相でいた期間は2か月未満でした。",
+    "ko": "슐라이허는 두 달도 안 되는 기간 동안 총리로 있었다.",
+    "hi": "श्लाइखर दो महीने से भी कम समय तक चांसलर रहे।",
+    "ar": "بقي شلايشر مستشارا أقل من شهرين."
   },
   "sources": [
     {

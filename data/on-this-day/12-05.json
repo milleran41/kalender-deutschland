@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Вернер Гейзенберг",
       "de": "Werner Heisenberg wird geboren",
-      "en": "Werner Heisenberg is born"
+      "en": "Werner Heisenberg is born",
+      "fr": "Naissance de Werner Heisenberg",
+      "es": "Nace Werner Heisenberg",
+      "it": "Nasce Werner Heisenberg",
+      "pt": "Nasce Werner Heisenberg",
+      "nl": "Werner Heisenberg wordt geboren",
+      "pl": "Urodzil sie Werner Heisenberg",
+      "tr": "Werner Heisenberg doguyor",
+      "zh": "维尔纳·海森堡出生",
+      "ja": "ヴェルナー・ハイゼンベルクが生まれる",
+      "ko": "베르너 하이젠베르크가 태어나다",
+      "hi": "वर्नर हाइजेनबर्ग का जन्म हुआ",
+      "ar": "ولادة فيرنر هايزنبرغ"
     },
     "description": {
       "ru": "5 декабря 1901 года в Вюрцбурге родился Вернер Гейзенберг, один из создателей квантовой механики. Его имя особенно известно благодаря принципу неопределённости.",
       "de": "Am 5. Dezember 1901 wurde Werner Heisenberg in Wuerzburg geboren, einer der Begruender der Quantenmechanik. Besonders bekannt ist sein Name durch die Unschaerferelation.",
-      "en": "On 5 December 1901, Werner Heisenberg was born in Wuerzburg. He became one of the founders of quantum mechanics and is especially known for the uncertainty principle."
+      "en": "On 5 December 1901, Werner Heisenberg was born in Wuerzburg. He became one of the founders of quantum mechanics and is especially known for the uncertainty principle.",
+      "fr": "Le 5 decembre 1901, Werner Heisenberg naquit a Wuerzburg. Il devint l'un des fondateurs de la mecanique quantique et son nom est surtout connu grace au principe d'incertitude.",
+      "es": "El 5 de diciembre de 1901 nacio Werner Heisenberg en Wuerzburg. Se convirtio en uno de los fundadores de la mecanica cuantica y es especialmente conocido por el principio de incertidumbre.",
+      "it": "Il 5 dicembre 1901 nacque a Wuerzburg Werner Heisenberg. Divenne uno dei fondatori della meccanica quantistica ed e noto soprattutto per il principio di indeterminazione.",
+      "pt": "Em 5 de dezembro de 1901 nasceu Werner Heisenberg em Wuerzburg. Ele tornou-se um dos fundadores da mecanica quantica e e especialmente conhecido pelo principio da incerteza.",
+      "nl": "Op 5 december 1901 werd Werner Heisenberg in Wuerzburg geboren. Hij werd een van de grondleggers van de kwantummechanica en is vooral bekend door het onzekerheidsprincipe.",
+      "pl": "5 grudnia 1901 roku w Wuerzburgu urodzil sie Werner Heisenberg. Stal sie jednym z tworcow mechaniki kwantowej i jest szczegolnie znany z zasady nieoznaczonosci.",
+      "tr": "5 Aralik 1901'de Werner Heisenberg Wuerzburg'da dogdu. Kuantum mekaniginin kurucularindan biri oldu ve ozellikle belirsizlik ilkesiyle taninir.",
+      "zh": "1901年12月5日，维尔纳·海森堡出生于维尔茨堡。他成为量子力学的创始人之一，尤其因不确定性原理而闻名。",
+      "ja": "1901年12月5日、ヴェルナー・ハイゼンベルクがヴュルツブルクで生まれました。彼は量子力学の創始者の一人となり、特に不確定性原理で知られています。",
+      "ko": "1901년 12월 5일 베르너 하이젠베르크가 뷔르츠부르크에서 태어났다. 그는 양자역학의 창시자 중 한 명이 되었고 특히 불확정성 원리로 알려져 있다.",
+      "hi": "5 दिसंबर 1901 को वर्नर हाइजेनबर्ग का जन्म वुर्जबर्ग में हुआ। वे क्वांटम यांत्रिकी के संस्थापकों में से एक बने और विशेष रूप से अनिश्चितता सिद्धांत के लिए प्रसिद्ध हैं।",
+      "ar": "في 5 ديسمبر 1901 وُلد فيرنر هايزنبرغ في فورتسبورغ. أصبح أحد مؤسسي ميكانيكا الكم، واشتهر خاصة بمبدأ عدم اليقين."
     },
     "importance": {
       "ru": "Гейзенберг изменил представления физиков о микромире и получил Нобелевскую премию по физике.",
       "de": "Heisenberg veraenderte das physikalische Bild der Mikrowelt und erhielt den Nobelpreis fuer Physik.",
-      "en": "Heisenberg changed physicists' understanding of the microscopic world and received the Nobel Prize in Physics."
+      "en": "Heisenberg changed physicists' understanding of the microscopic world and received the Nobel Prize in Physics.",
+      "fr": "Heisenberg changea la vision des physiciens du monde microscopique et recut le prix Nobel de physique.",
+      "es": "Heisenberg cambio la comprension de los fisicos sobre el micromundo y recibio el Premio Nobel de Fisica.",
+      "it": "Heisenberg cambio la visione dei fisici del micromondo e ricevette il Premio Nobel per la fisica.",
+      "pt": "Heisenberg mudou a compreensao dos fisicos sobre o micromundo e recebeu o Premio Nobel de Fisica.",
+      "nl": "Heisenberg veranderde het beeld van natuurkundigen van de microwereld en kreeg de Nobelprijs voor Natuurkunde.",
+      "pl": "Heisenberg zmienil wyobrazenia fizykow o mikroswiecie i otrzymal Nagrode Nobla z fizyki.",
+      "tr": "Heisenberg fizikcilerin mikro dunya anlayisini degistirdi ve Nobel Fizik Odulu'nu aldi.",
+      "zh": "海森堡改变了物理学家对微观世界的理解，并获得诺贝尔物理学奖。",
+      "ja": "ハイゼンベルクは物理学者の微視的世界への理解を変え、ノーベル物理学賞を受賞しました。",
+      "ko": "하이젠베르크는 물리학자들의 미시 세계 이해를 바꾸었고 노벨 물리학상을 받았다.",
+      "hi": "हाइजेनबर्ग ने सूक्ष्म जगत के बारे में भौतिकविदों की समझ बदल दी और भौतिकी का नोबेल पुरस्कार प्राप्त किया।",
+      "ar": "غيّر هايزنبرغ فهم الفيزيائيين للعالم المجهري وحصل على جائزة نوبل في الفيزياء."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Учёный из Вюрцбурга",
           "de": "Ein Wissenschaftler aus Wuerzburg",
-          "en": "A scientist from Wuerzburg"
+          "en": "A scientist from Wuerzburg",
+          "fr": "Un scientifique de Wuerzburg",
+          "es": "Un cientifico de Wuerzburg",
+          "it": "Uno scienziato di Wuerzburg",
+          "pt": "Um cientista de Wuerzburg",
+          "nl": "Een wetenschapper uit Wuerzburg",
+          "pl": "Naukowiec z Wuerzburga",
+          "tr": "Wuerzburg'dan bir bilim insani",
+          "zh": "来自维尔茨堡的科学家",
+          "ja": "ヴュルツブルク出身の科学者",
+          "ko": "뷔르츠부르크 출신 과학자",
+          "hi": "वुर्जबर्ग के वैज्ञानिक",
+          "ar": "عالم من فورتسبورغ"
         },
         "description": {
           "ru": "Гейзенберг учился и работал в нескольких немецких научных центрах, включая Мюнхен, Гёттинген и Лейпциг. Его биография хорошо показывает, насколько важны были университетские города Германии.",
           "de": "Heisenberg lernte und arbeitete in mehreren deutschen Wissenschaftszentren, darunter Muenchen, Goettingen und Leipzig. Seine Biografie zeigt, wie wichtig deutsche Universitaetsstaedte waren.",
-          "en": "Heisenberg studied and worked in several German scientific centers, including Munich, Goettingen and Leipzig. His biography shows how important Germany's university cities were."
+          "en": "Heisenberg studied and worked in several German scientific centers, including Munich, Goettingen and Leipzig. His biography shows how important Germany's university cities were.",
+          "fr": "Heisenberg etudia et travailla dans plusieurs centres scientifiques allemands, dont Munich, Goettingen et Leipzig. Sa biographie montre l'importance des villes universitaires allemandes.",
+          "es": "Heisenberg estudio y trabajo en varios centros cientificos alemanes, incluidos Munich, Goettingen y Leipzig. Su biografia muestra lo importantes que fueron las ciudades universitarias de Alemania.",
+          "it": "Heisenberg studio e lavoro in diversi centri scientifici tedeschi, tra cui Monaco, Goettingen e Lipsia. La sua biografia mostra quanto fossero importanti le citta universitarie tedesche.",
+          "pt": "Heisenberg estudou e trabalhou em varios centros cientificos alemaes, incluindo Munique, Goettingen e Leipzig. Sua biografia mostra como as cidades universitarias da Alemanha eram importantes.",
+          "nl": "Heisenberg studeerde en werkte in verschillende Duitse wetenschappelijke centra, waaronder Muenchen, Goettingen en Leipzig. Zijn biografie laat zien hoe belangrijk Duitse universiteitssteden waren.",
+          "pl": "Heisenberg uczyl sie i pracowal w kilku niemieckich centrach naukowych, w tym w Monachium, Goettingen i Lipsku. Jego biografia pokazuje, jak wazne byly niemieckie miasta uniwersyteckie.",
+          "tr": "Heisenberg, Munih, Goettingen ve Leipzig dahil birkac Alman bilim merkezinde okudu ve calisti. Biyografisi Almanya'nin universite kentlerinin ne kadar onemli oldugunu gosterir.",
+          "zh": "海森堡曾在多个德国科学中心学习和工作，包括慕尼黑、哥廷根和莱比锡。他的生平很好地说明了德国大学城市的重要性。",
+          "ja": "ハイゼンベルクはミュンヘン、ゲッティンゲン、ライプツィヒを含む複数のドイツ科学中心で学び、働きました。彼の経歴は、ドイツの大学都市がどれほど重要だったかを示しています。",
+          "ko": "하이젠베르크는 뮌헨, 괴팅겐, 라이프치히를 포함한 여러 독일 과학 중심지에서 공부하고 일했다. 그의 생애는 독일의 대학 도시들이 얼마나 중요했는지 보여 준다.",
+          "hi": "हाइजेनबर्ग ने म्यूनिख, गोटिंगेन और लाइपज़िग सहित कई जर्मन वैज्ञानिक केंद्रों में अध्ययन और काम किया। उनकी जीवनी दिखाती है कि जर्मनी के विश्वविद्यालयी शहर कितने महत्वपूर्ण थे।",
+          "ar": "درس هايزنبرغ وعمل في عدة مراكز علمية ألمانية، منها ميونخ وغوتنغن ولايبزيغ. وتظهر سيرته مدى أهمية المدن الجامعية الألمانية."
         },
         "importance": {
           "ru": "Через одну биографию можно увидеть целую карту немецкой науки XX века.",
           "de": "An einer Biografie laesst sich eine ganze Karte der deutschen Wissenschaft des 20. Jahrhunderts erkennen.",
-          "en": "One biography can reveal a whole map of 20th-century German science."
+          "en": "One biography can reveal a whole map of 20th-century German science.",
+          "fr": "Une seule biographie peut reveler toute une carte de la science allemande du XXe siecle.",
+          "es": "Una sola biografia puede mostrar todo un mapa de la ciencia alemana del siglo XX.",
+          "it": "Una sola biografia puo rivelare un'intera mappa della scienza tedesca del XX secolo.",
+          "pt": "Uma unica biografia pode revelar todo um mapa da ciencia alema do seculo XX.",
+          "nl": "Een biografie kan een hele kaart van de Duitse wetenschap van de twintigste eeuw laten zien.",
+          "pl": "Jedna biografia moze pokazac cala mape niemieckiej nauki XX wieku.",
+          "tr": "Tek bir biyografi, 20. yuzyil Alman biliminin butun bir haritasini gosterebilir.",
+          "zh": "通过一份传记，可以看到20世纪德国科学的一整张地图。",
+          "ja": "一つの伝記から、20世紀ドイツ科学の地図全体を見ることができます。",
+          "ko": "한 사람의 전기만으로도 20세기 독일 과학의 전체 지도를 볼 수 있다.",
+          "hi": "एक ही जीवनी से बीसवीं सदी के जर्मन विज्ञान का पूरा नक्शा देखा जा सकता है।",
+          "ar": "يمكن من خلال سيرة واحدة رؤية خريطة كاملة للعلم الألماني في القرن العشرين."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Принцип неопределённости",
           "de": "Die Unschaerferelation",
-          "en": "The uncertainty principle"
+          "en": "The uncertainty principle",
+          "fr": "Le principe d'incertitude",
+          "es": "El principio de incertidumbre",
+          "it": "Il principio di indeterminazione",
+          "pt": "O principio da incerteza",
+          "nl": "Het onzekerheidsprincipe",
+          "pl": "Zasada nieoznaczonosci",
+          "tr": "Belirsizlik ilkesi",
+          "zh": "不确定性原理",
+          "ja": "不確定性原理",
+          "ko": "불확정성 원리",
+          "hi": "अनिश्चितता सिद्धांत",
+          "ar": "مبدأ عدم اليقين"
         },
         "description": {
           "ru": "Гейзенберг показал, что в квантовой физике нельзя одновременно с любой точностью знать некоторые пары величин, например положение и импульс частицы. Это не ошибка прибора, а свойство микромира.",
           "de": "Heisenberg zeigte, dass man in der Quantenphysik bestimmte Groessenpaare, etwa Ort und Impuls eines Teilchens, nicht zugleich beliebig genau kennen kann. Das ist kein Messfehler, sondern eine Eigenschaft der Mikrowelt.",
-          "en": "Heisenberg showed that in quantum physics some pairs of quantities, such as a particle's position and momentum, cannot both be known with unlimited precision. This is not an instrument error but a feature of the microscopic world."
+          "en": "Heisenberg showed that in quantum physics some pairs of quantities, such as a particle's position and momentum, cannot both be known with unlimited precision. This is not an instrument error but a feature of the microscopic world.",
+          "fr": "Heisenberg montra qu'en physique quantique certaines paires de grandeurs, comme la position et l'impulsion d'une particule, ne peuvent pas etre connues simultanement avec une precision illimitee. Ce n'est pas une erreur d'instrument, mais une propriete du monde microscopique.",
+          "es": "Heisenberg mostro que en la fisica cuantica algunos pares de magnitudes, como la posicion y el momento de una particula, no pueden conocerse al mismo tiempo con precision ilimitada. No es un error del instrumento, sino una propiedad del micromundo.",
+          "it": "Heisenberg mostro che nella fisica quantistica alcune coppie di grandezze, come posizione e impulso di una particella, non possono essere conosciute insieme con precisione illimitata. Non e un errore dello strumento, ma una proprieta del micromondo.",
+          "pt": "Heisenberg mostrou que na fisica quantica alguns pares de grandezas, como posicao e momento de uma particula, nao podem ser conhecidos ao mesmo tempo com precisao ilimitada. Isso nao e erro do aparelho, mas uma propriedade do micromundo.",
+          "nl": "Heisenberg liet zien dat in de kwantumfysica bepaalde paren grootheden, zoals plaats en impuls van een deeltje, niet allebei met onbeperkte nauwkeurigheid bekend kunnen zijn. Dat is geen meetfout, maar een eigenschap van de microwereld.",
+          "pl": "Heisenberg pokazal, ze w fizyce kwantowej niektorych par wielkosci, na przyklad polozenia i pedu czastki, nie mozna jednoczesnie znac z dowolna dokladnoscia. To nie blad przyrzadu, lecz cecha mikroswiata.",
+          "tr": "Heisenberg, kuantum fiziginde bir parcacigin konumu ve momentumu gibi bazi buyukluk ciftlerinin ayni anda sinirsiz kesinlikle bilinemeyecegini gosterdi. Bu bir alet hatasi degil, mikro dunyanin bir ozelligidir.",
+          "zh": "海森堡表明，在量子物理中，某些成对的量，例如粒子的位置和动量，不能同时以无限精度知道。这不是仪器误差，而是微观世界的性质。",
+          "ja": "ハイゼンベルクは、量子物理では粒子の位置と運動量のような一部の量の組を、同時に無制限の精度で知ることはできないと示しました。これは測定器の誤差ではなく、微視的世界の性質です。",
+          "ko": "하이젠베르크는 양자물리학에서 입자의 위치와 운동량 같은 일부 양의 쌍을 동시에 무한한 정밀도로 알 수 없음을 보였다. 이는 기기 오류가 아니라 미시 세계의 성질이다.",
+          "hi": "हाइजेनबर्ग ने दिखाया कि क्वांटम भौतिकी में कण की स्थिति और संवेग जैसी कुछ राशियों के जोड़े को एक साथ असीमित सटीकता से नहीं जाना जा सकता। यह उपकरण की गलती नहीं, बल्कि सूक्ष्म जगत का गुण है।",
+          "ar": "أظهر هايزنبرغ أن في فيزياء الكم لا يمكن معرفة بعض أزواج الكميات، مثل موضع الجسيم وزخمه، في الوقت نفسه بدقة غير محدودة. ليس هذا خطأ في الجهاز، بل خاصية للعالم المجهري."
         },
         "importance": {
           "ru": "Эта идея стала одной из самых известных и трудных идей современной физики.",
           "de": "Diese Idee wurde zu einer der bekanntesten und schwierigsten Ideen der modernen Physik.",
-          "en": "The idea became one of the best-known and most challenging ideas in modern physics."
+          "en": "The idea became one of the best-known and most challenging ideas in modern physics.",
+          "fr": "Cette idee devint l'une des plus connues et des plus difficiles de la physique moderne.",
+          "es": "La idea se convirtio en una de las mas conocidas y dificiles de la fisica moderna.",
+          "it": "L'idea divenne una delle piu note e difficili della fisica moderna.",
+          "pt": "A ideia tornou-se uma das mais conhecidas e dificeis da fisica moderna.",
+          "nl": "Het idee werd een van de bekendste en moeilijkste ideeen van de moderne natuurkunde.",
+          "pl": "Ta idea stala sie jedna z najbardziej znanych i najtrudniejszych idei wspolczesnej fizyki.",
+          "tr": "Bu fikir modern fizigin en bilinen ve en zor fikirlerinden biri oldu.",
+          "zh": "这个思想成为现代物理中最著名也最难理解的思想之一。",
+          "ja": "この考えは、現代物理学で最も有名で難しい考えの一つになりました。",
+          "ko": "이 생각은 현대 물리학에서 가장 잘 알려졌고 어려운 생각 중 하나가 되었다.",
+          "hi": "यह विचार आधुनिक भौतिकी के सबसे प्रसिद्ध और कठिन विचारों में से एक बन गया।",
+          "ar": "أصبحت هذه الفكرة من أشهر وأصعب أفكار الفيزياء الحديثة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Гейзенберг получил Нобелевскую премию 1932 года, но награда была вручена в 1933 году.",
     "de": "Heisenberg erhielt den Nobelpreis fuer 1932; die Auszeichnung wurde ihm jedoch 1933 ueberreicht.",
-    "en": "Heisenberg received the 1932 Nobel Prize, but the award was presented to him in 1933."
+    "en": "Heisenberg received the 1932 Nobel Prize, but the award was presented to him in 1933.",
+    "fr": "Heisenberg recut le prix Nobel pour 1932, mais la distinction lui fut remise en 1933.",
+    "es": "Heisenberg recibio el Premio Nobel de 1932, pero el galardon se le entrego en 1933.",
+    "it": "Heisenberg ricevette il Premio Nobel per il 1932, ma il riconoscimento gli fu consegnato nel 1933.",
+    "pt": "Heisenberg recebeu o Premio Nobel de 1932, mas a premiacao foi entregue a ele em 1933.",
+    "nl": "Heisenberg kreeg de Nobelprijs voor 1932, maar de onderscheiding werd hem in 1933 uitgereikt.",
+    "pl": "Heisenberg otrzymal Nagrode Nobla za 1932 rok, ale wyroznienie wreczono mu w 1933 roku.",
+    "tr": "Heisenberg 1932 Nobel Odulu'nu aldi, ancak odul ona 1933'te verildi.",
+    "zh": "海森堡获得的是1932年诺贝尔奖，但奖项在1933年颁给他。",
+    "ja": "ハイゼンベルクは1932年のノーベル賞を受賞しましたが、授賞は1933年に行われました。",
+    "ko": "하이젠베르크는 1932년 노벨상을 받았지만, 상은 1933년에 수여되었다.",
+    "hi": "हाइजेनबर्ग को 1932 का नोबेल पुरस्कार मिला, लेकिन पुरस्कार उन्हें 1933 में प्रदान किया गया।",
+    "ar": "حصل هايزنبرغ على جائزة نوبل لعام 1932، لكن الجائزة قُدمت له في عام 1933."
   },
   "sources": [
     {

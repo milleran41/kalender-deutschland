@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Германии открылся первый McDonald's",
       "de": "Der erste McDonald's in Deutschland wird eroeffnet",
-      "en": "The first McDonald's in Germany opens"
+      "en": "The first McDonald's in Germany opens",
+      "fr": "Le premier McDonald's ouvre en Allemagne",
+      "es": "Abre el primer McDonald's en Alemania",
+      "it": "Apre il primo McDonald's in Germania",
+      "pt": "Abre o primeiro McDonald's na Alemanha",
+      "nl": "De eerste McDonald's in Duitsland opent",
+      "pl": "W Niemczech otwiera sie pierwszy McDonald's",
+      "tr": "Almanya'da ilk McDonald's aciliyor",
+      "zh": "德国第一家麦当劳开业",
+      "ja": "ドイツ初のマクドナルドが開店する",
+      "ko": "독일 첫 맥도날드가 문을 열다",
+      "hi": "जर्मनी में पहला McDonald's खुला",
+      "ar": "افتتاح أول مطعم McDonald's في ألمانيا"
     },
     "description": {
       "ru": "4 декабря 1971 года в мюнхенском районе Обергизинг открылся первый McDonald's в Германии. Это стало заметным знаком американской массовой культуры в послевоенной ФРГ.",
       "de": "Am 4. Dezember 1971 wurde im Muenchner Stadtteil Obergiesing der erste McDonald's in Deutschland eroeffnet. Das wurde zu einem sichtbaren Zeichen amerikanischer Massenkultur in der Nachkriegs-Bundesrepublik.",
-      "en": "On 4 December 1971, the first McDonald's in Germany opened in Munich's Obergiesing district. It became a visible sign of American mass culture in postwar West Germany."
+      "en": "On 4 December 1971, the first McDonald's in Germany opened in Munich's Obergiesing district. It became a visible sign of American mass culture in postwar West Germany.",
+      "fr": "Le 4 decembre 1971, le premier McDonald's d'Allemagne ouvrit dans le quartier munichois d'Obergiesing. Il devint un signe visible de la culture de masse americaine dans la RFA d'apres-guerre.",
+      "es": "El 4 de diciembre de 1971 abrio el primer McDonald's de Alemania en el barrio muniques de Obergiesing. Fue una senal visible de la cultura de masas estadounidense en la RFA de posguerra.",
+      "it": "Il 4 dicembre 1971 apri il primo McDonald's in Germania nel quartiere Obergiesing di Monaco. Divenne un segno visibile della cultura di massa americana nella Repubblica Federale del dopoguerra.",
+      "pt": "Em 4 de dezembro de 1971 abriu o primeiro McDonald's da Alemanha no bairro Obergiesing, em Munique. Tornou-se um sinal visivel da cultura de massa americana na Alemanha Ocidental do pos-guerra.",
+      "nl": "Op 4 december 1971 opende de eerste McDonald's in Duitsland in de Muenchense wijk Obergiesing. Het werd een zichtbaar teken van Amerikaanse massacultuur in het naoorlogse West-Duitsland.",
+      "pl": "4 grudnia 1971 roku w monachijskiej dzielnicy Obergiesing otwarto pierwszy McDonald's w Niemczech. Stal sie widocznym znakiem amerykanskiej kultury masowej w powojennej RFN.",
+      "tr": "4 Aralik 1971'de Almanya'nin ilk McDonald's restorani Munih'in Obergiesing semtinde acildi. Bu, savas sonrasi Bati Almanya'da Amerikan kitle kulturunun gorunur bir isareti oldu.",
+      "zh": "1971年12月4日，德国第一家麦当劳在慕尼黑奥伯吉辛区开业。它成为战后西德美国大众文化的明显标志。",
+      "ja": "1971年12月4日、ドイツ初のMcDonald'sがミュンヘンのオーバーギージング地区に開店しました。それは戦後西ドイツにおけるアメリカ大衆文化の目に見える印となりました。",
+      "ko": "1971년 12월 4일 독일 첫 McDonald's가 뮌헨 오버기징 지구에 문을 열었다. 이는 전후 서독에서 미국 대중문화의 뚜렷한 표시가 되었다.",
+      "hi": "4 दिसंबर 1971 को जर्मनी का पहला McDonald's म्यूनिख के Obergiesing इलाके में खुला। यह युद्धोत्तर पश्चिम जर्मनी में अमेरिकी जन संस्कृति का स्पष्ट संकेत बन गया।",
+      "ar": "في 4 ديسمبر 1971 افتتح أول مطعم McDonald's في ألمانيا في حي Obergiesing في ميونخ. وأصبح علامة واضحة على الثقافة الجماهيرية الأمريكية في ألمانيا الغربية بعد الحرب."
     },
     "importance": {
       "ru": "Такая дата показывает историю Германии через повседневность: еду, городскую жизнь, рекламу и меняющиеся привычки.",
       "de": "Ein solches Datum zeigt deutsche Geschichte im Alltag: Essen, Stadtleben, Werbung und sich veraendernde Gewohnheiten.",
-      "en": "A date like this shows German history through everyday life: food, urban life, advertising and changing habits."
+      "en": "A date like this shows German history through everyday life: food, urban life, advertising and changing habits.",
+      "fr": "Une telle date montre l'histoire allemande par le quotidien: nourriture, vie urbaine, publicite et habitudes changeantes.",
+      "es": "Una fecha asi muestra la historia alemana a traves de la vida cotidiana: comida, vida urbana, publicidad y habitos cambiantes.",
+      "it": "Una data cosi mostra la storia tedesca attraverso la vita quotidiana: cibo, vita urbana, pubblicita e abitudini che cambiano.",
+      "pt": "Uma data assim mostra a historia alema pelo cotidiano: comida, vida urbana, publicidade e habitos em mudanca.",
+      "nl": "Zo'n datum toont Duitse geschiedenis via het dagelijks leven: eten, stadsleven, reclame en veranderende gewoonten.",
+      "pl": "Taka data pokazuje historie Niemiec przez codziennosc: jedzenie, zycie miejskie, reklame i zmieniajace sie zwyczaje.",
+      "tr": "Boyle bir tarih, Alman tarihini gundelik yasam uzerinden gosterir: yemek, kent hayati, reklam ve degisen aliskanliklar.",
+      "zh": "这样的日期通过日常生活展示德国历史：食物、城市生活、广告和变化中的习惯。",
+      "ja": "このような日は、食べ物、都市生活、広告、変わる習慣を通じてドイツ史を示しています。",
+      "ko": "이런 날짜는 음식, 도시 생활, 광고, 변화하는 습관 같은 일상을 통해 독일 역사를 보여 준다.",
+      "hi": "ऐसी तारीख जर्मन इतिहास को रोजमर्रा के जीवन से दिखाती है: भोजन, शहरी जीवन, विज्ञापन और बदलती आदतें।",
+      "ar": "تظهر مثل هذه التواريخ التاريخ الألماني من خلال الحياة اليومية: الطعام والحياة الحضرية والإعلان والعادات المتغيرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Фастфуд как исторический факт",
           "de": "Fast Food als historischer Fakt",
-          "en": "Fast food as a historical fact"
+          "en": "Fast food as a historical fact",
+          "fr": "Le fast-food comme fait historique",
+          "es": "La comida rapida como hecho historico",
+          "it": "Il fast food come fatto storico",
+          "pt": "Fast food como fato historico",
+          "nl": "Fastfood als historisch feit",
+          "pl": "Fast food jako fakt historyczny",
+          "tr": "Tarihsel olgu olarak fast food",
+          "zh": "作为历史事实的快餐",
+          "ja": "歴史的事実としてのファストフード",
+          "ko": "역사적 사실로서의 패스트푸드",
+          "hi": "ऐतिहासिक तथ्य के रूप में फास्ट फूड",
+          "ar": "الوجبات السريعة كحقيقة تاريخية"
         },
         "description": {
           "ru": "На первый взгляд это не «большая история», но такие открытия меняют улицы, рабочие места и привычки миллионов людей. Через них видно, как Германия включалась в глобальную потребительскую культуру.",
           "de": "Auf den ersten Blick ist das keine grosse Geschichte, doch solche Eroeffnungen veraendern Strassen, Arbeitsplaetze und Gewohnheiten von Millionen Menschen. An ihnen sieht man, wie Deutschland Teil globaler Konsumkultur wurde.",
-          "en": "At first glance this is not 'big history,' but such openings change streets, jobs and the habits of millions. They show how Germany became part of global consumer culture."
+          "en": "At first glance this is not 'big history,' but such openings change streets, jobs and the habits of millions. They show how Germany became part of global consumer culture.",
+          "fr": "A premiere vue, ce n'est pas la grande histoire, mais de telles ouvertures changent les rues, les emplois et les habitudes de millions de personnes. Elles montrent comment l'Allemagne entrait dans la culture de consommation mondiale.",
+          "es": "A primera vista no es 'gran historia', pero aperturas asi cambian calles, empleos y habitos de millones de personas. Muestran como Alemania se incorporaba a la cultura global de consumo.",
+          "it": "A prima vista non e 'grande storia', ma aperture simili cambiano strade, posti di lavoro e abitudini di milioni di persone. Mostrano come la Germania entrava nella cultura globale dei consumi.",
+          "pt": "A primeira vista isso nao e 'grande historia', mas aberturas assim mudam ruas, empregos e habitos de milhoes de pessoas. Elas mostram como a Alemanha se integrou a cultura global de consumo.",
+          "nl": "Op het eerste gezicht is dit geen 'grote geschiedenis', maar zulke openingen veranderen straten, banen en gewoonten van miljoenen mensen. Ze laten zien hoe Duitsland deel werd van mondiale consumptiecultuur.",
+          "pl": "Na pierwszy rzut oka to nie jest 'wielka historia', ale takie otwarcia zmieniaja ulice, miejsca pracy i zwyczaje milionow ludzi. Pokazuja, jak Niemcy wlaczaly sie w globalna kulture konsumpcyjna.",
+          "tr": "Ilk bakista bu 'buyuk tarih' degildir, ama boyle acilislar sokaklari, isleri ve milyonlarca insanin aliskanliklarini degistirir. Almanya'nin kuresel tuketim kulturune nasil katildigini gosterir.",
+          "zh": "乍看之下，这不是“大历史”，但这样的开业会改变街道、工作岗位和数百万人的习惯。它们显示了德国如何融入全球消费文化。",
+          "ja": "一見するとこれは「大きな歴史」ではありませんが、このような開店は街路、仕事、人々の習慣を変えます。ドイツが世界的な消費文化の一部になっていく様子が見えます。",
+          "ko": "처음 보면 이는 '큰 역사'가 아니지만, 이런 개점은 거리와 일자리, 수백만 명의 습관을 바꾼다. 이를 통해 독일이 세계 소비문화의 일부가 되어 가는 모습을 볼 수 있다.",
+          "hi": "पहली नजर में यह 'बड़ा इतिहास' नहीं लगता, लेकिन ऐसी शुरुआतें सड़कों, नौकरियों और लाखों लोगों की आदतों को बदलती हैं। इनसे दिखता है कि जर्मनी वैश्विक उपभोक्ता संस्कृति का हिस्सा कैसे बना।",
+          "ar": "للوهلة الأولى لا يبدو هذا 'تاريخا كبيرا'، لكن مثل هذه الافتتاحات تغير الشوارع وفرص العمل وعادات ملايين الناس. ومن خلالها نرى كيف أصبحت ألمانيا جزءا من ثقافة الاستهلاك العالمية."
         },
         "importance": {
           "ru": "Календарь становится живее, когда в нём есть не только войны и канцлеры, но и обычная жизнь.",
           "de": "Ein Kalender wird lebendiger, wenn er nicht nur Kriege und Kanzler enthaelt, sondern auch Alltagsleben.",
-          "en": "A calendar becomes livelier when it includes not only wars and chancellors, but everyday life."
+          "en": "A calendar becomes livelier when it includes not only wars and chancellors, but everyday life.",
+          "fr": "Un calendrier devient plus vivant quand il contient non seulement des guerres et des chanceliers, mais aussi la vie quotidienne.",
+          "es": "Un calendario se vuelve mas vivo cuando incluye no solo guerras y cancilleres, sino tambien vida cotidiana.",
+          "it": "Un calendario diventa piu vivo quando include non solo guerre e cancellieri, ma anche vita quotidiana.",
+          "pt": "Um calendario fica mais vivo quando inclui nao apenas guerras e chanceleres, mas tambem a vida cotidiana.",
+          "nl": "Een kalender wordt levendiger wanneer hij niet alleen oorlogen en kanseliers bevat, maar ook het dagelijks leven.",
+          "pl": "Kalendarz staje sie zywszy, gdy zawiera nie tylko wojny i kanclerzy, ale takze codzienne zycie.",
+          "tr": "Bir takvim yalnizca savaslari ve sansolyeleri degil, gundelik yasami da icerdiginde daha canli olur.",
+          "zh": "当日历不仅包含战争和总理，也包含日常生活时，它会更有生气。",
+          "ja": "カレンダーは、戦争や首相だけでなく日常生活も含むと、より生き生きします。",
+          "ko": "달력은 전쟁과 총리뿐 아니라 일상생활도 담을 때 더 생생해진다.",
+          "hi": "कैलेंडर तब अधिक जीवंत होता है जब उसमें केवल युद्ध और चांसलर ही नहीं, बल्कि रोजमर्रा का जीवन भी हो।",
+          "ar": "يصبح التقويم أكثر حيوية عندما لا يضم الحروب والمستشارين فقط، بل الحياة اليومية أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Первая немецкая точка McDonald's находилась рядом со стадионом на улице Martin-Luther-Strasse в Мюнхене.",
     "de": "Die erste deutsche McDonald's-Filiale lag in Muenchen an der Martin-Luther-Strasse nahe dem Stadion.",
-    "en": "The first German McDonald's was on Martin-Luther-Strasse in Munich, near the stadium."
+    "en": "The first German McDonald's was on Martin-Luther-Strasse in Munich, near the stadium.",
+    "fr": "Le premier McDonald's allemand se trouvait a Munich, sur la Martin-Luther-Strasse, pres du stade.",
+    "es": "El primer McDonald's aleman estaba en Munich, en Martin-Luther-Strasse, cerca del estadio.",
+    "it": "Il primo McDonald's tedesco si trovava a Monaco, in Martin-Luther-Strasse, vicino allo stadio.",
+    "pt": "O primeiro McDonald's alemao ficava em Munique, na Martin-Luther-Strasse, perto do estadio.",
+    "nl": "De eerste Duitse McDonald's lag in Muenchen aan de Martin-Luther-Strasse, dicht bij het stadion.",
+    "pl": "Pierwszy niemiecki McDonald's znajdowal sie w Monachium przy Martin-Luther-Strasse, niedaleko stadionu.",
+    "tr": "Ilk Alman McDonald's subesi Munih'te, stadyumun yakinindaki Martin-Luther-Strasse'deydi.",
+    "zh": "德国第一家麦当劳位于慕尼黑Martin-Luther-Strasse，靠近体育场。",
+    "ja": "ドイツ初のMcDonald'sは、ミュンヘンのMartin-Luther-Strasse、スタジアム近くにありました。",
+    "ko": "독일 첫 McDonald's는 뮌헨의 Martin-Luther-Strasse, 경기장 근처에 있었다.",
+    "hi": "जर्मनी का पहला McDonald's म्यूनिख में Martin-Luther-Strasse पर, स्टेडियम के पास था।",
+    "ar": "كان أول McDonald's ألماني في ميونخ على شارع Martin-Luther-Strasse قرب الملعب."
   },
   "sources": [
     {
