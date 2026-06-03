@@ -11,17 +11,53 @@
     "title": {
       "ru": "Берта Бенц совершила первую дальнюю поездку на автомобиле",
       "de": "Bertha Benz unternimmt die erste Fernfahrt mit dem Automobil",
-      "en": "Bertha Benz makes the first long-distance car journey"
+      "en": "Bertha Benz makes the first long-distance car journey",
+      "fr": "Bertha Benz effectue le premier long trajet en automobile",
+      "es": "Bertha Benz realiza el primer viaje largo en automóvil",
+      "it": "Bertha Benz compie il primo lungo viaggio in automobile",
+      "pt": "Bertha Benz faz a primeira viagem longa de automóvel",
+      "nl": "Bertha Benz maakt de eerste lange autorit",
+      "pl": "Bertha Benz odbywa pierwszą daleką podróż samochodem",
+      "tr": "Bertha Benz otomobille ilk uzun yolculuğu yapar",
+      "zh": "贝尔塔·奔驰完成首次汽车长途旅行",
+      "ja": "ベルタ・ベンツが自動車で初の長距離走行を行う",
+      "ko": "베르타 벤츠가 자동차로 첫 장거리 여행을 하다",
+      "hi": "बेर्था बेंज ने कार से पहली लंबी दूरी की यात्रा की",
+      "ar": "بيرتا بنز تقوم بأول رحلة طويلة بالسيارة"
     },
     "description": {
       "ru": "5 августа 1888 года Берта Бенц поехала из Мангейма в Пфорцхайм на Benz Patent-Motorwagen. Она доказала, что автомобиль может быть практичным средством передвижения.",
       "de": "Am 5. August 1888 fuhr Bertha Benz mit dem Benz Patent-Motorwagen von Mannheim nach Pforzheim. Sie bewies, dass das Automobil ein praktisches Verkehrsmittel sein konnte.",
-      "en": "On 5 August 1888, Bertha Benz drove a Benz Patent-Motorwagen from Mannheim to Pforzheim. She proved that the automobile could be a practical means of transport."
+      "en": "On 5 August 1888, Bertha Benz drove a Benz Patent-Motorwagen from Mannheim to Pforzheim. She proved that the automobile could be a practical means of transport.",
+      "fr": "Le 5 août 1888, Bertha Benz conduisit un Benz Patent-Motorwagen de Mannheim à Pforzheim. Elle prouva que l'automobile pouvait être un moyen de transport pratique.",
+      "es": "El 5 de agosto de 1888, Bertha Benz condujo un Benz Patent-Motorwagen de Mannheim a Pforzheim. Demostró que el automóvil podía ser un medio de transporte práctico.",
+      "it": "Il 5 agosto 1888 Bertha Benz guidò un Benz Patent-Motorwagen da Mannheim a Pforzheim. Dimostrò che l'automobile poteva essere un mezzo di trasporto pratico.",
+      "pt": "Em 5 de agosto de 1888, Bertha Benz dirigiu um Benz Patent-Motorwagen de Mannheim a Pforzheim. Ela provou que o automóvel podia ser um meio de transporte prático.",
+      "nl": "Op 5 augustus 1888 reed Bertha Benz met een Benz Patent-Motorwagen van Mannheim naar Pforzheim. Ze bewees dat de auto een praktisch vervoermiddel kon zijn.",
+      "pl": "5 sierpnia 1888 roku Bertha Benz pojechała Benz Patent-Motorwagenem z Mannheim do Pforzheim. Udowodniła, że automobil może być praktycznym środkiem transportu.",
+      "tr": "5 Ağustos 1888'de Bertha Benz, Benz Patent-Motorwagen ile Mannheim'dan Pforzheim'a gitti. Otomobilin pratik bir ulaşım aracı olabileceğini kanıtladı.",
+      "zh": "1888年8月5日，贝尔塔·奔驰驾驶Benz Patent-Motorwagen从曼海姆前往普福尔茨海姆。她证明汽车可以成为实用的交通工具。",
+      "ja": "1888年8月5日、ベルタ・ベンツはBenz Patent-Motorwagenでマンハイムからプフォルツハイムまで走った。彼女は自動車が実用的な交通手段になりうることを証明した。",
+      "ko": "1888년 8월 5일, 베르타 벤츠는 Benz Patent-Motorwagen을 타고 만하임에서 포르츠하임까지 갔다. 그녀는 자동차가 실용적인 교통수단이 될 수 있음을 증명했다.",
+      "hi": "5 अगस्त 1888 को बेर्था बेंज Benz Patent-Motorwagen से मैनहाइम से प्फोर्ज़हाइम तक गईं। उन्होंने साबित किया कि ऑटोमोबाइल व्यावहारिक यातायात साधन हो सकता है।",
+      "ar": "في 5 أغسطس 1888 قادت بيرتا بنز سيارة Benz Patent-Motorwagen من مانهايم إلى بفورتسهايم. وأثبتت أن السيارة يمكن أن تكون وسيلة نقل عملية."
     },
     "importance": {
       "ru": "Эта поездка стала одновременно техническим испытанием и блестящей рекламой нового изобретения.",
       "de": "Diese Fahrt war zugleich ein technischer Test und eine brillante Werbung fuer die neue Erfindung.",
-      "en": "The journey was both a technical test and brilliant publicity for the new invention."
+      "en": "The journey was both a technical test and brilliant publicity for the new invention.",
+      "fr": "Ce voyage fut à la fois un essai technique et une brillante publicité pour la nouvelle invention.",
+      "es": "El viaje fue a la vez una prueba técnica y una publicidad brillante para el nuevo invento.",
+      "it": "Il viaggio fu al tempo stesso una prova tecnica e una brillante pubblicità per la nuova invenzione.",
+      "pt": "A viagem foi ao mesmo tempo um teste técnico e uma publicidade brilhante para a nova invenção.",
+      "nl": "De rit was tegelijk een technische test en briljante reclame voor de nieuwe uitvinding.",
+      "pl": "Ta podróż była jednocześnie próbą techniczną i świetną reklamą nowego wynalazku.",
+      "tr": "Bu yolculuk hem teknik bir deneme hem de yeni icat için parlak bir tanıtımdı.",
+      "zh": "这次旅行既是一次技术测试，也是对新发明的出色宣传。",
+      "ja": "この旅は技術的な試験であると同時に、新発明への見事な宣伝でもあった。",
+      "ko": "이 여행은 기술 시험이자 새로운 발명품을 위한 훌륭한 홍보였다.",
+      "hi": "यह यात्रा तकनीकी परीक्षण भी थी और नए आविष्कार का शानदार प्रचार भी।",
+      "ar": "كانت هذه الرحلة اختبارا تقنيا وإعلانا بارعا للاختراع الجديد في الوقت نفسه."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Топливо купили в аптеке",
           "de": "Kraftstoff aus der Apotheke",
-          "en": "Fuel from a pharmacy"
+          "en": "Fuel from a pharmacy",
+          "fr": "Du carburant acheté en pharmacie",
+          "es": "Combustible comprado en una farmacia",
+          "it": "Carburante dalla farmacia",
+          "pt": "Combustível comprado na farmácia",
+          "nl": "Brandstof uit de apotheek",
+          "pl": "Paliwo kupione w aptece",
+          "tr": "Eczaneden alınan yakıt",
+          "zh": "从药店买来的燃料",
+          "ja": "薬局で買った燃料",
+          "ko": "약국에서 산 연료",
+          "hi": "ईंधन फार्मेसी से खरीदा गया",
+          "ar": "وقود من الصيدلية"
         },
         "description": {
           "ru": "В раннюю автомобильную эпоху бензин ещё не покупали на заправках. Берта Бенц использовала лигроин, который можно было достать в аптеке.",
           "de": "In der fruehen Automobilzeit kaufte man Benzin noch nicht an Tankstellen. Bertha Benz nutzte Ligroin, das in Apotheken erhaeltlich war.",
-          "en": "In the early automobile age, fuel was not bought at gas stations. Bertha Benz used ligroin, which could be obtained from pharmacies."
+          "en": "In the early automobile age, fuel was not bought at gas stations. Bertha Benz used ligroin, which could be obtained from pharmacies.",
+          "fr": "Au début de l'ère automobile, on n'achetait pas encore l'essence dans des stations-service. Bertha Benz utilisa de la ligroïne, que l'on pouvait trouver en pharmacie.",
+          "es": "En los primeros tiempos del automóvil, el combustible aún no se compraba en gasolineras. Bertha Benz usó ligroína, que podía conseguirse en farmacias.",
+          "it": "Agli inizi dell'era automobilistica, il carburante non si comprava ancora nelle stazioni di servizio. Bertha Benz usò ligroina, reperibile in farmacia.",
+          "pt": "No início da era do automóvel, o combustível ainda não era comprado em postos. Bertha Benz usou ligroína, que podia ser obtida em farmácias.",
+          "nl": "In de vroege autotijd kocht men brandstof nog niet bij tankstations. Bertha Benz gebruikte ligroïne, dat bij apotheken verkrijgbaar was.",
+          "pl": "We wczesnej epoce motoryzacji paliwa nie kupowano jeszcze na stacjach. Bertha Benz używała ligroiny, którą można było dostać w aptece.",
+          "tr": "Otomobil çağının başlarında yakıt henüz benzin istasyonlarından alınmıyordu. Bertha Benz eczanelerden bulunabilen ligroin kullandı.",
+          "zh": "在汽车早期，人们还不是在加油站购买燃料。贝尔塔·奔驰使用的是可在药店买到的轻汽油。",
+          "ja": "自動車時代の初期には、燃料はまだガソリンスタンドで買うものではなかった。ベルタ・ベンツは薬局で手に入るリグロインを使った。",
+          "ko": "초기 자동차 시대에는 연료를 아직 주유소에서 사지 않았다. 베르타 벤츠는 약국에서 구할 수 있던 리그로인을 사용했다.",
+          "hi": "ऑटोमोबाइल के शुरुआती दौर में ईंधन अभी पेट्रोल पंपों पर नहीं खरीदा जाता था। बेर्था बेंज ने लिग्रोइन इस्तेमाल किया, जो फार्मेसी में मिल सकता था।",
+          "ar": "في بدايات عصر السيارات لم يكن الوقود يُشترى بعد من محطات الوقود. استخدمت بيرتا بنز الليغروين، وكان يمكن الحصول عليه من الصيدليات."
         },
         "importance": {
           "ru": "Эта деталь делает историю автомобиля неожиданно бытовой и живой.",
           "de": "Dieses Detail macht die Geschichte des Automobils ungewoehnlich alltaeglich und lebendig.",
-          "en": "This detail makes automobile history unexpectedly everyday and vivid."
+          "en": "This detail makes automobile history unexpectedly everyday and vivid.",
+          "fr": "Ce détail rend l'histoire de l'automobile étonnamment quotidienne et vivante.",
+          "es": "Este detalle hace que la historia del automóvil resulte inesperadamente cotidiana y viva.",
+          "it": "Questo dettaglio rende la storia dell'automobile sorprendentemente quotidiana e viva.",
+          "pt": "Esse detalhe torna a história do automóvel inesperadamente cotidiana e viva.",
+          "nl": "Dit detail maakt de autogeschiedenis onverwacht alledaags en levendig.",
+          "pl": "Ten szczegół sprawia, że historia samochodu staje się zaskakująco codzienna i żywa.",
+          "tr": "Bu ayrıntı otomobil tarihini beklenmedik biçimde gündelik ve canlı kılar.",
+          "zh": "这个细节让汽车史显得意外地日常而生动。",
+          "ja": "この細部は、自動車の歴史を思いがけず日常的で生き生きしたものにしている。",
+          "ko": "이 세부 사항은 자동차 역사를 뜻밖에 일상적이고 생생하게 만든다.",
+          "hi": "यह विवरण ऑटोमोबाइल इतिहास को अप्रत्याशित रूप से रोजमर्रा का और जीवंत बना देता है।",
+          "ar": "يجعل هذا التفصيل تاريخ السيارة يوميا وحيا على نحو غير متوقع."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Сегодня существует туристический маршрут Bertha Benz Memorial Route по следам её поездки.",
     "de": "Heute folgt die Bertha Benz Memorial Route den Spuren ihrer Fahrt.",
-    "en": "Today, the Bertha Benz Memorial Route follows the path of her journey."
+    "en": "Today, the Bertha Benz Memorial Route follows the path of her journey.",
+    "fr": "Aujourd'hui, la Bertha Benz Memorial Route suit les traces de son voyage.",
+    "es": "Hoy existe la Bertha Benz Memorial Route, que sigue el camino de su viaje.",
+    "it": "Oggi la Bertha Benz Memorial Route segue le tracce del suo viaggio.",
+    "pt": "Hoje, a Bertha Benz Memorial Route segue o caminho de sua viagem.",
+    "nl": "Vandaag volgt de Bertha Benz Memorial Route het spoor van haar rit.",
+    "pl": "Dziś Bertha Benz Memorial Route prowadzi śladami jej podróży.",
+    "tr": "Bugün Bertha Benz Memorial Route onun yolculuğunun izlerini takip eder.",
+    "zh": "如今，贝尔塔·奔驰纪念路线沿着她当年的行程延伸。",
+    "ja": "現在、ベルタ・ベンツ記念ルートは彼女の旅の道筋をたどっている。",
+    "ko": "오늘날 베르타 벤츠 기념 루트는 그녀의 여행 경로를 따라간다.",
+    "hi": "आज Bertha Benz Memorial Route उनकी यात्रा के रास्ते का अनुसरण करता है।",
+    "ar": "اليوم يتبع مسار Bertha Benz Memorial Route طريق رحلتها."
   },
   "sources": [
     {

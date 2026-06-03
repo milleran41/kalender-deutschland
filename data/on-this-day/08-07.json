@@ -11,17 +11,53 @@
     "title": {
       "ru": "Оттон I коронован в Ахене",
       "de": "Otto I. wird in Aachen gekroent",
-      "en": "Otto I is crowned in Aachen"
+      "en": "Otto I is crowned in Aachen",
+      "fr": "Otton Ier est couronné à Aix-la-Chapelle",
+      "es": "Otón I es coronado en Aquisgrán",
+      "it": "Ottone I viene incoronato ad Aquisgrana",
+      "pt": "Otão I é coroado em Aachen",
+      "nl": "Otto I wordt in Aken gekroond",
+      "pl": "Otton I zostaje koronowany w Akwizgranie",
+      "tr": "I. Otto Aachen'da taç giyer",
+      "zh": "奥托一世在亚琛加冕",
+      "ja": "オットー1世がアーヘンで戴冠する",
+      "ko": "오토 1세가 아헨에서 대관하다",
+      "hi": "ओटो प्रथम का आचेन में राज्याभिषेक हुआ",
+      "ar": "تتويج أوتو الأول في آخن"
     },
     "description": {
       "ru": "7 августа 936 года Оттон I был избран и коронован королём в Ахене. Позже он стал императором и вошёл в историю как Оттон Великий.",
       "de": "Am 7. August 936 wurde Otto I. in Aachen gewaehlt und gekroent. Spaeter wurde er Kaiser und ging als Otto der Grosse in die Geschichte ein.",
-      "en": "On 7 August 936, Otto I was elected and crowned king in Aachen. He later became emperor and entered history as Otto the Great."
+      "en": "On 7 August 936, Otto I was elected and crowned king in Aachen. He later became emperor and entered history as Otto the Great.",
+      "fr": "Le 7 août 936, Otton Ier fut élu et couronné roi à Aix-la-Chapelle. Plus tard, il devint empereur et entra dans l'histoire sous le nom d'Otton le Grand.",
+      "es": "El 7 de agosto de 936, Otón I fue elegido y coronado rey en Aquisgrán. Más tarde se convirtió en emperador y pasó a la historia como Otón el Grande.",
+      "it": "Il 7 agosto 936 Ottone I fu eletto e incoronato re ad Aquisgrana. In seguito divenne imperatore ed entrò nella storia come Ottone il Grande.",
+      "pt": "Em 7 de agosto de 936, Otão I foi eleito e coroado rei em Aachen. Mais tarde tornou-se imperador e entrou para a história como Otão, o Grande.",
+      "nl": "Op 7 augustus 936 werd Otto I in Aken gekozen en tot koning gekroond. Later werd hij keizer en ging hij de geschiedenis in als Otto de Grote.",
+      "pl": "7 sierpnia 936 roku Otton I został wybrany i koronowany na króla w Akwizgranie. Później został cesarzem i przeszedł do historii jako Otton Wielki.",
+      "tr": "7 Ağustos 936'da I. Otto Aachen'da kral seçildi ve taç giydi. Daha sonra imparator oldu ve tarihe Büyük Otto olarak geçti.",
+      "zh": "936年8月7日，奥托一世在亚琛被选为国王并加冕。后来他成为皇帝，并以奥托大帝之名载入史册。",
+      "ja": "936年8月7日、オットー1世はアーヘンで国王に選出され戴冠した。後に皇帝となり、オットー大帝として歴史に名を残した。",
+      "ko": "936년 8월 7일, 오토 1세는 아헨에서 왕으로 선출되어 대관했다. 그는 나중에 황제가 되었고 오토 대제로 역사에 남았다.",
+      "hi": "7 अगस्त 936 को ओटो प्रथम आचेन में राजा चुने गए और उनका राज्याभिषेक हुआ। बाद में वे सम्राट बने और ओटो महान के नाम से इतिहास में दर्ज हुए।",
+      "ar": "في 7 أغسطس 936 انتُخب أوتو الأول وتُوج ملكا في آخن. ولاحقا أصبح إمبراطورا ودخل التاريخ باسم أوتو الكبير."
     },
     "importance": {
       "ru": "Эта дата важна для ранней истории Восточно-Франкского королевства и будущей Священной Римской империи.",
       "de": "Dieses Datum ist wichtig fuer die fruehe Geschichte des Ostfraenkischen Reiches und des spaeteren Heiligen Roemischen Reiches.",
-      "en": "The date is important for the early history of the East Frankish kingdom and the later Holy Roman Empire."
+      "en": "The date is important for the early history of the East Frankish kingdom and the later Holy Roman Empire.",
+      "fr": "Cette date est importante pour l'histoire ancienne du royaume franc oriental et du futur Saint-Empire romain germanique.",
+      "es": "La fecha es importante para la historia temprana del reino franco oriental y del posterior Sacro Imperio Romano Germánico.",
+      "it": "La data è importante per la storia iniziale del regno dei Franchi orientali e del successivo Sacro Romano Impero.",
+      "pt": "A data é importante para a história inicial do reino franco oriental e do posterior Sacro Império Romano-Germânico.",
+      "nl": "De datum is belangrijk voor de vroege geschiedenis van het Oost-Frankische rijk en het latere Heilige Roomse Rijk.",
+      "pl": "Ta data jest ważna dla wczesnej historii królestwa wschodniofrankijskiego i późniejszego Świętego Cesarstwa Rzymskiego.",
+      "tr": "Bu tarih, Doğu Frank Krallığı'nın erken tarihi ve daha sonraki Kutsal Roma İmparatorluğu için önemlidir.",
+      "zh": "这个日期对东法兰克王国早期历史以及后来的神圣罗马帝国具有重要意义。",
+      "ja": "この日は、東フランク王国の初期史と後の神聖ローマ帝国にとって重要である。",
+      "ko": "이 날짜는 동프랑크 왕국의 초기 역사와 후대 신성 로마 제국에 중요하다.",
+      "hi": "यह तारीख पूर्वी फ्रैंकिश राज्य और बाद की पवित्र रोमन साम्राज्य की प्रारंभिक इतिहास के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم للتاريخ المبكر للمملكة الفرنكية الشرقية وللإمبراطورية الرومانية المقدسة اللاحقة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Ахен и память о Карле Великом",
           "de": "Aachen und die Erinnerung an Karl den Grossen",
-          "en": "Aachen and the memory of Charlemagne"
+          "en": "Aachen and the memory of Charlemagne",
+          "fr": "Aix-la-Chapelle et la mémoire de Charlemagne",
+          "es": "Aquisgrán y la memoria de Carlomagno",
+          "it": "Aquisgrana e il ricordo di Carlo Magno",
+          "pt": "Aachen e a memória de Carlos Magno",
+          "nl": "Aken en de herinnering aan Karel de Grote",
+          "pl": "Akwizgran i pamięć o Karolu Wielkim",
+          "tr": "Aachen ve Şarlman'ın hatırası",
+          "zh": "亚琛与查理大帝的记忆",
+          "ja": "アーヘンとカール大帝の記憶",
+          "ko": "아헨과 샤를마뉴의 기억",
+          "hi": "आचेन और शार्लमेन की स्मृति",
+          "ar": "آخن وذكرى شارلمان"
         },
         "description": {
           "ru": "Коронация в Ахене связывала Оттона с наследием Карла Великого. Место церемонии помогало показать преемственность власти и высокий статус нового короля.",
           "de": "Die Kroenung in Aachen verband Otto mit dem Erbe Karls des Grossen. Der Ort der Zeremonie zeigte Kontinuitaet der Herrschaft und den hohen Anspruch des neuen Koenigs.",
-          "en": "The coronation in Aachen linked Otto with Charlemagne's legacy. The location of the ceremony signaled continuity of rule and the new king's high status."
+          "en": "The coronation in Aachen linked Otto with Charlemagne's legacy. The location of the ceremony signaled continuity of rule and the new king's high status.",
+          "fr": "Le couronnement à Aix-la-Chapelle liait Otton à l'héritage de Charlemagne. Le lieu de la cérémonie montrait la continuité du pouvoir et le rang élevé du nouveau roi.",
+          "es": "La coronación en Aquisgrán vinculaba a Otón con el legado de Carlomagno. El lugar de la ceremonia mostraba continuidad del poder y el alto estatus del nuevo rey.",
+          "it": "L'incoronazione ad Aquisgrana collegava Ottone all'eredità di Carlo Magno. Il luogo della cerimonia mostrava la continuità del potere e l'alto status del nuovo re.",
+          "pt": "A coroação em Aachen ligava Otão ao legado de Carlos Magno. O local da cerimônia mostrava continuidade do poder e o alto status do novo rei.",
+          "nl": "De kroning in Aken verbond Otto met de erfenis van Karel de Grote. De plaats van de ceremonie toonde continuïteit van heerschappij en de hoge status van de nieuwe koning.",
+          "pl": "Koronacja w Akwizgranie łączyła Ottona z dziedzictwem Karola Wielkiego. Miejsce ceremonii pokazywało ciągłość władzy i wysoki status nowego króla.",
+          "tr": "Aachen'daki taç giyme, Otto'yu Şarlman'ın mirasıyla ilişkilendiriyordu. Törenin yeri iktidarın sürekliliğini ve yeni kralın yüksek statüsünü gösteriyordu.",
+          "zh": "在亚琛加冕把奥托与查理大帝的遗产联系起来。仪式地点显示了统治的延续性和新国王的崇高地位。",
+          "ja": "アーヘンでの戴冠は、オットーをカール大帝の遺産と結びつけた。式典の場所は支配の継続性と新王の高い地位を示していた。",
+          "ko": "아헨에서의 대관은 오토를 샤를마뉴의 유산과 연결했다. 의식 장소는 통치의 연속성과 새 왕의 높은 지위를 보여 주었다.",
+          "hi": "आचेन में राज्याभिषेक ने ओटो को शार्लमेन की विरासत से जोड़ा। समारोह का स्थान सत्ता की निरंतरता और नए राजा की ऊंची स्थिति दिखाता था।",
+          "ar": "ربط التتويج في آخن أوتو بإرث شارلمان. وكان مكان المراسم يدل على استمرارية الحكم والمكانة العالية للملك الجديد."
         },
         "importance": {
           "ru": "Так один город стал точкой, где встречались память, власть и карта средневековой Европы.",
           "de": "So wurde eine Stadt zu einem Ort, an dem Erinnerung, Herrschaft und die Karte des mittelalterlichen Europa zusammenkamen.",
-          "en": "One city thus became a place where memory, power and the map of medieval Europe met."
+          "en": "One city thus became a place where memory, power and the map of medieval Europe met.",
+          "fr": "Ainsi, une ville devint un lieu où se rencontraient la mémoire, le pouvoir et la carte de l'Europe médiévale.",
+          "es": "Así, una ciudad se convirtió en un lugar donde se encontraban la memoria, el poder y el mapa de la Europa medieval.",
+          "it": "Così una città divenne un luogo in cui si incontravano memoria, potere e la mappa dell'Europa medievale.",
+          "pt": "Assim, uma cidade tornou-se um lugar onde memória, poder e o mapa da Europa medieval se encontravam.",
+          "nl": "Zo werd één stad een plek waar herinnering, macht en de kaart van middeleeuws Europa samenkwamen.",
+          "pl": "Tak jedno miasto stało się miejscem, gdzie spotykały się pamięć, władza i mapa średniowiecznej Europy.",
+          "tr": "Böylece bir şehir, hafıza, iktidar ve Orta Çağ Avrupa haritasının buluştuğu yer oldu.",
+          "zh": "于是，一座城市成为记忆、权力和中世纪欧洲版图交汇的地点。",
+          "ja": "こうして一つの都市が、記憶、権力、中世ヨーロッパの地図が出会う場所となった。",
+          "ko": "이렇게 한 도시는 기억, 권력, 중세 유럽의 지도가 만나는 장소가 되었다.",
+          "hi": "इस तरह एक शहर वह स्थान बन गया जहां स्मृति, सत्ता और मध्यकालीन यूरोप का नक्शा मिलते थे।",
+          "ar": "وهكذا أصبحت مدينة واحدة نقطة تلتقي فيها الذاكرة والسلطة وخريطة أوروبا في العصور الوسطى."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Оттон Великий",
           "de": "Otto der Grosse",
-          "en": "Otto the Great"
+          "en": "Otto the Great",
+          "fr": "Otton le Grand",
+          "es": "Otón el Grande",
+          "it": "Ottone il Grande",
+          "pt": "Otão, o Grande",
+          "nl": "Otto de Grote",
+          "pl": "Otton Wielki",
+          "tr": "Büyük Otto",
+          "zh": "奥托大帝",
+          "ja": "オットー大帝",
+          "ko": "오토 대제",
+          "hi": "ओटो महान",
+          "ar": "أوتو الكبير"
         },
         "description": {
           "ru": "Оттон укрепил королевскую власть, победил венгров в битве на Лехе и в 962 году был коронован императором в Риме. Его правление стало важным этапом формирования средневековой империи.",
           "de": "Otto staerkte die Koenigsmacht, besiegte die Ungarn in der Schlacht auf dem Lechfeld und wurde 962 in Rom zum Kaiser gekroent. Seine Herrschaft wurde zu einer wichtigen Etappe der mittelalterlichen Reichsbildung.",
-          "en": "Otto strengthened royal power, defeated the Hungarians at the Battle of Lechfeld and was crowned emperor in Rome in 962. His reign became an important stage in the formation of the medieval empire."
+          "en": "Otto strengthened royal power, defeated the Hungarians at the Battle of Lechfeld and was crowned emperor in Rome in 962. His reign became an important stage in the formation of the medieval empire.",
+          "fr": "Otton renforça le pouvoir royal, vainquit les Hongrois à la bataille du Lechfeld et fut couronné empereur à Rome en 962. Son règne devint une étape importante de la formation de l'empire médiéval.",
+          "es": "Otón fortaleció el poder real, derrotó a los húngaros en la batalla de Lechfeld y fue coronado emperador en Roma en 962. Su reinado fue una etapa importante en la formación del imperio medieval.",
+          "it": "Ottone rafforzò il potere regio, sconfisse gli Ungari nella battaglia di Lechfeld e fu incoronato imperatore a Roma nel 962. Il suo regno divenne una tappa importante nella formazione dell'impero medievale.",
+          "pt": "Otão fortaleceu o poder real, derrotou os húngaros na Batalha de Lechfeld e foi coroado imperador em Roma em 962. Seu governo tornou-se uma etapa importante na formação do império medieval.",
+          "nl": "Otto versterkte de koninklijke macht, versloeg de Hongaren in de Slag op het Lechveld en werd in 962 in Rome tot keizer gekroond. Zijn regering werd een belangrijke fase in de vorming van het middeleeuwse rijk.",
+          "pl": "Otton wzmocnił władzę królewską, pokonał Węgrów w bitwie nad Lechem i w 962 roku został koronowany w Rzymie na cesarza. Jego panowanie stało się ważnym etapem kształtowania średniowiecznego cesarstwa.",
+          "tr": "Otto kraliyet gücünü güçlendirdi, Lechfeld Muharebesi'nde Macarları yendi ve 962'de Roma'da imparator olarak taç giydi. Onun hükümdarlığı Orta Çağ imparatorluğunun oluşumunda önemli bir aşama oldu.",
+          "zh": "奥托加强王权，在莱希菲尔德战役中击败匈牙利人，并于962年在罗马加冕为皇帝。他的统治成为中世纪帝国形成的重要阶段。",
+          "ja": "オットーは王権を強化し、レヒフェルトの戦いでハンガリー勢を破り、962年にローマで皇帝として戴冠した。彼の治世は中世帝国形成の重要な段階となった。",
+          "ko": "오토는 왕권을 강화하고 레히펠트 전투에서 헝가리인들을 물리쳤으며 962년 로마에서 황제로 대관했다. 그의 통치는 중세 제국 형성의 중요한 단계가 되었다.",
+          "hi": "ओटो ने राजसत्ता को मजबूत किया, लेखफेल्ड की लड़ाई में हंगरी वालों को हराया और 962 में रोम में सम्राट के रूप में राज्याभिषेक कराया। उनका शासन मध्यकालीन साम्राज्य के निर्माण का महत्वपूर्ण चरण बना।",
+          "ar": "عزز أوتو السلطة الملكية وهزم المجريين في معركة ليشفلد وتُوج إمبراطورا في روما عام 962. وأصبح حكمه مرحلة مهمة في تشكل الإمبراطورية في العصور الوسطى."
         },
         "importance": {
           "ru": "Через Оттона видно, что история Германии начинается задолго до современного государства.",
           "de": "An Otto wird sichtbar, dass deutsche Geschichte lange vor dem modernen Staat beginnt.",
-          "en": "Otto shows that German history begins long before the modern state."
+          "en": "Otto shows that German history begins long before the modern state.",
+          "fr": "Otton montre que l'histoire allemande commence bien avant l'État moderne.",
+          "es": "Otón muestra que la historia alemana empieza mucho antes del Estado moderno.",
+          "it": "Ottone mostra che la storia tedesca inizia molto prima dello Stato moderno.",
+          "pt": "Otão mostra que a história alemã começa muito antes do Estado moderno.",
+          "nl": "Otto laat zien dat Duitse geschiedenis lang vóór de moderne staat begint.",
+          "pl": "Otton pokazuje, że historia Niemiec zaczyna się na długo przed nowoczesnym państwem.",
+          "tr": "Otto, Alman tarihinin modern devletten çok önce başladığını gösterir.",
+          "zh": "奥托说明德国历史早在现代国家出现之前就已开始。",
+          "ja": "オットーは、ドイツ史が近代国家よりはるか以前に始まることを示している。",
+          "ko": "오토는 독일 역사가 현대 국가보다 훨씬 이전에 시작됨을 보여 준다.",
+          "hi": "ओटो दिखाते हैं कि जर्मन इतिहास आधुनिक राज्य से बहुत पहले शुरू होता है।",
+          "ar": "يُظهر أوتو أن التاريخ الألماني يبدأ قبل الدولة الحديثة بزمن طويل."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Это ещё не была современная Германия",
           "de": "Das war noch nicht das moderne Deutschland",
-          "en": "This was not yet modern Germany"
+          "en": "This was not yet modern Germany",
+          "fr": "Ce n'était pas encore l'Allemagne moderne",
+          "es": "Todavía no era la Alemania moderna",
+          "it": "Non era ancora la Germania moderna",
+          "pt": "Ainda não era a Alemanha moderna",
+          "nl": "Dit was nog niet het moderne Duitsland",
+          "pl": "To nie były jeszcze nowoczesne Niemcy",
+          "tr": "Bu henüz modern Almanya değildi",
+          "zh": "这还不是现代德国",
+          "ja": "これはまだ近代ドイツではなかった",
+          "ko": "이것은 아직 현대 독일이 아니었다",
+          "hi": "यह अभी आधुनिक जर्मनी नहीं था",
+          "ar": "لم تكن هذه ألمانيا الحديثة بعد"
         },
         "description": {
           "ru": "В X веке не существовало Германии в современном смысле. Но королевство Оттона стало одной из важных исторических основ будущей немецкой и центральноевропейской истории.",
           "de": "Im 10. Jahrhundert gab es Deutschland im modernen Sinn noch nicht. Doch Ottos Reich wurde zu einer wichtigen historischen Grundlage spaeterer deutscher und mitteleuropaeischer Geschichte.",
-          "en": "In the 10th century, Germany did not yet exist in the modern sense. But Otto's kingdom became an important historical foundation for later German and central European history."
+          "en": "In the 10th century, Germany did not yet exist in the modern sense. But Otto's kingdom became an important historical foundation for later German and central European history.",
+          "fr": "Au Xe siècle, l'Allemagne n'existait pas encore au sens moderne. Mais le royaume d'Otton devint l'une des bases historiques importantes de l'histoire allemande et centre-européenne ultérieure.",
+          "es": "En el siglo X, Alemania aún no existía en el sentido moderno. Pero el reino de Otón se convirtió en una base histórica importante para la historia alemana y centroeuropea posterior.",
+          "it": "Nel X secolo la Germania non esisteva ancora nel senso moderno. Ma il regno di Ottone divenne una delle importanti basi storiche della successiva storia tedesca e centroeuropea.",
+          "pt": "No século X, a Alemanha ainda não existia no sentido moderno. Mas o reino de Otão tornou-se uma base histórica importante para a história alemã e centro-europeia posterior.",
+          "nl": "In de tiende eeuw bestond Duitsland nog niet in moderne zin. Maar Otto's koninkrijk werd een belangrijke historische basis voor latere Duitse en Midden-Europese geschiedenis.",
+          "pl": "W X wieku Niemcy nie istniały jeszcze w nowoczesnym sensie. Jednak królestwo Ottona stało się ważną historyczną podstawą późniejszej historii niemieckiej i środkowoeuropejskiej.",
+          "tr": "10. yüzyılda Almanya modern anlamda henüz yoktu. Ancak Otto'nun krallığı, sonraki Alman ve Orta Avrupa tarihi için önemli bir tarihsel temel oldu.",
+          "zh": "10世纪时，现代意义上的德国尚不存在。但奥托的王国成为后来德国和中欧历史的重要基础之一。",
+          "ja": "10世紀には、近代的な意味でのドイツはまだ存在していなかった。しかしオットーの王国は、後のドイツ史と中央ヨーロッパ史の重要な基盤の一つとなった。",
+          "ko": "10세기에 현대적 의미의 독일은 아직 존재하지 않았다. 그러나 오토의 왕국은 이후 독일 및 중부 유럽 역사의 중요한 토대가 되었다.",
+          "hi": "दसवीं सदी में आधुनिक अर्थ में जर्मनी अभी अस्तित्व में नहीं था। लेकिन ओटो का राज्य बाद के जर्मन और मध्य यूरोपीय इतिहास की महत्वपूर्ण ऐतिहासिक नींव बना।",
+          "ar": "في القرن العاشر لم تكن ألمانيا موجودة بعد بالمعنى الحديث. لكن مملكة أوتو أصبحت أساسا تاريخيا مهما للتاريخ الألماني والأوروبي الأوسط اللاحق."
         },
         "importance": {
           "ru": "Это помогает аккуратно говорить о ранней истории, не перенося современные границы в Средневековье.",
           "de": "Das hilft, fruehe Geschichte vorsichtig zu erklaeren, ohne moderne Grenzen ins Mittelalter zu uebertragen.",
-          "en": "This helps explain early history carefully without projecting modern borders into the Middle Ages."
+          "en": "This helps explain early history carefully without projecting modern borders into the Middle Ages.",
+          "fr": "Cela aide à expliquer l'histoire ancienne avec prudence, sans projeter les frontières modernes dans le Moyen Âge.",
+          "es": "Esto ayuda a explicar la historia temprana con cuidado, sin trasladar fronteras modernas a la Edad Media.",
+          "it": "Questo aiuta a spiegare la storia antica con cautela, senza proiettare confini moderni nel Medioevo.",
+          "pt": "Isso ajuda a explicar a história antiga com cuidado, sem projetar fronteiras modernas na Idade Média.",
+          "nl": "Dit helpt om vroege geschiedenis voorzichtig uit te leggen zonder moderne grenzen op de middeleeuwen te projecteren.",
+          "pl": "Pomaga to ostrożnie wyjaśniać wczesną historię, bez przenoszenia nowoczesnych granic do średniowiecza.",
+          "tr": "Bu, modern sınırları Orta Çağ'a taşımadan erken tarihi dikkatli anlatmaya yardımcı olur.",
+          "zh": "这有助于谨慎解释早期历史，而不把现代边界投射到中世纪。",
+          "ja": "これは、近代の国境を中世に投影せず、初期の歴史を慎重に説明する助けになる。",
+          "ko": "이는 현대의 국경을 중세에 투영하지 않고 초기 역사를 조심스럽게 설명하는 데 도움이 된다.",
+          "hi": "यह आधुनिक सीमाओं को मध्य युग पर थोपे बिना प्रारंभिक इतिहास को सावधानी से समझाने में मदद करता है।",
+          "ar": "يساعد ذلك على شرح التاريخ المبكر بحذر من دون إسقاط الحدود الحديثة على العصور الوسطى."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "В 962 году Оттон I был коронован императором в Риме, и эта дата часто связывается с началом средневековой имперской традиции.",
     "de": "Im Jahr 962 wurde Otto I. in Rom zum Kaiser gekroent; dieses Datum wird oft mit dem Beginn der mittelalterlichen Kaisertradition verbunden.",
-    "en": "In 962, Otto I was crowned emperor in Rome, a date often linked with the beginning of the medieval imperial tradition."
+    "en": "In 962, Otto I was crowned emperor in Rome, a date often linked with the beginning of the medieval imperial tradition.",
+    "fr": "En 962, Otton Ier fut couronné empereur à Rome, une date souvent liée au début de la tradition impériale médiévale.",
+    "es": "En 962, Otón I fue coronado emperador en Roma, una fecha a menudo vinculada con el inicio de la tradición imperial medieval.",
+    "it": "Nel 962 Ottone I fu incoronato imperatore a Roma, una data spesso collegata all'inizio della tradizione imperiale medievale.",
+    "pt": "Em 962, Otão I foi coroado imperador em Roma, uma data frequentemente ligada ao início da tradição imperial medieval.",
+    "nl": "In 962 werd Otto I in Rome tot keizer gekroond, een datum die vaak wordt verbonden met het begin van de middeleeuwse keizerlijke traditie.",
+    "pl": "W 962 roku Otton I został koronowany w Rzymie na cesarza; data ta często wiązana jest z początkiem średniowiecznej tradycji cesarskiej.",
+    "tr": "962'de I. Otto Roma'da imparator olarak taç giydi; bu tarih sık sık Orta Çağ imparatorluk geleneğinin başlangıcıyla ilişkilendirilir.",
+    "zh": "962年，奥托一世在罗马加冕为皇帝，这一日期常与中世纪帝国传统的开端联系在一起。",
+    "ja": "962年、オットー1世はローマで皇帝として戴冠し、この日は中世の皇帝伝統の始まりと結びつけられることが多い。",
+    "ko": "962년 오토 1세는 로마에서 황제로 대관했으며, 이 날짜는 중세 제국 전통의 시작과 자주 연결된다.",
+    "hi": "962 में ओटो प्रथम का रोम में सम्राट के रूप में राज्याभिषेक हुआ, और यह तारीख अक्सर मध्यकालीन साम्राज्यिक परंपरा की शुरुआत से जोड़ी जाती है।",
+    "ar": "في عام 962 تُوج أوتو الأول إمبراطورا في روما، وغالبا ما يُربط هذا التاريخ ببداية التقليد الإمبراطوري في العصور الوسطى."
   },
   "sources": [
     {

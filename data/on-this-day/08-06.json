@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открыта трасса Кёльн-Бонн",
       "de": "Die Kraftfahrstrasse Koeln-Bonn wird freigegeben",
-      "en": "The Cologne-Bonn motor road opens"
+      "en": "The Cologne-Bonn motor road opens",
+      "fr": "Ouverture de la route automobile Cologne-Bonn",
+      "es": "Se abre la carretera para automóviles Colonia-Bonn",
+      "it": "Apre la strada automobilistica Colonia-Bonn",
+      "pt": "É aberta a estrada automobilística Colônia-Bonn",
+      "nl": "De autoweg Keulen-Bonn wordt geopend",
+      "pl": "Otwarto drogę samochodową Kolonia-Bonn",
+      "tr": "Köln-Bonn motor yolu açılır",
+      "zh": "科隆-波恩汽车公路开通",
+      "ja": "ケルン-ボン自動車道路が開通する",
+      "ko": "쾰른-본 자동차 도로가 개통되다",
+      "hi": "कोलोन-बॉन मोटर सड़क खुली",
+      "ar": "افتتاح طريق كولونيا-بون للسيارات"
     },
     "description": {
       "ru": "6 августа 1932 года была открыта скоростная дорога между Кёльном и Бонном. Её часто называют первой немецкой автомагистралью такого типа.",
       "de": "Am 6. August 1932 wurde die Kraftfahrstrasse zwischen Koeln und Bonn freigegeben. Sie wird oft als erste deutsche Autobahn dieser Art bezeichnet.",
-      "en": "On 6 August 1932, the motor road between Cologne and Bonn opened. It is often described as Germany's first road of this autobahn-like type."
+      "en": "On 6 August 1932, the motor road between Cologne and Bonn opened. It is often described as Germany's first road of this autobahn-like type.",
+      "fr": "Le 6 août 1932, la route automobile entre Cologne et Bonn fut ouverte. Elle est souvent décrite comme la première route allemande de ce type proche de l'autoroute.",
+      "es": "El 6 de agosto de 1932 se abrió la carretera para automóviles entre Colonia y Bonn. A menudo se la describe como la primera vía alemana de este tipo, similar a una autopista.",
+      "it": "Il 6 agosto 1932 fu aperta la strada automobilistica tra Colonia e Bonn. Spesso è descritta come la prima strada tedesca di questo tipo, simile a un'autostrada.",
+      "pt": "Em 6 de agosto de 1932, foi aberta a estrada para automóveis entre Colônia e Bonn. Ela é frequentemente descrita como a primeira via alemã desse tipo, semelhante a uma autobahn.",
+      "nl": "Op 6 augustus 1932 werd de autoweg tussen Keulen en Bonn geopend. Hij wordt vaak beschreven als Duitslands eerste weg van dit autobahnachtige type.",
+      "pl": "6 sierpnia 1932 roku otwarto drogę samochodową między Kolonią a Bonn. Często określa się ją jako pierwszą niemiecką drogę tego typu, podobną do autostrady.",
+      "tr": "6 Ağustos 1932'de Köln ile Bonn arasındaki motor yolu açıldı. Bu yol genellikle Almanya'nın bu türdeki ilk otoyol benzeri yolu olarak tanımlanır.",
+      "zh": "1932年8月6日，科隆和波恩之间的汽车公路开通。它常被称为德国第一条此类高速公路式道路。",
+      "ja": "1932年8月6日、ケルンとボンを結ぶ自動車道路が開通した。この道路は、ドイツ初のアウトバーン型道路とされることが多い。",
+      "ko": "1932년 8월 6일, 쾰른과 본 사이의 자동차 도로가 개통되었다. 이 도로는 독일 최초의 이런 유형의 아우토반식 도로로 자주 설명된다.",
+      "hi": "6 अगस्त 1932 को कोलोन और बॉन के बीच मोटर सड़क खोली गई। इसे अक्सर इस प्रकार की पहली जर्मन ऑटोबान जैसी सड़क कहा जाता है।",
+      "ar": "في 6 أغسطس 1932 افتُتح الطريق المخصص للسيارات بين كولونيا وبون. وغالبا ما يوصف بأنه أول طريق ألماني من هذا النوع الشبيه بالأوتوبان."
     },
     "importance": {
       "ru": "Дата напоминает, что история автобанов началась ещё до прихода нацистов к власти.",
       "de": "Das Datum erinnert daran, dass die Geschichte der Autobahnen schon vor der Machtuebernahme der Nationalsozialisten begann.",
-      "en": "The date is a reminder that autobahn history began before the Nazis came to power."
+      "en": "The date is a reminder that autobahn history began before the Nazis came to power.",
+      "fr": "Cette date rappelle que l'histoire des autoroutes allemandes commença avant l'arrivée des nazis au pouvoir.",
+      "es": "La fecha recuerda que la historia de las autopistas alemanas comenzó antes de la llegada de los nazis al poder.",
+      "it": "La data ricorda che la storia delle autostrade tedesche iniziò prima dell'ascesa al potere dei nazisti.",
+      "pt": "A data lembra que a história das autobahns começou antes da chegada dos nazistas ao poder.",
+      "nl": "De datum herinnert eraan dat de geschiedenis van de autobahnen al begon voordat de nazi's aan de macht kwamen.",
+      "pl": "Ta data przypomina, że historia autostrad zaczęła się jeszcze przed dojściem nazistów do władzy.",
+      "tr": "Bu tarih, otoban tarihinin Nazilerin iktidara gelmesinden önce başladığını hatırlatır.",
+      "zh": "这个日期提醒人们，德国高速公路的历史早在纳粹上台前就已开始。",
+      "ja": "この日は、アウトバーンの歴史がナチスの権力掌握以前に始まっていたことを思い出させる。",
+      "ko": "이 날짜는 아우토반의 역사가 나치 집권 이전에 시작되었음을 상기시킨다.",
+      "hi": "यह तारीख याद दिलाती है कि ऑटोबान का इतिहास नाजियों के सत्ता में आने से पहले शुरू हो चुका था।",
+      "ar": "يذكّر هذا التاريخ بأن تاريخ الأوتوبان بدأ قبل وصول النازيين إلى السلطة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дорогу открыл Конрад Аденауэр",
           "de": "Konrad Adenauer eroeffnete die Strecke",
-          "en": "Konrad Adenauer opened the route"
+          "en": "Konrad Adenauer opened the route",
+          "fr": "Konrad Adenauer inaugura la route",
+          "es": "Konrad Adenauer inauguró la ruta",
+          "it": "Konrad Adenauer inaugurò il percorso",
+          "pt": "Konrad Adenauer inaugurou a via",
+          "nl": "Konrad Adenauer opende de route",
+          "pl": "Trasę otworzył Konrad Adenauer",
+          "tr": "Güzergahı Konrad Adenauer açtı",
+          "zh": "康拉德·阿登纳主持道路开通",
+          "ja": "コンラート・アデナウアーがこの道路を開通させる",
+          "ko": "콘라트 아데나워가 이 노선을 개통하다",
+          "hi": "कोनराड एडेनॉयर ने मार्ग खोला",
+          "ar": "كونراد أديناور افتتح الطريق"
         },
         "description": {
           "ru": "Открытие связано с Конрадом Аденауэром, тогда обер-бургомистром Кёльна. Позднее он стал первым канцлером ФРГ.",
           "de": "Die Eroeffnung ist mit Konrad Adenauer verbunden, damals Oberbuergermeister von Koeln. Spaeter wurde er der erste Bundeskanzler der Bundesrepublik.",
-          "en": "The opening is linked to Konrad Adenauer, then mayor of Cologne. He later became West Germany's first chancellor."
+          "en": "The opening is linked to Konrad Adenauer, then mayor of Cologne. He later became West Germany's first chancellor.",
+          "fr": "L'ouverture est liée à Konrad Adenauer, alors maire de Cologne. Plus tard, il devint le premier chancelier de la République fédérale d'Allemagne.",
+          "es": "La apertura está vinculada a Konrad Adenauer, entonces alcalde de Colonia. Más tarde se convirtió en el primer canciller de la RFA.",
+          "it": "L'apertura è legata a Konrad Adenauer, allora sindaco di Colonia. In seguito divenne il primo cancelliere della Germania Ovest.",
+          "pt": "A abertura está ligada a Konrad Adenauer, então prefeito de Colônia. Mais tarde, ele se tornou o primeiro chanceler da Alemanha Ocidental.",
+          "nl": "De opening is verbonden met Konrad Adenauer, toen burgemeester van Keulen. Later werd hij de eerste bondskanselier van de Bondsrepubliek.",
+          "pl": "Otwarcie wiąże się z Konradem Adenauerem, ówczesnym nadburmistrzem Kolonii. Później został pierwszym kanclerzem RFN.",
+          "tr": "Açılış, o dönemde Köln belediye başkanı olan Konrad Adenauer ile bağlantılıdır. Daha sonra Batı Almanya'nın ilk şansölyesi oldu.",
+          "zh": "这次开通与当时的科隆市长康拉德·阿登纳有关。后来他成为联邦德国首任总理。",
+          "ja": "この開通は、当時ケルン市長だったコンラート・アデナウアーと結びついている。彼は後に西ドイツ初代首相となった。",
+          "ko": "이 개통은 당시 쾰른 시장이었던 콘라트 아데나워와 관련이 있다. 그는 나중에 서독의 초대 총리가 되었다.",
+          "hi": "यह उद्घाटन उस समय कोलोन के मेयर रहे कोनराड एडेनॉयर से जुड़ा है। बाद में वे पश्चिम जर्मनी के पहले चांसलर बने।",
+          "ar": "يرتبط الافتتاح بكونراد أديناور، الذي كان آنذاك عمدة كولونيا. ولاحقا أصبح أول مستشار لألمانيا الغربية."
         },
         "importance": {
           "ru": "Одна дата неожиданно соединяет транспортную историю и большую политику.",
           "de": "Ein Datum verbindet hier Verkehrsgeschichte und grosse Politik.",
-          "en": "One date unexpectedly connects transport history with high politics."
+          "en": "One date unexpectedly connects transport history with high politics.",
+          "fr": "Une seule date relie ici de façon inattendue l'histoire des transports et la grande politique.",
+          "es": "Una fecha conecta aquí de forma inesperada la historia del transporte con la gran política.",
+          "it": "Una data collega qui in modo inatteso la storia dei trasporti con la grande politica.",
+          "pt": "Uma data conecta aqui, de forma inesperada, a história dos transportes com a grande política.",
+          "nl": "Eén datum verbindt hier onverwacht verkeersgeschiedenis met grote politiek.",
+          "pl": "Jedna data niespodziewanie łączy historię transportu z wielką polityką.",
+          "tr": "Tek bir tarih burada ulaşım tarihini büyük siyasetle beklenmedik biçimde bağlar.",
+          "zh": "一个日期在这里意外地把交通史和大政治联系起来。",
+          "ja": "一つの日付が、交通史と大きな政治を思いがけず結びつけている。",
+          "ko": "하나의 날짜가 교통사와 큰 정치를 뜻밖에 연결한다.",
+          "hi": "एक तारीख यहां यातायात इतिहास और बड़ी राजनीति को अप्रत्याशित रूप से जोड़ती है।",
+          "ar": "يربط تاريخ واحد هنا بين تاريخ النقل والسياسة الكبرى بصورة غير متوقعة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Сегодня этот маршрут связан с федеральной автомагистралью A555.",
     "de": "Heute ist die Strecke mit der Bundesautobahn A555 verbunden.",
-    "en": "Today the route is associated with the A555 federal autobahn."
+    "en": "Today the route is associated with the A555 federal autobahn.",
+    "fr": "Aujourd'hui, cet itinéraire est associé à l'autoroute fédérale A555.",
+    "es": "Hoy esta ruta está asociada con la autopista federal A555.",
+    "it": "Oggi questo percorso è associato all'autostrada federale A555.",
+    "pt": "Hoje a rota está associada à autoestrada federal A555.",
+    "nl": "Vandaag wordt de route geassocieerd met de federale autobahn A555.",
+    "pl": "Dziś trasa ta kojarzona jest z autostradą federalną A555.",
+    "tr": "Bugün bu güzergah A555 federal otoyolu ile ilişkilidir.",
+    "zh": "如今，这条路线与A555联邦高速公路相关。",
+    "ja": "現在、このルートは連邦アウトバーンA555と結びつけられている。",
+    "ko": "오늘날 이 노선은 A555 연방 아우토반과 관련되어 있다.",
+    "hi": "आज यह मार्ग संघीय ऑटोबान A555 से जुड़ा माना जाता है।",
+    "ar": "اليوم يرتبط هذا المسار بالطريق السريع الاتحادي A555."
   },
   "sources": [
     {
