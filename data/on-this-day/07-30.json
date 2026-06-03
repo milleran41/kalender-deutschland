@@ -11,17 +11,53 @@
     "title": {
       "ru": "Финал ЧМ-1966: ФРГ против Англии",
       "de": "WM-Finale 1966: Bundesrepublik gegen England",
-      "en": "1966 World Cup final: West Germany vs England"
+      "en": "1966 World Cup final: West Germany vs England",
+      "fr": "Finale de la Coupe du monde 1966 : RFA contre Angleterre",
+      "es": "Final del Mundial de 1966: RFA contra Inglaterra",
+      "it": "Finale dei Mondiali 1966: Germania Ovest contro Inghilterra",
+      "pt": "Final da Copa do Mundo de 1966: Alemanha Ocidental contra Inglaterra",
+      "nl": "WK-finale 1966: West-Duitsland tegen Engeland",
+      "pl": "Final mundialu 1966: RFN kontra Anglia",
+      "tr": "1966 Dünya Kupası finali: Batı Almanya - İngiltere",
+      "zh": "1966年世界杯决赛：西德对英格兰",
+      "ja": "1966年ワールドカップ決勝：西ドイツ対イングランド",
+      "ko": "1966년 월드컵 결승: 서독 대 잉글랜드",
+      "hi": "1966 विश्व कप फाइनल: पश्चिम जर्मनी बनाम इंग्लैंड",
+      "ar": "نهائي كأس العالم 1966: ألمانيا الغربية ضد إنجلترا"
     },
     "description": {
       "ru": "30 июля 1966 года сборная ФРГ проиграла Англии 2:4 после дополнительного времени в финале чемпионата мира на «Уэмбли». Матч стал одним из самых обсуждаемых в истории футбола.",
       "de": "Am 30. Juli 1966 verlor die Nationalmannschaft der Bundesrepublik das WM-Finale in Wembley nach Verlaengerung mit 2:4 gegen England. Das Spiel wurde eines der meistdiskutierten der Fussballgeschichte.",
-      "en": "On 30 July 1966, West Germany lost the World Cup final at Wembley 4-2 after extra time against England. The match became one of the most debated in football history."
+      "en": "On 30 July 1966, West Germany lost the World Cup final at Wembley 4-2 after extra time against England. The match became one of the most debated in football history.",
+      "fr": "Le 30 juillet 1966, l'équipe de RFA perdit la finale de la Coupe du monde à Wembley contre l'Angleterre, 4-2 après prolongation. Le match devint l'un des plus discutés de l'histoire du football.",
+      "es": "El 30 de julio de 1966, la selección de la RFA perdió la final del Mundial en Wembley contra Inglaterra por 4-2 tras la prórroga. El partido se convirtió en uno de los más debatidos de la historia del fútbol.",
+      "it": "Il 30 luglio 1966 la nazionale della Germania Ovest perse la finale dei Mondiali a Wembley contro l'Inghilterra per 4-2 dopo i tempi supplementari. La partita divenne una delle più discusse nella storia del calcio.",
+      "pt": "Em 30 de julho de 1966, a seleção da Alemanha Ocidental perdeu a final da Copa do Mundo em Wembley para a Inglaterra por 4 a 2 após a prorrogação. A partida tornou-se uma das mais debatidas da história do futebol.",
+      "nl": "Op 30 juli 1966 verloor West-Duitsland de WK-finale op Wembley na verlenging met 4-2 van Engeland. De wedstrijd werd een van de meest besproken in de voetbalgeschiedenis.",
+      "pl": "30 lipca 1966 roku reprezentacja RFN przegrała finał mistrzostw świata na Wembley z Anglią 2:4 po dogrywce. Mecz stał się jednym z najczęściej dyskutowanych w historii piłki nożnej.",
+      "tr": "30 Temmuz 1966'da Batı Almanya milli takımı Wembley'deki Dünya Kupası finalini uzatmalardan sonra İngiltere'ye 4-2 kaybetti. Maç futbol tarihinin en çok tartışılan karşılaşmalarından biri oldu.",
+      "zh": "1966年7月30日，西德队在温布利世界杯决赛中加时后以2比4负于英格兰。该比赛成为足球史上最受争议的比赛之一。",
+      "ja": "1966年7月30日、西ドイツ代表はウェンブリーでのワールドカップ決勝で、延長戦の末にイングランドに2対4で敗れた。この試合はサッカー史上最も議論された試合の一つとなった。",
+      "ko": "1966년 7월 30일, 서독 대표팀은 웸블리에서 열린 월드컵 결승에서 연장전 끝에 잉글랜드에 2-4로 패했다. 이 경기는 축구 역사상 가장 많이 논쟁된 경기 중 하나가 되었다.",
+      "hi": "30 जुलाई 1966 को पश्चिम जर्मनी की टीम वेम्बली में विश्व कप फाइनल में अतिरिक्त समय के बाद इंग्लैंड से 4-2 से हार गई। यह मैच फुटबॉल इतिहास के सबसे अधिक चर्चित मैचों में से एक बन गया।",
+      "ar": "في 30 يوليو 1966 خسرت ألمانيا الغربية نهائي كأس العالم في ويمبلي أمام إنجلترا 4-2 بعد وقت إضافي. وأصبحت المباراة واحدة من أكثر المباريات إثارة للجدل في تاريخ كرة القدم."
     },
     "importance": {
       "ru": "Финал вошёл в немецкую спортивную память из-за спорного третьего гола Англии.",
       "de": "Das Finale ging wegen des umstrittenen dritten englischen Tores in die deutsche Sporterinnerung ein.",
-      "en": "The final entered German sporting memory because of England's disputed third goal."
+      "en": "The final entered German sporting memory because of England's disputed third goal.",
+      "fr": "La finale est entrée dans la mémoire sportive allemande à cause du troisième but anglais contesté.",
+      "es": "La final entró en la memoria deportiva alemana por el discutido tercer gol de Inglaterra.",
+      "it": "La finale entrò nella memoria sportiva tedesca a causa del discusso terzo gol inglese.",
+      "pt": "A final entrou na memória esportiva alemã por causa do controverso terceiro gol da Inglaterra.",
+      "nl": "De finale kwam in het Duitse sportgeheugen terecht door het omstreden derde doelpunt van Engeland.",
+      "pl": "Finał zapisał się w niemieckiej pamięci sportowej z powodu spornego trzeciego gola Anglii.",
+      "tr": "Final, İngiltere'nin tartışmalı üçüncü golü nedeniyle Alman spor hafızasına yerleşti.",
+      "zh": "由于英格兰有争议的第三个进球，这场决赛进入了德国体育记忆。",
+      "ja": "この決勝は、イングランドの物議を醸した3点目によってドイツのスポーツ記憶に刻まれた。",
+      "ko": "이 결승전은 잉글랜드의 논란이 된 세 번째 골 때문에 독일 스포츠 기억 속에 남았다.",
+      "hi": "इंग्लैंड के विवादित तीसरे गोल के कारण यह फाइनल जर्मन खेल-स्मृति में दर्ज हो गया।",
+      "ar": "دخل هذا النهائي الذاكرة الرياضية الألمانية بسبب الهدف الإنجليزي الثالث المثير للجدل."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Гол Уэмбли",
           "de": "Das Wembley-Tor",
-          "en": "The Wembley goal"
+          "en": "The Wembley goal",
+          "fr": "Le but de Wembley",
+          "es": "El gol de Wembley",
+          "it": "Il gol di Wembley",
+          "pt": "O gol de Wembley",
+          "nl": "Het Wembley-doelpunt",
+          "pl": "Gol z Wembley",
+          "tr": "Wembley golü",
+          "zh": "温布利进球",
+          "ja": "ウェンブリー・ゴール",
+          "ko": "웸블리 골",
+          "hi": "वेम्बली गोल",
+          "ar": "هدف ويمبلي"
         },
         "description": {
           "ru": "В дополнительное время удар Джеффа Херста попал в перекладину и отскочил вниз. Судьи засчитали гол, но споры о том, пересёк ли мяч линию полностью, продолжались десятилетиями.",
           "de": "In der Verlaengerung prallte ein Schuss von Geoff Hurst an die Latte und sprang nach unten. Die Schiedsrichter gaben das Tor, doch die Frage, ob der Ball vollstaendig hinter der Linie war, blieb jahrzehntelang umstritten.",
-          "en": "In extra time, Geoff Hurst's shot hit the crossbar and bounced down. The officials awarded the goal, but whether the ball fully crossed the line remained disputed for decades."
+          "en": "In extra time, Geoff Hurst's shot hit the crossbar and bounced down. The officials awarded the goal, but whether the ball fully crossed the line remained disputed for decades.",
+          "fr": "Pendant la prolongation, un tir de Geoff Hurst frappa la barre transversale et rebondit vers le bas. Les arbitres accordèrent le but, mais la question de savoir si le ballon avait entièrement franchi la ligne resta discutée pendant des décennies.",
+          "es": "En la prórroga, un disparo de Geoff Hurst golpeó el travesaño y botó hacia abajo. Los árbitros concedieron el gol, pero durante décadas se discutió si el balón cruzó por completo la línea.",
+          "it": "Nei tempi supplementari, un tiro di Geoff Hurst colpì la traversa e rimbalzò verso il basso. Gli arbitri convalidarono il gol, ma per decenni rimase controverso se il pallone avesse superato completamente la linea.",
+          "pt": "Na prorrogação, um chute de Geoff Hurst bateu no travessão e quicou para baixo. Os árbitros validaram o gol, mas por décadas continuou a dúvida se a bola havia cruzado totalmente a linha.",
+          "nl": "In de verlenging raakte een schot van Geoff Hurst de lat en stuiterde naar beneden. De scheidsrechters kenden het doelpunt toe, maar of de bal volledig over de lijn was, bleef tientallen jaren omstreden.",
+          "pl": "W dogrywce strzał Geoffa Hursta trafił w poprzeczkę i odbił się w dół. Sędziowie uznali gola, ale przez dziesięciolecia spierano się, czy piłka całkowicie przekroczyła linię.",
+          "tr": "Uzatmalarda Geoff Hurst'ün şutu üst direğe çarpıp aşağı sekti. Hakemler golü verdi, ancak topun çizgiyi tamamen geçip geçmediği onlarca yıl tartışıldı.",
+          "zh": "加时赛中，杰夫·赫斯特的射门击中横梁后向下弹落。裁判判定进球有效，但球是否完全越过门线几十年来一直存在争议。",
+          "ja": "延長戦で、ジェフ・ハーストのシュートはクロスバーに当たって下へ跳ね返った。審判はゴールを認めたが、ボールが完全にラインを越えたかどうかは何十年も議論された。",
+          "ko": "연장전에서 제프 허스트의 슛이 크로스바를 맞고 아래로 튀었다. 심판진은 골을 인정했지만, 공이 완전히 선을 넘었는지는 수십 년 동안 논란으로 남았다.",
+          "hi": "अतिरिक्त समय में जेफ हर्स्ट का शॉट क्रॉसबार से टकराकर नीचे गिरा। अधिकारियों ने गोल दे दिया, लेकिन गेंद पूरी तरह रेखा पार कर गई थी या नहीं, इस पर दशकों तक विवाद रहा।",
+          "ar": "في الوقت الإضافي اصطدمت تسديدة جيف هيرست بالعارضة وارتدت إلى الأسفل. احتسب الحكام الهدف، لكن مسألة ما إذا كانت الكرة قد تجاوزت الخط بالكامل ظلت محل جدل لعقود."
         },
         "importance": {
           "ru": "Это один из самых известных спорных моментов мирового футбола.",
           "de": "Es ist eine der bekanntesten strittigen Szenen des Weltfussballs.",
-          "en": "It is one of the most famous disputed moments in world football."
+          "en": "It is one of the most famous disputed moments in world football.",
+          "fr": "C'est l'un des moments contestés les plus célèbres du football mondial.",
+          "es": "Es uno de los momentos polémicos más famosos del fútbol mundial.",
+          "it": "È uno dei momenti controversi più famosi del calcio mondiale.",
+          "pt": "É um dos momentos controversos mais famosos do futebol mundial.",
+          "nl": "Het is een van de bekendste omstreden momenten in het wereldvoetbal.",
+          "pl": "To jeden z najsłynniejszych spornych momentów w światowym futbolu.",
+          "tr": "Bu, dünya futbolunun en ünlü tartışmalı anlarından biridir.",
+          "zh": "这是世界足球中最著名的争议时刻之一。",
+          "ja": "これは世界のサッカーで最も有名な論争の場面の一つである。",
+          "ko": "이는 세계 축구에서 가장 유명한 논란의 순간 중 하나이다.",
+          "hi": "यह विश्व फुटबॉल के सबसे प्रसिद्ध विवादित क्षणों में से एक है।",
+          "ar": "إنه أحد أشهر اللحظات المثيرة للجدل في كرة القدم العالمية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Слово для спорных голов",
           "de": "Ein Wort fuer strittige Tore",
-          "en": "A phrase for disputed goals"
+          "en": "A phrase for disputed goals",
+          "fr": "Une expression pour les buts contestés",
+          "es": "Una expresión para goles discutidos",
+          "it": "Un'espressione per i gol controversi",
+          "pt": "Uma expressão para gols controversos",
+          "nl": "Een uitdrukking voor betwiste doelpunten",
+          "pl": "Określenie na sporne gole",
+          "tr": "Tartışmalı goller için bir ifade",
+          "zh": "争议进球的说法",
+          "ja": "疑惑のゴールを表す言葉",
+          "ko": "논란의 골을 가리키는 표현",
+          "hi": "विवादित गोलों के लिए एक मुहावरा",
+          "ar": "تعبير للأهداف المتنازع عليها"
         },
         "description": {
           "ru": "В немецком языке выражение «Wembley-Tor» стало обозначать спорный гол, когда неясно, пересёк ли мяч линию. Так один эпизод превратился в футбольную поговорку.",
           "de": "Im Deutschen wurde Wembley-Tor zu einer Bezeichnung fuer ein strittiges Tor, bei dem unklar ist, ob der Ball die Linie ueberschritten hat. So wurde eine Szene zur Fussballredewendung.",
-          "en": "In German, Wembley-Tor became a term for a disputed goal where it is unclear whether the ball crossed the line. One incident became a football expression."
+          "en": "In German, Wembley-Tor became a term for a disputed goal where it is unclear whether the ball crossed the line. One incident became a football expression.",
+          "fr": "En allemand, Wembley-Tor est devenu un terme pour un but contesté lorsque l'on ne sait pas si le ballon a franchi la ligne. Un seul épisode est ainsi devenu une expression du football.",
+          "es": "En alemán, Wembley-Tor se convirtió en un término para un gol polémico cuando no está claro si el balón cruzó la línea. Así, un episodio se transformó en una expresión futbolística.",
+          "it": "In tedesco, Wembley-Tor divenne un termine per indicare un gol controverso quando non è chiaro se il pallone abbia superato la linea. Così un episodio diventò un modo di dire calcistico.",
+          "pt": "Em alemão, Wembley-Tor tornou-se um termo para um gol controverso quando não está claro se a bola cruzou a linha. Assim, um episódio virou uma expressão do futebol.",
+          "nl": "In het Duits werd Wembley-Tor een term voor een betwist doelpunt waarbij onduidelijk is of de bal de lijn is gepasseerd. Zo werd één moment een voetbaluitdrukking.",
+          "pl": "W języku niemieckim Wembley-Tor stało się określeniem spornego gola, gdy nie wiadomo, czy piłka przekroczyła linię. Tak jeden epizod stał się piłkarskim powiedzeniem.",
+          "tr": "Almancada Wembley-Tor, topun çizgiyi geçip geçmediği belirsiz olan tartışmalı gol için kullanılan bir terim haline geldi. Böylece tek bir olay futbol deyimine dönüştü.",
+          "zh": "在德语中，“Wembley-Tor”成为争议进球的说法，用来表示球是否越过门线并不明确的情况。一个事件就这样变成了足球用语。",
+          "ja": "ドイツ語では、Wembley-Torはボールがラインを越えたか不明な疑惑のゴールを表す言葉になった。一つの場面がサッカー表現になったのである。",
+          "ko": "독일어에서 Wembley-Tor는 공이 선을 넘었는지 불분명한 논란의 골을 뜻하는 말이 되었다. 하나의 사건이 축구 표현으로 바뀐 것이다.",
+          "hi": "जर्मन भाषा में Wembley-Tor उस विवादित गोल के लिए शब्द बन गया जिसमें साफ न हो कि गेंद रेखा पार कर गई या नहीं। इस तरह एक घटना फुटबॉल की कहावत बन गई।",
+          "ar": "في الألمانية أصبح Wembley-Tor مصطلحا للهدف المتنازع عليه عندما لا يكون واضحا ما إذا كانت الكرة قد تجاوزت الخط. وهكذا تحولت لقطة واحدة إلى تعبير كروي."
         },
         "importance": {
           "ru": "Иногда спорт оставляет после себя не только счёт, но и новое слово.",
           "de": "Manchmal hinterlaesst Sport nicht nur ein Ergebnis, sondern auch ein neues Wort.",
-          "en": "Sometimes sport leaves behind not only a score but also a new phrase."
+          "en": "Sometimes sport leaves behind not only a score but also a new phrase.",
+          "fr": "Parfois, le sport laisse derrière lui non seulement un score, mais aussi une nouvelle expression.",
+          "es": "A veces el deporte deja no solo un resultado, sino también una nueva expresión.",
+          "it": "A volte lo sport lascia non solo un risultato, ma anche una nuova espressione.",
+          "pt": "Às vezes o esporte deixa não apenas um placar, mas também uma nova expressão.",
+          "nl": "Soms laat sport niet alleen een uitslag achter, maar ook een nieuw woord.",
+          "pl": "Czasem sport zostawia po sobie nie tylko wynik, lecz także nowe słowo.",
+          "tr": "Bazen spor geride yalnızca bir skor değil, yeni bir ifade de bırakır.",
+          "zh": "有时体育留下的不只是比分，还有一个新词。",
+          "ja": "スポーツは時に、スコアだけでなく新しい言葉も残す。",
+          "ko": "때로 스포츠는 점수뿐 아니라 새로운 말도 남긴다.",
+          "hi": "कभी-कभी खेल अपने पीछे केवल स्कोर नहीं, बल्कि एक नया शब्द भी छोड़ जाता है।",
+          "ar": "أحيانا لا تترك الرياضة وراءها نتيجة فقط، بل كلمة جديدة أيضا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Джефф Херст стал первым игроком, сделавшим хет-трик в финале чемпионата мира.",
     "de": "Geoff Hurst wurde der erste Spieler mit einem Hattrick in einem WM-Finale.",
-    "en": "Geoff Hurst became the first player to score a hat-trick in a World Cup final."
+    "en": "Geoff Hurst became the first player to score a hat-trick in a World Cup final.",
+    "fr": "Geoff Hurst devint le premier joueur à réussir un triplé en finale de Coupe du monde.",
+    "es": "Geoff Hurst se convirtió en el primer jugador en marcar un triplete en una final de la Copa del Mundo.",
+    "it": "Geoff Hurst divenne il primo giocatore a segnare una tripletta in una finale dei Mondiali.",
+    "pt": "Geoff Hurst tornou-se o primeiro jogador a marcar um hat-trick em uma final de Copa do Mundo.",
+    "nl": "Geoff Hurst werd de eerste speler die een hattrick maakte in een WK-finale.",
+    "pl": "Geoff Hurst został pierwszym zawodnikiem, który zdobył hat-tricka w finale mistrzostw świata.",
+    "tr": "Geoff Hurst, Dünya Kupası finalinde hat-trick yapan ilk oyuncu oldu.",
+    "zh": "杰夫·赫斯特成为首位在世界杯决赛中上演帽子戏法的球员。",
+    "ja": "ジェフ・ハーストはワールドカップ決勝でハットトリックを達成した最初の選手となった。",
+    "ko": "제프 허스트는 월드컵 결승에서 해트트릭을 기록한 첫 선수가 되었다.",
+    "hi": "जेफ हर्स्ट विश्व कप फाइनल में हैट्रिक बनाने वाले पहले खिलाड़ी बने।",
+    "ar": "أصبح جيف هيرست أول لاعب يسجل ثلاثية في نهائي كأس العالم."
   },
   "sources": [
     {

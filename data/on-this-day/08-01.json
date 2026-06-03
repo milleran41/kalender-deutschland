@@ -11,17 +11,53 @@
     "title": {
       "ru": "Основана компания Bayer",
       "de": "Bayer wird gegruendet",
-      "en": "Bayer is founded"
+      "en": "Bayer is founded",
+      "fr": "Fondation de Bayer",
+      "es": "Se funda Bayer",
+      "it": "Viene fondata Bayer",
+      "pt": "A Bayer é fundada",
+      "nl": "Bayer wordt opgericht",
+      "pl": "Powstaje Bayer",
+      "tr": "Bayer kurulur",
+      "zh": "拜耳公司成立",
+      "ja": "バイエルが創業される",
+      "ko": "바이엘이 설립되다",
+      "hi": "Bayer कंपनी की स्थापना हुई",
+      "ar": "تأسيس شركة باير"
     },
     "description": {
       "ru": "1 августа 1863 года Фридрих Байер и Иоганн Фридрих Вескотт основали в Бармене компанию Friedr. Bayer et comp. Позднее Bayer стала одной из крупнейших немецких химико-фармацевтических компаний.",
       "de": "Am 1. August 1863 gruendeten Friedrich Bayer und Johann Friedrich Weskott in Barmen die Firma Friedr. Bayer et comp. Spaeter wurde Bayer zu einem der groessten deutschen Chemie- und Pharmaunternehmen.",
-      "en": "On 1 August 1863, Friedrich Bayer and Johann Friedrich Weskott founded Friedr. Bayer et comp. in Barmen. Bayer later became one of Germany's largest chemical and pharmaceutical companies."
+      "en": "On 1 August 1863, Friedrich Bayer and Johann Friedrich Weskott founded Friedr. Bayer et comp. in Barmen. Bayer later became one of Germany's largest chemical and pharmaceutical companies.",
+      "fr": "Le 1er août 1863, Friedrich Bayer et Johann Friedrich Weskott fondèrent à Barmen la société Friedr. Bayer et comp. Plus tard, Bayer devint l'une des plus grandes entreprises allemandes de chimie et de pharmacie.",
+      "es": "El 1 de agosto de 1863, Friedrich Bayer y Johann Friedrich Weskott fundaron en Barmen la empresa Friedr. Bayer et comp. Más tarde, Bayer se convirtió en una de las mayores compañías químicas y farmacéuticas de Alemania.",
+      "it": "Il 1º agosto 1863 Friedrich Bayer e Johann Friedrich Weskott fondarono a Barmen la ditta Friedr. Bayer et comp. In seguito Bayer divenne una delle maggiori aziende chimiche e farmaceutiche tedesche.",
+      "pt": "Em 1º de agosto de 1863, Friedrich Bayer e Johann Friedrich Weskott fundaram em Barmen a empresa Friedr. Bayer et comp. Mais tarde, a Bayer tornou-se uma das maiores empresas químicas e farmacêuticas da Alemanha.",
+      "nl": "Op 1 augustus 1863 richtten Friedrich Bayer en Johann Friedrich Weskott in Barmen de firma Friedr. Bayer et comp. op. Later werd Bayer een van de grootste Duitse chemische en farmaceutische bedrijven.",
+      "pl": "1 sierpnia 1863 roku Friedrich Bayer i Johann Friedrich Weskott założyli w Barmen firmę Friedr. Bayer et comp. Później Bayer stał się jednym z największych niemieckich przedsiębiorstw chemiczno-farmaceutycznych.",
+      "tr": "1 Ağustos 1863'te Friedrich Bayer ve Johann Friedrich Weskott, Barmen'de Friedr. Bayer et comp. şirketini kurdu. Bayer daha sonra Almanya'nın en büyük kimya ve ilaç şirketlerinden biri oldu.",
+      "zh": "1863年8月1日，弗里德里希·拜耳和约翰·弗里德里希·韦斯科特在巴门创立了Friedr. Bayer et comp.。后来，拜耳成为德国最大的化学和制药公司之一。",
+      "ja": "1863年8月1日、フリードリヒ・バイエルとヨハン・フリードリヒ・ヴェスコットはバルメンでFriedr. Bayer et comp.を創業した。後にバイエルはドイツ最大級の化学・製薬企業の一つとなった。",
+      "ko": "1863년 8월 1일, 프리드리히 바이엘과 요한 프리드리히 베스코트가 바르멘에서 Friedr. Bayer et comp.를 설립했다. 이후 바이엘은 독일 최대의 화학 및 제약 회사 중 하나가 되었다.",
+      "hi": "1 अगस्त 1863 को फ्रिडरिख बायर और योहान फ्रिडरिख वेस्कॉट ने बार्मेन में Friedr. Bayer et comp. कंपनी स्थापित की। बाद में Bayer जर्मनी की सबसे बड़ी रसायन और दवा कंपनियों में से एक बनी।",
+      "ar": "في 1 أغسطس 1863 أسس فريدريش باير ويوهان فريدريش ويسكوت في بارمن شركة Friedr. Bayer et comp. ولاحقا أصبحت باير واحدة من أكبر شركات الكيمياء والأدوية في ألمانيا."
     },
     "importance": {
       "ru": "История Bayer показывает связь немецкой химии, медицины и промышленного роста.",
       "de": "Die Geschichte von Bayer zeigt die Verbindung von deutscher Chemie, Medizin und industriellem Wachstum.",
-      "en": "Bayer's history shows the link between German chemistry, medicine and industrial growth."
+      "en": "Bayer's history shows the link between German chemistry, medicine and industrial growth.",
+      "fr": "L'histoire de Bayer montre le lien entre la chimie allemande, la médecine et la croissance industrielle.",
+      "es": "La historia de Bayer muestra el vínculo entre la química alemana, la medicina y el crecimiento industrial.",
+      "it": "La storia di Bayer mostra il legame tra chimica tedesca, medicina e crescita industriale.",
+      "pt": "A história da Bayer mostra a ligação entre a química alemã, a medicina e o crescimento industrial.",
+      "nl": "De geschiedenis van Bayer toont de band tussen Duitse chemie, geneeskunde en industriële groei.",
+      "pl": "Historia Bayera pokazuje związek niemieckiej chemii, medycyny i wzrostu przemysłowego.",
+      "tr": "Bayer'in tarihi Alman kimyası, tıp ve endüstriyel büyüme arasındaki bağı gösterir.",
+      "zh": "拜耳的历史显示了德国化学、医学和工业增长之间的联系。",
+      "ja": "バイエルの歴史は、ドイツの化学、医学、産業成長の結びつきを示している。",
+      "ko": "바이엘의 역사는 독일 화학, 의학, 산업 성장의 연결을 보여 준다.",
+      "hi": "Bayer का इतिहास जर्मन रसायन विज्ञान, चिकित्सा और औद्योगिक विकास के संबंध को दिखाता है।",
+      "ar": "يبين تاريخ باير الصلة بين الكيمياء الألمانية والطب والنمو الصناعي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Бармен и промышленная Вуппертальская долина",
           "de": "Barmen und das industrielle Wuppertal",
-          "en": "Barmen and industrial Wuppertal"
+          "en": "Barmen and industrial Wuppertal",
+          "fr": "Barmen et la Wuppertal industrielle",
+          "es": "Barmen y la región industrial de Wuppertal",
+          "it": "Barmen e la regione industriale di Wuppertal",
+          "pt": "Barmen e a região industrial de Wuppertal",
+          "nl": "Barmen en het industriële Wuppertal",
+          "pl": "Barmen i przemysłowy Wuppertal",
+          "tr": "Barmen ve endüstriyel Wuppertal",
+          "zh": "巴门与工业化的伍珀塔尔",
+          "ja": "バルメンと工業都市ヴッパータール",
+          "ko": "바르멘과 산업 도시 부퍼탈",
+          "hi": "बार्मेन और औद्योगिक वुप्पर्टाल",
+          "ar": "بارمن وفوبرتال الصناعية"
         },
         "description": {
           "ru": "Бармен сегодня является частью Вупперталя. В XIX веке этот регион был важным центром текстильной, красильной и химической промышленности.",
           "de": "Barmen ist heute ein Teil von Wuppertal. Im 19. Jahrhundert war die Region ein wichtiges Zentrum von Textil-, Farbstoff- und Chemieindustrie.",
-          "en": "Barmen is now part of Wuppertal. In the nineteenth century, the region was an important center of textile, dye and chemical industries."
+          "en": "Barmen is now part of Wuppertal. In the nineteenth century, the region was an important center of textile, dye and chemical industries.",
+          "fr": "Barmen fait aujourd'hui partie de Wuppertal. Au XIXe siècle, la région était un centre important de l'industrie textile, des colorants et de la chimie.",
+          "es": "Barmen forma hoy parte de Wuppertal. En el siglo XIX, la región fue un centro importante de la industria textil, de tintes y química.",
+          "it": "Barmen oggi fa parte di Wuppertal. Nel XIX secolo la regione era un importante centro dell'industria tessile, dei coloranti e chimica.",
+          "pt": "Barmen hoje faz parte de Wuppertal. No século XIX, a região era um importante centro das indústrias têxtil, de corantes e química.",
+          "nl": "Barmen is tegenwoordig deel van Wuppertal. In de negentiende eeuw was de regio een belangrijk centrum van textiel-, kleurstof- en chemische industrie.",
+          "pl": "Barmen jest dziś częścią Wuppertalu. W XIX wieku region był ważnym ośrodkiem przemysłu tekstylnego, barwnikowego i chemicznego.",
+          "tr": "Barmen bugün Wuppertal'ın bir parçasıdır. 19. yüzyılda bölge tekstil, boya ve kimya sanayisinin önemli bir merkeziydi.",
+          "zh": "巴门今天是伍珀塔尔的一部分。19世纪，该地区是纺织、染料和化学工业的重要中心。",
+          "ja": "バルメンは現在、ヴッパータールの一部である。19世紀、この地域は繊維、染料、化学産業の重要な中心地だった。",
+          "ko": "바르멘은 오늘날 부퍼탈의 일부이다. 19세기에 이 지역은 섬유, 염료, 화학 산업의 중요한 중심지였다.",
+          "hi": "बार्मेन आज वुप्पर्टाल का हिस्सा है। उन्नीसवीं सदी में यह क्षेत्र कपड़ा, रंग और रसायन उद्योग का महत्वपूर्ण केंद्र था।",
+          "ar": "بارمن اليوم جزء من فوبرتال. وفي القرن التاسع عشر كانت المنطقة مركزا مهما لصناعات النسيج والأصباغ والكيمياء."
         },
         "importance": {
           "ru": "Такие даты помогают видеть промышленную Германию не только через Рур, но и через другие регионы.",
           "de": "Solche Daten zeigen das industrielle Deutschland nicht nur durch das Ruhrgebiet, sondern auch durch andere Regionen.",
-          "en": "Dates like this show industrial Germany not only through the Ruhr but also through other regions."
+          "en": "Dates like this show industrial Germany not only through the Ruhr but also through other regions.",
+          "fr": "De telles dates montrent l'Allemagne industrielle non seulement à travers la Ruhr, mais aussi à travers d'autres régions.",
+          "es": "Fechas como esta muestran la Alemania industrial no solo a través del Ruhr, sino también de otras regiones.",
+          "it": "Date come questa mostrano la Germania industriale non solo attraverso la Ruhr, ma anche attraverso altre regioni.",
+          "pt": "Datas como esta mostram a Alemanha industrial não apenas pelo Ruhr, mas também por outras regiões.",
+          "nl": "Dit soort datums tonen industrieel Duitsland niet alleen via het Ruhrgebied, maar ook via andere regio's.",
+          "pl": "Takie daty pokazują przemysłowe Niemcy nie tylko przez Zagłębie Ruhry, lecz także przez inne regiony.",
+          "tr": "Bu tür tarihler sanayi Almanyası'nı yalnızca Ruhr üzerinden değil, başka bölgeler üzerinden de gösterir.",
+          "zh": "这样的日期让人看到工业德国不仅有鲁尔区，也包括其他地区。",
+          "ja": "このような日付は、工業化したドイツをルール地方だけでなく他の地域からも見せてくれる。",
+          "ko": "이런 날짜들은 산업 독일을 루르 지역뿐 아니라 다른 지역을 통해서도 보여 준다.",
+          "hi": "ऐसी तारीखें औद्योगिक जर्मनी को केवल रूर क्षेत्र से नहीं, बल्कि अन्य क्षेत्रों से भी दिखाती हैं।",
+          "ar": "تُظهر مثل هذه التواريخ ألمانيا الصناعية ليس عبر الرور فقط، بل عبر مناطق أخرى أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Бармен, где появилась Bayer, сегодня входит в город Вупперталь в Северном Рейне-Вестфалии.",
     "de": "Barmen, der Gruendungsort von Bayer, gehoert heute zu Wuppertal in Nordrhein-Westfalen.",
-    "en": "Barmen, where Bayer was founded, is now part of Wuppertal in North Rhine-Westphalia."
+    "en": "Barmen, where Bayer was founded, is now part of Wuppertal in North Rhine-Westphalia.",
+    "fr": "Barmen, où Bayer fut fondée, fait aujourd'hui partie de Wuppertal en Rhénanie-du-Nord-Westphalie.",
+    "es": "Barmen, donde se fundó Bayer, forma hoy parte de Wuppertal en Renania del Norte-Westfalia.",
+    "it": "Barmen, dove fu fondata Bayer, oggi fa parte di Wuppertal nella Renania Settentrionale-Vestfalia.",
+    "pt": "Barmen, onde a Bayer foi fundada, hoje faz parte de Wuppertal na Renânia do Norte-Vestfália.",
+    "nl": "Barmen, waar Bayer werd opgericht, is nu deel van Wuppertal in Noordrijn-Westfalen.",
+    "pl": "Barmen, gdzie założono Bayer, jest dziś częścią Wuppertalu w Nadrenii Północnej-Westfalii.",
+    "tr": "Bayer'in kurulduğu Barmen, bugün Kuzey Ren-Vestfalya'daki Wuppertal kentinin bir parçasıdır.",
+    "zh": "拜耳创立地巴门如今是北莱茵-威斯特法伦州伍珀塔尔的一部分。",
+    "ja": "バイエルが創業されたバルメンは、現在ノルトライン＝ヴェストファーレン州ヴッパータールの一部である。",
+    "ko": "바이엘이 설립된 바르멘은 현재 노르트라인베스트팔렌주의 부퍼탈 일부이다.",
+    "hi": "जहां Bayer की स्थापना हुई थी, वह बार्मेन आज नॉर्थ राइन-वेस्टफेलिया के वुप्पर्टाल शहर का हिस्सा है।",
+    "ar": "بارمن، حيث تأسست باير، هي اليوم جزء من مدينة فوبرتال في شمال الراين وستفاليا."
   },
   "sources": [
     {
