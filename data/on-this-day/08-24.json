@@ -11,17 +11,53 @@
     "title": {
       "ru": "С датой связывают завершение экземпляра Библии Гутенберга",
       "de": "Mit dem Datum wird ein Exemplar der Gutenberg-Bibel verbunden",
-      "en": "The date is linked with a copy of the Gutenberg Bible"
+      "en": "The date is linked with a copy of the Gutenberg Bible",
+      "fr": "La date est liée à un exemplaire de la Bible de Gutenberg",
+      "es": "La fecha se vincula con un ejemplar de la Biblia de Gutenberg",
+      "it": "La data è legata a una copia della Bibbia di Gutenberg",
+      "pt": "A data é ligada a um exemplar da Bíblia de Gutenberg",
+      "nl": "De datum wordt verbonden met een exemplaar van de Gutenbergbijbel",
+      "pl": "Data jest łączona z egzemplarzem Biblii Gutenberga",
+      "tr": "Bu tarih Gutenberg İncili'nin bir nüshasıyla ilişkilendirilir",
+      "zh": "这个日期与一本《古腾堡圣经》有关",
+      "ja": "この日はグーテンベルク聖書の一部と結びつけられている",
+      "ko": "이 날짜는 구텐베르크 성경 한 권과 연결된다",
+      "hi": "यह तारीख गुटेनबर्ग बाइबिल की एक प्रति से जुड़ी है",
+      "ar": "يرتبط هذا التاريخ بنسخة من إنجيل غوتنبرغ"
     },
     "description": {
       "ru": "24 августа 1456 года связывают как минимум с одним завершённым экземпляром Библии Гутенберга. Печатная Библия стала одним из главных символов революции книгопечатания.",
       "de": "Der 24. August 1456 wird mit mindestens einem vollendeten Exemplar der Gutenberg-Bibel verbunden. Die gedruckte Bibel wurde zu einem Hauptsymbol der Buchdruckrevolution.",
-      "en": "24 August 1456 is linked with at least one completed copy of the Gutenberg Bible. The printed Bible became one of the main symbols of the printing revolution."
+      "en": "24 August 1456 is linked with at least one completed copy of the Gutenberg Bible. The printed Bible became one of the main symbols of the printing revolution.",
+      "fr": "Le 24 août 1456 est lié à au moins un exemplaire achevé de la Bible de Gutenberg. La Bible imprimée devint l'un des grands symboles de la révolution de l'imprimerie.",
+      "es": "El 24 de agosto de 1456 se relaciona con al menos un ejemplar terminado de la Biblia de Gutenberg. La Biblia impresa se convirtió en uno de los grandes símbolos de la revolución de la imprenta.",
+      "it": "Il 24 agosto 1456 è collegato ad almeno una copia completata della Bibbia di Gutenberg. La Bibbia stampata divenne uno dei principali simboli della rivoluzione della stampa.",
+      "pt": "24 de agosto de 1456 é ligado a pelo menos um exemplar concluído da Bíblia de Gutenberg. A Bíblia impressa tornou-se um dos grandes símbolos da revolução da imprensa.",
+      "nl": "24 augustus 1456 wordt verbonden met ten minste één voltooid exemplaar van de Gutenbergbijbel. De gedrukte Bijbel werd een van de belangrijkste symbolen van de boekdrukrevolutie.",
+      "pl": "24 sierpnia 1456 roku łączy się z co najmniej jednym ukończonym egzemplarzem Biblii Gutenberga. Drukowana Biblia stała się jednym z głównych symboli rewolucji druku.",
+      "tr": "24 Ağustos 1456, Gutenberg İncili'nin tamamlanmış en az bir nüshasıyla ilişkilendirilir. Basılı İncil, matbaa devriminin başlıca sembollerinden biri oldu.",
+      "zh": "1456年8月24日与至少一本完成的《古腾堡圣经》有关。印刷版圣经成为印刷革命的主要象征之一。",
+      "ja": "1456年8月24日は、完成したグーテンベルク聖書の少なくとも一冊と結びつけられています。印刷された聖書は、印刷革命の主要な象徴の一つになりました。",
+      "ko": "1456년 8월 24일은 완성된 구텐베르크 성경 최소 한 권과 관련되어 있습니다. 인쇄된 성경은 인쇄 혁명의 주요 상징 중 하나가 되었습니다.",
+      "hi": "24 अगस्त 1456 को गुटेनबर्ग बाइबिल की कम से कम एक पूरी हुई प्रति से जोड़ा जाता है। मुद्रित बाइबिल छपाई क्रांति के प्रमुख प्रतीकों में से एक बन गई।",
+      "ar": "يرتبط 24 أغسطس 1456 بنسخة مكتملة واحدة على الأقل من إنجيل غوتنبرغ. وأصبح الإنجيل المطبوع أحد أهم رموز ثورة الطباعة."
     },
     "importance": {
       "ru": "Хотя это намного раньше основного диапазона, событие слишком важно для истории немецких земель и всей Европы.",
       "de": "Obwohl dies weit vor dem Hauptzeitraum liegt, ist das Ereignis fuer die Geschichte der deutschen Laender und Europas zu wichtig.",
-      "en": "Although this is far before the main range, the event is too important for the history of the German lands and Europe."
+      "en": "Although this is far before the main range, the event is too important for the history of the German lands and Europe.",
+      "fr": "Même si cela précède largement la période principale, l'événement est trop important pour l'histoire des terres allemandes et de l'Europe.",
+      "es": "Aunque ocurrió mucho antes del período principal, el hecho es demasiado importante para la historia de las tierras alemanas y de Europa.",
+      "it": "Anche se avvenne molto prima dell'intervallo principale, l'evento è troppo importante per la storia delle terre tedesche e dell'Europa.",
+      "pt": "Embora seja muito anterior ao período principal, o acontecimento é importante demais para a história das terras alemãs e da Europa.",
+      "nl": "Hoewel dit ver voor de hoofdperiode ligt, is de gebeurtenis te belangrijk voor de geschiedenis van de Duitse landen en Europa.",
+      "pl": "Choć wydarzenie znacznie wykracza poza główny zakres czasu, jest zbyt ważne dla historii ziem niemieckich i Europy.",
+      "tr": "Ana zaman aralığından çok önce olsa da bu olay Alman toprakları ve Avrupa tarihi için çok önemlidir.",
+      "zh": "虽然这远早于主要时间范围，但这一事件对德意志地区和欧洲历史过于重要，不能忽略。",
+      "ja": "これは主な時代範囲よりかなり前ですが、ドイツ諸地域とヨーロッパの歴史にとって非常に重要な出来事です。",
+      "ko": "주요 기간보다 훨씬 앞선 일이지만, 독일 지역과 유럽 역사에 너무 중요한 사건입니다.",
+      "hi": "हालाँकि यह मुख्य समय-सीमा से बहुत पहले की घटना है, फिर भी जर्मन भूमि और यूरोप के इतिहास के लिए यह अत्यंत महत्वपूर्ण है।",
+      "ar": "مع أن ذلك يسبق النطاق الزمني الرئيسي بكثير، فإن الحدث مهم جداً لتاريخ الأراضي الألمانية وأوروبا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Майнц и новая эпоха книги",
           "de": "Mainz und eine neue Epoche des Buches",
-          "en": "Mainz and a new age of the book"
+          "en": "Mainz and a new age of the book",
+          "fr": "Mayence et une nouvelle époque du livre",
+          "es": "Maguncia y una nueva era del libro",
+          "it": "Magonza e una nuova epoca del libro",
+          "pt": "Mainz e uma nova era do livro",
+          "nl": "Mainz en een nieuw tijdperk van het boek",
+          "pl": "Moguncja i nowa epoka książki",
+          "tr": "Mainz ve kitabın yeni çağı",
+          "zh": "美因茨与书籍的新纪元",
+          "ja": "マインツと本の新時代",
+          "ko": "마인츠와 책의 새 시대",
+          "hi": "माइंज और पुस्तक का नया युग",
+          "ar": "ماينتس وعصر جديد للكتاب"
         },
         "description": {
           "ru": "Гутенберг работал в Майнце, и этот город до сих пор связан с историей печати. Его технология ускорила распространение знаний.",
           "de": "Gutenberg wirkte in Mainz, und die Stadt ist bis heute mit der Geschichte des Drucks verbunden. Seine Technik beschleunigte die Verbreitung von Wissen.",
-          "en": "Gutenberg worked in Mainz, and the city is still tied to the history of printing. His technology accelerated the spread of knowledge."
+          "en": "Gutenberg worked in Mainz, and the city is still tied to the history of printing. His technology accelerated the spread of knowledge.",
+          "fr": "Gutenberg travailla à Mayence, et la ville reste liée à l'histoire de l'imprimerie. Sa technique accéléra la diffusion du savoir.",
+          "es": "Gutenberg trabajó en Maguncia, y la ciudad sigue ligada a la historia de la imprenta. Su tecnología aceleró la difusión del conocimiento.",
+          "it": "Gutenberg lavorò a Magonza, e la città è ancora legata alla storia della stampa. La sua tecnica accelerò la diffusione della conoscenza.",
+          "pt": "Gutenberg trabalhou em Mainz, e a cidade ainda é ligada à história da impressão. Sua tecnologia acelerou a disseminação do conhecimento.",
+          "nl": "Gutenberg werkte in Mainz, en de stad is nog steeds verbonden met de geschiedenis van de drukkunst. Zijn techniek versnelde de verspreiding van kennis.",
+          "pl": "Gutenberg pracował w Moguncji, a miasto do dziś jest związane z historią druku. Jego technika przyspieszyła rozpowszechnianie wiedzy.",
+          "tr": "Gutenberg Mainz'da çalıştı ve şehir bugün hâlâ matbaa tarihiyle bağlantılıdır. Onun teknolojisi bilginin yayılmasını hızlandırdı.",
+          "zh": "古腾堡在美因茨工作，这座城市至今仍与印刷史紧密相连。他的技术加快了知识的传播。",
+          "ja": "グーテンベルクはマインツで活動し、この都市はいまも印刷の歴史と結びついています。彼の技術は知識の普及を加速させました。",
+          "ko": "구텐베르크는 마인츠에서 일했으며, 이 도시는 지금도 인쇄 역사와 연결되어 있습니다. 그의 기술은 지식의 확산을 앞당겼습니다.",
+          "hi": "गुटेनबर्ग ने माइंज में काम किया, और यह शहर आज भी छपाई के इतिहास से जुड़ा है। उनकी तकनीक ने ज्ञान के प्रसार को तेज किया।",
+          "ar": "عمل غوتنبرغ في ماينتس، وما زالت المدينة مرتبطة بتاريخ الطباعة. وقد سرّعت تقنيته انتشار المعرفة."
         },
         "importance": {
           "ru": "Без книгопечатания трудно представить Реформацию, образование и современную науку.",
           "de": "Ohne Buchdruck sind Reformation, Bildung und moderne Wissenschaft kaum vorstellbar.",
-          "en": "Without printing, the Reformation, education and modern science are hard to imagine."
+          "en": "Without printing, the Reformation, education and modern science are hard to imagine.",
+          "fr": "Sans l'imprimerie, la Réforme, l'éducation et la science moderne sont difficiles à imaginer.",
+          "es": "Sin la imprenta, cuesta imaginar la Reforma, la educación y la ciencia moderna.",
+          "it": "Senza la stampa è difficile immaginare la Riforma, l'istruzione e la scienza moderna.",
+          "pt": "Sem a imprensa, é difícil imaginar a Reforma, a educação e a ciência moderna.",
+          "nl": "Zonder boekdrukkunst zijn de Reformatie, onderwijs en moderne wetenschap moeilijk voorstelbaar.",
+          "pl": "Bez druku trudno wyobrazić sobie reformację, edukację i współczesną naukę.",
+          "tr": "Matbaa olmadan Reform'u, eğitimi ve modern bilimi hayal etmek zordur.",
+          "zh": "没有印刷术，就很难想象宗教改革、教育和现代科学的发展。",
+          "ja": "印刷なしに宗教改革、教育、近代科学を想像することは難しいです。",
+          "ko": "인쇄술이 없었다면 종교개혁, 교육, 현대 과학을 상상하기 어렵습니다.",
+          "hi": "छपाई के बिना सुधार आंदोलन, शिक्षा और आधुनिक विज्ञान की कल्पना करना कठिन है।",
+          "ar": "من دون الطباعة يصعب تخيل الإصلاح الديني والتعليم والعلم الحديث."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Печатный текст у экземпляров был одинаковым, но украшения часто добавляли вручную, поэтому книги могли отличаться внешне.",
     "de": "Der gedruckte Text war gleich, doch Verzierungen wurden oft von Hand ergaenzt, sodass die Exemplare unterschiedlich aussehen konnten.",
-    "en": "The printed text was the same, but decoration was often added by hand, so copies could look different."
+    "en": "The printed text was the same, but decoration was often added by hand, so copies could look different.",
+    "fr": "Le texte imprimé était identique, mais les décorations étaient souvent ajoutées à la main, si bien que les exemplaires pouvaient avoir des apparences différentes.",
+    "es": "El texto impreso era el mismo, pero las decoraciones se añadían a menudo a mano, por lo que los ejemplares podían verse distintos.",
+    "it": "Il testo stampato era lo stesso, ma le decorazioni venivano spesso aggiunte a mano, quindi le copie potevano apparire diverse.",
+    "pt": "O texto impresso era o mesmo, mas a decoração muitas vezes era acrescentada à mão, por isso os exemplares podiam parecer diferentes.",
+    "nl": "De gedrukte tekst was hetzelfde, maar versieringen werden vaak met de hand toegevoegd, waardoor exemplaren er anders konden uitzien.",
+    "pl": "Drukowany tekst był taki sam, lecz zdobienia często dodawano ręcznie, dlatego egzemplarze mogły różnić się wyglądem.",
+    "tr": "Basılı metin aynıydı, ancak süslemeler çoğu zaman elle eklenirdi; bu yüzden nüshalar dış görünüş olarak farklı olabilirdi.",
+    "zh": "印刷文本相同，但装饰常常由手工添加，因此不同册本的外观可能并不一样。",
+    "ja": "印刷された本文は同じでしたが、装飾は手作業で加えられることが多く、各本の見た目は異なることがありました。",
+    "ko": "인쇄된 본문은 같았지만 장식은 종종 손으로 더해졌기 때문에 각 권의 겉모습은 달라질 수 있었습니다.",
+    "hi": "मुद्रित पाठ समान था, लेकिन सजावट अक्सर हाथ से जोड़ी जाती थी, इसलिए प्रतियाँ बाहर से अलग दिख सकती थीं।",
+    "ar": "كان النص المطبوع واحداً، لكن الزخارف كانت تُضاف غالباً باليد، لذلك كان شكل النسخ قد يختلف."
   },
   "sources": [
     {

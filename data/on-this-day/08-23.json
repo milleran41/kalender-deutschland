@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан пакт Молотова-Риббентропа",
       "de": "Der Hitler-Stalin-Pakt wird unterzeichnet",
-      "en": "The Molotov-Ribbentrop Pact is signed"
+      "en": "The Molotov-Ribbentrop Pact is signed",
+      "fr": "Le pacte Molotov-Ribbentrop est signé",
+      "es": "Se firma el pacto Molotov-Ribbentrop",
+      "it": "Viene firmato il patto Molotov-Ribbentrop",
+      "pt": "O Pacto Molotov-Ribbentrop é assinado",
+      "nl": "Het Molotov-Ribbentroppact wordt ondertekend",
+      "pl": "Podpisano pakt Ribbentrop-Mołotow",
+      "tr": "Molotov-Ribbentrop Paktı imzalandı",
+      "zh": "《莫洛托夫-里宾特洛甫条约》签署",
+      "ja": "モロトフ＝リッベントロップ協定が調印される",
+      "ko": "몰로토프-리벤트로프 조약이 체결되다",
+      "hi": "मोलोतोव-रिब्बेन्ट्रोप संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع ميثاق مولوتوف-ريبنتروب"
     },
     "description": {
       "ru": "23 августа 1939 года нацистская Германия и Советский Союз подписали договор о ненападении. Секретные протоколы разделяли сферы влияния в Восточной Европе.",
       "de": "Am 23. August 1939 unterzeichneten NS-Deutschland und die Sowjetunion einen Nichtangriffspakt. Geheime Zusatzprotokolle teilten Einflusszonen in Osteuropa auf.",
-      "en": "On 23 August 1939, Nazi Germany and the Soviet Union signed a non-aggression pact. Secret protocols divided spheres of influence in Eastern Europe."
+      "en": "On 23 August 1939, Nazi Germany and the Soviet Union signed a non-aggression pact. Secret protocols divided spheres of influence in Eastern Europe.",
+      "fr": "Le 23 août 1939, l'Allemagne nazie et l'Union soviétique signèrent un pacte de non-agression. Des protocoles secrets divisaient les sphères d'influence en Europe orientale.",
+      "es": "El 23 de agosto de 1939, la Alemania nazi y la Unión Soviética firmaron un pacto de no agresión. Protocolos secretos dividían las esferas de influencia en Europa oriental.",
+      "it": "Il 23 agosto 1939 la Germania nazista e l'Unione Sovietica firmarono un patto di non aggressione. Protocolli segreti dividevano le sfere d'influenza nell'Europa orientale.",
+      "pt": "Em 23 de agosto de 1939, a Alemanha nazista e a União Soviética assinaram um pacto de não agressão. Protocolos secretos dividiam esferas de influência na Europa Oriental.",
+      "nl": "Op 23 augustus 1939 ondertekenden nazi-Duitsland en de Sovjet-Unie een niet-aanvalsverdrag. Geheime protocollen verdeelden invloedssferen in Oost-Europa.",
+      "pl": "23 sierpnia 1939 roku nazistowskie Niemcy i Związek Radziecki podpisały pakt o nieagresji. Tajne protokoły dzieliły strefy wpływów w Europie Wschodniej.",
+      "tr": "23 Ağustos 1939'da Nazi Almanyası ile Sovyetler Birliği bir saldırmazlık paktı imzaladı. Gizli protokoller Doğu Avrupa'daki nüfuz alanlarını paylaştırıyordu.",
+      "zh": "1939年8月23日，纳粹德国与苏联签署互不侵犯条约。秘密议定书划分了东欧的势力范围。",
+      "ja": "1939年8月23日、ナチス・ドイツとソ連は不可侵条約に調印しました。秘密議定書は東ヨーロッパの勢力圏を分けていました。",
+      "ko": "1939년 8월 23일 나치 독일과 소련은 불가침 조약을 체결했습니다. 비밀 의정서는 동유럽의 세력권을 나누었습니다.",
+      "hi": "23 अगस्त 1939 को नाजी जर्मनी और सोवियत संघ ने अनाक्रमण संधि पर हस्ताक्षर किए। गुप्त प्रोटोकॉल ने पूर्वी यूरोप में प्रभाव क्षेत्रों को बाँटा।",
+      "ar": "في 23 أغسطس 1939 وقعت ألمانيا النازية والاتحاد السوفيتي معاهدة عدم اعتداء. وقسمت بروتوكولات سرية مناطق النفوذ في أوروبا الشرقية."
     },
     "importance": {
       "ru": "Пакт открыл путь к нападению Германии на Польшу 1 сентября 1939 года.",
       "de": "Der Pakt ebnete den Weg fuer den deutschen Angriff auf Polen am 1. September 1939.",
-      "en": "The pact paved the way for Germany's invasion of Poland on 1 September 1939."
+      "en": "The pact paved the way for Germany's invasion of Poland on 1 September 1939.",
+      "fr": "Le pacte ouvrit la voie à l'invasion allemande de la Pologne le 1er septembre 1939.",
+      "es": "El pacto abrió el camino a la invasión alemana de Polonia el 1 de septiembre de 1939.",
+      "it": "Il patto aprì la strada all'invasione tedesca della Polonia il 1º settembre 1939.",
+      "pt": "O pacto abriu caminho para a invasão alemã da Polônia em 1 de setembro de 1939.",
+      "nl": "Het pact maakte de weg vrij voor de Duitse aanval op Polen op 1 september 1939.",
+      "pl": "Pakt utorował drogę niemieckiemu atakowi na Polskę 1 września 1939 roku.",
+      "tr": "Pakt, Almanya'nın 1 Eylül 1939'da Polonya'yı işgal etmesinin yolunu açtı.",
+      "zh": "该条约为德国于1939年9月1日入侵波兰铺平了道路。",
+      "ja": "この協定は、1939年9月1日のドイツによるポーランド侵攻への道を開きました。",
+      "ko": "이 조약은 1939년 9월 1일 독일의 폴란드 침공으로 이어지는 길을 열었습니다.",
+      "hi": "इस संधि ने 1 सितंबर 1939 को जर्मनी के पोलैंड पर आक्रमण का रास्ता खोला।",
+      "ar": "مهد الميثاق الطريق لغزو ألمانيا لبولندا في 1 سبتمبر 1939."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Секретные протоколы",
           "de": "Geheime Zusatzprotokolle",
-          "en": "Secret protocols"
+          "en": "Secret protocols",
+          "fr": "Protocoles secrets",
+          "es": "Protocolos secretos",
+          "it": "Protocolli segreti",
+          "pt": "Protocolos secretos",
+          "nl": "Geheime protocollen",
+          "pl": "Tajne protokoły",
+          "tr": "Gizli protokoller",
+          "zh": "秘密议定书",
+          "ja": "秘密議定書",
+          "ko": "비밀 의정서",
+          "hi": "गुप्त प्रोटोकॉल",
+          "ar": "بروتوكولات سرية"
         },
         "description": {
           "ru": "Публично договор выглядел как соглашение о ненападении. Но секретная часть касалась судеб Польши, стран Балтии и других территорий.",
           "de": "Oeffentlich wirkte der Vertrag wie ein Nichtangriffspakt. Der geheime Teil betraf jedoch das Schicksal Polens, der baltischen Staaten und weiterer Gebiete.",
-          "en": "Publicly, the treaty looked like a non-aggression pact. The secret part concerned the fate of Poland, the Baltic states and other territories."
+          "en": "Publicly, the treaty looked like a non-aggression pact. The secret part concerned the fate of Poland, the Baltic states and other territories.",
+          "fr": "Officiellement, le traité ressemblait à un pacte de non-agression. Mais sa partie secrète concernait le destin de la Pologne, des pays baltes et d'autres territoires.",
+          "es": "Públicamente, el tratado parecía un pacto de no agresión. Pero la parte secreta trataba del destino de Polonia, los países bálticos y otros territorios.",
+          "it": "Pubblicamente il trattato appariva come un patto di non aggressione. Ma la parte segreta riguardava il destino della Polonia, degli Stati baltici e di altri territori.",
+          "pt": "Publicamente, o tratado parecia um pacto de não agressão. Mas a parte secreta tratava do destino da Polônia, dos países bálticos e de outros territórios.",
+          "nl": "Openlijk leek het verdrag op een niet-aanvalsverdrag. Maar het geheime deel ging over het lot van Polen, de Baltische staten en andere gebieden.",
+          "pl": "Publicznie traktat wyglądał jak pakt o nieagresji. Jednak tajna część dotyczyła losu Polski, państw bałtyckich i innych terytoriów.",
+          "tr": "Kamuoyuna göre antlaşma bir saldırmazlık paktı gibi görünüyordu. Ancak gizli bölüm Polonya'nın, Baltık ülkelerinin ve başka bölgelerin kaderiyle ilgiliydi.",
+          "zh": "公开来看，这份条约像是一项互不侵犯协定。但秘密部分涉及波兰、波罗的海国家和其他地区的命运。",
+          "ja": "公には、この条約は不可侵条約のように見えました。しかし秘密部分はポーランド、バルト諸国、その他の地域の運命に関わっていました。",
+          "ko": "공개적으로 이 조약은 불가침 조약처럼 보였습니다. 그러나 비밀 부분은 폴란드, 발트 3국과 다른 지역의 운명에 관한 것이었습니다.",
+          "hi": "सार्वजनिक रूप से यह संधि अनाक्रमण समझौते जैसी दिखती थी। लेकिन गुप्त हिस्सा पोलैंड, बाल्टिक देशों और अन्य क्षेत्रों के भविष्य से जुड़ा था।",
+          "ar": "علناً بدا الاتفاق كأنه معاهدة عدم اعتداء. لكن الجزء السري كان يتعلق بمصير بولندا ودول البلطيق ومناطق أخرى."
         },
         "importance": {
           "ru": "Дата показывает, как дипломатические документы могут скрывать будущую катастрофу.",
           "de": "Das Datum zeigt, wie diplomatische Dokumente eine kommende Katastrophe verbergen koennen.",
-          "en": "The date shows how diplomatic documents can hide an approaching catastrophe."
+          "en": "The date shows how diplomatic documents can hide an approaching catastrophe.",
+          "fr": "Cette date montre comment des documents diplomatiques peuvent cacher une catastrophe à venir.",
+          "es": "La fecha muestra cómo los documentos diplomáticos pueden ocultar una catástrofe futura.",
+          "it": "La data mostra come i documenti diplomatici possano nascondere una catastrofe imminente.",
+          "pt": "A data mostra como documentos diplomáticos podem esconder uma catástrofe futura.",
+          "nl": "De datum laat zien hoe diplomatieke documenten een naderende ramp kunnen verbergen.",
+          "pl": "Ta data pokazuje, jak dokumenty dyplomatyczne mogą ukrywać nadchodzącą katastrofę.",
+          "tr": "Bu tarih, diplomatik belgelerin yaklaşan bir felaketi nasıl gizleyebileceğini gösterir.",
+          "zh": "这个日期说明，外交文件有时会掩盖即将到来的灾难。",
+          "ja": "この日は、外交文書が近づく破局を隠しうることを示しています。",
+          "ko": "이 날짜는 외교 문서가 다가오는 재앙을 숨길 수 있음을 보여 줍니다.",
+          "hi": "यह तारीख दिखाती है कि राजनयिक दस्तावेज़ आने वाली आपदा को कैसे छिपा सकते हैं।",
+          "ar": "يوضح هذا التاريخ كيف يمكن للوثائق الدبلوماسية أن تخفي كارثة قادمة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Европе 23 августа отмечается как день памяти жертв сталинизма и нацизма.",
     "de": "In Europa gilt der 23. August als Gedenktag fuer die Opfer von Stalinismus und Nationalsozialismus.",
-    "en": "In Europe, 23 August is observed as a day of remembrance for victims of Stalinism and Nazism."
+    "en": "In Europe, 23 August is observed as a day of remembrance for victims of Stalinism and Nazism.",
+    "fr": "En Europe, le 23 août est une journée de mémoire pour les victimes du stalinisme et du nazisme.",
+    "es": "En Europa, el 23 de agosto se conmemora a las víctimas del estalinismo y del nazismo.",
+    "it": "In Europa il 23 agosto è una giornata di memoria per le vittime dello stalinismo e del nazismo.",
+    "pt": "Na Europa, 23 de agosto é observado como dia de memória das vítimas do stalinismo e do nazismo.",
+    "nl": "In Europa geldt 23 augustus als herdenkingsdag voor de slachtoffers van stalinisme en nazisme.",
+    "pl": "W Europie 23 sierpnia jest dniem pamięci ofiar stalinizmu i nazizmu.",
+    "tr": "Avrupa'da 23 Ağustos, Stalinizm ve Nazizm kurbanlarını anma günü olarak kabul edilir.",
+    "zh": "在欧洲，8月23日是纪念斯大林主义和纳粹主义受害者的日子。",
+    "ja": "ヨーロッパでは8月23日は、スターリン主義とナチズムの犠牲者を追悼する日とされています。",
+    "ko": "유럽에서 8월 23일은 스탈린주의와 나치즘 희생자를 기리는 날로 지켜집니다.",
+    "hi": "यूरोप में 23 अगस्त को स्टालिनवाद और नाज़ीवाद के पीड़ितों की स्मृति दिवस के रूप में मनाया जाता है।",
+    "ar": "في أوروبا يُعد 23 أغسطس يوم ذكرى لضحايا الستالينية والنازية."
   },
   "sources": [
     {

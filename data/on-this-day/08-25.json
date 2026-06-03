@@ -11,17 +11,53 @@
     "title": {
       "ru": "Немецкий гарнизон Парижа капитулировал",
       "de": "Die deutsche Besatzung von Paris kapituliert",
-      "en": "The German garrison in Paris surrenders"
+      "en": "The German garrison in Paris surrenders",
+      "fr": "La garnison allemande de Paris capitule",
+      "es": "La guarnición alemana de París se rinde",
+      "it": "La guarnigione tedesca di Parigi si arrende",
+      "pt": "A guarnição alemã em Paris se rende",
+      "nl": "Het Duitse garnizoen in Parijs geeft zich over",
+      "pl": "Niemiecki garnizon Paryża kapituluje",
+      "tr": "Paris'teki Alman garnizonu teslim oldu",
+      "zh": "巴黎德军守备部队投降",
+      "ja": "パリのドイツ軍守備隊が降伏する",
+      "ko": "파리의 독일군 주둔 부대가 항복하다",
+      "hi": "पेरिस में जर्मन गैरीसन ने आत्मसमर्पण किया",
+      "ar": "استسلام الحامية الألمانية في باريس"
     },
     "description": {
       "ru": "25 августа 1944 года немецкий командующий Парижем генерал Дитрих фон Хольтиц подписал капитуляцию. Париж был освобождён после четырёх лет немецкой оккупации.",
       "de": "Am 25. August 1944 unterzeichnete der deutsche Stadtkommandant von Paris, General Dietrich von Choltitz, die Kapitulation. Paris wurde nach vier Jahren deutscher Besatzung befreit.",
-      "en": "On 25 August 1944, the German commander of Paris, General Dietrich von Choltitz, signed the surrender. Paris was liberated after four years of German occupation."
+      "en": "On 25 August 1944, the German commander of Paris, General Dietrich von Choltitz, signed the surrender. Paris was liberated after four years of German occupation.",
+      "fr": "Le 25 août 1944, le commandant allemand de Paris, le général Dietrich von Choltitz, signa la capitulation. Paris fut libéré après quatre ans d'occupation allemande.",
+      "es": "El 25 de agosto de 1944, el comandante alemán de París, el general Dietrich von Choltitz, firmó la rendición. París fue liberada tras cuatro años de ocupación alemana.",
+      "it": "Il 25 agosto 1944 il comandante tedesco di Parigi, generale Dietrich von Choltitz, firmò la resa. Parigi fu liberata dopo quattro anni di occupazione tedesca.",
+      "pt": "Em 25 de agosto de 1944, o comandante alemão de Paris, general Dietrich von Choltitz, assinou a rendição. Paris foi libertada após quatro anos de ocupação alemã.",
+      "nl": "Op 25 augustus 1944 tekende de Duitse commandant van Parijs, generaal Dietrich von Choltitz, de capitulatie. Parijs werd na vier jaar Duitse bezetting bevrijd.",
+      "pl": "25 sierpnia 1944 roku niemiecki komendant Paryża, generał Dietrich von Choltitz, podpisał kapitulację. Paryż został wyzwolony po czterech latach niemieckiej okupacji.",
+      "tr": "25 Ağustos 1944'te Paris'in Alman komutanı General Dietrich von Choltitz teslim belgesini imzaladı. Paris, dört yıllık Alman işgalinden sonra kurtarıldı.",
+      "zh": "1944年8月25日，巴黎德军司令迪特里希·冯·肖尔蒂茨将军签署投降书。巴黎在德国占领四年后获得解放。",
+      "ja": "1944年8月25日、パリのドイツ軍司令官ディートリヒ・フォン・コルティッツ将軍が降伏文書に署名しました。パリは4年間のドイツ占領の後に解放されました。",
+      "ko": "1944년 8월 25일 파리의 독일군 사령관 디트리히 폰 콜티츠 장군이 항복 문서에 서명했습니다. 파리는 4년간의 독일 점령 뒤 해방되었습니다.",
+      "hi": "25 अगस्त 1944 को पेरिस के जर्मन कमांडर जनरल डीट्रिख फॉन कोल्टिट्ज़ ने आत्मसमर्पण पर हस्ताक्षर किए। चार साल के जर्मन कब्जे के बाद पेरिस मुक्त हुआ।",
+      "ar": "في 25 أغسطس 1944 وقع القائد الألماني في باريس، الجنرال ديتريش فون شولتز، وثيقة الاستسلام. وتحررت باريس بعد أربع سنوات من الاحتلال الألماني."
     },
     "importance": {
       "ru": "Дата показывает конец немецкой оккупации одной из главных европейских столиц и приближение поражения нацистской Германии на Западном фронте.",
       "de": "Das Datum zeigt das Ende der deutschen Besatzung einer der wichtigsten europaeischen Hauptstaedte und das Naeherkommen der Niederlage NS-Deutschlands an der Westfront.",
-      "en": "The date marks the end of German occupation of one of Europe's major capitals and the approaching defeat of Nazi Germany on the Western Front."
+      "en": "The date marks the end of German occupation of one of Europe's major capitals and the approaching defeat of Nazi Germany on the Western Front.",
+      "fr": "Cette date marque la fin de l'occupation allemande d'une grande capitale européenne et l'approche de la défaite de l'Allemagne nazie sur le front occidental.",
+      "es": "La fecha marca el fin de la ocupación alemana de una de las grandes capitales europeas y la cercanía de la derrota de la Alemania nazi en el frente occidental.",
+      "it": "La data segna la fine dell'occupazione tedesca di una delle principali capitali europee e l'avvicinarsi della sconfitta della Germania nazista sul fronte occidentale.",
+      "pt": "A data marca o fim da ocupação alemã de uma das grandes capitais europeias e a aproximação da derrota da Alemanha nazista na Frente Ocidental.",
+      "nl": "De datum markeert het einde van de Duitse bezetting van een van Europa's grote hoofdsteden en de naderende nederlaag van nazi-Duitsland aan het westfront.",
+      "pl": "Data oznacza koniec niemieckiej okupacji jednej z najważniejszych stolic Europy oraz zbliżającą się klęskę nazistowskich Niemiec na froncie zachodnim.",
+      "tr": "Bu tarih, Avrupa'nın önemli başkentlerinden birindeki Alman işgalinin sona ermesini ve Nazi Almanyası'nın Batı Cephesi'nde yenilgiye yaklaşmasını gösterir.",
+      "zh": "这一日期标志着德国对欧洲一座主要首都占领的结束，也预示纳粹德国在西线的失败正在临近。",
+      "ja": "この日は、ヨーロッパの主要首都の一つにおけるドイツ占領の終わりと、西部戦線でのナチス・ドイツ敗北の接近を示しています。",
+      "ko": "이 날짜는 유럽 주요 수도 중 하나에 대한 독일 점령의 끝과 서부 전선에서 나치 독일의 패배가 가까워졌음을 보여 줍니다.",
+      "hi": "यह तारीख यूरोप की प्रमुख राजधानियों में से एक पर जर्मन कब्जे के अंत और पश्चिमी मोर्चे पर नाजी जर्मनी की निकट आती हार को दिखाती है।",
+      "ar": "يمثل هذا التاريخ نهاية الاحتلال الألماني لإحدى أهم العواصم الأوروبية واقتراب هزيمة ألمانيا النازية على الجبهة الغربية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Конец оккупации",
           "de": "Ende der Besatzung",
-          "en": "End of occupation"
+          "en": "End of occupation",
+          "fr": "Fin de l'occupation",
+          "es": "Fin de la ocupación",
+          "it": "Fine dell'occupazione",
+          "pt": "Fim da ocupação",
+          "nl": "Einde van de bezetting",
+          "pl": "Koniec okupacji",
+          "tr": "İşgalin sonu",
+          "zh": "占领的结束",
+          "ja": "占領の終わり",
+          "ko": "점령의 끝",
+          "hi": "कब्जे का अंत",
+          "ar": "نهاية الاحتلال"
         },
         "description": {
           "ru": "Париж был занят немецкими войсками с июня 1940 года. Его освобождение стало не только военным событием, но и мощным символом возвращения Франции к самостоятельной политической жизни.",
           "de": "Paris war seit Juni 1940 von deutschen Truppen besetzt. Seine Befreiung war nicht nur ein militaerisches Ereignis, sondern auch ein starkes Symbol fuer die Rueckkehr Frankreichs zu eigenstaendigem politischem Leben.",
-          "en": "Paris had been occupied by German troops since June 1940. Its liberation was not only a military event, but also a powerful symbol of France's return to independent political life."
+          "en": "Paris had been occupied by German troops since June 1940. Its liberation was not only a military event, but also a powerful symbol of France's return to independent political life.",
+          "fr": "Paris était occupé par les troupes allemandes depuis juin 1940. Sa libération fut non seulement un événement militaire, mais aussi un puissant symbole du retour de la France à une vie politique indépendante.",
+          "es": "París estaba ocupada por tropas alemanas desde junio de 1940. Su liberación no fue solo un hecho militar, sino también un poderoso símbolo del regreso de Francia a una vida política independiente.",
+          "it": "Parigi era occupata dalle truppe tedesche dal giugno 1940. La sua liberazione fu non solo un evento militare, ma anche un forte simbolo del ritorno della Francia a una vita politica autonoma.",
+          "pt": "Paris estava ocupada por tropas alemãs desde junho de 1940. Sua libertação foi não apenas um acontecimento militar, mas também um forte símbolo do retorno da França à vida política independente.",
+          "nl": "Parijs was sinds juni 1940 door Duitse troepen bezet. De bevrijding was niet alleen een militaire gebeurtenis, maar ook een krachtig symbool van de terugkeer van Frankrijk naar een zelfstandig politiek leven.",
+          "pl": "Paryż był zajęty przez wojska niemieckie od czerwca 1940 roku. Jego wyzwolenie było nie tylko wydarzeniem wojskowym, lecz także silnym symbolem powrotu Francji do samodzielnego życia politycznego.",
+          "tr": "Paris Haziran 1940'tan beri Alman birlikleri tarafından işgal edilmişti. Kurtuluşu yalnızca askeri bir olay değil, Fransa'nın bağımsız siyasi yaşama dönüşünün güçlü bir sembolüydü.",
+          "zh": "巴黎自1940年6月起被德军占领。它的解放不仅是军事事件，也是法国恢复独立政治生活的有力象征。",
+          "ja": "パリは1940年6月からドイツ軍に占領されていました。その解放は軍事的出来事であるだけでなく、フランスが独立した政治生活へ戻る強い象徴でもありました。",
+          "ko": "파리는 1940년 6월부터 독일군에 점령되어 있었습니다. 그 해방은 군사적 사건일 뿐 아니라 프랑스가 독립적인 정치 생활로 돌아가는 강력한 상징이었습니다.",
+          "hi": "पेरिस जून 1940 से जर्मन सैनिकों के कब्जे में था। उसकी मुक्ति केवल सैन्य घटना नहीं थी, बल्कि फ्रांस की स्वतंत्र राजनीतिक जीवन में वापसी का शक्तिशाली प्रतीक भी थी।",
+          "ar": "كانت باريس محتلة من القوات الألمانية منذ يونيو 1940. ولم يكن تحريرها حدثاً عسكرياً فقط، بل رمزاً قوياً لعودة فرنسا إلى حياة سياسية مستقلة."
         },
         "importance": {
           "ru": "Это помогает увидеть, как отступление Германии меняло политическую карту Европы.",
           "de": "Das hilft zu sehen, wie der deutsche Rueckzug die politische Karte Europas veraenderte.",
-          "en": "It helps show how Germany's retreat changed the political map of Europe."
+          "en": "It helps show how Germany's retreat changed the political map of Europe.",
+          "fr": "Cela aide à voir comment le recul allemand modifiait la carte politique de l'Europe.",
+          "es": "Ayuda a ver cómo la retirada alemana cambiaba el mapa político de Europa.",
+          "it": "Aiuta a capire come la ritirata tedesca cambiò la carta politica dell'Europa.",
+          "pt": "Isso ajuda a ver como a retirada alemã mudou o mapa político da Europa.",
+          "nl": "Het laat zien hoe de Duitse terugtocht de politieke kaart van Europa veranderde.",
+          "pl": "Pomaga to zobaczyć, jak niemiecki odwrót zmieniał polityczną mapę Europy.",
+          "tr": "Bu, Almanya'nın geri çekilişinin Avrupa'nın siyasi haritasını nasıl değiştirdiğini görmeye yardımcı olur.",
+          "zh": "这有助于理解德国撤退如何改变欧洲政治版图。",
+          "ja": "これは、ドイツの後退がヨーロッパの政治地図をどのように変えたかを理解する助けになります。",
+          "ko": "이는 독일의 후퇴가 유럽의 정치 지도를 어떻게 바꾸었는지 보여 줍니다.",
+          "hi": "यह दिखाता है कि जर्मनी की वापसी ने यूरोप के राजनीतिक नक्शे को कैसे बदला।",
+          "ar": "يساعد ذلك على فهم كيف غيّر تراجع ألمانيا الخريطة السياسية لأوروبا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Почему Париж не был разрушен?",
           "de": "Warum wurde Paris nicht zerstoert?",
-          "en": "Why was Paris not destroyed?"
+          "en": "Why was Paris not destroyed?",
+          "fr": "Pourquoi Paris n'a-t-il pas été détruit ?",
+          "es": "¿Por qué París no fue destruida?",
+          "it": "Perché Parigi non fu distrutta?",
+          "pt": "Por que Paris não foi destruída?",
+          "nl": "Waarom werd Parijs niet verwoest?",
+          "pl": "Dlaczego Paryż nie został zniszczony?",
+          "tr": "Paris neden yok edilmedi?",
+          "zh": "巴黎为什么没有被毁灭？",
+          "ja": "なぜパリは破壊されなかったのか？",
+          "ko": "파리는 왜 파괴되지 않았을까?",
+          "hi": "पेरिस नष्ट क्यों नहीं किया गया?",
+          "ar": "لماذا لم تُدمَّر باريس؟"
         },
         "description": {
           "ru": "Позднее вокруг Хольтица возникла дискуссия о том, почему город не был разрушен по нацистским приказам. История сложнее легенды, но сам вопрос показывает, насколько опасным был последний этап оккупации.",
           "de": "Spaeter entstand um Choltitz die Debatte, warum die Stadt entgegen nationalsozialistischen Befehlen nicht zerstoert wurde. Die Geschichte ist komplizierter als die Legende, doch schon die Frage zeigt, wie gefaehrlich die letzte Phase der Besatzung war.",
-          "en": "A later debate grew around Choltitz and why the city was not destroyed despite Nazi orders. The story is more complicated than the legend, but the question itself shows how dangerous the final phase of occupation was."
+          "en": "A later debate grew around Choltitz and why the city was not destroyed despite Nazi orders. The story is more complicated than the legend, but the question itself shows how dangerous the final phase of occupation was.",
+          "fr": "Plus tard, un débat naquit autour de Choltitz et de la raison pour laquelle la ville ne fut pas détruite malgré les ordres nazis. L'histoire est plus complexe que la légende, mais la question elle-même montre à quel point la dernière phase de l'occupation était dangereuse.",
+          "es": "Más tarde surgió un debate en torno a Choltitz y a por qué la ciudad no fue destruida pese a las órdenes nazis. La historia es más compleja que la leyenda, pero la pregunta muestra lo peligrosa que fue la fase final de la ocupación.",
+          "it": "In seguito nacque un dibattito intorno a Choltitz e al motivo per cui la città non fu distrutta nonostante gli ordini nazisti. La storia è più complessa della leggenda, ma la domanda stessa mostra quanto fosse pericolosa l'ultima fase dell'occupazione.",
+          "pt": "Mais tarde surgiu um debate em torno de Choltitz e sobre por que a cidade não foi destruída apesar das ordens nazistas. A história é mais complexa que a lenda, mas a própria pergunta mostra como a fase final da ocupação era perigosa.",
+          "nl": "Later ontstond rond Choltitz een debat over waarom de stad ondanks nazi-bevelen niet werd verwoest. Het verhaal is ingewikkelder dan de legende, maar de vraag zelf laat zien hoe gevaarlijk de laatste fase van de bezetting was.",
+          "pl": "Później wokół Choltitza pojawiła się dyskusja, dlaczego miasto nie zostało zniszczone mimo nazistowskich rozkazów. Historia jest bardziej złożona niż legenda, ale samo pytanie pokazuje, jak niebezpieczna była ostatnia faza okupacji.",
+          "tr": "Daha sonra Choltitz etrafında, Nazi emirlerine rağmen şehrin neden yok edilmediği konusunda bir tartışma doğdu. Hikâye efsaneden daha karmaşıktır, ancak sorunun kendisi işgalin son aşamasının ne kadar tehlikeli olduğunu gösterir.",
+          "zh": "后来，围绕肖尔蒂茨为何没有按纳粹命令摧毁城市产生了争论。真实历史比传说更复杂，但这个问题本身说明了占领最后阶段有多危险。",
+          "ja": "後にコルティッツをめぐり、ナチスの命令にもかかわらず都市がなぜ破壊されなかったのかという議論が生まれました。歴史は伝説より複雑ですが、この問い自体が占領末期の危険さを示しています。",
+          "ko": "나중에 콜티츠를 둘러싸고, 나치의 명령에도 도시가 왜 파괴되지 않았는지에 대한 논쟁이 생겼습니다. 이야기는 전설보다 복잡하지만, 그 질문 자체가 점령 말기가 얼마나 위험했는지 보여 줍니다.",
+          "hi": "बाद में कोल्टिट्ज़ को लेकर बहस हुई कि नाजी आदेशों के बावजूद शहर क्यों नष्ट नहीं किया गया। कहानी किंवदंती से अधिक जटिल है, लेकिन यह सवाल ही बताता है कि कब्जे का अंतिम चरण कितना खतरनाक था।",
+          "ar": "لاحقاً ظهر نقاش حول شولتز ولماذا لم تُدمَّر المدينة رغم الأوامر النازية. القصة أعقد من الأسطورة، لكن السؤال نفسه يوضح مدى خطورة المرحلة الأخيرة من الاحتلال."
         },
         "importance": {
           "ru": "Так дата связывает военную историю с памятью, мифами и ответственностью командиров.",
           "de": "So verbindet das Datum Militaergeschichte mit Erinnerung, Mythen und der Verantwortung von Befehlshabern.",
-          "en": "The date links military history with memory, myths and commanders' responsibility."
+          "en": "The date links military history with memory, myths and commanders' responsibility.",
+          "fr": "La date relie ainsi l'histoire militaire à la mémoire, aux mythes et à la responsabilité des commandants.",
+          "es": "Así, la fecha une la historia militar con la memoria, los mitos y la responsabilidad de los mandos.",
+          "it": "Così la data collega la storia militare alla memoria, ai miti e alla responsabilità dei comandanti.",
+          "pt": "Assim, a data liga a história militar à memória, aos mitos e à responsabilidade dos comandantes.",
+          "nl": "Zo verbindt de datum militaire geschiedenis met herinnering, mythen en de verantwoordelijkheid van bevelhebbers.",
+          "pl": "W ten sposób data łączy historię wojskową z pamięcią, mitami i odpowiedzialnością dowódców.",
+          "tr": "Böylece bu tarih askeri tarihi hafıza, mitler ve komutanların sorumluluğuyla birleştirir.",
+          "zh": "因此，这个日期把军事史与记忆、传说和指挥官的责任联系在一起。",
+          "ja": "こうしてこの日は、軍事史を記憶、神話、指揮官の責任と結びつけています。",
+          "ko": "이렇게 이 날짜는 군사사와 기억, 신화, 지휘관의 책임을 연결합니다.",
+          "hi": "इस तरह यह तारीख सैन्य इतिहास को स्मृति, मिथकों और कमांडरों की जिम्मेदारी से जोड़ती है।",
+          "ar": "وهكذا يربط هذا التاريخ التاريخ العسكري بالذاكرة والأساطير ومسؤولية القادة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Париж был освобождён французскими и американскими силами при активном участии французского Сопротивления.",
     "de": "Paris wurde von franzoesischen und amerikanischen Kraeften mit aktiver Beteiligung der Resistance befreit.",
-    "en": "Paris was liberated by French and American forces with active participation by the French Resistance."
+    "en": "Paris was liberated by French and American forces with active participation by the French Resistance.",
+    "fr": "Paris fut libéré par des forces françaises et américaines avec la participation active de la Résistance française.",
+    "es": "París fue liberada por fuerzas francesas y estadounidenses con la participación activa de la Resistencia francesa.",
+    "it": "Parigi fu liberata da forze francesi e americane con la partecipazione attiva della Resistenza francese.",
+    "pt": "Paris foi libertada por forças francesas e americanas com participação ativa da Resistência francesa.",
+    "nl": "Parijs werd bevrijd door Franse en Amerikaanse troepen met actieve deelname van het Franse verzet.",
+    "pl": "Paryż został wyzwolony przez siły francuskie i amerykańskie przy aktywnym udziale francuskiego Ruchu Oporu.",
+    "tr": "Paris, Fransız Direnişi'nin aktif katılımıyla Fransız ve Amerikan güçleri tarafından kurtarıldı.",
+    "zh": "巴黎由法国和美国部队在法国抵抗运动积极参与下解放。",
+    "ja": "パリはフランス軍とアメリカ軍により、フランス・レジスタンスの積極的参加を受けて解放されました。",
+    "ko": "파리는 프랑스 레지스탕스의 적극적인 참여 속에 프랑스군과 미군에 의해 해방되었습니다.",
+    "hi": "पेरिस को फ्रांसीसी प्रतिरोध की सक्रिय भागीदारी के साथ फ्रांसीसी और अमेरिकी सेनाओं ने मुक्त कराया।",
+    "ar": "حُررت باريس على يد قوات فرنسية وأمريكية بمشاركة فعالة من المقاومة الفرنسية."
   },
   "sources": [
     {
