@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Вилли Брандт",
       "de": "Willy Brandt wird geboren",
-      "en": "Willy Brandt is born"
+      "en": "Willy Brandt is born",
+      "fr": "Naissance de Willy Brandt",
+      "es": "Nace Willy Brandt",
+      "it": "Nasce Willy Brandt",
+      "pt": "Nasce Willy Brandt",
+      "nl": "Willy Brandt wordt geboren",
+      "pl": "Rodzi sie Willy Brandt",
+      "tr": "Willy Brandt doguyor",
+      "zh": "维利·勃兰特出生",
+      "ja": "ヴィリー・ブラントが生まれる",
+      "ko": "빌리 브란트가 태어나다",
+      "hi": "विली ब्रांट का जन्म हुआ",
+      "ar": "ولادة فيلي برانت"
     },
     "description": {
       "ru": "18 декабря 1913 года в Любеке родился Вилли Брандт. Он стал канцлером ФРГ и лауреатом Нобелевской премии мира.",
       "de": "Am 18. Dezember 1913 wurde Willy Brandt in Luebeck geboren. Er wurde Bundeskanzler und Friedensnobelpreistraeger.",
-      "en": "On 18 December 1913, Willy Brandt was born in Luebeck. He became West German chancellor and a Nobel Peace Prize laureate."
+      "en": "On 18 December 1913, Willy Brandt was born in Luebeck. He became West German chancellor and a Nobel Peace Prize laureate.",
+      "fr": "Le 18 decembre 1913, Willy Brandt naquit a Luebeck. Il devint chancelier de la RFA et laureat du prix Nobel de la paix.",
+      "es": "El 18 de diciembre de 1913 nacio Willy Brandt en Luebeck. Fue canciller de Alemania Occidental y laureado con el Premio Nobel de la Paz.",
+      "it": "Il 18 dicembre 1913 Willy Brandt nacque a Luebeck. Divenne cancelliere della Germania Ovest e premio Nobel per la pace.",
+      "pt": "Em 18 de dezembro de 1913 nasceu Willy Brandt em Luebeck. Ele tornou-se chanceler da Alemanha Ocidental e laureado com o Premio Nobel da Paz.",
+      "nl": "Op 18 december 1913 werd Willy Brandt geboren in Luebeck. Hij werd West-Duits bondskanselier en Nobelprijswinnaar voor de Vrede.",
+      "pl": "18 grudnia 1913 roku w Luebecku urodzil sie Willy Brandt. Zostal kanclerzem RFN i laureatem Pokojowej Nagrody Nobla.",
+      "tr": "18 Aralik 1913'te Willy Brandt Luebeck'te dogdu. Bati Almanya sansolyesi ve Nobel Baris Odulu sahibi oldu.",
+      "zh": "1913年12月18日，维利·勃兰特出生于吕贝克。他后来成为西德总理，并获得诺贝尔和平奖。",
+      "ja": "1913年12月18日、ヴィリー・ブラントはリューベックで生まれました。彼は西ドイツ首相となり、ノーベル平和賞を受賞しました。",
+      "ko": "1913년 12월 18일 빌리 브란트가 뤼베크에서 태어났다. 그는 서독 총리가 되었고 노벨 평화상을 받았다.",
+      "hi": "18 दिसंबर 1913 को विली ब्रांट का जन्म ल्यूबेक में हुआ। वे पश्चिम जर्मनी के चांसलर और नोबेल शांति पुरस्कार विजेता बने।",
+      "ar": "في 18 ديسمبر 1913 وُلد فيلي برانت في لوبيك. وأصبح مستشار ألمانيا الغربية وحائزا على جائزة نوبل للسلام."
     },
     "importance": {
       "ru": "Брандт связан с новой восточной политикой и попытками примирения между Западной Германией и Восточной Европой.",
       "de": "Brandt ist mit der Neuen Ostpolitik und der Versoehnung zwischen Westdeutschland und Osteuropa verbunden.",
-      "en": "Brandt is associated with the new Ostpolitik and efforts at reconciliation between West Germany and Eastern Europe."
+      "en": "Brandt is associated with the new Ostpolitik and efforts at reconciliation between West Germany and Eastern Europe.",
+      "fr": "Brandt est associe a la nouvelle Ostpolitik et aux efforts de reconciliation entre l'Allemagne de l'Ouest et l'Europe de l'Est.",
+      "es": "Brandt esta asociado con la nueva Ostpolitik y con los esfuerzos de reconciliacion entre Alemania Occidental y Europa del Este.",
+      "it": "Brandt e associato alla nuova Ostpolitik e agli sforzi di riconciliazione tra Germania Ovest ed Europa orientale.",
+      "pt": "Brandt esta associado a nova Ostpolitik e aos esforcos de reconciliacao entre a Alemanha Ocidental e a Europa Oriental.",
+      "nl": "Brandt wordt verbonden met de nieuwe Ostpolitik en pogingen tot verzoening tussen West-Duitsland en Oost-Europa.",
+      "pl": "Brandt kojarzy sie z nowa Ostpolitik i probami pojednania miedzy Niemcami Zachodnimi a Europa Wschodnia.",
+      "tr": "Brandt yeni Ostpolitik ve Bati Almanya ile Dogu Avrupa arasindaki uzlasma cabalariyla baglantilidir.",
+      "zh": "勃兰特与新东方政策以及西德同东欧和解的努力联系在一起。",
+      "ja": "ブラントは新しい東方政策と、西ドイツと東ヨーロッパの和解への努力に結びついています。",
+      "ko": "브란트는 새로운 동방정책과 서독과 동유럽 사이의 화해 노력과 연결된다.",
+      "hi": "ब्रांट नई पूर्वी नीति और पश्चिम जर्मनी तथा पूर्वी यूरोप के बीच मेल-मिलाप के प्रयासों से जुड़े हैं।",
+      "ar": "يرتبط برانت بالسياسة الشرقية الجديدة وبجهود المصالحة بين ألمانيا الغربية وأوروبا الشرقية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Жест в Варшаве",
           "de": "Die Geste von Warschau",
-          "en": "The gesture in Warsaw"
+          "en": "The gesture in Warsaw",
+          "fr": "Le geste de Varsovie",
+          "es": "El gesto en Varsovia",
+          "it": "Il gesto a Varsavia",
+          "pt": "O gesto em Varsovia",
+          "nl": "Het gebaar in Warschau",
+          "pl": "Gest w Warszawie",
+          "tr": "Varsova'daki jest",
+          "zh": "华沙的动作",
+          "ja": "ワルシャワでの身振り",
+          "ko": "바르샤바의 몸짓",
+          "hi": "वारसॉ का इशारा",
+          "ar": "الإيماءة في وارسو"
         },
         "description": {
           "ru": "В 1970 году Брандт встал на колени у памятника героям Варшавского гетто. Этот жест стал символом покаяния и памяти.",
           "de": "1970 kniete Brandt am Denkmal fuer die Helden des Warschauer Ghettos nieder. Diese Geste wurde zu einem Symbol von Reue und Erinnerung.",
-          "en": "In 1970, Brandt knelt at the monument to the Warsaw Ghetto heroes. The gesture became a symbol of remorse and remembrance."
+          "en": "In 1970, Brandt knelt at the monument to the Warsaw Ghetto heroes. The gesture became a symbol of remorse and remembrance.",
+          "fr": "En 1970, Brandt s'agenouilla devant le monument aux heros du ghetto de Varsovie. Ce geste devint un symbole de repentir et de memoire.",
+          "es": "En 1970, Brandt se arrodillo ante el monumento a los heroes del gueto de Varsovia. El gesto se convirtio en simbolo de arrepentimiento y memoria.",
+          "it": "Nel 1970 Brandt si inginocchio davanti al monumento agli eroi del ghetto di Varsavia. Il gesto divenne un simbolo di pentimento e memoria.",
+          "pt": "Em 1970, Brandt ajoelhou-se diante do monumento aos herois do gueto de Varsovia. O gesto tornou-se simbolo de arrependimento e memoria.",
+          "nl": "In 1970 knielde Brandt bij het monument voor de helden van het getto van Warschau. Het gebaar werd een symbool van berouw en herinnering.",
+          "pl": "W 1970 roku Brandt uklakl przed pomnikiem Bohaterow Getta Warszawskiego. Ten gest stal sie symbolem skruchy i pamieci.",
+          "tr": "1970'te Brandt Varsova Gettosu Kahramanlari Aniti onunde diz coktu. Bu jest pismanlik ve hafiza simgesi oldu.",
+          "zh": "1970年，勃兰特在华沙犹太隔都英雄纪念碑前下跪。这个动作成为忏悔和记忆的象征。",
+          "ja": "1970年、ブラントはワルシャワ・ゲットー英雄記念碑の前で跪きました。この身振りは悔恨と記憶の象徴となりました。",
+          "ko": "1970년 브란트는 바르샤바 게토 영웅 기념비 앞에서 무릎을 꿇었다. 이 행동은 참회와 기억의 상징이 되었다.",
+          "hi": "1970 में ब्रांट वारसॉ गेटो के नायकों के स्मारक के सामने घुटनों पर बैठ गए। यह इशारा पश्चाताप और स्मृति का प्रतीक बन गया।",
+          "ar": "في عام 1970 ركع برانت عند نصب أبطال غيتو وارسو. وأصبحت هذه الإيماءة رمزا للندم والذاكرة."
         },
         "importance": {
           "ru": "Иногда один жест говорит о политике больше, чем длинная речь.",
           "de": "Manchmal sagt eine Geste mehr ueber Politik als eine lange Rede.",
-          "en": "Sometimes one gesture says more about politics than a long speech."
+          "en": "Sometimes one gesture says more about politics than a long speech.",
+          "fr": "Parfois, un geste en dit plus sur la politique qu'un long discours.",
+          "es": "A veces un gesto dice mas sobre politica que un largo discurso.",
+          "it": "A volte un gesto dice piu sulla politica di un lungo discorso.",
+          "pt": "As vezes, um gesto diz mais sobre politica do que um longo discurso.",
+          "nl": "Soms zegt een gebaar meer over politiek dan een lange toespraak.",
+          "pl": "Czasem jeden gest mowi o polityce wiecej niz dluga przemowa.",
+          "tr": "Bazen tek bir jest siyaset hakkinda uzun bir konusmadan daha cok sey soyler.",
+          "zh": "有时，一个动作比长篇演说更能说明政治。",
+          "ja": "時には一つの身振りが長い演説よりも政治を語ります。",
+          "ko": "때로는 하나의 몸짓이 긴 연설보다 정치에 대해 더 많은 것을 말한다.",
+          "hi": "कभी-कभी एक इशारा राजनीति के बारे में लंबे भाषण से अधिक कह देता है।",
+          "ar": "أحيانا تقول إيماءة واحدة عن السياسة أكثر من خطاب طويل."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Вилли Брандт родился под именем Герберт Эрнст Карл Фрам; псевдоним Brandt он использовал в эмиграции.",
     "de": "Willy Brandt wurde als Herbert Ernst Karl Frahm geboren; den Namen Brandt nutzte er im Exil.",
-    "en": "Willy Brandt was born Herbert Ernst Karl Frahm; he used the name Brandt in exile."
+    "en": "Willy Brandt was born Herbert Ernst Karl Frahm; he used the name Brandt in exile.",
+    "fr": "Willy Brandt naquit sous le nom de Herbert Ernst Karl Frahm; il utilisa le nom Brandt en exil.",
+    "es": "Willy Brandt nacio como Herbert Ernst Karl Frahm; uso el nombre Brandt durante el exilio.",
+    "it": "Willy Brandt nacque con il nome Herbert Ernst Karl Frahm; uso il nome Brandt in esilio.",
+    "pt": "Willy Brandt nasceu como Herbert Ernst Karl Frahm; usou o nome Brandt no exilio.",
+    "nl": "Willy Brandt werd geboren als Herbert Ernst Karl Frahm; hij gebruikte de naam Brandt in ballingschap.",
+    "pl": "Willy Brandt urodzil sie jako Herbert Ernst Karl Frahm; nazwiska Brandt uzywal na emigracji.",
+    "tr": "Willy Brandt, Herbert Ernst Karl Frahm adiyla dogdu; Brandt adini surgunde kullandi.",
+    "zh": "维利·勃兰特出生时名为赫伯特·恩斯特·卡尔·弗拉姆；他在流亡中使用Brandt这个名字。",
+    "ja": "ヴィリー・ブラントはヘルベルト・エルンスト・カール・フラームとして生まれ、亡命中にBrandtという名を使いました。",
+    "ko": "빌리 브란트는 헤르베르트 에른스트 카를 프람이라는 이름으로 태어났고, 망명 중에 Brandt라는 이름을 사용했다.",
+    "hi": "विली ब्रांट का जन्म Herbert Ernst Karl Frahm नाम से हुआ था; निर्वासन में उन्होंने Brandt नाम का उपयोग किया।",
+    "ar": "وُلد فيلي برانت باسم هربرت إرنست كارل فرام؛ واستخدم اسم برانت في المنفى."
   },
   "sources": [
     {

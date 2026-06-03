@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начался Франкфуртский процесс по Освенциму",
       "de": "Der Frankfurter Auschwitz-Prozess beginnt",
-      "en": "The Frankfurt Auschwitz trial begins"
+      "en": "The Frankfurt Auschwitz trial begins",
+      "fr": "Debut du proces d'Auschwitz a Francfort",
+      "es": "Comienza el juicio de Auschwitz en Francfort",
+      "it": "Inizia il processo di Francoforte su Auschwitz",
+      "pt": "Comeca o julgamento de Auschwitz em Frankfurt",
+      "nl": "Het Frankfurt Auschwitz-proces begint",
+      "pl": "Rozpoczyna sie frankfurcki proces Auschwitz",
+      "tr": "Frankfurt Auschwitz davasi basliyor",
+      "zh": "法兰克福奥斯维辛审判开始",
+      "ja": "フランクフルト・アウシュヴィッツ裁判が始まる",
+      "ko": "프랑크푸르트 아우슈비츠 재판이 시작되다",
+      "hi": "फ्रैंकफर्ट ऑशविट्स मुकदमा शुरू हुआ",
+      "ar": "بدء محاكمة أوشفيتز في فرانكفورت"
     },
     "description": {
       "ru": "20 декабря 1963 года во Франкфурте-на-Майне начался первый Франкфуртский процесс по Освенциму. Перед судом предстали бывшие сотрудники лагеря Auschwitz-Birkenau.",
       "de": "Am 20. Dezember 1963 begann in Frankfurt am Main der erste Frankfurter Auschwitz-Prozess. Vor Gericht standen ehemalige Angehoerige des Lagers Auschwitz-Birkenau.",
-      "en": "On 20 December 1963, the first Frankfurt Auschwitz trial began in Frankfurt am Main. Former personnel of the Auschwitz-Birkenau camp stood before the court."
+      "en": "On 20 December 1963, the first Frankfurt Auschwitz trial began in Frankfurt am Main. Former personnel of the Auschwitz-Birkenau camp stood before the court.",
+      "fr": "Le 20 decembre 1963, le premier proces d'Auschwitz a Francfort commenca a Francfort-sur-le-Main. D'anciens membres du personnel du camp d'Auschwitz-Birkenau comparurent devant le tribunal.",
+      "es": "El 20 de diciembre de 1963 comenzo en Francfort del Meno el primer juicio de Auschwitz en Francfort. Antiguos miembros del personal del campo de Auschwitz-Birkenau comparecieron ante el tribunal.",
+      "it": "Il 20 dicembre 1963 inizio a Francoforte sul Meno il primo processo di Francoforte su Auschwitz. Ex membri del personale del campo di Auschwitz-Birkenau comparvero davanti al tribunale.",
+      "pt": "Em 20 de dezembro de 1963 comecou em Frankfurt am Main o primeiro julgamento de Auschwitz em Frankfurt. Ex-integrantes do pessoal do campo de Auschwitz-Birkenau compareceram perante o tribunal.",
+      "nl": "Op 20 december 1963 begon in Frankfurt am Main het eerste Frankfurt Auschwitz-proces. Voormalige personeelsleden van kamp Auschwitz-Birkenau stonden voor de rechtbank.",
+      "pl": "20 grudnia 1963 roku we Frankfurcie nad Menem rozpoczal sie pierwszy frankfurcki proces Auschwitz. Przed sadem stanely byle osoby z personelu obozu Auschwitz-Birkenau.",
+      "tr": "20 Aralik 1963'te Frankfurt am Main'da ilk Frankfurt Auschwitz davasi basladi. Auschwitz-Birkenau kampinin eski gorevlileri mahkeme onune cikarildi.",
+      "zh": "1963年12月20日，第一次法兰克福奥斯维辛审判在美因河畔法兰克福开始。奥斯维辛-比克瑙集中营的前工作人员出庭受审。",
+      "ja": "1963年12月20日、最初のフランクフルト・アウシュヴィッツ裁判がフランクフルト・アム・マインで始まりました。アウシュヴィッツ＝ビルケナウ収容所の元職員たちが法廷に立ちました。",
+      "ko": "1963년 12월 20일 프랑크푸르트암마인에서 첫 프랑크푸르트 아우슈비츠 재판이 시작되었다. 아우슈비츠-비르케나우 수용소의 전 직원들이 법정에 섰다.",
+      "hi": "20 दिसंबर 1963 को फ्रैंकफर्ट आम माइन में पहला फ्रैंकफर्ट ऑशविट्स मुकदमा शुरू हुआ। Auschwitz-Birkenau शिविर के पूर्व कर्मचारी अदालत के सामने पेश हुए।",
+      "ar": "في 20 ديسمبر 1963 بدأت في فرانكفورت أم ماين أول محاكمة فرانكفورت الخاصة بأوشفيتز. ومثل أمام المحكمة موظفون سابقون في معسكر أوشفيتز-بيركيناو."
     },
     "importance": {
       "ru": "Процесс стал важным моментом в послевоенном осмыслении преступлений нацизма в ФРГ.",
       "de": "Der Prozess wurde zu einem wichtigen Moment in der bundesdeutschen Auseinandersetzung mit den Verbrechen des Nationalsozialismus.",
-      "en": "The trial became an important moment in West Germany's confrontation with the crimes of National Socialism."
+      "en": "The trial became an important moment in West Germany's confrontation with the crimes of National Socialism.",
+      "fr": "Le proces devint un moment important dans la confrontation de la RFA avec les crimes du national-socialisme.",
+      "es": "El juicio se convirtio en un momento importante en la confrontacion de Alemania Occidental con los crimenes del nacionalsocialismo.",
+      "it": "Il processo divenne un momento importante nel confronto della Germania Ovest con i crimini del nazionalsocialismo.",
+      "pt": "O julgamento tornou-se um momento importante no confronto da Alemanha Ocidental com os crimes do nacional-socialismo.",
+      "nl": "Het proces werd een belangrijk moment in de West-Duitse confrontatie met de misdaden van het nationaalsocialisme.",
+      "pl": "Proces stal sie waznym momentem w zachodnioniemieckim mierzeniu sie ze zbrodniami narodowego socjalizmu.",
+      "tr": "Dava, Bati Almanya'nin Nasyonal Sosyalizm suclariyla yuzlesmesinde onemli bir an oldu.",
+      "zh": "这场审判成为西德面对国家社会主义罪行的重要时刻。",
+      "ja": "この裁判は、西ドイツが国家社会主義の犯罪と向き合う上で重要な瞬間となりました。",
+      "ko": "이 재판은 서독이 국가사회주의 범죄와 대면하는 중요한 순간이 되었다.",
+      "hi": "यह मुकदमा पश्चिम जर्मनी द्वारा राष्ट्रीय समाजवाद के अपराधों से सामना करने का महत्वपूर्ण क्षण बना।",
+      "ar": "أصبحت المحاكمة لحظة مهمة في مواجهة ألمانيا الغربية لجرائم النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Свидетельства выживших",
           "de": "Aussagen von Ueberlebenden",
-          "en": "Survivor testimony"
+          "en": "Survivor testimony",
+          "fr": "Temoignages de survivants",
+          "es": "Testimonios de supervivientes",
+          "it": "Testimonianze dei sopravvissuti",
+          "pt": "Testemunhos de sobreviventes",
+          "nl": "Getuigenissen van overlevenden",
+          "pl": "Swiadectwa ocalalych",
+          "tr": "Hayatta kalanlarin tanikliklari",
+          "zh": "幸存者证词",
+          "ja": "生存者の証言",
+          "ko": "생존자 증언",
+          "hi": "जीवित बचे लोगों की गवाही",
+          "ar": "شهادات الناجين"
         },
         "description": {
           "ru": "На процессе многие выжившие впервые подробно рассказывали немецкому суду о массовых убийствах и повседневном насилии в лагере. Это сделало процесс не только юридическим, но и общественным событием.",
           "de": "Im Prozess berichteten viele Ueberlebende erstmals ausfuehrlich vor einem deutschen Gericht ueber Massenmord und taegliche Gewalt im Lager. Dadurch wurde das Verfahren nicht nur juristisch, sondern auch gesellschaftlich bedeutsam.",
-          "en": "During the trial, many survivors gave detailed testimony before a German court about mass murder and daily violence in the camp. This made the proceedings not only legal but also social and historical events."
+          "en": "During the trial, many survivors gave detailed testimony before a German court about mass murder and daily violence in the camp. This made the proceedings not only legal but also social and historical events.",
+          "fr": "Pendant le proces, de nombreux survivants temoignerent en detail devant un tribunal allemand sur les meurtres de masse et la violence quotidienne dans le camp. Cela fit de la procedure un evenement non seulement juridique, mais aussi social et historique.",
+          "es": "Durante el juicio, muchos supervivientes dieron testimonio detallado ante un tribunal aleman sobre el asesinato masivo y la violencia diaria en el campo. Esto hizo que el proceso fuera no solo juridico, sino tambien social e historico.",
+          "it": "Durante il processo, molti sopravvissuti testimoniarono in dettaglio davanti a un tribunale tedesco sugli omicidi di massa e sulla violenza quotidiana nel campo. Questo rese il procedimento non solo giuridico, ma anche sociale e storico.",
+          "pt": "Durante o julgamento, muitos sobreviventes deram testemunhos detalhados perante um tribunal alemao sobre assassinato em massa e violencia diaria no campo. Isso tornou o processo nao apenas juridico, mas tambem social e historico.",
+          "nl": "Tijdens het proces legden veel overlevenden voor een Duitse rechtbank gedetailleerde getuigenissen af over massamoord en dagelijks geweld in het kamp. Daardoor werd de procedure niet alleen juridisch, maar ook sociaal en historisch belangrijk.",
+          "pl": "Podczas procesu wielu ocalalych szczegolowo zeznawalo przed niemieckim sadem o masowym mordzie i codziennej przemocy w obozie. Sprawilo to, ze postepowanie bylo wydarzeniem nie tylko prawnym, ale tez spolecznym i historycznym.",
+          "tr": "Dava sirasinda bircok hayatta kalan, kamptaki kitlesel cinayet ve gunluk siddet hakkinda bir Alman mahkemesi onunde ayrintili ifade verdi. Bu, sureci yalnizca hukuki degil, toplumsal ve tarihsel bir olay haline getirdi.",
+          "zh": "审判期间，许多幸存者在德国法院详细作证，讲述营地中的大规模杀戮和日常暴力。这使程序不仅成为法律事件，也成为社会和历史事件。",
+          "ja": "裁判では、多くの生存者がドイツの法廷で、収容所での大量殺害と日常的暴力について詳しく証言しました。これにより手続きは法的なものだけでなく、社会的・歴史的な出来事にもなりました。",
+          "ko": "재판 중 많은 생존자들이 독일 법정에서 수용소의 대량살인과 일상적 폭력에 대해 자세히 증언했다. 이로써 재판 절차는 법적 사건일 뿐 아니라 사회적이고 역사적인 사건이 되었다.",
+          "hi": "मुकदमे के दौरान कई जीवित बचे लोगों ने जर्मन अदालत के सामने शिविर में सामूहिक हत्या और रोजमर्रा की हिंसा पर विस्तार से गवाही दी। इससे कार्यवाही केवल कानूनी नहीं, बल्कि सामाजिक और ऐतिहासिक घटना भी बन गई।",
+          "ar": "أثناء المحاكمة قدم كثير من الناجين شهادات مفصلة أمام محكمة ألمانية عن القتل الجماعي والعنف اليومي في المعسكر. وبذلك أصبح الإجراء حدثا قانونيا واجتماعيا وتاريخيا في الوقت نفسه."
         },
         "importance": {
           "ru": "Суд помог вынести знания о преступлениях из архивов и воспоминаний в публичное пространство.",
           "de": "Das Gericht half, Wissen ueber die Verbrechen aus Archiven und Erinnerungen in die Oeffentlichkeit zu bringen.",
-          "en": "The court helped bring knowledge of the crimes out of archives and memories into public view."
+          "en": "The court helped bring knowledge of the crimes out of archives and memories into public view.",
+          "fr": "Le tribunal aida a faire sortir la connaissance des crimes des archives et des souvenirs pour la porter dans l'espace public.",
+          "es": "El tribunal ayudo a sacar el conocimiento de los crimenes de archivos y recuerdos hacia el espacio publico.",
+          "it": "Il tribunale aiuto a portare la conoscenza dei crimini dagli archivi e dai ricordi nello spazio pubblico.",
+          "pt": "O tribunal ajudou a levar o conhecimento dos crimes dos arquivos e memorias para o espaco publico.",
+          "nl": "De rechtbank hielp kennis over de misdaden uit archieven en herinneringen naar de openbaarheid te brengen.",
+          "pl": "Sad pomogl przeniesc wiedze o zbrodniach z archiwow i wspomnien do przestrzeni publicznej.",
+          "tr": "Mahkeme, suclar hakkindaki bilginin arsivlerden ve anilardan kamusal alana cikmasina yardim etti.",
+          "zh": "法院帮助把关于罪行的知识从档案和记忆中带到公众视野。",
+          "ja": "裁判所は、犯罪についての知識を文書館や記憶の中から公共の場へ出す助けとなりました。",
+          "ko": "법원은 범죄에 대한 지식을 기록보관소와 기억 속에서 공적 시야로 끌어내는 데 도움이 되었다.",
+          "hi": "अदालत ने अपराधों की जानकारी को अभिलेखों और स्मृतियों से निकालकर सार्वजनिक क्षेत्र में लाने में मदद की।",
+          "ar": "ساعدت المحكمة على إخراج معرفة الجرائم من الأرشيفات والذكريات إلى المجال العام."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Суд в городском зале",
           "de": "Gericht im Rathaus",
-          "en": "A trial in the city hall"
+          "en": "A trial in the city hall",
+          "fr": "Un proces dans l'hotel de ville",
+          "es": "Un juicio en el ayuntamiento",
+          "it": "Un processo nel municipio",
+          "pt": "Um julgamento na prefeitura",
+          "nl": "Een proces in het stadhuis",
+          "pl": "Proces w ratuszu",
+          "tr": "Belediye binasinda bir dava",
+          "zh": "市政厅里的审判",
+          "ja": "市庁舎での裁判",
+          "ko": "시청에서 열린 재판",
+          "hi": "नगर भवन में मुकदमा",
+          "ar": "محاكمة في دار البلدية"
         },
         "description": {
           "ru": "Процесс проходил в зале франкфуртского Рёмера, потому что обычные судебные помещения были слишком малы. Само место подчёркивало общественный масштаб дела.",
           "de": "Der Prozess fand im Frankfurter Roemer statt, weil normale Gerichtssaeale zu klein waren. Schon der Ort zeigte die oeffentliche Dimension des Verfahrens.",
-          "en": "The trial took place in Frankfurt's Roemer because ordinary courtrooms were too small. The venue itself showed the public scale of the case."
+          "en": "The trial took place in Frankfurt's Roemer because ordinary courtrooms were too small. The venue itself showed the public scale of the case.",
+          "fr": "Le proces eut lieu dans le Roemer de Francfort, car les salles d'audience ordinaires etaient trop petites. Le lieu lui-meme montrait l'ampleur publique de l'affaire.",
+          "es": "El juicio tuvo lugar en el Roemer de Francfort porque las salas normales de tribunal eran demasiado pequenas. El propio lugar mostraba la dimension publica del caso.",
+          "it": "Il processo si svolse nel Roemer di Francoforte perche le normali aule di tribunale erano troppo piccole. Il luogo stesso mostrava la dimensione pubblica del caso.",
+          "pt": "O julgamento ocorreu no Roemer de Frankfurt porque as salas comuns do tribunal eram pequenas demais. O proprio local mostrava a escala publica do caso.",
+          "nl": "Het proces vond plaats in de Frankfurter Roemer omdat gewone rechtszalen te klein waren. De locatie zelf liet de publieke schaal van de zaak zien.",
+          "pl": "Proces odbywal sie we frankfurckim Roemerze, poniewaz zwykle sale sadowe byly zbyt male. Samo miejsce pokazywalo publiczna skale sprawy.",
+          "tr": "Dava, normal mahkeme salonlari cok kucuk oldugu icin Frankfurt Roemer'de yapildi. Mekanin kendisi davanin kamusal olcegini gosteriyordu.",
+          "zh": "审判在法兰克福的罗马厅举行，因为普通法庭太小。场所本身显示了案件的公共规模。",
+          "ja": "裁判は、通常の法廷が小さすぎたため、フランクフルトのレーマーで行われました。その会場自体が事件の公共的な大きさを示していました。",
+          "ko": "재판은 일반 법정이 너무 작았기 때문에 프랑크푸르트의 뢰머에서 열렸다. 장소 자체가 사건의 공적 규모를 보여 주었다.",
+          "hi": "मुकदमा फ्रैंकफर्ट के Roemer में हुआ क्योंकि सामान्य अदालत कक्ष बहुत छोटे थे। स्थान ने स्वयं मामले के सार्वजनिक पैमाने को दिखाया।",
+          "ar": "جرت المحاكمة في رومر بمدينة فرانكفورت لأن قاعات المحاكم العادية كانت صغيرة جدا. وأظهر المكان نفسه الحجم العام للقضية."
         },
         "importance": {
           "ru": "Иногда пространство суда становится частью исторической памяти.",
           "de": "Manchmal wird der Ort eines Gerichtsverfahrens selbst Teil der historischen Erinnerung.",
-          "en": "Sometimes the space of a trial becomes part of historical memory."
+          "en": "Sometimes the space of a trial becomes part of historical memory.",
+          "fr": "Parfois, l'espace d'un proces devient lui-meme une part de la memoire historique.",
+          "es": "A veces el espacio de un juicio se convierte en parte de la memoria historica.",
+          "it": "A volte lo spazio di un processo diventa parte della memoria storica.",
+          "pt": "As vezes, o espaco de um julgamento torna-se parte da memoria historica.",
+          "nl": "Soms wordt de ruimte van een proces zelf deel van de historische herinnering.",
+          "pl": "Czasem przestrzen procesu sama staje sie czescia pamieci historycznej.",
+          "tr": "Bazen bir davanin mekani tarihsel hafizanin bir parcasi olur.",
+          "zh": "有时，审判空间本身会成为历史记忆的一部分。",
+          "ja": "時には裁判の場所そのものが歴史的記憶の一部になります。",
+          "ko": "때로는 재판의 공간 자체가 역사적 기억의 일부가 된다.",
+          "hi": "कभी-कभी मुकदमे का स्थान स्वयं ऐतिहासिक स्मृति का हिस्सा बन जाता है।",
+          "ar": "أحيانا يصبح مكان المحاكمة نفسه جزءا من الذاكرة التاريخية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Первый Франкфуртский процесс по Освенциму продолжался до августа 1965 года.",
     "de": "Der erste Frankfurter Auschwitz-Prozess dauerte bis August 1965.",
-    "en": "The first Frankfurt Auschwitz trial lasted until August 1965."
+    "en": "The first Frankfurt Auschwitz trial lasted until August 1965.",
+    "fr": "Le premier proces d'Auschwitz a Francfort dura jusqu'en aout 1965.",
+    "es": "El primer juicio de Auschwitz en Francfort duro hasta agosto de 1965.",
+    "it": "Il primo processo di Francoforte su Auschwitz duro fino ad agosto 1965.",
+    "pt": "O primeiro julgamento de Auschwitz em Frankfurt durou ate agosto de 1965.",
+    "nl": "Het eerste Frankfurt Auschwitz-proces duurde tot augustus 1965.",
+    "pl": "Pierwszy frankfurcki proces Auschwitz trwal do sierpnia 1965 roku.",
+    "tr": "Ilk Frankfurt Auschwitz davasi Agustos 1965'e kadar surdu.",
+    "zh": "第一次法兰克福奥斯维辛审判持续到1965年8月。",
+    "ja": "最初のフランクフルト・アウシュヴィッツ裁判は1965年8月まで続きました。",
+    "ko": "첫 프랑크푸르트 아우슈비츠 재판은 1965년 8월까지 이어졌다.",
+    "hi": "पहला फ्रैंकफर्ट ऑशविट्स मुकदमा अगस्त 1965 तक चला।",
+    "ar": "استمرت أول محاكمة أوشفيتز في فرانكفورت حتى أغسطس 1965."
   },
   "sources": [
     {
