@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начался Хамбахский праздник",
       "de": "Das Hambacher Fest beginnt",
-      "en": "The Hambach Festival begins"
+      "en": "The Hambach Festival begins",
+      "fr": "Le festival de Hambach commence",
+      "es": "Comienza la Fiesta de Hambach",
+      "it": "Inizia la Festa di Hambach",
+      "pt": "Comeca o Festival de Hambach",
+      "nl": "Het Hambacher Fest begint",
+      "pl": "Rozpoczyna sie Swieto Hambach",
+      "tr": "Hambach Festivali baslar",
+      "zh": "汉巴赫节开始",
+      "ja": "ハンバッハ祭が始まる",
+      "ko": "함바흐 축제가 시작되다",
+      "hi": "हाम्बाख उत्सव शुरू हुआ",
+      "ar": "بداية مهرجان هامباخ"
     },
     "description": {
       "ru": "27 мая 1832 года у замка Хамбах в Пфальце собрались десятки тысяч людей. Они выступали за свободу, гражданские права, национальное единство и более открытую Европу.",
       "de": "Am 27. Mai 1832 versammelten sich am Hambacher Schloss in der Pfalz Zehntausende Menschen. Sie traten fuer Freiheit, Buergerrechte, nationale Einheit und ein offeneres Europa ein.",
-      "en": "On 27 May 1832, tens of thousands gathered at Hambach Castle in the Palatinate. They called for freedom, civil rights, national unity and a more open Europe."
+      "en": "On 27 May 1832, tens of thousands gathered at Hambach Castle in the Palatinate. They called for freedom, civil rights, national unity and a more open Europe.",
+      "fr": "Le 27 mai 1832, des dizaines de milliers de personnes se reunirent au chateau de Hambach, dans le Palatinat. Elles reclamerent la liberte, les droits civiques, l'unite nationale et une Europe plus ouverte.",
+      "es": "El 27 de mayo de 1832, decenas de miles de personas se reunieron en el castillo de Hambach, en el Palatinado. Reclamaban libertad, derechos civiles, unidad nacional y una Europa mas abierta.",
+      "it": "Il 27 maggio 1832 decine di migliaia di persone si riunirono al castello di Hambach, nel Palatinato. Chiedevano liberta, diritti civili, unita nazionale e un'Europa piu aperta.",
+      "pt": "Em 27 de maio de 1832, dezenas de milhares de pessoas se reuniram no Castelo de Hambach, no Palatinado. Elas pediam liberdade, direitos civis, unidade nacional e uma Europa mais aberta.",
+      "nl": "Op 27 mei 1832 kwamen tienduizenden mensen bijeen bij het Hambacher Schloss in de Palts. Zij riepen om vrijheid, burgerrechten, nationale eenheid en een opener Europa.",
+      "pl": "27 maja 1832 roku przy zamku Hambach w Palatynacie zgromadzily sie dziesiatki tysiecy ludzi. Domagali sie wolnosci, praw obywatelskich, jednosci narodowej i bardziej otwartej Europy.",
+      "tr": "27 Mayis 1832'de Pfalz'daki Hambach Satosu'nda on binlerce kisi toplandi. Ozgurluk, yurttas haklari, ulusal birlik ve daha acik bir Avrupa talep ettiler.",
+      "zh": "1832年5月27日，数万人聚集在普法尔茨的汉巴赫城堡。他们呼吁自由、公民权利、民族统一和更加开放的欧洲。",
+      "ja": "1832年5月27日、プファルツのハンバッハ城に数万人が集まりました。彼らは自由、市民権、国民的統一、より開かれたヨーロッパを求めました。",
+      "ko": "1832년 5월 27일 팔츠의 함바흐 성에 수만 명이 모였습니다. 그들은 자유, 시민권, 민족 통일, 더 열린 유럽을 요구했습니다.",
+      "hi": "27 मई 1832 को पैलेटिनेट के हाम्बाख किले में दसियों हजार लोग इकट्ठा हुए। उन्होंने स्वतंत्रता, नागरिक अधिकार, राष्ट्रीय एकता और अधिक खुले यूरोप की मांग की।",
+      "ar": "في 27 مايو 1832 تجمع عشرات الالاف عند قلعة هامباخ في بالاتينات. وطالبوا بالحرية والحقوق المدنية والوحدة الوطنية واوروبا اكثر انفتاحا."
     },
     "importance": {
       "ru": "Хамбахский праздник стал одним из главных символов раннего немецкого демократического движения.",
       "de": "Das Hambacher Fest wurde zu einem der wichtigsten Symbole der fruehen deutschen Demokratiebewegung.",
-      "en": "The Hambach Festival became one of the main symbols of the early German democratic movement."
+      "en": "The Hambach Festival became one of the main symbols of the early German democratic movement.",
+      "fr": "Le festival de Hambach devint l'un des principaux symboles du premier mouvement democratique allemand.",
+      "es": "La Fiesta de Hambach se convirtio en uno de los principales simbolos del temprano movimiento democratico aleman.",
+      "it": "La Festa di Hambach divenne uno dei principali simboli del primo movimento democratico tedesco.",
+      "pt": "O Festival de Hambach tornou-se um dos principais simbolos do movimento democratico alemao inicial.",
+      "nl": "Het Hambacher Fest werd een van de belangrijkste symbolen van de vroege Duitse democratische beweging.",
+      "pl": "Swieto Hambach stalo sie jednym z glownych symboli wczesnego niemieckiego ruchu demokratycznego.",
+      "tr": "Hambach Festivali erken Alman demokratik hareketinin baslica simgelerinden biri oldu.",
+      "zh": "汉巴赫节成为早期德国民主运动的主要象征之一。",
+      "ja": "ハンバッハ祭は、初期ドイツ民主運動の主要な象徴の一つとなりました。",
+      "ko": "함바흐 축제는 초기 독일 민주운동의 주요 상징 중 하나가 되었습니다.",
+      "hi": "हाम्बाख उत्सव प्रारंभिक जर्मन लोकतांत्रिक आंदोलन के मुख्य प्रतीकों में से एक बना।",
+      "ar": "اصبح مهرجان هامباخ احد الرموز الرئيسية للحركة الديمقراطية الالمانية المبكرة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Чёрно-красно-золотые цвета",
           "de": "Schwarz-Rot-Gold",
-          "en": "Black, red and gold"
+          "en": "Black, red and gold",
+          "fr": "Noir, rouge et or",
+          "es": "Negro, rojo y oro",
+          "it": "Nero, rosso e oro",
+          "pt": "Preto, vermelho e dourado",
+          "nl": "Zwart, rood en goud",
+          "pl": "Czern, czerwien i zloto",
+          "tr": "Siyah, kirmizi ve altin",
+          "zh": "黑、红、金",
+          "ja": "黒・赤・金",
+          "ko": "검정, 빨강, 금색",
+          "hi": "काला, लाल और सुनहरा",
+          "ar": "الاسود والاحمر والذهبي"
         },
         "description": {
           "ru": "На Хамбахском празднике заметно звучали чёрно-красно-золотые цвета, позже ставшие цветами немецкой демократии. Тогда они выражали надежду на свободу и единство.",
           "de": "Beim Hambacher Fest waren Schwarz-Rot-Gold deutlich sichtbar, spaeter die Farben der deutschen Demokratie. Damals standen sie fuer Hoffnung auf Freiheit und Einheit.",
-          "en": "Black, red and gold were prominent at the Hambach Festival and later became the colors of German democracy. At the time they expressed hope for freedom and unity."
+          "en": "Black, red and gold were prominent at the Hambach Festival and later became the colors of German democracy. At the time they expressed hope for freedom and unity.",
+          "fr": "Le noir, le rouge et l'or etaient tres visibles lors du festival de Hambach et devinrent plus tard les couleurs de la democratie allemande. A l'epoque, ils exprimaient l'espoir de liberte et d'unite.",
+          "es": "El negro, rojo y oro destacaron en la Fiesta de Hambach y mas tarde se convirtieron en los colores de la democracia alemana. En aquel momento expresaban la esperanza de libertad y unidad.",
+          "it": "Il nero, rosso e oro furono molto visibili alla Festa di Hambach e in seguito divennero i colori della democrazia tedesca. Allora esprimevano la speranza di liberta e unita.",
+          "pt": "O preto, vermelho e dourado tiveram destaque no Festival de Hambach e depois se tornaram as cores da democracia alema. Na epoca, expressavam esperanca de liberdade e unidade.",
+          "nl": "Zwart, rood en goud waren duidelijk zichtbaar op het Hambacher Fest en werden later de kleuren van de Duitse democratie. Toen drukten zij hoop op vrijheid en eenheid uit.",
+          "pl": "Czern, czerwien i zloto byly wyraznie widoczne podczas Swieta Hambach, a pozniej staly sie kolorami niemieckiej demokracji. Wtedy wyrazaly nadzieje na wolnosc i jednosc.",
+          "tr": "Siyah, kirmizi ve altin renkleri Hambach Festivali'nde belirgindi ve daha sonra Alman demokrasisinin renkleri oldu. O donemde ozgurluk ve birlik umudunu ifade ediyorlardi.",
+          "zh": "黑、红、金三色在汉巴赫节上十分醒目，后来成为德国民主的颜色。当时它们表达了对自由和统一的希望。",
+          "ja": "黒・赤・金はハンバッハ祭で目立つ色であり、後にドイツ民主主義の色となりました。当時、それらは自由と統一への希望を表していました。",
+          "ko": "검정, 빨강, 금색은 함바흐 축제에서 두드러졌고 나중에 독일 민주주의의 색이 되었습니다. 당시 이 색들은 자유와 통일에 대한 희망을 나타냈습니다.",
+          "hi": "काला, लाल और सुनहरा रंग हाम्बाख उत्सव में प्रमुख थे और बाद में जर्मन लोकतंत्र के रंग बने। उस समय वे स्वतंत्रता और एकता की आशा व्यक्त करते थे।",
+          "ar": "برزت الوان الاسود والاحمر والذهبي في مهرجان هامباخ، واصبحت لاحقا الوان الديمقراطية الالمانية. وكانت آنذاك تعبر عن الامل في الحرية والوحدة."
         },
         "importance": {
           "ru": "Так флаг становится не просто знаком государства, а памятью о политической борьбе.",
           "de": "So wird eine Flagge nicht nur zum Staatszeichen, sondern zur Erinnerung an politische Kaempfe.",
-          "en": "A flag becomes not only a state symbol, but a memory of political struggle."
+          "en": "A flag becomes not only a state symbol, but a memory of political struggle.",
+          "fr": "Un drapeau devient non seulement un symbole de l'Etat, mais aussi une memoire de la lutte politique.",
+          "es": "Una bandera se convierte no solo en simbolo del Estado, sino tambien en memoria de una lucha politica.",
+          "it": "Una bandiera diventa non solo un simbolo dello Stato, ma anche memoria di una lotta politica.",
+          "pt": "Uma bandeira torna-se nao apenas um simbolo do Estado, mas tambem uma memoria da luta politica.",
+          "nl": "Een vlag wordt niet alleen een staatssymbool, maar ook een herinnering aan politieke strijd.",
+          "pl": "Flaga staje sie nie tylko symbolem panstwa, lecz takze pamiecia o walce politycznej.",
+          "tr": "Bir bayrak yalnizca devlet simgesi degil, siyasi mucadelenin de hafizasi olur.",
+          "zh": "旗帜不仅成为国家象征，也成为政治斗争的记忆。",
+          "ja": "旗は国家の象徴であるだけでなく、政治的闘争の記憶にもなります。",
+          "ko": "깃발은 국가 상징일 뿐 아니라 정치적 투쟁의 기억이 됩니다.",
+          "hi": "झंडा केवल राज्य का प्रतीक नहीं, बल्कि राजनीतिक संघर्ष की स्मृति भी बन जाता है।",
+          "ar": "لا يصبح العلم رمزا للدولة فقط، بل ذاكرة للنضال السياسي ايضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Хамбахский замок находится в современной земле Рейнланд-Пфальц.",
     "de": "Das Hambacher Schloss liegt im heutigen Rheinland-Pfalz.",
-    "en": "Hambach Castle is in today's Rhineland-Palatinate."
+    "en": "Hambach Castle is in today's Rhineland-Palatinate.",
+    "fr": "Le chateau de Hambach se trouve dans l'actuel Land de Rhenanie-Palatinat.",
+    "es": "El castillo de Hambach se encuentra en la actual Renania-Palatinado.",
+    "it": "Il castello di Hambach si trova nell'attuale Renania-Palatinato.",
+    "pt": "O Castelo de Hambach fica na atual Renania-Palatinado.",
+    "nl": "Het Hambacher Schloss ligt in het huidige Rijnland-Palts.",
+    "pl": "Zamek Hambach znajduje sie w dzisiejszej Nadrenii-Palatynacie.",
+    "tr": "Hambach Satosu bugunku Rheinland-Pfalz eyaletindedir.",
+    "zh": "汉巴赫城堡位于今天的莱茵兰-普法尔茨州。",
+    "ja": "ハンバッハ城は現在のラインラント・プファルツ州にあります。",
+    "ko": "함바흐 성은 오늘날의 라인란트팔츠주에 있습니다.",
+    "hi": "हाम्बाख किला आज के राइनलैंड-पैलेटिनेट में है।",
+    "ar": "تقع قلعة هامباخ في ولاية راينلاند-بالاتينات الحالية."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Заложен завод Volkswagen",
       "de": "Grundsteinlegung des Volkswagenwerks",
-      "en": "Foundation stone laid for the Volkswagen plant"
+      "en": "Foundation stone laid for the Volkswagen plant",
+      "fr": "Pose de la premiere pierre de l'usine Volkswagen",
+      "es": "Se coloca la primera piedra de la planta Volkswagen",
+      "it": "Posata la prima pietra dello stabilimento Volkswagen",
+      "pt": "Lancada a pedra fundamental da fabrica Volkswagen",
+      "nl": "Eerste steen gelegd voor de Volkswagenfabriek",
+      "pl": "Polozono kamien wegielny pod fabryke Volkswagena",
+      "tr": "Volkswagen fabrikasinin temeli atilir",
+      "zh": "大众汽车工厂奠基",
+      "ja": "フォルクスワーゲン工場の礎石が置かれる",
+      "ko": "폭스바겐 공장의 초석이 놓이다",
+      "hi": "Volkswagen कारखाने की आधारशिला रखी गई",
+      "ar": "وضع حجر الاساس لمصنع فولكسفاغن"
     },
     "description": {
       "ru": "26 мая 1938 года у Фаллерслебена был заложен первый камень завода Volkswagen. Вокруг предприятия возник город, который после войны получил имя Вольфсбург.",
       "de": "Am 26. Mai 1938 wurde bei Fallersleben der Grundstein des Volkswagenwerks gelegt. Um das Werk entstand eine Stadt, die nach dem Krieg den Namen Wolfsburg erhielt.",
-      "en": "On 26 May 1938, the foundation stone of the Volkswagen plant was laid near Fallersleben. A town grew around the factory and was renamed Wolfsburg after the war."
+      "en": "On 26 May 1938, the foundation stone of the Volkswagen plant was laid near Fallersleben. A town grew around the factory and was renamed Wolfsburg after the war.",
+      "fr": "Le 26 mai 1938, la premiere pierre de l'usine Volkswagen fut posee pres de Fallersleben. Une ville se developpa autour de l'usine et fut renommee Wolfsburg apres la guerre.",
+      "es": "El 26 de mayo de 1938 se coloco la primera piedra de la planta Volkswagen cerca de Fallersleben. Alrededor de la fabrica crecio una ciudad que despues de la guerra recibio el nombre de Wolfsburgo.",
+      "it": "Il 26 maggio 1938 fu posata la prima pietra dello stabilimento Volkswagen vicino a Fallersleben. Attorno alla fabbrica nacque una citta, che dopo la guerra prese il nome di Wolfsburg.",
+      "pt": "Em 26 de maio de 1938, foi lancada a pedra fundamental da fabrica Volkswagen perto de Fallersleben. Uma cidade cresceu em torno da fabrica e foi renomeada Wolfsburg depois da guerra.",
+      "nl": "Op 26 mei 1938 werd bij Fallersleben de eerste steen van de Volkswagenfabriek gelegd. Rond de fabriek groeide een stad, die na de oorlog Wolfsburg werd genoemd.",
+      "pl": "26 maja 1938 roku w poblizu Fallersleben polozono kamien wegielny pod fabryke Volkswagena. Wokol zakladu powstalo miasto, ktore po wojnie otrzymalo nazwe Wolfsburg.",
+      "tr": "26 Mayis 1938'de Fallersleben yakinlarinda Volkswagen fabrikasinin temeli atildi. Fabrikanin etrafinda bir kent buyudu ve savastan sonra Wolfsburg adini aldi.",
+      "zh": "1938年5月26日，大众汽车工厂在法勒斯莱本附近奠基。工厂周围逐渐形成一座城市，战后改名为沃尔夫斯堡。",
+      "ja": "1938年5月26日、ファラースレーベン近郊でフォルクスワーゲン工場の礎石が置かれました。工場の周囲には町が生まれ、戦後ウォルフスブルクと改名されました。",
+      "ko": "1938년 5월 26일 팔러스레벤 근처에 폭스바겐 공장의 초석이 놓였습니다. 공장 주변에 도시가 성장했고, 전쟁 뒤 볼프스부르크라는 이름을 얻었습니다.",
+      "hi": "26 मई 1938 को Fallersleben के पास Volkswagen कारखाने की आधारशिला रखी गई। कारखाने के चारों ओर एक शहर विकसित हुआ, जिसे युद्ध के बाद वोल्फ्सबुर्ग नाम मिला।",
+      "ar": "في 26 مايو 1938 وُضع حجر الاساس لمصنع فولكسفاغن قرب فالرسليبن. ونشأت حول المصنع مدينة سميت بعد الحرب فولفسبورغ."
     },
     "importance": {
       "ru": "Это важная дата немецкой автомобильной истории, но её происхождение связано с нацистской пропагандой и принудительным трудом военного времени.",
       "de": "Das ist ein wichtiges Datum der deutschen Automobilgeschichte, doch sein Ursprung ist mit NS-Propaganda und Zwangsarbeit im Krieg verbunden.",
-      "en": "It is an important date in German automotive history, but its origin is tied to Nazi propaganda and wartime forced labour."
+      "en": "It is an important date in German automotive history, but its origin is tied to Nazi propaganda and wartime forced labour.",
+      "fr": "C'est une date importante de l'histoire automobile allemande, mais son origine est liee a la propagande nazie et au travail force pendant la guerre.",
+      "es": "Es una fecha importante de la historia automovilistica alemana, pero su origen esta ligado a la propaganda nazi y al trabajo forzoso durante la guerra.",
+      "it": "E una data importante della storia automobilistica tedesca, ma la sua origine e legata alla propaganda nazista e al lavoro forzato in tempo di guerra.",
+      "pt": "E uma data importante da historia automobilistica alema, mas sua origem esta ligada a propaganda nazista e ao trabalho forcado durante a guerra.",
+      "nl": "Het is een belangrijke datum in de Duitse autogeschiedenis, maar de oorsprong is verbonden met nazi-propaganda en dwangarbeid in oorlogstijd.",
+      "pl": "To wazna data niemieckiej historii motoryzacji, ale jej poczatki wiaza sie z nazistowska propaganda i praca przymusowa w czasie wojny.",
+      "tr": "Bu, Alman otomotiv tarihinde onemli bir tarihtir, ancak kokeni Nazi propagandasi ve savas donemi zorla calistirmayla baglantilidir.",
+      "zh": "这是德国汽车史上的重要日期，但其起源同纳粹宣传和战时强迫劳动有关。",
+      "ja": "これはドイツ自動車史の重要な日付ですが、その起源はナチスの宣伝と戦時中の強制労働に結び付いています。",
+      "ko": "이는 독일 자동차 역사에서 중요한 날짜이지만, 그 기원은 나치 선전과 전시 강제노동과 연결되어 있습니다.",
+      "hi": "यह जर्मन ऑटोमोबाइल इतिहास की महत्वपूर्ण तारीख है, लेकिन इसकी शुरुआत नाजी प्रचार और युद्धकालीन जबरन मजदूरी से जुड़ी है।",
+      "ar": "انه تاريخ مهم في تاريخ السيارات الالماني، لكن اصله مرتبط بالدعاية النازية والعمل القسري في زمن الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Автомобильный город",
           "de": "Eine Autostadt entsteht",
-          "en": "A car city emerges"
+          "en": "A car city emerges",
+          "fr": "Une ville automobile apparait",
+          "es": "Nace una ciudad del automovil",
+          "it": "Nasce una citta dell'auto",
+          "pt": "Surge uma cidade do automovel",
+          "nl": "Een autostad ontstaat",
+          "pl": "Powstaje miasto samochodow",
+          "tr": "Bir otomobil kenti dogar",
+          "zh": "一座汽车城市出现",
+          "ja": "自動車の町が生まれる",
+          "ko": "자동차 도시가 생겨나다",
+          "hi": "एक कार-शहर उभरता है",
+          "ar": "ظهور مدينة السيارات"
         },
         "description": {
           "ru": "Будущий Вольфсбург был построен как город при заводе. После 1945 года он стал одним из самых известных промышленных центров Нижней Саксонии.",
           "de": "Das spaetere Wolfsburg wurde als Stadt am Werk geplant. Nach 1945 wurde es zu einem der bekanntesten Industriezentren Niedersachsens.",
-          "en": "The future Wolfsburg was planned as a town beside the factory. After 1945, it became one of Lower Saxony's best-known industrial centers."
+          "en": "The future Wolfsburg was planned as a town beside the factory. After 1945, it became one of Lower Saxony's best-known industrial centers.",
+          "fr": "La future Wolfsburg fut planifiee comme une ville a cote de l'usine. Apres 1945, elle devint l'un des centres industriels les plus connus de Basse-Saxe.",
+          "es": "La futura Wolfsburgo fue planificada como una ciudad junto a la fabrica. Despues de 1945 se convirtio en uno de los centros industriales mas conocidos de Baja Sajonia.",
+          "it": "La futura Wolfsburg fu progettata come citta accanto alla fabbrica. Dopo il 1945 divenne uno dei centri industriali piu noti della Bassa Sassonia.",
+          "pt": "A futura Wolfsburg foi planejada como uma cidade ao lado da fabrica. Depois de 1945, tornou-se um dos centros industriais mais conhecidos da Baixa Saxonia.",
+          "nl": "Het latere Wolfsburg werd gepland als stad naast de fabriek. Na 1945 werd het een van de bekendste industriecentra van Nedersaksen.",
+          "pl": "Przyszly Wolfsburg zaplanowano jako miasto przy fabryce. Po 1945 roku stal sie jednym z najbardziej znanych osrodkow przemyslowych Dolnej Saksonii.",
+          "tr": "Gelecekteki Wolfsburg, fabrikanin yaninda bir kent olarak planlandi. 1945'ten sonra Asagi Saksonya'nin en taninmis sanayi merkezlerinden biri oldu.",
+          "zh": "后来的沃尔夫斯堡原本是作为工厂旁的城市规划的。1945年以后，它成为下萨克森最著名的工业中心之一。",
+          "ja": "後のウォルフスブルクは、工場の隣にある町として計画されました。1945年後、ニーダーザクセン州で最も有名な工業中心地の一つになりました。",
+          "ko": "훗날 볼프스부르크가 될 곳은 공장 옆의 도시로 계획되었습니다. 1945년 이후 이곳은 니더작센의 가장 잘 알려진 산업 중심지 중 하나가 되었습니다.",
+          "hi": "भविष्य का वोल्फ्सबुर्ग कारखाने के पास बसने वाले शहर के रूप में योजनाबद्ध था। 1945 के बाद यह लोअर सैक्सनी के सबसे प्रसिद्ध औद्योगिक केंद्रों में से एक बना।",
+          "ar": "خُطط لفولفسبورغ المستقبلية كمدينة بجانب المصنع. وبعد 1945 اصبحت احد اشهر المراكز الصناعية في ساكسونيا السفلى."
         },
         "importance": {
           "ru": "История Вольфсбурга показывает, как промышленность может создать новый город.",
           "de": "Die Geschichte Wolfsburgs zeigt, wie Industrie eine neue Stadt entstehen lassen kann.",
-          "en": "Wolfsburg's history shows how industry can create a new city."
+          "en": "Wolfsburg's history shows how industry can create a new city.",
+          "fr": "L'histoire de Wolfsburg montre comment l'industrie peut creer une ville nouvelle.",
+          "es": "La historia de Wolfsburgo muestra como la industria puede crear una ciudad nueva.",
+          "it": "La storia di Wolfsburg mostra come l'industria possa creare una nuova citta.",
+          "pt": "A historia de Wolfsburg mostra como a industria pode criar uma nova cidade.",
+          "nl": "De geschiedenis van Wolfsburg laat zien hoe industrie een nieuwe stad kan scheppen.",
+          "pl": "Historia Wolfsburga pokazuje, jak przemysl moze stworzyc nowe miasto.",
+          "tr": "Wolfsburg'un tarihi, sanayinin nasil yeni bir kent yaratabilecegini gosterir.",
+          "zh": "沃尔夫斯堡的历史显示，工业如何创造一座新城市。",
+          "ja": "ウォルフスブルクの歴史は、産業が新しい都市を生み出し得ることを示しています。",
+          "ko": "볼프스부르크의 역사는 산업이 어떻게 새로운 도시를 만들 수 있는지를 보여 줍니다.",
+          "hi": "वोल्फ्सबुर्ग का इतिहास दिखाता है कि उद्योग नया शहर कैसे बना सकता है।",
+          "ar": "يبين تاريخ فولفسبورغ كيف يمكن للصناعة ان تنشئ مدينة جديدة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Память о принудительном труде",
           "de": "Erinnerung an Zwangsarbeit",
-          "en": "Memory of forced labour"
+          "en": "Memory of forced labour",
+          "fr": "Memoire du travail force",
+          "es": "Memoria del trabajo forzoso",
+          "it": "Memoria del lavoro forzato",
+          "pt": "Memoria do trabalho forcado",
+          "nl": "Herinnering aan dwangarbeid",
+          "pl": "Pamiec o pracy przymusowej",
+          "tr": "Zorla calistirma hafizasi",
+          "zh": "强迫劳动的记忆",
+          "ja": "強制労働の記憶",
+          "ko": "강제노동의 기억",
+          "hi": "जबरन मजदूरी की स्मृति",
+          "ar": "ذكرى العمل القسري"
         },
         "description": {
           "ru": "Во время войны на заводе использовали принудительный труд. Сегодня эта часть истории отражена в местах памяти и исследованиях компании.",
           "de": "Waehrend des Krieges wurde im Werk Zwangsarbeit eingesetzt. Heute wird dieser Teil der Geschichte in Gedenkorten und Forschung aufgearbeitet.",
-          "en": "During the war, forced labour was used at the plant. Today this part of the history is addressed through memorial sites and research."
+          "en": "During the war, forced labour was used at the plant. Today this part of the history is addressed through memorial sites and research.",
+          "fr": "Pendant la guerre, le travail force fut utilise dans l'usine. Aujourd'hui, cette partie de l'histoire est traitee par des lieux de memoire et des recherches.",
+          "es": "Durante la guerra se utilizo trabajo forzoso en la planta. Hoy esta parte de la historia se aborda mediante lugares de memoria e investigaciones.",
+          "it": "Durante la guerra nello stabilimento fu usato lavoro forzato. Oggi questa parte della storia viene affrontata attraverso luoghi della memoria e ricerche.",
+          "pt": "Durante a guerra, foi usado trabalho forcado na fabrica. Hoje essa parte da historia e tratada por meio de memoriais e pesquisas.",
+          "nl": "Tijdens de oorlog werd in de fabriek dwangarbeid gebruikt. Vandaag wordt dit deel van de geschiedenis behandeld via gedenkplaatsen en onderzoek.",
+          "pl": "Podczas wojny w zakladzie wykorzystywano prace przymusowa. Dzis ta czesc historii jest opracowywana w miejscach pamieci i badaniach.",
+          "tr": "Savas sirasinda fabrikada zorla calistirma kullanildi. Bugun tarihin bu bolumu anma mekanlari ve arastirmalar yoluyla ele alinmaktadir.",
+          "zh": "战争期间，工厂使用了强迫劳动。今天，这段历史通过纪念场所和研究得到处理。",
+          "ja": "戦時中、この工場では強制労働が使われました。今日、この歴史の一部は記念施設や研究を通じて扱われています。",
+          "ko": "전쟁 중 이 공장에서는 강제노동이 이용되었습니다. 오늘날 이 역사 부분은 추모 장소와 연구를 통해 다루어지고 있습니다.",
+          "hi": "युद्ध के दौरान कारखाने में जबरन मजदूरी का उपयोग किया गया। आज इतिहास के इस हिस्से को स्मृति-स्थलों और शोध के माध्यम से सामने रखा जाता है।",
+          "ar": "خلال الحرب استُخدم العمل القسري في المصنع. واليوم يجري تناول هذا الجزء من التاريخ عبر مواقع الذاكرة والبحوث."
         },
         "importance": {
           "ru": "Так промышленная история остаётся честной, а не только историей успеха.",
           "de": "So bleibt Industriegeschichte ehrlich und wird nicht nur zur Erfolgsgeschichte.",
-          "en": "This keeps industrial history honest, rather than only a success story."
+          "en": "This keeps industrial history honest, rather than only a success story.",
+          "fr": "Cela garde l'histoire industrielle honnete, au lieu d'en faire seulement une histoire de succes.",
+          "es": "Esto mantiene honesta la historia industrial, en lugar de convertirla solo en una historia de exito.",
+          "it": "Questo mantiene onesta la storia industriale, invece di farne solo una storia di successo.",
+          "pt": "Isso mantem a historia industrial honesta, em vez de transforma-la apenas numa historia de sucesso.",
+          "nl": "Zo blijft industriegeschiedenis eerlijk en wordt zij niet alleen een succesverhaal.",
+          "pl": "Dzieki temu historia przemyslu pozostaje uczciwa, a nie tylko opowiescia o sukcesie.",
+          "tr": "Bu, sanayi tarihini yalnizca bir basari hikayesi olmaktan cikarip durust tutar.",
+          "zh": "这样，工业史就保持诚实，而不只是成功故事。",
+          "ja": "これにより、産業史は成功物語だけでなく、誠実な歴史として保たれます。",
+          "ko": "이는 산업사를 단순한 성공 이야기가 아니라 정직한 역사로 유지하게 합니다.",
+          "hi": "इससे औद्योगिक इतिहास केवल सफलता की कहानी नहीं, बल्कि ईमानदार इतिहास बना रहता है।",
+          "ar": "بهذا يبقى تاريخ الصناعة صادقا، لا مجرد قصة نجاح."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Город Вольфсбург получил своё нынешнее название 25 мая 1945 года.",
     "de": "Die Stadt Wolfsburg erhielt ihren heutigen Namen am 25. Mai 1945.",
-    "en": "The city of Wolfsburg received its current name on 25 May 1945."
+    "en": "The city of Wolfsburg received its current name on 25 May 1945.",
+    "fr": "La ville de Wolfsburg recut son nom actuel le 25 mai 1945.",
+    "es": "La ciudad de Wolfsburgo recibio su nombre actual el 25 de mayo de 1945.",
+    "it": "La citta di Wolfsburg ricevette il nome attuale il 25 maggio 1945.",
+    "pt": "A cidade de Wolfsburg recebeu seu nome atual em 25 de maio de 1945.",
+    "nl": "De stad Wolfsburg kreeg haar huidige naam op 25 mei 1945.",
+    "pl": "Miasto Wolfsburg otrzymalo swoja obecna nazwe 25 maja 1945 roku.",
+    "tr": "Wolfsburg sehri bugunku adini 25 Mayis 1945'te aldi.",
+    "zh": "沃尔夫斯堡市于1945年5月25日获得现在的名称。",
+    "ja": "ウォルフスブルク市は1945年5月25日に現在の名前になりました。",
+    "ko": "볼프스부르크시는 1945년 5월 25일 현재의 이름을 받았습니다.",
+    "hi": "वोल्फ्सबुर्ग शहर को उसका वर्तमान नाम 25 मई 1945 को मिला।",
+    "ar": "حصلت مدينة فولفسبورغ على اسمها الحالي في 25 مايو 1945."
   },
   "sources": [
     {
