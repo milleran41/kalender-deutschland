@@ -11,17 +11,53 @@
     "title": {
       "ru": "Плебисциты в Восточной и Западной Пруссии",
       "de": "Volksabstimmungen in Ost- und Westpreussen",
-      "en": "Plebiscites in East and West Prussia"
+      "en": "Plebiscites in East and West Prussia",
+      "fr": "Plébiscites en Prusse orientale et occidentale",
+      "es": "Plebiscitos en Prusia Oriental y Occidental",
+      "it": "Plebisciti in Prussia orientale e occidentale",
+      "pt": "Plebiscitos na Prússia Oriental e Ocidental",
+      "nl": "Volksstemmingen in Oost- en West-Pruisen",
+      "pl": "Plebiscyty w Prusach Wschodnich i Zachodnich",
+      "tr": "Doğu ve Batı Prusya'da plebisitler",
+      "zh": "东普鲁士和西普鲁士的公民投票",
+      "ja": "東西プロイセンでの住民投票",
+      "ko": "동프로이센과 서프로이센의 국민투표",
+      "hi": "पूर्वी और पश्चिमी प्रशिया में जनमत-संग्रह",
+      "ar": "استفتاءات في بروسيا الشرقية والغربية"
     },
     "description": {
       "ru": "11 июля 1920 года в Алленштайнском и Мариенвердерском округах прошли плебисциты о государственной принадлежности после Первой мировой войны. Большинство избирателей высказалось за сохранение этих территорий в Германии.",
       "de": "Am 11. Juli 1920 fanden in den Abstimmungsgebieten Allenstein und Marienwerder Volksabstimmungen ueber die staatliche Zugehoerigkeit nach dem Ersten Weltkrieg statt. Die Mehrheit stimmte fuer den Verbleib bei Deutschland.",
-      "en": "On 11 July 1920, plebiscites were held in the Allenstein and Marienwerder areas on their state affiliation after the First World War. A majority voted for the territories to remain with Germany."
+      "en": "On 11 July 1920, plebiscites were held in the Allenstein and Marienwerder areas on their state affiliation after the First World War. A majority voted for the territories to remain with Germany.",
+      "fr": "Le 11 juillet 1920, des plébiscites eurent lieu dans les régions d'Allenstein et de Marienwerder sur leur appartenance étatique après la Première Guerre mondiale. La majorité vota pour le maintien de ces territoires avec l'Allemagne.",
+      "es": "El 11 de julio de 1920 se celebraron plebiscitos en las zonas de Allenstein y Marienwerder sobre su pertenencia estatal tras la Primera Guerra Mundial. La mayoría votó por que los territorios permanecieran en Alemania.",
+      "it": "L'11 luglio 1920 si tennero plebisciti nelle aree di Allenstein e Marienwerder sulla loro appartenenza statale dopo la Prima guerra mondiale. La maggioranza votò perché i territori restassero alla Germania.",
+      "pt": "Em 11 de julho de 1920, realizaram-se plebiscitos nas áreas de Allenstein e Marienwerder sobre sua filiação estatal após a Primeira Guerra Mundial. A maioria votou para que os territórios permanecessem com a Alemanha.",
+      "nl": "Op 11 juli 1920 werden in de gebieden Allenstein en Marienwerder volksstemmingen gehouden over hun staatskundige aansluiting na de Eerste Wereldoorlog. Een meerderheid stemde ervoor dat de gebieden bij Duitsland bleven.",
+      "pl": "11 lipca 1920 roku w okręgach Allenstein i Marienwerder odbyły się plebiscyty dotyczące przynależności państwowej po I wojnie światowej. Większość głosowała za pozostaniem tych terenów przy Niemczech.",
+      "tr": "11 Temmuz 1920'de Allenstein ve Marienwerder bölgelerinde, Birinci Dünya Savaşı sonrası devlet bağlılığı konusunda plebisitler yapıldı. Çoğunluk bu bölgelerin Almanya'da kalması yönünde oy kullandı.",
+      "zh": "1920年7月11日，阿伦施泰因和马林韦德尔地区就第一次世界大战后的国家归属举行公民投票。多数选民支持这些地区留在德国。",
+      "ja": "1920年7月11日、アレンシュタインとマリーエンヴェルダーの地域で、第一次世界大戦後の国家帰属を問う住民投票が行われた。多数はこれらの地域がドイツに残ることに投票した。",
+      "ko": "1920년 7월 11일, 알렌슈타인과 마리엔베르더 지역에서 제1차 세계대전 이후 국가 귀속을 묻는 국민투표가 열렸다. 다수는 이 지역들이 독일에 남는 것에 찬성했다.",
+      "hi": "11 जुलाई 1920 को प्रथम विश्व युद्ध के बाद राज्यीय संबद्धता पर Allenstein और Marienwerder क्षेत्रों में जनमत-संग्रह हुए। बहुमत ने इन क्षेत्रों को जर्मनी में बनाए रखने के पक्ष में मतदान किया।",
+      "ar": "في 11 يوليو 1920 أجريت استفتاءات في منطقتي ألنشتاين ومارينفيردر حول تبعيتهما للدولة بعد الحرب العالمية الأولى. وصوتت الأغلبية لبقاء هذه الأراضي مع ألمانيا."
     },
     "importance": {
       "ru": "Дата важна для понимания сложной послевоенной карты на востоке Германии и Польши.",
       "de": "Das Datum ist wichtig fuer das Verstaendnis der komplizierten Nachkriegskarte im Osten Deutschlands und Polens.",
-      "en": "The date is important for understanding the complicated postwar map in eastern Germany and Poland."
+      "en": "The date is important for understanding the complicated postwar map in eastern Germany and Poland.",
+      "fr": "Cette date est importante pour comprendre la carte compliquée de l'après-guerre dans l'est de l'Allemagne et en Pologne.",
+      "es": "La fecha es importante para entender el complicado mapa de posguerra en el este de Alemania y Polonia.",
+      "it": "La data è importante per capire la complessa mappa del dopoguerra nella Germania orientale e in Polonia.",
+      "pt": "A data é importante para entender o mapa complicado do pós-guerra no leste da Alemanha e na Polônia.",
+      "nl": "De datum is belangrijk om de ingewikkelde naoorlogse kaart in Oost-Duitsland en Polen te begrijpen.",
+      "pl": "Ta data jest ważna dla zrozumienia skomplikowanej powojennej mapy na wschodzie Niemiec i w Polsce.",
+      "tr": "Bu tarih, Almanya'nın doğusu ve Polonya'daki karmaşık savaş sonrası haritayı anlamak için önemlidir.",
+      "zh": "这个日期对于理解德国东部和波兰复杂的战后地图很重要。",
+      "ja": "この日は、ドイツ東部とポーランドにおける複雑な戦後地図を理解するうえで重要である。",
+      "ko": "이 날짜는 독일 동부와 폴란드의 복잡한 전후 지도를 이해하는 데 중요하다.",
+      "hi": "यह तारीख पूर्वी जर्मनी और पोलैंड की जटिल युद्धोत्तर मानचित्र स्थिति को समझने के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لفهم خريطة ما بعد الحرب المعقدة في شرق ألمانيا وبولندا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Границы после Версаля",
           "de": "Grenzen nach Versailles",
-          "en": "Borders after Versailles"
+          "en": "Borders after Versailles",
+          "fr": "Frontières après Versailles",
+          "es": "Fronteras después de Versalles",
+          "it": "Confini dopo Versailles",
+          "pt": "Fronteiras depois de Versalhes",
+          "nl": "Grenzen na Versailles",
+          "pl": "Granice po Wersalu",
+          "tr": "Versay sonrası sınırlar",
+          "zh": "凡尔赛之后的边界",
+          "ja": "ヴェルサイユ後の国境",
+          "ko": "베르사유 이후의 국경",
+          "hi": "वर्साय के बाद सीमाएं",
+          "ar": "الحدود بعد فرساي"
         },
         "description": {
           "ru": "Версальский договор предусматривал голосования в нескольких спорных регионах. Так международная политика пыталась совместить новые границы, национальные движения и местное мнение.",
           "de": "Der Versailler Vertrag sah Abstimmungen in mehreren umstrittenen Regionen vor. So versuchte internationale Politik, neue Grenzen, nationale Bewegungen und lokale Meinungen miteinander zu verbinden.",
-          "en": "The Treaty of Versailles provided for votes in several disputed regions. International politics thus tried to combine new borders, national movements and local opinion."
+          "en": "The Treaty of Versailles provided for votes in several disputed regions. International politics thus tried to combine new borders, national movements and local opinion.",
+          "fr": "Le traité de Versailles prévoyait des votes dans plusieurs régions contestées. La politique internationale tenta ainsi de concilier nouvelles frontières, mouvements nationaux et opinion locale.",
+          "es": "El Tratado de Versalles preveía votaciones en varias regiones disputadas. Así, la política internacional intentó combinar nuevas fronteras, movimientos nacionales y opinión local.",
+          "it": "Il Trattato di Versailles prevedeva votazioni in diverse regioni contese. La politica internazionale cercò così di combinare nuovi confini, movimenti nazionali e opinione locale.",
+          "pt": "O Tratado de Versalhes previa votações em várias regiões disputadas. Assim, a política internacional tentou combinar novas fronteiras, movimentos nacionais e opinião local.",
+          "nl": "Het Verdrag van Versailles voorzag in stemmingen in verschillende betwiste regio's. Zo probeerde de internationale politiek nieuwe grenzen, nationale bewegingen en lokale opvattingen te combineren.",
+          "pl": "Traktat wersalski przewidywał głosowania w kilku spornych regionach. Polityka międzynarodowa próbowała więc połączyć nowe granice, ruchy narodowe i lokalną opinię.",
+          "tr": "Versay Antlaşması birkaç tartışmalı bölgede oylamalar öngörüyordu. Böylece uluslararası siyaset yeni sınırları, ulusal hareketleri ve yerel görüşleri birleştirmeye çalıştı.",
+          "zh": "《凡尔赛条约》规定在几个有争议地区举行投票。国际政治试图借此结合新边界、民族运动和当地意见。",
+          "ja": "ヴェルサイユ条約は、いくつかの係争地域での投票を定めていた。国際政治は、新しい国境、民族運動、地域の意見を結びつけようとしたのである。",
+          "ko": "베르사유 조약은 여러 분쟁 지역에서 투표를 실시하도록 규정했다. 국제 정치는 이렇게 새로운 국경, 민족 운동, 지역 의견을 결합하려 했다.",
+          "hi": "वर्साय संधि ने कई विवादित क्षेत्रों में मतदान का प्रावधान किया था। इस तरह अंतरराष्ट्रीय राजनीति ने नई सीमाओं, राष्ट्रीय आंदोलनों और स्थानीय राय को मिलाने की कोशिश की।",
+          "ar": "نصت معاهدة فرساي على إجراء تصويتات في عدة مناطق متنازع عليها. وهكذا حاولت السياسة الدولية الجمع بين الحدود الجديدة والحركات القومية والرأي المحلي."
         },
         "importance": {
           "ru": "Это хороший пример того, как карта Европы после 1918 года строилась не только войнами, но и голосованиями.",
           "de": "Das ist ein gutes Beispiel dafuer, dass die Karte Europas nach 1918 nicht nur durch Kriege, sondern auch durch Abstimmungen geformt wurde.",
-          "en": "It is a good example of how Europe's map after 1918 was shaped not only by wars but also by votes."
+          "en": "It is a good example of how Europe's map after 1918 was shaped not only by wars but also by votes.",
+          "fr": "C'est un bon exemple de la manière dont la carte de l'Europe après 1918 fut façonnée non seulement par les guerres, mais aussi par les votes.",
+          "es": "Es un buen ejemplo de cómo el mapa de Europa después de 1918 fue formado no solo por guerras, sino también por votaciones.",
+          "it": "È un buon esempio di come la carta d'Europa dopo il 1918 sia stata plasmata non solo dalle guerre, ma anche dai voti.",
+          "pt": "É um bom exemplo de como o mapa da Europa depois de 1918 foi moldado não apenas por guerras, mas também por votações.",
+          "nl": "Het is een goed voorbeeld van hoe de kaart van Europa na 1918 niet alleen door oorlogen, maar ook door stemmingen werd gevormd.",
+          "pl": "To dobry przykład tego, jak mapa Europy po 1918 roku była kształtowana nie tylko przez wojny, lecz także przez głosowania.",
+          "tr": "Bu, 1918 sonrası Avrupa haritasının yalnızca savaşlarla değil, oylamalarla da nasıl şekillendiğine iyi bir örnektir.",
+          "zh": "这是说明1918年后欧洲地图不仅由战争、也由投票塑造的好例子。",
+          "ja": "1918年以後のヨーロッパ地図が、戦争だけでなく投票によっても形作られたことを示す好例である。",
+          "ko": "이는 1918년 이후 유럽 지도가 전쟁뿐 아니라 투표로도 형성되었음을 보여 주는 좋은 사례이다.",
+          "hi": "यह अच्छा उदाहरण है कि 1918 के बाद यूरोप का नक्शा केवल युद्धों से नहीं, बल्कि मतदानों से भी बना।",
+          "ar": "إنه مثال جيد على أن خريطة أوروبا بعد عام 1918 تشكلت ليس بالحروب فقط، بل بالتصويت أيضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Названия, которых больше нет на современной карте Германии",
           "de": "Namen, die nicht mehr auf der heutigen Deutschlandkarte stehen",
-          "en": "Names no longer on today's map of Germany"
+          "en": "Names no longer on today's map of Germany",
+          "fr": "Des noms qui ne figurent plus sur la carte actuelle de l'Allemagne",
+          "es": "Nombres que ya no están en el mapa actual de Alemania",
+          "it": "Nomi che non sono più sulla carta attuale della Germania",
+          "pt": "Nomes que já não aparecem no mapa atual da Alemanha",
+          "nl": "Namen die niet meer op de huidige kaart van Duitsland staan",
+          "pl": "Nazwy, których nie ma już na dzisiejszej mapie Niemiec",
+          "tr": "Bugünkü Almanya haritasında artık olmayan adlar",
+          "zh": "今天德国地图上已不再出现的名称",
+          "ja": "現在のドイツ地図にはない地名",
+          "ko": "오늘날 독일 지도에는 더 이상 없는 이름들",
+          "hi": "आज के जर्मनी के नक्शे पर अब न दिखने वाले नाम",
+          "ar": "أسماء لم تعد على خريطة ألمانيا الحالية"
         },
         "description": {
           "ru": "Алленштайн сегодня называется Ольштын и находится в Польше. Такие даты напоминают, что историческая карта немецких земель не совпадает с современной.",
           "de": "Allenstein heisst heute Olsztyn und liegt in Polen. Solche Daten erinnern daran, dass die historische Karte deutscher Gebiete nicht mit der heutigen uebereinstimmt.",
-          "en": "Allenstein is now called Olsztyn and is in Poland. Dates like this remind us that the historical map of German lands does not match today's map."
+          "en": "Allenstein is now called Olsztyn and is in Poland. Dates like this remind us that the historical map of German lands does not match today's map.",
+          "fr": "Allenstein s'appelle aujourd'hui Olsztyn et se trouve en Pologne. Des dates comme celle-ci rappellent que la carte historique des terres allemandes ne correspond pas à la carte actuelle.",
+          "es": "Allenstein hoy se llama Olsztyn y está en Polonia. Fechas como esta recuerdan que el mapa histórico de las tierras alemanas no coincide con el mapa actual.",
+          "it": "Allenstein oggi si chiama Olsztyn e si trova in Polonia. Date come questa ricordano che la carta storica delle terre tedesche non coincide con quella attuale.",
+          "pt": "Allenstein hoje se chama Olsztyn e fica na Polônia. Datas como esta lembram que o mapa histórico das terras alemãs não coincide com o mapa atual.",
+          "nl": "Allenstein heet tegenwoordig Olsztyn en ligt in Polen. Dergelijke data herinneren eraan dat de historische kaart van Duitse gebieden niet overeenkomt met de kaart van vandaag.",
+          "pl": "Allenstein dziś nazywa się Olsztyn i leży w Polsce. Takie daty przypominają, że historyczna mapa ziem niemieckich nie pokrywa się z dzisiejszą mapą.",
+          "tr": "Allenstein bugün Olsztyn adını taşır ve Polonya'dadır. Böyle tarihler, Alman topraklarının tarihsel haritasının bugünkü haritayla örtüşmediğini hatırlatır.",
+          "zh": "阿伦施泰因今天名为奥尔什丁，位于波兰。这样的日期提醒我们，德意志土地的历史地图并不等同于今天的地图。",
+          "ja": "アレンシュタインは現在オルシュティンと呼ばれ、ポーランドにある。このような日付は、ドイツの土地の歴史的地図が現在の地図とは一致しないことを思い出させる。",
+          "ko": "알렌슈타인은 오늘날 올슈틴이라고 불리며 폴란드에 있다. 이런 날짜들은 독일 땅의 역사적 지도가 오늘날의 지도와 일치하지 않음을 떠올리게 한다.",
+          "hi": "Allenstein आज Olsztyn कहलाता है और पोलैंड में है। ऐसी तारीखें याद दिलाती हैं कि जर्मन क्षेत्रों का ऐतिहासिक नक्शा आज के नक्शे से मेल नहीं खाता।",
+          "ar": "تسمى ألنشتاين اليوم أولشتين وتقع في بولندا. وتذكرنا مثل هذه التواريخ بأن الخريطة التاريخية للأراضي الألمانية لا تطابق خريطة اليوم."
         },
         "importance": {
           "ru": "Для приложения с картами это особенно полезно: одно место может иметь разные имена и разные государственные истории.",
           "de": "Fuer eine Karten-App ist das besonders nuetzlich: Ein Ort kann verschiedene Namen und verschiedene staatliche Geschichten haben.",
-          "en": "For a map app, this is especially useful: one place can have different names and different state histories."
+          "en": "For a map app, this is especially useful: one place can have different names and different state histories.",
+          "fr": "Pour une application de cartes, c'est particulièrement utile: un même lieu peut avoir différents noms et différentes histoires étatiques.",
+          "es": "Para una aplicación de mapas, esto es especialmente útil: un lugar puede tener distintos nombres y distintas historias estatales.",
+          "it": "Per un'app di mappe, questo è particolarmente utile: un luogo può avere nomi diversi e diverse storie statali.",
+          "pt": "Para um aplicativo de mapas, isso é especialmente útil: um lugar pode ter nomes diferentes e histórias estatais diferentes.",
+          "nl": "Voor een kaarten-app is dit bijzonder nuttig: één plaats kan verschillende namen en verschillende staatsgeschiedenissen hebben.",
+          "pl": "Dla aplikacji z mapami jest to szczególnie przydatne: jedno miejsce może mieć różne nazwy i różne historie państwowe.",
+          "tr": "Bir harita uygulaması için bu özellikle yararlıdır: Bir yerin farklı adları ve farklı devlet tarihleri olabilir.",
+          "zh": "对于地图应用来说，这尤其有用：同一个地方可能有不同名称和不同的国家历史。",
+          "ja": "地図アプリにとって、これは特に有用である。一つの場所が異なる名前と異なる国家史を持つことがあるからだ。",
+          "ko": "지도 앱에서는 이것이 특히 유용하다. 한 장소가 여러 이름과 서로 다른 국가 역사를 가질 수 있기 때문이다.",
+          "hi": "मानचित्र ऐप के लिए यह विशेष रूप से उपयोगी है: एक स्थान के अलग-अलग नाम और अलग-अलग राज्य इतिहास हो सकते हैं।",
+          "ar": "بالنسبة إلى تطبيق خرائط، فهذا مفيد خصوصا: فقد يكون لمكان واحد أسماء مختلفة وتواريخ دولية مختلفة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Плебисциты проходили под международным контролем, что было характерно для спорных территорий после Первой мировой войны.",
     "de": "Die Volksabstimmungen standen unter internationaler Kontrolle, wie es fuer umstrittene Gebiete nach dem Ersten Weltkrieg typisch war.",
-    "en": "The plebiscites were held under international supervision, as was typical for disputed territories after the First World War."
+    "en": "The plebiscites were held under international supervision, as was typical for disputed territories after the First World War.",
+    "fr": "Les plébiscites se déroulèrent sous contrôle international, comme c'était typique pour les territoires contestés après la Première Guerre mondiale.",
+    "es": "Los plebiscitos se celebraron bajo supervisión internacional, como era típico en los territorios disputados tras la Primera Guerra Mundial.",
+    "it": "I plebisciti si svolsero sotto controllo internazionale, come era tipico per i territori contesi dopo la Prima guerra mondiale.",
+    "pt": "Os plebiscitos ocorreram sob supervisão internacional, como era típico em territórios disputados após a Primeira Guerra Mundial.",
+    "nl": "De volksstemmingen vonden plaats onder internationaal toezicht, zoals typisch was voor betwiste gebieden na de Eerste Wereldoorlog.",
+    "pl": "Plebiscyty odbywały się pod kontrolą międzynarodową, co było typowe dla spornych terytoriów po I wojnie światowej.",
+    "tr": "Plebisitler, Birinci Dünya Savaşı sonrası tartışmalı bölgelerde tipik olduğu gibi uluslararası denetim altında yapıldı.",
+    "zh": "这些公民投票在国际监督下举行，这是一战后争议地区的典型做法。",
+    "ja": "住民投票は国際的監督の下で行われた。これは第一次世界大戦後の係争地域では典型的だった。",
+    "ko": "이 국민투표들은 제1차 세계대전 이후 분쟁 지역에서 흔했던 것처럼 국제 감독 아래 실시되었다.",
+    "hi": "ये जनमत-संग्रह अंतरराष्ट्रीय निगरानी में हुए, जैसा प्रथम विश्व युद्ध के बाद विवादित क्षेत्रों के लिए सामान्य था।",
+    "ar": "أجريت الاستفتاءات تحت إشراف دولي، كما كان معتادا في الأراضي المتنازع عليها بعد الحرب العالمية الأولى."
   },
   "sources": [
     {

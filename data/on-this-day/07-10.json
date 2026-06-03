@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Карл Орф",
       "de": "Carl Orff wird geboren",
-      "en": "Carl Orff is born"
+      "en": "Carl Orff is born",
+      "fr": "Carl Orff naît",
+      "es": "Nace Carl Orff",
+      "it": "Nasce Carl Orff",
+      "pt": "Nasce Carl Orff",
+      "nl": "Carl Orff wordt geboren",
+      "pl": "Rodzi się Carl Orff",
+      "tr": "Carl Orff doğar",
+      "zh": "卡尔·奥尔夫出生",
+      "ja": "カール・オルフが生まれる",
+      "ko": "카를 오르프가 태어나다",
+      "hi": "कार्ल ऑर्फ़ का जन्म हुआ",
+      "ar": "ولادة كارل أورف"
     },
     "description": {
       "ru": "10 июля 1895 года в Мюнхене родился композитор и музыкальный педагог Карл Орф. Он известен прежде всего сценической кантатой «Carmina Burana» и системой музыкального воспитания Orff-Schulwerk.",
       "de": "Am 10. Juli 1895 wurde der Komponist und Musikpaedagoge Carl Orff in Muenchen geboren. Bekannt ist er vor allem durch die szenische Kantate Carmina Burana und das musikpaedagogische Orff-Schulwerk.",
-      "en": "On 10 July 1895, composer and music educator Carl Orff was born in Munich. He is best known for the scenic cantata Carmina Burana and the Orff-Schulwerk approach to music education."
+      "en": "On 10 July 1895, composer and music educator Carl Orff was born in Munich. He is best known for the scenic cantata Carmina Burana and the Orff-Schulwerk approach to music education.",
+      "fr": "Le 10 juillet 1895, le compositeur et pédagogue musical Carl Orff naquit à Munich. Il est surtout connu pour la cantate scénique Carmina Burana et pour l'approche Orff-Schulwerk de l'éducation musicale.",
+      "es": "El 10 de julio de 1895 nació en Múnich el compositor y pedagogo musical Carl Orff. Es conocido sobre todo por la cantata escénica Carmina Burana y por el método Orff-Schulwerk de educación musical.",
+      "it": "Il 10 luglio 1895 nacque a Monaco il compositore e pedagogo musicale Carl Orff. È noto soprattutto per la cantata scenica Carmina Burana e per l'approccio Orff-Schulwerk all'educazione musicale.",
+      "pt": "Em 10 de julho de 1895, o compositor e educador musical Carl Orff nasceu em Munique. Ele é mais conhecido pela cantata cênica Carmina Burana e pela abordagem Orff-Schulwerk de educação musical.",
+      "nl": "Op 10 juli 1895 werd componist en muziekpedagoog Carl Orff geboren in München. Hij is vooral bekend door de scenische cantate Carmina Burana en de Orff-Schulwerk-benadering van muziekonderwijs.",
+      "pl": "10 lipca 1895 roku w Monachium urodził się kompozytor i pedagog muzyczny Carl Orff. Najbardziej znany jest z kantaty scenicznej Carmina Burana oraz metody edukacji muzycznej Orff-Schulwerk.",
+      "tr": "10 Temmuz 1895'te besteci ve müzik eğitimcisi Carl Orff Münih'te doğdu. En çok sahne kantatı Carmina Burana ve müzik eğitimindeki Orff-Schulwerk yaklaşımıyla tanınır.",
+      "zh": "1895年7月10日，作曲家兼音乐教育家卡尔·奥尔夫出生于慕尼黑。他最著名的作品是舞台康塔塔《Carmina Burana》，以及音乐教育中的Orff-Schulwerk方法。",
+      "ja": "1895年7月10日、作曲家で音楽教育者のカール・オルフはミュンヘンで生まれた。彼は舞台カンタータ『Carmina Burana』と、音楽教育のOrff-Schulwerkアプローチで特によく知られている。",
+      "ko": "1895년 7월 10일, 작곡가이자 음악 교육자인 카를 오르프가 뮌헨에서 태어났다. 그는 무대 칸타타 Carmina Burana와 음악 교육의 Orff-Schulwerk 접근법으로 가장 잘 알려져 있다.",
+      "hi": "10 जुलाई 1895 को संगीतकार और संगीत शिक्षक कार्ल ऑर्फ़ का जन्म म्यूनिख में हुआ। वे विशेष रूप से मंचीय कैंटाटा Carmina Burana और संगीत शिक्षा की Orff-Schulwerk पद्धति के लिए जाने जाते हैं।",
+      "ar": "في 10 يوليو 1895 ولد المؤلف الموسيقي والمربي الموسيقي كارل أورف في ميونخ. واشتهر خصوصا بالكانتاتا المسرحية Carmina Burana وبمنهج Orff-Schulwerk في التعليم الموسيقي."
     },
     "importance": {
       "ru": "Орф соединяет баварскую музыкальную культуру, театр, ритм и школьное музыкальное образование.",
       "de": "Orff verbindet bayerische Musikkultur, Theater, Rhythmus und schulische Musikbildung.",
-      "en": "Orff connects Bavarian musical culture, theatre, rhythm and school music education."
+      "en": "Orff connects Bavarian musical culture, theatre, rhythm and school music education.",
+      "fr": "Orff relie la culture musicale bavaroise, le théâtre, le rythme et l'éducation musicale scolaire.",
+      "es": "Orff conecta la cultura musical bávara, el teatro, el ritmo y la educación musical escolar.",
+      "it": "Orff collega la cultura musicale bavarese, il teatro, il ritmo e l'educazione musicale scolastica.",
+      "pt": "Orff conecta a cultura musical bávara, o teatro, o ritmo e a educação musical escolar.",
+      "nl": "Orff verbindt Beierse muziekcultuur, theater, ritme en muziekonderwijs op school.",
+      "pl": "Orff łączy bawarską kulturę muzyczną, teatr, rytm i szkolną edukację muzyczną.",
+      "tr": "Orff, Bavyera müzik kültürünü, tiyatroyu, ritmi ve okul müzik eğitimini birbirine bağlar.",
+      "zh": "奥尔夫把巴伐利亚音乐文化、戏剧、节奏和学校音乐教育联系在一起。",
+      "ja": "オルフはバイエルンの音楽文化、演劇、リズム、学校での音楽教育を結びつけている。",
+      "ko": "오르프는 바이에른 음악 문화, 연극, 리듬, 학교 음악 교육을 연결한다.",
+      "hi": "ऑर्फ़ बवेरियाई संगीत संस्कृति, रंगमंच, लय और स्कूली संगीत शिक्षा को जोड़ते हैं।",
+      "ar": "يربط أورف بين الثقافة الموسيقية البافارية والمسرح والإيقاع والتعليم الموسيقي المدرسي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Carmina Burana»",
           "de": "Carmina Burana",
-          "en": "Carmina Burana"
+          "en": "Carmina Burana",
+          "fr": "Carmina Burana",
+          "es": "Carmina Burana",
+          "it": "Carmina Burana",
+          "pt": "Carmina Burana",
+          "nl": "Carmina Burana",
+          "pl": "Carmina Burana",
+          "tr": "Carmina Burana",
+          "zh": "Carmina Burana",
+          "ja": "Carmina Burana",
+          "ko": "Carmina Burana",
+          "hi": "Carmina Burana",
+          "ar": "Carmina Burana"
         },
         "description": {
           "ru": "«Carmina Burana» использует средневековые тексты и мощный ритмический язык. Начальная часть произведения стала одной из самых узнаваемых музыкальных тем XX века.",
           "de": "Carmina Burana verwendet mittelalterliche Texte und eine kraftvolle rhythmische Sprache. Der Anfang des Werks wurde zu einem der bekanntesten musikalischen Themen des 20. Jahrhunderts.",
-          "en": "Carmina Burana uses medieval texts and a powerful rhythmic language. The opening of the work became one of the most recognizable musical themes of the 20th century."
+          "en": "Carmina Burana uses medieval texts and a powerful rhythmic language. The opening of the work became one of the most recognizable musical themes of the 20th century.",
+          "fr": "Carmina Burana utilise des textes médiévaux et un langage rythmique puissant. Le début de l'œuvre est devenu l'un des thèmes musicaux les plus reconnaissables du XXe siècle.",
+          "es": "Carmina Burana utiliza textos medievales y un lenguaje rítmico poderoso. El comienzo de la obra se convirtió en uno de los temas musicales más reconocibles del siglo XX.",
+          "it": "Carmina Burana usa testi medievali e un potente linguaggio ritmico. L'inizio dell'opera divenne uno dei temi musicali più riconoscibili del XX secolo.",
+          "pt": "Carmina Burana usa textos medievais e uma linguagem rítmica poderosa. A abertura da obra tornou-se um dos temas musicais mais reconhecíveis do século XX.",
+          "nl": "Carmina Burana gebruikt middeleeuwse teksten en een krachtige ritmische taal. Het begin van het werk werd een van de herkenbaarste muzikale thema's van de twintigste eeuw.",
+          "pl": "Carmina Burana wykorzystuje średniowieczne teksty i mocny język rytmiczny. Początek dzieła stał się jednym z najbardziej rozpoznawalnych tematów muzycznych XX wieku.",
+          "tr": "Carmina Burana ortaçağ metinlerini ve güçlü bir ritmik dili kullanır. Eserin başlangıcı 20. yüzyılın en tanınan müzik temalarından biri oldu.",
+          "zh": "《Carmina Burana》使用中世纪文本和强有力的节奏语言。作品开头成为20世纪最容易识别的音乐主题之一。",
+          "ja": "『Carmina Burana』は中世のテキストと力強いリズムの言語を用いている。作品の冒頭は、20世紀で最もよく知られる音楽テーマの一つとなった。",
+          "ko": "Carmina Burana는 중세 텍스트와 강렬한 리듬 언어를 사용한다. 작품의 도입부는 20세기에서 가장 알아보기 쉬운 음악 주제 중 하나가 되었다.",
+          "hi": "Carmina Burana मध्ययुगीन पाठों और शक्तिशाली लयात्मक भाषा का उपयोग करती है। इस रचना का आरंभ बीसवीं सदी की सबसे पहचानी जाने वाली संगीत थीमों में से एक बन गया।",
+          "ar": "تستخدم Carmina Burana نصوصا من العصور الوسطى ولغة إيقاعية قوية. وأصبحت بداية العمل أحد أكثر الموضوعات الموسيقية تميزا في القرن العشرين."
         },
         "importance": {
           "ru": "Это пример того, как старые тексты могут получить совершенно новую сценическую жизнь.",
           "de": "Das ist ein Beispiel dafuer, wie alte Texte ein ganz neues Buehnenleben bekommen koennen.",
-          "en": "It is an example of old texts receiving a completely new stage life."
+          "en": "It is an example of old texts receiving a completely new stage life.",
+          "fr": "C'est un exemple de textes anciens recevant une vie scénique entièrement nouvelle.",
+          "es": "Es un ejemplo de cómo textos antiguos reciben una vida escénica completamente nueva.",
+          "it": "È un esempio di testi antichi che ricevono una vita scenica completamente nuova.",
+          "pt": "É um exemplo de textos antigos recebendo uma vida cênica completamente nova.",
+          "nl": "Het is een voorbeeld van oude teksten die een volledig nieuw toneelleven krijgen.",
+          "pl": "To przykład tego, jak dawne teksty otrzymują zupełnie nowe życie sceniczne.",
+          "tr": "Bu, eski metinlerin tamamen yeni bir sahne hayatı kazanmasına bir örnektir.",
+          "zh": "这是旧文本获得全新舞台生命的一个例子。",
+          "ja": "古いテキストがまったく新しい舞台上の生命を得る例である。",
+          "ko": "오래된 텍스트가 완전히 새로운 무대 생명을 얻는 사례이다.",
+          "hi": "यह पुराने पाठों को बिल्कुल नया मंचीय जीवन मिलने का उदाहरण है।",
+          "ar": "إنه مثال على حصول نصوص قديمة على حياة مسرحية جديدة تماما."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Методика Orff-Schulwerk широко используется в музыкальном образовании детей.",
     "de": "Das Orff-Schulwerk wird weltweit in der musikalischen Bildung von Kindern verwendet.",
-    "en": "Orff-Schulwerk is widely used in children's music education."
+    "en": "Orff-Schulwerk is widely used in children's music education.",
+    "fr": "L'Orff-Schulwerk est largement utilisé dans l'éducation musicale des enfants.",
+    "es": "El Orff-Schulwerk se usa ampliamente en la educación musical infantil.",
+    "it": "L'Orff-Schulwerk è ampiamente usato nell'educazione musicale dei bambini.",
+    "pt": "O Orff-Schulwerk é amplamente usado na educação musical infantil.",
+    "nl": "Orff-Schulwerk wordt wereldwijd veel gebruikt in de muziekeducatie van kinderen.",
+    "pl": "Orff-Schulwerk jest szeroko stosowany w edukacji muzycznej dzieci.",
+    "tr": "Orff-Schulwerk çocukların müzik eğitiminde yaygın olarak kullanılır.",
+    "zh": "Orff-Schulwerk广泛用于儿童音乐教育。",
+    "ja": "Orff-Schulwerkは子どもの音楽教育で広く用いられている。",
+    "ko": "Orff-Schulwerk는 어린이 음악 교육에서 널리 사용된다.",
+    "hi": "Orff-Schulwerk बच्चों की संगीत शिक्षा में व्यापक रूप से उपयोग होता है।",
+    "ar": "يستخدم Orff-Schulwerk على نطاق واسع في التعليم الموسيقي للأطفال."
   },
   "sources": [
     {
