@@ -11,17 +11,53 @@
     "title": {
       "ru": "Катастрофа ICE у Эшеде",
       "de": "ICE-Unglueck von Eschede",
-      "en": "Eschede ICE train disaster"
+      "en": "Eschede ICE train disaster",
+      "fr": "Catastrophe ferroviaire de l'ICE a Eschede",
+      "es": "Catastrofe del tren ICE en Eschede",
+      "it": "Disastro ferroviario dell'ICE a Eschede",
+      "pt": "Desastre do trem ICE em Eschede",
+      "nl": "ICE-treinramp bij Eschede",
+      "pl": "Katastrofa pociagu ICE pod Eschede",
+      "tr": "Eschede ICE tren faciasi",
+      "zh": "埃舍德ICE列车事故",
+      "ja": "エシェデICE列車事故",
+      "ko": "에셰데 ICE 열차 참사",
+      "hi": "एशेडे ICE ट्रेन दुर्घटना",
+      "ar": "كارثة قطار ICE في ايشيده"
     },
     "description": {
       "ru": "3 июня 1998 года скоростной поезд ICE сошёл с рельсов у Эшеде в Нижней Саксонии и столкнулся с мостом. Погиб 101 человек.",
       "de": "Am 3. Juni 1998 entgleiste ein ICE-Hochgeschwindigkeitszug bei Eschede in Niedersachsen und prallte gegen eine Bruecke. 101 Menschen starben.",
-      "en": "On 3 June 1998, a high-speed ICE train derailed near Eschede in Lower Saxony and crashed into a bridge. 101 people died."
+      "en": "On 3 June 1998, a high-speed ICE train derailed near Eschede in Lower Saxony and crashed into a bridge. 101 people died.",
+      "fr": "Le 3 juin 1998, un train a grande vitesse ICE derailla pres d'Eschede, en Basse-Saxe, et percuta un pont. 101 personnes moururent.",
+      "es": "El 3 de junio de 1998, un tren de alta velocidad ICE descarrilo cerca de Eschede, en Baja Sajonia, y choco contra un puente. Murieron 101 personas.",
+      "it": "Il 3 giugno 1998 un treno ad alta velocita ICE deraglio presso Eschede, in Bassa Sassonia, e si schianto contro un ponte. Morirono 101 persone.",
+      "pt": "Em 3 de junho de 1998, um trem de alta velocidade ICE descarrilou perto de Eschede, na Baixa Saxonia, e bateu em uma ponte. Morreram 101 pessoas.",
+      "nl": "Op 3 juni 1998 ontspoorde een ICE-hogesnelheidstrein bij Eschede in Nedersaksen en botste tegen een brug. 101 mensen kwamen om.",
+      "pl": "3 czerwca 1998 roku pociag duzych predkosci ICE wykoleil sie pod Eschede w Dolnej Saksonii i uderzyl w most. Zginelo 101 osob.",
+      "tr": "3 Haziran 1998'de bir ICE yuksek hizli treni Asagi Saksonya'daki Eschede yakinlarinda raydan cikti ve bir kopruye carpti. 101 kisi oldu.",
+      "zh": "1998年6月3日，一列ICE高速列车在下萨克森州埃舍德附近脱轨并撞上桥梁，101人遇难。",
+      "ja": "1998年6月3日、ニーダーザクセン州エシェデ近郊でICE高速列車が脱線し、橋に衝突しました。101人が亡くなりました。",
+      "ko": "1998년 6월 3일 니더작센주 에셰데 인근에서 ICE 고속열차가 탈선해 다리와 충돌했습니다. 101명이 사망했습니다.",
+      "hi": "3 जून 1998 को लोअर सैक्सोनी के एशेडे के पास एक तेज रफ्तार ICE ट्रेन पटरी से उतरकर पुल से टकरा गई। 101 लोगों की मृत्यु हुई।",
+      "ar": "في 3 يونيو 1998 خرج قطار ICE فائق السرعة عن مساره قرب ايشيده في ساكسونيا السفلى واصطدم بجسر. توفي 101 شخص."
     },
     "importance": {
       "ru": "Это самая тяжёлая катастрофа высокоскоростного поезда в истории Германии.",
       "de": "Es ist das schwerste Unglueck eines Hochgeschwindigkeitszuges in der deutschen Geschichte.",
-      "en": "It is the worst high-speed train disaster in German history."
+      "en": "It is the worst high-speed train disaster in German history.",
+      "fr": "C'est la plus grave catastrophe de train a grande vitesse de l'histoire allemande.",
+      "es": "Es la peor catastrofe de un tren de alta velocidad en la historia alemana.",
+      "it": "E il piu grave disastro di un treno ad alta velocita nella storia tedesca.",
+      "pt": "E o pior desastre com trem de alta velocidade da historia da Alemanha.",
+      "nl": "Het is de zwaarste ramp met een hogesnelheidstrein in de Duitse geschiedenis.",
+      "pl": "To najpowazniejsza katastrofa pociagu duzych predkosci w historii Niemiec.",
+      "tr": "Almanya tarihindeki en agir yuksek hizli tren felaketidir.",
+      "zh": "这是德国历史上最严重的高速列车事故。",
+      "ja": "これはドイツ史上最悪の高速列車事故です。",
+      "ko": "이는 독일 역사상 최악의 고속열차 참사입니다.",
+      "hi": "यह जर्मनी के इतिहास की सबसे भीषण हाई-स्पीड ट्रेन दुर्घटना है।",
+      "ar": "انها اسوأ كارثة قطار فائق السرعة في تاريخ المانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Уроки безопасности",
           "de": "Lehren fuer die Sicherheit",
-          "en": "Safety lessons"
+          "en": "Safety lessons",
+          "fr": "Lecons de securite",
+          "es": "Lecciones de seguridad",
+          "it": "Lezioni di sicurezza",
+          "pt": "Licoes de seguranca",
+          "nl": "Veiligheidslessen",
+          "pl": "Lekcje bezpieczenstwa",
+          "tr": "Guvenlik dersleri",
+          "zh": "安全教训",
+          "ja": "安全への教訓",
+          "ko": "안전의 교훈",
+          "hi": "सुरक्षा से जुड़े सबक",
+          "ar": "دروس السلامة"
         },
         "description": {
           "ru": "После катастрофы внимательно изучали конструкцию колёс, техническое обслуживание и действия спасательных служб. Такие трагедии меняют стандарты безопасности.",
           "de": "Nach dem Unglueck wurden Radkonstruktion, Wartung und Rettungseinsaetze genau untersucht. Solche Tragödien veraendern Sicherheitsstandards.",
-          "en": "After the disaster, wheel design, maintenance and emergency response were closely studied. Such tragedies change safety standards."
+          "en": "After the disaster, wheel design, maintenance and emergency response were closely studied. Such tragedies change safety standards.",
+          "fr": "Apres la catastrophe, la conception des roues, la maintenance et l'intervention des secours furent examinees de pres. De telles tragedies changent les normes de securite.",
+          "es": "Tras la catastrofe, se estudiaron con detalle el diseno de las ruedas, el mantenimiento y la respuesta de emergencia. Estas tragedias cambian las normas de seguridad.",
+          "it": "Dopo il disastro furono esaminati con attenzione la progettazione delle ruote, la manutenzione e gli interventi di soccorso. Tragedie simili cambiano gli standard di sicurezza.",
+          "pt": "Depois do desastre, o projeto das rodas, a manutencao e a resposta de emergencia foram estudados de perto. Tragedias assim mudam os padroes de seguranca.",
+          "nl": "Na de ramp werden wielontwerp, onderhoud en hulpverlening nauwkeurig onderzocht. Zulke tragedies veranderen veiligheidsnormen.",
+          "pl": "Po katastrofie dokladnie badano konstrukcje kol, konserwacje i dzialania sluzb ratunkowych. Takie tragedie zmieniaja standardy bezpieczenstwa.",
+          "tr": "Faciadan sonra tekerlek tasarimi, bakim ve acil durum mudahalesi dikkatle incelendi. Boyle trajediler guvenlik standartlarini degistirir.",
+          "zh": "事故发生后，人们仔细研究了车轮设计、维护和应急救援。这样的悲剧会改变安全标准。",
+          "ja": "事故後、車輪の設計、保守、救助対応が詳しく調査されました。このような悲劇は安全基準を変えます。",
+          "ko": "참사 이후 바퀴 설계, 정비, 긴급 대응이 면밀히 조사되었습니다. 이런 비극은 안전 기준을 바꿉니다.",
+          "hi": "दुर्घटना के बाद पहियों की बनावट, रखरखाव और आपातकालीन प्रतिक्रिया की गहराई से जांच हुई। ऐसी त्रासदियां सुरक्षा मानकों को बदल देती हैं।",
+          "ar": "بعد الكارثة دُرست بنية العجلات والصيانة واستجابة فرق الانقاذ بدقة. مثل هذه المآسي تغير معايير السلامة."
         },
         "importance": {
           "ru": "Техника требует не только скорости, но и постоянной проверки риска.",
           "de": "Technik braucht nicht nur Geschwindigkeit, sondern staendige Pruefung von Risiken.",
-          "en": "Technology needs not only speed but constant risk checking."
+          "en": "Technology needs not only speed but constant risk checking.",
+          "fr": "La technique exige non seulement de la vitesse, mais aussi un controle constant des risques.",
+          "es": "La tecnologia necesita no solo velocidad, sino tambien una revision constante de los riesgos.",
+          "it": "La tecnologia richiede non solo velocita, ma anche un controllo costante dei rischi.",
+          "pt": "A tecnologia precisa nao so de velocidade, mas tambem de verificacao constante dos riscos.",
+          "nl": "Techniek vraagt niet alleen snelheid, maar ook voortdurende controle van risico's.",
+          "pl": "Technika wymaga nie tylko predkosci, lecz takze stalego sprawdzania ryzyka.",
+          "tr": "Teknoloji yalnizca hiz degil, surekli risk kontrolu de gerektirir.",
+          "zh": "技术不仅需要速度，也需要持续检查风险。",
+          "ja": "技術には速さだけでなく、リスクの継続的な確認も必要です。",
+          "ko": "기술에는 속도뿐 아니라 지속적인 위험 점검도 필요합니다.",
+          "hi": "तकनीक को सिर्फ गति नहीं, जोखिम की लगातार जांच भी चाहिए।",
+          "ar": "تحتاج التقنية ليس الى السرعة فقط، بل الى فحص دائم للمخاطر ايضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Поезд носил имя Вильгельма Конрада Рентгена.",
     "de": "Der Zug trug den Namen Wilhelm Conrad Roentgen.",
-    "en": "The train was named after Wilhelm Conrad Roentgen."
+    "en": "The train was named after Wilhelm Conrad Roentgen.",
+    "fr": "Le train portait le nom de Wilhelm Conrad Roentgen.",
+    "es": "El tren llevaba el nombre de Wilhelm Conrad Roentgen.",
+    "it": "Il treno portava il nome di Wilhelm Conrad Roentgen.",
+    "pt": "O trem levava o nome de Wilhelm Conrad Roentgen.",
+    "nl": "De trein droeg de naam Wilhelm Conrad Roentgen.",
+    "pl": "Pociag nosil imie Wilhelma Conrada Roentgena.",
+    "tr": "Tren Wilhelm Conrad Roentgen'in adini tasiyordu.",
+    "zh": "这列火车以威廉·康拉德·伦琴命名。",
+    "ja": "その列車はヴィルヘルム・コンラート・レントゲンの名を冠していました。",
+    "ko": "그 열차는 빌헬름 콘라트 뢴트겐의 이름을 따서 명명되었습니다.",
+    "hi": "इस ट्रेन का नाम विल्हेल्म कॉनराड रॉन्टगेन के नाम पर रखा गया था।",
+    "ar": "كان القطار يحمل اسم فيلهلم كونراد رونتغن."
   },
   "sources": [
     {
