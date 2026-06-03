@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вилли Брандт избран канцлером ФРГ",
       "de": "Willy Brandt wird zum Bundeskanzler gewaehlt",
-      "en": "Willy Brandt is elected chancellor"
+      "en": "Willy Brandt is elected chancellor",
+      "fr": "Willy Brandt est elu chancelier",
+      "es": "Willy Brandt es elegido canciller",
+      "it": "Willy Brandt viene eletto cancelliere",
+      "pt": "Willy Brandt e eleito chanceler",
+      "nl": "Willy Brandt wordt gekozen tot bondskanselier",
+      "pl": "Willy Brandt zostaje wybrany kanclerzem",
+      "tr": "Willy Brandt sansolye secildi",
+      "zh": "维利·勃兰特当选总理",
+      "ja": "ヴィリー・ブラントが首相に選出される",
+      "ko": "빌리 브란트가 총리로 선출되다",
+      "hi": "विली ब्रांट चांसलर चुने गए",
+      "ar": "انتخاب فيلي برانت مستشارا"
     },
     "description": {
       "ru": "21 октября 1969 года Бундестаг избрал Вилли Брандта федеральным канцлером. Он стал первым социал-демократическим канцлером ФРГ.",
       "de": "Am 21. Oktober 1969 waehlte der Bundestag Willy Brandt zum Bundeskanzler. Er wurde der erste sozialdemokratische Kanzler der Bundesrepublik.",
-      "en": "On 21 October 1969, the Bundestag elected Willy Brandt as federal chancellor. He became West Germany's first Social Democratic chancellor."
+      "en": "On 21 October 1969, the Bundestag elected Willy Brandt as federal chancellor. He became West Germany's first Social Democratic chancellor.",
+      "fr": "Le 21 octobre 1969, le Bundestag elut Willy Brandt chancelier federal. Il devint le premier chancelier social-democrate de la RFA.",
+      "es": "El 21 de octubre de 1969, el Bundestag eligio a Willy Brandt como canciller federal. Fue el primer canciller socialdemocrata de la Republica Federal de Alemania.",
+      "it": "Il 21 ottobre 1969, il Bundestag elesse Willy Brandt cancelliere federale. Divenne il primo cancelliere socialdemocratico della Germania Ovest.",
+      "pt": "Em 21 de outubro de 1969, o Bundestag elegeu Willy Brandt chanceler federal. Ele se tornou o primeiro chanceler social-democrata da Alemanha Ocidental.",
+      "nl": "Op 21 oktober 1969 koos de Bondsdag Willy Brandt tot bondskanselier. Hij werd de eerste sociaaldemocratische kanselier van West-Duitsland.",
+      "pl": "21 pazdziernika 1969 roku Bundestag wybral Willy'ego Brandta na kanclerza federalnego. Zostal pierwszym socjaldemokratycznym kanclerzem RFN.",
+      "tr": "21 Ekim 1969'da Bundestag, Willy Brandt'i federal sansolye secti. Bati Almanya'nin ilk sosyal demokrat sansolyesi oldu.",
+      "zh": "1969年10月21日，联邦议院选举维利·勃兰特为联邦总理。他成为西德第一位社会民主党总理。",
+      "ja": "1969年10月21日、連邦議会はヴィリー・ブラントを連邦首相に選出しました。彼は西ドイツ初の社会民主党出身の首相となりました。",
+      "ko": "1969년 10월 21일 연방의회는 빌리 브란트를 연방총리로 선출했다. 그는 서독 최초의 사회민주당 출신 총리가 되었다.",
+      "hi": "21 अक्टूबर 1969 को बुंडेस्टाग ने विली ब्रांट को संघीय चांसलर चुना। वे पश्चिम जर्मनी के पहले सोशल डेमोक्रेटिक चांसलर बने।",
+      "ar": "في 21 أكتوبر 1969 انتخب البوندستاغ فيلي برانت مستشارا اتحاديا. واصبح اول مستشار اشتراكي ديمقراطي في المانيا الغربية."
     },
     "importance": {
       "ru": "Смена власти открыла период реформ и новой восточной политики.",
       "de": "Der Machtwechsel oeffnete eine Phase von Reformen und neuer Ostpolitik.",
-      "en": "The change of power opened a period of reforms and a new Ostpolitik."
+      "en": "The change of power opened a period of reforms and a new Ostpolitik.",
+      "fr": "Le changement de pouvoir ouvrit une periode de reformes et une nouvelle Ostpolitik.",
+      "es": "El cambio de poder abrio un periodo de reformas y una nueva Ostpolitik.",
+      "it": "Il cambio di potere apri una fase di riforme e di nuova Ostpolitik.",
+      "pt": "A mudanca de poder abriu um periodo de reformas e de nova Ostpolitik.",
+      "nl": "De machtswisseling opende een periode van hervormingen en een nieuwe Ostpolitik.",
+      "pl": "Zmiana wladzy otworzyla okres reform i nowej Ostpolitik.",
+      "tr": "Iktidar degisimi reformlar ve yeni Ostpolitik donemini acti.",
+      "zh": "权力更替开启了改革和新东方政策时期。",
+      "ja": "政権交代は改革と新しい東方政策の時代を開きました。",
+      "ko": "권력 교체는 개혁과 새로운 동방정책의 시기를 열었다.",
+      "hi": "सत्ता परिवर्तन ने सुधारों और नई ओस्टपोलिटिक का दौर शुरू किया।",
+      "ar": "فتح انتقال السلطة مرحلة من الاصلاحات وسياسة شرقية جديدة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Коалиция СДПГ и СвДП",
           "de": "Koalition aus SPD und FDP",
-          "en": "SPD-FDP coalition"
+          "en": "SPD-FDP coalition",
+          "fr": "Coalition SPD-FDP",
+          "es": "Coalicion SPD-FDP",
+          "it": "Coalizione SPD-FDP",
+          "pt": "Coalizao SPD-FDP",
+          "nl": "SPD-FDP-coalitie",
+          "pl": "Koalicja SPD-FDP",
+          "tr": "SPD-FDP koalisyonu",
+          "zh": "社民党-自民党联盟",
+          "ja": "SPD・FDP連立",
+          "ko": "SPD-FDP 연정",
+          "hi": "SPD-FDP गठबंधन",
+          "ar": "ائتلاف SPD-FDP"
         },
         "description": {
           "ru": "После выборов 1969 года СДПГ и СвДП сформировали правительство в Бонне. Это завершило долгий период, когда федеральных канцлеров давал блок ХДС/ХСС.",
           "de": "Nach der Bundestagswahl 1969 bildeten SPD und FDP in Bonn eine Regierung. Damit endete eine lange Phase, in der die Bundeskanzler von CDU/CSU gestellt wurden.",
-          "en": "After the 1969 federal election, the SPD and FDP formed a government in Bonn. This ended a long period in which chancellors had come from the CDU/CSU."
+          "en": "After the 1969 federal election, the SPD and FDP formed a government in Bonn. This ended a long period in which chancellors had come from the CDU/CSU.",
+          "fr": "Apres les elections federales de 1969, le SPD et le FDP formerent un gouvernement a Bonn. Cela mit fin a une longue periode ou les chanceliers venaient de la CDU/CSU.",
+          "es": "Tras las elecciones federales de 1969, el SPD y el FDP formaron gobierno en Bonn. Asi termino un largo periodo en el que los cancilleres procedian de la CDU/CSU.",
+          "it": "Dopo le elezioni federali del 1969, SPD e FDP formarono un governo a Bonn. Si concluse cosi un lungo periodo in cui i cancellieri provenivano dalla CDU/CSU.",
+          "pt": "Depois da eleicao federal de 1969, SPD e FDP formaram governo em Bonn. Isso encerrou um longo periodo em que os chanceleres vinham da CDU/CSU.",
+          "nl": "Na de Bondsdagverkiezingen van 1969 vormden SPD en FDP een regering in Bonn. Daarmee eindigde een lange periode waarin de kanseliers uit de CDU/CSU kwamen.",
+          "pl": "Po wyborach federalnych w 1969 roku SPD i FDP utworzyly rzad w Bonn. Zakonczylo to dlugi okres, w ktorym kanclerze pochodzili z CDU/CSU.",
+          "tr": "1969 federal secimlerinden sonra SPD ve FDP Bonn'da hukumet kurdu. Boylece sansolyelerin CDU/CSU'dan geldigi uzun donem sona erdi.",
+          "zh": "1969年联邦选举后，社民党和自民党在波恩组建政府。这结束了长期由基民盟/基社盟产生总理的时期。",
+          "ja": "1969年の連邦選挙後、SPDとFDPはボンで政府を組織しました。これにより、首相がCDU/CSUから出ていた長い時期が終わりました。",
+          "ko": "1969년 연방 선거 뒤 SPD와 FDP는 본에서 정부를 구성했다. 이로써 총리가 CDU/CSU에서 나오던 긴 시기가 끝났다.",
+          "hi": "1969 के संघीय चुनाव के बाद SPD और FDP ने बॉन में सरकार बनाई। इससे वह लंबा दौर समाप्त हुआ जिसमें चांसलर CDU/CSU से आते थे।",
+          "ar": "بعد الانتخابات الاتحادية عام 1969 شكل حزبا SPD وFDP حكومة في بون. وبذلك انتهت فترة طويلة كان المستشارون فيها يأتون من CDU/CSU."
         },
         "importance": {
           "ru": "Это важный пример мирной смены власти в послевоенной демократии.",
           "de": "Das ist ein wichtiges Beispiel fuer friedlichen Machtwechsel in der Nachkriegsdemokratie.",
-          "en": "It is an important example of a peaceful transfer of power in postwar democracy."
+          "en": "It is an important example of a peaceful transfer of power in postwar democracy.",
+          "fr": "C'est un exemple important de transfert pacifique du pouvoir dans la democratie d'apres-guerre.",
+          "es": "Es un ejemplo importante de traspaso pacifico del poder en la democracia de posguerra.",
+          "it": "E un importante esempio di passaggio pacifico del potere nella democrazia del dopoguerra.",
+          "pt": "E um exemplo importante de transferencia pacifica de poder na democracia do pos-guerra.",
+          "nl": "Het is een belangrijk voorbeeld van een vreedzame machtsoverdracht in de naoorlogse democratie.",
+          "pl": "To wazny przyklad pokojowego przekazania wladzy w powojennej demokracji.",
+          "tr": "Bu, savas sonrasi demokraside bariscil iktidar devrinin onemli bir ornegidir.",
+          "zh": "这是战后民主制度中和平权力交接的重要例子。",
+          "ja": "これは戦後民主主義における平和的な政権交代の重要な例です。",
+          "ko": "이는 전후 민주주의에서 평화로운 권력 이양의 중요한 사례이다.",
+          "hi": "यह युद्धोत्तर लोकतंत्र में शांतिपूर्ण सत्ता हस्तांतरण का महत्वपूर्ण उदाहरण है।",
+          "ar": "انه مثال مهم على انتقال سلمي للسلطة في ديمقراطية ما بعد الحرب."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Вилли Брандт",
           "de": "Willy Brandt",
-          "en": "Willy Brandt"
+          "en": "Willy Brandt",
+          "fr": "Willy Brandt",
+          "es": "Willy Brandt",
+          "it": "Willy Brandt",
+          "pt": "Willy Brandt",
+          "nl": "Willy Brandt",
+          "pl": "Willy Brandt",
+          "tr": "Willy Brandt",
+          "zh": "维利·勃兰特",
+          "ja": "ヴィリー・ブラント",
+          "ko": "빌리 브란트",
+          "hi": "विली ब्रांट",
+          "ar": "فيلي برانت"
         },
         "description": {
           "ru": "Брандт был противником нацизма, эмигрантом, правящим бургомистром Западного Берлина и затем канцлером ФРГ. Его имя особенно связано с попытками наладить отношения с Восточной Европой.",
           "de": "Brandt war Gegner des Nationalsozialismus, Emigrant, Regierender Buergermeister von West-Berlin und spaeter Bundeskanzler. Sein Name ist besonders mit dem Versuch verbunden, die Beziehungen zu Osteuropa zu verbessern.",
-          "en": "Brandt was an opponent of Nazism, an emigrant, governing mayor of West Berlin and later federal chancellor. His name is especially linked with efforts to improve relations with Eastern Europe."
+          "en": "Brandt was an opponent of Nazism, an emigrant, governing mayor of West Berlin and later federal chancellor. His name is especially linked with efforts to improve relations with Eastern Europe.",
+          "fr": "Brandt fut adversaire du nazisme, emigre, maire-gouverneur de Berlin-Ouest puis chancelier federal. Son nom est surtout lie aux efforts pour ameliorer les relations avec l'Europe de l'Est.",
+          "es": "Brandt fue opositor al nazismo, emigrante, alcalde-gobernador de Berlin Occidental y despues canciller federal. Su nombre esta especialmente unido a los esfuerzos por mejorar las relaciones con Europa Oriental.",
+          "it": "Brandt fu oppositore del nazismo, emigrato, sindaco governatore di Berlino Ovest e poi cancelliere federale. Il suo nome e legato soprattutto ai tentativi di migliorare i rapporti con l'Europa orientale.",
+          "pt": "Brandt foi opositor do nazismo, emigrante, prefeito governante de Berlim Ocidental e depois chanceler federal. Seu nome esta especialmente ligado aos esforcos para melhorar as relacoes com a Europa Oriental.",
+          "nl": "Brandt was tegenstander van het nazisme, emigrant, regerend burgemeester van West-Berlijn en later bondskanselier. Zijn naam is vooral verbonden met pogingen om de relaties met Oost-Europa te verbeteren.",
+          "pl": "Brandt byl przeciwnikiem nazizmu, emigrantem, burmistrzem rzadzacym Berlina Zachodniego, a pozniej kanclerzem federalnym. Jego nazwisko szczegolnie laczy sie z probami poprawy stosunkow z Europa Wschodnia.",
+          "tr": "Brandt Nazizm karsiti, gocmen, Bati Berlin'in yonetici belediye baskani ve daha sonra federal sansolyeydi. Adi ozellikle Dogu Avrupa ile iliskileri iyilestirme cabalariyla baglantilidir.",
+          "zh": "勃兰特曾反对纳粹主义，流亡海外，担任西柏林市长，后来成为联邦总理。他的名字尤其与改善同东欧关系的努力联系在一起。",
+          "ja": "ブラントはナチズムに反対し、亡命者であり、西ベルリン市長を務め、のちに連邦首相となりました。彼の名前は、とくに東ヨーロッパとの関係改善の努力と結びついています。",
+          "ko": "브란트는 나치즘에 반대한 인물, 망명자, 서베를린 시장, 그리고 나중에는 연방총리였다. 그의 이름은 특히 동유럽과의 관계 개선 노력과 연결된다.",
+          "hi": "ब्रांट नाज़ीवाद के विरोधी, निर्वासित, पश्चिम बर्लिन के गवर्निंग मेयर और बाद में संघीय चांसलर थे। उनका नाम विशेष रूप से पूर्वी यूरोप से संबंध सुधारने के प्रयासों से जुड़ा है।",
+          "ar": "كان برانت معارضا للنازية ومهاجرا وعمدة حاكما لبرلين الغربية ثم مستشارا اتحاديا. ويرتبط اسمه خاصة بمحاولات تحسين العلاقات مع اوروبا الشرقية."
         },
         "importance": {
           "ru": "Его биография связывает изгнание, Берлин, демократию и политику разрядки.",
           "de": "Seine Biografie verbindet Exil, Berlin, Demokratie und Entspannungspolitik.",
-          "en": "His biography connects exile, Berlin, democracy and detente."
+          "en": "His biography connects exile, Berlin, democracy and detente.",
+          "fr": "Sa biographie relie l'exil, Berlin, la democratie et la detente.",
+          "es": "Su biografia une exilio, Berlin, democracia y distension.",
+          "it": "La sua biografia collega esilio, Berlino, democrazia e distensione.",
+          "pt": "Sua biografia liga exilio, Berlim, democracia e distensao.",
+          "nl": "Zijn biografie verbindt ballingschap, Berlijn, democratie en ontspanningspolitiek.",
+          "pl": "Jego biografia laczy emigracje, Berlin, demokracje i polityke odprezenia.",
+          "tr": "Biyografisi surgun, Berlin, demokrasi ve yumusama politikasini birbirine baglar.",
+          "zh": "他的生平连接了流亡、柏林、民主和缓和政策。",
+          "ja": "彼の人生は、亡命、ベルリン、民主主義、緊張緩和政策を結びつけています。",
+          "ko": "그의 생애는 망명, 베를린, 민주주의, 데탕트를 연결한다.",
+          "hi": "उनकी जीवनी निर्वासन, बर्लिन, लोकतंत्र और तनाव-शमन नीति को जोड़ती है।",
+          "ar": "تربط سيرته بين المنفى وبرلين والديمقراطية وسياسة الانفراج."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "«Осмелиться на больше демократии»",
           "de": "Mehr Demokratie wagen",
-          "en": "Dare more democracy"
+          "en": "Dare more democracy",
+          "fr": "Oser plus de democratie",
+          "es": "Atreverse a mas democracia",
+          "it": "Osare piu democrazia",
+          "pt": "Ousar mais democracia",
+          "nl": "Meer democratie durven",
+          "pl": "Odwazyc sie na wiecej demokracji",
+          "tr": "Daha fazla demokrasiye cesaret etmek",
+          "zh": "敢于更多民主",
+          "ja": "より多くの民主主義に踏み出す",
+          "ko": "더 많은 민주주의에 도전하다",
+          "hi": "अधिक लोकतंत्र का साहस",
+          "ar": "الجرأة على مزيد من الديمقراطية"
         },
         "description": {
           "ru": "Через неделю после избрания Брандт произнёс правительственное заявление с фразой «Wir wollen mehr Demokratie wagen». Она стала одним из самых известных политических лозунгов ФРГ.",
           "de": "Eine Woche nach seiner Wahl hielt Brandt seine Regierungserklaerung mit dem Satz: Wir wollen mehr Demokratie wagen. Er wurde zu einem der bekanntesten politischen Saetze der Bundesrepublik.",
-          "en": "One week after his election, Brandt gave his government statement with the line: We want to dare more democracy. It became one of West Germany's best-known political phrases."
+          "en": "One week after his election, Brandt gave his government statement with the line: We want to dare more democracy. It became one of West Germany's best-known political phrases.",
+          "fr": "Une semaine apres son election, Brandt prononca sa declaration gouvernementale avec la phrase: Nous voulons oser plus de democratie. Elle devint l'une des formules politiques les plus connues de la RFA.",
+          "es": "Una semana despues de su eleccion, Brandt pronuncio su declaracion de gobierno con la frase: Queremos atrevernos a mas democracia. Se convirtio en una de las frases politicas mas conocidas de la RFA.",
+          "it": "Una settimana dopo la sua elezione, Brandt presento la dichiarazione di governo con la frase: Vogliamo osare piu democrazia. Divenne una delle frasi politiche piu note della Germania Ovest.",
+          "pt": "Uma semana depois de sua eleicao, Brandt fez sua declaracao de governo com a frase: Queremos ousar mais democracia. Ela se tornou uma das frases politicas mais conhecidas da Alemanha Ocidental.",
+          "nl": "Een week na zijn verkiezing hield Brandt zijn regeringsverklaring met de zin: Wij willen meer democratie durven. Het werd een van de bekendste politieke uitspraken van West-Duitsland.",
+          "pl": "Tydzien po wyborze Brandt wyglosil expose rzadowe ze zdaniem: Chcemy odwazyc sie na wiecej demokracji. Stalo sie ono jednym z najbardziej znanych politycznych hasel RFN.",
+          "tr": "Secilmesinden bir hafta sonra Brandt, su cumleyi iceren hukumet aciklamasini yapti: Daha fazla demokrasiye cesaret etmek istiyoruz. Bu, Bati Almanya'nin en bilinen siyasi sozlerinden biri oldu.",
+          "zh": "当选一周后，勃兰特发表政府声明，其中有一句话：“我们要敢于更多民主。”它成为西德最著名的政治口号之一。",
+          "ja": "選出の1週間後、ブラントは政府声明で「私たちはより多くの民主主義に踏み出したい」と述べました。この言葉は西ドイツで最も有名な政治的表現の一つとなりました。",
+          "ko": "선출 일주일 뒤 브란트는 정부 성명에서 '우리는 더 많은 민주주의에 도전하고자 한다'고 말했다. 이 말은 서독에서 가장 유명한 정치 문구 중 하나가 되었다.",
+          "hi": "चुने जाने के एक सप्ताह बाद ब्रांट ने अपने सरकारी वक्तव्य में कहा: हम अधिक लोकतंत्र का साहस करना चाहते हैं। यह पश्चिम जर्मनी के सबसे प्रसिद्ध राजनीतिक वाक्यों में से एक बन गया।",
+          "ar": "بعد اسبوع من انتخابه قدم برانت بيانه الحكومي وفيه العبارة: نريد ان نجرؤ على مزيد من الديمقراطية. واصبحت من اشهر العبارات السياسية في المانيا الغربية."
         },
         "importance": {
           "ru": "Иногда политическая эпоха запоминается одной короткой фразой.",
           "de": "Manchmal bleibt eine politische Epoche durch einen kurzen Satz im Gedaechtnis.",
-          "en": "Sometimes a political era is remembered through one short phrase."
+          "en": "Sometimes a political era is remembered through one short phrase.",
+          "fr": "Parfois, une epoque politique reste en memoire grace a une phrase courte.",
+          "es": "A veces una epoca politica se recuerda por una frase breve.",
+          "it": "A volte un'epoca politica viene ricordata attraverso una breve frase.",
+          "pt": "As vezes uma epoca politica e lembrada por uma frase curta.",
+          "nl": "Soms wordt een politiek tijdperk onthouden door een korte zin.",
+          "pl": "Czasem epoka polityczna zostaje zapamietana dzieki jednemu krotkiemu zdaniu.",
+          "tr": "Bazen bir siyasi donem tek kisa cumleyle hatirlanir.",
+          "zh": "有时，一个政治时代会因一句短话而被记住。",
+          "ja": "政治の時代は、時に短い一言で記憶されます。",
+          "ko": "때로는 한 정치 시대가 짧은 한 문장으로 기억된다.",
+          "hi": "कभी-कभी कोई राजनीतिक युग एक छोटे वाक्य से याद रहता है।",
+          "ar": "احيانا تبقى حقبة سياسية في الذاكرة من خلال عبارة قصيرة واحدة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Вилли Брандт получил Нобелевскую премию мира в 1971 году.",
     "de": "Willy Brandt erhielt 1971 den Friedensnobelpreis.",
-    "en": "Willy Brandt received the Nobel Peace Prize in 1971."
+    "en": "Willy Brandt received the Nobel Peace Prize in 1971.",
+    "fr": "Willy Brandt recut le prix Nobel de la paix en 1971.",
+    "es": "Willy Brandt recibio el Premio Nobel de la Paz en 1971.",
+    "it": "Willy Brandt ricevette il premio Nobel per la pace nel 1971.",
+    "pt": "Willy Brandt recebeu o Premio Nobel da Paz em 1971.",
+    "nl": "Willy Brandt ontving in 1971 de Nobelprijs voor de Vrede.",
+    "pl": "Willy Brandt otrzymal Pokojowa Nagrode Nobla w 1971 roku.",
+    "tr": "Willy Brandt 1971'de Nobel Baris Odulu'nu aldi.",
+    "zh": "维利·勃兰特于1971年获得诺贝尔和平奖。",
+    "ja": "ヴィリー・ブラントは1971年にノーベル平和賞を受賞しました。",
+    "ko": "빌리 브란트는 1971년에 노벨 평화상을 받았다.",
+    "hi": "विली ब्रांट को 1971 में नोबेल शांति पुरस्कार मिला।",
+    "ar": "حصل فيلي برانت على جائزة نوبل للسلام عام 1971."
   },
   "sources": [
     {

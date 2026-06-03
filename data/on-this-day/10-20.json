@@ -11,17 +11,53 @@
     "title": {
       "ru": "Капитуляция австрийской армии под Ульмом",
       "de": "Kapitulation der oesterreichischen Armee bei Ulm",
-      "en": "Austrian army surrenders at Ulm"
+      "en": "Austrian army surrenders at Ulm",
+      "fr": "L'armee autrichienne capitule a Ulm",
+      "es": "El ejercito austriaco capitula en Ulm",
+      "it": "L'esercito austriaco si arrende a Ulm",
+      "pt": "O exercito austriaco se rende em Ulm",
+      "nl": "Het Oostenrijkse leger geeft zich over bij Ulm",
+      "pl": "Armia austriacka kapituluje pod Ulm",
+      "tr": "Avusturya ordusu Ulm'da teslim oldu",
+      "zh": "奥地利军队在乌尔姆投降",
+      "ja": "オーストリア軍がウルムで降伏する",
+      "ko": "오스트리아군이 울름에서 항복하다",
+      "hi": "ऑस्ट्रियाई सेना ने उल्म में आत्मसमर्पण किया",
+      "ar": "استسلام الجيش النمساوي عند اولم"
     },
     "description": {
       "ru": "20 октября 1805 года австрийская армия генерала Карла Мака капитулировала перед Наполеоном возле Ульма. Победа была достигнута в южной Германии почти без крупного генерального сражения.",
       "de": "Am 20. Oktober 1805 kapitulierte die oesterreichische Armee unter General Karl Mack bei Ulm vor Napoleon. Der Sieg wurde in Sueddeutschland fast ohne grosse Entscheidungsschlacht errungen.",
-      "en": "On 20 October 1805, the Austrian army under General Karl Mack surrendered to Napoleon near Ulm. The victory in southern Germany was achieved with almost no major set-piece battle."
+      "en": "On 20 October 1805, the Austrian army under General Karl Mack surrendered to Napoleon near Ulm. The victory in southern Germany was achieved with almost no major set-piece battle.",
+      "fr": "Le 20 octobre 1805, l'armee autrichienne du general Karl Mack capitula devant Napoleon pres d'Ulm. La victoire en Allemagne du Sud fut obtenue presque sans grande bataille rangee.",
+      "es": "El 20 de octubre de 1805, el ejercito austriaco del general Karl Mack se rindio ante Napoleon cerca de Ulm. La victoria en el sur de Alemania se logro casi sin una gran batalla decisiva.",
+      "it": "Il 20 ottobre 1805, l'esercito austriaco del generale Karl Mack si arrese a Napoleone vicino a Ulm. La vittoria nella Germania meridionale fu ottenuta quasi senza una grande battaglia campale.",
+      "pt": "Em 20 de outubro de 1805, o exercito austriaco do general Karl Mack se rendeu a Napoleao perto de Ulm. A vitoria no sul da Alemanha foi obtida quase sem uma grande batalha decisiva.",
+      "nl": "Op 20 oktober 1805 gaf het Oostenrijkse leger onder generaal Karl Mack zich bij Ulm over aan Napoleon. De overwinning in Zuid-Duitsland werd behaald met bijna geen grote beslissende veldslag.",
+      "pl": "20 pazdziernika 1805 roku armia austriacka generala Karla Macka skapitulowala przed Napoleonem pod Ulm. Zwyciestwo w poludniowych Niemczech osiagnieto niemal bez wielkiej bitwy rozstrzygajacej.",
+      "tr": "20 Ekim 1805'te General Karl Mack komutasindaki Avusturya ordusu Ulm yakinlarinda Napoleon'a teslim oldu. Guney Almanya'daki zafer neredeyse buyuk bir meydan savasi olmadan kazanildi.",
+      "zh": "1805年10月20日，卡尔·马克将军率领的奥地利军队在乌尔姆附近向拿破仑投降。法国在德国南部几乎没有经过大型决战就取得了胜利。",
+      "ja": "1805年10月20日、カール・マック将軍率いるオーストリア軍がウルム近郊でナポレオンに降伏しました。南ドイツでの勝利は、大規模な会戦をほとんど行わずに得られました。",
+      "ko": "1805년 10월 20일 카를 마크 장군이 이끄는 오스트리아군이 울름 근처에서 나폴레옹에게 항복했다. 남부 독일에서의 승리는 큰 정면 전투 없이 거의 이루어졌다.",
+      "hi": "20 अक्टूबर 1805 को जनरल कार्ल मैक के नेतृत्व वाली ऑस्ट्रियाई सेना ने उल्म के पास नेपोलियन के सामने आत्मसमर्पण किया। दक्षिणी जर्मनी में यह जीत लगभग बिना किसी बड़ी निर्णायक लड़ाई के मिली।",
+      "ar": "في 20 أكتوبر 1805 استسلم الجيش النمساوي بقيادة الجنرال كارل ماك لنابليون قرب اولم. تحقق النصر في جنوب المانيا تقريبا من دون معركة كبرى فاصلة."
     },
     "importance": {
       "ru": "Ульм показывает, как манёвр и скорость иногда решали исход кампании сильнее, чем само сражение.",
       "de": "Ulm zeigt, wie Manoever und Geschwindigkeit den Ausgang eines Feldzugs manchmal staerker bestimmten als die Schlacht selbst.",
-      "en": "Ulm shows how maneuver and speed could sometimes decide a campaign more than the battle itself."
+      "en": "Ulm shows how maneuver and speed could sometimes decide a campaign more than the battle itself.",
+      "fr": "Ulm montre comment la manoeuvre et la vitesse pouvaient parfois decider d'une campagne plus que la bataille elle-meme.",
+      "es": "Ulm muestra como la maniobra y la velocidad podian decidir a veces una campana mas que la batalla misma.",
+      "it": "Ulm mostra come manovra e velocita potessero talvolta decidere una campagna piu della battaglia stessa.",
+      "pt": "Ulm mostra como a manobra e a velocidade podiam as vezes decidir uma campanha mais do que a propria batalha.",
+      "nl": "Ulm laat zien hoe manoeuvre en snelheid soms een veldtocht sterker konden beslissen dan de slag zelf.",
+      "pl": "Ulm pokazuje, jak manewr i szybkosc mogly czasem rozstrzygnac kampanie bardziej niz sama bitwa.",
+      "tr": "Ulm, manevra ve hizin bazen bir seferin sonucunu savasin kendisinden daha fazla belirleyebilecegini gosterir.",
+      "zh": "乌尔姆说明，机动和速度有时比战斗本身更能决定一场战役的结果。",
+      "ja": "ウルムは、機動と速度が時に戦闘そのもの以上に作戦の結果を決めることを示しています。",
+      "ko": "울름은 기동과 속도가 때로 전투 자체보다 작전의 결과를 더 크게 좌우할 수 있음을 보여 준다.",
+      "hi": "उल्म दिखाता है कि कभी-कभी चाल और गति अभियान का परिणाम लड़ाई से भी अधिक तय कर सकती थीं।",
+      "ar": "تظهر اولم كيف يمكن للمناورة والسرعة احيانا ان تحسما حملة اكثر من المعركة نفسها."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Наполеон в Южной Германии",
           "de": "Napoleon in Sueddeutschland",
-          "en": "Napoleon in southern Germany"
+          "en": "Napoleon in southern Germany",
+          "fr": "Napoleon en Allemagne du Sud",
+          "es": "Napoleon en el sur de Alemania",
+          "it": "Napoleone nella Germania meridionale",
+          "pt": "Napoleao no sul da Alemanha",
+          "nl": "Napoleon in Zuid-Duitsland",
+          "pl": "Napoleon w poludniowych Niemczech",
+          "tr": "Guney Almanya'da Napoleon",
+          "zh": "德国南部的拿破仑",
+          "ja": "南ドイツのナポレオン",
+          "ko": "남부 독일의 나폴레옹",
+          "hi": "दक्षिणी जर्मनी में नेपोलियन",
+          "ar": "نابليون في جنوب المانيا"
         },
         "description": {
           "ru": "Кампания проходила на территории современной Баварии и Баден-Вюртемберга. Немецкие земли тогда были важной ареной борьбы между Францией, Австрией и другими европейскими державами.",
           "de": "Der Feldzug spielte sich auf dem Gebiet des heutigen Bayern und Baden-Wuerttemberg ab. Die deutschen Laender waren damals eine wichtige Buehne des Ringens zwischen Frankreich, Oesterreich und anderen europaeischen Maechten.",
-          "en": "The campaign took place in what is now Bavaria and Baden-Wuerttemberg. The German lands were a key arena in the struggle between France, Austria and other European powers."
+          "en": "The campaign took place in what is now Bavaria and Baden-Wuerttemberg. The German lands were a key arena in the struggle between France, Austria and other European powers.",
+          "fr": "La campagne se deroula sur le territoire de la Baviere et du Bade-Wurtemberg actuels. Les terres allemandes etaient alors une scene importante de la lutte entre la France, l'Autriche et d'autres puissances europeennes.",
+          "es": "La campana tuvo lugar en lo que hoy son Baviera y Baden-Wurtemberg. Las tierras alemanas eran entonces un escenario clave de la lucha entre Francia, Austria y otras potencias europeas.",
+          "it": "La campagna si svolse nell'attuale Baviera e Baden-Wuerttemberg. Le terre tedesche erano allora un'arena importante dello scontro tra Francia, Austria e altre potenze europee.",
+          "pt": "A campanha ocorreu no territorio que hoje corresponde a Baviera e Baden-Wuerttemberg. As terras alemas eram entao um palco importante da disputa entre Franca, Austria e outras potencias europeias.",
+          "nl": "De veldtocht vond plaats in het huidige Beieren en Baden-Wuerttemberg. De Duitse gebieden waren toen een belangrijk toneel in de strijd tussen Frankrijk, Oostenrijk en andere Europese machten.",
+          "pl": "Kampania toczyla sie na obszarze dzisiejszej Bawarii i Badenii-Wirtembergii. Ziemie niemieckie byly wtedy wazna arena walki Francji, Austrii i innych mocarstw europejskich.",
+          "tr": "Sefer, bugunku Bavyera ve Baden-Wuerttemberg topraklarinda gerceklesti. Alman topraklari o donemde Fransa, Avusturya ve diger Avrupa gucleri arasindaki mucadelenin onemli bir sahnesiydi.",
+          "zh": "这场战役发生在今天的巴伐利亚和巴登-符腾堡地区。当时德意志诸地是法国、奥地利和其他欧洲强国斗争的重要舞台。",
+          "ja": "この作戦は現在のバイエルン州とバーデン・ヴュルテンベルク州にあたる地域で行われました。当時のドイツ諸邦は、フランス、オーストリア、その他のヨーロッパ列強の争いの重要な舞台でした。",
+          "ko": "이 작전은 오늘날의 바이에른과 바덴뷔르템베르크 지역에서 전개되었다. 당시 독일 지역은 프랑스, 오스트리아, 다른 유럽 강대국들이 다투는 중요한 무대였다.",
+          "hi": "यह अभियान आज के बवेरिया और बाडेन-वुर्टेमबर्ग क्षेत्र में चला। उस समय जर्मन क्षेत्र फ्रांस, ऑस्ट्रिया और अन्य यूरोपीय शक्तियों के संघर्ष का महत्वपूर्ण मंच थे।",
+          "ar": "جرت الحملة في مناطق بافاريا وبادن فورتمبيرغ الحالية. وكانت الاراضي الالمانية آنذاك ساحة مهمة للصراع بين فرنسا والنمسا وقوى اوروبية اخرى."
         },
         "importance": {
           "ru": "Так видно, почему история Германии начала XIX века тесно связана с наполеоновскими войнами.",
           "de": "So wird sichtbar, warum die deutsche Geschichte des fruehen 19. Jahrhunderts eng mit den napoleonischen Kriegen verbunden ist.",
-          "en": "It shows why early nineteenth-century German history is closely tied to the Napoleonic Wars."
+          "en": "It shows why early nineteenth-century German history is closely tied to the Napoleonic Wars.",
+          "fr": "Cela montre pourquoi l'histoire allemande du debut du XIXe siecle est etroitement liee aux guerres napoleoniennes.",
+          "es": "Muestra por que la historia alemana de comienzos del siglo XIX esta estrechamente ligada a las guerras napoleonicas.",
+          "it": "Mostra perche la storia tedesca dell'inizio dell'Ottocento e strettamente legata alle guerre napoleoniche.",
+          "pt": "Isso mostra por que a historia alema do inicio do seculo XIX esta intimamente ligada as Guerras Napoleonicas.",
+          "nl": "Het laat zien waarom de Duitse geschiedenis van het begin van de negentiende eeuw nauw verbonden is met de Napoleontische oorlogen.",
+          "pl": "Pokazuje to, dlaczego niemiecka historia poczatku XIX wieku jest scisle zwiazana z wojnami napoleonskimi.",
+          "tr": "Bu, 19. yuzyilin baslarindaki Alman tarihinin neden Napolyon Savaslariyla yakindan baglantili oldugunu gosterir.",
+          "zh": "这说明为什么十九世纪初的德国历史与拿破仑战争紧密相连。",
+          "ja": "これは、19世紀初頭のドイツ史がナポレオン戦争と深く結びついている理由を示しています。",
+          "ko": "이는 19세기 초 독일사가 나폴레옹 전쟁과 밀접하게 연결된 이유를 보여 준다.",
+          "hi": "यह दिखाता है कि उन्नीसवीं सदी की शुरुआत का जर्मन इतिहास नेपोलियन युद्धों से इतना गहराई से क्यों जुड़ा है।",
+          "ar": "يبين ذلك لماذا يرتبط تاريخ المانيا في اوائل القرن التاسع عشر ارتباطا وثيقا بالحروب النابليونية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Победа почти без большой битвы",
           "de": "Sieg fast ohne grosse Schlacht",
-          "en": "Victory with almost no great battle"
+          "en": "Victory with almost no great battle",
+          "fr": "Une victoire presque sans grande bataille",
+          "es": "Victoria casi sin una gran batalla",
+          "it": "Vittoria quasi senza grande battaglia",
+          "pt": "Vitoria quase sem grande batalha",
+          "nl": "Overwinning bijna zonder grote slag",
+          "pl": "Zwyciestwo prawie bez wielkiej bitwy",
+          "tr": "Buyuk savas olmadan neredeyse zafer",
+          "zh": "几乎没有大战的胜利",
+          "ja": "大きな戦闘なしの勝利",
+          "ko": "큰 전투가 거의 없었던 승리",
+          "hi": "लगभग बिना बड़ी लड़ाई की जीत",
+          "ar": "نصر يكاد يكون بلا معركة كبرى"
         },
         "description": {
           "ru": "Наполеон окружил противника серией быстрых маршей и заставил его сдаться. Поэтому Ульм часто вспоминают как пример победы, где карта и темп оказались важнее лобового столкновения.",
           "de": "Napoleon schloss den Gegner durch eine Reihe schneller Maersche ein und zwang ihn zur Aufgabe. Deshalb gilt Ulm oft als Beispiel fuer einen Sieg, bei dem Karte und Tempo wichtiger waren als der Frontalangriff.",
-          "en": "Napoleon surrounded his opponent through a series of rapid marches and forced surrender. That is why Ulm is often remembered as a victory where map-reading and tempo mattered more than frontal combat."
+          "en": "Napoleon surrounded his opponent through a series of rapid marches and forced surrender. That is why Ulm is often remembered as a victory where map-reading and tempo mattered more than frontal combat.",
+          "fr": "Napoleon encercla son adversaire par une serie de marches rapides et le força a capituler. C'est pourquoi Ulm est souvent rappelee comme une victoire ou la carte et le tempo compterent plus que l'affrontement frontal.",
+          "es": "Napoleon rodeo al enemigo mediante una serie de marchas rapidas y lo obligo a rendirse. Por eso Ulm se recuerda a menudo como una victoria en la que el mapa y el ritmo importaron mas que el choque frontal.",
+          "it": "Napoleone accerchio l'avversario con una serie di marce rapide e lo costrinse alla resa. Per questo Ulm e spesso ricordata come una vittoria in cui la carta e il ritmo contarono piu dello scontro frontale.",
+          "pt": "Napoleao cercou o adversario com uma serie de marchas rapidas e o forcou a se render. Por isso Ulm e muitas vezes lembrada como uma vitoria em que mapa e ritmo valeram mais do que o choque frontal.",
+          "nl": "Napoleon omsingelde zijn tegenstander met een reeks snelle marsen en dwong hem tot overgave. Daarom wordt Ulm vaak herinnerd als een overwinning waarbij kaartlezen en tempo belangrijker waren dan frontale strijd.",
+          "pl": "Napoleon otoczyl przeciwnika seria szybkich marszow i zmusil go do kapitulacji. Dlatego Ulm czesto wspomina sie jako zwyciestwo, w ktorym mapa i tempo byly wazniejsze niz frontalne starcie.",
+          "tr": "Napoleon, rakibini bir dizi hizli yuruyusle kusatti ve teslim olmaya zorladi. Bu nedenle Ulm, harita okuma ve temponun cepheden carpismadan daha onemli oldugu bir zafer olarak anilir.",
+          "zh": "拿破仑通过一系列快速行军包围了对手，并迫使其投降。因此，乌尔姆常被记作一场地图判断和节奏比正面交战更重要的胜利。",
+          "ja": "ナポレオンは一連の急速な行軍で敵を包囲し、降伏に追い込みました。そのためウルムは、正面衝突より地図の読み方とテンポが重要だった勝利としてよく記憶されています。",
+          "ko": "나폴레옹은 빠른 행군을 이어 가며 상대를 포위하고 항복을 강요했다. 그래서 울름은 정면 충돌보다 지도 판단과 속도가 더 중요했던 승리로 자주 기억된다.",
+          "hi": "नेपोलियन ने तेज़ मार्चों की श्रृंखला से विरोधी को घेर लिया और आत्मसमर्पण के लिए मजबूर किया। इसलिए उल्म को अक्सर ऐसी जीत के रूप में याद किया जाता है जिसमें नक्शा और गति सीधे टकराव से अधिक महत्वपूर्ण थे।",
+          "ar": "طوق نابليون خصمه بسلسلة من المسيرات السريعة واجبره على الاستسلام. لذلك تذكر اولم غالبا كنصر كانت فيه قراءة الخريطة والسرعة اهم من القتال المباشر."
         },
         "importance": {
           "ru": "Это необычный случай, когда военная история напоминает шахматную партию.",
           "de": "Das ist ein ungewoehnlicher Fall, in dem Militärgeschichte fast wie eine Schachpartie wirkt.",
-          "en": "It is an unusual case in which military history almost resembles a chess game."
+          "en": "It is an unusual case in which military history almost resembles a chess game.",
+          "fr": "C'est un cas inhabituel ou l'histoire militaire ressemble presque a une partie d'echecs.",
+          "es": "Es un caso inusual en el que la historia militar casi parece una partida de ajedrez.",
+          "it": "E un caso insolito in cui la storia militare sembra quasi una partita a scacchi.",
+          "pt": "E um caso incomum em que a historia militar quase parece uma partida de xadrez.",
+          "nl": "Het is een ongewoon geval waarin militaire geschiedenis bijna op een schaakpartij lijkt.",
+          "pl": "To niezwykly przypadek, w ktorym historia wojskowa niemal przypomina partie szachow.",
+          "tr": "Bu, askeri tarihin neredeyse bir satranc oyununa benzedigi olagan disi bir durumdur.",
+          "zh": "这是一个少见的例子，军事史几乎像一盘棋。",
+          "ja": "軍事史がまるでチェスの対局のように見える珍しい例です。",
+          "ko": "군사사가 거의 체스 경기처럼 보이는 드문 사례이다.",
+          "hi": "यह असामान्य मामला है जिसमें सैन्य इतिहास लगभग शतरंज की बाजी जैसा लगता है।",
+          "ar": "انها حالة غير مألوفة تبدو فيها التاريخ العسكري شبه لعبة شطرنج."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Через несколько недель после Ульма Наполеон одержал победу при Аустерлице.",
     "de": "Wenige Wochen nach Ulm siegte Napoleon bei Austerlitz.",
-    "en": "A few weeks after Ulm, Napoleon won the Battle of Austerlitz."
+    "en": "A few weeks after Ulm, Napoleon won the Battle of Austerlitz.",
+    "fr": "Quelques semaines apres Ulm, Napoleon remporta la bataille d'Austerlitz.",
+    "es": "Unas semanas despues de Ulm, Napoleon vencio en la batalla de Austerlitz.",
+    "it": "Poche settimane dopo Ulm, Napoleone vinse la battaglia di Austerlitz.",
+    "pt": "Algumas semanas depois de Ulm, Napoleao venceu a Batalha de Austerlitz.",
+    "nl": "Enkele weken na Ulm won Napoleon de Slag bij Austerlitz.",
+    "pl": "Kilka tygodni po Ulm Napoleon zwyciezyl w bitwie pod Austerlitz.",
+    "tr": "Ulm'dan birkac hafta sonra Napoleon Austerlitz Savasi'ni kazandi.",
+    "zh": "乌尔姆之后几周，拿破仑赢得了奥斯特里茨战役。",
+    "ja": "ウルムの数週間後、ナポレオンはアウステルリッツの戦いに勝利しました。",
+    "ko": "울름 몇 주 뒤 나폴레옹은 아우스터리츠 전투에서 승리했다.",
+    "hi": "उल्म के कुछ सप्ताह बाद नेपोलियन ने ऑस्टरलिट्ज़ की लड़ाई जीती।",
+    "ar": "بعد اسابيع قليلة من اولم انتصر نابليون في معركة اوسترليتز."
   },
   "sources": [
     {

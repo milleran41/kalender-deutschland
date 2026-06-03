@@ -11,17 +11,53 @@
     "title": {
       "ru": "Завершилась битва народов под Лейпцигом",
       "de": "Die Voelkerschlacht bei Leipzig endet",
-      "en": "The Battle of Nations at Leipzig ends"
+      "en": "The Battle of Nations at Leipzig ends",
+      "fr": "La bataille des Nations de Leipzig prend fin",
+      "es": "Termina la batalla de las Naciones en Leipzig",
+      "it": "Si conclude la battaglia delle Nazioni a Lipsia",
+      "pt": "Termina a Batalha das Nacoes em Leipzig",
+      "nl": "De Volkerenslag bij Leipzig eindigt",
+      "pl": "Konczy sie Bitwa Narodow pod Lipskiem",
+      "tr": "Leipzig'deki Milletler Savasi sona erdi",
+      "zh": "莱比锡民族会战结束",
+      "ja": "ライプツィヒの諸国民戦争が終わる",
+      "ko": "라이프치히 전투가 끝나다",
+      "hi": "लाइपज़िग की राष्ट्रों की लड़ाई समाप्त हुई",
+      "ar": "نهاية معركة الامم عند لايبزيغ"
     },
     "description": {
       "ru": "19 октября 1813 года завершилась битва под Лейпцигом, одно из крупнейших сражений наполеоновских войн. Союзные армии Пруссии, Австрии, России и Швеции нанесли Наполеону решающее поражение в Германии.",
       "de": "Am 19. Oktober 1813 endete die Schlacht bei Leipzig, eine der groessten Schlachten der napoleonischen Kriege. Die verbuendeten Armeen Preussens, Oesterreichs, Russlands und Schwedens fuegten Napoleon in Deutschland eine entscheidende Niederlage zu.",
-      "en": "On 19 October 1813, the Battle of Leipzig ended, one of the largest battles of the Napoleonic Wars. The allied armies of Prussia, Austria, Russia and Sweden inflicted a decisive defeat on Napoleon in Germany."
+      "en": "On 19 October 1813, the Battle of Leipzig ended, one of the largest battles of the Napoleonic Wars. The allied armies of Prussia, Austria, Russia and Sweden inflicted a decisive defeat on Napoleon in Germany.",
+      "fr": "Le 19 octobre 1813 prit fin la bataille de Leipzig, l'une des plus grandes batailles des guerres napoleoniennes. Les armees alliees de Prusse, d'Autriche, de Russie et de Suede infligerent a Napoleon une defaite decisive en Allemagne.",
+      "es": "El 19 de octubre de 1813 termino la batalla de Leipzig, una de las mayores batallas de las guerras napoleonicas. Los ejercitos aliados de Prusia, Austria, Rusia y Suecia infligieron a Napoleon una derrota decisiva en Alemania.",
+      "it": "Il 19 ottobre 1813 si concluse la battaglia di Lipsia, una delle piu grandi battaglie delle guerre napoleoniche. Gli eserciti alleati di Prussia, Austria, Russia e Svezia inflissero a Napoleone una sconfitta decisiva in Germania.",
+      "pt": "Em 19 de outubro de 1813 terminou a Batalha de Leipzig, uma das maiores batalhas das Guerras Napoleonicas. Os exercitos aliados da Prussia, Austria, Russia e Suecia impuseram a Napoleao uma derrota decisiva na Alemanha.",
+      "nl": "Op 19 oktober 1813 eindigde de Slag bij Leipzig, een van de grootste veldslagen van de Napoleontische oorlogen. De geallieerde legers van Pruisen, Oostenrijk, Rusland en Zweden brachten Napoleon in Duitsland een beslissende nederlaag toe.",
+      "pl": "19 pazdziernika 1813 roku zakonczyla sie bitwa pod Lipskiem, jedna z najwiekszych bitew wojen napoleonskich. Sprzymierzone armie Prus, Austrii, Rosji i Szwecji zadaly Napoleonowi w Niemczech decydujaca kleske.",
+      "tr": "19 Ekim 1813'te Napolyon Savaslari'nin en buyuk carpismalarindan biri olan Leipzig Savasi sona erdi. Prusya, Avusturya, Rusya ve Isvec'in muttefik ordulari Napoleon'a Almanya'da belirleyici bir yenilgi yasatti.",
+      "zh": "1813年10月19日，拿破仑战争中规模最大的战役之一莱比锡会战结束。普鲁士、奥地利、俄罗斯和瑞典的盟军在德国给拿破仑造成决定性失败。",
+      "ja": "1813年10月19日、ナポレオン戦争最大級の戦いの一つであるライプツィヒの戦いが終わりました。プロイセン、オーストリア、ロシア、スウェーデンの同盟軍は、ドイツでナポレオンに決定的な敗北を与えました。",
+      "ko": "1813년 10월 19일 나폴레옹 전쟁의 가장 큰 전투 중 하나인 라이프치히 전투가 끝났다. 프로이센, 오스트리아, 러시아, 스웨덴의 연합군은 독일에서 나폴레옹에게 결정적 패배를 안겼다.",
+      "hi": "19 अक्टूबर 1813 को लाइपज़िग की लड़ाई समाप्त हुई, जो नेपोलियन युद्धों की सबसे बड़ी लड़ाइयों में से एक थी। प्रशा, ऑस्ट्रिया, रूस और स्वीडन की मित्र सेनाओं ने जर्मनी में नेपोलियन को निर्णायक पराजय दी।",
+      "ar": "في 19 أكتوبر 1813 انتهت معركة لايبزيغ، وهي من اكبر معارك الحروب النابليونية. الحقت جيوش بروسيا والنمسا وروسيا والسويد المتحالفة هزيمة حاسمة بنابليون في المانيا."
     },
     "importance": {
       "ru": "Поражение под Лейпцигом стало началом конца наполеоновского господства в германских землях.",
       "de": "Die Niederlage bei Leipzig markierte den Anfang vom Ende der napoleonischen Herrschaft in den deutschen Laendern.",
-      "en": "The defeat at Leipzig marked the beginning of the end of Napoleonic rule in the German lands."
+      "en": "The defeat at Leipzig marked the beginning of the end of Napoleonic rule in the German lands.",
+      "fr": "La defaite de Leipzig marqua le debut de la fin de la domination napoleonienne dans les terres allemandes.",
+      "es": "La derrota en Leipzig marco el comienzo del fin del dominio napoleonico en las tierras alemanas.",
+      "it": "La sconfitta di Lipsia segno l'inizio della fine del dominio napoleonico nelle terre tedesche.",
+      "pt": "A derrota em Leipzig marcou o comeco do fim do dominio napoleonico nas terras alemas.",
+      "nl": "De nederlaag bij Leipzig markeerde het begin van het einde van Napoleons heerschappij in de Duitse gebieden.",
+      "pl": "Kleska pod Lipskiem oznaczala poczatek konca panowania Napoleona na ziemiach niemieckich.",
+      "tr": "Leipzig yenilgisi, Alman topraklarindaki Napolyon egemenliginin sonunun baslangici oldu.",
+      "zh": "莱比锡的失败标志着拿破仑在德意志地区统治终结的开始。",
+      "ja": "ライプツィヒでの敗北は、ドイツ諸邦におけるナポレオン支配の終わりの始まりとなりました。",
+      "ko": "라이프치히에서의 패배는 독일 지역에서 나폴레옹 지배가 끝나기 시작했음을 뜻했다.",
+      "hi": "लाइपज़िग की हार ने जर्मन क्षेत्रों में नेपोलियन के प्रभुत्व के अंत की शुरुआत कर दी।",
+      "ar": "كانت هزيمة لايبزيغ بداية نهاية السيطرة النابليونية في الاراضي الالمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Огромное сражение до эпохи мировых войн",
           "de": "Eine Riesenschlacht vor der Zeit der Weltkriege",
-          "en": "A huge battle before the world wars"
+          "en": "A huge battle before the world wars",
+          "fr": "Une immense bataille avant les guerres mondiales",
+          "es": "Una enorme batalla antes de las guerras mundiales",
+          "it": "Una grande battaglia prima delle guerre mondiali",
+          "pt": "Uma enorme batalha antes das guerras mundiais",
+          "nl": "Een enorme veldslag voor de wereldoorlogen",
+          "pl": "Ogromna bitwa przed epoka wojen swiatowych",
+          "tr": "Dunya savaslarindan once dev bir savas",
+          "zh": "世界大战时代之前的巨大战役",
+          "ja": "世界大戦以前の巨大な戦い",
+          "ko": "세계대전 이전의 거대한 전투",
+          "hi": "विश्व युद्धों से पहले की एक विशाल लड़ाई",
+          "ar": "معركة هائلة قبل زمن الحربين العالميتين"
         },
         "description": {
           "ru": "В битве участвовали сотни тысяч солдат, а потери были огромными. Для Центральной Европы это было потрясение, сравнимое с политическим землетрясением.",
           "de": "An der Schlacht nahmen Hunderttausende Soldaten teil, und die Verluste waren enorm. Fuer Mitteleuropa war sie eine Erschuetterung von politischem Ausmass.",
-          "en": "Hundreds of thousands of soldiers took part in the battle, and casualties were enormous. For Central Europe, it was a shock on a political scale."
+          "en": "Hundreds of thousands of soldiers took part in the battle, and casualties were enormous. For Central Europe, it was a shock on a political scale.",
+          "fr": "Des centaines de milliers de soldats participerent a la bataille, et les pertes furent enormes. Pour l'Europe centrale, ce fut un choc d'une ampleur politique.",
+          "es": "Cientos de miles de soldados participaron en la batalla, y las perdidas fueron enormes. Para Europa Central fue una conmocion de escala politica.",
+          "it": "Centinaia di migliaia di soldati presero parte alla battaglia e le perdite furono enormi. Per l'Europa centrale fu uno shock di dimensione politica.",
+          "pt": "Centenas de milhares de soldados participaram da batalha, e as perdas foram enormes. Para a Europa Central, foi um choque de escala politica.",
+          "nl": "Honderdduizenden soldaten namen deel aan de slag en de verliezen waren enorm. Voor Centraal-Europa was het een schok van politieke omvang.",
+          "pl": "W bitwie uczestniczyly setki tysiecy zolnierzy, a straty byly ogromne. Dla Europy Srodkowej byl to wstrzas o politycznej skali.",
+          "tr": "Savasa yuz binlerce asker katildi ve kayiplar cok buyuktu. Orta Avrupa icin bu, siyasi olcekte bir sarsintiydi.",
+          "zh": "数十万士兵参加了这场战役，伤亡巨大。对中欧来说，这是一场政治规模的震动。",
+          "ja": "数十万人の兵士が戦いに参加し、損失は甚大でした。中央ヨーロッパにとって、それは政治的な規模の衝撃でした。",
+          "ko": "수십만 명의 병사가 전투에 참가했고 피해도 막대했다. 중앙유럽에는 정치적 규모의 충격이었다.",
+          "hi": "इस लड़ाई में लाखों सैनिकों ने भाग लिया और हानि बहुत बड़ी थी। मध्य यूरोप के लिए यह राजनीतिक भूकंप जैसा झटका था।",
+          "ar": "شارك مئات الالاف من الجنود في المعركة وكانت الخسائر هائلة. وبالنسبة لاوروبا الوسطى كان ذلك صدمة ذات حجم سياسي."
         },
         "importance": {
           "ru": "Так видно, почему Лейпциг занимает особое место в памяти о наполеоновских войнах.",
           "de": "So wird deutlich, warum Leipzig einen besonderen Platz in der Erinnerung an die napoleonischen Kriege einnimmt.",
-          "en": "This explains why Leipzig holds a special place in the memory of the Napoleonic Wars."
+          "en": "This explains why Leipzig holds a special place in the memory of the Napoleonic Wars.",
+          "fr": "Cela explique pourquoi Leipzig occupe une place particuliere dans la memoire des guerres napoleoniennes.",
+          "es": "Esto explica por que Leipzig ocupa un lugar especial en la memoria de las guerras napoleonicas.",
+          "it": "Questo spiega perche Lipsia occupa un posto speciale nella memoria delle guerre napoleoniche.",
+          "pt": "Isso explica por que Leipzig ocupa um lugar especial na memoria das Guerras Napoleonicas.",
+          "nl": "Dit verklaart waarom Leipzig een bijzondere plaats inneemt in de herinnering aan de Napoleontische oorlogen.",
+          "pl": "To wyjasnia, dlaczego Lipsk zajmuje szczegolne miejsce w pamieci o wojnach napoleonskich.",
+          "tr": "Bu, Leipzig'in Napolyon Savaslari hafizasinda neden ozel bir yere sahip oldugunu aciklar.",
+          "zh": "这解释了为什么莱比锡在拿破仑战争记忆中占有特殊地位。",
+          "ja": "これにより、ライプツィヒがナポレオン戦争の記憶の中で特別な位置を占める理由がわかります。",
+          "ko": "이는 라이프치히가 나폴레옹 전쟁의 기억 속에서 특별한 위치를 차지하는 이유를 설명한다.",
+          "hi": "इससे समझ आता है कि नेपोलियन युद्धों की स्मृति में लाइपज़िग का खास स्थान क्यों है।",
+          "ar": "يوضح ذلك لماذا تحتل لايبزيغ مكانة خاصة في ذاكرة الحروب النابليونية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Память в камне",
           "de": "Erinnerung in Stein",
-          "en": "Memory in stone"
+          "en": "Memory in stone",
+          "fr": "La memoire dans la pierre",
+          "es": "Memoria en piedra",
+          "it": "Memoria nella pietra",
+          "pt": "Memoria em pedra",
+          "nl": "Herinnering in steen",
+          "pl": "Pamiec w kamieniu",
+          "tr": "Tasta hafiza",
+          "zh": "石头中的记忆",
+          "ja": "石に刻まれた記憶",
+          "ko": "돌에 새긴 기억",
+          "hi": "पत्थर में स्मृति",
+          "ar": "ذاكرة في الحجر"
         },
         "description": {
           "ru": "Через сто лет после битвы в Лейпциге открыли монумент Битве народов. Он стал одним из самых заметных памятников Германии и напоминает, как XIX век превращал войны в национальные символы.",
           "de": "Hundert Jahre nach der Schlacht wurde in Leipzig das Voelkerschlachtdenkmal eingeweiht. Es wurde zu einem der auffaelligsten Denkmale Deutschlands und zeigt, wie das 19. Jahrhundert Kriege in nationale Symbole verwandelte.",
-          "en": "One hundred years after the battle, Leipzig opened the Monument to the Battle of the Nations. It became one of Germany's most striking monuments and shows how the nineteenth century turned wars into national symbols."
+          "en": "One hundred years after the battle, Leipzig opened the Monument to the Battle of the Nations. It became one of Germany's most striking monuments and shows how the nineteenth century turned wars into national symbols.",
+          "fr": "Cent ans apres la bataille, Leipzig inaugura le monument de la bataille des Nations. Il devint l'un des monuments les plus frappants d'Allemagne et montre comment le XIXe siecle transformait les guerres en symboles nationaux.",
+          "es": "Cien anos despues de la batalla, Leipzig inauguro el Monumento a la Batalla de las Naciones. Se convirtio en uno de los monumentos mas llamativos de Alemania y muestra como el siglo XIX convertia las guerras en simbolos nacionales.",
+          "it": "Cento anni dopo la battaglia, a Lipsia fu inaugurato il Monumento alla battaglia delle Nazioni. Divenne uno dei monumenti piu vistosi della Germania e mostra come l'Ottocento trasformava le guerre in simboli nazionali.",
+          "pt": "Cem anos depois da batalha, Leipzig inaugurou o Monumento a Batalha das Nacoes. Ele se tornou um dos monumentos mais marcantes da Alemanha e mostra como o seculo XIX transformava guerras em simbolos nacionais.",
+          "nl": "Honderd jaar na de slag werd in Leipzig het Monument voor de Volkerenslag ingewijd. Het werd een van de opvallendste monumenten van Duitsland en laat zien hoe de negentiende eeuw oorlogen tot nationale symbolen maakte.",
+          "pl": "Sto lat po bitwie w Lipsku otwarto Pomnik Bitwy Narodow. Stal sie jednym z najbardziej wyrazistych pomnikow Niemiec i pokazuje, jak XIX wiek zmienial wojny w symbole narodowe.",
+          "tr": "Savastan yuz yil sonra Leipzig'de Milletler Savasi Aniti acildi. Almanya'nin en dikkat cekici anitlarindan biri oldu ve 19. yuzyilin savaslari nasil ulusal sembollere donusturdugunu gosterir.",
+          "zh": "战役一百年后，莱比锡开放了民族会战纪念碑。它成为德国最醒目的纪念碑之一，也显示十九世纪如何把战争转化为民族象征。",
+          "ja": "戦いから100年後、ライプツィヒで諸国民戦争記念碑が公開されました。それはドイツで最も目立つ記念碑の一つとなり、19世紀が戦争を国民的象徴へ変えていったことを示しています。",
+          "ko": "전투 100년 뒤 라이프치히에는 전승기념비가 세워졌다. 이 기념비는 독일의 가장 눈에 띄는 기념물 중 하나가 되었고, 19세기가 전쟁을 어떻게 국민적 상징으로 바꾸었는지 보여 준다.",
+          "hi": "लड़ाई के सौ साल बाद लाइपज़िग में राष्ट्रों की लड़ाई का स्मारक खोला गया। यह जर्मनी के सबसे प्रमुख स्मारकों में से एक बना और दिखाता है कि उन्नीसवीं सदी ने युद्धों को राष्ट्रीय प्रतीकों में कैसे बदला।",
+          "ar": "بعد مئة عام من المعركة افتتحت لايبزيغ نصب معركة الامم. اصبح احد ابرز المعالم في المانيا ويبين كيف حول القرن التاسع عشر الحروب الى رموز وطنية."
         },
         "importance": {
           "ru": "Это хороший пример того, как память о событии сама становится частью истории.",
           "de": "Das ist ein gutes Beispiel dafuer, wie die Erinnerung an ein Ereignis selbst Teil der Geschichte wird.",
-          "en": "It is a good example of how memory of an event becomes part of history itself."
+          "en": "It is a good example of how memory of an event becomes part of history itself.",
+          "fr": "C'est un bon exemple de la facon dont la memoire d'un evenement devient elle-meme une partie de l'histoire.",
+          "es": "Es un buen ejemplo de como la memoria de un acontecimiento se convierte en parte de la propia historia.",
+          "it": "E un buon esempio di come il ricordo di un evento diventi esso stesso parte della storia.",
+          "pt": "E um bom exemplo de como a memoria de um acontecimento se torna parte da propria historia.",
+          "nl": "Het is een goed voorbeeld van hoe de herinnering aan een gebeurtenis zelf deel van de geschiedenis wordt.",
+          "pl": "To dobry przyklad tego, jak pamiec o wydarzeniu sama staje sie czescia historii.",
+          "tr": "Bu, bir olayin hafizasinin nasil tarihin bir parcasi haline geldigine iyi bir ornektir.",
+          "zh": "这是事件记忆本身如何成为历史一部分的好例子。",
+          "ja": "出来事の記憶そのものが歴史の一部になることを示す良い例です。",
+          "ko": "한 사건에 대한 기억 자체가 역사 일부가 되는 방식을 보여 주는 좋은 예이다.",
+          "hi": "यह अच्छा उदाहरण है कि किसी घटना की स्मृति खुद इतिहास का हिस्सा कैसे बन जाती है।",
+          "ar": "انه مثال جيد على كيف تصبح ذكرى حدث ما جزءا من التاريخ نفسه."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В Германии битву часто называют «Voelkerschlacht», то есть «Битва народов».",
     "de": "In Deutschland wird die Schlacht oft Voelkerschlacht genannt.",
-    "en": "In Germany, the battle is often called the Voelkerschlacht, or Battle of Nations."
+    "en": "In Germany, the battle is often called the Voelkerschlacht, or Battle of Nations.",
+    "fr": "En Allemagne, la bataille est souvent appelee Voelkerschlacht, c'est-a-dire bataille des Nations.",
+    "es": "En Alemania, la batalla suele llamarse Voelkerschlacht, es decir, batalla de las Naciones.",
+    "it": "In Germania la battaglia e spesso chiamata Voelkerschlacht, cioe battaglia delle Nazioni.",
+    "pt": "Na Alemanha, a batalha e muitas vezes chamada Voelkerschlacht, ou Batalha das Nacoes.",
+    "nl": "In Duitsland wordt de slag vaak Voelkerschlacht genoemd, de Slag der Volkeren.",
+    "pl": "W Niemczech bitwe czesto nazywa sie Voelkerschlacht, czyli Bitwa Narodow.",
+    "tr": "Almanya'da bu savas genellikle Voelkerschlacht, yani Milletler Savasi olarak anilir.",
+    "zh": "在德国，这场战役常被称为Voelkerschlacht，即“民族会战”。",
+    "ja": "ドイツではこの戦いはしばしばVoelkerschlacht、つまり「諸国民戦争」と呼ばれます。",
+    "ko": "독일에서는 이 전투를 흔히 Voelkerschlacht, 즉 민족들의 전투라고 부른다.",
+    "hi": "जर्मनी में इस लड़ाई को अक्सर Voelkerschlacht, यानी राष्ट्रों की लड़ाई कहा जाता है।",
+    "ar": "في المانيا تسمى المعركة غالبا Voelkerschlacht، اي معركة الامم."
   },
   "sources": [
     {
