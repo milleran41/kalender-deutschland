@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Карл Лагерфельд",
       "de": "Karl Lagerfeld wird geboren",
-      "en": "Karl Lagerfeld is born"
+      "en": "Karl Lagerfeld is born",
+      "fr": "Karl Lagerfeld naît",
+      "es": "Nace Karl Lagerfeld",
+      "it": "Nasce Karl Lagerfeld",
+      "pt": "Nasce Karl Lagerfeld",
+      "nl": "Karl Lagerfeld wordt geboren",
+      "pl": "Urodził się Karl Lagerfeld",
+      "tr": "Karl Lagerfeld doğdu",
+      "zh": "卡尔·拉格斐诞生",
+      "ja": "カール・ラガーフェルドが生まれる",
+      "ko": "카를 라거펠트가 태어나다",
+      "hi": "कार्ल लागरफेल्ड का जन्म हुआ",
+      "ar": "ولادة كارل لاغرفيلد"
     },
     "description": {
       "ru": "10 сентября 1933 года в Гамбурге родился Карл Лагерфельд. Он стал одним из самых известных немецких дизайнеров моды и работал с крупными европейскими домами, включая Chanel и Fendi.",
       "de": "Am 10. September 1933 wurde Karl Lagerfeld in Hamburg geboren. Er wurde einer der bekanntesten deutschen Modedesigner und arbeitete mit grossen europaeischen Haeusern wie Chanel und Fendi.",
-      "en": "On 10 September 1933, Karl Lagerfeld was born in Hamburg. He became one of Germany's best-known fashion designers and worked with major European houses including Chanel and Fendi."
+      "en": "On 10 September 1933, Karl Lagerfeld was born in Hamburg. He became one of Germany's best-known fashion designers and worked with major European houses including Chanel and Fendi.",
+      "fr": "Le 10 septembre 1933, Karl Lagerfeld naquit à Hambourg. Il devint l'un des créateurs de mode allemands les plus connus et travailla avec de grandes maisons européennes, dont Chanel et Fendi.",
+      "es": "El 10 de septiembre de 1933 nació Karl Lagerfeld en Hamburgo. Se convirtió en uno de los diseñadores de moda alemanes más conocidos y trabajó con grandes casas europeas, incluidas Chanel y Fendi.",
+      "it": "Il 10 settembre 1933 Karl Lagerfeld nacque ad Amburgo. Divenne uno degli stilisti tedeschi più conosciuti e lavorò con grandi case europee, tra cui Chanel e Fendi.",
+      "pt": "Em 10 de setembro de 1933, Karl Lagerfeld nasceu em Hamburgo. Ele se tornou um dos estilistas alemães mais conhecidos e trabalhou com grandes casas europeias, incluindo Chanel e Fendi.",
+      "nl": "Op 10 september 1933 werd Karl Lagerfeld in Hamburg geboren. Hij werd een van Duitslands bekendste modeontwerpers en werkte met grote Europese huizen, waaronder Chanel en Fendi.",
+      "pl": "10 września 1933 roku w Hamburgu urodził się Karl Lagerfeld. Stał się jednym z najbardziej znanych niemieckich projektantów mody i pracował z wielkimi europejskimi domami, w tym Chanel i Fendi.",
+      "tr": "10 Eylül 1933'te Karl Lagerfeld Hamburg'da doğdu. Almanya'nın en tanınmış moda tasarımcılarından biri oldu ve Chanel ile Fendi dahil büyük Avrupa moda evleriyle çalıştı.",
+      "zh": "1933年9月10日，卡尔·拉格斐出生于汉堡。他成为德国最著名的时装设计师之一，并与包括香奈儿和芬迪在内的欧洲大型时装屋合作。",
+      "ja": "1933年9月10日、カール・ラガーフェルドがハンブルクで生まれました。彼はドイツで最も有名なファッションデザイナーの一人となり、シャネルやフェンディを含むヨーロッパの大手メゾンで働きました。",
+      "ko": "1933년 9월 10일 카를 라거펠트가 함부르크에서 태어났습니다. 그는 독일에서 가장 잘 알려진 패션 디자이너 중 한 명이 되었고 샤넬과 펜디를 포함한 유럽의 주요 하우스들과 일했습니다.",
+      "hi": "10 सितंबर 1933 को कार्ल लागरफेल्ड का जन्म हैम्बर्ग में हुआ। वे जर्मनी के सबसे प्रसिद्ध फैशन डिजाइनरों में से एक बने और Chanel तथा Fendi जैसे बड़े यूरोपीय फैशन घरानों के साथ काम किया।",
+      "ar": "في 10 سبتمبر 1933 وُلد كارل لاغرفيلد في هامبورغ. أصبح أحد أشهر مصممي الأزياء الألمان وعمل مع دور أوروبية كبرى، منها شانيل وفندي."
     },
     "importance": {
       "ru": "Лагерфельд показывает, что немецкая культурная история включает не только литературу и музыку, но и моду, фотографию и дизайн.",
       "de": "Lagerfeld zeigt, dass deutsche Kulturgeschichte nicht nur Literatur und Musik, sondern auch Mode, Fotografie und Design umfasst.",
-      "en": "Lagerfeld shows that German cultural history includes not only literature and music but also fashion, photography and design."
+      "en": "Lagerfeld shows that German cultural history includes not only literature and music but also fashion, photography and design.",
+      "fr": "Lagerfeld montre que l'histoire culturelle allemande comprend non seulement la littérature et la musique, mais aussi la mode, la photographie et le design.",
+      "es": "Lagerfeld muestra que la historia cultural alemana incluye no solo literatura y música, sino también moda, fotografía y diseño.",
+      "it": "Lagerfeld mostra che la storia culturale tedesca comprende non solo letteratura e musica, ma anche moda, fotografia e design.",
+      "pt": "Lagerfeld mostra que a história cultural alemã inclui não apenas literatura e música, mas também moda, fotografia e design.",
+      "nl": "Lagerfeld laat zien dat de Duitse cultuurgeschiedenis niet alleen literatuur en muziek omvat, maar ook mode, fotografie en design.",
+      "pl": "Lagerfeld pokazuje, że niemiecka historia kultury obejmuje nie tylko literaturę i muzykę, lecz także modę, fotografię i design.",
+      "tr": "Lagerfeld, Alman kültür tarihinin yalnızca edebiyat ve müziği değil, modayı, fotoğrafçılığı ve tasarımı da kapsadığını gösterir.",
+      "zh": "拉格斐说明，德国文化史不仅包括文学和音乐，也包括时尚、摄影和设计。",
+      "ja": "ラガーフェルドは、ドイツ文化史が文学や音楽だけでなく、ファッション、写真、デザインも含むことを示しています。",
+      "ko": "라거펠트는 독일 문화사가 문학과 음악뿐 아니라 패션, 사진, 디자인도 포함함을 보여 줍니다.",
+      "hi": "लागरफेल्ड दिखाते हैं कि जर्मन सांस्कृतिक इतिहास में केवल साहित्य और संगीत ही नहीं, फैशन, फोटोग्राफी और डिजाइन भी शामिल हैं।",
+      "ar": "يُظهر لاغرفيلد أن التاريخ الثقافي الألماني لا يشمل الأدب والموسيقى فقط، بل الموضة والتصوير والتصميم أيضاً."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Chanel, Fendi и узнаваемый стиль",
           "de": "Chanel, Fendi und ein wiedererkennbarer Stil",
-          "en": "Chanel, Fendi and a recognizable style"
+          "en": "Chanel, Fendi and a recognizable style",
+          "fr": "Chanel, Fendi et un style reconnaissable",
+          "es": "Chanel, Fendi y un estilo reconocible",
+          "it": "Chanel, Fendi e uno stile riconoscibile",
+          "pt": "Chanel, Fendi e um estilo reconhecível",
+          "nl": "Chanel, Fendi en een herkenbare stijl",
+          "pl": "Chanel, Fendi i rozpoznawalny styl",
+          "tr": "Chanel, Fendi ve tanınabilir bir tarz",
+          "zh": "香奈儿、芬迪与鲜明风格",
+          "ja": "シャネル、フェンディ、そしてよく知られたスタイル",
+          "ko": "샤넬, 펜디 그리고 알아보기 쉬운 스타일",
+          "hi": "Chanel, Fendi और पहचानने योग्य शैली",
+          "ar": "شانيل وفندي وأسلوب يمكن التعرف عليه"
         },
         "description": {
           "ru": "Лагерфельд десятилетиями работал в высокой моде и стал известен умением обновлять старые марки. Его собственный образ - тёмные очки, белые волосы и высокий воротник - тоже стал частью поп-культуры.",
           "de": "Lagerfeld arbeitete jahrzehntelang in der Haute Couture und wurde dafuer bekannt, alte Marken neu zu beleben. Auch sein eigener Look mit dunkler Brille, weissem Haar und hohem Kragen wurde Teil der Popkultur.",
-          "en": "Lagerfeld worked in high fashion for decades and became known for reviving older brands. His own look, with dark glasses, white hair and high collars, also became part of pop culture."
+          "en": "Lagerfeld worked in high fashion for decades and became known for reviving older brands. His own look, with dark glasses, white hair and high collars, also became part of pop culture.",
+          "fr": "Lagerfeld travailla pendant des décennies dans la haute couture et devint connu pour sa capacité à relancer d'anciennes marques. Son propre look, lunettes noires, cheveux blancs et col haut, devint aussi une partie de la pop culture.",
+          "es": "Lagerfeld trabajó durante décadas en la alta moda y se hizo conocido por revitalizar marcas antiguas. Su propia imagen, con gafas oscuras, pelo blanco y cuello alto, también se convirtió en parte de la cultura pop.",
+          "it": "Lagerfeld lavorò per decenni nell'alta moda e divenne noto per la capacità di rilanciare marchi storici. Anche il suo look, con occhiali scuri, capelli bianchi e collo alto, divenne parte della cultura pop.",
+          "pt": "Lagerfeld trabalhou por décadas na alta-costura e ficou conhecido por revitalizar marcas antigas. Seu próprio visual, com óculos escuros, cabelo branco e gola alta, também se tornou parte da cultura pop.",
+          "nl": "Lagerfeld werkte tientallen jaren in de haute couture en werd bekend om het nieuw leven inblazen van oudere merken. Zijn eigen look, met donkere bril, wit haar en hoge kragen, werd ook deel van de popcultuur.",
+          "pl": "Lagerfeld przez dziesięciolecia pracował w haute couture i zasłynął umiejętnością odświeżania starych marek. Jego własny wygląd, ciemne okulary, białe włosy i wysoki kołnierz, także stał się częścią popkultury.",
+          "tr": "Lagerfeld onlarca yıl haute couture alanında çalıştı ve eski markaları yeniden canlandırma becerisiyle tanındı. Koyu gözlükleri, beyaz saçları ve yüksek yakalarıyla kendi görünümü de pop kültürün parçası oldu.",
+          "zh": "拉格斐在高级时装领域工作了几十年，并以复兴老品牌的能力闻名。他自己的造型，黑色眼镜、白发和高领，也成为流行文化的一部分。",
+          "ja": "ラガーフェルドは何十年もオートクチュールの世界で働き、古いブランドをよみがえらせる力で知られました。黒い眼鏡、白い髪、高い襟という彼自身の姿もポップカルチャーの一部になりました。",
+          "ko": "라거펠트는 수십 년 동안 하이패션 분야에서 일했고 오래된 브랜드를 되살리는 능력으로 알려졌습니다. 검은 안경, 흰 머리, 높은 칼라로 대표되는 그의 모습도 대중문화의 일부가 되었습니다.",
+          "hi": "लागरफेल्ड ने दशकों तक उच्च फैशन में काम किया और पुराने ब्रांडों को नया जीवन देने की क्षमता के लिए प्रसिद्ध हुए। काले चश्मे, सफेद बाल और ऊँचे कॉलर वाला उनका अपना रूप भी पॉप संस्कृति का हिस्सा बन गया।",
+          "ar": "عمل لاغرفيلد لعقود في الأزياء الراقية واشتهر بقدرته على إحياء العلامات القديمة. كما أصبح مظهره الخاص، النظارات الداكنة والشعر الأبيض والياقة العالية، جزءاً من الثقافة الشعبية."
         },
         "importance": {
           "ru": "Это хороший пример того, как дизайнер может стать не только автором вещей, но и культурным символом.",
           "de": "Das ist ein gutes Beispiel dafuer, wie ein Designer nicht nur Dinge entwirft, sondern selbst zum kulturellen Zeichen wird.",
-          "en": "It is a good example of how a designer can become not only a maker of things but also a cultural symbol."
+          "en": "It is a good example of how a designer can become not only a maker of things but also a cultural symbol.",
+          "fr": "C'est un bon exemple de la manière dont un designer peut devenir non seulement créateur d'objets, mais aussi symbole culturel.",
+          "es": "Es un buen ejemplo de cómo un diseñador puede convertirse no solo en creador de cosas, sino también en símbolo cultural.",
+          "it": "È un buon esempio di come un designer possa diventare non solo creatore di oggetti, ma anche simbolo culturale.",
+          "pt": "É um bom exemplo de como um designer pode se tornar não apenas criador de objetos, mas também símbolo cultural.",
+          "nl": "Het is een goed voorbeeld van hoe een ontwerper niet alleen maker van dingen kan worden, maar ook een cultureel symbool.",
+          "pl": "To dobry przykład tego, jak projektant może stać się nie tylko twórcą rzeczy, lecz także symbolem kulturowym.",
+          "tr": "Bu, bir tasarımcının yalnızca nesneler üreten biri değil, aynı zamanda kültürel bir sembol olabileceğine iyi bir örnektir.",
+          "zh": "这是设计师如何不仅成为物品创造者，也成为文化象征的好例子。",
+          "ja": "これは、デザイナーが物を作る人であるだけでなく、文化的象徴にもなりうることを示すよい例です。",
+          "ko": "이는 디자이너가 단지 물건을 만드는 사람이 아니라 문화적 상징이 될 수 있음을 보여 주는 좋은 예입니다.",
+          "hi": "यह अच्छा उदाहरण है कि डिजाइनर केवल चीज़ें बनाने वाला नहीं, बल्कि सांस्कृतिक प्रतीक भी बन सकता है।",
+          "ar": "هذا مثال جيد على أن المصمم يمكن أن يصبح ليس صانع أشياء فقط، بل رمزاً ثقافياً أيضاً."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Из Гамбурга в Париж",
           "de": "Von Hamburg nach Paris",
-          "en": "From Hamburg to Paris"
+          "en": "From Hamburg to Paris",
+          "fr": "De Hambourg à Paris",
+          "es": "De Hamburgo a París",
+          "it": "Da Amburgo a Parigi",
+          "pt": "De Hamburgo a Paris",
+          "nl": "Van Hamburg naar Parijs",
+          "pl": "Z Hamburga do Paryża",
+          "tr": "Hamburg'dan Paris'e",
+          "zh": "从汉堡到巴黎",
+          "ja": "ハンブルクからパリへ",
+          "ko": "함부르크에서 파리로",
+          "hi": "हैम्बर्ग से पेरिस तक",
+          "ar": "من هامبورغ إلى باريس"
         },
         "description": {
           "ru": "Лагерфельд родился в Гамбурге, но карьеру строил прежде всего во Франции и Италии. Его биография показывает, как немецкие творческие люди работали в общеевропейском культурном пространстве.",
           "de": "Lagerfeld wurde in Hamburg geboren, machte seine Karriere aber vor allem in Frankreich und Italien. Seine Biografie zeigt, wie deutsche Kreative in einem gesamteuropaeischen Kulturraum arbeiteten.",
-          "en": "Lagerfeld was born in Hamburg but built his career mainly in France and Italy. His biography shows how German creatives worked in a wider European cultural space."
+          "en": "Lagerfeld was born in Hamburg but built his career mainly in France and Italy. His biography shows how German creatives worked in a wider European cultural space.",
+          "fr": "Lagerfeld naquit à Hambourg, mais construisit sa carrière surtout en France et en Italie. Sa biographie montre comment des créatifs allemands travaillaient dans un espace culturel européen plus large.",
+          "es": "Lagerfeld nació en Hamburgo, pero construyó su carrera sobre todo en Francia e Italia. Su biografía muestra cómo los creadores alemanes trabajaban en un espacio cultural europeo más amplio.",
+          "it": "Lagerfeld nacque ad Amburgo, ma costruì la sua carriera soprattutto in Francia e in Italia. La sua biografia mostra come i creativi tedeschi lavorassero in uno spazio culturale europeo più ampio.",
+          "pt": "Lagerfeld nasceu em Hamburgo, mas construiu sua carreira principalmente na França e na Itália. Sua biografia mostra como criativos alemães trabalhavam em um espaço cultural europeu mais amplo.",
+          "nl": "Lagerfeld werd geboren in Hamburg, maar bouwde zijn carrière vooral op in Frankrijk en Italië. Zijn biografie laat zien hoe Duitse creatieven werkten in een bredere Europese culturele ruimte.",
+          "pl": "Lagerfeld urodził się w Hamburgu, ale karierę budował głównie we Francji i we Włoszech. Jego biografia pokazuje, jak niemieccy twórcy działali w szerszej europejskiej przestrzeni kultury.",
+          "tr": "Lagerfeld Hamburg'da doğdu, ancak kariyerini çoğunlukla Fransa ve İtalya'da kurdu. Biyografisi Alman yaratıcıların daha geniş bir Avrupa kültür alanında nasıl çalıştığını gösterir.",
+          "zh": "拉格斐出生于汉堡，但他的事业主要在法国和意大利发展。他的传记说明德国创意人才如何在更广阔的欧洲文化空间中工作。",
+          "ja": "ラガーフェルドはハンブルクで生まれましたが、主にフランスとイタリアでキャリアを築きました。彼の伝記は、ドイツの創作者がより広いヨーロッパ文化圏で働いたことを示しています。",
+          "ko": "라거펠트는 함부르크에서 태어났지만 주로 프랑스와 이탈리아에서 경력을 쌓았습니다. 그의 전기는 독일 창작자들이 더 넓은 유럽 문화 공간에서 어떻게 활동했는지 보여 줍니다.",
+          "hi": "लागरफेल्ड का जन्म हैम्बर्ग में हुआ, लेकिन उन्होंने अपना करियर मुख्यतः फ्रांस और इटली में बनाया। उनकी जीवनी दिखाती है कि जर्मन रचनात्मक लोग व्यापक यूरोपीय सांस्कृतिक क्षेत्र में कैसे काम करते थे।",
+          "ar": "وُلد لاغرفيلد في هامبورغ، لكنه بنى مسيرته أساساً في فرنسا وإيطاليا. وتُظهر سيرته كيف عمل المبدعون الألمان داخل فضاء ثقافي أوروبي أوسع."
         },
         "importance": {
           "ru": "Культура часто пересекает границы быстрее, чем политика.",
           "de": "Kultur ueberschreitet Grenzen oft schneller als Politik.",
-          "en": "Culture often crosses borders faster than politics."
+          "en": "Culture often crosses borders faster than politics.",
+          "fr": "La culture franchit souvent les frontières plus vite que la politique.",
+          "es": "La cultura suele cruzar fronteras más rápido que la política.",
+          "it": "La cultura attraversa spesso i confini più rapidamente della politica.",
+          "pt": "A cultura muitas vezes cruza fronteiras mais rápido que a política.",
+          "nl": "Cultuur steekt grenzen vaak sneller over dan politiek.",
+          "pl": "Kultura często przekracza granice szybciej niż polityka.",
+          "tr": "Kültür çoğu zaman sınırları siyasetten daha hızlı aşar.",
+          "zh": "文化常常比政治更快跨越边界。",
+          "ja": "文化はしばしば政治よりも早く国境を越えます。",
+          "ko": "문화는 종종 정치보다 더 빨리 국경을 넘습니다.",
+          "hi": "संस्कृति अक्सर राजनीति से तेज़ सीमाएँ पार करती है।",
+          "ar": "غالباً ما تعبر الثقافة الحدود أسرع من السياسة."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Возраст как часть легенды",
           "de": "Das Alter als Teil der Legende",
-          "en": "Age as part of the legend"
+          "en": "Age as part of the legend",
+          "fr": "L'âge comme partie de la légende",
+          "es": "La edad como parte de la leyenda",
+          "it": "L'età come parte della leggenda",
+          "pt": "A idade como parte da lenda",
+          "nl": "Leeftijd als deel van de legende",
+          "pl": "Wiek jako część legendy",
+          "tr": "Efsanenin parçası olarak yaş",
+          "zh": "年龄作为传奇的一部分",
+          "ja": "伝説の一部としての年齢",
+          "ko": "전설의 일부가 된 나이",
+          "hi": "किंवदंती का हिस्सा बनी उम्र",
+          "ar": "العمر كجزء من الأسطورة"
         },
         "description": {
           "ru": "Вокруг года рождения Лагерфельда долго ходили разные версии, хотя обычно указывают 1933 год. Даже эта путаница стала частью его тщательно созданного публичного образа.",
           "de": "Um Lagerfelds Geburtsjahr kursierten lange verschiedene Angaben, obwohl meist 1933 genannt wird. Sogar diese Unklarheit wurde Teil seines sorgfaeltig gestalteten oeffentlichen Bildes.",
-          "en": "Different versions of Lagerfeld's birth year circulated for a long time, though 1933 is usually given. Even this uncertainty became part of his carefully crafted public image."
+          "en": "Different versions of Lagerfeld's birth year circulated for a long time, though 1933 is usually given. Even this uncertainty became part of his carefully crafted public image.",
+          "fr": "Différentes versions de l'année de naissance de Lagerfeld circulèrent longtemps, même si 1933 est généralement indiqué. Même cette incertitude devint une partie de son image publique soigneusement construite.",
+          "es": "Durante mucho tiempo circularon distintas versiones del año de nacimiento de Lagerfeld, aunque normalmente se indica 1933. Incluso esa incertidumbre se convirtió en parte de su imagen pública cuidadosamente construida.",
+          "it": "Per molto tempo circolarono diverse versioni dell'anno di nascita di Lagerfeld, anche se di solito si indica il 1933. Anche questa incertezza divenne parte della sua immagine pubblica costruita con cura.",
+          "pt": "Por muito tempo circularam diferentes versões do ano de nascimento de Lagerfeld, embora geralmente se indique 1933. Até essa incerteza tornou-se parte de sua imagem pública cuidadosamente construída.",
+          "nl": "Lange tijd deden verschillende versies van Lagerfelds geboortejaar de ronde, hoewel meestal 1933 wordt genoemd. Zelfs die onzekerheid werd deel van zijn zorgvuldig opgebouwde publieke imago.",
+          "pl": "Przez długi czas krążyły różne wersje roku urodzenia Lagerfelda, choć zwykle podaje się 1933. Nawet ta niepewność stała się częścią jego starannie stworzonego publicznego wizerunku.",
+          "tr": "Lagerfeld'in doğum yılı hakkında uzun süre farklı bilgiler dolaştı, ancak genellikle 1933 verilir. Bu belirsizlik bile özenle oluşturduğu kamusal imajın parçası oldu.",
+          "zh": "关于拉格斐出生年份的不同说法流传了很久，尽管通常写作1933年。连这种不确定性也成为他精心塑造的公众形象的一部分。",
+          "ja": "ラガーフェルドの生年については長くさまざまな説が出回りましたが、通常は1933年とされています。この不確かささえ、彼が慎重に作り上げた公的イメージの一部になりました。",
+          "ko": "라거펠트의 출생 연도에 대해서는 오랫동안 여러 설이 돌았지만 보통 1933년으로 제시됩니다. 이 불확실성조차 그가 세심하게 만든 공적 이미지의 일부가 되었습니다.",
+          "hi": "लागरफेल्ड के जन्म वर्ष को लेकर लंबे समय तक अलग-अलग बातें चलती रहीं, हालांकि आम तौर पर 1933 बताया जाता है। यह अनिश्चितता भी उनकी सावधानी से बनाई गई सार्वजनिक छवि का हिस्सा बन गई।",
+          "ar": "تداولت لفترة طويلة روايات مختلفة عن سنة ميلاد لاغرفيلد، رغم أن عام 1933 هو المذكور عادة. وحتى هذا الغموض أصبح جزءاً من صورته العامة المصنوعة بعناية."
         },
         "importance": {
           "ru": "Редкий случай, когда биографическая деталь сама становится элементом стиля.",
           "de": "Ein seltener Fall, in dem ein biografisches Detail selbst zum Teil des Stils wird.",
-          "en": "A rare case in which a biographical detail itself becomes part of the style."
+          "en": "A rare case in which a biographical detail itself becomes part of the style.",
+          "fr": "Un cas rare où un détail biographique devient lui-même une partie du style.",
+          "es": "Un caso raro en el que un detalle biográfico se convierte en parte del estilo.",
+          "it": "Un caso raro in cui un dettaglio biografico diventa esso stesso parte dello stile.",
+          "pt": "Um caso raro em que um detalhe biográfico se torna parte do estilo.",
+          "nl": "Een zeldzaam geval waarin een biografisch detail zelf deel wordt van de stijl.",
+          "pl": "Rzadki przypadek, gdy szczegół biograficzny sam staje się elementem stylu.",
+          "tr": "Biyografik bir ayrıntının bizzat stilin parçası hâline geldiği nadir bir durum.",
+          "zh": "这是一个少见的例子：传记细节本身变成了风格的一部分。",
+          "ja": "伝記上の細部そのものがスタイルの一部になる珍しい例です。",
+          "ko": "전기적 세부 사항 자체가 스타일의 일부가 되는 드문 사례입니다.",
+          "hi": "यह दुर्लभ मामला है, जब जीवनी की एक बात स्वयं शैली का हिस्सा बन जाती है।",
+          "ar": "حالة نادرة يصبح فيها تفصيل في السيرة جزءاً من الأسلوب نفسه."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Карл Лагерфельд был не только дизайнером, но и фотографом, издателем и коллекционером книг.",
     "de": "Karl Lagerfeld war nicht nur Designer, sondern auch Fotograf, Verleger und Buechersammler.",
-    "en": "Karl Lagerfeld was not only a designer but also a photographer, publisher and book collector."
+    "en": "Karl Lagerfeld was not only a designer but also a photographer, publisher and book collector.",
+    "fr": "Karl Lagerfeld n'était pas seulement designer, mais aussi photographe, éditeur et collectionneur de livres.",
+    "es": "Karl Lagerfeld no fue solo diseñador, sino también fotógrafo, editor y coleccionista de libros.",
+    "it": "Karl Lagerfeld non fu solo designer, ma anche fotografo, editore e collezionista di libri.",
+    "pt": "Karl Lagerfeld não foi apenas designer, mas também fotógrafo, editor e colecionador de livros.",
+    "nl": "Karl Lagerfeld was niet alleen ontwerper, maar ook fotograaf, uitgever en boekenverzamelaar.",
+    "pl": "Karl Lagerfeld był nie tylko projektantem, lecz także fotografem, wydawcą i kolekcjonerem książek.",
+    "tr": "Karl Lagerfeld yalnızca tasarımcı değil, aynı zamanda fotoğrafçı, yayıncı ve kitap koleksiyoncusuydu.",
+    "zh": "卡尔·拉格斐不仅是设计师，还是摄影师、出版人和藏书家。",
+    "ja": "カール・ラガーフェルドはデザイナーであるだけでなく、写真家、出版人、書籍収集家でもありました。",
+    "ko": "카를 라거펠트는 디자이너일 뿐 아니라 사진가, 출판인, 책 수집가이기도 했습니다.",
+    "hi": "कार्ल लागरफेल्ड केवल डिजाइनर नहीं थे, बल्कि फोटोग्राफर, प्रकाशक और पुस्तक-संग्राहक भी थे।",
+    "ar": "لم يكن كارل لاغرفيلد مصمماً فقط، بل كان أيضاً مصوراً وناشراً وجامع كتب."
   },
   "sources": [
     {

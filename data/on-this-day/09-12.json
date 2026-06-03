@@ -11,17 +11,53 @@
     "title": {
       "ru": "Подписан Договор «Два плюс четыре»",
       "de": "Der Zwei-plus-Vier-Vertrag wird unterzeichnet",
-      "en": "The Two Plus Four Treaty is signed"
+      "en": "The Two Plus Four Treaty is signed",
+      "fr": "Le traité Deux plus Quatre est signé",
+      "es": "Se firma el Tratado Dos más Cuatro",
+      "it": "Viene firmato il Trattato Due più Quattro",
+      "pt": "O Tratado Dois Mais Quatro é assinado",
+      "nl": "Het Twee-plus-Vier-Verdrag wordt ondertekend",
+      "pl": "Podpisano traktat dwa plus cztery",
+      "tr": "İki Artı Dört Antlaşması imzalandı",
+      "zh": "《二加四条约》签署",
+      "ja": "「2プラス4条約」が調印される",
+      "ko": "2+4 조약이 체결되다",
+      "hi": "“टू प्लस फोर” संधि पर हस्ताक्षर हुए",
+      "ar": "توقيع معاهدة اثنين زائد أربعة"
     },
     "description": {
       "ru": "12 сентября 1990 года две Германии и четыре державы-победительницы подписали договор об окончательном урегулировании в отношении Германии. Он открыл путь к полному суверенитету объединённой страны.",
       "de": "Am 12. September 1990 unterzeichneten die beiden deutschen Staaten und die vier Siegermächte den Vertrag ueber die abschliessende Regelung in Bezug auf Deutschland. Er ebnete den Weg zur vollen Souveraenitaet des vereinten Landes.",
-      "en": "On 12 September 1990, the two German states and the four victorious powers signed the final settlement treaty regarding Germany. It opened the way to full sovereignty for the united country."
+      "en": "On 12 September 1990, the two German states and the four victorious powers signed the final settlement treaty regarding Germany. It opened the way to full sovereignty for the united country.",
+      "fr": "Le 12 septembre 1990, les deux États allemands et les quatre puissances victorieuses signèrent le traité de règlement final concernant l'Allemagne. Il ouvrit la voie à la pleine souveraineté du pays uni.",
+      "es": "El 12 de septiembre de 1990, los dos Estados alemanes y las cuatro potencias vencedoras firmaron el tratado de arreglo final respecto a Alemania. Abrió el camino hacia la plena soberanía del país unido.",
+      "it": "Il 12 settembre 1990 i due Stati tedeschi e le quattro potenze vincitrici firmarono il trattato di sistemazione definitiva riguardante la Germania. Aprì la strada alla piena sovranità del paese unito.",
+      "pt": "Em 12 de setembro de 1990, os dois Estados alemães e as quatro potências vencedoras assinaram o tratado de solução final sobre a Alemanha. Ele abriu caminho para a plena soberania do país unido.",
+      "nl": "Op 12 september 1990 ondertekenden de twee Duitse staten en de vier overwinnende mogendheden het definitieve regelingsverdrag over Duitsland. Het opende de weg naar volledige soevereiniteit voor het verenigde land.",
+      "pl": "12 września 1990 roku dwa państwa niemieckie i cztery zwycięskie mocarstwa podpisały traktat o ostatecznym uregulowaniu w odniesieniu do Niemiec. Otworzył on drogę do pełnej suwerenności zjednoczonego kraju.",
+      "tr": "12 Eylül 1990'da iki Alman devleti ve dört galip güç, Almanya'ya ilişkin nihai düzenleme antlaşmasını imzaladı. Bu, birleşmiş ülkenin tam egemenliğine giden yolu açtı.",
+      "zh": "1990年9月12日，两个德国国家和四个战胜国签署了关于德国最终解决的条约。它为统一国家获得完全主权打开了道路。",
+      "ja": "1990年9月12日、二つのドイツ国家と四つの戦勝国は、ドイツに関する最終規定条約に署名しました。これは統一国家の完全な主権への道を開きました。",
+      "ko": "1990년 9월 12일 두 독일 국가와 네 승전국은 독일에 관한 최종 해결 조약에 서명했습니다. 이 조약은 통일된 나라의 완전한 주권으로 가는 길을 열었습니다.",
+      "hi": "12 सितंबर 1990 को दो जर्मन राज्यों और चार विजयी शक्तियों ने जर्मनी से संबंधित अंतिम निपटान संधि पर हस्ताक्षर किए। इसने संयुक्त देश की पूर्ण संप्रभुता का रास्ता खोला।",
+      "ar": "في 12 سبتمبر 1990 وقعت الدولتان الألمانيتان والقوى المنتصرة الأربع معاهدة التسوية النهائية المتعلقة بألمانيا. وفتحت الطريق أمام السيادة الكاملة للبلد الموحد."
     },
     "importance": {
       "ru": "Без этого договора воссоединение 3 октября 1990 года было бы невозможно в международно-правовом смысле.",
-      "de": "Ohne diesen Vertrag waere die Wiedervereinigung am 3. Oktober 1990 voölkerrechtlich nicht moeglich gewesen.",
-      "en": "Without this treaty, reunification on 3 October 1990 would not have been possible in international law."
+      "de": "Ohne diesen Vertrag waere die Wiedervereinigung am 3. Oktober 1990 voelkerrechtlich nicht moeglich gewesen.",
+      "en": "Without this treaty, reunification on 3 October 1990 would not have been possible in international law.",
+      "fr": "Sans ce traité, la réunification du 3 octobre 1990 n'aurait pas été possible en droit international.",
+      "es": "Sin este tratado, la reunificación del 3 de octubre de 1990 no habría sido posible en el derecho internacional.",
+      "it": "Senza questo trattato, la riunificazione del 3 ottobre 1990 non sarebbe stata possibile nel diritto internazionale.",
+      "pt": "Sem esse tratado, a reunificação em 3 de outubro de 1990 não teria sido possível no direito internacional.",
+      "nl": "Zonder dit verdrag zou de hereniging op 3 oktober 1990 volgens het internationaal recht niet mogelijk zijn geweest.",
+      "pl": "Bez tego traktatu zjednoczenie 3 października 1990 roku nie byłoby możliwe w sensie prawa międzynarodowego.",
+      "tr": "Bu antlaşma olmadan 3 Ekim 1990'daki yeniden birleşme uluslararası hukuk açısından mümkün olmazdı.",
+      "zh": "没有这项条约，1990年10月3日的统一在国际法意义上将不可能实现。",
+      "ja": "この条約がなければ、1990年10月3日の再統一は国際法上不可能でした。",
+      "ko": "이 조약이 없었다면 1990년 10월 3일의 재통일은 국제법상 가능하지 않았을 것입니다.",
+      "hi": "इस संधि के बिना 3 अक्टूबर 1990 का पुनर्एकीकरण अंतरराष्ट्रीय कानून की दृष्टि से संभव नहीं होता।",
+      "ar": "من دون هذه المعاهدة لم تكن إعادة التوحيد في 3 أكتوبر 1990 ممكنة من منظور القانون الدولي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Единство как международный договор",
           "de": "Einheit als internationaler Vertrag",
-          "en": "Unity as an international treaty"
+          "en": "Unity as an international treaty",
+          "fr": "L'unité comme traité international",
+          "es": "La unidad como tratado internacional",
+          "it": "L'unità come trattato internazionale",
+          "pt": "A unidade como tratado internacional",
+          "nl": "Eenheid als internationaal verdrag",
+          "pl": "Jedność jako traktat międzynarodowy",
+          "tr": "Uluslararası antlaşma olarak birlik",
+          "zh": "作为国际条约的统一",
+          "ja": "国際条約としての統一",
+          "ko": "국제 조약으로서의 통일",
+          "hi": "अंतरराष्ट्रीय संधि के रूप में एकता",
+          "ar": "الوحدة كمعاهدة دولية"
         },
         "description": {
           "ru": "Воссоединение было не только желанием немцев, но и вопросом согласия держав, связанных с итогами Второй мировой войны.",
           "de": "Die Wiedervereinigung war nicht nur ein Wunsch der Deutschen, sondern auch eine Frage der Zustimmung der Mächte, die mit den Folgen des Zweiten Weltkriegs verbunden waren.",
-          "en": "Reunification was not only a German wish but also a matter of agreement by the powers linked to the consequences of the Second World War."
+          "en": "Reunification was not only a German wish but also a matter of agreement by the powers linked to the consequences of the Second World War.",
+          "fr": "La réunification n'était pas seulement un souhait allemand, mais aussi une question d'accord des puissances liées aux conséquences de la Seconde Guerre mondiale.",
+          "es": "La reunificación no fue solo un deseo alemán, sino también una cuestión de acuerdo entre las potencias vinculadas a las consecuencias de la Segunda Guerra Mundial.",
+          "it": "La riunificazione non fu solo un desiderio tedesco, ma anche una questione di consenso delle potenze legate alle conseguenze della Seconda guerra mondiale.",
+          "pt": "A reunificação não foi apenas um desejo alemão, mas também uma questão de acordo das potências ligadas às consequências da Segunda Guerra Mundial.",
+          "nl": "Hereniging was niet alleen een Duitse wens, maar ook een kwestie van instemming door de mogendheden die verbonden waren met de gevolgen van de Tweede Wereldoorlog.",
+          "pl": "Zjednoczenie było nie tylko niemieckim pragnieniem, lecz także kwestią zgody mocarstw związanych ze skutkami II wojny światowej.",
+          "tr": "Yeniden birleşme yalnızca Almanların isteği değil, İkinci Dünya Savaşı'nın sonuçlarıyla bağlantılı güçlerin onayı meselesiydi.",
+          "zh": "统一不仅是德国人的愿望，也需要与第二次世界大战后果相关的各大国达成一致。",
+          "ja": "再統一はドイツ人の願いであるだけでなく、第二次世界大戦の結果に関わる諸国の同意の問題でもありました。",
+          "ko": "재통일은 독일인의 소망일 뿐 아니라 제2차 세계대전의 결과와 연결된 강대국들의 합의 문제이기도 했습니다.",
+          "hi": "पुनर्एकीकरण केवल जर्मनों की इच्छा नहीं था, बल्कि द्वितीय विश्व युद्ध के परिणामों से जुड़ी शक्तियों की सहमति का प्रश्न भी था।",
+          "ar": "لم تكن إعادة التوحيد رغبة ألمانية فقط، بل كانت أيضاً مسألة موافقة القوى المرتبطة بنتائج الحرب العالمية الثانية."
         },
         "importance": {
           "ru": "Это помогает понять, почему немецкий вопрос был европейским вопросом.",
           "de": "Das hilft zu verstehen, warum die deutsche Frage eine europaeische Frage war.",
-          "en": "It helps explain why the German question was a European question."
+          "en": "It helps explain why the German question was a European question.",
+          "fr": "Cela aide à comprendre pourquoi la question allemande était une question européenne.",
+          "es": "Ayuda a explicar por qué la cuestión alemana era una cuestión europea.",
+          "it": "Aiuta a spiegare perché la questione tedesca era una questione europea.",
+          "pt": "Isso ajuda a explicar por que a questão alemã era uma questão europeia.",
+          "nl": "Het helpt verklaren waarom de Duitse kwestie een Europese kwestie was.",
+          "pl": "Pomaga to wyjaśnić, dlaczego kwestia niemiecka była kwestią europejską.",
+          "tr": "Bu, Alman meselesinin neden Avrupa meselesi olduğunu açıklar.",
+          "zh": "这有助于解释为什么德国问题也是欧洲问题。",
+          "ja": "これは、ドイツ問題がなぜヨーロッパ問題でもあったのかを説明する助けになります。",
+          "ko": "이는 독일 문제가 왜 유럽 문제였는지 설명해 줍니다.",
+          "hi": "यह समझाने में मदद करता है कि जर्मन प्रश्न यूरोपीय प्रश्न क्यों था।",
+          "ar": "يساعد ذلك على فهم لماذا كانت المسألة الألمانية مسألة أوروبية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Название «Два плюс четыре» означает две Германии и четыре державы: СССР, США, Великобританию и Францию.",
     "de": "Zwei plus Vier meint die beiden deutschen Staaten und die vier Maechte: Sowjetunion, USA, Grossbritannien und Frankreich.",
-    "en": "Two Plus Four means the two German states and the four powers: the Soviet Union, United States, Britain and France."
+    "en": "Two Plus Four means the two German states and the four powers: the Soviet Union, United States, Britain and France.",
+    "fr": "Deux plus Quatre signifie les deux États allemands et les quatre puissances : l'Union soviétique, les États-Unis, la Grande-Bretagne et la France.",
+    "es": "Dos más Cuatro significa los dos Estados alemanes y las cuatro potencias: la Unión Soviética, Estados Unidos, Gran Bretaña y Francia.",
+    "it": "Due più Quattro indica i due Stati tedeschi e le quattro potenze: Unione Sovietica, Stati Uniti, Gran Bretagna e Francia.",
+    "pt": "Dois Mais Quatro significa os dois Estados alemães e as quatro potências: União Soviética, Estados Unidos, Grã-Bretanha e França.",
+    "nl": "Twee plus Vier betekent de twee Duitse staten en de vier mogendheden: de Sovjet-Unie, de Verenigde Staten, Groot-Brittannië en Frankrijk.",
+    "pl": "Dwa plus cztery oznacza dwa państwa niemieckie i cztery mocarstwa: ZSRR, USA, Wielką Brytanię i Francję.",
+    "tr": "İki Artı Dört, iki Alman devleti ve dört güç anlamına gelir: Sovyetler Birliği, ABD, Büyük Britanya ve Fransa.",
+    "zh": "“二加四”指两个德国国家和四个大国：苏联、美国、英国和法国。",
+    "ja": "「2プラス4」とは、二つのドイツ国家と四つの大国、つまりソ連、アメリカ、イギリス、フランスを意味します。",
+    "ko": "2+4는 두 독일 국가와 네 강대국, 즉 소련, 미국, 영국, 프랑스를 뜻합니다.",
+    "hi": "“टू प्लस फोर” का अर्थ दो जर्मन राज्य और चार शक्तियाँ है: सोवियत संघ, अमेरिका, ब्रिटेन और फ्रांस।",
+    "ar": "يعني اثنان زائد أربعة الدولتين الألمانيتين والقوى الأربع: الاتحاد السوفيتي والولايات المتحدة وبريطانيا وفرنسا."
   },
   "sources": [
     {
