@@ -11,17 +11,53 @@
     "title": {
       "ru": "Огненный шторм в Гамбурге",
       "de": "Feuersturm in Hamburg",
-      "en": "Firestorm in Hamburg"
+      "en": "Firestorm in Hamburg",
+      "fr": "Tempête de feu à Hambourg",
+      "es": "Tormenta de fuego en Hamburgo",
+      "it": "Tempesta di fuoco ad Amburgo",
+      "pt": "Tempestade de fogo em Hamburgo",
+      "nl": "Vuurstorm in Hamburg",
+      "pl": "Burza ogniowa w Hamburgu",
+      "tr": "Hamburg'da ateş fırtınası",
+      "zh": "汉堡火风暴",
+      "ja": "ハンブルクの火災旋風",
+      "ko": "함부르크의 화염 폭풍",
+      "hi": "हैम्बर्ग में अग्नि-तूफान",
+      "ar": "عاصفة نارية في هامبورغ"
     },
     "description": {
       "ru": "В ночь с 27 на 28 июля 1943 года массированные бомбардировки вызвали в Гамбурге огненный шторм. Это стало одним из самых разрушительных эпизодов воздушной войны над Германией.",
       "de": "In der Nacht vom 27. auf den 28. Juli 1943 loesten massive Bombardierungen in Hamburg einen Feuersturm aus. Das wurde eine der zerstoererischsten Episoden des Luftkriegs ueber Deutschland.",
-      "en": "On the night of 27-28 July 1943, massive bombing raids caused a firestorm in Hamburg. It became one of the most destructive episodes of the air war over Germany."
+      "en": "On the night of 27-28 July 1943, massive bombing raids caused a firestorm in Hamburg. It became one of the most destructive episodes of the air war over Germany.",
+      "fr": "Dans la nuit du 27 au 28 juillet 1943, des bombardements massifs provoquèrent une tempête de feu à Hambourg. Ce fut l'un des épisodes les plus destructeurs de la guerre aérienne au-dessus de l'Allemagne.",
+      "es": "En la noche del 27 al 28 de julio de 1943, bombardeos masivos provocaron una tormenta de fuego en Hamburgo. Se convirtió en uno de los episodios más destructivos de la guerra aérea sobre Alemania.",
+      "it": "Nella notte tra il 27 e il 28 luglio 1943, massicci bombardamenti provocarono una tempesta di fuoco ad Amburgo. Divenne uno degli episodi più distruttivi della guerra aerea sulla Germania.",
+      "pt": "Na noite de 27 para 28 de julho de 1943, bombardeios maciços provocaram uma tempestade de fogo em Hamburgo. Foi um dos episódios mais destrutivos da guerra aérea sobre a Alemanha.",
+      "nl": "In de nacht van 27 op 28 juli 1943 veroorzaakten massale bombardementen een vuurstorm in Hamburg. Het werd een van de meest verwoestende episodes van de luchtoorlog boven Duitsland.",
+      "pl": "W nocy z 27 na 28 lipca 1943 roku zmasowane bombardowania wywołały w Hamburgu burzę ogniową. Stało się to jednym z najbardziej niszczycielskich epizodów wojny powietrznej nad Niemcami.",
+      "tr": "27'yi 28 Temmuz 1943'e bağlayan gece yoğun bombardımanlar Hamburg'da bir ateş fırtınasına yol açtı. Bu, Almanya üzerindeki hava savaşının en yıkıcı bölümlerinden biri oldu.",
+      "zh": "1943年7月27日至28日夜间，大规模轰炸在汉堡引发火风暴。这成为德国上空空战中破坏最严重的事件之一。",
+      "ja": "1943年7月27日から28日にかけての夜、大規模な爆撃がハンブルクで火災旋風を引き起こした。これはドイツ上空の航空戦で最も破壊的な出来事の一つとなった。",
+      "ko": "1943년 7월 27일에서 28일로 넘어가는 밤, 대규모 폭격이 함부르크에 화염 폭풍을 일으켰다. 이는 독일 상공의 공중전에서 가장 파괴적인 사건 중 하나가 되었다.",
+      "hi": "27 से 28 जुलाई 1943 की रात बड़े पैमाने की बमबारी से हैम्बर्ग में अग्नि-तूफान पैदा हुआ। यह जर्मनी पर हुए हवाई युद्ध की सबसे विनाशकारी घटनाओं में से एक बना।",
+      "ar": "في ليلة 27 إلى 28 يوليو 1943 تسببت غارات قصف مكثفة في عاصفة نارية في هامبورغ. وأصبحت واحدة من أكثر حلقات الحرب الجوية فوق ألمانيا تدميرا."
     },
     "importance": {
       "ru": "Дата показывает ужас тотальной войны для мирного населения.",
       "de": "Das Datum zeigt den Schrecken des totalen Krieges fuer die Zivilbevoelkerung.",
-      "en": "The date shows the horror of total war for civilians."
+      "en": "The date shows the horror of total war for civilians.",
+      "fr": "Cette date montre l'horreur de la guerre totale pour les civils.",
+      "es": "La fecha muestra el horror de la guerra total para la población civil.",
+      "it": "La data mostra l'orrore della guerra totale per i civili.",
+      "pt": "A data mostra o horror da guerra total para os civis.",
+      "nl": "De datum laat de verschrikking van totale oorlog voor burgers zien.",
+      "pl": "Ta data pokazuje grozę wojny totalnej dla ludności cywilnej.",
+      "tr": "Bu tarih, siviller için topyekun savaşın dehşetini gösterir.",
+      "zh": "这个日期显示了总体战对平民的恐怖。",
+      "ja": "この日は、総力戦が民間人にもたらす恐怖を示している。",
+      "ko": "이 날짜는 민간인에게 총력전이 얼마나 끔찍한지를 보여 준다.",
+      "hi": "यह तारीख नागरिकों के लिए पूर्ण युद्ध की भयावहता दिखाती है।",
+      "ar": "يبين هذا التاريخ رعب الحرب الشاملة على المدنيين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Операция «Гоморра»",
           "de": "Operation Gomorrha",
-          "en": "Operation Gomorrah"
+          "en": "Operation Gomorrah",
+          "fr": "Opération Gomorrhe",
+          "es": "Operación Gomorra",
+          "it": "Operazione Gomorra",
+          "pt": "Operação Gomorra",
+          "nl": "Operatie Gomorra",
+          "pl": "Operacja Gomora",
+          "tr": "Gomorrah Operasyonu",
+          "zh": "蛾摩拉行动",
+          "ja": "ゴモラ作戦",
+          "ko": "고모라 작전",
+          "hi": "ऑपरेशन गोमोराह",
+          "ar": "عملية عمورة"
         },
         "description": {
           "ru": "Удары по Гамбургу были частью операции «Гоморра», продолжавшейся несколько дней. Город-порт получил огромные разрушения.",
           "de": "Die Angriffe auf Hamburg waren Teil der mehrtaegigen Operation Gomorrha. Die Hafenstadt wurde schwer zerstoert.",
-          "en": "The attacks on Hamburg were part of the multi-day Operation Gomorrah. The port city suffered enormous destruction."
+          "en": "The attacks on Hamburg were part of the multi-day Operation Gomorrah. The port city suffered enormous destruction.",
+          "fr": "Les attaques contre Hambourg faisaient partie de l'opération Gomorrhe, qui dura plusieurs jours. La ville portuaire subit d'énormes destructions.",
+          "es": "Los ataques contra Hamburgo formaron parte de la Operación Gomorra, que duró varios días. La ciudad portuaria sufrió enormes destrucciones.",
+          "it": "Gli attacchi su Amburgo facevano parte dell'Operazione Gomorra, durata diversi giorni. La città portuale subì enormi distruzioni.",
+          "pt": "Os ataques a Hamburgo fizeram parte da Operação Gomorra, que durou vários dias. A cidade portuária sofreu enorme destruição.",
+          "nl": "De aanvallen op Hamburg maakten deel uit van de meerdaagse Operatie Gomorra. De havenstad leed enorme verwoestingen.",
+          "pl": "Ataki na Hamburg były częścią kilkudniowej operacji Gomora. Miasto portowe doznało ogromnych zniszczeń.",
+          "tr": "Hamburg'a yönelik saldırılar, birkaç gün süren Gomorrah Operasyonu'nun parçasıydı. Liman kenti çok büyük yıkıma uğradı.",
+          "zh": "对汉堡的袭击是持续数日的“蛾摩拉行动”的一部分。这座港口城市遭受了巨大破坏。",
+          "ja": "ハンブルクへの攻撃は、数日にわたるゴモラ作戦の一部だった。港湾都市は甚大な破壊を受けた。",
+          "ko": "함부르크 공격은 며칠 동안 이어진 고모라 작전의 일부였다. 항구 도시는 엄청난 파괴를 겪었다.",
+          "hi": "हैम्बर्ग पर हमले कई दिनों तक चली ऑपरेशन गोमोराह का हिस्सा थे। बंदरगाह शहर को भारी विनाश झेलना पड़ा।",
+          "ar": "كانت الهجمات على هامبورغ جزءا من عملية عمورة التي استمرت عدة أيام. وتعرضت المدينة المينائية لدمار هائل."
         },
         "importance": {
           "ru": "Гамбургская дата дополняет историю Дрездена и показывает масштаб воздушной войны.",
           "de": "Das Hamburger Datum ergaenzt die Geschichte Dresdens und zeigt das Ausmass des Luftkriegs.",
-          "en": "The Hamburg date complements the history of Dresden and shows the scale of the air war."
+          "en": "The Hamburg date complements the history of Dresden and shows the scale of the air war.",
+          "fr": "La date de Hambourg complète l'histoire de Dresde et montre l'ampleur de la guerre aérienne.",
+          "es": "La fecha de Hamburgo complementa la historia de Dresde y muestra la escala de la guerra aérea.",
+          "it": "La data di Amburgo completa la storia di Dresda e mostra la scala della guerra aerea.",
+          "pt": "A data de Hamburgo complementa a história de Dresden e mostra a escala da guerra aérea.",
+          "nl": "De Hamburgse datum vult de geschiedenis van Dresden aan en laat de schaal van de luchtoorlog zien.",
+          "pl": "Data hamburska uzupełnia historię Drezna i pokazuje skalę wojny powietrznej.",
+          "tr": "Hamburg tarihi, Dresden'in tarihini tamamlar ve hava savaşının ölçeğini gösterir.",
+          "zh": "汉堡这一日期补充了德累斯顿的历史，并显示了空战的规模。",
+          "ja": "ハンブルクの日付はドレスデンの歴史を補い、航空戦の規模を示している。",
+          "ko": "함부르크의 이 날짜는 드레스덴의 역사를 보완하고 공중전의 규모를 보여 준다.",
+          "hi": "हैम्बर्ग की यह तारीख ड्रेसडेन के इतिहास को पूरा करती है और हवाई युद्ध के पैमाने को दिखाती है।",
+          "ar": "يكمل تاريخ هامبورغ قصة دريسدن ويظهر حجم الحرب الجوية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Название операции отсылало к библейскому городу Гоморре.",
     "de": "Der Name der Operation bezog sich auf die biblische Stadt Gomorrha.",
-    "en": "The operation's name referred to the biblical city of Gomorrah."
+    "en": "The operation's name referred to the biblical city of Gomorrah.",
+    "fr": "Le nom de l'opération faisait référence à la ville biblique de Gomorrhe.",
+    "es": "El nombre de la operación hacía referencia a la ciudad bíblica de Gomorra.",
+    "it": "Il nome dell'operazione si riferiva alla città biblica di Gomorra.",
+    "pt": "O nome da operação fazia referência à cidade bíblica de Gomorra.",
+    "nl": "De naam van de operatie verwees naar de Bijbelse stad Gomorra.",
+    "pl": "Nazwa operacji nawiązywała do biblijnego miasta Gomora.",
+    "tr": "Operasyonun adı İncil'deki Gomorrah kentine gönderme yapıyordu.",
+    "zh": "行动名称指向圣经中的蛾摩拉城。",
+    "ja": "作戦名は聖書の都市ゴモラに由来していた。",
+    "ko": "작전명은 성경 속 도시 고모라를 가리켰다.",
+    "hi": "ऑपरेशन का नाम बाइबिल के शहर गोमोराह की ओर संकेत करता था।",
+    "ar": "كان اسم العملية يشير إلى مدينة عمورة الواردة في الكتاب المقدس."
   },
   "sources": [
     {

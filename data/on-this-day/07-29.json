@@ -11,17 +11,53 @@
     "title": {
       "ru": "В США было создано NASA",
       "de": "In den USA wird die NASA gegruendet",
-      "en": "NASA is created in the United States"
+      "en": "NASA is created in the United States",
+      "fr": "La NASA est créée aux États-Unis",
+      "es": "Se crea la NASA en Estados Unidos",
+      "it": "La NASA viene creata negli Stati Uniti",
+      "pt": "A NASA é criada nos Estados Unidos",
+      "nl": "NASA wordt opgericht in de Verenigde Staten",
+      "pl": "W Stanach Zjednoczonych powstaje NASA",
+      "tr": "NASA Amerika Birleşik Devletleri'nde kurulur",
+      "zh": "NASA在美国成立",
+      "ja": "アメリカでNASAが創設される",
+      "ko": "미국에서 NASA가 창설되다",
+      "hi": "अमेरिका में NASA बनाया गया",
+      "ar": "إنشاء ناسا في الولايات المتحدة"
     },
     "description": {
       "ru": "29 июля 1958 года президент США Дуайт Эйзенхауэр подписал закон о создании NASA. Для немецкой истории это событие связано с ракетными специалистами, включая Вернера фон Брауна, чья биография соединяет нацистскую ракетную программу и американскую космическую гонку.",
       "de": "Am 29. Juli 1958 unterzeichnete US-Praesident Dwight Eisenhower das Gesetz zur Gruendung der NASA. Fuer die deutsche Geschichte ist das Ereignis mit Raketenfachleuten wie Wernher von Braun verbunden, dessen Biografie das NS-Raketenprogramm und den amerikanischen Wettlauf ins All miteinander verknuepft.",
-      "en": "On 29 July 1958, U.S. President Dwight Eisenhower signed the law creating NASA. For German history, the event is linked to rocket specialists including Wernher von Braun, whose biography connects the Nazi rocket program and the American space race."
+      "en": "On 29 July 1958, U.S. President Dwight Eisenhower signed the law creating NASA. For German history, the event is linked to rocket specialists including Wernher von Braun, whose biography connects the Nazi rocket program and the American space race.",
+      "fr": "Le 29 juillet 1958, le président américain Dwight Eisenhower signa la loi créant la NASA. Pour l'histoire allemande, l'événement est lié à des spécialistes des fusées, dont Wernher von Braun, dont la biographie relie le programme de fusées nazi et la course spatiale américaine.",
+      "es": "El 29 de julio de 1958, el presidente estadounidense Dwight Eisenhower firmó la ley que creó la NASA. Para la historia alemana, el acontecimiento está relacionado con especialistas en cohetes, incluido Wernher von Braun, cuya biografía conecta el programa nazi de cohetes y la carrera espacial estadounidense.",
+      "it": "Il 29 luglio 1958 il presidente statunitense Dwight Eisenhower firmò la legge che creava la NASA. Per la storia tedesca, l'evento è legato a specialisti dei razzi, tra cui Wernher von Braun, la cui biografia collega il programma missilistico nazista e la corsa spaziale americana.",
+      "pt": "Em 29 de julho de 1958, o presidente dos EUA Dwight Eisenhower assinou a lei que criou a NASA. Para a história alemã, o acontecimento está ligado a especialistas em foguetes, incluindo Wernher von Braun, cuja biografia conecta o programa nazista de foguetes e a corrida espacial americana.",
+      "nl": "Op 29 juli 1958 ondertekende de Amerikaanse president Dwight Eisenhower de wet waarmee NASA werd opgericht. Voor de Duitse geschiedenis is de gebeurtenis verbonden met raketspecialisten, onder wie Wernher von Braun, wiens biografie het nazistische raketprogramma en de Amerikaanse ruimtewedloop met elkaar verbindt.",
+      "pl": "29 lipca 1958 roku prezydent USA Dwight Eisenhower podpisał ustawę tworzącą NASA. Dla historii Niemiec wydarzenie to wiąże się ze specjalistami od rakiet, w tym z Wernherem von Braunem, którego biografia łączy nazistowski program rakietowy i amerykański wyścig kosmiczny.",
+      "tr": "29 Temmuz 1958'de ABD Başkanı Dwight Eisenhower NASA'yı kuran yasayı imzaladı. Alman tarihi açısından olay, biyografisi Nazi roket programını ve Amerikan uzay yarışını birbirine bağlayan Wernher von Braun dahil roket uzmanlarıyla ilişkilidir.",
+      "zh": "1958年7月29日，美国总统德怀特·艾森豪威尔签署成立NASA的法律。对德国历史而言，这一事件与包括沃纳·冯·布劳恩在内的火箭专家相关，他的传记连接了纳粹火箭计划和美国太空竞赛。",
+      "ja": "1958年7月29日、アメリカ大統領ドワイト・アイゼンハワーはNASAを創設する法律に署名した。ドイツ史にとって、この出来事はヴェルナー・フォン・ブラウンを含むロケット専門家と結びついており、彼の経歴はナチスのロケット計画とアメリカの宇宙競争をつないでいる。",
+      "ko": "1958년 7월 29일, 미국 대통령 드와이트 아이젠하워가 NASA를 창설하는 법에 서명했다. 독일 역사에서 이 사건은 베르너 폰 브라운을 포함한 로켓 전문가들과 연결되며, 그의 생애는 나치 로켓 프로그램과 미국 우주 경쟁을 이어 준다.",
+      "hi": "29 जुलाई 1958 को अमेरिकी राष्ट्रपति ड्वाइट आइज़नहावर ने NASA बनाने वाले कानून पर हस्ताक्षर किए। जर्मन इतिहास के लिए यह घटना वर्नर फॉन ब्राउन जैसे रॉकेट विशेषज्ञों से जुड़ी है, जिनकी जीवनी नाजी रॉकेट कार्यक्रम और अमेरिकी अंतरिक्ष दौड़ को जोड़ती है।",
+      "ar": "في 29 يوليو 1958 وقع الرئيس الأمريكي دوايت أيزنهاور القانون الذي أنشأ ناسا. وبالنسبة إلى التاريخ الألماني يرتبط الحدث بخبراء الصواريخ، ومنهم فيرنر فون براون، الذي تربط سيرته بين برنامج الصواريخ النازي والسباق الفضائي الأمريكي."
     },
     "importance": {
       "ru": "Дата показывает, как научные и технические знания после Второй мировой войны перешли в новую эпоху космической конкуренции.",
       "de": "Das Datum zeigt, wie wissenschaftliches und technisches Wissen nach dem Zweiten Weltkrieg in eine neue Epoche der Raumfahrtkonkurrenz ueberging.",
-      "en": "The date shows how scientific and technical knowledge after the Second World War moved into a new era of space competition."
+      "en": "The date shows how scientific and technical knowledge after the Second World War moved into a new era of space competition.",
+      "fr": "Cette date montre comment les connaissances scientifiques et techniques après la Seconde Guerre mondiale passèrent dans une nouvelle époque de concurrence spatiale.",
+      "es": "La fecha muestra cómo el conocimiento científico y técnico después de la Segunda Guerra Mundial pasó a una nueva era de competencia espacial.",
+      "it": "La data mostra come le conoscenze scientifiche e tecniche dopo la Seconda guerra mondiale entrarono in una nuova epoca di competizione spaziale.",
+      "pt": "A data mostra como o conhecimento científico e técnico após a Segunda Guerra Mundial entrou numa nova era de competição espacial.",
+      "nl": "De datum laat zien hoe wetenschappelijke en technische kennis na de Tweede Wereldoorlog een nieuw tijdperk van ruimtevaartconcurrentie binnenging.",
+      "pl": "Ta data pokazuje, jak wiedza naukowa i techniczna po II wojnie światowej weszła w nową epokę rywalizacji kosmicznej.",
+      "tr": "Bu tarih, İkinci Dünya Savaşı'ndan sonra bilimsel ve teknik bilginin uzay rekabetinde yeni bir döneme nasıl geçtiğini gösterir.",
+      "zh": "这个日期说明第二次世界大战后的科学和技术知识如何进入太空竞争的新时期。",
+      "ja": "この日は、第二次世界大戦後の科学技術知識が宇宙競争の新時代へ移っていったことを示している。",
+      "ko": "이 날짜는 제2차 세계대전 이후 과학 및 기술 지식이 우주 경쟁의 새로운 시대로 어떻게 옮겨 갔는지를 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि द्वितीय विश्व युद्ध के बाद वैज्ञानिक और तकनीकी ज्ञान अंतरिक्ष प्रतिस्पर्धा के नए युग में कैसे प्रवेश कर गया।",
+      "ar": "يبين هذا التاريخ كيف انتقلت المعرفة العلمية والتقنية بعد الحرب العالمية الثانية إلى عصر جديد من المنافسة الفضائية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Вернер фон Браун",
           "de": "Wernher von Braun",
-          "en": "Wernher von Braun"
+          "en": "Wernher von Braun",
+          "fr": "Wernher von Braun",
+          "es": "Wernher von Braun",
+          "it": "Wernher von Braun",
+          "pt": "Wernher von Braun",
+          "nl": "Wernher von Braun",
+          "pl": "Wernher von Braun",
+          "tr": "Wernher von Braun",
+          "zh": "沃纳·冯·布劳恩",
+          "ja": "ヴェルナー・フォン・ブラウン",
+          "ko": "베르너 폰 브라운",
+          "hi": "वर्नर फॉन ब्राउन",
+          "ar": "فيرنر فون براون"
         },
         "description": {
           "ru": "Фон Браун был немецким инженером-ракетчиком, работал над ракетой V-2 в нацистской Германии, а после войны оказался в США. Позднее он стал одной из ключевых фигур американской лунной программы.",
           "de": "Von Braun war ein deutscher Raketeningenieur, arbeitete im nationalsozialistischen Deutschland an der V-2 und kam nach dem Krieg in die USA. Spaeter wurde er zu einer Schluesselfigur des amerikanischen Mondprogramms.",
-          "en": "Von Braun was a German rocket engineer who worked on the V-2 in Nazi Germany and came to the United States after the war. Later he became a key figure in the American Moon program."
+          "en": "Von Braun was a German rocket engineer who worked on the V-2 in Nazi Germany and came to the United States after the war. Later he became a key figure in the American Moon program.",
+          "fr": "Von Braun était un ingénieur allemand spécialiste des fusées; il travailla sur la V-2 dans l'Allemagne nazie et arriva aux États-Unis après la guerre. Plus tard, il devint une figure clé du programme lunaire américain.",
+          "es": "Von Braun fue un ingeniero alemán de cohetes que trabajó en el V-2 en la Alemania nazi y llegó a Estados Unidos después de la guerra. Más tarde se convirtió en una figura clave del programa lunar estadounidense.",
+          "it": "Von Braun era un ingegnere missilistico tedesco che lavorò alla V-2 nella Germania nazista e arrivò negli Stati Uniti dopo la guerra. In seguito divenne una figura chiave del programma lunare americano.",
+          "pt": "Von Braun foi um engenheiro alemão de foguetes que trabalhou no V-2 na Alemanha nazista e foi para os Estados Unidos após a guerra. Mais tarde tornou-se uma figura-chave do programa lunar americano.",
+          "nl": "Von Braun was een Duitse raketingenieur die in nazi-Duitsland aan de V-2 werkte en na de oorlog naar de Verenigde Staten kwam. Later werd hij een sleutelfiguur in het Amerikaanse maanprogramma.",
+          "pl": "Von Braun był niemieckim inżynierem rakietowym, który pracował nad V-2 w nazistowskich Niemczech, a po wojnie trafił do Stanów Zjednoczonych. Później stał się jedną z kluczowych postaci amerykańskiego programu księżycowego.",
+          "tr": "Von Braun, Nazi Almanyası'nda V-2 üzerinde çalışan ve savaştan sonra Amerika Birleşik Devletleri'ne giden bir Alman roket mühendisiydi. Daha sonra Amerikan Ay programının kilit figürlerinden biri oldu.",
+          "zh": "冯·布劳恩是德国火箭工程师，曾在纳粹德国参与V-2火箭工作，战后前往美国。后来他成为美国登月计划的关键人物之一。",
+          "ja": "フォン・ブラウンはドイツのロケット技術者で、ナチス・ドイツでV-2に携わり、戦後アメリカへ渡った。後に彼はアメリカの月計画の重要人物となった。",
+          "ko": "폰 브라운은 나치 독일에서 V-2를 개발했고 전후 미국으로 간 독일 로켓 공학자였다. 나중에 그는 미국 달 프로그램의 핵심 인물이 되었다.",
+          "hi": "फॉन ब्राउन जर्मन रॉकेट इंजीनियर थे, जिन्होंने नाजी जर्मनी में V-2 पर काम किया और युद्ध के बाद अमेरिका गए। बाद में वे अमेरिकी चंद्र कार्यक्रम की प्रमुख हस्तियों में से एक बने।",
+          "ar": "كان فون براون مهندس صواريخ ألمانيًا عمل على V-2 في ألمانيا النازية ثم ذهب إلى الولايات المتحدة بعد الحرب. ولاحقا أصبح شخصية رئيسية في البرنامج الأمريكي للقمر."
         },
         "importance": {
           "ru": "Его история показывает сложную связь между инженерными достижениями, войной и моральной ответственностью.",
           "de": "Seine Geschichte zeigt die komplizierte Verbindung zwischen technischen Leistungen, Krieg und moralischer Verantwortung.",
-          "en": "His story shows the complex link between engineering achievements, war and moral responsibility."
+          "en": "His story shows the complex link between engineering achievements, war and moral responsibility.",
+          "fr": "Son histoire montre le lien complexe entre les réalisations d'ingénierie, la guerre et la responsabilité morale.",
+          "es": "Su historia muestra el vínculo complejo entre los logros de la ingeniería, la guerra y la responsabilidad moral.",
+          "it": "La sua storia mostra il legame complesso tra risultati ingegneristici, guerra e responsabilità morale.",
+          "pt": "Sua história mostra a ligação complexa entre realizações de engenharia, guerra e responsabilidade moral.",
+          "nl": "Zijn verhaal toont de complexe band tussen technische prestaties, oorlog en morele verantwoordelijkheid.",
+          "pl": "Jego historia pokazuje złożony związek między osiągnięciami inżynieryjnymi, wojną i odpowiedzialnością moralną.",
+          "tr": "Onun hikayesi mühendislik başarıları, savaş ve ahlaki sorumluluk arasındaki karmaşık bağı gösterir.",
+          "zh": "他的故事显示了工程成就、战争和道德责任之间的复杂联系。",
+          "ja": "彼の物語は、工学的成果、戦争、道徳的責任の複雑な結びつきを示している。",
+          "ko": "그의 이야기는 공학적 성취, 전쟁, 도덕적 책임 사이의 복잡한 연결을 보여 준다.",
+          "hi": "उनकी कहानी इंजीनियरिंग उपलब्धियों, युद्ध और नैतिक जिम्मेदारी के जटिल संबंध को दिखाती है।",
+          "ar": "تظهر قصته الصلة المعقدة بين الإنجازات الهندسية والحرب والمسؤولية الأخلاقية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Космическая гонка и холодная война",
           "de": "Weltraumrennen und Kalter Krieg",
-          "en": "Space race and Cold War"
+          "en": "Space race and Cold War",
+          "fr": "Course à l'espace et guerre froide",
+          "es": "Carrera espacial y Guerra Fría",
+          "it": "Corsa allo spazio e Guerra fredda",
+          "pt": "Corrida espacial e Guerra Fria",
+          "nl": "Ruimtewedloop en Koude Oorlog",
+          "pl": "Wyścig kosmiczny i zimna wojna",
+          "tr": "Uzay yarışı ve Soğuk Savaş",
+          "zh": "太空竞赛与冷战",
+          "ja": "宇宙競争と冷戦",
+          "ko": "우주 경쟁과 냉전",
+          "hi": "अंतरिक्ष दौड़ और शीत युद्ध",
+          "ar": "سباق الفضاء والحرب الباردة"
         },
         "description": {
           "ru": "NASA возникла на фоне соперничества США и СССР после запуска спутника. Разделённая Германия находилась в самом центре холодной войны, поэтому космическая гонка была частью той же глобальной системы напряжения.",
           "de": "Die NASA entstand vor dem Hintergrund der Konkurrenz zwischen den USA und der Sowjetunion nach dem Sputnik-Schock. Das geteilte Deutschland lag im Zentrum des Kalten Krieges, weshalb das Weltraumrennen Teil desselben globalen Spannungsfeldes war.",
-          "en": "NASA emerged amid U.S.-Soviet rivalry after the Sputnik shock. Divided Germany lay at the center of the Cold War, so the space race was part of the same global field of tension."
+          "en": "NASA emerged amid U.S.-Soviet rivalry after the Sputnik shock. Divided Germany lay at the center of the Cold War, so the space race was part of the same global field of tension.",
+          "fr": "La NASA naquit dans le contexte de la rivalité américano-soviétique après le choc de Spoutnik. L'Allemagne divisée se trouvait au centre de la guerre froide; la course à l'espace faisait donc partie du même champ mondial de tensions.",
+          "es": "La NASA surgió en medio de la rivalidad entre Estados Unidos y la Unión Soviética tras el impacto del Sputnik. La Alemania dividida estaba en el centro de la Guerra Fría, por lo que la carrera espacial formaba parte del mismo campo global de tensión.",
+          "it": "La NASA nacque nel contesto della rivalità tra Stati Uniti e Unione Sovietica dopo lo shock dello Sputnik. La Germania divisa si trovava al centro della Guerra fredda, quindi la corsa allo spazio era parte dello stesso campo globale di tensione.",
+          "pt": "A NASA surgiu em meio à rivalidade entre EUA e União Soviética após o choque do Sputnik. A Alemanha dividida ficava no centro da Guerra Fria, por isso a corrida espacial fazia parte do mesmo campo global de tensão.",
+          "nl": "NASA ontstond te midden van de Amerikaans-Sovjet-rivaliteit na de Sputnik-schok. Het verdeelde Duitsland lag in het centrum van de Koude Oorlog, waardoor de ruimtewedloop deel uitmaakte van hetzelfde wereldwijde spanningsveld.",
+          "pl": "NASA powstała w warunkach rywalizacji USA i ZSRR po szoku wywołanym Sputnikiem. Podzielone Niemcy znajdowały się w centrum zimnej wojny, dlatego wyścig kosmiczny był częścią tego samego globalnego pola napięć.",
+          "tr": "NASA, Sputnik şokundan sonra ABD-Sovyet rekabeti ortamında ortaya çıktı. Bölünmüş Almanya Soğuk Savaş'ın merkezindeydi; bu yüzden uzay yarışı aynı küresel gerilim alanının parçasıydı.",
+          "zh": "NASA是在“斯普特尼克冲击”后美苏竞争中出现的。分裂的德国位于冷战中心，因此太空竞赛也是同一全球紧张格局的一部分。",
+          "ja": "NASAはスプートニク・ショック後の米ソ対立の中で生まれた。分断されたドイツは冷戦の中心にあり、宇宙競争も同じ世界的緊張の一部だった。",
+          "ko": "NASA는 스푸트니크 충격 이후 미소 경쟁 속에서 등장했다. 분단된 독일은 냉전의 중심에 있었으므로 우주 경쟁도 같은 세계적 긴장 구조의 일부였다.",
+          "hi": "Sputnik के झटके के बाद अमेरिका-सोवियत प्रतिद्वंद्विता के बीच NASA उभरा। विभाजित जर्मनी शीत युद्ध के केंद्र में था, इसलिए अंतरिक्ष दौड़ उसी वैश्विक तनाव-क्षेत्र का हिस्सा थी।",
+          "ar": "نشأت ناسا وسط التنافس الأمريكي السوفيتي بعد صدمة سبوتنيك. وكانت ألمانيا المقسمة في قلب الحرب الباردة، لذلك كان سباق الفضاء جزءا من مجال التوتر العالمي نفسه."
         },
         "importance": {
           "ru": "Так видно, что космос был не только наукой, но и политикой.",
           "de": "So wird sichtbar, dass Raumfahrt nicht nur Wissenschaft, sondern auch Politik war.",
-          "en": "It shows that spaceflight was not only science, but also politics."
+          "en": "It shows that spaceflight was not only science, but also politics.",
+          "fr": "Cela montre que le vol spatial n'était pas seulement de la science, mais aussi de la politique.",
+          "es": "Muestra que los vuelos espaciales no eran solo ciencia, sino también política.",
+          "it": "Mostra che il volo spaziale non era solo scienza, ma anche politica.",
+          "pt": "Mostra que a exploração espacial não era apenas ciência, mas também política.",
+          "nl": "Het laat zien dat ruimtevaart niet alleen wetenschap was, maar ook politiek.",
+          "pl": "Pokazuje to, że loty kosmiczne były nie tylko nauką, lecz także polityką.",
+          "tr": "Bu, uzay uçuşunun yalnızca bilim değil, aynı zamanda siyaset olduğunu gösterir.",
+          "zh": "它说明航天不仅是科学，也是政治。",
+          "ja": "宇宙飛行が科学だけでなく政治でもあったことを示している。",
+          "ko": "우주 비행이 과학일 뿐 아니라 정치이기도 했음을 보여 준다.",
+          "hi": "यह दिखाता है कि अंतरिक्ष उड़ान केवल विज्ञान नहीं, राजनीति भी थी।",
+          "ar": "يوضح ذلك أن رحلات الفضاء لم تكن علما فقط، بل سياسة أيضا."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "От V-2 к Saturn V",
           "de": "Von der V-2 zur Saturn V",
-          "en": "From V-2 to Saturn V"
+          "en": "From V-2 to Saturn V",
+          "fr": "De la V-2 à Saturn V",
+          "es": "Del V-2 al Saturn V",
+          "it": "Dalla V-2 al Saturn V",
+          "pt": "Do V-2 ao Saturn V",
+          "nl": "Van V-2 naar Saturn V",
+          "pl": "Od V-2 do Saturn V",
+          "tr": "V-2'den Saturn V'e",
+          "zh": "从V-2到土星五号",
+          "ja": "V-2からサターンVへ",
+          "ko": "V-2에서 새턴 V까지",
+          "hi": "V-2 से Saturn V तक",
+          "ar": "من V-2 إلى Saturn V"
         },
         "description": {
           "ru": "Ракетная техника, созданная для войны, позднее стала частью космической программы. Это один из самых сложных примеров того, как опасное наследие может быть переиспользовано в другой сфере.",
           "de": "Raketentechnik, die fuer den Krieg entwickelt wurde, wurde spaeter Teil der Raumfahrt. Das ist eines der schwierigsten Beispiele dafuer, wie ein gefaehrliches Erbe in einem anderen Bereich weitergenutzt werden kann.",
-          "en": "Rocket technology developed for war later became part of spaceflight. It is one of the most difficult examples of how a dangerous legacy can be reused in another field."
+          "en": "Rocket technology developed for war later became part of spaceflight. It is one of the most difficult examples of how a dangerous legacy can be reused in another field.",
+          "fr": "La technologie des fusées développée pour la guerre devint plus tard une partie de l'astronautique. C'est l'un des exemples les plus difficiles de la réutilisation d'un héritage dangereux dans un autre domaine.",
+          "es": "La tecnología de cohetes desarrollada para la guerra se convirtió más tarde en parte de los vuelos espaciales. Es uno de los ejemplos más difíciles de cómo un legado peligroso puede reutilizarse en otro campo.",
+          "it": "La tecnologia missilistica sviluppata per la guerra divenne in seguito parte del volo spaziale. È uno degli esempi più difficili di come un'eredità pericolosa possa essere riutilizzata in un altro campo.",
+          "pt": "A tecnologia de foguetes desenvolvida para a guerra tornou-se mais tarde parte da exploração espacial. É um dos exemplos mais difíceis de como um legado perigoso pode ser reutilizado em outro campo.",
+          "nl": "Rakettechnologie die voor oorlog was ontwikkeld, werd later onderdeel van de ruimtevaart. Het is een van de moeilijkste voorbeelden van hoe een gevaarlijke erfenis in een ander veld kan worden hergebruikt.",
+          "pl": "Technika rakietowa rozwijana dla wojny stała się później częścią lotów kosmicznych. To jeden z najtrudniejszych przykładów tego, jak niebezpieczne dziedzictwo może zostać wykorzystane w innej dziedzinie.",
+          "tr": "Savaş için geliştirilen roket teknolojisi daha sonra uzay uçuşunun parçası oldu. Bu, tehlikeli bir mirasın başka bir alanda nasıl yeniden kullanılabildiğinin en zor örneklerinden biridir.",
+          "zh": "为战争而发展的火箭技术后来成为航天的一部分。这是危险遗产如何在另一个领域被重新使用的最复杂例子之一。",
+          "ja": "戦争のために開発されたロケット技術は、後に宇宙飛行の一部となった。危険な遺産が別の分野で再利用されうることを示す、最も難しい例の一つである。",
+          "ko": "전쟁을 위해 개발된 로켓 기술은 나중에 우주 비행의 일부가 되었다. 이는 위험한 유산이 다른 분야에서 재사용될 수 있음을 보여 주는 가장 어려운 사례 중 하나이다.",
+          "hi": "युद्ध के लिए विकसित रॉकेट तकनीक बाद में अंतरिक्ष उड़ान का हिस्सा बनी। यह खतरनाक विरासत को दूसरे क्षेत्र में फिर से इस्तेमाल करने के सबसे कठिन उदाहरणों में से एक है।",
+          "ar": "أصبحت تقنية الصواريخ التي طُورت للحرب لاحقا جزءا من رحلات الفضاء. وهذا أحد أصعب الأمثلة على كيفية إعادة استخدام إرث خطير في مجال آخر."
         },
         "importance": {
           "ru": "Такой факт интересен, но требует честного разговора о цене технического прогресса.",
           "de": "Ein solcher Fakt ist interessant, verlangt aber ein ehrliches Gespraech ueber den Preis technischen Fortschritts.",
-          "en": "Such a fact is interesting, but it requires an honest conversation about the price of technological progress."
+          "en": "Such a fact is interesting, but it requires an honest conversation about the price of technological progress.",
+          "fr": "Un tel fait est intéressant, mais il exige une discussion honnête sur le prix du progrès technique.",
+          "es": "Un hecho así es interesante, pero exige una conversación honesta sobre el precio del progreso técnico.",
+          "it": "Un fatto del genere è interessante, ma richiede una conversazione onesta sul prezzo del progresso tecnico.",
+          "pt": "Um fato assim é interessante, mas exige uma conversa honesta sobre o preço do progresso técnico.",
+          "nl": "Zo'n feit is interessant, maar vraagt om een eerlijk gesprek over de prijs van technische vooruitgang.",
+          "pl": "Taki fakt jest ciekawy, ale wymaga szczerej rozmowy o cenie postępu technicznego.",
+          "tr": "Böyle bir olgu ilginçtir, ancak teknik ilerlemenin bedeli hakkında dürüst bir konuşma gerektirir.",
+          "zh": "这样的事实很有意思，但也需要诚实讨论技术进步的代价。",
+          "ja": "このような事実は興味深いが、技術進歩の代償について正直に話し合うことを必要とする。",
+          "ko": "이런 사실은 흥미롭지만 기술 발전의 대가에 대한 솔직한 대화를 요구한다.",
+          "hi": "ऐसा तथ्य रोचक है, लेकिन तकनीकी प्रगति की कीमत पर ईमानदार बातचीत मांगता है।",
+          "ar": "مثل هذه الحقيقة مثيرة للاهتمام، لكنها تتطلب حديثا صادقا عن ثمن التقدم التقني."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Название NASA означает National Aeronautics and Space Administration.",
     "de": "NASA steht fuer National Aeronautics and Space Administration.",
-    "en": "NASA stands for National Aeronautics and Space Administration."
+    "en": "NASA stands for National Aeronautics and Space Administration.",
+    "fr": "NASA signifie National Aeronautics and Space Administration.",
+    "es": "NASA significa National Aeronautics and Space Administration.",
+    "it": "NASA significa National Aeronautics and Space Administration.",
+    "pt": "NASA significa National Aeronautics and Space Administration.",
+    "nl": "NASA staat voor National Aeronautics and Space Administration.",
+    "pl": "NASA oznacza National Aeronautics and Space Administration.",
+    "tr": "NASA, National Aeronautics and Space Administration ifadesinin kısaltmasıdır.",
+    "zh": "NASA是National Aeronautics and Space Administration的缩写。",
+    "ja": "NASAはNational Aeronautics and Space Administrationの略である。",
+    "ko": "NASA는 National Aeronautics and Space Administration의 약자이다.",
+    "hi": "NASA का अर्थ National Aeronautics and Space Administration है।",
+    "ar": "يرمز اسم NASA إلى National Aeronautics and Space Administration."
   },
   "sources": [
     {

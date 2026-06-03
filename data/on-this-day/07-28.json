@@ -11,17 +11,53 @@
     "title": {
       "ru": "Умер Иоганн Себастьян Бах",
       "de": "Johann Sebastian Bach stirbt",
-      "en": "Johann Sebastian Bach dies"
+      "en": "Johann Sebastian Bach dies",
+      "fr": "Johann Sebastian Bach meurt",
+      "es": "Muere Johann Sebastian Bach",
+      "it": "Muore Johann Sebastian Bach",
+      "pt": "Morre Johann Sebastian Bach",
+      "nl": "Johann Sebastian Bach overlijdt",
+      "pl": "Umiera Johann Sebastian Bach",
+      "tr": "Johann Sebastian Bach ölür",
+      "zh": "约翰·塞巴斯蒂安·巴赫去世",
+      "ja": "ヨハン・ゼバスティアン・バッハが死去",
+      "ko": "요한 제바스티안 바흐가 사망하다",
+      "hi": "योहान सेबास्टियन बाख का निधन हुआ",
+      "ar": "وفاة يوهان سباستيان باخ"
     },
     "description": {
       "ru": "28 июля 1750 года в Лейпциге умер Иоганн Себастьян Бах. При жизни он был известен прежде всего как органист и церковный музыкант, а мировая слава пришла к его музыке позже.",
       "de": "Am 28. Juli 1750 starb Johann Sebastian Bach in Leipzig. Zu Lebzeiten war er vor allem als Organist und Kirchenmusiker bekannt; der Weltruhm seiner Musik kam spaeter.",
-      "en": "On 28 July 1750, Johann Sebastian Bach died in Leipzig. During his lifetime he was known mainly as an organist and church musician; his music's worldwide fame came later."
+      "en": "On 28 July 1750, Johann Sebastian Bach died in Leipzig. During his lifetime he was known mainly as an organist and church musician; his music's worldwide fame came later.",
+      "fr": "Le 28 juillet 1750, Johann Sebastian Bach mourut à Leipzig. De son vivant, il était surtout connu comme organiste et musicien d'église; la renommée mondiale de sa musique vint plus tard.",
+      "es": "El 28 de julio de 1750 murió Johann Sebastian Bach en Leipzig. En vida fue conocido sobre todo como organista y músico de iglesia; la fama mundial de su música llegó más tarde.",
+      "it": "Il 28 luglio 1750 Johann Sebastian Bach morì a Lipsia. Durante la sua vita era conosciuto soprattutto come organista e musicista di chiesa; la fama mondiale della sua musica arrivò più tardi.",
+      "pt": "Em 28 de julho de 1750, Johann Sebastian Bach morreu em Leipzig. Em vida, era conhecido principalmente como organista e músico de igreja; a fama mundial de sua música veio depois.",
+      "nl": "Op 28 juli 1750 stierf Johann Sebastian Bach in Leipzig. Tijdens zijn leven was hij vooral bekend als organist en kerkmusicus; de wereldfaam van zijn muziek kwam later.",
+      "pl": "28 lipca 1750 roku Johann Sebastian Bach zmarł w Lipsku. Za życia był znany przede wszystkim jako organista i muzyk kościelny; światowa sława jego muzyki przyszła później.",
+      "tr": "28 Temmuz 1750'de Johann Sebastian Bach Leipzig'de öldü. Yaşamı boyunca daha çok orgcu ve kilise müzisyeni olarak tanınıyordu; müziğinin dünya çapındaki ünü daha sonra geldi.",
+      "zh": "1750年7月28日，约翰·塞巴斯蒂安·巴赫在莱比锡去世。生前他主要以管风琴家和教堂音乐家闻名；他的音乐后来才获得世界声誉。",
+      "ja": "1750年7月28日、ヨハン・ゼバスティアン・バッハはライプツィヒで亡くなった。生前は主にオルガニスト、教会音楽家として知られており、彼の音楽が世界的名声を得たのは後のことだった。",
+      "ko": "1750년 7월 28일, 요한 제바스티안 바흐가 라이프치히에서 사망했다. 생전에는 주로 오르간 연주자와 교회 음악가로 알려졌고, 그의 음악이 세계적 명성을 얻은 것은 나중의 일이었다.",
+      "hi": "28 जुलाई 1750 को योहान सेबास्टियन बाख का निधन लाइपज़िग में हुआ। अपने जीवनकाल में वे मुख्यतः ऑर्गन वादक और चर्च संगीतकार के रूप में जाने जाते थे; उनकी संगीत की विश्वव्यापी प्रसिद्धि बाद में आई।",
+      "ar": "في 28 يوليو 1750 توفي يوهان سباستيان باخ في لايبزيغ. في حياته كان معروفا أساسا كعازف أرغن وموسيقي كنيسة؛ أما الشهرة العالمية لموسيقاه فجاءت لاحقا."
     },
     "importance": {
       "ru": "Бах стал одной из центральных фигур европейской музыки, а Лейпциг навсегда связан с его наследием.",
       "de": "Bach wurde zu einer zentralen Figur der europaeischen Musik, und Leipzig bleibt dauerhaft mit seinem Erbe verbunden.",
-      "en": "Bach became one of the central figures of European music, and Leipzig remains permanently linked with his legacy."
+      "en": "Bach became one of the central figures of European music, and Leipzig remains permanently linked with his legacy.",
+      "fr": "Bach devint l'une des figures centrales de la musique européenne, et Leipzig reste durablement liée à son héritage.",
+      "es": "Bach se convirtió en una de las figuras centrales de la música europea, y Leipzig permanece ligada a su legado.",
+      "it": "Bach divenne una delle figure centrali della musica europea, e Lipsia rimane legata in modo permanente alla sua eredità.",
+      "pt": "Bach tornou-se uma das figuras centrais da música europeia, e Leipzig permanece ligada ao seu legado.",
+      "nl": "Bach werd een van de centrale figuren van de Europese muziek, en Leipzig blijft blijvend met zijn nalatenschap verbonden.",
+      "pl": "Bach stał się jedną z centralnych postaci muzyki europejskiej, a Lipsk pozostaje trwale związany z jego dziedzictwem.",
+      "tr": "Bach Avrupa müziğinin merkezi figürlerinden biri oldu ve Leipzig onun mirasıyla kalıcı olarak bağlantılı kaldı.",
+      "zh": "巴赫成为欧洲音乐的核心人物之一，莱比锡也永远与他的遗产相连。",
+      "ja": "バッハはヨーロッパ音楽の中心的人物の一人となり、ライプツィヒは彼の遺産と永続的に結びついている。",
+      "ko": "바흐는 유럽 음악의 중심 인물 중 하나가 되었고, 라이프치히는 그의 유산과 영구히 연결되어 있다.",
+      "hi": "बाख यूरोपीय संगीत की केंद्रीय हस्तियों में से एक बने, और लाइपज़िग उनकी विरासत से स्थायी रूप से जुड़ा रहा।",
+      "ar": "أصبح باخ أحد الشخصيات المركزية في الموسيقى الأوروبية، وظلت لايبزيغ مرتبطة دائما بإرثه."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Возвращение Баха в концертную жизнь",
           "de": "Bachs Rueckkehr ins Konzertleben",
-          "en": "Bach returns to concert life"
+          "en": "Bach returns to concert life",
+          "fr": "Bach revient à la vie de concert",
+          "es": "Bach vuelve a la vida de concierto",
+          "it": "Bach torna alla vita concertistica",
+          "pt": "Bach retorna à vida de concertos",
+          "nl": "Bach keert terug in het concertleven",
+          "pl": "Bach wraca do życia koncertowego",
+          "tr": "Bach konser yaşamına döner",
+          "zh": "巴赫重返音乐会生活",
+          "ja": "バッハが演奏会の世界に戻る",
+          "ko": "바흐가 콘서트 무대로 돌아오다",
+          "hi": "बाख फिर से संगीत-जीवन में लौटे",
+          "ar": "عودة باخ إلى الحياة الموسيقية"
         },
         "description": {
           "ru": "В XIX веке интерес к Баху резко вырос, особенно после исполнения «Страстей по Матфею» под руководством Феликса Мендельсона. Музыка, которая казалась старомодной, стала классикой.",
           "de": "Im 19. Jahrhundert wuchs das Interesse an Bach stark, besonders nach der Auffuehrung der Matthaeus-Passion unter Felix Mendelssohn. Musik, die altmodisch gewirkt hatte, wurde klassisch.",
-          "en": "In the 19th century, interest in Bach grew sharply, especially after Felix Mendelssohn's performance of the St Matthew Passion. Music that had seemed old-fashioned became classic."
+          "en": "In the 19th century, interest in Bach grew sharply, especially after Felix Mendelssohn's performance of the St Matthew Passion. Music that had seemed old-fashioned became classic.",
+          "fr": "Au XIXe siècle, l'intérêt pour Bach augmenta fortement, surtout après l'exécution de la Passion selon saint Matthieu sous la direction de Felix Mendelssohn. Une musique qui avait paru démodée devint classique.",
+          "es": "En el siglo XIX, el interés por Bach creció con fuerza, especialmente tras la interpretación de la Pasión según San Mateo dirigida por Felix Mendelssohn. Una música que parecía anticuada se convirtió en clásica.",
+          "it": "Nel XIX secolo l'interesse per Bach crebbe fortemente, soprattutto dopo l'esecuzione della Passione secondo Matteo diretta da Felix Mendelssohn. Una musica che era sembrata antiquata divenne classica.",
+          "pt": "No século XIX, o interesse por Bach cresceu muito, especialmente após a apresentação da Paixão segundo São Mateus sob direção de Felix Mendelssohn. Uma música que parecia antiquada tornou-se clássica.",
+          "nl": "In de negentiende eeuw groeide de belangstelling voor Bach sterk, vooral na de uitvoering van de Matthäus-Passion onder leiding van Felix Mendelssohn. Muziek die ouderwets had geleken, werd klassiek.",
+          "pl": "W XIX wieku zainteresowanie Bachem gwałtownie wzrosło, zwłaszcza po wykonaniu Pasji według św. Mateusza pod dyrekcją Felixa Mendelssohna. Muzyka, która wydawała się staromodna, stała się klasyką.",
+          "tr": "19. yüzyılda Bach'a ilgi, özellikle Felix Mendelssohn yönetimindeki Aziz Matta Pasyonu icrasından sonra hızla arttı. Eski moda görünen müzik klasik hale geldi.",
+          "zh": "19世纪，人们对巴赫的兴趣急剧增长，尤其是在费利克斯·门德尔松指挥演出《马太受难曲》之后。曾显得过时的音乐成为经典。",
+          "ja": "19世紀、特にフェリックス・メンデルスゾーンによる『マタイ受難曲』の演奏後、バッハへの関心は急速に高まった。古風に見えていた音楽が古典となった。",
+          "ko": "19세기에 바흐에 대한 관심은, 특히 펠릭스 멘델스존의 마태 수난곡 연주 이후 크게 높아졌다. 낡아 보였던 음악이 고전이 되었다.",
+          "hi": "उन्नीसवीं सदी में बाख में रुचि बहुत बढ़ी, खासकर फेलिक्स मेंडेल्सोन के नेतृत्व में St Matthew Passion के प्रदर्शन के बाद। जो संगीत पुराना लगता था, वह क्लासिक बन गया।",
+          "ar": "في القرن التاسع عشر ازداد الاهتمام بباخ بقوة، ولا سيما بعد أداء آلام القديس متى بقيادة فيليكس مندلسون. وأصبحت موسيقى بدت قديمة الطراز موسيقى كلاسيكية."
         },
         "importance": {
           "ru": "Это показывает, что культурная слава иногда появляется через десятилетия после смерти автора.",
           "de": "Das zeigt, dass kultureller Ruhm manchmal erst Jahrzehnte nach dem Tod eines Autors entsteht.",
-          "en": "It shows that cultural fame sometimes emerges decades after an artist's death."
+          "en": "It shows that cultural fame sometimes emerges decades after an artist's death.",
+          "fr": "Cela montre que la gloire culturelle apparaît parfois des décennies après la mort d'un artiste.",
+          "es": "Muestra que la fama cultural a veces surge décadas después de la muerte de un artista.",
+          "it": "Mostra che la fama culturale a volte emerge decenni dopo la morte di un artista.",
+          "pt": "Mostra que a fama cultural às vezes surge décadas após a morte de um artista.",
+          "nl": "Het laat zien dat culturele roem soms pas decennia na de dood van een kunstenaar ontstaat.",
+          "pl": "Pokazuje to, że sława kulturowa czasem pojawia się dopiero dziesięciolecia po śmierci artysty.",
+          "tr": "Bu, kültürel ünün bazen bir sanatçının ölümünden onlarca yıl sonra ortaya çıktığını gösterir.",
+          "zh": "它说明文化声誉有时会在艺术家去世几十年后才出现。",
+          "ja": "文化的名声が、芸術家の死後何十年も経ってから現れることがあると示している。",
+          "ko": "문화적 명성이 예술가의 사후 수십 년이 지나서야 나타나기도 함을 보여 준다.",
+          "hi": "यह दिखाता है कि सांस्कृतिक प्रसिद्धि कभी-कभी कलाकार की मृत्यु के दशकों बाद उभरती है।",
+          "ar": "يوضح ذلك أن الشهرة الثقافية تظهر أحيانا بعد عقود من وفاة الفنان."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Могила Баха находится в церкви Святого Фомы в Лейпциге.",
     "de": "Bachs Grab befindet sich in der Thomaskirche in Leipzig.",
-    "en": "Bach's grave is in St Thomas Church in Leipzig."
+    "en": "Bach's grave is in St Thomas Church in Leipzig.",
+    "fr": "La tombe de Bach se trouve dans l'église Saint-Thomas à Leipzig.",
+    "es": "La tumba de Bach está en la iglesia de Santo Tomás en Leipzig.",
+    "it": "La tomba di Bach si trova nella chiesa di San Tommaso a Lipsia.",
+    "pt": "O túmulo de Bach fica na Igreja de São Tomás em Leipzig.",
+    "nl": "Bachs graf bevindt zich in de Thomaskirche in Leipzig.",
+    "pl": "Grób Bacha znajduje się w kościele św. Tomasza w Lipsku.",
+    "tr": "Bach'ın mezarı Leipzig'deki Aziz Thomas Kilisesi'ndedir.",
+    "zh": "巴赫的墓位于莱比锡圣托马斯教堂。",
+    "ja": "バッハの墓はライプツィヒの聖トーマス教会にある。",
+    "ko": "바흐의 무덤은 라이프치히의 성 토마스 교회에 있다.",
+    "hi": "बाख की कब्र लाइपज़िग के सेंट थॉमस चर्च में है।",
+    "ar": "يقع قبر باخ في كنيسة القديس توما في لايبزيغ."
   },
   "sources": [
     {
