@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начался Берлинский воздушный мост",
       "de": "Die Berliner Luftbruecke beginnt",
-      "en": "The Berlin Airlift begins"
+      "en": "The Berlin Airlift begins",
+      "fr": "Le pont aerien de Berlin commence",
+      "es": "Comienza el puente aereo de Berlin",
+      "it": "Inizia il ponte aereo di Berlino",
+      "pt": "Comeca a Ponte Aerea de Berlim",
+      "nl": "De Berlijnse luchtbrug begint",
+      "pl": "Rozpoczyna sie most powietrzny do Berlina",
+      "tr": "Berlin Hava Koprusu baslar",
+      "zh": "柏林空运开始",
+      "ja": "ベルリン空輸が始まる",
+      "ko": "베를린 공수작전이 시작되다",
+      "hi": "बर्लिन एयरलिफ्ट शुरू हुई",
+      "ar": "بدء الجسر الجوي الى برلين"
     },
     "description": {
       "ru": "26 июня 1948 года западные союзники начали доставлять грузы в Западный Берлин по воздуху после советской блокады. Самолёты привозили продукты, уголь и лекарства.",
       "de": "Am 26. Juni 1948 begannen die Westalliierten, West-Berlin nach der sowjetischen Blockade aus der Luft zu versorgen. Flugzeuge brachten Lebensmittel, Kohle und Medikamente.",
-      "en": "On 26 June 1948, the Western Allies began supplying West Berlin by air after the Soviet blockade. Aircraft carried food, coal and medicine."
+      "en": "On 26 June 1948, the Western Allies began supplying West Berlin by air after the Soviet blockade. Aircraft carried food, coal and medicine.",
+      "fr": "Le 26 juin 1948, les Allies occidentaux commencerent a ravitailler Berlin-Ouest par les airs apres le blocus sovietique. Les avions apportaient nourriture, charbon et medicaments.",
+      "es": "El 26 de junio de 1948, los aliados occidentales comenzaron a abastecer Berlin Occidental por aire tras el bloqueo sovietico. Los aviones llevaban alimentos, carbon y medicinas.",
+      "it": "Il 26 giugno 1948 gli Alleati occidentali iniziarono a rifornire Berlino Ovest per via aerea dopo il blocco sovietico. Gli aerei trasportavano cibo, carbone e medicinali.",
+      "pt": "Em 26 de junho de 1948, os Aliados ocidentais comecaram a abastecer Berlim Ocidental pelo ar depois do bloqueio sovietico. Avioes levavam alimentos, carvao e medicamentos.",
+      "nl": "Op 26 juni 1948 begonnen de westerse geallieerden West-Berlijn na de Sovjetblokkade via de lucht te bevoorraden. Vliegtuigen brachten voedsel, kolen en medicijnen.",
+      "pl": "26 czerwca 1948 roku zachodni alianci zaczeli zaopatrywac Berlin Zachodni droga powietrzna po radzieckiej blokadzie. Samoloty przywozily zywnosc, wegiel i lekarstwa.",
+      "tr": "26 Haziran 1948'de Bati Muttefikleri, Sovyet ablukasindan sonra Bati Berlin'i havadan ikmal etmeye basladi. Ucaklar yiyecek, komur ve ilac tasiyordu.",
+      "zh": "1948年6月26日，西方盟国在苏联封锁后开始通过空运向西柏林运送物资。飞机运来食品、煤炭和药品。",
+      "ja": "1948年6月26日、西側連合国はソ連の封鎖後、西ベルリンへの空路での補給を始めました。航空機は食料、石炭、医薬品を運びました。",
+      "ko": "1948년 6월 26일 서방 연합국은 소련 봉쇄 이후 서베를린에 공중 보급을 시작했습니다. 항공기는 식량, 석탄, 의약품을 운반했습니다.",
+      "hi": "26 जून 1948 को पश्चिमी मित्र राष्ट्रों ने सोवियत नाकाबंदी के बाद पश्चिम बर्लिन को हवाई मार्ग से आपूर्ति शुरू की। विमान भोजन, कोयला और दवाइयां लाते थे।",
+      "ar": "في 26 يونيو 1948 بدأ الحلفاء الغربيون تزويد برلين الغربية جوا بعد الحصار السوفيتي. حملت الطائرات الطعام والفحم والادوية."
     },
     "importance": {
       "ru": "Воздушный мост стал одним из первых крупных кризисов холодной войны и символом поддержки Западного Берлина.",
       "de": "Die Luftbruecke wurde zu einer der ersten grossen Krisen des Kalten Krieges und zum Symbol der Unterstuetzung fuer West-Berlin.",
-      "en": "The airlift became one of the first major Cold War crises and a symbol of support for West Berlin."
+      "en": "The airlift became one of the first major Cold War crises and a symbol of support for West Berlin.",
+      "fr": "Le pont aerien devint l'une des premieres grandes crises de la guerre froide et un symbole du soutien a Berlin-Ouest.",
+      "es": "El puente aereo se convirtio en una de las primeras grandes crisis de la Guerra Fria y en simbolo de apoyo a Berlin Occidental.",
+      "it": "Il ponte aereo divenne una delle prime grandi crisi della Guerra fredda e un simbolo del sostegno a Berlino Ovest.",
+      "pt": "A ponte aerea tornou-se uma das primeiras grandes crises da Guerra Fria e simbolo de apoio a Berlim Ocidental.",
+      "nl": "De luchtbrug werd een van de eerste grote crises van de Koude Oorlog en een symbool van steun voor West-Berlijn.",
+      "pl": "Most powietrzny stal sie jednym z pierwszych wielkich kryzysow zimnej wojny i symbolem wsparcia dla Berlina Zachodniego.",
+      "tr": "Hava koprusu Soguk Savas'in ilk buyuk krizlerinden biri ve Bati Berlin'e destegin simgesi oldu.",
+      "zh": "空运成为冷战最早的重大危机之一，也是支持西柏林的象征。",
+      "ja": "空輸は冷戦初期の大きな危機の一つとなり、西ベルリン支援の象徴となりました。",
+      "ko": "공수작전은 냉전 초기의 주요 위기 중 하나이자 서베를린 지원의 상징이 되었습니다.",
+      "hi": "एयरलिफ्ट शीत युद्ध के पहले बड़े संकटों में से एक और पश्चिम बर्लिन के समर्थन का प्रतीक बनी।",
+      "ar": "اصبح الجسر الجوي من اولى الازمات الكبرى في الحرب الباردة ورمزا لدعم برلين الغربية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Изюмные бомбардировщики»",
           "de": "Rosinenbomber",
-          "en": "Candy bombers"
+          "en": "Candy bombers",
+          "fr": "Les bombardiers aux friandises",
+          "es": "Bombarderos de dulces",
+          "it": "Bombardieri delle caramelle",
+          "pt": "Bombardeiros de doces",
+          "nl": "Snoepbommenwerpers",
+          "pl": "Bombowce z cukierkami",
+          "tr": "Seker bombardiman ucaklari",
+          "zh": "糖果轰炸机",
+          "ja": "キャンディ爆撃機",
+          "ko": "사탕 폭격기",
+          "hi": "मिठाई बमवर्षक",
+          "ar": "قاذفات الحلوى"
         },
         "description": {
           "ru": "Часть самолётов получила в Германии прозвище «изюмные бомбардировщики». Особенно запомнились маленькие парашюты со сладостями для берлинских детей.",
           "de": "Einige Flugzeuge wurden in Deutschland Rosinenbomber genannt. Besonders in Erinnerung blieben kleine Fallschirme mit Suessigkeiten fuer Berliner Kinder.",
-          "en": "Some aircraft became known in Germany as raisin bombers. Small parachutes carrying sweets for Berlin children became especially memorable."
+          "en": "Some aircraft became known in Germany as raisin bombers. Small parachutes carrying sweets for Berlin children became especially memorable.",
+          "fr": "Certains avions furent appeles en Allemagne bombardiers aux raisins secs. Les petits parachutes portant des friandises pour les enfants berlinois resterent particulierement dans les memoires.",
+          "es": "Algunos aviones fueron conocidos en Alemania como bombarderos de pasas. Quedaron especialmente en la memoria los pequenos paracaidas con dulces para los ninos berlineses.",
+          "it": "Alcuni aerei furono chiamati in Germania bombardieri dell'uvetta. Rimasero particolarmente memorabili i piccoli paracadute con dolci per i bambini berlinesi.",
+          "pt": "Alguns avioes ficaram conhecidos na Alemanha como bombardeiros de passas. Pequenos paraquedas com doces para criancas berlinenses ficaram especialmente na memoria.",
+          "nl": "Sommige vliegtuigen werden in Duitsland rozijnenbommenwerpers genoemd. Kleine parachutes met snoep voor Berlijnse kinderen bleven bijzonder in herinnering.",
+          "pl": "Niektore samoloty nazwano w Niemczech bombowcami rodzynkowymi. Szczegolnie zapamietano male spadochrony ze slodyczami dla berlinskich dzieci.",
+          "tr": "Bazi ucaklar Almanya'da kuru uzum bombardiman ucaklari olarak anildi. Berlinli cocuklar icin tatlilar tasiyan kucuk parasutler ozellikle hafizalarda kaldi.",
+          "zh": "一些飞机在德国被称为“葡萄干轰炸机”。给柏林儿童投下糖果的小降落伞尤其令人难忘。",
+          "ja": "一部の航空機はドイツで「レーズン爆撃機」と呼ばれました。ベルリンの子どもたちにお菓子を届ける小さなパラシュートが特に記憶に残りました。",
+          "ko": "일부 항공기는 독일에서 건포도 폭격기로 알려졌습니다. 베를린 아이들을 위한 과자를 실은 작은 낙하산이 특히 기억에 남았습니다.",
+          "hi": "कुछ विमानों को जर्मनी में 'किशमिश बमवर्षक' कहा गया। बर्लिन के बच्चों के लिए मिठाइयां लाने वाले छोटे पैराशूट विशेष रूप से यादगार रहे।",
+          "ar": "اصبحت بعض الطائرات معروفة في المانيا باسم قاذفات الزبيب. وبقيت المظلات الصغيرة التي تحمل الحلوى لاطفال برلين في الذاكرة بشكل خاص."
         },
         "importance": {
           "ru": "Это необычная человеческая деталь внутри большого политического кризиса.",
           "de": "Das ist ein ungewoehnlich menschliches Detail in einer grossen politischen Krise.",
-          "en": "It is an unusually human detail within a major political crisis."
+          "en": "It is an unusually human detail within a major political crisis.",
+          "fr": "C'est un detail humain inhabituel au sein d'une grande crise politique.",
+          "es": "Es un detalle humano poco comun dentro de una gran crisis politica.",
+          "it": "E un dettaglio umano insolito dentro una grande crisi politica.",
+          "pt": "E um detalhe humano incomum dentro de uma grande crise politica.",
+          "nl": "Het is een ongewoon menselijk detail binnen een grote politieke crisis.",
+          "pl": "To niezwykle ludzki szczegol wewnatrz wielkiego kryzysu politycznego.",
+          "tr": "Bu, buyuk bir siyasi krizin icinde alisilmadik derecede insani bir ayrintidir.",
+          "zh": "这是重大政治危机中一个格外有人情味的细节。",
+          "ja": "これは大きな政治危機の中にある、珍しく人間味のある細部です。",
+          "ko": "이는 큰 정치 위기 속의 매우 인간적인 세부 사항입니다.",
+          "hi": "यह बड़े राजनीतिक संकट के भीतर असामान्य रूप से मानवीय विवरण है।",
+          "ar": "انه تفصيل انساني غير معتاد داخل ازمة سياسية كبرى."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Берлинский воздушный мост продолжался больше года и стал огромной логистической операцией.",
     "de": "Die Berliner Luftbruecke dauerte mehr als ein Jahr und wurde zu einer riesigen logistischen Operation.",
-    "en": "The Berlin Airlift lasted more than a year and became a huge logistical operation."
+    "en": "The Berlin Airlift lasted more than a year and became a huge logistical operation.",
+    "fr": "Le pont aerien de Berlin dura plus d'un an et devint une enorme operation logistique.",
+    "es": "El puente aereo de Berlin duro mas de un ano y se convirtio en una enorme operacion logistica.",
+    "it": "Il ponte aereo di Berlino duro piu di un anno e divenne un'enorme operazione logistica.",
+    "pt": "A Ponte Aerea de Berlim durou mais de um ano e tornou-se uma enorme operacao logistica.",
+    "nl": "De Berlijnse luchtbrug duurde meer dan een jaar en werd een enorme logistieke operatie.",
+    "pl": "Most powietrzny do Berlina trwal ponad rok i stal sie ogromna operacja logistyczna.",
+    "tr": "Berlin Hava Koprusu bir yildan fazla surdu ve devasa bir lojistik operasyona donustu.",
+    "zh": "柏林空运持续了一年多，成为一项巨大的后勤行动。",
+    "ja": "ベルリン空輸は1年以上続き、巨大な物流作戦となりました。",
+    "ko": "베를린 공수작전은 1년 넘게 지속되었고 거대한 물류 작전이 되었습니다.",
+    "hi": "बर्लिन एयरलिफ्ट एक वर्ष से अधिक चली और विशाल रसद अभियान बन गई।",
+    "ar": "استمر الجسر الجوي الى برلين اكثر من عام واصبح عملية لوجستية ضخمة."
   },
   "sources": [
     {
