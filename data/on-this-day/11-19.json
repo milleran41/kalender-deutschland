@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началась операция «Уран» под Сталинградом",
       "de": "Operation Uranus beginnt bei Stalingrad",
-      "en": "Operation Uranus begins at Stalingrad"
+      "en": "Operation Uranus begins at Stalingrad",
+      "fr": "L'operation Uranus commence a Stalingrad",
+      "es": "Comienza la operacion Urano en Stalingrado",
+      "it": "Inizia l'operazione Urano a Stalingrado",
+      "pt": "Comeca a Operacao Urano em Stalingrado",
+      "nl": "Operatie Uranus begint bij Stalingrad",
+      "pl": "Rozpoczela sie operacja Uran pod Stalingradem",
+      "tr": "Stalingrad'da Uranus Harekati basliyor",
+      "zh": "斯大林格勒附近“天王星行动”开始",
+      "ja": "スターリングラードでウラヌス作戦が始まる",
+      "ko": "스탈린그라드에서 천왕성 작전이 시작되다",
+      "hi": "स्टालिनग्राद में ऑपरेशन यूरेनस शुरू हुआ",
+      "ar": "بدء عملية أورانوس عند ستالينغراد"
     },
     "description": {
       "ru": "19 ноября 1942 года Красная армия начала операцию «Уран», контрнаступление под Сталинградом. Оно привело к окружению немецкой 6-й армии и стало одним из переломных моментов Второй мировой войны.",
       "de": "Am 19. November 1942 begann die Rote Armee die Operation Uranus, die Gegenoffensive bei Stalingrad. Sie fuehrte zur Einkesselung der deutschen 6. Armee und wurde zu einem Wendepunkt des Zweiten Weltkriegs.",
-      "en": "On 19 November 1942, the Red Army launched Operation Uranus, the counteroffensive at Stalingrad. It led to the encirclement of the German Sixth Army and became one of the turning points of the Second World War."
+      "en": "On 19 November 1942, the Red Army launched Operation Uranus, the counteroffensive at Stalingrad. It led to the encirclement of the German Sixth Army and became one of the turning points of the Second World War.",
+      "fr": "Le 19 novembre 1942, l'Armee rouge lanca l'operation Uranus, la contre-offensive de Stalingrad. Elle mena a l'encerclement de la 6e armee allemande et devint l'un des tournants de la Seconde Guerre mondiale.",
+      "es": "El 19 de noviembre de 1942, el Ejercito Rojo lanzo la operacion Urano, la contraofensiva de Stalingrado. Condujo al cerco del Sexto Ejercito aleman y se convirtio en uno de los puntos de inflexion de la Segunda Guerra Mundial.",
+      "it": "Il 19 novembre 1942 l'Armata Rossa lancio l'operazione Urano, la controffensiva a Stalingrado. Porto all'accerchiamento della Sesta armata tedesca e divenne uno dei punti di svolta della Seconda guerra mondiale.",
+      "pt": "Em 19 de novembro de 1942, o Exercito Vermelho lancou a Operacao Urano, a contraofensiva em Stalingrado. Ela levou ao cerco do Sexto Exercito alemao e tornou-se um dos pontos de virada da Segunda Guerra Mundial.",
+      "nl": "Op 19 november 1942 begon het Rode Leger Operatie Uranus, het tegenoffensief bij Stalingrad. Die leidde tot de omsingeling van het Duitse Zesde Leger en werd een van de keerpunten van de Tweede Wereldoorlog.",
+      "pl": "19 listopada 1942 roku Armia Czerwona rozpoczela operacje Uran, kontrofensywe pod Stalingradem. Doprowadzila ona do okrazenia niemieckiej 6. Armii i stala sie jednym z punktow zwrotnych drugiej wojny swiatowej.",
+      "tr": "19 Kasim 1942'de Kizil Ordu, Stalingrad'daki karsi taarruz olan Uranus Harekati'ni baslatti. Bu, Alman 6. Ordusu'nun kusatilmasina yol acti ve Ikinci Dunya Savasi'nin donum noktalarindan biri oldu.",
+      "zh": "1942年11月19日，红军发动了斯大林格勒反攻“天王星行动”。它导致德国第6集团军被包围，并成为第二次世界大战的转折点之一。",
+      "ja": "1942年11月19日、赤軍はスターリングラードでの反攻作戦「ウラヌス作戦」を開始しました。これはドイツ第6軍の包囲につながり、第二次世界大戦の転換点の一つとなりました。",
+      "ko": "1942년 11월 19일 붉은 군대는 스탈린그라드 반격 작전인 천왕성 작전을 시작했다. 이는 독일 제6군의 포위로 이어졌고 제2차 세계대전의 전환점 중 하나가 되었다.",
+      "hi": "19 नवंबर 1942 को लाल सेना ने स्टालिनग्राद के पास प्रतिआक्रमण, ऑपरेशन यूरेनस, शुरू किया। इससे जर्मन छठी सेना घिर गई और यह द्वितीय विश्व युद्ध के निर्णायक मोड़ों में से एक बना।",
+      "ar": "في 19 نوفمبر 1942 أطلق الجيش الأحمر عملية أورانوس، وهي الهجوم المضاد عند ستالينغراد. أدت العملية إلى تطويق الجيش الألماني السادس وأصبحت من نقاط التحول في الحرب العالمية الثانية."
     },
     "importance": {
       "ru": "Дата важна для понимания краха немецкого наступления на Восточном фронте и изменения хода войны.",
       "de": "Das Datum ist wichtig fuer das Verstaendnis des Scheiterns der deutschen Offensive an der Ostfront und der Wende im Krieg.",
-      "en": "The date is important for understanding the collapse of Germany's offensive on the Eastern Front and the changing course of the war."
+      "en": "The date is important for understanding the collapse of Germany's offensive on the Eastern Front and the changing course of the war.",
+      "fr": "Cette date est importante pour comprendre l'echec de l'offensive allemande sur le front de l'Est et le changement du cours de la guerre.",
+      "es": "La fecha es importante para entender el fracaso de la ofensiva alemana en el Frente Oriental y el cambio del curso de la guerra.",
+      "it": "La data e importante per capire il crollo dell'offensiva tedesca sul fronte orientale e il cambiamento del corso della guerra.",
+      "pt": "A data e importante para entender o fracasso da ofensiva alema na Frente Oriental e a mudanca no rumo da guerra.",
+      "nl": "De datum is belangrijk om de ineenstorting van het Duitse offensief aan het Oostfront en de veranderende loop van de oorlog te begrijpen.",
+      "pl": "Ta data jest wazna dla zrozumienia zalamania niemieckiej ofensywy na froncie wschodnim i zmiany przebiegu wojny.",
+      "tr": "Bu tarih, Dogu Cephesi'ndeki Alman taarruzunun cokusu ve savasin gidisatinin degismesini anlamak icin onemlidir.",
+      "zh": "这个日期有助于理解德国在东线进攻的失败以及战争进程的改变。",
+      "ja": "この日は、東部戦線でのドイツ軍攻勢の崩壊と戦争の流れの変化を理解する上で重要です。",
+      "ko": "이 날짜는 동부 전선에서 독일 공세가 무너지고 전쟁의 흐름이 바뀐 것을 이해하는 데 중요하다.",
+      "hi": "यह तारीख पूर्वी मोर्चे पर जर्मन आक्रमण के पतन और युद्ध की दिशा बदलने को समझने के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم لفهم انهيار الهجوم الألماني على الجبهة الشرقية وتغير مسار الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Кольцо вокруг 6-й армии",
           "de": "Der Ring um die 6. Armee",
-          "en": "The ring around the Sixth Army"
+          "en": "The ring around the Sixth Army",
+          "fr": "L'anneau autour de la 6e armee",
+          "es": "El anillo alrededor del Sexto Ejercito",
+          "it": "L'anello attorno alla Sesta armata",
+          "pt": "O anel em torno do Sexto Exercito",
+          "nl": "De ring rond het Zesde Leger",
+          "pl": "Pierscien wokol 6. Armii",
+          "tr": "6. Ordu etrafindaki halka",
+          "zh": "围绕第6集团军的包围圈",
+          "ja": "第6軍を囲む輪",
+          "ko": "제6군을 둘러싼 포위망",
+          "hi": "छठी सेना के चारों ओर घेरा",
+          "ar": "الحلقة حول الجيش السادس"
         },
         "description": {
           "ru": "Советские войска ударили по флангам, где находились союзники Германии, и замкнули окружение вокруг сил под Сталинградом. Для немецкого командования это стало стратегической катастрофой.",
           "de": "Sowjetische Truppen griffen die Flanken an, die von deutschen Verbuendeten gehalten wurden, und schlossen den Ring um die Truppen bei Stalingrad. Fuer die deutsche Fuehrung wurde dies zu einer strategischen Katastrophe.",
-          "en": "Soviet forces struck the flanks held by Germany's allies and closed the ring around the troops at Stalingrad. For the German command, this became a strategic catastrophe."
+          "en": "Soviet forces struck the flanks held by Germany's allies and closed the ring around the troops at Stalingrad. For the German command, this became a strategic catastrophe.",
+          "fr": "Les forces sovietiques frapperent les flancs tenus par les allies de l'Allemagne et refermerent l'anneau autour des troupes a Stalingrad. Pour le commandement allemand, ce fut une catastrophe strategique.",
+          "es": "Las fuerzas sovieticas atacaron los flancos defendidos por aliados de Alemania y cerraron el cerco alrededor de las tropas en Stalingrado. Para el mando aleman fue una catastrofe estrategica.",
+          "it": "Le forze sovietiche colpirono i fianchi tenuti dagli alleati della Germania e chiusero l'anello attorno alle truppe a Stalingrado. Per il comando tedesco fu una catastrofe strategica.",
+          "pt": "As forcas sovieticas atacaram os flancos mantidos por aliados da Alemanha e fecharam o anel em torno das tropas em Stalingrado. Para o comando alemao, isso foi uma catastrofe estrategica.",
+          "nl": "Sovjettroepen vielen de flanken aan die door Duitse bondgenoten werden gehouden en sloten de ring rond de troepen bij Stalingrad. Voor de Duitse legerleiding werd dit een strategische ramp.",
+          "pl": "Wojska radzieckie uderzyly na flanki bronione przez sojusznikow Niemiec i zamknely pierscien wokol sil pod Stalingradem. Dla niemieckiego dowodztwa byla to katastrofa strategiczna.",
+          "tr": "Sovyet kuvvetleri, Almanya'nin muttefiklerinin tuttugu kanatlara saldirdi ve Stalingrad'daki birliklerin etrafindaki halkayi kapatti. Alman komutasi icin bu stratejik bir felaket oldu.",
+          "zh": "苏军攻击由德国盟友防守的两翼，并合拢了斯大林格勒周围的包围圈。对德国指挥部来说，这是一次战略灾难。",
+          "ja": "ソ連軍はドイツの同盟国が守っていた側面を攻撃し、スターリングラードの部隊を包囲しました。ドイツ軍司令部にとって、これは戦略的な大惨事でした。",
+          "ko": "소련군은 독일 동맹군이 지키던 측면을 공격해 스탈린그라드의 병력 주변 포위망을 닫았다. 독일 지휘부에게 이는 전략적 재앙이었다.",
+          "hi": "सोवियत सेनाओं ने उन किनारों पर हमला किया जिन्हें जर्मनी के सहयोगी संभाल रहे थे और स्टालिनग्राद के पास सेनाओं के चारों ओर घेरा बंद कर दिया। जर्मन कमान के लिए यह रणनीतिक तबाही थी।",
+          "ar": "ضربت القوات السوفيتية الأجنحة التي كان يمسكها حلفاء ألمانيا وأغلقت الحلقة حول القوات عند ستالينغراد. وبالنسبة إلى القيادة الألمانية كان ذلك كارثة استراتيجية."
         },
         "importance": {
           "ru": "Так видно, что слабые фланги и переоценка собственных сил могут изменить судьбу целой кампании.",
           "de": "So wird sichtbar, wie schwache Flanken und Selbstueberschaetzung das Schicksal eines ganzen Feldzugs veraendern koennen.",
-          "en": "It shows how weak flanks and overconfidence can change the fate of an entire campaign."
+          "en": "It shows how weak flanks and overconfidence can change the fate of an entire campaign.",
+          "fr": "Cela montre comment des flancs faibles et la surestimation de ses forces peuvent changer le destin de toute une campagne.",
+          "es": "Muestra como los flancos debiles y el exceso de confianza pueden cambiar el destino de toda una campana.",
+          "it": "Mostra come fianchi deboli e sopravvalutazione delle proprie forze possano cambiare il destino di un'intera campagna.",
+          "pt": "Mostra como flancos fracos e excesso de confianca podem mudar o destino de toda uma campanha.",
+          "nl": "Het laat zien hoe zwakke flanken en zelfoverschatting het lot van een hele veldtocht kunnen veranderen.",
+          "pl": "To pokazuje, jak slabe flanki i przecenianie wlasnych sil moga zmienic los calej kampanii.",
+          "tr": "Bu, zayif kanatlarin ve asiri ozguvenin butun bir seferin kaderini nasil degistirebilecegini gosterir.",
+          "zh": "这说明薄弱的侧翼和过度自信会怎样改变整个战役的命运。",
+          "ja": "弱い側面と自軍への過信が、一つの作戦全体の運命を変え得ることを示しています。",
+          "ko": "약한 측면과 과신이 전체 작전의 운명을 어떻게 바꿀 수 있는지 보여 준다.",
+          "hi": "यह दिखाता है कि कमजोर किनारे और अपनी ताकत का अधिक आकलन पूरी मुहिम की किस्मत बदल सकते हैं।",
+          "ar": "يوضح ذلك كيف يمكن للأجنحة الضعيفة والمبالغة في تقدير القوة أن تغير مصير حملة كاملة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Кодовое название с планетой",
           "de": "Ein Deckname mit Planet",
-          "en": "A codename with a planet"
+          "en": "A codename with a planet",
+          "fr": "Un nom de code avec une planete",
+          "es": "Un nombre en clave con un planeta",
+          "it": "Un nome in codice con un pianeta",
+          "pt": "Um nome de codigo com um planeta",
+          "nl": "Een codenaam met een planeet",
+          "pl": "Kryptonim z planeta",
+          "tr": "Gezegenli bir kod adi",
+          "zh": "带有行星的代号",
+          "ja": "惑星を使ったコードネーム",
+          "ko": "행성이 들어간 암호명",
+          "hi": "ग्रह वाला कोड नाम",
+          "ar": "اسم رمزي باسم كوكب"
         },
         "description": {
           "ru": "Название «Уран» было кодовым, как и у многих крупных операций Второй мировой войны. Такие названия часто звучат почти загадочно, но за ними стояли огромные человеческие потери.",
           "de": "Der Name Uranus war ein Deckname, wie bei vielen grossen Operationen des Zweiten Weltkriegs. Solche Namen klingen oft fast geheimnisvoll, doch dahinter standen enorme menschliche Verluste.",
-          "en": "The name Uranus was a codename, like many major operations of the Second World War. Such names can sound almost mysterious, but behind them stood enormous human losses."
+          "en": "The name Uranus was a codename, like many major operations of the Second World War. Such names can sound almost mysterious, but behind them stood enormous human losses.",
+          "fr": "Le nom Uranus etait un nom de code, comme pour beaucoup de grandes operations de la Seconde Guerre mondiale. Ces noms semblent parfois presque mysterieux, mais ils cachent d'immenses pertes humaines.",
+          "es": "El nombre Urano era un nombre en clave, como en muchas grandes operaciones de la Segunda Guerra Mundial. Esos nombres pueden sonar casi misteriosos, pero detras de ellos hubo enormes perdidas humanas.",
+          "it": "Il nome Urano era un nome in codice, come in molte grandi operazioni della Seconda guerra mondiale. Questi nomi possono sembrare quasi misteriosi, ma dietro di essi ci furono enormi perdite umane.",
+          "pt": "O nome Urano era um nome de codigo, como em muitas grandes operacoes da Segunda Guerra Mundial. Esses nomes podem soar quase misteriosos, mas por tras deles houve enormes perdas humanas.",
+          "nl": "De naam Uranus was een codenaam, zoals bij veel grote operaties van de Tweede Wereldoorlog. Zulke namen klinken soms bijna geheimzinnig, maar erachter stonden enorme menselijke verliezen.",
+          "pl": "Nazwa Uran byla kryptonimem, podobnie jak w przypadku wielu duzych operacji drugiej wojny swiatowej. Takie nazwy brzmia czasem niemal tajemniczo, ale kryly sie za nimi ogromne straty ludzkie.",
+          "tr": "Uranus adi, Ikinci Dunya Savasi'ndaki bircok buyuk operasyonda oldugu gibi bir kod adiydi. Bu adlar bazen neredeyse gizemli duyulur, ama arkalarinda cok buyuk insan kayiplari vardi.",
+          "zh": "“天王星”这个名称是代号，像第二次世界大战中许多大型行动一样。这样的名字听起来几乎神秘，但背后是巨大的人员损失。",
+          "ja": "「ウラヌス」という名は、第二次世界大戦の多くの大規模作戦と同じくコードネームでした。こうした名前は神秘的に聞こえることもありますが、その背後には膨大な人命の損失がありました。",
+          "ko": "천왕성이라는 이름은 제2차 세계대전의 많은 대규모 작전처럼 암호명이었다. 이런 이름은 거의 신비롭게 들릴 수 있지만, 그 뒤에는 엄청난 인명 피해가 있었다.",
+          "hi": "यूरेनस नाम द्वितीय विश्व युद्ध की कई बड़ी कार्रवाइयों की तरह एक कोड नाम था। ऐसे नाम लगभग रहस्यमय लग सकते हैं, लेकिन उनके पीछे भारी मानव क्षति थी।",
+          "ar": "كان اسم أورانوس اسما رمزيا، مثل كثير من العمليات الكبرى في الحرب العالمية الثانية. قد تبدو هذه الأسماء غامضة تقريبا، لكن خلفها كانت خسائر بشرية هائلة."
         },
         "importance": {
           "ru": "Это напоминание, что военные кодовые слова скрывают очень реальные судьбы людей.",
           "de": "Es erinnert daran, dass militaerische Decknamen sehr reale menschliche Schicksale verbergen.",
-          "en": "It is a reminder that military codenames hide very real human fates."
+          "en": "It is a reminder that military codenames hide very real human fates.",
+          "fr": "Cela rappelle que les noms de code militaires cachent des destins humains tres reels.",
+          "es": "Recuerda que los nombres en clave militares ocultan destinos humanos muy reales.",
+          "it": "Ricorda che i nomi in codice militari nascondono destini umani molto reali.",
+          "pt": "Isso lembra que nomes de codigo militares escondem destinos humanos muito reais.",
+          "nl": "Het herinnert eraan dat militaire codenamen zeer echte menselijke levens verbergen.",
+          "pl": "To przypomina, ze wojskowe kryptonimy ukrywaja bardzo realne ludzkie losy.",
+          "tr": "Bu, askeri kod adlarinin cok gercek insan kaderlerini gizledigini hatirlatir.",
+          "zh": "这提醒人们，军事代号背后隐藏着非常真实的人的命运。",
+          "ja": "軍事作戦のコードネームが、とても現実的な人々の運命を隠していることを思い出させます。",
+          "ko": "군사 암호명이 매우 실제적인 사람들의 운명을 감춘다는 점을 일깨운다.",
+          "hi": "यह याद दिलाता है कि सैन्य कोड शब्द बहुत वास्तविक मानव जीवनों को छिपा देते हैं।",
+          "ar": "إنه يذكر بأن الأسماء الرمزية العسكرية تخفي مصائر بشرية حقيقية جدا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Операция продолжалась с 19 по 23 ноября 1942 года и завершилась окружением сил Оси под Сталинградом.",
     "de": "Die Operation dauerte vom 19. bis 23. November 1942 und endete mit der Einkesselung der Achsentruppen bei Stalingrad.",
-    "en": "The operation lasted from 19 to 23 November 1942 and ended with the encirclement of Axis forces at Stalingrad."
+    "en": "The operation lasted from 19 to 23 November 1942 and ended with the encirclement of Axis forces at Stalingrad.",
+    "fr": "L'operation dura du 19 au 23 novembre 1942 et se termina par l'encerclement des forces de l'Axe a Stalingrad.",
+    "es": "La operacion duro del 19 al 23 de noviembre de 1942 y termino con el cerco de las fuerzas del Eje en Stalingrado.",
+    "it": "L'operazione duro dal 19 al 23 novembre 1942 e si concluse con l'accerchiamento delle forze dell'Asse a Stalingrado.",
+    "pt": "A operacao durou de 19 a 23 de novembro de 1942 e terminou com o cerco das forcas do Eixo em Stalingrado.",
+    "nl": "De operatie duurde van 19 tot 23 november 1942 en eindigde met de omsingeling van de As-mogendheden bij Stalingrad.",
+    "pl": "Operacja trwala od 19 do 23 listopada 1942 roku i zakonczyla sie okrazeniem sil Osi pod Stalingradem.",
+    "tr": "Operasyon 19-23 Kasim 1942 arasinda surdu ve Stalingrad'daki Mihver kuvvetlerinin kusatilmasiyla sona erdi.",
+    "zh": "该行动从1942年11月19日持续到23日，以斯大林格勒轴心国部队被包围而结束。",
+    "ja": "作戦は1942年11月19日から23日まで続き、スターリングラードで枢軸国軍を包囲して終わりました。",
+    "ko": "이 작전은 1942년 11월 19일부터 23일까지 계속되었고 스탈린그라드의 추축국 병력 포위로 끝났다.",
+    "hi": "यह अभियान 19 से 23 नवंबर 1942 तक चला और स्टालिनग्राद में धुरी शक्तियों की सेनाओं के घिरने के साथ समाप्त हुआ।",
+    "ar": "استمرت العملية من 19 إلى 23 نوفمبر 1942 وانتهت بتطويق قوات المحور عند ستالينغراد."
   },
   "sources": [
     {

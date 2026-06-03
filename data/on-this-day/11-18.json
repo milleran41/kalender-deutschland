@@ -11,17 +11,53 @@
     "title": {
       "ru": "Завершилась битва на Сомме",
       "de": "Die Schlacht an der Somme endet",
-      "en": "The Battle of the Somme ends"
+      "en": "The Battle of the Somme ends",
+      "fr": "La bataille de la Somme se termine",
+      "es": "Termina la batalla del Somme",
+      "it": "Finisce la battaglia della Somme",
+      "pt": "Termina a Batalha do Somme",
+      "nl": "De Slag aan de Somme eindigt",
+      "pl": "Zakonczyla sie bitwa nad Somma",
+      "tr": "Somme Muharebesi sona eriyor",
+      "zh": "索姆河战役结束",
+      "ja": "ソンムの戦いが終わる",
+      "ko": "솜 전투가 끝나다",
+      "hi": "सोम्म की लड़ाई समाप्त हुई",
+      "ar": "انتهاء معركة السوم"
     },
     "description": {
       "ru": "18 ноября 1916 года завершилась битва на Сомме, одно из самых кровопролитных сражений Первой мировой войны. Немецкая армия противостояла британским и французским войскам в долгой позиционной битве.",
       "de": "Am 18. November 1916 endete die Schlacht an der Somme, eine der blutigsten Schlachten des Ersten Weltkriegs. Die deutsche Armee stand britischen und franzoesischen Truppen in einer langen Stellungsschlacht gegenueber.",
-      "en": "On 18 November 1916, the Battle of the Somme ended, one of the bloodiest battles of the First World War. The German army faced British and French forces in a long battle of positions."
+      "en": "On 18 November 1916, the Battle of the Somme ended, one of the bloodiest battles of the First World War. The German army faced British and French forces in a long battle of positions.",
+      "fr": "Le 18 novembre 1916 se termina la bataille de la Somme, l'une des plus sanglantes de la Premiere Guerre mondiale. L'armee allemande y affronta les troupes britanniques et francaises dans une longue bataille de positions.",
+      "es": "El 18 de noviembre de 1916 termino la batalla del Somme, una de las mas sangrientas de la Primera Guerra Mundial. El ejercito aleman se enfrento a tropas britanicas y francesas en una larga guerra de posiciones.",
+      "it": "Il 18 novembre 1916 termino la battaglia della Somme, una delle piu sanguinose della Prima guerra mondiale. L'esercito tedesco affronto truppe britanniche e francesi in una lunga battaglia di posizione.",
+      "pt": "Em 18 de novembro de 1916 terminou a Batalha do Somme, uma das mais sangrentas da Primeira Guerra Mundial. O exercito alemao enfrentou forcas britanicas e francesas numa longa batalha de posicoes.",
+      "nl": "Op 18 november 1916 eindigde de Slag aan de Somme, een van de bloedigste veldslagen van de Eerste Wereldoorlog. Het Duitse leger stond tegenover Britse en Franse troepen in een lange stellingenoorlog.",
+      "pl": "18 listopada 1916 roku zakonczyla sie bitwa nad Somma, jedna z najkrwawszych bitew pierwszej wojny swiatowej. Armia niemiecka walczyla z wojskami brytyjskimi i francuskimi w dlugiej bitwie pozycyjnej.",
+      "tr": "18 Kasim 1916'da Birinci Dunya Savasi'nin en kanli muharebelerinden biri olan Somme Muharebesi sona erdi. Alman ordusu uzun bir mevzi savasinda Britanya ve Fransiz birlikleriyle karsi karsiya geldi.",
+      "zh": "1916年11月18日，第一次世界大战中最血腥的战役之一索姆河战役结束。德军在长期阵地战中对抗英法军队。",
+      "ja": "1916年11月18日、第一次世界大戦で最も多くの犠牲を出した戦いの一つ、ソンムの戦いが終わりました。ドイツ軍は長い陣地戦でイギリス軍とフランス軍に対峙しました。",
+      "ko": "1916년 11월 18일 제1차 세계대전에서 가장 피비린내 나는 전투 중 하나인 솜 전투가 끝났다. 독일군은 긴 진지전에서 영국군과 프랑스군에 맞섰다.",
+      "hi": "18 नवंबर 1916 को प्रथम विश्व युद्ध की सबसे रक्तरंजित लड़ाइयों में से एक, सोम्म की लड़ाई समाप्त हुई। जर्मन सेना ने लंबी मोर्चाबंदी वाली लड़ाई में ब्रिटिश और फ्रांसीसी सेनाओं का सामना किया।",
+      "ar": "في 18 نوفمبر 1916 انتهت معركة السوم، وهي من أكثر معارك الحرب العالمية الأولى دموية. واجه الجيش الألماني القوات البريطانية والفرنسية في معركة مواقع طويلة."
     },
     "importance": {
       "ru": "Сомма стала символом индустриальной войны, огромных потерь и ограниченных территориальных результатов.",
       "de": "Die Somme wurde zum Symbol des industriellen Krieges, enormer Verluste und begrenzter territorialer Ergebnisse.",
-      "en": "The Somme became a symbol of industrial war, enormous losses and limited territorial gains."
+      "en": "The Somme became a symbol of industrial war, enormous losses and limited territorial gains.",
+      "fr": "La Somme devint un symbole de guerre industrielle, de pertes enormes et de gains territoriaux limites.",
+      "es": "El Somme se convirtio en simbolo de guerra industrial, enormes perdidas y avances territoriales limitados.",
+      "it": "La Somme divenne un simbolo della guerra industriale, di perdite enormi e di risultati territoriali limitati.",
+      "pt": "O Somme tornou-se simbolo da guerra industrial, de enormes perdas e de ganhos territoriais limitados.",
+      "nl": "De Somme werd een symbool van industriele oorlog, enorme verliezen en beperkte terreinwinst.",
+      "pl": "Somma stala sie symbolem wojny przemyslowej, ogromnych strat i ograniczonych zdobyczy terytorialnych.",
+      "tr": "Somme, endustriyel savasin, cok buyuk kayiplarin ve sinirli toprak kazanclarinin simgesi oldu.",
+      "zh": "索姆河成为工业化战争、巨大损失和有限领土收获的象征。",
+      "ja": "ソンムは、産業化された戦争、莫大な損失、限られた領土的成果の象徴となりました。",
+      "ko": "솜은 산업화된 전쟁, 엄청난 손실, 제한된 영토 성과의 상징이 되었다.",
+      "hi": "सोम्म औद्योगिक युद्ध, भारी नुकसान और सीमित क्षेत्रीय लाभ का प्रतीक बन गया।",
+      "ar": "أصبحت السوم رمزا للحرب الصناعية والخسائر الهائلة والمكاسب الإقليمية المحدودة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Индустриальная война",
           "de": "Industrieller Krieg",
-          "en": "Industrial war"
+          "en": "Industrial war",
+          "fr": "La guerre industrielle",
+          "es": "Guerra industrial",
+          "it": "Guerra industriale",
+          "pt": "Guerra industrial",
+          "nl": "Industriele oorlog",
+          "pl": "Wojna przemyslowa",
+          "tr": "Endustriyel savas",
+          "zh": "工业化战争",
+          "ja": "産業化された戦争",
+          "ko": "산업 전쟁",
+          "hi": "औद्योगिक युद्ध",
+          "ar": "الحرب الصناعية"
         },
         "description": {
           "ru": "Артиллерия, пулемёты, окопы и массовые армии превратили фронт в машину истощения. Для солдат по обе стороны линии фронта битва стала опытом страха, грязи и постоянной опасности.",
           "de": "Artillerie, Maschinengewehre, Graeben und Massenheere machten die Front zu einer Maschine der Erschoepfung. Fuer Soldaten auf beiden Seiten wurde die Schlacht zu einer Erfahrung von Angst, Schlamm und staendiger Gefahr.",
-          "en": "Artillery, machine guns, trenches and mass armies turned the front into a machine of attrition. For soldiers on both sides, the battle became an experience of fear, mud and constant danger."
+          "en": "Artillery, machine guns, trenches and mass armies turned the front into a machine of attrition. For soldiers on both sides, the battle became an experience of fear, mud and constant danger.",
+          "fr": "L'artillerie, les mitrailleuses, les tranchees et les armees de masse transformerent le front en machine d'usure. Pour les soldats des deux camps, la bataille fut une experience de peur, de boue et de danger permanent.",
+          "es": "La artilleria, las ametralladoras, las trincheras y los ejercitos de masas convirtieron el frente en una maquina de desgaste. Para los soldados de ambos lados, la batalla fue una experiencia de miedo, barro y peligro constante.",
+          "it": "Artiglieria, mitragliatrici, trincee ed eserciti di massa trasformarono il fronte in una macchina di logoramento. Per i soldati di entrambi i lati, la battaglia fu un'esperienza di paura, fango e pericolo continuo.",
+          "pt": "Artilharia, metralhadoras, trincheiras e exercitos de massa transformaram a frente numa maquina de desgaste. Para os soldados dos dois lados, a batalha foi uma experiencia de medo, lama e perigo constante.",
+          "nl": "Artillerie, machinegeweren, loopgraven en massale legers veranderden het front in een machine van uitputting. Voor soldaten aan beide kanten werd de strijd een ervaring van angst, modder en voortdurend gevaar.",
+          "pl": "Artyleria, karabiny maszynowe, okopy i masowe armie zamienily front w maszyne wyniszczenia. Dla zolnierzy po obu stronach bitwa stala sie doswiadczeniem strachu, blota i ciaglego zagrozenia.",
+          "tr": "Topcu, makineli tufekler, siperler ve kitle ordulari cepheyi bir yipratma makinesine cevirdi. Iki taraftaki askerler icin savas korku, camur ve surekli tehlike deneyimi oldu.",
+          "zh": "炮兵、机枪、战壕和大规模军队把前线变成了消耗机器。对战线两侧的士兵来说，这场战役意味着恐惧、泥泞和持续的危险。",
+          "ja": "砲兵、機関銃、塹壕、大規模な軍隊は、前線を消耗の機械に変えました。両軍の兵士にとって、この戦いは恐怖、泥、絶えない危険の経験でした。",
+          "ko": "포병, 기관총, 참호, 대규모 군대는 전선을 소모의 기계로 만들었다. 양쪽 병사들에게 이 전투는 두려움, 진흙, 끊임없는 위험의 경험이 되었다.",
+          "hi": "तोपखाने, मशीनगनों, खाइयों और विशाल सेनाओं ने मोर्चे को थकावट की मशीन बना दिया। दोनों पक्षों के सैनिकों के लिए यह लड़ाई डर, कीचड़ और लगातार खतरे का अनुभव बन गई।",
+          "ar": "حوّلت المدفعية والرشاشات والخنادق والجيوش الضخمة الجبهة إلى آلة استنزاف. وبالنسبة إلى الجنود في الجانبين أصبحت المعركة تجربة خوف وطين وخطر دائم."
         },
         "importance": {
           "ru": "Так видно, почему Первая мировая война изменила представление Европы о войне.",
           "de": "So wird sichtbar, warum der Erste Weltkrieg Europas Vorstellung vom Krieg veraenderte.",
-          "en": "It shows why the First World War changed Europe's understanding of war."
+          "en": "It shows why the First World War changed Europe's understanding of war.",
+          "fr": "Cela montre pourquoi la Premiere Guerre mondiale a change la maniere dont l'Europe comprenait la guerre.",
+          "es": "Muestra por que la Primera Guerra Mundial cambio la idea europea de la guerra.",
+          "it": "Mostra perche la Prima guerra mondiale cambio l'idea europea della guerra.",
+          "pt": "Mostra por que a Primeira Guerra Mundial mudou a ideia europeia de guerra.",
+          "nl": "Het laat zien waarom de Eerste Wereldoorlog Europa's beeld van oorlog veranderde.",
+          "pl": "To pokazuje, dlaczego pierwsza wojna swiatowa zmienila europejskie wyobrazenie o wojnie.",
+          "tr": "Bu, Birinci Dunya Savasi'nin Avrupa'nin savas anlayisini neden degistirdigini gosterir.",
+          "zh": "这说明第一次世界大战为什么改变了欧洲对战争的理解。",
+          "ja": "第一次世界大戦がヨーロッパの戦争観を変えた理由が分かります。",
+          "ko": "제1차 세계대전이 유럽의 전쟁 인식을 왜 바꾸었는지 보여 준다.",
+          "hi": "यह दिखाता है कि प्रथम विश्व युद्ध ने यूरोप की युद्ध के बारे में समझ क्यों बदल दी।",
+          "ar": "يوضح ذلك لماذا غيرت الحرب العالمية الأولى فهم أوروبا للحرب."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Первые танки на поле боя",
           "de": "Erste Panzer auf dem Schlachtfeld",
-          "en": "First tanks on the battlefield"
+          "en": "First tanks on the battlefield",
+          "fr": "Les premiers chars sur le champ de bataille",
+          "es": "Primeros tanques en el campo de batalla",
+          "it": "I primi carri armati sul campo di battaglia",
+          "pt": "Os primeiros tanques no campo de batalha",
+          "nl": "Eerste tanks op het slagveld",
+          "pl": "Pierwsze czolgi na polu bitwy",
+          "tr": "Savas alanindaki ilk tanklar",
+          "zh": "战场上的第一批坦克",
+          "ja": "戦場に現れた最初の戦車",
+          "ko": "전장에 등장한 최초의 전차",
+          "hi": "युद्धक्षेत्र में पहले टैंक",
+          "ar": "أول الدبابات في ساحة المعركة"
         },
         "description": {
           "ru": "Во время битвы на Сомме британцы впервые применили танки. Техника была ещё ненадёжной, но появление нового оружия показало, что война быстро меняет инженерные решения.",
           "de": "Waehrend der Schlacht an der Somme setzten die Briten erstmals Panzer ein. Die Technik war noch unzuverlaessig, doch das neue Waffensystem zeigte, wie schnell der Krieg technische Loesungen veraenderte.",
-          "en": "During the Battle of the Somme, the British used tanks for the first time. The technology was still unreliable, but the new weapon showed how rapidly war changed engineering solutions."
+          "en": "During the Battle of the Somme, the British used tanks for the first time. The technology was still unreliable, but the new weapon showed how rapidly war changed engineering solutions.",
+          "fr": "Pendant la bataille de la Somme, les Britanniques utiliserent des chars pour la premiere fois. La technique etait encore peu fiable, mais cette nouvelle arme montra a quelle vitesse la guerre transformait les solutions d'ingenierie.",
+          "es": "Durante la batalla del Somme, los britanicos usaron tanques por primera vez. La tecnica aun era poco fiable, pero la nueva arma mostro con que rapidez la guerra cambiaba las soluciones de ingenieria.",
+          "it": "Durante la battaglia della Somme, i britannici usarono per la prima volta i carri armati. La tecnologia era ancora poco affidabile, ma la nuova arma mostro quanto rapidamente la guerra cambiasse le soluzioni ingegneristiche.",
+          "pt": "Durante a Batalha do Somme, os britanicos usaram tanques pela primeira vez. A tecnologia ainda era pouco confiavel, mas a nova arma mostrou como a guerra mudava rapidamente as solucoes de engenharia.",
+          "nl": "Tijdens de Slag aan de Somme gebruikten de Britten voor het eerst tanks. De techniek was nog onbetrouwbaar, maar het nieuwe wapen liet zien hoe snel oorlog technische oplossingen veranderde.",
+          "pl": "Podczas bitwy nad Somma Brytyjczycy po raz pierwszy uzyli czolgow. Technika byla jeszcze zawodna, ale nowa bron pokazala, jak szybko wojna zmienia rozwiazania inzynieryjne.",
+          "tr": "Somme Muharebesi sirasinda Britanyalilar tanklari ilk kez kullandi. Teknoloji henuz guvenilir degildi, ama yeni silah savasin muhendislik cozumlerini ne kadar hizli degistirdigini gosterdi.",
+          "zh": "在索姆河战役中，英国人首次使用坦克。技术仍不可靠，但这种新武器显示出战争会多快改变工程方案。",
+          "ja": "ソンムの戦いで、イギリス軍は初めて戦車を使用しました。技術はまだ信頼性に欠けていましたが、この新兵器は戦争が工学的解決策を急速に変えることを示しました。",
+          "ko": "솜 전투에서 영국군은 처음으로 전차를 사용했다. 기술은 아직 불안정했지만, 이 새로운 무기는 전쟁이 공학적 해결책을 얼마나 빠르게 바꾸는지 보여 주었다.",
+          "hi": "सोम्म की लड़ाई के दौरान ब्रिटिश सेना ने पहली बार टैंकों का उपयोग किया। तकनीक अभी भरोसेमंद नहीं थी, लेकिन नए हथियार ने दिखाया कि युद्ध इंजीनियरिंग समाधानों को कितनी तेजी से बदलता है।",
+          "ar": "خلال معركة السوم استخدم البريطانيون الدبابات لأول مرة. كانت التقنية لا تزال غير موثوقة، لكن السلاح الجديد أظهر كيف تغير الحرب الحلول الهندسية بسرعة."
         },
         "importance": {
           "ru": "Это связывает военную историю с историей техники, пусть и в очень мрачном контексте.",
           "de": "Das verbindet Militärgeschichte mit Technikgeschichte, wenn auch in einem sehr duesteren Zusammenhang.",
-          "en": "It links military history with the history of technology, though in a very dark context."
+          "en": "It links military history with the history of technology, though in a very dark context.",
+          "fr": "Cela relie l'histoire militaire a l'histoire des techniques, meme dans un contexte tres sombre.",
+          "es": "Conecta la historia militar con la historia de la tecnologia, aunque en un contexto muy oscuro.",
+          "it": "Collega la storia militare alla storia della tecnologia, anche se in un contesto molto cupo.",
+          "pt": "Isso liga a historia militar a historia da tecnologia, ainda que num contexto muito sombrio.",
+          "nl": "Het verbindt militaire geschiedenis met techniekgeschiedenis, al is de context zeer somber.",
+          "pl": "Laczy to historie wojskowa z historia techniki, choc w bardzo mrocznym kontekscie.",
+          "tr": "Bu, cok karanlik bir baglamda olsa da askeri tarihi teknoloji tarihiyle birlestirir.",
+          "zh": "这把军事史与技术史联系起来，尽管背景非常沉重。",
+          "ja": "とても暗い文脈ではありますが、軍事史と技術史を結びつけています。",
+          "ko": "매우 어두운 맥락이지만 군사사와 기술사를 연결한다.",
+          "hi": "यह सैन्य इतिहास को तकनीक के इतिहास से जोड़ता है, भले ही संदर्भ बहुत अंधकारमय हो।",
+          "ar": "يربط ذلك التاريخ العسكري بتاريخ التقنية، وإن كان في سياق شديد القتامة."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Месяцы за километры",
           "de": "Monate fuer Kilometer",
-          "en": "Months for kilometers"
+          "en": "Months for kilometers",
+          "fr": "Des mois pour quelques kilometres",
+          "es": "Meses por kilometros",
+          "it": "Mesi per chilometri",
+          "pt": "Meses por quilometros",
+          "nl": "Maanden voor kilometers",
+          "pl": "Miesiace za kilometry",
+          "tr": "Kilometreler icin aylar",
+          "zh": "为了几公里耗费数月",
+          "ja": "数キロのための数か月",
+          "ko": "몇 킬로미터를 위한 몇 달",
+          "hi": "किलोमीटरों के लिए महीनों की लड़ाई",
+          "ar": "أشهر من أجل كيلومترات"
         },
         "description": {
           "ru": "Битва длилась больше четырёх месяцев, но линия фронта изменилась сравнительно мало. Это стало одним из самых горьких символов позиционной войны.",
           "de": "Die Schlacht dauerte mehr als vier Monate, doch die Frontlinie verschob sich vergleichsweise wenig. Das wurde zu einem der bittersten Symbole des Stellungskrieges.",
-          "en": "The battle lasted more than four months, but the front line moved comparatively little. This became one of the bitterest symbols of trench warfare."
+          "en": "The battle lasted more than four months, but the front line moved comparatively little. This became one of the bitterest symbols of trench warfare.",
+          "fr": "La bataille dura plus de quatre mois, mais la ligne de front bougea relativement peu. Cela devint l'un des symboles les plus amers de la guerre de positions.",
+          "es": "La batalla duro mas de cuatro meses, pero la linea del frente se movio relativamente poco. Se convirtio en uno de los simbolos mas amargos de la guerra de trincheras.",
+          "it": "La battaglia duro piu di quattro mesi, ma la linea del fronte si sposto relativamente poco. Divenne uno dei simboli piu amari della guerra di trincea.",
+          "pt": "A batalha durou mais de quatro meses, mas a linha da frente mudou relativamente pouco. Tornou-se um dos simbolos mais amargos da guerra de trincheiras.",
+          "nl": "De slag duurde meer dan vier maanden, maar de frontlijn verschoof betrekkelijk weinig. Dat werd een van de bitterste symbolen van de loopgravenoorlog.",
+          "pl": "Bitwa trwala ponad cztery miesiace, ale linia frontu przesunela sie stosunkowo niewiele. Stalo sie to jednym z najbardziej gorzkich symboli wojny pozycyjnej.",
+          "tr": "Muharebe dort aydan uzun surdu, ancak cephe hatti gorece az degisti. Bu, siper savasinin en aci simgelerinden biri oldu.",
+          "zh": "这场战役持续了四个多月，但前线移动得相对很少。这成为堑壕战最苦涩的象征之一。",
+          "ja": "戦いは4か月以上続きましたが、前線は比較的わずかしか動きませんでした。これは塹壕戦の最も苦い象徴の一つになりました。",
+          "ko": "전투는 네 달 넘게 계속되었지만 전선은 비교적 조금만 움직였다. 이는 참호전의 가장 쓰라린 상징 중 하나가 되었다.",
+          "hi": "यह लड़ाई चार महीने से अधिक चली, लेकिन मोर्चे की रेखा बहुत कम बदली। यह खाई युद्ध के सबसे कड़वे प्रतीकों में से एक बन गया।",
+          "ar": "استمرت المعركة أكثر من أربعة أشهر، لكن خط الجبهة تحرك قليلا نسبيا. وأصبح ذلك من أكثر رموز حرب الخنادق مرارة."
         },
         "importance": {
           "ru": "Иногда карта после битвы почти не меняется, а человеческие потери оказываются чудовищными.",
           "de": "Manchmal aendert sich die Karte nach einer Schlacht kaum, waehrend die menschlichen Verluste ungeheuer sind.",
-          "en": "Sometimes the map after a battle changes very little, while human losses are enormous."
+          "en": "Sometimes the map after a battle changes very little, while human losses are enormous.",
+          "fr": "Parfois, la carte change a peine apres une bataille, tandis que les pertes humaines sont immenses.",
+          "es": "A veces el mapa cambia muy poco despues de una batalla, mientras las perdidas humanas son enormes.",
+          "it": "A volte la carta cambia pochissimo dopo una battaglia, mentre le perdite umane sono enormi.",
+          "pt": "As vezes, o mapa muda muito pouco depois de uma batalha, enquanto as perdas humanas sao enormes.",
+          "nl": "Soms verandert de kaart na een veldslag nauwelijks, terwijl de menselijke verliezen enorm zijn.",
+          "pl": "Czasem mapa po bitwie prawie sie nie zmienia, a straty ludzkie sa ogromne.",
+          "tr": "Bazen bir savastan sonra harita cok az degisir, ama insan kayiplari korkunc olur.",
+          "zh": "有时一场战役后地图几乎没有变化，但人的损失却极其巨大。",
+          "ja": "戦いの後で地図はほとんど変わらないのに、人命の損失は途方もなく大きいことがあります。",
+          "ko": "때로는 전투 뒤 지도가 거의 바뀌지 않지만 인명 피해는 엄청나다.",
+          "hi": "कभी-कभी लड़ाई के बाद नक्शा लगभग नहीं बदलता, लेकिन मानव क्षति भयावह होती है।",
+          "ar": "أحيانا لا تتغير الخريطة بعد معركة إلا قليلا، بينما تكون الخسائر البشرية هائلة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "На Сомме британская армия впервые в истории применила танки в бою 15 сентября 1916 года.",
     "de": "An der Somme setzte die britische Armee am 15. September 1916 erstmals Panzer im Kampf ein.",
-    "en": "At the Somme, the British Army first used tanks in combat on 15 September 1916."
+    "en": "At the Somme, the British Army first used tanks in combat on 15 September 1916.",
+    "fr": "A la Somme, l'armee britannique utilisa pour la premiere fois des chars au combat le 15 septembre 1916.",
+    "es": "En el Somme, el ejercito britanico uso tanques en combate por primera vez el 15 de septiembre de 1916.",
+    "it": "Alla Somme, l'esercito britannico uso per la prima volta carri armati in combattimento il 15 settembre 1916.",
+    "pt": "No Somme, o exercito britanico usou tanques em combate pela primeira vez em 15 de setembro de 1916.",
+    "nl": "Aan de Somme gebruikte het Britse leger op 15 september 1916 voor het eerst tanks in gevecht.",
+    "pl": "Nad Somma armia brytyjska po raz pierwszy uzyla czolgow w walce 15 wrzesnia 1916 roku.",
+    "tr": "Somme'da Britanya Ordusu 15 Eylul 1916'da tanklari savasta ilk kez kullandi.",
+    "zh": "在索姆河，英国军队于1916年9月15日首次在战斗中使用坦克。",
+    "ja": "ソンムでは、1916年9月15日にイギリス軍が史上初めて戦車を実戦で使用しました。",
+    "ko": "솜에서 영국군은 1916년 9월 15일 전투에서 처음으로 전차를 사용했다.",
+    "hi": "सोम्म में ब्रिटिश सेना ने 15 सितंबर 1916 को पहली बार युद्ध में टैंकों का उपयोग किया।",
+    "ar": "في السوم استخدم الجيش البريطاني الدبابات في القتال لأول مرة في 15 سبتمبر 1916."
   },
   "sources": [
     {

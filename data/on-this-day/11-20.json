@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начался Нюрнбергский процесс",
       "de": "Der Nuernberger Prozess beginnt",
-      "en": "The Nuremberg Trial begins"
+      "en": "The Nuremberg Trial begins",
+      "fr": "Le proces de Nuremberg commence",
+      "es": "Comienza el Juicio de Nuremberg",
+      "it": "Inizia il processo di Norimberga",
+      "pt": "Comeca o Julgamento de Nuremberg",
+      "nl": "Het Proces van Neurenberg begint",
+      "pl": "Rozpoczal sie proces norymberski",
+      "tr": "Nurnberg Davasi basliyor",
+      "zh": "纽伦堡审判开始",
+      "ja": "ニュルンベルク裁判が始まる",
+      "ko": "뉘른베르크 재판이 시작되다",
+      "hi": "न्यूर्नबर्ग मुकदमा शुरू हुआ",
+      "ar": "بدء محاكمة نورمبرغ"
     },
     "description": {
       "ru": "20 ноября 1945 года в Нюрнберге начался Международный военный трибунал над главными нацистскими преступниками. Суд рассматривал преступления против мира, военные преступления и преступления против человечности.",
       "de": "Am 20. November 1945 begann in Nuernberg der Internationale Militaergerichtshof gegen die Hauptkriegsverbrecher des NS-Regimes. Verhandelt wurden Verbrechen gegen den Frieden, Kriegsverbrechen und Verbrechen gegen die Menschlichkeit.",
-      "en": "On 20 November 1945, the International Military Tribunal against major Nazi criminals began in Nuremberg. It dealt with crimes against peace, war crimes and crimes against humanity."
+      "en": "On 20 November 1945, the International Military Tribunal against major Nazi criminals began in Nuremberg. It dealt with crimes against peace, war crimes and crimes against humanity.",
+      "fr": "Le 20 novembre 1945 commenca a Nuremberg le Tribunal militaire international contre les principaux criminels nazis. Le tribunal examina les crimes contre la paix, les crimes de guerre et les crimes contre l'humanite.",
+      "es": "El 20 de noviembre de 1945 comenzo en Nuremberg el Tribunal Militar Internacional contra los principales criminales nazis. El tribunal trato crimenes contra la paz, crimenes de guerra y crimenes contra la humanidad.",
+      "it": "Il 20 novembre 1945 inizio a Norimberga il Tribunale militare internazionale contro i principali criminali nazisti. Il processo riguardo crimini contro la pace, crimini di guerra e crimini contro l'umanita.",
+      "pt": "Em 20 de novembro de 1945 comecou em Nuremberg o Tribunal Militar Internacional contra os principais criminosos nazistas. O tribunal tratou de crimes contra a paz, crimes de guerra e crimes contra a humanidade.",
+      "nl": "Op 20 november 1945 begon in Neurenberg het Internationaal Militair Tribunaal tegen de belangrijkste nazi-misdadigers. Het behandelde misdaden tegen de vrede, oorlogsmisdaden en misdaden tegen de menselijkheid.",
+      "pl": "20 listopada 1945 roku w Norymberdze rozpoczal sie Miedzynarodowy Trybunal Wojskowy przeciwko glownym nazistowskim zbrodniarzom. Sad rozpatrywal zbrodnie przeciw pokojowi, zbrodnie wojenne i zbrodnie przeciw ludzkosci.",
+      "tr": "20 Kasim 1945'te Nurnberg'de baslica Nazi suclularina karsi Uluslararasi Askeri Mahkeme basladi. Mahkeme barisa karsi suclar, savas suclari ve insanliga karsi suclari ele aldi.",
+      "zh": "1945年11月20日，审判主要纳粹罪犯的国际军事法庭在纽伦堡开庭。法庭审理了破坏和平罪、战争罪和反人类罪。",
+      "ja": "1945年11月20日、主要なナチス犯罪者を裁く国際軍事裁判がニュルンベルクで始まりました。裁判では平和に対する罪、戦争犯罪、人道に対する罪が扱われました。",
+      "ko": "1945년 11월 20일 주요 나치 범죄자를 재판하는 국제군사재판이 뉘른베르크에서 시작되었다. 재판은 평화에 대한 죄, 전쟁범죄, 인도에 반한 죄를 다루었다.",
+      "hi": "20 नवंबर 1945 को न्यूर्नबर्ग में प्रमुख नाजी अपराधियों के विरुद्ध अंतरराष्ट्रीय सैन्य न्यायाधिकरण शुरू हुआ। अदालत ने शांति के विरुद्ध अपराध, युद्ध अपराध और मानवता के विरुद्ध अपराधों पर विचार किया।",
+      "ar": "في 20 نوفمبر 1945 بدأت في نورمبرغ محكمة عسكرية دولية ضد كبار المجرمين النازيين. ونظرت في جرائم ضد السلام وجرائم حرب وجرائم ضد الإنسانية."
     },
     "importance": {
       "ru": "Процесс стал основой послевоенного международного уголовного правосудия.",
       "de": "Der Prozess wurde zu einer Grundlage des internationalen Strafrechts nach dem Krieg.",
-      "en": "The trial became a foundation of postwar international criminal justice."
+      "en": "The trial became a foundation of postwar international criminal justice.",
+      "fr": "Le proces devint une base de la justice penale internationale d'apres-guerre.",
+      "es": "El juicio se convirtio en una base de la justicia penal internacional de posguerra.",
+      "it": "Il processo divenne una base della giustizia penale internazionale del dopoguerra.",
+      "pt": "O julgamento tornou-se uma base da justica penal internacional do pos-guerra.",
+      "nl": "Het proces werd een grondslag van de naoorlogse internationale strafrechtspraak.",
+      "pl": "Proces stal sie podstawa powojennego miedzynarodowego wymiaru sprawiedliwosci karnej.",
+      "tr": "Dava, savas sonrasi uluslararasi ceza adaletinin temellerinden biri oldu.",
+      "zh": "这场审判成为战后国际刑事司法的基础。",
+      "ja": "この裁判は、戦後の国際刑事司法の基礎となりました。",
+      "ko": "이 재판은 전후 국제 형사 사법의 토대가 되었다.",
+      "hi": "यह मुकदमा युद्ध के बाद अंतरराष्ट्रीय आपराधिक न्याय की नींव बना।",
+      "ar": "أصبحت المحاكمة أساسا للعدالة الجنائية الدولية بعد الحرب."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дворец правосудия в Нюрнберге",
           "de": "Justizpalast in Nuernberg",
-          "en": "Nuremberg Palace of Justice"
+          "en": "Nuremberg Palace of Justice",
+          "fr": "Le palais de justice de Nuremberg",
+          "es": "El Palacio de Justicia de Nuremberg",
+          "it": "Il Palazzo di Giustizia di Norimberga",
+          "pt": "O Palacio da Justica de Nuremberg",
+          "nl": "Het Justitiepaleis van Neurenberg",
+          "pl": "Palac Sprawiedliwosci w Norymberdze",
+          "tr": "Nurnberg Adalet Sarayi",
+          "zh": "纽伦堡司法宫",
+          "ja": "ニュルンベルク司法宮",
+          "ko": "뉘른베르크 정의의 궁전",
+          "hi": "न्यूर्नबर्ग का न्याय भवन",
+          "ar": "قصر العدل في نورمبرغ"
         },
         "description": {
           "ru": "Суд проходил в Нюрнбергском дворце правосудия. Город был выбран не только из практических причин, но и из-за его символической роли в истории нацизма.",
           "de": "Der Prozess fand im Nuernberger Justizpalast statt. Die Stadt wurde nicht nur aus praktischen Gruenden gewaehlt, sondern auch wegen ihrer symbolischen Rolle in der Geschichte des Nationalsozialismus.",
-          "en": "The trial took place in the Nuremberg Palace of Justice. The city was chosen not only for practical reasons but also because of its symbolic role in Nazi history."
+          "en": "The trial took place in the Nuremberg Palace of Justice. The city was chosen not only for practical reasons but also because of its symbolic role in Nazi history.",
+          "fr": "Le proces eut lieu au palais de justice de Nuremberg. La ville fut choisie non seulement pour des raisons pratiques, mais aussi a cause de son role symbolique dans l'histoire du nazisme.",
+          "es": "El juicio tuvo lugar en el Palacio de Justicia de Nuremberg. La ciudad fue elegida no solo por razones practicas, sino tambien por su papel simbolico en la historia del nazismo.",
+          "it": "Il processo si svolse nel Palazzo di Giustizia di Norimberga. La citta fu scelta non solo per ragioni pratiche, ma anche per il suo ruolo simbolico nella storia del nazismo.",
+          "pt": "O julgamento ocorreu no Palacio da Justica de Nuremberg. A cidade foi escolhida nao so por razoes praticas, mas tambem por seu papel simbolico na historia do nazismo.",
+          "nl": "Het proces vond plaats in het Justitiepaleis van Neurenberg. De stad werd niet alleen om praktische redenen gekozen, maar ook vanwege haar symbolische rol in de geschiedenis van het nazisme.",
+          "pl": "Proces odbywal sie w Palacu Sprawiedliwosci w Norymberdze. Miasto wybrano nie tylko z powodow praktycznych, lecz takze ze wzgledu na jego symboliczna role w historii nazizmu.",
+          "tr": "Dava Nurnberg Adalet Sarayi'nda yapildi. Sehir yalnizca pratik nedenlerle degil, Nazi tarihindeki sembolik rolu nedeniyle de secildi.",
+          "zh": "审判在纽伦堡司法宫举行。选择这座城市不仅出于实际原因，也因为它在纳粹历史中的象征意义。",
+          "ja": "裁判はニュルンベルク司法宮で行われました。この都市は実務上の理由だけでなく、ナチズムの歴史における象徴的な役割からも選ばれました。",
+          "ko": "재판은 뉘른베르크 정의의 궁전에서 열렸다. 이 도시는 실용적인 이유뿐 아니라 나치 역사에서 지닌 상징적 역할 때문에 선택되었다.",
+          "hi": "मुकदमा न्यूर्नबर्ग के न्याय भवन में चला। शहर को केवल व्यावहारिक कारणों से नहीं, बल्कि नाजी इतिहास में उसकी प्रतीकात्मक भूमिका के कारण भी चुना गया था।",
+          "ar": "جرت المحاكمة في قصر العدل في نورمبرغ. ولم تُختر المدينة لأسباب عملية فقط، بل أيضا بسبب دورها الرمزي في تاريخ النازية."
         },
         "importance": {
           "ru": "Место суда стало частью немецкой и мировой культуры памяти.",
           "de": "Der Ort des Prozesses wurde Teil deutscher und weltweiter Erinnerungskultur.",
-          "en": "The trial site became part of German and global remembrance culture."
+          "en": "The trial site became part of German and global remembrance culture.",
+          "fr": "Le lieu du proces devint une partie de la culture de memoire allemande et mondiale.",
+          "es": "El lugar del juicio se convirtio en parte de la cultura de memoria alemana y mundial.",
+          "it": "Il luogo del processo divenne parte della cultura della memoria tedesca e mondiale.",
+          "pt": "O local do julgamento tornou-se parte da cultura de memoria alema e mundial.",
+          "nl": "De plaats van het proces werd onderdeel van de Duitse en wereldwijde herinneringscultuur.",
+          "pl": "Miejsce procesu stalo sie czescia niemieckiej i swiatowej kultury pamieci.",
+          "tr": "Davanin yapildigi yer Alman ve dunya hafiza kulturunun bir parcasi oldu.",
+          "zh": "审判地点成为德国和世界记忆文化的一部分。",
+          "ja": "裁判の場所は、ドイツと世界の記憶文化の一部となりました。",
+          "ko": "재판 장소는 독일과 세계의 기억 문화의 일부가 되었다.",
+          "hi": "मुकदमे का स्थान जर्मन और विश्व स्मृति संस्कृति का हिस्सा बन गया।",
+          "ar": "أصبح مكان المحاكمة جزءا من ثقافة الذاكرة الألمانية والعالمية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Приговоры главного Нюрнбергского процесса были объявлены 1 октября 1946 года.",
     "de": "Die Urteile des Hauptprozesses wurden am 1. Oktober 1946 verkuendet.",
-    "en": "The verdicts of the main Nuremberg Trial were announced on 1 October 1946."
+    "en": "The verdicts of the main Nuremberg Trial were announced on 1 October 1946.",
+    "fr": "Les verdicts du principal proces de Nuremberg furent annonces le 1er octobre 1946.",
+    "es": "Las sentencias del principal Juicio de Nuremberg se anunciaron el 1 de octubre de 1946.",
+    "it": "Le sentenze del principale processo di Norimberga furono annunciate il 1 ottobre 1946.",
+    "pt": "As sentencas do principal Julgamento de Nuremberg foram anunciadas em 1 de outubro de 1946.",
+    "nl": "De vonnissen van het hoofdproces van Neurenberg werden op 1 oktober 1946 bekendgemaakt.",
+    "pl": "Wyroki glownego procesu norymberskiego ogloszono 1 pazdziernika 1946 roku.",
+    "tr": "Ana Nurnberg Davasi'nin hukumleri 1 Ekim 1946'da aciklandi.",
+    "zh": "主要纽伦堡审判的判决于1946年10月1日宣布。",
+    "ja": "主要なニュルンベルク裁判の判決は、1946年10月1日に言い渡されました。",
+    "ko": "주요 뉘른베르크 재판의 판결은 1946년 10월 1일에 발표되었다.",
+    "hi": "मुख्य न्यूर्नबर्ग मुकदमे के फैसले 1 अक्टूबर 1946 को सुनाए गए।",
+    "ar": "أُعلنت أحكام محاكمة نورمبرغ الرئيسية في 1 أكتوبر 1946."
   },
   "sources": [
     {
