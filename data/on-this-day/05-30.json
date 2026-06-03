@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первый Парижский мир и будущее Германии",
       "de": "Der Erste Pariser Frieden und Deutschlands Zukunft",
-      "en": "The First Treaty of Paris and Germany's future"
+      "en": "The First Treaty of Paris and Germany's future",
+      "fr": "Le premier traite de Paris et l'avenir de l'Allemagne",
+      "es": "El Primer Tratado de Paris y el futuro de Alemania",
+      "it": "Il primo Trattato di Parigi e il futuro della Germania",
+      "pt": "O Primeiro Tratado de Paris e o futuro da Alemanha",
+      "nl": "Het Eerste Verdrag van Parijs en Duitslands toekomst",
+      "pl": "Pierwszy pokoj paryski i przyszlosc Niemiec",
+      "tr": "Birinci Paris Antlasmasi ve Almanya'nin gelecegi",
+      "zh": "第一次巴黎和约与德国的未来",
+      "ja": "第一次パリ条約とドイツの未来",
+      "ko": "제1차 파리 조약과 독일의 미래",
+      "hi": "पहली पेरिस संधि और जर्मनी का भविष्य",
+      "ar": "معاهدة باريس الاولى ومستقبل المانيا"
     },
     "description": {
       "ru": "30 мая 1814 года был подписан Первый Парижский мир после поражения Наполеона. Для немецких земель договор был важен тем, что он подтвердил идею будущего союза независимых германских государств.",
       "de": "Am 30. Mai 1814 wurde nach Napoleons Niederlage der Erste Pariser Frieden unterzeichnet. Fuer die deutschen Laender war der Vertrag wichtig, weil er die Idee eines kuenftigen Bundes unabhaengiger deutscher Staaten bestaetigte.",
-      "en": "On 30 May 1814, the First Treaty of Paris was signed after Napoleon's defeat. For the German lands, the treaty mattered because it confirmed the idea of a future federation of independent German states."
+      "en": "On 30 May 1814, the First Treaty of Paris was signed after Napoleon's defeat. For the German lands, the treaty mattered because it confirmed the idea of a future federation of independent German states.",
+      "fr": "Le 30 mai 1814, le premier traite de Paris fut signe apres la defaite de Napoleon. Pour les terres allemandes, il etait important car il confirmait l'idee d'une future federation d'Etats allemands independants.",
+      "es": "El 30 de mayo de 1814 se firmo el Primer Tratado de Paris tras la derrota de Napoleon. Para las tierras alemanas fue importante porque confirmaba la idea de una futura federacion de estados alemanes independientes.",
+      "it": "Il 30 maggio 1814 fu firmato il primo Trattato di Parigi dopo la sconfitta di Napoleone. Per le terre tedesche era importante perche confermava l'idea di una futura federazione di Stati tedeschi indipendenti.",
+      "pt": "Em 30 de maio de 1814, foi assinado o Primeiro Tratado de Paris apos a derrota de Napoleao. Para as terras alemas, o tratado importava porque confirmava a ideia de uma futura federacao de Estados alemaes independentes.",
+      "nl": "Op 30 mei 1814 werd na Napoleons nederlaag het Eerste Verdrag van Parijs ondertekend. Voor de Duitse landen was het belangrijk omdat het het idee bevestigde van een toekomstige bond van onafhankelijke Duitse staten.",
+      "pl": "30 maja 1814 roku, po klesce Napoleona, podpisano pierwszy pokoj paryski. Dla ziem niemieckich traktat byl wazny, bo potwierdzal idee przyszlego zwiazku niezaleznych panstw niemieckich.",
+      "tr": "30 Mayis 1814'te Napoleon'un yenilgisinden sonra Birinci Paris Antlasmasi imzalandi. Alman topraklari icin bu antlasma, bagimsiz Alman devletlerinden olusacak gelecekteki bir federasyon fikrini onayladigi icin onemliydi.",
+      "zh": "1814年5月30日，拿破仑战败后签署了第一次巴黎和约。对德意志地区来说，该条约很重要，因为它确认了未来由独立德意志国家组成联盟的想法。",
+      "ja": "1814年5月30日、ナポレオン敗北後に第一次パリ条約が調印されました。ドイツ諸邦にとってこの条約は、独立したドイツ諸国による将来の連邦という考えを確認した点で重要でした。",
+      "ko": "1814년 5월 30일 나폴레옹의 패배 뒤 제1차 파리 조약이 서명되었습니다. 독일 지역에 이 조약은 독립적인 독일 국가들의 미래 연합이라는 구상을 확인했다는 점에서 중요했습니다.",
+      "hi": "30 मई 1814 को नेपोलियन की हार के बाद पहली पेरिस संधि पर हस्ताक्षर हुए। जर्मन क्षेत्रों के लिए यह संधि इसलिए महत्वपूर्ण थी कि उसने स्वतंत्र जर्मन राज्यों के भावी संघ की कल्पना को मान्यता दी।",
+      "ar": "في 30 مايو 1814 وُقعت معاهدة باريس الاولى بعد هزيمة نابليون. وكانت مهمة للاراضي الالمانية لانها اكدت فكرة اتحاد مستقبلي لدول المانية مستقلة."
     },
     "importance": {
       "ru": "Это один из шагов от наполеоновской системы к Германскому союзу, который вскоре оформил политическую карту Центральной Европы.",
       "de": "Es war ein Schritt von der napoleonischen Ordnung zum Deutschen Bund, der bald die politische Karte Mitteleuropas praegte.",
-      "en": "It was one step from the Napoleonic order toward the German Confederation, which soon shaped the political map of Central Europe."
+      "en": "It was one step from the Napoleonic order toward the German Confederation, which soon shaped the political map of Central Europe.",
+      "fr": "Ce fut une etape entre l'ordre napoleonien et la Confederation germanique, qui marqua bientot la carte politique de l'Europe centrale.",
+      "es": "Fue un paso desde el orden napoleonico hacia la Confederacion Germanica, que pronto marco el mapa politico de Europa Central.",
+      "it": "Fu un passo dall'ordine napoleonico verso la Confederazione germanica, che presto avrebbe segnato la carta politica dell'Europa centrale.",
+      "pt": "Foi um passo da ordem napoleonica para a Confederacao Germanica, que logo moldou o mapa politico da Europa Central.",
+      "nl": "Het was een stap van de Napoleontische orde naar de Duitse Bond, die al snel de politieke kaart van Midden-Europa vormde.",
+      "pl": "Byl to krok od porzadku napoleonskiego ku Zwiazkowi Niemieckiemu, ktory wkrotce uksztaltowal polityczna mape Europy Srodkowej.",
+      "tr": "Bu, Napolyon duzeninden kisa sure sonra Orta Avrupa'nin siyasi haritasini sekillendirecek Alman Konfederasyonu'na dogru bir adimdi.",
+      "zh": "这是从拿破仑秩序走向德意志邦联的一步，而德意志邦联很快塑造了中欧政治地图。",
+      "ja": "これはナポレオン体制からドイツ連邦へ向かう一歩であり、ドイツ連邦はまもなく中央ヨーロッパの政治地図を形づくりました。",
+      "ko": "이는 나폴레옹 질서에서 곧 중앙유럽의 정치 지도를 형성할 독일 연방으로 가는 한 걸음이었습니다.",
+      "hi": "यह नेपोलियन व्यवस्था से जर्मन परिसंघ की ओर एक कदम था, जिसने जल्द ही मध्य यूरोप का राजनीतिक नक्शा आकार दिया।",
+      "ar": "كانت خطوة من النظام النابليوني نحو الاتحاد الالماني، الذي سرعان ما شكل الخريطة السياسية لاوروبا الوسطى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Не единая Германия, а союз государств",
           "de": "Kein einheitliches Deutschland, sondern ein Staatenbund",
-          "en": "Not a united Germany, but a federation of states"
+          "en": "Not a united Germany, but a federation of states",
+          "fr": "Pas une Allemagne unie, mais une federation d'Etats",
+          "es": "No una Alemania unida, sino una federacion de estados",
+          "it": "Non una Germania unita, ma una federazione di Stati",
+          "pt": "Nao uma Alemanha unida, mas uma federacao de Estados",
+          "nl": "Geen verenigd Duitsland, maar een statenbond",
+          "pl": "Nie zjednoczone Niemcy, lecz zwiazek panstw",
+          "tr": "Birlesik Almanya degil, devletler federasyonu",
+          "zh": "不是统一德国，而是国家联盟",
+          "ja": "統一ドイツではなく、諸国家の連合",
+          "ko": "통일 독일이 아니라 국가들의 연합",
+          "hi": "एकीकृत जर्मनी नहीं, बल्कि राज्यों का संघ",
+          "ar": "ليست المانيا موحدة، بل اتحاد دول"
         },
         "description": {
           "ru": "После Наполеона немецкие земли не стали единым государством. Великие державы договорились о рыхлом союзе, где княжества, королевства и вольные города сохраняли большую самостоятельность.",
           "de": "Nach Napoleon wurden die deutschen Laender kein einheitlicher Staat. Die Grossmaechte einigten sich auf einen lockeren Bund, in dem Fuerstentuemer, Koenigreiche und freie Staedte viel Eigenstaendigkeit behielten.",
-          "en": "After Napoleon, the German lands did not become one state. The great powers agreed on a loose federation in which principalities, kingdoms and free cities kept much of their independence."
+          "en": "After Napoleon, the German lands did not become one state. The great powers agreed on a loose federation in which principalities, kingdoms and free cities kept much of their independence.",
+          "fr": "Apres Napoleon, les terres allemandes ne devinrent pas un seul Etat. Les grandes puissances s'accorderent sur une federation souple ou principautes, royaumes et villes libres conservaient une grande autonomie.",
+          "es": "Despues de Napoleon, las tierras alemanas no se convirtieron en un solo Estado. Las grandes potencias acordaron una federacion flexible en la que principados, reinos y ciudades libres conservaron mucha autonomia.",
+          "it": "Dopo Napoleone, le terre tedesche non divennero un unico Stato. Le grandi potenze concordarono una federazione debole in cui principati, regni e citta libere conservarono molta autonomia.",
+          "pt": "Depois de Napoleao, as terras alemas nao se tornaram um unico Estado. As grandes potencias concordaram em uma federacao frouxa, na qual principados, reinos e cidades livres mantiveram muita autonomia.",
+          "nl": "Na Napoleon werden de Duitse landen geen enkele staat. De grote mogendheden kozen voor een losse bond waarin vorstendommen, koninkrijken en vrije steden veel zelfstandigheid behielden.",
+          "pl": "Po Napoleonie ziemie niemieckie nie staly sie jednym panstwem. Wielkie mocarstwa uzgodnily luzny zwiazek, w ktorym ksiestwa, krolestwa i wolne miasta zachowaly duza samodzielnosc.",
+          "tr": "Napoleon'dan sonra Alman topraklari tek bir devlet olmadi. Buyuk gucler, prensliklerin, kralliklarin ve ozgur sehirlerin buyuk olcude bagimsiz kaldigi gevsek bir federasyon uzerinde anlasti.",
+          "zh": "拿破仑之后，德意志地区并没有成为一个国家。列强同意建立一个松散联盟，诸侯国、王国和自由城市保留了很大独立性。",
+          "ja": "ナポレオン後、ドイツ諸邦は一つの国家にはなりませんでした。大国は、公国、王国、自由都市が多くの自立性を保つ緩やかな連邦に合意しました。",
+          "ko": "나폴레옹 이후 독일 지역은 하나의 국가가 되지 않았습니다. 강대국들은 공국, 왕국, 자유도시가 상당한 독립성을 유지하는 느슨한 연합에 합의했습니다.",
+          "hi": "नेपोलियन के बाद जर्मन क्षेत्र एक राज्य नहीं बने। महान शक्तियों ने ढीले संघ पर सहमति की, जिसमें रियासतों, राजशाहियों और मुक्त नगरों ने काफी स्वायत्तता बनाए रखी।",
+          "ar": "بعد نابليون لم تصبح الاراضي الالمانية دولة واحدة. اتفقت القوى الكبرى على اتحاد فضفاض احتفظت فيه الامارات والممالك والمدن الحرة بقدر كبير من استقلالها."
         },
         "importance": {
           "ru": "Так проще понять, почему путь к объединению Германии занял ещё десятилетия.",
           "de": "So laesst sich besser verstehen, warum der Weg zur deutschen Einheit noch Jahrzehnte dauerte.",
-          "en": "This helps explain why the road to German unification still took decades."
+          "en": "This helps explain why the road to German unification still took decades.",
+          "fr": "Cela aide a comprendre pourquoi le chemin vers l'unite allemande prit encore des decennies.",
+          "es": "Esto ayuda a entender por que el camino hacia la unificacion alemana todavia tardo decadas.",
+          "it": "Questo aiuta a capire perche la strada verso l'unificazione tedesca richiese ancora decenni.",
+          "pt": "Isso ajuda a entender por que o caminho para a unificacao alema ainda levou decadas.",
+          "nl": "Dit helpt verklaren waarom de weg naar Duitse eenwording nog tientallen jaren duurde.",
+          "pl": "To pomaga wyjasnic, dlaczego droga do zjednoczenia Niemiec trwala jeszcze dziesieciolecia.",
+          "tr": "Bu, Alman birligine giden yolun neden daha onlarca yil surdugunu aciklamaya yardim eder.",
+          "zh": "这有助于解释为什么德国统一之路还要持续数十年。",
+          "ja": "これは、ドイツ統一への道がなお数十年かかった理由を説明してくれます。",
+          "ko": "이는 독일 통일로 가는 길이 왜 아직도 수십 년이 걸렸는지를 설명해 줍니다.",
+          "hi": "इससे समझ आता है कि जर्मन एकीकरण का रास्ता अभी कई दशकों तक क्यों चला।",
+          "ar": "يساعد ذلك على فهم لماذا استغرق الطريق الى الوحدة الالمانية عقودا اخرى."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Наполеон ушёл, но карта осталась сложной",
           "de": "Napoleon ging, doch die Karte blieb kompliziert",
-          "en": "Napoleon left, but the map stayed complicated"
+          "en": "Napoleon left, but the map stayed complicated",
+          "fr": "Napoleon partit, mais la carte resta compliquee",
+          "es": "Napoleon se fue, pero el mapa siguio complicado",
+          "it": "Napoleone se ne ando, ma la carta rimase complicata",
+          "pt": "Napoleao saiu, mas o mapa continuou complicado",
+          "nl": "Napoleon vertrok, maar de kaart bleef ingewikkeld",
+          "pl": "Napoleon odszedl, ale mapa pozostala skomplikowana",
+          "tr": "Napoleon gitti, ama harita karmasik kaldi",
+          "zh": "拿破仑离开了，但地图依然复杂",
+          "ja": "ナポレオンは去ったが、地図は複雑なままだった",
+          "ko": "나폴레옹은 떠났지만 지도는 여전히 복잡했다",
+          "hi": "नेपोलियन चला गया, लेकिन नक्शा जटिल रहा",
+          "ar": "رحل نابليون، لكن الخريطة بقيت معقدة"
         },
         "description": {
           "ru": "Поражение Наполеона не вернуло Европу точно к прежнему виду. Границы, компенсации и права государств обсуждали ещё на Венском конгрессе.",
           "de": "Napoleons Niederlage brachte Europa nicht einfach in den alten Zustand zurueck. Grenzen, Entschaedigungen und Rechte der Staaten wurden noch auf dem Wiener Kongress verhandelt.",
-          "en": "Napoleon's defeat did not simply restore Europe to its old shape. Borders, compensation and the rights of states were still debated at the Congress of Vienna."
+          "en": "Napoleon's defeat did not simply restore Europe to its old shape. Borders, compensation and the rights of states were still debated at the Congress of Vienna.",
+          "fr": "La defaite de Napoleon ne ramena pas simplement l'Europe a son ancien visage. Les frontieres, les compensations et les droits des Etats furent encore discutes au congres de Vienne.",
+          "es": "La derrota de Napoleon no devolvio simplemente a Europa a su forma anterior. Las fronteras, compensaciones y derechos de los estados siguieron debatiendose en el Congreso de Viena.",
+          "it": "La sconfitta di Napoleone non riporto semplicemente l'Europa alla forma precedente. Confini, compensazioni e diritti degli Stati furono ancora discussi al Congresso di Vienna.",
+          "pt": "A derrota de Napoleao nao restaurou simplesmente a Europa a sua forma antiga. Fronteiras, compensacoes e direitos dos Estados ainda foram debatidos no Congresso de Viena.",
+          "nl": "Napoleons nederlaag bracht Europa niet simpelweg terug naar de oude vorm. Grenzen, compensaties en rechten van staten werden nog op het Congres van Wenen besproken.",
+          "pl": "Kleska Napoleona nie przywrocila Europy po prostu do dawnego ksztaltu. Granice, rekompensaty i prawa panstw nadal omawiano na kongresie wiedenskim.",
+          "tr": "Napoleon'un yenilgisi Avrupa'yi basitce eski haline dondurmedi. Sinirlar, tazminatlar ve devletlerin haklari Viyana Kongresi'nde hala tartisiliyordu.",
+          "zh": "拿破仑的失败并没有简单地把欧洲恢复到旧模样。边界、补偿和各国权利仍在维也纳会议上讨论。",
+          "ja": "ナポレオンの敗北は、ヨーロッパを単純に以前の姿へ戻したわけではありません。国境、補償、国家の権利はウィーン会議でなお議論されました。",
+          "ko": "나폴레옹의 패배가 유럽을 단순히 예전 모습으로 되돌린 것은 아니었습니다. 국경, 보상, 국가의 권리는 빈 회의에서 여전히 논의되었습니다.",
+          "hi": "नेपोलियन की हार ने यूरोप को बस पुराने रूप में वापस नहीं कर दिया। सीमाएं, क्षतिपूर्ति और राज्यों के अधिकार वियना कांग्रेस में अभी भी चर्चा का विषय थे।",
+          "ar": "لم تُعد هزيمة نابليون اوروبا ببساطة الى شكلها القديم. فقد ظلت الحدود والتعويضات وحقوق الدول موضع نقاش في مؤتمر فيينا."
         },
         "importance": {
           "ru": "История карты Германии после 1814 года показывает, что мирный договор часто только начинает долгий политический спор.",
           "de": "Die Geschichte der deutschen Karte nach 1814 zeigt, dass ein Friedensvertrag oft erst eine lange politische Debatte beginnt.",
-          "en": "The history of Germany's map after 1814 shows that a peace treaty often only begins a long political debate."
+          "en": "The history of Germany's map after 1814 shows that a peace treaty often only begins a long political debate.",
+          "fr": "L'histoire de la carte allemande apres 1814 montre qu'un traite de paix ne fait souvent que commencer un long debat politique.",
+          "es": "La historia del mapa aleman despues de 1814 muestra que un tratado de paz a menudo solo inicia un largo debate politico.",
+          "it": "La storia della carta tedesca dopo il 1814 mostra che un trattato di pace spesso apre soltanto un lungo dibattito politico.",
+          "pt": "A historia do mapa da Alemanha depois de 1814 mostra que um tratado de paz muitas vezes apenas inicia um longo debate politico.",
+          "nl": "De geschiedenis van de Duitse kaart na 1814 laat zien dat een vredesverdrag vaak pas een lang politiek debat begint.",
+          "pl": "Historia niemieckiej mapy po 1814 roku pokazuje, ze traktat pokojowy czesto dopiero zaczyna dluga debate polityczna.",
+          "tr": "1814'ten sonra Almanya haritasinin tarihi, bir baris antlasmasinin cogu zaman uzun bir siyasi tartismayi sadece baslattigini gosterir.",
+          "zh": "1814年后德国地图的历史表明，和平条约常常只是漫长政治争论的开始。",
+          "ja": "1814年後のドイツ地図の歴史は、平和条約がしばしば長い政治的議論の始まりにすぎないことを示しています。",
+          "ko": "1814년 이후 독일 지도의 역사는 평화 조약이 종종 긴 정치 논쟁의 시작일 뿐임을 보여 줍니다.",
+          "hi": "1814 के बाद जर्मनी के नक्शे का इतिहास दिखाता है कि शांति संधि अक्सर लंबी राजनीतिक बहस की शुरुआत भर होती है।",
+          "ar": "يبين تاريخ خريطة المانيا بعد 1814 ان معاهدة السلام غالبا ما تبدأ فقط نقاشا سياسيا طويلا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Германский союз был окончательно оформлен в 1815 году на Венском конгрессе.",
     "de": "Der Deutsche Bund wurde 1815 auf dem Wiener Kongress endgueltig gegruendet.",
-    "en": "The German Confederation was formally established in 1815 at the Congress of Vienna."
+    "en": "The German Confederation was formally established in 1815 at the Congress of Vienna.",
+    "fr": "La Confederation germanique fut officiellement fondee en 1815 au congres de Vienne.",
+    "es": "La Confederacion Germanica se establecio formalmente en 1815 en el Congreso de Viena.",
+    "it": "La Confederazione germanica fu formalmente istituita nel 1815 al Congresso di Vienna.",
+    "pt": "A Confederacao Germanica foi formalmente estabelecida em 1815 no Congresso de Viena.",
+    "nl": "De Duitse Bond werd in 1815 formeel opgericht op het Congres van Wenen.",
+    "pl": "Zwiazek Niemiecki zostal formalnie utworzony w 1815 roku na kongresie wiedenskim.",
+    "tr": "Alman Konfederasyonu 1815'te Viyana Kongresi'nde resmen kuruldu.",
+    "zh": "德意志邦联于1815年在维也纳会议上正式建立。",
+    "ja": "ドイツ連邦は1815年、ウィーン会議で正式に設立されました。",
+    "ko": "독일 연방은 1815년 빈 회의에서 공식적으로 설립되었습니다.",
+    "hi": "जर्मन परिसंघ 1815 में वियना कांग्रेस में औपचारिक रूप से स्थापित हुआ।",
+    "ar": "تأسس الاتحاد الالماني رسميا عام 1815 في مؤتمر فيينا."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Расистское нападение в Золингене",
       "de": "Rassistischer Brandanschlag in Solingen",
-      "en": "Racist arson attack in Solingen"
+      "en": "Racist arson attack in Solingen",
+      "fr": "Attentat incendiaire raciste a Solingen",
+      "es": "Ataque incendiario racista en Solingen",
+      "it": "Attentato incendiario razzista a Solingen",
+      "pt": "Ataque incendiario racista em Solingen",
+      "nl": "Racistische brandstichting in Solingen",
+      "pl": "Rasistowski atak podpaleniem w Solingen",
+      "tr": "Solingen'de irkci kundaklama saldirisi",
+      "zh": "索林根种族主义纵火袭击",
+      "ja": "ゾーリンゲンの人種差別的放火事件",
+      "ko": "졸링겐 인종차별 방화 사건",
+      "hi": "ज़ोलिंगेन में नस्लवादी आगजनी हमला",
+      "ar": "هجوم حرق عنصري في زولينغن"
     },
     "description": {
       "ru": "29 мая 1993 года в Золингене был подожжён дом семьи турецкого происхождения. Погибли пять женщин и девочек, событие потрясло объединённую Германию.",
       "de": "Am 29. Mai 1993 wurde in Solingen das Haus einer Familie tuerkeistaemmiger Herkunft angezuendet. Fuenf Frauen und Maedchen starben, das Ereignis erschuetterte das vereinte Deutschland.",
-      "en": "On 29 May 1993, the home of a family of Turkish origin was set on fire in Solingen. Five women and girls died, shocking reunified Germany."
+      "en": "On 29 May 1993, the home of a family of Turkish origin was set on fire in Solingen. Five women and girls died, shocking reunified Germany.",
+      "fr": "Le 29 mai 1993, la maison d'une famille d'origine turque fut incendiee a Solingen. Cinq femmes et filles moururent, ce qui bouleversa l'Allemagne reunifiee.",
+      "es": "El 29 de mayo de 1993, la casa de una familia de origen turco fue incendiada en Solingen. Murieron cinco mujeres y ninas, lo que conmociono a la Alemania reunificada.",
+      "it": "Il 29 maggio 1993, a Solingen, fu incendiata la casa di una famiglia di origine turca. Morirono cinque donne e bambine, sconvolgendo la Germania riunificata.",
+      "pt": "Em 29 de maio de 1993, a casa de uma familia de origem turca foi incendiada em Solingen. Cinco mulheres e meninas morreram, chocando a Alemanha reunificada.",
+      "nl": "Op 29 mei 1993 werd in Solingen het huis van een familie van Turkse afkomst in brand gestoken. Vijf vrouwen en meisjes kwamen om, wat het herenigde Duitsland schokte.",
+      "pl": "29 maja 1993 roku w Solingen podpalono dom rodziny pochodzenia tureckiego. Zginelo piec kobiet i dziewczat, co wstrzasnelo zjednoczonymi Niemcami.",
+      "tr": "29 Mayis 1993'te Solingen'de Turk kokenli bir ailenin evi atese verildi. Bes kadin ve kiz cocugu hayatini kaybetti; olay birlesmis Almanya'yi sarsti.",
+      "zh": "1993年5月29日，索林根一户土耳其裔家庭的住宅被纵火。五名妇女和女孩遇难，震动了统一后的德国。",
+      "ja": "1993年5月29日、ゾーリンゲンでトルコ系家族の家が放火されました。女性と少女5人が亡くなり、再統一後のドイツに大きな衝撃を与えました。",
+      "ko": "1993년 5월 29일 졸링겐에서 터키계 가족의 집에 불이 질러졌습니다. 여성과 소녀 다섯 명이 숨졌고, 통일 독일에 큰 충격을 주었습니다.",
+      "hi": "29 मई 1993 को ज़ोलिंगेन में तुर्क मूल के परिवार के घर में आग लगा दी गई। पांच महिलाओं और लड़कियों की मृत्यु हुई, जिससे एकीकृत जर्मनी हिल गया।",
+      "ar": "في 29 مايو 1993 أُحرق منزل عائلة من اصل تركي في زولينغن. قُتلت خمس نساء وفتيات، فهز الحدث المانيا الموحدة."
     },
     "importance": {
       "ru": "Дата напоминает о проблеме правого экстремизма и расизма после воссоединения.",
       "de": "Das Datum erinnert an das Problem von Rechtsextremismus und Rassismus nach der Wiedervereinigung.",
-      "en": "The date is a reminder of right-wing extremism and racism after reunification."
+      "en": "The date is a reminder of right-wing extremism and racism after reunification.",
+      "fr": "Cette date rappelle le probleme de l'extremisme de droite et du racisme apres la reunification.",
+      "es": "La fecha recuerda el problema del extremismo de derecha y el racismo tras la reunificacion.",
+      "it": "La data ricorda il problema dell'estremismo di destra e del razzismo dopo la riunificazione.",
+      "pt": "A data lembra o problema do extremismo de direita e do racismo apos a reunificacao.",
+      "nl": "De datum herinnert aan het probleem van rechts-extremisme en racisme na de hereniging.",
+      "pl": "Ta data przypomina o problemie prawicowego ekstremizmu i rasizmu po zjednoczeniu.",
+      "tr": "Bu tarih, yeniden birlesmeden sonraki asiri sagcilik ve irkcilik sorununu hatirlatir.",
+      "zh": "这个日期提醒人们，统一后德国仍面临右翼极端主义和种族主义问题。",
+      "ja": "この日は、再統一後の右翼過激主義と人種差別の問題を思い起こさせます。",
+      "ko": "이 날짜는 통일 이후의 극우주의와 인종차별 문제를 상기시킵니다.",
+      "hi": "यह तारीख पुनर्एकीकरण के बाद दक्षिणपंथी उग्रवाद और नस्लवाद की समस्या की याद दिलाती है।",
+      "ar": "يذكر هذا التاريخ بمشكلة التطرف اليميني والعنصرية بعد اعادة التوحيد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Память миграционной Германии",
           "de": "Erinnerung der Einwanderungsgesellschaft",
-          "en": "Memory in an immigration society"
+          "en": "Memory in an immigration society",
+          "fr": "Memoire dans une societe d'immigration",
+          "es": "Memoria en una sociedad de inmigracion",
+          "it": "Memoria in una societa di immigrazione",
+          "pt": "Memoria numa sociedade de imigracao",
+          "nl": "Herinnering in een immigratiesamenleving",
+          "pl": "Pamiec w spoleczenstwie migracyjnym",
+          "tr": "Goc toplumunda hafiza",
+          "zh": "移民社会中的记忆",
+          "ja": "移民社会における記憶",
+          "ko": "이민 사회의 기억",
+          "hi": "आप्रवासी समाज की स्मृति",
+          "ar": "الذاكرة في مجتمع الهجرة"
         },
         "description": {
           "ru": "Золинген стал частью памяти немецкого общества миграции. История показывает, что современная Германия — многонациональная страна, где безопасность меньшинств имеет большое значение.",
           "de": "Solingen wurde Teil der Erinnerung der deutschen Einwanderungsgesellschaft. Die Geschichte zeigt, dass das heutige Deutschland ein vielfaeltiges Land ist, in dem der Schutz von Minderheiten wichtig ist.",
-          "en": "Solingen became part of the memory of Germany as an immigration society. It shows that modern Germany is diverse and that minority safety matters."
+          "en": "Solingen became part of the memory of Germany as an immigration society. It shows that modern Germany is diverse and that minority safety matters.",
+          "fr": "Solingen devint une partie de la memoire de l'Allemagne comme societe d'immigration. L'histoire montre que l'Allemagne moderne est diverse et que la securite des minorites compte.",
+          "es": "Solingen paso a formar parte de la memoria de Alemania como sociedad de inmigracion. La historia muestra que la Alemania moderna es diversa y que la seguridad de las minorias importa.",
+          "it": "Solingen divenne parte della memoria della Germania come societa di immigrazione. La storia mostra che la Germania moderna e diversa e che la sicurezza delle minoranze e importante.",
+          "pt": "Solingen tornou-se parte da memoria da Alemanha como sociedade de imigracao. A historia mostra que a Alemanha moderna e diversa e que a seguranca das minorias importa.",
+          "nl": "Solingen werd deel van de herinnering aan Duitsland als immigratiesamenleving. Het laat zien dat het moderne Duitsland divers is en dat de veiligheid van minderheden ertoe doet.",
+          "pl": "Solingen stalo sie czescia pamieci Niemiec jako spoleczenstwa imigracyjnego. Historia pokazuje, ze wspolczesne Niemcy sa roznorodne i ze bezpieczenstwo mniejszosci ma znaczenie.",
+          "tr": "Solingen, Almanya'nin bir goc toplumu olarak hafizasinin parcasi oldu. Bu tarih, modern Almanya'nin cesitli oldugunu ve azinliklarin guvenliginin onem tasidigini gosterir.",
+          "zh": "索林根成为德国作为移民社会的记忆的一部分。它说明现代德国是多元的，少数群体的安全非常重要。",
+          "ja": "ゾーリンゲンは、移民社会としてのドイツの記憶の一部となりました。この出来事は、現代ドイツが多様であり、少数者の安全が重要であることを示しています。",
+          "ko": "졸링겐은 이민 사회로서의 독일 기억의 일부가 되었습니다. 이 역사는 현대 독일이 다양하며 소수자의 안전이 중요하다는 것을 보여 줍니다.",
+          "hi": "ज़ोलिंगेन जर्मनी की आप्रवासी समाज वाली स्मृति का हिस्सा बन गया। यह इतिहास दिखाता है कि आधुनिक जर्मनी विविध है और अल्पसंख्यकों की सुरक्षा महत्वपूर्ण है।",
+          "ar": "اصبحت زولينغن جزءا من ذاكرة المانيا كمجتمع هجرة. وتظهر القصة ان المانيا الحديثة متنوعة وان امن الاقليات مهم."
         },
         "importance": {
           "ru": "Эта дата трудная, но важная для честного календаря.",
           "de": "Dieses Datum ist schwierig, aber wichtig fuer einen ehrlichen Kalender.",
-          "en": "This date is difficult but important for an honest calendar."
+          "en": "This date is difficult but important for an honest calendar.",
+          "fr": "Cette date est difficile, mais importante pour un calendrier honnete.",
+          "es": "Esta fecha es dificil, pero importante para un calendario honesto.",
+          "it": "Questa data e difficile, ma importante per un calendario onesto.",
+          "pt": "Esta data e dificil, mas importante para um calendario honesto.",
+          "nl": "Deze datum is moeilijk, maar belangrijk voor een eerlijke kalender.",
+          "pl": "Ta data jest trudna, ale wazna dla uczciwego kalendarza.",
+          "tr": "Bu tarih zor, ama durust bir takvim icin onemlidir.",
+          "zh": "这个日期沉重，但对一份诚实的日历很重要。",
+          "ja": "この日はつらい日付ですが、誠実なカレンダーには重要です。",
+          "ko": "이 날짜는 어렵지만 정직한 달력에는 중요합니다.",
+          "hi": "यह तारीख कठिन है, लेकिन ईमानदार कैलेंडर के लिए महत्वपूर्ण है।",
+          "ar": "هذا التاريخ صعب، لكنه مهم لتقويم صادق."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Золингене ежегодно проходят памятные мероприятия.",
     "de": "In Solingen finden jaehrlich Gedenkveranstaltungen statt.",
-    "en": "Commemorative events are held annually in Solingen."
+    "en": "Commemorative events are held annually in Solingen.",
+    "fr": "Des commemorations ont lieu chaque annee a Solingen.",
+    "es": "Cada ano se celebran actos conmemorativos en Solingen.",
+    "it": "A Solingen si tengono ogni anno eventi commemorativi.",
+    "pt": "Eventos comemorativos sao realizados anualmente em Solingen.",
+    "nl": "In Solingen worden jaarlijks herdenkingen gehouden.",
+    "pl": "W Solingen co roku odbywaja sie uroczystosci upamietniajace.",
+    "tr": "Solingen'de her yil anma etkinlikleri duzenlenir.",
+    "zh": "索林根每年都会举行纪念活动。",
+    "ja": "ゾーリンゲンでは毎年追悼行事が行われます。",
+    "ko": "졸링겐에서는 매년 추모 행사가 열립니다.",
+    "hi": "ज़ोलिंगेन में हर साल स्मृति कार्यक्रम आयोजित होते हैं।",
+    "ar": "تقام فعاليات تذكارية سنوية في زولينغن."
   },
   "sources": [
     {

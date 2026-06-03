@@ -11,17 +11,53 @@
     "title": {
       "ru": "Матиас Руст приземлился у Красной площади",
       "de": "Mathias Rust landet nahe dem Roten Platz",
-      "en": "Mathias Rust lands near Red Square"
+      "en": "Mathias Rust lands near Red Square",
+      "fr": "Mathias Rust atterrit pres de la place Rouge",
+      "es": "Mathias Rust aterriza cerca de la Plaza Roja",
+      "it": "Mathias Rust atterra vicino alla Piazza Rossa",
+      "pt": "Mathias Rust pousa perto da Praca Vermelha",
+      "nl": "Mathias Rust landt bij het Rode Plein",
+      "pl": "Mathias Rust laduje przy Placu Czerwonym",
+      "tr": "Mathias Rust Kizil Meydan yakinina iner",
+      "zh": "马蒂亚斯·鲁斯特降落在红场附近",
+      "ja": "マティアス・ルストが赤の広場近くに着陸",
+      "ko": "마티아스 루스트가 붉은 광장 근처에 착륙하다",
+      "hi": "माथियास रुस्त रेड स्क्वायर के पास उतरा",
+      "ar": "ماتياس روست يهبط قرب الساحة الحمراء"
     },
     "description": {
       "ru": "28 мая 1987 года 18-летний западногерманский пилот Матиас Руст на небольшом самолёте долетел до Москвы и приземлился рядом с Красной площадью. Его полёт стал мировой сенсацией.",
       "de": "Am 28. Mai 1987 flog der 18-jaehrige westdeutsche Pilot Mathias Rust mit einem Kleinflugzeug bis nach Moskau und landete nahe dem Roten Platz. Sein Flug wurde zur Weltsensation.",
-      "en": "On 28 May 1987, 18-year-old West German pilot Mathias Rust flew a small aircraft to Moscow and landed near Red Square. His flight became a worldwide sensation."
+      "en": "On 28 May 1987, 18-year-old West German pilot Mathias Rust flew a small aircraft to Moscow and landed near Red Square. His flight became a worldwide sensation.",
+      "fr": "Le 28 mai 1987, le pilote ouest-allemand Mathias Rust, age de 18 ans, vola jusqu'a Moscou dans un petit avion et atterrit pres de la place Rouge. Son vol devint une sensation mondiale.",
+      "es": "El 28 de mayo de 1987, el piloto germano-occidental Mathias Rust, de 18 anos, volo en una avioneta hasta Moscu y aterrizo cerca de la Plaza Roja. Su vuelo se convirtio en una sensacion mundial.",
+      "it": "Il 28 maggio 1987 il pilota tedesco-occidentale Mathias Rust, diciottenne, volo con un piccolo aereo fino a Mosca e atterro vicino alla Piazza Rossa. Il suo volo divenne una sensazione mondiale.",
+      "pt": "Em 28 de maio de 1987, o piloto alemao ocidental Mathias Rust, de 18 anos, voou em um pequeno aviao ate Moscou e pousou perto da Praca Vermelha. Seu voo virou sensacao mundial.",
+      "nl": "Op 28 mei 1987 vloog de 18-jarige West-Duitse piloot Mathias Rust met een klein vliegtuig naar Moskou en landde bij het Rode Plein. Zijn vlucht werd een wereldwijde sensatie.",
+      "pl": "28 maja 1987 roku 18-letni zachodnioniemiecki pilot Mathias Rust polecial malym samolotem do Moskwy i wyladowal przy Placu Czerwonym. Jego lot stal sie swiatowa sensacja.",
+      "tr": "28 Mayis 1987'de 18 yasindaki Bati Alman pilot Mathias Rust kucuk bir ucakla Moskova'ya uctu ve Kizil Meydan yakinina indi. Ucusu dunya capinda sansasyon oldu.",
+      "zh": "1987年5月28日，18岁的西德飞行员马蒂亚斯·鲁斯特驾驶小型飞机飞到莫斯科，并降落在红场附近。他的飞行成为世界轰动事件。",
+      "ja": "1987年5月28日、18歳の西ドイツ人パイロット、マティアス・ルストは小型機でモスクワまで飛び、赤の広場近くに着陸しました。この飛行は世界的な話題となりました。",
+      "ko": "1987년 5월 28일, 18세의 서독 조종사 마티아스 루스트가 소형 항공기를 몰고 모스크바까지 날아가 붉은 광장 근처에 착륙했습니다. 그의 비행은 세계적인 화제가 되었습니다.",
+      "hi": "28 मई 1987 को 18 वर्षीय पश्चिम जर्मन पायलट माथियास रुस्त छोटे विमान से मॉस्को तक उड़कर रेड स्क्वायर के पास उतरा। उसकी उड़ान दुनिया भर में सनसनी बन गई।",
+      "ar": "في 28 مايو 1987 طار الطيار الالماني الغربي ماتياس روست، وكان عمره 18 عاما، بطائرة صغيرة الى موسكو وهبط قرب الساحة الحمراء. واصبحت رحلته حدثا عالميا مثيرا."
     },
     "importance": {
       "ru": "Событие выглядело почти невероятно и вызвало серьёзные последствия для советской системы ПВО.",
       "de": "Das Ereignis wirkte fast unglaublich und hatte ernste Folgen fuer das sowjetische Luftverteidigungssystem.",
-      "en": "The event seemed almost unbelievable and had serious consequences for the Soviet air defense system."
+      "en": "The event seemed almost unbelievable and had serious consequences for the Soviet air defense system.",
+      "fr": "L'evenement parut presque incroyable et eut de graves consequences pour le systeme sovietique de defense aerienne.",
+      "es": "El hecho parecio casi increible y tuvo graves consecuencias para el sistema sovietico de defensa aerea.",
+      "it": "L'evento sembro quasi incredibile ed ebbe gravi conseguenze per il sistema di difesa aerea sovietico.",
+      "pt": "O acontecimento pareceu quase inacreditavel e teve serias consequencias para o sistema sovietico de defesa aerea.",
+      "nl": "De gebeurtenis leek bijna ongelooflijk en had ernstige gevolgen voor het Sovjet-luchtverdedigingssysteem.",
+      "pl": "Wydarzenie wydawalo sie niemal niewiarygodne i mialo powazne konsekwencje dla radzieckiego systemu obrony powietrznej.",
+      "tr": "Olay neredeyse inanilmaz gorunuyordu ve Sovyet hava savunma sistemi icin ciddi sonuclar dogurdu.",
+      "zh": "这一事件几乎令人难以置信，并对苏联防空系统造成了严重后果。",
+      "ja": "この出来事はほとんど信じ難いものに見え、ソ連の防空体制に重大な影響を及ぼしました。",
+      "ko": "이 사건은 거의 믿기 어려워 보였고 소련 방공 체계에 심각한 결과를 낳았습니다.",
+      "hi": "यह घटना लगभग अविश्वसनीय लगी और सोवियत वायु रक्षा प्रणाली पर गंभीर असर डाल गई।",
+      "ar": "بدا الحدث شبه غير قابل للتصديق، وكانت له عواقب خطيرة على نظام الدفاع الجوي السوفيتي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Самый странный полёт холодной войны",
           "de": "Einer der seltsamsten Fluege des Kalten Krieges",
-          "en": "One of the strangest flights of the Cold War"
+          "en": "One of the strangest flights of the Cold War",
+          "fr": "L'un des vols les plus etranges de la guerre froide",
+          "es": "Uno de los vuelos mas extranos de la Guerra Fria",
+          "it": "Uno dei voli piu strani della Guerra fredda",
+          "pt": "Um dos voos mais estranhos da Guerra Fria",
+          "nl": "Een van de vreemdste vluchten van de Koude Oorlog",
+          "pl": "Jeden z najdziwniejszych lotow zimnej wojny",
+          "tr": "Soguk Savas'in en tuhaf ucuslarindan biri",
+          "zh": "冷战中最奇怪的飞行之一",
+          "ja": "冷戦で最も奇妙な飛行の一つ",
+          "ko": "냉전의 가장 이상한 비행 중 하나",
+          "hi": "शीत युद्ध की सबसे अजीब उड़ानों में से एक",
+          "ar": "احدى اغرب رحلات الحرب الباردة"
         },
         "description": {
           "ru": "Руст говорил, что хотел сделать жест мира. Но с точки зрения безопасности его полёт выглядел как огромный провал системы.",
           "de": "Rust sagte, er habe ein Friedenszeichen setzen wollen. Aus sicherheitspolitischer Sicht wirkte sein Flug jedoch wie ein gewaltiges Systemversagen.",
-          "en": "Rust said he wanted to make a gesture for peace. From a security perspective, however, his flight looked like a massive system failure."
+          "en": "Rust said he wanted to make a gesture for peace. From a security perspective, however, his flight looked like a massive system failure.",
+          "fr": "Rust affirma qu'il voulait faire un geste pour la paix. Du point de vue de la securite, son vol ressemblait toutefois a une enorme defaillance du systeme.",
+          "es": "Rust dijo que queria hacer un gesto por la paz. Sin embargo, desde el punto de vista de la seguridad, su vuelo parecia un enorme fallo del sistema.",
+          "it": "Rust disse di voler compiere un gesto per la pace. Dal punto di vista della sicurezza, pero, il suo volo sembro un enorme fallimento del sistema.",
+          "pt": "Rust disse que queria fazer um gesto pela paz. Do ponto de vista da seguranca, porem, seu voo pareceu uma enorme falha do sistema.",
+          "nl": "Rust zei dat hij een gebaar voor vrede wilde maken. Vanuit veiligheidsperspectief leek zijn vlucht echter op een enorme systeemfout.",
+          "pl": "Rust mowil, ze chcial wykonac gest na rzecz pokoju. Z punktu widzenia bezpieczenstwa jego lot wygladal jednak jak ogromna awaria systemu.",
+          "tr": "Rust baris icin bir jest yapmak istedigini soyledi. Ancak guvenlik acisindan ucusu devasa bir sistem arizasi gibi gorunuyordu.",
+          "zh": "鲁斯特说，他想做一个和平姿态。然而从安全角度看，他的飞行像是一次巨大的系统失灵。",
+          "ja": "ルストは平和のための意思表示をしたかったと語りました。しかし安全保障の観点から見ると、彼の飛行は巨大なシステム障害のように見えました。",
+          "ko": "루스트는 평화를 위한 몸짓을 하고 싶었다고 말했습니다. 그러나 안보 관점에서 그의 비행은 거대한 시스템 실패처럼 보였습니다.",
+          "hi": "रुस्त ने कहा कि वह शांति का संकेत देना चाहता था। लेकिन सुरक्षा की दृष्टि से उसकी उड़ान प्रणाली की बहुत बड़ी विफलता जैसी दिखी।",
+          "ar": "قال روست انه اراد القيام ببادرة من اجل السلام. لكن من منظور امني بدت رحلته كفشل ضخم للنظام."
         },
         "importance": {
           "ru": "Это как раз тот необычный случай, который хорошо оживляет исторический календарь.",
           "de": "Das ist genau die Art ungewoehnlicher Geschichte, die einen historischen Kalender lebendig macht.",
-          "en": "It is exactly the kind of unusual story that makes a history calendar vivid."
+          "en": "It is exactly the kind of unusual story that makes a history calendar vivid.",
+          "fr": "C'est exactement le genre d'histoire inhabituelle qui rend un calendrier historique vivant.",
+          "es": "Es justo el tipo de historia insolita que da vida a un calendario historico.",
+          "it": "E proprio il tipo di storia insolita che rende vivo un calendario storico.",
+          "pt": "E exatamente o tipo de historia incomum que torna vivo um calendario historico.",
+          "nl": "Het is precies het soort ongewone verhaal dat een historische kalender levendig maakt.",
+          "pl": "To wlasnie taki niezwykly przypadek, ktory ozywia kalendarz historyczny.",
+          "tr": "Bu, bir tarih takvimini canlandiran tam da o turden alisilmadik bir hikayedir.",
+          "zh": "这正是能让历史日历生动起来的那种不寻常故事。",
+          "ja": "これは歴史カレンダーを生き生きさせる、まさにその種の珍しい物語です。",
+          "ko": "이는 역사 달력을 생생하게 만드는 바로 그런 특이한 이야기입니다.",
+          "hi": "यह ठीक वैसी असामान्य कहानी है जो ऐतिहासिक कैलेंडर को जीवंत बनाती है।",
+          "ar": "انها بالضبط نوع القصة غير العادية التي تجعل التقويم التاريخي حيا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Руст вылетел из Финляндии на самолёте Cessna.",
     "de": "Rust startete aus Finnland mit einer Cessna.",
-    "en": "Rust took off from Finland in a Cessna."
+    "en": "Rust took off from Finland in a Cessna.",
+    "fr": "Rust decolla de Finlande dans un Cessna.",
+    "es": "Rust despego de Finlandia en una Cessna.",
+    "it": "Rust decollo dalla Finlandia con un Cessna.",
+    "pt": "Rust decolou da Finlandia em um Cessna.",
+    "nl": "Rust steeg op uit Finland in een Cessna.",
+    "pl": "Rust wystartowal z Finlandii samolotem Cessna.",
+    "tr": "Rust Finlandiya'dan bir Cessna ile havalandi.",
+    "zh": "鲁斯特驾驶一架塞斯纳飞机从芬兰起飞。",
+    "ja": "ルストはフィンランドからセスナ機で離陸しました。",
+    "ko": "루스트는 핀란드에서 세스나기로 이륙했습니다.",
+    "hi": "रुस्त ने फिनलैंड से Cessna विमान में उड़ान भरी थी।",
+    "ar": "اقلعت رحلة روست من فنلندا بطائرة سيسنا."
   },
   "sources": [
     {
