@@ -11,17 +11,53 @@
     "title": {
       "ru": "Образована Daimler-Benz AG",
       "de": "Die Daimler-Benz AG entsteht",
-      "en": "Daimler-Benz AG is formed"
+      "en": "Daimler-Benz AG is formed",
+      "fr": "Daimler-Benz AG est créée",
+      "es": "Se forma Daimler-Benz AG",
+      "it": "Nasce Daimler-Benz AG",
+      "pt": "É formada a Daimler-Benz AG",
+      "nl": "Daimler-Benz AG wordt opgericht",
+      "pl": "Powstaje Daimler-Benz AG",
+      "tr": "Daimler-Benz AG kurulur",
+      "zh": "戴姆勒-奔驰股份公司成立",
+      "ja": "ダイムラー・ベンツAGが成立",
+      "ko": "다임러-벤츠 AG가 설립되다",
+      "hi": "डेमलर-बेंज़ एजी का गठन हुआ",
+      "ar": "تأسيس شركة دايملر-بنز المساهمة"
     },
     "description": {
       "ru": "28 июня 1926 года компании Benz & Cie. и Daimler-Motoren-Gesellschaft объединились в Daimler-Benz AG. С этим связано появление марки Mercedes-Benz в её классическом виде.",
       "de": "Am 28. Juni 1926 schlossen sich Benz & Cie. und die Daimler-Motoren-Gesellschaft zur Daimler-Benz AG zusammen. Damit ist die Entstehung der Marke Mercedes-Benz in ihrer klassischen Form verbunden.",
-      "en": "On 28 June 1926, Benz & Cie. and Daimler-Motoren-Gesellschaft merged to form Daimler-Benz AG. This is tied to the emergence of the Mercedes-Benz brand in its classic form."
+      "en": "On 28 June 1926, Benz & Cie. and Daimler-Motoren-Gesellschaft merged to form Daimler-Benz AG. This is tied to the emergence of the Mercedes-Benz brand in its classic form.",
+      "fr": "Le 28 juin 1926, Benz & Cie. et Daimler-Motoren-Gesellschaft fusionnèrent pour former Daimler-Benz AG. Cette date est liée à l'apparition de la marque Mercedes-Benz sous sa forme classique.",
+      "es": "El 28 de junio de 1926, Benz & Cie. y Daimler-Motoren-Gesellschaft se fusionaron para formar Daimler-Benz AG. Con ello se relaciona la aparición de la marca Mercedes-Benz en su forma clásica.",
+      "it": "Il 28 giugno 1926 Benz & Cie. e Daimler-Motoren-Gesellschaft si fusero dando vita a Daimler-Benz AG. A questo è legata la nascita del marchio Mercedes-Benz nella sua forma classica.",
+      "pt": "Em 28 de junho de 1926, a Benz & Cie. e a Daimler-Motoren-Gesellschaft fundiram-se para formar a Daimler-Benz AG. A isso está ligado o surgimento da marca Mercedes-Benz em sua forma clássica.",
+      "nl": "Op 28 juni 1926 fuseerden Benz & Cie. en Daimler-Motoren-Gesellschaft tot Daimler-Benz AG. Daarmee hangt het ontstaan van het merk Mercedes-Benz in zijn klassieke vorm samen.",
+      "pl": "28 czerwca 1926 roku firmy Benz & Cie. oraz Daimler-Motoren-Gesellschaft połączyły się, tworząc Daimler-Benz AG. Z tym wiąże się powstanie marki Mercedes-Benz w jej klasycznej postaci.",
+      "tr": "28 Haziran 1926'da Benz & Cie. ile Daimler-Motoren-Gesellschaft birleşerek Daimler-Benz AG'yi oluşturdu. Mercedes-Benz markasının klasik biçimiyle ortaya çıkışı bu birleşmeyle bağlantılıdır.",
+      "zh": "1926年6月28日，Benz & Cie.与Daimler-Motoren-Gesellschaft合并成立戴姆勒-奔驰股份公司。梅赛德斯-奔驰品牌经典形态的出现与此相关。",
+      "ja": "1926年6月28日、Benz & Cie.とDaimler-Motoren-Gesellschaftが合併し、ダイムラー・ベンツAGが成立した。これは、メルセデス・ベンツというブランドが古典的な形で現れることと結びついている。",
+      "ko": "1926년 6월 28일, Benz & Cie.와 Daimler-Motoren-Gesellschaft가 합병해 다임러-벤츠 AG를 만들었다. 이는 메르세데스-벤츠 브랜드가 고전적인 형태로 등장한 일과 관련된다.",
+      "hi": "28 जून 1926 को Benz & Cie. और Daimler-Motoren-Gesellschaft मिलकर Daimler-Benz AG बनीं। इसी से Mercedes-Benz ब्रांड के अपने क्लासिक रूप में उभरने की कहानी जुड़ी है।",
+      "ar": "في 28 يونيو 1926 اندمجت شركتا Benz & Cie. وDaimler-Motoren-Gesellschaft لتشكلا Daimler-Benz AG. ويرتبط بذلك ظهور علامة مرسيدس-بنز بصورتها الكلاسيكية."
     },
     "importance": {
       "ru": "Это важная дата в истории немецкой автомобильной промышленности.",
       "de": "Das ist ein wichtiges Datum in der Geschichte der deutschen Automobilindustrie.",
-      "en": "It is an important date in the history of the German automobile industry."
+      "en": "It is an important date in the history of the German automobile industry.",
+      "fr": "C'est une date importante dans l'histoire de l'industrie automobile allemande.",
+      "es": "Es una fecha importante en la historia de la industria automovilística alemana.",
+      "it": "È una data importante nella storia dell'industria automobilistica tedesca.",
+      "pt": "É uma data importante na história da indústria automobilística alemã.",
+      "nl": "Het is een belangrijke datum in de geschiedenis van de Duitse auto-industrie.",
+      "pl": "To ważna data w historii niemieckiego przemysłu samochodowego.",
+      "tr": "Bu, Alman otomobil sanayisi tarihinde önemli bir tarihtir.",
+      "zh": "这是德国汽车工业史上的重要日期。",
+      "ja": "これはドイツ自動車産業史における重要な日付である。",
+      "ko": "이는 독일 자동차 산업 역사에서 중요한 날짜이다.",
+      "hi": "यह जर्मन ऑटोमोबाइल उद्योग के इतिहास की एक महत्वपूर्ण तारीख है।",
+      "ar": "إنه تاريخ مهم في تاريخ صناعة السيارات الألمانية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Две линии изобретателей сошлись вместе",
           "de": "Zwei Erfinderlinien kommen zusammen",
-          "en": "Two inventor traditions come together"
+          "en": "Two inventor traditions come together",
+          "fr": "Deux traditions d'inventeurs se rejoignent",
+          "es": "Dos tradiciones de inventores se unen",
+          "it": "Due tradizioni di inventori si incontrano",
+          "pt": "Duas tradições de inventores se unem",
+          "nl": "Twee uitvinderstradities komen samen",
+          "pl": "Spotykają się dwie tradycje wynalazców",
+          "tr": "İki mucit geleneği bir araya gelir",
+          "zh": "两条发明者传统汇合",
+          "ja": "二つの発明家の系譜が合流する",
+          "ko": "두 발명가 전통이 하나로 만나다",
+          "hi": "आविष्कारकों की दो परंपराएं साथ आईं",
+          "ar": "يلتقي تقليدان من تقاليد المخترعين"
         },
         "description": {
           "ru": "Слияние объединило наследие Карла Бенца, Готлиба Даймлера и Вильгельма Майбаха. За брендом стояла длинная инженерная история.",
           "de": "Die Fusion verband das Erbe von Carl Benz, Gottlieb Daimler und Wilhelm Maybach. Hinter der Marke stand eine lange Ingenieurgeschichte.",
-          "en": "The merger united the legacies of Carl Benz, Gottlieb Daimler and Wilhelm Maybach. Behind the brand stood a long engineering history."
+          "en": "The merger united the legacies of Carl Benz, Gottlieb Daimler and Wilhelm Maybach. Behind the brand stood a long engineering history.",
+          "fr": "La fusion réunit les héritages de Carl Benz, Gottlieb Daimler et Wilhelm Maybach. Derrière la marque se trouvait une longue histoire d'ingénierie.",
+          "es": "La fusión unió los legados de Carl Benz, Gottlieb Daimler y Wilhelm Maybach. Detrás de la marca había una larga historia de ingeniería.",
+          "it": "La fusione unì le eredità di Carl Benz, Gottlieb Daimler e Wilhelm Maybach. Dietro il marchio c'era una lunga storia ingegneristica.",
+          "pt": "A fusão uniu os legados de Carl Benz, Gottlieb Daimler e Wilhelm Maybach. Por trás da marca havia uma longa história de engenharia.",
+          "nl": "De fusie verenigde de nalatenschappen van Carl Benz, Gottlieb Daimler en Wilhelm Maybach. Achter het merk stond een lange ingenieursgeschiedenis.",
+          "pl": "Fuzja połączyła dziedzictwo Carla Benza, Gottlieba Daimlera i Wilhelma Maybacha. Za marką stała długa historia inżynierii.",
+          "tr": "Birleşme, Carl Benz, Gottlieb Daimler ve Wilhelm Maybach'ın miraslarını bir araya getirdi. Markanın arkasında uzun bir mühendislik tarihi vardı.",
+          "zh": "这次合并汇集了卡尔·本茨、戈特利布·戴姆勒和威廉·迈巴赫的遗产。这个品牌背后有着悠久的工程史。",
+          "ja": "この合併は、カール・ベンツ、ゴットリープ・ダイムラー、ヴィルヘルム・マイバッハの遺産を一つにした。ブランドの背後には長い工学の歴史があった。",
+          "ko": "이 합병은 카를 벤츠, 고틀리프 다임러, 빌헬름 마이바흐의 유산을 하나로 모았다. 그 브랜드 뒤에는 긴 공학의 역사가 있었다.",
+          "hi": "इस विलय ने कार्ल बेंज़, गॉटलीब डाइमलर और विल्हेल्म मायबाख की विरासतों को जोड़ा। इस ब्रांड के पीछे इंजीनियरिंग का लंबा इतिहास था।",
+          "ar": "جمع الاندماج إرث كارل بنز وغوتليب دايملر وفيلهلم مايباخ. وخلف العلامة التجارية كان هناك تاريخ هندسي طويل."
         },
         "importance": {
           "ru": "Это помогает понять, почему автомобиль так важен для образа Германии.",
           "de": "Das hilft zu verstehen, warum das Auto fuer das Deutschlandbild so wichtig ist.",
-          "en": "It helps explain why the automobile is so important to Germany's image."
+          "en": "It helps explain why the automobile is so important to Germany's image.",
+          "fr": "Cela aide à comprendre pourquoi l'automobile est si importante pour l'image de l'Allemagne.",
+          "es": "Ayuda a entender por qué el automóvil es tan importante para la imagen de Alemania.",
+          "it": "Aiuta a capire perché l'automobile è così importante per l'immagine della Germania.",
+          "pt": "Isso ajuda a entender por que o automóvel é tão importante para a imagem da Alemanha.",
+          "nl": "Het helpt verklaren waarom de auto zo belangrijk is voor het beeld van Duitsland.",
+          "pl": "Pomaga to zrozumieć, dlaczego samochód jest tak ważny dla obrazu Niemiec.",
+          "tr": "Bu, otomobilin Almanya imajı için neden bu kadar önemli olduğunu anlamaya yardımcı olur.",
+          "zh": "这有助于理解为什么汽车对德国形象如此重要。",
+          "ja": "自動車がドイツのイメージにとってなぜこれほど重要なのかを理解する助けになる。",
+          "ko": "자동차가 독일의 이미지에 왜 그렇게 중요한지 이해하는 데 도움이 된다.",
+          "hi": "यह समझने में मदद करता है कि जर्मनी की छवि के लिए कार इतनी महत्वपूर्ण क्यों है।",
+          "ar": "يساعد ذلك على فهم سبب أهمية السيارة الكبيرة في صورة ألمانيا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Звезда Mercedes-Benz стала одним из самых узнаваемых промышленных символов Германии.",
     "de": "Der Mercedes-Benz-Stern wurde zu einem der bekanntesten industriellen Symbole Deutschlands.",
-    "en": "The Mercedes-Benz star became one of Germany's most recognizable industrial symbols."
+    "en": "The Mercedes-Benz star became one of Germany's most recognizable industrial symbols.",
+    "fr": "L'étoile Mercedes-Benz est devenue l'un des symboles industriels les plus reconnaissables d'Allemagne.",
+    "es": "La estrella de Mercedes-Benz se convirtió en uno de los símbolos industriales más reconocibles de Alemania.",
+    "it": "La stella Mercedes-Benz divenne uno dei simboli industriali più riconoscibili della Germania.",
+    "pt": "A estrela da Mercedes-Benz tornou-se um dos símbolos industriais mais reconhecíveis da Alemanha.",
+    "nl": "De Mercedes-Benz-ster werd een van de meest herkenbare industriële symbolen van Duitsland.",
+    "pl": "Gwiazda Mercedes-Benz stała się jednym z najbardziej rozpoznawalnych symboli przemysłowych Niemiec.",
+    "tr": "Mercedes-Benz yıldızı Almanya'nın en tanınan endüstriyel sembollerinden biri oldu.",
+    "zh": "梅赛德斯-奔驰星标成为德国最容易识别的工业符号之一。",
+    "ja": "メルセデス・ベンツの星は、ドイツで最もよく知られる産業シンボルの一つとなった。",
+    "ko": "메르세데스-벤츠의 별은 독일에서 가장 알아보기 쉬운 산업 상징 중 하나가 되었다.",
+    "hi": "Mercedes-Benz का सितारा जर्मनी के सबसे पहचाने जाने वाले औद्योगिक प्रतीकों में से एक बन गया।",
+    "ar": "أصبحت نجمة مرسيدس-بنز أحد أكثر الرموز الصناعية الألمانية شهرة."
   },
   "sources": [
     {
