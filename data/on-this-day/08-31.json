@@ -11,17 +11,53 @@
     "title": {
       "ru": "Премьера «Трёхгрошовой оперы»",
       "de": "Urauffuehrung der Dreigroschenoper",
-      "en": "Premiere of The Threepenny Opera"
+      "en": "Premiere of The Threepenny Opera",
+      "fr": "Première de L'Opéra de quat'sous",
+      "es": "Estreno de La ópera de tres centavos",
+      "it": "Prima de L'opera da tre soldi",
+      "pt": "Estreia de A Ópera dos Três Vinténs",
+      "nl": "Première van De Driestuiversopera",
+      "pl": "Premiera Opery za trzy grosze",
+      "tr": "Üç Kuruşluk Opera'nın prömiyeri",
+      "zh": "《三便士歌剧》首演",
+      "ja": "『三文オペラ』初演",
+      "ko": "서푼짜리 오페라 초연",
+      "hi": "द थ्रीपेनी ओपेरा का प्रीमियर",
+      "ar": "العرض الأول لأوبرا الثلاثة قروش"
     },
     "description": {
       "ru": "31 августа 1928 года в берлинском Theater am Schiffbauerdamm состоялась премьера «Трёхгрошовой оперы» Бертольта Брехта и Курта Вайля. Спектакль быстро стал одним из символов культуры Веймарской республики.",
       "de": "Am 31. August 1928 wurde im Berliner Theater am Schiffbauerdamm die Dreigroschenoper von Bertolt Brecht und Kurt Weill uraufgefuehrt. Das Stueck wurde rasch zu einem Symbol der Kultur der Weimarer Republik.",
-      "en": "On 31 August 1928, Bertolt Brecht and Kurt Weill's The Threepenny Opera premiered at Berlin's Theater am Schiffbauerdamm. The work quickly became a symbol of Weimar Republic culture."
+      "en": "On 31 August 1928, Bertolt Brecht and Kurt Weill's The Threepenny Opera premiered at Berlin's Theater am Schiffbauerdamm. The work quickly became a symbol of Weimar Republic culture.",
+      "fr": "Le 31 août 1928, L'Opéra de quat'sous de Bertolt Brecht et Kurt Weill fut créé au Theater am Schiffbauerdamm à Berlin. L'œuvre devint vite un symbole de la culture de la République de Weimar.",
+      "es": "El 31 de agosto de 1928 se estrenó en el Theater am Schiffbauerdamm de Berlín La ópera de tres centavos, de Bertolt Brecht y Kurt Weill. La obra se convirtió rápidamente en símbolo de la cultura de la República de Weimar.",
+      "it": "Il 31 agosto 1928 L'opera da tre soldi di Bertolt Brecht e Kurt Weill debuttò al Theater am Schiffbauerdamm di Berlino. L'opera divenne rapidamente un simbolo della cultura della Repubblica di Weimar.",
+      "pt": "Em 31 de agosto de 1928, A Ópera dos Três Vinténs, de Bertolt Brecht e Kurt Weill, estreou no Theater am Schiffbauerdamm, em Berlim. A obra rapidamente se tornou um símbolo da cultura da República de Weimar.",
+      "nl": "Op 31 augustus 1928 ging Bertolt Brecht en Kurt Weills De Driestuiversopera in première in het Berlijnse Theater am Schiffbauerdamm. Het werk werd snel een symbool van de cultuur van de Weimarrepubliek.",
+      "pl": "31 sierpnia 1928 roku w berlińskim Theater am Schiffbauerdamm odbyła się premiera Opery za trzy grosze Bertolta Brechta i Kurta Weilla. Utwór szybko stał się symbolem kultury Republiki Weimarskiej.",
+      "tr": "31 Ağustos 1928'de Bertolt Brecht ve Kurt Weill'in Üç Kuruşluk Opera'sı Berlin'deki Theater am Schiffbauerdamm'da sahnelendi. Eser kısa sürede Weimar Cumhuriyeti kültürünün sembollerinden biri oldu.",
+      "zh": "1928年8月31日，贝托尔特·布莱希特和库尔特·魏尔的《三便士歌剧》在柏林船坞剧院首演。这部作品很快成为魏玛共和国文化的象征。",
+      "ja": "1928年8月31日、ベルトルト・ブレヒトとクルト・ヴァイルの『三文オペラ』がベルリンのシッフバウアーダム劇場で初演されました。この作品はすぐにワイマール共和国文化の象徴となりました。",
+      "ko": "1928년 8월 31일 베르톨트 브레히트와 쿠르트 바일의 서푼짜리 오페라가 베를린 Theater am Schiffbauerdamm에서 초연되었습니다. 이 작품은 곧 바이마르 공화국 문화의 상징이 되었습니다.",
+      "hi": "31 अगस्त 1928 को बर्लिन के Theater am Schiffbauerdamm में बर्टोल्ट ब्रेख्त और कुर्ट वाइल की द थ्रीपेनी ओपेरा का प्रीमियर हुआ। यह रचना जल्दी ही वाइमर गणराज्य की संस्कृति का प्रतीक बन गई।",
+      "ar": "في 31 أغسطس 1928 عُرضت أوبرا الثلاثة قروش لبرتولت بريشت وكورت فايل لأول مرة في مسرح شيفباوردام ببرلين. وسرعان ما أصبحت رمزاً لثقافة جمهورية فايمار."
     },
     "importance": {
       "ru": "Это одно из самых известных немецких театрально-музыкальных произведений XX века.",
       "de": "Es ist eines der bekanntesten deutschen Theater- und Musikwerke des 20. Jahrhunderts.",
-      "en": "It is one of the best-known German works of theater and music from the 20th century."
+      "en": "It is one of the best-known German works of theater and music from the 20th century.",
+      "fr": "C'est l'une des œuvres allemandes de théâtre et de musique les plus connues du XXe siècle.",
+      "es": "Es una de las obras alemanas de teatro y música más conocidas del siglo XX.",
+      "it": "È una delle opere tedesche di teatro e musica più note del XX secolo.",
+      "pt": "É uma das obras alemãs de teatro e música mais conhecidas do século XX.",
+      "nl": "Het is een van de bekendste Duitse theater- en muziekwerken van de 20e eeuw.",
+      "pl": "To jedno z najbardziej znanych niemieckich dzieł teatralno-muzycznych XX wieku.",
+      "tr": "Bu, 20. yüzyılın en bilinen Alman tiyatro ve müzik eserlerinden biridir.",
+      "zh": "这是20世纪最著名的德国戏剧音乐作品之一。",
+      "ja": "これは20世紀のドイツで最もよく知られた演劇・音楽作品の一つです。",
+      "ko": "이는 20세기 독일의 가장 잘 알려진 연극·음악 작품 중 하나입니다.",
+      "hi": "यह 20वीं सदी की सबसे प्रसिद्ध जर्मन रंगमंच-संगीत रचनाओं में से एक है।",
+      "ar": "إنها واحدة من أشهر الأعمال المسرحية والموسيقية الألمانية في القرن العشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Брехт, Вайль и острый театр",
           "de": "Brecht, Weill und scharfes Theater",
-          "en": "Brecht, Weill and sharp theater"
+          "en": "Brecht, Weill and sharp theater",
+          "fr": "Brecht, Weill et un théâtre incisif",
+          "es": "Brecht, Weill y un teatro afilado",
+          "it": "Brecht, Weill e un teatro tagliente",
+          "pt": "Brecht, Weill e um teatro incisivo",
+          "nl": "Brecht, Weill en scherp theater",
+          "pl": "Brecht, Weill i ostry teatr",
+          "tr": "Brecht, Weill ve keskin tiyatro",
+          "zh": "布莱希特、魏尔与犀利戏剧",
+          "ja": "ブレヒト、ヴァイル、鋭い演劇",
+          "ko": "브레히트, 바일 그리고 날카로운 연극",
+          "hi": "ब्रेख्त, वाइल और तीखा रंगमंच",
+          "ar": "بريشت وفايل ومسرح حاد"
         },
         "description": {
           "ru": "Брехт и Вайль смешали театр, песни, сатиру и социальную критику. Вместо красивой сказки зрители получили историю о преступниках, деньгах и лицемерии общества.",
           "de": "Brecht und Weill verbanden Theater, Songs, Satire und Gesellschaftskritik. Statt eines schoenen Maerchens bekam das Publikum eine Geschichte ueber Verbrechen, Geld und gesellschaftliche Heuchelei.",
-          "en": "Brecht and Weill combined theater, songs, satire and social criticism. Instead of a pretty fairy tale, audiences got a story about crime, money and social hypocrisy."
+          "en": "Brecht and Weill combined theater, songs, satire and social criticism. Instead of a pretty fairy tale, audiences got a story about crime, money and social hypocrisy.",
+          "fr": "Brecht et Weill mêlèrent théâtre, chansons, satire et critique sociale. Au lieu d'un joli conte, le public reçut une histoire de criminels, d'argent et d'hypocrisie sociale.",
+          "es": "Brecht y Weill mezclaron teatro, canciones, sátira y crítica social. En lugar de un bonito cuento, el público recibió una historia sobre delincuentes, dinero e hipocresía social.",
+          "it": "Brecht e Weill mescolarono teatro, canzoni, satira e critica sociale. Invece di una bella fiaba, il pubblico ebbe una storia su criminali, denaro e ipocrisia sociale.",
+          "pt": "Brecht e Weill misturaram teatro, canções, sátira e crítica social. Em vez de um conto bonito, o público recebeu uma história sobre criminosos, dinheiro e hipocrisia social.",
+          "nl": "Brecht en Weill combineerden theater, liederen, satire en maatschappijkritiek. In plaats van een mooi sprookje kreeg het publiek een verhaal over misdadigers, geld en sociale hypocrisie.",
+          "pl": "Brecht i Weill połączyli teatr, pieśni, satyrę i krytykę społeczną. Zamiast ładnej bajki widzowie dostali historię o przestępcach, pieniądzach i społecznej hipokryzji.",
+          "tr": "Brecht ve Weill tiyatroyu, şarkıları, hicvi ve toplumsal eleştiriyi birleştirdi. Güzel bir masal yerine izleyiciler suçlular, para ve toplumun ikiyüzlülüğü üzerine bir hikâye izledi.",
+          "zh": "布莱希特和魏尔把戏剧、歌曲、讽刺和社会批评混合在一起。观众看到的不是美丽童话，而是关于罪犯、金钱和社会虚伪的故事。",
+          "ja": "ブレヒトとヴァイルは演劇、歌、風刺、社会批判を組み合わせました。美しいおとぎ話ではなく、観客は犯罪者、金、社会の偽善をめぐる物語を受け取りました。",
+          "ko": "브레히트와 바일은 연극, 노래, 풍자, 사회 비판을 결합했습니다. 관객은 아름다운 동화 대신 범죄자, 돈, 사회적 위선에 관한 이야기를 보게 되었습니다.",
+          "hi": "ब्रेख्त और वाइल ने रंगमंच, गीत, व्यंग्य और सामाजिक आलोचना को मिलाया। सुंदर परीकथा के बजाय दर्शकों को अपराधियों, पैसे और समाज के पाखंड की कहानी मिली।",
+          "ar": "جمع بريشت وفايل بين المسرح والأغاني والسخرية والنقد الاجتماعي. وبدلاً من حكاية جميلة حصل الجمهور على قصة عن المجرمين والمال ونفاق المجتمع."
         },
         "importance": {
           "ru": "Такой театр хорошо передаёт нерв и свободу Берлина 1920-х годов.",
           "de": "Dieses Theater vermittelt gut die Spannung und Freiheit Berlins in den 1920er Jahren.",
-          "en": "This kind of theater captures the tension and freedom of Berlin in the 1920s."
+          "en": "This kind of theater captures the tension and freedom of Berlin in the 1920s.",
+          "fr": "Ce type de théâtre transmet bien la tension et la liberté du Berlin des années 1920.",
+          "es": "Este tipo de teatro transmite bien la tensión y la libertad del Berlín de los años veinte.",
+          "it": "Questo tipo di teatro rende bene la tensione e la libertà della Berlino degli anni Venti.",
+          "pt": "Esse tipo de teatro transmite bem a tensão e a liberdade da Berlim dos anos 1920.",
+          "nl": "Dit soort theater vangt goed de spanning en vrijheid van Berlijn in de jaren 1920.",
+          "pl": "Taki teatr dobrze oddaje napięcie i wolność Berlina lat 20.",
+          "tr": "Bu tür tiyatro, 1920'lerin Berlin'indeki gerilimi ve özgürlüğü iyi yansıtır.",
+          "zh": "这种戏剧很好地呈现了1920年代柏林的紧张与自由。",
+          "ja": "このような演劇は、1920年代ベルリンの緊張と自由をよく伝えています。",
+          "ko": "이런 연극은 1920년대 베를린의 긴장과 자유를 잘 담아냅니다.",
+          "hi": "ऐसा रंगमंच 1920 के दशक के बर्लिन की बेचैनी और स्वतंत्रता को अच्छी तरह दिखाता है।",
+          "ar": "ينقل هذا النوع من المسرح توتر برلين وحريتها في عشرينيات القرن العشرين بشكل جيد."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "От сцены к мировому хиту",
           "de": "Von der Buehne zum Welthit",
-          "en": "From stage song to world hit"
+          "en": "From stage song to world hit",
+          "fr": "De la scène au succès mondial",
+          "es": "Del escenario al éxito mundial",
+          "it": "Dal palcoscenico al successo mondiale",
+          "pt": "Do palco ao sucesso mundial",
+          "nl": "Van toneellied tot wereldhit",
+          "pl": "Ze sceny do światowego hitu",
+          "tr": "Sahneden dünya hitine",
+          "zh": "从舞台歌曲到世界名曲",
+          "ja": "舞台歌から世界的ヒットへ",
+          "ko": "무대 노래에서 세계적 히트곡으로",
+          "hi": "मंच गीत से विश्व हिट तक",
+          "ar": "من أغنية مسرحية إلى نجاح عالمي"
         },
         "description": {
           "ru": "Песня о Мэкки Мессере позже стала известна во всём мире как «Mack the Knife». Её исполняли в самых разных стилях, далеко за пределами немецкого театра.",
           "de": "Das Lied von Mackie Messer wurde spaeter als Mack the Knife weltweit bekannt. Es wurde in sehr unterschiedlichen Stilen gesungen, weit ueber das deutsche Theater hinaus.",
-          "en": "The song about Mackie Messer later became known worldwide as Mack the Knife. It was performed in many different styles, far beyond German theater."
+          "en": "The song about Mackie Messer later became known worldwide as Mack the Knife. It was performed in many different styles, far beyond German theater.",
+          "fr": "La chanson sur Mackie Messer devint plus tard célèbre dans le monde entier sous le titre Mack the Knife. Elle fut interprétée dans des styles très différents, bien au-delà du théâtre allemand.",
+          "es": "La canción sobre Mackie Messer se hizo después mundialmente conocida como Mack the Knife. Fue interpretada en estilos muy distintos, mucho más allá del teatro alemán.",
+          "it": "La canzone su Mackie Messer divenne poi famosa in tutto il mondo come Mack the Knife. Fu eseguita in stili molto diversi, ben oltre il teatro tedesco.",
+          "pt": "A canção sobre Mackie Messer depois ficou conhecida mundialmente como Mack the Knife. Foi interpretada em estilos muito diferentes, muito além do teatro alemão.",
+          "nl": "Het lied over Mackie Messer werd later wereldwijd bekend als Mack the Knife. Het werd in heel verschillende stijlen uitgevoerd, ver buiten het Duitse theater.",
+          "pl": "Piosenka o Mackie Messerze stała się później znana na całym świecie jako Mack the Knife. Wykonywano ją w bardzo różnych stylach, daleko poza niemieckim teatrem.",
+          "tr": "Mackie Messer hakkındaki şarkı daha sonra Mack the Knife adıyla dünya çapında tanındı. Alman tiyatrosunun çok ötesinde, pek çok farklı tarzda seslendirildi.",
+          "zh": "关于麦基·梅塞尔的歌曲后来以《Mack the Knife》之名闻名世界。它以许多不同风格被演唱，远远超出了德国戏剧范围。",
+          "ja": "マッキー・メッサーについての歌は、後にMack the Knifeとして世界的に有名になりました。ドイツ演劇の枠をはるかに越え、さまざまなスタイルで演奏されました。",
+          "ko": "마키 메서에 관한 노래는 나중에 Mack the Knife로 세계적으로 알려졌습니다. 독일 연극을 훨씬 넘어 다양한 스타일로 공연되었습니다.",
+          "hi": "मैक्की मेसर पर गीत बाद में Mack the Knife के नाम से दुनिया भर में प्रसिद्ध हुआ। इसे जर्मन रंगमंच से बहुत आगे, कई अलग-अलग शैलियों में गाया गया।",
+          "ar": "أصبحت أغنية ماكي ميسر لاحقاً معروفة عالمياً باسم Mack the Knife. وقد أُديت بأساليب كثيرة مختلفة بعيداً عن المسرح الألماني."
         },
         "importance": {
           "ru": "Иногда театральная песня неожиданно получает вторую жизнь как поп-классика.",
           "de": "Manchmal bekommt ein Theaterlied ueberraschend ein zweites Leben als Popklassiker.",
-          "en": "Sometimes a theater song unexpectedly gets a second life as a pop classic."
+          "en": "Sometimes a theater song unexpectedly gets a second life as a pop classic.",
+          "fr": "Parfois, une chanson de théâtre reçoit soudain une seconde vie comme classique pop.",
+          "es": "A veces una canción teatral recibe inesperadamente una segunda vida como clásico del pop.",
+          "it": "A volte una canzone teatrale ottiene inaspettatamente una seconda vita come classico pop.",
+          "pt": "Às vezes uma canção teatral ganha inesperadamente uma segunda vida como clássico pop.",
+          "nl": "Soms krijgt een theaterlied onverwacht een tweede leven als popklassieker.",
+          "pl": "Czasem piosenka teatralna niespodziewanie dostaje drugie życie jako popowy klasyk.",
+          "tr": "Bazen bir tiyatro şarkısı beklenmedik biçimde pop klasiği olarak ikinci bir hayat kazanır.",
+          "zh": "有时，一首戏剧歌曲会意外地作为流行经典获得第二次生命。",
+          "ja": "劇中歌が思いがけずポップの名曲として第二の人生を得ることがあります。",
+          "ko": "때로는 연극 노래가 예상치 못하게 팝 클래식으로 두 번째 삶을 얻습니다.",
+          "hi": "कभी-कभी रंगमंच का गीत अचानक पॉप-क्लासिक के रूप में दूसरी जिंदगी पाता है।",
+          "ar": "أحياناً تحصل أغنية مسرحية بشكل غير متوقع على حياة ثانية كأغنية بوب كلاسيكية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Theater am Schiffbauerdamm позже стал домом Berliner Ensemble, театра, связанного с именем Брехта.",
     "de": "Das Theater am Schiffbauerdamm wurde spaeter die Heimat des Berliner Ensembles, das eng mit Brechts Namen verbunden ist.",
-    "en": "Theater am Schiffbauerdamm later became the home of the Berliner Ensemble, closely associated with Brecht's name."
+    "en": "Theater am Schiffbauerdamm later became the home of the Berliner Ensemble, closely associated with Brecht's name.",
+    "fr": "Le Theater am Schiffbauerdamm devint plus tard le siège du Berliner Ensemble, étroitement associé au nom de Brecht.",
+    "es": "El Theater am Schiffbauerdamm se convirtió más tarde en la sede del Berliner Ensemble, estrechamente asociado con el nombre de Brecht.",
+    "it": "Il Theater am Schiffbauerdamm divenne in seguito la sede del Berliner Ensemble, strettamente legato al nome di Brecht.",
+    "pt": "O Theater am Schiffbauerdamm tornou-se depois a sede do Berliner Ensemble, intimamente associado ao nome de Brecht.",
+    "nl": "Theater am Schiffbauerdamm werd later de thuisbasis van het Berliner Ensemble, nauw verbonden met Brechts naam.",
+    "pl": "Theater am Schiffbauerdamm stał się później siedzibą Berliner Ensemble, teatru ściśle związanego z nazwiskiem Brechta.",
+    "tr": "Theater am Schiffbauerdamm daha sonra Brecht'in adıyla yakından bağlantılı Berliner Ensemble'ın evi oldu.",
+    "zh": "船坞剧院后来成为与布莱希特密切相关的柏林剧团所在地。",
+    "ja": "シッフバウアーダム劇場は後に、ブレヒトの名と深く結びついたベルリナー・アンサンブルの本拠地となりました。",
+    "ko": "Theater am Schiffbauerdamm은 나중에 브레히트의 이름과 밀접히 연결된 Berliner Ensemble의 본거지가 되었습니다.",
+    "hi": "Theater am Schiffbauerdamm बाद में Berliner Ensemble का घर बना, जो ब्रेख्त के नाम से घनिष्ठ रूप से जुड़ा है।",
+    "ar": "أصبح مسرح شيفباوردام لاحقاً مقر فرقة برلينر إنسامبل المرتبطة ارتباطاً وثيقاً باسم بريشت."
   },
   "sources": [
     {

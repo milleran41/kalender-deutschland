@@ -11,17 +11,53 @@
     "title": {
       "ru": "Завершилась битва при Танненберге",
       "de": "Die Schlacht bei Tannenberg endet",
-      "en": "The Battle of Tannenberg ends"
+      "en": "The Battle of Tannenberg ends",
+      "fr": "La bataille de Tannenberg prend fin",
+      "es": "Termina la batalla de Tannenberg",
+      "it": "Si conclude la battaglia di Tannenberg",
+      "pt": "Termina a Batalha de Tannenberg",
+      "nl": "De Slag bij Tannenberg eindigt",
+      "pl": "Zakończyła się bitwa pod Tannenbergiem",
+      "tr": "Tannenberg Muharebesi sona erdi",
+      "zh": "坦能堡战役结束",
+      "ja": "タンネンベルクの戦いが終わる",
+      "ko": "탄넨베르크 전투가 끝나다",
+      "hi": "टैननबर्ग की लड़ाई समाप्त हुई",
+      "ar": "انتهاء معركة تاننبرغ"
     },
     "description": {
       "ru": "30 августа 1914 года завершилась битва при Танненберге в Восточной Пруссии. Германская армия нанесла тяжёлое поражение русской армии, и это стало одной из самых известных немецких побед начала Первой мировой войны.",
       "de": "Am 30. August 1914 endete die Schlacht bei Tannenberg in Ostpreussen. Die deutsche Armee fuegte der russischen Armee eine schwere Niederlage zu; es wurde einer der bekanntesten deutschen Siege zu Beginn des Ersten Weltkriegs.",
-      "en": "On 30 August 1914, the Battle of Tannenberg in East Prussia ended. The German army inflicted a severe defeat on the Russian army, making it one of Germany's best-known early victories in the First World War."
+      "en": "On 30 August 1914, the Battle of Tannenberg in East Prussia ended. The German army inflicted a severe defeat on the Russian army, making it one of Germany's best-known early victories in the First World War.",
+      "fr": "Le 30 août 1914, la bataille de Tannenberg en Prusse-Orientale prit fin. L'armée allemande infligea une lourde défaite à l'armée russe, ce qui devint l'une des victoires allemandes les plus connues du début de la Première Guerre mondiale.",
+      "es": "El 30 de agosto de 1914 terminó la batalla de Tannenberg en Prusia Oriental. El ejército alemán infligió una grave derrota al ejército ruso, convirtiéndola en una de las victorias alemanas más conocidas del comienzo de la Primera Guerra Mundial.",
+      "it": "Il 30 agosto 1914 terminò la battaglia di Tannenberg in Prussia Orientale. L'esercito tedesco inflisse una pesante sconfitta all'esercito russo, rendendola una delle vittorie tedesche più note dell'inizio della Prima guerra mondiale.",
+      "pt": "Em 30 de agosto de 1914 terminou a Batalha de Tannenberg na Prússia Oriental. O exército alemão impôs uma grave derrota ao exército russo, tornando-a uma das vitórias alemãs mais conhecidas do início da Primeira Guerra Mundial.",
+      "nl": "Op 30 augustus 1914 eindigde de Slag bij Tannenberg in Oost-Pruisen. Het Duitse leger bracht het Russische leger een zware nederlaag toe, waardoor het een van Duitslands bekendste vroege overwinningen in de Eerste Wereldoorlog werd.",
+      "pl": "30 sierpnia 1914 roku zakończyła się bitwa pod Tannenbergiem w Prusach Wschodnich. Armia niemiecka zadała armii rosyjskiej ciężką klęskę, czyniąc ją jednym z najbardziej znanych niemieckich zwycięstw początku I wojny światowej.",
+      "tr": "30 Ağustos 1914'te Doğu Prusya'daki Tannenberg Muharebesi sona erdi. Alman ordusu Rus ordusuna ağır bir yenilgi yaşattı ve bu, Birinci Dünya Savaşı'nın başındaki en bilinen Alman zaferlerinden biri oldu.",
+      "zh": "1914年8月30日，东普鲁士的坦能堡战役结束。德国军队重创俄军，使其成为第一次世界大战初期德国最著名的胜利之一。",
+      "ja": "1914年8月30日、東プロイセンでのタンネンベルクの戦いが終わりました。ドイツ軍はロシア軍に大きな敗北を与え、第一次世界大戦初期のドイツで最も有名な勝利の一つとなりました。",
+      "ko": "1914년 8월 30일 동프로이센에서 탄넨베르크 전투가 끝났습니다. 독일군은 러시아군에 큰 패배를 안겼고, 이는 제1차 세계대전 초기 독일의 가장 유명한 승리 중 하나가 되었습니다.",
+      "hi": "30 अगस्त 1914 को पूर्वी प्रशिया में टैननबर्ग की लड़ाई समाप्त हुई। जर्मन सेना ने रूसी सेना को भारी पराजय दी, और यह प्रथम विश्व युद्ध की शुरुआत की सबसे प्रसिद्ध जर्मन विजयों में से एक बनी।",
+      "ar": "في 30 أغسطس 1914 انتهت معركة تاننبرغ في بروسيا الشرقية. ألحقت القوات الألمانية هزيمة قاسية بالجيش الروسي، فأصبحت من أشهر الانتصارات الألمانية في بداية الحرب العالمية الأولى."
     },
     "importance": {
       "ru": "Событие важно для понимания Восточного фронта и того, как военные победы быстро превращались в политические мифы.",
       "de": "Das Ereignis ist wichtig fuer das Verstaendnis der Ostfront und dafuer, wie militaerische Siege rasch zu politischen Mythen wurden.",
-      "en": "The event matters for understanding the Eastern Front and how military victories quickly became political myths."
+      "en": "The event matters for understanding the Eastern Front and how military victories quickly became political myths.",
+      "fr": "L'événement aide à comprendre le front de l'Est et la manière dont les victoires militaires devinrent vite des mythes politiques.",
+      "es": "El hecho es importante para entender el Frente Oriental y cómo las victorias militares se convertían rápidamente en mitos políticos.",
+      "it": "L'evento è importante per capire il fronte orientale e come le vittorie militari diventassero rapidamente miti politici.",
+      "pt": "O evento é importante para entender a Frente Oriental e como vitórias militares rapidamente se transformavam em mitos políticos.",
+      "nl": "De gebeurtenis is belangrijk om het oostfront te begrijpen en hoe militaire overwinningen snel politieke mythen werden.",
+      "pl": "Wydarzenie jest ważne dla zrozumienia frontu wschodniego i tego, jak zwycięstwa wojskowe szybko zmieniały się w polityczne mity.",
+      "tr": "Olay, Doğu Cephesi'ni ve askeri zaferlerin nasıl hızla siyasi mitlere dönüştüğünü anlamak için önemlidir.",
+      "zh": "这一事件有助于理解东线战场，以及军事胜利如何迅速转化为政治神话。",
+      "ja": "この出来事は東部戦線を理解し、軍事的勝利がどのようにすばやく政治的神話になったかを考えるうえで重要です。",
+      "ko": "이 사건은 동부 전선을 이해하고 군사적 승리가 어떻게 빠르게 정치적 신화가 되었는지 이해하는 데 중요합니다.",
+      "hi": "यह घटना पूर्वी मोर्चे और इस बात को समझने के लिए महत्वपूर्ण है कि सैन्य विजय कैसे जल्दी राजनीतिक मिथक बन जाती थीं।",
+      "ar": "هذا الحدث مهم لفهم الجبهة الشرقية وكيف كانت الانتصارات العسكرية تتحول سريعاً إلى أساطير سياسية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Война пришла в Восточную Пруссию",
           "de": "Der Krieg kommt nach Ostpreussen",
-          "en": "War reaches East Prussia"
+          "en": "War reaches East Prussia",
+          "fr": "La guerre atteint la Prusse-Orientale",
+          "es": "La guerra llega a Prusia Oriental",
+          "it": "La guerra arriva in Prussia Orientale",
+          "pt": "A guerra chega à Prússia Oriental",
+          "nl": "De oorlog bereikt Oost-Pruisen",
+          "pl": "Wojna dotarła do Prus Wschodnich",
+          "tr": "Savaş Doğu Prusya'ya ulaştı",
+          "zh": "战争来到东普鲁士",
+          "ja": "戦争が東プロイセンに及ぶ",
+          "ko": "전쟁이 동프로이센에 닿다",
+          "hi": "युद्ध पूर्वी प्रशिया पहुँचा",
+          "ar": "الحرب تصل إلى بروسيا الشرقية"
         },
         "description": {
           "ru": "Сражение происходило на территории Восточной Пруссии, которая тогда входила в Германскую империю. Для жителей региона война стала не далёкой новостью, а непосредственной угрозой.",
           "de": "Die Schlacht fand in Ostpreussen statt, das damals zum Deutschen Reich gehoerte. Fuer die Menschen der Region war der Krieg keine ferne Nachricht, sondern eine unmittelbare Bedrohung.",
-          "en": "The battle took place in East Prussia, then part of the German Empire. For people in the region, the war was not distant news but an immediate threat."
+          "en": "The battle took place in East Prussia, then part of the German Empire. For people in the region, the war was not distant news but an immediate threat.",
+          "fr": "La bataille eut lieu en Prusse-Orientale, qui appartenait alors à l'Empire allemand. Pour les habitants de la région, la guerre n'était pas une nouvelle lointaine, mais une menace immédiate.",
+          "es": "La batalla tuvo lugar en Prusia Oriental, entonces parte del Imperio alemán. Para los habitantes de la región, la guerra no era una noticia lejana, sino una amenaza inmediata.",
+          "it": "La battaglia si svolse in Prussia Orientale, allora parte dell'Impero tedesco. Per gli abitanti della regione la guerra non era una notizia lontana, ma una minaccia immediata.",
+          "pt": "A batalha ocorreu na Prússia Oriental, então parte do Império Alemão. Para os habitantes da região, a guerra não era uma notícia distante, mas uma ameaça imediata.",
+          "nl": "De slag vond plaats in Oost-Pruisen, dat toen deel uitmaakte van het Duitse Keizerrijk. Voor mensen in de regio was de oorlog geen ver nieuws, maar een directe dreiging.",
+          "pl": "Bitwa rozegrała się w Prusach Wschodnich, które należały wtedy do Cesarstwa Niemieckiego. Dla mieszkańców regionu wojna nie była odległą wiadomością, lecz bezpośrednim zagrożeniem.",
+          "tr": "Savaş, o dönemde Alman İmparatorluğu'nun parçası olan Doğu Prusya'da gerçekleşti. Bölge halkı için savaş uzak bir haber değil, doğrudan bir tehditti.",
+          "zh": "战役发生在当时属于德意志帝国的东普鲁士。对当地居民来说，战争不是遥远的新闻，而是直接威胁。",
+          "ja": "戦いは当時ドイツ帝国の一部だった東プロイセンで起きました。地域の人々にとって、戦争は遠いニュースではなく、差し迫った脅威でした。",
+          "ko": "전투는 당시 독일 제국의 일부였던 동프로이센에서 벌어졌습니다. 지역 주민에게 전쟁은 먼 소식이 아니라 직접적인 위협이었습니다.",
+          "hi": "यह लड़ाई पूर्वी प्रशिया में हुई, जो तब जर्मन साम्राज्य का हिस्सा था। क्षेत्र के लोगों के लिए युद्ध कोई दूर की खबर नहीं, बल्कि सीधा खतरा था।",
+          "ar": "جرت المعركة في بروسيا الشرقية، التي كانت آنذاك جزءاً من الإمبراطورية الألمانية. وبالنسبة إلى سكان المنطقة لم تكن الحرب خبراً بعيداً، بل تهديداً مباشراً."
         },
         "importance": {
           "ru": "Так видно, что Первая мировая война с самого начала затронула не только фронты, но и мирное население.",
           "de": "So wird deutlich, dass der Erste Weltkrieg von Anfang an nicht nur Fronten, sondern auch Zivilisten betraf.",
-          "en": "It shows that from the beginning the First World War affected not only armies but civilians too."
+          "en": "It shows that from the beginning the First World War affected not only armies but civilians too.",
+          "fr": "Cela montre que dès le début la Première Guerre mondiale toucha non seulement les armées, mais aussi les civils.",
+          "es": "Muestra que desde el principio la Primera Guerra Mundial afectó no solo a los ejércitos, sino también a la población civil.",
+          "it": "Mostra che fin dall'inizio la Prima guerra mondiale colpì non solo gli eserciti, ma anche i civili.",
+          "pt": "Isso mostra que, desde o início, a Primeira Guerra Mundial afetou não apenas os exércitos, mas também os civis.",
+          "nl": "Het laat zien dat de Eerste Wereldoorlog vanaf het begin niet alleen legers, maar ook burgers trof.",
+          "pl": "Pokazuje to, że I wojna światowa od początku dotknęła nie tylko armie, lecz także ludność cywilną.",
+          "tr": "Bu, Birinci Dünya Savaşı'nın başından itibaren yalnızca orduları değil sivilleri de etkilediğini gösterir.",
+          "zh": "这表明第一次世界大战从一开始影响的不只是军队，也包括平民。",
+          "ja": "これは、第一次世界大戦が初めから軍隊だけでなく民間人にも影響したことを示しています。",
+          "ko": "이는 제1차 세계대전이 처음부터 군대뿐 아니라 민간인에게도 영향을 주었음을 보여 줍니다.",
+          "hi": "यह दिखाता है कि प्रथम विश्व युद्ध ने शुरुआत से ही केवल सेनाओं को नहीं, नागरिकों को भी प्रभावित किया।",
+          "ar": "يوضح ذلك أن الحرب العالمية الأولى أثرت منذ البداية ليس في الجيوش فقط، بل في المدنيين أيضاً."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Название как пропаганда",
           "de": "Der Name als Propaganda",
-          "en": "A name used as propaganda"
+          "en": "A name used as propaganda",
+          "fr": "Un nom utilisé comme propagande",
+          "es": "Un nombre usado como propaganda",
+          "it": "Un nome usato come propaganda",
+          "pt": "Um nome usado como propaganda",
+          "nl": "Een naam als propaganda",
+          "pl": "Nazwa jako propaganda",
+          "tr": "Propaganda olarak bir ad",
+          "zh": "作为宣传的名称",
+          "ja": "プロパガンダとして使われた名前",
+          "ko": "선전으로 쓰인 이름",
+          "hi": "प्रचार के रूप में नाम",
+          "ar": "اسم يُستخدم كدعاية"
         },
         "description": {
           "ru": "Название «Танненберг» выбрали не случайно: оно отсылало к средневековой битве 1410 года, где Тевтонский орден потерпел поражение. В 1914 году немецкая пропаганда представила новую победу как символический реванш.",
           "de": "Der Name Tannenberg war nicht zufaellig gewaehlt: Er verwies auf die mittelalterliche Schlacht von 1410, in der der Deutsche Orden besiegt worden war. 1914 stellte die deutsche Propaganda den neuen Sieg als symbolische Revanche dar.",
-          "en": "The name Tannenberg was chosen deliberately: it referred to the medieval battle of 1410, in which the Teutonic Order had been defeated. In 1914, German propaganda presented the new victory as symbolic revenge."
+          "en": "The name Tannenberg was chosen deliberately: it referred to the medieval battle of 1410, in which the Teutonic Order had been defeated. In 1914, German propaganda presented the new victory as symbolic revenge.",
+          "fr": "Le nom Tannenberg fut choisi délibérément : il renvoyait à la bataille médiévale de 1410, où l'Ordre teutonique avait été vaincu. En 1914, la propagande allemande présenta la nouvelle victoire comme une revanche symbolique.",
+          "es": "El nombre Tannenberg fue elegido deliberadamente: remitía a la batalla medieval de 1410, en la que la Orden Teutónica había sido derrotada. En 1914, la propaganda alemana presentó la nueva victoria como una revancha simbólica.",
+          "it": "Il nome Tannenberg fu scelto deliberatamente: rimandava alla battaglia medievale del 1410, in cui l'Ordine Teutonico era stato sconfitto. Nel 1914 la propaganda tedesca presentò la nuova vittoria come una rivincita simbolica.",
+          "pt": "O nome Tannenberg foi escolhido de propósito: remetia à batalha medieval de 1410, na qual a Ordem Teutônica havia sido derrotada. Em 1914, a propaganda alemã apresentou a nova vitória como uma revanche simbólica.",
+          "nl": "De naam Tannenberg was bewust gekozen: hij verwees naar de middeleeuwse slag van 1410, waarin de Duitse Orde was verslagen. In 1914 stelde Duitse propaganda de nieuwe overwinning voor als symbolische wraak.",
+          "pl": "Nazwę Tannenberg wybrano celowo: odwoływała się do średniowiecznej bitwy z 1410 roku, w której zakon krzyżacki poniósł klęskę. W 1914 roku niemiecka propaganda przedstawiła nowe zwycięstwo jako symboliczny rewanż.",
+          "tr": "Tannenberg adı bilinçli seçildi: Töton Şövalyeleri'nin yenildiği 1410'daki Orta Çağ savaşına gönderme yapıyordu. 1914'te Alman propagandası yeni zaferi sembolik bir rövanş olarak sundu.",
+          "zh": "“坦能堡”这一名称是有意选择的：它指向1410年条顿骑士团战败的中世纪战役。1914年，德国宣传把新的胜利塑造成象征性的复仇。",
+          "ja": "タンネンベルクという名前は意図的に選ばれました。1410年にドイツ騎士団が敗れた中世の戦いを指していたからです。1914年、ドイツの宣伝は新たな勝利を象徴的な雪辱として示しました。",
+          "ko": "탄넨베르크라는 이름은 의도적으로 선택되었습니다. 1410년 튜턴 기사단이 패배한 중세 전투를 가리켰기 때문입니다. 1914년 독일 선전은 새로운 승리를 상징적 복수로 제시했습니다.",
+          "hi": "टैननबर्ग नाम जानबूझकर चुना गया था: यह 1410 की मध्ययुगीन लड़ाई की ओर संकेत करता था, जिसमें ट्यूटोनिक ऑर्डर पराजित हुआ था। 1914 में जर्मन प्रचार ने नई विजय को प्रतीकात्मक बदले के रूप में प्रस्तुत किया।",
+          "ar": "اختير اسم تاننبرغ عمداً، لأنه أشار إلى معركة العصور الوسطى عام 1410 التي هُزم فيها النظام التيوتوني. وفي عام 1914 قدمت الدعاية الألمانية النصر الجديد بوصفه ثأراً رمزياً."
         },
         "importance": {
           "ru": "Интересно, как даже название битвы может работать как политическое сообщение.",
           "de": "Interessant ist, wie sogar der Name einer Schlacht als politische Botschaft wirken kann.",
-          "en": "It is interesting how even the name of a battle can work as a political message."
+          "en": "It is interesting how even the name of a battle can work as a political message.",
+          "fr": "Il est intéressant de voir comment même le nom d'une bataille peut servir de message politique.",
+          "es": "Es interesante cómo incluso el nombre de una batalla puede funcionar como mensaje político.",
+          "it": "È interessante vedere come persino il nome di una battaglia possa funzionare come messaggio politico.",
+          "pt": "É interessante como até o nome de uma batalha pode funcionar como mensagem política.",
+          "nl": "Het is interessant hoe zelfs de naam van een slag als politieke boodschap kan werken.",
+          "pl": "Ciekawe, jak nawet nazwa bitwy może działać jako komunikat polityczny.",
+          "tr": "Bir savaşın adının bile siyasi bir mesaj olarak işleyebilmesi ilginçtir.",
+          "zh": "有趣的是，即使一场战役的名称也能成为政治信息。",
+          "ja": "戦いの名前でさえ政治的メッセージとして機能しうるのは興味深いことです。",
+          "ko": "전투의 이름조차 정치적 메시지로 작동할 수 있다는 점이 흥미롭습니다.",
+          "hi": "यह रोचक है कि किसी लड़ाई का नाम भी राजनीतिक संदेश की तरह काम कर सकता है।",
+          "ar": "من المثير للاهتمام أن اسم معركة حتى يمكن أن يعمل كرسالة سياسية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После Танненберга Пауль фон Гинденбург стал национальным героем в Германии, а позже сыграл огромную роль в политике Веймарской республики.",
     "de": "Nach Tannenberg wurde Paul von Hindenburg in Deutschland zum Nationalhelden und spielte spaeter eine grosse Rolle in der Politik der Weimarer Republik.",
-    "en": "After Tannenberg, Paul von Hindenburg became a national hero in Germany and later played a major role in Weimar Republic politics."
+    "en": "After Tannenberg, Paul von Hindenburg became a national hero in Germany and later played a major role in Weimar Republic politics.",
+    "fr": "Après Tannenberg, Paul von Hindenburg devint un héros national en Allemagne et joua plus tard un rôle majeur dans la politique de la République de Weimar.",
+    "es": "Después de Tannenberg, Paul von Hindenburg se convirtió en héroe nacional en Alemania y más tarde desempeñó un papel enorme en la política de la República de Weimar.",
+    "it": "Dopo Tannenberg, Paul von Hindenburg divenne un eroe nazionale in Germania e in seguito ebbe un ruolo enorme nella politica della Repubblica di Weimar.",
+    "pt": "Depois de Tannenberg, Paul von Hindenburg tornou-se herói nacional na Alemanha e mais tarde teve um papel enorme na política da República de Weimar.",
+    "nl": "Na Tannenberg werd Paul von Hindenburg in Duitsland een nationale held en speelde hij later een grote rol in de politiek van de Weimarrepubliek.",
+    "pl": "Po Tannenbergu Paul von Hindenburg stał się w Niemczech bohaterem narodowym, a później odegrał ogromną rolę w polityce Republiki Weimarskiej.",
+    "tr": "Tannenberg'den sonra Paul von Hindenburg Almanya'da ulusal kahraman oldu ve daha sonra Weimar Cumhuriyeti siyasetinde büyük rol oynadı.",
+    "zh": "坦能堡战役后，保罗·冯·兴登堡成为德国民族英雄，后来在魏玛共和国政治中发挥了巨大作用。",
+    "ja": "タンネンベルクの後、パウル・フォン・ヒンデンブルクはドイツの国民的英雄となり、後にワイマール共和国の政治で大きな役割を果たしました。",
+    "ko": "탄넨베르크 이후 파울 폰 힌덴부르크는 독일의 국민 영웅이 되었고, 나중에 바이마르 공화국 정치에서 큰 역할을 했습니다.",
+    "hi": "टैननबर्ग के बाद पॉल फॉन हिंडनबर्ग जर्मनी में राष्ट्रीय नायक बने और बाद में वाइमर गणराज्य की राजनीति में बड़ी भूमिका निभाई।",
+    "ar": "بعد تاننبرغ أصبح باول فون هيندنبورغ بطلاً قومياً في ألمانيا، ولعب لاحقاً دوراً كبيراً في سياسة جمهورية فايمار."
   },
   "sources": [
     {
