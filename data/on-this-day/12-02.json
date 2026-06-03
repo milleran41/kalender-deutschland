@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первые общегерманские выборы после воссоединения",
       "de": "Erste gesamtdeutsche Bundestagswahl nach der Einheit",
-      "en": "First all-German Bundestag election after reunification"
+      "en": "First all-German Bundestag election after reunification",
+      "fr": "Premieres elections federales allemandes apres la reunification",
+      "es": "Primeras elecciones federales alemanas tras la reunificacion",
+      "it": "Prime elezioni federali tedesche dopo la riunificazione",
+      "pt": "Primeiras eleicoes federais alemas apos a reunificacao",
+      "nl": "Eerste geheel Duitse Bondsdagverkiezing na de hereniging",
+      "pl": "Pierwsze ogolnoniemieckie wybory do Bundestagu po zjednoczeniu",
+      "tr": "Birlesmeden sonra ilk tum Almanya Bundestag secimi",
+      "zh": "统一后首次全德联邦议院选举",
+      "ja": "再統一後初の全ドイツ連邦議会選挙",
+      "ko": "통일 후 첫 전독일 연방의회 선거",
+      "hi": "पुनर्एकीकरण के बाद पहला सर्व-जर्मन बुंडेस्टाग चुनाव",
+      "ar": "أول انتخابات بوندستاغ لكل ألمانيا بعد التوحيد"
     },
     "description": {
       "ru": "2 декабря 1990 года прошли первые выборы в Бундестаг после воссоединения Германии. В них участвовали избиратели из старых и новых федеральных земель.",
       "de": "Am 2. Dezember 1990 fand die erste Bundestagswahl nach der deutschen Wiedervereinigung statt. Waehlerinnen und Waehler aus alten und neuen Bundeslaendern nahmen teil.",
-      "en": "On 2 December 1990, the first Bundestag election after German reunification took place. Voters from the old and new federal states participated."
+      "en": "On 2 December 1990, the first Bundestag election after German reunification took place. Voters from the old and new federal states participated.",
+      "fr": "Le 2 decembre 1990 eurent lieu les premieres elections au Bundestag apres la reunification allemande. Des electrices et electeurs des anciens et des nouveaux Laender y participerent.",
+      "es": "El 2 de diciembre de 1990 tuvieron lugar las primeras elecciones al Bundestag tras la reunificacion alemana. Participaron votantes de los antiguos y nuevos estados federados.",
+      "it": "Il 2 dicembre 1990 si svolsero le prime elezioni del Bundestag dopo la riunificazione tedesca. Parteciparono elettori dei vecchi e dei nuovi Laender federali.",
+      "pt": "Em 2 de dezembro de 1990 ocorreram as primeiras eleicoes para o Bundestag depois da reunificacao alema. Participaram eleitores dos antigos e dos novos estados federados.",
+      "nl": "Op 2 december 1990 vond de eerste Bondsdagverkiezing na de Duitse hereniging plaats. Kiezers uit de oude en nieuwe deelstaten namen deel.",
+      "pl": "2 grudnia 1990 roku odbyly sie pierwsze wybory do Bundestagu po zjednoczeniu Niemiec. Uczestniczyli w nich wyborcy ze starych i nowych krajow zwiazkowych.",
+      "tr": "2 Aralik 1990'da Almanya'nin yeniden birlesmesinden sonraki ilk Bundestag secimi yapildi. Eski ve yeni federal eyaletlerden secmenler katildi.",
+      "zh": "1990年12月2日，德国统一后的首次联邦议院选举举行。来自旧联邦州和新联邦州的选民参加了投票。",
+      "ja": "1990年12月2日、ドイツ再統一後初の連邦議会選挙が行われました。旧連邦州と新連邦州の有権者が参加しました。",
+      "ko": "1990년 12월 2일 독일 통일 후 첫 연방의회 선거가 열렸다. 기존 주와 새 연방주 유권자들이 참여했다.",
+      "hi": "2 दिसंबर 1990 को जर्मन पुनर्एकीकरण के बाद पहला बुंडेस्टाग चुनाव हुआ। पुराने और नए संघीय राज्यों के मतदाताओं ने इसमें भाग लिया।",
+      "ar": "في 2 ديسمبر 1990 جرت أول انتخابات للبوندستاغ بعد توحيد ألمانيا. وشارك فيها ناخبون من الولايات الاتحادية القديمة والجديدة."
     },
     "importance": {
       "ru": "Дата закрепила воссоединение не только юридически, но и демократически.",
       "de": "Das Datum verankerte die Einheit nicht nur rechtlich, sondern auch demokratisch.",
-      "en": "The date anchored unity not only legally but democratically."
+      "en": "The date anchored unity not only legally but democratically.",
+      "fr": "Cette date ancra l'unite non seulement juridiquement, mais aussi democratiquement.",
+      "es": "La fecha consolido la unidad no solo juridicamente, sino tambien democraticamente.",
+      "it": "La data radico l'unita non solo giuridicamente, ma anche democraticamente.",
+      "pt": "A data consolidou a unidade nao so juridicamente, mas tambem democraticamente.",
+      "nl": "De datum verankerde de eenheid niet alleen juridisch, maar ook democratisch.",
+      "pl": "Ta data utrwalila jednosc nie tylko prawnie, ale takze demokratycznie.",
+      "tr": "Bu tarih birligi yalnizca hukuken degil, demokratik olarak da pekistirdi.",
+      "zh": "这个日期不仅在法律上，也在民主程序上巩固了统一。",
+      "ja": "この日は、統一を法的にだけでなく民主的にも根づかせました。",
+      "ko": "이 날짜는 통일을 법적으로뿐 아니라 민주적으로도 확고히 했다.",
+      "hi": "इस तारीख ने एकता को केवल कानूनी रूप से नहीं, बल्कि लोकतांत्रिक रूप से भी मजबूत किया।",
+      "ar": "رسخ هذا التاريخ الوحدة ليس قانونيا فقط، بل ديمقراطيا أيضا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Новые земли вошли в общую политическую систему",
           "de": "Die neuen Laender treten in das gemeinsame politische System ein",
-          "en": "The new states enter the common political system"
+          "en": "The new states enter the common political system",
+          "fr": "Les nouveaux Laender entrent dans le systeme politique commun",
+          "es": "Los nuevos estados entran en el sistema politico comun",
+          "it": "I nuovi Laender entrano nel sistema politico comune",
+          "pt": "Os novos estados entram no sistema politico comum",
+          "nl": "De nieuwe deelstaten treden toe tot het gezamenlijke politieke systeem",
+          "pl": "Nowe kraje zwiazkowe wchodza do wspolnego systemu politycznego",
+          "tr": "Yeni eyaletler ortak siyasi sisteme giriyor",
+          "zh": "新联邦州进入共同政治体系",
+          "ja": "新連邦州が共通の政治制度に入る",
+          "ko": "새 연방주들이 공동 정치 체계에 들어가다",
+          "hi": "नए राज्य साझा राजनीतिक व्यवस्था में शामिल हुए",
+          "ar": "الولايات الجديدة تدخل النظام السياسي المشترك"
         },
         "description": {
           "ru": "Выборы показали, как восточные земли стали частью общегерманской парламентской жизни. Это был важный практический шаг после 3 октября.",
           "de": "Die Wahl zeigte, wie die ostdeutschen Laender Teil des gesamtdeutschen Parlamentslebens wurden. Das war ein wichtiger praktischer Schritt nach dem 3. Oktober.",
-          "en": "The election showed how the eastern states became part of all-German parliamentary life. It was an important practical step after 3 October."
+          "en": "The election showed how the eastern states became part of all-German parliamentary life. It was an important practical step after 3 October.",
+          "fr": "L'election montra comment les Laender de l'Est devinrent partie de la vie parlementaire de toute l'Allemagne. Ce fut une etape pratique importante apres le 3 octobre.",
+          "es": "Las elecciones mostraron como los estados orientales pasaron a formar parte de la vida parlamentaria de toda Alemania. Fue un paso practico importante despues del 3 de octubre.",
+          "it": "Le elezioni mostrarono come i Laender orientali divennero parte della vita parlamentare di tutta la Germania. Fu un passo pratico importante dopo il 3 ottobre.",
+          "pt": "As eleicoes mostraram como os estados orientais se tornaram parte da vida parlamentar de toda a Alemanha. Foi um passo pratico importante depois de 3 de outubro.",
+          "nl": "De verkiezing liet zien hoe de oostelijke deelstaten onderdeel werden van het parlementaire leven van heel Duitsland. Het was een belangrijke praktische stap na 3 oktober.",
+          "pl": "Wybory pokazaly, jak wschodnie kraje zwiazkowe staly sie czescia ogolnoniemieckiego zycia parlamentarnego. Byl to wazny praktyczny krok po 3 pazdziernika.",
+          "tr": "Secim, dogu eyaletlerinin tum Almanya parlamento yasaminin parcasi haline nasil geldigini gosterdi. Bu, 3 Ekim'den sonra onemli bir pratik adimdi.",
+          "zh": "这次选举显示了东部各州如何成为全德议会生活的一部分。这是10月3日之后重要的实际步骤。",
+          "ja": "この選挙は、東部諸州が全ドイツの議会生活の一部になったことを示しました。10月3日の後の重要な実践的な一歩でした。",
+          "ko": "이 선거는 동부 주들이 전독일 의회 생활의 일부가 되었음을 보여 주었다. 이는 10월 3일 이후 중요한 실제적 단계였다.",
+          "hi": "चुनाव ने दिखाया कि पूर्वी राज्य सर्व-जर्मन संसदीय जीवन का हिस्सा कैसे बने। यह 3 अक्टूबर के बाद महत्वपूर्ण व्यावहारिक कदम था।",
+          "ar": "أظهرت الانتخابات كيف أصبحت الولايات الشرقية جزءا من الحياة البرلمانية الألمانية المشتركة. وكانت خطوة عملية مهمة بعد 3 أكتوبر."
         },
         "importance": {
           "ru": "Воссоединение продолжалось и после праздничных церемоний.",
           "de": "Die Wiedervereinigung ging auch nach den Feiern weiter.",
-          "en": "Reunification continued after the celebrations."
+          "en": "Reunification continued after the celebrations.",
+          "fr": "La reunification continua apres les ceremonies de fete.",
+          "es": "La reunificacion continuo despues de las ceremonias festivas.",
+          "it": "La riunificazione continuo anche dopo le celebrazioni.",
+          "pt": "A reunificacao continuou depois das celebracoes.",
+          "nl": "De hereniging ging ook na de vieringen verder.",
+          "pl": "Zjednoczenie trwalo takze po uroczystosciach.",
+          "tr": "Birlesme kutlamalardan sonra da devam etti.",
+          "zh": "统一在庆祝仪式之后仍在继续。",
+          "ja": "再統一は祝賀式典の後も続いていました。",
+          "ko": "통일은 축하 행사 뒤에도 계속되었다.",
+          "hi": "उत्सवों के बाद भी पुनर्एकीकरण जारी रहा।",
+          "ar": "استمر التوحيد حتى بعد الاحتفالات."
         }
       },
       {
@@ -51,17 +123,53 @@
         "title": {
           "ru": "Основан Лейпцигский университет",
           "de": "Die Universitaet Leipzig wird gegruendet",
-          "en": "Leipzig University is founded"
+          "en": "Leipzig University is founded",
+          "fr": "L'Universite de Leipzig est fondee",
+          "es": "Se funda la Universidad de Leipzig",
+          "it": "Viene fondata l'Universita di Lipsia",
+          "pt": "A Universidade de Leipzig e fundada",
+          "nl": "De Universiteit Leipzig wordt opgericht",
+          "pl": "Powstaje Uniwersytet Lipski",
+          "tr": "Leipzig Universitesi kuruluyor",
+          "zh": "莱比锡大学成立",
+          "ja": "ライプツィヒ大学が創設される",
+          "ko": "라이프치히 대학교가 설립되다",
+          "hi": "लाइपज़िग विश्वविद्यालय की स्थापना हुई",
+          "ar": "تأسيس جامعة لايبزيغ"
         },
         "description": {
           "ru": "2 декабря 1409 года была основана Лейпцигская университетская традиция. Университет стал одним из старейших и важнейших центров науки в немецких землях.",
           "de": "Am 2. Dezember 1409 wurde die Universitaet Leipzig gegruendet. Sie wurde zu einem der aeltesten und wichtigsten Wissenschaftszentren in den deutschen Laendern.",
-          "en": "On 2 December 1409, Leipzig University was founded. It became one of the oldest and most important centers of learning in the German lands."
+          "en": "On 2 December 1409, Leipzig University was founded. It became one of the oldest and most important centers of learning in the German lands.",
+          "fr": "Le 2 decembre 1409, l'Universite de Leipzig fut fondee. Elle devint l'un des centres de savoir les plus anciens et les plus importants des terres allemandes.",
+          "es": "El 2 de diciembre de 1409 se fundo la Universidad de Leipzig. Se convirtio en uno de los centros de saber mas antiguos e importantes de las tierras alemanas.",
+          "it": "Il 2 dicembre 1409 fu fondata l'Universita di Lipsia. Divenne uno dei centri di sapere piu antichi e importanti nelle terre tedesche.",
+          "pt": "Em 2 de dezembro de 1409 foi fundada a Universidade de Leipzig. Ela tornou-se um dos centros de conhecimento mais antigos e importantes nas terras alemas.",
+          "nl": "Op 2 december 1409 werd de Universiteit Leipzig opgericht. Zij werd een van de oudste en belangrijkste kenniscentra in de Duitse landen.",
+          "pl": "2 grudnia 1409 roku zalozono Uniwersytet Lipski. Stal sie jednym z najstarszych i najwazniejszych osrodkow nauki na ziemiach niemieckich.",
+          "tr": "2 Aralik 1409'da Leipzig Universitesi kuruldu. Alman topraklarindaki en eski ve en onemli bilim merkezlerinden biri oldu.",
+          "zh": "1409年12月2日，莱比锡大学成立。它成为德意志地区最古老、最重要的学术中心之一。",
+          "ja": "1409年12月2日、ライプツィヒ大学が創設されました。ドイツ諸地域で最も古く重要な学問中心地の一つとなりました。",
+          "ko": "1409년 12월 2일 라이프치히 대학교가 설립되었다. 이 대학은 독일 지역에서 가장 오래되고 중요한 학문 중심지 중 하나가 되었다.",
+          "hi": "2 दिसंबर 1409 को लाइपज़िग विश्वविद्यालय की स्थापना हुई। यह जर्मन क्षेत्रों में सबसे पुराने और महत्वपूर्ण ज्ञान केंद्रों में से एक बना।",
+          "ar": "في 2 ديسمبر 1409 تأسست جامعة لايبزيغ. وأصبحت من أقدم وأهم مراكز العلم في الأراضي الألمانية."
         },
         "importance": {
           "ru": "Лейпциг соединяет историю Саксонии, книг, музыки и университетской науки.",
           "de": "Leipzig verbindet die Geschichte Sachsens, der Buecher, der Musik und der Universitaetswissenschaft.",
-          "en": "Leipzig connects the history of Saxony, books, music and university scholarship."
+          "en": "Leipzig connects the history of Saxony, books, music and university scholarship.",
+          "fr": "Leipzig relie l'histoire de la Saxe, des livres, de la musique et du savoir universitaire.",
+          "es": "Leipzig conecta la historia de Sajonia, los libros, la musica y la ciencia universitaria.",
+          "it": "Lipsia collega la storia della Sassonia, dei libri, della musica e della scienza universitaria.",
+          "pt": "Leipzig liga a historia da Saxonia, dos livros, da musica e da ciencia universitaria.",
+          "nl": "Leipzig verbindt de geschiedenis van Saksen, boeken, muziek en universitaire wetenschap.",
+          "pl": "Lipsk laczy historie Saksonii, ksiazek, muzyki i nauki uniwersyteckiej.",
+          "tr": "Leipzig Saksonya'nin, kitaplarin, muzigin ve universite biliminin tarihini birlestirir.",
+          "zh": "莱比锡连接着萨克森、书籍、音乐和大学学术的历史。",
+          "ja": "ライプツィヒは、ザクセン、書物、音楽、大学学問の歴史を結びつけています。",
+          "ko": "라이프치히는 작센, 책, 음악, 대학 학문의 역사를 연결한다.",
+          "hi": "लाइपज़िग सैक्सनी, पुस्तकों, संगीत और विश्वविद्यालयी विद्या के इतिहास को जोड़ता है।",
+          "ar": "تربط لايبزيغ تاريخ ساكسونيا والكتب والموسيقى والعلم الجامعي."
         }
       }
     ]
@@ -69,7 +177,19 @@
   "fact": {
     "ru": "Это были первые выборы в объединённой Германии с 1932 года, если считать всю территорию Германии как единое парламентское пространство.",
     "de": "Es war die erste Wahl im vereinten Deutschland seit 1932, wenn man das gesamte Deutschland als gemeinsamen parlamentarischen Raum betrachtet.",
-    "en": "It was the first election in united Germany since 1932 if the whole German territory is considered as one parliamentary space."
+    "en": "It was the first election in united Germany since 1932 if the whole German territory is considered as one parliamentary space.",
+    "fr": "Ce furent les premieres elections dans une Allemagne unie depuis 1932 si l'on considere tout le territoire allemand comme un seul espace parlementaire.",
+    "es": "Fueron las primeras elecciones en una Alemania unida desde 1932 si se considera todo el territorio aleman como un unico espacio parlamentario.",
+    "it": "Furono le prime elezioni in una Germania unita dal 1932, se si considera l'intero territorio tedesco come un unico spazio parlamentare.",
+    "pt": "Foram as primeiras eleicoes numa Alemanha unida desde 1932, se todo o territorio alemao for considerado um unico espaco parlamentar.",
+    "nl": "Het waren de eerste verkiezingen in een verenigd Duitsland sinds 1932 als men het hele Duitse gebied als een parlementaire ruimte beschouwt.",
+    "pl": "Byly to pierwsze wybory w zjednoczonych Niemczech od 1932 roku, jesli cale terytorium Niemiec traktowac jako jedna przestrzen parlamentarna.",
+    "tr": "Tum Alman topraklari tek bir parlamenter alan olarak gorulurse, bu 1932'den beri birlesik Almanya'daki ilk secimdi.",
+    "zh": "如果把整个德国领土视为一个议会空间，这是自1932年以来统一德国的第一次选举。",
+    "ja": "ドイツ全土を一つの議会空間と考えるなら、これは1932年以来、統一ドイツで初めての選挙でした。",
+    "ko": "독일 전체 영토를 하나의 의회 공간으로 본다면, 이는 1932년 이후 통일 독일에서의 첫 선거였다.",
+    "hi": "यदि पूरे जर्मन क्षेत्र को एक संसदीय क्षेत्र माना जाए, तो यह 1932 के बाद संयुक्त जर्मनी में पहला चुनाव था।",
+    "ar": "كانت هذه أول انتخابات في ألمانيا موحدة منذ عام 1932 إذا اعتُبر كامل التراب الألماني فضاء برلمانيا واحدا."
   },
   "sources": [
     {

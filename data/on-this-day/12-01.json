@@ -11,17 +11,53 @@
     "title": {
       "ru": "Курт Георг Кизингер стал канцлером",
       "de": "Kurt Georg Kiesinger wird Bundeskanzler",
-      "en": "Kurt Georg Kiesinger becomes chancellor"
+      "en": "Kurt Georg Kiesinger becomes chancellor",
+      "fr": "Kurt Georg Kiesinger devient chancelier",
+      "es": "Kurt Georg Kiesinger se convierte en canciller",
+      "it": "Kurt Georg Kiesinger diventa cancelliere",
+      "pt": "Kurt Georg Kiesinger torna-se chanceler",
+      "nl": "Kurt Georg Kiesinger wordt bondskanselier",
+      "pl": "Kurt Georg Kiesinger zostaje kanclerzem",
+      "tr": "Kurt Georg Kiesinger sansolye oluyor",
+      "zh": "库尔特·格奥尔格·基辛格成为总理",
+      "ja": "クルト・ゲオルク・キージンガーが首相になる",
+      "ko": "쿠르트 게오르크 키징어가 총리가 되다",
+      "hi": "कुर्ट गेओर्ग कीज़िंगर चांसलर बने",
+      "ar": "كورت غيورغ كيزينغر يصبح مستشارا"
     },
     "description": {
       "ru": "1 декабря 1966 года Бундестаг избрал Курта Георга Кизингера федеральным канцлером. Его правительство стало первой большой коалицией ХДС/ХСС и СДПГ на федеральном уровне.",
       "de": "Am 1. Dezember 1966 waehlte der Bundestag Kurt Georg Kiesinger zum Bundeskanzler. Seine Regierung wurde die erste Grosse Koalition aus CDU/CSU und SPD auf Bundesebene.",
-      "en": "On 1 December 1966, the Bundestag elected Kurt Georg Kiesinger as federal chancellor. His government became the first grand coalition of the CDU/CSU and SPD at the federal level."
+      "en": "On 1 December 1966, the Bundestag elected Kurt Georg Kiesinger as federal chancellor. His government became the first grand coalition of the CDU/CSU and SPD at the federal level.",
+      "fr": "Le 1er decembre 1966, le Bundestag elut Kurt Georg Kiesinger chancelier federal. Son gouvernement devint la premiere grande coalition entre CDU/CSU et SPD au niveau federal.",
+      "es": "El 1 de diciembre de 1966, el Bundestag eligio a Kurt Georg Kiesinger como canciller federal. Su gobierno se convirtio en la primera gran coalicion de CDU/CSU y SPD a nivel federal.",
+      "it": "Il 1 dicembre 1966 il Bundestag elesse Kurt Georg Kiesinger cancelliere federale. Il suo governo divenne la prima grande coalizione tra CDU/CSU e SPD a livello federale.",
+      "pt": "Em 1 de dezembro de 1966, o Bundestag elegeu Kurt Georg Kiesinger como chanceler federal. Seu governo tornou-se a primeira grande coligacao entre CDU/CSU e SPD no nivel federal.",
+      "nl": "Op 1 december 1966 koos de Bundestag Kurt Georg Kiesinger tot bondskanselier. Zijn regering werd de eerste grote coalitie van CDU/CSU en SPD op federaal niveau.",
+      "pl": "1 grudnia 1966 roku Bundestag wybral Kurta Georga Kiesingera na kanclerza federalnego. Jego rzad stal sie pierwsza wielka koalicja CDU/CSU i SPD na szczeblu federalnym.",
+      "tr": "1 Aralik 1966'da Bundestag Kurt Georg Kiesinger'i federal sansolye secti. Hukumeti, federal duzeyde CDU/CSU ve SPD'nin ilk buyuk koalisyonu oldu.",
+      "zh": "1966年12月1日，联邦议院选举库尔特·格奥尔格·基辛格为联邦总理。他的政府成为联邦层面基民盟/基社盟和社民党的第一个大联合政府。",
+      "ja": "1966年12月1日、連邦議会はクルト・ゲオルク・キージンガーを連邦首相に選出しました。彼の政府は、連邦レベルでCDU/CSUとSPDによる最初の大連立となりました。",
+      "ko": "1966년 12월 1일 연방의회는 쿠르트 게오르크 키징어를 연방총리로 선출했다. 그의 정부는 연방 차원에서 CDU/CSU와 SPD의 첫 대연정이 되었다.",
+      "hi": "1 दिसंबर 1966 को बुंडेस्टाग ने कुर्ट गेओर्ग कीज़िंगर को संघीय चांसलर चुना। उनकी सरकार संघीय स्तर पर CDU/CSU और SPD की पहली बड़ी गठबंधन सरकार बनी।",
+      "ar": "في 1 ديسمبر 1966 انتخب البوندستاغ كورت غيورغ كيزينغر مستشارا اتحاديا. وأصبحت حكومته أول ائتلاف كبير بين CDU/CSU وSPD على المستوى الاتحادي."
     },
     "importance": {
       "ru": "Дата показывает, как парламентская система ФРГ выходила из правительственного кризиса через коалиционные переговоры.",
       "de": "Das Datum zeigt, wie das parlamentarische System der Bundesrepublik eine Regierungskrise durch Koalitionsverhandlungen loeste.",
-      "en": "The date shows how West Germany's parliamentary system resolved a government crisis through coalition negotiations."
+      "en": "The date shows how West Germany's parliamentary system resolved a government crisis through coalition negotiations.",
+      "fr": "Cette date montre comment le systeme parlementaire de la RFA resolut une crise gouvernementale par des negociations de coalition.",
+      "es": "La fecha muestra como el sistema parlamentario de la RFA resolvio una crisis de gobierno mediante negociaciones de coalicion.",
+      "it": "La data mostra come il sistema parlamentare della Repubblica Federale risolse una crisi di governo attraverso negoziati di coalizione.",
+      "pt": "A data mostra como o sistema parlamentar da Alemanha Ocidental resolveu uma crise de governo por meio de negociacoes de coligacao.",
+      "nl": "De datum laat zien hoe het parlementaire systeem van West-Duitsland een regeringscrisis oploste via coalitieonderhandelingen.",
+      "pl": "Ta data pokazuje, jak system parlamentarny RFN rozwiazal kryzys rzadowy przez negocjacje koalicyjne.",
+      "tr": "Bu tarih, Bati Almanya'nin parlamenter sisteminin bir hukumet krizini koalisyon gorusmeleriyle nasil cozdugunu gosterir.",
+      "zh": "这个日期显示了西德议会制度如何通过联盟谈判解决政府危机。",
+      "ja": "この日は、西ドイツの議会制度が連立交渉を通じて政府危機をどのように解決したかを示しています。",
+      "ko": "이 날짜는 서독의 의회 제도가 연정 협상을 통해 정부 위기를 어떻게 해결했는지 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि पश्चिम जर्मनी की संसदीय प्रणाली ने गठबंधन वार्ताओं के माध्यम से सरकारी संकट कैसे हल किया।",
+      "ar": "يوضح هذا التاريخ كيف حل النظام البرلماني في ألمانيا الغربية أزمة حكومية عبر مفاوضات الائتلاف."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Первая большая коалиция ФРГ",
           "de": "Die erste Grosse Koalition der Bundesrepublik",
-          "en": "West Germany's first grand coalition"
+          "en": "West Germany's first grand coalition",
+          "fr": "La premiere grande coalition de la RFA",
+          "es": "La primera gran coalicion de la RFA",
+          "it": "La prima grande coalizione della Repubblica Federale",
+          "pt": "A primeira grande coligacao da Alemanha Ocidental",
+          "nl": "De eerste grote coalitie van West-Duitsland",
+          "pl": "Pierwsza wielka koalicja RFN",
+          "tr": "Bati Almanya'nin ilk buyuk koalisyonu",
+          "zh": "西德的第一个大联合政府",
+          "ja": "西ドイツ初の大連立",
+          "ko": "서독의 첫 대연정",
+          "hi": "पश्चिम जर्मनी की पहली बड़ी गठबंधन सरकार",
+          "ar": "أول ائتلاف كبير في ألمانيا الغربية"
         },
         "description": {
           "ru": "После распада предыдущего правительства ХДС/ХСС и СДПГ создали совместный кабинет. Для СДПГ это был важный шаг к возвращению в федеральную власть.",
           "de": "Nach dem Zerbrechen der vorherigen Regierung bildeten CDU/CSU und SPD ein gemeinsames Kabinett. Fuer die SPD war das ein wichtiger Schritt zur Rueckkehr in die Bundespolitik.",
-          "en": "After the previous government collapsed, the CDU/CSU and SPD formed a joint cabinet. For the SPD, this was an important step back into federal government."
+          "en": "After the previous government collapsed, the CDU/CSU and SPD formed a joint cabinet. For the SPD, this was an important step back into federal government.",
+          "fr": "Apres l'effondrement du gouvernement precedent, la CDU/CSU et le SPD formerent un cabinet commun. Pour le SPD, ce fut une etape importante vers le retour au pouvoir federal.",
+          "es": "Tras el colapso del gobierno anterior, la CDU/CSU y el SPD formaron un gabinete conjunto. Para el SPD, fue un paso importante de regreso al gobierno federal.",
+          "it": "Dopo la caduta del governo precedente, CDU/CSU e SPD formarono un gabinetto comune. Per l'SPD fu un passo importante per tornare al governo federale.",
+          "pt": "Depois da queda do governo anterior, CDU/CSU e SPD formaram um gabinete conjunto. Para o SPD, foi um passo importante de volta ao governo federal.",
+          "nl": "Na het uiteenvallen van de vorige regering vormden CDU/CSU en SPD samen een kabinet. Voor de SPD was dit een belangrijke stap terug naar de federale regering.",
+          "pl": "Po rozpadzie poprzedniego rzadu CDU/CSU i SPD utworzyly wspolny gabinet. Dla SPD byl to wazny krok powrotu do wladzy federalnej.",
+          "tr": "Onceki hukumetin dagilmasindan sonra CDU/CSU ve SPD ortak bir kabine kurdu. SPD icin bu, federal hukumete donus yolunda onemli bir adimdi.",
+          "zh": "前一届政府解体后，基民盟/基社盟和社民党组成联合内阁。对社民党来说，这是重返联邦政府的重要一步。",
+          "ja": "前政権の崩壊後、CDU/CSUとSPDは共同内閣を作りました。SPDにとって、これは連邦政府へ戻る重要な一歩でした。",
+          "ko": "이전 정부가 붕괴한 뒤 CDU/CSU와 SPD는 공동 내각을 구성했다. SPD에게 이는 연방 정부로 돌아가는 중요한 단계였다.",
+          "hi": "पिछली सरकार टूटने के बाद CDU/CSU और SPD ने संयुक्त मंत्रिमंडल बनाया। SPD के लिए यह संघीय सत्ता में लौटने की दिशा में महत्वपूर्ण कदम था।",
+          "ar": "بعد انهيار الحكومة السابقة شكلت CDU/CSU وSPD حكومة مشتركة. وبالنسبة إلى SPD كان ذلك خطوة مهمة للعودة إلى الحكم الاتحادي."
         },
         "importance": {
           "ru": "Так видно, что немецкая политика часто строится не на победе одной партии, а на умении договариваться.",
           "de": "So wird sichtbar, dass deutsche Politik oft nicht auf dem Sieg einer Partei, sondern auf der Faehigkeit zum Kompromiss beruht.",
-          "en": "This shows that German politics often rests not on one party's victory but on the ability to compromise."
+          "en": "This shows that German politics often rests not on one party's victory but on the ability to compromise.",
+          "fr": "Cela montre que la politique allemande repose souvent non sur la victoire d'un seul parti, mais sur la capacite au compromis.",
+          "es": "Esto muestra que la politica alemana a menudo se basa no en la victoria de un partido, sino en la capacidad de llegar a compromisos.",
+          "it": "Questo mostra che la politica tedesca si basa spesso non sulla vittoria di un solo partito, ma sulla capacita di compromesso.",
+          "pt": "Isso mostra que a politica alema muitas vezes se baseia nao na vitoria de um partido, mas na capacidade de compromisso.",
+          "nl": "Dit laat zien dat Duitse politiek vaak niet berust op de overwinning van een partij, maar op het vermogen tot compromis.",
+          "pl": "To pokazuje, ze niemiecka polityka czesto opiera sie nie na zwyciestwie jednej partii, lecz na zdolnosci do kompromisu.",
+          "tr": "Bu, Alman siyasetinin sik sik tek bir partinin zaferine degil, uzlasma becerisine dayandigini gosterir.",
+          "zh": "这说明德国政治常常不是建立在一个政党的胜利上，而是建立在妥协能力上。",
+          "ja": "これは、ドイツ政治がしばしば一つの政党の勝利ではなく、妥協する能力に基づいていることを示しています。",
+          "ko": "이는 독일 정치가 한 정당의 승리보다 타협 능력에 자주 기반한다는 점을 보여 준다.",
+          "hi": "यह दिखाता है कि जर्मन राजनीति अक्सर किसी एक दल की जीत पर नहीं, बल्कि समझौता करने की क्षमता पर टिकती है।",
+          "ar": "يوضح ذلك أن السياسة الألمانية تقوم غالبا لا على فوز حزب واحد، بل على القدرة على التوصل إلى تسوية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Курт Георг Кизингер",
           "de": "Kurt Georg Kiesinger",
-          "en": "Kurt Georg Kiesinger"
+          "en": "Kurt Georg Kiesinger",
+          "fr": "Kurt Georg Kiesinger",
+          "es": "Kurt Georg Kiesinger",
+          "it": "Kurt Georg Kiesinger",
+          "pt": "Kurt Georg Kiesinger",
+          "nl": "Kurt Georg Kiesinger",
+          "pl": "Kurt Georg Kiesinger",
+          "tr": "Kurt Georg Kiesinger",
+          "zh": "库尔特·格奥尔格·基辛格",
+          "ja": "クルト・ゲオルク・キージンガー",
+          "ko": "쿠르트 게오르크 키징어",
+          "hi": "कुर्ट गेओर्ग कीज़िंगर",
+          "ar": "كورت غيورغ كيزينغر"
         },
         "description": {
           "ru": "Кизингер до канцлерства был министром-президентом Баден-Вюртемберга. Его биография также вызывала споры из-за членства в НСДАП в годы нацизма.",
           "de": "Kiesinger war vor seiner Kanzlerschaft Ministerpraesident von Baden-Wuerttemberg. Seine Biografie war auch wegen seiner NSDAP-Mitgliedschaft in der NS-Zeit umstritten.",
-          "en": "Before becoming chancellor, Kiesinger was minister-president of Baden-Wuerttemberg. His biography was also controversial because of his Nazi Party membership during the Nazi era."
+          "en": "Before becoming chancellor, Kiesinger was minister-president of Baden-Wuerttemberg. His biography was also controversial because of his Nazi Party membership during the Nazi era.",
+          "fr": "Avant de devenir chancelier, Kiesinger fut ministre-president du Bade-Wurtemberg. Sa biographie fut aussi controversee a cause de son appartenance au NSDAP pendant la periode nazie.",
+          "es": "Antes de ser canciller, Kiesinger fue ministro-presidente de Baden-Wurtemberg. Su biografia tambien fue controvertida por su pertenencia al NSDAP durante la epoca nazi.",
+          "it": "Prima di diventare cancelliere, Kiesinger fu ministro-presidente del Baden-Wuerttemberg. La sua biografia fu controversa anche per la sua appartenenza al NSDAP durante il nazismo.",
+          "pt": "Antes de se tornar chanceler, Kiesinger foi ministro-presidente de Baden-Wuerttemberg. Sua biografia tambem foi controversa por causa de sua filiacao ao NSDAP durante o periodo nazista.",
+          "nl": "Voor hij bondskanselier werd, was Kiesinger minister-president van Baden-Wuerttemberg. Zijn biografie was ook omstreden door zijn lidmaatschap van de NSDAP in de nazi-tijd.",
+          "pl": "Przed objeciem urzedu kanclerza Kiesinger byl premierem Badenii-Wirtembergii. Jego biografia budzila spory takze z powodu czlonkostwa w NSDAP w czasach nazizmu.",
+          "tr": "Kiesinger sansolye olmadan once Baden-Wuerttemberg'in basbakaniydi. Biyografisi, Nazi donemindeki NSDAP uyeligi nedeniyle de tartismaliydi.",
+          "zh": "在成为总理之前，基辛格曾任巴登-符腾堡州州长。他的生平也因纳粹时期加入NSDAP而引发争议。",
+          "ja": "首相になる前、キージンガーはバーデン＝ヴュルテンベルク州首相でした。彼の経歴は、ナチ時代のNSDAP党員歴のためにも議論を呼びました。",
+          "ko": "총리가 되기 전 키징어는 바덴뷔르템베르크 주총리였다. 그의 생애는 나치 시대 NSDAP 당원 경력 때문에도 논란이 되었다.",
+          "hi": "चांसलर बनने से पहले कीज़िंगर बाडेन-वुर्टेमबर्ग के मंत्री-राष्ट्रपति थे। नाजी काल में NSDAP सदस्यता के कारण उनकी जीवनी विवादास्पद भी रही।",
+          "ar": "قبل أن يصبح مستشارا كان كيزينغر رئيس وزراء بادن-فورتمبيرغ. وكانت سيرته مثيرة للجدل أيضا بسبب عضويته في NSDAP خلال الحقبة النازية."
         },
         "importance": {
           "ru": "Его канцлерство напоминает, что послевоенная ФРГ долго спорила о прошлом своих политиков.",
           "de": "Seine Kanzlerschaft erinnert daran, dass die Nachkriegs-Bundesrepublik lange ueber die Vergangenheit ihrer Politiker stritt.",
-          "en": "His chancellorship is a reminder that postwar West Germany long argued about the past of its politicians."
+          "en": "His chancellorship is a reminder that postwar West Germany long argued about the past of its politicians.",
+          "fr": "Son mandat de chancelier rappelle que la RFA d'apres-guerre debattit longtemps du passe de ses responsables politiques.",
+          "es": "Su cancilleria recuerda que la RFA de posguerra discutio durante mucho tiempo sobre el pasado de sus politicos.",
+          "it": "Il suo cancellierato ricorda che la Repubblica Federale del dopoguerra discusse a lungo del passato dei suoi politici.",
+          "pt": "Seu governo como chanceler lembra que a Alemanha Ocidental do pos-guerra discutiu por muito tempo o passado de seus politicos.",
+          "nl": "Zijn kanselierschap herinnert eraan dat het naoorlogse West-Duitsland lang discussieerde over het verleden van zijn politici.",
+          "pl": "Jego kanclerstwo przypomina, ze powojenna RFN dlugo spierala sie o przeszlosc swoich politykow.",
+          "tr": "Onun sansolyeligi, savas sonrasi Bati Almanya'nin siyasetcilerinin gecmisi hakkinda uzun sure tartistigini hatirlatir.",
+          "zh": "他的总理任期提醒人们，战后西德长期争论其政治人物的过去。",
+          "ja": "彼の首相時代は、戦後西ドイツが政治家たちの過去について長く議論していたことを思い出させます。",
+          "ko": "그의 총리 재임은 전후 서독이 정치인들의 과거를 오랫동안 논쟁했다는 점을 일깨운다.",
+          "hi": "उनका चांसलर काल याद दिलाता है कि युद्धोत्तर पश्चिम जर्मनी अपने राजनीतिज्ञों के अतीत पर लंबे समय तक बहस करता रहा।",
+          "ar": "تذكر مستشاريته بأن ألمانيا الغربية بعد الحرب جادلت طويلا حول ماضي سياسييها."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Брандт вошёл в правительство",
           "de": "Brandt kommt in die Regierung",
-          "en": "Brandt enters government"
+          "en": "Brandt enters government",
+          "fr": "Brandt entre au gouvernement",
+          "es": "Brandt entra en el gobierno",
+          "it": "Brandt entra nel governo",
+          "pt": "Brandt entra no governo",
+          "nl": "Brandt treedt toe tot de regering",
+          "pl": "Brandt wchodzi do rzadu",
+          "tr": "Brandt hukumete giriyor",
+          "zh": "勃兰特进入政府",
+          "ja": "ブラントが政府に入る",
+          "ko": "브란트가 정부에 들어가다",
+          "hi": "ब्रांट सरकार में शामिल हुए",
+          "ar": "برانت يدخل الحكومة"
         },
         "description": {
           "ru": "В этой коалиции Вилли Брандт стал вице-канцлером и министром иностранных дел. Через три года он сам стал федеральным канцлером.",
           "de": "In dieser Koalition wurde Willy Brandt Vizekanzler und Aussenminister. Drei Jahre spaeter wurde er selbst Bundeskanzler.",
-          "en": "In this coalition, Willy Brandt became vice chancellor and foreign minister. Three years later, he became federal chancellor himself."
+          "en": "In this coalition, Willy Brandt became vice chancellor and foreign minister. Three years later, he became federal chancellor himself.",
+          "fr": "Dans cette coalition, Willy Brandt devint vice-chancelier et ministre des Affaires etrangeres. Trois ans plus tard, il devint lui-meme chancelier federal.",
+          "es": "En esta coalicion, Willy Brandt se convirtio en vicecanciller y ministro de Exteriores. Tres anos despues, el mismo fue canciller federal.",
+          "it": "In questa coalizione, Willy Brandt divenne vicecancelliere e ministro degli Esteri. Tre anni dopo divenne lui stesso cancelliere federale.",
+          "pt": "Nesta coligacao, Willy Brandt tornou-se vice-chanceler e ministro das Relacoes Exteriores. Tres anos depois, ele mesmo se tornou chanceler federal.",
+          "nl": "In deze coalitie werd Willy Brandt vicekanselier en minister van Buitenlandse Zaken. Drie jaar later werd hij zelf bondskanselier.",
+          "pl": "W tej koalicji Willy Brandt zostal wicekanclerzem i ministrem spraw zagranicznych. Trzy lata pozniej sam zostal kanclerzem federalnym.",
+          "tr": "Bu koalisyonda Willy Brandt basbakan yardimcisi ve disisleri bakani oldu. Uc yil sonra kendisi federal sansolye oldu.",
+          "zh": "在这个联盟中，维利·勃兰特成为副总理和外交部长。三年后，他自己成为联邦总理。",
+          "ja": "この連立で、ヴィリー・ブラントは副首相兼外相となりました。3年後、彼自身が連邦首相になりました。",
+          "ko": "이 연정에서 빌리 브란트는 부총리이자 외무장관이 되었다. 3년 뒤 그는 직접 연방총리가 되었다.",
+          "hi": "इस गठबंधन में विली ब्रांट उप-चांसलर और विदेश मंत्री बने। तीन साल बाद वे स्वयं संघीय चांसलर बने।",
+          "ar": "في هذا الائتلاف أصبح فيلي برانت نائبا للمستشار ووزيرا للخارجية. وبعد ثلاث سنوات أصبح هو نفسه مستشارا اتحاديا."
         },
         "importance": {
           "ru": "Иногда временный компромисс становится ступенькой к большой политической смене.",
           "de": "Manchmal wird ein vorlaeufiger Kompromiss zur Stufe fuer einen grossen politischen Wechsel.",
-          "en": "Sometimes a temporary compromise becomes a step toward a major political change."
+          "en": "Sometimes a temporary compromise becomes a step toward a major political change.",
+          "fr": "Parfois, un compromis provisoire devient une marche vers un grand changement politique.",
+          "es": "A veces un compromiso temporal se convierte en un paso hacia un gran cambio politico.",
+          "it": "A volte un compromesso temporaneo diventa un gradino verso un grande cambiamento politico.",
+          "pt": "As vezes, um compromisso temporario torna-se um passo para uma grande mudanca politica.",
+          "nl": "Soms wordt een tijdelijk compromis een opstap naar een grote politieke verandering.",
+          "pl": "Czasem tymczasowy kompromis staje sie stopniem do wielkiej zmiany politycznej.",
+          "tr": "Bazen gecici bir uzlasma buyuk bir siyasi degisime giden basamak olur.",
+          "zh": "有时，临时妥协会成为重大政治变化的台阶。",
+          "ja": "時には一時的な妥協が、大きな政治変化への一段となります。",
+          "ko": "때로는 일시적 타협이 큰 정치 변화로 가는 발판이 된다.",
+          "hi": "कभी-कभी अस्थायी समझौता बड़े राजनीतिक बदलाव की सीढ़ी बन जाता है।",
+          "ar": "أحيانا يصبح حل وسط مؤقت درجة نحو تغيير سياسي كبير."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Кабинет Кизингера работал до 1969 года, когда его сменила коалиция СДПГ и СвДП во главе с Вилли Брандтом.",
     "de": "Das Kabinett Kiesinger amtierte bis 1969, als es von der SPD-FDP-Koalition unter Willy Brandt abgeloest wurde.",
-    "en": "The Kiesinger cabinet served until 1969, when it was replaced by the SPD-FDP coalition under Willy Brandt."
+    "en": "The Kiesinger cabinet served until 1969, when it was replaced by the SPD-FDP coalition under Willy Brandt.",
+    "fr": "Le cabinet Kiesinger resta en fonction jusqu'en 1969, lorsqu'il fut remplace par la coalition SPD-FDP dirigee par Willy Brandt.",
+    "es": "El gabinete Kiesinger goberno hasta 1969, cuando fue reemplazado por la coalicion SPD-FDP encabezada por Willy Brandt.",
+    "it": "Il gabinetto Kiesinger rimase in carica fino al 1969, quando fu sostituito dalla coalizione SPD-FDP guidata da Willy Brandt.",
+    "pt": "O gabinete Kiesinger governou ate 1969, quando foi substituido pela coligacao SPD-FDP liderada por Willy Brandt.",
+    "nl": "Het kabinet-Kiesinger bleef tot 1969 in functie, toen het werd vervangen door de SPD-FDP-coalitie onder Willy Brandt.",
+    "pl": "Gabinet Kiesingera urzedowal do 1969 roku, kiedy zastapila go koalicja SPD-FDP pod przywodztwem Willy'ego Brandta.",
+    "tr": "Kiesinger kabinesi 1969'a kadar gorev yapti; sonra yerini Willy Brandt liderligindeki SPD-FDP koalisyonu aldi.",
+    "zh": "基辛格内阁任职到1969年，随后由维利·勃兰特领导的社民党-自民党联盟取代。",
+    "ja": "キージンガー内閣は1969年まで続き、その後ヴィリー・ブラント率いるSPD-FDP連立に交代しました。",
+    "ko": "키징어 내각은 1969년까지 재임했고, 이후 빌리 브란트가 이끄는 SPD-FDP 연정으로 교체되었다.",
+    "hi": "कीज़िंगर मंत्रिमंडल 1969 तक चला, जब उसकी जगह विली ब्रांट के नेतृत्व वाली SPD-FDP गठबंधन सरकार ने ली।",
+    "ar": "عملت حكومة كيزينغر حتى عام 1969، عندما حل محلها ائتلاف SPD-FDP بقيادة فيلي برانت."
   },
   "sources": [
     {

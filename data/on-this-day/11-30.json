@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Германии введено женское избирательное право",
       "de": "Deutschland fuehrt das Frauenwahlrecht ein",
-      "en": "Germany introduces women's suffrage"
+      "en": "Germany introduces women's suffrage",
+      "fr": "L'Allemagne introduit le droit de vote des femmes",
+      "es": "Alemania introduce el sufragio femenino",
+      "it": "La Germania introduce il suffragio femminile",
+      "pt": "A Alemanha introduz o sufragio feminino",
+      "nl": "Duitsland voert vrouwenkiesrecht in",
+      "pl": "Niemcy wprowadzaja prawa wyborcze kobiet",
+      "tr": "Almanya kadinlara oy hakki taniyor",
+      "zh": "德国实行女性选举权",
+      "ja": "ドイツが女性参政権を導入する",
+      "ko": "독일이 여성 참정권을 도입하다",
+      "hi": "जर्मनी ने महिलाओं को मताधिकार दिया",
+      "ar": "ألمانيا تقر حق النساء في التصويت"
     },
     "description": {
       "ru": "30 ноября 1918 года вступило в силу новое избирательное право для выборов в Национальное собрание. Оно закрепило право женщин голосовать и быть избранными.",
       "de": "Am 30. November 1918 trat das neue Wahlrecht fuer die Wahlen zur Nationalversammlung in Kraft. Es schrieb das Recht der Frauen fest, zu waehlen und gewaehlt zu werden.",
-      "en": "On 30 November 1918, the new electoral law for the National Assembly elections came into force. It established women's right to vote and to stand for election."
+      "en": "On 30 November 1918, the new electoral law for the National Assembly elections came into force. It established women's right to vote and to stand for election.",
+      "fr": "Le 30 novembre 1918, le nouveau droit electoral pour les elections a l'Assemblee nationale entra en vigueur. Il etablit le droit des femmes de voter et d'etre elues.",
+      "es": "El 30 de noviembre de 1918 entro en vigor la nueva ley electoral para las elecciones a la Asamblea Nacional. Establecio el derecho de las mujeres a votar y a presentarse como candidatas.",
+      "it": "Il 30 novembre 1918 entro in vigore la nuova legge elettorale per le elezioni dell'Assemblea nazionale. Essa stabiliva il diritto delle donne di votare e di essere elette.",
+      "pt": "Em 30 de novembro de 1918 entrou em vigor a nova lei eleitoral para as eleicoes da Assembleia Nacional. Ela estabeleceu o direito das mulheres de votar e de serem eleitas.",
+      "nl": "Op 30 november 1918 trad de nieuwe kieswet voor de verkiezingen van de Nationale Vergadering in werking. Die legde het recht van vrouwen vast om te stemmen en gekozen te worden.",
+      "pl": "30 listopada 1918 roku weszlo w zycie nowe prawo wyborcze do wyborow do Zgromadzenia Narodowego. Ustanowilo ono prawo kobiet do glosowania i kandydowania.",
+      "tr": "30 Kasim 1918'de Ulusal Meclis secimleri icin yeni secim yasasi yururluge girdi. Bu yasa kadinlarin oy kullanma ve secilme hakkini guvenceye aldi.",
+      "zh": "1918年11月30日，国民议会选举的新选举法生效。它确立了女性投票和被选举的权利。",
+      "ja": "1918年11月30日、国民議会選挙のための新しい選挙法が施行されました。これにより女性が投票し、選挙に立候補する権利が確立されました。",
+      "ko": "1918년 11월 30일 국민의회 선거를 위한 새 선거법이 시행되었다. 이 법은 여성이 투표하고 선출될 권리를 확립했다.",
+      "hi": "30 नवंबर 1918 को राष्ट्रीय सभा के चुनावों के लिए नया चुनाव कानून लागू हुआ। इसने महिलाओं के मतदान करने और चुने जाने के अधिकार को स्थापित किया।",
+      "ar": "في 30 نوفمبر 1918 دخل قانون انتخابي جديد لانتخابات الجمعية الوطنية حيز التنفيذ. وقد ثبت حق النساء في التصويت والترشح."
     },
     "importance": {
       "ru": "Это один из важнейших шагов к современной демократии в Германии.",
       "de": "Dies ist einer der wichtigsten Schritte zur modernen Demokratie in Deutschland.",
-      "en": "It was one of the most important steps toward modern democracy in Germany."
+      "en": "It was one of the most important steps toward modern democracy in Germany.",
+      "fr": "Ce fut l'une des etapes les plus importantes vers la democratie moderne en Allemagne.",
+      "es": "Fue uno de los pasos mas importantes hacia la democracia moderna en Alemania.",
+      "it": "Fu uno dei passi piu importanti verso la democrazia moderna in Germania.",
+      "pt": "Foi um dos passos mais importantes rumo a democracia moderna na Alemanha.",
+      "nl": "Het was een van de belangrijkste stappen naar moderne democratie in Duitsland.",
+      "pl": "Byl to jeden z najwazniejszych krokow ku nowoczesnej demokracji w Niemczech.",
+      "tr": "Bu, Almanya'da modern demokrasiye giden en onemli adimlardan biriydi.",
+      "zh": "这是德国走向现代民主的最重要步骤之一。",
+      "ja": "これはドイツの近代民主主義へ向かう最も重要な一歩の一つでした。",
+      "ko": "이는 독일의 현대 민주주의로 가는 가장 중요한 단계 중 하나였다.",
+      "hi": "यह जर्मनी में आधुनिक लोकतंत्र की ओर सबसे महत्वपूर्ण कदमों में से एक था।",
+      "ar": "كانت هذه إحدى أهم الخطوات نحو الديمقراطية الحديثة في ألمانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Демократия после революции",
           "de": "Demokratie nach der Revolution",
-          "en": "Democracy after revolution"
+          "en": "Democracy after revolution",
+          "fr": "La democratie apres la revolution",
+          "es": "Democracia despues de la revolucion",
+          "it": "Democrazia dopo la rivoluzione",
+          "pt": "Democracia depois da revolucao",
+          "nl": "Democratie na de revolutie",
+          "pl": "Demokracja po rewolucji",
+          "tr": "Devrimden sonra demokrasi",
+          "zh": "革命后的民主",
+          "ja": "革命後の民主主義",
+          "ko": "혁명 이후의 민주주의",
+          "hi": "क्रांति के बाद लोकतंत्र",
+          "ar": "الديمقراطية بعد الثورة"
         },
         "description": {
           "ru": "После Ноябрьской революции новая власть должна была быстро определить правила будущего государства. Всеобщее, равное, тайное и прямое голосование стало основой выборов 1919 года.",
           "de": "Nach der Novemberrevolution musste die neue Macht rasch die Regeln des kuenftigen Staates festlegen. Das allgemeine, gleiche, geheime und direkte Wahlrecht wurde zur Grundlage der Wahl von 1919.",
-          "en": "After the November Revolution, the new authorities had to define the rules of the future state quickly. Universal, equal, secret and direct suffrage became the basis of the 1919 election."
+          "en": "After the November Revolution, the new authorities had to define the rules of the future state quickly. Universal, equal, secret and direct suffrage became the basis of the 1919 election.",
+          "fr": "Apres la revolution de Novembre, le nouveau pouvoir dut fixer rapidement les regles du futur Etat. Le suffrage universel, egal, secret et direct devint la base des elections de 1919.",
+          "es": "Tras la Revolucion de Noviembre, el nuevo poder tuvo que definir rapidamente las reglas del futuro Estado. El sufragio universal, igual, secreto y directo fue la base de las elecciones de 1919.",
+          "it": "Dopo la Rivoluzione di novembre, il nuovo potere dovette definire rapidamente le regole del futuro Stato. Il voto universale, uguale, segreto e diretto divenne la base delle elezioni del 1919.",
+          "pt": "Depois da Revolucao de Novembro, o novo poder precisou definir rapidamente as regras do futuro Estado. O voto universal, igual, secreto e direto tornou-se a base das eleicoes de 1919.",
+          "nl": "Na de Novemberrevolutie moest de nieuwe macht snel de regels van de toekomstige staat vastleggen. Algemeen, gelijk, geheim en direct kiesrecht werd de basis van de verkiezing van 1919.",
+          "pl": "Po rewolucji listopadowej nowa wladza musiala szybko okreslic zasady przyszlego panstwa. Powszechne, rowne, tajne i bezposrednie glosowanie stalo sie podstawa wyborow 1919 roku.",
+          "tr": "Kasim Devrimi'nden sonra yeni iktidar gelecekteki devletin kurallarini hizla belirlemek zorundaydi. Genel, esit, gizli ve dogrudan oy hakki 1919 secimlerinin temeli oldu.",
+          "zh": "十一月革命后，新政权必须迅速确定未来国家的规则。普遍、平等、秘密和直接选举成为1919年选举的基础。",
+          "ja": "十一月革命の後、新しい権力は将来の国家のルールを急いで定めなければなりませんでした。普通・平等・秘密・直接選挙が1919年選挙の基礎となりました。",
+          "ko": "11월 혁명 이후 새 권력은 미래 국가의 규칙을 빠르게 정해야 했다. 보통, 평등, 비밀, 직접 선거권이 1919년 선거의 기초가 되었다.",
+          "hi": "नवंबर क्रांति के बाद नई सत्ता को भविष्य के राज्य के नियम जल्दी तय करने पड़े। सार्वभौमिक, समान, गुप्त और प्रत्यक्ष मतदान 1919 के चुनावों का आधार बना।",
+          "ar": "بعد ثورة نوفمبر كان على السلطة الجديدة أن تحدد بسرعة قواعد الدولة المقبلة. وأصبح الاقتراع العام والمتساوي والسري والمباشر أساس انتخابات عام 1919."
         },
         "importance": {
           "ru": "Дата показывает, что демократия состоит не только из лозунгов, но и из конкретных прав.",
           "de": "Das Datum zeigt, dass Demokratie nicht nur aus Parolen besteht, sondern aus konkreten Rechten.",
-          "en": "The date shows that democracy consists not only of slogans, but of concrete rights."
+          "en": "The date shows that democracy consists not only of slogans, but of concrete rights.",
+          "fr": "Cette date montre que la democratie ne se compose pas seulement de slogans, mais aussi de droits concrets.",
+          "es": "La fecha muestra que la democracia no consiste solo en lemas, sino en derechos concretos.",
+          "it": "La data mostra che la democrazia non consiste solo in slogan, ma in diritti concreti.",
+          "pt": "A data mostra que a democracia nao e feita apenas de slogans, mas de direitos concretos.",
+          "nl": "De datum laat zien dat democratie niet alleen uit leuzen bestaat, maar uit concrete rechten.",
+          "pl": "Ta data pokazuje, ze demokracja sklada sie nie tylko z hasel, lecz takze z konkretnych praw.",
+          "tr": "Bu tarih, demokrasinin yalnizca sloganlardan degil, somut haklardan olustugunu gosterir.",
+          "zh": "这个日期说明，民主不仅由口号组成，也由具体权利组成。",
+          "ja": "この日は、民主主義がスローガンだけでなく具体的な権利から成ることを示しています。",
+          "ko": "이 날짜는 민주주의가 구호뿐 아니라 구체적인 권리로 이루어져 있음을 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि लोकतंत्र केवल नारों से नहीं, बल्कि ठोस अधिकारों से बनता है।",
+          "ar": "يوضح هذا التاريخ أن الديمقراطية لا تتكون من الشعارات فقط، بل من حقوق ملموسة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Женщины как избирательницы и кандидаты",
           "de": "Frauen als Waehlerinnen und Kandidatinnen",
-          "en": "Women as voters and candidates"
+          "en": "Women as voters and candidates",
+          "fr": "Les femmes comme electrices et candidates",
+          "es": "Mujeres como votantes y candidatas",
+          "it": "Donne come elettrici e candidate",
+          "pt": "Mulheres como eleitoras e candidatas",
+          "nl": "Vrouwen als kiezers en kandidaten",
+          "pl": "Kobiety jako wyborczynie i kandydatki",
+          "tr": "Secmen ve aday olarak kadinlar",
+          "zh": "作为选民和候选人的女性",
+          "ja": "有権者と候補者としての女性",
+          "ko": "유권자와 후보자로서의 여성",
+          "hi": "मतदाता और उम्मीदवार के रूप में महिलाएँ",
+          "ar": "النساء كناخبات ومرشحات"
         },
         "description": {
           "ru": "19 января 1919 года женщины впервые участвовали в общегерманских выборах. В Национальное собрание были избраны первые женщины-депутаты.",
           "de": "Am 19. Januar 1919 nahmen Frauen erstmals an einer reichsweiten Wahl teil. In die Nationalversammlung wurden die ersten weiblichen Abgeordneten gewaehlt.",
-          "en": "On 19 January 1919, women took part in a national German election for the first time. The first female deputies were elected to the National Assembly."
+          "en": "On 19 January 1919, women took part in a national German election for the first time. The first female deputies were elected to the National Assembly.",
+          "fr": "Le 19 janvier 1919, les femmes participerent pour la premiere fois a une election nationale allemande. Les premieres deputees furent elues a l'Assemblee nationale.",
+          "es": "El 19 de enero de 1919, las mujeres participaron por primera vez en unas elecciones nacionales alemanas. Las primeras diputadas fueron elegidas a la Asamblea Nacional.",
+          "it": "Il 19 gennaio 1919 le donne parteciparono per la prima volta a un'elezione nazionale tedesca. Le prime deputate furono elette all'Assemblea nazionale.",
+          "pt": "Em 19 de janeiro de 1919, as mulheres participaram pela primeira vez de uma eleicao nacional alema. As primeiras deputadas foram eleitas para a Assembleia Nacional.",
+          "nl": "Op 19 januari 1919 namen vrouwen voor het eerst deel aan een landelijke Duitse verkiezing. De eerste vrouwelijke afgevaardigden werden in de Nationale Vergadering gekozen.",
+          "pl": "19 stycznia 1919 roku kobiety po raz pierwszy wziely udzial w ogolnoniemieckich wyborach. Do Zgromadzenia Narodowego wybrano pierwsze poslanki.",
+          "tr": "19 Ocak 1919'da kadinlar ilk kez Almanya capinda bir secime katildi. Ulusal Meclis'e ilk kadin milletvekilleri secildi.",
+          "zh": "1919年1月19日，女性第一次参加全德国范围的选举。第一批女性议员当选为国民议会议员。",
+          "ja": "1919年1月19日、女性は初めてドイツ全国選挙に参加しました。最初の女性議員が国民議会に選出されました。",
+          "ko": "1919년 1월 19일 여성들은 처음으로 독일 전국 선거에 참여했다. 첫 여성 의원들이 국민의회에 선출되었다.",
+          "hi": "19 जनवरी 1919 को महिलाओं ने पहली बार पूरे जर्मनी के चुनाव में भाग लिया। पहली महिला प्रतिनिधि राष्ट्रीय सभा में चुनी गईं।",
+          "ar": "في 19 يناير 1919 شاركت النساء لأول مرة في انتخابات ألمانية على مستوى البلاد. وانتُخبت أول نائبات إلى الجمعية الوطنية."
         },
         "importance": {
           "ru": "Это изменило не только список избирателей, но и саму идею политического участия.",
           "de": "Das veraenderte nicht nur die Waehlerlisten, sondern auch die Vorstellung politischer Teilhabe.",
-          "en": "It changed not only the voter rolls, but the idea of political participation itself."
+          "en": "It changed not only the voter rolls, but the idea of political participation itself.",
+          "fr": "Cela changea non seulement les listes electorales, mais aussi l'idee meme de participation politique.",
+          "es": "Cambio no solo las listas electorales, sino la propia idea de participacion politica.",
+          "it": "Cambio non solo le liste elettorali, ma l'idea stessa di partecipazione politica.",
+          "pt": "Mudou nao so as listas eleitorais, mas a propria ideia de participacao politica.",
+          "nl": "Het veranderde niet alleen de kiezerslijsten, maar ook het idee van politieke deelname zelf.",
+          "pl": "Zmienilo to nie tylko listy wyborcow, ale sama idee udzialu w polityce.",
+          "tr": "Bu, yalnizca secmen listelerini degil, siyasi katilim fikrinin kendisini de degistirdi.",
+          "zh": "这不仅改变了选民名单，也改变了政治参与本身的概念。",
+          "ja": "これは有権者名簿だけでなく、政治参加そのものの考え方も変えました。",
+          "ko": "이는 유권자 명부뿐 아니라 정치 참여라는 생각 자체를 바꾸었다.",
+          "hi": "इसने केवल मतदाता सूची ही नहीं, राजनीतिक भागीदारी की धारणा भी बदल दी।",
+          "ar": "غيّر ذلك ليس قوائم الناخبين فقط، بل فكرة المشاركة السياسية نفسها."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Новое право также снизило возраст голосования с 25 до 20 лет.",
     "de": "Das neue Wahlrecht senkte auch das Wahlalter von 25 auf 20 Jahre.",
-    "en": "The new law also lowered the voting age from 25 to 20."
+    "en": "The new law also lowered the voting age from 25 to 20.",
+    "fr": "La nouvelle loi abaissa aussi l'age du vote de 25 a 20 ans.",
+    "es": "La nueva ley tambien bajo la edad de voto de 25 a 20 anos.",
+    "it": "La nuova legge abbasso anche l'eta di voto da 25 a 20 anni.",
+    "pt": "A nova lei tambem reduziu a idade de voto de 25 para 20 anos.",
+    "nl": "De nieuwe wet verlaagde ook de kiesleeftijd van 25 naar 20 jaar.",
+    "pl": "Nowe prawo obnizylo takze wiek wyborczy z 25 do 20 lat.",
+    "tr": "Yeni yasa oy kullanma yasini da 25'ten 20'ye dusurdu.",
+    "zh": "新法律还把投票年龄从25岁降至20岁。",
+    "ja": "新しい法律は投票年齢も25歳から20歳に引き下げました。",
+    "ko": "새 법은 투표 연령도 25세에서 20세로 낮추었다.",
+    "hi": "नए कानून ने मतदान की आयु भी 25 से घटाकर 20 वर्ष कर दी।",
+    "ar": "خفض القانون الجديد أيضا سن التصويت من 25 إلى 20 عاما."
   },
   "sources": [
     {
