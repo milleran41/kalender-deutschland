@@ -11,17 +11,53 @@
     "title": {
       "ru": "Первая немецкая радиопередача",
       "de": "Die erste deutsche Rundfunksendung",
-      "en": "The first German radio broadcast"
+      "en": "The first German radio broadcast",
+      "fr": "La premiere emission de radio allemande",
+      "es": "La primera emision de radio alemana",
+      "it": "La prima trasmissione radiofonica tedesca",
+      "pt": "A primeira transmissao de radio alema",
+      "nl": "De eerste Duitse radio-uitzending",
+      "pl": "Pierwsza niemiecka audycja radiowa",
+      "tr": "Ilk Alman radyo yayini",
+      "zh": "德国第一次广播",
+      "ja": "ドイツ初のラジオ放送",
+      "ko": "독일 최초의 라디오 방송",
+      "hi": "पहला जर्मन रेडियो प्रसारण",
+      "ar": "اول بث اذاعي الماني"
     },
     "description": {
       "ru": "29 октября 1923 года из берлинского Vox-Haus вышла первая регулярная радиопередача для слушателей в Германии. Радио быстро стало новым массовым медиа.",
       "de": "Am 29. Oktober 1923 wurde aus dem Berliner Vox-Haus die erste regulaere Rundfunksendung fuer Hoerer in Deutschland ausgestrahlt. Radio wurde schnell zu einem neuen Massenmedium.",
-      "en": "On 29 October 1923, the first regular radio broadcast for listeners in Germany was transmitted from Berlin's Vox-Haus. Radio quickly became a new mass medium."
+      "en": "On 29 October 1923, the first regular radio broadcast for listeners in Germany was transmitted from Berlin's Vox-Haus. Radio quickly became a new mass medium.",
+      "fr": "Le 29 octobre 1923, la premiere emission reguliere de radio pour les auditeurs en Allemagne fut diffusee depuis le Vox-Haus de Berlin. La radio devint rapidement un nouveau media de masse.",
+      "es": "El 29 de octubre de 1923 se transmitio desde el Vox-Haus de Berlin la primera emision regular de radio para oyentes en Alemania. La radio se convirtio rapidamente en un nuevo medio de masas.",
+      "it": "Il 29 ottobre 1923 dal Vox-Haus di Berlino fu trasmessa la prima trasmissione radiofonica regolare per gli ascoltatori in Germania. La radio divenne rapidamente un nuovo mezzo di massa.",
+      "pt": "Em 29 de outubro de 1923, a primeira transmissao regular de radio para ouvintes na Alemanha foi enviada do Vox-Haus, em Berlim. O radio rapidamente se tornou um novo meio de massa.",
+      "nl": "Op 29 oktober 1923 werd vanuit het Berlijnse Vox-Haus de eerste regelmatige radio-uitzending voor luisteraars in Duitsland uitgezonden. Radio werd snel een nieuw massamedium.",
+      "pl": "29 pazdziernika 1923 roku z berlinskiego Vox-Haus nadano pierwsza regularna audycje radiowa dla sluchaczy w Niemczech. Radio szybko stalo sie nowym medium masowym.",
+      "tr": "29 Ekim 1923'te Almanya'daki dinleyiciler icin ilk duzenli radyo yayini Berlin'deki Vox-Haus'tan yapildi. Radyo hizla yeni bir kitle iletisim araci oldu.",
+      "zh": "1923年10月29日，德国面向听众的第一次定期广播从柏林Vox-Haus播出。广播很快成为新的大众媒体。",
+      "ja": "1923年10月29日、ドイツの聴取者向けの最初の定期ラジオ放送がベルリンのVox-Hausから送信されました。ラジオはすぐに新しい大衆メディアとなりました。",
+      "ko": "1923년 10월 29일 베를린의 Vox-Haus에서 독일 청취자들을 위한 첫 정규 라디오 방송이 송출되었다. 라디오는 빠르게 새로운 대중 매체가 되었다.",
+      "hi": "29 अक्टूबर 1923 को बर्लिन के Vox-Haus से जर्मनी के श्रोताओं के लिए पहला नियमित रेडियो प्रसारण हुआ। रेडियो जल्दी ही नया जन-माध्यम बन गया।",
+      "ar": "في 29 أكتوبر 1923 بثت من Vox-Haus في برلين اول اذاعة منتظمة للمستمعين في المانيا. وسرعان ما اصبح الراديو وسيلة جماهيرية جديدة."
     },
     "importance": {
       "ru": "Дата открывает историю немецкого радио, от культуры и музыки до новостей и пропаганды.",
       "de": "Das Datum eroeffnet die Geschichte des deutschen Rundfunks, von Kultur und Musik bis zu Nachrichten und Propaganda.",
-      "en": "The date opens the history of German broadcasting, from culture and music to news and propaganda."
+      "en": "The date opens the history of German broadcasting, from culture and music to news and propaganda.",
+      "fr": "Cette date ouvre l'histoire de la radiodiffusion allemande, de la culture et de la musique aux informations et a la propagande.",
+      "es": "La fecha abre la historia de la radiodifusion alemana, desde la cultura y la musica hasta las noticias y la propaganda.",
+      "it": "La data apre la storia della radiodiffusione tedesca, dalla cultura e dalla musica alle notizie e alla propaganda.",
+      "pt": "A data abre a historia da radiodifusao alema, da cultura e musica as noticias e propaganda.",
+      "nl": "De datum opent de geschiedenis van de Duitse omroep, van cultuur en muziek tot nieuws en propaganda.",
+      "pl": "Ta data otwiera historie niemieckiej radiofonii, od kultury i muzyki po wiadomosci i propagande.",
+      "tr": "Bu tarih, kultur ve muzikten haberlere ve propagandaya uzanan Alman yayincilik tarihini baslatir.",
+      "zh": "这个日期开启了德国广播史，从文化和音乐到新闻和宣传。",
+      "ja": "この日付は、文化や音楽からニュース、宣伝まで続くドイツ放送史の始まりです。",
+      "ko": "이 날짜는 문화와 음악에서 뉴스와 선전에 이르는 독일 방송사의 시작을 연다.",
+      "hi": "यह तारीख जर्मन प्रसारण इतिहास की शुरुआत करती है, संस्कृति और संगीत से लेकर समाचार और प्रचार तक।",
+      "ar": "يفتح هذا التاريخ تاريخ البث الالماني، من الثقافة والموسيقى الى الاخبار والدعاية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Голос Веймарской эпохи",
           "de": "Eine Stimme der Weimarer Zeit",
-          "en": "A voice of the Weimar era"
+          "en": "A voice of the Weimar era",
+          "fr": "Une voix de l'epoque de Weimar",
+          "es": "Una voz de la epoca de Weimar",
+          "it": "Una voce dell'epoca di Weimar",
+          "pt": "Uma voz da epoca de Weimar",
+          "nl": "Een stem van de Weimartijd",
+          "pl": "Glos epoki weimarskiej",
+          "tr": "Weimar doneminin sesi",
+          "zh": "魏玛时代的声音",
+          "ja": "ワイマール時代の声",
+          "ko": "바이마르 시대의 목소리",
+          "hi": "वाइमर युग की आवाज",
+          "ar": "صوت من عصر فايمار"
         },
         "description": {
           "ru": "Радио появилось в Германии в сложный год гиперинфляции и политических кризисов. Новая техника быстро стала частью повседневности.",
           "de": "Der Rundfunk begann in Deutschland im schwierigen Jahr der Hyperinflation und politischer Krisen. Die neue Technik wurde schnell Teil des Alltags.",
-          "en": "Radio began in Germany during the difficult year of hyperinflation and political crises. The new technology quickly became part of everyday life."
+          "en": "Radio began in Germany during the difficult year of hyperinflation and political crises. The new technology quickly became part of everyday life.",
+          "fr": "La radio commenca en Allemagne pendant l'annee difficile de l'hyperinflation et des crises politiques. La nouvelle technique devint vite une partie de la vie quotidienne.",
+          "es": "La radio comenzo en Alemania durante el dificil ano de la hiperinflacion y las crisis politicas. La nueva tecnologia se volvio pronto parte de la vida cotidiana.",
+          "it": "La radio inizio in Germania nel difficile anno dell'iperinflazione e delle crisi politiche. La nuova tecnologia divenne rapidamente parte della vita quotidiana.",
+          "pt": "O radio comecou na Alemanha durante o ano dificil da hiperinflacao e das crises politicas. A nova tecnologia rapidamente se tornou parte da vida cotidiana.",
+          "nl": "Radio begon in Duitsland in het moeilijke jaar van hyperinflatie en politieke crises. De nieuwe techniek werd snel deel van het dagelijks leven.",
+          "pl": "Radio zaczelo dzialac w Niemczech w trudnym roku hiperinflacji i kryzysow politycznych. Nowa technika szybko stala sie czescia codziennosci.",
+          "tr": "Radyo Almanya'da hiperenflasyon ve siyasi krizlerle dolu zor bir yilda basladi. Yeni teknoloji hizla gundelik hayatin parcasi oldu.",
+          "zh": "广播在德国开始于恶性通货膨胀和政治危机的艰难年份。这项新技术很快成为日常生活的一部分。",
+          "ja": "ラジオは、ハイパーインフレと政治危機の困難な年にドイツで始まりました。新しい技術はすぐに日常生活の一部となりました。",
+          "ko": "라디오는 초인플레이션과 정치 위기의 어려운 해에 독일에서 시작되었다. 새로운 기술은 빠르게 일상의 일부가 되었다.",
+          "hi": "जर्मनी में रेडियो की शुरुआत अति-मुद्रास्फीति और राजनीतिक संकटों के कठिन वर्ष में हुई। नई तकनीक जल्दी ही रोजमर्रा के जीवन का हिस्सा बन गई।",
+          "ar": "بدأ الراديو في المانيا في عام صعب من التضخم المفرط والازمات السياسية. وسرعان ما اصبحت التقنية الجديدة جزءا من الحياة اليومية."
         },
         "importance": {
           "ru": "История радио показывает, как технологии меняют общество даже в годы кризиса.",
           "de": "Rundfunkgeschichte zeigt, wie Technik Gesellschaft auch in Krisenjahren veraendert.",
-          "en": "Radio history shows how technology changes society even in years of crisis."
+          "en": "Radio history shows how technology changes society even in years of crisis.",
+          "fr": "L'histoire de la radio montre comment la technique transforme la societe meme en temps de crise.",
+          "es": "La historia de la radio muestra como la tecnologia cambia la sociedad incluso en anos de crisis.",
+          "it": "La storia della radio mostra come la tecnologia cambi la societa anche negli anni di crisi.",
+          "pt": "A historia do radio mostra como a tecnologia muda a sociedade mesmo em anos de crise.",
+          "nl": "De geschiedenis van radio laat zien hoe techniek de samenleving verandert, zelfs in crisisjaren.",
+          "pl": "Historia radia pokazuje, jak technologia zmienia spoleczenstwo nawet w latach kryzysu.",
+          "tr": "Radyo tarihi, teknolojinin kriz yillarinda bile toplumu nasil degistirdigini gosterir.",
+          "zh": "广播史显示，技术即使在危机年代也会改变社会。",
+          "ja": "ラジオの歴史は、危機の時代でさえ技術が社会を変えることを示しています。",
+          "ko": "라디오의 역사는 기술이 위기의 해에도 사회를 어떻게 바꾸는지 보여 준다.",
+          "hi": "रेडियो का इतिहास दिखाता है कि संकट के वर्षों में भी तकनीक समाज को कैसे बदलती है।",
+          "ar": "يبين تاريخ الراديو كيف تغير التكنولوجيا المجتمع حتى في سنوات الازمة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Берлинский Vox-Haus стал одним из символических мест рождения немецкого радио.",
     "de": "Das Berliner Vox-Haus wurde zu einem symbolischen Geburtsort des deutschen Rundfunks.",
-    "en": "Berlin's Vox-Haus became one symbolic birthplace of German radio."
+    "en": "Berlin's Vox-Haus became one symbolic birthplace of German radio.",
+    "fr": "Le Vox-Haus de Berlin devint l'un des lieux symboliques de naissance de la radio allemande.",
+    "es": "El Vox-Haus de Berlin se convirtio en uno de los lugares simbolicos del nacimiento de la radio alemana.",
+    "it": "Il Vox-Haus di Berlino divenne uno dei luoghi simbolici della nascita della radio tedesca.",
+    "pt": "O Vox-Haus de Berlim tornou-se um dos locais simbolicos do nascimento do radio alemao.",
+    "nl": "Het Berlijnse Vox-Haus werd een symbolische geboorteplaats van de Duitse radio.",
+    "pl": "Berlinski Vox-Haus stal sie jednym z symbolicznych miejsc narodzin niemieckiego radia.",
+    "tr": "Berlin'deki Vox-Haus, Alman radyosunun sembolik dogum yerlerinden biri oldu.",
+    "zh": "柏林的Vox-Haus成为德国广播的象征性诞生地之一。",
+    "ja": "ベルリンのVox-Hausは、ドイツのラジオの象徴的な誕生地の一つとなりました。",
+    "ko": "베를린의 Vox-Haus는 독일 라디오의 상징적 탄생지 중 하나가 되었다.",
+    "hi": "बर्लिन का Vox-Haus जर्मन रेडियो के प्रतीकात्मक जन्मस्थलों में से एक बना।",
+    "ar": "اصبح Vox-Haus في برلين احد الاماكن الرمزية لميلاد الراديو الالماني."
   },
   "sources": [
     {

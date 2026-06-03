@@ -11,17 +11,53 @@
     "title": {
       "ru": "Октябрьские реформы изменили устройство Германской империи",
       "de": "Die Oktoberreformen veraendern das Deutsche Reich",
-      "en": "The October reforms change the German Empire"
+      "en": "The October reforms change the German Empire",
+      "fr": "Les reformes d'octobre changent l'Empire allemand",
+      "es": "Las reformas de octubre cambian el Imperio aleman",
+      "it": "Le riforme di ottobre cambiano l'Impero tedesco",
+      "pt": "As reformas de outubro mudam o Imperio Alemao",
+      "nl": "De oktoberhervormingen veranderen het Duitse Keizerrijk",
+      "pl": "Reformy pazdziernikowe zmieniaja Cesarstwo Niemieckie",
+      "tr": "Ekim reformlari Alman Imparatorlugu'nu degistirdi",
+      "zh": "十月改革改变德意志帝国",
+      "ja": "十月改革がドイツ帝国を変える",
+      "ko": "10월 개혁이 독일 제국을 바꾸다",
+      "hi": "अक्टूबर सुधारों ने जर्मन साम्राज्य की व्यवस्था बदली",
+      "ar": "اصلاحات أكتوبر تغير الامبراطورية الالمانية"
     },
     "description": {
       "ru": "28 октября 1918 года вступили в силу реформы, которые превратили Германскую империю в парламентскую монархию. Канцлер теперь зависел от доверия рейхстага, а вопросы войны и мира требовали парламентского участия.",
       "de": "Am 28. Oktober 1918 traten Reformen in Kraft, die das Deutsche Reich in eine parlamentarische Monarchie verwandelten. Der Reichskanzler war nun vom Vertrauen des Reichstags abhaengig, und Fragen von Krieg und Frieden verlangten parlamentarische Mitwirkung.",
-      "en": "On 28 October 1918, reforms took effect that transformed the German Empire into a parliamentary monarchy. The chancellor now depended on the confidence of the Reichstag, and questions of war and peace required parliamentary involvement."
+      "en": "On 28 October 1918, reforms took effect that transformed the German Empire into a parliamentary monarchy. The chancellor now depended on the confidence of the Reichstag, and questions of war and peace required parliamentary involvement.",
+      "fr": "Le 28 octobre 1918, des reformes entrerent en vigueur et transformerent l'Empire allemand en monarchie parlementaire. Le chancelier dependait desormais de la confiance du Reichstag, et les questions de guerre et de paix exigeaient la participation du parlement.",
+      "es": "El 28 de octubre de 1918 entraron en vigor reformas que transformaron el Imperio aleman en una monarquia parlamentaria. El canciller dependia ahora de la confianza del Reichstag, y las cuestiones de guerra y paz requerian participacion parlamentaria.",
+      "it": "Il 28 ottobre 1918 entrarono in vigore riforme che trasformarono l'Impero tedesco in una monarchia parlamentare. Il cancelliere dipendeva ora dalla fiducia del Reichstag, e le questioni di guerra e pace richiedevano la partecipazione parlamentare.",
+      "pt": "Em 28 de outubro de 1918 entraram em vigor reformas que transformaram o Imperio Alemao em uma monarquia parlamentar. O chanceler passou a depender da confianca do Reichstag, e questoes de guerra e paz exigiam participacao parlamentar.",
+      "nl": "Op 28 oktober 1918 traden hervormingen in werking die het Duitse Keizerrijk veranderden in een parlementaire monarchie. De kanselier hing nu af van het vertrouwen van de Rijksdag, en vragen van oorlog en vrede vereisten parlementaire betrokkenheid.",
+      "pl": "28 pazdziernika 1918 roku weszly w zycie reformy, ktore przeksztalcily Cesarstwo Niemieckie w monarchie parlamentarna. Kanclerz zalezal teraz od zaufania Reichstagu, a sprawy wojny i pokoju wymagaly udzialu parlamentu.",
+      "tr": "28 Ekim 1918'de Alman Imparatorlugu'nu parlamenter monarsiye donusturen reformlar yururluge girdi. Sansolye artik Reichstag'in guvenine bagliydi; savas ve baris konulari parlamentonun katilimini gerektiriyordu.",
+      "zh": "1918年10月28日，使德意志帝国转变为议会君主制的改革生效。总理现在依赖帝国议会的信任，战争与和平问题也需要议会参与。",
+      "ja": "1918年10月28日、ドイツ帝国を議会君主制へ変える改革が施行されました。首相は帝国議会の信任に依存するようになり、戦争と平和の問題には議会の関与が必要になりました。",
+      "ko": "1918년 10월 28일 독일 제국을 의회 군주제로 바꾸는 개혁이 시행되었다. 총리는 이제 제국의회의 신임에 의존했고, 전쟁과 평화 문제에는 의회의 참여가 필요했다.",
+      "hi": "28 अक्टूबर 1918 को वे सुधार लागू हुए जिन्होंने जर्मन साम्राज्य को संसदीय राजतंत्र में बदल दिया। चांसलर अब राइखस्टाग के विश्वास पर निर्भर था, और युद्ध तथा शांति के प्रश्नों में संसद की भागीदारी जरूरी थी।",
+      "ar": "في 28 أكتوبر 1918 دخلت اصلاحات حيز التنفيذ وحولت الامبراطورية الالمانية الى ملكية برلمانية. اصبح المستشار يعتمد على ثقة الرايخستاغ، واصبحت قضايا الحرب والسلام تتطلب مشاركة البرلمان."
     },
     "importance": {
       "ru": "Это была очень поздняя попытка демократизировать империю, которая уже находилась на грани поражения и революции.",
       "de": "Es war ein sehr spaeter Versuch, das Kaiserreich zu demokratisieren, als es bereits am Rand von Niederlage und Revolution stand.",
-      "en": "It was a very late attempt to democratize the empire when it was already on the edge of defeat and revolution."
+      "en": "It was a very late attempt to democratize the empire when it was already on the edge of defeat and revolution.",
+      "fr": "Ce fut une tentative tres tardive de democratiser l'Empire, alors qu'il etait deja au bord de la defaite et de la revolution.",
+      "es": "Fue un intento muy tardio de democratizar el imperio cuando ya estaba al borde de la derrota y la revolucion.",
+      "it": "Fu un tentativo molto tardivo di democratizzare l'impero quando era gia sull'orlo della sconfitta e della rivoluzione.",
+      "pt": "Foi uma tentativa muito tardia de democratizar o imperio quando ele ja estava a beira da derrota e da revolucao.",
+      "nl": "Het was een zeer late poging om het keizerrijk te democratiseren, toen het al op de rand van nederlaag en revolutie stond.",
+      "pl": "Byla to bardzo spozniona proba demokratyzacji cesarstwa, ktore stalo juz na skraju porazki i rewolucji.",
+      "tr": "Bu, imparatorluk zaten yenilgi ve devrimin esigindeyken onu demokratiklestirmek icin cok gec kalmis bir girisimdi.",
+      "zh": "这是一次非常迟来的民主化尝试，当时帝国已经处在失败和革命的边缘。",
+      "ja": "それは、帝国がすでに敗北と革命の瀬戸際にあった時の、非常に遅い民主化の試みでした。",
+      "ko": "이는 제국이 이미 패배와 혁명의 문턱에 서 있었을 때 이루어진 매우 늦은 민주화 시도였다.",
+      "hi": "यह साम्राज्य को लोकतांत्रिक बनाने की बहुत देर से की गई कोशिश थी, जब वह पहले ही हार और क्रांति की कगार पर था।",
+      "ar": "كانت محاولة متأخرة جدا لدمقرطة الامبراطورية وهي تقف بالفعل على حافة الهزيمة والثورة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Короткая парламентская монархия",
           "de": "Eine kurze parlamentarische Monarchie",
-          "en": "A brief parliamentary monarchy"
+          "en": "A brief parliamentary monarchy",
+          "fr": "Une breve monarchie parlementaire",
+          "es": "Una breve monarquia parlamentaria",
+          "it": "Una breve monarchia parlamentare",
+          "pt": "Uma breve monarquia parlamentar",
+          "nl": "Een korte parlementaire monarchie",
+          "pl": "Krotka monarchia parlamentarna",
+          "tr": "Kisa bir parlamenter monarsi",
+          "zh": "短暂的议会君主制",
+          "ja": "短い議会君主制",
+          "ko": "짧은 의회 군주제",
+          "hi": "संक्षिप्त संसदीय राजतंत्र",
+          "ar": "ملكية برلمانية قصيرة"
         },
         "description": {
           "ru": "Формально Германия стала более парламентской, но монархия продержалась совсем недолго. Уже 9 ноября 1918 года была провозглашена республика.",
           "de": "Formal wurde Deutschland parlamentarischer, doch die Monarchie hielt nur noch sehr kurz. Bereits am 9. November 1918 wurde die Republik ausgerufen.",
-          "en": "Formally, Germany became more parliamentary, but the monarchy lasted only a very short time. On 9 November 1918, the republic was proclaimed."
+          "en": "Formally, Germany became more parliamentary, but the monarchy lasted only a very short time. On 9 November 1918, the republic was proclaimed.",
+          "fr": "Formellement, l'Allemagne devint plus parlementaire, mais la monarchie ne dura que tres peu de temps. Le 9 novembre 1918, la republique fut proclamee.",
+          "es": "Formalmente, Alemania se volvio mas parlamentaria, pero la monarquia duro muy poco tiempo. El 9 de noviembre de 1918 se proclamo la republica.",
+          "it": "Formalmente, la Germania divenne piu parlamentare, ma la monarchia duro pochissimo. Il 9 novembre 1918 fu proclamata la repubblica.",
+          "pt": "Formalmente, a Alemanha se tornou mais parlamentar, mas a monarquia durou muito pouco. Em 9 de novembro de 1918, a republica foi proclamada.",
+          "nl": "Formeel werd Duitsland parlementairder, maar de monarchie hield nog maar heel kort stand. Op 9 november 1918 werd de republiek uitgeroepen.",
+          "pl": "Formalnie Niemcy staly sie bardziej parlamentarne, ale monarchia przetrwala bardzo krotko. 9 listopada 1918 roku proklamowano republike.",
+          "tr": "Resmen Almanya daha parlamenter hale geldi, ancak monarsi cok kisa surdu. 9 Kasim 1918'de cumhuriyet ilan edildi.",
+          "zh": "从形式上看，德国变得更具议会性，但君主制只维持了很短时间。1918年11月9日，共和国宣告成立。",
+          "ja": "形式上、ドイツはより議会的になりましたが、君主制はごく短期間しか続きませんでした。1918年11月9日、共和国が宣言されました。",
+          "ko": "형식적으로 독일은 더 의회적인 나라가 되었지만 군주제는 아주 짧게만 지속되었다. 1918년 11월 9일 공화국이 선포되었다.",
+          "hi": "औपचारिक रूप से जर्मनी अधिक संसदीय बन गया, लेकिन राजतंत्र बहुत कम समय तक चला। 9 नवंबर 1918 को गणराज्य की घोषणा हुई।",
+          "ar": "رسميا اصبحت المانيا اكثر برلمانية، لكن الملكية لم تدم الا فترة قصيرة جدا. وفي 9 نوفمبر 1918 اعلنت الجمهورية."
         },
         "importance": {
           "ru": "Это показывает, что запоздалые реформы не всегда успевают остановить политический обвал.",
           "de": "Das zeigt, dass verspaetete Reformen einen politischen Zusammenbruch nicht immer aufhalten koennen.",
-          "en": "It shows that belated reforms cannot always stop a political collapse."
+          "en": "It shows that belated reforms cannot always stop a political collapse.",
+          "fr": "Cela montre que des reformes tardives ne peuvent pas toujours arreter un effondrement politique.",
+          "es": "Muestra que las reformas tardias no siempre pueden detener un colapso politico.",
+          "it": "Mostra che le riforme tardive non riescono sempre a fermare un crollo politico.",
+          "pt": "Mostra que reformas tardias nem sempre conseguem impedir um colapso politico.",
+          "nl": "Het laat zien dat te late hervormingen een politieke instorting niet altijd kunnen stoppen.",
+          "pl": "Pokazuje to, ze spoznione reformy nie zawsze potrafia zatrzymac polityczny upadek.",
+          "tr": "Bu, gecikmis reformlarin siyasi cokusu her zaman durduramayacagini gosterir.",
+          "zh": "这说明，迟来的改革并不总能阻止政治崩溃。",
+          "ja": "遅すぎた改革が政治的崩壊を常に止められるわけではないことを示しています。",
+          "ko": "이는 뒤늦은 개혁이 항상 정치적 붕괴를 막을 수는 없음을 보여 준다.",
+          "hi": "यह दिखाता है कि देर से किए गए सुधार हमेशा राजनीतिक पतन को रोक नहीं पाते।",
+          "ar": "يبين ذلك ان الاصلاحات المتأخرة لا تستطيع دائما وقف الانهيار السياسي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Конституция почти на две недели",
           "de": "Eine Verfassung fast nur fuer zwei Wochen",
-          "en": "A constitution for almost two weeks"
+          "en": "A constitution for almost two weeks",
+          "fr": "Une constitution pour presque deux semaines",
+          "es": "Una constitucion para casi dos semanas",
+          "it": "Una costituzione per quasi due settimane",
+          "pt": "Uma constituicao por quase duas semanas",
+          "nl": "Een grondwet voor bijna twee weken",
+          "pl": "Konstytucja na prawie dwa tygodnie",
+          "tr": "Neredeyse iki haftalik anayasa",
+          "zh": "几乎只维持两周的宪制",
+          "ja": "ほぼ2週間だけの憲法体制",
+          "ko": "거의 2주 동안의 헌정",
+          "hi": "लगभग दो सप्ताह की संवैधानिक व्यवस्था",
+          "ar": "دستور لما يقارب اسبوعين"
         },
         "description": {
           "ru": "Октябрьские реформы юридически были важны, но их быстро затмила Ноябрьская революция. Поэтому они часто остаются в тени более громких событий 9 ноября.",
           "de": "Die Oktoberreformen waren juristisch wichtig, wurden aber rasch von der Novemberrevolution ueberlagert. Deshalb stehen sie oft im Schatten der lauteren Ereignisse des 9. November.",
-          "en": "The October reforms were legally important, but they were quickly overshadowed by the November Revolution. That is why they often stand in the shadow of the more dramatic events of 9 November."
+          "en": "The October reforms were legally important, but they were quickly overshadowed by the November Revolution. That is why they often stand in the shadow of the more dramatic events of 9 November.",
+          "fr": "Les reformes d'octobre furent juridiquement importantes, mais elles furent vite eclipsees par la revolution de novembre. C'est pourquoi elles restent souvent dans l'ombre des evenements plus spectaculaires du 9 novembre.",
+          "es": "Las reformas de octubre fueron juridicamente importantes, pero pronto quedaron eclipsadas por la Revolucion de Noviembre. Por eso a menudo quedan a la sombra de los acontecimientos mas dramaticos del 9 de noviembre.",
+          "it": "Le riforme di ottobre furono giuridicamente importanti, ma furono presto oscurate dalla Rivoluzione di novembre. Per questo spesso restano all'ombra degli eventi piu clamorosi del 9 novembre.",
+          "pt": "As reformas de outubro foram juridicamente importantes, mas logo foram ofuscadas pela Revolucao de Novembro. Por isso muitas vezes ficam a sombra dos acontecimentos mais dramaticos de 9 de novembro.",
+          "nl": "De oktoberhervormingen waren juridisch belangrijk, maar werden snel overschaduwd door de Novemberrevolutie. Daarom staan ze vaak in de schaduw van de dramatischer gebeurtenissen van 9 november.",
+          "pl": "Reformy pazdziernikowe byly prawnie wazne, lecz szybko zostaly przycmione przez rewolucje listopadowa. Dlatego czesto pozostaja w cieniu glosniejszych wydarzen 9 listopada.",
+          "tr": "Ekim reformlari hukuken onemliydi, ancak kisa surede Kasim Devrimi'nin golgesinde kaldi. Bu yuzden genellikle 9 Kasim'in daha carpici olaylarinin golgesinde kalirlar.",
+          "zh": "十月改革在法律上很重要，但很快被十一月革命所掩盖。因此，它们常常处在11月9日更具戏剧性事件的阴影中。",
+          "ja": "十月改革は法的には重要でしたが、すぐに十一月革命に影を薄くされました。そのため、11月9日のより劇的な出来事の陰に隠れがちです。",
+          "ko": "10월 개혁은 법적으로 중요했지만 곧 11월 혁명에 가려졌다. 그래서 더 극적인 11월 9일의 사건들 그늘에 자주 놓인다.",
+          "hi": "अक्टूबर सुधार कानूनी रूप से महत्वपूर्ण थे, लेकिन नवंबर क्रांति ने उन्हें जल्दी ही ढक दिया। इसलिए वे अक्सर 9 नवंबर की अधिक नाटकीय घटनाओं की छाया में रह जाते हैं।",
+          "ar": "كانت اصلاحات أكتوبر مهمة قانونيا، لكنها سرعان ما غطت عليها ثورة نوفمبر. لذلك تبقى غالبا في ظل احداث 9 نوفمبر الاكثر درامية."
         },
         "importance": {
           "ru": "Интересно, что иногда очень важная правовая перемена живёт совсем недолго.",
           "de": "Interessant ist, dass eine sehr wichtige rechtliche Veraenderung manchmal nur sehr kurz lebt.",
-          "en": "It is interesting that a very important legal change can sometimes live for only a very short time."
+          "en": "It is interesting that a very important legal change can sometimes live for only a very short time.",
+          "fr": "Il est interessant qu'un changement juridique tres important puisse parfois ne vivre que tres peu de temps.",
+          "es": "Es interesante que un cambio juridico muy importante pueda durar a veces muy poco tiempo.",
+          "it": "E interessante che un cambiamento giuridico molto importante possa talvolta vivere solo pochissimo.",
+          "pt": "E interessante que uma mudanca juridica muito importante possa as vezes durar muito pouco tempo.",
+          "nl": "Het is interessant dat een zeer belangrijke juridische verandering soms maar heel kort kan bestaan.",
+          "pl": "To ciekawe, ze bardzo wazna zmiana prawna moze czasem trwac bardzo krotko.",
+          "tr": "Cok onemli bir hukuki degisikligin bazen cok kisa sure yasamasi ilginctir.",
+          "zh": "有趣的是，一个非常重要的法律变化有时只存在很短时间。",
+          "ja": "非常に重要な法的変化が、時にごく短い期間しか続かないことは興味深いことです。",
+          "ko": "매우 중요한 법적 변화가 때로는 아주 짧은 시간만 지속될 수 있다는 점이 흥미롭다.",
+          "hi": "यह रोचक है कि बहुत महत्वपूर्ण कानूनी बदलाव कभी-कभी बहुत कम समय तक ही टिकता है।",
+          "ar": "من المثير ان تغييرا قانونيا مهما جدا قد يعيش احيانا لفترة قصيرة جدا فقط."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Октябрьские реформы стали последней крупной конституционной переменой Германской империи перед её падением.",
     "de": "Die Oktoberreformen waren die letzte grosse Verfassungsaenderung des Deutschen Reiches vor seinem Ende.",
-    "en": "The October reforms were the last major constitutional change of the German Empire before its fall."
+    "en": "The October reforms were the last major constitutional change of the German Empire before its fall.",
+    "fr": "Les reformes d'octobre furent le dernier grand changement constitutionnel de l'Empire allemand avant sa chute.",
+    "es": "Las reformas de octubre fueron el ultimo gran cambio constitucional del Imperio aleman antes de su caida.",
+    "it": "Le riforme di ottobre furono l'ultima grande modifica costituzionale dell'Impero tedesco prima della sua caduta.",
+    "pt": "As reformas de outubro foram a ultima grande mudanca constitucional do Imperio Alemao antes de sua queda.",
+    "nl": "De oktoberhervormingen waren de laatste grote grondwetswijziging van het Duitse Keizerrijk voor zijn val.",
+    "pl": "Reformy pazdziernikowe byly ostatnia wielka zmiana konstytucyjna Cesarstwa Niemieckiego przed jego upadkiem.",
+    "tr": "Ekim reformlari, Alman Imparatorlugu'nun dususunden onceki son buyuk anayasal degisiklikti.",
+    "zh": "十月改革是德意志帝国灭亡前最后一次重大的宪法变化。",
+    "ja": "十月改革は、ドイツ帝国崩壊前の最後の大きな憲法改正でした。",
+    "ko": "10월 개혁은 독일 제국이 무너지기 전 마지막 주요 헌법 변화였다.",
+    "hi": "अक्टूबर सुधार जर्मन साम्राज्य के पतन से पहले उसका अंतिम बड़ा संवैधानिक परिवर्तन थे।",
+    "ar": "كانت اصلاحات أكتوبر آخر تغيير دستوري كبير في الامبراطورية الالمانية قبل سقوطها."
   },
   "sources": [
     {
