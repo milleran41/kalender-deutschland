@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Фридрих Шиллер",
       "de": "Friedrich Schiller wird geboren",
-      "en": "Friedrich Schiller is born"
+      "en": "Friedrich Schiller is born",
+      "fr": "Naissance de Friedrich Schiller",
+      "es": "Nace Friedrich Schiller",
+      "it": "Nasce Friedrich Schiller",
+      "pt": "Nasce Friedrich Schiller",
+      "nl": "Friedrich Schiller wordt geboren",
+      "pl": "Urodzil sie Friedrich Schiller",
+      "tr": "Friedrich Schiller dogdu",
+      "zh": "弗里德里希·席勒出生",
+      "ja": "フリードリヒ・シラーが生まれる",
+      "ko": "프리드리히 실러 출생",
+      "hi": "फ्रिडरिख शिलर का जन्म",
+      "ar": "ولادة فريدريش شيلر"
     },
     "description": {
       "ru": "10 ноября 1759 года в Марбахе-на-Неккаре родился Фридрих Шиллер. Он стал одним из главных немецких драматургов, поэтов и мыслителей.",
       "de": "Am 10. November 1759 wurde Friedrich Schiller in Marbach am Neckar geboren. Er wurde einer der wichtigsten deutschen Dramatiker, Dichter und Denker.",
-      "en": "On 10 November 1759, Friedrich Schiller was born in Marbach am Neckar. He became one of Germany's major dramatists, poets and thinkers."
+      "en": "On 10 November 1759, Friedrich Schiller was born in Marbach am Neckar. He became one of Germany's major dramatists, poets and thinkers.",
+      "fr": "Le 10 novembre 1759, Friedrich Schiller naquit a Marbach am Neckar. Il devint l'un des grands dramaturges, poetes et penseurs allemands.",
+      "es": "El 10 de noviembre de 1759 nacio Friedrich Schiller en Marbach am Neckar. Se convirtio en uno de los grandes dramaturgos, poetas y pensadores de Alemania.",
+      "it": "Il 10 novembre 1759 nacque Friedrich Schiller a Marbach am Neckar. Divenne uno dei maggiori drammaturghi, poeti e pensatori tedeschi.",
+      "pt": "Em 10 de novembro de 1759, Friedrich Schiller nasceu em Marbach am Neckar. Ele se tornou um dos grandes dramaturgos, poetas e pensadores da Alemanha.",
+      "nl": "Op 10 november 1759 werd Friedrich Schiller geboren in Marbach am Neckar. Hij werd een van Duitslands grote toneelschrijvers, dichters en denkers.",
+      "pl": "10 listopada 1759 roku w Marbach am Neckar urodzil sie Friedrich Schiller. Stal sie jednym z najwazniejszych niemieckich dramaturgow, poetow i myslicieli.",
+      "tr": "10 Kasim 1759'da Friedrich Schiller Marbach am Neckar'da dogdu. Almanya'nin buyuk oyun yazarlari, sairleri ve dusunurlerinden biri oldu.",
+      "zh": "1759年11月10日，弗里德里希·席勒出生于内卡河畔马尔巴赫。他成为德国重要的剧作家、诗人和思想家之一。",
+      "ja": "1759年11月10日、フリードリヒ・シラーはマールバッハ・アム・ネッカーで生まれました。彼はドイツを代表する劇作家、詩人、思想家の一人となりました。",
+      "ko": "1759년 11월 10일 프리드리히 실러가 마르바흐 암 네카어에서 태어났다. 그는 독일의 주요 극작가, 시인, 사상가 중 한 명이 되었다.",
+      "hi": "10 नवंबर 1759 को फ्रिडरिख शिलर का जन्म मारबाख आम नेकार में हुआ। वे जर्मनी के प्रमुख नाटककारों, कवियों और विचारकों में से एक बने।",
+      "ar": "في 10 نوفمبر 1759 ولد فريدريش شيلر في مارباخ ام نيكار. واصبح احد كبار كتاب المسرح والشعراء والمفكرين الالمان."
     },
     "importance": {
       "ru": "Шиллер вместе с Гёте связан с Веймарской классикой и немецкой литературой мирового уровня.",
       "de": "Schiller ist zusammen mit Goethe mit der Weimarer Klassik und deutscher Weltliteratur verbunden.",
-      "en": "Together with Goethe, Schiller is linked with Weimar Classicism and German world literature."
+      "en": "Together with Goethe, Schiller is linked with Weimar Classicism and German world literature.",
+      "fr": "Avec Goethe, Schiller est associe au classicisme de Weimar et a la litterature allemande de portee mondiale.",
+      "es": "Junto con Goethe, Schiller esta ligado al clasicismo de Weimar y a la literatura alemana de alcance mundial.",
+      "it": "Insieme a Goethe, Schiller e legato al classicismo di Weimar e alla letteratura tedesca mondiale.",
+      "pt": "Junto com Goethe, Schiller esta ligado ao classicismo de Weimar e a literatura alema de alcance mundial.",
+      "nl": "Samen met Goethe is Schiller verbonden met de Weimarer Klassik en Duitse wereldliteratuur.",
+      "pl": "Wraz z Goethem Schiller zwiazany jest z klasycyzmem weimarskim i niemiecka literatura swiatowa.",
+      "tr": "Schiller, Goethe ile birlikte Weimar Klasisizmi ve Alman dunya edebiyatiyla baglantilidir.",
+      "zh": "席勒与歌德一起，同魏玛古典主义和世界级德国文学联系在一起。",
+      "ja": "シラーはゲーテとともに、ワイマール古典主義とドイツの世界文学に結びついています。",
+      "ko": "실러는 괴테와 함께 바이마르 고전주의와 독일 세계문학과 연결된다.",
+      "hi": "गोएथे के साथ शिलर वाइमर क्लासिसिज़्म और विश्वस्तरीय जर्मन साहित्य से जुड़े हैं।",
+      "ar": "يرتبط شيلر مع غوته بكلاسيكية فايمار وبالادب الالماني ذي المكانة العالمية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Родился Мартин Лютер",
           "de": "Martin Luther wird geboren",
-          "en": "Martin Luther is born"
+          "en": "Martin Luther is born",
+          "fr": "Naissance de Martin Luther",
+          "es": "Nace Martin Lutero",
+          "it": "Nasce Martin Lutero",
+          "pt": "Nasce Martinho Lutero",
+          "nl": "Maarten Luther wordt geboren",
+          "pl": "Urodzil sie Marcin Luter",
+          "tr": "Martin Luther dogdu",
+          "zh": "马丁·路德出生",
+          "ja": "マルティン・ルターが生まれる",
+          "ko": "마르틴 루터 출생",
+          "hi": "मार्टिन लूथर का जन्म",
+          "ar": "ولادة مارتن لوثر"
         },
         "description": {
           "ru": "10 ноября 1483 года в Айслебене родился Мартин Лютер. Позднее он стал одной из ключевых фигур Реформации и изменил религиозную карту Германии.",
           "de": "Am 10. November 1483 wurde Martin Luther in Eisleben geboren. Spaeter wurde er zu einer Schluesselfigur der Reformation und veraenderte die religioese Landkarte Deutschlands.",
-          "en": "On 10 November 1483, Martin Luther was born in Eisleben. He later became a key figure of the Reformation and changed Germany's religious map."
+          "en": "On 10 November 1483, Martin Luther was born in Eisleben. He later became a key figure of the Reformation and changed Germany's religious map.",
+          "fr": "Le 10 novembre 1483, Martin Luther naquit a Eisleben. Il devint plus tard une figure cle de la Reforme et changea la carte religieuse de l'Allemagne.",
+          "es": "El 10 de noviembre de 1483 nacio Martin Lutero en Eisleben. Mas tarde se convirtio en una figura clave de la Reforma y cambio el mapa religioso de Alemania.",
+          "it": "Il 10 novembre 1483 nacque Martin Lutero a Eisleben. In seguito divenne una figura chiave della Riforma e cambio la carta religiosa della Germania.",
+          "pt": "Em 10 de novembro de 1483, Martinho Lutero nasceu em Eisleben. Mais tarde tornou-se uma figura-chave da Reforma e mudou o mapa religioso da Alemanha.",
+          "nl": "Op 10 november 1483 werd Maarten Luther geboren in Eisleben. Later werd hij een sleutelfiguur van de Reformatie en veranderde hij de religieuze kaart van Duitsland.",
+          "pl": "10 listopada 1483 roku w Eisleben urodzil sie Marcin Luter. Pozniej stal sie kluczowa postacia reformacji i zmienil religijna mape Niemiec.",
+          "tr": "10 Kasim 1483'te Martin Luther Eisleben'de dogdu. Daha sonra Reform'un kilit isimlerinden biri oldu ve Almanya'nin dini haritasini degistirdi.",
+          "zh": "1483年11月10日，马丁·路德出生于艾斯莱本。后来他成为宗教改革的关键人物，并改变了德国的宗教地图。",
+          "ja": "1483年11月10日、マルティン・ルターはアイスレーベンで生まれました。彼は後に宗教改革の重要人物となり、ドイツの宗教地図を変えました。",
+          "ko": "1483년 11월 10일 마르틴 루터가 아이슬레벤에서 태어났다. 그는 나중에 종교개혁의 핵심 인물이 되어 독일의 종교 지도를 바꾸었다.",
+          "hi": "10 नवंबर 1483 को मार्टिन लूथर का जन्म आइज़लेबेन में हुआ। बाद में वे धर्मसुधार की प्रमुख हस्ती बने और जर्मनी का धार्मिक नक्शा बदल दिया।",
+          "ar": "في 10 نوفمبر 1483 ولد مارتن لوثر في ايسليبن. واصبح لاحقا شخصية محورية في الاصلاح الديني وغير الخريطة الدينية لالمانيا."
         },
         "importance": {
           "ru": "Лютер связан не только с церковной историей, но и с развитием немецкого языка и образования.",
           "de": "Luther ist nicht nur mit Kirchengeschichte verbunden, sondern auch mit der Entwicklung der deutschen Sprache und Bildung.",
-          "en": "Luther is linked not only with church history, but also with the development of the German language and education."
+          "en": "Luther is linked not only with church history, but also with the development of the German language and education.",
+          "fr": "Luther est lie non seulement a l'histoire de l'Eglise, mais aussi au developpement de la langue allemande et de l'education.",
+          "es": "Lutero esta ligado no solo a la historia de la Iglesia, sino tambien al desarrollo de la lengua alemana y la educacion.",
+          "it": "Lutero e legato non solo alla storia della Chiesa, ma anche allo sviluppo della lingua tedesca e dell'istruzione.",
+          "pt": "Lutero esta ligado nao apenas a historia da Igreja, mas tambem ao desenvolvimento da lingua alema e da educacao.",
+          "nl": "Luther is niet alleen verbonden met kerkgeschiedenis, maar ook met de ontwikkeling van de Duitse taal en het onderwijs.",
+          "pl": "Luter zwiazany jest nie tylko z historia Kosciola, lecz takze z rozwojem jezyka niemieckiego i edukacji.",
+          "tr": "Luther yalnizca kilise tarihiyle degil, Alman dilinin ve egitiminin gelisimiyle de baglantilidir.",
+          "zh": "路德不仅与教会史有关，也与德语和教育的发展有关。",
+          "ja": "ルターは教会史だけでなく、ドイツ語と教育の発展にも結びついています。",
+          "ko": "루터는 교회사뿐 아니라 독일어와 교육의 발전과도 연결된다.",
+          "hi": "लूथर केवल चर्च इतिहास से नहीं, बल्कि जर्मन भाषा और शिक्षा के विकास से भी जुड़े हैं।",
+          "ar": "لا يرتبط لوثر بتاريخ الكنيسة فقط، بل ايضا بتطور اللغة الالمانية والتعليم."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Драмы о свободе и достоинстве",
           "de": "Dramen ueber Freiheit und Wuerde",
-          "en": "Dramas about freedom and dignity"
+          "en": "Dramas about freedom and dignity",
+          "fr": "Drames sur la liberte et la dignite",
+          "es": "Dramas sobre libertad y dignidad",
+          "it": "Drammi sulla liberta e la dignita",
+          "pt": "Dramas sobre liberdade e dignidade",
+          "nl": "Drama's over vrijheid en waardigheid",
+          "pl": "Dramaty o wolnosci i godnosci",
+          "tr": "Ozgurluk ve onur uzerine dramlar",
+          "zh": "关于自由和尊严的戏剧",
+          "ja": "自由と尊厳をめぐる戯曲",
+          "ko": "자유와 존엄에 관한 희곡",
+          "hi": "स्वतंत्रता और गरिमा पर नाटक",
+          "ar": "مسرحيات عن الحرية والكرامة"
         },
         "description": {
           "ru": "Шиллер писал о свободе, власти, нравственном выборе и человеческом достоинстве. Его пьесы долго оставались важной частью немецкой школы и театра.",
           "de": "Schiller schrieb ueber Freiheit, Macht, moralische Entscheidung und Menschenwuerde. Seine Stuecke blieben lange ein wichtiger Teil von Schule und Theater.",
-          "en": "Schiller wrote about freedom, power, moral choice and human dignity. His plays long remained an important part of German schools and theatre."
+          "en": "Schiller wrote about freedom, power, moral choice and human dignity. His plays long remained an important part of German schools and theatre.",
+          "fr": "Schiller ecrivit sur la liberte, le pouvoir, le choix moral et la dignite humaine. Ses pieces resterent longtemps une partie importante de l'ecole et du theatre allemands.",
+          "es": "Schiller escribio sobre libertad, poder, eleccion moral y dignidad humana. Sus obras fueron durante mucho tiempo parte importante de la escuela y el teatro alemanes.",
+          "it": "Schiller scrisse di liberta, potere, scelta morale e dignita umana. Le sue opere rimasero a lungo una parte importante della scuola e del teatro tedeschi.",
+          "pt": "Schiller escreveu sobre liberdade, poder, escolha moral e dignidade humana. Suas pecas permaneceram por muito tempo parte importante da escola e do teatro alemaes.",
+          "nl": "Schiller schreef over vrijheid, macht, morele keuze en menselijke waardigheid. Zijn stukken bleven lang een belangrijk deel van Duitse scholen en theater.",
+          "pl": "Schiller pisal o wolnosci, wladzy, wyborze moralnym i ludzkiej godnosci. Jego sztuki dlugo pozostawaly wazna czescia niemieckiej szkoly i teatru.",
+          "tr": "Schiller ozgurluk, iktidar, ahlaki secim ve insan onuru hakkinda yazdi. Oyunlari uzun sure Alman okullarinin ve tiyatrosunun onemli bir parcasi oldu.",
+          "zh": "席勒书写自由、权力、道德选择和人的尊严。他的剧作长期是德国学校和戏剧的重要组成部分。",
+          "ja": "シラーは自由、権力、道徳的選択、人間の尊厳について書きました。彼の戯曲は長くドイツの学校と劇場の重要な一部であり続けました。",
+          "ko": "실러는 자유, 권력, 도덕적 선택, 인간의 존엄에 대해 썼다. 그의 희곡은 오랫동안 독일 학교와 극장의 중요한 부분으로 남았다.",
+          "hi": "शिलर ने स्वतंत्रता, सत्ता, नैतिक चुनाव और मानवीय गरिमा पर लिखा। उनके नाटक लंबे समय तक जर्मन स्कूलों और रंगमंच का महत्वपूर्ण हिस्सा रहे।",
+          "ar": "كتب شيلر عن الحرية والسلطة والاختيار الاخلاقي والكرامة الانسانية. وبقيت مسرحياته طويلا جزءا مهما من المدرسة والمسرح الالمانيين."
         },
         "importance": {
           "ru": "Через Шиллера литература становится способом говорить о политике и морали.",
           "de": "Durch Schiller wird Literatur zu einer Art, ueber Politik und Moral zu sprechen.",
-          "en": "Through Schiller, literature becomes a way to speak about politics and morality."
+          "en": "Through Schiller, literature becomes a way to speak about politics and morality.",
+          "fr": "Avec Schiller, la litterature devient une maniere de parler de politique et de morale.",
+          "es": "A traves de Schiller, la literatura se convierte en una forma de hablar de politica y moral.",
+          "it": "Attraverso Schiller, la letteratura diventa un modo per parlare di politica e morale.",
+          "pt": "Por meio de Schiller, a literatura se torna uma forma de falar sobre politica e moral.",
+          "nl": "Door Schiller wordt literatuur een manier om over politiek en moraal te spreken.",
+          "pl": "Dzieki Schillerowi literatura staje sie sposobem mowienia o polityce i moralnosci.",
+          "tr": "Schiller araciligiyla edebiyat, siyaset ve ahlak hakkinda konusmanin bir yoluna donusur.",
+          "zh": "通过席勒，文学成为谈论政治和道德的一种方式。",
+          "ja": "シラーを通じて、文学は政治と道徳について語る方法になります。",
+          "ko": "실러를 통해 문학은 정치와 도덕을 말하는 방식이 된다.",
+          "hi": "शिलर के माध्यम से साहित्य राजनीति और नैतिकता पर बात करने का तरीका बनता है।",
+          "ar": "من خلال شيلر تصبح الادب وسيلة للحديث عن السياسة والاخلاق."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Текст «Оды к радости» Шиллера позднее стал основой финала Девятой симфонии Бетховена.",
     "de": "Schillers Ode an die Freude wurde spaeter zur Grundlage des Finales von Beethovens Neunter Symphonie.",
-    "en": "Schiller's Ode to Joy later became the basis for the finale of Beethoven's Ninth Symphony."
+    "en": "Schiller's Ode to Joy later became the basis for the finale of Beethoven's Ninth Symphony.",
+    "fr": "L'Ode a la joie de Schiller devint plus tard la base du final de la Neuvieme Symphonie de Beethoven.",
+    "es": "La Oda a la alegria de Schiller se convirtio mas tarde en la base del final de la Novena Sinfonia de Beethoven.",
+    "it": "L'Inno alla gioia di Schiller divenne poi la base del finale della Nona Sinfonia di Beethoven.",
+    "pt": "A Ode a Alegria de Schiller tornou-se depois a base do final da Nona Sinfonia de Beethoven.",
+    "nl": "Schillers Ode aan de vreugde werd later de basis voor de finale van Beethovens Negende Symfonie.",
+    "pl": "Oda do radosci Schillera stala sie pozniej podstawa finalu IX Symfonii Beethovena.",
+    "tr": "Schiller'in Neseye Ovgusu daha sonra Beethoven'in Dokuzuncu Senfonisi'nin finaline temel oldu.",
+    "zh": "席勒的《欢乐颂》后来成为贝多芬第九交响曲终乐章的基础。",
+    "ja": "シラーの『歓喜に寄す』は、後にベートーヴェンの第九交響曲終楽章の基礎となりました。",
+    "ko": "실러의 환희의 송가는 나중에 베토벤 교향곡 9번 마지막 악장의 바탕이 되었다.",
+    "hi": "शिलर की 'ओड टू जॉय' बाद में बीथोवेन की नौवीं सिम्फनी के अंतिम भाग का आधार बनी।",
+    "ar": "اصبحت قصيدة شيلر نشيد الفرح لاحقا اساس ختام السيمفونية التاسعة لبيتهوفن."
   },
   "sources": [
     {

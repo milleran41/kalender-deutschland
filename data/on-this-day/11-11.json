@@ -11,17 +11,53 @@
     "title": {
       "ru": "Перемирие завершило боевые действия Первой мировой войны",
       "de": "Der Waffenstillstand beendet die Kampfhandlungen des Ersten Weltkriegs",
-      "en": "The armistice ends the fighting of the First World War"
+      "en": "The armistice ends the fighting of the First World War",
+      "fr": "L'armistice met fin aux combats de la Premiere Guerre mondiale",
+      "es": "El armisticio pone fin a los combates de la Primera Guerra Mundial",
+      "it": "L'armistizio pone fine ai combattimenti della Prima guerra mondiale",
+      "pt": "O armisticio encerra os combates da Primeira Guerra Mundial",
+      "nl": "De wapenstilstand beeindigt de gevechten van de Eerste Wereldoorlog",
+      "pl": "Rozejm konczy walki I wojny swiatowej",
+      "tr": "Ateskes Birinci Dunya Savasi'nin catismalarini bitirdi",
+      "zh": "停战结束第一次世界大战战斗",
+      "ja": "休戦が第一次世界大戦の戦闘を終わらせる",
+      "ko": "휴전이 제1차 세계대전의 전투를 끝내다",
+      "hi": "युद्धविराम ने प्रथम विश्व युद्ध की लड़ाई समाप्त की",
+      "ar": "الهدنة تنهي قتال الحرب العالمية الاولى"
     },
     "description": {
       "ru": "11 ноября 1918 года вступило в силу перемирие между Германией и странами Антанты. На Западном фронте закончились боевые действия Первой мировой войны.",
       "de": "Am 11. November 1918 trat der Waffenstillstand zwischen Deutschland und den Alliierten in Kraft. An der Westfront endeten die Kampfhandlungen des Ersten Weltkriegs.",
-      "en": "On 11 November 1918, the armistice between Germany and the Allies took effect. Fighting on the Western Front of the First World War ended."
+      "en": "On 11 November 1918, the armistice between Germany and the Allies took effect. Fighting on the Western Front of the First World War ended.",
+      "fr": "Le 11 novembre 1918, l'armistice entre l'Allemagne et les Allies entra en vigueur. Les combats sur le front occidental de la Premiere Guerre mondiale prirent fin.",
+      "es": "El 11 de noviembre de 1918 entro en vigor el armisticio entre Alemania y los Aliados. Terminaron los combates en el Frente Occidental de la Primera Guerra Mundial.",
+      "it": "L'11 novembre 1918 entro in vigore l'armistizio tra Germania e Alleati. I combattimenti sul fronte occidentale della Prima guerra mondiale terminarono.",
+      "pt": "Em 11 de novembro de 1918, entrou em vigor o armisticio entre a Alemanha e os Aliados. Os combates na Frente Ocidental da Primeira Guerra Mundial terminaram.",
+      "nl": "Op 11 november 1918 trad de wapenstilstand tussen Duitsland en de geallieerden in werking. De gevechten aan het westfront van de Eerste Wereldoorlog eindigden.",
+      "pl": "11 listopada 1918 roku wszedl w zycie rozejm miedzy Niemcami a aliantami. Walki na froncie zachodnim I wojny swiatowej zakonczyly sie.",
+      "tr": "11 Kasim 1918'de Almanya ile Muttefikler arasindaki ateskes yururluge girdi. Birinci Dunya Savasi'nin Bati Cephesi'ndeki catismalar sona erdi.",
+      "zh": "1918年11月11日，德国与协约国之间的停战生效。第一次世界大战西线的战斗结束。",
+      "ja": "1918年11月11日、ドイツと連合国の間の休戦が発効しました。第一次世界大戦の西部戦線での戦闘は終わりました。",
+      "ko": "1918년 11월 11일 독일과 연합국 사이의 휴전이 발효되었다. 제1차 세계대전 서부전선의 전투가 끝났다.",
+      "hi": "11 नवंबर 1918 को जर्मनी और मित्र राष्ट्रों के बीच युद्धविराम लागू हुआ। प्रथम विश्व युद्ध के पश्चिमी मोर्चे पर लड़ाई समाप्त हुई।",
+      "ar": "في 11 نوفمبر 1918 دخلت الهدنة بين المانيا والحلفاء حيز التنفيذ. وانتهى القتال على الجبهة الغربية في الحرب العالمية الاولى."
     },
     "importance": {
       "ru": "Для Германии это стало началом тяжёлого послевоенного периода и политических конфликтов Веймарской республики.",
       "de": "Fuer Deutschland begann damit eine schwierige Nachkriegszeit mit politischen Konflikten in der Weimarer Republik.",
-      "en": "For Germany, it began a difficult postwar period and the political conflicts of the Weimar Republic."
+      "en": "For Germany, it began a difficult postwar period and the political conflicts of the Weimar Republic.",
+      "fr": "Pour l'Allemagne, cela ouvrit une periode d'apres-guerre difficile et les conflits politiques de la republique de Weimar.",
+      "es": "Para Alemania, comenzo un dificil periodo de posguerra y los conflictos politicos de la Republica de Weimar.",
+      "it": "Per la Germania, comincio un difficile periodo del dopoguerra e i conflitti politici della Repubblica di Weimar.",
+      "pt": "Para a Alemanha, comecou um dificil periodo de pos-guerra e os conflitos politicos da Republica de Weimar.",
+      "nl": "Voor Duitsland begon daarmee een moeilijke naoorlogse periode en de politieke conflicten van de Weimarrepubliek.",
+      "pl": "Dla Niemiec rozpoczal sie trudny okres powojenny i konflikty polityczne Republiki Weimarskiej.",
+      "tr": "Almanya icin bu, zorlu bir savas sonrasi donemi ve Weimar Cumhuriyeti'nin siyasi catismalarini baslatti.",
+      "zh": "对德国来说，这开启了艰难的战后时期和魏玛共和国的政治冲突。",
+      "ja": "ドイツにとって、それは困難な戦後期とワイマール共和国の政治対立の始まりでした。",
+      "ko": "독일에는 어려운 전후 시기와 바이마르 공화국의 정치적 갈등이 시작되었다.",
+      "hi": "जर्मनी के लिए इससे कठिन युद्धोत्तर काल और वाइमर गणराज्य के राजनीतिक संघर्ष शुरू हुए।",
+      "ar": "بالنسبة لالمانيا بدأ بذلك زمن صعب بعد الحرب وصراعات سياسية في جمهورية فايمار."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Перемирие подписали в Компьенском лесу",
           "de": "Unterzeichnung im Wald von Compiegne",
-          "en": "Signed in the Forest of Compiegne"
+          "en": "Signed in the Forest of Compiegne",
+          "fr": "Signe dans la foret de Compiegne",
+          "es": "Firmado en el bosque de Compiegne",
+          "it": "Firmato nella foresta di Compiegne",
+          "pt": "Assinado na floresta de Compiegne",
+          "nl": "Ondertekend in het bos van Compiegne",
+          "pl": "Podpisany w lesie Compiegne",
+          "tr": "Compiegne Ormani'nda imzalandi",
+          "zh": "在贡比涅森林签署",
+          "ja": "コンピエーニュの森で署名",
+          "ko": "콩피에뉴 숲에서 서명되다",
+          "hi": "कोंपिएन के जंगल में हस्ताक्षरित",
+          "ar": "توقيعها في غابة كومبيين"
         },
         "description": {
           "ru": "Документ подписали в железнодорожном вагоне во Франции. Позднее это место стало сильным символом памяти и реванша.",
           "de": "Das Dokument wurde in einem Eisenbahnwagen in Frankreich unterzeichnet. Spaeter wurde dieser Ort zu einem starken Symbol von Erinnerung und Revanche.",
-          "en": "The document was signed in a railway carriage in France. The place later became a powerful symbol of memory and revenge."
+          "en": "The document was signed in a railway carriage in France. The place later became a powerful symbol of memory and revenge.",
+          "fr": "Le document fut signe dans un wagon ferroviaire en France. Le lieu devint plus tard un puissant symbole de memoire et de revanche.",
+          "es": "El documento se firmo en un vagon de ferrocarril en Francia. El lugar se convirtio despues en un poderoso simbolo de memoria y revancha.",
+          "it": "Il documento fu firmato in un vagone ferroviario in Francia. Il luogo divenne poi un potente simbolo di memoria e rivincita.",
+          "pt": "O documento foi assinado em um vagao ferroviario na Franca. O lugar depois se tornou um forte simbolo de memoria e revanche.",
+          "nl": "Het document werd ondertekend in een spoorwegwagon in Frankrijk. De plaats werd later een krachtig symbool van herinnering en wraak.",
+          "pl": "Dokument podpisano w wagonie kolejowym we Francji. Miejsce to stalo sie pozniej silnym symbolem pamieci i rewanzu.",
+          "tr": "Belge Fransa'da bir tren vagonunda imzalandi. Bu yer daha sonra hafiza ve intikam duygusunun guclu bir sembolu oldu.",
+          "zh": "文件在法国的一节铁路车厢中签署。这个地点后来成为记忆和复仇的强烈象征。",
+          "ja": "文書はフランスの鉄道車両の中で署名されました。その場所は後に記憶と復讐の強い象徴となりました。",
+          "ko": "문서는 프랑스의 철도 객차 안에서 서명되었다. 그 장소는 나중에 기억과 복수의 강력한 상징이 되었다.",
+          "hi": "दस्तावेज पर फ्रांस में एक रेल डिब्बे में हस्ताक्षर हुए। बाद में यह स्थान स्मृति और प्रतिशोध का शक्तिशाली प्रतीक बन गया।",
+          "ar": "وُقعت الوثيقة في عربة قطار في فرنسا. واصبح المكان لاحقا رمزا قويا للذاكرة والانتقام."
         },
         "importance": {
           "ru": "История этого места показывает, как символы могут влиять на политику.",
           "de": "Die Geschichte dieses Ortes zeigt, wie Symbole Politik beeinflussen koennen.",
-          "en": "The history of the place shows how symbols can influence politics."
+          "en": "The history of the place shows how symbols can influence politics.",
+          "fr": "L'histoire de ce lieu montre comment les symboles peuvent influencer la politique.",
+          "es": "La historia de este lugar muestra como los simbolos pueden influir en la politica.",
+          "it": "La storia di questo luogo mostra come i simboli possano influenzare la politica.",
+          "pt": "A historia desse lugar mostra como simbolos podem influenciar a politica.",
+          "nl": "De geschiedenis van deze plaats laat zien hoe symbolen de politiek kunnen beinvloeden.",
+          "pl": "Historia tego miejsca pokazuje, jak symbole moga wplywac na polityke.",
+          "tr": "Bu yerin tarihi, sembollerin siyaseti nasil etkileyebilecegini gosterir.",
+          "zh": "这个地点的历史显示象征如何影响政治。",
+          "ja": "この場所の歴史は、象徴が政治にどのように影響しうるかを示しています。",
+          "ko": "이 장소의 역사는 상징이 정치에 어떻게 영향을 줄 수 있는지 보여 준다.",
+          "hi": "इस स्थान का इतिहास दिखाता है कि प्रतीक राजनीति को कैसे प्रभावित कर सकते हैं।",
+          "ar": "يبين تاريخ هذا المكان كيف يمكن للرموز ان تؤثر في السياسة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В нескольких странах 11 ноября стало днём памяти погибших в войнах; в Германии эта дата связана ещё и с началом карнавального сезона.",
     "de": "In mehreren Laendern ist der 11. November ein Gedenktag fuer Kriegstote; in Deutschland ist er zugleich mit dem Beginn der Karnevalssaison verbunden.",
-    "en": "In several countries, 11 November is a remembrance day for war dead; in Germany it is also linked with the start of carnival season."
+    "en": "In several countries, 11 November is a remembrance day for war dead; in Germany it is also linked with the start of carnival season.",
+    "fr": "Dans plusieurs pays, le 11 novembre est un jour de memoire pour les morts des guerres; en Allemagne, il est aussi lie au debut de la saison du carnaval.",
+    "es": "En varios paises, el 11 de noviembre es un dia de recuerdo de los muertos de guerra; en Alemania tambien esta ligado al comienzo de la temporada de carnaval.",
+    "it": "In diversi paesi, l'11 novembre e un giorno di memoria per i caduti in guerra; in Germania e anche legato all'inizio della stagione del carnevale.",
+    "pt": "Em varios paises, 11 de novembro e dia de memoria dos mortos em guerras; na Alemanha tambem esta ligado ao inicio da temporada de carnaval.",
+    "nl": "In meerdere landen is 11 november een herdenkingsdag voor oorlogsdoden; in Duitsland is de datum ook verbonden met het begin van het carnavalsseizoen.",
+    "pl": "W kilku krajach 11 listopada jest dniem pamieci poleglych w wojnach; w Niemczech data ta laczy sie takze z poczatkiem sezonu karnawalowego.",
+    "tr": "Bircok ulkede 11 Kasim savaslarda olenleri anma gunudur; Almanya'da bu tarih ayni zamanda karnaval sezonunun baslangiciyla da baglantilidir.",
+    "zh": "在一些国家，11月11日是纪念战争死难者的日子；在德国，这一天还与狂欢节季节的开始有关。",
+    "ja": "いくつかの国では11月11日は戦没者追悼の日です。ドイツでは、この日付はカーニバルシーズンの始まりとも結びついています。",
+    "ko": "여러 나라에서 11월 11일은 전쟁 희생자를 추모하는 날이다. 독일에서는 이 날짜가 카니발 시즌의 시작과도 연결된다.",
+    "hi": "कई देशों में 11 नवंबर युद्ध में मारे गए लोगों की स्मृति का दिन है; जर्मनी में यह तारीख कार्निवल सीज़न की शुरुआत से भी जुड़ी है।",
+    "ar": "في عدة دول يعد 11 نوفمبر يوم ذكرى لضحايا الحروب؛ وفي المانيا يرتبط هذا التاريخ ايضا ببداية موسم الكرنفال."
   },
   "sources": [
     {

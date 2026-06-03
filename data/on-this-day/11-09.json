@@ -11,17 +11,53 @@
     "title": {
       "ru": "Пала Берлинская стена",
       "de": "Die Berliner Mauer faellt",
-      "en": "The Berlin Wall falls"
+      "en": "The Berlin Wall falls",
+      "fr": "Le mur de Berlin tombe",
+      "es": "Cae el Muro de Berlin",
+      "it": "Cade il Muro di Berlino",
+      "pt": "Cai o Muro de Berlim",
+      "nl": "De Berlijnse Muur valt",
+      "pl": "Upada Mur Berlinski",
+      "tr": "Berlin Duvari yikildi",
+      "zh": "柏林墙倒塌",
+      "ja": "ベルリンの壁が崩壊",
+      "ko": "베를린 장벽이 무너지다",
+      "hi": "बर्लिन की दीवार गिरी",
+      "ar": "سقوط جدار برلين"
     },
     "description": {
       "ru": "9 ноября 1989 года власти ГДР неожиданно объявили новые правила выезда. В тот же вечер тысячи людей пришли к пограничным переходам, и стена фактически открылась.",
       "de": "Am 9. November 1989 verkuendete die DDR-Fuehrung unerwartet neue Reiseregeln. Noch am selben Abend stroemten Tausende zu den Grenzuebergaengen, und die Mauer oeffnete sich faktisch.",
-      "en": "On 9 November 1989, East German authorities unexpectedly announced new travel rules. That evening, thousands went to the border crossings, and the Wall effectively opened."
+      "en": "On 9 November 1989, East German authorities unexpectedly announced new travel rules. That evening, thousands went to the border crossings, and the Wall effectively opened.",
+      "fr": "Le 9 novembre 1989, les autorites est-allemandes annoncerent de facon inattendue de nouvelles regles de voyage. Le soir meme, des milliers de personnes se rendirent aux postes-frontieres, et le Mur s'ouvrit de fait.",
+      "es": "El 9 de noviembre de 1989, las autoridades de Alemania Oriental anunciaron inesperadamente nuevas reglas de viaje. Esa misma noche, miles de personas fueron a los pasos fronterizos y el Muro se abrio de hecho.",
+      "it": "Il 9 novembre 1989, le autorita della Germania Est annunciarono in modo inatteso nuove regole di viaggio. Quella sera, migliaia di persone andarono ai valichi di frontiera e il Muro si apri di fatto.",
+      "pt": "Em 9 de novembro de 1989, as autoridades da Alemanha Oriental anunciaram inesperadamente novas regras de viagem. Naquela noite, milhares foram aos postos de fronteira, e o Muro se abriu de fato.",
+      "nl": "Op 9 november 1989 kondigden de Oost-Duitse autoriteiten onverwacht nieuwe reisregels aan. Die avond gingen duizenden mensen naar de grensovergangen, en de Muur ging feitelijk open.",
+      "pl": "9 listopada 1989 roku wladze NRD niespodziewanie oglosily nowe przepisy wyjazdowe. Tego wieczoru tysiace ludzi ruszyly do przejsc granicznych, a Mur faktycznie sie otworzyl.",
+      "tr": "9 Kasim 1989'da Dogu Alman yetkililer beklenmedik sekilde yeni seyahat kurallarini duyurdu. Ayni aksam binlerce insan sinir gecitlerine gitti ve Duvar fiilen acildi.",
+      "zh": "1989年11月9日，东德当局意外宣布新的出境规定。当晚，成千上万人前往边境口岸，柏林墙实际上打开了。",
+      "ja": "1989年11月9日、東ドイツ当局は予想外に新しい旅行規則を発表しました。その夜、何千人もの人々が国境検問所へ向かい、壁は事実上開かれました。",
+      "ko": "1989년 11월 9일 동독 당국은 예기치 않게 새로운 여행 규정을 발표했다. 그날 저녁 수천 명이 국경 검문소로 갔고 장벽은 사실상 열렸다.",
+      "hi": "9 नवंबर 1989 को पूर्वी जर्मन अधिकारियों ने अचानक नए यात्रा नियमों की घोषणा की। उसी शाम हजारों लोग सीमा चौकियों पर पहुंचे और दीवार वास्तव में खुल गई।",
+      "ar": "في 9 نوفمبر 1989 اعلنت سلطات المانيا الشرقية بشكل مفاجئ قواعد سفر جديدة. وفي ذلك المساء توجه الالاف الى المعابر الحدودية، وفتح الجدار فعليا."
     },
     "importance": {
       "ru": "Это событие стало символом конца разделённой Германии и ускорило воссоединение.",
       "de": "Das Ereignis wurde zum Symbol fuer das Ende der deutschen Teilung und beschleunigte die Wiedervereinigung.",
-      "en": "The event became the symbol of the end of German division and accelerated reunification."
+      "en": "The event became the symbol of the end of German division and accelerated reunification.",
+      "fr": "L'evenement devint le symbole de la fin de la division allemande et accelera la reunification.",
+      "es": "El acontecimiento se convirtio en simbolo del fin de la division alemana y acelero la reunificacion.",
+      "it": "L'evento divenne il simbolo della fine della divisione tedesca e accelero la riunificazione.",
+      "pt": "O acontecimento tornou-se simbolo do fim da divisao alema e acelerou a reunificacao.",
+      "nl": "De gebeurtenis werd het symbool van het einde van de Duitse deling en versnelde de hereniging.",
+      "pl": "Wydarzenie stalo sie symbolem konca podzialu Niemiec i przyspieszylo zjednoczenie.",
+      "tr": "Bu olay, Almanya'nin bolunmuslugunun sonunun sembolu oldu ve yeniden birlesmeyi hizlandirdi.",
+      "zh": "这一事件成为德国分裂结束的象征，并加速了统一。",
+      "ja": "この出来事はドイツ分断の終わりの象徴となり、再統一を加速させました。",
+      "ko": "이 사건은 독일 분단의 끝을 상징하게 되었고 재통일을 앞당겼다.",
+      "hi": "यह घटना जर्मन विभाजन के अंत का प्रतीक बनी और पुनर्एकीकरण को तेज कर गई।",
+      "ar": "اصبح الحدث رمزا لنهاية تقسيم المانيا وسرّع اعادة التوحيد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Провозглашена республика",
           "de": "Die Republik wird ausgerufen",
-          "en": "The republic is proclaimed"
+          "en": "The republic is proclaimed",
+          "fr": "La republique est proclamee",
+          "es": "Se proclama la republica",
+          "it": "Viene proclamata la repubblica",
+          "pt": "A republica e proclamada",
+          "nl": "De republiek wordt uitgeroepen",
+          "pl": "Proklamowano republike",
+          "tr": "Cumhuriyet ilan edildi",
+          "zh": "共和国宣告成立",
+          "ja": "共和国が宣言される",
+          "ko": "공화국이 선포되다",
+          "hi": "गणराज्य घोषित हुआ",
+          "ar": "اعلان الجمهورية"
         },
         "description": {
           "ru": "9 ноября 1918 года Филипп Шейдеман провозгласил республику в Берлине. Германская империя рухнула после поражения в Первой мировой войне.",
           "de": "Am 9. November 1918 rief Philipp Scheidemann in Berlin die Republik aus. Das Kaiserreich brach nach der Niederlage im Ersten Weltkrieg zusammen.",
-          "en": "On 9 November 1918, Philipp Scheidemann proclaimed the republic in Berlin. The German Empire collapsed after defeat in the First World War."
+          "en": "On 9 November 1918, Philipp Scheidemann proclaimed the republic in Berlin. The German Empire collapsed after defeat in the First World War.",
+          "fr": "Le 9 novembre 1918, Philipp Scheidemann proclama la republique a Berlin. L'Empire allemand s'effondra apres la defaite de la Premiere Guerre mondiale.",
+          "es": "El 9 de noviembre de 1918, Philipp Scheidemann proclamo la republica en Berlin. El Imperio aleman se derrumbo tras la derrota en la Primera Guerra Mundial.",
+          "it": "Il 9 novembre 1918, Philipp Scheidemann proclamo la repubblica a Berlino. L'Impero tedesco crollo dopo la sconfitta nella Prima guerra mondiale.",
+          "pt": "Em 9 de novembro de 1918, Philipp Scheidemann proclamou a republica em Berlim. O Imperio Alemao desabou apos a derrota na Primeira Guerra Mundial.",
+          "nl": "Op 9 november 1918 riep Philipp Scheidemann in Berlijn de republiek uit. Het Duitse Keizerrijk stortte in na de nederlaag in de Eerste Wereldoorlog.",
+          "pl": "9 listopada 1918 roku Philipp Scheidemann proklamowal republike w Berlinie. Cesarstwo Niemieckie upadlo po porazce w I wojnie swiatowej.",
+          "tr": "9 Kasim 1918'de Philipp Scheidemann Berlin'de cumhuriyeti ilan etti. Alman Imparatorlugu Birinci Dunya Savasi'ndaki yenilgiden sonra coktu.",
+          "zh": "1918年11月9日，菲利普·谢德曼在柏林宣告共和国成立。德意志帝国在第一次世界大战战败后崩溃。",
+          "ja": "1918年11月9日、フィリップ・シャイデマンはベルリンで共和国を宣言しました。ドイツ帝国は第一次世界大戦の敗北後に崩壊しました。",
+          "ko": "1918년 11월 9일 필리프 샤이데만은 베를린에서 공화국을 선포했다. 독일 제국은 제1차 세계대전 패배 뒤 무너졌다.",
+          "hi": "9 नवंबर 1918 को फिलिप शाइडेमान ने बर्लिन में गणराज्य की घोषणा की। प्रथम विश्व युद्ध की हार के बाद जर्मन साम्राज्य टूट गया।",
+          "ar": "في 9 نوفمبر 1918 اعلن فيليب شايدمان الجمهورية في برلين. وانهارت الامبراطورية الالمانية بعد الهزيمة في الحرب العالمية الاولى."
         },
         "importance": {
           "ru": "Это начало Веймарской республики, первого демократического государства Германии.",
           "de": "Das war der Beginn der Weimarer Republik, des ersten demokratischen Staates Deutschlands.",
-          "en": "It marked the beginning of the Weimar Republic, Germany's first democratic state."
+          "en": "It marked the beginning of the Weimar Republic, Germany's first democratic state.",
+          "fr": "Cela marqua le debut de la republique de Weimar, le premier Etat democratique allemand.",
+          "es": "Marco el comienzo de la Republica de Weimar, el primer estado democratico de Alemania.",
+          "it": "Segno l'inizio della Repubblica di Weimar, il primo stato democratico della Germania.",
+          "pt": "Marcou o inicio da Republica de Weimar, o primeiro estado democratico da Alemanha.",
+          "nl": "Het markeerde het begin van de Weimarrepubliek, de eerste democratische staat van Duitsland.",
+          "pl": "Oznaczalo to poczatek Republiki Weimarskiej, pierwszego demokratycznego panstwa Niemiec.",
+          "tr": "Bu, Almanya'nin ilk demokratik devleti olan Weimar Cumhuriyeti'nin baslangiciydi.",
+          "zh": "这标志着魏玛共和国的开始，也就是德国第一个民主国家的开始。",
+          "ja": "これは、ドイツ初の民主国家であるワイマール共和国の始まりを示しました。",
+          "ko": "이는 독일 최초의 민주 국가인 바이마르 공화국의 시작을 알렸다.",
+          "hi": "यह वाइमर गणराज्य की शुरुआत थी, जो जर्मनी का पहला लोकतांत्रिक राज्य था।",
+          "ar": "كان ذلك بداية جمهورية فايمار، اول دولة ديمقراطية في المانيا."
         }
       },
       {
@@ -51,17 +123,53 @@
         "title": {
           "ru": "Ноябрьские погромы",
           "de": "Novemberpogrome",
-          "en": "November pogroms"
+          "en": "November pogroms",
+          "fr": "Pogroms de novembre",
+          "es": "Pogromos de noviembre",
+          "it": "Pogrom di novembre",
+          "pt": "Pogroms de novembro",
+          "nl": "Novemberpogroms",
+          "pl": "Pogromy listopadowe",
+          "tr": "Kasim pogromlari",
+          "zh": "十一月大屠杀",
+          "ja": "十一月ポグロム",
+          "ko": "11월 포그롬",
+          "hi": "नवंबर पोग्रोम",
+          "ar": "مذابح نوفمبر"
         },
         "description": {
           "ru": "В ночь с 9 на 10 ноября 1938 года по всей Германии и Австрии нацисты организовали насилие против евреев, синагог, домов и магазинов. Это стало резким шагом к открытой массовой политике преследования.",
           "de": "In der Nacht vom 9. auf den 10. November 1938 organisierten die Nationalsozialisten Gewalt gegen Juden, Synagogen, Wohnungen und Geschaefte in Deutschland und Oesterreich. Das war ein massiver Schritt zur offenen Verfolgungspolitik.",
-          "en": "On the night of 9-10 November 1938, the Nazis organized violence against Jews, synagogues, homes and businesses across Germany and Austria. It was a major step toward open mass persecution."
+          "en": "On the night of 9-10 November 1938, the Nazis organized violence against Jews, synagogues, homes and businesses across Germany and Austria. It was a major step toward open mass persecution.",
+          "fr": "Dans la nuit du 9 au 10 novembre 1938, les nazis organiserent des violences contre les Juifs, les synagogues, les logements et les commerces en Allemagne et en Autriche. Ce fut une etape majeure vers la persecution de masse ouverte.",
+          "es": "En la noche del 9 al 10 de noviembre de 1938, los nazis organizaron violencia contra judios, sinagogas, viviendas y negocios en Alemania y Austria. Fue un paso importante hacia la persecucion masiva abierta.",
+          "it": "Nella notte tra il 9 e il 10 novembre 1938, i nazisti organizzarono violenze contro ebrei, sinagoghe, case e negozi in Germania e Austria. Fu un passo importante verso la persecuzione di massa aperta.",
+          "pt": "Na noite de 9 para 10 de novembro de 1938, os nazistas organizaram violencia contra judeus, sinagogas, casas e negocios na Alemanha e na Austria. Foi um grande passo rumo a perseguicao em massa aberta.",
+          "nl": "In de nacht van 9 op 10 november 1938 organiseerden de nazi's geweld tegen Joden, synagogen, woningen en winkels in Duitsland en Oostenrijk. Het was een grote stap naar open massavervolging.",
+          "pl": "W nocy z 9 na 10 listopada 1938 roku nazisci zorganizowali przemoc wobec Zydow, synagog, domow i sklepow w Niemczech i Austrii. Byl to wazny krok ku otwartym masowym przesladowaniom.",
+          "tr": "9-10 Kasim 1938 gecesi Naziler Almanya ve Avusturya genelinde Yahudilere, sinagoglara, evlere ve isyerlerine yonelik siddet orgutledi. Bu, acik kitlesel zulme dogru buyuk bir adimdi.",
+          "zh": "1938年11月9日至10日夜间，纳粹在德国和奥地利各地组织针对犹太人、犹太会堂、住宅和商店的暴力。这是走向公开大规模迫害的重要一步。",
+          "ja": "1938年11月9日から10日にかけての夜、ナチスはドイツとオーストリア全土でユダヤ人、シナゴーグ、住宅、商店に対する暴力を組織しました。それは公然たる大規模迫害への大きな一歩でした。",
+          "ko": "1938년 11월 9일에서 10일 밤, 나치는 독일과 오스트리아 전역에서 유대인, 회당, 주택, 상점에 대한 폭력을 조직했다. 이는 공개적인 대규모 박해로 가는 중대한 단계였다.",
+          "hi": "9-10 नवंबर 1938 की रात नाज़ियों ने जर्मनी और ऑस्ट्रिया में यहूदियों, सभागृहों, घरों और दुकानों के खिलाफ हिंसा आयोजित की। यह खुले सामूहिक उत्पीड़न की ओर बड़ा कदम था।",
+          "ar": "في ليلة 9-10 نوفمبر 1938 نظم النازيون اعمال عنف ضد اليهود والمعابد والمنازل والمتاجر في المانيا والنمسا. وكان ذلك خطوة كبيرة نحو اضطهاد جماعي علني."
         },
         "importance": {
           "ru": "9 ноября поэтому одновременно несёт память о свободе и о преступлениях.",
           "de": "Darum steht der 9. November zugleich fuer Freiheit und fuer Verbrechen.",
-          "en": "For this reason, 9 November carries memories of both freedom and crime."
+          "en": "For this reason, 9 November carries memories of both freedom and crime.",
+          "fr": "C'est pourquoi le 9 novembre porte a la fois la memoire de la liberte et celle des crimes.",
+          "es": "Por eso el 9 de noviembre lleva recuerdos tanto de libertad como de crimenes.",
+          "it": "Per questo il 9 novembre porta insieme memoria di liberta e di crimini.",
+          "pt": "Por isso, 9 de novembro carrega memorias tanto de liberdade quanto de crimes.",
+          "nl": "Daarom draagt 9 november herinneringen aan zowel vrijheid als misdaad.",
+          "pl": "Dlatego 9 listopada niesie pamiec zarowno o wolnosci, jak i o zbrodniach.",
+          "tr": "Bu nedenle 9 Kasim hem ozgurluk hem de suclarin hatirasini tasir.",
+          "zh": "因此，11月9日同时承载着自由和罪行的记忆。",
+          "ja": "そのため11月9日は、自由と犯罪の記憶を同時に背負っています。",
+          "ko": "이 때문에 11월 9일은 자유와 범죄의 기억을 함께 담고 있다.",
+          "hi": "इसी कारण 9 नवंबर स्वतंत्रता और अपराध, दोनों की स्मृति लेकर आता है।",
+          "ar": "لذلك يحمل 9 نوفمبر ذكرى الحرية وذكرى الجرائم في الوقت نفسه."
         }
       }
     ],
@@ -72,17 +180,53 @@
         "title": {
           "ru": "Одна неясная фраза изменила вечер",
           "de": "Ein unklarer Satz veraendert den Abend",
-          "en": "One unclear phrase changes the evening"
+          "en": "One unclear phrase changes the evening",
+          "fr": "Une phrase floue change la soiree",
+          "es": "Una frase poco clara cambia la noche",
+          "it": "Una frase poco chiara cambia la serata",
+          "pt": "Uma frase pouco clara muda a noite",
+          "nl": "Een onduidelijke zin verandert de avond",
+          "pl": "Jedno niejasne zdanie zmienia wieczor",
+          "tr": "Belirsiz bir cumle aksami degistirdi",
+          "zh": "一句不清楚的话改变了那个夜晚",
+          "ja": "一つの曖昧な言葉が夜を変える",
+          "ko": "불분명한 한 문장이 그날 저녁을 바꾸다",
+          "hi": "एक अस्पष्ट वाक्य ने शाम बदल दी",
+          "ar": "عبارة غامضة واحدة تغير المساء"
         },
         "description": {
           "ru": "На пресс-конференции Гюнтер Шабовски неуверенно сказал, что новые правила выезда действуют «немедленно». Люди восприняли это буквально и пошли к стене.",
           "de": "Auf einer Pressekonferenz sagte Guenter Schabowski unsicher, die neuen Reiseregeln galten ab sofort. Viele Menschen nahmen das woertlich und gingen zur Mauer.",
-          "en": "At a press conference, Guenter Schabowski uncertainly said the new travel rules applied immediately. Many people took him literally and went to the Wall."
+          "en": "At a press conference, Guenter Schabowski uncertainly said the new travel rules applied immediately. Many people took him literally and went to the Wall.",
+          "fr": "Lors d'une conference de presse, Guenter Schabowski dit avec hesitation que les nouvelles regles de voyage s'appliquaient immediatement. Beaucoup de gens le prirent au mot et allerent vers le Mur.",
+          "es": "En una rueda de prensa, Guenter Schabowski dijo con inseguridad que las nuevas reglas de viaje se aplicaban de inmediato. Muchas personas lo tomaron al pie de la letra y fueron al Muro.",
+          "it": "In una conferenza stampa, Guenter Schabowski disse con incertezza che le nuove regole di viaggio valevano subito. Molte persone lo presero alla lettera e andarono al Muro.",
+          "pt": "Em uma coletiva de imprensa, Guenter Schabowski disse de forma incerta que as novas regras de viagem valiam imediatamente. Muitas pessoas entenderam literalmente e foram ao Muro.",
+          "nl": "Tijdens een persconferentie zei Guenter Schabowski onzeker dat de nieuwe reisregels onmiddellijk golden. Veel mensen namen hem letterlijk en gingen naar de Muur.",
+          "pl": "Na konferencji prasowej Guenter Schabowski niepewnie powiedzial, ze nowe przepisy wyjazdowe obowiazuja natychmiast. Wielu ludzi potraktowalo to doslownie i poszlo pod Mur.",
+          "tr": "Bir basin toplantisinda Guenter Schabowski kararsizca yeni seyahat kurallarinin hemen gecerli oldugunu soyledi. Bircok insan bunu kelimesi kelimesine anladi ve Duvar'a gitti.",
+          "zh": "在一次新闻发布会上，君特·沙博夫斯基不确定地说，新旅行规定立即生效。许多人按字面理解，走向柏林墙。",
+          "ja": "記者会見でギュンター・シャボフスキーは、新しい旅行規則が「直ちに」適用されると不確かに述べました。多くの人々はそれを文字通り受け取り、壁へ向かいました。",
+          "ko": "기자회견에서 귄터 샤보프스키는 새로운 여행 규정이 즉시 적용된다고 불확실하게 말했다. 많은 사람들은 이를 문자 그대로 받아들이고 장벽으로 갔다.",
+          "hi": "एक प्रेस कॉन्फ्रेंस में ग्युंटर शाबोव्स्की ने अनिश्चित ढंग से कहा कि नए यात्रा नियम तुरंत लागू हैं। कई लोगों ने इसे शब्दशः समझा और दीवार की ओर चले गए।",
+          "ar": "في مؤتمر صحفي قال غونتر شابوفسكي بتردد ان قواعد السفر الجديدة تسري فورا. اخذ كثيرون كلامه حرفيا وتوجهوا الى الجدار."
         },
         "importance": {
           "ru": "Это редкий случай, когда бюрократическая путаница помогла открыть границу.",
           "de": "Das ist ein seltener Fall, in dem buerokratische Verwirrung half, eine Grenze zu oeffnen.",
-          "en": "It is a rare case in which bureaucratic confusion helped open a border."
+          "en": "It is a rare case in which bureaucratic confusion helped open a border.",
+          "fr": "C'est un cas rare ou une confusion bureaucratique a aide a ouvrir une frontiere.",
+          "es": "Es un caso raro en el que la confusion burocratica ayudo a abrir una frontera.",
+          "it": "E un caso raro in cui la confusione burocratica aiuto ad aprire una frontiera.",
+          "pt": "E um caso raro em que a confusao burocratica ajudou a abrir uma fronteira.",
+          "nl": "Het is een zeldzaam geval waarin bureaucratische verwarring hielp een grens te openen.",
+          "pl": "To rzadki przypadek, w ktorym biurokratyczne zamieszanie pomoglo otworzyc granice.",
+          "tr": "Bu, burokratik karisikligin bir sinirin acilmasina yardim ettigi nadir bir durumdur.",
+          "zh": "这是官僚混乱帮助打开边境的少见例子。",
+          "ja": "これは、官僚的な混乱が国境を開く助けとなった珍しい例です。",
+          "ko": "이는 관료적 혼란이 국경 개방을 도운 드문 사례이다.",
+          "hi": "यह दुर्लभ मामला है जिसमें नौकरशाही की उलझन ने सीमा खोलने में मदद की।",
+          "ar": "انها حالة نادرة ساعد فيها الارتباك البيروقراطي على فتح حدود."
         }
       }
     ]
@@ -90,7 +234,19 @@
   "fact": {
     "ru": "9 ноября называют немецким «днём судьбы»: на эту дату пришлись события 1918, 1938 и 1989 годов.",
     "de": "Der 9. November gilt als deutscher Schicksalstag: Auf dieses Datum fallen Ereignisse von 1918, 1938 und 1989.",
-    "en": "9 November is often called Germany's day of fate because major events occurred on this date in 1918, 1938 and 1989."
+    "en": "9 November is often called Germany's day of fate because major events occurred on this date in 1918, 1938 and 1989.",
+    "fr": "Le 9 novembre est souvent appele le jour du destin allemand, car des evenements majeurs y eurent lieu en 1918, 1938 et 1989.",
+    "es": "El 9 de noviembre suele llamarse dia del destino aleman, porque en esa fecha ocurrieron grandes acontecimientos en 1918, 1938 y 1989.",
+    "it": "Il 9 novembre e spesso chiamato giorno del destino tedesco, perche in questa data avvennero eventi importanti nel 1918, 1938 e 1989.",
+    "pt": "9 de novembro e muitas vezes chamado dia do destino alemao, porque grandes acontecimentos ocorreram nessa data em 1918, 1938 e 1989.",
+    "nl": "9 november wordt vaak Duitslands dag van het lot genoemd, omdat op die datum grote gebeurtenissen plaatsvonden in 1918, 1938 en 1989.",
+    "pl": "9 listopada bywa nazywany niemieckim dniem losu, bo tego dnia wydarzyly sie wazne wydarzenia w latach 1918, 1938 i 1989.",
+    "tr": "9 Kasim, 1918, 1938 ve 1989'da buyuk olaylar bu tarihte yasandigi icin Almanya'nin kader gunu olarak anilir.",
+    "zh": "11月9日常被称为德国的“命运之日”，因为1918年、1938年和1989年的重大事件都发生在这一天。",
+    "ja": "11月9日は、1918年、1938年、1989年に大きな出来事が起きたため、ドイツの「運命の日」と呼ばれることがあります。",
+    "ko": "11월 9일은 1918년, 1938년, 1989년에 중요한 사건들이 일어난 날이어서 독일의 운명의 날이라고 불리기도 한다.",
+    "hi": "9 नवंबर को अक्सर जर्मनी का 'भाग्य दिवस' कहा जाता है, क्योंकि 1918, 1938 और 1989 की बड़ी घटनाएं इसी तारीख को हुईं।",
+    "ar": "غالبا ما يسمى 9 نوفمبر يوم القدر الالماني، لان احداثا كبرى وقعت في هذا التاريخ اعوام 1918 و1938 و1989."
   },
   "sources": [
     {
