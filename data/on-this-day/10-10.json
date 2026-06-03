@@ -11,17 +11,53 @@
     "title": {
       "ru": "Массовая мирная демонстрация в Бонне",
       "de": "Grosse Friedensdemonstration in Bonn",
-      "en": "Major peace demonstration in Bonn"
+      "en": "Major peace demonstration in Bonn",
+      "fr": "Grande manifestation pour la paix à Bonn",
+      "es": "Gran manifestacion por la paz en Bonn",
+      "it": "Grande manifestazione per la pace a Bonn",
+      "pt": "Grande manifestacao pela paz em Bonn",
+      "nl": "Grote vredesdemonstratie in Bonn",
+      "pl": "Wielka demonstracja pokojowa w Bonn",
+      "tr": "Bonn'da buyuk baris gosterisi",
+      "zh": "波恩大型和平示威",
+      "ja": "ボンで大規模な平和デモ",
+      "ko": "본에서 대규모 평화 시위",
+      "hi": "बॉन में बड़ा शांति प्रदर्शन",
+      "ar": "مظاهرة سلام كبيرة في بون"
     },
     "description": {
       "ru": "10 октября 1981 года сотни тысяч людей собрались в Боннском Хофгартене против размещения новых ядерных ракет в Европе. Это была одна из крупнейших демонстраций в истории ФРГ.",
       "de": "Am 10. Oktober 1981 versammelten sich Hunderttausende Menschen im Bonner Hofgarten gegen die Stationierung neuer Atomraketen in Europa. Es war eine der groessten Demonstrationen in der Geschichte der Bundesrepublik.",
-      "en": "On 10 October 1981, hundreds of thousands gathered in Bonn's Hofgarten to protest the stationing of new nuclear missiles in Europe. It was one of the largest demonstrations in West German history."
+      "en": "On 10 October 1981, hundreds of thousands gathered in Bonn's Hofgarten to protest the stationing of new nuclear missiles in Europe. It was one of the largest demonstrations in West German history.",
+      "fr": "Le 10 octobre 1981, des centaines de milliers de personnes se rassemblerent au Hofgarten de Bonn contre le deploiement de nouveaux missiles nucleaires en Europe. Ce fut l'une des plus grandes manifestations de l'histoire de la RFA.",
+      "es": "El 10 de octubre de 1981, cientos de miles de personas se reunieron en el Hofgarten de Bonn contra el despliegue de nuevos misiles nucleares en Europa. Fue una de las mayores manifestaciones de la historia de la RFA.",
+      "it": "Il 10 ottobre 1981 centinaia di migliaia di persone si radunarono nell'Hofgarten di Bonn contro lo schieramento di nuovi missili nucleari in Europa. Fu una delle piu grandi manifestazioni della storia della Germania Ovest.",
+      "pt": "Em 10 de outubro de 1981, centenas de milhares de pessoas se reuniram no Hofgarten de Bonn contra a instalacao de novos misseis nucleares na Europa. Foi uma das maiores manifestacoes da historia da Alemanha Ocidental.",
+      "nl": "Op 10 oktober 1981 verzamelden honderdduizenden mensen zich in de Hofgarten in Bonn tegen de plaatsing van nieuwe kernraketten in Europa. Het was een van de grootste demonstraties in de geschiedenis van de Bondsrepubliek.",
+      "pl": "10 pazdziernika 1981 roku setki tysiecy ludzi zgromadzily sie w bonnskim Hofgartenie przeciw rozmieszczeniu nowych rakiet jadrowych w Europie. Byla to jedna z najwiekszych demonstracji w historii RFN.",
+      "tr": "10 Ekim 1981'de yuz binlerce kisi, Avrupa'ya yeni nukleer fuzelerin yerlestirilmesini protesto etmek icin Bonn Hofgarten'da toplandi. Bu, Bati Almanya tarihinin en buyuk gosterilerinden biriydi.",
+      "zh": "1981年10月10日，数十万人聚集在波恩霍夫花园，抗议在欧洲部署新的核导弹。这是西德历史上规模最大的示威之一。",
+      "ja": "1981年10月10日、数十万人がボンのホーフガルテンに集まり、欧州への新たな核ミサイル配備に抗議しました。これは西ドイツ史上最大級のデモの一つでした。",
+      "ko": "1981년 10월 10일, 수십만 명이 유럽의 새로운 핵미사일 배치에 반대해 본의 호프가르텐에 모였다. 이는 서독 역사상 가장 큰 시위 중 하나였다.",
+      "hi": "10 अक्टूबर 1981 को यूरोप में नई परमाणु मिसाइलों की तैनाती के विरोध में सैकड़ों हजार लोग बॉन के होफगार्टन में इकट्ठा हुए। यह पश्चिम जर्मन इतिहास के सबसे बड़े प्रदर्शनों में से एक था।",
+      "ar": "في 10 اكتوبر 1981 تجمع مئات الالاف في هوفغارتن بون احتجاجا على نشر صواريخ نووية جديدة في اوروبا. وكانت واحدة من اكبر المظاهرات في تاريخ المانيا الغربية."
     },
     "importance": {
       "ru": "Дата показывает силу гражданского общества ФРГ в эпоху холодной войны и страх перед ядерным конфликтом.",
       "de": "Das Datum zeigt die Kraft der Zivilgesellschaft in der Bundesrepublik waehrend des Kalten Krieges und die Angst vor einem Atomkonflikt.",
-      "en": "The date shows the strength of West German civil society during the Cold War and the fear of nuclear conflict."
+      "en": "The date shows the strength of West German civil society during the Cold War and the fear of nuclear conflict.",
+      "fr": "Cette date montre la force de la societe civile ouest-allemande pendant la guerre froide et la peur d'un conflit nucleaire.",
+      "es": "La fecha muestra la fuerza de la sociedad civil de Alemania Occidental durante la Guerra Fria y el miedo a un conflicto nuclear.",
+      "it": "La data mostra la forza della societa civile della Germania Ovest durante la Guerra fredda e la paura di un conflitto nucleare.",
+      "pt": "A data mostra a forca da sociedade civil da Alemanha Ocidental durante a Guerra Fria e o medo de um conflito nuclear.",
+      "nl": "De datum laat de kracht zien van de West-Duitse burgermaatschappij tijdens de Koude Oorlog en de angst voor een kernconflict.",
+      "pl": "Ta data pokazuje sile spoleczenstwa obywatelskiego RFN w czasach zimnej wojny i strach przed konfliktem jadrowym.",
+      "tr": "Bu tarih, Soguk Savas doneminde Bati Alman sivil toplumunun gucunu ve nukleer catisma korkusunu gosterir.",
+      "zh": "这一日期显示了冷战时期西德公民社会的力量以及对核冲突的恐惧。",
+      "ja": "この日は、冷戦期の西ドイツ市民社会の力と核戦争への恐れを示しています。",
+      "ko": "이 날짜는 냉전기 서독 시민사회의 힘과 핵 충돌에 대한 두려움을 보여준다.",
+      "hi": "यह तारीख शीत युद्ध के दौर में पश्चिम जर्मन नागरिक समाज की ताकत और परमाणु संघर्ष के डर को दिखाती है।",
+      "ar": "يبين هذا التاريخ قوة المجتمع المدني في المانيا الغربية خلال الحرب الباردة والخوف من صراع نووي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Спор о двойном решении НАТО",
           "de": "Streit um den NATO-Doppelbeschluss",
-          "en": "Debate over NATO's Double-Track Decision"
+          "en": "Debate over NATO's Double-Track Decision",
+          "fr": "Debat sur la double decision de l'OTAN",
+          "es": "Debate sobre la doble decision de la OTAN",
+          "it": "Dibattito sulla doppia decisione della NATO",
+          "pt": "Debate sobre a Dupla Decisao da OTAN",
+          "nl": "Debat over het NAVO-dubbelbesluit",
+          "pl": "Spor o podwojna decyzje NATO",
+          "tr": "NATO Cifte Yol Karari tartismasi",
+          "zh": "关于北约“双轨决定”的争论",
+          "ja": "NATO二重決定をめぐる議論",
+          "ko": "NATO 이중 결정 논쟁",
+          "hi": "नाटो के डबल-ट्रैक निर्णय पर बहस",
+          "ar": "جدل حول قرار الناتو المزدوج"
         },
         "description": {
           "ru": "Поводом был план НАТО разместить новые ракеты, если переговоры с СССР не приведут к сокращению вооружений. Для многих жителей ФРГ Германия снова казалась возможным полем ядерного противостояния.",
           "de": "Anlass war der Plan der NATO, neue Raketen zu stationieren, falls Verhandlungen mit der Sowjetunion keine Abruestung braechten. Fuer viele Menschen in der Bundesrepublik wirkte Deutschland erneut wie ein moegliches Feld nuklearer Konfrontation.",
-          "en": "The trigger was NATO's plan to deploy new missiles if negotiations with the Soviet Union did not lead to arms reductions. For many West Germans, Germany again seemed a possible battlefield of nuclear confrontation."
+          "en": "The trigger was NATO's plan to deploy new missiles if negotiations with the Soviet Union did not lead to arms reductions. For many West Germans, Germany again seemed a possible battlefield of nuclear confrontation.",
+          "fr": "Le declencheur etait le plan de l'OTAN visant à deployer de nouveaux missiles si les negociations avec l'Union sovietique ne menaient pas à une reduction des armements. Pour beaucoup d'Allemands de l'Ouest, l'Allemagne semblait redevenir un possible champ de confrontation nucleaire.",
+          "es": "El detonante fue el plan de la OTAN de desplegar nuevos misiles si las negociaciones con la Union Sovietica no llevaban a reducciones de armamento. Para muchos alemanes occidentales, Alemania volvia a parecer un posible campo de confrontacion nuclear.",
+          "it": "Il motivo fu il piano della NATO di schierare nuovi missili se i negoziati con l'Unione Sovietica non avessero portato a riduzioni degli armamenti. Per molti tedeschi occidentali, la Germania sembrava di nuovo un possibile campo di confronto nucleare.",
+          "pt": "O motivo foi o plano da OTAN de instalar novos misseis se as negociacoes com a Uniao Sovietica nao levassem a reducoes de armamentos. Para muitos alemaes ocidentais, a Alemanha parecia novamente um possivel campo de confronto nuclear.",
+          "nl": "Aanleiding was het plan van de NAVO om nieuwe raketten te plaatsen als onderhandelingen met de Sovjet-Unie niet tot ontwapening zouden leiden. Voor veel West-Duitsers leek Duitsland opnieuw een mogelijk slagveld van nucleaire confrontatie.",
+          "pl": "Powodem byl plan NATO rozmieszczenia nowych rakiet, jesli rozmowy ze Zwiazkiem Radzieckim nie doprowadza do redukcji zbrojen. Dla wielu mieszkancow RFN Niemcy znow wydawaly sie mozliwym polem konfrontacji jadrowej.",
+          "tr": "Neden, Sovyetler Birligi ile gorusmeler silah indirimine yol acmazsa NATO'nun yeni fuzeler yerlestirme planiydi. Birçok Bati Alman icin Almanya yeniden nukleer karsilasmanin olasi savas alani gibi gorunuyordu.",
+          "zh": "导火索是北约计划：如果与苏联的谈判未能减少军备，就部署新的导弹。对许多西德人来说，德国似乎再次可能成为核对抗的战场。",
+          "ja": "きっかけは、ソ連との交渉が軍備削減につながらなければ新たなミサイルを配備するというNATOの計画でした。多くの西ドイツ人にとって、ドイツは再び核対立の戦場になり得るように見えました。",
+          "ko": "계기는 소련과의 협상이 군축으로 이어지지 않을 경우 새로운 미사일을 배치하겠다는 NATO의 계획이었다. 많은 서독인에게 독일은 다시 핵 대결의 전장이 될 수 있는 곳처럼 보였다.",
+          "hi": "कारण नाटो की वह योजना थी कि यदि सोवियत संघ के साथ बातचीत से हथियारों में कमी न हो, तो नई मिसाइलें तैनात की जाएं। कई पश्चिम जर्मनों को जर्मनी फिर से परमाणु टकराव का संभावित मैदान लगने लगा।",
+          "ar": "كان السبب خطة الناتو لنشر صواريخ جديدة اذا لم تؤد المفاوضات مع الاتحاد السوفيتي الى خفض التسلح. وبالنسبة لكثير من الالمان الغربيين بدا ان المانيا قد تصبح مرة اخرى ساحة محتملة لمواجهة نووية."
         },
         "importance": {
           "ru": "Так видно, как глобальная стратегия холодной войны входила в повседневные страхи людей.",
           "de": "So wird sichtbar, wie globale Strategie des Kalten Krieges in die Alltagsaengste der Menschen eingriff.",
-          "en": "It shows how global Cold War strategy entered people's everyday fears."
+          "en": "It shows how global Cold War strategy entered people's everyday fears.",
+          "fr": "Cela montre comment la strategie mondiale de la guerre froide entrait dans les peurs quotidiennes des gens.",
+          "es": "Muestra como la estrategia global de la Guerra Fria entraba en los miedos cotidianos de la gente.",
+          "it": "Mostra come la strategia globale della Guerra fredda entrasse nelle paure quotidiane delle persone.",
+          "pt": "Mostra como a estrategia global da Guerra Fria entrava nos medos cotidianos das pessoas.",
+          "nl": "Het laat zien hoe de wereldwijde strategie van de Koude Oorlog doordrong in de dagelijkse angsten van mensen.",
+          "pl": "Pokazuje to, jak globalna strategia zimnej wojny wchodzila w codzienne leki ludzi.",
+          "tr": "Bu, kuresel Soguk Savas stratejisinin insanlarin gunluk korkularina nasil girdigini gosterir.",
+          "zh": "它显示了全球冷战战略如何进入人们的日常恐惧。",
+          "ja": "世界規模の冷戦戦略が、人々の日常的な不安に入り込んでいたことを示しています。",
+          "ko": "이는 세계적 냉전 전략이 사람들의 일상적 두려움 속으로 어떻게 들어왔는지를 보여준다.",
+          "hi": "यह दिखाता है कि वैश्विक शीत युद्ध रणनीति लोगों के रोजमर्रा के डर में कैसे प्रवेश करती थी।",
+          "ar": "يوضح ذلك كيف دخلت استراتيجية الحرب الباردة العالمية الى مخاوف الناس اليومية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Хофгартен как политическая сцена",
           "de": "Der Hofgarten als politische Buehne",
-          "en": "The Hofgarten as a political stage"
+          "en": "The Hofgarten as a political stage",
+          "fr": "Le Hofgarten comme scene politique",
+          "es": "El Hofgarten como escenario politico",
+          "it": "L'Hofgarten come scena politica",
+          "pt": "O Hofgarten como palco politico",
+          "nl": "De Hofgarten als politiek podium",
+          "pl": "Hofgarten jako scena polityczna",
+          "tr": "Siyasi sahne olarak Hofgarten",
+          "zh": "作为政治舞台的霍夫花园",
+          "ja": "政治の舞台としてのホーフガルテン",
+          "ko": "정치 무대로서의 호프가르텐",
+          "hi": "राजनीतिक मंच के रूप में होफगार्टन",
+          "ar": "هوفغارتن كخشبة سياسية"
         },
         "description": {
           "ru": "Боннский Хофгартен был не просто парком у университета. В годы Боннской республики он стал местом больших демонстраций, где политика буквально выходила на траву перед властью.",
           "de": "Der Bonner Hofgarten war nicht nur ein Park an der Universitaet. In der Bonner Republik wurde er zum Ort grosser Demonstrationen, an dem Politik buchstaeblich auf die Wiese vor der Macht trat.",
-          "en": "Bonn's Hofgarten was not just a park by the university. In the Bonn Republic it became a site of major demonstrations, where politics literally stepped onto the lawn in front of power."
+          "en": "Bonn's Hofgarten was not just a park by the university. In the Bonn Republic it became a site of major demonstrations, where politics literally stepped onto the lawn in front of power.",
+          "fr": "Le Hofgarten de Bonn n'etait pas seulement un parc pres de l'universite. Dans la Republique de Bonn, il devint un lieu de grandes manifestations, ou la politique entrait litteralement sur la pelouse devant le pouvoir.",
+          "es": "El Hofgarten de Bonn no era solo un parque junto a la universidad. En la Republica de Bonn se convirtio en lugar de grandes manifestaciones, donde la politica literalmente pisaba el cesped frente al poder.",
+          "it": "L'Hofgarten di Bonn non era solo un parco vicino all'universita. Nella Repubblica di Bonn divenne luogo di grandi manifestazioni, dove la politica scendeva letteralmente sul prato davanti al potere.",
+          "pt": "O Hofgarten de Bonn nao era apenas um parque junto a universidade. Na Republica de Bonn tornou-se local de grandes manifestacoes, onde a politica literalmente entrava no gramado diante do poder.",
+          "nl": "De Hofgarten in Bonn was niet alleen een park bij de universiteit. In de Bonnse Republiek werd het een plaats van grote demonstraties, waar politiek letterlijk het grasveld voor de macht op stapte.",
+          "pl": "Bonski Hofgarten nie byl tylko parkiem przy uniwersytecie. W czasach Republiki Bonnskiej stal sie miejscem wielkich demonstracji, gdzie polityka doslownie wychodzila na trawe przed wladza.",
+          "tr": "Bonn Hofgarten yalnizca universitenin yanindaki bir park degildi. Bonn Cumhuriyeti yillarinda buyuk gosterilerin alani oldu; siyaset burada kelimenin tam anlamiyla iktidarin onundeki cimlere cikti.",
+          "zh": "波恩霍夫花园不只是大学旁的公园。在波恩共和国时期，它成为大型示威地点，政治真的走到了权力面前的草坪上。",
+          "ja": "ボンのホーフガルテンは大学そばの単なる公園ではありませんでした。ボン共和国時代には大規模デモの場となり、政治が文字どおり権力の前の芝生に出ていきました。",
+          "ko": "본의 호프가르텐은 대학 옆의 단순한 공원이 아니었다. 본 공화국 시기 이곳은 대규모 시위의 장소가 되었고, 정치가 말 그대로 권력 앞 잔디밭으로 나왔다.",
+          "hi": "बॉन का होफगार्टन विश्वविद्यालय के पास का केवल पार्क नहीं था। बॉन गणराज्य के वर्षों में यह बड़े प्रदर्शनों का स्थान बना, जहां राजनीति सचमुच सत्ता के सामने घास पर उतरती थी।",
+          "ar": "لم يكن هوفغارتن بون مجرد حديقة قرب الجامعة. ففي جمهورية بون اصبح مكانا لمظاهرات كبيرة، حيث كانت السياسة تخرج حرفيا الى العشب امام السلطة."
         },
         "importance": {
           "ru": "Это делает сухую тему безопасности очень наглядной и человеческой.",
           "de": "Das macht ein trockenes Sicherheitsthema sehr anschaulich und menschlich.",
-          "en": "It makes a dry security topic vivid and human."
+          "en": "It makes a dry security topic vivid and human.",
+          "fr": "Cela rend un sujet de securite assez sec vivant et humain.",
+          "es": "Eso hace que un tema seco de seguridad sea visual y humano.",
+          "it": "Questo rende un tema di sicurezza arido piu vivido e umano.",
+          "pt": "Isso torna um tema seco de seguranca mais vivo e humano.",
+          "nl": "Dat maakt een droog veiligheidsonderwerp levendig en menselijk.",
+          "pl": "To sprawia, ze suchy temat bezpieczenstwa staje sie obrazowy i ludzki.",
+          "tr": "Bu, kuru bir guvenlik konusunu canli ve insani hale getirir.",
+          "zh": "这让枯燥的安全议题变得生动而有人情味。",
+          "ja": "それにより、硬い安全保障のテーマが生き生きと人間的に見えてきます。",
+          "ko": "이는 딱딱한 안보 주제를 생생하고 인간적으로 만든다.",
+          "hi": "यह सुरक्षा जैसे सूखे विषय को जीवंत और मानवीय बना देता है।",
+          "ar": "يجعل ذلك موضوعا امنيا جافا حيا وانسانيا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "В разных источниках число участников оценивают примерно от 250 000 до 300 000 человек.",
     "de": "Die Zahl der Teilnehmenden wird in verschiedenen Quellen auf etwa 250.000 bis 300.000 Menschen geschaetzt.",
-    "en": "Different sources estimate the number of participants at roughly 250,000 to 300,000."
+    "en": "Different sources estimate the number of participants at roughly 250,000 to 300,000.",
+    "fr": "Selon les sources, le nombre de participants est estime à environ 250 000 à 300 000 personnes.",
+    "es": "Diferentes fuentes estiman el numero de participantes entre unas 250 000 y 300 000 personas.",
+    "it": "Diverse fonti stimano il numero dei partecipanti tra circa 250.000 e 300.000 persone.",
+    "pt": "Diferentes fontes estimam o numero de participantes em cerca de 250.000 a 300.000 pessoas.",
+    "nl": "Verschillende bronnen schatten het aantal deelnemers op ongeveer 250.000 tot 300.000 mensen.",
+    "pl": "Rozne zrodla szacuja liczbe uczestnikow na okolo 250 000 do 300 000 osob.",
+    "tr": "Farkli kaynaklar katilimci sayisini yaklasik 250.000 ile 300.000 arasinda tahmin eder.",
+    "zh": "不同来源估计参与人数约为25万至30万人。",
+    "ja": "さまざまな資料は、参加者数をおよそ25万人から30万人と見積もっています。",
+    "ko": "여러 자료는 참가자 수를 약 25만 명에서 30만 명으로 추정한다.",
+    "hi": "विभिन्न स्रोत प्रतिभागियों की संख्या लगभग 250,000 से 300,000 बताते हैं।",
+    "ar": "تقدر مصادر مختلفة عدد المشاركين بنحو 250 الفا الى 300 الف شخص."
   },
   "sources": [
     {
