@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия и Польша подтвердили границу",
       "de": "Deutschland und Polen bestaetigen die Grenze",
-      "en": "Germany and Poland confirm the border"
+      "en": "Germany and Poland confirm the border",
+      "fr": "L'Allemagne et la Pologne confirment la frontiere",
+      "es": "Alemania y Polonia confirman la frontera",
+      "it": "Germania e Polonia confermano il confine",
+      "pt": "Alemanha e Polonia confirmam a fronteira",
+      "nl": "Duitsland en Polen bevestigen de grens",
+      "pl": "Niemcy i Polska potwierdzaja granice",
+      "tr": "Almanya ve Polonya siniri onayladi",
+      "zh": "德国和波兰确认边界",
+      "ja": "ドイツとポーランドが国境を確認",
+      "ko": "독일과 폴란드가 국경을 확인하다",
+      "hi": "जर्मनी और पोलैंड ने सीमा की पुष्टि की",
+      "ar": "المانيا وبولندا تؤكدان الحدود"
     },
     "description": {
       "ru": "14 ноября 1990 года Германия и Польша подписали в Варшаве договор о подтверждении существующей границы. Он закрепил линию по Одеру и Нейсе как окончательную границу между двумя государствами.",
       "de": "Am 14. November 1990 unterzeichneten Deutschland und Polen in Warschau den Vertrag zur Bestaetigung der bestehenden Grenze. Er bestaetigte die Oder-Neisse-Linie als endgueltige Grenze zwischen beiden Staaten.",
-      "en": "On 14 November 1990, Germany and Poland signed a treaty in Warsaw confirming the existing border. It confirmed the Oder-Neisse line as the final border between the two states."
+      "en": "On 14 November 1990, Germany and Poland signed a treaty in Warsaw confirming the existing border. It confirmed the Oder-Neisse line as the final border between the two states.",
+      "fr": "Le 14 novembre 1990, l'Allemagne et la Pologne signerent a Varsovie un traite confirmant la frontiere existante. Il confirma la ligne Oder-Neisse comme frontiere definitive entre les deux Etats.",
+      "es": "El 14 de noviembre de 1990, Alemania y Polonia firmaron en Varsovia un tratado que confirmaba la frontera existente. Confirmo la linea Oder-Neisse como frontera definitiva entre ambos estados.",
+      "it": "Il 14 novembre 1990, Germania e Polonia firmarono a Varsavia un trattato che confermava il confine esistente. Esso confermo la linea Oder-Neisse come confine definitivo tra i due stati.",
+      "pt": "Em 14 de novembro de 1990, Alemanha e Polonia assinaram em Varsovia um tratado confirmando a fronteira existente. Ele confirmou a linha Oder-Neisse como fronteira definitiva entre os dois estados.",
+      "nl": "Op 14 november 1990 ondertekenden Duitsland en Polen in Warschau een verdrag dat de bestaande grens bevestigde. Het bevestigde de Oder-Neisse-lijn als definitieve grens tussen beide staten.",
+      "pl": "14 listopada 1990 roku Niemcy i Polska podpisaly w Warszawie traktat potwierdzajacy istniejaca granice. Potwierdzil on linie Odry i Nysy jako ostateczna granice miedzy oboma panstwami.",
+      "tr": "14 Kasim 1990'da Almanya ve Polonya Varsova'da mevcut siniri onaylayan bir antlasma imzaladi. Bu antlasma Oder-Neisse hattini iki devlet arasindaki nihai sinir olarak onayladi.",
+      "zh": "1990年11月14日，德国和波兰在华沙签署条约，确认现有边界。该条约确认奥得河-尼斯河线为两国之间的最终边界。",
+      "ja": "1990年11月14日、ドイツとポーランドはワルシャワで既存の国境を確認する条約に署名しました。それはオーデル・ナイセ線を両国間の最終的な国境として確認しました。",
+      "ko": "1990년 11월 14일 독일과 폴란드는 바르샤바에서 기존 국경을 확인하는 조약에 서명했다. 이 조약은 오데르-나이세 선을 두 나라 사이의 최종 국경으로 확인했다.",
+      "hi": "14 नवंबर 1990 को जर्मनी और पोलैंड ने वारसॉ में मौजूदा सीमा की पुष्टि करने वाली संधि पर हस्ताक्षर किए। इसने ओडर-नाइसे रेखा को दोनों राज्यों के बीच अंतिम सीमा के रूप में पुष्टि की।",
+      "ar": "في 14 نوفمبر 1990 وقعت المانيا وبولندا في وارسو معاهدة تؤكد الحدود القائمة. واكدت خط اودر-نايسه كحد نهائي بين الدولتين."
     },
     "importance": {
       "ru": "Договор снял один из самых тяжёлых послевоенных вопросов и стал важной частью европейского порядка после объединения Германии.",
       "de": "Der Vertrag klaerte eine der schwersten Nachkriegsfragen und wurde ein wichtiger Teil der europaeischen Ordnung nach der deutschen Einheit.",
-      "en": "The treaty settled one of the most difficult postwar issues and became an important part of the European order after German reunification."
+      "en": "The treaty settled one of the most difficult postwar issues and became an important part of the European order after German reunification.",
+      "fr": "Le traite regla l'une des questions d'apres-guerre les plus difficiles et devint une partie importante de l'ordre europeen apres la reunification allemande.",
+      "es": "El tratado resolvio una de las cuestiones de posguerra mas dificiles y se convirtio en parte importante del orden europeo tras la reunificacion alemana.",
+      "it": "Il trattato risolse una delle questioni piu difficili del dopoguerra e divenne una parte importante dell'ordine europeo dopo la riunificazione tedesca.",
+      "pt": "O tratado resolveu uma das questoes mais dificeis do pos-guerra e tornou-se parte importante da ordem europeia apos a reunificacao alema.",
+      "nl": "Het verdrag loste een van de moeilijkste naoorlogse kwesties op en werd een belangrijk deel van de Europese orde na de Duitse hereniging.",
+      "pl": "Traktat rozwiazal jedna z najtrudniejszych kwestii powojennych i stal sie wazna czescia europejskiego porzadku po zjednoczeniu Niemiec.",
+      "tr": "Antlasma, savas sonrasi en zor sorunlardan birini cozdu ve Alman yeniden birlesmesinden sonra Avrupa duzeninin onemli bir parcasi oldu.",
+      "zh": "该条约解决了最困难的战后问题之一，并成为德国统一后欧洲秩序的重要组成部分。",
+      "ja": "この条約は戦後の最も難しい問題の一つを解決し、ドイツ再統一後のヨーロッパ秩序の重要な一部となりました。",
+      "ko": "이 조약은 전후 가장 어려운 문제 중 하나를 해결했고 독일 재통일 이후 유럽 질서의 중요한 부분이 되었다.",
+      "hi": "इस संधि ने युद्धोत्तर सबसे कठिन प्रश्नों में से एक को सुलझाया और जर्मन पुनर्एकीकरण के बाद यूरोपीय व्यवस्था का महत्वपूर्ण हिस्सा बनी।",
+      "ar": "حلت المعاهدة احدى اصعب قضايا ما بعد الحرب واصبحت جزءا مهما من النظام الاوروبي بعد اعادة توحيد المانيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Линия Одер - Нейсе",
           "de": "Die Oder-Neisse-Linie",
-          "en": "The Oder-Neisse line"
+          "en": "The Oder-Neisse line",
+          "fr": "La ligne Oder-Neisse",
+          "es": "La linea Oder-Neisse",
+          "it": "La linea Oder-Neisse",
+          "pt": "A linha Oder-Neisse",
+          "nl": "De Oder-Neisse-lijn",
+          "pl": "Linia Odry i Nysy",
+          "tr": "Oder-Neisse hatti",
+          "zh": "奥得河-尼斯河线",
+          "ja": "オーデル・ナイセ線",
+          "ko": "오데르-나이세 선",
+          "hi": "ओडर-नाइसे रेखा",
+          "ar": "خط اودر-نايسه"
         },
         "description": {
           "ru": "После 1945 года граница по рекам Одер и Нейсе оставалась болезненной темой для немцев и поляков. Подписание договора подтвердило, что объединённая Германия не имеет территориальных претензий к Польше.",
           "de": "Nach 1945 blieb die Grenze an Oder und Neisse ein schmerzhaftes Thema fuer Deutsche und Polen. Der Vertrag bestaetigte, dass das vereinte Deutschland keine Gebietsansprueche gegen Polen erhebt.",
-          "en": "After 1945, the border along the Oder and Neisse rivers remained a painful issue for Germans and Poles. The treaty confirmed that unified Germany had no territorial claims against Poland."
+          "en": "After 1945, the border along the Oder and Neisse rivers remained a painful issue for Germans and Poles. The treaty confirmed that unified Germany had no territorial claims against Poland.",
+          "fr": "Apres 1945, la frontiere le long de l'Oder et de la Neisse resta un sujet douloureux pour les Allemands et les Polonais. Le traite confirma que l'Allemagne reunifiee n'avait pas de revendications territoriales envers la Pologne.",
+          "es": "Despues de 1945, la frontera a lo largo de los rios Oder y Neisse siguio siendo un tema doloroso para alemanes y polacos. El tratado confirmo que la Alemania unificada no tenia reclamaciones territoriales contra Polonia.",
+          "it": "Dopo il 1945, il confine lungo i fiumi Oder e Neisse rimase un tema doloroso per tedeschi e polacchi. Il trattato confermo che la Germania unita non aveva rivendicazioni territoriali verso la Polonia.",
+          "pt": "Depois de 1945, a fronteira ao longo dos rios Oder e Neisse continuou sendo tema doloroso para alemaes e poloneses. O tratado confirmou que a Alemanha reunificada nao tinha reivindicacoes territoriais contra a Polonia.",
+          "nl": "Na 1945 bleef de grens langs de Oder en de Neisse een pijnlijk onderwerp voor Duitsers en Polen. Het verdrag bevestigde dat verenigd Duitsland geen territoriale aanspraken op Polen had.",
+          "pl": "Po 1945 roku granica wzdluz Odry i Nysy pozostawala bolesnym tematem dla Niemcow i Polakow. Traktat potwierdzil, ze zjednoczone Niemcy nie maja roszczen terytorialnych wobec Polski.",
+          "tr": "1945'ten sonra Oder ve Neisse nehirleri boyunca uzanan sinir Almanlar ve Polonyalilar icin aci bir konu olarak kaldi. Antlasma, birlesik Almanya'nin Polonya'ya karsi toprak talebi olmadigini onayladi.",
+          "zh": "1945年后，沿奥得河和尼斯河的边界对德国人和波兰人来说仍是痛苦问题。该条约确认统一后的德国对波兰没有领土要求。",
+          "ja": "1945年以後、オーデル川とナイセ川に沿う国境は、ドイツ人とポーランド人にとって痛みを伴う問題であり続けました。この条約は、統一ドイツがポーランドに対して領土要求を持たないことを確認しました。",
+          "ko": "1945년 이후 오데르강과 나이세강을 따른 국경은 독일인과 폴란드인에게 고통스러운 문제로 남았다. 이 조약은 통일 독일이 폴란드에 영토적 요구를 하지 않음을 확인했다.",
+          "hi": "1945 के बाद ओडर और नाइसे नदियों के साथ की सीमा जर्मनों और पोलों के लिए दर्दनाक प्रश्न बनी रही। संधि ने पुष्टि की कि एकीकृत जर्मनी का पोलैंड पर कोई क्षेत्रीय दावा नहीं है।",
+          "ar": "بعد عام 1945 بقيت الحدود على نهري اودر ونايسه قضية مؤلمة للالمان والبولنديين. واكدت المعاهدة ان المانيا الموحدة لا تملك مطالب اقليمية تجاه بولندا."
         },
         "importance": {
           "ru": "Это было важным условием доверия между соседями после десятилетий войны, изгнаний и разделения Европы.",
           "de": "Das war eine wichtige Voraussetzung fuer Vertrauen zwischen Nachbarn nach Jahrzehnten von Krieg, Vertreibung und Teilung Europas.",
-          "en": "It was an important basis for trust between neighbors after decades of war, expulsions and European division."
+          "en": "It was an important basis for trust between neighbors after decades of war, expulsions and European division.",
+          "fr": "Ce fut une base importante de confiance entre voisins apres des decennies de guerre, d'expulsions et de division de l'Europe.",
+          "es": "Fue una base importante para la confianza entre vecinos tras decadas de guerra, expulsiones y division europea.",
+          "it": "Fu una base importante per la fiducia tra vicini dopo decenni di guerra, espulsioni e divisione europea.",
+          "pt": "Foi uma base importante para a confianca entre vizinhos apos decadas de guerra, expulsoes e divisao europeia.",
+          "nl": "Het was een belangrijke basis voor vertrouwen tussen buren na decennia van oorlog, verdrijving en Europese deling.",
+          "pl": "Byla to wazna podstawa zaufania miedzy sasiadami po dekadach wojny, wysiedlen i podzialu Europy.",
+          "tr": "Bu, onlarca yil savas, surgun ve Avrupa'nin bolunmesinden sonra komsular arasinda guven icin onemli bir temeldi.",
+          "zh": "在经历数十年的战争、驱逐和欧洲分裂后，这是邻国之间信任的重要基础。",
+          "ja": "何十年もの戦争、追放、ヨーロッパ分断の後、これは隣国間の信頼の重要な基礎となりました。",
+          "ko": "수십 년의 전쟁, 추방, 유럽 분단 뒤 이 조약은 이웃 나라들 사이 신뢰의 중요한 기반이었다.",
+          "hi": "दशकों के युद्ध, निष्कासन और यूरोपीय विभाजन के बाद यह पड़ोसियों के बीच विश्वास का महत्वपूर्ण आधार था।",
+          "ar": "كان ذلك اساسا مهما للثقة بين الجيران بعد عقود من الحرب والطرد وتقسيم اوروبا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Договор подписали уже после Дня единства",
           "de": "Der Vertrag kam erst nach dem Einheitstag",
-          "en": "The treaty came after Unity Day"
+          "en": "The treaty came after Unity Day",
+          "fr": "Le traite vint apres le Jour de l'unite",
+          "es": "El tratado llego despues del Dia de la Unidad",
+          "it": "Il trattato arrivo dopo il Giorno dell'Unita",
+          "pt": "O tratado veio depois do Dia da Unidade",
+          "nl": "Het verdrag kwam na de Dag van de Eenheid",
+          "pl": "Traktat podpisano po Dniu Jednosci",
+          "tr": "Antlasma Birlik Gunu'nden sonra geldi",
+          "zh": "条约在统一日之后签署",
+          "ja": "条約は統一記念日の後に結ばれた",
+          "ko": "조약은 통일의 날 이후에 체결되다",
+          "hi": "संधि एकता दिवस के बाद हुई",
+          "ar": "جاءت المعاهدة بعد يوم الوحدة"
         },
         "description": {
           "ru": "Германия объединилась 3 октября 1990 года, а договор с Польшей был подписан через шесть недель. Так новое государство почти сразу подтвердило свои внешние границы.",
           "de": "Deutschland wurde am 3. Oktober 1990 vereinigt, der Vertrag mit Polen folgte sechs Wochen spaeter. So bestaetigte der neue Staat fast sofort seine Aussengrenzen.",
-          "en": "Germany was reunified on 3 October 1990, and the treaty with Poland followed six weeks later. The new state thus confirmed its external borders almost immediately."
+          "en": "Germany was reunified on 3 October 1990, and the treaty with Poland followed six weeks later. The new state thus confirmed its external borders almost immediately.",
+          "fr": "L'Allemagne fut reunifiee le 3 octobre 1990, et le traite avec la Pologne suivit six semaines plus tard. Le nouvel Etat confirma ainsi presque aussitot ses frontieres exterieures.",
+          "es": "Alemania se reunifico el 3 de octubre de 1990, y el tratado con Polonia llego seis semanas despues. Asi, el nuevo estado confirmo casi de inmediato sus fronteras exteriores.",
+          "it": "La Germania fu riunificata il 3 ottobre 1990 e il trattato con la Polonia segui sei settimane dopo. Il nuovo stato confermo cosi quasi subito i propri confini esterni.",
+          "pt": "A Alemanha foi reunificada em 3 de outubro de 1990, e o tratado com a Polonia veio seis semanas depois. Assim, o novo estado confirmou quase imediatamente suas fronteiras externas.",
+          "nl": "Duitsland werd op 3 oktober 1990 herenigd, en het verdrag met Polen volgde zes weken later. Zo bevestigde de nieuwe staat bijna onmiddellijk zijn buitengrenzen.",
+          "pl": "Niemcy zjednoczyly sie 3 pazdziernika 1990 roku, a traktat z Polska podpisano szesc tygodni pozniej. W ten sposob nowe panstwo niemal od razu potwierdzilo swoje granice zewnetrzne.",
+          "tr": "Almanya 3 Ekim 1990'da yeniden birlesti, Polonya ile antlasma ise alti hafta sonra geldi. Boylece yeni devlet dis sinirlarini neredeyse hemen onayladi.",
+          "zh": "德国于1990年10月3日统一，与波兰的条约在六周后签署。因此，新国家几乎立即确认了自己的外部边界。",
+          "ja": "ドイツは1990年10月3日に再統一され、ポーランドとの条約はその6週間後に続きました。こうして新国家はほぼ直ちに外部国境を確認しました。",
+          "ko": "독일은 1990년 10월 3일 재통일되었고, 폴란드와의 조약은 6주 뒤 이어졌다. 이렇게 새 국가는 거의 즉시 외부 국경을 확인했다.",
+          "hi": "जर्मनी 3 अक्टूबर 1990 को एकीकृत हुआ और पोलैंड के साथ संधि छह सप्ताह बाद हुई। इस तरह नए राज्य ने लगभग तुरंत अपनी बाहरी सीमाओं की पुष्टि की।",
+          "ar": "اعيد توحيد المانيا في 3 أكتوبر 1990، وتلت ذلك المعاهدة مع بولندا بعد ستة اسابيع. وهكذا اكدت الدولة الجديدة حدودها الخارجية تقريبا على الفور."
         },
         "importance": {
           "ru": "Эта деталь хорошо показывает, что объединение Германии было связано не только с Берлином, но и со всей Европой.",
           "de": "Dieses Detail zeigt gut, dass die deutsche Einheit nicht nur Berlin, sondern ganz Europa betraf.",
-          "en": "This detail shows that German unity concerned not only Berlin but all of Europe."
+          "en": "This detail shows that German unity concerned not only Berlin but all of Europe.",
+          "fr": "Ce detail montre que l'unite allemande concernait non seulement Berlin, mais toute l'Europe.",
+          "es": "Este detalle muestra que la unidad alemana afectaba no solo a Berlin, sino a toda Europa.",
+          "it": "Questo dettaglio mostra che l'unita tedesca riguardava non solo Berlino, ma tutta l'Europa.",
+          "pt": "Esse detalhe mostra que a unidade alema dizia respeito nao apenas a Berlim, mas a toda a Europa.",
+          "nl": "Dit detail laat zien dat de Duitse eenheid niet alleen Berlijn, maar heel Europa betrof.",
+          "pl": "Ten szczegol pokazuje, ze niemiecka jednosc dotyczyla nie tylko Berlina, lecz calej Europy.",
+          "tr": "Bu ayrinti, Alman birliginin yalnizca Berlin'i degil, tum Avrupa'yi ilgilendirdigini gosterir.",
+          "zh": "这个细节说明，德国统一不仅关系到柏林，也关系到整个欧洲。",
+          "ja": "この点は、ドイツ統一がベルリンだけでなくヨーロッパ全体に関わる問題だったことを示しています。",
+          "ko": "이 점은 독일 통일이 베를린뿐 아니라 유럽 전체와 관련된 일이었음을 보여 준다.",
+          "hi": "यह विवरण दिखाता है कि जर्मन एकता केवल बर्लिन से नहीं, बल्कि पूरे यूरोप से जुड़ी थी।",
+          "ar": "يبين هذا التفصيل ان الوحدة الالمانية لم تكن تخص برلين فقط، بل اوروبا كلها."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Договор был подписан министрами иностранных дел Гансом-Дитрихом Геншером и Кшиштофом Скубишевским.",
     "de": "Unterzeichnet wurde der Vertrag von den Aussenministern Hans-Dietrich Genscher und Krzysztof Skubiszewski.",
-    "en": "The treaty was signed by foreign ministers Hans-Dietrich Genscher and Krzysztof Skubiszewski."
+    "en": "The treaty was signed by foreign ministers Hans-Dietrich Genscher and Krzysztof Skubiszewski.",
+    "fr": "Le traite fut signe par les ministres des Affaires etrangeres Hans-Dietrich Genscher et Krzysztof Skubiszewski.",
+    "es": "El tratado fue firmado por los ministros de Exteriores Hans-Dietrich Genscher y Krzysztof Skubiszewski.",
+    "it": "Il trattato fu firmato dai ministri degli Esteri Hans-Dietrich Genscher e Krzysztof Skubiszewski.",
+    "pt": "O tratado foi assinado pelos ministros das Relacoes Exteriores Hans-Dietrich Genscher e Krzysztof Skubiszewski.",
+    "nl": "Het verdrag werd ondertekend door de ministers van Buitenlandse Zaken Hans-Dietrich Genscher en Krzysztof Skubiszewski.",
+    "pl": "Traktat podpisali ministrowie spraw zagranicznych Hans-Dietrich Genscher i Krzysztof Skubiszewski.",
+    "tr": "Antlasma disisleri bakanlari Hans-Dietrich Genscher ve Krzysztof Skubiszewski tarafindan imzalandi.",
+    "zh": "该条约由外长汉斯-迪特里希·根舍和克日什托夫·斯库比谢夫斯基签署。",
+    "ja": "この条約は、外相ハンス＝ディートリヒ・ゲンシャーとクシシュトフ・スクビシェフスキによって署名されました。",
+    "ko": "이 조약은 외무장관 한스디트리히 겐셔와 크시슈토프 스쿠비셰프스키가 서명했다.",
+    "hi": "संधि पर विदेश मंत्रियों हांस-डीट्रिख गेंशर और क्रिस्टोफ स्कुबिशेव्स्की ने हस्ताक्षर किए।",
+    "ar": "وقع المعاهدة وزيرا الخارجية هانس ديتريش غينشر وكشيسشتوف سكوبيشفسكي."
   },
   "sources": [
     {

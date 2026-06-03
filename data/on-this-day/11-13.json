@@ -11,17 +11,53 @@
     "title": {
       "ru": "Ханс Модров получил поручение сформировать правительство ГДР",
       "de": "Hans Modrow wird mit der Regierungsbildung beauftragt",
-      "en": "Hans Modrow is asked to form the GDR government"
+      "en": "Hans Modrow is asked to form the GDR government",
+      "fr": "Hans Modrow est charge de former le gouvernement de la RDA",
+      "es": "Hans Modrow recibe el encargo de formar el gobierno de la RDA",
+      "it": "Hans Modrow riceve l'incarico di formare il governo della DDR",
+      "pt": "Hans Modrow e encarregado de formar o governo da RDA",
+      "nl": "Hans Modrow krijgt opdracht de DDR-regering te vormen",
+      "pl": "Hans Modrow otrzymuje misje utworzenia rzadu NRD",
+      "tr": "Hans Modrow'a DDR hukumetini kurma gorevi verildi",
+      "zh": "汉斯·莫德罗受命组建东德政府",
+      "ja": "ハンス・モドロウが東ドイツ政府の組閣を求められる",
+      "ko": "한스 모드로가 동독 정부 구성을 요청받다",
+      "hi": "हांस मोड्रो को जीडीआर सरकार बनाने का जिम्मा मिला",
+      "ar": "تكليف هانس مودرو بتشكيل حكومة المانيا الشرقية"
     },
     "description": {
       "ru": "13 ноября 1989 года Народная палата ГДР поручила Хансу Модрову сформировать новое правительство. Это произошло всего через несколько дней после падения Берлинской стены.",
       "de": "Am 13. November 1989 beauftragte die Volkskammer der DDR Hans Modrow mit der Bildung einer neuen Regierung. Das geschah nur wenige Tage nach dem Fall der Berliner Mauer.",
-      "en": "On 13 November 1989, East Germany's Volkskammer asked Hans Modrow to form a new government. This happened only a few days after the fall of the Berlin Wall."
+      "en": "On 13 November 1989, East Germany's Volkskammer asked Hans Modrow to form a new government. This happened only a few days after the fall of the Berlin Wall.",
+      "fr": "Le 13 novembre 1989, la Chambre du peuple de RDA chargea Hans Modrow de former un nouveau gouvernement. Cela se produisit quelques jours seulement apres la chute du mur de Berlin.",
+      "es": "El 13 de noviembre de 1989, la Camara del Pueblo de la RDA encargo a Hans Modrow formar un nuevo gobierno. Esto ocurrio solo unos dias despues de la caida del Muro de Berlin.",
+      "it": "Il 13 novembre 1989, la Camera del popolo della DDR incarico Hans Modrow di formare un nuovo governo. Accadde solo pochi giorni dopo la caduta del Muro di Berlino.",
+      "pt": "Em 13 de novembro de 1989, a Camara do Povo da RDA encarregou Hans Modrow de formar um novo governo. Isso aconteceu poucos dias depois da queda do Muro de Berlim.",
+      "nl": "Op 13 november 1989 gaf de Volkskammer van de DDR Hans Modrow opdracht een nieuwe regering te vormen. Dit gebeurde slechts enkele dagen na de val van de Berlijnse Muur.",
+      "pl": "13 listopada 1989 roku Izba Ludowa NRD powierzyla Hansowi Modrowowi utworzenie nowego rzadu. Stalo sie to zaledwie kilka dni po upadku Muru Berlinskiego.",
+      "tr": "13 Kasim 1989'da DDR Volkskammer'i Hans Modrow'a yeni bir hukumet kurma gorevi verdi. Bu, Berlin Duvari'nin yikilisindan sadece birkac gun sonra oldu.",
+      "zh": "1989年11月13日，东德人民议院委托汉斯·莫德罗组建新政府。这发生在柏林墙倒塌后仅几天。",
+      "ja": "1989年11月13日、東ドイツの人民議会はハンス・モドロウに新政府の組閣を求めました。これはベルリンの壁崩壊のわずか数日後のことでした。",
+      "ko": "1989년 11월 13일 동독 인민의회는 한스 모드로에게 새 정부 구성을 요청했다. 이는 베를린 장벽 붕괴 며칠 뒤의 일이었다.",
+      "hi": "13 नवंबर 1989 को पूर्वी जर्मनी की वोल्क्सकामर ने हांस मोड्रो को नई सरकार बनाने का जिम्मा दिया। यह बर्लिन की दीवार गिरने के केवल कुछ दिन बाद हुआ।",
+      "ar": "في 13 نوفمبر 1989 كلفت فولكسكامر في المانيا الشرقية هانس مودرو بتشكيل حكومة جديدة. حدث ذلك بعد ايام قليلة فقط من سقوط جدار برلين."
     },
     "importance": {
       "ru": "Дата показывает, как быстро после открытия границы старая власть ГДР пыталась перестроиться.",
       "de": "Das Datum zeigt, wie schnell die alte DDR-Fuehrung nach der Grenzoeffnung versuchte, sich neu aufzustellen.",
-      "en": "The date shows how quickly East Germany's old leadership tried to reorganize after the border opened."
+      "en": "The date shows how quickly East Germany's old leadership tried to reorganize after the border opened.",
+      "fr": "Cette date montre a quelle vitesse l'ancienne direction de la RDA tenta de se reorganiser apres l'ouverture de la frontiere.",
+      "es": "La fecha muestra lo rapido que la antigua direccion de la RDA intento reorganizarse tras la apertura de la frontera.",
+      "it": "La data mostra quanto rapidamente la vecchia dirigenza della DDR tento di riorganizzarsi dopo l'apertura del confine.",
+      "pt": "A data mostra como a antiga lideranca da RDA tentou se reorganizar rapidamente apos a abertura da fronteira.",
+      "nl": "De datum laat zien hoe snel de oude DDR-leiding zich na de grensopening probeerde te reorganiseren.",
+      "pl": "Ta data pokazuje, jak szybko dawne kierownictwo NRD probowalo sie przeorganizowac po otwarciu granicy.",
+      "tr": "Bu tarih, sinirin acilmasindan sonra Dogu Almanya'nin eski liderliginin ne kadar hizli yeniden duzenlenmeye calistigini gosterir.",
+      "zh": "这个日期显示，边境开放后，东德旧领导层多么迅速地试图重组。",
+      "ja": "この日付は、国境開放後に東ドイツの旧指導部がどれほど早く再編を試みたかを示しています。",
+      "ko": "이 날짜는 국경이 열린 뒤 동독의 옛 지도부가 얼마나 빠르게 재편을 시도했는지 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि सीमा खुलने के बाद पूर्वी जर्मनी का पुराना नेतृत्व कितनी जल्दी खुद को पुनर्गठित करने की कोशिश कर रहा था।",
+      "ar": "يبين هذا التاريخ مدى سرعة محاولة القيادة القديمة في المانيا الشرقية اعادة تنظيم نفسها بعد فتح الحدود."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Переходное правительство",
           "de": "Eine Uebergangsregierung",
-          "en": "A transitional government"
+          "en": "A transitional government",
+          "fr": "Un gouvernement de transition",
+          "es": "Un gobierno de transicion",
+          "it": "Un governo di transizione",
+          "pt": "Um governo de transicao",
+          "nl": "Een overgangsregering",
+          "pl": "Rzad przejsciowy",
+          "tr": "Gecis hukumeti",
+          "zh": "过渡政府",
+          "ja": "暫定政府",
+          "ko": "과도 정부",
+          "hi": "संक्रमणकालीन सरकार",
+          "ar": "حكومة انتقالية"
         },
         "description": {
           "ru": "Правительство Модрова должно было отвечать на давление улицы, массовый отъезд граждан и требование реформ. Но события развивались быстрее, чем могла контролировать СЕПГ.",
           "de": "Die Regierung Modrow musste auf den Druck der Strasse, die Massenausreise und Reformforderungen reagieren. Doch die Ereignisse entwickelten sich schneller, als die SED sie kontrollieren konnte.",
-          "en": "The Modrow government had to respond to street pressure, mass emigration and demands for reform. But events moved faster than the SED could control."
+          "en": "The Modrow government had to respond to street pressure, mass emigration and demands for reform. But events moved faster than the SED could control.",
+          "fr": "Le gouvernement Modrow devait repondre a la pression de la rue, aux departs massifs et aux demandes de reforme. Mais les evenements allaient plus vite que le SED ne pouvait les controler.",
+          "es": "El gobierno de Modrow tuvo que responder a la presion de la calle, la emigracion masiva y las demandas de reforma. Pero los acontecimientos avanzaban mas rapido de lo que el SED podia controlar.",
+          "it": "Il governo Modrow dovette rispondere alla pressione della piazza, all'emigrazione di massa e alle richieste di riforma. Ma gli eventi si muovevano piu rapidamente di quanto la SED potesse controllare.",
+          "pt": "O governo Modrow teve de responder a pressao das ruas, a emigracao em massa e as exigencias de reforma. Mas os acontecimentos avancavam mais rapido do que o SED podia controlar.",
+          "nl": "De regering-Modrow moest reageren op druk van de straat, massale emigratie en eisen om hervorming. Maar de gebeurtenissen gingen sneller dan de SED kon controleren.",
+          "pl": "Rzad Modrowa musial reagowac na presje ulicy, masowe wyjazdy i zadania reform. Jednak wydarzenia rozwijaly sie szybciej, niz SED mogla je kontrolowac.",
+          "tr": "Modrow hukumeti sokak baskisina, kitlesel goclere ve reform taleplerine yanit vermek zorundaydi. Ancak olaylar SED'in kontrol edebileceginden hizli ilerledi.",
+          "zh": "莫德罗政府必须回应街头压力、大规模外流和改革要求。但事件发展得比统一社会党能够控制的速度更快。",
+          "ja": "モドロウ政権は、街頭の圧力、大量出国、改革要求に対応しなければなりませんでした。しかし出来事は、SEDが制御できるよりも速く進みました。",
+          "ko": "모드로 정부는 거리의 압력, 대규모 이주, 개혁 요구에 대응해야 했다. 그러나 사건들은 SED가 통제할 수 있는 것보다 빠르게 움직였다.",
+          "hi": "मोड्रो सरकार को सड़क के दबाव, बड़े पैमाने पर पलायन और सुधार की मांगों का जवाब देना था। लेकिन घटनाएं SED के नियंत्रण से तेज चल रही थीं।",
+          "ar": "كان على حكومة مودرو ان تستجيب لضغط الشارع والهجرة الجماعية ومطالب الاصلاح. لكن الاحداث كانت تتحرك اسرع مما يستطيع حزب الوحدة الاشتراكية السيطرة عليه."
         },
         "importance": {
           "ru": "Это важный шаг между падением стены и первыми свободными выборами в ГДР в марте 1990 года.",
           "de": "Das war ein wichtiger Schritt zwischen dem Mauerfall und den ersten freien Wahlen in der DDR im Maerz 1990.",
-          "en": "It was an important step between the fall of the Wall and East Germany's first free elections in March 1990."
+          "en": "It was an important step between the fall of the Wall and East Germany's first free elections in March 1990.",
+          "fr": "Ce fut une etape importante entre la chute du Mur et les premieres elections libres en RDA en mars 1990.",
+          "es": "Fue un paso importante entre la caida del Muro y las primeras elecciones libres de la RDA en marzo de 1990.",
+          "it": "Fu un passaggio importante tra la caduta del Muro e le prime elezioni libere nella DDR nel marzo 1990.",
+          "pt": "Foi um passo importante entre a queda do Muro e as primeiras eleicoes livres da RDA em marco de 1990.",
+          "nl": "Het was een belangrijke stap tussen de val van de Muur en de eerste vrije verkiezingen in de DDR in maart 1990.",
+          "pl": "Byl to wazny krok miedzy upadkiem Muru a pierwszymi wolnymi wyborami w NRD w marcu 1990 roku.",
+          "tr": "Bu, Duvar'in yikilmasi ile Mart 1990'da DDR'deki ilk ozgur secimler arasinda onemli bir adimdi.",
+          "zh": "这是柏林墙倒塌与1990年3月东德首次自由选举之间的重要一步。",
+          "ja": "これは、壁崩壊と1990年3月の東ドイツ初の自由選挙の間の重要な一歩でした。",
+          "ko": "이는 장벽 붕괴와 1990년 3월 동독의 첫 자유 선거 사이의 중요한 단계였다.",
+          "hi": "यह दीवार गिरने और मार्च 1990 में जीडीआर के पहले स्वतंत्र चुनावों के बीच महत्वपूर्ण कदम था।",
+          "ar": "كانت خطوة مهمة بين سقوط الجدار واول انتخابات حرة في المانيا الشرقية في مارس 1990."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Ханс Модров",
           "de": "Hans Modrow",
-          "en": "Hans Modrow"
+          "en": "Hans Modrow",
+          "fr": "Hans Modrow",
+          "es": "Hans Modrow",
+          "it": "Hans Modrow",
+          "pt": "Hans Modrow",
+          "nl": "Hans Modrow",
+          "pl": "Hans Modrow",
+          "tr": "Hans Modrow",
+          "zh": "汉斯·莫德罗",
+          "ja": "ハンス・モドロウ",
+          "ko": "한스 모드로",
+          "hi": "हांस मोड्रो",
+          "ar": "هانس مودرو"
         },
         "description": {
           "ru": "Модров считался более реформаторской фигурой внутри СЕПГ и до назначения руководил партийной организацией в Дрездене. Его кабинет стал последним правительством ГДР под руководством СЕПГ.",
           "de": "Modrow galt innerhalb der SED als eher reformorientierte Figur und leitete zuvor die Parteiorganisation in Dresden. Sein Kabinett wurde die letzte DDR-Regierung unter SED-Fuehrung.",
-          "en": "Modrow was seen as a more reform-minded figure within the SED and had previously led the party organization in Dresden. His cabinet became the last GDR government led by the SED."
+          "en": "Modrow was seen as a more reform-minded figure within the SED and had previously led the party organization in Dresden. His cabinet became the last GDR government led by the SED.",
+          "fr": "Modrow etait considere comme une figure plus favorable aux reformes au sein du SED et avait auparavant dirige l'organisation du parti a Dresde. Son cabinet devint le dernier gouvernement de la RDA dirige par le SED.",
+          "es": "Modrow era visto como una figura mas reformista dentro del SED y antes habia dirigido la organizacion del partido en Dresde. Su gabinete fue el ultimo gobierno de la RDA dirigido por el SED.",
+          "it": "Modrow era considerato una figura piu orientata alle riforme all'interno della SED e in precedenza aveva guidato l'organizzazione del partito a Dresda. Il suo gabinetto divenne l'ultimo governo della DDR guidato dalla SED.",
+          "pt": "Modrow era visto como uma figura mais reformista dentro do SED e antes havia liderado a organizacao do partido em Dresden. Seu gabinete tornou-se o ultimo governo da RDA liderado pelo SED.",
+          "nl": "Modrow gold binnen de SED als een meer hervormingsgezinde figuur en had eerder de partijorganisatie in Dresden geleid. Zijn kabinet werd de laatste DDR-regering onder leiding van de SED.",
+          "pl": "Modrow uchodzil w SED za postac bardziej reformatorska i wczesniej kierowal organizacja partyjna w Dreznie. Jego gabinet stal sie ostatnim rzadem NRD pod kierownictwem SED.",
+          "tr": "Modrow, SED icinde daha reformcu bir figur olarak goruluyordu ve daha once Dresden'deki parti orgutunu yonetmisti. Kabinesi, SED liderligindeki son DDR hukumeti oldu.",
+          "zh": "莫德罗被视为统一社会党内较具改革倾向的人物，此前曾领导德累斯顿的党组织。他的内阁成为由统一社会党领导的最后一届东德政府。",
+          "ja": "モドロウはSED内でより改革志向の人物と見られており、以前はドレスデンの党組織を率いていました。彼の内閣は、SEDが主導した最後の東ドイツ政府となりました。",
+          "ko": "모드로는 SED 내부에서 더 개혁적인 인물로 여겨졌고 이전에는 드레스덴의 당 조직을 이끌었다. 그의 내각은 SED가 이끈 마지막 동독 정부가 되었다.",
+          "hi": "मोड्रो को SED के भीतर अधिक सुधारवादी व्यक्ति माना जाता था और वे पहले ड्रेसडेन में पार्टी संगठन का नेतृत्व कर चुके थे। उनका मंत्रिमंडल SED नेतृत्व वाली जीडीआर की अंतिम सरकार बना।",
+          "ar": "كان مودرو يُنظر اليه داخل حزب الوحدة الاشتراكية كشخصية اكثر ميلا للاصلاح، وكان قد قاد سابقا تنظيم الحزب في دريسدن. واصبحت حكومته آخر حكومة في المانيا الشرقية بقيادة الحزب."
         },
         "importance": {
           "ru": "Через его биографию виден переход от партийной власти к переговорам о будущем страны.",
           "de": "An seiner Biografie wird der Uebergang von Parteiherrschaft zu Verhandlungen ueber die Zukunft des Landes sichtbar.",
-          "en": "His biography shows the transition from party rule to negotiations over the country's future."
+          "en": "His biography shows the transition from party rule to negotiations over the country's future.",
+          "fr": "Sa biographie montre le passage du pouvoir du parti aux negociations sur l'avenir du pays.",
+          "es": "Su biografia muestra la transicion del dominio del partido a las negociaciones sobre el futuro del pais.",
+          "it": "La sua biografia mostra il passaggio dal dominio del partito ai negoziati sul futuro del paese.",
+          "pt": "Sua biografia mostra a transicao do governo do partido para negociacoes sobre o futuro do pais.",
+          "nl": "Zijn biografie laat de overgang zien van partijheerschappij naar onderhandelingen over de toekomst van het land.",
+          "pl": "Jego biografia pokazuje przejscie od rzadow partii do negocjacji o przyszlosci kraju.",
+          "tr": "Biyografisi, parti yonetiminden ulkenin gelecegi uzerine muzakerelere gecisi gosterir.",
+          "zh": "他的生平显示了从政党统治到谈判国家未来的过渡。",
+          "ja": "彼の経歴は、党支配から国の将来をめぐる交渉への移行を示しています。",
+          "ko": "그의 생애는 당 지배에서 나라의 미래를 둘러싼 협상으로의 전환을 보여 준다.",
+          "hi": "उनकी जीवनी पार्टी शासन से देश के भविष्य पर बातचीत की ओर संक्रमण दिखाती है।",
+          "ar": "تظهر سيرته الانتقال من حكم الحزب الى التفاوض حول مستقبل البلاد."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Правительство Модрова работало до весны 1990 года, когда после свободных выборов его сменил кабинет Лотара де Мезьера.",
     "de": "Die Regierung Modrow amtierte bis zum Fruehjahr 1990, als sie nach den freien Wahlen vom Kabinett Lothar de Maiziere abgeloest wurde.",
-    "en": "The Modrow government served until spring 1990, when it was replaced after free elections by Lothar de Maiziere's cabinet."
+    "en": "The Modrow government served until spring 1990, when it was replaced after free elections by Lothar de Maiziere's cabinet.",
+    "fr": "Le gouvernement Modrow resta en fonction jusqu'au printemps 1990, lorsqu'il fut remplace apres les elections libres par le cabinet de Lothar de Maiziere.",
+    "es": "El gobierno de Modrow estuvo en funciones hasta la primavera de 1990, cuando fue sustituido tras las elecciones libres por el gabinete de Lothar de Maiziere.",
+    "it": "Il governo Modrow rimase in carica fino alla primavera del 1990, quando fu sostituito dopo le elezioni libere dal gabinetto di Lothar de Maiziere.",
+    "pt": "O governo Modrow atuou ate a primavera de 1990, quando foi substituido apos eleicoes livres pelo gabinete de Lothar de Maiziere.",
+    "nl": "De regering-Modrow bleef tot het voorjaar van 1990 in functie, toen zij na vrije verkiezingen werd vervangen door het kabinet van Lothar de Maiziere.",
+    "pl": "Rzad Modrowa urzedowal do wiosny 1990 roku, gdy po wolnych wyborach zastapil go gabinet Lothara de Maiziere'a.",
+    "tr": "Modrow hukumeti 1990 baharina kadar gorev yapti; ozgur secimlerden sonra yerini Lothar de Maiziere kabinesi aldi.",
+    "zh": "莫德罗政府任职到1990年春，随后在自由选举后由洛塔尔·德梅齐埃内阁取代。",
+    "ja": "モドロウ政権は1990年春まで続き、自由選挙の後にロタール・デメジエール内閣に交代しました。",
+    "ko": "모드로 정부는 1990년 봄까지 일했고, 자유 선거 이후 로타어 데메지에르 내각으로 교체되었다.",
+    "hi": "मोड्रो सरकार वसंत 1990 तक काम करती रही, जब स्वतंत्र चुनावों के बाद उसकी जगह लोथार दे मेजिएर के मंत्रिमंडल ने ली।",
+    "ar": "عملت حكومة مودرو حتى ربيع 1990، عندما استبدلت بعد الانتخابات الحرة بحكومة لوثار دي ميزيير."
   },
   "sources": [
     {

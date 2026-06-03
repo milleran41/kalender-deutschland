@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Германии провозглашено избирательное право женщин",
       "de": "Das Frauenwahlrecht wird in Deutschland verkuendet",
-      "en": "Women's suffrage is announced in Germany"
+      "en": "Women's suffrage is announced in Germany",
+      "fr": "Le droit de vote des femmes est annonce en Allemagne",
+      "es": "Se anuncia el sufragio femenino en Alemania",
+      "it": "Viene annunciato il suffragio femminile in Germania",
+      "pt": "O sufragio feminino e anunciado na Alemanha",
+      "nl": "Vrouwenkiesrecht wordt in Duitsland aangekondigd",
+      "pl": "W Niemczech ogloszono prawa wyborcze kobiet",
+      "tr": "Almanya'da kadinlara oy hakki ilan edildi",
+      "zh": "德国宣布妇女选举权",
+      "ja": "ドイツで女性参政権が発表される",
+      "ko": "독일에서 여성 참정권이 발표되다",
+      "hi": "जर्मनी में महिलाओं के मताधिकार की घोषणा हुई",
+      "ar": "اعلان حق المرأة في التصويت في المانيا"
     },
     "description": {
       "ru": "12 ноября 1918 года Совет народных уполномоченных объявил демократическую избирательную реформу, включавшую право женщин голосовать и быть избранными. Вскоре женщины впервые участвовали в выборах в Национальное собрание.",
       "de": "Am 12. November 1918 verkuendete der Rat der Volksbeauftragten eine demokratische Wahlrechtsreform, die Frauen das aktive und passive Wahlrecht gab. Bald darauf nahmen Frauen erstmals an der Wahl zur Nationalversammlung teil.",
-      "en": "On 12 November 1918, the Council of People's Deputies announced democratic electoral reform, giving women the right to vote and stand for office. Soon afterward, women first voted in elections to the National Assembly."
+      "en": "On 12 November 1918, the Council of People's Deputies announced democratic electoral reform, giving women the right to vote and stand for office. Soon afterward, women first voted in elections to the National Assembly.",
+      "fr": "Le 12 novembre 1918, le Conseil des commissaires du peuple annonca une reforme electorale democratique donnant aux femmes le droit de voter et d'etre elues. Peu apres, les femmes voterent pour la premiere fois aux elections de l'Assemblee nationale.",
+      "es": "El 12 de noviembre de 1918, el Consejo de Comisarios del Pueblo anuncio una reforma electoral democratica que dio a las mujeres el derecho a votar y a ser elegidas. Poco despues, las mujeres votaron por primera vez en las elecciones a la Asamblea Nacional.",
+      "it": "Il 12 novembre 1918, il Consiglio dei delegati del popolo annuncio una riforma elettorale democratica che diede alle donne il diritto di votare e di essere elette. Poco dopo, le donne votarono per la prima volta alle elezioni dell'Assemblea nazionale.",
+      "pt": "Em 12 de novembro de 1918, o Conselho dos Delegados do Povo anunciou uma reforma eleitoral democratica que deu as mulheres o direito de votar e de serem eleitas. Pouco depois, mulheres votaram pela primeira vez nas eleicoes para a Assembleia Nacional.",
+      "nl": "Op 12 november 1918 kondigde de Raad van Volkscommissarissen een democratische kiesrechthervorming aan, waardoor vrouwen mochten stemmen en zich verkiesbaar stellen. Kort daarna stemden vrouwen voor het eerst bij de verkiezingen voor de Nationale Vergadering.",
+      "pl": "12 listopada 1918 roku Rada Delegatow Ludowych oglosila demokratyczna reforme wyborcza, dajac kobietom prawo glosu i kandydowania. Wkrotce potem kobiety po raz pierwszy glosowaly w wyborach do Zgromadzenia Narodowego.",
+      "tr": "12 Kasim 1918'de Halk Temsilcileri Konseyi, kadinlara oy verme ve secilme hakki veren demokratik bir secim reformu ilan etti. Kisa sure sonra kadinlar ilk kez Ulusal Meclis secimlerinde oy kullandi.",
+      "zh": "1918年11月12日，人民代表委员会宣布民主选举改革，赋予妇女投票和参选的权利。不久之后，妇女首次在国民议会选举中投票。",
+      "ja": "1918年11月12日、人民委員会は女性に投票権と被選挙権を与える民主的な選挙改革を発表しました。その後まもなく、女性は国民議会選挙で初めて投票しました。",
+      "ko": "1918년 11월 12일 인민대표위원회는 여성에게 투표권과 피선거권을 주는 민주적 선거 개혁을 발표했다. 곧이어 여성들은 국민의회 선거에서 처음으로 투표했다.",
+      "hi": "12 नवंबर 1918 को जनप्रतिनिधि परिषद ने लोकतांत्रिक चुनाव सुधार की घोषणा की, जिसमें महिलाओं को मतदान और चुनाव लड़ने का अधिकार मिला। जल्द ही महिलाओं ने पहली बार राष्ट्रीय सभा के चुनावों में मतदान किया।",
+      "ar": "في 12 نوفمبر 1918 اعلن مجلس مفوضي الشعب اصلاحا انتخابيا ديمقراطيا منح النساء حق التصويت والترشح. وبعد وقت قصير صوتت النساء لاول مرة في انتخابات الجمعية الوطنية."
     },
     "importance": {
       "ru": "Это одна из ключевых дат немецкой демократии и истории равноправия.",
       "de": "Das ist eines der Schluesseldaten deutscher Demokratie und Gleichberechtigung.",
-      "en": "It is one of the key dates in German democracy and equal rights."
+      "en": "It is one of the key dates in German democracy and equal rights.",
+      "fr": "C'est l'une des dates cles de la democratie allemande et de l'egalite des droits.",
+      "es": "Es una de las fechas clave de la democracia alemana y de la igualdad de derechos.",
+      "it": "E una delle date chiave della democrazia tedesca e della parita dei diritti.",
+      "pt": "E uma das datas-chave da democracia alema e da igualdade de direitos.",
+      "nl": "Het is een van de sleuteldatums van de Duitse democratie en gelijke rechten.",
+      "pl": "To jedna z kluczowych dat niemieckiej demokracji i rownouprawnienia.",
+      "tr": "Bu, Alman demokrasisi ve esit haklar tarihinin kilit tarihlerinden biridir.",
+      "zh": "这是德国民主和平等权利历史中的关键日期之一。",
+      "ja": "これはドイツの民主主義と平等権の歴史における重要な日付の一つです。",
+      "ko": "이는 독일 민주주의와 평등권 역사에서 중요한 날짜 중 하나이다.",
+      "hi": "यह जर्मन लोकतंत्र और समान अधिकारों की प्रमुख तारीखों में से एक है।",
+      "ar": "انه احد التواريخ المهمة في الديمقراطية الالمانية والمساواة في الحقوق."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Женщины в Национальном собрании",
           "de": "Frauen in der Nationalversammlung",
-          "en": "Women in the National Assembly"
+          "en": "Women in the National Assembly",
+          "fr": "Les femmes a l'Assemblee nationale",
+          "es": "Mujeres en la Asamblea Nacional",
+          "it": "Donne nell'Assemblea nazionale",
+          "pt": "Mulheres na Assembleia Nacional",
+          "nl": "Vrouwen in de Nationale Vergadering",
+          "pl": "Kobiety w Zgromadzeniu Narodowym",
+          "tr": "Ulusal Meclis'te kadinlar",
+          "zh": "国民议会中的女性",
+          "ja": "国民議会の女性たち",
+          "ko": "국민의회의 여성들",
+          "hi": "राष्ट्रीय सभा में महिलाएं",
+          "ar": "النساء في الجمعية الوطنية"
         },
         "description": {
           "ru": "На выборах 1919 года женщины не только голосовали, но и были избраны депутатами. Это изменило лицо немецкой политики.",
           "de": "Bei der Wahl 1919 stimmten Frauen nicht nur ab, sondern wurden auch als Abgeordnete gewaehlt. Das veraenderte das Gesicht der deutschen Politik.",
-          "en": "In the 1919 election, women not only voted but were also elected as deputies. This changed the face of German politics."
+          "en": "In the 1919 election, women not only voted but were also elected as deputies. This changed the face of German politics.",
+          "fr": "Lors des elections de 1919, les femmes ne voterent pas seulement: elles furent aussi elues deputees. Cela changea le visage de la politique allemande.",
+          "es": "En las elecciones de 1919, las mujeres no solo votaron, sino que tambien fueron elegidas diputadas. Esto cambio el rostro de la politica alemana.",
+          "it": "Nelle elezioni del 1919, le donne non solo votarono, ma furono anche elette deputate. Questo cambio il volto della politica tedesca.",
+          "pt": "Nas eleicoes de 1919, mulheres nao apenas votaram, mas tambem foram eleitas deputadas. Isso mudou o rosto da politica alema.",
+          "nl": "Bij de verkiezingen van 1919 stemden vrouwen niet alleen, maar werden zij ook als afgevaardigden gekozen. Dit veranderde het gezicht van de Duitse politiek.",
+          "pl": "W wyborach 1919 roku kobiety nie tylko glosowaly, ale takze zostaly wybrane poslankami. Zmienilo to oblicze niemieckiej polityki.",
+          "tr": "1919 secimlerinde kadinlar sadece oy kullanmadi, milletvekili olarak da secildi. Bu, Alman siyasetinin yuzunu degistirdi.",
+          "zh": "在1919年选举中，妇女不仅投票，也当选为议员。这改变了德国政治的面貌。",
+          "ja": "1919年の選挙で、女性は投票しただけでなく、議員にも選ばれました。これはドイツ政治の姿を変えました。",
+          "ko": "1919년 선거에서 여성들은 투표했을 뿐 아니라 의원으로도 선출되었다. 이는 독일 정치의 모습을 바꾸었다.",
+          "hi": "1919 के चुनावों में महिलाओं ने केवल मतदान ही नहीं किया, बल्कि वे प्रतिनिधि भी चुनी गईं। इससे जर्मन राजनीति का चेहरा बदल गया।",
+          "ar": "في انتخابات 1919 لم تصوت النساء فقط، بل انتخبن ايضا نائبات. وقد غير ذلك وجه السياسة الالمانية."
         },
         "importance": {
           "ru": "Права становятся реальными, когда люди начинают ими пользоваться.",
           "de": "Rechte werden wirklich, wenn Menschen sie nutzen.",
-          "en": "Rights become real when people begin to use them."
+          "en": "Rights become real when people begin to use them.",
+          "fr": "Les droits deviennent reels lorsque les gens commencent a les utiliser.",
+          "es": "Los derechos se vuelven reales cuando las personas empiezan a usarlos.",
+          "it": "I diritti diventano reali quando le persone cominciano a usarli.",
+          "pt": "Direitos se tornam reais quando as pessoas comecam a usa-los.",
+          "nl": "Rechten worden werkelijk wanneer mensen ze beginnen te gebruiken.",
+          "pl": "Prawa staja sie realne, gdy ludzie zaczynaja z nich korzystac.",
+          "tr": "Haklar, insanlar onlari kullanmaya basladiginda gercek olur.",
+          "zh": "当人们开始使用权利时，权利才变得真实。",
+          "ja": "権利は、人々が使い始める時に現実のものになります。",
+          "ko": "권리는 사람들이 그것을 사용하기 시작할 때 현실이 된다.",
+          "hi": "अधिकार तब वास्तविक बनते हैं जब लोग उनका उपयोग करना शुरू करते हैं।",
+          "ar": "تصبح الحقوق حقيقية عندما يبدأ الناس في استخدامها."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В Германии женщины получили избирательное право раньше, чем во многих других европейских странах.",
     "de": "In Deutschland erhielten Frauen das Wahlrecht frueher als in vielen anderen europaeischen Laendern.",
-    "en": "In Germany, women gained suffrage earlier than in many other European countries."
+    "en": "In Germany, women gained suffrage earlier than in many other European countries.",
+    "fr": "En Allemagne, les femmes obtinrent le droit de vote plus tot que dans beaucoup d'autres pays europeens.",
+    "es": "En Alemania, las mujeres obtuvieron el sufragio antes que en muchos otros paises europeos.",
+    "it": "In Germania, le donne ottennero il diritto di voto prima che in molti altri paesi europei.",
+    "pt": "Na Alemanha, as mulheres conquistaram o sufragio antes que em muitos outros paises europeus.",
+    "nl": "In Duitsland kregen vrouwen eerder kiesrecht dan in veel andere Europese landen.",
+    "pl": "W Niemczech kobiety uzyskaly prawa wyborcze wczesniej niz w wielu innych krajach europejskich.",
+    "tr": "Almanya'da kadinlar oy hakkini bircok Avrupa ulkesinden daha once kazandi.",
+    "zh": "在德国，妇女获得选举权早于许多其他欧洲国家。",
+    "ja": "ドイツでは、女性は多くの他のヨーロッパ諸国より早く参政権を得ました。",
+    "ko": "독일에서 여성들은 다른 많은 유럽 국가들보다 일찍 참정권을 얻었다.",
+    "hi": "जर्मनी में महिलाओं को कई अन्य यूरोपीय देशों से पहले मताधिकार मिला।",
+    "ar": "حصلت النساء في المانيا على حق التصويت قبل كثير من الدول الاوروبية الاخرى."
   },
   "sources": [
     {
