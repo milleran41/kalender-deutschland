@@ -11,17 +11,53 @@
     "title": {
       "ru": "Верденский договор разделил империю Каролингов",
       "de": "Der Vertrag von Verdun teilt das Karolingerreich",
-      "en": "The Treaty of Verdun divides the Carolingian Empire"
+      "en": "The Treaty of Verdun divides the Carolingian Empire",
+      "fr": "Le traité de Verdun divise l'empire carolingien",
+      "es": "El Tratado de Verdún divide el Imperio carolingio",
+      "it": "Il Trattato di Verdun divide l'Impero carolingio",
+      "pt": "O Tratado de Verdun divide o Império Carolíngio",
+      "nl": "Het Verdrag van Verdun verdeelt het Karolingische Rijk",
+      "pl": "Traktat z Verdun dzieli imperium Karolingów",
+      "tr": "Verdun Antlaşması Karolenj İmparatorluğu'nu böler",
+      "zh": "凡尔登条约分割加洛林帝国",
+      "ja": "ヴェルダン条約がカロリング帝国を分割する",
+      "ko": "베르됭 조약이 카롤루스 제국을 분할하다",
+      "hi": "वर्दाँ की संधि ने कैरोलिंजियन साम्राज्य को बांटा",
+      "ar": "معاهدة فردان تقسم الإمبراطورية الكارولنجية"
     },
     "description": {
       "ru": "10 августа 843 года империя Карла Великого была разделена между его внуками. Восточная часть, полученная Людовиком Немецким, стала одним из истоков будущей Германии.",
       "de": "Am 10. August 843 wurde das Reich Karls des Grossen unter seinen Enkeln geteilt. Der oestliche Teil, den Ludwig der Deutsche erhielt, wurde zu einem Ursprung des spaeteren Deutschlands.",
-      "en": "On 10 August 843, Charlemagne's empire was divided among his grandsons. The eastern part, received by Louis the German, became one of the origins of later Germany."
+      "en": "On 10 August 843, Charlemagne's empire was divided among his grandsons. The eastern part, received by Louis the German, became one of the origins of later Germany.",
+      "fr": "Le 10 août 843, l'empire de Charlemagne fut partagé entre ses petits-fils. La partie orientale, reçue par Louis le Germanique, devint l'une des origines de l'Allemagne ultérieure.",
+      "es": "El 10 de agosto de 843, el imperio de Carlomagno fue dividido entre sus nietos. La parte oriental, recibida por Luis el Germánico, se convirtió en uno de los orígenes de la futura Alemania.",
+      "it": "Il 10 agosto 843 l'impero di Carlo Magno fu diviso tra i suoi nipoti. La parte orientale, ricevuta da Ludovico il Germanico, divenne una delle origini della futura Germania.",
+      "pt": "Em 10 de agosto de 843, o império de Carlos Magno foi dividido entre seus netos. A parte oriental, recebida por Luís, o Germânico, tornou-se uma das origens da futura Alemanha.",
+      "nl": "Op 10 augustus 843 werd het rijk van Karel de Grote onder zijn kleinzonen verdeeld. Het oostelijke deel, dat Lodewijk de Duitser kreeg, werd een van de oorsprongen van het latere Duitsland.",
+      "pl": "10 sierpnia 843 roku imperium Karola Wielkiego zostało podzielone między jego wnuków. Część wschodnia, otrzymana przez Ludwika Niemieckiego, stała się jednym ze źródeł późniejszych Niemiec.",
+      "tr": "10 Ağustos 843'te Şarlman'ın imparatorluğu torunları arasında paylaştırıldı. Alman Ludwig'in aldığı doğu kısmı, daha sonraki Almanya'nın kökenlerinden biri oldu.",
+      "zh": "843年8月10日，查理大帝的帝国在他的孙子们之间被瓜分。路易德意志人获得的东部地区成为后来德国的源头之一。",
+      "ja": "843年8月10日、カール大帝の帝国は孫たちの間で分割された。ルートヴィヒ・ドイツ人王が受け取った東部は、後のドイツの起源の一つとなった。",
+      "ko": "843년 8월 10일, 샤를마뉴의 제국은 그의 손자들 사이에 나뉘었다. 독일인 루트비히가 받은 동부 지역은 훗날 독일의 기원 중 하나가 되었다.",
+      "hi": "10 अगस्त 843 को शार्लमेन का साम्राज्य उनके पोतों के बीच बांट दिया गया। लुई जर्मन को मिली पूर्वी भूमि बाद की जर्मनी के स्रोतों में से एक बनी।",
+      "ar": "في 10 أغسطس 843 قُسمت إمبراطورية شارلمان بين أحفاده. وأصبح الجزء الشرقي، الذي حصل عليه لويس الألماني، أحد أصول ألمانيا اللاحقة."
     },
     "importance": {
       "ru": "Дата очень ранняя, но она помогает понять, почему карта Германии и Франции формировалась из наследия Франкской империи.",
       "de": "Das Datum ist sehr frueh, hilft aber zu verstehen, warum die Karten Deutschlands und Frankreichs aus dem Erbe des Frankenreiches entstanden.",
-      "en": "The date is very early, but it helps explain why the maps of Germany and France grew out of the Frankish imperial legacy."
+      "en": "The date is very early, but it helps explain why the maps of Germany and France grew out of the Frankish imperial legacy.",
+      "fr": "Cette date est très ancienne, mais elle aide à comprendre pourquoi les cartes de l'Allemagne et de la France se sont formées à partir de l'héritage de l'empire franc.",
+      "es": "La fecha es muy temprana, pero ayuda a entender por qué los mapas de Alemania y Francia se formaron a partir de la herencia del Imperio franco.",
+      "it": "La data è molto antica, ma aiuta a capire perché le mappe della Germania e della Francia si formarono dall'eredità dell'impero franco.",
+      "pt": "A data é muito antiga, mas ajuda a entender por que os mapas da Alemanha e da França se formaram a partir da herança do Império Franco.",
+      "nl": "De datum is heel vroeg, maar helpt verklaren waarom de kaarten van Duitsland en Frankrijk uit de erfenis van het Frankische rijk groeiden.",
+      "pl": "Ta data jest bardzo wczesna, ale pomaga zrozumieć, dlaczego mapy Niemiec i Francji kształtowały się z dziedzictwa imperium frankijskiego.",
+      "tr": "Bu tarih çok erkendir, ancak Almanya ve Fransa haritalarının Frank imparatorluk mirasından nasıl doğduğunu anlamaya yardımcı olur.",
+      "zh": "这个日期非常早，但它有助于解释德国和法国的版图为何从法兰克帝国遗产中形成。",
+      "ja": "この日は非常に早い時代のものだが、ドイツとフランスの地図がフランク帝国の遺産から生まれた理由を理解する助けになる。",
+      "ko": "이 날짜는 매우 이른 시기의 것이지만, 독일과 프랑스의 지도가 프랑크 제국의 유산에서 어떻게 형성되었는지 설명하는 데 도움이 된다.",
+      "hi": "यह तारीख बहुत प्रारंभिक है, लेकिन यह समझने में मदद करती है कि जर्मनी और फ्रांस के नक्शे फ्रैंकिश साम्राज्य की विरासत से क्यों बने।",
+      "ar": "هذا التاريخ مبكر جدا، لكنه يساعد على فهم سبب تشكل خريطتي ألمانيا وفرنسا من إرث الإمبراطورية الفرنجية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Восточно-Франкское королевство",
           "de": "Ostfrankenreich",
-          "en": "East Francia"
+          "en": "East Francia",
+          "fr": "Francie orientale",
+          "es": "Francia Oriental",
+          "it": "Francia orientale",
+          "pt": "Frância Oriental",
+          "nl": "Oost-Francië",
+          "pl": "Państwo wschodniofrankijskie",
+          "tr": "Doğu Frank Krallığı",
+          "zh": "东法兰克王国",
+          "ja": "東フランク王国",
+          "ko": "동프랑크 왕국",
+          "hi": "पूर्वी फ्रांकीय राज्य",
+          "ar": "فرنجة الشرقية"
         },
         "description": {
           "ru": "Восточно-Франкское королевство ещё не было Германией в современном смысле. Но именно оно стало важной предысторией средневекового немецкого королевства.",
           "de": "Das Ostfrankenreich war noch kein Deutschland im modernen Sinn. Es wurde aber zu einer wichtigen Vorgeschichte des mittelalterlichen deutschen Koenigreichs.",
-          "en": "East Francia was not Germany in the modern sense. But it became an important prehistory of the medieval German kingdom."
+          "en": "East Francia was not Germany in the modern sense. But it became an important prehistory of the medieval German kingdom.",
+          "fr": "La Francie orientale n'était pas encore l'Allemagne au sens moderne. Mais elle devint une étape préalable importante du royaume allemand médiéval.",
+          "es": "Francia Oriental no era Alemania en el sentido moderno. Pero se convirtió en una prehistoria importante del reino alemán medieval.",
+          "it": "La Francia orientale non era ancora la Germania nel senso moderno. Ma divenne un'importante premessa storica del regno tedesco medievale.",
+          "pt": "A Frância Oriental ainda não era a Alemanha no sentido moderno. Mas tornou-se uma importante pré-história do reino alemão medieval.",
+          "nl": "Oost-Francië was nog geen Duitsland in moderne zin. Maar het werd een belangrijke voorgeschiedenis van het middeleeuwse Duitse koninkrijk.",
+          "pl": "Państwo wschodniofrankijskie nie było jeszcze Niemcami w nowoczesnym sensie. Stało się jednak ważną prehistorią średniowiecznego królestwa niemieckiego.",
+          "tr": "Doğu Frank Krallığı modern anlamda Almanya değildi. Ancak Orta Çağ Alman krallığının önemli bir ön tarihi oldu.",
+          "zh": "东法兰克王国还不是现代意义上的德国。但它成为中世纪德意志王国的重要前史。",
+          "ja": "東フランク王国は近代的な意味でのドイツではまだなかった。しかしそれは中世ドイツ王国の重要な前史となった。",
+          "ko": "동프랑크 왕국은 현대적 의미의 독일은 아니었다. 그러나 중세 독일 왕국의 중요한 전사가 되었다.",
+          "hi": "पूर्वी फ्रांकीय राज्य आधुनिक अर्थ में जर्मनी नहीं था। लेकिन यह मध्यकालीन जर्मन राज्य की महत्वपूर्ण पूर्वकथा बना।",
+          "ar": "لم تكن فرنجة الشرقية ألمانيا بالمعنى الحديث. لكنها أصبحت مقدمة تاريخية مهمة للمملكة الألمانية في العصور الوسطى."
         },
         "importance": {
           "ru": "Это помогает школьнику не путать раннее Средневековье с современными национальными государствами.",
           "de": "Das hilft Schuelern, das fruehe Mittelalter nicht mit modernen Nationalstaaten zu verwechseln.",
-          "en": "It helps students avoid confusing the early Middle Ages with modern nation-states."
+          "en": "It helps students avoid confusing the early Middle Ages with modern nation-states.",
+          "fr": "Cela aide les élèves à ne pas confondre le haut Moyen Âge avec les États-nations modernes.",
+          "es": "Esto ayuda a los estudiantes a no confundir la Alta Edad Media con los estados nacionales modernos.",
+          "it": "Questo aiuta gli studenti a non confondere l'alto Medioevo con gli stati nazionali moderni.",
+          "pt": "Isso ajuda os estudantes a não confundir a Alta Idade Média com os Estados nacionais modernos.",
+          "nl": "Dit helpt leerlingen de vroege middeleeuwen niet te verwarren met moderne natiestaten.",
+          "pl": "Pomaga to uczniom nie mylić wczesnego średniowiecza z nowoczesnymi państwami narodowymi.",
+          "tr": "Bu, öğrencilerin erken Orta Çağ'ı modern ulus devletlerle karıştırmamasına yardımcı olur.",
+          "zh": "这有助于学生避免把中世纪早期与现代民族国家混为一谈。",
+          "ja": "これは、生徒が初期中世を近代の国民国家と混同しないようにする助けになる。",
+          "ko": "이는 학생들이 초기 중세를 현대 국민국가와 혼동하지 않도록 돕는다.",
+          "hi": "यह छात्रों को प्रारंभिक मध्य युग को आधुनिक राष्ट्र-राज्यों से भ्रमित न करने में मदद करता है।",
+          "ar": "يساعد ذلك الطلاب على عدم الخلط بين أوائل العصور الوسطى والدول القومية الحديثة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Феликс Хоффман синтезировал аспирин",
           "de": "Felix Hoffmann synthetisiert Aspirin",
-          "en": "Felix Hoffmann synthesizes aspirin"
+          "en": "Felix Hoffmann synthesizes aspirin",
+          "fr": "Felix Hoffmann synthétise l'aspirine",
+          "es": "Felix Hoffmann sintetiza la aspirina",
+          "it": "Felix Hoffmann sintetizza l'aspirina",
+          "pt": "Felix Hoffmann sintetiza a aspirina",
+          "nl": "Felix Hoffmann synthetiseert aspirine",
+          "pl": "Felix Hoffmann syntetyzuje aspirynę",
+          "tr": "Felix Hoffmann aspirini sentezler",
+          "zh": "费利克斯·霍夫曼合成阿司匹林",
+          "ja": "フェリックス・ホフマンがアスピリンを合成する",
+          "ko": "펠릭스 호프만이 아스피린을 합성하다",
+          "hi": "फेलिक्स होफमान ने एस्पिरिन का संश्लेषण किया",
+          "ar": "فيليكس هوفمان يصنع الأسبرين"
         },
         "description": {
           "ru": "10 августа 1897 года химик Феликс Хоффман в лаборатории Bayer получил ацетилсалициловую кислоту в стабильной форме. Позднее препарат стал известен под названием Aspirin.",
           "de": "Am 10. August 1897 stellte der Chemiker Felix Hoffmann im Bayer-Labor Acetylsalicylsaeure in stabiler Form her. Spaeter wurde das Mittel unter dem Namen Aspirin bekannt.",
-          "en": "On 10 August 1897, chemist Felix Hoffmann produced acetylsalicylic acid in a stable form at Bayer's laboratory. The medicine later became known as Aspirin."
+          "en": "On 10 August 1897, chemist Felix Hoffmann produced acetylsalicylic acid in a stable form at Bayer's laboratory. The medicine later became known as Aspirin.",
+          "fr": "Le 10 août 1897, le chimiste Felix Hoffmann obtint de l'acide acétylsalicylique sous forme stable dans le laboratoire de Bayer. Le médicament devint plus tard connu sous le nom d'Aspirin.",
+          "es": "El 10 de agosto de 1897, el químico Felix Hoffmann obtuvo ácido acetilsalicílico en forma estable en el laboratorio de Bayer. Más tarde el medicamento se conoció con el nombre de Aspirin.",
+          "it": "Il 10 agosto 1897 il chimico Felix Hoffmann produsse acido acetilsalicilico in forma stabile nel laboratorio Bayer. In seguito il farmaco divenne noto con il nome Aspirin.",
+          "pt": "Em 10 de agosto de 1897, o químico Felix Hoffmann produziu ácido acetilsalicílico em forma estável no laboratório da Bayer. Mais tarde, o medicamento ficou conhecido como Aspirin.",
+          "nl": "Op 10 augustus 1897 maakte chemicus Felix Hoffmann in het Bayer-laboratorium acetylsalicylzuur in stabiele vorm. Later werd het middel bekend onder de naam Aspirin.",
+          "pl": "10 sierpnia 1897 roku chemik Felix Hoffmann otrzymał w laboratorium Bayera kwas acetylosalicylowy w stabilnej formie. Później lek stał się znany pod nazwą Aspirin.",
+          "tr": "10 Ağustos 1897'de kimyager Felix Hoffmann Bayer laboratuvarında asetilsalisilik asidi kararlı biçimde elde etti. İlaç daha sonra Aspirin adıyla tanındı.",
+          "zh": "1897年8月10日，化学家费利克斯·霍夫曼在拜耳实验室制得稳定形式的乙酰水杨酸。后来这种药物以Aspirin之名闻名。",
+          "ja": "1897年8月10日、化学者フェリックス・ホフマンはバイエルの研究所で安定した形のアセチルサリチル酸を作った。この薬は後にAspirinの名で知られるようになった。",
+          "ko": "1897년 8월 10일, 화학자 펠릭스 호프만은 바이엘 연구소에서 안정된 형태의 아세틸살리실산을 만들었다. 이 약은 나중에 Aspirin이라는 이름으로 알려졌다.",
+          "hi": "10 अगस्त 1897 को रसायनशास्त्री फेलिक्स होफमान ने Bayer की प्रयोगशाला में स्थिर रूप में एसिटाइलसैलिसिलिक अम्ल तैयार किया। बाद में यह दवा Aspirin नाम से प्रसिद्ध हुई।",
+          "ar": "في 10 أغسطس 1897 أنتج الكيميائي فيليكس هوفمان حمض الأسيتيل ساليسيليك بصيغة مستقرة في مختبر باير. ولاحقا عُرف الدواء باسم Aspirin."
         },
         "importance": {
           "ru": "Это пример того, как лабораторная химия стала частью повседневной медицины во всём мире.",
           "de": "Das ist ein Beispiel dafuer, wie Laborchemie Teil der Alltagsmedizin weltweit wurde.",
-          "en": "It is an example of laboratory chemistry becoming part of everyday medicine worldwide."
+          "en": "It is an example of laboratory chemistry becoming part of everyday medicine worldwide.",
+          "fr": "C'est un exemple de chimie de laboratoire devenue partie de la médecine quotidienne dans le monde entier.",
+          "es": "Es un ejemplo de cómo la química de laboratorio se convirtió en parte de la medicina cotidiana en todo el mundo.",
+          "it": "È un esempio di come la chimica di laboratorio sia diventata parte della medicina quotidiana in tutto il mondo.",
+          "pt": "É um exemplo de como a química de laboratório se tornou parte da medicina cotidiana em todo o mundo.",
+          "nl": "Het is een voorbeeld van laboratoriumchemie die wereldwijd deel werd van de dagelijkse geneeskunde.",
+          "pl": "To przykład tego, jak chemia laboratoryjna stała się częścią codziennej medycyny na całym świecie.",
+          "tr": "Bu, laboratuvar kimyasının dünya çapında gündelik tıbbın parçası olmasına bir örnektir.",
+          "zh": "这是实验室化学成为全球日常医学一部分的例子。",
+          "ja": "これは、実験室の化学が世界中の日常医療の一部になった例である。",
+          "ko": "이는 실험실 화학이 전 세계 일상 의학의 일부가 된 사례이다.",
+          "hi": "यह इस बात का उदाहरण है कि प्रयोगशाला रसायन विज्ञान दुनिया भर की रोजमर्रा की चिकित्सा का हिस्सा कैसे बना।",
+          "ar": "إنه مثال على كيف أصبحت كيمياء المختبر جزءا من الطب اليومي في أنحاء العالم."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Верден находится на территории современной Франции, но договор важен для истории всей Центральной Европы.",
     "de": "Verdun liegt im heutigen Frankreich, doch der Vertrag ist fuer die Geschichte ganz Mitteleuropas wichtig.",
-    "en": "Verdun is in modern France, but the treaty is important for the history of Central Europe as a whole."
+    "en": "Verdun is in modern France, but the treaty is important for the history of Central Europe as a whole.",
+    "fr": "Verdun se trouve dans la France actuelle, mais le traité est important pour l'histoire de toute l'Europe centrale.",
+    "es": "Verdún está en la Francia actual, pero el tratado es importante para la historia de toda Europa Central.",
+    "it": "Verdun si trova nella Francia odierna, ma il trattato è importante per la storia di tutta l'Europa centrale.",
+    "pt": "Verdun fica na França atual, mas o tratado é importante para a história de toda a Europa Central.",
+    "nl": "Verdun ligt in het huidige Frankrijk, maar het verdrag is belangrijk voor de geschiedenis van heel Midden-Europa.",
+    "pl": "Verdun leży na terenie dzisiejszej Francji, ale traktat jest ważny dla historii całej Europy Środkowej.",
+    "tr": "Verdun günümüz Fransası'ndadır, ancak antlaşma tüm Orta Avrupa tarihi için önemlidir.",
+    "zh": "凡尔登位于今天的法国，但该条约对整个中欧历史都很重要。",
+    "ja": "ヴェルダンは現在のフランスにあるが、この条約は中央ヨーロッパ全体の歴史にとって重要である。",
+    "ko": "베르됭은 오늘날 프랑스에 있지만, 이 조약은 중앙유럽 전체의 역사에 중요하다.",
+    "hi": "वर्दाँ आज के फ्रांस में है, लेकिन यह संधि पूरी मध्य यूरोप की इतिहास के लिए महत्वपूर्ण है।",
+    "ar": "تقع فردان في فرنسا الحالية، لكن المعاهدة مهمة لتاريخ أوروبا الوسطى كلها."
   },
   "sources": [
     {

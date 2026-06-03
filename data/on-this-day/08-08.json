@@ -11,17 +11,53 @@
     "title": {
       "ru": "«Чёрный день» германской армии",
       "de": "Der schwarze Tag des deutschen Heeres",
-      "en": "The black day of the German Army"
+      "en": "The black day of the German Army",
+      "fr": "Le jour noir de l'armée allemande",
+      "es": "El día negro del ejército alemán",
+      "it": "Il giorno nero dell'esercito tedesco",
+      "pt": "O dia negro do exército alemão",
+      "nl": "De zwarte dag van het Duitse leger",
+      "pl": "Czarny dzień armii niemieckiej",
+      "tr": "Alman ordusunun kara günü",
+      "zh": "德国军队的黑色一天",
+      "ja": "ドイツ軍の黒い日",
+      "ko": "독일군의 검은 날",
+      "hi": "जर्मन सेना का काला दिन",
+      "ar": "اليوم الأسود للجيش الألماني"
     },
     "description": {
       "ru": "8 августа 1918 года началась битва при Амьене. Союзники прорвали немецкие позиции, а генерал Эрих Людендорф позже назвал этот день «чёрным днём германской армии».",
       "de": "Am 8. August 1918 begann die Schlacht bei Amiens. Die Alliierten durchbrachen deutsche Stellungen, und General Erich Ludendorff nannte diesen Tag spaeter den schwarzen Tag des deutschen Heeres.",
-      "en": "On 8 August 1918, the Battle of Amiens began. The Allies broke through German positions, and General Erich Ludendorff later called the day the black day of the German Army."
+      "en": "On 8 August 1918, the Battle of Amiens began. The Allies broke through German positions, and General Erich Ludendorff later called the day the black day of the German Army.",
+      "fr": "Le 8 août 1918 commença la bataille d'Amiens. Les Alliés percèrent les positions allemandes, et le général Erich Ludendorff qualifia plus tard cette journée de jour noir de l'armée allemande.",
+      "es": "El 8 de agosto de 1918 comenzó la batalla de Amiens. Los aliados rompieron las posiciones alemanas, y el general Erich Ludendorff llamó más tarde a ese día el día negro del ejército alemán.",
+      "it": "L'8 agosto 1918 iniziò la battaglia di Amiens. Gli Alleati sfondarono le posizioni tedesche, e il generale Erich Ludendorff in seguito definì quel giorno il giorno nero dell'esercito tedesco.",
+      "pt": "Em 8 de agosto de 1918 começou a Batalha de Amiens. Os Aliados romperam as posições alemãs, e o general Erich Ludendorff mais tarde chamou esse dia de dia negro do exército alemão.",
+      "nl": "Op 8 augustus 1918 begon de Slag bij Amiens. De geallieerden braken door Duitse stellingen, en generaal Erich Ludendorff noemde deze dag later de zwarte dag van het Duitse leger.",
+      "pl": "8 sierpnia 1918 roku rozpoczęła się bitwa pod Amiens. Alianci przełamali niemieckie pozycje, a generał Erich Ludendorff nazwał później ten dzień czarnym dniem armii niemieckiej.",
+      "tr": "8 Ağustos 1918'de Amiens Muharebesi başladı. Müttefikler Alman mevzilerini yardı ve General Erich Ludendorff daha sonra bu günü Alman ordusunun kara günü olarak adlandırdı.",
+      "zh": "1918年8月8日，亚眠战役开始。协约国突破德军阵地，埃里希·鲁登道夫将军后来称这一天为德国军队的黑色一天。",
+      "ja": "1918年8月8日、アミアンの戦いが始まった。連合軍はドイツ軍陣地を突破し、エーリヒ・ルーデンドルフ将軍は後にこの日をドイツ軍の黒い日と呼んだ。",
+      "ko": "1918년 8월 8일, 아미앵 전투가 시작되었다. 연합군은 독일군 진지를 돌파했고, 에리히 루덴도르프 장군은 나중에 이 날을 독일군의 검은 날이라고 불렀다.",
+      "hi": "8 अगस्त 1918 को अमियां की लड़ाई शुरू हुई। मित्र राष्ट्रों ने जर्मन मोर्चों को तोड़ दिया, और जनरल एरिख लुडेनडॉर्फ ने बाद में इस दिन को जर्मन सेना का काला दिन कहा।",
+      "ar": "في 8 أغسطس 1918 بدأت معركة أميان. اخترق الحلفاء المواقع الألمانية، ووصف الجنرال إريش لودندورف هذا اليوم لاحقا بأنه اليوم الأسود للجيش الألماني."
     },
     "importance": {
       "ru": "Амьен стал началом Стодневного наступления союзников, которое привело к поражению Германии и перемирию 11 ноября 1918 года.",
       "de": "Amiens wurde zum Beginn der Hunderttageoffensive der Alliierten, die zur Niederlage Deutschlands und zum Waffenstillstand vom 11. November 1918 fuehrte.",
-      "en": "Amiens marked the beginning of the Allied Hundred Days Offensive, which led to Germany's defeat and the armistice of 11 November 1918."
+      "en": "Amiens marked the beginning of the Allied Hundred Days Offensive, which led to Germany's defeat and the armistice of 11 November 1918.",
+      "fr": "Amiens marqua le début de l'offensive des Cent-Jours des Alliés, qui mena à la défaite de l'Allemagne et à l'armistice du 11 novembre 1918.",
+      "es": "Amiens marcó el inicio de la Ofensiva de los Cien Días aliada, que llevó a la derrota de Alemania y al armisticio del 11 de noviembre de 1918.",
+      "it": "Amiens segnò l'inizio dell'offensiva dei Cento Giorni degli Alleati, che portò alla sconfitta della Germania e all'armistizio dell'11 novembre 1918.",
+      "pt": "Amiens marcou o início da Ofensiva dos Cem Dias dos Aliados, que levou à derrota da Alemanha e ao armistício de 11 de novembro de 1918.",
+      "nl": "Amiens markeerde het begin van het geallieerde Honderddagenoffensief, dat leidde tot de nederlaag van Duitsland en de wapenstilstand van 11 november 1918.",
+      "pl": "Amiens zapoczątkowało aliancką ofensywę stu dni, która doprowadziła do klęski Niemiec i rozejmu 11 listopada 1918 roku.",
+      "tr": "Amiens, Almanya'nın yenilgisine ve 11 Kasım 1918 ateşkesine yol açan Müttefiklerin Yüz Gün Taarruzu'nun başlangıcı oldu.",
+      "zh": "亚眠标志着协约国百日攻势的开始，该攻势最终导致德国失败并于1918年11月11日签署停战协定。",
+      "ja": "アミアンは連合軍の百日攻勢の始まりとなり、それはドイツの敗北と1918年11月11日の休戦へつながった。",
+      "ko": "아미앵은 연합군 백일 공세의 시작을 알렸고, 이는 독일의 패배와 1918년 11월 11일 휴전으로 이어졌다.",
+      "hi": "अमियां मित्र राष्ट्रों के सौ दिनों के आक्रमण की शुरुआत बना, जिसने जर्मनी की हार और 11 नवंबर 1918 के युद्धविराम तक रास्ता बनाया।",
+      "ar": "مثلت أميان بداية هجوم المئة يوم للحلفاء، الذي أدى إلى هزيمة ألمانيا والهدنة في 11 نوفمبر 1918."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Начало конца Первой мировой",
           "de": "Anfang vom Ende des Ersten Weltkriegs",
-          "en": "The beginning of the end of the First World War"
+          "en": "The beginning of the end of the First World War",
+          "fr": "Le début de la fin de la Première Guerre mondiale",
+          "es": "El principio del fin de la Primera Guerra Mundial",
+          "it": "L'inizio della fine della Prima guerra mondiale",
+          "pt": "O começo do fim da Primeira Guerra Mundial",
+          "nl": "Het begin van het einde van de Eerste Wereldoorlog",
+          "pl": "Początek końca pierwszej wojny światowej",
+          "tr": "Birinci Dünya Savaşı'nın sonunun başlangıcı",
+          "zh": "第一次世界大战终结的开始",
+          "ja": "第一次世界大戦終結の始まり",
+          "ko": "제1차 세계대전 종말의 시작",
+          "hi": "प्रथम विश्व युद्ध के अंत की शुरुआत",
+          "ar": "بداية نهاية الحرب العالمية الأولى"
         },
         "description": {
           "ru": "К лету 1918 года немецкая весенняя атака выдохлась, а союзники получили инициативу. Амьен показал, что германская армия больше не может удерживать фронт как раньше.",
           "de": "Bis zum Sommer 1918 war die deutsche Fruehjahrsoffensive erschoepft, waehrend die Alliierten die Initiative gewannen. Amiens zeigte, dass das deutsche Heer die Front nicht mehr wie zuvor halten konnte.",
-          "en": "By summer 1918, the German spring offensive had run out of force while the Allies gained the initiative. Amiens showed that the German army could no longer hold the front as before."
+          "en": "By summer 1918, the German spring offensive had run out of force while the Allies gained the initiative. Amiens showed that the German army could no longer hold the front as before.",
+          "fr": "À l'été 1918, l'offensive allemande de printemps s'était essoufflée, tandis que les Alliés reprenaient l'initiative. Amiens montra que l'armée allemande ne pouvait plus tenir le front comme auparavant.",
+          "es": "Para el verano de 1918, la ofensiva alemana de primavera se había agotado, mientras los aliados tomaban la iniciativa. Amiens mostró que el ejército alemán ya no podía sostener el frente como antes.",
+          "it": "Nell'estate del 1918 l'offensiva tedesca di primavera si era esaurita, mentre gli Alleati conquistarono l'iniziativa. Amiens mostrò che l'esercito tedesco non poteva più tenere il fronte come prima.",
+          "pt": "No verão de 1918, a ofensiva alemã da primavera havia perdido força, enquanto os Aliados ganhavam a iniciativa. Amiens mostrou que o exército alemão já não podia manter a frente como antes.",
+          "nl": "Tegen de zomer van 1918 was het Duitse voorjaarsoffensief uitgeput, terwijl de geallieerden het initiatief kregen. Amiens liet zien dat het Duitse leger het front niet meer zoals vroeger kon houden.",
+          "pl": "Latem 1918 roku niemiecka ofensywa wiosenna straciła impet, a alianci przejęli inicjatywę. Amiens pokazało, że armia niemiecka nie była już w stanie utrzymać frontu tak jak wcześniej.",
+          "tr": "1918 yazına gelindiğinde Alman bahar taarruzu gücünü tüketmiş, Müttefikler ise inisiyatifi ele geçirmişti. Amiens, Alman ordusunun cepheyi artık eskisi gibi tutamayacağını gösterdi.",
+          "zh": "到1918年夏天，德国春季攻势已经耗尽力量，而协约国获得了主动权。亚眠表明，德国军队已无法像过去那样守住战线。",
+          "ja": "1918年夏までにドイツの春季攻勢は力を失い、連合軍が主導権を握った。アミアンは、ドイツ軍がもはや以前のように戦線を維持できないことを示した。",
+          "ko": "1918년 여름이 되자 독일의 봄 공세는 힘을 잃었고 연합군은 주도권을 얻었다. 아미앵은 독일군이 더 이상 이전처럼 전선을 지킬 수 없음을 보여 주었다.",
+          "hi": "1918 की गर्मियों तक जर्मन वसंत आक्रमण की ताकत खत्म हो चुकी थी, जबकि मित्र राष्ट्रों ने पहल अपने हाथ में ले ली थी। अमियां ने दिखाया कि जर्मन सेना अब पहले की तरह मोर्चा नहीं संभाल सकती थी।",
+          "ar": "بحلول صيف 1918 كانت الهجمة الألمانية الربيعية قد استنفدت قوتها، بينما حصل الحلفاء على زمام المبادرة. وأظهرت أميان أن الجيش الألماني لم يعد قادرا على تثبيت الجبهة كما في السابق."
         },
         "importance": {
           "ru": "Дата помогает понять, почему осенью 1918 года военный кризис так быстро перешёл в политический.",
           "de": "Das Datum hilft zu verstehen, warum die militaerische Krise im Herbst 1918 so schnell politisch wurde.",
-          "en": "The date helps explain why the military crisis in autumn 1918 so quickly became political."
+          "en": "The date helps explain why the military crisis in autumn 1918 so quickly became political.",
+          "fr": "Cette date aide à comprendre pourquoi la crise militaire de l'automne 1918 devint si vite politique.",
+          "es": "La fecha ayuda a entender por qué la crisis militar del otoño de 1918 se volvió política tan rápidamente.",
+          "it": "La data aiuta a capire perché la crisi militare dell'autunno 1918 divenne così rapidamente politica.",
+          "pt": "A data ajuda a entender por que a crise militar do outono de 1918 se tornou política tão rapidamente.",
+          "nl": "De datum helpt verklaren waarom de militaire crisis in de herfst van 1918 zo snel politiek werd.",
+          "pl": "Ta data pomaga zrozumieć, dlaczego kryzys wojskowy jesienią 1918 roku tak szybko stał się polityczny.",
+          "tr": "Bu tarih, 1918 sonbaharındaki askeri krizin neden bu kadar hızlı siyasi hale geldiğini anlamaya yardımcı olur.",
+          "zh": "这个日期有助于解释为什么1918年秋天的军事危机如此迅速地转化为政治危机。",
+          "ja": "この日は、1918年秋の軍事危機がなぜこれほど早く政治危機になったのかを理解する助けになる。",
+          "ko": "이 날짜는 1918년 가을의 군사 위기가 왜 그렇게 빨리 정치적 위기로 변했는지 설명하는 데 도움이 된다.",
+          "hi": "यह तारीख समझने में मदद करती है कि 1918 की शरद ऋतु में सैन्य संकट इतनी जल्दी राजनीतिक संकट क्यों बन गया।",
+          "ar": "يساعد هذا التاريخ على فهم سبب تحول الأزمة العسكرية في خريف 1918 إلى أزمة سياسية بهذه السرعة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Фраза, ставшая символом",
           "de": "Ein Satz wird zum Symbol",
-          "en": "A phrase becomes a symbol"
+          "en": "A phrase becomes a symbol",
+          "fr": "Une phrase devient un symbole",
+          "es": "Una frase se convierte en símbolo",
+          "it": "Una frase diventa un simbolo",
+          "pt": "Uma frase torna-se símbolo",
+          "nl": "Een zin wordt een symbool",
+          "pl": "Fraza staje się symbolem",
+          "tr": "Bir söz sembole dönüşür",
+          "zh": "一句话成为象征",
+          "ja": "一つの言葉が象徴になる",
+          "ko": "한 문구가 상징이 되다",
+          "hi": "एक वाक्य प्रतीक बन गया",
+          "ar": "عبارة تصبح رمزا"
         },
         "description": {
           "ru": "Выражение Людендорфа стало знаменитым потому, что передавало не только военное поражение, но и моральный надлом. Для командования это был знак, что прежняя уверенность исчезла.",
           "de": "Ludendorffs Formulierung wurde beruehmt, weil sie nicht nur eine militaerische Niederlage, sondern auch einen moralischen Bruch ausdrueckte. Fuer die Fuehrung war es ein Zeichen, dass die fruehere Sicherheit verschwunden war.",
-          "en": "Ludendorff's phrase became famous because it expressed not only a military defeat, but also a collapse in morale. For the leadership, it was a sign that earlier confidence had vanished."
+          "en": "Ludendorff's phrase became famous because it expressed not only a military defeat, but also a collapse in morale. For the leadership, it was a sign that earlier confidence had vanished.",
+          "fr": "La formule de Ludendorff devint célèbre parce qu'elle exprimait non seulement une défaite militaire, mais aussi un effondrement moral. Pour le commandement, c'était le signe que l'ancienne confiance avait disparu.",
+          "es": "La frase de Ludendorff se hizo famosa porque expresaba no solo una derrota militar, sino también un derrumbe moral. Para el mando, era una señal de que la confianza anterior había desaparecido.",
+          "it": "La formula di Ludendorff divenne famosa perché esprimeva non solo una sconfitta militare, ma anche un crollo morale. Per il comando era il segno che la sicurezza precedente era scomparsa.",
+          "pt": "A frase de Ludendorff tornou-se famosa porque expressava não apenas uma derrota militar, mas também um colapso moral. Para o comando, era um sinal de que a confiança anterior havia desaparecido.",
+          "nl": "Ludendorffs formulering werd beroemd omdat zij niet alleen een militaire nederlaag uitdrukte, maar ook een morele breuk. Voor de leiding was het een teken dat het eerdere vertrouwen verdwenen was.",
+          "pl": "Sformułowanie Ludendorffa stało się słynne, ponieważ wyrażało nie tylko klęskę wojskową, lecz także załamanie moralne. Dla dowództwa był to znak, że dawna pewność zniknęła.",
+          "tr": "Ludendorff'un ifadesi, yalnızca askeri yenilgiyi değil moral çöküşünü de anlattığı için ünlü oldu. Komutanlık için bu, eski güvenin yok olduğunun işaretiydi.",
+          "zh": "鲁登道夫的这句话之所以著名，是因为它不仅表达了军事失败，也表达了士气崩溃。对指挥层来说，这是过去信心消失的信号。",
+          "ja": "ルーデンドルフの表現が有名になったのは、それが軍事的敗北だけでなく士気の崩壊も表していたからである。指導部にとって、それは以前の自信が消えたという合図だった。",
+          "ko": "루덴도르프의 표현은 군사적 패배뿐 아니라 사기의 붕괴도 나타냈기 때문에 유명해졌다. 지휘부에게 그것은 이전의 자신감이 사라졌다는 신호였다.",
+          "hi": "लुडेनडॉर्फ का यह वाक्य इसलिए प्रसिद्ध हुआ क्योंकि वह केवल सैन्य हार नहीं, बल्कि मनोबल के टूटने को भी व्यक्त करता था। नेतृत्व के लिए यह संकेत था कि पुराना आत्मविश्वास गायब हो गया है।",
+          "ar": "اشتهرت عبارة لودندورف لأنها عبّرت ليس عن هزيمة عسكرية فقط، بل عن انهيار معنوي أيضا. وبالنسبة إلى القيادة كانت علامة على أن الثقة السابقة قد اختفت."
         },
         "importance": {
           "ru": "Иногда одно выражение запоминается сильнее, чем длинное описание битвы.",
           "de": "Manchmal bleibt ein einziger Ausdruck staerker im Gedaechtnis als eine lange Schlachtbeschreibung.",
-          "en": "Sometimes one phrase is remembered more strongly than a long description of a battle."
+          "en": "Sometimes one phrase is remembered more strongly than a long description of a battle.",
+          "fr": "Parfois, une seule expression reste plus fortement en mémoire qu'une longue description de bataille.",
+          "es": "A veces una sola expresión se recuerda más que una larga descripción de una batalla.",
+          "it": "A volte una sola espressione resta più impressa di una lunga descrizione di una battaglia.",
+          "pt": "Às vezes uma única expressão é lembrada com mais força do que uma longa descrição de uma batalha.",
+          "nl": "Soms blijft één uitdrukking sterker in het geheugen dan een lange beschrijving van een veldslag.",
+          "pl": "Czasem jedno wyrażenie zapada w pamięć mocniej niż długi opis bitwy.",
+          "tr": "Bazen tek bir ifade, uzun bir savaş anlatımından daha güçlü hatırlanır.",
+          "zh": "有时一个表达比一段漫长的战役描述更令人难忘。",
+          "ja": "戦いの長い説明よりも、一つの表現のほうが強く記憶に残ることがある。",
+          "ko": "때로는 긴 전투 설명보다 하나의 표현이 더 강하게 기억된다.",
+          "hi": "कभी-कभी एक ही अभिव्यक्ति लंबी लड़ाई-वर्णना से अधिक याद रह जाती है।",
+          "ar": "أحيانا تبقى عبارة واحدة في الذاكرة أقوى من وصف طويل لمعركة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Битва при Амьене продолжалась с 8 по 11 августа 1918 года.",
     "de": "Die Schlacht bei Amiens dauerte vom 8. bis zum 11. August 1918.",
-    "en": "The Battle of Amiens lasted from 8 to 11 August 1918."
+    "en": "The Battle of Amiens lasted from 8 to 11 August 1918.",
+    "fr": "La bataille d'Amiens dura du 8 au 11 août 1918.",
+    "es": "La batalla de Amiens duró del 8 al 11 de agosto de 1918.",
+    "it": "La battaglia di Amiens durò dall'8 all'11 agosto 1918.",
+    "pt": "A Batalha de Amiens durou de 8 a 11 de agosto de 1918.",
+    "nl": "De Slag bij Amiens duurde van 8 tot 11 augustus 1918.",
+    "pl": "Bitwa pod Amiens trwała od 8 do 11 sierpnia 1918 roku.",
+    "tr": "Amiens Muharebesi 8-11 Ağustos 1918 arasında sürdü.",
+    "zh": "亚眠战役从1918年8月8日持续到8月11日。",
+    "ja": "アミアンの戦いは1918年8月8日から11日まで続いた。",
+    "ko": "아미앵 전투는 1918년 8월 8일부터 11일까지 이어졌다.",
+    "hi": "अमियां की लड़ाई 8 से 11 अगस्त 1918 तक चली।",
+    "ar": "استمرت معركة أميان من 8 إلى 11 أغسطس 1918."
   },
   "sources": [
     {
