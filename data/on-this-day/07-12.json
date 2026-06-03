@@ -11,17 +11,53 @@
     "title": {
       "ru": "Создан Рейнский союз",
       "de": "Der Rheinbund wird gegruendet",
-      "en": "The Confederation of the Rhine is created"
+      "en": "The Confederation of the Rhine is created",
+      "fr": "La Confédération du Rhin est créée",
+      "es": "Se crea la Confederación del Rin",
+      "it": "Viene creata la Confederazione del Reno",
+      "pt": "É criada a Confederação do Reno",
+      "nl": "De Rijnbond wordt opgericht",
+      "pl": "Powstaje Związek Reński",
+      "tr": "Ren Konfederasyonu kurulur",
+      "zh": "莱茵邦联成立",
+      "ja": "ライン同盟が創設される",
+      "ko": "라인 동맹이 만들어지다",
+      "hi": "राइन परिसंघ बनाया गया",
+      "ar": "إنشاء اتحاد الراين"
     },
     "description": {
       "ru": "12 июля 1806 года немецкие князья подписали договор о создании Рейнского союза под покровительством Наполеона. Через несколько недель Священная Римская империя прекратила существование.",
       "de": "Am 12. Juli 1806 unterzeichneten deutsche Fuersten den Vertrag zur Gruendung des Rheinbundes unter dem Schutz Napoleons. Wenige Wochen spaeter hoerte das Heilige Roemische Reich auf zu bestehen.",
-      "en": "On 12 July 1806, German princes signed the treaty creating the Confederation of the Rhine under Napoleon's protection. A few weeks later, the Holy Roman Empire ceased to exist."
+      "en": "On 12 July 1806, German princes signed the treaty creating the Confederation of the Rhine under Napoleon's protection. A few weeks later, the Holy Roman Empire ceased to exist.",
+      "fr": "Le 12 juillet 1806, des princes allemands signèrent le traité créant la Confédération du Rhin sous la protection de Napoléon. Quelques semaines plus tard, le Saint-Empire romain germanique cessa d'exister.",
+      "es": "El 12 de julio de 1806, príncipes alemanes firmaron el tratado que creaba la Confederación del Rin bajo la protección de Napoleón. Unas semanas después, el Sacro Imperio Romano Germánico dejó de existir.",
+      "it": "Il 12 luglio 1806 principi tedeschi firmarono il trattato che creava la Confederazione del Reno sotto la protezione di Napoleone. Poche settimane dopo, il Sacro Romano Impero cessò di esistere.",
+      "pt": "Em 12 de julho de 1806, príncipes alemães assinaram o tratado que criou a Confederação do Reno sob a proteção de Napoleão. Poucas semanas depois, o Sacro Império Romano deixou de existir.",
+      "nl": "Op 12 juli 1806 ondertekenden Duitse vorsten het verdrag tot oprichting van de Rijnbond onder bescherming van Napoleon. Enkele weken later hield het Heilige Roomse Rijk op te bestaan.",
+      "pl": "12 lipca 1806 roku niemieccy książęta podpisali traktat tworzący Związek Reński pod protektoratem Napoleona. Kilka tygodni później Święte Cesarstwo Rzymskie przestało istnieć.",
+      "tr": "12 Temmuz 1806'da Alman prensleri, Napolyon'un koruması altında Ren Konfederasyonu'nu kuran antlaşmayı imzaladı. Birkaç hafta sonra Kutsal Roma İmparatorluğu sona erdi.",
+      "zh": "1806年7月12日，德意志诸侯签署条约，在拿破仑保护下建立莱茵邦联。几周后，神圣罗马帝国停止存在。",
+      "ja": "1806年7月12日、ドイツの諸侯はナポレオンの保護下でライン同盟を創設する条約に署名した。数週間後、神聖ローマ帝国は消滅した。",
+      "ko": "1806년 7월 12일, 독일의 제후들은 나폴레옹의 보호 아래 라인 동맹을 만드는 조약에 서명했다. 몇 주 뒤 신성 로마 제국은 더 이상 존재하지 않게 되었다.",
+      "hi": "12 जुलाई 1806 को जर्मन राजकुमारों ने नेपोलियन के संरक्षण में राइन परिसंघ बनाने वाली संधि पर हस्ताक्षर किए। कुछ सप्ताह बाद पवित्र रोमन साम्राज्य समाप्त हो गया।",
+      "ar": "في 12 يوليو 1806 وقع أمراء ألمان معاهدة إنشاء اتحاد الراين تحت حماية نابليون. وبعد أسابيع قليلة انتهى وجود الإمبراطورية الرومانية المقدسة."
     },
     "importance": {
       "ru": "Это событие резко изменило политическую карту немецких земель.",
       "de": "Dieses Ereignis veraenderte die politische Karte der deutschen Laender grundlegend.",
-      "en": "The event dramatically changed the political map of the German lands."
+      "en": "The event dramatically changed the political map of the German lands.",
+      "fr": "Cet événement changea profondément la carte politique des terres allemandes.",
+      "es": "El acontecimiento cambió radicalmente el mapa político de las tierras alemanas.",
+      "it": "L'evento cambiò radicalmente la carta politica delle terre tedesche.",
+      "pt": "O acontecimento mudou profundamente o mapa político das terras alemãs.",
+      "nl": "De gebeurtenis veranderde de politieke kaart van de Duitse landen ingrijpend.",
+      "pl": "Wydarzenie radykalnie zmieniło polityczną mapę ziem niemieckich.",
+      "tr": "Bu olay Alman topraklarının siyasi haritasını köklü biçimde değiştirdi.",
+      "zh": "这一事件极大改变了德意志地区的政治地图。",
+      "ja": "この出来事はドイツ諸地域の政治地図を大きく変えた。",
+      "ko": "이 사건은 독일 지역의 정치 지도를 크게 바꾸었다.",
+      "hi": "इस घटना ने जर्मन क्षेत्रों के राजनीतिक नक्शे को गहराई से बदल दिया।",
+      "ar": "غيّر هذا الحدث الخريطة السياسية للأراضي الألمانية تغييرا كبيرا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Конец старой имперской системы",
           "de": "Das Ende der alten Reichsordnung",
-          "en": "The end of the old imperial order"
+          "en": "The end of the old imperial order",
+          "fr": "La fin de l'ancien ordre impérial",
+          "es": "El fin del antiguo orden imperial",
+          "it": "La fine del vecchio ordine imperiale",
+          "pt": "O fim da antiga ordem imperial",
+          "nl": "Het einde van de oude rijksorde",
+          "pl": "Koniec dawnego porządku cesarskiego",
+          "tr": "Eski imparatorluk düzeninin sonu",
+          "zh": "旧帝国秩序的终结",
+          "ja": "古い帝国秩序の終わり",
+          "ko": "옛 제국 질서의 끝",
+          "hi": "पुरानी साम्राज्य व्यवस्था का अंत",
+          "ar": "نهاية النظام الإمبراطوري القديم"
         },
         "description": {
           "ru": "Рейнский союз вывел многие немецкие государства из орбиты старой империи. Император Франц II вскоре сложил корону Священной Римской империи.",
           "de": "Der Rheinbund loeste viele deutsche Staaten aus der alten Reichsordnung. Kaiser Franz II. legte kurz darauf die Krone des Heiligen Roemischen Reiches nieder.",
-          "en": "The Confederation of the Rhine pulled many German states out of the old imperial order. Emperor Francis II soon laid down the crown of the Holy Roman Empire."
+          "en": "The Confederation of the Rhine pulled many German states out of the old imperial order. Emperor Francis II soon laid down the crown of the Holy Roman Empire.",
+          "fr": "La Confédération du Rhin retira de nombreux États allemands de l'ancien ordre impérial. L'empereur François II renonça peu après à la couronne du Saint-Empire romain germanique.",
+          "es": "La Confederación del Rin sacó a muchos estados alemanes del antiguo orden imperial. El emperador Francisco II dejó poco después la corona del Sacro Imperio Romano Germánico.",
+          "it": "La Confederazione del Reno sottrasse molti stati tedeschi al vecchio ordine imperiale. L'imperatore Francesco II depose poco dopo la corona del Sacro Romano Impero.",
+          "pt": "A Confederação do Reno retirou muitos estados alemães da antiga ordem imperial. O imperador Francisco II logo abandonou a coroa do Sacro Império Romano.",
+          "nl": "De Rijnbond haalde veel Duitse staten uit de oude rijksorde. Keizer Frans II legde kort daarna de kroon van het Heilige Roomse Rijk neer.",
+          "pl": "Związek Reński wyprowadził wiele państw niemieckich z dawnego porządku cesarskiego. Cesarz Franciszek II wkrótce złożył koronę Świętego Cesarstwa Rzymskiego.",
+          "tr": "Ren Konfederasyonu birçok Alman devletini eski imparatorluk düzeninden çıkardı. İmparator II. Franz kısa süre sonra Kutsal Roma İmparatorluğu tacını bıraktı.",
+          "zh": "莱茵邦联使许多德意志国家脱离旧帝国秩序。皇帝弗朗茨二世不久后放弃了神圣罗马帝国皇冠。",
+          "ja": "ライン同盟は多くのドイツ諸邦を古い帝国秩序から引き離した。皇帝フランツ2世はまもなく神聖ローマ帝国の冠を退いた。",
+          "ko": "라인 동맹은 많은 독일 국가들을 옛 제국 질서에서 떼어 냈다. 황제 프란츠 2세는 곧 신성 로마 제국의 황관을 내려놓았다.",
+          "hi": "राइन परिसंघ ने कई जर्मन राज्यों को पुरानी साम्राज्य व्यवस्था से बाहर कर दिया। सम्राट फ्रांसिस द्वितीय ने जल्द ही पवित्र रोमन साम्राज्य का ताज छोड़ दिया।",
+          "ar": "أخرج اتحاد الراين كثيرا من الدول الألمانية من النظام الإمبراطوري القديم. وبعد وقت قصير تخلى الإمبراطور فرانتس الثاني عن تاج الإمبراطورية الرومانية المقدسة."
         },
         "importance": {
           "ru": "Для карты Германии это один из ключевых моментов между средневековой империей и современными государствами.",
           "de": "Fuer die Karte Deutschlands ist das einer der Schluesselmomente zwischen mittelalterlichem Reich und modernen Staaten.",
-          "en": "For Germany's map, it is one of the key moments between the medieval empire and modern states."
+          "en": "For Germany's map, it is one of the key moments between the medieval empire and modern states.",
+          "fr": "Pour la carte de l'Allemagne, c'est l'un des moments clés entre l'empire médiéval et les États modernes.",
+          "es": "Para el mapa de Alemania, es uno de los momentos clave entre el imperio medieval y los estados modernos.",
+          "it": "Per la carta della Germania, è uno dei momenti chiave tra l'impero medievale e gli stati moderni.",
+          "pt": "Para o mapa da Alemanha, é um dos momentos-chave entre o império medieval e os estados modernos.",
+          "nl": "Voor de kaart van Duitsland is dit een van de sleutelmomenten tussen het middeleeuwse rijk en moderne staten.",
+          "pl": "Dla mapy Niemiec to jeden z kluczowych momentów między średniowiecznym cesarstwem a nowoczesnymi państwami.",
+          "tr": "Almanya haritası için bu, ortaçağ imparatorluğu ile modern devletler arasındaki kilit anlardan biridir.",
+          "zh": "对于德国地图来说，这是中世纪帝国与现代国家之间的关键时刻之一。",
+          "ja": "ドイツの地図にとって、これは中世の帝国と近代国家の間にある重要な転換点の一つである。",
+          "ko": "독일 지도에서 이는 중세 제국과 현대 국가들 사이의 핵심 순간 중 하나이다.",
+          "hi": "जर्मनी के नक्शे के लिए यह मध्ययुगीन साम्राज्य और आधुनिक राज्यों के बीच प्रमुख क्षणों में से एक है।",
+          "ar": "بالنسبة إلى خريطة ألمانيا، فهو أحد اللحظات الرئيسية بين الإمبراطورية القروسطية والدول الحديثة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Германия ещё не была единой страной",
           "de": "Deutschland war noch kein einheitliches Land",
-          "en": "Germany was not yet a unified country"
+          "en": "Germany was not yet a unified country",
+          "fr": "L'Allemagne n'était pas encore un pays unifié",
+          "es": "Alemania aún no era un país unificado",
+          "it": "La Germania non era ancora un paese unificato",
+          "pt": "A Alemanha ainda não era um país unificado",
+          "nl": "Duitsland was nog geen verenigd land",
+          "pl": "Niemcy nie były jeszcze zjednoczonym krajem",
+          "tr": "Almanya henüz birleşik bir ülke değildi",
+          "zh": "德国当时还不是统一国家",
+          "ja": "ドイツはまだ統一国家ではなかった",
+          "ko": "독일은 아직 통일된 나라가 아니었다",
+          "hi": "जर्मनी तब तक एकीकृत देश नहीं था",
+          "ar": "لم تكن ألمانيا بعد بلدا موحدا"
         },
         "description": {
           "ru": "В начале XIX века на немецких землях существовало множество княжеств, королевств и городов. Поэтому «история Германии» тогда часто была историей меняющихся союзов.",
           "de": "Anfang des 19. Jahrhunderts gab es in den deutschen Laendern viele Fuerstentuemer, Koenigreiche und Staedte. Darum war deutsche Geschichte damals oft Geschichte wechselnder Buendnisse.",
-          "en": "At the beginning of the 19th century, the German lands contained many principalities, kingdoms and cities. German history was therefore often a history of shifting alliances."
+          "en": "At the beginning of the 19th century, the German lands contained many principalities, kingdoms and cities. German history was therefore often a history of shifting alliances.",
+          "fr": "Au début du XIXe siècle, les terres allemandes comptaient de nombreuses principautés, royaumes et villes. L'histoire allemande était donc souvent l'histoire d'alliances changeantes.",
+          "es": "A comienzos del siglo XIX, las tierras alemanas contenían muchos principados, reinos y ciudades. Por eso la historia alemana era a menudo una historia de alianzas cambiantes.",
+          "it": "All'inizio del XIX secolo, le terre tedesche comprendevano molti principati, regni e città. Perciò la storia tedesca era spesso storia di alleanze mutevoli.",
+          "pt": "No início do século XIX, as terras alemãs continham muitos principados, reinos e cidades. Por isso, a história alemã era frequentemente uma história de alianças mutáveis.",
+          "nl": "Aan het begin van de negentiende eeuw bestonden de Duitse landen uit veel vorstendommen, koninkrijken en steden. Duitse geschiedenis was daarom vaak een geschiedenis van wisselende bondgenootschappen.",
+          "pl": "Na początku XIX wieku na ziemiach niemieckich istniało wiele księstw, królestw i miast. Dlatego historia Niemiec była często historią zmieniających się sojuszy.",
+          "tr": "19. yüzyılın başında Alman topraklarında birçok prenslik, krallık ve şehir vardı. Bu yüzden Alman tarihi çoğu zaman değişen ittifakların tarihiydi.",
+          "zh": "19世纪初，德意志地区有许多公国、王国和城市。因此，德国历史常常是不断变化的同盟史。",
+          "ja": "19世紀初め、ドイツの諸地域には多くの公国、王国、都市が存在していた。そのためドイツ史はしばしば変化する同盟の歴史でもあった。",
+          "ko": "19세기 초 독일 지역에는 많은 공국, 왕국, 도시가 있었다. 그래서 독일 역사는 종종 변화하는 동맹의 역사이기도 했다.",
+          "hi": "उन्नीसवीं सदी की शुरुआत में जर्मन क्षेत्रों में अनेक रियासतें, राज्य और शहर थे। इसलिए जर्मन इतिहास अक्सर बदलते गठबंधनों का इतिहास था।",
+          "ar": "في بداية القرن التاسع عشر ضمت الأراضي الألمانية كثيرا من الإمارات والممالك والمدن. لذلك كان التاريخ الألماني غالبا تاريخ تحالفات متغيرة."
         },
         "importance": {
           "ru": "Это хорошо объясняет, почему карты немецкой истории так сильно меняются от эпохи к эпохе.",
           "de": "Das erklaert gut, warum Karten der deutschen Geschichte von Epoche zu Epoche so stark wechseln.",
-          "en": "This helps explain why maps of German history change so much from one era to another."
+          "en": "This helps explain why maps of German history change so much from one era to another.",
+          "fr": "Cela aide à expliquer pourquoi les cartes de l'histoire allemande changent autant d'une époque à l'autre.",
+          "es": "Esto ayuda a explicar por qué los mapas de la historia alemana cambian tanto de una época a otra.",
+          "it": "Questo aiuta a spiegare perché le mappe della storia tedesca cambiano così tanto da un'epoca all'altra.",
+          "pt": "Isso ajuda a explicar por que os mapas da história alemã mudam tanto de uma época para outra.",
+          "nl": "Dit helpt verklaren waarom kaarten van de Duitse geschiedenis zo sterk veranderen van tijdperk tot tijdperk.",
+          "pl": "Pomaga to wyjaśnić, dlaczego mapy historii Niemiec tak bardzo zmieniają się z epoki na epokę.",
+          "tr": "Bu, Alman tarihinin haritalarının neden dönemden döneme bu kadar değiştiğini açıklamaya yardımcı olur.",
+          "zh": "这有助于解释为什么德国历史地图会随时代发生如此大的变化。",
+          "ja": "これは、ドイツ史の地図が時代ごとに大きく変わる理由を説明する助けになる。",
+          "ko": "이는 독일 역사 지도가 시대마다 왜 그렇게 많이 변하는지 설명하는 데 도움이 된다.",
+          "hi": "यह समझाने में मदद करता है कि जर्मन इतिहास के नक्शे एक युग से दूसरे युग तक इतने बदलते क्यों हैं।",
+          "ar": "يساعد ذلك على تفسير سبب تغير خرائط التاريخ الألماني كثيرا من عصر إلى آخر."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Рейнский союз просуществовал до 1813 года, когда поражения Наполеона разрушили его систему союзов.",
     "de": "Der Rheinbund bestand bis 1813, als Napoleons Niederlagen sein Buendnissystem zerfallen liessen.",
-    "en": "The Confederation of the Rhine lasted until 1813, when Napoleon's defeats caused his alliance system to collapse."
+    "en": "The Confederation of the Rhine lasted until 1813, when Napoleon's defeats caused his alliance system to collapse.",
+    "fr": "La Confédération du Rhin dura jusqu'en 1813, lorsque les défaites de Napoléon provoquèrent l'effondrement de son système d'alliances.",
+    "es": "La Confederación del Rin duró hasta 1813, cuando las derrotas de Napoleón hicieron colapsar su sistema de alianzas.",
+    "it": "La Confederazione del Reno durò fino al 1813, quando le sconfitte di Napoleone fecero crollare il suo sistema di alleanze.",
+    "pt": "A Confederação do Reno durou até 1813, quando as derrotas de Napoleão fizeram seu sistema de alianças ruir.",
+    "nl": "De Rijnbond bestond tot 1813, toen Napoleons nederlagen zijn bondgenootschapssysteem deden instorten.",
+    "pl": "Związek Reński istniał do 1813 roku, gdy klęski Napoleona doprowadziły do upadku jego systemu sojuszy.",
+    "tr": "Ren Konfederasyonu 1813'e kadar sürdü; o yıl Napolyon'un yenilgileri ittifak sisteminin çökmesine yol açtı.",
+    "zh": "莱茵邦联一直存在到1813年，拿破仑的失败导致其同盟体系崩溃。",
+    "ja": "ライン同盟は1813年まで続いたが、ナポレオンの敗北によって彼の同盟体系は崩壊した。",
+    "ko": "라인 동맹은 1813년까지 지속되었고, 나폴레옹의 패배가 그의 동맹 체계를 무너뜨렸다.",
+    "hi": "राइन परिसंघ 1813 तक चला, जब नेपोलियन की हारों ने उसकी गठबंधन व्यवस्था को ढहा दिया।",
+    "ar": "استمر اتحاد الراين حتى عام 1813، عندما أدت هزائم نابليون إلى انهيار نظام تحالفاته."
   },
   "sources": [
     {

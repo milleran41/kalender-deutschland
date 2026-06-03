@@ -11,17 +11,53 @@
     "title": {
       "ru": "Германия стала чемпионом мира по футболу",
       "de": "Deutschland wird Fussball-Weltmeister",
-      "en": "Germany wins the FIFA World Cup"
+      "en": "Germany wins the FIFA World Cup",
+      "fr": "L'Allemagne remporte la Coupe du monde de football",
+      "es": "Alemania gana la Copa Mundial de fútbol",
+      "it": "La Germania vince la Coppa del Mondo di calcio",
+      "pt": "A Alemanha vence a Copa do Mundo de futebol",
+      "nl": "Duitsland wint het wereldkampioenschap voetbal",
+      "pl": "Niemcy wygrywają piłkarskie mistrzostwa świata",
+      "tr": "Almanya FIFA Dünya Kupası'nı kazanır",
+      "zh": "德国赢得世界杯足球赛",
+      "ja": "ドイツがFIFAワールドカップで優勝",
+      "ko": "독일이 FIFA 월드컵에서 우승하다",
+      "hi": "जर्मनी ने फीफा विश्व कप जीता",
+      "ar": "ألمانيا تفوز بكأس العالم لكرة القدم"
     },
     "description": {
       "ru": "13 июля 2014 года Германия победила Аргентину в финале чемпионата мира по футболу в Рио-де-Жанейро. Победный гол в дополнительное время забил Марио Гётце.",
       "de": "Am 13. Juli 2014 besiegte Deutschland Argentinien im Finale der Fussball-Weltmeisterschaft in Rio de Janeiro. Das Siegtor in der Verlaengerung erzielte Mario Goetze.",
-      "en": "On 13 July 2014, Germany defeated Argentina in the FIFA World Cup final in Rio de Janeiro. Mario Goetze scored the winning goal in extra time."
+      "en": "On 13 July 2014, Germany defeated Argentina in the FIFA World Cup final in Rio de Janeiro. Mario Goetze scored the winning goal in extra time.",
+      "fr": "Le 13 juillet 2014, l'Allemagne battit l'Argentine en finale de la Coupe du monde de football à Rio de Janeiro. Mario Goetze marqua le but de la victoire pendant la prolongation.",
+      "es": "El 13 de julio de 2014, Alemania derrotó a Argentina en la final de la Copa Mundial de fútbol en Río de Janeiro. Mario Goetze marcó el gol de la victoria en la prórroga.",
+      "it": "Il 13 luglio 2014 la Germania sconfisse l'Argentina nella finale della Coppa del Mondo a Rio de Janeiro. Mario Goetze segnò il gol della vittoria nei tempi supplementari.",
+      "pt": "Em 13 de julho de 2014, a Alemanha derrotou a Argentina na final da Copa do Mundo no Rio de Janeiro. Mario Goetze marcou o gol da vitória na prorrogação.",
+      "nl": "Op 13 juli 2014 versloeg Duitsland Argentinië in de WK-finale in Rio de Janeiro. Mario Goetze maakte het winnende doelpunt in de verlenging.",
+      "pl": "13 lipca 2014 roku Niemcy pokonały Argentynę w finale mistrzostw świata w Rio de Janeiro. Mario Goetze strzelił zwycięskiego gola w dogrywce.",
+      "tr": "13 Temmuz 2014'te Almanya, Rio de Janeiro'daki FIFA Dünya Kupası finalinde Arjantin'i yendi. Mario Goetze uzatma dakikalarında galibiyet golünü attı.",
+      "zh": "2014年7月13日，德国在里约热内卢的世界杯决赛中击败阿根廷。马里奥·格策在加时赛中打入制胜球。",
+      "ja": "2014年7月13日、ドイツはリオデジャネイロで行われたFIFAワールドカップ決勝でアルゼンチンを破った。マリオ・ゲッツェが延長戦で決勝点を決めた。",
+      "ko": "2014년 7월 13일, 독일은 리우데자네이루에서 열린 FIFA 월드컵 결승에서 아르헨티나를 이겼다. 마리오 괴체가 연장전에서 결승골을 넣었다.",
+      "hi": "13 जुलाई 2014 को जर्मनी ने रियो डी जेनेरो में फीफा विश्व कप फाइनल में अर्जेंटीना को हराया। मारियो ग्योत्से ने अतिरिक्त समय में विजयी गोल किया।",
+      "ar": "في 13 يوليو 2014 هزمت ألمانيا الأرجنتين في نهائي كأس العالم لكرة القدم في ريو دي جانيرو. وسجل ماريو غوتسه هدف الفوز في الوقت الإضافي."
     },
     "importance": {
       "ru": "Это был четвёртый титул Германии на чемпионатах мира и первый после объединения страны.",
       "de": "Es war Deutschlands vierter WM-Titel und der erste nach der Wiedervereinigung.",
-      "en": "It was Germany's fourth World Cup title and the first after reunification."
+      "en": "It was Germany's fourth World Cup title and the first after reunification.",
+      "fr": "C'était le quatrième titre mondial de l'Allemagne et le premier après la réunification.",
+      "es": "Fue el cuarto título mundial de Alemania y el primero después de la reunificación.",
+      "it": "Fu il quarto titolo mondiale della Germania e il primo dopo la riunificazione.",
+      "pt": "Foi o quarto título mundial da Alemanha e o primeiro após a reunificação.",
+      "nl": "Het was Duitslands vierde wereldtitel en de eerste na de hereniging.",
+      "pl": "Był to czwarty tytuł mistrza świata dla Niemiec i pierwszy po zjednoczeniu.",
+      "tr": "Bu Almanya'nın dördüncü Dünya Kupası şampiyonluğu ve birleşmeden sonraki ilkiydi.",
+      "zh": "这是德国第四次获得世界杯冠军，也是统一后的第一次。",
+      "ja": "これはドイツ4度目のワールドカップ優勝であり、再統一後初めての優勝だった。",
+      "ko": "이는 독일의 네 번째 월드컵 우승이자 통일 이후 첫 우승이었다.",
+      "hi": "यह जर्मनी का चौथा विश्व कप खिताब और पुनर्एकीकरण के बाद पहला था।",
+      "ar": "كان ذلك اللقب العالمي الرابع لألمانيا والأول بعد إعادة التوحيد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Гол Гётце в дополнительное время",
           "de": "Goetzes Tor in der Verlaengerung",
-          "en": "Goetze's extra-time goal"
+          "en": "Goetze's extra-time goal",
+          "fr": "Le but de Goetze en prolongation",
+          "es": "El gol de Goetze en la prórroga",
+          "it": "Il gol di Goetze nei supplementari",
+          "pt": "O gol de Goetze na prorrogação",
+          "nl": "Goetzes doelpunt in de verlenging",
+          "pl": "Gol Goetzego w dogrywce",
+          "tr": "Goetze'nin uzatma golü",
+          "zh": "格策的加时进球",
+          "ja": "ゲッツェの延長戦ゴール",
+          "ko": "괴체의 연장전 골",
+          "hi": "अतिरिक्त समय में ग्योत्से का गोल",
+          "ar": "هدف غوتسه في الوقت الإضافي"
         },
         "description": {
           "ru": "Матч долго оставался без голов, и всё решил один момент в конце дополнительного времени. Для болельщиков это стало одной из самых ярких сцен немецкого спорта XXI века.",
           "de": "Das Spiel blieb lange torlos, und ein Moment am Ende der Verlaengerung entschied alles. Fuer Fans wurde es zu einer der praegendsten Szenen des deutschen Sports im 21. Jahrhundert.",
-          "en": "The match stayed goalless for a long time, and one moment late in extra time decided everything. For fans, it became one of the defining scenes of German sport in the 21st century."
+          "en": "The match stayed goalless for a long time, and one moment late in extra time decided everything. For fans, it became one of the defining scenes of German sport in the 21st century.",
+          "fr": "Le match resta longtemps sans but, puis un moment à la fin de la prolongation décida de tout. Pour les supporters, ce fut l'une des scènes marquantes du sport allemand au XXIe siècle.",
+          "es": "El partido permaneció mucho tiempo sin goles, y un momento al final de la prórroga lo decidió todo. Para los aficionados, se convirtió en una de las escenas definitorias del deporte alemán del siglo XXI.",
+          "it": "La partita rimase a lungo senza gol, e un momento alla fine dei supplementari decise tutto. Per i tifosi divenne una delle scene simbolo dello sport tedesco nel XXI secolo.",
+          "pt": "A partida ficou muito tempo sem gols, e um momento no fim da prorrogação decidiu tudo. Para os torcedores, tornou-se uma das cenas marcantes do esporte alemão no século XXI.",
+          "nl": "De wedstrijd bleef lang doelpuntloos, en één moment laat in de verlenging besliste alles. Voor supporters werd het een van de bepalende scènes van de Duitse sport in de 21e eeuw.",
+          "pl": "Mecz długo pozostawał bezbramkowy, a jeden moment pod koniec dogrywki rozstrzygnął wszystko. Dla kibiców stał się jedną z najważniejszych scen niemieckiego sportu XXI wieku.",
+          "tr": "Maç uzun süre golsüz kaldı ve uzatmaların sonundaki tek bir an her şeyi belirledi. Taraftarlar için bu, 21. yüzyıl Alman sporunun belirleyici sahnelerinden biri oldu.",
+          "zh": "比赛很长时间没有进球，加时赛末段的一个瞬间决定了一切。对球迷来说，这成为21世纪德国体育的标志性场景之一。",
+          "ja": "試合は長い間無得点のまま進み、延長戦終盤の一瞬がすべてを決めた。ファンにとって、それは21世紀のドイツスポーツを象徴する場面の一つとなった。",
+          "ko": "경기는 오랫동안 무득점으로 이어졌고, 연장전 막판의 한 순간이 모든 것을 결정했다. 팬들에게 이는 21세기 독일 스포츠를 대표하는 장면 중 하나가 되었다.",
+          "hi": "मैच लंबे समय तक बिना गोल के रहा, और अतिरिक्त समय के अंत में एक क्षण ने सब कुछ तय कर दिया। प्रशंसकों के लिए यह 21वीं सदी के जर्मन खेलों के प्रमुख दृश्यों में से एक बन गया।",
+          "ar": "بقيت المباراة بلا أهداف لفترة طويلة، ثم حسمت لحظة واحدة في أواخر الوقت الإضافي كل شيء. وبالنسبة إلى المشجعين أصبحت إحدى اللقطات المميزة للرياضة الألمانية في القرن الحادي والعشرين."
         },
         "importance": {
           "ru": "Финал 2014 года хорошо показывает, как спорт становится частью общей памяти страны.",
           "de": "Das Finale von 2014 zeigt gut, wie Sport Teil des gemeinsamen Gedaechtnisses eines Landes wird.",
-          "en": "The 2014 final shows how sport becomes part of a country's shared memory."
+          "en": "The 2014 final shows how sport becomes part of a country's shared memory.",
+          "fr": "La finale de 2014 montre comment le sport devient une partie de la mémoire commune d'un pays.",
+          "es": "La final de 2014 muestra cómo el deporte se convierte en parte de la memoria compartida de un país.",
+          "it": "La finale del 2014 mostra come lo sport diventi parte della memoria condivisa di un paese.",
+          "pt": "A final de 2014 mostra como o esporte se torna parte da memória compartilhada de um país.",
+          "nl": "De finale van 2014 laat zien hoe sport deel wordt van het gedeelde geheugen van een land.",
+          "pl": "Finał z 2014 roku pokazuje, jak sport staje się częścią wspólnej pamięci kraju.",
+          "tr": "2014 finali, sporun bir ülkenin ortak hafızasının nasıl parçası olduğunu gösterir.",
+          "zh": "2014年决赛说明体育如何成为一个国家共同记忆的一部分。",
+          "ja": "2014年の決勝は、スポーツが国の共有された記憶の一部になることを示している。",
+          "ko": "2014년 결승전은 스포츠가 한 나라의 공유 기억의 일부가 되는 방식을 보여 준다.",
+          "hi": "2014 का फाइनल दिखाता है कि खेल किसी देश की साझा स्मृति का हिस्सा कैसे बनता है।",
+          "ar": "يوضح نهائي 2014 كيف تصبح الرياضة جزءا من الذاكرة المشتركة لبلد ما."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "В том же турнире Германия победила Бразилию 7:1 в полуфинале, что стало одним из самых обсуждаемых матчей в истории чемпионатов мира.",
     "de": "Im selben Turnier besiegte Deutschland Brasilien im Halbfinale mit 7:1, eines der meistdiskutierten Spiele der WM-Geschichte.",
-    "en": "In the same tournament, Germany beat Brazil 7-1 in the semifinal, one of the most discussed matches in World Cup history."
+    "en": "In the same tournament, Germany beat Brazil 7-1 in the semifinal, one of the most discussed matches in World Cup history.",
+    "fr": "Dans le même tournoi, l'Allemagne battit le Brésil 7-1 en demi-finale, l'un des matchs les plus commentés de l'histoire de la Coupe du monde.",
+    "es": "En el mismo torneo, Alemania venció a Brasil 7-1 en la semifinal, uno de los partidos más comentados de la historia de los Mundiales.",
+    "it": "Nello stesso torneo, la Germania batté il Brasile 7-1 in semifinale, una delle partite più discusse nella storia dei Mondiali.",
+    "pt": "No mesmo torneio, a Alemanha venceu o Brasil por 7 a 1 na semifinal, uma das partidas mais comentadas da história das Copas.",
+    "nl": "In hetzelfde toernooi versloeg Duitsland Brazilië met 7-1 in de halve finale, een van de meest besproken wedstrijden in de WK-geschiedenis.",
+    "pl": "W tym samym turnieju Niemcy pokonały Brazylię 7:1 w półfinale, w jednym z najczęściej omawianych meczów w historii mistrzostw świata.",
+    "tr": "Aynı turnuvada Almanya yarı finalde Brezilya'yı 7-1 yendi; bu maç Dünya Kupası tarihinin en çok konuşulan maçlarından biri oldu.",
+    "zh": "在同一届赛事中，德国在半决赛中以7比1击败巴西，成为世界杯历史上最受讨论的比赛之一。",
+    "ja": "同じ大会で、ドイツは準決勝でブラジルを7対1で破った。これはワールドカップ史上最も語られる試合の一つとなった。",
+    "ko": "같은 대회에서 독일은 준결승에서 브라질을 7대 1로 이겼고, 이는 월드컵 역사상 가장 많이 이야기된 경기 중 하나가 되었다.",
+    "hi": "इसी टूर्नामेंट में जर्मनी ने सेमीफाइनल में ब्राज़ील को 7-1 से हराया, जो विश्व कप इतिहास के सबसे चर्चित मैचों में से एक बना।",
+    "ar": "في البطولة نفسها فازت ألمانيا على البرازيل 7-1 في نصف النهائي، في واحدة من أكثر المباريات حديثا في تاريخ كأس العالم."
   },
   "sources": [
     {

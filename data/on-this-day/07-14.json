@@ -11,17 +11,53 @@
     "title": {
       "ru": "Нацистская партия стала единственной легальной партией",
       "de": "Die NSDAP wird die einzige legale Partei",
-      "en": "The Nazi Party becomes the only legal party"
+      "en": "The Nazi Party becomes the only legal party",
+      "fr": "Le parti nazi devient le seul parti légal",
+      "es": "El Partido Nazi se convierte en el único partido legal",
+      "it": "Il Partito nazista diventa l'unico partito legale",
+      "pt": "O Partido Nazista torna-se o único partido legal",
+      "nl": "De NSDAP wordt de enige legale partij",
+      "pl": "Partia nazistowska staje się jedyną legalną partią",
+      "tr": "Nazi Partisi tek yasal parti olur",
+      "zh": "纳粹党成为唯一合法政党",
+      "ja": "ナチ党が唯一の合法政党となる",
+      "ko": "나치당이 유일한 합법 정당이 되다",
+      "hi": "नाजी पार्टी एकमात्र वैध पार्टी बनी",
+      "ar": "الحزب النازي يصبح الحزب القانوني الوحيد"
     },
     "description": {
       "ru": "14 июля 1933 года был принят закон против образования новых партий. Германия стала однопартийным государством под властью НСДАП.",
       "de": "Am 14. Juli 1933 wurde das Gesetz gegen die Neubildung von Parteien erlassen. Deutschland wurde zu einem Einparteienstaat unter der NSDAP.",
-      "en": "On 14 July 1933, the Law Against the Formation of New Parties was enacted. Germany became a one-party state under the Nazi Party."
+      "en": "On 14 July 1933, the Law Against the Formation of New Parties was enacted. Germany became a one-party state under the Nazi Party.",
+      "fr": "Le 14 juillet 1933, la loi contre la formation de nouveaux partis fut promulguée. L'Allemagne devint un État à parti unique sous le parti nazi.",
+      "es": "El 14 de julio de 1933 se promulgó la Ley contra la formación de nuevos partidos. Alemania se convirtió en un Estado de partido único bajo el Partido Nazi.",
+      "it": "Il 14 luglio 1933 fu emanata la legge contro la formazione di nuovi partiti. La Germania divenne uno Stato a partito unico sotto il Partito nazista.",
+      "pt": "Em 14 de julho de 1933, foi promulgada a Lei Contra a Formação de Novos Partidos. A Alemanha tornou-se um Estado de partido único sob o Partido Nazista.",
+      "nl": "Op 14 juli 1933 werd de wet tegen de vorming van nieuwe partijen uitgevaardigd. Duitsland werd een eenpartijstaat onder de NSDAP.",
+      "pl": "14 lipca 1933 roku uchwalono ustawę przeciw tworzeniu nowych partii. Niemcy stały się państwem jednopartyjnym pod rządami partii nazistowskiej.",
+      "tr": "14 Temmuz 1933'te Yeni Partilerin Kurulmasına Karşı Yasa çıkarıldı. Almanya Nazi Partisi altında tek partili bir devlet oldu.",
+      "zh": "1933年7月14日，《禁止成立新政党法》颁布。德国成为纳粹党统治下的一党制国家。",
+      "ja": "1933年7月14日、新政党結成禁止法が制定された。ドイツはナチ党の下で一党国家となった。",
+      "ko": "1933년 7월 14일, 새로운 정당 결성을 금지하는 법이 제정되었다. 독일은 나치당 아래의 일당 국가가 되었다.",
+      "hi": "14 जुलाई 1933 को नए दलों के गठन के खिलाफ कानून लागू किया गया। जर्मनी नाजी पार्टी के अधीन एक-दलीय राज्य बन गया।",
+      "ar": "في 14 يوليو 1933 صدر قانون منع تشكيل أحزاب جديدة. وأصبحت ألمانيا دولة حزب واحد تحت الحزب النازي."
     },
     "importance": {
       "ru": "Это юридически закрепило уничтожение политического плюрализма.",
       "de": "Damit wurde die Zerstoerung des politischen Pluralismus rechtlich festgeschrieben.",
-      "en": "It legally fixed the destruction of political pluralism."
+      "en": "It legally fixed the destruction of political pluralism.",
+      "fr": "Cela fixa juridiquement la destruction du pluralisme politique.",
+      "es": "Esto fijó legalmente la destrucción del pluralismo político.",
+      "it": "Ciò sancì legalmente la distruzione del pluralismo politico.",
+      "pt": "Isso consolidou legalmente a destruição do pluralismo político.",
+      "nl": "Daarmee werd de vernietiging van het politieke pluralisme juridisch vastgelegd.",
+      "pl": "Prawnie utrwaliło to zniszczenie pluralizmu politycznego.",
+      "tr": "Bu, siyasi çoğulculuğun yok edilmesini hukuken sabitledi.",
+      "zh": "这在法律上固定了政治多元主义的毁灭。",
+      "ja": "これは政治的多元主義の破壊を法的に固定した。",
+      "ko": "이는 정치적 다원주의의 파괴를 법적으로 고정했다.",
+      "hi": "इसने राजनीतिक बहुलवाद के विनाश को कानूनी रूप से स्थिर कर दिया।",
+      "ar": "ثبت ذلك قانونيا تدمير التعددية السياسية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Шаг к полной унификации общества",
           "de": "Ein Schritt zur Gleichschaltung",
-          "en": "A step toward forced coordination"
+          "en": "A step toward forced coordination",
+          "fr": "Un pas vers la mise au pas forcée",
+          "es": "Un paso hacia la coordinación forzada",
+          "it": "Un passo verso la coordinazione forzata",
+          "pt": "Um passo rumo à coordenação forçada",
+          "nl": "Een stap naar gedwongen gelijkschakeling",
+          "pl": "Krok ku wymuszonej unifikacji",
+          "tr": "Zorla hizaya sokmaya doğru bir adım",
+          "zh": "迈向强制一体化的一步",
+          "ja": "強制的な統制への一歩",
+          "ko": "강제적 동원 체제로 가는 한 걸음",
+          "hi": "जबरन समन्वय की ओर एक कदम",
+          "ar": "خطوة نحو التنسيق القسري"
         },
         "description": {
           "ru": "После запрета партий нацистам было легче подчинять государство, союзы, прессу и общественные организации. Политическая жизнь стала контролируемой сверху.",
           "de": "Nach dem Parteienverbot konnten die Nationalsozialisten Staat, Verbaende, Presse und Organisationen leichter unterwerfen. Das politische Leben wurde von oben kontrolliert.",
-          "en": "After the party ban, the Nazis could more easily control the state, associations, press and organizations. Political life was controlled from above."
+          "en": "After the party ban, the Nazis could more easily control the state, associations, press and organizations. Political life was controlled from above.",
+          "fr": "Après l'interdiction des partis, les nazis purent plus facilement contrôler l'État, les associations, la presse et les organisations. La vie politique fut contrôlée d'en haut.",
+          "es": "Tras la prohibición de los partidos, los nazis pudieron controlar con más facilidad el Estado, las asociaciones, la prensa y las organizaciones. La vida política quedó controlada desde arriba.",
+          "it": "Dopo il divieto dei partiti, i nazisti poterono controllare più facilmente lo Stato, le associazioni, la stampa e le organizzazioni. La vita politica fu controllata dall'alto.",
+          "pt": "Após a proibição dos partidos, os nazistas puderam controlar com mais facilidade o Estado, associações, imprensa e organizações. A vida política passou a ser controlada de cima.",
+          "nl": "Na het partijverbod konden de nazi's de staat, verenigingen, pers en organisaties gemakkelijker controleren. Het politieke leven werd van bovenaf gestuurd.",
+          "pl": "Po zakazie partii naziści mogli łatwiej kontrolować państwo, związki, prasę i organizacje. Życie polityczne było sterowane odgórnie.",
+          "tr": "Parti yasağından sonra Naziler devleti, dernekleri, basını ve örgütleri daha kolay kontrol edebildi. Siyasal yaşam yukarıdan denetlendi.",
+          "zh": "政党被禁止后，纳粹更容易控制国家、协会、新闻界和组织。政治生活受到自上而下的控制。",
+          "ja": "政党禁止の後、ナチは国家、団体、報道、組織をより容易に支配できるようになった。政治生活は上から統制された。",
+          "ko": "정당 금지 이후 나치는 국가, 단체, 언론, 조직을 더 쉽게 통제할 수 있었다. 정치 생활은 위에서 통제되었다.",
+          "hi": "दल प्रतिबंध के बाद नाजियों के लिए राज्य, संघों, प्रेस और संगठनों को नियंत्रित करना आसान हो गया। राजनीतिक जीवन ऊपर से नियंत्रित होने लगा।",
+          "ar": "بعد حظر الأحزاب تمكن النازيون بسهولة أكبر من السيطرة على الدولة والجمعيات والصحافة والمنظمات. وأصبحت الحياة السياسية خاضعة للسيطرة من الأعلى."
         },
         "importance": {
           "ru": "Дата показывает, что диктатура строилась не одним ударом, а цепочкой решений.",
           "de": "Das Datum zeigt, dass die Diktatur nicht durch einen einzigen Schlag, sondern durch eine Kette von Entscheidungen entstand.",
-          "en": "The date shows that dictatorship was built not in one blow but through a chain of decisions."
+          "en": "The date shows that dictatorship was built not in one blow but through a chain of decisions.",
+          "fr": "Cette date montre que la dictature ne fut pas construite d'un seul coup, mais par une chaîne de décisions.",
+          "es": "La fecha muestra que la dictadura no se construyó de un solo golpe, sino mediante una cadena de decisiones.",
+          "it": "La data mostra che la dittatura non fu costruita con un solo colpo, ma attraverso una catena di decisioni.",
+          "pt": "A data mostra que a ditadura não foi construída de uma só vez, mas por uma cadeia de decisões.",
+          "nl": "De datum laat zien dat de dictatuur niet in één klap werd gebouwd, maar via een reeks besluiten.",
+          "pl": "Ta data pokazuje, że dyktaturę budowano nie jednym ciosem, lecz przez łańcuch decyzji.",
+          "tr": "Bu tarih, diktatörlüğün tek bir darbeyle değil, bir kararlar zinciriyle kurulduğunu gösterir.",
+          "zh": "这个日期说明，独裁不是一次性建立的，而是通过一连串决定形成的。",
+          "ja": "この日は、独裁が一撃で築かれたのではなく、一連の決定を通じて作られたことを示している。",
+          "ko": "이 날짜는 독재가 한 번의 타격이 아니라 일련의 결정들을 통해 만들어졌음을 보여 준다.",
+          "hi": "यह तारीख दिखाती है कि तानाशाही एक ही झटके में नहीं, बल्कि निर्णयों की श्रृंखला से बनी।",
+          "ar": "يبين هذا التاريخ أن الدكتاتورية لم تُبن بضربة واحدة، بل عبر سلسلة من القرارات."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "К лету 1933 года многие партии уже были запрещены или вынуждены самораспуститься.",
     "de": "Bis zum Sommer 1933 waren viele Parteien bereits verboten oder zur Selbstaufloesung gedraengt worden.",
-    "en": "By summer 1933, many parties had already been banned or forced to dissolve themselves."
+    "en": "By summer 1933, many parties had already been banned or forced to dissolve themselves.",
+    "fr": "À l'été 1933, de nombreux partis avaient déjà été interdits ou forcés de se dissoudre.",
+    "es": "Para el verano de 1933, muchos partidos ya habían sido prohibidos u obligados a disolverse.",
+    "it": "Entro l'estate del 1933, molti partiti erano già stati vietati o costretti ad autosciogliersi.",
+    "pt": "No verão de 1933, muitos partidos já haviam sido proibidos ou forçados a se dissolver.",
+    "nl": "Tegen de zomer van 1933 waren veel partijen al verboden of gedwongen zichzelf op te heffen.",
+    "pl": "Do lata 1933 roku wiele partii było już zakazanych albo zmuszonych do samorozwiązania.",
+    "tr": "1933 yazına gelindiğinde birçok parti zaten yasaklanmış ya da kendini feshetmeye zorlanmıştı.",
+    "zh": "到1933年夏天，许多政党已经被禁止或被迫自行解散。",
+    "ja": "1933年夏までに、多くの政党はすでに禁止されるか、自主解散を強いられていた。",
+    "ko": "1933년 여름까지 많은 정당은 이미 금지되었거나 스스로 해산하도록 강요받았다.",
+    "hi": "1933 की गर्मियों तक कई दल पहले ही प्रतिबंधित हो चुके थे या स्वयं को भंग करने के लिए मजबूर किए गए थे।",
+    "ar": "بحلول صيف 1933 كانت أحزاب كثيرة قد حُظرت بالفعل أو أُجبرت على حل نفسها."
   },
   "sources": [
     {
