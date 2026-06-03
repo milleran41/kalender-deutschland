@@ -11,17 +11,53 @@
     "title": {
       "ru": "Ангела Меркель стала канцлером",
       "de": "Angela Merkel wird Bundeskanzlerin",
-      "en": "Angela Merkel becomes chancellor"
+      "en": "Angela Merkel becomes chancellor",
+      "fr": "Angela Merkel devient chanceliere",
+      "es": "Angela Merkel se convierte en canciller",
+      "it": "Angela Merkel diventa cancelliera",
+      "pt": "Angela Merkel torna-se chanceler",
+      "nl": "Angela Merkel wordt bondskanselier",
+      "pl": "Angela Merkel zostala kanclerzem",
+      "tr": "Angela Merkel sansolye oluyor",
+      "zh": "安格拉·默克尔成为总理",
+      "ja": "アンゲラ・メルケルが首相になる",
+      "ko": "앙겔라 메르켈이 총리가 되다",
+      "hi": "एंगेला मर्केल चांसलर बनीं",
+      "ar": "أنغيلا ميركل تصبح مستشارة"
     },
     "description": {
       "ru": "22 ноября 2005 года Бундестаг избрал Ангелу Меркель федеральным канцлером. Она стала первой женщиной во главе правительства Германии.",
       "de": "Am 22. November 2005 waehlte der Bundestag Angela Merkel zur Bundeskanzlerin. Sie wurde die erste Frau an der Spitze der deutschen Regierung.",
-      "en": "On 22 November 2005, the Bundestag elected Angela Merkel as federal chancellor. She became the first woman to lead Germany's government."
+      "en": "On 22 November 2005, the Bundestag elected Angela Merkel as federal chancellor. She became the first woman to lead Germany's government.",
+      "fr": "Le 22 novembre 2005, le Bundestag elut Angela Merkel chanceliere federale. Elle devint la premiere femme a diriger le gouvernement allemand.",
+      "es": "El 22 de noviembre de 2005, el Bundestag eligio a Angela Merkel como canciller federal. Fue la primera mujer al frente del gobierno aleman.",
+      "it": "Il 22 novembre 2005 il Bundestag elesse Angela Merkel cancelliera federale. Fu la prima donna alla guida del governo tedesco.",
+      "pt": "Em 22 de novembro de 2005, o Bundestag elegeu Angela Merkel como chanceler federal. Ela tornou-se a primeira mulher a liderar o governo alemao.",
+      "nl": "Op 22 november 2005 koos de Bundestag Angela Merkel tot bondskanselier. Zij werd de eerste vrouw aan het hoofd van de Duitse regering.",
+      "pl": "22 listopada 2005 roku Bundestag wybral Angele Merkel na kanclerza federalnego. Zostala pierwsza kobieta na czele rzadu Niemiec.",
+      "tr": "22 Kasim 2005'te Bundestag Angela Merkel'i federal sansolye secti. Almanya hukumetinin basina gecen ilk kadin oldu.",
+      "zh": "2005年11月22日，联邦议院选举安格拉·默克尔为联邦总理。她成为第一位领导德国政府的女性。",
+      "ja": "2005年11月22日、連邦議会はアンゲラ・メルケルを連邦首相に選出しました。彼女はドイツ政府を率いる初の女性となりました。",
+      "ko": "2005년 11월 22일 연방의회는 앙겔라 메르켈을 연방총리로 선출했다. 그녀는 독일 정부를 이끄는 첫 여성이 되었다.",
+      "hi": "22 नवंबर 2005 को बुंडेस्टाग ने एंगेला मर्केल को संघीय चांसलर चुना। वह जर्मनी की सरकार का नेतृत्व करने वाली पहली महिला बनीं।",
+      "ar": "في 22 نوفمبر 2005 انتخب البوندستاغ أنغيلا ميركل مستشارة اتحادية. وأصبحت أول امرأة تقود الحكومة الألمانية."
     },
     "importance": {
       "ru": "Дата важна для современной политической истории Германии и для истории участия женщин в высшей власти.",
       "de": "Das Datum ist wichtig fuer die moderne politische Geschichte Deutschlands und fuer die Geschichte von Frauen in hoechsten Staatsaemtern.",
-      "en": "The date is important for modern German political history and for the history of women in top government office."
+      "en": "The date is important for modern German political history and for the history of women in top government office.",
+      "fr": "Cette date est importante pour l'histoire politique moderne de l'Allemagne et pour l'histoire des femmes aux plus hautes fonctions de l'Etat.",
+      "es": "La fecha es importante para la historia politica moderna de Alemania y para la historia de las mujeres en los cargos mas altos del Estado.",
+      "it": "La data e importante per la storia politica moderna della Germania e per la storia delle donne nelle piu alte cariche dello Stato.",
+      "pt": "A data e importante para a historia politica moderna da Alemanha e para a historia das mulheres nos cargos mais altos do Estado.",
+      "nl": "De datum is belangrijk voor de moderne politieke geschiedenis van Duitsland en voor de geschiedenis van vrouwen in de hoogste staatsambten.",
+      "pl": "Ta data jest wazna dla nowoczesnej historii politycznej Niemiec i dla historii udzialu kobiet w najwyzszej wladzy.",
+      "tr": "Bu tarih, Almanya'nin modern siyasi tarihi ve kadinlarin en ust devlet gorevlerine katilimi acisindan onemlidir.",
+      "zh": "这个日期对德国现代政治史以及女性进入最高权力层的历史都很重要。",
+      "ja": "この日は、現代ドイツ政治史と、女性が最高権力の場に参加する歴史にとって重要です。",
+      "ko": "이 날짜는 현대 독일 정치사와 여성이 최고 권력에 참여한 역사에서 중요하다.",
+      "hi": "यह तारीख आधुनिक जर्मन राजनीतिक इतिहास और सर्वोच्च सत्ता में महिलाओं की भागीदारी के इतिहास के लिए महत्वपूर्ण है।",
+      "ar": "هذا التاريخ مهم للتاريخ السياسي الحديث في ألمانيا ولتاريخ مشاركة النساء في أعلى مناصب السلطة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Начало большой коалиции",
           "de": "Beginn einer Grossen Koalition",
-          "en": "Start of a grand coalition"
+          "en": "Start of a grand coalition",
+          "fr": "Debut d'une grande coalition",
+          "es": "Inicio de una gran coalicion",
+          "it": "Inizio di una grande coalizione",
+          "pt": "Inicio de uma grande coligacao",
+          "nl": "Begin van een grote coalitie",
+          "pl": "Poczatek wielkiej koalicji",
+          "tr": "Buyuk koalisyonun baslangici",
+          "zh": "大联合政府的开始",
+          "ja": "大連立の始まり",
+          "ko": "대연정의 시작",
+          "hi": "बड़े गठबंधन की शुरुआत",
+          "ar": "بداية ائتلاف كبير"
         },
         "description": {
           "ru": "Первое правительство Меркель опиралось на союз ХДС/ХСС и СДПГ. Такая коалиция показывает, что в парламентской системе партии иногда вынуждены договариваться после сложных выборов.",
           "de": "Merkels erste Regierung beruhte auf einem Buendnis von CDU/CSU und SPD. Eine solche Koalition zeigt, dass Parteien in einem parlamentarischen System nach schwierigen Wahlen verhandeln muessen.",
-          "en": "Merkel's first government was based on an alliance between the CDU/CSU and the SPD. Such a coalition shows that parties in a parliamentary system sometimes have to negotiate after difficult elections."
+          "en": "Merkel's first government was based on an alliance between the CDU/CSU and the SPD. Such a coalition shows that parties in a parliamentary system sometimes have to negotiate after difficult elections.",
+          "fr": "Le premier gouvernement Merkel reposait sur une alliance entre la CDU/CSU et le SPD. Une telle coalition montre que, dans un systeme parlementaire, les partis doivent parfois negocier apres des elections difficiles.",
+          "es": "El primer gobierno de Merkel se baso en una alianza entre la CDU/CSU y el SPD. Una coalicion asi muestra que en un sistema parlamentario los partidos a veces deben negociar tras elecciones complicadas.",
+          "it": "Il primo governo Merkel si basava su un'alleanza tra CDU/CSU e SPD. Una coalizione simile mostra che in un sistema parlamentare i partiti a volte devono negoziare dopo elezioni difficili.",
+          "pt": "O primeiro governo Merkel baseou-se numa alianca entre CDU/CSU e SPD. Uma coligacao assim mostra que, num sistema parlamentar, os partidos as vezes precisam negociar depois de eleicoes dificeis.",
+          "nl": "Merkels eerste regering was gebaseerd op een bondgenootschap tussen CDU/CSU en SPD. Zo'n coalitie laat zien dat partijen in een parlementair systeem soms na moeilijke verkiezingen moeten onderhandelen.",
+          "pl": "Pierwszy rzad Merkel opieral sie na sojuszu CDU/CSU i SPD. Taka koalicja pokazuje, ze w systemie parlamentarnym partie czasem musza negocjowac po trudnych wyborach.",
+          "tr": "Merkel'in ilk hukumeti CDU/CSU ile SPD arasindaki ittifaka dayaniyordu. Boyle bir koalisyon, parlamenter sistemde partilerin zor secimlerden sonra bazen uzlasmak zorunda kaldigini gosterir.",
+          "zh": "默克尔的第一届政府建立在基民盟/基社盟与社民党的联盟之上。这样的联合说明，在议会制度中，政党有时必须在艰难选举后协商。",
+          "ja": "メルケルの最初の政権は、CDU/CSUとSPDの連立に基づいていました。このような連立は、議会制では難しい選挙の後に政党が交渉しなければならないことがあると示しています。",
+          "ko": "메르켈의 첫 정부는 CDU/CSU와 SPD의 연합에 기반했다. 이런 연정은 의회제에서 어려운 선거 뒤 정당들이 때로 협상해야 함을 보여 준다.",
+          "hi": "मर्केल की पहली सरकार CDU/CSU और SPD के गठबंधन पर आधारित थी। ऐसी गठबंधन सरकार दिखाती है कि संसदीय व्यवस्था में कठिन चुनावों के बाद दलों को कभी-कभी समझौता करना पड़ता है।",
+          "ar": "استندت حكومة ميركل الأولى إلى تحالف بين CDU/CSU وSPD. ويظهر هذا النوع من الائتلاف أن الأحزاب في النظام البرلماني تضطر أحيانا إلى التفاوض بعد انتخابات صعبة."
         },
         "importance": {
           "ru": "Это помогает понять, как реально работает немецкая парламентская демократия.",
           "de": "Das hilft zu verstehen, wie die parlamentarische Demokratie in Deutschland praktisch funktioniert.",
-          "en": "It helps explain how Germany's parliamentary democracy works in practice."
+          "en": "It helps explain how Germany's parliamentary democracy works in practice.",
+          "fr": "Cela aide a comprendre comment la democratie parlementaire allemande fonctionne en pratique.",
+          "es": "Ayuda a entender como funciona en la practica la democracia parlamentaria alemana.",
+          "it": "Aiuta a capire come funziona in pratica la democrazia parlamentare tedesca.",
+          "pt": "Ajuda a entender como a democracia parlamentar alema funciona na pratica.",
+          "nl": "Het helpt te begrijpen hoe de parlementaire democratie in Duitsland in de praktijk werkt.",
+          "pl": "Pomaga to zrozumiec, jak w praktyce dziala niemiecka demokracja parlamentarna.",
+          "tr": "Bu, Almanya'nin parlamenter demokrasisinin pratikte nasil isledigini anlamaya yardim eder.",
+          "zh": "这有助于理解德国议会民主在现实中如何运作。",
+          "ja": "ドイツの議会制民主主義が実際にどのように機能するかを理解する助けになります。",
+          "ko": "독일의 의회 민주주의가 실제로 어떻게 작동하는지 이해하는 데 도움이 된다.",
+          "hi": "यह समझने में मदद करता है कि जर्मनी की संसदीय लोकतंत्र व्यवस्था व्यवहार में कैसे काम करती है।",
+          "ar": "يساعد ذلك على فهم كيفية عمل الديمقراطية البرلمانية في ألمانيا عمليا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Политик из восточной Германии",
           "de": "Eine Politikerin aus Ostdeutschland",
-          "en": "A politician from eastern Germany"
+          "en": "A politician from eastern Germany",
+          "fr": "Une politicienne venue d'Allemagne de l'Est",
+          "es": "Una politica de Alemania oriental",
+          "it": "Una politica della Germania orientale",
+          "pt": "Uma politica da Alemanha oriental",
+          "nl": "Een politica uit Oost-Duitsland",
+          "pl": "Polityczka ze wschodnich Niemiec",
+          "tr": "Dogu Almanya'dan bir siyasetci",
+          "zh": "来自东德的政治家",
+          "ja": "東ドイツ出身の政治家",
+          "ko": "동독 출신 정치인",
+          "hi": "पूर्वी जर्मनी की राजनेता",
+          "ar": "سياسية من ألمانيا الشرقية"
         },
         "description": {
           "ru": "Меркель выросла в ГДР и была физиком по образованию. После объединения Германии она быстро вошла в федеральную политику.",
           "de": "Merkel wuchs in der DDR auf und war von Ausbildung Physikerin. Nach der deutschen Einheit stieg sie schnell in die Bundespolitik auf.",
-          "en": "Merkel grew up in East Germany and trained as a physicist. After German reunification, she quickly entered federal politics."
+          "en": "Merkel grew up in East Germany and trained as a physicist. After German reunification, she quickly entered federal politics.",
+          "fr": "Merkel grandit en RDA et recut une formation de physicienne. Apres la reunification allemande, elle entra rapidement dans la politique federale.",
+          "es": "Merkel crecio en la RDA y se formo como fisica. Tras la reunificacion alemana, entro rapidamente en la politica federal.",
+          "it": "Merkel crebbe nella RDT e si formo come fisica. Dopo la riunificazione tedesca entro rapidamente nella politica federale.",
+          "pt": "Merkel cresceu na RDA e formou-se como fisica. Depois da reunificacao alema, entrou rapidamente na politica federal.",
+          "nl": "Merkel groeide op in de DDR en werd opgeleid als natuurkundige. Na de Duitse hereniging kwam zij snel in de federale politiek terecht.",
+          "pl": "Merkel dorastala w NRD i z wyksztalcenia byla fizyczka. Po zjednoczeniu Niemiec szybko weszla do polityki federalnej.",
+          "tr": "Merkel DDR'de buyudu ve fizikci olarak egitim aldi. Almanya'nin birlesmesinden sonra hizla federal siyasete girdi.",
+          "zh": "默克尔在东德长大，受过物理学训练。德国统一后，她很快进入联邦政治。",
+          "ja": "メルケルは東ドイツで育ち、物理学者として教育を受けました。ドイツ再統一後、彼女はすぐに連邦政治に入りました。",
+          "ko": "메르켈은 동독에서 자랐고 물리학자로 교육받았다. 독일 통일 후 그녀는 빠르게 연방 정치에 들어갔다.",
+          "hi": "मर्केल पूर्वी जर्मनी में पली-बढ़ीं और शिक्षा से भौतिक विज्ञानी थीं। जर्मन पुनर्एकीकरण के बाद वह जल्दी ही संघीय राजनीति में आ गईं।",
+          "ar": "نشأت ميركل في ألمانيا الشرقية وتدربت كعالمة فيزياء. وبعد توحيد ألمانيا دخلت بسرعة إلى السياسة الاتحادية."
         },
         "importance": {
           "ru": "Её биография связывает историю разделённой Германии с историей Берлинской республики.",
           "de": "Ihre Biografie verbindet die Geschichte des geteilten Deutschlands mit der Geschichte der Berliner Republik.",
-          "en": "Her biography connects the history of divided Germany with the history of the Berlin Republic."
+          "en": "Her biography connects the history of divided Germany with the history of the Berlin Republic.",
+          "fr": "Sa biographie relie l'histoire de l'Allemagne divisee a celle de la Republique de Berlin.",
+          "es": "Su biografia conecta la historia de la Alemania dividida con la historia de la Republica de Berlin.",
+          "it": "La sua biografia collega la storia della Germania divisa con quella della Repubblica di Berlino.",
+          "pt": "Sua biografia liga a historia da Alemanha dividida a historia da Republica de Berlim.",
+          "nl": "Haar biografie verbindt de geschiedenis van het verdeelde Duitsland met die van de Berlijnse Republiek.",
+          "pl": "Jej biografia laczy historie podzielonych Niemiec z historia Republiki Berlinskiej.",
+          "tr": "Onun biyografisi bolunmus Almanya tarihini Berlin Cumhuriyeti tarihiyle birlestirir.",
+          "zh": "她的生平把德国分裂的历史与柏林共和国的历史联系起来。",
+          "ja": "彼女の経歴は、分断されたドイツの歴史とベルリン共和国の歴史を結びつけています。",
+          "ko": "그녀의 생애는 분단 독일의 역사와 베를린 공화국의 역사를 연결한다.",
+          "hi": "उनकी जीवनी विभाजित जर्मनी के इतिहास को बर्लिन गणराज्य के इतिहास से जोड़ती है।",
+          "ar": "تربط سيرتها تاريخ ألمانيا المقسمة بتاريخ جمهورية برلين."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Первая женщина-канцлер",
           "de": "Die erste Bundeskanzlerin",
-          "en": "The first woman chancellor"
+          "en": "The first woman chancellor",
+          "fr": "La premiere femme chanceliere",
+          "es": "La primera mujer canciller",
+          "it": "La prima donna cancelliera",
+          "pt": "A primeira mulher chanceler",
+          "nl": "De eerste vrouwelijke bondskanselier",
+          "pl": "Pierwsza kobieta kanclerz",
+          "tr": "Ilk kadin sansolye",
+          "zh": "第一位女性总理",
+          "ja": "初の女性首相",
+          "ko": "첫 여성 총리",
+          "hi": "पहली महिला चांसलर",
+          "ar": "أول امرأة مستشارة"
         },
         "description": {
           "ru": "До 2005 года все федеральные канцлеры Германии были мужчинами. Поэтому само обращение «Bundeskanzlerin» стало заметным символом перемен.",
           "de": "Bis 2005 waren alle Bundeskanzler Deutschlands Maenner. Schon die Amtsbezeichnung Bundeskanzlerin wurde deshalb zu einem sichtbaren Zeichen des Wandels.",
-          "en": "Until 2005, all German federal chancellors had been men. Even the title Bundeskanzlerin became a visible sign of change."
+          "en": "Until 2005, all German federal chancellors had been men. Even the title Bundeskanzlerin became a visible sign of change.",
+          "fr": "Jusqu'en 2005, tous les chanceliers federaux allemands etaient des hommes. Meme le titre Bundeskanzlerin devint donc un signe visible du changement.",
+          "es": "Hasta 2005, todos los cancilleres federales de Alemania habian sido hombres. Incluso el titulo Bundeskanzlerin se convirtio en una senal visible de cambio.",
+          "it": "Fino al 2005 tutti i cancellieri federali tedeschi erano uomini. Persino il titolo Bundeskanzlerin divenne quindi un segno visibile di cambiamento.",
+          "pt": "Ate 2005, todos os chanceleres federais da Alemanha tinham sido homens. Ate o titulo Bundeskanzlerin tornou-se um sinal visivel de mudanca.",
+          "nl": "Tot 2005 waren alle Duitse bondskanseliers mannen. Zelfs de titel Bundeskanzlerin werd daardoor een zichtbaar teken van verandering.",
+          "pl": "Do 2005 roku wszyscy kanclerze federalni Niemiec byli mezczyznami. Dlatego sama forma Bundeskanzlerin stala sie widocznym znakiem zmiany.",
+          "tr": "2005'e kadar Almanya'nin tum federal sansolyeleri erkekti. Bu nedenle Bundeskanzlerin unvani bile degisimin gorunur bir isareti oldu.",
+          "zh": "到2005年之前，德国所有联邦总理都是男性。因此“女联邦总理”这个称呼本身就成为明显的变化象征。",
+          "ja": "2005年まで、ドイツの連邦首相は全員男性でした。そのため「Bundeskanzlerin」という肩書き自体が、変化の目に見える印となりました。",
+          "ko": "2005년까지 독일의 모든 연방총리는 남성이었다. 그래서 Bundeskanzlerin이라는 직함 자체가 변화의 뚜렷한 상징이 되었다.",
+          "hi": "2005 तक जर्मनी के सभी संघीय चांसलर पुरुष थे। इसलिए Bundeskanzlerin संबोधन खुद बदलाव का स्पष्ट प्रतीक बन गया।",
+          "ar": "حتى عام 2005 كان جميع المستشارين الاتحاديين في ألمانيا رجالا. لذلك أصبح لقب Bundeskanzlerin نفسه علامة واضحة على التغيير."
         },
         "importance": {
           "ru": "Иногда изменение видно даже в одном слове.",
           "de": "Manchmal wird Veraenderung schon in einem einzigen Wort sichtbar.",
-          "en": "Sometimes change becomes visible in a single word."
+          "en": "Sometimes change becomes visible in a single word.",
+          "fr": "Parfois, le changement devient visible dans un seul mot.",
+          "es": "A veces el cambio se ve en una sola palabra.",
+          "it": "A volte il cambiamento si vede in una sola parola.",
+          "pt": "As vezes, a mudanca aparece em uma unica palavra.",
+          "nl": "Soms wordt verandering zichtbaar in een enkel woord.",
+          "pl": "Czasem zmiane widac juz w jednym slowie.",
+          "tr": "Bazen degisim tek bir kelimede bile gorunur.",
+          "zh": "有时，变化会体现在一个词里。",
+          "ja": "時には変化が一つの言葉に表れます。",
+          "ko": "때로는 변화가 단 하나의 단어에서도 보인다.",
+          "hi": "कभी-कभी बदलाव एक ही शब्द में दिख जाता है।",
+          "ar": "أحيانا يظهر التغيير حتى في كلمة واحدة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Меркель занимала пост канцлера с 2005 по 2021 год, но в нашей базе события после 2020 года не добавляются.",
     "de": "Merkel war von 2005 bis 2021 Bundeskanzlerin; in dieser Datenbank werden jedoch keine Ereignisse nach 2020 aufgenommen.",
-    "en": "Merkel served as chancellor from 2005 to 2021, but this database does not include events after 2020."
+    "en": "Merkel served as chancellor from 2005 to 2021, but this database does not include events after 2020.",
+    "fr": "Merkel fut chanceliere de 2005 a 2021, mais cette base n'inclut pas d'evenements posterieurs a 2020.",
+    "es": "Merkel fue canciller de 2005 a 2021, pero esta base no incluye acontecimientos posteriores a 2020.",
+    "it": "Merkel fu cancelliera dal 2005 al 2021, ma questa banca dati non include eventi successivi al 2020.",
+    "pt": "Merkel foi chanceler de 2005 a 2021, mas esta base nao inclui eventos depois de 2020.",
+    "nl": "Merkel was van 2005 tot 2021 bondskanselier, maar deze database bevat geen gebeurtenissen na 2020.",
+    "pl": "Merkel byla kanclerzem od 2005 do 2021 roku, ale ta baza nie obejmuje wydarzen po 2020 roku.",
+    "tr": "Merkel 2005'ten 2021'e kadar sansolye olarak gorev yapti, ancak bu veritabani 2020 sonrasi olaylari icermez.",
+    "zh": "默克尔于2005年至2021年担任总理，但本数据库不收录2020年之后的事件。",
+    "ja": "メルケルは2005年から2021年まで首相を務めましたが、このデータベースには2020年以降の出来事は含まれていません。",
+    "ko": "메르켈은 2005년부터 2021년까지 총리를 지냈지만, 이 데이터베이스에는 2020년 이후의 사건은 포함되지 않는다.",
+    "hi": "मर्केल 2005 से 2021 तक चांसलर रहीं, लेकिन इस डेटाबेस में 2020 के बाद की घटनाएँ शामिल नहीं हैं।",
+    "ar": "شغلت ميركل منصب المستشارة من 2005 إلى 2021، لكن قاعدة البيانات هذه لا تضيف أحداثا بعد عام 2020."
   },
   "sources": [
     {

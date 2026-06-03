@@ -11,17 +11,53 @@
     "title": {
       "ru": "Нобелевская премия мира Карлу фон Осецкому",
       "de": "Friedensnobelpreis fuer Carl von Ossietzky",
-      "en": "Nobel Peace Prize for Carl von Ossietzky"
+      "en": "Nobel Peace Prize for Carl von Ossietzky",
+      "fr": "Prix Nobel de la paix pour Carl von Ossietzky",
+      "es": "Premio Nobel de la Paz para Carl von Ossietzky",
+      "it": "Premio Nobel per la pace a Carl von Ossietzky",
+      "pt": "Premio Nobel da Paz para Carl von Ossietzky",
+      "nl": "Nobelprijs voor de Vrede voor Carl von Ossietzky",
+      "pl": "Pokojowa Nagroda Nobla dla Carla von Ossietzky'ego",
+      "tr": "Carl von Ossietzky'ye Nobel Baris Odulu",
+      "zh": "卡尔·冯·奥西茨基获得诺贝尔和平奖",
+      "ja": "カール・フォン・オシエツキーにノーベル平和賞",
+      "ko": "카를 폰 오시에츠키에게 노벨 평화상",
+      "hi": "कार्ल फॉन ओसिएत्स्की को नोबेल शांति पुरस्कार",
+      "ar": "جائزة نوبل للسلام لكارل فون أوسيتسكي"
     },
     "description": {
       "ru": "23 ноября 1936 года Нобелевский комитет присудил премию мира немецкому журналисту и пацифисту Карлу фон Осецкому. В это время он был узником нацистского режима.",
       "de": "Am 23. November 1936 verlieh das Nobelkomitee den Friedensnobelpreis an den deutschen Journalisten und Pazifisten Carl von Ossietzky. Zu dieser Zeit war er Gefangener des NS-Regimes.",
-      "en": "On 23 November 1936, the Nobel Committee awarded the Peace Prize to German journalist and pacifist Carl von Ossietzky. At the time, he was a prisoner of the Nazi regime."
+      "en": "On 23 November 1936, the Nobel Committee awarded the Peace Prize to German journalist and pacifist Carl von Ossietzky. At the time, he was a prisoner of the Nazi regime.",
+      "fr": "Le 23 novembre 1936, le Comite Nobel attribua le prix de la paix au journaliste et pacifiste allemand Carl von Ossietzky. A ce moment-la, il etait prisonnier du regime nazi.",
+      "es": "El 23 de noviembre de 1936, el Comite Nobel concedio el Premio de la Paz al periodista y pacifista aleman Carl von Ossietzky. En ese momento era prisionero del regimen nazi.",
+      "it": "Il 23 novembre 1936 il Comitato Nobel assegno il premio per la pace al giornalista e pacifista tedesco Carl von Ossietzky. In quel momento era prigioniero del regime nazista.",
+      "pt": "Em 23 de novembro de 1936, o Comite Nobel concedeu o Premio da Paz ao jornalista e pacifista alemao Carl von Ossietzky. Naquele momento, ele era prisioneiro do regime nazista.",
+      "nl": "Op 23 november 1936 kende het Nobelcomite de Vredesprijs toe aan de Duitse journalist en pacifist Carl von Ossietzky. Op dat moment was hij gevangene van het nazi-regime.",
+      "pl": "23 listopada 1936 roku Komitet Noblowski przyznal Pokojowa Nagrode Nobla niemieckiemu dziennikarzowi i pacyfiscie Carlowi von Ossietzky'emu. W tym czasie byl wiezniem nazistowskiego rezimu.",
+      "tr": "23 Kasim 1936'da Nobel Komitesi Baris Odulu'nu Alman gazeteci ve pasifist Carl von Ossietzky'ye verdi. O sirada Nazi rejiminin tutuklusuydu.",
+      "zh": "1936年11月23日，诺贝尔委员会把和平奖授予德国记者和和平主义者卡尔·冯·奥西茨基。当时他是纳粹政权的囚犯。",
+      "ja": "1936年11月23日、ノーベル委員会はドイツのジャーナリストで平和主義者のカール・フォン・オシエツキーに平和賞を授与しました。当時、彼はナチ体制の囚人でした。",
+      "ko": "1936년 11월 23일 노벨위원회는 독일 언론인이자 평화주의자인 카를 폰 오시에츠키에게 평화상을 수여했다. 당시 그는 나치 정권의 수감자였다.",
+      "hi": "23 नवंबर 1936 को नोबेल समिति ने जर्मन पत्रकार और शांतिवादी कार्ल फॉन ओसिएत्स्की को शांति पुरस्कार दिया। उस समय वह नाजी शासन के कैदी थे।",
+      "ar": "في 23 نوفمبر 1936 منحته لجنة نوبل جائزة السلام للصحفي الألماني والداعي إلى السلام كارل فون أوسيتسكي. وكان في ذلك الوقت سجينا لدى النظام النازي."
     },
     "importance": {
       "ru": "Дата показывает, как международное признание могло стать протестом против диктатуры.",
       "de": "Das Datum zeigt, wie internationale Anerkennung zu einem Protest gegen eine Diktatur werden konnte.",
-      "en": "The date shows how international recognition could become a protest against dictatorship."
+      "en": "The date shows how international recognition could become a protest against dictatorship.",
+      "fr": "Cette date montre comment une reconnaissance internationale pouvait devenir une protestation contre une dictature.",
+      "es": "La fecha muestra como el reconocimiento internacional podia convertirse en protesta contra una dictadura.",
+      "it": "La data mostra come il riconoscimento internazionale potesse diventare una protesta contro una dittatura.",
+      "pt": "A data mostra como o reconhecimento internacional podia tornar-se um protesto contra uma ditadura.",
+      "nl": "De datum laat zien hoe internationale erkenning een protest tegen een dictatuur kon worden.",
+      "pl": "Ta data pokazuje, jak miedzynarodowe uznanie moglo stac sie protestem przeciw dyktaturze.",
+      "tr": "Bu tarih, uluslararasi taninmanin bir diktatorluge karsi nasil protestoya donusebildigini gosterir.",
+      "zh": "这个日期说明，国际认可也可能成为对独裁的抗议。",
+      "ja": "この日は、国際的な評価が独裁への抗議になり得ることを示しています。",
+      "ko": "이 날짜는 국제적 인정이 어떻게 독재에 대한 항의가 될 수 있었는지 보여 준다.",
+      "hi": "यह तारीख दिखाती है कि अंतरराष्ट्रीय मान्यता तानाशाही के विरुद्ध विरोध भी बन सकती थी।",
+      "ar": "يوضح هذا التاريخ كيف يمكن للاعتراف الدولي أن يصبح احتجاجا على الدكتاتورية."
     }
   },
   "categories": {
@@ -37,12 +73,36 @@
         "description": {
           "ru": "Осецкий был журналистом, редактором журнала Die Weltbuehne и критиком милитаризма. До прихода нацистов к власти он писал о тайном перевооружении Германии.",
           "de": "Ossietzky war Journalist, Herausgeber der Weltbuehne und Kritiker des Militarismus. Vor der Machtuebernahme der Nationalsozialisten schrieb er ueber die geheime Aufruestung Deutschlands.",
-          "en": "Ossietzky was a journalist, editor of Die Weltbuehne and critic of militarism. Before the Nazis came to power, he wrote about Germany's secret rearmament."
+          "en": "Ossietzky was a journalist, editor of Die Weltbuehne and critic of militarism. Before the Nazis came to power, he wrote about Germany's secret rearmament.",
+          "fr": "Ossietzky etait journaliste, redacteur de Die Weltbuehne et critique du militarisme. Avant l'arrivee des nazis au pouvoir, il ecrivit sur le rearmement secret de l'Allemagne.",
+          "es": "Ossietzky fue periodista, editor de Die Weltbuehne y critico del militarismo. Antes de que los nazis llegaran al poder, escribio sobre el rearme secreto de Alemania.",
+          "it": "Ossietzky fu giornalista, direttore di Die Weltbuehne e critico del militarismo. Prima dell'ascesa al potere dei nazisti, scrisse sul riarmo segreto della Germania.",
+          "pt": "Ossietzky foi jornalista, editor da Die Weltbuehne e critico do militarismo. Antes de os nazistas chegarem ao poder, escreveu sobre o rearmamento secreto da Alemanha.",
+          "nl": "Ossietzky was journalist, redacteur van Die Weltbuehne en criticus van militarisme. Voordat de nazi's aan de macht kwamen, schreef hij over de geheime herbewapening van Duitsland.",
+          "pl": "Ossietzky byl dziennikarzem, redaktorem Die Weltbuehne i krytykiem militaryzmu. Przed dojsciem nazistow do wladzy pisal o tajnym przezbrajaniu Niemiec.",
+          "tr": "Ossietzky gazeteci, Die Weltbuehne dergisinin editoru ve militarizm elestirmeniydi. Naziler iktidara gelmeden once Almanya'nin gizli yeniden silahlanmasi hakkinda yazdi.",
+          "zh": "奥西茨基是记者、《世界舞台》杂志编辑，也是军国主义批评者。在纳粹上台前，他曾报道德国秘密重新武装。",
+          "ja": "オシエツキーはジャーナリストで、『Die Weltbuehne』の編集者、軍国主義の批判者でした。ナチスが政権を取る前、彼はドイツの秘密再軍備について書きました。",
+          "ko": "오시에츠키는 언론인이자 Die Weltbuehne의 편집자였고 군국주의 비판자였다. 나치가 집권하기 전 그는 독일의 비밀 재무장에 대해 썼다.",
+          "hi": "ओसिएत्स्की पत्रकार, Die Weltbuehne के संपादक और सैन्यवाद के आलोचक थे। नाजियों के सत्ता में आने से पहले उन्होंने जर्मनी के गुप्त पुनःशस्त्रीकरण के बारे में लिखा।",
+          "ar": "كان أوسيتسكي صحفيا ومحررا لمجلة Die Weltbuehne وناقدا للعسكرة. وقبل وصول النازيين إلى السلطة كتب عن إعادة تسليح ألمانيا السرية."
         },
         "importance": {
           "ru": "Его судьба связывает свободу прессы, пацифизм и сопротивление авторитарной власти.",
           "de": "Sein Schicksal verbindet Pressefreiheit, Pazifismus und Widerstand gegen autoritaere Macht.",
-          "en": "His fate connects press freedom, pacifism and resistance to authoritarian power."
+          "en": "His fate connects press freedom, pacifism and resistance to authoritarian power.",
+          "fr": "Son destin relie la liberte de la presse, le pacifisme et la resistance au pouvoir autoritaire.",
+          "es": "Su destino conecta la libertad de prensa, el pacifismo y la resistencia al poder autoritario.",
+          "it": "Il suo destino collega liberta di stampa, pacifismo e resistenza al potere autoritario.",
+          "pt": "Seu destino liga liberdade de imprensa, pacifismo e resistencia ao poder autoritario.",
+          "nl": "Zijn lot verbindt persvrijheid, pacifisme en verzet tegen autoritaire macht.",
+          "pl": "Jego los laczy wolnosc prasy, pacyfizm i opor wobec wladzy autorytarnej.",
+          "tr": "Onun kaderi basin ozgurlugunu, pasifizmi ve otoriter guce direnmeyi birlestirir.",
+          "zh": "他的命运把新闻自由、和平主义和反抗威权力量联系在一起。",
+          "ja": "彼の運命は、報道の自由、平和主義、権威主義的権力への抵抗を結びつけています。",
+          "ko": "그의 운명은 언론 자유, 평화주의, 권위주의 권력에 대한 저항을 연결한다.",
+          "hi": "उनका जीवन प्रेस की स्वतंत्रता, शांतिवाद और अधिनायकवादी सत्ता के प्रतिरोध को जोड़ता है।",
+          "ar": "يربط مصيره حرية الصحافة والدعوة إلى السلام ومقاومة السلطة الاستبدادية."
         }
       }
     ],
@@ -53,17 +113,53 @@
         "title": {
           "ru": "Премия, которую режим не хотел видеть",
           "de": "Ein Preis, den das Regime nicht sehen wollte",
-          "en": "A prize the regime did not want to see"
+          "en": "A prize the regime did not want to see",
+          "fr": "Un prix que le regime ne voulait pas voir",
+          "es": "Un premio que el regimen no queria ver",
+          "it": "Un premio che il regime non voleva vedere",
+          "pt": "Um premio que o regime nao queria ver",
+          "nl": "Een prijs die het regime niet wilde zien",
+          "pl": "Nagroda, ktorej rezim nie chcial widziec",
+          "tr": "Rejimin gormek istemedigi bir odul",
+          "zh": "政权不愿看到的奖项",
+          "ja": "体制が見たくなかった賞",
+          "ko": "정권이 보고 싶어 하지 않았던 상",
+          "hi": "ऐसा पुरस्कार जिसे शासन नहीं देखना चाहता था",
+          "ar": "جائزة لم يرغب النظام في رؤيتها"
         },
         "description": {
           "ru": "Нобелевская премия Осецкому вызвала резкую реакцию нацистского руководства. После этого Гитлер запретил немцам принимать Нобелевские премии.",
           "de": "Der Nobelpreis fuer Ossietzky loeste eine scharfe Reaktion der NS-Fuehrung aus. Danach verbot Hitler Deutschen, Nobelpreise anzunehmen.",
-          "en": "Ossietzky's Nobel Prize provoked a sharp reaction from the Nazi leadership. Hitler then forbade Germans from accepting Nobel Prizes."
+          "en": "Ossietzky's Nobel Prize provoked a sharp reaction from the Nazi leadership. Hitler then forbade Germans from accepting Nobel Prizes.",
+          "fr": "Le prix Nobel d'Ossietzky provoqua une vive reaction de la direction nazie. Hitler interdit ensuite aux Allemands d'accepter des prix Nobel.",
+          "es": "El Premio Nobel de Ossietzky provoco una fuerte reaccion de la direccion nazi. Despues Hitler prohibio a los alemanes aceptar premios Nobel.",
+          "it": "Il Premio Nobel a Ossietzky provoco una dura reazione della dirigenza nazista. In seguito Hitler vieto ai tedeschi di accettare premi Nobel.",
+          "pt": "O Premio Nobel de Ossietzky provocou uma reacao dura da lideranca nazista. Depois disso, Hitler proibiu os alemaes de aceitar premios Nobel.",
+          "nl": "Ossietzky's Nobelprijs lokte een scherpe reactie van de nazi-leiding uit. Daarna verbood Hitler Duitsers Nobelprijzen aan te nemen.",
+          "pl": "Nagroda Nobla dla Ossietzky'ego wywolala ostra reakcje nazistowskiego kierownictwa. Potem Hitler zakazal Niemcom przyjmowania Nagrod Nobla.",
+          "tr": "Ossietzky'nin Nobel Odulu Nazi liderliginden sert bir tepki aldi. Ardindan Hitler Almanlarin Nobel Odulleri kabul etmesini yasakladi.",
+          "zh": "奥西茨基获得诺贝尔奖引发纳粹领导层的强烈反应。此后，希特勒禁止德国人接受诺贝尔奖。",
+          "ja": "オシエツキーへのノーベル賞は、ナチ指導部の激しい反発を招きました。その後ヒトラーは、ドイツ人がノーベル賞を受け取ることを禁じました。",
+          "ko": "오시에츠키의 노벨상은 나치 지도부의 거센 반발을 불러왔다. 이후 히틀러는 독일인이 노벨상을 받는 것을 금지했다.",
+          "hi": "ओसिएत्स्की को मिला नोबेल पुरस्कार नाजी नेतृत्व की तीखी प्रतिक्रिया का कारण बना। इसके बाद हिटलर ने जर्मनों को नोबेल पुरस्कार स्वीकार करने से मना कर दिया।",
+          "ar": "أثارت جائزة نوبل لأوسيتسكي رد فعل حادا من القيادة النازية. وبعد ذلك منع هتلر الألمان من قبول جوائز نوبل."
         },
         "importance": {
           "ru": "Это показывает, как диктатуры боятся независимой международной оценки.",
           "de": "Das zeigt, wie sehr Diktaturen unabhaengige internationale Anerkennung fuerchten.",
-          "en": "It shows how much dictatorships fear independent international recognition."
+          "en": "It shows how much dictatorships fear independent international recognition.",
+          "fr": "Cela montre combien les dictatures craignent la reconnaissance internationale independante.",
+          "es": "Muestra cuanto temen las dictaduras el reconocimiento internacional independiente.",
+          "it": "Mostra quanto le dittature temano il riconoscimento internazionale indipendente.",
+          "pt": "Mostra quanto as ditaduras temem o reconhecimento internacional independente.",
+          "nl": "Het laat zien hoezeer dictaturen onafhankelijke internationale erkenning vrezen.",
+          "pl": "To pokazuje, jak bardzo dyktatury boja sie niezaleznego miedzynarodowego uznania.",
+          "tr": "Bu, diktatorluklerin bagimsiz uluslararasi taninmadan ne kadar korktugunu gosterir.",
+          "zh": "这说明独裁政权多么害怕独立的国际认可。",
+          "ja": "独裁体制が独立した国際的評価をどれほど恐れるかを示しています。",
+          "ko": "독재 정권이 독립적인 국제적 인정을 얼마나 두려워하는지 보여 준다.",
+          "hi": "यह दिखाता है कि तानाशाहियाँ स्वतंत्र अंतरराष्ट्रीय मान्यता से कितना डरती हैं।",
+          "ar": "يوضح ذلك مدى خوف الدكتاتوريات من الاعتراف الدولي المستقل."
         }
       }
     ],
@@ -74,17 +170,53 @@
         "title": {
           "ru": "Премия была за 1935 год",
           "de": "Der Preis galt dem Jahr 1935",
-          "en": "The prize was for 1935"
+          "en": "The prize was for 1935",
+          "fr": "Le prix etait pour l'annee 1935",
+          "es": "El premio fue por 1935",
+          "it": "Il premio era per il 1935",
+          "pt": "O premio foi referente a 1935",
+          "nl": "De prijs was voor 1935",
+          "pl": "Nagroda byla za rok 1935",
+          "tr": "Odul 1935 yili icindi",
+          "zh": "这个奖项属于1935年",
+          "ja": "この賞は1935年分だった",
+          "ko": "그 상은 1935년 상이었다",
+          "hi": "यह पुरस्कार 1935 के लिए था",
+          "ar": "كانت الجائزة لعام 1935"
         },
         "description": {
           "ru": "Премия Осецкому была присуждена в 1936 году за 1935 год. Такие задержки иногда бывают у Нобелевского комитета, если решение переносится.",
           "de": "Der Preis fuer Ossietzky wurde 1936 fuer das Jahr 1935 verliehen. Solche Verschiebungen gibt es beim Nobelkomitee, wenn Entscheidungen vertagt werden.",
-          "en": "Ossietzky's prize was awarded in 1936 for the year 1935. Such delays can happen when the Nobel Committee postpones a decision."
+          "en": "Ossietzky's prize was awarded in 1936 for the year 1935. Such delays can happen when the Nobel Committee postpones a decision.",
+          "fr": "Le prix d'Ossietzky fut attribue en 1936 pour l'annee 1935. De tels retards peuvent arriver lorsque le Comite Nobel reporte une decision.",
+          "es": "El premio de Ossietzky se concedio en 1936 por el ano 1935. Estos retrasos pueden ocurrir cuando el Comite Nobel aplaza una decision.",
+          "it": "Il premio di Ossietzky fu assegnato nel 1936 per l'anno 1935. Ritardi simili possono avvenire quando il Comitato Nobel rinvia una decisione.",
+          "pt": "O premio de Ossietzky foi concedido em 1936 referente ao ano de 1935. Atrasos assim podem ocorrer quando o Comite Nobel adia uma decisao.",
+          "nl": "Ossietzky's prijs werd in 1936 toegekend voor het jaar 1935. Zulke vertragingen kunnen voorkomen wanneer het Nobelcomite een beslissing uitstelt.",
+          "pl": "Nagroda dla Ossietzky'ego zostala przyznana w 1936 roku za rok 1935. Takie opoznienia zdarzaja sie, gdy Komitet Noblowski odklada decyzje.",
+          "tr": "Ossietzky'nin odulu 1936'da 1935 yili icin verildi. Nobel Komitesi bir karari ertelediginde boyle gecikmeler olabilir.",
+          "zh": "奥西茨基的奖项是在1936年颁给1935年度的。诺贝尔委员会推迟决定时，有时会出现这样的延迟。",
+          "ja": "オシエツキーの賞は、1936年に1935年分として授与されました。ノーベル委員会が決定を延期すると、このような遅れが起こることがあります。",
+          "ko": "오시에츠키의 상은 1936년에 1935년 상으로 수여되었다. 노벨위원회가 결정을 미루면 이런 지연이 생길 수 있다.",
+          "hi": "ओसिएत्स्की का पुरस्कार 1936 में 1935 के लिए दिया गया। जब नोबेल समिति निर्णय टालती है, तो ऐसी देरी कभी-कभी होती है।",
+          "ar": "مُنحت جائزة أوسيتسكي في عام 1936 عن عام 1935. ويمكن أن تحدث مثل هذه التأخيرات عندما تؤجل لجنة نوبل قرارها."
         },
         "importance": {
           "ru": "Даже дата награды иногда рассказывает отдельную историю.",
           "de": "Sogar das Datum einer Auszeichnung kann eine eigene Geschichte erzaehlen.",
-          "en": "Even the date of an award can tell its own story."
+          "en": "Even the date of an award can tell its own story.",
+          "fr": "Meme la date d'une distinction peut raconter sa propre histoire.",
+          "es": "Incluso la fecha de un premio puede contar su propia historia.",
+          "it": "Anche la data di un premio puo raccontare una storia propria.",
+          "pt": "Ate a data de um premio pode contar sua propria historia.",
+          "nl": "Zelfs de datum van een onderscheiding kan een eigen verhaal vertellen.",
+          "pl": "Nawet data nagrody moze opowiadac wlasna historie.",
+          "tr": "Bir odulun tarihi bile kendi hikayesini anlatabilir.",
+          "zh": "有时，奖项的日期本身也讲述着一个故事。",
+          "ja": "賞の日付でさえ、それ自体の物語を語ることがあります。",
+          "ko": "상 날짜조차 때로는 자기만의 이야기를 들려준다.",
+          "hi": "कभी-कभी पुरस्कार की तारीख भी अपनी अलग कहानी बताती है।",
+          "ar": "حتى تاريخ الجائزة قد يروي أحيانا قصة خاصة به."
         }
       }
     ]
@@ -92,7 +224,19 @@
   "fact": {
     "ru": "Осецкий не смог лично получить премию в Осло из-за преследования и болезни.",
     "de": "Ossietzky konnte den Preis wegen Verfolgung und Krankheit nicht persoenlich in Oslo entgegennehmen.",
-    "en": "Ossietzky could not receive the prize in Oslo in person because of persecution and illness."
+    "en": "Ossietzky could not receive the prize in Oslo in person because of persecution and illness.",
+    "fr": "Ossietzky ne put pas recevoir le prix en personne a Oslo a cause de la persecution et de la maladie.",
+    "es": "Ossietzky no pudo recibir el premio personalmente en Oslo debido a la persecucion y la enfermedad.",
+    "it": "Ossietzky non pote ricevere il premio di persona a Oslo a causa della persecuzione e della malattia.",
+    "pt": "Ossietzky nao pode receber o premio pessoalmente em Oslo por causa da perseguicao e da doenca.",
+    "nl": "Ossietzky kon de prijs door vervolging en ziekte niet persoonlijk in Oslo in ontvangst nemen.",
+    "pl": "Ossietzky nie mogl osobiscie odebrac nagrody w Oslo z powodu przesladowan i choroby.",
+    "tr": "Ossietzky, baski ve hastalik nedeniyle odulu Oslo'da sahsen alamadi.",
+    "zh": "由于迫害和疾病，奥西茨基无法亲自到奥斯陆领奖。",
+    "ja": "オシエツキーは迫害と病気のため、オスロで直接賞を受け取ることができませんでした。",
+    "ko": "오시에츠키는 박해와 질병 때문에 오슬로에서 직접 상을 받을 수 없었다.",
+    "hi": "उत्पीड़न और बीमारी के कारण ओसिएत्स्की ओस्लो में स्वयं पुरस्कार प्राप्त नहीं कर सके।",
+    "ar": "لم يتمكن أوسيتسكي من تسلم الجائزة شخصيا في أوسلو بسبب الاضطهاد والمرض."
   },
   "sources": [
     {
