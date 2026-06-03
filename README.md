@@ -4,6 +4,8 @@ Kalender Deutschland is a Chrome extension with a German calendar, federal-state
 
 The project is designed as an educational and informational browser extension.
 
+![Kalender Deutschland screenshot](assets/screenshots/calendar.png)
+
 ## Features
 
 - German calendar with national, regional, and church holidays.
