@@ -11,17 +11,53 @@
     "title": {
       "ru": "Протесты у вокзала в Дрездене",
       "de": "Proteste am Dresdner Hauptbahnhof",
-      "en": "Protests at Dresden Central Station"
+      "en": "Protests at Dresden Central Station",
+      "fr": "Protestations à la gare centrale de Dresde",
+      "es": "Protestas en la estacion central de Dresde",
+      "it": "Proteste alla stazione centrale di Dresda",
+      "pt": "Protestos na estacao central de Dresden",
+      "nl": "Protesten bij het centraal station van Dresden",
+      "pl": "Protesty przy dworcu glownym w Dreznie",
+      "tr": "Dresden Merkez Istasyonu'nda protestolar",
+      "zh": "德累斯顿中央车站的抗议",
+      "ja": "ドレスデン中央駅での抗議",
+      "ko": "드레스덴 중앙역의 시위",
+      "hi": "ड्रेसडेन मुख्य स्टेशन पर विरोध",
+      "ar": "احتجاجات عند محطة دريسدن الرئيسية"
     },
     "description": {
       "ru": "4 октября 1989 года тысячи людей собрались у главного вокзала Дрездена, когда через ГДР проходили поезда с восточногерманскими беженцами из Праги в ФРГ. Протесты переросли в столкновения с силами безопасности.",
       "de": "Am 4. Oktober 1989 versammelten sich Tausende am Dresdner Hauptbahnhof, als Zuege mit DDR-Fluechtlingen aus Prag in die Bundesrepublik durch die DDR fuhren. Die Proteste eskalierten zu Zusammenstoessen mit Sicherheitskraeften.",
-      "en": "On 4 October 1989, thousands gathered at Dresden Central Station as trains carrying East German refugees from Prague to West Germany passed through the GDR. The protests escalated into clashes with security forces."
+      "en": "On 4 October 1989, thousands gathered at Dresden Central Station as trains carrying East German refugees from Prague to West Germany passed through the GDR. The protests escalated into clashes with security forces.",
+      "fr": "Le 4 octobre 1989, des milliers de personnes se rassemblerent à la gare centrale de Dresde, alors que des trains transportant des refugies est-allemands de Prague vers la RFA traversaient la RDA. Les protestations degenererent en affrontements avec les forces de securite.",
+      "es": "El 4 de octubre de 1989, miles de personas se reunieron en la estacion central de Dresde mientras trenes con refugiados de Alemania Oriental viajaban desde Praga hacia la RFA a traves de la RDA. Las protestas escalaron hasta choques con las fuerzas de seguridad.",
+      "it": "Il 4 ottobre 1989 migliaia di persone si radunarono alla stazione centrale di Dresda, mentre treni con profughi della Germania Est da Praga verso la Germania Ovest attraversavano la DDR. Le proteste degenerarono in scontri con le forze di sicurezza.",
+      "pt": "Em 4 de outubro de 1989, milhares de pessoas se reuniram na estacao central de Dresden enquanto trens com refugiados da Alemanha Oriental iam de Praga para a Alemanha Ocidental atraves da RDA. Os protestos escalaram para confrontos com as forcas de seguranca.",
+      "nl": "Op 4 oktober 1989 verzamelden duizenden mensen zich bij het centraal station van Dresden, toen treinen met Oost-Duitse vluchtelingen uit Praag naar West-Duitsland door de DDR reden. De protesten escaleerden tot botsingen met veiligheidstroepen.",
+      "pl": "4 pazdziernika 1989 roku tysiace ludzi zgromadzily sie przy dworcu glownym w Dreznie, gdy przez NRD przejezdzaly pociagi z uchodzcami wschodnioniemieckimi z Pragi do RFN. Protesty przerodzily sie w starcia z silami bezpieczenstwa.",
+      "tr": "4 Ekim 1989'da, Prag'dan Bati Almanya'ya giden Dogu Alman multecileri tasiyan trenler DDR topraklarindan gecerken binlerce kisi Dresden Merkez Istasyonu'nda toplandi. Protestolar guvenlik gucleriyle catismalara donustu.",
+      "zh": "1989年10月4日，当载有从布拉格前往西德的东德难民的列车穿过东德时，数千人聚集在德累斯顿中央车站。抗议升级为与安全部队的冲突。",
+      "ja": "1989年10月4日、プラハから西ドイツへ向かう東ドイツ難民を乗せた列車が東ドイツを通過する中、数千人がドレスデン中央駅に集まりました。抗議は治安部隊との衝突へと発展しました。",
+      "ko": "1989년 10월 4일, 프라하에서 서독으로 향하는 동독 난민들을 태운 열차가 동독을 통과하자 수천 명이 드레스덴 중앙역에 모였다. 시위는 보안 병력과의 충돌로 번졌다.",
+      "hi": "4 अक्टूबर 1989 को, जब प्राग से पश्चिम जर्मनी जा रही पूर्वी जर्मन शरणार्थियों की ट्रेनें जीडीआर से गुजरीं, हजारों लोग ड्रेसडेन मुख्य स्टेशन पर जमा हुए। विरोध सुरक्षा बलों से झड़पों में बदल गया।",
+      "ar": "في 4 اكتوبر 1989 تجمع الاف الاشخاص عند محطة دريسدن الرئيسية عندما مرت عبر المانيا الشرقية قطارات تحمل لاجئين من المانيا الشرقية من براغ الى المانيا الغربية. وتصاعدت الاحتجاجات الى اشتباكات مع قوات الامن."
     },
     "importance": {
       "ru": "Дрезденские события стали важной частью Мирной революции и показали, насколько быстро росло недовольство в ГДР.",
       "de": "Die Dresdner Ereignisse wurden zu einem wichtigen Teil der Friedlichen Revolution und zeigten, wie schnell die Unzufriedenheit in der DDR wuchs.",
-      "en": "The Dresden events became an important part of the Peaceful Revolution and showed how quickly discontent in East Germany was growing."
+      "en": "The Dresden events became an important part of the Peaceful Revolution and showed how quickly discontent in East Germany was growing.",
+      "fr": "Les evenements de Dresde devinrent une partie importante de la revolution pacifique et montrerent à quelle vitesse le mecontentement grandissait en RDA.",
+      "es": "Los acontecimientos de Dresde se convirtieron en una parte importante de la Revolucion Pacifica y mostraron lo rapido que crecia el descontento en la RDA.",
+      "it": "Gli eventi di Dresda divennero una parte importante della Rivoluzione pacifica e mostrarono quanto rapidamente crescesse il malcontento nella DDR.",
+      "pt": "Os acontecimentos de Dresden tornaram-se parte importante da Revolucao Pacifica e mostraram como o descontentamento crescia rapidamente na RDA.",
+      "nl": "De gebeurtenissen in Dresden werden een belangrijk deel van de Vreedzame Revolutie en lieten zien hoe snel de onvrede in de DDR groeide.",
+      "pl": "Wydarzenia w Dreznie staly sie wazna czescia Pokojowej Rewolucji i pokazaly, jak szybko roslo niezadowolenie w NRD.",
+      "tr": "Dresden olaylari Bariscil Devrim'in onemli bir parcasi oldu ve Dogu Almanya'da hosnutsuzlugun ne kadar hizla buyudugunu gosterdi.",
+      "zh": "德累斯顿事件成为和平革命的重要组成部分，并显示东德的不满情绪增长得多么迅速。",
+      "ja": "ドレスデンの出来事は平和革命の重要な一部となり、東ドイツで不満がいかに急速に高まっていたかを示しました。",
+      "ko": "드레스덴 사건은 평화혁명의 중요한 부분이 되었고, 동독에서 불만이 얼마나 빠르게 커지고 있었는지를 보여주었다.",
+      "hi": "ड्रेसडेन की घटनाएं शांतिपूर्ण क्रांति का महत्वपूर्ण हिस्सा बनीं और दिखाया कि पूर्वी जर्मनी में असंतोष कितनी तेजी से बढ़ रहा था।",
+      "ar": "اصبحت احداث دريسدن جزءا مهما من الثورة السلمية واظهرت مدى سرعة نمو الاستياء في المانيا الشرقية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Поезда из Праги",
           "de": "Die Zuege aus Prag",
-          "en": "The trains from Prague"
+          "en": "The trains from Prague",
+          "fr": "Les trains venus de Prague",
+          "es": "Los trenes desde Praga",
+          "it": "I treni da Praga",
+          "pt": "Os trens de Praga",
+          "nl": "De treinen uit Praag",
+          "pl": "Pociagi z Pragi",
+          "tr": "Prag'dan gelen trenler",
+          "zh": "来自布拉格的列车",
+          "ja": "プラハからの列車",
+          "ko": "프라하에서 온 열차들",
+          "hi": "प्राग से आई ट्रेनें",
+          "ar": "القطارات القادمة من براغ"
         },
         "description": {
           "ru": "Тысячи граждан ГДР нашли убежище в посольстве ФРГ в Праге. Когда их вывозили на Запад поездами через территорию ГДР, многие в Дрездене попытались попасть к этим поездам.",
           "de": "Tausende DDR-Buerger hatten in der Botschaft der Bundesrepublik in Prag Zuflucht gesucht. Als sie mit Zuegen durch DDR-Gebiet in den Westen gebracht wurden, versuchten viele Menschen in Dresden, diese Zuege zu erreichen.",
-          "en": "Thousands of East German citizens had sought refuge in the West German embassy in Prague. When they were taken west by trains through GDR territory, many people in Dresden tried to reach those trains."
+          "en": "Thousands of East German citizens had sought refuge in the West German embassy in Prague. When they were taken west by trains through GDR territory, many people in Dresden tried to reach those trains.",
+          "fr": "Des milliers de citoyens de RDA avaient cherche refuge à l'ambassade de la RFA à Prague. Lorsqu'ils furent emmenes vers l'Ouest en train à travers le territoire de la RDA, beaucoup de personnes à Dresde tenterent de rejoindre ces trains.",
+          "es": "Miles de ciudadanos de la RDA habian buscado refugio en la embajada de la RFA en Praga. Cuando fueron llevados al Oeste en trenes a traves del territorio de la RDA, muchas personas en Dresde intentaron alcanzar esos trenes.",
+          "it": "Migliaia di cittadini della DDR avevano cercato rifugio nell'ambasciata della Germania Ovest a Praga. Quando furono portati a ovest in treno attraverso il territorio della DDR, molte persone a Dresda cercarono di raggiungere quei treni.",
+          "pt": "Milhares de cidadaos da RDA haviam buscado refugio na embaixada da Alemanha Ocidental em Praga. Quando foram levados para o Oeste de trem pelo territorio da RDA, muitas pessoas em Dresden tentaram chegar a esses trens.",
+          "nl": "Duizenden DDR-burgers hadden onderdak gezocht in de West-Duitse ambassade in Praag. Toen zij per trein door DDR-gebied naar het westen werden gebracht, probeerden veel mensen in Dresden die treinen te bereiken.",
+          "pl": "Tysiace obywateli NRD szukaly schronienia w ambasadzie RFN w Pradze. Gdy wywozono ich na Zachod pociagami przez terytorium NRD, wielu ludzi w Dreznie probowalo dostac sie do tych pociagow.",
+          "tr": "Binlerce DDR vatandasi Prag'daki Bati Almanya buyukelciligine siginmisti. DDR topraklarindan trenlerle Bati'ya goturulduklerinde, Dresden'de birçok kisi bu trenlere ulasmaya calisti.",
+          "zh": "数千名东德公民曾在布拉格的西德大使馆寻求庇护。当他们乘列车穿过东德领土前往西方时，德累斯顿的许多人试图登上这些列车。",
+          "ja": "何千人もの東ドイツ市民がプラハの西ドイツ大使館に避難していました。彼らが東ドイツ領内を通る列車で西側へ運ばれた時、ドレスデンの多くの人々がその列車に乗ろうとしました。",
+          "ko": "수천 명의 동독 시민들이 프라하의 서독 대사관에 피신해 있었다. 그들이 동독 영토를 지나 서쪽으로 가는 열차로 이동할 때, 드레스덴의 많은 사람들이 그 열차에 타려 했다.",
+          "hi": "हजारों जीडीआर नागरिकों ने प्राग में पश्चिम जर्मन दूतावास में शरण ली थी। जब उन्हें जीडीआर क्षेत्र से होकर ट्रेनों से पश्चिम ले जाया गया, तो ड्रेसडेन में कई लोगों ने उन ट्रेनों तक पहुंचने की कोशिश की।",
+          "ar": "كان الاف مواطني المانيا الشرقية قد لجأوا الى سفارة المانيا الغربية في براغ. وعندما نقلوا غربا بالقطارات عبر اراضي المانيا الشرقية، حاول كثيرون في دريسدن الوصول الى تلك القطارات."
         },
         "importance": {
           "ru": "Так обычный вокзал стал местом, где видимым стал кризис всего государства.",
           "de": "So wurde ein normaler Bahnhof zu einem Ort, an dem die Krise des ganzen Staates sichtbar wurde.",
-          "en": "An ordinary railway station thus became a place where the crisis of the whole state became visible."
+          "en": "An ordinary railway station thus became a place where the crisis of the whole state became visible.",
+          "fr": "Ainsi, une gare ordinaire devint un lieu ou la crise de tout l'Etat devenait visible.",
+          "es": "Asi, una estacion comun se convirtio en un lugar donde se hizo visible la crisis de todo el Estado.",
+          "it": "Cosi una stazione ordinaria divenne un luogo in cui la crisi dell'intero Stato divenne visibile.",
+          "pt": "Assim, uma estacao comum tornou-se um lugar onde a crise de todo o Estado ficou visivel.",
+          "nl": "Zo werd een gewoon station een plaats waar de crisis van de hele staat zichtbaar werd.",
+          "pl": "Tak zwykly dworzec stal sie miejscem, w ktorym widoczny stal sie kryzys calego panstwa.",
+          "tr": "Boylece siradan bir tren istasyonu, tum devletin krizinin gorunur hale geldigi bir yere donustu.",
+          "zh": "于是，一个普通车站变成了整个国家危机显现的地方。",
+          "ja": "こうして普通の駅が、国家全体の危機が目に見える場所になりました。",
+          "ko": "이렇게 평범한 기차역은 국가 전체의 위기가 드러나는 장소가 되었다.",
+          "hi": "इस तरह एक साधारण रेलवे स्टेशन वह जगह बन गया जहां पूरे राज्य का संकट दिखाई देने लगा।",
+          "ar": "وهكذا اصبحت محطة عادية مكانا ظهر فيه ازمة الدولة كلها."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Начало дрезденской «Группы 20»",
           "de": "Anfang der Dresdner Gruppe der 20",
-          "en": "Beginning of Dresden's Group of 20"
+          "en": "Beginning of Dresden's Group of 20",
+          "fr": "Debut du Groupe des 20 de Dresde",
+          "es": "Inicio del Grupo de los 20 de Dresde",
+          "it": "Inizio del Gruppo dei 20 di Dresda",
+          "pt": "Inicio do Grupo dos 20 de Dresden",
+          "nl": "Begin van de Dresdense Groep van 20",
+          "pl": "Poczatek drezdenskiej Grupy 20",
+          "tr": "Dresden 20'ler Grubu'nun baslangici",
+          "zh": "德累斯顿“二十人小组”的开始",
+          "ja": "ドレスデン「20人グループ」の始まり",
+          "ko": "드레스덴 20인 그룹의 시작",
+          "hi": "ड्रेसडेन की '20 की समूह' की शुरुआत",
+          "ar": "بداية مجموعة العشرين في دريسدن"
         },
         "description": {
           "ru": "После столкновений в Дрездене возникла группа гражданских представителей, которая стала вести переговоры с городскими властями. Её называли «Группой 20».",
           "de": "Nach den Zusammenstoessen in Dresden entstand eine Gruppe buergerlicher Vertreter, die mit der Stadtfuehrung verhandelte. Sie wurde Gruppe der 20 genannt.",
-          "en": "After the clashes in Dresden, a group of citizen representatives emerged to negotiate with city authorities. It became known as the Group of 20."
+          "en": "After the clashes in Dresden, a group of citizen representatives emerged to negotiate with city authorities. It became known as the Group of 20.",
+          "fr": "Apres les affrontements à Dresde, un groupe de representants citoyens apparut pour negocier avec les autorites municipales. Il fut connu sous le nom de Groupe des 20.",
+          "es": "Tras los enfrentamientos en Dresde, surgio un grupo de representantes ciudadanos para negociar con las autoridades municipales. Se conocio como el Grupo de los 20.",
+          "it": "Dopo gli scontri a Dresda, emerse un gruppo di rappresentanti cittadini per negoziare con le autorita municipali. Divenne noto come Gruppo dei 20.",
+          "pt": "Depois dos confrontos em Dresden, surgiu um grupo de representantes cidadaos para negociar com as autoridades da cidade. Ele ficou conhecido como Grupo dos 20.",
+          "nl": "Na de botsingen in Dresden ontstond een groep burgervertegenwoordigers die met het stadsbestuur onderhandelde. Die werd bekend als de Groep van 20.",
+          "pl": "Po starciach w Dreznie powstala grupa przedstawicieli obywatelskich, ktora zaczela negocjowac z wladzami miasta. Nazywano ja Grupa 20.",
+          "tr": "Dresden'deki catismalardan sonra, kent yetkilileriyle gorusmek uzere yurttas temsilcilerinden olusan bir grup ortaya cikti. Bu grup 20'ler Grubu olarak tanindi.",
+          "zh": "德累斯顿冲突后，一群公民代表出现并开始与市政当局谈判。它后来被称为“二十人小组”。",
+          "ja": "ドレスデンでの衝突の後、市当局と交渉する市民代表のグループが生まれました。それは「20人グループ」として知られるようになりました。",
+          "ko": "드레스덴 충돌 이후 시민 대표 그룹이 생겨 시 당국과 협상하기 시작했다. 이 그룹은 20인 그룹으로 알려졌다.",
+          "hi": "ड्रेसडेन में झड़पों के बाद नागरिक प्रतिनिधियों का एक समूह बना, जिसने नगर अधिकारियों से बातचीत शुरू की। इसे '20 का समूह' कहा गया।",
+          "ar": "بعد الاشتباكات في دريسدن ظهرت مجموعة من ممثلي المواطنين للتفاوض مع سلطات المدينة. واصبحت تعرف باسم مجموعة العشرين."
         },
         "importance": {
           "ru": "Иногда протест рождает не только лозунги, но и новые формы переговоров.",
           "de": "Manchmal bringt Protest nicht nur Parolen hervor, sondern auch neue Formen des Verhandelns.",
-          "en": "Sometimes protest produces not only slogans but also new forms of negotiation."
+          "en": "Sometimes protest produces not only slogans but also new forms of negotiation.",
+          "fr": "Parfois, la protestation produit non seulement des slogans, mais aussi de nouvelles formes de negociation.",
+          "es": "A veces la protesta produce no solo consignas, sino tambien nuevas formas de negociacion.",
+          "it": "A volte la protesta produce non solo slogan, ma anche nuove forme di negoziazione.",
+          "pt": "As vezes, o protesto produz nao apenas palavras de ordem, mas tambem novas formas de negociacao.",
+          "nl": "Soms brengt protest niet alleen leuzen voort, maar ook nieuwe vormen van onderhandeling.",
+          "pl": "Czasem protest rodzi nie tylko hasla, lecz takze nowe formy negocjacji.",
+          "tr": "Bazen protesto yalnizca sloganlar degil, yeni muzakereler bicimleri de ortaya cikarir.",
+          "zh": "有时，抗议不仅产生口号，也产生新的谈判形式。",
+          "ja": "抗議は時に、スローガンだけでなく新しい交渉の形も生み出します。",
+          "ko": "때로 시위는 구호뿐 아니라 새로운 협상 방식도 만들어 낸다.",
+          "hi": "कभी-कभी विरोध केवल नारे ही नहीं, बल्कि बातचीत के नए रूप भी पैदा करता है।",
+          "ar": "احيانا لا ينتج الاحتجاج شعارات فقط، بل اشكالا جديدة من التفاوض ايضا."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Дрезденские события начались за несколько дней до знаменитой демонстрации 9 октября в Лейпциге.",
     "de": "Die Dresdner Ereignisse begannen wenige Tage vor der beruehmten Demonstration am 9. Oktober in Leipzig.",
-    "en": "The Dresden events began a few days before the famous demonstration in Leipzig on 9 October."
+    "en": "The Dresden events began a few days before the famous demonstration in Leipzig on 9 October.",
+    "fr": "Les evenements de Dresde commencerent quelques jours avant la celebre manifestation du 9 octobre à Leipzig.",
+    "es": "Los acontecimientos de Dresde comenzaron unos dias antes de la famosa manifestacion del 9 de octubre en Leipzig.",
+    "it": "Gli eventi di Dresda iniziarono pochi giorni prima della famosa manifestazione del 9 ottobre a Lipsia.",
+    "pt": "Os acontecimentos de Dresden comecaram poucos dias antes da famosa manifestacao de 9 de outubro em Leipzig.",
+    "nl": "De gebeurtenissen in Dresden begonnen enkele dagen voor de beroemde demonstratie in Leipzig op 9 oktober.",
+    "pl": "Wydarzenia w Dreznie zaczely sie kilka dni przed slawna demonstracja 9 pazdziernika w Lipsku.",
+    "tr": "Dresden olaylari, Leipzig'deki 9 Ekim tarihli unlu gosteriden birkac gun once basladi.",
+    "zh": "德累斯顿事件发生在10月9日莱比锡著名示威的几天前。",
+    "ja": "ドレスデンの出来事は、10月9日のライプツィヒでの有名なデモの数日前に始まりました。",
+    "ko": "드레스덴 사건은 10월 9일 라이프치히의 유명한 시위가 있기 며칠 전에 시작되었다.",
+    "hi": "ड्रेसडेन की घटनाएं 9 अक्टूबर को लाइपज़िग में प्रसिद्ध प्रदर्शन से कुछ दिन पहले शुरू हुईं।",
+    "ar": "بدأت احداث دريسدن قبل ايام قليلة من المظاهرة الشهيرة في لايبزيغ في 9 اكتوبر."
   },
   "sources": [
     {

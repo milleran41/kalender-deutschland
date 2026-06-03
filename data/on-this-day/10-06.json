@@ -11,17 +11,53 @@
     "title": {
       "ru": "Горбачёв приехал в Восточный Берлин",
       "de": "Gorbatschow kommt nach Ost-Berlin",
-      "en": "Gorbachev arrives in East Berlin"
+      "en": "Gorbachev arrives in East Berlin",
+      "fr": "Gorbatchev arrive à Berlin-Est",
+      "es": "Gorbachov llega a Berlin Este",
+      "it": "Gorbaciov arriva a Berlino Est",
+      "pt": "Gorbachev chega a Berlim Oriental",
+      "nl": "Gorbatsjov arriveert in Oost-Berlijn",
+      "pl": "Gorbaczow przybywa do Berlina Wschodniego",
+      "tr": "Gorbachev Dogu Berlin'e geldi",
+      "zh": "戈尔巴乔夫抵达东柏林",
+      "ja": "ゴルバチョフが東ベルリンに到着",
+      "ko": "고르바초프가 동베를린에 도착하다",
+      "hi": "गोर्बाचेव पूर्वी बर्लिन पहुंचे",
+      "ar": "غورباتشوف يصل الى برلين الشرقية"
     },
     "description": {
       "ru": "6 октября 1989 года Михаил Горбачёв прибыл в ГДР на празднование 40-летия государства. Его визит проходил на фоне массового недовольства и растущего кризиса режима.",
       "de": "Am 6. Oktober 1989 kam Michail Gorbatschow zu den Feierlichkeiten zum 40. Jahrestag der DDR nach Ost-Berlin. Sein Besuch fand vor dem Hintergrund wachsender Unzufriedenheit und einer tiefen Krise des Regimes statt.",
-      "en": "On 6 October 1989, Mikhail Gorbachev arrived in East Berlin for the GDR's 40th anniversary celebrations. His visit took place amid growing public discontent and a deepening regime crisis."
+      "en": "On 6 October 1989, Mikhail Gorbachev arrived in East Berlin for the GDR's 40th anniversary celebrations. His visit took place amid growing public discontent and a deepening regime crisis.",
+      "fr": "Le 6 octobre 1989, Mikhail Gorbatchev arriva à Berlin-Est pour les celebrations du 40e anniversaire de la RDA. Sa visite eut lieu sur fond de mecontentement croissant et de crise de plus en plus profonde du regime.",
+      "es": "El 6 de octubre de 1989, Mijail Gorbachov llego a Berlin Este para las celebraciones del 40 aniversario de la RDA. Su visita tuvo lugar en medio de un creciente descontento publico y una crisis cada vez mas profunda del regimen.",
+      "it": "Il 6 ottobre 1989 Mikhail Gorbaciov arrivo a Berlino Est per le celebrazioni del 40º anniversario della DDR. La visita avvenne sullo sfondo di un crescente malcontento pubblico e di una crisi sempre piu profonda del regime.",
+      "pt": "Em 6 de outubro de 1989, Mikhail Gorbachev chegou a Berlim Oriental para as celebracoes do 40º aniversario da RDA. Sua visita ocorreu em meio a crescente descontentamento publico e a uma crise cada vez mais profunda do regime.",
+      "nl": "Op 6 oktober 1989 kwam Michail Gorbatsjov naar Oost-Berlijn voor de viering van de 40e verjaardag van de DDR. Zijn bezoek vond plaats tegen de achtergrond van groeiende publieke onvrede en een dieper wordende regimecrisis.",
+      "pl": "6 pazdziernika 1989 roku Michail Gorbaczow przybyl do Berlina Wschodniego na obchody 40-lecia NRD. Jego wizyta odbywala sie w atmosferze rosnacego niezadowolenia spolecznego i poglebiajacego sie kryzysu rezimu.",
+      "tr": "6 Ekim 1989'da Mihail Gorbachev, DDR'nin 40. yil kutlamalari icin Dogu Berlin'e geldi. Ziyareti, artan toplumsal hosnutsuzluk ve derinlesen rejim krizi ortaminda gerceklesti.",
+      "zh": "1989年10月6日，米哈伊尔·戈尔巴乔夫抵达东柏林，参加东德建国40周年庆典。他的访问发生在公众不满日益增长、政权危机加深的背景下。",
+      "ja": "1989年10月6日、ミハイル・ゴルバチョフは東ドイツ建国40周年式典のため東ベルリンに到着しました。彼の訪問は、国民の不満の高まりと体制危機の深刻化の中で行われました。",
+      "ko": "1989년 10월 6일, 미하일 고르바초프가 동독 40주년 기념행사를 위해 동베를린에 도착했다. 그의 방문은 대중의 불만이 커지고 정권 위기가 깊어지는 가운데 이루어졌다.",
+      "hi": "6 अक्टूबर 1989 को मिखाइल गोर्बाचेव जीडीआर की 40वीं वर्षगांठ के समारोहों के लिए पूर्वी बर्लिन पहुंचे। उनकी यात्रा बढ़ते जन असंतोष और गहराते शासन संकट की पृष्ठभूमि में हुई।",
+      "ar": "في 6 اكتوبر 1989 وصل ميخائيل غورباتشوف الى برلين الشرقية للمشاركة في احتفالات الذكرى الاربعين لجمهورية المانيا الديمقراطية. وجرت زيارته وسط استياء شعبي متزايد وازمة عميقة في النظام."
     },
     "importance": {
       "ru": "Визит стал символом разрыва между советской перестройкой и нежеланием руководства ГДР проводить реформы.",
       "de": "Der Besuch wurde zum Symbol fuer die Kluft zwischen sowjetischer Perestroika und der Reformverweigerung der DDR-Fuehrung.",
-      "en": "The visit became a symbol of the gap between Soviet perestroika and the East German leadership's refusal to reform."
+      "en": "The visit became a symbol of the gap between Soviet perestroika and the East German leadership's refusal to reform.",
+      "fr": "La visite devint le symbole de l'ecart entre la perestroika sovietique et le refus de reformer de la direction est-allemande.",
+      "es": "La visita se convirtio en simbolo de la brecha entre la perestroika sovietica y la negativa de la direccion de la RDA a reformarse.",
+      "it": "La visita divenne simbolo del divario tra la perestrojka sovietica e il rifiuto della leadership della DDR di fare riforme.",
+      "pt": "A visita tornou-se simbolo da distancia entre a perestroika sovietica e a recusa da lideranca da RDA em reformar.",
+      "nl": "Het bezoek werd een symbool van de kloof tussen Sovjet-perestrojka en de weigering van de DDR-leiding om te hervormen.",
+      "pl": "Wizyta stala sie symbolem rozziewu miedzy radziecka pierestrojka a odmowa reform ze strony kierownictwa NRD.",
+      "tr": "Ziyaret, Sovyet perestroykasi ile DDR liderliginin reform yapmayi reddetmesi arasindaki ucurumun sembolu oldu.",
+      "zh": "这次访问成为苏联改革与东德领导层拒绝改革之间裂痕的象征。",
+      "ja": "この訪問は、ソ連のペレストロイカと東ドイツ指導部の改革拒否との隔たりを象徴するものとなりました。",
+      "ko": "이 방문은 소련의 페레스트로이카와 동독 지도부의 개혁 거부 사이의 간극을 상징하게 되었다.",
+      "hi": "यह यात्रा सोवियत पेरेस्त्रोइका और जीडीआर नेतृत्व के सुधार से इनकार के बीच अंतर का प्रतीक बन गई।",
+      "ar": "اصبحت الزيارة رمزا للفجوة بين البيريسترويكا السوفيتية ورفض قيادة المانيا الشرقية للاصلاح."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Кто опаздывает, того наказывает жизнь»",
           "de": "Wer zu spaet kommt, den bestraft das Leben",
-          "en": "Life punishes those who come too late"
+          "en": "Life punishes those who come too late",
+          "fr": "La vie punit ceux qui arrivent trop tard",
+          "es": "La vida castiga a quienes llegan demasiado tarde",
+          "it": "La vita punisce chi arriva troppo tardi",
+          "pt": "A vida pune quem chega tarde demais",
+          "nl": "Het leven straft wie te laat komt",
+          "pl": "Kto przychodzi za pozno, tego karze zycie",
+          "tr": "Gec kalanlari hayat cezalandirir",
+          "zh": "生活会惩罚来得太晚的人",
+          "ja": "遅れて来る者を人生が罰する",
+          "ko": "늦게 오는 자는 삶이 벌한다",
+          "hi": "जो देर से आते हैं, जीवन उन्हें दंड देता है",
+          "ar": "الحياة تعاقب من يتأخر"
         },
         "description": {
           "ru": "С визитом Горбачёва часто связывают фразу о том, что жизнь наказывает опоздавших. Даже если точная форма цитаты обсуждается, смысл хорошо передавал ситуацию в ГДР.",
           "de": "Mit Gorbatschows Besuch wird oft der Satz verbunden, dass das Leben den bestraft, der zu spaet kommt. Auch wenn die genaue Formulierung diskutiert wird, traf der Sinn die Lage in der DDR.",
-          "en": "Gorbachev's visit is often associated with the phrase that life punishes those who come too late. Even if the exact wording is debated, the meaning captured the situation in East Germany."
+          "en": "Gorbachev's visit is often associated with the phrase that life punishes those who come too late. Even if the exact wording is debated, the meaning captured the situation in East Germany.",
+          "fr": "La visite de Gorbatchev est souvent associee à la phrase selon laquelle la vie punit ceux qui arrivent trop tard. Meme si la formulation exacte est discutee, le sens correspondait bien à la situation en RDA.",
+          "es": "La visita de Gorbachov se asocia a menudo con la frase de que la vida castiga a quienes llegan tarde. Aunque se discuta la formulacion exacta, el sentido describia bien la situacion en la RDA.",
+          "it": "La visita di Gorbaciov e spesso associata alla frase secondo cui la vita punisce chi arriva troppo tardi. Anche se la formulazione esatta e discussa, il senso descriveva bene la situazione nella DDR.",
+          "pt": "A visita de Gorbachev costuma ser associada a frase de que a vida pune quem chega tarde demais. Mesmo que a formulacao exata seja discutida, o sentido captava bem a situacao na RDA.",
+          "nl": "Gorbatsjovs bezoek wordt vaak verbonden met de uitspraak dat het leven wie te laat komt straft. Ook al wordt de precieze formulering besproken, de betekenis paste goed bij de situatie in de DDR.",
+          "pl": "Wizyte Gorbaczowa czesto laczy sie ze zdaniem, ze zycie karze tych, ktorzy przychodza za pozno. Nawet jesli dokladne brzmienie cytatu jest dyskutowane, sens dobrze oddawal sytuacje w NRD.",
+          "tr": "Gorbachev'in ziyareti, hayatin gec kalanlari cezalandirdigi sozuyle sikca iliskilendirilir. Tam ifade tartisilsa bile anlam, Dogu Almanya'daki durumu iyi yansitiyordu.",
+          "zh": "戈尔巴乔夫的访问常与“生活会惩罚来得太晚的人”这句话联系在一起。即使准确措辞仍有争议，其含义很好地概括了东德的处境。",
+          "ja": "ゴルバチョフの訪問は、人生は遅れて来た者を罰するという言葉とよく結びつけられます。正確な表現には議論がありますが、その意味は東ドイツの状況をよく表していました。",
+          "ko": "고르바초프의 방문은 삶이 늦게 오는 자를 벌한다는 말과 자주 연결된다. 정확한 표현은 논쟁의 여지가 있지만, 그 의미는 동독의 상황을 잘 포착했다.",
+          "hi": "गोर्बाचेव की यात्रा को अक्सर इस वाक्य से जोड़ा जाता है कि जीवन देर से आने वालों को दंड देता है। सटीक शब्दों पर बहस हो सकती है, लेकिन अर्थ जीडीआर की स्थिति को अच्छी तरह दिखाता था।",
+          "ar": "غالبا ما ترتبط زيارة غورباتشوف بعبارة ان الحياة تعاقب من يأتي متأخرا. وحتى لو نوقشت الصياغة الدقيقة، فقد عبر المعنى جيدا عن وضع المانيا الشرقية."
         },
         "importance": {
           "ru": "Одна фраза стала кратким образом политического опоздания режима.",
           "de": "Ein Satz wurde zum kurzen Bild fuer das politische Zuspaetkommen des Regimes.",
-          "en": "One phrase became a compact image of the regime's political lateness."
+          "en": "One phrase became a compact image of the regime's political lateness.",
+          "fr": "Une phrase devint une image breve du retard politique du regime.",
+          "es": "Una frase se convirtio en imagen breve del retraso politico del regimen.",
+          "it": "Una frase divenne un'immagine compatta del ritardo politico del regime.",
+          "pt": "Uma frase tornou-se uma imagem breve do atraso politico do regime.",
+          "nl": "Een zin werd een compact beeld van de politieke laatheid van het regime.",
+          "pl": "Jedno zdanie stalo sie krotkim obrazem politycznego spoznienia rezimu.",
+          "tr": "Tek bir soz, rejimin siyasi gec kalmisliginin kisa bir imgesi oldu.",
+          "zh": "一句话成为该政权政治迟滞的简明象征。",
+          "ja": "一つの言葉が、体制の政治的な遅れを示す短いイメージになりました。",
+          "ko": "한 문구가 정권의 정치적 지각을 압축적으로 보여주는 이미지가 되었다.",
+          "hi": "एक वाक्य शासन की राजनीतिक देरी की संक्षिप्त छवि बन गया।",
+          "ar": "اصبحت عبارة واحدة صورة مختصرة لتأخر النظام السياسي."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Юбилей перед крахом",
           "de": "Jubilaeum vor dem Zusammenbruch",
-          "en": "An anniversary before collapse"
+          "en": "An anniversary before collapse",
+          "fr": "Un anniversaire avant l'effondrement",
+          "es": "Un aniversario antes del colapso",
+          "it": "Un anniversario prima del crollo",
+          "pt": "Um aniversario antes do colapso",
+          "nl": "Een jubileum voor de instorting",
+          "pl": "Jubileusz przed upadkiem",
+          "tr": "Cokusten once bir yil donumu",
+          "zh": "崩溃前的周年庆",
+          "ja": "崩壊前の記念日",
+          "ko": "붕괴 전의 기념일",
+          "hi": "पतन से पहले की वर्षगांठ",
+          "ar": "ذكرى قبل الانهيار"
         },
         "description": {
           "ru": "ГДР готовилась торжественно отметить 40 лет, но уже через несколько недель пала Берлинская стена. Юбилей выглядел всё более оторванным от реальности.",
           "de": "Die DDR bereitete feierlich ihren 40. Jahrestag vor, doch nur wenige Wochen spaeter fiel die Berliner Mauer. Das Jubilaeum wirkte immer staerker von der Wirklichkeit abgekoppelt.",
-          "en": "The GDR prepared to celebrate its 40th anniversary, but only a few weeks later the Berlin Wall fell. The anniversary increasingly seemed detached from reality."
+          "en": "The GDR prepared to celebrate its 40th anniversary, but only a few weeks later the Berlin Wall fell. The anniversary increasingly seemed detached from reality.",
+          "fr": "La RDA se preparait à celebrer solennellement son 40e anniversaire, mais quelques semaines plus tard seulement, le mur de Berlin tomba. Le jubile sembla de plus en plus deconnecte de la realite.",
+          "es": "La RDA se preparaba para celebrar solemnemente su 40 aniversario, pero solo unas semanas despues cayo el Muro de Berlin. El aniversario parecia cada vez mas desconectado de la realidad.",
+          "it": "La DDR si preparava a celebrare solennemente il suo 40º anniversario, ma solo poche settimane dopo cadde il Muro di Berlino. Il giubileo appariva sempre piu staccato dalla realta.",
+          "pt": "A RDA preparava-se para celebrar solenemente seu 40º aniversario, mas poucas semanas depois o Muro de Berlim caiu. O aniversario parecia cada vez mais distante da realidade.",
+          "nl": "De DDR bereidde zich plechtig voor op haar 40e verjaardag, maar slechts enkele weken later viel de Berlijnse Muur. Het jubileum leek steeds meer los te staan van de werkelijkheid.",
+          "pl": "NRD przygotowywala sie do uroczystych obchodow 40-lecia, ale juz kilka tygodni pozniej upadl mur berlinski. Jubileusz wydawal sie coraz bardziej oderwany od rzeczywistosci.",
+          "tr": "DDR 40. yilini torenlerle kutlamaya hazirlaniyordu, ancak sadece birkac hafta sonra Berlin Duvari yikildi. Yil donumu giderek gerceklikten kopuk gorunuyordu.",
+          "zh": "东德正准备隆重庆祝建国40周年，但仅几周后柏林墙就倒塌了。周年庆显得越来越脱离现实。",
+          "ja": "東ドイツは建国40周年を盛大に祝う準備をしていましたが、わずか数週間後にベルリンの壁は崩壊しました。記念式典はますます現実から切り離されて見えました。",
+          "ko": "동독은 40주년을 성대하게 기념할 준비를 하고 있었지만, 불과 몇 주 뒤 베를린 장벽이 무너졌다. 기념일은 점점 현실과 동떨어져 보였다.",
+          "hi": "जीडीआर अपनी 40वीं वर्षगांठ धूमधाम से मनाने की तैयारी कर रहा था, लेकिन कुछ ही सप्ताह बाद बर्लिन की दीवार गिर गई। यह वर्षगांठ वास्तविकता से कटती हुई लगने लगी।",
+          "ar": "كانت المانيا الشرقية تستعد للاحتفال رسميا بذكراها الاربعين، لكن جدار برلين سقط بعد اسابيع قليلة فقط. وبدا اليوبيل منفصلا اكثر فاكثر عن الواقع."
         },
         "importance": {
           "ru": "Иногда официальные праздники особенно ясно показывают, что система уже теряет связь с обществом.",
           "de": "Manchmal zeigen offizielle Feiern besonders klar, dass ein System den Kontakt zur Gesellschaft verliert.",
-          "en": "Sometimes official celebrations show especially clearly that a system is losing touch with society."
+          "en": "Sometimes official celebrations show especially clearly that a system is losing touch with society.",
+          "fr": "Parfois, les celebrations officielles montrent particulierement clairement qu'un systeme perd le contact avec la societe.",
+          "es": "A veces las celebraciones oficiales muestran con especial claridad que un sistema esta perdiendo contacto con la sociedad.",
+          "it": "A volte le celebrazioni ufficiali mostrano con particolare chiarezza che un sistema sta perdendo il contatto con la societa.",
+          "pt": "As vezes, celebracoes oficiais mostram de modo especialmente claro que um sistema esta perdendo contato com a sociedade.",
+          "nl": "Soms laten officiele vieringen bijzonder duidelijk zien dat een systeem het contact met de samenleving verliest.",
+          "pl": "Czasem oficjalne uroczystosci szczegolnie wyraznie pokazuja, ze system traci kontakt ze spoleczenstwem.",
+          "tr": "Bazen resmi kutlamalar, bir sistemin toplumla bagini kaybettigini ozellikle acik bicimde gosterir.",
+          "zh": "有时，官方庆典特别清楚地显示一个制度已经与社会脱节。",
+          "ja": "公式の祝典は時に、体制が社会とのつながりを失っていることを特にはっきり示します。",
+          "ko": "때로 공식 기념행사는 체제가 사회와의 연결을 잃고 있음을 특히 분명하게 보여준다.",
+          "hi": "कभी-कभी आधिकारिक उत्सव बहुत साफ दिखाते हैं कि कोई व्यवस्था समाज से अपना संपर्क खो रही है।",
+          "ar": "احيانا تظهر الاحتفالات الرسمية بوضوح خاص ان نظاما ما يفقد صلته بالمجتمع."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "7 октября 1989 года, во время официального юбилея ГДР, в разных городах уже проходили протесты и столкновения.",
     "de": "Am 7. Oktober 1989, waehrend des offiziellen DDR-Jubilaeums, kam es in mehreren Staedten bereits zu Protesten und Zusammenstoessen.",
-    "en": "On 7 October 1989, during the official GDR anniversary, protests and clashes were already taking place in several cities."
+    "en": "On 7 October 1989, during the official GDR anniversary, protests and clashes were already taking place in several cities.",
+    "fr": "Le 7 octobre 1989, pendant l'anniversaire officiel de la RDA, des protestations et des affrontements avaient deja lieu dans plusieurs villes.",
+    "es": "El 7 de octubre de 1989, durante el aniversario oficial de la RDA, ya habia protestas y enfrentamientos en varias ciudades.",
+    "it": "Il 7 ottobre 1989, durante l'anniversario ufficiale della DDR, in diverse citta erano gia in corso proteste e scontri.",
+    "pt": "Em 7 de outubro de 1989, durante o aniversario oficial da RDA, protestos e confrontos ja ocorriam em varias cidades.",
+    "nl": "Op 7 oktober 1989, tijdens het officiele DDR-jubileum, vonden in meerdere steden al protesten en botsingen plaats.",
+    "pl": "7 pazdziernika 1989 roku, podczas oficjalnego jubileuszu NRD, w kilku miastach odbywaly sie juz protesty i starcia.",
+    "tr": "7 Ekim 1989'da, resmi DDR yil donumu sirasinda, birkac kentte protestolar ve catismalar zaten yasaniyordu.",
+    "zh": "1989年10月7日，在东德官方周年庆期间，多个城市已经发生抗议和冲突。",
+    "ja": "1989年10月7日、東ドイツの公式記念日の最中、すでに複数の都市で抗議と衝突が起きていました。",
+    "ko": "1989년 10월 7일, 동독 공식 기념일 동안 여러 도시에서 이미 시위와 충돌이 벌어지고 있었다.",
+    "hi": "7 अक्टूबर 1989 को, जीडीआर की आधिकारिक वर्षगांठ के दौरान, कई शहरों में पहले से ही विरोध और झड़पें हो रही थीं।",
+    "ar": "في 7 اكتوبر 1989، اثناء الذكرى الرسمية لجمهورية المانيا الديمقراطية، كانت الاحتجاجات والاشتباكات تجري بالفعل في عدة مدن."
   },
   "sources": [
     {
