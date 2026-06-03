@@ -11,17 +11,53 @@
     "title": {
       "ru": "Открылись Бранденбургские ворота",
       "de": "Das Brandenburger Tor wird geoeffnet",
-      "en": "The Brandenburg Gate opens"
+      "en": "The Brandenburg Gate opens",
+      "fr": "La porte de Brandebourg s'ouvre",
+      "es": "Se abre la Puerta de Brandeburgo",
+      "it": "Si apre la Porta di Brandeburgo",
+      "pt": "O Portao de Brandemburgo e aberto",
+      "nl": "De Brandenburger Tor gaat open",
+      "pl": "Brama Brandenburska zostaje otwarta",
+      "tr": "Brandenburg Kapisi aciliyor",
+      "zh": "勃兰登堡门开放",
+      "ja": "ブランデンブルク門が開く",
+      "ko": "브란덴부르크 문이 열리다",
+      "hi": "ब्रांडेनबर्ग गेट खुला",
+      "ar": "فتح بوابة براندنبورغ"
     },
     "description": {
       "ru": "22 декабря 1989 года Бранденбургские ворота в Берлине были снова открыты для прохода. Канцлер Гельмут Коль и премьер ГДР Ханс Модров встретились у одного из главных символов разделённой Германии.",
       "de": "Am 22. Dezember 1989 wurde das Brandenburger Tor in Berlin wieder fuer den Durchgang geoeffnet. Bundeskanzler Helmut Kohl und DDR-Ministerpraesident Hans Modrow trafen sich an einem der wichtigsten Symbole des geteilten Deutschlands.",
-      "en": "On 22 December 1989, the Brandenburg Gate in Berlin was reopened for passage. Chancellor Helmut Kohl and East German prime minister Hans Modrow met at one of the central symbols of divided Germany."
+      "en": "On 22 December 1989, the Brandenburg Gate in Berlin was reopened for passage. Chancellor Helmut Kohl and East German prime minister Hans Modrow met at one of the central symbols of divided Germany.",
+      "fr": "Le 22 decembre 1989, la porte de Brandebourg a Berlin fut rouverte au passage. Le chancelier Helmut Kohl et le premier ministre est-allemand Hans Modrow se rencontrerent devant l'un des symboles centraux de l'Allemagne divisee.",
+      "es": "El 22 de diciembre de 1989, la Puerta de Brandeburgo en Berlin se reabrio al paso. El canciller Helmut Kohl y el primer ministro de la RDA Hans Modrow se reunieron ante uno de los simbolos centrales de la Alemania dividida.",
+      "it": "Il 22 dicembre 1989 la Porta di Brandeburgo a Berlino fu riaperta al passaggio. Il cancelliere Helmut Kohl e il primo ministro della Germania Est Hans Modrow si incontrarono davanti a uno dei simboli centrali della Germania divisa.",
+      "pt": "Em 22 de dezembro de 1989, o Portao de Brandemburgo em Berlim foi reaberto para passagem. O chanceler Helmut Kohl e o primeiro-ministro da Alemanha Oriental Hans Modrow encontraram-se diante de um dos simbolos centrais da Alemanha dividida.",
+      "nl": "Op 22 december 1989 werd de Brandenburger Tor in Berlijn weer geopend voor doorgang. Bondskanselier Helmut Kohl en de Oost-Duitse premier Hans Modrow ontmoetten elkaar bij een van de centrale symbolen van verdeeld Duitsland.",
+      "pl": "22 grudnia 1989 roku Brama Brandenburska w Berlinie zostala ponownie otwarta dla przejscia. Kanclerz Helmut Kohl i premier NRD Hans Modrow spotkali sie przy jednym z glownych symboli podzielonych Niemiec.",
+      "tr": "22 Aralik 1989'da Berlin'deki Brandenburg Kapisi yeniden gecise acildi. Sansolye Helmut Kohl ve Dogu Almanya basbakani Hans Modrow, bolunmus Almanya'nin merkezi simgelerinden birinde bulustu.",
+      "zh": "1989年12月22日，柏林的勃兰登堡门重新开放通行。总理赫尔穆特·科尔和东德总理汉斯·莫德罗在分裂德国的核心象征之一会面。",
+      "ja": "1989年12月22日、ベルリンのブランデンブルク門が再び通行できるようになりました。ヘルムート・コール首相と東ドイツ首相ハンス・モドロウは、分断されたドイツを象徴する中心的な場所の一つで会いました。",
+      "ko": "1989년 12월 22일 베를린의 브란덴부르크 문이 다시 통행을 위해 열렸다. 헬무트 콜 총리와 동독 총리 한스 모드로가 분단 독일의 중심 상징 중 하나에서 만났다.",
+      "hi": "22 दिसंबर 1989 को बर्लिन का ब्रांडेनबर्ग गेट फिर से आने-जाने के लिए खोला गया। चांसलर हेल्मुट कोल और पूर्वी जर्मनी के प्रधानमंत्री हांस मोड्रोव विभाजित जर्मनी के प्रमुख प्रतीकों में से एक पर मिले।",
+      "ar": "في 22 ديسمبر 1989 أُعيد فتح بوابة براندنبورغ في برلين للمرور. والتقى المستشار هلموت كول ورئيس وزراء ألمانيا الشرقية هانس مودرو عند أحد الرموز المركزية لألمانيا المقسمة."
     },
     "importance": {
       "ru": "Открытие ворот стало сильным визуальным знаком конца разделения Берлина.",
       "de": "Die Oeffnung des Tores wurde zu einem starken sichtbaren Zeichen fuer das Ende der Teilung Berlins.",
-      "en": "The opening of the gate became a powerful visual sign of the end of Berlin's division."
+      "en": "The opening of the gate became a powerful visual sign of the end of Berlin's division.",
+      "fr": "L'ouverture de la porte devint un signe visuel fort de la fin de la division de Berlin.",
+      "es": "La apertura de la puerta se convirtio en una poderosa senal visual del fin de la division de Berlin.",
+      "it": "L'apertura della porta divenne un potente segno visivo della fine della divisione di Berlino.",
+      "pt": "A abertura do portao tornou-se um forte sinal visual do fim da divisao de Berlim.",
+      "nl": "De opening van de poort werd een krachtig zichtbaar teken van het einde van de deling van Berlijn.",
+      "pl": "Otwarcie bramy stalo sie mocnym wizualnym znakiem konca podzialu Berlina.",
+      "tr": "Kapinin acilisi, Berlin'in bolunmesinin sonuna dair guclu bir gorsel isaret oldu.",
+      "zh": "大门开放成为柏林分裂结束的强烈视觉标志。",
+      "ja": "門の開放は、ベルリン分断の終わりを示す強力な視覚的しるしとなりました。",
+      "ko": "문의 개방은 베를린 분단의 끝을 보여 주는 강력한 시각적 표시가 되었다.",
+      "hi": "गेट का खुलना बर्लिन के विभाजन के अंत का शक्तिशाली दृश्य संकेत बन गया।",
+      "ar": "أصبح فتح البوابة علامة بصرية قوية على نهاية تقسيم برلين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Символ разделения стал символом единства",
           "de": "Vom Symbol der Teilung zum Symbol der Einheit",
-          "en": "From symbol of division to symbol of unity"
+          "en": "From symbol of division to symbol of unity",
+          "fr": "Du symbole de division au symbole d'unite",
+          "es": "De simbolo de division a simbolo de unidad",
+          "it": "Da simbolo della divisione a simbolo dell'unita",
+          "pt": "De simbolo da divisao a simbolo da unidade",
+          "nl": "Van symbool van deling naar symbool van eenheid",
+          "pl": "Od symbolu podzialu do symbolu jednosci",
+          "tr": "Bolunmenin simgesinden birligin simgesine",
+          "zh": "从分裂象征到统一象征",
+          "ja": "分断の象徴から統一の象徴へ",
+          "ko": "분단의 상징에서 통일의 상징으로",
+          "hi": "विभाजन के प्रतीक से एकता के प्रतीक तक",
+          "ar": "من رمز للتقسيم إلى رمز للوحدة"
         },
         "description": {
           "ru": "Во время Берлинской стены ворота стояли в пограничной зоне и были недоступны для обычного прохода. В декабре 1989 года это место снова стало открытым городским пространством.",
           "de": "Waehrend der Berliner Mauer stand das Tor im Grenzgebiet und war fuer den normalen Durchgang unzugaenglich. Im Dezember 1989 wurde dieser Ort wieder zu einem offenen Stadtraum.",
-          "en": "During the Berlin Wall era, the gate stood in the border zone and was inaccessible for ordinary passage. In December 1989, the site became an open urban space again."
+          "en": "During the Berlin Wall era, the gate stood in the border zone and was inaccessible for ordinary passage. In December 1989, the site became an open urban space again.",
+          "fr": "A l'epoque du mur de Berlin, la porte se trouvait dans la zone frontaliere et etait inaccessible au passage ordinaire. En decembre 1989, ce lieu redevint un espace urbain ouvert.",
+          "es": "Durante la epoca del Muro de Berlin, la puerta estaba en la zona fronteriza y era inaccesible para el paso normal. En diciembre de 1989, el lugar volvio a ser un espacio urbano abierto.",
+          "it": "Durante l'epoca del Muro di Berlino, la porta si trovava nella zona di confine ed era inaccessibile al passaggio ordinario. Nel dicembre 1989 il luogo torno a essere uno spazio urbano aperto.",
+          "pt": "Durante a epoca do Muro de Berlim, o portao ficava na zona de fronteira e era inacessivel para a passagem comum. Em dezembro de 1989, o local voltou a ser um espaco urbano aberto.",
+          "nl": "Tijdens de tijd van de Berlijnse Muur stond de poort in de grenszone en was zij niet toegankelijk voor gewone doorgang. In december 1989 werd de plek opnieuw een open stedelijke ruimte.",
+          "pl": "W czasach Muru Berlinskiego brama stala w strefie granicznej i byla niedostepna dla zwyklego przejscia. W grudniu 1989 roku miejsce to znow stalo sie otwarta przestrzenia miejska.",
+          "tr": "Berlin Duvari doneminde kapi sinir bolgesinde duruyordu ve normal gecis icin erisilemezdi. Aralik 1989'da bu yer yeniden acik bir kentsel alan oldu.",
+          "zh": "在柏林墙时期，这座门位于边境区，普通通行无法进入。1989年12月，这里再次成为开放的城市空间。",
+          "ja": "ベルリンの壁の時代、門は国境地帯にあり、通常の通行はできませんでした。1989年12月、この場所は再び開かれた都市空間となりました。",
+          "ko": "베를린 장벽 시기 이 문은 국경 지대에 있었고 일반 통행은 불가능했다. 1989년 12월 이 장소는 다시 열린 도시 공간이 되었다.",
+          "hi": "बर्लिन दीवार के समय गेट सीमा क्षेत्र में था और सामान्य आवागमन के लिए बंद था। दिसंबर 1989 में यह स्थान फिर से खुला शहरी क्षेत्र बन गया।",
+          "ar": "في زمن جدار برلين كانت البوابة داخل منطقة الحدود ولم تكن متاحة للمرور العادي. وفي ديسمبر 1989 عاد المكان فضاء حضريا مفتوحا."
         },
         "importance": {
           "ru": "Это событие особенно хорошо подходит для календаря с картами: одна точка на карте изменила своё значение на глазах у мира.",
           "de": "Dieses Ereignis passt besonders gut zu einem Kalender mit Karten: Ein Punkt auf der Karte veraenderte vor den Augen der Welt seine Bedeutung.",
-          "en": "The event fits especially well in a calendar with maps: one point on the map changed its meaning before the eyes of the world."
+          "en": "The event fits especially well in a calendar with maps: one point on the map changed its meaning before the eyes of the world.",
+          "fr": "L'evenement convient particulierement bien a un calendrier avec des cartes: un point sur la carte changea de signification sous les yeux du monde.",
+          "es": "El acontecimiento encaja especialmente bien en un calendario con mapas: un punto del mapa cambio de significado ante los ojos del mundo.",
+          "it": "L'evento si adatta particolarmente bene a un calendario con mappe: un punto sulla mappa cambio significato davanti agli occhi del mondo.",
+          "pt": "O acontecimento combina especialmente bem com um calendario com mapas: um ponto no mapa mudou de significado diante dos olhos do mundo.",
+          "nl": "De gebeurtenis past bijzonder goed in een kalender met kaarten: een punt op de kaart veranderde van betekenis voor de ogen van de wereld.",
+          "pl": "To wydarzenie szczegolnie pasuje do kalendarza z mapami: jeden punkt na mapie zmienil znaczenie na oczach swiata.",
+          "tr": "Bu olay haritali bir takvime ozellikle iyi uyar: haritadaki tek bir nokta dunyanin gozleri onunde anlamini degistirdi.",
+          "zh": "这个事件特别适合带地图的日历：地图上的一个点在全世界眼前改变了意义。",
+          "ja": "この出来事は地図つきカレンダーに特によく合います。地図上の一点が、世界の目の前で意味を変えたからです。",
+          "ko": "이 사건은 지도가 있는 달력에 특히 잘 어울린다. 지도 위 한 지점이 세계가 지켜보는 앞에서 의미를 바꾸었기 때문이다.",
+          "hi": "यह घटना नक्शों वाले कैलेंडर के लिए खास तौर पर उपयुक्त है: नक्शे का एक बिंदु दुनिया की आंखों के सामने अपना अर्थ बदल गया।",
+          "ar": "يناسب هذا الحدث تقويما مع خرائط بشكل خاص: فقد غيرت نقطة واحدة على الخريطة معناها أمام أعين العالم."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Стена пала раньше, но ворота открылись позже",
           "de": "Die Mauer fiel frueher, das Tor oeffnete spaeter",
-          "en": "The Wall fell earlier, the gate opened later"
+          "en": "The Wall fell earlier, the gate opened later",
+          "fr": "Le Mur tomba plus tot, la porte s'ouvrit plus tard",
+          "es": "El Muro cayo antes, la puerta se abrio despues",
+          "it": "Il Muro cadde prima, la porta si apri dopo",
+          "pt": "O Muro caiu antes, o portao abriu depois",
+          "nl": "De Muur viel eerder, de poort ging later open",
+          "pl": "Mur upadl wczesniej, brama otworzyla sie pozniej",
+          "tr": "Duvar daha once yikildi, kapi daha sonra acildi",
+          "zh": "墙先倒下，门后来开放",
+          "ja": "壁は先に崩れ、門は後に開いた",
+          "ko": "장벽은 먼저 무너지고 문은 나중에 열렸다",
+          "hi": "दीवार पहले गिरी, गेट बाद में खुला",
+          "ar": "سقط الجدار أولا وفتحت البوابة لاحقا"
         },
         "description": {
           "ru": "Берлинская стена фактически открылась 9 ноября 1989 года, но Бранденбургские ворота стали проходными только 22 декабря. Поэтому у осени и зимы 1989 года было несколько символических дат.",
           "de": "Die Berliner Mauer oeffnete sich faktisch am 9. November 1989, doch das Brandenburger Tor wurde erst am 22. Dezember passierbar. Darum hatte Herbst und Winter 1989 mehrere symbolische Daten.",
-          "en": "The Berlin Wall effectively opened on 9 November 1989, but the Brandenburg Gate became passable only on 22 December. Autumn and winter 1989 therefore had several symbolic dates."
+          "en": "The Berlin Wall effectively opened on 9 November 1989, but the Brandenburg Gate became passable only on 22 December. Autumn and winter 1989 therefore had several symbolic dates.",
+          "fr": "Le mur de Berlin s'ouvrit de fait le 9 novembre 1989, mais la porte de Brandebourg ne devint praticable que le 22 decembre. L'automne et l'hiver 1989 eurent donc plusieurs dates symboliques.",
+          "es": "El Muro de Berlin se abrio de hecho el 9 de noviembre de 1989, pero la Puerta de Brandeburgo solo fue transitable el 22 de diciembre. Por eso el otono y el invierno de 1989 tuvieron varias fechas simbolicas.",
+          "it": "Il Muro di Berlino si apri di fatto il 9 novembre 1989, ma la Porta di Brandeburgo divenne attraversabile solo il 22 dicembre. Per questo l'autunno e l'inverno 1989 ebbero varie date simboliche.",
+          "pt": "O Muro de Berlim abriu-se de fato em 9 de novembro de 1989, mas o Portao de Brandemburgo so se tornou passavel em 22 de dezembro. Por isso o outono e o inverno de 1989 tiveram varias datas simbolicas.",
+          "nl": "De Berlijnse Muur ging feitelijk open op 9 november 1989, maar de Brandenburger Tor werd pas op 22 december passeerbaar. Daarom hadden herfst en winter 1989 meerdere symbolische data.",
+          "pl": "Mur Berlinski faktycznie otworzyl sie 9 listopada 1989 roku, ale Brama Brandenburska stala sie przechodnia dopiero 22 grudnia. Dlatego jesien i zima 1989 roku mialy kilka symbolicznych dat.",
+          "tr": "Berlin Duvari fiilen 9 Kasim 1989'da acildi, ancak Brandenburg Kapisi ancak 22 Aralik'ta gecilebilir hale geldi. Bu nedenle 1989 sonbahari ve kisi birkac simgesel tarihe sahipti.",
+          "zh": "柏林墙实际上于1989年11月9日开放，但勃兰登堡门直到12月22日才可通行。因此1989年秋冬有多个象征性日期。",
+          "ja": "ベルリンの壁は1989年11月9日に事実上開きましたが、ブランデンブルク門が通行可能になったのは12月22日でした。そのため1989年の秋と冬には複数の象徴的な日がありました。",
+          "ko": "베를린 장벽은 1989년 11월 9일 사실상 열렸지만, 브란덴부르크 문은 12월 22일에야 통행할 수 있게 되었다. 그래서 1989년 가을과 겨울에는 여러 상징적 날짜가 있었다.",
+          "hi": "बर्लिन दीवार वास्तव में 9 नवंबर 1989 को खुल गई थी, लेकिन ब्रांडेनबर्ग गेट 22 दिसंबर को ही पार किया जा सका। इसलिए 1989 की शरद और सर्दियों में कई प्रतीकात्मक तारीखें थीं।",
+          "ar": "انفتح جدار برلين فعليا في 9 نوفمبر 1989، لكن بوابة براندنبورغ لم تصبح قابلة للعبور إلا في 22 ديسمبر. لذلك كان لخريف وشتاء 1989 عدة تواريخ رمزية."
         },
         "importance": {
           "ru": "Исторические перемены редко происходят одним кадром: часто это цепочка ярких моментов.",
           "de": "Historische Veraenderungen geschehen selten in einem einzigen Bild; oft sind sie eine Reihe praegender Momente.",
-          "en": "Historical change rarely happens in a single image; it is often a chain of vivid moments."
+          "en": "Historical change rarely happens in a single image; it is often a chain of vivid moments.",
+          "fr": "Le changement historique se produit rarement en une seule image; c'est souvent une chaine de moments marquants.",
+          "es": "El cambio historico rara vez ocurre en una sola imagen; a menudo es una cadena de momentos intensos.",
+          "it": "Il cambiamento storico raramente avviene in una sola immagine; spesso e una catena di momenti vividi.",
+          "pt": "A mudanca historica raramente acontece em uma unica imagem; muitas vezes e uma cadeia de momentos marcantes.",
+          "nl": "Historische verandering gebeurt zelden in een enkel beeld; vaak is het een keten van sprekende momenten.",
+          "pl": "Zmiana historyczna rzadko dokonuje sie w jednym obrazie; czesto jest lancuchem wyrazistych chwil.",
+          "tr": "Tarihsel degisim nadiren tek bir karede olur; cogu zaman canli anlar zinciridir.",
+          "zh": "历史变化很少只发生在一个画面中；它常常是一连串鲜明时刻。",
+          "ja": "歴史的変化は一枚の映像だけで起こることはまれで、しばしば印象的な瞬間の連なりです。",
+          "ko": "역사적 변화는 하나의 장면에서만 일어나는 경우가 드물고, 선명한 순간들의 연쇄인 경우가 많다.",
+          "hi": "ऐतिहासिक परिवर्तन शायद ही एक ही दृश्य में होता है; अक्सर यह उजले क्षणों की श्रृंखला होता है।",
+          "ar": "نادرا ما يحدث التغيير التاريخي في صورة واحدة؛ فهو غالبا سلسلة من لحظات واضحة."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Бранденбургские ворота построили в конце XVIII века, задолго до того, как они стали символом Берлинской стены.",
     "de": "Das Brandenburger Tor wurde Ende des 18. Jahrhunderts gebaut, lange bevor es zum Symbol der Berliner Mauer wurde.",
-    "en": "The Brandenburg Gate was built in the late 18th century, long before it became a symbol of the Berlin Wall."
+    "en": "The Brandenburg Gate was built in the late 18th century, long before it became a symbol of the Berlin Wall.",
+    "fr": "La porte de Brandebourg fut construite a la fin du XVIIIe siecle, bien avant de devenir un symbole du mur de Berlin.",
+    "es": "La Puerta de Brandeburgo fue construida a finales del siglo XVIII, mucho antes de convertirse en simbolo del Muro de Berlin.",
+    "it": "La Porta di Brandeburgo fu costruita alla fine del XVIII secolo, molto prima di diventare un simbolo del Muro di Berlino.",
+    "pt": "O Portao de Brandemburgo foi construido no fim do seculo XVIII, muito antes de se tornar simbolo do Muro de Berlim.",
+    "nl": "De Brandenburger Tor werd gebouwd aan het einde van de achttiende eeuw, lang voordat zij een symbool van de Berlijnse Muur werd.",
+    "pl": "Brame Brandenburska zbudowano pod koniec XVIII wieku, dlugo zanim stala sie symbolem Muru Berlinskiego.",
+    "tr": "Brandenburg Kapisi, Berlin Duvari'nin simgesi haline gelmeden cok once, 18. yuzyilin sonlarinda insa edildi.",
+    "zh": "勃兰登堡门建于18世纪末，远早于它成为柏林墙的象征。",
+    "ja": "ブランデンブルク門は18世紀末に建てられ、ベルリンの壁の象徴となるずっと前から存在していました。",
+    "ko": "브란덴부르크 문은 베를린 장벽의 상징이 되기 훨씬 전인 18세기 말에 지어졌다.",
+    "hi": "ब्रांडेनबर्ग गेट अठारहवीं सदी के अंत में बना था, बहुत पहले जब वह बर्लिन दीवार का प्रतीक बना।",
+    "ar": "بُنيت بوابة براندنبورغ في أواخر القرن الثامن عشر، قبل وقت طويل من أن تصبح رمزا لجدار برلين."
   },
   "sources": [
     {

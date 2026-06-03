@@ -11,17 +11,53 @@
     "title": {
       "ru": "Начались рождественские бои в Берлине",
       "de": "Die Weihnachtskaempfe in Berlin beginnen",
-      "en": "The Christmas clashes in Berlin begin"
+      "en": "The Christmas clashes in Berlin begin",
+      "fr": "Les combats de Noel commencent a Berlin",
+      "es": "Comienzan los combates navidenos en Berlin",
+      "it": "Iniziano gli scontri di Natale a Berlino",
+      "pt": "Comecam os confrontos de Natal em Berlim",
+      "nl": "De kerstgevechten in Berlijn beginnen",
+      "pl": "Rozpoczynaja sie walki bozonarodzeniowe w Berlinie",
+      "tr": "Berlin'de Noel catismalari basliyor",
+      "zh": "柏林圣诞冲突开始",
+      "ja": "ベルリンでクリスマス闘争が始まる",
+      "ko": "베를린의 크리스마스 충돌이 시작되다",
+      "hi": "बर्लिन में क्रिसमस संघर्ष शुरू हुए",
+      "ar": "بدء اشتباكات عيد الميلاد في برلين"
     },
     "description": {
       "ru": "23 декабря 1918 года в Берлине обострился конфликт между революционной Народной морской дивизией и правительством Совета народных уполномоченных. На следующий день столкновение переросло в кровавые рождественские бои.",
       "de": "Am 23. Dezember 1918 eskalierte in Berlin der Konflikt zwischen der revolutionaeren Volksmarinedivision und dem Rat der Volksbeauftragten. Am naechsten Tag entwickelte sich daraus der blutige Weihnachtskampf.",
-      "en": "On 23 December 1918, the conflict in Berlin between the revolutionary People's Naval Division and the Council of People's Deputies escalated. The next day it developed into the bloody Christmas clashes."
+      "en": "On 23 December 1918, the conflict in Berlin between the revolutionary People's Naval Division and the Council of People's Deputies escalated. The next day it developed into the bloody Christmas clashes.",
+      "fr": "Le 23 decembre 1918, le conflit a Berlin entre la division navale populaire revolutionnaire et le Conseil des commissaires du peuple s'aggrava. Le lendemain, il se transforma en combats de Noel sanglants.",
+      "es": "El 23 de diciembre de 1918, el conflicto en Berlin entre la revolucionaria Division Naval Popular y el Consejo de Comisarios del Pueblo se intensifico. Al dia siguiente se convirtio en los sangrientos combates navidenos.",
+      "it": "Il 23 dicembre 1918 a Berlino si aggravo il conflitto tra la rivoluzionaria Divisione navale popolare e il Consiglio dei commissari del popolo. Il giorno dopo si trasformo nei sanguinosi scontri di Natale.",
+      "pt": "Em 23 de dezembro de 1918, o conflito em Berlim entre a revolucionaria Divisao Naval Popular e o Conselho dos Delegados do Povo escalou. No dia seguinte transformou-se nos sangrentos confrontos de Natal.",
+      "nl": "Op 23 december 1918 escaleerde in Berlijn het conflict tussen de revolutionaire Volksmarinedivision en de Raad van Volksafgevaardigden. De volgende dag groeide dit uit tot de bloedige kerstgevechten.",
+      "pl": "23 grudnia 1918 roku w Berlinie zaostrzyl sie konflikt miedzy rewolucyjna Ludowa Dywizja Marynarki a Rada Pelnomocnikow Ludowych. Nastepnego dnia przerodzil sie w krwawe walki bozonarodzeniowe.",
+      "tr": "23 Aralik 1918'de Berlin'de devrimci Halk Deniz Tumen'i ile Halk Temsilcileri Konseyi arasindaki catisma tirmandi. Ertesi gun kanli Noel catismalarina donustu.",
+      "zh": "1918年12月23日，柏林革命人民海军师与人民代表委员会之间的冲突升级。第二天，它发展为血腥的圣诞冲突。",
+      "ja": "1918年12月23日、ベルリンで革命的な人民海軍師団と人民委員評議会の対立が激化しました。翌日、それは流血のクリスマス闘争へと発展しました。",
+      "ko": "1918년 12월 23일 베를린에서 혁명적 인민해군사단과 인민대표평의회 사이의 갈등이 격화되었다. 다음 날 이는 유혈 크리스마스 충돌로 발전했다.",
+      "hi": "23 दिसंबर 1918 को बर्लिन में क्रांतिकारी पीपुल्स नेवल डिवीजन और पीपुल्स डेप्युटीज की परिषद के बीच संघर्ष तेज हो गया। अगले दिन यह खूनी क्रिसमस संघर्षों में बदल गया।",
+      "ar": "في 23 ديسمبر 1918 تصاعد في برلين النزاع بين فرقة البحرية الشعبية الثورية ومجلس مفوضي الشعب. وفي اليوم التالي تحول إلى اشتباكات عيد الميلاد الدموية."
     },
     "importance": {
       "ru": "Событие показало, насколько нестабильной была новая республика сразу после падения монархии и окончания Первой мировой войны.",
       "de": "Das Ereignis zeigte, wie instabil die neue Republik unmittelbar nach dem Sturz der Monarchie und dem Ende des Ersten Weltkriegs war.",
-      "en": "The event showed how unstable the new republic was immediately after the fall of the monarchy and the end of the First World War."
+      "en": "The event showed how unstable the new republic was immediately after the fall of the monarchy and the end of the First World War.",
+      "fr": "L'evenement montra combien la nouvelle republique etait instable juste apres la chute de la monarchie et la fin de la Premiere Guerre mondiale.",
+      "es": "El acontecimiento mostro lo inestable que era la nueva republica inmediatamente despues de la caida de la monarquia y el final de la Primera Guerra Mundial.",
+      "it": "L'evento mostro quanto fosse instabile la nuova repubblica subito dopo la caduta della monarchia e la fine della Prima guerra mondiale.",
+      "pt": "O acontecimento mostrou como a nova republica era instavel logo apos a queda da monarquia e o fim da Primeira Guerra Mundial.",
+      "nl": "De gebeurtenis liet zien hoe instabiel de nieuwe republiek was direct na de val van de monarchie en het einde van de Eerste Wereldoorlog.",
+      "pl": "Wydarzenie pokazalo, jak niestabilna byla nowa republika zaraz po upadku monarchii i zakonczeniu pierwszej wojny swiatowej.",
+      "tr": "Olay, monarsinin cokusunden ve Birinci Dunya Savasi'nin bitiminden hemen sonra yeni cumhuriyetin ne kadar istikrarsiz oldugunu gosterdi.",
+      "zh": "这一事件显示，在君主制倒台和第一次世界大战结束后，新共和国立即处于多么不稳定的状态。",
+      "ja": "この出来事は、君主制崩壊と第一次世界大戦終結の直後、新しい共和国がどれほど不安定だったかを示しました。",
+      "ko": "이 사건은 군주제 붕괴와 제1차 세계대전 종전 직후 새 공화국이 얼마나 불안정했는지 보여 주었다.",
+      "hi": "इस घटना ने दिखाया कि राजतंत्र के पतन और प्रथम विश्व युद्ध के अंत के तुरंत बाद नई गणराज्य कितनी अस्थिर थी।",
+      "ar": "أظهر الحدث مدى عدم استقرار الجمهورية الجديدة مباشرة بعد سقوط الملكية ونهاية الحرب العالمية الأولى."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Эхо Ноябрьской революции",
           "de": "Nachhall der Novemberrevolution",
-          "en": "Aftershock of the November Revolution"
+          "en": "Aftershock of the November Revolution",
+          "fr": "Contrecoup de la revolution de Novembre",
+          "es": "Eco de la Revolucion de Noviembre",
+          "it": "Eco della Rivoluzione di novembre",
+          "pt": "Eco da Revolucao de Novembro",
+          "nl": "Naschok van de Novemberrevolutie",
+          "pl": "Echo rewolucji listopadowej",
+          "tr": "Kasim Devrimi'nin artci sarsintisi",
+          "zh": "十一月革命的余波",
+          "ja": "十一月革命の余波",
+          "ko": "11월 혁명의 여진",
+          "hi": "नवंबर क्रांति की गूंज",
+          "ar": "ارتداد ثورة نوفمبر"
         },
         "description": {
           "ru": "После революции 1918 года Германия ещё не знала, какой будет новая власть: парламентской республикой или системой советов. Берлинские рождественские бои стали одним из сигналов будущих конфликтов Веймарской республики.",
           "de": "Nach der Revolution von 1918 war noch offen, welche Form die neue Macht annehmen wuerde: parlamentarische Republik oder Raetesystem. Die Berliner Weihnachtskaempfe wurden zu einem Warnzeichen kommender Konflikte der Weimarer Republik.",
-          "en": "After the 1918 revolution, it was still unclear what form the new power would take: parliamentary republic or council system. The Berlin Christmas clashes became a warning sign of conflicts to come in the Weimar Republic."
+          "en": "After the 1918 revolution, it was still unclear what form the new power would take: parliamentary republic or council system. The Berlin Christmas clashes became a warning sign of conflicts to come in the Weimar Republic.",
+          "fr": "Apres la revolution de 1918, on ne savait pas encore quelle forme prendrait le nouveau pouvoir: republique parlementaire ou systeme des conseils. Les combats de Noel de Berlin devinrent un avertissement des conflits a venir dans la republique de Weimar.",
+          "es": "Tras la revolucion de 1918, aun no estaba claro que forma tomaria el nuevo poder: republica parlamentaria o sistema de consejos. Los combates navidenos de Berlin fueron una senal de advertencia de los conflictos futuros de la Republica de Weimar.",
+          "it": "Dopo la rivoluzione del 1918 non era ancora chiaro quale forma avrebbe assunto il nuovo potere: repubblica parlamentare o sistema dei consigli. Gli scontri di Natale a Berlino divennero un segnale dei conflitti futuri della Repubblica di Weimar.",
+          "pt": "Depois da revolucao de 1918, ainda nao estava claro que forma o novo poder assumiria: republica parlamentar ou sistema de conselhos. Os confrontos de Natal em Berlim tornaram-se um sinal de alerta dos conflitos futuros da Republica de Weimar.",
+          "nl": "Na de revolutie van 1918 was nog onduidelijk welke vorm de nieuwe macht zou krijgen: parlementaire republiek of radenstelsel. De Berlijnse kerstgevechten werden een waarschuwing voor komende conflicten in de Weimarrepubliek.",
+          "pl": "Po rewolucji 1918 roku wciaz nie bylo jasne, jaka forme przyjmie nowa wladza: republike parlamentarna czy system rad. Berlinskie walki bozonarodzeniowe staly sie znakiem ostrzegawczym przyszlych konfliktow Republiki Weimarskiej.",
+          "tr": "1918 devriminden sonra yeni iktidarin hangi bicimi alacagi hala belirsizdi: parlamenter cumhuriyet mi, konsey sistemi mi. Berlin Noel catismalari, Weimar Cumhuriyeti'nde gelecek catismalarin uyarisi oldu.",
+          "zh": "1918年革命后，新权力将采取何种形式仍不清楚：议会共和国还是委员会制度。柏林圣诞冲突成为魏玛共和国未来冲突的警示。",
+          "ja": "1918年革命後、新しい権力が議会共和国となるのか評議会制度となるのかはまだ不明でした。ベルリンのクリスマス闘争は、ワイマール共和国で起こる将来の対立の警告となりました。",
+          "ko": "1918년 혁명 이후 새 권력이 의회 공화국이 될지 평의회 체제가 될지는 여전히 불분명했다. 베를린 크리스마스 충돌은 바이마르 공화국에서 다가올 갈등의 경고 신호가 되었다.",
+          "hi": "1918 की क्रांति के बाद अभी स्पष्ट नहीं था कि नई सत्ता कौन सा रूप लेगी: संसदीय गणराज्य या परिषद प्रणाली। बर्लिन के क्रिसमस संघर्ष वाइमर गणराज्य के आने वाले संघर्षों की चेतावनी बन गए।",
+          "ar": "بعد ثورة 1918 لم يكن واضحا بعد أي شكل ستتخذه السلطة الجديدة: جمهورية برلمانية أم نظام مجالس. وأصبحت اشتباكات عيد الميلاد في برلين إشارة تحذير لصراعات قادمة في جمهورية فايمار."
         },
         "importance": {
           "ru": "Так становится понятнее, почему демократия Веймара родилась в атмосфере давления и насилия.",
           "de": "So wird verstaendlicher, warum die Weimarer Demokratie in einer Atmosphaere von Druck und Gewalt entstand.",
-          "en": "It helps explain why Weimar democracy was born in an atmosphere of pressure and violence."
+          "en": "It helps explain why Weimar democracy was born in an atmosphere of pressure and violence.",
+          "fr": "Cela aide a comprendre pourquoi la democratie de Weimar naquit dans une atmosphere de pression et de violence.",
+          "es": "Ayuda a explicar por que la democracia de Weimar nacio en una atmosfera de presion y violencia.",
+          "it": "Aiuta a spiegare perche la democrazia di Weimar nacque in un'atmosfera di pressione e violenza.",
+          "pt": "Ajuda a explicar por que a democracia de Weimar nasceu em uma atmosfera de pressao e violencia.",
+          "nl": "Het helpt verklaren waarom de Weimardemocratie werd geboren in een sfeer van druk en geweld.",
+          "pl": "Pomaga to wyjasnic, dlaczego demokracja weimarska narodzila sie w atmosferze presji i przemocy.",
+          "tr": "Bu, Weimar demokrasisinin neden baski ve siddet atmosferinde dogdugunu aciklar.",
+          "zh": "这有助于解释为什么魏玛民主诞生于压力和暴力的氛围中。",
+          "ja": "ワイマール民主主義が圧力と暴力の雰囲気の中で生まれた理由を理解する助けになります。",
+          "ko": "이는 바이마르 민주주의가 압력과 폭력의 분위기 속에서 태어난 이유를 설명하는 데 도움이 된다.",
+          "hi": "यह समझाने में मदद करता है कि वाइमर लोकतंत्र दबाव और हिंसा के वातावरण में क्यों जन्मा।",
+          "ar": "يساعد ذلك على فهم سبب ولادة ديمقراطية فايمار في جو من الضغط والعنف."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Рождество с баррикадами",
           "de": "Weihnachten mit Barrikaden",
-          "en": "Christmas with barricades"
+          "en": "Christmas with barricades",
+          "fr": "Noel avec barricades",
+          "es": "Navidad con barricadas",
+          "it": "Natale con barricate",
+          "pt": "Natal com barricadas",
+          "nl": "Kerst met barricades",
+          "pl": "Boze Narodzenie z barykadami",
+          "tr": "Barikatlarla Noel",
+          "zh": "带着街垒的圣诞节",
+          "ja": "バリケードのあるクリスマス",
+          "ko": "바리케이드와 함께한 크리스마스",
+          "hi": "बैरिकेडों वाला क्रिसमस",
+          "ar": "عيد ميلاد مع متاريس"
         },
         "description": {
           "ru": "Название звучит почти странно: «рождественские бои» в центре Берлина. Но именно праздничные дни сделали контраст между ожиданием покоя и политическим насилием особенно заметным.",
           "de": "Der Name wirkt fast widerspruechlich: Weihnachtskaempfe mitten in Berlin. Gerade die Feiertage machten den Gegensatz zwischen erwarteter Ruhe und politischer Gewalt besonders sichtbar.",
-          "en": "The name sounds almost contradictory: Christmas clashes in the center of Berlin. The holidays made the contrast between expected calm and political violence especially striking."
+          "en": "The name sounds almost contradictory: Christmas clashes in the center of Berlin. The holidays made the contrast between expected calm and political violence especially striking.",
+          "fr": "Le nom semble presque contradictoire: des combats de Noel au centre de Berlin. Les fetes rendirent particulierement visible le contraste entre le calme attendu et la violence politique.",
+          "es": "El nombre suena casi contradictorio: combates navidenos en el centro de Berlin. Las fiestas hicieron especialmente visible el contraste entre la calma esperada y la violencia politica.",
+          "it": "Il nome suona quasi contraddittorio: scontri di Natale nel centro di Berlino. Le feste resero particolarmente evidente il contrasto tra la calma attesa e la violenza politica.",
+          "pt": "O nome soa quase contraditorio: confrontos de Natal no centro de Berlim. Os feriados tornaram especialmente visivel o contraste entre a calma esperada e a violencia politica.",
+          "nl": "De naam klinkt bijna tegenstrijdig: kerstgevechten midden in Berlijn. Juist de feestdagen maakten het contrast tussen verwachte rust en politiek geweld extra zichtbaar.",
+          "pl": "Nazwa brzmi niemal sprzecznie: walki bozonarodzeniowe w centrum Berlina. Swieta szczegolnie uwidocznily kontrast miedzy oczekiwanym spokojem a przemoca polityczna.",
+          "tr": "Ad neredeyse celiskili duyulur: Berlin'in merkezinde Noel catismalari. Tatil gunleri, beklenen sakinlik ile siyasi siddet arasindaki zitti ozellikle gorunur kildi.",
+          "zh": "这个名称听起来几乎矛盾：柏林市中心的圣诞冲突。节日使期待中的平静与政治暴力之间的对比格外明显。",
+          "ja": "この名前はほとんど矛盾して聞こえます。ベルリン中心部でのクリスマス闘争です。祝日であったため、期待された静けさと政治的暴力の対比が特に際立ちました。",
+          "ko": "이 이름은 거의 모순처럼 들린다. 베를린 중심부의 크리스마스 충돌이기 때문이다. 휴일은 기대된 평온과 정치적 폭력의 대비를 특히 두드러지게 했다.",
+          "hi": "नाम लगभग विरोधाभासी लगता है: बर्लिन के केंद्र में क्रिसमस संघर्ष। छुट्टियों ने अपेक्षित शांति और राजनीतिक हिंसा के बीच का अंतर खास तौर पर स्पष्ट कर दिया।",
+          "ar": "يبدو الاسم متناقضا تقريبا: اشتباكات عيد الميلاد في وسط برلين. فقد جعلت العطلة التباين بين الهدوء المتوقع والعنف السياسي واضحا جدا."
         },
         "importance": {
           "ru": "Такие даты хорошо запоминаются, потому что обычный календарный праздник сталкивается с большой историей.",
           "de": "Solche Daten bleiben im Gedaechtnis, weil ein normaler Feiertag auf grosse Geschichte trifft.",
-          "en": "Such dates are memorable because an ordinary holiday collides with major history."
+          "en": "Such dates are memorable because an ordinary holiday collides with major history.",
+          "fr": "De telles dates restent en memoire parce qu'une fete ordinaire rencontre la grande histoire.",
+          "es": "Estas fechas se recuerdan porque una fiesta ordinaria choca con la gran historia.",
+          "it": "Date simili restano impresse perche una festa ordinaria si scontra con la grande storia.",
+          "pt": "Datas assim ficam na memoria porque um feriado comum colide com a grande historia.",
+          "nl": "Zulke data blijven hangen omdat een gewone feestdag botst met grote geschiedenis.",
+          "pl": "Takie daty zapadaja w pamiec, bo zwykle swieto zderza sie z wielka historia.",
+          "tr": "Boyle tarihler akilda kalir, cunku siradan bir bayram buyuk tarihle carpisir.",
+          "zh": "这样的日期令人难忘，因为普通节日与重大历史相撞。",
+          "ja": "このような日付は、普通の祝日が大きな歴史とぶつかるため記憶に残ります。",
+          "ko": "이런 날짜는 평범한 휴일이 큰 역사와 충돌하기 때문에 기억에 남는다.",
+          "hi": "ऐसी तारीखें याद रहती हैं क्योंकि सामान्य त्योहार बड़ी इतिहास से टकराता है।",
+          "ar": "تبقى مثل هذه التواريخ في الذاكرة لأن عيدا عاديا يصطدم بالتاريخ الكبير."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "После рождественских боёв представители USPD вышли из Совета народных уполномоченных.",
     "de": "Nach den Weihnachtskaempfen verliessen die Vertreter der USPD den Rat der Volksbeauftragten.",
-    "en": "After the Christmas clashes, USPD representatives left the Council of People's Deputies."
+    "en": "After the Christmas clashes, USPD representatives left the Council of People's Deputies.",
+    "fr": "Apres les combats de Noel, les representants de l'USPD quitterent le Conseil des commissaires du peuple.",
+    "es": "Despues de los combates navidenos, los representantes del USPD abandonaron el Consejo de Comisarios del Pueblo.",
+    "it": "Dopo gli scontri di Natale, i rappresentanti dell'USPD lasciarono il Consiglio dei commissari del popolo.",
+    "pt": "Depois dos confrontos de Natal, os representantes do USPD deixaram o Conselho dos Delegados do Povo.",
+    "nl": "Na de kerstgevechten verlieten de vertegenwoordigers van de USPD de Raad van Volksafgevaardigden.",
+    "pl": "Po walkach bozonarodzeniowych przedstawiciele USPD opuscili Rade Pelnomocnikow Ludowych.",
+    "tr": "Noel catismalarindan sonra USPD temsilcileri Halk Temsilcileri Konseyi'nden ayrildi.",
+    "zh": "圣诞冲突后，USPD代表退出人民代表委员会。",
+    "ja": "クリスマス闘争の後、USPD代表は人民委員評議会を離れました。",
+    "ko": "크리스마스 충돌 이후 USPD 대표들은 인민대표평의회를 떠났다.",
+    "hi": "क्रिसमस संघर्षों के बाद USPD प्रतिनिधि पीपुल्स डेप्युटीज की परिषद से अलग हो गए।",
+    "ar": "بعد اشتباكات عيد الميلاد غادر ممثلو USPD مجلس مفوضي الشعب."
   },
   "sources": [
     {
