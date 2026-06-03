@@ -11,17 +11,53 @@
     "title": {
       "ru": "Началось строительство Кёльнского собора",
       "de": "Baubeginn des Koelner Doms",
-      "en": "Construction of Cologne Cathedral begins"
+      "en": "Construction of Cologne Cathedral begins",
+      "fr": "La construction de la cathédrale de Cologne commence",
+      "es": "Comienza la construcción de la catedral de Colonia",
+      "it": "Inizia la costruzione del Duomo di Colonia",
+      "pt": "Começa a construção da Catedral de Colônia",
+      "nl": "De bouw van de Dom van Keulen begint",
+      "pl": "Rozpoczyna się budowa katedry w Kolonii",
+      "tr": "Köln Katedrali'nin inşası başlar",
+      "zh": "科隆大教堂开始建造",
+      "ja": "ケルン大聖堂の建設が始まる",
+      "ko": "쾰른 대성당 건설이 시작되다",
+      "hi": "कोलोन कैथेड्रल का निर्माण शुरू हुआ",
+      "ar": "بدء بناء كاتدرائية كولونيا"
     },
     "description": {
       "ru": "15 августа 1248 года был заложен первый камень Кёльнского собора. Строительство растянулось на века, а собор стал одним из главных символов Рейнской области.",
       "de": "Am 15. August 1248 wurde der Grundstein des Koelner Doms gelegt. Der Bau zog sich ueber Jahrhunderte hin, und der Dom wurde zu einem der wichtigsten Symbole des Rheinlands.",
-      "en": "On 15 August 1248, the foundation stone of Cologne Cathedral was laid. Construction stretched across centuries, and the cathedral became one of the main symbols of the Rhineland."
+      "en": "On 15 August 1248, the foundation stone of Cologne Cathedral was laid. Construction stretched across centuries, and the cathedral became one of the main symbols of the Rhineland.",
+      "fr": "Le 15 août 1248, la première pierre de la cathédrale de Cologne fut posée. La construction s'étendit sur des siècles, et la cathédrale devint l'un des grands symboles de la Rhénanie.",
+      "es": "El 15 de agosto de 1248 se colocó la primera piedra de la catedral de Colonia. La construcción se prolongó durante siglos, y la catedral se convirtió en uno de los principales símbolos de Renania.",
+      "it": "Il 15 agosto 1248 fu posta la prima pietra del Duomo di Colonia. La costruzione si protrasse per secoli, e la cattedrale divenne uno dei principali simboli della Renania.",
+      "pt": "Em 15 de agosto de 1248, foi lançada a pedra fundamental da Catedral de Colônia. A construção se estendeu por séculos, e a catedral tornou-se um dos principais símbolos da Renânia.",
+      "nl": "Op 15 augustus 1248 werd de eerste steen van de Dom van Keulen gelegd. De bouw strekte zich over eeuwen uit, en de dom werd een van de belangrijkste symbolen van het Rijnland.",
+      "pl": "15 sierpnia 1248 roku położono kamień węgielny katedry w Kolonii. Budowa ciągnęła się przez wieki, a katedra stała się jednym z głównych symboli Nadrenii.",
+      "tr": "15 Ağustos 1248'de Köln Katedrali'nin temel taşı kondu. İnşaat yüzyıllara yayıldı ve katedral Ren bölgesinin başlıca sembollerinden biri oldu.",
+      "zh": "1248年8月15日，科隆大教堂奠基。建造工程延续了数个世纪，大教堂成为莱茵地区的主要象征之一。",
+      "ja": "1248年8月15日、ケルン大聖堂の礎石が置かれた。建設は何世紀にもわたり、大聖堂はラインラントの主要な象徴の一つとなった。",
+      "ko": "1248년 8월 15일, 쾰른 대성당의 초석이 놓였다. 건설은 수세기에 걸쳐 이어졌고, 대성당은 라인란트의 주요 상징 중 하나가 되었다.",
+      "hi": "15 अगस्त 1248 को कोलोन कैथेड्रल की आधारशिला रखी गई। निर्माण कई सदियों तक चला, और कैथेड्रल राइन क्षेत्र के मुख्य प्रतीकों में से एक बन गया।",
+      "ar": "في 15 أغسطس 1248 وُضع حجر الأساس لكاتدرائية كولونيا. امتد البناء عبر قرون، وأصبحت الكاتدرائية أحد الرموز الرئيسية لمنطقة الراين."
     },
     "importance": {
       "ru": "Кёльнский собор показывает масштаб средневековой городской веры, богатства и мастерства.",
       "de": "Der Koelner Dom zeigt die Groesse mittelalterlichen staedtischen Glaubens, Reichtums und Handwerks.",
-      "en": "Cologne Cathedral shows the scale of medieval urban faith, wealth and craftsmanship."
+      "en": "Cologne Cathedral shows the scale of medieval urban faith, wealth and craftsmanship.",
+      "fr": "La cathédrale de Cologne montre l'ampleur de la foi urbaine médiévale, de la richesse et du savoir-faire.",
+      "es": "La catedral de Colonia muestra la escala de la fe urbana medieval, la riqueza y la artesanía.",
+      "it": "Il Duomo di Colonia mostra la grandezza della fede urbana medievale, della ricchezza e della maestria artigiana.",
+      "pt": "A Catedral de Colônia mostra a escala da fé urbana medieval, da riqueza e do artesanato.",
+      "nl": "De Dom van Keulen toont de omvang van middeleeuws stedelijk geloof, rijkdom en vakmanschap.",
+      "pl": "Katedra w Kolonii pokazuje skalę średniowiecznej miejskiej wiary, bogactwa i rzemiosła.",
+      "tr": "Köln Katedrali, Orta Çağ kent inancının, zenginliğinin ve zanaatkarlığının büyüklüğünü gösterir.",
+      "zh": "科隆大教堂展示了中世纪城市信仰、财富和工艺的规模。",
+      "ja": "ケルン大聖堂は、中世都市の信仰、富、職人技の規模を示している。",
+      "ko": "쾰른 대성당은 중세 도시의 신앙, 부, 장인정신의 규모를 보여 준다.",
+      "hi": "कोलोन कैथेड्रल मध्यकालीन शहरी आस्था, धन और शिल्पकला के पैमाने को दिखाता है।",
+      "ar": "تُظهر كاتدرائية كولونيا حجم الإيمان الحضري في العصور الوسطى والثروة والحرفية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Собор достраивали через столетия",
           "de": "Der Dom wurde erst Jahrhunderte spaeter vollendet",
-          "en": "The cathedral was completed centuries later"
+          "en": "The cathedral was completed centuries later",
+          "fr": "La cathédrale fut achevée des siècles plus tard",
+          "es": "La catedral se completó siglos después",
+          "it": "La cattedrale fu completata secoli dopo",
+          "pt": "A catedral foi concluída séculos depois",
+          "nl": "De kathedraal werd eeuwen later voltooid",
+          "pl": "Katedrę ukończono dopiero po stuleciach",
+          "tr": "Katedral yüzyıllar sonra tamamlandı",
+          "zh": "大教堂在数百年后才完工",
+          "ja": "大聖堂は数世紀後に完成した",
+          "ko": "대성당은 수세기 뒤에 완성되었다",
+          "hi": "कैथेड्रल सदियों बाद पूरा हुआ",
+          "ar": "اكتملت الكاتدرائية بعد قرون"
         },
         "description": {
           "ru": "Работы над собором надолго останавливались и были завершены только в XIX веке. Поэтому здание соединяет Средневековье, романтический интерес к готике и национальную символику.",
           "de": "Die Arbeiten am Dom ruhten lange und wurden erst im 19. Jahrhundert vollendet. So verbindet das Gebaeude Mittelalter, romantisches Interesse an der Gotik und nationale Symbolik.",
-          "en": "Work on the cathedral stopped for a long time and was completed only in the 19th century. The building connects the Middle Ages, Romantic interest in Gothic architecture and national symbolism."
+          "en": "Work on the cathedral stopped for a long time and was completed only in the 19th century. The building connects the Middle Ages, Romantic interest in Gothic architecture and national symbolism.",
+          "fr": "Les travaux de la cathédrale furent longtemps interrompus et ne furent achevés qu'au XIXe siècle. Le bâtiment relie ainsi le Moyen Âge, l'intérêt romantique pour le gothique et la symbolique nationale.",
+          "es": "Las obras de la catedral se detuvieron durante mucho tiempo y solo se completaron en el siglo XIX. El edificio conecta la Edad Media, el interés romántico por el gótico y el simbolismo nacional.",
+          "it": "I lavori sulla cattedrale si fermarono a lungo e furono completati solo nel XIX secolo. L'edificio collega così il Medioevo, l'interesse romantico per il gotico e la simbologia nazionale.",
+          "pt": "As obras da catedral ficaram paradas por muito tempo e só foram concluídas no século XIX. O edifício conecta a Idade Média, o interesse romântico pelo gótico e a simbologia nacional.",
+          "nl": "Het werk aan de kathedraal lag lange tijd stil en werd pas in de negentiende eeuw voltooid. Het gebouw verbindt zo de middeleeuwen, romantische belangstelling voor gotiek en nationale symboliek.",
+          "pl": "Prace nad katedrą na długo przerwano i ukończono je dopiero w XIX wieku. Budowla łączy więc średniowiecze, romantyczne zainteresowanie gotykiem i symbolikę narodową.",
+          "tr": "Katedral üzerindeki çalışmalar uzun süre durdu ve ancak 19. yüzyılda tamamlandı. Bu yüzden yapı Orta Çağ'ı, gotiğe romantik ilgiyi ve ulusal sembolizmi birleştirir.",
+          "zh": "大教堂的工程曾长期停顿，直到19世纪才完成。因此这座建筑连接了中世纪、浪漫主义对哥特式建筑的兴趣和民族象征。",
+          "ja": "大聖堂の工事は長く中断され、完成したのは19世紀になってからだった。そのためこの建物は、中世、ゴシック建築へのロマン主義的関心、国民的象徴性を結びつけている。",
+          "ko": "대성당 공사는 오랫동안 중단되었고 19세기에야 완성되었다. 그래서 이 건물은 중세, 고딕 건축에 대한 낭만주의적 관심, 국가적 상징성을 연결한다.",
+          "hi": "कैथेड्रल का काम लंबे समय तक रुका रहा और केवल उन्नीसवीं सदी में पूरा हुआ। इसलिए यह इमारत मध्य युग, गोथिक वास्तुकला में रोमांटिक रुचि और राष्ट्रीय प्रतीकवाद को जोड़ती है।",
+          "ar": "توقفت أعمال الكاتدرائية لفترة طويلة ولم تكتمل إلا في القرن التاسع عشر. لذلك يربط المبنى بين العصور الوسطى والاهتمام الرومانسي بالعمارة القوطية والرمزية الوطنية."
         },
         "importance": {
           "ru": "Это редкий памятник, в котором один проект пережил несколько эпох.",
           "de": "Es ist ein seltenes Denkmal, in dem ein Projekt mehrere Epochen ueberdauerte.",
-          "en": "It is a rare monument where one project outlasted several eras."
+          "en": "It is a rare monument where one project outlasted several eras.",
+          "fr": "C'est un monument rare où un même projet a traversé plusieurs époques.",
+          "es": "Es un monumento raro en el que un proyecto sobrevivió a varias épocas.",
+          "it": "È un monumento raro in cui un progetto ha attraversato diverse epoche.",
+          "pt": "É um monumento raro em que um projeto atravessou várias épocas.",
+          "nl": "Het is een zeldzaam monument waarin één project meerdere tijdperken overleefde.",
+          "pl": "To rzadki zabytek, w którym jeden projekt przetrwał kilka epok.",
+          "tr": "Bu, tek bir projenin birkaç çağı aştığı nadir bir anıttır.",
+          "zh": "这是一座罕见的纪念性建筑，一个项目跨越了多个时代。",
+          "ja": "これは、一つの計画がいくつもの時代を生き延びた珍しい記念建築である。",
+          "ko": "하나의 프로젝트가 여러 시대를 견딘 드문 기념물이다.",
+          "hi": "यह दुर्लभ स्मारक है, जिसमें एक परियोजना ने कई युगों को पार किया।",
+          "ar": "إنه معلم نادر صمد فيه مشروع واحد عبر عدة عصور."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Кёльнский собор входит в список Всемирного наследия ЮНЕСКО.",
     "de": "Der Koelner Dom gehoert zum UNESCO-Welterbe.",
-    "en": "Cologne Cathedral is a UNESCO World Heritage Site."
+    "en": "Cologne Cathedral is a UNESCO World Heritage Site.",
+    "fr": "La cathédrale de Cologne est inscrite au patrimoine mondial de l'UNESCO.",
+    "es": "La catedral de Colonia es Patrimonio Mundial de la UNESCO.",
+    "it": "Il Duomo di Colonia è patrimonio mondiale dell'UNESCO.",
+    "pt": "A Catedral de Colônia é Patrimônio Mundial da UNESCO.",
+    "nl": "De Dom van Keulen staat op de Werelderfgoedlijst van UNESCO.",
+    "pl": "Katedra w Kolonii znajduje się na liście światowego dziedzictwa UNESCO.",
+    "tr": "Köln Katedrali UNESCO Dünya Mirası listesindedir.",
+    "zh": "科隆大教堂是联合国教科文组织世界遗产。",
+    "ja": "ケルン大聖堂はユネスコ世界遺産である。",
+    "ko": "쾰른 대성당은 유네스코 세계유산이다.",
+    "hi": "कोलोन कैथेड्रल यूनेस्को विश्व धरोहर स्थल है।",
+    "ar": "كاتدرائية كولونيا مدرجة في قائمة التراث العالمي لليونسكو."
   },
   "sources": [
     {

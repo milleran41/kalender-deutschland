@@ -11,17 +11,53 @@
     "title": {
       "ru": "Завершились Олимпийские игры в Берлине",
       "de": "Die Olympischen Spiele in Berlin enden",
-      "en": "The Olympic Games in Berlin end"
+      "en": "The Olympic Games in Berlin end",
+      "fr": "Les Jeux olympiques de Berlin se terminent",
+      "es": "Terminan los Juegos Olímpicos de Berlín",
+      "it": "Si concludono i Giochi olimpici di Berlino",
+      "pt": "Terminam os Jogos Olímpicos de Berlim",
+      "nl": "De Olympische Spelen in Berlijn eindigen",
+      "pl": "Kończą się igrzyska olimpijskie w Berlinie",
+      "tr": "Berlin Olimpiyat Oyunları sona erer",
+      "zh": "柏林奥运会结束",
+      "ja": "ベルリン・オリンピックが閉幕する",
+      "ko": "베를린 올림픽이 끝나다",
+      "hi": "बर्लिन ओलंपिक खेल समाप्त हुए",
+      "ar": "انتهاء الألعاب الأولمبية في برلين"
     },
     "description": {
       "ru": "16 августа 1936 года завершились летние Олимпийские игры в Берлине. Нацистский режим использовал их как крупную пропагандистскую витрину, пытаясь показать миру благополучный образ Германии.",
       "de": "Am 16. August 1936 endeten die Olympischen Sommerspiele in Berlin. Das NS-Regime nutzte sie als grosse Propagandabuehne, um der Welt ein positives Bild Deutschlands zu zeigen.",
-      "en": "On 16 August 1936, the Summer Olympic Games in Berlin came to an end. The Nazi regime used them as a major propaganda stage to present a favorable image of Germany to the world."
+      "en": "On 16 August 1936, the Summer Olympic Games in Berlin came to an end. The Nazi regime used them as a major propaganda stage to present a favorable image of Germany to the world.",
+      "fr": "Le 16 août 1936, les Jeux olympiques d'été de Berlin prirent fin. Le régime nazi les utilisa comme une grande scène de propagande pour présenter au monde une image favorable de l'Allemagne.",
+      "es": "El 16 de agosto de 1936 terminaron los Juegos Olímpicos de verano en Berlín. El régimen nazi los utilizó como gran escenario propagandístico para mostrar al mundo una imagen favorable de Alemania.",
+      "it": "Il 16 agosto 1936 si conclusero i Giochi olimpici estivi di Berlino. Il regime nazista li usò come grande palcoscenico di propaganda per presentare al mondo un'immagine favorevole della Germania.",
+      "pt": "Em 16 de agosto de 1936, terminaram os Jogos Olímpicos de Verão em Berlim. O regime nazista os usou como grande palco de propaganda para apresentar ao mundo uma imagem favorável da Alemanha.",
+      "nl": "Op 16 augustus 1936 kwamen de Olympische Zomerspelen in Berlijn ten einde. Het naziregime gebruikte ze als een groot propagandapodium om de wereld een gunstig beeld van Duitsland te tonen.",
+      "pl": "16 sierpnia 1936 roku zakończyły się letnie igrzyska olimpijskie w Berlinie. Reżim nazistowski wykorzystał je jako wielką scenę propagandową, próbując pokazać światu korzystny obraz Niemiec.",
+      "tr": "16 Ağustos 1936'da Berlin Yaz Olimpiyat Oyunları sona erdi. Nazi rejimi onları Almanya'nın olumlu bir görüntüsünü dünyaya sunmak için büyük bir propaganda sahnesi olarak kullandı.",
+      "zh": "1936年8月16日，柏林夏季奥运会闭幕。纳粹政权把它作为大型宣传舞台，试图向世界展示德国的良好形象。",
+      "ja": "1936年8月16日、ベルリン夏季オリンピックが閉幕した。ナチス政権はこれを大規模な宣伝の舞台として利用し、世界にドイツの好ましい姿を見せようとした。",
+      "ko": "1936년 8월 16일, 베를린 하계 올림픽이 끝났다. 나치 정권은 이를 독일의 호의적인 이미지를 세계에 보여 주기 위한 큰 선전 무대로 이용했다.",
+      "hi": "16 अगस्त 1936 को बर्लिन में ग्रीष्मकालीन ओलंपिक खेल समाप्त हुए। नाजी शासन ने इन्हें दुनिया के सामने जर्मनी की अनुकूल छवि दिखाने के लिए बड़े प्रचार मंच के रूप में इस्तेमाल किया।",
+      "ar": "في 16 أغسطس 1936 انتهت الألعاب الأولمبية الصيفية في برلين. استخدمها النظام النازي منصة دعائية كبرى ليعرض للعالم صورة إيجابية عن ألمانيا."
     },
     "importance": {
       "ru": "Дата важна, потому что спорт здесь стал частью политики, международного имиджа и нацистской пропаганды.",
       "de": "Das Datum ist wichtig, weil Sport hier Teil von Politik, internationalem Image und nationalsozialistischer Propaganda wurde.",
-      "en": "The date matters because sport here became part of politics, international image-making and Nazi propaganda."
+      "en": "The date matters because sport here became part of politics, international image-making and Nazi propaganda.",
+      "fr": "Cette date est importante parce qu'ici le sport devint partie intégrante de la politique, de l'image internationale et de la propagande nazie.",
+      "es": "La fecha es importante porque aquí el deporte se convirtió en parte de la política, la imagen internacional y la propaganda nazi.",
+      "it": "La data è importante perché qui lo sport divenne parte della politica, dell'immagine internazionale e della propaganda nazista.",
+      "pt": "A data é importante porque aqui o esporte tornou-se parte da política, da imagem internacional e da propaganda nazista.",
+      "nl": "De datum is belangrijk omdat sport hier deel werd van politiek, internationaal imago en nazistische propaganda.",
+      "pl": "Ta data jest ważna, ponieważ sport stał się tu częścią polityki, międzynarodowego wizerunku i nazistowskiej propagandy.",
+      "tr": "Bu tarih önemlidir, çünkü burada spor siyasetin, uluslararası imajın ve Nazi propagandasının parçası oldu.",
+      "zh": "这个日期很重要，因为体育在这里成为政治、国际形象塑造和纳粹宣传的一部分。",
+      "ja": "この日が重要なのは、ここでスポーツが政治、国際的イメージ作り、ナチス宣伝の一部となったからである。",
+      "ko": "이 날짜가 중요한 이유는 여기서 스포츠가 정치, 국제 이미지 만들기, 나치 선전의 일부가 되었기 때문이다.",
+      "hi": "यह तारीख महत्वपूर्ण है क्योंकि यहां खेल राजनीति, अंतरराष्ट्रीय छवि और नाजी प्रचार का हिस्सा बन गया।",
+      "ar": "هذا التاريخ مهم لأن الرياضة هنا أصبحت جزءا من السياسة والصورة الدولية والدعاية النازية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Игры XI Олимпиады",
           "de": "Die Spiele der XI. Olympiade",
-          "en": "The Games of the XI Olympiad"
+          "en": "The Games of the XI Olympiad",
+          "fr": "Les Jeux de la XIe Olympiade",
+          "es": "Los Juegos de la XI Olimpiada",
+          "it": "I Giochi della XI Olimpiade",
+          "pt": "Os Jogos da XI Olimpíada",
+          "nl": "De Spelen van de XIe Olympiade",
+          "pl": "Igrzyska XI Olimpiady",
+          "tr": "XI. Olimpiyat Oyunları",
+          "zh": "第十一届奥林匹克运动会",
+          "ja": "第11回オリンピック競技大会",
+          "ko": "제11회 올림피아드 경기",
+          "hi": "ग्यारहवीं ओलंपियाड के खेल",
+          "ar": "ألعاب الأولمبياد الحادي عشر"
         },
         "description": {
           "ru": "Игры проходили с 1 по 16 августа 1936 года. Германия была страной-хозяйкой, а соревнования привлекли внимание всего мира.",
           "de": "Die Spiele fanden vom 1. bis 16. August 1936 statt. Deutschland war Gastgeber, und die Wettbewerbe zogen weltweite Aufmerksamkeit auf sich.",
-          "en": "The Games took place from 1 to 16 August 1936. Germany was the host country, and the competitions drew worldwide attention."
+          "en": "The Games took place from 1 to 16 August 1936. Germany was the host country, and the competitions drew worldwide attention.",
+          "fr": "Les Jeux se déroulèrent du 1er au 16 août 1936. L'Allemagne était le pays hôte, et les compétitions attirèrent l'attention du monde entier.",
+          "es": "Los Juegos tuvieron lugar del 1 al 16 de agosto de 1936. Alemania fue el país anfitrión, y las competiciones atrajeron la atención de todo el mundo.",
+          "it": "I Giochi si svolsero dal 1º al 16 agosto 1936. La Germania era il paese ospitante, e le competizioni attirarono l'attenzione mondiale.",
+          "pt": "Os Jogos ocorreram de 1 a 16 de agosto de 1936. A Alemanha foi o país anfitrião, e as competições atraíram atenção mundial.",
+          "nl": "De Spelen vonden plaats van 1 tot 16 augustus 1936. Duitsland was het gastland, en de wedstrijden trokken wereldwijde aandacht.",
+          "pl": "Igrzyska odbywały się od 1 do 16 sierpnia 1936 roku. Niemcy były gospodarzem, a zawody przyciągnęły uwagę całego świata.",
+          "tr": "Oyunlar 1-16 Ağustos 1936 tarihleri arasında yapıldı. Almanya ev sahibi ülkeydi ve yarışmalar tüm dünyanın dikkatini çekti.",
+          "zh": "奥运会于1936年8月1日至16日举行。德国是主办国，比赛吸引了全世界的关注。",
+          "ja": "大会は1936年8月1日から16日まで行われた。ドイツが開催国であり、競技は世界中の注目を集めた。",
+          "ko": "대회는 1936년 8월 1일부터 16일까지 열렸다. 독일이 개최국이었고, 경기들은 전 세계의 관심을 끌었다.",
+          "hi": "ये खेल 1 से 16 अगस्त 1936 तक हुए। जर्मनी मेजबान देश था, और प्रतियोगिताओं ने पूरी दुनिया का ध्यान खींचा।",
+          "ar": "أقيمت الألعاب من 1 إلى 16 أغسطس 1936. كانت ألمانيا الدولة المضيفة، وجذبت المنافسات اهتمام العالم كله."
         },
         "importance": {
           "ru": "Это одно из самых известных спортивных событий, проходивших в Германии.",
           "de": "Es ist eines der bekanntesten Sportereignisse, die in Deutschland stattfanden.",
-          "en": "It is one of the best-known sporting events ever held in Germany."
+          "en": "It is one of the best-known sporting events ever held in Germany.",
+          "fr": "C'est l'un des événements sportifs les plus connus jamais organisés en Allemagne.",
+          "es": "Es uno de los acontecimientos deportivos más conocidos celebrados en Alemania.",
+          "it": "È uno degli eventi sportivi più noti mai svoltisi in Germania.",
+          "pt": "É um dos eventos esportivos mais conhecidos já realizados na Alemanha.",
+          "nl": "Het is een van de bekendste sportevenementen die ooit in Duitsland plaatsvonden.",
+          "pl": "To jedno z najbardziej znanych wydarzeń sportowych, jakie odbyły się w Niemczech.",
+          "tr": "Almanya'da düzenlenen en bilinen spor etkinliklerinden biridir.",
+          "zh": "这是德国举办过的最著名体育赛事之一。",
+          "ja": "これはドイツで開催された最も有名なスポーツイベントの一つである。",
+          "ko": "이는 독일에서 열린 가장 잘 알려진 스포츠 행사 중 하나이다.",
+          "hi": "यह जर्मनी में हुए सबसे प्रसिद्ध खेल आयोजनों में से एक है।",
+          "ar": "إنه أحد أشهر الأحداث الرياضية التي أُقيمت في ألمانيا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Образ вместо реальности",
           "de": "Bild statt Wirklichkeit",
-          "en": "Image instead of reality"
+          "en": "Image instead of reality",
+          "fr": "L'image à la place de la réalité",
+          "es": "Imagen en lugar de realidad",
+          "it": "Immagine invece della realtà",
+          "pt": "Imagem em vez de realidade",
+          "nl": "Beeld in plaats van werkelijkheid",
+          "pl": "Obraz zamiast rzeczywistości",
+          "tr": "Gerçeklik yerine imaj",
+          "zh": "形象取代现实",
+          "ja": "現実ではなくイメージ",
+          "ko": "현실 대신 이미지",
+          "hi": "वास्तविकता की जगह छवि",
+          "ar": "الصورة بدلا من الواقع"
         },
         "description": {
           "ru": "Перед иностранными гостями режим временно приглушал видимые признаки антисемитской политики. За праздничной картинкой уже существовала диктатура, преследования и подготовка к дальнейшей агрессии.",
           "de": "Vor auslaendischen Gaesten milderte das Regime zeitweise sichtbare Zeichen antisemitischer Politik. Hinter dem festlichen Bild standen bereits Diktatur, Verfolgung und die Vorbereitung weiterer Aggression.",
-          "en": "For foreign visitors, the regime temporarily softened visible signs of antisemitic policy. Behind the festive image already stood dictatorship, persecution and preparation for further aggression."
+          "en": "For foreign visitors, the regime temporarily softened visible signs of antisemitic policy. Behind the festive image already stood dictatorship, persecution and preparation for further aggression.",
+          "fr": "Face aux visiteurs étrangers, le régime atténua temporairement les signes visibles de sa politique antisémite. Derrière l'image festive se trouvaient déjà dictature, persécutions et préparation de nouvelles agressions.",
+          "es": "Ante los visitantes extranjeros, el régimen suavizó temporalmente los signos visibles de la política antisemita. Detrás de la imagen festiva ya estaban la dictadura, la persecución y la preparación de nuevas agresiones.",
+          "it": "Davanti agli ospiti stranieri, il regime attenuò temporaneamente i segni visibili della politica antisemita. Dietro l'immagine festosa c'erano già dittatura, persecuzione e preparazione di ulteriori aggressioni.",
+          "pt": "Diante de visitantes estrangeiros, o regime suavizou temporariamente sinais visíveis da política antissemita. Por trás da imagem festiva já havia ditadura, perseguição e preparação para novas agressões.",
+          "nl": "Voor buitenlandse bezoekers verzachtte het regime tijdelijk zichtbare tekenen van antisemitisch beleid. Achter het feestelijke beeld stonden al dictatuur, vervolging en voorbereiding op verdere agressie.",
+          "pl": "Przed zagranicznymi gośćmi reżim tymczasowo łagodził widoczne oznaki polityki antysemickiej. Za świątecznym obrazem stały już dyktatura, prześladowania i przygotowania do dalszej agresji.",
+          "tr": "Yabancı konuklar için rejim antisemitik politikanın görünür işaretlerini geçici olarak yumuşattı. Şenlikli görüntünün arkasında ise diktatörlük, zulüm ve daha sonraki saldırganlığın hazırlığı zaten vardı.",
+          "zh": "面对外国访客，政权暂时淡化了反犹政策的可见迹象。在节日般的画面背后，已经存在独裁、迫害和进一步侵略的准备。",
+          "ja": "外国人訪問者の前で、政権は反ユダヤ政策の目に見える兆候を一時的に和らげた。祝祭的なイメージの背後には、すでに独裁、迫害、さらなる侵略の準備があった。",
+          "ko": "외국 방문객들 앞에서 정권은 반유대주의 정책의 눈에 보이는 징후를 일시적으로 완화했다. 축제 같은 이미지 뒤에는 이미 독재, 박해, 추가 침략 준비가 있었다.",
+          "hi": "विदेशी मेहमानों के सामने शासन ने यहूदी-विरोधी नीति के दिखाई देने वाले संकेतों को अस्थायी रूप से कम किया। उत्सव जैसी छवि के पीछे पहले से ही तानाशाही, उत्पीड़न और आगे की आक्रामकता की तैयारी थी।",
+          "ar": "أمام الزوار الأجانب خفف النظام مؤقتا العلامات الظاهرة للسياسة المعادية للسامية. وخلف الصورة الاحتفالية كانت هناك بالفعل دكتاتورية واضطهاد واستعداد لمزيد من العدوان."
         },
         "importance": {
           "ru": "Это помогает понять, почему красивые картинки власти нужно рассматривать критически.",
           "de": "Das hilft zu verstehen, warum schoene Bilder der Macht kritisch betrachtet werden muessen.",
-          "en": "It helps explain why attractive images of power need to be viewed critically."
+          "en": "It helps explain why attractive images of power need to be viewed critically.",
+          "fr": "Cela aide à comprendre pourquoi les belles images du pouvoir doivent être regardées avec esprit critique.",
+          "es": "Ayuda a entender por qué las imágenes atractivas del poder deben mirarse críticamente.",
+          "it": "Aiuta a capire perché le immagini attraenti del potere devono essere osservate criticamente.",
+          "pt": "Ajuda a entender por que imagens atraentes do poder precisam ser vistas criticamente.",
+          "nl": "Het helpt verklaren waarom aantrekkelijke beelden van macht kritisch bekeken moeten worden.",
+          "pl": "Pomaga to zrozumieć, dlaczego atrakcyjne obrazy władzy trzeba oglądać krytycznie.",
+          "tr": "Bu, iktidarın çekici görüntülerine neden eleştirel bakılması gerektiğini anlamaya yardımcı olur.",
+          "zh": "这有助于解释为什么权力的漂亮图像需要被批判地看待。",
+          "ja": "これは、権力の魅力的なイメージを批判的に見る必要がある理由を理解する助けになる。",
+          "ko": "이는 권력의 매력적인 이미지를 왜 비판적으로 보아야 하는지 설명하는 데 도움이 된다.",
+          "hi": "यह समझने में मदद करता है कि सत्ता की आकर्षक तस्वीरों को आलोचनात्मक दृष्टि से क्यों देखना चाहिए।",
+          "ar": "يساعد ذلك على فهم سبب ضرورة النظر إلى الصور الجذابة للسلطة بصورة نقدية."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "Олимпиада и раннее телевидение",
           "de": "Olympia und fruehes Fernsehen",
-          "en": "Olympics and early television"
+          "en": "Olympics and early television",
+          "fr": "Les Jeux olympiques et les débuts de la télévision",
+          "es": "Olimpiadas y televisión temprana",
+          "it": "Olimpiadi e primi passi della televisione",
+          "pt": "Olimpíada e televisão inicial",
+          "nl": "Olympische Spelen en vroege televisie",
+          "pl": "Olimpiada i wczesna telewizja",
+          "tr": "Olimpiyatlar ve erken televizyon",
+          "zh": "奥运会与早期电视",
+          "ja": "オリンピックと初期テレビ",
+          "ko": "올림픽과 초기 텔레비전",
+          "hi": "ओलंपिक और शुरुआती टेलीविजन",
+          "ar": "الأولمبياد والتلفزيون المبكر"
         },
         "description": {
           "ru": "Берлинские игры стали одним из ранних примеров телевизионного показа спортивных соревнований. Техника была новой, но власть уже понимала силу изображения.",
           "de": "Die Berliner Spiele gehoerten zu den fruehen Beispielen einer Fernsehuebertragung von Sportwettbewerben. Die Technik war neu, doch die Macht des Bildes wurde bereits verstanden.",
-          "en": "The Berlin Games were among the early examples of televised sports competition. The technology was new, but the power of images was already understood."
+          "en": "The Berlin Games were among the early examples of televised sports competition. The technology was new, but the power of images was already understood.",
+          "fr": "Les Jeux de Berlin comptèrent parmi les premiers exemples de retransmission télévisée de compétitions sportives. La technique était nouvelle, mais le pouvoir de l'image était déjà compris.",
+          "es": "Los Juegos de Berlín fueron uno de los primeros ejemplos de transmisión televisiva de competiciones deportivas. La técnica era nueva, pero ya se comprendía el poder de la imagen.",
+          "it": "I Giochi di Berlino furono tra i primi esempi di trasmissione televisiva di competizioni sportive. La tecnica era nuova, ma il potere delle immagini era già compreso.",
+          "pt": "Os Jogos de Berlim estiveram entre os primeiros exemplos de transmissão televisiva de competições esportivas. A técnica era nova, mas o poder da imagem já era compreendido.",
+          "nl": "De Spelen van Berlijn behoorden tot de vroege voorbeelden van televisieverslaggeving van sportwedstrijden. De techniek was nieuw, maar de macht van het beeld werd al begrepen.",
+          "pl": "Igrzyska berlińskie należały do wczesnych przykładów telewizyjnego pokazywania zawodów sportowych. Technika była nowa, ale siłę obrazu już rozumiano.",
+          "tr": "Berlin Oyunları, spor yarışmalarının televizyonda gösterilmesinin erken örneklerinden biriydi. Teknoloji yeniydi, ancak görüntünün gücü çoktan anlaşılmıştı.",
+          "zh": "柏林奥运会是电视转播体育比赛的早期例子之一。技术是新的，但图像的力量已经被理解。",
+          "ja": "ベルリン大会は、スポーツ競技のテレビ放送の初期例の一つだった。技術は新しかったが、映像の力はすでに理解されていた。",
+          "ko": "베를린 대회는 스포츠 경기의 텔레비전 중계 초기 사례 중 하나였다. 기술은 새로웠지만 이미지의 힘은 이미 이해되고 있었다.",
+          "hi": "बर्लिन खेल खेल प्रतियोगिताओं के टेलीविजन प्रसारण के शुरुआती उदाहरणों में से थे। तकनीक नई थी, लेकिन छवि की शक्ति पहले ही समझी जा चुकी थी।",
+          "ar": "كانت ألعاب برلين من الأمثلة المبكرة على بث المنافسات الرياضية تلفزيونيا. كانت التقنية جديدة، لكن قوة الصورة كانت مفهومة بالفعل."
         },
         "importance": {
           "ru": "Интересно, как спорт, техника и пропаганда встретились в одном событии.",
           "de": "Interessant ist, wie Sport, Technik und Propaganda in einem Ereignis zusammentrafen.",
-          "en": "It is interesting how sport, technology and propaganda met in one event."
+          "en": "It is interesting how sport, technology and propaganda met in one event.",
+          "fr": "Il est intéressant de voir comment sport, technique et propagande se sont rencontrés dans un même événement.",
+          "es": "Es interesante cómo deporte, tecnología y propaganda se encontraron en un solo acontecimiento.",
+          "it": "È interessante vedere come sport, tecnica e propaganda si incontrarono in un unico evento.",
+          "pt": "É interessante ver como esporte, tecnologia e propaganda se encontraram em um único evento.",
+          "nl": "Interessant is hoe sport, techniek en propaganda in één gebeurtenis samenkwamen.",
+          "pl": "Ciekawe jest, jak sport, technika i propaganda spotkały się w jednym wydarzeniu.",
+          "tr": "Spor, teknoloji ve propagandanın tek bir olayda nasıl buluştuğu ilginçtir.",
+          "zh": "体育、技术和宣传如何在同一事件中相遇，这很有意思。",
+          "ja": "スポーツ、技術、プロパガンダが一つの出来事でどのように出会ったかは興味深い。",
+          "ko": "스포츠, 기술, 선전이 하나의 사건에서 어떻게 만났는지는 흥미롭다.",
+          "hi": "यह रोचक है कि खेल, तकनीक और प्रचार एक ही घटना में कैसे मिले।",
+          "ar": "من المثير للاهتمام كيف التقت الرياضة والتقنية والدعاية في حدث واحد."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Самым знаменитым спортсменом Берлина-1936 стал Джесси Оуэнс, выигравший четыре золотые медали.",
     "de": "Der beruehmteste Sportler von Berlin 1936 war Jesse Owens, der vier Goldmedaillen gewann.",
-    "en": "The most famous athlete of Berlin 1936 was Jesse Owens, who won four gold medals."
+    "en": "The most famous athlete of Berlin 1936 was Jesse Owens, who won four gold medals.",
+    "fr": "L'athlète le plus célèbre de Berlin 1936 fut Jesse Owens, qui remporta quatre médailles d'or.",
+    "es": "El atleta más famoso de Berlín 1936 fue Jesse Owens, que ganó cuatro medallas de oro.",
+    "it": "L'atleta più famoso di Berlino 1936 fu Jesse Owens, che vinse quattro medaglie d'oro.",
+    "pt": "O atleta mais famoso de Berlim 1936 foi Jesse Owens, que ganhou quatro medalhas de ouro.",
+    "nl": "De beroemdste atleet van Berlijn 1936 was Jesse Owens, die vier gouden medailles won.",
+    "pl": "Najsłynniejszym sportowcem Berlina 1936 był Jesse Owens, który zdobył cztery złote medale.",
+    "tr": "Berlin 1936'nın en ünlü sporcusu dört altın madalya kazanan Jesse Owens'tı.",
+    "zh": "1936年柏林奥运会最著名的运动员是赢得四枚金牌的杰西·欧文斯。",
+    "ja": "1936年ベルリン大会で最も有名な選手は、4個の金メダルを獲得したジェシー・オーエンスだった。",
+    "ko": "1936년 베를린의 가장 유명한 선수는 금메달 네 개를 딴 제시 오언스였다.",
+    "hi": "बर्लिन 1936 के सबसे प्रसिद्ध खिलाड़ी जेसी ओवेन्स थे, जिन्होंने चार स्वर्ण पदक जीते।",
+    "ar": "كان أشهر رياضي في برلين 1936 هو جيسي أوينز، الذي فاز بأربع ميداليات ذهبية."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вступила в силу Веймарская конституция",
       "de": "Die Weimarer Verfassung tritt in Kraft",
-      "en": "The Weimar Constitution takes effect"
+      "en": "The Weimar Constitution takes effect",
+      "fr": "La Constitution de Weimar entre en vigueur",
+      "es": "Entra en vigor la Constitución de Weimar",
+      "it": "Entra in vigore la Costituzione di Weimar",
+      "pt": "A Constituição de Weimar entra em vigor",
+      "nl": "De Weimar-grondwet treedt in werking",
+      "pl": "Konstytucja weimarska wchodzi w życie",
+      "tr": "Weimar Anayasası yürürlüğe girer",
+      "zh": "魏玛宪法生效",
+      "ja": "ワイマール憲法が施行される",
+      "ko": "바이마르 헌법이 시행되다",
+      "hi": "वाइमर संविधान लागू हुआ",
+      "ar": "دستور فايمار يدخل حيز التنفيذ"
     },
     "description": {
       "ru": "14 августа 1919 года вступила в силу Веймарская конституция. Она закрепила Германию как республику после падения монархии и Первой мировой войны.",
       "de": "Am 14. August 1919 trat die Weimarer Verfassung in Kraft. Sie machte Deutschland nach dem Ende der Monarchie und dem Ersten Weltkrieg zur Republik.",
-      "en": "On 14 August 1919, the Weimar Constitution took effect. It established Germany as a republic after the fall of the monarchy and the First World War."
+      "en": "On 14 August 1919, the Weimar Constitution took effect. It established Germany as a republic after the fall of the monarchy and the First World War.",
+      "fr": "Le 14 août 1919, la Constitution de Weimar entra en vigueur. Elle établit l'Allemagne comme république après la chute de la monarchie et la Première Guerre mondiale.",
+      "es": "El 14 de agosto de 1919 entró en vigor la Constitución de Weimar. Estableció a Alemania como república tras la caída de la monarquía y la Primera Guerra Mundial.",
+      "it": "Il 14 agosto 1919 entrò in vigore la Costituzione di Weimar. Essa stabilì la Germania come repubblica dopo la caduta della monarchia e la Prima guerra mondiale.",
+      "pt": "Em 14 de agosto de 1919, a Constituição de Weimar entrou em vigor. Ela estabeleceu a Alemanha como república após a queda da monarquia e a Primeira Guerra Mundial.",
+      "nl": "Op 14 augustus 1919 trad de Weimar-grondwet in werking. Zij vestigde Duitsland als republiek na de val van de monarchie en de Eerste Wereldoorlog.",
+      "pl": "14 sierpnia 1919 roku weszła w życie konstytucja weimarska. Ustanowiła Niemcy republiką po upadku monarchii i pierwszej wojnie światowej.",
+      "tr": "14 Ağustos 1919'da Weimar Anayasası yürürlüğe girdi. Monarşinin çöküşü ve Birinci Dünya Savaşı'ndan sonra Almanya'yı cumhuriyet olarak kurdu.",
+      "zh": "1919年8月14日，魏玛宪法生效。它在君主制崩溃和第一次世界大战之后确立德国为共和国。",
+      "ja": "1919年8月14日、ワイマール憲法が施行された。これは君主制の崩壊と第一次世界大戦後、ドイツを共和国として定めた。",
+      "ko": "1919년 8월 14일, 바이마르 헌법이 시행되었다. 이 헌법은 군주제 붕괴와 제1차 세계대전 이후 독일을 공화국으로 확립했다.",
+      "hi": "14 अगस्त 1919 को वाइमर संविधान लागू हुआ। इसने राजशाही के पतन और प्रथम विश्व युद्ध के बाद जर्मनी को गणराज्य के रूप में स्थापित किया।",
+      "ar": "في 14 أغسطس 1919 دخل دستور فايمار حيز التنفيذ. وقد جعل ألمانيا جمهورية بعد سقوط الملكية والحرب العالمية الأولى."
     },
     "importance": {
       "ru": "Конституция была важным демократическим шагом, но Веймарская республика оставалась очень уязвимой.",
       "de": "Die Verfassung war ein wichtiger demokratischer Schritt, doch die Weimarer Republik blieb sehr verletzlich.",
-      "en": "The constitution was an important democratic step, but the Weimar Republic remained very vulnerable."
+      "en": "The constitution was an important democratic step, but the Weimar Republic remained very vulnerable.",
+      "fr": "La constitution fut une étape démocratique importante, mais la République de Weimar resta très vulnérable.",
+      "es": "La constitución fue un paso democrático importante, pero la República de Weimar siguió siendo muy vulnerable.",
+      "it": "La costituzione fu un importante passo democratico, ma la Repubblica di Weimar rimase molto vulnerabile.",
+      "pt": "A constituição foi um passo democrático importante, mas a República de Weimar permaneceu muito vulnerável.",
+      "nl": "De grondwet was een belangrijke democratische stap, maar de Weimarrepubliek bleef erg kwetsbaar.",
+      "pl": "Konstytucja była ważnym krokiem demokratycznym, ale Republika Weimarska pozostała bardzo podatna na kryzysy.",
+      "tr": "Anayasa önemli bir demokratik adımdı, ancak Weimar Cumhuriyeti çok kırılgan kaldı.",
+      "zh": "这部宪法是重要的民主一步，但魏玛共和国仍然非常脆弱。",
+      "ja": "この憲法は重要な民主的前進だったが、ワイマール共和国は非常に脆弱なままだった。",
+      "ko": "헌법은 중요한 민주적 진전이었지만 바이마르 공화국은 매우 취약한 상태로 남았다.",
+      "hi": "संविधान एक महत्वपूर्ण लोकतांत्रिक कदम था, लेकिन वाइमर गणराज्य बहुत कमजोर बना रहा।",
+      "ar": "كان الدستور خطوة ديمقراطية مهمة، لكن جمهورية فايمار بقيت شديدة الهشاشة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Права и слабые места",
           "de": "Rechte und Schwachstellen",
-          "en": "Rights and weaknesses"
+          "en": "Rights and weaknesses",
+          "fr": "Droits et points faibles",
+          "es": "Derechos y puntos débiles",
+          "it": "Diritti e punti deboli",
+          "pt": "Direitos e pontos fracos",
+          "nl": "Rechten en zwakke plekken",
+          "pl": "Prawa i słabe punkty",
+          "tr": "Haklar ve zayıf noktalar",
+          "zh": "权利与弱点",
+          "ja": "権利と弱点",
+          "ko": "권리와 약점",
+          "hi": "अधिकार और कमजोरियां",
+          "ar": "حقوق ونقاط ضعف"
         },
         "description": {
           "ru": "Веймарская конституция включала современные права и парламентские институты. Но чрезвычайные полномочия президента и политическая нестабильность позже сыграли опасную роль.",
           "de": "Die Weimarer Verfassung enthielt moderne Rechte und parlamentarische Institutionen. Doch Notbefugnisse des Praesidenten und politische Instabilitaet spielten spaeter eine gefaehrliche Rolle.",
-          "en": "The Weimar Constitution included modern rights and parliamentary institutions. But presidential emergency powers and political instability later played a dangerous role."
+          "en": "The Weimar Constitution included modern rights and parliamentary institutions. But presidential emergency powers and political instability later played a dangerous role.",
+          "fr": "La Constitution de Weimar comprenait des droits modernes et des institutions parlementaires. Mais les pouvoirs d'urgence du président et l'instabilité politique jouèrent plus tard un rôle dangereux.",
+          "es": "La Constitución de Weimar incluía derechos modernos e instituciones parlamentarias. Pero los poderes de emergencia del presidente y la inestabilidad política desempeñaron después un papel peligroso.",
+          "it": "La Costituzione di Weimar includeva diritti moderni e istituzioni parlamentari. Ma i poteri d'emergenza del presidente e l'instabilità politica ebbero in seguito un ruolo pericoloso.",
+          "pt": "A Constituição de Weimar incluía direitos modernos e instituições parlamentares. Mas os poderes de emergência do presidente e a instabilidade política mais tarde desempenharam um papel perigoso.",
+          "nl": "De Weimar-grondwet bevatte moderne rechten en parlementaire instellingen. Maar noodbevoegdheden van de president en politieke instabiliteit speelden later een gevaarlijke rol.",
+          "pl": "Konstytucja weimarska zawierała nowoczesne prawa i instytucje parlamentarne. Jednak nadzwyczajne uprawnienia prezydenta i niestabilność polityczna odegrały później niebezpieczną rolę.",
+          "tr": "Weimar Anayasası modern haklar ve parlamenter kurumlar içeriyordu. Ancak başkanın olağanüstü yetkileri ve siyasi istikrarsızlık daha sonra tehlikeli bir rol oynadı.",
+          "zh": "魏玛宪法包含现代权利和议会制度。但总统的紧急权力和政治不稳定后来发挥了危险作用。",
+          "ja": "ワイマール憲法には近代的な権利と議会制度が含まれていた。しかし大統領の非常権限と政治的不安定は、後に危険な役割を果たした。",
+          "ko": "바이마르 헌법은 현대적 권리와 의회 제도를 포함했다. 그러나 대통령의 긴급 권한과 정치적 불안정은 나중에 위험한 역할을 했다.",
+          "hi": "वाइमर संविधान में आधुनिक अधिकार और संसदीय संस्थाएं शामिल थीं। लेकिन राष्ट्रपति की आपात शक्तियों और राजनीतिक अस्थिरता ने बाद में खतरनाक भूमिका निभाई।",
+          "ar": "تضمن دستور فايمار حقوقا حديثة ومؤسسات برلمانية. لكن صلاحيات الرئيس الطارئة وعدم الاستقرار السياسي لعبا لاحقا دورا خطيرا."
         },
         "importance": {
           "ru": "Это помогает понять, почему демократии нужны не только хорошие тексты законов, но и устойчивая политическая культура.",
           "de": "Das hilft zu verstehen, warum Demokratie nicht nur gute Gesetzestexte, sondern auch eine stabile politische Kultur braucht.",
-          "en": "It helps show that democracy needs not only good legal texts, but also a stable political culture."
+          "en": "It helps show that democracy needs not only good legal texts, but also a stable political culture.",
+          "fr": "Cela aide à comprendre que la démocratie a besoin non seulement de bons textes juridiques, mais aussi d'une culture politique stable.",
+          "es": "Ayuda a entender que la democracia necesita no solo buenos textos legales, sino también una cultura política estable.",
+          "it": "Aiuta a capire che la democrazia ha bisogno non solo di buoni testi giuridici, ma anche di una cultura politica stabile.",
+          "pt": "Ajuda a entender que a democracia precisa não apenas de bons textos legais, mas também de uma cultura política estável.",
+          "nl": "Het helpt laten zien dat democratie niet alleen goede wetsteksten nodig heeft, maar ook een stabiele politieke cultuur.",
+          "pl": "Pomaga to zrozumieć, że demokracja potrzebuje nie tylko dobrych tekstów prawnych, lecz także stabilnej kultury politycznej.",
+          "tr": "Bu, demokrasinin yalnızca iyi hukuk metinlerine değil, istikrarlı bir siyasi kültüre de ihtiyaç duyduğunu gösterir.",
+          "zh": "这有助于说明民主不仅需要好的法律文本，也需要稳定的政治文化。",
+          "ja": "これは、民主主義にはよい法律文だけでなく安定した政治文化も必要であることを示している。",
+          "ko": "이는 민주주의가 좋은 법률 문구뿐 아니라 안정적인 정치 문화도 필요로 함을 보여 준다.",
+          "hi": "यह दिखाता है कि लोकतंत्र को केवल अच्छे कानूनी पाठों की नहीं, बल्कि स्थिर राजनीतिक संस्कृति की भी जरूरत होती है।",
+          "ar": "يساعد ذلك على فهم أن الديمقراطية تحتاج ليس فقط إلى نصوص قانونية جيدة، بل إلى ثقافة سياسية مستقرة أيضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Конституция была подписана президентом Фридрихом Эбертом 11 августа, а вступила в силу 14 августа 1919 года.",
     "de": "Die Verfassung wurde am 11. August von Praesident Friedrich Ebert unterzeichnet und trat am 14. August 1919 in Kraft.",
-    "en": "The constitution was signed by President Friedrich Ebert on 11 August and took effect on 14 August 1919."
+    "en": "The constitution was signed by President Friedrich Ebert on 11 August and took effect on 14 August 1919.",
+    "fr": "La constitution fut signée par le président Friedrich Ebert le 11 août et entra en vigueur le 14 août 1919.",
+    "es": "La constitución fue firmada por el presidente Friedrich Ebert el 11 de agosto y entró en vigor el 14 de agosto de 1919.",
+    "it": "La costituzione fu firmata dal presidente Friedrich Ebert l'11 agosto ed entrò in vigore il 14 agosto 1919.",
+    "pt": "A constituição foi assinada pelo presidente Friedrich Ebert em 11 de agosto e entrou em vigor em 14 de agosto de 1919.",
+    "nl": "De grondwet werd op 11 augustus door president Friedrich Ebert ondertekend en trad op 14 augustus 1919 in werking.",
+    "pl": "Konstytucję podpisał prezydent Friedrich Ebert 11 sierpnia, a weszła w życie 14 sierpnia 1919 roku.",
+    "tr": "Anayasa 11 Ağustos'ta Cumhurbaşkanı Friedrich Ebert tarafından imzalandı ve 14 Ağustos 1919'da yürürlüğe girdi.",
+    "zh": "宪法由总统弗里德里希·艾伯特于8月11日签署，并于1919年8月14日生效。",
+    "ja": "憲法は8月11日にフリードリヒ・エーベルト大統領が署名し、1919年8月14日に施行された。",
+    "ko": "헌법은 8월 11일 프리드리히 에베르트 대통령이 서명했고 1919년 8월 14일 시행되었다.",
+    "hi": "संविधान पर राष्ट्रपति फ्रिडरिख एबर्ट ने 11 अगस्त को हस्ताक्षर किए और यह 14 अगस्त 1919 को लागू हुआ।",
+    "ar": "وقّع الرئيس فريدريش إيبرت الدستور في 11 أغسطس ودخل حيز التنفيذ في 14 أغسطس 1919."
   },
   "sources": [
     {
