@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Берлине открылась трасса AVUS",
       "de": "Die AVUS wird in Berlin eroeffnet",
-      "en": "The AVUS opens in Berlin"
+      "en": "The AVUS opens in Berlin",
+      "fr": "L'AVUS ouvre à Berlin",
+      "es": "Se inaugura la AVUS en Berlin",
+      "it": "L'AVUS apre a Berlino",
+      "pt": "A AVUS e inaugurada em Berlim",
+      "nl": "De AVUS opent in Berlijn",
+      "pl": "AVUS zostaje otwarta w Berlinie",
+      "tr": "AVUS Berlin'de acildi",
+      "zh": "柏林AVUS赛道开放",
+      "ja": "ベルリンでAVUSが開通",
+      "ko": "베를린에서 AVUS가 개통되다",
+      "hi": "बर्लिन में AVUS खुला",
+      "ar": "افتتاح طريق وحلبة افوس في برلين"
     },
     "description": {
       "ru": "24 сентября 1921 года в Берлине открылась AVUS, автомобильная дорога и гоночная трасса. Она стала важным местом для немецкого автоспорта, испытаний машин и городской автомобильной культуры.",
       "de": "Am 24. September 1921 wurde in Berlin die AVUS eroeffnet, eine Automobilstrasse und Rennstrecke. Sie wurde zu einem wichtigen Ort fuer deutschen Motorsport, Fahrzeugtests und staedtische Autokultur.",
-      "en": "On 24 September 1921, the AVUS opened in Berlin as an automobile road and racing circuit. It became an important place for German motorsport, vehicle testing and urban car culture."
+      "en": "On 24 September 1921, the AVUS opened in Berlin as an automobile road and racing circuit. It became an important place for German motorsport, vehicle testing and urban car culture.",
+      "fr": "Le 24 septembre 1921, l'AVUS ouvrit à Berlin comme route automobile et circuit de course. Elle devint un lieu important pour le sport automobile allemand, les essais de vehicules et la culture urbaine de l'automobile.",
+      "es": "El 24 de septiembre de 1921 se inauguro en Berlin la AVUS, una carretera para automoviles y circuito de carreras. Se convirtio en un lugar importante para el automovilismo aleman, las pruebas de vehiculos y la cultura urbana del coche.",
+      "it": "Il 24 settembre 1921 apri a Berlino l'AVUS, strada automobilistica e circuito di gara. Divenne un luogo importante per il motorsport tedesco, i test dei veicoli e la cultura automobilistica urbana.",
+      "pt": "Em 24 de setembro de 1921, a AVUS foi inaugurada em Berlim como estrada automobilistica e circuito de corridas. Tornou-se um lugar importante para o automobilismo alemao, testes de veiculos e cultura urbana do carro.",
+      "nl": "Op 24 september 1921 werd in Berlijn de AVUS geopend, een autoweg en racecircuit. Het werd een belangrijke plek voor Duitse autosport, voertuigtests en stedelijke autocultuur.",
+      "pl": "24 wrzesnia 1921 roku w Berlinie otwarto AVUS, droge samochodowa i tor wyscigowy. Stala sie waznym miejscem niemieckiego sportu motorowego, testow pojazdow i miejskiej kultury samochodowej.",
+      "tr": "24 Eylul 1921'de Berlin'de hem otomobil yolu hem de yaris pisti olan AVUS acildi. Alman motor sporlari, arac testleri ve kentsel otomobil kulturu icin onemli bir yer haline geldi.",
+      "zh": "1921年9月24日，柏林的AVUS作为汽车道路和赛车场开放。它成为德国赛车运动、车辆测试和城市汽车文化的重要地点。",
+      "ja": "1921年9月24日、ベルリンで自動車道路兼レースコースとしてAVUSが開通しました。ドイツのモータースポーツ、車両試験、都市の自動車文化にとって重要な場所になりました。",
+      "ko": "1921년 9월 24일, 베를린에서 자동차 도로이자 경주 트랙인 AVUS가 개통되었다. 이곳은 독일 모터스포츠, 차량 시험, 도시 자동차 문화의 중요한 장소가 되었다.",
+      "hi": "24 सितंबर 1921 को बर्लिन में AVUS एक मोटर सड़क और रेसिंग सर्किट के रूप में खुला। यह जर्मन मोटरस्पोर्ट, वाहन परीक्षण और शहरी कार संस्कृति का महत्वपूर्ण स्थान बन गया।",
+      "ar": "في 24 سبتمبر 1921 افتتحت في برلين افوس، وهي طريق للسيارات وحلبة سباق. واصبحت مكانا مهما لرياضة السيارات الالمانية واختبار المركبات وثقافة السيارات في المدينة."
     },
     "importance": {
       "ru": "AVUS показывает, как в Веймарской Германии автомобиль становился символом техники, скорости и нового городского образа жизни.",
       "de": "Die AVUS zeigt, wie das Automobil in der Weimarer Republik zum Symbol fuer Technik, Tempo und einen neuen staedtischen Lebensstil wurde.",
-      "en": "The AVUS shows how the automobile became a symbol of technology, speed and a new urban lifestyle in Weimar Germany."
+      "en": "The AVUS shows how the automobile became a symbol of technology, speed and a new urban lifestyle in Weimar Germany.",
+      "fr": "L'AVUS montre comment l'automobile devint dans l'Allemagne de Weimar un symbole de technique, de vitesse et d'un nouveau mode de vie urbain.",
+      "es": "La AVUS muestra como el automovil se convirtio en la Alemania de Weimar en simbolo de tecnica, velocidad y un nuevo estilo de vida urbano.",
+      "it": "L'AVUS mostra come nella Germania di Weimar l'automobile divenne simbolo di tecnica, velocita e nuovo stile di vita urbano.",
+      "pt": "A AVUS mostra como o automovel se tornou, na Alemanha de Weimar, simbolo de tecnologia, velocidade e um novo estilo de vida urbano.",
+      "nl": "De AVUS laat zien hoe de auto in Weimar-Duitsland een symbool werd van techniek, snelheid en een nieuwe stedelijke levensstijl.",
+      "pl": "AVUS pokazuje, jak w Niemczech weimarskich samochod stawal sie symbolem techniki, predkosci i nowego miejskiego stylu zycia.",
+      "tr": "AVUS, Weimar Almanyasi'nda otomobilin teknoloji, hiz ve yeni bir kentsel yasam tarzi sembolune nasil donustugunu gosterir.",
+      "zh": "AVUS显示了汽车如何在魏玛德国成为技术、速度和新城市生活方式的象征。",
+      "ja": "AVUSは、ワイマール期ドイツで自動車が技術、速度、新しい都市生活様式の象徴になったことを示しています。",
+      "ko": "AVUS는 바이마르 독일에서 자동차가 기술, 속도, 새로운 도시 생활 방식의 상징이 되었음을 보여준다.",
+      "hi": "AVUS दिखाता है कि वाइमर जर्मनी में कार तकनीक, गति और नए शहरी जीवन-ढंग का प्रतीक कैसे बनी।",
+      "ar": "تظهر افوس كيف اصبحت السيارة في المانيا فايمار رمزا للتقنية والسرعة ونمط حياة مديني جديد."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Дорога для испытаний",
           "de": "Eine Strasse zum Testen",
-          "en": "A road for testing"
+          "en": "A road for testing",
+          "fr": "Une route pour les essais",
+          "es": "Una carretera para pruebas",
+          "it": "Una strada per le prove",
+          "pt": "Uma estrada para testes",
+          "nl": "Een weg om te testen",
+          "pl": "Droga do testow",
+          "tr": "Testler icin bir yol",
+          "zh": "用于测试的道路",
+          "ja": "試験のための道路",
+          "ko": "시험을 위한 도로",
+          "hi": "परीक्षण के लिए सड़क",
+          "ar": "طريق للاختبارات"
         },
         "description": {
           "ru": "Название AVUS расшифровывается как Automobil-Verkehrs- und Uebungsstrasse. То есть это была не только гоночная трасса, но и место для испытания автомобилей и дорожных решений.",
           "de": "AVUS steht fuer Automobil-Verkehrs- und Uebungsstrasse. Sie war also nicht nur Rennstrecke, sondern auch ein Ort fuer Fahrzeugtests und Verkehrserprobung.",
-          "en": "AVUS stands for Automobil-Verkehrs- und Uebungsstrasse, an automobile traffic and training road. It was therefore not only a racetrack, but also a place for testing vehicles and traffic ideas."
+          "en": "AVUS stands for Automobil-Verkehrs- und Uebungsstrasse, an automobile traffic and training road. It was therefore not only a racetrack, but also a place for testing vehicles and traffic ideas.",
+          "fr": "AVUS signifie Automobil-Verkehrs- und Uebungsstrasse, une route pour la circulation automobile et l'entrainement. Ce n'etait donc pas seulement un circuit, mais aussi un lieu d'essai pour les vehicules et les idees de circulation.",
+          "es": "AVUS significa Automobil-Verkehrs- und Uebungsstrasse, una carretera de trafico y practica automovilistica. Por eso no era solo un circuito, sino tambien un lugar para probar vehiculos e ideas de trafico.",
+          "it": "AVUS significa Automobil-Verkehrs- und Uebungsstrasse, strada per il traffico e l'esercitazione automobilistica. Non era quindi solo una pista, ma anche un luogo per testare veicoli e idee di traffico.",
+          "pt": "AVUS significa Automobil-Verkehrs- und Uebungsstrasse, uma estrada de trafego e treino automobilistico. Portanto, nao era apenas um autodromo, mas tambem um lugar para testar veiculos e ideias de transito.",
+          "nl": "AVUS staat voor Automobil-Verkehrs- und Uebungsstrasse, een weg voor autoverkeer en oefening. Het was dus niet alleen een racebaan, maar ook een plek om voertuigen en verkeersideeen te testen.",
+          "pl": "AVUS to skrot od Automobil-Verkehrs- und Uebungsstrasse, czyli drogi samochodowej do ruchu i cwiczen. Nie byl to wiec tylko tor wyscigowy, lecz takze miejsce testowania pojazdow i pomyslow komunikacyjnych.",
+          "tr": "AVUS, Automobil-Verkehrs- und Uebungsstrasse, yani otomobil trafigi ve egitim yolu anlamina gelir. Bu nedenle yalnizca bir yaris pisti degil, araclari ve trafik fikirlerini deneme yeriydi.",
+          "zh": "AVUS是Automobil-Verkehrs- und Uebungsstrasse的缩写，意为汽车交通和训练道路。因此，它不仅是赛车场，也是测试车辆和交通理念的地方。",
+          "ja": "AVUSはAutomobil-Verkehrs- und Uebungsstrasseの略で、自動車交通と訓練のための道路という意味です。そのため単なるレース場ではなく、車両や交通のアイデアを試す場所でもありました。",
+          "ko": "AVUS는 Automobil-Verkehrs- und Uebungsstrasse, 즉 자동차 교통 및 훈련 도로를 뜻한다. 그래서 이곳은 단순한 경주장이 아니라 차량과 교통 아이디어를 시험하는 장소이기도 했다.",
+          "hi": "AVUS का अर्थ Automobil-Verkehrs- und Uebungsstrasse है, यानी मोटर यातायात और अभ्यास की सड़क। इसलिए यह केवल रेस ट्रैक नहीं था, बल्कि वाहनों और यातायात संबंधी विचारों की जांच का स्थान भी था।",
+          "ar": "يرمز اسم افوس الى Automobil-Verkehrs- und Uebungsstrasse، اي طريق لحركة السيارات والتدريب. لذلك لم تكن حلبة سباق فقط، بل ايضا مكانا لاختبار المركبات وافكار المرور."
         },
         "importance": {
           "ru": "Это связывает историю Берлина с развитием немецкой автомобильной техники.",
           "de": "Das verbindet die Geschichte Berlins mit der Entwicklung deutscher Automobiltechnik.",
-          "en": "It links Berlin's history with the development of German automotive technology."
+          "en": "It links Berlin's history with the development of German automotive technology.",
+          "fr": "Cela relie l'histoire de Berlin au developpement de la technique automobile allemande.",
+          "es": "Esto vincula la historia de Berlin con el desarrollo de la tecnologia automovilistica alemana.",
+          "it": "Questo collega la storia di Berlino allo sviluppo della tecnica automobilistica tedesca.",
+          "pt": "Isso liga a historia de Berlim ao desenvolvimento da tecnologia automobilistica alema.",
+          "nl": "Het verbindt de geschiedenis van Berlijn met de ontwikkeling van Duitse autotechniek.",
+          "pl": "Laczy to historie Berlina z rozwojem niemieckiej techniki samochodowej.",
+          "tr": "Bu, Berlin'in tarihini Alman otomotiv teknolojisinin gelisimiyle baglar.",
+          "zh": "这把柏林的历史与德国汽车技术的发展联系起来。",
+          "ja": "これはベルリンの歴史をドイツ自動車技術の発展と結びつけています。",
+          "ko": "이는 베를린의 역사를 독일 자동차 기술의 발전과 연결한다.",
+          "hi": "यह बर्लिन के इतिहास को जर्मन ऑटोमोबाइल तकनीक के विकास से जोड़ता है।",
+          "ar": "يربط ذلك تاريخ برلين بتطور تقنية السيارات الالمانية."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Берлин и автогонки",
           "de": "Berlin und der Motorsport",
-          "en": "Berlin and motor racing"
+          "en": "Berlin and motor racing",
+          "fr": "Berlin et la course automobile",
+          "es": "Berlin y el automovilismo",
+          "it": "Berlino e l'automobilismo",
+          "pt": "Berlim e o automobilismo",
+          "nl": "Berlijn en autosport",
+          "pl": "Berlin i wyscigi samochodowe",
+          "tr": "Berlin ve motor sporlari",
+          "zh": "柏林与赛车",
+          "ja": "ベルリンと自動車レース",
+          "ko": "베를린과 자동차 경주",
+          "hi": "बर्लिन और मोटर रेसिंग",
+          "ar": "برلين وسباقات السيارات"
         },
         "description": {
           "ru": "Открытие AVUS сопровождалось гоночным уикендом. Позднее трасса принимала крупные соревнования и стала одним из узнаваемых символов берлинского автоспорта.",
           "de": "Die Eroeffnung der AVUS wurde von einem Rennwochenende begleitet. Spaeter fanden dort wichtige Wettbewerbe statt, und die Strecke wurde zu einem bekannten Symbol des Berliner Motorsports.",
-          "en": "The opening of the AVUS was accompanied by a racing weekend. Later, the circuit hosted major competitions and became a recognizable symbol of Berlin motorsport."
+          "en": "The opening of the AVUS was accompanied by a racing weekend. Later, the circuit hosted major competitions and became a recognizable symbol of Berlin motorsport.",
+          "fr": "L'ouverture de l'AVUS fut accompagnee d'un week-end de courses. Plus tard, le circuit accueillit de grandes competitions et devint un symbole reconnaissable du sport automobile berlinois.",
+          "es": "La apertura de la AVUS estuvo acompanada por un fin de semana de carreras. Mas tarde, el circuito acogio grandes competiciones y se convirtio en simbolo reconocible del automovilismo berlines.",
+          "it": "L'apertura dell'AVUS fu accompagnata da un fine settimana di gare. In seguito il circuito ospito competizioni importanti e divenne un simbolo riconoscibile del motorsport berlinese.",
+          "pt": "A abertura da AVUS foi acompanhada por um fim de semana de corridas. Mais tarde, o circuito recebeu grandes competicoes e tornou-se um simbolo reconhecivel do automobilismo berlinense.",
+          "nl": "De opening van de AVUS ging gepaard met een raceweekend. Later vonden er grote wedstrijden plaats en werd het circuit een herkenbaar symbool van Berlijnse autosport.",
+          "pl": "Otwarciu AVUS towarzyszyl weekend wyscigowy. Pozniej tor goscil duze zawody i stal sie rozpoznawalnym symbolem berlinskiego sportu motorowego.",
+          "tr": "AVUS'un acilisi bir yaris hafta sonuyla birlikte yapildi. Daha sonra pist buyuk yarismalara ev sahipligi yapti ve Berlin motor sporlarinin taninan sembollerinden biri oldu.",
+          "zh": "AVUS的开放伴随着一个赛车周末。后来，这条赛道举办了大型比赛，并成为柏林赛车运动的醒目标志。",
+          "ja": "AVUSの開通にはレース週末が伴いました。その後、このコースは大きな大会を開催し、ベルリンのモータースポーツを象徴する場所になりました。",
+          "ko": "AVUS 개통은 경주 주말 행사와 함께 이루어졌다. 이후 이 트랙은 주요 대회를 개최했고 베를린 모터스포츠의 눈에 띄는 상징이 되었다.",
+          "hi": "AVUS के उद्घाटन के साथ रेसिंग सप्ताहांत भी हुआ। बाद में इस ट्रैक ने बड़े मुकाबलों की मेजबानी की और बर्लिन मोटरस्पोर्ट का पहचाना जाने वाला प्रतीक बन गया।",
+          "ar": "رافق افتتاح افوس عطلة نهاية اسبوع للسباقات. ولاحقا استضافت الحلبة مسابقات كبيرة واصبحت رمزا معروفا لرياضة السيارات في برلين."
         },
         "importance": {
           "ru": "Так в календаре появляется не только политика, но и спорт, техника и городская жизнь.",
           "de": "So zeigt der Kalender nicht nur Politik, sondern auch Sport, Technik und Stadtleben.",
-          "en": "This brings not only politics into the calendar, but also sport, technology and city life."
+          "en": "This brings not only politics into the calendar, but also sport, technology and city life.",
+          "fr": "Ainsi, le calendrier montre non seulement la politique, mais aussi le sport, la technique et la vie urbaine.",
+          "es": "Asi el calendario incluye no solo politica, sino tambien deporte, tecnologia y vida urbana.",
+          "it": "Cosi il calendario mostra non solo politica, ma anche sport, tecnica e vita urbana.",
+          "pt": "Assim, o calendario traz nao apenas politica, mas tambem esporte, tecnologia e vida urbana.",
+          "nl": "Zo brengt de kalender niet alleen politiek, maar ook sport, techniek en stadsleven.",
+          "pl": "Dzieki temu w kalendarzu pojawia sie nie tylko polityka, lecz takze sport, technika i zycie miejskie.",
+          "tr": "Boylece takvime yalnizca siyaset degil, spor, teknoloji ve kent yasami da girer.",
+          "zh": "这样，日历中出现的不只是政治，还有体育、技术和城市生活。",
+          "ja": "こうしてカレンダーには政治だけでなく、スポーツ、技術、都市生活も入ってきます。",
+          "ko": "이렇게 달력에는 정치뿐 아니라 스포츠, 기술, 도시 생활도 들어온다.",
+          "hi": "इस तरह कैलेंडर में केवल राजनीति नहीं, बल्कि खेल, तकनीक और शहरी जीवन भी आता है।",
+          "ar": "وهكذا لا يدخل التقويم السياسة فقط، بل الرياضة والتقنية وحياة المدينة ايضا."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "И дорога, и трасса",
           "de": "Strasse und Rennstrecke zugleich",
-          "en": "Both road and racetrack"
+          "en": "Both road and racetrack",
+          "fr": "Route et circuit à la fois",
+          "es": "Carretera y circuito a la vez",
+          "it": "Strada e pista allo stesso tempo",
+          "pt": "Estrada e pista ao mesmo tempo",
+          "nl": "Weg en racebaan tegelijk",
+          "pl": "Droga i tor jednoczesnie",
+          "tr": "Hem yol hem yaris pisti",
+          "zh": "既是道路也是赛道",
+          "ja": "道路でありレースコースでもある",
+          "ko": "도로이자 경주장",
+          "hi": "सड़क भी और रेस ट्रैक भी",
+          "ar": "طريق وحلبة سباق في الوقت نفسه"
         },
         "description": {
           "ru": "AVUS необычна тем, что была одновременно частью дорожной инфраструктуры и гоночным объектом. Эта двойная роль делает её особенной в истории Берлина.",
           "de": "Die AVUS ist ungewoehnlich, weil sie zugleich Teil der Verkehrsinfrastruktur und Rennstrecke war. Diese Doppelrolle macht sie in der Berliner Geschichte besonders.",
-          "en": "The AVUS is unusual because it was both part of road infrastructure and a racing venue. This double role makes it special in Berlin's history."
+          "en": "The AVUS is unusual because it was both part of road infrastructure and a racing venue. This double role makes it special in Berlin's history.",
+          "fr": "L'AVUS est inhabituelle parce qu'elle fut à la fois partie de l'infrastructure routiere et lieu de courses. Ce double role la rend particuliere dans l'histoire de Berlin.",
+          "es": "La AVUS es inusual porque fue a la vez parte de la infraestructura vial y escenario de carreras. Ese doble papel la hace especial en la historia de Berlin.",
+          "it": "L'AVUS e insolita perche fu insieme parte dell'infrastruttura stradale e sede di gare. Questo doppio ruolo la rende speciale nella storia di Berlino.",
+          "pt": "A AVUS e incomum porque foi ao mesmo tempo parte da infraestrutura viaria e local de corridas. Esse duplo papel a torna especial na historia de Berlim.",
+          "nl": "De AVUS is ongewoon omdat hij tegelijk deel van de verkeersinfrastructuur en racebaan was. Die dubbele rol maakt hem bijzonder in de geschiedenis van Berlijn.",
+          "pl": "AVUS jest niezwykla, bo byla jednoczesnie czescia infrastruktury drogowej i obiektem wyscigowym. Ta podwojna rola czyni ja szczegolna w historii Berlina.",
+          "tr": "AVUS olagandisidir cunku hem yol altyapisinin bir parcasi hem de yaris alaniydi. Bu ikili rol onu Berlin tarihinde ozel kilar.",
+          "zh": "AVUS很特别，因为它既是道路基础设施的一部分，也是赛车场地。这种双重角色使它在柏林历史中独具意义。",
+          "ja": "AVUSが珍しいのは、道路インフラの一部であると同時にレース会場でもあったからです。この二重の役割が、ベルリン史の中で特別な存在にしています。",
+          "ko": "AVUS는 도로 기반 시설의 일부이면서 동시에 경주장이었다는 점에서 독특하다. 이 이중 역할은 베를린 역사에서 특별한 의미를 갖게 한다.",
+          "hi": "AVUS अनोखा है क्योंकि यह सड़क ढांचे का हिस्सा भी था और रेसिंग स्थल भी। यह दोहरी भूमिका इसे बर्लिन के इतिहास में खास बनाती है।",
+          "ar": "افوس غير عادية لانها كانت في الوقت نفسه جزءا من بنية الطرق ومكانا للسباقات. وهذا الدور المزدوج يجعلها خاصة في تاريخ برلين."
         },
         "importance": {
           "ru": "Интересно, когда обычная городская дорога имеет биографию спортивной легенды.",
           "de": "Interessant ist, wenn eine staedtische Strasse die Biografie einer Sportlegende hat.",
-          "en": "It is interesting when an ordinary urban road has the biography of a sporting legend."
+          "en": "It is interesting when an ordinary urban road has the biography of a sporting legend.",
+          "fr": "Il est interessant qu'une simple route urbaine ait la biographie d'une legende sportive.",
+          "es": "Es interesante cuando una carretera urbana comun tiene la biografia de una leyenda deportiva.",
+          "it": "E interessante quando una normale strada urbana ha la biografia di una leggenda sportiva.",
+          "pt": "E interessante quando uma estrada urbana comum tem a biografia de uma lenda esportiva.",
+          "nl": "Het is interessant wanneer een gewone stadsweg de biografie van een sportlegende heeft.",
+          "pl": "To ciekawe, gdy zwykla miejska droga ma biografie sportowej legendy.",
+          "tr": "Siradan bir kent yolunun bir spor efsanesinin biyografisine sahip olmasi ilginctir.",
+          "zh": "一条普通城市道路拥有体育传奇般的经历，这很有趣。",
+          "ja": "普通の都市道路がスポーツ伝説のような経歴を持っているのは興味深いことです。",
+          "ko": "평범한 도시 도로가 스포츠 전설의 이력을 가진다는 점은 흥미롭다.",
+          "hi": "यह रोचक है जब कोई साधारण शहरी सड़क खेल-किंवदंती जैसी जीवनी रखती है।",
+          "ar": "من المثير ان يكون لطريق مديني عادي سيرة تشبه اسطورة رياضية."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "AVUS проходила через район Груневальд и долго оставалась заметной частью транспортной карты Западного Берлина.",
     "de": "Die AVUS verlief durch den Grunewald und blieb lange ein auffaelliger Teil der Verkehrskarte West-Berlins.",
-    "en": "The AVUS ran through Grunewald and long remained a striking part of West Berlin's transport map."
+    "en": "The AVUS ran through Grunewald and long remained a striking part of West Berlin's transport map.",
+    "fr": "L'AVUS traversait le Grunewald et resta longtemps une partie visible de la carte des transports de Berlin-Ouest.",
+    "es": "La AVUS pasaba por Grunewald y durante mucho tiempo siguio siendo una parte destacada del mapa de transporte de Berlin Occidental.",
+    "it": "L'AVUS attraversava il Grunewald e rimase a lungo una parte evidente della mappa dei trasporti di Berlino Ovest.",
+    "pt": "A AVUS passava por Grunewald e por muito tempo permaneceu uma parte marcante do mapa de transporte de Berlim Ocidental.",
+    "nl": "De AVUS liep door Grunewald en bleef lange tijd een opvallend deel van de vervoerskaart van West-Berlijn.",
+    "pl": "AVUS przebiegala przez Grunewald i dlugo pozostawala wyrazna czescia mapy transportowej Berlina Zachodniego.",
+    "tr": "AVUS Grunewald'dan geciyordu ve uzun sure Bati Berlin'in ulasim haritasinin dikkat cekici bir parcasi olarak kaldi.",
+    "zh": "AVUS穿过格吕内瓦尔德，并长期是西柏林交通地图上的醒目部分。",
+    "ja": "AVUSはグリューネヴァルトを通り、長い間西ベルリンの交通地図で目立つ存在でした。",
+    "ko": "AVUS는 그루네발트를 지나갔고 오랫동안 서베를린 교통 지도에서 눈에 띄는 부분으로 남아 있었다.",
+    "hi": "AVUS ग्रुनेवाल्ड से होकर गुजरता था और लंबे समय तक पश्चिम बर्लिन के परिवहन नक्शे का प्रमुख हिस्सा बना रहा।",
+    "ar": "كانت افوس تمر عبر غرونيفالد وظلت طويلا جزءا بارزا من خريطة النقل في برلين الغربية."
   },
   "sources": [
     {

@@ -11,17 +11,53 @@
     "title": {
       "ru": "Коль и Миттеран взялись за руки в Вердене",
       "de": "Kohl und Mitterrand reichen sich in Verdun die Haende",
-      "en": "Kohl and Mitterrand hold hands at Verdun"
+      "en": "Kohl and Mitterrand hold hands at Verdun",
+      "fr": "Kohl et Mitterrand se tiennent la main à Verdun",
+      "es": "Kohl y Mitterrand se toman de la mano en Verdun",
+      "it": "Kohl e Mitterrand si tengono per mano a Verdun",
+      "pt": "Kohl e Mitterrand dao as maos em Verdun",
+      "nl": "Kohl en Mitterrand houden elkaars hand vast in Verdun",
+      "pl": "Kohl i Mitterrand trzymaja sie za rece w Verdun",
+      "tr": "Kohl ve Mitterrand Verdun'de el ele durdu",
+      "zh": "科尔与密特朗在凡尔登牵手",
+      "ja": "コールとミッテランがヴェルダンで手をつなぐ",
+      "ko": "콜과 미테랑이 베르됭에서 손을 잡다",
+      "hi": "कोल और मितरां ने वर्दन में हाथ थामे",
+      "ar": "كول وميتيران يمسكان بالايدي في فردان"
     },
     "description": {
       "ru": "22 сентября 1984 года канцлер ФРГ Гельмут Коль и президент Франции Франсуа Миттеран вместе почтили память погибших у Вердена. Их жест, когда они взялись за руки, стал символом франко-германского примирения.",
       "de": "Am 22. September 1984 gedachten Bundeskanzler Helmut Kohl und Frankreichs Praesident Francois Mitterrand gemeinsam der Toten von Verdun. Ihr Haendedruck wurde zum Symbol der deutsch-franzoesischen Versoehnung.",
-      "en": "On 22 September 1984, West German Chancellor Helmut Kohl and French President Francois Mitterrand jointly honored the dead at Verdun. Their hand-holding became a symbol of Franco-German reconciliation."
+      "en": "On 22 September 1984, West German Chancellor Helmut Kohl and French President Francois Mitterrand jointly honored the dead at Verdun. Their hand-holding became a symbol of Franco-German reconciliation.",
+      "fr": "Le 22 septembre 1984, le chancelier ouest-allemand Helmut Kohl et le president francais Francois Mitterrand rendirent ensemble hommage aux morts de Verdun. Leur geste, lorsqu'ils se tinrent la main, devint un symbole de la reconciliation franco-allemande.",
+      "es": "El 22 de septiembre de 1984, el canciller de Alemania Occidental Helmut Kohl y el presidente frances Francois Mitterrand rindieron juntos homenaje a los muertos de Verdun. El gesto de tomarse de la mano se convirtio en simbolo de la reconciliacion franco-alemana.",
+      "it": "Il 22 settembre 1984 il cancelliere della Germania Ovest Helmut Kohl e il presidente francese Francois Mitterrand resero insieme omaggio ai caduti di Verdun. Il loro gesto, quando si tennero per mano, divenne un simbolo della riconciliazione franco-tedesca.",
+      "pt": "Em 22 de setembro de 1984, o chanceler da Alemanha Ocidental Helmut Kohl e o presidente frances Francois Mitterrand homenagearam juntos os mortos de Verdun. O gesto de darem as maos tornou-se simbolo da reconciliacao franco-alema.",
+      "nl": "Op 22 september 1984 herdachten West-Duits bondskanselier Helmut Kohl en de Franse president Francois Mitterrand samen de doden van Verdun. Hun hand-in-hand staan werd een symbool van Frans-Duitse verzoening.",
+      "pl": "22 wrzesnia 1984 roku kanclerz RFN Helmut Kohl i prezydent Francji Francois Mitterrand wspolnie uczcili poleglych pod Verdun. Ich gest, gdy trzymali sie za rece, stal sie symbolem pojednania francusko-niemieckiego.",
+      "tr": "22 Eylul 1984'te Bati Almanya Sansolyesi Helmut Kohl ile Fransa Cumhurbaskani Francois Mitterrand, Verdun'de olenleri birlikte andi. El ele durmalari, Fransiz-Alman uzlasmasinin sembolu oldu.",
+      "zh": "1984年9月22日，西德总理赫尔穆特·科尔和法国总统弗朗索瓦·密特朗共同悼念凡尔登的死者。他们牵手的姿态成为法德和解的象征。",
+      "ja": "1984年9月22日、西ドイツ首相ヘルムート・コールとフランス大統領フランソワ・ミッテランは、ヴェルダンの戦没者を共に追悼しました。二人が手をつないだ姿は、仏独和解の象徴となりました。",
+      "ko": "1984년 9월 22일, 서독 총리 헬무트 콜과 프랑스 대통령 프랑수아 미테랑은 베르됭의 전사자들을 함께 추모했다. 두 사람이 손을 잡은 모습은 프랑스-독일 화해의 상징이 되었다.",
+      "hi": "22 सितंबर 1984 को पश्चिम जर्मन चांसलर हेल्मुट कोल और फ्रांसीसी राष्ट्रपति फ्रांस्वा मितरां ने वर्दन में मारे गए लोगों को साथ मिलकर श्रद्धांजलि दी। उनका हाथ थामने का क्षण फ्रांसीसी-जर्मन मेल-मिलाप का प्रतीक बन गया।",
+      "ar": "في 22 سبتمبر 1984 كرم مستشار المانيا الغربية هلموت كول والرئيس الفرنسي فرانسوا ميتيران معا قتلى فردان. واصبح وقوفهما ممسكين بالايدي رمزا للمصالحة الفرنسية الالمانية."
     },
     "importance": {
       "ru": "Сцена показала, как бывшие враги смогли превратить место страшной битвы в знак европейского сотрудничества.",
       "de": "Die Szene zeigte, wie fruehere Feinde einen Ort einer furchtbaren Schlacht in ein Zeichen europaeischer Zusammenarbeit verwandeln konnten.",
-      "en": "The scene showed how former enemies could turn the site of a terrible battle into a sign of European cooperation."
+      "en": "The scene showed how former enemies could turn the site of a terrible battle into a sign of European cooperation.",
+      "fr": "La scene montra comment d'anciens ennemis pouvaient transformer le lieu d'une bataille terrible en signe de cooperation europeenne.",
+      "es": "La escena mostro como antiguos enemigos podian convertir el lugar de una batalla terrible en signo de cooperacion europea.",
+      "it": "La scena mostro come ex nemici potessero trasformare il luogo di una battaglia terribile in un segno di cooperazione europea.",
+      "pt": "A cena mostrou como antigos inimigos podiam transformar o local de uma batalha terrivel em sinal de cooperacao europeia.",
+      "nl": "De scene liet zien hoe vroegere vijanden de plek van een vreselijke veldslag konden veranderen in een teken van Europese samenwerking.",
+      "pl": "Ta scena pokazala, jak dawni wrogowie mogli zmienic miejsce straszliwej bitwy w znak europejskiej wspolpracy.",
+      "tr": "Bu sahne, eski dusmanlarin korkunc bir savasin yerini Avrupa isbirliginin isaretine nasil donusturebildigini gosterdi.",
+      "zh": "这一幕表明，昔日敌人能够把惨烈战场转变为欧洲合作的象征。",
+      "ja": "この場面は、かつての敵同士が悲惨な戦場を欧州協力のしるしに変えられることを示しました。",
+      "ko": "이 장면은 과거의 적들이 끔찍한 전투의 장소를 유럽 협력의 상징으로 바꿀 수 있음을 보여주었다.",
+      "hi": "इस दृश्य ने दिखाया कि पूर्व शत्रु एक भयानक युद्धस्थल को यूरोपीय सहयोग के संकेत में बदल सकते हैं।",
+      "ar": "اظهر هذا المشهد كيف استطاع اعداء سابقون تحويل موقع معركة رهيبة الى علامة على التعاون الاوروبي."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Примирение после двух войн",
           "de": "Versoehnung nach zwei Kriegen",
-          "en": "Reconciliation after two wars"
+          "en": "Reconciliation after two wars",
+          "fr": "Reconciliation apres deux guerres",
+          "es": "Reconciliacion tras dos guerras",
+          "it": "Riconciliazione dopo due guerre",
+          "pt": "Reconciliacao depois de duas guerras",
+          "nl": "Verzoening na twee oorlogen",
+          "pl": "Pojednanie po dwoch wojnach",
+          "tr": "Iki savastan sonra uzlasma",
+          "zh": "两场战争后的和解",
+          "ja": "二つの戦争後の和解",
+          "ko": "두 전쟁 이후의 화해",
+          "hi": "दो युद्धों के बाद मेल-मिलाप",
+          "ar": "مصالحة بعد حربين"
         },
         "description": {
           "ru": "Верден был одним из самых кровавых мест Первой мировой войны, а во Второй мировой Германия и Франция снова оказались врагами. Поэтому совместная церемония имела огромный символический вес.",
           "de": "Verdun war einer der blutigsten Orte des Ersten Weltkriegs, und im Zweiten Weltkrieg standen Deutschland und Frankreich erneut gegeneinander. Darum hatte die gemeinsame Zeremonie enormes symbolisches Gewicht.",
-          "en": "Verdun was one of the bloodiest sites of the First World War, and Germany and France were enemies again in the Second. The joint ceremony therefore carried enormous symbolic weight."
+          "en": "Verdun was one of the bloodiest sites of the First World War, and Germany and France were enemies again in the Second. The joint ceremony therefore carried enormous symbolic weight.",
+          "fr": "Verdun fut l'un des lieux les plus sanglants de la Premiere Guerre mondiale, et pendant la Seconde Guerre mondiale l'Allemagne et la France furent de nouveau ennemies. La ceremonie commune avait donc un poids symbolique immense.",
+          "es": "Verdun fue uno de los lugares mas sangrientos de la Primera Guerra Mundial, y en la Segunda Alemania y Francia volvieron a ser enemigas. Por eso la ceremonia conjunta tuvo un enorme peso simbolico.",
+          "it": "Verdun fu uno dei luoghi piu sanguinosi della Prima guerra mondiale, e nella Seconda Germania e Francia tornarono nemiche. Per questo la cerimonia comune ebbe un enorme peso simbolico.",
+          "pt": "Verdun foi um dos locais mais sangrentos da Primeira Guerra Mundial, e na Segunda Guerra Alemanha e Franca voltaram a ser inimigas. Por isso, a cerimonia conjunta teve enorme peso simbolico.",
+          "nl": "Verdun was een van de bloedigste plaatsen van de Eerste Wereldoorlog, en in de Tweede Wereldoorlog stonden Duitsland en Frankrijk opnieuw tegenover elkaar. Daarom had de gezamenlijke ceremonie enorm symbolisch gewicht.",
+          "pl": "Verdun bylo jednym z najkrwawszych miejsc I wojny swiatowej, a podczas II wojny Niemcy i Francja znowu staly sie wrogami. Dlatego wspolna ceremonia miala ogromne znaczenie symboliczne.",
+          "tr": "Verdun, Birinci Dunya Savasi'nin en kanli yerlerinden biriydi; Ikinci Dunya Savasi'nda Almanya ve Fransa yeniden dusman oldu. Bu yuzden ortak toren cok buyuk sembolik agirlik tasidi.",
+          "zh": "凡尔登是第一次世界大战最血腥的战场之一，而在第二次世界大战中德国和法国再次成为敌人。因此，这场共同纪念仪式具有巨大的象征意义。",
+          "ja": "ヴェルダンは第一次世界大戦で最も血なまぐさい場所の一つであり、第二次世界大戦ではドイツとフランスは再び敵同士になりました。そのため共同式典には非常に大きな象徴的意味がありました。",
+          "ko": "베르됭은 제1차 세계대전의 가장 피비린내 나는 장소 중 하나였고, 제2차 세계대전에서 독일과 프랑스는 다시 적이 되었다. 그래서 공동 추모식은 엄청난 상징적 무게를 지녔다.",
+          "hi": "वर्दन प्रथम विश्व युद्ध के सबसे रक्तरंजित स्थलों में से एक था, और द्वितीय विश्व युद्ध में जर्मनी और फ्रांस फिर शत्रु बन गए। इसलिए संयुक्त समारोह का प्रतीकात्मक महत्व बहुत बड़ा था।",
+          "ar": "كانت فردان من اكثر مواقع الحرب العالمية الاولى دموية، وفي الحرب العالمية الثانية وقفت المانيا وفرنسا من جديد كعدوين. لذلك حملت المراسم المشتركة وزنا رمزيا كبيرا."
         },
         "importance": {
           "ru": "Дата помогает понять, почему европейское единство строилось не только договорами, но и жестами памяти.",
           "de": "Das Datum hilft zu verstehen, warum europaeische Einheit nicht nur durch Vertraege, sondern auch durch Gesten der Erinnerung entstand.",
-          "en": "The date helps explain why European unity was built not only through treaties, but also through gestures of memory."
+          "en": "The date helps explain why European unity was built not only through treaties, but also through gestures of memory.",
+          "fr": "Cette date aide à comprendre pourquoi l'unite europeenne s'est construite non seulement par des traites, mais aussi par des gestes de memoire.",
+          "es": "La fecha ayuda a entender por que la unidad europea se construyo no solo con tratados, sino tambien con gestos de memoria.",
+          "it": "La data aiuta a capire perche l'unita europea fu costruita non solo con trattati, ma anche con gesti di memoria.",
+          "pt": "A data ajuda a entender por que a unidade europeia foi construida nao so por tratados, mas tambem por gestos de memoria.",
+          "nl": "De datum helpt verklaren waarom Europese eenheid niet alleen door verdragen, maar ook door gebaren van herinnering ontstond.",
+          "pl": "Ta data pomaga zrozumiec, dlaczego europejska jednosc budowano nie tylko przez traktaty, ale tez przez gesty pamieci.",
+          "tr": "Bu tarih, Avrupa birliginin yalnizca antlasmalarla degil, hafiza jestleriyle de kuruldugunu anlamaya yardim eder.",
+          "zh": "这一日期有助于理解，欧洲统一不仅由条约建立，也由记忆的姿态建立。",
+          "ja": "この日は、欧州の統合が条約だけでなく記憶のための行為によっても築かれたことを理解する助けになります。",
+          "ko": "이 날짜는 유럽 통합이 조약뿐 아니라 기억의 행위로도 만들어졌음을 이해하게 해 준다.",
+          "hi": "यह तारीख समझने में मदद करती है कि यूरोपीय एकता केवल संधियों से नहीं, स्मृति के संकेतों से भी बनी।",
+          "ar": "يساعد هذا التاريخ على فهم ان الوحدة الاوروبية لم تبن بالمعاهدات فقط، بل ايضا بايماءات الذاكرة."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Одна минута стала образом эпохи",
           "de": "Eine Minute wurde zum Bild einer Epoche",
-          "en": "One minute became an image of an era"
+          "en": "One minute became an image of an era",
+          "fr": "Une minute devint l'image d'une epoque",
+          "es": "Un minuto se convirtio en imagen de una epoca",
+          "it": "Un minuto divenne l'immagine di un'epoca",
+          "pt": "Um minuto tornou-se imagem de uma epoca",
+          "nl": "Een minuut werd het beeld van een tijdperk",
+          "pl": "Jedna minuta stala sie obrazem epoki",
+          "tr": "Bir dakika bir donemin imgesi oldu",
+          "zh": "一分钟成为时代的画面",
+          "ja": "一分間が時代の象徴になった",
+          "ko": "1분이 한 시대의 이미지가 되다",
+          "hi": "एक मिनट युग की छवि बन गया",
+          "ar": "دقيقة واحدة اصبحت صورة لعصر"
         },
         "description": {
           "ru": "Фотография двух лидеров у мемориала стала намного известнее большинства официальных речей того дня. Иногда политический жест запоминается сильнее любого документа.",
           "de": "Das Foto der beiden Staatsmaenner am Denkmal wurde viel bekannter als die meisten offiziellen Reden dieses Tages. Manchmal bleibt eine politische Geste staerker im Gedaechtnis als jedes Dokument.",
-          "en": "The photograph of the two leaders at the memorial became far better known than most official speeches that day. Sometimes a political gesture is remembered more strongly than any document."
+          "en": "The photograph of the two leaders at the memorial became far better known than most official speeches that day. Sometimes a political gesture is remembered more strongly than any document.",
+          "fr": "La photographie des deux dirigeants au memorial devint beaucoup plus connue que la plupart des discours officiels de ce jour-là. Parfois, un geste politique reste davantage en memoire que n'importe quel document.",
+          "es": "La fotografia de los dos lideres en el memorial se hizo mucho mas conocida que la mayoria de los discursos oficiales de aquel dia. A veces un gesto politico se recuerda mas que cualquier documento.",
+          "it": "La fotografia dei due leader al memoriale divenne molto piu famosa della maggior parte dei discorsi ufficiali di quel giorno. A volte un gesto politico resta nella memoria piu di qualsiasi documento.",
+          "pt": "A fotografia dos dois lideres no memorial tornou-se muito mais conhecida do que a maioria dos discursos oficiais daquele dia. As vezes, um gesto politico e lembrado mais fortemente do que qualquer documento.",
+          "nl": "De foto van de twee leiders bij het monument werd veel bekender dan de meeste officiele toespraken van die dag. Soms blijft een politiek gebaar sterker in het geheugen dan welk document ook.",
+          "pl": "Zdjecie dwoch przywodcow przy memoriale stalo sie o wiele bardziej znane niz wiekszosc oficjalnych przemowien tego dnia. Czasem gest polityczny zapada w pamiec mocniej niz jakikolwiek dokument.",
+          "tr": "Iki liderin anittaki fotografi, o gun yapilan resmi konusmalarin cogundan cok daha fazla tanindi. Bazen siyasi bir jest, herhangi bir belgeden daha guclu hatirlanir.",
+          "zh": "两位领导人在纪念碑前的照片，比当天多数正式讲话更为人所知。有时，一个政治姿态比任何文件都更令人难忘。",
+          "ja": "記念碑前の二人の指導者の写真は、その日の多くの公式演説よりもはるかに有名になりました。政治的な身ぶりは、どんな文書よりも強く記憶されることがあります。",
+          "ko": "기념비 앞의 두 지도자 사진은 그날의 대부분 공식 연설보다 훨씬 더 유명해졌다. 때로는 정치적 몸짓이 어떤 문서보다 강하게 기억된다.",
+          "hi": "स्मारक पर दोनों नेताओं की तस्वीर उस दिन के अधिकतर आधिकारिक भाषणों से कहीं अधिक प्रसिद्ध हो गई। कभी-कभी राजनीतिक संकेत किसी दस्तावेज से भी अधिक याद रह जाता है।",
+          "ar": "اصبحت صورة الزعيمين عند النصب اشهر بكثير من معظم الخطب الرسمية في ذلك اليوم. احيانا تبقى الايماءة السياسية في الذاكرة اقوى من اي وثيقة."
         },
         "importance": {
           "ru": "Это хороший пример того, как историческая память работает через образы.",
           "de": "Das ist ein gutes Beispiel dafuer, wie historische Erinnerung durch Bilder wirkt.",
-          "en": "It is a good example of how historical memory works through images."
+          "en": "It is a good example of how historical memory works through images.",
+          "fr": "C'est un bon exemple de la facon dont la memoire historique agit par les images.",
+          "es": "Es un buen ejemplo de como la memoria historica actua a traves de imagenes.",
+          "it": "E un buon esempio di come la memoria storica agisca attraverso le immagini.",
+          "pt": "E um bom exemplo de como a memoria historica funciona por meio de imagens.",
+          "nl": "Het is een goed voorbeeld van hoe historische herinnering via beelden werkt.",
+          "pl": "To dobry przyklad tego, jak pamiec historyczna dziala przez obrazy.",
+          "tr": "Bu, tarihsel hafizanin imgeler araciligiyla nasil isledigine iyi bir ornektir.",
+          "zh": "这是历史记忆如何通过图像发挥作用的好例子。",
+          "ja": "歴史の記憶がイメージを通して働く好例です。",
+          "ko": "역사적 기억이 이미지로 작동하는 방식을 보여주는 좋은 예다.",
+          "hi": "यह इस बात का अच्छा उदाहरण है कि ऐतिहासिक स्मृति छवियों के माध्यम से कैसे काम करती है।",
+          "ar": "انه مثال جيد على كيفية عمل الذاكرة التاريخية عبر الصور."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Верден находится во Франции, но для немецкой памяти о Первой мировой войне это место тоже имеет особое значение.",
     "de": "Verdun liegt in Frankreich, hat aber auch fuer die deutsche Erinnerung an den Ersten Weltkrieg besondere Bedeutung.",
-    "en": "Verdun is in France, but it also has special meaning for German memory of the First World War."
+    "en": "Verdun is in France, but it also has special meaning for German memory of the First World War.",
+    "fr": "Verdun se trouve en France, mais ce lieu a aussi une importance particuliere dans la memoire allemande de la Premiere Guerre mondiale.",
+    "es": "Verdun esta en Francia, pero tambien tiene un significado especial para la memoria alemana de la Primera Guerra Mundial.",
+    "it": "Verdun si trova in Francia, ma ha un significato speciale anche per la memoria tedesca della Prima guerra mondiale.",
+    "pt": "Verdun fica na Franca, mas tambem tem significado especial para a memoria alema da Primeira Guerra Mundial.",
+    "nl": "Verdun ligt in Frankrijk, maar heeft ook een bijzondere betekenis voor de Duitse herinnering aan de Eerste Wereldoorlog.",
+    "pl": "Verdun lezy we Francji, ale ma tez szczegolne znaczenie dla niemieckiej pamieci o I wojnie swiatowej.",
+    "tr": "Verdun Fransa'dadir, ancak Almanya'nin Birinci Dunya Savasi hafizasi icin de ozel bir anlam tasir.",
+    "zh": "凡尔登位于法国，但它对德国关于第一次世界大战的记忆也有特殊意义。",
+    "ja": "ヴェルダンはフランスにありますが、第一次世界大戦に関するドイツの記憶にとっても特別な意味を持っています。",
+    "ko": "베르됭은 프랑스에 있지만, 독일의 제1차 세계대전 기억에서도 특별한 의미를 지닌다.",
+    "hi": "वर्दन फ्रांस में है, लेकिन प्रथम विश्व युद्ध की जर्मन स्मृति में भी इसका विशेष महत्व है।",
+    "ar": "تقع فردان في فرنسا، لكنها تحمل ايضا معنى خاصا في الذاكرة الالمانية للحرب العالمية الاولى."
   },
   "sources": [
     {

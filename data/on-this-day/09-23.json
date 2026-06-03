@@ -11,17 +11,53 @@
     "title": {
       "ru": "Бисмарк стал министром-президентом Пруссии",
       "de": "Bismarck wird preussischer Ministerpraesident",
-      "en": "Bismarck becomes Prussian minister-president"
+      "en": "Bismarck becomes Prussian minister-president",
+      "fr": "Bismarck devient ministre-president de Prusse",
+      "es": "Bismarck se convierte en ministro-presidente de Prusia",
+      "it": "Bismarck diventa ministro-presidente prussiano",
+      "pt": "Bismarck torna-se ministro-presidente da Prussia",
+      "nl": "Bismarck wordt Pruisisch minister-president",
+      "pl": "Bismarck zostaje premierem Prus",
+      "tr": "Bismarck Prusya basbakani oldu",
+      "zh": "俾斯麦成为普鲁士首相",
+      "ja": "ビスマルクがプロイセン首相になる",
+      "ko": "비스마르크가 프로이센 총리가 되다",
+      "hi": "बिस्मार्क प्रशा के मंत्री-राष्ट्रपति बने",
+      "ar": "بيسمارك يصبح رئيس وزراء بروسيا"
     },
     "description": {
       "ru": "23 сентября 1862 года Отто фон Бисмарк занял пост министра-президента Пруссии. Он пришёл к власти во время конфликта короля и парламента из-за военной реформы.",
       "de": "Am 23. September 1862 wurde Otto von Bismarck preussischer Ministerpraesident. Er kam waehrend des Konflikts zwischen Koenig und Parlament um die Heeresreform an die Macht.",
-      "en": "On 23 September 1862, Otto von Bismarck became minister-president of Prussia. He came to power during a conflict between the king and parliament over military reform."
+      "en": "On 23 September 1862, Otto von Bismarck became minister-president of Prussia. He came to power during a conflict between the king and parliament over military reform.",
+      "fr": "Le 23 septembre 1862, Otto von Bismarck devint ministre-president de Prusse. Il arriva au pouvoir pendant un conflit entre le roi et le parlement au sujet de la reforme militaire.",
+      "es": "El 23 de septiembre de 1862, Otto von Bismarck se convirtio en ministro-presidente de Prusia. Llego al poder durante un conflicto entre el rey y el parlamento por la reforma militar.",
+      "it": "Il 23 settembre 1862 Otto von Bismarck divenne ministro-presidente della Prussia. Arrivo al potere durante un conflitto tra il re e il parlamento sulla riforma militare.",
+      "pt": "Em 23 de setembro de 1862, Otto von Bismarck tornou-se ministro-presidente da Prussia. Ele chegou ao poder durante um conflito entre o rei e o parlamento sobre a reforma militar.",
+      "nl": "Op 23 september 1862 werd Otto von Bismarck minister-president van Pruisen. Hij kwam aan de macht tijdens een conflict tussen de koning en het parlement over legerhervorming.",
+      "pl": "23 wrzesnia 1862 roku Otto von Bismarck zostal premierem Prus. Doszedl do wladzy podczas konfliktu krola z parlamentem o reforme armii.",
+      "tr": "23 Eylul 1862'de Otto von Bismarck Prusya basbakani oldu. Askeri reform konusunda kral ile parlamento arasindaki catisma sirasinda iktidara geldi.",
+      "zh": "1862年9月23日，奥托·冯·俾斯麦成为普鲁士首相。他在国王与议会围绕军事改革发生冲突时上台。",
+      "ja": "1862年9月23日、オットー・フォン・ビスマルクはプロイセン首相になりました。彼は軍制改革をめぐる国王と議会の対立の中で権力を握りました。",
+      "ko": "1862년 9월 23일, 오토 폰 비스마르크가 프로이센 총리가 되었다. 그는 군제 개혁을 둘러싼 국왕과 의회의 갈등 속에서 권력을 잡았다.",
+      "hi": "23 सितंबर 1862 को ओटो फ़ॉन बिस्मार्क प्रशा के मंत्री-राष्ट्रपति बने। वे सैन्य सुधार को लेकर राजा और संसद के संघर्ष के दौरान सत्ता में आए।",
+      "ar": "في 23 سبتمبر 1862 اصبح اوتو فون بيسمارك رئيس وزراء بروسيا. وصل الى السلطة اثناء صراع بين الملك والبرلمان حول اصلاح الجيش."
     },
     "importance": {
       "ru": "С этого назначения начался путь Бисмарка к объединению Германии под руководством Пруссии.",
       "de": "Mit dieser Ernennung begann Bismarcks Weg zur deutschen Einigung unter preussischer Fuehrung.",
-      "en": "This appointment began Bismarck's path toward German unification under Prussian leadership."
+      "en": "This appointment began Bismarck's path toward German unification under Prussian leadership.",
+      "fr": "Cette nomination marqua le debut du chemin de Bismarck vers l'unification allemande sous direction prussienne.",
+      "es": "Este nombramiento inicio el camino de Bismarck hacia la unificacion alemana bajo liderazgo prusiano.",
+      "it": "Questa nomina avvio il percorso di Bismarck verso l'unificazione tedesca sotto guida prussiana.",
+      "pt": "Essa nomeacao iniciou o caminho de Bismarck rumo a unificacao alema sob lideranca prussiana.",
+      "nl": "Met deze benoeming begon Bismarcks weg naar Duitse eenwording onder Pruisische leiding.",
+      "pl": "Ta nominacja rozpoczęla droge Bismarcka do zjednoczenia Niemiec pod przywodztwem Prus.",
+      "tr": "Bu atama, Bismarck'in Prusya liderliginde Alman birligine giden yolunu baslatti.",
+      "zh": "这一任命开启了俾斯麦在普鲁士领导下实现德国统一的道路。",
+      "ja": "この任命は、プロイセン主導のドイツ統一へ向かうビスマルクの道の始まりでした。",
+      "ko": "이 임명은 프로이센 주도의 독일 통일을 향한 비스마르크의 길을 열었다.",
+      "hi": "इस नियुक्ति से प्रशा के नेतृत्व में जर्मन एकीकरण की ओर बिस्मार्क का रास्ता शुरू हुआ।",
+      "ar": "بدأ بهذا التعيين طريق بيسمارك نحو توحيد المانيا تحت قيادة بروسيا."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Прусский конституционный конфликт",
           "de": "Der preussische Verfassungskonflikt",
-          "en": "The Prussian constitutional conflict"
+          "en": "The Prussian constitutional conflict",
+          "fr": "Le conflit constitutionnel prussien",
+          "es": "El conflicto constitucional prusiano",
+          "it": "Il conflitto costituzionale prussiano",
+          "pt": "O conflito constitucional prussiano",
+          "nl": "Het Pruisische constitutionele conflict",
+          "pl": "Pruski konflikt konstytucyjny",
+          "tr": "Prusya anayasa krizi",
+          "zh": "普鲁士宪法冲突",
+          "ja": "プロイセン憲法紛争",
+          "ko": "프로이센 헌법 갈등",
+          "hi": "प्रशा का संवैधानिक संघर्ष",
+          "ar": "الصراع الدستوري البروسي"
         },
         "description": {
           "ru": "Спор шёл о праве парламента контролировать бюджет и военные расходы. Бисмарк выбрал жёсткую линию и управлял даже без полноценного согласия депутатов.",
           "de": "Der Streit drehte sich um das Recht des Parlaments, Haushalt und Militaerausgaben zu kontrollieren. Bismarck waehlte eine harte Linie und regierte auch ohne volle Zustimmung der Abgeordneten.",
-          "en": "The dispute concerned parliament's right to control the budget and military spending. Bismarck chose a hard line and governed even without full parliamentary approval."
+          "en": "The dispute concerned parliament's right to control the budget and military spending. Bismarck chose a hard line and governed even without full parliamentary approval.",
+          "fr": "Le conflit portait sur le droit du parlement à controler le budget et les depenses militaires. Bismarck choisit une ligne dure et gouverna meme sans accord complet des deputes.",
+          "es": "La disputa trataba del derecho del parlamento a controlar el presupuesto y el gasto militar. Bismarck eligio una linea dura y goberno incluso sin plena aprobacion parlamentaria.",
+          "it": "La disputa riguardava il diritto del parlamento di controllare il bilancio e le spese militari. Bismarck scelse una linea dura e governo anche senza piena approvazione parlamentare.",
+          "pt": "A disputa dizia respeito ao direito do parlamento de controlar o orcamento e os gastos militares. Bismarck escolheu uma linha dura e governou mesmo sem plena aprovacao parlamentar.",
+          "nl": "Het conflict ging over het recht van het parlement om de begroting en militaire uitgaven te controleren. Bismarck koos een harde lijn en regeerde zelfs zonder volledige parlementaire goedkeuring.",
+          "pl": "Spor dotyczyl prawa parlamentu do kontroli budzetu i wydatkow wojskowych. Bismarck wybral twarda linie i rzadzil nawet bez pelnej zgody poslow.",
+          "tr": "Anlasmazlik, parlamentonun butceyi ve askeri harcamalari denetleme hakkiyla ilgiliydi. Bismarck sert bir cizgi secti ve tam parlamento onayi olmadan bile yonetti.",
+          "zh": "争议涉及议会控制预算和军费的权利。俾斯麦选择强硬路线，即使没有议员的完全同意也继续执政。",
+          "ja": "争点は、議会が予算と軍事支出を管理する権利でした。ビスマルクは強硬路線を選び、議員の十分な同意がなくても統治しました。",
+          "ko": "논쟁은 의회가 예산과 군사 지출을 통제할 권리를 둘러싼 것이었다. 비스마르크는 강경 노선을 택했고, 의회의 완전한 승인 없이도 통치했다.",
+          "hi": "विवाद संसद के बजट और सैन्य खर्चों पर नियंत्रण के अधिकार को लेकर था। बिस्मार्क ने कठोर रुख अपनाया और सांसदों की पूरी सहमति के बिना भी शासन किया।",
+          "ar": "دار النزاع حول حق البرلمان في التحكم بالميزانية والانفاق العسكري. اختار بيسمارك خطا صارما وحكم حتى من دون موافقة برلمانية كاملة."
         },
         "importance": {
           "ru": "Эта борьба показывает, что объединение Германии началось не только на полях сражений, но и в спорах о власти внутри Пруссии.",
           "de": "Dieser Konflikt zeigt, dass die deutsche Einigung nicht nur auf Schlachtfeldern, sondern auch in Machtkaempfen innerhalb Preussens begann.",
-          "en": "The conflict shows that German unification began not only on battlefields but also in struggles over power inside Prussia."
+          "en": "The conflict shows that German unification began not only on battlefields but also in struggles over power inside Prussia.",
+          "fr": "Ce conflit montre que l'unification allemande commenca non seulement sur les champs de bataille, mais aussi dans les luttes de pouvoir à l'interieur de la Prusse.",
+          "es": "El conflicto muestra que la unificacion alemana comenzo no solo en los campos de batalla, sino tambien en las luchas por el poder dentro de Prusia.",
+          "it": "Il conflitto mostra che l'unificazione tedesca inizio non solo sui campi di battaglia, ma anche nelle lotte di potere dentro la Prussia.",
+          "pt": "O conflito mostra que a unificacao alema comecou nao apenas nos campos de batalha, mas tambem nas disputas de poder dentro da Prussia.",
+          "nl": "Het conflict laat zien dat de Duitse eenwording niet alleen op slagvelden begon, maar ook in machtsstrijd binnen Pruisen.",
+          "pl": "Ten konflikt pokazuje, ze zjednoczenie Niemiec zaczelo sie nie tylko na polach bitew, lecz takze w walce o wladze wewnatrz Prus.",
+          "tr": "Bu catisma, Alman birliginin yalnizca savas alanlarinda degil, Prusya icindeki iktidar mucadelelerinde de basladigini gosterir.",
+          "zh": "这场冲突表明，德国统一不仅始于战场，也始于普鲁士内部的权力斗争。",
+          "ja": "この対立は、ドイツ統一が戦場だけでなく、プロイセン内部の権力争いからも始まったことを示しています。",
+          "ko": "이 갈등은 독일 통일이 전장뿐 아니라 프로이센 내부의 권력 투쟁에서도 시작되었음을 보여준다.",
+          "hi": "यह संघर्ष दिखाता है कि जर्मन एकीकरण केवल युद्धक्षेत्रों पर नहीं, बल्कि प्रशा के भीतर सत्ता संघर्षों में भी शुरू हुआ।",
+          "ar": "يبين هذا الصراع ان توحيد المانيا لم يبدأ في ساحات القتال فقط، بل ايضا في صراعات السلطة داخل بروسيا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Отто фон Бисмарк",
           "de": "Otto von Bismarck",
-          "en": "Otto von Bismarck"
+          "en": "Otto von Bismarck",
+          "fr": "Otto von Bismarck",
+          "es": "Otto von Bismarck",
+          "it": "Otto von Bismarck",
+          "pt": "Otto von Bismarck",
+          "nl": "Otto von Bismarck",
+          "pl": "Otto von Bismarck",
+          "tr": "Otto von Bismarck",
+          "zh": "奥托·冯·俾斯麦",
+          "ja": "オットー・フォン・ビスマルク",
+          "ko": "오토 폰 비스마르크",
+          "hi": "ओटो फ़ॉन बिस्मार्क",
+          "ar": "اوتو فون بيسمارك"
         },
         "description": {
           "ru": "Бисмарк позже стал первым канцлером Германской империи. Его политика сочетала дипломатический расчёт, военную силу и умение использовать кризисы.",
           "de": "Bismarck wurde spaeter der erste Reichskanzler des Deutschen Kaiserreichs. Seine Politik verband diplomatisches Kalkuel, militaerische Macht und die Faehigkeit, Krisen zu nutzen.",
-          "en": "Bismarck later became the first chancellor of the German Empire. His politics combined diplomatic calculation, military power and the ability to use crises."
+          "en": "Bismarck later became the first chancellor of the German Empire. His politics combined diplomatic calculation, military power and the ability to use crises.",
+          "fr": "Bismarck devint plus tard le premier chancelier de l'Empire allemand. Sa politique combinait calcul diplomatique, puissance militaire et capacite à utiliser les crises.",
+          "es": "Bismarck se convirtio despues en el primer canciller del Imperio aleman. Su politica combino calculo diplomatico, poder militar y capacidad para usar las crisis.",
+          "it": "Bismarck divenne poi il primo cancelliere dell'Impero tedesco. La sua politica univa calcolo diplomatico, forza militare e capacita di usare le crisi.",
+          "pt": "Bismarck tornou-se depois o primeiro chanceler do Imperio Alemao. Sua politica combinava calculo diplomatico, poder militar e capacidade de usar crises.",
+          "nl": "Bismarck werd later de eerste rijkskanselier van het Duitse Keizerrijk. Zijn politiek combineerde diplomatiek inzicht, militaire macht en het vermogen om crises te benutten.",
+          "pl": "Bismarck zostal pozniej pierwszym kanclerzem Cesarstwa Niemieckiego. Jego polityka laczyla dyplomatyczna kalkulacje, sile militarna i umiejetnosc wykorzystywania kryzysow.",
+          "tr": "Bismarck daha sonra Alman Imparatorlugu'nun ilk sansolyesi oldu. Politikasi diplomatik hesap, askeri guc ve krizleri kullanma yetenegini birlestiriyordu.",
+          "zh": "俾斯麦后来成为德意志帝国首任宰相。他的政治结合了外交计算、军事力量和利用危机的能力。",
+          "ja": "ビスマルクは後にドイツ帝国の初代宰相となりました。彼の政治は外交的計算、軍事力、危機を利用する能力を組み合わせたものでした。",
+          "ko": "비스마르크는 훗날 독일 제국의 초대 재상이 되었다. 그의 정치는 외교적 계산, 군사력, 위기를 활용하는 능력을 결합했다.",
+          "hi": "बिस्मार्क बाद में जर्मन साम्राज्य के पहले चांसलर बने। उनकी राजनीति में कूटनीतिक गणना, सैन्य शक्ति और संकटों का उपयोग करने की क्षमता जुड़ी थी।",
+          "ar": "اصبح بيسمارك لاحقا اول مستشار للامبراطورية الالمانية. جمعت سياسته بين الحساب الدبلوماسي والقوة العسكرية والقدرة على استغلال الازمات."
         },
         "importance": {
           "ru": "Без Бисмарка трудно представить карту Германии 1871 года.",
           "de": "Ohne Bismarck ist die Deutschlandkarte von 1871 kaum vorstellbar.",
-          "en": "Without Bismarck, the map of Germany in 1871 is hard to imagine."
+          "en": "Without Bismarck, the map of Germany in 1871 is hard to imagine.",
+          "fr": "Sans Bismarck, la carte de l'Allemagne de 1871 est difficile à imaginer.",
+          "es": "Sin Bismarck, es dificil imaginar el mapa de Alemania de 1871.",
+          "it": "Senza Bismarck, la mappa della Germania del 1871 e difficile da immaginare.",
+          "pt": "Sem Bismarck, e dificil imaginar o mapa da Alemanha em 1871.",
+          "nl": "Zonder Bismarck is de kaart van Duitsland in 1871 moeilijk voor te stellen.",
+          "pl": "Bez Bismarcka trudno wyobrazic sobie mape Niemiec z 1871 roku.",
+          "tr": "Bismarck olmadan 1871 Almanya haritasini hayal etmek zordur.",
+          "zh": "没有俾斯麦，1871年的德国地图很难想象。",
+          "ja": "ビスマルクなしに1871年のドイツ地図を想像するのは難しいです。",
+          "ko": "비스마르크 없이 1871년의 독일 지도를 상상하기는 어렵다.",
+          "hi": "बिस्मार्क के बिना 1871 के जर्मनी का नक्शा कल्पना करना कठिन है।",
+          "ar": "من الصعب تخيل خريطة المانيا عام 1871 من دون بيسمارك."
         }
       }
     ],
@@ -74,17 +182,53 @@
         "title": {
           "ru": "До речи о «железе и крови» оставалась неделя",
           "de": "Bis zur Rede von Eisen und Blut blieb eine Woche",
-          "en": "One week before the blood and iron speech"
+          "en": "One week before the blood and iron speech",
+          "fr": "Une semaine avant le discours du sang et du fer",
+          "es": "Una semana antes del discurso de sangre y hierro",
+          "it": "Una settimana prima del discorso su sangue e ferro",
+          "pt": "Uma semana antes do discurso de sangue e ferro",
+          "nl": "Een week voor de bloed-en-ijzer-toespraak",
+          "pl": "Tydzien przed mowa o krwi i zelazie",
+          "tr": "Kan ve demir konusmasindan bir hafta once",
+          "zh": "距离“铁血演说”还有一周",
+          "ja": "「鉄血演説」の一週間前",
+          "ko": "철혈 연설 일주일 전",
+          "hi": "रक्त और लौह भाषण से एक सप्ताह पहले",
+          "ar": "قبل اسبوع من خطاب الدم والحديد"
         },
         "description": {
           "ru": "Через несколько дней после назначения Бисмарк произнёс знаменитую речь о том, что большие вопросы времени решаются не речами и большинством голосов. Эта фраза стала одной из самых известных в его биографии.",
           "de": "Wenige Tage nach seiner Ernennung hielt Bismarck seine beruehmte Rede, in der er sagte, grosse Fragen der Zeit wuerden nicht durch Reden und Mehrheitsbeschluesse entschieden. Der Satz wurde einer der bekanntesten seiner Biografie.",
-          "en": "A few days after his appointment, Bismarck gave his famous speech saying that the great questions of the time were not decided by speeches and majority votes. The line became one of the best-known in his biography."
+          "en": "A few days after his appointment, Bismarck gave his famous speech saying that the great questions of the time were not decided by speeches and majority votes. The line became one of the best-known in his biography.",
+          "fr": "Quelques jours apres sa nomination, Bismarck prononca son celebre discours affirmant que les grandes questions de l'epoque ne se decidaient pas par des discours ni par des votes majoritaires. Cette phrase devint l'une des plus connues de sa biographie.",
+          "es": "Pocos dias despues de su nombramiento, Bismarck pronuncio su famoso discurso en el que dijo que las grandes cuestiones de la epoca no se decidian con discursos ni mayorias. La frase se convirtio en una de las mas conocidas de su biografia.",
+          "it": "Pochi giorni dopo la nomina, Bismarck pronuncio il celebre discorso in cui disse che le grandi questioni del tempo non si decidevano con discorsi e voti di maggioranza. La frase divenne una delle piu note della sua biografia.",
+          "pt": "Poucos dias apos sua nomeacao, Bismarck fez seu famoso discurso dizendo que as grandes questoes da epoca nao eram decididas por discursos e maiorias. A frase tornou-se uma das mais conhecidas de sua biografia.",
+          "nl": "Enkele dagen na zijn benoeming hield Bismarck zijn beroemde toespraak waarin hij zei dat de grote vragen van de tijd niet door toespraken en meerderheidsbesluiten werden beslist. De zin werd een van de bekendste uit zijn biografie.",
+          "pl": "Kilka dni po nominacji Bismarck wyglosil slawna mowe, w ktorej stwierdzil, ze wielkich kwestii epoki nie rozstrzyga sie przemowieniami i wiekszoscia glosow. To zdanie stalo sie jednym z najbardziej znanych w jego biografii.",
+          "tr": "Atanmasindan birkac gun sonra Bismarck, zamanin buyuk meselelerinin konusmalar ve cogunluk oylariyla cozulmedigini soyledigi unlu konusmasini yapti. Bu soz, biyografisinin en bilinen ifadelerinden biri oldu.",
+          "zh": "任命几天后，俾斯麦发表了著名演说，称时代的重大问题不是靠演说和多数票决定的。这句话成为他生平中最著名的语句之一。",
+          "ja": "任命の数日後、ビスマルクは、時代の大問題は演説や多数決では決まらないと述べた有名な演説を行いました。この一節は彼の伝記で最もよく知られる言葉の一つになりました。",
+          "ko": "임명 며칠 뒤 비스마르크는 시대의 큰 문제는 연설과 다수결로 결정되지 않는다고 말한 유명한 연설을 했다. 이 문장은 그의 생애에서 가장 잘 알려진 말 중 하나가 되었다.",
+          "hi": "नियुक्ति के कुछ दिनों बाद बिस्मार्क ने अपना प्रसिद्ध भाषण दिया, जिसमें उन्होंने कहा कि समय के बड़े प्रश्न भाषणों और बहुमत के वोटों से तय नहीं होते। यह वाक्य उनके जीवन की सबसे प्रसिद्ध पंक्तियों में से एक बन गया।",
+          "ar": "بعد ايام قليلة من تعيينه القى بيسمارك خطابه الشهير الذي قال فيه ان القضايا الكبرى في العصر لا تحسم بالخطب وقرارات الاغلبية. واصبحت هذه العبارة من اشهر عبارات سيرته."
         },
         "importance": {
           "ru": "Иногда политический стиль эпохи узнают по одной жёсткой формуле.",
           "de": "Manchmal erkennt man den politischen Stil einer Epoche an einer harten Formel.",
-          "en": "Sometimes the political style of an era is remembered through one hard phrase."
+          "en": "Sometimes the political style of an era is remembered through one hard phrase.",
+          "fr": "Parfois, le style politique d'une epoque se reconnait dans une formule dure.",
+          "es": "A veces el estilo politico de una epoca se recuerda por una formula dura.",
+          "it": "A volte lo stile politico di un'epoca si riconosce in una formula dura.",
+          "pt": "As vezes, o estilo politico de uma epoca e lembrado por uma formula dura.",
+          "nl": "Soms herken je de politieke stijl van een tijdperk aan een harde formule.",
+          "pl": "Czasem styl polityczny epoki rozpoznaje sie po jednej twardej formule.",
+          "tr": "Bazen bir donemin siyasi uslubu tek bir sert ifadeyle hatirlanir.",
+          "zh": "有时，一个时代的政治风格会通过一句强硬的话被记住。",
+          "ja": "時代の政治スタイルは、時に一つの厳しい言葉で記憶されます。",
+          "ko": "때로는 한 시대의 정치적 스타일이 하나의 강한 문구로 기억된다.",
+          "hi": "कभी-कभी किसी युग की राजनीतिक शैली एक कठोर सूत्र से पहचानी जाती है।",
+          "ar": "احيانا يعرف الاسلوب السياسي لعصر كامل من خلال عبارة قاسية واحدة."
         }
       }
     ]
@@ -92,7 +236,19 @@
   "fact": {
     "ru": "Бисмарк одновременно стал и министром иностранных дел Пруссии, что дало ему прямое влияние на внешнюю политику.",
     "de": "Bismarck wurde zugleich preussischer Aussenminister und erhielt damit direkten Einfluss auf die Aussenpolitik.",
-    "en": "Bismarck also became Prussian foreign minister, giving him direct influence over foreign policy."
+    "en": "Bismarck also became Prussian foreign minister, giving him direct influence over foreign policy.",
+    "fr": "Bismarck devint aussi ministre prussien des Affaires etrangeres, ce qui lui donna une influence directe sur la politique exterieure.",
+    "es": "Bismarck tambien se convirtio en ministro prusiano de Asuntos Exteriores, lo que le dio influencia directa sobre la politica exterior.",
+    "it": "Bismarck divenne anche ministro degli Esteri prussiano, ottenendo cosi un'influenza diretta sulla politica estera.",
+    "pt": "Bismarck tambem se tornou ministro prussiano das Relacoes Exteriores, ganhando influencia direta sobre a politica externa.",
+    "nl": "Bismarck werd tegelijk Pruisisch minister van Buitenlandse Zaken, waardoor hij directe invloed kreeg op het buitenlands beleid.",
+    "pl": "Bismarck zostal jednoczesnie pruskim ministrem spraw zagranicznych, co dalo mu bezposredni wplyw na polityke zagraniczna.",
+    "tr": "Bismarck ayni zamanda Prusya disisleri bakani oldu ve boylece dis politika uzerinde dogrudan etki kazandi.",
+    "zh": "俾斯麦同时成为普鲁士外交大臣，这使他能够直接影响外交政策。",
+    "ja": "ビスマルクは同時にプロイセン外相にもなり、外交政策に直接影響を及ぼす立場を得ました。",
+    "ko": "비스마르크는 동시에 프로이센 외무장관이 되어 외교 정책에 직접 영향력을 갖게 되었다.",
+    "hi": "बिस्मार्क साथ ही प्रशा के विदेश मंत्री भी बने, जिससे उन्हें विदेश नीति पर सीधा प्रभाव मिला।",
+    "ar": "اصبح بيسمارك ايضا وزير خارجية بروسيا، مما منحه تأثيرا مباشرا في السياسة الخارجية."
   },
   "sources": [
     {
