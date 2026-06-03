@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Роберт Шуман",
       "de": "Robert Schumann wird geboren",
-      "en": "Robert Schumann is born"
+      "en": "Robert Schumann is born",
+      "fr": "Naissance de Robert Schumann",
+      "es": "Nace Robert Schumann",
+      "it": "Nasce Robert Schumann",
+      "pt": "Nasce Robert Schumann",
+      "nl": "Robert Schumann wordt geboren",
+      "pl": "Rodzi sie Robert Schumann",
+      "tr": "Robert Schumann dogar",
+      "zh": "罗伯特·舒曼出生",
+      "ja": "ロベルト・シューマンが生まれる",
+      "ko": "로베르트 슈만이 태어나다",
+      "hi": "रॉबर्ट शुमान का जन्म",
+      "ar": "ولادة روبرت شومان"
     },
     "description": {
       "ru": "8 июня 1810 года в Цвиккау родился композитор Роберт Шуман. Он стал одной из главных фигур немецкого музыкального романтизма.",
       "de": "Am 8. Juni 1810 wurde der Komponist Robert Schumann in Zwickau geboren. Er wurde zu einer der wichtigsten Figuren der deutschen musikalischen Romantik.",
-      "en": "On 8 June 1810, composer Robert Schumann was born in Zwickau. He became one of the major figures of German musical Romanticism."
+      "en": "On 8 June 1810, composer Robert Schumann was born in Zwickau. He became one of the major figures of German musical Romanticism.",
+      "fr": "Le 8 juin 1810, le compositeur Robert Schumann naquit a Zwickau. Il devint l'une des grandes figures du romantisme musical allemand.",
+      "es": "El 8 de junio de 1810 nacio en Zwickau el compositor Robert Schumann. Se convirtio en una de las grandes figuras del romanticismo musical aleman.",
+      "it": "L'8 giugno 1810 nacque a Zwickau il compositore Robert Schumann. Divenne una delle figure principali del Romanticismo musicale tedesco.",
+      "pt": "Em 8 de junho de 1810, o compositor Robert Schumann nasceu em Zwickau. Ele se tornou uma das principais figuras do romantismo musical alemao.",
+      "nl": "Op 8 juni 1810 werd componist Robert Schumann in Zwickau geboren. Hij werd een van de belangrijkste figuren van de Duitse muzikale romantiek.",
+      "pl": "8 czerwca 1810 roku w Zwickau urodzil sie kompozytor Robert Schumann. Stal sie jedna z glownych postaci niemieckiego romantyzmu muzycznego.",
+      "tr": "8 Haziran 1810'da besteci Robert Schumann Zwickau'da dogdu. Alman muzik romantizminin baslica isimlerinden biri oldu.",
+      "zh": "1810年6月8日，作曲家罗伯特·舒曼出生于茨维考。他成为德国音乐浪漫主义的重要人物之一。",
+      "ja": "1810年6月8日、作曲家ロベルト・シューマンがツヴィッカウで生まれました。彼はドイツ音楽ロマン主義を代表する人物の一人となりました。",
+      "ko": "1810년 6월 8일 작곡가 로베르트 슈만이 츠비카우에서 태어났습니다. 그는 독일 음악 낭만주의의 주요 인물 중 하나가 되었습니다.",
+      "hi": "8 जून 1810 को संगीतकार रॉबर्ट शुमान का जन्म स्विकाउ में हुआ। वे जर्मन संगीत रोमांटिकता की प्रमुख हस्तियों में से एक बने।",
+      "ar": "في 8 يونيو 1810 ولد المؤلف الموسيقي روبرت شومان في تسفيكاو. اصبح من ابرز شخصيات الرومانسية الموسيقية الالمانية."
     },
     "importance": {
       "ru": "Шуман соединяет музыку, литературу, критику и романтическое представление о внутреннем мире человека.",
       "de": "Schumann verbindet Musik, Literatur, Kritik und die romantische Vorstellung von der inneren Welt des Menschen.",
-      "en": "Schumann connects music, literature, criticism and the Romantic idea of a person's inner world."
+      "en": "Schumann connects music, literature, criticism and the Romantic idea of a person's inner world.",
+      "fr": "Schumann relie la musique, la litterature, la critique et l'idee romantique du monde interieur de l'homme.",
+      "es": "Schumann une musica, literatura, critica y la idea romantica del mundo interior de la persona.",
+      "it": "Schumann unisce musica, letteratura, critica e l'idea romantica del mondo interiore della persona.",
+      "pt": "Schumann une musica, literatura, critica e a ideia romantica do mundo interior da pessoa.",
+      "nl": "Schumann verbindt muziek, literatuur, kritiek en het romantische idee van de innerlijke wereld van de mens.",
+      "pl": "Schumann laczy muzyke, literature, krytyke i romantyczne wyobrazenie o wewnetrznym swiecie czlowieka.",
+      "tr": "Schumann muzik, edebiyat, elestiri ve insanin ic dunyasina dair romantik fikri birlestirir.",
+      "zh": "舒曼把音乐、文学、评论以及关于人的内心世界的浪漫主义观念联系在一起。",
+      "ja": "シューマンは音楽、文学、批評、そして人間の内面世界についてのロマン主義的な考えを結びつけています。",
+      "ko": "슈만은 음악, 문학, 비평, 인간의 내면 세계에 대한 낭만주의적 생각을 연결합니다.",
+      "hi": "शुमान संगीत, साहित्य, आलोचना और मनुष्य की आंतरिक दुनिया की रोमांटिक कल्पना को जोड़ते हैं।",
+      "ar": "يربط شومان بين الموسيقى والادب والنقد والفكرة الرومانسية عن العالم الداخلي للانسان."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Музыка и история семьи Шуман",
           "de": "Musik und die Geschichte der Familie Schumann",
-          "en": "Music and the Schumann family story"
+          "en": "Music and the Schumann family story",
+          "fr": "La musique et l'histoire de la famille Schumann",
+          "es": "La musica y la historia de la familia Schumann",
+          "it": "La musica e la storia della famiglia Schumann",
+          "pt": "A musica e a historia da familia Schumann",
+          "nl": "Muziek en het verhaal van de familie Schumann",
+          "pl": "Muzyka i historia rodziny Schumannow",
+          "tr": "Muzik ve Schumann ailesinin hikayesi",
+          "zh": "音乐与舒曼家族的故事",
+          "ja": "音楽とシューマン家の物語",
+          "ko": "음악과 슈만 가족의 이야기",
+          "hi": "संगीत और शुमान परिवार की कहानी",
+          "ar": "الموسيقى وقصة عائلة شومان"
         },
         "description": {
           "ru": "Роберт Шуман тесно связан с Кларой Шуман, выдающейся пианисткой и композитором. Их биография стала частью музыкальной истории Лейпцига, Дрездена и Дюссельдорфа.",
           "de": "Robert Schumann ist eng mit Clara Schumann verbunden, einer herausragenden Pianistin und Komponistin. Ihre Biografie wurde Teil der Musikgeschichte von Leipzig, Dresden und Duesseldorf.",
-          "en": "Robert Schumann is closely linked with Clara Schumann, an outstanding pianist and composer. Their biography became part of the musical history of Leipzig, Dresden and Duesseldorf."
+          "en": "Robert Schumann is closely linked with Clara Schumann, an outstanding pianist and composer. Their biography became part of the musical history of Leipzig, Dresden and Duesseldorf.",
+          "fr": "Robert Schumann est etroitement lie a Clara Schumann, pianiste et compositrice exceptionnelle. Leur biographie devint une partie de l'histoire musicale de Leipzig, Dresde et Duesseldorf.",
+          "es": "Robert Schumann esta estrechamente unido a Clara Schumann, una destacada pianista y compositora. Su biografia paso a formar parte de la historia musical de Leipzig, Dresde y Duesseldorf.",
+          "it": "Robert Schumann e strettamente legato a Clara Schumann, straordinaria pianista e compositrice. La loro biografia divenne parte della storia musicale di Lipsia, Dresda e Duesseldorf.",
+          "pt": "Robert Schumann esta intimamente ligado a Clara Schumann, notavel pianista e compositora. A biografia deles tornou-se parte da historia musical de Leipzig, Dresden e Duesseldorf.",
+          "nl": "Robert Schumann is nauw verbonden met Clara Schumann, een uitstekende pianiste en componiste. Hun biografie werd deel van de muziekgeschiedenis van Leipzig, Dresden en Duesseldorf.",
+          "pl": "Robert Schumann jest scisle zwiazany z Clara Schumann, wybitna pianistka i kompozytorka. Ich biografia stala sie czescia historii muzycznej Lipska, Drezna i Duesseldorfu.",
+          "tr": "Robert Schumann, seckin piyanist ve besteci Clara Schumann ile yakindan baglantilidir. Ikisinin biyografisi Leipzig, Dresden ve Duesseldorf'un muzik tarihinin parcasi oldu.",
+          "zh": "罗伯特·舒曼与杰出的钢琴家、作曲家克拉拉·舒曼密切相连。他们的生平成为莱比锡、德累斯顿和杜塞尔多夫音乐史的一部分。",
+          "ja": "ロベルト・シューマンは、優れたピアニストで作曲家のクララ・シューマンと深く結びついています。二人の伝記は、ライプツィヒ、ドレスデン、デュッセルドルフの音楽史の一部となりました。",
+          "ko": "로베르트 슈만은 뛰어난 피아니스트이자 작곡가인 클라라 슈만과 깊이 연결되어 있습니다. 두 사람의 삶은 라이프치히, 드레스덴, 뒤셀도르프 음악사의 일부가 되었습니다.",
+          "hi": "रॉबर्ट शुमान उत्कृष्ट पियानोवादक और संगीतकार क्लारा शुमान से गहराई से जुड़े हैं। उनकी जीवनी लाइपज़िग, ड्रेसडेन और ड्यूसलडॉर्फ के संगीत इतिहास का हिस्सा बन गई।",
+          "ar": "يرتبط روبرت شومان ارتباطا وثيقا بكلارا شومان، عازفة البيانو والمؤلفة الموسيقية البارزة. اصبحت سيرتهما جزءا من تاريخ الموسيقى في لايبزيغ ودريسدن ودوسلدورف."
         },
         "importance": {
           "ru": "Через Шуманов видно, что музыкальная культура создаётся не одиночками, а кругами, семьями и городами.",
           "de": "Durch die Schumanns sieht man, dass Musikkultur nicht nur von Einzelnen, sondern von Kreisen, Familien und Staedten geschaffen wird.",
-          "en": "Through the Schumanns, we see that musical culture is shaped not only by individuals, but by circles, families and cities."
+          "en": "Through the Schumanns, we see that musical culture is shaped not only by individuals, but by circles, families and cities.",
+          "fr": "A travers les Schumann, on voit que la culture musicale n'est pas creee seulement par des individus, mais aussi par des cercles, des familles et des villes.",
+          "es": "A traves de los Schumann se ve que la cultura musical no la crean solo individuos, sino tambien circulos, familias y ciudades.",
+          "it": "Attraverso gli Schumann si vede che la cultura musicale non e creata solo da individui, ma anche da cerchie, famiglie e citta.",
+          "pt": "Por meio dos Schumann vemos que a cultura musical nao e criada apenas por individuos, mas tambem por circulos, familias e cidades.",
+          "nl": "Via de Schumanns zien we dat muziekcultuur niet alleen door individuen wordt gevormd, maar ook door kringen, families en steden.",
+          "pl": "Przez Schumannow widac, ze kulture muzyczna tworza nie tylko jednostki, ale takze kregi, rodziny i miasta.",
+          "tr": "Schumannlar araciligiyla muzik kulturunun yalnizca bireyler tarafindan degil, cevreler, aileler ve kentler tarafindan da sekillendirildigini goruruz.",
+          "zh": "通过舒曼夫妇可以看到，音乐文化不仅由个人创造，也由圈子、家庭和城市塑造。",
+          "ja": "シューマン夫妻を通して、音楽文化は個人だけでなく、サークル、家族、都市によっても形づくられることがわかります。",
+          "ko": "슈만 부부를 통해 음악 문화가 개인뿐 아니라 모임, 가족, 도시들에 의해 형성된다는 것을 볼 수 있습니다.",
+          "hi": "शुमान परिवार के माध्यम से दिखता है कि संगीत संस्कृति सिर्फ व्यक्तियों से नहीं, बल्कि समूहों, परिवारों और शहरों से भी बनती है।",
+          "ar": "من خلال عائلة شومان نرى ان الثقافة الموسيقية لا يصنعها الافراد وحدهم، بل الدوائر والعائلات والمدن ايضا."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Шуман был не только композитором, но и влиятельным музыкальным критиком.",
     "de": "Schumann war nicht nur Komponist, sondern auch ein einflussreicher Musikkritiker.",
-    "en": "Schumann was not only a composer but also an influential music critic."
+    "en": "Schumann was not only a composer but also an influential music critic.",
+    "fr": "Schumann fut non seulement compositeur, mais aussi critique musical influent.",
+    "es": "Schumann no fue solo compositor, sino tambien un influyente critico musical.",
+    "it": "Schumann non fu solo compositore, ma anche un influente critico musicale.",
+    "pt": "Schumann nao foi apenas compositor, mas tambem um influente critico musical.",
+    "nl": "Schumann was niet alleen componist, maar ook een invloedrijke muziekcriticus.",
+    "pl": "Schumann byl nie tylko kompozytorem, lecz takze wplywowym krytykiem muzycznym.",
+    "tr": "Schumann yalnizca besteci degil, ayni zamanda etkili bir muzik elestirmeniydi.",
+    "zh": "舒曼不仅是作曲家，也是有影响力的音乐评论家。",
+    "ja": "シューマンは作曲家であるだけでなく、影響力のある音楽評論家でもありました。",
+    "ko": "슈만은 작곡가일 뿐 아니라 영향력 있는 음악 비평가이기도 했습니다.",
+    "hi": "शुमान सिर्फ संगीतकार ही नहीं, बल्कि प्रभावशाली संगीत आलोचक भी थे।",
+    "ar": "لم يكن شومان مؤلفا موسيقيا فقط، بل كان ايضا ناقدا موسيقيا مؤثرا."
   },
   "sources": [
     {

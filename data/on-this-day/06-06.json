@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Томас Манн",
       "de": "Thomas Mann wird geboren",
-      "en": "Thomas Mann is born"
+      "en": "Thomas Mann is born",
+      "fr": "Naissance de Thomas Mann",
+      "es": "Nace Thomas Mann",
+      "it": "Nasce Thomas Mann",
+      "pt": "Nasce Thomas Mann",
+      "nl": "Thomas Mann wordt geboren",
+      "pl": "Rodzi sie Thomas Mann",
+      "tr": "Thomas Mann dogar",
+      "zh": "托马斯·曼出生",
+      "ja": "トーマス・マンが生まれる",
+      "ko": "토마스 만이 태어나다",
+      "hi": "थॉमस मान का जन्म",
+      "ar": "ولادة توماس مان"
     },
     "description": {
       "ru": "6 июня 1875 года в Любеке родился писатель Томас Манн. Он стал лауреатом Нобелевской премии по литературе и одним из главных немецких авторов XX века.",
       "de": "Am 6. Juni 1875 wurde Thomas Mann in Luebeck geboren. Er wurde Nobelpreistraeger fuer Literatur und einer der wichtigsten deutschen Autoren des 20. Jahrhunderts.",
-      "en": "On 6 June 1875, writer Thomas Mann was born in Luebeck. He became a Nobel Prize laureate in literature and one of the major German authors of the twentieth century."
+      "en": "On 6 June 1875, writer Thomas Mann was born in Luebeck. He became a Nobel Prize laureate in literature and one of the major German authors of the twentieth century.",
+      "fr": "Le 6 juin 1875, l'ecrivain Thomas Mann naquit a Luebeck. Il devint laureat du prix Nobel de litterature et l'un des grands auteurs allemands du XXe siecle.",
+      "es": "El 6 de junio de 1875 nacio en Luebeck el escritor Thomas Mann. Fue laureado con el Premio Nobel de Literatura y se convirtio en uno de los grandes autores alemanes del siglo XX.",
+      "it": "Il 6 giugno 1875 nacque a Lubecca lo scrittore Thomas Mann. Divenne premio Nobel per la letteratura e uno dei maggiori autori tedeschi del Novecento.",
+      "pt": "Em 6 de junho de 1875, o escritor Thomas Mann nasceu em Luebeck. Ele se tornou laureado com o Premio Nobel de Literatura e um dos principais autores alemaes do seculo XX.",
+      "nl": "Op 6 juni 1875 werd schrijver Thomas Mann in Luebeck geboren. Hij werd Nobelprijswinnaar voor literatuur en een van de belangrijkste Duitse auteurs van de twintigste eeuw.",
+      "pl": "6 czerwca 1875 roku w Lubece urodzil sie pisarz Thomas Mann. Zostal laureatem Nagrody Nobla w dziedzinie literatury i jednym z najwazniejszych niemieckich autorow XX wieku.",
+      "tr": "6 Haziran 1875'te yazar Thomas Mann Luebeck'te dogdu. Nobel Edebiyat Odulu sahibi oldu ve yirminci yuzyilin en onemli Alman yazarlarindan biri sayildi.",
+      "zh": "1875年6月6日，作家托马斯·曼出生于吕贝克。他后来获得诺贝尔文学奖，成为20世纪德国最重要的作家之一。",
+      "ja": "1875年6月6日、作家トーマス・マンがリューベックで生まれました。彼はノーベル文学賞を受賞し、20世紀ドイツを代表する作家の一人となりました。",
+      "ko": "1875년 6월 6일 작가 토마스 만이 뤼베크에서 태어났습니다. 그는 노벨 문학상 수상자가 되었고 20세기 독일의 주요 작가 중 한 사람이 되었습니다.",
+      "hi": "6 जून 1875 को लेखक थॉमस मान का जन्म ल्यूबेक में हुआ। वे साहित्य के नोबेल पुरस्कार विजेता और बीसवीं सदी के प्रमुख जर्मन लेखकों में से एक बने।",
+      "ar": "في 6 يونيو 1875 ولد الكاتب توماس مان في لوبيك. اصبح حائزا على جائزة نوبل في الادب واحد اهم الكتاب الالمان في القرن العشرين."
     },
     "importance": {
       "ru": "Его книги помогают понять бюргерскую культуру, кризисы Европы и немецкую историю первой половины XX века.",
       "de": "Seine Buecher helfen, buergerliche Kultur, europaeische Krisen und deutsche Geschichte der ersten Haelfte des 20. Jahrhunderts zu verstehen.",
-      "en": "His books help explain bourgeois culture, European crises and German history in the first half of the twentieth century."
+      "en": "His books help explain bourgeois culture, European crises and German history in the first half of the twentieth century.",
+      "fr": "Ses livres aident a comprendre la culture bourgeoise, les crises europeennes et l'histoire allemande de la premiere moitie du XXe siecle.",
+      "es": "Sus libros ayudan a entender la cultura burguesa, las crisis europeas y la historia alemana de la primera mitad del siglo XX.",
+      "it": "I suoi libri aiutano a capire la cultura borghese, le crisi europee e la storia tedesca della prima meta del Novecento.",
+      "pt": "Seus livros ajudam a entender a cultura burguesa, as crises europeias e a historia alema da primeira metade do seculo XX.",
+      "nl": "Zijn boeken helpen de burgerlijke cultuur, Europese crises en de Duitse geschiedenis van de eerste helft van de twintigste eeuw te begrijpen.",
+      "pl": "Jego ksiazki pomagaja zrozumiec kulture mieszczanska, europejskie kryzysy i niemiecka historie pierwszej polowy XX wieku.",
+      "tr": "Kitaplari, burjuva kulturunu, Avrupa krizlerini ve yirminci yuzyilin ilk yarisindaki Alman tarihini anlamaya yardim eder.",
+      "zh": "他的作品有助于理解市民文化、欧洲危机以及20世纪上半叶的德国历史。",
+      "ja": "彼の本は、市民文化、ヨーロッパの危機、20世紀前半のドイツ史を理解する助けになります。",
+      "ko": "그의 책은 시민 문화, 유럽의 위기, 20세기 전반 독일사를 이해하는 데 도움이 됩니다.",
+      "hi": "उनकी किताबें बुर्जुआ संस्कृति, यूरोपीय संकटों और बीसवीं सदी के पहले आधे हिस्से के जर्मन इतिहास को समझने में मदद करती हैं।",
+      "ar": "تساعد كتبه على فهم الثقافة البرجوازية والازمات الاوروبية والتاريخ الالماني في النصف الاول من القرن العشرين."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "«Будденброки» и Любек",
           "de": "Buddenbrooks und Luebeck",
-          "en": "Buddenbrooks and Luebeck"
+          "en": "Buddenbrooks and Luebeck",
+          "fr": "Buddenbrooks et Luebeck",
+          "es": "Buddenbrooks y Luebeck",
+          "it": "Buddenbrooks e Lubecca",
+          "pt": "Buddenbrooks e Luebeck",
+          "nl": "Buddenbrooks en Luebeck",
+          "pl": "Buddenbrookowie i Lubeka",
+          "tr": "Buddenbrooks ve Luebeck",
+          "zh": "《布登勃洛克一家》与吕贝克",
+          "ja": "『ブッデンブローク家の人々』とリューベック",
+          "ko": "부덴브로크가와 뤼베크",
+          "hi": "बुडेनब्रुक्स और ल्यूबेक",
+          "ar": "بودنبروك ولوبيك"
         },
         "description": {
           "ru": "Роман «Будденброки» связан с атмосферой ганзейского Любека. Именно он принёс Манну мировую известность.",
           "de": "Der Roman Buddenbrooks ist eng mit der Atmosphaere der Hansestadt Luebeck verbunden. Er brachte Mann den internationalen Durchbruch.",
-          "en": "The novel Buddenbrooks is closely linked with the atmosphere of Hanseatic Luebeck. It brought Mann international recognition."
+          "en": "The novel Buddenbrooks is closely linked with the atmosphere of Hanseatic Luebeck. It brought Mann international recognition.",
+          "fr": "Le roman Buddenbrooks est etroitement lie a l'atmosphere de la ville hanseatique de Luebeck. Il apporta a Mann une reconnaissance internationale.",
+          "es": "La novela Buddenbrooks esta estrechamente ligada al ambiente de la ciudad hanseatica de Luebeck. Le dio a Mann reconocimiento internacional.",
+          "it": "Il romanzo Buddenbrooks e strettamente legato all'atmosfera della citta anseatica di Lubecca. Porto a Mann il riconoscimento internazionale.",
+          "pt": "O romance Buddenbrooks esta intimamente ligado a atmosfera da cidade hanseatica de Luebeck. Ele trouxe reconhecimento internacional a Mann.",
+          "nl": "De roman Buddenbrooks is nauw verbonden met de sfeer van de Hanzestad Luebeck. Hij bracht Mann internationale erkenning.",
+          "pl": "Powieść Buddenbrookowie jest scisle zwiazana z atmosfera hanzeatyckiej Lubeki. Przyniosla Mannowi miedzynarodowe uznanie.",
+          "tr": "Buddenbrooks romani Hansa kenti Luebeck'in atmosferiyle yakindan baglantilidir. Mann'a uluslararasi taninirlik kazandirdi.",
+          "zh": "小说《布登勃洛克一家》与汉萨城市吕贝克的氛围紧密相连，也让曼获得国际声誉。",
+          "ja": "小説『ブッデンブローク家の人々』は、ハンザ都市リューベックの雰囲気と深く結びついています。この作品がマンに国際的な名声をもたらしました。",
+          "ko": "소설 부덴브로크가는 한자 도시 뤼베크의 분위기와 깊이 연결되어 있습니다. 이 작품은 만에게 국제적 명성을 안겨 주었습니다.",
+          "hi": "उपन्यास बुडेनब्रुक्स हैंसियाटिक शहर ल्यूबेक के वातावरण से गहराई से जुड़ा है। इसी ने मान को अंतरराष्ट्रीय पहचान दिलाई।",
+          "ar": "ترتبط رواية بودنبروك ارتباطا وثيقا باجواء مدينة لوبيك الهانزية. وهي التي جلبت لمان شهرة دولية."
         },
         "importance": {
           "ru": "Литература здесь превращает городскую историю в мировую культуру.",
           "de": "Literatur verwandelt hier Stadtgeschichte in Weltkultur.",
-          "en": "Here literature turns urban history into world culture."
+          "en": "Here literature turns urban history into world culture.",
+          "fr": "Ici, la litterature transforme l'histoire urbaine en culture mondiale.",
+          "es": "Aqui la literatura convierte la historia urbana en cultura mundial.",
+          "it": "Qui la letteratura trasforma la storia urbana in cultura mondiale.",
+          "pt": "Aqui a literatura transforma a historia urbana em cultura mundial.",
+          "nl": "Hier verandert literatuur stadsgeschiedenis in wereldcultuur.",
+          "pl": "Tutaj literatura zmienia historie miasta w kulture swiatowa.",
+          "tr": "Burada edebiyat, kent tarihini dunya kulturune donusturur.",
+          "zh": "在这里，文学把城市历史变成了世界文化。",
+          "ja": "ここでは文学が都市の歴史を世界文化へと変えています。",
+          "ko": "여기서 문학은 도시의 역사를 세계 문화로 바꿉니다.",
+          "hi": "यहां साहित्य शहर के इतिहास को विश्व संस्कृति में बदल देता है।",
+          "ar": "هنا تحول الادب تاريخ المدينة الى ثقافة عالمية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Нобелевский комитет особо связывал премию Манна с романом «Будденброки».",
     "de": "Das Nobelkomitee verband Manns Auszeichnung besonders mit dem Roman Buddenbrooks.",
-    "en": "The Nobel Committee especially linked Mann's award with the novel Buddenbrooks."
+    "en": "The Nobel Committee especially linked Mann's award with the novel Buddenbrooks.",
+    "fr": "Le comite Nobel lia particulierement la distinction de Mann au roman Buddenbrooks.",
+    "es": "El Comite Nobel vinculo especialmente el premio de Mann con la novela Buddenbrooks.",
+    "it": "Il Comitato Nobel collego in modo particolare il premio di Mann al romanzo Buddenbrooks.",
+    "pt": "O Comite Nobel associou especialmente o premio de Mann ao romance Buddenbrooks.",
+    "nl": "Het Nobelcomite verbond Manns bekroning vooral met de roman Buddenbrooks.",
+    "pl": "Komitet Noblowski szczegolnie laczyl nagrode Manna z powiescia Buddenbrookowie.",
+    "tr": "Nobel Komitesi Mann'in odulunu ozellikle Buddenbrooks romaniyla iliskilendirdi.",
+    "zh": "诺贝尔委员会特别把曼的获奖与小说《布登勃洛克一家》联系起来。",
+    "ja": "ノーベル委員会は、マンの受賞を特に小説『ブッデンブローク家の人々』と結びつけました。",
+    "ko": "노벨 위원회는 만의 수상을 특히 소설 부덴브로크가와 연결했습니다.",
+    "hi": "नोबेल समिति ने मान के पुरस्कार को विशेष रूप से उपन्यास बुडेनब्रुक्स से जोड़ा।",
+    "ar": "ربطت لجنة نوبل جائزة مان خصوصا برواية بودنبروك."
   },
   "sources": [
     {

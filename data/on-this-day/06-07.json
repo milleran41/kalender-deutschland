@@ -11,17 +11,53 @@
     "title": {
       "ru": "«Нюрнберг» стал чемпионом Германии",
       "de": "Der 1. FC Nuernberg wird Deutscher Meister",
-      "en": "1. FC Nuernberg becomes German champion"
+      "en": "1. FC Nuernberg becomes German champion",
+      "fr": "Le 1. FC Nuernberg devient champion d'Allemagne",
+      "es": "El 1. FC Nuernberg se proclama campeon de Alemania",
+      "it": "Il 1. FC Nuernberg diventa campione di Germania",
+      "pt": "O 1. FC Nuernberg torna-se campeao da Alemanha",
+      "nl": "1. FC Nuernberg wordt Duits kampioen",
+      "pl": "1. FC Nuernberg zostaje mistrzem Niemiec",
+      "tr": "1. FC Nuernberg Almanya sampiyonu olur",
+      "zh": "纽伦堡队成为德国冠军",
+      "ja": "1. FCニュルンベルクがドイツ王者になる",
+      "ko": "1. FC 뉘른베르크가 독일 챔피언이 되다",
+      "hi": "1. FC नूर्नबर्ग जर्मन चैंपियन बना",
+      "ar": "نادي 1. FC نورنبرغ يصبح بطل المانيا"
     },
     "description": {
       "ru": "7 июня 1925 года 1. FC Nürnberg победил FSV Frankfurt в финале чемпионата Германии по футболу со счётом 1:0 после дополнительного времени. Матч прошёл во Франкфуртском Вальдштадионе.",
       "de": "Am 7. Juni 1925 besiegte der 1. FC Nuernberg den FSV Frankfurt im Endspiel um die Deutsche Fussballmeisterschaft mit 1:0 nach Verlaengerung. Das Spiel fand im Frankfurter Waldstadion statt.",
-      "en": "On 7 June 1925, 1. FC Nuernberg defeated FSV Frankfurt 1-0 after extra time in the final of the German football championship. The match was played at Frankfurt's Waldstadion."
+      "en": "On 7 June 1925, 1. FC Nuernberg defeated FSV Frankfurt 1-0 after extra time in the final of the German football championship. The match was played at Frankfurt's Waldstadion.",
+      "fr": "Le 7 juin 1925, le 1. FC Nuernberg battit le FSV Frankfurt 1-0 apres prolongation en finale du championnat d'Allemagne de football. Le match se joua au Waldstadion de Francfort.",
+      "es": "El 7 de junio de 1925, el 1. FC Nuernberg derroto al FSV Frankfurt por 1-0 tras la prorroga en la final del campeonato aleman de futbol. El partido se jugo en el Waldstadion de Frankfurt.",
+      "it": "Il 7 giugno 1925 il 1. FC Nuernberg sconfisse il FSV Frankfurt 1-0 dopo i tempi supplementari nella finale del campionato tedesco di calcio. La partita si gioco al Waldstadion di Francoforte.",
+      "pt": "Em 7 de junho de 1925, o 1. FC Nuernberg venceu o FSV Frankfurt por 1 a 0 apos a prorrogacao na final do campeonato alemao de futebol. A partida foi disputada no Waldstadion de Frankfurt.",
+      "nl": "Op 7 juni 1925 versloeg 1. FC Nuernberg FSV Frankfurt met 1-0 na verlenging in de finale van het Duitse voetbalkampioenschap. De wedstrijd werd gespeeld in het Waldstadion van Frankfurt.",
+      "pl": "7 czerwca 1925 roku 1. FC Nuernberg pokonal FSV Frankfurt 1:0 po dogrywce w finale mistrzostw Niemiec w pilce noznej. Mecz rozegrano na frankfurckim Waldstadion.",
+      "tr": "7 Haziran 1925'te 1. FC Nuernberg, Almanya futbol sampiyonasi finalinde FSV Frankfurt'u uzatmalarin ardindan 1-0 yendi. Mac Frankfurt Waldstadion'da oynandi.",
+      "zh": "1925年6月7日，纽伦堡队在德国足球锦标赛决赛中加时后以1比0击败FSV法兰克福。比赛在法兰克福森林体育场举行。",
+      "ja": "1925年6月7日、1. FCニュルンベルクはドイツサッカー選手権決勝で延長戦の末、FSVフランクフルトを1対0で破りました。試合はフランクフルトのヴァルトシュタディオンで行われました。",
+      "ko": "1925년 6월 7일 1. FC 뉘른베르크는 독일 축구 선수권 결승에서 연장전 끝에 FSV 프랑크푸르트를 1-0으로 이겼습니다. 경기는 프랑크푸르트 발트슈타디온에서 열렸습니다.",
+      "hi": "7 जून 1925 को 1. FC नूर्नबर्ग ने जर्मन फुटबॉल चैंपियनशिप के फाइनल में अतिरिक्त समय के बाद FSV फ्रैंकफर्ट को 1-0 से हराया। मैच फ्रैंकफर्ट के वाल्डस्टाडियन में खेला गया।",
+      "ar": "في 7 يونيو 1925 فاز 1. FC نورنبرغ على FSV فرانكفورت 1-0 بعد الوقت الاضافي في نهائي بطولة المانيا لكرة القدم. اقيمت المباراة في فالدشتاديون في فرانكفورت."
     },
     "importance": {
       "ru": "Дата напоминает, что немецкий футбол имел большую историю ещё до Бундеслиги и современного телевизионного спорта.",
       "de": "Das Datum erinnert daran, dass der deutsche Fussball schon lange vor der Bundesliga und dem modernen Fernsehsport eine grosse Geschichte hatte.",
-      "en": "The date is a reminder that German football had a major history long before the Bundesliga and modern television sport."
+      "en": "The date is a reminder that German football had a major history long before the Bundesliga and modern television sport.",
+      "fr": "Cette date rappelle que le football allemand avait deja une grande histoire bien avant la Bundesliga et le sport televise moderne.",
+      "es": "La fecha recuerda que el futbol aleman ya tenia una gran historia mucho antes de la Bundesliga y del deporte televisado moderno.",
+      "it": "La data ricorda che il calcio tedesco aveva una grande storia molto prima della Bundesliga e dello sport televisivo moderno.",
+      "pt": "A data lembra que o futebol alemao ja tinha uma grande historia muito antes da Bundesliga e do esporte televisivo moderno.",
+      "nl": "De datum herinnert eraan dat het Duitse voetbal al lang voor de Bundesliga en de moderne televisiesport een grote geschiedenis had.",
+      "pl": "Ta data przypomina, ze niemiecka pilka nozna miala wielka historie na dlugo przed Bundesliga i nowoczesnym sportem telewizyjnym.",
+      "tr": "Bu tarih, Alman futbolunun Bundesliga'dan ve modern televizyon sporundan cok once buyuk bir gecmisi oldugunu hatirlatir.",
+      "zh": "这个日期提醒人们，德国足球早在德甲和现代电视体育出现之前就已有重要历史。",
+      "ja": "この日は、ドイツサッカーがブンデスリーガや現代のテレビスポーツよりずっと前から大きな歴史を持っていたことを思い出させます。",
+      "ko": "이 날짜는 독일 축구가 분데스리가와 현대 텔레비전 스포츠보다 훨씬 이전부터 중요한 역사를 가졌음을 떠올리게 합니다.",
+      "hi": "यह तारीख याद दिलाती है कि बुंडेसलीगा और आधुनिक टीवी खेलों से बहुत पहले भी जर्मन फुटबॉल का बड़ा इतिहास था।",
+      "ar": "يذكر هذا التاريخ بان كرة القدم الالمانية كان لها تاريخ كبير قبل البوندسليغا والرياضة التلفزيونية الحديثة بوقت طويل."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Золотые годы «Клуба»",
           "de": "Goldene Jahre des Clubs",
-          "en": "Golden years of Der Club"
+          "en": "Golden years of Der Club",
+          "fr": "Les annees dorees du Club",
+          "es": "Los anos dorados del Club",
+          "it": "Gli anni d'oro del Club",
+          "pt": "Os anos dourados do Club",
+          "nl": "Gouden jaren van Der Club",
+          "pl": "Zlote lata Der Club",
+          "tr": "Der Club'in altin yillari",
+          "zh": "“俱乐部”的黄金年代",
+          "ja": "「クラブ」の黄金時代",
+          "ko": "Der Club의 황금기",
+          "hi": "डेर क्लब के सुनहरे साल",
+          "ar": "السنوات الذهبية للنادي"
         },
         "description": {
           "ru": "В 1920-е годы 1. FC Nürnberg был одной из сильнейших команд Германии. Победа 1925 года стала четвёртым национальным титулом клуба.",
           "de": "In den 1920er Jahren war der 1. FC Nuernberg eine der staerksten Mannschaften Deutschlands. Der Sieg von 1925 war der vierte nationale Titel des Clubs.",
-          "en": "In the 1920s, 1. FC Nuernberg was one of Germany's strongest teams. The 1925 victory was the club's fourth national title."
+          "en": "In the 1920s, 1. FC Nuernberg was one of Germany's strongest teams. The 1925 victory was the club's fourth national title.",
+          "fr": "Dans les annees 1920, le 1. FC Nuernberg etait l'une des equipes les plus fortes d'Allemagne. La victoire de 1925 fut le quatrieme titre national du club.",
+          "es": "En los anos veinte, el 1. FC Nuernberg era uno de los equipos mas fuertes de Alemania. La victoria de 1925 fue el cuarto titulo nacional del club.",
+          "it": "Negli anni Venti il 1. FC Nuernberg era una delle squadre piu forti della Germania. La vittoria del 1925 fu il quarto titolo nazionale del club.",
+          "pt": "Na decada de 1920, o 1. FC Nuernberg era uma das equipes mais fortes da Alemanha. A vitoria de 1925 foi o quarto titulo nacional do clube.",
+          "nl": "In de jaren twintig was 1. FC Nuernberg een van de sterkste ploegen van Duitsland. De overwinning van 1925 was de vierde nationale titel van de club.",
+          "pl": "W latach 20. XX wieku 1. FC Nuernberg byl jedna z najsilniejszych druzyn w Niemczech. Zwyciestwo w 1925 roku bylo czwartym krajowym tytulem klubu.",
+          "tr": "1920'lerde 1. FC Nuernberg Almanya'nin en guclu takimlarindan biriydi. 1925 zaferi kulubun dorduncu ulusal sampiyonluguydu.",
+          "zh": "20世纪20年代，纽伦堡队是德国最强的球队之一。1925年的胜利是该俱乐部第四个全国冠军。",
+          "ja": "1920年代、1. FCニュルンベルクはドイツ最強のチームの一つでした。1925年の勝利はクラブにとって4度目の全国タイトルでした。",
+          "ko": "1920년대 1. FC 뉘른베르크는 독일에서 가장 강한 팀 중 하나였습니다. 1925년의 승리는 클럽의 네 번째 전국 우승이었습니다.",
+          "hi": "1920 के दशक में 1. FC नूर्नबर्ग जर्मनी की सबसे मजबूत टीमों में से एक था। 1925 की जीत क्लब का चौथा राष्ट्रीय खिताब थी।",
+          "ar": "في عشرينيات القرن العشرين كان 1. FC نورنبرغ من اقوى فرق المانيا. كان فوز 1925 اللقب الوطني الرابع للنادي."
         },
         "importance": {
           "ru": "Это помогает увидеть спортивную карту Германии до эпохи «Баварии» как главного символа футбола.",
           "de": "Das hilft, die Sportkarte Deutschlands vor der Zeit des FC Bayern als wichtigstem Fussballsymbol zu sehen.",
-          "en": "It helps show Germany's football map before the era in which Bayern Munich became the dominant symbol."
+          "en": "It helps show Germany's football map before the era in which Bayern Munich became the dominant symbol.",
+          "fr": "Cela aide a voir la carte du football allemand avant l'epoque ou le Bayern Munich devint le symbole dominant.",
+          "es": "Ayuda a ver el mapa futbolistico de Alemania antes de la epoca en que el Bayern de Munich se convirtio en el simbolo dominante.",
+          "it": "Aiuta a vedere la mappa calcistica della Germania prima dell'epoca in cui il Bayern Monaco divenne il simbolo dominante.",
+          "pt": "Isso ajuda a ver o mapa do futebol alemao antes da epoca em que o Bayern de Munique se tornou o simbolo dominante.",
+          "nl": "Het helpt de Duitse voetbalkaart te zien voor de tijd waarin Bayern Muenchen het dominante symbool werd.",
+          "pl": "Pomaga to zobaczyc pilkarska mape Niemiec sprzed epoki, w ktorej Bayern Monachium stal sie dominujacym symbolem.",
+          "tr": "Bu, Bayern Munih'in baskin sembol haline gelmesinden once Almanya'nin futbol haritasini gormeye yardim eder.",
+          "zh": "这有助于看到拜仁慕尼黑成为主导象征之前的德国足球版图。",
+          "ja": "これは、バイエルン・ミュンヘンが支配的な象徴となる以前のドイツサッカー地図を知る助けになります。",
+          "ko": "이는 바이에른 뮌헨이 지배적인 상징이 되기 전 독일 축구 지도를 보여 줍니다.",
+          "hi": "यह बायर्न म्यूनिख के प्रमुख प्रतीक बनने से पहले जर्मनी के फुटबॉल नक्शे को देखने में मदद करता है।",
+          "ar": "يساعد ذلك على رؤية خريطة كرة القدم الالمانية قبل العصر الذي اصبح فيه بايرن ميونخ الرمز المهيمن."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Гол на 108-й минуте",
           "de": "Tor in der 108. Minute",
-          "en": "Goal in the 108th minute"
+          "en": "Goal in the 108th minute",
+          "fr": "But a la 108e minute",
+          "es": "Gol en el minuto 108",
+          "it": "Gol al 108° minuto",
+          "pt": "Gol aos 108 minutos",
+          "nl": "Doelpunt in de 108e minuut",
+          "pl": "Gol w 108. minucie",
+          "tr": "108. dakikada gol",
+          "zh": "第108分钟的进球",
+          "ja": "108分のゴール",
+          "ko": "108분의 골",
+          "hi": "108वें मिनट में गोल",
+          "ar": "هدف في الدقيقة 108"
         },
         "description": {
           "ru": "Единственный гол финала был забит в дополнительное время. Для зрителей это был матч терпения: почти два часа футбола и всего один решающий удар.",
           "de": "Das einzige Tor des Endspiels fiel in der Verlaengerung. Fuer die Zuschauer war es ein Geduldsspiel: fast zwei Stunden Fussball und nur ein entscheidender Treffer.",
-          "en": "The only goal of the final came in extra time. For spectators it was a test of patience: almost two hours of football and just one decisive strike."
+          "en": "The only goal of the final came in extra time. For spectators it was a test of patience: almost two hours of football and just one decisive strike.",
+          "fr": "Le seul but de la finale fut marque pendant la prolongation. Pour les spectateurs, ce fut une epreuve de patience: presque deux heures de football et une seule frappe decisive.",
+          "es": "El unico gol de la final llego en la prorroga. Para los espectadores fue una prueba de paciencia: casi dos horas de futbol y un solo golpe decisivo.",
+          "it": "L'unico gol della finale arrivo nei tempi supplementari. Per gli spettatori fu una prova di pazienza: quasi due ore di calcio e un solo tiro decisivo.",
+          "pt": "O unico gol da final saiu na prorrogacao. Para os espectadores foi um teste de paciencia: quase duas horas de futebol e apenas um lance decisivo.",
+          "nl": "Het enige doelpunt van de finale viel in de verlenging. Voor de toeschouwers was het een geduldstest: bijna twee uur voetbal en slechts een beslissende treffer.",
+          "pl": "Jedyny gol finalu padl w dogrywce. Dla widzow byl to test cierpliwosci: prawie dwie godziny pilki i tylko jedno decydujace uderzenie.",
+          "tr": "Finalin tek golu uzatmalarda geldi. Seyirciler icin bu bir sabir sinaviydi: neredeyse iki saat futbol ve yalnizca bir belirleyici vurus.",
+          "zh": "决赛唯一的进球出现在加时赛。对观众来说，这是一场耐心考验：将近两小时的足球，只有一次决定性射门。",
+          "ja": "決勝唯一のゴールは延長戦で生まれました。観客にとっては忍耐の試合で、ほぼ2時間のサッカーで決定的な一撃は一つだけでした。",
+          "ko": "결승의 유일한 골은 연장전에서 나왔습니다. 관중에게는 거의 두 시간의 축구와 단 한 번의 결정적 슈팅을 기다리는 인내의 경기였습니다.",
+          "hi": "फाइनल का एकमात्र गोल अतिरिक्त समय में हुआ। दर्शकों के लिए यह धैर्य की परीक्षा थी: लगभग दो घंटे का फुटबॉल और सिर्फ एक निर्णायक प्रहार।",
+          "ar": "جاء هدف النهائي الوحيد في الوقت الاضافي. وبالنسبة للجمهور كانت المباراة اختبارا للصبر: قرابة ساعتين من كرة القدم وضربة حاسمة واحدة فقط."
         },
         "importance": {
           "ru": "Такие детали делают старые спортивные даты живыми, а не просто строкой в таблице.",
           "de": "Solche Details machen alte Sportdaten lebendig und nicht nur zu einer Zeile in einer Tabelle.",
-          "en": "Details like this make old sports dates feel alive rather than just a line in a table."
+          "en": "Details like this make old sports dates feel alive rather than just a line in a table.",
+          "fr": "De tels details rendent les anciennes dates sportives vivantes, et pas seulement une ligne dans un tableau.",
+          "es": "Detalles asi hacen que las viejas fechas deportivas parezcan vivas y no solo una linea en una tabla.",
+          "it": "Dettagli come questo rendono vive le vecchie date sportive, non solo una riga in una tabella.",
+          "pt": "Detalhes assim tornam antigas datas esportivas vivas, e nao apenas uma linha em uma tabela.",
+          "nl": "Zulke details maken oude sportdata levendig en niet alleen een regel in een tabel.",
+          "pl": "Takie szczegoly sprawiaja, ze dawne daty sportowe staja sie zywe, a nie tylko linijka w tabeli.",
+          "tr": "Boyle ayrintilar eski spor tarihlerini tabloda bir satirdan ibaret olmaktan cikarip canli hale getirir.",
+          "zh": "这样的细节让旧体育日期变得鲜活，而不只是表格中的一行。",
+          "ja": "こうした細部は、昔のスポーツの日付を単なる表の一行ではなく、生きたものにします。",
+          "ko": "이런 세부 사항은 오래된 스포츠 날짜를 단순한 표의 한 줄이 아니라 생생한 이야기로 만듭니다.",
+          "hi": "ऐसे विवरण पुरानी खेल तारीखों को सिर्फ तालिका की पंक्ति नहीं, बल्कि जीवंत बना देते हैं।",
+          "ar": "مثل هذه التفاصيل تجعل تواريخ الرياضة القديمة حية، لا مجرد سطر في جدول."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Финал 1925 года стал первым крупным общегерманским спортивным событием во Франкфуртском Вальдштадионе.",
     "de": "Das Finale von 1925 war das erste grosse ueberregionale Sportereignis im Frankfurter Waldstadion.",
-    "en": "The 1925 final was the first major national sporting event at Frankfurt's Waldstadion."
+    "en": "The 1925 final was the first major national sporting event at Frankfurt's Waldstadion.",
+    "fr": "La finale de 1925 fut le premier grand evenement sportif national au Waldstadion de Francfort.",
+    "es": "La final de 1925 fue el primer gran acontecimiento deportivo nacional en el Waldstadion de Frankfurt.",
+    "it": "La finale del 1925 fu il primo grande evento sportivo nazionale al Waldstadion di Francoforte.",
+    "pt": "A final de 1925 foi o primeiro grande evento esportivo nacional no Waldstadion de Frankfurt.",
+    "nl": "De finale van 1925 was het eerste grote nationale sportevenement in het Waldstadion van Frankfurt.",
+    "pl": "Final z 1925 roku byl pierwszym duzym ogolnoniemieckim wydarzeniem sportowym na frankfurckim Waldstadion.",
+    "tr": "1925 finali Frankfurt Waldstadion'daki ilk buyuk ulusal spor etkinligiydi.",
+    "zh": "1925年的决赛是法兰克福森林体育场举办的第一个大型全国体育赛事。",
+    "ja": "1925年の決勝は、フランクフルトのヴァルトシュタディオンで行われた最初の大規模な全国スポーツイベントでした。",
+    "ko": "1925년 결승전은 프랑크푸르트 발트슈타디온에서 열린 첫 대규모 전국 스포츠 행사였습니다.",
+    "hi": "1925 का फाइनल फ्रैंकफर्ट के वाल्डस्टाडियन में पहला बड़ा राष्ट्रीय खेल आयोजन था।",
+    "ar": "كان نهائي 1925 اول حدث رياضي وطني كبير في فالدشتاديون في فرانكفورت."
   },
   "sources": [
     {
