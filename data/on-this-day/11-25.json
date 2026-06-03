@@ -11,17 +11,53 @@
     "title": {
       "ru": "Родился Карл Бенц",
       "de": "Carl Benz wird geboren",
-      "en": "Carl Benz is born"
+      "en": "Carl Benz is born",
+      "fr": "Naissance de Carl Benz",
+      "es": "Nace Carl Benz",
+      "it": "Nasce Carl Benz",
+      "pt": "Nasce Carl Benz",
+      "nl": "Carl Benz wordt geboren",
+      "pl": "Urodzil sie Carl Benz",
+      "tr": "Carl Benz doguyor",
+      "zh": "卡尔·本茨出生",
+      "ja": "カール・ベンツが生まれる",
+      "ko": "카를 벤츠가 태어나다",
+      "hi": "कार्ल बेंज़ का जन्म हुआ",
+      "ar": "ولادة كارل بنز"
     },
     "description": {
       "ru": "25 ноября 1844 года в Карлсруэ родился инженер Карл Бенц. Он стал одним из создателей автомобиля с двигателем внутреннего сгорания.",
       "de": "Am 25. November 1844 wurde der Ingenieur Carl Benz in Karlsruhe geboren. Er wurde einer der Schoepfer des Automobils mit Verbrennungsmotor.",
-      "en": "On 25 November 1844, engineer Carl Benz was born in Karlsruhe. He became one of the creators of the automobile with an internal-combustion engine."
+      "en": "On 25 November 1844, engineer Carl Benz was born in Karlsruhe. He became one of the creators of the automobile with an internal-combustion engine.",
+      "fr": "Le 25 novembre 1844, l'ingenieur Carl Benz naquit a Karlsruhe. Il devint l'un des createurs de l'automobile a moteur a combustion interne.",
+      "es": "El 25 de noviembre de 1844 nacio en Karlsruhe el ingeniero Carl Benz. Se convirtio en uno de los creadores del automovil con motor de combustion interna.",
+      "it": "Il 25 novembre 1844 nacque a Karlsruhe l'ingegnere Carl Benz. Divenne uno dei creatori dell'automobile con motore a combustione interna.",
+      "pt": "Em 25 de novembro de 1844 nasceu em Karlsruhe o engenheiro Carl Benz. Ele tornou-se um dos criadores do automovel com motor de combustao interna.",
+      "nl": "Op 25 november 1844 werd ingenieur Carl Benz in Karlsruhe geboren. Hij werd een van de makers van de auto met verbrandingsmotor.",
+      "pl": "25 listopada 1844 roku w Karlsruhe urodzil sie inzynier Carl Benz. Stal sie jednym z tworcow samochodu z silnikiem spalinowym.",
+      "tr": "25 Kasim 1844'te muhendis Carl Benz Karlsruhe'de dogdu. Ic-yanmali motorlu otomobilin yaraticilarindan biri oldu.",
+      "zh": "1844年11月25日，工程师卡尔·本茨出生于卡尔斯鲁厄。他成为内燃机汽车的创造者之一。",
+      "ja": "1844年11月25日、技術者カール・ベンツがカールスルーエで生まれました。彼は内燃機関を備えた自動車の創作者の一人となりました。",
+      "ko": "1844년 11월 25일 엔지니어 카를 벤츠가 카를스루에에서 태어났다. 그는 내연기관 자동차의 창시자 중 한 명이 되었다.",
+      "hi": "25 नवंबर 1844 को इंजीनियर कार्ल बेंज़ का जन्म कार्ल्सरूए में हुआ। वे आंतरिक दहन इंजन वाली कार के निर्माताओं में से एक बने।",
+      "ar": "في 25 نوفمبر 1844 وُلد المهندس كارل بنز في كارلسروه. وأصبح أحد صانعي السيارة ذات محرك الاحتراق الداخلي."
     },
     "importance": {
       "ru": "История Бенца связывает Баден-Вюртемберг с началом мировой автомобильной культуры.",
       "de": "Die Geschichte von Benz verbindet Baden-Wuerttemberg mit dem Beginn der weltweiten Automobilkultur.",
-      "en": "Benz's story links Baden-Wuerttemberg with the beginning of global automobile culture."
+      "en": "Benz's story links Baden-Wuerttemberg with the beginning of global automobile culture.",
+      "fr": "L'histoire de Benz relie le Bade-Wurtemberg aux debuts de la culture automobile mondiale.",
+      "es": "La historia de Benz conecta Baden-Wurtemberg con el comienzo de la cultura automovilistica mundial.",
+      "it": "La storia di Benz collega il Baden-Wuerttemberg all'inizio della cultura automobilistica mondiale.",
+      "pt": "A historia de Benz liga Baden-Wuerttemberg ao inicio da cultura automobilistica mundial.",
+      "nl": "Het verhaal van Benz verbindt Baden-Wuerttemberg met het begin van de wereldwijde autocultuur.",
+      "pl": "Historia Benza laczy Badenie-Wirtembergie z poczatkami swiatowej kultury samochodowej.",
+      "tr": "Benz'in hikayesi Baden-Wuerttemberg'i dunya otomobil kulturunun baslangiciyla birlestirir.",
+      "zh": "本茨的故事把巴登-符腾堡与全球汽车文化的开端联系起来。",
+      "ja": "ベンツの物語は、バーデン＝ヴュルテンベルクを世界の自動車文化の始まりと結びつけています。",
+      "ko": "벤츠의 이야기는 바덴뷔르템베르크를 세계 자동차 문화의 시작과 연결한다.",
+      "hi": "बेंज़ की कहानी बाडेन-वुर्टेमबर्ग को वैश्विक ऑटोमोबाइल संस्कृति की शुरुआत से जोड़ती है।",
+      "ar": "تربط قصة بنز بادن-فورتمبيرغ ببداية ثقافة السيارات العالمية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Патент-моторваген",
           "de": "Patent-Motorwagen",
-          "en": "Patent Motor Car"
+          "en": "Patent Motor Car",
+          "fr": "Voiture brevetee",
+          "es": "Automovil patentado",
+          "it": "Automobile brevettata",
+          "pt": "Automovel patenteado",
+          "nl": "Patent-motorwagen",
+          "pl": "Patent-Motorwagen",
+          "tr": "Patentli motorlu arac",
+          "zh": "专利机动车",
+          "ja": "特許自動車",
+          "ko": "특허 자동차",
+          "hi": "पेटेंट मोटर कार",
+          "ar": "السيارة ذات براءة الاختراع"
         },
         "description": {
           "ru": "В 1886 году Бенц получил патент на свой Motorwagen. Машина выглядела не как современный автомобиль, но стала важным шагом от эксперимента к промышленной технике.",
           "de": "1886 erhielt Benz das Patent fuer seinen Motorwagen. Das Fahrzeug sah nicht wie ein modernes Auto aus, war aber ein wichtiger Schritt vom Experiment zur Industrietechnik.",
-          "en": "In 1886, Benz received a patent for his Motorwagen. It did not look like a modern car, but it was an important step from experiment to industrial technology."
+          "en": "In 1886, Benz received a patent for his Motorwagen. It did not look like a modern car, but it was an important step from experiment to industrial technology.",
+          "fr": "En 1886, Benz obtint un brevet pour son Motorwagen. La machine ne ressemblait pas a une voiture moderne, mais elle fut une etape importante entre l'experience et la technique industrielle.",
+          "es": "En 1886, Benz recibio una patente por su Motorwagen. La maquina no parecia un automovil moderno, pero fue un paso importante del experimento a la tecnica industrial.",
+          "it": "Nel 1886 Benz ottenne un brevetto per il suo Motorwagen. Il veicolo non sembrava un'auto moderna, ma fu un passo importante dall'esperimento alla tecnica industriale.",
+          "pt": "Em 1886, Benz recebeu uma patente para seu Motorwagen. A maquina nao parecia um carro moderno, mas foi um passo importante do experimento para a tecnica industrial.",
+          "nl": "In 1886 kreeg Benz een patent voor zijn Motorwagen. Het voertuig leek niet op een moderne auto, maar was een belangrijke stap van experiment naar industriele techniek.",
+          "pl": "W 1886 roku Benz otrzymal patent na swoj Motorwagen. Pojazd nie wygladal jak wspolczesny samochod, ale byl waznym krokiem od eksperymentu do techniki przemyslowej.",
+          "tr": "1886'da Benz, Motorwagen'i icin patent aldi. Arac modern bir otomobile benzemiyordu, ama deneyden sanayi teknolojisine geciste onemli bir adimdi.",
+          "zh": "1886年，本茨为自己的Motorwagen获得专利。这辆车看起来不像现代汽车，但它是从实验走向工业技术的重要一步。",
+          "ja": "1886年、ベンツは自分のMotorwagenの特許を取得しました。その車は現代の自動車のようには見えませんでしたが、実験から産業技術への重要な一歩でした。",
+          "ko": "1886년 벤츠는 자신의 Motorwagen에 대한 특허를 받았다. 그 차는 현대 자동차처럼 보이지 않았지만, 실험에서 산업 기술로 가는 중요한 단계였다.",
+          "hi": "1886 में बेंज़ ने अपने Motorwagen के लिए पेटेंट प्राप्त किया। यह मशीन आधुनिक कार जैसी नहीं दिखती थी, लेकिन प्रयोग से औद्योगिक तकनीक तक एक महत्वपूर्ण कदम थी।",
+          "ar": "في عام 1886 حصل بنز على براءة اختراع لسيارته Motorwagen. لم تكن الآلة تشبه السيارة الحديثة، لكنها كانت خطوة مهمة من التجربة إلى التقنية الصناعية."
         },
         "importance": {
           "ru": "Автомобиль стал одной из самых заметных немецких технологий XIX и XX веков.",
           "de": "Das Automobil wurde zu einer der sichtbarsten deutschen Technologien des 19. und 20. Jahrhunderts.",
-          "en": "The automobile became one of the most visible German technologies of the 19th and 20th centuries."
+          "en": "The automobile became one of the most visible German technologies of the 19th and 20th centuries.",
+          "fr": "L'automobile devint l'une des technologies allemandes les plus visibles des XIXe et XXe siecles.",
+          "es": "El automovil se convirtio en una de las tecnologias alemanas mas visibles de los siglos XIX y XX.",
+          "it": "L'automobile divenne una delle tecnologie tedesche piu visibili del XIX e XX secolo.",
+          "pt": "O automovel tornou-se uma das tecnologias alemas mais visiveis dos seculos XIX e XX.",
+          "nl": "De auto werd een van de meest zichtbare Duitse technologieen van de negentiende en twintigste eeuw.",
+          "pl": "Samochod stal sie jedna z najbardziej widocznych niemieckich technologii XIX i XX wieku.",
+          "tr": "Otomobil, 19. ve 20. yuzyillarin en gorunur Alman teknolojilerinden biri oldu.",
+          "zh": "汽车成为19世纪和20世纪最显眼的德国技术之一。",
+          "ja": "自動車は、19世紀と20世紀の最も目に見えるドイツ技術の一つとなりました。",
+          "ko": "자동차는 19세기와 20세기의 가장 눈에 띄는 독일 기술 중 하나가 되었다.",
+          "hi": "ऑटोमोबाइल उन्नीसवीं और बीसवीं सदी की सबसे प्रमुख जर्मन तकनीकों में से एक बन गया।",
+          "ar": "أصبحت السيارة إحدى أبرز التقنيات الألمانية في القرنين التاسع عشر والعشرين."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Поездка Берты Бенц",
           "de": "Die Fahrt von Bertha Benz",
-          "en": "Bertha Benz's drive"
+          "en": "Bertha Benz's drive",
+          "fr": "Le voyage de Bertha Benz",
+          "es": "El viaje de Bertha Benz",
+          "it": "Il viaggio di Bertha Benz",
+          "pt": "A viagem de Bertha Benz",
+          "nl": "De rit van Bertha Benz",
+          "pl": "Podroz Berthy Benz",
+          "tr": "Bertha Benz'in yolculugu",
+          "zh": "贝尔塔·本茨的旅程",
+          "ja": "ベルタ・ベンツの走行",
+          "ko": "베르타 벤츠의 주행",
+          "hi": "बर्था बेंज़ की यात्रा",
+          "ar": "رحلة بيرتا بنز"
         },
         "description": {
           "ru": "Берта Бенц совершила дальнюю поездку на автомобиле мужа и фактически устроила ему громкую рекламу. По пути приходилось чинить машину подручными средствами.",
           "de": "Bertha Benz unternahm eine Fernfahrt mit dem Auto ihres Mannes und machte damit praktisch Werbung. Unterwegs musste sie das Fahrzeug mit einfachen Mitteln reparieren.",
-          "en": "Bertha Benz made a long-distance drive in her husband's car and effectively gave it major publicity. Along the way, she had to repair the vehicle with simple tools."
+          "en": "Bertha Benz made a long-distance drive in her husband's car and effectively gave it major publicity. Along the way, she had to repair the vehicle with simple tools.",
+          "fr": "Bertha Benz fit un long trajet avec la voiture de son mari et lui donna en pratique une grande publicite. En chemin, elle dut reparer le vehicule avec des moyens simples.",
+          "es": "Bertha Benz hizo un largo viaje en el coche de su marido y practicamente le dio gran publicidad. En el camino tuvo que reparar el vehiculo con medios sencillos.",
+          "it": "Bertha Benz fece un lungo viaggio con l'auto del marito e in pratica le diede grande pubblicita. Lungo la strada dovette riparare il veicolo con mezzi semplici.",
+          "pt": "Bertha Benz fez uma viagem longa no carro do marido e praticamente lhe deu grande publicidade. No caminho, precisou consertar o veiculo com meios simples.",
+          "nl": "Bertha Benz maakte een lange rit met de auto van haar man en gaf die daarmee in feite grote publiciteit. Onderweg moest ze het voertuig met eenvoudige middelen repareren.",
+          "pl": "Bertha Benz odbyla daleka podroz samochodem meza i w praktyce zrobila mu glosna reklame. Po drodze musiala naprawiac pojazd prostymi srodkami.",
+          "tr": "Bertha Benz, kocasinin arabasiyla uzun bir yolculuk yapti ve aslinda ona buyuk reklam sagladi. Yol boyunca araci basit araclarla tamir etmek zorunda kaldi.",
+          "zh": "贝尔塔·本茨驾驶丈夫的汽车完成了一次长途旅行，实际上为它做了很大的宣传。途中，她不得不用简单工具修理车辆。",
+          "ja": "ベルタ・ベンツは夫の車で長距離走行を行い、実質的に大きな宣伝をしました。道中では、簡単な道具で車を修理しなければなりませんでした。",
+          "ko": "베르타 벤츠는 남편의 차로 장거리 주행을 했고 사실상 큰 홍보 효과를 냈다. 길에서 그녀는 간단한 도구로 차를 고쳐야 했다.",
+          "hi": "बर्था बेंज़ ने अपने पति की कार से लंबी दूरी की यात्रा की और असल में उसे बड़ी प्रसिद्धि दिलाई। रास्ते में उन्हें साधारण साधनों से वाहन की मरम्मत करनी पड़ी।",
+          "ar": "قامت بيرتا بنز برحلة طويلة بسيارة زوجها، ووفرت لها عمليا دعاية كبيرة. وفي الطريق اضطرت إلى إصلاح المركبة بوسائل بسيطة."
         },
         "importance": {
           "ru": "Это один из самых живых эпизодов ранней автомобильной истории.",
           "de": "Das ist eine der lebendigsten Episoden der fruehen Automobilgeschichte.",
-          "en": "It is one of the liveliest episodes in early automobile history."
+          "en": "It is one of the liveliest episodes in early automobile history.",
+          "fr": "C'est l'un des episodes les plus vivants des debuts de l'histoire automobile.",
+          "es": "Es uno de los episodios mas vivos de la historia temprana del automovil.",
+          "it": "E uno degli episodi piu vivaci della prima storia dell'automobile.",
+          "pt": "E um dos episodios mais vivos do inicio da historia do automovel.",
+          "nl": "Het is een van de levendigste episodes uit de vroege autogeschiedenis.",
+          "pl": "To jeden z najbardziej zywych epizodow wczesnej historii motoryzacji.",
+          "tr": "Bu, erken otomobil tarihinin en canli bolumlerinden biridir.",
+          "zh": "这是早期汽车史中最生动的片段之一。",
+          "ja": "これは初期の自動車史で最も生き生きとしたエピソードの一つです。",
+          "ko": "이는 초기 자동차 역사에서 가장 생생한 일화 중 하나이다.",
+          "hi": "यह शुरुआती ऑटोमोबाइल इतिहास की सबसे जीवंत घटनाओं में से एक है।",
+          "ar": "إنها من أكثر حلقات تاريخ السيارات المبكر حيوية."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Маршрут Берты Бенц сегодня можно пройти как туристический путь в Баден-Вюртемберге.",
     "de": "Die Route von Bertha Benz kann man heute als touristische Strecke in Baden-Wuerttemberg erleben.",
-    "en": "Bertha Benz's route can now be followed as a tourist route in Baden-Wuerttemberg."
+    "en": "Bertha Benz's route can now be followed as a tourist route in Baden-Wuerttemberg.",
+    "fr": "L'itineraire de Bertha Benz peut aujourd'hui etre suivi comme route touristique dans le Bade-Wurtemberg.",
+    "es": "La ruta de Bertha Benz se puede recorrer hoy como ruta turistica en Baden-Wurtemberg.",
+    "it": "Il percorso di Bertha Benz oggi puo essere seguito come itinerario turistico nel Baden-Wuerttemberg.",
+    "pt": "A rota de Bertha Benz hoje pode ser seguida como percurso turistico em Baden-Wuerttemberg.",
+    "nl": "De route van Bertha Benz kan tegenwoordig als toeristische route in Baden-Wuerttemberg worden gevolgd.",
+    "pl": "Trase Berthy Benz mozna dzis przejsc jako szlak turystyczny w Badenii-Wirtembergii.",
+    "tr": "Bertha Benz'in rotasi bugun Baden-Wuerttemberg'de turistik bir guzergah olarak izlenebilir.",
+    "zh": "如今，贝尔塔·本茨的路线可以作为巴登-符腾堡的一条旅游路线追随。",
+    "ja": "ベルタ・ベンツのルートは、今日バーデン＝ヴュルテンベルクの観光ルートとしてたどることができます。",
+    "ko": "베르타 벤츠의 경로는 오늘날 바덴뷔르템베르크의 관광 코스로 따라갈 수 있다.",
+    "hi": "बर्था बेंज़ का मार्ग आज बाडेन-वुर्टेमबर्ग में पर्यटन मार्ग के रूप में देखा जा सकता है।",
+    "ar": "يمكن اليوم تتبع مسار بيرتا بنز كطريق سياحي في بادن-فورتمبيرغ."
   },
   "sources": [
     {

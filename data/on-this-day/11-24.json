@@ -11,17 +11,53 @@
     "title": {
       "ru": "Карлу фон Осецкому присуждена Нобелевская премия мира",
       "de": "Carl von Ossietzky erhaelt den Friedensnobelpreis",
-      "en": "Carl von Ossietzky is awarded the Nobel Peace Prize"
+      "en": "Carl von Ossietzky is awarded the Nobel Peace Prize",
+      "fr": "Carl von Ossietzky recoit le prix Nobel de la paix",
+      "es": "Carl von Ossietzky recibe el Premio Nobel de la Paz",
+      "it": "Carl von Ossietzky riceve il Premio Nobel per la pace",
+      "pt": "Carl von Ossietzky recebe o Premio Nobel da Paz",
+      "nl": "Carl von Ossietzky krijgt de Nobelprijs voor de Vrede",
+      "pl": "Carl von Ossietzky otrzymuje Pokojowa Nagrode Nobla",
+      "tr": "Carl von Ossietzky Nobel Baris Odulu'nu aliyor",
+      "zh": "卡尔·冯·奥西茨基获诺贝尔和平奖",
+      "ja": "カール・フォン・オシエツキーがノーベル平和賞を受ける",
+      "ko": "카를 폰 오시에츠키가 노벨 평화상을 받다",
+      "hi": "कार्ल फॉन ओसिएत्स्की को नोबेल शांति पुरस्कार मिला",
+      "ar": "كارل فون أوسيتسكي يحصل على جائزة نوبل للسلام"
     },
     "description": {
       "ru": "24 ноября 1936 года Нобелевский комитет объявил о присуждении премии мира немецкому пацифисту Карлу фон Осецкому. В это время он уже был тяжело болен после нацистского преследования и заключения.",
       "de": "Am 24. November 1936 gab das Nobelkomitee die Verleihung des Friedensnobelpreises an den deutschen Pazifisten Carl von Ossietzky bekannt. Er war damals nach NS-Verfolgung und Haft bereits schwer krank.",
-      "en": "On 24 November 1936, the Nobel Committee announced the Peace Prize for German pacifist Carl von Ossietzky. By then, after Nazi persecution and imprisonment, he was already gravely ill."
+      "en": "On 24 November 1936, the Nobel Committee announced the Peace Prize for German pacifist Carl von Ossietzky. By then, after Nazi persecution and imprisonment, he was already gravely ill.",
+      "fr": "Le 24 novembre 1936, le Comite Nobel annonca l'attribution du prix de la paix au pacifiste allemand Carl von Ossietzky. A ce moment-la, apres la persecution nazie et la prison, il etait deja gravement malade.",
+      "es": "El 24 de noviembre de 1936, el Comite Nobel anuncio el Premio de la Paz para el pacifista aleman Carl von Ossietzky. Para entonces, tras la persecucion nazi y la carcel, ya estaba gravemente enfermo.",
+      "it": "Il 24 novembre 1936 il Comitato Nobel annuncio il premio per la pace al pacifista tedesco Carl von Ossietzky. A quel punto, dopo la persecuzione nazista e la prigionia, era gia gravemente malato.",
+      "pt": "Em 24 de novembro de 1936, o Comite Nobel anunciou o Premio da Paz para o pacifista alemao Carl von Ossietzky. A essa altura, depois da perseguicao nazista e da prisao, ele ja estava gravemente doente.",
+      "nl": "Op 24 november 1936 maakte het Nobelcomite de Vredesprijs voor de Duitse pacifist Carl von Ossietzky bekend. Tegen die tijd was hij na nazi-vervolging en gevangenschap al ernstig ziek.",
+      "pl": "24 listopada 1936 roku Komitet Noblowski oglosil Pokojowa Nagrode Nobla dla niemieckiego pacyfisty Carla von Ossietzky'ego. Wtedy, po nazistowskich przesladowaniach i uwiezieniu, byl juz ciezko chory.",
+      "tr": "24 Kasim 1936'da Nobel Komitesi, Alman pasifist Carl von Ossietzky'ye Baris Odulu verildigini acikladi. O zamana kadar Nazi baskisi ve hapis sonrasi agir hastaydi.",
+      "zh": "1936年11月24日，诺贝尔委员会宣布把和平奖授予德国和平主义者卡尔·冯·奥西茨基。那时，他在纳粹迫害和监禁之后已经病重。",
+      "ja": "1936年11月24日、ノーベル委員会はドイツの平和主義者カール・フォン・オシエツキーへの平和賞授与を発表しました。その時、ナチスの迫害と投獄の後、彼はすでに重い病気でした。",
+      "ko": "1936년 11월 24일 노벨위원회는 독일 평화주의자 카를 폰 오시에츠키에게 평화상을 수여한다고 발표했다. 그때 그는 나치의 박해와 투옥 뒤 이미 중병에 걸려 있었다.",
+      "hi": "24 नवंबर 1936 को नोबेल समिति ने जर्मन शांतिवादी कार्ल फॉन ओसिएत्स्की को शांति पुरस्कार देने की घोषणा की। तब तक नाजी उत्पीड़न और कैद के बाद वह गंभीर रूप से बीमार हो चुके थे।",
+      "ar": "في 24 نوفمبر 1936 أعلنت لجنة نوبل منح جائزة السلام للداعي الألماني إلى السلام كارل فون أوسيتسكي. وكان حينها، بعد الاضطهاد النازي والسجن، مريضا بشدة بالفعل."
     },
     "importance": {
       "ru": "Премия стала международным сигналом поддержки свободы слова и противников диктатуры.",
       "de": "Der Preis wurde zu einem internationalen Signal der Unterstuetzung fuer Meinungsfreiheit und Gegner der Diktatur.",
-      "en": "The prize became an international signal of support for free speech and opponents of dictatorship."
+      "en": "The prize became an international signal of support for free speech and opponents of dictatorship.",
+      "fr": "Le prix devint un signal international de soutien a la liberte d'expression et aux adversaires de la dictature.",
+      "es": "El premio se convirtio en una senal internacional de apoyo a la libertad de expresion y a los opositores de la dictadura.",
+      "it": "Il premio divenne un segnale internazionale di sostegno alla liberta di parola e agli oppositori della dittatura.",
+      "pt": "O premio tornou-se um sinal internacional de apoio a liberdade de expressao e aos opositores da ditadura.",
+      "nl": "De prijs werd een internationaal signaal van steun voor vrije meningsuiting en tegenstanders van dictatuur.",
+      "pl": "Nagroda stala sie miedzynarodowym sygnalem poparcia dla wolnosci slowa i przeciwnikow dyktatury.",
+      "tr": "Odul, ifade ozgurlugune ve diktatorluk karsitlarina verilen uluslararasi destegin isareti oldu.",
+      "zh": "这个奖项成为支持言论自由和反对独裁者的国际信号。",
+      "ja": "この賞は、言論の自由と独裁に反対する人々への国際的な支持の合図となりました。",
+      "ko": "이 상은 표현의 자유와 독재 반대자들에 대한 국제적 지지의 신호가 되었다.",
+      "hi": "यह पुरस्कार अभिव्यक्ति की स्वतंत्रता और तानाशाही के विरोधियों के समर्थन का अंतरराष्ट्रीय संकेत बन गया।",
+      "ar": "أصبحت الجائزة إشارة دولية لدعم حرية التعبير ومعارضي الدكتاتورية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Пацифист против милитаризма",
           "de": "Pazifist gegen Militarismus",
-          "en": "A pacifist against militarism"
+          "en": "A pacifist against militarism",
+          "fr": "Un pacifiste contre le militarisme",
+          "es": "Un pacifista contra el militarismo",
+          "it": "Un pacifista contro il militarismo",
+          "pt": "Um pacifista contra o militarismo",
+          "nl": "Een pacifist tegen militarisme",
+          "pl": "Pacyfista przeciw militaryzmowi",
+          "tr": "Militarizme karsi bir pasifist",
+          "zh": "反对军国主义的和平主义者",
+          "ja": "軍国主義に反対した平和主義者",
+          "ko": "군국주의에 맞선 평화주의자",
+          "hi": "सैन्यवाद के विरुद्ध शांतिवादी",
+          "ar": "داعية سلام ضد العسكرة"
         },
         "description": {
           "ru": "Осецкий критиковал тайное перевооружение Германии ещё до прихода нацистов к власти. За это он стал символом смелой журналистики.",
           "de": "Ossietzky kritisierte die geheime Wiederaufruestung Deutschlands schon vor der NS-Machtuebernahme. Dadurch wurde er zu einem Symbol mutigen Journalismus.",
-          "en": "Ossietzky criticized Germany's secret rearmament even before the Nazis took power. He became a symbol of courageous journalism."
+          "en": "Ossietzky criticized Germany's secret rearmament even before the Nazis took power. He became a symbol of courageous journalism.",
+          "fr": "Ossietzky critiqua le rearmement secret de l'Allemagne avant meme l'arrivee des nazis au pouvoir. Il devint ainsi un symbole du journalisme courageux.",
+          "es": "Ossietzky critico el rearme secreto de Alemania incluso antes de que los nazis llegaran al poder. Por ello se convirtio en simbolo de un periodismo valiente.",
+          "it": "Ossietzky critico il riarmo segreto della Germania gia prima dell'arrivo dei nazisti al potere. Per questo divenne un simbolo di giornalismo coraggioso.",
+          "pt": "Ossietzky criticou o rearmamento secreto da Alemanha ainda antes de os nazistas chegarem ao poder. Por isso tornou-se simbolo de jornalismo corajoso.",
+          "nl": "Ossietzky bekritiseerde de geheime herbewapening van Duitsland al voordat de nazi's aan de macht kwamen. Daardoor werd hij een symbool van moedige journalistiek.",
+          "pl": "Ossietzky krytykowal tajne przezbrajanie Niemiec jeszcze przed przejeciem wladzy przez nazistow. Dzieki temu stal sie symbolem odwaznego dziennikarstwa.",
+          "tr": "Ossietzky, Naziler iktidara gelmeden once bile Almanya'nin gizli yeniden silahlanmasini elestirdi. Bu nedenle cesur gazeteciligin simgesi oldu.",
+          "zh": "奥西茨基甚至在纳粹掌权之前就批评德国秘密重新武装。因此，他成为勇敢新闻工作的象征。",
+          "ja": "オシエツキーは、ナチスが権力を握る前からドイツの秘密再軍備を批判していました。そのため、彼は勇気あるジャーナリズムの象徴となりました。",
+          "ko": "오시에츠키는 나치가 권력을 잡기 전부터 독일의 비밀 재무장을 비판했다. 그로 인해 그는 용기 있는 언론의 상징이 되었다.",
+          "hi": "ओसिएत्स्की ने नाजियों के सत्ता में आने से पहले ही जर्मनी के गुप्त पुनःशस्त्रीकरण की आलोचना की। इसी कारण वे साहसी पत्रकारिता के प्रतीक बने।",
+          "ar": "انتقد أوسيتسكي إعادة تسليح ألمانيا السرية حتى قبل وصول النازيين إلى السلطة. وبذلك أصبح رمزا للصحافة الشجاعة."
         },
         "importance": {
           "ru": "Его история показывает цену правды в авторитарной политике.",
           "de": "Seine Geschichte zeigt den Preis der Wahrheit in autoritaerer Politik.",
-          "en": "His story shows the price of truth under authoritarian politics."
+          "en": "His story shows the price of truth under authoritarian politics.",
+          "fr": "Son histoire montre le prix de la verite dans une politique autoritaire.",
+          "es": "Su historia muestra el precio de la verdad bajo una politica autoritaria.",
+          "it": "La sua storia mostra il prezzo della verita nella politica autoritaria.",
+          "pt": "Sua historia mostra o preco da verdade sob uma politica autoritaria.",
+          "nl": "Zijn verhaal laat de prijs van waarheid onder autoritaire politiek zien.",
+          "pl": "Jego historia pokazuje cene prawdy w polityce autorytarnej.",
+          "tr": "Onun hikayesi, otoriter siyasette gercegin bedelini gosterir.",
+          "zh": "他的故事说明了威权政治中真相的代价。",
+          "ja": "彼の物語は、権威主義的な政治の下で真実が払う代償を示しています。",
+          "ko": "그의 이야기는 권위주의 정치 아래 진실의 대가를 보여 준다.",
+          "hi": "उनकी कहानी अधिनायकवादी राजनीति में सच की कीमत दिखाती है।",
+          "ar": "تظهر قصته ثمن الحقيقة في السياسة الاستبدادية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "После дела Осецкого нацистское руководство запретило немцам принимать Нобелевские премии.",
     "de": "Nach dem Fall Ossietzky verbot die NS-Fuehrung Deutschen die Annahme von Nobelpreisen.",
-    "en": "After the Ossietzky case, the Nazi leadership forbade Germans from accepting Nobel Prizes."
+    "en": "After the Ossietzky case, the Nazi leadership forbade Germans from accepting Nobel Prizes.",
+    "fr": "Apres l'affaire Ossietzky, la direction nazie interdit aux Allemands d'accepter des prix Nobel.",
+    "es": "Despues del caso Ossietzky, la direccion nazi prohibio a los alemanes aceptar premios Nobel.",
+    "it": "Dopo il caso Ossietzky, la dirigenza nazista vieto ai tedeschi di accettare premi Nobel.",
+    "pt": "Depois do caso Ossietzky, a lideranca nazista proibiu os alemaes de aceitar premios Nobel.",
+    "nl": "Na de zaak Ossietzky verbood de nazi-leiding Duitsers Nobelprijzen aan te nemen.",
+    "pl": "Po sprawie Ossietzky'ego nazistowskie kierownictwo zakazalo Niemcom przyjmowania Nagrod Nobla.",
+    "tr": "Ossietzky davasindan sonra Nazi liderligi Almanlarin Nobel Odulleri kabul etmesini yasakladi.",
+    "zh": "奥西茨基事件之后，纳粹领导层禁止德国人接受诺贝尔奖。",
+    "ja": "オシエツキー事件の後、ナチ指導部はドイツ人がノーベル賞を受け取ることを禁じました。",
+    "ko": "오시에츠키 사건 이후 나치 지도부는 독일인이 노벨상을 받는 것을 금지했다.",
+    "hi": "ओसिएत्स्की मामले के बाद नाजी नेतृत्व ने जर्मनों को नोबेल पुरस्कार स्वीकार करने से मना कर दिया।",
+    "ar": "بعد قضية أوسيتسكي منعت القيادة النازية الألمان من قبول جوائز نوبل."
   },
   "sources": [
     {
