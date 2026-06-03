@@ -11,17 +11,53 @@
     "title": {
       "ru": "День немецкого единства",
       "de": "Tag der Deutschen Einheit",
-      "en": "German Unity Day"
+      "en": "German Unity Day",
+      "fr": "Jour de l'Unite allemande",
+      "es": "Dia de la Unidad Alemana",
+      "it": "Giorno dell'Unita tedesca",
+      "pt": "Dia da Unidade Alema",
+      "nl": "Dag van de Duitse Eenheid",
+      "pl": "Dzien Jednosci Niemiec",
+      "tr": "Alman Birligi Gunu",
+      "zh": "德国统一日",
+      "ja": "ドイツ統一の日",
+      "ko": "독일 통일의 날",
+      "hi": "जर्मन एकता दिवस",
+      "ar": "يوم الوحدة الالمانية"
     },
     "description": {
       "ru": "3 октября 1990 года ГДР присоединилась к сфере действия Основного закона ФРГ. Германия снова стала единым государством.",
       "de": "Am 3. Oktober 1990 trat die DDR dem Geltungsbereich des Grundgesetzes der Bundesrepublik bei. Deutschland wurde wieder ein einheitlicher Staat.",
-      "en": "On 3 October 1990, East Germany joined the area of application of the Federal Republic's Basic Law. Germany became a single state again."
+      "en": "On 3 October 1990, East Germany joined the area of application of the Federal Republic's Basic Law. Germany became a single state again.",
+      "fr": "Le 3 octobre 1990, la RDA entra dans le champ d'application de la Loi fondamentale de la Republique federale. L'Allemagne redevint un Etat unique.",
+      "es": "El 3 de octubre de 1990, la RDA se incorporo al ambito de aplicacion de la Ley Fundamental de la Republica Federal. Alemania volvio a ser un solo Estado.",
+      "it": "Il 3 ottobre 1990 la DDR entro nell'ambito di applicazione della Legge fondamentale della Repubblica Federale. La Germania torno a essere uno Stato unico.",
+      "pt": "Em 3 de outubro de 1990, a RDA entrou na area de aplicacao da Lei Fundamental da Republica Federal. A Alemanha voltou a ser um unico Estado.",
+      "nl": "Op 3 oktober 1990 trad de DDR toe tot het toepassingsgebied van de Basiswet van de Bondsrepubliek. Duitsland werd opnieuw een eenheidsstaat.",
+      "pl": "3 pazdziernika 1990 roku NRD przystapila do obszaru obowiazywania Ustawy Zasadniczej RFN. Niemcy ponownie staly sie jednym panstwem.",
+      "tr": "3 Ekim 1990'da DDR, Federal Cumhuriyet'in Temel Yasasi'nin uygulama alanina katildi. Almanya yeniden tek bir devlet oldu.",
+      "zh": "1990年10月3日，东德加入德意志联邦共和国《基本法》的适用范围。德国再次成为一个统一国家。",
+      "ja": "1990年10月3日、東ドイツは連邦共和国基本法の適用範囲に加わりました。ドイツは再び一つの国家になりました。",
+      "ko": "1990년 10월 3일, 동독은 독일연방공화국 기본법의 적용 영역에 편입되었다. 독일은 다시 하나의 국가가 되었다.",
+      "hi": "3 अक्टूबर 1990 को पूर्वी जर्मनी संघीय गणराज्य के मूल कानून के लागू क्षेत्र में शामिल हुआ। जर्मनी फिर से एक राज्य बन गया।",
+      "ar": "في 3 اكتوبر 1990 انضمت المانيا الشرقية الى نطاق تطبيق القانون الاساسي للجمهورية الاتحادية. واصبحت المانيا دولة واحدة مرة اخرى."
     },
     "importance": {
       "ru": "Это главный государственный праздник современной Германии.",
       "de": "Das ist der wichtigste Nationalfeiertag des heutigen Deutschlands.",
-      "en": "It is the main national holiday of modern Germany."
+      "en": "It is the main national holiday of modern Germany.",
+      "fr": "C'est la principale fete nationale de l'Allemagne actuelle.",
+      "es": "Es la principal fiesta nacional de la Alemania moderna.",
+      "it": "E la principale festa nazionale della Germania moderna.",
+      "pt": "E o principal feriado nacional da Alemanha moderna.",
+      "nl": "Het is de belangrijkste nationale feestdag van het huidige Duitsland.",
+      "pl": "To najwazniejsze swieto panstwowe wspolczesnych Niemiec.",
+      "tr": "Modern Almanya'nin baslica ulusal bayramidir.",
+      "zh": "这是现代德国最重要的国家节日。",
+      "ja": "これは現代ドイツの主要な国民の祝日です。",
+      "ko": "이는 현대 독일의 가장 중요한 국경일이다.",
+      "hi": "यह आधुनिक जर्मनी का मुख्य राष्ट्रीय अवकाश है।",
+      "ar": "انه العيد الوطني الرئيسي في المانيا الحديثة."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Первый общегерманский Бундестаг после разделения",
           "de": "Erster gesamtdeutscher Bundestag nach der Teilung",
-          "en": "First all-German Bundestag after division"
+          "en": "First all-German Bundestag after division",
+          "fr": "Premier Bundestag de toute l'Allemagne apres la division",
+          "es": "Primer Bundestag de toda Alemania tras la division",
+          "it": "Primo Bundestag di tutta la Germania dopo la divisione",
+          "pt": "Primeiro Bundestag de toda a Alemanha apos a divisao",
+          "nl": "Eerste geheel Duitse Bondsdag na de deling",
+          "pl": "Pierwszy ogolnoniemiecki Bundestag po podziale",
+          "tr": "Bolunmeden sonra ilk tum Alman Bundestagi",
+          "zh": "分裂后首个全德联邦议院",
+          "ja": "分断後初の全ドイツ連邦議会",
+          "ko": "분단 이후 첫 전독일 연방의회",
+          "hi": "विभाजन के बाद पहला सर्व-जर्मन बुंडेस्टाग",
+          "ar": "اول بوندستاغ لكل المانيا بعد الانقسام"
         },
         "description": {
           "ru": "В день единства депутаты из восточных земель вошли в Бундестаг. Это символически завершило парламентское разделение страны.",
           "de": "Am Tag der Einheit zogen Abgeordnete aus den ostdeutschen Laendern in den Bundestag ein. Damit endete symbolisch die parlamentarische Teilung des Landes.",
-          "en": "On Unity Day, deputies from the eastern states joined the Bundestag. This symbolically ended the country's parliamentary division."
+          "en": "On Unity Day, deputies from the eastern states joined the Bundestag. This symbolically ended the country's parliamentary division.",
+          "fr": "Le jour de l'Unite, des deputes des Länder de l'Est entrerent au Bundestag. Cela mit symboliquement fin à la division parlementaire du pays.",
+          "es": "En el Dia de la Unidad, diputados de los estados orientales se incorporaron al Bundestag. Esto puso fin simbolicamente a la division parlamentaria del pais.",
+          "it": "Nel Giorno dell'Unita, deputati dei Länder orientali entrarono nel Bundestag. Questo concluse simbolicamente la divisione parlamentare del paese.",
+          "pt": "No Dia da Unidade, deputados dos estados orientais entraram no Bundestag. Isso encerrou simbolicamente a divisao parlamentar do pais.",
+          "nl": "Op de Dag van de Eenheid traden afgevaardigden uit de oostelijke deelstaten toe tot de Bondsdag. Daarmee eindigde symbolisch de parlementaire deling van het land.",
+          "pl": "W Dzien Jednosci deputowani ze wschodnich landow weszli do Bundestagu. Symbolicznie zakonczylo to parlamentarny podzial kraju.",
+          "tr": "Birlik Gunu'nde dogu eyaletlerinden milletvekilleri Bundestag'a katildi. Bu, ulkenin parlamenter bolunmesini sembolik olarak sona erdirdi.",
+          "zh": "统一日当天，来自东部各州的议员进入联邦议院。这象征性地结束了国家的议会分裂。",
+          "ja": "統一の日に、東部諸州の議員が連邦議会に加わりました。これにより、国の議会上の分断は象徴的に終わりました。",
+          "ko": "통일의 날, 동부 주 출신 의원들이 연방의회에 합류했다. 이는 나라의 의회적 분단을 상징적으로 끝냈다.",
+          "hi": "एकता दिवस पर पूर्वी राज्यों के सांसद बुंडेस्टाग में शामिल हुए। इससे देश का संसदीय विभाजन प्रतीकात्मक रूप से समाप्त हुआ।",
+          "ar": "في يوم الوحدة انضم نواب من الولايات الشرقية الى البوندستاغ. وبذلك انتهى رمزيا الانقسام البرلماني للبلاد."
         },
         "importance": {
           "ru": "Событие показывает, что воссоединение было не только эмоциональным, но и юридическим процессом.",
           "de": "Das Ereignis zeigt, dass die Wiedervereinigung nicht nur emotional, sondern auch rechtlich-politisch war.",
-          "en": "The event shows that reunification was not only emotional but also a legal and political process."
+          "en": "The event shows that reunification was not only emotional but also a legal and political process.",
+          "fr": "L'evenement montre que la reunification fut non seulement emotionnelle, mais aussi juridique et politique.",
+          "es": "El acontecimiento muestra que la reunificacion no fue solo emocional, sino tambien un proceso juridico y politico.",
+          "it": "L'evento mostra che la riunificazione non fu solo emotiva, ma anche un processo giuridico e politico.",
+          "pt": "O evento mostra que a reunificacao nao foi apenas emocional, mas tambem um processo juridico e politico.",
+          "nl": "De gebeurtenis laat zien dat hereniging niet alleen emotioneel was, maar ook een juridisch en politiek proces.",
+          "pl": "Wydarzenie pokazuje, ze zjednoczenie bylo nie tylko emocjonalne, lecz takze prawno-polityczne.",
+          "tr": "Olay, yeniden birlesmenin yalnizca duygusal degil, hukuki ve siyasi bir surec oldugunu gosterir.",
+          "zh": "这一事件表明，统一不仅是情感事件，也是法律和政治过程。",
+          "ja": "この出来事は、再統一が感情的なものだけでなく、法的・政治的な過程でもあったことを示しています。",
+          "ko": "이 사건은 재통일이 감정적인 일일 뿐 아니라 법적, 정치적 과정이었음을 보여준다.",
+          "hi": "यह घटना दिखाती है कि पुनर्एकीकरण केवल भावनात्मक नहीं, बल्कि कानूनी और राजनीतिक प्रक्रिया भी था।",
+          "ar": "يبين الحدث ان اعادة التوحيد لم تكن عاطفية فقط، بل كانت ايضا عملية قانونية وسياسية."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "До 1990 года в ФРГ Днём немецкого единства было 17 июня, в память о восстании в ГДР 1953 года.",
     "de": "Bis 1990 war in der Bundesrepublik der 17. Juni der Tag der deutschen Einheit, zur Erinnerung an den DDR-Aufstand von 1953.",
-    "en": "Until 1990, West Germany marked German Unity Day on 17 June, in memory of the 1953 uprising in East Germany."
+    "en": "Until 1990, West Germany marked German Unity Day on 17 June, in memory of the 1953 uprising in East Germany.",
+    "fr": "Jusqu'en 1990, la RFA celebrait le Jour de l'Unite allemande le 17 juin, en memoire du soulevement de 1953 en RDA.",
+    "es": "Hasta 1990, Alemania Occidental celebraba el Dia de la Unidad Alemana el 17 de junio, en memoria del levantamiento de 1953 en la RDA.",
+    "it": "Fino al 1990, la Germania Ovest celebrava il Giorno dell'Unita tedesca il 17 giugno, in memoria della rivolta del 1953 nella DDR.",
+    "pt": "Ate 1990, a Alemanha Ocidental celebrava o Dia da Unidade Alema em 17 de junho, em memoria do levante de 1953 na RDA.",
+    "nl": "Tot 1990 herdacht West-Duitsland de Dag van de Duitse Eenheid op 17 juni, ter herinnering aan de opstand van 1953 in de DDR.",
+    "pl": "Do 1990 roku w RFN Dniem Jednosci Niemiec byl 17 czerwca, na pamiatke powstania w NRD w 1953 roku.",
+    "tr": "1990'a kadar Bati Almanya, 1953'te Dogu Almanya'daki ayaklanmanin anisina Alman Birligi Gunu'nu 17 Haziran'da kutluyordu.",
+    "zh": "直到1990年，西德都把6月17日作为德国统一日，以纪念1953年东德起义。",
+    "ja": "1990年まで、西ドイツでは1953年の東ドイツ蜂起を記念して、6月17日がドイツ統一の日とされていました。",
+    "ko": "1990년까지 서독은 1953년 동독 봉기를 기념하여 6월 17일을 독일 통일의 날로 삼았다.",
+    "hi": "1990 तक पश्चिम जर्मनी में 17 जून को जर्मन एकता दिवस मनाया जाता था, 1953 के पूर्वी जर्मन विद्रोह की स्मृति में।",
+    "ar": "حتى عام 1990 كانت المانيا الغربية تحتفل بيوم الوحدة الالمانية في 17 يونيو، تخليدا لانتفاضة عام 1953 في المانيا الشرقية."
   },
   "sources": [
     {

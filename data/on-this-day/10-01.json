@@ -11,17 +11,53 @@
     "title": {
       "ru": "Вынесены приговоры Нюрнбергского процесса",
       "de": "Die Urteile im Nuernberger Prozess werden verkuendet",
-      "en": "The Nuremberg Trial verdicts are delivered"
+      "en": "The Nuremberg Trial verdicts are delivered",
+      "fr": "Les verdicts du proces de Nuremberg sont rendus",
+      "es": "Se dictan las sentencias del juicio de Nuremberg",
+      "it": "Vengono emesse le sentenze del processo di Norimberga",
+      "pt": "Sao pronunciadas as sentencas do Julgamento de Nuremberg",
+      "nl": "De vonnissen van het Neurenbergproces worden uitgesproken",
+      "pl": "Ogloszono wyroki procesu norymberskiego",
+      "tr": "Nurnberg Davasi kararlari aciklandi",
+      "zh": "纽伦堡审判作出判决",
+      "ja": "ニュルンベルク裁判の判決が言い渡される",
+      "ko": "뉘른베르크 재판 판결이 내려지다",
+      "hi": "नूर्नबर्ग मुकदमे के फैसले सुनाए गए",
+      "ar": "صدور احكام محاكمات نورمبرغ"
     },
     "description": {
       "ru": "1 октября 1946 года Международный военный трибунал в Нюрнберге вынес приговоры главным нацистским преступникам. Процесс стал важным шагом в развитии международного уголовного права.",
       "de": "Am 1. Oktober 1946 verkuendete der Internationale Militaergerichtshof in Nuernberg die Urteile gegen fuehrende NS-Verbrecher. Der Prozess wurde ein wichtiger Schritt fuer das internationale Strafrecht.",
-      "en": "On 1 October 1946, the International Military Tribunal at Nuremberg delivered verdicts against major Nazi criminals. The trial became an important step in international criminal law."
+      "en": "On 1 October 1946, the International Military Tribunal at Nuremberg delivered verdicts against major Nazi criminals. The trial became an important step in international criminal law.",
+      "fr": "Le 1er octobre 1946, le Tribunal militaire international de Nuremberg rendit ses verdicts contre les principaux criminels nazis. Le proces devint une etape importante du droit penal international.",
+      "es": "El 1 de octubre de 1946, el Tribunal Militar Internacional de Nuremberg dicto sentencias contra los principales criminales nazis. El juicio se convirtio en un paso importante para el derecho penal internacional.",
+      "it": "Il 1 ottobre 1946 il Tribunale militare internazionale di Norimberga emise le sentenze contro i principali criminali nazisti. Il processo divenne un passo importante per il diritto penale internazionale.",
+      "pt": "Em 1 de outubro de 1946, o Tribunal Militar Internacional em Nuremberg pronunciou sentencas contra importantes criminosos nazistas. O julgamento tornou-se um passo importante no direito penal internacional.",
+      "nl": "Op 1 oktober 1946 sprak het Internationaal Militair Tribunaal in Neurenberg vonnissen uit tegen belangrijke nazi-misdadigers. Het proces werd een belangrijke stap in het internationaal strafrecht.",
+      "pl": "1 pazdziernika 1946 roku Miedzynarodowy Trybunal Wojskowy w Norymberdze oglosil wyroki wobec glownych zbrodniarzy nazistowskich. Proces stal sie waznym krokiem w rozwoju miedzynarodowego prawa karnego.",
+      "tr": "1 Ekim 1946'da Nurnberg'deki Uluslararasi Askeri Mahkeme, baslica Nazi suclulari hakkinda kararlarini acikladi. Dava, uluslararasi ceza hukuku icin onemli bir adim oldu.",
+      "zh": "1946年10月1日，纽伦堡国际军事法庭对主要纳粹罪犯作出判决。该审判成为国际刑法发展的重要一步。",
+      "ja": "1946年10月1日、ニュルンベルクの国際軍事裁判所は主要なナチ犯罪者に判決を言い渡しました。この裁判は国際刑事法の発展における重要な一歩となりました。",
+      "ko": "1946년 10월 1일, 뉘른베르크 국제군사재판소는 주요 나치 범죄자들에게 판결을 내렸다. 이 재판은 국제 형사법 발전의 중요한 단계가 되었다.",
+      "hi": "1 अक्टूबर 1946 को नूर्नबर्ग में अंतरराष्ट्रीय सैन्य न्यायाधिकरण ने प्रमुख नाजी अपराधियों के विरुद्ध फैसले सुनाए। यह मुकदमा अंतरराष्ट्रीय आपराधिक कानून के विकास में महत्वपूर्ण कदम बना।",
+      "ar": "في 1 اكتوبر 1946 اصدرت المحكمة العسكرية الدولية في نورمبرغ احكامها ضد كبار المجرمين النازيين. واصبحت المحاكمة خطوة مهمة في تطور القانون الجنائي الدولي."
     },
     "importance": {
       "ru": "Нюрнберг показал, что государственные лидеры могут нести личную ответственность за преступления.",
       "de": "Nuernberg zeigte, dass Staatsfuehrer persoenlich fuer Verbrechen verantwortlich gemacht werden koennen.",
-      "en": "Nuremberg showed that state leaders can be held personally responsible for crimes."
+      "en": "Nuremberg showed that state leaders can be held personally responsible for crimes.",
+      "fr": "Nuremberg montra que les dirigeants d'Etat peuvent etre tenus personnellement responsables de crimes.",
+      "es": "Nuremberg mostro que los lideres estatales pueden ser considerados personalmente responsables de crimenes.",
+      "it": "Norimberga mostro che i leader statali possono essere ritenuti personalmente responsabili dei crimini.",
+      "pt": "Nuremberg mostrou que lideres de Estado podem ser responsabilizados pessoalmente por crimes.",
+      "nl": "Neurenberg liet zien dat staatsleiders persoonlijk verantwoordelijk kunnen worden gehouden voor misdaden.",
+      "pl": "Norymberga pokazala, ze przywodcy panstw moga ponosic osobista odpowiedzialnosc za zbrodnie.",
+      "tr": "Nurnberg, devlet liderlerinin suclardan kisisel olarak sorumlu tutulabilecegini gosterdi.",
+      "zh": "纽伦堡表明，国家领导人可以因犯罪承担个人责任。",
+      "ja": "ニュルンベルクは、国家指導者も犯罪について個人として責任を問われ得ることを示しました。",
+      "ko": "뉘른베르크는 국가 지도자들도 범죄에 대해 개인적 책임을 질 수 있음을 보여주었다.",
+      "hi": "नूर्नबर्ग ने दिखाया कि राज्य नेता अपराधों के लिए व्यक्तिगत रूप से जिम्मेदार ठहराए जा सकते हैं।",
+      "ar": "اظهرت نورمبرغ ان قادة الدول يمكن ان يتحملوا مسؤولية شخصية عن الجرائم."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Право после катастрофы",
           "de": "Recht nach der Katastrophe",
-          "en": "Law after catastrophe"
+          "en": "Law after catastrophe",
+          "fr": "Le droit apres la catastrophe",
+          "es": "Derecho despues de la catastrofe",
+          "it": "Diritto dopo la catastrofe",
+          "pt": "Direito depois da catastrofe",
+          "nl": "Recht na de catastrofe",
+          "pl": "Prawo po katastrofie",
+          "tr": "Felaketten sonra hukuk",
+          "zh": "灾难之后的法律",
+          "ja": "破局の後の法",
+          "ko": "재앙 이후의 법",
+          "hi": "विनाश के बाद कानून",
+          "ar": "القانون بعد الكارثة"
         },
         "description": {
           "ru": "Процесс ввёл в широкое употребление понятия преступлений против человечности и агрессивной войны. Его наследие важно до сих пор.",
           "de": "Der Prozess praegte Begriffe wie Verbrechen gegen die Menschlichkeit und Angriffskrieg. Sein Erbe ist bis heute wichtig.",
-          "en": "The trial shaped terms such as crimes against humanity and aggressive war. Its legacy remains important today."
+          "en": "The trial shaped terms such as crimes against humanity and aggressive war. Its legacy remains important today.",
+          "fr": "Le proces imposa des notions comme les crimes contre l'humanite et la guerre d'agression. Son heritage reste important aujourd'hui.",
+          "es": "El juicio dio forma a conceptos como crimenes contra la humanidad y guerra de agresion. Su legado sigue siendo importante hoy.",
+          "it": "Il processo rese centrali concetti come crimini contro l'umanita e guerra di aggressione. La sua eredita resta importante ancora oggi.",
+          "pt": "O julgamento consolidou termos como crimes contra a humanidade e guerra de agressao. Seu legado continua importante ate hoje.",
+          "nl": "Het proces gaf vorm aan begrippen als misdaden tegen de menselijkheid en agressieoorlog. De erfenis ervan blijft tot vandaag belangrijk.",
+          "pl": "Proces uksztaltowal pojecia takie jak zbrodnie przeciw ludzkosci i wojna napastnicza. Jego dziedzictwo pozostaje wazne do dzis.",
+          "tr": "Dava, insanliga karsi suclar ve saldirgan savas gibi kavramlari sekillendirdi. Mirasi bugun de onemini koruyor.",
+          "zh": "这场审判确立并传播了反人类罪和侵略战争等概念。它的遗产至今仍很重要。",
+          "ja": "この裁判は、人道に対する罪や侵略戦争といった概念を形づくりました。その遺産は今日でも重要です。",
+          "ko": "이 재판은 반인도 범죄와 침략 전쟁 같은 개념을 형성했다. 그 유산은 오늘날에도 중요하다.",
+          "hi": "इस मुकदमे ने मानवता के विरुद्ध अपराध और आक्रामक युद्ध जैसे शब्दों को आकार दिया। इसकी विरासत आज भी महत्वपूर्ण है।",
+          "ar": "رسخت المحاكمة مفاهيم مثل الجرائم ضد الانسانية وحرب العدوان. وما زال ارثها مهما حتى اليوم."
         },
         "importance": {
           "ru": "Дата показывает, что память нуждается не только в словах, но и в правосудии.",
           "de": "Das Datum zeigt, dass Erinnerung nicht nur Worte, sondern auch Recht braucht.",
-          "en": "The date shows that remembrance needs not only words but justice."
+          "en": "The date shows that remembrance needs not only words but justice.",
+          "fr": "Cette date montre que la memoire a besoin non seulement de mots, mais aussi de justice.",
+          "es": "La fecha muestra que la memoria necesita no solo palabras, sino tambien justicia.",
+          "it": "La data mostra che la memoria ha bisogno non solo di parole, ma anche di giustizia.",
+          "pt": "A data mostra que a memoria precisa nao apenas de palavras, mas tambem de justica.",
+          "nl": "De datum laat zien dat herinnering niet alleen woorden nodig heeft, maar ook rechtvaardigheid.",
+          "pl": "Ta data pokazuje, ze pamiec potrzebuje nie tylko slow, lecz takze sprawiedliwosci.",
+          "tr": "Bu tarih, hafizanin yalnizca sozlere degil adalete de ihtiyaci oldugunu gosterir.",
+          "zh": "这一日期表明，记忆不仅需要语言，也需要正义。",
+          "ja": "この日は、記憶には言葉だけでなく正義も必要であることを示しています。",
+          "ko": "이 날짜는 기억에는 말뿐 아니라 정의도 필요하다는 것을 보여준다.",
+          "hi": "यह तारीख दिखाती है कि स्मृति को केवल शब्दों की नहीं, न्याय की भी आवश्यकता होती है।",
+          "ar": "يبين هذا التاريخ ان الذاكرة لا تحتاج الى الكلمات فقط، بل الى العدالة ايضا."
         }
       }
     ],
@@ -53,17 +125,53 @@
         "title": {
           "ru": "Штеффи Граф завершила «золотой шлем»",
           "de": "Steffi Graf vollendet den Golden Slam",
-          "en": "Steffi Graf completes the Golden Slam"
+          "en": "Steffi Graf completes the Golden Slam",
+          "fr": "Steffi Graf acheve le Golden Slam",
+          "es": "Steffi Graf completa el Golden Slam",
+          "it": "Steffi Graf completa il Golden Slam",
+          "pt": "Steffi Graf completa o Golden Slam",
+          "nl": "Steffi Graf voltooit de Golden Slam",
+          "pl": "Steffi Graf zdobywa Golden Slam",
+          "tr": "Steffi Graf Golden Slam'i tamamladi",
+          "zh": "施特菲·格拉芙完成金满贯",
+          "ja": "シュテフィ・グラフがゴールデンスラムを達成",
+          "ko": "슈테피 그라프가 골든 슬램을 완성하다",
+          "hi": "स्टेफी ग्राफ ने गोल्डन स्लैम पूरा किया",
+          "ar": "شتيفي غراف تكمل الغولدن سلام"
         },
         "description": {
           "ru": "1 октября 1988 года немецкая теннисистка Штеффи Граф выиграла олимпийское золото в Сеуле. В том же году она победила на всех четырёх турнирах Большого шлема.",
           "de": "Am 1. Oktober 1988 gewann die deutsche Tennisspielerin Steffi Graf olympisches Gold in Seoul. Im selben Jahr hatte sie alle vier Grand-Slam-Turniere gewonnen.",
-          "en": "On 1 October 1988, German tennis player Steffi Graf won Olympic gold in Seoul. In the same year, she had won all four Grand Slam tournaments."
+          "en": "On 1 October 1988, German tennis player Steffi Graf won Olympic gold in Seoul. In the same year, she had won all four Grand Slam tournaments.",
+          "fr": "Le 1er octobre 1988, la joueuse de tennis allemande Steffi Graf remporta l'or olympique à Seoul. La meme annee, elle avait gagne les quatre tournois du Grand Chelem.",
+          "es": "El 1 de octubre de 1988, la tenista alemana Steffi Graf gano el oro olimpico en Seul. Ese mismo ano habia ganado los cuatro torneos de Grand Slam.",
+          "it": "Il 1 ottobre 1988 la tennista tedesca Steffi Graf vinse l'oro olimpico a Seoul. Nello stesso anno aveva vinto tutti e quattro i tornei del Grande Slam.",
+          "pt": "Em 1 de outubro de 1988, a tenista alema Steffi Graf ganhou o ouro olimpico em Seul. No mesmo ano, ela havia vencido os quatro torneios do Grand Slam.",
+          "nl": "Op 1 oktober 1988 won de Duitse tennisster Steffi Graf olympisch goud in Seoel. In hetzelfde jaar had ze alle vier grandslamtoernooien gewonnen.",
+          "pl": "1 pazdziernika 1988 roku niemiecka tenisistka Steffi Graf zdobyla zloto olimpijskie w Seulu. W tym samym roku wygrala wszystkie cztery turnieje Wielkiego Szlema.",
+          "tr": "1 Ekim 1988'de Alman tenisci Steffi Graf Seul'de olimpiyat altini kazandi. Ayni yil dort Grand Slam turnuvasinin tamamini da kazanmisti.",
+          "zh": "1988年10月1日，德国网球运动员施特菲·格拉芙在首尔赢得奥运金牌。同年，她已经赢得四项大满贯赛事。",
+          "ja": "1988年10月1日、ドイツのテニス選手シュテフィ・グラフはソウルでオリンピック金メダルを獲得しました。同じ年、彼女は四大大会すべてを制していました。",
+          "ko": "1988년 10월 1일, 독일 테니스 선수 슈테피 그라프가 서울에서 올림픽 금메달을 땄다. 같은 해 그녀는 네 개의 그랜드슬램 대회를 모두 우승했다.",
+          "hi": "1 अक्टूबर 1988 को जर्मन टेनिस खिलाड़ी स्टेफी ग्राफ ने सियोल में ओलंपिक स्वर्ण जीता। उसी वर्ष उन्होंने चारों ग्रैंड स्लैम टूर्नामेंट जीते थे।",
+          "ar": "في 1 اكتوبر 1988 فازت لاعبة التنس الالمانية شتيفي غراف بذهبية اولمبية في سيول. وفي العام نفسه كانت قد فازت بكل بطولات الغراند سلام الاربع."
         },
         "importance": {
           "ru": "Это одно из самых редких достижений в истории тенниса.",
           "de": "Das ist eine der seltensten Leistungen in der Geschichte des Tennis.",
-          "en": "It is one of the rarest achievements in tennis history."
+          "en": "It is one of the rarest achievements in tennis history.",
+          "fr": "C'est l'un des exploits les plus rares de l'histoire du tennis.",
+          "es": "Es uno de los logros mas raros de la historia del tenis.",
+          "it": "E una delle imprese piu rare nella storia del tennis.",
+          "pt": "E uma das conquistas mais raras da historia do tenis.",
+          "nl": "Het is een van de zeldzaamste prestaties in de tennisgeschiedenis.",
+          "pl": "To jedno z najrzadszych osiagniec w historii tenisa.",
+          "tr": "Tenis tarihinin en nadir basarilarindan biridir.",
+          "zh": "这是网球史上最罕见的成就之一。",
+          "ja": "これはテニス史上でも最も珍しい偉業の一つです。",
+          "ko": "이는 테니스 역사상 가장 드문 업적 중 하나다.",
+          "hi": "यह टेनिस इतिहास की सबसे दुर्लभ उपलब्धियों में से एक है।",
+          "ar": "انه احد اندر الانجازات في تاريخ التنس."
         }
       }
     ]
@@ -71,7 +179,19 @@
   "fact": {
     "ru": "Нюрнберг был выбран в том числе из-за символической связи города с нацистскими партийными съездами.",
     "de": "Nuernberg wurde auch wegen der symbolischen Verbindung der Stadt mit NS-Parteitagen gewaehlt.",
-    "en": "Nuremberg was chosen partly because of the city's symbolic link with Nazi party rallies."
+    "en": "Nuremberg was chosen partly because of the city's symbolic link with Nazi party rallies.",
+    "fr": "Nuremberg fut choisi en partie en raison du lien symbolique de la ville avec les congres du parti nazi.",
+    "es": "Nuremberg fue elegido en parte por el vinculo simbolico de la ciudad con los congresos del partido nazi.",
+    "it": "Norimberga fu scelta anche per il legame simbolico della citta con i raduni del partito nazista.",
+    "pt": "Nuremberg foi escolhida em parte pela ligacao simbolica da cidade com os congressos do partido nazista.",
+    "nl": "Neurenberg werd deels gekozen vanwege de symbolische band van de stad met de nazi-partijdagen.",
+    "pl": "Norymberge wybrano miedzy innymi z powodu symbolicznego zwiazku miasta ze zjazdami partii nazistowskiej.",
+    "tr": "Nurnberg, kentin Nazi parti mitingleriyle sembolik baglantisi nedeniyle de secildi.",
+    "zh": "纽伦堡被选中，部分原因是这座城市与纳粹党代会有象征性联系。",
+    "ja": "ニュルンベルクが選ばれた理由の一つは、この都市がナチ党大会と象徴的に結びついていたことでした。",
+    "ko": "뉘른베르크가 선택된 이유 중 하나는 이 도시가 나치 당대회와 상징적으로 연결되어 있었기 때문이다.",
+    "hi": "नूर्नबर्ग को आंशिक रूप से इसलिए चुना गया क्योंकि शहर का नाजी पार्टी सम्मेलनों से प्रतीकात्मक संबंध था।",
+    "ar": "اختيرت نورمبرغ جزئيا بسبب الصلة الرمزية للمدينة بتجمعات الحزب النازي."
   },
   "sources": [
     {

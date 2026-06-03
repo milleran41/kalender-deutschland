@@ -11,17 +11,53 @@
     "title": {
       "ru": "В Лейпциге прошла крупная понедельничная демонстрация",
       "de": "In Leipzig findet eine grosse Montagsdemonstration statt",
-      "en": "A large Monday demonstration takes place in Leipzig"
+      "en": "A large Monday demonstration takes place in Leipzig",
+      "fr": "Une grande manifestation du lundi a lieu à Leipzig",
+      "es": "Tiene lugar una gran manifestacion de lunes en Leipzig",
+      "it": "A Lipsia si svolge una grande manifestazione del lunedi",
+      "pt": "Uma grande manifestacao de segunda-feira acontece em Leipzig",
+      "nl": "In Leipzig vindt een grote maandagdemonstratie plaats",
+      "pl": "W Lipsku odbywa sie duza demonstracja poniedzialkowa",
+      "tr": "Leipzig'de buyuk bir Pazartesi gosterisi yapildi",
+      "zh": "莱比锡举行大型星期一示威",
+      "ja": "ライプツィヒで大規模な月曜デモが行われる",
+      "ko": "라이프치히에서 대규모 월요 시위가 열리다",
+      "hi": "लाइपज़िग में बड़ी सोमवार प्रदर्शन रैली हुई",
+      "ar": "مظاهرة اثنين كبيرة في لايبزيغ"
     },
     "description": {
       "ru": "2 октября 1989 года после молитв за мир в Лейпциге на улицы вышли тысячи людей. Демонстрации становились всё смелее и приближали мирную революцию в ГДР.",
       "de": "Am 2. Oktober 1989 gingen nach den Friedensgebeten in Leipzig Tausende Menschen auf die Strasse. Die Demonstrationen wurden immer mutiger und fuehrten die friedliche Revolution in der DDR voran.",
-      "en": "On 2 October 1989, thousands of people took to the streets in Leipzig after the prayers for peace. The demonstrations grew bolder and helped move forward the Peaceful Revolution in East Germany."
+      "en": "On 2 October 1989, thousands of people took to the streets in Leipzig after the prayers for peace. The demonstrations grew bolder and helped move forward the Peaceful Revolution in East Germany.",
+      "fr": "Le 2 octobre 1989, apres les prieres pour la paix à Leipzig, des milliers de personnes descendirent dans la rue. Les manifestations devinrent de plus en plus courageuses et firent avancer la revolution pacifique en RDA.",
+      "es": "El 2 de octubre de 1989, despues de las oraciones por la paz en Leipzig, miles de personas salieron a la calle. Las manifestaciones se volvieron cada vez mas valientes y empujaron la revolucion pacifica en la RDA.",
+      "it": "Il 2 ottobre 1989, dopo le preghiere per la pace a Lipsia, migliaia di persone scesero in strada. Le manifestazioni divennero sempre piu coraggiose e portarono avanti la rivoluzione pacifica nella DDR.",
+      "pt": "Em 2 de outubro de 1989, depois das oracoes pela paz em Leipzig, milhares de pessoas foram as ruas. As manifestacoes tornaram-se cada vez mais corajosas e impulsionaram a revolucao pacifica na RDA.",
+      "nl": "Op 2 oktober 1989 gingen na de vredesgebeden in Leipzig duizenden mensen de straat op. De demonstraties werden steeds moediger en hielpen de vreedzame revolutie in de DDR vooruit.",
+      "pl": "2 pazdziernika 1989 roku po modlitwach o pokoj w Lipsku tysiace ludzi wyszly na ulice. Demonstracje stawaly sie coraz odwazniejsze i przyblizaly pokojowa rewolucje w NRD.",
+      "tr": "2 Ekim 1989'da Leipzig'deki baris dualarindan sonra binlerce insan sokaklara cikti. Gosteriler giderek cesaretlendi ve DDR'deki Bariscil Devrimi ileri tasidi.",
+      "zh": "1989年10月2日，莱比锡和平祈祷后，数千人走上街头。示威越来越勇敢，推动了东德的和平革命。",
+      "ja": "1989年10月2日、ライプツィヒでの平和祈祷の後、数千人が街頭に出ました。デモはますます大胆になり、東ドイツの平和革命を前進させました。",
+      "ko": "1989년 10월 2일, 라이프치히의 평화 기도 이후 수천 명이 거리로 나섰다. 시위는 점점 더 대담해졌고 동독의 평화혁명을 앞으로 이끌었다.",
+      "hi": "2 अक्टूबर 1989 को लाइपज़िग में शांति प्रार्थनाओं के बाद हजारों लोग सड़कों पर उतरे। प्रदर्शन और साहसी होते गए और पूर्वी जर्मनी की शांतिपूर्ण क्रांति को आगे बढ़ाया।",
+      "ar": "في 2 اكتوبر 1989 خرج الاف الناس الى الشوارع في لايبزيغ بعد صلوات السلام. واصبحت المظاهرات اكثر جرأة وساعدت على دفع الثورة السلمية في المانيا الشرقية."
     },
     "importance": {
       "ru": "Дата показывает, что падение стены началось не в один вечер, а через недели гражданского мужества.",
       "de": "Das Datum zeigt, dass der Mauerfall nicht an einem Abend begann, sondern durch Wochen von Zivilcourage.",
-      "en": "The date shows that the fall of the Wall did not begin in a single evening, but through weeks of civil courage."
+      "en": "The date shows that the fall of the Wall did not begin in a single evening, but through weeks of civil courage.",
+      "fr": "Cette date montre que la chute du Mur n'a pas commence en une seule soiree, mais apres des semaines de courage civique.",
+      "es": "La fecha muestra que la caida del Muro no empezo en una sola noche, sino tras semanas de valor civico.",
+      "it": "La data mostra che la caduta del Muro non comincio in una sola sera, ma attraverso settimane di coraggio civile.",
+      "pt": "A data mostra que a queda do Muro nao comecou em uma unica noite, mas apos semanas de coragem civica.",
+      "nl": "De datum laat zien dat de val van de Muur niet op een enkele avond begon, maar door weken van burgerlijke moed.",
+      "pl": "Ta data pokazuje, ze upadek muru nie zaczal sie jednego wieczoru, lecz przez tygodnie obywatelskiej odwagi.",
+      "tr": "Bu tarih, Duvar'in yikilisinin tek bir aksamda degil, haftalarca suren sivil cesaretle basladigini gosterir.",
+      "zh": "这一日期表明，柏林墙的倒塌并非始于一个夜晚，而是来自数周的公民勇气。",
+      "ja": "この日は、壁の崩壊が一夜で始まったのではなく、数週間にわたる市民の勇気によって進んだことを示しています。",
+      "ko": "이 날짜는 장벽 붕괴가 어느 한 저녁에 시작된 것이 아니라 몇 주간의 시민적 용기를 통해 시작되었음을 보여준다.",
+      "hi": "यह तारीख दिखाती है कि दीवार का गिरना एक शाम में शुरू नहीं हुआ, बल्कि नागरिक साहस के कई सप्ताहों से हुआ।",
+      "ar": "يبين هذا التاريخ ان سقوط الجدار لم يبدأ في مساء واحد، بل عبر اسابيع من الشجاعة المدنية."
     }
   },
   "categories": {
@@ -32,17 +68,53 @@
         "title": {
           "ru": "Неделя перед решающим понедельником",
           "de": "Die Woche vor dem entscheidenden Montag",
-          "en": "The week before the decisive Monday"
+          "en": "The week before the decisive Monday",
+          "fr": "La semaine avant le lundi decisif",
+          "es": "La semana antes del lunes decisivo",
+          "it": "La settimana prima del lunedi decisivo",
+          "pt": "A semana antes da segunda-feira decisiva",
+          "nl": "De week voor de beslissende maandag",
+          "pl": "Tydzien przed decydujacym poniedzialkiem",
+          "tr": "Belirleyici Pazartesi'den onceki hafta",
+          "zh": "决定性星期一前的一周",
+          "ja": "決定的な月曜日の前の一週間",
+          "ko": "결정적 월요일 전의 한 주",
+          "hi": "निर्णायक सोमवार से पहले का सप्ताह",
+          "ar": "الاسبوع قبل الاثنين الحاسم"
         },
         "description": {
           "ru": "Через неделю, 9 октября, в Лейпциге вышли десятки тысяч людей, и насилие не произошло. Но напряжение росло уже 2 октября, когда власти внимательно следили за протестами.",
           "de": "Eine Woche spaeter, am 9. Oktober, gingen in Leipzig Zehntausende auf die Strasse, ohne dass Gewalt ausbrach. Doch schon am 2. Oktober wuchs die Spannung, und die Behoerden beobachteten die Proteste genau.",
-          "en": "One week later, on 9 October, tens of thousands marched in Leipzig without violence breaking out. But tension was already rising on 2 October, as authorities closely watched the protests."
+          "en": "One week later, on 9 October, tens of thousands marched in Leipzig without violence breaking out. But tension was already rising on 2 October, as authorities closely watched the protests.",
+          "fr": "Une semaine plus tard, le 9 octobre, des dizaines de milliers de personnes manifesterent à Leipzig sans que la violence n'eclate. Mais la tension montait deja le 2 octobre, lorsque les autorites surveillaient de pres les protestations.",
+          "es": "Una semana despues, el 9 de octubre, decenas de miles marcharon en Leipzig sin que estallara la violencia. Pero la tension ya aumentaba el 2 de octubre, cuando las autoridades vigilaban de cerca las protestas.",
+          "it": "Una settimana dopo, il 9 ottobre, decine di migliaia di persone marciarono a Lipsia senza che scoppiasse la violenza. Ma la tensione cresceva gia il 2 ottobre, mentre le autorita osservavano da vicino le proteste.",
+          "pt": "Uma semana depois, em 9 de outubro, dezenas de milhares marcharam em Leipzig sem que a violencia explodisse. Mas a tensao ja crescia em 2 de outubro, quando as autoridades observavam os protestos de perto.",
+          "nl": "Een week later, op 9 oktober, gingen tienduizenden mensen in Leipzig de straat op zonder dat geweld uitbrak. Maar de spanning liep al op 2 oktober op, toen de autoriteiten de protesten nauwlettend volgden.",
+          "pl": "Tydzien pozniej, 9 pazdziernika, w Lipsku dziesiatki tysiecy ludzi wyszly na ulice i nie doszlo do przemocy. Ale napiecie roslo juz 2 pazdziernika, gdy wladze uwaznie obserwowaly protesty.",
+          "tr": "Bir hafta sonra, 9 Ekim'de Leipzig'de on binlerce kisi siddet cikmadan yurudu. Ancak 2 Ekim'de, yetkililer protestolari yakindan izlerken gerilim zaten artiyordu.",
+          "zh": "一周后的10月9日，数万人在莱比锡游行，没有爆发暴力。但在10月2日，当局密切注视抗议时，紧张气氛已经在上升。",
+          "ja": "一週間後の10月9日、ライプツィヒでは数万人が行進しましたが、暴力は起こりませんでした。しかし10月2日には、当局が抗議を注意深く監視する中で緊張がすでに高まっていました。",
+          "ko": "일주일 뒤인 10월 9일, 라이프치히에서는 수만 명이 거리로 나섰지만 폭력은 발생하지 않았다. 그러나 10월 2일 이미 당국이 시위를 면밀히 지켜보는 가운데 긴장은 높아지고 있었다.",
+          "hi": "एक सप्ताह बाद, 9 अक्टूबर को, लाइपज़िग में दसियों हजार लोग निकले और हिंसा नहीं हुई। लेकिन 2 अक्टूबर को ही तनाव बढ़ रहा था, जब अधिकारी विरोधों पर बारीकी से नजर रख रहे थे।",
+          "ar": "بعد اسبوع، في 9 اكتوبر، خرج عشرات الالاف في لايبزيغ من دون اندلاع عنف. لكن التوتر كان يتصاعد بالفعل في 2 اكتوبر، حين كانت السلطات تراقب الاحتجاجات عن كثب."
         },
         "importance": {
           "ru": "Так лучше видно, как мирная революция набирала силу шаг за шагом.",
           "de": "So wird sichtbar, wie die friedliche Revolution Schritt fuer Schritt an Kraft gewann.",
-          "en": "This shows how the Peaceful Revolution gained strength step by step."
+          "en": "This shows how the Peaceful Revolution gained strength step by step.",
+          "fr": "Cela montre comment la revolution pacifique gagna en force pas à pas.",
+          "es": "Esto muestra como la revolucion pacifica gano fuerza paso a paso.",
+          "it": "Questo mostra come la rivoluzione pacifica acquisto forza passo dopo passo.",
+          "pt": "Isso mostra como a revolucao pacifica ganhou forca passo a passo.",
+          "nl": "Dit laat zien hoe de vreedzame revolutie stap voor stap kracht won.",
+          "pl": "To pokazuje, jak pokojowa rewolucja krok po kroku nabierala sily.",
+          "tr": "Bu, Bariscil Devrim'in adim adim nasil guc kazandigini gosterir.",
+          "zh": "这显示了和平革命如何一步步增强力量。",
+          "ja": "平和革命が一歩ずつ力を増していったことが分かります。",
+          "ko": "이는 평화혁명이 한 걸음씩 힘을 얻어 갔음을 보여준다.",
+          "hi": "यह दिखाता है कि शांतिपूर्ण क्रांति ने कदम-दर-कदम शक्ति कैसे पाई।",
+          "ar": "يوضح ذلك كيف اكتسبت الثورة السلمية قوتها خطوة بعد خطوة."
         }
       }
     ]
@@ -50,7 +122,19 @@
   "fact": {
     "ru": "Понедельничные демонстрации выросли из молитв за мир в Николаикирхе и других церквях Лейпцига.",
     "de": "Die Montagsdemonstrationen entstanden aus Friedensgebeten in der Nikolaikirche und anderen Leipziger Kirchen.",
-    "en": "The Monday demonstrations grew out of prayers for peace in St Nicholas Church and other Leipzig churches."
+    "en": "The Monday demonstrations grew out of prayers for peace in St Nicholas Church and other Leipzig churches.",
+    "fr": "Les manifestations du lundi naquirent des prieres pour la paix à l'eglise Saint-Nicolas et dans d'autres eglises de Leipzig.",
+    "es": "Las manifestaciones de los lunes surgieron de las oraciones por la paz en la iglesia de San Nicolas y otras iglesias de Leipzig.",
+    "it": "Le manifestazioni del lunedi nacquero dalle preghiere per la pace nella chiesa di San Nicola e in altre chiese di Lipsia.",
+    "pt": "As manifestacoes de segunda-feira surgiram das oracoes pela paz na Igreja de Sao Nicolau e em outras igrejas de Leipzig.",
+    "nl": "De maandagdemonstraties kwamen voort uit vredesgebeden in de Nikolaikirche en andere kerken in Leipzig.",
+    "pl": "Demonstracje poniedzialkowe wyrosly z modlitw o pokoj w kosciele sw. Mikolaja i innych kosciolach Lipska.",
+    "tr": "Pazartesi gosterileri, Aziz Nikola Kilisesi ve Leipzig'deki diger kiliselerdeki baris dualarindan dogdu.",
+    "zh": "星期一示威源于圣尼古拉教堂和莱比锡其他教堂的和平祈祷。",
+    "ja": "月曜デモは、聖ニコライ教会やライプツィヒの他の教会での平和祈祷から生まれました。",
+    "ko": "월요 시위는 성 니콜라이 교회와 라이프치히의 다른 교회들에서 열린 평화 기도에서 비롯되었다.",
+    "hi": "सोमवार प्रदर्शनों की शुरुआत सेंट निकोलस चर्च और लाइपज़िग के अन्य चर्चों में शांति प्रार्थनाओं से हुई।",
+    "ar": "نشأت مظاهرات الاثنين من صلوات السلام في كنيسة القديس نيكولاس وكنائس اخرى في لايبزيغ."
   },
   "sources": [
     {
